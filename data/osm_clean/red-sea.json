@@ -1039,8 +1039,10 @@
       "name": "Adantia K.",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "perplexity_limited"
+      "validated": "true",
+      "validation_source": "redseawreckproject.com,thescubanews.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "OSM name 'Adantia K.' is a likely misspelling — correct vessel name is 'Adamantia K' (ex-Teti Nomicos, etc.); OSM name not changed to preserve data linkage"
     }
   },
   {
@@ -1614,8 +1616,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "redsea-diving.com,oceansoul.blue,wrecksatrisk.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "deepbluediver.uk,thescubanews.com,cdws.travel,seawolf-safari.de,redseawreckproject.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -1634,8 +1636,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "wrecksatrisk.com,redsea-diving.com,oceansoul.blue",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "redseawreckproject.com,deepbluediver.uk,divers-guide.com,cdws.travel,redsea-diving.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -2213,6 +2215,7 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "qa_note": "Coordinates (29.504°N/34.920°E) are in Eilat waters — this wreck is in Israeli territory, not Egyptian Red Sea. Also appears in jordan-aqaba.json. Possible cross-listing issue. Vessel identity unresolved.",
     "tags": {
       "historic": "wreck",
       "name": "Yatouche",
@@ -2239,8 +2242,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-inaqaba.com,arabdivers.jo,theunderwaterclub.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "seawondersdivingcenter.com,sinai-divers.com,jordan-travel.com,arabdivers.jo,padi.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -2251,7 +2254,7 @@
     "osm_type": "node",
     "depth": 30,
     "site_type": "wreck",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
@@ -2260,8 +2263,9 @@
       "name:he": "סופה",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "perplexity_limited"
+      "validated": "true",
+      "validation_source": "eilatdiving.co.il,idf.il",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -2781,6 +2785,7 @@
     "osm_id": 1068557838,
     "osm_type": "node",
     "depth": 30,
+    "qa_note": "Identity of this wreck is unconfirmed. If this is the SS Turbo (lost 1942, 4782 GRT, 117m), the confirmed wreck location is ~25.16°N/35.25°E near Ras Banas — ~130km north of OSM coordinates. OSM alt_name Atlas adds further uncertainty. Do not assert vessel identity without independent source confirmation.",
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -2804,6 +2809,7 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "qa_note": "Coordinates (23.617°N/36.205°E) place this at Zabargad Island, NOT Brothers Islands as stated in original description. Also, a separate 'Neptuna' entry exists at approximately the same coordinates (~30m away) — these are likely duplicates of the same wreck. Deduplication needed.",
     "tags": {
       "historic": "wreck",
       "name": "Khanka",
@@ -2846,8 +2852,9 @@
       "name": "Sirnaka Island",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "perplexity_limited"
+      "validated": "true",
+      "validation_source": "redsea-diving.com,omneia.de",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -3166,8 +3173,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "dive-inaqaba.com,arabdivers.jo,theunderwaterclub.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "seawondersdivingcenter.com,sinai-divers.com,jordan-travel.com,arabdivers.jo,padi.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -3672,7 +3679,7 @@
     "lon": 33.831981,
     "osm_id": 5708994007,
     "osm_type": "node",
-    "depth": 3,
+    "depth": 9,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -4542,7 +4549,8 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "2002-10-17",
       "validated": true,
-      "validation_source": "perplexity_limited"
+      "validation_source": "perplexity_limited",
+      "qa_note": "CORRECTION: Previous description incorrectly stated 'intentionally sunk as artificial reef'. Research indicates vessel caught fire and sank accidentally on 2002-10-17. Not a purpose-scuttled wreck. Remove all references to deliberate scuttling, pre-cut openings, or artificial reef purpose."
     }
   },
   {
@@ -4704,8 +4712,9 @@
     "tags": {
       "name": "Levanzo Wreck",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "perplexity_limited"
+      "validated": "true",
+      "validation_source": "sadko-safarifleet.com,royalevolution.com,cassiopeiasafari.com,divescover.com,divingattitude.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -4772,8 +4781,10 @@
     "tags": {
       "name": "Sha'ab Ohroob / Wreck of Sabri Baba 1",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "perplexity_limited"
+      "validated": "true",
+      "validation_source": "perplexity_limited",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Sabri Baba (IMO 8536524, 134 GT, built 1985, sank September 17, 2019) not yet documented as an established recreational dive site in any operator database — single ScubaBoard source only"
     }
   },
   {

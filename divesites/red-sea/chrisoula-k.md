@@ -13,15 +13,15 @@ addedBy: osm_import
 
 # Chrisoula K
 
-Known as the "Tile Wreck" for its cargo of Italian floor tiles still visible in the holds — a 98-metre Greek freighter grounded on Abu Nuhas reef in 1981, now colonised in vivid soft corals and sponges.
+Known as the "Tile Wreck" for its cargo of Italian floor tiles still visible in the holds — a Greek freighter that struck Abu Nuhas reef in 1981, now colonised in vivid soft corals and sponges.
 
 ## Overview
 
-The Chrisoula K (built in 1954 in Lübeck, Germany as the *Dora Oldendorff*; renamed the *Anna B* in 1970; renamed *Chrisoula K* when purchased by Greek Clarion Marine Company in 1979) was a 98-metre cargo vessel of approximately 3,720–3,807 GRT — sources give slightly differing figures for her gross tonnage. On the night of 30–31 August 1981, she ran aground at full speed on the northeastern edge of Sha'ab Abu Nuhas while en route from Italy to Jeddah with a cargo of Italian floor tiles. Abu Nuhas reef is one of the Red Sea's most notorious navigation hazards — a shallow coral shoal in the busy Strait of Gubal shipping lane that has claimed multiple vessels. The Chrisoula K settled with her stern at approximately 25 metres and her bow in water as shallow as 3 metres, resting approximately upright on the reef slope. She is the most accessible of the four Abu Nuhas wrecks, with a well-preserved superstructure, open cargo holds full of her original tile cargo, and a hull now densely covered in soft corals and sponges after four decades of growth.
+The Chrisoula K was built as the *Dora Oldendorff*, launched December 16, 1953 and completed early 1954 at Orenstein, Koppel und Lübecker Maschinenbau-Gesellschaft AG in Lübeck, Germany (hull #467). She was 3,807 GRT (the figure of 3,720 sometimes cited is the deadweight tonnage, not GRT). Sources disagree on her length — approximately 98–106 metres (thescubanews.com and cdws.travel cite 98m; seawolf-safari.de cites 101m; deepbluediver.uk cites 106.45m/320ft). Beam: 14.8 metres. She was powered by a 2-stroke MAN diesel G9Z 52/90, 9 cylinders, 2,700 hp. She was renamed *Anna B* in 1970, then *Chrisoula K* when sold. On the night of 30–31 August 1981 (official casualty report dated September 1, 1981), she struck the northeastern corner of Sha'ab Abu Nuhas reef at full speed while en route from Naples, Italy to Jeddah, Saudi Arabia, carrying approximately 3,700 tonnes of Italian floor tiles — hence her nickname the "Tile Wreck." All 21 crew were rescued unharmed by the Egyptian Navy. The vessel was declared a total constructive loss and not salvaged. She settled with her stern at approximately 25 metres and her bow in water as shallow as 3 metres, resting approximately upright on the reef slope.
 
 ## Site Information
 
-- **Location**: Shaab Abu Nuhas reef, Strait of Gubal, northern Egyptian Red Sea (between Hurghada and the Sinai)
+- **Location**: Shaab Abu Nuhas reef, Strait of Gubal, northern Egyptian Red Sea
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -30,33 +30,20 @@ The Chrisoula K (built in 1954 in Lübeck, Germany as the *Dora Oldendorff*; ren
 - **Current**: Moderate; can be strong on the reef top
 - **Best Time**: October to May
 
-## Marine Life
-
-The entire exterior of the Chrisoula K is encrusted with soft corals, sponges, and encrusting growth. Lionfish inhabit the shadowed sections of the superstructure and cargo hold entrances. Schools of glassy sweepers fill the bridge and interior spaces. Arabian Picasso triggerfish patrol the exterior. Moray eels occupy every pipe and gap in the hull. Nudibranchs, flatworms, and small gobies make their homes in the encrusted surfaces. Groupers hold position in the deeper sections near the stern. Dolphins are occasional visitors to the reef system. The shallow bow section supports healthy reef growth accessible even to snorkelers.
-
-## Dive Profile
-
-Descend to the main deck at 12–15 metres and work aft toward the bridge superstructure. The interior of the cargo holds is accessible and contains intact Italian tiles — an arresting sight that justifies the "Tile Wreck" name. The stern and propeller at 26 metres is the deepest point and the most atmospheric section. The bow section, barely submerged, can be covered on the return ascent. Total wreck length means a complete circuit requires good air management. Allow time for the safety stop on the shallow bow section at 3–5 metres.
-
 ## Entry and Exit
 
-Day trip from El Gouna (the closest departure point), Hurghada (2.5 hours), or Sharm el-Sheikh (3.5 hours). Liveaboard access from either end of the Strait of Gubal provides morning and evening dives avoiding day-boat crowds. Mooring buoy on the reef. Entry by backroll or giant stride directly onto the wreck. Strong current on the reef top can make controlled descent challenging — follow the mooring line.
+Day trip from El Gouna (the closest departure point), Hurghada (approximately 2.5 hours), or Sharm el-Sheikh. Liveaboard access from either end of the Strait of Gubal provides morning and evening dives. Mooring buoy on the reef. Strong current on the reef top can make controlled descent challenging — follow the mooring line.
 
 ## Tips and Recommendations
 
-- The Tile Wreck cargo hold is the site's unique feature — plan your dive to spend significant time there before other sections
+- The Tile Wreck cargo hold is the site's unique feature — plan your dive to spend significant time there
 - Carry a torch for the hold interiors; the tile cargo rewards close inspection and illumination
 - Abu Nuhas also has the Giannis D, Carnatic, and Kimon M — a liveaboard multi-wreck day here is exceptional
-- Visit on weekday mornings to avoid day-boat crowds from El Gouna
-- Nitrox allows extended time in the 20-26 metre stern section within safe limits
+- Nitrox allows extended time in the 20–25 metre stern section within safe limits
 
 ## Safety Considerations
 
-The Chrisoula K is a penetration dive in the cargo holds — open water divers should limit themselves to the hold entrances and not enter without training. Fallen beams and poles create obstruction hazards in the interior. Silt disturbance inside the hull reduces visibility rapidly. Current on the reef top can be strong; use the mooring line for controlled descent and ascent. Strong surface current above the shallow bow requires careful boat pickup management. Fire coral covers sections of the upper hull.
-
-## Photography
-
-The Italian floor tiles in the cargo hold are the signature photograph — wide-angle with a torch illuminating the tile cargo in the hold interior. The stern propeller at 26 metres is a classic wreck-photographer's composition. The superstructure covered in soft corals rewards close-focus wide-angle shots at 12–18 metres with natural light from above. Lionfish portraits among sponge growth are consistently available throughout the dive.
+The Chrisoula K is a penetration dive in the cargo holds — divers should not enter without appropriate overhead environment training. Fallen beams and poles create obstruction hazards in the interior. Silt disturbance inside the hull reduces visibility rapidly. Current on the reef top can be strong; use the mooring line for controlled descent and ascent.
 
 ---
-*Sources: [redsea-diving.com - Chrisoula K](https://www.redsea-diving.com/chrisoula-k/), [OceanSoul - Chrisoula K](https://oceansoul.blue/dive-sites/shaab-abu-nuhas/chrisoula-k/), [Wrecks at Risk](https://wrecksatrisk.com/locations/chrisoula-k/). Last updated 2026-05-25.*
+*Sources: [Deep Blue Diver - Chrisoula K](https://deepbluediver.uk), [The Scuba News - Chrisoula K](https://thescubanews.com), [CDWS](https://cdws.travel), [Seawolf Safari](https://seawolf-safari.de), [Red Sea Wreck Project](https://redseawreckproject.com). Last updated 2026-06-27.*

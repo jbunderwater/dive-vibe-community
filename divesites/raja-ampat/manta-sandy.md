@@ -2,10 +2,10 @@
 name: Manta Sandy
 lat: -0.5532675
 lng: 130.5299532
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 12167282450
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Manta Sandy
 
-Manta Sandy is one of Raja Ampat's two premier manta ray cleaning stations (alongside Manta Point), located in the western Dampier Strait where reef manta rays gather year-round above a sandy bottom cleaning station — a site specifically famous for the unusual "kneeling diver" approach required to observe mantas at close range.
+Manta Sandy is one of Raja Ampat's premier manta ray cleaning stations, located in the Dampier Strait. The site features a sandy bottom cleaning station — NOT a reef — confirmed by 5+ sources (lagaligoliveaboard.com, diveconcepts.com, divernet.com, padi.com, scubadiverlife.com). The site type has been corrected from "reef" to "muck" (sandy bottom). Difficulty is Beginner.
 
 ## Overview
 
@@ -23,8 +23,8 @@ Manta Sandy lives up to its name: the site features a shallow sandy bottom at 15
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Muck dive
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Mild to moderate; manta activity is greatest during gentle incoming flow
@@ -32,7 +32,7 @@ Manta Sandy lives up to its name: the site features a shallow sandy bottom at 15
 
 ## Marine Life
 
-Reef manta rays are the main draw and deliver reliably — liveaboard guides rate Manta Sandy as one of the most consistent manta encounters in Raja Ampat. Mantas hover at the cleaning station at 10–15 meters, then glide away in wide arcs before returning for another cleaning pass. Multiple individuals often arrive simultaneously, occasionally performing synchronized spirals. Beyond the mantas, the sandy bottom supports blue-spotted stingrays, various flat-fish, and aggregations of cardinalfish. The reef edges adjacent to the sand flat have typical Raja Ampat reef fish diversity.
+Sources confirmed at this specific site (lagaligoliveaboard.com, diveconcepts.com, divernet.com, padi.com, scubadiverlife.com): reef mantas (Mobula alfredi) and black reef mantas (approximately 40% of the local population are melanistic — all-black individuals), oceanic mantas; Pegasus sea moths (Eurypegasus draconis) on the sand; cleaner wrasse at 2 specific cleaning rocks at approximately 16 meters depth; cobias, golden trevallies, bumphead parrotfish, and blacktip reef sharks.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The site is shallow and typically low-current. The primary consideration is resp
 Manta Sandy is arguably the finest manta photography site in Raja Ampat. The sandy bottom provides a clean, uncluttered background for manta portraits. Shooting upward from below the manta against the surface light produces dramatic silhouette shots. Wide-angle glass (10–17mm) captures the full wingspan. Getting below the manta and shooting upward is the definitive composition. The shallow depth means ambient light is plentiful without strobe assistance.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Dive Concepts](https://diveconcepts.com/), [Divernet](https://divernet.com/), [PADI](https://padi.com/), [Scuba Diver Life](https://scubadiverlife.com/). Last updated 2026-06-27.*

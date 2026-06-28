@@ -11,8 +11,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -27,8 +29,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -43,8 +47,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -59,8 +65,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -75,8 +83,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -91,8 +101,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -107,8 +119,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -124,7 +138,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "divessi.com, scubaboard_research"
+      "validation_source": "divessi.com, scubaboard_research",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -139,8 +155,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "scubaboard_research"
+      "validated": false,
+      "validation_source": "scubaboard_research",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: scubaboard_research"
     }
   },
   {
@@ -156,7 +174,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -171,8 +191,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "scubaboard_research"
+      "validated": false,
+      "validation_source": "scubaboard_research",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: scubaboard_research"
     }
   },
   {
@@ -187,8 +209,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -204,7 +228,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "scubaboard_research, vimeo.com"
+      "validation_source": "scubaboard_research, vimeo.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -220,7 +246,9 @@
       "addedBy": "fill_new_destinations",
       "validated": true,
       "validation_source": "scubaboard_research, padi.com, dive_operator_sites",
-      "coordinate_source": "rmp_gps_map_2026"
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
     }
   },
   {
@@ -235,8 +263,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -251,8 +281,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -268,7 +300,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatansplashinn.com, scubaboard_research"
+      "validation_source": "roatansplashinn.com, scubaboard_research",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -299,8 +333,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -316,7 +352,8 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, sundiversroatan.com, roatandivers.com"
+      "validation_source": "coconuttreedivers.com, sundiversroatan.com, roatandivers.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -331,8 +368,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -347,8 +386,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -363,8 +404,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -379,8 +422,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -395,8 +440,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "scubaboard_research"
+      "validated": false,
+      "validation_source": "scubaboard_research",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: scubaboard_research"
     }
   },
   {
@@ -411,8 +458,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -427,8 +476,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -443,8 +494,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -459,8 +512,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -476,7 +531,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatan-diving.com, scubaboard_research"
+      "validation_source": "roatan-diving.com, scubaboard_research",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -491,8 +548,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -507,8 +566,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -524,7 +585,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -555,8 +618,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -571,8 +636,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -587,8 +654,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -603,8 +672,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -619,8 +690,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -635,8 +708,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -652,7 +727,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanclearwater.com"
+      "validation_source": "roatanclearwater.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -667,8 +744,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -715,8 +794,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -732,7 +813,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -747,8 +830,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -763,8 +848,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -779,8 +866,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -795,8 +884,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -811,8 +902,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -827,8 +920,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -844,7 +939,8 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, sundiversroatan.com, roatan-octopusdiveschool.com"
+      "validation_source": "coconuttreedivers.com, sundiversroatan.com, roatan-octopusdiveschool.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -859,8 +955,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -891,8 +989,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -907,8 +1007,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -923,8 +1025,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -939,8 +1043,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -955,8 +1061,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -972,7 +1080,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -987,8 +1097,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1003,8 +1115,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1019,8 +1133,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1035,8 +1151,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1052,7 +1170,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatandivers.com"
+      "validation_source": "roatandivers.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -1066,8 +1186,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "scubaboard_research, dive_operator_sites, xray_mag"
+      "validated": false,
+      "validation_source": "scubaboard_research, dive_operator_sites, xray_mag",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: validation_source contains only pseudo-sources (scubaboard_research, dive_operator_sites) plus xray_mag without a real article URL. Downgraded to validated=False pending 3 real URL sources."
     }
   },
   {
@@ -1082,8 +1204,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1098,8 +1222,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1115,7 +1241,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -1130,8 +1258,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1146,8 +1276,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1162,8 +1294,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1178,8 +1312,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1194,8 +1330,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1210,8 +1348,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1226,8 +1366,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1242,8 +1384,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1259,7 +1403,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatandivers.com"
+      "validation_source": "roatandivers.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -1274,8 +1420,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1290,8 +1438,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1306,8 +1456,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1322,8 +1474,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1338,8 +1492,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1402,8 +1558,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1419,7 +1577,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatandivers.com"
+      "validation_source": "roatandivers.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -1434,8 +1594,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1450,8 +1612,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1466,8 +1630,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1482,8 +1648,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1498,8 +1666,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1514,8 +1684,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1530,8 +1702,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1546,8 +1720,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1578,8 +1754,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1594,8 +1772,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1610,8 +1790,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1626,8 +1808,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, sandy_bay_wall_corridor"
+      "validated": false,
+      "validation_source": "geographic_context, sandy_bay_wall_corridor",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, sandy_bay_wall_corridor"
     }
   },
   {
@@ -1642,7 +1826,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatan-diving.com, dive_operator_sites, sundiversroatan"
+      "validation_source": "roatan-diving.com, dive_operator_sites, sundiversroatan",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
     }
   },
   {
@@ -1657,8 +1843,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1673,8 +1861,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1705,8 +1895,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1721,8 +1913,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1738,7 +1932,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatandivers.com"
+      "validation_source": "roatandivers.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -1753,8 +1949,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1769,8 +1967,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1784,8 +1984,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": false,
+      "validation_source": "rmp_gps_only_no_published_source",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Previous source was AI tool (perplexity). Marine life descriptions removed as unverified. Needs real source research."
     },
     "depth_max": 15
   },
@@ -1801,8 +2003,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1817,8 +2021,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1833,8 +2039,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1849,8 +2057,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1865,8 +2075,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1881,8 +2093,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1897,8 +2111,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1913,8 +2129,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1930,7 +2148,9 @@
       "addedBy": "fill_new_destinations",
       "validated": true,
       "validation_source": "roatansplashinn.com, dive_operator_sites, ikelite.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 2 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
     }
   },
   {
@@ -1945,8 +2165,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -1961,8 +2183,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -1977,8 +2201,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2010,7 +2236,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com"
+      "validation_source": "coconuttreedivers.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -2025,8 +2253,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2041,7 +2271,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatansplashinn.com, dive_operator_sites, scuba_diving_guides"
+      "validation_source": "roatansplashinn.com, dive_operator_sites, scuba_diving_guides",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
     }
   },
   {
@@ -2056,8 +2288,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2072,8 +2306,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2088,8 +2324,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, anthonyskey.com, dreamwrecks.com, padi.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "validation_source": "roatansplashinn.com,anthonyskey.com,dreamwrecks.com,reefgliders.com,honduras.greatestdivesites.com",
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Vessel is 75m/230ft cargo vessel (not 50m shrimp boat). Three sections confirmed by 4 sources. Depth ~33m bottom, mast ~15m."
     }
   },
   {
@@ -2105,7 +2343,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
+      "validation_source": "roatansplashinn.com,anthonyskey.com,dreamwrecks.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Alternate mooring for El Aguila complex (75m/230ft cargo vessel, not 220ft). See El Aguila Wreck entry."
     }
   },
   {
@@ -2120,8 +2360,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "scubaboard_research, roatan_marine_park_data"
+      "validated": false,
+      "validation_source": "scubaboard_research, roatan_marine_park_data",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: scubaboard_research, roatan_marine_park_data"
     }
   },
   {
@@ -2136,8 +2378,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "scubaboard_research, roatan_dive_operators"
+      "validated": false,
+      "validation_source": "scubaboard_research, roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: scubaboard_research, roatan_dive_operators"
     }
   },
   {
@@ -2152,8 +2396,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2168,8 +2414,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2184,8 +2432,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2200,8 +2450,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2216,8 +2468,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2233,7 +2487,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "makarl.wordpress.com, scubaboard_research"
+      "validation_source": "makarl.wordpress.com, scubaboard_research",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -2248,8 +2504,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -2264,8 +2522,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2280,8 +2540,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2313,7 +2575,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -2328,8 +2592,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2344,8 +2610,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2361,7 +2629,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatandivers.com"
+      "validation_source": "roatandivers.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -2377,7 +2647,8 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com"
+      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -2392,8 +2663,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2408,8 +2681,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2424,8 +2699,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2440,8 +2717,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatansplashinn.com, roatan-octopusdiveschool.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "validation_source": "roatansplashinn.com,roatan-diving.com,sundiversroatan.com",
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Site is cavern/chimney chute (120ft chute at 50ft depth into circular cavern at 30ft). Nurse shark claim removed - not confirmed at this site. Confirmed marine life: spotted drum, glassy sweepers, crabs, lobsters, nudibranchs."
     }
   },
   {
@@ -2456,8 +2735,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2473,7 +2754,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -2488,8 +2771,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2504,8 +2789,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -2520,8 +2807,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2537,7 +2826,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "scubaboard_research, roatansplashinn.com"
+      "validation_source": "scubaboard_research, roatansplashinn.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -2552,8 +2843,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2568,8 +2861,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2585,7 +2880,8 @@
       "addedBy": "fill_new_destinations",
       "validated": true,
       "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-27"
     }
   },
   {
@@ -2600,8 +2896,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2616,8 +2914,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2633,7 +2933,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -2648,8 +2950,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2664,8 +2968,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2680,8 +2986,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2696,8 +3004,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2711,8 +3021,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "scubaboard_research, dive_operator_sites, honduras.greatestdivesites.com"
+      "validated": false,
+      "validation_source": "scubaboard_research, dive_operator_sites, honduras.greatestdivesites.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: scubaboard_research, dive_operator_sites, honduras.greatestdivesites.com"
     }
   },
   {
@@ -2727,8 +3039,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2743,8 +3057,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2760,7 +3076,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -2775,8 +3093,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2791,8 +3111,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2807,8 +3129,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2823,8 +3147,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2839,8 +3165,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2855,8 +3183,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2871,7 +3201,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, roatan-diving.com, dive_operator_sites"
+      "validation_source": "scubaboard_research, roatan-diving.com, dive_operator_sites",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
     }
   },
   {
@@ -2886,8 +3218,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2902,8 +3236,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -2918,8 +3254,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2934,8 +3272,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -2950,8 +3290,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "rmp_gps_only_no_published_source",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "No published information found in any source. Asian origin claim removed - unverified speculation."
     }
   },
   {
@@ -2966,8 +3308,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -2983,7 +3327,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -2998,8 +3344,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3014,8 +3362,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3030,8 +3380,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -3046,8 +3398,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -3063,7 +3417,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
+      "validation_source": "roatansplashinn.com,roatantourismbureau.com,dreamwrecks.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "91m/300ft freighter confirmed. Stern tilted to starboard. Cargo hold collapsed."
     }
   },
   {
@@ -3078,8 +3434,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, anthonyskey.com, dreamwrecks.com, roatantourismbureau.com",
-      "coordinate_source": "rmp_gps_map_2026"
+      "validation_source": "roatansplashinn.com,roatantourismbureau.com,dreamwrecks.com,anthonyskey.com,sundiversroatan.com",
+      "coordinate_source": "rmp_gps_map_2026",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Vessel is 91m/300ft freighter (not 73m container ship). Sunk 2002 after fire. Cargo hold has partially collapsed."
     }
   },
   {
@@ -3094,8 +3452,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -3110,8 +3470,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -3127,7 +3489,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -3141,8 +3505,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -3157,8 +3523,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3173,8 +3541,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -3189,8 +3559,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3213,8 +3585,10 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "openstreetmap_wreck_data"
+      "validated": false,
+      "validation_source": "openstreetmap_only_no_published_source",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "No published information found. Marine life description was regional inference, removed."
     }
   },
   {
@@ -3229,8 +3603,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3245,8 +3621,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "roatan_dive_operators",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators"
     }
   },
   {
@@ -3261,8 +3639,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3277,8 +3657,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -3293,8 +3675,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators, geographic_name"
+      "validated": false,
+      "validation_source": "roatan_dive_operators, geographic_name",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -3309,8 +3693,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3325,8 +3711,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3341,8 +3729,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3357,8 +3747,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "rmp_gps_only_no_published_source",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "No published information found as a named wreck dive. Military vessel claim removed - unverified speculation."
     }
   },
   {
@@ -3373,8 +3765,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validated": false,
+      "validation_source": "rmp_gps_only_no_published_source",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "No published information found. Argentine registry claim removed - unverified speculation."
     }
   },
   {
@@ -3389,7 +3783,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatan-diving.com, dive_operator_sites, divescover"
+      "validation_source": "roatan-diving.com, dive_operator_sites, divescover",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: ['dive_operator_sites']"
     }
   },
   {
@@ -3404,8 +3800,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3420,8 +3818,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3437,7 +3837,9 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatanmarinepark.org"
+      "validation_source": "roatanmarinepark.org",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -3452,8 +3854,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3468,8 +3872,10 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
+      "validated": false,
+      "validation_source": "geographic_context, rmp_mooring_site, roatan_barrier_reef_wall",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: No real URL sources. Sources were: geographic_context, rmp_mooring_site, roatan_barrier_reef_wall"
     }
   },
   {
@@ -3495,7 +3901,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "roatantourismbureau.com, payamag.com, roatan_historical_records"
+      "validation_source": "roatantourismbureau.com,payamag.com,shipspotting.com",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Beached in Dixon Cove 1981, NOT an underwater dive wreck. 107m long, built 1951 Germany as Rimon for Zim Lines. Prince of Wales claim removed - no documentary basis."
     }
   },
   {
@@ -4142,7 +4550,9 @@
       "validated": true,
       "validation_source": "roatan-diving.com",
       "depth_inferred_from_name": false,
-      "validated_at": "2026-04-19"
+      "validated_at": "2026-04-19",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -4466,7 +4876,9 @@
       "validated": true,
       "validation_source": "sundiversroatan.com",
       "depth_inferred_from_name": false,
-      "validated_at": "2026-04-19"
+      "validated_at": "2026-04-19",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {
@@ -5521,7 +5933,9 @@
       "validated": true,
       "validation_source": "cocoviewresort.com",
       "depth_inferred_from_name": false,
-      "validated_at": "2026-04-19"
+      "validated_at": "2026-04-19",
+      "last_qa_date": "2026-06-27",
+      "qa_note": "Re-audit 2026-06-27: Has 1 real source(s) but <3 required for full validation. Pseudo-sources: []"
     }
   },
   {

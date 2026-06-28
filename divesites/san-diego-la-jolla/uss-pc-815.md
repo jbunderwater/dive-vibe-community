@@ -55,4 +55,4 @@ This is an advanced dive primarily of historical interest rather than structural
 Advanced divers only. 27 metres requires careful gas management and controlled ascent rate with safety stop. The site sits in a busy shipping lane approach — maintain surface marker buoy discipline. Unexploded ordnance may be present: do not handle any metal objects found on the site. Moderate current possible; check pre-dive.
 
 ---
-*Sources: [Wikipedia — USS PC-815](https://en.wikipedia.org/wiki/USS_PC-815), [Wrecked in my rEvo — PC-815 aka the "jinxed sub-chaser" (90 fsw)](https://wreckedinmyrevo.com/2021/05/16/pc-815-aka-the-jinxed-sub-chaser-san-diego-90-fsw/), [Wikipedia — Military career of L. Ron Hubbard](https://en.wikipedia.org/wiki/Military_career_of_L._Ron_Hubbard). Last updated 2026-05-17.*
+*Sources: [Wikipedia — USS PC-815](https://en.wikipedia.org/wiki/USS_PC-815), [PC-815 aka the "jinxed sub-chaser" (90 fsw) — Wrecked in my rEvo](https://wreckedinmyrevo.com/2021/05/16/pc-815-aka-the-jinxed-sub-chaser-san-diego-90-fsw/), [Wikipedia — Military career of L. Ron Hubbard](https://en.wikipedia.org/wiki/Military_career_of_L._Ron_Hubbard). Last updated 2026-06-27.*

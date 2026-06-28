@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Melissa's Garden
 
-Melissa's Garden is one of the most celebrated hard coral gardens on Earth — a vast, shallow reef near the Fam Islands where pristine staghorn acropora stretches to the horizon in every direction, creating an underwater landscape of breathtaking beauty.
+Melissa's Garden is one of the most celebrated hard coral gardens in Raja Ampat — a vast, shallow reef near the Fam Islands named after Melissa Ammer, daughter of Max Ammer, founder of Papua Diving Resorts. Multiple independent sources document it as a coral plateau at 5–25 meters depth with extraordinary biodiversity.
 
 ## Overview
 
-Named after a diver who discovered and documented the site, Melissa's Garden is situated in the remote Fam Island group in southern Raja Ampat, an area that sees relatively little boat traffic compared to the Dampier Strait. What awaits below the surface has stunned marine biologists and divers alike: an immense, undisturbed acropora forest carpeting the reef flat and shallow slopes, with staghorn tables and branching corals in extraordinary condition. This is what coral reefs looked like before bleaching, anchor damage, and dynamite fishing took their toll elsewhere. Visibility is typically excellent at 20–30 meters. Water temperature averages 27–29°C.
+Melissa's Garden is situated in the Fam Island group in southern Raja Ampat, an area that sees relatively little boat traffic compared to the Dampier Strait. The site is a coral plateau with the reef flat and shallow slopes covered in acropora and other hard corals. Visibility is typically excellent. Water temperature averages 27–29°C. The naming of the site after Melissa Ammer is confirmed independently by papua-diving.com and diveconcepts.com.
 
 ## Site Information
 
@@ -26,13 +26,13 @@ Named after a diver who discovered and documented the site, Melissa's Garden is 
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Typical Visibility**: Typically excellent
 - **Current**: Typically mild; can strengthen on tidal exchange
 - **Best Time**: October to April
 
 ## Marine Life
 
-The staghorn and tabletop acropora gardens form complex three-dimensional habitat that supports an astonishing density of reef fish. Schools of anthias hover above every coral head. Humphead parrotfish graze in the gardens. Hawksbill turtles forage between coral heads. The site also attracts bumphead parrotfish in large groups early in the morning. Blue-spotted lagoon rays rest in sandy pockets between coral formations. The biodiversity counts at Melissa's Garden have contributed to Raja Ampat's global ranking as the apex of marine species richness.
+Sources confirmed at this specific site: pygmy seahorses, tasseled wobbegong sharks, blacktip reef sharks, grey reef sharks, Napoleon wrasse, bumphead parrotfish, hawksbill turtles, and schooling barracuda (confirmed by papua-diving.com, lagaligoliveaboard.com, diveconcepts.com, meridianadventuredive.com, and scubaboard.com). The coral plateau habitat supports a wide array of reef fish above the acropora formations.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The shallow nature of Melissa's Garden makes it relatively forgiving from a dept
 Wide-angle photography here is exceptional. A 16mm or 14mm lens captures the sweep of the staghorn forest with divers in the background, conveying the garden's scale. Shooting horizontally across the reef flat at the level of the coral tops, with a diver silhouetted against the blue water column, produces iconic imagery. Natural light at 10 meters is abundant during morning hours. The acropora colors range from pale cream to vivid purple and blue.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving](https://papua-diving.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Dive Concepts](https://diveconcepts.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-06-27.*

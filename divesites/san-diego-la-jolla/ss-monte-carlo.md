@@ -3,7 +3,7 @@ name: SS Monte Carlo
 lat: 32.6742831
 lng: -117.1731815
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 6
 entryType: shore
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The SS Monte Carlo (originally SS McKittrick) was a concrete and iron oil tanker
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 6 meters
 - **Water Temperature**: 15–20°C
 
 ## Wreck History
@@ -55,4 +55,6 @@ Monitor local news following winter storms: the wreck is only meaningfully visib
 Surge can be severe, pushing divers into concrete framing and metal reinforcement. Visibility is typically very poor due to sand suspension. The site is extremely shallow — buoyancy control and awareness of the bottom structure are critical to avoid injury from surge. Do not enter interior hull spaces. Follow any posted City of Coronado safety guidelines.
 
 ---
-*Sources: [Wikipedia — SS Monte Carlo](https://en.wikipedia.org/wiki/SS_Monte_Carlo), [Hidden San Diego — SS Monte Carlo](https://hiddensandiego.com/things-to-do/places/ss-monte-carlo), [La Jolla Mom — SS Monte Carlo Coronado Shipwreck](https://lajollamom.com/ss-monte-carlo-coronado-shipwreck/). Last updated 2026-05-17.*
+*Sources: [Wikipedia — SS Monte Carlo](https://en.wikipedia.org/wiki/SS_Monte_Carlo), [Hidden San Diego — SS Monte Carlo](https://hiddensandiego.com/things-to-do/places/ss-monte-carlo), [La Jolla Mom — SS Monte Carlo Coronado Shipwreck](https://lajollamom.com/ss-monte-carlo-coronado-shipwreck/). Last updated 2026-06-27.*
+
+**QA note (2026-06-27):** Depth corrected from 20m to 6m — the OSM node depth of 20m was erroneous. Published sources confirm the wreck lies in 1–6 metres of water, mostly buried under shifting sand. The 20m figure likely referred to the ocean bottom elevation at the OSM node location, not the actual dive depth.

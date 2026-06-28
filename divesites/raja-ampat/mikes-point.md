@@ -2,7 +2,7 @@
 name: Mike's Point
 lat: -0.5136831
 lng: 130.674383
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wall
@@ -13,50 +13,29 @@ addedBy: osm_import
 
 ## Mike's Point
 
-Mike's Point is a wall dive site in Raja Ampat, West Papua, Indonesia, named after a diver who explored the site.
+Mike's Point is a wall dive in central Raja Ampat named after Mike Ammer, son of Max Ammer, founder of Papua Diving Resorts. The site features distinctive crevices and overhangs formed by WWII US Air Force bombing — the island's shape resembled a Japanese warship from the air. This history is confirmed independently by rajaampatbiodiversity.com, diveconcepts.com, and meridianadventuredive.com.
 
 ## Overview
 
-Mike's Point is a vertical wall dive in the central Raja Ampat area, honouring the diver who first mapped or regularly dived the site. The wall character here is classic Raja Ampat: dense encrusting growth of sponges, sea fans, and soft corals on a vertical face that plunges from the shallow reef crest into significant depth. Overhangs and crevices in the wall provide sheltered habitat for a range of invertebrates and fish, while the open water off the wall attracts larger pelagic species drawn by the current. Visibility typically reaches 20-30 meters and water temperatures average 27-29°C.
+The wall at Mike's Point is rated Advanced due to strong and unpredictable currents, including occasional downward-pulling currents that require alert buoyancy management. The south wall extends beyond 40 meters; the confirmed recreational dive depth is 30 meters. A swim-through cave at 9 meters depth is confirmed by diveconcepts.com and remoteandafloat.com. The WWII bombing history created the distinctive crevices and overhangs that now characterize the site's topography.
 
 ## Site Information
 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-30 meters
-- **Current**: Moderate to strong, directional
+- **Current**: Strong and unpredictable; Advanced divers only
 - **Best Time**: October to April
 
 ## Marine Life
 
-Large sea fans and black coral trees at various depths along the wall host cleaning stations where reef fish queue for service from cleaner wrasse and shrimp. Groupers and Napoleon wrasse are resident in the larger overhangs. Reef sharks and trevally patrol the blue water off the wall face, while turtles cruise the wall's surface. The encrusting growth provides abundant macro subjects — nudibranchs, flatworms, and various nudibranch species decorate the sponge and soft coral growth. Pygmy seahorses should be looked for on appropriately coloured sea fans.
-
-## Dive Profile
-
-Descend to the wall top at 5-8 meters and begin a controlled descent along the face. The wall's richest section is between 10-25 meters; dive this zone thoroughly before venturing deeper. Multiple overhangs reward exploration with a dive torch. Keep conscious of time and depth, ascending before the 5-meter safety stop mark with sufficient air. The wall top provides a productive safety stop location.
-
-## Entry and Exit
-
-Access is by dive boat. Entry near the wall top via giant stride. Current will determine the preferred direction of travel along the wall — your guide will brief accordingly. Deploy SMB before ascending; surface pickup downurrent from the entry point.
-
-## Tips and Recommendations
-
-- Carry a dive torch to illuminate overhangs and crevices
-- Check sea fans carefully for pygmy seahorses and long-nose hawkfish
-- Resist the temptation to descend too deep too early — the wall's best life is mid-depth
-- Look out into the blue water for passing pelagics while exploring the wall
-- Wall dives reward slow, methodical observation rather than speed
+Sources confirmed at this specific site (papua-diving.com, diveconcepts.com, rajaampatbiodiversity.com, meridianadventuredive.com): whitetip reef sharks, blacktip reef sharks, eagle rays, green turtles, sea snakes, wobbegong sharks, epaulette (walking) sharks in the shallows, and Napoleon wrasse. The swim-through cave at 9m is a confirmed feature of the site.
 
 ## Safety Considerations
 
-Depth management is the primary safety consideration on any wall dive — it is easy to drift deeper than intended when focused on the wall face. Monitor your depth gauge regularly. Currents can be strong and directional. Always carry and deploy an SMB. Dive within your certification limits and experience level.
-
-## Photography
-
-Mike's Point wall offers classic wall dive photography: wide-angle shots along the vertical face with depth and scale in frame, and intimate macro work in the overhangs. Position yourself slightly off the wall and shoot horizontally along the face to capture the growth and relief. For macro, a torch reveals the true colours of the sponges and soft corals that appear dull without light. Overhangs create natural lighting challenges but reward the photographer with atmospheric results.
+Advanced rating is firm: strong and unpredictable currents, documented downward-pulling current events. Carry a reef hook and SMB. Do not attempt without advanced open water certification and experience with wall diving in current. Emergency evacuation to Sorong requires significant time; plan conservative profiles.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-06-27.*

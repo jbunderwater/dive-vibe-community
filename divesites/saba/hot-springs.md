@@ -3,7 +3,7 @@ name: Hot Springs
 lat: 17.6133
 lng: -63.2583
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 24
 entryType: boat
 siteType: reef
 ref: null
@@ -13,52 +13,52 @@ addedBy: osm_import
 
 # Hot Springs
 
-A geothermally active reef site on Saba's southwestern coast where warm volcanic vents emerge from the seafloor alongside a dense, well-developed coral reef.
+A geothermally active reef site on Saba's southwest coast where warm gas vents bubble through mustard-coloured sand — proof that Saba's volcano is between eruptions, not extinct — alongside seagrass beds, coral heads, and a famously docile resident nurse shark.
 
 ## Overview
 
-Hot Springs is a unique dive site on the southwestern side of Saba where the volcanic geology of the island is directly visible underwater. Bubbling gas vents and warm water seeps emerge from cracks in the rocky seafloor, creating a visually unusual environment alongside the main reef structure. These hydrothermal features are gentle and non-threatening, and the slightly elevated water temperatures around the vents support unusual microbial communities. The reef itself descends from about 10 meters to 25 meters, featuring a typical Saba profile of hard coral colonies, sea fans, and encrusting organisms. Visibility is 20–30 meters in most conditions.
+Hot Springs sits on the west coast of Saba, south of site 50/50. The site takes its name from the warm water springs emerging through vents in the seafloor: magma in the chamber beneath Saba's active volcano sends gases up through the sand, marking it with mustard and brown coloration. Push your hand into the sediment near a vent and it is measurably warmer than the surrounding water. The mineral deposits create unusual coloration on the nearby coral structures. The reef itself is a series of coral heads separated by sandy bottom, with shallower boulder-covered areas to the north and deeper coral formations to the seaward south. The mooring sits at 12 metres (40 feet); maximum depth is 24 metres (80 feet). Significant portions of the site are covered in seagrass, which supports turtles that graze actively here. Sea Saba rates this as a favourite for night diving, when crustaceans emerge from their lairs and ostracods display distinctive bioluminescent mating behaviour.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 10–25 m |
+| Depth Range | 12–24 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Reef (geothermal) |
 | Visibility | 20–30 m |
 | Current | Light to moderate |
-| Water Temp | 26–29°C |
+| Water Temp | 26–30°C (warmer near vents) |
 
 ## Marine Life
 
-The reef at Hot Springs supports a typical Caribbean reef community with some additional species associated with the warm-water vent areas. Large hawksbill turtles visit the reef regularly. French angelfish and queen angelfish are consistently present. The warm vent areas attract cleaning stations — small cleaner shrimp and wrasse set up operations near the bubbling rocks. Barracuda are frequently observed hovering in mid-water. Green moray eels occupy deeper crevices along the reef base.
+Hot Springs has a well-documented resident nurse shark, described by Sea Saba as "extremely friendly" and reliably present. Southern stingrays rest on sand patches throughout the site. Garden eels protrude from the sandy bottom in clusters. Flying gurnards — a species well-represented across multiple Saba sites — walk across the sand on their pectoral fin rays. Sea turtles graze in the seagrass beds at the shallower sections. At night: octopus hunt the reef, juvenile fish shelter in coral heads, and ostracods produce bioluminescent mating displays visible in the water column.
 
 ## Dive Profile
 
-Descent is via mooring line to the reef top at approximately 10 meters. Divers navigate south along the reef to the volcanic vent areas before descending to 22–25 meters. The vent features are distributed across a relatively small area at around 20 meters and can be visited briefly before working back up the reef for a safety stop. A typical dive is 40–50 minutes.
+The mooring is at 12 metres. Two route options from Sea Saba: heading seaward then south among the deeper coral heads (toward the 24-metre maximum), or turning north toward the shallower boulder-covered areas. The volcanic vent features are concentrated in a specific area of sandy seafloor — the guide will bring divers to the active spots. A typical dive runs 40–50 minutes. Night dives are conducted on the same mooring.
 
 ## Entry and Exit
 
-Boat access only from Fort Bay. The site uses a permanent mooring maintained by the Saba Conservation Foundation. Entry is standard boat-style giant stride or backward roll. The shallow mooring crest at 10 meters provides an excellent safety stop location.
+Boat access from Fort Bay using permanent mooring maintained by the Saba Conservation Foundation. Entry by giant stride or backward roll. The moderate depth profile makes this a good second or third dive of the day after a deep morning pinnacle.
 
 ## Tips and Recommendations
 
-The volcanic vent features are the distinguishing element of this site — take time to observe the gas bubbling and warm water seeping from cracks in the rock, and compare the microbial film on the rocks immediately around the vents to the normal reef surface nearby. Do not block or disturb the vents. The site is excellent for macro photography given the number of cleaning station invertebrates.
+Bring a torch for the coral head crevices even on day dives — the vent areas and surrounding rock crevices hold shrimp and small crustaceans that need light to reveal their colours. Observe the vent areas carefully: the visual distortion caused by the warmer water rising through the cooler ambient water is distinctive. Do not insert hands or equipment into vent openings. Night dives here are strongly recommended — the ostracod bioluminescence is uniquely vivid in dark conditions.
 
 ## Safety Considerations
 
-The water around the vents is warmer than the ambient reef temperature — this is entirely natural and presents no hazard. Do not insert hands or equipment into vent openings. Current can develop on the outer reef section at 20–25 meters. Standard Saba Marine Park rules apply: no touching, no collecting, DSMB required.
+The warm water near vents is a natural geothermal phenomenon and presents no diving hazard. Do not confuse the warmer vent areas with a malfunction of any equipment. Standard Saba Marine Park rules apply: no touching, no collecting. DSMB required.
 
 ## Photography
 
-The volcanic vents create unusual close-up photographic subjects — the bubbling and the visual distortion from the warm water rising creates compelling images. Macro lenses work well for the cleaning station shrimp around vent edges. Wide-angle captures of the reef slope are typical Saba fare with strong ambient light in the 10–18 meter range.
+The volcanic vents produce striking visual distortion in photos — the heat shimmer effect is visible through the camera as well as the eye. Close-up lenses work well for the garden eels and flying gurnards on the sandy sections. Nurse shark portraits in the clear Saba water are a reliable opportunity here. Night photography for bioluminescent ostracods requires a very slow shutter speed or video mode.
 
 ## Additional Resources
 
-- Saba Conservation Foundation: information on the volcanic geology visible underwater
-- Sea Saba: regularly includes Hot Springs in multi-dive day itineraries
+- Sea Saba: seasaba.com/saba-16-hot-springs — site description and dive itinerary planning
+- PADI Dive Site: padi.com/dive-site/saba/hot-springs
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*
+*Sources: [Sea Saba Dive Center — Hot Springs](https://www.seasaba.com/saba-16-hot-springs), [PADI — Hot Springs Saba](https://www.padi.com/dive-site/saba/hot-springs/), [Endless Caribbean — Saba Scuba Diving](https://www.endlesscaribbean.com/saba-scuba-diving/), [Funseaker — Saba Diving Guide](https://www.funseaker.com/sea-news/saba-diving-caribbean-guide). Last updated 2026-06-27.*

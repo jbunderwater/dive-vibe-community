@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Bear's Den
 
-*A secluded wall site on Roatán's south reef, featuring a large overhang shelter and consistently reliable nurse shark encounters.*
+*A cavern dive on Roatán's south reef featuring a 120-foot chimney chute and a large circular cavern with a sandy floor, spotted drums, and glassy sweepers.*
 
 ## Overview
 
-Bear's Den is a wall dive site on the southern coast of Roatán, named for the large natural overhang at the base of the reef drop-off where nurse sharks regularly rest. The site features the classic Roatán south-wall topography — a shallow coral plateau transitioning to a vertical wall descending to 30 meters — with the added attraction of a prominent cavern-like overhang at 20–25 meters where nurse sharks congregate. The site is quieter than the more famous West End Wall and Mary's Place, making it appealing for divers seeking a less crowded experience. Visibility is 25–30 meters. Water temperatures average 27–29°C.
+Bear's Den is a cavern dive on the southern coast of Roatán, centered on a 120-foot (37-meter) chimney chute that begins at approximately 15 meters (50 feet) depth and leads into a spacious circular cavern at 9 meters (30 feet). The cavern has a sandy floor and receives enough natural light from multiple openings that overhead lighting is not required in the main chamber. Beyond the primary cavern, the site continues into volcanic tunnels, additional swim-throughs, and a honeycombed coral wall. The site is quieter than West End Wall and Mary's Place.
 
 ## Site Information
 
@@ -26,37 +26,36 @@ Bear's Den is a wall dive site on the southern coast of Roatán, named for the l
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 25–30 meters (80–100 feet)
+- **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Light to moderate on the south wall
-- **Best Time**: Year-round
+- **Best Time**: Early morning for best sunlight angles inside the cavern
 
 ## Marine Life
 
-The signature feature of Bear's Den is the resident nurse shark population in the main overhang at 20–25 meters. Multiple nurse sharks are typically resting here on any given dive. Hawksbill turtles are reliably encountered on the reef plateau feeding on sponges. Eagle rays glide along the wall face. The wall supports sea fans, barrel sponges, and encrusting corals in good condition. Caribbean reef sharks occasionally appear in the blue water beyond the wall edge. The reef plateau has the typical Roatán community of parrotfish, angelfish, spotted drums, and surgeonfish. Large moray eels occupy crevices along the wall.
+Inside the cavern: spotted drum, glassy sweepers, crabs, lobsters, and neck crabs are reported. Nudibranchs (lettuce leaf sea slugs) and seahorses have been found at the site. The surrounding wall hosts gorgonian soft corals, sea whips, sponges, black coral, butterflyfish, grouper, snapper, turtles, and barracuda. No confirmed nurse shark population at this site — previously described nurse shark encounters could not be verified from site-specific sources.
 
 ## Dive Profile
 
-Navigate to the reef plateau at 8–10 meters and follow the wall edge until locating the main overhang structure. Descend into the overhang alcove at 20–25 meters to view the resident nurse sharks. Avoid disturbing the resting animals — approach slowly and from below. Exit the overhang and continue along the wall face before ascending. Complete the safety stop on the shallow reef plateau. The dive's highlight — the nurse shark overhang — can be visited early in the dive when air supply is greatest.
+Proceed from the mooring to the cavern entrance at approximately 9 meters. The main circular room with its sandy floor is the highlight for most divers. For the chimney chute, descend to the entrance at 15 meters — the narrow passage requires excellent buoyancy and single-file navigation. The chute exits through the reef and connects to the wall system. Early morning dives allow sunbeams to illuminate the cavern interior. Explore the additional swim-throughs and volcanic tunnels accessible beyond the main cavern.
 
 ## Entry and Exit
 
-Served by West End and West Bay dive operators. Mooring at the site. Entry via giant stride. The south wall crossing takes 10–20 minutes from West End.
+Served by West End and West Bay operators. Permanent mooring. Entry via giant stride or back roll.
 
 ## Tips
 
-- Approach the nurse shark overhang from below and slowly — abrupt approach from above disturbs the resting animals
-- Do not touch or pursue nurse sharks — observe from a respectful distance
-- The dive is best combined with a second dive at nearby Mary's Place or Calvin's Crack for a complete south-wall exploration
-- Ask your operator which section of the wall has the most active nurse shark aggregation on the day of your dive
-- The shallow plateau at Bear's Den has some of the best hard coral coverage on Roatán's south side
+- Early morning dives maximize sunlight angles for photography inside the cavern
+- The chimney chute is narrow — single-file only; discuss order with your buddy beforehand
+- Advanced buoyancy control is required for the chute; beginners can enjoy the main cavern without entering it
+- Ask your operator about current conditions in the volcanic tunnel extensions beyond the main cavern
 
 ## Safety
 
-Nurse sharks are generally docile but will react defensively if threatened or cornered inside the overhang. Maintain a distance of at least one meter and never block the exit from the overhang space. Standard wall dive precautions apply: monitor depth, maintain buoyancy, and carry an SMB. Current can be moderate on the south wall.
+Overhead environment requires appropriate training for the chimney chute. Maintain buoyancy to avoid silt disturbance in the sandy-floored cavern. Always keep a natural light exit visible unless cave-trained. Carry a torch for secondary swim-throughs. Standard south-wall current precautions apply.
 
 ## Photography
 
-Bear's Den is one of the best nurse shark photography sites in Roatán. Multiple animals resting in an overhang allow wide-angle compositions showing both the shelter environment and the sharks. Approach positions carefully to avoid disturbing the animals and use ambient light from the overhang opening as a natural key light. The reef plateau above in bright, shallow water is excellent for turtle and angelfish portraits.
+The circular cavern with sunbeams angling through the entrance provides excellent wide-angle opportunities. Shoot toward the cavern opening for silhouette and ambient-light compositions. Spotted drums near coral heads and nudibranchs on the walls reward macro photographers.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Sources: [Splash Inn Dive Resort – Bear's Den](https://roatansplashinn.com/en/roatan-diving-sites/bears-den/), [Roatan-Diving.com – Bear's Den](https://roatan-diving.com/dive-sites), [Sun Divers Roatan – Dive Sites](https://sundiversroatan.com/diving/roatan-dive-sites/). Last updated 2026-06-27.*

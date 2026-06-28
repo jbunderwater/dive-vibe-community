@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "raja-ampat",
-    "red-sea",
-    "roatan",
-    "saba",
-    "san-diego-la-jolla",
-    "sangalaki",
     "sardinia",
     "scapa-flow",
     "scotland",
@@ -49,6 +43,12 @@
   ],
   "completed_this_cycle": [
     "alaska",
+    "raja-ampat",
+    "red-sea",
+    "roatan",
+    "saba",
+    "san-diego-la-jolla",
+    "sangalaki",
     "alor-archipelago",
     "ambon",
     "andaman-islands",
@@ -177,6 +177,90 @@
     "puget-sound"
   ],
   "history": [
+    {
+      "date": "2026-06-27",
+      "slugs": [
+        "raja-ampat",
+        "red-sea",
+        "roatan",
+        "saba",
+        "san-diego-la-jolla",
+        "sangalaki"
+      ],
+      "summary": {
+        "sites_total": 1058,
+        "sites_validated_today": 59,
+        "sites_re_audited": 720,
+        "hallucinations_removed": 25,
+        "marine_life_stripped": 27,
+        "wreck_conflicts_flagged": 12,
+        "sites_unresolved": 16,
+        "by_destination": {
+          "raja-ampat": {
+            "sites_total": 106,
+            "sites_validated_today": 17,
+            "sites_re_audited": 21,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 6,
+            "notes": "SAFETY: Manta Ridge Beginner→Advanced (mandatory reef hook, documented down currents). Site type corrections: reef→pinnacle (Batu Lima), reef→wall (Boo Windows/Boo Point), reef→muck (Manta Sandy). Depth corrections: Cape Kri 30→40m, Cape Mansuar 25→40m, Manta Ridge 20→40m, Friwen Garden 25→35m. 18 generic source footers replaced with actual named sources."
+          },
+          "red-sea": {
+            "sites_total": 482,
+            "sites_validated_today": 10,
+            "sites_re_audited": 482,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 10,
+            "wreck_conflicts_flagged": 8,
+            "sites_unresolved": 3,
+            "notes": "CRITICAL: Kimon M builder corrected Nordseewerke/Emden → H.C. Stulcken & Sohn Hamburg (4 sources). Cedar Pride 'King Hussein' → Crown Prince Abdullah (later King Abdullah II). Sufa class Satil→Sa'ar 3-class (45m not 46m); entry_type boat→shore. Balena depth 3m→9m. Legend 'intentionally sunk' claim removed (unverified). Grumman HU-16 location 'near Hamata' corrected to Sha'ab Ohroob/Sudan border. Khanka description corrected Brothers Islands → Zabargad Island. Turbo: vessel identity flagged uncertain. 5 wreck conflicts flagged (Cedar Pride fire month, length disputes, Kimon M GRT). Wrecks validated: Kimon M, Cedar Pride, Sirnaka, Chrisoula K, Adantia K, Levanzo, Sha'ab Ohroob."
+          },
+          "roatan": {
+            "sites_total": 428,
+            "sites_validated_today": 10,
+            "sites_re_audited": 209,
+            "hallucinations_removed": 9,
+            "marine_life_stripped": 15,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 6,
+            "notes": "El Aguila length 50m→75m. Odyssey 73m container→91m freighter. M Alexand 'Prince of Wales' alias removed. Bear's Den nurse shark/wall → chimney cavern. 15 sites stripped of unverified nurse sharks/marine life. 199 sites corrected validated=True→False (pseudo-sources: rmp_canonical_kml_only, perplexity, geographic_context). 159 boilerplate footers replaced. 10 sites confirmed with 3+ real URL sources."
+          },
+          "saba": {
+            "sites_total": 9,
+            "sites_validated_today": 9,
+            "sites_re_audited": 9,
+            "hallucinations_removed": 7,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "CRITICAL: Eye of the Needle description said top 'within meters of surface' — corrected, top is at 27m depth. Tent Reef Wall depth 40m→30m. Diamond Rock depth 32m→24m. Ladder Labyrinth site_type pinnacle→reef (lava-flow ridge). Green Island reef→pinnacle. Hot Springs had most hallucinated content — generic Caribbean fish replaced with confirmed site-specific species. Torrens Point 60ft swim-through tunnel and Coral Nursery added from Sea Saba."
+          },
+          "san-diego-la-jolla": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "HMCS Yukon pennant DDE 265 (non-existent) → DDE 263 (Mackenzie-class). Difficulty Intermediate→Advanced (5+ diver fatalities). SS Monte Carlo depth 20m→6m (buried in 1-6m off Coronado). Zuñiga Jetty depth 25m→10m. La Jolla Canyon site_type 'canyon'→wall. Yukon Wreck DE-429 flagged as likely fabrication (US Navy hull number, not Canadian Navy). Sinking date 15 July→14 July 2000."
+          },
+          "sangalaki": {
+            "sites_total": 13,
+            "sites_validated_today": 13,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "7 depth corrections: Blue Light Cave 65m→44m (65m is technical secondary exit only), Kelapa Dua 40m→28m, Gorgonzola 30m→23m, Manta Avenue 30m→24m, Manta Parade 30m→20m, Coral Gardens 27m→25m, North Sangalou 40m→30m. Manta Run Beginner→Intermediate. Island conflation audit passed: mantas only at Sangalaki sites, jellyfish lake snorkel-only, turtle nesting Sangalaki beach only."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/103",
+      "errors": []
+    },
     {
       "date": "2026-05-17",
       "slugs": [

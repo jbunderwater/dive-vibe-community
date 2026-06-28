@@ -3,7 +3,7 @@ name: Tent Reef Wall
 lat: 17.6217
 lng: -63.2517
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,52 +13,53 @@ addedBy: osm_import
 
 # Tent Reef Wall
 
-Saba's most impressive wall dive — a vertical drop from shallow reef to 40 meters and beyond, coated in black coral, wire coral, and large orange elephant ear sponges.
+Saba's most dramatic wall dive — a sheer volcanic face descending to 30 metres, coated from top to bottom in tubular sponges, elephant ear sponges, and black coral trees, with rich overhangs at mid-depth for the return ascent.
 
 ## Overview
 
-Tent Reef Wall is the definitive wall dive of the Saba Marine Park and among the most talked-about wall dives in the northeastern Caribbean. The site begins as a shallow reef platform at around 10 meters before the terrain abruptly drops in a near-vertical face to 40 meters and continues beyond recreational limits. The wall is carpeted from top to bottom with encrusting organisms — orange elephant ear sponges appear as early as 15 meters, with wire coral whips and black coral trees increasing in density below 20 meters. The wall geometry channels any current across the face, keeping nutrients flowing across the organisms and visibility high. Typical visibility is 25–40 meters. Advanced divers can reach the 35–40 meter zone where large barrel sponges cluster alongside the deepest black coral trees.
+Tent Reef Wall extends west of Fort Bay as an extended rock ledge that begins at just 4 metres (13 feet) and drops in a near-vertical face to 30 metres (100 feet), with additional pinnacle formations extending further into the blue. The wall is characterised by "rich colour and looming overhangs" — tubular sponges and elephant ear sponges colonise the upper wall, with black coral trees increasing in density below 20 metres. The site can be dived as a straightforward deep wall dive (descending to 30m along the face, returning along the overhang at 18m) or as a shallower exploration of the boulders and archways in the upper reef zone. Sea Saba places the mooring at 20 feet (7 metres), giving access to the shallow reef top before descending. The upper sections near the archway also connect to a boulder maze with swim-throughs and a wide sandy plateau dotted with coral bommies. Visibility typically reaches 25–35 metres. The wall doubles as one of the Saba Marine Park's premier night dive sites, with octopus, sleeping turtles, and spiny lobster highly active after dark.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 10–40 m |
+| Depth Range | 7–30 m |
 | Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Wall |
-| Visibility | 25–40 m |
+| Visibility | 25–35 m |
 | Current | Moderate, wall-aligned |
 | Water Temp | 24–28°C |
 
 ## Marine Life
 
-Tent Reef Wall is one of the better sites in Saba for large marine life encounters. Reef sharks cruise the wall face and open blue regularly. Spotted eagle rays sweep past in open water at depth. Hawksbill turtles rest on the shallower sections of the reef top. Large green morays emerge from the wall at various depths. The open blue at the wall's drop can produce pelagic encounters — schools of jacks, barracuda, and occasional amberjack. The dense invertebrate coverage of the wall itself supports hundreds of species of small fish, invertebrates, and crustaceans.
+Tent Reef Wall supports a wide cross-section of Caribbean marine life across its depth range. The boulder maze in the shallow upper section (7–12 m) is one of the better sites in Saba for macro encounters — seahorses, frogfish, and scorpionfish occupy cryptic positions on encrusted ledges. Scorpionfish and white-nose pipefish have been documented here. At depth, queen angelfish, barracuda, and large snapper patrol the wall face. The boulder zone includes hawksbill turtles and octopus (particularly at night). On the deeper wall below 20 metres, colourful encrusting sponges and black coral create a dense invertebrate landscape.
 
 ## Dive Profile
 
-Advanced divers descend the mooring at the reef top (10 m) and work the wall face south, descending to the planned maximum depth before tracking north and gradually ascending to the shallower wall sections. A disciplined ascent plan is critical on this dive — the wall is visually compelling and it is easy to spend too much time at depth. Reserve adequate gas for a 5-minute safety stop at the reef top at 5 meters.
+The mooring is set at approximately 7 metres on the shallow rock ledge. Divers can explore the upper boulder zone and archway at 7–12 metres, or descend directly onto the wall face. The classic profile descends to 30 metres along the wall, then returns at around 18 metres along the overhang before ascending to the mooring for a 5-minute safety stop. Bottom time at 30 metres is short — this site rewards planning and disciplined gas management.
 
 ## Entry and Exit
 
-Boat dive with permanent mooring at the reef top. Entry by giant stride or backward roll. This is a current and surge site — the operator's briefing on conditions is essential. Entry timing may be coordinated around tidal cycles for optimal conditions.
+Boat dive with permanent mooring at the reef top. Entry by giant stride or backward roll. Current can flow along the wall — the operator's briefing on conditions is essential. The site dives well as a drift when current is running, working the wall face and drifting to a pickup.
 
 ## Tips and Recommendations
 
-Tent Reef Wall is strictly an Advanced Open Water or equivalent site. Divers should have wall diving experience and be comfortable managing depth limits in a compelling environment. The 35–40 meter section has the richest invertebrate assemblage, but NDL limits at these depths are short — plan descent and ascent accordingly. A torch is useful for illuminating the true colours of sponges and corals in the deeper sections.
+Tent Reef Wall can be split into two conceptually distinct dives: the shallow boulder maze with its swim-throughs and macro life (excellent second dive), or the full deep wall profile. Night dives here are consistently recommended by visiting divers and operators. Carry a torch for the crevices and the deeper coloured sponges. Nitrox extends bottom time significantly at 30 metres and is available from both Sea Saba and Saba Divers.
 
 ## Safety Considerations
 
-Depth management is the primary consideration at Tent Reef Wall. The wall continues beyond recreational limits and the visual experience at depth can create a compelling pull to descend further. Set a firm maximum depth at the surface and monitor the dive computer throughout. Strong current along the wall is possible — if current is running hard, work the wall face rather than swimming against it.
+Depth management is the primary consideration. The overhang at 18 metres makes a natural waypoint for ascending divers — use it as a turnaround cue rather than continuing along the wall. Set a firm maximum depth at the surface. Strong current along the wall can develop without warning. DSMB required.
 
 ## Photography
 
-Tent Reef Wall is one of the Caribbean's great wall photography locations. Wide-angle captures of the wall face with diver silhouettes against the deep blue are iconic images. The deep sponge and coral assemblages at 30–40 meters require a video light or strobe to reveal their full colour. Macro opportunities are abundant throughout the wall in the crevices and ledges.
+The overhanging ledges at 15–20 metres are among Saba's great photography subjects — wide-angle lenses capture the relationship between diver, ledge, and the drop into the blue below. The upper boulder zone has excellent ambient light for macro work. At night, octopus and sleeping parrotfish in their mucus cocoons make memorable subjects with a video light.
 
 ## Additional Resources
 
-- Saba Conservation Foundation: saba-nature.org — advanced dive site information
-- Sea Saba: advanced wall diving specialists
+- Saba Conservation Foundation: sabapark.org — advance information on the Tent Reef area (sites 16–19)
+- Sea Saba: primary operator, includes Tent Reef Wall on most multi-dive day itineraries
+- Saba Divers: offers guided night dives at this site
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*
+*Sources: [Sea Saba Dive Center — Tent Reef Wall](https://www.seasaba.com/saba-19-tent-reef-wall), [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [World of Diving — Saba](https://worldofdiving.com/saba/), [ScubaBoard — Saba Trip Report](https://scubaboard.com/community/threads/saba-trip-report.76861/). Last updated 2026-06-27.*

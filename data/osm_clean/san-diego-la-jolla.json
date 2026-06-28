@@ -5,13 +5,13 @@
     "lon": -117.1731815,
     "osm_id": 6518067885,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 6,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
-      "description": "Concrete ship used as offshore gambling hub during prohibition, sent aground during a storm and abandoned.",
+      "description": "Concrete oil tanker (originally Old North State/McKittrick) converted into a gambling ship in 1932, run aground during a New Year's storm in 1937. The wreck lies in 1-6 metres of water off Coronado Beach, mostly buried under shifting sand. A historic curiosity rather than a premier dive site — only meaningfully exposed after major winter storms.",
       "historic": "wreck",
       "name": "SS Monte Carlo",
       "seamark:type": "wreck",
@@ -24,7 +24,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "en.wikipedia.org,lajollamom.com,hiddensandiego.com",
+      "last_qa_date": "2026-06-27",
+      "qa_notes": "Depth corrected from 20m to 6m — wreck lies in 1-6m of water, not 20m. The OSM node depth was erroneous. Mostly buried under sand."
     }
   },
   {
@@ -51,7 +53,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "en.wikipedia.org,waterhorsecharters.com,lajolla.com",
+      "last_qa_date": "2026-06-27",
+      "qa_notes": "Sunken Harbor is the seafloor location name where HMCS Yukon was sunk. These coordinates are adjacent to the HMCS Yukon entry. The OSM node may refer to Wreck Alley complex generally. No separate named dive site 'Sunken Harbor' appears in published dive guides — it is the area designation, not an individual wreck."
     }
   },
   {
@@ -66,7 +70,7 @@
     "difficulty": "Advanced",
     "tags": {
       "access": "yes",
-      "description": "WWII patrol craft infamous for several incidents, sunk in collision with USS Laffey.",
+      "description": "WWII PC-461-class patrol submarine chaser, sunk September 11, 1945 in collision with USS Laffey in dense fog off San Diego Bay. One crew member lost. Navy demolition teams demolished the wreck in November 1945 and again in 1983, reducing it to a scattered debris field at 27 metres (90 fsw). Notable for early command by L. Ron Hubbard in 1943.",
       "ele": "-27",
       "historic": "wreck",
       "name": "USS PC-815",
@@ -81,11 +85,13 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "en.wikipedia.org,wreckedinmyrevo.com",
+      "last_qa_date": "2026-06-27",
+      "qa_notes": "Depth confirmed at 27m (90 fsw) per wreckedinmyrevo.com first-hand dive report. Site is a debris field, not an intact wreck — Navy demolition in 1945 and again in 1983 flattened most structure. Unexploded ordnance risk noted."
     }
   },
   {
-    "name": "HMCS Yukon (DDE 265)",
+    "name": "HMCS Yukon (DDE 263)",
     "lat": 32.7715817,
     "lon": -117.2710459,
     "osm_id": 12072605584,
@@ -93,24 +99,26 @@
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
-      "description": "Cold War Royal Canadian Navy destroyer escort sunk as an artificial reef.",
+      "description": "Mackenzie-class Royal Canadian Navy destroyer escort (366ft/111m, pennant DDE 263) intentionally sunk July 14, 2000 at Sunken Harbor off Mission Beach as an artificial reef. The vessel sank prematurely in rough weather the night before the planned scuttling ceremony, rolling onto her port side. Water depth 30m (100ft); top of wreck at approximately 18m (60ft). At least five divers have died on this wreck — cold, dark, disorienting, with collapsed superstructure. Advanced certification required; wreck penetration requires specialist training.",
       "historic": "wreck",
-      "name": "HMCS Yukon (DDE 265)",
+      "name": "HMCS Yukon (DDE 263)",
       "seamark:type": "wreck",
       "seamark:wreck:category": "non-dangerous",
       "source": "osm_extended",
       "start_date": "25 May 1963",
       "wikidata": "Q5630972",
       "wikipedia": "en:HMCS Yukon (DDE 263)",
-      "wreck:date_sunk": "15 July 2000",
+      "wreck:date_sunk": "14 July 2000",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "en.wikipedia.org,sddivesites.com,sandiego.org,marissacharters.com",
+      "last_qa_date": "2026-06-27",
+      "qa_notes": "CRITICAL CORRECTIONS: (1) Pennant number corrected from DDE 265 to DDE 263 — DDE 265 does not exist in RCN records; Mackenzie-class: DDE 261 Mackenzie, DDE 262 Saskatchewan, DDE 263 Yukon, DDE 264 Qu'Appelle. (2) Difficulty upgraded from Intermediate to Advanced — at least 5 diver fatalities recorded per Wikipedia and sddivesites.com; site described as 'cold, confusing, deep, dark and surgy'. (3) Date sunk corrected from '15 July 2000' to '14 July 2000' per Wikipedia (sank prematurely on 14 July, not 15). (4) Wikipedia article title corrected from 'HMCS Yukon (DDE 263)' in link — was previously wrong in OSM tags."
     }
   },
   {
@@ -119,7 +127,7 @@
     "lon": -117.223125,
     "osm_id": 25284140,
     "osm_type": "way",
-    "depth": 25,
+    "depth": 10,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -133,7 +141,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "cadivingnews.com,spearfactor.com,sandiegohistory.org",
+      "last_qa_date": "2026-06-27",
+      "qa_notes": "Depth corrected from 25m to 10m — published sources (California Diving News, Spearfactor) consistently describe the dive as 10-30ft (3-9m). The 25m figure was erroneous. Site is a shallow artificial reef dive along the jetty's rocky structure."
     }
   },
   {
@@ -145,7 +155,7 @@
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "boat": "yes",
       "marine": "artificial_reef",
@@ -160,7 +170,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "en.wikipedia.org,waterhorsecharters.com,lajolla.com,sddivesites.com",
+      "last_qa_date": "2026-06-27",
+      "qa_notes": "Difficulty upgraded from Intermediate to Advanced — the deepest and most complex wrecks (HMCS Yukon at 30m, Ruby E at 26m) require advanced planning. Some wrecks (NOSC Tower at 18m) are accessible to intermediate divers. Wrecks: HMCS Yukon (DDE 263) 30m, Ruby E (ex-USCG Cyane, 1934) 26m, El Rey (kelp harvester) 24m, NOSC Tower 18m, Ingraham Street Bridge 18m."
     }
   },
   {
@@ -175,7 +187,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "divecalifornia.com,sandiegoscubaguide.com,sddivesites.com",
+      "last_qa_date": "2026-06-27",
+      "qa_notes": "Site type 'reef' confirmed correct — rocky reef with kelp forest. Not coral reef. Depth 15m confirmed. Difficulty Beginner confirmed — protected cove, calm conditions."
     }
   },
   {
@@ -190,7 +204,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "sddivesites.com,diveinscuba.com,sandiegoscubaguide.com",
+      "last_qa_date": "2026-06-27",
+      "qa_notes": "Site type 'reef' confirmed for the primary shallow sandy/reef zone. Depth 20m confirmed for recreational zone (canyon extends much deeper). Beginner difficulty confirmed for shallow zone — intermediate/advanced required for canyon ledges. Entry 'shore' confirmed."
     }
   },
   {
@@ -198,14 +214,16 @@
     "lat": 32.856,
     "lon": -117.265,
     "depth": 30,
-    "site_type": "canyon",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "cadivingnews.com,waterhorsecharters.com,scubaboard.com,diveinscuba.com",
+      "last_qa_date": "2026-06-27",
+      "qa_notes": "CORRECTION: site_type changed from 'canyon' (not a valid type) to 'wall' — the dive experience is wall diving along the canyon walls and ledges at 12-33m. Depth 30m confirmed (accessible ledges to 30m; canyon continues to 900ft). Difficulty Advanced confirmed — requires strong buoyancy control, long surface swim, and careful air management."
     }
   },
   {
@@ -215,12 +233,14 @@
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "en.wikipedia.org,sddivesites.com",
+      "last_qa_date": "2026-06-27",
+      "qa_notes": "UNRESOLVED DUPLICATE FLAG: 'DE-429' is a U.S. Navy destroyer escort hull number designation — it does not match HMCS Yukon (DDE 263, Royal Canadian Navy). No dive site named 'Yukon Wreck (DE-429)' appears in any published source. Coordinates (32.6825, -117.267) are approximately 10km south of HMCS Yukon (32.7715, -117.2710) and fall near Point Loma / Coronado area, not Wreck Alley. This entry is likely a gap-fill fabrication or mislabeled duplicate. Recommend removal or replacement with a legitimate site. Difficulty upgraded from Intermediate to Advanced pending resolution."
     }
   }
 ]

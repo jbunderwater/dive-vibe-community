@@ -1374,7 +1374,7 @@
     "lng": 34.9539555,
     "difficulty": "Intermediate",
     "maxDepth": 30,
-    "entryType": "boat",
+    "entryType": "shore",
     "siteType": "wreck",
     "ref": "",
     "osmId": 663869878
@@ -2273,7 +2273,7 @@
     "lat": 27.1782408,
     "lng": 33.831981,
     "difficulty": "Intermediate",
-    "maxDepth": 3,
+    "maxDepth": 9,
     "entryType": "boat",
     "siteType": "wreck",
     "ref": "",

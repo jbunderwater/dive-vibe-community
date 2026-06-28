@@ -65,4 +65,4 @@ Turtle Traffic is one of the best turtle photography sites in Kalimantan. Shooti
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [PADI – Turtle Traffic](https://www.padi.com/dive-site/indonesia/turtle-traffic/), [Bluewater Dive Travel – Derawan Islands](https://www.bluewaterdivetravel.com/destination/derawan-islands-diving), [Scuba Junkie Sangalaki – Best Kept Secret](https://www.scubajunkiesangalaki.com/sangalaki-best-kept-secret-for-divers/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives). Last updated 2026-05-17.*
+*Sources: [PADI – Turtle Traffic](https://www.padi.com/dive-site/indonesia/turtle-traffic/), [Bluewater Dive Travel – Derawan Islands](https://www.bluewaterdivetravel.com/destination/derawan-islands-diving), [Scuba Junkie Sangalaki – Best Kept Secret](https://www.scubajunkiesangalaki.com/sangalaki-best-kept-secret-for-divers/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives). Last updated 2026-06-27.*

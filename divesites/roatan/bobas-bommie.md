@@ -32,4 +32,4 @@ Situated along the West Bay reef corridor, Boba's Bommie is a Roatan Marine Park
 Descend to the pinnacle and explore around its circumference at varying depths. The most abundant marine life congregates on the current-facing side. Maintain good buoyancy and watch for currents that may increase around the structure.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on Roatan Marine Park GPS data and south-wall reef characteristics. No site-specific published sources found for this site. Last updated 2026-06-27.*

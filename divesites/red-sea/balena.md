@@ -3,7 +3,7 @@ name: Balena
 lat: 27.1782408
 lng: 33.831981
 difficulty: Intermediate
-maxDepth: 3
+maxDepth: 9
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Balena
 
-Balena is a very shallow wreck dive site in the Hurghada area of the Egyptian Red Sea. The wreck — believed to be a small vessel — lies in just 3 meters of water and is primarily of interest to snorkellers, beginner divers, and wreck photographers working in natural light.
+A shallow wreck dive in the Hurghada area of the Egyptian Red Sea, sitting on a sandy seabed at approximately 9 metres.
 
 ## Overview
 
-The Balena wreck sits on a sandy, sunlit seabed in water so shallow it barely covers the structure at low tide. Despite its modest depth, the wreck has become encrusted with coral growth and now acts as an artificial reef. The site is particularly appealing in calm sea conditions when sunlight filters through the water to illuminate the wreck and the fish sheltering within it. Visibility in the immediate area is typically 10–20 meters. Water temperatures remain warm year-round at 24–29°C. The site is accessed by day boat from Hurghada-area operators.
+The Balena wreck rests on a sandy bottom at approximately 9 metres (the OSM record also lists an upper structure at 3 metres, but the confirmed maximum depth per OSM tags is 8.5 metres, here rounded to 9m). The wreck has become encrusted with coral growth and now acts as an artificial reef. The shallow depth means natural light floods the wreck throughout the dive, making it particularly appealing for photography and for divers wanting extended bottom time without decompression concerns. Visibility in the immediate area is typically 10–20 metres. The site is accessed by day boat from Hurghada-area operators.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Balena wreck sits on a sandy, sunlit seabed in water so shallow it barely co
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 3 meters
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 10–20 meters (33–65 feet)
 - **Current**: Very light
 - **Best Time**: Year-round
@@ -36,7 +36,7 @@ Due to its extreme shallowness, the wreck is bathed in bright light and has attr
 
 ## Dive Profile
 
-With a maximum depth of 3 meters, dive planning is minimal. Divers typically circumnavigate the wreck exterior and investigate the interior where accessible, spending extended time at this single depth. The proximity to the surface means natural light is excellent throughout. No decompression obligations apply, and surface intervals can be used productively with snorkelling.
+With a maximum depth of approximately 9 metres, the Balena is straightforward to plan. The upper structure starts at around 3 metres, so most of the dive is spent in the 3–9 metre range with excellent natural light throughout. Divers typically circumnavigate the wreck exterior and investigate the interior where accessible. No decompression obligations apply.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ The primary hazard is accidental contact with the wreck structure in such confin
 One of the Red Sea's best naturally lit wreck photography sites. The shallow depth and clear water allow ambient light shooting without strobes. Schools of glassfish inside the hull create atmospheric wide-angle compositions.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Depth corrected to 9m (from erroneous 3m) per OSM tag scuba_diving:maxdepth=8.5. No site-specific sources found for vessel identity or history. Last updated 2026-06-27.*

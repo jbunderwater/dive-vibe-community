@@ -17,7 +17,7 @@ Rick's Refuge is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Rick's Refuge is a Roatan Marine Park mooring site in the Half Moon Bay corridor that offers a sense of seclusion along a well-developed section of wall. The reef top is broad and healthy, with stands of elkhorn coral fragments and dense gorgonian gardens providing cover for juvenile fish and invertebrates. The wall itself features several deep undercuts where nurse sharks rest during the day, their gray forms visible in the shadows to observant divers. Spotted eagle rays make regular passes along this stretch, and the wall's encrusting sponges in red, orange, and purple create a vivid backdrop. The moderate depth and typically calm conditions make it a reliable choice when other sites may be affected by current or surge.
+Rick's Refuge is a Roatan Marine Park mooring site in the Half Moon Bay corridor that offers a sense of seclusion along a well-developed section of wall. The reef top is broad and healthy, with stands of elkhorn coral fragments and dense gorgonian gardens providing cover for juvenile fish and invertebrates. The wall itself features several deep undercuts where marine life seeks shelter. and the wall's encrusting sponges in red, orange, and purple create a vivid backdrop. The moderate depth and typically calm conditions make it a reliable choice when other sites may be affected by current or surge.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Rick's Refuge is a Roatan Marine Park mooring site in the Half Moon Bay corridor
 - **Maximum Depth**: 24 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on Roatan Marine Park GPS data and south-wall reef characteristics. No site-specific published sources found for this site. Last updated 2026-06-27.*

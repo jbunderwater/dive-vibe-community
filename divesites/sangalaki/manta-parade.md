@@ -3,7 +3,7 @@ name: Manta Parade
 lat: 2.085
 lng: 118.375
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -31,7 +31,7 @@ Manta Parade sits at the northern apex of Sangalaki's manta highway, where the r
 
 ## Dive Profile
 
-The ridges rise and fall between 5 and 30 metres. A typical dive profile begins at 18–20 metres along the ridge troughs and finishes on the shallow crests. Visibility averages 15–25 metres. Currents are mild to moderate, often from the south, and manta activity correlates with incoming tidal flow that concentrates surface plankton.
+The ridges rise and fall between 5 and approximately 20 metres. A typical dive profile begins at 15–18 metres along the ridge troughs and finishes on the shallow crests. Visibility averages 15–25 metres. Currents are mild to moderate, often from the south, and manta activity correlates with incoming tidal flow that concentrates surface plankton. Scuba Junkie's manta monitoring data confirms Manta Parade accounts for 42.9% of recorded cleaning behaviour at Sangalaki — the highest of any single site.
 
 ## Entry and Exit
 
@@ -57,11 +57,11 @@ Manta Parade's undulating terrain provides natural framing for wide-angle images
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 20 meters
 
 ## Additional Resources
 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-05-17.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Scuba Junkie Sangalaki – Manta Research](https://www.scubajunkiesangalaki.com/world-day-manta-rays-in-sangalaki/). Last updated 2026-06-27.*

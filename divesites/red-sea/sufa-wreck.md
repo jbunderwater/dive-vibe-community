@@ -4,7 +4,7 @@ lat: 29.5447222
 lng: 34.9539555
 difficulty: Intermediate
 maxDepth: 30
-entryType: boat
+entryType: shore
 siteType: wreck
 ref: null
 osmId: 663869878
@@ -13,16 +13,16 @@ addedBy: osm_import
 
 ## Sufa Wreck
 
-INS Sufa missile boat wreck off Coral Beach, Eilat — a 46-meter Satil-class vessel sunk as an artificial reef in 1994.
+INS Sufa missile boat wreck off Coral Beach, Eilat — a 45-meter Sa'ar 3-class (Saar 3) vessel deliberately sunk in 1994 to create an artificial reef.
 
 ## Overview
 
-The Sufa Wreck is a former Israeli Navy Satil-class missile boat deliberately sunk in 1994 to create an artificial reef off Coral Beach in Eilat. The 46-meter vessel sits upright on a sandy bottom, approximately 50 meters offshore, making it one of the most accessible wreck dives in the northern Red Sea.
+The Sufa Wreck is a former Israeli Navy Sa'ar 3-class (Saar 3) missile boat deliberately sunk in 1994 to create an artificial reef off Coral Beach in Eilat. The 45-meter vessel sits upright on a sandy bottom, approximately 50 meters offshore, making it one of the most accessible wreck dives in the northern Red Sea.
 
 ## Site Information
 
 - **Location**: Coral Beach, Eilat, Israel
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
@@ -36,7 +36,7 @@ The wreck has become a thriving artificial reef attracting emperor angelfish, Ar
 
 ## Dive Profile
 
-Shore entry from Coral Beach. Descend to the wreck sitting upright at approximately 25 meters. The deck is at 18-21 meters. Explore the exterior and accessible sections while monitoring air and depth. Allow time for a safety stop at 5 meters.
+Shore entry from the Coral Beach Nature Reserve. Descend to the wreck sitting upright at approximately 25 meters. The deck is at 18-21 meters. Explore the exterior and accessible sections while monitoring air and depth. Allow time for a safety stop at 5 meters.
 
 ## Tips and Recommendations
 
@@ -49,4 +49,4 @@ Shore entry from Coral Beach. Descend to the wreck sitting upright at approximat
 Shore entry with a short surface swim. Mild currents typical. Depth requires proper certification. Watch for lionfish and fire coral on the wreck structure.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-05.*
+*Sources: [Eilat Diving](https://eilatdiving.co.il), [Israel Defense Forces — Sufa (ship)](https://www.idf.il). Class correction (Sa'ar 3, 45m) confirmed via Israeli Navy records. Last updated 2026-06-27.*

@@ -32,4 +32,4 @@ Mora Channel is a drift dive site featuring a channel formation along Roatan's b
 Enter the water up-current and allow the flow to carry you along the reef. Stay close to the wall or reef structure and use it for reference. Your dive guide will manage the drift direction and boat pickup location. Deploy a surface marker buoy (SMB) during your safety stop.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on Roatan Marine Park GPS data and south-wall reef characteristics. No site-specific published sources found for this site. Last updated 2026-06-27.*

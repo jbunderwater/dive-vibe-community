@@ -2,7 +2,7 @@
 name: Friwen Bonda
 lat: -0.4750988
 lng: 130.6981206
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 25
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ Friwen Bonda is a spectacular wall dive on the outer face of Friwen Island, in t
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Mild to moderate; can strengthen on tidal flow
@@ -32,7 +32,7 @@ Friwen Bonda is a spectacular wall dive on the outer face of Friwen Island, in t
 
 ## Marine Life
 
-Pygmy seahorses (Hippocampus bargibanti and H. denise) are the signature find at Friwen Bonda, tucked into the branches of fan corals at 15–20 meters. Knowledgeable guides know precisely which fans to check. The wall also hosts nudibranch species in impressive variety, resident hawksbill turtles, white-tip reef sharks resting at the base of the wall, and dense aggregations of anthias and basslets that give the coral a shimmering quality. Wobbegong sharks rest on ledges. Reef fish diversity is staggering, reflecting Raja Ampat's status as the global epicenter of marine biodiversity.
+Sources confirmed at this site (papua-diving.com, meridianadventuredive.com, padi.com, rajaampatdiveexperience.com, lagaligoliveaboard.com): the site is known for the highest nudibranch diversity in Raja Ampat, and pygmy seahorses on gorgonian fans. Knowledgeable guides know which fans to check. Hawksbill turtles are a regular presence on the wall.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The exposed wall face can experience surge and current. Monitor depth carefully 
 Friwen Bonda rewards both macro and wide-angle shooters. Pygmy seahorses demand a macro lens, patience, and a steady hand. Wide-angle shots looking up the wall face with diver silhouettes against the blue water create dramatic compositions. The pristine hard coral gardens at the top of the wall are exceptional for coral reef photography.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [PADI](https://padi.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/). Last updated 2026-06-27.*

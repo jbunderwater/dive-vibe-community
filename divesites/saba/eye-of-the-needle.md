@@ -3,7 +3,7 @@ name: Eye of the Needle
 lat: 17.6283
 lng: -63.2433
 difficulty: Advanced
-maxDepth: 28
+maxDepth: 27
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,52 +13,56 @@ addedBy: osm_import
 
 # Eye of the Needle
 
-Saba's most iconic advanced pinnacle dive — a razor-thin volcanic spire rising from depth with powerful surge, black coral forests, and frequent large pelagic encounters.
+An isolated volcanic spire just a few feet in diameter, rising from the depths to top out at 27 metres — entirely a deep dive with no shallow section, set in open ocean adjacent to Third Encounter.
 
 ## Overview
 
-Eye of the Needle is widely regarded as Saba's signature dive and one of the most dramatic pinnacle experiences in the Caribbean. The site features a narrow, spire-like volcanic formation rising steeply from depth, with the top of the pinnacle reaching to within a few meters of the surface. The exposed position in Saba's offshore current zone means the site experiences the full force of Atlantic surge and tidal flow, which simultaneously makes it challenging and biologically exceptional. Black coral trees colonise the deeper sections from 20 meters down. The Saba Marine Park's protection since 1987 has allowed the invertebrate growth here to develop over decades without disturbance. Visibility is typically outstanding — 25–35 meters in calm conditions.
+Eye of the Needle is one of the most dramatic dive structures in the Caribbean. The formation is a narrow volcanic spike only a few feet in diameter, rising dramatically from the seafloor to top out at 90 feet (27 metres) below the surface — there is no shallow section to this dive. The pinnacle is surrounded by 150 feet of open water on all sides, creating a profoundly exposed and oceanic experience. It is located adjacent to Third Encounter, approximately one mile west of Saba's coast, and is often dived as part of the same excursion. The pinnacle is encrusted from base to crest with corals, barrel sponges, and colourful invertebrates built up under the Saba Marine Park's protection since 1987. Visibility typically reaches 30 metres or more in the open-ocean setting. The entire dive takes place between 27 metres and greater depths — divers should be comfortable at Advanced depth with strong open-ocean conditions before attempting this site.
+
+*Note: Some sources mention a swim-through passage in the formation, but this has not been confirmed by multiple independent sources. Divers should verify current conditions with the operator.*
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–28 m |
+| Depth Range | 27 m to greater depths |
 | Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Pinnacle |
 | Visibility | 25–35 m |
-| Current | Strong, variable |
+| Current | Strong, open-ocean |
 | Water Temp | 24–28°C |
 
 ## Marine Life
 
-Large pelagic species are a defining feature of this site. Caribbean reef sharks and nurse sharks rest along the base. Spotted eagle rays and southern stingrays cruise the sand patches around the base at 25–28 meters. The pinnacle's rich invertebrate base — sea fans, black coral, large barrel sponges — supports a dense reef fish community. Schools of horse-eye jacks and bar jacks orbit the pinnacle in mid-water. Hawksbill turtles frequent the shallower sections of the structure. *Hammerhead shark sightings have been reported in Saba's offshore waters generally; no source specifically confirms regular hammerhead encounters at Eye of the Needle itself.*
+The open-ocean position brings consistent pelagic activity. Caribbean reef sharks and nurse sharks are confirmed at the site. Large schools of horse-eye jacks orbit the pinnacle in mid-water. Nassau grouper and yellowfin grouper are present on the structure. Yellowtail snapper school in numbers around the pinnacle crest. The site has occasional manta ray sightings, though these are irregular and not a guaranteed encounter.
+
+*Note: Humpback whale song is sometimes audible in Saba's offshore waters during January–April, but confirming audible whale encounters at Eye of the Needle specifically — versus other Saba offshore sites — requires verification with current operators.*
 
 ## Dive Profile
 
-The descent is direct to the pinnacle crest at around 5–6 meters, from which point divers work in a spiral pattern down the flanks. Advanced divers typically target the 20–28 meter section where the black coral and large sponge colonies are concentrated. The ascent follows the pinnacle structure back to the crest for a safety stop. Due to surge, depth control requires active effort throughout the dive.
+The descent is directly to the pinnacle crest at 27 metres. From there, divers work the flanks with no option to ascend to a shallow section — the entire dive is conducted at depth. Bottom time at 27 metres is approximately 20–25 minutes before ascent. Nitrox is highly recommended by DAN Alert Diver to extend bottom time at this depth. Ascent is along the pinnacle structure, with a safety stop conducted in open water using a DSMB.
 
 ## Entry and Exit
 
-Boat dive only, with access via Fort Bay. The mooring is on a permanent buoy maintained by the Saba Conservation Foundation. The site is only run in suitable sea state conditions — operators will not visit Eye of the Needle if swells are elevated. Entry by giant stride or backward roll; exit requires care in surge conditions.
+Boat dive only from Fort Bay, with a longer crossing than inshore sites (approximately one mile). The operator assesses conditions daily — Eye of the Needle is not attempted in poor sea states. Entry by giant stride. DSMB deployment for ascent is mandatory at this exposed open-ocean site.
 
 ## Tips and Recommendations
 
-This site is reserved for Advanced Open Water certified divers with genuine drift and surge experience. It should not be treated as a first-dive site on arrival in Saba. Operators assess conditions on the day and may substitute a calmer site if Eye of the Needle is running heavy surge. The site is at its best April–November when Atlantic swell activity is lower.
+Eye of the Needle is often combined with Third Encounter in a single boat trip. Nitrox certification and tanks are strongly recommended — this is one of the sites where DAN specifically identifies extended bottom time as a concern. The site is at its best in calmer months (May–November). Experienced guides will coordinate the dive plan to make the most of the available NDL at 27 metres. Carry a DSMB and be prepared to deploy it for the ascent.
 
 ## Safety Considerations
 
-Surge at this exposed pinnacle can be disorienting. Maintain positive buoyancy control at all times and do not attempt to fight current — use the pinnacle structure as a reference and shelter. Ascent timing can be affected by surge cycles; be prepared for an extended safety stop. DSMB deployment is essential.
+The entire dive takes place at Advanced depth (27 m) with no shallow refuge. Do not exceed planned depth — the pinnacle continues to drop and there are no landmarks at the bottom to orient against. Open-ocean current can be strong and variable. Stay close to the pinnacle structure. Ascent timing must be planned carefully to respect NDL at 27 metres. DSMB is essential.
 
 ## Photography
 
-Eye of the Needle rewards wide-angle photography — the narrow spire against the open blue with schooling fish is a classic Saba image. The black coral trees at 22–25 meters are best captured with supplemental lighting. Shark and ray encounters at depth are best shot with a fisheye or rectilinear wide-angle lens.
+The narrow spire against the open blue is one of the Caribbean's most iconic pinnacle photography subjects. A fisheye or wide rectilinear lens captures the scale of the formation against divers. Schooling jacks around the pinnacle at depth make strong wide-angle images. Supplemental lighting is needed to reveal the colour of the encrusting organisms at this depth.
 
 ## Additional Resources
 
-- Saba Conservation Foundation: saba-nature.org — marine park information and permits
-- Sea Saba: primary operator for advanced pinnacle dives
+- Saba Conservation Foundation: sabapark.org — classified in The Pinnacles (sites 1–5)
+- Sea Saba and Saba Divers: both offer guided dives combining Eye of the Needle with Third Encounter
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*
+*Sources: [Saba Conservation Foundation — Dive Sites](https://sabapark.org/saba-national-marine-park/dive-sites-dive-operators/), [DAN Alert Diver — Diving in Saba](https://dan.org/alert-diver/article/diving-in-saba/), [Liveaboard.com — Eye of the Needle](https://www.liveaboard.com/diving/saba-st-kitts/eye-of-the-needle), [Funseaker — Saba Diving Guide](https://www.funseaker.com/sea-news/saba-diving-caribbean-guide), [Divezone — Saba](https://divezone.net/diving/saba), [ScubaBoard — Saba diving depth discussion](https://scubaboard.com/community/threads/ease-of-diving-and-relative-depths-in-saba-stkitts-and-question-about-sharks.498910/). Last updated 2026-06-27.*

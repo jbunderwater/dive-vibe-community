@@ -3,7 +3,7 @@ name: Sardine Reef
 lat: -0.5333183
 lng: 130.7139487
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,14 +25,14 @@ The name says it all. Sardine Reef's submerged pinnacle rises to within 5 meters
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)
 - **Current**: Moderate; schooling intensity increases with moderate tidal flow
 - **Best Time**: October to April; sardine aggregations strongest in calm season
 
 ## Marine Life
 
-Sardines and blue-backed fusiliers dominate the water column above and around the pinnacle in spectacular density — schools of tens of thousands that swirl, compress, and expand in response to the trevally and tuna working their edges. Giant trevally, bigeye trevally, and dog-tooth tuna conduct coordinated attacks on the bait ball. Grey reef sharks patrol the perimeter. On the pinnacle itself, large groupers, napoleon wrasse, and hawksbill turtles are resident. The base of the pinnacle at 15–20 meters has soft coral and sponge gardens with nudibranchs and flatworms for those with macro interests.
+Sources confirmed at this specific site (papua-diving.com, diveconcepts.com, padi.com, divernet.com): three species of pygmy seahorse confirmed at this single site (Bargibanti, Denise, and Pontohi pygmy seahorses — all three); wobbegong sharks; schooling fusiliers and surgeonfish in the dense "sardine" formations that name the site; giant trevally; Spanish mackerel; dogtooth tuna; large orange elephant ear sponges on the pinnacle structure.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ No significant hazards beyond standard open-water diving protocols. Carry an SMB
 Sardine Reef is a wildlife spectacle photographer's dream. Wide-angle glass is essential (14–17mm on full frame). The defining shot is positioned below or inside the bait ball, shooting upward toward the surface with the school creating a tunnel or dome effect. Including a diver adds scale. A fast shutter speed (1/200 or faster) freezes the motion of individual fish within the school. Backscatter management is critical — avoid strobe angles that highlight particles in front of the sardines.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [PADI](https://padi.com/), [Divernet](https://divernet.com/). Last updated 2026-06-27.*

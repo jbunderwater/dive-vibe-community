@@ -17,7 +17,7 @@ Odyssey Stern is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-Odyssey Stern provides access to the stern section of the Odyssey wreck — Roatan's largest shipwreck at 300 feet long. The 91-meter cargo freighter was intentionally sunk in 2002 after a devastating fire. The stern section is tilted to starboard, with holes cut into the hull for diver entry. Interior exploration reveals multi-level stairwells and cargo holds. Marine life includes large groupers, barracuda, green moray eels, glassy sweepers, and soft corals encrusting the hull. Advanced certification recommended; wreck diver certification advised for penetration. Visibility at depth typically ranges 20-30 meters.
+Odyssey Stern provides access to the stern section of the Odyssey — Roatán's largest shipwreck, a 91-meter (300-foot) freighter intentionally sunk in 2002 after fire damage rendered it unfit for service. The stern section is tilted to starboard, with holes cut into the hull for diver access. The cargo hold section has partially collapsed; conditions in the interior change over time and should be confirmed with your operator before penetration. Large groupers, barracuda, and moray eels inhabit the stern structure. Soft corals and encrusting sponges colonize the hull. Advanced certification recommended; wreck diver certification advised for interior penetration. Visibility at depth typically ranges 20–30 meters.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Odyssey Stern provides access to the stern section of the Odyssey wreck — Roat
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Sources: [Splash Inn Dive Resort – The Odyssey Shipwreck](https://roatansplashinn.com/en/roatan-diving-sites/the-odyssey-shipwreck/), [Roatan Tourism Bureau – Odyssey Wreck](https://roatantourismbureau.com/dive-history-roatan/odyssey-wreck-dive-roatan), [DreamWrecks – The Odyssey Roatan](https://dreamwrecks.com/odyssey-roatan-shipwreck). Last updated 2026-06-27.*

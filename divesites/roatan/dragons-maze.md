@@ -36,4 +36,4 @@ Approach the cave entrance carefully and assess conditions before entering. Main
 The interplay of light and shadow at cave entrances creates dramatic wide-angle shots. Use a torch to illuminate interior details and bring out colors. Silhouette shots of divers in the entrance are particularly striking.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on Roatan Marine Park GPS data and south-wall reef characteristics. No site-specific published sources found for this site. Last updated 2026-06-27.*

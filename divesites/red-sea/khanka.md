@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Khanka
 
-The Khanka is a shipwreck resting in the central Egyptian Red Sea, positioned near the Brothers Islands area at approximately 23.6°N. The site is accessed by liveaboard vessels operating routes between Hurghada and the Brother Islands, making it a stop on the classic Egyptian liveaboard circuit for wreck enthusiasts.
+A shipwreck at Zabargad Island in the southern Egyptian Red Sea — depth approximately 20 metres, liveaboard access only.
 
 ## Overview
 
-The Khanka is a steel-hulled cargo or supply vessel that came to rest on a reef, now lying on its side or at a steep angle in waters reaching around 20 meters maximum depth. Over the decades since sinking, the wreck has been colonised by a rich growth of soft and hard corals, transforming the steel structure into an artificial reef. The relatively accessible depth makes it suitable for intermediate divers, and the combination of wreck exploration and reef photography draws liveaboard groups as a secondary dive alongside the more famous Brothers Islands sites.
+The Khanka is a steel-hulled cargo or supply vessel resting near Zabargad Island (Abu Zabad), an offshore island in the southern Egyptian Red Sea at approximately 23.6°N. Zabargad is reached exclusively by liveaboard from Marsa Alam or Port Ghalib. The wreck has been colonised by coral growth over the years and now supports a resident fish community. Note: a separate OSM entry named "Neptuna" exists at nearly identical coordinates (~30m away) — these two entries are likely the same wreck recorded twice, and deduplication may be needed. The vessel's identity and sinking history have not been confirmed from independent sources.
 
 ## Site Information
 
-- **Location**: Central Red Sea, Egypt (near Brothers Islands region)
+- **Location**: Zabargad Island, southern Red Sea, Egypt (~23.6°N, 36.2°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -40,7 +40,7 @@ Descend to the wreck top and begin by orienting yourself to the overall hull sha
 
 ## Entry and Exit
 
-Accessed exclusively by liveaboard. A mooring line or descent line to the wreck provides orientation for the descent. Entry via giant stride or back roll. Surface with sufficient air for a safety stop at 5 meters, signaling the boat with an SMB.
+Accessed exclusively by liveaboard, typically on southern Red Sea circuits from Marsa Alam or Port Ghalib that include Zabargad Island. A mooring line or descent line to the wreck provides orientation for the descent. Entry via giant stride or back roll. Surface with sufficient air for a safety stop at 5 meters, signaling the boat with an SMB.
 
 ## Tips and Recommendations
 
@@ -58,4 +58,4 @@ Wreck penetration should only be attempted by divers with wreck diving training 
 Wide-angle images of the coral-encrusted hull with natural light filtering down from the surface are the signature shot at wreck sites like the Khanka. Schools of glassy sweepers create dramatic interior scenes with a torch for fill light. Close-up shots of the soft coral growth on the hull reveal intricate textures and color.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Location corrected to Zabargad Island based on coordinates (23.617°N/36.205°E). Vessel identity unconfirmed — no site-specific sources found. Possible duplicate of "Neptuna" entry at same location. Last updated 2026-06-27.*

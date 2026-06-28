@@ -19,7 +19,7 @@ Valley Of Kings is a Roatan Marine Park mooring site. The RMP canonical map reco
 
 - **Location**: Roatán, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

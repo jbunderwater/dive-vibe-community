@@ -2,8 +2,8 @@
 name: Cape Mansuar
 lat: -0.569893
 lng: 130.6584611
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Cape Mansuar
 
-Cape Mansuar is a wall dive off the tip of Mansuar Island in Raja Ampat, West Papua, Indonesia, positioned near the heart of the Dampier Strait's most productive diving. The cape's exposure to open-water currents has built a wall community of remarkable richness, with multiple species of shark, large pelagics, and dense coral growth across the entire dive.
+Cape Mansuar is a wall dive with drift characteristics off the tip of Mansuar Island in Raja Ampat, West Papua. PADI explicitly recommends Advanced OWD + Drift Diver certification. Depth reaches 40 meters (131ft per PADI). The site transitions from wall to drift slope. Rated Advanced.
 
 ## Overview
 
@@ -25,24 +25,17 @@ Currents run around the cape and can be moderate to strong on peak tidal flow, s
 
 ## Marine Life
 
-- Wobbegong sharks on ledges and overhangs along the wall
-- Napoleon wrasse patrolling the wall face
-- Grey reef sharks and whitetip reef sharks below
-- Schools of batfish hovering mid-water
-- Soft corals, sea fans, and sponges on the wall face
-
-## Dive Profile
-
-The dive begins at the cape tip and drifts with the current along the wall at 10–25 metres. Sea fans and wobbegong ledges are explored on the descent, with the ascent back along the shallower reef for the safety stop. Intermediate divers comfortable with moderate current will find this site rewarding. Entry and exit are by boat.
+Sources confirmed at this specific site (padi.com, rajaampatbiodiversity.com, divetip.com, originaldiving.com): large sea fans, mobula rays, reef sharks, sea turtles, schooling barracuda, and sweetlips. The wall features wobbegong sharks on ledges and Napoleon wrasse.
 
 ## Practical Information
 
-- **Depth range**: 5–25 m
+- **Depth range**: 5–40 m (PADI confirms 131ft / 40m)
+- **Difficulty**: Advanced — PADI recommends Advanced OWD + Drift Diver
 - **Visibility**: 15–25 m
-- **Current**: Moderate (tidal)
+- **Current**: Moderate to strong (tidal drift)
 - **Best time**: October–April
 - **Water temperature**: 27–30°C
 - **Entry**: Boat
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [PADI](https://padi.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [DiveTip](https://divetip.com/), [Original Diving](https://originaldiving.com/). Last updated 2026-06-27.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Odyssey Wreck
 
-*A deliberately sunk container ship resting on a sandy shelf off Roatán's south side, now hosting a thriving artificial reef community.*
+*Roatán's largest shipwreck — a 91-meter freighter intentionally sunk in 2002 after fire damage, resting on sand at 33 meters off the south coast.*
 
 ## Overview
 
-The Odyssey is a 73-meter container ship that was deliberately scuttled off the south coast of Roatán in 2002 to create a dive attraction and artificial reef. The wreck rests on a sandy shelf at 30–33 meters, with the upper deck structure rising to around 18 meters. After more than two decades underwater, the Odyssey has developed into one of the most productive artificial reef structures in the Bay Islands. The hull is colonized with encrusting sponges, black coral, and wire corals. The wreck sits adjacent to the main reef wall, allowing divers to combine a wreck visit with wall diving in a single dive. Visibility is consistently 25–35 meters.
+The Odyssey is a 91-meter (300-foot) freighter that was deliberately sunk off the south coast of Roatán in 2002 to create a dive attraction and artificial reef. The vessel was donated for sinking by Hybur Limited after a fire damaged the ship during a rebuilding process; Anthony's Key Resort orchestrated the preparation and sinking. The wreck rests on a sandy shelf at approximately 33 meters (110 feet), with the upper deck structure rising to around 18–20 meters. The Odyssey is Roatán's largest shipwreck and one of the largest artificial reef dives in the Caribbean. The cargo hold has partially collapsed. The hull is colonized with encrusting sponges, black coral, and wire corals. The wreck sits adjacent to the main reef wall, allowing divers to combine a wreck visit with wall diving in a single dive. Visibility is consistently 25–35 meters.
 
 ## Site Information
 
@@ -32,11 +32,13 @@ The Odyssey is a 73-meter container ship that was deliberately scuttled off the 
 
 ## Marine Life
 
-The Odyssey supports an impressive marine community. Large cubera snappers and yellowfin groupers have taken up residence in and around the superstructure. Schools of horse-eye jacks and black durgon circle the wreck. Spotted eagle rays visit the sandy shelf surrounding the hull. Nurse sharks shelter in the deeper hold areas. Moray eels inhabit the railings and deck structures. Black coral has colonized the superstructure, and encrusting sponges cover the hull in orange, red, and purple patches. Caribbean reef sharks patrol the water column adjacent to the wreck. Hawksbill turtles are occasionally seen resting on the upper deck.
+Schools of large grouper, barracuda, and jacks are consistently reported by dive operators at the Odyssey. Moray eels inhabit the railings and deck structures. Black coral has colonized the superstructure, and encrusting sponges cover the hull in patches. Caribbean reef sharks are reported in the water column adjacent to the wreck.
+
+*Note: Claims about specific species such as nurse sharks sheltering in the hold, spotted eagle rays on the sandy shelf, and hawksbill turtles on the upper deck are plausible for the Roatán area but could not be verified against sources specific to the Odyssey site and have been noted as unconfirmed.*
 
 ## Dive Profile
 
-Descend directly to the upper deck at 18–20 meters to maximize bottom time in the richest area of the wreck. Explore the deck structures, mast, and railings before dropping to the main hull at 25–30 meters. The deepest section of the hold sits at 33 meters. Allow sufficient air reserve before beginning the ascent — work back up to the upper deck and mast, then ascend the mooring line or make a free ascent with SMB to your safety stop at 5 meters. Consider nitrox to extend bottom time at depth.
+Descend directly to the upper deck at 18–20 meters to maximize bottom time in the richest area of the wreck. Explore the deck structures, mast, and railings before dropping to the main hull at 25–30 meters. The deepest section sits at 33 meters. Note: the cargo hold has partially collapsed — do not enter without verifying current conditions with your dive operator. Allow sufficient air reserve before beginning the ascent — work back up to the upper deck and mast, then ascend the mooring line or make a free ascent with SMB to your safety stop at 5 meters. Nitrox is recommended to extend bottom time at depth.
 
 ## Entry and Exit
 
@@ -59,4 +61,4 @@ Advanced dive requiring good buoyancy control and air management. The 33-meter m
 The Odyssey is one of Roatán's premier wreck photography subjects. The scale of the vessel allows dramatic wide-angle shots — a diver on the upper deck with the hull curving away creates powerful perspective. Black coral on the superstructure provides foreground interest. Schooling jacks circling the hull are an outstanding subject for wide-angle fish photography. A strobe is essential for illuminating the hull sponges at depth where ambient light is limited.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Sources: [Splash Inn Dive Resort – The Odyssey Shipwreck](https://roatansplashinn.com/en/roatan-diving-sites/the-odyssey-shipwreck/), [Roatan Tourism Bureau – Odyssey Wreck](https://roatantourismbureau.com/dive-history-roatan/odyssey-wreck-dive-roatan), [DreamWrecks – The Odyssey Roatan](https://dreamwrecks.com/odyssey-roatan-shipwreck), [Anthony's Key Resort – Odyssey](https://anthonyskey.com/odyssey/), [Sun Divers Roatan – Roatan Wreck Diving](https://sundiversroatan.com/roatan-diving/diving/roatan-wreck-diving/). Last updated 2026-06-27.*

@@ -13,49 +13,35 @@ addedBy: osm_import
 
 ## Levanzo Wreck
 
-The Levanzo is a wreck dive site in the southern Red Sea at approximately 21.99°N, 37.05°E, placing it in the waters off the central Saudi Arabian or Egyptian coast in the less-visited central section of the sea. The name Levanzo refers to an island in the Egadi Islands off western Sicily, suggesting an Italian connection to this vessel's registry or origin.
+The SS Isola di Levanzo (renamed Levanzo in 1902) — an Italian cargo and passenger steamer that ran aground on Elba Reef in March 1923 and sank two weeks later when a salvage hawser snapped. One of the most remote wrecks in the Egyptian Red Sea, lying inverted near the Egypt-Sudan border.
 
 ## Overview
 
-The Levanzo wreck lies at a maximum of around 20 meters depth in the open Red Sea, away from the heavily dived resort areas of the north. The remote location means diver traffic is minimal, giving the wreck a quieter, more pristine character than the famous wrecks around Sharm el-Sheikh or Hurghada. The combination of the Red Sea's exceptional water clarity and low diver pressure has allowed coral and sponge communities to establish across the hull over the years since sinking. The shallow maximum depth makes this accessible to intermediate divers on a standard air fill.
+The full name of this vessel is SS Isola di Levanzo, built in 1901 by Fratelli Orlando (Orlando Brothers) in Leghorn (Livorno), Italy, 3,713 GRT. Sources disagree on her length: cassiopeiasafari.com reports 339.6 feet (approximately 103.5 metres); one other source reports 113 metres. She was renamed Levanzo in 1902 when sold to NGI (Navigazione Generale Italiana). She was damaged by a mine in November 1916 during WWI and later used on the Massawa (Red Sea) supply route. On March 14, 1923, she ran aground on Elba Reef while en route from Genoa to Durban with a cargo of salt and general cargo. On March 28, 1923, while under tow by a salvage vessel, the towing hawser snapped and she sank. The wreck lies inverted (upside down) with the stern and propeller at approximately 22 metres, sections extending to approximately 40 metres, and a maximum depth of approximately 65–80 metres. Access is remote — liveaboard only, near the Egypt-Sudan border.
 
 ## Site Information
 
-- **Location**: Central Red Sea (approximately 21.99°N, 37.05°E)
+- **Location**: Elba Reef, southern Egyptian Red Sea, near Egypt-Sudan border (~21.99°N, 37.05°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Note**: The OSM-recorded depth of 20m appears to describe the shallowest accessible part only
+- **Typical Visibility**: 20–35 meters
 - **Current**: Variable; can be strong in open Red Sea conditions
 - **Best Time**: October to April
 
 ## Marine Life
 
-Remote Red Sea wrecks that see little diver pressure tend to have well-established marine communities and fish that are notably less shy than at heavily visited sites. The hull structure of the Levanzo provides habitat for groupers, moray eels, and lionfish, with clouds of glassy sweepers filling interior spaces. Soft coral growth on the exterior attracts nudibranchs and crinoids. The surrounding open water may bring encounters with grey reef sharks and schooling pelagics that patrol the open Red Sea.
-
-## Dive Profile
-
-Descend the mooring or anchor line to the wreck top and orientate to the vessel's structure before exploring. Work the exterior features at depth — deck structures, hull openings, and encrusted surfaces — before ascending to the shallower superstructure sections for the final part of the dive. Monitor air carefully in the absence of a fixed reference to depth: open water conditions and the occasional strong current can disorient. Complete a full 5-minute safety stop before surfacing.
+Schooling trevally and barracuda, large groupers, black corals, soft corals, and moray eels have been confirmed at this site by multiple sources.
 
 ## Entry and Exit
 
-Accessed exclusively by liveaboard operating central or southern Red Sea itineraries. Open water conditions can be rougher than in sheltered coastal waters — a sea anchor or drift pickup may be used depending on vessel and conditions. Entry via giant stride; deploy SMB well before ascending.
-
-## Tips and Recommendations
-
-- Carry a dive torch and backup light
-- Research the vessel history with the liveaboard operator before the dive to understand what to look for
-- Be prepared for open water conditions — neither shelter nor shore is nearby
-- The remote location makes this wreck feel more like an expedition dive than a resort dive; plan accordingly
+Accessed exclusively by liveaboard operating southern Red Sea itineraries. Egyptian permits required for this latitude zone. Open water conditions can be rougher than in sheltered coastal waters. Entry via giant stride; deploy SMB before ascending.
 
 ## Safety Considerations
 
-Open Red Sea dive sites require greater self-sufficiency than coastal resort dives. Currents can be unpredictable in central Red Sea waters without the coastal geography that moderates flow elsewhere. Always carry a fully charged SMB with oral inflation and an audible signal device. Brief all divers on abort procedures before entry. There are no nearby rescue services at remote sites.
-
-## Photography
-
-A less-visited wreck in clear Red Sea water presents excellent wide-angle opportunities. Shoot along the hull length to capture scale, using a wide-angle or fisheye lens. Interior scenes with torch-lit foreground and ambient-lit background through openings create dramatic contrasts. The encrusted hull surface rewards close-up work.
+Open Red Sea dive site requiring greater self-sufficiency than coastal resort dives. The wreck is inverted, adding navigational complexity. Currents can be unpredictable. Always carry a fully charged SMB with oral inflation and an audible signal device. The deeper sections (40m+) are beyond recreational limits and require technical diving qualifications.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Sources: [Sadko Safari Fleet](https://sadko-safarifleet.com), [Royal Evolution](https://royalevolution.com), [Cassiopeia Safari](https://cassiopeiasafari.com), [Divescover](https://divescover.com), [Diving Attitude](https://divingattitude.com). Last updated 2026-06-27.*

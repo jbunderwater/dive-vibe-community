@@ -32,4 +32,4 @@ Sandra's Grotto is a cave and cavern site along the West End wall that offers ov
 Approach the cave entrance carefully and assess conditions before entering. Maintain excellent buoyancy to avoid disturbing sediment. Follow the cave walls and always keep the entrance in sight unless properly trained for overhead environments. Exit the same way you entered.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on Roatan Marine Park GPS data and south-wall reef characteristics. No site-specific published sources found for this site. Last updated 2026-06-27.*

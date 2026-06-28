@@ -32,7 +32,7 @@ Manta Point sits in the productive waters off Arborek village, where reef manta 
 
 ## Marine Life
 
-Reef manta rays are the headline attraction — multiple individuals per dive is the norm, not the exception. The cleaning station sits at 8–15 meters on a gently sloping coral reef. Beyond the mantas, the reef supports healthy populations of reef sharks, sea turtles, napoleon wrasse, and large schools of fusiliers. The coral garden leading to the station is rich in hard coral growth with resident blue-spotted stingrays resting on sandy patches.
+Sources confirmed at this specific site (indonesia-tourism.com, diveconcepts.com, rajaampatbiodiversity.com, luxuryrajaampat.com): oceanic/reef manta rays with 5–30 mantas simultaneously; some all-black morphs (melanistic mantas); cobias; bumphead parrotfish; blacktip reef sharks. Guide is compulsory at this site per indonesia-tourism.com. The cleaning station sits at 8–15 meters.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents can pick up on the incoming tide and may make holding position at the c
 Manta Point is one of the finest manta photography locations on Earth. Wide-angle glass (10–17mm fisheye or 16–35mm) is ideal. Shoot looking up toward the surface to silhouette the mantas against the light, or position at the same depth for a level profile shot. Mantas circle predictably, so patience yields exceptional close-focus wide-angle images.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Indonesia Tourism](https://indonesia-tourism.com/), [Dive Concepts](https://diveconcepts.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [Luxury Raja Ampat](https://luxuryrajaampat.com/). Last updated 2026-06-27.*

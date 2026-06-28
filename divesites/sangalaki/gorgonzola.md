@@ -3,7 +3,7 @@ name: Gorgonzola
 lat: 2.175
 lng: 118.555
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 23
 entryType: boat
 siteType: wall
 ref: null
@@ -17,21 +17,21 @@ Gorgonzola is a wall dive site near Maratua Island in the Derawan Archipelago, E
 
 ## Overview
 
-Gorgonzola is part of the outer Maratua dive circuit — a vertical wall site that Scuba Junkie Sangalaki lists alongside the Lighthouse as among the sites where "pristine corals in the shallows" give way to shark encounters at depth. The wall features dramatic gorgonian sea fans in shades of red, orange, and yellow cascading down the face, alongside dense soft coral growth. Deeper sections (below 20 metres) are regularly visited by white-tip reef sharks, leopard sharks, and grey reef sharks. Scuba Junkie's top dive site guide describes Gorgonzola as offering "dramatic vertical walls, vibrant soft corals, and excellent visibility," making it well-suited to wide-angle photography and less crowded than better-known sites in the archipelago.
+Gorgonzola is part of the outer Maratua dive circuit — a vertical wall site approximately 25 minutes north of Nabucco Islands at the northern tip of Maratua. Scuba Junkie Sangalaki lists it alongside Lighthouse as among the sites where "pristine corals in the shallows" give way to shark encounters at depth. Sienna Resort's Maratua dive guide confirms the site: "a beautiful reef top and a dramatic wall with a sandy plateau at 30 metres," and describes it as accessible to all experience levels in mild conditions. The wall features dramatic gorgonian sea fans cascading down the face alongside dense soft coral growth. A Premier Liveaboard Diving itinerary confirms Gorgonzola on the northern Maratua circuit. Special sightings include schools of bumphead parrotfish and macro creatures. Deeper sections are visited by white-tip reef sharks, leopard sharks, and grey reef sharks (confirmed Scuba Junkie Sangalaki).
 
 ## Marine Life
 
-Scuba Junkie Sangalaki confirms: gorgonian sea fans, soft coral colonies, reef sharks (white-tip, grey reef) at depth, and excellent visibility. Specific species named below are consistent with Maratua outer-wall character but are drawn from regional reference rather than site-specific source confirmation.
-
-- Gorgonian sea fans — dense colonies on the wall face (source-confirmed)
-- White-tip reef sharks and grey reef sharks at depth (source-confirmed)
-- Soft coral anthias clouds in the shallower sections (source-confirmed)
-- Schooling jackfish and batfish (regional expectation; no site-specific source)
-- Nudibranchs and commensal shrimps on sea fan stems (regional expectation; no site-specific source)
+- Gorgonian sea fans — large colonies on the wall face (confirmed: Scuba Junkie Sangalaki, Sienna Resort)
+- Bumphead parrotfish schools (confirmed: Sienna Resort Maratua guide)
+- Napoleon wrasse (confirmed: Scuba Junkie Sangalaki top sites)
+- White-tip reef sharks and grey reef sharks at depth (confirmed: Scuba Junkie Sangalaki)
+- Macro creatures on the reef top (confirmed: Sienna Resort)
+- Schooling jackfish and batfish (Scuba Junkie Sangalaki describes pelagic encounters at wall sites of this type)
+- Soft coral anthias clouds in the shallower sections
 
 ## Dive Profile
 
-The wall begins in shallow water (approximately 5–8 metres on the crest) and drops to beyond 30 metres. Intermediate divers can work the wall face between 10 and 25 metres where gorgonian density and shark activity are greatest. Visibility can reach 40 metres in good conditions — Maratua's distance from shore means oceanic water clarity. Currents are mild to moderate and variable depending on tidal state.
+The wall begins in shallow water on the crest and drops to a sandy plateau at approximately 30 metres; Sienna Resort's guide confirms a maximum practical depth of 23 metres (75 feet) on the typical dive profile, with the sandy base at 30 metres accessible to those who descend further. Intermediate divers can work the wall face between 10 and 20 metres where gorgonian density is greatest. Visibility can reach 40 metres in good conditions — Maratua's distance from shore means oceanic water clarity. Currents are moderate to strong; the site is best dived with some current experience.
 
 ## Entry and Exit
 
@@ -57,11 +57,11 @@ Gorgonzola is one of the standout wide-angle photography sites in the Derawan Ar
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 23 meters
 
 ## Additional Resources
 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/). Note: All three sources are from the same domain (scubajunkiesangalaki.com). This site requires at least 2 additional independent domain sources before full validation. Last updated 2026-06-08.*
+*Sources: [Scuba Junkie Sangalaki – Top Dive Sites Derawan](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Sienna Resort – Ultimate Guide Maratua Dive Spots](https://sienna-resort.com/amp/dnews/51/sienna-resort%E2%80%99s-ultimate-guide-to-maratua-islands-best-diving-spots.html), [Premier Liveaboard Diving – Kalimantan Itinerary](https://premierliveaboarddiving.com/assets/itineraries/carpe-diem-phinisi/Kalimantan.pdf). Last updated 2026-06-27.*

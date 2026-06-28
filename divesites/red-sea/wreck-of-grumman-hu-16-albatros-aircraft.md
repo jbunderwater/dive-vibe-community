@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Wreck of Grumman HU-16 Albatros Aircraft
 
-The Wreck of the Grumman HU-16 Albatros is an unusual and historically significant dive site in the southern Red Sea off the coast of Egypt. The HU-16 Albatros was a twin-engine amphibious aircraft manufactured by Grumman for the United States military, and this example came to rest on the seabed near Hamata in circumstances that remain somewhat obscure in published accounts.
+The Wreck of the Grumman HU-16 Albatros is a rare aircraft wreck in the extreme southern Egyptian Red Sea, located near Sha'ab Ohroob (Ohrob Reef) close to the Egypt–Sudan border — not the Hamata area as previously described.
 
 ## Overview
 
-Aircraft wrecks are rare in the Red Sea, making this a distinctive dive that attracts wreck enthusiasts and aviation history buffs alongside regular divers. The Grumman HU-16 Albatros was a large flying boat used for maritime patrol, search and rescue, and antisubmarine operations. The wreck rests at relatively modest depth, allowing extended bottom time to explore the airframe. The aircraft structure is reasonably intact and increasingly encrusted with coral growth, integrating it into the reef environment. The site is reached via liveaboard or day boat from the Hamata area.
+Aircraft wrecks are rare in the Red Sea, making this a distinctive dive. The coordinates (22.39°N, 36.50°E) place the site at Sha'ab Ohroob in the extreme southern Egyptian Red Sea, approximately 150 km south of Marsa Alam and within reach only by liveaboard. The Grumman HU-16 Albatros was a twin-engine amphibious flying boat used for maritime patrol, search and rescue, and antisubmarine operations. The circumstances of its presence here are not confirmed by published sources. The airframe is encrusted with coral growth and integrates into the reef environment. Extended liveaboard travel is required.
 
 ## Site Information
 
-- **Location**: Hamata area, Southern Red Sea, Egypt
+- **Location**: Sha'ab Ohroob (Ohrob Reef), extreme southern Red Sea, Egypt (~22.39°N, 36.50°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -40,7 +40,7 @@ Descend directly to the aircraft and begin with the cockpit and nose section. Sw
 
 ## Entry and Exit
 
-Access is by dive boat or liveaboard from Hamata, approximately 200 km south of Marsa Alam. Standard back roll or giant stride entry. Deploy an SMB before ascending. The remote location means boat crew must maintain a sharp watch on the surface.
+Access is by liveaboard only — the site at Sha'ab Ohroob lies approximately 150 km south of Marsa Alam, within reach only on extended southern Red Sea itineraries. Standard back roll or giant stride entry. Deploy an SMB before ascending. The remote location means boat crew must maintain a sharp watch on the surface.
 
 ## Tips and Recommendations
 
@@ -52,11 +52,11 @@ Access is by dive boat or liveaboard from Hamata, approximately 200 km south of 
 
 ## Safety Considerations
 
-The remote location of this site means that medical facilities are a long drive away. Dive conservatively and ensure all team members are comfortable with the depth and conditions. Metal edges on the wreck can be sharp and may carry marine stingers; avoid physical contact with the structure. Do not attempt to enter the aircraft interior without proper wreck penetration training and equipment. Always carry and deploy an SMB.
+The extreme remote location of this site — near the Egypt–Sudan border — means medical facilities are a very long distance away. Dive conservatively and ensure all team members are comfortable with the depth and conditions. Metal edges on the wreck can be sharp and may carry marine stingers; avoid physical contact with the structure. Do not attempt to enter the aircraft interior without proper wreck penetration training and equipment. Always carry and deploy an SMB.
 
 ## Photography
 
 This is primarily a wide-angle subject — the HU-16 is a large aircraft and capturing its full form requires a recirculated or dome port wide-angle setup. Swimming back from the nose or tail provides silhouette opportunities with divers framed against the airframe. The cockpit and engine nacelles offer compelling detail shots. Fish life around the wing roots and glassfish schools near the fuselage add motion and scale to compositions.
 
 ---
-*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*
+*Location corrected to Sha'ab Ohroob/Ohrob Reef (22.39°N/36.50°E) based on coordinates — previous "near Hamata" description was incorrect. Aircraft history and sinking circumstances unconfirmed. No site-specific dive sources found. Last updated 2026-06-27.*
