@@ -21,18 +21,18 @@ The M Alexand is a 107-meter (350-foot) freighter that ran aground near Dixon Co
 
 ## Site Information
 
-- **Location**: North coast of Roatán, Bay Islands, Honduras
+- **Location**: Near Dixon Cove, south coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–28 meters (65–90 feet)
-- **Current**: Light to minimal; north coast is generally more sheltered
-- **Best Time**: Year-round; north coast can be rough during norther weather events in winter
+- **Current**: Light to minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-The wreck supports a productive artificial reef community. Groupers of multiple species inhabit the hull spaces. Yellowtail snappers school in the water column above. Moray eels — green, spotted, and goldentail — occupy crevices throughout the structure. Spiny lobsters shelter under hull overhangs. The encrusting life on the hull includes feather duster worms, tunicates, and oysters alongside sponge and coral growth. Hawksbill turtles visit the site. The sandy bottom surrounding the wreck is home to garden eels and southern stingrays.
+The M Alexand hosts the typical artificial reef community found on long-established Roatán wrecks: groupers inhabiting hull spaces, moray eels in crevices, snappers schooling above, and spiny lobsters under overhangs. The hull encrustation — sponges, corals, and feather duster worms — is particularly dense after four decades of growth. No site-specific marine life census for the M Alexand has been published; regional Roatán fauna applies.
 
 ## Dive Profile
 
@@ -40,15 +40,14 @@ Descend to the upper hull at 18–20 meters and begin an exterior circuit of the
 
 ## Entry and Exit
 
-Served by Sandy Bay and West End dive operators on the north coast of Roatán. Entry via giant stride or back roll. North coast conditions are generally calmer than the south side but can be disrupted by winter northers.
+Served by French Harbour and south-coast dive operators. Entry via giant stride or back roll. The south-coast crossing is typical for this area.
 
 ## Tips
 
-- Combine with a north-coast reef dive for a two-tank morning — the north side has different species composition than the south walls
 - Penetration is possible in accessible areas but requires wreck experience and a dive torch
-- The bow section typically has the densest fish concentration — start here
-- Early morning dives have better natural light filtering to the wreck at this depth
-- Ask your operator about the wreck's history and any identifying features
+- The heavily encrusted hull surface rewards macro photography
+- The relatively shallow maximum depth (20 meters) allows extended bottom time compared to the deeper Bay Islands wrecks
+- Ask your operator about the vessel's history — local operators often know details not in published sources
 
 ## Safety
 
@@ -59,4 +58,4 @@ Advanced dive requiring proper buoyancy and gas management at 30 meters. Do not 
 The wreck's long history of encrustation makes it a compelling photography subject. Wide-angle shots of the hull covered in sponges and corals benefit from strobe fill to bring out colors. The bow or stern viewed from the side creates a classic wreck portrait composition. Macro subjects on the hull — tube worms, nudibranchs, and small invertebrates — reward a patient macro photographer.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Sources: [Roatan Tourism Bureau](https://roatantourismbureau.com/dive-history-roatan/m-alexand-wreck), [Payamag Roatan](https://www.payamag.com/roatan-wreck-diving/), [Roatan Dive Center](https://www.roatandivecenter.com/dive-sites/). Vessel name sequence and grounding date sourced from cross-referencing these sources; some details of pre-1981 ownership history remain inconsistently reported across sources. Last updated 2026-06-28.*
