@@ -3,7 +3,7 @@ name: Mayhem Dive Site
 lat: -0.5110819
 lng: 130.4465905
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 35
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,50 +13,51 @@ addedBy: osm_import
 
 ## Mayhem Dive Site
 
-Mayhem earns its name. This exposed pinnacle in the central Dampier Strait is Raja Ampat's most aptly named dive site — a current-swept reef structure where the fish life is so thick, so fast-moving, and so chaotic that first-time visitors are often overwhelmed.
+Mayhem is a large submerged pinnacle on the western edge of the Dampier Strait, just off the coastline of Gam Island, Raja Ampat. The site's position in a key tidal channel creates strong currents that drive intense fish aggregations, making it one of the most action-packed dive sites in the archipelago when conditions are right.
 
 ## Overview
 
-Mayhem is a submerged pinnacle that breaks the surface and extends into the Dampier Strait's powerful tidal flows. When conditions align — strong current, correct tidal phase — the site delivers an underwater spectacle that few places on Earth can match. Schools of jack and fusilier swirl in tornadoes overhead, barracuda hold formation in the current, reef sharks cruise the edges, and mantas occasionally make an appearance. The pinnacle's surface is heavily colonized with soft coral and encrusting life, but the real draw is the pelagic action in the water column above. Water temperature averages 27–29°C and visibility is typically 15–25 meters.
+The pinnacle top starts at approximately 10 metres and the structure drops below 35 metres at points. Its walls and slopes are covered in soft and hard coral, with natural overhangs that shelter resident species. The site performs best with a gentle to moderate current running — Meridian Adventure Dive, the local operator, recommends entry from the north and drifting along either the west or east walls. Very strong current is not recommended for a comfortable dive.
+
+Multiple sources confirm the pinnacle functions as a natural marine life corridor due to its proximity to the Gam Island shoreline. The water column above the pinnacle concentrates large schools of fusiliers, jacks, and barracuda, particularly on incoming current. Water temperature averages 27–29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
+- **Location**: Western edge of Dampier Strait, off Gam Island, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–25 meters (50–80 feet)
-- **Current**: Strong, often very strong; site is best at moderate to strong flow
-- **Best Time**: October to April; tidal timing is critical
+- **Site Type**: Pinnacle
+- **Difficulty Level**: Advanced (strong currents; SMB and reef hook required)
+- **Maximum Depth**: Below 35 metres (pinnacle top at ~10 m)
+- **Typical Visibility**: 15–25 metres
+- **Current**: Variable; best at gentle to moderate; very strong conditions not recommended
+- **Best Time**: October to April; tidal timing critical
 
 ## Marine Life
 
-Giant trevally and bigeye trevally form dense, fast-moving schools that chase baitfish across the top of the pinnacle. Chevron barracuda stack in columns. Grey reef sharks and white-tip reef sharks patrol the deeper flanks. On the pinnacle itself, ornate wobbegongs and tasselled wobbegongs sit motionless in the surge zone. Reef fish diversity is extraordinary — surgeonfish, triggerfish, parrotfish, anthias, and butterflyfish crowd every coral head. During certain tidal phases, oceanic manta rays sweep through the blue water beyond the pinnacle edge.
+The following species are confirmed at Mayhem by multiple independent operator sources:
+
+- **Fusiliers**: Large schools confirmed by multiple sources
+- **Jacks (trevally)**: Dense aggregations confirmed; specific species not identified in sources beyond "jacks"
+- **Snappers**: Confirmed
+- **Batfish**: Confirmed by Meridian Adventure Dive
+- **Sweetlips**: Confirmed
+- **Barracuda**: Confirmed in schools off the reef walls
+- **Bumphead parrotfish**: Confirmed by Raja Ampat Biodiversity Resort
+- **Tasselled wobbegong sharks**: Confirmed resting on the pinnacle structure (Meridian Adventure Dive, Bird's Head Seascape)
+- **Grey reef sharks**: Confirmed by Raja Ampat Biodiversity Resort
+- **Pygmy seahorses**: Confirmed on the pinnacle structure by Raja Ampat Biodiversity Resort
+- **Nudibranchs**: Confirmed by Raja Ampat Biodiversity Resort
+- **Stingrays**: Confirmed
+
+Manta rays and whales have been reported in deeper western waters adjacent to the site, though these are not confirmed regular sightings at the pinnacle itself.
 
 ## Dive Profile
 
-The dive plan depends entirely on current strength and direction. With strong incoming current, drop behind the pinnacle, hook in or fin hard to hold position, and allow the fish action to come to you. With slacker conditions, swim the circumference of the pinnacle from the summit at 5–10 meters down to 20–25 meters. The fishiest zone is typically the upper 15 meters where schools concentrate. Always plan air conservatively — the excitement of Mayhem tends to drive up breathing rate.
-
-## Entry and Exit
-
-Boat access only — liveaboards and day-trip operators drop divers directly on the pinnacle with a current assessment. If current is running, free descent to the pinnacle top is essential; avoid drifting into open water away from the structure. Carry reef hooks. SMB deployment at the end of the dive is mandatory — divers often surface downcurrent of the boat.
-
-## Tips and Recommendations
-
-- Only dive this site if you are comfortable in strong current — it is not a beginner site
-- A reef hook allows you to hold position and watch the action without fighting current
-- Breathe slowly and deliberately; adrenaline elevates air consumption significantly here
-- The best fish action is typically on the incoming current during the early flood tide
-- Confirm tidal timing with your guide before entering the water
+Descend from the north along the current-facing edge, then drift along the west or east walls depending on current direction. The best fish action is in the upper 10–15 metres where schools concentrate. Explore the coral-covered bommies in shallower sections on ascent, checking for resident wobbegong sharks and pygmy seahorses. Carry reef hooks — these allow you to hold position and watch fish action without fighting current.
 
 ## Safety Considerations
 
-Mayhem is advanced-only. Unmanaged current can sweep divers away from the pinnacle into open water. Never surface in open water without an SMB deployed. Guide lines may be rigged on some visits; follow the guide's lead precisely. The site should not be dived by less experienced divers regardless of conditions.
-
-## Photography
-
-The chaotic schooling fish action is the main photographic subject. A wide-angle lens (15mm or wider) captures the school density. Shooting upward toward the surface gives silhouettes of trevally and barracuda against blue water. A fast shutter speed (1/160 or faster) is needed to freeze fast-moving fish. Ambient light photography works well in the upper 10 meters on sunny days.
+Advanced-only. Unmanaged current can sweep divers away from the pinnacle into open water. SMB deployment is mandatory — divers commonly surface downcurrent of the boat. Carry a reef hook. Very strong currents make this site unsuitable for comfortable diving and should be avoided without proper experience and guidance.
 
 ---
-*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*
+*Sources: [Meridian Adventure Dive - Mayhem](https://raja.meridianadventuredive.com/blog/mayhem/), [Bird's Head Seascape - Top 5 Dive Sites by Mike Veitch](https://birdsheadseascape.com/diving/top-5-dive-sites-raja-ampat-underwater-tribes-mike-veitch/), [Raja Ampat Biodiversity Resort - Mayhem](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [Aaron and Cassie - Central Raja Ampat Dive Sites 2026](https://aaronandcassie.com/central-raja-ampat-dive-sites-expert-guide-2026/). Last updated 2026-06-28.*

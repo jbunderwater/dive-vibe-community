@@ -32,7 +32,9 @@ Manta Sandy lives up to its name: the site features a shallow sandy bottom at 15
 
 ## Marine Life
 
-Reef manta rays are the main draw and deliver reliably — liveaboard guides rate Manta Sandy as one of the most consistent manta encounters in Raja Ampat. Mantas hover at the cleaning station at 10–15 meters, then glide away in wide arcs before returning for another cleaning pass. Multiple individuals often arrive simultaneously, occasionally performing synchronized spirals. Beyond the mantas, the sandy bottom supports blue-spotted stingrays, various flat-fish, and aggregations of cardinalfish. The reef edges adjacent to the sand flat have typical Raja Ampat reef fish diversity.
+Manta rays are the overwhelming draw and the only species for which consistent site-specific documentation exists. The population at Manta Sandy includes standard reef mantas (*Mobula alfredi*), black reef mantas (comprising approximately 40% of sightings at this site), and occasional oceanic mantas. Up to 20 individuals have been recorded on a single dive. Cleaner wrasse and black-lip butterflyfish service the mantas at the station. La Galigo Liveaboard's site-specific guide additionally documents golden trevally, cobias, turtles, bumphead parrotfish, moon wrasse, blacktip reef sharks, and the rare Pegasus sea moth (*Eurypegasus draconis*) on sandy areas near the cleaning station.
+
+Blue-spotted stingrays and cardinalfish — listed in earlier versions of this description — are not confirmed by sources specifically reviewed for Manta Sandy. Regional fauna applies for general reef fish on the adjacent bommies.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ The site is shallow and typically low-current. The primary consideration is resp
 Manta Sandy is arguably the finest manta photography site in Raja Ampat. The sandy bottom provides a clean, uncluttered background for manta portraits. Shooting upward from below the manta against the surface light produces dramatic silhouette shots. Wide-angle glass (10–17mm) captures the full wingspan. Getting below the manta and shooting upward is the definitive composition. The shallow depth means ambient light is plentiful without strobe assistance.
 
 ---
-*Sources: [DiveConcepts — Manta Sandy](https://diveconcepts.com/manta-sandy-raja-ampat), [Divernet — Manta Sandy Guide](https://divernet.com/content-marketing/local-guide-to-raja-ampat-dive-sites-manta-sandy/), [Manta Trust — Raja Ampat Manta Project](https://www.mantatrust.org/ramp). Last updated 2026-06-28.*
+*Sources: [La Galigo Liveaboard — Manta Sandy Dive Site](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/manta-sandy/), [Raja Ampat SEA Centre — Manta Sandy Ranger Station](https://www.rajaampat-seacentre.org/our_project/manta-sandy-ranger-station/), [DiveConcepts — Manta Sandy](https://diveconcepts.com/manta-sandy-raja-ampat), [Manta Trust — Raja Ampat Manta Project](https://www.mantatrust.org/ramp). Last updated 2026-06-28.*

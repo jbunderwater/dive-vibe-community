@@ -17,7 +17,7 @@ The Dunraven is one of the Red Sea's most popular historic wreck dives, resting 
 
 ## Overview
 
-The Dunraven was an 85-metre British steamship of approximately 1,800 tonnes, built by C. Mitchell and Co. in Newcastle upon Tyne and launched on 14 December 1872. She was engaged in trade between Britain and India when she ran aground on Sha'ab Mahmoud on a return voyage from Bombay, carrying spices, cotton, and muslin. The crew remained on board for weeks attempting to refloat her before the ship caught fire and sank on 22 April 1876. No lives were lost in the sinking. The wreck was rediscovered in 1977. The hull sits inverted on the sandy bottom at 18 metres, with the keel visible at around 6 metres below the surface. The overturned hull creates an overhang that is swim-through accessible on the stern section, where filtered sunlight creates dramatic lighting effects. Visibility at the site typically reaches 20–30 metres. Water temperatures average 22°C in winter and 28°C in summer.
+The Dunraven was a 79.6-metre British steamship of 1,613 GRT, built by C. Mitchell and Co. in Newcastle upon Tyne and launched on 14 December 1872. She was engaged in trade between Britain and India when she ran aground on Sha'ab Mahmoud on a return voyage from Bombay, carrying spices, cotton, and muslin. The crew worked to refloat her for days before flooding reached the engine room; she slipped off the reef and sank on 25 April 1876. No lives were lost — all 25 crew were rescued by local fishermen. The wreck was rediscovered in 1977. The hull sits inverted on a sloping sandy bottom, with the shallowest sections (bow) at around 15 metres and the deepest sections (stern) at approximately 28–30 metres. The overturned hull creates an overhang that is swim-through accessible on the stern section, where filtered sunlight creates dramatic lighting effects. Visibility at the site typically reaches 20–30 metres.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Dunraven was an 85-metre British steamship of approximately 1,800 tonnes, bu
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
@@ -36,7 +36,7 @@ The Dunraven's encrusted hull hosts an extraordinary diversity of marine life. G
 
 ## Dive Profile
 
-Most operators approach the wreck from the stern, descending to the keel at around 6 meters before dropping down the side to the bow section at 18 meters. The classic route follows the port (left) side to the bow, then turns back along the starboard side past the engine room — still recognisable — to the stern overhang. The stern swim-through at 15 meters is the highlight: a natural cavern formed by the inverted hull that can be safely entered without penetration training, though a torch greatly enhances the experience. Reserve 50 bar for the return journey and safety stop.
+The wreck lies inverted on a sloping bottom with the bow (shallowest section) at around 15 metres and the stern at approximately 28–30 metres. Most operators descend to the mid-section first, then work toward the stern. The classic route follows the port (left) side toward the bow, then turns back along the starboard side past the engine room — still recognisable — to the stern overhang. The stern swim-through at 18–20 metres is the highlight: a natural cavern formed by the inverted hull that can be safely entered, though a torch greatly enhances the experience. Reserve 50 bar for the return journey and safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ The stern swim-through is a confined space; divers with poor buoyancy should pra
 The Dunraven is among the most photogenic wrecks in the Red Sea. The stern swim-through with sunlight beams streaming through gaps in the hull is an iconic Red Sea image. A wide-angle lens captures the sweep of the inverted hull; a torch or video light will bring out the colours of the soft corals and sweeper schools in the cavern interior. Macro photographers will find nudibranchs, flatworms, and commensal shrimp throughout the encrusted plates.
 
 ---
-*Sources: [SS Dunraven Wikipedia](https://en.wikipedia.org/wiki/SS_Dunraven), [Divers Alert Network - Discovery of the Dunraven](https://dan.org/alert-diver/article/discovery-of-the-dunraven/), [Egypt Liveaboard - Dunraven](https://www.egypt-liveaboard.com/dive-sites/dunraven-wreck/). Last updated 2026-05-25.*
+*Sources: [SS Dunraven Wikipedia](https://en.wikipedia.org/wiki/SS_Dunraven), [Red Sea Wreck Project — Dunraven](https://www.redseawreckproject.com/wrecks/d/dunraven/), [Divers Alert Network - Discovery of the Dunraven](https://dan.org/alert-diver/article/discovery-of-the-dunraven/), [Egypt Liveaboard - Dunraven](https://www.egypt-liveaboard.com/dive-sites/dunraven-wreck/). Last updated 2026-06-28.*

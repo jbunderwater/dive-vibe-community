@@ -17,7 +17,7 @@
       "scuba_diving:type": "bigfish",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -38,7 +38,7 @@
       "name:fr": "Site de plongée Blue Magic",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -58,7 +58,7 @@
       "name": "Friwen Bonda",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -78,7 +78,7 @@
       "name": "Mayhem Dive Site",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -99,7 +99,7 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -119,7 +119,7 @@
       "name": "Batu Rufas Dive Site",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -141,7 +141,7 @@
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -160,7 +160,7 @@
     "tags": {
       "name": "Arborek shark point",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -181,7 +181,7 @@
       "name": "Myoskon",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -201,7 +201,7 @@
       "name": "Fam Wall",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -221,7 +221,7 @@
       "name": "Sawandarek Jetty",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -231,7 +231,7 @@
     "lon": 130.7139487,
     "osm_id": 9865460718,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -243,7 +243,7 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -264,7 +264,7 @@
       "name": "Batu Lima",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -284,7 +284,7 @@
       "name": "Friwen Garden",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -304,7 +304,7 @@
       "name": "Yembuba Diving",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -324,7 +324,7 @@
       "name": "Lalosi",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -344,7 +344,7 @@
       "name": "The Cathedral",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -364,7 +364,7 @@
       "name": "Chicken Reef",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -384,7 +384,7 @@
       "name": "Friwen Laut",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -404,7 +404,7 @@
       "name": "Koh",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -423,7 +423,7 @@
     "tags": {
       "name": "Kakatua reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -442,7 +442,7 @@
     "tags": {
       "name": "Mioskun",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -461,7 +461,7 @@
     "tags": {
       "name": "Manta Sandy",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -480,7 +480,7 @@
     "tags": {
       "name": "Ot Di Ma",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -501,7 +501,7 @@
       "name": "Selat Kabui",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -521,7 +521,7 @@
       "name": "Mangrove",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -541,7 +541,7 @@
       "name": "Francisco",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -560,7 +560,7 @@
     "tags": {
       "name": "Lao lao",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -580,7 +580,7 @@
       "name": "Andrea's Point",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -599,7 +599,7 @@
     "tags": {
       "name": "West Mensuar",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -619,7 +619,7 @@
       "name": "Cross Over",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -638,7 +638,7 @@
     "tags": {
       "name": "Urai",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -659,7 +659,7 @@
       "name": "Mike's Point",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -679,7 +679,7 @@
       "name": "Ransiwor",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -698,7 +698,7 @@
     "tags": {
       "name": "Wai FPW",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -719,7 +719,7 @@
       "source": "Erens",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -739,7 +739,7 @@
       "name": "Erens New",
       "source": "Erens Diving Center Sawandarek",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -758,7 +758,7 @@
     "tags": {
       "name": "Irvin's Mantas",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -777,7 +777,7 @@
     "tags": {
       "name": "Swallope",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -798,7 +798,7 @@
       "name": "Otdima Reef",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -818,7 +818,7 @@
       "name": "Telma",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -838,7 +838,7 @@
       "name": "West Reef's End",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -858,7 +858,7 @@
       "name": "Way Pretty Shallows",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -879,7 +879,7 @@
       "name": "Soft corals in the passage",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -899,7 +899,7 @@
       "name": "Fuzzy Rock",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -921,7 +921,7 @@
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -941,7 +941,7 @@
       "name": "Mangrove Ridge",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -963,7 +963,7 @@
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -983,7 +983,7 @@
       "name": "Deep Rock",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1003,7 +1003,7 @@
       "name": "Mangrove and Slope",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1024,7 +1024,7 @@
       "name": "Batu Laut",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1045,7 +1045,7 @@
       "name": "Manta Ridge",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1065,7 +1065,7 @@
       "name": "Yeben Shallows",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1085,7 +1085,7 @@
       "name": "The Lagoon",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1105,7 +1105,7 @@
       "name": "Barracuda West",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1126,7 +1126,7 @@
       "name": "Pulau Memyai",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1147,7 +1147,7 @@
       "name": "White Arrow",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1167,7 +1167,7 @@
       "name": "Barracuda East",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1187,7 +1187,7 @@
       "name": "West Penemu",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1207,7 +1207,7 @@
       "name": "Harto's Reef",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1228,7 +1228,7 @@
       "name": "Imbekwan Bommies",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1249,7 +1249,7 @@
       "name": "Imbekwan wall",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1269,7 +1269,7 @@
       "name": "Swarm",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1289,7 +1289,7 @@
       "name": "Keruo Channel",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1309,7 +1309,7 @@
       "name": "My Reef",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1320,7 +1320,7 @@
     "osm_id": 13045665466,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "wall",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": false,
@@ -1329,7 +1329,7 @@
       "name": "Seamount",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1349,7 +1349,7 @@
       "name": "Keruo Night Dive",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1370,7 +1370,7 @@
       "natural": "cave_entrance",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1395,7 +1395,7 @@
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1416,7 +1416,7 @@
       "name": "Yenkoranu Jetty",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1426,7 +1426,7 @@
     "lon": 130.6584611,
     "osm_id": 565524433,
     "osm_type": "way",
-    "depth": 25,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1439,7 +1439,7 @@
       "scuba_diving:type:snorkeling": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1461,7 +1461,7 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1482,7 +1482,7 @@
       "name": "Friwen Wall",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: validation_source was a narrative description, not a real domain source. Requires 3 independent domain sources for validation."
     }
   },
@@ -1517,7 +1517,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1655,7 +1655,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1673,7 +1673,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1692,7 +1692,7 @@
       "addedBy": "manual_addition",
       "area": "Misool",
       "alt_names": "Grouper Net",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1710,7 +1710,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1728,7 +1728,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1763,7 +1763,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1781,7 +1781,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Raja Ampat North",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1799,7 +1799,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1818,7 +1818,7 @@
       "addedBy": "manual_addition",
       "area": "Misool",
       "alt_names": "Anti-Chovies",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1836,7 +1836,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1854,7 +1854,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
     }
   },
@@ -1872,7 +1872,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1890,7 +1890,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1925,7 +1925,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (birdsheadseascape.com). Requires 3 independent domain sources for validation."
     }
   },
@@ -1943,7 +1943,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
@@ -1961,7 +1961,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
@@ -1979,7 +1979,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
@@ -1997,7 +1997,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
@@ -2015,7 +2015,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
@@ -2033,7 +2033,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Kabui Bay",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
@@ -2051,7 +2051,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Penemu",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   },
@@ -2069,7 +2069,7 @@
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Penemu",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-28",
       "notes": "QA 2026-06-08: Only 1 domain source (svdelos.com dive log). Requires 3 independent domain sources for validation."
     }
   }

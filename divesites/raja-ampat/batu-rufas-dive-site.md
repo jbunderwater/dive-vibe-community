@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Batu Rufas Dive Site
 
-Batu Rufas ("Rufas Rock") is a wall and reef site on the west side of Rufas Island in the Penemu chain of Raja Ampat. The site features steep walls dropping alongside a large limestone formation, a sheltered lagoon entrance, and a shallow swim-through flanked by sea fans.
+Batu Rufas ("Rufas Rock") is a wall and reef site on the west side of Rufas Island in the Penemu chain of Raja Ampat. The site is defined by a sheltered limestone lagoon entrance, a cave-like swim-through at 5 meters lined with sea fans, and steep walls covered in giant barrel sponges and gorgonians. Multiple independent firsthand accounts describe it as one of the standout dives in the Penemu/Fam area.
 
 ## Overview
 
-The name refers to the large limestone rock formation that extends out to a fringing coral reef. On one side of the formation lies a small sheltered lagoon with clear water and a hard coral garden in the shallows; on the other, the reef drops away as a steep wall covered in sea fans, giant barrel sponges, and both hard and soft coral. The dive typically begins at the sheltered lagoon entrance, passes through a swim-through at around 5 meters bordered by sea fans, then moves along the wall to a maximum depth of 25 meters. A second wall section tops out at 15 meters. The site is suitable for both less experienced and experienced divers. Visibility is typically around 20 meters; current is mild to medium, though it can strengthen on a rising tide (the preferred direction for drift diving along the wall is south to north on a rising tide). The dive is also snorkeler-friendly in the lagoon area.
+The name refers to the large limestone formation that extends out to a fringing coral reef. One side holds a sheltered lagoon with clear, bright-blue water and a hard coral garden in the shallows — snorkeler-friendly and accessible. From the lagoon, a cave-like passage at roughly 5 meters depth leads through to open ocean, its walls lined with sea fans where pygmy seahorses (including Bargibanti and Denise species) are regularly found. Beyond the swim-through, the reef drops steeply to 25 meters, with giant barrel sponges and diverse coral growth on the wall faces. The site functions as a gentle drift dive on a rising tide (south-to-north flow); on calmer days it can be explored at leisure.
+
+Visibility is typically around 20 meters. Current is mild to medium under normal conditions but can strengthen on a rising tide. The site is accessible to all levels including beginners and is snorkeler-friendly in the lagoon zone. An independent ScubaBoard diver in 2023 described the swim-through as "absolutely world class" and comparable to the celebrated Boo's Windows at Misool. Coral health was confirmed as good by multiple independent reports in 2025.
 
 ## Site Information
 
@@ -27,30 +29,35 @@ The name refers to the large limestone rock formation that extends out to a frin
 - **Difficulty Level**: Intermediate (accessible to less experienced divers in mild conditions)
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: ~20 meters
-- **Current**: Mild to medium; can be strong on rising tide
+- **Current**: Mild to medium; can strengthen on rising tide; best dived south-to-north on incoming tide
 - **Best Time**: October to April
 
 ## Marine Life
 
-The following species have been documented at this site by operator sources:
+The following species have been documented at this site by multiple independent sources including operator pages and firsthand ScubaBoard trip reports:
 
-Damselfish, chromis, fusiliers, mackerel, napoleon wrasse, bumphead parrotfish, bluefin trevally, triggerfish, pufferfish. Macro: pygmy seahorse, seaworms, nudibranchs. Giant barrel sponges on the steep wall faces.
+**Macro:** Pygmy seahorse (Bargibanti and Denise species confirmed — up to 4 species reported per dive by two sources), nudibranchs, seaworms, flatworms, cuttlefish (night dive).
 
-Prior description included manta rays and hawksbill turtles as site-specific features — no source specifically confirms these at Batu Rufas as distinct from the broader Fam Islands area. Manta rays are a feature of the broader Penemu/Fam region; their presence at this specific site has not been confirmed by independent sources and has been removed.
+**Reef fish:** Schools of fusiliers, damselfish, chromis, mackerel, napoleon wrasse, bumphead parrotfish, bluefin trevally, triggerfish, pufferfish.
+
+**Structural:** Giant barrel sponges on steep wall faces, sea fans in the swim-through corridor.
+
+**Sharks:** Whitetip and blacktip reef sharks, wobbegong shark.
 
 ## Dive Profile
 
-Enter at the lagoon side, pass through the shallow swim-through at 5 meters (flanked by sea fans), and proceed along the wall to maximum depth. The recommended current direction is south to north on a rising tide. Ascend along the second wall section (which tops at 15 meters) and finish with a safety stop in the shallows.
+Enter at the lagoon side and work through the 5-meter swim-through, inspecting the sea fans for pygmy seahorses. Beyond the passage, follow the wall to maximum depth at 25 meters, then ascend along the reef face. On a rising tide, a gentle drift carries divers south to north along the wall. The lagoon provides a calm area for safety stop and final air use.
 
 ## Entry and Exit
 
-Access by liveaboard tender or day-trip boat. Entry via giant stride or back roll near the lagoon. The sheltered entrance makes entry generally straightforward. Deploy SMB for open-water ascent if drifting off the wall edge.
+Access by liveaboard tender or day-trip boat. The sheltered lagoon entry is straightforward even in moderate conditions. Deploy SMB for open-water ascent if drifting away from the reef edge. The lagoon area is safe for snorkelers alongside divers.
 
 ## Tips and Recommendations
 
-- The swim-through at 5 meters is a highlight — take time to examine the sea fans there for pygmy seahorses
-- The lagoon area is excellent for snorkeling; combine with a dive for full coverage
-- Dive on a rising tide for the best current direction and to take advantage of clearer water
+- Inspect every sea fan in the swim-through for pygmy seahorses — up to 4 species have been found on a single dive
+- The lagoon is excellent for snorkeling and works well combined with a dive
+- Dive on a rising tide for gentle drift and clearest water
+- Works well as a night dive: cuttlefish, flatworms, and other nocturnal critters become active after dark
 
 ---
-*Sources: [La Galigo Liveaboard - Batu Rufus](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/batu-rufus/), [DiveSSI/Scubago - Batu Rufas](https://www.divessi.com/en/mydiveguide/divesite/batu-rufas-indonesia-443805), [Dive Concepts - Fam Islands](https://diveconcepts.com/fam-islands-raja-ampat), [Papua Explorers - Fam Islands](https://www.papuaexplorers.com/fam-islands/), [Divernet - 4 Breathtaking Fam Islands Dive Sites](https://divernet.com/world-dives/4-breathtaking-fam-islands-dive-sites/). Last updated 2026-06-28.*
+*Sources: [La Galigo Liveaboard - Batu Rufus](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/batu-rufus/), [Barefoot Conservation - Raja Ampat Itinerary](https://barefootconservation.org/liveaboard-alias/7-days-north-raja-ampat/itinerary/melissas-garden-piaynemo-raja-amapt), [Bluewater Dive Travel - Raja Ampat Dec 2024](https://www.bluewaterdivetravel.com/article/raja-ampat-trip-report-dec-2024), [ScubaBoard - Raja Ampat & Bali Aug 2023](https://scubaboard.com/community/threads/raja-ampat-bali-august-2023.639322/), [Dive Concepts - Fam Islands](https://diveconcepts.com/fam-islands-raja-ampat). Last updated 2026-06-28.*
