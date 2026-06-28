@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Man Of War
 
-Man Of War is a wreck dive site in Roatán, Caribbean.
+*A wreck dive registered in the Roatan Marine Park GPS database, located on Roatán's eastern reef at approximately 30 meters depth.*
 
 ## Overview
 
-Man of War is a wreck dive registered in the Roatan Marine Park database. The name suggests a historically significant or military-associated vessel, though detailed published information about the wreck's history and diving conditions is limited. Located along Roatan's eastern barrier reef at approximately 30 meters depth, the wreck structure provides artificial reef habitat for marine life including groupers, snappers, and moray eels. Soft corals and sponges encrust the hull surfaces. Advanced certification recommended.
+Man of War is a wreck site recorded in the Roatan Marine Park mooring database. No published dive operator descriptions or independent sources describing the vessel's history, dimensions, or diving conditions have been found. The GPS coordinates place the site along Roatán's eastern reef at approximately 30 meters depth. The name does not confirm a military or historical identity — no claims about the vessel's origin can be verified from available sources.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Eastern Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on Roatan Marine Park GPS database coordinates only. No site-specific published sources found. Last updated 2026-06-28.*

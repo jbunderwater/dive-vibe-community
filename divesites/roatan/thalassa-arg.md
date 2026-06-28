@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Thalassa Arg
 
-Thalassa Arg is a wreck dive site in Roatán, Caribbean.
+*A wreck dive registered in the Roatan Marine Park GPS database, located on Roatán's eastern reef at approximately 30 meters depth.*
 
 ## Overview
 
-Thalassa Arg is a wreck dive registered in the Roatan Marine Park database. The name suggests a vessel of Argentine registry, though detailed published information about its history and current diving conditions is limited. Located along Roatan's eastern reef at approximately 30 meters depth, the wreck has become an artificial reef habitat attracting marine life. As with other Roatan wreck sites, divers can expect to find encrusting corals and sponges on hull surfaces, with groupers, barracuda, and moray eels in residence. Advanced certification recommended.
+Thalassa Arg is a wreck site recorded in the Roatan Marine Park mooring database. No published dive operator descriptions or independent sources describing the vessel's history, dimensions, or diving conditions have been found. The GPS coordinates place the site on Roatán's eastern reef at approximately 30 meters depth. The "Arg" suffix in the name does not confirm Argentine registry — no claims about the vessel's origin or history can be verified from available sources.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: Eastern Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Description based on Roatan Marine Park GPS database coordinates only. No site-specific published sources found. Last updated 2026-06-28.*
