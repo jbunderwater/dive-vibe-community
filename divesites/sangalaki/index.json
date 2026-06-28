@@ -101,7 +101,7 @@
     "lat": 2.246857,
     "lng": 118.639512,
     "difficulty": "Advanced",
-    "maxDepth": 30,
+    "maxDepth": 20,
     "entryType": "boat",
     "siteType": "drift",
     "ref": "",

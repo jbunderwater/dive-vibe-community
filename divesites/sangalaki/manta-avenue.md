@@ -17,11 +17,11 @@ Manta Avenue is a reef dive site on the east side of Sangalaki Island, forming t
 
 ## Overview
 
-Manta Avenue opens near The Lighthouse on Sangalaki's eastern shore and features a staircase-like reef topography — a succession of coral steps descending from shallow crest to a sandy flat. This "coral avenue" structure channels both mantas and divers along the same route: reef manta rays (*Manta alfredi*) travel the corridor to feeding grounds and cleaning stations, while divers explore the steps that host an unusually rich community of small reef species. The site connects directly to Manta Parade to the north, allowing longer drift dives along the manta highway in suitable current conditions.
+Manta Avenue opens near The Lighthouse on Sangalaki's eastern shore and features a staircase-like reef topography — a succession of coral steps descending from shallow crest to a sandy flat. This "coral avenue" structure channels both mantas and divers along the same route: reef manta rays (*Mobula alfredi*) travel the corridor to feeding grounds and cleaning stations, while divers explore the steps that host an unusually rich community of small reef species. The site connects directly to Manta Parade to the north, allowing longer drift dives along the manta highway in suitable current conditions.
 
 ## Marine Life
 
-- Reef manta rays (*Manta alfredi*) transiting and feeding
+- Reef manta rays (*Mobula alfredi*) transiting and feeding
 - Elegant fire gobies and dancing gobies on coral steps
 - Jawfish hovering at burrow entrances in sandy patches
 - Ribbon eels in the sandy troughs between coral steps
@@ -61,7 +61,7 @@ The coral staircase creates natural framing for wide-angle reef compositions. Ma
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-28
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-05-17.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-06-28.*

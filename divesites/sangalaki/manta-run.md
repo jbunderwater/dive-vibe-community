@@ -17,11 +17,11 @@ Manta Run is a reef dive site on the northwest coast of Sangalaki Island in the 
 
 ## Overview
 
-Manta Run forms one segment of Sangalaki's celebrated "manta highway" — a series of connected reef sites along the island's northern and eastern shores where reef manta rays (*Manta alfredi*) gather in extraordinary numbers to feed on plankton-rich currents. The site consists of rocky coral outcrops and bommies studded with gorgonian fans, soft corals, and barrel sponges, forming a sandy-bottomed channel that funnels prevailing currents and concentrates surface plankton. Mantas are regularly observed feeding in the shallow water above the reef, with their wingtips breaking the surface. Most diving here occurs at 5–15 metres, making it accessible year-round to Open Water certified divers.
+Manta Run forms one segment of Sangalaki's celebrated "manta highway" — a series of connected reef sites along the island's northern and eastern shores where reef manta rays (*Mobula alfredi*) gather in extraordinary numbers to feed on plankton-rich currents. The site consists of rocky coral outcrops and bommies studded with gorgonian fans, soft corals, and barrel sponges, forming a sandy-bottomed channel that funnels prevailing currents and concentrates surface plankton. Mantas are regularly observed feeding in the shallow water above the reef, with their wingtips breaking the surface. Most diving here occurs at 5–15 metres, making it accessible year-round to Open Water certified divers.
 
 ## Marine Life
 
-- Reef manta rays (*Manta alfredi*) — feeding and visiting cleaning stations
+- Reef manta rays (*Mobula alfredi*) — feeding and visiting cleaning stations
 - Leopard sharks resting on sandy patches
 - Garden eels emerging from sandy corridors
 - Leaf fish, frogfish, and cardinalfish among bommies
@@ -61,7 +61,7 @@ Manta Run rewards wide-angle photography. Shooting upward with blue-water backli
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-28
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Top Dive Sites](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki). Last updated 2026-05-17.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Top Dive Sites](https://www.scubajunkiesangalaki.com/top-dive-sites-in-the-derawan/), [Asia Dive Site – Sangalaki](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/sangalaki.php), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki). Last updated 2026-06-28.*

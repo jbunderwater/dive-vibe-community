@@ -65,7 +65,7 @@ The jellyfish lake offers extraordinary opportunities for wide-angle snorkel pho
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-28
 
 ---
-*Sources: [Scuba Junkie Sangalaki – Kakaban Stingless Jellyfish Lake](https://www.scubajunkiesangalaki.com/kakaban-stingless-jellyfish-lake/), [Scuba Junkie Sangalaki – Kakaban Jellyfish Lake](https://www.scubajunkiesangalaki.com/kakaban-jellyfish-lake/), [Asia Dive Site – Kakaban](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/kakaban.php), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php). Last updated 2026-05-17.*
+*Sources: [Scuba Junkie Sangalaki – Kakaban Stingless Jellyfish Lake](https://www.scubajunkiesangalaki.com/kakaban-stingless-jellyfish-lake/), [Scuba Junkie Sangalaki – Kakaban Jellyfish Lake](https://www.scubajunkiesangalaki.com/kakaban-jellyfish-lake/), [Asia Dive Site – Kakaban](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/kakaban.php), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Asia Diving Vacation – Kakaban Island](https://asiadivingvacation.com/diving/kakaban-island). Last updated 2026-06-28.*

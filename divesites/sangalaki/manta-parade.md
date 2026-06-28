@@ -17,11 +17,11 @@ Manta Parade is a reef dive site north of Sangalaki Island in the Derawan Archip
 
 ## Overview
 
-Manta Parade sits at the northern apex of Sangalaki's manta highway, where the reef topography shifts from the stepped coral avenue of Manta Avenue into an undulating series of ridges rising and falling like underwater hills. This dynamic bottom structure creates upwellings that concentrate plankton, drawing reef manta rays (*Manta alfredi*) in feeding aggregations. Mantas "parade up and down this manta highway, coming from all directions," as described by Dive The World, with their wingtips occasionally breaking the surface. Multiple cleaning stations are active along the ridgeline, where cleaner wrasse (*Labroides dimidiatus*) service mantas hovering motionless above the coral crests. Up to 20 mantas have been recorded at the site during peak full-moon feeding events.
+Manta Parade sits at the northern apex of Sangalaki's manta highway, where the reef topography shifts from the stepped coral avenue of Manta Avenue into an undulating series of ridges rising and falling like underwater hills. This dynamic bottom structure creates upwellings that concentrate plankton, drawing reef manta rays (*Mobula alfredi*) in feeding aggregations. Mantas "parade up and down this manta highway, coming from all directions," as described by Dive The World, with their wingtips occasionally breaking the surface. Multiple cleaning stations are active along the ridgeline, where cleaner wrasse (*Labroides dimidiatus*) service mantas hovering motionless above the coral crests. Up to 20 mantas have been recorded at the site during peak full-moon feeding events.
 
 ## Marine Life
 
-- Reef manta rays (*Manta alfredi*) — feeding, cleaning, transiting
+- Reef manta rays (*Mobula alfredi*) — feeding, cleaning, transiting
 - Cleaner wrasse at active cleaning stations on reef crests
 - Fire gobies and clownfish on ridge slopes
 - Frogfish, lionfish, and scorpionfish on open rubble
@@ -61,7 +61,7 @@ Manta Parade's undulating terrain provides natural framing for wide-angle images
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-28
 
 ---
-*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-05-17.*
+*Sources: [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/), [Maratua.com – Sangalaki](https://www.maratua.com/en/nearby-islands/sangalaki), [Asia Diving Vacation – Sangalaki](https://asiadivingvacation.com/diving/sangalaki-island). Last updated 2026-06-28.*

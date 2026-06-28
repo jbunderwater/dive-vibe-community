@@ -17,7 +17,7 @@ Blue Light Cave is an advanced cave dive site along the southern coast of Kakaba
 
 ## Overview
 
-Blue Light Cave is one of the most technically demanding dive sites in the Derawan Archipelago — a multi-chamber cave system carved into Kakaban Island's limestone base along its southern wall. The cave entrance sits just below the surface (approximately 2 metres at low tide), leading into a narrow vertical chimney that divers descend to a large cavern at 21 metres. The cavern floor lies at approximately 30 metres, and two narrow exit cracks lead back to open water at 45 and 65 metres depth respectively. The cave's name derives from the blue ambient light that filters through the chimney and entrance crevices, creating luminous visual effects within the chamber. Wannadive records an average depth of 30 metres and a maximum of 65 metres, with the external wall dropping to approximately 250 metres. Only experienced divers with cave or cavern credentials should attempt the deeper exits.
+Blue Light Cave is one of the most technically demanding dive sites in the Derawan Archipelago — a multi-chamber cave system carved into Kakaban Island's limestone base along its southern wall. The cave entrance sits just below the surface (approximately 2 metres at low tide), leading into a narrow vertical chimney that divers descend to a large cavern opening at approximately 21 metres. The cavern floor lies at approximately 30 metres, and the main cave extends roughly 120 metres horizontally through the limestone. Two exit cracks in the wall lead back to open water: the standard exit at approximately 44–45 metres (beyond recreational limits, requiring Advanced certification with deep specialty), and a second technical exit at approximately 64–65 metres for cave-trained divers only. The cave's name derives from the blue ambient light that filters through the chimney and entrance crevices, creating luminous visual effects within the chamber. Wannadive records an average depth of 30 metres and a maximum of 65 metres for the full system. The maximum depth of 65 metres listed for this site reflects the deepest technical exit — most recreational visitors exit at 44–45 metres after exploring the main cavern.
 
 ## Marine Life
 
@@ -29,7 +29,7 @@ Blue Light Cave is one of the most technically demanding dive sites in the Deraw
 
 ## Dive Profile
 
-The approach follows the south wall of Kakaban from the boat drop. The chimney entrance at 2 metres is narrow and requires controlled buoyancy for entry. Descent through the chimney reaches the main cavern at 21 metres; the cavern floor is at 30 metres. Divers can exit at 45 metres (the shallower crack) or at 65 metres (the deeper crack, for technical divers). The route through the main chamber extends over 100 metres horizontally. Low current inside the cave (under 1 knot per Wannadive); the external wall can have stronger flow. Visibility inside is good — 10 to 30 metres.
+The approach follows the south wall of Kakaban from the boat drop. The chimney entrance at 2 metres is narrow and requires controlled buoyancy for entry. Descent through the chimney reaches the main cavern opening at approximately 21 metres; the cavern floor is at 30 metres. The main cave passage extends approximately 120 metres horizontally. Divers exit at 44–45 metres through the standard wall crack (requires Advanced with deep specialty); a second technical exit at 64–65 metres is for cave-certified divers only. Low current inside the cave (under 1 knot per Wannadive); the external wall can have stronger flow. Visibility inside is good — 10 to 30 metres.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ The blue ambient light filtering through the chimney creates striking atmospheri
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-28
 
 ---
-*Sources: [Wannadive – Blue Light Cave](https://www.wannadive.net/spot/Asia/Indonesia/Kalimantan/Kakaban/Blue_light_cave/index.html), [Asia Dive Site – Kakaban](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/kakaban.php), [Scuba Junkie Sangalaki – Diving Kakaban](https://www.scubajunkiesangalaki.com/diving-kakaban/). Last updated 2026-05-17.*
+*Sources: [Wannadive – Blue Light Cave](https://www.wannadive.net/spot/Asia/Indonesia/Kalimantan/Kakaban/Blue_light_cave/index.html), [Asia Dive Site – Kakaban](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/kakaban.php), [Scuba Junkie Sangalaki – Diving Kakaban](https://www.scubajunkiesangalaki.com/diving-kakaban/), [Greatest Dive Sites Indonesia – Blue Light Cave](https://indonesia.greatestdivesites.com/kalimantan/kakaban/blue_light_cave). Last updated 2026-06-28.*

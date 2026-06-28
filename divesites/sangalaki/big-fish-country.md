@@ -63,7 +63,7 @@ Big Fish Country offers some of the most dramatic wide-angle underwater photogra
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-28
 
 ---
 *Sources: [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [PADI – Big Fish Country](https://www.padi.com/dive-site/indonesia/big-fish-country/), [Maratua Seaview Resort – The Dives](https://maratuaseaviewresort.com/the-dives), [Bluewater Dive Travel – Derawan Islands](https://www.bluewaterdivetravel.com/destination/derawan-islands-diving), [ZuBlu – Maratua Island](https://www.zubludiving.com/articles/zublu-insights/maratua-island), [Sienna Resort – Maratua Diving Guide](https://sienna-resort.com/amp/dnews/51/sienna-resort%E2%80%99s-ultimate-guide-to-maratua-islands-best-diving-spots.html). Last updated 2026-06-28.*

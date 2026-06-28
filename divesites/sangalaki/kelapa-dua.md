@@ -17,11 +17,11 @@ Kelapa Dua is a wall dive site near Kakaban Island in the Derawan Archipelago, E
 
 ## Overview
 
-Kelapa Dua is a relatively recent addition to the Kakaban dive circuit — PADI describes it as "a relatively new site, making it less crowded than established dive locations." The site features a steep vertical wall "bursting with colourful coral and sea fans" (PADI), descending to depths well beyond recreational limits. Its primary draw is thresher shark (*Alopias* spp.) cleaning behaviour: thresher sharks visit the wall in the early morning hours, where resident cleaner fish remove parasites — similar to the cleaning station dynamics observed at Malapascua in the Philippines. Open Water divers can explore the colourful upper wall to 18 metres; deeper sections with thresher activity require Advanced certification with deep dive specialty.
+Kelapa Dua is a relatively recent addition to the Kakaban dive circuit — PADI describes it as "a relatively new site, making it less crowded than established dive locations." The site features a steep vertical wall "bursting with colourful coral and sea fans" (PADI), descending to depths well beyond recreational limits. Its primary draw is pelagic thresher shark (*Alopias pelagicus*) cleaning behaviour: thresher sharks visit the wall in the early morning hours, where resident cleaner fish remove parasites — similar to the cleaning station dynamics observed at Malapascua in the Philippines. The Derawan Islands are designated an Important Shark and Ray Area (ISRA) in part due to the documented cleaning station at Kakaban's southern tip (Kelapa Dua), with over 200 observation dives recorded between 2019 and 2024 at a roughly 70% success rate during morning dives. Cleaning typically occurs at 30–38 metres and is most reliable around 7am. Open Water divers can explore the colourful upper wall to 18 metres; thresher shark depths require Advanced certification with deep dive specialty.
 
 ## Marine Life
 
-- Thresher sharks (*Alopias* spp.) — cleaning behaviour in early morning (conditions-dependent)
+- Pelagic thresher sharks (*Alopias pelagicus*) — cleaning behaviour in early morning (conditions-dependent)
 - White-tip reef sharks, grey reef sharks, and leopard sharks on the wall
 - Eagle rays and devil rays passing in the blue
 - Dense gorgonian sea fans and soft corals on the wall face
@@ -61,7 +61,7 @@ Thresher sharks at cleaning stations are one of the most prized underwater photo
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-28
 
 ---
-*Sources: [PADI – Kelapa Dua](https://www.padi.com/dive-site/indonesia/kelapa-dua/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives), [SSI MyDiveGuide – Kelapa Dua](https://www.divessi.com/en/mydiveguide/divesite/kelapa-dua-indonesia-518770), [Orca Dive Club – Sangalaki/Derawan/Kakaban](https://www.orcadiveclub.in/sangalaki-derawan-maratua-kakaban). Last updated 2026-06-28.*
+*Sources: [PADI – Kelapa Dua](https://www.padi.com/dive-site/indonesia/kelapa-dua/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives), [SSI MyDiveGuide – Kelapa Dua](https://www.divessi.com/en/mydiveguide/divesite/kelapa-dua-indonesia-518770), [Orca Dive Club – Sangalaki/Derawan/Kakaban](https://www.orcadiveclub.in/sangalaki-derawan-maratua-kakaban), [Derawan Islands ISRA – Shark Ray Areas](https://sharkrayareas.org/portfolio-item/derawan-islands-isra/). Last updated 2026-06-28.*

@@ -63,7 +63,7 @@ Wide-angle photography of barracuda schools and silhouettes of sharks against bl
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-06-28
 
 ---
-*Sources: [Asia Dive Site – Kakaban](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/kakaban.php), [PADI – Barracuda Point Kakaban](https://www.padi.com/dive-site/indonesia/barracuda-point-kakaban/), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php). Last updated 2026-05-17.*
+*Sources: [Asia Dive Site – Kakaban](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/kakaban.php), [PADI – Barracuda Point Kakaban](https://www.padi.com/dive-site/indonesia/barracuda-point-kakaban/), [Scuba Junkie Sangalaki – Why Dive Derawan](https://www.scubajunkiesangalaki.com/why-dive-the-derawan-archipelago/), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Sienna Resort – Barracuda Point Kakaban](https://sienna-resort.com/amp/dnews/29/barracuda-point-kakaban-island-%E2%80%93-a-divers-haven-awaits.html). Last updated 2026-06-28.*
