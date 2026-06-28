@@ -3,7 +3,7 @@ name: Big Fish Country
 lat: 2.246857
 lng: 118.639512
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 20
 entryType: boat
 siteType: drift
 ref: null
@@ -17,7 +17,7 @@ Big Fish Country is an advanced drift dive site at the northern channel mouth of
 
 ## Overview
 
-Big Fish Country sits at the entrance to the large tidal channel that links Maratua Atoll's enclosed lagoon with the open Sulawesi Sea. The channel is swept clean by powerful tidal currents that create upwellings of nutrient-rich water at the mouth, attracting what ZuBlu describes as "what many people believe is one of the largest schools of barracuda in Southeast Asia." Divers station themselves at the channel entrance at approximately 27–30 metres, hooking into the reef edge and watching schools of thousands of barracuda, jackfish, and grey reef sharks pass in parade. Scuba Junkie Sangalaki notes the currents can range from "challenging to extreme" and have designated this site off-limits to their own guided groups due to downwelling risk — it is strictly for highly experienced divers. Maratua Seaview Resort operators report occasional sightings of whale sharks and mola-mola at the channel mouth.
+Big Fish Country sits at the entrance to the large tidal channel that links Maratua Atoll's enclosed lagoon with the open Sulawesi Sea. The channel is swept clean by powerful tidal currents that create upwellings of nutrient-rich water at the mouth, attracting what ZuBlu describes as "what many people believe is one of the largest schools of barracuda in Southeast Asia." Divers station themselves at the channel entrance at approximately 15–20 metres, hooking into the reef edge and watching schools of thousands of barracuda, jackfish, and grey reef sharks pass in parade. Scuba Junkie Sangalaki notes the currents can range from "challenging to extreme" and have designated this site off-limits to their own guided groups due to downwelling risk — it is strictly for highly experienced divers. Maratua Seaview Resort operators report occasional sightings of whale sharks and mola-mola at the channel mouth.
 
 ## Marine Life
 
@@ -32,7 +32,7 @@ Big Fish Country sits at the entrance to the large tidal channel that links Mara
 
 ## Dive Profile
 
-Divers position at the channel junction at approximately 27–30 metres where pelagic traffic is greatest. The channel itself exceeds recreational depth limits and is not entered. A reef hook allows stationary observation in the current. Bottom time at depth is limited by the physical exertion of fighting or managing strong currents. Visibility is typically excellent in the open channel — 20–40 metres in good conditions.
+Divers position at the channel junction at approximately 15–20 metres where pelagic traffic is greatest. The channel itself exceeds recreational depth limits and is not entered. A reef hook allows stationary observation in the current. Bottom time at depth is limited by the physical exertion of fighting or managing strong currents. Visibility is typically excellent in the open channel — 20–40 metres in good conditions.
 
 ## Entry and Exit
 
@@ -59,11 +59,11 @@ Big Fish Country offers some of the most dramatic wide-angle underwater photogra
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 20 meters
 
 ## Additional Resources
 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [PADI – Big Fish Country](https://www.padi.com/dive-site/indonesia/big-fish-country/), [Maratua Seaview Resort – The Dives](https://maratuaseaviewresort.com/the-dives), [Bluewater Dive Travel – Derawan Islands](https://www.bluewaterdivetravel.com/destination/derawan-islands-diving), [ZuBlu – Maratua Island](https://www.zubludiving.com/articles/zublu-insights/maratua-island). Last updated 2026-05-17.*
+*Sources: [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [PADI – Big Fish Country](https://www.padi.com/dive-site/indonesia/big-fish-country/), [Maratua Seaview Resort – The Dives](https://maratuaseaviewresort.com/the-dives), [Bluewater Dive Travel – Derawan Islands](https://www.bluewaterdivetravel.com/destination/derawan-islands-diving), [ZuBlu – Maratua Island](https://www.zubludiving.com/articles/zublu-insights/maratua-island), [Sienna Resort – Maratua Diving Guide](https://sienna-resort.com/amp/dnews/51/sienna-resort%E2%80%99s-ultimate-guide-to-maratua-islands-best-diving-spots.html). Last updated 2026-06-28.*

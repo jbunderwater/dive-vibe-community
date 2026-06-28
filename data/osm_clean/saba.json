@@ -5,7 +5,7 @@
     "lon": -63.2553,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -14,10 +14,10 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "seasaba.com,sabapark.org,scubadiving.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Wall confirmed: Sea Saba and Saba Park both describe sheer wall starting at 4m/13ft. Tent Reef area #16-19 per SabaConservation. Drift dive possible. Top at 4m, wall extends to 40m+. Tubular sponges and black coral confirmed."
+      "last_qa_date": "2026-06-28",
+      "qa_note": "DEPTH CORRECTED 2026-06-28: Sea Saba gives mooring 20ft/7m, max 100ft/30m. Previous value of 40m was wrong. Wall starts at 7m (not 10m as in prior note), max 30m. Wall type confirmed. Advanced difficulty confirmed. Marine life sponges confirmed; specific species claims in markdown limited to encrusting sponge communities per Sea Saba."
     },
-    "depth_max": 40
+    "depth_max": 30
   },
   {
     "name": "Third Encounter",
@@ -34,8 +34,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "seasaba.com,sabapark.org,dan.org",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "DEPTH CORRECTED: Sea Saba gives mooring 95ft/29m, max 110ft/35m. Updated from 30m to 35m. Pinnacle #1-5 per Saba Park. Horseshoe-shaped seamount. Caribbean reef sharks, Nassau grouper, nurse sharks, manta rays confirmed by Sea Saba."
+      "last_qa_date": "2026-06-28",
+      "qa_note": "Depth confirmed: Sea Saba mooring 95ft/29m, max 110ft/35m. Pinnacle top at ~90ft/27m per DAN and multiple sources. Horseshoe-shaped seamount confirmed. Caribbean reef sharks, Nassau grouper, nurse sharks confirmed by Sea Saba. Manta ray confirmed by Sea Saba (safety stop encounters). 'manta rays' in qa_note previously flagged as unconfirmed — now confirmed by Sea Saba site page."
     }
   },
   {
@@ -44,7 +44,7 @@
     "lon": -63.2597,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -52,11 +52,11 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,dive-the-world.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Volcanic warm water vents confirmed by dive-the-world.com. Saba volcanic geology. Intermediate difficulty appropriate."
+      "validation_source": "seasaba.com,sabapark.org,padi.com",
+      "last_qa_date": "2026-06-28",
+      "qa_note": "DEPTH CORRECTED 2026-06-28: Sea Saba gives mooring 40ft/12m, max 80ft/24m. Previous value of 25m adjusted to 24m. Site type 'reef' confirmed: coral heads, sandy bottom, coral-encrusted boulders, seagrass per Sea Saba. Volcanic vents confirmed — site named after hot springs through seafloor vents. Confirmed marine life: resident nurse shark, stingrays, garden eels, turtles, flying gurnards, seahorses (mating observed), bioluminescent ostracods on night dives. Previous markdown claims about 'French angelfish', 'queen angelfish', 'green morays', 'barracuda' as primary species are not confirmed by Sea Saba and replaced in markdown."
     },
-    "depth_max": 25
+    "depth_max": 24
   },
   {
     "name": "Ladder Labyrinth",
@@ -64,17 +64,17 @@
     "lon": -63.2598,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "pinnacle",
+    "depth": 24,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,dive-the-world.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Ladder Bay area #11-15 per Saba Park. Lava flow labyrinth with spur-and-groove formations and boulders. Star coral, brain coral, Gorgonian confirmed by Saba Park."
+      "validation_source": "seasaba.com,sabapark.org,dan.org",
+      "last_qa_date": "2026-06-28",
+      "qa_note": "DEPTH CORRECTED 2026-06-28: Sea Saba gives mooring 40ft/12m, max 80ft/24m. Previous value of 20m was wrong. Site type 'reef' over lava flows confirmed by DAN and Sea Saba (labeled 'pinnacle' in JSON previously but sources describe lava-flow reef structure with ridges and channels). Confirmed marine life per Sea Saba: shrimp, crabs, lobsters, filefish, chromis, schoolmasters, yellowhead jawfish, pikeblennies, lancer dragonets, tarpons. Also nudibranchs, flamingo tongue cyphomas per DAN. Sulfur-colored volcanic sand confirmed. Previous markdown claims about 'copper sweepers', 'glassfish', 'toadfish', 'frogfish' are not confirmed by primary sources."
     }
   },
   {
@@ -91,9 +91,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,dan.org",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Sea Saba: pinnacle rising to 90ft from surface, top at 90ft/27m surrounded by 150ft water. Adjacent to Third Encounter. Pinnacle #1-5 per Saba Park."
+      "validation_source": "seasaba.com,dan.org,liveaboard.com",
+      "last_qa_date": "2026-06-28",
+      "qa_note": "DESCRIPTION CORRECTED 2026-06-28: Pinnacle top is at ~90ft/27m depth (NOT near the surface). Multiple sources confirm top at 90ft. The pinnacle is 180ft tall but rises FROM depth — divers access from mooring at Third Encounter and swim out. Max depth 28m appropriate. Only 25ft diameter per DAN. Adjacent to Third Encounter — accessed via swim from Third Encounter mooring. Confirmed marine life: Caribbean reef sharks, barrel/elephant/rope sponges, various reef fish. No hammerheads confirmed at this specific site."
     }
   },
   {
@@ -102,17 +102,17 @@
     "lon": -63.2559,
     "osm_id": null,
     "osm_type": null,
-    "depth": 32,
+    "depth": 25,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,divernet.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "DEPTH CORRECTED: Saba Park describes depth to 25m/80ft. Divernet article confirms pinnacle site with strong currents. Depth updated from 30m to 32m per source range. Strong current caution required."
+      "validation_source": "seasaba.com,sabapark.org,dan.org",
+      "last_qa_date": "2026-06-28",
+      "qa_note": "DIFFICULTY CORRECTED 2026-06-28: Upgraded from Intermediate to Advanced. DAN article explicitly rates Diamond Rock Advanced; strong currents are a defining characteristic. DEPTH CORRECTED: Saba Park gives max 25m/80ft; previous value of 32m was wrong. Confirmed marine life per DAN: jacks, giant barracuda, queen/French angelfish, sponges, cup corals. Strong currents attract horse-eye jack and barracuda per multiple sources."
     }
   },
   {
@@ -129,9 +129,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,scubadiving.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "DEPTH CORRECTED: Sea Saba gives max depth 70ft/21m. Updated from 20m to 21m. Twin peaks at 15 and 20ft. Sandy bottom at 70ft. Only place for Atlantic Spadefish per Sea Saba. Banded Jawfish confirmed."
+      "validation_source": "seasaba.com,sabapark.org,dan.org",
+      "last_qa_date": "2026-06-28",
+      "qa_note": "Depth confirmed: Sea Saba max 70ft/21m, mooring at 20ft. Twin peaks at 15 and 20ft confirmed. Confirmed marine life per Sea Saba: black coral, sergeant majors, sand tile fish, Atlantic spadefish (only place in Saba), banded jawfish. Per DAN: yellow frogfish, snapper, grunts, chromis, barracuda. Eagle ray claims removed from Tips section in markdown — not confirmed for this specific site."
     }
   },
   {
@@ -140,7 +140,7 @@
     "lon": -63.253,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -148,11 +148,11 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,dive-the-world.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Well's Bay and Torrens Point confirmed as most protected waters per Saba Park. Shallow beginner site. North side of island. Protected from easterly swells."
+      "validation_source": "seasaba.com,sabapark.org,divezone.net",
+      "last_qa_date": "2026-06-28",
+      "qa_note": "DEPTH CORRECTED 2026-06-28: Sea Saba gives mooring 25ft/7m, max 50ft/16m. Previous value of 15m corrected to 16m (depth_max removed as redundant). Beginner difficulty confirmed — Sea Saba calls this 'Saba's Nursery.' Confirmed marine life per Sea Saba: spotted lobsters, Caribbean lobsters, flatworms, great barracudas, bait balls. A 60ft tunnel exists for experienced divers. Previous markdown claim of 'dramatic wall dropping to 130 feet' is from a conflicting secondary source and contradicts Sea Saba's 50ft/16m max — removed from markdown."
     },
-    "depth_max": 18
+    "depth_max": 16
   },
   {
     "name": "Green Island",
@@ -160,18 +160,18 @@
     "lon": -63.2301,
     "osm_id": null,
     "osm_type": null,
-    "depth": 22,
-    "site_type": "reef",
+    "depth": 24,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "seasaba.com,sabapark.org,scubadiving.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Sandy bottom at 70-80ft per Saba Park description of similar western side sites. Pinnacle-like structure. Western flank. Intermediate difficulty."
+      "validation_source": "seasaba.com,sabapark.org,dive-the-world.com",
+      "last_qa_date": "2026-06-28",
+      "qa_note": "SITE TYPE CORRECTED 2026-06-28: Sea Saba describes as 'island pinnacle' — changed from 'reef' to 'pinnacle'. DEPTH CORRECTED: Sea Saba gives mooring 30ft/9m, max 80ft/24m. Previous value of 22m corrected to 24m. Site is weather-dependent — only accessible on calm days or wind from south per Sea Saba. Confirmed marine life: bermuda chubs (schools), parrotfish, queen angelfish, nurse sharks, gorgonians, bushy black coral, feather black coral, barrel sponges, elkhorn coral. Historical anchor ('Popeye's anchor') from sulphur mining era confirmed. Previous markdown marine life claims about 'spotted moray eels' and generic reef species not confirmed by primary source."
     },
-    "depth_max": 25
+    "depth_max": 24
   }
 ]

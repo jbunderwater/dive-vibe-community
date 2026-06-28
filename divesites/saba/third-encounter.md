@@ -17,13 +17,13 @@ One of Saba's signature advanced pinnacle dives — a horseshoe-shaped volcanic 
 
 ## Overview
 
-Third Encounter is an offshore pinnacle site on the southwestern side of Saba, set in the open current zone away from the island's sheltering influence. The name reflects the tradition of Saba's dive operators naming the offshore pinnacles by encounter order — this is the third major seamount encountered when heading southwest from Fort Bay. The pinnacle rises from significant depth and is swept by consistent current that delivers both nutrients and pelagic species to the site. Depths are accessible to advanced divers with a mooring at approximately 29 meters (95 feet) and a maximum of 35 meters (110 feet) on the main structure per Sea Saba Dive Center. The pinnacle is covered in sea fans, black coral trees, and encrusting sponges. Visibility frequently exceeds 30 meters. This is one of Saba's most reliably excellent sites for large pelagic encounters.
+Third Encounter is an offshore pinnacle site on the southwestern side of Saba, half a mile from the west coast, set in the open current zone away from the island's sheltering influence. The site was voted one of the 10 Best Dive Sites by Sport Diver magazine in 2008. The pinnacle features a horseshoe-shaped seamount rising from 2,000 feet of open ocean to a plateau at approximately 95 feet (29 metres), where the mooring is located. Maximum depth is 110 feet (35 metres) on the main structure per Sea Saba Dive Center. The pinnacle is covered in black coral, wire coral, and massive barrel sponges. The Eye of the Needle — a companion pinnacle accessed from this mooring — rises to approximately 90 feet (27 metres) nearby and is accessed via a guide-led swim. Visibility frequently exceeds 30 metres. This is Saba's most celebrated advanced site for large pelagic encounters.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 6–35 m |
+| Depth Range | 27–35 m |
 | Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Pinnacle |
@@ -33,11 +33,11 @@ Third Encounter is an offshore pinnacle site on the southwestern side of Saba, s
 
 ## Marine Life
 
-Third Encounter is widely considered Saba's best site for shark encounters. Caribbean reef sharks are regular visitors, and nurse sharks rest on the sand at the base of the pinnacle. Spotted eagle rays sweep past in pairs or small groups. The open-ocean position brings schooling fish in large numbers — horse-eye jacks and creole wrasse create large moving formations around the pinnacle top. Sea turtles regularly feed on the sponge and coral growth. During winter months (January–May), humpback whales pass through Saba's waters and underwater whale song is sometimes audible from exposed offshore pinnacle sites, including Third Encounter.
+Third Encounter is widely considered Saba's best site for shark and large pelagic encounters. Caribbean reef sharks are confirmed by Sea Saba, DAN, and multiple sources as regular visitors. Nurse sharks rest on the sand. Sea Saba also records a resident named Nassau grouper ("Charlie") as a regular presence. Creole wrasse and creole fish school abundantly. Yellowtail snappers orbit the plateau. Manta rays have been confirmed by Sea Saba — specifically reported during safety stops at this site. Eagles rays and barracuda are reported at the site per multiple sources. During winter months (January–April), humpback whales pass through Saba's open waters and whale song has been reported as audible from offshore pinnacles; this is a regional seasonal observation, not guaranteed at any single dive.
 
 ## Dive Profile
 
-Descent is to the pinnacle crest at 6–8 meters, after which divers work the flanks in a spiral descent. Advanced divers follow the guide to 25–30 meters on the deeper walls of the seamount before ascending along the pinnacle face. The exposed position means that the dive plan can change based on current direction — experienced guides will navigate the ascent to use the pinnacle as shelter from the main current flow.
+Descent is directly to the plateau at approximately 29 metres (95 feet) via the mooring line. Divers explore the plateau and the walls of the seamount to a maximum of 35 metres (110 feet). The guide then leads willing divers on a short swim out to the Eye of the Needle, which tops at 27 metres. The exposed position means the dive plan adapts to current direction — experienced guides navigate the ascent to use the pinnacle structure as shelter from the main current flow.
 
 ## Entry and Exit
 
@@ -61,4 +61,4 @@ Third Encounter is a wide-angle site. The open-ocean setting delivers school-of-
 - Sea Saba: specialises in guided offshore pinnacle dives including Third Encounter
 
 ---
-*Sources: [Sea Saba Dive Center - Dive Sites](https://www.seasaba.com/sabas-dive-sites), [Saba Tourism - Diving](https://www.sabatourism.com/diving/), [Caribbean Dive Guide - Saba](https://caribdiveguide.com/saba.htm), [Scuba Diving Magazine - Divers Guide to Saba](https://www.scubadiving.com/divers-guide-to-scuba-diving-in-saba), [Divezone - Saba Dive Sites](https://divezone.net/diving/saba). Last updated 2026-05-24.*
+*Sources: [Sea Saba - Third Encounter](https://www.seasaba.com/saba-2-third-encounter), [DAN Alert Diver - Saba](https://world.dan.org/alert-diver/article/saba/), [Liveaboard.com - Third Encounter](https://www.liveaboard.com/diving/saba-st-kitts/third-encounter). Last updated 2026-06-28.*

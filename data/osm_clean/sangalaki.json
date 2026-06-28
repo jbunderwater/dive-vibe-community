@@ -11,12 +11,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,asiadivesite.com,maratua.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 6 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Confirmed reef manta (Mobula alfredi) species correct. Depth 15m confirmed as typical working depth (outer sections to ~28m). Beginner difficulty confirmed. Manta feeding and cleaning station behavior verified.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,asiadivesite.com,maratua.com"
+    "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,asiadivesite.com,maratua.com,dive-the-world.com"
   },
   {
     "name": "Manta Avenue",
@@ -30,8 +30,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "asiadivingvacation.com,starfish.ch,asiadivesite.com,maratua.com,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 5 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Reef manta (Mobula alfredi) species confirmed. Stepped coral reef topography from 5-30m confirmed by dive-the-world.com. Intermediate difficulty confirmed. Small wooden boat wrecks at Lighthouse section verified.",
       "validated": "true"
     },
     "validated": "true",
@@ -49,8 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,maratua.com,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 5 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Reef manta (Mobula alfredi) species confirmed. Undulating ridges 5-30m confirmed. Up to 20 mantas at full moon verified by multiple sources. Intermediate difficulty confirmed.",
       "validated": "true"
     },
     "validated": "true",
@@ -68,8 +68,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "scubajunkiesangalaki.com,asiadivingvacation.com,starfish.ch,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 4 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Gradual slope reef on west side of Sangalaki confirmed. 27m depth confirmed. Beginner difficulty confirmed. Night diving recommendation confirmed by dive-the-world.com.",
       "validated": "true"
     },
     "validated": "true",
@@ -87,8 +87,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "asiadivingvacation.com,starfish.ch,scubajunkiesangalaki.com,maratua.com,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 5 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Green sea turtle (Chelonia mydas) resting and feeding confirmed. Sangalaki nesting beach status confirmed (one of largest in SE Asia). Coral gullies and overhangs confirmed as habitat. No over-attribution of nesting beach fame to underwater density.",
       "validated": "true"
     },
     "validated": "true",
@@ -106,12 +106,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "asiadivesite.com,dive-the-world.com,scubajunkiesangalaki.com,padi.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 4 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Confirmed on Kakaban Island (not Sangalaki) — coordinates correct. Wall drops to 180m confirmed. Strong current, Advanced difficulty confirmed. Schooling chevron barracuda and trevally confirmed. Markdown correctly identifies Kakaban Island location.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "asiadivesite.com,dive-the-world.com,scubajunkiesangalaki.com,padi.com"
+    "validation_source": "asiadivesite.com,dive-the-world.com,scubajunkiesangalaki.com,padi.com,sienna-resort.com"
   },
   {
     "name": "Blue Light Cave",
@@ -125,12 +125,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "wannadive.net,asiadivesite.com,scubajunkiesangalaki.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 3 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Confirmed on Kakaban Island. Cave entrance at 2m, main cavern at 21-30m, primary exit at 44-45m, secondary technical exit at ~64-65m. 65m depth figure is secondary exit only — beyond recreational limits. Cave type confirmed. Advanced difficulty confirmed. Markdown correctly reflects Kakaban location and technical nature.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "wannadive.net,asiadivesite.com,scubajunkiesangalaki.com"
+    "validation_source": "wannadive.net,asiadivesite.com,scubajunkiesangalaki.com,indonesia.greatestdivesites.com"
   },
   {
     "name": "Kakaban Jellyfish Lake",
@@ -144,31 +144,31 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: site_type updated from 'reef' to 'beach' - Kakaban is a landlocked snorkel-only marine lake. Scuba diving is prohibited inside the lake by Indonesian authorities. Validated with 3 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Confirmed snorkel-only brackish marine lake on Kakaban Island. Scuba prohibited. Four stingless jellyfish species confirmed (Mastigias papua, Aurelia aurita, Cassiopea ornata, Tripedalia cystophora). site_type 'beach' retained as closest valid type — no standard 'lake' type exists. Depth 17m is lake maximum, not dive depth. Markdown correctly explains snorkel-only access and Kakaban Island location. NOT a Sangalaki site — island clearly identified throughout.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com"
+    "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com,asiadivingvacation.com"
   },
   {
     "name": "Big Fish Country",
     "lat": 2.246857,
     "lon": 118.639512,
-    "depth": 30,
+    "depth": 20,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "scubajunkiesangalaki.com,maratuaseaviewresort.com,zubludiving.com,bluewaterdivetravel.com,padi.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 5 independent domain sources from markdown research.",
+      "validation_source": "scubajunkiesangalaki.com,maratuaseaviewresort.com,zubludiving.com,bluewaterdivetravel.com,padi.com,sienna-resort.com",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. DEPTH CORRECTED from 30m to 20m — PADI lists max 20m (65ft) for this channel site. Location confirmed at north Maratua channel entrance. Also called 'The Channel'. Drift type confirmed. Advanced difficulty confirmed. Thousands of schooling barracuda and reef sharks confirmed. Scuba Junkie Sangalaki notes currents can be extreme with downwelling risk.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "scubajunkiesangalaki.com,maratuaseaviewresort.com,zubludiving.com,bluewaterdivetravel.com,padi.com"
+    "validation_source": "scubajunkiesangalaki.com,maratuaseaviewresort.com,zubludiving.com,bluewaterdivetravel.com,padi.com,sienna-resort.com"
   },
   {
     "name": "Turtle Traffic",
@@ -182,8 +182,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "padi.com,scubajunkiesangalaki.com,bluewaterdivetravel.com,greennirvanaresort.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 4 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Depth 15m confirmed by PADI. Reef type confirmed. Beginner difficulty confirmed. Green (Chelonia mydas) and hawksbill (Eretmochelys imbricata) turtles confirmed. Located near Maratua Island. Extraordinary turtle density (40+ turtles per dive) confirmed by multiple sources.",
       "validated": "true"
     },
     "validated": "true",
@@ -200,13 +200,13 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "scubajunkiesangalaki.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Markdown footer has 3 URLs but all from same domain (scubajunkiesangalaki.com) - effectively 1 source. Not validated per 3-domain rule.",
-      "validated": "false"
+      "validation_source": "scubajunkiesangalaki.com,sienna-resort.com,orcadiveclub.in",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: NOW VALIDATED. Third independent source found (sienna-resort.com, orcadiveclub.in). Wall type confirmed. Named for large gorgonian sea fans confirmed. Depth: Sienna Resort cites 23m recreational max; 30m retained as site maximum (wall continues deeper). Intermediate difficulty confirmed. White-tip and grey reef sharks at depth confirmed. Near Maratua Island.",
+      "validated": "true"
     },
-    "validated": "false",
-    "validation_source": "scubajunkiesangalaki.com"
+    "validated": "true",
+    "validation_source": "scubajunkiesangalaki.com,sienna-resort.com,orcadiveclub.in"
   },
   {
     "name": "Kelapa Dua",
@@ -220,12 +220,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "padi.com,scubajunkiesangalaki.com,greennirvanaresort.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 3 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Wall type confirmed. Location near Kakaban Island confirmed. Thresher shark cleaning station behaviour confirmed by PADI and SSI MyDiveGuide. Depth 40m retained as site maximum (wall continues deeper); PADI cites 28m as recreational max — note conflict. Advanced difficulty confirmed. Early morning dive timing for thresher sharks confirmed.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "padi.com,scubajunkiesangalaki.com,greennirvanaresort.com"
+    "validation_source": "padi.com,scubajunkiesangalaki.com,greennirvanaresort.com,divessi.com,orcadiveclub.in"
   },
   {
     "name": "North Sangalou",
@@ -239,11 +239,11 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated with 3 independent domain sources from markdown research.",
+      "last_qa_date": "2026-06-28",
+      "notes": "QA 2026-06-28: Re-audited. Undulating reefscape on outer Sangalou area confirmed. Depth 40m confirmed as site maximum. Intermediate difficulty confirmed. White-tip reef sharks and blue-spotted stingrays confirmed. Location at western edge of Derawan Archipelago near Sangalou Island confirmed.",
       "validated": "true"
     },
     "validated": "true",
-    "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com"
+    "validation_source": "scubajunkiesangalaki.com,asiadivesite.com,dive-the-world.com,zubludiving.com"
   }
 ]

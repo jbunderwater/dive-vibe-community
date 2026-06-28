@@ -1,11 +1,11 @@
 ---
 name: Ladder Labyrinth
-lat: 17.625
-lng: -63.245
+lat: 17.6264
+lng: -63.2598
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 24
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,31 +13,31 @@ addedBy: osm_import
 
 # Ladder Labyrinth
 
-A network of connected volcanic pinnacles near Saba's historic Ladder Bay, forming an underwater maze of swim-throughs, crevices, and arches encrusted with sponges and sea fans.
+A lava-flow reef near Saba's historic Ladder Bay, forming a labyrinth of 10-foot ridges, nooks, and channels — prime habitat for crustaceans, jawfish, and other reef invertebrates.
 
 ## Overview
 
-Ladder Labyrinth takes its name from both the historic Ladder Bay — the traditional landing point cut into Saba's cliffs before the island had a road — and the maze-like underwater topography below. The site consists of several low volcanic pinnacles and rocky ridges forming a convoluted terrain of passages, overhangs, and swim-throughs between 8 and 20 meters. The shallow profile and somewhat sheltered position make this an accessible intermediate site that rewards slow, exploratory diving. The Saba Marine Park protection has allowed the encrusting organisms — orange and yellow tube sponges, sea fans, cup corals — to colonise every available surface. Visibility is 20–30 meters.
+Ladder Labyrinth takes its name from both the historic Ladder Bay — the traditional landing point cut into Saba's cliffs before the island had a road — and the maze-like underwater topography below. The site was formed by ancient lava flows that created a field of 10-foot ridges, channels, and rocky recesses across the seafloor. Sea Saba describes the site as "a labyrinth of 10-foot coral and rock ridges" providing ideal habitat for crustaceans, and notes the distinctive sulfur-coloured volcanic sand as evidence of ongoing geothermal activity — divers can feel the warmth during safety stops. The mooring is at 12 metres (40 feet) and maximum depth is 24 metres (80 feet). Visibility is 20–30 metres.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 8–20 m |
+| Depth Range | 12–24 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
-| Site Type | Pinnacle |
+| Site Type | Reef (lava flow) |
 | Visibility | 20–30 m |
 | Current | Light to moderate |
 | Water Temp | 25–28°C |
 
 ## Marine Life
 
-The complex structure of Ladder Labyrinth creates exceptional habitat diversity, with micro-environments inside swim-throughs and overhangs that shelter different species from those on the open reef. Copper sweepers and glassfish school densely inside the larger passages, creating glittering clouds backlit against the openings. Caribbean spiny lobster are abundant beneath overhangs. Toadfish and frogfish have been recorded at this site, occupying cryptic positions on sponge-encrusted ledges. Hawksbill turtles are common throughout. Banded butterflyfish and foureye butterflyfish occupy the outer reef areas.
+Sea Saba describes the ridges, nooks and channels as an ideal habitat for "all manner of lobsters, crabs and shrimp." Confirmed species per Sea Saba: filefish, chromis, schoolmasters, yellowhead jawfish, pikeblennies, lancer dragonets, and tarpons. The DAN Alert Diver article adds nudibranchs, flamingo tongue cyphomas, and fingerprint cyphomas to the species list. The volcanic sand between the ridges may be sulfur-tinted, a geothermal signature shared with the nearby Hot Springs site. *Previous claims about copper sweepers, glassfish, toadfish, and frogfish are not confirmed by primary operator sources and have been removed.*
 
 ## Dive Profile
 
-Divers descend the mooring and enter the labyrinth from the north end, working south through the passages while maintaining depth between 12–20 meters. The swim-throughs range from wide passages that accommodate two divers abreast to tighter crevices best explored solo. A typical dive circuit of the labyrinth takes 40–50 minutes. The sandy floor of each chamber provides stable hovering points while observing the walls of organisms around you.
+Divers descend the mooring at approximately 12 metres (40 feet) and work through the lava-flow channels. Maximum depth is 24 metres (80 feet). Sea Saba recommends a circumnavigation pattern through the labyrinth of ridges. The sandy and sometimes sulfur-tinted floors between ridges provide easy navigation reference points. A typical dive is 40–50 minutes. The volcanic sand near the deepest sections may be noticeably warmer — a passive reminder of Saba's geothermal activity.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Boat access only from Fort Bay. Permanent mooring buoy maintained by the Saba Co
 
 ## Tips and Recommendations
 
-Take your time in Ladder Labyrinth — this is not a fast-swimming site. The reward is in looking closely at every surface. Bring a torch for the deeper swim-through sections where natural light diminishes. The interior of passages is richest in macro life, particularly on the walls just inside each entrance. The site is an excellent second or third dive of the day when deeper pinnacles have been covered.
+Take your time in Ladder Labyrinth — this is not a fast-swimming site. Look closely at the ridges for yellowhead jawfish hovering above their burrows, nudibranchs on the rock surfaces, and crustaceans sheltering in every recess. Bring a torch for the darker nooks. Look at the sand between ridges — if it is discoloured, it may be sulfur-tinted volcanic sand. The site pairs well with Hot Springs for back-to-back geothermal diving. Excellent as a second or third dive after a morning pinnacle dive.
 
 ## Safety Considerations
 
