@@ -24,10 +24,10 @@ The reef slopes from around 2 metres at the crest to 35 metres at the deepest po
 ## Site Information
 
 - **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive (positive backroll at the northern tip of Friwen Bonda)
-- **Site Type**: Reef / coral garden with current point
-- **Difficulty Level**: All levels
-- **Maximum Depth**: 35 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–20 metres
 - **Current**: Mild to moderate; split current at the reef point concentrates fish
 - **Best Time**: October to April

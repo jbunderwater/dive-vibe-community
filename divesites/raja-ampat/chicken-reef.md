@@ -2,8 +2,8 @@
 name: Chicken Reef
 lat: -0.5465947
 lng: 130.7025224
-difficulty: Advanced
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -24,10 +24,10 @@ The reef features rock formations, soft and hard corals including black stag-hor
 ## Site Information
 
 - **Location**: Northeast of Kri Island, Dampier Strait, Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive; approximately 5 minutes from nearby resorts
-- **Site Type**: Sloping reef / seamount (four sub-areas)
-- **Difficulty Level**: Advanced (intermediate for sheltered sub-areas)
-- **Maximum Depth**: 30 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 metres (up to 50+ m in July)
 - **Current**: Moderate to strong, tide-dependent; drift diving recommended
 - **Best Time**: Mid-October to mid-December for calm conditions; diveable year-round

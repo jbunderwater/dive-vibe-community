@@ -13,36 +13,57 @@ addedBy: osm_import
 
 ## My Reef
 
-My Reef is a personal favourite among dive guides and visiting divers in the Keruo area of Raja Ampat, West Papua, Indonesia. The affectionate name suggests a site that rewards return visits — a reef with character and consistent animal life that makes divers want to claim it as their own.
+My Reef is a submerged sloping reef at the southeast tip of Penemu Island in Raja Ampat. It is documented by La Galigo Liveaboard as a resident population site for the endemic Raja Ampat tasselled wobbegong shark, and is described by one dive travel trip report as producing "absolutely frenetic" fish action when current runs.
 
 ## Overview
 
-My Reef is a coral reef with strong hard coral coverage across its upper sections and a productive slope descending to a sandy bottom at depth. The reef is known for predictable animal encounters: turtles are almost always present, resting on flat coral or grazing sponges; reef sharks circle the deeper edges; and dense schools of fusiliers hover above the crest throughout the dive.
+The site sits at the southeast tip of Penemu Island. The reef top lies at 8–12 meters (described as a "popular chillout place" for tasselled wobbegong sharks). The reef descends along a sloping structure to three coral bommies at 25–30 meters, which form the deepest section and are explored at the start of the dive before ascending the slope. Visibility is typically around 20 meters; current is mild to medium and generally manageable.
 
-The reef structure provides ample nooks and overhangs to investigate. Moray eels peer from crevices, and lionfish pose motionlessly under ledges. The rubble zones at the base of coral heads reward slow searching — nudibranchs, flatworms, and small crabs are regular finds. In calmer conditions the site is excellent for underwater photography, with cooperative turtles often allowing close approach.
+The site is notably productive when current runs: schooling bigeye trevally, barracuda, and fusiliers fill the water column at pace, and the reef is described in one first-person liveaboard report as "like an IMAX cinema." The tasselled wobbegong, an endemic Raja Ampat species, is the signature resident animal at this site.
 
-Visibility typically reaches 15–25 metres. Water temperature stays at 27–29°C. Currents are generally mild, making the dive comfortable and unhurried.
+Note: The OSM coordinates (lat -0.6065187, lng 130.2893836) place this site approximately 5 km south of central Keruo Island — consistent with the La Galigo description of "southeast tip of Penemu Island." The file header's description as being in the "Keruo area" appears to be a geographical approximation; the site is at the Penemu/Keruo border.
+
+## Site Information
+
+- **Location**: Southeast tip of Penemu Island, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: ~20 meters
+- **Current**: Mild to medium
+- **Best Time**: October to April
+- **Water Temperature**: 27–29°C
 
 ## Marine Life
 
-- Green and hawksbill turtles grazing on the reef
-- Whitetip reef sharks on the deeper edges
-- Moray eels and lionfish in crevices and overhangs
-- Schools of fusiliers and anthias above the crest
-- Nudibranchs and flatworms in the rubble
+The following species are documented at this site by La Galigo Liveaboard (dedicated site profile, confirmed as the highest-quality operator source for this site):
+
+- Tasselled wobbegong shark (endemic Raja Ampat species) -- resident population, found on the upper reef at 8-12 m
+- Schooling bigeye trevally
+- Great barracuda
+- Whitetip and blacktip reef sharks
+- Napoleon (humphead) wrasse
+- Bumphead parrotfish
+- Blue ribbon eels
+- Mushroom coral pipefish
+- Sea turtles
+- Manta rays (occasional)
+
+Species removed from prior version as unconfirmed at this specific site: moray eels and lionfish in crevices (generic reef description, not sourced here), nudibranchs and flatworms in rubble (generic), green and hawksbill turtles specifically (La Galigo says "sea turtles" without distinguishing species). Fusiliers and anthias are confirmed in the general frenetic fish activity description.
 
 ## Dive Profile
 
-The dive explores the reef crest and slope between 8 and 25 metres, with time for both wide-angle fish photography and macro searching in the shallows. The gentle conditions suit intermediate divers and underwater photographers. Entry and exit are by boat.
+Descend to the southeast edge where the three coral bommies lie at 25-30 meters. Follow the sloping reef northward as you gradually ascend to the upper reef at 8-12 meters where wobbegong sharks are found. Safety stop on the reef top. A La Galigo itinerary describes the dive profile as descending to the deepest point first and ascending throughout the dive.
 
 ## Practical Information
 
-- **Depth range**: 5–25 m
-- **Visibility**: 15–25 m
-- **Current**: Light to mild
-- **Best time**: October–April
-- **Water temperature**: 27–29°C
+- **Depth range**: 8-30 m (typical; max depth 30 m per operator source)
+- **Visibility**: ~20 m
+- **Current**: Mild to medium
+- **Best time**: October-April
+- **Water temperature**: 27-29 degrees C
 - **Entry**: Boat
 
 ---
-*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*
+*Sources: [La Galigo Liveaboard - My Reef](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/my-reef/), [Dive Happy - Raja Ampat Liveaboard December 2025](https://divehappy.com/raja-ampat-liveaboard-trip-report-december-2025/), [Dive The World - Raja Ampat](https://www.dive-the-world.com/diving-sites-indonesia-raja-ampat.php). Last updated 2026-06-28.*

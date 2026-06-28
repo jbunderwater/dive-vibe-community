@@ -29,9 +29,9 @@ Water temperature in the broader area is approximately 27–29°C.
 
 - **Location**: Gam/eastern Dampier Strait area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern (OSM confirmed cave entrance)
-- **Difficulty Level**: Advanced (overhead environment)
-- **Maximum Depth**: 25 metres
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 - **Current**: Light (sheltered lagoon environment expected)
 - **Best Time**: October to April
 

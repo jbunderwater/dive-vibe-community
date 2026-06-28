@@ -24,10 +24,10 @@ The reef slopes from 5 metres at the crest to 30 metres at depth. Bumphead parro
 ## Site Information
 
 - **Location**: Between Kri Island and Koh Island, Dampier Strait, Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive; approximately 2 minutes from Papua Diving's Kri resort; 30 minutes from Biodiversity Eco Resort
-- **Site Type**: Drift dive across reef channel
-- **Difficulty Level**: Intermediate to Advanced (30+ dives with current experience recommended)
-- **Maximum Depth**: 30 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: Not consistently documented; Dampier Strait average 15–25 m
 - **Current**: Medium to strong; unpredictable direction changes mid-dive
 - **Best Time**: October to April

@@ -2,10 +2,10 @@
 name: Mioskun
 lat: -0.4970983
 lng: 130.719783
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 12167278047
 addedBy: osm_import
@@ -25,9 +25,9 @@ The Mioskon reef surrounds Mioskon Island in a V-shape. The reef slopes gently f
 
 - **Location**: Mioskon Island, Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Sloping reef (surrounding island; V-shaped reef system)
-- **Difficulty Level**: All levels (beginner-accessible)
-- **Maximum Depth**: 25 metres (best diving at 7–12 m)
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Mild; eastern side suitable for drift diving
 - **Best Time**: October to April

@@ -22,9 +22,9 @@ The site is primarily experienced as a drift dive, with tidal current running th
 ## Site Information
 
 - **Location**: East side of Keruo Island, Penemu area, Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive (drift pickup)
-- **Site Type**: Wall / channel drift dive
-- **Difficulty Level**: Intermediate to experienced
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: ~15 meters
 - **Current**: Medium to strong; direction reverses with tide

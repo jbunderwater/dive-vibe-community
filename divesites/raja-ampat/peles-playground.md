@@ -24,4 +24,4 @@ Located near Pele/Waaf island in northern Raja Ampat. Mobula rays, bait ball act
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [Misool Eco Resort](https://www.misool.info/dive-site). Last updated 2026-04-05.*
+*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [Misool Eco Resort](https://www.misool.info/dive-site). Last updated 2026-06-28.*

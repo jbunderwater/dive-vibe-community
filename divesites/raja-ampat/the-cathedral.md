@@ -27,9 +27,9 @@ Water temperature is approximately 27–29°C throughout the Kabui Bay area.
 
 - **Location**: Kabui Bay entrance channel, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern with adjacent protected bay reef
-- **Difficulty Level**: Advanced (overhead environment; cavern section)
-- **Maximum Depth**: 25 metres
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: Variable; protected bay conditions
 - **Current**: Protected bay; channel currents on exterior section
 - **Best Time**: October to April

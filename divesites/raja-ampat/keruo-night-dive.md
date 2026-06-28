@@ -13,36 +13,48 @@ addedBy: osm_import
 
 ## Keruo Night Dive
 
-Keruo Night Dive is a dedicated night diving site in the Keruo Island area of Raja Ampat, West Papua, Indonesia. The site is specifically known for epaulette sharks (Hemiscyllium freycineti) — a species of walking shark endemic to Raja Ampat and nearby New Guinea — which emerge after dark to hunt across the reef flat.
+Keruo Night Dive is a night dive site in the Keruo Island area of Raja Ampat, West Papua, Indonesia. Its coordinates (lat -0.5930296, lng 130.3044533) place it close to but distinct from Keruo Channel, suggesting this is a separate shallow reef area in the same island cluster designated specifically for night dives.
 
 ## Overview
 
-As night falls, the reef at Keruo transforms. The epaulette sharks — also called walking sharks for their habit of using their pectoral and pelvic fins to "walk" across shallow reef flats — emerge from their daytime hiding places and begin systematically working the rubble and coral heads in search of crustaceans and small fish. Watching an epaulette shark navigate the reef in a diver's torch beam, its patterned body moving with a distinctive wriggling gait, is one of Raja Ampat's most memorable wildlife encounters.
+The site name "Keruo Night Dive" does not appear as an independently documented named site in published dive databases or trip reports. It is most likely a local operator or liveaboard designation for a shallow reef flat near Keruo Island that is run as a dedicated night dive. This practice is standard throughout Raja Ampat, where shallow reef flats adjacent to named day-dive sites are assigned separate names when operated as dedicated night dives.
 
-Beyond the walking sharks, the reef at night reveals a different world. Parrotfish sleep in their mucus cocoons beneath coral ledges. Octopuses jet across the sand in flashes of colour. Cuttlefish hunt under the torchlight, hypnotising prey with rippling chromatophore displays. Moray eels are active and visible, cruising the reef surface rather than hiding in their daytime crevices. Crustaceans that spend the day concealed emerge to feed — Spanish dancer nudibranchs, decorator crabs, and mantis shrimp are all commonly encountered.
+The Keruo Island area is confirmed in liveaboard records as a location for night diving. One Aggressor Adventures trip report specifically mentions a night dive on the south side of Keruo Island where an epaulette shark (walking shark) was found by the divemaster. The Keruo area is also described as exceptionally productive for crustaceans on night dives: decorator crabs, hermit crabs, spider crabs, coral crabs, and lobsters are reported as appearing around every corner on Keruo night dives.
 
-Water temperature holds at 27–29°C. Depth is generally shallow — the walking sharks work the shallowest sections of the reef flat, so much of the dive takes place at less than 10 metres.
+Epaulette sharks (Hemiscyllium freycineti), endemic to Raja Ampat, are the primary target on night dives in this area. They are active at night, using their paired fins to move across the reef surface in search of small crustaceans and fish. Water temperature holds at 27-29 degrees C. Night dives in this area are generally shallow, primarily 3-15 meters, on the reef flat.
+
+## Site Information
+
+- **Location**: Keruo Island area (shallow reef flat), Penemu/Fam area, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
+- **Current**: Light (shallow reef flat)
+- **Best Time**: October to April; night dives year-round
+- **Water Temperature**: 27-29 degrees C
 
 ## Marine Life
 
-- Epaulette sharks (walking sharks) hunting on the reef flat
-- Octopuses and cuttlefish active in the open
-- Sleeping parrotfish in mucus cocoons
-- Moray eels hunting across the reef surface
-- Spanish dancer nudibranchs, decorator crabs, and mantis shrimp
+The following are confirmed at or in close association with night dives in the Keruo Island area:
+
+- Epaulette shark (Hemiscyllium freycineti, endemic to Raja Ampat) -- confirmed by Aggressor Adventures trip report on the south side of Keruo Island
+- Decorator crabs, hermit crabs, spider crabs, coral crabs, lobsters -- confirmed as abundant on Keruo night dives in the same liveaboard log
+
+Species in the prior version that have been removed as unconfirmed at this specific site: Spanish dancer nudibranchs, sleeping parrotfish, specific mantis shrimp sightings, and cuttlefish hunting under torchlight. These are plausible night reef behaviors but no source confirms them at this named site specifically. Octopus and moray eels are biologically expected on any Raja Ampat night reef but are not sourced to Keruo Night Dive in particular.
 
 ## Dive Profile
 
-The night dive explores the shallow reef flat at 3–15 metres by torch, moving slowly and methodically to find cryptic nocturnal species. The epaulette sharks are the primary target, found in the shallowest sections. Intermediate divers comfortable with night diving will appreciate this site. Entry and exit are by boat.
+Shallow reef flat exploration at 3-15 meters by torchlight. Move slowly and methodically. The epaulette sharks work the shallowest sections. Stay close to the guide who knows the productive areas. Entry and exit by boat.
 
 ## Practical Information
 
-- **Depth range**: 3–15 m (primarily shallow reef flat)
-- **Visibility**: 10–15 m (torchlight dependent)
+- **Depth range**: 3-15 m (primarily shallow reef flat)
+- **Visibility**: Torch-dependent
 - **Current**: Light
-- **Best time**: October–April; epaulette sharks present year-round
-- **Water temperature**: 27–29°C
+- **Best time**: October-April; epaulette sharks present year-round
+- **Water temperature**: 27-29 degrees C
 - **Entry**: Boat
 
 ---
-*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*
+*Sources: [Aggressor Adventures - Raja Ampat Trip Log](https://www.aggressor.com/captains-logs-view.php?id=1044), [Papua Diving - Epaulette Shark Raja Ampat](https://papua-diving.com/epaulette-shark-raja-ampat/), [Soul Scuba Divers - Night Diving Raja Ampat](https://www.soulscubadivers.com/post/beginner-s-guide-to-night-diving-in-raja-ampat-what-to-expect). Last updated 2026-06-28.*

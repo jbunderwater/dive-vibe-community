@@ -24,10 +24,10 @@ Despite the name, the schooling phenomenon is driven primarily by fusiliers, ban
 ## Site Information
 
 - **Location**: Northeast of Kri Island, Dampier Strait, Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive; 10–15 minutes from nearby resorts
-- **Site Type**: Pinnacle / submerged seamount
-- **Difficulty Level**: Advanced (intermediate divers with drift experience acceptable)
-- **Maximum Depth**: 30 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30+ metres (excellent in good conditions)
 - **Current**: Strong, variable; different currents converge at this site
 - **Best Time**: October to April; schooling activity consistent year-round

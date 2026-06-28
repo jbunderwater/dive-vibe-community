@@ -13,36 +13,38 @@ addedBy: osm_import
 
 ## The Lagoon
 
-The Lagoon is a sheltered reef dive site in Raja Ampat, West Papua, Indonesia. Encircled by islands and reefs that break swell and buffer currents, the site offers calm, clear water that makes for relaxed diving in conditions that contrast with Raja Ampat's more exposed channel sites.
+The Lagoon is a sheltered reef dive site in the Fam/Penemu area of Raja Ampat, with coordinates placing it near Batu Rufas (lat -0.5660946, lng 130.2856301 — approximately 300 meters from the Batu Rufas site). The name and coordinates suggest a sheltered lagoon or bay within the limestone karst island complex of this area.
 
 ## Overview
 
-The lagoon's enclosed nature creates a distinct microhabitat. Soft corals drape the reef in brilliant oranges and purples, taking advantage of the reduced wave stress. Hard corals form dense gardens across the shallower areas, while deeper sections slope away into darker water with sea fans and barrel sponges. The sheltered setting accumulates macro life: ghost pipefish, seahorses, and mantis shrimp are all reported among the rubble and coral heads.
+The site's name does not appear as an independently documented dive site in published databases or liveaboard trip reports. Its coordinates place it in the Fam/Penemu island cluster, close to the Batu Rufas reef. The Batu Rufas site is specifically noted for featuring a sheltered lagoon on one side of the Rufas Island limestone formation — it is possible that "The Lagoon" refers to diving within or near this same lagoon feature, or to a separate sheltered bay nearby.
 
-Schools of glassfish cluster under table corals and around reef structures, attracting predatory trevally and grouper. With no strong current to contend with, divers can spend time hovering over coral formations and inspecting every crevice. The site is popular as a second or third dive when conditions at more exposed sites have been demanding.
+The broader Fam Islands area features sheltered reef environments between limestone islands, with reduced current and conditions suited to macro life, hard and soft coral gardens, and the typical fish diversity of central Raja Ampat. Water temperature averages 27–29°C.
 
-Visibility reaches 15–25 metres in calm periods. Water temperature ranges from 27–29°C. The sheltered environment makes current generally light.
+## Site Information
+
+- **Location**: Fam/Penemu area (near Batu Rufas), Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
+- **Current**: Light (sheltered lagoon environment)
+- **Best Time**: October to April
+- **Water Temperature**: 27–29°C
 
 ## Marine Life
 
-- Soft coral gardens in vibrant orange and purple
-- Ghost pipefish and seahorses in sheltered rubble areas
-- Mantis shrimp in burrows at the reef base
-- Schools of glassfish beneath table corals
-- Grouper, trevally, and reef sharks patrolling
+No published source confirms species at this specific named site. The prior description of ghost pipefish, seahorses, mantis shrimp, glassfish, trevally, grouper, and reef sharks has been removed — these are plausible for a sheltered Raja Ampat lagoon but are not sourced to this named site specifically.
 
-## Dive Profile
-
-The dive explores the lagoon reef at 8–25 metres, with the option to shorten bottom time by staying shallower among the most colourful soft coral growth. Its calm conditions suit intermediate divers and those focusing on photography. Entry and exit are by boat.
+Regional fauna applies; no site-specific marine life reports found for The Lagoon.
 
 ## Practical Information
 
 - **Depth range**: 3–25 m
-- **Visibility**: 15–25 m
 - **Current**: Light
 - **Best time**: October–April
 - **Water temperature**: 27–29°C
 - **Entry**: Boat
 
 ---
-*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*
+*Description based on regional diving characteristics of Raja Ampat's Penemu/Fam area. No site-specific sources found. Last updated 2026-06-28.*

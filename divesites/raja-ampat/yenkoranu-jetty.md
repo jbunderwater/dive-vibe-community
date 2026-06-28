@@ -13,31 +13,32 @@ addedBy: osm_import
 
 ## Yenkoranu Jetty
 
-Yenkoranu Jetty is a critter dive at the jetty of Yenkoranu homestay on Kri Island, Raja Ampat, West Papua, Indonesia. Located just minutes from Cape Kri, it offers a completely different diving character — slow, shallow, macro-focused — making it an ideal contrast to the high-octane fish action of its famous neighbour.
+Yenkoranu Jetty is a shallow jetty and sloping reef dive at the Yenkoranu homestay on Kri Island, Raja Ampat, West Papua, Indonesia. Located just minutes from Cape Kri, it offers a completely different diving character — slow, shallow, and critter-focused — making it an ideal contrast to the high-octane fish action of its famous neighbour.
 
 ## Overview
 
-Jetty structures in Raja Ampat accumulate extraordinary marine life over time: the pilings, rubble, and seagrass beneath the jetty create microhabitats that shelter species rarely seen on open reef. Yenkoranu Jetty is celebrated for the variety of invertebrates and cryptic fish that call it home. Cuttlefish hover under the jetty structure. Blue-ringed octopus are occasionally found in shells and rubble. Ghost pipefish drift vertically in seagrass, perfectly mimicking blades of vegetation.
-
-The sandy bottom beneath and around the jetty is productive hunting ground for macro photographers. Mimic octopus and wonderpus have been reported at this site by visiting divers. Juvenile fish of many species use the piling roots as shelter, and hairy frogfish cling to encrusted surfaces with chameleon camouflage. The seagrass patches attract seahorses, pipefish, and leaf scorpionfish.
-
-Because the dive is shallow and sheltered, bottom time is limited only by gas supply and temperature. Water temperature holds at 27–29°C. The beginner rating reflects the site's calm conditions and shallow depth profile.
+The site begins at the jetty in shallow water and slopes down to approximately 25 metres, with the most productive macro habitat in the upper 15 metres. PADI's site profile classifies it as a drift/reef/ocean dive accessible by boat or shore. Soul Scuba Divers describe it as "full of fire coral that hides hydroid decorator crabs" — a critter site rather than a conventional reef dive. Diveplanner Pro's description calls it a muck diving character site, with sand, rubble, and the jetty structure creating the dominant habitat rather than open reef. Reef slope with sand and bommies supports macro life including pygmy seahorses, pipefish, octopuses, and cuttlefish. Walking sharks (*Hemiscyllium freycineti*) have been documented in the Yenkoranu/Kri Island area. Water temperature holds at 27–29°C.
 
 ## Marine Life
 
-- Cuttlefish and blue-ringed octopus beneath the jetty
-- Ghost pipefish and seahorses in seagrass
-- Hairy frogfish on encrusted pilings
-- Mimic octopus and wonderpus in sandy areas
-- Juvenile reef fish around piling bases
+The following species are supported by site-specific sources for Yenkoranu or the immediate Kri Island jetty environment:
+
+- Pygmy seahorses (confirmed at Kri Island jetty environments)
+- Pipefish on pilings and rubble
+- Cuttlefish (common at Raja Ampat jetties)
+- Octopus in rubble
+- Hydroid decorator crabs in fire coral (specifically noted by Soul Scuba Divers)
+- Walking shark (*Hemiscyllium freycineti*) — documented in Kri Island area
+
+The following species listed in earlier versions of this description are NOT confirmed by sources specifically reviewed for Yenkoranu Jetty and have been removed: blue-ringed octopus, ghost pipefish, hairy frogfish, mimic octopus, wonderpus, leaf scorpionfish. These are generic muck/jetty species from elsewhere in Indonesia and no source places them specifically at this site. Mimic octopus in particular is primarily a Lembeh Strait species; no credible Raja Ampat source documents it at Yenkoranu.
 
 ## Dive Profile
 
-The dive is entirely shallow — from the surface to around 10–15 metres beneath the jetty — and moves slowly across seagrass, rubble, and pilings in a systematic macro search. An extended safety stop is easy given the shallow depth. Beginner divers with good buoyancy control are well suited. Entry and exit are by boat or from the jetty itself.
+The dive begins at the jetty in very shallow water and slopes down across seagrass, rubble, and pilings to about 25 metres, though most macro activity is in the upper 15 metres. Move slowly across substrate types in a systematic critter search. Beginner divers with good buoyancy control are well suited to the shallow sections. Entry and exit are by boat or from the jetty itself.
 
 ## Practical Information
 
-- **Depth range**: 1–15 m
+- **Depth range**: 1–25 m (most interest at 1–15 m)
 - **Visibility**: 10–20 m
 - **Current**: Light (sheltered)
 - **Best time**: October–April
@@ -45,4 +46,4 @@ The dive is entirely shallow — from the surface to around 10–15 metres benea
 - **Entry**: Boat or jetty
 
 ---
-*Sources: [Papua Diving — Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Raja Ampat Biodiversity Eco Resort — Dive Sites](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [Soul Scuba Divers — Dive Sites](https://www.soulscubadivers.com/our-dive-sites). Last updated 2026-06-28.*
+*Sources: [PADI — Yenkoranu Jetty Dive Site](https://www.padi.com/dive-site/indonesia/yenkoranu-jetty/), [Soul Scuba Divers — Discover Raja Ampat At Night](https://www.soulscubadivers.com/post/discover-raja-ampat-at-night), [Papua Diving — Epaulette Sharks Raja Ampat](https://papua-diving.com/epaulette-shark-raja-ampat/). Last updated 2026-06-28.*

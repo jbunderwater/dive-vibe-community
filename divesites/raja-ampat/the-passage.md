@@ -28,8 +28,8 @@ The nutrient-rich tidal flow feeds extraordinary soft coral growth. Multiple sou
 - **Location**: Between Waigeo and Gam Islands, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate (strong currents; confident drift diving required)
-- **Maximum Depth**: 25 metres (most interest in 5–15 m range)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–10 metres (lower than open-reef sites due to nutrients/tannins)
 - **Current**: Tidal; can be strong through the narrows
 - **Best Time**: October to April; tidal timing critical

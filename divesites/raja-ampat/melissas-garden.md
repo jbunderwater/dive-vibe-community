@@ -23,8 +23,8 @@ Situated in the Penemu area west of the Dampier Strait, approximately 1.5 hours 
 
 - **Location**: Penemu chain, near Pulau Keruwo, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (plateau with sloping edges; also described as pinnacle by PADI)
-- **Difficulty Level**: Intermediate (accessible to all levels in calm conditions)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: Up to 25 meters
 - **Current**: Mild to moderate; variable

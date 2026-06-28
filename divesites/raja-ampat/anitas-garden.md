@@ -23,7 +23,7 @@ Anita's Garden is centred on a hard coral plateau at around 8–10 meters depth,
 
 - **Location**: Penemu/Fam area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (hard coral garden)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Current**: Mild to moderate

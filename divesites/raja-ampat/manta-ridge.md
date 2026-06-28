@@ -29,9 +29,9 @@ Visibility typically reaches 20–30 metres. Water temperature is approximately 
 
 - **Location**: Between Mansuar Island and Arborek Island, Dampier Strait, Raja Ampat
 - **Entry Type**: Boat dive
-- **Site Type**: Reef slope with cleaning station
-- **Difficulty Level**: Advanced (strong multi-directional currents, frequent downcurrents; reef hook required)
-- **Maximum Depth**: Below 40 metres (cleaning station action 6–17 m)
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 metres
 - **Current**: Strong to very strong in all directions; downcurrents frequent on ascent
 - **Best Time**: October to April (year-round possible)

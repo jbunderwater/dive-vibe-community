@@ -25,9 +25,9 @@ The strong oceanic currents flowing through the channel to the Banda Sea are the
 
 - **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (outer face), transitioning to sloping reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 metres (sand bottom 25 m+)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Moderate to strong on the outer face; milder in the channel
 - **Best Time**: October to April

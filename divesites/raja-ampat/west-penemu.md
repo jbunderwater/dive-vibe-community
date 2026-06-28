@@ -13,36 +13,42 @@ addedBy: osm_import
 
 ## West Penemu
 
-West Penemu is a reef dive site off the western face of Penemu Island in Raja Ampat, West Papua, Indonesia. Penemu Island is famous for its dramatic karst limestone formations and hidden lagoons above water, and the reef running along its western flank offers diving of matching quality beneath the surface.
+West Penemu is a reef dive site off the western face of Penemu Island in Raja Ampat. Penemu Island (also known as Pulau Penem or Piaynemo Island) is renowned for its dramatic karst limestone formations and hidden lagoons; the reef running along its western flank is exposed to open-water currents from the west.
 
 ## Overview
 
-The reef off Penemu's western side benefits from currents sweeping in from the open water to the west, delivering nutrients that sustain exceptional coral vitality. The upper reef slope is dense with table corals and staghorn thickets, providing shelter for a large population of juvenile and adult reef fish. Deeper down, the slope transitions through mixed coral and sponge growth before reaching sandy channels at 20–25 metres.
+The western face of Penemu receives currents from the open water to the west, conditions that typically sustain nutrient-rich water and strong coral growth on exposed reef slopes. The general Penemu area is documented in liveaboard operator sources as having large concentrations of schooling fish including fusiliers, batfish, trevally, and jacks, with the strongest action on the south Penemu side. The western reef slope of Penemu specifically has not been documented in detail in publicly accessible sources.
 
-Napoleon wrasse are a regular feature at this site, cruising the deeper slope with their characteristic unhurried bulk. Schools of moorish idols and bannerfish drift along the reef edge, while hawksbill turtles graze on sponges and soft coral. Wobbegong sharks occasionally rest in crevices beneath coral overhangs. The site's relative exposure to current keeps the water clear and the reef conditions healthy.
+Penemu's surrounding waters are part of the Penemu/Fam cluster regularly visited by central Raja Ampat liveaboard routes. The broader area features reef walls, slopes, and some pinnacle structures; the southern side of the island is noted for a shallow underwater ridge peaking at 7 meters. Water temperature in this zone averages 27–29°C.
 
-Visibility averages 15–25 metres. Water temperatures range from 27–29°C. Currents can run moderate on the western face during tidal movement.
+## Site Information
+
+- **Location**: Western face of Penemu Island (Pulau Penem), Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
+- **Current**: Mild to moderate (exposed western face)
+- **Best Time**: October to April
+- **Water Temperature**: 27–29°C
 
 ## Marine Life
 
-- Napoleon wrasse on the deeper slope
-- Hawksbill turtles grazing on sponges
-- Schools of moorish idols and bannerfish
-- Wobbegong sharks in overhangs
-- Dense table coral and staghorn gardens
+No source-confirmed marine life list is available specifically for the West Penemu dive site. The broader Penemu area is documented for schools of fusiliers, batfish, trevally, jacks, barracuda, and reef sharks; the southern ridge specifically is noted for anemones and soft corals with pygmy seahorse sightings. Species attributed in the prior version of this page — napoleon wrasse, hawksbill turtles, moorish idols, wobbegong sharks — are plausible in the Penemu area but not confirmed by independent sources at this specific named site.
+
+Regional fauna applies; no site-specific marine life reports found for West Penemu.
 
 ## Dive Profile
 
-The dive follows the reef slope from the shallower coral gardens down to 20–25 metres before ascending along the current side of the reef for a safety stop. Intermediate divers comfortable with mild to moderate current will enjoy this site. Entry and exit are by boat.
+Reef slope from shallow coral gardens descending to 20–25 meters, with exposure to mild to moderate current on the western face. Entry and exit by boat.
 
 ## Practical Information
 
 - **Depth range**: 5–25 m
-- **Visibility**: 15–25 m
 - **Current**: Mild to moderate
 - **Best time**: October–April
 - **Water temperature**: 27–29°C
 - **Entry**: Boat
 
 ---
-*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*
+*Description based on regional diving characteristics of Raja Ampat's Penemu area. No site-specific sources found for West Penemu. Last updated 2026-06-28.*

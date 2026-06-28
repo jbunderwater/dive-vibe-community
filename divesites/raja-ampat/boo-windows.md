@@ -23,9 +23,9 @@ An offshore pinnacle to the south sits at roughly 15 metres and attracts pelagic
 
 - **Location**: Misool area (Boo Island), Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall with swim-through windows
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (windows at 5 m; offshore pinnacle at 15 m)
+- **Maximum Depth**: 30 meters
 
 ---
 *Sources: [Dive Concepts – Boo Island](https://diveconcepts.com/boo-island-raja-ampat), [Misool Eco Resort](https://www.misool.info/dive-site), [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [ScubaBoard Raja Ampat Jan 2020 trip report](https://scubaboard.com/community/threads/raja-ampat-jan-2020-trip-report.593528/), [Original Diving – Boo Window & Boo East](https://www.originaldiving.com/far-east/indonesia/dive-raja-ampat/diving-boo-window-and-boo-east-raja-ampat). Last updated 2026-06-28.*

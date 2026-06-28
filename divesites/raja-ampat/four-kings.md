@@ -23,9 +23,9 @@ Currents are moderate to strong and can reverse mid-dive; drift-diving capabilit
 
 - **Location**: Misool area (Pele), Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount (four pinnacles)
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (shallowest pinnacle top: 5–7 m)
+- **Maximum Depth**: 40 meters
 
 ---
 *Sources: [La Galigo Liveaboard – Four Kings](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/four-kings/), [Dive Concepts – Four Kings](https://diveconcepts.com/four-kings-raja-ampat), [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [ScubaBoard Raja Ampat Jan 2020 trip report](https://scubaboard.com/community/threads/raja-ampat-jan-2020-trip-report.593528/), [Misool Eco Resort](https://www.misool.info/dive-site). Last updated 2026-06-28.*

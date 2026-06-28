@@ -5,7 +5,7 @@ lng: 130.3102785
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: 13045665466
 addedBy: osm_import
@@ -13,36 +13,38 @@ addedBy: osm_import
 
 ## Seamount
 
-Seamount is an offshore pinnacle and wall dive in the Keruo area of Raja Ampat, West Papua, Indonesia. Rising from deeper open water, the structure creates a focal point for marine life in an otherwise featureless seafloor, drawing both resident reef species and open-water pelagics to its flanks.
+Seamount is a dive site in the Keruo Island area of Raja Ampat, West Papua, Indonesia (OSM id 13045665466). The OSM data originally recorded this as site type "wall" despite the name "Seamount"; the site type has been updated to "pinnacle" in the data based on the name being consistent with an offshore submerged structure rather than a fringing wall, but no independent source has yet confirmed the site's actual structure.
 
 ## Overview
 
-The seamount's upper plateau lies at a diveable depth, making it accessible for exploration while still commanding the deep water on all sides. The summit and upper walls are encrusted with prolific hard coral growth — table corals, Acropora thickets, and massive Porites heads — that have capitalised on the structure's exposed, current-bathed position. Nutrient-rich water washing over the summit supports dense schools of fusiliers and anthias that perpetually cloud the upper section.
+The site name "Seamount" does not appear as an independently documented named dive site in published databases, liveaboard operator pages, or diver trip reports for the Keruo/Penemu area. Its coordinates (lat -0.5894517, lng 130.3102785) place it approximately 1.5 km east of Keruo Island in open water, which is geographically consistent with an offshore pinnacle or seamount structure. This position differs from the fringing reef wall of Keruo Channel to the west.
 
-The flanks of the seamount drop away more steeply and transition to sea fans, soft corals, and encrusting sponges. Current running past the structure brings pelagics: rainbow runners, dogtooth tuna, and barracuda patrol the open water within metres of the wall face. Grey reef sharks are regularly seen circling the deeper flanks, and eagle rays cruise past with their characteristic wingtip-first descents.
+Offshore pinnacles in central Raja Ampat (such as at Penemu and at Blue Magic near Dampier Strait) are characterized by strong variable currents, good visibility, and a mix of resident reef species on the structure alongside pelagics in the blue water. These are general characteristics plausible for this type of site but have not been confirmed at this specific named site.
 
-Visibility reaches 20–30 metres in good conditions. Water temperature averages 27–30°C. Currents are variable — the seamount sits in open water and can experience stronger flow than nearby inshore sites.
+## Site Information
+
+- **Location**: Open water east of Keruo Island, Penemu/Fam area, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle (site type updated from "wall"; unconfirmed by independent sources)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
+- **Current**: Variable (open water; stronger and less predictable than nearby inshore sites)
+- **Best Time**: October to April
+- **Water Temperature**: 27-30 degrees C
 
 ## Marine Life
 
-- Dense Acropora and table coral on the summit
-- Grey reef sharks circling the deeper flanks
-- Eagle rays and dogtooth tuna in the blue water
-- Barracuda and rainbow runners along the wall
-- Schools of fusiliers and anthias on the summit plateau
+No published source confirms species at this specific named site. The prior description attributed grey reef sharks, eagle rays, dogtooth tuna, barracuda, rainbow runners, fusiliers, anthias, and Acropora table coral. These are ecologically appropriate for an offshore Raja Ampat pinnacle but are not sourced to this site and have been removed.
 
-## Dive Profile
-
-Divers descend the wall from the summit at 8–10 metres down to 20–25 metres, exploring sea fans and overhangs before circling back to the shallower summit for the safety stop. The seamount's isolation in open water means navigation is straightforward — the structure fills the view in every direction. Entry and exit are by boat.
+Regional fauna applies; no site-specific marine life reports found for Seamount.
 
 ## Practical Information
 
-- **Depth range**: 5–25 m
-- **Visibility**: 20–30 m
-- **Current**: Moderate (variable with tide)
-- **Best time**: October–April
-- **Water temperature**: 27–30°C
+- **Depth range**: 5-25 m
+- **Current**: Moderate to variable
+- **Best time**: October-April
+- **Water temperature**: 27-30 degrees C
 - **Entry**: Boat
 
 ---
-*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*
+*Description based on regional diving characteristics of Raja Ampat's Keruo/Penemu area. No site-specific sources found. Site type updated from "wall" to "pinnacle" based on site name; structural type unconfirmed by independent sources. Last updated 2026-06-28.*

@@ -29,7 +29,7 @@ Multiple sources confirm the passage carries soft corals, sea fans, sponges, and
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 metres
+- **Maximum Depth**: 15 meters
 
 **Note on sourcing:** This entry was added as a curated gap-fill with a single source (SV Delos dive log). The adjacent sites Selat Kabui and The Passage have broader documentation and should be consulted for detailed information about diving this waterway. Fewer than 3 independent domain sources could be located for this specific Kabui Pass entry.
 

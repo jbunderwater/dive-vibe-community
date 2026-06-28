@@ -25,9 +25,9 @@ Multiple sources confirm the pinnacle functions as a natural marine life corrido
 
 - **Location**: Western edge of Dampier Strait, off Gam Island, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Advanced (strong currents; SMB and reef hook required)
-- **Maximum Depth**: Below 35 metres (pinnacle top at ~10 m)
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Variable; best at gentle to moderate; very strong conditions not recommended
 - **Best Time**: October to April; tidal timing critical

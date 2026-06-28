@@ -25,9 +25,9 @@ The site's defining structural feature is the result of WWII history: Allied air
 
 - **Location**: Kerupiar Island, Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with overhangs, caves, and plateau
-- **Difficulty Level**: Intermediate to Advanced
-- **Maximum Depth**: 40 metres (plateau at ~8 m; wall to 30–40+ m)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Strong, variable; occasional downwellings due to Dampier Strait flow speed
 - **Best Time**: October to April; best dived at slack tide for intermediate divers

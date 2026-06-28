@@ -26,8 +26,8 @@ The site has three distinct zones: a shallow coral ledge accessible to beginners
 - **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: All levels (beginner-accessible)
-- **Maximum Depth**: 25 metres
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Mild to moderate; stronger at tidal turn
 - **Best Time**: October to April

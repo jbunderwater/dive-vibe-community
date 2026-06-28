@@ -26,10 +26,10 @@ The tidal flow is the defining feature: nutrient-rich water floods through the n
 ## Site Information
 
 - **Location**: Between Waigeo and Gam Islands, Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive (two-boat setup for linear drift)
+- **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate (requires confident drift diving; current can be strong)
-- **Maximum Depth**: 25 metres (most interest in 5–15 m range)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–10 metres (lower than open-reef sites)
 - **Current**: Tidal; gentle to moderate typical, can be strong; direction reverses with tide phase
 - **Best Time**: October to April

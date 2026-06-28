@@ -25,9 +25,9 @@ The defining feature of Friwen Laut is its population of **Papuan garden eels** 
 
 - **Location**: Dampier Strait, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Sloping reef
-- **Difficulty Level**: All levels (beginner-accessible; snorkeller-friendly in shallows)
-- **Maximum Depth**: 25 metres
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 metres
 - **Current**: Mild to none; more sheltered than other Friwen sites
 - **Best Time**: October to April

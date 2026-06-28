@@ -23,7 +23,7 @@ Currents at the eastern face can be moderate to strong, making this an Intermedi
 
 - **Location**: Misool area (Boo Island, eastern face), Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 

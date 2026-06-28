@@ -27,7 +27,7 @@ Named after the liveaboard vessel used by early Raja Ampat explorer Burt Jones d
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (most diving 20–26 m; sandy plateau at 30 m)
+- **Maximum Depth**: 30 meters
 
 ---
 *Sources: [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/andiamo/), [Misool Eco Resort](https://www.misool.info/dive-site), [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [ScubaBoard Raja Ampat Jan 2020 trip report](https://scubaboard.com/community/threads/raja-ampat-jan-2020-trip-report.593528/). Last updated 2026-06-28.*

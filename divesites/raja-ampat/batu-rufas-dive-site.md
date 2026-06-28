@@ -25,8 +25,8 @@ Visibility is typically around 20 meters. Current is mild to medium under normal
 
 - **Location**: West side of Rufas Island, Penemu chain, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall and reef (with lagoon and swim-through)
-- **Difficulty Level**: Intermediate (accessible to less experienced divers in mild conditions)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: ~20 meters
 - **Current**: Mild to medium; can strengthen on rising tide; best dived south-to-north on incoming tide

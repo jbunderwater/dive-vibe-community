@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Arborek Shark Point
 
-Arborek Shark Point is a reef dive off the northern tip of Arborek Island in the Dampier Strait, renowned for reliable sightings of blacktip reef sharks and the remarkable epaulette shark — a walking shark found only in the shallow reef flats of eastern Indonesia and Papua New Guinea.
+Arborek Shark Point is a reef dive at the northern end of Arborek Island in the Dampier Strait, renowned for reliable sightings of blacktip reef sharks and the endemic Raja Ampat walking shark — a site also adjacent to the Arborek Jetty dive area.
 
 ## Overview
 
-The waters around Arborek village are some of the most biologically productive in Raja Ampat, and the reef at the northern tip of the island concentrates shark activity in a reliably accessible site. Blacktip reef sharks (Carcharhinus melanopterus) patrol the reef edge in numbers, often in shallow water where their distinctive black-tipped dorsal fins are visible from the surface. The epaulette shark (Hemiscyllium ocellatum) — celebrated for its ability to walk on its pectoral fins across exposed reef flats at low tide — is resident here and a highlight of every visit. Water temperature averages 27–29°C with visibility of 10–20 meters.
+The waters around Arborek village are some of the most biologically productive in Raja Ampat. Blacktip reef sharks (*Carcharhinus melanopterus*) patrol the reef edge and the shallows throughout the day, often visible from the surface. The walking shark found at Arborek is *Hemiscyllium freycineti* — the Indonesian speckled carpetshark, endemic to the Raja Ampat Islands and listed as Near Threatened. This is not *H. ocellatum* (the common epaulette shark of Queensland and PNG), which does not occur here. *H. freycineti* uses its pectoral and pelvic fins to walk across shallow reef flats, and a known population of over 600 individuals has been documented at Arborek Island by the New England Aquarium and Rufford Foundation. Water temperature averages 27–29°C with visibility of 10–20 metres.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The waters around Arborek village are some of the most biologically productive i
 
 ## Marine Life
 
-Blacktip reef sharks are the dominant species, circling the reef edge throughout the day in groups of 3–10 individuals. Epaulette sharks rest under coral overhangs and in sandy pockets — at dusk they become more active and easier to observe as they walk across the shallow reef flat. Juvenile sharks of both species are sometimes encountered in the very shallows. The reef also supports napoleon wrasse, large groupers, bumphead parrotfish, and aggregations of snapper and sweetlips in crevices along the reef slope.
+Blacktip reef sharks are the dominant species, circling the reef edge throughout the day. *Hemiscyllium freycineti* (the Raja Ampat walking shark, also called Kalabia locally) rests under coral overhangs and in sandy pockets during daylight; at dusk and on night dives the sharks become active and can be observed walking across the shallow reef flat. Wobbegong sharks are also reported at this location near the Arborek Jetty area at dusk. Bumphead parrotfish are confirmed at Arborek — multiple sources document a large family at 2–3 metres depth near the village. Snapper and sweetlips are confirmed by La Galigo's Arborek Jetty site listing. Napoleon wrasse and groupers are regionally typical but not independently confirmed for this specific site.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Blacktip reef sharks are harmless to divers who behave calmly. Do not feed or ap
 Two distinct photographic subjects define this site. Blacktip sharks are best photographed with a medium wide-angle lens (17–35mm equivalent) in the upper 10 meters where ambient light is strong. Epaulette sharks require a macro or close-focus wide-angle approach with a torch for illumination of their cryptic resting spots. Night and dusk photography of walking epaulettes is among the most unusual wildlife photography available in Indonesia.
 
 ---
-*Sources: [Papua Diving — Epaulette Sharks Raja Ampat](https://papua-diving.com/epaulette-shark-raja-ampat/), [Soul Scuba Divers — Dive Sites](https://www.soulscubadivers.com/our-dive-sites), [Papua Diving — Sharks in Raja Ampat](https://papua-diving.com/types-of-sharks-in-raja-ampat/). Last updated 2026-06-28.*
+*Sources: [Papua Diving — Epaulette Sharks Raja Ampat](https://papua-diving.com/epaulette-shark-raja-ampat/), [Save Our Seas Foundation — Raja Ampat Endemic Sharks](https://saveourseas.com/update/raja-ampat-and-their-endemic-shark-species/), [La Galigo Liveaboard — Arborek Jetty](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/arborek-jetty/). Last updated 2026-06-28.*
