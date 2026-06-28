@@ -3,8 +3,8 @@ name: Zuñiga Jetty
 lat: 32.6689247
 lng: -117.223125
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 9
+entryType: boat
 siteType: reef
 ref: null
 osmId: 25284140
@@ -22,10 +22,10 @@ Zuñiga Jetty extends approximately 7,500 feet from the northern tip of Coronado
 ## Site Information
 
 - **Location**: Northern tip of Coronado Island, entrance to San Diego Bay
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 9 meters
 - **Water Temperature**: 15–20°C
 
 ## Marine Life
@@ -34,7 +34,7 @@ The jetty's rocky structure draws in a classic Southern California reef assembla
 
 ## Dive Profile
 
-The jetty slope descends gradually from the surface to approximately 25 metres at the outer end. Divers typically work the shallower sections (5–15 m) where fish density and light are best. The rock-to-sand transition at the base of the jetty structure is the most productive zone. On slack-to-incoming tide, visibility improves significantly — dirty bay water flush on outgoing tide.
+The jetty slopes from the surface to approximately 9 metres (30 feet) at the outer end. Divers typically work the shallower sections (3–9 m) where fish density and light are best. The rock-to-sand transition at the base of the jetty structure is the most productive zone. On slack-to-incoming tide, visibility improves significantly — outgoing tide flushes murky bay water outward.
 
 ## Entry and Exit
 

@@ -3,7 +3,7 @@ name: SS Monte Carlo
 lat: 32.6742831
 lng: -117.1731815
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 6
 entryType: shore
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The SS Monte Carlo (originally SS McKittrick) was a concrete and iron oil tanker
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 6 meters
 - **Water Temperature**: 15–20°C
 
 ## Wreck History

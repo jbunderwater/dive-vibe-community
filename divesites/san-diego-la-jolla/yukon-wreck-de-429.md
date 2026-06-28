@@ -2,7 +2,7 @@
 name: Yukon Wreck (DE-429)
 lat: 32.6825
 lng: -117.267
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wreck
@@ -13,18 +13,20 @@ addedBy: osm_import
 
 ## Yukon Wreck (DE-429)
 
-The Yukon Wreck is a classic destroyer escort wreck in San Diego's Wreck Alley, offering excellent wreck diving with abundant marine life colonization.
+**Data Note:** The designation "DE-429" does not correspond to any known vessel in the San Diego Wreck Alley area. This entry is a gap-fill duplicate of the HMCS Yukon (DDE 263) — the only "Yukon" wreck in San Diego. The HMCS Yukon is designated DDE 263 (hull number), not DE-429. This site entry should be reviewed for removal to avoid duplication. The description below reflects the actual HMCS Yukon wreck.
+
+The HMCS Yukon (DDE 263) is a 366-foot Mackenzie-class Canadian destroyer escort intentionally sunk on July 15, 2000, as an artificial reef in Wreck Alley off Mission Beach. It is one of the largest diveable wrecks on the US West Coast.
 
 ## Overview
 
-The USS or HMCS Yukon (DE-429/DDE-265) is a primary wreck dive in the Wreck Alley area off Mission Beach. This destroyer escort was intentionally sunk to create an artificial reef and has become heavily colonized with marine life. The wreck features substantial structural integrity with exposed deck features, compartments, and superstructure that provide excellent diving opportunities for intermediate divers. The site is accessible via local boat charters and offers consistent conditions with good visibility and minimal current.
+The HMCS Yukon is the primary "Yukon" wreck in San Diego's Wreck Alley. The vessel rests on its port side at 100 feet (30 m) at the deepest point (bow), with the stern high point at approximately 68 feet (21 m). The wreck has been extensively "Swiss-cheesed" with access holes and enlarged hatches to ensure diver safety. "Burma road" — a central passageway running almost the entire ship length — is the main navigation route. This is an advanced dive due to depth, cold water, and the complexity of wreck navigation.
 
 ## Site Information
 
-- **Location**: Wreck Alley, off Mission Beach, San Diego
+- **Location**: Wreck Alley, off Mission Beach, San Diego (~2 miles offshore)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 
 ## Wreck Features
@@ -40,4 +42,4 @@ The wreck supports thriving populations of lingcod, rockfish, cabezon, and other
 Descend to the top of the wreck (20-25 meters) and begin systematic exploration of the exterior. Divers can work around the hull, exploring exposed features and any "Swiss-cheesed" openings that allow safe penetration. Most dives focus on 35-45 minutes of bottom time with appropriate air management for the depth. The three-dimensional nature of wreck exploration can lead to inadvertent depth gain, so careful monitoring is essential.
 
 ---
-*Sources: [Dive California - La Jolla Cove Scuba Diving](https://divecalifornia.com/la-jolla-cove-scuba-diving/), [San Diego Scuba Guide - Guided Dives](https://sandiegoscubaguide.com/guided-dives/), [SSI - Scuba Diving in San Diego Guide](https://www.divessi.com/en/blog/scuba-diving-san-diego-guide-10278.html), [La Jolla Dive](https://www.lajolladive.com), [Scuba Diver Girls - Best Spots for Scuba Diving in La Jolla](https://scubadivergirls.com/la-jolla-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — HMCS Yukon (DDE 263)](https://en.wikipedia.org/wiki/HMCS_Yukon_(DDE_263)), [SD Dive Sites — HMCS Yukon](https://www.sddivesites.com/hmcs-yukon.html), [Marissa Charters — HMCS Yukon Wreck](https://www.marissacharters.com/scuba-san-diego-dive-sites/hmcs-yukon-wreck). Last updated 2026-06-28. Note: "DE-429" designation unverified — flagged as probable duplicate of HMCS Yukon (DDE 263) entry.*

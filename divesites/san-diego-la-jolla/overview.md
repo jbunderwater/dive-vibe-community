@@ -30,7 +30,7 @@ San Diego and La Jolla offer documented dive sites with depths ranging from 15 t
 
 - **Water Conditions**: Water temperature ranges from 9-17°C (48-62°F) year-round, with the coldest water surprisingly in early summer due to upwelling from the canyon. A drysuit or 7mm wetsuit with hood and gloves is recommended year-round. Visibility varies from 3 to 15 meters (10-50 feet), with the best visibility in winter (December-March) when cold upwelling brings clear water (30-50 feet). Conditions at La Jolla Cove can change rapidly based on swell and surge.
 - **Marine Biodiversity**: Giant kelp forests support a rich ecosystem of garibaldi (California's state marine fish), California sheephead, and various rockfish. Leopard sharks aggregate in large numbers at La Jolla Shores from June through September. California sea lions are resident at La Jolla Cove year-round. Giant sea bass, bat rays, and horn sharks inhabit the kelp and rocky reef. Sevengill sharks are occasionally spotted in deeper areas. Wreck Alley attracts large schools of fish and invertebrate life on the artificial reef structures.
-- **Conservation**: La Jolla Cove is within the San Diego-La Jolla Underwater Park and Ecological Reserve, established in 1971. Spearfishing and collecting are prohibited in the reserve. The City of San Diego requires dive flags at all shore entry points.
+- **Conservation**: La Jolla Cove is within the San Diego-La Jolla Underwater Park and Ecological Reserve, originally established in 1970 and now encompassing the Matlahuayl State Marine Reserve. Spearfishing and collecting are prohibited in the reserve. The City of San Diego requires dive flags at all shore entry points.
 
 ## Additional Information
 

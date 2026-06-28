@@ -2,7 +2,7 @@
 name: La Jolla Shores
 lat: 32.8575
 lng: -117.2575
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 20
 entryType: shore
 siteType: reef
@@ -23,19 +23,19 @@ La Jolla Shores Beach is the entry point for one of California's most consistent
 
 - **Location**: La Jolla Shores Beach, San Diego (32°51'27"N 117°15'27"W)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
 ## Marine Life
 
-**Leopard Sharks**: Summer visitors (June-September) congregate in the sandy flats at 5-15 meters to mate and birth young. One of the world's largest aggregations occurs here.
+**Leopard Sharks**: Summer visitors (approximately June-December, peak July-August) congregate in the very shallow sandy flats — typically 1-2 meters (3-6 feet) of water — near the Marine Room restaurant area to warm their bodies and incubate pups. Almost all aggregating sharks are female. One of the largest known aggregations of this species occurs here; accessible to snorkelers and divers alike.
 
 **Bottom-Dwellers**: Bat rays, angel sharks, halibut, guitarfish, and horn sharks cruise the sandy slopes. Small crustaceans (sheep crabs) and pipefish are abundant.
 
 **Fish**: Garibaldi, sheephead, kelp bass, and numerous rockfish shelter in rocky areas as depth increases.
 
-**Other Species**: Sea lions occasionally visit, harbor seals are common, and nudibranchs and anemones colonize any hard substrate.
+**Other Species**: California sea lions occasionally visit. Nudibranchs and anemones colonize any hard substrate. Note: harbor seals (Phoca vitulina) are primarily associated with the Children's Pool (~1 km south), not La Jolla Shores beach itself.
 
 ## Site Zones
 
@@ -50,4 +50,4 @@ La Jolla Shores Beach is the entry point for one of California's most consistent
 Beginner dives typically cover the shallow sandy zone (0-15m) for 40-60 minutes. More experienced divers head toward the canyon ledges (15-30m) for wall diving and pelagic encounters. The site accommodates all levels by using the sandy shallow zone as a natural guide for depth management.
 
 ---
-*Sources: [Dive California - La Jolla Cove Scuba Diving](https://divecalifornia.com/la-jolla-cove-scuba-diving/), [San Diego Scuba Guide - Guided Dives](https://sandiegoscubaguide.com/guided-dives/), [SSI - Scuba Diving in San Diego Guide](https://www.divessi.com/en/blog/scuba-diving-san-diego-guide-10278.html), [La Jolla Dive](https://www.lajolladive.com), [Scuba Diver Girls - Best Spots for Scuba Diving in La Jolla](https://scubadivergirls.com/la-jolla-scuba-diving/). Last updated 2026-04-04.*
+*Sources: [La Jolla Mom — La Jolla Leopard Sharks](https://lajollamom.com/la-jolla-leopard-sharks/), [Dive California — San Diego Sea Lions & Harbor Seals](https://divecalifornia.com/san-diego-sea-lions/), [PADI — La Jolla Shores Dive Site](https://www.padi.com/dive-site/united-states-of-america-usa/la-jolla-shores/), [Waterhorse Charters — La Jolla Diving](https://www.waterhorsecharters.com/la-jolla/). Last updated 2026-06-28.*

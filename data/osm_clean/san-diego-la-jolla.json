@@ -5,7 +5,7 @@
     "lon": -117.1731815,
     "osm_id": 6518067885,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 6,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -24,7 +24,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "wikipedia.org, hiddensandiego.com, lajollamom.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -51,7 +52,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "wikipedia.org (Wreck Alley), waterhorsecharters.com, lajolla.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -81,11 +83,12 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "wikipedia.org, wreckedinmyrevo.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
-    "name": "HMCS Yukon (DDE 265)",
+    "name": "HMCS Yukon (DDE 263)",
     "lat": 32.7715817,
     "lon": -117.2710459,
     "osm_id": 12072605584,
@@ -93,24 +96,25 @@
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
-      "description": "Cold War Royal Canadian Navy destroyer escort sunk as an artificial reef.",
+      "description": "Cold War Royal Canadian Navy Mackenzie-class destroyer escort sunk as an artificial reef off Mission Beach.",
       "historic": "wreck",
-      "name": "HMCS Yukon (DDE 265)",
+      "name": "HMCS Yukon (DDE 263)",
       "seamark:type": "wreck",
       "seamark:wreck:category": "non-dangerous",
       "source": "osm_extended",
       "start_date": "25 May 1963",
       "wikidata": "Q5630972",
-      "wikipedia": "en:HMCS Yukon (DDE 263)",
+      "wikipedia": "en:HMCS_Yukon_(DDE_263)",
       "wreck:date_sunk": "15 July 2000",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "wikipedia.org, sddivesites.com, marissacharters.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -119,9 +123,9 @@
     "lon": -117.223125,
     "osm_id": 25284140,
     "osm_type": "way",
-    "depth": 25,
+    "depth": 9,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Zuñiga Jetty",
@@ -133,7 +137,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "cadivingnews.com, sandiegohistory.org",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -160,7 +165,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "wikipedia.org (Wreck Alley), waterhorsecharters.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -170,12 +176,13 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "divecalifornia.com, sandiegoscubaguide.com, sddivesites.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -185,19 +192,20 @@
     "depth": 20,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "divecalifornia.com, sandiegoscubaguide.com, padi.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
     "name": "La Jolla Canyon",
     "lat": 32.856,
     "lon": -117.265,
-    "depth": 30,
+    "depth": 40,
     "site_type": "canyon",
     "entry_type": "shore",
     "difficulty": "Advanced",
@@ -205,7 +213,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "cadivingnews.com, waterhorsecharters.com, diveinscuba.com",
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -215,12 +224,14 @@
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "wikipedia.org (HMCS Yukon DDE 263), sddivesites.com",
+      "duplicate_note": "Likely duplicate of HMCS Yukon (DDE 263). 'DE-429' is not a known hull designation for any San Diego wreck; coordinates differ from HMCS Yukon OSM node but both refer to the same Wreck Alley area. Flagged for removal review.",
+      "last_qa_date": "2026-06-28"
     }
   }
 ]
