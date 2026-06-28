@@ -23,7 +23,7 @@ Hookers Bottom is a Roatan Marine Park mooring positioned between the Bear's Den
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 

@@ -23,7 +23,7 @@ Training Site serves as a dedicated shallow-water area in the Sandy Bay zone, id
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 

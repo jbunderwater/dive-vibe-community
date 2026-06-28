@@ -23,7 +23,7 @@ Inside Blue 2 sits adjacent to its numbered companions within the Blue Channel, 
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 

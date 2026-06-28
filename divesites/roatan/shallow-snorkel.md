@@ -23,7 +23,7 @@ Shallow Snorkel is exactly what the name promises: a very shallow reef area in t
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 

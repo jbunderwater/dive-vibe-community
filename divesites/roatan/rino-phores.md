@@ -23,7 +23,7 @@ Rino Phores is a shallow reef site in the West End corridor, and the playful nam
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 

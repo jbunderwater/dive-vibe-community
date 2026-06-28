@@ -23,7 +23,7 @@ Tabyannas, also known as "Herbie's Fantasy" or "Herbie's Place," is a shallow sa
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 

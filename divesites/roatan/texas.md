@@ -23,7 +23,7 @@ Texas is a reef dive site on the south coast of Roatán, positioned between the 
 
 - **Location**: South coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–28 meters (65–90 feet)

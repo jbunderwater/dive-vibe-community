@@ -23,7 +23,7 @@ Jumpin Jack is a shallow reef site on the West Bay corridor where divers are gre
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

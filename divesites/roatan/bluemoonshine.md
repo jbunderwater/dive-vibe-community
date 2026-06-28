@@ -23,7 +23,7 @@ Bluemoonshine is one of the Roatan Marine Park's named dive moorings along the W
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

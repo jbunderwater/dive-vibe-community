@@ -23,7 +23,7 @@ Blatt's Bank takes its place among the Roatan Marine Park's collection of named 
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 

@@ -23,7 +23,7 @@ Shallow El Aquario is the upper section of the El Aquario dive site, where the r
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 

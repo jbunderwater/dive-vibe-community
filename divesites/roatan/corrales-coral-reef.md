@@ -23,7 +23,7 @@ As part of the Roatan Marine Park mooring system, Corrale's Coral Reef sits alon
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

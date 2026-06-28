@@ -23,7 +23,7 @@ Named through the Roatan Marine Park's conservation program, Rothschild's Mistre
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

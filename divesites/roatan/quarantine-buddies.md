@@ -23,7 +23,7 @@ The Roatan Marine Park mooring at Quarantine Buddies marks a dive site along the
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

@@ -23,7 +23,7 @@ Sondra's Surprise takes its place among the Roatan Marine Park's collection of n
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

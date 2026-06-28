@@ -23,7 +23,7 @@ Kristin's Krystal Clear forms part of the Roatan Marine Park's named dive site n
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

@@ -23,7 +23,7 @@ Named through the Roatan Marine Park's conservation program, Luna Snorkel is a m
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 

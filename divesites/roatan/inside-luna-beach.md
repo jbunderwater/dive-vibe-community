@@ -23,7 +23,7 @@ Inside Luna Beach is a shore-accessible shallow reef site tucked inside the West
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 

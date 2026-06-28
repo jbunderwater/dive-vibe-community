@@ -23,7 +23,7 @@ Barry's Reef is a Roatan Marine Park mooring site along the barrier reef between
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

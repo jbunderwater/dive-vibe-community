@@ -23,7 +23,7 @@ Pirata's Dream holds the distinction of being the first donor-named Roatan Marin
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 21 meters
 

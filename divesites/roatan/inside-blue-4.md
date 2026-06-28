@@ -23,7 +23,7 @@ Inside Blue 4 is the outermost of the four Blue Channel mooring sites, positione
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 

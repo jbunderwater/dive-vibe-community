@@ -23,7 +23,7 @@ Shallow Seaquest sits on sandy plateaus surrounded by patch reef, forming part o
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 

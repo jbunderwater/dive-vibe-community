@@ -3,7 +3,7 @@ name: M Alexand
 lat: 16.3273466
 lng: -86.5007403
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -36,7 +36,7 @@ The M Alexand hosts the typical artificial reef community found on long-establis
 
 ## Dive Profile
 
-Descend to the upper hull at 18–20 meters and begin an exterior circuit of the wreck. Work forward to the bow section and aft to the stern, dropping to the maximum hull depth of 30 meters at the deepest points. Explore the superstructure and any open cargo areas from the exterior. Ascend to the upper hull as your gas depletes, then make a free ascent with SMB or use a mooring line to your safety stop at 5 meters.
+Descend to the upper hull at 15–18 meters and begin an exterior circuit of the wreck. Work forward to the bow section and aft to the stern, with the maximum depth around 20 meters at the hull base. Explore the superstructure and any open cargo areas from the exterior. Ascend to the upper hull as your gas depletes, then make a free ascent with SMB or use a mooring line to your safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -51,7 +51,7 @@ Served by French Harbour and south-coast dive operators. Entry via giant stride 
 
 ## Safety
 
-Advanced dive requiring proper buoyancy and gas management at 30 meters. Do not penetrate enclosed areas without wreck training and appropriate equipment. The hull has sharp metal edges in deteriorated areas. Always carry an SMB and perform a 3–5 minute safety stop at 5 meters. Dive with a buddy.
+Advanced dive requiring proper buoyancy and gas management. Do not penetrate enclosed areas without wreck training and appropriate equipment. The hull has sharp metal edges in deteriorated areas. Always carry an SMB and perform a 3–5 minute safety stop at 5 meters. Dive with a buddy.
 
 ## Photography
 

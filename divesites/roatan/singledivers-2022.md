@@ -23,7 +23,7 @@ Singledivers 2022 is the second Roatan Marine Park mooring site donated by the s
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 

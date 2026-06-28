@@ -23,7 +23,7 @@ Overheat Reef is a shallow coral reef site on the northern coast of Roatán, pos
 
 - **Location**: North coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)

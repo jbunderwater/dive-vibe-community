@@ -23,7 +23,7 @@ Fiascos In Paradise takes its place among the Roatan Marine Park's collection of
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

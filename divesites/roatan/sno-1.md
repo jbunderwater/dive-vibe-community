@@ -23,7 +23,7 @@ Sno 1 is a Roatan Marine Park mooring site on the West Bay reef, part of the par
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

@@ -23,7 +23,7 @@ Nellie Bean is a Roatan Marine Park mooring site in the Sandy Bay area, dedicate
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

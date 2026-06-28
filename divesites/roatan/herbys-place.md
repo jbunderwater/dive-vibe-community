@@ -23,7 +23,7 @@ Herby's Place sits at West Bay Point on Roatan's south shore, a reef dive that s
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

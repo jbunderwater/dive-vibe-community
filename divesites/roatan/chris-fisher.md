@@ -23,7 +23,7 @@ Chris Fisher belongs to the Roatan Marine Park's network of named mooring sites 
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

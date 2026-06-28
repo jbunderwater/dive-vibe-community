@@ -23,7 +23,7 @@ Ritchey's Reef is part of the Roatan Marine Park's network of named mooring site
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

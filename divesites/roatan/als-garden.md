@@ -23,7 +23,7 @@ Al's Garden is another of the "garden" sites near the West End-Half Moon Bay bou
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

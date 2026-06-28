@@ -23,7 +23,7 @@ Mickeys is a named mooring site within the Roatan Marine Park system, part of th
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

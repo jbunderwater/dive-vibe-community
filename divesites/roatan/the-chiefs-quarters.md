@@ -23,7 +23,7 @@ The Chief's Quarters is a memorial dive site dedicated to Richard "The Chief" Ca
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

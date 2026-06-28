@@ -23,7 +23,7 @@ Alice's Wonderland is a reef dive situated in the West Bay area alongside well-k
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

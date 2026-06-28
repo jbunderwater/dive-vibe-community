@@ -23,7 +23,7 @@ Singledivers.com 2018 is a Roatan Marine Park mooring site donated through the s
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 

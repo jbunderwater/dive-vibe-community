@@ -23,7 +23,7 @@ Butcher Bank is an offshore reef structure located southeast of Roatán, rising 
 
 - **Location**: Offshore southeast of Roatán, Bay Islands, Honduras (open water crossing required)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: 25–35 meters (80–115 feet)
@@ -32,7 +32,7 @@ Butcher Bank is an offshore reef structure located southeast of Roatán, rising 
 
 ## Marine Life
 
-Butcher Bank is noted for its shark encounters. Caribbean reef sharks are regularly seen circling the bank. Occasional whale shark sightings have been reported, as the offshore location is on the edge of whale shark habitat. Eagle rays are more reliably encountered here than at inshore sites. Schools of horse-eye jacks and greater amberjack patrol the water column. Large cubera snappers and yellowfin groupers hold station near the bank's deeper sections. Hammerhead sharks have been reported but are uncommon. The bank top has excellent coral coverage with parrotfish, surgeonfish, and triggerfish.
+Butcher Bank is noted as a productive offshore site where the open-water location concentrates fish. Eagle rays are reported more frequently here than at inshore sites. Schools of horse-eye jacks and greater amberjack patrol the water column. Large cubera snappers and yellowfin groupers hold station near the bank's deeper sections. The bank top has good coral coverage with parrotfish, surgeonfish, and triggerfish. Macro life on the bank includes pipefish, flounder, sole, and tube anemones. Caribbean reef sharks are occasionally reported but are not a consistent feature of this site. Whale shark and hammerhead sightings have been claimed for Roatán's offshore waters generally but are not specifically confirmed for Butcher Bank — treat such claims as speculative.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Offshore dive requiring excellent conditions and experienced boat crew. The cros
 Butcher Bank is Roatán's best site for pelagic photography. Wide-angle shots with reef sharks in the blue water create dramatic compositions. Schools of horse-eye jacks in spiral formations around the bank top are stunning subjects. The offshore visibility is typically the clearest of all Roatán sites, giving a pure blue-water backdrop that makes wildlife images pop.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Sources: [Coconut Tree Divers](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort](https://roatansplashinn.com/en/roatan/roatan-diving-sites/). Unconfirmed pelagic species claims (whale sharks, hammerheads) removed. Last updated 2026-06-28.*

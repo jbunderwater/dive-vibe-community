@@ -23,7 +23,7 @@ Rip's Reef is a Roatan Marine Park mooring in the Sandy Bay area. The shallow re
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 

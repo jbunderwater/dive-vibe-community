@@ -23,7 +23,7 @@ Christopher's Coral is a Roatan Marine Park mooring site positioned along the co
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 

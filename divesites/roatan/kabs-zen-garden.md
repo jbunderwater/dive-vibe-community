@@ -23,7 +23,7 @@ Kab's Zen Garden is a Roatan Marine Park mooring along the West Bay reef, establ
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

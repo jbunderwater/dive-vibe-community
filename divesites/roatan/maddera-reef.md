@@ -23,7 +23,7 @@ Maddera Reef is a Roatan Marine Park mooring site on the West Bay reef, part of 
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 

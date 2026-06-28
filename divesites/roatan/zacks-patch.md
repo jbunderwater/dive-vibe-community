@@ -23,7 +23,7 @@ Zack's Patch is a swim-through site near the West End and Sandy Bay divide, rate
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

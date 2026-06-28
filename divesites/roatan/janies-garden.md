@@ -23,7 +23,7 @@ Located on the West Bay reef between West End and West Bay, Janie's Garden is a 
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

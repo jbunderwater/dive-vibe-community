@@ -23,7 +23,7 @@ Situated along the West Bay reef corridor, The Bucks Stop Here is a Roatan Marin
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

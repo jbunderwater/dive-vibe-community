@@ -23,7 +23,7 @@ Deep Seaquest is the deeper extension of the Sea Quest complex, reaching 24 mete
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 

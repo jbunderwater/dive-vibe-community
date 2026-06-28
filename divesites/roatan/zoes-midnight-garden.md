@@ -23,7 +23,7 @@ Zoe's Midnight Garden is a shallow reef site along the West Bay corridor that ha
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

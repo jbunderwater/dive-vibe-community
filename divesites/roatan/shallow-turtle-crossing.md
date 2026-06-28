@@ -23,7 +23,7 @@ Shallow Turtle Crossing occupies the first of two sandy plateaus at around 6 met
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 

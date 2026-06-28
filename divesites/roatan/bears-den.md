@@ -3,7 +3,7 @@ name: Bear's Den
 lat: 16.3368125
 lng: -86.5688637
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 15
 entryType: boat
 siteType: cave
 ref: null
@@ -13,50 +13,50 @@ addedBy: osm_import
 
 # Bear's Den
 
-*A secluded wall site on Roatán's south reef, featuring a large overhang shelter and consistently reliable nurse shark encounters.*
+*A north-coast chimney chute that drops into a circular cavern at 9–15 meters — one of Roatán's most distinctive cavern dives, with dramatic light effects through the vertical entry shaft.*
 
 ## Overview
 
-Bear's Den is a wall dive site on the southern coast of Roatán, named for the large natural overhang at the base of the reef drop-off where nurse sharks regularly rest. The site features the classic Roatán south-wall topography — a shallow coral plateau transitioning to a vertical wall descending to 30 meters — with the added attraction of a prominent cavern-like overhang at 20–25 meters where nurse sharks congregate. The site is quieter than the more famous West End Wall and Mary's Place, making it appealing for divers seeking a less crowded experience. Visibility is 25–30 meters. Water temperatures average 27–29°C.
+Bear's Den is a cavern dive on the north coast of Roatán, named for the sheltered, den-like character of the main cavern chamber. The site is entered through a vertical chimney chute in the reef that descends from the surface to a circular cavern at approximately 9–15 meters. Natural light filters down through the chimney opening above, creating shifting light columns inside the chamber. The cavern maintains natural light reference throughout — this is cavern diving, not cave diving — and the ceiling opening is always visible from within the main chamber. The site's sheltered north-coast position means calmer surface conditions than south-wall sites.
 
 ## Site Information
 
-- **Location**: South coast of Roatán, Bay Islands, Honduras
+- **Location**: North coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 25–30 meters (80–100 feet)
-- **Current**: Light to moderate on the south wall
-- **Best Time**: Year-round
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Generally light on the north coast
+- **Best Time**: Year-round; morning dives benefit from sunlight through the chimney
 
 ## Marine Life
 
-The signature feature of Bear's Den is the resident nurse shark population in the main overhang at 20–25 meters. Multiple nurse sharks are typically resting here on any given dive. Hawksbill turtles are reliably encountered on the reef plateau feeding on sponges. Eagle rays glide along the wall face. The wall supports sea fans, barrel sponges, and encrusting corals in good condition. Caribbean reef sharks occasionally appear in the blue water beyond the wall edge. The reef plateau has the typical Roatán community of parrotfish, angelfish, spotted drums, and surgeonfish. Large moray eels occupy crevices along the wall.
+The cavern shelters species that favor low-light, protected environments. Glassy sweepers form clouds inside the chamber. Soldierfish and squirrelfish emerge from darker recesses. Spiny lobsters occupy crevices on the cavern walls. The exterior reef above the chimney entry features the typical north-coast Roatán community. No site-specific marine life census for Bear's Den has been published; regional north-coast Roatán fauna applies.
 
 ## Dive Profile
 
-Navigate to the reef plateau at 8–10 meters and follow the wall edge until locating the main overhang structure. Descend into the overhang alcove at 20–25 meters to view the resident nurse sharks. Avoid disturbing the resting animals — approach slowly and from below. Exit the overhang and continue along the wall face before ascending. Complete the safety stop on the shallow reef plateau. The dive's highlight — the nurse shark overhang — can be visited early in the dive when air supply is greatest.
+Descend through the chimney chute, maintaining neutral buoyancy to avoid disturbing sediment on the narrow walls. Enter the main chamber and allow your eyes to adjust before exploring. The cavern ceiling opening provides continuous light reference. Explore the chamber walls before ascending back up the chimney. The maximum depth in the main chamber is approximately 15 meters. Complete the safety stop on the exterior reef above the site.
 
 ## Entry and Exit
 
-Served by West End and West Bay dive operators. Mooring at the site. Entry via giant stride. The south wall crossing takes 10–20 minutes from West End.
+Served by West End and Sandy Bay operators on Roatán's north coast. Entry via giant stride from the dive boat. The chimney entry requires a controlled, single-diver descent — do not crowd the chute with multiple divers at once.
 
 ## Tips
 
-- Approach the nurse shark overhang from below and slowly — abrupt approach from above disturbs the resting animals
-- Do not touch or pursue nurse sharks — observe from a respectful distance
-- The dive is best combined with a second dive at nearby Mary's Place or Calvin's Crack for a complete south-wall exploration
-- Ask your operator which section of the wall has the most active nurse shark aggregation on the day of your dive
-- The shallow plateau at Bear's Den has some of the best hard coral coverage on Roatán's south side
+- Enter the chimney slowly and horizontally — the descent is narrow and requires controlled finning
+- Allow sediment to settle before the next diver follows you in
+- Bring a small torch to illuminate the cavern walls and crevices
+- Morning dives have the best natural light through the chimney shaft
+- Combine with a north-coast reef dive for a complete two-dive day
 
 ## Safety
 
-Nurse sharks are generally docile but will react defensively if threatened or cornered inside the overhang. Maintain a distance of at least one meter and never block the exit from the overhang space. Standard wall dive precautions apply: monitor depth, maintain buoyancy, and carry an SMB. Current can be moderate on the south wall.
+Cavern diving requires proper buoyancy control to avoid silting the chimney passage. Maintain visual reference to the ceiling opening at all times — never proceed into total darkness. The chimney width requires single-file descent; never crowd. Carry a dive torch. Dive with a buddy who waits at the exterior while you descend if the passage is too narrow for simultaneous entry.
 
 ## Photography
 
-Bear's Den is one of the best nurse shark photography sites in Roatán. Multiple animals resting in an overhang allow wide-angle compositions showing both the shelter environment and the sharks. Approach positions carefully to avoid disturbing the animals and use ambient light from the overhang opening as a natural key light. The reef plateau above in bright, shallow water is excellent for turtle and angelfish portraits.
+The chimney chute is a striking photography subject — a diver descending through the shaft with light streaming down from the surface creates a classic cavern composition. From inside the chamber, shooting upward through the circular opening toward the blue surface above is one of Roatán's most distinctive wide-angle shots. A torch dramatically enhances color on the cavern walls.
 
 ---
-*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*
+*Sources: [Splash Inn Dive Resort](https://roatansplashinn.com/en/roatan-diving-sites/bears-den/), [PADI Dive Sites](https://www.padi.com/dive-sites/roatan/), [Roatan Octopus Dive School](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Previous description was confirmed incorrect (described wrong site). Last updated 2026-06-28.*

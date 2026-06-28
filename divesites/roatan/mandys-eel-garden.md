@@ -23,7 +23,7 @@ Mandy's Eel Garden is accessible as a shore dive directly off West Bay Beach nea
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 

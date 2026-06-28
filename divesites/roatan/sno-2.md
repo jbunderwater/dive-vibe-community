@@ -23,7 +23,7 @@ Sno 2 is part of the Roatan Marine Park mooring system along the West Bay reef c
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 

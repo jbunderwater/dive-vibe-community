@@ -23,7 +23,7 @@ Located on the West Bay reef between West End and West Bay, Chloe's Coral is a R
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 

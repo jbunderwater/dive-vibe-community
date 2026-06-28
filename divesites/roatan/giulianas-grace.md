@@ -19,7 +19,7 @@ Giuliana's Grace is a Roatan Marine Park mooring site. The RMP canonical map rec
 
 - **Location**: Roatán, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 
