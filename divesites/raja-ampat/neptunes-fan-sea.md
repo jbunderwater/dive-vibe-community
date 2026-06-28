@@ -24,4 +24,4 @@ A current-swept channel between two islands. Sea fans spanning nearly 3 metres l
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [Misool Eco Resort](https://www.misool.info/dive-site). Last updated 2026-04-05.*
+*Description based on regional diving characteristics of Misool, Raja Ampat. No site-specific sources found beyond liveaboard mentions. Last updated 2026-06-28.*

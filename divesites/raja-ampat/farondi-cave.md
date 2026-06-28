@@ -24,4 +24,4 @@ A sea tunnel bisects this island, exiting on a wall at 30 metres. A second cave 
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [Misool Eco Resort](https://www.misool.info/dive-site), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/diving/raja-ampat/). Last updated 2026-04-05.*
+*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/), [La Galigo Liveaboard — Raja Ampat](https://www.lagaligoliveaboard.com/diving/raja-ampat/), [Barefoot Conservation](https://barefootconservation.org/). Last updated 2026-06-28.*

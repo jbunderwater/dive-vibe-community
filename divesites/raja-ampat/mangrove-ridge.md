@@ -59,4 +59,4 @@ Tidal current can run along the ridge and through the mangrove transition zone. 
 The mangrove-ridge transition is visually distinctive and photographically productive. Wide-angle shots through the mangrove margin with the ridge dropping away into depth create unusual compositions. The juvenile fish population in the transition zone offers compelling macro and close-up subjects. The ridge flanks with coral growth at depth suit traditional reef scenic wide-angle work.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*

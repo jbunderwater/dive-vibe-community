@@ -24,4 +24,4 @@ Sloping site with an overhanging curving wall in the western Misool area. School
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [Misool Eco Resort](https://www.misool.info/dive-site), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/diving/raja-ampat/). Last updated 2026-04-05.*
+*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/), [La Galigo Liveaboard — Raja Ampat](https://www.lagaligoliveaboard.com/diving/raja-ampat/), [All Star Liveaboards — Misool](https://allstarliveaboards.com/). Last updated 2026-06-28.*

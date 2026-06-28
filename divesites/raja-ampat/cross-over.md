@@ -3,7 +3,7 @@ name: Cross Over
 lat: -0.5495349
 lng: 130.6844603
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: drift
 ref: null
@@ -13,50 +13,45 @@ addedBy: osm_import
 
 ## Cross Over
 
-Cross Over is a drift dive site in Raja Ampat, West Papua, Indonesia, where divers cross between two adjacent reef systems riding the current.
+Cross Over is a drift dive site between Kri Island and Koh (Kohe) Island in the Dampier Strait, Raja Ampat. The name describes the experience directly: divers cross the channel between the two islands on the current, drifting from one reef system to the other. The site is notable for unpredictable currents that can change direction mid-dive.
 
 ## Overview
 
-Cross Over is one of Raja Ampat's characteristically named drift sites, describing the diving experience directly: the current carries divers across a channel or saddle from one reef structure to another, giving the sensation of crossing between two underwater worlds in a single dive. This style of dive is typical of the Dampier Strait region, where tidal currents funnel between islands and create fast, exhilarating passages over reef. The two reef systems between which divers cross each have their own distinct character, and the transition zone itself — often a sandy channel or rubble saddle — hosts its own suite of species. Visibility is typically excellent at 20-35 meters, and water temperatures average 27-29°C.
+Cross Over sits in the channel between Kri and Koh Island, where tidal flows produce moderate to strong currents that are the defining feature of the dive. The site is listed as requiring Advanced Open Water certification and a minimum of 30 dives with current experience by Raja Ampat Biodiversity Eco Resort, who specifically note that "currents are unpredictable and have a habit of changing direction during the dive." The reef is rich in coral and fish life supported by the nutrient-rich current flow through the Dampier Strait.
+
+The reef slopes from 5 metres at the crest to 30 metres at depth. Bumphead parrotfish are confirmed feeding on the corals here. The site is regularly operated by multiple Kri-based dive operators (Papua Diving, Raja Ampat Biodiversity Eco Resort, Soul Scuba Divers on Kri).
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-35 meters
-- **Current**: Strong, directional tidal current
+- **Location**: Between Kri Island and Koh Island, Dampier Strait, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive; approximately 2 minutes from Papua Diving's Kri resort; 30 minutes from Biodiversity Eco Resort
+- **Site Type**: Drift dive across reef channel
+- **Difficulty Level**: Intermediate to Advanced (30+ dives with current experience recommended)
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: Not consistently documented; Dampier Strait average 15–25 m
+- **Current**: Medium to strong; unpredictable direction changes mid-dive
 - **Best Time**: October to April
 
 ## Marine Life
 
-The current flowing through the crossing zone brings plankton and concentrates planktivores — dense schools of fusiliers, anthias, and glassfish hover at the reef edges. Trevally and mackerel hunt through the schools in spectacular feeding displays. Eagle rays and reef sharks are regularly seen in the channel. On the reef structures at either end, clownfish, grouper, Napoleon wrasse, and sea turtles provide contrast to the open-water spectacle of the crossing. Both reefs have rich soft coral growth in the current-swept zones.
+Confirmed species at Cross Over:
+
+- Bumphead parrotfish (confirmed feeding on corals at this site)
+- Blacktip reef sharks
+- Schooling jacks and trevally
+- Barracuda
+- Tuna
+- Rich coral and fish life generally (described by Papua Diving as nutrient-rich with high biomass)
+
+Regional Raja Ampat Dampier Strait fauna applies; additional species beyond those listed above are likely but are not specifically documented for this site in available sources.
 
 ## Dive Profile
 
-The boat drops divers upcurrent from the first reef. Descend and follow the reef along its edge, then commit to the crossing as the current takes you over the channel saddle toward the second reef. The crossing itself may last only a few minutes of exhilarating drift. Spend the latter part of the dive exploring the second reef structure before ascending. The dive typically covers significant horizontal distance — the boat will follow your bubbles and SMB.
+The boat drops divers upcurrent. Descend and follow the current across the channel, drifting from the Kri reef system toward Koh Island. Current direction can change during the dive — stay close to the guide for orientation. The shallow reef crest (5–10 m) offers the most fish activity; the deeper slope (10–30 m) has more coral structure. Deploy SMB before surfacing; the boat follows the group throughout the drift.
 
 ## Entry and Exit
 
-Access is by dive boat. Entry upcurrent of the first reef; the boat then follows the dive group throughout the drift. Deploy SMB before ascending — surface pickup on a drift dive requires clear communication with the crew. Brief the captain on the planned direction before entering.
-
-## Tips and Recommendations
-
-- Trust the current — fighting it is exhausting and unnecessary; let it carry you
-- Stay close to your guide during the crossing for orientation
-- Keep your group together through the transition zone
-- Reef hooks are useful for pausing on the reef to watch fish activity
-- The crossing is most spectacular when timed with a strong tidal push
-
-## Safety Considerations
-
-Strong drift currents require drift diving experience. Always carry an SMB and deploy it before surfacing in open water. Be aware of boat traffic in the channel. If the current separates the group, ascend and surface where safe, then signal the boat. Never fight the current — ascend if you cannot maintain control.
-
-## Photography
-
-Drift dives offer uniquely dynamic photography opportunities: fish schooling in the current, eagle rays gliding past, and the sensation of movement through the reef. Wide-angle shooting works best for capturing the scale of fish aggregations and the open-water scenes during the crossing. Keeping up with a moving subject in current requires anticipation and pre-framing.
+Boat access only. Entry upcurrent; boat follows the dive group. Strong current management required. SMB mandatory before surfacing in the open channel. Brief the boat captain thoroughly on planned direction and maximum dive time before entry.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Raja Ampat Biodiversity Eco Resort — Dive Sites](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [Papua Diving — Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Soul Scuba Divers — Dive Sites](https://www.soulscubadivers.com/our-dive-sites). Note: only 3 site-specific sources found; marine life list is limited to confirmed species at this site. Last updated 2026-06-28.*

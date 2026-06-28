@@ -38,4 +38,4 @@ Raja Ampat is a premier diving destination in the Asia region, offering diverse 
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving — Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [PADI — Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/), [Bluewater Dive Travel — Raja Ampat](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving). Last updated 2026-06-28.*

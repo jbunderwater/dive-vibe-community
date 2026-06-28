@@ -59,4 +59,4 @@ Mayhem is advanced-only. Unmanaged current can sweep divers away from the pinnac
 The chaotic schooling fish action is the main photographic subject. A wide-angle lens (15mm or wider) captures the school density. Shooting upward toward the surface gives silhouettes of trevally and barracuda against blue water. A fast shutter speed (1/160 or faster) is needed to freeze fast-moving fish. Ambient light photography works well in the upper 10 meters on sunny days.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*

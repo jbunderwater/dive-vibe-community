@@ -13,36 +13,40 @@ addedBy: osm_import
 
 ## Barracuda West
 
-Barracuda West is a reef dive site in Raja Ampat, West Papua, Indonesia, named for the large tornado-like schools of chevron barracuda (Sphyraena qenie) that are its signature attraction. Positioned on the western side of the reef complex, the site is paired with the nearby Barracuda East, and the two sites are often dived in sequence.
+Barracuda West is a reef dive site in the Penemu area of Raja Ampat, named for the schooling barracuda that congregate here. It occupies the western side of the Barracuda reef complex near the northern tip of Penemu Island and is paired with the adjacent Barracuda East, the same reef complex approached from the opposite side depending on current direction.
 
 ## Overview
 
-The barracuda at this site form dense spiralling schools that can number in the hundreds. The school hangs in the mid-water, rotating slowly in a mesmerising cylinder — a behaviour believed to be a collective defence response and a recurring spectacle at this site. Divers approach slowly from below to avoid breaking up the formation.
+The Barracuda reef complex at northern Penemu is documented in liveaboard operator sources as a long, oval-shaped reef where large schools of barracuda, fusiliers, and bannerfish gather when current is running. Fish action is strongly current-dependent. Barracuda West and Barracuda East are local operator/guide designations for the two sides of this reef; these exact names do not appear as independently documented sites in published dive databases or ScubaBoard trip reports. The most likely explanation is that guides name the approach depending on which wall faces the current on a given dive.
 
-The reef itself is well-developed, with hard coral gardens on the shallower plateau and a mix of sea fans and encrusting growth on the walls and slopes below. Between barracuda encounters, the reef produces strong supporting fish life: schools of surgeonfish, batfish, and fusiliers fill the water column. Whitetip reef sharks rest in sandy pockets at the base of the reef.
+The reef structure features hard coral gardens on shallower sections and sea fans on the slope. Moderate current drives the schooling behaviour that makes this site distinctive.
 
-Visibility typically runs 15–25 metres. Currents can be moderate, which concentrates the pelagic schooling behaviour. Water temperature stays between 27–30°C.
+## Site Information
+
+- **Location**: Northern Penemu Island area, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
+- **Current**: Mild to moderate; fish action peaks when current runs
+- **Best Time**: October to April
+- **Water Temperature**: 27–30°C
 
 ## Marine Life
 
-- Large spiralling schools of chevron barracuda
-- Batfish and surgeonfish in the water column
-- Whitetip reef sharks resting on the sandy bottom
-- Sea fans and gorgonians on the reef slope
-- Dense reef fish populations throughout
+Confirmed at the Barracuda Point / northern Penemu reef complex (multiple liveaboard operator sources): schools of barracuda, fusiliers, bannerfish. These are the documented hallmarks of this reef cluster. Species attributed in the prior version — spiralling chevron barracuda tornado formation, whitetip reef sharks on sandy bottom, batfish — are plausible for this reef type but have not been confirmed by independent site-specific sources for the Barracuda West designation specifically.
 
 ## Dive Profile
 
-Divers descend to around 15–20 metres to approach the barracuda school from below, then explore the reef at shallower depths. Buoyancy discipline is important to avoid disturbing the school. Entry and exit are by boat.
+Descend to 15–20 meters and approach any schooling barracuda slowly from below. Explore the reef shallower between encounters. Entry and exit by boat.
 
 ## Practical Information
 
 - **Depth range**: 5–25 m
-- **Visibility**: 15–25 m
 - **Current**: Mild to moderate
 - **Best time**: October–April
 - **Water temperature**: 27–30°C
 - **Entry**: Boat
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Description based on documented characteristics of the Barracuda Point reef complex at northern Penemu Island, Raja Ampat. The site name "Barracuda West" is a local operator designation not found in independent published sources. No site-specific sources found for this exact name. Last updated 2026-06-28.*

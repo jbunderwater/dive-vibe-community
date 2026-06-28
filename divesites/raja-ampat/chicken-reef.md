@@ -2,8 +2,8 @@
 name: Chicken Reef
 lat: -0.5465947
 lng: 130.7025224
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,49 +13,64 @@ addedBy: osm_import
 
 ## Chicken Reef
 
-Chicken Reef is a reef dive in the eastern Dampier Strait of Raja Ampat, named after the local villages' chicken farming activity on the nearby shoreline — an endearingly matter-of-fact name for a site that delivers solid Raja Ampat reef diving with good coral coverage and a productive resident fish community.
+Chicken Reef is a sloping reef system northeast of Kri Island in the Dampier Strait, named by Raja Ampat dive pioneer Max Ammer after an early exploration dive where his shark-fearing companion drew a knife against a circling blacktip reef shark — prompting Ammer to declare him a "chicken" and name the site accordingly.
 
 ## Overview
 
-Chicken Reef sits in the productive eastern section of the Dampier Strait near the Mansuar Island area, where tidal exchange keeps the water nutrient-rich and the reef life active. The reef itself is a gently sloping structure with healthy hard coral development in the shallows and a more complex mix of soft coral, encrusting sponge, and sea fans at depth. While it lacks the marquee status of nearby Blue Magic or Sardine Reef, Chicken Reef provides a reliable, quality reef dive that is often included in eastern Dampier Strait multi-dive day itineraries. Water temperature averages 27–29°C with visibility of 12–20 meters.
+The site encompasses four distinct sub-areas: the main Chicken Reef seamount, Chicken Bay, Sleeping Barracuda, and Surgeonfish Slope. This range of environments within a single site allows different experience levels to find suitable diving — shallow sections of Chicken Bay and Surgeonfish Slope are more accessible, while the main seamount with strong currents is advanced territory. Papua Diving describes the site as "functioning at full strength" with balanced predator-prey dynamics producing high biomass encounters.
+
+The reef features rock formations, soft and hard corals including black stag-horn, table, and feather corals, gorgonian fans, anemones, and a sandy bottom at approximately 30 metres. Currents are moderate to strong and tide-dependent; visibility typically reaches 20–30 metres, with exceptional conditions reported in July (50 metres+). Water temperature is 28–30°C year-round. Best diving is mid-October to mid-December.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
-- **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 12–20 meters (40–65 feet)
-- **Current**: Variable; moderate on tidal exchange
-- **Best Time**: October to April
+- **Location**: Northeast of Kri Island, Dampier Strait, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive; approximately 5 minutes from nearby resorts
+- **Site Type**: Sloping reef / seamount (four sub-areas)
+- **Difficulty Level**: Advanced (intermediate for sheltered sub-areas)
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 20–30 metres (up to 50+ m in July)
+- **Current**: Moderate to strong, tide-dependent; drift diving recommended
+- **Best Time**: Mid-October to mid-December for calm conditions; diveable year-round
 
 ## Marine Life
 
-The reef supports a characteristic Dampier Strait fish community: schools of fusiliers and snapper in the mid-water zone, hawksbill turtles on the reef top, and resident white-tip reef sharks at the reef base. Napoleon wrasse are regular visitors. The coral gardens in the upper 10 meters support colorful reef fish including butterflyfish, angelfish, and parrotfish. Macro life in the rubble areas between coral heads — nudibranchs, flatworms, and various crustaceans — rewards careful searching.
+Confirmed species at Chicken Reef:
+
+**Sharks:**
+- Blacktip reef sharks (regularly circling; origin of the site name)
+- Whitetip reef sharks
+- Grey reef sharks
+- Wobbegong sharks
+
+**Large fish:**
+- Bumphead parrotfish
+- Barracuda (Sleeping Barracuda sub-area named for resting aggregations)
+- Giant trevally and bluefin jacks
+- Spanish mackerel and tuna
+- Napoleon (humphead) wrasse
+- Surgeonfish (Surgeonfish Slope sub-area)
+- Fusiliers, sweetlips, black snappers, groupers
+
+**Reef fish:**
+- Clown triggerfish, moorish idols, angelfish, batfish, anthias, parrotfish, butterflyfish, bannerfish
+
+**Macro:**
+- Pygmy seahorses
+- Frogfish
+- Crocodile fish
+- Wobbegong sharks
+- Nudibranchs, flatworms, pipefish, leaf fish, mantis shrimp
+- Garden eels, moray eels, reef shrimp, blennies, gobies, crabs
+
+A ScubaBoard trip report (July 2024, 4 dives at Chicken Reef) documents "massive schools, Napoleon wrasses, bumpheads, and sharks" with 50 m+ visibility.
 
 ## Dive Profile
 
-Standard sloping reef dive from 5 meters at the crest to 20–25 meters at the base. Spend time at each depth zone as marine life composition changes with depth. The upper zone of hard coral is excellent for reef fish observation; the deeper slope offers more cryptic and macro life. Finish the dive on the shallow reef top for an easy safety stop.
+The main seamount is best dived as a drift on moderate current. Descend to the reef top at 5–10 metres and work around the structure. The Sleeping Barracuda sub-area rewards a slow, calm approach. The Surgeonfish Slope provides a high-fish-density experience in calmer conditions. Chicken Bay is suitable for macro exploration. Monitor depth and air carefully in current conditions.
 
 ## Entry and Exit
 
-Boat access from eastern Dampier Strait liveaboards or day-trip operators based near Mansuar or Arborek. Entry via giant stride. Deploy SMB on ascent; the Dampier Strait has significant boat traffic.
-
-## Tips and Recommendations
-
-- Chicken Reef pairs well with Blue Magic or Sardine Reef in a multi-dive eastern Dampier day
-- A slower pace rewards divers who look carefully at the substrate between coral heads
-- Ask your guide about recent unusual sightings — the eastern Dampier is diverse and surprises are regular
-- A torch helps with crevice inspection even on daytime dives
-
-## Safety Considerations
-
-Standard intermediate reef protocols apply. Moderate currents possible on tidal exchange — carry an SMB. Monitor air consumption and depth carefully.
-
-## Photography
-
-Good all-round reef photography location. Hard coral wide-angle in the shallows, reef fish portraits at all depths, and macro subjects in the rubble. Combine with nearby marquee sites for a photographically varied day in the eastern Dampier.
+Boat access only. Drift diving strongly recommended when currents are running. Deploy SMB before ascending. Current can be strong and variable — advanced current management required for the main seamount section.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Papua Diving — Chicken Reef](https://papua-diving.com/pioneering-raja-ampat-dive-sites/), [La Galigo Liveaboard — Chicken Reef](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/chicken-reef/), [Meridian Adventure — Chicken Reef](https://raja.meridianadventuredive.com/blog/local-guide-to-raja-ampat-dive-sites-chicken-reef/), [Raja Ampat Biodiversity Eco Resort — Dive Sites](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [Southeast Asia Diving — Chicken Reef](https://www.southeastasiadiving.com/blog/-chicken-reef-raja-ampat-the-reef-that-doesnt-shout), [Dive Concepts — Chicken Reef](https://diveconcepts.com/chicken-reef-raja-ampat). Last updated 2026-06-28.*

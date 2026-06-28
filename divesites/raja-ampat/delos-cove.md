@@ -24,4 +24,4 @@ A sheltered lagoon dive near Balbulol Island in southeastern Misool. Shallow ree
 - **Maximum Depth**: 17 meters
 
 ---
-*Sources: [SV Delos Dive Log](https://svdelos.com/wp-content/uploads/2018/03/Delos-Dive-Log-Raja-Ampat-Indonesia.pdf). Last updated 2026-04-05.*
+*Description based on SV Delos dive log entries. No additional independent sources found. Last updated 2026-06-28.*

@@ -59,4 +59,4 @@ Standard intermediate reef diving protocols apply. Dampier Strait currents can s
 Yembuba offers a solid all-around reef photography location. Hard coral wide-angle in the shallows, reef fish portraits at mid-depth, and nudibranch macro in the rubble zones provide diverse subjects in a single dive. The site is less crowded than marquee Raja Ampat sites, allowing unhurried photography.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*

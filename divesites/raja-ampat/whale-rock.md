@@ -24,4 +24,4 @@ Gorgonian field with a pinnacle in central Misool. Endless sea fans, pygmy seaho
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [Misool Eco Resort](https://www.misool.info/dive-site), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/diving/raja-ampat/). Last updated 2026-04-05.*
+*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/), [Misool Eco Resort — Dive Sites](https://www.misool.info/dive-site), [La Galigo Liveaboard — Raja Ampat](https://www.lagaligoliveaboard.com/diving/raja-ampat/). Last updated 2026-06-28.*

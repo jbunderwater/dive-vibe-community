@@ -3,7 +3,7 @@ name: Dunraven
 lat: 27.7033333
 lng: 34.1216666
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Dunraven
 
-The Dunraven is one of the Red Sea's most popular historic wreck dives, resting on the south face of Sha'ab Mahmoud (also called Beacon Rock) near Sharm el-Sheikh in the Straits of Gubal. The iron-hulled British steamship ran aground on the reef in early 1876 while returning from Bombay, caught fire while stranded, and finally sank on 22 April 1876. Today the wreck lies upside down, creating an atmospheric underwater cavern with good natural light filtering through.
+The Dunraven is one of the Red Sea's most popular historic wreck dives, resting on the south face of Sha'ab Mahmoud (also called Beacon Rock) near Sharm el-Sheikh in the Straits of Gubal. The iron-hulled British steamship ran aground on the reef in 1876 while returning from Bombay, with flooding reaching the engine room before she finally slipped off the reef and sank on 25 April 1876. Today the wreck lies upside down, creating an atmospheric underwater cavern with good natural light filtering through.
 
 ## Overview
 

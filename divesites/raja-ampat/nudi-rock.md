@@ -24,4 +24,4 @@ A small island with surrounding pinnacles in the central Misool area. Abundant n
 - **Maximum Depth**: 30 meters
 
 ---
-*Sources: [Bird's Head Seascape](https://birdsheadseascape.com/map-location/click-for-additional-sites-in-the-misool-area-and-the-blue-water-mangroves/?mpfy-pin=4919), [Misool Eco Resort](https://www.misool.info/dive-site), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/diving/raja-ampat/). Last updated 2026-04-05.*
+*Sources: [Misool Eco Resort — Nudi Rock Blog](https://www.misool.info/blog/2022/1/28/what-is-it-lke-to-dive-nudi-rock-in-raja-ampat), [Original Diving — Nudi Rock](https://www.originaldiving.com/far-east/indonesia/dive-raja-ampat/nudi-rock-misool), [La Galigo Liveaboard — Raja Ampat](https://www.lagaligoliveaboard.com/diving/raja-ampat/). Last updated 2026-06-28.*

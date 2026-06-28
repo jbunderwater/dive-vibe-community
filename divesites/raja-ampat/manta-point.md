@@ -32,7 +32,9 @@ Manta Point sits in the productive waters off Arborek village, where reef manta 
 
 ## Marine Life
 
-Reef manta rays are the headline attraction — multiple individuals per dive is the norm, not the exception. The cleaning station sits at 8–15 meters on a gently sloping coral reef. Beyond the mantas, the reef supports reef sharks and sea turtles. The Manta Trust's Raja Ampat Manta Project, which monitors this site, documents both Mobula alfredi (reef manta) and Mobula birostris (oceanic manta) in Raja Ampat waters; this site primarily sees reef mantas. The coral garden leading to the cleaning station has typical hard coral cover. Blue-spotted stingrays rest on sandy patches nearby.
+Reef manta rays (*Mobula alfredi*) are the headline attraction — multiple individuals per dive is the norm in season, with ScubaBoard trip reports documenting 12 or more individuals on a single dive. The Manta Trust's Raja Ampat Manta Project documents both *Mobula alfredi* (reef manta) and *Mobula birostris* (oceanic manta) in Raja Ampat waters; this site primarily sees reef mantas. The cleaning station sits on a gently sloping coral reef at shallow depth; cleaner wrasse attend to the mantas hovering motionlessly above the coral. The broader Arborek reef environment supports typical Dampier Strait reef fish, but no site-specific species reports beyond manta sightings were found for this exact location.
+
+Regional fauna applies; no site-specific marine life reports for secondary species were found beyond confirmed reef manta sightings.
 
 ## Dive Profile
 

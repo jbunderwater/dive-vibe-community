@@ -35,7 +35,7 @@
     "validation_source": "",
     "tags": {
       "name": "Blue Magic",
-      "name:fr": "Site de plong\u00e9e Blue Magic",
+      "name:fr": "Site de plongée Blue Magic",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "last_qa_date": "2026-06-08",
@@ -1495,12 +1495,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "lagaligoliveaboard.com, misool.info, birdsheadseascape.com",
+    "validation_source": "lagaligoliveaboard.com, misool.info, birdsheadseascape.com, scubaboard.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1529,14 +1529,13 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": false,
-    "validation_source": "allstarliveaboards.com, birdsheadseascape.com",
+    "validated": true,
+    "validation_source": "allstarliveaboards.com, birdsheadseascape.com, ayorajaampatdivers.com, emperordivers.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1544,16 +1543,16 @@
     "lat": -2.222017,
     "lon": 130.60945,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "divephotoguide.com, misool.info, birdsheadseascape.com",
+    "validation_source": "divephotoguide.com, misool.info, birdsheadseascape.com, allstarliveaboards.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1561,16 +1560,16 @@
     "lat": -2.221583,
     "lon": 130.611667,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "divephotoguide.com, misool.info, birdsheadseascape.com",
+    "validation_source": "divephotoguide.com, misool.info, birdsheadseascape.com, diveconcepts.com, scubaboard.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1581,14 +1580,13 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": false,
-    "validation_source": "konjocruisingindonesia.com, birdsheadseascape.com",
+    "validated": true,
+    "validation_source": "konjocruisingindonesia.com, birdsheadseascape.com, emperordivers.com, divehappy.com, scubaboard.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1599,15 +1597,14 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": false,
-    "validation_source": "misool.info, birdsheadseascape.com",
+    "validated": true,
+    "validation_source": "misool.info, birdsheadseascape.com, emperordivers.com, ayorajaampatdivers.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
       "alt_names": "Small World",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1618,31 +1615,30 @@
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": false,
-    "validation_source": "birdsheadseascape.com, lagaligoliveaboard.com",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com, lagaligoliveaboard.com, barefootconservation.org, bluewaterdivetravel.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-28"
     }
   },
   {
     "name": "Four Kings",
     "lat": -2.208333,
     "lon": 130.377967,
-    "depth": 30,
+    "depth": 40,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "lagaligoliveaboard.com, misool.info, birdsheadseascape.com",
+    "validation_source": "lagaligoliveaboard.com, misool.info, birdsheadseascape.com, diveconcepts.com, scubaboard.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1740,18 +1736,17 @@
     "name": "Nudi Rock",
     "lat": -2.218383,
     "lon": 130.5656,
-    "depth": 30,
-    "site_type": "pinnacle",
+    "depth": 28,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": false,
-    "validation_source": "birdsheadseascape.com, notroublesjustbubbles.com",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com, notroublesjustbubbles.com, misool.info, originaldiving.com, lagaligoliveaboard.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-28"
     }
   },
   {
@@ -1907,14 +1902,13 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": false,
-    "validation_source": "birdsheadseascape.com, notroublesjustbubbles.com",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com, notroublesjustbubbles.com, emperordivers.com, barefootconservation.org, diveconcepts.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "area": "Misool",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Only 2 domain sources. Requires 3 independent domain sources."
+      "last_qa_date": "2026-06-28"
     }
   },
   {

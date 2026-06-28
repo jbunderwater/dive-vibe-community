@@ -58,4 +58,4 @@ Standard intermediate reef protocols. Moderate currents possible. Carry an SMB. 
 Bumphead parrotfish are spectacular photographic subjects. Wide-angle glass is essential — a school of bumpheads in formation is a dramatic, large-scale subject requiring significant working distance. Individual parrotfish portraits at closer range showcase their extraordinary coloration. Standard reef fish and coral wide-angle photography rounds out the session.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*

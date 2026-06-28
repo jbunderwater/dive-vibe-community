@@ -59,4 +59,4 @@ Moderate currents can develop depending on tidal stage — check with your guide
 The bommie terrain at Urai creates natural wide-angle compositions with coral heads as anchor points in the frame. Fish schooling above the bommies can be captured with an upward angle against the blue water and surface light. Macro subjects are plentiful on the encrusting coral of the bommie faces — patience and close focus reward photographers willing to hover.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*

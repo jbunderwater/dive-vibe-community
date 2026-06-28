@@ -59,4 +59,4 @@ Conditions in the outer Raja Ampat islands can change with weather. Check the fo
 Southern Raja Ampat reefs like Wai FPW are known for their hard coral integrity and vivid soft coral patches. Wide-angle coral scenic work is excellent, particularly in the shallows where coral coverage is densest. At depth, macro subjects in the encrusting growth reward close-focus work. The typically good visibility supports ambient-light photography through most of the dive.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of Raja Ampat. No site-specific sources found. Last updated 2026-06-28.*
