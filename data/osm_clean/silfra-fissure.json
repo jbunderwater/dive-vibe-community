@@ -23,8 +23,8 @@
       "water_temp_min": "2",
       "water_temp_max": "4",
       "visibility": "100+",
-      "last_qa_date": "2026-06-08",
-      "notes": "Tectonic fissure between North American and Eurasian plates. Recreational max depth 18m. Cathedral section fissure descends to 63m (requires technical diving). Hall cave systems descend to 45m (off-limits). Drysuit required. Water 2-4C year-round. Visibility 100m+. Open Water certification + drysuit experience required. National Park permit fee 1,500 ISK. Plate divergence rate: Wikipedia and dive.is give ~2cm/year for overall Mid-Atlantic Ridge spreading; Thingvellir National Park official page cites 1-5mm/year for local fissure widening — these figures describe different things (total plate motion vs. local crack widening). The 2cm/year figure refers to total plate separation and is consistent with USGS data for the Mid-Atlantic Ridge. Freshwater site: no saltwater marine life. Marine life extremely limited: Arctic char/brown trout visit August-September during mating season; Dwarf Char (Salvelinus devarius, up to 10cm) inhabit darker recesses year-round per dive.is. Troll-hair algae (Vaucheria) is the primary biological feature. One dive per day per person per national park regulation."
+      "last_qa_date": "2026-06-29",
+      "notes": "Tectonic fissure between North American and Eurasian plates. Recreational max depth 18m. Cathedral section fissure descends to 63m (requires technical diving). Hall cave systems descend to 45m (off-limits). Drysuit required. Water 2-4C year-round. Visibility 100m+. Open Water certification + drysuit experience required. National Park permit fee 1,500 ISK. Plate divergence rate: Wikipedia and dive.is give ~2cm/year for overall Mid-Atlantic Ridge spreading; Thingvellir National Park official page cites 1-5mm/year for local fissure widening — these figures describe different things (total plate motion vs. local crack widening). The 2cm/year figure refers to total plate separation and is consistent with USGS data for the Mid-Atlantic Ridge. Freshwater site: no saltwater marine life. Marine life extremely limited: Arctic char/brown trout visit August-September during mating season; Dwarf Char (a subspecies of Arctic char, up to ~10cm) inhabit darker recesses year-round per dive.is; Crymostygius thingvallensis (an endemic subterranean amphipod crustacean unique to Þingvallavatn and its surrounding fissures) present but not visible to divers per dive.is. NOTE: 'Salvelinus devarius' used in prior versions is an unverified scientific name — dwarf char in Þingvallavatn are a local subspecies of Arctic char; taxonomy is complex and not confirmed to species level by sources reviewed. Troll-hair algae (Vaucheria) is the primary biological feature visible to divers. One dive per day per person per national park regulation."
     }
   },
   {
@@ -43,7 +43,7 @@
       "water_temp_min": "2",
       "water_temp_max": "4",
       "visibility": "100+",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-29",
       "notes": "Widest section of Silfra fissure. Cave system beneath reaches 45m but off-limits to recreational divers (confirmed by Wikipedia and silfra.org). Recreational max depth 18m. 'Troll-hair' green algae (Vaucheria) coats the lava walls. Swim-throughs underneath rocks and boulders possible at various depths. Approximately 200m to reach Cathedral from here. Ducks and geese visible above surface. Drysuit required."
     }
   },
@@ -63,7 +63,7 @@
       "water_temp_min": "2",
       "water_temp_max": "4",
       "visibility": "100+",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-29",
       "notes": "Most dramatic section of Silfra. ~100m-long corridor (confirmed by Wikipedia and silfra.org/silfrafissure.com) with vertical lava walls. Max recreational depth ~20m. The fissure in the Cathedral section descends to 63m at its deepest point (Wikipedia) — technical diving only. End-to-end visibility in the corridor. Sand slope rising to 2-3m at the far end. Described as the emotional highlight of the dive."
     }
   },
@@ -83,7 +83,7 @@
       "water_temp_min": "2",
       "water_temp_max": "4",
       "visibility": "120+",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-29",
       "notes": "Exit lagoon of the Silfra fissure system. ~120m wide (Wikipedia: 'about 120 metres'). Average depth 5m. Clearest and shallowest section. Neon green troll-hair algae (Vaucheria) most dense here, especially in summer. Hikers walk back to parking area from exit. Open to the sky — not a cave."
     }
   },
@@ -103,7 +103,7 @@
       "water_temp_min": "2",
       "water_temp_max": "4",
       "visibility": "100+",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-29",
       "notes": "Narrowest section of Silfra fissure. Entry point of the standard guided dive. Divers can reach out and touch both tectonic plate walls simultaneously — iconic 'dive between the continents' photo spot. Max recreational depth 18m. Fissure descends deeper (~40m here) but off-limits. Leads into Silfra Hall. Wall/canyon dive, not enclosed cave."
     }
   },
@@ -123,7 +123,7 @@
       "water_temp_min": "2",
       "water_temp_max": "5",
       "visibility": "100+",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-29",
       "notes": "Separate tectonic fissure in Lake Thingvallavatn, Thingvellir National Park. Maximum depth 21m (confirmed by dive.is and PADI blog). Located approximately 4km from Silfra (~10 minutes by car per dive.is). Known as the 'darker, spookier sibling' of Silfra (PADI blog, dive.is). Fissure branches into narrow dark gorge (left) and wide open gorge (right). Water temperature typically slightly warmer than Silfra (2-5°C). Visibility weather-dependent, generally lower and more variable than Silfra. Marine life: brown trout (confirmed by dive.is); Dwarf Char also inhabit Lake Thingvallavatn but specific sightings at Davíðsgjá not confirmed by dive sources. GPS entry: 64.235992, -21.045656 per dive.is. Drysuit mandatory. National Park permit required. CAUTION: Earlier notes cited a '300-metre walk' to entry — this specific distance not confirmed by primary sources reviewed; PADI blog describes a 'giant stride entry from an icy rock' but does not specify walk distance."
     }
   },
@@ -143,7 +143,7 @@
       "water_temp_min": "4",
       "water_temp_max": "8",
       "visibility": "3-40",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-06-29",
       "notes": "Location: Eyjafjordur fjord near Akureyri, North Iceland (~300km north of Silfra). NOT near Silfra/Thingvellir. Chimney stats: 55m tall (multiple sources), top at ~15m depth, base at ~65-70m (strytan.is says 65m, Wikipedia says 16-70m range, dive.is says 70m). Vent temperature CONFLICT: strytan.is says 72°C, xray-mag says 75°C, Wikipedia says ~76°C — range is approximately 72-76°C. Flow rate ~100 L/second (strytan.is). Chimney composed of anhydrite and saponite (Big Strytan) or smectite clay. Formed over ~10,000 years since last ice age. Discovered 1997 by Erlendur Bogason and Árni Halldósson. First protected underwater area in Iceland (2001). Second site: Arnarnesstrýtur (Little Strytan) — cluster of smaller chimneys, 23m-15m depth, protected 2007. Marine life CONFIRMED at site: cod, pollock, Atlantic wolffish (year-round, monitored by Bogason), lumpsucker/lumpfish, starry rays, nudibranchs (Flabellina species), anemones, mussels, bryozoans, sponges, brittlestars. Wolffish breed in August; lumpfish guard eggs from May onward. Difficulty: Advanced — strong currents possible, deep, drysuit required, exceptional buoyancy essential (chimney is fragile). Boat dive only from Strytan Divecenter at Hjalteyri. Visibility variable: 3-10m typical per insidescuba.online, up to 40m per other sources."
     }
   }

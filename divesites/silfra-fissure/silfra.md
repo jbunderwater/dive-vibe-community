@@ -23,7 +23,7 @@ The water originates as glacial meltwater from Langjökull glacier, approximatel
 
 The dive follows the fissure through four connected sections as a gentle drift: Big Crack (the narrowest section, entry point), Silfra Hall (wider, with cave systems below), Silfra Cathedral (a dramatic 100-metre corridor with near-vertical lava walls), and Silfra Lagoon (the shallow, algae-rich exit pool). Recreational maximum depth is 18 metres; the Cathedral section's fissure descends to 63 metres but diving beyond recreational limits requires technical certification. The Hall's cave systems drop to 45 metres and are off-limits on guided dives.
 
-Marine life is extremely limited in this near-freezing freshwater environment. The dominant biological feature is bright green "troll hair" algae (Vaucheria sp.) coating the lava walls. Brown trout and Arctic char visit the fissure in August and September during their spawning migration. Dwarf char (a subspecies found in Þingvallavatn Lake, up to 10 cm) inhabit darker recesses year-round. No saltwater species are present.
+Marine life is extremely limited in this near-freezing freshwater environment. The dominant biological feature is bright green "troll hair" algae (Vaucheria sp.) coating the lava walls. Brown trout and Arctic char visit the fissure in August and September during their spawning migration. Dwarf char (a local subspecies of Arctic char found in Þingvallavatn Lake, up to ~10 cm) inhabit darker recesses year-round but are rarely spotted. An endemic subterranean amphipod crustacean, Crymostygius thingvallensis, is unique to the Þingvallavatn fissure system but lives in groundwater and is not visible to divers. No saltwater species are present.
 
 ## Site Information
 
@@ -38,4 +38,4 @@ Marine life is extremely limited in this near-freezing freshwater environment. T
 - **Regulations**: One dive per day per person; guided dive mandatory; Þingvellir National Park permit fee required
 
 ---
-*Sources: [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra), [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Þingvellir National Park — Silfra](https://www.thingvellir.is/en/education/nature/silfra/), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html). Last updated 2026-06-08.*
+*Sources: [DIVE.IS — Silfra dive site](https://www.dive.is/dive-sites/silfra), [DIVE.IS — Life in Silfra FAQ](https://www.dive.is/faq/do-you-see-any-life-in-silfra), [Wikipedia — Silfra](https://en.wikipedia.org/wiki/Silfra), [Þingvellir National Park — Silfra](https://www.thingvellir.is/en/education/nature/silfra/), [Silfra Fissure — sections](https://www.silfrafissure.com/sections/), [Silfra.org — sections](https://www.silfra.org/different_sections_of_Silfra.html). Last updated 2026-06-29.*

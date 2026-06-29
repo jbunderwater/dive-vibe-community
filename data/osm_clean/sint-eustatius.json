@@ -3,7 +3,7 @@
     "name": "Charles L. Brown Wreck",
     "lat": 17.4626,
     "lon": -62.9902,
-    "depth": 29,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -12,8 +12,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "goldenrockdive.com,dan.org,divertrek.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Vessel is approximately 100m (327ft) long per DAN Alert Diver and Divertrek sources. Sunk July 25, 2003 (not January 2003 as previously stated). Built 1954 in Naples, Italy. Former AT&T cable-laying ship CS Salernum. Purchased by Statia for $1 USD."
+      "last_qa_date": "2026-06-29",
+      "qa_note": "Vessel is approximately 100m (320-327ft) long per DAN Alert Diver and Divertrek sources. Sunk July 25, 2003. Built 1954 in Naples, Italy as CS Salernum; renamed Charles L. Brown in 1984. Former AT&T cable-laying ship. Purchased by Statia for $1 USD. Lies on its STARBOARD SIDE at ~30m/100ft (not upright) — confirmed by DAN Alert Diver: 'The ship lies on its starboard side with an interesting debris field scattered in the sand below it.' Previous qa_note incorrectly implied upright orientation."
     }
   },
   {
@@ -45,9 +45,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "goldenrockdive.com,divertrek.com,wearestatia.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Confirmed shallow shore dive 55ft/17m max per Divertrek. Venetian cobalt glass trade beads. Protected by STENAPA. About 100 beads found yearly per Divertrek."
+      "validation_source": "goldenrockdive.com,divertrek.com,wearestatia.com,lifeonthegoldenrock.wordpress.com",
+      "last_qa_date": "2026-06-29",
+      "qa_note": "Confirmed shallow shore dive ~55ft/17m max per Divertrek. Beads are Dutch/Amsterdam-made cobalt-blue pentagonal glass trade beads (NOT Venetian as previously stated — beads were manufactured in Amsterdam and used in the slave trade). Research: beads made in Amsterdam (lifeonthegoldenrock.wordpress.com), multiple bead origins confirmed by archaeology (Dutch 17th-18th c, African, Indonesian, Spanish, and some Venetian). Protected by STENAPA. Beads best found after storms disturb sand."
     }
   },
   {
