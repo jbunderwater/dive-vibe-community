@@ -61,4 +61,4 @@ The step-terrace structure is visually distinctive — a wide-angle shot looking
 - Golden Rock Dive Center: guided dives at The Ledges and throughout Statia's marine park
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/). Last updated 2026-05-24.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/). Last updated 2026-06-29.*

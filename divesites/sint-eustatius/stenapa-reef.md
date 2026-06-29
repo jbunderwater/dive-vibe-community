@@ -63,4 +63,4 @@ The multiple structures offer diverse wide-angle subjects — hull profiles, sch
 - STENAPA: stenapafoundation.com — manages the marine park and artificial reef program
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [MyScubaDivingGearGuide — Scuba Diving St. Eustatius](https://myscubadivinggearguide.com/scuba-diving-st-eustatius/). Last updated 2026-05-24.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DAN Alert Diver — St. Eustatius](https://dan.org/alert-diver/article/st-eustatius/), [MyScubaDivingGearGuide — Scuba Diving St. Eustatius](https://myscubadivinggearguide.com/scuba-diving-st-eustatius/). Last updated 2026-06-29.*
