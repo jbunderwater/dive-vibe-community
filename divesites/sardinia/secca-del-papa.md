@@ -1,7 +1,7 @@
 ---
 name: Secca del Papa
-lat: 39.13
-lng: 8.4
+lat: 40.9147
+lng: 9.7478
 difficulty: Advanced
 maxDepth: 35
 entryType: boat
@@ -28,4 +28,4 @@ Secca del Papa is widely regarded as one of the finest dive sites in the Mediter
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Tavolara Diving Center - Secca del Papa 1](https://www.tavolaradiving.it/en/secca-del-papa-1-en/), [CiaoSardinia - Diving Tavolara Secca del Papa](http://www.ciaosardinia.com/eng/sardinia/diving-snorkeling/tavolara/secca-del-papa), [PADI - Secca del Papa](https://www.padi.com/dive-site/italy/secca-del-papa-2/). Last updated 2026-06-08.*
+*Sources: [Tavolara Diving Center - Secca del Papa 1](https://www.tavolaradiving.it/en/secca-del-papa-1-en/), [CiaoSardinia - Diving Tavolara Secca del Papa](http://www.ciaosardinia.com/eng/sardinia/diving-snorkeling/tavolara/secca-del-papa), [PADI - Secca del Papa](https://www.padi.com/dive-site/italy/secca-del-papa-2/). Last updated 2026-06-29.*
