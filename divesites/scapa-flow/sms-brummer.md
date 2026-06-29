@@ -29,7 +29,7 @@ Her most celebrated feature is the brass bridge — constructed of brass to avoi
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 36 metres (shallowest point 22 metres)
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 5–20 metres — best May and September–October
 - **Current**: Light (6/10)
 - **Water Temperature**: 6–14°C (43–57°F)

@@ -27,7 +27,7 @@ Karlsruhe was scuttled on 21 June 1919 at 15:50, one of the last of the German c
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–20 metres — best May and September–October
 - **Current**: Light
 - **Water Temperature**: 6–14°C (43–57°F)

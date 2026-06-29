@@ -57,7 +57,7 @@ Cöln's intact profile and relatively accessible entry point make it one of the 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 36 metres
+- **Maximum Depth**: 36 meters
 - **Protected Status**: Maritime Scheduled Ancient Monument
 - **Water Temperature**: 6–14°C (43–57°F)
 - **Best Time**: May–October

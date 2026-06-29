@@ -27,7 +27,7 @@ She participated in the Battle of Jutland before being interned at Scapa Flow. S
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 38 metres (shallowest accessible point: 12 metres)
+- **Maximum Depth**: 38 meters
 - **Typical Visibility**: 5–20 metres — best May and September–October
 - **Current**: Light
 - **Water Temperature**: 6–14°C (43–57°F)

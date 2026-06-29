@@ -27,7 +27,7 @@ The Markgraf now lies almost completely upturned on her starboard side, with the
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: Approximately 45 metres (sources report 45–47 metres; 24 metres at shallowest)
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 5–15 metres — best May and September–October
 - **Current**: Light to moderate (8/10 current awareness required)
 - **Water Temperature**: 6–14°C (43–57°F)

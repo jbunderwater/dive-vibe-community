@@ -27,7 +27,7 @@ She lies on her port side on an incline, with the bow pointing northward at 23 m
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 38 metres (bow at 23 metres, hull accessible from 20–22 metres)
+- **Maximum Depth**: 38 meters
 - **Typical Visibility**: 5–20 metres — best May and September–October
 - **Current**: Light to moderate (6/10)
 - **Water Temperature**: 6–14°C (43–57°F)

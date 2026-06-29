@@ -58,7 +58,7 @@ Diving SMS König requires Advanced certification minimum. Depth reaches 40 m, a
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Protected Status**: Maritime Scheduled Ancient Monument (since 2001)
 - **Water Temperature**: 6–14°C (43–57°F)
 - **Best Time**: May–October
