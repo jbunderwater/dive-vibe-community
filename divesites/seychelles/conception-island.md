@@ -3,7 +3,7 @@ name: Conception Island
 lat: -4.63
 lng: 55.55
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: wall
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Conception Island
 
-Conception Island is a wall dive site in Seychelles, Africa.
+Conception Island is a granite island to the west of Mahé offering exposed, current-swept diving among majestic boulders that descend to 20 metres and attract a wide range of pelagics.
 
 ## Overview
 
-Conception Island sits 2 km west of Mahé and is one of the most exposed and current-swept dive sites in the Inner Islands, with strong currents that attract regular visits from schooling eagle rays, whale sharks, and squadrons of barracuda. The southern point features steep walls, deeply incised gullies, and granite boulder swim-throughs, while the western side forms a natural arena where the shelving sandy bottom at 30 metres collects large pelagics swept in by the currents. Sea turtles, reef sharks, stingrays, and humphead parrotfish are regularly reported, making this an outstanding site for experienced divers comfortable in exposed conditions.
+Conception lies west of Mahé and is one of the Inner Islands' more exposed dive sites, regularly subject to current from the open Indian Ocean. The underwater landscape features majestic granite boulders extending from the surface to around 20 metres, forming natural shelters and swim-throughs between the rock formations. The currents sweeping past the island draw schooling jacks, barracuda, stingrays, eagle rays, batfish, and occasional reef sharks to the site. Whale sharks have been reported here seasonally, with the peak window typically September to November. Humphead parrotfish, moray eels, scorpionfish, octopus, groupers, leaf fish, puffer fish, fusiliers, and hawksbill turtles are among the species confirmed by multiple sources at this site. The combination of current and exposed position makes this a site best suited to experienced divers.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
+- **Location**: West of Mahé, Seychelles Inner Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall/boulder dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Scuba Diving Magazine - Seychelles Guide](https://www.scubadiving.com/diving-paradise-guide-scuba-diving-seychelles), [Divezone - Seychelles Dive Sites](https://divezone.net/diving/seychelles), [Bluewater Dive Travel - Seychelles](https://www.bluewaterdivetravel.com/destination/seychelles-diving), [PADI - Diving in Seychelles](https://www.padi.com/diving-in/seychelles/), [SCUBA Travel - Seychelles Diving](https://www.scubatravel.co.uk/pacific/seychelles-diving.html). Last updated 2026-04-04.*
+*Sources: [Divingseychelles.com – Dive Sites](https://divingseychelles.com/dive-sites), [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving). Last updated 2026-06-29.*
