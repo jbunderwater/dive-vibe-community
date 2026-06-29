@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Aldabra Atoll Channel
 
-Aldabra Atoll Channel is a drift dive site in Seychelles, Africa.
+Aldabra Atoll Channel is a tidal drift dive through one of the passes linking the Indian Ocean to the Aldabra lagoon — one of the world's most remote and ecologically intact marine environments, and a UNESCO World Heritage Site since 1982.
 
 ## Overview
 
-Aldabra Atoll Channel is a tidal drift dive through one of the passages linking the open Indian Ocean to the lagoon of Aldabra, a UNESCO World Heritage Site and one of the world's largest raised coral atolls. Enormous schools of fish stack up in the current — bumphead parrotfish, Napoleon wrasse, and giant trevally — while manta rays and reef sharks use the channel as a cleaning and feeding station. The sheer remoteness of Aldabra, accessible only by liveaboard expedition, means the marine ecosystem here is among the least disturbed in the entire Indian Ocean.
+Aldabra is the world's second largest raised coral atoll, stretching across 60 square miles of ocean southwest of the Seychelles inner islands. It is accessible only by liveaboard expedition; Aldabra Expeditions describes dives as carefully timed to tidal cycles, with divers entering the main channel and drifting as the lagoon floods or empties. Aldabra Expeditions reports visibility at nearby Assumption reaching 60 metres, reflecting the minimal human impact on this entire ecosystem.
+
+The channel drift brings divers past dense schools of fusiliers, yellow snappers, and potato groupers stacked in the current. Hammerhead sharks, grey reef sharks, and silvertip sharks have been recorded at Aldabra. Manta rays are present in the surrounding waters, and sea turtles are abundant throughout the atoll system. The sheer remoteness of Aldabra ensures the reefs and fish populations here are among the least disturbed in the Indian Ocean, with more than 300 species of reef fish documented across the atoll's marine habitats. Dives require careful current planning and Advanced certification at minimum; most operators require significant diving experience before taking guests to this site.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
-- **Entry Type**: Boat dive
+- **Location**: Aldabra Atoll, Outer Islands, Seychelles (liveaboard only)
+- **Entry Type**: Boat dive (liveaboard access only)
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Scuba Diving Magazine - Seychelles Guide](https://www.scubadiving.com/diving-paradise-guide-scuba-diving-seychelles), [Divezone - Seychelles Dive Sites](https://divezone.net/diving/seychelles), [Bluewater Dive Travel - Seychelles](https://www.bluewaterdivetravel.com/destination/seychelles-diving), [PADI - Diving in Seychelles](https://www.padi.com/diving-in/seychelles/), [SCUBA Travel - Seychelles Diving](https://www.scubatravel.co.uk/pacific/seychelles-diving.html). Last updated 2026-04-04.*
+*Sources: [Aldabra Expeditions – Diving](https://www.aldabraexpeditions.com/diving.html), [Wikipedia – Aldabra](https://en.wikipedia.org/wiki/Aldabra), [ZuBlu – Alphonse, Desroches and Amirante Islands](https://www.zubludiving.com/destination/seychelles/outer-islands/alphonse-desroches-amirante-islands). Last updated 2026-06-29.*

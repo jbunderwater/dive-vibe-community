@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Shark Bank
 
-Shark Bank is a pinnacle dive site in Seychelles, Africa.
+Shark Bank is one of the Seychelles' premier offshore pinnacles, a granite seamount roughly 7–8 km northwest of Mahé that reliably draws large pelagics including reef sharks, hammerheads, and seasonal whale sharks.
 
 ## Overview
 
-Shark Bank is one of the Seychelles' most celebrated offshore pinnacles, rising from around 30 meters to within 10 meters of the surface roughly 5 km west of Mahé. The site earns its name from the large aggregations of nurse sharks, grey reef sharks, and hammerheads that congregate at depth, along with resident Napoleon wrasse and large schools of barracuda. Whale shark sightings are common here between October and March, drawn by the upwellings of nutrient-rich water that make this a blue-water spectacle.
+Shark Bank rises from the deep ocean floor to top out at around 20 metres below the surface, with its flanks dropping to 30–35 metres. The site sits in open water roughly 7–8 km northwest of Victoria Harbour, accessible only by boat. Equinoxe Diving School describes it as a "huge rock" lying between Mahé and Silhouette islands.
+
+Large schools of yellow-striped snappers, jacks, batfish, and fusiliers fill the water column above the pinnacle. Resident whitetip and blacktip reef sharks are regularly encountered, and hammerheads have been recorded here. Whale sharks pass through the area; most operators report the peak season as August to November, though sightings can occur outside these months. Eagle rays, stingrays, turtles, and parrotfish are year-round visitors. Experienced divers report the best conditions early in the morning before surface chop builds. PADI recommends Advanced Open Water certification as the minimum level for this site.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
+- **Location**: ~7–8 km northwest of Victoria, Mahé, Seychelles
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 30–35 meters
 
 ---
-*Sources: [Scuba Diving Magazine - Seychelles Guide](https://www.scubadiving.com/diving-paradise-guide-scuba-diving-seychelles), [Divezone - Seychelles Dive Sites](https://divezone.net/diving/seychelles), [Bluewater Dive Travel - Seychelles](https://www.bluewaterdivetravel.com/destination/seychelles-diving), [PADI - Diving in Seychelles](https://www.padi.com/diving-in/seychelles/), [SCUBA Travel - Seychelles Diving](https://www.scubatravel.co.uk/pacific/seychelles-diving.html). Last updated 2026-04-04.*
+*Sources: [PADI Dive Site – Shark Bank](https://www.padi.com/dive-site/seychelles/shark-bank/), [Equinoxe Diving School Seychelles – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving), [Koek.sc – Seychelles Diving Guide](https://koek.sc/en/seychelles-diving-guide). Last updated 2026-06-29.*

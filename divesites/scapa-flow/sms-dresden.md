@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## SMS Dresden
 
-A Scapa Flow light cruiser lying on her port side — bow at 23 meters, stern at 38 meters — described as a "fantastic dive for all levels" and a popular first German fleet dive of the week.
+A Cöln-class light cruiser lying on her port side with bow at 23 metres and stern at 38 metres — described as a "fantastic dive for all levels" and a popular first German fleet dive of the week due to its multi-level profile.
 
 ## Overview
 
-SMS Dresden was completed in 1917 and commissioned into the German Imperial High Seas Fleet in 1918, serving for only a brief period before the end of WWI. Like her fleet companions, she was interned at Scapa Flow and scuttled on June 21, 1919. She lies on her port side with the bow at 23 meters and the stern at 38 meters, with the hull rising to 20–22 meters from the surface. This orientation naturally creates a multi-level dive experience: the shallower bow section allows conservative acclimatization profiles while the deeper stern appeals to more experienced divers. This makes the Dresden a popular choice for the first German fleet dive of a Scapa Flow week, allowing divers to adjust to the cold water and dry suit conditions before committing to the deeper battleships. The wreck has retained her shape remarkably well and preserves many original interior features that provide insight into life aboard a WWI Imperial German warship.
+SMS Dresden was the second and final ship of the Cöln-class light cruisers completed for the Imperial German High Seas Fleet. She was built by Blohm & Voss in Hamburg, launched on 25 April 1917, and commissioned on 28 March 1918 — serving only a few months before the Armistice. She measured 155.5 metres in length (sources on diving websites cite 115 metres, but the class-level specifications confirmed by Wikipedia give 155.5 metres), displaced 5,620 tonnes normally and 7,486 tonnes at full load, and was armed with eight 15 cm guns. She arrived at Scapa Flow for internment on 6 December 1918 and was scuttled on 21 June 1919 at 13:50.
+
+She lies on her port side on an incline, with the bow pointing northward at 23 metres and the stern sloping down to 38 metres. The Dresden suffered surprisingly little from post-sinking salvage operations compared to the Karlsruhe, and retains much of her original structure. Identifiable features include two 5.9-inch aft guns pressed into the seabed, forward AA guns, an armoured control tower with four inches of protective steel, the bridge structure (partially collapsed), and preserved officers' accommodation with intact shape. White fire bricks lining the decks above the boiler room are visible on the seabed. The inclined port-side orientation naturally creates a multi-level dive experience that makes the Dresden an ideal first fleet dive for acclimatisation.
 
 ## Site Information
 
@@ -25,39 +27,50 @@ SMS Dresden was completed in 1917 and commissioned into the German Imperial High
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 38 meters
-- **Typical Visibility**: 5–20 meters (16–66 feet) — best May and September–October
-- **Current**: Light
+- **Maximum Depth**: 38 metres (bow at 23 metres, hull accessible from 20–22 metres)
+- **Typical Visibility**: 5–20 metres — best May and September–October
+- **Current**: Light to moderate (6/10)
 - **Water Temperature**: 6–14°C (43–57°F)
 - **Best Time**: May–October
 
+## Wreck History
+
+- **Built**: Blohm & Voss, Hamburg; launched 25 April 1917, commissioned 28 March 1918
+- **Class**: Cöln-class light cruiser (second and final ship of class completed)
+- **Displacement**: 5,620 tonnes standard; 7,486 tonnes full load
+- **Length**: 155.5 metres (class specification); diving references cite 115 metres — conflict not yet resolved; 155.5 m is the class-level figure from Wikipedia
+- **Armament**: Eight 15 cm SK L/45 guns; three 8.8 cm AA guns (only two installed due to wartime shortages); four torpedo tubes; 200 mines
+- **Interned at Scapa Flow**: 6 December 1918
+- **Scuttled**: 21 June 1919 at 13:50 by order of Rear Admiral von Reuter
+- **Current orientation**: On port side, inclined; bow 23 m, stern 38 m
+
 ## Marine Life
 
-The SMS Dresden's well-preserved surfaces host the characteristic Scapa Flow cold-water community. Plumose anemones, dead man's fingers, and encrusting sponges are established throughout the accessible exterior sections. Conger eels are resident in the hull's interior spaces and are a regular encounter. Large edible crabs are common. Schools of saithe and pollack move through the water above the wreck. The preserved interior features — retained by regular Scapa Flow wreck divers as highlights of the dive — provide additional context for the species found sheltering within.
+The Dresden's well-preserved surfaces host the characteristic Scapa Flow cold-water community. Plumose anemones, dead man's fingers, and encrusting sponges are established throughout the accessible exterior sections. Conger eels are resident in hull interior spaces. Edible crabs are common on the hull surfaces. Schools of saithe and pollack move through the water above the wreck. Sealife abundance is rated 10/10 by local operators.
 
 ## Dive Profile
 
-The Dresden's angled profile allows a multi-level dive: begin on the shallower bow section at 20–24 meters to acclimatize, then explore the mid-ship section before deciding whether to drop to the deeper stern at 38 meters. The first dive is best kept to the bow section. Subsequent dives can explore the stern and any accessible interior features with appropriate time management.
+Begin on the shallower bow section at 20–23 metres to acclimatise to dry suit conditions and cold water. The armoured control tower and forward gun positions are the primary objectives at this depth. Descend along the hull toward the stern, passing preserved accommodation sections before reaching the two 5.9-inch aft guns at 38 metres. The white fire bricks on the seabed near the boiler room are an unusual detail. First-time Scapa divers should keep to the bow section; experienced divers can drop to the stern on subsequent dives.
 
 ## Entry and Exit
 
-Boat dive from Stromness-based operators. The Dresden is often chosen as the first German fleet dive of a Scapa liveaboard week specifically for its conservative bow-section profile. Shot line descent to the shallowest section of the wreck, then descend further as the dive plan allows. Dry suit mandatory.
+Boat dive from Stromness-based operators. The Dresden is regularly chosen as the first German fleet dive of a Scapa liveaboard week. Shot line descent to the shallowest accessible section. Dry suit mandatory. SMB deployment before surfacing.
 
 ## Tips and Recommendations
 
-- The Dresden is the recommended first German fleet dive for acclimatizing to Scapa conditions
-- Use the bow section to calibrate dry suit buoyancy before working deeper
-- The preserved interior features visible through openings provide compelling historical detail
-- Experienced divers regularly discover new areas of interest as they learn the wreck's layout
-- Return dives on the Dresden often reveal features completely missed on the first visit
+- Use the Dresden as the first German fleet dive — the multi-level profile allows conservative acclimatisation
+- The bow section allows dry suit buoyancy calibration before committing to the deeper stern sections
+- The preserved interior shape visible through hull openings provides compelling historical detail about shipboard life
+- Return dives on the Dresden consistently reveal features missed on the first visit
+- The armoured control tower with its four-inch steel walls is a distinctive structural landmark
 
 ## Safety Considerations
 
-The 38-meter stern depth is within recreational limits but demands careful no-decompression management in cold water with elevated gas consumption rates. The inclined orientation means depth changes rapidly as you move along the hull — monitor your computer frequently. This is a protected monument — no artifacts may be disturbed. Use shot lines exclusively for ascent.
+The 38-metre stern depth demands careful no-decompression time management in cold water with elevated gas consumption. Depth changes rapidly as you move along the inclined hull — monitor your dive computer frequently. This is a protected monument — no artefacts may be disturbed. Use shot lines exclusively for ascent.
 
 ## Photography
 
-The Dresden's preserved interior details visible through hull openings are unique photographic subjects. The inclined hull profile creates asymmetric compositions different from the predominantly sideways cruisers. Encrusted deck features and superstructure elements photograph well with artificial light. The bow section in the shallower zone allows slightly better natural light exposure than the deeper sterns of the battleships.
+The two 5.9-inch aft guns pressed into the seabed are distinctive photographic subjects. The cylindrical armoured control tower provides a strong architectural compositional element. The preserved officers' accommodation and white fire bricks on the seabed offer unusual detail shots. The inclined hull profile creates asymmetric compositions different from the predominantly sideways cruisers. Artificial lighting is essential for the deeper sections.
 
 ---
-*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*
+*Sources: [SMS Dresden Dive Guide — Scapa Flow Wrecks](http://www.scapaflowwrecks.com/wrecks/dresden/diving.php), [SMS Dresden — Wikipedia](https://en.wikipedia.org/wiki/SMS_Dresden_(1917)), [S.M.S. Dresden — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site/4-S.M.S.-Dresden), [Cöln-class cruiser — Wikipedia](https://en.wikipedia.org/wiki/C%C3%B6ln_class_cruiser). Last updated 2026-06-29.*
