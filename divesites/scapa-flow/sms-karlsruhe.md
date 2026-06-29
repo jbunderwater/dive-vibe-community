@@ -3,7 +3,7 @@ name: SMS Karlsruhe
 lat: 58.8895237
 lng: -3.1870727
 difficulty: Intermediate
-maxDepth: 27
+maxDepth: 25
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## SMS Karlsruhe
 
-The shallowest, most marine-life-rich of the German light cruisers — lying at 45 degrees on her starboard side in just 27 meters, with the most colorful invertebrate communities in the Fleet.
+The shallowest and most marine-life-rich of the German light cruisers — the only Königsberg-class cruiser successfully scuttled at Scapa Flow, lying on her starboard side at 25 metres with the most extensively colonised surfaces of any Fleet wreck.
 
 ## Overview
 
-SMS Karlsruhe was a Königsberg-class light cruiser commissioned in November 1916 and named for the city that her predecessor class had been named after — the original SMS Karlsruhe having been sunk in the Caribbean in 1914. She is the only Königsberg-class cruiser successfully scuttled at Scapa Flow, as sister ships SMS Nürnberg and Emden were beached by the British before they could sink. The Karlsruhe lies on her starboard side at approximately 45 degrees, with her maximum depth of just 27 meters and shallowest point at 16 meters, making her the shallowest and most accessible of all the German light cruisers. She is widely described as the "prettiest" of the cruisers — the most broken up but compensating with the densest and most colorful marine life of any Fleet wreck, with lots of fish and marine life across every surface. The Karlsruhe is privately owned by a salvage company, and divers are prohibited from taking any salvage from the wreck. A single dive can yield 40 minutes of productive exploration.
+SMS Karlsruhe was a Königsberg-class light cruiser laid down on 5 May 1915 at Kaiserliche Werft Kiel, launched 31 January 1916, and commissioned in November 1916. She measured 151.4 metres in length, displaced 5,440 tonnes normally and 7,125 tonnes at full load, and was armed with eight 15 cm guns. She is the only Königsberg-class cruiser successfully scuttled at Scapa Flow — sister ships SMS Nürnberg and SMS Emden were beached by the British before they could sink.
+
+Karlsruhe was scuttled on 21 June 1919 at 15:50, one of the last of the German cruisers to go down. She lies on her starboard side, making her the shallowest of the four light cruisers in Scapa Flow at a maximum depth of 25 metres. Unlike the other cruisers, the Karlsruhe was salvaged in situ — blasted by explosives with only high-value components lifted — leaving her the most structurally broken-up of the four remaining cruisers. This has paradoxically resulted in the most prolific and varied marine life of any Fleet wreck, as the exposed machinery and blasted structure provide extensive colonisation surfaces. Two massive anchors with chains at the bow, two 5.9-inch forward deck guns, an armoured control tower, 12 boilers with exposed steam pipes, and a single massive rudder remain identifiable. Divers can spend upwards of 40 minutes per dive exploring the wreck.
 
 ## Site Information
 
@@ -25,39 +27,50 @@ SMS Karlsruhe was a Königsberg-class light cruiser commissioned in November 191
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
-- **Typical Visibility**: 5–20 meters (16–66 feet) — best May and September–October
+- **Maximum Depth**: 25 metres
+- **Typical Visibility**: 5–20 metres — best May and September–October
 - **Current**: Light
 - **Water Temperature**: 6–14°C (43–57°F)
 - **Best Time**: May–October
 
+## Wreck History
+
+- **Built**: Kaiserliche Werft Kiel; laid down 5 May 1915, launched 31 January 1916, commissioned November 1916
+- **Class**: Königsberg-class light cruiser (1915 variant)
+- **Displacement**: 5,440 tonnes standard; 7,125 tonnes full load
+- **Length**: 151.4 metres
+- **Armament**: Eight 15 cm SK L/45 guns, two 8.8 cm AA guns, four torpedo tubes, 200 mines
+- **Distinction**: Only Königsberg-class cruiser successfully scuttled at Scapa Flow
+- **Scuttled**: 21 June 1919 at 15:50 — one of the last cruisers to sink
+- **Current orientation**: On starboard side; maximum depth 25 m
+
 ## Marine Life
 
-SMS Karlsruhe supports the most prolific cold-water invertebrate community of any Fleet wreck, likely due to the additional light penetration at its 27-meter maximum depth and the 45-degree list that exposes more surfaces to current. Plumose anemones colonize every available hard surface. Dead man's fingers corals form extensive soft coral gardens. Edible crabs, velvet swimming crabs, spider crabs, and lobsters are abundant. Conger eels are reliable residents. Nudibranchs on encrusted surfaces are numerous. Large schools of saithe and pollack hover above the wreck.
+SMS Karlsruhe supports the most prolific cold-water invertebrate community of any Fleet wreck. The blasting during in-situ salvage exposed more surface area to current and light than the other cruisers, accelerating colonisation. Plumose anemones in dense orange and white clusters cover every available surface. Dead man's fingers corals form extensive soft coral gardens. Edible crabs, velvet swimming crabs, spider crabs, and lobsters are abundant. Conger eels are reliable residents of the hull spaces. Nudibranchs are found on encrusted surfaces. Large schools of saithe and pollack school above the wreck.
 
 ## Dive Profile
 
-Descend to the shallowest point of the wreck and systematically explore the hull faces. A single dive can achieve a 40-minute bottom time at this depth range. The 45-degree list presents both hull faces at accessible depths. Work from the bow along one side and return along the other, using the bow as a navigational anchor point.
+Descend to the shallowest accessible point and work systematically along the wreck. The 25-metre maximum depth allows extended no-decompression time — 40 minutes of productive diving is achievable. At the stern the wreck begins to regain structural coherence and presents a more refined profile. Two forward deck guns, the armoured control tower, exposed boilers and steam pipes, and the massive stern rudder are the primary structural objectives.
 
 ## Entry and Exit
 
-Boat dive from Stromness operators. Shot line descent to the wreck. The Karlsruhe is often included mid-week in Scapa liveaboard itineraries when it serves as a deeper contrast to the morning dive. Dry suit mandatory. SMB deployment before surfacing.
+Boat dive from Stromness operators. Shot line descent to the wreck. Dry suit mandatory. SMB deployment before surfacing.
 
 ## Tips and Recommendations
 
-- Request a thorough skipper briefing — the broken-up nature of the Karlsruhe can seem confusing without orientation
-- Allow 40 minutes on the wreck — the extended bottom time allowed by 27 meters makes this possible
-- Focus on the invertebrate life rather than trying to read the ship's structure from the scattered remains
-- The Karlsruhe is often the most enjoyed wreck by divers who prioritize marine life over wreck architecture
-- The additional light at 27 meters allows better natural light photography than the deeper wrecks
+- The Karlsruhe's broken-up nature rewards slow, careful exploration rather than rapid wreck survey — focus on marine life and exposed machinery
+- The 25-metre depth allows a longer bottom time than the deeper fleet wrecks — use it
+- The stern section is structurally more coherent and provides a contrast to the blasted mid-ship sections
+- The additional light at 25 metres allows better natural light photography than the deeper wrecks
+- Request a skipper briefing on the current state of the wreck — the blasted sections can be disorienting without orientation
 
 ## Safety Considerations
 
-At 27 meters, this is the most accessible of the German fleet wrecks for standard Intermediate divers. Gas consumption monitoring in cold water is still important. The broken-up structure means navigational disorientation is possible — follow your buddy closely and maintain orientation. Protected monument status means no artifact contact or removal.
+At 25 metres, this is the most depth-accessible of the German fleet wrecks for standard Intermediate divers. Gas consumption monitoring in cold water remains important. The blown-out structure means navigational disorientation is possible — maintain orientation to the shot line at all times. This is a protected scheduled monument — no artefact contact or removal.
 
 ## Photography
 
-The Karlsruhe offers Scapa Flow's best pure marine life photography on a Fleet wreck. Dense plumose anemone colonies and soft coral gardens create extraordinary cold-water landscapes that photograph beautifully with video lights or strobes. The additional light at 27 meters allows slightly more natural ambient light exposure than deeper sites. Nudibranchs, conger eels, and edible crabs provide varied macro and portrait subjects throughout the dive.
+The Karlsruhe offers Scapa Flow's best cold-water invertebrate photography on any Fleet wreck. Dense plumose anemone colonies and soft coral gardens provide extraordinary macro and wide-angle subjects. The 25-metre depth allows slightly more natural ambient light than the deeper sites. The exposed boiler room machinery is a distinctive industrial landscape. Nudibranchs, conger eels, and crabs provide varied portrait subjects throughout the dive.
 
 ---
-*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*
+*Sources: [SMS Karlsruhe Dive Guide — Scapa Flow Wrecks](https://www.scapaflowwrecks.com/wrecks/karlsruhe/diving.php), [SMS Karlsruhe — Wikipedia](https://en.wikipedia.org/wiki/SMS_Karlsruhe_(1916)), [SMS Karlsruhe — MV Invincible Scapa Flow](https://www.scapa-flow.co.uk/dive-site), [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/). Last updated 2026-06-29.*
