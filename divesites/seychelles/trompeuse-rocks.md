@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Trompeuse Rocks
 
-Trompeuse Rocks is a drift dive site in Seychelles, Africa.
+Trompeuse Rocks is a submerged granite formation approximately 24 km northeast of Mahé, where strong and unpredictable currents sweep divers past thick coral growth and diverse reef fish.
 
 ## Overview
 
-Trompeuse Rocks is a drift dive across a series of submerged granite outcrops off Mahé, where moderate to strong currents funnel divers past coral-encrusted boulders to a maximum depth of around 18 meters. The currents are the main draw, channelling schools of fusiliers and surgeonfish that in turn attract whitetip and grey reef sharks hunting in the current shadow. Eagle rays and giant trevally are regular visitors, and the site's name — meaning "deceptive" in French — refers to the unpredictable current reversals that require attentive dive planning.
+The Trompeuse Rocks protrude from the Indian Ocean approximately 24 km off Mahé's northeast coast. The site takes its name from the French word for "deceptive," reflecting the unpredictable nature of the currents here. The rocks rise significantly above the waterline and are surrounded by dense coral reef with thick growths of both hard and soft coral. Multiple sources note that currents at this site can be strong and that diver awareness and experience with drift conditions is important. A nearby shallow reef option exists at Mamelles Island for those wanting calmer conditions.
+
+Schools of fusiliers and surgeonfish are regularly reported here, and the current draws reef sharks hunting in the current shadows. Because this site sits well offshore in open ocean, it is best visited when sea conditions are settled. The site is not recommended during monsoon periods when swells make the 24 km crossing challenging.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
+- **Location**: ~24 km northeast of Mahé, Seychelles
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Scuba Diving Magazine - Seychelles Guide](https://www.scubadiving.com/diving-paradise-guide-scuba-diving-seychelles), [Divezone - Seychelles Dive Sites](https://divezone.net/diving/seychelles), [Bluewater Dive Travel - Seychelles](https://www.bluewaterdivetravel.com/destination/seychelles-diving), [PADI - Diving in Seychelles](https://www.padi.com/diving-in/seychelles/), [SCUBA Travel - Seychelles Diving](https://www.scubatravel.co.uk/pacific/seychelles-diving.html). Last updated 2026-04-04.*
+*Sources: [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving), [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Seychellen.com – Dive Spots in the Seychelles](https://seychellen.com/en/diving-spots-seychelles/). Last updated 2026-06-29.*

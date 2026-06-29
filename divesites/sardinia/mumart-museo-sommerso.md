@@ -28,4 +28,4 @@ MuMart (Maritime Museum of Art) is Sardinia's underwater art museum, inaugurated
 - **Maximum Depth**: 7 meters
 
 ---
-*Sources: [Gabbiano Azzurro Hotel - MuMart](https://www.hotelgabbianoazzurro.com/en/Blog/Mumart-underwater-Museum), [Golfo Aranci Municipality - MuMart](https://www.golfoaranci.eu/da-visitare/mumart-il-museo-sommerso/), [TripAdvisor - MuMart Reviews](https://www.tripadvisor.com/Attraction_Review-g227661-d11700442-Reviews-MuMart_Marine_Underwater_Museum_of_Art-Golfo_Aranci_Province_of_Olbia_Tempio_Sar.html). Last updated 2026-06-08.*
+*Sources: [Gabbiano Azzurro Hotel - MuMart](https://www.hotelgabbianoazzurro.com/en/Blog/Mumart-underwater-Museum), [Golfo Aranci Municipality - MuMart](https://www.golfoaranci.eu/da-visitare/mumart-il-museo-sommerso/), [TripAdvisor - MuMart Reviews](https://www.tripadvisor.com/Attraction_Review-g227661-d11700442-Reviews-MuMart_Marine_Underwater_Museum_of_Art-Golfo_Aranci_Province_of_Olbia_Tempio_Sar.html). Last updated 2026-06-29.*

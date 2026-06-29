@@ -23,8 +23,8 @@ Double Wreck is Sint Eustatius's most historically significant dive site — the
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 12–17 m |
-| Difficulty | Intermediate |
+| Depth Range | 15–18 m |
+| Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wreck (historic) |
 | Visibility | 20–25 m |
@@ -37,7 +37,7 @@ The scattered cannon and ballast stone formations provide excellent hard substra
 
 ## Dive Profile
 
-Divers descend the mooring and navigate the two wreck clusters systematically, spending time at each cannon and anchor grouping. Both wrecks lie in close proximity, allowing both to be covered in a single 40–50 minute dive. The depth range (12–17 m) is accessible to intermediate divers with comfortable NDL margins. A knowledgeable guide adds significant historical context.
+Divers descend the mooring and navigate the two wreck clusters systematically, spending time at each cannon and anchor grouping. Both wrecks lie in close proximity, allowing both to be covered in a single 40–50 minute dive. The depth range (to 18 m) is accessible to beginner divers with comfortable NDL margins. A knowledgeable guide adds significant historical context.
 
 ## Entry and Exit
 
@@ -61,4 +61,4 @@ Cannon lying in the sand with coral and sponge growth are the defining images of
 - SECAR: St. Eustatius Center for Archaeological Research — published research on Double Wreck
 
 ---
-*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/), [Scubaverse — St Eustatius](https://scubaverse.com/dive-guide/caribbean/st-eustatius/). Last updated 2026-05-24.*
+*Sources: [Golden Rock Dive Center — Dive Sites](https://www.goldenrockdive.com/dive-sites), [DiverTrek — Diving St. Eustatius](https://divertrek.com/diving-st-eustatius-the-historical-gem/), [Scubaverse — St Eustatius](https://scubaverse.com/dive-guide/caribbean/st-eustatius/). Last updated 2026-06-29.*

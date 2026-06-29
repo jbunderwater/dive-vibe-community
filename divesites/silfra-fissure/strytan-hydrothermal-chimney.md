@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Strytan Hydrothermal Chimney
 
-Strytan is the world's only known hydrothermal chimney accessible to recreational scuba divers — a 55-metre-tall limestone cone rising from the floor of Eyjafjörður fjord in North Iceland.
+Strytan is the world's only known hydrothermal chimney accessible to recreational scuba divers — a 55-metre-tall mineral cone of anhydrite and saponite (magnesium silicates) rising from the floor of Eyjafjörður fjord in North Iceland.
 
 ## Overview
 
@@ -65,4 +65,4 @@ The best season for marine life is May through September, when wolffish and lump
 - **Protected Status**: Iceland's first underwater nature reserve (designated 2001)
 
 ---
-*Sources: [Strýtan Divecenter — Strytan dive site](https://www.strytan.is/diving-place/strytan/), [Wikipedia — Strýtan vent field](https://en.wikipedia.org/wiki/Str%C3%BDtan_vent_field), [Alert Diver / DAN Europe — Strýtan](https://alertdiver.eu/en_US/articles/strytan-northern-iceland/), [X-Ray Mag — Strýtan](https://xray-mag.com/content/strytan-diving-icelands-hydrothermal-vents), [DIVE.IS — Strytan dive site](https://www.dive.is/dive-sites/strytan), [InsideScuba — Strýtan review](https://insidescuba.online/p/unique-hydrothermal-diving-strytan-iceland). Last updated 2026-06-08.*
+*Sources: [Strýtan Divecenter — Strytan dive site](https://www.strytan.is/diving-place/strytan/), [Wikipedia — Strýtan vent field](https://en.wikipedia.org/wiki/Str%C3%BDtan_vent_field), [Alert Diver / DAN Europe — Strýtan](https://alertdiver.eu/en_US/articles/strytan-northern-iceland/), [X-Ray Mag — Strýtan](https://xray-mag.com/content/strytan-diving-icelands-hydrothermal-vents), [DIVE.IS — Strytan dive site](https://www.dive.is/dive-sites/strytan), [InsideScuba — Strýtan review](https://insidescuba.online/p/unique-hydrothermal-diving-strytan-iceland), [Geothermal Energy Journal — Strýtan mineral composition](https://geothermal-energy-journal.springeropen.com/articles/10.1186/s40517-017-0065-0). Last updated 2026-06-29.*

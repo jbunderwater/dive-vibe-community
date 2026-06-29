@@ -3,7 +3,7 @@ name: Whale Rock
 lat: -4.54
 lng: 55.35
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Whale Rock
 
-Whale Rock is a pinnacle dive site in Seychelles, Africa.
+Whale Rock is a large stacked granite boulder formation near Mahé, with archways, swim-through passages, and a 10-metre tunnel that makes it one of the more navigable boulder dives in the Inner Islands.
 
 ## Overview
 
-Whale Rock is a large granite boulder formation near Mahé, its flanks encrusted with sea fans, black coral bushes, and colourful soft corals down to around 20 meters. Hawksbill and green turtles are a near-constant presence at this site, resting on the rock ledges or grazing on the sponge growth. The boulders create sheltered swim-throughs that harbour lionfish, moray eels, and dense aggregations of glassfish.
+Whale Rock consists of large granite boulders stacked into archways and corridors, with a notable tunnel of around 10 metres length that divers can pass through. Equinoxe Diving School lists the site among its regular offerings, describing the large granite boulders creating archways and swim-throughs. The flanks of the rock formation descend to between 15 and 25 metres.
+
+Confirmed species at Whale Rock across multiple sources include moray eels, hawksbill and green turtles, lionfish, scorpionfish, soldierfish, stingrays, anemones, clownfish (referred to locally as Seychelles clownfish), leaf fish, and eagle rays. Whitetip reef sharks are cited by multiple operators as regular visitors. The site also functions well as a night dive, when cryptic species become more active. Whale sharks have been reported seasonally at Whale Rock, though this appears to be opportunistic rather than a defining feature of the site.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
+- **Location**: Near Mahé, Seychelles Inner Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Scuba Diving Magazine - Seychelles Guide](https://www.scubadiving.com/diving-paradise-guide-scuba-diving-seychelles), [Divezone - Seychelles Dive Sites](https://divezone.net/diving/seychelles), [Bluewater Dive Travel - Seychelles](https://www.bluewaterdivetravel.com/destination/seychelles-diving), [PADI - Diving in Seychelles](https://www.padi.com/diving-in/seychelles/), [SCUBA Travel - Seychelles Diving](https://www.scubatravel.co.uk/pacific/seychelles-diving.html). Last updated 2026-04-04.*
+*Sources: [Equinoxe Diving School – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving), [ScubaVox – Whale Rock Seychelles](https://www.scubavox.com/seychelles/whale-rock). Last updated 2026-06-29.*

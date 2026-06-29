@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Remire Reef
 
-Remire Reef is a reef dive site in Seychelles, Africa.
+Remire Reef surrounds a small, uninhabited atoll in the Amirantes group, approximately 240 km southwest of Victoria — one of the Seychelles' most remote and least-dived reef systems, accessible only by liveaboard.
 
 ## Overview
 
-Remire Reef surrounds the tiny uninhabited island of Île aux Récifs in the Amirantes group, offering remote Indian Ocean diving with exceptional clarity and minimal boat traffic. The reef flat and slope host pristine staghorn and table corals down to roughly 20 meters, with hawksbill turtles, blue-spotted stingrays, and healthy populations of parrotfish and angelfish throughout. The isolation of the Amirantes means this site sees far less diver pressure than inner-island reefs, preserving its coral cover in notably good condition.
+Remire Reef lies in the Outer Islands of the Seychelles, roughly 240 km southwest of Victoria near the eastern edge of the Amirantes Ridge. Wikipedia describes it as a reef that dries in patches at low water and extends approximately 4.9 km south-southwest with a width of 2.2 km. Aldabra Expeditions lists Remire among the Amirantes island group's best dive sites, alongside African Banks, Poivre, Marie Louise, and Île des Noeuds. ZuBlu and Dive Explorer Seychelles both describe the Amirantes as offering remote Indian Ocean diving with excellent water clarity and minimal boat traffic.
+
+The isolation of Remire from any permanent habitation and the very limited number of liveaboards that visit the Amirantes group means diver pressure here is extremely low. Reef systems in this part of the Amirantes are described as featuring flourishing corals across miles of largely pristine habitat. No site-specific species list for Remire Reef itself was found in available sources; conditions are consistent with the broader Amirantes ecosystem, which supports reef fish communities and hawksbill turtles across the atoll structure.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
+- **Location**: Amirantes Group, Outer Islands, Seychelles (~240 km SW of Victoria, liveaboard only)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Scuba Diving Magazine - Seychelles Guide](https://www.scubadiving.com/diving-paradise-guide-scuba-diving-seychelles), [Divezone - Seychelles Dive Sites](https://divezone.net/diving/seychelles), [Bluewater Dive Travel - Seychelles](https://www.bluewaterdivetravel.com/destination/seychelles-diving), [PADI - Diving in Seychelles](https://www.padi.com/diving-in/seychelles/), [SCUBA Travel - Seychelles Diving](https://www.scubatravel.co.uk/pacific/seychelles-diving.html). Last updated 2026-04-04.*
+*Sources: [Wikipedia – Remire Reef](https://en.wikipedia.org/wiki/Remire_Reef), [Aldabra Expeditions – Amirantes](https://www.aldabraexpeditions.com/amirantes.html), [ZuBlu – Alphonse, Desroches and Amirante Islands](https://www.zubludiving.com/destination/seychelles/outer-islands/alphonse-desroches-amirante-islands). No site-specific marine life sources found for Remire Reef. Last updated 2026-06-29.*

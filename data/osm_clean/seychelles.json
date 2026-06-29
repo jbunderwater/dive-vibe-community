@@ -15,7 +15,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "equinoxe-diving-seychelles.com,diveinseychelles.com,seyvillas.com",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
@@ -34,7 +35,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,aldabraexpeditions.com,zubludiving.com",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
@@ -48,14 +50,16 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "padi.com,equinoxe-diving-seychelles.com,seyvillas.com,koek.sc",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
     "name": "Brissare Rocks",
     "lat": -4.58,
     "lon": 55.4,
-    "depth": 12,
+    "depth": 20,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -63,14 +67,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "equinoxe-diving-seychelles.com,seyvillas.com,koek.sc",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
     "name": "Aldabra Atoll Channel",
     "lat": -9.41,
     "lon": 46.35,
-    "depth": 20,
+    "depth": 25,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -78,7 +83,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "aldabraexpeditions.com,wikipedia.org,zubludiving.com",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
@@ -92,14 +98,16 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "seyvillas.com,equinoxe-diving-seychelles.com,seychellen.com",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
     "name": "Conception Island",
     "lat": -4.63,
     "lon": 55.55,
-    "depth": 25,
+    "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -107,21 +115,24 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "divingseychelles.com,equinoxe-diving-seychelles.com,seyvillas.com",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
     "name": "Marianne Island",
     "lat": -4.34,
     "lon": 55.94,
-    "depth": 15,
+    "depth": 25,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "seyvillas.com,divebooker.com,scubadiving.place",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
@@ -136,21 +147,24 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,gvi.co.uk,thediveglobe.com",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
     "name": "Ave Maria Rock",
     "lat": -4.57,
     "lon": 55.38,
-    "depth": 16,
-    "site_type": "wall",
+    "depth": 20,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "wannadive.net,seyvillas.com,zubludiving.com",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
@@ -160,19 +174,20 @@
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "tribloo.com,seyvillas.com,equinoxe-diving-seychelles.com",
+      "last_qa_date": "2026-06-29"
     }
   },
   {
     "name": "Whale Rock",
     "lat": -4.54,
     "lon": 55.35,
-    "depth": 20,
+    "depth": 25,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -180,7 +195,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "equinoxe-diving-seychelles.com,seyvillas.com,scubavox.com",
+      "last_qa_date": "2026-06-29"
     }
   }
 ]

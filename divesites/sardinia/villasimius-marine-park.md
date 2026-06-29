@@ -28,4 +28,4 @@ The Villasimius Marine Park encompasses the Capo Carbonara headland and surround
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [SubAqua Dive Service Villasimius - Capo Carbonara MPA](https://www.subaquadive.it/en/about-us/capo-carbonara-marine-protected-area), [Escursi - Diving Capo Carbonara](https://www.escursi.com/en/experiences/water-sports/diving-capo-carbonara-villasimius), [Sardinia Point - Diving Villasimius](https://sardiniapoint.it/en/new-styles-of-tourism/diving-and-snorkellingdiving-areasvillasimius/). Last updated 2026-06-08.*
+*Sources: [SubAqua Dive Service Villasimius - Capo Carbonara MPA](https://www.subaquadive.it/en/about-us/capo-carbonara-marine-protected-area), [Escursi - Diving Capo Carbonara](https://www.escursi.com/en/experiences/water-sports/diving-capo-carbonara-villasimius), [Sardinia Point - Diving Villasimius](https://sardiniapoint.it/en/new-styles-of-tourism/diving-and-snorkellingdiving-areasvillasimius/). Last updated 2026-06-29.*
