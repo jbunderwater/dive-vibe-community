@@ -1596,13 +1596,13 @@
         "silfra-fissure",
         "sint-eustatius"
       ],
-      "notes": "scotland skipped (isGroup=true, no osm_clean data); silfra-fissure and sint-eustatius batch 2 in progress at time of state update",
+      "notes": "scotland skipped (isGroup=true, no osm_clean data)",
       "summary": {
-        "sites_total": 39,
-        "sites_re_audited": 39,
-        "hallucinations_removed": 10,
+        "sites_total": 40,
+        "sites_re_audited": 40,
+        "hallucinations_removed": 13,
         "marine_life_stripped": 3,
-        "wreck_conflicts_flagged": 9,
+        "wreck_conflicts_flagged": 11,
         "sites_unresolved": 0,
         "by_destination": {
           "sardinia": {
@@ -1612,7 +1612,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes": "Secca del Papa coordinates fixed 200km SW->correct Tavolara location; Nereo Cave 4000m->4km system, dive routes 300-500m; leptosamnia sponges->Leptopsammia pruvoti cup corals; MPA year 2003->2002; Cala Mariolu cave->wall; Capo Caccia amberjack removed, fish recovery claim removed; KT Wreck 60m->68m, bow separation 300m->700-800m; Tavolara coastline 40km->76km; Isola dei Cavoli reef->wall, Madonna 10-12m->11m; Cala Gonone unverifiable western Mediterranean claim removed, Beginner->Intermediate; Porto Conte entry_type shore->boat"
+            "notes": "CRITICAL: Secca del Papa coordinates fixed ~200km SW error (39.13,8.4→40.9147,9.7478); Nereo Cave 4km full system / 300-500m dive routes clarified; leptosamnia sponges→Leptopsammia pruvoti cup corals; MPA year 2003→2002; Cala Mariolu cave→wall; Capo Caccia amberjack+fish-recovery-claim removed; KT Wreck 60m→68m, bow separation 300m→700-800m; Tavolara coastline 40km→76km; Isola dei Cavoli reef→wall, Madonna 10-12m→11m; Cala Gonone unverifiable western-Mediterranean claim removed, Beginner→Intermediate; Porto Conte entry_type shore→boat"
           },
           "scapa-flow": {
             "sites_total": 10,
@@ -1621,7 +1621,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 5,
             "sites_unresolved": 0,
-            "notes": "SMS Brummer brass bridge corrected (compass interference not mine measure); F2 vessel type+sinking narrative rewritten (Geleiteboot not torpedo recovery boat; sank Dec 30 1946 in storm, not during salvage); SMS Karlsruhe depth 27->25m; SMS Markgraf orientation corrected port->starboard side; SMS Markgraf depth 47->45m; 5 length conflicts flagged (Dresden/Coln 115m vs 155.5m; Konig 146m vs 175.4m); Gobernador depth 16->17m; Tabarka two-stage sinking history added (Kirk Sound 1941->Burra Sound 1944); Gobernador/Tabarka full wreck histories added"
+            "notes": "F2 vessel type+sinking narrative rewritten (Geleiteboot not torpedo recovery boat; sank storm 30 Dec 1946, not during salvage; YC-21 100m away not 30m); SMS Brummer brass bridge corrected (compass interference not mine measure); SMS Karlsruhe depth 27→25m; SMS Markgraf orientation port→starboard; SMS Markgraf depth 47→45m; Gobernador depth 16→17m; 5 length conflicts flagged (Dresden/Coln 115m vs 155.5m; Konig 146m vs 175.4m; Markgraf depth range); Gobernador+Tabarka full wreck histories added; all 10 sites 3+ sources"
           },
           "scotland": {
             "notes": "isGroup=true parent slug; no osm_clean data; skipped"
@@ -1633,13 +1633,25 @@
             "marine_life_stripped": 3,
             "wreck_conflicts_flagged": 4,
             "sites_unresolved": 0,
-            "notes": "Ennerdale anti-submarine mortars claim removed (only torpedo warheads confirmed); Marianne Island Beginner->Advanced (strong currents); depth corrections: Brissare Rocks 12->20m, Whale Rock 20->25m, Aldabra 20->25m, Conception Island 25->20m, Ave Maria 16->20m; site_type corrections: Ave Maria wall->reef; all 12 sites 3+ sources, last_qa_date=2026-06-29"
+            "notes": "Ennerdale anti-submarine mortars claim removed (only torpedo warheads confirmed); Marianne Island Beginner→Advanced (strong currents confirmed multiple operators); depth corrections: Brissare Rocks 12→20m, Whale Rock 20→25m, Aldabra 20→25m, Conception Island 25→20m, Ave Maria 16→20m; site_type: Ave Maria wall→reef; placeholder descriptions replaced with sourced content; all 12 sites 3+ sources, last_qa_date=2026-06-29"
           },
           "silfra-fissure": {
-            "notes": "batch 2 agent in progress"
+            "sites_total": 7,
+            "sites_re_audited": 7,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 4,
+            "notes": "Strytan limestone cone→mineral cone of anhydrite and saponite (magnesium silicates) per Geothermal Energy Journal; Salvelinus devarius scientific name removed (unverified); Crymostygius thingvallensis endemic amphipod added (confirmed); unresolved: Silfra Cathedral max depth 63m vs 60m, Strytan base 65m vs 70m, vent temp 72-76C range, Davidsgja coordinate inconsistency"
           },
           "sint-eustatius": {
-            "notes": "batch 2 agent in progress"
+            "sites_total": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "Charles L. Brown CRITICAL: orientation corrected upright→starboard side (DAN Alert Diver); depth 29m→30m; added 1984 CS Salernum rename; Blue Bead Hole: Venetian→Dutch Amsterdam-made glass beads; pentagonal shape noted; slave trade context added; all 10 sites last_qa_date=2026-06-29"
           }
         }
       }
