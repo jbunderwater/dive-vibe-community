@@ -25,9 +25,9 @@ Large schools of yellow-striped snappers, jacks, batfish, and fusiliers fill the
 
 - **Location**: ~7–8 km northwest of Victoria, Mahé, Seychelles
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30–35 meters
+- **Maximum Depth**: 30 meters
 
 ---
 *Sources: [PADI Dive Site – Shark Bank](https://www.padi.com/dive-site/seychelles/shark-bank/), [Equinoxe Diving School Seychelles – Dive Sites](https://equinoxe-diving-seychelles.com/dive-sites/), [Seyvillas – Mahé Diving Guide](https://www.seyvillas.com/en/guide/islands/mahe/diving), [Koek.sc – Seychelles Diving Guide](https://koek.sc/en/seychelles-diving-guide). Last updated 2026-06-29.*

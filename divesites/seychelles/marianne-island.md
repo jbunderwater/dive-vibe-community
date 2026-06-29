@@ -22,8 +22,8 @@ The southern tip of Marianne Island — accessible from Praslin or La Digue — 
 ## Site Information
 
 - **Location**: South tip of Marianne Island, Seychelles Inner Islands
-- **Entry Type**: Boat dive (30 min from Praslin or La Digue)
-- **Site Type**: Pinnacle
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 

@@ -24,7 +24,7 @@ The channel drift brings divers past dense schools of fusiliers, yellow snappers
 ## Site Information
 
 - **Location**: Aldabra Atoll, Outer Islands, Seychelles (liveaboard only)
-- **Entry Type**: Boat dive (liveaboard access only)
+- **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters

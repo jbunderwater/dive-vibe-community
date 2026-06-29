@@ -23,7 +23,7 @@ Brissare Rocks (also spelled Brissaire Rocks) sit in open water about 5 km north
 
 - **Location**: ~5 km north of Mahé, Seychelles
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 

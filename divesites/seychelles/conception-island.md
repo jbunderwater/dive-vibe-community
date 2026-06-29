@@ -23,7 +23,7 @@ Conception lies west of Mahé and is one of the Inner Islands' more exposed dive
 
 - **Location**: West of Mahé, Seychelles Inner Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wall/boulder dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 

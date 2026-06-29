@@ -25,7 +25,7 @@ The underwater terrain consists of massive granite boulders creating canyons, cr
 
 - **Location**: Channel between Praslin and Sister Islands, Seychelles
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / granite boulder
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 
