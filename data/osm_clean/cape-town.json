@@ -13,7 +13,7 @@
       "validated": true,
       "validation_source": "en.wikivoyage.org,scubashack.co.za,aaddicts.co.za",
       "marine_life": "cuttlefish, helmet shells, leopard catsharks, soles, red fanworms, anemones, feather stars, nudibranchs, reef fish",
-      "notes": "Difficulty upgraded to Intermediate: cold water (12-18°C), kelp navigation required, surge possible. Eagle rays NOT confirmed at this specific site.",
+      "notes": "Difficulty upgraded to Intermediate: cold water (12-18\u00b0C), kelp navigation required, surge possible. Eagle rays NOT confirmed at this specific site.",
       "last_qa_date": "2026-05-20"
     }
   },
@@ -34,7 +34,7 @@
       "water_temp_c": "14-18",
       "great_white_status": "absent_since_2018",
       "notes": "Great white sharks disappeared from False Bay circa 2017-2018 per peer-reviewed research (Frontiers in Marine Science, 2025). Cage diving operations now primarily encounter bronze whalers. Description must reflect current status.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -51,11 +51,17 @@
       "validated": true,
       "validation_source": "en.wikivoyage.org,scubashack.co.za,justgottadive.com",
       "wreck_count": 5,
-      "wrecks": ["MV Rockeater (scuttled 15 Dec 1972, ~30m)", "SAS Transvaal (scuttled 3 Aug 1978, 34m)", "SAS Good Hope (scuttled 18 Jun 1978, ~36m)", "MFV Princess Elizabeth (scuttled 27 Jun 1983, 22m)", "MFV Orotava (scuttled Aug 1983, 24m)"],
+      "wrecks": [
+        "MV Rockeater (scuttled 15 Dec 1972, ~30m)",
+        "SAS Transvaal (scuttled 3 Aug 1978, 34m)",
+        "SAS Good Hope (scuttled 18 Jun 1978, ~36m)",
+        "MFV Princess Elizabeth (scuttled 27 Jun 1983, 22m)",
+        "MFV Orotava (scuttled Aug 1983, 24m)"
+      ],
       "depth_range": "22-38m",
       "scuttling_period": "1972-1983",
       "notes": "Five scuttled vessels; scuttling spanned 1972-1983 (NOT 'early 1970s' alone). Correct spelling: MFV Orotava (not Oratava). SAS Transvaal and SAS Good Hope are Loch-class frigates. Advanced certification required.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -75,7 +81,7 @@
       "pinnacles": "rise from 14m to 5m",
       "marine_life": "Cape fur seals, pyjama sharks, spotted gully sharks, Cape knifejaw, Roman sea bream, nudibranchs, sea cucumbers, brittle stars, octopus",
       "notes": "Sevengill sharks listed as 'elusive since 2016' per diveteam.co.za; removed as reliable sighting. Great whites also absent from False Bay since ~2018.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -118,7 +124,7 @@
       "location": "Hout Bay area, Atlantic seaboard (NOT Table Bay)",
       "depth_range": "8-30m",
       "marine_life": "nudibranchs, basket stars, brittle stars, colonial ascidians, dreadlocks hydroids, sponges, soft corals, cape rock lobster; seals occasional",
-      "notes": "Located ~4.5km from Hout Bay Harbour on Atlantic seaboard. Previous description incorrectly said 'Table Bay'. Pyjama sharks NOT confirmed at this site — removed.",
+      "notes": "Located ~4.5km from Hout Bay Harbour on Atlantic seaboard. Previous description incorrectly said 'Table Bay'. Pyjama sharks NOT confirmed at this site \u2014 removed.",
       "last_qa_date": "2026-05-20"
     }
   },
@@ -205,7 +211,7 @@
       "pinnacle": "Finlay's Pinnacle rises from 15m to 6m",
       "marine_life": "bryozoans, sponges, colonial ascidians, anemones, pyjama catsharks, reef fish, nudibranchs",
       "alternate_names": "Jenga Reef",
-      "notes": "Sevengill sharks NOT confirmed as reliable sighting at this specific site — removed from marine life tag.",
+      "notes": "Sevengill sharks NOT confirmed as reliable sighting at this specific site \u2014 removed from marine life tag.",
       "last_qa_date": "2026-05-20"
     }
   },
@@ -235,7 +241,7 @@
       "underlying_wreck": "SS Oakburn (British cargo steamer, 1906, pre-existing wreck at same location)",
       "warning": "Advanced stage of deterioration; rusted steel threatening collapse; area unsafe",
       "conditions": "exposed location, strong surge in shallows; shore access via Sandy Bay beach",
-      "notes": "Previous description said 'capable of lifting 1,200 tons' — confirmed accurate per Wikipedia. Previous description said 'boat access from Hout Bay' — incorrect; entry_type is shore (Sandy Bay beach). Also Oakburn described as carrying 'railway lines and antique glassware' — no independent source confirms this specific cargo claim; removed.",
+      "notes": "Previous description said 'capable of lifting 1,200 tons' \u2014 confirmed accurate per Wikipedia. Previous description said 'boat access from Hout Bay' \u2014 incorrect; entry_type is shore (Sandy Bay beach). Also Oakburn described as carrying 'railway lines and antique glassware' \u2014 no independent source confirms this specific cargo claim; removed.",
       "last_qa_date": "2026-05-20"
     }
   },
@@ -393,7 +399,7 @@
       "cannon": "Two iron cannon approximately 3m long in V-formation at southern end; two more cannon partly buried in sand",
       "artifacts": "Large iron anchor nearby; scattered wood pieces",
       "permit_required": true,
-      "notes": "Difficulty upgraded from Beginner to Intermediate: cold Atlantic water, 150m swim from shore, swell possible. Cannon are IRON not bronze — previous description was incorrect. Previous description said 'anchor cable parted in fog' — corrected: actual cause was striking rocks in thick mist.",
+      "notes": "Difficulty upgraded from Beginner to Intermediate: cold Atlantic water, 150m swim from shore, swell possible. Cannon are IRON not bronze \u2014 previous description was incorrect. Previous description said 'anchor cable parted in fog' \u2014 corrected: actual cause was striking rocks in thick mist.",
       "seamark:type": "wreck",
       "last_qa_date": "2026-05-20"
     }
@@ -430,9 +436,9 @@
       "permit_required": true,
       "hazard": "dangerous wreck category",
       "entry": "shore access on foot to Olifantsbos; NOT boat-only",
-      "notes": "Previous markdown description incorrectly said 'boat only' — entry is actually SHORE on foot from Olifantsbos parking area. Cargo description corrected: 25 Sherman tanks confirmed, NOT 'ammunition' as previously tagged. Compass error 37 degrees confirmed (not 23 nautical miles as stated in markdown — both may be true: 37 degree error resulting in ~23 NM position error).",
+      "notes": "Previous markdown description incorrectly said 'boat only' \u2014 entry is actually SHORE on foot from Olifantsbos parking area. Cargo description corrected: 25 Sherman tanks confirmed, NOT 'ammunition' as previously tagged. Compass error 37 degrees confirmed (not 23 nautical miles as stated in markdown \u2014 both may be true: 37 degree error resulting in ~23 NM position error).",
       "seamark:wreck:category": "dangerous",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -512,12 +518,12 @@
       "natural": "reef",
       "depth_range": "5-42m",
       "pinnacle_top": "5m (shallowest pinnacle, approximately 4.4-5m below MSL depending on tide)",
-      "reef_area": "approximately 1 km² (1300m E-W, 950m N-S)",
+      "reef_area": "approximately 1 km\u00b2 (1300m E-W, 950m N-S)",
       "features": "granite corestone pinnacles, gullies, walls, overhangs, occasional swimthroughs; multiple named pinnacle clusters",
       "conditions": "8km offshore False Bay; exposed to southwest swell; boat access from Simon's Town jetty (14.5km) or Miller's Point (9km)",
       "marine_life": "gully sharks in swimthroughs, large short-tailed stingrays, basket stars, feather stars, sea fans, sponges, yellowtail (seasonal)",
       "navigation_buoy": "Cardinal East marker buoy moored at ~21m",
-      "notes": "Previous description mentioned 'bronze whalers and ragged-tooth sharks' — NOT confirmed at this specific site by reviewed sources; removed. Marine life updated to source-confirmed species only.",
+      "notes": "Previous description mentioned 'bronze whalers and ragged-tooth sharks' \u2014 NOT confirmed at this specific site by reviewed sources; removed. Marine life updated to source-confirmed species only.",
       "wikidata": "Q110064499",
       "wikipedia": "en:Whittle Rock",
       "last_qa_date": "2026-05-20"
@@ -553,9 +559,9 @@
       "permit_required": true,
       "marine_life": "red bait (ascidians), coralline algae, bryozoans, nudibranchs",
       "access": "shore entry from Mackerel Beach",
-      "notes": "Previous description said 'great white sharks have been sighted on several occasions' — NOT confirmed as specific to this site; great whites also absent from False Bay since ~2018. Statement removed. Previous description said 'squid, cuttlefish, rays, fish species' — these are not confirmed at this specific site by reviewed sources.",
+      "notes": "Previous description said 'great white sharks have been sighted on several occasions' \u2014 NOT confirmed as specific to this site; great whites also absent from False Bay since ~2018. Statement removed. Previous description said 'squid, cuttlefish, rays, fish species' \u2014 these are not confirmed at this specific site by reviewed sources.",
       "seamark:type": "wreck",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-06-30"
     }
   }
 ]
