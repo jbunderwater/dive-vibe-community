@@ -3,7 +3,7 @@ name: Lobster Lairs
 lat: 4.1083
 lng: 118.6244
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -19,11 +19,11 @@ A wall riddled with small caves and crevices sheltering spiny lobsters, moray ee
 Lobster Lairs sits on Sipadan's southwestern wall, named for the large numbers of painted and ornate spiny lobsters that inhabit the countless small caves, overhangs, and crevices along the wall face. The wall geometry here is less sheer than at some of Sipadan's other sites, featuring more irregular formations with numerous holes and ledges that create ideal shelter for crustaceans, cephalopods, and moray eels. This makes Lobster Lairs one of the island's best sites for macro diving and a top-tier night dive destination, where the lobsters emerge from their lairs and the wall comes alive with nocturnal hunters.
 
 ## Site Information
-- **Location**: Sipadan Island, Sabah, Malaysia
+- **Location**: Sipadan Island, Sabah, Malaysia (southwestern wall)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-30 metres
 - **Current**: Mild to moderate
 - **Best Time**: Year-round; night dives are the highlight
