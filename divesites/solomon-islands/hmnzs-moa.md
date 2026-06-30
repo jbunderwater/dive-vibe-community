@@ -42,11 +42,11 @@ Descend to the wreck, which sits upright at 36-40 metres. Begin at the bow where
 - Carry a torch for examining the engine room interior and the bomb damage hole
 - At 36-40 metres, bottom time on air is limited -- plan for approximately 20-25 minutes of exploration time
 - Nitrox extends bottom time but the depth approaches the limits of standard EANx32 mixes
-- The wreck is compact at 51.2 metres, making it possible to see most features in a single dive with good planning
+- The wreck is compact at 51.2 metres (607 tons standard / 923 tons full load), making it possible to see most features in a single dive with good planning
 
 ## Safety Considerations
 
 This is a war grave -- do not disturb or remove any artefacts. The 36-40 metre depth requires advanced certification and careful gas management. Engine room penetration should only be attempted by divers with wreck penetration training, a torch, and backup light. The bomb hole in the starboard hull has sharp, corroded edges. Decompression stops may be required depending on your dive profile. Carry an SMB for ascent.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=383). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=383), [Wikipedia - HMNZS Moa](https://en.wikipedia.org/wiki/HMNZS_Moa_(T233)), [NZ History - Sinking of the Moa](https://nzhistory.govt.nz/war/bird-class-minesweepers/sinking-of-the-moa). Last updated 2026-06-30.*
