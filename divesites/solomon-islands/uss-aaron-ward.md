@@ -28,7 +28,7 @@ The wreck now sits upright on the seabed at approximately 63–70 metres (deck a
 - **Location**: Near Tinete Point, Nggela Sule, Iron Bottom Sound, Solomon Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (technical dive)
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 70 meters
 - **Typical Visibility**: 15–30 metres
 - **Water Temperature**: 27–28°C (cooler at depth)

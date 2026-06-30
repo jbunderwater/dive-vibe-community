@@ -49,4 +49,5 @@ The shallowest parts of the wreck begin at just 3 metres, allowing an initial or
 This is a war grave -- do not remove any artefacts. The 46-metre maximum depth at the stern propellers places this firmly in advanced/deep diving territory. Plan gas supply carefully and consider using enriched air (Nitrox) for the shallower portions. The 45-degree angle of the hull can be disorienting -- maintain situational awareness of your depth at all times. Corroded metal edges are present throughout; maintain proper buoyancy to avoid contact with the structure.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=377). Last updated 2026-04-08.*
+*Note: The precise beaching date is given as 15 October 1942 by McFadyen and Wikipedia; some sources cite 14 October 1942. The 15 October date is used here as it is supported by multiple independent sources.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=377), [Pacific Wrecks - Kyusyu Maru](https://pacificwrecks.com/ships/maru/kyusyu-maru/), [Wikipedia - Kyushu Maru](https://en.wikipedia.org/wiki/Japanese_transport_Kyushu_Maru). Last updated 2026-06-30.*

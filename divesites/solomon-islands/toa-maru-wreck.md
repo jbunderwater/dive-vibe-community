@@ -25,7 +25,7 @@ Sunk on 25 November 1943 by the American submarine USS Searaven, the Toa Maru li
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 37 meters (stern)
+- **Maximum Depth**: 37 meters
 - **Typical Visibility**: 20–40 meters
 - **Current**: Light to moderate
 - **Best Time**: April to November

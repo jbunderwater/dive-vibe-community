@@ -25,7 +25,7 @@ The Kinugawa Maru was beached on 15 November 1942, the same day as the Hirokawa 
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 27 meters (stern)
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Light
 - **Best Time**: April to November

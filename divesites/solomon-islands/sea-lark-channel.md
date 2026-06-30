@@ -53,4 +53,4 @@ Enter the water upstream on the incoming tide and drift along the reef wall. The
 Currents of 2 knots or more at channel bends are not unusual -- this dive requires drift diving experience and comfort in current. Stay close to the reef wall to manage speed and avoid being swept into open water. Carry an SMB and deploy it well before your safety stop so the boat can track you. Ensure your boat crew is experienced with drift dive pickups. Do not attempt this dive on an ebbing tide or in unfamiliar current conditions.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=379). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=379), [Emperor Divers - Guadalcanal](https://www.emperordivers.com/guadalcanal-dive-sites/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-06-30.*

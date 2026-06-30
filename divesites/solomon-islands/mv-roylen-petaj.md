@@ -53,4 +53,4 @@ Descend to the wreck in the sheltered waters of Gizo Harbour. The vessel lists t
 The harbour location provides sheltered conditions, making this one of the safest wreck dives in the Gizo area. The shallow depth eliminates decompression concerns for standard dive profiles. The wreck structure may have been weakened by age and possible tsunami damage -- avoid entering unstable-looking sections. Maintain buoyancy to avoid disturbing silt inside the hull.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=393). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=393), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-06-30.*

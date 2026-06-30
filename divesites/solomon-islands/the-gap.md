@@ -5,7 +5,7 @@ lng: 156.8
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -25,7 +25,7 @@ The reef top sits at approximately 9 metres, dropping away steeply into the chan
 
 - **Location**: SE corner of Ghizo Island, main entrance to Gizo Harbour
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 30+ metres
@@ -53,4 +53,4 @@ Descend to the reef top at approximately 9 metres, then drop down the wall to ex
 Current through the channel can be significant, particularly on tidal changes. The passage acts as a funnel that accelerates flow. Discuss current conditions with your operator before entering the water. Carry an SMB in case current carries you away from the planned exit point. The wall drops away steeply -- monitor depth when focused on the gorgonians and marine life on the wall face. The reef top at 9 metres provides a safe area to wait out current if needed.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=396). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=396), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-06-30.*

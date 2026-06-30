@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # USS Kanawha
 
-A 137-metre fleet oiler (AO-1) sunk on 7 April 1943 by Japanese dive bombers near Tulagi. The Kanawha sits upright facing south, with multiple guns visible at 43-48 metres, an accessible engine room, and propellers buried at 57-58 metres. A large, deep wreck requiring technical diving experience.
+A 145-metre fleet oiler (AO-1) attacked by Japanese dive bombers on 7 April 1943 near Tulagi during Operation I-Go; she sank early on 8 April 1943. The Kanawha sits upright facing south, with multiple guns visible at 43–48 metres, an accessible engine room, and propellers buried at 57–58 metres. A large, deep wreck requiring technical diving experience.
 
 ## Overview
 
-The USS Kanawha was a fleet oiler -- 137 metres long, designation AO-1 -- providing fuel support to US naval operations in the Solomon Islands. On 7 April 1943, the same Japanese air raid that sank HMNZS Moa also targeted the Kanawha near Tulagi. Japanese dive bombers scored multiple hits, and the oiler sank to the seabed where she now sits upright, facing south.
+The USS Kanawha was a fleet oiler — 145 metres long (475 ft 7 in), designation AO-1, the lead ship of her class — providing fuel support to US naval operations in the Solomon Islands. On 7 April 1943, Japanese aircraft attacked Tulagi during Operation I-Go. The same raid sank HMNZS Moa and USS Aaron Ward. Kanawha was struck, caught fire, and was temporarily beached; she slid off into deeper water and sank in the early hours of 8 April 1943. Nineteen crew members were lost.
 
 The wreck retains multiple gun positions visible at 43-48 metres depth. The bridge area shows fire damage from the attack. The engine room is accessible through salvage holes cut into the hull, revealing internal machinery. The propellers are buried in the seabed at approximately 57-58 metres depth.
 
@@ -38,7 +38,7 @@ Descend to the wreck, which sits upright facing south. The gun positions at 43-4
 
 ## Tips and Recommendations
 
-- At 137 metres long, this is one of the largest diveable wrecks in the Solomon Islands -- plan to focus on specific sections rather than trying to see everything
+- At 145 metres long, this is one of the largest diveable wrecks in the Solomon Islands -- plan to focus on specific sections rather than trying to see everything
 - The gun positions at 43-48 metres are the most accessible major features and make excellent photographic subjects
 - Engine room penetration through the salvage holes requires wreck diving experience, proper training, and redundant lighting
 - The fire-damaged bridge tells the story of the attack and is worth spending time on
@@ -49,4 +49,4 @@ Descend to the wreck, which sits upright facing south. The gun positions at 43-4
 This is a war grave -- do not disturb or remove any artefacts. The 43-58 metre depth range places this wreck beyond standard recreational limits. Technical diving certification, trimix or deep air experience, and appropriate equipment are required. The engine room is an overhead environment accessible only through salvage holes -- enter only with proper wreck penetration training and redundant lighting. Decompression stops are mandatory for most dive profiles. The wreck was an oiler and may have residual fuel contamination -- avoid disturbing sediment inside the hull. Carry an SMB for ascent.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=382). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=382), [Wikipedia - USS Kanawha AO-1](https://en.wikipedia.org/wiki/USS_Kanawha_(AO-1)), [NavSource - USS Kanawha](https://www.navsource.net/archives/09/19/19001.htm). Last updated 2026-06-30.*

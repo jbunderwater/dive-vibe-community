@@ -53,4 +53,5 @@ Descend to the reef top at 12 metres and locate the openings of the two vertical
 Strong current is possible at this exposed reef site. The tunnels create an overhead environment where direct ascent to the surface is not possible -- only enter them if comfortable with overhead diving. The 35-metre junction depth requires advanced certification and careful gas management. The reef drops away to 60+ metres on all sides, so losing the reef means a very deep descent. Carry an SMB for ascent if current carries you off the reef top.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=387). Last updated 2026-04-08.*
+*Note: The location reference to "Soghonangola Island" and "Bayldon Shoals" comes from McFadyen's documentation; these place names could not be independently verified in publicly available geographic sources. The site is within the Florida Islands group, near Tulagi. "Bayldon Shoals" may be an informal local name for this reef feature.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=387), [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-06-30.*

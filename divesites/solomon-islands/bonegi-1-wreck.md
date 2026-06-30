@@ -24,8 +24,8 @@ The Hirokawa Maru lies on her port side with bow sections beginning in approxima
 - **Location**: Bonegi Beach, west of Honiara, Guadalcanal, Solomon Islands
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (stern at 55–60m; bow sections accessible to Intermediate)
-- **Maximum Depth**: 55 meters (stern; beyond recreational limits)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 55 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Light to moderate
 - **Best Time**: April to November
