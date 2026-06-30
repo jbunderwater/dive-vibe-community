@@ -1,5 +1,5 @@
 ---
-name: Leru Cut Florida Islands
+name: Leru Cut
 lat: -9.0833
 lng: 160.25
 difficulty: Intermediate
@@ -11,17 +11,17 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Leru Cut Florida Islands
+## Leru Cut
 
-Leru Cut is one of the most visually dramatic dive sites in the Solomon Islands — a narrow volcanic chasm carved through an island in the Florida Islands group, creating a spectacular swim-through passage where sheer walls rise 30 meters above on each side and the sky is reduced to a thin strip of light far overhead.
+Leru Cut is one of the most visually dramatic dive sites in the Solomon Islands — a narrow volcanic chasm carved through Leru Island in the Eastern Russell Islands, creating a spectacular swim-through passage where sheer walls rise 30 meters above on each side and the sky is reduced to a thin strip of light far overhead. Note: this site is in the **Russell Islands**, not the Florida Islands as previously documented.
 
 ## Overview
 
-Despite being listed under cave-type diving, Leru Cut is technically a canyon or cut — an open-sky chasm rather than an enclosed cave. The slot is narrow enough that divers can almost touch both walls simultaneously, yet deep enough that the bottom sits at around 20 meters. The defining feature is the extraordinary light: at certain times of day, shafts of sunlight pour vertically into the chasm from the open sky above, creating shimmering light columns and mirror-like reflections that give the site an otherworldly quality. The walls themselves are draped in soft corals, sponges, and crinoids that thrive in the sheltered, low-flow environment. It is frequently cited by experienced Solomon Islands divers as one of the most memorable dives in the archipelago.
+Despite being listed under cave-type diving, Leru Cut is technically a canyon or cut — an open-sky chasm rather than an enclosed cave. The slot is approximately 5 metres wide — almost narrow enough to touch both walls — and the bottom sits at around 15–20 meters. The defining feature is the extraordinary light: at certain times of day, shafts of sunlight pour vertically into the chasm from the open sky above, creating shimmering light columns and mirror-like reflections that give the site an otherworldly quality. The walls themselves are draped in soft corals, sponges, and crinoids that thrive in the sheltered, low-flow environment. It is frequently cited by experienced Solomon Islands divers as one of the most memorable dives in the archipelago.
 
 ## Site Information
 
-- **Location**: Florida Islands, Solomon Islands
+- **Location**: Leru Island, Eastern Russell Islands, Solomon Islands (not Florida Islands)
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
@@ -59,4 +59,4 @@ Leru Cut is an overhead environment in the sense that open-sky ascent is not alw
 Leru Cut is among the most photographed dive sites in the Solomons. Wide-angle photography looking upward from the base of the chasm — with the narrow strip of sky visible far above and light shafts cutting down through the water — produces genuinely striking images. A fisheye or ultra-wide lens captures the towering wall perspective. Video of the light shafts in motion is exceptional. Macro photographers will find sponges, ascidians, and crinoids in unusual colour forms on close inspection of the walls.
 
 ---
-*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-04-04.*
+*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-06-30.*

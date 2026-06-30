@@ -49,4 +49,4 @@ This is one of the simplest dive profiles in the Solomon Islands. Descend to the
 The shallow depth and sheltered harbour location make this one of the safest dive sites in the Solomon Islands. Be mindful of boat traffic in the Gizo waterfront area -- use a dive flag and maintain awareness of surface activity. Do not touch or stand on the aircraft. The broken fuselage may have sharp edges at the break point.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=391). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=391), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Pacific Wrecks - A6M Zero Gizo](https://pacificwrecks.com/provinces/solomon_islands/western-province/gizo.html). Last updated 2026-06-30.*

@@ -2,8 +2,8 @@
 name: Bonegi 1 Wreck
 lat: -9.385861
 lng: 159.874056
-difficulty: Intermediate
-maxDepth: 34
+difficulty: Advanced
+maxDepth: 55
 entryType: shore
 siteType: wreck
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Bonegi 1 Wreck
 
-One of the most celebrated WWII wreck dives in the Pacific, the Bonegi 1 Wreck — properly known as the Hirokawa Maru — is a large Japanese transport ship sunk during the Guadalcanal campaign in November 1942. The vessel lies close to shore west of Honiara, making it one of the most accessible major wrecks in the Solomon Islands.
+One of the most celebrated WWII wreck dives in the Pacific, the Bonegi 1 Wreck — properly known as the Hirokawa Maru — is a large Japanese transport ship that was beached during the Guadalcanal campaign on 15 November 1942. The vessel lies close to shore west of Honiara, making it one of the most accessible major wrecks in the Solomon Islands, though its full depth demands respect.
 
 ## Overview
 
-The Hirokawa Maru rests at an angle with the bow sections beginning in just 2–5 meters of water, while the stern descends to around 34 meters. This dramatic depth range makes the wreck accessible to a wide range of certification levels, though the full dive to the deepest sections is best suited to intermediate divers comfortable with wreck navigation. The hull is largely intact and encrusted with decades of hard and soft coral growth, turning it into an artificial reef of extraordinary richness.
+The Hirokawa Maru lies on her port side with bow sections beginning in approximately 5 meters of water, while the stern descends to around 55–60 meters. This dramatic depth range makes the shallow bow accessible to intermediate divers, but the full dive to the stern is beyond recreational limits and is for advanced divers only. The 155-metre hull is largely intact and encrusted with decades of hard and soft coral growth, turning it into an artificial reef of extraordinary richness.
 
 ## Site Information
 
 - **Location**: Bonegi Beach, west of Honiara, Guadalcanal, Solomon Islands
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 34 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 55 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Light to moderate
 - **Best Time**: April to November
@@ -44,7 +44,8 @@ Shore entry from Bonegi Beach. The entry point is well-established and easily fo
 
 ## Tips and Recommendations
 
-- Dive the bow sections first to enjoy the shallows with full air — save depth for the stern
+- Dive the bow sections (5–25m range) first; treat the deep stern (55–60m) as a separate advanced dive
+- The stern is beyond recreational limits — advanced divers only for the full depth
 - A dive torch is essential; two torches per diver is better for wreck interior exploration
 - Maintain neutral buoyancy carefully — silt inside the holds reduces visibility quickly if disturbed
 - The site can be dived as a second wreck alongside Bonegi 2 on the same day trip
@@ -52,11 +53,11 @@ Shore entry from Bonegi Beach. The entry point is well-established and easily fo
 
 ## Safety Considerations
 
-Currents are generally mild at this site, which contributes to its accessibility. However, open-ocean swells can create surge near the entry point — check conditions before committing. Wreck penetration beyond cavern zones should only be undertaken with proper cave/wreck penetration training and equipment. The stern descends to 34 meters; plan your no-decompression limits accordingly. Always dive with a buddy and carry an SMB for any section away from the visible hull.
+Currents are generally mild at this site, which contributes to its accessibility. However, open-ocean swells can create surge near the entry point — check conditions before committing. Wreck penetration beyond cavern zones should only be undertaken with proper cave/wreck penetration training and equipment. The stern descends to 55–60 meters — well beyond recreational limits. Plan any deep dive carefully and treat the shallow bow sections as a separate dive from the deeper sections. Always dive with a buddy and carry an SMB for any section away from the visible hull.
 
 ## Photography
 
 The Hirokawa Maru is one of the most photogenic wrecks in the Pacific. The shallow bow sections provide stunning natural-light wide-angle shots, with the silhouette of the hull rising toward the surface. The coral-encrusted railings and anchor chain offer beautiful foreground detail. In the holds, a torch reveals vivid color on the encrusted walls. Macro photographers should search slowly along the hull plating for frogfish, nudibranchs, and decorator crabs.
 
 ---
-*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-04-04.*
+*Sources: [Michael McFadyen's Scuba - Hirokawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=374), [DivePlanIt - Hirokawa Maru](https://www.diveplanit.com/dive-site/hirokawa-maru-bonegi-1/), [Wannadive - Hirokawa Maru](https://www.wannadive.net/spot/Australia_Pacific/Solomon/Guadalcanal_island/Hirokawa_Maru_-_Bonegi_1/). Last updated 2026-06-30.*

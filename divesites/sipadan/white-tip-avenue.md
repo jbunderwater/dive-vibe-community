@@ -29,7 +29,7 @@ White Tip Avenue runs along Sipadan's southwestern wall, named for the large num
 - **Best Time**: Year-round for day dives; night dives are the highlight when available
 
 ## Marine Life
-Whitetip reef sharks are the defining species, found resting on sandy ledges throughout the wall during daytime dives. At night, these same sharks become active predators, and observing dozens of whitetips hunting along the reef under torchlight is one of Sipadan's most memorable experiences. Green and hawksbill turtles are common, with some resting in wall crevices overnight. Occasional leopard sharks (bamboo sharks) are encountered on the sandy patches. The reef supports healthy populations of reef fish including sweetlips, groupers, and anthias. Nudibranchs, flatworms, and crustaceans are found in wall crevices. Schools of fusiliers pass along the wall during the day.
+Whitetip reef sharks are the defining species, found resting on sandy ledges throughout the wall during daytime dives. At night, these same sharks become active predators, and observing dozens of whitetips hunting along the reef under torchlight is one of Sipadan's most memorable experiences. Grey reef sharks also patrol the wall. Green and hawksbill turtles are common, with some resting in wall crevices overnight. The reef supports healthy populations of reef fish including sweetlips, groupers, emperor angelfish, boxfish, and anthias. Enormous gorgonian sea fans and black coral colonies grow on the deeper wall sections below 30 metres. Schools of fusiliers and bumphead parrotfish pass along the wall during the day. Spotted eagle rays are occasionally sighted along the wall.
 
 ## Dive Profile
 A straightforward wall drift dive. Descend along the wall and drift with the mild current, scanning the sandy ledges and overhangs at 15-25 metres for resting whitetips. The wall drops well beyond recreational limits, so depth management is still important despite the more moderate conditions. For night dives, the profile stays shallower — 10-20 metres along the wall — focusing torchlight on the ledges where sharks hunt and the reef comes alive with nocturnal activity. Safety stop on the reef crest.
@@ -40,15 +40,15 @@ Boat dive from Mabul or Kapalai island resorts. Giant stride entry. The more she
 ## Tips and Recommendations
 - Request a night dive at this site if your operator offers it — the hunting whitetip sharks are extraordinary
 - During day dives, approach resting sharks slowly and avoid shining torches directly at them, which may disturb their rest
-- Check sandy patches between coral formations for leopard sharks, which are well camouflaged
-- Sipadan permits (120 per day) are required — night dives may require separate arrangements
+- Look along the wall edge below 30 metres for gorgonian fans and black coral colonies
+- Sipadan permits (176 per day) are required — night dives may require separate arrangements
 - The more moderate current conditions make this a good site for divers building wall diving experience
 
 ## Safety Considerations
 Though more sheltered than Barracuda Point or South Point, currents can still pick up without warning. Maintain awareness of your depth along the vertical wall. For night dives, carry a primary torch and a backup, and stay close to the divemaster. An SMB and signalling device are essential. The nearest hyperbaric chamber is in Kota Kinabalu.
 
 ## Photography
-For day dives, the resting whitetip sharks on sandy ledges are excellent subjects for wide-angle compositions with natural light. Night photography is the real highlight — hunting whitetips, active moray eels, and the dramatic torch-lit wall create powerful images. A video light or focus light is essential for night work. Macro subjects including nudibranchs and crustaceans emerge at night along the wall crevices.
+For day dives, the resting whitetip sharks on sandy ledges are excellent subjects for wide-angle compositions with natural light. Night photography is the real highlight — hunting whitetips, active moray eels, and the dramatic torch-lit wall create powerful images. A video light or focus light is essential for night work. The east-facing wall is best lit in the morning and early afternoon when the sun illuminates the reef's colours. Macro subjects including nudibranchs and crustaceans emerge at night along the wall crevices.
 
 ---
-*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*
+*Sources: [Scuba Dive Advisor White Tip Avenue Sipadan](https://www.scubadiveadvisor.com/?p=403), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/). Last updated 2026-06-30.*

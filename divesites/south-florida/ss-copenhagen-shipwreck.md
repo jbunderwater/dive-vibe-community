@@ -3,7 +3,7 @@ name: SS Copenhagen Shipwreck
 lat: 26.2059282
 lng: -80.0838659
 difficulty: Beginner
-maxDepth: 7.3
+maxDepth: 9.5
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ SS Copenhagen Shipwreck is a historic wreck dive in South Florida, North America
 
 ## Overview
 
-Historic 1900 cargo steamship wreck resting in 16-31 feet (5-9.5m) of water south of Hillsboro Inlet. The wreck features approximately 300 feet of scattered wreckage on a reef ledge. Known as one of Florida's most popular underwater preserves with an estimated 10,000 visitors annually. Open water and novice divers can safely explore the site, though caution should be exercised near the tubes due to silt accumulation. Accessible by boat and also reachable as a shore dive from Lauderdale-by-the-Sea beaches.
+Historic British cargo steamship built 1898, wrecked May 26, 1900 at the Pompano Dropoff reef south of Hillsboro Inlet. Scattered remains in 16-31 feet (5-9.5m) of water. Florida Underwater Archaeological Preserve #5, listed on the National Register of Historic Places in 2001. One of Florida's most-visited underwater preserves; accessible by boat from Pompano Beach and Fort Lauderdale.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Historic 1900 cargo steamship wreck resting in 16-31 feet (5-9.5m) of water sout
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 7.3 meters
+- **Maximum Depth**: 9.5 meters
 
 ## Marine Life
 
@@ -58,4 +58,4 @@ Boat dive from charters running out of Pompano Beach, Deerfield Beach, Lauderdal
 - The Copenhagen is a protected archaeological preserve — removal of any artifact is prohibited.
 
 ---
-*Sources: [Wikipedia — SS Copenhagen (1898)](https://en.wikipedia.org/wiki/SS_Copenhagen_(1898)), [National Park Service — SS Copenhagen Shipwreck](https://www.nps.gov/articles/sscopenhagen.htm), [Town of Lauderdale-by-the-Sea — SS Copenhagen](https://www.lauderdalebythesea-fl.gov/232/SS-Copenhagen), [NAUI Worldwide — The SS Copenhagen Shipwreck Off Pompano Beach](https://www.naui.org/the-ss-copenhagen-shipwreck-off-pompano-beach/), [South Florida Diving Headquarters — Copenhagen](https://www.southfloridadiving.com/dive-sites/wreck-dive-sites/copenhagen/). Last updated 2026-05-17.*
+*Sources: [Wikipedia — SS Copenhagen (1898)](https://en.wikipedia.org/wiki/SS_Copenhagen_(1898)), [National Park Service — SS Copenhagen Shipwreck](https://www.nps.gov/articles/sscopenhagen.htm), [NAUI Worldwide — The SS Copenhagen Shipwreck Off Pompano Beach](https://www.naui.org/the-ss-copenhagen-shipwreck-off-pompano-beach/), [Scuba Diver Life — SS Copenhagen](https://scubadiverlife.com/ss-copenhagen-florida-underwater-archaeological-preserve/), [Coralheads — Copenhagen Shipwreck](https://coralheads.com/shipwrecks-copenhagen/). Last updated 2026-06-30.*

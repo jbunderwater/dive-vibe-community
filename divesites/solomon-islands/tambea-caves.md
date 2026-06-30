@@ -49,4 +49,4 @@ The divemaster leads the group into the cave system, navigating through the inte
 While this is a relatively shallow cave dive, it involves genuine overhead environments where direct ascent to the surface is not possible. Maintain close contact with the divemaster at all times. Do not attempt to explore side passages independently. The tight squeeze section requires calm, controlled movement -- if you feel uncomfortable, communicate with your guide before entering. Carry redundant lighting. Fin carefully to avoid disturbing silt in the narrow passages.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=372). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=372), [Emperor Divers - Guadalcanal](https://www.emperordivers.com/guadalcanal-dive-sites/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-06-30.*

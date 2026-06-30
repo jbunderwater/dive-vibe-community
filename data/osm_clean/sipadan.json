@@ -12,8 +12,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "sipadan.com, scubaboard reviews, PADI dive guides"
+      "validated": "true",
+      "validation_source": "scuba-junkie.com,dive-the-world.com,divessi.com,bluewaterdivetravel.com,pulaumabul.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -29,8 +30,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "sipadan.com, scubaboard reviews, hammerhead shark sightings at 40m+"
+      "validated": "true",
+      "validation_source": "scuba-junkie.com,dive-the-world.com,divessi.com,bluewaterdivetravel.com,mabul.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -46,8 +48,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "sipadan.com dive site guide"
+      "validated": "true",
+      "validation_source": "scuba-junkie.com,dive-the-world.com,divessi.com,pulaumabul.com,mabul.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -63,8 +66,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "sipadan.com, PADI dive guides - limestone cave system with bell-shaped descent tunnel"
+      "validated": "true",
+      "validation_source": "blog.padi.com,pulaumabul.com,mabul.com,divessi.com,scuba-junkie.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -80,8 +84,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "sipadan.com, scubaboard - named for frequent whitetip shark sightings on wall descent"
+      "validated": "true",
+      "validation_source": "scubadiveadvisor.com,dive-the-world.com,divessi.com,pulaumabul.com,mabul.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -97,8 +102,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "sipadan.com - shallow reef 2-5m with soft corals, fans, barrel sponges, wall drop-off"
+      "validated": "true",
+      "validation_source": "dive-the-world.com,scuba-junkie.com,divessi.com,pulaumabul.com,mabul.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -107,15 +113,16 @@
     "lon": 118.6333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "wall",
+    "depth": 23,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "sipadan.com - shallow northeast reef 10m with acropora corals, gradual wall descent"
+      "validated": "true",
+      "validation_source": "dive-the-world.com,divessi.com,pulaumabul.com,mabul.com,scuba-junkie.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -124,15 +131,16 @@
     "lon": 118.6311,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "sipadan.com - coral formations with table corals, black coral, gorgonians, hard coral flats for safety stops"
+      "validated": "true",
+      "validation_source": "dive-the-world.com,pulaumabul.com,mabul.com,divessi.com,scuba-junkie.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -141,15 +149,16 @@
     "lon": 118.6244,
     "osm_id": null,
     "osm_type": null,
-    "depth": 22,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "sipadan.com - named for lobsters in wall crevices, superb hard/soft coral with reef sharks"
+      "validated": "true",
+      "validation_source": "dive-the-world.com,divezone.net,divessi.com,pulaumabul.com,mabul.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -158,15 +167,16 @@
     "lon": 118.6278,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "sipadan.com - coral garden with 15m plateau, wall crevices full of life, staghorn corals, mild currents"
+      "validated": "true",
+      "validation_source": "dive-the-world.com,divezone.net,divessi.com,pulaumabul.com,mabul.com",
+      "last_qa_date": "2026-06-30"
     }
   }
 ]

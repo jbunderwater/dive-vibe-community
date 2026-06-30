@@ -5,7 +5,7 @@ lng: 156.78
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -25,7 +25,7 @@ The site is known for encounters with manta rays and other large ray species. Gr
 
 - **Location**: South of Nusa Aghana Island, SE Ferguson Passage -- ~20 min from Gizo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 40+ metres at depth
@@ -53,4 +53,4 @@ Descend along the wall, which drops away steeply to more than 60 metres. The exc
 The wall drops more than 60 metres, and the exceptional visibility can create a "blue water" sensation that draws divers deeper than planned. Set a maximum depth before the dive and stick to it. Current in Ferguson Passage can be strong and unpredictable. Carry an SMB for mid-water ascents. Sea snakes are venomous but rarely aggressive -- give them space. This is an exposed oceanic site and conditions can change rapidly.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=397). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=397), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-06-30.*

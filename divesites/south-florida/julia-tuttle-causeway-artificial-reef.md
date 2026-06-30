@@ -23,7 +23,7 @@ Artificial reef built in April 2019 for Miami-Dade County, consisting of 727 ton
 
 - **Location**: South Florida, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 
@@ -37,11 +37,11 @@ Recreational depth on the boulder/barge structure is approximately 23–32 feet,
 
 ## Entry and Exit
 
-Boat dive only. The site is located in the Atlantic offshore of the Julia Tuttle Causeway corridor; coordinates for the 2019 boulder deployment are 25° 48.899' N, 80° 10.269' W. Surface conditions and approach should be coordinated with a Miami-area dive charter familiar with the artificial reef program coordinates.
+Boat dive only. The site is located in Biscayne Bay near the Julia Tuttle Causeway corridor; coordinates for the 2019 boulder deployment are 25° 48.899' N, 80° 10.269' W. Surface conditions and approach should be coordinated with a Miami-area dive charter familiar with the artificial reef program coordinates. Note: this is a fisheries-enhancement reef; no major Miami dive operators currently list it as a named charter destination.
 
 ## Safety Considerations
 
 The site lies in a busy nearshore Miami corridor with substantial recreational and commercial boat traffic — a diver-down flag is required by Florida law and an SMB on ascent is strongly recommended. Currents along this stretch of coast generally run parallel to shore and can be stronger than expected near the bottom; check conditions with the operator. The artificial structure includes rebar, concrete edges, and stacked boulders with pinch points — maintain buoyancy and avoid penetration of any voids. Standard Florida sun and hydration precautions apply topside.
 
 ---
-*Sources: [Miami-Dade County - Artificial Reef Deployments](https://www.miamidade.gov/environment/reefs-artificial-locations.asp), [Industrial Divers Corp - Environmental Artificial Reef](https://industrialdivers.com/services/environmental/artificialreef.html), [Miami-Dade Reef and Buoy Finder](https://gisweb.miamidade.gov/artificialreefs/), [Florida DEP - Biscayne Bay Aquatic Preserves Resources](https://floridadep.gov/rcp/aquatic-preserve/content/resources-biscayne-bay-aquatic-preserves). Last updated 2026-05-17.*
+*Sources: [Miami-Dade County - Artificial Reef Deployments](https://www.miamidade.gov/environment/reefs-artificial-locations.asp), [Industrial Divers Corp - Environmental Artificial Reef](https://industrialdivers.com/services/environmental/artificialreef.html), [Miami-Dade Reef and Buoy Finder](https://gisweb.miamidade.gov/artificialreefs/), [Florida DEP - Biscayne Bay Aquatic Preserves Resources](https://floridadep.gov/rcp/aquatic-preserve/content/resources-biscayne-bay-aquatic-preserves). Last updated 2026-06-30.*

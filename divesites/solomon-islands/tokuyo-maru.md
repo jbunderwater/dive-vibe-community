@@ -49,4 +49,4 @@ Descend to the wreck lying on her port side at 38 metres. The vessel's 40-metre 
 The 38-metre depth requires advanced certification and careful gas management. Bottom time on air is limited; plan ascent and safety stop carefully. Current near Ferguson Passage can be unpredictable -- carry an SMB. The wreck structure may have sharp edges from fishing equipment and deck hardware. Maintain good buoyancy to avoid contact with the hull.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=394). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=394), [DiveGizo - Dive Sites](https://www.divegizo.com/dive-sites/), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving). Last updated 2026-06-30.*

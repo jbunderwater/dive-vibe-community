@@ -41,7 +41,7 @@ Boat dive from Mabul or Kapalai island resorts. Giant stride entry with negative
 - Request the earliest dive slot for the best hammerhead probability — they are most commonly seen before 8 AM in deeper water
 - Carry a reef hook for holding position on the wall edge while watching the blue water for pelagic activity
 - Stay close to the wall when current is strongest — the overhangs provide shelter from the full force
-- Sipadan permits (120 per day) must be secured in advance through your resort
+- Sipadan permits (176 per day) must be secured in advance through your resort
 - Nitrox is strongly recommended to extend bottom time at depth where the hammerheads are encountered
 
 ## Safety Considerations
@@ -51,4 +51,4 @@ South Point regularly experiences the strongest currents on Sipadan. Down-curren
 Wide-angle with ambient light for hammerhead silhouettes against the blue water — strobes rarely reach the sharks at the distances they are typically observed. Grey reef sharks along the wall edge make more approachable subjects for strobe-lit wide-angle. The overhangs with resting whitetips and soft corals provide strong compositions. Eagle rays passing along the wall are dramatic but often fast-moving subjects. The reef crest offers turtle portraits during decompression.
 
 ---
-*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/). Last updated 2026-06-30.*

@@ -49,4 +49,5 @@ Most dives focus on the main hull section, with the shallowest point at around 3
 This is a war grave -- do not disturb or remove any artefacts. The minimum depth of 36 metres on the main section means all diving here is deep. Bottom time on air is extremely limited at these depths. The Kate wreck at 60 metres and the stern at 72 metres are beyond recreational limits and require technical diving training, equipment, and gas planning. Decompression stops are mandatory for most dive profiles on this wreck. Strong currents are possible off Lunga Point -- carry an SMB and be prepared for mid-water ascents away from the wreck.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=378). Last updated 2026-04-08.*
+*Note: The Japanese Kate torpedo bomber at the wreck is reported by McFadyen as his personal assessment ("I believe") rather than a confirmed identification from official records — treat this claim with appropriate caution.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=378), [Pacific Wrecks - USS John Penn](https://pacificwrecks.com/ships/ap/john-penn/), [NavSource - USS John Penn](https://www.navsource.net/archives/09/01/0151.htm). Last updated 2026-06-30.*

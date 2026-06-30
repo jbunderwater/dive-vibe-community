@@ -5,7 +5,7 @@ lng: -80.0583
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: wreck
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Deerfield Beach Artificial Reef
 
-Deerfield Beach Artificial Reef is a historic wreck dive in South Florida, North America.
+Deerfield Beach Artificial Reef is a reef dive site in South Florida, North America.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Part of Broward County's comprehensive artificial reef program which has deploye
 
 - **Location**: South Florida, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
@@ -33,7 +33,7 @@ The Rapa Nui Reef and surrounding artificial structures support a dense communit
 
 ## Dive Profile
 
-The headline structure at these coordinates is the Rapa Nui Reef, a 150-by-45-foot steel barge deployed on June 7, 2015 by a project funded by Boca Raton philanthropist Margaret Blume. The barge was loaded with 15 concrete Moai sculptures (8 to 22 feet tall) created by Pompano Beach artist Dennis MacDonald and totaling roughly 600,000 pounds. During the controlled sinking the barge rolled over before reaching the seafloor, crushing most of the sculptures. Today the inverted hull sits in approximately 67 to 75 feet of water about a mile off the Deerfield Beach Pier, rising about 9 feet from the sand, with the crushed Moai debris field around its base. Local divers have repositioned a few salvageable statues on the hull. The site is typically dived as an anchor dive or live-boat drift along the reef line, with bottom times limited by depth.
+The headline structure at these coordinates is the Rapa Nui Reef, a 150-by-45-foot steel barge deployed on June 7, 2015 by a project funded by Boca Raton philanthropist Margaret Blume. The barge was loaded with 15 concrete Moai sculptures (6 to 22 feet tall) created by artist Dennis MacDonald. During the controlled sinking, a passing vessel's wake caused the barge to roll before reaching the seafloor, overturning onto the sculptures and breaking or burying most of them. Today the inverted hull sits in approximately 67 to 75 feet of water about a mile off the Deerfield Beach Pier, rising about 9 feet from the sand. Volunteer divers subsequently relocated some surviving statues onto the top of the inverted hull, where they remain. The site is typically dived as an anchor dive or live-boat drift along the reef line, with bottom times limited by depth.
 
 ## Entry and Exit
 
@@ -55,4 +55,4 @@ Boat dive only. Charters depart from the Hillsboro Inlet area and Pompano Beach;
 - Florida sun, heat, and dehydration are the most common topside issues; lionfish are present on the structure.
 
 ---
-*Sources: [South Florida Diving Headquarters - Rapa Nui Reef](https://www.southfloridadiving.com/dive-sites/reef-dive-site/rapa-nui-reef/), [Broward Palm Beach New Times - Barge Sinks](https://www.browardpalmbeach.com/news/barge-sinks-ruins-500-000-rapa-nui-artificial-reef-video-7029324), [Freedom Tour Travel - Diving the Rapa Nui](https://freedomtourtravel.com/diving-the-rapa-nui-off-deerfield-beach/), [ScubaBoard - Rapa Nui Reef Thread](https://scubaboard.com/community/threads/new-artificial-reef-rapa-nui-reef-deerfield-beach.505383/). Last updated 2026-05-17.*
+*Sources: [South Florida Diving Headquarters - Rapa Nui Reef](https://www.southfloridadiving.com/dive-sites/reef-dive-site/rapa-nui-reef/), [Broward Palm Beach New Times - Barge Sinks](https://www.browardpalmbeach.com/news/barge-sinks-ruins-500-000-rapa-nui-artificial-reef-video-7029324), [Freedom Tour Travel - Diving the Rapa Nui](https://freedomtourtravel.com/diving-the-rapa-nui-off-deerfield-beach/), [ScubaBoard - Rapa Nui Reef Thread](https://scubaboard.com/community/threads/new-artificial-reef-rapa-nui-reef-deerfield-beach.505383/). Last updated 2026-06-30.*

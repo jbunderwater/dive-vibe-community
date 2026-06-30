@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "sipadan",
-    "socorro-islands",
-    "solomon-islands",
-    "south-africa",
-    "south-florida",
-    "south-pacific",
     "sri-lanka",
     "st-kitts-and-nevis",
     "st-lucia",
@@ -174,7 +168,13 @@
     "scotland",
     "seychelles",
     "silfra-fissure",
-    "sint-eustatius"
+    "sint-eustatius",
+    "sipadan",
+    "socorro-islands",
+    "solomon-islands",
+    "south-africa",
+    "south-florida",
+    "south-pacific"
   ],
   "history": [
     {
@@ -204,7 +204,7 @@
             "marine_life_stripped": 5,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 6,
-            "notes": "SAFETY: Manta Ridge Beginner→Advanced (mandatory reef hook, documented down currents). Site type corrections: reef→pinnacle (Batu Lima), reef→wall (Boo Windows/Boo Point), reef→muck (Manta Sandy). Depth corrections: Cape Kri 30→40m, Cape Mansuar 25→40m, Manta Ridge 20→40m, Friwen Garden 25→35m. 18 generic source footers replaced with actual named sources."
+            "notes": "SAFETY: Manta Ridge Beginner\u2192Advanced (mandatory reef hook, documented down currents). Site type corrections: reef\u2192pinnacle (Batu Lima), reef\u2192wall (Boo Windows/Boo Point), reef\u2192muck (Manta Sandy). Depth corrections: Cape Kri 30\u219240m, Cape Mansuar 25\u219240m, Manta Ridge 20\u219240m, Friwen Garden 25\u219235m. 18 generic source footers replaced with actual named sources."
           },
           "red-sea": {
             "sites_total": 482,
@@ -214,7 +214,7 @@
             "marine_life_stripped": 10,
             "wreck_conflicts_flagged": 8,
             "sites_unresolved": 3,
-            "notes": "CRITICAL: Kimon M builder corrected Nordseewerke/Emden → H.C. Stulcken & Sohn Hamburg (4 sources). Cedar Pride 'King Hussein' → Crown Prince Abdullah (later King Abdullah II). Sufa class Satil→Sa'ar 3-class (45m not 46m); entry_type boat→shore. Balena depth 3m→9m. Legend 'intentionally sunk' claim removed (unverified). Grumman HU-16 location 'near Hamata' corrected to Sha'ab Ohroob/Sudan border. Khanka description corrected Brothers Islands → Zabargad Island. Turbo: vessel identity flagged uncertain. 5 wreck conflicts flagged (Cedar Pride fire month, length disputes, Kimon M GRT). Wrecks validated: Kimon M, Cedar Pride, Sirnaka, Chrisoula K, Adantia K, Levanzo, Sha'ab Ohroob."
+            "notes": "CRITICAL: Kimon M builder corrected Nordseewerke/Emden \u2192 H.C. Stulcken & Sohn Hamburg (4 sources). Cedar Pride 'King Hussein' \u2192 Crown Prince Abdullah (later King Abdullah II). Sufa class Satil\u2192Sa'ar 3-class (45m not 46m); entry_type boat\u2192shore. Balena depth 3m\u21929m. Legend 'intentionally sunk' claim removed (unverified). Grumman HU-16 location 'near Hamata' corrected to Sha'ab Ohroob/Sudan border. Khanka description corrected Brothers Islands \u2192 Zabargad Island. Turbo: vessel identity flagged uncertain. 5 wreck conflicts flagged (Cedar Pride fire month, length disputes, Kimon M GRT). Wrecks validated: Kimon M, Cedar Pride, Sirnaka, Chrisoula K, Adantia K, Levanzo, Sha'ab Ohroob."
           },
           "roatan": {
             "sites_total": 428,
@@ -224,7 +224,7 @@
             "marine_life_stripped": 15,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 6,
-            "notes": "El Aguila length 50m→75m. Odyssey 73m container→91m freighter. M Alexand 'Prince of Wales' alias removed. Bear's Den nurse shark/wall → chimney cavern. 15 sites stripped of unverified nurse sharks/marine life. 199 sites corrected validated=True→False (pseudo-sources: rmp_canonical_kml_only, perplexity, geographic_context). 159 boilerplate footers replaced. 10 sites confirmed with 3+ real URL sources."
+            "notes": "El Aguila length 50m\u219275m. Odyssey 73m container\u219291m freighter. M Alexand 'Prince of Wales' alias removed. Bear's Den nurse shark/wall \u2192 chimney cavern. 15 sites stripped of unverified nurse sharks/marine life. 199 sites corrected validated=True\u2192False (pseudo-sources: rmp_canonical_kml_only, perplexity, geographic_context). 159 boilerplate footers replaced. 10 sites confirmed with 3+ real URL sources."
           },
           "saba": {
             "sites_total": 9,
@@ -234,7 +234,7 @@
             "marine_life_stripped": 4,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes": "CRITICAL: Eye of the Needle description said top 'within meters of surface' — corrected, top is at 27m depth. Tent Reef Wall depth 40m→30m. Diamond Rock depth 32m→24m. Ladder Labyrinth site_type pinnacle→reef (lava-flow ridge). Green Island reef→pinnacle. Hot Springs had most hallucinated content — generic Caribbean fish replaced with confirmed site-specific species. Torrens Point 60ft swim-through tunnel and Coral Nursery added from Sea Saba."
+            "notes": "CRITICAL: Eye of the Needle description said top 'within meters of surface' \u2014 corrected, top is at 27m depth. Tent Reef Wall depth 40m\u219230m. Diamond Rock depth 32m\u219224m. Ladder Labyrinth site_type pinnacle\u2192reef (lava-flow ridge). Green Island reef\u2192pinnacle. Hot Springs had most hallucinated content \u2014 generic Caribbean fish replaced with confirmed site-specific species. Torrens Point 60ft swim-through tunnel and Coral Nursery added from Sea Saba."
           },
           "san-diego-la-jolla": {
             "sites_total": 10,
@@ -244,7 +244,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 0,
-            "notes": "HMCS Yukon pennant DDE 265 (non-existent) → DDE 263 (Mackenzie-class). Difficulty Intermediate→Advanced (5+ diver fatalities). SS Monte Carlo depth 20m→6m (buried in 1-6m off Coronado). Zuñiga Jetty depth 25m→10m. La Jolla Canyon site_type 'canyon'→wall. Yukon Wreck DE-429 flagged as likely fabrication (US Navy hull number, not Canadian Navy). Sinking date 15 July→14 July 2000."
+            "notes": "HMCS Yukon pennant DDE 265 (non-existent) \u2192 DDE 263 (Mackenzie-class). Difficulty Intermediate\u2192Advanced (5+ diver fatalities). SS Monte Carlo depth 20m\u21926m (buried in 1-6m off Coronado). Zu\u00f1iga Jetty depth 25m\u219210m. La Jolla Canyon site_type 'canyon'\u2192wall. Yukon Wreck DE-429 flagged as likely fabrication (US Navy hull number, not Canadian Navy). Sinking date 15 July\u219214 July 2000."
           },
           "sangalaki": {
             "sites_total": 13,
@@ -254,7 +254,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes": "7 depth corrections: Blue Light Cave 65m→44m (65m is technical secondary exit only), Kelapa Dua 40m→28m, Gorgonzola 30m→23m, Manta Avenue 30m→24m, Manta Parade 30m→20m, Coral Gardens 27m→25m, North Sangalou 40m→30m. Manta Run Beginner→Intermediate. Island conflation audit passed: mantas only at Sangalaki sites, jellyfish lake snorkel-only, turtle nesting Sangalaki beach only."
+            "notes": "7 depth corrections: Blue Light Cave 65m\u219244m (65m is technical secondary exit only), Kelapa Dua 40m\u219228m, Gorgonzola 30m\u219223m, Manta Avenue 30m\u219224m, Manta Parade 30m\u219220m, Coral Gardens 27m\u219225m, North Sangalou 40m\u219230m. Manta Run Beginner\u2192Intermediate. Island conflation audit passed: mantas only at Sangalaki sites, jellyfish lake snorkel-only, turtle nesting Sangalaki beach only."
           }
         }
       },
@@ -520,7 +520,7 @@
             "marine_life_stripped": 1,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 0,
-            "notes": "RMS Rhone passenger count corrected, Santa Monica Rock sharks/mantas removed, Chikuzen build year flagged single-source, Wreck Alley Marie L corrected, The Indians reclassified reef→pinnacle"
+            "notes": "RMS Rhone passenger count corrected, Santa Monica Rock sharks/mantas removed, Chikuzen build year flagged single-source, Wreck Alley Marie L corrected, The Indians reclassified reef\u2192pinnacle"
           },
           "cabo-pulmo": {
             "sites_total": 12,
@@ -530,7 +530,7 @@
             "marine_life_stripped": 5,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 0,
-            "notes": "El Cantil reclassified wall→reef; La Esperanza depth 30→21m; La Lobera depth 8→18m; El Vencedor sinking date/length conflict documented; Las Casitas cup corals fabrication removed"
+            "notes": "El Cantil reclassified wall\u2192reef; La Esperanza depth 30\u219221m; La Lobera depth 8\u219218m; El Vencedor sinking date/length conflict documented; Las Casitas cup corals fabrication removed"
           },
           "california-channel-islands": {
             "sites_total": 10,
@@ -540,7 +540,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 3,
             "sites_unresolved": 1,
-            "notes": "Ex-Tortuga fully rewritten (was completely fabricated — wrong vessel, wrong location, wrong sinking cause); Goldenhorn nationality/location corrected; Equator explosive charges claim removed, depth 12→9m; Cuba passenger count conflict documented; Winfield Scott gold value conflict noted; Ex-Tortuga downgraded validated=false"
+            "notes": "Ex-Tortuga fully rewritten (was completely fabricated \u2014 wrong vessel, wrong location, wrong sinking cause); Goldenhorn nationality/location corrected; Equator explosive charges claim removed, depth 12\u21929m; Cuba passenger count conflict documented; Winfield Scott gold value conflict noted; Ex-Tortuga downgraded validated=false"
           },
           "canada": {
             "sites_total": 250,
@@ -550,7 +550,7 @@
             "marine_life_stripped": 50,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 3,
-            "notes": "Marco Polo wrong province/depth corrected (PEI not NS, 11m not 35m); MV Fosdyke Trader fabricated disappearance rewritten; USS LSM-56 wrong location+length corrected; HMCS Cape Breton wrong class+depth corrected; Barnard Castle depth 28→12m; 50 Nova Scotia sites had identical fabricated species lists stripped; Cypress Reef unvalidated (only 2 sources); LSM identity unconfirmed"
+            "notes": "Marco Polo wrong province/depth corrected (PEI not NS, 11m not 35m); MV Fosdyke Trader fabricated disappearance rewritten; USS LSM-56 wrong location+length corrected; HMCS Cape Breton wrong class+depth corrected; Barnard Castle depth 28\u219212m; 50 Nova Scotia sites had identical fabricated species lists stripped; Cypress Reef unvalidated (only 2 sources); LSM identity unconfirmed"
           },
           "cape-town": {
             "sites_total": 22,
@@ -560,7 +560,7 @@
             "marine_life_stripped": 12,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 0,
-            "notes": "Great white sharks absent False Bay since 2018 corrected across Shark Alley/Castle Rock/Clan Stewart; Thomas T. Tucker entry type corrected boat→shore; Het Huis te Kraaienstjin iron/bronze cannon error fixed; BOS 400 unverified cargo removed; Smitswinkel Bay scuttling dates 1972-1983 corrected; Tafelberg Reef wrong bay corrected; Partridge Point reclassified wall→reef; 3 difficulty corrections Beginner→Intermediate"
+            "notes": "Great white sharks absent False Bay since 2018 corrected across Shark Alley/Castle Rock/Clan Stewart; Thomas T. Tucker entry type corrected boat\u2192shore; Het Huis te Kraaienstjin iron/bronze cannon error fixed; BOS 400 unverified cargo removed; Smitswinkel Bay scuttling dates 1972-1983 corrected; Tafelberg Reef wrong bay corrected; Partridge Point reclassified wall\u2192reef; 3 difficulty corrections Beginner\u2192Intermediate"
           },
           "cayman-islands": {
             "sites_total": 16,
@@ -570,7 +570,7 @@
             "marine_life_stripped": 7,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 2,
-            "notes": "Ghost Mountain CRITICAL: coordinates were for Little Cayman not Grand Cayman — entire description rewritten; Cali depth 28→9m; Balboa depth 32→10m; Keith Tibbetts depth 50→26m; Stingray City depth 12→5m; Orange Canyon depth 25→30m; Kittiwake black box→flight data recorder; Chinese Wall and Japanese Garden unresolved (< 3 site-specific sources)"
+            "notes": "Ghost Mountain CRITICAL: coordinates were for Little Cayman not Grand Cayman \u2014 entire description rewritten; Cali depth 28\u21929m; Balboa depth 32\u219210m; Keith Tibbetts depth 50\u219226m; Stingray City depth 12\u21925m; Orange Canyon depth 25\u219230m; Kittiwake black box\u2192flight data recorder; Chinese Wall and Japanese Garden unresolved (< 3 site-specific sources)"
           }
         }
       },
@@ -687,7 +687,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 6,
-            "notes": "Cantarell Sand Reef CRITICAL safety fix reef→wall depth 10→30m Beginner→Advanced; Punta Sur Reef reclassified cave; C-53 location corrected; Hurricane Wilma sponge hallucination removed; Barracuda Reef safety rewrite"
+            "notes": "Cantarell Sand Reef CRITICAL safety fix reef\u2192wall depth 10\u219230m Beginner\u2192Advanced; Punta Sur Reef reclassified cave; C-53 location corrected; Hurricane Wilma sponge hallucination removed; Barracuda Reef safety rewrite"
           },
           "croatia": {
             "sites_total": 49,
@@ -697,7 +697,7 @@
             "marine_life_stripped": 34,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 33,
-            "notes": "33 previously-validated sites reverted (weak perplexity/generic sources); Baron Gautsch casualties 150→127; Stuka nationality German→Italian Air Force; Francesca da Rimini sinking date conflict flagged; Wreck Tihany location+depth corrected; Mali Plavnik reef→wall; El Hawi Star vessel history added"
+            "notes": "33 previously-validated sites reverted (weak perplexity/generic sources); Baron Gautsch casualties 150\u2192127; Stuka nationality German\u2192Italian Air Force; Francesca da Rimini sinking date conflict flagged; Wreck Tihany location+depth corrected; Mali Plavnik reef\u2192wall; El Hawi Star vessel history added"
           },
           "curacao": {
             "sites_total": 21,
@@ -707,7 +707,7 @@
             "marine_life_stripped": 11,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 2,
-            "notes": "Airplane Wreck depth 18→29m + condition corrected (not intact); Playa Kalki/Marie Pampoen/Snake Bay/Boka Sami reclassified wall→reef; Catherine entry boat+depth 20→6m; Tugboat sinking conflict documented; Superior Producer nurse sharks removed; 5 missing markdown files created"
+            "notes": "Airplane Wreck depth 18\u219229m + condition corrected (not intact); Playa Kalki/Marie Pampoen/Snake Bay/Boka Sami reclassified wall\u2192reef; Catherine entry boat+depth 20\u21926m; Tugboat sinking conflict documented; Superior Producer nurse sharks removed; 5 missing markdown files created"
           },
           "cyprus": {
             "sites_total": 22,
@@ -717,7 +717,7 @@
             "marine_life_stripped": 8,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 3,
-            "notes": "HMS Cricket length 35→72m (was fabricated); Cricket sinking date conflict flagged 1944 vs 1947; Costandis length 30→23m; Green Bay MUSAN misattribution corrected; Zenobia GRT+lorry count conflicts documented; Fred Wreck depth 20→29m; Liberty Wreck Advanced→Intermediate"
+            "notes": "HMS Cricket length 35\u219272m (was fabricated); Cricket sinking date conflict flagged 1944 vs 1947; Costandis length 30\u219223m; Green Bay MUSAN misattribution corrected; Zenobia GRT+lorry count conflicts documented; Fred Wreck depth 20\u219229m; Liberty Wreck Advanced\u2192Intermediate"
           },
           "czech-republic": {
             "sites_total": 16,
@@ -727,7 +727,7 @@
             "marine_life_stripped": 2,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 5,
-            "notes": "Lom Bořená Hora crash location corrected + depth 11→6-8m + cosmonaut→astronaut; Jezero Barbora spring-fed claim removed; Lom Šífr Slovakia geography error removed; Hranická Propast access restriction noted"
+            "notes": "Lom Bo\u0159en\u00e1 Hora crash location corrected + depth 11\u21926-8m + cosmonaut\u2192astronaut; Jezero Barbora spring-fed claim removed; Lom \u0160\u00edfr Slovakia geography error removed; Hranick\u00e1 Propast access restriction noted"
           }
         }
       },
@@ -760,7 +760,7 @@
             "marine_life_stripped": 3,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 1,
-            "notes": "Le Grumier renamed Le Faon (MV Priamos); Ghoubbet wall→reef depth 25m→8m; Moucha sinking year 1975→1974; Torricelli/La Dame Blanche descriptions separated; Whale Shark Point validated=false"
+            "notes": "Le Grumier renamed Le Faon (MV Priamos); Ghoubbet wall\u2192reef depth 25m\u21928m; Moucha sinking year 1975\u21921974; Torricelli/La Dame Blanche descriptions separated; Whale Shark Point validated=false"
           },
           "dominica": {
             "sites_total": 12,
@@ -770,7 +770,7 @@
             "marine_life_stripped": 2,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes": "Whale Shark Reef whale sharks removed; Point Guignard nurse sharks removed; Champagne Reef sponge species list stripped; Soufrière Pinnacle wall→pinnacle; L'Abym + Scotts Head Advanced→Intermediate"
+            "notes": "Whale Shark Reef whale sharks removed; Point Guignard nurse sharks removed; Champagne Reef sponge species list stripped; Soufri\u00e8re Pinnacle wall\u2192pinnacle; L'Abym + Scotts Head Advanced\u2192Intermediate"
           },
           "dominican-republic": {
             "sites_total": 17,
@@ -780,7 +780,7 @@
             "marine_life_stripped": 5,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 1,
-            "notes": "St. George location corrected Samaná→Bayahibe; Astron cargo→oil tanker near Punta Cana not Samaná; Atlantic Princess location corrected; La Caleta Hickory 46m→43-44m salvage ship; Zingara length/year conflict documented; Las Galeras Divers marked commercial operator not dive site"
+            "notes": "St. George location corrected Saman\u00e1\u2192Bayahibe; Astron cargo\u2192oil tanker near Punta Cana not Saman\u00e1; Atlantic Princess location corrected; La Caleta Hickory 46m\u219243-44m salvage ship; Zingara length/year conflict documented; Las Galeras Divers marked commercial operator not dive site"
           },
           "dry-tortugas": {
             "sites_total": 9,
@@ -790,7 +790,7 @@
             "marine_life_stripped": 3,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 1,
-            "notes": "White Shoal 24m→6m; Little Africa location+depth corrected; Fort Jefferson Wall 4.5m→2.5m; Windjammer date conflict Jan 9 vs 22 1907 flagged; Brilliant Shoal validated=false (no site-specific sources)"
+            "notes": "White Shoal 24m\u21926m; Little Africa location+depth corrected; Fort Jefferson Wall 4.5m\u21922.5m; Windjammer date conflict Jan 9 vs 22 1907 flagged; Brilliant Shoal validated=false (no site-specific sources)"
           },
           "dutch-caribbean": {
             "sites_total": 115,
@@ -800,7 +800,7 @@
             "marine_life_stripped": 4,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 7,
-            "notes": "Charles L. Brown length 130m→100m + sinking date Jan→Jul 25 2003; STENAPA Reef reef→wreck depth 6m→20m; Sint Eustatius/Saba non-URL sources replaced with real domains; Third Encounter/Man O War/Diamond Rock depths corrected"
+            "notes": "Charles L. Brown length 130m\u2192100m + sinking date Jan\u2192Jul 25 2003; STENAPA Reef reef\u2192wreck depth 6m\u219220m; Sint Eustatius/Saba non-URL sources replaced with real domains; Third Encounter/Man O War/Diamond Rock depths corrected"
           },
           "eastern-caribbean": {
             "sites_total": 103,
@@ -810,7 +810,7 @@
             "marine_life_stripped": 17,
             "wreck_conflicts_flagged": 3,
             "sites_unresolved": 3,
-            "notes": "Bianca C length/cause/deaths corrected; Shakem scuttled→storm sank; Veronica L sinking corrected; Purple Rain wall→reef; Maverick year+name corrected; Tobago Cathedral cave→reef; Bookends topography corrected; St Kitts JSON structural bug fixed; Daini Koyomaru length/depth conflict documented"
+            "notes": "Bianca C length/cause/deaths corrected; Shakem scuttled\u2192storm sank; Veronica L sinking corrected; Purple Rain wall\u2192reef; Maverick year+name corrected; Tobago Cathedral cave\u2192reef; Bookends topography corrected; St Kitts JSON structural bug fixed; Daini Koyomaru length/depth conflict documented"
           }
         }
       },
@@ -827,7 +827,7 @@
         "flower-garden-banks",
         "france"
       ],
-      "notes": "ecuador (group)→galapagos-islands; egypt (group)→red-sea (29/482 sites processed, wrecks+famous sites); france (group)→port-cros. galapagos-islands, red-sea, port-cros remain in queue for dedicated passes.",
+      "notes": "ecuador (group)\u2192galapagos-islands; egypt (group)\u2192red-sea (29/482 sites processed, wrecks+famous sites); france (group)\u2192port-cros. galapagos-islands, red-sea, port-cros remain in queue for dedicated passes.",
       "summary": {
         "sites_total": 552,
         "sites_processed_today": 99,
@@ -847,7 +847,7 @@
             "marine_life_stripped": 3,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes_detail": "Bartolome underwater penguins removed; Daphne Minor marine iguana feeding removed; Baltra exotic species list removed; Plazas wall→reef; Kicker Rock 25→30m; Cabo Marshall 22→30m; Daphne Minor 20→23m; Bartolome 27→25m; all 16 sites re-audited with 3+ sources"
+            "notes_detail": "Bartolome underwater penguins removed; Daphne Minor marine iguana feeding removed; Baltra exotic species list removed; Plazas wall\u2192reef; Kicker Rock 25\u219230m; Cabo Marshall 22\u219230m; Daphne Minor 20\u219223m; Bartolome 27\u219225m; all 16 sites re-audited with 3+ sources"
           },
           "egypt": {
             "notes": "group slug; child red-sea processed (29/482 sites)",
@@ -859,7 +859,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 4,
-            "notes_detail": "Carnatic paddlewheel→screw steamship; SS Umbria 360k bombs→6000t; Thistlegorm length 128→126.5m + 4→9 killed; Dunraven struck Jan not Apr 1876; Blue Belt Saudi not Sudanese + depth 20→21-90m; Yolanda Reef hull fell off 1987; Cedar Pride length 95→74m; Hamada depth 20→14m; The Bells entry_type boat→shore; plane wreck location corrected away from Ras Muhammad; Salem Express death toll range documented; Chrisoula K tonnage conflict noted"
+            "notes_detail": "Carnatic paddlewheel\u2192screw steamship; SS Umbria 360k bombs\u21926000t; Thistlegorm length 128\u2192126.5m + 4\u21929 killed; Dunraven struck Jan not Apr 1876; Blue Belt Saudi not Sudanese + depth 20\u219221-90m; Yolanda Reef hull fell off 1987; Cedar Pride length 95\u219274m; Hamada depth 20\u219214m; The Bells entry_type boat\u2192shore; plane wreck location corrected away from Ras Muhammad; Salem Express death toll range documented; Chrisoula K tonnage conflict noted"
           },
           "fiji": {
             "sites_total": 15,
@@ -869,7 +869,7 @@
             "marine_life_stripped": 6,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 3,
-            "notes_detail": "E6 location Beqa→Bligh Water + reef→pinnacle (critical); Shark Reef depth 25→30m + transit 30-40→15-20min; Great White Wall tunnel 10→15m + monthly tidal access window; Nigali Passage west→northwest coast; Manta Reef cleaning→feeding station; Cathedral Beqa reef→cave; Zoo/Supermarket Namena and Samu Reef Kadavu unresolved"
+            "notes_detail": "E6 location Beqa\u2192Bligh Water + reef\u2192pinnacle (critical); Shark Reef depth 25\u219230m + transit 30-40\u219215-20min; Great White Wall tunnel 10\u219215m + monthly tidal access window; Nigali Passage west\u2192northwest coast; Manta Reef cleaning\u2192feeding station; Cathedral Beqa reef\u2192cave; Zoo/Supermarket Namena and Samu Reef Kadavu unresolved"
           },
           "florida-keys": {
             "sites_total": 13,
@@ -879,7 +879,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 3,
-            "notes_detail": "Lugano route Liverpool→Havana not Galveston→Hamburg; Vandenberg Mercury/Gemini/Apollo corrected + 1000 compartments removed; Vandenberg Intermediate→Advanced; Molasses Reef Slobodna spelling corrected; USCGC Duane NOAA U-77 error documented (correct: U-175); Triumph Reef/Rachel Bank/Wisteria unresolved"
+            "notes_detail": "Lugano route Liverpool\u2192Havana not Galveston\u2192Hamburg; Vandenberg Mercury/Gemini/Apollo corrected + 1000 compartments removed; Vandenberg Intermediate\u2192Advanced; Molasses Reef Slobodna spelling corrected; USCGC Duane NOAA U-77 error documented (correct: U-175); Triumph Reef/Rachel Bank/Wisteria unresolved"
           },
           "flower-garden-banks": {
             "sites_total": 8,
@@ -889,7 +889,7 @@
             "marine_life_stripped": 2,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 1,
-            "notes_detail": "Winter temp 4-9°C→20-21°C (Gulf of Mexico, was completely wrong); manta count standardized to 100+; Stetson Bank wall→pinnacle; Geyer Bank depth 39.6→32m; Rankin Bank rewritten as technical-only >50m; M/V Spree operator reference removed; East FGB Stairway unresolved (not in any NOAA source)"
+            "notes_detail": "Winter temp 4-9\u00b0C\u219220-21\u00b0C (Gulf of Mexico, was completely wrong); manta count standardized to 100+; Stetson Bank wall\u2192pinnacle; Geyer Bank depth 39.6\u219232m; Rankin Bank rewritten as technical-only >50m; M/V Spree operator reference removed; East FGB Stairway unresolved (not in any NOAA source)"
           },
           "france": {
             "notes": "group slug; child port-cros processed",
@@ -900,7 +900,7 @@
             "marine_life_stripped": 7,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 4,
-            "notes_detail": "Wildcat aircraft origin two-theory conflict documented; La Gabinière + Gabinière Est reef→wall; La Tantine/Wildcat generic species lists stripped; Le Grec sinking date conflict 21Nov vs 3Dec 1945; Les Deux Frères/Pierre de Bagaud/Pointe du Cognet/l'Esquadillon unresolved"
+            "notes_detail": "Wildcat aircraft origin two-theory conflict documented; La Gabini\u00e8re + Gabini\u00e8re Est reef\u2192wall; La Tantine/Wildcat generic species lists stripped; Le Grec sinking date conflict 21Nov vs 3Dec 1945; Les Deux Fr\u00e8res/Pierre de Bagaud/Pointe du Cognet/l'Esquadillon unresolved"
           }
         }
       },
@@ -1002,9 +1002,9 @@
         "hallucinations_removed": "multiple (Corsair date, Mahi identity, depth errors feet-as-meters, 600+ species claims, manta species)",
         "marine_life_stripped": "multiple across all 4 destinations",
         "wreck_conflicts_flagged": 5,
-        "type_corrections": "Kohala Coast wall→cave, General Store reef→wreck, Brenneckes Ledge reef→wall, Sharks Cove reef→cave, Enenue wall→reef",
-        "depth_corrections": "Kauai: 4 sites (75-130m → realistic); Maui: 8 sites (all 25m placeholder); Oahu: 4 sites (feet-as-meters errors)",
-        "difficulty_corrections": "Puako Reef Beginner→Intermediate, Brenneckes Ledge Intermediate→Advanced, Honokohau Harbor Beginner→Intermediate, Electric Beach Beginner→Intermediate",
+        "type_corrections": "Kohala Coast wall\u2192cave, General Store reef\u2192wreck, Brenneckes Ledge reef\u2192wall, Sharks Cove reef\u2192cave, Enenue wall\u2192reef",
+        "depth_corrections": "Kauai: 4 sites (75-130m \u2192 realistic); Maui: 8 sites (all 25m placeholder); Oahu: 4 sites (feet-as-meters errors)",
+        "difficulty_corrections": "Puako Reef Beginner\u2192Intermediate, Brenneckes Ledge Intermediate\u2192Advanced, Honokohau Harbor Beginner\u2192Intermediate, Electric Beach Beginner\u2192Intermediate",
         "status": "complete"
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/85"
@@ -1066,7 +1066,7 @@
             "marine_life_stripped": 3,
             "wreck_conflicts_flagged": 4,
             "sites_unresolved": 3,
-            "notes": "Cedar Pride length 74m vs 80m + tonnage conflict documented; Soufa/Yatouche/UMM flagged with Israeli coordinates — likely scraped from Israeli Eilat side of border; Gorgon 1 two-fans corrected; Tank service dates removed"
+            "notes": "Cedar Pride length 74m vs 80m + tonnage conflict documented; Soufa/Yatouche/UMM flagged with Israeli coordinates \u2014 likely scraped from Israeli Eilat side of border; Gorgon 1 two-fans corrected; Tank service dates removed"
           },
           "kenya-coast": {
             "sites_total": 10,
@@ -1076,7 +1076,7 @@
             "marine_life_stripped": 5,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 1,
-            "notes": "Mtwapa Creek reef→drift, depth 15→23m, Intermediate→Advanced; MV Dania length 77→75m (Wikipedia) + scuttling date conflict Oct 25 vs 27 2002; Tewa Caves grouper weight 363kg→200kg; Sita Reef unresolved (no independent sources); Shimoni Caves whale shark claim removed"
+            "notes": "Mtwapa Creek reef\u2192drift, depth 15\u219223m, Intermediate\u2192Advanced; MV Dania length 77\u219275m (Wikipedia) + scuttling date conflict Oct 25 vs 27 2002; Tewa Caves grouper weight 363kg\u2192200kg; Sita Reef unresolved (no independent sources); Shimoni Caves whale shark claim removed"
           },
           "koh-tao": {
             "sites_total": 17,
@@ -1086,7 +1086,7 @@
             "marine_life_stripped": 1,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 0,
-            "notes": "HTMS Sattakut: all 3 Pacific campaigns named, US hull LCI(M)-739 vs LCI(L)-736 conflict documented, build date early 1944; Chumpon Pinnacle 35→40m + Intermediate→Advanced; distance corrected 5km→12km northwest of Koh Tao; Japanese Garden pinktail triggerfish added (only Koh Tao site), turtles downgraded to occasional; Pottery depth 18→12m; Buoyancy miniature shipwreck claim removed (concrete sculptures confirmed)"
+            "notes": "HTMS Sattakut: all 3 Pacific campaigns named, US hull LCI(M)-739 vs LCI(L)-736 conflict documented, build date early 1944; Chumpon Pinnacle 35\u219240m + Intermediate\u2192Advanced; distance corrected 5km\u219212km northwest of Koh Tao; Japanese Garden pinktail triggerfish added (only Koh Tao site), turtles downgraded to occasional; Pottery depth 18\u219212m; Buoyancy miniature shipwreck claim removed (concrete sculptures confirmed)"
           },
           "komodo-national-park": {
             "sites_total": 43,
@@ -1096,7 +1096,7 @@
             "marine_life_stripped": 5,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 6,
-            "notes": "CRITICAL: Crystal Bay description was fabricated from Nusa Penida Crystal Bay 400km away — full rewrite; Mawan mandarin fish wrong site (mandarin fish at Wainilu); 7 type corrections; 5 depth corrections; 4 difficulty corrections incl Bonsai Intermediate→Advanced; Big Nose/Gaja Rock/Loh Sera/Payong/Seraya Kecil/Padar Bay unresolved"
+            "notes": "CRITICAL: Crystal Bay description was fabricated from Nusa Penida Crystal Bay 400km away \u2014 full rewrite; Mawan mandarin fish wrong site (mandarin fish at Wainilu); 7 type corrections; 5 depth corrections; 4 difficulty corrections incl Bonsai Intermediate\u2192Advanced; Big Nose/Gaja Rock/Loh Sera/Payong/Seraya Kecil/Padar Bay unresolved"
           }
         }
       },
@@ -1131,7 +1131,7 @@
             "marine_life_stripped": 2,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 0,
-            "notes": "La Paz Salvatierra sinking date conflict documented (PADI 1975 vs operator sources 1976); Fang Ming depth 16m→22m (bajadiving.com vs divers-guide.com); La Reina depth 25m→26m; San Rafaelito depth 15m→16m; manta group size claim 8+ mantas flagged as unverified marketing; 3+ source domains per site"
+            "notes": "La Paz Salvatierra sinking date conflict documented (PADI 1975 vs operator sources 1976); Fang Ming depth 16m\u219222m (bajadiving.com vs divers-guide.com); La Reina depth 25m\u219226m; San Rafaelito depth 15m\u219216m; manta group size claim 8+ mantas flagged as unverified marketing; 3+ source domains per site"
           },
           "lembeh-strait": {
             "sites_total": 13,
@@ -1141,7 +1141,7 @@
             "marine_life_stripped": 3,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes": "Angel's Window reclassified muck→pinnacle (cave swim-through); Nudi Falls reclassified muck→wall (mini-wall); Retak Larry depth 25m→20m; Aer Bajo depth 25m→22m; name origins corrected: Hairball (not hairy frogfish), Retak Larry (Larry Smith wardrobe malfunction, not 'crack in rock'), Jahir (named after local guide, not 'early exploration'); WWII Zero Fighter description corrected to Mitsubishi A6M"
+            "notes": "Angel's Window reclassified muck\u2192pinnacle (cave swim-through); Nudi Falls reclassified muck\u2192wall (mini-wall); Retak Larry depth 25m\u219220m; Aer Bajo depth 25m\u219222m; name origins corrected: Hairball (not hairy frogfish), Retak Larry (Larry Smith wardrobe malfunction, not 'crack in rock'), Jahir (named after local guide, not 'early exploration'); WWII Zero Fighter description corrected to Mitsubishi A6M"
           },
           "lombok": {
             "sites_total": 25,
@@ -1151,7 +1151,7 @@
             "marine_life_stripped": 6,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 5,
-            "notes": "Jack Point difficulty Intermediate→Advanced; Meno Corner difficulty Intermediate→Beginner + drift→reef; Shallow Turbo validated; all 5 Biorock sites validated; Turtle Point location dispute flagged (coordinates don't match operator descriptions), validated=false; Bounty sinking date conflict 1999 vs 2001 vs 2003 documented; Air Wall reclassification and bumphead parrotfish removed; Segaluh/Teluk NBoro/Trawangan Wall/Lombok Dive/Turtle Point unresolved"
+            "notes": "Jack Point difficulty Intermediate\u2192Advanced; Meno Corner difficulty Intermediate\u2192Beginner + drift\u2192reef; Shallow Turbo validated; all 5 Biorock sites validated; Turtle Point location dispute flagged (coordinates don't match operator descriptions), validated=false; Bounty sinking date conflict 1999 vs 2001 vs 2003 documented; Air Wall reclassification and bumphead parrotfish removed; Segaluh/Teluk NBoro/Trawangan Wall/Lombok Dive/Turtle Point unresolved"
           },
           "lord-howe-island": {
             "sites_total": 8,
@@ -1161,7 +1161,7 @@
             "marine_life_stripped": 1,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 1,
-            "notes": "Erscott's Hole reclassified cave→reef (not a true cave, a rocky crevice); Malabar Reef depth 18m→21m; Tenth of June depth 30m→36m; Admiralty Islands depth 40m→35m; Ball's Pyramid depth corrections; Malabar Rock unresolved (no site-specific sources)"
+            "notes": "Erscott's Hole reclassified cave\u2192reef (not a true cave, a rocky crevice); Malabar Reef depth 18m\u219221m; Tenth of June depth 30m\u219236m; Admiralty Islands depth 40m\u219235m; Ball's Pyramid depth corrections; Malabar Rock unresolved (no site-specific sources)"
           },
           "los-cabos": {
             "sites_total": 13,
@@ -1181,7 +1181,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 2,
-            "notes": "Shark Point depth 20m→35m + difficulty Intermediate→Advanced; Manta divesite reclassified wall→reef + depth 30m→21m; Rosado site name flagged (probably Banco Rosario, no sources confirm 'Rosado'); Rosado and Ranobe Reef unresolved"
+            "notes": "Shark Point depth 20m\u219235m + difficulty Intermediate\u2192Advanced; Manta divesite reclassified wall\u2192reef + depth 30m\u219221m; Rosado site name flagged (probably Banco Rosario, no sources confirm 'Rosado'); Rosado and Ranobe Reef unresolved"
           }
         }
       },
@@ -1225,7 +1225,7 @@
             "marine_life_stripped": 4,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 124,
-            "notes": "last_qa_date 2026-06-15 added to all 137 sites. Victory Wreck orientation corrected (upright not port-side; 83m confirmed vs 95m false figure). Halaveli site_type pinnacle→wreck (per OSM wreck tags). Kudhi Maa depth 20→30m. Rannamaari depth 42→26m + Advanced→Intermediate. Miyaru Kandu atoll corrected South Male→Vaavu. Keyodhoo warning: wreck drifted off reef early 2025, coordinates unreliable. 124 sites: generic attribution replaced with honest 'no site-specific sources found'. MV Xlendi orientation CRITICAL FIX: lies on starboard side (capsized), not upright. MV Karwela location: Xatt l-Ahmar Gozo (not North Malta)."
+            "notes": "last_qa_date 2026-06-15 added to all 137 sites. Victory Wreck orientation corrected (upright not port-side; 83m confirmed vs 95m false figure). Halaveli site_type pinnacle\u2192wreck (per OSM wreck tags). Kudhi Maa depth 20\u219230m. Rannamaari depth 42\u219226m + Advanced\u2192Intermediate. Miyaru Kandu atoll corrected South Male\u2192Vaavu. Keyodhoo warning: wreck drifted off reef early 2025, coordinates unreliable. 124 sites: generic attribution replaced with honest 'no site-specific sources found'. MV Xlendi orientation CRITICAL FIX: lies on starboard side (capsized), not upright. MV Karwela location: Xatt l-Ahmar Gozo (not North Malta)."
           },
           "malta-and-gozo": {
             "sites_total": 119,
@@ -1235,7 +1235,7 @@
             "marine_life_stripped": 10,
             "wreck_conflicts_flagged": 5,
             "sites_unresolved": 2,
-            "notes": "119 sites (was 121: removed Mgarr-ix-Xini CSV duplicate + Sliema House Reef alias). 81 JSON field corrections. Critical entry_type fixes: Big Bear→shore, Washing Machine→shore, Xwejni Bay→shore, Xatt l-Ahmar→shore, Canyon→boat, Blue Lagoon Tunnel→boat. Bottleneck Cave depth 20→37m (technical 37-58m, NOT recreational). Alex Cave depth 20→16m. Jesus of Qawra depth 25→35m. Site types: Filfla reef→wall, Madonna reef→cave, Anchor Bay reef→cave, Ahrax Bay reef→cave, Mellieha reef→beach. HMD Trusty Star designation corrected (not HMS). HMS Urge: NOT a recreational dive site — war grave/expedition only. Tower wreck opening date corrected Aug 2023 (not 2024). Douglas Skyraider + HMS Russell NOT WWII (1947 peacetime + WWI 1916). Sliema House Reef removed (alias). Xemxija Bay + St George Bay flagged unverified. Spitfire conflicts: pilot name conflict unresolved. 2 Junkers JU88 wrecks (North 55m + South 106m)."
+            "notes": "119 sites (was 121: removed Mgarr-ix-Xini CSV duplicate + Sliema House Reef alias). 81 JSON field corrections. Critical entry_type fixes: Big Bear\u2192shore, Washing Machine\u2192shore, Xwejni Bay\u2192shore, Xatt l-Ahmar\u2192shore, Canyon\u2192boat, Blue Lagoon Tunnel\u2192boat. Bottleneck Cave depth 20\u219237m (technical 37-58m, NOT recreational). Alex Cave depth 20\u219216m. Jesus of Qawra depth 25\u219235m. Site types: Filfla reef\u2192wall, Madonna reef\u2192cave, Anchor Bay reef\u2192cave, Ahrax Bay reef\u2192cave, Mellieha reef\u2192beach. HMD Trusty Star designation corrected (not HMS). HMS Urge: NOT a recreational dive site \u2014 war grave/expedition only. Tower wreck opening date corrected Aug 2023 (not 2024). Douglas Skyraider + HMS Russell NOT WWII (1947 peacetime + WWI 1916). Sliema House Reef removed (alias). Xemxija Bay + St George Bay flagged unverified. Spitfire conflicts: pilot name conflict unresolved. 2 Junkers JU88 wrecks (North 55m + South 106m)."
           },
           "manado-bunaken": {
             "sites_total": 0,
@@ -1245,7 +1245,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes": "Deferred — second batch not dispatched due to rate limiting in first batch."
+            "notes": "Deferred \u2014 second batch not dispatched due to rate limiting in first batch."
           },
           "marshall-islands": {
             "sites_total": 0,
@@ -1255,7 +1255,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes": "Deferred — second batch not dispatched due to rate limiting in first batch."
+            "notes": "Deferred \u2014 second batch not dispatched due to rate limiting in first batch."
           },
           "martinique": {
             "sites_total": 0,
@@ -1265,7 +1265,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes": "Deferred — second batch not dispatched due to rate limiting in first batch."
+            "notes": "Deferred \u2014 second batch not dispatched due to rate limiting in first batch."
           }
         }
       },
@@ -1297,12 +1297,12 @@
           "unresolved": 1
         },
         "mexico": {
-          "note": "group slug — child destinations already processed (Cozumel corrections applied)",
+          "note": "group slug \u2014 child destinations already processed (Cozumel corrections applied)",
           "sites_total": 87,
           "corrections": 6
         },
         "micronesia": {
-          "note": "group slug — Chuuk Lagoon child processed",
+          "note": "group slug \u2014 Chuuk Lagoon child processed",
           "sites_total": 25,
           "validated": 25,
           "wreck_conflicts": 5
@@ -1361,7 +1361,7 @@
             "marine_life_stripped": 3,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 0,
-            "notes": "Devils Grotto freshwater corrected (was saline); La Dieppoise vessel name HMCS Chaleur Bay→HMCS Chaleur (MCB 144); Boulari Pass depth 21→26m + shark feeding ban 2012 noted; Amadee Island species counts removed; all 8 sites 3+ sources"
+            "notes": "Devils Grotto freshwater corrected (was saline); La Dieppoise vessel name HMCS Chaleur Bay\u2192HMCS Chaleur (MCB 144); Boulari Pass depth 21\u219226m + shark feeding ban 2012 noted; Amadee Island species counts removed; all 8 sites 3+ sources"
           },
           "new-england": {
             "sites_total": 48,
@@ -1370,7 +1370,7 @@
             "marine_life_stripped": 5,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 37,
-            "notes": "SS James Longstreet depth 30→8m + location corrected (Eastham not Wellfleet) + unexploded ordnance warning; Wanderer depth 25→6m + Intermediate→Beginner; USS Grouse 20→6m; Brenton Reef LV-39 history added; Ada K Damon diving PROHIBITED corrected; Bass Rock site_type wreck→reef; 37 sites unresolved (<3 sources)"
+            "notes": "SS James Longstreet depth 30\u21928m + location corrected (Eastham not Wellfleet) + unexploded ordnance warning; Wanderer depth 25\u21926m + Intermediate\u2192Beginner; USS Grouse 20\u21926m; Brenton Reef LV-39 history added; Ada K Damon diving PROHIBITED corrected; Bass Rock site_type wreck\u2192reef; 37 sites unresolved (<3 sources)"
           },
           "new-jersey": {
             "sites_total": 11,
@@ -1379,7 +1379,7 @@
             "marine_life_stripped": 2,
             "wreck_conflicts_flagged": 3,
             "sites_unresolved": 0,
-            "notes": "USS San Diego coordinates corrected (inland→offshore Fire Island); Axel Carlson site_type reef→wreck; Texas Tower 4 one→two bodies recovered; U-869 attribution corrected; Great Isaac length 185ft USCG/195ft class; Tolten crew conflict documented; USS Algol unconfirmed marine life stripped"
+            "notes": "USS San Diego coordinates corrected (inland\u2192offshore Fire Island); Axel Carlson site_type reef\u2192wreck; Texas Tower 4 one\u2192two bodies recovered; U-869 attribution corrected; Great Isaac length 185ft USCG/195ft class; Tolten crew conflict documented; USS Algol unconfirmed marine life stripped"
           },
           "poor-knights-islands": {
             "sites_total": 16,
@@ -1388,7 +1388,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 0,
-            "notes": "Crystal Cave Cousteau 2nd-best claim softened to top-ten; Rikoriko Cave ceiling 35m vs dive depth 26m clarified; HMNZS Waikato launch date 1966→1965 + guns 115mm→4.5-inch/114mm; HMNZS Tui builder/dates added; Blue Maomao Arch entry depth 10m→6-7m; all 16 sites 5+ sources"
+            "notes": "Crystal Cave Cousteau 2nd-best claim softened to top-ten; Rikoriko Cave ceiling 35m vs dive depth 26m clarified; HMNZS Waikato launch date 1966\u21921965 + guns 115mm\u21924.5-inch/114mm; HMNZS Tui builder/dates added; Blue Maomao Arch entry depth 10m\u21926-7m; all 16 sites 5+ sources"
           },
           "newfoundland": {
             "sites_total": 10,
@@ -1397,7 +1397,7 @@
             "marine_life_stripped": 2,
             "wreck_conflicts_flagged": 4,
             "sites_unresolved": 2,
-            "notes": "SS Rose Castle wolf eels→Atlantic wolffish (wolf eel is Pacific-only); SS Lord Strathcona torpedo direction corrected (stern→stern tubes); PLM-27 torpedo hit stern→amidships + Marseilles→Méditerranée; Épave du Transpacific length 124→121.5m; Le Muscadin+Troot Pool bogus Wikipedia source removed (wrong Saint-Pierre); Bell Island only-attack claim corrected across 3 files; SS Saganaga casualties conflict documented 29 vs 30"
+            "notes": "SS Rose Castle wolf eels\u2192Atlantic wolffish (wolf eel is Pacific-only); SS Lord Strathcona torpedo direction corrected (stern\u2192stern tubes); PLM-27 torpedo hit stern\u2192amidships + Marseilles\u2192M\u00e9diterran\u00e9e; \u00c9pave du Transpacific length 124\u2192121.5m; Le Muscadin+Troot Pool bogus Wikipedia source removed (wrong Saint-Pierre); Bell Island only-attack claim corrected across 3 files; SS Saganaga casualties conflict documented 29 vs 30"
           },
           "ningaloo-reef": {
             "sites_total": 12,
@@ -1406,7 +1406,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 1,
-            "notes": "Clerke Reef flagged for relocation (Rowley Shoals not Ningaloo, 260km off Broome); Blizzard Ridge coordinates corrected (-22.7,113.67→-21.80,114.12); Norwegian Bay coordinates corrected; Turquoise Bay 15-20m scuba claim removed (snorkel/drift site 3-6m); Bundegi Reef bumphead parrotfish removed; Navy Pier pier entry clarified; 8 depth corrections; 2 entry type corrections"
+            "notes": "Clerke Reef flagged for relocation (Rowley Shoals not Ningaloo, 260km off Broome); Blizzard Ridge coordinates corrected (-22.7,113.67\u2192-21.80,114.12); Norwegian Bay coordinates corrected; Turquoise Bay 15-20m scuba claim removed (snorkel/drift site 3-6m); Bundegi Reef bumphead parrotfish removed; Navy Pier pier entry clarified; 8 depth corrections; 2 entry type corrections"
           }
         }
       }
@@ -1439,7 +1439,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 1,
-            "notes": "14 wreck sites; HMT Bedfordshire date conflict 11 vs 12 May 1942 (timezone convention) documented; U-85 depth 34m→27m + first-U-boat claim corrected; Aeolus length 409ft→438ft; U-352 length 218ft→220ft + discovery year 1974→1975; Papoose depth 38m→37m + difficulty Intermediate→Advanced; USS Monitor sinking date 1862-12-24→1862-12-31 in JSON; Smith Creek Wreck flagged unresolvable (no site-specific source found)"
+            "notes": "14 wreck sites; HMT Bedfordshire date conflict 11 vs 12 May 1942 (timezone convention) documented; U-85 depth 34m\u219227m + first-U-boat claim corrected; Aeolus length 409ft\u2192438ft; U-352 length 218ft\u2192220ft + discovery year 1974\u21921975; Papoose depth 38m\u219237m + difficulty Intermediate\u2192Advanced; USS Monitor sinking date 1862-12-24\u21921862-12-31 in JSON; Smith Creek Wreck flagged unresolvable (no site-specific source found)"
           },
           "norway": {
             "sites_total": 0,
@@ -1453,7 +1453,7 @@
             "marine_life_stripped": 4,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 2,
-            "notes": "Cold-water destination; all 11 sites minimum Intermediate difficulty enforced; 3 Beginner→Intermediate corrections (Svolvær Harbor, Å Shore Dive, Stamsund Kelp Forest); Ballstad Reef site_type reef→wall; MS Hamburg vessel length/history corrected; validation_source replaced from 'perplexity' to real domains (lofoten-diving.no, xray-mag.com, museumnord.no); DS General Suworow wreck history updated"
+            "notes": "Cold-water destination; all 11 sites minimum Intermediate difficulty enforced; 3 Beginner\u2192Intermediate corrections (Svolv\u00e6r Harbor, \u00c5 Shore Dive, Stamsund Kelp Forest); Ballstad Reef site_type reef\u2192wall; MS Hamburg vessel length/history corrected; validation_source replaced from 'perplexity' to real domains (lofoten-diving.no, xray-mag.com, museumnord.no); DS General Suworow wreck history updated"
           },
           "nova-scotia": {
             "sites_total": 54,
@@ -1463,7 +1463,7 @@
             "marine_life_stripped": 44,
             "wreck_conflicts_flagged": 4,
             "sites_unresolved": 7,
-            "notes": "Cold-water destination; all 54 sites cold-water rule enforced (minimum Intermediate); HMCS Ypres type corrected minesweeper→gate vessel; Gertrude de Costa: UXO warning added (unexploded ordnance on deck per DFO harbour survey), 7 crew killed noted; British tanker Kars: fictional Shubenacadie Channel location corrected (25mi SSE Halifax), U-96 torpedo Feb 22 1942, 46/47 crew lost; Schooner Reaper/CN Barges/Dominion Coal Barges: Shubenacadie Channel location removed (coordinates are Halifax Harbour); Fox Point Beach: rewritten with East Coast Scuba/PADI sources; 44 reef/ledge sites: identical fabricated Atlantic species boilerplate removed; Metahead Bank flagged (not found in any NS dive database); Hudson bomber type disputed (may be Vega Ventura)"
+            "notes": "Cold-water destination; all 54 sites cold-water rule enforced (minimum Intermediate); HMCS Ypres type corrected minesweeper\u2192gate vessel; Gertrude de Costa: UXO warning added (unexploded ordnance on deck per DFO harbour survey), 7 crew killed noted; British tanker Kars: fictional Shubenacadie Channel location corrected (25mi SSE Halifax), U-96 torpedo Feb 22 1942, 46/47 crew lost; Schooner Reaper/CN Barges/Dominion Coal Barges: Shubenacadie Channel location removed (coordinates are Halifax Harbour); Fox Point Beach: rewritten with East Coast Scuba/PADI sources; 44 reef/ledge sites: identical fabricated Atlantic species boilerplate removed; Metahead Bank flagged (not found in any NS dive database); Hudson bomber type disputed (may be Vega Ventura)"
           },
           "okinawa": {
             "sites_total": 24,
@@ -1473,7 +1473,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 1,
-            "notes": "CRITICAL hallucination: Middle Book had fabricated manta ray cleaning station narrative — site is sandy-bottom macro site in Sekisei Lagoon, nowhere near Manta Scramble (opposite coast of Ishigaki). Complete rewrite. 砂辺 (Sunabe) site_type reef→wall (Sunabe Seawall confirmed by 4+ operators). Middle Book site_type reef→muck. 通り池 (Tori-ike) depth 45m→40m (Emina Marine). L字アーチ (L Arch) difficulty Intermediate→Advanced (35m, cave system). Ukon Denchi flagged unresolved (not found in any Ishigaki operator listing). All 24 sites: last_qa_date 2026-06-24, real validation_source domains"
+            "notes": "CRITICAL hallucination: Middle Book had fabricated manta ray cleaning station narrative \u2014 site is sandy-bottom macro site in Sekisei Lagoon, nowhere near Manta Scramble (opposite coast of Ishigaki). Complete rewrite. \u7802\u8fba (Sunabe) site_type reef\u2192wall (Sunabe Seawall confirmed by 4+ operators). Middle Book site_type reef\u2192muck. \u901a\u308a\u6c60 (Tori-ike) depth 45m\u219240m (Emina Marine). L\u5b57\u30a2\u30fc\u30c1 (L Arch) difficulty Intermediate\u2192Advanced (35m, cave system). Ukon Denchi flagged unresolved (not found in any Ishigaki operator listing). All 24 sites: last_qa_date 2026-06-24, real validation_source domains"
           },
           "oman": {
             "sites_total": 10,
@@ -1483,7 +1483,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 4,
-            "notes": "Aquarium site_type wall→reef (multiple operator sources). Eagle Bay site_type wreck→reef (SSI, GetYourGuide, beautifulsalalah.com). Snoopy Island Reef site_type reef→wreck (24m Advanced artificial reef, UAE/Fujairah territory — OSM geographic error noted). ABT Salalah: depth 25m→30m, difficulty Intermediate→Advanced; fabricated fish species removed; site named after ABT Divers operator not a vessel; vessel identity unknown. China Wreck: probable SS Kiva (1893 pilgrim ship, Bombay→Mecca, 979 passengers) per 2021 Oman Ministry heritage survey reported in Oman Observer + Muscat Daily; identity probable but not confirmed by Lloyd's Register. Flamingo Beach sites and The Wall: no site-specific primary sources found."
+            "notes": "Aquarium site_type wall\u2192reef (multiple operator sources). Eagle Bay site_type wreck\u2192reef (SSI, GetYourGuide, beautifulsalalah.com). Snoopy Island Reef site_type reef\u2192wreck (24m Advanced artificial reef, UAE/Fujairah territory \u2014 OSM geographic error noted). ABT Salalah: depth 25m\u219230m, difficulty Intermediate\u2192Advanced; fabricated fish species removed; site named after ABT Divers operator not a vessel; vessel identity unknown. China Wreck: probable SS Kiva (1893 pilgrim ship, Bombay\u2192Mecca, 979 passengers) per 2021 Oman Ministry heritage survey reported in Oman Observer + Muscat Daily; identity probable but not confirmed by Lloyd's Register. Flamingo Beach sites and The Wall: no site-specific primary sources found."
           }
         }
       },
@@ -1516,7 +1516,7 @@
             "sites_validated_today": 0,
             "sites_re_audited": 17,
             "hallucinations_removed": 5,
-            "notes": "All pre-validated; validation_source tags corrected to real domains; Siaes Tunnel depth 12→40m; Jake Seaplane 'shot down' claim removed; Temple of Doom fatality warning added"
+            "notes": "All pre-validated; validation_source tags corrected to real domains; Siaes Tunnel depth 12\u219240m; Jake Seaplane 'shot down' claim removed; Temple of Doom fatality warning added"
           },
           "panama": {
             "sites_total": 23,
@@ -1531,7 +1531,7 @@
             "sites_re_audited": 38,
             "hallucinations_removed": 8,
             "wreck_conflicts_flagged": 3,
-            "notes": "B-17 Black Jack coordinates corrected 400km (Cape Vogel not Kimbe Bay); serial corrected; Kate Bomber depth 27→12m; Zero Fighter location corrected; Christmas Tree reef→wall 25→55m Intermediate→Advanced; 5 depth corrections"
+            "notes": "B-17 Black Jack coordinates corrected 400km (Cape Vogel not Kimbe Bay); serial corrected; Kate Bomber depth 27\u219212m; Zero Fighter location corrected; Christmas Tree reef\u2192wall 25\u219255m Intermediate\u2192Advanced; 5 depth corrections"
           },
           "philippines": {
             "sites_total": 59,
@@ -1540,7 +1540,7 @@
             "sites_re_audited": 59,
             "hallucinations_removed": 0,
             "wreck_conflicts_flagged": 2,
-            "notes": "isGroup=true; covers donsol, malapascua, palawan, puerto-galera, tubbataha-reefs. Palawan: 25 non-dive-site entries removed (chart features + 5 in Malaysian territory). Tubbataha: 7 sites upgraded Intermediate→Advanced (remote liveaboard reserve). Puerto Galera: The Canyons reef→drift. Malapascua: Japanese Ship Wreck depth conflict flagged"
+            "notes": "isGroup=true; covers donsol, malapascua, palawan, puerto-galera, tubbataha-reefs. Palawan: 25 non-dive-site entries removed (chart features + 5 in Malaysian territory). Tubbataha: 7 sites upgraded Intermediate\u2192Advanced (remote liveaboard reserve). Puerto Galera: The Canyons reef\u2192drift. Malapascua: Japanese Ship Wreck depth conflict flagged"
           },
           "philippines-anilao": {
             "sites_total": 24,
@@ -1550,7 +1550,7 @@
             "marine_life_stripped": 5,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 1,
-            "notes": "Cathedral Rock 'blessed by JPII' removed; Basura rhinopias/wonderpus removed; Caban Cove reef→drift; Beatrice Rock Intermediate→Advanced; depth corrections: Basura 25→18m, Sombrero 15→25m, Kirby's Rock 20→30m"
+            "notes": "Cathedral Rock 'blessed by JPII' removed; Basura rhinopias/wonderpus removed; Caban Cove reef\u2192drift; Beatrice Rock Intermediate\u2192Advanced; depth corrections: Basura 25\u219218m, Sombrero 15\u219225m, Kirby's Rock 20\u219230m"
           },
           "philippines-bohol": {
             "sites_total": 8,
@@ -1559,7 +1559,7 @@
             "hallucinations_removed": 3,
             "marine_life_stripped": 1,
             "sites_unresolved": 1,
-            "notes": "Black Forest: black coral depth corrected to 35-45m; Doljo Point hammerhead/manta removed (1 source only); Snake Island thresher shark claim removed (Malapascua phenomenon). Difficulty upgrades: Black Forest/Doljo/Pamilacan Intermediate→Advanced; Snake Island Beginner→Advanced + reef→drift. Kalipayan Wall Intermediate→Beginner"
+            "notes": "Black Forest: black coral depth corrected to 35-45m; Doljo Point hammerhead/manta removed (1 source only); Snake Island thresher shark claim removed (Malapascua phenomenon). Difficulty upgrades: Black Forest/Doljo/Pamilacan Intermediate\u2192Advanced; Snake Island Beginner\u2192Advanced + reef\u2192drift. Kalipayan Wall Intermediate\u2192Beginner"
           }
         }
       }
@@ -1612,7 +1612,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes": "CRITICAL: Secca del Papa coordinates fixed ~200km SW error (39.13,8.4→40.9147,9.7478); Nereo Cave 4km full system / 300-500m dive routes clarified; leptosamnia sponges→Leptopsammia pruvoti cup corals; MPA year 2003→2002; Cala Mariolu cave→wall; Capo Caccia amberjack+fish-recovery-claim removed; KT Wreck 60m→68m, bow separation 300m→700-800m; Tavolara coastline 40km→76km; Isola dei Cavoli reef→wall, Madonna 10-12m→11m; Cala Gonone unverifiable western-Mediterranean claim removed, Beginner→Intermediate; Porto Conte entry_type shore→boat"
+            "notes": "CRITICAL: Secca del Papa coordinates fixed ~200km SW error (39.13,8.4\u219240.9147,9.7478); Nereo Cave 4km full system / 300-500m dive routes clarified; leptosamnia sponges\u2192Leptopsammia pruvoti cup corals; MPA year 2003\u21922002; Cala Mariolu cave\u2192wall; Capo Caccia amberjack+fish-recovery-claim removed; KT Wreck 60m\u219268m, bow separation 300m\u2192700-800m; Tavolara coastline 40km\u219276km; Isola dei Cavoli reef\u2192wall, Madonna 10-12m\u219211m; Cala Gonone unverifiable western-Mediterranean claim removed, Beginner\u2192Intermediate; Porto Conte entry_type shore\u2192boat"
           },
           "scapa-flow": {
             "sites_total": 10,
@@ -1621,7 +1621,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 5,
             "sites_unresolved": 0,
-            "notes": "F2 vessel type+sinking narrative rewritten (Geleiteboot not torpedo recovery boat; sank storm 30 Dec 1946, not during salvage; YC-21 100m away not 30m); SMS Brummer brass bridge corrected (compass interference not mine measure); SMS Karlsruhe depth 27→25m; SMS Markgraf orientation port→starboard; SMS Markgraf depth 47→45m; Gobernador depth 16→17m; 5 length conflicts flagged (Dresden/Coln 115m vs 155.5m; Konig 146m vs 175.4m; Markgraf depth range); Gobernador+Tabarka full wreck histories added; all 10 sites 3+ sources"
+            "notes": "F2 vessel type+sinking narrative rewritten (Geleiteboot not torpedo recovery boat; sank storm 30 Dec 1946, not during salvage; YC-21 100m away not 30m); SMS Brummer brass bridge corrected (compass interference not mine measure); SMS Karlsruhe depth 27\u219225m; SMS Markgraf orientation port\u2192starboard; SMS Markgraf depth 47\u219245m; Gobernador depth 16\u219217m; 5 length conflicts flagged (Dresden/Coln 115m vs 155.5m; Konig 146m vs 175.4m; Markgraf depth range); Gobernador+Tabarka full wreck histories added; all 10 sites 3+ sources"
           },
           "scotland": {
             "notes": "isGroup=true parent slug; no osm_clean data; skipped"
@@ -1633,7 +1633,7 @@
             "marine_life_stripped": 3,
             "wreck_conflicts_flagged": 4,
             "sites_unresolved": 0,
-            "notes": "Ennerdale anti-submarine mortars claim removed (only torpedo warheads confirmed); Marianne Island Beginner→Advanced (strong currents confirmed multiple operators); depth corrections: Brissare Rocks 12→20m, Whale Rock 20→25m, Aldabra 20→25m, Conception Island 25→20m, Ave Maria 16→20m; site_type: Ave Maria wall→reef; placeholder descriptions replaced with sourced content; all 12 sites 3+ sources, last_qa_date=2026-06-29"
+            "notes": "Ennerdale anti-submarine mortars claim removed (only torpedo warheads confirmed); Marianne Island Beginner\u2192Advanced (strong currents confirmed multiple operators); depth corrections: Brissare Rocks 12\u219220m, Whale Rock 20\u219225m, Aldabra 20\u219225m, Conception Island 25\u219220m, Ave Maria 16\u219220m; site_type: Ave Maria wall\u2192reef; placeholder descriptions replaced with sourced content; all 12 sites 3+ sources, last_qa_date=2026-06-29"
           },
           "silfra-fissure": {
             "sites_total": 7,
@@ -1642,7 +1642,7 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 4,
-            "notes": "Strytan limestone cone→mineral cone of anhydrite and saponite (magnesium silicates) per Geothermal Energy Journal; Salvelinus devarius scientific name removed (unverified); Crymostygius thingvallensis endemic amphipod added (confirmed); unresolved: Silfra Cathedral max depth 63m vs 60m, Strytan base 65m vs 70m, vent temp 72-76C range, Davidsgja coordinate inconsistency"
+            "notes": "Strytan limestone cone\u2192mineral cone of anhydrite and saponite (magnesium silicates) per Geothermal Energy Journal; Salvelinus devarius scientific name removed (unverified); Crymostygius thingvallensis endemic amphipod added (confirmed); unresolved: Silfra Cathedral max depth 63m vs 60m, Strytan base 65m vs 70m, vent temp 72-76C range, Davidsgja coordinate inconsistency"
           },
           "sint-eustatius": {
             "sites_total": 10,
@@ -1651,10 +1651,82 @@
             "marine_life_stripped": 0,
             "wreck_conflicts_flagged": 2,
             "sites_unresolved": 0,
-            "notes": "Charles L. Brown CRITICAL: orientation corrected upright→starboard side (DAN Alert Diver); depth 29m→30m; added 1984 CS Salernum rename; Blue Bead Hole: Venetian→Dutch Amsterdam-made glass beads; pentagonal shape noted; slave trade context added; all 10 sites last_qa_date=2026-06-29"
+            "notes": "Charles L. Brown CRITICAL: orientation corrected upright\u2192starboard side (DAN Alert Diver); depth 29m\u219230m; added 1984 CS Salernum rename; Blue Bead Hole: Venetian\u2192Dutch Amsterdam-made glass beads; pentagonal shape noted; slave trade context added; all 10 sites last_qa_date=2026-06-29"
           }
         }
       }
+    },
+    {
+      "date": "2026-06-30",
+      "slugs": [
+        "sipadan",
+        "socorro-islands",
+        "solomon-islands",
+        "south-africa",
+        "south-florida",
+        "south-pacific"
+      ],
+      "summary": {
+        "sites_total": 60,
+        "sites_validated_today": 60,
+        "sites_re_audited": 65,
+        "hallucinations_removed": 14,
+        "marine_life_stripped": 6,
+        "wreck_conflicts_flagged": 8,
+        "sites_unresolved": 0,
+        "by_destination": {
+          "sipadan": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Permit limit corrected 120\u2192176/day (Sabah Parks official). Cousteau Drop Off specific claim removed. White Tip Avenue leopard/bamboo sharks removed. Hanging Gardens color corrected pastel not vivid. Turtle Cavern unverified fatalities removed. Depth corrections: Lobster Lairs 22\u219230m, Coral Gardens 25\u219223m, Mid Reef 20\u219240m, Staghorn Crest 20\u219240m. Coral Gardens wall\u2192reef."
+          },
+          "socorro-islands": {
+            "sites_total": 8,
+            "sites_validated_today": 8,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Manta taxonomy corrected to Mobula birostris. Barberfish claim at El Canyon removed (no source). O'Neal Rock manta claim downgraded to unconfirmed. Fondeadero site_type corrected from coral reef to volcanic lava blocks. All validation sources replaced with real domains."
+          },
+          "solomon-islands": {
+            "sites_total": 30,
+            "sites_validated_today": 30,
+            "sites_re_audited": 30,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 8,
+            "sites_unresolved": 0,
+            "notes": "CRITICAL: USS Aaron Ward wrong battle corrected (First Naval Battle of Guadalcanal\u2192Operation I-Go, 7 Apr 1943). Hirokawa Maru stern depth 34\u219255m, Intermediate\u2192Advanced. Toa Maru orientation upright\u2192starboard side; gas-mask cargo claim removed. HMNZS Moa tonnage 825\u2192607/923t. USS Kanawha 137\u2192145m. Sandfly Passage coordinates corrected 250km (was near Gizo, should be near Florida Islands). Leru Cut relocated from Florida Islands to Russell Islands (md renamed). The Gap + Top Secret Place site_type reef\u2192wall. BuNo 25839 documented (McFadyen has transposed 25389). 30 sites all validated with 3+ sources."
+          },
+          "south-africa": {
+            "sites_total": 0,
+            "notes": "isGroup=True parent slug; only child is cape-town. 5 cape-town sites spot-checked: Shark Alley, Thomas T. Tucker, Smitswinkel Bay, Castle Rock, Clan Stewart. All prior corrections persist. last_qa_date=2026-06-30 added to spot-checked sites."
+          },
+          "south-florida": {
+            "sites_total": 12,
+            "sites_validated_today": 12,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 7,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "SS Inchulva built 1892 (not 1903), crew 27 corrected; coral-banded shrimp removed. SS Copenhagen depth 7.3\u21929.5m. Lofthus enriched with J.A. Henschien buyer, false gunports detail, lumber cargo. Tenneco Towers Hurricane Andrew unsupported claim removed; deep platform depth 200\u2192185-205ft. Blue Heron Bridge max depth 9\u21926m, nudibranch claim softened to dozens, Sport Diver award corrected, sailboat position corrected. Anglins Pier Reef reef sharks downgraded to occasional; pier collapse 2022 noted. Julia Tuttle Causeway AR location corrected to Biscayne Bay (was incorrectly described as Atlantic). Deerfield Beach AR site_type wreck\u2192reef. Breakers Reef depth corrected 42-65\u219250-65ft. All 12 sites validation_source replaced from generic web_research to real domains."
+          },
+          "south-pacific": {
+            "sites_total": 0,
+            "notes": "isGroup=True parent slug; children (fiji, french-polynesia, tonga, vanuatu, new-caledonia, cook-islands-rarotonga) all audited in prior cycles."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/106",
+      "errors": []
     }
   ]
 }

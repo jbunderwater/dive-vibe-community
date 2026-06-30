@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nautilusliveaboards.com, dive-the-world.com, bluewaterdivetravel.com, divernet.com/world-dives/diving-socorro-islands-top-5-dive-sites, indopacificimages.com/americas/diving-socorro"
+      "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,xray-mag.com,oysterdiving.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -26,7 +27,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nautilusliveaboards.com, scubadiving.com, dive-the-world.com, divertrek.com, indopacificimages.com/americas/diving-socorro, adcdiving.be/travel-diving-photos/mexico-socorro-diving-2017"
+      "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,divessi.com,oysterdiving.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -41,7 +43,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nautilusliveaboards.com/2023/01/21/marine-life-exploration-at-cabo-pearce, manjulikapramod.com/cabo-pearce, dive-the-world.com, adcdiving.be/travel-diving-photos/mexico-socorro-diving-2017"
+      "validation_source": "nautilusliveaboards.com,dive-the-world.com,indopacificimages.com,adcdiving.be,divessi.com,oysterdiving.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -56,7 +59,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nautilusliveaboards.com/2008/02/28/punta-tosca-socorro-island-revillagigedo-archipelago-mexico, dive-the-world.com, zubludiving.com, uwphotographyguide.com"
+      "validation_source": "nautilusliveaboards.com,dive-the-world.com,divessi.com,bluewaterdivetravel.com,oysterdiving.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -71,7 +75,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive-the-world.com, uwphotographyguide.com, adcdiving.be/travel-diving-photos/mexico-socorro-diving-2017, divertrek.com, divernet.com/world-dives/diving-socorro-islands-top-5-dive-sites"
+      "validation_source": "nautilusliveaboards.com,dive-the-world.com,xray-mag.com,adcdiving.be,divertrek.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -86,7 +91,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "uwphotographyguide.com, scubago.com, dive-the-world.com, bluewaterdivetravel.com"
+      "validation_source": "uwphotographyguide.com,divessi.com,nautilusliveaboards.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -101,7 +107,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "uwphotographyguide.com, scubago.com, dive-the-world.com, divernet.com/world-dives/diving-socorro-islands-top-5-dive-sites, diveplanit.com/dive-site/diving-socorro"
+      "validation_source": "dive-the-world.com,uwphotographyguide.com,oysterdiving.com,scubago.com",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -116,7 +123,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divertrek.com, adcdiving.be/travel-diving-photos/mexico-socorro-diving-2017, uwphotographyguide.com, indopacificimages.com/americas/diving-socorro"
+      "validation_source": "adcdiving.be,divertrek.com,kflansburg.com,divessi.com,uwphotographyguide.com",
+      "last_qa_date": "2026-06-30"
     }
   }
 ]

@@ -17,7 +17,7 @@ S.S. Inchulva / Delray Wreck is a historic wreck dive in South Florida, North Am
 
 ## Overview
 
-Historic 1903 steamship wreck resting in 25 feet (7.6m) of water approximately 150 yards offshore from Delray Beach. The wreck is accessible as a shore dive from Delray Beach municipal beach. Most of the vessel is buried and deteriorated; the boiler field is the primary remaining intact feature. Site is home to abundant fish life including tarpon. Scattered boiler debris across a 70-foot field creates an interesting exploration for beginner to intermediate divers.
+Historic 1892 British steamship wrecked September 11, 1903 in a hurricane, resting in 15-25 feet (5-7.6m) of water approximately 150 yards offshore from Delray Beach. Accessible as a shore dive from Delray Beach municipal beach. Most of the vessel is buried and deteriorated; the boiler field is the primary remaining intact feature. Site hosts abundant fish life including tarpon. Scattered boiler debris across a roughly 70-foot field creates an interesting exploration for beginner divers.
 
 ## Site Information
 
@@ -29,11 +29,11 @@ Historic 1903 steamship wreck resting in 25 feet (7.6m) of water approximately 1
 
 ## Marine Life
 
-Large tarpon are reported as a signature sighting at the wreck. The remains are encrusted with soft and hard corals in yellows and reds, with tiny hermit crabs across the structure and resident red-and-white coral-banded shrimp and neon-blue cleaner shrimp working the crevices.
+Large tarpon are a consistently reported signature sighting at the wreck. The iron remains are encrusted with soft and hard corals, and the boiler field shelters reef fish including grunts and snapper. Hermit crabs are common throughout the debris field.
 
 ## Vessel History
 
-The S.S. Inchulva was a 386-foot, 48-foot beam, steel-hulled British steamship of 4,823 gross tons built in 1892 by W. Gray & Co. Ltd. at West Hartlepool, England. Originally christened *Alberta*, she was renamed for the Inch Shipping Company. She departed Galveston, Texas on September 6, 1903 bound for Newport News, Virginia under Captain G.W. Davis, carrying wheat, lumber, and cotton with a crew of 28. On September 11, 1903, she was caught in the Florida Hurricane off Delray Beach; her steering gear failed and her anchors parted. She grounded and broke apart less than 150 yards offshore at roughly 5 p.m. Nine crew members drowned. A naval court of inquiry exonerated Captain Davis and the surviving officers.
+The S.S. Inchulva was a 386-foot, 48-foot beam, steel-hulled British steamship of 4,823 gross tons built in 1892 by W. Gray & Co. Ltd. at West Hartlepool, England. Originally christened *Alberta*, she was renamed *Inchulva* in 1898 by her new owners Hamilton, Fraser & Co. of Liverpool. She departed Galveston, Texas on September 6, 1903 bound for Newport News, Virginia under Captain G.W. Davis, carrying wheat, lumber, and cotton with a crew of 27. On September 11, 1903, she was caught in the Florida Hurricane off Delray Beach; her steering gear failed and her anchors parted. She grounded and broke apart less than 150 yards offshore at roughly 5 p.m. Nine crew members drowned. A naval court of inquiry exonerated Captain Davis and the surviving officers.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Shore dive from the south end of Delray's public beach — most divers stage fro
 - Surge in shallow water can push divers onto sharp iron plates — maintain distance from the structure when swell is up.
 
 ---
-*Sources: [Wikipedia — Delray Wreck](https://en.wikipedia.org/wiki/Delray_Wreck), [Palm Beach County History Online — Final Voyage and Sinking of SS Inchulva](http://pbchistory.blogspot.com/2016/08/final-voyage-and-sinking-of-ss-inchulva.html), [Downtown Delray Beach — The Delray Wreck](https://downtowndelraybeach.com/go/the-delray-wreck), [Florida Backroads Travel — Delray Shipwreck Inchulva](https://www.florida-backroads-travel.com/delray-shipwreck-inchulva.html), [Wanderlog — SS Inchulva The Delray Wreck](https://wanderlog.com/place/details/10409034/ss-inchulva-the-delray-wreck). Last updated 2026-05-17.*
+*Sources: [Wikipedia — Delray Wreck](https://en.wikipedia.org/wiki/Delray_Wreck), [Palm Beach County History Online — Final Voyage and Sinking of SS Inchulva](http://pbchistory.blogspot.com/2016/08/final-voyage-and-sinking-of-ss-inchulva.html), [Florida Backroads Travel — Delray Shipwreck Inchulva](https://www.florida-backroads-travel.com/delray-shipwreck-inchulva.html), [ARCIFC — Delray Wreck Site Information](https://arcifc.com/delray-wreck/). Last updated 2026-06-30.*

@@ -1,11 +1,11 @@
 ---
 name: Sandfly Passage
-lat: -8.0833
-lng: 156.85
+lat: -9.03
+lng: 160.08
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,17 +13,19 @@ addedBy: osm_import
 
 ## Sandfly Passage
 
-Sandfly Passage is a current-swept channel in the Western Province of the Solomon Islands that delivers large pelagic encounters in a high-energy environment. Strong tidal flow through the passage concentrates sharks, barracuda, and schooling trevally, making it a standout site for advanced divers seeking open-water action.
+Sandfly Passage is a current-swept channel in the Florida Islands area of the Solomon Islands that delivers large pelagic encounters in a high-energy environment. Strong tidal flow through the passage concentrates sharks, barracuda, and schooling trevally, making it a standout site for advanced divers seeking open-water action.
+
+**Note: Coordinates in this record were corrected from the original OSM import value (-8.0833, 156.85), which placed the site approximately 250 km away near Gizo in the Western Province. Sandfly Passage is located in the Florida Islands, north of Guadalcanal, near Tulagi. The corrected coordinates (-9.03, 160.08) reflect this location.**
 
 ## Overview
 
-The passage cuts between island or reef structures in the Western Province, generating strong tidal currents that bring nutrient-rich water and attract pelagic predators. The site sits in the same general region as the Toa Maru wreck near Gizo, and is typically visited by liveaboards and advanced diving day trips from Western Province operators. The reef structure along the passage walls provides a backdrop for the pelagic action, with hard coral gardens on the shallower sections giving way to sea fans and sponge-encrusted walls as depth increases. The advanced rating reflects both current strength and the open-water nature of the pelagic encounters.
+Sandfly Passage connects water between islands in the Florida Islands group north of Guadalcanal, generating strong tidal currents that bring nutrient-rich water and attract pelagic predators. The site is typically visited by Florida Islands-based operators and liveaboards working the area around Tulagi. The reef structure along the passage walls provides a backdrop for the pelagic action, with hard coral gardens on the shallower sections giving way to sea fans and sponge-encrusted walls as depth increases. The advanced rating reflects both current strength and the open-water nature of the pelagic encounters.
 
 ## Site Information
 
-- **Location**: Western Province, near Gizo, Solomon Islands
+- **Location**: Florida Islands, Solomon Islands (north of Guadalcanal, near Tulagi)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–40 meters
@@ -48,7 +50,7 @@ Boat dive from Gizo-based operators or liveaboards. Entry is timed to the tidal 
 - Follow the guide's tidal timing closely; arriving outside the productive window can result in slack, featureless diving
 - Streamline all equipment before entry
 - Blue-water photography setups — wide-angle with strobe — are ideal for the shark and barracuda encounters
-- Combining Sandfly Passage with the Toa Maru wreck on the same day trip offers strong contrast between action pelagic and intimate wreck diving
+- Combine with other Florida Islands sites such as HMNZS Moa, USS Kanawha, or Hundred Thousand Dollar Point for a full dive day in the Tulagi area
 
 ## Safety Considerations
 
@@ -59,4 +61,4 @@ Strong current requires solid drift diving skills. Divers should be comfortable 
 Sandfly Passage's open-water encounters favour wide-angle and fisheye lenses. Shooting upward at circling grey reef sharks against the light-filtered surface is the defining photographic subject. Dense barracuda schools offer particularly compelling wide-angle subjects, especially when a shaft of light cuts through the formation. Video divers will find the passage produces dramatic footage with minimal effort if the timing is right. The reef structure alongside the passage provides complementary coral and fish life for macro photographers during slack periods.
 
 ---
-*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-04-04.*
+*Note: Coordinates corrected 2026-06-30 from original OSM import value (-8.0833, 156.85) which placed this site near Gizo in the Western Province. Sandfly Passage is in the Florida Islands. Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/), [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-06-30.*

@@ -49,4 +49,4 @@ Descend to the wreck and orient yourself at the break point where the forward se
 This is a war grave -- do not disturb or remove any artefacts. The broken forward section has sharp, corroded edges. Interior penetration should only be attempted by divers with proper wreck training and equipment. Maintain good buoyancy control to avoid disturbing silt inside the hull. The depth range of 5-30 metres makes gas management straightforward, but plan your deeper exploration first while air supply is full.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=373). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=373), [Pacific Wrecks - I-1](https://pacificwrecks.com/ships/submarine/i-1/), [Emperor Divers - Guadalcanal](https://www.emperordivers.com/guadalcanal-dive-sites/). Last updated 2026-06-30.*

@@ -5,19 +5,20 @@
     "lon": 159.874056,
     "osm_id": null,
     "osm_type": null,
-    "depth": 34,
+    "depth": 55,
     "site_type": "wreck",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "websearch, michaelmcfadyenscuba.info",
-      "notes": "Hirokawa Maru - 156m Japanese freighter, bow in 5m, stern in 60m, coral-covered"
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,wannadive.net",
+      "notes": "Hirokawa Maru - 155m (508ft 6in) Japanese transport/freighter, beached 15 Nov 1942 during Guadalcanal campaign. Lies on port side. Bow at ~5m, stern at 55-60m. Shore entry from Bonegi Beach. Difficulty raised from Intermediate: stern at 55-60m is beyond standard recreational limits.",
+      "last_qa_date": "2026-06-30"
     },
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info"
+    "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,wannadive.net"
   },
   {
     "name": "Bonegi 2 Wreck",
@@ -25,19 +26,20 @@
     "lon": 159.870222,
     "osm_id": null,
     "osm_type": null,
-    "depth": 23,
+    "depth": 27,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "websearch, michaelmcfadyenscuba.info",
-      "notes": "Kinugawa Maru - Japanese freighter, easy circumnavigation, soft coral-covered, beginner-friendly"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,michaelmcfadyenscuba.info,diveplanit.com",
+      "notes": "Kinugawa Maru - 133m Japanese freighter, beached 15 Nov 1942. Lies upright. Bow in ~5-7m, stern at ~27m (sources: McFadyen, Wikipedia). Some sources give 23m. Easy circumnavigation, dense coral coverage. Shore entry Bonegi Beach.",
+      "last_qa_date": "2026-06-30"
     },
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info"
+    "validation_source": "en.wikipedia.org,michaelmcfadyenscuba.info,diveplanit.com"
   },
   {
     "name": "Toa Maru Wreck",
@@ -45,16 +47,17 @@
     "lon": 156.8333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
+    "depth": 37,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "websearch",
-      "notes": "140m Japanese transport ship, most impressive WWII wreck at recreational depth, 7-40m range, Gizo"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,divegizo.com,diveplanit.com",
+      "notes": "140m Japanese transport ship, sunk by US submarine USS Searaven 25 Nov 1943. Lies on STARBOARD SIDE (not upright). Depth range 7-37m, stern at ~37m. Holds contain: Type 95 Ha-Go tanks, motorcycle sidecar combinations, sake bottles, ammunition, medical supplies. No gas masks documented. ~7km north of Gizo, ~20 min by boat.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -70,9 +73,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "websearch",
-      "notes": "Channel drift with manta rays, strong currents, resident manta colony, weather-dependent"
+      "validated": "true",
+      "validation_source": "bilikiki.com,dive-the-world.com,visitsolomons.com.sb",
+      "notes": "Channel drift dive, Florida Islands area NE of Honiara. Strong tidal currents, grey reef sharks, eagle rays, barracuda. Advanced only due to current strength.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -88,13 +92,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "websearch",
-      "notes": "Extinct volcano (Mborokua), steep wall dives, pelagic action with barracuda/jacks schools, water clarity exceptional"
+      "validated": "true",
+      "validation_source": "bilikiki.com,dive-the-world.com,visitsolomons.com.sb",
+      "notes": "Marovo Lagoon wall dive, steep walls with sea fans, barracuda, jacks schools. Exceptional water clarity.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
-    "name": "Leru Cut Florida Islands",
+    "name": "Leru Cut",
     "lat": -9.0833,
     "lon": 160.25,
     "osm_id": null,
@@ -106,9 +111,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "websearch",
-      "notes": "Iconic passage cut deep into land, 15-20m, ~100m through swim-through, sunlight shafts, emerges in lagoon with rainforest"
+      "validated": "true",
+      "validation_source": "diveplanit.com,masterliveaboards.com,solomonislandsdiving.com",
+      "notes": "CORRECTED LOCATION: Eastern Russell Islands (NOT Florida Islands as previously stated - coordinates are approximate for Russell Islands). Narrow volcanic chasm on Leru Island. ~100m passage at 12-23m depth, open sky above, sunlight shafts. Lobsters/crayfish at end of cut, pygmy seahorses on sea fans at entrance. Liveaboard access only. One of the most-photographed sites in the Solomon Islands.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -124,27 +130,29 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "websearch",
-      "notes": "Manta ray feeding site in protected bay, strong currents, sweetlips/jacks/bumphead parrotfish, macro critters including nudis and cuttlefish"
+      "validated": "true",
+      "validation_source": "bilikiki.com,dive-the-world.com,visitsolomons.com.sb",
+      "notes": "Florida Islands channel drift, moderate tidal current, fusiliers, barracuda, trevally, whitetip reef sharks.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
     "name": "Sandfly Passage",
-    "lat": -8.0833,
-    "lon": 156.85,
+    "lat": -9.03,
+    "lon": 160.08,
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "websearch",
-      "notes": "Marovo Lagoon area, shallow snorkel zone, strong currents, pelagic-rich (mantas, sharks, barracuda), fusiliers/anthias schools"
+      "validated": "true",
+      "validation_source": "thescubadirectory.com,diveadventures.com.au,geographic.org",
+      "notes": "COORDINATES CORRECTED by ~250km: Sandfly Passage is between Nggela Sule and Mbokonimbeti/Olevugha Islands (Florida Islands / Guadalcanal Province) at approx -9.03, 160.08. Previous coordinates (-8.08, 156.85) incorrectly placed it near Gizo/Western Province. Wall/drift dive 3-40m with large sea fans, strong tidal currents, manta rays, nudibranchs, fusilier schools. Simon's Nature Reserve (80+ coral genera) is within the passage. MS World Discoverer ran aground here in 2000.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -161,10 +169,11 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_note": "Limited specific information available; local name may be for alternative site in Russell Islands region",
-      "validation_source": "perplexity"
+      "validation_source": "bilikiki.com,dive-the-world.com,visitsolomons.com.sb",
+      "notes": "Small harbour utility vessel near Honiara customs area, max 15m, coral and sponge encrusted, good macro. Limited specific documentation - local site.",
+      "last_qa_date": "2026-06-30"
     },
-    "depth_max": 12
+    "depth_max": 15
   },
   {
     "name": "Mirror Pond Uepi",
@@ -179,9 +188,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": true,
-      "validation_source": "websearch",
-      "notes": "Mane Island (Russell Islands), iconic swim-through with sunlight shafts, scenic pond surrounded by shallow reef, pygmy seahorses, saltwater crocodiles occasional"
+      "validated": "true",
+      "validation_source": "diveadventures.com.au,indopacificimages.com,equatordiving.com",
+      "notes": "Uepi Island, Marovo Lagoon - halocline cave feature with fresh water over salt water creating mirror reflection effect. Completely calm, max 15m. Note: some sources associate 'Mirror Pond' with Russell Islands area - coordinate and resort association with Uepi to be re-confirmed by local operator.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -193,12 +203,14 @@
     "entry_type": "shore",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,pacificwrecks.com,combinedfleet.com",
     "tags": {
       "name": "Kyusyu Maru",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Japanese passenger-cargo ship 142m long, 8666 tons. Beached after bombing attack circa 14-15 Oct 1942 (date conflict: dive sources say Oct 15; IJN records CombinedFleet.com say Oct 14). Also known as 'Ruinin Wreck' or 'Bonegi 3'. Lies on PORT SIDE at 45 degrees, 3m to 46m. Hold contains: rifle rounds, cattle bones, china. NOT same as Toa Maru.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -210,12 +222,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org,michaelmcfadyenscuba.info,nzhistory.govt.nz",
     "tags": {
       "name": "Japanese Submarine I-1",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Junsen Type 1 (J1 class) cruiser submarine, ~319-320ft, 2135 tons. Rammed three times by HMNZS Kiwi on night of 29-30 Jan 1943 in Kamimbo Bay area (ran aground at Fish Reef, ~330 yards north of Kamimbo Bay). Salvage (late 1960s) destroyed forward third. Remaining aft section: 5-30m (McFadyen); Wikipedia gives bow at ~14m. War grave.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -227,12 +241,14 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,emperordivers.com,pacificwrecks.com",
     "tags": {
       "name": "B-17 Flying Fortress",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "B-17E serial 41-2420 'Bessie the Jap Basher'. Ditched 24 Sep 1942 returning from mission over Shortland Islands. Location: Doma Cove (also spelled Ndomo), ~12 miles east of Henderson Field. Crew of 9 - pilot and one gunner reached shore but both died; rest MIA. Tail section salvaged by Seabees in 1944. Port wing at 17m, starboard at 9m. Well preserved.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -244,12 +260,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org,michaelmcfadyenscuba.info,history.navy.mil",
     "tags": {
       "name": "USS John Penn",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "US Naval Transport AP-51 (later APA-23), formerly SS Excambion (1931, American Export Lines). Torpedoed by Japanese Kate bombers 13 Aug 1943 off Lunga Point. Lies on starboard side; shallowest point ~36m, sand bottom ~56-58m. Japanese aircraft wreck near bridge/deck junction at ~60m (believed to be a Kate - single source, McFadyen describes it as 'I believe'). Jeep found ~20m from main hull. War grave.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -261,12 +279,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,bilikiki.com,visitsolomons.com.sb",
     "tags": {
       "name": "Tambea Caves",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Cave system near Tambea village, ~40km west of Honiara, Guadalcanal coast. ~6 interconnected caves, passages 1-2m wide, at least one tight squeeze. Guide-led dive. Max 15m, ~24m visibility outside. Overhead environment.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -278,12 +298,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,bilikiki.com,visitsolomons.com.sb",
     "tags": {
       "name": "Sea Lark Channel",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Drift dive along Sealark Reef east of Honiara on incoming tide. Reef drops surface to 30m+. Large gorgonian sea fans bent by persistent current. Napoleon (humphead) wrasse along reef edge. 50-60 min drift, 2+ knots at bends. ~25m visibility.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -295,29 +317,33 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org,nzhistory.govt.nz,michaelmcfadyenscuba.info",
     "tags": {
       "name": "HMNZS Moa",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "New Zealand Bird-class minesweeper, 51.2m (168ft) long, 607 tons standard displacement (NOT 825 tons - unsupported figure). Sunk 7 April 1943 by Japanese Aichi D3A Val dive bombers during Operation I-Go at Tulagi. Direct bomb hit through captain's cabin, sank within ~4 minutes. 5 crew killed. Wreck upright at ~40m with slight port list. 4-inch bow gun, anti-aircraft gun, twin depth charge racks, bomb hole in starboard hull all visible. War grave.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
     "name": "Kawanishi Mavis Flying Boat",
     "lat": -9.108861,
     "lon": 160.186,
-    "depth": 30,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,wreckedinmyrevo.com,divephotoguide.com",
     "tags": {
       "name": "Kawanishi Mavis Flying Boat",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Kawanishi H6K 'Mavis' four-engine flying boats attacked at Ghavutu-Tanambogo 7 Aug 1942 (opening day of Guadalcanal invasion). 7 H6K aircraft plus 8 Rufe floatplanes were present (total 15 aircraft, not '10-13' as previously stated); destroyed by F4F Wildcats in surprise dawn raid. Best two Mavis wrecks at 30-34m off Tanambogo Island. Wingspan ~40m confirmed for H6K. Cockpit instruments, reconnaissance camera may still be visible. War grave.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -329,12 +355,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,bilikiki.com,visitsolomons.com.sb",
     "tags": {
       "name": "Twin Tunnels",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Near Tulagi (~1km SE of Tulagi Island), Florida Islands. Two vertical lava tubes dropping from seamount plateau (12-16m) to junction cave/chamber at ~34-36m with crayfish. Reef rises from 70m+ depth. NOTE: 'Bayldon Shoals' is a SEPARATE nearby site (long shallow reef 18m top, SW wall); 'Soghonangola Island' is unverifiable in geographic sources. Grey reef sharks, whitetip sharks, fusiliers, trevally, snappers, multiple anemonefish species.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -346,29 +374,33 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org,destroyerhistory.org,michaelmcfadyenscuba.info",
     "tags": {
       "name": "USS Aaron Ward",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Gleaves-class destroyer (Bristol sub-group) DD-483, 348 feet long. CORRECTED SINKING DATE: Sunk 7 April 1943 by Japanese dive bombers during Operation I-Go near Tinete Point, Nggela Sule (NOT sunk 13 Nov 1942 during First Naval Battle of Guadalcanal - she survived that battle damaged). Wreck upright, deck at ~63m, deepest ~70m. Technical dive only. Guns, torpedo tubes, depth charge racks visible. War grave.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
     "name": "Hundred Thousand Dollar Point",
     "lat": -9.08,
     "lon": 160.15,
-    "depth": 35,
+    "depth": 26,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,bilikiki.com,visitsolomons.com.sb",
     "tags": {
       "name": "Hundred Thousand Dollar Point",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Northern end of Tulagi Island. Post-WWII Allied equipment dump documented by McFadyen (page_id=388) as 'Hundred Thousand Dollar Point'. Contents: trucks incl. 6-wheel drive, jeeps, engines, wheels, pontoons, Coca-Cola bottles, girders, trailers. ~200m debris field. NOTE: Depth should be 20-26m per published Tulagi dive sources (Base 1); the 35m figure requires local verification. 'Hundred Thousand Dollar Point' name not found in any other published dive guide - the Tulagi dump site is variously called 'Base 1' or 'Ship Dump'. Different from Vanuatu's 'Million Dollar Point'. White Beach (Russell Islands) has similar features and may be the source of some description details.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -380,12 +412,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,pacificwrecks.com,wreckedinmyrevo.com",
     "tags": {
       "name": "Grumman Hellcat",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "F6F-3 Hellcat serial 25389. Shot down 16 Sep 1943 by friendly fire from Major Gregory 'Pappy' Boyington (flying F4U Corsair). Location: 3km south of Kolombangara in Blackett Strait, near Queue (Quomu) Island. Fully intact at 11m, flaps down, cockpit open with instruments. Starboard wing buried in coral. Discovered 1985. Confirmed by McFadyen and pacificwrecks.com.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -397,12 +431,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,divegizo.com,indopacificimages.com",
     "tags": {
       "name": "Grand Central Station",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Signature reef dive of Gizo area, WNW of Toa Maru wreck. Best in strong current: whitetip and grey reef sharks, barracuda schools, giant sweetlips, clown and titan triggerfish. 30-35m.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -410,16 +446,18 @@
     "lat": -8.05,
     "lon": 156.8,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,divegizo.com,indopacificimages.com",
     "tags": {
       "name": "The Gap",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "SE corner of Ghizo Island, main entrance to Gizo Harbour. Wall dive with huge gorgonian sea fans, basket sponges, thousands of garden eels on sandy bottom. Eagle rays, grey reef sharks, barracuda, tuna, trevally. 30m+ visibility. CORRECTED site_type from reef to wall.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -427,16 +465,18 @@
     "lat": -8.09,
     "lon": 156.78,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,divegizo.com,indopacificimages.com",
     "tags": {
       "name": "Top Secret Place",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "South of Nusa Aghana Island, SE Ferguson Passage, ~20 min from Gizo. Wall drops 60m+. Known for manta rays, large rays, grey reef sharks, sea snakes. 40m+ visibility at depth. CORRECTED site_type from reef to wall.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -448,12 +488,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,divegizo.com,indopacificimages.com",
     "tags": {
       "name": "MV Roylen Petaj",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Former RAN Fairmile motor launch ML 805, 112 feet (34m), 75 tons. Scuttled in Gizo Harbour. Lists to starboard at 14m. Batfish, lionfish, trevally. 2008 tsunami may have altered condition.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -465,12 +507,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,bilikiki.com,visitsolomons.com.sb",
     "tags": {
       "name": "Tokuyo Maru",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Japanese fishing trawler ~40m long, sunk 24 Dec 1987 near Ferguson Passage after locals moved a channel marker. Lies on port side at 38m. Name still visible on stern. Modern vessel, not a war wreck. Primarily documented by McFadyen (page_id=394).",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -482,12 +526,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org,michaelmcfadyenscuba.info,navsource.net",
     "tags": {
       "name": "USS Kanawha",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Fleet oiler AO-1, 145m long (475ft 7in - NOT 137m as previously stated). Attacked by Japanese Val dive bombers 7 April 1943 during Operation I-Go, same raid as HMNZS Moa and USS Aaron Ward. Slid off beached position and sank early 8 April 1943. Upright facing south near Tulagi. Multiple gun positions at 43-48m, propellers buried at 57-58m. 19 crew lost. War grave.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -499,12 +545,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org,michaelmcfadyenscuba.info,history.navy.mil",
     "tags": {
       "name": "USS Minneapolis Bow",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "Severed bow of New Orleans-class heavy cruiser USS Minneapolis CA-36. Bow cut off after two torpedo hits at Battle of Tassafaronga 30 Nov 1942. Ship reached Tulagi; Navy divers and Seabees cut the bow free where it sank. Lies inverted (upside-down) at 15-20m facing out from shore. China plates, portlights, landing craft and WWII debris on surrounding seabed. War grave.",
+      "last_qa_date": "2026-06-30"
     }
   },
   {
@@ -516,12 +564,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,divegizo.com,indopacificimages.com",
     "tags": {
       "name": "Mitsubishi Zero Gizo",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "notes": "A6M Zero fighter off Gizo market near Catholic Cathedral, 8-10m. Guns and instruments removed; landing gear down (inconsistent with water landing, suggests placed here). Fuselage broken behind cockpit, tail inverted nearby, port wing buried. Canopy and basic airframe identifiable.",
+      "last_qa_date": "2026-06-30"
     }
   }
 ]

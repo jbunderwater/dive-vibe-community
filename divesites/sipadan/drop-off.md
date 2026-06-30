@@ -13,10 +13,10 @@ addedBy: osm_import
 
 # Drop Off
 
-The original Sipadan dive site where Jacques Cousteau's team first explored the island's legendary vertical wall, now famous for swirling bigeye jack formations and morning bumphead parrotfish parades
+Sipadan's most accessible vertical wall, where the reef drops from just 3 metres into the abyss of the Celebes Sea — famous for swirling bigeye jack formations and morning bumphead parrotfish parades
 
 ## Overview
-Drop Off is where Sipadan's diving legend began. Located directly below the old resort jetty on the island's eastern side, this was the site explored by Jacques Cousteau's team when they brought Sipadan to the world's attention. The wall starts at just 3 metres and drops vertically beyond recreational diving limits into the abyss of the Celebes Sea. It remains one of the most reliable sites on the island for large marine life encounters, particularly the massive schools of bigeye jacks that form hypnotic swirling vortex formations in the blue water just off the wall. Early morning dives bring schools of 50 or more bumphead parrotfish crunching their way along the reef crest.
+Drop Off is one of Sipadan's most iconic dive sites. Located on the island's northern side close to the former jetty area, the wall starts at just 3 metres from the surface and drops vertically beyond recreational diving limits. When accommodation still existed on Sipadan prior to 2004, this site was regularly voted one of the best shore dives in the world; it is now accessed by boat in common with all Sipadan diving. It remains one of the most reliable sites on the island for large marine life encounters, particularly the massive schools of bigeye jacks that form hypnotic swirling vortex formations in the blue water just off the wall. Early morning dives bring schools of 50 or more bumphead parrotfish crunching their way along the reef crest.
 
 ## Site Information
 - **Location**: Sipadan Island, Sabah, Malaysia
@@ -40,7 +40,7 @@ Boat dive from Mabul or Kapalai island resorts, approximately 15 minutes by spee
 ## Tips and Recommendations
 - Arrive on the first boat for the best chance of encountering the bumphead parrotfish school — they move along the reef crest in early morning
 - Allow the bigeye jack school to approach you rather than swimming into the formation
-- Sipadan permits are limited to 120 per day — confirm your permit allocation with your resort before travel
+- Sipadan permits are limited to 176 per day — confirm your permit allocation with your resort before travel
 - The shallow wall start makes this an excellent site for longer bottom times at moderate depths
 - Carry a torch to illuminate the rich colours of soft corals and gorgonians growing on the wall face
 
@@ -51,4 +51,4 @@ The sheer vertical wall dropping from 3 metres means there is no gradual slope t
 Wide-angle is the primary lens choice. The bigeye jack vortex formations are among the most photogenic subjects at Sipadan — shoot upward with natural light for dramatic silhouettes, or use strobes to bring out the silver and gold colouration. Bumphead parrotfish close-ups on the reef crest make powerful portraits. The vertical wall with soft corals and a diver for scale creates classic wall-dive compositions. Turtles resting on wall ledges are reliable subjects at any time of day.
 
 ---
-*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/). Last updated 2026-06-30.*

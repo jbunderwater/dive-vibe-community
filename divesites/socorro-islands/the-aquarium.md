@@ -21,7 +21,7 @@ The Aquarium is a shallow dive site on San Benedicto Island, named for its excep
 ## Site Information
 - **Location**: San Benedicto Island, Socorro Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15-25 metres
@@ -29,7 +29,7 @@ The Aquarium is a shallow dive site on San Benedicto Island, named for its excep
 - **Best Time**: November to June
 
 ## Marine Life
-The site's shallow volcanic structure supports a concentration of reef fish uncommon in the open-ocean environment of the Revillagigedo. Endemic Clarion angelfish and Clarion damselfish — found nowhere else on Earth — are abundant here. Schools of surgeonfish, parrotfish, and wrasses populate the volcanic reef. Moray eels occupy crevices in the lava rock. Nudibranchs and other macro subjects are found on the rocky substrate. Despite the shallow, reef-focused character, manta rays make passes over the site, and whitetip reef sharks rest in overhangs. The site name reflects the feeling of being surrounded by dense fish life in clear water.
+The site's shallow volcanic structure supports a concentration of reef fish unusual in the open-ocean environment of the Revillagigedo. Endemic Clarion angelfish — found only in the Revillagigedo Archipelago — are present. The UW Photography Guide identifies The Aquarium as the best macro site in the Socorro Islands, with blennies and nudibranchs among the confirmed subjects. Moray eels occupy crevices in the lava rock. Schools of reef fish surround the shallow volcanic substrate, giving the site its name. Whitetip reef sharks rest in overhangs. Manta rays and pelagic species pass by the site. The Aquarium also serves as a staging area from which whale activity in the surrounding open water is sometimes visible during surface intervals.
 
 ## Dive Profile
 A relaxed shallow dive, rarely exceeding 15 metres. Work along the volcanic reef structures, exploring crevices and overhangs. The shallow depth allows for extended bottom times — an ideal third or fourth dive of the day after deeper sites. The reef's compact size makes it easy to cover thoroughly in a single dive.
@@ -39,7 +39,7 @@ Zodiac tender from the liveaboard. Giant stride entry into relatively sheltered 
 
 ## Tips and Recommendations
 - Bring macro lenses or a close-focus setup — this is the best macro site in the archipelago
-- Look for endemic Clarion angelfish and Clarion damselfish in the shallows
+- Look for endemic Clarion angelfish in the shallows — they are the most distinctive Revillagigedo endemic at this site
 - An excellent site for extended bottom time after deeper morning dives
 - Check every overhang and crevice for moray eels and nudibranchs
 - Gloves are prohibited throughout the marine park
@@ -51,4 +51,4 @@ The shallow depth and typically milder conditions make this one of the more acce
 The Aquarium is the best site in the Socorro Islands for macro photography. Endemic Clarion angelfish provide colourful, cooperative subjects. Dense schools of reef fish in clear water create vibrant wide-angle compositions at shallow depths with excellent natural light. The volcanic substrate provides interesting textures and backdrops.
 
 ---
-*Sources: [Mexico Liveaboards - Socorro Revillagigedo](https://mexicoliveaboards.com/destination-socorro.html), [Baja Wild Encounters - Socorro Islands Diving](https://bajawildencounters.com/socorro-islands-scuba-diving-liveaboard-expedition-mexico), [Bluewater Dive Travel - Socorro Island Diving](https://www.bluewaterdivetravel.com/destination/socorro-island-diving), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/), [Dive Worldwide - Socorro Revillagigedo](https://www.diveworldwide.com/locations/socorro). Last updated 2026-04-04.*
+*Sources: [UW Photography Guide - Socorro Islands](https://www.uwphotographyguide.com/book/underwater-photography-guide/underwater-photography-destinations/socorro-islands-diving/), [SSI Blog - Socorro Islands](https://www.divessi.com/en/blog/discover-socorro-islands-7600.html), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/). Last updated 2026-06-30.*
