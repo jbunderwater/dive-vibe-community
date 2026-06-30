@@ -21,8 +21,8 @@ Coral Gardens — sometimes called Coral Garden — is located northeast of Sipa
 ## Site Information
 - **Location**: Sipadan Island, Sabah, Malaysia (northeastern side)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with wall edge
-- **Difficulty Level**: Intermediate (Open Water sufficient for the shallow reef sections)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 15-30 metres
 - **Current**: Mild to moderate

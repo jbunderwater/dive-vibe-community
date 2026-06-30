@@ -3,7 +3,7 @@ name: Bonegi 2 Wreck
 lat: -9.378833
 lng: 159.870222
 difficulty: Beginner
-maxDepth: 23
+maxDepth: 27
 entryType: shore
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ The Bonegi 2 Wreck — also known as the Kinugawa Maru — is a WWII Japanese fr
 
 ## Overview
 
-The Kinugawa Maru was sunk in the same November 1942 action as the Hirokawa Maru during the Guadalcanal campaign. The wreck sits at a gentler angle with the shallowest sections in roughly 5 meters and the deepest structural remnants at around 23 meters. Decades of coral growth have softened the steel into a colourful artificial reef, and the broken hull sections create an open, non-penetration dive that suits less experienced wreck divers well. The site is regularly dived in combination with Bonegi 1 as a two-wreck day trip from Honiara.
+The Kinugawa Maru was beached on 15 November 1942, the same day as the Hirokawa Maru, during the Guadalcanal campaign. The wreck sits at a gentler angle with the shallowest sections in roughly 5–7 meters and the deepest structural remnants at around 27 meters (stern). Some sources cite 23m; McFadyen and Wikipedia both give 27m for the stern. Decades of coral growth have softened the steel into a colourful artificial reef, and the broken hull sections create an open, non-penetration dive that suits less experienced wreck divers well. The site is regularly dived in combination with Bonegi 1 as a two-wreck day trip from Honiara.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Kinugawa Maru was sunk in the same November 1942 action as the Hirokawa Maru
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 23 meters
+- **Maximum Depth**: 27 meters (stern)
 - **Typical Visibility**: 15–25 meters
 - **Current**: Light
 - **Best Time**: April to November
@@ -59,4 +59,4 @@ Currents at this site are minimal and conditions are generally benign, making it
 The combination of encrusted steel and natural light makes for appealing wide-angle shots along the hull. The shallower sections in 5–10 meters are particularly well-lit and ideal for natural-light photography without a strobe. Macro photographers will find nudibranchs, flatworms, and decorator crabs throughout the hull plating. A 60mm or 100mm macro lens rewards patience here.
 
 ---
-*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-04-04.*
+*Sources: [Wikipedia - Kinugawa Maru](https://en.wikipedia.org/wiki/Kinugawa_Maru), [Michael McFadyen's Scuba](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=375), [DivePlanIt - Kinugawa Maru](https://www.diveplanit.com/dive-site/kinugawa-maru-bonegi-2/). Last updated 2026-06-30.*

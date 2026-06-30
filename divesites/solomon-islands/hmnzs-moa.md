@@ -13,13 +13,13 @@ addedBy: osm_import
 
 # HMNZS Moa
 
-A New Zealand minesweeper/corvette -- 51.2 metres long, 825 tons -- sunk by Japanese Val dive bombers on 7 April 1943 at Tulagi. The Moa sits upright with a slight port list at 36-40 metres, remarkably intact with her armament, engine room machinery, and depth charge racks all clearly identifiable.
+A New Zealand Bird-class minesweeper -- 51.2 metres long (168 feet), 607 tons standard displacement (923 tons full load) -- sunk by Japanese Val dive bombers on 7 April 1943 at Tulagi. The Moa sits upright with a slight port list at 36–40 metres, remarkably intact with her armament, engine room machinery, and depth charge racks all clearly identifiable.
 
 ## Overview
 
-HMNZS Moa was a Bird-class minesweeper serving with the Royal New Zealand Navy during the Guadalcanal campaign. On 7 April 1943, Japanese Aichi D3A "Val" dive bombers attacked the anchorage at Tulagi, scoring hits on the Moa and sinking her. The wreck now sits upright on the seabed at 36-40 metres with a slight list to port.
+HMNZS Moa was a Bird-class minesweeper serving with the Royal New Zealand Navy during the Guadalcanal campaign. On 7 April 1943, Japanese aircraft (including Aichi D3A "Val" dive bombers) attacked Tulagi anchorage during Operation I-Go. A direct bomb hit through the captain's cabin detonated in the bowels of the ship; Moa sank within approximately four minutes. Five crew members were killed. The same air raid also sank USS Kanawha and USS Aaron Ward that day.
 
-The wreck is remarkably well preserved. A large bomb hole is visible in the starboard hull -- the damage that sank her. The propeller and rudder at the stern are intact. Twin depth charge racks remain in position on the stern deck. The 4-inch bow gun is still mounted forward, and an anti-aircraft gun is positioned amidships. The engine room is accessible and contains the boiler and propulsion machinery. Firefish (lionfish) are found throughout the wreck structure.
+The wreck now sits upright on the seabed at 36–40 metres with a slight list to port. A large bomb hole is visible in the starboard hull — the damage that sank her. The propeller and rudder at the stern are intact. Twin depth charge racks remain in position on the stern deck. The 4-inch bow gun is still mounted forward, and an anti-aircraft gun is positioned amidships. The engine room is accessible and contains the boiler and propulsion machinery. Lionfish are found throughout the wreck structure. The Moa is the only Royal New Zealand Navy warship sunk by enemy action that is diveable.
 
 ## Site Information
 

@@ -99,7 +99,7 @@
     }
   },
   {
-    "name": "Leru Cut Russell Islands",
+    "name": "Leru Cut",
     "lat": -9.0833,
     "lon": 160.25,
     "osm_id": null,
@@ -112,8 +112,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "liveaboard.com,diveplanit.com,solomonislandsdiving.com",
-      "notes": "CORRECTED LOCATION: Russell Islands (not Florida Islands as previously stated). Narrow volcanic chasm on Leru Island in Eastern Russell Islands. ~100m passage at 15-20m depth, open sky above, sunlight shafts. Lobsters at end of cut, pygmy seahorses on sea fans at entrance. Liveaboard access only.",
+      "validation_source": "diveplanit.com,masterliveaboards.com,solomonislandsdiving.com",
+      "notes": "CORRECTED LOCATION: Eastern Russell Islands (NOT Florida Islands as previously stated - coordinates are approximate for Russell Islands). Narrow volcanic chasm on Leru Island. ~100m passage at 12-23m depth, open sky above, sunlight shafts. Lobsters/crayfish at end of cut, pygmy seahorses on sea fans at entrance. Liveaboard access only. One of the most-photographed sites in the Solomon Islands.",
       "last_qa_date": "2026-06-30"
     }
   },
@@ -138,8 +138,8 @@
   },
   {
     "name": "Sandfly Passage",
-    "lat": -9.1,
-    "lon": 160.32,
+    "lat": -9.03,
+    "lon": 160.08,
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
@@ -150,8 +150,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "thescubadirectory.com,emperordivers.com,mapcarta.com",
-      "notes": "COORDINATES CORRECTED: Sandfly Passage is between Nggela Sule and Mbokonimbeti Islands (Florida Islands / Guadalcanal Province), NOT near Gizo/Western Province as previously stated. Drift dive with strong currents, grey reef sharks, barracuda, eagle rays. Advanced due to current strength.",
+      "validation_source": "thescubadirectory.com,diveadventures.com.au,geographic.org",
+      "notes": "COORDINATES CORRECTED by ~250km: Sandfly Passage is between Nggela Sule and Mbokonimbeti/Olevugha Islands (Florida Islands / Guadalcanal Province) at approx -9.03, 160.08. Previous coordinates (-8.08, 156.85) incorrectly placed it near Gizo/Western Province. Wall/drift dive 3-40m with large sea fans, strong tidal currents, manta rays, nudibranchs, fusilier schools. Simon's Nature Reserve (80+ coral genera) is within the passage. MS World Discoverer ran aground here in 2000.",
       "last_qa_date": "2026-06-30"
     }
   },
@@ -361,7 +361,7 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "notes": "Bayldon Shoals, ~3km SSW of Soghonangola Island, Florida Islands. Two vertical holes dropping from reef top (12m) to junction cave at ~35m with crayfish. Reef rises from 60m+ depth. Whitetip and grey reef sharks, fusiliers, rainbow runners.",
+      "notes": "Near Tulagi (~1km SE of Tulagi Island), Florida Islands. Two vertical lava tubes dropping from seamount plateau (12-16m) to junction cave/chamber at ~34-36m with crayfish. Reef rises from 70m+ depth. NOTE: 'Bayldon Shoals' is a SEPARATE nearby site (long shallow reef 18m top, SW wall); 'Soghonangola Island' is unverifiable in geographic sources. Grey reef sharks, whitetip sharks, fusiliers, trevally, snappers, multiple anemonefish species.",
       "last_qa_date": "2026-06-30"
     }
   },
@@ -388,7 +388,7 @@
     "name": "Hundred Thousand Dollar Point",
     "lat": -9.08,
     "lon": 160.15,
-    "depth": 35,
+    "depth": 26,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -399,7 +399,7 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "notes": "Northern end of Tulagi Island. Post-WWII Allied equipment dump: trucks (incl. 6-wheel drive), jeeps, engines, wheels, pontoons, thousands of Coca-Cola bottles, girders, trailers. ~200m debris field, shore to 30-35m. Documented by McFadyen page_id=388. Different from 'Million Dollar Point' which is in Vanuatu.",
+      "notes": "Northern end of Tulagi Island. Post-WWII Allied equipment dump documented by McFadyen (page_id=388) as 'Hundred Thousand Dollar Point'. Contents: trucks incl. 6-wheel drive, jeeps, engines, wheels, pontoons, Coca-Cola bottles, girders, trailers. ~200m debris field. NOTE: Depth should be 20-26m per published Tulagi dive sources (Base 1); the 35m figure requires local verification. 'Hundred Thousand Dollar Point' name not found in any other published dive guide - the Tulagi dump site is variously called 'Base 1' or 'Ship Dump'. Different from Vanuatu's 'Million Dollar Point'. White Beach (Russell Islands) has similar features and may be the source of some description details.",
       "last_qa_date": "2026-06-30"
     }
   },

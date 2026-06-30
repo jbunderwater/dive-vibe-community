@@ -4,37 +4,30 @@ addedBy: osm_import
 
 ## Sipadan
 
-Legendary for barracuda tornadoes, green turtle encounters, and dramatic wall diving.
+Legendary for barracuda tornadoes, green turtle encounters, and dramatic wall diving — Malaysia's only oceanic island and consistently ranked among the world's top dive destinations.
 
 ## Description
 
-Sipadan is a notable diving destination in the Asia region with depths ranging from 5 to 30 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Sipadan is a small oceanic island in the Celebes Sea off the east coast of Sabah, Malaysian Borneo. The island sits atop a limestone pinnacle rising from the seabed around 600 metres below, surrounded by a vertical wall that drops away almost from the shoreline. The reef is rich in hard and soft coral, turtles, sharks, and schooling pelagics. Access to Sipadan is controlled by Sabah Parks, which issues 176 dive permits per day distributed among licensed operators. All resorts were removed from the island in 2004 and diving is now conducted by day-boat from Mabul, Kapalai, or Semporna. Water temperatures average 26-30°C year-round with typical visibility of 15-40 metres.
 
-### Diving Opportunities
+### Diving Character
 
-- **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+Sipadan is primarily a wall diving destination. The vertical wall encircles the entire island, starting between 3 and 5 metres from the surface and dropping beyond recreational limits everywhere. Current conditions vary considerably around the island — the northern tip (Barracuda Point) and southern tip (South Point) experience the strongest currents and are best suited to Advanced divers. The western and northeastern wall sections are somewhat more sheltered. The island is also notable for its submarine cave system (Turtle Cavern/Turtle Tomb), which requires full cave diving certification to enter.
+
+### Marine Life
+
+Sipadan's signature species include resident chevron barracuda that form the iconic tornado formation at Barracuda Point, large populations of green and hawksbill turtles that are encountered on every dive, and schools of bigeye jacks and bumphead parrotfish. Whitetip and grey reef sharks are seen regularly across all sites. Scalloped hammerhead sharks are encountered — most reliably at South Point and in blue water off the deeper sections of the wall, typically during early morning dives. The island's coral coverage is exceptional, ranging from staghorn and acropora fields on the shallower reef crests to Dendronephthya alcyonarian soft corals and gorgonian fans on the deeper wall terraces.
 
 ### Accessibility
 
-- **Getting There**: Sipadan is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Getting There**: Fly to Tawau (nearest airport), then road transfer to Semporna (~1 hour), then speedboat to Mabul (30-45 minutes). All Sipadan diving operates by day-boat from Mabul or Kapalai.
+- **Permits**: 176 permits per day issued by Sabah Parks. Permits are distributed exclusively through licensed operators — book well in advance, particularly for peak season (April-December).
+- **Accommodation**: Dive resorts on Mabul Island (Scuba Junkie, Sipadan Water Village, others) and Kapalai (Kapalai Dive Resort) serve as the base for Sipadan diving. Liveaboard options also operate in the area.
+- **Hyperbaric Chamber**: The nearest chamber is in Kota Kinabalu, approximately one hour by air from Semporna.
 
-### Marine Life & Environment
+### Best Season
 
-- **Water Conditions**: Water temperatures range from 26-30°C (79-86°F) with visibility of 10-40 meters (30-130 feet). Currents are generally variable, can be very strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including green and hawksbill turtles, whitetip reef sharks, barracuda tornado, jacks, bumphead parrotfish.
-- **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
-
-## Additional Information
-
-- **Best Time to Visit**: October to April (varies by location). Diving is possible year-round.
-- **Currency**: Malaysian Ringgit (MYR)
-- **Language**: Malay, English
-- **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
+April to December offers the calmest seas and best visibility. Seas can be rougher December through March, though diving is possible year-round. Permit availability is the main limiting factor, not conditions.
 
 ---
-*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Southeast Asia Diving Sipadan Guide](https://www.southeastasiadiving.com/blog/sipadan-diving-guide-permits-best-season-and-what-to-expect), [Mabul.com Diving in Sipadan](https://www.mabul.com/diving-in-sipadan/). Last updated 2026-06-30.*

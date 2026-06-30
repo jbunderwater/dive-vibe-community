@@ -23,7 +23,7 @@ Mid Reef sits on Sipadan's eastern wall between the island's two most famous cur
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters (wall descends well beyond; safety stop over 6-metre hard coral flat)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 metres
 - **Current**: Moderate to strong — can also push upward due to cold water thermoclines rising from depth
 - **Best Time**: April to December
