@@ -23,7 +23,7 @@ Primary beach entry point for Lauderdale-by-the-Sea's renowned shore diving, off
 
 - **Location**: South Florida, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
 
@@ -48,4 +48,4 @@ The Shipwreck Snorkel Trail — dedicated in 2002 by Jean-Michel Cousteau and bu
 A diver-down flag is required by Florida law and is especially important here: the area sees heavy recreational boat and jet-ski traffic, particularly on weekends. Watch for fishing lines drifting from nearby Anglin's Pier, and be aware of seasonal jellyfish, sea lice, and Sargassum mats (heaviest in early summer). Florida sun is intense year-round on this exposed beach — bring water and reef-safe UV protection topside.
 
 ---
-*Sources: [Gold Coast Scuba - LBTS Coral Reef Guide](https://goldcoastscuba.net/pages/lauderdale-by-the-sea-coral-reef-guide), [Force-E Scuba - Lauderdale-by-the-Sea Shore Dive](https://www.force-e.com/go-diving/shore-dive-sites/lauderdale-by-the-sea-shore-dive/), [Discover LBTS - Diving & Snorkeling](https://www.discoverlbts.com/diving-snorkeling/), [Live Free Diving - Lauderdale-by-the-Sea Shore Diver's Paradise](https://livefreediving.com/blog/lauderdale-by-the-sea/), [Town of Lauderdale-by-the-Sea - Diving & Snorkeling](https://www.lauderdalebythesea-fl.gov/230/Diving-Snorkeling). Last updated 2026-05-17.*
+*Sources: [Gold Coast Scuba - LBTS Coral Reef Guide](https://goldcoastscuba.net/pages/lauderdale-by-the-sea-coral-reef-guide), [Force-E Scuba - Lauderdale-by-the-Sea Shore Dive](https://www.force-e.com/go-diving/shore-dive-sites/lauderdale-by-the-sea-shore-dive/), [Discover LBTS - Diving & Snorkeling](https://www.discoverlbts.com/diving-snorkeling/), [Town of Lauderdale-by-the-Sea - Diving & Snorkeling](https://www.lauderdalebythesea-fl.gov/230/Diving-Snorkeling). Last updated 2026-06-30.*

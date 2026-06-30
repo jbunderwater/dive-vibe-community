@@ -17,13 +17,13 @@ Breakers Reef is a reef dive site in South Florida, North America.
 
 ## Overview
 
-Iconic reef system extending for miles off West Palm Beach adjacent to the historic Breakers Hotel. Depths range from 42-65 feet (12.8-19.8m) with shallower ledge formations (5-10 feet relief). Popular drift dive destination for open water certified divers experiencing consistent current conditions. Pristine coral formations with excellent macro and wide-angle photography opportunities. Marine life includes groupers, snappers, and various pelagic species.
+Limestone ledge reef running north-south for several miles off West Palm Beach, named for its position offshore from the historic Breakers Hotel. Operator-confirmed depths of approximately 50-65 feet (15-20m) with a continuous ledge rising 5-10 feet off the sand. Popular live-boat Gulf Stream drift dive. The northern Fourth Window section is the standard charter drop point. Operators: Force-E Riviera Beach and Stuart Scuba.
 
 ## Site Information
 
 - **Location**: South Florida, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 17 meters
 
@@ -54,4 +54,4 @@ Boat dive only. Charters depart from Riviera Beach and West Palm Beach marinas; 
 - Watch for fire coral and hydroids on the ledge undercuts; lionfish are present.
 
 ---
-*Sources: [Force-E Scuba Centers - Breakers Reef](https://www.force-e.com/go-diving/boat-dive-sites/breakers-reef/), [Stuart Scuba - Breaker's Reef](https://www.stuartscuba.com/charters/breaker-s-reef-palm-beach), [Florida Scuba Diving - Breakers Reef Guide](https://www.florida-scubadiving.com/dive-breakers-reef-palm-beach-best-guide-tips/). Last updated 2026-05-17.*
+*Sources: [Force-E Scuba Centers - Breakers Reef](https://www.force-e.com/go-diving/boat-dive-sites/breakers-reef/), [Stuart Scuba - Breaker's Reef](https://www.stuartscuba.com/charters/breaker-s-reef-palm-beach), [Stuart Scuba - Fourth Windows](https://www.stuartscuba.com/charters/fourth-windows-breakers-reef-palm-beach), [Florida Scuba Diving - Breakers Reef Guide](https://www.florida-scubadiving.com/dive-breakers-reef-palm-beach-best-guide-tips/). Last updated 2026-06-30.*

@@ -23,7 +23,7 @@ Unique underwater memorial reef designed as an artistic representation of the Lo
 
 - **Location**: South Florida, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
@@ -56,4 +56,4 @@ Boat dive only, run by Miami-area operators out of Key Biscayne, Crandon Park, a
 Wide-angle lenses suit the architectural elements — gates, columns, and the lion statues — while macro work pays off on the encrusting coral and invertebrate life colonizing the benches. Stable buoyancy is essential to avoid kicking up sand against the white bottom.
 
 ---
-*Sources: [Squalo Divers — Neptune Memorial Reef](https://www.scubadivinginmiami.com/sites/neptune-memorial-reef/), [Active Divers Association reef report](https://www.active-divers.org/local-reef-reports/neptune-memorial-reef), [Greater Cleveland Aquarium dive feature](https://www.greaterclevelandaquarium.com/best-places-to-dive-neptune-memorial-reef/), [Florida Scuba Diving — Neptune Memorial Reef guide](https://www.florida-scubadiving.com/neptune-memorial-reef-miami-diving-guide-tips/). Last updated 2026-05-17.*
+*Sources: [Squalo Divers — Neptune Memorial Reef](https://www.scubadivinginmiami.com/sites/neptune-memorial-reef/), [Active Divers Association reef report](https://www.active-divers.org/local-reef-reports/neptune-memorial-reef), [Florida Scuba Diving — Neptune Memorial Reef guide](https://www.florida-scubadiving.com/neptune-memorial-reef-miami-diving-guide-tips/), [Neptune Society — Neptune Memorial Reef](https://www.neptunesociety.com/cremation-information-articles/neptune-memorial-reef). Last updated 2026-06-30.*

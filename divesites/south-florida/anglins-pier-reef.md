@@ -17,13 +17,13 @@ Anglins Pier Reef is a reef dive site in South Florida, North America.
 
 ## Overview
 
-Premier shore dive located south of Anglins Fishing Pier in Lauderdale-by-the-Sea, known as the Shore Dive Capital of South Florida. The reef system features three distinct zones at depths of 12-18 feet (3.7-5.5m), with the first reef beginning approximately 100 feet from shore and accessible via entry from Datura Avenue beach. A 10-12 foot ledge runs parallel to shore. Abundant marine life includes reef sharks, sea turtles, nurse sharks, stingrays, Caribbean reef sharks, Blue Tangs, lobsters, and scorpionfish. The living coral reef sits just 100-400 feet from the beach, making it one of the most accessible dive spots in the world.
+Premier shore dive south of Anglins Fishing Pier (closed since 2022 hurricane damage) in Lauderdale-by-the-Sea. The reef system features three zones at depths of 12-18 feet (3.7-5.5m), with the first reef beginning 100-400 feet from shore, accessible via the Datura Avenue beach entry. A 10-12 foot ledge runs parallel to shore. Confirmed marine life includes sea turtles, nurse sharks, stingrays, moray eels, spiny lobster, tarpon, and tropical reef fish; Caribbean reef sharks are occasionally sighted. One of the most accessible reef dives in South Florida.
 
 ## Site Information
 
 - **Location**: South Florida, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5.5 meters
 
@@ -54,4 +54,4 @@ Standard entry is from the public beach at 1 Datura Avenue (Datura Avenue and El
 - Avoid contact with fire coral on the ledge and watch for jellyfish, sea lice, and Sargassum drift, especially in early summer.
 
 ---
-*Sources: [South Florida Diving Headquarters - Anglin Pier Reef](https://www.southfloridadiving.com/dive-sites/reef-dive-site/anglin-pier-reef/), [Gold Coast Scuba - Lauderdale-by-the-Sea Reef Guide](https://goldcoastscuba.net/pages/lauderdale-by-the-sea-coral-reef-guide), [Dive Master Austin - Lauderdale by the Sea](https://divemasteraustin.com/dive-sites/lauderdale-by-the-sea), [Live Free Diving - Lauderdale-by-the-Sea](https://livefreediving.com/blog/lauderdale-by-the-sea/), [Lauderdale-By-The-Sea Snorkeling & Scuba](https://www.lauderdalebythesea-fl.gov/374/Snorkeling-Scuba-Diving). Last updated 2026-05-17.*
+*Sources: [South Florida Diving Headquarters - Anglin Pier Reef](https://www.southfloridadiving.com/dive-sites/reef-dive-site/anglin-pier-reef/), [Gold Coast Scuba - Lauderdale-by-the-Sea Reef Guide](https://goldcoastscuba.net/pages/lauderdale-by-the-sea-coral-reef-guide), [Town of Lauderdale-by-the-Sea - Diving & Snorkeling](https://www.lauderdalebythesea-fl.gov/374/Snorkeling-Scuba-Diving), [Force-E Scuba - LBTS Shore Dive](https://www.force-e.com/go-diving/shore-dive-sites/lauderdale-by-the-sea-shore-dive/), [Anglin's Pier Timeline - Lauderdale-by-the-Sea](https://www.lauderdalebythesea-fl.gov/601/Anglins-Pier-Timeline). Last updated 2026-06-30.*
