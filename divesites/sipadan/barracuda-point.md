@@ -41,7 +41,7 @@ Boat dive from Mabul or Kapalai island resorts, approximately 15 minutes by spee
 - Do not chase or swim into the barracuda tornado — stay still and let the school circle around you for the best experience and photographs
 - Dive early morning for the best chance of bumphead parrotfish passing through
 - Carry a reef hook if your operator permits — useful for holding position in strong current while watching the barracuda
-- Sipadan permits are limited to 120 divers per day and must be arranged through your resort well in advance
+- Sipadan permits are limited to 176 divers per day and must be arranged through your resort well in advance
 - Nitrox is recommended to extend bottom time in the 15-25 metre zone where the best encounters occur
 
 ## Safety Considerations
@@ -51,4 +51,4 @@ Strong and unpredictable currents are the primary hazard. Down-currents along th
 Wide-angle is essential. The barracuda tornado against the deep blue wall backdrop is the signature Sipadan image and one of the most photographed underwater scenes in the world. Position yourself inside or just below the vortex for dramatic compositions. Schools of bigeye jacks provide additional wide-angle opportunities. The wall ledges with resting turtles and patrolling sharks offer strong subject-and-background compositions. Strobes are useful for bringing out the silver of the barracuda but ambient light shots can also be striking for the tornado silhouette.
 
 ---
-*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [Pulau Mabul Sipadan Dive Sites](https://www.pulaumabul.com/sipadan-dive-sites/). Last updated 2026-06-30.*

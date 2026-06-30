@@ -3,7 +3,7 @@ name: Mid Reef
 lat: 4.115
 lng: 118.6311
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
