@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Grid Iron
 
-Grid Iron is a reef dive site in St. Kitts and Nevis, Caribbean.
+Grid Iron is a broad, shallow reef system on the Atlantic side of St. Kitts and Nevis.
 
 ## Overview
 
-Grid Iron is a broad, shallow reef system on the Atlantic side of St. Kitts, extending across the narrows between the two islands at depths of 5–22 meters. The site is notable for its large colonies of mountainous star coral and lobate star coral, some reaching 3–5 meters in diameter, along with scattered stands of elkhorn coral that have been documented by the Living Oceans Foundation as part of Caribbean reef recovery research. Reef sharks and large lobsters are regularly seen here, and long-spined sea urchins — keystone grazers that help control algae — are present throughout the reef structure.
+Grid Iron is a broad, shallow reef system on the Atlantic (seaward) side of St. Kitts, extending into the Narrows between the two islands. The site sits in a general depth range consistent with regional reports of shallow Atlantic-side reef in this area. Beyond location and approximate depth, site-specific details could not be confirmed against a fetchable primary source this round — a prior claim attributing large mountainous star coral colonies and elkhorn coral documentation to the Living Oceans Foundation could not be substantiated and has been removed.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Grid Iron is a broad, shallow reef system on the Atlantic side of St. Kitts, ext
 
 ## Marine Life
 
-The massive mountainous star coral colonies — some reaching 3–5 metres in diameter — provide reef structure that supports Caribbean reef sharks, large spiny lobsters, and hawksbill turtles at this well-documented Atlantic-side site. Parrotfish and blue tangs graze the recovering elkhorn coral stands, and long-spined sea urchins throughout the reef serve as key grazers keeping the coral healthy and algae-free.
+Regional Caribbean reef fauna is expected on this Atlantic-side reef system, but no site-specific marine-life report for Grid Iron could be confirmed this round. Long-spined sea urchins are common keystone grazers on reefs of this type throughout the area.
 
 ---
-*Sources: [activecaribbeantravel.com - St Kitts Diving](https://www.activecaribbeantravel.com/), [mystkittsdivebuddy.com - Grid Iron](https://mystkittsdivebuddy.com/), [padi.com - Grid Iron St Kitts](https://www.padi.com/). Last updated 2026-05-24.*
+*Description based on regional diving characteristics for the Atlantic-side reef systems of St. Kitts and Nevis. No site-specific, independently verifiable source could be found confirming coral colony details or marine life specific to Grid Iron; a prior claim attributing findings to the Living Oceans Foundation could not be substantiated and has been removed. Last updated 2026-07-01.*

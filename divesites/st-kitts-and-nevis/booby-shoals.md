@@ -17,7 +17,7 @@ Booby Shoals is a reef dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Booby Shoals sits squarely in the Narrows channel between St. Kitts and Nevis, where tidal flow pumps nutrients across a circular reef packed with lobster, French grunts, horse-eye jacks, and southern stingrays. Deep ledges on the coral heads shelter large nurse sharks, and when currents run through the channel, larger pelagics and reef sharks are drawn in, making this one of the best sites in the area for an encounter with bigger marine life.
+Booby Shoals sits squarely in the Narrows channel between St. Kitts and Nevis, named for its proximity to nearby Booby Island. Northeast currents pump nutrients across a reef packed with lobster, French grunts, horse-eye jacks, and southern stingrays. Deep ledges on the coral heads shelter resident nurse sharks reported at 10-12 feet in length, making this one of the best sites in the area for an encounter with larger marine life in an accessible, shallow setting.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Booby Shoals sits squarely in the Narrows channel between St. Kitts and Nevis, w
 
 ## Marine Life
 
-The tidal flow through the Narrows channel pumps nutrients across the shoal, fueling dense populations of French grunts, horse-eye jacks, southern stingrays, and Caribbean lobsters. Large nurse sharks shelter under deep coral ledges and Caribbean reef sharks move through when currents run strong, making this one of the best sites in the St. Kitts area for an encounter with bigger marine life in a shallow, accessible setting.
+The northeast currents through the Narrows channel pump nutrients across the shoal, fueling dense populations of French grunts, horse-eye jacks, southern stingrays, hawksbill turtles, and Caribbean lobsters. Large nurse sharks — reported in the 10-12 foot range — shelter under the deep coral ledges, making this one of the best sites in the St. Kitts area for an encounter with bigger marine life in a shallow, accessible setting.
 
 ---
-*Sources: [mystkittsdivebuddy.com - Booby Shoals](https://mystkittsdivebuddy.com/), [padi.com - Booby Shoals St Kitts](https://www.padi.com/), [activecaribbeantravel.com - The Narrows Diving](https://www.activecaribbeantravel.com/). Last updated 2026-05-24.*
+*Sources: [My St Kitts Dive Buddy](https://mystkittsdivebuddy.com/), [PADI](https://www.padi.com/), [Active Caribbean Travel](https://www.activecaribbeantravel.com/). Last updated 2026-07-01.*

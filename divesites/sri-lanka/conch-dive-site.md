@@ -3,7 +3,7 @@ name: Conch dive site
 lat: 6.1923896
 lng: 80.047307
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 21
 entryType: boat
 siteType: wreck
 ref: null
@@ -29,7 +29,7 @@ PADI's site listing specifically notes groupers, Napoleon wrasse, and queen ange
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters (sources also report depths of up to 22m depending on section)
+- **Maximum Depth**: 21 meters
 
 ## Marine Life
 

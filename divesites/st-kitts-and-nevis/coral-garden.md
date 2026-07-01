@@ -17,7 +17,7 @@ Coral Garden is a reef dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Coral Garden off St. Kitts offers a classic Caribbean reef experience on a volcanic substrate encrusted with hard and soft corals, sea fans, and sponges in good condition within the island's marine protected zone. Juvenile angelfish, moray eels, and Caribbean lobsters are regulars among the coral heads, and the protected Caribbean-side location keeps conditions calm and visibility reliable year-round.
+Coral Garden sits next to Monkey Shoals off Nevis and offers a gentle drop-off with extensive growth of tube sponges, sea fans, and anemones on a volcanic substrate. Schools of Atlantic spadefish and horse-eye jacks are a signature sight here, often curiously circling divers, and the sheltered location keeps conditions calm and visibility reliable year-round.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Coral Garden off St. Kitts offers a classic Caribbean reef experience on a volca
 
 ## Marine Life
 
-Juvenile angelfish, moray eels, and Caribbean lobsters are regulars among the volcanic coral heads, while hawksbill turtles graze the sea fans and sponges in the calmer Caribbean-facing sections. The healthy hard and soft coral cover supports a broad mix of reef fish including blue tangs, parrotfish, and French grunts, with octopus occasionally found sheltering in reef crevices.
+Schools of Atlantic spadefish and horse-eye jacks are the signature sighting at Coral Garden, often swimming curiously around and between groups of divers along the drop-off. The tube sponges, sea fans, and anemones that cover the slope provide cover for smaller reef fish. Regional Caribbean reef fauna (angelfish, moray eels, lobsters) is common on reefs of this type, but sightings specific to this site beyond the schooling spadefish and jacks could not be independently confirmed this round.
 
 ---
-*Sources: [dive-the-world.com - Nevis Dive Sites](https://www.dive-the-world.com/), [padi.com - Coral Garden Nevis](https://www.padi.com/), [prodiversstkitts.com - Dive Sites](https://prodiversstkitts.com/). Last updated 2026-05-24.*
+*Sources: [Dive The World](https://www.dive-the-world.com/), [PADI](https://www.padi.com/), [Pro Divers St Kitts](https://prodiversstkitts.com/). Last updated 2026-07-01.*

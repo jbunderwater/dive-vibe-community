@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## MV River Taw Wreck
 
-The MV River Taw is St. Kitts' most accessible wreck dive — a 144-foot island cargo ship that sank in 1981 off Frigate Bay and was split into two sections by Hurricane Hugo in 1989, with bow and stern now resting about 50 feet apart on a sandy bottom at 12 metres.
+The MV River Taw is St. Kitts' most accessible wreck dive — a 144-foot inter-island freighter that was lost while waiting outside Basseterre Harbour in the early-to-mid 1980s and was later split into two sections by Hurricane Hugo in 1989, with bow and stern now resting apart on a sandy bottom at roughly 12-15 metres.
 
 ## Overview
 
-The River Taw is an island cargo ship measuring 144 feet in length. She began sinking in St. Kitts harbour in 1981 and was towed to her current location off Frigate Bay, where she settled upright on a sandy bottom at 42 feet (12 metres). She sat perfectly upright until Hurricane Hugo came through in 1989, which broke the hull into two sections — the bow and stern now lie approximately 50 feet apart. All decks and superstructure are covered in sponges and coral. A sunken van and bulldozer lie off to one side in the seagrass. The wreck once offered easy interior penetration but this is no longer possible due to hurricane damage. Turtles, eels, octopus, porcupine fish, and stingrays are resident. Night dives are popular for the additional invertebrate activity. This is a good site for photography given the manageable depth and marine life density.
+The River Taw was a 144-foot inter-island freighter that was waiting outside Basseterre Harbour when she began taking on water; her watchkeeper was rescued but the ship itself was lost. Sources disagree on the exact year — mystkittsdivebuddy.com and justgottadive.com both cite 1981, while divezone.net cites 1985 — so the precise sinking date should be treated as unresolved rather than a settled fact. She was towed to her current resting place off Frigate Bay, where she settled on a sandy bottom reported at approximately 12-15 metres (40-50 feet) depending on the source. She sat intact until Hurricane Hugo passed through the Caribbean in 1989, breaking the hull into two sections that now lie apart on the seabed. All decks and superstructure are covered in sponges and coral. A sunken van and bulldozer lie nearby in the seagrass, confirmed by multiple sources. The wreck once offered interior penetration but this is no longer possible due to the hurricane damage. Octopus, stingrays, turtles, lobsters, Spanish hogfish, trumpetfish, and wrasses are reported on the wreck, with abundant smaller reef fish throughout.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ The River Taw is an island cargo ship measuring 144 feet in length. She began si
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [My St Kitts Dive Buddy - Wreck Diving](https://mystkittsdivebuddy.com/wreck-diving-sites-of-st-kitts/), [PADI - River Taw St Kitts](https://www.padi.com/dive-site/saint-kitts-nevis/river-taw/), [Dive Nevis - Wreck Dives](https://divenevis.com/wreck-dives/). Last updated 2026-05-24.*
+*Sources: [My St Kitts Dive Buddy](https://mystkittsdivebuddy.com/wreck-diving-sites-of-st-kitts/), [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/exploring-st-kitts-shipwreck-sites), [Divezone](https://divezone.net/diving/st-kitts-and-nevis). Last updated 2026-07-01.*

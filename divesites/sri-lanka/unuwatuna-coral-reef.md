@@ -13,23 +13,25 @@ addedBy: osm_import
 
 ## Unuwatuna Coral Reef
 
-Unuwatuna Coral Reef is a reef dive site in Sri Lanka, Asia.
+Unawatuna Coral Reef is a shallow, sheltered fringing reef inside Unawatuna's bay near Galle — a easy, warm-water shore dive on Sri Lanka's south coast.
 
 ## Overview
 
-Unawatuna Coral Reef lies within the protected bay of Unawatuna near Galle on Sri Lanka's southwest coast, offering accessible shore diving through a shallow fringing reef that extends to around 18 meters. The bay's gentle conditions and warm water around 27–30°C make it ideal for beginner and intermediate divers, with hawksbill turtles commonly seen resting on the coral and feeding on sponges in the 8–15 meter range. The reef has suffered bleaching impacts but continues to support a colourful range of reef fish including lionfish, porcupinefish, and large schools of chromis around the coral heads.
+Unawatuna Coral Reef lies within the protected bay of Unawatuna near Galle on Sri Lanka's southwest coast, offering accessible shore diving through a shallow fringing reef extending to around 18 meters. The bay's gentle conditions and warm water (27-30°C) make it well suited to beginner and intermediate divers. Turtles (both green and hawksbill), moray eels, and Napoleon wrasse are reported across Unawatuna's shallow reef sites generally by multiple local dive operators, though no source specifically confirms sightings tied to this exact reef polygon by name — so these should be read as characteristic of Unawatuna's bay reefs broadly rather than a guarantee at this precise spot.
+
+A previous version of this page listed "SS Rangoon" as a wreck associated with this reef. That is corrected here: the SS Rangoon wreck lies at 30-32 meters near Galle harbor, a separate and much deeper site from this shallow (5-18m) fringing reef, and the two should not be conflated.
 
 ## Site Information
 
-- **Location**: Sri Lanka, Asia
+- **Location**: Sri Lanka, Asia (Unawatuna, near Galle)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
 ## Marine Life
 
-Hawksbill turtles are the signature encounter here, regularly seen resting on the coral or feeding on sponges in the 8–15 meter range. The fringing reef supports dense schools of chromis around coral heads, alongside resident lionfish, porcupinefish, and parrotfish grazing the shallower sections. Moray eels and scorpionfish are found tucked into reef crevices, and the coral rubble areas between heads reward patient macro photographers with nudibranchs and small crustaceans.
+Turtles, moray eels, and reef fish (including lionfish and wrasse species) are reported across Unawatuna's shallow bay reefs by multiple local operators, but not confirmed specifically for this reef by name — treat these as regional Unawatuna-bay characteristics rather than site-exclusive sightings. No site-specific marine-life survey for this exact reef polygon was found.
 
 ---
-*Sources: [SSI - Scuba Diving in Sri Lanka Guide](https://www.divessi.com/en/blog/scuba-diving-in-sri-lanka-9894.html), [PADI - Sri Lanka Dive Sites](https://blog.padi.com/sri-lankas-incredible-must-see-dive-sites/), [Divinguru - Sri Lanka Dive Sites](https://divinguru.com/scuba-diving/dive-sites/), [Bluewater Dive Travel - Sri Lanka](https://www.bluewaterdivetravel.com/destination/diving-sri-lanka), [PADI - Diving in Sri Lanka](https://www.padi.com/diving-in/sri-lanka/). Last updated 2026-04-04.*
+*Sources: [Pearl Divers Unawatuna - Dive Sites](https://pearldiverslk.com/unawatuna-dive-site/), [Divinguru - Marine Wonders of Sri Lanka: Unawatuna Diving](https://divinguru.com/exploring-the-marine-wonders-of-sri-lanka-unawatuna-diving-adventures-2/), [Sithiyam - Unawatuna Travel Guide](https://www.sithiyam.com/destinations/unawatuna-sri-lanka-travel-guide). Last updated 2026-07-01.*

@@ -17,7 +17,7 @@ Nag's Head is a wall dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Nag's Head sits at the southwestern tip of St. Kitts where the Caribbean Sea collides with the Atlantic Ocean, creating a current-driven dive over volcanic boulders blanketed in fire coral, sponges, and jumbo sea urchins. Eagle rays feed in the nearby grass beds and frequently glide past the wall, and the strong tidal flow that can intimidate less experienced divers is exactly what brings reef sharks and larger pelagics to this exposed headland.
+Nag's Head sits at the southern/southeastern tip of St. Kitts where the Caribbean Sea meets the Atlantic Ocean, forming a battered volcanic rock and boulder formation that creates a mini-wall from roughly 6 to 24 metres (20-80 feet). Large volcanic boulders are covered in fire coral and sponge, and eagle rays and other pelagics are known to cruise the currents above. Currents here can run strong, and some operators consider Nag's Head an advanced-diver site for that reason — less experienced divers should check conditions with their operator before booking this site.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Nag's Head sits at the southwestern tip of St. Kitts where the Caribbean Sea col
 
 ## Marine Life
 
-Eagle rays feed in the nearby grass beds and regularly glide past the exposed volcanic boulders, while the strong tidal flow that characterizes this headland draws Caribbean reef sharks and larger pelagics to the site. Southern stingrays and hawksbill turtles are present in calmer sections, and the fire coral and sponge-encrusted boulders support moray eels and spiny lobsters in the crevices at depth.
+Sea urchins, crustaceans, and feather stars are found among the fire coral and sponge-encrusted volcanic boulders, with parrotfish grazing the reef structure. Eagle rays and other pelagics are reported cruising the currents above the site. Stingrays and hawksbill turtles are occasionally reported in calmer sections, though not as reliably as the species above.
 
 ---
-*Sources: [divebuddy.com - Nag's Head](https://www.divebuddy.com/), [prodiversstkitts.com - Nag's Head](https://prodiversstkitts.com/), [mystkittsdivebuddy.com - SE Peninsula Dives](https://mystkittsdivebuddy.com/). Last updated 2026-05-24.*
+*Sources: [DiveBuddy](https://www.divebuddy.com/), [Pro Divers St Kitts](https://prodiversstkitts.com/), [My St Kitts Dive Buddy](https://mystkittsdivebuddy.com/). Last updated 2026-07-01.*

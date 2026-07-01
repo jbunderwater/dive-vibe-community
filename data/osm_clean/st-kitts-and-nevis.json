@@ -11,9 +11,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "mystkittsdivebuddy.com,padi.com,divenevis.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags (was at wrong level). Island cargo ship, 144ft length, sank 1981 off Frigate Bay, towed to current location. Hurricane Hugo split into 2 sections 1989, bow and stern now ~50ft apart. Sandy bottom with seagrass. Sunken van and bulldozer nearby confirmed. Turtles, eels, octopus, porcupine fish, stingrays confirmed. No longer penetrable due to Hugo damage. Depth 42ft (12m) confirmed."
+      "validation_source": "mystkittsdivebuddy.com,justgottadive.com,divezone.net,padi.com",
+      "last_qa_date": "2026-07-01",
+      "qa_notes": "Re-audited 2026-07-01. Added justgottadive.com and divezone.net as additional confirmed sources (144ft freighter confirmed by mystkittsdivebuddy.com and justgottadive.com). Sinking year CONFLICTS across sources: mystkittsdivebuddy.com and justgottadive.com say 1981 (ship was waiting outside Basseterre Harbour and took on water; watchkeeper rescued, ship lost), divezone.net says 1985 — markdown now presents this as an open conflict rather than asserting one year. Depth also varies 40-50ft (12-15m) across sources; kept depth field at 12 (within range) but softened markdown prose to avoid false precision. Hurricane Hugo 1989 two-section split remains well-corroborated (mystkittsdivebuddy.com, justgottadive.com). Sunken van/bulldozer confirmed by 2 sources. Dropped 'porcupine fish' from marine life — not corroborated by either newly-checked source; kept only mystkittsdivebuddy/justgottadive-confirmed species."
     }
   },
   {
@@ -29,8 +29,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "livingoceansfoundation.org,divebuddy.com,padi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. Located 3 miles offshore between St Kitts and Nevis (The Narrows), west of Narrows channel confirmed."
+      "last_qa_date": "2026-07-01",
+      "qa_notes": "Re-audited 2026-07-01. Confirmed ~1 sq mile coral atoll/shoal between St Kitts and Nevis, ~3 miles offshore, avg depth 50ft, marine life (lobsters, rays, lizardfish, nurse sharks) consistent with general regional dive guides. Note: existing validation_source URLs are root-domain-level, not deep-linked to a specific Monkey Shoals page — this is a known weakness of the prior pass and could not be fully firmed up this round. No markdown content changes needed."
     }
   },
   {
@@ -44,10 +44,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": "true",
-      "validation_source": "mystkittsdivebuddy.com,prodiversstkitts.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. Shallow wreck ~25ft (7.5m). Popular beginner and snorkeling site. Located near South Friars Bay on SW coast. Only 2 source domains found - insufficient for full 3-source validation. Cannot upgrade without additional sources. Marked validated based on 2 operator sources."
+      "validated": "false",
+      "validation_source": "unresolved",
+      "last_qa_date": "2026-07-01",
+      "qa_notes": "Re-audited 2026-07-01. Could not verify 'Brassball Wreck' as a real, named dive site in any primary source (mystkittsdivebuddy.com, divenevis.com, prodiversstkitts.com wreck listings name only MV Talata, River Taw, Corinthian, and Christena/Christiana — no Brassball). Prior validation (2026-05-24) appears to have been based on unverifiable/fabricated sourcing. Downgraded to unvalidated. Coordinates and depth (8m/~25ft) roughly match a shallow beginner wreck area but cannot be confirmed as a distinct named site. Recommend either removing this entry or re-labeling with correct provenance if a real site can be found."
     }
   },
   {
@@ -63,8 +63,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "dive-the-world.com,padi.com,prodiversstkitts.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. 3km offshore Nevis confirmed by dive-the-world.com."
+      "last_qa_date": "2026-07-01",
+      "qa_notes": "Re-audited 2026-07-01. Location (3km offshore Nevis, next to Monkey Shoals, gentle drop-off) reconfirmed. Marine life updated: Atlantic spadefish and schooling horse-eye jacks are corroborated this round; juvenile angelfish, moray eels, and Caribbean lobsters were not specifically corroborated this round and have been trimmed from markdown per marine-life accuracy rules (favor trimming over uncorroborated retention)."
     }
   },
   {
@@ -78,10 +78,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": "true",
-      "validation_source": "activecaribbeantravel.com,mystkittsdivebuddy.com,padi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags, cleaned up (removed 'perplexity' as source). Atlantic side of St Kitts, 50-80ft depth range confirmed. depth_max removed (redundant)."
+      "validated": "false",
+      "validation_source": "unresolved",
+      "last_qa_date": "2026-07-01",
+      "qa_notes": "Re-audited 2026-07-01. Removed fabricated claim attributing 'Living Oceans Foundation' documentation of mountainous star coral colonies (3-5m diameter) at this site — no source confirms LOF ever surveyed or named a site called Grid Iron; their confirmed named study sites differ (e.g. 'Caverns'). General claim that Grid Iron is a reef on the Atlantic/seaward side of the Narrows with historically significant elkhorn coral (now largely died off ~30 years ago per unconfirmed search summary) could not be traced to a fetchable primary source with confidence. Downgraded to unvalidated pending a citable primary source. Location and approximate depth range are plausible/low-risk and left unchanged."
     }
   },
   {
@@ -97,8 +97,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "mystkittsdivebuddy.com,divebuddy.com,afar.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. Sandy Point National Marine Park confirmed with large coral formations, canyons, 'Anchors Away' mooring with historical anchors from French/English/Spanish warships. Max depth 37-40m confirmed."
+      "last_qa_date": "2026-07-01",
+      "qa_notes": "Re-audited 2026-07-01. Corrected fabricated false precision: source (afar.com-style) describes 'a half-dozen anchors... dropped centuries ago' by sparring French, English, and Spanish warships at the 'Anchors Away' mooring — not 'at least five' anchors from '17th and 18th century' skirmishes as previously stated. Markdown updated to match sourced language. Coral formations, canyons/swim-throughs, Brimstone Hill location, and >30m depth remain corroborated."
     }
   },
   {
@@ -114,8 +114,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divebuddy.com,prodiversstkitts.com,mystkittsdivebuddy.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. Southernmost tip of St Kitts SE peninsula confirmed. Wall dive confirmed."
+      "last_qa_date": "2026-07-01",
+      "qa_notes": "Re-audited 2026-07-01. Confirmed location, volcanic boulder/mini-wall formation, fire coral, strong current character. Some sources describe currents as strong enough to recommend the site for advanced/experienced divers only — current difficulty tag (Intermediate) is retained since our data doesn't have enough evidence to force a change, but markdown now flags the current strength explicitly so divers can self-assess. Removed 'Caribbean reef sharks' from marine life (not specifically corroborated this round); confirmed species: sea urchins, crustaceans, feather stars, parrotfish, eagle rays/pelagics. Softened stingrays/turtles to 'occasionally reported'."
     }
   },
   {
@@ -131,8 +131,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "prodiversstkitts.com,mystkittsdivebuddy.com,activecaribbeantravel.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. SW coast Basseterre Bay area, large reef confirmed."
+      "last_qa_date": "2026-07-01",
+      "qa_notes": "Re-audited 2026-07-01. Reconfirmed: one of largest reefs off St Kitts, depth 40-110ft (12-33m) range, barracuda/grunts/snappers/eels/turtles/nurse sharks, wall plunging to 100ft, multi-level profile diving. Matches existing markdown; no content changes needed."
     }
   },
   {
@@ -148,8 +148,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "frommers.com,divenevis.com,prodiversstkitts.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. South tip of Nevis, 20-min boat ride from Four Seasons confirmed by Frommer's."
+      "last_qa_date": "2026-07-01",
+      "qa_notes": "Re-audited 2026-07-01. Reconfirmed: west coast of Nevis, swim-throughs/overhangs/coral grottos, max depth ~40ft (12m), marine life (lobsters, stingrays, blue tang, glassy sweepers, nurse sharks) confirmed. 'Blacktip reef sharks' not corroborated this round — softened to 'occasionally reported' in markdown rather than asserted as fact."
     }
   },
   {
@@ -165,8 +165,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "mystkittsdivebuddy.com,padi.com,activecaribbeantravel.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source moved into tags. Located in The Narrows near Booby Island (17.227,-62.610). OSM confirms Booby Island location."
+      "last_qa_date": "2026-07-01",
+      "qa_notes": "Re-audited 2026-07-01. Reconfirmed: named for proximity to Booby Island, located in the Narrows, ~40ft depth, French grunts/horse-eyed jacks/southern stingrays/hawksbill turtles. Added sourced detail: deep ledges shelter large nurse sharks (10-12 feet) and northeast currents characterize the site."
     }
   }
 ]

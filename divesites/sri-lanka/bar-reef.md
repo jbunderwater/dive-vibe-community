@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Bar Reef
 
-Bar Reef is a reef dive site in Sri Lanka, Asia.
+Bar Reef is Sri Lanka's largest coral reef system, a protected marine sanctuary off Kalpitiya reachable by boat.
 
 ## Overview
 
-Bar Reef is Sri Lanka's largest coral reef — a 307-square-kilometer Marine Sanctuary off Kalpitiya on the northwest coast, composed of patch reefs of plate corals interspersed with sandstone reefs and seagrass beds, reachable by a 30-minute boat ride from shore. The sanctuary shelters 156 coral species and 283 reef fish species, including resident blacktip reef sharks, thick-lipped groupers, and pods of spinner dolphins that hunt through the shallows, with larger cetaceans also visiting the outer reef. Maximum depths reach around 20 meters, and the best diving season runs from November to early May when the northeast monsoon brings calm conditions and good visibility.
+Bar Reef is a Marine Sanctuary off Kalpitiya on Sri Lanka's northwest coast, made up of patch reefs and sandstone reef structures reached via a boat trip from the Kalpitiya dive operators. The sanctuary is widely cited as home to 156 recorded coral species and 283 reef fish species across its full extent. Local operator Kalpitiya Tours lists the shallow dive/snorkel section of Bar Reef at around 6 meters — the shallowest of the Kalpitiya dive sites and a common beginner or snorkel stop — while the sanctuary as a whole spans a much wider depth range. The best conditions are during the November-to-May calm season.
 
 ## Site Information
 
-- **Location**: Sri Lanka, Asia
+- **Location**: Sri Lanka, Asia (Kalpitiya)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 
 ## Marine Life
 
-The shallow patch reef habitat supports an outstanding diversity of reef fish drawn from the sanctuary's 283 recorded species, with blacktip reef sharks, thick-lipped groupers, parrotfish, and angelfish among the most commonly encountered. Spinner dolphins are a frequent presence hunting through the shallows over the seagrass beds and sandstone reefs. The 156 coral species — including extensive plate coral formations — provide habitat for nudibranchs, pipefish, and smaller reef creatures across the sandy channels between reef patches.
+Kalpitiya operators describe general "colourful reef fish" at the shallow Bar Reef dive/snorkel section. The wider sanctuary's 156 coral species and 283 fish species are sanctuary-wide totals rather than sightings confirmed at this specific shallow section. Spinner dolphins are a well-documented feature of the Kalpitiya area generally.
 
 ---
-*Sources: [SSI - Scuba Diving in Sri Lanka Guide](https://www.divessi.com/en/blog/scuba-diving-in-sri-lanka-9894.html), [PADI - Sri Lanka Dive Sites](https://blog.padi.com/sri-lankas-incredible-must-see-dive-sites/), [Divinguru - Sri Lanka Dive Sites](https://divinguru.com/scuba-diving/dive-sites/), [Bluewater Dive Travel - Sri Lanka](https://www.bluewaterdivetravel.com/destination/diving-sri-lanka), [PADI - Diving in Sri Lanka](https://www.padi.com/diving-in/sri-lanka/). Last updated 2026-04-04.*
+*Sources: [Kalpitiya Tours - Scuba Diving in Kalpitiya](https://www.kalpitiyatours.com/scuba-diving-kalpitiya.html), [Kalpitiya Diving Center](https://kalpitiyadiving.com/kalpitiya/), [Extreme Nomads - Ultimate Guide to Kalpitiya Diving](https://extremenomads.life/kalpitiya-diving-guide/). Last updated 2026-07-01.*

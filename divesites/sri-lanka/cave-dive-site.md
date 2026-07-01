@@ -4,7 +4,7 @@ lat: 6.0004314
 lng: 80.2381218
 difficulty: Advanced
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: cave
 ref: null
 osmId: 9448790419
@@ -13,23 +13,25 @@ addedBy: osm_import
 
 ## Cave dive site
 
-Cave dive site is a cave dive site in Sri Lanka, Asia.
+This node sits roughly 150 meters from the neighboring "Gala Pita Gala" dive site and very likely refers to the same cave-bearing rock pinnacle rather than a separate, distinctly named site.
 
 ## Overview
 
-This cave dive site on Sri Lanka's south coast near Unawatuna and Galle offers shore-accessible cavern diving in the warm Indian Ocean, with the cave systems at around 25 meters providing shelter to crustaceans, small reef fish, and the specialized species adapted to low-light conditions. Sri Lanka's southern diving corridor around Galle and Unawatuna has 16 dive sites ranging from 6 to 32 meters, and the cave formations here are among the more adventurous options in a region better known for its proliferation of accessible wrecks. Strong current can develop at the cave entrance, so timing the dive with tidal conditions is important for a comfortable experience.
+No independent source names a distinct dive site at these exact coordinates. Given the location — about 150 meters from Gala Pita Gala, a rock pinnacle with a well-documented ~3-meter natural cave — this entry is treated as the same feature or an immediately adjoining part of it, rather than inventing a separate identity. See the Gala Pita Gala entry for sourced details on the cave/pinnacle: boat access (10-15 minutes from Unawatuna), depth to about 25 meters at the base with the pinnacle top around 10 meters, and Advanced certification recommended for entering the cave passage itself.
+
+Because this is likely a duplicate OSM node for the same feature rather than a confirmed separate site, no additional site-specific claims are made here beyond what is documented for Gala Pita Gala.
 
 ## Site Information
 
-- **Location**: Sri Lanka, Asia
-- **Entry Type**: Shore entry
+- **Location**: Sri Lanka, Asia (Unawatuna) — likely the same feature as the neighboring Gala Pita Gala site
+- **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 
 ## Marine Life
 
-The cave system at 25 meters shelters crustaceans including lobsters and shrimp in the low-light recesses, alongside small reef fish and glassfish adapted to cavern conditions. Just outside the cave entrance, moray eels occupy the rocky reef crevices and scorpionfish blend into the substrate, while sea turtles are occasionally encountered resting on the surrounding reef. The cavern ceiling and walls are colonised by encrusting sponges and soft corals that support nudibranchs for macro photography.
+See the Gala Pita Gala entry — as the same or an immediately adjoining feature, reported sightings (nudibranchs, lobsters, stingrays, blue-ring angelfish, lionfish) are the same site-specific reports documented there. No additional marine life claims specific to this node are made.
 
 ---
-*Sources: [SSI - Scuba Diving in Sri Lanka Guide](https://www.divessi.com/en/blog/scuba-diving-in-sri-lanka-9894.html), [PADI - Sri Lanka Dive Sites](https://blog.padi.com/sri-lankas-incredible-must-see-dive-sites/), [Divinguru - Sri Lanka Dive Sites](https://divinguru.com/scuba-diving/dive-sites/), [Bluewater Dive Travel - Sri Lanka](https://www.bluewaterdivetravel.com/destination/diving-sri-lanka), [PADI - Diving in Sri Lanka](https://www.padi.com/diving-in/sri-lanka/). Last updated 2026-04-04.*
+*Sources: [Sun Diving - Galapita Gala (Cave)](https://diveinsrilanka.com/galapita-gala-cave/), [Pearl Divers Unawatuna - Galapita Gala](https://www.unawatunadive.com/view-dive-sites.php?id=3), [PADI - Gala Pita Gala dive site](https://www.padi.com/dive-site/sri-lanka/gala-pita-gala/). Last updated 2026-07-01.*

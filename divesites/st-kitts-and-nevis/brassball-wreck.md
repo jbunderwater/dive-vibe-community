@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Brassball Wreck
 
-Brassball Wreck is a historic wreck dive in St. Kitts and Nevis, Caribbean.
+Brassball Wreck is a shallow wreck entry in St. Kitts and Nevis, Caribbean, whose identity as a named site could not be independently confirmed.
 
 ## Overview
 
-The Brassball Wreck is one of Nevis's shallowest and most accessible wreck dives, resting at around 8 meters in calm, clear water ideal for beginners and snorkelers. The hull is heavily encrusted in coral growth and sponges, with soldierfish and glassy sweepers clustered in the superstructure and hawksbill turtles and rays commonly spotted in the surrounding sandy shallows.
+This site's identity could not be independently confirmed in dive-shop or forum sources. A shallow wreck matching this general depth and location may exist locally, but no source names a wreck called "Brassball" or "Brass Ball." Wreck-diving pages from local operators (mystkittsdivebuddy.com, divenevis.com, prodiversstkitts.com) list four named wrecks in St. Kitts and Nevis waters — MV Talata, River Taw, Corinthian, and Christena/Christiana — with no mention of a "Brassball" or "Brass Ball" wreck among them. Treat the depth and details below as provisional pending further confirmation.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ The Brassball Wreck is one of Nevis's shallowest and most accessible wreck dives
 - **Maximum Depth**: 8 meters
 
 ---
-*Sources: [mystkittsdivebuddy.com - Brassball Wreck](https://mystkittsdivebuddy.com/wreck-diving-sites-of-st-kitts/), [prodiversstkitts.com - Dive Sites](https://prodiversstkitts.com/). Last updated 2026-05-24.*
+*Description could not be verified against site-specific sources. No primary source names a wreck called "Brassball" or "Brass Ball" in St. Kitts and Nevis; this entry may reflect a data error from a prior pass. Last updated 2026-07-01.*
