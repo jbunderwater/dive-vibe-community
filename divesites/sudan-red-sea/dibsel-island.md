@@ -13,50 +13,41 @@ addedBy: osm_import
 
 ## Dibsel Island
 
-Dibsel Island is an advanced reef dive in Sudan's remote southern Red Sea, part of expedition routes to the deep south archipelago near the Eritrean border. The island features wall diving with abundant marine life and strong currents.
+Dibsel Island is a wall dive site in Sudan's remote southern Red Sea, in the same general deep-south area (roughly 165 km south of Port Sudan by coordinates) as better-documented sites such as Karam Marsmarit and Daharat Abida. No dive-tourism source specifically describing a site under the name "Dibsel" (or close variants) could be located during this research pass.
 
 ## Overview
 
-Dibsel Island is a remote southern site visited on specialized liveaboard expeditions to Sudan's least-visited waters. Like other deep south sites, it combines pristine, mostly undiscovered conditions with exceptional shark aggregations and abundant marine life undisturbed by regular diving pressure. The walls and reef structure create dynamic encounters with pelagic species driven by strong currents and nutrient-rich water. This is remote-area diving for experienced adventurers.
+Dibsel Island's coordinates place it within Sudan's deep-south liveaboard cluster, in the same stretch of the Suakin Islands region visited by extreme-south itineraries. However, extensive searches — including dive-the-world.com's detailed deep-south site list, multiple liveaboard operator itinerary pages (Blue Force Fleet, Cassiopeia Safari, Royal Evolution), and general dive-site directories — turned up no site-specific description under the name "Dibsel" or plausible spelling variants. This entry's description is therefore limited to what can be reasonably inferred from its location and site type, rather than site-specific research.
 
 ## Site Information
 
-- **Location**: Remote southern Red Sea, 30+ nm from Port Sudan
+- **Location**: Deep-south Sudan, in the same region as Karam Marsmarit and Daharat Abida
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 25-40+ meters (80-130+ feet)
-- **Current**: Strong
-- **Best Time**: February to April
 
 ## Marine Life
 
-The remoteness and minimal diving pressure at Dibsel Island means marine life is abundant and largely undisturbed. Grey reef sharks, silvertip sharks, and hammerheads are regularly encountered on the outer walls. Silky sharks — rare in Sudan's northern sites — become more common this far south. Large schools of jacks, snappers, and emperors aggregate at current-exposed reef points. Napoleon wrasse, groupers, and moray eels shelter in wall crevices. Manta rays visit the site in season. The wall surfaces carry intact soft corals and sea fans in excellent condition, with anthias in dense clouds.
+No site-specific marine life reports were found for Dibsel Island. Sudan's deep-south region generally is known for shark aggregations (grey reef, silvertip, hammerhead, and occasionally silky sharks) and healthy coral cover, per sources describing the broader area, but none of these claims are confirmed for this specific site. Divers should treat any marine life encounter here as unconfirmed regional possibility rather than a documented feature of this site.
 
 ## Dive Profile
 
-Descend along the outer wall to 20-30 metres and drift with the prevailing current, exploring the wall structure and watching the blue water beyond the reef edge for pelagics. The wall descends beyond recreational limits, so strict depth discipline is required. Most of the productive reef life is concentrated between 10-25 metres on the wall face. Ascend to the reef crest for a safety stop in shallower water before the boat pickup.
+No site-specific dive profile information was found. Given the site type (wall) and depth range recorded, diving would typically involve descending along the wall face and managing current, consistent with other sites in this part of Sudan's deep south — but this is inferred from the regional pattern, not confirmed for Dibsel Island specifically.
 
 ## Entry and Exit
 
-Access is exclusively via specialised deep-south liveaboard expeditions. Very few operators include Dibsel Island on their routes. Entry and exit are coordinated with the liveaboard crew based on prevailing sea conditions and current. Deploy a high-visibility SMB well before surfacing — the remote location and strong currents make reliable boat pickup critical.
+Access to this remote area is only practical via specialized deep-south liveaboard expeditions. No operator-specific itinerary mentioning this site by name was found; divers should confirm with their operator whether this site is included on a given route.
 
 ## Tips and Recommendations
 
-- Only accessible via specialised Sudan deep-south liveaboard expeditions — research operators carefully
-- Dive Dibsel as part of a broader southern archipelago itinerary, not as a standalone destination
-- Strong currents reward drift diving experience — master buoyancy control before attempting this site
-- Bring redundant signalling equipment (SMB, mirror, whistle) for remote-water safety
-- Underwater camera wide-angle setup is essential for shark and pelagic encounters
+- Confirm with your liveaboard operator whether this specific site is part of their itinerary, since it does not appear by name in the operator itineraries reviewed
+- Given the deep-south location, treat this as remote-area diving requiring strong current competency and self-sufficiency
+- Carry redundant signaling equipment (SMB, mirror, whistle) given the remoteness of this region generally
 
 ## Safety Considerations
 
-The remote location is the defining safety consideration at Dibsel Island — emergency evacuation is severely limited and response times in the event of an incident are long. Only experienced divers with strong current competency should attempt the site. Strong currents require continuous monitoring. Nitrogen narcosis is a risk on the deeper wall sections below 30 metres — maintain depth discipline. Always dive with an experienced buddy and carry redundant signalling devices.
-
-## Photography
-
-The deep, pristine walls with abundant marine life create exceptional wide-angle opportunities. Shark encounters at a site this remote often feature more natural, close behaviour than at heavily-dived northern Sudan sites. Coral sea fans and soft corals in excellent condition reward medium-range and detail shots along the wall face.
+As with other deep-south Sudan sites, the remote location means emergency response would be significantly delayed. Given the lack of site-specific information, divers should rely on their operator's briefing for actual conditions (current, depth, hazards) at this site rather than assumptions based on nearby sites.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Description based on regional deep-south Sudan diving characteristics inferred from site coordinates and site type. No site-specific sources were found for "Dibsel Island" under this or plausible spelling variants after searching dive-the-world.com, Blue Force Fleet, Cassiopeia Safari, Royal Evolution, Zentacle, and general web search. Last updated 2026-07-01.*

@@ -13,50 +13,41 @@ addedBy: osm_import
 
 ## Isar Island
 
-Isar Island is an advanced reef dive in Sudan's extreme southern Red Sea, part of deep south liveaboard expeditions near the Eritrean border. The site features walls, strong currents, and exceptional marine life in pristine, remote waters.
+Isar Island is a wall dive site in Sudan's deep southern Red Sea, located by coordinates in the same general area as Daharat Abida and Karam Marsmarit. No dive-tourism source specifically describing a site under the name "Isar Island" (or close variants) could be located during this research pass. Note: this is a different location from "Seil Ada Kebir" ("Turtle Island"), a nearby, well-documented turtle-nesting site — the two names are not confirmed to refer to the same place and should not be treated as interchangeable.
 
 ## Overview
 
-Isar Island is part of the exclusive circuit of remote southern sites visited only by specialized liveaboards venturing south of Port Sudan. The site showcases pristine walls and reef structures with abundant, undisturbed marine life including shark aggregations and large pelagic species. Strong currents driven through the straits create dynamic diving environments. This is destination diving for experienced adventurers seeking pristine, rarely-visited waters.
+Isar Island's coordinates place it within Sudan's deep-south liveaboard cluster. Searches of dive-the-world.com's detailed deep-south site list, liveaboard operator itinerary pages (Blue Force Fleet's extreme-south and central-south route pages, Cassiopeia Safari, Royal Evolution), PADI's Suakin dive site listings, and general dive-site directories turned up no site-specific description under the name "Isar Island" or plausible spelling variants. A nearby, well-documented site — Seil Ada Kebir, known as "Turtle Island" for its hawksbill turtle nesting beaches — was considered as a possible match, but no source confirms "Isar Island" as an alternate name for it, so the two are treated as distinct here pending further verification.
 
 ## Site Information
 
-- **Location**: Extreme south archipelago, 30+ nm from Port Sudan
+- **Location**: Deep-south Sudan, in the same region as Daharat Abida and Karam Marsmarit
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 25-40+ meters (80-130+ feet)
-- **Current**: Strong
-- **Best Time**: February to April
 
 ## Marine Life
 
-At this extreme southern latitude, marine species composition shifts noticeably compared to Sudan's more-visited northern sites. Silky sharks — uncommon in the north — become regular encounters. Hammerhead sharks, grey reef sharks, and oceanic whitetip sharks patrol the outer walls. Manta rays, eagle rays, and sea turtles are regularly sighted. The walls host abundant soft corals and sea fans, with groupers, Napoleon wrasse, and large moray eels occupying crevices at depth. Schools of jacks, snappers, and emperors aggregate at current-exposed reef points. The low diving pressure means fish behaviour is notably less cautious than at heavily-visited northern sites.
+No site-specific marine life reports were found for Isar Island. Sudan's deep-south region generally is known for shark aggregations (grey reef, silvertip, hammerhead) and turtle activity at some nearby sites, per sources describing the broader area, but none of these claims are confirmed for this specific site. Divers should treat any marine life encounter here as unconfirmed regional possibility rather than a documented feature of this site.
 
 ## Dive Profile
 
-Descend to the wall at 20-30 metres and drift with the current along the reef face. The wall descends well beyond recreational limits — maintain depth discipline and focus exploration on the 15-30 metre band where coral and fish life are most abundant. Watch the blue water off the wall for pelagics and shark passes. Ascend to the reef crest for final exploration and safety stop.
+No site-specific dive profile information was found. Given the site type (wall) and recorded depth range, diving would typically involve descending along the wall face and managing current, consistent with the pattern at other deep-south Sudan sites — but this is inferred from the region, not confirmed for Isar Island specifically.
 
 ## Entry and Exit
 
-Access is exclusively via specialised deep-south liveaboard expeditions from Port Sudan. Very few operators venture this far south. Entry and exit are managed by the liveaboard crew with close coordination required due to strong currents. High-visibility SMBs are mandatory for surface pickup in remote conditions.
+Access to this remote area is only practical via specialized deep-south liveaboard expeditions. No operator-specific itinerary mentioning this site by name was found; divers should confirm with their operator whether this site is included on a given route.
 
 ## Tips and Recommendations
 
-- Isar Island is end-of-route diving — logistics and weather determine access, not itinerary alone
-- Carry two high-visibility SMBs in case one fails; rescue support is limited at this distance from Port Sudan
-- Cold water upwellings can drop temperatures here — a 5mm wetsuit is recommended even in season
-- Multi-day liveaboard in the deep south is the only practical access — do not attempt day trips
-- Silky shark encounters here can be very close — maintain calm and avoid rapid movements
+- Confirm with your liveaboard operator whether this specific site is part of their itinerary, since it does not appear by name in the operator itineraries reviewed
+- Given the deep-south location, treat this as remote-area diving requiring strong current competency and self-sufficiency
+- Carry redundant signaling equipment (SMB, mirror, whistle) given the remoteness of this region generally
 
 ## Safety Considerations
 
-Remote location is the overriding concern — emergency evacuation from Isar Island involves hours of transit time at minimum. Only dive if you are in excellent health, have significant current diving experience, and are comfortable at depths above 30 metres. Strong currents can separate diving buddies quickly — establish clear loss-of-buddy procedures before descending. Fire coral and hydroids on the wall surface require careful buoyancy. Abort the dive immediately if nitrogen narcosis affects judgment below 30 metres.
-
-## Photography
-
-The combination of pristine walls, rarely-seen shark species, and exceptional visibility makes Isar Island a premier photographic destination for those able to reach it. Wide-angle setups reward patience at the wall edge for shark passes. The intact soft corals and sea fans photograph well at medium range with available light in the morning hours.
+As with other deep-south Sudan sites, the remote location means emergency response would be significantly delayed. Given the lack of site-specific information, divers should rely on their operator's briefing for actual conditions (current, depth, hazards) at this site rather than assumptions based on nearby sites.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Description based on regional deep-south Sudan diving characteristics inferred from site coordinates and site type. No site-specific sources were found for "Isar Island" under this or plausible spelling variants after searching dive-the-world.com, Blue Force Fleet, Cassiopeia Safari, Royal Evolution, PADI, and general web search. Last updated 2026-07-01.*

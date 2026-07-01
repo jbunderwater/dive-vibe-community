@@ -13,45 +13,43 @@ addedBy: osm_import
 
 ## Pfeiffer Reef
 
-Pfeiffer Reef is an advanced-level coral reef dive on the return route of northern Sudan liveaboard itineraries, visited as part of expeditions to sites like Sha'ab Rumi and St. John's.
+Pfeiffer Reef is a remote, submerged reef in the far north of Dungonab Bay and Mukkawar Island National Park, offshore from the Rawaya Peninsula on Sudan's northern liveaboard route. It is a real but lightly-documented site — far less written about than headline stops like Sha'ab Rumi or Angarosh — and is only mentioned by a small number of independent sources.
 
 ## Overview
 
-Pfeiffer Reef is one of Sudan's pristine, lesser-known coral reefs accessed exclusively via liveaboard diving safaris. The site showcases the remarkable biodiversity and exceptional visibility that make Sudan a premier dive destination. As a remote offshore reef, Pfeiffer sits in pristine, largely undiscovered waters rarely visited by recreational divers. The reef features healthy coral structures, abundant fish life, and strong currents typical of Sudan's deep Blue water environments. Divers should expect excellent visibility (25-40+ meters) and encounters with large pelagic species.
+Pfeiffer is a triangular-shaped reef rising from surrounding water reported at 100-200 meters deep, with its top reaching to within roughly 10 meters of the surface. It is described as having two plateaus — a shallower shelf around 25 meters and a deeper one around 45 meters. It sits in the same general region as Angarosh and shares a similar shark profile. Because documentation on this specific site is thin (only two independent sources were found describing it directly), site-specific claims here are limited to what those sources actually state; broader "pristine, undiscovered reef" characterizations from the prior version of this page have been removed as unverifiable.
 
 ## Site Information
 
-- **Location**: Northern Sudan Red Sea, 50+ km offshore
+- **Location**: Far north Dungonab Bay / Mukkawar Island National Park, offshore from the Rawaya Peninsula, northern Sudan Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Site Type**: Reef (submerged reef with two plateau levels)
+- **Difficulty Level**: Advanced (destination-wide minimum for this remote liveaboard-only region)
+- **Maximum Depth**: Reported plateaus at approximately 25 meters and 45 meters; reef top approximately 10 meters
+- **Current**: Reported as a current-exposed site typical of the Dungonab Bay/Angarosh area
 
 ## Marine Life
 
-Pfeiffer Reef is home to diverse marine life attracted by strong currents and pristine coral structures. Grey reef sharks, hammerheads, and occasional silvertip sharks patrol the reef edges. Massive schools of pelagic fish including tuna, jacks, and snappers are common. Napoleon wrasse, giant groupers, and moray eels shelter in reef crevices. Manta rays, eagle rays, and sea turtles are regularly encountered. The healthy coral reef supports abundant anthias, fusiliers, and other reef fish species.
+Two independent sources (a dedicated Divescover site page and a ScubaBoard trip-report thread) describe this reef, and the Divescover listing names hammerhead, tiger, silvertip, and grey reef sharks, plus manta rays and schooling barracuda, as present. Because this is drawn from a single detailed source (Divescover) rather than being independently corroborated site-by-site, treat the species list as reported-but-single-sourced rather than fully cross-verified. No site-specific reef-fish or invertebrate details were found in available sources; general Red Sea reef fauna should not be assumed present without a source.
 
 ## Dive Profile
 
-Begin your descent on the reef slope and work along the reef face between 15-25 meters. The current often pushes divers along the reef structure, providing excellent drift diving opportunities. Most of the marine life aggregates at the reef edge where currents bring nutrient-rich water. Plan for good buoyancy control and be prepared to navigate moderate to strong current conditions. Ascending, use the reef structure for safety stop positioning.
+Divers typically work the shallower plateau (~25 meters) before optionally dropping to the deeper shelf (~45 meters), consistent with the two-tier structure reported for this reef. Current exposure should be expected, as is typical for reefs in this part of the Dungonab Bay/Mukkawar region. Given the depth range and remote setting, this is an advanced-diver site with limited safety margin — plan gas and no-decompression limits conservatively.
 
 ## Entry and Exit
 
-Access is exclusively via liveaboard dive boat, typically as part of multi-day diving expeditions. Entry uses giant stride or back roll in moderate sea states. The boat follows the reef structure for descent and follows drift divers downstream. Deploy a high-visibility surface marker buoy (SMB) for safety stop signaling and boat pickup.
+Access is exclusively via liveaboard dive boat, typically as part of multi-day expeditions along Sudan's northern route. Entry is by giant stride or back roll. Given the current exposure typical of this area, expect a drift-style dive with the boat tracking divers for pickup; deploy a high-visibility SMB for safety-stop signaling.
 
 ## Tips and Recommendations
 
-- Pfeiffer is best suited for Advanced certified divers comfortable with current
-- Use a dive computer to monitor depth and plan decompression stops
-- Bring extra weight to maintain proper buoyancy in current
-- Underwater camera essential—this site offers exceptional photographic subjects
-- Book only with experienced Sudan liveaboard operators
-- Carry signaling mirror and high-visibility SMB
-- Check forecast for current direction before diving
+- Pfeiffer is best suited for advanced-certified divers comfortable with current
+- Use a dive computer to monitor depth given the two-plateau profile (~25m / ~45m reported)
+- Carry a high-visibility SMB; drift pickups should be expected
+- Confirm current itinerary and conditions with your liveaboard operator, since this site is not well documented and route inclusion varies by boat
 
 ## Safety Considerations
 
-Strong currents are the defining feature of Pfeiffer Reef. Always dive with a buddy and abort the dive if currents exceed your comfort level. Fire coral, lionfish, and stinging hydroids are present—avoid touching reef. Pressure drops rapidly with depth—monitor depth gauge closely. The remote location means immediate evacuation is limited—only dive if you are confident in your abilities and health status.
+Current exposure should be planned for, consistent with reports for this part of the Dungonab Bay/Mukkawar region. This is a remote, advanced-level site with limited documentation and no confirmed depth/visibility statistics beyond the two sources above — dive conservatively, stay within training limits, and always dive with a buddy and full signaling equipment for boat recovery.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Divescover - Pfeiffer Reef](https://divescover.com/dive-site/pfeiffer-reef/23711), [ScubaBoard - Diving Deep Deep South](https://scubaboard.com/community/threads/diving-deep-deep-south.640654/). Only two independent sources were found for this site; it does not meet the 3-source bar for full validation. Last updated 2026-07-01.*

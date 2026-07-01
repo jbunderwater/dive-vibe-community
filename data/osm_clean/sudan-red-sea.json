@@ -113,8 +113,9 @@
       "name": "Daharat Abida",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Extreme south near Eritrea, rare hammerheads and silky sharks, pristine walls and plateaus"
+      "validation_source": "dive-the-world.com, scubadiving.com, cassiopeiasafari.com",
+      "note": "Likely = \"Dahrat Abid\" in dive-the-world.com; southernmost named Sudan site, ~220km S of Port Sudan, ~30km from Eritrean border. Hammerhead schools (count varies 50-100 across sources, treated as anecdotal). Wreck on N/NW side confirmed by 2 sources but \"3 wrecks\" claim NOT independently corroborated - removed from markdown pending further verification.",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -126,12 +127,14 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Merlo Reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive-the-world.com,divescover.com,zentacle.com,wannadive.net",
+      "last_qa_date": "2026-07-01",
+      "note": "Location corrected: ~1.7nm (~2-3km) SW of Angarosh, not '~70km north of Port Sudan' as previously stated. Holds wreckage of liveaboard 'Freedom' which ran aground 1999 (confirmed by dive-the-world.com + divescover.com; zentacle.com/wannadive.net independently confirm an unnamed wreck on NW side, consistent but not independently naming it). Depth range varies by source: 20-21m avg, max reported 38-50m depending on source (wannadive) vs ~21m max (zentacle) - likely reflects crest vs wall. Current reported as generally mild (<1 knot per wannadive), milder than previously described. Marine life confirmed for this site specifically: giant moray eels, anemonefish, goatfish, snappers, unicornfish, whitetip reef sharks, Napoleon wrasse, butterflyfish (dive-the-world.com); sharks and occasional mantas (zentacle/wannadive). Difficulty floored to Advanced per destination policy (wannadive rates it Intermediate/CMAS**-AOW in general terms)."
     }
   },
   {
@@ -149,8 +152,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "50+ km offshore, caves and walls, hammerhead aggregation, pelagic sharks"
+      "validation_source": "dive-the-world.com, blueforcefleet.com, royalevolution.com, cassiopeiasafari.com",
+      "note": "Likely = \"Shaab Jibna\"/\"Shaab Jumna\" in dive-the-world.com and other sources, ~27nm/~50km S/SE of Port Sudan. Cave/crevice topography CONFIRMED by multiple independent operators (not fabricated). Hammerhead schools confirmed (one report: ~50 sharks at ~30m, treated as example not guarantee).",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -166,9 +170,9 @@
     "tags": {
       "name": "Dibsel Island",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Remote southern site, shark aggregation, strong currents, pristine walls"
+      "validated": "false",
+      "note": "UNRESOLVED: No site-specific source found under this name or plausible spelling variants (Dissul, Dibsil, Dubsel, etc.) despite extensive search of dive-the-world.com, Blue Force Fleet, Cassiopeia Safari, Royal Evolution, Zentacle. Coordinates place it in the same deep-south cluster as Karam Marsmarit/Daharat Abida (~165km S of Port Sudan) so plausibly a real, locally-named reef, but unconfirmed. Do not mark validated until a site-specific source is found. Marine life/dive profile content in markdown rewritten to explicitly state lack of site-specific sourcing.",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -185,9 +189,9 @@
       "name": "Isar Island",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Remote southern site, walls, strong currents, abundant marine life"
+      "validated": "false",
+      "note": "UNRESOLVED: No site-specific source found under this name or plausible spelling variants despite extensive search of dive-the-world.com, Blue Force Fleet (both extreme-south and central-south pages), Cassiopeia Safari, Royal Evolution, PADI Suakin listings. Considered possible match to \"Seil Ada Kebir\" (Turtle Island) but NOT confirmed as same site - flagging for orchestrator review, not merging. Coordinates place it in deep-south cluster near Daharat Abida/Karam Marsmarit. Marine life/dive profile content rewritten to explicitly state lack of site-specific sourcing.",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -199,13 +203,15 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Shab Rumi",
       "name": "Shab Rumi, Plateau S",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "dive-the-world.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-07-01",
+      "note": "Only 2 independent domains found (below the 3-domain validation threshold); both confirm Sha'ab Rumi generally (grey reef, silky, silvertip sharks; hammerheads Nov-Apr; barracuda schools) but neither source specifically distinguishes a 'South Plateau' sector from the rest of Sha'ab Rumi. Earlier draft's 'barracuda tornado' and plateau-specific superlatives could not be traced to any source and were removed. Difficulty floored to Advanced per destination policy."
     }
   },
   {
@@ -223,8 +229,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Triple plateau structure, north plateau 20-45m, massive coral fans, hammerheads"
+      "validation_source": "sadko-safarifleet.com,royalevolution.com,seawolf-safari.de,scubaboard.com",
+      "note": "Two documented plateaus (North, South), 20-45m. Geography flagged: reef straddles Egypt-Sudan border but is dived almost exclusively as part of Egypt Deep South liveaboard itineraries (Port Ghalib departure), not Sudan/Port Sudan itineraries. Country classification conflicts between sources (Royal Evolution calls it Sudanese; Sadko/Divebooker call it Egyptian).",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -241,8 +248,9 @@
       "name": "Karam Marsmarit",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "SE side has deeper walls, shark aggregation, napoleons, strong currents"
+      "validation_source": "zentacle.com, cassiopeiasafari.com, blueforcefleet.com",
+      "note": "Confirmed = \"Karam Masamirit\" (alt. spelling), ~2nm SE of Masamirit Island, Suakin Islands. SE wall/drop-off with sharks (grey reef, silvertip, hammerhead, occasional tiger per one source) and napoleon wrasse confirmed by 3 independent domains. Silky shark/oceanic whitetip/manta claims removed - not site-specific in sources reviewed.",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -272,12 +280,14 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Sanganeb Plauteua N",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive-the-world.com,bluewaterdivetravel.com,en.wikipedia.org,whc.unesco.org",
+      "last_qa_date": "2026-07-01",
+      "note": "CORRECTED: lighthouse built 1906 by the British (Wikipedia List of lighthouses in Sudan + wtreportage.net both agree), not 1870 as previously stated - 1870 figure unverifiable and removed. Original steel tower replaced with current conical stone tower in 1955 per wtreportage.net (not independently corroborated, kept as single-source note). Sanganeb + Dungonab Bay-Mukkawar Island jointly UNESCO-inscribed in 2016 as 'Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park' (confirmed via UNESCO WHC listing). Hammerhead, grey reef, and whitetip reef sharks plus Napoleon wrasse and humphead parrotfish confirmed for Sanganeb generally by 2 sources, but not specific to this North Plateau GPS point. Manta/eagle ray claims from earlier draft removed as unverifiable for this location. Difficulty floored to Advanced per destination policy."
     }
   },
   {
@@ -307,14 +317,15 @@
     "depth": 14,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Elba Reef, South Plateau",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "South plateau 5-14m, coral blocks, excellent for night diving, hammerheads"
+      "validation_source": "sadko-safarifleet.com,royalevolution.com,seawolf-safari.de,golden-dolphin.net",
+      "note": "South Plateau (with SS Isola di Levanzo wreck at its edge) corroborated by 4 independent domains: large pinnacles, ~20-45m depth. NOTE: this conflicts with this record depth (14m) and prior Intermediate difficulty -- sources describe South Plateau as a deep pinnacle structure, not a shallow 5-14m shelf. Difficulty raised to Advanced per destination minimum; depth field flagged for review, not changed by this audit.",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -332,8 +343,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "North plateau 20-45m, dramatic drop, massive coral fans, pelagics, strong currents"
+      "validation_source": "sadko-safarifleet.com,royalevolution.com,seawolf-safari.de",
+      "note": "North Plateau corroborated by 3 independent domains: ~20-45m, coral fan formations along drop-off. Site-specific marine life beyond grey reef sharks/hammerheads (general Elba Reef fauna) not corroborated; removed padding (pygmy seahorses, resident Napoleon wrasse, groupers, lionfish).",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -371,9 +383,9 @@
     "tags": {
       "name": "Elba Reef, West-Plateau",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Western plateau section, deep walls, shark aggregation, pristine coral"
+      "validated": "false",
+      "note": "No independent source found documenting a distinct West Plateau as a separately named Elba Reef dive site. Only North and South plateaus are documented. May originate from Royal Evolution mention of drifting along the west side of the North Plateau (Anemon City feature) -- a directional descriptor, not a separate charted site. Marine life/profile specifics stripped as unverifiable. Difficulty already Advanced (unchanged).",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -404,13 +416,13 @@
     "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Elba Reef East (Southplateau)",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Eastern section of south plateau, shallow coral structures, accessible diving"
+      "validated": "false",
+      "note": "No independent source found documenting a distinct East (Southplateau) as a separately named Elba Reef dive site. Only North and South plateaus are documented; Levanzo wreck sits at South Plateau edge, described by one ScubaBoard poster as eastern region of Elba reef which may be the origin of this label. Marine life/profile specifics stripped as unverifiable. Difficulty raised from Intermediate to Advanced per destination minimum policy.",
+      "last_qa_date": "2026-07-01"
     }
   }
 ]
