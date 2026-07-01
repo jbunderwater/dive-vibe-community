@@ -53,8 +53,9 @@
     "tags": {
       "name": "Pfeiffer Reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "divescover.com,scubaboard.com",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -70,9 +71,10 @@
     "tags": {
       "name": "Sweet Potato",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Grouper aggregation site, 30+ potato groupers, strong currents"
+      "validated": "false",
+      "validation_source": "unresolved",
+      "note": "Site name 'Sweet Potato' could not be independently verified; prior marine-life note (30+ potato groupers) traced to scubadiving.com description of Sha'ab Rumi's southern plateau, a different site. Removed unsupported note.",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -262,13 +264,14 @@
     "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Abu Seif",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Shallow relaxed reef, cracks and crevices, excellent visibility, clownfish and anemones"
+      "validated": "false",
+      "validation_source": "scubadiving.com,blueforcefleet.com",
+      "note": "Shallow crevice reef with sea goldies and clownfish/anemone pairs per scubadiving.com; corroborated as a real northern-route stop by blueforcefleet.com. Only 2 independent domains found; difficulty floored to Advanced per destination policy (remote liveaboard-only).",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -299,13 +302,14 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Angarosh",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive-the-world.com,bluewaterdivetravel.com,scubaboard.com",
+      "last_qa_date": "2026-07-01"
     }
   },
   {

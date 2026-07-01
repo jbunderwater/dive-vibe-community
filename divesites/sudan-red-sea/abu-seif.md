@@ -39,20 +39,18 @@ The dive centers on exploring a shallow crack-and-crevice coral system just belo
 
 ## Entry and Exit
 
-Access is by liveaboard dive boat. Entry is easy giant stride or back roll in calm waters. The shallow depth and mild current mean a relaxed descent to the reef. Exit is simple—ascend and surface, then swim to the boat. No strong currents or complex exit procedures required.
+Access is by liveaboard dive boat only. Sources describe entry as easy given the shallow, sheltered topography ("you could spend hours exploring the cracks and crevices sprawling mere feet below the surface"). No specific exit procedure detail beyond this is confirmed in sources.
 
 ## Tips and Recommendations
 
-- Bring underwater macro camera—excellent opportunities for close-up reef subjects
-- Take time to explore the cracks and crevices slowly for fish and invertebrates
-- Wear 3-5mm wetsuit for thermal protection (warm water but extended bottom times)
-- This is ideal for practicing buoyancy control in a forgiving environment
-- Multiple dives on Abu Seif in a day are common due to shallow depth
-- Ideal pre-dive to warm up or recovery dive after deeper sites
+- Good candidate for a macro/close-up camera setup given the shallow, well-lit crevice environment described by sources
+- Move slowly through the crack-and-crevice system to spot anemone/clownfish pairs and sea goldies
+- Remember this is still a remote liveaboard-only itinerary — Advanced certification is required to be on the trip even though this specific dive is mild
+- Confirm current conditions with your liveaboard crew, since sources do not specify current strength here
 
 ## Safety Considerations
 
-Abu Seif is one of Sudan's safest dive sites. Shallow depth (max 12m) provides natural safety against depth-related hazards. Fire coral and lionfish are present but not aggressive—avoid contact. Mild currents mean drift is minimal. Excellent for building confidence before attempting Sudan's deeper, more challenging sites. Always dive with a buddy and carry an SMB as standard practice.
+The shallow depth (max 12m recorded) limits depth-related risk on this specific dive relative to Sudan's deeper wall sites, per the shallow topography described in sources. However, general Red Sea reef hazards (fire coral, lionfish) should still be assumed and avoided by contact. As with all Sudan liveaboard sites, always dive with a buddy, carry an SMB, and remember that remote logistics mean limited evacuation options regardless of how mild an individual dive is.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Scuba Diving Magazine - Five Great Dive Sites in Sudan's Red Sea](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Blue Force Fleet - Central & South Route Dive Sites](https://www.blueforcefleet.com/diving-sudan-red-sea/central-south-dive-sites/). Only two independent sources were found for this site; it does not meet the 3-source bar for full validation. Last updated 2026-07-01.*
