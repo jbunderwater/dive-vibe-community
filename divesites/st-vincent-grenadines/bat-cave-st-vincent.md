@@ -17,7 +17,7 @@ Bat Cave (St. Vincent) is a cave dive site in St. Vincent and the Grenadines, Ca
 
 ## Overview
 
-The Bat Cave at Buccament Bay is one of St. Vincent's most exhilarating dives: a surface swim leads into a darkened cavern home to hundreds of bats, then you submerge and drop down a four-foot-wide chasm some 15 meters deep before exiting through a narrow passage into open water on the other side of the headland. The cave is shallow and the swim-through is short, but the combination of the live bat colony overhead and the brilliant blue light at the tunnel's end makes it a bucket-list dive on the island.
+Also known locally as the Byahaut Bat Cave, this site near Buccament Bay is one of St. Vincent's most exhilarating dives: a surface swim leads into a darkened, roughly 300-foot sandstone tunnel where bats roost overhead, then divers submerge and drop down a four-foot-wide chasm to about 15 meters before exiting through a narrow passage into open water on the other side of the headland. The dive is best attempted at high tide, requires a dive light for the dark interior, and can have noticeable surge in the chasm.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Bat Cave at Buccament Bay is one of St. Vincent's most exhilarating dives: a
 
 ## Marine Life
 
-The cave environment shelters glassy sweepers, bigeye fish, and spiny lobsters that crowd the low-light interior, while a live colony of bats roosts in the cavern overhead. On the open-water exit side of the tunnel, cleaner wrasse stations, yellowtail snappers, and small parrotfish use the cave entrance as a safe refuge, and the occasional hawksbill turtle or nurse shark is spotted resting outside the passage.
+Two bat species — the Fisherman bat and the Fruit bat — roost in the cavern overhead and are the site's signature wildlife. Specific fish species inside the cave interior are not confirmed by current sources; St. Vincent's reef fish generally (moray eels, snappers, small parrotfish) are plausible in the surrounding reef but should not be presented as confirmed cave residents without a site-specific source.
 
 ---
-*Sources: [zentacle.com - Bat Cave St Vincent](https://zentacle.com/), [wannadive.net - Bat Cave](https://www.wannadive.net/), [bluewater.com - SVG Cave Diving](https://www.bluewaterdivetravel.com/), [tripadvisor.com - Bat Cave Reviews](https://www.tripadvisor.com/). Last updated 2026-05-24.*
+*Sources: [TripAdvisor - Byahaut Bat Cave](https://www.tripadvisor.com/Attraction_Review-g147380-d150155-Reviews-Byahaut_Bat_Cave-St_Vincent_St_Vincent_and_the_Grenadines.html), [Zentacle - Bat Cave](https://www.zentacle.com/Beach/12553/bat-cave), [Wannadive - Bat Cave](https://www.wannadive.net/spot/Central_America/St_Vincent_Grenadines/St_Vincent/Bat_cave/index.html). Last updated 2026-07-01.*

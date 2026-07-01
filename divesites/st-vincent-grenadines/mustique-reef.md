@@ -17,7 +17,7 @@ Mustique Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Mustique Reef offers sloping coral terrain to around 25 meters on the Grenadines' relatively undisturbed leeward reefs, where coral nursery programmes established in recent years are actively replanting brain coral and elkhorn to aid recovery. The site is known for relaxed drift conditions that allow divers to glide over intact hard and soft coral formations while spotting shy spotted drums and banded coral shrimp in the recesses. Parrotfish, angelfish, barracuda, and moray eels are typical reef residents, and hawksbill turtles and southern stingrays make regular appearances across the sandy patches between coral heads.
+Mustique Reef offers sloping coral terrain to around 25 meters on the Grenadines' relatively undisturbed leeward reefs. Since 2015, coral restoration pioneer Ken Nedimyer has run a nursery program here that has planted more than 12,000 Elkhorn, Staghorn, and Fire coral fragments, based at nurseries in Endeavour Bay (in front of the Cotton House) and L'Ansecoy Bay, with a goal of 100,000 plantings by 2030. Fish biomass around the reef has increased as a result.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Mustique Reef offers sloping coral terrain to around 25 meters on the Grenadines
 
 ## Marine Life
 
-Hawksbill turtles and southern stingrays are regular sightings over the sandy patches between coral heads, while spotted drums and banded coral shrimp inhabit the reef's shaded recesses. Parrotfish, queen angelfish, barracuda, and moray eels are year-round residents, benefiting from the active coral restoration work that is helping revive brain coral and elkhorn formations across the site.
+Spotted drums and banded coral shrimp are reported in Mustique's dive area (one source names them specifically at "Tap and Run," a nearby Mustique site, rather than by the name "Mustique Reef," so treat this as regional rather than site-exclusive). Parrotfish, angelfish, barracuda, and moray eels are typical reef residents, and hawksbill turtles and southern stingrays are commonly reported across Mustique's sandy patches between coral heads.
 
 ---
-*Sources: [bluewater.com - Mustique Diving](https://www.bluewaterdivetravel.com/), [zubludiving.com - Mustique Reef](https://www.zubludiving.com/), [mustique-island.com - Diving](https://www.mustique-island.com/). Last updated 2026-05-24.*
+*Sources: [DIVE Magazine - Life Returns: Coral Reef Restoration in Mustique](https://divemagazine.com/scuba-diving-travel/americas-caribbean/life-returns-coral-reef-restoration-in-mustique), [Mustique Island - Coral Restoration Project](https://www.mustique-island.com/mustiques-coral-restoration-project/), [DAN - Rewilding Mustique's Reefs](https://dan.org/alert-diver/article/rewilding-mustiques-reefs/). Last updated 2026-07-01.*
