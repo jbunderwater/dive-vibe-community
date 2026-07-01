@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Sweet Potato
 
-Sweet Potato is a reef site in central Sudan's Red Sea on liveaboard itineraries. IMPORTANT QA NOTE: extensive research could not confirm "Sweet Potato" as an independently-documented dive site name. The "30 potato grouper" description circulating in our prior content traces back to a Scuba Diving magazine article about Sudan's "Deep South," which explicitly describes this population at the **southern plateau outside the atoll at Sha'ab Rumi** ("this site reminds me of a miniature of Sha'ab Rumi... a large school of chevron barracuda and big-eye jacks frequent the area, but the most interesting inhabitants are potato grouper") — not a site called "Sweet Potato." It is possible "Sweet Potato" is an informal liveaboard-crew nickname for this or a similar plateau that hasn't been published online, but this could not be verified.
+Sweet Potato is a reef site in central Sudan's Red Sea on liveaboard itineraries. Note for readers: extensive research could not confirm "Sweet Potato" as an independently-documented dive site name. The "30 potato grouper" description circulating in our prior content traces back to a Scuba Diving magazine article about Sudan's "Deep South," which explicitly describes this population at the **southern plateau outside the atoll at Sha'ab Rumi** ("this site reminds me of a miniature of Sha'ab Rumi... a large school of chevron barracuda and big-eye jacks frequent the area, but the most interesting inhabitants are potato grouper") — not a site called "Sweet Potato." It is possible "Sweet Potato" is an informal liveaboard-crew nickname for this or a similar plateau that hasn't been published online, but this could not be verified.
 
 ## Overview
 
