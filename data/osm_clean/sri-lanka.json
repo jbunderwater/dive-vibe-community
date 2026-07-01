@@ -12,9 +12,11 @@
     "tags": {
       "name": "Scuba Lanka",
       "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research",
-      "depth_range": "10-18m"
+      "validated": false,
+      "validation_source": "unresolved_commercial_name",
+      "depth_range": "10-18m",
+      "qa_note": "\"Scuba Lanka\" is the name of a PADI dive shop/operator in Trincomalee (scubalanka.com, padi.com dive-center listing), not a natural dive site. Likely an OSM node tagging the shop's location rather than an actual site. Flagged per CLAUDE.md commercial-business exclusion; needs a maintainer decision on whether to rename to an actual nearby site, or remove.",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -38,7 +40,8 @@
       "coral_species": 156,
       "fish_species": 283,
       "validated": true,
-      "validation_source": "web_research"
+      "validation_source": "kalpitiyatours.com,kalpitiyadiving.com,extremenomads.life",
+      "last_qa_date": "2026-07-01"
     }
   },
   {
@@ -47,7 +50,7 @@
     "lon": 79.6940893,
     "osm_id": 4055852991,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 17,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -59,8 +62,11 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "web_research",
-      "region": "Kalpitiya"
+      "validation_source": "kalpitiyatours.com,kalpitiyadiving.com,extremenomads.life",
+      "region": "Kalpitiya",
+      "depth_range": "14-17m (Reef 1 / Reef 2)",
+      "last_qa_date": "2026-07-01",
+      "qa_note": "No source confirms literal anchors/chains on the seabed; prior markdown's 'colonial spice trade anchor' narrative was unsupported and has been removed."
     }
   },
   {
@@ -71,16 +77,17 @@
     "osm_type": "node",
     "depth": 25,
     "site_type": "cave",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Cave dive site",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Cave/cavern system near Unuwatuna with swim-throughs, 10-25m. Advanced training required for safe passage. Tropical fish and invertebrate macro life. Light penetration through cave openings. Requires cave diving certification."
+      "validated": true,
+      "validation_source": "diveinsrilanka.com,unawatunadive.com,padi.com",
+      "last_qa_date": "2026-07-01",
+      "qa_note": "This node sits ~156m from 'Gala pita gala dive site' and is very likely the same cave/pinnacle feature (the only named cave system in this exact location in any source). Description now treats it as adjoining/likely-identical to Gala Pita Gala rather than inventing a distinct site identity."
     }
   },
   {
@@ -89,18 +96,20 @@
     "lon": 80.2385992,
     "osm_id": 9448790420,
     "osm_type": "node",
-    "depth": 18,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Gala pita gala dive site",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Shore reef near Unuwatuna with local name, 5-18m. Intermediate reef exploration with tropical fish, nudibranchs, and invertebrates. Good visibility (15-20m) in calm conditions. Popular local dive site."
+      "validated": true,
+      "validation_source": "padi.com,diveinsrilanka.com,unawatunadive.com,pearldiverslk.com",
+      "depth_range": "10-25m",
+      "last_qa_date": "2026-07-01",
+      "qa_note": "Reclassified reef->cave and shore->boat: 4 independent sources (PADI, Sun Diving/diveinsrilanka.com, Pearl Divers/unawatunadive.com, pearldiverslk.com) describe a rock pinnacle with a ~3m natural cave, boat access (10-15 min from Unawatuna), max depth 25m (top of pinnacle ~10m)."
     }
   },
   {
@@ -109,7 +118,7 @@
     "lon": 80.047307,
     "osm_id": 9448792092,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 21,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -119,9 +128,11 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Wreck site near Galle with tropical fish and reef life, depths 15-20m. Intermediate wreck exploration in warm Indian Ocean waters. Coral encrustation and marine growth. Good visibility (18-25m)."
+      "validated": true,
+      "validation_source": "padi.com,archaeology.lk,divingsrilanka.com",
+      "depth_range": "14-21m (sources also cite up to 22m in places)",
+      "last_qa_date": "2026-07-01",
+      "qa_note": "Site is the SS Conch wreck near Akurala/Hikkaduwa (~8km from Hikkaduwa town, consistent with coordinates). Sinking date conflict: PADI and divingsrilanka.com say June 2, 1903; archaeology.lk says June 3, 1903 - both retained as a range in the description. Depth also varies 14-21m vs 22m across sources - both noted."
     }
   },
   {
@@ -140,9 +151,10 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Southern coast wreck site with shallow depths (12-15m) ideal for intermediate divers. Well-preserved structure with tropical fish, nudibranchs, and marine invertebrates. Excellent light penetration and photography opportunities."
+      "validated": false,
+      "validation_source": "unresolved_no_source_found",
+      "last_qa_date": "2026-07-01",
+      "qa_note": "No independent source (Hikkaduwa's published 10-wreck list, Negombo dive-site lists, ScubaBoard, Wikipedia) corroborates a wreck called 'Carreg' anywhere in Sri Lanka. 'Carreg' is a Welsh word for 'rock' used in Welsh (Pembrokeshire/North Wales) dive-site naming; coordinates place this node near Beruwala/Bentota, ~120km from the nearest documented wreck cluster (Hikkaduwa). Likely a mistagged/unverifiable OSM node. Previous markdown's full wreck-penetration narrative was unsupported fabrication and has been removed. Left unvalidated per validation rules (no source = do not mark validated)."
     }
   },
   {
@@ -153,16 +165,17 @@
     "osm_type": "node",
     "depth": 12,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Goddamahagale dive site",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Shore-accessible reef on southern coast with local name, depths 5-12m. Intermediate reef exploration with tropical fish, corals, and macro life. Warm water (27-30C) and good visibility (18-25m)."
+      "validated": false,
+      "validation_source": "unresolved_unmatched_site_name",
+      "last_qa_date": "2026-07-01",
+      "qa_note": "Coordinates place this ~7km from Negombo's 'Maha Gala' dive site and within the Negombo 'Gala' cluster (Maha Gala, Mada Gala, Y-Gala, Dakune Gala, Diyamba Gala) - NOT the southern coast/Hikkaduwa location the previous markdown claimed (that description was wrong by ~127km). However, no source was fetched that confirms this exact OSM name as a specific named site, so this fails the 3-independent-source bar for validation. Location corrected from 'southern coast near Hikkaduwa' to 'west coast near Negombo' based on coordinates. entry_type changed reef sites in this Negombo cluster are consistently boat-accessed (Maha Gala, Pakistan Wreck, etc. per zentacle.com), so entry_type updated shore->boat, but site_type/depth left unchanged pending a site-specific source."
     }
   },
   {
@@ -182,11 +195,12 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "pearldiverslk.com,divinguru.com,sithiyam.com",
       "depth_range": "5-18m",
       "water_temp": "27-30C",
       "visibility": "10-25m",
-      "known_wrecks": "SS Rangoon"
+      "last_qa_date": "2026-07-01",
+      "qa_note": "Removed 'known_wrecks: SS Rangoon' tag - the SS Rangoon wreck lies at 30-32m near Galle harbor (per pearldiverslk.com), a distinct and much deeper site from this shallow (5-18m) fringing reef; the association was misleading. Marine life (turtles, moray, wrasse) is confirmed at the Unawatuna-bay level across 3 sources but not tied to this exact reef polygon by name, so description now attributes it at the bay/regional level rather than claiming site-exclusive sightings."
     }
   }
 ]
