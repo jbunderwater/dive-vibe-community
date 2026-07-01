@@ -17,7 +17,7 @@ Fairyland is a reef dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastanet, where periodic strong currents flush nutrient-rich water through the reef and keep its corals and sponges exceptionally vivid — giving the site its name. The reef plateau slopes from roughly 12 to 18 meters, with large boulders creating sheltered nooks packed with schools of horse-eye jacks, Bermuda chubs, Creole wrasse, and chromis, while turtles, southern stingrays, and octopuses are regularly encountered in the crevices. The site sits within the Soufriere Marine Management Area (SMMA), established in 1995, which has helped maintain the strong coral and fish diversity that makes it a favourite among local divemasters.
+Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastanet, where periodic strong currents flush nutrient-rich water through the reef and keep its corals and sponges exceptionally vivid — a description echoed independently by both the Soufrière Marine Management Association and diver trip reports. The reef plateau slopes from roughly 12 to 22 meters, with large boulders creating sheltered nooks. Turtles, jacks, octopus, and barracuda are regularly encountered here, and the strong currents that can make conditions challenging on windy days are also what keeps the reef so colorful. The site sits within the Soufrière Marine Management Area (SMMA), established in 1995.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastan
 
 ## Marine Life
 
-Large schools of horse-eye jacks, Bermuda chubs, and Creole wrasse crowd the sheltered boulder nooks, while hawksbill turtles and southern stingrays are regularly encountered in the reef's crevices. Octopuses are a notable highlight here, and the nutrient-flushed reef supports unusually vivid corals and sponges that give the site its name and provide habitat for parrotfish, chromis, and angelfish.
+Turtles, jacks, and barracuda are regularly reported here, along with octopus, parrotfish, chromis, and moray eels. Earlier drafts of this page specified "horse-eye jacks," "Bermuda chubs," and "southern stingrays" — none of these more specific claims could be confirmed by any source, so they have been generalized to "jacks" (confirmed) and the chub/stingray claims have been removed. The characterization of Fairyland as a "favourite among local divemasters" was also unconfirmed and has been removed; what is confirmed is that the site's strong currents make it a distinctive, sometimes challenging dive that keeps the coral and sponges unusually vivid.
 
 ---
-*Sources: [divesaintlucia.com - Fairyland](https://www.divesaintlucia.com/), [smmainc.com - SMMA Dive Sites](https://www.smmainc.com/), [scubadiving.com - St Lucia Dive Sites](https://www.scubadiving.com/). Last updated 2026-05-24.*
+*Sources: [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [ScubaBoard - St. Lucia Trip Report (long and comprehensive)](https://scubaboard.com/community/threads/st-lucia-trip-report-long-and-comprehensive.96355/), [PADI - 7 Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [EnezGreen - Diving in the Soufrière Marine Reserve](https://www.enezgreen.com/en/diving-in-the-soufriere-marine-reserve/), [Scubaverse - Saint Lucia Dive Guide](https://scubaverse.com/dive-guide/caribbean/saint-lucia/), [CorluTravels - Top Dive Sites in St. Lucia](https://www.corlutravels.com/post/top-5-dive-sites-in-st-lucia). Last updated 2026-07-01.*

@@ -17,7 +17,9 @@ Anse La Raye Wall is a wall dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Anse La Raye Wall — named for the "Bay of Rays" village above — is one of the most colourful wall dives in the Caribbean, with a sheer face starting at 18 metres and dropping to 34 metres, painted with iridescent purple vase sponges, barrel sponges, gorgonian fans, sea whips, and vibrant fire coral in the shallows. Stingrays and spotted eagle rays are the signature sighting here, with turtles reportedly more common at this site than anywhere else in the Soufrière area, alongside Bermuda chubs, spotted drums, and jacks working the wall. The depth and potential current mean nitrox and an advanced certification are recommended, but the reward is one of the most photogenic wall dives in the Windward Islands.
+Anse La Raye Wall is a wall dive named for the village of Anse La Raye above it — "la raie" is French for "ray" (the fish), making "Bay of Rays" a plausible translation, though no single authoritative etymological source confirms this as the official naming history. A repeat search on 2026-07-01 could not locate a specific, fetchable operator page (divesaintlucia.com, tikaye.com, smmainc.com) describing this site by name with confirmed technical detail. The data record for this site shows an internal depth conflict between a starting depth of 18 metres/dropping to 34 metres (per earlier notes) and a recorded maximum of 40 metres — this has not been resolved with a specific source and is flagged here rather than asserting one figure with false confidence.
+
+**Correction**: an earlier version of this page claimed "turtles are reportedly more common here than anywhere else in the Soufrière area." An extensive repeat search found zero support for this superlative in any source, and it has been removed as unsubstantiated.
 
 ## Site Information
 
@@ -29,7 +31,7 @@ Anse La Raye Wall — named for the "Bay of Rays" village above — is one of th
 
 ## Marine Life
 
-Stingrays and spotted eagle rays are the signature sightings at this site — the village name means "Bay of Rays" for good reason — while hawksbill and green turtles are reportedly more common here than anywhere else in the Soufrière area. Bermuda chubs, spotted drums, and horse-eye jacks work the brilliantly coloured wall of iridescent purple vase sponges, gorgonian fans, and fire coral, with moray eels lurking in the deeper crevices.
+No site-specific marine-life source could be found for Anse La Raye Wall in this pass. Earlier drafts listed stingrays, spotted eagle rays, turtles (with an unsupported "more common than anywhere else" superlative), Bermuda chubs, spotted drums, jacks, and moray eels — none of these could be independently confirmed, so species claims have been removed rather than repeated without support.
 
 ---
-*Sources: [divesaintlucia.com - Anse La Raye Wall](https://www.divesaintlucia.com/), [tikaye.com - Ti Kaye Dive Sites](https://www.tikaye.com/), [smmainc.com - SMMA Dive Sites](https://www.smmainc.com/). Last updated 2026-05-24.*
+*Description based on regional diving characteristics and the village's French place-name etymology. No site-specific technical source or marine-life confirmation was found despite repeated searching on 2026-07-01; an unsupported turtle superlative from an earlier draft has been removed. Last updated 2026-07-01.*

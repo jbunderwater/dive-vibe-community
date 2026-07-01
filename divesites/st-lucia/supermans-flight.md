@@ -17,7 +17,7 @@ Superman's Flight is a wall dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Superman's Flight is a drift dive along the submerged face of Petit Piton — named for the cliff used in filming Superman II and for the flying sensation as the current sweeps divers Superman-style along the wall's volcanic topography. The wall plunges to well below recreational depths and between 12–21 metres the colours are exceptional, with fiery red branching rope sponges, glowing orange elephant ear sponges, and an abundance of fish life benefiting from the mineral-rich volcanic substrate. Southern stingrays cruise the invertebrate-covered incline, sea turtles appear regularly, and the current-driven drift means you cover significant ground, making every pass along the wall different.
+Superman's Flight is a well-known drift/wall dive along the submerged face of Petit Piton, one of the twin volcanic peaks that give the Pitons their name. The name is widely repeated across general travel and dive listicles for St. Lucia, and the Petit Piton/Jalousie area is well-documented island lore as a filming location connected to Superman II — but no source found ties that filming history specifically to the underwater topography of the dive site itself, so it is noted here as general area lore rather than a fact about the dive site. A repeat search could not locate an operator page, ScubaBoard thread, or other specific source with technical detail (exact depth profile, confirmed marine life) for this site by name, despite it being a widely recognized site. The wall is generally described as dropping along Petit Piton's face into deep water, consistent with the geology of the other Piton-area wall and drift sites in this database.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Superman's Flight is a drift dive along the submerged face of Petit Piton — na
 
 ## Marine Life
 
-Southern stingrays cruise the invertebrate-covered volcanic incline while sea turtles appear regularly along the fiery red rope sponge and orange elephant ear sponge-decorated wall. The mineral-rich volcanic substrate supports exceptional fish life — including large schools of parrotfish and angelfish — and the current-driven drift exposes divers to barracuda in the open water. Reef shark encounters have been reported at this site but are not consistently documented in primary sources.
+No site-specific marine-life source could be found for Superman's Flight in this pass. St. Lucia's Piton-area walls are generally reported to host turtles, rays, and reef fish typical of Caribbean volcanic wall dives, but attributing specific species to this site without a confirming source would be speculative, so none are listed here.
 
 ---
-*Sources: [scubadiving.com - Superman's Flight](https://www.scubadiving.com/), [padi.com - Dive Saint Lucia](https://www.padi.com/), [divesaintlucia.com - Dive Sites](https://www.divesaintlucia.com/). Last updated 2026-05-24.*
+*Description based on regional diving characteristics and general travel/tourism references confirming the site's name and general location. No site-specific technical source (depth profile, confirmed marine life) was found despite repeated searching on 2026-07-01. Last updated 2026-07-01.*

@@ -17,7 +17,7 @@ Key Hole Pinnacles is a pinnacle dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Key Hole Pinnacles is one of St. Lucia's most celebrated dive sites, featuring four dramatic volcanic seamounts that rise from depth to within a few feet of the surface — an underwater echo of the island's iconic Pitons above. The pinnacles are densely encrusted with black and orange gorgonian sea fans, barrel sponges, organ pipe corals, and tube corals, and mild currents channelling between them sustain exceptional coral diversity. Trumpetfish, filefish, groupers, snappers, pufferfish, seahorses, and frogfish inhabit the structures, and the site has an unusual reputation for rare pelagic visitors including whale sharks and ocean sunfish.
+Key Hole Pinnacles is a recognized St. Lucia dive site featuring four volcanic seamounts that rise from depth toward the surface, echoing the island's iconic Pitons above water. General travel and dive listicles consistently describe this structural feature (four rising pinnacles) across multiple casual sources, which supports it as a genuine site characteristic. However, a repeat, dedicated search on 2026-07-01 could not locate any real, fetchable page on smmainc.com, padi.com, or scubastlucia.com with site-specific technical detail. In particular, a quote previously attributed to a "PADI blog" — describing the site as "probably the most visually stunning dive site in Saint Lucia" — could not be found on any accessible PADI page (padi.com/blog, blog.padi.com, travel.padi.com). That quote is unverifiable and has been removed as likely fabricated by an earlier pass.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Key Hole Pinnacles is one of St. Lucia's most celebrated dive sites, featuring f
 
 ## Marine Life
 
-Seahorses and frogfish cling to the dense gorgonian sea fans and barrel sponges on the pinnacle faces, alongside trumpetfish, filefish, groupers, and pufferfish in the crevices. The currents channelling between the structures attract horse-eye jacks and barracuda in the open water. PADI's blog describes Key Hole Pinnacles as "probably the most visually stunning dive site in Saint Lucia" with four volcanic peaks rising from depth to near the surface. No site-specific sources confirming whale shark or ocean sunfish encounters have been found; those claims have been removed.
+No site-specific marine-life source could be found for Key Hole Pinnacles in this pass. Earlier drafts listed trumpetfish, filefish, groupers, snappers, pufferfish, seahorses, frogfish, horse-eye jacks, and barracuda, plus whale sharks and ocean sunfish — none of these could be confirmed against a real, specific source, so all species claims have been removed rather than repeated without support.
 
 ---
-*Sources: [smmainc.com - SMMA Dive Sites](https://www.smmainc.com/), [padi.com - Key Hole Pinnacles](https://www.padi.com/), [scubastlucia.com - Dive Sites](https://scubastlucia.com/). Last updated 2026-05-24.*
+*Description based on regional diving characteristics and general travel/tourism references confirming the site's four-pinnacle structure and general location. No site-specific technical source or marine-life confirmation was found despite repeated searching on 2026-07-01; a previously cited PADI quote could not be verified and has been removed as likely fabricated. Last updated 2026-07-01.*

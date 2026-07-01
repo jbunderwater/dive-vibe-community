@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Anse Chastanet Reef
 
-Anse Chastanet Reef is a reef dive site in St. Lucia, Caribbean.
+Anse Chastanet Reef begins just steps from the beach in the heart of the Soufrière Marine Management Area, and its operator, Scuba St. Lucia, calls it one of the top shore dives in the Caribbean.
 
 ## Overview
 
-Anse Chastanet Reef begins just metres from the beach in the heart of the Soufrière Marine Management Area and is consistently rated among the top shore dives in the entire Caribbean by Scuba Diving Magazine readers. The reef hosts over 150 fish species along with an impressive variety of sponges — gigantic barrel sponges, purple vase sponges, black coral trees, and dense gorgonian fans — and seahorses, scorpionfish, and cleaner shrimps are reliably found in the shallower sections. The protection of the SMMA since 1995 has produced a genuinely healthy reef with resident sea turtles, octopus, cuttlefish, and golden spotted eels alongside the colourful schools of parrotfish, grunts, and angelfish.
+Anse Chastanet Reef begins just steps from the beach within the Soufrière Marine Management Area (SMMA), established in 1995. The site hosts over 150 fish species, and Scuba St. Lucia (the dive operation based at the resort) markets it as ranked among the "top five" shore dives in the Caribbean by Rodale's Scuba Diving Magazine. The reef is a shallow plateau running from about 5-25 feet before dropping away steeply, with recreational dives typically staying in the shallower zone but drop-offs reaching well beyond 40 metres in places. Gorgonian fans, soft corals, and sponge communities cover the reef, and seahorses, scorpionfish, and cleaner shrimp are reliably found in the shallower sections. Sea turtles and octopus are commonly seen, and night dives here regularly turn up squid and bioluminescent life.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Anse Chastanet Reef begins just metres from the beach in the heart of the Soufri
 
 ## Marine Life
 
-Seahorses, scorpionfish, and cleaner shrimps are reliably found in the shallower reef sections, while octopus, cuttlefish, and golden spotted eels are resident alongside over 150 fish species. Hawksbill turtles are common throughout the site, and the SMMA's protection since 1995 has produced genuinely dense populations of parrotfish, grunts, and angelfish around the giant barrel sponges and black coral trees.
+Seahorses, scorpionfish, and cleaner shrimp are reliably found in the shallower reef sections, while turtles and octopus are commonly sighted throughout the site. Parrotfish and a range of reef fish move through the gorgonian fans, soft corals, and sponge communities that make up the reef structure. Night dives here regularly turn up squid and, occasionally, bioluminescence. Earlier drafts of this description referenced "cuttlefish" and "black coral trees" — neither could be confirmed by any source found, and "cuttlefish" likely conflated with the confirmed squid sightings, so both have been removed. A claim about "golden spotted eels" has also been removed here; that species is confirmed by a source for the nearby Turtle Reef, not for this specific site.
 
 ---
-*Sources: [scubastlucia.com - Anse Chastanet](https://scubastlucia.com/diving/), [scubadiving.com - St Lucia Shore Dives](https://www.scubadiving.com/), [padi.com - Anse Chastanet Reef](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Anse Chastanet Resort - Scuba](https://ansechastanet.com/scuba/), [PADI - 7 Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DAN Alert Diver - Saint Lucia](https://dan.org/alert-diver/article/saint-lucia/), [ScubaBoard - Scuba St Lucia and Anse Chastanet Questions](https://scubaboard.com/community/threads/scuba-st-lucia-and-anse-chastanet-questions.556797/), [Scuba Diving Industry - Anse Chastanet Named Top Dive Resort](https://scubadivingindustry.com/news/anse-chastanet-named-one-of-the-caribbeans-top-dive-resorts/). Last updated 2026-07-01.*

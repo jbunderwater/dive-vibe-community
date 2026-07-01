@@ -17,7 +17,7 @@ Pinnacles (Anse Cochon) is a pinnacle dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Pinnacles at Anse Cochon ("Bay of Pigs") rises from the reef in finger-like coral formations with valleys and trenches in between, creating a dive full of varied topography within a shallow maximum depth of 18 meters. The structures are draped in sea whips, gorgonian fans, organ pipe corals, and feather duster worms, and the site acts as a productive breeding ground for juvenile fish including queen and French angelfish. Hawksbill turtles frequent the area, and careful divers may find seahorses and flounder tucked into the crevices between the coral columns.
+Pinnacles is a dive site near Anse Cochon rising from the reef in finger-like coral formations, at a relatively shallow maximum depth of 18 meters. "Anse Cochon" translates literally from French as "Pig Bay" (cochon = pig), though no dictionary or tourism-board source was found confirming this as the area's official naming history, so it is presented here as a literal translation rather than a sourced etymology. A repeat search could not locate an operator page or ScubaBoard thread with technical detail (confirmed marine life, precise topography) for this site by name, despite general listicles referencing "Pinnacles" as a real site in this area.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Pinnacles at Anse Cochon ("Bay of Pigs") rises from the reef in finger-like cora
 
 ## Marine Life
 
-Hawksbill turtles frequent the coral columns, and patient divers may find seahorses and flounder tucked into the crevices between the pinnacle walls. The finger formations are an active breeding ground for juvenile queen and French angelfish, with feather duster worms, sea whips, and gorgonian fans providing habitat for a diverse cast of reef species in the shallow, sheltered bay.
+No site-specific marine-life source could be found for Pinnacles (Anse Cochon) in this pass. St. Lucia's shallow reef and pinnacle sites in the Soufrière/Anse Cochon area are generally reported to host turtles and a range of reef fish, but attributing specific species to this site without a confirming source would be speculative, so none are listed here.
 
 ---
-*Sources: [smmainc.com - Anse Cochon](https://www.smmainc.com/), [divesaintlucia.com - Pinnacles](https://www.divesaintlucia.com/), [padi.com - Anse Cochon Pinnacles](https://www.padi.com/). Last updated 2026-05-24.*
+*Description based on regional diving characteristics and general travel/tourism references confirming the site's name and general location. No site-specific technical source was found despite repeated searching on 2026-07-01. Last updated 2026-07-01.*

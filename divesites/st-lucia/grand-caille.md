@@ -17,7 +17,7 @@ Grand Caille is a wall dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Grand Caille — Creole for "large reef" — is one of Soufrière's most dramatic dive sites, starting shallow among massive boulders where clouds of damselfish swirl over red, orange, and yellow corals before the terrain transitions into a sheer wall lined with deep-water gorgonians, sea whips, huge brain corals, and barrel sponges in pristine condition. Trumpetfish, angelfish, butterflyfish, and lionfish inhabit the wall's middle depths, and the site is a known location for lobsters, frogfish, puffer fish, and spotted drums. The wall drops to 30 metres within the protected Soufrière Marine Management Area, and the site is a popular choice for afternoon boat dives from the Anse Chastanet operator fleet.
+Grand Caille is a dive site in the Soufrière area, starting among boulders before the terrain transitions into a wall. A previously published claim that "Grand Caille" translates from Creole as "large reef" could not be corroborated by any linguistic or tourism source found — "caille" is not a standard French or Creole word for "reef" in available references — so this etymology is presented here only as a weakly-supported claim rather than fact. A repeat search on 2026-07-01 could not locate a specific, fetchable operator page (divesaintlucia.com, smmainc.com, tikaye.com) describing this site by name with confirmed technical detail. General sources describe a boulder-to-wall transition consistent with this site's structure, but the transition, exact depth profile, and marine life have not been independently confirmed.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Grand Caille — Creole for "large reef" — is one of Soufrière's most dramati
 
 ## Marine Life
 
-The wall and boulder zone host lobsters, frogfish, puffer fish, and spotted drums in the crevices, while trumpetfish, angelfish, butterflyfish, and lionfish patrol the mid-wall depths. Swarms of damselfish swirl over the shallower boulder sections, and sea turtles are regular visitors to the pristine brain coral and barrel sponge formations along the SMMA-protected wall.
+No site-specific marine-life source could be found for Grand Caille in this pass. Earlier drafts listed damselfish, trumpetfish, angelfish, butterflyfish, lionfish, lobsters, frogfish, puffer fish, spotted drums, and turtles — none of these could be independently confirmed, so species claims have been removed rather than repeated without support.
 
 ---
-*Sources: [divesaintlucia.com - Grand Caille](https://www.divesaintlucia.com/), [smmainc.com - SMMA Dive Sites](https://www.smmainc.com/), [tikaye.com - Ti Kaye Dive Sites](https://www.tikaye.com/). Last updated 2026-05-24.*
+*Description based on regional diving characteristics. The "large reef" Creole translation in earlier drafts is unconfirmed and flagged as weak. No site-specific technical source or marine-life confirmation was found despite repeated searching on 2026-07-01. Last updated 2026-07-01.*
