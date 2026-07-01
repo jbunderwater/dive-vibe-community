@@ -17,7 +17,7 @@ The Wall (Bequia) is a wall dive site in St. Vincent and the Grenadines, Caribbe
 
 ## Overview
 
-Bequia's signature wall dive drops from a shallow reef top into the deep blue, draped in black coral and sponges on a vertical face that runs along the island's leeward coast. The site is known for large schools of creole wrasse and blue tangs that fill the water column, with hawksbill turtles and the occasional eagle ray cruising the wall.
+At the southern tip of Bequia near West Cay, The Wall begins with a dramatic swim over a shallow ledge before dropping steeply to around 100 feet (30m), where a gentle current can carry divers along the drop-off toward open blue water. Swim-throughs are found at the base of the wall. Conditions here can turn challenging with current, waves, and swell, which is why the site is rated for advanced divers only.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Bequia's signature wall dive drops from a shallow reef top into the deep blue, d
 
 ## Marine Life
 
-The vertical wall face is draped in black coral and large sponges that shelter moray eels and spiny lobsters in the deeper recesses, while large schools of creole wrasse and blue tangs fill the water column above the reef top. Hawksbill turtles are frequently seen cruising the wall, and spotted eagle rays make regular passes through the open water alongside the drop-off.
+Large barracuda and tarpon are reported along the wall. Nurse sharks, turtles, and eagle rays are seen at Bequia's wall and boulder dive sites more broadly, though sightings vary by dive and are not guaranteed at this exact spot. No source specifically confirms black coral as a defining feature of The Wall itself, so that claim has been removed pending site-specific confirmation.
 
 ---
-*Sources: [divebequia.com - The Wall](https://www.divebequia.com/), [zubludiving.com - Bequia Dive Sites](https://www.zubludiving.com/), [bluewater.com - St. Vincent Grenadines](https://www.bluewaterdivetravel.com/). Last updated 2026-05-24.*
+*Sources: [TripAdvisor - The Wall, Bequia](https://www.tripadvisor.ca/Attraction_Review-g147383-d150161-Reviews-The_Wall-Bequia_St_Vincent_and_the_Grenadines.html), [One Caribbean - Dive Bequia](https://onecaribbeanusa.com/st-vincent-and-the-grenadines-dive-bequia/), [Dive Bequia - Dive Sites](https://www.divebequia.com/bequia-dive-sites/). Last updated 2026-07-01.*

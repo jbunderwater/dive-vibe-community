@@ -17,7 +17,7 @@ Petit St. Vincent Reef is a reef dive site in St. Vincent and the Grenadines, Ca
 
 ## Overview
 
-Petit St. Vincent Reef surrounds the private island of PSV in the southern Grenadines, part of the Mission Blue Hope Spot and a Marine Conservation Area where over a decade of anchor and fishing restrictions has produced notably healthy reefs. The site offers a mix of sloping coral gardens and gentle drop-offs to around 20 meters, with brain coral, elkhorn, pillar coral, and gorgonian sea fans in good condition. Spotted drum, scorpionfish, flamingo tongue snails, moray eels, and frogfish reward attentive divers, while eagle rays, nurse sharks, and hawksbill turtles are regular visitors to the open water above the reef.
+Petit St. Vincent Reef surrounds the private island of PSV in the southern Grenadines, adjacent to the St. Vincent and the Grenadines Mission Blue Hope Spot and a Marine Conservation Area where over a decade of anchor and fishing restrictions has helped increase reef biomass. The site offers a mix of sloping coral gardens and gentle drop-offs to around 20 meters. PSV has partnered with CLEAR Caribbean to build a coral nursery to help hard and branching corals recover, since native reefs here face pressure from invasive lionfish.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Petit St. Vincent Reef surrounds the private island of PSV in the southern Grena
 
 ## Marine Life
 
-The long-protected reef supports attentive macro finds including spotted drum, scorpionfish, flamingo tongue snails, and frogfish nestled among the brain, elkhorn, and pillar coral heads. Hawksbill turtles and eagle rays visit regularly from the open water, and nurse sharks are commonly found resting beneath coral overhangs in the deeper sections near the gentle drop-offs.
+The waters around PSV and the neighboring islands are known more broadly for turtles and more than 20 species of dolphins and whales passing through the region, but no source found confirms specific reef-fish species (such as spotted drum, scorpionfish, or nurse sharks) sighted at this particular reef rather than the wider PSV/southern Grenadines area. Regional Caribbean reef fauna should be expected here, but divers should treat any specific species list for this exact site as unconfirmed until site-level reports are found.
 
 ---
-*Sources: [psvresort.com - Diving at PSV](https://www.psvresort.com/), [padi.com - Petit St Vincent Dive Sites](https://www.padi.com/), [bluewater.com - Southern Grenadines](https://www.bluewaterdivetravel.com/). Last updated 2026-05-24.*
+*Sources: [Scuba Diving - Unwind on Petit St. Vincent](https://www.scubadiving.com/unwind-petit-st-vincent-st-vincent-and-grenadines), [Mission Blue - Hope Spots](https://missionblue.org/hope-spots/), [Ocean Futures Society - Jean-Michel Cousteau Dive Center on PSV](https://www.oceanfutures.org/news/press-releases/jean-michel-cousteau-open-dive-center-petit-st-vincent-winter). Last updated 2026-07-01.*

@@ -32,4 +32,4 @@ St. Vincent's premier muck dive, Critter Corner sits in a sheltered bay near You
 The volcanic sand and eelgrass flats host an exceptional array of cryptic species including electric rays, flying gurnards, frogfish, and yellowhead jawfish — the species that define St. Vincent's "Critter Capital" reputation. Patient observers can also find rare red-banded lobsters, peacock flounders, and juvenile fish sheltering in the seagrass, making every dive a macro photographer's treasure hunt.
 
 ---
-*Sources: [padi.com - Critter Corner SVG](https://www.padi.com/), [bluewater.com - SVG Macro Diving](https://www.bluewaterdivetravel.com/), [divestvincent.com - Critter Corner](https://www.divestvincent.com/). Last updated 2026-05-24.*
+*Sources: [PADI - Critter Corner Dive Site](https://www.padi.com/dive-site/saint-vincent-the-grenadines/critter-corner/), [Bucket Tripper - Critter Diving in St. Vincent](https://www.buckettripper.com/critter-diving-in-st-vincent/), [Dive St. Vincent - Critters](https://www.divestvincent.com/Critters.html). Last updated 2026-07-01.*

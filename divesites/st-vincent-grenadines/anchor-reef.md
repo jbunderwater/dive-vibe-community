@@ -17,7 +17,7 @@ Anchor Reef is a wall dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Named for an 18th-century anchor buried in its coral, Anchor Reef is consistently voted one of the top 100 dive sites in the world and one of St. Vincent's standout experiences. The reef starts at around 9 meters and drops into a 35-meter wall festooned with gorgonians and black corals, riddled with swim-throughs and crevices where frogfish, longsnout seahorses, and moray eels take up residence.
+Named for an 18th-century anchor embedded in its coral, Anchor Reef starts at around 9 meters (30ft) and drops into a wall that Dive St. Vincent and Diveessi both report reaching 36 meters (120ft), riddled with swim-throughs and crevices. One other dive database lists a shallower 30m max/18m average for the same site — the discrepancy is noted below rather than picked arbitrarily.
 
 ## Site Information
 
@@ -29,7 +29,9 @@ Named for an 18th-century anchor buried in its coral, Anchor Reef is consistentl
 
 ## Marine Life
 
-The wall's crevices and overhangs are home to resident longsnout seahorses, frogfish, and moray eels, with black coral trees and gorgonian fans providing shelter throughout the drop-off. Hawksbill turtles are regular visitors in the shallower reef sections, while eagle rays and barracuda patrol the open blue beyond the wall edge.
+The wall's crevices and overhangs are home to resident longsnout seahorses, multiple species of frogfish, and ghost pipefish, with black coral trees and gorgonian fans providing shelter throughout the drop-off.
+
+*Depth note: Dive St. Vincent and Diveessi (2 independent sources) both describe the wall running from 9m to 36m (30ft-120ft), which this listing follows. theDiveGlobe lists a shallower 30m max/18m average for the same site — this may reflect a different reference point along the wall rather than a single correct figure.*
 
 ---
-*Sources: [divestvincent.com - Anchor Reef](https://www.divestvincent.com/), [tripadvisor.com - Dive St Vincent Reviews](https://www.tripadvisor.com/), [divessi.com - St Vincent Dive Sites](https://www.divessi.com/). Last updated 2026-05-24.*
+*Sources: [Dive St. Vincent - Dive Sites](https://www.divestvincent.com/DiveSites2.html), [Diveessi - Anchor Reef](https://www.divessi.com/en/mydiveguide/divesite/142532), [theDiveGlobe - Anchor Reef](https://www.thediveglobe.com/app/nl/dive/anchor-reef-st-vincent). Last updated 2026-07-01.*

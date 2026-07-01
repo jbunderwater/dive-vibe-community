@@ -17,7 +17,7 @@ Tobago Cays is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five uninhabited cays, where green and hawksbill turtles graze openly on the seagrass beds inside the lagoon — sightings are nearly guaranteed. The reef also draws southern stingrays, eagle rays, and nurse sharks, while the outer wall offers drift dives past gorgonians and hard corals in exceptional open-water visibility.
+Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five uninhabited cays. The sheltered inner lagoon at Baradal is a dedicated turtle sanctuary where green sea turtles graze on seagrass beds and sightings are close to guaranteed, while the outer wall and nearby World's End Reef offer deeper, more exposed diving with strong open-water visibility. All diving in the park requires accompaniment by a registered local operator.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five 
 
 ## Marine Life
 
-Green and hawksbill turtles are virtually guaranteed here, grazing openly on the seagrass beds inside the Horseshoe Reef lagoon in numbers that are rare elsewhere in the Caribbean. Southern stingrays glide across the sandy patches, nurse sharks rest beneath coral heads, and the outer reef wall draws eagle rays and Caribbean reef fish including parrotfish, angelfish, and blue tangs in large numbers.
+Green sea turtles are the headline sighting at the Baradal sanctuary within the lagoon, grazing openly on seagrass in numbers that are notable even by Caribbean standards. Along the outer wall and at nearby World's End Reef, nurse sharks and eagle rays are regularly reported resting on the sand or gliding past, alongside grouper, angelfish, and southern stingrays. Hawksbill turtles are present in the wider marine park but are less consistently documented than the green turtles of the Baradal sanctuary specifically.
 
 ---
-*Sources: [zentacle.com - Tobago Cays Horseshoe Reef](https://zentacle.com/), [thediveglobe.com - Tobago Cays](https://www.thediveglobe.com/), [tobagocaysmarine.com - Marine Park](https://tobagocaysmarine.com/). Last updated 2026-05-24.*
+*Sources: [The Tobago Cays - Snorkeling & Diving Guide](https://thetobagocays.com/tobago-cays-snorkeling-diving-reef/), [Tobago Cays Marine Park - Notable Attractions](https://tobagocaysmarinepark.com/notable-attractions/), [Dream Yacht Worldwide - Tobago Cays Guide](https://www.dreamyachtcharter.com/blog/the-ultimate-guide-to-visiting-the-tobago-cays/), [Kayifi - Tobago Cays](https://kayifi.com/en/blog-details/the-tobago-cays-a-snapshot-of-paradise). Last updated 2026-07-01.*
