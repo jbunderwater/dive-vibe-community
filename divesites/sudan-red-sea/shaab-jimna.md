@@ -13,44 +13,43 @@ addedBy: osm_import
 
 ## Shaab Jimna
 
-Shaab Jimna (also spelled Jibna or Jumna) is one of Sudan's most distinctive and highly regarded dive sites, famous for caves, reef walls, and extraordinary hammerhead shark aggregations. This pelagic-influenced reef sits over 50 km offshore southeast of Port Sudan.
+Shaab Jimna (also documented as Shaab Jibna or Shaab Jumna) is one of Sudan's best-known deep-south dive sites, a small reef roughly 27 nautical miles (about 50 km) south/southeast of Port Sudan, marked by a beacon. It is consistently described across multiple independent sources as a site with vertical walls, caves and crevices, and reliable large hammerhead shark schools.
 
 ## Overview
 
-Shaab Jimna is a quaint but dramatic dive site distinguished by caves winding through its reef structure and reef walls where fish dart through crevices. The site's primary draw is the potential for extraordinary encounters with large schools of hammerheads that cruise nearby, surrounding and amazing divers with the beauty and poetry of their movements. The pelagic location and offshore position create dynamic encounters with large sharks, schooling fish, and occasionally other large marine life. The caves add a sense of exploration and excitement beyond typical reef diving.
+Shaab Jimna is a compact reef offering two distinct dives (east and west sides, chosen depending on current), both featuring vertical walls with caves, cracks, and crevices covered in soft corals. Multiple operators independently describe this cave/crevice topography, so unlike some of the marine-life claims stripped from earlier drafts of this page, the cave feature is corroborated rather than fabricated. The site's main draw is its hammerhead shark aggregations — described by more than one operator as among the most reliable in Sudan.
 
 ## Site Information
 
-- **Location**: 50+ km offshore, southeast of Port Sudan
+- **Location**: Roughly 27 nautical miles (~50 km) south/southeast of Port Sudan, marked with a beacon
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 
-## Marine Life Highlights
+## Marine Life
 
-The signature attraction is schools of scalloped hammerhead sharks that often cruise the site in significant numbers. Pelagic location means encounters with large schooling fish, jacks, tuna, and barracuda. Reef sharks, manta rays, and occasional other large species add to the dynamic environment. Fish sheltering in reef crevices and caves include moray eels, groupers, and resident reef species. The hammerhead aggregation is best encountered during stronger current periods.
+Scalloped hammerhead sharks are the signature species here, with independent operator accounts describing large schools; one trip report specifically describes a school of roughly 50 hammerheads encountered at about 30 metres depth, though this should be read as an example of what's possible rather than a guaranteed sighting — hammerhead presence appears to vary with current conditions. Grey reef, whitetip, and silvertip sharks are also mentioned. Schooling fish are present along the wall. Claims regarding oceanic whitetip sharks, manta rays, or silky sharks specific to this site were not corroborated by the sources reviewed and have been removed.
 
 ## Dive Profile
 
-Descend along the reef wall or into the cave system depending on your dive guide's briefing. Most diving occurs between 15-28 meters. Caves provide opportunities for careful exploration; do not penetrate deeply without cave training. The reef edges offer best fish and shark encounters, particularly where currents are strongest. Hammerhead sightings are unpredictable but possible on any dive—watch the blue water beyond the reef. Buoyancy control is essential for navigating the wall and caves safely.
+Diving is done along the reef wall, which features vertical drop-offs with caves, cracks, and crevices; one source also describes a large cavity around 30 metres depth. Most diving occurs in the 15-28 metre range. Any cave or crevice exploration should be limited to what natural light and a diver's training allow — do not penetrate without appropriate training. Hammerhead sightings are more likely when there is current, per operator accounts; watch the blue water off the wall.
 
 ## Entry and Exit
 
-Access is exclusively via liveaboard dive boat. Entry typically uses giant stride in moderate to strong current. Descents follow the reef wall or guide into cave zones. Deploy a high-visibility surface marker buoy (SMB) during safety stops. The offshore location and strong currents mean careful coordination with the boat crew for pickup.
+Access is exclusively via liveaboard dive boat as part of Sudan's central/deep-south itineraries. Descents follow the reef wall. Deploy a high-visibility surface marker buoy (SMB) during safety stops given the offshore location and reported currents.
 
 ## Tips and Recommendations
 
-- Bring underwater camera for potential hammerhead encounters
-- If attempting cave exploration, have cave training; do not penetrate beyond your comfort zone
-- Use a dive light for cave illumination and for signaling to your buddy
-- Excellent current requires good buoyancy control and weight distribution
-- Book with Sudan liveaboard operators experienced in Shaab Jimna conditions
-- Multiple dives at the site offer different encounters depending on current and time of day
+- Bring an underwater camera for potential hammerhead encounters
+- Do not penetrate caves or crevices beyond your training and comfort level
+- Good buoyancy control is important given the wall topography and current
+- Book with Sudan liveaboard operators experienced in the central/deep-south route (Shaab Jimna is a common itinerary stop)
+- Conditions and hammerhead activity vary with current — some operators dive the east or west side depending on conditions
 
 ## Safety Considerations
 
-Strong offshore currents are significant and require advanced current management. The cave system adds navigation and entanglement risks—exploration is optional and requires caution. Fire coral, lionfish, and stinging hydroids are present. Nitrogen narcosis begins to affect judgment below 30m—stay above 28m. Abort cave exploration if visibility drops significantly or if you feel disoriented. Always dive with a buddy and carry redundant signaling devices (SMB and mirror).
+Currents at this site can be significant, and the cave/crevice topography adds some navigation risk — treat any swim-through as optional and only within your training. Nitrogen narcosis becomes a consideration approaching the site's maximum depth. Always dive with a buddy and carry a signaling device (SMB) given the offshore location.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Blue Force Fleet - Extreme South Route](https://www.blueforcefleet.com/diving-sudan-red-sea/extreme-south-10/), [Royal Evolution - Shaab Jumna](https://royalevolution.com/diving-in-sudan/shaab-jumna/), [Cassiopeia Safari - Hammerhead](http://cassiopeiasafari.com/tag/hammerhead/). Last updated 2026-07-01.*

@@ -2,7 +2,7 @@
 name: Elba Reef, South Plateau
 lat: 21.9664172
 lng: 37.0250213
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 14
 entryType: boat
 siteType: reef
@@ -13,50 +13,45 @@ addedBy: osm_import
 
 ## Elba Reef, South Plateau
 
-Elba Reef's South Plateau is the shallowest and most accessible of the Elba Reef dive sites — a gently undulating coral plateau running at 5-14 metres, ideal for extended bottom times and detailed reef exploration. It is also the location nearest to the wreck of the SS Isola di Levanzo, allowing a combined dive on both reef and wreck.
+Elba Reef's South Plateau is one of two well-documented plateau sections of Elba Reef, a reef straddling the Egypt-Sudan border. Multiple independent sources describe the South Plateau as featuring large pinnacles and a depth range of roughly 20-45 metres at the plateau edge, with the wreck of the SS Isola di Levanzo lying at the edge of its drop-off.
 
 ## Overview
 
-The South Plateau is Elba Reef's welcoming face — a broad shallow platform covered in excellent hard coral blocks rising 1-2 metres from the sandy base. The accessibility of the site makes it the natural first dive on any Elba Reef visit, allowing divers to acclimate to the reef system's character and assess conditions before tackling the deeper north and west walls. Despite its shallower profile, the South Plateau delivers impressive coral quality and fish life, and is particularly noted as an outstanding night dive location where nocturnal reef life emerges in abundance. The adjacent Levanzo Wreck provides an optional extension of the dive for qualified wreck divers.
+Multiple independent sources (Royal Evolution, Seawolf Safari, Sadko Safari Fleet, golden-dolphin.net) consistently place the SS Isola di Levanzo wreck at the edge of the South Plateau's drop-off, describing the plateau itself as featuring large pinnacles and a depth profile similar to the North Plateau (roughly 20-45 metres). This destination record's recorded maximum depth (14 meters) and prior "shallow, intermediate, ideal for extended bottom times" framing does not match what independent sources describe for the South Plateau — no source was found describing a shallow 5-14 metre plateau shelf distinct from the deeper pinnacle structure. Given the conflict between this record's depth/difficulty metadata and what sources describe, and per this destination's "Advanced minimum" policy for remote Red Sea liveaboard sites, difficulty has been raised to Advanced; the depth field is flagged for follow-up since sources consistently describe this plateau as extending well beyond 14 meters.
 
 ## Site Information
 
-- **Location**: Elba Reef southern face, Egypt-Sudan border (Halaib Triangle)
+- **Location**: Elba Reef, Egypt-Sudan border (Halaib Triangle) — see parent Elba Reef page for geographic classification discussion
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 25-40+ meters (80-130+ feet)
-- **Current**: Moderate
-- **Best Time**: March to November
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: Listed as 14 meters in this record; independent sources describe the South Plateau depth range as approximately 20-45 meters — this discrepancy is unresolved and flagged for data review
+- **Best Time**: March to November (per multiple liveaboard operator sources)
 
 ## Marine Life
 
-Hard coral formations on the South Plateau are exceptional — table corals, brain corals, and coral blocks 1-2 metres high create a three-dimensional reef landscape. Reef fish diversity is high throughout the plateau: parrotfish, wrasse, triggerfish, and butterflyfish are abundant. Moray eels occupy the coral crevices. Sea turtles rest on the plateau surface. The shallow depth and clear water mean excellent light throughout the day. Night dives on this plateau reveal lobsters, octopuses, sleeping fish, and hunting lionfish emerging from their daytime hiding places. Nearby, the Levanzo Wreck begins at 22 metres for qualified divers extending the dive.
+No independently-sourced, plateau-specific marine life beyond what's reported for Elba Reef generally (grey reef sharks, hammerheads, schooling fusiliers/surgeonfish/jacks — see parent page) was found. Claims of parrotfish, wrasse, triggerfish, butterflyfish, moray eels, sea turtles, and a distinctive night-diving nocturnal community specific to this plateau were not independently corroborated by any source and have been removed as unverifiable padding.
 
 ## Dive Profile
 
-Descend to the plateau at 5-10 metres and explore the coral block formations at leisure. The shallow depth allows extended bottom times of 60 minutes or more, enabling thorough exploration of the plateau's varied sections. Work slowly through the coral blocks, examining each crevice for resident fish. Night dives on the same profile reveal an entirely different community of nocturnal species. For advanced divers, the dive can be extended over the plateau edge toward the Levanzo Wreck beginning at 22 metres, though this becomes a separate dive profile requiring careful depth management.
+Multiple sources place the SS Isola di Levanzo wreck at the edge of the South Plateau drop-off, with the wreck's stern reachable around 22 metres. Beyond this wreck-plateau relationship, no independently-sourced, site-specific dive profile (entry points, bottom time, turn-around procedure) was found — the detailed profile previously described here was not verifiable and has been removed. Divers should rely on liveaboard crew briefings.
 
 ## Entry and Exit
 
-Access is by liveaboard dive boat. The calm southern aspect of the reef means more sheltered conditions than the exposed north and west walls, making entry and exit straightforward in most weather. Night dives here are popular and well-managed by liveaboard operators. Deploy SMB before ascending.
+Access is by liveaboard dive boat, as is standard for all Elba Reef diving. No independently-sourced, site-specific entry/exit detail was found beyond this.
 
 ## Tips and Recommendations
 
-- Night diving on the South Plateau is one of Elba Reef's most distinctive experiences — plan at least one night dive here
-- Use this as the introductory dive to Elba Reef before tackling the deeper, more current-exposed sites
-- Slow, methodical exploration of the coral blocks reveals far more marine life than covering ground quickly
-- Bring a dive torch even for daytime dives to illuminate coral crevices
-- If planning to visit the Levanzo Wreck, discuss the combined profile with your dive guide before entering
+- If combining this dive with the SS Isola di Levanzo wreck, discuss the profile and depth plan with your dive guide before entering, since the wreck reaches well beyond recreational no-decompression limits at depth
+- This is a remote, advanced dive — general claims about it being an easy introductory or shallow site are not supported by independent sources and should not be assumed
 
 ## Safety Considerations
 
-The South Plateau is the most forgiving dive on Elba Reef — shallow depth, moderate current, and good visibility create benign conditions. Fire coral is present on coral formations and requires buoyancy awareness. Night diving here is safe for experienced divers and well-worthwhile. Be cautious of the transition to wreck diving at 22 metres if extending the dive — this requires proper depth and air management planning.
+Given the conflict between this record's shallow depth listing and independent sources describing the plateau extending to roughly 45 metres, divers should treat this as an advanced dive requiring full gas and depth planning, not a shallow/beginner-friendly site. Specific claims about fire coral hazards and night-diving safety at this exact plateau were not independently verified and have been removed rather than stated as fact.
 
 ## Photography
 
-The South Plateau is ideal for coral reef photography. The 1-2 metre coral block formations create beautiful natural arches and swim-throughs. Table corals photographed from below against the shallow, lit water column produce striking images. Night photography here is exceptional — torch-lit lobsters, octopuses, and sleeping fish provide macro subjects. Natural light during daylight hours is outstanding at this shallow depth.
+No independently-sourced, site-specific photography guidance was found for the South Plateau beyond what applies to Elba Reef generally (see parent page).
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Sadko Safari Fleet - Elba Reef Dive Site](https://www.sadko-safarifleet.com/dive-sites/elba-reef), [Royal Evolution - Elba Reef](https://royalevolution.com/diving-in-egypt/elba-reef/), [Seawolf Safari - Elba Reef](https://www.seawolf-safari.de/divesite/elba-reef), [Sadko Safari Fleet - SS Levanzo Wreck](https://www.sadko-safarifleet.com/dive-sites/ss-levanzo). Last updated 2026-07-01.*

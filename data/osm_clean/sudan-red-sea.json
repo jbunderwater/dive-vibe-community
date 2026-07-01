@@ -14,9 +14,10 @@
       "name": "Blue Belt",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Toyota wreck, sank 1977, now 21-90m depth, unstable structure, very deep diving"
+      "validated": "false",
+      "validation_source": "adrex.com,cassiopeiasafari.com",
+      "last_qa_date": "2026-07-01",
+      "note": "Toyota wreck (103m, 2399 GRT, built 1950 Howaldtswerke Hamburg), struck Shaab Suedi reef 2 Dec 1977. Depth reported inconsistently 15-85m to 21-90m across sources; cassiopeiasafari.com reports wreck may no longer be open for diving and has continued sliding deeper - confirm access with operator. Only 2 independent domains verified; needs 3rd source before marking fully validated."
     }
   },
   {
@@ -28,13 +29,15 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Gota Mesharifa",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": "false",
+      "validation_source": "dive-the-world.com,thediveglobe.com,divescover.com",
+      "last_qa_date": "2026-07-01",
+      "note": "UNRESOLVED naming/feature conflict: sources describe a 'Mesharifa' sand-island/lagoon manta ray cleaning station (Aug-Nov per dive-the-world.com, Oct-Jun per theDiveGlobe - season windows themselves conflict), but this record is a submerged pinnacle/wall per OSM tagging. No source confirms these are the same location. Manta and coral/shark claims from earlier draft removed as unverifiable for this specific GPS point. Difficulty floored to Advanced per destination policy."
     }
   },
   {
@@ -81,7 +84,7 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Experimantal unterwater station Precontinent II run by Jacques-Yves Cousteau in 1963",
       "historic:civilization": "modern",
@@ -91,7 +94,9 @@
       "wikidata": "Q3408831",
       "wikipedia": "en:Continental Shelf Station Two",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive-the-world.com,bluewaterdivetravel.com,scubaboard.com",
+      "last_qa_date": "2026-07-01",
+      "note": "Conshelf II (1963): ScubaBoard diver thread confirms the main 'Starfish House' living quarters were salvaged/removed after the experiment - only the submarine hangar, tool shed, and shark/fish cages remain on the seabed, heavily encrusted. Depth of remains ~9-20m for hangar/cages, ~27-30m for Deep Cabin site (sources vary on exact figure). Distance from Port Sudan reported inconsistently 30-48km across sources. Grey reef, silky, and silvertip sharks confirmed at Sha'ab Rumi generally by 2 sources; hammerheads Nov-Apr. No site-specific marine life confirmed for the habitat structures themselves. Difficulty floored to Advanced per destination policy (general dive literature would rate the lagoon Intermediate)."
     }
   },
   {
@@ -340,7 +345,7 @@
     "depth": 38,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "SS Umbria, Wreck",
       "scuba_diving:type": "wreck",
@@ -348,8 +353,9 @@
       "wikipedia": "en:SS Umbria",
       "wreck:date_sunk": "9 June 1940",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Italian cargo ship, sank 1940, depth 5-38m, safe accessible wreck, excellent penetration"
+      "validation_source": "en.wikipedia.org,padi.com,cassiopeiasafari.com",
+      "last_qa_date": "2026-07-01",
+      "note": "Ex-Bahia Blanca (built Hamburg, launched 30 Dec 1911), renamed Umbria 1935, scuttled by own crew at Wingate Reef 9-10 June 1940 to deny cargo to British. Length/tonnage reported as 154.9m/10,076 GRT (Wikipedia) vs ~150m (PADI, no tonnage given). Depth reported inconsistently: 38m max (Wikipedia, cassiopeiasafari) vs 5-35m (PADI). Difficulty raised from Intermediate to Advanced per destination minimum policy for remote Sudan liveaboard sites."
     }
   },
   {
@@ -383,9 +389,10 @@
     "tags": {
       "name": "Levanzo Wreck",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Italian cargo ship, sank 1923, depth 22-65m, large wreck with broken sections"
+      "validated": "false",
+      "validation_source": "sadko-safarifleet.com,royalevolution.com",
+      "last_qa_date": "2026-07-01",
+      "note": "Ex-Isola di Levanzo, built 1901 by Fratelli Orlando (Livorno), renamed Levanzo 1902; grounded on Elba Reef 14 Mar 1923, sank during failed salvage 28 Mar 1923. Length corrected: previous 113m figure unconfirmed, sources give 339.6ft (~103.5m)/3713 GRT. Depth reported inconsistently: stern 20-22m consistent, but deeper sections reported 40-45m by some sources vs 65-75m by others - unresolved conflict. Only 2 independent domains directly verified; needs 3rd source before marking fully validated."
     }
   },
   {

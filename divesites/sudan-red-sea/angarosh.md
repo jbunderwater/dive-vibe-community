@@ -2,7 +2,7 @@
 name: Angarosh
 lat: 20.8632051
 lng: 37.4380164
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: wall
@@ -13,51 +13,50 @@ addedBy: osm_import
 
 ## Angarosh
 
-Angarosh is one of Sudan's premier shark aggregation sites, a remote seamount and atoll rising from deep water roughly 70 km north of Port Sudan. The site is celebrated throughout the liveaboard community for its exceptional concentrations of scalloped hammerhead sharks, which school here in numbers rarely seen elsewhere in the Red Sea.
+Angarosh — Arabic for "Mother of Sharks" — is one of Sudan's most celebrated shark-diving sites, a remote reef roughly 12 km east of Mukawwar Island (and about 5 km southwest of Abington Reef) in the far north of Sudan's Red Sea. It is a fixture on northern liveaboard itineraries and is consistently rated one of the top shark encounters in the Red Sea.
 
 ## Overview
 
-Angarosh — meaning "mother of sharks" in Arabic — lives up to its name. The atoll's walls plunge from the surface into the deep blue, funnelling nutrient-rich currents upward and attracting an extraordinary food chain. Scalloped hammerheads aggregate here in schools ranging from dozens to over a hundred individuals, circling the outer walls in the early morning hours. Grey reef sharks, silvertip sharks, and oceanic whitetip sharks are regular companions. The site's remoteness keeps diving pressure low, preserving marine behaviour that has largely disappeared from more accessible Red Sea reefs. Liveaboards typically schedule early-morning dives to maximise hammerhead sightings before conditions warm and the sharks move to deeper, cooler water.
+Angarosh's topography consists of deep plateaus and fissured walls rising to around 10 meters at the shallowest point, giving the site a deep-dive profile: divers typically descend deep first and work gradually shallower along the wall. Visibility is normally excellent, commonly upwards of 25 meters. The site is best known for hammerhead sharks, which can gather in schools reported at more than 50 individuals, along with grey reef, silvertip, and whitetip reef sharks. Tiger sharks are also reported here by multiple dive-travel sources, though sightings are less predictable than hammerheads. Barracuda schools and manta rays are additional highlights, with mantas most likely August to October and hammerheads most reliable January to April.
 
 ## Site Information
 
-- **Location**: Offshore northern Sudan Red Sea, ~70 km north of Port Sudan
+- **Location**: Northern Sudan Red Sea, ~12 km east of Mukawwar Island, ~5 km southwest of Abington Reef
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Difficulty Level**: Advanced (destination-wide minimum for this remote liveaboard-only region; the wall itself has a moderate profile with deep-water shark encounters)
+- **Maximum Depth**: 20 meters (recorded); wall and plateau structure extends well beyond recreational limits
+- **Typical Visibility**: 25+ meters average, reported by multiple sources
 - **Current**: Moderate to strong
-- **Best Time**: September to May (hammerheads most reliably October to April)
+- **Best Time**: Hammerheads most reliable January-April; mantas most likely August-October
 
 ## Marine Life
 
-Scalloped hammerhead sharks are the defining encounter at Angarosh, often schooling in large numbers just beyond the outer wall. Grey reef sharks and silvertip sharks patrol the reef edge throughout the dive. Oceanic whitetip sharks occasionally cruise in the blue water off the wall. Schooling fish — bigeye trevally, surgeonfish, and fusiliers — aggregate at current-exposed points. Manta rays visit regularly in season. Reef fish species including groupers, moray eels, lionfish, and anthias cover the wall face in dense communities.
+Hammerhead sharks are the defining draw at Angarosh, with schools reported in the dozens by dive-travel operators. Grey reef sharks, silvertip sharks, and whitetip reef sharks are reported as regular sightings by two independent sources (dive-the-world.com and bluewaterdivetravel.com). Tiger sharks are also named at this site by both of those sources. Barracuda schools and bluefin/yellowfin tuna are reported passing through. Manta rays are a seasonal highlight (August-October). Soft coral cover along the wall is noted by multiple sources. General Red Sea reef fish (anthias, groupers, moray eels) are typical of this habitat, though no source itemizes site-specific reef-fish counts.
 
 ## Dive Profile
 
-Descend quickly along the outer wall to around 18-20 meters, the depth band where hammerheads most commonly cruise. Hovering still and avoiding rapid movements near the wall edge gives the best chance of hammerhead approaches. The wall continues well below recreational limits; strict depth discipline is essential. After hammerhead observation time, explore the upper wall and reef plateau for resident species before beginning a slow ascent with a 5-minute safety stop at 5 meters.
+Descend along the wall/plateau structure, which starts around 10 meters at its shallowest and drops into deep water — dive operators describe a deep-first profile that works progressively shallower. Currents can be moderate to strong, funneling nutrients along the wall and drawing in sharks and pelagics. Maintain strict depth discipline, as the wall face offers no clear bottom reference. Plan a controlled ascent with a safety stop once clear of the current-exposed sections.
 
 ## Entry and Exit
 
-Access is exclusively by liveaboard dive boat. Descents typically follow the outer wall rapidly to maximise time in the hammerhead zone. The boat drifts along the wall and picks up divers downstream after an SMB-signalled safety stop. Coordinate ascent timing carefully with the crew, as currents can push divers away from the reef quickly.
+Access is exclusively by liveaboard dive boat. Descents typically follow the wall/plateau structure to reach the shark-viewing depth band. The boat tracks divers along the wall and picks up downstream after an SMB-signalled safety stop. Coordinate ascent timing carefully with the crew, as currents can push divers away from the reef quickly.
 
 ## Tips and Recommendations
 
-- Dive at first light for the best hammerhead aggregations — sharks disperse as water warms
-- Remain still and calm at depth; erratic movements disturb hammerhead schools
-- Blue/black wetsuits are recommended over bright colours near sensitive shark zones
+- Remain still and calm at depth; erratic movements disturb shark activity
+- Blue/black wetsuits are recommended over bright colours near shark zones
 - Use a dive computer to keep disciplined depth control on a wall with no visible bottom
-- Wide-angle camera setup is essential — hammerhead schools provide dramatic subject matter
-- Bring a high-visibility SMB; drift pickups are common in the strong current
+- Wide-angle camera setup suits the wall and pelagic subject matter
+- Bring a high-visibility SMB; drift pickups are common in strong current
 
 ## Safety Considerations
 
-Strong currents require good buoyancy control and situational awareness at all times. The wall offers no anchor point for orientation — monitor depth continuously as the blue water beyond makes spatial reference difficult. Sharks at Angarosh are wild and habituated to minimal human contact; maintain calm and respectful behaviour. Always dive with a buddy and carry signalling equipment for boat recovery.
+Strong currents require good buoyancy control and situational awareness at all times. The wall offers no fixed reference for orientation — monitor depth continuously since the open blue water beyond makes spatial reference difficult. As with any shark-diving site, maintain calm, non-provocative behavior and never attempt to touch or corner animals. Always dive with a buddy and carry signalling equipment for boat recovery. This is a remote, advanced-level, liveaboard-only site — it is not suitable for beginner or intermediate divers regardless of how calm conditions appear on a given day.
 
 ## Photography
 
-Angarosh is one of the Red Sea's iconic wide-angle photography locations. Hammerhead schools at the wall edge create opportunities for silhouette and school shots using natural backlighting from above. For close-up reef life, the wall face between 5-15 meters offers colourful soft corals and anthias clouds against the blue water backdrop.
+The wall and open-water setting suit wide-angle photography for shark and pelagic encounters, with natural light from above useful for silhouette shots during shark passes. No site-specific close-up/macro subjects are documented in available sources.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [ScubaBoard - Best Spots at Red Sea](https://scubaboard.com/community/threads/best-spots-at-red-sea.131395/page-2). Last updated 2026-07-01.*

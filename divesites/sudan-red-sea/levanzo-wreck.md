@@ -13,11 +13,17 @@ addedBy: osm_import
 
 ## Levanzo Wreck
 
-Levanzo Wreck (SS Isola di Levanzo) is an advanced-level wreck dive at Elba Reef near the Egypt-Sudan border. This large Italian cargo ship sank in 1923 and now rests as an artificial reef at significant depth, requiring advanced wreck diving training and experience.
+Levanzo Wreck (originally launched as SS Isola di Levanzo, later renamed Levanzo) is an advanced-level wreck dive at Elba Reef near the Egypt-Sudan border, in the remote Halaib Triangle region.
 
 ## Overview
 
-The SS Isola di Levanzo is an Italian cargo vessel (113 meters long, 3,713 tons, built 1901) that sank on March 14, 1923, after going ashore on Elba Reef. While under salvage on March 28, 1923, the ship broke its towing hawser, drifted onto rocks, and sank. Now resting at the edge of Elba Reef's South Plateau, the wreck has become a thriving artificial reef with abundant marine life. The wreck begins at 22 meters with broken sections at 40 meters and reaches a maximum depth of 65 meters, demanding Advanced Open Water certification or equivalent and significant wreck diving experience.
+The ship was built in 1901 by Fratelli Orlando in Livorno (Leghorn), Italy, launched for Società Meridionale di Trasporti Marittimi as "Isola di Levanzo," and departed on her maiden voyage from Messina in May 1901. In 1902 she was sold to Navigazione Generale Italiana and renamed simply "Levanzo." In 1910 she was transferred to Società Nazionale di Servizi Marittimi and used on Black Sea and Alexandria routes. Independent sources (a maritime shipping-history summary and the dive-operator site divescover.com) agree on her specifications: 3,713 gross tons, a length of 339.6 feet (approximately 103.5 meters), and a beam of 46.3 feet, with a single funnel, two masts, and a top speed of 11 knots.
+
+**This corrects a figure previously published on this page.** Earlier text on this listing stated a length of 113 meters; the sources found during this research consistently report 339.6 feet (~103.5 meters), not 113 meters. The 113 m figure could not be corroborated and has been removed.
+
+On 14 March 1923, while sailing from Genoa to Durban with a cargo of salt and general goods, she ran aground on Elba Reef in the Red Sea. During a salvage attempt on 28 March 1923, the towing hawser snapped, and the ship drifted onto the rocks and sank. This account of the grounding and failed salvage is consistent across the sources found (a maritime-history aggregator and multiple dive-operator descriptions).
+
+Depth reports vary by source: the shallowest part of the wreck (stern/propeller area) is consistently reported around 20–22 meters, but the deepest extent is reported inconsistently — some sources cite a maximum around 40–45 meters, while others cite depths as great as 65–75 meters for the broken/scattered sections. This range is presented here rather than resolved to one number.
 
 ## Site Information
 
@@ -25,35 +31,34 @@ The SS Isola di Levanzo is an Italian cargo vessel (113 meters long, 3,713 tons,
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 65 meters
-- **Wreck Top**: 22 meters
-- **Broken Sections**: 40 meters
+- **Depth Range**: Stern/top of wreck around 20–22 meters; broken sections reported between 40–45 meters by some sources and up to 65–75 meters by others (unresolved conflict — plan conservatively and confirm with your dive guide)
 
-## Wreck Structure & Marine Life
+## Wreck History
 
-The SS Isola di Levanzo is a 113-meter vessel with distinct diving zones. The top sections at 22 meters feature large openings and natural light. Broken sections at 40 meters are more challenging and require conservative depth planning. Schools of jackfish and barracuda patrol the wreck structure. Colorful corals and sponges encrust the surfaces, demonstrating decades of artificial reef colonization. The wreck provides excellent habitat for groupers, snappers, morays, and countless smaller reef fish species.
+The vessel's grounding on Elba Reef and the failed salvage attempt two weeks later are corroborated by more than one independent source. Beyond the grounding and salvage-line failure, no additional detail on the exact cause of the initial grounding (weather, navigational error, etc.) was found in the sources reviewed — this is not stated here since it cannot be confirmed.
+
+## Marine Life
+
+Marine life reports specific to this wreck, corroborated across more than one source: schools of jackfish/trevally and barracuda are repeatedly cited around the structure, along with coral and sponge growth on the hull. One dive-operator source additionally reports large grey reef sharks and hammerheads at the site, and another reports large groupers — these appear in only single sources each and are noted here as less-corroborated than the jackfish/trevally/barracuda sightings, but are plausible given the remote, rarely-dived nature of Elba Reef.
 
 ## Dive Profile
 
-Descend to the wreck top at 22 meters and explore the accessible exterior sections first. Divers with wreck training and deep diving experience can explore broken sections at 40 meters if properly planned. Advanced divers attempt the deeper sections (50-65m) only with significant decompression planning and backup gas. This is NOT a site for casual deep diving. Nitrogen narcosis becomes significant below 40m—monitor your judgment carefully. Plan conservative bottom times and multiple safety stops. Most recreational dives stay to the 22-40m range.
+Divers typically descend to the stern/propeller area around 20–22 meters first, where visibility and structure are best. Exploring the broken sections further down the reef slope takes divers into depths that are reported inconsistently across sources (40–45 m per some, up to 65–75 m per others) — dive plans should be built conservatively and confirmed with the liveaboard dive guide on site rather than relying on any single published depth figure. This is a remote, rarely-dived site, so guide-led diving is strongly advised.
 
 ## Entry and Exit
 
-Access is by liveaboard dive boat from Elba Reef operators. Entry via giant stride or back roll in moderate sea state. Descents follow the wreck structure with guidance from the dive guide. Multiple safety stops are mandatory due to depth; ascend through the water column and maintain staged decompression. Deploy high-visibility surface marker buoy (SMB) for safety stop signaling.
+Access is exclusively via liveaboard dive boat, as Elba Reef sits in one of the most remote parts of the Egypt/Sudan border region with no shore access. Entry is typically a giant stride or back roll from the tender. Descents follow the reef structure down toward the wreck, guided by the dive leader given the site's remoteness and depth uncertainty.
 
-## Tips & Requirements
+## Tips and Requirements
 
-- Advanced wreck diving certification strongly recommended
-- Carry dive computer and depth gauge—two depth instruments are wise
-- Bring dive torch with backup—interior sections are dark
-- Maintain exceptional buoyancy to avoid silt disturbance
-- Do NOT attempt deep penetration (>40m) without extensive wreck experience
-- Carry redundant air supply if attempting deeper sections
-- Underwater camera captures excellent artificial reef documentation
+- Advanced open water certification and wreck-diving experience recommended given the depth range
+- Carry a dive computer; two independent depth-tracking instruments are advisable given how inconsistently maximum depth is reported for this site
+- Bring a primary and backup dive light for the broken/interior sections
+- Do not attempt to reach the deepest reported sections (60m+) without appropriate training, gas planning, and guide supervision — depth reports for this part of the wreck are unconfirmed and should be treated cautiously
 
 ## Safety Considerations
 
-Critical hazards include nitrogen narcosis below 40m, decompression sickness, entanglement risks, silt entrapment in wreck sections, and deep diving risks. The wreck is partially broken/unstable in sections—avoid uncertain structures. Only dive sections you can clearly see; turn back before visibility drops. Nitrogen narcosis impairs judgment significantly at 45-65m—abort immediately if affected. Always dive with an experienced buddy. Mandatory staged decompression on ascent. This is NOT a site for divers pushing their limits.
+Because published depth figures for this wreck conflict significantly (some sources say the deepest sections reach ~45 m, others ~65-75 m), divers should not assume a single depth profile and should get a current briefing from their liveaboard dive guide before descending. As with any wreck, entering enclosed or broken sections carries entanglement and silt-out risk and should only be attempted by divers with appropriate wreck training and equipment — no penetration of a wreck of this age should be considered "safe," only manageable with proper preparation. This is a remote site far from any recompression facility, so conservative, well-planned dives are essential.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [SS Levanzo Wreck Dive Site Elba Reef (Sadko Safari Fleet)](https://www.sadko-safarifleet.com/dive-sites/ss-levanzo), [Levanzo Wreck (Royal Evolution)](https://royalevolution.com/diving-in-egypt/levanzo-wreck/). Historical ship-registry specifications (1901 build by Fratelli Orlando in Livorno, 3,713 gross tons, 339.6 ft length, 1902 renaming to "Levanzo") were found via search aggregation of maritime shipping-history records, but the source page could not be directly fetched/verified to confirm live content — treat these historical figures as probable but not fully independently re-confirmed. Only two directly-verified, site-specific diving sources were found for this wreck; broader corroboration is still needed. Last updated 2026-07-01.*

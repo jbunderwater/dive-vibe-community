@@ -2,7 +2,7 @@
 name: Gota Mesharifa
 lat: 20.8608834
 lng: 37.3190921
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: wall
@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Gota Mesharifa
 
-Gota Mesharifa is a submerged pinnacle and wall dive in the Angarosh cluster of northern Sudan, located in the same offshore reef chain as Angarosh atoll. The site is known for its pristine coral coverage, clear open-ocean water, and the shark and pelagic life that concentrate around isolated offshore structures far from the coast.
+Gota Mesharifa lies in the northern Sudan Red Sea, in the same general offshore reef corridor as Angarosh. This dataset floors difficulty at Advanced for all Sudan Red Sea sites as a destination-wide policy for this remote liveaboard region.
 
 ## Overview
 
-"Gota" is the Arabic term for a submerged reef or pinnacle that rises toward the surface without breaking it — one of Sudan's most productive diving structures. Gota Mesharifa sits in deep water in the northern Sudan Red Sea, its summit rising to within accessible diving depth while its flanks fall away steeply on all sides. This isolated position concentrates marine life: fish gather at the pinnacle for shelter and feeding, and sharks and large pelagics patrol the surrounding blue water attracted by the abundance. The site receives minimal diving attention compared to the more famous nearby reefs, which contributes to undisturbed wildlife behaviour and pristine coral in excellent condition.
+**Naming/feature-type conflict flagged**: research surfaced a site called "Mesharifa" described consistently across multiple sources (dive-the-world.com, theDiveGlobe, divescover.com) as a shallow sand island / lagoon feature known specifically as a manta ray cleaning station, visited August-November (dive-the-world) or October-June (theDiveGlobe — the season windows themselves conflict), with limited visibility due to plankton. That description — sand island in a lagoon — does not match this dataset's "Gota Mesharifa," which per the OSM record is a submerged pinnacle/wall feature ("Gota" being the Arabic term for a submerged reef/pinnacle that does not break the surface). A sand island and a submerged pinnacle are physically different feature types, and no source was found that explicitly equates "Gota Mesharifa" (this record) with the "Mesharifa" sand-island/manta site described by those three sources. It is possible these are two distinct, nearby features that share a name, or that one dataset conflated them. Given this unresolved ambiguity, manta ray claims and "sand island" descriptions have NOT been applied to this record, since we cannot confirm they belong to this specific GPS point rather than a separate nearby feature.
+
+No source specific to a submerged-pinnacle "Gota Mesharifa" (independent of the sand-island Mesharifa) was located during this research pass. This site's coral coverage, shark, and pelagic-life description in earlier drafts of this page could not be traced to any verifiable source and has been removed rather than repeated.
 
 ## Site Information
 
-- **Location**: Northern Sudan Red Sea, Angarosh reef cluster
+- **Location**: Northern Sudan Red Sea, near the Angarosh reef cluster (exact relationship to the "Mesharifa" sand island/manta site described by other sources is unresolved — see naming conflict above)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to May
+- **Site Type**: Wall dive (per existing OSM/dataset record; unverified against independent site-specific sources this pass)
+- **Difficulty Level**: Advanced (destination-wide floor)
+- **Maximum Depth**: 20 meters (per existing dataset record; not independently verified this pass)
+- **Current**: Moderate to strong (typical of Sudan's offshore reefs generally; not independently confirmed for this specific site)
+- **Best Time**: October to May (general Sudan liveaboard season; not site-specific)
 
 ## Marine Life
 
-Grey reef sharks and whitetip reef sharks are resident around the pinnacle base. Schools of jacks, fusiliers, and barracuda circle the structure in open water. Large groupers and Napoleon wrasse shelter in overhangs and crevices on the pinnacle walls. Moray eels occupy the rocky sections of the wall, and lionfish hover in shadowed recesses. The pinnacle top and upper walls are covered with healthy hard corals and the vivid anthias clouds typical of well-currented Sudan reef crests. Hammerheads appear in season, especially during early morning dives.
+No source-confirmed, site-specific marine life claims could be verified for this exact "Gota Mesharifa" pinnacle/wall record during this research pass. The nearby "Mesharifa" sand island/lagoon feature described by other sources is a confirmed manta ray cleaning station (August-November per dive-the-world.com, October-June per theDiveGlobe), but as noted above, it is not confirmed whether that is the same location as this record. Divers should expect general Sudan offshore reef fauna, but no species list specific to this GPS point is asserted here.
 
 ## Dive Profile
 
-Descend to the pinnacle top at around 10 metres and circle the structure before dropping to the wall sections at 15-20 metres. Explore the pinnacle's different faces to find current-sheltered overhangs and exposed corners where fish and sharks concentrate differently. Avoid following the wall below 20 metres — the pinnacle drops steeply and the temptation to follow sharks deeper is strong. Finish the dive by ascending back to the pinnacle top and conducting a safety stop in open water before signalling the boat.
+Detailed dive-profile information specific to this site could not be independently verified this pass. General guidance for offshore Sudan wall/pinnacle sites applies: descend using the structure as a reference point, manage depth carefully given steep drop-offs typical of these formations, and finish with a safety stop.
 
 ## Entry and Exit
 
-Access is by liveaboard dive boat. Descend on the pinnacle structure using it as a reference point throughout the dive. The boat monitors the group from the surface and picks up divers following an SMB safety stop. In stronger currents, entry and exit logistics are briefed by the dive guide based on conditions.
+Access is by liveaboard dive boat, as with all sites in this remote Sudan Red Sea itinerary.
 
 ## Tips and Recommendations
 
-- Circle the pinnacle completely — different faces have different coral characters and fish communities
-- Early morning is best for shark encounters near the pinnacle base
-- Maintain buoyancy carefully on the pinnacle top to avoid contact with coral
-- Use the pinnacle itself as depth and position reference throughout the dive
-- Wide-angle lens recommended for pinnacle overview shots and passing pelagics
+- Confirm with your dive guide whether this site is the same "Mesharifa" known for manta rays, or a distinct nearby feature — sources are not conclusive
+- As with other offshore Sudan structures, expect current exposure and plan drift/pickup logistics with the crew
 
 ## Safety Considerations
 
-The isolated position in deep water means currents can be strong and directional — assess current before descending and plan your drift direction. The steep wall beyond the pinnacle makes depth control critical; monitor continuously. Fire coral is present on exposed surfaces. Deploy a high-visibility SMB during the safety stop for reliable boat pickup in open water.
+Treat this as a potentially current-exposed offshore site pending further confirmation; monitor depth and current continuously and follow standard SMB/safety-stop procedure for liveaboard pickup.
 
 ## Photography
 
-Pinnacle dives offer distinctive photography opportunities — circling the structure with a wide-angle lens captures the scale of the formation against the blue water column. Fish schooling around the pinnacle top photograph well in natural light from above. Close-focus reef details on the coral-covered pinnacle summit reward macro setups.
+No site-specific photography guidance could be verified this pass.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Dive The World - Diving in Sudan: The Red Sea](https://www.dive-the-world.com/diving-sites-sudan.php), [theDiveGlobe - Mesharifa Dive Site Guide](https://www.thediveglobe.com/app/ar/dive/mesharifa-sudan), [DiveScover - Sudan Dive Sites](https://divescover.com/dive-sites/sudan). Note: these three sources describe a "Mesharifa" sand-island/manta site whose identity relative to this "Gota Mesharifa" pinnacle record is unconfirmed — see naming conflict noted above. Last updated 2026-07-01.*

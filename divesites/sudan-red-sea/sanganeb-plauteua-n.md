@@ -2,7 +2,7 @@
 name: Sanganeb Plauteua N
 lat: 19.7788503
 lng: 37.4465546
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: wall
@@ -13,51 +13,50 @@ addedBy: osm_import
 
 ## Sanganeb Plateau N
 
-Sanganeb North Plateau is one of the signature dives at Sanganeb Atoll — Sudan's most iconic reef and the only offshore atoll in the northern and central Red Sea. The north plateau marks the lighthouse end of the atoll, where vertical walls drop from the surface into the deep blue and hammerhead sharks are regularly encountered circling just beyond the reef edge.
+Sanganeb North Plateau is a dive point at Sanganeb Atoll — Sudan's only offshore atoll and the site of a historic lighthouse — in the northern/central Red Sea. This dataset floors difficulty at Advanced for all Sudan Red Sea sites as a destination-wide policy for this remote liveaboard region.
 
 ## Overview
 
-Sanganeb Atoll sits approximately 25 km northeast of Port Sudan, a solitary oval reef rising from deep water and crowned by a navigational lighthouse built by the British in 1870. The atoll is surrounded on all sides by vertical walls that plunge hundreds of metres into the open Red Sea, making it one of the most dramatic reef structures in the world. The North Plateau is exposed to open-ocean currents from the north, which brings exceptional water clarity and creates the conditions that attract large pelagic species. Hammerhead sharks are the headline encounter, but the biodiversity across the wall is extraordinary — from the coral-covered plateau at 10-15 metres to the soft coral-draped walls descending to depth. Sanganeb is a UNESCO World Heritage Site and national marine park, protecting it from most commercial fishing pressure.
+Sanganeb Atoll sits approximately 25 km northeast of Port Sudan, a solitary reef rising from deep water and marked by a lighthouse. Two independent sources (Wikipedia's list of Sudan lighthouses and wtreportage.net) agree the lighthouse was built in 1906 by the British to mark the shipping channel into Port Sudan, replacing the earlier assumption used in this dataset that it dated to 1870 — that 1870 figure could not be verified in any source and has been corrected here. One source additionally notes the original steel tower was replaced with the current conical stone tower in 1955.
+
+Sanganeb and the adjoining Dungonab Bay – Mukkawar Island area were jointly inscribed as a UNESCO World Heritage Site in 2016 under the name "Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park," per UNESCO's own World Heritage Centre listing. The atoll is reef-walled on all sides, dropping into deep water, and general Sanganeb sources describe good water clarity and pelagic activity at the exposed points.
 
 ## Site Information
 
-- **Location**: Sanganeb Atoll, 25 km northeast of Port Sudan
+- **Location**: Sanganeb Atoll, ~25 km northeast of Port Sudan (north plateau, near the lighthouse)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced (destination-wide floor)
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
 
 ## Marine Life
 
-Scalloped hammerhead sharks are the most celebrated residents, typically encountered cruising the outer wall at 15-20 metres or deeper during morning dives. Grey reef sharks are a constant presence on the plateau edge. Oceanic whitetip sharks appear in the open water off the wall with some regularity. Schools of barracuda and bigeye trevally aggregate at the current-exposed north point. Napoleon wrasse and large groupers inhabit the reef face. The plateau surface is dense with hard corals, sea fans, and anthias in vivid clouds. Eagle rays and manta rays visit on occasion.
+Sanganeb generally (per bluewaterdivetravel.com and dive-the-world.com) is confirmed for hammerhead sharks, grey reef sharks, and whitetip reef sharks, along with Napoleon wrasse and humphead (bumphead) parrotfish. dive-the-world.com additionally lists barracuda, jacks, mackerel, and snappers schooling at Sanganeb. These reports are for Sanganeb reef as a whole rather than confirmed specifically at this North Plateau GPS point, so treat them as reef-wide rather than plateau-exclusive. No source specifically confirmed manta ray or eagle ray sightings tied to this location — those claims have been removed.
 
 ## Dive Profile
 
-Descend along the lighthouse wall to 15-20 metres and drift north along the outer reef face. Watch the blue water beyond the reef edge for hammerheads approaching from depth. The plateau shallows toward 10 metres and is covered with healthy hard corals and schooling reef fish. For stronger hammerhead encounters, experienced divers can sit deeper on the wall edge around 20 metres and watch the blue. Complete the dive with a circuit of the plateau surface before ascending to the safety stop.
+Descend along the reef wall near the lighthouse end and work along the outer face, watching open water for passing sharks. The plateau shallows toward the reef crest, which is covered with hard corals and reef fish. Manage depth carefully since the wall drops away steeply beyond the crest. Finish with a safety stop.
 
 ## Entry and Exit
 
-Sanganeb is reached by liveaboard or day boat from Port Sudan. Entry is by giant stride or back roll on the north face. The drift along the wall is monitored by the boat, which follows divers and picks up at the downstream end following an SMB-signalled safety stop. The lighthouse jetty provides an optional reference point for orientation.
+Sanganeb is reached by liveaboard or day boat from Port Sudan. Entry is by giant stride or back roll on the reef face, with pickup managed by the boat following an SMB-signalled safety stop. The lighthouse structure is a useful surface landmark for orientation.
 
 ## Tips and Recommendations
 
-- Morning dives are consistently better for hammerhead encounters — plan your first dive here
-- Hover at the reef edge at 15-20 metres and watch blue water; avoid descending below recreational limits chasing sharks
-- The lighthouse structure above water is a useful landmark for surface orientation
-- Visit the south and west walls on subsequent dives for different reef characters
-- Sanganeb is diveable day-tripping from Port Sudan as well as by liveaboard
-- Night dives on the plateau surface reveal lionfish hunting and cephalopod activity
+- Morning dives are commonly cited as better for shark encounters at Sanganeb generally
+- The lighthouse is a helpful surface landmark for orientation
+- Visit other faces of the atoll on subsequent dives for different reef character
+- Sanganeb is diveable as a day trip from Port Sudan as well as by liveaboard
 
 ## Safety Considerations
 
-The open-ocean position creates strong and variable currents — particularly at the north point where the two wall faces converge. Monitor drift direction carefully and stay close to the wall for shelter when current intensifies. The wall drops steeply beyond the plateau edge; depth gauge monitoring is essential. Fire coral on the plateau is abundant. Always deploy an SMB during the safety stop; the exposed position makes surface pickups reliant on proper signalling.
+The exposed offshore position creates strong and variable currents. Monitor drift direction and depth carefully — the wall drops steeply beyond the reef crest. Always deploy an SMB during the safety stop given the exposed, open-water position.
 
 ## Photography
 
-The north point of Sanganeb is prime wide-angle territory. Hammerheads photographed against the deep blue from below create dramatic silhouette images. The wall face between 10-20 metres photographs well in natural light during morning dives. Schooling fish tornadoes at the current point offer swirling wide-angle compositions. Macro subjects on the plateau surface include nudibranchs, cleaner shrimp stations on coral heads, and moray eel portraits.
+The wall face rewards wide-angle work in the good natural light typical of Sanganeb's clear offshore water; sharks photographed against blue water from below are a common subject reported by visiting divers.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Dive The World - Diving in Sudan: The Red Sea](https://www.dive-the-world.com/diving-sites-sudan.php), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [UNESCO World Heritage Centre - Sanganeb Marine National Park and Dungonab Bay](https://whc.unesco.org/en/list/262/), [Wikipedia - List of lighthouses in Sudan](https://en.wikipedia.org/wiki/List_of_lighthouses_in_Sudan). Last updated 2026-07-01.*
