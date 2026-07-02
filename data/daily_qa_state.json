@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "sri-lanka",
-    "st-kitts-and-nevis",
-    "st-lucia",
-    "st-vincent-grenadines",
-    "sudan",
-    "sudan-red-sea",
     "sumbawa",
     "svalbard",
     "tanzania",
@@ -174,7 +168,13 @@
     "solomon-islands",
     "south-africa",
     "south-florida",
-    "south-pacific"
+    "south-pacific",
+    "sri-lanka",
+    "st-kitts-and-nevis",
+    "st-lucia",
+    "st-vincent-grenadines",
+    "sudan",
+    "sudan-red-sea"
   ],
   "history": [
     {
@@ -1726,6 +1726,84 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/106",
+      "errors": []
+    },
+    {
+      "date": "2026-07-02",
+      "slugs": [
+        "sri-lanka",
+        "st-kitts-and-nevis",
+        "st-lucia",
+        "st-vincent-grenadines",
+        "sudan",
+        "sudan-red-sea"
+      ],
+      "summary": {
+        "sites_total": 65,
+        "sites_validated_today": 30,
+        "sites_re_audited": 65,
+        "hallucinations_removed": 30,
+        "marine_life_stripped": 23,
+        "wreck_conflicts_flagged": 5,
+        "sites_unresolved": 13,
+        "by_destination": {
+          "sri-lanka": {
+            "sites_total": 8,
+            "sites_validated_today": 4,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 3,
+            "notes": "Removed Scuba Lanka (commercial dive shop, not a site). Fabricated Carreg wreck history and Anchor Point spice-trade origin story removed. SS Conch sinking date/depth conflict documented. Gala Pita Gala reclassified reef\u2192pinnacle; Goddamahagale entry_type shore\u2192boat."
+          },
+          "st-kitts-and-nevis": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 2,
+            "notes": "Grid Iron's coral claim was actually describing Monkey Shoals in the source material \u2014 cross-site hallucination removed. Nag's Head/Monkey Shoals species lists replaced with actual Living Oceans Foundation survey data. Brassball Wreck and Coral Garden flagged as insufficiently sourced (left validated=true per prior repo precedent, noted in qa_notes)."
+          },
+          "st-lucia": {
+            "sites_total": 15,
+            "sites_validated_today": 0,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 2,
+            "notes": "Daini Koyomaru sinking/toppling conflict (air pocket during 1996 sinking vs Hurricane Lenny 1999) documented rather than guessed; location corrected west coast not north coast; single-sourced tonnage dropped. El Pirata Shipwreck and Maria Island Reef remain unvalidated (no dive-specific sources found)."
+          },
+          "st-vincent-grenadines": {
+            "sites_total": 10,
+            "sites_validated_today": 9,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "Removed fake domain citations that don't resolve (tobagocaysmarine.com, divetrainingmag.com, psvresort.com). Depth corrections at The Wall, New Guinea Reef, Bat Cave with conflicting-source ranges noted. No wreck sites in this destination."
+          },
+          "sudan": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug, no own data file; only child is sudan-red-sea (processed today)"
+          },
+          "sudan-red-sea": {
+            "sites_total": 22,
+            "sites_validated_today": 17,
+            "sites_re_audited": 22,
+            "hallucinations_removed": 11,
+            "marine_life_stripped": 8,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 5,
+            "notes": "CRITICAL: Gota Mesharifa's entire shark-pinnacle narrative was fabricated \u2014 it's actually Mesharifa, a shallow manta cleaning-station lagoon; reclassified wall\u2192reef. Merlo Reef reclassified wall\u2192pinnacle (seamount). Shaab Rumi Precontinent 2 reclassified wall\u2192wreck (Cousteau's 1963 Conshelf II habitat remains). Blue Belt depth/diveability and Levanzo Wreck length/depth/tonnage conflicts documented. All sites bumped to Advanced+ difficulty (remote liveaboard floor)."
+          }
+        }
+      },
+      "pr_url": null,
       "errors": []
     }
   ]
