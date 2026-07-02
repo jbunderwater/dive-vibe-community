@@ -17,7 +17,7 @@ The Lesleen M is one of St. Lucia's most-dived wrecks — a 165-foot (approximat
 
 ## Overview
 
-The Lesleen M was scuttled by St. Lucia's Department of Fisheries in October 1986 to serve as an artificial reef. The 165-foot freighter rests on an even keel on the sandy bottom of Anse Cochon at a maximum depth of 18 metres (60 feet), with the deck accessible at just 9 metres. The wreck's upright posture, accessible hold, and intact rudder and propeller make it one of the most beginner-friendly wreck dives in the Caribbean. The hull is colonised by deep sea fans, sponges, and hydroids, and the cargo hold can be safely explored by entry-level divers. Hawksbill turtles visit regularly, lobsters shelter in darker corners, and moray eels, spider crabs, shrimp, schools of red snapper, and schools of angelfish and barracuda have all been documented at the site.
+The Lesleen M was scuttled by St. Lucia's Department of Fisheries in October 1986 to serve as an artificial reef. The 165-foot freighter rests on an even keel on the sandy bottom of Anse Cochon, with the deck accessible at roughly 9 metres (30ft) and a maximum depth reported as either 18 metres (60ft, per islanderkeys.com/caribbean-diving.com) or around 20 metres (65ft, per scubastlucia.com) — a minor variance likely reflecting different measurement points on the hull rather than a real discrepancy. The wreck's upright posture, accessible hold, and intact rudder and propeller make it one of the most beginner-friendly wreck dives in the Caribbean, with bottom times of up to 50 minutes typical given the shallow depth (buckettripper.com). The hull is colonised by deep sea fans, sponges, and hydroids, and the cargo hold can be safely explored by entry-level divers. Hawksbill turtles visit regularly, lobsters shelter in darker corners, and moray eels, frogfish, spider crabs, shrimp, schools of red snapper, and schools of angelfish and barracuda have all been documented at the site.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ The Lesleen M was scuttled by St. Lucia's Department of Fisheries in October 198
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [islanderkeys.com - St Lucia Diving](https://www.islanderkeys.com/), [scubastlucia.com - Lesleen M](https://scubastlucia.com/diving/), [caribbean-diving.com - St Lucia Wrecks](https://www.caribbean-diving.com/), [padi.com - Lesleen M St Lucia](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [Islander Keys - Lesleen M Wreck](https://www.islanderkeys.com/lesleen-m-wreck-st-lucia/), [Scuba St. Lucia - Diving](https://scubastlucia.com/diving/), [Caribbean-Diving.com - St Lucia Wrecks](https://www.caribbean-diving.com/), [PADI - Dive Saint Lucia](https://www.padi.com/), [Bucket Tripper - Wreck Diving St. Lucia's Lesleen M](https://www.buckettripper.com/wreck-diving-st-lucias-lesleen-m/). Last updated 2026-07-02.*
