@@ -13,52 +13,41 @@ addedBy: osm_import
 
 ## Daharat Abida
 
-Daharat Abida is an expert-level diving destination at the extreme southern edge of Sudan's Red Sea, located approximately 40 nautical miles from the Eritrean border. This remote island marks the final site of the Suakin archipelago and is visited only by the most adventurous liveaboard expeditions.
+Daharat Abida (also written Dahrat Abid) is the southernmost reef in the Sudanese Red Sea, roughly 220km south of Port Sudan and about 30km from the Eritrean border.
 
 ## Overview
 
-Daharat Abid represents the pinnacle of remote Sudan diving for experienced adventurers. Located near the Eritrean border, this little-visited site is accessed only by a handful of specialized liveaboards willing to venture into Sudan's deep south. The island sits in pristine, mostly undiscovered waters where shark sightings are exceptional and marine life remains largely undisturbed by diving pressure. Walls and plateaus feature abundant, perfectly intact coral and sea fans in all colors. The extreme remoteness means reduced human impact and encounters with rare species, including silky sharks (rare in northern Sudan, abundant here) and occasional hammerheads. The site demands expert-level diving skills due to strong currents, deep diving, and logistical challenges.
+Daharat Abida is a 400-metre elongated island populated only by birds, easily recognizable by three wrecks lying on its northwest side. The site is reached by only a handful of specialized "deep south" liveaboards, such as the Red Sea RE Aggressor's route through the Suakin Islands (Masamirit, Loka, and Daharat Abida). Divers report clear blue water, dramatic drop-offs, and a small submerged plateau swept by current and covered in lush soft coral. Below about 30 metres, large black coral bushes dominate the reefscape, and gorgonian fans droop from the wall.
 
 ## Site Information
 
-- **Location**: Extreme south Suakin Archipelago, 40nm from Eritrean border
+- **Location**: Extreme south Suakin Archipelago, ~220km south of Port Sudan, ~30km from the Eritrean border
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Expert
 - **Maximum Depth**: 35 meters
 
-## Marine Life—Apex Experience
+## Marine Life
 
-Daharat Abida's remoteness creates extraordinary wildlife encounters. Silky sharks (rare in the north, very abundant here) cruise in groups, following divers throughout dives. Hammerheads, grey reef sharks, and oceanic whitetips are regularly sighted. Manta rays make solitary appearances. The walls and plateaus feature abundant, pristine coral in all types and colors, with sea fans waving in the current. Fish life is notably more abundant here than in the crowded northern sites—groupers, emperors, trevally, and snappers school the walls. Encounters with species seen nowhere else in Sudan are possible.
+Whitetip, silvertip, grey reef, and hammerhead sharks are reported along the walls and outer plateau. Schools of jacks and solitary great barracuda patrol the area. A previously listed claim of manta rays and "species found nowhere else in Sudan" could not be independently corroborated and has been removed.
 
 ## Dive Profile
 
-Dives are planned around wall and plateau exploration in very strong currents. Descend to 25-35 meters and drift along walls with the current. Current management is critical; abort if currents exceed safe limits. Most diving is between 15-35 meters. Time at depth is limited due to nitrogen narcosis and depth—typically 25-30 minute bottom time maximum. Multiple safety stops are mandatory. Experience with current diving, deep profiles, and decompression is essential.
+Dives explore the wall and the northeast plateau, which extends into deeper water where the outer wall drops off and sharks patrol. The site's remoteness and depth call for conservative bottom times and strict current management.
 
 ## Entry and Exit
 
-Access only via specialized deep south liveaboard expeditions. Very few operators run this route. Entry and exit are coordinated with the liveaboard crew and depend on sea conditions. Descents typically follow wall structures in strong current. High-visibility surface marker buoys are mandatory. The remote location means rescue is severely limited—only dive if you are confident in your conditioning and judgment.
+Access is exclusively via specialized deep-south liveaboard expeditions — only a handful of operators run this route. Entry and exit are coordinated closely with the crew given the remote location and current exposure.
 
-## Requirements & Tips
+## Tips and Recommendations
 
-- **Advanced or Expert certifications required**: Minimum Rescue Diver, strong current experience, comfortable with 25-35m depths
-- **Exposure suit**: Full 3-5mm wetsuit or lightweight drysuit (water temps 24-27°C, but current strip heat)
-- **Redundant equipment**: Two regulators, dive computer, depth gauge, backup light
-- **Physical fitness**: Excellent cardiovascular fitness required for strong currents and depth
-- **Book only with experienced operators**: Absolute Divers, Red Sea Diving Safari, or other deep-south specialists
-- **Photo opportunities exceptional** but current can challenge camera handling
+- Only accessible on dedicated deep-south itineraries — confirm operator experience with this route
+- The three wrecks on the island's northwest side are a notable secondary attraction worth a dedicated look
+- Strong current and depth call for advanced current-diving experience
 
-## Safety Considerations—Critical
+## Safety Considerations
 
-This is remote-area diving with minimal emergency support. **Do not attempt unless**:
-- You have 100+ logged dives in current
-- You are comfortable at depths below 30m
-- You have current/drift diving specialty training
-- You have decompression dive experience
-- Your physical health is excellent
-- You understand the extreme remoteness may limit rescue options
-
-Abort immediately if nitrogen narcosis, current, or any anomaly appears. Always dive with a very experienced buddy. Maintain conservative air reserves. Strong currents, deep nitrogen narcosis, and polar remoteness make this world-class diving for the truly experienced only.
+This is remote-area diving with very limited emergency support — the nearest help is hours away. Only dive here with strong current-diving experience and conservative depth/air management. Always dive with an experienced buddy and carry redundant signaling equipment.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Cassiopeia Safari](http://cassiopeiasafari.com/tag/dahrat-abid/), [Sport Diver — Red Sea's Deep South Delivers World-Class Scuba Diving off Sudan](https://www.sportdiver.com/red-seas-deep-south-delivers-world-class-scuba-diving-off-sudan), [Bluewater Dive Travel — Red Sea RE Aggressor](https://www.bluewaterdivetravel.com/liveaboard/red-sea-re-aggressor). Last updated 2026-07-02.*

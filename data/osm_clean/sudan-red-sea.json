@@ -5,7 +5,7 @@
     "lon": 37.3152166,
     "osm_id": 663869680,
     "osm_type": "node",
-    "depth": 45,
+    "depth": 90,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Expert",
@@ -15,8 +15,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Toyota wreck, sank 1977, now 21-90m depth, unstable structure, very deep diving"
+      "validation_source": "adrex.com,cassiopeiasafari.com,japanesenostalgiccar.com",
+      "note": "Saudi cargo ship (~103m, 2,399 GRT) carrying 190 Toyota vehicles, struck Sha'ab Suedi reef 2 Dec 1977 ~75km N of Port Sudan after a navigation error in poor weather. Sources report the wreck spanning roughly 15-90m and disagree on current accessibility: adrex.com and cassiopeiasafari.com report it slid past 60m and is no longer permitted to be dived due to instability, while some dive-booking listings still advertise it as an active advanced/technical site. Treat as unconfirmed/likely inaccessible pending operator confirmation.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -25,16 +26,18 @@
     "lon": 37.3190921,
     "osm_id": 9720985226,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "wall",
+    "depth": 30,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Gota Mesharifa",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "thediveglobe.com,dive-the-world.com,thailandliveaboards.com",
+      "last_qa_date": "2026-07-02",
+      "note": "Corrected 2026-07-02 QA pass: this is 'Mesharifa', a small sand island in a shallow lagoon known as one of Sudan's most reliable manta ray cleaning stations (Aug-Nov), not a shark pinnacle/wall as previously described. Sources report max depth ~30m (thediveglobe.com) though other accounts cite up to 35m; visibility limited by plankton."
     }
   },
   {
@@ -50,8 +53,10 @@
     "tags": {
       "name": "Pfeiffer Reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dive-the-world.com",
+      "last_qa_date": "2026-07-02",
+      "note": "Only one independent source found (dive-the-world.com): elongated pinnacle reef ~2km SW of Angarosh, seafloor ~450m below, soft coral bommie on a small north-end plateau. Could not corroborate previously listed marine life (hammerheads, mantas, turtles, Napoleon wrasse) against a second source; not marked fully validated."
     }
   },
   {
@@ -67,9 +72,10 @@
     "tags": {
       "name": "Sweet Potato",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Grouper aggregation site, 30+ potato groupers, strong currents"
+      "validated": "false",
+      "validation_source": "sportdiver.com,scubadiving.com",
+      "note": "Sources confirm ~30 resident potato groupers plus chevron barracuda and big-eye jack schools, but the only two sources found (sportdiver.com, scubadiving.com) are sister publications under the same publisher and don't count as fully independent; a third independent source was not located. Previously listed reef sharks/manta rays were not corroborated and have been removed.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -78,10 +84,10 @@
     "lon": 37.4042343,
     "osm_id": 9720994071,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Experimantal unterwater station Precontinent II run by Jacques-Yves Cousteau in 1963",
       "historic:civilization": "modern",
@@ -91,7 +97,9 @@
       "wikidata": "Q3408831",
       "wikipedia": "en:Continental Shelf Station Two",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "en.wikipedia.org,atlasobscura.com,royalevolution.com",
+      "last_qa_date": "2026-07-02",
+      "note": "Cousteau's Conshelf II (Precontinent II), 1963: Starfish House habitat housed five oceanauts at 10m; the Deep Cabin housed two oceanauts at approx. 30m (Wikipedia gives both 30m and 33m/100ft in different passages -- treated as ~30m). Two structures were later removed; the submarine hangar and other remains are still visible today."
     }
   },
   {
@@ -108,8 +116,9 @@
       "name": "Daharat Abida",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Extreme south near Eritrea, rare hammerheads and silky sharks, pristine walls and plateaus"
+      "validation_source": "cassiopeiasafari.com,sportdiver.com,bluewaterdivetravel.com",
+      "note": "Southernmost reef in Sudan, ~220km S of Port Sudan and ~30km from the Eritrean border; a 400m elongated, bird-only island recognizable by 3 wrecks on its NW side. Reported sharks: whitetip, silvertip, grey reef, and hammerhead. Only a handful of deep-south liveaboards (e.g. RE Aggressor) visit. Unconfirmed manta-ray and 'unique species' claims from the prior write-up were removed.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -119,14 +128,16 @@
     "osm_id": 9721009908,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "wall",
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Merlo Reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "divescover.com,diverprofile.com,divebooker.com",
+      "last_qa_date": "2026-07-02",
+      "note": "Pinnacle reef just over 1 mile SW of Angarosh, seafloor ~450m below. East/west walls with cracks and caverns; vertical crevices on the east wall run to ~15m; small plateau at the north end with a soft coral bommie; a small wreck lies on the NW side. Hammerhead schools, whitetip reef sharks, grey reef sharks, tuna; mantas occasionally."
     }
   },
   {
@@ -144,8 +155,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "50+ km offshore, caves and walls, hammerhead aggregation, pelagic sharks"
+      "validation_source": "dive-the-world.com,royalevolution.com,cassiopeiasafari.com",
+      "note": "Also spelled Shaab Jibna/Jumna, roughly 50km (27nm) offshore SE/S of Port Sudan. East and west side dives with vertical walls, caves and crevices; known for large scalloped hammerhead schools, best Feb-May.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -161,9 +173,9 @@
     "tags": {
       "name": "Dibsel Island",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Remote southern site, shark aggregation, strong currents, pristine walls"
+      "validated": "false",
+      "note": "2026-07-02 re-audit: no independent source could be found confirming this site under this name (Dibsel Island). The previous description's specific claims (best season Feb-Apr, silky-shark abundance, exact species mix) could not be corroborated and have been removed pending verification against an operator or forum source.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -180,9 +192,9 @@
       "name": "Isar Island",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Remote southern site, walls, strong currents, abundant marine life"
+      "validated": "false",
+      "note": "2026-07-02 re-audit: no independent source could be found confirming this site under this name (Isar Island). The previous description's specific claims (best season Feb-Apr, silky-shark abundance, water temperature/current details) could not be corroborated and have been removed pending verification against an operator or forum source.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -194,13 +206,15 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Shab Rumi",
       "name": "Shab Rumi, Plateau S",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "padi.com,royalevolution.com,cassiopeiasafari.com",
+      "last_qa_date": "2026-07-02",
+      "note": "South plateau of Sha'ab Rumi at ~9m with a steep drop-off; SW tip is a regular scalloped hammerhead gathering point. Grey reef and blacktip reef sharks, snappers, sweetlips, occasional dolphins. The previously claimed 'barracuda tornado' at this specific plateau was not corroborated and has been removed."
     }
   },
   {
@@ -218,8 +232,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Triple plateau structure, north plateau 20-45m, massive coral fans, hammerheads"
+      "validation_source": "divebooker.com,seawolf-safari.de,royalevolution.com",
+      "note": "Reef complex in the Halaib Triangle on the Egypt/Sudan border, with plateaus on the north and south sides dropping from ~20m to ~45m and coral-fan-lined edges. Our database tracks the North/South/West/East-Southplateau zones as separate site entries. Grey reef sharks and occasional hammerheads reported.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -228,16 +243,17 @@
     "lon": 38.777359,
     "osm_id": 9721031082,
     "osm_type": "node",
-    "depth": 40,
+    "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Karam Marsmarit",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "SE side has deeper walls, shark aggregation, napoleons, strong currents"
+      "validated": "false",
+      "validation_source": "diverprofile.com,zentacle.com",
+      "note": "Also spelled Karam Masamirit, ~2nm SE of Massamirit Island in the Suakin Islands; a drop-off dive around the island with strong surface current. Zentacle lists max depth ~25m/82ft and Intermediate difficulty; DiverProfile notes the SE side has deeper walls with sharks and napoleons. Only two independent sources found; not marked fully validated. Difficulty kept at Advanced per this destination's remote-liveaboard-only access.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -249,13 +265,14 @@
     "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Abu Seif",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Shallow relaxed reef, cracks and crevices, excellent visibility, clownfish and anemones"
+      "validation_source": "scubadiving.com,dive-the-world.com,blueforcefleet.com",
+      "note": "Shallow reef (max ~12m) with easy zodiac entry. Scubadiving.com reports thresher shark sightings on the reef and hammerheads approaching from deeper water.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -264,15 +281,17 @@
     "lon": 37.4465546,
     "osm_id": 9721031166,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Sanganeb Plauteua N",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "padi.com,royalevolution.com,whc.unesco.org",
+      "last_qa_date": "2026-07-02",
+      "note": "North plateau of Sanganeb Atoll (UNESCO World Heritage-inscribed 2016 with Dungonab Bay-Mukkawar Island), which rises from ~800m. Three-stepped plateau: first ledge at 3-4m, second stage from 25m, dropping to a steep wall from ~30m. Marked by a British-built lighthouse (exact construction date not independently confirmed -- the previously stated '1870' has been removed). Barracuda, jacks, mackerel, snapper schools; whitetip and grey reef sharks; hammerheads reported deeper (~40m)."
     }
   },
   {
@@ -281,16 +300,18 @@
     "lon": 37.4380164,
     "osm_id": 9721033179,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 45,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Angarosh",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive-the-world.com,xray-mag.com,blueforcefleet.com",
+      "last_qa_date": "2026-07-02",
+      "note": "'Mother of Sharks' in Arabic; a coral pinnacle rising vertically from deep water with its top at ~10m and two plateaus at ~25m and ~45m. Grey reef, hammerhead, silvertip and whitetip sharks reported along the walls; the previously listed tiger shark claim could not be independently corroborated and has been removed."
     }
   },
   {
@@ -302,14 +323,15 @@
     "depth": 14,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Elba Reef, South Plateau",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "South plateau 5-14m, coral blocks, excellent for night diving, hammerheads"
+      "validation_source": "divebooker.com,seawolf-safari.de,royalevolution.com",
+      "note": "Shallow south plateau of Elba Reef, 5-14m, with 1-2m coral blocks; a popular night-dive location. Sits closest to the Levanzo Wreck, allowing a combined reef/wreck profile for qualified divers.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -327,8 +349,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "North plateau 20-45m, dramatic drop, massive coral fans, pelagics, strong currents"
+      "validation_source": "divebooker.com,seawolf-safari.de,royalevolution.com",
+      "note": "North plateau of Elba Reef, beginning around 20m and dropping toward 45m at the outer edge; large coral fans along the plateau rim. Depth recorded here (33m) represents a recreational-limit cutoff on a plateau that continues deeper, consistent with divebooker.com's 20-45m range for the north side.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -340,7 +363,7 @@
     "depth": 38,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "SS Umbria, Wreck",
       "scuba_diving:type": "wreck",
@@ -348,8 +371,9 @@
       "wikipedia": "en:SS Umbria",
       "wreck:date_sunk": "9 June 1940",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Italian cargo ship, sank 1940, depth 5-38m, safe accessible wreck, excellent penetration"
+      "validation_source": "en.wikipedia.org,padi.com,cassiopeiasafari.com",
+      "note": "Built as SS Bahia Blanca (Hamburg, launched 30 Dec 1911); acquired by Argentina in 1918, sold to Italy in 1935 and renamed Umbria. 154.9m long, 10,076 GRT. Deliberately scuttled by Capt. Lorenzo Muiesan on 9 June 1940 at Wingate Reef after Italy entered WWII, carrying ~6,000 tons of bombs, 600 cases of detonators, ~100 tons of other weapons, over 2,000 tons of cement and 3 Fiat 1100 cars. Lies on her port side, max depth 38m. (Corrected sinking date from the previously stated 10 June to the sourced 9 June 1940.)",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -366,8 +390,9 @@
       "name": "Elba Reef, West-Plateau",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Western plateau section, deep walls, shark aggregation, pristine coral"
+      "validation_source": "divebooker.com,seawolf-safari.de,royalevolution.com",
+      "note": "West-facing plateau/wall of Elba Reef exposed to prevailing currents, dropping to ~32m; part of the same Elba Reef complex documented by divebooker.com and Red Sea liveaboard operators.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -384,8 +409,9 @@
       "name": "Levanzo Wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Italian cargo ship, sank 1923, depth 22-65m, large wreck with broken sections"
+      "validation_source": "divebooker.com,golden-dolphin.net,seawolf-safari.de",
+      "note": "SS Isola di Levanzo, an Italian cargo vessel reported at ~113m in length, lost on Elba Reef's south plateau on 14 March 1923. Sources disagree on maximum depth (~65m per Elba Reef operator listings vs ~75m per Divebooker); reported here as up to 65m with the deeper figure noted as a discrepancy. Tonnage (~3,713 tons), build year (1901) and the 'broke its towing hawser during salvage' sinking narrative from the prior write-up could not be independently corroborated against a second source and are flagged as unconfirmed rather than removed outright.",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -397,13 +423,14 @@
     "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Elba Reef East (Southplateau)",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Eastern section of south plateau, shallow coral structures, accessible diving"
+      "validation_source": "divebooker.com,seawolf-safari.de,royalevolution.com",
+      "note": "Shallow eastern extension of Elba Reef's south plateau, 5-16m, transitioning toward the more current-exposed eastern wall. Documented as part of the broader Elba Reef complex; not separately named in the sources reviewed, but consistent with the general plateau depths and character reported for Elba Reef.",
+      "last_qa_date": "2026-07-02"
     }
   }
 ]

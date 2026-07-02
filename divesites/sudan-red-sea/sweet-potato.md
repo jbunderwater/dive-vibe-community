@@ -13,44 +13,42 @@ addedBy: osm_import
 
 ## Sweet Potato
 
-Sweet Potato is an advanced reef dive famous for its resident grouper population, named for the distinctive potato-like groupers that call this reef home. The site is a compact reef resembling a miniature Sha'ab Rumi.
+Sweet Potato is a compact central Sudan reef known for its resident population of around 30 potato groupers.
 
 ## Overview
 
-Sweet Potato is one of Sudan's most unusual and rewarding reef dives, named for the approximately 30 potato groupers that permanently inhabit the reef. These curious fish actively interact with divers, playing a game of hide-and-seek throughout the reef structure. The site offers an intimate, detailed diving experience distinct from Sudan's typical large wall and pelagic dives. Like a miniature version of the famous Sha'ab Rumi, the reef provides excellent opportunities for observing resident fish behavior. Strong currents and large schools of chevron barracuda and big-eye jacks add excitement to this specialized site.
+Sweet Potato's defining feature, confirmed by both Sport Diver and Scuba Diving magazines, is a resident population of roughly 30 potato grouper — a large grouper species (up to 2m/110kg) named for the dark, potato-shaped blotches on its body. A large school of chevron barracuda and big-eye jacks is also reported at the site.
+
+**Note on validation:** Sport Diver and Scuba Diving are sister publications from the same media company, so they do not fully satisfy this destination's 3-independent-source standard even though their content agrees. A third, independently-published source was not located during this QA pass, so Sweet Potato is not marked fully validated.
 
 ## Site Information
 
-- **Location**: Central Sudan Red Sea, liveaboard access
+- **Location**: Central Sudan Red Sea, southern plateau
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 
-## Resident Marine Life
+## Marine Life
 
-The star attraction is the 30+ resident potato groupers that make this site unique. These curious groupers readily approach divers and are comfortable with human interaction. The reef also hosts large schools of chevron barracuda and big-eye jacks that create an active, dynamic environment. Lionfish, moray eels, and other reef residents shelter in crevices. Larger pelagic species including reef sharks, manta rays, and other big fish pass through the area in strong currents.
+Confirmed: roughly 30 resident potato groupers, plus schools of chevron barracuda and big-eye jacks. The previously listed reef sharks and manta rays were not corroborated by either source reviewed and have been removed.
 
 ## Dive Profile
 
-The dive is structured around exploring the reef structure and interacting with the grouper population. Descend to 15-18 meters and work slowly around the reef edges, allowing time to observe grouper behavior and watch the schooling fish. The compact nature of the reef means multiple passes in a single dive are possible. Strong currents require good buoyancy control and awareness of drift. Most of the action occurs between 10-18 meters.
+Diving here centres on locating and observing the resident grouper population at the reef structure, with barracuda and jack schools adding to the activity. No further site-specific dive-profile detail (entry point, typical depths beyond the stated maximum) was confirmed.
 
 ## Entry and Exit
 
-Access is exclusively via liveaboard dive boat. Descend on the reef structure in moderate current and work around the reef perimeter. The strong currents typical of Sudan mean drift diving; the boat tracks divers for pickup. Use a high-visibility surface marker buoy (SMB) for safety stop signaling.
+Access is by liveaboard dive boat as part of central/southern Sudan itineraries.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera—grouper interactions make this a photography highlight
-- Move slowly and deliberately to allow groupers to approach without startling them
-- Respect the groupers; avoid chasing or cornering them
-- Strong current requires excellent buoyancy control and weight distribution
-- Plan multiple dives on Sweet Potato if your itinerary allows—each visit offers different behavior
-- Book only with Sudan liveaboard operators who include Sweet Potato on their routes
+- Move slowly to allow the resident groupers to approach rather than chasing them
+- Bring a camera — the grouper population is the signature subject at this site
 
 ## Safety Considerations
 
-Strong currents are the primary hazard. Maintain proper buoyancy and be aware of drift. The compact reef and grouper-watching focus means divers may spend extended time in current—monitor air supply carefully. Fire coral and lionfish are present. Always dive with a buddy and deploy SMB during ascent. Abort if currents exceed your comfort level.
+No site-specific hazards beyond standard Red Sea reef diving practice were confirmed in sources reviewed (fire coral awareness, buoyancy control, SMB deployment for pickup).
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Sport Diver — Red Sea's Deep South Delivers World-Class Scuba Diving off Sudan](https://www.sportdiver.com/red-seas-deep-south-delivers-world-class-scuba-diving-off-sudan), [Scuba Diving — Five Great Dive Sites in Sudan's Red Sea](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea). These are sister publications under the same publisher, so a third independent source is still needed for full validation. Last updated 2026-07-02.*

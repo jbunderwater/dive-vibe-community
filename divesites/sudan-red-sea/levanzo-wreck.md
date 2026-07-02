@@ -13,47 +13,49 @@ addedBy: osm_import
 
 ## Levanzo Wreck
 
-Levanzo Wreck (SS Isola di Levanzo) is an advanced-level wreck dive at Elba Reef near the Egypt-Sudan border. This large Italian cargo ship sank in 1923 and now rests as an artificial reef at significant depth, requiring advanced wreck diving training and experience.
+The Levanzo Wreck (SS Isola di Levanzo) is an early-20th-century Italian cargo wreck resting on the south plateau of Elba Reef, at the Egypt-Sudan border.
 
 ## Overview
 
-The SS Isola di Levanzo is an Italian cargo vessel (113 meters long, 3,713 tons, built 1901) that sank on March 14, 1923, after going ashore on Elba Reef. While under salvage on March 28, 1923, the ship broke its towing hawser, drifted onto rocks, and sank. Now resting at the edge of Elba Reef's South Plateau, the wreck has become a thriving artificial reef with abundant marine life. The wreck begins at 22 meters with broken sections at 40 meters and reaches a maximum depth of 65 meters, demanding Advanced Open Water certification or equivalent and significant wreck diving experience.
+The SS Isola di Levanzo was an Italian cargo vessel, reported at approximately 113 metres in length, that was lost on Elba Reef on 14 March 1923 — a length and date corroborated by Divebooker.com and Golden Dolphin's Elba Reef route descriptions. Additional details that appear in some listings — a gross tonnage near 3,713 tons, a 1901 build year, and an account of the ship breaking its towing hawser while under salvage before drifting onto rocks and sinking — could not be independently corroborated against a second source in this review and should be treated as unconfirmed rather than established fact.
+
+The wreck now lies at the edge of Elba Reef's south plateau. Sources disagree on the depth range: Elba Reef operator listings describe the wreck spanning roughly 22-65m, while Divebooker.com states it lies between 22m and 75m. This description uses 65m as the recorded maximum depth pending confirmation of the deeper figure.
 
 ## Site Information
 
-- **Location**: Elba Reef, Egypt-Sudan border (Halaib Triangle)
+- **Location**: Elba Reef south plateau, Egypt-Sudan border (Halaib Triangle)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 65 meters
-- **Wreck Top**: 22 meters
-- **Broken Sections**: 40 meters
+- **Maximum Depth**: 65 meters (sources report a range of 22-75m — see Overview)
+- **Wreck Top**: ~22 meters
 
-## Wreck Structure & Marine Life
+## Wreck History
 
-The SS Isola di Levanzo is a 113-meter vessel with distinct diving zones. The top sections at 22 meters feature large openings and natural light. Broken sections at 40 meters are more challenging and require conservative depth planning. Schools of jackfish and barracuda patrol the wreck structure. Colorful corals and sponges encrust the surfaces, demonstrating decades of artificial reef colonization. The wreck provides excellent habitat for groupers, snappers, morays, and countless smaller reef fish species.
+Confirmed by 2+ sources: ~113m Italian cargo vessel, lost on Elba Reef 14 March 1923. Not independently confirmed: tonnage (~3,713 tons), build year (1901), and the specific "broke its towing hawser during salvage" sinking narrative — these figures appear only in a single prior source and are flagged here rather than stated as fact.
+
+## Marine Life
+
+General Elba Reef sources report schools of jacks and barracuda, groupers, snappers, and moray eels colonizing the reef and wreck structures in the area, but no marine-life report specific to the wreck itself (as distinct from the surrounding reef) was found. Treat marine life on the wreck as consistent with the general Elba Reef community rather than site-specific confirmed sightings.
 
 ## Dive Profile
 
-Descend to the wreck top at 22 meters and explore the accessible exterior sections first. Divers with wreck training and deep diving experience can explore broken sections at 40 meters if properly planned. Advanced divers attempt the deeper sections (50-65m) only with significant decompression planning and backup gas. This is NOT a site for casual deep diving. Nitrogen narcosis becomes significant below 40m—monitor your judgment carefully. Plan conservative bottom times and multiple safety stops. Most recreational dives stay to the 22-40m range.
+The wreck top begins around 22 metres with more broken, deeper sections extending well below recreational limits. Most liveaboard dives explore the 22-40m range; going deeper requires advanced wreck and deep-diving experience, redundant gas, and conservative bottom-time planning given the nitrogen narcosis risk below 30-40m.
 
 ## Entry and Exit
 
-Access is by liveaboard dive boat from Elba Reef operators. Entry via giant stride or back roll in moderate sea state. Descents follow the wreck structure with guidance from the dive guide. Multiple safety stops are mandatory due to depth; ascend through the water column and maintain staged decompression. Deploy high-visibility surface marker buoy (SMB) for safety stop signaling.
+Access is by liveaboard from Elba Reef anchorages, part of extended "deep south" or "St John's/Elba Reef" itineraries. Entry is a standard giant stride or back-roll with descent along the reef structure to the wreck.
 
 ## Tips & Requirements
 
-- Advanced wreck diving certification strongly recommended
-- Carry dive computer and depth gauge—two depth instruments are wise
-- Bring dive torch with backup—interior sections are dark
-- Maintain exceptional buoyancy to avoid silt disturbance
-- Do NOT attempt deep penetration (>40m) without extensive wreck experience
-- Carry redundant air supply if attempting deeper sections
-- Underwater camera captures excellent artificial reef documentation
+- Advanced wreck-diving experience recommended, particularly for sections below 40m
+- Carry a dive computer and backup timing device — depth reports for this wreck vary by source
+- Do not attempt deep sections without appropriate training and redundant gas
+- Combine with the adjacent Elba Reef South Plateau for a reef-and-wreck dive profile
 
 ## Safety Considerations
 
-Critical hazards include nitrogen narcosis below 40m, decompression sickness, entanglement risks, silt entrapment in wreck sections, and deep diving risks. The wreck is partially broken/unstable in sections—avoid uncertain structures. Only dive sections you can clearly see; turn back before visibility drops. Nitrogen narcosis impairs judgment significantly at 45-65m—abort immediately if affected. Always dive with an experienced buddy. Mandatory staged decompression on ascent. This is NOT a site for divers pushing their limits.
+The wreck's deeper sections (40m+) carry nitrogen narcosis risk and are partially broken/unstable. Interior penetration should only be attempted with wreck-diving training — never characterize penetration of a broken structure like this as risk-free. Given the unresolved depth-range discrepancy between sources, plan conservatively and confirm current conditions with your dive guide before descending.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Divebooker — Elba Reef](https://divebooker.com/elba-reef-baz15662), [Golden Dolphin — 10 Days Deep South to Elba Reef](https://golden-dolphin.net/routes/10-days-deep-south-until-elba-reef), [Seawolf Safari — Elba Reef](https://www.seawolf-safari.de/divesite/elba-reef). Last updated 2026-07-02.*
