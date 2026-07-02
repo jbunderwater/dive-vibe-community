@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Bottle Reef
 
-Bottle Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
+Bottle Reef takes its name from the rum and gin bottles soldiers once tossed from the cliffs of Fort Charlotte, the fortification that overlooks the site.
 
 ## Overview
 
-Bottle Reef takes its name from the rum and gin bottles discarded by soldiers stationed at Fort Charlotte, the 1806 fortification whose cliff face looms directly above the site, and a scatter of old bottles can still be found among the coral growth. The reef lies at depths to around 22 meters, with volcanic sand and reef substrate typical of St. Vincent's "critter capital" reputation — expect to find red-lipped batfish, flying gurnards, seahorses, frogfish, and yellowhead jawfish in and around the bottom. Electric rays and peacock flounders are also common in the sandy patches, and the historically layered setting makes this a distinctive site even by Caribbean standards.
+Fort Charlotte, whose construction began in 1763 and which was completed and named in 1806, sits on the cliff directly above this reef. Two independent sources (Dive St. Vincent and Caradonna Adventures) confirm the site's naming story — soldiers stationed at the fort discarded rum and gin bottles from the cliff face, and old bottles can reportedly still be found among the coral growth. Beyond the naming story and its location on St. Vincent's leeward coast, we were not able to find further independently corroborated site-specific detail (depth is carried over from prior data and has not been re-confirmed against a new source this pass).
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Bottle Reef takes its name from the rum and gin bottles discarded by soldiers st
 
 ## Marine Life
 
-The volcanic sand and reef substrate makes this a standout critter site, with red-lipped batfish, flying gurnards, seahorses, frogfish, and yellowhead jawfish all reliably found here. Electric rays and peacock flounders patrol the sandy patches, while the coral growth harbors moray eels and banded coral shrimp for divers who slow down and search carefully.
+St. Vincent as a whole is known as the "Critter Capital of the Caribbean," but no source we found reports specific marine life sightings at Bottle Reef itself. Divers should expect the general muck/critter character of the region's volcanic-sand sites, but species claims for this particular reef are not yet backed by a site-specific report.
 
 ---
-*Sources: [divestvincent.com - Bottle Reef](https://www.divestvincent.com/), [divetrainingmag.com - SVG Diving](https://www.divetrainingmag.com/), [bluewater.com - St. Vincent Grenadines](https://www.bluewaterdivetravel.com/). Last updated 2026-05-24.*
+*Sources: [Dive St. Vincent](https://www.divestvincent.com/DiveSites2.html), [Caradonna Adventures](https://www.caradonna.com/dive/caribbean/diving-st-vincent-grenadines). Only 2 independent domains found for this site — a 3rd source is still needed. Last updated 2026-07-02.*
