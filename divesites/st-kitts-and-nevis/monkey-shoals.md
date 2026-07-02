@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Monkey Shoals
 
-Monkey Shoals is a reef dive site in St. Kitts and Nevis, Caribbean.
+Monkey Shoals is a roughly one-square-mile coral atoll sitting about 3 miles offshore in the channel between St. Kitts and Nevis, surveyed directly by the Khaled bin Sultan Living Oceans Foundation's Global Reef Expedition.
 
 ## Overview
 
-Monkey Shoals is a roughly one-square-mile coral atoll sitting in the channel between St. Kitts and Nevis, offering excellent visibility and dense marine life well away from the coastal runoff that can affect inshore sites. The shoal encompasses multiple sub-sites ranging from shallow nursery reefs at around 9 meters to deeper overhangs and drop-offs exceeding 30 meters, where nurse sharks, green moray eels, and large spiny lobsters take shelter under ledges. Horse-eye jacks, schooling barracuda, eagle rays, southern stingrays, and the unusual flying gurnard are regularly encountered across the atoll, making it one of the most species-rich sites in the St. Kitts area.
+Monkey Shoals resembles a Pacific-style atoll: a flat hardground habitat at 10-15 metres on top, encircled by a reef that slopes down to a sand terrace around 30-40 metres before the bottom drops away further. The Living Oceans Foundation's survey recorded extensive star coral formations along with brain coral, flower coral, cactus coral, finger coral, lettuce coral, and mustard hill coral, plus an elliptical star coral colony (*Dichocoenia stokesii*) — a species rarely seen elsewhere in St. Kitts and Nevis waters — and unusual warty corallimorph ("false coral") colonies. The atoll is sometimes referred to locally as "the Donut," with sub-sites including a shallow nursery area and deeper ledges favored by nurse sharks.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: The Narrows, between St. Kitts and Nevis
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Monkey Shoals is a roughly one-square-mile coral atoll sitting in the channel be
 
 ## Marine Life
 
-Horse-eye jacks, schooling barracuda, eagle rays, and southern stingrays are regularly encountered across the atoll's multiple sub-sites, while nurse sharks, green moray eels, and large spiny lobsters take shelter under overhangs in the deeper sections. The unusual flying gurnard is a sought-after sighting here, and hawksbill turtles are present throughout — making Monkey Shoals one of the most species-rich dives in the St. Kitts area.
+The Living Oceans Foundation survey recorded grunts, snappers, squirrelfish, parrotfish, wrasses, glasseye snapper, soldierfish, highhats, and nurse sharks, along with lobsters and crabs sheltering among the coral. The site is also known for the unusual flying gurnard (*Dactylopterus volitans*), a bottom-dwelling fish that spreads phosphorescent blue-tipped "wings" when disturbed. The survey also noted some coral stress — a band of white plague disease on one elliptical star coral colony and evidence of soft-coral predation by flamingo tongue snails.
 
 ---
-*Sources: [Living Oceans Foundation - Caribbean Reefs](https://www.livingoceansfoundation.org/), [divebuddy.com - Monkey Shoals](https://www.divebuddy.com/), [padi.com - St Kitts Dive Sites](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [Living Oceans Foundation - Exploring Monkey Shoals](https://www.livingoceansfoundation.org/exploring-monkey-shoals/), [Divezone - Best Diving Sites in St. Kitts and Nevis](https://divezone.net/diving/st-kitts-and-nevis), [Active Caribbean Travel - St. Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/), [TripAdvisor - Monkey Shoal](https://www.tripadvisor.com/Attraction_Review-g147376-d149959-Reviews-Monkey_Shoal-South_Coast_St_Kitts_St_Kitts_and_Nevis.html). Last updated 2026-07-02.*

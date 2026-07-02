@@ -17,7 +17,7 @@ The MV River Taw is St. Kitts' most accessible wreck dive — a 144-foot island 
 
 ## Overview
 
-The River Taw is an island cargo ship measuring 144 feet in length. She began sinking in St. Kitts harbour in 1981 and was towed to her current location off Frigate Bay, where she settled upright on a sandy bottom at 42 feet (12 metres). She sat perfectly upright until Hurricane Hugo came through in 1989, which broke the hull into two sections — the bow and stern now lie approximately 50 feet apart. All decks and superstructure are covered in sponges and coral. A sunken van and bulldozer lie off to one side in the seagrass. The wreck once offered easy interior penetration but this is no longer possible due to hurricane damage. Turtles, eels, octopus, porcupine fish, and stingrays are resident. Night dives are popular for the additional invertebrate activity. This is a good site for photography given the manageable depth and marine life density.
+The River Taw is a 144-foot island cargo ship that sank in St. Kitts harbour in 1981 and was towed to her current location off Frigate Bay, where she settled on a sandy bottom in the 12-15 metre range (sources give slightly different figures — 41 to 50 feet). She sat upright until Hurricane Hugo struck in 1989, breaking the hull into two sections that now lie roughly 50 feet apart, surrounded by seagrass and construction rubble from Port Zante. All decks and superstructure are encrusted in sponges and coral. A sunken van and bulldozer lie off to one side in the grass. Interior penetration, once possible, is no longer advisable due to the hurricane damage. Turtles, eels, octopus, porcupine fish, and stingrays are resident, and the manageable depth makes this a popular training and photography dive.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ The River Taw is an island cargo ship measuring 144 feet in length. She began si
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [My St Kitts Dive Buddy - Wreck Diving](https://mystkittsdivebuddy.com/wreck-diving-sites-of-st-kitts/), [PADI - River Taw St Kitts](https://www.padi.com/dive-site/saint-kitts-nevis/river-taw/), [Dive Nevis - Wreck Dives](https://divenevis.com/wreck-dives/). Last updated 2026-05-24.*
+*Sources: [My St Kitts Dive Buddy - Wreck Diving](https://mystkittsdivebuddy.com/wreck-diving-sites-of-st-kitts/), [PADI - River Taw St Kitts](https://www.padi.com/dive-site/saint-kitts-nevis/river-taw/), [DiveBuddy.com - Wreck of the River Taw](https://www.divebuddy.com/divesite/4673/wreck-river-taw-saint-kitts-nevis/), [TripAdvisor - Wreck of the River Taw](https://www.tripadvisor.com/Attraction_Review-g147374-d149963-Reviews-Wreck_of_the_River_Taw-St_Kitts_St_Kitts_and_Nevis.html). Last updated 2026-07-02.*

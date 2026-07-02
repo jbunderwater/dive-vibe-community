@@ -17,7 +17,7 @@ Coconut Tree Reef is a reef dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Coconut Tree Reef is one of the largest reef structures off St. Kitts, starting at around 12 meters and dropping to over 30 meters on a pristine slope studded with large barrel corals and widespread coral sand grottos. The reef is in excellent health, supporting dense populations of grunts, snappers, and small groupers, with spotted morays, lobsters, and rays in the lower sections and nurse sharks sheltering in the shallows.
+Coconut Tree Reef is one of the largest reef structures off St. Kitts, with diving from around 12 meters to 34 meters (40-110ft) across the slope, studded with large barrel corals. Visibility of up to 100 feet is regularly reported. The reef supports dense populations of grunts, snapper, and small groupers, with nurse sharks in the shallower crevices and spotted morays in the deeper sections.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Coconut Tree Reef is one of the largest reef structures off St. Kitts, starting 
 
 ## Marine Life
 
-The large barrel coral structures and sand grottos shelter dense populations of grunts, snappers, and small groupers, with nurse sharks resting in the shallower crevices and spotted morays weaving through the deeper reef sections. Southern stingrays and eagle rays cruise the lower slope, lobsters are found under ledges throughout, and the pristine coral coverage supports hawksbill turtles and an abundance of smaller reef fish on the upper sections.
+The large barrel coral structures and sand grottos shelter dense populations of small groupers, grunts, and snapper, with horse-eye jacks, blue runners, and schooling barracuda moving through the water column and creole wrasse over the reef. Nurse sharks rest in the shallower crevices and spotted morays are common in the deeper sections. Both hawksbill and leatherback turtles have been reported here, and lobsters are found under ledges throughout the reef.
 
 ---
-*Sources: [prodiversstkitts.com - Coconut Tree Reef](https://prodiversstkitts.com/), [mystkittsdivebuddy.com - West Side Dives](https://mystkittsdivebuddy.com/), [activecaribbeantravel.com - St Kitts Diving](https://www.activecaribbeantravel.com/). Last updated 2026-05-24.*
+*Sources: [TripAdvisor - Coconut Tree Reef](https://www.tripadvisor.com/Attraction_Review-g147374-d149961-Reviews-Coconut_Tree_Reef-St_Kitts_St_Kitts_and_Nevis.html), [Dive The World - Diving in St Kitts](https://www.dive-the-world.com/diving-sites-st-kitts.php), [Divezone - Best Diving Sites in St. Kitts and Nevis](https://divezone.net/diving/st-kitts-and-nevis). Last updated 2026-07-02.*
