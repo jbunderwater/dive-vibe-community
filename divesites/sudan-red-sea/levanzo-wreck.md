@@ -27,7 +27,7 @@ The wreck now lies at the edge of Elba Reef's south plateau. Sources disagree on
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 65 meters (sources report a range of 22-75m — see Overview)
+- **Maximum Depth**: 65 meters
 - **Wreck Top**: ~22 meters
 
 ## Wreck History

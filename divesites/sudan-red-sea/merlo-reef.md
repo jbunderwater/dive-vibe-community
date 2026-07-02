@@ -5,7 +5,7 @@ lng: 37.4186797
 difficulty: Advanced
 maxDepth: 20
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: 9721009908
 addedBy: osm_import
@@ -23,9 +23,9 @@ Merlo Reef's eastern and western walls are marked by cracks and caverns, with th
 
 - **Location**: Northern Sudan Red Sea, ~1 mile southwest of Angarosh
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters (eastern wall crevices run to ~15m)
+- **Maximum Depth**: 20 meters
 
 ## Marine Life
 

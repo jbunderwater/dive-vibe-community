@@ -23,9 +23,9 @@ Mesharifa (also written Gota Mesharifa — "gota" being the local term for a sub
 
 - **Location**: Northern Sudan Red Sea, sand-island lagoon close to shore
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (shallow lagoon)
-- **Difficulty Level**: Advanced (Sudan's remote, liveaboard-only access sets a floor of Advanced regardless of this site's relatively gentle underwater profile)
-- **Maximum Depth**: Sources report a range of roughly 18-35m; thediveglobe.com lists a maximum of ~30m with an average around 18m
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Visibility**: Reduced by plankton, typically 10-30m
 - **Best Time**: August-November for manta ray encounters
 

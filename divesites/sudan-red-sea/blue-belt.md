@@ -27,7 +27,7 @@ The Blue Belt was a Saudi Arabian general cargo vessel, reportedly built around 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Expert
-- **Maximum Depth**: Reported depths range roughly 15-90m across sources; the wreck's exact current position is disputed
+- **Maximum Depth**: 90 meters
 - **Access Status**: Disputed — see Overview
 
 ## Wreck History

@@ -25,9 +25,9 @@ What remains is the structural OSM data point (coordinates, `sport=scuba_diving`
 
 - **Location**: Deep-south Sudan Red Sea archipelago, near the Eritrean border
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (per OSM tagging; not independently confirmed)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (per OSM/prior data; not independently confirmed)
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 

@@ -25,7 +25,7 @@ Pfeiffer Reef is an elongated reef rising from a seafloor roughly 450 metres dee
 
 - **Location**: Northern Sudan Red Sea, ~2km southwest of Angarosh
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (offshore pinnacle)
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 

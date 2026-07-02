@@ -27,7 +27,7 @@ The site is a full drop-off dive around the island, with strong surface current 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters (sources note the southeast side has additional deeper wall sections)
+- **Maximum Depth**: 25 meters
 
 ## Marine Life
 

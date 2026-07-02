@@ -25,7 +25,7 @@ Angarosh sits east of Mukawwar Island within Dungonab Bay-Mukkawar Island Nation
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters (two plateaus at ~25m and ~45m)
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 25m+
 - **Current**: Moderate to strong
 

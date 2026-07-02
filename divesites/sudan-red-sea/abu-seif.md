@@ -22,7 +22,7 @@ Abu Seif is a shallow reef (maximum depth around 12 metres) entered by zodiac ra
 ## Site Information
 
 - **Location**: Northern Sudan Red Sea, liveaboard access
-- **Entry Type**: Boat dive (zodiac entry)
+- **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters

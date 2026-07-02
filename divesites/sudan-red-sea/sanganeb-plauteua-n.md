@@ -25,7 +25,7 @@ Sanganeb Atoll sits roughly 25km northeast of Port Sudan, a solitary oval reef r
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (hammerheads are reported deeper, around 40m, beyond recreational limits)
+- **Maximum Depth**: 30 meters
 - **Protected Status**: UNESCO World Heritage Site (inscribed 2016)
 
 ## Marine Life

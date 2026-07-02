@@ -26,8 +26,8 @@ Umbria now lies on her port side at a maximum depth of 38 metres, with much of h
 - **Location**: Wingate Reef, near Port Sudan, Sudan Red Sea
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced (Sudan is a remote, liveaboard-only destination; the wreck's shallower sections are approachable by strong intermediate wreck divers under guide supervision, but the site overall calls for advanced-level self-sufficiency)
-- **Maximum Depth**: 38 meters (wreck spans roughly 4-38m)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 38 meters
 
 ## Wreck History
 
