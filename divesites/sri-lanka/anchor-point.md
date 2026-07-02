@@ -3,7 +3,7 @@ name: Anchor Point
 lat: 8.3172012
 lng: 79.6940893
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 17
 entryType: boat
 siteType: reef
 ref: null
@@ -13,23 +13,25 @@ addedBy: osm_import
 
 ## Anchor Point
 
-Anchor Point is a reef dive site in Sri Lanka, Asia.
+Anchor Point is a stone-reef site off Kalpitiya, listed by local operators as two adjoining sections around 14-17 meters.
 
 ## Overview
 
-Anchor Point is a reef site off Kalpitiya on Sri Lanka's northwest coast, where a rugged rocky bottom studded with coral outcrops drops to about 20 meters in the warm Palk Strait waters. The site takes its name from the numerous old anchors and anchor chain fragments scattered across the reef floor — remnants of the historic spice trade and colonial shipping that passed through these waters — providing artificial reef habitat for moray eels, lionfish, and cuttlefish. Kalpitiya is also known for large aggregations of spinner dolphins offshore, and whale sharks have been reported in the area during the November–March season.
+Anchor Point is a stone-reef site off Kalpitiya on Sri Lanka's northwest coast, listed by local operators as two adjoining sections — "Anchor Point Reef 1" at around 14 meters and "Anchor Point Reef 2" at around 17 meters. Beyond the depth listings and a description as a "shallow reef" good for casual divers and underwater photography, we could not find a source explaining the site's name or confirming further site-specific detail — the previously published claim that it is named for old anchors and chains left from the spice trade could not be verified anywhere and has been removed.
+
+**Editorial note:** research turned up only 2 independent site-specific sources for this entry (below this destination's 3-source validation bar), so it is marked unvalidated pending further research.
 
 ## Site Information
 
 - **Location**: Sri Lanka, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 17 meters
 
 ## Marine Life
 
-The old anchors and chain fragments scattered across the reef floor have become artificial reef structures colonised by moray eels, lionfish, and cuttlefish using the ironwork as shelter and hunting grounds. Parrotfish, grouper, and sea turtles are regular visitors to the surrounding coral outcrops, while barracuda and trevally school in the mid-water above the rocky bottom. Whale sharks have been reported in the Kalpitiya area during the November–March season when conditions bring productive waters to the outer reef.
+Sources describe the site only in general terms ("aquarium fishes"). No source found confirms specific species at this site beyond that. Sri Lanka's regional reef fauna (parrotfish, moray eels, grouper) likely applies, but no site-specific report was found, so we have not attributed a species list to this location.
 
 ---
-*Sources: [SSI - Scuba Diving in Sri Lanka Guide](https://www.divessi.com/en/blog/scuba-diving-in-sri-lanka-9894.html), [PADI - Sri Lanka Dive Sites](https://blog.padi.com/sri-lankas-incredible-must-see-dive-sites/), [Divinguru - Sri Lanka Dive Sites](https://divinguru.com/scuba-diving/dive-sites/), [Bluewater Dive Travel - Sri Lanka](https://www.bluewaterdivetravel.com/destination/diving-sri-lanka), [PADI - Diving in Sri Lanka](https://www.padi.com/diving-in/sri-lanka/). Last updated 2026-04-04.*
+*Sources: [Visit Kalpitiya - Scuba Diving in Kalpitiya](https://www.kalpitiyatours.com/scuba-diving-kalpitiya.html), [Ocean Lanka Diving Kalpitiya](https://scubadivingkalpitiya.com/). Last updated 2026-07-02.*

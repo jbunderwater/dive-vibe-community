@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Carreg dive site
 
-Carreg dive site is a historic wreck dive in Sri Lanka, Asia.
+OSM charts a wreck at this position off Negombo, but no source we found could confirm the vessel's identity or history — the name "Carreg" appears in no shipwreck database we checked.
 
 ## Overview
 
-The Carreg wreck lies off Sri Lanka's southwest coast near Hikkaduwa, a compact wreck site in around 15 meters of water that has become thoroughly colonized by reef life in the warm Indian Ocean. The wreck is penetrable and shelters cave-dwelling species in its cabins, while groupers, napoleon wrasse, angelfish, and queen triggerfish patrol the exterior surfaces, which are encrusted with hard and soft corals. Sri Lanka's position along historic Indian Ocean trade routes makes the surrounding waters some of the most wreck-dense in the region, with this site offering accessible conditions suitable for intermediate divers and above.
+OpenStreetMap tags this location, off Sri Lanka's west coast near Negombo (not near Hikkaduwa, as this page previously and incorrectly stated), as a charted wreck (`historic=wreck`, `seamark:type=wreck`). Beyond that, we could not verify anything about it: we checked archaeology.lk's Sri Lanka shipwreck writeups, srilanka-divingtours.com and other Negombo-area dive operator site lists, and general web/ScubaBoard searches for a wreck named "Carreg," and found no matching vessel, no build history, and no dive-shop description of this specific site. The previous version of this page described a named ship with a penetrable interior and a specific fish community — none of that could be traced to any source and has been removed rather than repeated.
+
+If you have first-hand knowledge of this site (a local dive shop trip report, a name for the vessel, or GPS-confirmed identification), it would help resolve this entry — until then it should be treated as an unverified wreck location.
 
 ## Site Information
 
@@ -27,5 +29,9 @@ The Carreg wreck lies off Sri Lanka's southwest coast near Hikkaduwa, a compact 
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 
+## Marine Life
+
+No site-specific marine life source was found. Sri Lanka's regional reef and wreck-associated fauna likely applies, but nothing has been confirmed for this exact site, so no species are listed here.
+
 ---
-*Sources: [SSI - Scuba Diving in Sri Lanka Guide](https://www.divessi.com/en/blog/scuba-diving-in-sri-lanka-9894.html), [PADI - Sri Lanka Dive Sites](https://blog.padi.com/sri-lankas-incredible-must-see-dive-sites/), [Divinguru - Sri Lanka Dive Sites](https://divinguru.com/scuba-diving/dive-sites/), [Bluewater Dive Travel - Sri Lanka](https://www.bluewaterdivetravel.com/destination/diving-sri-lanka), [PADI - Diving in Sri Lanka](https://www.padi.com/diving-in/sri-lanka/). Last updated 2026-04-04.*
+*Description based on OSM wreck-location tagging only; no site-specific sources found despite searching archaeology.lk's shipwreck database and Negombo-area dive operator listings. Last updated 2026-07-02.*

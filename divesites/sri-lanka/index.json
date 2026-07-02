@@ -1,17 +1,5 @@
 [
   {
-    "name": "Scuba Lanka",
-    "filename": "scuba-lanka.md",
-    "lat": 8.6104972,
-    "lng": 81.2190131,
-    "difficulty": "Intermediate",
-    "maxDepth": 18,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2896874870
-  },
-  {
     "name": "Bar Reef",
     "filename": "bar-reef.md",
     "lat": 8.3673231,
@@ -29,7 +17,7 @@
     "lat": 8.3172012,
     "lng": 79.6940893,
     "difficulty": "Intermediate",
-    "maxDepth": 20,
+    "maxDepth": 17,
     "entryType": "boat",
     "siteType": "reef",
     "ref": "",
@@ -53,9 +41,9 @@
     "lat": 5.9991084,
     "lng": 80.2385992,
     "difficulty": "Intermediate",
-    "maxDepth": 18,
+    "maxDepth": 25,
     "entryType": "shore",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 9448790420
   },
@@ -65,7 +53,7 @@
     "lat": 6.1923896,
     "lng": 80.047307,
     "difficulty": "Intermediate",
-    "maxDepth": 20,
+    "maxDepth": 21,
     "entryType": "boat",
     "siteType": "wreck",
     "ref": "",
@@ -89,8 +77,8 @@
     "lat": 7.23653,
     "lng": 79.7823526,
     "difficulty": "Intermediate",
-    "maxDepth": 12,
-    "entryType": "shore",
+    "maxDepth": 15,
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 9448835284
