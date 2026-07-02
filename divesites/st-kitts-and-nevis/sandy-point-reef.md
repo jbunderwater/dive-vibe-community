@@ -21,7 +21,7 @@ Sandy Point Reef sits within the Sandy Point National Marine Park near Brimstone
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: Sandy Point National Marine Park, near Brimstone Hill, St. Kitts
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Sandy Point Reef sits within the Sandy Point National Marine Park near Brimstone
 
 ## Marine Life
 
-The volcanic canyons and swim-throughs are inhabited by French angelfish, barracuda, nurse sharks, and moray eels, while hawksbill turtles graze the tube sponges and sea fans along the deeper reef sections. The five historic anchors embedded in coral fingers are a unique draw, and spiny lobsters and large groupers occupy the deeper clefts and overhangs well past 30 metres.
+The volcanic canyons and swim-throughs are inhabited by French angelfish, barracuda, nurse sharks, and moray eels, while hawksbill turtles graze the tube sponges and sea fans along the deeper reef sections. The five-plus historic anchors embedded in coral fingers at the "Anchors Away" mooring — camouflaged by colorful coral and tube sponge growth — are a unique draw, and spiny lobsters and large groupers occupy the deeper clefts and overhangs.
 
 ---
-*Sources: [mystkittsdivebuddy.com - Sandy Point](https://mystkittsdivebuddy.com/), [divebuddy.com - Sandy Point Reef](https://www.divebuddy.com/), [afar.com - Diving St Kitts](https://www.afar.com/). Last updated 2026-05-24.*
+*Sources: [My St Kitts Dive Buddy - Reef Diving Sites of St Kitts](https://mystkittsdivebuddy.com/reef-diving-sites-of-st-kitts/), [Dive Training Magazine - Exploring St. Kitts](https://dtmag.com/thelibrary/exploring-st-kitts-island-made-for-adventures/), [AFAR - Sandy Point National Marine Park](https://www.afar.com/places/sandy-point). Note: Dive Training Magazine describes "Anchors Away" as a separate named mooring site within the same marine park rather than identical to "Sandy Point" - treated here as one combined entry. Last updated 2026-07-02.*

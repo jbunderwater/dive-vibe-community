@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Elba Reef
 
-Elba Reef is an advanced diving destination at the Egypt-Sudan border, famous for its triple plateau structure and deep walls with massive coral formations. The reef is one of Sudan's most remote and least-visited sites, featuring pristine conditions and exceptional wildlife.
+Elba Reef is a triangle-shaped reef complex straddling the disputed Egypt-Sudan border in the remote Halaib Triangle, with plateaus on its north and south sides and steep drop-offs to the east and west.
 
 ## Overview
 
-Elba Reef is a remarkable triangle-shaped reef composed of three distinct plateau systems at varying depths. The reef is located at the northern boundary between Egypt and Sudan, in the isolated Halaib Triangle region. Due to its remoteness and minimal visitor traffic, the reef maintains pristine conditions with abundant coral growth untouched by heavy diving use. The plateaus and deep walls create diverse diving experiences in a single location. Wild shark encounters (grey reef, hammerheads, occasionally others) are regular occurrences due to the reef's pelagic position and strong currents.
+Elba Reef sits at Sudan's northernmost extent, in the Halaib Triangle border area with Egypt. Multiple liveaboard-route descriptions place plateaus on the reef's north and south sides, both running roughly from 20 metres down to around 45 metres, edged with coral fan formations. The east and west sides drop far more steeply, reported at over 100 metres. Because of the reef's remoteness and the disputed status of the surrounding area, it sees very little diving traffic. This listing tracks the reef's overall character; the North Plateau, South Plateau, West Plateau, and East (Southplateau) areas are recorded as separate, more specific site entries in this database. The wreck of the SS Isola di Levanzo lies on the reef's south side (see the separate Levanzo Wreck listing).
 
 ## Site Information
 
@@ -27,17 +27,27 @@ Elba Reef is a remarkable triangle-shaped reef composed of three distinct platea
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 
-## The Three Plateaus
-
-**North Plateau**: Starts at approximately 20 meters and descends to about 45 meters. Massive coral fans line the plateau edge, creating a vertical garden of soft corals and sea fans. This is the deepest and most dramatic plateau.
-
-**South Plateau**: Shallower, runs 5-14 meters with excellent coral blocks 1-2 meters high. Exceptional for night diving, with relaxed nocturnal marine life. Creates an ideal safety stop location.
-
-**West Plateau**: Complementary plateau structure adding diverse diving profiles within the same site.
-
 ## Marine Life
 
-Wild encounters are the hallmark of Elba Reef. Grey reef sharks and hammerheads cruise the deeper plateaus regularly. The reef's pelagic location and minimal diving pressure mean sharks show natural behavior without the wariness seen at heavily dived sites. Large jackfish, barracuda, emperors, and trevally school the currents. Abundant soft corals, sea fans, and hard coral growth throughout. Occasional manta rays, eagle rays, and other large species. The pristine coral and high fish density reflect low diving impact.
+Grey reef sharks are reported along the plateau edges, with hammerheads seen occasionally. No source reviewed gives a full site-specific species list beyond these two shark species plus general reef fish and coral communities; earlier, more elaborate marine-life claims (manta rays, eagle rays, specific fish counts) could not be corroborated and have been removed.
+
+## Dive Profile
+
+Divers typically work the plateau edges at 20-30 metres, where coral fan growth and shark activity concentrate, before deciding whether to follow the wall deeper. The steep east and west drop-offs are for experienced divers only and require strict depth discipline given the open-ended depth below.
+
+## Entry and Exit
+
+Access is exclusively by liveaboard, on extended itineraries that specifically include Elba Reef (often paired with Rocky Island, Zabargad, or St John's on the Egyptian side). Entry and exit are managed by the crew based on current conditions at this exposed, current-influenced reef.
+
+## Tips and Recommendations
+
+- Treat Elba Reef as a multi-dive site — the north, south, east and west faces each have a different character
+- Confirm with your operator which specific plateau/face you'll be diving, since conditions vary significantly between them
+- This is one of the least-dived reefs in the Red Sea; exercise extra care with the coral given its pristine condition
+
+## Safety Considerations
+
+The remote location means very limited emergency support. Currents can be strong, especially on the west face. The reef's edges drop well beyond recreational limits in several places — always dive with a firm depth limit and a buddy, and carry a high-visibility SMB.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Divebooker — Discovering Elba Reef](https://divebooker.com/blog/discovering-the-hidden-gem-of-the-red-sea-diving-elba-reef/), [Seawolf Safari — Elba Reef](https://www.seawolf-safari.de/divesite/elba-reef), [Royal Evolution — Elba Reef](https://royalevolution.com/diving-in-egypt/elba-reef/). Last updated 2026-07-02.*

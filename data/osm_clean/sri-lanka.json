@@ -1,23 +1,5 @@
 [
   {
-    "name": "Scuba Lanka",
-    "lat": 8.6104972,
-    "lon": 81.2190131,
-    "osm_id": 2896874870,
-    "osm_type": "node",
-    "depth": 18,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Scuba Lanka",
-      "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research",
-      "depth_range": "10-18m"
-    }
-  },
-  {
     "name": "Bar Reef",
     "lat": 8.3673231,
     "lon": 79.7463453,
@@ -29,7 +11,7 @@
     "difficulty": "Beginner",
     "tags": {
       "depth": "2-8",
-      "depth_range": "2-40m (varies by location)",
+      "depth_range": "2-8m (deeper outer sections nearby reach ~40m)",
       "name": "Bar Reef",
       "natural": "reef",
       "reef": "coral",
@@ -38,7 +20,8 @@
       "coral_species": 156,
       "fish_species": 283,
       "validated": true,
-      "validation_source": "web_research"
+      "validation_source": "kalpitiyatours.com,ecoteam.lk,myceylonadventures.com,extremenomads.life",
+      "last_qa_date": "2026-07-02"
     }
   },
   {
@@ -47,7 +30,7 @@
     "lon": 79.6940893,
     "osm_id": 4055852991,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 17,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -58,9 +41,12 @@
       "sport": "scuba_diving;snorkelling",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "region": "Kalpitiya"
+      "depth_range": "14-17m (two reef sections, locally called Anchor Point Reef 1 and 2)",
+      "validated": false,
+      "validation_source": "kalpitiyatours.com,scubadivingkalpitiya.com",
+      "region": "Kalpitiya",
+      "last_qa_date": "2026-07-02",
+      "qa_note": "Only 2 independent site-specific domains found (below the 3-source bar). The prior description's 'old anchors/chains from the spice trade' origin story and its whale-shark claim were not supported by any source found and have been removed."
     }
   },
   {
@@ -78,9 +64,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Cave/cavern system near Unuwatuna with swim-throughs, 10-25m. Advanced training required for safe passage. Tropical fish and invertebrate macro life. Light penetration through cave openings. Requires cave diving certification."
+      "validated": false,
+      "validation_source": "pearldiverslk.com",
+      "last_qa_date": "2026-07-02",
+      "qa_note": "Only 1 source found. This node sits ~150m from 'Gala pita gala dive site' and may be the same real-world site or a duplicate OSM entry for a small cave feature (pearldiverslk.com describes a 3m cave at 15-20m within that complex). Prior fabricated claims (crustacean census, generic '16 dive sites 6-32m' filler, tidal-current advice) were unsourced and have been removed. Depth/type/difficulty left unchanged pending further sourcing."
     }
   },
   {
@@ -89,8 +76,8 @@
     "lon": 80.2385992,
     "osm_id": 9448790420,
     "osm_type": "node",
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 25,
+    "site_type": "pinnacle",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
@@ -98,9 +85,11 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Shore reef near Unuwatuna with local name, 5-18m. Intermediate reef exploration with tropical fish, nudibranchs, and invertebrates. Good visibility (15-20m) in calm conditions. Popular local dive site."
+      "validated": true,
+      "validation_source": "padi.com,pearldiverslk.com,adrenaline.lk",
+      "last_qa_date": "2026-07-02",
+      "description": "Rock pinnacle off Unawatuna: a stack of boulders divers circle from roughly 10m at the top down to 25m at the base. Soft and fan corals on the rock; nudibranchs, shrimp, angelfish, butterflyfish, triggerfish, parrotfish and giant trevally reported at the site.",
+      "qa_note": "Reclassified from 'reef' to 'pinnacle' and depth corrected from 18m to 25m based on source consensus. Generic 'sharks, whales, dolphins, turtles' boilerplate (repeated identically across unrelated PADI site pages) removed from marine life."
     }
   },
   {
@@ -109,7 +98,7 @@
     "lon": 80.047307,
     "osm_id": 9448792092,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 21,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -119,9 +108,15 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Wreck site near Galle with tropical fish and reef life, depths 15-20m. Intermediate wreck exploration in warm Indian Ocean waters. Coral encrustation and marine growth. Good visibility (18-25m)."
+      "validated": true,
+      "validation_source": "archaeology.lk,padi.com,mass.cultureelerfgoed.nl,internationaldivingschool.com",
+      "last_qa_date": "2026-07-02",
+      "vessel_name": "SS Conch",
+      "builder": "W. Gray & Co., Stockton",
+      "build_year": 1892,
+      "tonnage_tons": 3555,
+      "depth_range": "14-21m depending on section (bow shallower, main wreck deeper); operators typically cite ~20m",
+      "qa_note": "Cross-checked across 4 independent domains. Sinking date conflict noted in description (2 vs 3 June 1903). Precise sinking cause has a minority 'explosion/dynamite' theory in one maritime-heritage source; primary account (2+ sources) is grounding on Akurala reef. Dimensions (338.4x43x26.4ft) appear in 2 sources but both may trace to the same original registry record, so kept out of prose as single-lineage data."
     }
   },
   {
@@ -140,9 +135,10 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Southern coast wreck site with shallow depths (12-15m) ideal for intermediate divers. Well-preserved structure with tropical fish, nudibranchs, and marine invertebrates. Excellent light penetration and photography opportunities."
+      "validated": false,
+      "validation_source": "none_found",
+      "last_qa_date": "2026-07-02",
+      "qa_note": "OSM charts this location (off Negombo, west coast) as a wreck (historic=wreck, seamark:type=wreck), but no dive shop, ScubaBoard, Wikipedia, or maritime-database source could be found naming a vessel 'Carreg' or corroborating any history for it, despite checking archaeology.lk's Sri Lanka shipwreck database and multiple Negombo-area dive operator site lists. The prior description's vessel identity, penetration claim, and marine life list were unsourced fabrications and have been removed. Prior text also mislocated the site 'near Hikkaduwa' (south coast); actual coordinates are off Negombo, ~150km further north."
     }
   },
   {
@@ -151,18 +147,21 @@
     "lon": 79.7823526,
     "osm_id": 9448835284,
     "osm_type": "node",
-    "depth": 12,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Goddamahagale dive site",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Shore-accessible reef on southern coast with local name, depths 5-12m. Intermediate reef exploration with tropical fish, corals, and macro life. Warm water (27-30C) and good visibility (18-25m)."
+      "validated": true,
+      "validation_source": "negombodivingcentre.com,travel-buddies.com,srilanka-divingtours.com",
+      "last_qa_date": "2026-07-02",
+      "depth_range": "12-15m",
+      "description": "Locally known as Goda Maha Gala, a rocky reef roughly 6-7km offshore from Negombo. Snappers, lobsters, black coral and moray eels reported.",
+      "qa_note": "Entry type corrected from 'shore' to 'boat' (sources place the site 6-7km offshore). Depth corrected from a flat 12m to the sourced 12-15m range."
     }
   },
   {
@@ -182,11 +181,12 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "web_research",
+      "validation_source": "divinguru.com,pearldiverslk.com,grokipedia.com",
       "depth_range": "5-18m",
       "water_temp": "27-30C",
       "visibility": "10-25m",
-      "known_wrecks": "SS Rangoon"
+      "known_wrecks": "SS Rangoon (separate nearby wreck site, not physically part of this reef)",
+      "last_qa_date": "2026-07-02"
     }
   }
 ]

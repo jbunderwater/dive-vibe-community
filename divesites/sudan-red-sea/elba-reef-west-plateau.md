@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Elba Reef, West-Plateau
 
-Elba Reef's West Plateau is the third of the four distinct dive zones on Elba Reef, presenting deep wall diving on the reef's western flank at Sudan's northern frontier. Like the other Elba Reef sites, it sees almost no regular diving traffic due to the remote location in the disputed Halaib Triangle, resulting in pristine coral and undisturbed marine life.
+The West Plateau is the current-exposed western face of Elba Reef, dropping to around 32 metres and generally regarded as the reef's most current-influenced dive.
 
 ## Overview
 
-The West Plateau faces into the prevailing Red Sea currents from the northwest, making it the most current-influenced of Elba Reef's dive sites. This current exposure drives exceptional marine productivity — nutrient-rich water feeds dense fish populations and attracts the large pelagics that follow them. The wall descends steeply to 32 metres at the recreational limit, with sea fans and hard corals covering the face throughout. Compared to the North Plateau's dramatic depth, the West Plateau offers a more accessible advanced dive that still delivers the outstanding coral coverage and shark encounters characteristic of this remote atoll. Divers visiting Elba Reef typically dive all four plateau sites over two days to experience the full character of the reef.
+Route descriptions for Elba Reef note that its eastern and western sides drop more steeply than the north/south plateaus, with the west face taking the brunt of prevailing currents. That current exposure is reported to support strong schooling-fish activity. This listing's 32-metre depth sits at the shallower end of what operators describe for the west side; deeper sections continue well beyond recreational limits. As with the rest of Elba Reef, diving pressure here is very low due to the remote, disputed-border location.
 
 ## Site Information
 
@@ -26,37 +26,28 @@ The West Plateau faces into the prevailing Red Sea currents from the northwest, 
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 25-40+ meters (80-130+ feet)
-- **Current**: Moderate to strong
-- **Best Time**: March to November
 
 ## Marine Life
 
-The west-facing exposure means strong, consistent currents that attract significant aggregations of schooling fish. Large schools of jacks, fusiliers, and surgeonfish are almost always present at current-exposed reef points. Grey reef sharks patrol the wall edge regularly. The hard coral coverage on the plateau and upper wall is intact and highly developed — table corals, brain corals, and branching staghorns grow in healthy formations. Sea fans and soft corals line the deeper wall sections from 20-32 metres. Napoleon wrasse are resident and approachable, along with large groupers and moray eels in crevices throughout.
+Grey reef sharks are reported along the wall, consistent with the wider Elba Reef pattern; strong currents on the west face are described as supporting schooling reef fish. No independently corroborated site-specific species list beyond this general characterisation was found; earlier detailed species claims have been trimmed accordingly.
 
 ## Dive Profile
 
-Enter upstream and drift along the west wall face, descending to 20-25 metres for the optimal balance of current, fish activity, and coral exploration. More experienced divers can explore to 32 metres on the deeper wall sections. The plateau surface above 20 metres offers easier navigation with good hard coral coverage. Complete the drift to a natural reef exit point, then ascend for the safety stop. The dive guide will plan entry and exit points based on current direction.
+Enter upstream of the plateau and drift along the west wall, working the 20-25 metre range for the best balance of current, coral, and fish activity. More experienced divers can continue deeper toward 32 metres on the wall face. Current strength should be assessed before committing to the deeper sections.
 
 ## Entry and Exit
 
-Access is by liveaboard dive boat. Current-assisted drift dives require close coordination between the dive guide and the surface crew. Entry point is upstream of the main plateau; exit and SMB signalling are downstream. The remote location requires high-visibility SMBs for reliable surface tracking.
+Reached by liveaboard; current-assisted drift entry/exit requires close coordination between the dive guide and surface crew, more so than on Elba Reef's sheltered south side.
 
 ## Tips and Recommendations
 
-- Assess current strength at depth before committing to the deeper sections
-- The west face tends to have the strongest currents of the Elba Reef system — build up with the shallower south plateau first
-- Hard coral formations on the upper plateau reward careful, slow exploration between drift sections
-- Bring a dive torch for examining the underside of table corals and crevices
-- Underwater camera wide-angle setup works well for the reef wall and schooling fish
+- Assess current strength before descending to the deeper wall sections
+- Build up to the west plateau after diving the calmer south plateau first
+- A high-visibility SMB is essential given the drift-diving profile
 
 ## Safety Considerations
 
-Strong currents require continuous buoyancy awareness throughout the dive. The deep wall drops below recreational limits — do not chase marine life deeper than your planned maximum. Fire coral on the wall surface and table coral edges requires good buoyancy control. The remote location means emergency support is limited; dive conservatively and within your proven experience range. Always carry an SMB and deploy before ascending.
-
-## Photography
-
-The west wall with its current-exposed schooling fish provides excellent wide-angle action shots. The hard coral plateau top photographs well in natural light as a reef landscape. Deeper sea fans at 25-30 metres are strong subjects against the blue water background.
+Currents are the defining hazard here — maintain buoyancy awareness throughout and do not chase marine life deeper than your planned maximum. The remote location means emergency support is limited; dive within your proven experience range.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Divebooker — Discovering Elba Reef](https://divebooker.com/blog/discovering-the-hidden-gem-of-the-red-sea-diving-elba-reef/), [Seawolf Safari — Elba Reef](https://www.seawolf-safari.de/divesite/elba-reef), [Royal Evolution — Elba Reef](https://royalevolution.com/diving-in-egypt/elba-reef/). Last updated 2026-07-02.*

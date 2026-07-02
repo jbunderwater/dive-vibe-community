@@ -3,8 +3,8 @@ name: Bat Cave (St. Vincent)
 lat: 13.199
 lng: -61.2758
 difficulty: Advanced
-maxDepth: 10
-entryType: boat
+maxDepth: 24
+entryType: both
 siteType: cave
 ref: null
 osmId: null
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Bat Cave (St. Vincent)
 
-Bat Cave (St. Vincent) is a cave dive site in St. Vincent and the Grenadines, Caribbean.
+Also known as Byahaut Bat Cave, this is a half-submerged coastal cave near Buccament Bay, home to a resident colony of bats, that divers pass through via a narrow underwater passage.
 
 ## Overview
 
-The Bat Cave at Buccament Bay is one of St. Vincent's most exhilarating dives: a surface swim leads into a darkened cavern home to hundreds of bats, then you submerge and drop down a four-foot-wide chasm some 15 meters deep before exiting through a narrow passage into open water on the other side of the headland. The cave is shallow and the swim-through is short, but the combination of the live bat colony overhead and the brilliant blue light at the tunnel's end makes it a bucket-list dive on the island.
+Divers make a surface swim into the mouth of the cave, where the bat colony can be seen and heard overhead, then descend through a narrow chasm before exiting through a passage on the far side of the headland into open water. Depth figures vary by source: Wannadive's structured data lists a 10m average and 24m maximum, while several independent diver accounts describe the chasm itself dropping to roughly 15m (50ft) — we list the higher confirmed maximum but flag the range here rather than picking one figure. The site is reachable by both a short boat ride (under 10 minutes) and directly from shore. According to local accounts repeated across several visitor reviews, the passage is a roughly 250-year-old, ~300-foot man-made tunnel cut through sandstone, originally used to move goods — we have not found a higher-reliability historical source to confirm the exact age or original purpose, so this is presented as local lore rather than verified history. The dive should be done at high tide, and dive lights are required due to low visibility inside the cave.
 
 ## Site Information
 
 - **Location**: St. Vincent and the Grenadines, Caribbean
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore or boat entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 10 meters
+- **Maximum Depth**: 24 meters
 
 ## Marine Life
 
-The cave environment shelters glassy sweepers, bigeye fish, and spiny lobsters that crowd the low-light interior, while a live colony of bats roosts in the cavern overhead. On the open-water exit side of the tunnel, cleaner wrasse stations, yellowtail snappers, and small parrotfish use the cave entrance as a safe refuge, and the occasional hawksbill turtle or nurse shark is spotted resting outside the passage.
+The one well-documented feature of this site is its resident bat colony, roosting in the cavern above the water. We did not find any source confirming specific fish or invertebrate species inside or around the cave — earlier text on this page named glassy sweepers, bigeye fish, spiny lobsters, cleaner wrasse, yellowtail snappers, small parrotfish, hawksbill turtles, and nurse sharks, none of which were confirmed by a site-specific source, and these have been removed.
 
 ---
-*Sources: [zentacle.com - Bat Cave St Vincent](https://zentacle.com/), [wannadive.net - Bat Cave](https://www.wannadive.net/), [bluewater.com - SVG Cave Diving](https://www.bluewaterdivetravel.com/), [tripadvisor.com - Bat Cave Reviews](https://www.tripadvisor.com/). Last updated 2026-05-24.*
+*Sources: [Zentacle - Bat Cave](https://www.zentacle.com/Beach/12553/bat-cave), [Wannadive](https://www.wannadive.net/spot/Central_America/St_Vincent_Grenadines/St_Vincent/Bat_cave/index.html), [TripAdvisor - Byahaut Bat Cave](https://www.tripadvisor.com/Attraction_Review-g147380-d150155-Reviews-Byahaut_Bat_Cave-St_Vincent_St_Vincent_and_the_Grenadines.html), [Discover SVG](https://discoversvg.com/what-to-do/diving-snorkelling/). Last updated 2026-07-02.*

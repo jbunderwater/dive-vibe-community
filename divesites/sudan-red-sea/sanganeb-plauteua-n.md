@@ -2,8 +2,8 @@
 name: Sanganeb Plauteua N
 lat: 19.7788503
 lng: 37.4465546
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,51 +13,42 @@ addedBy: osm_import
 
 ## Sanganeb Plateau N
 
-Sanganeb North Plateau is one of the signature dives at Sanganeb Atoll — Sudan's most iconic reef and the only offshore atoll in the northern and central Red Sea. The north plateau marks the lighthouse end of the atoll, where vertical walls drop from the surface into the deep blue and hammerhead sharks are regularly encountered circling just beyond the reef edge.
+Sanganeb North Plateau is a signature dive on Sanganeb Atoll, Sudan's most iconic reef and a UNESCO World Heritage Site since 2016 (inscribed jointly with Dungonab Bay-Mukkawar Island Marine National Park).
 
 ## Overview
 
-Sanganeb Atoll sits approximately 25 km northeast of Port Sudan, a solitary oval reef rising from deep water and crowned by a navigational lighthouse built by the British in 1870. The atoll is surrounded on all sides by vertical walls that plunge hundreds of metres into the open Red Sea, making it one of the most dramatic reef structures in the world. The North Plateau is exposed to open-ocean currents from the north, which brings exceptional water clarity and creates the conditions that attract large pelagic species. Hammerhead sharks are the headline encounter, but the biodiversity across the wall is extraordinary — from the coral-covered plateau at 10-15 metres to the soft coral-draped walls descending to depth. Sanganeb is a UNESCO World Heritage Site and national marine park, protecting it from most commercial fishing pressure.
+Sanganeb Atoll sits roughly 25km northeast of Port Sudan, a solitary oval reef rising from around 800 metres of water and marked by a British-built lighthouse (its exact construction date could not be independently confirmed and is not stated here). The North Plateau benefits from frequent northerly current and is structured as a three-stepped plateau: a first ledge in shallow water at 3-4 metres, a second stage beginning around 25 metres, with the bottom dropping to about 30 metres before turning into a steep wall. The wall is richly vegetated with soft coral and large gorgonian fans, and the outer drop-offs feature caves and gullies. Sanganeb's reef system supports around 86 recorded coral species and 251 recorded reef fish species.
 
 ## Site Information
 
-- **Location**: Sanganeb Atoll, 25 km northeast of Port Sudan
+- **Location**: Sanganeb Atoll, ~25km northeast of Port Sudan
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Protected Status**: UNESCO World Heritage Site (inscribed 2016)
 
 ## Marine Life
 
-Scalloped hammerhead sharks are the most celebrated residents, typically encountered cruising the outer wall at 15-20 metres or deeper during morning dives. Grey reef sharks are a constant presence on the plateau edge. Oceanic whitetip sharks appear in the open water off the wall with some regularity. Schools of barracuda and bigeye trevally aggregate at the current-exposed north point. Napoleon wrasse and large groupers inhabit the reef face. The plateau surface is dense with hard corals, sea fans, and anthias in vivid clouds. Eagle rays and manta rays visit on occasion.
+Large schools of barracuda, jacks, mackerel and snapper are regularly reported. Whitetip and grey reef sharks are a consistent presence; hammerhead sharks are reported at greater depth (around 40m). Across the wider Sanganeb reef system, roughly 86 coral species and 251 reef fish species have been recorded — a park-wide figure rather than a claim specific to the North Plateau alone.
 
 ## Dive Profile
 
-Descend along the lighthouse wall to 15-20 metres and drift north along the outer reef face. Watch the blue water beyond the reef edge for hammerheads approaching from depth. The plateau shallows toward 10 metres and is covered with healthy hard corals and schooling reef fish. For stronger hammerhead encounters, experienced divers can sit deeper on the wall edge around 20 metres and watch the blue. Complete the dive with a circuit of the plateau surface before ascending to the safety stop.
+Descend along the lighthouse-end wall to the second plateau step (~25m) and work along the outer face, watching the blue water beyond the wall for hammerhead passes at depth. Shallower sections toward the 3-4m first ledge offer an easier finish and safety-stop area.
 
 ## Entry and Exit
 
-Sanganeb is reached by liveaboard or day boat from Port Sudan. Entry is by giant stride or back roll on the north face. The drift along the wall is monitored by the boat, which follows divers and picks up at the downstream end following an SMB-signalled safety stop. The lighthouse jetty provides an optional reference point for orientation.
+Reached by liveaboard or day boat from Port Sudan. Entry is typically a giant stride or back-roll on the north face, with the boat tracking divers along the wall for pickup.
 
 ## Tips and Recommendations
 
-- Morning dives are consistently better for hammerhead encounters — plan your first dive here
-- Hover at the reef edge at 15-20 metres and watch blue water; avoid descending below recreational limits chasing sharks
-- The lighthouse structure above water is a useful landmark for surface orientation
-- Visit the south and west walls on subsequent dives for different reef characters
-- Sanganeb is diveable day-tripping from Port Sudan as well as by liveaboard
-- Night dives on the plateau surface reveal lionfish hunting and cephalopod activity
+- The three-stepped plateau structure means depth increases in stages — use each step as a reference point
+- Hammerhead sightings require watching deeper water beyond recreational limits; don't chase them past your planned maximum depth
+- The lighthouse is a useful surface landmark for orientation
 
 ## Safety Considerations
 
-The open-ocean position creates strong and variable currents — particularly at the north point where the two wall faces converge. Monitor drift direction carefully and stay close to the wall for shelter when current intensifies. The wall drops steeply beyond the plateau edge; depth gauge monitoring is essential. Fire coral on the plateau is abundant. Always deploy an SMB during the safety stop; the exposed position makes surface pickups reliant on proper signalling.
-
-## Photography
-
-The north point of Sanganeb is prime wide-angle territory. Hammerheads photographed against the deep blue from below create dramatic silhouette images. The wall face between 10-20 metres photographs well in natural light during morning dives. Schooling fish tornadoes at the current point offer swirling wide-angle compositions. Macro subjects on the plateau surface include nudibranchs, cleaner shrimp stations on coral heads, and moray eel portraits.
+The open-ocean position creates strong, variable currents, particularly where the plateau steps meet the wall. Monitor depth continuously — the wall drops steeply beyond the mapped plateau steps. Fire coral is present on the shallow ledges. Deploy an SMB during the safety stop given the exposed position.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [PADI — Sanganeb Reef](https://www.padi.com/dive-site/sudan/sanganeb-reef/), [Royal Evolution — Sanganeb Atol](https://royalevolution.com/diving-in-sudan/sanganeb-atol/), [UNESCO World Heritage Centre — Sanganeb Marine National Park and Dungonab Bay](https://whc.unesco.org/en/list/262/). Last updated 2026-07-02.*

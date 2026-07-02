@@ -17,7 +17,7 @@ Maria Island Reef lies in the waters off the Maria Islands Nature Reserve near V
 
 ## Overview
 
-The Maria Islands (also spelled Marie Islands) form a nature reserve off the south coast of St. Lucia near Vieux Fort. OSM data confirms a reef in this area. However, no dive-specific sources have been independently verified for the dive site itself under the name "Maria Island Reef" — it does not appear in regional dive operator listings or major dive databases. The nature reserve is ecologically significant, and reef diving in the area is plausible, but specific details about depth, marine life, and dive conditions cannot be confirmed without primary dive sources. Divers interested in this site should inquire with local St. Lucia operators based in Vieux Fort for current access and conditions.
+The Maria Islands (also spelled Marie Islands) form a nature reserve off the south coast of St. Lucia near Vieux Fort. OSM data confirms a reef in this area. A 2026-07-02 re-audit found that the Saint Lucia National Trust, which manages the reserve, describes "a coral reef ideal for snorkeling or diving" off a small beach on the islands — confirming reef-diving activity happens near Maria Islands in general terms. Access to the reserve is guide-only and closed to visitors from May through August each year for seabird nesting season, which is a different access model than a standard commercial boat-dive site. No operator or dive database independently lists a specific dive site named "Maria Island Reef" with its own depth, marine-life, or condition details, so specific claims about this site remain unconfirmed. Divers interested in this area should inquire with local St. Lucia operators based in Vieux Fort and the Saint Lucia National Trust for current access and conditions.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ The Maria Islands (also spelled Marie Islands) form a nature reserve off the sou
 - **Maximum Depth**: 15 meters
 
 ---
-*Description based on OSM data (OSM way 1022427960) and St. Lucia National Trust nature reserve records. No site-specific dive sources found. Last updated 2026-05-24.*
+*Description based on OSM data (OSM way 1022427960) and Saint Lucia National Trust nature reserve records (saintlucianationaltrust.com). No dive-site-specific source found for "Maria Island Reef" by name. Last updated 2026-07-02.*

@@ -29,7 +29,7 @@ Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastan
 
 ## Marine Life
 
-Large schools of horse-eye jacks, Bermuda chubs, and Creole wrasse crowd the sheltered boulder nooks, while hawksbill turtles and southern stingrays are regularly encountered in the reef's crevices. Octopuses are a notable highlight here, and the nutrient-flushed reef supports unusually vivid corals and sponges that give the site its name and provide habitat for parrotfish, chromis, and angelfish.
+Large schools of horse-eye jacks, Bermuda chubs, and Creole wrasse crowd the sheltered boulder nooks, while hawksbill turtles and southern stingrays are regularly encountered in the reef's crevices. Octopuses are a notable highlight here — the site is described as a breeding ground for them — and The Moorings' dive guide additionally confirms lobsters and flounders at this site. The nutrient-flushed reef supports unusually vivid corals and sponges that give the site its name and provide habitat for parrotfish, chromis, and angelfish.
 
 ---
-*Sources: [divesaintlucia.com - Fairyland](https://www.divesaintlucia.com/), [smmainc.com - SMMA Dive Sites](https://www.smmainc.com/), [scubadiving.com - St Lucia Dive Sites](https://www.scubadiving.com/). Last updated 2026-05-24.*
+*Sources: [Dive Saint Lucia - Fairyland](https://www.divesaintlucia.com/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [Scuba Diving Magazine - St Lucia Dive Sites](https://www.scubadiving.com/), [The Moorings - Best Scuba Diving in St. Lucia](https://www.moorings.com/blog/best-diving-st-lucia). Last updated 2026-07-02.*

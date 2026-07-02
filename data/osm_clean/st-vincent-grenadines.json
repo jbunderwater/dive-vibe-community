@@ -11,16 +11,16 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "zentacle.com,thediveglobe.com,tobagocaysmarine.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Tobago Cays Marine Park confirmed. Horseshoe Reef confirmed. Hawksbill turtles confirmed as defining feature of TCMP. Depth 12m confirmed as max for Horseshoe Reef."
+      "validation_source": "tobagocays.org,thediveglobe.com,zentacle.com",
+      "last_qa_date": "2026-07-02",
+      "qa_notes": "Re-audited 2026-07-02. Prior validation_source cited 'tobagocaysmarine.com', which does not resolve to a real, reachable site (the official domain is tobagocays.org / tobagocaysmarinepark.com) - replaced. Confirmed via tobagocays.org: four-kilometer Horseshoe Reef, green/hawksbill/leatherback turtle feeding & nesting grounds, turtles 'practically guaranteed' near Baradal. Confirmed via general TCMP dive research: nurse sharks and eagle rays common in the Horseshoe lagoon area; outer edge of Horseshoe Reef offers drift dives along walls. Depth 12m / Beginner / boat entry consistent with 'shallow, easier dives' characterization of in-lagoon diving. No factual errors found; description tightened to avoid overstating outer-wall species as guaranteed."
     }
   },
   {
     "name": "The Wall (Bequia)",
     "lat": 12.9843,
     "lon": -61.2594,
-    "depth": 30,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -28,9 +28,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "divebequia.com,zubludiving.com,bluewater.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Wall dive at southern tip of Bequia (West Cay) confirmed by Dive Bequia and ZuBlu. Coordinate confidence medium - geographic inference from West Cay. Depth 30m confirmed as Advanced."
+      "validation_source": "divebequia.com,tripadvisor.com,thediveglobe.com",
+      "last_qa_date": "2026-07-02",
+      "qa_notes": "Re-audited 2026-07-02. DEPTH CORRECTED 30m -> 40m: Dive Bequia (local operator, highest-priority source) lists the site as 40m/130ft; theDiveGlobe separately lists a shallower max of 30m/avg 18m - conflict noted in markdown rather than silently resolved. MARINE LIFE CORRECTED: previous text listed creole wrasse, blue tangs, moray eels, spiny lobsters, black coral as generic padding with no confirming source. Dive Bequia confirms barracuda, spiny lobsters, lionfish, green moray eels, turtles, reef sharks, Atlantic spadefish, nurse sharks, black jack, eagle rays, tarpon, and seahorses (at Middle/Big Cay); replaced unconfirmed species with these. Location (West Cay, southern tip of Bequia), Advanced-only certification requirement, and current-driven route to Middle Cay confirmed by Dive Bequia and Tripadvisor."
     }
   },
   {
@@ -45,9 +45,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "divestvincent.com,tripadvisor.com,divessi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Anchor Reef confirmed by Dive St Vincent: starts at 30ft (9m), drops to 120ft (36m) wall with swim-throughs and 18th century anchor. Located north of Layou on leeward coast."
+      "validation_source": "divestvincent.com,tripadvisor.com,thediveglobe.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-07-02",
+      "qa_notes": "Re-audited 2026-07-02. Depth 9m-36m (30ft-120ft) reconfirmed by divestvincent.com-derived text repeated across multiple aggregators; theDiveGlobe separately reports a shallower max 30m/avg 18m and rates it Beginner - conflict now noted in markdown, difficulty kept at Intermediate given the majority of sources describe a 36m wall requiring more than beginner skill. Marine life corrected: bluewaterdivetravel.com confirms eels, squid, seahorses among gorgonians; divestvincent-derived sources confirm frogfish, black coral, swim-throughs. Removed unconfirmed 'longsnout seahorses' (just 'seahorses' is sourced) and unconfirmed barracuda/hawksbill-turtle site-specific claims - these were regional padding. Replaced dropped source divessi.com (no site-specific content found) with thediveglobe.com and bluewaterdivetravel.com, both confirmed with real content."
     }
   },
   {
@@ -62,26 +62,26 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "divestvincent.com,divetrainingmag.com,bluewater.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Named for bottles tossed from Fort Charlotte cliffs above (confirmed by Dive St Vincent). Located below Fort Charlotte on leeward coast. Max depth reported as 22-25m depending on source."
+      "validation_source": "divestvincent.com,caradonna.com",
+      "last_qa_date": "2026-07-02",
+      "qa_notes": "Re-audited 2026-07-02. UNRESOLVED - only 2 independent domains found with site-specific content (divestvincent.com and caradonna.com both confirm the Fort Charlotte bottle-tossing origin story); a 3rd was not found despite searching zentacle, PADI, Wannadive, TripAdvisor, and dive shop sites. Previous validation_source cited 'divetrainingmag.com', which does not exist (Dive Training Magazine's real domain is dtmag.com) - this was a fabricated/incorrect citation and has been removed. MARINE LIFE STRIPPED: red-lipped batfish, flying gurnards, seahorses, frogfish, yellowhead jawfish, electric rays, and peacock flounders had no site-specific source (only regional 'critter capital' generalities) - replaced with an explicit statement that no site-specific marine life reports were found. Fort Charlotte's 1806 completion date confirmed via Wikipedia. Left validated=true since the origin-story facts remain confirmed by 2 sources, but flagged as needing a 3rd source before being considered fully deep-QA'd."
     }
   },
   {
     "name": "New Guinea Reef",
     "lat": 13.1678,
     "lon": -61.2182,
-    "depth": 14,
+    "depth": 45,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "zentacle.com,divestvincent.com,bluewater.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Originally had only 1 source (Zentacle). Koordinate confirmed via Zentacle (13.167768, -61.218219). Also known as Questelles Reef. Located near Questelles on leeward coast."
+      "validation_source": "zentacle.com,divestvincent.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-07-02",
+      "qa_notes": "Re-audited 2026-07-02. DEPTH CORRECTED 14m -> 45m: Zentacle's Questelles/New Guinea Reef entry and divestvincent-derived text both describe the terraced slope dropping from 9m (30ft) at the inner bay to 45m (150ft) at the sandy bottom - the prior 14m figure had no supporting source and understated the site. DIFFICULTY CORRECTED Beginner -> Intermediate given the confirmed depth range and a current-swept point (up to 2 knots per Zentacle); most recreational diving stays in the shallower 9-20m terraces. Marine life corrected: black coral (3 species, 6 colors) and pink/scarlet encrusting sponges plus branching vase sponges confirmed by 2+ sources. Removed unconfirmed parrotfish/chromis/damselfish/hawksbill turtles/moray eels - no source ties these species to this specific site."
     }
   },
   {
@@ -96,9 +96,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "padi.com,bluewater.com,divestvincent.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. PADI dive site database confirms coordinates (13.129897, -61.203600). Muck dive site in shadow of Fort Duvernette near Young Island confirmed. Flying gurnards, frogfish, seahorses confirmed as target species on volcanic sand bottom."
+      "validation_source": "buckettripper.com,divestvincent.com,bluewaterdivetravel.com,padi.com",
+      "last_qa_date": "2026-07-02",
+      "qa_notes": "Re-audited 2026-07-02. PADI confirms coordinates (13.12990, -61.20360) matching our data, but categorizes the site as 'Reef' with generic 'Sharks, Whales, Dolphins, Turtles' - this reads as boilerplate PADI database defaults, not site-specific, and was disregarded in favor of divestvincent.com/buckettripper.com's specific 'muck dive' characterization (site sits in a seagrass bed at ~35ft/10.7m in the shadow of Fort Duvernette, east side of Young Island, ~600ft off Villa Beach). Marine life reconfirmed and cross-corroborated by 2 independent sources (buckettripper.com and bluewaterdivetravel.com both list flying gurnards, frogfish, goldspotted eel, arrow shrimp, blenny/gobies); buckettripper.com additionally confirms yellowhead jawfish, nimble spray crabs, snake eels, fanworms, razorfish, red-banded lobster. No changes to depth/difficulty/site_type - all confirmed."
     }
   },
   {
@@ -113,9 +113,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "diveboard.com,tobagocaysmarine.com,bluewater.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Coordinates confirmed via Diveboard (12.6366, -61.3884). Expansive coral reef between Tobago Cays and Mayreau confirmed. Drift dive character, crinoids, garden eels, flamingo tongues confirmed."
+      "validation_source": "diveboard.com,tobagocays.org,bluewaterdivetravel.com,tripadvisor.com",
+      "last_qa_date": "2026-07-02",
+      "qa_notes": "Re-audited 2026-07-02. Coordinates reconfirmed via Diveboard (12.6366, -61.3884). tobagocays.org confirms Mayreau Gardens is one of the three most popular TCMP dive sites (with Horseshoe Reef and World's End Reef). Marine life corrected: bluewaterdivetravel.com confirms crinoids, garden eels, and flamingo tongues; TripAdvisor forum threads confirm file fish, lobsters, stingrays, occasional sharks (species unspecified) and occasional hawksbill turtles, plus a gentle-to-occasionally-strong drift current. Removed unconfirmed horse-eye jacks, creole wrasse, spotted eagle rays, queen angelfish, and moray eels - regional padding not tied to this specific site by any source found."
     }
   },
   {
@@ -130,9 +130,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "psvresort.com,padi.com,bluewater.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. PSV Resort dive center confirmed. Reef on leeward (west) side of Petit St. Vincent island. Coordinate is geographic inference from island coordinates - confidence medium."
+      "validation_source": "mission-blue.org,philipstephensonfoundation.org,petitstvincent.com,discoversvg.com",
+      "last_qa_date": "2026-07-02",
+      "qa_notes": "Re-audited 2026-07-02. Previous validation_source cited 'psvresort.com', which does not resolve to a real/matching site (the resort's actual domain is petitstvincent.com) - replaced. NAMING CAVEAT ADDED: discoversvg.com (official SVG tourism board) names the two main dive sites near PSV as 'Mopion Reef' and 'Pineese Reef' - our generic 'Petit St. Vincent Reef' label appears to be a descriptive catch-all for the area's reef diving rather than one official site name; noted in markdown. Mission Blue Hope Spot designation and the Nov 2017 Sylvia Earle conservation gathering at PSV confirmed via mission-blue.org. Elkhorn coral restoration and >decade-long fishing/anchor restriction confirmed via philipstephensonfoundation.org (source specifies ELKHORN only, not brain/pillar coral as previously written). Jean-Michel Cousteau-operated PADI Five Star dive center confirmed by 2 independent sources (discoversvg.com, scubadiving.com). MARINE LIFE STRIPPED: spotted drum, scorpionfish, flamingo tongue, frogfish, hawksbill turtles, eagle rays, nurse sharks had no site-specific source - replaced with explicit statement that no site-specific marine life reports were found, only the documented biomass recovery from conservation efforts."
     }
   },
   {
@@ -147,26 +147,26 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "bluewater.com,zubludiving.com,mustique-island.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Sloping reef with spotted drums and banded coral shrimp confirmed. Diving based at Endeavour Bay on west/leeward coast. Coordinate confidence medium - geographic inference from Mustique west coast."
+      "validation_source": "mustique-island.com,divemagazine.com,zubludiving.com",
+      "last_qa_date": "2026-07-02",
+      "qa_notes": "Re-audited 2026-07-02. Spotted drums and banded coral shrimp reconfirmed directly by mustique-island.com's own watersports page. Coral restoration programme (Ken Nedimyer-led, tree-nursery method, elkhorn coral thickets) confirmed in detail by DIVE Magazine; that source also confirms squirrelfish, grunts, porcupinefish, trumpetfish, damselfish, angelfish, butterflyfish, eels, sea urchins, lobsters, and octopuses sheltering in the restored elkhorn thickets specifically. Removed unconfirmed parrotfish/barracuda/moray-eel/hawksbill-turtle/southern-stingray claims - no site-specific source found for these; replaced with the confirmed species list. zubludiving.com confirms Mustique's reputation for currents."
     }
   },
   {
     "name": "Bat Cave (St. Vincent)",
     "lat": 13.1879,
     "lon": -61.2692,
-    "depth": 10,
+    "depth": 24,
     "site_type": "cave",
-    "entry_type": "boat",
+    "entry_type": "both",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "zentacle.com,wannadive.net,bluewater.com,tripadvisor.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Coordinates confirmed by Zentacle (13.187933, -61.269167) and Wannadive (13d11.276'N, 61d16.15'W). Half-submerged cave with colony of bats confirmed. Rocky passageway through reef into cliff cave. Surge-affected, rated Advanced."
+      "validation_source": "zentacle.com,wannadive.net,tripadvisor.com,discoversvg.com",
+      "last_qa_date": "2026-07-02",
+      "qa_notes": "Re-audited 2026-07-02. DEPTH CORRECTED 10m -> 24m: Wannadive's structured data lists average depth 10m / maximum depth 24m; diver accounts (TripAdvisor, Facebook) describe descending a chasm to roughly 15m (50ft) before exiting the passage - all three figures are noted in the markdown as a source conflict rather than silently picked. ENTRY TYPE CORRECTED boat -> both: Wannadive explicitly states the site is reachable by both boat (under 10 min) and from shore; Zentacle's listing under 'Beach' corroborates shore access. HISTORY ADDED WITH CAUTION: TripAdvisor reviewer accounts (multiple, independent, but user-generated / local-lore level reliability) describe the passage as a ~250-year-old, ~300ft man-made tunnel cut through sandstone, originally used for moving goods - phrased as 'according to local accounts' rather than verified fact, since no higher-reliability historical source was found. Also known as 'Byahaut Bat Cave'. MARINE LIFE STRIPPED: glassy sweepers, bigeye fish, spiny lobsters, cleaner wrasse, yellowtail snappers, small parrotfish, hawksbill turtles, nurse sharks had no confirming source (only the bat colony itself is well documented) - replaced with explicit statement and kept only the bat colony as confirmed."
     }
   }
 ]

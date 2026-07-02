@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Nag's Head
 
-Nag's Head is a wall dive site in St. Kitts and Nevis, Caribbean.
+Nag's Head, surveyed directly by the Living Oceans Foundation, sits at the southwestern tip of St. Kitts where the Caribbean Sea meets the Atlantic Ocean.
 
 ## Overview
 
-Nag's Head sits at the southwestern tip of St. Kitts where the Caribbean Sea collides with the Atlantic Ocean, creating a current-driven dive over volcanic boulders blanketed in fire coral, sponges, and jumbo sea urchins. Eagle rays feed in the nearby grass beds and frequently glide past the wall, and the strong tidal flow that can intimidate less experienced divers is exactly what brings reef sharks and larger pelagics to this exposed headland.
+Large volcanic boulders have fallen from the surrounding cliffs at Nag's Head to form a mini-wall riddled with small caves, crevices, and channels, with depth ranging from just below the surface down to 70-80 feet (~24m). The Living Oceans Foundation's survey found sheet coral and cactus coral carpeting the vertical boulder faces — corals more typically seen in deeper water — alongside brain corals and star corals, though much of the bottom is covered in fine silt with fleshy macroalgae and cyanobacteria. Notably, the survey found large fish were scarce at this site; the reef instead supports high numbers of coral recruits and juveniles. This is also one of the few sites in the islands with a noticeable drift/current component, which some divers find exciting.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: Southwestern tip of St. Kitts
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Nag's Head sits at the southwestern tip of St. Kitts where the Caribbean Sea col
 
 ## Marine Life
 
-Eagle rays feed in the nearby grass beds and regularly glide past the exposed volcanic boulders, while the strong tidal flow that characterizes this headland draws Caribbean reef sharks and larger pelagics to the site. Southern stingrays and hawksbill turtles are present in calmer sections, and the fire coral and sponge-encrusted boulders support moray eels and spiny lobsters in the crevices at depth.
+Eagle rays feed in the nearby grass beds and are sometimes seen gliding down the wall. Black sea urchins hide in the boulder cracks, and juvenile parrotfish and surgeonfish actively graze the algae on the rocks. Per the Living Oceans Foundation's survey, larger fish were notably absent during their visit — this is a site better known for its coral recruitment and smaller reef life than for pelagic encounters.
 
 ---
-*Sources: [divebuddy.com - Nag's Head](https://www.divebuddy.com/), [prodiversstkitts.com - Nag's Head](https://prodiversstkitts.com/), [mystkittsdivebuddy.com - SE Peninsula Dives](https://mystkittsdivebuddy.com/). Last updated 2026-05-24.*
+*Sources: [Living Oceans Foundation - First Day of Research](https://www.livingoceansfoundation.org/first-day-of-research/), [Divezone - Best Diving Sites in St. Kitts and Nevis](https://divezone.net/diving/st-kitts-and-nevis), [My St Kitts Dive Buddy - Guide to Caribbean Marine Life](https://mystkittsdivebuddy.com/guide-to-caribbean-marine-life/). Last updated 2026-07-02.*

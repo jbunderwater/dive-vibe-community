@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Mayreau Gardens
 
-Mayreau Gardens is a reef dive site in St. Vincent and the Grenadines, Caribbean.
+Mayreau Gardens is one of the three most popular dive sites in Tobago Cays Marine Park, alongside Horseshoe Reef and World's End Reef.
 
 ## Overview
 
-Mayreau Gardens is widely considered the most biodiverse reef system in Tobago Cays Marine Park, where a gentle current sweeps divers past a coral landscape that looks like it was professionally landscaped. Clouds of creole wrasse and horse-eye jacks fill the water column above an expanse of healthy hard corals, flamingo tongues, and crinoids, while hawksbill turtles, spotted eagle rays, and the occasional reef shark pass through on the drift.
+The site is a drift dive between Mayreau and the Tobago Cays where a current — usually gentle but occasionally strong, according to visitor reports — carries divers over a healthy coral landscape. It sits within the same marine-park protections as the rest of Tobago Cays.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Mayreau Gardens is widely considered the most biodiverse reef system in Tobago C
 
 ## Marine Life
 
-Hawksbill turtles, spotted eagle rays, and the occasional Caribbean reef shark are the headline sightings, drifting through the water column above a reef carpeted in flamingo tongues and crinoids. Clouds of creole wrasse and horse-eye jacks fill the mid-water, while parrotfish, queen angelfish, and moray eels are regular residents among the hard coral formations below.
+Bluewater Dive Travel confirms crinoids, garden eels, and flamingo tongues on the reef. Visitor reports on TripAdvisor add file fish, lobsters, stingrays, occasional sharks (species not specified), and occasional hawksbill turtle sightings. Earlier text on this page listed horse-eye jacks, creole wrasse, spotted eagle rays, queen angelfish, and moray eels as regular sightings; we could not confirm any of these for this specific site and have removed them.
 
 ---
-*Sources: [diveboard.com - Mayreau Gardens](https://www.diveboard.com/), [tobagocaysmarine.com - Marine Park Sites](https://tobagocaysmarine.com/), [bluewater.com - Grenadines Diving](https://www.bluewaterdivetravel.com/). Last updated 2026-05-24.*
+*Sources: [Diveboard - Mayreau Gardens](https://www.diveboard.com/explore/spots/saint-vincent-and-the-grenadines/mayreau-island-L6BuaQz/mayreau-gardens-S1FSAIL), [Tobago Cays Marine Park](https://www.tobagocays.org/about/), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [TripAdvisor - Mayreau Gardens](https://www.tripadvisor.com/Attraction_Review-g147386-d150142-Reviews-Mayreau_Gardens-Mayreau_St_Vincent_and_the_Grenadines.html). Last updated 2026-07-02.*

@@ -44,4 +44,4 @@ Shore entry from a beach close to the dive site, within the protected SMMA zone.
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Scuba St. Lucia – Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association – Dive Sites](https://smmainc.com/dive-sites/), [padi.com - St Lucia Coral Gardens](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [Scuba St. Lucia – Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association – Dive Sites](https://smmainc.com/dive-sites/), [PADI - St Lucia Coral Gardens](https://www.padi.com/). Last updated 2026-07-02.*

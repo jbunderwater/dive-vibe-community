@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Mustique Reef
 
-Mustique Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
+Mustique's reefs are the site of a long-running coral restoration programme, based at Endeavour Bay, that has brought elkhorn coral thickets back to a reef that DIVE Magazine described as previously "dying."
 
 ## Overview
 
-Mustique Reef offers sloping coral terrain to around 25 meters on the Grenadines' relatively undisturbed leeward reefs, where coral nursery programmes established in recent years are actively replanting brain coral and elkhorn to aid recovery. The site is known for relaxed drift conditions that allow divers to glide over intact hard and soft coral formations while spotting shy spotted drums and banded coral shrimp in the recesses. Parrotfish, angelfish, barracuda, and moray eels are typical reef residents, and hawksbill turtles and southern stingrays make regular appearances across the sandy patches between coral heads.
+Coral restoration pioneer Ken Nedimyer was invited to Mustique to assess and set up a nursery programme: coral fragments are grown on suspended tree-like frames for 9-12 months before being out-planted onto the reef. Seven years after the initial plantings, DIVE Magazine reports the elkhorn thickets have expanded significantly and now shelter a range of reef species. Mustique is also known among divers for its currents, and diving is offered through the island's watersports centre in Endeavour Bay.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Mustique Reef offers sloping coral terrain to around 25 meters on the Grenadines
 
 ## Marine Life
 
-Hawksbill turtles and southern stingrays are regular sightings over the sandy patches between coral heads, while spotted drums and banded coral shrimp inhabit the reef's shaded recesses. Parrotfish, queen angelfish, barracuda, and moray eels are year-round residents, benefiting from the active coral restoration work that is helping revive brain coral and elkhorn formations across the site.
+Mustique Island's own site confirms spotted drums and banded coral shrimp among the sloping reef. DIVE Magazine reports the restored elkhorn thickets shelter squirrelfish, grunts, porcupinefish, trumpetfish, damselfish, angelfish, butterflyfish, and eels, along with invertebrates including sea urchins, lobsters, and octopuses. Earlier text on this page also listed parrotfish, barracuda, generic moray eels, hawksbill turtles, and southern stingrays; these were not confirmed by any source and have been removed.
 
 ---
-*Sources: [bluewater.com - Mustique Diving](https://www.bluewaterdivetravel.com/), [zubludiving.com - Mustique Reef](https://www.zubludiving.com/), [mustique-island.com - Diving](https://www.mustique-island.com/). Last updated 2026-05-24.*
+*Sources: [Mustique Island](https://mustique-island.com/journals/mustiques-coral-restoration-project), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/americas-caribbean/life-returns-coral-reef-restoration-in-mustique), [ZuBlu](https://www.zubludiving.com/destination/lesser-antilles/windward-islands/st-vincent-grenadines). Last updated 2026-07-02.*

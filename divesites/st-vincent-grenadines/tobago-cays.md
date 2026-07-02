@@ -17,7 +17,7 @@ Tobago Cays is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five uninhabited cays, where green and hawksbill turtles graze openly on the seagrass beds inside the lagoon — sightings are nearly guaranteed. The reef also draws southern stingrays, eagle rays, and nurse sharks, while the outer wall offers drift dives past gorgonians and hard corals in exceptional open-water visibility.
+Tobago Cays Marine Park protects the four-kilometer Horseshoe Reef, which encloses four uninhabited cays (Petit Bateau, Petit Rameau, Baradal, and Jamesby) and forms a sheltered lagoon. Diving inside the lagoon is shallow and easy, with vibrant hard and soft coral. All scuba diving in the park must be accompanied by a registered local dive operator. Divers wanting more current and depth head to the outer edge of the reef, where drift dives run along the reef wall.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five 
 
 ## Marine Life
 
-Green and hawksbill turtles are virtually guaranteed here, grazing openly on the seagrass beds inside the Horseshoe Reef lagoon in numbers that are rare elsewhere in the Caribbean. Southern stingrays glide across the sandy patches, nurse sharks rest beneath coral heads, and the outer reef wall draws eagle rays and Caribbean reef fish including parrotfish, angelfish, and blue tangs in large numbers.
+Green, hawksbill, and leatherback turtles use the Tobago Cays' beaches and seagrass beds for feeding and nesting; swimming with green turtles in the shallow, protected waters around Baradal is described by the marine park as "practically guaranteed." Nurse sharks and eagle rays are regularly reported in the Horseshoe Reef lagoon area. The outer wall, dived on drift, adds a chance of larger pelagic fish alongside the reef's established hard and soft coral cover.
 
 ---
-*Sources: [zentacle.com - Tobago Cays Horseshoe Reef](https://zentacle.com/), [thediveglobe.com - Tobago Cays](https://www.thediveglobe.com/), [tobagocaysmarine.com - Marine Park](https://tobagocaysmarine.com/). Last updated 2026-05-24.*
+*Sources: [Tobago Cays Marine Park](https://www.tobagocays.org/about/), [theDiveGlobe](https://www.thediveglobe.com/app/ko/dive/tobago-cays-grenadines), [Zentacle](https://www.zentacle.com/loc/vc). Last updated 2026-07-02.*

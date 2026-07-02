@@ -2,7 +2,7 @@
 name: Abu Seif
 lat: 21.7861348
 lng: 37.0023768
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 12
 entryType: boat
 siteType: reef
@@ -13,44 +13,40 @@ addedBy: osm_import
 
 ## Abu Seif
 
-Abu Seif (also spelled Abu Sheif) is Sudan's most accessible and relaxed reef dive, known for shallow waters, easy entry, and abundant coral crevices. This shallow site is perfect for divers seeking hours of exploration without aggressive current or deep diving hazards.
+Abu Seif (also spelled Abu Sheif) is a shallow northern Sudan reef reached by zodiac, notable for thresher shark sightings on the reef and hammerheads approaching from deeper water.
 
 ## Overview
 
-Abu Seif stands out among Sudan's dive sites for being truly relaxed and accessible. The site features shallow water (max 12m) with easily explorable cracks and crevices that sprawl mere feet below the surface. Entry is as easy as falling off the boat. The shallow nature means extended bottom times and the ability to explore thoroughly. Heavenly sun beams filter through the shallow water, turning fish into stained glass in motion. Sea goldies are visible near the surface, and deeper meadows of anemones dance in the current with their clownfish partners. This is Sudan diving for those who want coral and fish without the intensity of walls, currents, and depth challenges.
+Abu Seif is a shallow reef (maximum depth around 12 metres) entered by zodiac rather than a giant stride or back-roll off the main liveaboard. Scuba Diving magazine reports thresher shark sightings on the reef itself, with hammerhead sharks occasionally coming up from deeper water to inspect divers — a notable combination of shallow-reef and pelagic-shark encounters in one dive.
 
 ## Site Information
 
 - **Location**: Northern Sudan Red Sea, liveaboard access
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters
 
 ## Marine Life
 
-Abu Seif is home to abundant sea goldies, anthias, and reef fish species typical of shallow coral systems. Anemones and clownfish partnerships create stunning photo subjects. Moray eels and other crevice-dwelling fish shelter in the numerous coral gaps. The shallow nature and mild currents mean less emphasis on large pelagic species, making this a more intimate reef experience. Macrophotography subjects are excellent due to the shallow, well-lit environment.
+Thresher sharks are reported on the reef; hammerhead sharks are reported approaching from deeper water. Beyond these two confirmed species, no further site-specific marine-life list was independently corroborated — treat other reef fish and invertebrate life as typical of shallow Red Sea coral habitat rather than confirmed sightings.
 
 ## Dive Profile
 
-Begin your dive on the shallow reef and explore the extensive crack and crevice system at 5-12 meters depth. The site is small enough for multiple passes in a single dive, allowing thorough exploration of different sections. Shallow depth means extended bottom time is possible, and ascent is a safety stop at 5m with excellent visibility upward. The mild current allows leisurely exploration without drift diving concerns. Most divers spend 45-50+ minutes underwater before needing to surface.
+The shallow depth (max ~12m) allows extended bottom time and thorough exploration of the reef structure. Divers should stay alert to open water beyond the reef edge for hammerhead and thresher shark passes.
 
 ## Entry and Exit
 
-Access is by liveaboard dive boat. Entry is easy giant stride or back roll in calm waters. The shallow depth and mild current mean a relaxed descent to the reef. Exit is simple—ascend and surface, then swim to the boat. No strong currents or complex exit procedures required.
+Access is by liveaboard with zodiac entry — a distinctive feature of this site compared to most other Sudan sites, which use giant stride or back-roll entry directly from the main vessel.
 
 ## Tips and Recommendations
 
-- Bring underwater macro camera—excellent opportunities for close-up reef subjects
-- Take time to explore the cracks and crevices slowly for fish and invertebrates
-- Wear 3-5mm wetsuit for thermal protection (warm water but extended bottom times)
-- This is ideal for practicing buoyancy control in a forgiving environment
-- Multiple dives on Abu Seif in a day are common due to shallow depth
-- Ideal pre-dive to warm up or recovery dive after deeper sites
+- Keep an eye on open water beyond the reef edge — both confirmed shark species approach from deeper water rather than living on the shallow reef itself
+- The shallow depth makes this a good pairing with deeper dives earlier in the day
 
 ## Safety Considerations
 
-Abu Seif is one of Sudan's safest dive sites. Shallow depth (max 12m) provides natural safety against depth-related hazards. Fire coral and lionfish are present but not aggressive—avoid contact. Mild currents mean drift is minimal. Excellent for building confidence before attempting Sudan's deeper, more challenging sites. Always dive with a buddy and carry an SMB as standard practice.
+Standard shallow reef diving hazards apply (fire coral, buoyancy near coral). No unusual site-specific hazards were confirmed beyond the general current and remote-access considerations that apply throughout Sudan's liveaboard-only diving.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Scuba Diving — Five Great Dive Sites in Sudan's Red Sea](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Dive The World — Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Blue Force Fleet — Central & South Route](https://www.blueforcefleet.com/diving-sudan-red-sea/central-south-dive-sites/). Last updated 2026-07-02.*

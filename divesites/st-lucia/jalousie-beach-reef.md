@@ -29,7 +29,7 @@ Jalousie Beach Reef is the house reef for the Sugar Beach resort, situated in th
 
 ## Marine Life
 
-Seahorses are occasionally found clinging to sea fans along the shallow reef slope, and trumpetfish, parrotfish, and sergeant majors are constant companions throughout the dive. Hawksbill turtles visit the reef regularly, and squid patrol the water column above the coral in the calm, sheltered conditions typical of the Piton bay setting.
+Seahorses are occasionally found clinging to sea fans along the shallow reef slope, and trumpetfish, parrotfish, and sergeant majors are constant companions throughout the dive. Scuba St. Lucia's listing for the Jalousie site also confirms creole wrasse, bar jack, and southern sennet moving through the water column. Hawksbill turtles visit the reef regularly, and squid patrol the water column above the coral in the calm, sheltered conditions typical of the Piton bay setting.
 
 ---
-*Sources: [smmainc.com - Jalousie Bay](https://www.smmainc.com/), [scubastlucia.com - Jalousie Reef](https://scubastlucia.com/diving/), [padi.com - Jalousie Beach St Lucia](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [Soufrière Marine Management Association - Jalousie](https://smmainc.com/dive-sites/), [Scuba St. Lucia - Diving](https://scubastlucia.com/diving/), [PADI - Jalousie Beach St Lucia](https://www.padi.com/). Last updated 2026-07-02.*

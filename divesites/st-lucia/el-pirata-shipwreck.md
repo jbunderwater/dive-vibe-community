@@ -17,15 +17,15 @@ El Pirata Shipwreck is a wreck on St. Lucia's southern coast, confirmed via Open
 
 ## Overview
 
-El Pirata Shipwreck sits on St. Lucia's southern coast and is confirmed by OSM data as a non-dangerous wreck visible at both high and low tide. The maximum depth is reported at approximately 20 metres. No dive-specific sources have been independently verified for this site — it does not appear in regional dive operator listings or major dive databases under this name. The site may be dived as part of local operations, but factual details about its history, dimensions, and marine life cannot be confirmed without primary sources. Divers interested in this site should inquire directly with local St. Lucia operators for current access and conditions.
+El Pirata Shipwreck sits on St. Lucia's southern coast and is confirmed by OSM data as a non-dangerous wreck visible at both high and low tide. The maximum depth is reported at approximately 20 metres. A 2026-07-02 re-audit re-checked dive operator listings, wreck databases (including DeeperBlue's roundup of St. Lucia's wrecks), and dive.site, and again found no dive-specific listing for a site named "El Pirata Shipwreck." A beach called "Il Pirata" does exist in Vieux Fort, in the same general area as this wreck's coordinates, which lends some plausibility to the name — but that is a place-name match, not a dive-site confirmation. Factual details about its history, dimensions, and marine life still cannot be confirmed without primary sources. Divers interested in this site should inquire directly with local St. Lucia operators for current access and conditions.
 
 ## Site Information
 
-- **Location**: Southern coast, St. Lucia
+- **Location**: Southern coast (near Vieux Fort), St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
 ---
-*Description based on OSM data only (OSM node 9385639518). No dive-specific sources found for this site. Last updated 2026-05-24.*
+*Description based on OSM data only (OSM node 9385639518) and the "Il Pirata" place name in nearby Vieux Fort. No dive-specific sources found for this site as a named dive location. Last updated 2026-07-02.*

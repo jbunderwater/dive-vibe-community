@@ -13,7 +13,7 @@ St. Kitts and Nevis offers diverse dive sites ranging from 8 to 40 meters depth,
 ### Diving Opportunities
 
 - **Boat Diving**: All sites are boat-accessible, with short rides from Frigate Bay and Basseterre on St. Kitts
-- **Wreck Diving**: Wreck sites including the MV River Taw (15m depth, split into two coral-encrusted sections off Frigate Bay) and the Brassball Wreck
+- **Wreck Diving**: Wreck sites including the MV River Taw (12-15m depth, split into two coral-encrusted sections off Frigate Bay) and the Brassball Wreck
 - **Reef Diving**: Reef sites with volcanic rock formations supporting diverse coral growth and giant barrel sponges, including Coconut Tree Reef and Booby Shoals
 - **Wall Diving**: Wall site along the Caribbean shelf edge
 - **Cave Diving**: Cave site with volcanic swim-throughs
