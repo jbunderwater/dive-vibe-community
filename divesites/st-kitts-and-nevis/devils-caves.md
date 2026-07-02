@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Devil's Caves
 
-Devil's Caves is a cave dive site in St. Kitts and Nevis, Caribbean.
+Devil's Caves — known in some local guides simply as "The Caves" — is a series of lava-formed coral grottoes on the south/southwestern tip of Nevis, where the Caribbean Sea meets the Atlantic.
 
 ## Overview
 
-Devil's Caves on Nevis's west coast is a network of coral grottos, overhangs, and swim-throughs at a comfortable 12-meter maximum depth, ideal for divers who want the thrill of cavern exploration without committing to a technical dive. Glassy sweepers pack the overhangs, blue tang patrol the open sections, nurse sharks rest in deeper recesses, and the occasional blacktip reef shark passes through the entrance on a casual visit.
+Devil's Caves sits on the southern tip of Nevis, roughly a 20-35 minute boat ride from the Four Seasons depending on the departure point, and requires relatively calm seas to dive safely. The site consists of a series of caves, overhangs, and swim-throughs formed in old lava flows, reaching a maximum depth of around 40 feet (12m). It's rated suitable for both certified divers and resort-course divers.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: South/southwestern tip of Nevis
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Devil's Caves on Nevis's west coast is a network of coral grottos, overhangs, an
 
 ## Marine Life
 
-Glassy sweepers pack the cavern overhangs and blue tangs patrol the open sections between grottos, while nurse sharks rest in the deeper recesses and blacktip reef sharks make occasional passes through the cave entrances. Spiny lobsters, moray eels, and small crustaceans occupy the crevices of the coral grottos, making this a site where the quantity of marine life per square metre rewards slow, careful exploration.
+Frommers reports numerous squirrelfish among the coral grottoes, along with turtles and needlefish. No other species have been confirmed as specific to this site; the previous version of this page listed glassy sweepers, blue tang, nurse sharks, and blacktip reef sharks, none of which could be traced to any source, and they have been removed.
 
 ---
-*Sources: [frommers.com - Nevis Diving](https://www.frommers.com/), [divenevis.com - Devil's Caves](https://divenevis.com/), [prodiversstkitts.com - Nevis Dive Sites](https://prodiversstkitts.com/). Last updated 2026-05-24.*
+*Sources: [Frommers - Active Pursuits in Nevis](https://www.frommers.com/destinations/nevis/active-pursuits/), [TripAdvisor - The Caves](https://www.tripadvisor.com/Attraction_Review-g147377-d149964-Reviews-The_Caves-Nevis_St_Kitts_and_Nevis.html), [Nevis Tourism Authority - Dive Nevis](https://www.nevisisland.com/things-to-do/activities/scuba-safaris). Last updated 2026-07-02.*
