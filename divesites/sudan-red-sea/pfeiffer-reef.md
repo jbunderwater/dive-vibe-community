@@ -13,45 +13,23 @@ addedBy: osm_import
 
 ## Pfeiffer Reef
 
-Pfeiffer Reef is an advanced-level coral reef dive on the return route of northern Sudan liveaboard itineraries, visited as part of expeditions to sites like Sha'ab Rumi and St. John's.
+Pfeiffer Reef is a coral reef site in northern Sudan's Red Sea, reached via liveaboard.
 
 ## Overview
 
-Pfeiffer Reef is one of Sudan's pristine, lesser-known coral reefs accessed exclusively via liveaboard diving safaris. The site showcases the remarkable biodiversity and exceptional visibility that make Sudan a premier dive destination. As a remote offshore reef, Pfeiffer sits in pristine, largely undiscovered waters rarely visited by recreational divers. The reef features healthy coral structures, abundant fish life, and strong currents typical of Sudan's deep Blue water environments. Divers should expect excellent visibility (25-40+ meters) and encounters with large pelagic species.
+**This site could not be independently verified.** A listing for Pfeiffer Reef exists in one dive site database (divescover.com), confirming the name is used in the industry, but repeated attempts to retrieve that page's content and to find any second independent source describing its depth, marine life, or specific character were unsuccessful. The detailed narrative previously published here (currents, pelagic species, specific depth profile) could not be traced to any verifiable source and has been removed rather than repeated. This entry is retained with only structural data (location, coordinates) until a genuine source is found.
 
 ## Site Information
 
-- **Location**: Northern Sudan Red Sea, 50+ km offshore
+- **Location**: Northern Sudan Red Sea (liveaboard access)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 
 ## Marine Life
 
-Pfeiffer Reef is home to diverse marine life attracted by strong currents and pristine coral structures. Grey reef sharks, hammerheads, and occasional silvertip sharks patrol the reef edges. Massive schools of pelagic fish including tuna, jacks, and snappers are common. Napoleon wrasse, giant groupers, and moray eels shelter in reef crevices. Manta rays, eagle rays, and sea turtles are regularly encountered. The healthy coral reef supports abundant anthias, fusiliers, and other reef fish species.
-
-## Dive Profile
-
-Begin your descent on the reef slope and work along the reef face between 15-25 meters. The current often pushes divers along the reef structure, providing excellent drift diving opportunities. Most of the marine life aggregates at the reef edge where currents bring nutrient-rich water. Plan for good buoyancy control and be prepared to navigate moderate to strong current conditions. Ascending, use the reef structure for safety stop positioning.
-
-## Entry and Exit
-
-Access is exclusively via liveaboard dive boat, typically as part of multi-day diving expeditions. Entry uses giant stride or back roll in moderate sea states. The boat follows the reef structure for descent and follows drift divers downstream. Deploy a high-visibility surface marker buoy (SMB) for safety stop signaling and boat pickup.
-
-## Tips and Recommendations
-
-- Pfeiffer is best suited for Advanced certified divers comfortable with current
-- Use a dive computer to monitor depth and plan decompression stops
-- Bring extra weight to maintain proper buoyancy in current
-- Underwater camera essential—this site offers exceptional photographic subjects
-- Book only with experienced Sudan liveaboard operators
-- Carry signaling mirror and high-visibility SMB
-- Check forecast for current direction before diving
-
-## Safety Considerations
-
-Strong currents are the defining feature of Pfeiffer Reef. Always dive with a buddy and abort the dive if currents exceed your comfort level. Fire coral, lionfish, and stinging hydroids are present—avoid touching reef. Pressure drops rapidly with depth—monitor depth gauge closely. The remote location means immediate evacuation is limited—only dive if you are confident in your abilities and health status.
+No site-specific marine life source was found for Pfeiffer Reef. Sudan's Red Sea reefs generally support hard and soft coral cover with reef fish, sharks, and occasional pelagics, but no species are attributed to this specific site without confirmation.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Description based on limited, unconfirmed information. Only one weak source (a database listing with unavailable content) was found — this site is flagged as unresolved pending further research. Last updated 2026-07-03.*

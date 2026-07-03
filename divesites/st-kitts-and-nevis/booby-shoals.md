@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Booby Shoals
 
-Booby Shoals is a reef dive site in St. Kitts and Nevis, Caribbean.
+Booby Shoals (also called Booby High Shoal/Shoals) sits in the middle of the Narrows channel between St. Kitts and Nevis, a flat circular reef of old coral heads known for hawksbill turtles, lobster, and nurse sharks sheltering under its ledges.
 
 ## Overview
 
-Booby Shoals sits squarely in the Narrows channel between St. Kitts and Nevis, where tidal flow pumps nutrients across a circular reef packed with lobster, French grunts, horse-eye jacks, and southern stingrays. Deep ledges on the coral heads shelter large nurse sharks, and when currents run through the channel, larger pelagics and reef sharks are drawn in, making this one of the best sites in the area for an encounter with bigger marine life.
+Booby Shoals sits in the middle of the Narrows channel between St. Kitts and Nevis, named for its proximity to Booby Island (confirmed as a real islet in the Narrows per Wikipedia). Dive Nevis describes the site as an "almost circular shaped reef" that is "explosive with life," with deep ledges that provide some protection from the northeast currents that periodically sweep through the Narrows — the same ledges shelter resident nurse sharks up to 10-12 feet long. Caribbean Dive Guide's first-person dive report independently describes a flat terrain of old coral heads roughly 3-5 feet high forming overhangs and small holes (none large enough to swim through), with depths of 20-35ft (6-11m). The shallow depth makes this a popular choice for a second dive of the day or a night dive.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: The Narrows, near Booby Island
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -29,7 +29,7 @@ Booby Shoals sits squarely in the Narrows channel between St. Kitts and Nevis, w
 
 ## Marine Life
 
-The tidal flow through the Narrows channel pumps nutrients across the shoal, fueling dense populations of French grunts, horse-eye jacks, southern stingrays, and Caribbean lobsters. Large nurse sharks shelter under deep coral ledges and Caribbean reef sharks move through when currents run strong, making this one of the best sites in the St. Kitts area for an encounter with bigger marine life in a shallow, accessible setting.
+Lobster and hawksbill turtles are consistently reported here, along with French grunts, horse-eye jacks, and southern stingrays (Dive Nevis). Nurse sharks shelter under the deep ledges, sheltered somewhat by the northeast currents that sweep through the channel (Dive Nevis) — sources do not confirm larger reef sharks moving through the site with the current, only the resident nurse sharks. Caribbean Dive Guide additionally logs numerous turtles including a large hawksbill, jumbo porcupinefish, abundant spiny and slipper lobsters, parrotfish, orange ball corallimorphs on night dives, and sea fans hosting flamingo tongue snails.
 
 ---
-*Sources: [mystkittsdivebuddy.com - Booby Shoals](https://mystkittsdivebuddy.com/), [padi.com - Booby Shoals St Kitts](https://www.padi.com/), [activecaribbeantravel.com - The Narrows Diving](https://www.activecaribbeantravel.com/). Last updated 2026-05-24.*
+*Sources: [Dive Nevis - Dive Sites](https://divenevis.com/dive-sites/), [Caribbean Dive Guide - Booby High Shoal](https://www.caribdiveguide.com/Booby.htm), [Wikipedia - Booby Island (Saint Kitts and Nevis)](https://en.wikipedia.org/wiki/Booby_Island_(Saint_Kitts_and_Nevis)). Last updated 2026-07-03.*

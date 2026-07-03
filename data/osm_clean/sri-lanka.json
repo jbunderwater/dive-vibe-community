@@ -1,23 +1,5 @@
 [
   {
-    "name": "Scuba Lanka",
-    "lat": 8.6104972,
-    "lon": 81.2190131,
-    "osm_id": 2896874870,
-    "osm_type": "node",
-    "depth": 18,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Scuba Lanka",
-      "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "web_research",
-      "depth_range": "10-18m"
-    }
-  },
-  {
     "name": "Bar Reef",
     "lat": 8.3673231,
     "lon": 79.7463453,
@@ -29,7 +11,7 @@
     "difficulty": "Beginner",
     "tags": {
       "depth": "2-8",
-      "depth_range": "2-40m (varies by location)",
+      "depth_range": "2-8m on the main reef (deeper offshore areas reported up to ~40m)",
       "name": "Bar Reef",
       "natural": "reef",
       "reef": "coral",
@@ -38,7 +20,8 @@
       "coral_species": 156,
       "fish_species": 283,
       "validated": true,
-      "validation_source": "web_research"
+      "validation_source": "en.wikipedia.org,extremenomads.life,scubaboard.com,ecoteam.lk,undp.org",
+      "last_qa_date": "2026-07-03"
     }
   },
   {
@@ -47,7 +30,7 @@
     "lon": 79.6940893,
     "osm_id": 4055852991,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 17,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -58,9 +41,12 @@
       "sport": "scuba_diving;snorkelling",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "region": "Kalpitiya"
+      "region": "Kalpitiya",
+      "depth_range": "14-17m (two operator listings: 15m single reef; 14m/17m for Reef 1/Reef 2)",
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-07-03",
+      "qa_note": "Re-audited 2026-07-03: only 2 distinct-domain site-specific sources found (kalpitiyatours.com, scubadivingkalpitiya.com), short of the 3-source bar, so validated was downgraded from a prior true (originally sourced only to the generic tag 'web_research'). Prior 'historic spice trade / colonial shipping anchors' origin story and whale shark / named-species marine life claims were unsourced and removed from the markdown."
     }
   },
   {
@@ -71,16 +57,17 @@
     "osm_type": "node",
     "depth": 25,
     "site_type": "cave",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Cave dive site",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Cave/cavern system near Unuwatuna with swim-throughs, 10-25m. Advanced training required for safe passage. Tropical fish and invertebrate macro life. Light penetration through cave openings. Requires cave diving certification."
+      "validated": true,
+      "validation_source": "unawatunadive.com,diveinsrilanka.com,tripadvisor.com",
+      "last_qa_date": "2026-07-03",
+      "qa_note": "Locally known as 'Galapita Gala' cave. Coordinates are ~150m from 'Gala pita gala dive site' in this dataset; the two entries very likely describe the same real-world boulder/cave complex (or immediately adjacent parts of it), flagged here as a probable near-duplicate rather than merged. Entry type corrected from shore to boat (10-15 min boat ride from Unawatuna dive centers per sources). Fabricated claims of glassfish, shrimp, moray eels, scorpionfish, turtles, and strong tidal cave-mouth currents removed."
     }
   },
   {
@@ -89,18 +76,20 @@
     "lon": 80.2385992,
     "osm_id": 9448790420,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 25,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gala pita gala dive site",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Shore reef near Unuwatuna with local name, 5-18m. Intermediate reef exploration with tropical fish, nudibranchs, and invertebrates. Good visibility (15-20m) in calm conditions. Popular local dive site."
+      "validated": true,
+      "validation_source": "unawatunadive.com,diveinsrilanka.com,tripadvisor.com",
+      "last_qa_date": "2026-07-03",
+      "depth_range": "20-25m per dive-shop listings (was 18m, unsourced)",
+      "qa_note": "Confirmed real local Sinhala name ('rock on top of rock' boulder topography), not a classic fringing coral reef. Coordinates are ~150m from 'Cave dive site' in this dataset; very likely the same rock complex or an adjacent part of it, flagged as a probable near-duplicate rather than merged. Entry type corrected from shore to boat. Fabricated claims of frogfish, reliable turtle encounters, moray eels, scorpionfish, and chromis/anthias schools removed."
     }
   },
   {
@@ -119,9 +108,11 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Wreck site near Galle with tropical fish and reef life, depths 15-20m. Intermediate wreck exploration in warm Indian Ocean waters. Coral encrustation and marine growth. Good visibility (18-25m)."
+      "validated": true,
+      "validation_source": "archaeology.lk,padi.com,mass.cultureelerfgoed.nl",
+      "last_qa_date": "2026-07-03",
+      "depth_range": "14m (bow) to 21m (stern); prior single value of ~22m was unsourced",
+      "qa_note": "SS Conch: 1892-built, 3,555-ton Shell tanker, W. Gray & Co, Stockton; struck rock off Akurala and broke in two carrying bulk oil cargo Novorossisk-Colombo-Madras. Sources conflict on exact sinking date (June 2 vs June 3, 1903) and the rock's exact name (Akurala/Akarta/Parsi-Passa gala) -- both conflicts stated explicitly in markdown rather than resolved by guessing. Single-source 'explosion/dynamite' claim noted as unconfirmed, not fact. 'Queen angelfish' (non-Indian-Ocean species) removed as a likely copy-paste error from aggregator blogs."
     }
   },
   {
@@ -140,9 +131,10 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Southern coast wreck site with shallow depths (12-15m) ideal for intermediate divers. Well-preserved structure with tropical fish, nudibranchs, and marine invertebrates. Excellent light penetration and photography opportunities."
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-07-03",
+      "qa_note": "Re-audited 2026-07-03: no shipwreck database, dive-shop wreck listing, maritime archive, or Wikipedia entry names a wreck called 'Carreg' anywhere off Sri Lanka despite extensive search. Coordinates place this near Negombo, not Hikkaduwa as the prior markdown claimed (also corrected). Vessel name, build date, tonnage, and sinking cause are all unverified and were removed from the markdown; only the OSM historic=wreck/seamark:type=wreck tagging supports a wreck-like feature existing here at all. Downgraded from a prior 'validated: true' that was sourced only to the generic tag 'perplexity'."
     }
   },
   {
@@ -153,16 +145,17 @@
     "osm_type": "node",
     "depth": 12,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Goddamahagale dive site",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Shore-accessible reef on southern coast with local name, depths 5-12m. Intermediate reef exploration with tropical fish, corals, and macro life. Warm water (27-30C) and good visibility (18-25m)."
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-07-03",
+      "qa_note": "Re-audited 2026-07-03: coordinates are ~7km offshore WNW of Negombo (confirmed correct framing; a prior draft's 'near Kalutara/Beruwala/Bentota' correction was itself wrong and has been rejected). Name closely resembles 'Goda Maha Gala', named in Negombo operator site rosters, and a third-party database lists a 'Maha Gala' ~7.6km away -- plausibly related but not confirmed as the same site. Entry type corrected from shore to boat (Negombo-area sites are consistently boat dives several km offshore). Fabricated claims of hard corals, sea fans, lionfish, scorpionfish, wrasse, reliable turtles, and reef octopus removed. Downgraded from a prior 'validated: true' sourced only to the generic tag 'perplexity'."
     }
   },
   {
@@ -181,12 +174,12 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "depth_range": "5-18m",
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-07-03",
       "water_temp": "27-30C",
       "visibility": "10-25m",
-      "known_wrecks": "SS Rangoon"
+      "qa_note": "Re-audited 2026-07-03: no dive-shop or forum source names this exact reef polygon; only bay-level (Unawatuna Bay generally) sourcing was found (thesrilankanguideline.com, sundivingsrilanka.com, pearldiverslk.com), which does not meet the site-specific 3-source bar, so validated was downgraded from a prior true (originally sourced only to the generic tag 'web_research'). The 'known_wrecks: SS Rangoon' tag previously on this entry was removed as incorrect -- SS Rangoon rests at 30-32m near the mouth of Galle Harbour, roughly 2-3km away, and is a distinct, separate dive site. Prior 'coral bleaching' claim likely conflated 2004 tsunami physical damage (a real, sourced phenomenon here) with bleaching (a different phenomenon, unsourced for this site) and was removed. Hawksbill-at-8-15m, chromis schools, porcupinefish, and nudibranch claims specific to this site were unsourced and removed."
     }
   }
 ]

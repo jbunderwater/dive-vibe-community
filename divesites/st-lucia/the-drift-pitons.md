@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## The Drift (Pitons)
 
-The Drift (Pitons) is a drift dive site in St. Lucia, Caribbean.
+The Drift (Pitons) represents the general drift-diving character of the Piton wall zone, where prevailing currents sweep divers along a dramatic volcanic wall.
 
 ## Overview
 
-The Drift at the Pitons runs along the base of Petit Piton, where prevailing currents sweep divers along a dramatic volcanic wall that drops from about 3 meters at the surface into depths well beyond recreational limits. When current is running, divers simply go with the flow past dense soft coral growth, sea fans, and feather duster worms, with turtles, seahorses, frogfish, stingrays, and eagle rays all regularly spotted along the wall. The site is rated Advanced due to the unpredictable current strength; conditions change with the season and divers are advised to carry a surface marker buoy and conduct the dive as a one-way drift with pickup at the end.
+**A note on this site's identity**: no operator website consulted for this database (Scuba St. Lucia, PADI, SMMA, or divein.com) lists a distinctly named site called "The Drift (Pitons)" separate from Superman's Flight or Anse La Raye Wall. What is well documented is the drift-diving character of the Piton wall zone generally - PADI describes a "moderate drift current" at Superman's Flight, and both PADI and divein.com describe Anse La Raye as requiring drift-diving experience. This entry appears to represent that general current-swept Piton wall character at its own set of coordinates rather than a site independently named by a specific operator. It is dived as a one-way drift, entering near the base of Petit Piton and moving with the current past coral and sponge growth.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: Petit Piton, St. Lucia, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
@@ -29,7 +29,7 @@ The Drift at the Pitons runs along the base of Petit Piton, where prevailing cur
 
 ## Marine Life
 
-Seahorses and frogfish are found clinging to the soft coral growth and sea fans along the volcanic wall, while stingrays, eagle rays, and hawksbill turtles are regularly spotted as the current sweeps divers past. The drift exposes divers to a constantly shifting panorama of marine life benefiting from the nutrient-rich Petit Piton upwellings, including dense feather duster worm colonies and schooling reef fish.
+Turtles, stingrays, and eagle rays are consistent with sightings reported for the broader Piton wall zone (matching Anse La Raye Wall's confirmed stingray/eagle ray sightings and general Piton-area turtle reports). Seahorses and frogfish, previously listed here, are more typical of the sheltered pinnacle sites nearby (Key Hole Pinnacles, Pinnacles at Anse Cochon) than an exposed, current-swept drift wall, and no source consulted today confirms them specifically at this location - they have been removed.
 
 ---
-*Sources: [padi.com - The Drift Pitons](https://www.padi.com/), [scubastlucia.com - Drift Diving](https://scubastlucia.com/diving/), [smmainc.com - Pitons Dive Sites](https://www.smmainc.com/). Last updated 2026-05-24.*
+*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/). Last updated 2026-07-03.*

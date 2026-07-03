@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Bar Reef
 
-Bar Reef is a reef dive site in Sri Lanka, Asia.
+Bar Reef is Sri Lanka's largest coral reef and largest marine protected area, a shallow reef system roughly an hour by boat off the Kalpitiya peninsula.
 
 ## Overview
 
-Bar Reef is Sri Lanka's largest coral reef — a 307-square-kilometer Marine Sanctuary off Kalpitiya on the northwest coast, composed of patch reefs of plate corals interspersed with sandstone reefs and seagrass beds, reachable by a 30-minute boat ride from shore. The sanctuary shelters 156 coral species and 283 reef fish species, including resident blacktip reef sharks, thick-lipped groupers, and pods of spinner dolphins that hunt through the shallows, with larger cetaceans also visiting the outer reef. Maximum depths reach around 20 meters, and the best diving season runs from November to early May when the northeast monsoon brings calm conditions and good visibility.
+Bar Reef Marine Sanctuary, declared a marine reserve in 1992, covers 306.7 km² off the northern end of the Kalpitiya peninsula and is documented as Sri Lanka's most biodiverse coral formation, with 156 coral species and 283 fish species recorded (Wikipedia, citing the sanctuary's official designation record). It's roughly a 3-nautical-mile by 1-nautical-mile reef complex, about an hour by boat from Kalpitiya. Diving is shallow — operators consistently describe depths of 2-8 meters across the main reef, occasionally reaching deeper (up to ~40m) further offshore — making it accessible to beginners and popular for snorkeling as well as diving. The best season is late November through early May, when the northeast monsoon brings calm water and visibility of 10-25 meters; ScubaBoard divers describe it as having "healthy hard coral" and "shallow coral gardens." A 2022 UNDP account of local restoration work notes the reef has been under heavy pressure from overfishing, dynamite fishing, and sediment runoff, with some accounts citing severe historical coral loss before recent community restoration efforts — so coral condition in any given area may vary and shouldn't be assumed uniformly pristine.
 
 ## Site Information
 
 - **Location**: Sri Lanka, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 
 ## Marine Life
 
-The shallow patch reef habitat supports an outstanding diversity of reef fish drawn from the sanctuary's 283 recorded species, with blacktip reef sharks, thick-lipped groupers, parrotfish, and angelfish among the most commonly encountered. Spinner dolphins are a frequent presence hunting through the shallows over the seagrass beds and sandstone reefs. The 156 coral species — including extensive plate coral formations — provide habitat for nudibranchs, pipefish, and smaller reef creatures across the sandy channels between reef patches.
+Multiple independent operator and forum accounts converge on blacktip and white-tip reef sharks, manta rays, and sea turtles (green, hawksbill, and olive ridley) as species encountered at Bar Reef, alongside dense populations of small tropical reef fish typical of its 283 recorded fish species. ScubaBoard divers separately corroborate "a few reef sharks" and decent fish life on the shallow reef. Grouper species are mentioned by at least one operator account but without consistent species-level agreement across sources, so no specific grouper species is named here. Spinner dolphins are a well-documented presence in the wider Kalpitiya area but sightings specifically on the reef itself (versus the boat transit or nearby "Dolphin Line") are not clearly distinguished in available sources.
 
 ---
-*Sources: [SSI - Scuba Diving in Sri Lanka Guide](https://www.divessi.com/en/blog/scuba-diving-in-sri-lanka-9894.html), [PADI - Sri Lanka Dive Sites](https://blog.padi.com/sri-lankas-incredible-must-see-dive-sites/), [Divinguru - Sri Lanka Dive Sites](https://divinguru.com/scuba-diving/dive-sites/), [Bluewater Dive Travel - Sri Lanka](https://www.bluewaterdivetravel.com/destination/diving-sri-lanka), [PADI - Diving in Sri Lanka](https://www.padi.com/diving-in/sri-lanka/). Last updated 2026-04-04.*
+*Sources: [Bar Reef - Wikipedia](https://en.wikipedia.org/wiki/Bar_Reef), [Extreme Nomads - Ultimate Guide to Kalpitiya Diving](https://extremenomads.life/kalpitiya-diving-guide/), [ScubaBoard - Sri Lanka diving discussions](https://scubaboard.com/community/threads/snorkeling-sri-lanka-any-recommendations.362663/), [Eco Team - Scuba Diving in Kalpitiya](https://www.ecoteam.lk/diving-in-kalpitiya-sri-lanka.html), [UNDP Sri Lanka - Restoring Kalpitiya's Reef](https://www.undp.org/srilanka/stories/restoring-kalpitiyas-reef). Last updated 2026-07-03.*

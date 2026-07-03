@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Unuwatuna Coral Reef
 
-Unuwatuna Coral Reef is a reef dive site in Sri Lanka, Asia.
+A shallow fringing reef inside the sheltered bay at Unawatuna, on Sri Lanka's south coast near Galle — no dive shop or forum source found refers to this exact reef polygon by name, so the details below reflect bay-wide research rather than confirmed, site-specific reporting.
 
 ## Overview
 
-Unawatuna Coral Reef lies within the protected bay of Unawatuna near Galle on Sri Lanka's southwest coast, offering accessible shore diving through a shallow fringing reef that extends to around 18 meters. The bay's gentle conditions and warm water around 27–30°C make it ideal for beginner and intermediate divers, with hawksbill turtles commonly seen resting on the coral and feeding on sponges in the 8–15 meter range. The reef has suffered bleaching impacts but continues to support a colourful range of reef fish including lionfish, porcupinefish, and large schools of chromis around the coral heads.
+This entry sits inside Unawatuna Bay itself, close to shore. General accounts of the bay describe a reef that was damaged by the 2004 Indian Ocean tsunami and has been recovering gradually since, with green and hawksbill turtles regular but not guaranteed visitors, most often reported in early morning. No source found for this reef mentions coral bleaching — the previous write-up's "bleaching impacts" claim appears to conflate tsunami physical damage with bleaching (a different phenomenon) and has been removed. **The "SS Rangoon" wreck tag previously attached to this site is incorrect and should be removed**: multiple independent sources place the SS Rangoon wreck at the mouth of Galle Harbour, roughly 2-3 km away from this reef's coordinates, resting upright at 30-32 meters — well outside this shallow (18 m max) bay reef and a distinct dive site in its own right, not a feature of or associated with this reef.
 
 ## Site Information
 
 - **Location**: Sri Lanka, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
 ## Marine Life
 
-Hawksbill turtles are the signature encounter here, regularly seen resting on the coral or feeding on sponges in the 8–15 meter range. The fringing reef supports dense schools of chromis around coral heads, alongside resident lionfish, porcupinefish, and parrotfish grazing the shallower sections. Moray eels and scorpionfish are found tucked into reef crevices, and the coral rubble areas between heads reward patient macro photographers with nudibranchs and small crustaceans.
+Sri Lanka's regional reef fauna is expected here, but no source found names species specifically for this reef polygon rather than for Unawatuna Bay generally. Bay-wide accounts (not specific to this exact site) mention green and hawksbill turtles, moray eels, and typical Indo-Pacific reef fish such as parrotfish, angelfish, butterflyfish, and wrasse among recovering coral. The previous write-up's claims of a reliable hawksbill encounter at 8-15 meters, dense chromis schools, porcupinefish, scorpionfish, and nudibranchs specifically at this site were not corroborated by any source found and have been removed.
 
 ---
-*Sources: [SSI - Scuba Diving in Sri Lanka Guide](https://www.divessi.com/en/blog/scuba-diving-in-sri-lanka-9894.html), [PADI - Sri Lanka Dive Sites](https://blog.padi.com/sri-lankas-incredible-must-see-dive-sites/), [Divinguru - Sri Lanka Dive Sites](https://divinguru.com/scuba-diving/dive-sites/), [Bluewater Dive Travel - Sri Lanka](https://www.bluewaterdivetravel.com/destination/diving-sri-lanka), [PADI - Diving in Sri Lanka](https://www.padi.com/diving-in/sri-lanka/). Last updated 2026-04-04.*
+*Sources: [The Sri Lankan Guideline - Unawatuna Beach Guide (tsunami damage, reef recovery)](https://www.thesrilankanguideline.com/beaches/unawatuna), [Sun Diving - SS Rangoon Wreck (wreck location/depth)](https://sundivingsrilanka.com/ss-rangoon-wreck/), [Pearl Divers Unawatuna - Dive Sites summary (Rangoon at entrance of Galle Harbour)](https://pearldiverslk.com/unawatuna-dive-site/). No source found specifically discusses this reef by name; regional/bay-level sourcing only. Last updated 2026-07-03.*

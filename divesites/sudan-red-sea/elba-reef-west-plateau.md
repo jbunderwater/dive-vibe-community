@@ -32,7 +32,7 @@ The West Plateau faces into the prevailing Red Sea currents from the northwest, 
 
 ## Marine Life
 
-The west-facing exposure means strong, consistent currents that attract significant aggregations of schooling fish. Large schools of jacks, fusiliers, and surgeonfish are almost always present at current-exposed reef points. Grey reef sharks patrol the wall edge regularly. The hard coral coverage on the plateau and upper wall is intact and highly developed — table corals, brain corals, and branching staghorns grow in healthy formations. Sea fans and soft corals line the deeper wall sections from 20-32 metres. Napoleon wrasse are resident and approachable, along with large groupers and moray eels in crevices throughout.
+Confirmed for the Elba Reef complex generally: grey reef sharks, hammerheads, barracuda, large pelagic schools, and untouched hard coral formations with dramatic drop-offs. Specific claims of surgeonfish schools, staghorn coral, and resident Napoleon wrasse from a prior version of this page could not be confirmed for this precise plateau and have been trimmed to what sources support.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Strong currents require continuous buoyancy awareness throughout the dive. The d
 The west wall with its current-exposed schooling fish provides excellent wide-angle action shots. The hard coral plateau top photographs well in natural light as a reef landscape. Deeper sea fans at 25-30 metres are strong subjects against the blue water background.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Elba Reef Dive Site - Sadko Safari Fleet](https://www.sadko-safarifleet.com/dive-sites/elba-reef), [Discovering the Hidden Gem of the Red Sea: Diving Elba Reef - Divebooker](https://divebooker.com/blog/discovering-the-hidden-gem-of-the-red-sea-diving-elba-reef/), [Elba - Red Sea Diving Safari](http://cassiopeiasafari.com/tag/elba/). Last updated 2026-07-03.*

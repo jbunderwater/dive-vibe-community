@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Pinnacles (Anse Cochon)
 
-Pinnacles (Anse Cochon) is a pinnacle dive site in St. Lucia, Caribbean.
+Pinnacles at Anse Cochon is a steep slope of large boulders and finger-like coral formations at a shallow maximum depth of 18 metres, with valleys and trenches creating varied topography.
 
 ## Overview
 
-Pinnacles at Anse Cochon ("Bay of Pigs") rises from the reef in finger-like coral formations with valleys and trenches in between, creating a dive full of varied topography within a shallow maximum depth of 18 meters. The structures are draped in sea whips, gorgonian fans, organ pipe corals, and feather duster worms, and the site acts as a productive breeding ground for juvenile fish including queen and French angelfish. Hawksbill turtles frequent the area, and careful divers may find seahorses and flounder tucked into the crevices between the coral columns.
+Scuba St. Lucia's dive-site listing for "Anse Couchon" (an alternate spelling of Anse Cochon) directly matches this site: "a steep slope with large boulders covered in sponges and gorgonians." The structures here are draped in sea whips, gorgonian fans, and organ pipe corals.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: Anse Cochon, St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Pinnacles at Anse Cochon ("Bay of Pigs") rises from the reef in finger-like cora
 
 ## Marine Life
 
-Hawksbill turtles frequent the coral columns, and patient divers may find seahorses and flounder tucked into the crevices between the pinnacle walls. The finger formations are an active breeding ground for juvenile queen and French angelfish, with feather duster worms, sea whips, and gorgonian fans providing habitat for a diverse cast of reef species in the shallow, sheltered bay.
+Scuba St. Lucia's dive-site page directly attributes seahorses, scorpionfish, and cleaner shrimp to the shallow areas of this site. This corrects a prior data error in this database where those same species were mistakenly listed under Anse Chastanet Reef, a different bay. Hawksbill turtles and flounder were reported here in prior research (smmainc.com, divesaintlucia.com); those pages could not be re-fetched directly on this pass, so those two claims are carried forward rather than freshly re-verified today.
 
 ---
-*Sources: [smmainc.com - Anse Cochon](https://www.smmainc.com/), [divesaintlucia.com - Pinnacles](https://www.divesaintlucia.com/), [padi.com - Anse Cochon Pinnacles](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [Dive Saint Lucia - Dive Sites](https://divesaintlucia.com/dive-sites/). Last updated 2026-07-03.*

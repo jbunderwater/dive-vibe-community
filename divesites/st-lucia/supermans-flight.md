@@ -29,7 +29,7 @@ Superman's Flight is a drift dive along the submerged face of Petit Piton — na
 
 ## Marine Life
 
-Southern stingrays cruise the invertebrate-covered volcanic incline while sea turtles appear regularly along the fiery red rope sponge and orange elephant ear sponge-decorated wall. The mineral-rich volcanic substrate supports exceptional fish life — including large schools of parrotfish and angelfish — and the current-driven drift exposes divers to barracuda in the open water. Reef shark encounters have been reported at this site but are not consistently documented in primary sources.
+PADI's dive guide reports soft corals, sponges, and schools of grunts and parrotfish at this site. Southern stingrays and sea turtles are retained from prior research and remain consistent with the site's character, though they could not be independently re-fetched from a live source today. The previously listed "reef shark encounters... not consistently documented" line has been removed entirely - if a claim cannot be confirmed at this specific site, this database omits it rather than mentioning it with a hedge.
 
 ---
-*Sources: [scubadiving.com - Superman's Flight](https://www.scubadiving.com/), [padi.com - Dive Saint Lucia](https://www.padi.com/), [divesaintlucia.com - Dive Sites](https://www.divesaintlucia.com/). Last updated 2026-05-24.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/). Last updated 2026-07-03.*

@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "sri-lanka",
-    "st-kitts-and-nevis",
-    "st-lucia",
-    "st-vincent-grenadines",
-    "sudan",
-    "sudan-red-sea",
     "sumbawa",
     "svalbard",
     "tanzania",
@@ -174,9 +168,94 @@
     "solomon-islands",
     "south-africa",
     "south-florida",
-    "south-pacific"
+    "south-pacific",
+    "sri-lanka",
+    "st-kitts-and-nevis",
+    "st-lucia",
+    "st-vincent-grenadines",
+    "sudan",
+    "sudan-red-sea"
   ],
   "history": [
+    {
+      "date": "2026-07-03",
+      "slugs": [
+        "sri-lanka",
+        "st-kitts-and-nevis",
+        "st-lucia",
+        "st-vincent-grenadines",
+        "sudan",
+        "sudan-red-sea"
+      ],
+      "notes": "sudan is isGroup=true parent slug with no own data files; its only child sudan-red-sea was processed directly, covering both",
+      "summary": {
+        "sites_total": 66,
+        "sites_validated_today": 42,
+        "sites_re_audited": 59,
+        "hallucinations_removed": 21,
+        "marine_life_stripped": 23,
+        "wreck_conflicts_flagged": 4,
+        "sites_unresolved": 12,
+        "by_destination": {
+          "sri-lanka": {
+            "sites_total": 9,
+            "sites_validated_today": 4,
+            "sites_re_audited": 9,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 4,
+            "notes": "Scuba Lanka removed as a mistagged commercial dive shop, not a real site (CLAUDE.md commercial-business rule); Conch dive site sinking-date and rock-name conflicts documented rather than guessed; Anchor Point/Carreg/Goddamahagale/Unuwatuna Coral Reef left unvalidated (fewer than 3 independent sources)"
+          },
+          "st-kitts-and-nevis": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 7,
+            "marine_life_stripped": 7,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 4,
+            "notes": "Grid Iron's fabricated 'Living Oceans Foundation' paragraph and invented coral colonies removed; Monkey Shoals/Booby Shoals species cross-contamination fixed; MV River Taw Wreck sinking year/cause/depth conflicts documented; Nag's Head Intermediate→Advanced and Coconut Tree Reef Beginner→Intermediate on confirmed conditions; Brassball Wreck/Coral Garden/Grid Iron/Devil's Caves unresolved (<3 sources)"
+          },
+          "st-lucia": {
+            "sites_total": 15,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 7,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 2,
+            "notes": "Anse Chastanet Reef marine-life misattribution corrected (species actually belonged to Anse Couchon); Lesleen M single-sourced naming story removed; Daini Koyomaru tonnage figure removed (single source) and orientation/cause conflict documented; Lesleen M depth stated as a sourced range; El Pirata Shipwreck and Maria Island Reef remain unresolved after exhaustive search (no dive-specific sources found)"
+          },
+          "st-vincent-grenadines": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Bottle Reef and Bat Cave marine-life lists corrected (species belonged to different nearby sites); New Guinea Reef depth 14m→9-46m + Beginner→Advanced + entry boat→shore; Mayreau Gardens depth widened to sourced 17-24m range, disambiguated from nearby Puruni Wreck; no wreck sites in this destination"
+          },
+          "sudan": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug, no direct dive sites; child sudan-red-sea processed"
+          },
+          "sudan-red-sea": {
+            "sites_total": 22,
+            "sites_validated_today": 18,
+            "sites_re_audited": 22,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 11,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 4,
+            "notes": "SS Umbria fabricated '360,000 bombs' cargo corrected to sourced 6,000t bombs + other cargo, sinking date conflict documented; Blue Belt nationality/tonnage corrected; Levanzo Wreck length 113m→103.5m; Gota Mesharifa site character fully corrected (was invented as wall/shark site, actually a manta-cleaning lagoon); Advanced-minimum difficulty enforced destination-wide (10 sites bumped); Pfeiffer Reef/Sweet Potato/Dibsel Island/Isar Island unresolved"
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
     {
       "date": "2026-06-27",
       "slugs": [

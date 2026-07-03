@@ -3,7 +3,7 @@ name: Blue Belt
 lat: 20.22675
 lng: 37.3152166
 difficulty: Expert
-maxDepth: 45
+maxDepth: 85
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,51 +13,42 @@ addedBy: osm_import
 
 ## Blue Belt
 
-Blue Belt is an expert-level wreck dive featuring the Toyota Wreck in Sudan's Red Sea, located 75km north of Port Sudan.
+Blue Belt, better known as the "Toyota Wreck," is a 103m cargo ship that struck Shaab Suedi reef in 1977 while carrying a hold full of Toyota vehicles, and now lies upside down on a steep slope roughly 75km north of Port Sudan.
 
 ## Overview
 
-Blue Belt, also known as the Toyota Wreck, is the wreck of the Saudi Arabian cargo vessel that sank on December 2, 1977, after striking Shaab Suedi reef. The ship was laden with Toyota vehicles and spare parts en route to Port Sudan. Today, the wreck rests upside down on a sloping seabed, stretching from depths of 21 to 90 meters, making this an expert-level diving destination suitable only for highly experienced wreck divers. This deep site requires advanced decompression planning and exceptional comfort with deep diving techniques.
+The Blue Belt was a general cargo ship built in 1950 by Howaldtswerke A.G. in Hamburg. On 2 December 1977, while sailing from Jeddah to Port Sudan carrying around 190 Toyota vehicles (cars, trucks, tractors, and spare parts), she struck Shaab Suedi reef — sources attribute the collision to poor winter weather and a navigational error, but the precise cause is not fully documented. Salvage attempts removed part of the cargo, scattering vehicles and parts around the site, and the ship eventually settled upside down on a roughly 30-degree slope. Historically, divers entered through a large hull opening around 36m and worked up through the interior toward the bow. In 2013, the hull reportedly slipped further off the reef, putting most of the structure beyond recreational diving range. The ship's flag/nationality and exact tonnage are not confirmed by any source found during research and are not stated here.
 
 ## Site Information
 
-- **Location**: Shaab Suedi Reef, Sudan Red Sea
+- **Location**: Shaab Suedi Reef, ~75km north of Port Sudan
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Expert
-- **Maximum Depth**: 45 meters
-- **Safe Depth for Most Divers**: 21-50 meters (external wreck only)
-- **Note**: Wreck is unstable and upsidedown—deep dives only
-
-## Wreck History
-
-The MV Blue Belt (2,399 tons displacement) was a Saudi Arabian general cargo vessel that struck Shaab Suedi reef on December 2, 1977. Salvage attempts were made and partial cargo recovery occurred, leaving scattered Toyota vehicles and spare parts across the seabed. The ship eventually settled upside down on the sloping bottom.
+- **Depth Range**: 15-85 meters (much of the wreck is now beyond recreational limits following a 2013 shift)
+- **Note**: Wreck is upside down and largely beyond recreational range post-2013 — this is technical/deep diving territory only
 
 ## Marine Life
 
-The wreck attracts schools of big-eye trevallies, snappers, and impressive lunartail groupers. White-tip reef sharks are frequently sighted patrolling the site. The deep nature of this wreck limits the biodiversity compared to shallower reefs, but pelagic species and large groupers make it an exceptional technical diving destination.
+Sources describe schools of trevally and snappers and occasional groupers around the wreck; no site-specific report of shark sightings was found and none is claimed here. The deep, technical nature of the site limits documented biodiversity compared to Sudan's shallower reefs.
 
 ## Dive Profile
 
-Blue Belt is an advanced technical wreck dive requiring careful planning. Most recreational dives focus on the upper sections visible at 21-50 meters depth. Advanced technical divers with deep diving certifications can explore deeper sections. Mandatory decompression is required for dives beyond 40 meters. The wreck's inverted position means descending to it involves a moderately steep slope descent, requiring excellent buoyancy control. Plan conservative bottom times and strict depth adherence.
+This is a deep technical wreck dive. Historically, recreational-limit divers focused on upper sections around 21-40m before the reported 2013 shift; current accessibility of those upper sections is not confirmed by recent sources. Divers attempting this site should plan with their liveaboard's dive guides and confirm current conditions before entering the water — do not rely on older published depth figures without local verification.
 
 ## Entry and Exit
 
-Access is exclusively via liveaboard dive boat from Port Sudan operators. Entry typically uses giant stride entry in moderate sea states. Descents follow the slope toward the wreck structure guided by the dive guide. Due to depth and technicality, shore-based diving is not available. Ascent requires staged decompression with multiple safety stops.
+Access is exclusively via liveaboard from Port Sudan. Entry and exit are managed by the dive guide given the depth and technical nature of the site.
 
 ## Tips and Recommendations
 
-- Only for divers with technical deep diving certifications (preferably TDI or IANTD Adv. Nitrox & Decompression)
-- Plan your dive profile with the liveaboard dive guides—no casual exploration
-- Bring redundant depth computers and timers
-- Use high-visibility surface marker buoy (SMB) for safety stop
-- Carry adequate decompression gas and backup lighting
-- Excellent buoyancy control is essential to prevent unplanned descents
-- This is NOT a site for beginners or intermediate divers seeking "deeper diving"
+- Confirm current wreck position and accessible depth with your liveaboard operator before diving — the site has shifted since being originally surveyed
+- Technical/deep diving certification is required for anything beyond the shallowest sections
+- Carry redundant depth-tracking instruments and appropriate decompression gas planning
 
 ## Safety Considerations
 
-This is a demanding deep technical dive. Hazards include nitrogen narcosis below 40m, decompression sickness, shallow water blackout, entanglement risks on the unstable wreck structure, and limited visibility in silt. Only dive if you have deep diving training and recent experience with technical decompression. Shallow water blackout is a real risk on ascent—always maintain proper buoyancy and controlled ascent rates. Abort the dive immediately if visibility drops significantly or if you experience any signs of nitrogen narcosis affecting judgment.
+This is demanding, technical diving. Never attempt wreck penetration without appropriate training — interior exploration always carries risk and is never "safe," regardless of experience level. Nitrogen narcosis, decompression obligations, and limited visibility in silt are all relevant hazards at depth.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Blue Belt - Toyota Wreck - Adrex.com](https://www.adrex.com/en/articles/water/scuba-diving/blue-belt-toyota-wreck-scuba-diving-sudan/), [The Blue Bell (Toyota Wreck) in Sudan - Red Sea Diving Safari](http://cassiopeiasafari.com/blue-bell-toyota-wreck/), [Sudan - Blue Belt (Toyota Wreck) - GoodDive](https://www.gooddive.com/egypt/blue-belt-wreck.htm). Last updated 2026-07-03.*

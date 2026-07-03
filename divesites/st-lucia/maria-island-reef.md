@@ -28,4 +28,4 @@ The Maria Islands (also spelled Marie Islands) form a nature reserve off the sou
 - **Maximum Depth**: 15 meters
 
 ---
-*Description based on OSM data (OSM way 1022427960) and St. Lucia National Trust nature reserve records. No site-specific dive sources found. Last updated 2026-05-24.*
+*Description based on OSM data (OSM way 1022427960) and St. Lucia National Trust nature reserve records. Re-checked 2026-07-03 with a targeted search across major St. Lucia dive directories (Scuba St. Lucia, SMMA, stlucia.org, Moorings, Bluewater Dive Travel) - none list a named scuba dive site at Maria Island/Islands; the reef there appears to be used for guided snorkeling within the nature reserve rather than as a documented scuba site. No site-specific dive sources found. Last updated 2026-07-03.*

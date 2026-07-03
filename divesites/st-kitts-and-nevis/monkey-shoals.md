@@ -3,7 +3,7 @@ name: Monkey Shoals
 lat: 17.24
 lng: -62.69
 difficulty: Intermediate
-maxDepth: 34
+maxDepth: 31
 entryType: boat
 siteType: reef
 ref: null
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Monkey Shoals
 
-Monkey Shoals is a reef dive site in St. Kitts and Nevis, Caribbean.
+Monkey Shoals is a roughly one-square-mile coral atoll sitting in the Narrows channel between St. Kitts and Nevis, known for nurse sharks and lobsters at its deeper overhangs and the unusual flying gurnard.
 
 ## Overview
 
-Monkey Shoals is a roughly one-square-mile coral atoll sitting in the channel between St. Kitts and Nevis, offering excellent visibility and dense marine life well away from the coastal runoff that can affect inshore sites. The shoal encompasses multiple sub-sites ranging from shallow nursery reefs at around 9 meters to deeper overhangs and drop-offs exceeding 30 meters, where nurse sharks, green moray eels, and large spiny lobsters take shelter under ledges. Horse-eye jacks, schooling barracuda, eagle rays, southern stingrays, and the unusual flying gurnard are regularly encountered across the atoll, making it one of the most species-rich sites in the St. Kitts area.
+Monkey Shoals is a coral atoll about one square mile in size, sitting directly in the channel between St. Kitts and Nevis roughly three miles offshore. The mid-channel location keeps the reef away from coastal runoff and generally delivers good visibility and dense fish life, though currents and wind can sometimes prevent operators from diving the site at all. Depths across the atoll's several sub-sites range from around 12 metres over the shallower shelves to roughly 21-31 metres at the deeper overhangs, depending on which source is consulted. Dive Training Magazine describes it as a "shallow limestone reef" home to rays, occasional nurse sharks, and flying gurnards — a bottom-dwelling fish that spreads its striking fan-shaped fins and glides across the seafloor when disturbed.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: The Narrows, between St. Kitts and Nevis
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 34 meters
+- **Maximum Depth**: 31 meters
 
 ## Marine Life
 
-Horse-eye jacks, schooling barracuda, eagle rays, and southern stingrays are regularly encountered across the atoll's multiple sub-sites, while nurse sharks, green moray eels, and large spiny lobsters take shelter under overhangs in the deeper sections. The unusual flying gurnard is a sought-after sighting here, and hawksbill turtles are present throughout — making Monkey Shoals one of the most species-rich dives in the St. Kitts area.
+Nurse sharks, moray eels, and large spiny lobsters are the signature sighting at the deeper overhangs (My St Kitts Dive Buddy), while scorpionfish, lobster, and the flying gurnard are reported across the atoll more broadly (Active Caribbean Travel, Dive Training Magazine). Dive Training Magazine also confirms rays are seen here, though without specifying species. Earlier versions of this page listed horse-eye jacks, schooling barracuda, eagle rays, southern stingrays, and hawksbill turtles for Monkey Shoals — none of these could be confirmed for this specific site in any source checked. That exact species combination is genuinely documented for nearby Booby Shoals and appears to have been misattributed here in an earlier pass.
 
 ---
-*Sources: [Living Oceans Foundation - Caribbean Reefs](https://www.livingoceansfoundation.org/), [divebuddy.com - Monkey Shoals](https://www.divebuddy.com/), [padi.com - St Kitts Dive Sites](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [My St Kitts Dive Buddy - Reef Diving](https://mystkittsdivebuddy.com/reef-diving-sites-of-st-kitts/), [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/), [Dive Training Magazine - Exploring St. Kitts](https://dtmag.com/thelibrary/exploring-st-kitts-island-made-for-adventures/). Last updated 2026-07-03.*

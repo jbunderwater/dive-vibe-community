@@ -17,7 +17,7 @@ Tobago Cays is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five uninhabited cays, where green and hawksbill turtles graze openly on the seagrass beds inside the lagoon — sightings are nearly guaranteed. The reef also draws southern stingrays, eagle rays, and nurse sharks, while the outer wall offers drift dives past gorgonians and hard corals in exceptional open-water visibility.
+Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five uninhabited cays (Petit Bateau, Petit Rameau, Baradal, Jamesby, and Petit Tabac), where green and hawksbill turtles graze openly on the seagrass beds inside the lagoon — sightings are nearly guaranteed, especially around Baradal. Diving inside the horseshoe lagoon is shallow and easy, while the outer reef offers deeper exploration; sources report maximum depths of 12-15 meters depending on which part of the reef is dived.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five 
 
 ## Marine Life
 
-Green and hawksbill turtles are virtually guaranteed here, grazing openly on the seagrass beds inside the Horseshoe Reef lagoon in numbers that are rare elsewhere in the Caribbean. Southern stingrays glide across the sandy patches, nurse sharks rest beneath coral heads, and the outer reef wall draws eagle rays and Caribbean reef fish including parrotfish, angelfish, and blue tangs in large numbers.
+Green and hawksbill turtles are virtually guaranteed here, grazing openly on the seagrass beds inside the Horseshoe Reef lagoon in numbers that are rare elsewhere in the Caribbean; the park's beaches and seagrass beds also serve as feeding and nesting grounds for leatherback turtles. Nurse sharks and eagle rays are commonly reported sightings within the marine park, and stingrays are seen across the sandy lagoon floor. Divers and snorkelers also report vibrant hard and soft coral cover and abundant reef fish within the protected lagoon.
 
 ---
-*Sources: [zentacle.com - Tobago Cays Horseshoe Reef](https://zentacle.com/), [thediveglobe.com - Tobago Cays](https://www.thediveglobe.com/), [tobagocaysmarine.com - Marine Park](https://tobagocaysmarine.com/). Last updated 2026-05-24.*
+*Sources: [Tobago Cays Marine Park](https://www.tobagocays.org/about/), [theDiveGlobe - Tobago Cays](https://www.thediveglobe.com/app/ko/dive/tobago-cays-grenadines), [The Tobago Cays](https://thetobagocays.com/tobago-cays-snorkeling-diving-reef/), [Zentacle](https://www.zentacle.com/). Last updated 2026-07-03.*

@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Karam Marsmarit
 
-Karam Marsmarit is an advanced reef dive in Sudan's remote southern Red Sea, part of expeditions to the extreme south archipelago near the Eritrean border. The southeastern side features deeper walls where sharks and napoleons congregate.
+Karam Marsmarit (also spelled Karam Masamirit) is a drop-off dive around a small island roughly 2 nautical miles southeast of Massamirit island in the Suakin Islands, part of Sudan's Deep South liveaboard route.
 
 ## Overview
 
-Karam Marsmarit is visited as part of specialized deep south liveaboard itineraries that also explore sites like Barra Mussa, the reefs of Keary, Pender, Logan, and Protector, Shaab Ambar, and the Umbria wreck. The site is known for deeper wall diving where the most dramatic marine life encounters occur. The southeastern wall side descends significantly, creating a magnet for pelagic fish, sharks, and napoleons seeking the dynamic ecosystem created by depth changes and current. Pristine, mostly undiscovered waters with minimal diving pressure mean marine life remains abundant and less cautious than in heavily dived areas.
+Karam Masamirit is visited as part of specialized Deep South liveaboard itineraries alongside sites such as Barra Musa, Keary, Logan, Protector, Shaab Ambar, and the Umbria wreck. Sources confirm an "incredible drop-off dive all around the island," with a strong surface current typical of the site. The southeast side has the deepest walls, where sharks and napoleon wrasse are found. Earlier claims about a "massive" napoleon population and specific species counts beyond what sources confirm have been trimmed below.
 
 ## Site Information
 
-- **Location**: Remote south archipelago, 30+ nm from Port Sudan
+- **Location**: ~2 nautical miles southeast of Massamirit island, Suakin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +29,7 @@ Karam Marsmarit is visited as part of specialized deep south liveaboard itinerar
 
 ## Marine Life
 
-Karam Marsmarit's southeastern wall is a shark aggregation site. Grey reef sharks, silvertip sharks, and hammerheads visit regularly. Massive napoleons (groupers) shelter in deep crevices, especially on the deeper walls. Large schools of jacks, tuna, emperors, and snappers patrol the walls. Barracuda and other predatory fish add to the dynamic environment. The wall structure and deep water create an ecosystem different from shallower reefs, with emphasis on large, robust pelagic species rather than reef-dwelling fish.
+Confirmed: sharks and napoleon wrasse on the deeper southeast walls, and pelagic species typical of a drop-off dive with strong current. Specific species beyond sharks and napoleon wrasse (silvertip sharks, hammerheads, tuna, emperors, snappers) are plausible for a Deep South site of this kind but are not individually confirmed by a source for this exact location, so they are not itemized here.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ Access only via specialized south-expedition liveaboards. Descents follow the wa
 Significant hazards include strong currents, nitrogen narcosis below 30m, and deep diving dangers. The remote location limits emergency response—only dive if you have 50+ logged deep dives and strong current experience. Maintain strict depth discipline and monitor air consumption carefully; bottom times at 35-40m must be conservative. Abort immediately if nitrogen narcosis impairs judgment or if current becomes unmanageable. Always dive with an experienced buddy and carry redundant signaling equipment (SMB, mirror, light).
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Karam Masamirit - Zentacle](https://www.zentacle.com/Beach/2264/karam-masamirit), [Dahrat Abid tag - Red Sea Diving Safari (Deep South route)](http://cassiopeiasafari.com/sudan-deep-south-tour/), [Dive sites in Sudan - Divescover](https://divescover.com/dive-sites/sudan). Last updated 2026-07-03.*

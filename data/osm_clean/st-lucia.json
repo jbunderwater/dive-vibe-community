@@ -11,9 +11,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "scubadiving.com,padi.com,divesaintlucia.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names. Wall dive at Pitons confirmed. Depth 50m is maximum reported."
+      "validation_source": "scubastlucia.com,padi.com,smmainc.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Re-fetched scubastlucia.com/diving/ directly and cross-checked blog.padi.com and SMMA search results. Confirmed: drift dive along the submerged face of Petit Piton, named for Superman II filming location, current-driven. Marine life corroborated across 2+ fresh sources: soft corals, sponges, schools of grunts and parrotfish (padi.com); southern stingrays and sea turtles retained from prior validated pass. Removed unconfirmed 'reef shark encounters' line - no source (fresh or prior) confirms this at this specific site, and it violates the marine-life site-specificity rule even hedged. Depth 50m retained as maximum reported; a single AI-search snippet citing '1500ft' is an obvious scraping artifact and was not used."
     }
   },
   {
@@ -28,9 +28,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "scubastlucia.com,scubadiving.com,padi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Shore reef confirmed at Anse Chastanet. Shallow starting 15ft."
+      "validation_source": "scubastlucia.com,smmainc.com,padi.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Directly fetched scubastlucia.com/diving/ today: shore dive on a plateau from 5-25ft dropping away to 140ft (42m) at the outer edge, 150+ fish species, gorgonians, soft corals, sponges, moray eels, parrotfish, needlefish schools. SMMA search result corroborates '20ft-140ft' depth range. CORRECTION: seahorses/scorpionfish/cleaner shrimp claims previously attached to this site were misattributed - fresh research shows scubastlucia.com's 'Anse Couchon' listing (steep slope, boulders, seahorses/scorpionfish/cleaner shrimp in shallows) actually describes the Pinnacles (Anse Cochon) site at a different location, not Anse Chastanet. Moved to the correct site. Depth field kept at 20m to reflect the realistic beginner/shore-dive maximum; the deeper 42m drop-off at the reef edge is noted in the description as a distinct, non-beginner extension of the site."
     }
   },
   {
@@ -45,9 +45,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "smmainc.com,divesaintlucia.com,padi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Pinnacles at Anse Cochon confirmed by SMMA and Scuba St. Lucia."
+      "validation_source": "scubastlucia.com,smmainc.com,divesaintlucia.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Directly fetched scubastlucia.com/diving/ today, matched to their 'Anse Couchon' listing: steep slope with large boulders covered in sponges and gorgonians; seahorses, scorpionfish, and cleaner shrimps found in shallow areas. This corrects a prior misattribution where these species were listed under Anse Chastanet Reef instead of this site. smmainc.com and divesaintlucia.com retained from prior pass as general SMMA/operator corroboration of pinnacle-type finger coral formations at Anse Cochon; could not be re-fetched directly today (site returned no content / 403) so treated as carried-forward corroboration rather than freshly re-verified."
     }
   },
   {
@@ -62,9 +62,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "smmainc.com,padi.com,scubastlucia.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. PADI blog describes as 'probably most visually stunning dive site' with four volcanic peaks rising from depths to near surface."
+      "validation_source": "padi.com,smmainc.com,divein.com,scubastlucia.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Directly fetched blog.padi.com today: 'four dramatic seamounts that rise from the depths, almost up to the surface,' black and orange gorgonian sea fans, grouper, filefish, seahorses, frogfish. Cross-checked against fresh WebSearch of divein.com (four seamounts rising to within a few feet of the surface, voted one of '10 Best Dive Sites' by Caribbean Travel & Life) and smmainc.com (trumpetfish, filefish, frogfish, seahorses). scubastlucia.com's 'Pinnacles' listing (trumpetfish, filefish, seahorses) matches this site's four-seamount description rather than Pinnacles (Anse Cochon). Trimmed marine life list to species confirmed by 2+ of these fresh sources (trumpetfish, filefish, seahorses, frogfish, grouper); removed snappers, pufferfish, horse-eye jacks, and barracuda, which no source consulted today attributes to this specific site. Whale shark/ocean sunfish claims remain removed from prior pass - still unconfirmed."
     }
   },
   {
@@ -80,8 +80,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "scubastlucia.com,smmainc.com,padi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted to domain names."
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Directly fetched scubastlucia.com/diving/ today: crescent-shaped reef dropping quickly from a plateau starting at 40ft (12m) to over 150ft (45m+); pillar coral, barrel sponges, hawksbill and green turtles. Depth field kept at 12m to represent the beginner-accessible plateau (matches Beginner difficulty); the deeper drop-off beyond recreational limits is now flagged explicitly in the markdown per the source rather than silently omitted or used to inflate the depth field."
     }
   },
   {
@@ -96,9 +96,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "islanderkeys.com,scubastlucia.com,caribbean-diving.com,padi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Lesleen M confirmed: 165ft (~50m) freighter, scuttled October 1986, Anse Cochon bay, dept of fisheries. Rests on even keel. Deck at 9m, max depth 18m (60ft). Cargo hold accessible. Rudder and propeller intact. Marine life: turtles, lobsters, moray eels, spider crabs, shrimp, schools of red snapper, angelfish, barracuda confirmed."
+      "validation_source": "scubastlucia.com,islanderkeys.com,caribbean-diving.com,padi.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep wreck-history re-audit 2026-07-03, 4 independent sources directly fetched/searched today. Cross-checked: 165-foot freighter (islanderkeys.com, scubastlucia.com, padi.com all agree), sunk 1986 by St Lucia's Department of Fisheries as artificial reef (all sources agree; only one source specifies October, not independently reconfirmed today so kept as 'sunk in 1986'). Depth: sources cluster 18-22m/60-72ft (caribbean-diving.com: ~22m/60ft; islanderkeys.com: 60ft; scubastlucia.com: 65ft max/30ft to deck; padi.com: 40-65ft/12-20m) - range noted explicitly rather than picking one figure. Rests upright/intact on keel (all sources agree). Marine life cross-referenced across sources: moray eels (4 sources), lobsters (3), turtles, angelfish, red snapper/snappers, spider crabs, shrimp, scorpionfish, barracuda, frogfish - each attributed to the specific source that reported it. Removed unverified single-source 'Pappy Mac' naming-origin story (buckettripper.com only, not corroborated elsewhere, historical-narrative red flag) per anti-hallucination policy."
     }
   },
   {
@@ -113,9 +113,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "smmainc.com,scubastlucia.com,padi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Shore reef at Jalousie Bay (Sugar Beach) between Pitons confirmed."
+      "validation_source": "scubastlucia.com,smmainc.com,padi.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Directly fetched scubastlucia.com/diving/ today: site at the base of Gros Piton with schooling fish, creole wrasse, and bar jack. Trimmed marine life list - sergeant majors and squid from the prior pass could not be re-confirmed by any source consulted today and were removed; seahorses and trumpetfish retained from prior smmainc.com/padi.com sourcing as carried-forward (not re-fetched today, those pages returned no usable content on this pass)."
     }
   },
   {
@@ -130,9 +130,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "divesaintlucia.com,tikaye.com,smmainc.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Anse La Raye wall confirmed: starts at 18m/60ft, descends to 34m/110ft per SMMA/DIVEIN. Ti Kaye Resort operates dives here."
+      "validation_source": "padi.com,scubastlucia.com,divein.com,tikaye.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Directly fetched blog.padi.com today: 'main wall starts at around 18 meters/60 feet and descends to 34 meters/110 feet,' requires Advanced Open Water certification, stingrays and eagle rays abound, gorgonian fans/sea whips/huge barrel sponges, brightly colored fire coral in the shallows. Cross-checked against fresh WebSearch of divein.com (same 18-34m range, same features) and direct fetch of scubastlucia.com (dramatic wall, sea whips, gorgonians, soft coral). Depth field of 40m retained as the outer reported maximum (some sources round to 34m/110ft, others report slightly deeper); this is noted in the markdown. Removed unconfirmed superlative claim that turtles are 'more common here than anywhere else in the Soufriere area' - no source consulted today repeats this, and it reads as an invented comparison. Trimmed marine life to stingrays and eagle rays (2+ fresh sources); Bermuda chubs, spotted drums, jacks, and moray eels removed as unconfirmed today."
     }
   },
   {
@@ -147,9 +147,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "deeperblue.com,divingaway.com,zubludiving.com,scubaweather.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Daini Koyomaru confirmed: Japanese dredger, scuttled September 1996 by St Lucia government as artificial reef. Length: sources vary between 74m (DeeperBlue) and 75m (divingaway.com). Originally upright at 32m, knocked onto starboard side by Hurricane Lenny 1999. Current depth: various sources say max 20m (resting on side) to 33m. Description notes both figures. Marine life: pufferfish, French angelfish, barracuda, moray eels, turtles confirmed."
+      "validation_source": "divefairhelen.com,scubaweather.com,divingaway.com,deeperblue.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep wreck-history re-audit 2026-07-03. Directly fetched divefairhelen.com and scubaweather.com today. CONFIRMED across 2+ independent sources: Japanese dredger, 244 feet long (~74-75m depending on source rounding), purchased by the St Lucia government in the early 1990s to dredge the port of Vieux Fort for banana boats, scuttled September 1996 by the Department of Fisheries as an artificial reef. Maximum depth 108ft/33m (divefairhelen.com, scubaweather-linked sources), matches prior 33m figure. TONNAGE CLAIM REMOVED: only divefairhelen.com states a specific tonnage (16,000 tons); no second independent source consulted today confirms this figure, so per the 2-source rule for wreck dimensions it has been omitted rather than asserted. ORIENTATION CONFLICT FLAGGED: divefairhelen.com states the vessel 'landed on its side' during the September 1996 sinking itself; this contradicts an earlier (now-unconfirmable) claim in prior qa_notes that Hurricane Lenny toppled it in 1999 - that source could not be re-accessed today (403/503 errors), so both accounts are now presented as a flagged conflict in the markdown rather than one being silently kept. Marine life trimmed to eels and barracuda (directly confirmed by divefairhelen.com, including the detail that some barracuda followed the vessel during its tow from Vieux Fort); pufferfish, French angelfish, and turtles removed as unconfirmed by any source consulted today."
     }
   },
   {
@@ -164,9 +164,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "smmainc.com,scubastlucia.com,padi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Shore reef at Soufrière area confirmed."
+      "validation_source": "scubastlucia.com,smmainc.com,padi.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Directly fetched scubastlucia.com/diving/ today: sargassum triggerfish in deeper areas, dense sea plumes forming juvenile-fish nursery habitat in the shallows. Matches and reconfirms content from prior 2026-05-24 pass almost exactly - no corrections needed, description already met the source-specific standard."
     }
   },
   {
@@ -182,8 +182,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "padi.com,scubastlucia.com,smmainc.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Drift dive at Pitons area confirmed. Advanced due to current."
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. IMPORTANT CAVEAT: no operator website consulted today (scubastlucia.com, blog.padi.com, smmainc.com, divein.com) lists a distinctly named site called 'The Drift (Pitons)' separate from Superman's Flight or Anse La Raye Wall. It appears to represent the general drift-diving character of the Piton wall zone (confirmed as a real, widely-documented phenomenon: PADI describes moderate drift current at Superman's Flight, divein.com/PADI describe drift-diving experience recommended at Anse La Raye) rather than a single named operator site. Left validated because the underlying drift-diving character at these coordinates is well corroborated, but trimmed marine life to only the species confirmed for the general Piton wall zone across sources (turtles, stingrays, eagle rays); removed seahorses and frogfish, which are typical of sheltered pinnacle sites rather than an exposed current-swept drift wall and were not confirmed for this specific location by any source today."
     }
   },
   {
@@ -198,9 +198,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "divesaintlucia.com,smmainc.com,tikaye.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source reformatted. Wall dive at Grand Caille confirmed by DiveWorld and SMMA."
+      "validation_source": "scubastlucia.com,divein.com,smmainc.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Directly fetched scubastlucia.com/diving/ today ('very dramatic dive site with deep water gorgonians and sea whips, huge brain corals and barrel sponges') and cross-checked fresh WebSearch of divein.com. CORRECTION: prior markdown translated Grand Caille as Creole for 'large reef' - divein.com explicitly quotes it as Patois for 'Great House' ('Grand Caille, which is Patois for \\'Great House\\''). Corrected to the sourced translation. divein.com also notes the site was historically known for big fish, though few remain due to extensive fishing - included as a sourced, low-risk environmental note. MARINE LIFE STRIPPED: the prior specific species list (trumpetfish, angelfish, butterflyfish, lionfish, lobsters, frogfish, puffer fish, spotted drums, damselfish, turtles) is not confirmed by either source consulted today, which describe only coral/sponge habitat and generic 'big fish' - replaced with an explicit statement that no site-specific marine-life species list could be verified today."
     }
   },
   {
@@ -224,8 +224,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": false,
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source 'perplexity' removed - perplexity AI is NOT a valid source. No independent dive-specific sources found for 'El Pirata Shipwreck' on St Lucia's southern coast. OSM data confirms wreck exists (visible at high and low tide). Depth_max 20m from OSM. Cannot validate factual claims without real sources. Marked unvalidated."
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03 - re-searched specifically for wreck-history facts (vessel name confirmation, build date, length, tonnage, sinking cause) per wreck deep-research requirement. Found only 'Il Pirata Beach' near Vieux Fort (a beach, referenced in a 2025 news article about a drowning - not a dive-site source) and no dive operator, ScubaBoard, or maritime-history source describing a wreck dive by this name. OSM tags remain the only confirmation the wreck physically exists (visible at high and low tide, non-dangerous). Zero of the five required wreck facts (vessel name beyond the OSM label, build date, length, tonnage, sinking cause) could be cross-checked across 2 independent sources. Remains unvalidated; do not mark validated without a genuine dive-specific or maritime-history source."
     }
   },
   {
@@ -245,9 +245,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divesaintlucia.com,smmainc.com,scubadiving.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Fairyland confirmed as Divemaster favorite with strong currents keeping corals vibrant. One of the most colorful reefs in St Lucia confirmed by DIVEIN and Scuba St Lucia."
+      "validation_source": "scubastlucia.com,padi.com,smmainc.com",
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Directly fetched blog.padi.com today: 'strong currents and flow of nutrient-rich water keep its abundance of corals and sponges vibrant in color,' schools of fish, rays, curious sea turtles, parrotfish, moray eels - 'one of the most colorful reefs in St. Lucia.' Cross-checked against scubastlucia.com/ansechastanet.com content (named by a local instructor, lush and nutrient-dense, lobsters, stingrays, flounders, sea turtles, breeding ground for octopuses) and smmainc.com (considered most beautiful site by local operators, off West Pointe south of Anse Chastanet, plateau sloping 40-60ft/12-18m). MARINE LIFE CORRECTED: prior list (horse-eye jacks, Bermuda chubs, Creole wrasse, chromis) is not confirmed by any source consulted today - replaced with the cross-source-confirmed list (sea turtles, rays/stingrays, parrotfish, moray eels, octopus breeding ground, lobsters, flounder)."
     }
   },
   {
@@ -266,8 +266,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": false,
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. validation_source 'perplexity' removed - perplexity AI is NOT a valid source. Maria Islands (also spelled 'Marie Islands') are a confirmed nature reserve off St Lucia's south coast. Reef exists (OSM natural=reef confirmed). No dive-specific sources found for the dive site specifically. Marked unvalidated until real sources found."
+      "last_qa_date": "2026-07-03",
+      "qa_notes": "Deep re-audit 2026-07-03. Re-searched exhaustively for dive-specific sources. Confirmed the Maria Islands Nature Reserve is real (St. Lucia National Trust, tour access restricted to licensed guides, closed to visitors May-August for seabird nesting) with a coral reef used for snorkeling near a small beach, per tropicalsnorkeling.com and evendo.com/takeyourbackpack.com. However a targeted WebSearch cross-referencing major St. Lucia dive-site directories (scubastlucia.com, smmainc.com, stlucia.org, moorings.com, bluewaterdivetravel.com, scubadiving.place) explicitly found no site called 'Maria Island' or 'Maria Islands' among documented scuba dive sites - the reserve appears to be used for snorkeling and eco-tourism rather than as a named scuba dive site. Remains unvalidated; the snorkeling/nature-reserve sources are not a substitute for a dive-specific source confirming depth, difficulty, or marine life for scuba diving at this location."
     }
   }
 ]

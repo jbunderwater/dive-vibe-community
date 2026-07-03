@@ -17,7 +17,7 @@ Petit St. Vincent Reef is a reef dive site in St. Vincent and the Grenadines, Ca
 
 ## Overview
 
-Petit St. Vincent Reef surrounds the private island of PSV in the southern Grenadines, part of the Mission Blue Hope Spot and a Marine Conservation Area where over a decade of anchor and fishing restrictions has produced notably healthy reefs. The site offers a mix of sloping coral gardens and gentle drop-offs to around 20 meters, with brain coral, elkhorn, pillar coral, and gorgonian sea fans in good condition. Spotted drum, scorpionfish, flamingo tongue snails, moray eels, and frogfish reward attentive divers, while eagle rays, nurse sharks, and hawksbill turtles are regular visitors to the open water above the reef.
+Petit St. Vincent Reef surrounds the private island of PSV in the southern Grenadines, adjacent to the Mission Blue Hope Spot, in a Marine Conservation Area where anchor and fishing restrictions plus an active CLEAR Caribbean coral nursery (elkhorn and staghorn coral) have produced notably healthy reefs. The site offers a mix of sloping coral gardens and gentle drop-offs to around 20 meters.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Petit St. Vincent Reef surrounds the private island of PSV in the southern Grena
 
 ## Marine Life
 
-The long-protected reef supports attentive macro finds including spotted drum, scorpionfish, flamingo tongue snails, and frogfish nestled among the brain, elkhorn, and pillar coral heads. Hawksbill turtles and eagle rays visit regularly from the open water, and nurse sharks are commonly found resting beneath coral overhangs in the deeper sections near the gentle drop-offs.
+Confirmed sightings around Petit St. Vincent include eagle rays, nurse sharks, Caribbean reef sharks, sea turtles, spiny lobsters, great barracuda, and schools of blue tang, cowfish, and unicornfish, along with juvenile-to-adult drum fish over the shallow, sandy-bottomed house reef (Scuba Diving Magazine, PSV Resort). The PSV Dive Center's own site listing (PADI) additionally reports scorpionfish, flamingo tongue snails, moray eels, and frogfish here, though those have not yet been independently corroborated by a second source, so they are noted as PADI-listed rather than fully cross-confirmed.
 
 ---
-*Sources: [psvresort.com - Diving at PSV](https://www.psvresort.com/), [padi.com - Petit St Vincent Dive Sites](https://www.padi.com/), [bluewater.com - Southern Grenadines](https://www.bluewaterdivetravel.com/). Last updated 2026-05-24.*
+*Sources: [Petit St Vincent Resort - Watersports](https://www.petitstvincent.com/activities/watersports/), [PADI - Petit St. Vincent Dive Center](https://www.padi.com/dive-center/saint-vincent-the-grenadines/petit-st-vincent-dive-center/), [Scuba Diving Magazine](https://www.scubadiving.com/unwind-petit-st-vincent-st-vincent-and-grenadines). Last updated 2026-07-03.*

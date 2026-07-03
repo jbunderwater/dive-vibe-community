@@ -29,7 +29,7 @@ Named for an 18th-century anchor buried in its coral, Anchor Reef is consistentl
 
 ## Marine Life
 
-The wall's crevices and overhangs are home to resident longsnout seahorses, frogfish, and moray eels, with black coral trees and gorgonian fans providing shelter throughout the drop-off. Hawksbill turtles are regular visitors in the shallower reef sections, while eagle rays and barracuda patrol the open blue beyond the wall edge.
+The wall's crevices and overhangs shelter longsnout seahorses and multiple color morphs of frogfish, along with goldentail moray eels and the occasional porcelain two-spot octopus (logged on Dive St. Vincent trip reports). Ghost pipefish, lobsters, and other rays are also reported here, with black coral and gorgonian fans lining the drop-off. Barracuda patrol the open blue beyond the wall edge, and squid have been reported in the water column.
 
 ---
-*Sources: [divestvincent.com - Anchor Reef](https://www.divestvincent.com/), [tripadvisor.com - Dive St Vincent Reviews](https://www.tripadvisor.com/), [divessi.com - St Vincent Dive Sites](https://www.divessi.com/). Last updated 2026-05-24.*
+*Sources: [Dive St. Vincent](https://www.divestvincent.com/), [theDiveGlobe - Anchor Reef](https://www.thediveglobe.com/app/nl/dive/anchor-reef-st-vincent), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [TripAdvisor - Anchor Reef](https://www.tripadvisor.com/Attraction_Review-g147380-d150154-Reviews-Anchor_Reef-St_Vincent_St_Vincent_and_the_Grenadines.html). Last updated 2026-07-03.*

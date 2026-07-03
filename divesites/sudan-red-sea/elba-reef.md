@@ -3,7 +3,7 @@ name: Elba Reef
 lat: 21.968583
 lng: 37.0254548
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,9 @@ Elba Reef is a remarkable triangle-shaped reef composed of three distinct platea
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
+
+**Note on sourcing**: dive-operator sources describe Elba Reef as a single reef complex (10-40m) rather than confirming the individually-named North/South/West/East "plateau" subdivisions used for the separate GPS points in this dataset. Those subdivisions are kept as distinct entries here since they are separately mapped, but figures specific to each (see below) are less firmly sourced than the reef-wide facts.
 
 ## The Three Plateaus
 
@@ -37,7 +39,7 @@ Elba Reef is a remarkable triangle-shaped reef composed of three distinct platea
 
 ## Marine Life
 
-Wild encounters are the hallmark of Elba Reef. Grey reef sharks and hammerheads cruise the deeper plateaus regularly. The reef's pelagic location and minimal diving pressure mean sharks show natural behavior without the wariness seen at heavily dived sites. Large jackfish, barracuda, emperors, and trevally school the currents. Abundant soft corals, sea fans, and hard coral growth throughout. Occasional manta rays, eagle rays, and other large species. The pristine coral and high fish density reflect low diving impact.
+Confirmed by sources: grey reef sharks and hammerheads, barracuda, and large pelagic schools, alongside untouched coral formations and dramatic drop-offs. Moray eels, groupers, and colorful reef fish are reported particularly around the adjacent Levanzo Wreck. Claims of manta rays and eagle rays at this specific site from a prior version of this page were not independently confirmed and have been removed.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Elba Reef Dive Site - Sadko Safari Fleet](https://www.sadko-safarifleet.com/dive-sites/elba-reef), [Discovering the Hidden Gem of the Red Sea: Diving Elba Reef - Divebooker](https://divebooker.com/blog/discovering-the-hidden-gem-of-the-red-sea-diving-elba-reef/), [Elba - Red Sea Diving Safari](http://cassiopeiasafari.com/tag/elba/). Last updated 2026-07-03.*
