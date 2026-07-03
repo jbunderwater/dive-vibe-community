@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Devil's Caves
 
-Devil's Caves is a cave dive site in St. Kitts and Nevis, Caribbean.
+Devil's Caves (also listed elsewhere as Devil's Caverns) sits at the south tip of Nevis, a swim-through site with a maximum depth of about 12 metres offering the thrill of cavern exploration without a technical dive.
 
 ## Overview
 
-Devil's Caves on Nevis's west coast is a network of coral grottos, overhangs, and swim-throughs at a comfortable 12-meter maximum depth, ideal for divers who want the thrill of cavern exploration without committing to a technical dive. Glassy sweepers pack the overhangs, blue tang patrol the open sections, nurse sharks rest in deeper recesses, and the occasional blacktip reef shark passes through the entrance on a casual visit.
+Devil's Caves is at the south tip of Nevis, roughly a 20-minute boat ride from the Four Seasons resort, according to Frommer's (content accessed via search index; the site returns an HTTP 403 error to direct automated fetching, so this is treated as a lower-confidence source pending direct verification). Frommer's describes a series of coral grottoes suitable for both certified and resort divers. Active Caribbean Travel independently and directly confirms the site (listed there as "Devil's Caverns"): several swim-throughs with a maximum depth of 40ft (12m), among corals and sea fans. Earlier versions of this page described the location as "north of Charlestown on Nevis's west coast" with glassy sweepers, blue tang, nurse sharks, and blacktip reef sharks — none of this could be traced to a reliable source and appears to conflict geographically with the Frommer's-confirmed south-tip location, so it has been removed.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: South tip of Nevis
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Devil's Caves on Nevis's west coast is a network of coral grottos, overhangs, an
 
 ## Marine Life
 
-Glassy sweepers pack the cavern overhangs and blue tangs patrol the open sections between grottos, while nurse sharks rest in the deeper recesses and blacktip reef sharks make occasional passes through the cave entrances. Spiny lobsters, moray eels, and small crustaceans occupy the crevices of the coral grottos, making this a site where the quantity of marine life per square metre rewards slow, careful exploration.
+Frommer's reports squirrelfish, turtles, and needlefish among the coral grottoes here. Active Caribbean Travel confirms tropical fish among the corals and sea fans without naming specific species. Broader Nevis reef fauna should be expected beyond this, but has not been specifically documented at this site.
 
 ---
-*Sources: [frommers.com - Nevis Diving](https://www.frommers.com/), [divenevis.com - Devil's Caves](https://divenevis.com/), [prodiversstkitts.com - Nevis Dive Sites](https://prodiversstkitts.com/). Last updated 2026-05-24.*
+*Sources: [Frommer's - Active Pursuits in St. Kitts](https://www.frommers.com/destinations/st-kitts/active-pursuits-in-st-kitts) (accessed via search index; site blocks direct fetch), [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/) (listed there as "Devil's Caverns"). Dive Nevis and Pro Divers St Kitts (previously cited) were checked directly and do not currently document this site by name. Last updated 2026-07-03.*

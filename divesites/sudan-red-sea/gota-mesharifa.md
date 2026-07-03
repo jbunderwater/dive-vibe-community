@@ -2,10 +2,10 @@
 name: Gota Mesharifa
 lat: 20.8608834
 lng: 37.3190921
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 15
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 9720985226
 addedBy: osm_import
@@ -13,50 +13,38 @@ addedBy: osm_import
 
 ## Gota Mesharifa
 
-Gota Mesharifa is a submerged pinnacle and wall dive in the Angarosh cluster of northern Sudan, located in the same offshore reef chain as Angarosh atoll. The site is known for its pristine coral coverage, clear open-ocean water, and the shark and pelagic life that concentrate around isolated offshore structures far from the coast.
+Gota Mesharifa (also known simply as Mesharifa) is a small sand island in a sheltered lagoon in northern Sudan, known as a manta ray cleaning and feeding station rather than as a wall or pinnacle dive.
 
 ## Overview
 
-"Gota" is the Arabic term for a submerged reef or pinnacle that rises toward the surface without breaking it — one of Sudan's most productive diving structures. Gota Mesharifa sits in deep water in the northern Sudan Red Sea, its summit rising to within accessible diving depth while its flanks fall away steeply on all sides. This isolated position concentrates marine life: fish gather at the pinnacle for shelter and feeding, and sharks and large pelagics patrol the surrounding blue water attracted by the abundance. The site receives minimal diving attention compared to the more famous nearby reefs, which contributes to undisturbed wildlife behaviour and pristine coral in excellent condition.
+**This description has been corrected from a prior version that inaccurately portrayed Mesharifa as a wall/pinnacle shark site — that content could not be verified and did not match any source found.** Mesharifa is a small sand island situated in a lagoon close to the Sudanese shore. From roughly August to November, the lagoon draws large numbers of manta rays that gather to feed on plankton blooms, and it is regarded as a manta cleaning station. Because of the same plankton that attracts the mantas, visibility during the season can be more limited than at Sudan's clearer offshore reefs. It is a comparatively gentle, shallow site by Sudan standards — divers and snorkelers alike can encounter mantas here.
 
 ## Site Information
 
-- **Location**: Northern Sudan Red Sea, Angarosh reef cluster
+- **Location**: Northern Sudan Red Sea, sheltered lagoon close to shore
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to May
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 15 meters
+- **Best Time**: August to November for manta encounters
 
 ## Marine Life
 
-Grey reef sharks and whitetip reef sharks are resident around the pinnacle base. Schools of jacks, fusiliers, and barracuda circle the structure in open water. Large groupers and Napoleon wrasse shelter in overhangs and crevices on the pinnacle walls. Moray eels occupy the rocky sections of the wall, and lionfish hover in shadowed recesses. The pinnacle top and upper walls are covered with healthy hard corals and the vivid anthias clouds typical of well-currented Sudan reef crests. Hammerheads appear in season, especially during early morning dives.
-
-## Dive Profile
-
-Descend to the pinnacle top at around 10 metres and circle the structure before dropping to the wall sections at 15-20 metres. Explore the pinnacle's different faces to find current-sheltered overhangs and exposed corners where fish and sharks concentrate differently. Avoid following the wall below 20 metres — the pinnacle drops steeply and the temptation to follow sharks deeper is strong. Finish the dive by ascending back to the pinnacle top and conducting a safety stop in open water before signalling the boat.
+Manta rays are the confirmed draw at this site, gathering seasonally (roughly August-November) to feed on plankton in the lagoon. No other species are confirmed for this specific site by available sources, so no broader species list is given here.
 
 ## Entry and Exit
 
-Access is by liveaboard dive boat. Descend on the pinnacle structure using it as a reference point throughout the dive. The boat monitors the group from the surface and picks up divers following an SMB safety stop. In stronger currents, entry and exit logistics are briefed by the dive guide based on conditions.
+Access is by liveaboard dive boat / tender into the lagoon. Conditions are sheltered compared to Sudan's exposed offshore walls and pinnacles.
 
 ## Tips and Recommendations
 
-- Circle the pinnacle completely — different faces have different coral characters and fish communities
-- Early morning is best for shark encounters near the pinnacle base
-- Maintain buoyancy carefully on the pinnacle top to avoid contact with coral
-- Use the pinnacle itself as depth and position reference throughout the dive
-- Wide-angle lens recommended for pinnacle overview shots and passing pelagics
+- Visit in season (roughly August-November) for the best chance of manta encounters
+- Expect reduced visibility during the plankton bloom that draws the mantas
+- This is a good stop for photographers focused on manta behaviour rather than wide reef scenery
 
 ## Safety Considerations
 
-The isolated position in deep water means currents can be strong and directional — assess current before descending and plan your drift direction. The steep wall beyond the pinnacle makes depth control critical; monitor continuously. Fire coral is present on exposed surfaces. Deploy a high-visibility SMB during the safety stop for reliable boat pickup in open water.
-
-## Photography
-
-Pinnacle dives offer distinctive photography opportunities — circling the structure with a wide-angle lens captures the scale of the formation against the blue water column. Fish schooling around the pinnacle top photograph well in natural light from above. Close-focus reef details on the coral-covered pinnacle summit reward macro setups.
+Standard buddy diving and SMB practices apply. Be aware that limited visibility during plankton blooms can make maintaining buddy contact harder than at Sudan's clear offshore sites.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Mesharifa Dive Site Guide - theDiveGlobe](https://www.thediveglobe.com/app/ar/dive/mesharifa-sudan), [Sudan North & Mesharifa - Egyptian Cruising Company](https://www.egyptiancruising.com/itineraries/sudan-north-and-mesharifa/), [Diving in Sudan. Top 5 Dive Sites - Divebooker](https://divebooker.com/blog/sudan-liveaboards-top-5-dive-sites/). Last updated 2026-07-03.*

@@ -17,7 +17,7 @@ Levanzo Wreck (SS Isola di Levanzo) is an advanced-level wreck dive at Elba Reef
 
 ## Overview
 
-The SS Isola di Levanzo is an Italian cargo vessel (113 meters long, 3,713 tons, built 1901) that sank on March 14, 1923, after going ashore on Elba Reef. While under salvage on March 28, 1923, the ship broke its towing hawser, drifted onto rocks, and sank. Now resting at the edge of Elba Reef's South Plateau, the wreck has become a thriving artificial reef with abundant marine life. The wreck begins at 22 meters with broken sections at 40 meters and reaches a maximum depth of 65 meters, demanding Advanced Open Water certification or equivalent and significant wreck diving experience.
+The SS Isola di Levanzo was an Italian cargo vessel built in 1901 by the Orlando Brothers shipyard in Livorno (Leghorn) — 339.6 feet long (approximately 103.5 metres, not the 113m previously stated here) and 3,713 tons. She ran aground on Elba Reef on 14 March 1923 while sailing from Genova to Durban carrying salt and other cargo. On 28 March 1923, during a salvage attempt, the ship broke her towing hawser, drifted onto rocks, and sank. Now resting at the edge of Elba Reef's South Plateau, the wreck has become a thriving artificial reef. The stern and propeller sit at 22 metres, a broken section lies around 40 metres, and the wreck reaches a maximum depth of roughly 65 metres — demanding Advanced certification or equivalent and real wreck-diving experience for anything beyond the shallowest sections.
 
 ## Site Information
 
@@ -31,7 +31,7 @@ The SS Isola di Levanzo is an Italian cargo vessel (113 meters long, 3,713 tons,
 
 ## Wreck Structure & Marine Life
 
-The SS Isola di Levanzo is a 113-meter vessel with distinct diving zones. The top sections at 22 meters feature large openings and natural light. Broken sections at 40 meters are more challenging and require conservative depth planning. Schools of jackfish and barracuda patrol the wreck structure. Colorful corals and sponges encrust the surfaces, demonstrating decades of artificial reef colonization. The wreck provides excellent habitat for groupers, snappers, morays, and countless smaller reef fish species.
+The SS Isola di Levanzo is a roughly 103.5-metre vessel with distinct diving zones. The top sections at 22 meters feature large openings and natural light. Broken sections at 40 meters are more challenging and require conservative depth planning. Sources report schools of jackfish and barracuda around the wreck, along with encrusting corals and sponges from decades of artificial-reef colonization. No source-specific inventory of resident fish species beyond jackfish and barracuda was found for this exact site, so a broader reef-fish list is not claimed here.
 
 ## Dive Profile
 
@@ -56,4 +56,4 @@ Access is by liveaboard dive boat from Elba Reef operators. Entry via giant stri
 Critical hazards include nitrogen narcosis below 40m, decompression sickness, entanglement risks, silt entrapment in wreck sections, and deep diving risks. The wreck is partially broken/unstable in sections—avoid uncertain structures. Only dive sections you can clearly see; turn back before visibility drops. Nitrogen narcosis impairs judgment significantly at 45-65m—abort immediately if affected. Always dive with an experienced buddy. Mandatory staged decompression on ascent. This is NOT a site for divers pushing their limits.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [SS Levanzo Wreck Dive Site - Sadko Safari Fleet](https://www.sadko-safarifleet.com/dive-sites/ss-levanzo), [SS Isola di Levanzo - Divescover](https://divescover.com/dive-site/ss-isola-di-levanzo/23714), [Levanzo Wreck - Royal Evolution](https://royalevolution.com/diving-in-egypt/levanzo-wreck/). Last updated 2026-07-03.*

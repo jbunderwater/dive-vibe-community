@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Turtle Reef
 
-Turtle Reef is a reef dive site in St. Lucia, Caribbean.
+Turtle Reef is a crescent-shaped reef where, as the name suggests, hawksbill and green turtle encounters are common.
 
 ## Overview
 
-Turtle Reef is a crescent-shaped reef adjacent to turtle grass beds near Anse Chastanet, and as the name suggests, encounters with hawksbill and green turtles are a near-guarantee — they are accustomed to divers and often allow a very close approach. The shallower sections from 12 metres up are studded with pillar corals and barrel sponges where hawksbill turtles graze on sponge growth, while deeper areas hold sea fans and more mature coral heads. The site is protected within the Soufrière Marine Management Area and conveniently reached on short afternoon boat trips from the Anse Chastanet dive operation.
+Scuba St. Lucia's dive-site listing describes Turtle Reef as a "crescent-shaped reef that drops quickly from a plateau area starting at 40 feet [12m] to over 150 feet [45m+]," featuring pillar coral and barrel sponges. **Depth note**: the beginner-accessible plateau where most turtle encounters happen begins around 12 metres, but the reef face continues well beyond recreational depth limits (45m+) according to this source - the maximum-depth field below reflects the beginner-accessible plateau, not the full drop-off.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: Near Anse Chastanet, St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -29,7 +29,7 @@ Turtle Reef is a crescent-shaped reef adjacent to turtle grass beds near Anse Ch
 
 ## Marine Life
 
-Hawksbill and green turtles are a near-guarantee here, grazing on sponge growth along the pillar corals and barrel sponge structures — they are well accustomed to divers and allow very close approaches. Parrotfish, blue chromis, and damselfish populate the reef, and the deeper coral heads shelter moray eels and spiny lobsters in the calm, protected Soufrière Marine Management Area waters.
+Hawksbill and green turtles are directly confirmed by Scuba St. Lucia's listing for this site. Parrotfish, blue chromis, damselfish, moray eels, and spiny lobsters were reported in prior research; those specific claims could not be re-fetched from a live source on this pass and are retained as carried-forward rather than freshly re-verified today.
 
 ---
-*Sources: [scubastlucia.com - Turtle Reef](https://scubastlucia.com/diving/), [smmainc.com - SMMA Protected Sites](https://www.smmainc.com/), [padi.com - Turtle Reef St Lucia](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*

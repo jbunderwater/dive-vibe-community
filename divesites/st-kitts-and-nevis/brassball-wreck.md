@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Brassball Wreck
 
-Brassball Wreck is a historic wreck dive in St. Kitts and Nevis, Caribbean.
+The Brassball Wreck is one of the shallowest wreck dives in St. Kitts and Nevis, resting in under 8 metres of clear water and popular with beginners and snorkelers — though little else about its history is documented in available sources.
 
 ## Overview
 
-The Brassball Wreck is one of Nevis's shallowest and most accessible wreck dives, resting at around 8 meters in calm, clear water ideal for beginners and snorkelers. The hull is heavily encrusted in coral growth and sponges, with soldierfish and glassy sweepers clustered in the superstructure and hawksbill turtles and rays commonly spotted in the surrounding sandy shallows.
+The Brassball Wreck lies in less than 25 feet (about 8 metres) of water, making it an easy, low-current dive suited to novice divers and snorkelers alike. Beyond its shallow depth and beginner-friendly conditions, no independently verifiable source could be found describing the vessel's name origin, ship type, dimensions, or the date and cause of its sinking. These details are genuinely unknown rather than simply unresearched, and should not be assumed or invented — this page will be updated if a documented history for the wreck is found.
 
 ## Site Information
 
@@ -27,5 +27,9 @@ The Brassball Wreck is one of Nevis's shallowest and most accessible wreck dives
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 
+## Marine Life
+
+No site-specific marine life reports were found for the Brassball Wreck. Divers should expect the encrusting sponge and coral growth typical of shallow Caribbean wreck sites and small reef fish sheltering in the structure, but specific species sightings have not been documented at this exact site.
+
 ---
-*Sources: [mystkittsdivebuddy.com - Brassball Wreck](https://mystkittsdivebuddy.com/wreck-diving-sites-of-st-kitts/), [prodiversstkitts.com - Dive Sites](https://prodiversstkitts.com/). Last updated 2026-05-24.*
+*Sources: [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/). Only one independently verifiable source was found despite an extensive search — My St Kitts Dive Buddy, Pro Divers St Kitts, PADI, Dive Nevis, and Dive Training Magazine were checked directly and do not document this wreck by name. Last updated 2026-07-03.*

@@ -2,7 +2,7 @@
 name: Elba Reef East (Southplateau)
 lat: 21.9827164
 lng: 37.0406829
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 16
 entryType: boat
 siteType: reef
@@ -23,8 +23,8 @@ The eastern southplateau area transitions between the sheltered southern face an
 
 - **Location**: Elba Reef southeast, Egypt-Sudan border (Halaib Triangle)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 25-40+ meters (80-130+ feet)
 - **Current**: Moderate
@@ -32,7 +32,7 @@ The eastern southplateau area transitions between the sheltered southern face an
 
 ## Marine Life
 
-Hard coral diversity on this section of Elba Reef is outstanding — the combination of sheltered and current-exposed zones within a small area supports a wide range of coral growth forms. Table corals, branching Acropora, and massive brain corals create a diverse structural habitat. Reef fish abundance is high, with parrotfish, surgeonfish, butterflyfish, and wrasse in large numbers. Sea turtles are commonly encountered resting on sandy patches between coral heads. Moray eels and lionfish occupy the deeper crevices. The transitional position means occasional pelagic visitors from the eastern wall are possible.
+Confirmed for the Elba Reef complex generally: untouched hard coral formations, moray eels, groupers, and colourful reef fish. Specific claims of parrotfish, surgeonfish, butterflyfish schools, sea turtles, and lionfish counts from a prior version of this page could not be confirmed for this precise section and have been trimmed to what sources support.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ This is one of Elba Reef's most accessible sites. The shallow depth removes most
 Shallow, sunlit reef photography is the strength of this site. Hard coral formations photographed with natural light from above produce vivid, saturated images. The diversity of coral growth forms within a small area makes this ideal for a reef survey photographic approach. Macro subjects on the coral surfaces — blennies, gobies, nudibranchs — reward close-focus work.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Elba Reef Dive Site - Sadko Safari Fleet](https://www.sadko-safarifleet.com/dive-sites/elba-reef), [Discovering the Hidden Gem of the Red Sea: Diving Elba Reef - Divebooker](https://divebooker.com/blog/discovering-the-hidden-gem-of-the-red-sea-diving-elba-reef/), [Elba - Red Sea Diving Safari](http://cassiopeiasafari.com/tag/elba/). Last updated 2026-07-03.*

@@ -3,7 +3,7 @@ name: Daharat Abida
 lat: 18.5028321
 lng: 38.5989095
 difficulty: Expert
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,27 +13,27 @@ addedBy: osm_import
 
 ## Daharat Abida
 
-Daharat Abida is an expert-level diving destination at the extreme southern edge of Sudan's Red Sea, located approximately 40 nautical miles from the Eritrean border. This remote island marks the final site of the Suakin archipelago and is visited only by the most adventurous liveaboard expeditions.
+Daharat Abida (also spelled Dahrat Abid) is the southernmost reef in the Sudanese Red Sea — a 400-metre bird island 220km south of Port Sudan and roughly 30km from the Eritrean border, visited only by the small number of liveaboards that run Sudan's Deep South route.
 
 ## Overview
 
-Daharat Abid represents the pinnacle of remote Sudan diving for experienced adventurers. Located near the Eritrean border, this little-visited site is accessed only by a handful of specialized liveaboards willing to venture into Sudan's deep south. The island sits in pristine, mostly undiscovered waters where shark sightings are exceptional and marine life remains largely undisturbed by diving pressure. Walls and plateaus feature abundant, perfectly intact coral and sea fans in all colors. The extreme remoteness means reduced human impact and encounters with rare species, including silky sharks (rare in northern Sudan, abundant here) and occasional hammerheads. The site demands expert-level diving skills due to strong currents, deep diving, and logistical challenges.
+Dahrat Abid is identifiable by three wrecks lying on its northwest side: a former sailing boat to the south, an unidentified motor ship in the middle, and a rescue boat to the north. The island itself is populated only by birds. Divers are typically dropped over the south plateau, which slopes gently from about 22m down to 40m at its southern edge; a separate plateau at the northeast end starts around 4m and descends to 14m. The site's remoteness — only a handful of operators reach this far south — means comparatively undisturbed marine life. Confirmed sharks include whitetip, silvertip, and scalloped hammerhead, the latter sometimes seen schooling in open water off the wall. A previous version of this description claimed abundant silky sharks specifically at this site; no source found during research confirms that claim for Dahrat Abid, so it has been removed rather than repeated.
 
 ## Site Information
 
-- **Location**: Extreme south Suakin Archipelago, 40nm from Eritrean border
+- **Location**: Southernmost Sudanese Red Sea, 220km south of Port Sudan, ~30km from the Eritrean border
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Expert
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 
-## Marine Life—Apex Experience
+## Marine Life
 
-Daharat Abida's remoteness creates extraordinary wildlife encounters. Silky sharks (rare in the north, very abundant here) cruise in groups, following divers throughout dives. Hammerheads, grey reef sharks, and oceanic whitetips are regularly sighted. Manta rays make solitary appearances. The walls and plateaus feature abundant, pristine coral in all types and colors, with sea fans waving in the current. Fish life is notably more abundant here than in the crowded northern sites—groupers, emperors, trevally, and snappers school the walls. Encounters with species seen nowhere else in Sudan are possible.
+Confirmed species at this site: whitetip reef sharks, silvertip sharks, and scalloped hammerhead sharks. No source confirms silky sharks, manta rays, or the specific fish counts claimed in a prior version of this page at this exact site, so those claims have been removed here.
 
 ## Dive Profile
 
-Dives are planned around wall and plateau exploration in very strong currents. Descend to 25-35 meters and drift along walls with the current. Current management is critical; abort if currents exceed safe limits. Most diving is between 15-35 meters. Time at depth is limited due to nitrogen narcosis and depth—typically 25-30 minute bottom time maximum. Multiple safety stops are mandatory. Experience with current diving, deep profiles, and decompression is essential.
+Divers are typically dropped over the south plateau (22-40m) or the shallower northeast plateau (4-14m), depending on conditions and itinerary. Current management is critical on the south plateau; abort if currents exceed safe limits. Time at depth on the south plateau is limited by nitrogen narcosis risk below 30m — plan conservative bottom times. Multiple safety stops are recommended. Experience with current diving and deep profiles is essential for the south plateau dive.
 
 ## Entry and Exit
 
@@ -61,4 +61,4 @@ This is remote-area diving with minimal emergency support. **Do not attempt unle
 Abort immediately if nitrogen narcosis, current, or any anomaly appears. Always dive with a very experienced buddy. Maintain conservative air reserves. Strong currents, deep nitrogen narcosis, and polar remoteness make this world-class diving for the truly experienced only.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Diving in Sudan - dive-the-world.com](https://www.dive-the-world.com/diving-sites-sudan.php), [Sudan Deep South - Seawolf Safari](https://seawolf-safari.de/itinerary/sudan-deep-south), [Dahrat Abid - Red Sea Diving Safari](http://cassiopeiasafari.com/tag/dahrat-abid/). Last updated 2026-07-03.*

@@ -2,7 +2,7 @@
 name: Abu Seif
 lat: 21.7861348
 lng: 37.0023768
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 12
 entryType: boat
 siteType: reef
@@ -23,8 +23,8 @@ Abu Seif stands out among Sudan's dive sites for being truly relaxed and accessi
 
 - **Location**: Northern Sudan Red Sea, liveaboard access
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters
 
 ## Marine Life
@@ -53,4 +53,4 @@ Access is by liveaboard dive boat. Entry is easy giant stride or back roll in ca
 Abu Seif is one of Sudan's safest dive sites. Shallow depth (max 12m) provides natural safety against depth-related hazards. Fire coral and lionfish are present but not aggressive—avoid contact. Mild currents mean drift is minimal. Excellent for building confidence before attempting Sudan's deeper, more challenging sites. Always dive with a buddy and carry an SMB as standard practice.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Five Great Dive Sites in Sudan's Red Sea - Scuba Diving Magazine](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Diving in Sudan - dive-the-world.com](https://www.dive-the-world.com/diving-sites-sudan.php), [Sudan North - Seawolf Safari](https://www.seawolf-safari.de/itinerary/sudan-north). Last updated 2026-07-03.*

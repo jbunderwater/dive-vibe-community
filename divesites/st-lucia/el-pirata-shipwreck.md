@@ -28,4 +28,4 @@ El Pirata Shipwreck sits on St. Lucia's southern coast and is confirmed by OSM d
 - **Maximum Depth**: 20 meters
 
 ---
-*Description based on OSM data only (OSM node 9385639518). No dive-specific sources found for this site. Last updated 2026-05-24.*
+*Description based on OSM data only (OSM node 9385639518). Re-checked 2026-07-03 specifically for wreck-history facts (vessel identity, build date, length, tonnage, sinking cause) as part of a deep wreck-research pass - found only "Il Pirata Beach," a nearby beach referenced in unrelated local news coverage, and no dive operator, ScubaBoard, or maritime-history source describing this wreck. No site-specific dive sources found. Last updated 2026-07-03.*

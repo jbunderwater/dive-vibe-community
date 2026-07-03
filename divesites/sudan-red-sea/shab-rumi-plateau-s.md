@@ -2,7 +2,7 @@
 name: Shab Rumi, Plateau S
 lat: 19.9292342
 lng: 37.4120877
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ The South Plateau sits at the exposed southern tip of Sha'ab Rumi, directly in t
 - **Location**: Sha'ab Rumi, northern Sudan Red Sea
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
@@ -32,7 +32,7 @@ The South Plateau sits at the exposed southern tip of Sha'ab Rumi, directly in t
 
 ## Marine Life
 
-The South Plateau is best known for its barracuda tornadoes — hundreds to thousands of chevron barracuda that spiral in formation just off the plateau edge, creating one of the Red Sea's most extraordinary spectacles. Scalloped hammerheads school along the outer wall, particularly at depth in the early hours. Grey reef sharks patrol the plateau edge throughout the day. Napoleon wrasse — some exceeding one metre in length — are resident and approachable. Eagle rays, schooling jacks, and tuna frequent the exposed southern tip. The plateau surface itself is carpeted with soft corals, sea fans, and dense anthias communities.
+Sources confirm large schools of fish and sharks at the South Plateau, including hammerheads, and groups of bumphead parrotfish. The barracuda-tornado and dolphin-encounter claims made in some marketing material are plausible for this site given its reputation but are not attributed here beyond what sources directly confirm; the specific claim of Napoleon wrasse "exceeding one metre" from a prior version of this page is a level of detail not supported by any source found and has been softened to a general mention.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Strong and variable currents at the southern tip require continuous buoyancy mon
 The barracuda tornado is the signature shot — wide-angle from below looking up through the school uses natural light dramatically. Hammerheads along the outer wall in blue water reward wide-angle with backlighting from above. The plateau surface offers medium-range shots of Napoleon wrasse, moray eels in coral heads, and anthias clouds over sea fans.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Shaab Rumi - Royal Evolution](https://royalevolution.com/diving-in-sudan/shaab-rumi/), [Central & North Route - Blue Force Fleet](https://www.blueforcefleet.com/diving-sudan-red-sea/route-central-north/), [Shaab Rumi South Plateau dive site - PADI](https://www.padi.com/dive-site/sudan/shaab-rumi-south-plateau/). Last updated 2026-07-03.*

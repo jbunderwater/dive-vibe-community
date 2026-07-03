@@ -2,7 +2,7 @@
 name: Sanganeb Plauteua N
 lat: 19.7788503
 lng: 37.4465546
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: wall
@@ -17,14 +17,14 @@ Sanganeb North Plateau is one of the signature dives at Sanganeb Atoll — Sudan
 
 ## Overview
 
-Sanganeb Atoll sits approximately 25 km northeast of Port Sudan, a solitary oval reef rising from deep water and crowned by a navigational lighthouse built by the British in 1870. The atoll is surrounded on all sides by vertical walls that plunge hundreds of metres into the open Red Sea, making it one of the most dramatic reef structures in the world. The North Plateau is exposed to open-ocean currents from the north, which brings exceptional water clarity and creates the conditions that attract large pelagic species. Hammerhead sharks are the headline encounter, but the biodiversity across the wall is extraordinary — from the coral-covered plateau at 10-15 metres to the soft coral-draped walls descending to depth. Sanganeb is a UNESCO World Heritage Site and national marine park, protecting it from most commercial fishing pressure.
+Sanganeb Atoll sits approximately 25 km northeast of Port Sudan, a solitary oval reef rising from deep water and marked by a navigational lighthouse. It is the only true atoll in the Red Sea. The atoll is surrounded on all sides by vertical walls that plunge into the open Red Sea, making it one of the most dramatic reef structures in the region. Sanganeb was inscribed as part of a UNESCO World Heritage Site in 2016 (Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park). A prior version of this page stated the lighthouse was "built by the British in 1870" — no source found during research confirms that specific claim, so it has been removed rather than repeated.
 
 ## Site Information
 
 - **Location**: Sanganeb Atoll, 25 km northeast of Port Sudan
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
@@ -32,7 +32,7 @@ Sanganeb Atoll sits approximately 25 km northeast of Port Sudan, a solitary oval
 
 ## Marine Life
 
-Scalloped hammerhead sharks are the most celebrated residents, typically encountered cruising the outer wall at 15-20 metres or deeper during morning dives. Grey reef sharks are a constant presence on the plateau edge. Oceanic whitetip sharks appear in the open water off the wall with some regularity. Schools of barracuda and bigeye trevally aggregate at the current-exposed north point. Napoleon wrasse and large groupers inhabit the reef face. The plateau surface is dense with hard corals, sea fans, and anthias in vivid clouds. Eagle rays and manta rays visit on occasion.
+Confirmed by sources: hammerhead sharks, mantas, grey reef sharks, silvertip sharks, whitetip sharks, barracuda, and unicornfish. Claims of oceanic whitetip sharks, Napoleon wrasse, large groupers, and eagle rays specifically at this site from a prior version of this page were not independently confirmed and have been removed.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The open-ocean position creates strong and variable currents — particularly at
 The north point of Sanganeb is prime wide-angle territory. Hammerheads photographed against the deep blue from below create dramatic silhouette images. The wall face between 10-20 metres photographs well in natural light during morning dives. Schooling fish tornadoes at the current point offer swirling wide-angle compositions. Macro subjects on the plateau surface include nudibranchs, cleaner shrimp stations on coral heads, and moray eel portraits.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Sanganeb Marine National Park and Dungonab Bay - UNESCO World Heritage Centre](https://whc.unesco.org/en/list/262/), [Sanganeb Marine National Park, Sudan - WorldAtlas](https://www.worldatlas.com/articles/sanganeb-marine-national-park-sudan.html), [Central & North Route - Blue Force Fleet](https://www.blueforcefleet.com/diving-sudan-red-sea/route-central-north/). Last updated 2026-07-03.*

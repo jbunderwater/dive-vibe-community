@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Fairyland
 
-Fairyland is a reef dive site in St. Lucia, Caribbean.
+Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastanet, where periodic strong currents flush nutrient-rich water through the reef and keep its corals and sponges exceptionally vivid — giving the site its name.
 
 ## Overview
 
-Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastanet, where periodic strong currents flush nutrient-rich water through the reef and keep its corals and sponges exceptionally vivid — giving the site its name. The reef plateau slopes from roughly 12 to 18 meters, with large boulders creating sheltered nooks packed with schools of horse-eye jacks, Bermuda chubs, Creole wrasse, and chromis, while turtles, southern stingrays, and octopuses are regularly encountered in the crevices. The site sits within the Soufriere Marine Management Area (SMMA), established in 1995, which has helped maintain the strong coral and fish diversity that makes it a favourite among local divemasters.
+PADI's dive guide describes Fairyland as one of St. Lucia's most colourful reefs: "strong currents and flow of nutrient-rich water keep its abundance of corals and sponges vibrant in color." The Soufrière Marine Management Association lists it as considered the most beautiful site by local operators and instructors. Scuba St. Lucia, which named the site, describes it as a nutrient-dense "lush, magical garden" with a plateau sloping gently from about 12 to 18 metres (40-60 feet). The site sits within the Soufrière Marine Management Area (SMMA).
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: West Pointe, south of Anse Chastanet, St. Lucia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastan
 
 ## Marine Life
 
-Large schools of horse-eye jacks, Bermuda chubs, and Creole wrasse crowd the sheltered boulder nooks, while hawksbill turtles and southern stingrays are regularly encountered in the reef's crevices. Octopuses are a notable highlight here, and the nutrient-flushed reef supports unusually vivid corals and sponges that give the site its name and provide habitat for parrotfish, chromis, and angelfish.
+PADI reports schools of fish, rays, curious sea turtles, parrotfish, and moray eels here. Scuba St. Lucia additionally reports lobsters, stingrays, and flounders, and describes the site as a breeding ground for octopuses. A prior version of this page listed horse-eye jacks, Bermuda chubs, Creole wrasse, and chromis for this site; none of these could be reconfirmed by any source consulted on this pass and they have been removed.
 
 ---
-*Sources: [divesaintlucia.com - Fairyland](https://www.divesaintlucia.com/), [smmainc.com - SMMA Dive Sites](https://www.smmainc.com/), [scubadiving.com - St Lucia Dive Sites](https://www.scubadiving.com/). Last updated 2026-05-24.*
+*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/). Last updated 2026-07-03.*

@@ -2,8 +2,8 @@
 name: Angarosh
 lat: 20.8632051
 lng: 37.4380164
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Angarosh
 
-Angarosh is one of Sudan's premier shark aggregation sites, a remote seamount and atoll rising from deep water roughly 70 km north of Port Sudan. The site is celebrated throughout the liveaboard community for its exceptional concentrations of scalloped hammerhead sharks, which school here in numbers rarely seen elsewhere in the Red Sea.
+Angarosh is one of Sudan's premier shark aggregation sites, a reef rising from deep water within Dungonab Bay - Mukkawar Island National Park, about 12km east of Mukawwar Island. Its name is reported to mean "mother of sharks" in the local dialect, and it is celebrated for exceptional concentrations of scalloped hammerhead sharks.
 
 ## Overview
 
-Angarosh — meaning "mother of sharks" in Arabic — lives up to its name. The atoll's walls plunge from the surface into the deep blue, funnelling nutrient-rich currents upward and attracting an extraordinary food chain. Scalloped hammerheads aggregate here in schools ranging from dozens to over a hundred individuals, circling the outer walls in the early morning hours. Grey reef sharks, silvertip sharks, and oceanic whitetip sharks are regular companions. The site's remoteness keeps diving pressure low, preserving marine behaviour that has largely disappeared from more accessible Red Sea reefs. Liveaboards typically schedule early-morning dives to maximise hammerhead sightings before conditions warm and the sharks move to deeper, cooler water.
+Angarosh's reef top sits at about 10 metres and is made up of two plateaus — a shallower one to roughly 25 metres and a deeper one to roughly 45 metres — funnelling nutrient-rich currents upward and attracting a strong food chain. Confirmed sharks include scalloped hammerheads (schools reported over 50 individuals), grey reef sharks, silvertip sharks, whitetip reef sharks, and tiger sharks. The site's remoteness (roughly 125km north of Port Sudan by sea) keeps diving pressure low. Visibility is typically reported above 25 metres.
 
 ## Site Information
 
-- **Location**: Offshore northern Sudan Red Sea, ~70 km north of Port Sudan
+- **Location**: Dungonab Bay - Mukkawar Island National Park, ~12km east of Mukawwar Island, ~5km southwest of Abington Reef
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 25+ meters
 - **Current**: Moderate to strong
 - **Best Time**: September to May (hammerheads most reliably October to April)
 
 ## Marine Life
 
-Scalloped hammerhead sharks are the defining encounter at Angarosh, often schooling in large numbers just beyond the outer wall. Grey reef sharks and silvertip sharks patrol the reef edge throughout the dive. Oceanic whitetip sharks occasionally cruise in the blue water off the wall. Schooling fish — bigeye trevally, surgeonfish, and fusiliers — aggregate at current-exposed points. Manta rays visit regularly in season. Reef fish species including groupers, moray eels, lionfish, and anthias cover the wall face in dense communities.
+Confirmed by sources: scalloped hammerhead sharks (schools of 50+ individuals reported), grey reef sharks, silvertip sharks, whitetip reef sharks, and tiger sharks, plus schooling jacks and fusiliers. Claims of manta rays, oceanic whitetips, surgeonfish, groupers, moray eels, and lionfish at this specific site from a prior version of this page were not independently confirmed and have been removed.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Strong currents require good buoyancy control and situational awareness at all t
 Angarosh is one of the Red Sea's iconic wide-angle photography locations. Hammerhead schools at the wall edge create opportunities for silhouette and school shots using natural backlighting from above. For close-up reef life, the wall face between 5-15 meters offers colourful soft corals and anthias clouds against the blue water backdrop.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Diving in Sudan - dive-the-world.com](https://www.dive-the-world.com/diving-sites-sudan.php), [Dive Site Directory - Angarosh](http://www.divesitedirectory.co.uk/dive_site_red_sea_sudan_reef_angarosh.html), [Central & South route - Blue Force Fleet](https://www.blueforcefleet.com/diving-sudan-red-sea/central-south-dive-sites/). Last updated 2026-07-03.*

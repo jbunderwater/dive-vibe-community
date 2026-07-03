@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Anse Chastanet Reef
 
-Anse Chastanet Reef is a reef dive site in St. Lucia, Caribbean.
+Anse Chastanet Reef is the house reef of the Scuba St. Lucia dive resort — a shore dive on a shallow plateau that drops away to a much deeper outer edge, protected within the Soufrière Marine Management Area (SMMA).
 
 ## Overview
 
-Anse Chastanet Reef begins just metres from the beach in the heart of the Soufrière Marine Management Area and is consistently rated among the top shore dives in the entire Caribbean by Scuba Diving Magazine readers. The reef hosts over 150 fish species along with an impressive variety of sponges — gigantic barrel sponges, purple vase sponges, black coral trees, and dense gorgonian fans — and seahorses, scorpionfish, and cleaner shrimps are reliably found in the shallower sections. The protection of the SMMA since 1995 has produced a genuinely healthy reef with resident sea turtles, octopus, cuttlefish, and golden spotted eels alongside the colourful schools of parrotfish, grunts, and angelfish.
+The reef begins on a shallow plateau just steps from the beach, running about 1.5-7.6 metres (5-25 feet) deep before the terrain drops away to roughly 42 metres (140 feet) at its outer edge, per Scuba St. Lucia's own dive-site listing. Most shore diving here — including the orientation dive Scuba St. Lucia requires before boat diving — stays on the shallower plateau, which is why the site is rated for beginners; the deeper drop-off is a separate, more advanced extension of the same reef. A Soufrière Marine Management Association search listing corroborates a "20ft-140ft" depth range for the area. The reef supports over 150 recorded fish species along with dense gorgonian fans, soft corals, and sponges.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: Soufrière, St. Lucia, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -29,7 +29,7 @@ Anse Chastanet Reef begins just metres from the beach in the heart of the Soufri
 
 ## Marine Life
 
-Seahorses, scorpionfish, and cleaner shrimps are reliably found in the shallower reef sections, while octopus, cuttlefish, and golden spotted eels are resident alongside over 150 fish species. Hawksbill turtles are common throughout the site, and the SMMA's protection since 1995 has produced genuinely dense populations of parrotfish, grunts, and angelfish around the giant barrel sponges and black coral trees.
+Scuba St. Lucia's dive-site page reports moray eels, parrotfish, and schools of needlefish on this reef, alongside its characteristic gorgonian fans, soft corals, and sponges. Note: seahorses, scorpionfish, and cleaner shrimp were previously listed for this site, but that description actually matches Scuba St. Lucia's separate "Anse Couchon" listing (the Pinnacles at Anse Cochon, a different bay) — those species have been moved to that site's page instead.
 
 ---
-*Sources: [scubastlucia.com - Anse Chastanet](https://scubastlucia.com/diving/), [scubadiving.com - St Lucia Shore Dives](https://www.scubadiving.com/), [padi.com - Anse Chastanet Reef](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [Scuba St. Lucia - Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association - Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Last updated 2026-07-03.*

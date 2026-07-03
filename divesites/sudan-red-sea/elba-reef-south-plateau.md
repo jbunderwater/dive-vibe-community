@@ -2,7 +2,7 @@
 name: Elba Reef, South Plateau
 lat: 21.9664172
 lng: 37.0250213
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 14
 entryType: boat
 siteType: reef
@@ -23,8 +23,8 @@ The South Plateau is Elba Reef's welcoming face — a broad shallow platform cov
 
 - **Location**: Elba Reef southern face, Egypt-Sudan border (Halaib Triangle)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Reef
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 25-40+ meters (80-130+ feet)
 - **Current**: Moderate
@@ -32,7 +32,7 @@ The South Plateau is Elba Reef's welcoming face — a broad shallow platform cov
 
 ## Marine Life
 
-Hard coral formations on the South Plateau are exceptional — table corals, brain corals, and coral blocks 1-2 metres high create a three-dimensional reef landscape. Reef fish diversity is high throughout the plateau: parrotfish, wrasse, triggerfish, and butterflyfish are abundant. Moray eels occupy the coral crevices. Sea turtles rest on the plateau surface. The shallow depth and clear water mean excellent light throughout the day. Night dives on this plateau reveal lobsters, octopuses, sleeping fish, and hunting lionfish emerging from their daytime hiding places. Nearby, the Levanzo Wreck begins at 22 metres for qualified divers extending the dive.
+Confirmed for the Elba Reef complex generally: untouched hard coral formations, moray eels, groupers, and colourful reef fish (the latter especially reported around the adjacent Levanzo Wreck). Specific claims of parrotfish, wrasse, triggerfish, butterflyfish, sea turtles, and detailed night-dive species from a prior version of this page could not be confirmed for this precise plateau and have been trimmed to what sources support. Nearby, the Levanzo Wreck begins at 22 metres for qualified divers extending the dive.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The South Plateau is the most forgiving dive on Elba Reef — shallow depth, mod
 The South Plateau is ideal for coral reef photography. The 1-2 metre coral block formations create beautiful natural arches and swim-throughs. Table corals photographed from below against the shallow, lit water column produce striking images. Night photography here is exceptional — torch-lit lobsters, octopuses, and sleeping fish provide macro subjects. Natural light during daylight hours is outstanding at this shallow depth.
 
 ---
-*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*
+*Sources: [Elba Reef Dive Site - Sadko Safari Fleet](https://www.sadko-safarifleet.com/dive-sites/elba-reef), [Discovering the Hidden Gem of the Red Sea: Diving Elba Reef - Divebooker](https://divebooker.com/blog/discovering-the-hidden-gem-of-the-red-sea-diving-elba-reef/), [Elba - Red Sea Diving Safari](http://cassiopeiasafari.com/tag/elba/). Last updated 2026-07-03.*

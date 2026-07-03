@@ -41,7 +41,7 @@ Shore entry from a beach close to the dive site, within the protected SMMA zone.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-07-03
 
 ---
-*Sources: [Scuba St. Lucia – Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association – Dive Sites](https://smmainc.com/dive-sites/), [padi.com - St Lucia Coral Gardens](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [Scuba St. Lucia – Dive Sites](https://scubastlucia.com/diving/), [Soufrière Marine Management Association – Dive Sites](https://smmainc.com/dive-sites/), [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/). Re-audited 2026-07-03: Scuba St. Lucia's dive-site listing was re-fetched directly and reconfirms sargassum triggerfish in the deeper sections and dense sea plume forests serving as juvenile-fish habitat in the shallows - no corrections were needed. Last updated 2026-07-03.*

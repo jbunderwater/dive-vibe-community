@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Grid Iron
 
-Grid Iron is a reef dive site in St. Kitts and Nevis, Caribbean.
+Grid Iron is a reef site on St. Kitts' Atlantic-facing side, with depths ranging from about 15 to 24 metres.
 
 ## Overview
 
-Grid Iron is a broad, shallow reef system on the Atlantic side of St. Kitts, extending across the narrows between the two islands at depths of 5–22 meters. The site is notable for its large colonies of mountainous star coral and lobate star coral, some reaching 3–5 meters in diameter, along with scattered stands of elkhorn coral that have been documented by the Living Oceans Foundation as part of Caribbean reef recovery research. Reef sharks and large lobsters are regularly seen here, and long-spined sea urchins — keystone grazers that help control algae — are present throughout the reef structure.
+Grid Iron lies on the Atlantic side of St. Kitts, with a depth range of roughly 15 to 24 metres (50-80ft). The one source that could be directly verified for this site describes it only as having "diverse marine life," without naming specific species. An earlier version of this page claimed a detailed set of facts — mountainous and elkhorn coral colonies documented by the Living Oceans Foundation, resident reef sharks, and long-spined sea urchins — that could not be traced to any real source and have been removed. Divers should expect the mixed volcanic-reef habitat typical of St. Kitts' more exposed Atlantic coast, but specific site details beyond depth and location remain unconfirmed.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: Atlantic side, St. Kitts
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ Grid Iron is a broad, shallow reef system on the Atlantic side of St. Kitts, ext
 
 ## Marine Life
 
-The massive mountainous star coral colonies — some reaching 3–5 metres in diameter — provide reef structure that supports Caribbean reef sharks, large spiny lobsters, and hawksbill turtles at this well-documented Atlantic-side site. Parrotfish and blue tangs graze the recovering elkhorn coral stands, and long-spined sea urchins throughout the reef serve as key grazers keeping the coral healthy and algae-free.
+No site-specific marine life reports beyond a general "diverse marine life" characterization were found for Grid Iron. Regional Atlantic-side St. Kitts reef fauna is plausible here but has not been confirmed at this specific site.
 
 ---
-*Sources: [activecaribbeantravel.com - St Kitts Diving](https://www.activecaribbeantravel.com/), [mystkittsdivebuddy.com - Grid Iron](https://mystkittsdivebuddy.com/), [padi.com - Grid Iron St Kitts](https://www.padi.com/). Last updated 2026-05-24.*
+*Sources: [Active Caribbean Travel - St Kitts & Nevis Diving](https://activecaribbeantravel.com/st-kitts-diving-nevis-diving/). Only one independently verifiable source was found — My St Kitts Dive Buddy and PADI (previously cited) do not document this site. Last updated 2026-07-03.*
