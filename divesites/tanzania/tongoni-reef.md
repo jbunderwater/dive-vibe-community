@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Tongoni Reef
 
-Tongoni Reef is a coastal fringing reef near Tongoni village, located approximately 20 kilometers south of Tanga on Tanzania's northern coast. The reef sits adjacent to the historic Tongoni Ruins — the largest collection of Shirazi tombs on the East African coast — combining a rich marine environment with significant cultural heritage in the same area.
+No dive shop, dive-site directory, or diving guide found during this research documents a distinctly named "Tongoni Reef" dive site. Tongoni itself is well documented — as a fishing village roughly 17 kilometers south of Tanga best known for the Tongoni Ruins, a 15th-century mosque and tomb complex — and the Tongoni estuary falls within the boundary of the Tanga Coelacanth Marine Park (gazetted 2009). This entry's coordinates are consistent with reef structure somewhere off that stretch of coast, but no operator-level description of diving conditions, depth, or marine life specific to this reef was found.
 
 ## Overview
 
-Tongoni's coastal reef benefits from the cleaner water of the northern Tanzania coast and the relative lack of urban development compared to the Dar es Salaam coast further south. The reef extends from the shallow intertidal zone to 15 meters, with a gentle slope and typical East African Indian Ocean coral community. Visibility ranges from 10-15 meters in most conditions, improving during the northeast monsoon from October to February. The proximity to the Tongoni mangrove system influences the marine biology, with some species typical of mangrove edges occasionally seen at the reef base.
+The Tanga Coelacanth Marine Park covers the bays around Tanga City and Mwambani, the Tongoni estuary, and the islands of Toten, Yambe, and Karange, and is known for coral reefs, sea turtles, dugongs, and — most famously — a resident population of coelacanth, a rare deep-water "living fossil" fish. Note that coelacanths are found at depths beyond 60 meters, far outside recreational diving range, so they are not a realistic encounter for divers at this or any recreational Tanga-area site. Beyond this general park-level context, no site-specific information for "Tongoni Reef" could be confirmed.
 
 ## Site Information
 
-- **Location**: Tongoni coast, near Tanga, northern Tanzania
+- **Location**: Near Tongoni village, Tanga Coelacanth Marine Park area, northern Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (unconfirmed as a distinctly named/charted site — general area characterization only)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Light
-- **Best Time**: October to March
+- **Current**: Not independently confirmed
+- **Best Time**: Not independently confirmed for this exact site; northern Tanzania coast diving generally favors October–March
 
 ## Marine Life
 
-Tongoni Reef supports a classic northern Tanzanian reef community with parrotfish, surgeonfish, triggerfish, and moray eels as the dominant species. Sea turtles are present year-round. The reef edges near the mangrove transition zone attract snapper species and juvenile reef fish that use the mangroves as nursery habitat. Stingrays and small rays inhabit the sandy margins of the reef.
+No site-specific marine life reports were found for this reef. The wider Tanga Coelacanth Marine Park is documented to host sea turtles, dugongs, and coral reef fish communities, but attributing any specific species to this exact, unconfirmed site would not be accurate, so none are listed here.
 
 ## Dive Profile
 
-A gentle reef slope dive ideal for beginners and certification training. Descend to 12-15 meters at the outer reef edge and work back toward the beach at progressively shallower depths. The calm conditions and simple topography make navigation intuitive even for newly certified divers. Total dive times of 50-60 minutes are achievable.
+Not independently confirmed.
 
 ## Entry and Exit
 
-Boat access from Tanga, approximately 20-30 minutes south by motorboat. Alternatively, some operators provide access from local fishing village boats closer to the site. Combine the dive with a visit to the Tongoni Ruins for a cultural addition to the day trip.
+Boat access is presumed from the Tanga area, roughly 17km north of Tongoni village, but no operator-specific access details for this reef were confirmed.
 
 ## Tips and Recommendations
 
-- Visit the Tongoni Ruins before or after diving — the 14th-15th century Shirazi mosque and tombs are among the most significant archaeological sites on the Tanzanian coast
-- The mangrove-to-reef transition zone at the reef edge is ecologically interesting — ask guides about juvenile fish species in this transition area
-- Tanga-based diving is genuinely off the standard Tanzania tourist trail and provides an authentic local experience
-- Confirm water clarity before diving — the proximity to mangrove outflow can occasionally reduce visibility after heavy rains
+- Diving out of Tanga is comparatively undeveloped for tourism — contact local operators directly for current site information
+- Pair a visit with the nearby Tongoni Ruins (a 15th-century Swahili mosque and tomb site) for cultural context
+- Do not expect coelacanth encounters on a recreational dive — the species lives far beyond sport-diving depth limits in this park
 
 ## Safety Considerations
 
-One of the more benign dive sites on the northern Tanzanian coast. Light currents, shallow depth, and calm conditions make this suitable for beginners. Boat traffic near Tanga's approach channels requires SMB deployment. As always, avoid contact with fire coral and sea urchins on the reef.
+No site-specific hazards were confirmed. General precautions apply: check conditions before diving given the estuary's proximity (river outflow can affect visibility), and deploy an SMB on ascent given boat traffic near Tanga's approaches.
 
 ## Photography
 
-The cultural combination of reef diving and nearby ruins makes Tongoni a unique location for travel photography. Underwater, the reef photography focuses on the typical East African reef community — parrotfish and turtle portraits are the primary subjects. The mangrove edge provides unusual compositional opportunities not available at typical offshore reef sites.
+Not independently confirmed for this specific site.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Description based on regional characteristics of the Tanga Coelacanth Marine Park area. No site-specific source confirming a distinctly charted reef named "Tongoni Reef" was found. General area context: [Tanga Coelacanth Marine Park — Wikipedia](https://en.wikipedia.org/wiki/Tanga_Coelacanth_Marine_Park), [Tanga Marine Park & Reserves — Tanzania Tourism](https://www.tanzaniatourism.com/destination/tanga-marine-park-and-reserves). Last updated 2026-07-04.*

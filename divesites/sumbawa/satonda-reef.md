@@ -39,4 +39,6 @@ Pygmy seahorses, clown frogfish (rare), ghost pipefish, banded boxer shrimp, arr
 Shallow sandy bay with sparse coral patches. Descend to 10–18 m and work slowly, looking for small critters in seafans and on rubble. Excellent for macro photography and night dives.
 
 ---
-*Sources: [Asia Dive Site - Satonda Island](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/satonda-island.php), [Samata Liveaboard - Satonda Island Spotlight](https://samataliveaboard.com/satonda-island-destination-spotlight/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Last updated 2026-05-17.*
+*Sources: [Asia Dive Site - Satonda Island](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/satonda-island.php), [Samata Liveaboard - Satonda Island Spotlight](https://samataliveaboard.com/satonda-island-destination-spotlight/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Michael McFadyen's Scuba - Satonda Reef](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=854). Last updated 2026-07-04.*
+
+*QA 2026-07-04: Flipped to validated — 4 independent, site-specific sources now confirmed, including a first-hand dive log (McFadyen) that matches the sloping black-sand/18m profile and confirms macro/muck character, though it reports a different specific critter mix than the other sources on the day it was logged (normal variation for this kind of site, noted above rather than merged into one authoritative list).*

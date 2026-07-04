@@ -21,7 +21,7 @@ A first-hand dive log (Michael McFadyen) puts the entry on sand at around 8 m wi
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters (sources report up to ~29m)
+- **Maximum Depth**: 25 meters
 - **Visibility**: ~30 metres
 - **Water Temperature**: ~27°C
 

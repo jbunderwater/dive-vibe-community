@@ -27,7 +27,7 @@ The bottom slopes from roughly 3–5 m at the shallow edge down to around 30 m; 
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (bubble-vent field concentrated in the shallower 5–18m band)
+- **Maximum Depth**: 30 meters
 - **Visibility**: ~30 metres
 - **Currents**: Generally sheltered, but can be unpredictable
 - **Water Temperature**: ~27°C (warmer near vents)

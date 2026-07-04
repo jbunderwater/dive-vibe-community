@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Tanduk Rusa
 
-Tanduk Rusa ("Deer Antler" in Indonesian) is an advanced dive site at the northern tip of Gili Banta (Banta Island), an uninhabited ancient volcanic island off the northwest coast of Sumbawa, near the boundary of Komodo National Park. The site is also known locally as Rollercoaster or referenced in the same area — sources confirm Tanduk Rusa is a cleaning station where manta rays gather.
+Tanduk Rusa ("Deer Antler" in Indonesian) is an advanced dive site at the northern tip of Gili Banta (Banta Island), an uninhabited ancient volcanic island off the northwest coast of Sumbawa, near the boundary of Komodo National Park. Sources confirm Tanduk Rusa is a manta ray cleaning station. Note: "Tanduk Rusa" is a common Indonesian name reused at other, unrelated dive sites elsewhere in the country (e.g. Lembeh Straits, and a separate shipwreck of the same nickname) — this entry refers specifically to the Gili Banta site.
 
 ## Overview
 
@@ -38,4 +38,6 @@ Manta rays (oceanic and reef), grey reef sharks, whitetip sharks, blacktip shark
 Descend to the cleaning station at ~12 m and hover to observe mantas. Slopes descend to 40 m. Currents can be powerful — plan negative descent and use reef hooks if necessary.
 
 ---
-*Sources: [Asia Dive Site - Sumbawa](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa.php), [Petites Bulles d'Ailleurs - Sumbawa Gili Banta](https://petitesbullesdailleurs.fr/en/sumbawa-komodo-sangean-gili-banta-indonesia-20190625/), [Kalimaya Dive Resort - Dive Sites](https://kalimayadiveresort.com/diving-site/). Last updated 2026-05-17.*
+*Sources: [Petites Bulles d'Ailleurs - Sumbawa Gili Banta](https://petitesbullesdailleurs.fr/en/sumbawa-komodo-sangean-gili-banta-indonesia-20190625/), [Kalimaya Dive Resort - Dive Sites](https://kalimayadiveresort.com/diving-site/), [Emperor Divers - Lombok-Sumbawa-Komodo Liveaboard](https://www.emperordivers.com/liveaboard-itinerary/lombok-sumbawa-komodo/). Last updated 2026-07-04.*
+
+*QA 2026-07-04: Flipped to validated. Replaced asiadivesite.com/sumbawa.php in the source list — that page's Banta Island section names different sites (GPS Point, Gallery Rock, Tanjung Rasa, Star Wars, Toro Oi) and does not specifically confirm Tanduk Rusa — with emperordivers.com, which independently corroborates the manta cleaning station, current character, and depth.*

@@ -29,6 +29,6 @@ Sumbawa Surprise sits in a part of Sumbawa's north coast that is infrequently do
 - **Best Season**: April–November
 
 ---
-*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Last updated 2026-05-17.*
+*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Last updated 2026-07-04.*
 
-*Note: Sumbawa Surprise is not individually documented in online dive databases. No site-specific sources found.*
+*Note: Sumbawa Surprise is not individually documented in online dive databases. No site-specific sources found. QA 2026-07-04: Repeated targeted web searches for "Sumbawa Surprise" as a named site found nothing further; remains unresolved.*

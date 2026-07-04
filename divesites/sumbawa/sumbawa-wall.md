@@ -33,6 +33,6 @@ Sumbawa Wall is one of the deep wall dives on the northern coast of Sumbawa. Liv
 Drop from the shallow plateau crest to the wall face. Main reef action in the 10–30 m range; wall continues beyond 40 m. The shallow plateau provides a pleasant safety stop over healthy hard coral.
 
 ---
-*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Last updated 2026-05-17.*
+*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Last updated 2026-07-04.*
 
-*Note: Sumbawa Wall is not individually documented in major online dive databases. Description is based on regional operator accounts of the northern Sumbawa wall dive character.*
+*Note: Sumbawa Wall is not individually documented in major online dive databases. Description is based on regional operator accounts of the northern Sumbawa wall dive character. QA 2026-07-04: Repeated targeted web searches for "Sumbawa Wall" as a named site found no additional site-specific sources; remains unresolved.*

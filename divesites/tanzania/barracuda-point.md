@@ -13,50 +13,47 @@ addedBy: osm_import
 
 ## Barracuda Point
 
-Barracuda Point is a drift dive site off the northern tip of Zanzibar Island, Tanzania, where tidal currents funnel through a narrow channel and regularly attract large schools of the fish that give this site its name.
+Barracuda Point is a drift dive site on Zanzibar's southeast coast, near Paje and Jambiani — not off Nungwi on the island's northern tip, as an earlier version of this page stated. This entry's coordinates match the Paje/Jambiani area precisely, and a Paje-based dive operator (Buccaneer Diving) documents a site of this exact name and description there. Note: "Barracuda Point" is a common generic dive-site name used at unrelated locations worldwide (e.g., Sipadan in Malaysia, sites in Papua New Guinea and Indonesia) — this entry refers specifically to the Zanzibar southeast-coast site.
 
 ## Overview
 
-Named for the impressive congregations of great barracuda that patrol the point, this drift site is one of the more exhilarating dives accessible from Nungwi. The Indian Ocean current sweeps divers along a sloping reef edged with sea fans and table corals down to 25 meters, with visibility typically ranging from 15 to 30 meters. Water temperatures sit around 26-29°C for most of the year, dropping slightly during the June-August kaskazi wind season.
+Divers on Zanzibar's southeast coast reach the outer reef through gaps in the barrier reef called "mlango" (Swahili for "door"); the mlango typically used for this area is roughly 15-20 minutes by boat from the Paje dive base. Barracuda Point is described as a coral garden of mounds and overhangs sheltering shellfish and reef fish that tend to be more reclusive elsewhere, with the dive beginning with a drop onto a sand/coral bed and following a gentle slope. The one independent source found for this site gives a depth of roughly 10-20 meters, somewhat shallower than the 25m recorded in this dataset; that discrepancy could not be resolved with a second independent source, so both figures are noted here rather than picking one.
 
 ## Site Information
 
-- **Location**: Northern Zanzibar Island, Tanzania
-- **Entry Type**: Boat dive
+- **Location**: Southeast Zanzibar coast, near Paje/Jambiani, Tanzania
+- **Entry Type**: Boat dive (drift)
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Moderate to strong — varies with tide
-- **Best Time**: October to March (northeast monsoon); June-September also diveable
+- **Maximum Depth**: 25 meters as recorded in this dataset; the one operator source found for this exact site describes a shallower 10-20m profile — treat depth as uncertain pending a second source
+- **Current**: Present — this is run as a drift dive due to current through the reef gap
+- **Best Time**: Not independently confirmed for this exact site
 
 ## Marine Life
 
-Schools of great barracuda are the headline attraction, sometimes numbering in the hundreds and forming spiraling tornados in the current. Giant trevally and kingfish hunt the same channel, while white-tip reef sharks cruise the reef edge below. Green and hawksbill sea turtles rest on the coral formations, and spinner dolphins occasionally pass through the blue water above. The reef top hosts dense carpets of staghorn and table Acropora corals populated by parrotfish, surgeonfish, and moorish idols.
+The one source found for this exact site describes a "vast coral garden with mounds and overhangs" sheltering shellfish and shyer reef fish, and separately notes that dive sites reached via the southeast-coast mlango generally see Napoleon fish, groupers, morays, turtles, lobsters, octopus, ribbon eels, stingrays, and — occasionally — dolphins, kingfish, and barracuda. Because the barracuda mention for the wider area is general rather than specifically confirmed as a reliable sighting at this exact point, treat schooling barracuda as a possible but unconfirmed highlight rather than a guaranteed feature, despite the site's name.
 
 ## Dive Profile
 
-The dive begins at a mooring or with a live-boat drop upcurrent. Divers drift along the reef slope at 15-25 meters, where the main barracuda aggregations typically hold position facing into the current. Reduce depth to 8-12 meters for the safety stop while the boat tracks your SMB. Bottom time is naturally limited by the pace of the drift; plan for 40-50 minutes.
+The dive begins with a descent onto a sand/coral bed near the mlango, followed by a drift along a gentle slope to around 20 meters. Confirm the specific plan and depth target with your guide, given the depth discrepancy noted above.
 
 ## Entry and Exit
 
-A live-aboard or day-charter boat positions divers upstream. Entry is via giant stride or back roll from the inflatable tender. Carry an SMB and deploy it during your ascent so the pickup boat can locate you at the surface. Conditions change with the tide, so always confirm timing with the skipper before entry.
+Boat access from a Paje-based dive operator, via the barrier-reef gap ("mlango") roughly 15-20 minutes offshore. Entry and exit are managed as a drift dive with pickup by the dive boat; carry an SMB for the ascent.
 
 ## Tips and Recommendations
 
-- Time your dive within two hours of a tidal change for the strongest barracuda aggregations
-- Maintain neutral buoyancy and avoid finning hard — let the current carry you past the school
-- Wide-angle lens set-ups with a fisheye or 10-17mm work best for the large barracuda schools
-- Bring a reef hook if you want to pause and observe without fighting the current
-- Check visibility from the boat before entering; surface chop from the northeast can reduce clarity
+- Confirm current dive plans and depth directly with a Paje/Jambiani-based operator, since only one independent source could be found for this site
+- As a drift dive, maintain neutral buoyancy and let the current carry you rather than fighting it
+- Multiple sites are reached through the same mlango — ask your operator how Barracuda Point compares to their other southeast-coast options that day
 
 ## Safety Considerations
 
-The current can be deceptively strong and direction can shift unpredictably near the point. Keep your buddy in sight at all times, agree on a maximum separation distance before descent, and be prepared to surface if you lose the reef. Jellyfish are occasionally encountered in the channel between September and November. Always carry an SMB and whistle.
+As a drift dive with current-dependent access through a reef gap, timing and buddy contact are important — agree on a maximum separation distance with your buddy before descent, and carry an SMB and whistle for surface signaling.
 
 ## Photography
 
-Barracuda schools offer exceptional wide-angle subjects — approach slowly from below or to the side to avoid spooking the fish. Early morning dives benefit from top-lighting that creates dramatic silhouettes against the open water. The reef top also holds good macro subjects including nudibranchs and cleaner shrimp in the coral heads.
+Not independently confirmed for this specific site beyond its general description as a coral-garden habitat for shellfish and reef fish that are typically harder to photograph in more exposed locations.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving — Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one independent, site-specific source could be found for this exact location; description is intentionally conservative as a result. Last updated 2026-07-04.*
