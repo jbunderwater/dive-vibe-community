@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Barentsburg Coast
 
-Barentsburg Coast is a reef dive site in Svalbard, Arctic.
+Barentsburg Coast lies along Grønfjorden, an inlet off Isfjorden's south shore, off the Russian mining settlement of Barentsburg — one of the better-studied stretches of coastline in this part of Svalbard for benthic algae.
 
 ## Overview
 
-Barentsburg Coast lies along the shoreline of the Russian mining settlement of Barentsburg on Isfjorden, Svalbard's second-longest fjord. The rocky seabed drops to 15 meters through dense kelp forests of sugar kelp and winged kelp, sheltering mussels, shrimp, spider crabs, and sea snails among the holdfasts. Bearded seals are frequently spotted in these waters, and the deep blue hues of nearby glacial ice create a striking backdrop for underwater photography in this high-Arctic fjord environment.
+Barentsburg sits on the east side of Grønfjorden, a branch fjord opening off Isfjorden rather than on Isfjorden's main shoreline itself. Mining began here under a Russian company in 1916; the settlement was run by a Dutch company from 1920–1932 (which gave it its name, after the Dutch navigator Willem Barentsz) before being sold to the Soviet trust Arktikugol in 1932. Today it remains a working Russian coal-mining settlement of roughly 300 residents, reachable from Longyearbyen by a 2–3 hour boat trip in summer.
+
+A 2013–14 scientific survey of Grønfjorden's littoral and sublittoral zones recorded roughly 63–68 macroalgae species — predominantly high-boreal and boreal-Arctic taxa — comparable to other west Spitsbergen fjords and among the more diverse benthic algae communities documented in Svalbard, a diversity attributed partly to increased inflow of Atlantic water into the fjord. This supports the site's kelp/algae-dominated character, consistent with the "reef" classification used here. No source specific to Barentsburg's coastline was found describing the exact depth profile or confirming particular invertebrates or marine mammals at this precise site, so no species list is given beyond the algae survey — regional Arctic fauna (mussels, crustaceans, bearded seals) documented elsewhere in Isfjorden fjords may apply here but is not independently confirmed for this site.
 
 ## Site Information
 
@@ -28,4 +30,4 @@ Barentsburg Coast lies along the shoreline of the Russian mining settlement of B
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*Sources: [Polar Research – Species diversity of macroalgae in Grønfjorden, Spitsbergen, Svalbard](https://polarresearch.net/index.php/polar/article/view/3682), [Wikipedia – Barentsburg](https://en.wikipedia.org/wiki/Barentsburg), [Norwegian Polar Institute Cruise Handbook – Barentsburg](https://cruise-handbook.npolar.no/en/isfjorden/barentsburg.html). No dive-specific report (depth, entry conditions, animal sightings) for this exact coastline was found. Last updated 2026-07-04.*

@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Isfjorden Kelp Forest
 
-Isfjorden Kelp Forest is a reef dive site in Svalbard, Arctic.
+Isfjorden Kelp Forest sits within Svalbard's second-longest fjord (107 km), one of the most scientifically studied kelp habitats in the archipelago.
 
 ## Overview
 
-Isfjorden Kelp Forest is situated in Svalbard's second-longest fjord, where thick stands of Laminaria digitata, sugar kelp, and winged kelp form an underwater canopy in relatively shallow water down to 15 meters. These kelp forests have been expanding in recent decades as sea ice retreats, and they host a rich invertebrate community of mussels, shrimp, crabs, sea urchins, and bivalves that attract foraging seals and walruses. Divers entering the canopy encounter planktonic life including sea angels, pulsing jellies, and amphipods drifting among the kelp blades in water temperatures of 2-5 degrees Celsius.
+Isfjorden runs 107 km into the west coast of Spitsbergen and rarely freezes over thanks to inflowing Atlantic water; Barentsburg, Longyearbyen, and Pyramiden all sit along its branches. A 2010–2012 benthic algae survey across ten sites in Isfjorden recorded 88 algal taxa (17 green, 40 brown, 30 red algae, plus one Xanthophyceae), with kelp dominating the sublittoral zone at most sites sampled between roughly 5 and 30 metres depth — including the first Svalbard record of the green alga *Ulvaria splendens*. Species richness varied considerably by location within the fjord, from the well-developed littoral communities at Bohemanneset and Gåsøyane to the sparser, urchin-dominated sublittoral at inner-fjord Kapp Ekholm, with diversity generally declining from the fjord mouth inward. Isfjorden is identified by Norwegian Polar Institute researchers as one of the three most comprehensively studied kelp/algae areas in Svalbard, alongside Kongsfjorden and Hornsund.
+
+This confirms the fjord genuinely supports extensive kelp forest habitat consistent with this site's name and "reef" classification. What the research does not provide is a description of animal life at these depths — the 88 taxa recorded are algae, not invertebrates or fish. Regional Arctic species (mussels, crabs, sea urchins, amphipods, seals) are documented elsewhere in Svalbard's kelp systems and plausibly occur here too, but no source ties specific animal sightings to this exact site, so none are named below.
 
 ## Site Information
 
@@ -28,4 +30,4 @@ Isfjorden Kelp Forest is situated in Svalbard's second-longest fjord, where thic
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*Sources: [Polar Research – Benthic algal vegetation in Isfjorden, Svalbard (Fredriksen et al., 2015)](https://polarresearch.net/index.php/polar/article/view/3229), [Norsk Polarinstitutt – Diving into the kelp forest in search of climate answers](https://npolar.no/en/newsarticle/diving-into-the-kelp-forest-in-search-of-climate-answers/), [Wikipedia – Isfjorden (Svalbard)](https://en.wikipedia.org/wiki/Isfjorden_(Svalbard)). Last updated 2026-07-04.*

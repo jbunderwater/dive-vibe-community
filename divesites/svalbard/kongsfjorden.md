@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Kongsfjorden
 
-Kongsfjorden is a reef dive site in Svalbard, Arctic.
+Kongsfjorden, at nearly 79 degrees north, is one of the Arctic's most intensively studied fjords for kelp forest science, and one of the few Svalbard dive locations with published, site-specific research behind it.
 
 ## Overview
 
-Kongsfjorden at 79 degrees north is one of the most scientifically studied fjords in the Arctic, where tidewater glaciers calve directly into the sea and kelp forests of sugar kelp, winged kelp, and oar weed have been expanding as sea ice diminishes. The seabed to 25 meters supports over 270 identified invertebrate taxa including sponges, cold-water anemones, sea slugs, spider crabs, and dense colonies of sea urchins that graze the kelp at the fjord's outer reaches. Visibility varies with glacial meltwater runoff, and divers may encounter curious bearded seals and beluga whales in the plankton-rich water column.
+Tidewater glaciers (Kronebreen and Kongsvegen) calve directly into the fjord's inner reaches, and the research settlement of Ny-Ålesund sits on its southern shore. Scientific dive surveys conducted here as part of the BlueARC kelp forest research program found kelp extending from the surface down to roughly 15–25 metres before low light limits growth, with red algae persisting to at least 40 metres. Three brown seaweed species dominate: large oarweed (*Laminaria digitata*), winged kelp (*Alaria esculenta*), and sugar kelp (*Saccharina latissima*). At the long-term monitoring site of Hansneset, kelp biomass in shallow water (2.5 m) has increased seven- to eight-fold since the late 1990s, while large brown algae have largely disappeared below 10 metres due to increased turbidity from glacial meltwater — a well-documented signature of Arctic warming. A separate peer-reviewed study comparing 1996–98 and 2012–14 survey data corroborates this shift in kelp biomass and depth distribution over time.
+
+Ringed and bearded seals are reported resting on ice floes further into the fjord, and the surrounding cliffs host large kittiwake and Brünnich's guillemot colonies. Earlier text on this page claimed "over 270 identified invertebrate taxa" and beluga whale sightings at this site — neither claim could be traced to a source during this audit, so both have been removed; if a source for either turns up later, they can be restored with attribution.
 
 ## Site Information
 
@@ -28,4 +30,4 @@ Kongsfjorden at 79 degrees north is one of the most scientifically studied fjord
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*Sources: [Fram Forum – Scientific diving in Arctic kelp forests to detect climate-related changes](https://framforum.com/2025/03/14/scientific-diving-in-arctic-kelp-forests-to-detect-climate-related-changes/), [Norsk Polarinstitutt – Scientific diving in Kongsfjorden to detect climate-related changes in the kelp forest (BlueARC project)](https://npolar.no/en/newsarticle/scientific-diving-in-kongsfjorden-svalbard-to-detect-climate-related-changes-in-the-kelp-forest-bluearc-project/), [Polar Biology – Changes in kelp forest biomass and depth distribution in Kongsfjorden, Svalbard, between 1996–1998 and 2012–2014](https://link.springer.com/article/10.1007/s00300-015-1870-1). Last updated 2026-07-04.*

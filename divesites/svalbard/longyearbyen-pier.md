@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Longyearbyen Pier
 
-Longyearbyen Pier is a reef dive site in Svalbard, Arctic.
+Longyearbyen Pier represents the harbor area of Longyearbyen, Svalbard's only town and the main departure point for Arctic dive expeditions — though no source found during this audit describes a dive site specifically named "Longyearbyen Pier."
 
 ## Overview
 
-Longyearbyen Pier is the most accessible dive site in Svalbard, located in Adventfjorden at the main settlement and launching point for Arctic expeditions. The pier pilings and rocky harbour floor to 12 meters are colonized by kelp, anemones, and hydroids, while the shallows attract polar cod, sculpin, and sea snails. The local Longyearbyen Diving Club begins its season around the turn of May and June when water temperatures hover around 1 degree Celsius, and divers may spot thick-billed murres and black guillemots actively foraging underwater near the harbour lights.
+Longyearbyen sits on the southwestern shore of Adventfjorden, itself a branch of Isfjorden. The world's northernmost diving club, Longyearbyen Dykkerklubb, is based here — a small, non-commercial, member-run club affiliated with Norway's national diving association, with its own boat, compressor, and clubhouse, offering both shore and boat dives in the local area. That confirms recreational diving does happen around Longyearbyen's harbor, but no source found gives a depth, marine-life list, or description specific to a "pier" site, so the previous text's claims about "pier pilings," polar cod, sculpin, and sea snails at 12 m, murres and guillemots "foraging underwater near the harbour lights," and a diving club season "beginning around the turn of May and June" at 1°C water temperature could not be verified and have been removed. General sources describe the Svalbard dive season as running from June to September with water temperatures of roughly 2–7°C, which conflicts with the previous text's specific claims — another reason those numbers have been dropped rather than corrected with a guess.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Longyearbyen Pier is the most accessible dive site in Svalbard, located in Adven
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*Sources: [Dykkepedia – Longyearbyen Dykkerklubb](https://dykkepedia.com/wiki/Longyearbyen_Dykkerklubb), [Longyearbyen Dykkerklubb (Dive78North) – Dive Sites](https://dive78north.wixsite.com/home/dive-sites). These confirm a local diving club operates shore and boat dives from Longyearbyen, but no source ties specific depth, conditions, or marine life to a site named "Longyearbyen Pier." Last updated 2026-07-04.*

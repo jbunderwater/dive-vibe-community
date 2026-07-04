@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Pyramiden Harbor
 
-Pyramiden Harbor is a reef dive site in Svalbard, Arctic.
+Pyramiden Harbor sits off the abandoned Soviet coal-mining settlement of Pyramiden on Billefjorden — a well-documented ghost town, but not a site with any dive-specific report found during this audit.
 
 ## Overview
 
-Pyramiden Harbor lies at the abandoned Soviet coal mining settlement of Pyramiden, a ghost town on Billefjorden that was abruptly evacuated in 1998 and has been preserved by the Arctic cold ever since. The harbour infrastructure, old moorings, and rocky substrate descend to 20 meters, with kelp forests reclaiming the industrial debris and cold-water invertebrates colonizing submerged structures. Accessible by boat from Longyearbyen between May and October when the fjord is ice-free, this site combines Arctic marine life with the eerie underwater remnants of a Soviet-era settlement beneath the pyramid-shaped mountain that gives the town its name.
+Pyramiden was founded by Sweden in 1910, sold to the Soviet Union in 1927, and developed into a coal-mining settlement that at its peak housed hundreds of workers. Mining ceased on 31 March 1998, and although Pyramiden is popularly described as having been "abandoned overnight," the actual departure took place over several months — most of the roughly 300 remaining workers left by boat or helicopter over the summer, with the last residents departing on 10 October 1998, timed to beat the fjord's seasonal freeze-up. The town's preserved buildings have since made it a tourist destination, reachable by boat from Longyearbyen when Billefjorden is ice-free (roughly mid-May to early October).
+
+No source was found describing the underwater conditions, depth profile, or marine life at Pyramiden's harbor specifically. Previous text on this page described "kelp forests reclaiming industrial debris," "cold-water invertebrates colonizing submerged structures," and specific harbor infrastructure at 20 m depth — none of this could be traced to a source, so it has been removed rather than repeated. Regional Arctic species and kelp growth are plausible near any ice-free Svalbard shoreline, but nothing here is confirmed as specific to this site.
 
 ## Site Information
 
@@ -28,4 +30,4 @@ Pyramiden Harbor lies at the abandoned Soviet coal mining settlement of Pyramide
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*Sources: [Wikipedia – Pyramiden](https://en.wikipedia.org/wiki/Pyramiden), [Smithsonian Magazine – A Soviet Ghost Town in the Arctic Circle, Pyramiden Stands Alone](https://www.smithsonianmag.com/travel/soviet-ghost-town-arctic-circle-pyramiden-stands-alone-180951429/). These cover the settlement's history only — no site-specific diving source was found. Last updated 2026-07-04.*

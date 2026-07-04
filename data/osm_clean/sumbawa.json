@@ -10,26 +10,27 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dive-the-world.com,asiadivesite.com,neptuneliveaboards.com",
+      "validation_source": "dive-the-world.com,asiadivesite.com,dive-indonesia.blogspot.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04 re-audit: Re-confirmed depth (8-40m+), marine life (redtooth triggerfish, bannerfish, batfish, yellowtail tuna, blacktip reef sharks), and the dynamite-fishing blast-zone claim (verbatim match in dive-indonesia.blogspot.com). Replaced neptuneliveaboards.com in validation_source with dive-indonesia.blogspot.com, which is the source actually cited in the markdown footer and was independently re-verified; neptuneliveaboards.com's own Sumbawa blog post contains suspiciously precise, unverifiable stats elsewhere (e.g. exact turtle counts) and was not used. Did not add turtle sightings or November coral-spawning claims found only in low-confidence aggregator text -- could not confirm from a primary source."
     }
   },
   {
     "name": "Little Angel",
     "lat": -8.2307,
     "lon": 117.4787,
-    "depth": 35,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS",
+      "validation_source": "emperordivers.com",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04: Corrected site_type from wall to reef and depth from 35m to 15m based on emperordivers.com ('small sister of Angel Reef, a smaller reef slightly to the east... a submerged plateau from 5m to 15m, with beautiful coral bommies, sandy slopes'). Prior wall/35m entry was sourced only to ScubaBoard GPS with no real corroboration. Only 1 independent site-specific domain found so far; still requires 2 more distinct-domain sources before validation."
     }
   },
   {
@@ -43,9 +44,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dive-the-world.com,asiadivesite.com,neptuneliveaboards.com",
+      "validation_source": "dive-the-world.com,asiadivesite.com,philkade.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04 re-audit: Re-confirmed bicolour/six-banded angelfish, yellow-bellied damsels, harlequin sweetlips, and the blue-ringed octopus feature. Replaced neptuneliveaboards.com in validation_source with philkade.com (MV Philkade liveaboard's dedicated Panjang Reef page), which independently confirms depths of 10m-40m+, moderate currents, up to 35m visibility, and adds pygmy seahorses, ribbon eels, and frogfish. Depth range widened in markdown text to reflect philkade.com's deeper reported range vs. the 30m default."
     }
   },
   {
@@ -59,10 +61,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, michaelmcfadyenscuba.info",
-      "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "validation_source": "asiadivesite.com,michaelmcfadyenscuba.info,samataliveaboard.com,dive-the-world.com",
+      "validated": "true",
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04: Flipped to validated. michaelmcfadyenscuba.info provides a first-hand dive log (sloping black sand to ~18m, firefish, stargazers, clown anglerfish, gurnards, spotted eels, razorfish, flatworms, nudibranchs, jellyfish; 30m+ vis, 27C) that independently corroborates the muck/macro character alongside asiadivesite.com, samataliveaboard.com, and dive-the-world.com (which specifically confirms clown frogfish, arrow crabs, and banded boxer shrimp). 4 distinct domains with genuine site-specific content."
     }
   },
   {
@@ -78,8 +80,8 @@
       "addedBy": "gap_fill",
       "validation_source": "ScubaBoard GPS",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04: Extensive additional web research (WebSearch for \"Sumbawa Wall\" dive site, liveaboard itineraries, operator site lists) found no source that names or individually documents a site called \"Sumbawa Wall.\" Only generic regional descriptions of north-coast Sumbawa wall diving exist (dive-the-world.com, liveaboardindonesia.com), already cited in the markdown as regional context, not site-specific confirmation. Remains unresolved; do not mark validated based on regional sources alone."
     }
   },
   {
@@ -95,8 +97,8 @@
       "addedBy": "gap_fill",
       "validation_source": "ScubaBoard GPS",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04: Repeated web research found no individually-documented site named \"Sumbawa Surprise\" anywhere online. Likely an informal/curator-assigned name for an undocumented reef patch between Moyo and Satonda. Remains unresolved -- no site-specific sources found."
     }
   },
   {
@@ -110,10 +112,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "asiadivesite.com,liveaboardindonesia.com",
+      "validation_source": "asiadivesite.com,dive-the-world.com",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "Only 2 sources found."
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04: Re-confirmed both existing sources directly (asiadivesite.com dedicated page and dive-the-world.com both independently describe the same site: ~5km east of Bima port, fringing reef to 20m then wall to 40m+, bicolour/Lamarck's angelfish, eagle rays, whitetip sharks). Searched for a 3rd independent domain; liveaboardindonesia.com's dedicated page for this site returned 404, and other \"Batu Putih\" hits (divechamp.com, PADI, DiveJourney, Bird's Head Seascape) refer to different, unrelated dive sites of the same common Indonesian name (Gili Rengit/Bali Sea, Fakfak/West Papua) -- not this location. Still only 2 verified domains; remains unresolved."
     }
   },
   {
@@ -127,10 +129,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "kalimayadiveresort.com",
-      "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "validation_source": "petitesbullesdailleurs.fr,kalimayadiveresort.com,emperordivers.com",
+      "validated": "true",
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04: Flipped to validated. petitesbullesdailleurs.fr independently confirms the manta cleaning station at ~12m sheltered from surrounding currents; emperordivers.com and kalimayadiveresort.com corroborate the site's location, slopes to 40m, and current character. Note: \"Tanduk Rusa\" is a common Indonesian name (\"deer antler\") reused at unrelated dive sites elsewhere in Indonesia (e.g. Lembeh Straits, and a separate shipwreck also nicknamed Tanduk Rusa) -- confirmed the Gili Banta identification specifically via manta-cleaning-station and current details matching across sources."
     }
   },
   {
@@ -144,27 +146,27 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, kalimayadiveresort.com",
-      "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "validation_source": "kalimayadiveresort.com,petitesbullesdailleurs.fr,diversparadisekomodo.com",
+      "validated": "true",
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04: Flipped to validated. diversparadisekomodo.com (dedicated page) and starfish.ch both confirm the alternate/original name \"Tondok Rasa\" for this site, alongside kalimayadiveresort.com and petitesbullesdailleurs.fr. Depth is uncertain across sources: existing description cites slopes to 30m, while starfish.ch describes a canyon reaching ~45m -- both figures now noted in the markdown rather than picking one."
     }
   },
   {
     "name": "K2",
     "lat": -8.4034,
     "lon": 119.276,
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS",
+      "validation_source": "diveindonesia.com",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04: Found a strong dedicated source (diveindonesia.com/highlights/k2: seamount ~1000m south of Gili Banta's NW tip, steep sandy slopes/scattered coral heads/deep wall, 5-30m, moderate-strong currents, barracuda/trevally/fusiliers, reef sharks, manta and eagle rays). However, the previously-cited asiadivesite.com Banta Island page (asiadivesite.com/indonesia-dive-sites/komodo/banta-island.php) does NOT name a site called \"K2\" -- it lists GPS Point, Gallery Rock, Tanjung Rasa, Star Wars, and Toro Oi instead, so that earlier citation appears to be a mismatch and was dropped. Kalimaya Dive Resort's Gili Banta description is only generic (not K2-specific). Only 1 confirmed site-specific domain; remains unresolved pending 2 more independent sources."
     }
   },
   {
@@ -178,43 +180,44 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, liveaboardindonesia.com",
-      "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "validation_source": "liveaboardindonesia.com,divehappy.com,petitesbullesdailleurs.fr",
+      "validated": "true",
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04: Flipped to validated. divehappy.com's trip report explicitly names Bonto Reef and details its night-diving specialty (crabs, lobster, cuttlefish, moray eels, juvenile boxfish, mantis shrimp, stargazer, orangutan crab), independently corroborating liveaboardindonesia.com's black-sand-slope/ribbon-eel/frogfish/ghost-pipefish description and petitesbullesdailleurs.fr's characterization as a macro/black-sand site. Note asiadivesite.com's Sangeang Island page does NOT mention Bonto Reef by name (it lists Mentjeng Wall, Tikno's Reef, Black Magic, Copycat Copycat instead) so it was not counted as a source here."
     }
   },
   {
     "name": "Tikno Reef",
     "lat": -8.1421,
     "lon": 119.0275,
-    "depth": 18,
+    "depth": 30,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, asiadivesite.com",
-      "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "validation_source": "asiadivesite.com,michaelmcfadyenscuba.info,barefoot-cruising-indonesia.com",
+      "validated": "true",
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04: Flipped to validated. michaelmcfadyenscuba.info provides a dedicated dive-log page (GPS-tagged) confirming a sloping black-sand bottom from 10m dropping to 30m with a sheer drop to 40m+, sea whip gobies, orangutan crabs, hawkfish, leaf fish, ornate ghost pipefish, nudibranchs, barrel sponges, gorgonians; barefoot-cruising-indonesia.com independently confirms depth to ~31m, garden eels, Spanish dancer egg ribbons, hairy squat lobsters. Depth updated from 18m to 30m to reflect the sourced range (asiadivesite.com's 18m appears to describe only the shallow shelf before the drop-off)."
     }
   },
   {
     "name": "Hot Rocks",
     "lat": -8.1711,
     "lon": 119.0564,
-    "depth": 20,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "masterliveaboards.com,dive-the-world.com,neptuneliveaboards.com",
+      "validation_source": "masterliveaboards.com,michaelmcfadyenscuba.info,kalimayadiveresort.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04 re-audit: Corrected validation_source to match the domains actually cited in the markdown footer (previously listed dive-the-world.com and neptuneliveaboards.com, neither of which was cited in the markdown or independently verified for this exact site). michaelmcfadyenscuba.info's dive log independently confirms the volcanic bubble field and depth to ~30m (bottom 3-5m at the shallow edge, dropping to ~30m), so depth was updated from 20m to 30m. Removed unconfirmed 'bumphead parrotfish (occasional)' claim -- not present in any independently re-verified source and atypical for this habitat; added clown anemonefish, emperor angelfish, banded sweetlips, and spindle cowries, which McFadyen's log does confirm."
     }
   },
   {
@@ -225,17 +228,16 @@
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "asiadivesite.com,starfish.ch,liveaboardindonesia.com",
     "tags": {
       "name": "Lighthouse Reef",
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
       "description": "Sheltered muck and macro diving site in a bay on the northeast side of Sangeang Island. Black volcanic sand slopes mixed with colorful coral garden. Premier critter diving with frogfish, nudibranchs, boxer crabs, pipefishes, pygmy seahorses, cuttlefish, and flame file shells with their signature electric-flash light displays. Calm conditions with minimal current make it suitable for less experienced divers compared to other Sangeang sites.",
+      "validation_source": "asiadivesite.com,starfish.ch,liveaboardindonesia.com,michaelmcfadyenscuba.info",
       "validated": "true",
-      "validation_source": "asiadivesite.com,starfish.ch,liveaboardindonesia.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-04",
+      "notes": "QA 2026-07-04 re-audit: Normalized JSON structure (validated/validation_source were previously duplicated at both top level and inside tags; now present only inside tags, matching the other 13 sites -- this does not affect sync_sites.py, which does not read these fields). Added michaelmcfadyenscuba.info (dedicated 'Sangeang Lighthouse' dive-log page) as a 4th independent domain: confirms black sand with coral to both west and east, ornate ghost pipefish, dancing shrimp, pygmy seahorses on gorgonians, and multiple named nudibranch species; reports max depth ~29m vs. the existing 25m figure (both now noted as consistent within a small range)."
     }
   }
 ]
