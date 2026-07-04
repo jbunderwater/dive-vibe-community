@@ -13,50 +13,47 @@ addedBy: osm_import
 
 ## Big Wall
 
-Big Wall is one of Pemba Island's signature wall dives, located off the eastern coast of Pemba Island in the Zanzibar Archipelago. It is part of the same dramatic submarine topography that makes Pemba one of East Africa's most respected advanced dive destinations.
+Big Wall is a well-documented advanced wall dive at Mnemba Atoll, off the northeastern tip of Zanzibar (Unguja) Island, near Nungwi and Matemwe. Coordinates for this entry place it directly in the Mnemba Atoll area — not on Pemba Island, as an earlier version of this page stated.
 
 ## Overview
 
-Pemba Island's eastern coast drops away sharply into the Pemba Channel, forming near-vertical walls encrusted with gorgonian sea fans, orange elephant ear sponges, and cascading soft corals. Big Wall begins with a reef top at 5-8 meters before dropping steeply, with the most productive dive zone between 10 and 20 meters. Below 20 meters the wall continues into the deep, making buoyancy control critical to avoid unintended deep dives. Visibility is typically excellent — 20-30 meters is common in the northeast monsoon season.
+Big Wall drops away steeply from the Mnemba reef structure. Sources describing the site are not fully consistent on its depth range: one dive operator (TGI Diving) reports the wall extending from roughly 14 to 70 meters, while another (Diving in Zanzibar) describes it dropping from about 18 to 50 meters. Both agree the site continues well beyond recreational sport-diving limits and is restricted to experienced/advanced divers. This listing records a conservative recreational maximum of 20 meters; treat any deeper portion of the wall as outside recreational limits unless you hold appropriate advanced/deep certification and are diving with an operator experienced at the site.
 
 ## Site Information
 
-- **Location**: East Pemba Island, Zanzibar Archipelago, Tanzania
+- **Location**: Mnemba Atoll, off Nungwi/Matemwe, Zanzibar (Unguja) Island, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Moderate to strong, variable with tide
-- **Best Time**: October to March (northeast monsoon, best visibility)
+- **Maximum Depth**: 20 meters (recreational reference depth; the wall face itself continues significantly deeper — sources vary between roughly 50 and 70 meters for the full drop)
+- **Current**: Present at this site; conditions vary
+- **Best Time**: Not independently confirmed for this exact site; Zanzibar diving generally favors October–March for visibility
 
 ## Marine Life
 
-The wall structure supports an impressive vertical ecosystem. Large gorgonian sea fans at 15-20 meters host pygmy seahorses and longnose hawkfish. Orange sea fans and basket sponges create colorful backdrops. Pelagic visitors including eagle rays, barracuda, and grey reef sharks patrol the wall's outer face. Sea turtles use the reef top for resting, and octopus are frequently spotted in crevices at night. Moray eels, lionfish, and large groupers occupy the permanent overhangs.
+Two independent dive-operator sources describe overlapping marine life at Big Wall: Napoleon wrasse, tuna, moray eels, turtles, and barracuda are mentioned by both. One source additionally reports hammerhead shark and dolphinfish sightings; the other additionally reports white-tip reef sharks and lobsters. Because these come from different operators rather than a single repeated claim, treat the less-corroborated species (hammerhead, white-tip reef shark) as possible-but-not-guaranteed encounters rather than reliable features of every dive.
 
 ## Dive Profile
 
-Descend directly to the wall from the boat and begin your dive at 18-20 meters at the base of the productive zone. Work horizontally along the wall face, exploring overhangs and crevices, while gradually ascending. Spend the majority of your bottom time between 10-20 meters and finish with a long shallow traverse of the reef top at 5-8 meters before your safety stop.
+Divers typically descend along the wall face, working the productive shallower-to-mid-depth zone before ascending gradually across the reef top for the safety stop. Given the site's advanced-only rating and the significant depth of the full wall, a clear maximum-depth plan agreed with your guide before descent is essential.
 
 ## Entry and Exit
 
-Boats depart from Chake Chake or Wete on Pemba Island, or from liveaboards operating in Pemba Channel. Giant stride entry from the dive dhow or zodiac. Current can run strongly parallel to the wall — confirm with the guide whether to drift or hold station using a reef hook.
+Boat access from dive operators based in Nungwi or Matemwe. Giant stride or back-roll entry is standard for Mnemba Atoll sites. Confirm current direction and strength with your boat crew before entering the water.
 
 ## Tips and Recommendations
 
-- Pemba Island has very limited tourism infrastructure — plan accommodation and dive operators in advance
-- A reef hook allows you to station at the wall and observe pelagic activity without fighting the current
-- Pemba is known for hammerhead sightings during certain conditions — ask local operators for current reports
-- Liveaboard access from Zanzibar Stone Town gives the best logistical flexibility for Pemba dive trips
-- Advanced divers should note that the wall drops well beyond sport diving limits — strict depth monitoring is essential
+- This is an advanced-only site — sources are consistent that it is not appropriate for beginner or newly-certified divers
+- Because reported maximum depths vary significantly between sources (50m to 70m+), agree on a hard depth limit with your guide before the dive
+- Dive with an operator (e.g., a Nungwi- or Matemwe-based PADI center) experienced specifically with this site
 
 ## Safety Considerations
 
-Wall dives carry an inherent risk of uncontrolled descent. Establish a clear maximum depth with your guide and dive computer, and do not chase marine life below the agreed limit. Strong lateral currents can push you away from the wall unexpectedly. Carry a reef hook and an SMB. The remote location of Pemba Island means access to a recompression chamber (Zanzibar or Dar es Salaam) is several hours away.
+Wall dives carry an inherent risk of unplanned depth excursions, and Big Wall's reported depth range (well beyond 20m on the full wall face) makes this particularly important here. Establish a maximum depth with your guide and dive computer before descending, and do not follow marine life below your certification limit. Confirm current conditions before entry.
 
 ## Photography
 
-Big Wall is outstanding for wide-angle photography — the combination of colorful soft corals, large gorgonian fans, and blue-water pelagic visitors creates compositions rarely found elsewhere in East Africa. Bring the widest lens available, and use a single strobe or no strobes at all for blue-water silhouette shots of rays and sharks.
+Wide-angle setups suit the wall's scale and the pelagic species reported at the site (tuna, Napoleon wrasse, sharks). No site-specific macro subjects were confirmed by available sources.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [TGI Diving – Zanzibar Nungwi Dive Sites](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/dive-sites/), [Diving in Zanzibar – Mnemba Atoll](https://www.divinginzanzibar.com/diving-mnemba-atoll/), [Zanzibar Dive – Zanzibar Dive Sites](https://zanzibardive.com/zanzibar-dive-sites/). Last updated 2026-07-04.*

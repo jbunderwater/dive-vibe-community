@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Swahil Divers
 
-Swahil Divers is a reef dive site on Tanzania's northern coast near Tanga, the country's second-largest port city. Located at approximately 5°S latitude, the site benefits from the warmer, clearer Indian Ocean waters of the northern Tanzanian coast and serves as a training and recreational reef for divers based in the Tanga area.
+Research found no reef or dive site independently documented under the name "Swahil Divers" (or "Swahili Divers"). All matching references are to **Swahili Divers**, an established PADI 5-star dive center based at Makangale on the northern tip of Pemba Island, Tanzania. This entry's coordinates place it on Pemba Island, close to Makangale — consistent with the dive center's location, not with Tanga on the mainland coast, as an earlier version of this page incorrectly stated. It is likely this entry represents the dive operator's business location rather than a distinct charted reef.
 
 ## Overview
 
-The reef accessible from Tanga sits in an area where the Tanga Coelacanth Marine Park (one of East Africa's newest marine protected areas) meets the more developed coastal zone near the city. The dive site is associated with local operators who use the reef for certification training and recreational dives, offering beginner-friendly conditions with a reef top at 3-5 meters and a slope to 18 meters. Visibility averages 10-15 meters, with improvements during the northeast monsoon.
+No independently verifiable, site-specific reef description exists under this name. Swahili Divers (the operator) is documented as Pemba's most experienced dive center, running two-tank boat trips to numerous named sites around Pemba Island (e.g., Rainbow Reef, Fungu Gap, Coral Garden, The Abyss), but none of those is called "Swahil Divers" or "Swahili Divers" — that name belongs to the operator itself, not to any specific reef they dive.
 
 ## Site Information
 
-- **Location**: Tanga Coast, northern Tanzania
+- **Location**: Pemba Island (near Makangale), Zanzibar Archipelago, Tanzania — corrected from an earlier "Tanga coast" description, which did not match these coordinates
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (unconfirmed — no independent source documents a distinct reef under this name)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to March
+- **Current**: Not independently confirmed
+- **Best Time**: Not independently confirmed for this exact site; Pemba Island diving generally favors October–March
 
 ## Marine Life
 
-The northern Tanzanian coast shares species with the Kenyan coast to the north — a mix of typical East African reef fish with occasional sightings of pelagic species passing through. Sea turtles are present year-round. The reef structure supports parrotfish, triggerfish, and surgeonfish in abundance. Tanga's proximity to Kenya's waters means the biodiversity is influenced by both Kenyan and Tanzanian reef communities.
+No site-specific marine life reports were found. No species are listed here in the absence of a confirmed site-specific source, per this dataset's anti-hallucination policy.
 
 ## Dive Profile
 
-A standard beginner reef slope profile well-suited to certification dives. The gradual slope from shallow reef top to 18 meters provides comfortable transition between depth zones. Training dives typically focus on the 5-12 meter range before exploring the deeper outer slope.
+Not independently confirmed.
 
 ## Entry and Exit
 
-Boat access from Tanga's small harbor. The site is used primarily by local dive training operators and is not heavily promoted in regional dive guides, giving it a genuinely local character. Giant stride entry and assisted exit.
+Boat access from the Pemba Island area near Makangale. Specific access details for this entry could not be confirmed beyond its general location.
 
 ## Tips and Recommendations
 
-- Tanga is an underexplored dive destination with growing infrastructure — book with local operators directly
-- The nearby Pemba Island (Tanzania) is accessible from Tanga for more experienced divers seeking deeper wall diving
-- Check conditions before diving — the proximity to the Pangani River mouth can affect visibility after heavy rains
-- Visit Tanga's historic German colonial architecture and old port between dives for a combined cultural and diving trip
+- If you're booking with the Swahili Divers operator on Pemba, ask them directly which of their charted reefs (e.g., Rainbow Reef, Fungu Gap, Coral Garden) this listing might correspond to
+- Pemba Island has limited tourist infrastructure — arrange diving and accommodation well in advance
 
 ## Safety Considerations
 
-Beginner-friendly conditions overall. Moderate current can develop on the outer reef edge. Always deploy SMB for ascent and be aware of boat traffic near the Tanga harbor approaches. Standard East African hazards of fire coral and sea urchins apply.
+No site-specific hazards could be confirmed. Standard Pemba Channel precautions apply: confirm current conditions with your guide, and deploy an SMB on ascent.
 
 ## Photography
 
-Good training site photography with natural light at shallow depths. Fish are generally relaxed given the lower dive traffic volumes at Tanga compared to Zanzibar or Pemba. A wide-angle reef scene with the characteristic northern Tanzanian coral formations is the primary photographic subject.
+Not independently confirmed for this specific site.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics for Pemba Island. No site-specific source confirming a distinct reef named "Swahil Divers" was found — all references located during research point to the Swahili Divers dive operator based at Makangale, Pemba Island. Last updated 2026-07-04.*

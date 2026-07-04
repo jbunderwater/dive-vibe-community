@@ -13,49 +13,48 @@ addedBy: osm_import
 
 ## Captain Muddy
 
-Captain Muddy is a coral reef site located off the northern tip of Zanzibar Island near Nungwi, known for its gentle conditions and approachable reef life that make it one of the area's most popular sites for newer and returning divers.
+Research for this QA pass found no independent dive-site directory, guide, or operator listing that documents a reef named "Captain Muddy." Every reference to "Captain Muddy" found is to **Captain Muddy Excursions and Water Sports** (also operating as "Captain Muddy Diving Centre"), a boat excursion and diving business based in Nungwi, northern Zanzibar. This entry's coordinates fall in the Nungwi area, consistent with that business's location. It is likely that this entry represents a dive operator's location rather than a distinct, named reef — a known failure mode of automated OSM scraping, where a business point tagged for diving gets picked up as if it were a dive site.
+
+This could not be fully confirmed either way, so the site record and page are being kept, but the description below intentionally avoids inventing reef characteristics that no source actually documents.
 
 ## Overview
 
-The name may suggest murky conditions, but Captain Muddy is generally a clear and well-structured reef with coral formations starting in 5 meters and descending to 20 meters. It sits on the western side of the Nungwi peninsula where it is partially sheltered from the northeast monsoon, giving it more dive days per year than the exposed eastern sites. The reef is composed largely of branching Acropora and encrusting corals, with sandy patches supporting additional diversity. Visibility typically ranges from 10-20 meters.
+No independently verifiable, site-specific description of a reef called "Captain Muddy" exists in the sources checked (multiple Nungwi dive-site guides and operator dive-site lists were checked and none list a "Captain Muddy" reef). The Nungwi area generally offers beginner-friendly reef diving with a scattering of named sites (e.g., Shane's Reef, Kichafi, Coral Garden) at depths in the 10-20m range, but nothing here should be read as describing this specific location.
 
 ## Site Information
 
-- **Location**: Nungwi, North Zanzibar Island, Tanzania
+- **Location**: Nungwi, North Zanzibar Island, Tanzania (coordinates match the reported location of the Captain Muddy dive/excursion operator)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (unconfirmed — no independent source documents a distinct reef under this name)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-20 meters (33-65 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to April (northeast monsoon); June-September (southeast monsoon, western sites accessible)
+- **Current**: Not independently confirmed
+- **Best Time**: Not independently confirmed for this exact site; Zanzibar diving generally favors October–April
 
 ## Marine Life
 
-Captain Muddy is a good site for sea turtle encounters — green turtles are resident on the reef and are accustomed to divers, allowing extended observation. Moray eels occupy the coral overhangs, and surgeonfish, parrotfish, and wrasse are common throughout the reef. Pufferfish and porcupinefish are frequently seen. The sandy patches support stingrays and goatfish, while the outer reef edge occasionally hosts reef sharks in the late afternoon.
+No site-specific marine life reports were found. No species are listed here in the absence of a confirmed site-specific source, per this dataset's anti-hallucination policy.
 
 ## Dive Profile
 
-A relaxed dive suited to recently certified divers or those refreshing their skills. Descend from the mooring to the reef top at 5-8 meters and navigate downslope to the maximum depth of 20 meters, then return across the reef at mid-depth. Total dive time typically reaches 45-55 minutes with standard air consumption.
+Not independently confirmed.
 
 ## Entry and Exit
 
-Boat access from Nungwi village on the northern tip of Zanzibar. Most operators run two-tank morning trips combining Captain Muddy with a nearby wall site. Giant stride or back roll entry from a wooden boat or inflatable. Exit is assisted by the crew at the ladder.
+Boat access from Nungwi, on the northern tip of Zanzibar. Specific access details for this entry could not be confirmed beyond its general Nungwi location.
 
 ## Tips and Recommendations
 
-- Ideal as the first or second dive on a Zanzibar trip to assess conditions and familiarize with the marine environment
-- Ask your guide to show you the resident turtle feeding grounds on the reef top
-- Mornings are best — afternoon northeast trade winds can create surface chop that reduces visibility
-- Combine with nearby Barracuda Point or Manta Point for a contrast of site types on the same day
+- If you're booking with an operator named "Captain Muddy" in Nungwi, confirm with them directly which reef(s) they dive — this listing could not verify a distinct site under that name
+- Nungwi has many established dive operators and reef sites; ask your chosen operator for their own site names and characteristics
 
 ## Safety Considerations
 
-Generally a forgiving site with light currents. Watch for sea urchins on the sandy bottom and avoid contact with fire coral on the reef edge. Boat traffic around Nungwi requires SMB deployment for ascent. As always in East Africa, be aware of jellyfish during September-November.
+No site-specific hazards could be confirmed. Standard East African reef diving precautions apply: watch for boat traffic near Nungwi, deploy an SMB on ascent, and avoid contact with fire coral and sea urchins.
 
 ## Photography
 
-The calm conditions and cooperating turtles make Captain Muddy a photographer-friendly site. Wide-angle turtle portraits in the shallow reef top light are the signature shots here. Macro photographers will find cleaning stations with shrimp and wrasse, plus nudibranchs on the deeper coral patches.
+Not independently confirmed for this specific site.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics for Nungwi, Zanzibar. No site-specific source confirming a distinct reef named "Captain Muddy" was found — all references located during research point to a Nungwi-based dive/excursion business of the same name. Last updated 2026-07-04.*

@@ -39,4 +39,6 @@ Redtooth triggerfish, longfin bannerfish, batfish, yellowtail tuna, blacktip ree
 Enter the shallows at 8–10 m and follow the steep bank to the wall crest, then drop along the vertical face. Most action is between 15–30 m. Current can pick up; dive with a guide familiar with the site.
 
 ---
-*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Asia Dive Site - Moyo Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [Dive Indonesia Blog - Angel Reef](http://dive-indonesia.blogspot.com/2007/09/moyo-island-angel-reef.html). Last updated 2026-05-17.*
+*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Asia Dive Site - Moyo Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [Dive Indonesia Blog - Angel Reef](http://dive-indonesia.blogspot.com/2007/09/moyo-island-angel-reef.html). Last updated 2026-07-04.*
+
+*QA re-audit 2026-07-04: Depth, marine life, and the dynamite-fishing blast-zone description were re-confirmed against the sources above (the blog post independently repeats the same blast-zone detail). Unverified claims found elsewhere online (specific turtle counts, a November coral-spawning date) were not added — they appear only in a low-confidence aggregator source with no primary confirmation.*

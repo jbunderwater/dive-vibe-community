@@ -17,7 +17,7 @@ Satonda Reef refers to the diving around Satonda Island, a small ancient volcani
 
 ## Overview
 
-The diving at Satonda is primarily a macro and muck experience in a sheltered bay, with sparse coral patches and shallow depths suited to patient critter hunters. Pygmy seahorses are the main draw — experienced local guides know their locations in the seafans. The site is also noted for rare clown frogfish (bright yellow with dark red patches, approximately 2–3 cm long and easily mistaken for sponge), scorpionfish, ghost pipefish, and banded boxer shrimp. Night diving is popular here, revealing hunting octopuses and bioluminescent plankton. Currents are typically weak, and the shallow depths (to 18 m) make it manageable for intermediate divers. Visibility can be washed out when currents stir the sediment. Access is by liveaboard, with the best conditions from April to November.
+The diving at Satonda is primarily a macro and muck experience in a sheltered bay: a sloping black sand bottom to around 18 m, with sparse coral patches and larger coral formations at either end of the beach. Pygmy seahorses are the main draw — experienced local guides know their locations in the seafans. The site is also noted for rare clown frogfish (bright yellow with dark red patches, approximately 2–3 cm long and easily mistaken for sponge), scorpionfish, ghost pipefish, arrow crabs, and banded boxer shrimp. A first-hand dive log (Michael McFadyen) on this same slope also recorded firefish hunting by torchlight, stargazers, gurnards, spotted eels, razorfish, flatworms, and jellyfish — the mix of species reported varies noticeably between accounts, which is typical for a macro/muck site where sightings differ dive to dive. Night diving is popular here, revealing hunting octopuses and this varied nocturnal critter activity. Currents are typically weak, and the shallow depths (to 18 m) make it manageable for intermediate divers. Visibility can reach 30 m or more but is washed out when currents stir the sediment. Access is by liveaboard, with the best conditions from April to November.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The diving at Satonda is primarily a macro and muck experience in a sheltered ba
 
 ## Marine Life
 
-Pygmy seahorses, clown frogfish (rare), ghost pipefish, banded boxer shrimp, arrow crabs, scorpionfish, octopus (night dives).
+Pygmy seahorses, clown frogfish (rare), ghost pipefish, banded boxer shrimp, arrow crabs, scorpionfish, octopus (night dives). Also reported on night dives: firefish, stargazers, gurnards, spotted eels, razorfish, and flatworms.
 
 ## Dive Profile
 
