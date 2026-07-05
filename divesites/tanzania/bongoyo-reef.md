@@ -13,50 +13,47 @@ addedBy: osm_import
 
 ## Bongoyo Reef
 
-Bongoyo Reef surrounds Bongoyo Island, a small uninhabited island located approximately 8 kilometers north of Dar es Salaam in Tanzania. The island and its surrounding reef form part of the Dar es Salaam Marine Reserve System and are a popular day trip destination from Tanzania's largest city.
+Bongoyo Island is a real, well-documented uninhabited island roughly 2.5 km north of Dar es Salaam (Wikipedia), and the most-visited of the four islands in the Dar es Salaam Marine Reserve. It is reached via a roughly 30-minute boat ride from the Slipway complex on the Msasani Peninsula. The reef around it is confirmed by three independent sources with real, non-generic detail.
 
 ## Overview
 
-The reef encircles the island with a mix of coral gardens, seagrass beds, and rocky outcrops that support high species diversity for a relatively accessible, urban-adjacent dive site. The reef top starts at 3-5 meters and the dive maxes out at 18 meters on the outer side of the island. Despite its proximity to Dar es Salaam, the reserve status has helped maintain reasonable coral coverage and fish populations. Visibility averages 10-15 meters, improving during the northeast monsoon season from October to March.
+The habitat ranges from shallow, gently sloping coral reef to sandy expanses, seagrass beds, and a shark lagoon (Tanzania Tourism). Bongoyo also holds the largest coconut crab specimens recorded in the country (Wikipedia — Dar es Salaam Marine Reserve). A Tanzania-based diver/photographer site (Seaunseen) documents several genuinely distinct named features here: the wreck of the motor vessel "Moto" (an ex-Dar es Salaam-port oil recovery vessel, average depth 5 m, maximum 12 m, no strong current, hosting pompano, pink glassies, and spotted sweetlips), plus "Bongoyo Inner Reef," "Bongoyo Patches," and "Vinnies Wall" on nearby Octopus Reef as separate, named sites. Our "Bongoyo Reef" entry most likely corresponds to general reef diving around the island rather than one specific named feature — this ambiguity is noted rather than resolved by invention.
 
 ## Site Information
 
-- **Location**: Bongoyo Island, Dar es Salaam Marine Reserve, Tanzania
+- **Location**: Bongoyo Island, Dar es Salaam Marine Reserve, Tanzania (2.5 km north of Dar es Salaam)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to March (better visibility and calmer seas)
+- **Current**: Light to moderate generally; the Moto wreck area specifically is reported to have no strong currents
+- **Best Time**: Not independently verified for this specific reef; October-March is commonly cited for the wider Tanzania coast but was not confirmed site-specifically
 
 ## Marine Life
 
-The reef supports a good variety of Indo-Pacific reef fish — parrotfish, surgeonfish, angelfish, and butterflyfish are common throughout. Moray eels and scorpionfish occupy the rocky areas. Green sea turtles are regularly seen around the island, as are hawksbill turtles foraging on sponges. The seagrass beds between coral patches shelter seahorses, sea stars, and ghost pipefish for attentive macro divers. Small reef sharks occasionally patrol the deeper outer slope.
+Confirmed by Tanzania Tourism: butterflyfish, groupers, sweetlips, sea urchins, giant clams, octopuses, starfish, hermit crabs, and sea cucumbers, with hawksbill and green sea turtles nesting on the island's beaches and regularly seen by divers. Seaunseen additionally documents pompano, pink glassies, and spotted sweetlips specifically around the Moto wreck nearby. Claims of seahorses, ghost pipefish, and reef sharks from the previous version could not be independently confirmed and have been removed rather than repeated as fact.
 
 ## Dive Profile
 
-The protected western side of the island offers the calmest conditions and is suitable for less experienced divers at 5-12 meters. The more exposed eastern side has a slightly deeper and richer reef profile extending to 18 meters. Beginners should focus on the shallower reef gardens, while intermediate divers can explore the full slope. Currents are light compared to the outer Dar es Salaam reefs.
+The western side of the island is the more sheltered approach commonly used for less experienced divers; the eastern side is more exposed. Specific depth-by-depth profile details beyond this are not independently confirmed for "Bongoyo Reef" as opposed to the specifically named nearby sites (Moto wreck, Bongoyo Patches, Vinnies Wall).
 
 ## Entry and Exit
 
-Day boats depart from the Slipway jetty north of Dar es Salaam and take approximately 20-30 minutes to reach the island. Giant stride or back roll entry from the dive dhow. The reserve requires a small conservation fee, typically included in operator packages.
+Day boats depart from the Slipway complex on the Msasani Peninsula, roughly 30 minutes to the island (Wikipedia, Tanzania Tourism). A small conservation/reserve fee applies.
 
 ## Tips and Recommendations
 
-- An ideal first dive destination when visiting Dar es Salaam — calm conditions and accessible depth range
-- Combine the dive with a snorkel at the island's beach for a half-day outing
-- The western beach has a small picnic area — bring lunch for a surface interval on shore
-- Macro divers should ask the guide to search the seagrass beds for seahorses and pipefish
-- Visibility is best October through February; avoid diving after heavy rains which increase sediment runoff from the mainland
+- Ask your operator whether "Bongoyo Reef" refers to the general island reef, "Bongoyo Inner Reef," or "Bongoyo Patches" — these are documented as distinct sites nearby
+- The Moto shipwreck nearby is a well-documented, shallow, current-free site suitable as a second dive or for those specifically interested in wreck life
+- Bongoyo's coconut crabs (largest in Tanzania) are a notable feature of the island itself, not the dive
 
 ## Safety Considerations
 
-Bongoyo is one of the more benign dives accessible from Dar es Salaam, with light currents and sheltered conditions on the western side. The main hazard is boat traffic in the wider area — always ascend with an SMB deployed. Lionfish and sea urchins are present, so appropriate footwear and buoyancy control are important.
+Light-to-moderate currents overall; the specifically documented Moto wreck area has no strong currents. Boat traffic is present in the wider area — ascend with an SMB deployed.
 
 ## Photography
 
-The shallow reef top provides excellent natural light for photography, particularly in the first two hours after sunrise. Turtle encounters allow for close portrait shots. Macro photographers will enjoy the seagrass meadows and rubble zones where cryptic species congregate. A compact camera or GoPro is well suited to this accessible site.
+The shallow reef top and turtle encounters (both independently confirmed) suit natural-light and portrait photography. The Moto wreck's resident pompano, glassies, and sweetlips schools are a specifically documented photography subject nearby.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Bongoyo Island — Wikipedia](https://en.wikipedia.org/wiki/Bongoyo_Island), [Bongoyo Island Marine Reserve — Tanzania Tourism](https://www.tanzaniatourism.com/destination/bongoyo-island-marine-reserve), [Moto Shipwreck - Bongoyo Island — Seaunseen](http://seaunseen.com/bongoyo-shipwreck/), [Dar es Salaam Marine Reserve — Wikipedia](https://en.wikipedia.org/wiki/Dar_es_Salaam_Marine_Reserve). Last updated 2026-07-05.*

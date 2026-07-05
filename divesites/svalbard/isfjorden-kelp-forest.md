@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Isfjorden Kelp Forest
 
-Isfjorden Kelp Forest is a reef dive site in Svalbard, Arctic.
+Isfjorden Kelp Forest is a shallow kelp-forest dive site in Svalbard's second-longest fjord.
 
 ## Overview
 
-Isfjorden Kelp Forest is situated in Svalbard's second-longest fjord, where thick stands of Laminaria digitata, sugar kelp, and winged kelp form an underwater canopy in relatively shallow water down to 15 meters. These kelp forests have been expanding in recent decades as sea ice retreats, and they host a rich invertebrate community of mussels, shrimp, crabs, sea urchins, and bivalves that attract foraging seals and walruses. Divers entering the canopy encounter planktonic life including sea angels, pulsing jellies, and amphipods drifting among the kelp blades in water temperatures of 2-5 degrees Celsius.
+Isfjorden is the second-longest fjord in the Svalbard archipelago, on Spitsbergen's west coast, with Alkhornet mountain guarding its northern entrance and the settlements of Barentsburg, Longyearbyen, and Pyramiden around its shores. The fjord has a long whaling history dating to 1612 and was a contested whaling base among European powers through the 1650s.
+
+Detailed kelp-forest research in Svalbard has focused overwhelmingly on neighboring Kongsfjorden rather than Isfjorden specifically, and we could not find a source confirming kelp species, invertebrate community, or planktonic life for this exact site — the previous description's specific species list and "270 taxa"-style detail appears to have been carried over from Kongsfjorden research rather than sourced to Isfjorden itself, so it has been removed. This location shares the region's Arctic marine fauna (kelp forests, cold-water invertebrates, seals), but no site-specific marine-life report was found for Isfjorden.
 
 ## Site Information
 
-- **Location**: Svalbard, Arctic
+- **Location**: Isfjorden, Svalbard, Arctic
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics and fjord geography from Wikipedia — [Isfjord, Svalbard](https://en.wikipedia.org/wiki/Isfjord,_Svalbard). No site-specific marine-life or dive-profile sources found. Last updated 2026-07-05.*

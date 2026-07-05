@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "sumbawa",
-    "svalbard",
-    "tanzania",
-    "thailand",
-    "thailand-similan-islands",
-    "tobago",
     "tonga",
     "triton-bay",
     "turkey",
@@ -174,7 +168,13 @@
     "st-lucia",
     "st-vincent-grenadines",
     "sudan",
-    "sudan-red-sea"
+    "sudan-red-sea",
+    "sumbawa",
+    "svalbard",
+    "tanzania",
+    "thailand",
+    "thailand-similan-islands",
+    "tobago"
   ],
   "history": [
     {
@@ -1805,6 +1805,87 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/106",
+      "errors": []
+    },
+    {
+      "date": "2026-07-05",
+      "slugs": [
+        "sumbawa",
+        "svalbard",
+        "tanzania",
+        "thailand",
+        "thailand-similan-islands",
+        "tobago"
+      ],
+      "notes": "thailand is isGroup=true parent slug with no own data file; its data lives in thailand-similan-islands, which was processed directly. tanzania is isGroup=true but had its own 40-site data file (not just group metadata) — processed directly and found to contain 12 sites that are not Tanzania dive sites at all (see by_destination.tanzania notes).",
+      "summary": {
+        "sites_total": 90,
+        "sites_validated_today": 46,
+        "sites_re_audited": 78,
+        "hallucinations_removed": 47,
+        "marine_life_stripped": 46,
+        "wreck_conflicts_flagged": 5,
+        "sites_unresolved": 32,
+        "by_destination": {
+          "sumbawa": {
+            "sites_total": 14,
+            "sites_validated_today": 8,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 6,
+            "notes": "Satonda Reef/Tanduk Rusa/Bonto Reef/Tikno Reef upgraded to validated=true with corrected depths (Tikno 18->31m, Hot Rocks 20->30m, Lighthouse Reef 25->29m) and difficulty bumps where depth exceeded band thresholds. Blue-ringed octopus/rhinopias claims at Bonto Reef traced to no real source and removed. Data-integrity flag: Tanduk Rusa and Rollercoaster (~7km apart) may be the same Gili Banta promontory under different folk names ('Tanduk Rusa'/'Roller Coaster'/'Tanjung Rasa'/'Highway to Heaven') — recommend a GPS/depth reconciliation pass. Unresolved: Little Angel, Sumbawa Wall, Sumbawa Surprise, Tanjung Batu Putih, Rollercoaster, K2 (all short of the 3-source bar; several prior source citations were found to be misattributed on direct fetch)."
+          },
+          "svalbard": {
+            "sites_total": 9,
+            "sites_validated_today": 5,
+            "sites_re_audited": 9,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "Cold-water Arctic destination, Intermediate-minimum rule already satisfied. Petrozavodsk wreck fully re-validated with launch date and sentencing details added; DWT conflict (1,287 vs 1,372) documented. Removed a false 'cold water preserved wrecks in exceptional condition' claim at Smeerenburg (the 17 sunken Dutch ships have never been definitively located). Alkhornet Cliff seabird-count conflict documented instead of picked. 5 padded generic sources (padi.com, dive-svalbard.com, etc.) confirmed to contain zero site-specific content and dropped everywhere except overview.md. Unresolved: Longyearbyen Pier, Barentsburg Coast, Isfjorden Kelp Forest, Pyramiden Harbor (only geography/history sources exist, no dive-specific sourcing)."
+          },
+          "tanzania": {
+            "sites_total": 40,
+            "sites_kept": 28,
+            "sites_removed_wrong_destination": 12,
+            "sites_validated_today": 6,
+            "sites_re_audited": 28,
+            "hallucinations_removed": 25,
+            "marine_life_stripped": 20,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 22,
+            "notes": "MAJOR DATA-INTEGRITY FINDING: 12 of 40 sites in this destination's file are not Tanzania dive sites at all and were removed from data/osm_clean/tanzania.json and divesites/tanzania/. Baixo Techantia/Magive Cobua/Nameguo/Varuni/Tambula (5 sites) are reefs in Cabo Delgado Province, Mozambique per Wikidata/GNS gazetteer coordinates, ~100km south of the Ruvuma River border. Playground Point/Kampagne Point/Kampagne South (3 sites) are on Lake Malawi in Malawi — confirmed via the raw OSM changeset's own German comment 'Tauchplatze Malawisee Nkhatabay' and Nominatim reverse-geocoding; a freshwater lake ~600km from Tanzania's coast, not even the ocean. Tawasal (1 wreck) is on Manda Island, Lamu County, Kenya per the OSM source object's own description. Captain Muddy/THGI Nungwi/Swahil Divers (3 sites) are dive-operator/tour-business names mistakenly scraped as dive sites, violating CLAUDE.md's no-commercial-business rule. Of the 28 real sites kept: Little Wall/Big Wall corrected from a hallucinated 'Pemba Island' narrative to their actual location (Mnemba Island); Barracuda Point relocated from northern Zanzibar/Nungwi to its real location off southeast Zanzibar (Paje/Jambiani); Stingray city corrected from the impossible 'southern stingray' (an Atlantic species) to the correct Blue Spotted Stingray; Moore Bank/Bedford Bank corrected from a Dar es Salaam framing to their actual Zanzibar Channel/Menai Bay location. The prior blanket 'perplexity' validation source (not a real citable domain) was removed destination-wide."
+          },
+          "thailand": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug, no direct dive-site data file; its only real data lives under thailand-similan-islands, processed as its own queue entry this cycle."
+          },
+          "thailand-similan-islands": {
+            "sites_total": 14,
+            "sites_validated_today": 14,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 7,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "All 14 sites re-validated with 3-5 independent sources each. Boonsung Wreck sinking-cause conflict documented (storm vs. deliberate scuttling) instead of picking one; Koh Bon Pinnacle depth corrected 50m->40m; wrong island/location attributions fixed at Deep Six, West of Six, Turtle Rock, Beacon Reef. overview.md's incorrect 'year-round diving' claim corrected (park is closed mid-May to mid-October). Flagged for maintainer review, not auto-merged: Twin Peaks/The Dome/Koh Tachai Pinnacle appear from multiple independent sources to be the same physical site (two pinnacles + a central dome boulder) listed 3x under different names/coordinates; Anita's Reef/East of Eden/Fantasea Reef are reported closed for coral conservation since 2004 per current sources."
+          },
+          "tobago": {
+            "sites_total": 13,
+            "sites_validated_today": 13,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 10,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "London Bridge's fabricated resident species (nurse sharks, Caribbean reef sharks, eagle rays, sea turtles, parrotfish, angelfish, snapper) removed — the site's own cited source (ERIC Tobago) confirms only lobsters, moray eels, and jack schools. Flying Reef's fabricated 'Columbus Passage near Little Tobago' location removed and replaced with the sourced Crown Point/south-coast description. Fixed a sourcing-integrity defect: Angel Reef/Bookends/Diver's Dream all cited eric-tobago.org, which doesn't actually mention any of the three on direct fetch — replaced with genuine domains. Maverick Wreck's 3-way length conflict (185ft/198ft9in/350ft) documented rather than guessed; scuttling cause (deliberate April 1997 ATDO/TIDCO artificial reef) confirmed by 2 sources. Flagged for maintainer follow-up: Flying Reef and Diver's Dream have stored coordinates in the Speyside cluster, but every current source places both on the south coast near Crown Point — a likely geocoding error, not corrected without a sourced replacement coordinate."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/109",
       "errors": []
     }
   ]

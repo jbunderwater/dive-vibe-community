@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Bonto Reef
 
-Bonto Reef (also referred to as "Bantoh" or "Bontoh" in some sources) is a gentle sloping reef on the west side of Sangeang Island, adjacent to a small fishing village. It is one of the classic macro diving sites in the Sangeang / east Sumbawa region.
+Bonto Reef is a gentle, gradually sloping macro dive site on Sangeang Island, next to the small fishing settlement of Bonto (also spelled "Bontoh" or "Bantoh" in some sources), and one of the classic critter-diving sites in the Sangeang volcanic diving area.
 
 ## Overview
 
-Bonto Reef is the go-to site for nudibranch hunters in the Sangeang area. The site consists of a gentle slope punctuated by coral outcroppings over volcanic substrate. Sharp eyes and a slow pace are essential — the reef is a favourite haunt of mimic octopus, long-arm octopus, frogfish, mantis shrimp, and ghost pipefish. Nudibranchs are abundant: Costasiella sp. ("Shaun the sheep" sea slugs) are often found on green Avrainvillea algae, and the coral ledges host species only millimetres in length. Colourful coral ledges make the site productive for both macro and wider-angle photography. Depths to 25 m; currents are generally light, suitable for beginner to intermediate divers. Night diving is a highlight. Access by liveaboard or day trips from Kalimaya Dive Resort. Best season April to November.
+Bonto Reef consists of a gentle slope punctuated by coral outcroppings over volcanic black substrate. Sharp eyes and a slow pace pay off here: the site is reported as a favourite haunt of mimic octopus and long-arm octopus, along with frogfish, mantis shrimp, and ghost pipefish. Nudibranch hunters are well served too — "Shaun the sheep" sea slugs (Costasiella sp.) are regularly found on green Avrainvillea algae. GPS-tagged diver logs place the site on Sangeang's west side near the Bonto/Bontoh fishing settlement, which locals also use as a night-diving spot; one liveaboard operator's write-up instead describes a "Bonto Reef" on the island's northeast side with a similar mix of macro life, so there is some inconsistency in the record about which side of the island the name refers to. Depths reach around 25 m; currents are generally light, suiting beginner to intermediate divers. Access is by liveaboard or day boat from operators working the east Sumbawa/Sangeang area. Best season is April to November.
 
 ## Site Information
 
-- **Location**: West side of Sangeang Island, east Sumbawa
+- **Location**: Sangeang Island, east Sumbawa (sources place the Bonto/Bontoh site on the west side of the island, near the fishing settlement of the same name; at least one operator source describes it as northeast — see note above)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -31,11 +31,11 @@ Bonto Reef is the go-to site for nudibranch hunters in the Sangeang area. The si
 
 ## Marine Life
 
-Nudibranchs (including Costasiella sp.), mimic octopus, long-arm octopus, frogfish, mantis shrimp, ghost pipefish, colorful reef fish over coral ledges.
+Reported at this site: mimic octopus, long-arm octopus, frogfish, ghost pipefish, mantis shrimp, and nudibranchs, including Costasiella sp. ("Shaun the sheep" sea slugs) on Avrainvillea algae. (Earlier drafts of this page also listed blue-ringed octopus and rhinopias for Bonto Reef; those species could not be traced to a source that specifically places them at this site, so they have been removed pending confirmation. Blue-ringed octopus and rhinopias are reported elsewhere in the Sangeang area.)
 
 ## Photography Tips
 
-Macro photography. Take time on the slope — look into algae patches for Costasiella nudibranchs and check coral ledges carefully for tiny species. Night dives reveal octopus and hunting behaviour.
+Macro photography. Take time on the slope — look into algae patches for Costasiella nudibranchs and check coral ledges for octopus tucked into crevices. Night dives are known to turn up additional octopus activity.
 
 ---
-*Sources: [Sangeang Volcano - Indonesia's Best Kept Diving Secret (Barefoot Cruising)](https://www.barefoot-cruising-indonesia.com/private-yacht-charter/indonesias-best-kept-diving-secret/), [Master Liveaboards - Sangeang Volcano](https://masterliveaboards.com/hot-rocks-sangeang-volcano-diving/), [Asia Dive Site - Sangeang Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/sangeang-island.php). Last updated 2026-05-17.*
+*Sources: [Barefoot Cruising Indonesia — Sangeang Volcano](https://www.barefoot-cruising-indonesia.com/private-yacht-charter/indonesias-best-kept-diving-secret/), [Liveaboard Indonesia — Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [ScubaBoard — Database for Bali-Komodo Dive Sites (GPS)](https://scubaboard.com/community/threads/database-for-bali-komodo-dive-sites-including-gps-info.620725/), [starfish.ch — Diving Komodo/Sangeang](http://starfish.ch/dive/Komodo.html). Last updated 2026-07-05.*

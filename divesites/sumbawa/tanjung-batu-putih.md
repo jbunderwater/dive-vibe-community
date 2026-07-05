@@ -39,4 +39,4 @@ Bicolour angelfish, Lamarck's angelfish, emperor angelfish, batfish, eagle rays,
 Enter on the shallow fringing reef (to ~20 m) then drop over the vertical wall. Main wall action between 20–40 m. Safety stop on the shallow reef plateau.
 
 ---
-*Sources: [Asia Dive Site - Tanjung Batu Putih](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/tanjung-batu-putih.php), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Last updated 2026-05-17.*
+*Sources: [Asia Dive Site - Tanjung Batu Putih](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/tanjung-batu-putih.php), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). A third source (liveaboardindonesia.com's dedicated page) previously cited here returned a 404 as of this QA pass and could not be re-verified; ScubaBoard, DiveChamp, and PADI searches turned up no additional site-specific source (PADI's "Batu Putih" listing is a same-named but different site near Gili Rengit/Lombok). Only 2 independent domains confirmed — not yet meeting the 3-source bar. Last updated 2026-07-05.*

@@ -32,7 +32,7 @@ Located just south of the main Speyside dive area, Bookends takes its name from 
 
 ## Marine Life
 
-When conditions allow diving, Bookends is confirmed by Tropical Sky and Visit Tobago as hosting blacktip sharks, nurse sharks, tarpon, turtles, rays, and large shoals of reef fish against healthy coral. The rock slab structure creates sheltered habitats behind and between the formations. Note: the site's condition-dependent nature means marine life encounters are variable — visits during unfavourable current are unproductive or unsafe.
+When conditions allow diving, Bookends is confirmed by Tropical Sky and Visit Tobago as hosting blacktip sharks, nurse sharks, tarpon, turtles, rays, and large shoals of reef fish against healthy coral. On re-audit, an additional source (discovertnt.com) corroborates the tarpon and shark presence and notes schools of Creole wrasse and blue chromis that draw 3-5 foot tarpon to the area — the site is referred to informally in some sources as the "Tarpon Bowl." The rock slab structure creates sheltered habitats behind and between the formations. Note: the site's condition-dependent nature means marine life encounters are variable — visits during unfavourable current are unproductive or unsafe.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Current can strengthen in the channel between the formations — be aware of dir
 The sandy channel between formations provides clean backgrounds for eagle ray and stingray portraits. Wide-angle shots spanning both reef formations in a single frame are possible from the channel mid-point. The nutrient-rich water benefits from a strobe or video light for true colour reproduction.
 
 ---
-*Sources: [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species). Last updated 2026-05-24.*
+*Sources: [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [Discover Trinidad & Tobago - Diving in Tobago](https://www.discovertnt.com/articles/Tobago/Diving-in-Tobago/88/4/7). Note: eric-tobago.org was previously listed as a source but its dive-sites page does not mention Bookends — removed and replaced with discovertnt.com on re-audit. Last updated 2026-07-05.*

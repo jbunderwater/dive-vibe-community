@@ -13,49 +13,55 @@ addedBy: osm_import
 
 ## Old Shipwreck
 
-Old Shipwreck is an unidentified historic vessel resting in the waters near Dar es Salaam, Tanzania, one of several wrecks in the broader Dar es Salaam harbor area that have become artificial reefs over decades of submersion and are now administered by local dive operators as dive sites.
+Old Shipwreck is a charted wreck in coastal waters near Dar es Salaam, Tanzania. Its identity remains unconfirmed after this research pass, and the source data itself — the OpenStreetMap node this entry is built from — carries only the generic name "old shipwreck" with `historic=wreck` and `seamark:type=wreck` tags and no vessel name, date, or other identifying attribute.
 
 ## Overview
 
-The precise identity and history of the Old Shipwreck are not fully documented in publicly available sources, but local operators describe it as a steel-hulled cargo or trading vessel that has been on the bottom for several decades. The wreck sits with its hull and main structure in the 20-25 meter range, making it accessible to advanced Open Water divers. Coral and sponge encrustation has progressed significantly and the wreck now functions as an established artificial reef. Visibility around the wreck is typically 10-15 meters.
+**Wreck-history cross-check performed for this pass, per project policy requiring 2+ independent sources for any historical claim:**
+
+- The OSM source node (id 13265023321) supplies no vessel identity, only a generic descriptive name and wreck/seamark tags.
+- Several genuinely named, documented Tanzania-area wrecks were checked against this site's location (-6.7596, 39.2683) and depth (25m) and **do not match**:
+  - The **MV Moto**, an oil-recovery vessel sunk near Bongoyo Island's inner reef (Msasani Bay area), lies at only 11-14 meters depth and roughly 6-7 km north of this coordinate — a different, shallower wreck.
+  - **The Great Northern**, a wreck described on ScubaBoard as a cable-laying ship that sank in 1903, and **The Royal Naval Lighter** (~30m) and **The Penguin** (~42m) described by a Zanzibar tour operator, are all associated with the Zanzibar Channel/Zanzibar Island area, not the Dar es Salaam mainland coast where this site's coordinates fall.
+  - No record for a named wreck at this specific location was found on Wikipedia or wrecksite.eu searches.
+- A ScubaBoard diver trip report on Dar es Salaam diving mentions generally that there is "a nice dive on an old wreck close to port," alongside damage to nearby reefs from dynamite fishing — consistent with there being an unnamed wreck near Dar es Salaam's port approaches, but with no name, date, or vessel details given.
+
+**Conclusion: the wreck's identity remains unconfirmed.** This matches the hedged framing already used for this site, and that hedging is itself accurate — no source found in this pass, independent or otherwise, supplies a vessel name, build date, length, tonnage, or sinking cause for this exact wreck. Per project policy, no such details have been invented. Only one general-mention source (ScubaBoard) and the OSM tag data itself were found; this does not meet the bar of 2+ independent sources with real per-vessel history, so no historical claims beyond "an unidentified wreck exists in this vicinity" can be made.
 
 ## Site Information
 
-- **Location**: Dar es Salaam Marine Reserve area, Tanzania
+- **Location**: Coastal waters near Dar es Salaam, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Moderate
-- **Best Time**: October to February (clearest water)
+- **Current**: Not independently confirmed for this specific site
+- **Best Time**: Not independently confirmed for this specific site
 
 ## Marine Life
 
-The wreck structure provides shelter for a dense community of wreck-associated species. Schools of batfish circle the exterior, and large groupers inhabit the deeper sections of the hull. Lionfish are present at multiple locations on the wreck and should be given wide berth. Thick encrusting growth of orange and white cup corals covers much of the metal structure, with sea fans growing from the highest points. Glass catfish and cardinalfish shelter in dark interior spaces visible from the exterior.
+No species have been confirmed at this specific wreck by any source found in this research pass. Earlier drafts of this page listed specific species (batfish schools, glass catfish, cardinalfish, particular coral cover) as if confirmed — none of this could be corroborated, and it has been removed rather than repeated. Dar es Salaam-area wrecks in general host reef-associated fish and encrusting growth, but attributing specific species to this exact, unidentified wreck without confirmation would be speculative.
 
 ## Dive Profile
 
-Descend the anchor chain or mooring line to the top of the wreck at approximately 18-20 meters. Circumnavigate the exterior first to understand the layout before approaching any accessible interior spaces. The maximum depth of 25 meters is at the seabed beside the hull — limit time at this depth. Allow sufficient air for a safety stop at 5 meters before ascending.
+Not independently documented for this specific wreck. General wreck-diving practice — descend to the structure, survey the exterior before considering any interior access, and manage NDL carefully at 25m — applies as standard guidance, not a confirmed site-specific profile.
 
 ## Entry and Exit
 
-Boat access from Dar es Salaam operators who maintain moorings on the wreck. Giant stride from the dive vessel. The wreck can experience tidal current — confirm current direction with the guide before entry so you plan the swim around the hull accordingly.
+Boat access from a Dar es Salaam-based operator. Specific mooring, current conditions, and access logistics for this exact wreck were not found in available sources.
 
 ## Tips and Recommendations
 
-- A dive torch is essential — the interior spaces and hull crevices shelter species that cannot be seen without illumination
-- Do not penetrate interior spaces without proper wreck diving training and equipment
-- Silt inside wreck spaces can be disturbed easily — maintain distance from the interior floor to preserve visibility
-- Ask local operators for the wreck's known history and any identifying details they have researched
+- Ask your Dar es Salaam operator directly what they know about this wreck's identity and history — local operators may hold knowledge not published online
+- Do not assume species, condition, or layout details before diving — verify with your guide on the day
 
 ## Safety Considerations
 
-Wreck dives carry additional hazards of potential entanglement and disorientation. Stay external unless properly trained for penetration diving. The 25-meter maximum depth requires careful NDL monitoring. Monitor air consumption closely — wrecks encourage "exploration mode" where divers forget to check their gauges. Never enter overhead environments without appropriate certifications.
+This is an unidentified wreck; do not assume any part of it is stable or safe to enter. **Do not penetrate interior spaces without proper wreck-diving training and equipment** — this applies generally and is not a claim that penetration here is otherwise safe. The 25-meter depth requires standard NDL discipline. No source-confirmed, wreck-specific hazards (entanglement points, structural instability, etc.) were found in this pass; treat the wreck cautiously as unsurveyed pending direct operator briefing.
 
 ## Photography
 
-The wreck provides dramatic wide-angle subjects — shooting along the hull with fish and encrusting growth in the frame creates compelling images. Natural light enters through exposed openings, creating cathedral-like light beams on clear days. Macro photography of the encrusting cup corals, nudibranchs, and crevice-dwelling crustaceans is excellent throughout the structure.
+No site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [ScubaBoard – Dar es Salaam diving trip report](https://scubaboard.com/community/threads/tanzania-zanzibar-diving.566696/), OpenStreetMap node 13265023321 (source tag data, not a secondary confirming source). Vessel identity and history remain unconfirmed after checking Wikipedia, wrecksite.eu, and known named Tanzania-area wrecks (MV Moto, The Great Northern, Royal Naval Lighter, The Penguin) — none match this location. Last updated 2026-07-05.*

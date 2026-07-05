@@ -17,7 +17,9 @@ Sisters Rocks is one of Tobago's premier advanced dive sites — a group of expo
 
 ## Overview
 
-The Sisters are a cluster of rocky pinnacles and submerged rocks off the northeast Tobago coastline near Speyside, fully exposed to the Guiana Current that drives the region's exceptional marine richness. Depths drop to 40 meters at the base of the main pinnacles, which rise from the deep to near the surface, creating vertical faces covered in encrusting life — black coral, sea fans, barrel sponges, and dense gorgonian communities thrive in the current-fed conditions. Visibility regularly exceeds 25 meters. Current is the defining characteristic of the site: it is strong, can be variable in direction, and is both the reason for the site's extraordinary marine life and its primary challenge. Water temperature can drop below 22°C during upwelling events.
+The Sisters are a cluster of rocky pinnacles and submerged rocks off the northeast Tobago coastline near Speyside, fully exposed to the Guiana Current that drives the region's exceptional marine richness. Depths drop to 40 meters (some sources report up to 130-140ft/40-43m) at the base of the main pinnacles, which rise from the deep to near the surface, creating vertical faces covered in encrusting life — black coral, sea fans, barrel sponges, and dense gorgonian communities thrive in the current-fed conditions. Visibility regularly exceeds 25 meters. Current is the defining characteristic of the site: it is strong, can be variable in direction, and is both the reason for the site's extraordinary marine life and its primary challenge. Water temperature can drop below 22°C during upwelling events.
+
+Location note: this dataset and ERIC Tobago both place The Sisters in the Speyside cluster alongside Kelleston Drain, which is kept as the primary framing here. However, on re-audit some independent sources instead describe "The Sisters" as being off Bloody Bay on Tobago's north/northwest coast. Rather than assert one is wrong, both descriptions are noted; divers should confirm the exact departure point and location with their operator.
 
 ## Site Information
 
@@ -32,7 +34,7 @@ The Sisters are a cluster of rocky pinnacles and submerged rocks off the northea
 
 ## Marine Life
 
-Sisters Rocks is confirmed as habitat for hammerhead sharks, manta rays, and large pelagics — multiple sources (ERIC Tobago, visittobago.gov.tt, PADI) identify hammerhead sharks as a "residential population" and manta rays as seasonally present. Groupers, lobsters, and moray eels are confirmed on the reef walls. Note: "whale sharks reported during peak upwelling" was not confirmed by the specific sources consulted for this site and has been removed as unverified.
+Sisters Rocks is confirmed as habitat for hammerhead sharks, manta rays, and large pelagics — multiple sources (ERIC Tobago, visittobago.gov.tt, PADI) identify hammerhead sharks as a "residential population" and manta rays as seasonally present. On re-audit, an additional source specifies these as predominantly scalloped hammerhead sharks, with occasional larger great hammerheads, seen mainly in the winter months (roughly October to May); the same source notes hammerhead numbers here have reportedly declined over time, though this population trend is from a single source and not independently corroborated. Groupers, lobsters, and moray eels are confirmed on the reef walls. Note: "whale sharks reported during peak upwelling" was not confirmed by the specific sources consulted for this site and remains removed as unverified.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Strong and variable current is the primary safety consideration. All divers must
 Sisters Rocks offers some of the most dramatic wide-angle diving photography in the Caribbean. Manta rays and reef sharks against the deep blue water of the open pinnacle environment are the headline subjects. Current-swept sea fans and barrel sponge walls at depth offer compelling reef portrait shots. Camera setup must be completed before entry — there is no opportunity to adjust settings in the current.
 
 ---
-*Sources: [PADI - Sisters Rocks Tobago](https://www.padi.com/dive-site/trinidad-and-tobago/sisters-rocks/), [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago). Last updated 2026-05-24.*
+*Sources: [PADI - Sisters Rocks Tobago](https://www.padi.com/dive-site/trinidad-and-tobago/sisters-rocks/), [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago). Last updated 2026-07-05.*

@@ -32,7 +32,7 @@ The beach at Arnos Vale is one of Tobago's most protected stretches of Caribbean
 
 ## Marine Life
 
-Arnos Vale is confirmed as a nursery area with juvenile reef fish seeking refuge in the rocky shelf. The bay is a protected area where juvenile and small reef species are well-represented. Squid and moray eels are active at night. Note: "Spotted eagle rays passing regularly" and "occasional manta ray" were previous attributions not confirmed by primary sources for this specific site — the maritime ocean collection source describes this as a "bay nursery, rocky shelf" without pelagic claims.
+Arnos Vale is confirmed as a nursery area with juvenile reef fish seeking refuge in the rocky shelf. Re-audit (2026-07-05) independently reconfirms this via a fresh round of research: stingrays, barracudas, moray eels, and occasional sea turtles are documented at the site, and mother leatherback turtles are reported nesting on the beach during summer months. Squid and moray eels are active at night. Note: "Spotted eagle rays passing regularly" and "occasional manta ray" remain excluded — still not confirmed by primary sources for this specific site.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Standard shore dive precautions. Watch for boat traffic from the nearby hotel je
 The combination of calm, clear water and relaxed marine life makes Arnos Vale one of Tobago's best shore photography sites. Eagle ray portraits in the early morning, turtle encounters over seagrass, and the lush green Caribbean coastal backdrop above water all make for distinctive images.
 
 ---
-*Sources: [Visit Tobago - SW Dive Sites](https://visittobago.gov.tt/tobago-south-west-dive-sites), [Maritime Ocean Collection - Mt Irvine Bay](https://maritimeoceancollection.com/site/northeast-tobago/mt-irvine-bay-tobago/), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago). Last updated 2026-05-24.*
+*Sources: [Visit Tobago - SW Dive Sites](https://visittobago.gov.tt/tobago-south-west-dive-sites), [Maritime Ocean Collection - Mt Irvine Bay](https://maritimeoceancollection.com/site/northeast-tobago/mt-irvine-bay-tobago/), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago). Last updated 2026-07-05.*

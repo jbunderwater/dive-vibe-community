@@ -13,50 +13,34 @@ addedBy: osm_import
 
 ## Fungu Yasini Reef
 
-Fungu Yasini Reef is a shallow coral reef formation near the Dar es Salaam coastline, part of the northern Dar es Salaam Marine Reserve System and one of the more accessible sites for day diving from Tanzania's capital city.
+Fungu Yasini is a coral and sand-bank reef north of Dar es Salaam, Tanzania, and one of the four named islands (with Bongoyo, Mbudya, and Pangavini) that make up the northern Dar es Salaam Marine Reserve System.
 
 ## Overview
 
-"Fungu" means "reef" or "shoal" in Swahili, and Fungu Yasini is a classic fringing reef structure with a flat-topped reef rising to 3-4 meters at the shallowest and a gentle outer slope to 15 meters. The site benefits from its proximity to the open ocean as the northern Dar es Salaam reefs sit outside the heavily silted inner harbor area. Visibility ranges from 8-15 meters depending on season and conditions, with the northeast monsoon period (October-February) typically bringing the clearest water.
+"Fungu" means "reef" or "shoal" in Swahili. Fungu Yasini Island itself is a vegetation-free sandbank visible only at low tide, covering roughly 22.9 km² including its surrounding reef flat, protected since 1975 as an IUCN Category II marine reserve within the Dar es Salaam Marine Reserve System. Coral cover — over 35% of the reef area — concentrates in two zones: shallow water on the southwest side (under 10 meters) and a deeper reef area further out. West of the island the seabed drops to a sandy bottom around 40 meters, a spot noted by local sources as good for freediving; that deeper zone is distinct from the shallower reef-diving area this record describes. Coordinates for the island itself (6°35'39"S, 39°13'26"E) sit a few kilometers from this record's coordinates, consistent with the record describing a specific reef patch within the broader reserve rather than the island proper.
 
 ## Site Information
 
-- **Location**: Northern Dar es Salaam Marine Reserve, Tanzania
+- **Location**: Fungu Yasini Island Marine Reserve, Dar es Salaam Marine Reserve System, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 8-15 meters (26-50 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to February (clearest conditions)
+- **Typical Visibility**: Not independently confirmed with a specific figure — sources describe generally clear water but do not give a numeric visibility range for this exact spot
+- **Current**: Not independently confirmed
+- **Best Time**: Not independently confirmed for this specific site
 
 ## Marine Life
 
-Fungu Yasini hosts a representative East African shallow reef community. Parrotfish in multiple color phases are visible throughout the dive, their crunching of coral audible underwater. Clusters of sergeant major damselfish defend patches of algae on the reef, while the sandy edges host flatfish and small stingrays. Sea turtles are present year-round, feeding on the reef algae and sponges. Cleaning stations with neon goby and cleaner shrimp are scattered across the reef top.
-
-## Dive Profile
-
-An ideal site for Open Water certified divers or those on a refresher course. Navigate across the shallow reef top at 3-8 meters before descending the outer slope to 12-15 meters. The gentle gradient allows unhurried exploration at each depth level. A 50-minute dive is easily achievable within standard air consumption.
+Sources describing the reef flat and intertidal zone specifically at Fungu Yasini document sea cucumbers, octopuses, sea urchins, giant clams, rock crabs, tiger cowries, starfish, cushion stars, and nudibranchs, along with seagrass beds of *Thalassia hemprichii* and *Thalassodendron ciliatum*. A dive operator description of the general Mbudya/Fungu Yasini reef area separately notes coral-associated reef fish (wrasses, butterfly fish, damselfish) as visible in the wider reserve, though not confirmed specifically for this reef patch. Claims found on one low-quality tourism site (whale sharks, manta rays, 30m+ visibility) were not corroborated anywhere else and are not consistent with the known geographic range of Tanzania's whale shark aggregations (which center on the Mafia Channel, well south of Dar es Salaam) — those claims are excluded rather than repeated here.
 
 ## Entry and Exit
 
-Boat access from Dar es Salaam, typically via operators based at the Slipway or Msasani area. Day trip boats cover multiple reef sites in the northern reserve, often combining Fungu Yasini with Bongoyo or Mbudya Island reefs. Giant stride entry from a dive dhow.
-
-## Tips and Recommendations
-
-- Excellent choice for first post-certification dives or shakedown dives at the start of a trip
-- The sandy patches between coral heads are worth scanning slowly for camouflaged flatfish and scorpionfish
-- Snorkeling is also productive here for those with surface companions who don't dive
-- Bring a macro lens attachment — the shallow reef top provides excellent natural light for small critter photography
-- Avoid diving after heavy rains onshore as sediment runoff from Dar es Salaam significantly reduces visibility
+Boat access from Dar es Salaam, consistent with operators based at Msasani/Slipway serving the northern reserve islands (Bongoyo, Mbudya, Pangavini, Fungu Yasini) as a group. Specific entry/exit procedure for this exact reef patch was not documented in any source found.
 
 ## Safety Considerations
 
-One of the lower-risk dive sites in the Dar es Salaam area. Light currents, shallow maximum depth, and calm conditions make this suitable for recently certified divers. The main hazards are fire coral contact and sea urchin spines — appropriate buoyancy control prevents both. Deploy an SMB for ascent due to periodic boat traffic.
-
-## Photography
-
-The shallow depth and typically good surface light make Fungu Yasini excellent for natural-light photography without strobes. Wide-angle coral reef scenes in 5-10 meters are the primary subject, with parrotfish and turtles providing the main large subjects. Macro photographers will find nudibranchs and small crustaceans in the rubble zones adjacent to the main reef.
+No site-specific safety information was found. General caution appropriate to shallow coral reef diving (buoyancy control, sea urchin avoidance) applies, but this is carried over as general good practice rather than a researched finding.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Fungu Yasini Island — Wikipedia](https://en.wikipedia.org/wiki/Fungu_Yasini_Island), [Dive Sites of Mainland Tanzania — Seaunseen](https://seaunseen.com/diving-in-tanzania/), [Fungu Yasini Island Marine Reserve — ProtectedSeas Navigator](https://map.navigatormap.org/site-detail?site_id=25660). Last updated 2026-07-05.*

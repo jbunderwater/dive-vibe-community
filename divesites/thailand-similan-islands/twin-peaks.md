@@ -13,50 +13,50 @@ addedBy: osm_import
 
 ## Twin Peaks
 
-Twin Peaks consists of two adjacent submerged pinnacles in the northern reaches of the Similan Islands area, Phang Nga Province, Thailand — a site included on longer liveaboard itineraries that extend north of the main Similan group toward the Surin and Richelieu Rock zone.
+Twin Peaks is the name used by some operators for the two-pinnacle formation at the Koh Tachai Pinnacle dive site, roughly 500 meters south of Koh Tachai island, Similan Islands National Park, Phang Nga Province, Thailand. Sources explicitly describe this name as interchangeable with "Koh Tachai Pinnacle" — one source refers to it directly as "Twin Peaks (Tachai Pinnacle)."
+
+**Data-quality note:** This destination's dataset lists "Twin Peaks," "The Dome," and "Koh Tachai Pinnacle" as three separate entries with distinct GPS coordinates a few hundred meters apart. Multiple independent operator sources indicate these are alternate names for the same physical site complex (two pinnacles plus a central dome-shaped boulder), not three distinct locations. This has been flagged for maintainer review rather than resolved by deleting entries in this pass. See the fuller write-up and full source list under Koh Tachai Pinnacle.
 
 ## Overview
 
-The two pinnacles rise from the seabed at around 35 meters and ascend to near-surface levels, providing a classic pinnacle dive experience in miniature compared to the massive formations at Koh Bon and Koh Tachai. Current flows across both structures, bringing nutrient-rich water and concentrating pelagic life around the pinnacle tops. The surfaces are colonised by soft corals, sea fans, and encrusting organisms that benefit from the current-delivered food supply. The site is advanced-rated primarily because of the current exposure and the open-water ascent that may be required if divers are swept off the pinnacles.
+The formation's defining feature, per hobo-ya-similan.com, is "a main dome-shaped rock that looks like an upside down bowl" surrounded by a ring of rocky reef, with two adjacent pinnacle tops giving rise to the "Twin Peaks" name. Reported depths: maximum around 35 meters, average around 15 meters, with the site known for the strongest current of the northern liveaboard sites. Whale sharks, manta rays, giant and bluefin trevally, and great barracuda are reported here, including dramatic predation events where trevally attack baitfish schools.
 
 ## Site Information
 
-- **Location**: Northern Similan Islands area, Phang Nga Province, Thailand
+- **Location**: ~500m south of Koh Tachai island (same complex as The Dome / Koh Tachai Pinnacle), Phang Nga Province, Thailand
 - **Entry Type**: liveaboard
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15–35 meters
-- **Current**: Moderate to strong; tidal-dependent
+- **Typical Visibility**: 15–40 meters
+- **Current**: Strong — reported as the strongest current among the sites visited on typical northern liveaboard routes
 - **Best Time**: November to May
 
 ## Marine Life
 
-Schooling fish are the primary feature, with bigeye trevally and barracuda forming aggregations in the current above and between the pinnacle tops. Whitetip reef sharks rest on the sandy saddle between the two pinnacles and in crevices lower down. Sea fans and gorgonians on the current-facing sides host crinoids and various commensal invertebrates. Hawksbill turtles pass through during most dives. Napoleon wrasse patrol the mid-depth zone. If timing coincides with plankton-rich conditions, reef manta rays occasionally visit both pinnacles to feed, riding the current with their mouths open in the water column above the formation.
+See the fuller, consolidated marine-life account under Koh Tachai Pinnacle. Directly corroborated for this formation: whale sharks, manta rays, giant trevally, bluefin trevally, great barracuda, and dense fusilier schools, including visible predation events (hobo-ya-similan.com). Species previously listed here without site-specific corroboration (hawksbill turtles, Napoleon wrasse, pygmy seahorses on sea fans) have been removed rather than carried forward unverified.
 
 ## Dive Profile
 
-Descend to the saddle between the two pinnacles (typically 18–25 m) and orient with your guide. One pinnacle is commonly explored in the first half of the dive, the other in the second. The tops of both formations are shallow enough for a prolonged safety stop time. When current is running strongly, divers hook in with reef hooks on rubble patches or simply maintain position by finning — drifting off the pinnacle means a blue-water safety stop and zodiac pick-up. Plan air to allow 100 bar at the start of the ascent.
+Divers typically descend to the saddle between the pinnacles, orienting with the guide before working one formation and then the other. Strong current means reef hooks are commonly used to hold position and observe feeding activity without fighting the flow.
 
 ## Entry and Exit
 
-Exclusively liveaboard; the site is too remote for day-trip boats. Zodiac entry with descent on a permanent or temporary mooring line if current is running at entry time. Surface pick-up by zodiac on SMB.
+Exclusively liveaboard; zodiac entry with descent on a mooring line if current is running at entry time.
 
 ## Tips and Recommendations
 
-- Reef hooks are recommended — secure to rubble or dead coral at the base of the current-facing slope and watch the fish aggregations without fighting current
-- Observe the saddle between the pinnacles for resting whitetip sharks; the sand here is a reliable resting area during daylight hours
-- Check the gorgonian fans with a torch for pygmy seahorses — they are found on sea fans at sites like this throughout the Andaman, though sightings are not guaranteed
-- If mantas appear, switch to passive mode: hold position neutrally buoyant and let them approach rather than pursuing
-- This site pairs well with Koh Bon Pinnacle on the same liveaboard day given the northern routing
+- This is reported as the strongest-current site on typical northern liveaboard routes — confirm your comfort level with your guide before entering
+- Reef hooks, secured to bare rubble, are commonly used here to observe fish activity without fighting current
+- Predation events (trevally attacking baitfish schools) are a highlight reported by at least one source — watch the open water around the pinnacles, not just the structure itself
 
 ## Safety Considerations
 
-Open-ocean pinnacle diving demands that every diver is comfortable deploying an SMB in current and conducting a blue-water ascent. Briefings from liveaboard guides will cover the current direction, the zodiac pick-up procedure, and the abort threshold. Minimum Advanced certification is required; previous pinnacle diving experience is strongly recommended. Do not enter if conditions are rough and the guide team advises against.
+Given the reported strength of current here, every diver should be comfortable deploying an SMB and conducting a blue-water ascent if swept off the formation. Advanced certification with prior current-diving experience is recommended.
 
 ## Photography
 
-Wide-angle captures the pinnacle architecture and the aggregating fish schools — position between or just below the pinnacle tops to shoot upward toward silvered fish silhouettes. Soft coral and gorgonian macro are available if current pauses enough for stable shooting; a focus light helps define small commensal shrimp on fan branches. Manta ray encounters here, while uncommon, are close-range open-water events that reward a quick-setting underwater camera.
+Wide-angle setups suit the pinnacle architecture and schooling fish; fast shutter speeds help freeze the trevally predation events when they occur.
 
 ---
-*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*
+*Sources: [Hobo-ya Similan](https://hobo-ya-similan.com/en/similan/divesite/twinpeaks.html), [Sunrise Divers](https://www.sunrise-divers.com/dive-sites/koh-tachai-pinnacle/), [Khao Lak Scuba Adventures](https://www.khaolakscubaadventures.com/divesite/koh-tachai-the-dome), [Divezone](https://divezone.net/divesite/ko-tachai). Last updated 2026-07-05.*

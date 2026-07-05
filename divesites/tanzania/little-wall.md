@@ -13,49 +13,45 @@ addedBy: osm_import
 
 ## Little Wall
 
-Little Wall is a more accessible wall dive on Pemba Island's eastern coast, serving as an excellent introduction to Pemba's dramatic underwater topography for divers progressing toward the more demanding deeper walls in the area.
+This entry's location does not match its own description. The recorded coordinates (-5.8388, 39.3919) sit within a few kilometers of Mnemba Island off northeast Zanzibar — not Pemba Island, which lies roughly 50 km further north. No source found in this research uses the name "Little Wall," so the site's identity remains unconfirmed.
 
 ## Overview
 
-Pemba Island's eastern coast is characterized by near-vertical submarine walls plunging into the Pemba Channel, and Little Wall offers the same experience as the larger wall sites but with a shallower profile that suits intermediate divers. The wall begins at the reef top around 6-8 meters and drops to a sand ledge at approximately 20 meters where the wall angle eases. Compared to its neighbor Big Wall, the shallower maximum depth allows longer bottom times and more relaxed exploration of the wall's encrusted surfaces. Visibility regularly reaches 20-25 meters in favorable conditions.
+Multiple Zanzibar dive operators describe a wall site called "Small Wall" in almost exactly this location — southeast of Mnemba Island, starting near the surface (2-5 meters, sources vary) and sloping down to roughly 30 meters, popular as a drift dive suited to a wide range of experience levels. It is plausible that "Little Wall" is a variant or mistranslation of "Small Wall," but no source used both names for the same site, so this cannot be confirmed. The previous version of this page placed the site on Pemba Island and described a 20-meter wall profile; that framing is not supported by anything found in this research and is treated as unverified.
 
 ## Site Information
 
-- **Location**: East Pemba Island, Zanzibar Archipelago, Tanzania
+- **Location**: Coordinates fall within the Mnemba Island dive area, northeast Zanzibar — not Pemba Island as previously listed. The site's identity under the name "Little Wall" is unconfirmed.
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-25 meters (65-80 feet)
-- **Current**: Moderate, variable with tide
-- **Best Time**: October to March (northeast monsoon)
+- **Current**: Reported as moderate to strong at nearby wall sites in this area
 
 ## Marine Life
 
-The wall face is encrusted with orange and yellow sponges, sea fans, and black coral bushes at depth. Nudibranchs and flatworms are found on virtually every section of the wall surface — Pemba's wall nudibranchs include several spectacular species not commonly seen elsewhere in East Africa. Groupers and soldierfish inhabit the overhangs. Eagle rays and reef sharks are frequently seen in the blue water adjacent to the wall. Soft coral outcrops at 15-20 meters attract pygmy seahorses on gorgonian fans.
+No source confirms marine life for a site specifically named "Little Wall." Regional wall sites near Mnemba Island are reported to host reef fish schools, nudibranchs, moray eels, and occasional turtles or reef sharks, but these cannot be attributed to this specific entry without confirming its identity. No species are named here for that reason.
 
 ## Dive Profile
 
-Begin at the reef top and descend the wall face, following natural crevices and ledges down to 18-20 meters. Methodically work along the wall, checking each overhang for resident species before continuing. Ascend to 10 meters to cross the upper wall zone on the way back to the mooring, finishing with a safety stop on the reef crest in 5-6 meters.
+Unconfirmed. If this site follows the pattern of nearby Mnemba-area wall dives, it would involve a drift along a sloping wall face, but no site-specific profile was found in this research.
 
 ## Entry and Exit
 
-Access from Pemba Island dive operators based in Chake Chake or Wete, or from liveaboards. The wall can experience tidal current; check timing with the guide before entry. Giant stride from the dive vessel and deploy SMB during ascent.
+Unconfirmed. The previous version of this page described access from Pemba Island operators in Chake Chake or Wete; given the coordinate mismatch described above, that access description is very likely incorrect and has been removed rather than repeated.
 
 ## Tips and Recommendations
 
-- Little Wall is the ideal site to develop wall diving technique before attempting the deeper Big Wall
-- A dive torch is essential — the overhangs and crevices contain a disproportionate amount of the marine life
-- Ask your guide to locate pygmy seahorse positions on gorgonian fans; they require patient searching on specific fan species
-- Pemba has very limited tourist infrastructure — arrange accommodation and diving several weeks in advance
+- Treat this entry's location and identity as unresolved until confirmed against a source that specifically uses the name "Little Wall"
+- If diving in this area, confirm with local operators (Zanzibar's northeast coast / Mnemba-area dive centers, not Pemba) which named site corresponds to these coordinates
 
 ## Safety Considerations
 
-Even though Little Wall is shallower than the adjacent Big Wall, the wall topography can induce passive descent — monitor depth continuously. Current can run parallel to the wall face and may pick up unexpectedly with tidal changes. Carry a reef hook for holding position during high-current periods. Always ascend with an SMB deployed.
+General wall-diving hazards apply if this site matches the profile of nearby walls: passive depth drift along the wall face, and current that can run parallel to the wall. Confirm actual conditions with a local operator rather than relying on this description.
 
 ## Photography
 
-The 20-meter depth limit keeps the dive within a manageable photography range. Nudibranch macro shots on the encrusted wall surface are the primary close-up subjects. Wide-angle photographers should position below a large gorgonian fan with the open blue water beyond for classic Pemba wall compositions.
+Not assessed — no site-specific information was found.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found under the name "Little Wall." Coordinate evidence suggests this entry may be near Mnemba Island's "Small Wall," but this identification is unconfirmed. Last updated 2026-07-05.*

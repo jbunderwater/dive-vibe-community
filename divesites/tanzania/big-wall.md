@@ -3,7 +3,7 @@ name: Big Wall
 lat: -5.8015048
 lng: 39.4182592
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
@@ -13,50 +13,47 @@ addedBy: osm_import
 
 ## Big Wall
 
-Big Wall is one of Pemba Island's signature wall dives, located off the eastern coast of Pemba Island in the Zanzibar Archipelago. It is part of the same dramatic submarine topography that makes Pemba one of East Africa's most respected advanced dive destinations.
+Big Wall is a real, well-documented advanced dive site located east of Mnemba Island, off Zanzibar's northeast coast — not Pemba Island as the previous version of this page stated. Pemba is a separate island roughly 50 km further north with its own distinct dive sites; this entry's coordinates fall squarely within the Mnemba Atoll dive area.
 
 ## Overview
 
-Pemba Island's eastern coast drops away sharply into the Pemba Channel, forming near-vertical walls encrusted with gorgonian sea fans, orange elephant ear sponges, and cascading soft corals. Big Wall begins with a reef top at 5-8 meters before dropping steeply, with the most productive dive zone between 10 and 20 meters. Below 20 meters the wall continues into the deep, making buoyancy control critical to avoid unintended deep dives. Visibility is typically excellent — 20-30 meters is common in the northeast monsoon season.
+Big Wall is a vertical wall in open water east of Mnemba Island. Sources consistently describe it as reserved for advanced, deep-certified divers due to strong currents and considerable depth, but they do not agree on the maximum depth: reports range from "18 to 35+ meters," to a drop reaching roughly 50 meters, to one source stating depths approaching 60 meters. Rather than pick one figure, this should be read as a wall that continues well beyond recreational depth limits. Unlike some neighboring reef sites, Big Wall has relatively little coral cover — sources describe overhangs and small caves rather than dense coral growth, with a strong current supporting a serious drift dive.
 
 ## Site Information
 
-- **Location**: East Pemba Island, Zanzibar Archipelago, Tanzania
+- **Location**: East of Mnemba Island, off Zanzibar's northeast coast (correcting the previous "Pemba Island" listing, which coordinate evidence does not support)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Moderate to strong, variable with tide
-- **Best Time**: October to March (northeast monsoon, best visibility)
+- **Maximum Depth**: 35 meters
+- **Visibility**: One source reports up to ~30 meters
+- **Current**: Strong, described consistently as requiring drift-diving technique
 
 ## Marine Life
 
-The wall structure supports an impressive vertical ecosystem. Large gorgonian sea fans at 15-20 meters host pygmy seahorses and longnose hawkfish. Orange sea fans and basket sponges create colorful backdrops. Pelagic visitors including eagle rays, barracuda, and grey reef sharks patrol the wall's outer face. Sea turtles use the reef top for resting, and octopus are frequently spotted in crevices at night. Moray eels, lionfish, and large groupers occupy the permanent overhangs.
+Multiple independent sources describing this specific site report: Napoleon wrasse, tuna, rainbow runners, grouper, lobster, barracuda, bigeye, moray eels, octopus, and mantis shrimp, with occasional white-tip reef sharks and rays. Coral cover is reported as sparse compared to nearby reef sites.
 
 ## Dive Profile
 
-Descend directly to the wall from the boat and begin your dive at 18-20 meters at the base of the productive zone. Work horizontally along the wall face, exploring overhangs and crevices, while gradually ascending. Spend the majority of your bottom time between 10-20 meters and finish with a long shallow traverse of the reef top at 5-8 meters before your safety stop.
+Divers typically descend directly onto the wall face and work along the vertical structure, exploring overhangs and small caves rather than extensive coral gardens, drifting with the current. Because the wall does not bottom out at a recreational depth, continuous depth and gas monitoring is essential rather than optional.
 
 ## Entry and Exit
 
-Boats depart from Chake Chake or Wete on Pemba Island, or from liveaboards operating in Pemba Channel. Giant stride entry from the dive dhow or zodiac. Current can run strongly parallel to the wall — confirm with the guide whether to drift or hold station using a reef hook.
+Access is by boat from dive operators on Zanzibar's northeast coast (the Mnemba/Matemwe area), not from Pemba Island as the previous version of this page described — that access route does not match this site's actual location. Confirm current direction and strength with the boat crew before entry.
 
 ## Tips and Recommendations
 
-- Pemba Island has very limited tourism infrastructure — plan accommodation and dive operators in advance
-- A reef hook allows you to station at the wall and observe pelagic activity without fighting the current
-- Pemba is known for hammerhead sightings during certain conditions — ask local operators for current reports
-- Liveaboard access from Zanzibar Stone Town gives the best logistical flexibility for Pemba dive trips
-- Advanced divers should note that the wall drops well beyond sport diving limits — strict depth monitoring is essential
+- Every source consulted treats this as an advanced, deep-certified-diver site only — it is not a beginner or intermediate wall
+- Agree on a maximum depth and turnaround point with your guide before descending, since the wall has no confirmed diveable floor
+- Strong, sometimes unpredictable current is the norm; carry an SMB
 
 ## Safety Considerations
 
-Wall dives carry an inherent risk of uncontrolled descent. Establish a clear maximum depth with your guide and dive computer, and do not chase marine life below the agreed limit. Strong lateral currents can push you away from the wall unexpectedly. Carry a reef hook and an SMB. The remote location of Pemba Island means access to a recompression chamber (Zanzibar or Dar es Salaam) is several hours away.
+The combination of open water, a wall with no confirmed bottom, and strong current makes uncontrolled descent and separation from the group the primary risks. Set a hard depth limit with your dive computer and guide, and do not chase marine life below it. Carry an SMB and maintain close buddy contact.
 
 ## Photography
 
-Big Wall is outstanding for wide-angle photography — the combination of colorful soft corals, large gorgonian fans, and blue-water pelagic visitors creates compositions rarely found elsewhere in East Africa. Bring the widest lens available, and use a single strobe or no strobes at all for blue-water silhouette shots of rays and sharks.
+Because coral cover is sparse, the site favors pelagic and open-water subjects — Napoleon wrasse, tuna, and reef sharks in blue water — over the reef-scene wide-angle shots typical of Mnemba's shallower sites.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Fun Divers Zanzibar – Diving Mnemba Island](https://fundiverszanzibar.com/diving-mnemba-island/), [Diving in Zanzibar – Mnemba Atoll](https://www.divinginzanzibar.com/diving-mnemba-atoll/), [Angelfish Travel – Zanzibar Diving, Mnemba Island](https://www.angelfish.travel/zanzibar/diving/mnemba-island), [Pongwe Beach Hotel – Zanzibar Scuba Diving Guide](https://pongwe.com/zanzibar-scuba-diving-guide/). Last updated 2026-07-05.*

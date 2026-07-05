@@ -17,7 +17,9 @@ Sumbawa Wall is a wall dive site along the north coast of Sumbawa island in the 
 
 ## Overview
 
-Sumbawa Wall is one of the deep wall dives on the northern coast of Sumbawa. Liveaboard operators describe the Sumbawa region's wall dives as featuring crystal-clear waters and a peaceful safety stop on a shallow plateau of healthy corals. The drop-off descends to 40 m and beyond. This stretch of Sumbawa's north coast sits within the broader corridor of Coral Triangle reefs that benefit from nutrient upwelling, supporting diverse reef communities. The site is accessible by intermediate divers and is typically dived from liveaboards or day boats from Moyo Island or the Sumbawa coast. Best conditions April to November.
+Sumbawa Wall is a real, named dive site confirmed by Maleo Moyo Scuba Divers (a Moyo Island-based dive resort): it is one of the optional dive/snorkel stops offered on their private boat transfer from Sumbawa Besar Airport to Pulau Moyo, in the Satonda Island vicinity. Their description matches this page's original text closely — "a peaceful safety stop on a shallow plateau of healthy corals" in "crystal-clear waters." Beyond that specific mention, no independent source could be found describing the site's marine life, exact depth profile, or difficulty in detail; the "40 m and beyond" drop-off figure reflects the general character of wall dives along this stretch of Sumbawa's north coast rather than a confirmed depth for this specific site.
+
+**Source correction (2026-07-05)**: this page's footer previously credited liveaboardindonesia.com and dive-the-world.com for this description. On re-checking both pages directly, neither actually names a site called "Sumbawa Wall" — they discuss the general wall-diving character of the Sumbawa/Moyo region without naming this specific site. That prior attribution has been corrected below.
 
 ## Site Information
 
@@ -33,6 +35,6 @@ Sumbawa Wall is one of the deep wall dives on the northern coast of Sumbawa. Liv
 Drop from the shallow plateau crest to the wall face. Main reef action in the 10–30 m range; wall continues beyond 40 m. The shallow plateau provides a pleasant safety stop over healthy hard coral.
 
 ---
-*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Last updated 2026-05-17.*
+*Sources: [Maleo Moyo Scuba Divers - About Moyo Island](https://scubadivemoyo.com/about-moyo-island/). Only 1 confirmed source specifically names this site (3+ independent domains required for validation) — not marked validated. General regional wall-diving descriptions (liveaboardindonesia.com, dive-the-world.com) were checked directly and do not name "Sumbawa Wall" specifically, so they have been removed from this citation list. Last updated 2026-07-05.*
 
-*Note: Sumbawa Wall is not individually documented in major online dive databases. Description is based on regional operator accounts of the northern Sumbawa wall dive character.*
+*Note: Sumbawa Wall is still not documented in major structured dive databases or ScubaBoard threads found during this pass. Description is based on the one confirmed operator mention plus general regional wall-diving character for context.*

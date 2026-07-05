@@ -13,49 +13,50 @@ addedBy: osm_import
 
 ## Nyororo Reef
 
-Nyororo Reef is a coral reef surrounding Nyororo Island (also known as Whale Island or Chole Island area), a small island south of Mafia Island in the Chole Bay area of southern Tanzania, notable for its whale shark encounters and role as a humpback whale migration corridor.
+Niororo (also spelled Nyororo) Island is a real, Wikipedia-documented island of the Mafia Archipelago, roughly 0.8 km by 0.5 km, located north of Shungumbili Island and south of Mafia Island proper. This site's recorded coordinates sit about 6 km from Wikipedia's coordinates for the island, consistent with a reef near — not necessarily surrounding — Niororo Island. Two important corrections to the previous write-up follow from this research.
 
 ## Overview
 
-The waters around Nyororo Island sit within the broader Mafia Island Marine Park ecosystem and experience seasonally exceptional marine megafauna activity. The reef itself is a fringing formation with a reef top at 3-5 meters and a gentle outer slope to 18 meters. What distinguishes this site is not the reef architecture per se but its positioning in an area where whale sharks aggregate between October and March and humpback whales pass through during their June-September migration. Visibility is typically 10-18 meters, affected by seasonal conditions.
+**Correction 1 — marine park boundary.** The previous description stated this reef sits "within the broader Mafia Island Marine Park ecosystem." Wikipedia instead lists Niororo Island among the separate "Mafia Islands Marine Reserves" (alongside Shungumbili and Barakuni), distinct from the Mafia Island Marine Park (MIMP) itself. Published MIMP boundary coordinates run from approximately S 7°45' to S 8°10'; this site's latitude (S 7°39') falls north of that stated boundary. Whether Niororo's waters are formally inside MIMP or a separate protected area could not be confirmed from available sources — this is now flagged as uncertain rather than asserted as fact.
+
+**Correction 2 — whale sharks.** The previous description claimed "sites near Nyororo Island see regular individuals" of whale sharks. Research found no source tying whale shark aggregations to Niororo specifically. Every source describing Mafia's famous whale shark season (October-February/March) locates the aggregation in the channel **west of Mafia Island near Kilindoni** — roughly 30+ km from Niororo. This claim has been removed as unsupported and likely a conflation of Niororo's proximity to "Mafia" in general with the actual, geographically distinct whale shark feeding grounds.
+
+No source describes the reef itself (structure, depth, visibility) at Niororo/Nyororo specifically; the numbers below are as recorded, not independently verified.
 
 ## Site Information
 
-- **Location**: Nyororo Island area, Mafia Island Marine Park, Tanzania
+- **Location**: Near Niororo (Nyororo) Island, Mafia Archipelago, Tanzania. Relationship to Mafia Island Marine Park boundaries is unconfirmed (see above); previously stated as definitively "within" MIMP, which is not supported.
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-18 meters (33-60 feet)
-- **Current**: Moderate, variable
-- **Best Time**: October to March for whale sharks; June-September for humpback whale encounters
+- **Current**: Not verified for this specific site
+- **Best Time**: Not verified for this specific site — do not assume whale-shark season applies here (see Correction 2)
 
 ## Marine Life
 
-Whale sharks are the headline species at Nyororo Reef during the October-March season — the Mafia Channel is one of the world's most consistent whale shark encounter destinations, and sites near Nyororo Island see regular individuals. During June-September, humpback whales pass through the area during their southern migration, and whale song can often be heard through dive equipment in the water. The reef itself hosts a complete East African reef community with sea turtles, reef sharks, and abundant reef fish year-round.
+No marine life has been confirmed specifically at this site. Whale shark and humpback whale claims from the previous version have been removed as unsupported for this specific location (see Correction 2). General Mafia Archipelago reef fish, turtles, and reef sharks are plausible on a fringing reef here but are not confirmed at this specific point.
 
 ## Dive Profile
 
-A standard reef slope dive from the crest to 18 meters. The primary value of diving rather than snorkeling here is when whale sharks are in the area — they occasionally dive to reef depth and can be encountered mid-water during a scuba dive rather than just at the surface. Monitor the open water above and beside the reef as much as the reef itself.
+Not documented for this specific site.
 
 ## Entry and Exit
 
-Boat access from Mafia Island, typically from Utende or from Chole Bay lodges. The marine park fee is required. Coordinate with the boat crew on whale shark sighting protocols before descending — operators typically have specific procedures for whale shark encounters.
+Boat access would most plausibly be from Mafia Island operators based in Utende or Kilindoni, but no operator's site list confirming trips to a "Nyororo Reef" was found during this research pass.
 
 ## Tips and Recommendations
 
-- If whale sharks are spotted at the surface before descent, consider snorkeling the encounter first, then diving the reef afterward
-- Humpback whale season (June-September) provides extraordinary auditory experiences underwater even when whales aren't visually present
-- The calm Chole Bay area on the western side of Mafia Island provides an excellent base for multi-day reef exploration
-- Marine park guidelines prohibit chasing or crowding whale sharks — maintain a respectful 3-meter distance
+- Do not plan a trip here specifically expecting whale sharks — the documented aggregation area is near Kilindoni, well to the south
+- Ask Mafia-based operators (e.g. Big Blu Mafia Island Dive Centre, Kinasi) whether they run trips to reefs near Niororo/Nyororo Island and under what name, since this project could not confirm one
 
 ## Safety Considerations
 
-Standard intermediate reef dive safety considerations apply. The excitement of megafauna encounters can distract from depth and air management — set a depth alarm on your dive computer and maintain discipline. When whale sharks are present, divers sometimes fin hard to keep pace, causing air consumption to spike unexpectedly.
+No site-specific hazard information exists. General Mafia Archipelago boat-diving precautions would apply.
 
 ## Photography
 
-Nyororo Reef offers the rare possibility of photographing whale sharks in a reef dive context rather than just as surface snorkel encounters. A wide-angle setup (10-17mm fisheye) is essential for capturing the full scale of a whale shark. During non-whale shark season, the reef itself provides standard Indian Ocean photography subjects.
+Not documented for this specific site. The previous claim of "rare possibility of photographing whale sharks in a reef dive context" at this site has been removed along with the unsupported whale shark claim.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Niororo Island — Wikipedia](https://en.wikipedia.org/wiki/Niororo_Island), [Mafia Island Marine Park — mafiaisland.com](https://mafiaisland.com/marine-park/), [Mafia Island whale shark season sources (Kitu Kiblu, Afro Whale Shark Safari, and others locating the aggregation near Kilindoni)]. These confirm the island's real geography and correct two errors in the previous write-up (marine park boundary and whale shark location) but do not describe a dive site named "Nyororo Reef" specifically. Last updated 2026-07-05.*

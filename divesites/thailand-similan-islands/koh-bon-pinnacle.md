@@ -3,7 +3,7 @@ name: Koh Bon Pinnacle
 lat: 8.8336
 lng: 97.7975
 difficulty: Advanced
-maxDepth: 50
+maxDepth: 40
 entryType: liveaboard
 siteType: pinnacle
 ref: null
@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Koh Bon Pinnacle
 
-Koh Bon Pinnacle is the undisputed manta ray capital of Thailand — a submerged granite pinnacle rising from deep water roughly 20 km north of the main Similan Islands group, in the Similan Islands National Park, Phang Nga Province, Thailand.
+Koh Bon Pinnacle is one of Thailand's best-known manta ray sites — a submerged granite pinnacle west of Koh Bon island, roughly 40 km north of the main Similan Islands group, within the Similan Islands National Park, Phang Nga Province, Thailand.
 
 ## Overview
 
-The pinnacle top sits at around 16–18 meters and drops steeply on all sides to beyond 50 meters. Reef manta rays (Mobula alfredi) use cleaning stations on the shallow crest, where cleaner wrasse pick parasites from their broad underbellies. Sightings are reliable from November through May, with peak activity often in the early morning when mantas arrive before the midday dive boats. This is a dedicated liveaboard site — no day-trip boats operate this far north — and even liveaboards time their visits around tidal windows when currents are manageable.
+The site actually consists of two pinnacles: the first (and shallower) tops out around 18 meters, the second around 24 meters, with the formation dropping to roughly 40 meters (thailandliveaboards.com, notroublesjustbubbles.com). This corrects the previously stated maximum depth of 50 meters — multiple current sources place the base closer to 40 meters. Manta rays visit a cleaning station on the pinnacle's eastern side, where cleaner wrasse service the mantas' bodies. Sightings are reported November through May, with peak likelihood January to April.
 
 ## Site Information
 
-- **Location**: Similan Islands National Park, Phang Nga Province, Thailand
+- **Location**: West of Koh Bon island, ~40km north of the main Similan group, Similan Islands National Park, Phang Nga Province, Thailand
 - **Entry Type**: liveaboard
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 50 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–40 meters
 - **Current**: Strong to very strong; tidal-dependent
-- **Best Time**: November to May
+- **Best Time**: November to May; manta sightings most likely January–April
 
 ## Marine Life
 
-The cleaning station on the pinnacle top is the headline attraction, with reef mantas circling and hovering patiently while cleaner wrasse work over their gills and cephalic fins. Leopard sharks (zebra sharks) rest on sandy patches between boulders at depth. Large schools of bigeye trevally and chevron barracuda patrol the current-swept flanks. Whitetip reef sharks are common residents. Hawksbill turtles pass through regularly, and occasional whale shark sightings are reported when plankton blooms are present.
+Sources confirm reef manta rays at the cleaning station, along with eagle rays and blacktip reef sharks (thailandliveaboards.com, notroublesjustbubbles.com). Leopard sharks and whale sharks, previously listed here, were not corroborated for this specific site in the sources consulted this pass and have been removed rather than carried forward as unverified claims — those species are documented at nearby Koh Tachai/Twin Peaks/The Dome rather than confirmed at Koh Bon specifically.
 
 ## Dive Profile
 
-The typical dive plan starts on the down-current side of the pinnacle, descending to 18–22 meters to observe the cleaning stations on the crest. When mantas are active, divers hold position neutrally buoyant without approaching or blocking the cleaning circuit — manta etiquette requires staying low and passive. After the cleaning station, work the deeper boulder fields on the north face (25–35 m) where leopard sharks and trevally schools congregate. Ascend along the shallower south ridge before conducting a safety stop in open water. Reserve at least 80 bar for the ascent given potential for surge and drift.
+Dive plans typically approach the down-current side of the pinnacle and work toward the shallower cleaning station (18–24 meters) where manta activity is concentrated. Divers hold a neutral, passive position near the cleaning station to avoid disrupting the cleaning behavior, per standard manta etiquette.
 
 ## Entry and Exit
 
-All access is by liveaboard vessel. The pinnacle offers no mooring for day boats and the crossing from Khao Lak is too long for day trips. Liveaboards anchor or drift the area and deploy zodiacs for individual groups. Entry is typically a giant stride from the zodiac with a descent line if current is running. Surface pick-up by zodiac on a deployed SMB is standard procedure.
+All access is by liveaboard vessel; no day-trip boats reach this site given the distance from Khao Lak. Liveaboards anchor or drift and deploy zodiacs for individual groups. Entry is typically a giant stride with a descent line if current is running.
 
 ## Tips and Recommendations
 
-- Approach cleaning stations from below and remain completely still — erratic movement or bubbles directed at the manta will abort the cleaning and drive them off
-- Time your entry with your liveaboard guide to hit the cleaning station during the morning slack tide when mantas are most predictable
-- A wide-angle lens (10–17mm or equivalent) is ideal for capturing mantas against the blue water backdrop
-- Carry a reef hook — attaching to rubble rather than coral allows you to hold position in current without finning and disturbing the mantas
-- Check buoyancy carefully before the dive; this site rewards relaxed, minimal-movement diving
+- Approach the cleaning station from below and remain still — sudden movement or bubbles directed at a manta will interrupt the cleaning behavior and drive it off
+- Time your dive with the guide's assessment of the tidal window — currents here are strong and tidal-dependent
+- A reef hook, attached to bare rubble rather than coral, lets you hold position without finning near the cleaning station
 
 ## Safety Considerations
 
-Currents at Koh Bon Pinnacle can shift rapidly and run hard in multiple directions as tidal flow bends around the pinnacle. Surge on the crest can be significant in certain swell windows. Divers who lose contact with the pinnacle in a strong current should deploy an SMB immediately and surface for zodiac pick-up rather than fighting the current. Always brief your buddy and guide on the abort signal before entering. Minimum certification: Advanced Open Water with logged experience in current diving. Nitrox is widely used on liveaboards to extend no-decompression limits on the shallow crest.
+Currents at Koh Bon Pinnacle can shift and run hard as tidal flow bends around the formation. Divers who lose contact with the pinnacle in strong current should deploy an SMB and surface for pickup rather than fight the current. Advanced certification with logged current-diving experience is the standard recommendation.
 
 ## Photography
 
-Koh Bon Pinnacle is one of Thailand's premier wide-angle photography locations. Mantas against sunburst from above, or silhouetted from below in open blue water, are the signature shots. A rectilinear 15mm or fisheye 8–15mm on full frame gives sufficient angle to include the full wingspan of a large manta. Shoot in manual exposure, prioritise shutter speed of at least 1/125 to freeze manta movement, and accept slight underexposure to preserve the blue water background. On the boulder fields, macro subjects include Coleman shrimp on fire urchins and various nudibranchs.
+Wide-angle photography of mantas at the cleaning station, shot from below against open blue water, is the signature image here. A rectilinear or fisheye wide-angle lens helps capture a manta's full wingspan at close range.
 
 ---
-*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*
+*Sources: [Thailand Liveaboards](https://thailandliveaboards.com/thailand-dive-sites/koh-bon/), [Not Troubles Just Bubbles](https://www.notroublesjustbubbles.com/diving-destinations/thailand/koh-bon), [Similan Diving Tours](https://www.similandivingtours.com/dive-sites/koh-bon-and-koh-tachai/koh-bon-pinnacle), [Khao Lak Explorer](https://www.khaolakexplorer.com/diving-daytrips/koh-bon-diving/). Last updated 2026-07-05.*

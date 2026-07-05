@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Mwamba Mkadya
 
-Mwamba Mkadya is a coral reef south of Dar es Salaam in Tanzania, positioned along the coastline of the Dar es Salaam Marine Reserve where inshore reefs transition from silty near-shore conditions to clearer water accessed by intermediate divers comfortable with moderate current.
+Mwamba Mkadya ("mwamba" is Swahili for reef/rock) is a reef point north of central Dar es Salaam, within the general area of the Dar es Salaam Marine Reserve System, whose named protected islands (Bongoyo, Mbudya, Pangavini, and Fungu Yasini to the north of the city) do not include this exact name.
 
 ## Overview
 
-Mwamba Mkadya represents the intermediate tier of Dar es Salaam diving — more exposed than the sheltered patch reefs but less demanding than the outer channel sites. The reef structure includes a rubble zone at the base leading to a coral slope from 8-18 meters, with the most concentrated coral growth in the mid-reef zone at 10-15 meters. Visibility is variable, typically 10-15 meters in the northeast monsoon season. The site sees less dive traffic than the northern Dar es Salaam reserves, resulting in calmer animal behavior.
+No dive operator, guidebook, forum thread, or gazetteer reference to "Mwamba Mkadya" specifically was found in this research pass. The coordinate sits between the documented reserve islands of Fungu Yasini (to the south) and Bongoyo (to the further south), in the general Dar es Salaam northern-reef diving area, but no independent source confirms this exact reef by name, describes its depth profile, or attributes specific marine life to it. The site type (reef) and difficulty (Intermediate) in the existing data are plausible for this general area but are not independently verified for this specific point.
 
 ## Site Information
 
-- **Location**: Dar es Salaam Marine Reserve, southern section, Tanzania
+- **Location**: Northern Dar es Salaam coastal reef area, Tanzania (near the Fungu Yasini / Bongoyo reserve islands, exact site not independently named in sources found)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Moderate
-- **Best Time**: October to February
+- **Current**: Not independently confirmed for this specific site
+- **Best Time**: Not independently confirmed for this specific site
 
 ## Marine Life
 
-The less-visited status of Mwamba Mkadya contributes to relaxed fish behavior — groupers allow close approaches and reef sharks occasionally cruise the outer edge without being disturbed by human presence. Large parrotfish in their terminal phase (bright blues and greens) are prominent. Octopus is relatively common on this reef compared to the higher-traffic northern sites. Cleaning stations with shrimp are active at several coral outcrops.
+No species can be confirmed specifically for Mwamba Mkadya. Earlier drafts of this page described specific behavior (relaxed groupers, cruising reef sharks, terminal-phase parrotfish, active cleaning stations) as if confirmed for this exact site — none of this was corroborated by any source in this research pass, and it has been removed rather than repeated.
 
 ## Dive Profile
 
-A standard reef slope dive suited to divers who have completed their first open water dives and want a step up in terrain. Descend to 16-18 meters on the outer slope and work back up, spending time at cleaning stations in the 10-15 meter zone. Finish in the shallower rubble and coral garden zone for the safety stop.
+Not independently documented for this specific site.
 
 ## Entry and Exit
 
-Boat access from Dar es Salaam, typically combined with other south-of-city sites on a two-dive day. Travel time is slightly longer than to northern reserve sites — allow 40-50 minutes from Msasani Bay. Current can be more noticeable here than at the sheltered northern patches.
+Boat access from a Dar es Salaam-based operator, presumably from the Msasani/Slipway area given proximity to the other named reserve islands, but this was not independently confirmed for this exact site.
 
 ## Tips and Recommendations
 
-- Good site for consolidating drift navigation skills in a moderate-current environment
-- Search for octopus in the rubble zone at the base of the reef — more reliable here than at heavily dived sites
-- Mornings are essential — afternoon wind and current effects are more pronounced at this exposed southern location
-- Ask operators whether they combine this with nearby Mwamba Kikweo for a varied south-Dar day trip
+- Ask your Dar es Salaam operator whether "Mwamba Mkadya" is a name they recognize and use, since no independent published source was found using this exact name
+- Treat depth, current, and marine-life expectations as provisional until confirmed locally
 
 ## Safety Considerations
 
-More exposed than the northern Dar es Salaam patch reefs. Moderate currents require confident navigation and reliable SMB deployment. The southern reserve sees less dive traffic, which means the boat crew may be farther away at pickup — surface clearly with SMB deployed and whistle ready.
+No source-confirmed, site-specific hazards were found. Standard reef-diving precautions for an 18-meter-depth, moderate-exposure site apply as general guidance only.
 
 ## Photography
 
-Good variety of subjects including relaxed groupers and parrotfish in good light conditions. The calmer fish behavior compared to more dived sites makes animal portrait photography more rewarding. A 60mm macro lens is effective for the cleaning station subjects.
+No site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of the Dar es Salaam Marine Reserve System area. No site-specific sources found for "Mwamba Mkadya." Last updated 2026-07-05.*

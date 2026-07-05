@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Longyearbyen Pier
 
-Longyearbyen Pier is a reef dive site in Svalbard, Arctic.
+Longyearbyen Pier is the most accessible dive site in Svalbard, in the harbour at the archipelago's main settlement.
 
 ## Overview
 
-Longyearbyen Pier is the most accessible dive site in Svalbard, located in Adventfjorden at the main settlement and launching point for Arctic expeditions. The pier pilings and rocky harbour floor to 12 meters are colonized by kelp, anemones, and hydroids, while the shallows attract polar cod, sculpin, and sea snails. The local Longyearbyen Diving Club begins its season around the turn of May and June when water temperatures hover around 1 degree Celsius, and divers may spot thick-billed murres and black guillemots actively foraging underwater near the harbour lights.
+Longyearbyen Pier sits in Adventfjorden, a 7 km long, 4 km wide bay on the southern side of Isfjorden where Longyearbyen — Svalbard's main town — occupies the south-western shore. The town has an active, non-commercial diving club (Longyearbyen Dykkerklubb / "Dive 78 North") run by local enthusiasts, confirming there is genuine local shore/harbour diving activity in the area.
+
+We could not confirm site-specific depths, exact marine life, or dive-profile details for the pier itself from independently verifiable sources — the sources found describe Adventfjorden's geography rather than the pier's underwater conditions specifically. This location shares the region's Arctic marine fauna (kelp, anemones, invertebrates such as crabs and sea urchins, and cold-water fish), but no site-specific marine-life report for the pier was found. Divers should treat the depth and species information below as general regional characteristics rather than confirmed pier-specific facts pending further research.
 
 ## Site Information
 
-- **Location**: Svalbard, Arctic
+- **Location**: Adventfjorden harbour, Longyearbyen, Svalbard, Arctic
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Adventfjorden](https://en.wikipedia.org/wiki/Adventfjorden), [Longyearbyen Dykkerklubb (Dive 78 North)](https://dive78north.wixsite.com/home). No site-specific marine-life or dive-profile source was found for the pier itself. Last updated 2026-07-05.*

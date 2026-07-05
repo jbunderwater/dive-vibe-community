@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Jambiani Lagoon
 
-Jambiani Lagoon is a shallow dive inside the fringing reef along Zanzibar Island's southeastern coast near Jambiani village, offering calm protected conditions within the natural lagoon that runs parallel to one of Zanzibar's longest and least-developed beaches.
+Jambiani Lagoon is a sheltered inner-reef dive site within the barrier-reef lagoon off Jambiani village on Zanzibar's southeast coast.
 
 ## Overview
 
-The lagoon reef at Jambiani is characteristic of Zanzibar's protected eastern side — calm, shallow, and rich in small reef life. The site sits inside the outer barrier reef where tidal movement brings clean water from the Indian Ocean without the surge and swell that affects external sites. The maximum depth of 15 meters encompasses the full reef profile from shallow coral garden to the base of the fringing reef. Visibility is typically 10-15 meters, though afternoon wind can reduce clarity.
+Jambiani Lagoon is one of three named sites (with Lagoon Mounding and Stingray City) that Paje/Jambiani-based operators run inside the protected lagoon, roughly 15 minutes by boat from either village base. Being inside the fringing reef, the site offers calmer conditions than the outer reef and is used for beginner-level and training dives.
 
 ## Site Information
 
 - **Location**: Jambiani Lagoon, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Typical Visibility**: Not independently confirmed for this specific site
 - **Current**: Light (protected lagoon)
-- **Best Time**: October to April (northeast monsoon, eastern coast accessible)
 
 ## Marine Life
 
-The lagoon hosts a gentle community of reef fish undisturbed by strong currents — butterflyfish pairs patrol the coral heads, triggerfish defend sandy patches, and moorish idols cruise in small groups. Sea turtles are commonly encountered here, using the lagoon as a resting and feeding area. The seagrass beds fringing the lagoon shelter seahorses and ghost pipefish. At night, the lagoon comes alive with octopus, moray eels on the hunt, and cuttlefish hovering over the substrate.
+Local operators consistently describe this site as home to seahorses, typically found over sandy and seagrass areas, with the dive continuing to the far side of the eastern reef where frogfish, leaf fish, and harlequin shrimp are often spotted. A prior version of this page added turtles, butterflyfish, triggerfish, moorish idols, ghost pipefish, octopus, and night-diving cuttlefish/moray claims that are not supported by the sources found for this specific site; those have been removed.
 
 ## Dive Profile
 
-The gentle, sheltered profile makes this ideal for beginners and night diving. During the day, navigate from the sandy lagoon floor up through the coral patches at 8-12 meters to the reef crest at 3-5 meters. Night dives are particularly recommended here — operators in Jambiani regularly run torch dives on the same reef with excellent success for cephalopods and nocturnal invertebrates.
+Per operator descriptions, the dive covers sandy/seagrass zones (seahorse habitat) and continues to the eastern reef edge (frogfish/leaf fish/harlequin shrimp habitat). No further independently confirmed profile detail was found.
 
 ## Entry and Exit
 
-Boat access from Jambiani village jetty. The village has a small but growing dive operator community. The calm lagoon conditions allow for easy zodiac or traditional wooden boat pickups. Low-tide access may require wading to deeper water before entry.
+Boat access from Jambiani or Paje, roughly 15 minutes by boat, within the protected lagoon.
 
 ## Tips and Recommendations
 
-- Night diving at Jambiani Lagoon is outstanding — book an evening dive specifically for octopus and cuttlefish encounters
-- Ask your guide to search seagrass beds for seahorses and pipefish — patience and slow movement are key
-- The area is popular with Zanzibar beach-stay visitors; book with local Jambiani operators rather than Nungwi operators who rarely visit this side of the island
-- Southeast Zanzibar diving is best October through April; avoid June-September when southeast monsoon swell affects conditions
+- Ask your guide to search the sandy/seagrass areas specifically for seahorses, and the eastern reef edge for frogfish, leaf fish, and harlequin shrimp — these are the site's operator-confirmed specialties
+- No source-confirmed claims about night diving at this specific site were found; a previous version's night-dive recommendation has been removed pending verification
 
 ## Safety Considerations
 
-The protected lagoon conditions make this one of the lowest-risk dive sites in Zanzibar. The shallow depth and light currents allow for relaxed navigation. Watch for sea urchins on the sandy bottom and fire coral on the reef edge. Boat traffic in the lagoon passage is minimal but deploy an SMB for the safety stop.
+No site-specific safety information was found beyond the general characterization as a sheltered, beginner-friendly lagoon site.
 
 ## Photography
 
-Jambiani Lagoon is excellent for close-up photography in the calm, clear lagoon water. The resident turtles are accustomed to slow-moving divers and allow extended encounters. Night photography here is exceptional — cuttlefish color-changing displays and hunting octopus provide memorable subjects.
+No site-specific photography information was found.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/), [Zanzibar Dive – Half Day 2 Dives Jambiani](https://zanzibardive.com/st_activity/half-day-2-dives-jambiani/), [Zanzibar Dive – Half Day 2 Dives Bejuu Beach](https://zanzibardive.com/st_activity/half-day-2-dives-bejuu-beach/). The Zanzibar Dive pages and Buccaneer Diving's page overlap closely in wording, so they should be treated as one corroborating source lineage rather than fully independent verification — a third independent source with comparable site-specific detail was not found. Last updated 2026-07-05.*
