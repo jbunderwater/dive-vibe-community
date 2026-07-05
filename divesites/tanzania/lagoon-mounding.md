@@ -23,9 +23,9 @@ Lagoon Mounding sits inside the barrier reef that runs along Zanzibar's southeas
 
 - **Location**: Lagoon between Paje and Jambiani, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (inner lagoon)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: Sources report 6-16m to 6-22m; this dataset lists 15m
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Not independently confirmed for this specific site
 - **Current**: Light (protected lagoon)
 

@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Pangavini Reef
 
-Pangavini Reef surrounds Pangavini Island, a small uninhabited island approximately 12 kilometers north of Dar es Salaam and part of the Dar es Salaam Marine Reserve System. Pangavini is one of the better-preserved reef systems in the reserve and offers consistently good diving just offshore from Tanzania's largest city.
+Pangavini Island is a real, Wikipedia-documented island in the Dar es Salaam Marine Reserve — small (only about 250 m long), with a rocky coastline and no beaches, positioned north of Bongoyo Island and south of Mbudya Island. Three independent sources confirm its general character, though none describes diving depths or visibility specifically.
 
 ## Overview
 
-Pangavini Island's reef is better developed than some of the more southerly Dar es Salaam marine reserve sites, benefiting from its slightly more exposed position in cleaner water. The reef encircles the island with coral gardens from 3-4 meters depth on the sheltered side to a more developed outer slope reaching 16 meters. Staghorn Acropora and Porites coral formations dominate, interspersed with sandy channels and rubble patches. Visibility ranges from 10-15 meters in most conditions.
+Wikipedia describes Pangavini as protecting "seagrass beds, coral reefs, and several fish species," with a rocky, beachless coastline that makes docking difficult — it is "seldom visited" compared to Bongoyo and Mbudya. It has been a protected reserve (IUCN Category II) since 1975. The island is also an important nesting and roosting site for birds and holds a coconut crab colony (Wikipedia — Dar es Salaam Marine Reserve). The previous version of this page stated a beach was available for surface intervals and described specific coral genera (staghorn Acropora, Porites) and a precise depth profile — none of that is supported by available sources and has been removed or flagged as unverified.
 
 ## Site Information
 
-- **Location**: Pangavini Island, Dar es Salaam Marine Reserve, Tanzania
+- **Location**: Pangavini Island, Dar es Salaam Marine Reserve, Tanzania (roughly 250 m long, rocky coastline, no beach)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to February (clearest conditions)
+- **Current**: Not independently verified for this specific site
+- **Best Time**: Not independently verified for this specific site
 
 ## Marine Life
 
-Pangavini Reef hosts a diverse resident community including hawksbill and green turtles that are reliably present throughout the year. Dense surgeonfish schools work across the reef top, while butterflyfish pairs cruise the coral formations. The sandy channels shelter stingrays and goatfish, and the outer reef edge occasionally hosts white-tip reef sharks in the late afternoon. The island's isolated position means less human disturbance than the more accessible sites closer to the city.
+Confirmed generally for the reserve/island: coral reef and seagrass habitat, a coconut crab colony on land, and bird nesting/roosting use of the island (Wikipedia). Claims of hawksbill/green turtles being "reliably present," dense surgeonfish schools, and white-tip reef sharks from the previous version are plausible for a Dar es Salaam reserve reef in general but were not independently confirmed specifically for Pangavini during this research pass, so they are stated here with reduced confidence rather than as settled fact.
 
 ## Dive Profile
 
-A classic circumnavigation of the island reef provides the most complete experience. Begin on the deeper outer slope and work toward the island, finishing in the very shallow protected side where coral gardens extend to the beach edge. The total reef perimeter allows a complete dive without retracing the route.
+Not documented specifically. Given the rocky, beachless coastline, a reef dive here would need to work from boat rather than shore, but a specific circumnavigation profile is not sourced.
 
 ## Entry and Exit
 
-Day boat access from Dar es Salaam, approximately 30-40 minutes from the Slipway or Msasani Bay area. Often combined with Bongoyo or Mbudya islands on a multi-dive day. The beach can be used for surface interval if conditions permit landing.
+Day boat access from Dar es Salaam (Slipway/Msasani Bay area is standard for this reserve system). Because Pangavini's coastline is rocky and without beaches, and docking is described as difficult, a surface interval landing on the island (as the previous version suggested) is not supported — treat the island as boat-only.
 
 ## Tips and Recommendations
 
-- Pangavini's slightly more exposed position generally gives better visibility than the inner reserve sites
-- Snorkeling is productive here for surface companions, as the reef extends into very shallow water on the protected side
-- Morning conditions are consistently calmer than afternoons
-- Bring sunscreen (reef-safe) and plenty of water for the surface interval — the island has no fresh water
+- Do not plan a beach landing here — Pangavini's coastline is documented as rocky with no beach, unlike Bongoyo or Mbudya
+- Pangavini is described as "seldom visited" relative to Bongoyo/Mbudya, which may mean less diver traffic on its reef
 
 ## Safety Considerations
 
-One of the gentler Dar es Salaam sites overall. Light currents on the sheltered side can become moderate on the exposed outer reef — check conditions before swimming around to the outer face. Always deploy SMB for ascent. The island is isolated so ensure the boat is properly anchored or moored before entering the water.
+No site-specific hazard information exists beyond the general note that landing/docking is difficult due to the rocky coastline. Standard Dar es Salaam Marine Reserve precautions (boat traffic, SMB deployment) would apply.
 
 ## Photography
 
-Pangavini's turtle residents and clear water make it one of the better photography sites in the Dar es Salaam system. Natural light works well in the shallow reef garden, and turtle portraits with coral background are achievable without strobes in good conditions. A wide-angle zoom (16-35mm equivalent) covers both the reef scenes and any turtle encounters effectively.
+Not independently documented for this specific site.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Pangavini Island — Wikipedia](https://en.wikipedia.org/wiki/Pangavini_Island), [Pangavini Island Marine Reserve — Tanzania Tourism](https://www.tanzaniatourism.com/destination/pangavini-island-marine-reserve), [Dar es Salaam Marine Reserve — Wikipedia](https://en.wikipedia.org/wiki/Dar_es_Salaam_Marine_Reserve). Last updated 2026-07-05.*

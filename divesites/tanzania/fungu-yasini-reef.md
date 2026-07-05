@@ -23,9 +23,9 @@ Fungu Yasini is a coral and sand-bank reef north of Dar es Salaam, Tanzania, and
 
 - **Location**: Fungu Yasini Island Marine Reserve, Dar es Salaam Marine Reserve System, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters (consistent with the shallow reef zone described in sources; a separate, deeper ~40 meter sandy area lies west of the island and is not part of this shallower record)
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Not independently confirmed with a specific figure — sources describe generally clear water but do not give a numeric visibility range for this exact spot
 - **Current**: Not independently confirmed
 - **Best Time**: Not independently confirmed for this specific site

@@ -22,7 +22,7 @@ One operator, Buccaneer Diving (Paje-based), is confirmed as an independent site
 ## Site Information
 
 - **Location**: Outer reef off Paje/Jambiani, Southeast Zanzibar Island, Tanzania (reached via a reef-gap/"mlango" channel)
-- **Entry Type**: Boat dive, typically run as a drift dive
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters

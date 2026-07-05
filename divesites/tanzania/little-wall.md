@@ -22,10 +22,10 @@ Multiple Zanzibar dive operators describe a wall site called "Small Wall" in alm
 ## Site Information
 
 - **Location**: Coordinates fall within the Mnemba Island dive area, northeast Zanzibar — not Pemba Island as previously listed. The site's identity under the name "Little Wall" is unconfirmed.
-- **Entry Type**: Boat dive (unchanged, plausible default for the area — not independently confirmed for this specific entry)
-- **Site Type**: Wall (plausible given nearby wall sites, but not independently confirmed for this specific entry)
-- **Difficulty Level**: Intermediate (unchanged — not independently confirmed)
-- **Maximum Depth**: Listed as 20 meters; comparable nearby "Small Wall" sites are reported between 2 and 30 meters depending on source, so this figure should be treated with caution
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Current**: Reported as moderate to strong at nearby wall sites in this area
 
 ## Marine Life

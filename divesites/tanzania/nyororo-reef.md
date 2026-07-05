@@ -27,9 +27,9 @@ No source describes the reef itself (structure, depth, visibility) at Niororo/Ny
 
 - **Location**: Near Niororo (Nyororo) Island, Mafia Archipelago, Tanzania. Relationship to Mafia Island Marine Park boundaries is unconfirmed (see above); previously stated as definitively "within" MIMP, which is not supported.
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (plausible for a fringing reef near a Mafia Archipelago island; not independently confirmed)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (as recorded; not independently verified)
+- **Maximum Depth**: 18 meters
 - **Current**: Not verified for this specific site
 - **Best Time**: Not verified for this specific site — do not assume whale-shark season applies here (see Correction 2)
 

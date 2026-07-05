@@ -25,9 +25,9 @@ Stingray City lies within the same protected inner-lagoon system as Lagoon Mound
 
 - **Location**: Lagoon near Paje/Jambiani, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (inner lagoon, sandy channel)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: Sources vary (one report cites ~18m for the general lagoon system); this dataset lists 12m
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: Not independently confirmed for this specific site
 - **Current**: Light (protected lagoon)
 

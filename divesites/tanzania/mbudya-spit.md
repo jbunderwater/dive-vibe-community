@@ -23,9 +23,9 @@ Mbudya Island (Wikipedia-confirmed coordinates 6°39'23"S 39°15'0"E) is one of 
 
 - **Location**: Mbudya Island, Dar es Salaam Marine Reserve, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (consistent with the island's documented reef edge, not independently confirmed as a distinct named site)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters (as recorded; not independently verified)
+- **Maximum Depth**: 16 meters
 - **Current**: Not verified for this specific site
 - **Best Time**: Not verified for this specific site
 

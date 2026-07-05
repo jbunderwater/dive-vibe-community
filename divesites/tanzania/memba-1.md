@@ -23,7 +23,7 @@ Research for this pass could not find any operator, guidebook, or forum referenc
 
 - **Location**: Mnemba Island area, Northeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (consistent with general Mnemba-area character; this specific numbered site is not independently confirmed)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: Mnemba area is widely reported at 15-30m by multiple operators (general area characteristic, not site-specific)

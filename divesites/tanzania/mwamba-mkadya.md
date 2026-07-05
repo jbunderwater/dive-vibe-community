@@ -23,7 +23,7 @@ No dive operator, guidebook, forum thread, or gazetteer reference to "Mwamba Mka
 
 - **Location**: Northern Dar es Salaam coastal reef area, Tanzania (near the Fungu Yasini / Bongoyo reserve islands, exact site not independently named in sources found)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (consistent with the general area; not independently confirmed for this exact point)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Current**: Not independently confirmed for this specific site

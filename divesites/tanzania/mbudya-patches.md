@@ -25,9 +25,9 @@ A dive-oriented source (Seaunseen) also notes candidly that overfishing and dyna
 
 - **Location**: Mbudya Island reef area, Dar es Salaam Marine Reserve System, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (patch reef)
-- **Difficulty Level**: Beginner (consistent with the shallow 9-15m reef-top depth reported for the nearby named reef, Big T Reef)
-- **Maximum Depth**: 15 meters (matches the shallow reef-top range reported for Big T Reef; the same reef's seaward face drops to 40-50m, which is not part of this shallower record)
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Not independently confirmed with a specific figure
 - **Current**: Not independently confirmed
 - **Best Time**: Not independently confirmed for this specific site

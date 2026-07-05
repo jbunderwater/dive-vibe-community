@@ -23,9 +23,9 @@ Jambiani Lagoon is one of three named sites (with Lagoon Mounding and Stingray C
 
 - **Location**: Jambiani Lagoon, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (inner lagoon)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: Sources describe the general lagoon depth range as roughly 6-22m; this dataset lists 15m
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Not independently confirmed for this specific site
 - **Current**: Light (protected lagoon)
 

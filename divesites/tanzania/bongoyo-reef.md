@@ -23,9 +23,9 @@ The habitat ranges from shallow, gently sloping coral reef to sandy expanses, se
 
 - **Location**: Bongoyo Island, Dar es Salaam Marine Reserve, Tanzania (2.5 km north of Dar es Salaam)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters (as recorded; the specifically documented Moto wreck site nearby is shallower, averaging 5 m/max 12 m — the two should not be conflated)
+- **Maximum Depth**: 18 meters
 - **Current**: Light to moderate generally; the Moto wreck area specifically is reported to have no strong currents
 - **Best Time**: Not independently verified for this specific reef; October-March is commonly cited for the wider Tanzania coast but was not confirmed site-specifically
 

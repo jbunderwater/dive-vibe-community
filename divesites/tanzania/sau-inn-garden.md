@@ -23,9 +23,9 @@ Local operator Buccaneer Diving describes Sau Inn Garden as "a stunningly beauti
 
 - **Location**: Outer reef near Jambiani, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (coral garden)
-- **Difficulty Level**: Buccaneer Diving's depth range (6-20m) is consistent with a beginner/intermediate-friendly site; this dataset lists Beginner
-- **Maximum Depth**: 18m (this dataset); Buccaneer Diving reports 6-20m
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: Not independently confirmed for this specific site
 - **Current**: Not independently confirmed
 

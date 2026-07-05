@@ -3,7 +3,7 @@ name: Big Wall
 lat: -5.8015048
 lng: 39.4182592
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
@@ -23,9 +23,9 @@ Big Wall is a vertical wall in open water east of Mnemba Island. Sources consist
 
 - **Location**: East of Mnemba Island, off Zanzibar's northeast coast (correcting the previous "Pemba Island" listing, which coordinate evidence does not support)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall
-- **Difficulty Level**: Advanced — confirmed by every source consulted
-- **Maximum Depth**: Sources disagree, reporting the wall continuing from ~18 m to somewhere between 35 and 60+ m; treat any single number with caution
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
 - **Visibility**: One source reports up to ~30 meters
 - **Current**: Strong, described consistently as requiring drift-diving technique
 

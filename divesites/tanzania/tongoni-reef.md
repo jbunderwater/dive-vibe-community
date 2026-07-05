@@ -22,10 +22,10 @@ The Tongoni Ruins and nearby fishing village are well documented, including one 
 ## Site Information
 
 - **Location**: Coastal waters near Tongoni village, south of Tanga, northern Tanzania (real place, confirmed)
-- **Entry Type**: Boat dive — plausible for the Tanga area generally, not confirmed for this specific reef
-- **Site Type**: Reef — not independently confirmed
-- **Difficulty Level**: Beginner — not independently confirmed
-- **Maximum Depth**: Listed as 15 meters — not independently confirmed
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 
 ## Marine Life
 

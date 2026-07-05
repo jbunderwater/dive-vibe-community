@@ -22,10 +22,10 @@ Maziwe Island all but disappears at high tide, and the surrounding reef is manag
 ## Site Information
 
 - **Location**: Maziwe Marine Reserve, offshore Pangani, northern Tanzania
-- **Entry Type**: Boat dive — confirmed (roughly 30 minutes by boat from Pangani per the operating dive shop)
-- **Site Type**: Reef — confirmed
-- **Difficulty Level**: Beginner — consistent with sources describing shallow, no-drop-off diving well suited to snorkeling and photography
-- **Maximum Depth**: 15 meters — confirmed by the operating dive shop's own description of the site
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Current**: Not specifically quantified by sources; reserve is generally described as sheltered
 - **Best Time**: Year-round access is reported, with heavy rain (and likely reduced clarity) typical from mid-March to May
 

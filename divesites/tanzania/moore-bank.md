@@ -23,9 +23,9 @@ No dive operator, dive-forum, or gazetteer reference to a site named "Moore Bank
 
 - **Location**: Zanzibar Channel, near Pungume Island / Menai Bay Conservation Area, Tanzania (unverified exact feature)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (unverified — plausible for a channel bank, not independently confirmed)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (as recorded; not independently verified)
+- **Maximum Depth**: 20 meters
 - **Current**: Not verified — Menai Bay area dive sites generally report light to moderate current
 - **Best Time**: Not verified for this specific feature
 

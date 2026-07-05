@@ -3,7 +3,7 @@ name: Barracuda Point
 lat: -6.2728904
 lng: 39.5532195
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: drift
 ref: null
@@ -22,10 +22,10 @@ Both sources describe Barracuda Point as a coral garden with mounds and overhang
 ## Site Information
 
 - **Location**: Southeast Zanzibar, near Paje/Jambiani, accessed via an outer-reef "mlango" — correcting the previous "northern Zanzibar Island"/Nungwi framing
-- **Entry Type**: Boat dive — confirmed (accessed via boat from the Paje dive base)
-- **Site Type**: Drift — consistent with sources ("all run as drift dives" for this reef gap)
-- **Difficulty Level**: Intermediate — reasonable given current and drift conditions, not independently confirmed
-- **Maximum Depth**: Sources report ~20 meters, not the 25 meters currently on file
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Current**: Present given the drift-dive framing; not further quantified by sources
 
 ## Marine Life

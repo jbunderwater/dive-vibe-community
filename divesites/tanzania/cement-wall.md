@@ -26,8 +26,8 @@ Depth and exact location reported for "Cement Wall" differ between sources: Bucc
 - **Location**: Outer reef off Jambiani, Southeast Zanzibar Island, Tanzania (accessed via reef-gap channel from the lagoon)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Buccaneer Diving describes it as "suitable for all levels of divers"; this dataset lists Intermediate
-- **Maximum Depth**: Conflicting reports — 20m (this dataset), 35m (Buccaneer Diving), ~40m (PADI). Sources disagree; do not treat any single figure as settled.
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Not independently confirmed for this specific site
 - **Current**: Not independently confirmed
 

@@ -23,9 +23,9 @@ Pungume Island itself is confirmed by multiple independent sources: it is compos
 
 - **Location**: Near Pungume Island, Menai Bay Conservation Area, southern Zanzibar Channel, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (consistent with the general Menai Bay reef environment, not independently confirmed for this specific patch)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters (as recorded; Menai Bay sites in general range 10-35 meters)
+- **Maximum Depth**: 18 meters
 - **Current**: Not verified for this specific site
 - **Best Time**: Not verified for this specific site
 

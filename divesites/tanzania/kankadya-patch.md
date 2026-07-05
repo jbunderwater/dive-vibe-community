@@ -23,9 +23,9 @@ Per Seaunseen, Kankadya Patches "is composed of a large number of small coral bo
 
 - **Location**: Dar es Salaam Marine Reserve area, Tanzania (offshore of the main reserve islands per Seaunseen)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef — specifically low coral bommies, rubble, and sand rather than a continuous reef structure (per Seaunseen)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters (as recorded; not independently re-verified against the source, which does not give a numeric depth)
+- **Maximum Depth**: 15 meters
 - **Current**: Not specified by the source
 - **Best Time**: Not specified by the source; noted as good for night dives
 

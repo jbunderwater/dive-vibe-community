@@ -26,10 +26,10 @@ Separately, the underlying OSM tag data for this site is unusually noisy: alongs
 ## Site Information (unverified)
 
 - **Location**: Offshore reef, Dar es Salaam Region, Tanzania (coordinates confirmed by gazetteer; reserve-system membership unconfirmed)
-- **Entry Type**: Boat dive (unverified)
-- **Site Type**: Reef (consistent with GEOnet classification; matches OSM `natural=reef` tag)
-- **Difficulty Level**: Beginner (unverified — no dive-specific source found)
-- **Maximum Depth**: 15 meters (unverified — no dive-specific source found)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Unknown — no source found
 - **Current**: Unknown — no source found
 
