@@ -32,7 +32,7 @@ Buccoo Reef extends over several square kilometres of shallow water off the sout
 
 ## Marine Life
 
-The Buccoo Reef complex supports diverse marine life across its different zones. The lagoon areas are habitat for green turtles feeding on seagrass, juvenile reef fish, and invertebrates including conch. The reef proper hosts parrotfish, snapper, grouper, and angelfish. The outer reef edge produces more significant encounters — eagle rays and nurse sharks are common, and Caribbean reef sharks occasionally visit. The seagrass beds between the reef and shore are among Tobago's most productive sea turtle habitats.
+The Buccoo Reef complex supports diverse marine life across its different zones. On re-audit, the official RAMSAR site datasheet (biodiversity.gov.tt, a government source) corroborates approximately 70 species of tropical fish across the reef complex, including parrotfish, surgeonfish, butterflyfish, damselfish, and various snapper and grouper species. It also confirms spotted eagle rays and, newly documented here, occasional lemon sharks in the deeper channels, alongside nurse sharks and stingrays. The lagoon areas are habitat for green and hawksbill turtles feeding on seagrass, juvenile reef fish, and invertebrates including conch. The seagrass beds between the reef and shore are among Tobago's most productive sea turtle habitats.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Buccoo is one of the busiest shallow reefs in the region — boat traffic requir
 The reef's diverse zones offer subjects across all photographic styles. The seagrass lagoon with sea turtles, the outer edge in clear water with abundant reef fish, and the coral formations at various depths all provide varied opportunities. Buccoo is not Tobago's highest-quality photography site, but the range of habitats in a single reef complex creates genuine variety.
 
 ---
-*Sources: [Wikipedia - Buccoo Reef](https://en.wikipedia.org/wiki/Buccoo_Reef), [Britannica - Buccoo Reef](https://www.britannica.com/place/Buccoo-Reef), [Visit Tobago - SW Dive Sites](https://visittobago.gov.tt/tobago-south-west-dive-sites), [XtremeSpots - Buccoo Reef](https://www.xtremespots.com/water-sports/scuba-diving/bucco-reef-tobago-trinidad-and-tobago/). Last updated 2026-05-24.*
+*Sources: [Wikipedia - Buccoo Reef](https://en.wikipedia.org/wiki/Buccoo_Reef), [Britannica - Buccoo Reef](https://www.britannica.com/place/Buccoo-Reef), [Visit Tobago - SW Dive Sites](https://visittobago.gov.tt/tobago-south-west-dive-sites), [XtremeSpots - Buccoo Reef](https://www.xtremespots.com/water-sports/scuba-diving/bucco-reef-tobago-trinidad-and-tobago/), [Trinidad & Tobago Ramsar Site Datasheet - Buccoo Reef/Bon Accord Lagoon](http://www.biodiversity.gov.tt/home/images/stories/pdf/ramsar%20site-%20buccoo%20reef%20bon%20accord%20lagoon.pdf). Last updated 2026-07-05.*
