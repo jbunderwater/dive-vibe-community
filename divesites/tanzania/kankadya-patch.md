@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Kankadya Patch
 
-Kankadya Patch is a shallow coral patch reef situated between Dar es Salaam and the Dar es Salaam Marine Reserve islands, one of several detached reef formations in the area that create isolated coral communities rising from a sandy seafloor.
+Kankadya Patches is a genuine, specifically documented Dar es Salaam dive site — one of the better cases in this batch. A dedicated page from Seaunseen (a Tanzania-based diver/underwater photographer's site) describes it in first-hand, site-specific detail, though this is a single source and falls short of this project's 3-independent-source bar for full validation.
 
 ## Overview
 
-Patch reefs like Kankadya are characteristic of the inner Dar es Salaam channel, where isolated coral outcrops rise from the sandy bottom and provide concentrated oases of marine life in an otherwise featureless seabed. The patch rises from a sandy bottom at 12-15 meters to within 3-5 meters of the surface, creating a compact dive that allows thorough exploration of the entire structure in a single tank. Visibility averages 10-15 meters in the northeast monsoon season.
+Per Seaunseen, Kankadya Patches "is composed of a large number of small coral bommies mostly no more than a meter in height, interspersed with coral rubble and sand, and a large number of barrel sponges." Two named features are called out: "Poison Rock," described as having very good life on it, and a slightly smaller feature nicknamed "Dragon" after a Dragon Moray Eel once resident there. Being "slightly further offshore than most Dar es Salaam dive sites," it sometimes has better visibility than closer-in sites when conditions are turbid nearer shore, and is noted as a good night-diving site for macro life.
 
 ## Site Information
 
-- **Location**: Dar es Salaam Marine Reserve, Tanzania
+- **Location**: Dar es Salaam Marine Reserve area, Tanzania (offshore of the main reserve islands per Seaunseen)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef — specifically low coral bommies, rubble, and sand rather than a continuous reef structure (per Seaunseen)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to February (clearest water)
+- **Maximum Depth**: 15 meters (as recorded; not independently re-verified against the source, which does not give a numeric depth)
+- **Current**: Not specified by the source
+- **Best Time**: Not specified by the source; noted as good for night dives
 
 ## Marine Life
 
-Isolated patch reefs function as marine oases, concentrating species from the surrounding sandy flats. Schools of fusiliers and anthias hover above the structure in the water column, while the base of the patch harbors stingrays and flatfish on the sand. The patch sides support moray eels, groupers, and lionfish in the coral overhangs. Nudibranchs and flatworms are common on the encrusting surfaces. Sea turtles occasionally use the patch as a resting spot.
+Per Seaunseen: "a large variety of smaller reef fishes," hard and soft corals, barrel sponges, mushroom corals in the rubble areas, various anemone species, and — historically — a Dragon Moray Eel at the "Dragon" feature (eels are territorial but individual presence is not guaranteed today). Good night-dive macro life is reported: sponge crabs, banded coral shrimp, and small fishes. No other independent source corroborates these specifics, so this section relies on a single source.
 
 ## Dive Profile
 
-Circle the patch reef systematically, starting on the deepest side at 13-15 meters and working around the base before ascending the walls and finishing on the shallow top. The self-contained nature of a patch reef makes navigation intuitive — you cannot get lost if you stay on the reef. Total circumnavigation at a relaxed pace typically takes 35-45 minutes.
+Not detailed by the source beyond noting the two named features (Poison Rock and Dragon) as highlights worth visiting on a circuit of the patches.
 
 ## Entry and Exit
 
-Day boat access from Dar es Salaam operators in the Msasani or Slipway area. Often combined with deeper or more exposed dives on a two-tank trip. Relatively sheltered location makes it a reliable alternative on days when outer reefs are affected by swell.
+Day boat access from Dar es Salaam operators (Msasani/Slipway area is standard for this reserve system generally); the specific boat time to Kankadya is not stated by the source.
 
 ## Tips and Recommendations
 
-- Good site to consolidate buoyancy skills before attempting deeper or more current-exposed sites
-- Circumnavigate the patch twice at different depths if air permits — each pass reveals different species
-- Macro photographers should examine the encrusting surfaces of the deeper patch walls for flatworms, nudibranchs, and arrow crabs
-- Check conditions at the outer reserve sites before committing to this inside location — if outer conditions are good, the more exposed sites offer richer diving
+- Ask a local operator (e.g. those based at the Msasani Slipway) whether they visit "Kankadya Patches," "Poison Rock," or "Dragon" by name — these are real, previously documented features
+- Consider it for a night dive given the documented macro life
 
 ## Safety Considerations
 
-Light currents and a self-contained reef structure make Kankadya Patch one of the safest dives in the Dar es Salaam area. The main hazards are sea urchins on the sandy bottom adjacent to the reef and fire coral on the upper sections. Always deploy an SMB for the ascent due to boat traffic in the wider area.
+No specific hazards are called out by the source beyond general Dar es Salaam boat-traffic and SMB-deployment practice.
 
 ## Photography
 
-Patch reef photography rewards patient circumnavigation. The isolated nature concentrates marine life, making it easier to find subjects than on an extensive fringing reef. Compact cameras with macro capability are well suited to the close-range encounters typical of this site.
+The barrel sponges, rubble-dwelling mushroom corals, and macro night life (sponge crabs, banded coral shrimp) reported by the source suit a macro-oriented photography approach.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Kankadya Patches – Dar es Salaam, Tanzania — Seaunseen](https://seaunseen.com/kankadya-patches-dar-es-salaam-tanzania/). This is a single, genuinely site-specific source (not a generic regional roundup), but it is only one source — short of the 3-independent-source bar required for full validation, so `validated` has not been flipped to true. Last updated 2026-07-05.*

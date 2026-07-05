@@ -13,49 +13,45 @@ addedBy: osm_import
 
 ## Bedford Bank
 
-Bedford Bank is a submerged reef bank in the waters off Dar es Salaam, Tanzania, accessible from the northern harbor area and situated in the cluster of offshore reefs that include Sinda, Mwana, and Pangavini Islands.
+Bedford Bank is a named reef feature in the Zanzibar Channel. Its recorded coordinates place it roughly 13 km southeast of Pungume Island (the southern marker of the Menai Bay Conservation Area) and roughly 24 km from Pangavini Island — far too far to be part of the "Sinda, Mwana, Pangavini" cluster north of Dar es Salaam as a previous (unverified) version of this description claimed. That claim has been removed as a geographic error.
 
 ## Overview
 
-Bedford Bank lies in the outer reef zone north of Dar es Salaam, where Indian Ocean water clarity improves markedly compared to the turbid inshore environment. The reef structure is a classic East African coral bank with a flat top at around 5 meters, coral slopes descending to 20 meters, and sandy channels running between coral outcrops. Visibility typically ranges from 10-20 meters depending on season and recent weather. Water temperatures hover around 26-29°C for most of the year.
+No dive operator, forum, or gazetteer reference to a site named "Bedford Bank" could be found during this research pass. It is not listed among Kizimkazi/Menai Bay operator dive sites (e.g. Dive Time Zanzibar's site list: Aquarium, Balu's Place, Barracuda, Mnazi Mmoja, Frank Reef, Mjuma, Coral Garden, Abbas Reef, Dolphin Wall, Camera Drop, Pig Rock — none matching), nor in the Dar es Salaam Marine Reserve dive-site literature. Based purely on its coordinates, it sits in open Zanzibar Channel waters between the mainland and the Menai Bay area — plausibly a genuine offshore bank, but nothing beyond its position can be confirmed.
 
 ## Site Information
 
-- **Location**: Offshore reef, north of Dar es Salaam, Tanzania
+- **Location**: Zanzibar Channel, Tanzania (unverified exact feature; previous claim of location "north of Dar es Salaam near Sinda/Mwana/Pangavini" was a geographic error and has been removed)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (unverified — plausible for a channel bank, not independently confirmed)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-20 meters (33-65 feet)
-- **Current**: Moderate, variable
-- **Best Time**: October to March (clearest water, least swell)
+- **Maximum Depth**: 20 meters (as recorded; not independently verified)
+- **Current**: Not verified
+- **Best Time**: Not verified for this specific feature
 
 ## Marine Life
 
-The reef supports a typical outer Indian Ocean community with schooling fusiliers, snappers, and goatfish in the mid-water, while the coral structure shelters groupers, moray eels, and lionfish. Hawksbill turtles are regularly sighted and have a reputation for being unhurried around divers at this site. Reef whitetip sharks patrol the outer edge in the afternoon. The sandy channels between the coral outcrops host garden eels and occasional stingrays.
+No marine life has been confirmed specifically at "Bedford Bank." The previous description's claims of hawksbill turtles, reef whitetip sharks, and garden eels at this site were generic Indian-Ocean-reef filler with no site-specific sourcing and have been removed rather than repeated.
 
 ## Dive Profile
 
-Begin at the reef top and descend the slope to 18-20 meters to explore the coral architecture at the base of the bank. The sandy channels between coral formations are worth exploring for bottom-dwelling species. Ascend along the reef face through the mid-reef zone at 10-15 meters before finishing in the shallower coral garden for the safety stop.
+Not documented for this specific site.
 
 ## Entry and Exit
 
-Accessible by day boat from Dar es Salaam dive operators, typically a 30-45 minute journey north from the harbor. A live-boat pickup is standard — deploy your SMB at 5 meters and allow the crew to position the boat before surfacing. Sea conditions are generally calmer in the morning hours before afternoon sea breezes develop.
+No operator lists this site, so access details cannot be confirmed. Given its position, the nearest plausible departure points would be Kizimkazi or Fumba (Zanzibar) or mainland Dar es Salaam operators running long-range channel trips — neither is confirmed.
 
 ## Tips and Recommendations
 
-- Combine with nearby Pangavini or Mbudya reefs for a multi-dive day trip from Dar es Salaam
-- Morning departures typically offer better visibility and calmer surface conditions
-- Bring a macro lens for the coral heads, which support a range of small crustaceans and nudibranchs
-- The site is suitable for Open Water certified divers with recent experience, though intermediate certification is recommended for the deeper sections
+- Treat this as an unverified/obscure feature until a dive operator or diver report can be found under this name
 
 ## Safety Considerations
 
-Boat traffic is present in the wider Dar es Salaam approach channels — always ascend with an SMB deployed. Visibility can drop significantly after heavy rain onshore due to runoff. Moderate currents are common; agree on drift procedures with your guide before descent.
+No site-specific hazard information exists for this feature. Mid-channel positions in this area can have variable current and boat traffic; generic channel-crossing precautions would apply if the site is genuine.
 
 ## Photography
 
-Bedford Bank offers a range of subjects at different depth zones. Wide-angle reef scenes with abundant fish work well at 8-15 meters, while macro shots of encrusting reef organisms are productive across all depths. The sea turtle encounters often allow close approaches, making this a good site for underwater portraits.
+Not documented.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Description based on the site's recorded coordinates only. No independent source naming or describing a site called "Bedford Bank" was found; this appears to be an obscure or OSM-scraper-generated feature name, and the previous write-up's claim of proximity to the Dar es Salaam reserve islands was a geographic error corrected in this pass. Last updated 2026-07-05.*
