@@ -32,7 +32,7 @@ Located in the Speyside dive corridor on Tobago's northeast coast, London Bridge
 
 ## Marine Life
 
-The arch structure creates shelter and concentrates marine life. Nurse sharks rest beneath the arch overhang and in the crevices at its base. Large groupers hold position around the arch structure. Caribbean reef sharks cruise the reef slope below. Eagle rays are regularly sighted on the sandy margins adjacent to the reef. Sea turtles move through the site throughout the day. The reef sections surrounding the arch host dense populations of parrotfish, angelfish, and snapper, with barracuda and jacks patrolling in mid-water.
+Re-audited 2026-07-05: ERIC Tobago — the site's own cited primary source — confirms only lobsters, moray eels, and schools of jacks at London Bridge, alongside abundant brain coral and sponge growth on the arch structure. Earlier versions of this description also claimed nurse sharks, large groupers, Caribbean reef sharks, eagle rays, sea turtles, parrotfish, angelfish, and snapper as residents of this specific site — none of that is supported by ERIC Tobago or any other cited source, and it has been removed rather than re-hedged. If future research turns up a genuine site-specific source for any of those species, they can be reinstated with attribution.
 
 ## Dive Profile
 
@@ -45,8 +45,8 @@ Boat dive from Speyside operators. Giant stride entry; SMB on ascent. Current re
 ## Tips and Recommendations
 
 - Swim through the arch slowly — the encrusting sponge and coral community on the arch walls rewards close examination
-- Check under the arch for resting nurse sharks before entering — they are often present
-- October to February brings the best upwelling conditions, clearest water, and highest probability of pelagic encounters nearby
+- Look for lobsters and moray eels tucked into the arch's crevices and jack schools patrolling the passage
+- October to February brings the best upwelling conditions and clearest water
 - A wide-angle lens captures the arch frame and the open water beyond in a single composition
 
 ## Safety Considerations
@@ -55,7 +55,7 @@ Current at Speyside sites is variable and can intensify with tidal flow. Carry a
 
 ## Photography
 
-The arch is one of Tobago's most photographed natural features. Wide-angle shots through the arch — framing the blue water beyond and divers passing through — are the signature images. Nurse sharks beneath the arch provide dramatic subjects, and the encrusting life on the arch walls rewards macro photographers. Morning dives deliver the best ambient light angle into the arch interior.
+The arch is one of Tobago's most photographed natural features. Wide-angle shots through the arch — framing the blue water beyond and divers passing through — are the signature images, and the encrusting sponge and brain coral on the arch walls rewards macro photographers. Morning dives deliver the best ambient light angle into the arch interior.
 
 ---
-*Sources: [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [Scubaverse - Tobago](https://scubaverse.com/dive-guide/caribbean/tobago/), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago). Last updated 2026-05-24.*
+*Sources: [ERIC Tobago - Dive Sites](https://www.eric-tobago.org/dive-sites-and-species), [Visit Tobago - East Tobago Dive Sites](https://visittobago.gov.tt/east-tobago-speyside-dive-sites), [Scubaverse - Tobago](https://scubaverse.com/dive-guide/caribbean/tobago/), [Tropical Sky - Best Dive Sites Tobago](https://www.tropicalsky.co.uk/caribbean-holidays/tobago/the-best-dive-sites-in-tobago). Last updated 2026-07-05.*

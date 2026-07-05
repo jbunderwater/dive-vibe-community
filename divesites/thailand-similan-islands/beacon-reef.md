@@ -13,50 +13,50 @@ addedBy: osm_import
 
 ## Beacon Reef
 
-Beacon Reef is located in the southern part of the Similan Islands National Park, Phang Nga Province, Thailand. The name derives from the navigation beacon historically positioned near the site. It is one of the most beginner-friendly dives in the Similans, offering reliable coral garden diving in sheltered, calm conditions.
+Beacon Reef runs along the eastern side of Similan Island 8 (Koh Similan), with Beacon Point marking its southern tip, in the Similan Islands National Park, Phang Nga Province, Thailand. Sources describe it as the longest reef in the Similans and one of the most beginner-accessible sites in the archipelago — and, notably, the resting place of a wooden liveaboard wreck.
 
 ## Overview
 
-The site is a conventional Indo-Pacific sloping reef, beginning in very shallow water and descending gradually over hard coral terraces and sandy patches to around 30 meters at the outer slope. The south-facing aspect and sheltered position protect the site from significant swell or surge for most of the season. Hard coral coverage is the centrepiece — large table corals, brain corals, and staghorn formations create a garden-like reef structure that is pristine in the upper zones due to the National Park's strict no-take policies. This is typically the site assigned to first-time divers and check-out divers on liveaboards, or used as the final easy dive of a trip.
+The reef stretches the length of Island 8's east coast, offering an easy, moderate-current dive over hard coral and rocky terrain that suits nearly all diver levels (similandivecenter.com, idcphuket.com). Beacon Point, at the reef's southern end, is deeper and more sheltered from weather than most of the Similans' western sites, and is favoured for multilevel dive plans down toward 40 meters.
+
+The site's most distinctive feature is a wreck at its centre: a wooden liveaboard vessel, referred to in sources as the Rareung-Chon (also called Atlantis X), which sank in August 2002. Accounts agree the boat was taking on water and the captain attempted to run it aground rather than let it sink in open water, striking the reef before going down — sources differ on whether the underlying cause was a bilge pump malfunction or rough weather, and that discrepancy is not resolved here. The wreck's bow rests at around 15 meters and its stern at around 30 meters. According to idcphuket.com, the wreck itself was closed to divers and snorkelers in 2011, though the surrounding reef remains diveable.
 
 ## Site Information
 
-- **Location**: Similan Islands National Park, south Similan area, Phang Nga Province, Thailand
+- **Location**: Eastern side of Similan Island 8, with Beacon Point at the southern tip, Similan Islands National Park, Phang Nga Province, Thailand
 - **Entry Type**: liveaboard
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 meters
-- **Current**: Minimal to light
+- **Current**: Minimal to moderate — generally sheltered from western swell
 - **Best Time**: November to May
 
 ## Marine Life
 
-Sea turtles are reliably present, resting on coral heads in the 5–12 m zone and occasionally grazing. Reef fish diversity is high throughout: moorish idols, clownfish with their anemone hosts, various butterflyfish and angelfish species, and schools of blue-green chromis darting above the coral. Whitetip reef sharks appear on the deeper slope at 18–25 m. Octopus are found in rubble zones, and cuttlefish sometimes hover over the shallower reef sections. The sandy patches between coral heads are productive for garden eels and blue-spotted stingrays.
+Sources describing Beacon Reef/Beacon Point report manta rays, eagle rays, leopard sharks, reef sharks, and stingrays around the site, along with angelfish, butterflyfish, and moray eels on the reef itself (similandivingtours.com, idcphuket.com). No source specifically documents sea turtles or clownfish at this exact site; those are omitted here rather than assumed from regional defaults.
 
 ## Dive Profile
 
-A beginner-accessible profile: enter in the shallows, orient on the reef crest, and follow the slope progressively to the maximum planned depth before ascending back over the coral garden. Most productive marine life is concentrated in the 8–18 m band. The shallow reef (3–8 m) is ideal for an extended safety stop and is genuinely photogenic in morning light. Navigation is simple — the reef always shallows toward the island and deepens toward open water.
+A straightforward reef dive along the length of Island 8's east coast, with divers typically able to plan a multilevel profile that visits the wreck area near the reef's center before working back across the shallower coral sections.
 
 ## Entry and Exit
 
-Liveaboard access with zodiac. The sheltered aspect makes entry and exit straightforward in all but the worst weather. Day-trip speedboats from Khao Lak occasionally visit the south Similan sites.
+Liveaboard access with zodiac. The eastern, sheltered aspect keeps entry and exit straightforward in most conditions.
 
 ## Tips and Recommendations
 
-- An excellent site for new divers to practise reef-following navigation: maintain reef on one shoulder, follow the contour, and return the same way
-- Take time in the shallows — the hard coral garden is colourful and rich, and the temptation to go deeper is not necessary to have a great dive here
-- Look closely at anemones for resident clownfish (Nemo species) and anemone shrimp — they are common throughout the shallow zone
-- The sandy runnel at the reef base is worth a slow pass for blue-spotted stingrays; they rest with sand over most of their disc, revealing only the vivid blue spots
-- Night dives at sites like this reveal hunting lionfish, sleeping parrotfish, and resting turtles on the reef surface
+- The wreck section is reported closed to direct access since 2011 — do not attempt to enter or approach closely; observe the site's condition rules from your dive guide
+- Beacon Point, at the reef's southern end, offers a deeper multilevel option for divers wanting more depth than the main reef provides
+- This is a commonly used check-out or first-dive site — take advantage of the calmer conditions to work on buoyancy
 
 ## Safety Considerations
 
-Beacon Reef is one of the safest dive sites in the Similans. Current is rarely significant, surge is minimal, and the topography is simple to navigate. New divers should maintain awareness of depth, as the gentle gradient can lull divers into exceeding their planned maximum depth. Always maintain buddy contact and conduct a proper 3-minute safety stop at 5 meters before surfacing.
+Beacon Reef/Beacon Point is reported as one of the more sheltered, lower-current Similan sites. The wreck area's closure since 2011 should be respected. Beyond that, standard Similan precautions apply: monitor depth on the reef slope and always carry an SMB.
 
 ## Photography
 
-The hard coral garden is the primary subject: wide-angle captures of table coral formations with ambient light in the 6–10 m range produce some of the most printable coral images in the Similans. Clownfish in anemones are the most requested portrait subject for underwater beginners — use a 60mm macro and wait for the fish to orient face-on. Turtle portraits in ambient light at 8–12 m are an ideal first underwater wildlife subject given the turtles' general tolerance of diver presence here.
+No site-specific photography guidance beyond general reef and wreck-adjacent subjects was found in available sources.
 
 ---
-*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*
+*Sources: [IDC Phuket](https://www.idcphuket.com/scuba-diving/beacon-reef-island-8/), [Similan Dive Center](https://similandivecenter.com/info/dive-sites/similan-islands/beacon-reef/), [Similan Diving Tours](https://www.similandivingtours.com/dive-sites/similan-islands/beacon-reef), [Rushkult](https://rushkult.com/eng/scubamagazine/dive-similan-islands/). Last updated 2026-07-05.*

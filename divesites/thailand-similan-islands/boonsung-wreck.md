@@ -13,50 +13,53 @@ addedBy: osm_import
 
 ## Boonsung Wreck
 
-The Boonsung Wreck lies roughly 60 km north of Khao Lak in Phang Nga Province, Thailand — outside the Similan Islands National Park proper, but included on many northern Andaman liveaboard and day-trip itineraries as a complementary dive to the island sites. It is one of the most accessible and fish-rich wreck dives in Thailand.
+The Boonsung Wreck lies off the coast near Khao Lak, Phang Nga Province, Thailand — outside the Similan Islands National Park proper, but a common day-trip and liveaboard add-on dive. It is one of the most fish-dense wreck dives in Thailand, locally nicknamed "Fish Soup" for the density of marine life it has accumulated.
 
 ## Overview
 
-The Boonsung was a tin-mining dredger — a flat-bottomed industrial vessel used to extract tin ore from seabed sediments — that sank in the 1980s, reportedly during a storm. It is not a ships-prow wreck of the Truk Lagoon variety; the vessel has collapsed and spread across the seabed in a low-relief field of metal structure, machinery, and dredging equipment topped out at around 11 meters, sitting on a sandy bottom at 18–20 meters. The lack of dramatic vertical structure is more than compensated by the extraordinary fish life the wreck has accumulated over four decades of colonisation. It functions as an enormous fish-aggregation device, concentrating plankton, baitfish, and every level of the food chain above them. Whale shark sightings are a seasonal highlight — the massive fish schools attract juvenile and adult whale sharks that visit to feed on the concentrated biomass.
+The wreck is a former tin-mining dredger. Sources agree it dates from Thailand's mid-20th-century tin mining boom and was in service from around the 1950s. Its sinking date is not firmly established: operator sources variously give 1984, 1985, or "between 1983 and 1985, exact date not known" — this write-up treats the sinking as occurring in the early-to-mid 1980s rather than picking a single year. Sources also disagree on how the vessel was lost: several dive shop accounts repeat an anecdote that a flooded or malfunctioning toilet/bilge system caused it to swamp during rough seas, while at least one source instead describes it as deliberately scuttled — reportedly by the Thai Navy, out of concern that the intact structure sat too close to the surface for safe navigation. No verified account resolves this discrepancy, and neither version should be presented as established fact.
+
+Dimensions are also reported inconsistently: two independent sources (a Khao Lak dive-shop summary and IDC Phuket) both give approximately 40 meters long, 12 meters wide, and 6 meters high, which this write-up uses as the best-supported figures; other sources describe it as smaller (roughly 5 meters in height) or larger (around 60 meters long). The wreck sits on a flat sandy bottom at 18–20 meters, with its shallowest structure around 11–12 meters. The 2004 Indian Ocean tsunami broke the previously intact structure apart; sources differ on the resulting piece count (accounts range from four to six large sections), but agree the tsunami is what fragmented it into the scattered field divers see today.
+
+Whale shark sightings are reported here by multiple independent sources (khaolakscubaadventures.com and a separate operator/blog consensus), most commonly in the February–April window when fish schools are densest — this write-up uses that seasonal window rather than the original October–January estimate, which was not supported by the sources consulted.
 
 ## Site Information
 
-- **Location**: Phang Nga Province, Thailand (north of Khao Lak, outside National Park boundaries)
+- **Location**: Off the Khao Lak coast (Bangsak/Thap Lamu Pier area), Phang Nga Province, Thailand — outside National Park boundaries
 - **Entry Type**: day trip
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10–25 meters
-- **Current**: Light to moderate; can be stronger on open-water surface
-- **Best Time**: October to May
+- **Typical Visibility**: Reported highly variable — from near-zero to 20+ meters depending on conditions
+- **Current**: Light to moderate; can be stronger on the open-water surface crossing
+- **Best Time**: October to May; whale shark sightings most reported February–April
 
 ## Marine Life
 
-The signature encounter is the fish density — enormous schools of yellowtail fusiliers, glassfish, striped catfish, and snappers engulf the wreck structure entirely in certain seasons. These schools draw predators: batfish (orbicular and longfin) hover in the water column above the wreck; large pufferfish and porcupinefish graze on encrusted surfaces; lionfish perch among structural members. Whale sharks — primarily juveniles measuring 3–5 meters — are reliably sighted here in the October-to-January window when the fish schools are densest, making Boonsung one of the most accessible whale shark dive sites in Thailand. Giant moray eels inhabit the larger machinery sections. A resident group of bumphead parrotfish occasionally appears and makes its presence obvious from the crunching sound of coral-biting.
+The wreck's defining feature is fish density: schools of trevally, barracuda, snapper, and fusiliers are consistently reported by multiple sources. Also reported: large porcupinefish and pufferfish, lionfish, scorpionfish, several moray eel species (honeycomb, giant, white-eyed), sweetlips, cuttlefish, and nudibranchs. Leopard sharks are reported by at least one operator source. Whale sharks are reported by multiple independent sources as a seasonal (February–April) highlight, though sightings are opportunistic rather than guaranteed on any given dive.
 
 ## Dive Profile
 
-The wreck is shallow enough that the entire structure is diveable within open-water certification limits. Descend the mooring line to the top of the wreck at around 11 meters, then explore the spread of structure laterally before descending to the sand around the wreck perimeter at 18–20 meters. The flatness of the wreck means coverage is achieved by swimming circuits of the structure rather than working vertically. Bottom time is generous at this depth. Safety stop at 5 meters on the mooring line. Visibility inside the fish schools can be reduced to a few metres by the density of fish bodies — a disorienting but spectacular experience.
+The wreck's shallow depth (18–20 meters, with structure starting around 11–12 meters) keeps the entire site within open-water certification limits. Divers typically descend a mooring line to the wreck's upper structure, then work laterally across the scattered debris field. Two mooring lines are used to manage variable-visibility descents. Visibility inside dense fish schools can drop to a few meters purely from the volume of fish present.
 
 ## Entry and Exit
 
-Day-trip boat from Khao Lak (approximately 90 minutes by speedboat) or as a stop on longer liveaboard routes. Some liveaboards include it as the first or last dive of their Similan itinerary. Boat entry by giant stride or back roll; ascent on the mooring line.
+Day-trip boat from Khao Lak, or as a stop on longer liveaboard routes. Boat entry by giant stride or back roll; ascent on the mooring line.
 
 ## Tips and Recommendations
 
-- Schedule your dive for early morning on day-trip visits — the wreck is busiest mid-morning and the fish schools are thickest before boat traffic disturbs the water
-- Look up into the fish schools from the wreck surface rather than swimming into them, to experience the full visual effect
-- Whale sharks visit unpredictably; if one appears, stay neutral and observe from a distance rather than pursuing — harassing whale sharks is prohibited in Thailand
-- Carry a torch for illuminating the interior of machinery sections where moray eels and lionfish shelter
-- Buoyancy above the wreck is important — the silty sand bottom surrounding the structure stirs easily and can reduce visibility for other divers
+- Early-morning dives on day trips tend to find the fish schools thickest, before boat traffic and midday visitor numbers build
+- Whale sharks visit unpredictably; if one appears, stay neutral and observe from a distance — do not pursue or touch, per Thailand's marine wildlife etiquette rules
+- Carry a torch for the interior of collapsed machinery sections where moray eels and lionfish shelter
+- Because visibility here is reported as more variable than at the Similan Islands sites, confirm conditions with your guide before descending
 
 ## Safety Considerations
 
-The Boonsung is beginner-appropriate in terms of depth and topography — there are no penetration-worthy enclosed spaces and the maximum depth is well within open-water limits. The primary risks are surface current during zodiac transit and, occasionally, ocean swell on the open-water trip to and from the site. This is an offshore dive site and the nearest emergency services are in Khao Lak; always dive with a buddy and follow your guide's briefing carefully. Whale shark etiquette rules — no touching, no riding, minimum 3-metre distance — are enforced by guides.
+The wreck's shallow depth and open, collapsed structure mean there are no significant penetration hazards for recreational divers — this is not a site requiring wreck-penetration training. The primary risks are the open-water boat crossing and variable visibility. This is an offshore site; always dive with a buddy and follow your guide's briefing. If a whale shark appears, maintain the required minimum distance and do not touch or attempt to ride it.
 
 ## Photography
 
-The fish school scenes at the Boonsung are its signature photographic opportunity: wide-angle in the 10–15mm equivalent range, shooting upward through a school toward the surface light, creates dynamic wide-angle frames with good backlit silvery scatter. Whale sharks above the wreck with divers for scale are the prize image. Bring a strobe for the encrusted wreck metal close-ups — the combination of soft coral, machinery, and ambient fish colour is rich. Macro shooters will find lionfish, flatworms, and nudibranch species on the wreck structure.
+Wide-angle photography of the fish schools, shot upward toward the surface light, is the signature opportunity here. A strobe helps for close-ups of the encrusted wreck structure. Macro shooters can look for nudibranchs and small reef fish on the debris field.
 
 ---
-*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*
+*Sources: [Khao Lak Scuba Adventures](https://www.khaolakscubaadventures.com/divesite/boonsung-wreck), [IDC Phuket](https://www.idcphuket.com/scuba-diving/boonsong-wreck-khao-lak/), [Khao Lak Explorer](https://www.khaolakexplorer.com/diving-daytrips/khao-lak-wrecks-diving/), [Not Troubles Just Bubbles](https://www.notroublesjustbubbles.com/diving-destinations/thailand/boonsung-wreck), [Wetzone Divers](https://www.wetzonedivers.com/en/scuba-diving-khao-lak/divesites/boon-sung-wreck). Last updated 2026-07-05.*

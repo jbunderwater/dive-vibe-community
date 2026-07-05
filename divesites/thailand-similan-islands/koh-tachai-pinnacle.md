@@ -13,50 +13,50 @@ addedBy: osm_import
 
 ## Koh Tachai Pinnacle
 
-Koh Tachai Pinnacle is a remote submerged granite pinnacle near Koh Tachai island, roughly 70 km north of the main Similan Islands group in the Similan Islands National Park, Phang Nga Province, Thailand. It is one of the most challenging and rewarding liveaboard dives in the Andaman Sea.
+Koh Tachai Pinnacle is a celebrated granite dive site roughly 500 meters south of Koh Tachai island, between the Similan and Surin island groups, Similan Islands National Park, Phang Nga Province, Thailand.
+
+**Data-quality note:** Multiple independent operator sources (sunrise-divers.com, hobo-ya-similan.com, khaolakscubaadventures.com, and others surfaced via web search) describe "Koh Tachai Pinnacle," "Twin Peaks," and "The Dome" as alternate names used by different dive operators for the same physical site — two prominent pinnacles alongside a large dome-shaped central granite boulder — rather than three separate dive locations. This destination's dataset currently lists all three as distinct entries with distinct GPS coordinates a few hundred meters apart. That is very likely a duplicate-listing artifact rather than three genuinely different sites, and it has been flagged for maintainer review rather than merged or deleted in this pass. The description below reflects the corroborated facts about the site as a whole, applied consistently across all three entries, rather than inventing a distinct character for each name.
 
 ## Overview
 
-The pinnacle rises from depths exceeding 50 meters and tops out at around 12 meters below the surface. It sits fully exposed to open ocean current — when the Andaman swings on a strong tide, Koh Tachai Pinnacle can produce ripping current from multiple directions simultaneously, making it genuinely demanding even for experienced divers. When conditions align — moderate current, good visibility — the biomass can be extraordinary: spiraling tornados of chevron barracuda numbering in the thousands, schools of bigeye trevally dense enough to block the sun, and giant dogtooth tuna hunting the periphery. These aggregations are directly fueled by the current that also makes the site challenging. Occasional whale sharks and mantas appear when oceanic conditions bring in plankton-rich upwellings.
+The formation consists of two pinnacles and a dome-shaped granite boulder. The larger, southern pinnacle tops out at 12–14 meters and is capped with hard corals; a second, smaller pinnacle sits across a sandy saddle at around 24–25 meters, surrounded by large sea fans and coral gardens. The whole structure drops to a sandy bottom variously reported between 30 and 45 meters depending on the source and which flank is being described. Current here is consistently reported as strong and highly variable, sometimes running from multiple directions in the same dive.
 
 ## Site Information
 
-- **Location**: Similan Islands National Park, Phang Nga Province, Thailand
+- **Location**: ~500m south of Koh Tachai island, between the Similan and Surin island groups, Phang Nga Province, Thailand
 - **Entry Type**: liveaboard
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
 - **Typical Visibility**: 15–40 meters
-- **Current**: Very strong; highly variable
+- **Current**: Very strong; highly variable, can run from multiple directions
 - **Best Time**: November to May
 
 ## Marine Life
 
-Schooling species are the signature encounter: chevron barracuda (Sphyraena qenie) form wall-like schools of hundreds to thousands that spin in slow cyclones around the pinnacle top. Bigeye trevally aggregate in equally dense masses. Dogtooth tuna — powerful, fast pelagic predators — slash through the schools, occasionally causing explosive scatter-and-regroup behaviour that makes for spectacular watching. Whitetip reef sharks rest in crevices on the deeper faces. Grey reef sharks patrol current edges. Whale sharks are sighted multiple times per season, often while ascending from the deeper flanks. Hawksbill turtles and Napoleon wrasse are regular residents of the shallower zones.
+Sources consistently report: manta rays, occasional whale sharks (particularly in current-driven, plankton-rich conditions), giant and bigeye trevally, great barracuda (forming large schooling "tornadoes"), yellow-backed fusiliers, bannerfish, and hunting tuna. Between the rocks, banded sea snakes are reported, along with several moray eel species and lobsters in crevices. Smaller subjects reported include mantis shrimp, ghost pipefish, nudibranchs, and seahorses. One source additionally mentions nurse/leopard-type sharks resting near the formation, though this is less consistently corroborated than the schooling-fish and manta/whale shark reports.
 
 ## Dive Profile
 
-Most liveaboards attempt Koh Tachai Pinnacle only when current conditions are judged acceptable by the guide team. The standard approach is a down-current entry at depth (18–25 m), drifting with the flow along the pinnacle face while observing the schooling fish activity. The pinnacle crest at 12–15 m allows a prolonged safety stop in the schools if air allows. Divers should monitor depth carefully — the excitement of big animal action and strong current can produce inadvertent descent. A 5-minute safety stop is mandatory. Abort signals are pre-agreed with the dive guide.
+Liveaboards attempt this site only when current conditions are judged acceptable. The standard approach is a down-current entry at depth, drifting along the pinnacle face while observing schooling fish activity, with a prolonged shallow stop near the pinnacle crest (12–15m) if air and conditions allow.
 
 ## Entry and Exit
 
-Exclusively liveaboard access. Koh Tachai is a protected island with no commercial day-trip access. Liveaboards stage zodiacs and time the dive to tidal windows. Entry is zodiac-to-giant stride with an agreed drift direction. Surface pick-up requires a deployed SMB; the zodiac follows divers' bubbles or SMBs in open water.
+Exclusively liveaboard access — Koh Tachai has no commercial day-trip diving. Liveaboards time dives to tidal windows and stage zodiacs for entry, following an agreed drift direction given the current.
 
 ## Tips and Recommendations
 
-- Brief thoroughly with your guide on current direction and abort procedures before every dive here — conditions change quickly
-- Carry a reef hook; it can mean the difference between a comfortable stationary observation and an exhausting battle with current
-- A wide-angle setup captures the schooling spectacles; there is limited macro opportunity on this current-swept structure
-- If the guide calls the dive due to conditions, defer to the decision — this site has a well-earned reputation for difficulty
-- Nitrox is standard on liveaboards for the shallow crest work; it extends your time at 12–18 m considerably
+- Brief thoroughly with your guide on current direction and abort procedures before every dive here — conditions change quickly and can run from multiple directions
+- A reef hook, used on bare rubble, helps hold position to observe the schooling fish without fighting current
+- This is a wide-angle site — bring a fisheye or ultra-wide setup for the schooling barracuda and trevally; macro opportunity is limited given the current exposure
 
 ## Safety Considerations
 
-Koh Tachai Pinnacle demands genuine current-diving experience, not just Advanced certification. Divers who panic in strong current or have poor buoyancy control place themselves and others at risk. Unpredictable current reversals can push divers off the pinnacle into open water. Always dive with a deployed or immediately deployable SMB. Discuss emergency procedures with your liveaboard guide team — they will have protocols for picking up separated divers. Blue-water ascents (away from the pinnacle) should be performed on a descent/ascent line deployed from the zodiac if current is running.
+This site demands genuine current-diving experience beyond baseline Advanced certification. Current reversals can push divers off the formation into open water; always dive with a deployed or immediately deployable SMB and agree on abort/pickup procedures with your guide before entering.
 
 ## Photography
 
-The schooling barracuda and trevally offer some of the most dramatic wide-angle action in Thai waters. A fisheye or ultra-wide lens captures the scale of the schools; use fast shutter speeds (1/200 or higher) to freeze individual fish in a blur of motion across the frame. In good visibility the schools silhouette against lighter water from below. Whale shark encounters at this site tend to be brief and current-driven, so large depth-of-field and fast autofocus response are priorities.
+The schooling barracuda and trevally are the site's signature wide-angle subject — a fisheye or ultra-wide lens with a fast shutter speed captures the scale and motion of the schools.
 
 ---
-*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*
+*Sources: [Sunrise Divers](https://www.sunrise-divers.com/dive-sites/koh-tachai-pinnacle/), [Khao Lak Scuba Adventures](https://www.khaolakscubaadventures.com/divesite/koh-tachai-the-dome), [Hobo-ya Similan](https://hobo-ya-similan.com/en/similan/divesite/twinpeaks.html), [Divezone](https://divezone.net/divesite/ko-tachai), [Big Blue Diving Khao Lak](https://www.bigbluedivingkhaolak.com/dive-site/koh-tachai-pinnacle/). Last updated 2026-07-05.*

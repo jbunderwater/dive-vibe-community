@@ -13,50 +13,50 @@ addedBy: osm_import
 
 ## Anita's Reef
 
-Anita's Reef is a sloping coral reef on the southern side of Island 5 in the Similan Islands National Park, Phang Nga Province, Thailand. Named after a diver — a tradition at several Similan sites where sites were informally christened by early liveaboard guides and divemasters — it is one of the Similans' most accessible intermediate dives.
+Anita's Reef is a gently sloping coral reef and boulder site on the east coast of Similan Island 5, Similan Islands National Park, Phang Nga Province, Thailand. It is one of the most popular check-out and easy dives in the Similans — but as of the most recent operator reports, it is currently **closed to diving** as part of the park's coral-protection measures.
 
 ## Overview
 
-The site combines a gently sloping hard coral reef with scattered boulder formations, beginning in shallow sandy water around 5 meters and descending to a sand and rubble bottom at 28 meters. The relatively modest maximum depth and generally calm conditions on this sheltered aspect make Anita's Reef well-suited to intermediate divers building confidence, as well as to experienced divers who want a relaxed second or third dive without the commitment of a boulder or pinnacle site. Hard coral diversity is high: brain corals, lettuce corals, table Acropora, and barrel sponges share the slope. Soft coral development is moderate compared to more current-swept sites.
+**Current status: closed.** Multiple 2025–2026 sources (divehappy.com, thailanddiveandsail.com) report Anita's Reef as one of several signature Similan sites currently closed to allow coral recovery, alongside East of Eden. No source found confirms a reopening date. Divers planning a Similans trip should confirm current site access with their operator before expecting to dive here.
+
+When open, the site is a gentle sandy slope on Island 5's east coast, mixing coral bommies with scattered granite boulders and table and staghorn coral growth. A large coral bommie on the southeast side is the site's centrepiece, drawing photographers for its cover of soft and hard corals and large sea fans. Currents are typically mild, which is why it has traditionally been used as a check-out or first dive on liveaboard itineraries.
 
 ## Site Information
 
-- **Location**: Similan Islands National Park, southern aspect of Island 5, Phang Nga Province, Thailand
+- **Location**: East coast of Similan Island 5, Similan Islands National Park, Phang Nga Province, Thailand
 - **Entry Type**: liveaboard
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Light to moderate
-- **Best Time**: November to May
+- **Best Time**: November to May (site currently closed — confirm access before planning a visit)
 
 ## Marine Life
 
-Sea turtles — primarily hawksbill — are regular visitors, grazing on sponges and soft corals across the mid-slope. Whitetip reef sharks rest on sandy patches at the reef base and in crevices between coral heads. Moray eels (giant and honeycomb species) inhabit the coral matrix throughout. Schools of glassfish (Atherinomorus) fill certain overhangs in the boulder sections, attended by lionfish and twinspot snappers. Cuttlefish are commonly encountered hovering over the reef, and are often unusually comfortable with diver presence. Frogfish (various species, seasonally) are found on sponges and rubble slopes. Nudibranchs of multiple species appear on encrusted boulder surfaces throughout.
+Sources describing this site specifically report lionfish, Oriental sweetlips, clown triggerfish, bluefin trevally, and garden eels on the sandy slope, along with Kuhl's stingrays (similandivingtours.com). No site-specific source confirms turtles, whitetip sharks, cuttlefish, or frogfish at Anita's Reef by name — those species are commonly reported at nearby Similan sites in general, but attributing them specifically to Anita's Reef would go beyond what the available sources support.
 
 ## Dive Profile
 
-A straightforward drift along the slope, beginning in the shallows and working progressively deeper to the 20–28 m sand base before ascending back over the reef. The mid-slope (10–18 m) is the most productive zone for turtle, moray, and cuttlefish sightings. The shallow reef crest (5–8 m) is excellent for the safety stop and final exploration of the hard coral garden in good ambient light.
+A gentle slope dive beginning in shallow sand and working across the bommie field toward the deeper sand base. The large southeast bommie is the focal point of most dive plans and is typically visited mid-dive.
 
 ## Entry and Exit
 
-Liveaboard and occasional day-trip access from Khao Lak. Conditions on this aspect are generally more benign than the west-facing sites, and zodiac operations are typically straightforward.
+Liveaboard access with zodiac, when the site is open. Conditions on this eastern aspect are typically calmer than the archipelago's west-facing sites.
 
 ## Tips and Recommendations
 
-- Slow down and scan methodically — this site rewards careful looking over rapid movement; frogfish and cuttlefish are easy to miss
-- The sand slope at the base of the reef often has garden eels retreating into their tubes as you approach — observe from a few metres above to see them extended
-- Cuttlefish at this site are often curious and will hover close to divers; avoid sudden movements that trigger their escape reflex
-- An excellent site for practising buoyancy over a coral slope without the pressure of strong current or surge
-- Night dives at sites like this reveal Spanish dancer nudibranchs, octopus hunting on the reef surface, and sleeping parrotfish in mucus cocoons
+- Check with your operator on current park access rules before including this site in a trip plan — it has been reported closed through the 2025–2026 season
+- If reopened, the southeast bommie is the site's signature feature and worth prioritising
+- Garden eels retreat into their sand burrows as divers approach — observe from a few metres above to see them extended
 
 ## Safety Considerations
 
-Anita's Reef is among the more forgiving sites in the Similans. Current is rarely strong and surge is minimal. The main hazards are inadvertent depth creep on the slope and contact with the reef due to inattentive buoyancy. Keep at least 1 metre clearance from all coral structures. Always carry an SMB.
+No site-specific hazard information beyond standard Similan conditions (light to moderate current, sandy slope) was found in available sources. Always carry an SMB and dive within your certification limits.
 
 ## Photography
 
-A versatile site for both wide-angle and macro. Hard coral tableaux with ambient light make strong wide-angle subjects in the 8–15 m range. Cuttlefish portraits — especially close-focus images emphasising the iridescent chromatophore patterns — are a highlight. Frogfish on sponges require a 60mm or 100mm macro. Turtle sightings at close range in good ambient light are best shot without strobe to preserve the natural colour balance of the warm-lit shallow reef.
+The southeast bommie, with its sea fans and coral cover, is the site's best-documented photographic subject. No further site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*
+*Sources: [Similan Diving Tours](https://www.similandivingtours.com/dive-sites/similan-islands), [Dive The World](https://www.dive-the-world.com/diving-sites-thailand-similan-islands.php), [Dive Happy](https://divehappy.com/diving-similan-islands-quick-guide/), [Thailand Dive and Sail](https://thailanddiveandsail.com/similan-diving-news/). Last updated 2026-07-05.*

@@ -8,7 +8,7 @@ Pristine reefs with whale sharks, manta rays, and crystal-clear waters.
 
 ## Description
 
-Thailand Similan Islands is a notable diving destination in the Asia region, offering diverse dive sites with depths ranging from 20 to 20 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Thailand Similan Islands is a notable diving destination in the Asia region, offering dive sites ranging from sheltered coral reefs to current-swept granite pinnacles and boulder formations. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). **The Similan Islands National Park is closed annually from mid-May to mid-October for the monsoon season and ecosystem recovery** — diving here is only possible from roughly mid-October to mid-May, not year-round as previously stated. Several signature sites (East of Eden, Anita's Reef, and reportedly Fantasea Reef) are additionally reported closed for coral conservation as of the most recent operator reports; confirm current site-level access with your operator.
 
 ### Diving Opportunities
 
@@ -33,10 +33,10 @@ Thailand Similan Islands is a notable diving destination in the Asia region, off
 
 ## Additional Information
 
-- **Best Time to Visit**: October to April (varies by location). Diving is possible year-round.
+- **Best Time to Visit**: Mid-October to mid-May, when the national park is open. The park is closed to all visitors mid-May to mid-October each year for the monsoon season.
 - **Currency**: Thai Baht (THB)
 - **Language**: Thai
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*
+*Sources: [Dive Happy - Diving Similan Islands Quick Guide](https://divehappy.com/diving-similan-islands-quick-guide/), [Thailand Dive and Sail](https://thailanddiveandsail.com/similan-diving-news/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/). Last updated 2026-07-05.*

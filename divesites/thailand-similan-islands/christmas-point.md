@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Christmas Point
 
-Christmas Point marks the northwest tip of Island 9 (Koh Bangu) in the Similan Islands National Park, Phang Nga Province, Thailand. It is one of the classic advanced boulder dives in the Similans, known for its concentration of encrusting soft corals and accessible swimthrough passages.
+Christmas Point marks the northwest tip of Similan Island 9 in the Similan Islands National Park, Phang Nga Province, Thailand. It is a well-known granite boulder dive built around a distinctive arch-like swim-through.
 
 ## Overview
 
-The site is fully exposed on the northwest headland, which means it receives the full force of the Andaman's prevailing swell and tidal currents during certain parts of the season. Giant granite boulders tumble from the shoreline down to 40 meters on the outer face, creating numerous swimthroughs and overhanging chambers. The most distinctive feature is the extraordinary density of purple and pink soft corals (primarily Dendronephthya species) that carpet the boulder surfaces — in good conditions and ambient light, the coloration makes this one of the most photogenic sites in the archipelago. Sea fans (gorgonians) grow across current-swept faces, oriented to feed on passing plankton.
+Large stacked granite boulders run from the island's shoreline down to 35–40 meters, forming arches, gullies and swim-throughs, including a signature arch-shaped swim-through at around 24 meters (similandivingtours.com, khaolakscubaadventures.com). Operator ratings for the site vary: several describe it as intermediate-to-advanced with average currents that can turn strong at certain times of the tidal cycle, while others rate it straightforwardly advanced given its depth and occasional current. This entry keeps the existing Advanced rating given the site's depth range and current variability, while noting that conditions are frequently moderate.
 
 ## Site Information
 
-- **Location**: Similan Islands National Park, northwest tip of Island 9, Phang Nga Province, Thailand
+- **Location**: Northwest tip of Similan Island 9, Similan Islands National Park, Phang Nga Province, Thailand
 - **Entry Type**: liveaboard
 - **Site Type**: Boulder
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15–35 meters
-- **Current**: Moderate to strong; west-facing exposure
+- **Typical Visibility**: 10–30 meters
+- **Current**: Average, but can run strong at certain points in the tidal cycle, typically southwest–northeast
 - **Best Time**: November to May
 
 ## Marine Life
 
-Leopard sharks rest in sandy pockets between the lower boulders (20–35 m), often in pairs or small groups. Whitetip reef sharks shelter in crevices through the day and become more active toward dusk. Sea fans at 15–25 m host longnose hawkfish perched at the fan tips — small, secretive, and worth the slow look. Giant moray eels inhabit cracks throughout the site. Turtles feed on soft coral polyps on the boulder faces. Schools of glassfish fill certain overhangs, with lionfish hovering just below the mass. Blue-ringed angelfish and regal angelfish are regularly seen on mid-depth boulder faces.
+Sources report leopard sharks, whitetip and blacktip reef sharks, batfish, moray eels, snappers, barracuda, triggerfish, surgeonfish, and unicornfish at this site, along with soft corals, nudibranchs, and ribbon eels (khaolakscubaadventures.com, similandivingtours.com, hobo-ya-similan.com). This is a broader and somewhat different list than previously published here; species not corroborated by these sources (longnose hawkfish, blue-ringed/regal angelfish) have been removed rather than carried over unverified.
 
 ## Dive Profile
 
-A typical dive begins on the deeper outer boulders (25–35 m), where the swimthroughs and most prominent sea fan growth are located. Divers work upward and inward through the formation, passing through swimthroughs of varying size — some large enough for two divers abreast, others tight single-file passages. The shallower zones (8–15 m) have good soft coral coverage and are used for the second half of the dive. Safety stop is conducted in the sheltered channel between the boulders and the island if current conditions permit.
+Most dive plans work the boulder formation from deeper water up through the arch-shaped swim-through at around 24 meters, then continue into shallower boulder terrain. Guides typically brief the swim-through route before descent given its popularity as the site's signature feature.
 
 ## Entry and Exit
 
-Liveaboard access from moored or anchored vessel. Day-trip boats from Khao Lak occasionally reach Island 9 on longer trips. Zodiac entry; the northwest exposure means boat handling can be tricky in any northerly swell, and guides may redirect to an alternative entry point if wave action is significant.
+Liveaboard access via zodiac. The northwest exposure means entry and exit can be affected by swell; guides may adjust the dive plan or site choice if conditions are poor.
 
 ## Tips and Recommendations
 
-- Visit this site on a morning dive when sunlight angles into the boulder formation from the northeast — the soft coral colours are dramatically enhanced
-- A dive torch is valuable for illuminating swimthrough interiors and the underside of overhangs where Dendronephthya colonies grow thickest
-- Move deliberately; the soft corals are fragile and a fin kick against an encrusted boulder surface causes disproportionate damage
-- Longnose hawkfish on the sea fans are small and cryptic — scan fan branches carefully at 15–20 m
-- Strong photographers should bring both wide-angle (for boulder architecture and soft coral walls) and a dioptre for close-focus work on hawkfish and nudibranchs
+- The arch-shaped swim-through at ~24 meters is the site's best-known feature — expect to transit it as part of most dive plans
+- Current strength varies with the tidal cycle rather than being uniformly strong — ask your guide about the day's conditions before the dive
+- Ribbon eels and ghost pipefish, when present, are typically found in crevices along the boulder faces — watch for them at a measured pace rather than rushing the swim-through
 
 ## Safety Considerations
 
-The northwest exposure makes Christmas Point the site most likely to be called off in the Similans if northerly swell is running. Surge in the swimthroughs can be significant and is particularly dangerous for divers who are not fully neutrally buoyant. The current on the outer face can push divers off the formation into blue water — stay close to the boulders and have your SMB ready. Advanced certification and demonstrated current experience are the baseline requirement.
+Current can strengthen unpredictably at this site depending on tide, and the northwest exposure can bring swell. Divers should be comfortable with variable current and maintain contact with the boulder formation rather than drifting into open water unintentionally. Advanced certification is recommended given the depth range and current variability.
 
 ## Photography
 
-Christmas Point delivers some of the best coral colour photography in Thailand. Soft coral density is high enough to fill a wide-angle frame from close range. Shoot with strobe positions at 45 degrees to avoid backscatter against the purple Dendronephthya; underexpose the ambient background slightly to saturate the coral colours. Sea fans with hawkfish require a 60mm or 100mm macro lens with good close-focus. For swimthrough architecture, bracket exposures — the interior of a swimthrough and the blue-lit exit cannot be captured in a single exposure without HDR technique.
+The arch-shaped swim-through is the standout composition here, with divers silhouetted against the exit light. Wide-angle setups suit the boulder architecture; a torch helps illuminate ribbon eels and other crevice-dwelling subjects for macro work.
 
 ---
-*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*
+*Sources: [Khao Lak Scuba Adventures](https://www.khaolakscubaadventures.com/divesite/christmas-point), [Similan Diving Tours](https://www.similandivingtours.com/dive-sites/similan-islands/christmas-point), [Aussie Divers Phuket](https://www.aussiediversphuket.com/similan-islands/dive-site/christmas-point/), [IDC Phuket](https://www.idcphuket.com/scuba-diving/christmas-point-island-9/), [Hobo-ya Similan](https://hobo-ya-similan.com/en/similan/divesite/christmaspoint.html). Last updated 2026-07-05.*

@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Deep Six
 
-Deep Six occupies the western face of Island 7 (Koh Similan) in the Similan Islands National Park, Phang Nga Province, Thailand. Like other west-coast sites in the archipelago, it is boulder-dominated, current-exposed, and significantly more demanding than the equivalent east-coast reef dives on the same islands.
+Deep Six sits off the north point of Similan Island 7 (Koh Payu), in the Similan Islands National Park, Phang Nga Province, Thailand. The name is a historical holdover: Koh Payu was originally numbered Island 6 before a 1980s renumbering (which required islands to have their own vegetation) made it Island 7 — the dive site kept its old "Six" name (idcphuket.com, diving-thailand-phuket.com search consensus).
 
 ## Overview
 
-The site features large granite boulders running from the surface down to beyond 40 meters on the seaward face. The west side of Island 7 receives the Andaman swell directly, creating surge conditions that push through the boulder channels and require confident buoyancy control. At depth, the boulders give way to sandy gullies where leopard sharks are a consistent feature. The dramatic granite architecture — overhangs, swimthroughs, and stacked formations — combined with strong current makes this site feel noticeably wilder than the east coast sites. It is dived primarily in settled conditions and rarely attempted in northwesterly swell.
+The site is a V-shaped boulder formation with large granite boulders, swim-throughs, and a notable feature referred to by operators as "The Living Room." Deep dives here typically run 30–40 meters (idcphuket.com, rayadivers.com). This corrects the site's previously stated location (western face of Island 7) — sources consistently place it at the north point.
 
 ## Site Information
 
-- **Location**: Similan Islands National Park, west side of Island 7, Phang Nga Province, Thailand
+- **Location**: North point of Similan Island 7 (Koh Payu), Similan Islands National Park, Phang Nga Province, Thailand
 - **Entry Type**: liveaboard
 - **Site Type**: Boulder
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–35 meters
-- **Current**: Moderate to strong; surge possible
+- **Current**: Moderate to strong
 - **Best Time**: November to May
 
 ## Marine Life
 
-Leopard sharks rest on sandy patches and in sheltered gullies between the deeper boulders (18–30 m) — one of the more reliable leopard shark sites in the Similans. Whitetip reef sharks are common throughout. Schools of barracuda and trevally hold position in the current above the boulder field. Large Napoleon wrasse patrol the mid-depth zones. On encrusted boulder surfaces: various nudibranchs, flatworms, and ornate ghost pipefish (seasonally in seagrass patches near the base of the formation). Hawksbill turtles feed on the boulder faces throughout the dive.
+Sources report whitetip reef sharks, leopard sharks, and stingrays in the deeper sand areas, along with giant trevally, dogtooth tuna, rainbow runners, and large schools of fusiliers (idcphuket.com). This replaces the previous marine-life list, which included Napoleon wrasse and ghost pipefish not corroborated by the sources reviewed in this pass; those have been removed rather than carried forward unverified.
 
 ## Dive Profile
 
-The dive typically begins at depth on the outer boulder face (25–35 m) where the leopard sharks are found. Divers work back through the boulder field via swimthroughs, ascending progressively as the dive plan dictates. The shallower zone (8–15 m) at the upper formation offers surge-driven action and encrusted boulder surfaces. The safety stop is conducted in open water or against the formation if current allows. Surge in the swimthroughs means this site requires greater finesse than its east-coast equivalent.
+Deep dives here explore the boulder field down to 30–40 meters, where leopard sharks and stingrays are most reliably found in sandy pockets. "The Living Room" — a named overhang/chamber feature reported by operators — is typically visited as part of the standard route. Divers ascend through the boulder swim-throughs as the dive progresses.
 
 ## Entry and Exit
 
-Liveaboard access only; the crossing from Khao Lak to Island 7 is standard on most multi-day itineraries. The western exposure means zodiac entry and exit must be timed to conditions — guides may redirect to the east side of Island 7 (East of Eden) if the west is untenable. When conditions are good, entry is straightforward giant stride and descent along the mooring line.
+Liveaboard access only. Zodiac entry with giant stride; guides adjust the exact entry point based on current conditions at the north point.
 
 ## Tips and Recommendations
 
-- Treat this site as a current/surge dive requiring active buoyancy management throughout — do not attempt if you are not comfortable with the conditions
-- Sandy gullies at the base of the deeper boulders (20–30 m) are the best leopard shark habitat; scan carefully as they blend into the sand
-- Surge through swimthroughs is manageable with a slow, controlled approach — pause at the entrance, time the surge cycle, and pass through on the outflow
-- A dive torch illuminates the interior of overhangs where soldierfish school in tight groups
-- If this is your first time here, follow the guide closely — the boulder topology varies and the west face navigation is not immediately intuitive
+- Scan sandy pockets in the deeper boulder gaps carefully for resting leopard sharks — they blend into the substrate
+- Ask your guide to point out "The Living Room" feature, a named overhang reported by several local operators
+- Watch for dogtooth tuna and rainbow runners hunting at the edge of the fusilier schools in the current
 
 ## Safety Considerations
 
-Surge is the defining hazard at Deep Six. A diver who misjudges a swimthrough entry during surge can be pinned against boulder surfaces. Abort swimthrough passages in heavy surge and navigate around the exterior instead. Current on the outer face can push divers off the formation; maintain contact with the boulders and ascend before air reserves drop to the abort threshold. Minimum Advanced certification with demonstrated surge experience.
+Current and depth are the defining hazards here — this is a genuine deep, current-exposed boulder dive requiring Advanced certification and comfort with drift conditions. Maintain contact with the formation and monitor no-decompression limits carefully given the 30-40m working depth.
 
 ## Photography
 
-The boulder architecture is suited to wide-angle with a diver for scale. Leopard shark portraits require patience and a slow approach — descend to the sand level before the shark's position rather than approaching from above. Surge-driven water motion can cause camera movement during macro attempts; consider 1/200 or faster shutter speeds when shooting small subjects on encrusted surfaces. The overhangs at 8–12 m, filled with glassfish and lit by strobe, are a classic Similan wide-angle composition.
+Wide-angle compositions of the boulder architecture with a diver for scale work well here. Leopard shark portraits require a slow, low approach from the sand level. Fast-moving pelagics (tuna, trevally) reward a wide field of view and quick shutter response.
 
 ---
-*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*
+*Sources: [IDC Phuket](https://www.idcphuket.com/scuba-diving/deep-six-island-7/), [Raya Divers](https://rayadivers.com/pages/divesites-similan-6-7), [Divezone](https://divezone.net/divesite/deep-six), [Diving Thailand Phuket](https://www.diving-thailand-phuket.com/similan-islands/). Last updated 2026-07-05.*
