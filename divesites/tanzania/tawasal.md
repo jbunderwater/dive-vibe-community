@@ -13,49 +13,33 @@ addedBy: osm_import
 
 ## Tawasal
 
-Tawasal is a wreck dive in the waters of northern Tanzania near Mombasa/Kenya border, associated with the Tanzanian coastal region around Tanga, where the MV Tawasal — a small coastal cargo dhow or supply vessel — rests on the seabed and has become colonized by coral and fish over years of submersion.
+## DATA INTEGRITY NOTICE — GEOGRAPHIC MISMATCH: THIS SITE IS NOT IN TANZANIA
 
-## Overview
+**This record's coordinates (-2.2579059, 40.9093621) do not belong in the Tanzania destination file and should not be treated as a validated Tanzania dive site.** They sit almost exactly on Manda Island / the Lamu Archipelago in Lamu County, **Kenya** — roughly 250 km north of Tanzania's northernmost coastal point near the Kenya border (around -4.6°S, Horohoro/Tanga). The underlying OpenStreetMap record itself (way id 666532608, `historic=wreck`) carries the description: **"A wreck of the dhow 'Tawasal,' formerly owned by the Tawasal Institute of Lamu, located on Manda Island in Lamu County, Kenya."** This is the object's own source description, not an inference from coordinates alone — it directly states Kenya. This appears to be a data-import error where a Kenyan wreck near the Lamu/Kiunga area was swept into the Tanzania dataset because the destination's bounding box in `destinations.json` extends far enough north (to cover Zanzibar/Pemba) that it also captured this unrelated Kenyan coordinate.
 
-Smaller wooden and steel coastal vessels that have sunk in Tanzania's northern waters provide intimate wreck diving experiences compared to large cargo ship wrecks. The Tawasal sits at a maximum depth of 20 meters, with the top of the structure accessible at shallower depths, allowing a comfortable dive profile for intermediate divers. The wreck's wooden elements have partially deteriorated but the structural form remains recognizable, draped in encrusting corals and colonized by a permanent resident community of fish.
+**Recommendation: remove this record from the Tanzania destination, or relocate it to a Kenya destination file if one exists or is created. Do not mark `validated="true"` for this record under the Tanzania destination, regardless of how well-documented the wreck itself turns out to be — the jurisdiction/location problem is disqualifying on its own.** The remainder of this page is retained only for the record of what could be found about the wreck itself, in case that research is useful if/when the site is relocated to the correct country file.
 
-## Site Information
+## What is known about the wreck itself
 
-- **Location**: Northern Tanzania coast (Tanga region)
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Moderate
-- **Best Time**: October to March
+Research specifically targeting "Tawasal wreck," "Tawasal Lamu," "Tawasal Kenya dive," and "Tawasal dhow wreck" turned up no secondary sources (no ScubaBoard threads, dive-operator listings, or news coverage) describing this wreck. The only source found is OSM's own object description quoted above, which is a single, unverified, uncited claim — it does not meet the 2+ independent source bar this project requires for historical/vessel facts, so per the anti-hallucination policy no build date, tonnage, dimensions, or cause of sinking can be reported. What OSM's description gives us:
+
+- It is a **dhow** (traditional East African/Arabian coastal sailing vessel), not a large cargo ship
+- Name: **Tawasal**
+- Reported former owner: "the Tawasal Institute of Lamu" (unverified elsewhere)
+- Location: Manda Island, Lamu Archipelago, Lamu County, Kenya
+- OSM tags mark it `wreck:visible_at_high_tide=yes` and `wreck:visible_at_low_tide=yes` (hull visible above water at all tide states) and `seamark:wreck:category=hull_visible`
+
+General background (not Tawasal-specific, offered only as regional context): the Lamu Archipelago and adjoining Kiunga Marine National Reserve are a known area for historic dhow activity and reef/wreck diving, with Kiwayu, Manda Toto, and Pate islands cited as established dive/snorkel spots, though no source found ties Tawasal specifically into that operator ecosystem.
+
+## Site Information (unverified, and out of scope for Tanzania regardless)
+
+- **Location**: Manda Island, Lamu County, Kenya — not Tanzania
+- **Site Type**: Wreck (dhow) — this part of the classification is consistent with the OSM description
+- **Depth/difficulty/entry type/visibility/current**: No independent source found; carried over unverified from the existing dataset and not to be relied on
 
 ## Marine Life
 
-Wreck habitats in East African waters typically develop dense populations of resident groupers, lionfish, and schools of cardinalfish and glassfish sheltering in the superstructure. The Tawasal has accumulated encrusting growth of cup corals, sponges, and algae across its surfaces. Batfish — recognizable by their disc-shaped bodies and long trailing fins — often congregate around the superstructure. Moray eels inhabit the most enclosed areas. At depth, the wreck attracts reef sharks in the late afternoon.
-
-## Dive Profile
-
-Descend to the bow or stern (whichever the guide prefers for entry) and systematically work around the exterior at the deepest level first, noting all accessible openings and interesting features. Ascend through mid-deck height before finishing with a circuit of the highest accessible point. Reserve adequate air for the 5-meter safety stop before surfacing.
-
-## Entry and Exit
-
-Boat access from local operators in the Tanga area. The wreck may have a mooring buoy — descend the line to the structure rather than free-falling. Current on the seabed level can be noticeable; plan your survey route to work with rather than against the prevailing flow.
-
-## Tips and Recommendations
-
-- Carry a dive torch even in good visibility conditions — the interior spaces require illumination to see resident species clearly
-- Do not attempt wreck penetration without appropriate certifications and equipment
-- Silt accumulates inside the wreck and is easily disturbed — maintain careful buoyancy throughout
-- Ask the guide about any recently observed unusual species — wrecks in East Africa attract transient pelagic visitors
-
-## Safety Considerations
-
-Intermediate wreck diving hazards apply — potential for silting up interior views, disorientation if entering without proper training, and entanglement from fishing line occasionally snagged on the structure. Stay external unless wreck-certified. Monitor NDL and air supply carefully at 20 meters, where bottom time is more limited than shallower sites.
-
-## Photography
-
-The wreck structure provides excellent wide-angle photography subjects with natural light from above illuminating the upper sections dramatically. Macro photography of the encrusted surfaces reveals nudibranchs, commensal crabs, and small invertebrates visible only under close examination. Batfish portraits at the bow or stern are classic wreck photography subjects.
+No source confirms any marine life specific to this wreck. The previous version's claims (lionfish, batfish, moray eels, reef sharks) were generic wreck-diving boilerplate, not site-specific findings, and have been removed rather than replaced with new speculation. Per policy, wreck penetration is never to be described as "safe" regardless of location, and no penetration guidance is offered here.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [OpenStreetMap way 666532608 — "Tawasal"](https://www.openstreetmap.org/way/666532608) (primary source for the Kenya/Manda Island identification). No independent secondary source corroborating the wreck's history was found; per the 2+ source rule for historical claims, no vessel history beyond the above is reported. Last updated 2026-07-05.*

@@ -13,49 +13,48 @@ addedBy: osm_import
 
 ## Baixo Techantia
 
-Baixo Techantia is a coral reef shoal located south of Mafia Island in Tanzania's Mafia Island Marine Park, positioned in the productive waters between Mafia Island and the Tanzanian mainland coast near Kilwa.
+**Data integrity flag: this site's coordinates place it in Mozambique, not Tanzania.** "Baixo" is Portuguese for "shoal/reef," consistent with the Portuguese-influenced place names of the Cabo Delgado coast. A geographic name database (GNS, via Wikidata) lists "Baixo Techantia" as a reef in **Cabo Delgado Province, Mozambique**, at 11°55'06"S, 40°34'27"E — within roughly 1km of this entry's recorded coordinates (-11.923208, 40.5715638). This is well south of the Tanzania-Mozambique coastal border at the Ruvuma River mouth (approximately 10.5°S), placing the feature inside Mozambican territorial waters, not Tanzania's. It technically falls within the destination config's broad bounding box for "Tanzania" (`destinations.json`, lat -12.0 to -1.0) only because that box's southern edge follows the inland Tanzania-Mozambique land border rather than the coastline, which bends further north.
+
+No dive-specific source (operator, guidebook, ScubaBoard, or forum) was found describing this reef as an active dive site under any name in this research pass — searches for Mafia Island, Kilwa, and Mtwara-area operators did not surface it, which is consistent with it being outside Tanzania's dive-tourism area entirely.
 
 ## Overview
 
-This outer reef formation lies in waters influenced by the nutrient-laden outflow of the Rufiji River delta to the north, which enriches the Mafia Channel and supports extraordinary marine biodiversity. The reef top starts around 5 meters and slopes gently to the maximum depth of 20 meters. The combination of relatively calm conditions and nutrient-rich water produces dense coral coverage across the entire reef profile, with particularly impressive soft coral and sea fan development on the deeper sections.
+Given the above, this entry should be reviewed for removal from the Tanzania destination or relocation to a Mozambique destination file, rather than validated as a Tanzania dive site. No site-specific research (depth profile, marine life, conditions) could responsibly be conducted for this entry, since doing so would implicitly treat it as a real, findable Tanzania dive site, which it does not appear to be.
 
 ## Site Information
 
-- **Location**: South Mafia Channel, Mafia Island Marine Park, Tanzania
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-20 meters (33-65 feet)
-- **Current**: Moderate
-- **Best Time**: October to March (clearest water, whale shark season)
+- **Location**: Cabo Delgado Province, Mozambique (not Tanzania — see data integrity flag above)
+- **Entry Type**: Not independently confirmed
+- **Site Type**: Not independently confirmed as a dive site at all
+- **Difficulty Level**: Not independently confirmed
+- **Maximum Depth**: Not independently confirmed
+- **Current**: Not independently confirmed
+- **Best Time**: Not independently confirmed
 
 ## Marine Life
 
-The southern Mafia Channel sees regular whale shark sightings between October and March, and this outer reef location provides good surface scanning opportunities. Beneath the surface, the reef supports large populations of snappers, fusiliers, and surgeonfish. Reef sharks and eagle rays patrol the outer slope, and the sandy bottom at depth hosts stingrays and flatfish. The dense soft coral growth shelters shrimp, crabs, and nudibranchs for macro photographers.
+No species can be confirmed for this location as a dive site. Earlier drafts of this page described whale shark season, reef sharks, eagle rays, and soft coral/sea fan development as if confirmed for this exact reef and as if it were part of the Mafia Island Marine Park — neither claim was corroborated, and the Mafia Island Marine Park association is geographically wrong (Mafia Island is roughly 450km north of this coordinate). These claims have been removed rather than repeated.
 
 ## Dive Profile
 
-A gentle slope from reef top to maximum depth makes navigation straightforward. Start deep at 18-20 meters to explore the richer coral development on the outer slope, then work back up through the mid-reef zone at 10-15 meters before finishing in the shallows. The soft corals and sea fans at depth are the highlight — take time to look at the invertebrate life associated with them.
+Not applicable pending resolution of the location/inclusion issue above.
 
 ## Entry and Exit
 
-Boat access from Mafia Island (typically from Utende or from liveaboard vessels operating in the marine park). Travel time varies from 45 minutes to 90 minutes depending on origin point. Confirm weather windows with the operator as conditions in the southern channel can deteriorate quickly with southerly winds.
+Not applicable pending resolution of the location/inclusion issue above.
 
 ## Tips and Recommendations
 
-- The southern Mafia Channel can be rougher than northern sites — a seasickness remedy is wise if you are susceptible
-- Carry a torch even for daytime dives; the soft coral overhangs shelter interesting cryptic species
-- Ask your operator about whale shark activity in the area before diving — a snorkel session may be possible
-- Marine park rules prohibit touching corals and feeding fish — briefings are enforced by park rangers on some boats
+- This entry needs a data-integrity decision (remove from Tanzania, or re-file under a Mozambique destination) before further content work is worthwhile
+- If kept, do not describe it using Mafia Island / Rufiji Delta context, which does not apply to this location
 
 ## Safety Considerations
 
-More exposed than inshore Mafia sites, Baixo Techantia should only be dived in favorable conditions. Verify sea state before departure. Moderate currents can intensify with tidal changes, so brief carefully on abort procedures. Always carry an SMB and deploy it before ascending.
+Not applicable pending resolution of the location/inclusion issue above.
 
 ## Photography
 
-The combination of healthy soft corals at depth and pelagic activity above the reef creates opportunities for both macro and wide-angle photography. The sea fans at 15-20 meters provide excellent backdrops for ambient-light wide-angle images. A compact camera with a wide-angle wet lens is a versatile choice for this site.
+Not applicable pending resolution of the location/inclusion issue above.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Baixo Techantia – Wikidata/GNS geographic data](https://www.wikidata.org/wiki/Q34739695) (confirms location in Cabo Delgado, Mozambique). No dive-specific source found; this is a geographic/data-integrity finding rather than a validated dive-site description. Last updated 2026-07-05.*

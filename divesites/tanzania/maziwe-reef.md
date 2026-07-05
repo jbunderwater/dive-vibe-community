@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Maziwe Reef
 
-Maziwe Reef surrounds Maziwe Island, a small sand island 10 kilometers offshore from Pangani on Tanzania's northern coast, protected as part of the Maziwe Marine Reserve. The island is known locally as a nesting site for green sea turtles and the reef is one of the most reliable turtle diving destinations on the Tanzanian mainland coast.
+Maziwe Reef surrounds Maziwe Island, a small, unvegetated sand cay roughly 8 km southeast of Pangani on Tanzania's northern coast, protected since 1975 as one of Tanzania's oldest marine reserves. The island is one of East Africa's most historically important sea turtle nesting sites and a well-documented, multi-sourced diving and snorkeling destination.
 
 ## Overview
 
-Maziwe Island is a low sand cay that disappears underwater at high tide, and the surrounding reef supports the green turtle nesting program that has made it a conservation landmark. The reef encircling the island starts at 2-3 meters on the shallow side and drops to 15 meters on the outer edge. While visibility can be variable due to the site's relatively sheltered inshore position (averaging 10-15 meters), the turtle encounters are exceptional by any standard. Water temperatures are warm year-round at 26-29°C.
+Maziwe Island all but disappears at high tide, and the surrounding reef is managed as part of the Maziwe Marine Reserve. Multiple independent sources (Tanzania's tourism board, a regional Tanzania travel site, Wikipedia, and a TripAdvisor listing for the operator running dives there) confirm the reef supports over 200 fish species and roughly 35 coral genera, with sponges and algae also present; one source reports figures as high as 400 species, so treat the exact count as approximate rather than precise. The dive operator running trips there (Kasa Divers, Pangani) describes "shallow sites down to 15 meters, no drop-off" — consistent with this entry's recorded 15-meter maximum depth. The reserve is described as open year-round, though heavy rain between mid-March and May can affect access and clarity.
 
 ## Site Information
 
 - **Location**: Maziwe Marine Reserve, offshore Pangani, northern Tanzania
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to March for clearest water; June-September for calm seas (southerly swell reduced)
+- **Entry Type**: Boat dive — confirmed (roughly 30 minutes by boat from Pangani per the operating dive shop)
+- **Site Type**: Reef — confirmed
+- **Difficulty Level**: Beginner — consistent with sources describing shallow, no-drop-off diving well suited to snorkeling and photography
+- **Maximum Depth**: 15 meters — confirmed by the operating dive shop's own description of the site
+- **Current**: Not specifically quantified by sources; reserve is generally described as sheltered
+- **Best Time**: Year-round access is reported, with heavy rain (and likely reduced clarity) typical from mid-March to May
 
 ## Marine Life
 
-Green sea turtles are the star attraction and are present year-round, with nesting activity peaking from March to August. Divers regularly encounter 5-10 turtles in a single dive at Maziwe, with some individuals so accustomed to human presence they continue feeding undisturbed. Hawksbill turtles are also present in smaller numbers. The reef fish community is typical of northern Tanzanian coastal reefs — parrotfish, surgeonfish, triggerfish, and groupers populate the coral formations. Stingrays are common on the sandy patches around the reef perimeter.
+Maziwe's primary claim to fame is sea turtle nesting rather than in-water turtle encounters while diving: historical records cited by Wikipedia describe roughly 200 nests of green and olive ridley turtles per season when the island still had forest cover, making it historically one of East Africa's most important turtle breeding sites. Some secondary sources also mention hawksbill and leatherback nesting historically, but this was not independently confirmed in this research, so it is noted here only as a discrepancy rather than a fact. Reef fish diversity (200+ species) and coral cover (about 35 genera) are confirmed by multiple sources, but no source in this research specifies which individual fish species are reliably seen on the reef itself, so specific reef-fish species are not listed here. Dolphins are reported as frequently sighted in the wider area.
 
 ## Dive Profile
 
-A relaxed circumnavigation of the island reef is the standard approach. The outer reef face at 10-15 meters is richer in coral coverage, while the shallower inner reef offers the most turtle encounters as they feed on algae and rest near the surface. A typical dive covers 200-300 meters of reef perimeter and allows observation of multiple turtle individuals.
+Sources describe shallow diving and snorkeling around the reef with no significant drop-off, to a maximum of about 15 meters — a relaxed profile consistent with the site's Beginner rating. No source provides a detailed dive-by-dive route, so specifics beyond this are not included.
 
 ## Entry and Exit
 
-Boat departure from Pangani or Ushongo beach, approximately 30-45 minutes by speedboat or 60-90 minutes by dhow. The reserve requires a fee payable to the Maziwe Marine Reserve management. Operations are managed by local community guides who know turtle locations and behavior.
+Boat access from Pangani, roughly 30 minutes each way according to the operating dive shop. The reserve is managed with restrictions to protect the reef and turtle habitat from fishing pressure.
 
 ## Tips and Recommendations
 
-- Do not pursue or touch turtles — Maziwe is a nesting reserve and disturbance-free policy is essential
-- Early morning arrivals (before 8am) offer the best chance of observing turtles before fishing boats and tourist pressure peaks
-- Snorkeling is equally productive for turtle encounters and accessible to non-divers
-- The island disappears at high tide — plan arrival timing with the guide to avoid a submerged mooring situation
+- This is a conservation site as much as a dive site — the surrounding reserve exists specifically to protect turtle nesting habitat, so follow all guide instructions around disturbance
+- The island is a low sand cay that is substantially or fully covered at high tide — confirm boat timing with your operator
+- Snorkeling is a well-documented alternative to diving here given the shallow depth and no-drop-off profile
 
 ## Safety Considerations
 
-A benign dive site suitable for all experience levels. Light currents, shallow maximum depth, and sheltered conditions from the island structure create low-hazard conditions. Boats in the area include fishing vessels — SMB deployment for ascent is essential. Be gentle with the reef as Maziwe's corals have suffered pressure and are in recovery.
+Sources describe this as a shallow, sheltered site suitable for beginners, with no reported significant current hazard. Standard precautions (SMB deployment near boat traffic, reef awareness) apply as at any Tanzanian coastal site, though no site-specific hazard was reported.
 
 ## Photography
 
-Maziwe's turtle encounters offer some of the best underwater turtle photography in East Africa. The unhurried turtles allow extended positioning for portrait, feeding, and swimming shots. Natural light in the shallow reef provides excellent color rendition. A 10-17mm fisheye or 16-35mm wide angle captures turtles in their reef context most effectively.
+Not specifically documented by sources; the shallow, no-drop-off profile and reported coral/fish diversity suggest reasonable conditions for reef photography, but no source describes specific photographic subjects at this site.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Tanzania Tourism – Maziwe Island Marine Reserve](https://www.tanzaniatourism.com/destination/maziwe-island-marine-reserve), [Visit Tanzania – Maziwe Marine Reserve](https://www.visittanzania.org/destinations-in-tanzania/maziwe-marine-reserve/), [Wikipedia – Maziwi Island](https://en.wikipedia.org/wiki/Maziwi_Island), [TripAdvisor – Kasa Divers, Diving Maziwe Marine Reserve](https://www.tripadvisor.com/Attraction_Review-g644028-d4932711-Reviews-Kasa_Divers-Pangani_Tanga_Region.html). Last updated 2026-07-05.*
