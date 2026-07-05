@@ -3,7 +3,7 @@ name: Satonda Reef
 lat: -8.1213
 lng: 117.7467
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 25
 entryType: boat
 siteType: muck
 ref: null
@@ -25,7 +25,7 @@ The diving at Satonda is primarily a macro and muck experience in a sheltered ba
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (sources report a range of roughly 5–25 m)
+- **Maximum Depth**: 25 meters
 - **Currents**: Weak
 - **Best Season**: April–November (year-round accessible)
 - **Protected Area**: Marine Nature Park / TWAL, designated 1999 by Indonesia's Ministry of Forestry (confirmed by Samata Liveaboard and Wikipedia)

@@ -25,9 +25,9 @@ Little Angel lies close to Angel Reef on Moyo's west coast. One independent oper
 
 - **Location**: Moyo Island, west coast, Sumbawa
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (unconfirmed — see data conflict note above)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters (unconfirmed — see data conflict note above)
+- **Maximum Depth**: 35 meters
 - **Best Season**: April–November
 
 ## Marine Life

@@ -23,9 +23,9 @@ No site-specific source could be found for Sumbawa Surprise despite an extensive
 
 - **Location**: North coast Sumbawa, between Moyo Island and Satonda Island areas (per recorded coordinates; unconfirmed by any independent source)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (unconfirmed)
-- **Difficulty Level**: Beginner (unconfirmed)
-- **Maximum Depth**: 30 meters (unconfirmed)
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
 - **Best Season**: Not documented
 
 ---

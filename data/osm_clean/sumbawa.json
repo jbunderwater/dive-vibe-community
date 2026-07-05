@@ -10,9 +10,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dive-the-world.com,asiadivesite.com,neptuneliveaboards.com",
+      "validation_source": "dive-the-world.com,asiadivesite.com,dive-indonesia.blogspot.com,scubaboard.com,neptuneliveaboards.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-05"
     }
   },
   {
@@ -26,10 +26,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS",
+      "validation_source": "emperordivers.com,scubaboard.com",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05: 2/3 domains found. emperordivers.com describes a 5-15m submerged plateau, conflicting with the current wall/35m classification — not changed without a 3rd corroborating source. Priority for next research pass."
     }
   },
   {
@@ -43,26 +43,26 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dive-the-world.com,asiadivesite.com,neptuneliveaboards.com",
+      "validation_source": "dive-the-world.com,asiadivesite.com,scubaboard.com,neptuneliveaboards.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-05"
     }
   },
   {
     "name": "Satonda Reef",
     "lat": -8.1213,
     "lon": 117.7467,
-    "depth": 18,
+    "depth": 25,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, michaelmcfadyenscuba.info",
-      "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "validation_source": "asiadivesite.com,samataliveaboard.com,dive-the-world.com,wikipedia.org",
+      "validated": "true",
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05: depth corrected 18->25m (sources report a 5-25m range). Dropped stale michaelmcfadyenscuba.info citation — that page has no Satonda content."
     }
   },
   {
@@ -76,10 +76,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS",
+      "validation_source": "scubadivemoyo.com",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05: Only 1 confirmed source. Prior citations (liveaboardindonesia.com, dive-the-world.com) do not actually name this site on direct inspection — removed as misattribution."
     }
   },
   {
@@ -93,10 +93,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS",
+      "validation_source": "",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05: No site-specific source found despite an extensive search (10+ dive operators, ScubaBoard, structured databases). A prior search-engine synthesis claiming nudibranchs/pygmy seahorses/cuttlefish traced to no actual page and was discarded as a hallucination. All fields remain unconfirmed OSM-import defaults."
     }
   },
   {
@@ -110,10 +110,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "asiadivesite.com,liveaboardindonesia.com",
+      "validation_source": "asiadivesite.com,dive-the-world.com",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "Only 2 sources found."
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05: 2/3 domains confirmed; liveaboardindonesia.com's dedicated page 404s as of this pass, and no valid 3rd source was found (a same-named 'Batu Putih' near Gili Rengit/Lombok is a different site)."
     }
   },
   {
@@ -127,10 +127,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "kalimayadiveresort.com",
-      "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "validation_source": "petitesbullesdailleurs.fr,scubaboard.com,asiadivesite.com",
+      "validated": "true",
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05: Manta cleaning station confirmed site-specific. Naming-overlap flag: multiple sources use 'Tanduk Rusa'/'Roller Coaster'/'Tanjung Rasa'/'Highway to Heaven' interchangeably for what may be the same Gili Banta promontory as the 'Rollercoaster' entry (~7km apart in our data) — recommend a GPS/depth reconciliation pass before further validation in this cluster."
     }
   },
   {
@@ -144,10 +144,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, kalimayadiveresort.com",
+      "validation_source": "diversparadisekomodo.com,scubaboard.com",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05: 2/3 domains confirmed. Same Gili Banta naming-overlap concern as Tanduk Rusa — see that entry's notes."
     }
   },
   {
@@ -161,10 +161,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS",
+      "validation_source": "scubahanknyc.com,scubaboard.com",
       "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05: 2/3 domains confirmed (diveindonesia.com 500-errors on every fetch attempt, unverifiable). Prior citations (asiadivesite.com, petitesbullesdailleurs.fr) do not mention K2 on direct inspection — removed as incorrect attribution. A previously-claimed '~7m summit' depth is unconfirmed; sources give only a 10-30m range."
     }
   },
   {
@@ -178,64 +178,64 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, liveaboardindonesia.com",
-      "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "validation_source": "barefoot-cruising-indonesia.com,liveaboardindonesia.com,scubaboard.com,starfish.ch",
+      "validated": "true",
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05: Blue-ringed octopus and rhinopias removed — untraceable to any fetchable source, a likely hallucination. Geographic conflict flagged: GPS + starfish.ch place the site on the west side near Bontoh village vs. liveaboardindonesia.com's 'northeast side' claim; resolved in favor of the GPS-corroborated location."
     }
   },
   {
     "name": "Tikno Reef",
     "lat": -8.1421,
     "lon": 119.0275,
-    "depth": 18,
+    "depth": 31,
     "site_type": "muck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "ScubaBoard GPS, asiadivesite.com",
-      "validated": "false",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Insufficient sources (single source or ScubaBoard GPS only). Requires 3 independent domain sources."
+      "validation_source": "barefoot-cruising-indonesia.com,michaelmcfadyenscuba.info,asiadivesite.com,divehappy.com,kalimayadiveresort.com,scubaboard.com",
+      "validated": "true",
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05: depth corrected 18->31m and difficulty Intermediate->Advanced (verified depth exceeds the 30m Intermediate ceiling); an unconfirmed further drop-off to ~40m is noted in the markdown as a hedged technical extension, not the plan depth."
     }
   },
   {
     "name": "Hot Rocks",
     "lat": -8.1711,
     "lon": 119.0564,
-    "depth": 20,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "masterliveaboards.com,dive-the-world.com,neptuneliveaboards.com",
+      "validation_source": "masterliveaboards.com,michaelmcfadyenscuba.info,starfish.ch",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05 re-audit: depth corrected 20->30m. dive-the-world.com (404) and neptuneliveaboards.com (its cited 'southern face'/8-15m claims contradict 3 independent sources placing the site on the north/northeast side) dropped as unverifiable; replaced with directly-confirmed michaelmcfadyenscuba.info and starfish.ch."
     }
   },
   {
     "name": "Lighthouse Reef",
     "lat": -8.13,
     "lon": 119.1,
-    "depth": 25,
+    "depth": 29,
     "site_type": "muck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "asiadivesite.com,starfish.ch,liveaboardindonesia.com",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Lighthouse Reef",
       "sport": "scuba_diving",
       "source": "contributor",
       "addedBy": "ScubaBoard user Dan",
-      "description": "Sheltered muck and macro diving site in a bay on the northeast side of Sangeang Island. Black volcanic sand slopes mixed with colorful coral garden. Premier critter diving with frogfish, nudibranchs, boxer crabs, pipefishes, pygmy seahorses, cuttlefish, and flame file shells with their signature electric-flash light displays. Calm conditions with minimal current make it suitable for less experienced divers compared to other Sangeang sites.",
+      "description": "Sheltered muck and macro diving site in a bay on the northeast side of Sangeang Island, known locally as Tanjung Menjangan. Black volcanic sand slopes mixed with colorful coral garden, reaching about 29m. Premier critter diving with frogfish, nudibranchs, boxer crabs, pipefishes, pygmy seahorses, and flame file shells with their signature electric-flash light displays. Calmer conditions than other Sangeang sites make it suitable for less experienced divers.",
+      "validation_source": "starfish.ch,michaelmcfadyenscuba.info,kalimayadiveresort.com,scubaboard.com",
       "validated": "true",
-      "validation_source": "asiadivesite.com,starfish.ch,liveaboardindonesia.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-05",
+      "notes": "QA 2026-07-05 re-audit: depth corrected 25->29m and difficulty Beginner->Intermediate (verified depth exceeds the 18m Beginner ceiling). asiadivesite.com and liveaboardindonesia.com dropped — neither mentions this site on direct inspection. Cuttlefish removed as unconfirmed by any real source."
     }
   }
 ]

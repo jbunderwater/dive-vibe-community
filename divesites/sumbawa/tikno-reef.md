@@ -25,7 +25,7 @@ Tikno Reef starts on a sloping black sand bottom around 8-10 m and drops gradual
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 31 meters (main slope and drop-off edge; a further, unconfirmed drop to ~40 m has been reported beyond the standard dive plan)
+- **Maximum Depth**: 31 meters
 - **Currents**: Light to occasional
 - **Best Season**: April–November
 
