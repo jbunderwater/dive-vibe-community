@@ -13,49 +13,31 @@ addedBy: osm_import
 
 ## Playground Point
 
-Playground Point is a reef dive site along the Tanzanian shore of Lake Malawi near Mbamba Bay in southern Tanzania's Ruvuma region, one of the rarely dived Tanzanian side sites on Africa's third-largest lake and a destination for cichlid enthusiasts seeking an off-the-beaten-path freshwater diving experience.
+**DATA INTEGRITY FLAG: This entry does not appear to belong in the Tanzania Indian Ocean destination.** Research strongly indicates this point is a freshwater Lake Malawi dive site near Nkhata Bay, Malawi — not a Zanzibar/coastal Tanzania coral reef, and not in Tanzanian territory.
 
 ## Overview
 
-The Tanzanian shore of Lake Malawi sees a small fraction of the dive traffic that the Malawian western shore attracts, making sites like Playground Point genuinely uncrowded by any freshwater diving standard. The rocky reef topography is similar to other Malawi sites — boulders, rocky outcrops, and algae-covered faces descending from the surface to 22 meters in clear, freshwater conditions. The lake's clarity is exceptional, often 15-20 meters of visibility in calm conditions. The site's name presumably reflects the dynamic, layered nature of the rocky fish habitat.
+Cross-referencing the underlying OpenStreetMap node (id 10224564251) shows it was created on 2022-11-28 by OSM contributor "Fredo1632" in changeset 129495172, titled **"Tauchplätze Malawisee Nkhatabay"** (German for "Dive sites, Lake Malawi, Nkhata Bay"). The only tags on the raw node are `name=Playground Point` and `natural=reef` — there is no depth, difficulty, or entry-type tag in the source data; those fields in this project's dataset appear to be pipeline defaults, not sourced facts.
+
+A reverse-geocode of the coordinates (-11.6052707, 34.3031882) against OpenStreetMap's own administrative boundaries places the point inside **Malawi** (admin boundary relation for Malawi, country_code `mw`), roughly 12-14 km north of the town of Nkhata Bay on Lake Malawi's northern shore — nowhere near Tanzania's Indian Ocean coast (which sits ~600 km east) and nowhere near the actual disputed Tanzania/Malawi lake-border zone further north. This is not a border-ambiguity case; the coordinates sit well inside undisputed Malawian territory.
+
+No web source (dive shop, ScubaBoard, PADI, or Lake Malawi tourism site) uses the name "Playground Point" for any specific site, so beyond confirming it is very likely a Lake Malawi rocky-reef point near Nkhata Bay, no site-specific depth, visibility, or marine life claims can be verified. The previous "Marine Life," "Dive Profile," and "Photography" content in this file's earlier version (citing generic Tanzania coral-reef roundup articles as sources) was fabricated — those sources never mention Lake Malawi or this site, and have been removed.
 
 ## Site Information
 
-- **Location**: Lake Malawi / Lake Nyasa, southern Tanzania (near Mbamba Bay)
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 15-20 meters (50-65 feet)
-- **Current**: Minimal
-- **Best Time**: June to October (dry season, clearest water)
+- **Location**: Coordinates fall within Malawi, near Nkhata Bay on Lake Malawi's northern shore — not Tanzania.
+- **Entry Type**: Unconfirmed (dataset default "boat", not sourced from OSM tags or a dive shop listing)
+- **Site Type**: Unconfirmed. OSM tags it `natural=reef`; the OSM changeset comment describes it as a "dive site" on Lake Malawi, implying a freshwater rocky reef rather than a coral reef.
+- **Difficulty Level**: Unconfirmed (dataset default, not sourced)
+- **Maximum Depth**: Unconfirmed (22m in this dataset is not present in the source OSM tags)
 
 ## Marine Life
 
-The rocky structure supports diverse mbuna cichlid communities with species composition influenced by the specific rock types and depth zones. Different cichlid species occupy distinct niches — grazing on algae, picking invertebrates from crevices, or hunting in the open water above the rocks. The open water above the reef holds utaka cichlids in schools. The biodiversity per square meter at Lake Malawi rocky reef sites is genuinely extraordinary by any freshwater global standard.
+No site-specific source found. Do not infer species — Nkhata Bay-area Lake Malawi sites in general are known for endemic mbuna cichlids, but attributing specific species to this exact, otherwise-undocumented point would be fabrication.
 
-## Dive Profile
+## Recommendation
 
-Navigate along the rocky slope from the mooring, descending to 18-22 meters on the deeper face before working back up through the rocks to the shallower zones. The varied rocky topography creates many natural points of interest — look inside crevices for resident species and watch the interactions between territorial mbuna on the algae-covered surfaces.
-
-## Entry and Exit
-
-Boat access from Mbamba Bay or other Tanzanian Nyasa shore communities. Infrastructure is very limited; plan logistics carefully in advance. Equipment decontamination procedures are required when moving between lake systems to prevent invasive species spread.
-
-## Tips and Recommendations
-
-- Add 2-3 kg of weight compared to your standard saltwater setup for freshwater buoyancy
-- The Tanzanian Nyasa shore offers genuine expedition diving — not appropriate for those wanting resort infrastructure
-- A freshwater rinse for all equipment after diving is critical to prevent invasive species transport
-- Research the specific cichlid species expected at the Tanzanian Nyasa sites before the trip — the scientific literature is extensive and will significantly enhance the experience
-
-## Safety Considerations
-
-Standard freshwater lake diving safety applies. The high-altitude position of Lake Malawi (475 meters) requires conservative dive planning. Very limited emergency services available at the Tanzanian shore — never dive beyond recreational limits and always plan for self-rescue. Bilharzia risk in shallow vegetated shoreline areas.
-
-## Photography
-
-The freshwater cichlid photography at Lake Malawi has produced some of the most distinctive underwater natural history images in the world. Playground Point's varied rocky structure and potentially underphotographed species community offers genuine discovery photography opportunities for patient, knowledgeable divers.
+This site should be removed from the Tanzania destination (or migrated to a Malawi/Lake Nyasa destination file if one is created), not validated as a Tanzanian dive site. Confidence: high that it is mislocated; the German-language OSM changeset comment naming Lake Malawi and Nkhata Bay, combined with OSM's own boundary data placing the point in Malawi, leaves little ambiguity.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*No site-specific source found beyond the originating OpenStreetMap node/changeset metadata (openstreetmap.org). Geographic placement cross-checked against OpenStreetMap Nominatim reverse geocoding. This entry is flagged as likely out of scope for a Tanzania Indian Ocean destination — needs maintainer review of destinations.json bounds and possible removal. Last updated 2026-07-05.*

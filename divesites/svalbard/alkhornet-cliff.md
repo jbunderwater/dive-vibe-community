@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Alkhornet Cliff
 
-Alkhornet Cliff is a wall dive site in Svalbard, Arctic.
+Alkhornet Cliff is a wall dive beneath a major Arctic seabird colony at the entrance to Isfjorden, Svalbard.
 
 ## Overview
 
-Alkhornet is a striking headland of metamorphosed carbonate rock over a billion years old that guards the northern entrance to Isfjorden on Spitsbergen's west coast. The underwater cliff face descends to around 22 metres through gin-clear Arctic water, with kelp forests giving way to dense aggregations of anemones, soft corals, and sea urchins, while seals drawn by the enormous above-water seabird colony of over 60,000 kittiwakes and guillemots are frequent dive companions.
+Alkhornet is a 428-metre headland of metamorphosed carbonate rock over a billion years old, on the northern side of the entrance to Isfjorden on Spitsbergen's west coast near the bay of Trygghamna. Above the waterline it is a designated Important Bird Area with a large seabird cliff colony of kittiwakes and Brünnich's guillemots. Sources disagree substantially on the colony's scale: Wikipedia, citing IBA survey data, records about 10,000 breeding pairs of seabirds in total, while the Norwegian Polar Institute's cruise handbook describes "hundreds of thousands" of guillemots plus a separately large kittiwake colony. Given that conflict, no single precise bird count is given here.
+
+Underwater, an expedition dive log from a site locally known as Alkhornet (Sagaskjeret) describes a flourishing kelp forest with anemones, sea urchins, crabs and numerous other invertebrates on the rocky seabed, plus jellyfish and delicate comb jellies in the water column. The Norwegian Polar Institute notes that seals are occasionally sighted in the water here, likely drawn by the productivity below the seabird cliffs.
 
 ## Site Information
 
-- **Location**: Svalbard, Arctic
+- **Location**: Alkhornet, entrance to Isfjorden, Svalbard, Arctic
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Alkhornet](https://en.wikipedia.org/wiki/Alkhornet), [Norwegian Polar Institute — Alkhornet and Trygghamna](https://cruise-handbook.npolar.no/en/isfjorden/alkhornet-and-trygghamna.html), [Oceanwide Expeditions — Trip Log OTL05-26](https://oceanwide-expeditions.com/de/trip-log/otl05-26-trip-log-north-spitsbergen-basecamp-summer-solstice-free-kayaking-hiking-photo-workshop-diving). Last updated 2026-07-05.*

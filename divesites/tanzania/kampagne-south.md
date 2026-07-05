@@ -13,49 +13,31 @@ addedBy: osm_import
 
 ## Kampagne South
 
-Kampagne South is the southern extension of the Kampagne dive area along Tanzania's Lake Malawi shoreline, offering a complementary dive to the nearby Kampagne Point site with slightly different rocky reef structure and cichlid species distribution.
+**DATA INTEGRITY FLAG: This entry does not appear to belong in the Tanzania Indian Ocean destination.** Research strongly indicates this point is a freshwater Lake Malawi dive site near Nkhata Bay, Malawi — not a Zanzibar/coastal Tanzania coral reef, and not in Tanzanian territory.
 
 ## Overview
 
-Located adjacent to Kampagne Point on Lake Malawi's Tanzanian side, Kampagne South covers a southward-facing section of the same rocky underwater escarpment that characterizes this stretch of the lake's eastern shore. The rocky substrate descends from 4 meters at the surface to approximately 20 meters, with boulders and rocky outcrops creating a complex habitat of crevices, overhangs, and algae-covered surfaces. The exceptional clarity of Lake Malawi's water allows full visibility across the entire depth range on most days.
+The underlying OpenStreetMap node (id 10224564253) was created on 2022-11-28 by contributor "Fredo1632" in changeset 129495172, titled **"Tauchplätze Malawisee Nkhatabay"** ("Dive sites, Lake Malawi, Nkhata Bay") — the same changeset that also created "Playground Point" and "Kampagne Point" a few hundred meters away. The raw node carries only `name=Kampagne South` and `natural=reef`; there is no depth, difficulty, or entry-type tag in the source, so those values in this dataset are pipeline defaults rather than sourced facts.
+
+A reverse-geocode of the coordinates (-11.6130404, 34.3066042) against OpenStreetMap's administrative boundaries places the point inside **Malawi**, near Nkhata Bay on Lake Malawi's northern shore — well inside undisputed Malawian territory, not near the actual Tanzania/Malawi lake-border dispute zone further north, and roughly 600 km from Tanzania's Indian Ocean coast.
+
+No dive operator, ScubaBoard thread, or PADI listing names a site called "Kampagne South" (or "Kampagne" at all). The prior version of this file's claims about cichlid distribution, rock topography, and morning light conditions were fabricated and cited four generic Tanzania coral-reef roundup articles that never mention Lake Malawi. That content has been removed rather than repeated.
 
 ## Site Information
 
-- **Location**: Lake Malawi / Lake Nyasa, southern Tanzania
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-20 meters (50-65 feet)
-- **Current**: Minimal
-- **Best Time**: July to October
+- **Location**: Coordinates fall within Malawi, near Nkhata Bay on Lake Malawi's northern shore — not Tanzania.
+- **Entry Type**: Unconfirmed (dataset default "boat")
+- **Site Type**: Unconfirmed. Tagged `natural=reef` in OSM; changeset context implies a freshwater rocky reef, not coral.
+- **Difficulty Level**: Unconfirmed (dataset default)
+- **Maximum Depth**: Unconfirmed (20m is not present in the source OSM tags)
 
 ## Marine Life
 
-Cichlid species communities at Kampagne South tend to differ slightly from the northern part of the site, reflecting the highly localized distribution of Lake Malawi endemics. Expect dense populations of mbuna cichlids around the rocky formations, with different species occupying different depth zones and specific rock types. In the open water above the rocks, utaka (open-water cichlids) school in large aggregations. The bottom substrate between rocks hosts catfish and small invertebrates.
+No site-specific source found. Nkhata Bay-area Lake Malawi sites generally are known for endemic mbuna cichlids, but no source ties any specific species to this exact point, so none are listed here.
 
-## Dive Profile
+## Recommendation
 
-Navigate southward from the boat mooring along the rock slope, staying at your target depth for the outward leg before returning at a shallower level. The southern face receives slightly different light exposure than the point, which can favor different cichlid behaviors. Time your dive for mid-morning when light angles best illuminate the rock faces.
-
-## Entry and Exit
-
-Access by boat from Tanzanian lakeshore communities, coordinated through specialist Lake Malawi dive operators. The calm, sheltered conditions on the Tanzanian shore mean boat handling is generally straightforward. Weighting for freshwater buoyancy should be recalibrated prior to the dive.
-
-## Tips and Recommendations
-
-- Dive Kampagne Point and Kampagne South as consecutive dives on the same trip for species comparison
-- The Tanzanian shore of Lake Malawi is significantly less visited than the Malawian side — arrange logistics early
-- A waterproof notebook for recording cichlid species by site and depth adds scientific value to recreational dives
-- Cichlid photography here has potential for unique species documentation not seen elsewhere in the diving literature
-
-## Safety Considerations
-
-The calm freshwater environment presents few hazards beyond standard dive planning requirements. Monitor time and air to maintain a reserve for the safety stop and surface interval. The high-altitude freshwater combination requires conservative dive table or dive computer calculations. Avoid contact with shallow vegetation zones on shore due to bilharzia risk.
-
-## Photography
-
-Kampagne South's south-facing rock structure creates different lighting opportunities from the point site, often providing better morning backlighting for ambient-light reef photography. The cichlids here may include species not photographically documented in wide circulation, making careful documentation genuinely valuable.
+This site should be removed from the Tanzania destination (or migrated to a Malawi/Lake Nyasa destination file if the project creates one), not validated as Tanzanian. Confidence: high that it is mislocated, based on the German-language OSM changeset naming Lake Malawi/Nkhata Bay directly plus OSM's own boundary placement in Malawi.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*No site-specific source found beyond the originating OpenStreetMap node/changeset metadata (openstreetmap.org). Geographic placement cross-checked against OpenStreetMap Nominatim reverse geocoding. This entry is flagged as likely out of scope for a Tanzania Indian Ocean destination — needs maintainer review of destinations.json bounds and possible removal. Last updated 2026-07-05.*

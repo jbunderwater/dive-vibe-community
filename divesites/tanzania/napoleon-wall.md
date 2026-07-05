@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Napoleon Wall
 
-Napoleon Wall is the deepest and most dramatic of the wall dives accessible from Zanzibar Island's eastern coast near Jambiani, named for the resident Napoleon (humphead) wrasse that historically frequented the site. It is one of the premier wall diving experiences in the Zanzibar Archipelago.
+Napoleon Wall is an outer-reef drop-off dive site accessible from Zanzibar Island's southeastern coast (Paje/Jambiani area), named for the resident Napoleon (humphead) wrasse.
 
 ## Overview
 
-Napoleon Wall drops from a reef crest at 8-10 meters to 35+ meters along an impressive vertical face on the outer edge of the Zanzibar fringing reef. This depth profile makes it the most demanding wall site accessible from Jambiani, requiring careful dive planning and intermediate-to-advanced proficiency. The wall face is encrusted with soft corals, sea fans, and black corals below 20 meters, transitioning to denser hard coral above. Visibility is typically 20-30 meters on the outer reef, with the Indian Ocean providing clear blue water beyond the wall face.
+One operator, Buccaneer Diving (Paje-based), is confirmed as an independent site-specific source across two of its own pages. It lists Napoleon Wall at 12-35 meters, describing "a spectacular drop off" with corals on top and turtles, rays, and other larger life in holes along the sides, noting the area functions as a nursery for local wildlife. Elsewhere on the same operator's site, it describes boats reaching the outer reef through gaps in the barrier reef called "mlango" (Swahili for "door"), located about 15 minutes by boat from its Paje dive base, with these outer sites — including Napoleon Wall — typically run as drift dives; fish life listed there includes Napoleon wrasse, groupers, morays, turtles, lobsters, octopus, ribbon eels, and stingrays. Because both descriptions come from the same operator's website, this counts as one independent source, not two — a second, unrelated source was not found in this research pass. Our recorded 35-meter maximum depth is consistent with the deep end of the 12-35m range given by this operator.
 
 ## Site Information
 
-- **Location**: Outer reef off Jambiani, Southeast Zanzibar Island, Tanzania
-- **Entry Type**: Boat dive
+- **Location**: Outer reef off Paje/Jambiani, Southeast Zanzibar Island, Tanzania (reached via a reef-gap/"mlango" channel)
+- **Entry Type**: Boat dive, typically run as a drift dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Moderate to strong — tidal
-- **Best Time**: October to April (northeast monsoon, eastern sites best)
+- **Current**: Present — outer reef sites here are dived as drifts
+- **Best Time**: Not independently confirmed for this specific site
 
 ## Marine Life
 
-The wall's name reflects the Napoleon wrasse historically present here, and these large humphead fish are still occasionally encountered, particularly in the early morning. The deeper wall sections (below 20 meters) host large sea fans with resident hawkfish, black coral trees with spindle cowries, and occasional large groupers in overhangs. Sharks — predominantly grey reef and whitetip — cruise the outer water beyond the wall face. During October-March, hammerhead sharks have been reported at depth by experienced dive guides. The shallower reef crest supports dense populations of Indian Ocean reef fish.
+Confirmed across the two sources above: resident Napoleon (humphead) wrasse (the site's namesake), turtles, rays, groupers, moray eels, lobsters, octopus, ribbon eels, and stingrays. Claims in earlier drafts of this page about hammerhead shark sightings or seasonal grey reef/whitetip shark cruising were not corroborated by any source found in this research pass and have been removed rather than repeated unverified.
 
 ## Dive Profile
 
-Careful planning is essential given the 35-meter maximum depth. Begin at the mooring and descend to the planned maximum depth (suggest limiting recreational dives to 30 meters maximum), then work up the wall methodically with attention to NDL limits. The most interesting zone is typically 18-28 meters where soft corals and sea fans are most developed. Ascend to the reef crest at 8-10 meters for an extended shallow finish and safety stop.
+Entry is via boat through a reef-gap ("mlango") roughly 15 minutes from a Paje dive base, with the outer wall sites dived as drifts. Given the 35-meter maximum depth, conservative NDL planning and a depth limit set before descent are advisable, consistent with standard practice for deep wall dives — this is general good practice rather than an operator-specific instruction confirmed by sources.
 
 ## Entry and Exit
 
-Boat access from Jambiani operators. Confirm current timing with the guide — the wall is best dived at slack or on a gentle incoming tide. Strong tidal current makes navigation difficult and can sweep divers off the wall. Giant stride entry from the dive boat; deploy SMB for safety stop pickup.
+Boat access from Paje/Jambiani operators, entering the outer reef through a "mlango" gap in the barrier reef. Current should be confirmed with the guide before the dive, as the site is typically drift-dived.
 
 ## Tips and Recommendations
 
-- Dive within your actual certification depth limit — this site tempts deeper excursions that exceed standard recreational limits
-- Set a conservative maximum depth on your dive computer (30 meters for intermediate divers) and commit to it
-- The wall rewards slow movement — rushing past features means missing the cryptic species in overhangs and crevices
-- Ask the guide about Napoleon wrasse frequency — sightings are seasonal and unpredictable
+- Confirm current conditions and the day's drift plan with your Paje/Jambiani guide before entry
+- Given intermediate difficulty rating but 35m depth, ensure your certification and experience match a deep drift dive
+- Ask about Napoleon wrasse sighting frequency — no source specifies how reliable sightings are
 
 ## Safety Considerations
 
-The 35-meter maximum depth, combined with potential strong current, makes Napoleon Wall one of the most demanding dives in the Zanzibar Archipelago despite its intermediate classification. NDL limits must be observed rigorously. If current exceeds moderate levels, abort to a shallower site. The nearest decompression chamber is in Zanzibar Town or Dar es Salaam — avoid decompression stops. Always carry a reef hook, SMB, and whistle.
+The 35-meter maximum depth combined with current (drift-dive conditions) makes this one of the more demanding sites in the area. NDL limits should be observed rigorously. No source-confirmed details on decompression chamber proximity were found in this pass; general Tanzania coastal medical-facility caution applies but should not be stated as site-specific fact without confirmation.
 
 ## Photography
 
-Napoleon Wall is one of the most photogenic sites in Zanzibar. Wide-angle shots looking along the wall face with the open blue water beyond — particularly with a ray or shark in the frame — represent the signature images of the site. The deep sea fans and soft corals at 20-28 meters require strobes for accurate color reproduction.
+No site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/), [Buccaneer Diving – Explore Our Dive Sites](https://www.buccaneerdiving.com/pages/explore-our-dive-sites/) (same operator, two pages — counts as one independent source). A second, fully independent source was not located in this pass. Last updated 2026-07-05.*

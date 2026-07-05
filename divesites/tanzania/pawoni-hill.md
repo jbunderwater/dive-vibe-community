@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Pawoni Hill
 
-Pawoni Hill is a coral reef formation off Zanzibar Island's southeastern coast near Jambiani, named for its distinctive raised hill-like topography that lifts the reef above the surrounding sandy lagoon floor and creates a concentration point for marine life.
+Pawoni Hill (also spelled "Powoni Hill" by local operators) is a reef site off Zanzibar Island's southeastern coast near Paje/Jambiani, part of a small cluster of related sites — Powoni North, Powoni Hill, and Powoni South — run by Paje-based dive operators.
 
 ## Overview
 
-Pawoni Hill rises from a sandy base at approximately 15 meters to its highest coral point at 5-6 meters, creating a prominent feature in the eastern Zanzibar lagoon that is visible from the surface as a coral mound. The elevated position in the otherwise flat lagoon floor creates gentle upwelling as water moves around the structure, concentrating small fish and invertebrate life. The site is ideal for beginner divers exploring eastern Zanzibar's quieter dive scene, offering interesting topography in an accessible depth range.
+Local operator Buccaneer Diving (based in Paje, a short boat ride from Jambiani) lists Powoni North, Hill, and South as a group of sites in the 9-30 meter range, describing the cluster as suitable for both training and recreational dives from beginner to advanced level, with sloping reef and drop-off terrain. Our data places Pawoni Hill's maximum depth at 18 meters, within that documented range. Beyond this one operator listing, no independent source with site-specific detail for "Pawoni Hill" specifically (as opposed to the broader Powoni cluster) was found.
 
 ## Site Information
 
-- **Location**: Jambiani area, Southeast Zanzibar Island, Tanzania
+- **Location**: Paje/Jambiani area, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Light in the lagoon
-- **Best Time**: October to April (northeast monsoon, eastern sites calm)
+- **Current**: Not independently confirmed for this specific site; nearby sites in the same operator's list are described as suited to a range of experience levels
+- **Best Time**: Not independently confirmed for this specific site
 
 ## Marine Life
 
-The hill formation acts as an oasis in the sandy lagoon, concentrating diverse species. Parrotfish and surgeonfish dominate the upper sections while morays and groupers inhabit the deeper base crevices. Sea turtles regularly use the hill as a resting point. The sandy base hosts garden eels in undisturbed patches, which are visible waving from their burrows before retreating as divers approach. Night dives on Pawoni Hill produce exceptional octopus activity and cuttlefish encounters.
+Buccaneer Diving describes the Powoni cluster (North/Hill/South together) as having "magnificent table corals" with sweetlips and unicornfish, plus scorpionfish and octopus to watch for in the coral and shells, and occasional pelagic sightings. These species are confirmed for the Powoni site group as a whole by this one operator source; no site-specific confirmation exists distinguishing Pawoni Hill individually from Powoni North or South. No other species should be assumed present without further corroboration.
 
 ## Dive Profile
 
-Descend to the sandy base at 15-18 meters and circle the entire hill structure before ascending. The hill is compact enough to circumnavigate multiple times in a single dive, exploring different aspects of the topography. The upper sections at 5-8 meters are best saved for the last 15 minutes of the dive, where the richest coral growth and fish densities are found.
+Not independently documented for this specific site beyond its listed depth range (9-30m for the cluster, 18m maximum recorded here). Divers should follow local operator guidance on entry point and route.
 
 ## Entry and Exit
 
-Boat access from Jambiani village. The calm lagoon conditions make this accessible on virtually all days when eastern Zanzibar diving is operating. Wooden traditional boats and small zodiacs are both used by Jambiani operators.
+Boat access from Paje/Jambiani-based operators such as Buccaneer Diving. Specific entry/exit logistics for this individual site were not found in available sources.
 
 ## Tips and Recommendations
 
-- Excellent for practicing reef circumnavigation skills in a confined, easy-to-navigate structure
-- Night dives on Pawoni Hill are highly recommended for the octopus and cuttlefish activity
-- Scan the sandy base carefully for well-camouflaged flatfish, scorpionfish, and garden eels
-- The southeastern Zanzibar coast has fewer operators than Nungwi — book Jambiani-based guides specifically rather than trying to day-trip from the north
+- Ask your Paje or Jambiani operator specifically which of the Powoni sites (North, Hill, or South) you will be diving, as they are treated as a related group by at least one operator
+- The southeastern Zanzibar coast has fewer operators than Nungwi — book Paje/Jambiani-based guides specifically
 
 ## Safety Considerations
 
-A very safe diving environment in the protected lagoon. The main hazards are sea urchins on the reef base and fire coral on the upper hill sections. Night divers should carry primary and backup torches and agree on navigation procedures for returning to the boat in the dark.
+No site-specific hazards are documented for Pawoni Hill beyond standard reef diving precautions (buoyancy control around coral, standard NDL management for the 18-meter depth range).
 
 ## Photography
 
-Pawoni Hill's self-contained structure makes it an excellent photography site — the whole habitat can be covered systematically in a single dive. The hill top in 5-8 meters of water photographs beautifully in natural light from above. Garden eels at the sandy base require a very slow approach for successful shots before they retreat.
+No site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one independent site-specific source found; site type/depth otherwise unconfirmed by a second source. Last updated 2026-07-05.*

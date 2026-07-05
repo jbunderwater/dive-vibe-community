@@ -13,22 +13,20 @@ addedBy: osm_import
 
 ## Sumbawa Surprise
 
-Sumbawa Surprise is a reef dive site on the north coast of Sumbawa, positioned between the Moyo Island area and Satonda Island. The name suggests an unexpected encounter or feature, a naming convention common among liveaboard crews exploring less-documented reef sections of Indonesia.
+Sumbawa Surprise is a dive site on the north coast of Sumbawa, positioned by its recorded coordinates between the Moyo Island area and Satonda Island. No source — dive shop, liveaboard operator, ScubaBoard thread, or structured dive database — was found during this research pass (or the prior one) that documents this site by name.
 
 ## Overview
 
-Sumbawa Surprise sits in a part of Sumbawa's north coast that is infrequently documented individually online. The coordinates place it in the transition zone between the Moyo Island reef complex and the Satonda Island area — a coastline characterised by fringing reefs, sheltered bays, and occasional wall structures. Liveaboard operators covering this corridor note the diversity of reef fish and invertebrates along these north-coast reefs, with typical Coral Triangle species including angelfish, butterflyfish, damselfish, parrotfish, and reef sharks. The beginner-rated depth (to 30 m) and reef topography suggest a sloping coral reef with coral gardens rather than a dramatic wall or strong-current drift site. Best season April to November.
+No site-specific source could be found for Sumbawa Surprise despite an extensive search across dive shop/operator sites (Roctopus Dive, Maleo Moyo/Scuba Dive Moyo, Amanwana Dive Centre, Sumbawa Adventure, Kalimaya Dive Resort), liveaboard operators (Liveaboard Indonesia, Neptune Liveaboards, Emperor Divers, Coralia, Tartaruga Adventures, The Seven Seas), structured databases (Dive The World, Asia Dive Site, dive.site, Divebooker), and ScubaBoard. The site type, depth, and difficulty recorded below come from the original OpenStreetMap import and have not been independently confirmed. Nothing about this site's actual character (topography, marine life, conditions) can be stated with confidence, and no speculation about what it is "probably" like is included here.
 
 ## Site Information
 
-- **Location**: North coast Sumbawa, between Moyo Island and Satonda Island areas
+- **Location**: North coast Sumbawa, between Moyo Island and Satonda Island areas (per recorded coordinates; unconfirmed by any independent source)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Best Season**: April–November
+- **Site Type**: Reef (unconfirmed)
+- **Difficulty Level**: Beginner (unconfirmed)
+- **Maximum Depth**: 30 meters (unconfirmed)
+- **Best Season**: Not documented
 
 ---
-*Sources: [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Last updated 2026-05-17.*
-
-*Note: Sumbawa Surprise is not individually documented in online dive databases. No site-specific sources found.*
+*Description based on regional diving characteristics only. No site-specific sources found despite a dedicated search of dive shops, liveaboard operators, structured databases, and ScubaBoard. Last updated 2026-07-05.*

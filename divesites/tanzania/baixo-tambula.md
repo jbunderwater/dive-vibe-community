@@ -13,49 +13,31 @@ addedBy: osm_import
 
 ## Baixo Tambula
 
-Baixo Tambula is a submerged reef shoal in Tanzania's northern Mafia Channel area, one of a cluster of productive outer reef formations that receive limited diving traffic and maintain pristine coral coverage.
+**DATA INTEGRITY NOTICE — LOCATION REQUIRES MAINTAINER REVIEW.** Independent research indicates this site's coordinates (-11.2821035, 40.6572523) most likely place it in Mozambique, not Tanzania. The previous "Mafia Channel"/Tanzania framing was fabricated and is removed below.
+
+> **Geographic mismatch (high confidence, not fully corroborated by name):** Unlike its three siblings in this research batch (Baixo Magive Cobua, Baixo Nameguo, Baixo Varuni), no dedicated GEOnet Names Server/Wikidata entry could be located specifically for "Baixo Tambula" during this pass. However: (1) its coordinates (-11.28S) are, like the other three, south of the Ruvuma River mouth (~10°28'S) that forms the Tanzania-Mozambique border, placing it inside Mozambican waters near the Cabo Delgado/Palma district coastline; (2) "Baixo" (Portuguese for shoal/reef) is a naming convention specific to Mozambican gazetteers in this stretch of coast, not Tanzanian/Swahili naming; (3) general web search results returned "Baixo Tambula" as a listed tide-station entry within the Cabo Delgado Province directory on tideking.com, alongside the other three confirmed sites. This is treated as an unresolved-but-likely geographic mismatch rather than a confirmed one, since a direct coordinate match was not independently obtained. **Recommendation: flag for removal/relocation review alongside the other three Baixo sites, pending maintainer confirmation. Do not mark validated="true".**
 
 ## Overview
 
-Baixo Tambula sits in the open channel north of Mafia Island, where upwelling currents and clear oceanic water from the Indian Ocean maintain exceptional coral health. The reef top rises to around 5 meters before sloping steadily to 22 meters, with a diverse mix of hard coral formations including branching and massive Porites structures that have accumulated over centuries of undisturbed growth. Visibility typically ranges from 15-20 meters and can exceed 25 meters after calm periods.
+No independent, site-specific diving source (operator, forum, survey) was found for this reef. The depth, current, and difficulty details below are carried over unverified from the existing dataset.
 
-## Site Information
+## Site Information (unverified)
 
-- **Location**: Northern Mafia Channel, Tanzania
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 15-20 meters (50-65 feet)
-- **Current**: Moderate
-- **Best Time**: October to March for calmest seas; whale shark season October-March
+- **Location**: Coordinates most likely fall in Cabo Delgado Province, Mozambique (see notice above), not Tanzania
+- **Entry Type**: Boat dive (unverified)
+- **Site Type**: Reef/shoal (consistent with regional "Baixo" naming convention)
+- **Difficulty Level**: Intermediate (unverified — no dive-specific source found)
+- **Maximum Depth**: 22 meters (unverified — no dive-specific source found)
+- **Typical Visibility**: Unknown — no source found
+- **Current**: Unknown — no source found
 
 ## Marine Life
 
-The undisturbed nature of this outer reef produces impressive fish populations. Dense schools of anthias and glassfish hover above the coral, attracting larger predators — barracuda, queenfish, and white-tip reef sharks are frequently seen. Moray eels inhabit the coral crevices, and the sandy patches at depth host garden eels and flatfish. Green and hawksbill turtles are common throughout the year. Between October and March, whale sharks frequently pass through the channel and can sometimes be observed from the surface before diving.
+No source-confirmed marine life information exists for this site. The previous version's claims of reef sharks, turtles, and whale shark proximity were generic Mafia Channel boilerplate that does not apply here and has been removed rather than replaced with new speculation.
 
-## Dive Profile
+## Access Note
 
-Descend to the outer slope at 18-22 meters and work back up the reef, exploring coral formations and sandy channels along the way. The reef architecture creates natural navigation points — large Porites heads at depth and staghorn thickets in the shallows guide your route. Finish with a long shallow reef traverse at 5-10 meters before ascending.
-
-## Entry and Exit
-
-Reachable by boat from Mafia Island, with travel times of 30-60 minutes depending on conditions. The site is best approached in good weather; swell of more than 1 meter can make entry and surface navigation difficult. Always agree SMB and pickup procedures with the boat crew before the dive.
-
-## Tips and Recommendations
-
-- Morning dives typically have the best visibility as afternoon wind chop can reduce surface clarity
-- Bring a macro lens attachment — the coral heads host nudibranchs, flatworms, and mantis shrimp
-- If whale sharks are active in the channel, snorkeling the surface after the dive is often productive
-- Confirm with your operator that the boat has a working VHF radio given the offshore location
-
-## Safety Considerations
-
-Remoteness is the primary safety concern at Baixo Tambula. Ensure the operator carries oxygen and a first aid kit. Surface currents can run in a different direction from the reef current — deploy your SMB early and ascend slowly to avoid being swept away from the boat. Never dive this site alone.
-
-## Photography
-
-The pristine coral gardens and diverse fish life make this an excellent all-round photography site. Ambient light at 15-22 meters retains good color in the blue Indian Ocean water, reducing the need for heavy strobe use. Wide-angle shots of the coral architecture against the blue water background are particularly rewarding.
+No dive operator, park authority, or research source describing boat access or conditions for this specific reef was found.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: General web search confirms a "Baixo Tambula" entry in the Cabo Delgado Province, Mozambique tide-station directory ([tideking.com](https://tideking.com/Mozambique/Cabo-Delgado/)); no dedicated gazetteer record with exact coordinates was independently retrieved, and no site-specific diving source was found. Last updated 2026-07-05.*

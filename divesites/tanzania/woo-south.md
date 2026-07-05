@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Woo South
 
-Woo South is the southern section of the Woo reef complex on Zanzibar Island's eastern coast near Jambiani, part of a series of reef features in the Jambiani lagoon area that together provide a full day's varied diving in the southeastern part of the island.
+Woo South is the southern section of the "Woo" reef site off Zanzibar Island's southeastern coast, accessed from Paje/Jambiani-based dive operators.
 
 ## Overview
 
-The "Woo" sites are a cluster of reef formations in the southeastern Zanzibar lagoon, with Woo South covering the southern extension of the complex where the reef becomes lower and more spread out, creating a broader habitat of coral mounds, sandy channels, and rubble zones. Maximum depth of 16 meters sits entirely within the lagoon's comfortable range. Like the other Jambiani area sites, Woo South benefits from the protection of the outer fringing reef barrier that eliminates swell and reduces tidal current to manageable levels.
+Local operator Buccaneer Diving (Paje) lists "Woo South" by name as one of its regular sites, describing the broader "Woo" site as offering both a shallower coral-head option and a deeper drop-off, calling it "one of our favourite sites to dive." This is the only independently confirmed site-specific source found for Woo South; the operator's overall depth range for the Woo site is given as 12-75 meters (spanning shallow and deep options), while our recorded maximum depth for Woo South specifically is 16 meters, consistent with the shallower end of that range.
 
 ## Site Information
 
-- **Location**: Jambiani area, Southeast Zanzibar Island, Tanzania
+- **Location**: Paje/Jambiani area, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Light (protected lagoon)
-- **Best Time**: October to April (northeast monsoon, eastern Zanzibar)
+- **Current**: Not independently confirmed for this specific site
+- **Best Time**: Not independently confirmed for this specific site
 
 ## Marine Life
 
-Woo South's spread-out habitat of mounds and channels supports a diverse resident community. The sandy areas attract garden eels, stingrays, and goatfish foraging across the bottom. The coral mounds host the typical Jambiani cast: sea turtles, parrotfish, triggerfish, and moray eels. The broader, lower reef profile compared to more concentrated hill formations means more ground to cover and a greater variety of micro-habitats within a single dive.
+Buccaneer Diving describes the Woo site generally as having "beautiful untouched coral heads teeming with life" in the shallower zone, with potential sightings of sharks, barracuda, and giant kingfish near the deeper drop-off. These are the operator's general claims for the Woo site as a whole rather than confirmed sightings specific to the 16-meter Woo South section. No other species should be assumed present without further corroboration.
 
 ## Dive Profile
 
-Navigate southward across the reef complex, exploring each coral mound and the channels between them. The varied topography means the dive offers constant new features rather than a continuous reef face. A full 50-minute dive easily covers the Woo South area while allowing time at each interesting coral formation.
+Not independently documented in detail for the South section specifically. The operator's description suggests Woo can be dived shallow (coral heads) or deep (drop-off); Woo South's recorded 16-meter maximum depth points to the shallower coral-head style of dive.
 
 ## Entry and Exit
 
-Boat access from Jambiani operators. Often combined with Woo North or other Jambiani sites for a two or three-dive day. The calm lagoon conditions allow easy entry and exit. Traditional wooden boats and small zodiacs both serve the site.
+Boat access from Paje/Jambiani-based operators such as Buccaneer Diving. Specific entry/exit logistics for this individual site were not found in available sources.
 
 ## Tips and Recommendations
 
-- Woo South combines well with Stingray City and Sau Inn Garden for a varied three-site Jambiani day
-- The broader, more spread-out habitat is ideal for divers practicing navigation skills with compass bearings
-- Look under coral rubble pieces in the sandy channels — often the most cryptic invertebrates are found beneath loose rubble
-- The southeastern Zanzibar dive scene is growing but still offers a notably quieter experience than Nungwi
+- Confirm with your operator whether "Woo South" refers to the shallower coral-head area or includes access to the deeper drop-off described for the broader Woo site
+- The southeastern Zanzibar coast has fewer operators than Nungwi — book Paje/Jambiani-based guides specifically
 
 ## Safety Considerations
 
-Same benign safety profile as other Jambiani lagoon sites. Light current, shallow depth, and calm conditions create a very low-risk environment. Carry and deploy SMB for ascent. Monitor buoyancy to protect the coral formations.
+No site-specific hazards are documented for Woo South beyond standard reef diving precautions appropriate to its 16-meter depth range.
 
 ## Photography
 
-The varied mound and channel topography offers interesting compositional variety compared to simple reef slope sites. Garden eel photography requires a very long, slow approach across the sand — extend your arm with camera first, body trailing far behind. The calm clear water provides good natural-light opportunities at all depths.
+No site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one independent site-specific source found; not corroborated by a second source. Last updated 2026-07-05.*

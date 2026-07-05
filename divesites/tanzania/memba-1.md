@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Memba 1
 
-Memba 1 is the first of two wall dive sites in the Memba area on Pemba Island's eastern coastline, offering a classic Pemba Channel wall experience with gorgonian fans and diverse reef life on a near-vertical face descending to 25 meters.
+Memba 1 sits within the Mnemba Island area off Zanzibar's northeast coast — the coordinates place it close to Mnemba Island itself, inside the well-known Mnemba Island Marine Conservation Area. "Memba" is very likely a truncation of "Mnemba" rather than a distinct place name; no source uses "Memba" as a place name in this area.
 
 ## Overview
 
-Pemba Island's Memba area is one of the better-known wall dive clusters on the island's eastern side, where the Pemba Channel's steep underwater escarpment produces walls encrusted with dense invertebrate growth. Memba 1 is the northern entry point of the twin wall system, with a reef crest at 6-8 meters and a productive dive zone down to 25 meters. Visibility is typically excellent — 20-30 meters in favorable conditions — thanks to the clean oceanic water flowing through the Pemba Channel.
+Research for this pass could not find any operator, guidebook, or forum reference to a dive site specifically named "Memba 1." Multiple Mnemba-area dive operators (including Fun Divers Zanzibar, Zanzibar One Ocean, Scuba-Do Zanzibar, and ScubaFish Zanzibar) do document named wall dive sites in this immediate area — notably Kichwani (a sloping wall from roughly 5-35m, described by ScubaFish Zanzibar), Big Wall / The Big Wall (a vertical wall dropping from about 12-18m to 40-70m depending on source), and Wattabomi (a gentler site for beginners/snorkelers). The general character of the area — a wall dropping from a shallow reef crest into deeper water with excellent visibility (widely reported at 15-30m in the Mnemba area) — is consistent with this site being tagged as a wall dive, but no source confirms "Memba 1" as naming this specific location versus a nearby named site like Kichwani or Big Wall. It is possible this is an unnamed or informally-numbered point within the broader Mnemba wall system, not a site independently marketed by name.
 
 ## Site Information
 
-- **Location**: Memba area, East Pemba Island, Tanzania
+- **Location**: Mnemba Island area, Northeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall dive (consistent with general Mnemba-area character; this specific numbered site is not independently confirmed)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Moderate, tidal
-- **Best Time**: October to March (northeast monsoon)
+- **Typical Visibility**: Mnemba area is widely reported at 15-30m by multiple operators (general area characteristic, not site-specific)
+- **Current**: Not independently confirmed for this specific site
+- **Best Time**: Not independently confirmed for this specific site
 
 ## Marine Life
 
-The wall face at Memba 1 is richly decorated with orange and yellow encrusting sponges, sea fans at depth, and branching black corals. Resident species include groupers tucked under overhangs, large moray eels (including giant morays), and lionfish at rest on the wall. Passing pelagic species include eagle rays, reef sharks, and occasional large schools of jacks. Nudibranchs on the wall's encrusted sections are a highlight for macro photographers — Pemba walls are known for unusual species diversity.
+No species can be confirmed specifically for "Memba 1." Species reported by multiple sources for the general Mnemba wall-diving area include Napoleon wrasse, white tip reef sharks, groupers, moray eels, turtles, and (at Kichwani specifically) frogfish and leaf fish — but attributing these to this exact, unnamed coordinate would be speculative. Earlier drafts of this page named specific pelagic and shark sightings and nudibranch diversity as if confirmed for this site; those claims were not corroborated in this research pass and have been removed.
 
 ## Dive Profile
 
-Enter at the mooring buoy and descend to the base of the productive zone at 22-25 meters. Work northward along the wall face, exploring overhangs and crevices, before ascending methodically through the 15-20 meter zone. Complete the ascent on the reef top at 6-8 meters for the safety stop. Given the depth, bottom time should be managed conservatively for the 25-meter section.
+Not independently documented for this specific point. General guidance for Mnemba-area wall dives (from multiple operators) is to descend to a planned maximum depth and work back up the wall face toward a shallower reef crest for the safety stop — standard wall-diving practice, not a confirmed site-specific profile.
 
 ## Entry and Exit
 
-Accessible from Pemba Island operators or from liveaboards. Giant stride or back roll entry from the dive vessel. Current can be significant — confirm tidal timing with the guide. If current is strong, this site may convert to a drift dive along the wall.
+Boat access from Mnemba-area operators (Zanzibar northeast coast, e.g. Matemwe/Nungwi-based boats serving Mnemba). Specific mooring or entry-point details for this exact site were not found.
 
 ## Tips and Recommendations
 
-- Memba 1 and Memba 2 are often dived consecutively on a two-tank dive — plan surface interval on the boat between dives
-- Bring a dive torch even for daytime dives to illuminate crevice inhabitants and bring out the colors of encrusting sponges
-- Pemba Island's remote location means very limited emergency medical facilities — dive conservatively within NDL limits
-- The northeast monsoon (October-March) produces the best Pemba wall conditions — the southeast monsoon can rough up the eastern coast
+- Ask your Mnemba-area operator whether "Memba 1" corresponds to a named site such as Kichwani or Big Wall, since no independent source uses this exact name
+- The Mnemba Island Marine Conservation Area charges a conservation fee, common to all diving in this area
 
 ## Safety Considerations
 
-The 25-meter maximum depth at Memba 1 requires careful NDL monitoring, especially if combining with Memba 2 on a second dive. Wall topography can promote passive descent — set a hard depth limit before entering. Current can pick up significantly on the Pemba Channel walls; a reef hook is useful for holding position against tidal flow. The nearest decompression chamber is at Zanzibar or Dar es Salaam — avoid decompression stops.
+Given the 25-meter depth and wall topography, standard deep-wall precautions apply (NDL discipline, avoiding passive over-descent along the wall face). No source-confirmed, site-specific hazards were found.
 
 ## Photography
 
-Memba 1's encrusted wall face provides spectacular wide-angle subjects — the combination of sea fans, colorful sponges, and blue open water creates vivid compositions. Strobes are needed to restore color in the deeper sections. Nudibranchs on the wall surface reward methodical macro searching with good returns at most times of year.
+No site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Description based on the general character of Mnemba-area wall diving, cross-referenced across [Fun Divers Zanzibar](https://fundiverszanzibar.com/diving-mnemba-island/), [ScubaFish Zanzibar](https://www.scubafishzanzibar.com/dive-in-zanzibar/dive-sites-zanzibar/), and [TGI Diving](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/dive-sites/). No source names a site specifically called "Memba 1" or confirms marine life at this exact coordinate. Last updated 2026-07-05.*

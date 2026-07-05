@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Memba 2
 
-Memba 2 is the southern companion to Memba 1 on the eastern coast of Pemba Island, sharing the same wall escarpment with a slightly different coral and sponge community and accessed via a separate mooring point approximately 200 meters south of Memba 1.
+Memba 2 sits within the Mnemba Island area off Zanzibar's northeast coast, roughly 1km northwest of the Memba 1 coordinate and very close to Mnemba Island itself. As with Memba 1, "Memba" is very likely a truncation of "Mnemba" rather than a distinct place name.
 
 ## Overview
 
-Memba 2 covers a southern section of the same Pemba Channel wall system as Memba 1, with similar topography — a near-vertical face from 6-8 meters reef crest to 25 meters — but distinct species distribution patterns and slightly different current exposure. Local guides report that Memba 2 tends to have better soft coral and sea fan development in the 18-25 meter range, while Memba 1 has more diverse invertebrate life on the shallower sections. Together, the two sites offer a comprehensive Pemba wall diving experience across a single dive day.
+As with Memba 1, no operator, guidebook, or forum source found in this research pass names a dive site specifically called "Memba 2." The coordinates fall within the Mnemba Island Marine Conservation Area, where documented named wall sites include Kichwani, Big Wall, and Wattabomi (see Memba 1 for source details). The general Mnemba-area wall character — reef crest into a drop-off, with visibility commonly reported at 15-30m — is plausible for this location but not confirmed as specific to this exact point versus a nearby named site.
 
 ## Site Information
 
-- **Location**: Memba area, East Pemba Island, Tanzania
+- **Location**: Mnemba Island area, Northeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall dive (consistent with general Mnemba-area character; this specific numbered site is not independently confirmed)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Moderate, tidal
-- **Best Time**: October to March (northeast monsoon)
+- **Typical Visibility**: Mnemba area is widely reported at 15-30m by multiple operators (general area characteristic, not site-specific)
+- **Current**: Not independently confirmed for this specific site
+- **Best Time**: Not independently confirmed for this specific site
 
 ## Marine Life
 
-Memba 2's deeper section (18-25 meters) is particularly well-known for large sea fans hosting pygmy seahorses — a highlight that draws underwater photographers. Schooling fish including surgeonfish and anthias use the wall face as a current break. Large Napoleon wrasse are occasionally seen on the upper reef crest. The resident moray eels and groupers at Memba 2 tend to be less disturbed by divers than at more frequently visited sites, resulting in more relaxed animal behavior. Eagle rays are commonly reported patrolling below the wall base.
+No species can be confirmed specifically for "Memba 2." An earlier draft of this page claimed pygmy seahorses on sea fans in the 18-22m zone and frequent Napoleon wrasse and eagle ray sightings as if confirmed for this exact site — none of this was corroborated by any source in this research pass, and it has been removed rather than repeated. Species reported generally for the Mnemba wall area (not site-specific) include Napoleon wrasse, white tip reef sharks, groupers, and turtles.
 
 ## Dive Profile
 
-Like Memba 1, the standard approach is to descend to the deeper zone first and work up the wall, but Memba 2 rewards spending more time in the 18-25 meter section given the sea fan and soft coral development there. Budget at least 10 minutes at the deeper zone before ascending. Total dive time of 40-50 minutes is achievable while staying within NDL limits for a second dive.
+Not independently documented for this specific point. Standard wall-diving practice for the Mnemba area (per multiple operators) is to plan a maximum depth, then ascend along the wall face toward the shallower reef crest.
 
 ## Entry and Exit
 
-Same logistics as Memba 1 — Pemba Island operators or liveaboard access. If diving both sites on the same day, Memba 1 is typically the first dive (deeper) with Memba 2 as the second (or vice versa if guides prefer the specific site order for current conditions). Surface interval on the boat.
+Boat access from Mnemba-area operators. Specific mooring or entry-point details for this exact site, and whether it is commonly paired with "Memba 1" on the same dive day, were not found in available sources.
 
 ## Tips and Recommendations
 
-- Ask the guide specifically about the pygmy seahorse locations on sea fans in the 18-22 meter zone
-- Memba 2 is better photographically when current is light — strong current makes it difficult to hold position near small subjects like seahorses
-- Diving both Memba sites on a single day is a Pemba Island classic — do not miss the combination
-- Log both dives as separate entries to compare species lists between the sites
+- Ask your Mnemba-area operator whether "Memba 2" corresponds to a named site such as Kichwani or Big Wall, since no independent source uses this exact name
+- Confirm with the operator whether pygmy seahorses or other specific macro subjects have actually been seen at this coordinate before planning a dedicated search — this was not corroborated in research
 
 ## Safety Considerations
 
-Same considerations as Memba 1 — careful NDL management, wall dive depth discipline, and reef hook preparation for potential current. When planning a two-dive Memba day, ensure the surface interval is adequate (minimum 1 hour) and that the second dive does not exceed 18 meters to stay within safe repetitive dive limits.
+Given the 25-meter depth and wall topography, standard deep-wall precautions apply. No source-confirmed, site-specific hazards were found.
 
 ## Photography
 
-The sea fans in the 18-25 meter zone make Memba 2 a standout macro photography site for pygmy seahorse images. The overall wall architecture also photographs well at wide angle, and the excellent visibility allows for creative diver-in-frame compositions with the open blue Pemba Channel as backdrop.
+No site-specific photography guidance was found in available sources.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Description based on the general character of Mnemba-area wall diving, cross-referenced across [Fun Divers Zanzibar](https://fundiverszanzibar.com/diving-mnemba-island/), [ScubaFish Zanzibar](https://www.scubafishzanzibar.com/dive-in-zanzibar/dive-sites-zanzibar/), and [TGI Diving](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/dive-sites/). No source names a site specifically called "Memba 2" or confirms marine life at this exact coordinate. Last updated 2026-07-05.*

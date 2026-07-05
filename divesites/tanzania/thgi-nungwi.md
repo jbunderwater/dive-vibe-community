@@ -13,49 +13,44 @@ addedBy: osm_import
 
 ## THGI Nungwi
 
-THGI Nungwi is a coral reef dive site at the northern tip of Zanzibar Island in the Nungwi area, associated with the diving operation based near the popular Nungwi beach resort strip and named for its operator designation. It sits on the same productive reef system that makes Nungwi one of Zanzibar's premier dive bases.
+"THGI" appears to be a variant rendering of "TGI." Research confirms TGI Diving International / TGI East Africa Ltd is a real, active PADI dive operator based in the Nungwi/Kendwa area of northern Zanzibar. No independent source describes a distinct dive site actually named "THGI Nungwi" with its own depth, marine-life, or dive-profile detail.
 
 ## Overview
 
-Nungwi's northern tip experiences year-round diving due to its sheltered position, with the eastern side protected in the northeast monsoon and the western side accessible during the southeast monsoon. THGI Nungwi covers a section of the reef accessible to beginner divers, with a reef top at 4-6 meters and a gentle slope to 20 meters. The site benefits from the enhanced diversity that characterizes reef junctions at the northern tip of the island where Indian Ocean water circulates from both sides. Visibility typically ranges from 15-20 meters.
+The only page found using the exact name "THGI Nungwi" is an aggregator (ScubaSnap) that explicitly discloses its content "may be user-provided or aggregated from sources such as AI, Wikipedia, and search results" and states the information "is not guaranteed to be safe, accurate, or current" — this does not meet the bar for a qualifying independent source. TGI Diving's own pages describe TGI as a dive center/operator with a booking and dive-sites program based in Nungwi, not a single named reef called "THGI Nungwi." As with several other entries in this batch, this is consistent with a dive operator's base location being mislabeled as a dive site by the scraper.
 
 ## Site Information
 
-- **Location**: Nungwi, North Zanzibar Island, Tanzania
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-20 meters (50-65 feet)
-- **Current**: Light to moderate
-- **Best Time**: Year-round at Nungwi (different sides dived in different seasons)
+- **Location**: Nungwi, North Zanzibar Island, Tanzania (coordinates only — not tied to a confirmed named reef)
+- **Entry Type**: Boat dive (unchanged, unconfirmed for this specific entry)
+- **Site Type**: Reef (unchanged, unconfirmed for this specific entry)
+- **Difficulty Level**: Beginner (unchanged, unconfirmed for this specific entry)
+- **Maximum Depth**: Listed as 20 meters — not independently confirmed; the one aggregator page found for this name gives 30 meters, but that source does not meet this project's sourcing bar
 
 ## Marine Life
 
-The reef at Nungwi hosts a consistently active community dominated by parrotfish, unicornfish, and surgeonfish. Sea turtles are well-known residents — both green and hawksbill species are regularly encountered and have become habituated to diver presence over years of diving activity. Barracuda school at the reef edge. Small reef sharks patrol the outer zone in the early morning and evening. The shallow reef top produces excellent encounters with juvenile fish and cleaning station activity.
+No qualifying site-specific marine life source was found. Regional Nungwi reef fauna (parrotfish, surgeonfish, sea turtles, occasional reef sharks) likely applies to whatever reef exists at these coordinates, but no confirmed source ties specific sightings to this exact point, so no species are named here.
 
 ## Dive Profile
 
-A standard reef slope dive beginning at the reef crest and descending to 18-20 meters on the outer slope. Nungwi's reef system allows for extended diving with multiple reference points along the slope. For beginners, confining the dive to 5-15 meters allows an extended bottom time exploring the richest coral zone.
+Not confirmed by any qualifying source.
 
 ## Entry and Exit
 
-Boat access from Nungwi beach, with multiple operators concentrated in the northern village. Day trip packages typically combine THGI Nungwi with nearby drift sites like Barracuda Point for a two-tank morning. Giant stride entry, assisted exit via boat ladder.
+Boat access from the Nungwi area is plausible given TGI Diving's base there, but no qualifying source ties a specific access route to this named entry.
 
 ## Tips and Recommendations
 
-- Nungwi has excellent operator choice but can be crowded at peak season (December-February) — book in advance
-- THGI Nungwi is a good first dive in Zanzibar for acclimatization before attempting deeper or higher-current sites
-- Ask guides about the resident turtle feeding areas — specific coral heads serve as reliable turtle locations
-- Morning dives (7-9am) typically have the best visibility and most active fish behavior before afternoon boat traffic peaks
+- Treat "THGI Nungwi" as an unresolved entry — it most likely reflects the TGI Diving International operator base rather than a distinct dive site
+- If diving in this area, ask TGI Diving directly which named reef, if any, corresponds to these coordinates
 
 ## Safety Considerations
 
-Suitable for recently certified divers with proper supervision. The Nungwi reef can have stronger current on the eastern side where the channel narrows — briefings are important to identify which aspect of the reef is being dived. Deploy SMB for ascent given the level of boat traffic in the Nungwi area.
+Not assessed — no qualifying site-specific information was found.
 
 ## Photography
 
-Nungwi's resident turtles provide some of the most accessible turtle photography in East Africa. Early morning dives with good light penetration to 8-12 meters allow natural-light photography without strobes. Wide-angle setups for the reef scenes and a secondary macro lens for smaller subjects cover the full range of THGI Nungwi's photographic opportunities.
+Not assessed — no qualifying site-specific information was found.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No qualifying site-specific sources found. "THGI Nungwi" most likely reflects the TGI Diving International operator base in Nungwi (see [TGI Diving International – Zanzibar Nungwi](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/)) rather than a distinct named dive site; the only page found under this exact name (ScubaSnap) self-discloses as an unverified, possibly AI-aggregated source. Last updated 2026-07-05.*

@@ -17,7 +17,7 @@ Satonda Reef refers to the diving around Satonda Island, a small ancient volcani
 
 ## Overview
 
-The diving at Satonda is primarily a macro and muck experience in a sheltered bay, with sparse coral patches and shallow depths suited to patient critter hunters. Pygmy seahorses are the main draw — experienced local guides know their locations in the seafans. The site is also noted for rare clown frogfish (bright yellow with dark red patches, approximately 2–3 cm long and easily mistaken for sponge), scorpionfish, ghost pipefish, and banded boxer shrimp. Night diving is popular here, revealing hunting octopuses and bioluminescent plankton. Currents are typically weak, and the shallow depths (to 18 m) make it manageable for intermediate divers. Visibility can be washed out when currents stir the sediment. Access is by liveaboard, with the best conditions from April to November.
+The diving at Satonda is primarily a macro and muck experience in a sheltered bay, with sparse coral patches and shallow depths suited to patient critter hunters. Reported depths range from about 5 m to 25 m depending on the source. The site is noted for rare clown frogfish — described independently by two operators as roughly 1 inch (2–3 cm), bright yellow with dark red patches, and easily mistaken for a sponge — along with scorpion leaffish, ghost pipefish, crinoids, polyclad flatworms, arrow crabs, and banded boxer shrimp. One liveaboard operator (Samata) specifically highlights pygmy seahorses as a draw, noting their guides know where to find them in the seafans; this is not corroborated elsewhere, so treat it as a single-source report rather than a guaranteed sighting. Night dives are offered at the site for additional macro subjects. Currents are typically weak. Visibility can be washed out when currents stir the sediment. Access is by liveaboard, with the best conditions from April to November.
 
 ## Site Information
 
@@ -25,18 +25,18 @@ The diving at Satonda is primarily a macro and muck experience in a sheltered ba
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 18 meters (sources report a range of roughly 5–25 m)
 - **Currents**: Weak
 - **Best Season**: April–November (year-round accessible)
-- **Protected Area**: Marine Nature Park (designated 1999)
+- **Protected Area**: Marine Nature Park / TWAL, designated 1999 by Indonesia's Ministry of Forestry (confirmed by Samata Liveaboard and Wikipedia)
 
 ## Marine Life
 
-Pygmy seahorses, clown frogfish (rare), ghost pipefish, banded boxer shrimp, arrow crabs, scorpionfish, octopus (night dives).
+Clown frogfish (rare, confirmed by two independent sources), scorpion leaffish, ghost pipefish, crinoids, polyclad flatworms, arrow crabs, banded boxer shrimp. Pygmy seahorses are reported by one operator (Samata Liveaboard) but not confirmed elsewhere.
 
 ## Dive Profile
 
-Shallow sandy bay with sparse coral patches. Descend to 10–18 m and work slowly, looking for small critters in seafans and on rubble. Excellent for macro photography and night dives.
+Shallow sandy bay with sparse coral patches. Work slowly through the 5–25 m depth range, looking for small critters in seafans and on rubble. Popular for macro photography and night dives.
 
 ---
-*Sources: [Asia Dive Site - Satonda Island](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/satonda-island.php), [Samata Liveaboard - Satonda Island Spotlight](https://samataliveaboard.com/satonda-island-destination-spotlight/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php). Last updated 2026-05-17.*
+*Sources: [Asia Dive Site - Satonda Island](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/satonda-island.php), [Samata Liveaboard - Satonda Island Spotlight](https://samataliveaboard.com/satonda-island-destination-spotlight/), [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Wikipedia - Satonda](https://en.wikipedia.org/wiki/Satonda_Island). Last updated 2026-07-05.*

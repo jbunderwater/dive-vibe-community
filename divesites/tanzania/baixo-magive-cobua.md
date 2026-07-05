@@ -13,50 +13,33 @@ addedBy: osm_import
 
 ## Baixo Magive Cobua
 
-Baixo Magive Cobua is a shallow reef formation in the Mafia Island archipelago of southern Tanzania, part of the Mafia Island Marine Park — one of East Africa's most pristine and least-dived protected marine areas.
+**DATA INTEGRITY NOTICE — LOCATION REQUIRES MAINTAINER REVIEW.** Independent research indicates this site's coordinates (-11.5222657, 40.5392667) place it in Mozambique, not Tanzania. It does not appear to be part of Mafia Island or the Mafia Island Marine Park — that claim in the previous version of this page was fabricated and is removed below. See the notice box for details.
+
+> **Geographic mismatch:** The U.S. National Geospatial-Intelligence Agency's GEOnet Names Server (accessed via [Wikidata](https://www.wikidata.org/wiki/Q34739572) and mirrored by [tideking.com](https://tideking.com/Mozambique/Cabo-Delgado/)) lists "Baixo Magive Cobua" as a reef at 11°31'0"S, 40°32'0"E — matching this record almost exactly — located in **Cabo Delgado Province, Mozambique**, near Ilha Mionge (approx. -11.42, 40.53). That point is roughly 100 km south of the Ruvuma River mouth (~10°28'S), which forms the Tanzania-Mozambique border. In other words, this reef sits well inside Mozambican waters, in the Palma district area. This district is also currently subject to an active insurgency (multiple government travel advisories in 2026 warn against travel to Palma district), which independently explains why no dive-tourism documentation exists for it — there is essentially no recreational diving industry operating there at present.
+>
+> "Baixo" is Portuguese for "shoal/reef," consistent with Mozambican (not Tanzanian/Swahili) naming conventions for this stretch of coast. This is one of four sites in this research batch (see also Baixo Nameguo, Baixo Varuni, Baixo Tambula) that show the same pattern, suggesting the `destinations.json` bounding box for Tanzania was drawn wide enough to sweep in Mozambican coastal features near the border. **Recommendation: flag for removal from the Tanzania destination file, or relocate to a Mozambique destination file if one exists, pending maintainer decision. Do not mark validated="true" for this destination.**
 
 ## Overview
 
-"Baixo" is the Portuguese-derived Swahili term for a shallow reef or shoal, and Magive Cobua is one of several such formations scattered across the outer Mafia Channel. The site sits in nutrient-rich waters fed by seasonal upwelling and riverine inputs from the Rufiji River delta, which support an unusually high density of coral growth and fish biomass. Visibility averages 15-20 meters, and the reef tops at around 4 meters before sloping to the maximum surveyed depth of 18 meters.
+Beyond the gazetteer listing above, no independent, site-specific source (dive operator, forum, or survey) describing this reef as a diving destination could be found. The depth, difficulty, and entry-type values below are carried over unverified from the existing dataset — they could not be confirmed or refuted by any source located during this research pass.
 
-## Site Information
+## Site Information (unverified)
 
-- **Location**: Mafia Island Marine Park, southern Tanzania
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 12-20 meters (40-65 feet)
-- **Current**: Moderate, variable with tide
-- **Best Time**: October to March for calmest conditions; June-September for whale shark season
+- **Location**: Coordinates fall in Cabo Delgado Province, Mozambique (see notice above), not Tanzania
+- **Entry Type**: Boat dive (unverified)
+- **Site Type**: Reef/shoal (consistent with GEOnet classification as "reef")
+- **Difficulty Level**: Intermediate (unverified — no dive-specific source found)
+- **Maximum Depth**: 18 meters (unverified — no dive-specific source found)
+- **Typical Visibility**: Unknown — no source found
+- **Current**: Unknown — no source found
 
 ## Marine Life
 
-Mafia Island's protected waters support exceptional fish density. Expect large schools of fusiliers and snappers over the reef top, with groupers and sweetlips patrolling deeper ledges. Green turtles are commonly encountered resting on the coral. Whale sharks aggregate in the Mafia Channel between October and March — one of the most reliable whale shark encounter destinations in the Indian Ocean. Stingrays and eagle rays cruise the sandy patches between coral heads.
+No source-confirmed marine life information exists for this specific site. The previous version's claims of whale sharks, turtles, and dense fish schools were generic Mafia Island boilerplate that does not apply to this location and has been removed rather than replaced with new speculation.
 
-## Dive Profile
+## Access Note
 
-Begin at the reef crest in 4-6 meters, then follow the slope down to 15-18 meters for the most diverse coral communities. The terrain is varied, with coral blocks, sandy channels, and small overhangs supporting a range of micro-habitats. Spend the deeper portion of your dive on the outer slope before ascending the reef for a long shallow water finish.
-
-## Entry and Exit
-
-Access requires a boat from Mafia Island, typically from Utende or Kilindoni. Given the remote location, always brief with the boat crew on abort signals and surface marker procedures. Deploy an SMB at 5 meters for your safety stop to ensure an easy pickup.
-
-## Tips and Recommendations
-
-- Mafia Island Marine Park requires a park fee — confirm with your operator before diving
-- October to March offers the best combination of calm seas and whale shark encounters
-- Bring a torch for investigating coral overhangs and finding nudibranchs
-- This is a remote site — confirm the operator has adequate safety equipment onboard
-- Tidal timing affects both visibility and current strength; aim for slack water on your first visit
-
-## Safety Considerations
-
-The remoteness of the Mafia Channel means emergency evacuation can be slow. Ensure your operator carries oxygen, a first aid kit, and has reliable communications. Moderate currents are common across the reef top and can strengthen quickly with tidal changes. Always dive with a buddy and carry a fully inflated SMB.
-
-## Photography
-
-The combination of healthy coral, diverse fish populations, and potential whale shark encounters makes this a high-value photography site. Wide-angle rigs are recommended. Morning light provides the best conditions for reef shots, while late afternoon can produce dramatic silhouette opportunities as pelagic fish rise in the water column.
+This is a remote, sparsely documented, and currently conflict-affected stretch of coastline. No dive operator, park authority, or research source was found describing boat access, entry procedures, or safety conditions for this site.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Wikidata Q34739572 — Baixo Magive Cobua](https://www.wikidata.org/wiki/Q34739572) (GEOnet Names Server), [tideking.com — Cabo Delgado, Mozambique](https://tideking.com/Mozambique/Cabo-Delgado/). These confirm location only; no site-specific diving source was found. Last updated 2026-07-05.*
