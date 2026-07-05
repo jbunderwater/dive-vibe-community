@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Lagoon Mounding
 
-Lagoon Mounding is a shallow reef formation within Zanzibar Island's southeastern lagoon, near Jambiani, featuring raised coral mounds rising from the lagoon floor in a distinctive knoll-and-channel topography that creates diverse microhabitats in a compact area.
+Lagoon Mounding is an inner-reef dive site within the protected lagoon on Zanzibar's southeast coast near Paje and Jambiani, reached by a short boat ride from either village base.
 
 ## Overview
 
-The eastern Zanzibar lagoon contains several areas where coral growth has built up "moundings" — raised reef structures that break the monotony of the flat lagoon bottom and create sheltered pockets of higher coral density. Lagoon Mounding specifically refers to one of these formations accessible from Jambiani, where the reef rises from the sandy lagoon floor at 10-12 meters to coral tops at 5-6 meters. The site is entirely inside the fringing reef barrier, giving it some of the calmest and most consistent conditions on Zanzibar.
+Lagoon Mounding sits inside the barrier reef that runs along Zanzibar's southeast coast, one of three named sites in this sheltered lagoon area (alongside Stingray City and Jambiani Lagoon) that local operators run as short, calm dives about 15 minutes by boat from Paje or Jambiani. Because the site is inside the fringing reef, it stays diveable even when conditions on the outer reef are too rough. Reported depth for the site ranges from roughly 6 to 16-22 meters depending on the source consulted (accounts vary; this dataset lists a working maximum of 15 meters).
 
 ## Site Information
 
-- **Location**: Jambiani Lagoon, Southeast Zanzibar Island, Tanzania
+- **Location**: Lagoon between Paje and Jambiani, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (inner lagoon)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 8-15 meters (26-50 feet)
-- **Current**: Very light (protected lagoon)
-- **Best Time**: Year-round; October to April best for eastern sites
+- **Maximum Depth**: Sources report 6-16m to 6-22m; this dataset lists 15m
+- **Typical Visibility**: Not independently confirmed for this specific site
+- **Current**: Light (protected lagoon)
 
 ## Marine Life
 
-The mound structure provides a concentrated habitat that attracts higher fish densities than the surrounding lagoon floor. Schools of goatfish comb the sandy channels between mounds, while the mound walls shelter soldierfish, squirrelfish, and moray eels in the shadier recesses. Sea turtles are resident in the area and frequently rest on the mounds. Night dives reveal cuttlefish hovering over the mound tops and hunting in the adjacent sandy channels.
+Local dive operators consistently report nudibranchs, leaf fish, snake eels, pipefish, batfish, scorpionfish, puffers, and trumpet fish at this site. It is also mentioned as a regular night-dive location, with a good chance of seeing Spanish dancers after dark. No source confirms turtles, cuttlefish, or moray eels specifically at this site (a previous version of this page listed goatfish, soldierfish, squirrelfish, moray eels, resident turtles, and night-diving cuttlefish; none of that was source-supported and it has been removed).
 
 ## Dive Profile
 
-Navigate between the coral mounds, exploring the channels at the base level before ascending each mound to the crest. The site rewards slow, methodical exploration rather than continuous movement — hovering near the mound edges allows fish behavior to continue naturally. An air-limited dive of 50 minutes easily covers the main mound cluster.
+Consistent with its description as a "mounding" reef structure inside the lagoon, expect raised coral formations rising from a sandy lagoon floor. Beyond the operator marine-life list above, no independently confirmed dive-profile detail (route, timing, specific depth zones) was found; avoid over-specifying beyond what is sourced.
 
 ## Entry and Exit
 
-Boat departure from Jambiani village. Very calm conditions allow small traditional wooden boats. The sheltered lagoon means this site can be dived even when open-water sites are unsuitable due to weather. Pickup at the surface is straightforward with minimal swell.
+Boat access from Paje or Jambiani, approximately 15 minutes by boat. The lagoon setting is described by operators as calmer and more sheltered than the outer reef.
 
 ## Tips and Recommendations
 
-- Outstanding site for practicing buoyancy over the varied mound topography
-- Night dives here are highly recommended — the calm, shallow conditions and rich cuttlefish activity make for memorable evenings
-- Pair with Jambiani Lagoon and Pawoni Hill for a full day of varied southeastern Zanzibar diving
-- The mound structure is home to cleaning stations — hover patiently near coral outcrops and observe fish queuing for shrimp and wrasse cleaners
+- Local operators run night dives here specifically for Spanish dancer and nocturnal-species sightings
+- Ask your operator directly about current visibility and exact depth profile, since published figures vary between sources
 
 ## Safety Considerations
 
-The protected lagoon setting makes this one of Zanzibar's safest dive sites. Light currents, minimal swell, and shallow depth remove most standard dive risks. Sea urchins are present on and around the mounds — manage buoyancy to avoid contact. For night dives, brief carefully on navigation between mounds and carry a spare torch.
+No site-specific safety information was found beyond the general characterization as a sheltered, beginner-friendly lagoon site. Standard lagoon diving precautions apply.
 
 ## Photography
 
-The varied topography of the mounds creates interesting compositional opportunities — shooting along a mound wall with fish in the background and a sandy channel in the foreground produces layered images with depth. The lagoon's clear, calm water allows natural-light photography down to 10 meters in good conditions. Night photography of cuttlefish is a particular specialty here.
+No site-specific photography information was found.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/), [Zanzibar Dive – Half Day 2 Dives Jambiani](https://zanzibardive.com/st_activity/half-day-2-dives-jambiani/). Both are Paje/Jambiani-based dive operators; their site descriptions overlap closely in wording, so they should be treated as one corroborating source lineage rather than fully independent verification — a third independent source with comparable site-specific detail was not found. Last updated 2026-07-05.*

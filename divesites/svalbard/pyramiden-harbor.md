@@ -25,7 +25,7 @@ These historical facts are well documented for the settlement itself, but we cou
 
 - **Location**: Pyramiden, Billefjorden, Svalbard, Arctic
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 

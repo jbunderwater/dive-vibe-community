@@ -25,7 +25,7 @@ We could not confirm site-specific depths, exact marine life, or dive-profile de
 
 - **Location**: Adventfjorden harbour, Longyearbyen, Svalbard, Arctic
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters
 

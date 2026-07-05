@@ -13,49 +13,48 @@ addedBy: osm_import
 
 ## Cement Wall
 
-Cement Wall is a wall dive site on the eastern coast of Zanzibar Island near Jambiani village, named for the pale, almost smooth-looking hard coral substrate that covers the upper section of the wall, giving it a distinctive appearance compared to the more encrusted walls in the north.
+Cement Wall is an outer-reef wall dive site off Zanzibar's southeast coast near Paje/Jambiani, reached through a gap in the barrier reef ("mlango" in Swahili) from the lagoon.
 
 ## Overview
 
-The eastern Zanzibar coast is less developed for diving than the northern Nungwi area, but sites like Cement Wall offer a more authentic experience with fewer boats and calmer conditions inside the fringing reef. The wall drops from a reef top at approximately 6 meters to a sand bottom around 20 meters, with the most interesting sections at 12-20 meters where overhanging coral formations create sheltered micro-habitats. Visibility is typically good at 15-20 meters during the northeast monsoon.
+Local operator Buccaneer Diving describes Cement Wall as named after a ship that, according to their account, lost a cargo of cement in the 1930s, with three large anchors still visible near the wall (one positioned in front of a small cave). **This historical claim comes from a single operator source and has not been corroborated by a second independent source** — per this project's anti-hallucination policy it is presented here as an operator claim, not a verified fact, and no ship name, tonnage, or further detail should be added without additional corroboration.
+
+Depth and exact location reported for "Cement Wall" differ between sources: Buccaneer Diving lists 12-35m; the PADI dive-site database lists a maximum depth of approximately 40m ("first floor at 6m, coral garden until 17m, then deeper drops and walls") at coordinates -6.30822, 39.57898 — roughly 1.3 km north of the coordinates in this dataset (-6.320227, 39.5781007). This may indicate either natural variation in where "Cement Wall" is anchored/dived, imprecise crowd-submitted coordinates, or a mismatch between this dataset's OSM-derived point and the commonly dived site; it is flagged here rather than silently resolved.
 
 ## Site Information
 
-- **Location**: East Zanzibar Island near Jambiani, Tanzania
+- **Location**: Outer reef off Jambiani, Southeast Zanzibar Island, Tanzania (accessed via reef-gap channel from the lagoon)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-20 meters (50-65 feet)
-- **Current**: Moderate, tidal
-- **Best Time**: October to April (northeast monsoon, eastern sites best)
+- **Difficulty Level**: Buccaneer Diving describes it as "suitable for all levels of divers"; this dataset lists Intermediate
+- **Maximum Depth**: Conflicting reports — 20m (this dataset), 35m (Buccaneer Diving), ~40m (PADI). Sources disagree; do not treat any single figure as settled.
+- **Typical Visibility**: Not independently confirmed for this specific site
+- **Current**: Not independently confirmed
 
 ## Marine Life
 
-The wall overhangs shelter groupers, soldierfish, and large moray eels. Lionfish are common in the crevices and should be given space. Sea fans and black corals appear on the deeper sections at 15-20 meters, hosting longnose hawkfish and flamingo prawns for eagle-eyed macro photographers. Sea turtles regularly rest on the sandy bottom at the base of the wall. Reef sharks occasionally patrol the outer water beyond the wall face.
+The PADI dive-site database (an independent, crowd-contributed source) lists large groupers, turtles, dolphins, sharks, and whales as reported sightings at this location. Buccaneer Diving separately reports ribbon eels and describes the site generally as having "rich marine life" and "spectacular colors." Groupers and turtles are corroborated across both of these directly-checked sources; the other species (dolphins, sharks, whales, ribbon eels) each appear in only one source. A prior version of this page listed lionfish, sea fans, black coral, longnose hawkfish, and flamingo prawns — none of which were found in either source — and those have been removed.
 
 ## Dive Profile
 
-Descend to the sand at the base of the wall (approximately 20 meters) and work your way up, spending time at each overhang and crevice on the way. The most productive zone is 12-18 meters where the wall has the greatest relief and most complex structure. Finish with a traverse of the upper reef at 6-10 meters before ascending for the safety stop.
+Buccaneer Diving describes the option to "dive across the garden or alongside the wall." PADI describes a profile of reef top around 6m, coral garden to ~17m, then drops/walls deeper. These are broadly consistent (shallow reef top transitioning to a wall) though the exact depth breakdown differs slightly between the two sources.
 
 ## Entry and Exit
 
-Boat access from Jambiani village dive operators. The eastern coast is generally calmer than the north in the northeast monsoon season (October-April) but can be affected by the kusi (southeast monsoon) between June and September. Confirm site accessibility with operators during transitional months.
+Boat access from Jambiani/Paje-based operators via the reef-gap ("mlango") channel from the lagoon, per Buccaneer Diving.
 
 ## Tips and Recommendations
 
-- The relative isolation of the eastern Zanzibar coast means less boat traffic and quieter dive conditions
-- Bring a dive torch — the wall overhangs shelter cryptic species that require illumination to see clearly
-- Tidal current timing significantly affects conditions here; briefings from local guides are invaluable
-- Combine with nearby Jambiani Lagoon and Pawoni Hill for a full day of varied diving in the area
+- Confirm current depth limits and site location with your operator before the dive, given the depth and coordinate discrepancies between sources noted above
+- Treat the "1930s cement ship" origin story as operator lore pending a second corroborating source, not a verified historical fact
 
 ## Safety Considerations
 
-Moderate tidal currents can sweep along the wall face, particularly during the change of tide. If current picks up, ascend to the reef top where conditions are more sheltered. Monitor depth carefully — the wall profile encourages passive descent. Always carry an SMB.
+No site-specific safety information was found beyond its general characterization as a wall/drift-accessible outer-reef site suitable for a range of experience levels.
 
 ## Photography
 
-The wall overhangs and their inhabitants are the main macro photography subjects. A torch or constant video light dramatically improves image quality in the shadowed crevices. Wide-angle shots looking along the wall face with a diver for scale produce strong compositions.
+No site-specific photography information was found.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/), [PADI Dive Site Database – Cement Wall, Tanzania](https://www.padi.com/dive-site/tanzania/cement-wall/). Two independent sources were found and used, but they conflict on depth and exact coordinates (flagged above); a third independent source was not found, so this entry is not marked fully validated. Last updated 2026-07-05.*

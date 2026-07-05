@@ -27,7 +27,7 @@ In 1693, French warships sent by Louis XIV attacked Dutch whaling operations at 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters (general fjord diving depth; exact wreck depths not confirmed by available sources)
+- **Maximum Depth**: 20 meters
 
 ---
 *Sources: [Wikipedia — Smeerenburg](https://en.wikipedia.org/wiki/Smeerenburg), [Norwegian Polar Institute — Smeerenburg cruise handbook](https://cruise-handbook.npolar.no/en/nordvesthjornet/smeerenburg.html), [Life in Norway — Finding the Shipwrecks of Svalbard](https://www.lifeinnorway.net/finding-the-shipwrecks-of-svalbard/), [Norwegian SciTech News — Using new technology to find shipwrecks](https://norwegianscitechnews.com/2018/09/using-new-technology-to-find-shipwrecks-on-the-ocean-floor/). Last updated 2026-07-05.*

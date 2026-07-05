@@ -13,49 +13,36 @@ addedBy: osm_import
 
 ## Mbudya Patches
 
-Mbudya Patches is a collection of coral patch reefs surrounding Mbudya Island in the Dar es Salaam Marine Reserve, a small uninhabited island about 10 kilometers north of Dar es Salaam that is one of the city's most popular dive and snorkel destinations.
+Mbudya Patches refers to the coral patch-reef area around Mbudya Island, part of the Dar es Salaam Marine Reserve System roughly 10 km north of Dar es Salaam and one of the city's most-visited day-trip dive and snorkel destinations.
 
 ## Overview
 
-Mbudya Island and its surrounding patches are part of the Dar es Salaam Marine Reserve System, and Mbudya Patches specifically refers to several discrete coral formations scattered in the sandy shallows around the island. These patches rise from a sand and rubble bottom at 10-12 meters to reef tops at 3-5 meters, creating a varied topography for beginner divers and snorkelers. Visibility is typically 10-15 meters in the northeast monsoon and reduces to 5-8 meters in the southeast monsoon when stronger winds stir sediment.
+Mbudya Island is surrounded by shallow coral reef on its northeast, east, and southeast sides. The best-documented named reef in this area is **Big T Reef**, on the seaward (eastern) side of the island: its reef top runs 9-15 meters before the seaward face drops steeply to 40-50 meters. **Octopus Reef** lies just southeast of the island as a separate named site. The dataset's "Mbudya Patches" is not, itself, independently attested under that exact name by any source found — it most plausibly refers to this same general patch-reef area (Big T Reef's shallow top matches this record's 15m depth reasonably well), but that identification is an inference, not a confirmed one-to-one match. One dive-operator source (Deep Marine Diving) independently confirms Mbudya as an active, currently-operating snorkel/dive site with marine park entry fees, describing it generically as having "rich marine life" without site-specific detail.
+
+A dive-oriented source (Seaunseen) also notes candidly that overfishing and dynamite fishing have damaged reefs in this general area, and that reef fish over 30 cm are now uncommon — an honest caveat against overstating fish abundance or size here.
 
 ## Site Information
 
-- **Location**: Mbudya Island, Dar es Salaam Marine Reserve, Tanzania
+- **Location**: Mbudya Island reef area, Dar es Salaam Marine Reserve System, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Light
-- **Best Time**: October to February
+- **Site Type**: Coral reef (patch reef)
+- **Difficulty Level**: Beginner (consistent with the shallow 9-15m reef-top depth reported for the nearby named reef, Big T Reef)
+- **Maximum Depth**: 15 meters (matches the shallow reef-top range reported for Big T Reef; the same reef's seaward face drops to 40-50m, which is not part of this shallower record)
+- **Typical Visibility**: Not independently confirmed with a specific figure
+- **Current**: Not independently confirmed
+- **Best Time**: Not independently confirmed for this specific site
 
 ## Marine Life
 
-The Mbudya Patches host a range of resident reef fish in a compact area. Parrotfish and surgeonfish are abundant on the patch tops, while the sandy channels between patches shelter small rays and flatfish. Moray eels live in crevices in the patch walls. Sea turtles are regularly sighted and have a long history of visiting the island's sheltered sides. The seagrass meadows adjacent to the patches support unique species including pipefish and nudibranchs.
-
-## Dive Profile
-
-Navigate between the scattered patches, exploring each formation before moving to the next. The patch-hopping profile creates a diverse dive with constantly changing micro-environments. Divers can spend extended time on the shallowest patches (3-5 meters) as a long, comfortable finish to the dive while instructors complete student work in the shallows.
+No source confirms specific species sightings for "Mbudya Patches" by that name. General reef-fish groups (wrasses, butterfly fish, damselfish) are documented for the broader Mbudya reef area, and reef sharks and clownfish are mentioned by tourism sources for Mbudya's shallow reefs generally, but without site-specific confirmation for the "Patches" area specifically. Per the fishing-pressure caveat above, large-bodied reef fish should not be over-promised. The previous version's claims of moray eels, rays, and "long history of turtle visits" were generic boilerplate and have been removed rather than replaced with unverified specifics.
 
 ## Entry and Exit
 
-Regular boat departures from Msasani Bay and the Slipway in Dar es Salaam, approximately 20-30 minutes to Mbudya Island. The island beach is used for surface intervals. Some operators offer snorkeling packages that combine Mbudya Island beach visits with guided snorkel over the patches.
-
-## Tips and Recommendations
-
-- Ideal for Open Water student dives or confined water skills practice given the shallow, calm patches
-- Combine diving with a beach lunch on Mbudya Island for a full day trip from Dar es Salaam
-- The seagrass areas around the patches reward slow, methodical searching for cryptic species
-- Bring reef-safe sunscreen only — the marine reserve is actively managed and non-reef-safe products are discouraged
+Regular boat departures from Msasani Bay/Slipway in Dar es Salaam serve Mbudya Island as part of the northern reserve circuit, consistent with multiple sources. Specific entry/exit procedure for the patch reefs themselves was not documented.
 
 ## Safety Considerations
 
-One of the most benign dive environments in the Dar es Salaam area. Minimal currents, shallow depth, and calm conditions create safe conditions for beginners. The main concern is sea urchin contact in the sandy channels — swim above the bottom rather than walking or kneeling. Always deploy an SMB for ascent.
-
-## Photography
-
-The shallow, well-lit patches are excellent for natural-light photography. Compact cameras and GoPros are very effective here. Sea turtle encounters in the shallow clear water make for excellent portrait photography. Macro photographers will find rich pickings in the seagrass and rubble zones adjacent to the patches.
+No site-specific safety information was found beyond the general fishing-pressure/reef-damage note above. General shallow-reef diving caution applies as good practice, not as a researched finding.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Dive Sites of Mainland Tanzania — Seaunseen](https://seaunseen.com/diving-in-tanzania/) (names Big T Reef and Octopus Reef near Mbudya, and notes dynamite-fishing damage), [Deep Marine Diving](https://deepmarinediving.com/) (confirms Mbudya as an active operator dive/snorkel site), [Dar es Salaam Marine Reserve — Wikipedia](https://en.wikipedia.org/wiki/Dar_es_Salaam_Marine_Reserve) (confirms Mbudya's place in the reserve system). The exact name "Mbudya Patches" is not independently attested; identification with the sourced reef area is a reasonable but unconfirmed inference. Last updated 2026-07-05.*

@@ -52,7 +52,7 @@ This dive is not accessible to recreational sport divers independently. Access r
 
 - **Location**: Ny-Ålesund, Kongsfjorden, Svalbard, Norway (Arctic)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 

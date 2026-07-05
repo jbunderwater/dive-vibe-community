@@ -25,7 +25,7 @@ Documented marine life in the fjord includes polar cod, capelin, and the shrimp 
 
 - **Location**: Kongsfjorden, Spitsbergen, Svalbard, Arctic
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 

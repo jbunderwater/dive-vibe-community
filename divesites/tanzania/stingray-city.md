@@ -13,49 +13,48 @@ addedBy: osm_import
 
 ## Stingray City
 
-Stingray City is a shallow sandy reef site in the Jambiani area on Zanzibar Island's southeastern coast, where resident southern stingrays have become habituated to diver presence and gather reliably in the shallows — a Zanzibar equivalent of the famous Grand Cayman stingray encounter, without the crowd.
+Stingray City is a lagoon dive site on Zanzibar's southeast coast near Paje/Jambiani, named for the resident population of stingrays encountered along the lagoon's main channel.
 
 ## Overview
 
-The site takes its name from the community of southern stingrays that inhabit the sandy lagoon patches adjacent to the reef here. The rays have become accustomed to dive boats anchoring and divers entering the water, and will approach closely — sometimes gliding over divers' legs on the sandy bottom. The maximum depth of 12 meters keeps the entire site within a comfortable recreational range, and the calm lagoon conditions make this one of the most accessible wildlife encounter dives in Zanzibar.
+Stingray City lies within the same protected inner-lagoon system as Lagoon Mounding and Jambiani Lagoon, reached by a short boat ride from Paje or Jambiani. Local operators describe the dive as following the lagoon's main channel, where sightings of stingrays are reliably high, before continuing to coral formations on the eastern reef. Reported depth for the site varies by source; this dataset lists a maximum of 12 meters.
+
+**Species correction**: The previous version of this page called the resident rays "southern stingrays" and compared the site to Grand Cayman's Stingray City. That is a species error — the southern stingray (*Hypanus americanus*) is a Western Atlantic/Caribbean species and does not occur in the Indian Ocean. Operator sources describing this Zanzibar site specifically name **Blue Spotted Stingrays** (a genus found on Indo-Pacific reefs), so that has been corrected here. No source was found confirming the exact species-level identification beyond "blue spotted stingray," so that common name is used without further taxonomic claim.
 
 ## Site Information
 
-- **Location**: Jambiani Lagoon, Southeast Zanzibar Island, Tanzania
+- **Location**: Lagoon near Paje/Jambiani, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (inner lagoon, sandy channel)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Very light
-- **Best Time**: Year-round; October to April for calmest conditions
+- **Maximum Depth**: Sources vary (one report cites ~18m for the general lagoon system); this dataset lists 12m
+- **Typical Visibility**: Not independently confirmed for this specific site
+- **Current**: Light (protected lagoon)
 
 ## Marine Life
 
-The southern stingrays are the primary attraction and are present year-round in variable numbers (typically 5-15 individuals). Sea turtles also frequent the sandy areas adjacent to the reef. The coral formations at the site's edges support the usual Jambiani lagoon community — parrotfish, surgeonfish, moorish idols, and moray eels. Eagle rays occasionally pass through the area, attracted by the same sandy habitat. Juvenile fish shelter in the coral overhangs nearby.
+Blue Spotted Stingrays are the confirmed draw, described by local operators as reliably present "by the dozens" along the main lagoon channel. The dive continues onto coral formations on the eastern reef where general reef fish are present, though no source lists specific reef-fish species for this site beyond the stingrays. Eagle rays, sea turtles, and moray eels mentioned in a prior version of this page were not source-confirmed and have been removed.
 
 ## Dive Profile
 
-The dive begins with a descent to the sandy areas where stingrays congregate at 8-12 meters. Divers are briefed to move slowly and remain low to the sandy bottom, allowing rays to approach on their own terms. After time with the stingrays, move onto the adjacent coral reef at 5-10 meters to explore the rest of the site. The very shallow finish at 3-5 meters on the reef crest allows extended time before the safety stop.
+Per operator descriptions: the dive follows the lagoon's main channel to the area where stingrays congregate, then continues to the eastern reef's coral formations. No further independently confirmed profile detail (depth zones, timing) was found.
 
 ## Entry and Exit
 
-Boat access from Jambiani. The site is reliably productive even for half-day excursions and is often combined with one or two reef dives for a full morning. Traditional wooden boats and small zodiacs both serve this site.
+Boat access from Paje or Jambiani. Consistent with other lagoon sites in the area, conditions are described as calm and sheltered.
 
 ## Tips and Recommendations
 
-- Move very slowly on the sandy bottom and avoid sudden movements that startle the rays
-- Keep hands behind your back or at your sides — do not reach toward the stingrays
-- The site is also excellent for snorkelers — consider bringing non-diving companions for a combined dive-snorkel trip
-- Ask the guide which sandy patches the rays are currently using — their preferred areas shift seasonally
+- Given the site's name and reputation, standard stingray etiquette applies generally (move slowly, avoid stepping on the sandy bottom) — this is general best practice rather than a claim sourced to this specific site
+- Confirm current depth and visibility with your operator, as published figures for this site are inconsistent
 
 ## Safety Considerations
 
-Stingrays are docile unless threatened or stepped on. The barb on the tail can cause serious injury — never stand on the sandy bottom (swim instead) and approach from the side or front rather than from behind. Maintain proper buoyancy and avoid hovering too close overhead. Beyond stingray etiquette, the site presents minimal hazards given its calm, shallow conditions.
+No site-specific safety information beyond general stingray-encounter etiquette (do not step on the sandy bottom) was found.
 
 ## Photography
 
-Stingray City offers outstanding underwater photography opportunities. The rays' calm behavior allows extended positioning for portrait shots from multiple angles. Shooting from below toward the surface with a stingray in the frame against blue water is the signature wide-angle composition here. A compact camera with a wet wide-angle lens is ideal.
+No site-specific photography information was found.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/), [Zanzibar Dive – Half Day 2 Dives Jambiani](https://zanzibardive.com/st_activity/half-day-2-dives-jambiani/). Both are Paje/Jambiani-based dive operators; their site descriptions overlap closely in wording, so they should be treated as one corroborating source lineage rather than fully independent verification — a third independent source with comparable site-specific detail was not found. Last updated 2026-07-05.*

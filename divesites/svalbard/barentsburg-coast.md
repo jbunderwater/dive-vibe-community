@@ -25,7 +25,7 @@ This location shares the region's Arctic marine fauna (kelp forests, cold-water 
 
 - **Location**: Barentsburg, Isfjorden, Svalbard, Arctic
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 

@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Sau Inn Garden
 
-Sau Inn Garden is a coral reef dive site named for its proximity to the Sau Inn lodge area on Zanzibar Island's southeastern coast near Jambiani, characterized by its garden-like coral formations in the protected eastern lagoon waters.
+Sau Inn Garden is a coral-garden dive site on the outer reef off Zanzibar's southeast coast near Jambiani/Paje, named for its proximity to the Sau Inn lodge area.
 
 ## Overview
 
-The name reflects the reef's appearance — a lush, varied coral garden of different formation types interspersed with sandy openings that create a naturally attractive dive environment. The site lies within the lagoon formed by the eastern Zanzibar fringing reef barrier, with the maximum depth of 18 meters at the outer edge and shallower coral garden zones at 5-10 meters closer to the beach. The protected lagoon position gives Sau Inn Garden some of the most reliably calm conditions on Zanzibar.
+Local operator Buccaneer Diving describes Sau Inn Garden as "a stunningly beautiful garden of assorted corals with amazing colours and a plentitude of micro life and fish," in a depth range of roughly 6-20 meters. The site's name also appears independently as a distinct, named entry in the crowd-sourced dive-site database dive.site ("Sau Inn Garden dive site in Zanzibar, Tanzania"), which corroborates it as a genuinely recognized named site rather than an invented or mislabeled one — though that page's own content could not be retrieved (it returned an access-blocked response), so no additional facts from it are used here.
 
 ## Site Information
 
-- **Location**: Jambiani area, Southeast Zanzibar Island, Tanzania
+- **Location**: Outer reef near Jambiani, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-15 meters (33-50 feet)
-- **Current**: Very light (protected lagoon)
-- **Best Time**: October to April (northeast monsoon, eastern Zanzibar)
+- **Site Type**: Coral reef (coral garden)
+- **Difficulty Level**: Buccaneer Diving's depth range (6-20m) is consistent with a beginner/intermediate-friendly site; this dataset lists Beginner
+- **Maximum Depth**: 18m (this dataset); Buccaneer Diving reports 6-20m
+- **Typical Visibility**: Not independently confirmed for this specific site
+- **Current**: Not independently confirmed
 
 ## Marine Life
 
-The garden coral formations host a diverse and relatively undisturbed community. Angelfish species — emperor, semicircle, and regal — are particularly well represented here. Sea turtles use the garden corals as resting stations and are consistently present. The sandy openings between coral formations shelter pairs of garden eels that extend from their burrows until divers approach. Morays and groupers inhabit the larger coral structures. Lionfish are present and add color but should not be touched.
+Buccaneer Diving specifically notes leaf fish and ribbon eel as sightings at this site, describing it generally as having "amazing colours and a plentitude of micro life and fish." A prior version of this page named angelfish species (emperor, semicircle, regal), sea turtles, garden eels, morays, groupers, and lionfish — none of which were found in the available source, so those claims have been removed rather than repeated.
 
 ## Dive Profile
 
-Begin at the outer edge of the garden in 15-18 meters and work toward the beach, systematically exploring each coral formation and the sandy channels between them. The unhurried pace that calm lagoon conditions allow is perfect for observing fish behavior at cleaning stations and turtle feeding sites. Finish with an extended session in the 5-8 meter coral garden zone.
+No independently confirmed dive-profile detail (route, depth zones, timing) beyond the general "coral garden" characterization was found.
 
 ## Entry and Exit
 
-Boat access from the Jambiani-Sau Inn area. Operators here typically use traditional wooden dhows and small motorized boats that allow multiple dives per day from the beach vicinity. The calm conditions make entry and exit simple even for nervous beginners.
+Boat access from the Jambiani/Sau Inn area, per Buccaneer Diving.
 
 ## Tips and Recommendations
 
-- The garden layout rewards slow, non-intrusive diving — set a personal speed limit and observe rather than chase
-- Night dives in the garden produce exceptional encounters with hunting octopus, foraging nudibranchs, and sleeping parrotfish in their mucus cocoons
-- The southeastern Zanzibar coast is quieter and less commercialized than Nungwi — ideal for divers who prefer a more relaxed pace
-- This site is an excellent option for completing PADI Open Water checkout dives in benign conditions
+- Given the coral-garden character and moderate depth range, this is a reasonable site for less-experienced divers, but confirm current conditions with your operator
+- Look specifically for leaf fish and ribbon eel, the two species operators call out by name at this site
 
 ## Safety Considerations
 
-One of the safest diving environments in Zanzibar. Minimal current, shallow-moderate depth, and good visibility create low-risk conditions. As always, monitor buoyancy to protect the coral garden and deploy SMB for ascent. Night divers should carry primary and backup torches and agree on navigation protocol before leaving the boat.
+No site-specific safety information was found beyond the general characterization as a moderate-depth coral garden.
 
 ## Photography
 
-The "garden" quality of this site — varied coral formations, sandy openings, and resident fish — creates a naturally attractive photography subject. The calm water and good natural light in the shallower zones (5-10 meters) allow extended photography without subject disturbance. Sleeping parrotfish at night are an unusual and striking photography subject.
+No site-specific photography information was found.
 
 ---
-*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving – Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one source with retrievable site-specific detail was found; a second source (dive.site) confirms the site's name/existence but its content could not be accessed to verify further facts, and no third source was found. Not marked as fully validated pending further corroboration. Last updated 2026-07-05.*
