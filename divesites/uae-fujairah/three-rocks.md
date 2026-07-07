@@ -17,7 +17,7 @@ Three Rocks is a pinnacle dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Three Rocks — also known as Sharm Rocks or the Three Sisters — is a trio of coral-encrusted pinnacles about 20 minutes by boat from Khor Fakkan, spanning roughly 150 metres in length with a fourth submerged rock beyond for more adventurous dives. The shallow depth of 5 to 14 metres makes it one of Fujairah's most accessible sites, with ledges and sandy channels between the pinnacles providing habitat for turtles, cuttlefish, pufferfish, bannerfish, and shoaling fusiliers. The protected status of the surrounding marine area has allowed marine life to thrive, and friendly jawfish are a notable highlight for macro photographers.
+Three Rocks — also listed as Sharm Rocks or the Three Sisters, named after the nearby fishing village of Al Sharm — is a trio of coral-encrusted pinnacles roughly 20 minutes by boat from Khor Fakkan, spanning approximately 150 metres in length by 100 metres wide, with a fourth submerged rock a little further out for more adventurous exploration. Depths in the range of 5 to 14 metres make it one of the most accessible sites on this stretch of coast, suitable for Discover Scuba Diving participants as well as certified divers. Turtles, cuttlefish, and jawfish are regularly reported here, along with shoals of bannerfish, parrotfish, fusiliers, jacks, and snappers, and moray eels and stingrays are also seen around the pinnacles.
 
 ## Site Information
 
@@ -27,5 +27,9 @@ Three Rocks — also known as Sharm Rocks or the Three Sisters — is a trio of 
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 
+## Dive Notes
+
+Conditions here are normally calm, and the shallow depth range makes this a good option for an afternoon or night dive, or as a second dive of the day.
+
 ---
-*Sources: [Al Boom Diving - Fujairah](https://www.alboomdiving.com/en/fujairah-diving-trip), [PADI - Top Dive Sites in Fujairah](https://www.padi.com/dive-sites/fujairah/), [Freestyle Divers - Fujairah Dive Sites](http://freestyledivers.me/uae-dive-sites/fujairah-dive-sites/), [Chloe Blue Scuba - Beginner Guide to Fujairah](https://www.chloebluescubadiving.com/post/a-beginner-s-guide-to-scuba-diving-in-fujairah), [Divers Down UAE - Pleasure Diving Fujairah](https://www.diversdownuae.com/pleasure-diving-fujeirah/). Last updated 2026-04-04.*
+*Sources: [PADI - 3 Rocks (Sharm Rock) dive site](https://www.padi.com/dive-site/united-arab-emirates/3-rocks-sharm-rock/), [Coral Creek Diving - Sharm Rocks](https://coralcreekdiving.com/diving-fujairah/sharm-rocks/), [Nemo Diving Center - Sharm Rock in Fujairah](https://nemodivingcenter.com/other-diving-sites/sharm-rock-in-fujairah/), [Sandy Beach Dive Centre - Three Rocks](https://divesandybeach.com/fujairah-dive-sites/three-rocks/). Last updated 2026-07-07.*

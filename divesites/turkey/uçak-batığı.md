@@ -3,7 +3,7 @@ name: Uçak Batığı
 lat: 36.9870592
 lng: 27.4325639
 difficulty: Advanced
-maxDepth: 65
+maxDepth: 36
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,47 +17,44 @@ Uçak Batığı (Airplane Wreck) is a wreck dive site near Bodrum, Turkey.
 
 ## Overview
 
-Uçak Batığı — Turkish for "airplane wreck" — is a decommissioned Turkish Air Force Dakota C-47 transport aircraft that was intentionally sunk to create an artificial reef dive site in the waters near Bodrum, Turkey. The aircraft rests on the seabed in the Bodrum area of the Aegean coast, not far from the Greek island of Kos.
+Uçak Batığı — Turkish for "airplane wreck" — is an ex-Turkish Air Force Douglas C-47A Dakota (a twin-engine military transport derived from the DC-3) that was deliberately scuttled as an artificial reef at Karaada/Paçoz Cove near Bodrum, Turkey. Multiple independent sources (a Turkish diving news outlet and an aircraft-wreck database) agree it was sunk by BOSAD (Bodrum's underwater sports association) on 1 July 2008; one dive-shop source instead gives 2007, so the exact year carries some uncertainty even though 2008 is the better-attested date. The aircraft measures roughly 19.5–19.6m long with a wingspan of about 29m, powered by two Pratt & Whitney R-1830 "Twin Wasp" engines.
 
-The wreck lies at depth, with the shallowest accessible sections at approximately 17 metres and the deepest portions at 32 metres (local operators report a max depth of 17–32 m for the accessible wreck; the OSM-recorded depth of 65 m likely reflects the nearby seabed rather than the wreck itself). The C-47 has broken into two main sections. The cockpit and engines lie at the shallower end, with the wings spread outward. The fuselage and tail section rest deeper in the sandy substrate. A rear cabin door at approximately 29 metres is the only penetrable section of the aircraft.
+**Correction**: this listing previously identified the wreck as a WWII-era Italian Savoia-Marchetti SM.79 torpedo bomber lying at 58-71m. That identification could not be verified against any source and has been removed — every source found in this research (dive shops, a Turkish diving-news site, and an aircraft-wreck photo database) independently and consistently identifies the aircraft as a Douglas C-47A Dakota resting far shallower.
 
-The wreck has attracted a resident community of groupers, tuna, lionfish, scorpionfish, and various sea bream species. The aircraft structure — engines, cockpit framing, and spread wings — provides distinctive compositional subjects for underwater photography. Approach from the entry point leads first to the cockpit and engine nacelles, then along the wing structure before reaching the fuselage tail.
+A 2010 storm broke the airframe apart, and the pieces have drifted since. Sources report varying depths depending on which section and which year's account you read: the engine/cockpit end sits at roughly 16–23 m, with wings spread outward, while the detached fuselage and tail now rest deeper, around 28–36 m, having gradually shifted since the breakup. Divers typically reach the cockpit and engine nacelles first, then follow the wing structure out to the fuselage/tail section.
 
-The dive is described by Aquapro Dive Center (Bitez Marina, Bodrum) as accessible to entry-level divers and above for the shallower sections, though depth management and the wreck environment require awareness. Penetration is limited to the rear cabin door only.
+Sources disagree on penetration: one Bodrum operator (Aquapro) describes the wreck as otherwise not penetrable except for a rear cabin door at about 29m, while another source (Zentacle) advises against any interior penetration given the wreck's unstable, deteriorated structure. Given that disagreement, treat the interior as off-limits unless diving with an operator who knows the current structural condition first-hand — penetration of any deteriorated wreck carries real risk regardless of past accounts of an accessible opening.
 
 ## Dive Profile
 
-- **Entry**: Boat
-- **Depth range**: 17–32 m (accessible wreck sections)
-- **Cockpit/engines**: Shallower end (~17 m)
-- **Rear cabin door**: ~29 m (only penetrable section)
-- **Fuselage/tail**: Deepest section (~32 m)
-- **Conditions**: Typically calm in the Bodrum area; Aegean visibility 15–25 m in summer
+- **Entry**: Boat only, from Bodrum-area operators
+- **Depth range**: ~16–23 m at the engine/cockpit end; ~28–36 m at the detached fuselage/tail (sources vary; wreck has drifted deeper since a 2010 storm)
+- **Conditions**: Aegean visibility typically 15–25 m in summer
 - **Best season**: April–October
 
 ## Marine Life
 
-Groupers inhabit sheltered sections beneath the wings and fuselage. Tuna, lionfish, scorpionfish, and sea bream are regularly encountered. The sandy substrate around the wreck supports additional Mediterranean species.
+Site-specific reports (from two independent Bodrum dive-shop sources) list groupers, moray eels, dentex, leerfish (learfish), lionfish, scorpionfish, sea bream, crabs, lobsters, tritons, and nudibranchs at this wreck.
 
 ## Photography
 
-The spread wings and intact cockpit framing create strong subjects for wide-angle photography. The aircraft silhouette is particularly striking when approached from below in good visibility.
+The spread wings and cockpit framing are commonly cited as strong wide-angle subjects.
 
 ## Safety
 
-The depth range (17–32 m) places this in Advanced territory for full wreck exploration. Penetration is restricted to the rear cabin door — no other sections should be entered. Lionfish and scorpionfish present minor hazard if touched. Dive with a Bodrum-area operator familiar with the site.
+The depth range spans Intermediate to Advanced territory depending on section; treat the dive as Advanced given the deepest fuselage sections and the deteriorated, unstable structure. Do not attempt interior penetration — sources disagree on whether any section is safely accessible, and the airframe has continued to break down since 2010. Lionfish and scorpionfish present a minor sting/spine hazard if touched. Dive with a Bodrum-area operator familiar with the wreck's current condition.
 
 ## Site Information
 
-- **Location**: Bodrum area, Muğla Province, Turkey (Aegean Sea)
+- **Location**: Karaada/Paçoz Cove, Bodrum area, Muğla Province, Turkey (Aegean Sea)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 65 meters
+- **Maximum Depth**: 36 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-07-07
 
 ---
-*Sources: [Aquapro Dive Center Bodrum — Plane Wreck Dive](https://aquapro-turkey.com/services/plane-wreck-dive/), [Diving in Bodrum — SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide/destination/bodrum-9752736). Last updated 2026-05-17.*
+*Sources: [Aquapro Dive Center Bodrum — Plane Wreck Dive](https://aquapro-turkey.com/services/plane-wreck-dive/), [The Divers' Club — C-47 Dakota Aircraft Wreck](https://www.thediversclub.com.tr/?dive-sites=c-47-dakota-aircraft-wreck&lang=en), [Sualtı Gazetesi (SGTV) — Bodrum Douglas C-47 Dakota](https://sgtv.sualtigazetesi.com/bodrum-douglas-c-47-dakota-ucak-batigi-plane-wreck-by-saki-ugurlu/), [Zentacle — Douglas C-47A Dakota Airplane Wreck](https://www.zentacle.com/Beach/10561/douglas-c-47-a-dakota-airplane-wreck). Last updated 2026-07-07.*

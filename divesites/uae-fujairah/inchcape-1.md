@@ -17,7 +17,9 @@ Inchcape 1 is a historic wreck dive in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Inchcape 1 is a former supply vessel for Inchcape Shipping Services that was deliberately sunk in December 2001 off Al Aqah to create an artificial reef, sitting upright on a sandy bottom at 30 metres and now smothered in candy-coloured pink and purple Dendronephthya soft corals. The bow is particularly spectacular, with the entire structure so thick with marine growth you have to brush life aside to see the metal underneath, and two resident honeycomb moray eels known locally as Fred and Wilma occupy the wheel area alongside seahorses and, in summer, frogfish. Trevally and jack patrol above the wreck hunting the resident school of yellow snappers while cardinalfish shelter in the remaining wheelhouse — it was moved 50 metres by Cyclone Gonu in 2007, which also ripped off the wheelhouse.
+Inchcape 1 was originally built in the USA by Halter Marine under the name Gray Swift 2, and shipped to the UAE (Ras Al Khaimah, then Dubai) around 1971-1972, where she spent nearly three decades transporting crew and supplies for Inchcape Shipping Services before being decommissioned and renamed Inchcape 1. She was deliberately sunk off Al Aqah on 12 December 2001 to create an artificial reef. Sources report the wreck resting between roughly 30 and 32 metres of water, sitting upright and now smothered in candy-coloured pink and purple Dendronephthya soft corals — the growth is thick enough in places that divers have to look closely to see the original metal. Two resident honeycomb moray eels known locally as "Fred and Wilma" occupy the wheel area, seahorses are regularly seen, and frogfish have been reported in summer. Trevally and jacks patrol above the wreck around a resident school of yellow snappers. Cyclone Gonu in 2007 tore off the wheelhouse and shifted the wreck by roughly 50 metres.
+
+Exact build/keel-laying dates and the vessel's dimensions and tonnage are not consistently documented in available sources, so they are omitted here rather than guessed.
 
 ## Site Information
 
@@ -27,5 +29,9 @@ Inchcape 1 is a former supply vessel for Inchcape Shipping Services that was del
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
 
+## Dive Notes
+
+The wreck sits deep enough (30-32 metres) that bottom time is limited to roughly 20 minutes on a single tank, and it is recommended for certified advanced divers with good buoyancy control; the site is also used for technical training (rebreather and sidemount) and as a night dive.
+
 ---
-*Sources: [Al Boom Diving - Fujairah](https://www.alboomdiving.com/en/fujairah-diving-trip), [PADI - Top Dive Sites in Fujairah](https://www.padi.com/dive-sites/fujairah/), [Freestyle Divers - Fujairah Dive Sites](http://freestyledivers.me/uae-dive-sites/fujairah-dive-sites/), [Chloe Blue Scuba - Beginner Guide to Fujairah](https://www.chloebluescubadiving.com/post/a-beginner-s-guide-to-scuba-diving-in-fujairah), [Divers Down UAE - Pleasure Diving Fujairah](https://www.diversdownuae.com/pleasure-diving-fujeirah/). Last updated 2026-04-04.*
+*Sources: [Nemo Diving Center - Exploring Inchcape wrecks in Fujairah](https://nemodivingcenter.com/blog/exploring-inchcape-wrecks-in-fujairah/), [Khaleej Times - Why UAE deliberately sank 3 ships](https://www.khaleejtimes.com/uae/environment/sunken-uae-vessels-marine-ecosystems-dive-artificial-reef), [PADI - Inchcape 1 dive site](https://www.padi.com/dive-site/united-arab-emirates/inchcape-1/), [Coral Creek Diving - Inchcape 1](https://coralcreekdiving.com/diving-fujairah/inchcape-1/). Last updated 2026-07-07.*

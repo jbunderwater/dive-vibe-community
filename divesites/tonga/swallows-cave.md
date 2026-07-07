@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Swallows Cave
 
-Swallows Cave is one of the most celebrated natural attractions in the Vava'u island group and a signature dive site of Tonga.
+Swallows Cave is one of the most celebrated natural attractions in the Vava'u island group and a signature dive site of Tonga — a wide sea cave on Kapa Island's northwest corner, named for the swiftlets that nest in its ceiling.
 
 ## Overview
 
-Located on the eastern face of Kapa Island, Swallows Cave is a large sea cave with a wide, open entrance that admits boats at low tide and divers year-round. The cave takes its name from the hundreds of white-rumped swiftlets (locally called swallows) that nest in the darkened ceiling, their calls echoing off the vaulted limestone walls. Underwater, shafts of sunlight penetrate the entrance and scatter across the cave floor in shifting blue-green columns — an effect that peaks during morning dives when the sun angle is low. The site is suitable for both snorkelers and certified divers, making it one of the most accessible iconic experiences in the South Pacific.
+Swallows Cave sits on the northwest corner of Kapa Island, with a wide, open entrance about 6m across and roughly 4.5m deep at the mouth, deepening to about 18m on the cave floor. Because the cave mouth faces west, the light show inside is best in the afternoon, when sunlight streams through the entrance and scatters across the water in shifting columns — divers and boats commonly time visits accordingly rather than in the morning. The cave takes its name from the hundreds of swiftlets (locally called swallows) that nest in the ceiling, their calls echoing off the walls. Inscriptions carved into the cave walls, dating to the late 1800s, are visible above the waterline. A secondary cave and swim-through system extends from the main chamber, reaching around 20-21m, where a very strong current can build in places. The site works for both snorkelers and certified divers, making it one of the most accessible iconic experiences in the South Pacific.
 
 ## Site Information
 
@@ -27,38 +27,37 @@ Located on the eastern face of Kapa Island, Swallows Cave is a large sea cave wi
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–30 meters
-- **Current**: Generally calm; sheltered by island topography
+- **Current**: Generally calm in the main chamber; a very strong current is possible in the secondary swim-through system
 - **Water Temperature**: 24–28°C (75–82°F)
-- **Best Time to Dive**: Year-round; morning light is best for cave illumination
+- **Best Time to Dive**: Year-round; afternoon light gives the strongest illumination since the cave mouth faces west
 
 ## Marine Life
 
-The cave interior hosts schools of glassy sweepers and silversides that shimmer in the light beams. Lionfish and moray eels occupy the rocky ledges and overhangs near the cave floor. Sea turtles occasionally rest inside the cave, and spinner dolphins have been observed passing through the entrance. Outside the cave entrance, the surrounding reef holds parrotfish, surgeonfish, Moorish idols, and resident trevally. During the humpback whale season (July–October), whale song is sometimes audible from inside the cave — a particularly memorable experience.
+Confirmed sightings at this specific site are limited to what's visible in and around the cave itself: schools of small baitfish shelter inside the chamber, and the ceiling and crevices host the resident swiftlet colony the cave is named for. No source-specific reports of turtles, dolphins, or other pelagic visitors inside the cave were found for this site — Tonga's regional reef fauna (parrotfish, surgeonfish, reef sharks, and similar species) is present on the surrounding fringing reef generally, but is not documented as a site-specific feature of the cave interior itself.
 
 ## Dive Profile
 
-Enter the cave by swimming through the wide, well-lit entrance at the surface or diving down. The cave floor slopes to around 18 meters at the deepest interior sections. The most dramatic light effects are found in the 3–10 meter range near the entrance. Experienced divers can explore deeper ledges toward the back of the cave, where the passage narrows. Navigation is straightforward — the open entrance provides a constant visual reference and natural light throughout the dive.
+Enter through the wide, well-lit entrance either on the surface or by descending directly. The main chamber floor is around 18m at its deepest. A secondary cave and swim-through section leads off the main chamber, with entrances/exits down to roughly 20-21m — this section can develop a very strong current and is best suited to more experienced divers comfortable managing it. Navigation in the main chamber is straightforward thanks to the large, naturally lit entrance.
 
 ## Entry and Exit
 
-Access is by dive boat from Neiafu or day-trip operators based in Vava'u. Boats can anchor or drift outside the entrance while divers enter. Giant stride entry from the boat is standard. Surface snorkeling inside the cave is equally popular and requires no dive gear.
+Access is by dive boat from Neiafu or day-trip operators based in Vava'u, typically reached by dinghy from nearby anchorages (e.g., Mala or Port Maurelle). Boats anchor or drift outside the entrance while divers enter by giant stride or simple water entry. Surface snorkeling inside the main chamber is equally popular and requires no dive gear.
 
 ## Tips and Recommendations
 
-- Dive in the morning for the best light column effects inside the cave
-- Bring an underwater torch to illuminate the darker rear sections and spot lionfish
-- Buoyancy control is important — the cave ceiling is close and breaking the surface disturbs nesting birds
-- Combine with a visit to Mariner's Cave on the same day trip, as boats frequently run both caves together
-- The cave is also accessible by kayak from nearby anchorages for sailors
-- Whale song is audible inside the cave during July–October — surface between dives to listen
+- Dive in the afternoon, not the morning — the cave mouth faces west, so afternoon light gives the strongest illumination
+- Approach the secondary cave/swim-through system with caution; a very strong current has been reported there
+- Buoyancy control matters near the roof — avoid breaking the surface and disturbing the nesting swiftlets
+- Combine with a visit to Mariner's Cave on the same day trip, as boats frequently run both together
+- Look for the late-1800s inscriptions carved into the cave walls above the waterline
 
 ## Safety Considerations
 
-The cave is well-lit and has no restrictions on air supply for a simple in-and-out dive profile. Conditions are generally calm due to island shelter, but surge can build at the entrance if swell is running. Do not dive in the cave if surge is present — entry and exit become dangerous. Always assess surface conditions before entering. Carry a torch as backup navigation aid in the darker rear sections.
+The main chamber is well-lit with a large entrance and poses minimal air-supply or navigation risk for a simple in-and-out visit. Conditions there are generally calm, though surge can build at the entrance in swell — avoid diving if surge is present. The secondary cave/swim-through system is a different matter: a very strong current has been reported in that section, so only divers comfortable with current and swim-through navigation should continue past the main chamber.
 
 ## Photography
 
-Swallows Cave is one of the most photogenic dive sites in the South Pacific. Wide-angle lenses capture the dramatic light-shaft effect as sunlight enters the mouth of the cave. Shooting upward toward the entrance from 5–8 meters yields silhouette compositions of the cave arch with diver scale. Macro subjects include nudibranchs, crustaceans, and encrusting sponges on the cave walls. A red filter or strobes are needed to restore color in the cave's interior sections.
+Swallows Cave is one of the most photogenic sites in the South Pacific. Wide-angle lenses capture the light-shaft effect as afternoon sun enters the cave mouth; shooting toward the entrance from a few meters inside yields silhouette compositions of the arch with divers for scale. A red filter or strobe helps restore color in the dimmer interior sections.
 
 ---
-*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*
+*Sources: [Diving Swallows Cave — svsoggypaws.com](https://www.svsoggypaws.com/tongadive/swallows_cave.htm), [10 Best Caves in Tonga — Tonga Pocket Guide](https://tongapocketguide.com/10-incredible-caves-in-tonga/), [Story Behind the Shot: Swallows Cave — Underwater Photography Guide](https://www.uwphotographyguide.com/story-behind-the-shot-swallows-cave/), [Swallows Cave — Timeless Tonga](https://timelesstonga.com/activities/swallows-cave/). Last updated 2026-07-07.*

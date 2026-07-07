@@ -13,51 +13,48 @@ addedBy: osm_import
 
 ## The Coral Garden Vavau
 
-The Coral Garden is a classic Vava'u reef site offering dense hard coral coverage in calm, sheltered conditions — one of the best introductory dives in the Tonga archipelago.
+The Coral Garden is a shallow reef site in the Vava'u group; "Coral Garden" is a real, commonly used site-name pattern among Vava'u operators, though no source ties this exact name to these exact coordinates.
 
 ## Overview
 
-Located within the protected waters of the Vava'u island group, The Coral Garden rewards divers with a dense patchwork of hard coral formations in the shallow to mid-water zone. The site is characterized by branching Acropora tables, massive Porites heads, and fields of staghorn coral that support an extraordinarily diverse community of reef fish. Sheltered from prevailing swells by the surrounding limestone islands, conditions are typically calm and visibility is excellent, making this an ideal site for newly certified divers, underwater photographers, and snorkelers. The site exemplifies the largely undisturbed state of Vava'u's reefs, which have seen significantly less bleaching pressure than reefs further west due to the cooler, nutrient-rich South Pacific waters.
+**A note on this entry**: research found that several Vava'u dive operators do run trips to sites named "Coral Garden" (some list separate "Coral Garden N" and "Coral Garden S" locations), confirming this as a real, recognized style of site in the area. However, no source could confirm depth, conditions, or marine life specific to this exact pin, and the previous description's detailed claims (specific coral species mix, turtle/octopus/shark sightings, audible whale song) could not be traced to any source. This entry has been rewritten to separate what's genuinely confirmed (that "Coral Garden" sites exist in Vava'u) from what was previously presented as site-specific fact but wasn't sourced.
 
 ## Site Information
 
-- **Location**: Vava'u island group, Tonga
+- **Location**: Vava'u, Tonga
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Light; generally calm
-- **Water Temperature**: 24–28°C (75–82°F)
-- **Best Time to Dive**: Year-round; May–October for clearest conditions
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Not confirmed for this specific site
+- **Water Temperature**: 24–28°C (75–82°F), typical for Vava'u
+- **Best Time to Dive**: Year-round, in line with general Vava'u conditions
 
 ## Marine Life
 
-Hard coral diversity is the primary attraction, with Acropora tables, branching staghorn, and large brain coral heads all well represented. Resident reef fish include numerous clownfish in anemone colonies, butterflyfish, Moorish idols, parrotfish, wrasse of multiple species, and schools of anthias hovering above the coral heads. Hawksbill turtles graze the reef regularly, and octopus are commonly spotted in crevices between coral formations. Whitetip reef sharks occasionally patrol the outer edges of the site. During the July–October season, the shallow depth means humpback whale song carries clearly to divers at this site.
+No site-specific marine-life source was found for this exact location. Vava'u's regional reef fauna generally applies to sites of this style, but no site-specific sightings have been confirmed here, so no species are listed.
 
 ## Dive Profile
 
-The reef begins in 3–5 meters of water and slopes gently to the 12–15 meter sandy bottom. Most of the dense coral growth and marine life activity is concentrated between 5 and 12 meters, making this a genuinely high-quality dive even with a conservative depth profile. Plan a relaxed, slow circuit of the reef — rushing this site means missing small creatures in the coral matrix. Bottom times are generous at these depths, and multilevel profiles are easy to manage.
+Not independently confirmed for this specific site. Shallow Vava'u coral-garden dives of this style typically follow a gentle slope from a shallow top toward the stated maximum depth.
 
 ## Entry and Exit
 
-Access is by dive boat from Neiafu-based operators. Entry is by giant stride from the boat, which is typically moored on a buoy or anchored in sand adjacent to the reef. Exit is via ladder or platform. Snorkel gear is also viable for the shallower reef sections.
+Access would be by boat from Neiafu or another Vava'u-based operator, consistent with how reef sites in the area are generally reached, though no operator-specific access details were confirmed for this exact coordinate.
 
 ## Tips and Recommendations
 
-- Slow down and look into the coral heads for clownfish, gobies, and small crustaceans
-- A macro lens or wet diopter reveals nudibranchs and flatworms on coral rubble
-- Turtles are frequently encountered mid-dive — approach slowly and they often remain
-- Morning dives tend to see more active fish behavior than afternoon visits
-- This site is an excellent choice after a night of rough weather, as the sheltered location means conditions remain good when exposed sites are diveable
+- Ask local Vava'u operators directly whether their "Coral Garden" trip matches these coordinates before booking specifically for this site
+- Treat depth, current, and visibility figures here as provisional pending a confirmed source
 
 ## Safety Considerations
 
-Conditions at this site are among the most forgiving in Vava'u. Light currents and shallow depths make this accessible to recently certified Open Water divers. Standard precautions apply: maintain good buoyancy to avoid coral contact, and carry an SMB for ascent. Be aware that boat traffic can be present in the area during peak season.
+At a stated maximum depth of 15 meters this would be a low-hazard site if the figures are accurate; since they are not independently confirmed for this exact location, standard conservative planning and local-operator guidance are advisable.
 
 ## Photography
 
-Wide-angle shooting captures the broad coral garden perspective, particularly when framing the large Acropora table formations against mid-water blue. Macro subjects are abundant — nudibranchs, flatworms, and cleaning stations are found throughout the reef matrix. Early morning light creates a warm, angled quality that enhances coral colors without requiring strobes at the shallower sections.
+Not independently confirmed for this specific site.
 
 ---
-*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics for Vava'u ("Coral Garden" sites are a real, confirmed pattern in the area, but not tied to this exact coordinate by any source found). No site-specific sources found. Last updated 2026-07-07.*

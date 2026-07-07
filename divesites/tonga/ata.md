@@ -5,7 +5,7 @@ lng: -175.163267
 difficulty: Beginner
 maxDepth: 12
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 9222907394
 addedBy: osm_import
@@ -13,51 +13,50 @@ addedBy: osm_import
 
 ## Ata
 
-Ata is a shallow reef site in southern Tonga offering pristine coral in exceptionally clear water, representative of the undisturbed reef quality found throughout Tonga's less-trafficked southern islands.
+This site, charted near Tongatapu under the name "Ata," is a shipwreck rather than a reef — and it is not the same "Ata" as Tonga's famous remote, uninhabited southern island of the same name, despite the shared name.
 
 ## Overview
 
-The reef at Ata sits in the waters of southern Tonga, removed from the concentrated dive traffic of the Vava'u group to the north. The site occupies a shallow reef platform that extends to approximately 12 meters before giving way to the deeper island waters. The area sees minimal recreational diving pressure, which is reflected in the condition of the corals — healthy hard coral growth, minimal bleaching evidence, and a reef fish community that shows little wariness toward divers. The calm, clear conditions that characterize sheltered Tongan reef sites make this an easy and rewarding dive for divers at any certification level, though its remoteness means it is typically encountered only on day trips from southern Tonga communities or as a stop on vessels transiting the island chain.
+**A note on this entry**: this site was previously classified as a coral reef, with a description evoking the well-known, historically significant, uninhabited 'Ata island — the one made famous by the 1965-66 "Tongan castaways" story and located roughly 160km south-southwest of Tongatapu (near 22.34°S, 176.21°W). This site's actual coordinates (21.13°S, 175.16°W) sit near Tongatapu's coast, about 150km from the real 'Ata island, so the two are not the same place. More importantly, this location's own OpenStreetMap source tags say `historic=wreck` and `seamark:type=wreck`, backed by a LINZ hydrographic wreck ID — meaning the official chart data itself identifies this as a shipwreck, not a natural reef. The site_type has been corrected from reef to wreck on that basis, and the previous "pristine remote island reef" narrative has been removed as both unsupported and potentially misleading (conflating this site with the real, famous 'Ata island).
+
+No source found identifies the specific vessel or its history. This entry is presented as an unidentified charted wreck pending further research, not as the historic 'Ata island.
 
 ## Site Information
 
-- **Location**: Southern Tonga island waters, Tonga
+- **Location**: Near Tongatapu, Tonga (not the remote southern 'Ata island of the same name)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Light to moderate
-- **Water Temperature**: 22–26°C (72–80°F)
-- **Best Time to Dive**: Year-round; May–October for calmer sea conditions
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Not confirmed for this specific site
+- **Water Temperature**: 22–26°C (72–80°F), typical for Tongatapu
+- **Best Time to Dive**: Not confirmed for this specific site
 
 ## Marine Life
 
-The shallow reef at Ata supports healthy hard coral cover including branching Acropora, massive Porites, and plate coral formations. The reef fish community is diverse and relatively unafraid of divers — parrotfish, wrasse, surgeonfish, triggerfish, and butterflyfish are all well represented. Hawksbill turtles are common grazing the reef. Octopus are regularly spotted in crevices and under coral overhangs. Whitetip reef sharks patrol the reef margins in the early morning and late afternoon. The shallow depth and clear water mean the reef is bathed in natural light throughout the dive, creating vivid color without artificial lighting.
+No site-specific marine-life source was found. Tongatapu's regional reef fauna may be present around the wreck structure, but no site-specific sightings have been confirmed, so no species are listed. The previous description's turtle, octopus, and reef-shark claims had no traceable source and have been removed.
 
 ## Dive Profile
 
-The reef profile is a gentle slope from the shallows (3–5m) to the sandy bottom at 12 meters. Most of the dense coral growth and marine activity is concentrated between 5 and 10 meters. The dive plan is a simple perimeter or zigzag exploration of the reef at whatever depth holds the most interest. Bottom times at 12 meters are generous, allowing a thorough and unhurried examination of the reef. A slow pace — pausing to look into coral heads and under ledges — rewards divers with encounters that a faster tour misses.
+Not independently confirmed. The official chart tags this wreck as shallow (around 12.5m) and submerged; beyond that, no dive-specific profile was found.
 
 ## Entry and Exit
 
-Access by boat from southern Tonga communities or as a stop on a transiting vessel. Entry by giant stride; exit by ladder or low gunwale. The shallow, calm conditions make water entry and exit straightforward.
+Not independently confirmed. Access would presumably be by boat from the Tongatapu area, but no operator-specific details were found.
 
 ## Tips and Recommendations
 
-- Slow down and look carefully into coral structures — this reef rewards patient observers
-- Turtles here are often very tolerant of quiet, non-chasing divers; a slow parallel approach can result in extended close encounters
-- Bring a macro lens or wet diopter for nudibranchs and flatworms in the coral rubble zones
-- Morning dives tend to see the most active feeding behavior
-- The clean, clear water makes this an excellent site for underwater video — the natural light is more than adequate at these depths
+- Do not confuse this site with the famous, remote 'Ata island roughly 150km to the south — they share a name but are different locations
+- Ask local Tongatapu-area operators whether they can identify this wreck and its current condition
 
 ## Safety Considerations
 
-This is a benign site well within beginner-diver capability. Light currents and shallow depths create minimal hazard. Standard precautions apply: maintain buoyancy to protect the coral, carry an SMB for ascent, and ensure the boat crew is aware of your planned dive area. Be aware that boat traffic may be present in the area; ascend on the boat's shaded (downwind) side and deploy your SMB before ascending.
+The official chart marks this wreck "dangerous" from a navigation standpoint (a hazard to surface vessels), which is common for shallow, submerged wrecks generally, but this doesn't by itself establish diver-specific hazards. No site-specific diver safety information was found; treat cautiously and rely on local knowledge.
 
 ## Photography
 
-The combination of excellent natural light at shallow depth and healthy coral coverage makes this a strong photography site without requiring any specialized equipment. Natural-light wide-angle shooting of coral formations and resident turtles is straightforward. Macro subjects — nudibranchs, flatworms, cleaning shrimp, and small gobies — are found throughout the coral matrix. Shooting into the sun from the sandy bottom creates dramatic silhouette compositions of coral formations and marine life above.
+Not independently confirmed for this specific site.
 
 ---
-*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*
+*Sources: OSM/LINZ hydrographic chart data (ref:linz:hydrographic_id 3857295) confirms this is a charted wreck, and [ʻAta — Wikipedia](https://en.wikipedia.org/wiki/%CA%BBAta) confirms the real 'Ata island's location (22.34°S, 176.21°W) is a different place from these coordinates. No source identifies this specific vessel or provides site-specific dive details. Last updated 2026-07-07.*

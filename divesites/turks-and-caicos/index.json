@@ -50,8 +50,8 @@
   {
     "name": "G-Spot",
     "filename": "g-spot.md",
-    "lat": 21.8583,
-    "lng": -72.3167,
+    "lat": 21.4917,
+    "lng": -72.2214,
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
@@ -60,14 +60,14 @@
     "osmId": null
   },
   {
-    "name": "Chief Minister Wreck",
-    "filename": "chief-minister-wreck.md",
-    "lat": 21.4333,
-    "lng": -71.1333,
+    "name": "Chief Ministers",
+    "filename": "chief-ministers.md",
+    "lat": 21.4875,
+    "lng": -71.133,
     "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "shore",
-    "siteType": "wreck",
+    "maxDepth": 26,
+    "entryType": "boat",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -98,8 +98,8 @@
   {
     "name": "The Hole in the Wall",
     "filename": "the-hole-in-the-wall.md",
-    "lat": 21.7167,
-    "lng": -71.6167,
+    "lat": 21.8583,
+    "lng": -72.32,
     "difficulty": "Intermediate",
     "maxDepth": 27,
     "entryType": "boat",

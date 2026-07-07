@@ -17,7 +17,7 @@ Black Forest is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-Black Forest takes its name from a dense stand of black coral — both pinnate and wire varieties — that crowds an overhang on the wall between 21 and 27 metres, complemented by healthy gorgonian sea fans and sweeping expanses of plate coral. The sheer abundance of black coral here is unusual even by Turks and Caicos standards, and the wall itself drops away into thousands of feet, making it very easy to drift deeper than intended while admiring the formations. Schools of grunts and parrotfish work the shallower reef above, sea turtles and groupers pass regularly, and the intricate nooks in the coral host moray eels and crustaceans for those who slow down to look.
+Black Forest — also listed by operators as Black Coral Forest — is a Northwest Point wall dive where the reef starts at 45ft (13.7m) and drops to a ledge around 200ft (61m) to the south. Average diving depth is about 65ft (19.8m) with a recreational maximum near 110ft (33.5m). The wall here is home to black corals and schools of fish, and is rated for intermediate to experienced divers, with visibility typically 32-98ft (10-30m) and mild currents.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Black Forest takes its name from a dense stand of black coral — both pinnate a
 
 ## Marine Life
 
-The dense stand of black coral between 21 and 27 metres is the site's defining feature, sheltering moray eels and crustaceans in its intricate branches alongside the gorgonian fans and plate corals. Sea turtles and large groupers pass the wall regularly, while schools of grunts and parrotfish work the shallower reef above the dramatic drop-off.
+Sources confirm Caribbean reef sharks, oceanic triggerfish, and spotted eagle rays are regularly hosted at this site, alongside parrotfish, Caribbean sharpnose puffer, and queen triggerfish along the black-coral-draped wall. Re-audit note: sea turtles, groupers, moray eels, and crustaceans-in-coral-nooks from the prior description could not be confirmed against sources for this update and have been removed.
 
 ---
-*Sources: [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [PADI - Diving in Turks and Caicos](https://www.padi.com/diving-in/turks-and-caicos-islands/), [Big Blue Collective - Scuba Diving Guide](https://bigbluecollective.com/blog/the-ultimate-guide-to-scuba-diving-in-turks-caicos/), [Bluewater Dive Travel - Turks and Caicos](https://www.bluewaterdivetravel.com/destination/turks-and-caicos-diving). Last updated 2026-04-04.*
+*Sources: [Xtreme Spots - Black Coral Forest](https://www.xtremespots.com/water-sports/scuba-diving/black-coral-forest-providenciales-turks-and-caicos-islands/), [Original Diving - Deep Water Diving in the Turks and Caicos](https://www.originaldiving.com/collections/deep-water-diving-in-the-turks-and-caicos), [Times of the Islands - Wild, Wild Northwest](https://www.timespub.tc/2011/03/wild-wild-northwest/). Last updated 2026-07-07.*

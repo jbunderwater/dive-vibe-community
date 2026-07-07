@@ -36,12 +36,12 @@
     "osmId": null
   },
   {
-    "name": "St Catherine Wreck",
-    "filename": "st-catherine-wreck.md",
+    "name": "Clan McWilliam Wreck",
+    "filename": "clan-mcwilliam-wreck.md",
     "lat": -18.6667,
     "lng": -174.0167,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
+    "difficulty": "Advanced",
+    "maxDepth": 37,
     "entryType": "boat",
     "siteType": "wreck",
     "ref": "",
@@ -77,15 +77,15 @@
     "lat": -18.675,
     "lng": -174.0333,
     "difficulty": "Advanced",
-    "maxDepth": 15,
+    "maxDepth": 12,
     "entryType": "boat",
     "siteType": "cave",
     "ref": "",
     "osmId": null
   },
   {
-    "name": "Eua Island",
-    "filename": "eua-island.md",
+    "name": "Cathedral Cave ('Eua)",
+    "filename": "cathedral-cave-eua.md",
     "lat": -21.3833,
     "lng": -174.9333,
     "difficulty": "Advanced",
@@ -108,8 +108,8 @@
     "osmId": 3088577512
   },
   {
-    "name": "Marmer",
-    "filename": "marmer.md",
+    "name": "My Lady Lata II Wreck",
+    "filename": "my-lady-lata-ii-wreck.md",
     "lat": -21.1271397,
     "lng": -175.159952,
     "difficulty": "Beginner",
@@ -127,7 +127,7 @@
     "difficulty": "Beginner",
     "maxDepth": 12,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 9222907394
   },

@@ -17,15 +17,19 @@ Snoopy Island is a reef dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Snoopy Island is a small rocky outcrop off Al Aqah beach named for its resemblance to the cartoon beagle lying on his back, accessible as a shore dive from the adjacent Sandy Beach Hotel and protected as a no-fishing marine area. Green and hawksbill turtles are among the most reliable encounters in the UAE, often resting under brain coral clusters in the late afternoon, alongside blacktip reef sharks, cuttlefish, moray eels, and stingrays across shallow coral gardens, rocky slopes, and sandy flats all within 12 metres. The combination of habitats, warm waters, and permanent marine protection has made this one of the top introductory and snorkel sites on the UAE's east coast.
+Snoopy Island is a small rocky outcrop just off Al Aqah beach, named for a rock formation resembling the cartoon beagle lying on his back. It sits directly in front of the Sandy Beach Hotel & Resort, whose in-house Sandy Beach Dive Centre runs the site as a shore dive, and the surrounding waters are protected as a no-fishing marine area. Green and hawksbill turtles are among the most consistently reported sightings here, alongside blacktip reef sharks in the shallows, moray eels, cuttlefish, and rays, spread across shallow coral gardens and rocky slopes close to shore. The easy shore access, warm water, and reliable turtle encounters make it one of the most popular introductory dive and snorkel sites on the UAE's east coast.
 
 ## Site Information
 
 - **Location**: UAE - Fujairah, Middle East
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 
+## Dive Notes
+
+Most of the dive stays shallow, in the 5-8 metre range close to the rock, with beginners typically working the sheltered eastern side; deeper water and a nearby wall are used by more experienced divers venturing further from shore. Visibility is generally in the 8-15 metre range and best from September to May.
+
 ---
-*Sources: [Al Boom Diving - Fujairah](https://www.alboomdiving.com/en/fujairah-diving-trip), [PADI - Top Dive Sites in Fujairah](https://www.padi.com/dive-sites/fujairah/), [Freestyle Divers - Fujairah Dive Sites](http://freestyledivers.me/uae-dive-sites/fujairah-dive-sites/), [Chloe Blue Scuba - Beginner Guide to Fujairah](https://www.chloebluescubadiving.com/post/a-beginner-s-guide-to-scuba-diving-in-fujairah), [Divers Down UAE - Pleasure Diving Fujairah](https://www.diversdownuae.com/pleasure-diving-fujeirah/). Last updated 2026-04-04.*
+*Sources: [Nemo Diving Center - A Diver's Guide to Snoopy Island](https://nemodivingcenter.com/blog/a-divers-guide-to-snoopy-island-best-diving-conditions-tips/), [Shark Divers Club - Diving Snoopy Island](https://www.sharkdiversuae.com/scuba-diving-blog/diving-snoopy-island), [Sandy Beach Dive Academy - Snoopy Island](https://divesandy.com/snoopy-island), [Bayut - All About Snoopy Island Fujairah](https://www.bayut.com/mybayut/snoopy-island-guide/). Last updated 2026-07-07.*

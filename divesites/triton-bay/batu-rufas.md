@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Batu Rufas
 
-Batu Rufas — "rufas rock" in the local Papuan dialect — is a submerged rocky reef formation in the heart of Triton Bay, its irregular surfaces smothered in a multi-layered carpet of soft corals that exemplifies why this remote corner of West Papua is considered one of the most biodiverse marine environments on Earth.
+Batu Rufas ("rufas rock" — batu is Indonesian for rock) is a submerged rocky reef formation in Triton Bay; site-specific details beyond its general character could not be independently confirmed during this review and should be treated as provisional.
 
 ## Overview
 
-The name Batu Rufas translates roughly as "rock" in the local context (batu is the Indonesian word for rock), and the site is defined by its character: a cluster of submerged rocky outcrops and ridges, their surfaces so densely colonized by soft corals, sea fans, and encrusting organisms that the underlying stone is rarely visible. Located among the inner islands of Triton Bay, West Papua, Indonesia, Batu Rufas benefits from the nutrient-rich, plankton-heavy water that circulates through the bay system. This drives the extraordinary growth of filter-feeding organisms across every exposed surface. The site sits at a comfortable depth range of 5 to 22 meters, making it accessible to intermediate divers while still offering enough terrain and biodiversity to reward multiple visits. Currents run moderately across the reef and can be used for relaxed drift diving when timed with the tidal flow.
+Batu Rufas sits among the inner islands of Triton Bay, West Papua, Indonesia. This review could not find three independent, site-specific sources describing this location. One low-authority aggregated source mentions a "Batu Rufus" in the Triton Bay area characterized by hard coral fields with large schools of chromis — notably different from the "soft coral reef" character previously recorded for this entry — but that detail could not be corroborated by a second independent source, so it is noted here as unconfirmed rather than adopted outright. Readers should also be aware that a separate, better-documented "Batu Rufas" dive site exists near Piaynemo in Raja Ampat; that site is a different location and should not be confused with this Triton Bay entry.
 
 ## Site Information
 
@@ -26,38 +26,35 @@ The name Batu Rufas translates roughly as "rock" in the local context (batu is t
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 8-20 meters
-- **Current**: Moderate; variable with tidal direction
+- **Typical Visibility**: 8-20 meters (regional typical, not site-confirmed)
+- **Current**: Moderate; variable with tidal direction (regional typical, not site-confirmed)
 - **Water Temperature**: 27-30°C (81-86°F)
-- **Best Time**: October to April
+- **Best Time**: October to April (Triton Bay's general dive season)
 
 ## Marine Life
 
-The soft coral diversity at Batu Rufas is the primary draw — Dendronephthya species in hot pinks and oranges crowd every surface alongside leather corals, sea fans, and whip corals. These corals host a remarkable suite of associated critters: Coleman shrimp, soft coral crabs, and multiple nudibranch species are found on careful searching. Schools of anthias hover above the reef crest, parting for the occasional Napoleon wrasse that patrols the formation. The sandy areas between the rock outcrops at 18 to 22 meters are productive hunting ground for mantis shrimp, jawfish, and various flathead species characteristic of Triton Bay's mix of reef and muck-adjacent habitats. Resident reef sharks, typically blacktip, are regularly seen circling the deeper edges of the formation.
+No site-specific marine-life source was found for Batu Rufas during this review. One weak, unverified source mentions hard coral fields with chromis schools, but this has not been corroborated. Rather than repeat the previous description's detailed (and unverified) species list — Dendronephthya soft corals, Coleman shrimp, mantis shrimp, resident blacktip reef sharks, Napoleon wrasse — those claims have been removed. Triton Bay's regional reputation for soft coral and reef biodiversity would be expected to apply in general terms, but no site-specific confirmation exists for this location.
 
 ## Dive Profile
 
-Enter and descend to the shallowest part of the reef formation at 5 to 8 meters. Spend the first portion of the dive exploring the upper terrain where soft coral density is highest and light is best. Work laterally across the rock faces, pausing to examine the coral colonies closely for hidden critters, before descending the flanks of the formation to the sandy channels at 18 to 22 meters. The deeper sandy areas merit slow, methodical searching. Ascend back to the 10-meter zone for the bulk of your remaining bottom time before a safety stop at 5 meters, which offers some of the best soft coral coverage of the entire dive.
+Specific dive-profile details for this site (entry depth, typical route, turnaround points) could not be independently verified and have been removed rather than presented as fact. Divers should rely on their guide's on-the-day briefing for this site.
 
 ## Entry and Exit
 
-Access is by liveaboard tender or day-boat from Kaimana or inner-bay operator bases. The boat anchors or drifts nearby depending on current conditions. Entry is via giant stride or back roll. Exit via the tender dive ladder. In current conditions the boat may follow divers and conduct a drift pickup.
+Access is presumed to be by liveaboard tender or day-boat, consistent with all Triton Bay sites, but specific entry/exit conditions for this location were not independently confirmed.
 
 ## Tips and Recommendations
 
-- Use a macro lens for the first half of the dive to work the soft coral critters, then switch to wide-angle as you ascend through the upper reef for soft coral panoramas
-- Bring a small torch to illuminate the undersides of rock ledges and coral overhangs, where nudibranchs and crustaceans concentrate
-- Check the current direction before the dive — the more sheltered face of the formation is typically more productive for critter hunting
-- The sandy channels between the rocks at depth are worth spending 10 to 15 minutes in; go slowly and look for eyes in the sand
-- Multiple dives on the same site across different times of day reveal entirely different animal behavior and fish activity
+- Treat this site's description as provisional until better sources are found — ask your operator directly about current conditions and marine life here
+- Do not confuse this Triton Bay entry with the different, better-documented "Batu Rufas" near Piaynemo in Raja Ampat
 
 ## Safety Considerations
 
-Batu Rufas is a manageable site for intermediate divers, but the variable currents require attentiveness. If current strengthens during the dive, descend closer to the reef structure and use the rocks as shelter rather than attempting to swim against the flow. Maintain good buoyancy throughout — the soft corals at this site are fragile and irreplaceable. Carry an SMB and deploy before ascending. The remote location of Triton Bay means that diving with a reputable, knowledgeable liveaboard guide is strongly recommended.
+General Triton Bay precautions apply: dive with a knowledgeable local guide, carry an SMB, and plan conservatively given the remote location and limited medical evacuation options. Site-specific hazards could not be independently confirmed for this entry.
 
 ## Photography
 
-Batu Rufas rewards patient macro photography. The combination of nudibranchs, soft coral critters, and mantis shrimp on the sand provides a full day's worth of macro subjects. For wide-angle, the upper reef at 8 to 12 meters offers dense, colorful compositions that benefit from a rectilinear wide-angle or fisheye lens and twin strobes. Morning dives provide the best ambient light penetration; afternoon dives give softer, warmer light. The sandy channels at depth, photographed with a wide lens close to the substrate, reveal interesting behavioral subjects in natural, contextual compositions.
+No site-specific photography guidance could be confirmed for this location.
 
 ---
-*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*
+*Description based on limited, unverified sourcing. No 3 independent site-specific sources were found for Batu Rufas in Triton Bay; the one low-authority mention found (describing hard coral and chromis schools) is flagged as unconfirmed and contradicts the previous soft-coral characterization. Last updated 2026-07-07.*

@@ -13,7 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "freestyledivers.me,chloebluescubadiving.com,moccae.gov.ae,nemodivingcenter.com,scubago.com",
+      "last_qa_date": "2026-07-07"
     }
   },
   {
@@ -30,7 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "nemodivingcenter.com,sharkdiversuae.com,divesandy.com,bayut.com",
+      "last_qa_date": "2026-07-07"
     }
   },
   {
@@ -39,7 +41,7 @@
     "lon": 56.3667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 14,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "padi.com,nemodivingcenter.com,moccae.gov.ae,gulfnews.com,coralcreekdiving.com",
+      "last_qa_date": "2026-07-07"
     }
   },
   {
@@ -64,7 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "padi.com,moccae.gov.ae,coralcreekdiving.com,visitsharjah.com",
+      "last_qa_date": "2026-07-07"
     }
   },
   {
@@ -81,7 +85,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "nemodivingcenter.com,uae.greatestdivesites.com,evendo.com,sharjahmarine.ae",
+      "last_qa_date": "2026-07-07"
     }
   },
   {
@@ -98,7 +103,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "nemodivingcenter.com,khaleejtimes.com,padi.com,coralcreekdiving.com",
+      "last_qa_date": "2026-07-07",
+      "note": "Sources report hull/seabed depth between 30m (nemodivingcenter.com, padi.com) and 32m (khaleejtimes.com)"
     }
   },
   {
@@ -107,7 +114,7 @@
     "lon": 56.3,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -115,42 +122,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
-    }
-  },
-  {
-    "name": "Al Munassir Wreck",
-    "lat": 25.5083,
-    "lon": 56.3583,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 26,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "note": "May be located in Oman (Muscat area) rather than UAE"
-    }
-  },
-  {
-    "name": "Dibba Island",
-    "lat": 25.625,
-    "lon": 56.2583,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 15,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "nemodivingcenter.com,khaleejtimes.com,coralcreekdiving.com,divesandybeach.com",
+      "last_qa_date": "2026-07-07",
+      "note": "Sources report depth ranging from about 17m to 24m depending on section of wreck"
     }
   },
   {
@@ -167,7 +141,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "padi.com,coralcreekdiving.com,nemodivingcenter.com,divesandybeach.com",
+      "last_qa_date": "2026-07-07"
     }
   }
 ]

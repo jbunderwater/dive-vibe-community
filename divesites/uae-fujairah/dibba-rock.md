@@ -17,7 +17,7 @@ Dibba Rock is a wall dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Dibba Rock is a 200-metre pinnacle just off the coast of Dibba Al-Fujairah — the UAE side of the bay — where a steep wall on the seaward side gives way to a gentler coral slope and an impressive wall of table corals with spans of up to 2 metres. The site is part of the oldest marine protected area in the UAE, a no-fishing zone for over 15 years, and the density of life shows it: black-tip reef sharks patrol the deeper sections while green and hawksbill turtles cruise the shallower coral gardens alongside shoaling fusiliers, trevally, and honeycomb moray eels. Green and purple whip corals cover the outer wall, and visibility regularly exceeds 20 metres.
+Dibba Rock is a small rocky islet just off Dibba Al-Fujairah with a roughly 200-metre pinnacle running along it: a steeper wall on the seaward side descends toward the deepest part of the site, while the inner side is a gentler sloping reef of soft and boulder corals. It sits inside the oldest marine protected area in the UAE, a no-fishing zone for more than 15 years, and marine life is dense as a result — green and hawksbill turtles are reliably encountered, blacktip reef sharks are seen, and honeycomb moray eels, fusiliers, snappers, and barracuda shoal around the rock. The seaward wall face is covered in green and purple whip corals. Note: this site is also listed by some sources and dive centers as "Dibba Island" — the two names refer to the same rock formation, not two separate sites.
 
 ## Site Information
 
@@ -27,5 +27,9 @@ Dibba Rock is a 200-metre pinnacle just off the coast of Dibba Al-Fujairah — t
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 16 meters
 
+## Dive Notes
+
+Divers typically circle the rock, descending the steeper seaward wall first before working around to the gentler, shallower coral slope closer to shore. A moderate current runs through the site, especially around tidal changes, and the inshore side can be as shallow as 3-4 metres, so diving near high tide is recommended. Visibility is generally good outside of periods of heavy runoff.
+
 ---
-*Sources: [Al Boom Diving - Fujairah](https://www.alboomdiving.com/en/fujairah-diving-trip), [PADI - Top Dive Sites in Fujairah](https://www.padi.com/dive-sites/fujairah/), [Freestyle Divers - Fujairah Dive Sites](http://freestyledivers.me/uae-dive-sites/fujairah-dive-sites/), [Chloe Blue Scuba - Beginner Guide to Fujairah](https://www.chloebluescubadiving.com/post/a-beginner-s-guide-to-scuba-diving-in-fujairah), [Divers Down UAE - Pleasure Diving Fujairah](https://www.diversdownuae.com/pleasure-diving-fujeirah/). Last updated 2026-04-04.*
+*Sources: [Freestyle Divers - Dibba Rock](https://freestyledivers.me/uae-dive-sites/dibba-rock/), [Chloe Blue Scuba Diving - Dibba Rock](https://www.chloebluescubadiving.com/copy-of-artificial-reef), [MOCCAE - Dibba Rock Ecotourism Area](https://moccae.gov.ae/en/knowledge/ecotourism/dibba-rock), [Nemo Diving Center - Dibba Rock](https://nemodivingcenter.com/other-diving-sites/dibba-rock-in-fujairah/), [Scubago - Dibba Rock](https://www.scubago.com/en/explore/divesite/dibba-rock-99470). Last updated 2026-07-07.*

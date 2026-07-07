@@ -13,52 +13,48 @@ addedBy: osm_import
 
 ## The Ledge Vavau
 
-The Ledge is one of Vava'u's more demanding wall dives, dropping sharply from a shallow reef top to depths well beyond recreational limits, with large pelagics and sea fans as the primary draws.
+The Ledge is a wall site in the Vava'u group. Vava'u's outer walls and drop-offs are a well-documented style of diving in the area, but no source could be found confirming a distinctly named site called "The Ledge" at these exact coordinates.
 
 ## Overview
 
-The Ledge takes its name from the prominent structural feature that defines the dive: a shallow reef platform that terminates abruptly at a near-vertical wall, dropping into open water past 40 meters. The wall face is decorated with large gorgonian sea fans, black coral bushes, and encrusting sponges in orange and purple. The outer water column at this site attracts larger species that use the wall as a hunting edge — grey reef sharks, dogtooth tuna, and occasional hammerheads have been reported passing through. The site sits on the outer edge of the Vava'u island cluster, so conditions here are more exposed than sites within the protected lagoon system, and diveable days depend on swell direction.
+**A note on this entry**: the previous description included specific claims — gorgonian fan dimensions, hammerhead shark sightings, occasional manta rays — that could not be traced to any source during this review. Vava'u wall diving as a general style (reef top giving way to a drop-off, gorgonian fans, reef sharks, dogtooth tuna in the blue) is well documented at the destination level, but nothing found ties those specifics to this exact site name and location. The unconfirmed specifics have been removed rather than carried forward.
 
 ## Site Information
 
-- **Location**: Outer Vava'u island group, Tonga
+- **Location**: Vava'u, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 25–40 meters
-- **Current**: Moderate; can be strong on incoming tides
-- **Water Temperature**: 24–27°C (75–81°F)
-- **Best Time to Dive**: May–October; incoming tide typically brings cleaner water
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Not confirmed for this specific site
+- **Water Temperature**: 24–27°C (75–81°F), typical for Vava'u
+- **Best Time to Dive**: Year-round, in line with general Vava'u conditions
 
 ## Marine Life
 
-The shallow reef top (5–12m) holds the typical Vava'u reef community: parrotfish, surgeonfish, grouper, and large Napoleon wrasse. Along the wall itself between 15–30 meters, large gorgonian fans up to 1.5 meters wide shelter hawkfish and tiny gobies. Black coral trees grow on the deeper sections of the wall. In the blue water beyond the wall edge, grey reef sharks cruise regularly, and dogtooth tuna are a common sighting. Pelagic species including barracuda schools and occasional manta rays use the wall edge as an orientation feature. During July–October, humpback whales have been sighted in open water adjacent to the site.
+No site-specific marine-life source was found for this location. Vava'u's regional wall/pelagic fauna generally applies, but no site-specific sightings have been confirmed here (including the previously listed hammerhead and manta ray claims, which had no source), so no species are listed.
 
 ## Dive Profile
 
-Begin on the reef top at 8–10 meters to establish orientation and check conditions before dropping over the wall edge. Descend the wall face, pausing at notable features — sea fan clusters are concentrated between 18 and 28 meters. Time your deepest section early in the dive when air supply is fullest, then work progressively shallower along the wall before ascending back over the reef top for your safety stop. Drift along the wall if a gentle current is running — this is often the best way to cover the most terrain with the least effort.
+Not independently confirmed for this specific site. Vava'u wall dives of this style typically begin on a shallow reef top before dropping along the wall toward the stated maximum depth.
 
 ## Entry and Exit
 
-Access by dive boat from Neiafu operators. The boat moors in shallow water above the reef top while divers descend and drift or return to the entry point. Entry is by giant stride. Deploy an SMB at the end of the dive for a free ascent if current has carried you away from the boat.
+Access would be by boat from Neiafu, consistent with regional wall-diving trips, though no operator-specific access details were confirmed for this exact site.
 
 ## Tips and Recommendations
 
-- Descend the wall slowly — rushing past the 20 meter zone means missing the best sea fan sections
-- Watch the blue water off the wall edge throughout the dive for pelagic passes
-- A dive computer with a clear depth alarm is strongly recommended given the wall's steep gradient
-- Current typically increases with depth at this site; if current becomes strong below 25m, ascend along the wall
-- Plan the dive for incoming tide when visibility is typically best and sharks are most active
-- Cold-water upwellings are occasional at this site — carry a wetsuit of at least 3mm
+- Treat the 40m maximum depth as unconfirmed for this exact site pending a source, and plan conservatively
+- Ask local Vava'u operators whether they run a trip to a wall site matching these coordinates
 
 ## Safety Considerations
 
-The 40 meter maximum depth approaches the limit of recreational diving, and the wall's steep gradient makes depth discipline essential. Divers should be comfortable with buoyancy control and depth monitoring before attempting this site. Currents can be strong, particularly at the wall edge and below 25 meters. Always carry an SMB, and brief the boat crew on your planned drift direction. This site is not suitable for newly certified Open Water divers.
+A stated maximum depth of 40 meters would put this dive at the edge of or beyond standard recreational limits. Without a confirmed source for this specific site's profile, plan very conservatively and rely on local operator guidance rather than the unconfirmed figures here.
 
 ## Photography
 
-Wide-angle photography excels at this site — frame the wall face with sea fans in the foreground against the open blue water column behind. Shooting upward along the wall toward the light creates dramatic perspective shots showing the wall's height and the silhouettes of reef sharks in the blue. Macro subjects include hawkfish on sea fans, wire coral gobies, and nudibranchs on encrusting sponges.
+Not independently confirmed for this specific site.
 
 ---
-*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*
+*Description based on regional wall-diving characteristics for Vava'u. No site-specific sources found for this exact site name/location. Last updated 2026-07-07.*

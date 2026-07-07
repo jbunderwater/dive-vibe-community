@@ -4,35 +4,35 @@ addedBy: osm_import
 
 ## Turkey
 
-Turkey's Mediterranean and Aegean coasts offer world-class diving featuring historic WWII wrecks, dramatic wall formations, vibrant reefs, and acclaimed dive destinations like Kaş and Bodrum.
+Turkey's Mediterranean and Aegean coasts offer world-class diving featuring an artificial-reef aircraft wreck, dramatic wall formations, vibrant reefs, and acclaimed dive destinations like Kaş and Bodrum.
 
 ## Description
 
-Turkey is a premier diving destination in the Eastern Mediterranean and Aegean Sea, offering 4 validated dive sites spanning from beginner-friendly reef exploration to technical deep diving. The country's strategic location at the crossroads of civilizations has left remarkable underwater archaeological heritage, including WWII-era wrecks. Water temperatures range from 16°C (winter) to 28°C (summer), with visibility typically 15-30 meters. The primary diving season runs May to October, with the best conditions from June through September.
+Turkey is a premier diving destination in the Eastern Mediterranean and Aegean Sea, offering 4 validated dive sites spanning from beginner-friendly reef exploration to advanced wall and wreck diving. The country's strategic location at the crossroads of civilizations has left underwater archaeological heritage such as scattered ancient amphorae and a Phoenician-era ship's anchor at individual sites (see site pages for specifics); the region's one wreck here, Uçak Batığı, is a modern ex-Turkish Air Force aircraft deliberately scuttled in 2008 rather than a wartime loss. Water temperatures range from 16°C (winter) to 28°C (summer), with visibility typically 15-30 meters. The primary diving season runs May to October, with the best conditions from June through September.
 
 ### Diving Opportunities
 
 Turkey's validated dive sites include:
 
-- **Reef Diving**: Healthy coral and sponge-covered reef structures (Shark Sculpture, Büyük Resif)
-- **Wall Diving**: Dramatic drop-offs and underwater topography (Büyük Resif, Aksona Bay)
-- **Wreck Diving**: Historic WWII aircraft wrecks (Uçak Batığı - advanced deep diving)
-- **Beginner-Friendly Sites**: Art installation dives and shallow reefs (Shark Sculpture at Pigeon Island)
-- **Advanced/Technical Diving**: Deep technical wreck dives at 58-71m depth
+- **Reef Diving**: Reef and archaeological features around a sunken sculpture, plus scattered wreck remains (Shark Sculpture)
+- **Wall Diving**: Dramatic drop-offs near Bodrum, both requiring advanced skills (Büyük Resif, Aksona)
+- **Wreck Diving**: An ex-Turkish Air Force C-47 Dakota, deliberately scuttled in 2008 as an artificial reef (Uçak Batığı)
+- **Beginner-Friendly Sites**: Shallow reef and sculpture dive at Pigeon Island (Shark Sculpture)
+- **Advanced Diving**: Büyük Resif and Aksona (30-35m walls with strong current); Uçak Batığı's deeper fuselage sections (up to ~36m)
 
 ### Key Dive Destinations
 
 **Kaş Region** (Mediterranean South Coast):
-- Famous for 25+ dive sites including wrecks, caves, walls, and canyons
+- Over 50 dive spots served by 15+ local dive centers, per Turkey Homes
 - Crystal-clear turquoise waters
-- Home to the iconic Shark Sculpture and the legendary Uçak Batığı plane wreck
-- Moderate to advanced diving
+- Home to the iconic Shark Sculpture at Güvercin Ada (Pigeon Island)
+- Beginner to advanced diving depending on site
 
 **Bodrum Region** (Aegean Coast):
 - Popular resort destination with excellent dive infrastructure
-- Featuring accessible reef and wall dives
-- Sites like Büyük Resif and Aksona Bay showcase varied topography
-- Good training and recreational diving
+- Featuring accessible wall dives and the ex-Turkish Air Force C-47 Dakota plane wreck (Uçak Batığı)
+- Sites like Büyük Resif and Aksona showcase varied wall topography
+- Büyük Resif and Aksona both require advanced/experienced-diver skills per local dive-shop guidance; the plane wreck spans intermediate-to-advanced depths depending on section
 
 ### Accessibility
 
@@ -47,7 +47,7 @@ Turkey's validated dive sites include:
 - **Water Conditions**: Mediterranean and Aegean waters range 16-28°C seasonally, with visibility 15-30 meters. Currents variable depending on location and conditions.
 - **Marine Biodiversity**: Rich fauna including Mediterranean groupers (often friendly at popular sites), barracuda, amberjack, moray eels, octopus, squid, nudibranchs, seahorses, and vibrant sponge gardens. Occasional encounters with larger pelagics and sea turtles.
 - **Geological Features**: Dramatic underwater topography including walls, caves, tunnels, pinnacles, and canyons.
-- **Historical Significance**: Underwater archaeology including ancient amphorae, WWII wrecks, and pre-classical period artifacts.
+- **Historical Significance**: Underwater archaeology at individual sites includes ancient amphorae and a Phoenician-era ship's anchor (Aksona); the region's aircraft wreck (Uçak Batığı) is a 2008 artificial reef, not a wartime loss.
 - **Conservation**: Turkish marine parks and protected areas enforce diving regulations to ensure sustainable practices.
 
 ## Diving by Skill Level
@@ -56,17 +56,10 @@ Turkey's validated dive sites include:
 - Shark Sculpture (reef with artistic element, 5-10m sculpture, max 28m reef)
 - Excellent for first Mediterranean experience and training dives
 
-### Intermediate
-- Büyük Resif (wall dive with accessible topography, 7-34m, light current)
-- Good for practicing wall diving and intermediate reef exploration
-
 ### Advanced
-- Aksona Bay (dramatic walls with challenging conditions, 3-45m+, variable current)
-- Requires excellent buoyancy control and depth management
-
-### Advanced Technical
-- Uçak Batığı (deep technical wreck, 58-71m, decompression required)
-- WWII aircraft wreck requires technical certification, deep diving training, and mixed gas experience
+- Büyük Resif (wall dive, 7-34m, strong current — dive-shop sources recommend advanced/experienced divers)
+- Aksona (wall dive, 3-35m, remote site with variable current)
+- Uçak Batığı (C-47 Dakota wreck; engine/cockpit ~16-23m, fuselage/tail ~28-36m depending on section) — requires good buoyancy control and depth management; interior penetration not recommended given conflicting reports on wreck stability
 
 ## Practical Information
 
@@ -95,8 +88,8 @@ Turkey's validated dive sites include:
 
 ## Safety Notes
 
-- **Current**: Variable, especially at Aksona Bay and in Straits. Always brief with dive master.
-- **Depth**: Deep diving common (some sites to 45-71m). Respect your training limits.
+- **Current**: Variable, especially at Aksona and the Büyük Resif wall. Always brief with dive master.
+- **Depth**: Sites here range from 28m (Shark Sculpture) to 34-36m at the Bodrum wall/wreck sites. Respect your training limits.
 - **Visibility**: Can vary seasonally and due to weather. Check conditions daily.
 - **Boat Traffic**: Some dive sites have commercial shipping. Maintain awareness.
 - **Cold Water (North Coast)**: Slightly colder in northern Aegean. Plan accordingly.
@@ -104,25 +97,25 @@ Turkey's validated dive sites include:
 
 ## Sources & Validation
 
-- Perplexity Research on Mediterranean diving (2026-03-16)
-- ScubaBoard forums on Turkish dive sites
-- Kaş and Bodrum dive operator resources
-- Regional diving guides and Marine Conservation research
+- Local dive-shop and operator sites (Aquapro, The Divers' Club, Happy Bubbles, Nautilus Diving Kaş, SSI MyDiveGuide, Just Gotta Dive, The Scuba Tank, Seaworld Club)
+- Sualtı Gazetesi (Turkish diving-news outlet) and Zentacle wreck database for the Uçak Batığı history
+- PADI dive-site listings and Turkey Homes travel blog for Kaş sites
+- kemaltufan.com for the Shark Sculpture's artist attribution
+- See each site's own markdown footer for the specific sources used for that site
 
 ## Dive Site Summary
 
 | Site | Location | Depth | Type | Difficulty | Validation |
 |------|----------|-------|------|------------|------------|
-| Shark Sculpture | Kaş, Pigeon Island | 28m | Reef + art | Beginner | Perplexity ✓ |
-| Büyük Resif | Bodrum | 34m | Wall/Reef | Intermediate | Perplexity ✓ |
-| Aksona | Bodrum area | 45m+ | Wall | Advanced | Perplexity ✓ |
-| Uçak Batığı | Kaş | 71m | Wreck (WWII) | Advanced Tech | Perplexity ✓ |
+| Shark Sculpture | Kaş, Pigeon Island | 28m | Reef + art | Beginner | 4 sources ✓ |
+| Büyük Resif | Bodrum | 34m | Wall | Advanced | 4 sources ✓ |
+| Aksona | Bodrum area | 35m | Wall | Advanced | 3 sources ✓ |
+| Uçak Batığı | Bodrum (Karaada/Paçoz Cove) | 16-36m (varies by section) | Wreck (C-47 Dakota, scuttled 2008) | Advanced | 4 sources ✓ |
 
 ---
 
-*Last updated: March 16, 2026*
-*Compiled from OpenStreetMap data, validated research, and expert dive operator knowledge*
-*All sites have been verified against current diving conditions and resources*
+*Last updated: 2026-07-07*
+*Every site above has been re-audited against multiple independent, site-specific sources (not generic country-level pages). See individual site markdown files for full source lists.*
 
 ---
-*Sources: [PADI - Diving in Turkey](https://www.padi.com/diving-in/turkey/), [Bluewater Dive Travel - Scuba Diving Turkey](https://www.bluewaterdivetravel.com/destination/scuba-diving-turkey), [DiveIn - Best Diving in Turkey](https://www.divein.com/diving/destination/turkey/), [X-Ray Mag - Turkey Mediterranean and Aegean](https://xray-mag.com/content/turkey-mediterranean-and-aegean-hotspots), [Chasing the Donkey - Scuba Diving Turkey](https://www.chasingthedonkey.com/scuba-diving-turkey-dive-sites/). Last updated 2026-04-04.*
+*Sources: see individual dive site pages (shark-sculpture.md, büyük-resif.md, aksona.md, uçak-batığı.md) for site-specific source attribution. This overview aggregates data validated across those pages. Last updated 2026-07-07.*

@@ -13,51 +13,48 @@ addedBy: osm_import
 
 ## Aiduma Island Wall
 
-Aiduma Island Wall is the southernmost major wall dive in Triton Bay — a remote, current-washed site surrounding Aiduma Island where isolated bommies, dense black coral stands, and excellent critter hunting make it a highlight of extended liveaboard itineraries through West Papua.
+"Aiduma Island Wall" is this database's name for a wall dive near Aiduma Island — the island that is home to Triton Bay Divers resort — but no operator or independent source found during this review uses this exact site name, so the details below are corrected for known geography and otherwise treated as provisional.
 
 ## Overview
 
-Aiduma Island sits near the southern edge of Triton Bay, West Papua, Indonesia, making it one of the more remote sites in the bay system — accessible only on longer liveaboard itineraries that dedicate two or more days to the area. The island itself is steep-sided, with walls that drop from the rocky shoreline directly into deep water, draped in the same extraordinary density of soft corals and invertebrate life that defines the best of Triton Bay's diving. What distinguishes Aiduma from the inner-bay reef sites is the presence of isolated coral bommies rising from sandy channels at the wall's base, each one a self-contained ecosystem, and the consistent reports of encounters with larger animals drawn by the cooler, nutrient-rich water that sweeps around the island's southern face. The area around the island has historically been associated with private resort operations, contributing to its relatively pristine condition — diver pressure here is minimal compared to the more frequented inner-bay sites.
+Aiduma Island is well documented as the location of Triton Bay Divers, the area's dedicated dive resort, and sits at the southern end of Triton Bay, roughly two kilometers off the West Papua mainland. This corrects the previous version of this page, which described Aiduma as remote and accessible "exclusively by liveaboard" on "extended... itineraries" — in fact, Aiduma is the base for shore-based resort diving in the bay, making it one of the more accessible parts of the destination rather than one of the most remote. Wall and reef diving does occur in the waters around Aiduma, including at Christmas Rock, an independently documented site off the island's southern end known for black coral bushes, soft coral bommies, and schools of snapper and surgeonfish. However, no source confirms "Aiduma Island Wall" as a specific, named dive site distinct from Christmas Rock or other nearby dives, so the detailed species and dive-profile claims previously recorded here have been removed.
 
 ## Site Information
 
-- **Location**: Triton Bay, West Papua, Indonesia
+- **Location**: Triton Bay, West Papua, Indonesia, in the waters around Aiduma Island
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-25 meters
-- **Current**: Moderate to strong; stronger on the island's seaward face
-- **Water Temperature**: 26-29°C (thermoclines possible)
+- **Typical Visibility**: 10-25 meters (regional typical, not site-confirmed)
+- **Current**: Can run moderate to strong around Aiduma's more exposed faces; site-specific current not confirmed
+- **Water Temperature**: 26-29°C
 - **Best Time**: October to April
 
 ## Marine Life
 
-Aiduma Island Wall is particularly noted for its black coral trees, which begin at around 12 meters and extend to the wall's base. These forests harbor longnose hawkfish, flamingo shrimp, and crinoid shrimp visible with careful searching. The isolated bommies on the sand at 20 to 30 meters are excellent critter-hunting grounds: ornate ghost pipefish, robust ghost pipefish, and various species of frogfish are regularly reported here. Wobbegong sharks rest in the crevices between the wall and the bommies. The open water beyond the wall draws occasional dogtooth tuna and schooling barracuda. Hawksbill sea turtles are frequently sighted resting on the deeper bommies or feeding on the soft coral-encrusted wall faces.
+No independent, site-specific marine-life source was found for a site named "Aiduma Island Wall." For context, the confirmed nearby site Christmas Rock (off southern Aiduma) is documented to host black coral bushes, soft coral bommies, and schools of snapper and surgeonfish — but this is a distinct, separately-named site and its details should not be assumed to apply to this exact entry. The previous description's claims (ghost pipefish, wobbegong sharks, dogtooth tuna, hawksbill turtles at these specific coordinates) could not be corroborated and have been removed.
 
 ## Dive Profile
 
-The wall can be dived from multiple entry points around the island depending on current direction and the boat captain's assessment of conditions. The standard approach is to descend to the wall top at 8 to 12 meters, follow the wall down to 20 to 25 meters where the bommies become the focus, then make a thorough exploration of the isolated coral heads before ascending back to the wall for a final pass at 12 to 15 meters. Allow 15 to 20 minutes for the bommie zone — this is where the rarest critters are concentrated. Ascend with 80 bar minimum remaining and conduct a 5-minute safety stop at 5 meters on the wall or in open water.
+Specific dive-profile details for this exact site could not be independently confirmed and have been removed. As an advanced wall site near Aiduma, standard practice would apply: assess current and entry point with your guide, descend along the wall, and manage no-decompression limits conservatively at depth.
 
 ## Entry and Exit
 
-Access is exclusively by liveaboard. The island's remote location means no day-boat operations serve this site. The liveaboard tender drops divers directly onto the wall. In current, a drift exit may be necessary — the boat crew will follow your SMB. Always deploy a surface marker before beginning your ascent.
+Access is by boat from Triton Bay Divers resort (located on Aiduma Island itself) or by liveaboard tender — this corrects the previous claim that the site is reachable "exclusively by liveaboard."
 
 ## Tips and Recommendations
 
-- Bring a torch even on day dives — the crevices between the wall base and the bommies are in deep shadow and harbor the best critters
-- Take time at each bommie rather than rushing between them; ghost pipefish and frogfish are masters of camouflage and require slow, methodical searching
-- The seaward face of the island is more exposed and current-prone; the leeward side offers better conditions for critter diving
-- Ask your guide about recent sightings — specific bommies tend to host resident species for extended periods
-- This is an excellent site for close-focus wide-angle photography, combining the bommie subjects with the dramatic wall background
+- Ask your operator whether "Aiduma Island Wall" refers to Christmas Rock or a different, specific dive near the island
+- Standard advanced wall-diving practice applies: full tank at the start, conservative depth targets, SMB before ascent
 
 ## Safety Considerations
 
-The remote location of Aiduma Island Wall means that medical assistance is significantly further away than at sites closer to Kaimana. Dive conservatively and adhere strictly to no-decompression limits. The combination of wall diving to 30 meters, potentially strong currents on the island's exposed face, and complex terrain (bommies on sand at depth) demands careful air management. As always on advanced Triton Bay sites, deploy an SMB before ascending and carry a backup signaling device. Aiduma is not appropriate for novice or newly certified divers.
+Standard Triton Bay advanced-diving precautions apply: dive with an experienced guide, carry an SMB, and manage gas conservatively given the depth (up to 30m as recorded) and potential current exposure. Site-specific hazards for this exact entry were not independently confirmed.
 
 ## Photography
 
-Aiduma Island Wall offers superb close-focus wide-angle opportunities — individual bommies draped in soft coral and surrounded by open blue water create natural studio-like compositions. Position yourself at sand level and shoot upward toward the bommie silhouette to capture the soft coral coverage with the wall behind. For critter macro, 100mm is the lens of choice around the bommies; bring adequate strobe power for the deep, shaded environments. Black coral forests on the wall itself, shot from below with a wide lens and strobes angled in from the sides, produce dramatic deep-reef portraits.
+No site-specific photography guidance could be confirmed for this exact entry. If diving Christmas Rock or another confirmed wall/bommie site near Aiduma, close-focus wide-angle on the coral bommies and macro work in the black coral would be standard approaches.
 
 ---
-*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*
+*Description based on regional Aiduma-area diving characteristics. No site-specific source confirming a distinct dive site named "Aiduma Island Wall" was found; the confirmed nearby site Christmas Rock is noted for context but is a different, separately-documented location. Last updated 2026-07-07.*

@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Flasher Beach
 
-Flasher Beach is Triton Bay's most celebrated macro site — a shallow, rubble-strewn reef that is the top destination in the world for observing and photographing Flasher Wrasse (Paracheilinus species) performing their spectacular breeding displays, a behavior so dazzling that the site was named for it.
+Flasher Beach is a small, isolated island site northwest of Aiduma, outside the main Triton Bay cluster, named for the Paracheilinus flasher wrasse that display here in the hour or two before sunset.
 
 ## Overview
 
-The name says everything: Flasher Beach in Triton Bay, West Papua, Indonesia, is the definitive site for witnessing the courtship display of Flasher Wrasse. Male Paracheilinus wrasse — small, typically drab fish — undergo a dramatic physical transformation during mating dashes, their fins unfurling into elaborate banners of electric blue, orange, and red as they race upward through the water column in frantic display runs to attract females. The behavior is brief, explosive, and extraordinarily beautiful. At Flasher Beach, several species of Paracheilinus coexist in the same rubble and mixed coral habitat, and their peak display activity in the morning hours draws underwater photographers from around the world on Triton Bay liveaboard itineraries. The site itself is a shallow, gently sloping reef of hard coral heads transitioning to rubble at depth — a classic Indo-Pacific mixed habitat that also supports an exceptional diversity of other macro subjects well beyond the headline wrasse.
+Flasher Beach sits on its own small island roughly 30 minutes by boat from Triton Bay Divers resort, northwest of Aiduma Island, West Papua, Indonesia. The site is one of a small number of places in the world where Paracheilinus nursalim — a flasher wrasse formally described by Allen and Erdmann in 2008 from the Bird's Head Peninsula — can be reliably seen; outside Triton Bay it is otherwise documented only from Misool in southern Raja Ampat. Male display behavior in this genus is well documented to peak in the one to two hours before sunset, with courtship dashes continuing through dusk — this dive is best planned for late afternoon rather than morning. The site itself is a rubble and mixed hard-coral habitat.
 
 ## Site Information
 
-- **Location**: Triton Bay, West Papua, Indonesia
+- **Location**: Triton Bay area, West Papua, Indonesia (small island northwest of Aiduma)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -29,36 +29,34 @@ The name says everything: Flasher Beach in Triton Bay, West Papua, Indonesia, is
 - **Typical Visibility**: 8-18 meters
 - **Current**: Generally mild; can pick up during tidal exchange
 - **Water Temperature**: 27-30°C (81-86°F)
-- **Best Time**: October to April; morning dives for peak flasher wrasse activity
+- **Best Time**: October to April; late afternoon dives for peak flasher wrasse display activity
 
 ## Marine Life
 
-The Flasher Wrasse display is the headline act — multiple Paracheilinus species (including P. nursalim, described from Triton Bay and considered near-endemic to this region) perform most actively in the first two hours after sunrise. Once you have observed the displays, slow down and work the rubble carefully: this substrate harbors painted frogfish, mimic filefish, ornate ghost pipefish, and multiple nudibranch species. The hard coral heads in the shallower sections support pygmy seahorses, porcelain crabs in anemones, and a dense community of small reef fish. Banded pipefish and robust ghost pipefish hover in coral branches. Coleman shrimp on fire urchins are frequently found on sandy patches between the reef sections. The site also records regular sightings of the Triton Bay epaulette shark, an endemic walking shark species found in very few other locations on Earth.
+The confirmed draw at Flasher Beach is the display of male Paracheilinus flasher wrasse, including P. nursalim, most active in the hour or two before sunset. Beyond the flasher wrasse display itself, Triton Bay's regional rubble/hard-coral fauna would be expected to apply at a site like this, but no site-specific source was found confirming individual species (such as frogfish, ghost pipefish, pygmy seahorses, or the Triton Bay epaulette shark) at this particular location — they are omitted here rather than assumed.
 
 ## Dive Profile
 
-Plan this dive in the morning for the best flasher wrasse activity. Descend to 12 to 15 meters on the rubble zone and station yourself near a rubble patch where male wrasse are concentrated. Position yourself downurrent, keep your movements slow and steady, and wait — the males will begin their display runs within minutes of the dive team settling. Dedicate 15 to 20 minutes here before working shallower, systematically searching the coral heads and rubble for other macro subjects. The shallower hard coral zone at 5 to 8 meters is excellent for slow, detailed searching. Depth limits and air consumption are rarely the constraining factor at this site — maximum dive time typically governs when divers exit.
+Plan this dive for late afternoon, ahead of sunset, for the best chance of observing the flasher wrasse display — this is a correction from the once-common assumption that flashers display at dawn. Descend onto the rubble/hard-coral habitat and settle calmly near an area with wrasse activity; sudden movement suppresses the display. Courtship dashes last only a few seconds each but repeat over an extended period as dusk approaches. Outside the display window, the site can be worked as a standard rubble/reef macro dive.
 
 ## Entry and Exit
 
-Access by liveaboard tender or day-boat. The site is generally calm enough for straightforward giant stride entry and ladder exit. In mild current, the boat may reposition or drift; coordinate with the crew before the dive on expected drift distance.
+Access is by liveaboard tender or day-boat, roughly 30 minutes from the resort. Entry is typically a straightforward giant stride with ladder exit in the generally mild conditions found here; confirm current with your guide, as tidal exchange can increase flow.
 
 ## Tips and Recommendations
 
-- Dive Flasher Beach first thing in the morning — male wrasse display most intensely in early light and the activity diminishes significantly by mid-morning
-- Use a 100mm macro lens and shoot in burst mode to capture the display dashes, which last only 1 to 3 seconds
-- Set up your camera settings before you enter the water and do not change them during the wrasse display phase
-- Maintain a low profile above the substrate — kneeling on sand (never coral) and staying still produces much better results than hovering and chasing
-- Ask your dive guide to identify which rubble patches hold the active male wrasse colonies before descending
-- After the wrasse session, switch mental gears to slow critter hunting on the rubble — the substrate is extraordinarily productive
+- Time your dive for late afternoon/pre-sunset — documented Paracheilinus display activity peaks before dusk, not in the morning
+- Use a 100mm macro lens with fast shutter speeds (1/250s or faster) to capture the brief display dashes
+- Keep movements slow and low to the substrate; disturbance suppresses the display
+- Treat marine life beyond the flasher wrasse as a bonus rather than an expected checklist — site-specific records for other species here are limited
 
 ## Safety Considerations
 
-Flasher Beach is one of Triton Bay's more accessible sites in terms of depth and current exposure. The principal risks are accidental coral contact during macro photography and nitrogen buildup from repetitive shallow diving (the site may be dived two or three times during a liveaboard visit). Maintain good buoyancy throughout, particularly when hovering close to the rubble. Never rest on or use coral for stability. Air planning is straightforward, but always conduct a safety stop regardless of depth — the shallow water near the stop depth is full of interesting subjects.
+Flasher Beach's shallow depth and generally mild current make it one of the more accessible sites in the Triton Bay area. The main risks are incidental coral/rubble contact while working close to the substrate for macro photography, and nitrogen loading from repetitive shallow dives if visited more than once in a day. Maintain a proper safety stop regardless of the shallow maximum depth.
 
 ## Photography
 
-Flasher Beach is one of the most sought-after macro photography destinations in the entire Coral Triangle. The Paracheilinus display behavior is uniquely challenging to photograph: it requires precise pre-focus, burst shooting, and fast enough shutter speeds (1/250s minimum) to freeze the extended fins. Wet diopter attachments are sometimes used to magnify individual display details. Beyond the wrasse, the rubble habitat provides a full slate of macro subjects at more leisurely pace — frogfish, nudibranchs, and ghost pipefish all reward patient, careful composition. Video shooters should plan to dedicate an entire dive to pure wrasse behavior documentation; the results from this single site can form the centerpiece of a West Papua diving film.
+The flasher wrasse display is the standout subject: use a 100mm macro lens, pre-set exposure, burst shooting, and a shutter speed of at least 1/250s to freeze the extended fin displays during the pre-dusk window. Outside that window, the rubble/hard-coral habitat rewards slower, general macro work.
 
 ---
-*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — Indonesia's Triton Bay](https://xray-mag.com/content/indonesias-triton-bay-diving-west-papua), [Diveplanit — Triton Bay Divers](https://www.diveplanit.com/indonesia/raja-ampat/triton-bay-divers/), [Merapi Tours — Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites), [Reef Builders — Hybrid Flasher Wrasses Abound at Triton Bay's Flasher Beach](https://reefbuilders.com/2015/03/16/hybrid-flasher-wrasses-abound-at-triton-bays-flasher-beach/). Last updated 2026-07-07.*
