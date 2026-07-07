@@ -13,51 +13,50 @@ addedBy: osm_import
 
 ## Takuo
 
-Takuo is a wreck site in Tonga's island waters, now heavily colonized by corals and serving as a productive fish aggregation point in an otherwise open sandy environment.
+Takuo is a charted wreck in the Ha'apai island group, officially recorded on hydrographic charts as tide-covered with the hull showing. Its history could not be confirmed to the standard this review requires.
 
 ## Overview
 
-The Takuo wreck sits in the waters of the Tonga island chain at approximately 20 meters depth, resting on a sandy bottom. The vessel's origin and history are not extensively documented in public dive records, but the wreck has been in place long enough to accumulate substantial coral growth and to establish itself as a permanent feature of the local reef ecosystem. Like many Pacific wrecks, the artificial hard substrate provided by the hull has accelerated coral colonization far beyond what the surrounding sandy environment would otherwise support, creating a concentrated patch of reef habitat that attracts fish from the surrounding area. The site is diveable year-round and is accessible from nearby island communities by charter boat.
+**A note on this entry**: the previous description ("origin and history not extensively documented... coral encrustation and macro life abundant... moderate currents typical") was largely generic filler with no traceable source. During this review, a single web account was found describing a vessel named Takuo as a fishing boat that foundered on Hakaufisi reef in the Ha'apai group during a storm, with lives lost and the hull eventually washing ashore on nearby Nomuka Iki. That account could not be independently corroborated (a direct fetch of the source page was blocked, and no second outlet repeats the story), and it's ambiguous whether it describes a submerged, tide-covered wreck (consistent with this location's official chart tag) or a fully beached relic on land (which would not be a scuba site at all). Per this destination's wreck-research standard, a single uncorroborated source is not sufficient to state this as fact, so it is presented here as an unconfirmed lead rather than history.
+
+What is independently confirmed is the official hydrographic chart record: a wreck at this position (LINZ hydrographic ID 8269138), tagged as tide-covered with the hull showing.
 
 ## Site Information
 
-- **Location**: Tonga island waters, Tonga
+- **Location**: Ha'apai island group, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Light to moderate
-- **Water Temperature**: 23–27°C (73–81°F)
-- **Best Time to Dive**: Year-round
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Not confirmed for this specific site
+- **Water Temperature**: 23–27°C (73–81°F), typical for Ha'apai
+- **Best Time to Dive**: Not confirmed for this specific site
 
 ## Marine Life
 
-The wreck hull supports dense populations of encrusting hard and soft corals, sponges, and anemones with associated clownfish. Schools of fusiliers and snapper orbit the structure during the day, while grouper and lionfish occupy darker corners and interior spaces. Sea turtles are a common encounter at this site, often found resting on the deck or hull surfaces. The sandy bottom around the wreck hosts stingrays, flatfish, and garden eels in the surrounding sea floor. Whitetip reef sharks are regular visitors, frequently resting on the sandy bottom near the wreck's shadow.
+No site-specific marine-life source was found. Ha'apai's regional reef fauna may be present around any wreck structure here, but no site-specific sightings have been confirmed, so no species are listed.
 
 ## Dive Profile
 
-Descend to the top of the superstructure at 8–12 meters, then explore the deck and hull sides before dropping to the sandy bottom at 20 meters for the full hull profile view. The wreck is of a size that a single dive covers the exterior comprehensively. Accessible interior spaces with natural ambient light can be explored with a dive torch. Begin your ascent from the shallowest structural feature and conduct your safety stop on the up-current side of the wreck.
+Not independently confirmed. The chart tag ("hull showing," "water level: covers") suggests a wreck that is sometimes exposed and sometimes covered by tide, consistent with a shallow reef-adjacent position, but no dive-specific profile could be sourced.
 
 ## Entry and Exit
 
-Access by charter boat from nearby island communities or through operators in the nearest town with dive services. The boat moors or anchors above the wreck. Giant stride entry and descent to the wreck top. Ascent via the wreck's superstructure to the mooring or free ascent with SMB.
+Not independently confirmed. Access would presumably be by charter boat from a Ha'apai community, but no operator-specific details were found.
 
 ## Tips and Recommendations
 
-- Bring a dive torch for the darker interior spaces and to bring out coral colors below 15 meters
-- The sandy bottom around the wreck is worth examining for rays and flatfish before ascending
-- Lionfish are present and well-camouflaged — watch hand placement near superstructure
-- A slow, methodical circuit of the hull exterior before entering any interior spaces provides the best overall encounter with the site
-- Night dives on this wreck reveal different residents: octopus, morays actively hunting, and sleeping reef fish
+- Treat this site's history and condition as unconfirmed pending a second, independently verifiable source
+- Ask local Ha'apai operators directly whether they know this wreck and what condition it's currently in
 
 ## Safety Considerations
 
-This site is well within intermediate-level diver capabilities. The 20 meter maximum depth allows generous bottom times, and conditions are generally mild. Interior penetration should be limited to areas with clear ambient light or attempted only with a dive torch and appropriate training. Avoid disturbing silt inside enclosed spaces. Always carry an SMB for ascent.
+Given the uncertainty over whether this wreck is a stable, established dive site, divers should treat it cautiously and rely on current local-operator assessment rather than the (unconfirmed) figures in this entry.
 
 ## Photography
 
-The encrusted hull makes for strong macro photography — scan the surfaces for nudibranchs, flatworms, and small crustaceans in the coral matrix. Wide-angle shots looking along the hull length capture the wreck's scale and the fish life surrounding it. A torch is needed to illuminate interior shots and to restore color saturation on the deeper hull sections.
+Not independently confirmed for this specific site.
 
 ---
-*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*
+*Sources: single uncorroborated web account referencing Hakaufisi reef and Nomuka Iki (not independently verified — see note above); OSM/LINZ hydrographic chart data (ref:linz:hydrographic_id 8269138) confirms a charted wreck at this position. No dive-specific source was found. Last updated 2026-07-07.*
