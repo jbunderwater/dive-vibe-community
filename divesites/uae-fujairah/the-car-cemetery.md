@@ -17,7 +17,7 @@ The Car Cemetery is a historic wreck dive in UAE - Fujairah, Middle East.
 
 ## Overview
 
-The Car Cemetery is an artificial reef created in 1988 when around 200 vehicles — cars and trucks — were deliberately submerged roughly four nautical miles from Khor Fakkan port at 17 metres depth, creating a sprawling underwater scrapyard ideal for macro diving. Cyclone Gonu in 2007 reduced the number of recognisable vehicles to around 50, but the remaining chassis, tyres, and fenders are now blanketed in growth and colonised by undulated moray eels, lionfish, Arabian boxfish, pufferfish, snappers, and barracuda. The site requires good buoyancy control as sediment near the wadi entrance can reduce visibility to near zero, but patient divers are rewarded with some of the most unusual subjects on Fujairah's east coast.
+The Car Cemetery is an artificial reef created in 1988, when around 200 vehicles — cars and trucks — were deliberately submerged roughly four nautical miles from Khor Fakkan port to encourage new marine habitat, creating a sprawling underwater scrapyard popular with macro divers. Cyclone Gonu in 2007 reduced the number of recognisable vehicles to around 50, but the remaining chassis, tyres, and fenders are now blanketed in growth and colonised by honeycomb moray eels, blennies, stingrays, Omani clingfish, and seahorses that cling to sea fans or car parts — the site is also known for a wide range of the roughly 300 nudibranch species recorded in UAE waters, including red-ringed, purple-spotted dorids and chromodorids. Guide ropes connect the wrecks, making navigation between them straightforward.
 
 ## Site Information
 
@@ -27,5 +27,9 @@ The Car Cemetery is an artificial reef created in 1988 when around 200 vehicles 
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 
+## Dive Notes
+
+Depth across the site is generally 16-18 metres, and visibility can vary considerably. Divers should not attempt to enter the enclosed car bodies — they are unstable and not built for penetration — and should stay alert for loose fishing net entanglement hazards on some of the wrecks. Suitable for Open Water certified divers and above with good buoyancy control.
+
 ---
-*Sources: [Al Boom Diving - Fujairah](https://www.alboomdiving.com/en/fujairah-diving-trip), [PADI - Top Dive Sites in Fujairah](https://www.padi.com/dive-sites/fujairah/), [Freestyle Divers - Fujairah Dive Sites](http://freestyledivers.me/uae-dive-sites/fujairah-dive-sites/), [Chloe Blue Scuba - Beginner Guide to Fujairah](https://www.chloebluescubadiving.com/post/a-beginner-s-guide-to-scuba-diving-in-fujairah), [Divers Down UAE - Pleasure Diving Fujairah](https://www.diversdownuae.com/pleasure-diving-fujeirah/). Last updated 2026-04-04.*
+*Sources: [Nemo Diving Center - Car Cemetery Dive Site](https://nemodivingcenter.com/other-diving-sites/car-cemetery-in-fujairah/), [Nemo Diving Center - Wildlife Encounters at Car Cemetery](https://nemodivingcenter.com/blog/wildlife-encounters-at-car-cemetery-in-fujairah/), [Great Diving Sites - Car Cemetery](https://uae.greatestdivesites.com/uae_east_coast/car_cemetery), [Evendo - The Haunting Beauty of Sharjah's Car Cemetery](https://evendo.com/locations/united-arab-emirates/khor-fakkan/attraction/car-cemetery). Last updated 2026-07-07.*

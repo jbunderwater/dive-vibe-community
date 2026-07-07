@@ -2,12 +2,6 @@
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
   "queue": [
-    "tonga",
-    "triton-bay",
-    "turkey",
-    "turks-and-caicos",
-    "uae",
-    "uae-fujairah",
     "us",
     "us-virgin-islands",
     "ustica",
@@ -174,9 +168,95 @@
     "tanzania",
     "thailand",
     "thailand-similan-islands",
-    "tobago"
+    "tobago",
+    "tonga",
+    "triton-bay",
+    "turkey",
+    "turks-and-caicos",
+    "uae",
+    "uae-fujairah"
   ],
   "history": [
+    {
+      "date": "2026-07-07",
+      "slugs": [
+        "tonga",
+        "triton-bay",
+        "turkey",
+        "turks-and-caicos",
+        "uae",
+        "uae-fujairah"
+      ],
+      "notes": "uae is isGroup=true parent slug with no own data files; its only child uae-fujairah was processed directly, covering both",
+      "summary": {
+        "sites_total": 48,
+        "sites_validated_today": 30,
+        "sites_re_audited": 46,
+        "hallucinations_removed": 31,
+        "marine_life_stripped": 21,
+        "wreck_conflicts_flagged": 8,
+        "sites_unresolved": 15,
+        "by_destination": {
+          "tonga": {
+            "sites_total": 14,
+            "sites_validated_today": 4,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 9,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 9,
+            "notes": "Fabricated 'St Catherine Wreck' renamed to real Clan McWilliam wreck (1927); 'Eua Island' cave renamed Cathedral Cave 'Eua (active dive operator runs trips, contradicting prior 'expedition-only' fabrication); 'Marmer' renamed My Lady Lata II wreck; Ata reclassified reef\u2192wreck (OSM's own tags said historic=wreck) and disambiguated from the real 150km-distant 'Ata island; Fonualei eruption date corrected 1957 (was fabricated 'early 2000s') and its status as an actual dive site left unconfirmed; Hakau Mounu manta-cleaning-station claim removed (conflated with unrelated Mounu Island Resort 300km away). Agent downgraded validated=true\u2192false on 9 sites whose prior validation rested on a single non-independent 'perplexity' source, consistent with prior routine runs (e.g. Roatan 2026-06-27)."
+          },
+          "triton-bay": {
+            "sites_total": 10,
+            "sites_validated_today": 5,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 15,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 5,
+            "notes": "Prior validated=true rested on 5 identical domains shared across all 10 sites, 3 of which 403'd; whale-shark demographics corrected against Kaimana ISRA survey data (58% juvenile, not 'full-sized adults'); flasher wrasse display timing corrected dusk\u2192not dawn. DATA INTEGRITY FLAG: Sawandek Jetty's content matches the real Raja Ampat site 'Sauwandarek Jetty' near Mansuar island \u2014 likely misplaced/contaminated from a different destination, needs manual review (not removed this pass, left validated=false)."
+          },
+          "turkey": {
+            "sites_total": 4,
+            "sites_validated_today": 4,
+            "sites_re_audited": 4,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "Ucak Batigi corrected from a fabricated WWII Italian Savoia-Marchetti SM.79 bomber (58-71m) to the real ex-Turkish Air Force Douglas C-47A Dakota scuttled 2008 by BOSAD (16-36m), per 4 independent sources; Aksona depth corrected 45m\u219235m; Buyuk Resif difficulty bumped Intermediate\u2192Advanced per depth/source rule."
+          },
+          "turks-and-caicos": {
+            "sites_total": 10,
+            "sites_validated_today": 9,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 7,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "G-Spot coordinates corrected ~40km (were at Northwest Point, actually west of French Cay); The Hole in the Wall coordinates corrected ~70km (were near South/East Caicos, actually Northwest Point Marine Park); fabricated 'Chief Minister Wreck' (no such wreck exists in any TCI source) renamed to the real Chief Ministers wall/reef site, reclassified wreck\u2192wall; Southwind Wreck history removed as unconfirmable against the authoritative visittci.com shipwreck catalogue, validated=false."
+          },
+          "uae": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data file; its only child uae-fujairah was processed directly, covering both"
+          },
+          "uae-fujairah": {
+            "sites_total": 8,
+            "sites_before_qa": 10,
+            "sites_validated_today": 8,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "Al Munassir Wreck removed entirely \u2014 real vessel sank ~230km away off Muscat, Oman, per Wikipedia, but had fabricated in-bounds Fujairah coordinates; Dibba Island removed as a near-duplicate of Dibba Rock (multiple sources confirm same rock, two names) per CLAUDE.md no-near-duplicates rule; destination still meets 8-site minimum. Inchcape 1 and Inchcape 2 depth conflicts (30m vs 32m; 17-24m) documented rather than guessed."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
     {
       "date": "2026-07-03",
       "slugs": [
@@ -215,7 +295,7 @@
             "marine_life_stripped": 7,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 4,
-            "notes": "Grid Iron's fabricated 'Living Oceans Foundation' paragraph and invented coral colonies removed; Monkey Shoals/Booby Shoals species cross-contamination fixed; MV River Taw Wreck sinking year/cause/depth conflicts documented; Nag's Head Intermediate→Advanced and Coconut Tree Reef Beginner→Intermediate on confirmed conditions; Brassball Wreck/Coral Garden/Grid Iron/Devil's Caves unresolved (<3 sources)"
+            "notes": "Grid Iron's fabricated 'Living Oceans Foundation' paragraph and invented coral colonies removed; Monkey Shoals/Booby Shoals species cross-contamination fixed; MV River Taw Wreck sinking year/cause/depth conflicts documented; Nag's Head Intermediate\u2192Advanced and Coconut Tree Reef Beginner\u2192Intermediate on confirmed conditions; Brassball Wreck/Coral Garden/Grid Iron/Devil's Caves unresolved (<3 sources)"
           },
           "st-lucia": {
             "sites_total": 15,
@@ -235,7 +315,7 @@
             "marine_life_stripped": 4,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 0,
-            "notes": "Bottle Reef and Bat Cave marine-life lists corrected (species belonged to different nearby sites); New Guinea Reef depth 14m→9-46m + Beginner→Advanced + entry boat→shore; Mayreau Gardens depth widened to sourced 17-24m range, disambiguated from nearby Puruni Wreck; no wreck sites in this destination"
+            "notes": "Bottle Reef and Bat Cave marine-life lists corrected (species belonged to different nearby sites); New Guinea Reef depth 14m\u21929-46m + Beginner\u2192Advanced + entry boat\u2192shore; Mayreau Gardens depth widened to sourced 17-24m range, disambiguated from nearby Puruni Wreck; no wreck sites in this destination"
           },
           "sudan": {
             "sites_total": 0,
@@ -249,7 +329,7 @@
             "marine_life_stripped": 11,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 4,
-            "notes": "SS Umbria fabricated '360,000 bombs' cargo corrected to sourced 6,000t bombs + other cargo, sinking date conflict documented; Blue Belt nationality/tonnage corrected; Levanzo Wreck length 113m→103.5m; Gota Mesharifa site character fully corrected (was invented as wall/shark site, actually a manta-cleaning lagoon); Advanced-minimum difficulty enforced destination-wide (10 sites bumped); Pfeiffer Reef/Sweet Potato/Dibsel Island/Isar Island unresolved"
+            "notes": "SS Umbria fabricated '360,000 bombs' cargo corrected to sourced 6,000t bombs + other cargo, sinking date conflict documented; Blue Belt nationality/tonnage corrected; Levanzo Wreck length 113m\u2192103.5m; Gota Mesharifa site character fully corrected (was invented as wall/shark site, actually a manta-cleaning lagoon); Advanced-minimum difficulty enforced destination-wide (10 sites bumped); Pfeiffer Reef/Sweet Potato/Dibsel Island/Isar Island unresolved"
           }
         }
       },
@@ -1817,7 +1897,7 @@
         "thailand-similan-islands",
         "tobago"
       ],
-      "notes": "thailand is isGroup=true parent slug with no own data file; its data lives in thailand-similan-islands, which was processed directly. tanzania is isGroup=true but had its own 40-site data file (not just group metadata) — processed directly and found to contain 12 sites that are not Tanzania dive sites at all (see by_destination.tanzania notes).",
+      "notes": "thailand is isGroup=true parent slug with no own data file; its data lives in thailand-similan-islands, which was processed directly. tanzania is isGroup=true but had its own 40-site data file (not just group metadata) \u2014 processed directly and found to contain 12 sites that are not Tanzania dive sites at all (see by_destination.tanzania notes).",
       "summary": {
         "sites_total": 90,
         "sites_validated_today": 46,
@@ -1835,7 +1915,7 @@
             "marine_life_stripped": 5,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 6,
-            "notes": "Satonda Reef/Tanduk Rusa/Bonto Reef/Tikno Reef upgraded to validated=true with corrected depths (Tikno 18->31m, Hot Rocks 20->30m, Lighthouse Reef 25->29m) and difficulty bumps where depth exceeded band thresholds. Blue-ringed octopus/rhinopias claims at Bonto Reef traced to no real source and removed. Data-integrity flag: Tanduk Rusa and Rollercoaster (~7km apart) may be the same Gili Banta promontory under different folk names ('Tanduk Rusa'/'Roller Coaster'/'Tanjung Rasa'/'Highway to Heaven') — recommend a GPS/depth reconciliation pass. Unresolved: Little Angel, Sumbawa Wall, Sumbawa Surprise, Tanjung Batu Putih, Rollercoaster, K2 (all short of the 3-source bar; several prior source citations were found to be misattributed on direct fetch)."
+            "notes": "Satonda Reef/Tanduk Rusa/Bonto Reef/Tikno Reef upgraded to validated=true with corrected depths (Tikno 18->31m, Hot Rocks 20->30m, Lighthouse Reef 25->29m) and difficulty bumps where depth exceeded band thresholds. Blue-ringed octopus/rhinopias claims at Bonto Reef traced to no real source and removed. Data-integrity flag: Tanduk Rusa and Rollercoaster (~7km apart) may be the same Gili Banta promontory under different folk names ('Tanduk Rusa'/'Roller Coaster'/'Tanjung Rasa'/'Highway to Heaven') \u2014 recommend a GPS/depth reconciliation pass. Unresolved: Little Angel, Sumbawa Wall, Sumbawa Surprise, Tanjung Batu Putih, Rollercoaster, K2 (all short of the 3-source bar; several prior source citations were found to be misattributed on direct fetch)."
           },
           "svalbard": {
             "sites_total": 9,
@@ -1857,7 +1937,7 @@
             "marine_life_stripped": 20,
             "wreck_conflicts_flagged": 0,
             "sites_unresolved": 22,
-            "notes": "MAJOR DATA-INTEGRITY FINDING: 12 of 40 sites in this destination's file are not Tanzania dive sites at all and were removed from data/osm_clean/tanzania.json and divesites/tanzania/. Baixo Techantia/Magive Cobua/Nameguo/Varuni/Tambula (5 sites) are reefs in Cabo Delgado Province, Mozambique per Wikidata/GNS gazetteer coordinates, ~100km south of the Ruvuma River border. Playground Point/Kampagne Point/Kampagne South (3 sites) are on Lake Malawi in Malawi — confirmed via the raw OSM changeset's own German comment 'Tauchplatze Malawisee Nkhatabay' and Nominatim reverse-geocoding; a freshwater lake ~600km from Tanzania's coast, not even the ocean. Tawasal (1 wreck) is on Manda Island, Lamu County, Kenya per the OSM source object's own description. Captain Muddy/THGI Nungwi/Swahil Divers (3 sites) are dive-operator/tour-business names mistakenly scraped as dive sites, violating CLAUDE.md's no-commercial-business rule. Of the 28 real sites kept: Little Wall/Big Wall corrected from a hallucinated 'Pemba Island' narrative to their actual location (Mnemba Island); Barracuda Point relocated from northern Zanzibar/Nungwi to its real location off southeast Zanzibar (Paje/Jambiani); Stingray city corrected from the impossible 'southern stingray' (an Atlantic species) to the correct Blue Spotted Stingray; Moore Bank/Bedford Bank corrected from a Dar es Salaam framing to their actual Zanzibar Channel/Menai Bay location. The prior blanket 'perplexity' validation source (not a real citable domain) was removed destination-wide."
+            "notes": "MAJOR DATA-INTEGRITY FINDING: 12 of 40 sites in this destination's file are not Tanzania dive sites at all and were removed from data/osm_clean/tanzania.json and divesites/tanzania/. Baixo Techantia/Magive Cobua/Nameguo/Varuni/Tambula (5 sites) are reefs in Cabo Delgado Province, Mozambique per Wikidata/GNS gazetteer coordinates, ~100km south of the Ruvuma River border. Playground Point/Kampagne Point/Kampagne South (3 sites) are on Lake Malawi in Malawi \u2014 confirmed via the raw OSM changeset's own German comment 'Tauchplatze Malawisee Nkhatabay' and Nominatim reverse-geocoding; a freshwater lake ~600km from Tanzania's coast, not even the ocean. Tawasal (1 wreck) is on Manda Island, Lamu County, Kenya per the OSM source object's own description. Captain Muddy/THGI Nungwi/Swahil Divers (3 sites) are dive-operator/tour-business names mistakenly scraped as dive sites, violating CLAUDE.md's no-commercial-business rule. Of the 28 real sites kept: Little Wall/Big Wall corrected from a hallucinated 'Pemba Island' narrative to their actual location (Mnemba Island); Barracuda Point relocated from northern Zanzibar/Nungwi to its real location off southeast Zanzibar (Paje/Jambiani); Stingray city corrected from the impossible 'southern stingray' (an Atlantic species) to the correct Blue Spotted Stingray; Moore Bank/Bedford Bank corrected from a Dar es Salaam framing to their actual Zanzibar Channel/Menai Bay location. The prior blanket 'perplexity' validation source (not a real citable domain) was removed destination-wide."
           },
           "thailand": {
             "sites_total": 0,
@@ -1881,7 +1961,7 @@
             "marine_life_stripped": 10,
             "wreck_conflicts_flagged": 1,
             "sites_unresolved": 0,
-            "notes": "London Bridge's fabricated resident species (nurse sharks, Caribbean reef sharks, eagle rays, sea turtles, parrotfish, angelfish, snapper) removed — the site's own cited source (ERIC Tobago) confirms only lobsters, moray eels, and jack schools. Flying Reef's fabricated 'Columbus Passage near Little Tobago' location removed and replaced with the sourced Crown Point/south-coast description. Fixed a sourcing-integrity defect: Angel Reef/Bookends/Diver's Dream all cited eric-tobago.org, which doesn't actually mention any of the three on direct fetch — replaced with genuine domains. Maverick Wreck's 3-way length conflict (185ft/198ft9in/350ft) documented rather than guessed; scuttling cause (deliberate April 1997 ATDO/TIDCO artificial reef) confirmed by 2 sources. Flagged for maintainer follow-up: Flying Reef and Diver's Dream have stored coordinates in the Speyside cluster, but every current source places both on the south coast near Crown Point — a likely geocoding error, not corrected without a sourced replacement coordinate."
+            "notes": "London Bridge's fabricated resident species (nurse sharks, Caribbean reef sharks, eagle rays, sea turtles, parrotfish, angelfish, snapper) removed \u2014 the site's own cited source (ERIC Tobago) confirms only lobsters, moray eels, and jack schools. Flying Reef's fabricated 'Columbus Passage near Little Tobago' location removed and replaced with the sourced Crown Point/south-coast description. Fixed a sourcing-integrity defect: Angel Reef/Bookends/Diver's Dream all cited eric-tobago.org, which doesn't actually mention any of the three on direct fetch \u2014 replaced with genuine domains. Maverick Wreck's 3-way length conflict (185ft/198ft9in/350ft) documented rather than guessed; scuttling cause (deliberate April 1997 ATDO/TIDCO artificial reef) confirmed by 2 sources. Flagged for maintainer follow-up: Flying Reef and Diver's Dream have stored coordinates in the Speyside cluster, but every current source places both on the south coast near Crown Point \u2014 a likely geocoding error, not corrected without a sourced replacement coordinate."
           }
         }
       },

@@ -3,7 +3,7 @@ name: Inchcape 2
 lat: 25.575
 lng: 56.3
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,9 @@ Inchcape 2 is a historic wreck dive in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Inchcape 2 is the larger of the two Inchcape wrecks, a former crew-and-supply vessel that was donated by Inchcape Shipping Services and sunk in April 2002 opposite Martini Wall at a depth of 17 to 24 metres. Cyclone Gonu in 2007 stripped the wheelhouse clean away, earning the hull its nickname "the big metal canoe," but this has only made the wreck more photogenic — bright yellow, pink, and purple corals coat every surface, and nudibranchs are found in such variety that at least 20 new species have been recorded here. The wreck is large enough for 20 metres of safe penetration dives and is constantly changing, with every visit revealing different shoals of fusiliers, chromis, pufferfish, and scorpionfish.
+Inchcape 2 was, like her sister wreck, built in the USA by Halter Marine and shipped to Dubai (around 1974) for crew-and-supply duty in the region before Inchcape Shipping Services donated her for a second artificial-reef project — the first, Inchcape 1, having proven a success. She was sunk in April 2002 opposite Martini Rock, in shallower water than Inchcape 1 to make her accessible to more divers. Sources put her depth at roughly 17 to 24 metres, with some giving a narrower range around 20-22 metres depending on the section of hull. Cyclone Gonu in 2007 tore away the wheelhouse — locally the wreck is sometimes nicknamed "Car Cemetery 2," distinct from the separate vehicle-dump site called The Car Cemetery. Bright yellow, pink, and purple corals now cover the hull, and the site is known for a striking variety of nudibranchs, with one dive operator reporting at least 20 species recorded here. Divers report shoaling fusiliers, chromis, pufferfish, boxfish, scorpionfish, moray eels, crabs, and rays around the wreck.
+
+Exact original ship name, tonnage, and length figures were not found in available sources and are omitted rather than guessed.
 
 ## Site Information
 
@@ -25,7 +27,11 @@ Inchcape 2 is the larger of the two Inchcape wrecks, a former crew-and-supply ve
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 24 meters
+
+## Dive Notes
+
+The wreck permits swim-throughs from end to end for divers with appropriate training, but some internal fittings have loosened with age, so care is required — this is not a "safe" penetration and proper wreck-diving training and equipment are recommended.
 
 ---
-*Sources: [Al Boom Diving - Fujairah](https://www.alboomdiving.com/en/fujairah-diving-trip), [PADI - Top Dive Sites in Fujairah](https://www.padi.com/dive-sites/fujairah/), [Freestyle Divers - Fujairah Dive Sites](http://freestyledivers.me/uae-dive-sites/fujairah-dive-sites/), [Chloe Blue Scuba - Beginner Guide to Fujairah](https://www.chloebluescubadiving.com/post/a-beginner-s-guide-to-scuba-diving-in-fujairah), [Divers Down UAE - Pleasure Diving Fujairah](https://www.diversdownuae.com/pleasure-diving-fujeirah/). Last updated 2026-04-04.*
+*Sources: [Nemo Diving Center - Exploring Inchcape wrecks in Fujairah](https://nemodivingcenter.com/blog/exploring-inchcape-wrecks-in-fujairah/), [Khaleej Times - Why UAE deliberately sank 3 ships](https://www.khaleejtimes.com/uae/environment/sunken-uae-vessels-marine-ecosystems-dive-artificial-reef), [Coral Creek Diving - Inchcape 1](https://coralcreekdiving.com/diving-fujairah/inchcape-1/), [Sandy Beach Dive Centre - Fujairah Dive Sites](https://divesandybeach.com/fujairah-dive-sites/). Last updated 2026-07-07.*
