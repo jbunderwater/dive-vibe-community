@@ -1,7 +1,7 @@
 ---
 name: G-Spot
-lat: 21.8583
-lng: -72.3167
+lat: 21.4917
+lng: -72.2214
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## G-Spot
 
-G-Spot is a wall dive site in Turks and Caicos, Caribbean.
+G-Spot is a wall dive west of French Cay, named for a bend in the wall that traces the shape of the letter "G".
 
 ## Overview
 
-G-Spot is an exceptional wall dive off French Cay where a bend in the wall creates eddies that concentrate nutrients, feeding a cascade of enormous deep-water gorgonians, massive elephant ear sponges, barrel sponges, and a striking field of black coral that drapes down the face. Caribbean reef sharks are a constant presence, and spotted eagle rays, nurse sharks, golden tail moray eels, and juvenile queen triggerfish are among the regulars encountered along the coral-smothered wall. The site is a 45-minute boat ride from Provo in good weather, and is a flagship dive on liveaboard itineraries in the Turks and Caicos.
+G-Spot is the easternmost of three mooring buoys west of French Cay, roughly a 45-minute boat ride from Provo in good weather. The mooring sits in about 50ft (15m) of water but the wall drops fast, and if current or wind pushes the boat off the mooring the wall can exceed 100ft (30m) close by. The wall is smothered in huge deep-water gorgonians, massive elephant ear sponges, and vast barrel sponges.
+
+**Correction (2026-07-07):** This site's coordinates were previously recorded at Northwest Point (21.8583, -72.3167), roughly 40km from its actual location. Three independent dive-site directories (Zentacle, Wannadive, The Scuba Directory) place G-Spot west of French Cay; coordinates have been corrected to 21.4917, -72.2214.
 
 ## Site Information
 
@@ -29,7 +31,7 @@ G-Spot is an exceptional wall dive off French Cay where a bend in the wall creat
 
 ## Marine Life
 
-Caribbean reef sharks are a constant presence along the wall edge, alongside spotted eagle rays, nurse sharks, and golden tail moray eels among the enormous deep-water gorgonians and massive elephant ear and barrel sponges. The nutrient-concentrating eddies created by the wall's bend support exceptional coral density, with juvenile queen triggerfish and a wide variety of reef fish in the shallower sections above the black coral field.
+Reef sharks patrol the wall, and nurse sharks are commonly reported resting on coral beds around 50ft. Barracuda, yellowtail snappers, and turtles are also reported here. Re-audit note: golden tail moray eels and juvenile queen triggerfish from the prior description could not be confirmed against sources for this update and have been removed.
 
 ---
-*Sources: [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [PADI - Diving in Turks and Caicos](https://www.padi.com/diving-in/turks-and-caicos-islands/), [Big Blue Collective - Scuba Diving Guide](https://bigbluecollective.com/blog/the-ultimate-guide-to-scuba-diving-in-turks-caicos/), [Bluewater Dive Travel - Turks and Caicos](https://www.bluewaterdivetravel.com/destination/turks-and-caicos-diving). Last updated 2026-04-04.*
+*Sources: [Zentacle - G-Spot](https://www.zentacle.com/Beach/11305/g-spot), [Wannadive - G-spot](https://www.wannadive.net/spot/Central_America/Turks___Caicos/French_Cay/G-spot/index.html), [The Scuba Directory - G Spot](https://thescubadirectory.com/divesiteprofile/G-Spot--French-Cay-Turks-and-Caicos-Islands-Dive-Site). Last updated 2026-07-07.*

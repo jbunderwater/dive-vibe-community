@@ -1,7 +1,7 @@
 ---
 name: The Hole in the Wall
-lat: 21.7167
-lng: -71.6167
+lat: 21.8583
+lng: -72.32
 difficulty: Intermediate
 maxDepth: 27
 entryType: boat
@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## The Hole in the Wall
 
-The Hole in the Wall is a cave dive site in Turks and Caicos, Caribbean.
+The Hole in the Wall is a narrow vertical crack at Northwest Point that drops divers from the reef straight onto the face of the wall.
 
 ## Overview
 
-The Hole in the Wall at Northwest Point is a narrow vertical crack in the reef that drops from 17 metres and exits onto the face of the wall at around 27 metres — a one-at-a-time squeeze that delivers divers from the shallow reef directly to the edge of the abyss. Inside the crack, brittle corals, lobsters, and schools of small reef fish line the walls, and the sensation of sliding from the reef into open wall at depth is described by divers as unlike anything else in the Turks and Caicos. The surrounding Northwest Point wall supports tube sponges, elephant ear sponges, massive barrel sponges, reef sharks, eagle rays, and turtles, making the site a full dive even outside the main feature.
+The Hole in the Wall at Northwest Point Marine Park is a crack that divers can penetrate one at a time, entering at about 55ft (17m) and emerging on the open wall face around 90-95ft (27-29m). Space inside is limited to one diver at a time, but the passage delivers divers from the shallow reef directly to the edge of the wall.
+
+**Correction (2026-07-07):** This site's coordinates were previously recorded roughly 70km east near South/East Caicos, contradicting every source consulted, all of which place the Hole in the Wall within Northwest Point Marine Park, Providenciales. Coordinates have been corrected to sit within the Northwest Point cluster.
 
 ## Site Information
 
@@ -29,7 +31,7 @@ The Hole in the Wall at Northwest Point is a narrow vertical crack in the reef t
 
 ## Marine Life
 
-Lobsters and small reef fish line the walls of the vertical crack, with brittle corals providing structure in the low-light passage. On the open wall outside the feature, tube sponges, elephant ear sponges, and massive barrel sponges host Caribbean reef sharks, eagle rays, and hawksbill turtles in the high-visibility Northwest Point waters.
+Inside the crack, sources describe brittle corals, lobsters, and schools of small reef fish lining the walls, along with extensive sheet coral formations. Re-audit note: the claim that the surrounding open wall hosts Caribbean reef sharks, eagle rays, and hawksbill turtles reflects general Northwest Point characteristics rather than confirmed sightings at this specific crack, and has been softened accordingly.
 
 ---
-*Sources: [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [PADI - Diving in Turks and Caicos](https://www.padi.com/diving-in/turks-and-caicos-islands/), [Big Blue Collective - Scuba Diving Guide](https://bigbluecollective.com/blog/the-ultimate-guide-to-scuba-diving-in-turks-caicos/), [Bluewater Dive Travel - Turks and Caicos](https://www.bluewaterdivetravel.com/destination/turks-and-caicos-diving). Last updated 2026-04-04.*
+*Sources: [Xtreme Spots - Hole in the Wall](https://www.xtremespots.com/water-sports/scuba-diving/hole-in-the-wall-providenciales-turks-and-caicos-islands/), [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving). Last updated 2026-07-07.*

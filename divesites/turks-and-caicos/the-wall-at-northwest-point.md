@@ -29,7 +29,7 @@ The Wall at Northwest Point anchors the Northwest Point Marine National Park, wh
 
 ## Marine Life
 
-Caribbean reef sharks are a near-constant presence along the wall, and horse-eye jacks — the signature fish of Northwest Point — typically circle divers during the safety stop beneath the boat. The magnificent formations of gold and purple tube sponges, elephant ear sponges, and towering barrel sponges host lobsters and moray eels, while sea turtles and eagle rays are regular throughout the drift.
+Horse-eye jacks are described by multiple dive operators as the signature fish of Northwest Point and are reported circling divers here during the safety stop. Caribbean reef sharks are regularly reported along this stretch of wall. Sources confirm the gold and purple tube sponge formations as a defining feature of the site; sea turtles and eagle rays are commonly reported in the area but are not documented as guaranteed sightings at this specific mooring.
 
 ---
-*Sources: [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [PADI - Diving in Turks and Caicos](https://www.padi.com/diving-in/turks-and-caicos-islands/), [Big Blue Collective - Scuba Diving Guide](https://bigbluecollective.com/blog/the-ultimate-guide-to-scuba-diving-in-turks-caicos/), [Bluewater Dive Travel - Turks and Caicos](https://www.bluewaterdivetravel.com/destination/turks-and-caicos-diving). Last updated 2026-04-04.*
+*Sources: [Aqua TCI - Dive Sites](https://www.aquatci.com/dive-sites/), [Times of the Islands - Wild, Wild Northwest](https://www.timespub.tc/2011/03/wild-wild-northwest/), [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving). Last updated 2026-07-07.*
