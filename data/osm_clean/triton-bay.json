@@ -11,13 +11,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com",
-      "character": "boulder-reef with soft corals, strong currents, macro and wide-angle photography",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated against 5 independent domain sources cited in markdown files. Site-specific details cross-referenced with tritonbaydivers.com operator listings."
+      "validation_source": "diveplanit.com,xray-mag.com,dive-the-world.com",
+      "character": "boulder reef at the southern tip of Saruenus/Seruenus Island, soft coral coverage, anthias/damselfish/fusilier schools, strong currents, macro and wide-angle photography, drifts toward the nearby Aquarium site",
+      "last_qa_date": "2026-07-07",
+      "notes": "QA 2026-07-07 re-audit: previous validation_source (tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com) was identical across all 10 Triton Bay sites and could not be confirmed as site-specific -- tritonbaydivers.com, zubludiving.com and scubadiving.com returned 403/could not be verified to name this site. Replaced with 3 independently confirmed sources that specifically name and describe Little Komodo. Removed unconfirmed marine life (epaulette shark, reef sharks patrolling edges, mantis shrimp, flasher wrasse, bumphead parrotfish schools of 20+) that no source ties to this specific site."
     },
     "validated": true,
-    "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com"
+    "validation_source": "diveplanit.com,xray-mag.com,dive-the-world.com"
   },
   {
     "name": "Batu Rufas",
@@ -30,14 +30,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com",
-      "character": "Indonesian rock formation (batu=rock), soft coral reef",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated against 5 independent domain sources cited in markdown files. Site-specific details cross-referenced with tritonbaydivers.com operator listings."
+      "validated": "false",
+      "validation_source": "",
+      "character": "Indonesian rock formation (batu=rock); regional character only, not independently confirmed at the site level",
+      "last_qa_date": "2026-07-07",
+      "notes": "QA 2026-07-07 re-audit: could NOT find 3 independent sources naming this specific site in Triton Bay. Only one low-authority aggregator mention of a 'Batu Rufus' in Triton Bay was found, describing hard coral fields with chromis schools -- this CONTRADICTS the prior 'soft coral reef' characterization and could not be corroborated by a second source. A distinct, better-documented 'Batu Rufas' dive site exists near Piaynemo in Raja Ampat (different region) and must not be confused with this entry. Downgraded from validated=true (previous validation used the same 5 generic, non-site-specific domains copy-pasted across all 10 sites). Left unresolved -- do not pad with weak sources."
     },
-    "validated": true,
-    "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com"
+    "validated": false,
+    "validation_source": ""
   },
   {
     "name": "Flasher Beach",
@@ -51,13 +51,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com",
-      "character": "hard coral shallows transitioning to rubble, famous for Flasher Wrasse displays",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated against 5 independent domain sources cited in markdown files. Site-specific details cross-referenced with tritonbaydivers.com operator listings."
+      "validation_source": "xray-mag.com,diveplanit.com,merapitours.com,reefbuilders.com",
+      "character": "isolated island site outside Triton Bay proper, northwest of Aiduma; rubble/hard coral habitat; type locality area for Paracheilinus nursalim flasher wrasse displaying at DUSK (not dawn)",
+      "last_qa_date": "2026-07-07",
+      "notes": "QA 2026-07-07 re-audit: corrected display timing -- multiple independent sources (reefbuilders.com, birdsheadseascape.com) confirm flasher wrasse display 1-2 hours before sunset/dusk, not morning as previously written. Confirmed P. nursalim is a real, formally described species (Allen & Erdmann 2008) recorded from Triton Bay and Misool only. Removed unconfirmed site-specific species (epaulette shark, Coleman shrimp on fire urchins, banded pipefish, robust ghost pipefish, porcelain crabs, pygmy seahorses on coral heads) -- no source ties these to Flasher Beach specifically."
     },
     "validated": true,
-    "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com"
+    "validation_source": "xray-mag.com,diveplanit.com,merapitours.com,reefbuilders.com"
   },
   {
     "name": "Whale Shark Bagan",
@@ -71,14 +71,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com",
-      "character": "open blue water bagan fishing platform in Kaimana Bay, whale shark encounters including adults and juveniles",
-      "seasonal": "October to April, best at new moon",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated against 5 independent domain sources cited in markdown files. Site-specific details cross-referenced with tritonbaydivers.com operator listings."
+      "validation_source": "divehappy.com,sharkrayareas.org,zubludiving.com,dan.org",
+      "character": "open blue water bagan fishing platform in Kaimana Bay; whale sharks are predominantly juvenile/sub-adult (avg. ~4.6m +/- 2m per Kaimana ISRA survey), not routinely full-grown adults",
+      "seasonal": "October to April, best at new moon / dark-moon periods; encounters most reliable 6:30-9:00am per operator reports",
+      "last_qa_date": "2026-07-07",
+      "notes": "QA 2026-07-07 re-audit: corrected 'adults and juveniles ... stands apart from other bagan sites' claim -- the Kaimana Important Shark and Ray Area (ISRA) scientific survey (sharkrayareas.org) documents the local population as majority juvenile/sub-adult, average total length ~4.6m. This does not support a claim of routine full-size adult encounters. Confirmed whale sharks are seen AT the bagan platforms specifically, not incidentally at other Triton Bay reef/wall sites."
     },
     "validated": true,
-    "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com"
+    "validation_source": "divehappy.com,sharkrayareas.org,zubludiving.com,dan.org"
   },
   {
     "name": "Namatota Channel",
@@ -92,14 +92,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com",
-      "character": "Namatota Island mouth, wall dive, whale shark encounters, nutrients, strong currents",
+      "validation_source": "xray-mag.com,divehappy.com,dan.org",
+      "character": "wall dive at Namatota Island (regional operators call it 'Namatota Wall'), rare shrimps/crabs/nudibranchs/gobies; whale sharks are seen at nearby bagan platforms, not routinely inside the wall/channel itself",
       "note": "One of Triton Bay's best sites alongside Aquarium, Little Komodo, Bo's Rainbow",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated against 5 independent domain sources cited in markdown files. Site-specific details cross-referenced with tritonbaydivers.com operator listings."
+      "last_qa_date": "2026-07-07",
+      "notes": "QA 2026-07-07 re-audit: corrected claim that whale sharks 'sometimes appear in the channel itself' -- divehappy.com's on-the-ground operator interview describes Namatota Wall as a diving 'consolation' when whale sharks (seen at nearby bagans) don't show, i.e. the wall and the bagan encounters are distinct experiences. Added confirmed rare macro life (shrimps, crabs, nudibranchs, gobies) from xray-mag.com."
     },
     "validated": true,
-    "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com"
+    "validation_source": "xray-mag.com,divehappy.com,dan.org"
   },
   {
     "name": "Saruenus Island",
@@ -113,13 +113,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com",
-      "character": "Pulau Aras: 4 major sites with variable conditions, soft coral gardens, pygmy seahorses, nudibranchs, macro habitat",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated against 5 independent domain sources cited in markdown files. Site-specific details cross-referenced with tritonbaydivers.com operator listings."
+      "validation_source": "merapitours.com,diveplanit.com,divehappy.com",
+      "character": "also called Pintu Arus ('current gate'); multi-site island with at least 4 distinct dives including Little Komodo at its southern tip; soft coral gardens, pygmy seahorses, nudibranchs",
+      "last_qa_date": "2026-07-07",
+      "notes": "QA 2026-07-07 re-audit: confirmed via 3 independent sources that Little Komodo is one of the named dives within the Saruenus/Seruenus Island group (not an unrelated site) -- their close coordinates in this dataset are consistent with that, not a duplicate. Corrected 'Pulau Aras' name to the more commonly cited 'Pintu Arus'; could not independently confirm 'Pulau Aras' as used by any source."
     },
     "validated": true,
-    "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com"
+    "validation_source": "merapitours.com,diveplanit.com,divehappy.com"
   },
   {
     "name": "Iris Wall",
@@ -132,14 +132,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com",
-      "character": "Iris Strait wall dive, nutrient-rich currents, dense fish life, deep wall drop",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated against 5 independent domain sources cited in markdown files. Site-specific details cross-referenced with tritonbaydivers.com operator listings."
+      "validated": "false",
+      "validation_source": "",
+      "character": "Iris Strait (the channel between Aiduma Island and the mainland) is confirmed as the area where most Triton Bay dive sites cluster, including wall dives; the specific name 'Iris Wall' is not used by any source found",
+      "last_qa_date": "2026-07-07",
+      "notes": "QA 2026-07-07 re-audit: 'Iris Strait' is real and well documented as the body of water where most Triton Bay dive sites are located, but no source (operator site, forum, or dive guide) uses 'Iris Wall' as a specific named dive site. Downgraded from validated=true -- prior validation reused the same 5 generic domains applied to all 10 sites. Left unresolved; site-specific depth/current/marine-life claims in the previous markdown could not be corroborated and were removed."
     },
-    "validated": true,
-    "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com"
+    "validated": false,
+    "validation_source": ""
   },
   {
     "name": "The Corals Garden",
@@ -152,14 +152,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com",
-      "character": "soft coral garden, black coral bushes, diverse species, shallow exploration",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated against 5 independent domain sources cited in markdown files. Site-specific details cross-referenced with tritonbaydivers.com operator listings."
+      "validated": "false",
+      "validation_source": "",
+      "character": "Triton Bay as a whole is well documented for soft coral gardens and black coral bushes; no source names a specific site called 'The Corals Garden'",
+      "last_qa_date": "2026-07-07",
+      "notes": "QA 2026-07-07 re-audit: multiple targeted searches found no operator, forum, or guide reference to a distinctly named 'The Corals Garden' site in Triton Bay -- only generic destination-level descriptions of soft coral gardens being common throughout the bay. Downgraded from validated=true. Left unresolved; site-specific claims (black coral bush depth range, named crustacean species) removed as unverifiable."
     },
-    "validated": true,
-    "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com"
+    "validated": false,
+    "validation_source": ""
   },
   {
     "name": "Sawandek Jetty",
@@ -172,14 +172,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com",
-      "character": "Mansuar jetty, shallow shore/boat entry, giant clam, turtles, white-tip sharks, coral restoration project",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated against 5 independent domain sources cited in markdown files. Site-specific details cross-referenced with tritonbaydivers.com operator listings."
+      "validated": "false",
+      "validation_source": "",
+      "character": "unverified -- likely name/data confusion with the well-documented 'Sauwandarek Jetty' near Mansuar Island in Raja Ampat, ~300km+ from Triton Bay",
+      "last_qa_date": "2026-07-07",
+      "notes": "QA 2026-07-07 re-audit: HIGH-CONFIDENCE DATA ERROR FOUND. The prior 'character' tag literally read 'Mansuar jetty' -- Mansuar is a Raja Ampat island, not part of Triton Bay/Kaimana. Every giant-clam/turtle/whitetip-shark/coral-restoration detail in the markdown matches the real, independently documented Sauwandarek Jetty in Raja Ampat (padi.com, birdsheadseascape.com, divernet.com), not a Triton Bay site. Coordinates (-3.962, 134.0713) do fall inside the Triton Bay bounding box, so a same-named local village jetty may exist, but no independent source confirms a Triton Bay dive site under this name with these characteristics. Downgraded from validated=true; content rewritten to remove all Raja-Ampat-sourced claims. Flagged for manual review -- may warrant removal or re-verification of coordinates/name with a Triton Bay operator directly."
     },
-    "validated": true,
-    "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com"
+    "validated": false,
+    "validation_source": ""
   },
   {
     "name": "Aiduma Island Wall",
@@ -192,13 +192,13 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com",
-      "character": "Aiduma Island resort location, drift and wall dives, bommies, black coral, critter hunting",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: Validated against 5 independent domain sources cited in markdown files. Site-specific details cross-referenced with tritonbaydivers.com operator listings."
+      "validated": "false",
+      "validation_source": "",
+      "character": "Aiduma Island (home to Triton Bay Divers resort) is confirmed to have nearby wall/reef diving, including the independently-documented 'Christmas Rock' site off its southern end; the specific name 'Aiduma Island Wall' is not used by any source found",
+      "last_qa_date": "2026-07-07",
+      "notes": "QA 2026-07-07 re-audit: confirmed Aiduma Island's general geography and that wall diving occurs nearby (Iris Strait runs between Aiduma and the mainland), and that a real, differently-named site ('Christmas Rock') exists off southern Aiduma. Could not confirm 'Aiduma Island Wall' as an operator-recognized site name. Downgraded from validated=true. Left unresolved; removed unverifiable specifics (wobbegong resting behavior, exact bommie depth ranges) that no source confirmed for this exact site."
     },
-    "validated": true,
-    "validation_source": "tritonbaydivers.com,zubludiving.com,scubadiving.com,dive-the-world.com,merapitours.com"
+    "validated": false,
+    "validation_source": ""
   }
 ]

@@ -2,7 +2,7 @@
 name: Büyük Resif
 lat: 37.0056664
 lng: 27.4129862
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 34
 entryType: boat
 siteType: wall
@@ -35,27 +35,27 @@ The reef is noted as a crossing point for Red Sea migrants — species that have
 
 ## Marine Life
 
-- **Resident fish**: Octopus, moray eels, dusky grouper, scorpionfish, sea bream, damselfish, wrasse
-- **Pelagics and transients**: Barracuda, jacks (Caranx spp.), occasional tuna
-- **Red Sea migrants**: Various Lessepsian species (specific species subject to seasonal variation)
-- **Invertebrates**: Spiny lobster, sea slugs (nudibranchs), sponges
+- **Resident fish**: Octopus, moray eels, groupers (including large individuals), scorpionfish, sea bream, dentex, stingrays, damselfish, wrasse
+- **Pelagics and transients**: Barracuda, jacks (Caranx spp.), tuna, bonito, leerfish
+- **Red Sea migrants**: Lionfish confirmed at this site by The Divers' Club (a Lessepsian species that has spread into the eastern Mediterranean via the Suez Canal)
+- **Invertebrates**: Spiny lobster, crabs, sea slugs (nudibranchs), sponges
 - **Photography note**: Wall face described as "particularly well suited for photography" by Happy Bubbles Dive Center
 
 ## Safety
 
-Strong currents are the primary hazard. Advanced buoyancy control and awareness of current direction are essential on the wall. Book with an established Bodrum dive operator who monitors conditions. The exposed location means surface conditions can deteriorate with wind.
+Strong currents are the primary hazard, and multiple dive-shop sources recommend this site for experienced/advanced divers specifically because of them. Advanced buoyancy control and awareness of current direction are essential on the wall. Book with an established Bodrum dive operator who monitors conditions. The exposed location means surface conditions can deteriorate with wind. Underwater scooters (DPVs) are commonly used to extend range to the neighboring Small Reef in the same dive.
 
 ## Site Information
 
 - **Location**: Bodrum, Muğla Province, Turkey (Aegean Sea)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 34 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-07-07 (re-audited; difficulty corrected, lionfish sighting added, sources re-verified with no other factual changes needed)
 
 ---
-*Sources: [Happy Bubbles Dive Center — Big Reef](https://happybubbles.com/en/ds-big-reef/), [The Divers' Club — Big Reef](https://www.thediversclub.com.tr/?dive-sites=big-reef&lang=en), [SSI MyDiveGuide — Big Reef Bodrum](https://www.divessi.com/en/mydiveguide/divesite/big-reef-bodrum-resif-buyuk-karaada-mavi-yildiz-great-turkey-67809). Last updated 2026-05-17.*
+*Sources: [Happy Bubbles Dive Center — Big Reef](https://happybubbles.com/en/ds-big-reef/), [The Divers' Club — Big Reef](https://www.thediversclub.com.tr/?dive-sites=big-reef&lang=en), [SSI MyDiveGuide — Big Reef Bodrum](https://www.divessi.com/en/mydiveguide/divesite/big-reef-bodrum-resif-buyuk-karaada-mavi-yildiz-great-turkey-67809), [Just Gotta Dive — Diving Turkey's Bodrum](https://www.justgottadive.com/dive_resources/travel_articles/diving-turkeys-bodrum-bubble-cave-pacoz-bay). Last updated 2026-07-07.*

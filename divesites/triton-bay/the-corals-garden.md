@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Corals Garden
 
-The Corals Garden is one of Triton Bay's most beautiful and biologically rich shallow reef sites — a sprawling underwater garden of soft corals and black coral bushes, growing in such extraordinary density and variety that it is consistently described as one of the finest coral gardens in all of West Papua.
+"The Corals Garden" is this database's name for a shallow reef site in Triton Bay; no operator, forum, or guide source found during this review uses this exact name for a specific dive site, so the description below reflects Triton Bay's general soft-coral-garden reputation rather than confirmed, site-specific detail.
 
 ## Overview
 
-The Corals Garden lives up to its name in the most literal sense: this is not a typical coral reef but something approaching an underwater botanical display, where every centimeter of available substrate has been colonized by a different organism competing for space, light, and the nutrient-rich current that flows through inner Triton Bay, West Papua, Indonesia. Soft corals in every tropical color — hot pink, deep purple, orange, ivory — grow in dense clusters alongside leather corals, sea fans, and black coral bushes (Antipatharia) that begin at surprisingly shallow depths. This combination of black coral and soft coral at 8 to 12 meters is unusual; black corals typically require deeper, dimmer conditions, but the plankton-rich water of Triton Bay provides enough nutrition for them to thrive in the shallows. The result is a reef that provides both the visual spectacle of a soft coral garden and the macro-critter habitat associated with deeper black coral habitats — all in a single, accessible, 12-meter dive.
+Triton Bay, West Papua, Indonesia, is well documented in general terms for extensive soft coral gardens and black coral bushes throughout the bay. This review, however, could not find any independent source naming a specific site "The Corals Garden" — it appears the name and detailed description in the previous version of this page were generated rather than sourced. The shallow depth (12 meters) recorded for this entry is plausible for a Triton Bay reef site, but no site-specific confirmation was found.
 
 ## Site Information
 
@@ -26,38 +26,35 @@ The Corals Garden lives up to its name in the most literal sense: this is not a 
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 8-18 meters
-- **Current**: Light to moderate; generally manageable
+- **Typical Visibility**: 8-18 meters (regional typical, not site-confirmed)
+- **Current**: Light to moderate (regional typical, not site-confirmed)
 - **Water Temperature**: 27-30°C (81-86°F)
-- **Best Time**: October to April
+- **Best Time**: October to April (Triton Bay's general dive season)
 
 ## Marine Life
 
-The soft coral canopy is the dominant feature, supporting a layered community of marine life. Crinoids (feather stars) in vivid yellows, reds, and blacks anchor to the coral branches, filtering the passing current. The black coral bushes at 8 to 12 meters harbor longnose hawkfish perched alertly on branch tips, and careful examination reveals flamingo shrimp, basket stars, and crinoid shrimp. Nudibranch diversity here is exceptional — this is consistently among the top nudibranch sites on Triton Bay itineraries, with Chromodoris, Phyllidia, and Flabellina genera all represented. Large barrel sponges appear at the reef margins, their cavities often sheltering cardinalfish and small grouper. The water column above the reef is alive with schooling anthias, which part briefly for the Napoleon wrasse that patrol the reef edge in the mornings.
+No site-specific marine-life source was found for this location. Triton Bay's regional fauna is well documented to include soft corals, black coral bushes, crinoids, nudibranchs, and reef fish typical of the Coral Triangle, and a shallow reef site at these coordinates would plausibly host some of this, but no source confirms specific species (longnose hawkfish, flamingo shrimp, particular nudibranch genera, Napoleon wrasse) at this exact location. Those specifics have been removed rather than presented as verified.
 
 ## Dive Profile
 
-This site is best approached slowly and deliberately. Descend to 10 to 12 meters and begin at the black coral zone, working systematically along the reef rather than swimming quickly across it. The coral density rewards close attention — subjects that appear as blank reef from a distance reveal themselves as extraordinary compositions on closer inspection. Spend the first 20 to 25 minutes in the deeper black coral and soft coral mix before ascending gradually through the softer, more colorful upper reef between 5 and 8 meters. The shallower zone often produces the most dramatic wide-angle opportunities as natural light increases. Extended bottom times of 60 minutes or more are easily achieved at this depth.
+Specific dive-profile details for this site could not be independently confirmed. As a shallow (12m) reef site, a slow, methodical approach working the coral structure would be standard practice, but detailed timing and route guidance previously given here was not sourced and has been removed.
 
 ## Entry and Exit
 
-Access by liveaboard tender or day-boat. Entry is by giant stride or back roll in generally calm conditions. Exit via the dive ladder. If light current is running, the boat may reposition slightly; coordinate with the crew before the dive.
+Access is presumed to be by liveaboard tender or day-boat, consistent with other Triton Bay reef sites, but specific entry/exit conditions were not independently confirmed for this location.
 
 ## Tips and Recommendations
 
-- Slow down even more than you think necessary — the best subjects at this site are found by divers moving at a deliberate crawl over the reef
-- Bring a small primary torch to illuminate the undersides of black coral branches and soft coral overhangs, where nudibranchs and crustaceans hide from direct light
-- This site is ideal for a second or third dive in a day after more demanding wall or channel dives — the shallow depth and calm conditions allow full air consumption without rushing
-- The combination of black coral and colorful soft coral in the same frame is unusual and highly photogenic — compositional opportunities here are rare globally
-- Visit at multiple times of day: morning light creates dappled illumination through the shallow canopy; afternoon produces richer, warmer colors
+- Ask your operator whether this site corresponds to a specific, named local dive site, since no independent source could confirm "The Corals Garden" as an operator-recognized name
+- Standard shallow-reef practice applies: work slowly, maintain buoyancy, and avoid contact with coral
 
 ## Safety Considerations
 
-The Corals Garden is one of Triton Bay's least demanding sites from a safety standpoint. The shallow maximum depth and typically calm conditions make it appropriate for intermediate divers with standard current experience. The principal risk is physical contact with the coral — the density of growth means that careless fin kicks or loss of buoyancy can damage the reef. Practice precise horizontal trim and avoid kneeling or standing on any substrate. Air supply is rarely an issue at 12 meters, but standard dive planning and safety stop protocols apply.
+As a shallow site, general risk should be lower than Triton Bay's deeper wall and channel dives, but this has not been independently confirmed for this exact location. Standard reef-diving precautions (buoyancy control, coral avoidance, safety stops) apply.
 
 ## Photography
 
-The Corals Garden is a photographer's showcase. For wide-angle work, the layered soft coral canopy with a diver silhouetted behind provides iconic Triton Bay imagery; shoot at f/8 to f/11 with twin strobes set to illuminate the foreground coral while allowing the background diver to render as a natural blue silhouette. For macro, the black coral branches at 10 to 12 meters require a 100mm lens and deliberate, controlled breathing to avoid surge-induced camera movement. The nudibranchs found throughout the reef make excellent medium-distance macro subjects on a 60mm. Crinoids and feather stars in backlight make beautiful abstract subjects at any focal length — experiment with tight crops showing the fractal detail of individual crinoid arms against a soft coral background.
+No site-specific photography guidance could be confirmed. General Triton Bay soft-coral reef photography practice (wide-angle for the coral canopy, macro for smaller subjects) would be a reasonable starting point.
 
 ---
-*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*
+*Description based on regional Triton Bay diving characteristics. No site-specific sources found for a dive site named "The Corals Garden." Last updated 2026-07-07.*

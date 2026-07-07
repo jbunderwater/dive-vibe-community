@@ -11,13 +11,14 @@
     "difficulty": "Beginner",
     "tags": {
       "artwork_type": "statue",
-      "description": "underwater shark sculpture at Pigeon Island with reef features and scattered wreck remains",
+      "description": "White marble shark sculpture (\"The Shark\", 2000) by sculptor Kemal Tufan at ~8m depth off Guvercin Ada (Pigeon Island), Kas. Site also has an old wooden wreck at ~22m and a sheet-metal artificial-reef wreck at ~28m, plus scattered ancient amphorae.",
       "is_in": "Turkey, Antalya, Kaş",
       "name": "Shark Sculpture",
       "sport": "scuba_diving",
       "tourism": "artwork",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "padi.com,nautilusdivingkas.com,turkeyhomes.com,kemaltufan.com",
+      "last_qa_date": "2026-07-07"
     }
   },
   {
@@ -26,7 +27,7 @@
     "lon": 27.4325639,
     "osm_id": 10973665012,
     "osm_type": "node",
-    "depth": 65,
+    "depth": 36,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -35,10 +36,11 @@
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
       "wreck_type": "aircraft",
-      "historic_period": "WWII",
+      "historic_period": "aircraft type dates to WWII; this airframe served with the Turkish Air Force before decommissioning and scuttling in 2008",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Savoia-Marchetti SM.79 Italian torpedo bomber wreck from WWII, bow at 58m, tail at 71m"
+      "validation_source": "aquapro-turkey.com,thediversclub.com.tr,sualtigazetesi.com,zentacle.com",
+      "last_qa_date": "2026-07-07",
+      "description": "Ex-Turkish Air Force Douglas C-47A Dakota (~19.6m long, ~29m wingspan, twin Pratt & Whitney R-1830 engines), deliberately scuttled by BOSAD as an artificial reef at Karaada/Pacoz Cove near Bodrum on 1 July 2008 (one source states 2007). A 2010 storm broke the fuselage apart; engine/cockpit sections now sit at 16-23m while the detached fuselage/tail rest at 28-36m. NOT the Savoia-Marchetti SM.79 previously listed here - that was an unverified/incorrect identification and has been corrected."
     }
   },
   {
@@ -50,14 +52,15 @@
     "depth": 34,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Büyük Resif",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Big Reef near Bodrum, features shallow anchor area at 7m descending to wall dropping to 34m, rich marine biodiversity"
+      "validation_source": "happybubbles.com,thediversclub.com.tr,divessi.com,justgottadive.com",
+      "last_qa_date": "2026-07-07",
+      "description": "Big Reef between Bodrum Peninsula and Karaada (Black Island), opposite St. Peter's Castle. Karaada-facing wall drops from ~7m to 34m; Gumbet-facing side descends in terraces. Strong currents; multiple dive-shop sources recommend advanced/experienced divers."
     }
   },
   {
@@ -66,7 +69,7 @@
     "lon": 27.4864435,
     "osm_id": 10973665014,
     "osm_type": "node",
-    "depth": 45,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -75,8 +78,9 @@
       "scuba_diving:type": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Aksona Bay near Bodrum, dramatic wall dive starting at 3m with steep drop-offs to 30-35m and deeper, challenging conditions with variable current"
+      "validation_source": "justgottadive.com,livejournal.com,thescubatank.com",
+      "last_qa_date": "2026-07-07",
+      "description": "Aksona Point/Bay, ~50 min by boat beyond Karaada near Bodrum, named for sponge hunter Aksona Mehmet. Dive starts at 3m, slopes through the 20s to a rock wall at 30-35m. Phoenician ship anchor at 13.5m on a flat rock plus scattered amphorae/pottery. Corrected depth from 45m (unsupported) to 35m per 3 independent sources."
     }
   }
 ]

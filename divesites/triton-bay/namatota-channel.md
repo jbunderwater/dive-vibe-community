@@ -13,51 +13,50 @@ addedBy: osm_import
 
 ## Namatota Channel
 
-Namatota Channel is one of Triton Bay's premier advanced dive sites — a nutrient-charged passage at the mouth of Namatota Island where powerful currents sweep plankton-rich water along steep walls, producing some of the densest aggregations of fish and soft coral found anywhere in West Papua.
+Namatota Channel — known to regional operators as Namatota Wall — is a wall dive at the mouth of Namatota Island, close to the bagan platforms where Triton Bay's whale sharks are seen, and known for rare macro life alongside its reef structure.
 
 ## Overview
 
-The channel at Namatota Island marks the transition between the sheltered inner bay and the more exposed outer waters of Triton Bay, West Papua, Indonesia. Tidal exchange forces large volumes of productive water through the passage, creating the conditions that allow this reef to compete with the best dive sites in the Coral Triangle. The walls on either side of the channel drop to 28 meters and beyond, festooned with large sea fans, black coral trees, and layer upon layer of encrusting soft corals in every color. The nutrient flow also attracts whale sharks, which sometimes appear in the channel itself — making this a rare site where both megafauna encounters and exceptional reef diving can occur on the same dive. Consistently listed alongside Aquarium, Little Komodo, and Bo's Rainbow as one of the top sites on any Triton Bay liveaboard itinerary.
+The wall at Namatota Island marks a transition zone near the mouth of Triton Bay, West Papua, Indonesia, and is generally referred to by regional dive operators as Namatota Wall. It sits near — but is distinct from — the bagan fishing platforms where Triton Bay's whale sharks are reliably encountered: at least one operator account describes diving Namatota Wall as a worthwhile "consolation" dive on days when the whale sharks at the nearby bagan don't show, rather than the whale sharks being a routine sighting on the wall dive itself. The wall is documented for rare shrimps, crabs, nudibranchs, and gobies in addition to its reef structure. Namatota Island and the surrounding waters are also historically significant: red-ochre rock art (handprints, fish, turtles, and human figures) on nearby limestone cliffs was first recorded by Dutch merchant Johannes Keyts in 1678 and has since been dated to the epipalaeolithic period.
 
 ## Site Information
 
-- **Location**: Triton Bay, West Papua, Indonesia
+- **Location**: Triton Bay, West Papua, Indonesia, at the mouth of Namatota Island
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-25 meters
-- **Current**: Strong to very strong during tidal exchange; timing is critical
+- **Typical Visibility**: 10-25 meters (typical for the area; not independently confirmed for this exact site)
+- **Current**: Can run strong, particularly during tidal exchange
 - **Water Temperature**: 27-30°C (81-86°F)
-- **Best Time**: October to April; slack water periods around tidal changes
+- **Best Time**: October to April
 
 ## Marine Life
 
-Namatota Channel is exceptional for both reef species and pelagic visitors. The walls support massive sea fans, wire corals, and forests of black coral beginning at around 15 meters. Schooling fish life is prolific: giant trevally, yellowtail fusiliers, surgeonfish, and snapper form dense aggregations in the current. Whitetip and blacktip reef sharks are regular residents, patrolling the channel edges. Whale sharks are sighted with meaningful frequency, drawn by the plankton concentrations that the tidal flow concentrates here. Dogtooth tuna and giant barracuda appear in the open water beyond the wall. The rocky substrate closer to the island holds nudibranchs, ornate ghost pipefish, and frogfish.
+Namatota Wall is documented for its population of rare shrimps, crabs, nudibranchs, and gobies. Whale sharks are a major regional draw but are seen at the nearby bagan fishing platforms, not routinely within the channel/wall dive itself — treat the two as separate experiences rather than assuming a combined encounter. Beyond the confirmed macro life, Triton Bay's general wall-diving character (sea fans, black coral, schooling reef fish) plausibly applies here, but specific claims about giant trevally schools, resident reef sharks, or dogtooth tuna at this exact site were not independently confirmed and have been removed rather than assumed.
 
 ## Dive Profile
 
-Timing your entry with the dive guide is critical at Namatota Channel — the ideal window is the last portion of an incoming or outgoing tide, when current is manageable and fish activity peaks. Descend quickly to the wall at 10 to 15 meters and use the reef as a buffer against the flow. Work down to 20 to 28 meters along the wall face, examining sea fans and black coral branches for associated critters. As the current eases through slack water, move into the channel itself for the strongest fish aggregations. Begin a slow ascent back along the reef, saving at least 50 bar for a thorough 5-meter safety stop — current at depth may have carried you well along the wall by this point.
+Timing your entry with the dive guide is important, since current can run strong during tidal exchange. Descend to the wall and work along the face, watching carefully in crevices and among sea fans and black coral for the site's documented rare shrimps, crabs, nudibranchs, and gobies. If visiting on a day when the bagan whale shark encounter does not materialize, Namatota Wall is commonly dived as a strong alternative rather than an add-on to the same outing.
 
 ## Entry and Exit
 
-Access is by liveaboard tender or day-boat. In strong current conditions the boat will position upstream and divers drop to depth immediately on entry. A drift exit may be required depending on tidal state — the boat crew will track divers' SMBs and collect them in open water. Always deploy your SMB before ascending from depth. This is not a site for independent diving; local guide knowledge of the tidal schedule is essential.
+Access is by liveaboard tender or day-boat. In stronger current, the boat will position upstream and divers descend promptly on entry; a drift exit may be required. Always deploy an SMB before ascending. This is not a site for independent diving — local guide knowledge of the tidal schedule matters.
 
 ## Tips and Recommendations
 
-- Let the dive guide choose the entry time based on the tidal schedule — this makes the difference between an exceptional dive and a survival exercise
-- Carry a reef hook if permitted by your operator; it allows effortless station-keeping in the current while watching the action
-- Watch the blue water above and beside the wall for whale shark silhouettes, particularly in the late morning
-- The deeper sections of the wall (20-28m) harbor the largest sea fans and the most impressive black coral — allocate bottom time accordingly
-- Night dives at Namatota can be outstanding when current settles; ask your liveaboard guides if this is on the itinerary
+- Let your guide choose the entry timing around the tidal schedule
+- Search sea fans, black coral, and crevices carefully for the site's documented rare shrimp, crab, nudibranch, and goby life
+- Don't count on seeing whale sharks on this dive — they're associated with the nearby bagan platforms, not the wall itself
+- Ask your guide about visiting the nearby rock art sites on Namatota's limestone cliffs as a topside complement to the diving
 
 ## Safety Considerations
 
-This site is recommended for experienced, current-comfortable divers only. The tidal exchange in the channel can produce very strong, unpredictable flows. Never fight the current — if conditions change, ascend and let the boat retrieve you. Keep your guide in sight at all times. Carry both an SMB and a signal mirror or whistle in case of surface separation. The combination of current and depth (28m) demands careful gas management — plan for a minimum 70-bar reserve for ascent and safety stop.
+This site is recommended for experienced, current-comfortable divers. Tidal exchange can produce strong, unpredictable flows. Never fight the current — ascend and signal the boat if conditions change. Keep your guide in sight at all times, carry an SMB, and plan gas reserves conservatively given the depth (up to 28m) and current exposure.
 
 ## Photography
 
-Namatota Channel rewards both wide-angle and macro approaches. Wide-angle shots along the wall capture the scale of the sea fans and the dramatic blue-water backdrop of the channel. Shooting into the current shows schooling fish funneling past with a sense of motion. For macro, sea fan branches at 15 to 25 meters harbor flamingo shrimp, sea fan crabs, and basket star details. The combination of strong current and dim light at depth demands fast lenses — shoot at ISO 400 or above and use strobes for wall work.
+The wall's confirmed macro subjects — rare shrimp, crab, nudibranch, and goby species — reward a 100mm macro lens and patient, methodical searching among the sea fans and crevices. Wide-angle work along the wall can capture the general reef structure and blue-water backdrop, though be conservative about implying pelagic action that isn't independently documented for this specific site.
 
 ---
-*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — Indonesia's Triton Bay](https://xray-mag.com/content/indonesias-triton-bay-diving-west-papua), [DiveHappy — Triton Bay Whale Sharks](https://divehappy.com/triton-bay-whale-sharks/), [Divers Alert Network — Triton Bay](https://dan.org/alert-diver/article/alert-diver-2022-q4-feature-dive-triton-bay-indonesia/). Last updated 2026-07-07.*

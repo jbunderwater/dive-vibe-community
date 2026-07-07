@@ -17,15 +17,21 @@ Shark Sculpture is a reef dive site in Turkey, Europe.
 
 ## Overview
 
-Shark Sculpture sits at Güvercin (Pigeon Island) just fifteen minutes from Kaş, where local artist Kemal Tufan's white marble shark statue rests on the sandy bottom — a startling and delightful sight for first-time visitors who spot the life-sized figure emerging from the blue. The dive covers shallow reef sections teeming with rabbitfish and bream, a scattered old wooden wreck at around 22 meters, and a small deep reef at 28 meters with a good variety of Mediterranean fish life including soldierfish, octopus, and nesting triggerfish. Ancient amphorae lie partially buried on the sandy bottom, making this one of the most historically layered and visually varied dive sites in the Kaş area.
+Shark Sculpture sits at Güvercin Ada (Pigeon Island), about fifteen minutes by boat from Kaş. The sculpture itself — a roughly 2.6m (8ft) marble shark titled "The Shark" (2000) — was carved directly on the seabed at around 8 meters depth by Turkish sculptor Kemal Tufan, who worked underwater with only a hammer and chisel over roughly two weeks. It remains in place on the sea floor today.
+
+The wider site is a multi-level dive: shallow sections around the statue are alive with rabbitfish and bream, an old wooden wreck lies scattered at roughly 22 meters, and a second, sheet-metal wreck — sunk deliberately as an artificial reef — sits nearby at around 28 meters. Divers also encounter soldierfish, octopus, moray eels, nesting triggerfish, and gobies sharing burrows with their shrimp partners in the sandy bottom. Broken ancient amphorae are scattered across the site, adding an archaeological layer alongside the modern sculpture and wrecks.
+
+## Marine Life
+
+Confirmed at this specific site (not a generic regional list): rabbitfish, bream, soldierfish, octopus, moray eels, nesting triggerfish, striped groupers, and gobies with their shrimp commensals.
 
 ## Site Information
 
-- **Location**: Turkey, Europe
+- **Location**: Güvercin Ada (Pigeon Island), near Kaş, Antalya Province, Turkey
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 28 meters
 
 ---
-*Sources: [PADI - Diving in Turkey](https://www.padi.com/diving-in/turkey/), [Bluewater Dive Travel - Scuba Diving Turkey](https://www.bluewaterdivetravel.com/destination/scuba-diving-turkey), [DiveIn - Best Diving in Turkey](https://www.divein.com/diving/destination/turkey/), [X-Ray Mag - Turkey Mediterranean and Aegean](https://xray-mag.com/content/turkey-mediterranean-and-aegean-hotspots), [Chasing the Donkey - Scuba Diving Turkey](https://www.chasingthedonkey.com/scuba-diving-turkey-dive-sites/). Last updated 2026-04-04.*
+*Sources: [PADI - Pigeon Island dive site](https://www.padi.com/dive-site/turkey/guvercin-ada/), [Nautilus Diving Kaş - Dive Sites](https://www.nautilusdivingkas.com/dalis-noktalari?lang=en), [Turkey Homes - Top Diving Sites of Kaş](https://www.turkeyhomes.com/blog/post/top-diving-sites-of-kas), [Kemal Tufan - Sculptures](http://www.kemaltufan.com/main.asp?page=sculptures&lang=en). Last updated 2026-07-07.*
