@@ -3,7 +3,7 @@ name: Pawoni Hill
 lat: -6.3297416
 lng: 39.5795066
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Pawoni Hill
 
-Pawoni Hill is a pronounced coral hill formation in the southeastern Zanzibar reef system near Jambiani, rising from the lagoon floor and delivering a concentrated habitat structure with a 20-meter maximum depth — deeper than most Jambiani lagoon sites and with correspondingly more diverse marine life.
+Pawoni Hill (recorded by operators as "Powoni Hill," one of a trio of Powoni North/Hill/South sites) is an outer-reef dive on Zanzibar's southeastern coast, known for table coral formations and occasional big-fish encounters.
 
 ## Overview
 
-Pawoni Hill sits within the broader Jambiani reef area but at a deeper position than the shallow lagoon sites, reaching 20 meters at the sandy base around the hill's perimeter. The formation rises steeply from the surrounding seafloor, creating a multi-level dive with the hill crest at 6-8 meters, a mid-slope zone at 10-15 meters, and the base at 18-20 meters. The vertical relief concentrates fish life at each level — planktivores hover above the crest while larger predators work the base. The intermediate designation reflects the 20-meter depth and the need for precise buoyancy to navigate around the hill without disturbing the substrate.
+Two independent sources describe this site. Buccaneer Diving lists "Powoni North, Powoni Hill and Powoni South" together as three sites within about 20 minutes of its dive base, with "particularly magnificent table corals," typically accompanied by sweetlips and unicornfish, in the 9-30 meter range. Scuba Diver Life separately describes the "Powoni Area" (again as three sites) with turtles, parrotfish, morays, and octopus as common sights, and notes that hammerhead sharks, eagle rays, and whale sharks can be seen "at the right times of year." The depth and difficulty here have been updated to better match the deeper end of the confirmed 9-30m range; the previous write-up's specific claims about sweeper/glassfish aggregations and flathead fish were not found in either source and have been removed.
 
 ## Site Information
 
-- **Location**: Jambiani Reef, Southeast Zanzibar Island, Tanzania
+- **Location**: Outer reef, South East Zanzibar (Paje/Jambiani area), Tanzania — one of the "Powoni" trio of sites
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 12-18 meters (40-60 feet)
-- **Current**: Very light (protected lagoon-side)
-- **Best Time**: October to April (northeast monsoon)
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Not precisely quantified by sources
+- **Best Time**: October to April (northeast monsoon, South East Zanzibar); hammerhead/eagle ray/whale shark chances are seasonal per Scuba Diver Life, timing not specified
 
 ## Marine Life
 
-Pawoni Hill supports a vertically stratified fish community. The hill crest at 6-8 meters holds territorial reef fish — triggerfish, butterflyfish, and damselfish defend feeding territories on the coral surface. The mid-slope hosts sweepers and glassfish in dense aggregations under ledges, with lionfish waiting at the edges. At the sandy base, garden eels extend from burrows in undisturbed patches, and flatheads lie camouflaged against the sand. Sea turtles are regularly encountered on the crest and upper slope, and moray eels inhabit the deeper base crevices.
+Corroborated across both sources: table corals with sweetlips and unicornfish (Buccaneer Diving), turtles, parrotfish, morays, and octopus (Scuba Diver Life). Scuba Diver Life additionally notes hammerhead sharks, eagle rays, and whale sharks are possible "at the right times of year" — these should be read as occasional/seasonal possibilities, not reliable sightings.
 
 ## Dive Profile
 
-Begin by circling the hill base at 18-20 meters to assess the full perimeter before ascending the slope. Work up through the mid-slope zone, examining ledges and overhangs, then spend the final portion of the dive on the hill crest in 6-8 meters. The circular navigation pattern covers all aspects of the hill. Night diving at Pawoni Hill is excellent — the concentrated structure becomes even more productive after dark with hunting lionfish, octopus, and active crustaceans.
+Not described in granular detail by either source. Given the 9-30m range and table-coral topography, expect a reef dive working across coral formations at varying depth.
 
 ## Entry and Exit
 
-Boat access from Jambiani operators. Pawoni Hill is typically combined with the shallower Jambiani Lagoon or Sau Inn Garden for a full day in the southeastern Zanzibar reef system. Check tidal timing for the best bottom visibility over the sandy base — incoming tides improve clarity.
+Boat access from Paje/Jambiani-area operators, roughly 20 minutes to the Powoni site cluster per Buccaneer Diving.
 
 ## Tips and Recommendations
 
-- Night diving at Pawoni Hill is particularly productive — lionfish actively hunt above the crest and octopus emerge to forage around the base
-- Garden eels at the sandy base require patient, slow approach — hold position at distance and watch them extend; any finning overhead causes immediate retraction
-- The concentrated hill structure makes this an excellent site for fish counting — a useful exercise for divers interested in reef ecology
-- Combine with Sau Inn Garden (adjacent site) to cover the reef system efficiently
+- Ask your operator about current seasonal conditions if you're hoping for hammerhead, eagle ray, or whale shark encounters — sources describe these as occasional, not guaranteed
+- This site is commonly grouped with Powoni North and Powoni South by local operators; ask which specific section you'll be diving
 
 ## Safety Considerations
 
-Benign diving conditions overall, with the 20-meter depth being the primary consideration. Very light current in the protected position reduces drift risk. Wall-approach technique is required at the base — avoid pressing against coral when inspecting crevices. Standard fire coral and sea urchin hazards throughout. SMB deployment recommended for ascent.
+No site-specific hazards beyond standard reef-diving precautions were found in available sources. Given the reported depth range extends to 30m, monitor NDL as you would for any dive approaching that limit.
 
 ## Photography
 
-Pawoni Hill's vertical relief creates compositional variety rare in the flat lagoon environment. Shooting upward from the base at 18-20 meters toward the hill crest silhouetted against the light surface provides dramatic wide-angle compositions. Close-up photography of garden eels requires very slow approach and patience. Lionfish portraits against coral backgrounds are reliable subjects on the upper slope.
+Not confirmed by available sources. The table-coral topography and possibility of larger pelagic visitors suggest wide-angle equipment is a reasonable choice.
 
 ---
-*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving - Explore Our Dive Sites](https://www.buccaneerdiving.com/pages/explore-our-dive-sites/), [Scuba Diver Life - Diving Zanzibar](https://scubadiverlife.com/diving-zanzibar/). Last updated 2026-07-08.*

@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Moore Bank
 
-Moore Bank is a submerged reef bank in the Zanzibar Channel southwest of Zanzibar Island, rising from the channel floor to within 10 meters of the surface and creating a current-swept oceanic environment that attracts schooling pelagic fish and occasional whale sharks during the northeast monsoon season.
+Moore Bank is mapped as a reef feature in the Kizimkazi/Menai Bay area southwest of Zanzibar Island. No corroborating source was found for it despite an extensive search of dive-shop listings, forums, and nautical chart resources.
 
 ## Overview
 
-Positioned in the open Zanzibar Channel well offshore from Zanzibar Island's southwestern coast, Moore Bank is a seamount-style reef that rises from the surrounding channel floor to a shallow summit at approximately 10 meters, with the main dive zone extending from 10-22 meters around the flanks. The exposed channel position means tidal current consistently sweeps the site, which drives the productivity — the current brings nutrients that support dense invertebrate life on the bank surface and attracts baitfish schools that in turn draw predators. Boat transit from the nearest operators is significant, making Moore Bank a purposeful dive destination rather than a convenience site.
+Coordinates place this site in the Kizimkazi/Menai Bay Conservation Area, an area that is well documented in general for dolphin encounters, coral gardens, and (per some operators) reef sharks and manta rays. However, no source specifically named "Moore Bank" was located across dive-shop pages, ScubaBoard-style forum searches, general dive guides, or nautical chart listings for the area. The previous write-up's detailed description of this site as an offshore seamount with whale shark season, bigeye trevally schools, and specific depth zonation was not supported by any source found and has been removed in full rather than partially retained.
 
 ## Site Information
 
-- **Location**: Zanzibar Channel, southwest of Zanzibar Island, Tanzania
+- **Location**: Kizimkazi/Menai Bay area, Southwest Zanzibar Island, Tanzania (based on coordinates only)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 15-20 meters (50-65 feet)
-- **Current**: Moderate to strong (tidal)
-- **Best Time**: October to March (northeast monsoon, whale shark season)
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Not confirmed for this specific site
+- **Best Time**: Not confirmed for this specific site
 
 ## Marine Life
 
-Schools of bigeye trevally and jack aggregate around the bank's current-swept flanks. Barracuda form torpedo schools in the water column above the bank crest. Yellowfin tuna and other open-water predators patrol the blue water perimeter during the northeast monsoon. Whale sharks are reported at Moore Bank between October and March when plankton blooms develop in the channel — sightings are irregular but the offshore pelagic character of the site makes encounters more likely here than at inshore reef sites. The bank surface supports sea fans, wire corals, and encrusting sponges that shelter crevice species including moray eels and lionfish.
+No site-specific marine-life reports were found for this exact site name. The wider Kizimkazi/Menai Bay Conservation Area is documented for dolphins, coral gardens, and occasional reef sharks and rays, but attributing specific species to this unconfirmed site would not be supported by available sources.
 
 ## Dive Profile
 
-Descend to the bank surface at 10-12 meters and begin drift diving with the current around the bank perimeter, descending to 18-22 meters on the deeper flanks. The current-assisted navigation reduces effort and brings fish into contact position. Plan a live-boat dive: the guide leads a current-reading survey before entry and the boat follows for pickup. Maintain group cohesion as separation in open water at an offshore site is a significant risk.
+Not confirmed by available sources.
 
 ## Entry and Exit
 
-Boat departure from Zanzibar Town or southern Zanzibar Island operators. The offshore position requires a dedicated half-day or full-day trip. Conditions must be assessed at the site — swell and wind can render Moore Bank uncomfortable or inaccessible. Live-boat format with diver tracking; deploy SMB at depth before ascending.
+Boat access from Kizimkazi-area or Zanzibar Town operators, based on the site's general location.
 
 ## Tips and Recommendations
 
-- This is one of Zanzibar's better sites for whale shark encounters during the October-March season — carry a camera with wide-angle capability
-- A reef hook is useful for holding station on the bank surface to watch fish aggregations without drifting off the structure
-- The offshore location makes this a full-day commitment — combine with nearby Pungume Patches for a two-tank excursion
-- Plan for the deepest dive first if combining with shallower inshore sites
+- Confirm directly with a Kizimkazi-based dive operator (such as DiveTime Zanzibar) whether "Moore Bank" is a name they recognize before relying on this entry for trip planning
 
 ## Safety Considerations
 
-The offshore position and active tidal current are the primary risk factors. Stay together as a group — separation at an open-water site without nearby structures is serious. Monitor depth continuously on the bank flanks where the drop-off invites passive descent. Deploy SMB at depth for live-boat pickup; surface away from the bank to avoid being swept back over it in current reversal. Carry a safety whistle or signal mirror as backup to the SMB.
+Not confirmed by available sources; apply standard offshore-reef precautions, including group cohesion and SMB deployment, until site-specific conditions are confirmed.
 
 ## Photography
 
-The schooling pelagic species at Moore Bank reward wide-angle photography — bigeye trevally schools and barracuda tornados are compelling subjects against open blue water. Whale shark encounters, while unpredictable, are worth having a wide-angle or fisheye lens available. The bank surface itself offers close-up sea fan and wire coral shots with strobe lighting for accurate color.
+Not confirmed by available sources.
 
 ---
-*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*
+*No site-specific source was found despite an extensive search. Description limited to what can be inferred from coordinates and the general Kizimkazi/Menai Bay area. Last updated 2026-07-08.*

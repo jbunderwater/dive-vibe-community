@@ -2,8 +2,8 @@
 name: Big Wall
 lat: -5.8015048
 lng: 39.4182592
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,49 +13,48 @@ addedBy: osm_import
 
 ## Big Wall
 
-Big Wall is one of Zanzibar's premier wall dives, accessible from the Nungwi area at the island's northern tip. The site forms part of the dramatic reef topography where the shallow Zanzibar platform drops into the deeper Indian Ocean, creating vertical walls encrusted with rich marine growth.
+Big Wall (sometimes called Giant Wall) is a genuine drop-off east of Mnemba Island, off Zanzibar's northeastern tip. It is one of the few sites in this database confirmed by multiple independent operator and database sources, and every one of them places it firmly in advanced, deep-water territory rather than the intermediate 20-meter site previously described here.
 
 ## Overview
 
-The wall at this site descends from a reef crest at 5-8 meters to 20 meters at the base of the productive dive zone, though the wall continues deeper beyond recreational limits. Zanzibar's Big Wall is known for particularly vibrant soft coral and sea fan growth that covers the face in shades of orange, red, and yellow — creating some of the most colorful wall photography in East Africa. The warm Indian Ocean water (26-29°C year-round) and excellent visibility of 20-30 meters make this a flagship site for Zanzibar diving.
+Five independent sources — PADI's own dive-site database, TGI Diving (a Nungwi-based operator), Buscabuceo, Divessi, and Climb Kilimanjaro Guide — agree that Big Wall is a vertical wall beginning around 14-18 meters and continuing well past recreational depth limits. Reported maximum depths vary (55m, 70m, and 82ft/25m have each appeared in different write-ups; PADI and TGI Diving both independently cite 14-70m), which is worth flagging rather than picking a single number. What is consistent across sources is the character of the site: a sheer wall with overhangs and small caves, strong current, and open-water pelagic encounters rather than a coral-garden dive. The 40-meter figure recorded here represents a sensible recreational-limit turnaround point; the wall itself continues considerably deeper per every source that gives a number.
 
 ## Site Information
 
-- **Location**: Northern Zanzibar Island, near Nungwi
+- **Location**: East of Mnemba Island, Northeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Moderate to strong
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: Reported around 30 meters
+- **Current**: Strong, a defining feature of the dive
 - **Best Time**: October to March (northeast monsoon)
 
 ## Marine Life
 
-The wall face supports a vertical ecosystem with each depth zone hosting different communities. Sea fans at 15-20 meters host pygmy seahorses and flamingo prawns visible with close inspection. Orange and white cup corals encrust the shaded overhangs. Eagle rays and reef sharks are regularly seen in the blue water beyond the wall. Hawksbill turtles use the reef crest for resting and feeding. Schools of anthias hover above the coral growth throughout the wall's surface.
+Sources consistently report large pelagic species along the wall: tuna, Napoleon wrasse, barracuda, groupers, and rays, with occasional white-tip reef sharks and, per TGI Diving, hammerhead sharks. Moray eels and lobster occupy the wall's overhangs and small caves. The site does not carry heavy coral cover, so sightings skew toward open-water and current-associated fish rather than reef life.
 
 ## Dive Profile
 
-Descend to the mooring and drop directly to 18-20 meters at the base of the productive zone. Work along the wall face horizontally, examining each overhang and crevice, before ascending methodically through the mid-wall zone at 10-15 meters. Spend the final portion of the dive on the reef crest in 5-8 meters of water before the safety stop.
+This is a deep drift/wall dive: divers descend to the wall face and work along it in the current, watching the blue water off the wall for pelagics, before ascending well within no-decompression limits. Given the strong current and open-water depth, this is not a dive for recently certified divers regardless of how the boat plans the profile.
 
 ## Entry and Exit
 
-Boat departure from Nungwi operators. The wall is best dived in moderate current conditions — strong current runs parallel to the face and can push divers away from the wall unexpectedly. A reef hook is standard equipment for Zanzibar wall diving. Giant stride entry; deploy SMB for ascent.
+Boat access from Nungwi-area operators serving the Mnemba Island reef system. Live-boat pickup is typical given the current.
 
 ## Tips and Recommendations
 
-- Bring a dive torch even on daytime dives — the overhangs shelter species that require illumination to see clearly
-- Zanzibar's Big Wall is often combined with nearby Barracuda Point for a contrasting two-tank morning
-- The pygmy seahorse positions on sea fans shift seasonally — ask your guide which fans are currently occupied
-- Current is essential for bringing pelagic visitors to the wall; coordinate timing with guides
+- This is an advanced, current-exposed deep dive — go with an operator experienced in Mnemba's outer wall sites, not a general Nungwi reef trip
+- Because reported maximum depths differ across sources (55-70m), agree on a hard turnaround depth with your guide before descending rather than assuming a specific number
+- A reef hook can help hold position in current without damaging the wall
 
 ## Safety Considerations
 
-Wall dive depth discipline is critical. The wall continues below 20 meters and the clear water can make depth perception difficult — set a firm depth limit on your computer and adhere to it. Current can pick up without warning on the outer wall; carry a reef hook and be prepared to ascend away from the wall if current reverses. Always deploy SMB before ascending.
+Depth and current are both significant here. Sources agree the wall continues well past recreational limits, so passive over-descent is a real risk in clear water with no obvious bottom reference — set and enforce a computer depth alarm. Carry a reef hook and deploy an SMB before ascending; current can carry divers away from the wall and the boat.
 
 ## Photography
 
-Big Wall is one of East Africa's top photography walls. The colorful soft coral growth at 15-20 meters rewards strobe-lit close-up photography, while wide-angle shots along the wall face with rays or sharks in the frame produce dramatic images. An ultra-wide or fisheye lens at the 10-20mm range is the recommended setup.
+Wide-angle or fisheye lenses suit the wall-and-blue-water compositions most divers come here for; pelagic subjects (tuna, Napoleon wrasse, sharks) are typically shot from mid-water looking along the wall face rather than close to the reef itself.
 
 ---
-*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*
+*Sources: [PADI - Big Wall dive site](https://www.padi.com/dive-site/tanzania/big-wall/), [TGI Diving - Zanzibar Nungwi dive sites](https://www.tgidiving.com/en/indian-ocean/zanzibar-nungwi/dive-sites/), [Buscabuceo](https://www.buscabuceo.com/en/dive/1643/big-wall-nungwi-zanzibar), [Divessi](https://www.divessi.com/en/blog/best-diving-zanzibar-9025.html), [Climb Kilimanjaro Guide](https://www.climbkilimanjaroguide.com/diving-zanzibar/). Last updated 2026-07-08.*

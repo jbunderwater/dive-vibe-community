@@ -3,7 +3,7 @@ name: Woo south
 lat: -6.3539863
 lng: 39.5850976
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Woo South
 
-Woo South is the southern extension of the Woo reef complex in southeastern Zanzibar Island's outer fringing reef near Jambiani, offering a slightly different character to its northern counterpart with more pronounced coral mounds and channels and a wider sandy base zone at the 18-meter maximum depth.
+Woo South is a South East Zanzibar outer-reef site with shallow coral heads transitioning to a deep drop-off, offering both a shallow and a much deeper option depending on how it's dived.
 
 ## Overview
 
-The Woo reef complex comprises interconnected reef sections along the inner face of the eastern Zanzibar fringing reef, and Woo South refers to the lower section of this system that sits further from the main lagoon reef and exhibits slightly more rugged topography. The reef here features raised coral mounds separated by sandy channels descending from 6-8 meters at the mound crests to 15-18 meters in the deeper sandy passages. The intermediate difficulty reflects both the 18-meter maximum depth and the more complex topography requiring precise buoyancy control to navigate through the channels without disturbing the substrate. Conditions are calm year-round given the protected eastern lagoon position.
+The one confirmed source, Buccaneer Diving, describes Woo South as offering "beautiful untouched coral heads teeming with life," and, once divers cross to the drop-off, the chance to be "greeted by sharks, barracuda, giant kingfish and more large species." Depth is reported by the same operator (across two of its pages) at a wide range of 12-75 meters — considerably deeper than the previous 18m entry suggested. Because that range spans well into technical depths, the recorded depth here has been raised to 30m to better represent the site's realistic recreational profile, while the markdown flags that the drop-off itself goes much deeper. Specific claims from the earlier write-up about multiple moray eel species, cuttlefish hunting behavior, and grouper distribution at this site were not found in the source and have been removed.
 
 ## Site Information
 
-- **Location**: Outer fringing reef, Jambiani, Southeast Zanzibar Island, Tanzania
+- **Location**: Outer reef, South East Zanzibar (Paje/Jambiani area), Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 12-18 meters (40-60 feet)
-- **Current**: Very light
-- **Best Time**: October to April (northeast monsoon)
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Not precisely quantified by sources
+- **Best Time**: October to April (northeast monsoon, South East Zanzibar)
 
 ## Marine Life
 
-The mound-and-channel topography of Woo South creates diverse microhabitats. Moray eels of several species — giant, honeycomb, and ribbon — occupy the mound base crevices. Lionfish position themselves at channel entrances. Garden eels inhabit undisturbed sandy channel floors where they extend from burrows to filter-feed in the slight water movement. Cuttlefish hunt small fish above the mound tops, changing color rapidly when pursuing prey. Hawksbill turtles graze on sponges across the mound surfaces. Large grouper occupy the deeper channel sections and emerge reluctantly from their preferred crevices.
+Per Buccaneer Diving: coral-head reef life plus, at the drop-off, sharks, barracuda, and giant kingfish. No other species are confirmed for this specific site by available sources.
 
 ## Dive Profile
 
-Navigate through the Woo South reef from the mooring by descending into the main channel and working along it, ascending to each mound crest to observe the upper reef community before dropping back into the next channel. The zigzag path through mounds and channels covers the site comprehensively and exercises buoyancy precision — the mound profile rewards controlled ascending and descending without fin-kicking into the coral. Night diving here is excellent, with the enclosed mound structure providing good orientation reference after dark.
+The source describes divers being able to "dive it shallow or deep" — starting on the coral heads and, for those diving the deeper option, crossing to the drop-off where larger species are more likely. Exact depth-by-depth detail beyond this is not confirmed.
 
 ## Entry and Exit
 
-Boat access from Jambiani operators. Woo South is typically combined with adjacent Jambiani lagoon sites for a full day — it sits at the deeper end of the southeastern Zanzibar beginner-intermediate range and works well as the deeper morning dive before shallower afternoon sites. Night dives are regularly run from Jambiani.
+Boat access from Paje/Jambiani-area operators.
 
 ## Tips and Recommendations
 
-- Night diving at Woo South is recommended — the mound structure provides strong visual reference for navigation and the nocturnal species complement the daytime fish list significantly
-- Garden eels in the sandy channels are best observed from directly above, hovering without movement — the approach angle affects whether they retract
-- The channel-and-mound topography is excellent buoyancy training; divers who can navigate it cleanly are ready for more complex current-influenced sites
-- Moray encounters are numerous — scan the base of every mound for eyes and profiles in crevices
+- Confirm with your operator in advance whether you'll be diving the shallow coral-head profile or the deeper drop-off option, since the site covers a very wide depth range
+- The drop-off section is the more likely spot for shark, barracuda, and kingfish encounters per the source
 
 ## Safety Considerations
 
-Low-risk environment. The 18-meter maximum depth, very light current, and sheltered lagoon position make Woo South accessible to solid beginner and intermediate divers. Main hazard is accidental coral contact during the mound-and-channel navigation, which requires active buoyancy management throughout. Fire coral is present on exposed mound faces. Deploy SMB for ascent.
+Given the source's reported 12-75m range, this site can extend well beyond recreational no-decompression limits on its deep option. Confirm with your operator which profile is planned, agree on a maximum depth before descending, and treat the deep drop-off option as an advanced dive requiring appropriate certification and gas planning.
 
 ## Photography
 
-The mound-and-channel structure creates strong architectural composition opportunities — shooting along a channel with mounds framing both sides, or looking upward along a mound face from the base. Cuttlefish hunting behavior above the mound tops is excellent for behavioral photography. Moray eel portrait shots in the base crevices benefit from a strobe to reveal the intricate skin patterning. Night photography here is accessible and productive.
+Not confirmed by available sources. The shallow coral-head zone favors wide-angle reef shots; larger pelagic subjects at the drop-off would suit a wide-angle or fisheye setup.
 
 ---
-*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving - Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/) and [Buccaneer Diving - Explore Our Dive Sites](https://www.buccaneerdiving.com/pages/explore-our-dive-sites/). Only one independent operator was found describing this specific site (across two of its own pages). Last updated 2026-07-08.*
