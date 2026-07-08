@@ -13,31 +13,31 @@ addedBy: osm_import
 
 ## Ollies Lolly
 
-Ollies Lolly is a very shallow beginner reef site off Espiritu Santo, Vanuatu, named after a local dive operator and representing one of the most relaxed and accessible reef dives in the Luganville area — a useful complement to the deeper wreck diving that dominates the Santo experience.
+Ollies Lolly is a shallow, brightly-coloured reef off Efate near Port Vila, located just beyond Blacksands Reef and not far from Hideaway Island — a favourite with underwater photographers thanks to its excellent clarity and a striking, uncommon red anemone.
+
+## Correction note
+
+Earlier data for this site incorrectly placed it near Espiritu Santo. Research confirms Ollies Lolly is actually located off Efate near Port Vila, close to Hideaway Island — the location text below has been corrected accordingly.
 
 ## Overview
 
-Located in the waters around Espiritu Santo with a maximum depth of just 9 meters, Ollies Lolly is a reef flat and gentle slope site that operates almost in snorkeling territory. The site is used primarily for discover scuba diver experiences, first certification dives, and as a recovery/easy-day dive between more intensive wreck diving on the Coolidge or Tucker. The shallow position means virtually unlimited bottom time at recreational limits, and the gentle topography requires no particular navigation skill.
+At a maximum depth of just 9 metres, Ollies Lolly is one of the shallowest and most relaxed reef dives in the Port Vila area. The reef is home to a wide range of hard and soft corals, and its signature feature is a rare red anemone crowded with clownfish — a favourite photo subject for visiting divers.
 
-The reef quality is good for such a shallow, frequently visited site — the hard coral coverage is maintained by the clean Santo waters and the shallow depth that provides excellent natural light for coral health. Water temperature in the Santo area holds at 26–28°C year-round, and visibility of 15–25 meters is typical in the bay waters.
+The shallow depth keeps light levels high throughout the dive, which brings out the reef's colour and makes it a popular site for both beginners and underwater photographers.
 
 ## What to Expect
 
-The primary draw at Ollies Lolly is the relaxed pace that an extremely shallow site allows — divers can move slowly, hover at will, and observe small subjects without the time pressure of deeper recreational dives. Anemone and clownfish colonies are scattered throughout the reef flat. Juvenile reef fish species in their distinctive color phases populate the coral heads. Sea turtles are regular visitors to the shallow feeding grounds here, and are often so comfortable with divers that approach within a few meters is possible without disturbance.
-
-The site is particularly suited for macro photography of juvenile fish and small invertebrates — the excellent natural light, stable shallow conditions, and unhurried pace allow extended close-up observation of subjects that would be rushed past on deeper dives.
+The site is known for its abundance of fish alongside its coral cover, with soft corals adding texture across the reef. The standout is the large red anemone with its resident clownfish colony — a distinctive sight not commonly seen at other Efate sites.
 
 ## Practical Information
 
-- **Depth Range**: 2–9 meters
-- **Visibility**: 15–25 meters typical
-- **Currents**: Generally very mild
-- **Entry**: Boat dive from Luganville operators
-- **Best For**: Absolute beginners, discover scuba, certification dives; relaxed complement to wreck diving days
+- **Depth Range**: Up to 9 meters
+- **Entry**: Boat dive from Port Vila operators
+- **Best For**: Beginners and photographers; suits all experience levels given the shallow, easy conditions
 
 ## Marine Life Highlights
 
-Clownfish and anemones, sea turtles, juvenile reef fish, parrotfish, damselfish, butterflyfish, moray eels in crevices, blue-spotted ribbontail rays on sandy patches.
+Clownfish (notably in a large red anemone), a wide variety of reef fish, and a mix of hard and soft corals. No further site-specific marine life reports were found beyond these.
 
 ---
-*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*
+*Sources: [Vanuatu Tourism Office](https://www.vanuatu.travel/en/dive-into-a-different-world-in-vanuatu), [TripAdvisor - Nautilus Scuba](https://www.tripadvisor.com/ShowUserReviews-g294144-d1469561-r135031723-Nautilus_Scuba-Port_Vila_Efate.html), [Divescover](https://divescover.com/dive-site/ollie-s-lolly/27838). Last updated 2026-07-08.*

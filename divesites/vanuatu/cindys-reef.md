@@ -13,31 +13,28 @@ addedBy: osm_import
 
 ## Cindy's Reef
 
-Cindy's Reef is a beginner-friendly coral reef site near Port Vila on Efate, Vanuatu, named after a local dive operator figure and representing one of the standard introductory and certification reef dives in the Port Vila dive circuit.
+Cindy's Reef sits at the eastern tip of Aore Island, a 20-minute boat ride across the bay from Luganville, and is one of the few Espiritu Santo dive sites that isn't the SS President Coolidge — a relaxed, colourful reef dive that gives divers a break from wreck diving during a Santo trip.
 
 ## Overview
 
-Located in the sheltered waters around Efate island, Cindy's Reef is a gently sloping coral reef system accessible from 5 meters to 30 meters, with the most productive and visually rich zone in the 10–20 meter range. The site is used regularly by Port Vila dive operators for Open Water certification dives, discover scuba experiences, and guided reef dives for newly certified divers — the calm conditions, clear water, and straightforward topography make it an ideal confidence-building environment.
+The site takes its name from a visiting American diver named Cindy, who — according to the story told by local operators — had booked ten dives in Santo before realising there weren't ten different dive sites to visit. She and a local dive guide went looking for something new and found this reef, which has carried her name ever since.
 
-The reef structure consists of hard coral gardens with scattered bommies (isolated coral heads) rising from the reef slope. Soft corals and sea fans add color to the deeper sections. Visibility is typically 20–30 meters in the sheltered Efate waters, with water temperature averaging 26–28°C year-round.
+Cindy's Reef is a gently sloping reef running from about 5 metres down to a drop-off edge around 30 metres. It's dived as a relaxed, mostly gentle drift, with the most colourful coral bommies concentrated in the mid-depths and the more interesting big-animal encounters near the drop-off edge. Visibility is typically good, and the site suits a wide range of experience levels — beginners can stay shallow over the bommies, while more experienced divers can work the edge of the drop-off.
 
 ## What to Expect
 
-Cindy's Reef delivers the classic Vanuatu reef experience: dense fish populations in clear, warm water over colorful coral. Clownfish occupy anemone colonies throughout the shallow sections, and green sea turtles are frequent visitors grazing across the reef flat. Schools of snapper and fusiliers orbit the bommies, while larger napoleon wrasse patrol the reef edges. The deeper sections (20–30 meters) reveal sea fans and more specialized reef species including scorpionfish and the occasional resting whitetip reef shark.
-
-The beginner-friendly designation reflects the site's reliable, calm conditions rather than any lack of marine interest — experienced divers report enjoyable dives here despite the designation, particularly on the deeper sections where the coral diversity increases noticeably.
+The reef is covered in colourful hard and soft corals, with several clownfish colonies tucked into anemones across the bommies. Green sea turtles and blue-spotted stingrays are regularly seen here, and divers who are lucky occasionally encounter a dugong in the area. Near the drop-off, keep an eye on the blue for passing pelagics. The site also rewards macro-focused divers — small reef critters are common among the coral heads — alongside the bigger animal sightings.
 
 ## Practical Information
 
 - **Depth Range**: 5–30 meters
-- **Visibility**: 15–30 meters typical
-- **Currents**: Generally mild; sheltered reef position
-- **Entry**: Boat dive from Port Vila operators
-- **Best For**: Beginners and newly certified divers; certification dives; reliable turtle encounters
+- **Currents**: Mild, with current in places; typically dived as a slow drift
+- **Entry**: Boat dive, about 20 minutes from Luganville
+- **Best For**: Beginners looking for an easy drift; also enjoyable for experienced divers working the drop-off edge
 
 ## Marine Life Highlights
 
-Green sea turtles, clownfish and anemones, napoleon wrasse, snapper schools, fusiliers, whitetip reef sharks, scorpionfish, moray eels, sea fans, soft corals.
+Clownfish and anemones, green sea turtles, blue-spotted stingrays, colourful hard and soft corals. Dugong sightings are occasionally reported but not guaranteed.
 
 ---
-*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*
+*Sources: [Diveplanit](https://www.diveplanit.com/dive-site/cindys-reef/), [Zentacle](https://www.zentacle.com/Beach/3261/cindys-reef), [Aore Adventures](https://aoreadventures.com/diving/reefs/cindys-reef-vanuatu/). Last updated 2026-07-08.*

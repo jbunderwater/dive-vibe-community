@@ -13,31 +13,28 @@ addedBy: osm_import
 
 ## Hideaway Island Reef
 
-Hideaway Island Reef is the most accessible dive site in Vanuatu — a shallow fringing reef surrounding a tiny motu (islet) a short boat ride from Port Vila that can also be reached directly from the island's beach, making it the primary destination for snorkelers, newly certified divers, and anyone seeking a quick, beautiful reef dive within minutes of the capital.
+Hideaway Island sits inside one of Vanuatu's only marine sanctuaries — a 2.5-hectare protected reserve in Mele Bay, about 10 kilometers from Port Vila — and is the most accessible reef dive in Vanuatu, reachable by a short shuttle from the mainland and then straight off the beach.
 
 ## Overview
 
-Hideaway Island (also known as Iririki's neighbor — a small motu in Mele Bay off Port Vila) is surrounded by a fringing reef system extending from 1 meter to 10 meters depth. The coral gardens wrap completely around the islet, providing a varied and continuously rewarding snorkel or dive experience that changes character on each side of the island — sheltered coral flats to the north, more exposed and complex coral structures to the south and east facing the open bay.
+The reef fringing Hideaway Island stays shallow throughout, making it a snorkel-and-beginner-dive site more than a deep dive. The marine sanctuary status means the reef and its fish are well-protected and used to divers and snorkelers, and the sheltered bay position generally keeps conditions calm. Both scuba diving and snorkeling are offered directly from the island, with round-the-clock shuttle service running from the mainland.
 
-At maximum 10 meters, this is fundamentally a snorkel and beginner dive site, but the coral health and fish density surprise many experienced divers who expect shallow sites to be picked over. The sheltered Mele Bay waters produce visibility of 15–25 meters and consistently calm conditions that make Hideaway Island accessible year-round in virtually any weather.
+The island's best-known feature is its underwater post office — the only one of its kind in the world — sitting at 3 metres depth, about 50 metres offshore. Visitors buy waterproof postcards, drop them in the submerged mailbox, and they're genuinely collected and delivered once a day.
 
 ## What to Expect
 
-The shallows are alive with colour — healthy hard coral tables, branching corals, and encrusting formations cover the reef flat, interspersed with anemone colonies hosting multiple clownfish species. Green and hawksbill sea turtles are virtually guaranteed sightings here, grazing on the coral and seagrass with complete comfort around divers and snorkelers. Schools of sergeant-major damselfish, butterflyfish, and parrotfish are constant company across the reef flat.
-
-The slightly deeper southern sections (6–10 meters) have more complex structure, with small overhangs sheltering lionfish and moray eels. Blue-spotted ribbontail rays rest on the sandy patches between coral formations. The site also hosts a small underwater post box — a quirky feature popular with visiting divers who can post waterproof letters to be delivered by the local postal service.
+Expect a shallow, colourful reef with a good showing of "tame" fish accustomed to snorkelers and divers. Sea turtles, clownfish, and groupers have been reported around the island. The site is well suited to beginners, first-time divers, and snorkelers, and the calm, sheltered water and reliable visibility make it a good confidence-building dive.
 
 ## Practical Information
 
-- **Depth Range**: 1–10 meters
-- **Visibility**: 15–25 meters typical
-- **Currents**: Generally very mild; fully sheltered bay position
-- **Entry**: Shore entry from the island beach (accessible by short boat transfer from mainland Port Vila)
-- **Best For**: Beginners, snorkelers, children; excellent for turtle encounters; also suits experienced divers wanting a relaxed shallow reef experience
+- **Depth Range**: Up to 10 meters; underwater post office sits at 3 meters
+- **Currents**: Generally very mild; sheltered bay position
+- **Entry**: Shore entry from the island (short shuttle transfer from mainland Port Vila)
+- **Best For**: Beginners, snorkelers, first-time divers; visiting the underwater post office
 
 ## Marine Life Highlights
 
-Green sea turtles, hawksbill sea turtles, clownfish (multiple species), blue-spotted ribbontail rays, moray eels, lionfish, butterflyfish, damselfish, parrotfish, sergeant-majors, table corals, branching corals.
+Sea turtles, clownfish, and groupers have been reported in the sanctuary. Broader species lists advertised for the wider Hideaway Island dive area (such as nurse sharks or eagle rays) refer to separate, deeper sites nearby (e.g. Mystery Wall) rather than this shallow shore reef, so they are not included here.
 
 ---
-*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*
+*Sources: [Abyss Scuba Diving](https://www.abyss.com.au/blog/travel/scuba-diving-at-hideaway-island-resort-and-marine-sanctuary-in-vanuatu), [EnezGreen](https://www.enezgreen.com/en/marine-reserve-hideaway-island-mele-port-vila/), [Vanuatu Tourism Office](https://www.vanuatu.travel/en/dive-into-a-different-world-in-vanuatu). Last updated 2026-07-08.*

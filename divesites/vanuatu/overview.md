@@ -14,7 +14,7 @@ Vanuatu suits divers of all levels. The shallow reefs around Hideaway Island nea
 
 ### Diving Opportunities
 
-- **Wreck Diving**: The SS President Coolidge is the centerpiece — shore-entry wreck diving at depths of 18–73 meters with multiple penetration levels. USS Tucker, the Konanda, and the Star of Russia offer additional historic wrecks.
+- **Wreck Diving**: The SS President Coolidge is the centerpiece — wreck diving (primarily shore entry, with boat access also used) at depths of 21–73 meters with multiple penetration levels. USS Tucker, near the Coolidge off Espiritu Santo, and Henri Bonneaud and SS Tui Tuate off Bokissa Island/Segond Channel add further Santo wrecks. Efate/Port Vila has its own wrecks, including the Konanda and the historic 1874 sailing ship Star of Russia.
 - **Artificial Reef Diving**: Million Dollar Point is a unique WWII equipment dump forming a spectacular artificial reef on a gentle slope to 40 meters.
 - **Reef Diving**: Espiritu Santo's north coast reefs and the reefs around Port Vila (Efate) offer healthy hard coral gardens, soft coral walls, and strong fish density.
 - **Cave Diving**: Cathedral Cave near Port Vila offers dramatic cavern formations with excellent light play.
@@ -31,7 +31,7 @@ Vanuatu suits divers of all levels. The shallow reefs around Hideaway Island nea
 
 - **Water Conditions**: Temperatures 25–29°C (77–84°F) year-round, slightly cooler in June–August. Visibility typically 20–40 meters on reefs, 15–30 meters on the Coolidge. Currents generally mild to moderate; some outer reef sites can experience strong current.
 - **Marine Biodiversity**: The reefs support grey reef sharks, whitetip reef sharks, sea turtles, barracuda, dogtooth tuna, napoleon wrasse, and abundant reef fish including lionfish, clownfish (several anemone species), and nudibranchs. Dugongs are occasionally sighted around northern Santo.
-- **Wreck Life**: The Coolidge is carpeted in soft corals, black coral trees, and sponges. Large lionfish, batfish, moray eels, and schools of fusiliers inhabit the superstructure. The "Lady" — a ceramic tile mosaic — is the wreck's most famous artifact.
+- **Wreck Life**: The Coolidge is carpeted in soft corals and sponges after more than eighty years underwater. "The Lady and the Unicorn" — a porcelain relief panel, not a mosaic — is the wreck's most famous single artifact.
 - **Conservation**: Vanuatu's reefs benefit from low population density and limited industrial fishing pressure. Several marine protected areas operate around Espiritu Santo and the outer islands.
 
 ## Additional Information
@@ -40,7 +40,7 @@ Vanuatu suits divers of all levels. The shallow reefs around Hideaway Island nea
 - **Currency**: Vanuatu Vatu (VUV)
 - **Language**: Bislama, English, French
 - **Certification Requirements**: Open Water minimum for reef sites and upper Coolidge sections. Advanced Open Water recommended for deeper Coolidge dives. Wreck specialty required for full Coolidge penetration. Tech certification for the deepest stern sections.
-- **Safety**: A hyperbaric chamber operates in Luganville, managed by the Divers Alert Network and local operators — one of the best-equipped facilities in the Pacific islands. Confirm chamber availability and emergency procedures with your dive operator. The Coolidge requires a dive guide — never penetrate the wreck without proper orientation and a certified guide.
+- **Safety**: Sources disagree on hyperbaric chamber locations in Vanuatu — some list chambers in both Port Vila and Luganville, while at least one general travel guide states Port Vila has the country's only chamber. Confirm current chamber status, location, and emergency procedures directly with your dive operator before diving, particularly for deep or technical dives. Local guides lead virtually all Coolidge dives as standard operator practice, and penetration sections should never be attempted without one.
 
 ---
-*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*
+*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/), [Wikipedia - SS President Coolidge](https://en.wikipedia.org/wiki/SS_President_Coolidge), [Dive SSI - Vanuatu Diving Essential Guide](https://www.divessi.com/en/blog/vanuatu-diving-essential-guide-10285.html). Last updated 2026-07-08.*

@@ -2,8 +2,8 @@
 name: USS Tucker
 lat: -15.6093
 lng: 167.1332
-difficulty: Advanced
-maxDepth: 24
+difficulty: Intermediate
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,31 +13,29 @@ addedBy: osm_import
 
 ## USS Tucker
 
-The USS Tucker (DD-374) is a US Navy Mahan-class destroyer that sank in the Segond Channel off Espiritu Santo, Vanuatu, on 4 August 1942 — the first of the mine-sinking tragedies that would also claim the SS President Coolidge two months later, and now an accessible WWII wreck dive resting at recreational depths.
+The USS Tucker (DD-374) is a US Navy Mahan-class destroyer that struck a mine and sank in the Segond Channel off Espiritu Santo, Vanuatu, in early August 1942 — a companion wreck to the more famous SS President Coolidge, resting broken and scattered in shallower, recreational-depth water.
 
 ## Overview
 
-USS Tucker was a 341-foot Mahan-class destroyer commissioned in 1936 and assigned to the South Pacific theater by 1942. On the night of 4 August, returning from patrol, she entered the mine-protected Segond Channel through the incorrect lane and struck two American mines in rapid succession. The ship sank within ten minutes. Eight men were killed — the only significant fatalities in a night of mine-related disasters in the channel.
+USS Tucker was a 341-foot Mahan-class destroyer commissioned in July 1936 and assigned to the South Pacific theater by 1942. Sources vary slightly on the exact date of the mine strike — accounts place it on the night of 1 or 2 August 1942 — but agree that she struck a mine while entering the Segond Channel through a US-laid defensive minefield whose existence had not yet been communicated to her captain. The explosion broke the destroyer's back, and she sank two days later, on 4 August 1942, in about 18 meters (60 feet) of water. Sources report three men were killed in the explosion, with three more listed as missing.
 
-Tucker now lies broken and scattered in depths of 17–24 meters in the Segond Channel off Luganville. The main hull sections remain recognizable — the bow area, the stern, and the central hull sections are all identifiable, with the deck plating, gun mount foundations, and machinery spaces accessible to divers. The wreck is smaller and more scattered than the Coolidge, but offers a very different experience: more open structure, abundant natural light throughout, and the specific historical identity of an identifiable US Navy destroyer.
+Tucker was heavily salvaged for scrap metal after the war and further picked over by souvenir-hunting divers, so the wreck today is considerably more fragmented than most WWII-era shipwrecks. The stern section sits upright with a list to starboard; the bow lies on its port side, partly buried in sand; and a debris field of hull plates and twisted beams connects the two. The wreck lies northeast of Malo Island, roughly 40 minutes by boat from the main dive operations base.
 
 ## What to Expect
 
-Tucker is typically dived as a companion wreck to the Coolidge — a morning or afternoon addition to a Coolidge day. The maximum depth of 24 meters is comfortable for intermediate divers, and the open, scattered structure means no penetration skills or special equipment are required. The gun mount bases on the hull are clearly identifiable, and the torpedo tube positions can be found in the debris field.
-
-The marine life on Tucker has developed to suit the open, well-lit structure — batfish hover in schools over the highest hull sections, snapper and sweetlips orbit the machinery areas, and moray eels have established territories in every available gap in the hull plating. The natural light makes Tucker an excellent photography subject in the middle hours of the day when the sun angle is optimal.
+Tucker is often dived as a companion wreck to the Coolidge. Because the wreck is broken into distinct sections connected by a debris field rather than a single intact hull, divers need to rely on the dive guide's route-finding — local guides have historically used landmark triangulation rather than GPS to relocate the sections. No penetration is required or generally possible given the wreck's fragmented state.
 
 ## Practical Information
 
-- **Depth Range**: 10–24 meters
-- **Visibility**: 15–25 meters typical; Segond Channel conditions
-- **Currents**: Mild to moderate channel conditions
-- **Entry**: Boat dive from Luganville operators
-- **Best For**: Advanced certified divers; excellent companion dive to the Coolidge
+- **Depth Range**: approximately 18 meters (60 feet)
+- **Visibility**: Reported around 15–18 meters (50–60 feet) by one dive-operator account
+- **Currents**: Segond Channel conditions; not consistently documented
+- **Entry**: Boat dive, roughly 40 minutes from Luganville-area operators
+- **Best For**: Divers comfortable navigating a broken, scattered wreck site; a good companion dive to the Coolidge
 
 ## Marine Life Highlights
 
-Batfish schools, snapper, sweetlips, moray eels, lionfish, soft corals, hard coral encrustation, barracuda, groupers.
+A dedicated wreck-diving source reports sea fans, schools of grunts, and grouper inhabiting the wreck's interior spaces and debris field. Earlier claims of batfish, snapper, sweetlips, lionfish, and barracuda at this specific site could not be traced to a source and have been removed.
 
 ---
-*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*
+*Sources: [Wikipedia - USS Tucker (DD-374)](https://en.wikipedia.org/wiki/USS_Tucker_(DD-374)), [Destroyer History Foundation - USS Tucker](https://destroyerhistory.org/goldplater/usstucker/), [Evolution Underwater Imaging - USS Tucker](https://www.evolutionunderwater.com/uss-tucker), [Pacific Wrecks - USS Tucker (DD-374)](https://pacificwrecks.com/ship/usn/DD-374.html). Last updated 2026-07-08.*
