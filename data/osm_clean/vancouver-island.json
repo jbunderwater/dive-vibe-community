@@ -13,9 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive.bc.ca,godspocketresort.com,scubabc.ca",
-      "validation_notes": "Strong currents, timed to slack tide. Colorful invertebrate life, soft corals, sponges, anemones.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "godspocket.com,scubadiving.com,seaotter.com",
+      "validation_notes": "QA 2026-07-08: Re-verified. Wall in Browning Passage/God's Pocket Marine Park. Recreational diving to ~40m; multiple independent sources (Scuba Diving Magazine, seaotter.com) describe the wall face continuing to 180-250ft (55-76m) beyond recreational limits -- noted as a range in description rather than a single figure. Confirmed marine life: giant Pacific octopus, Dirona albolineata nudibranchs, glove sponge, metridium anemones, orange/red soft corals, sculpins. godspocketresort.com domain is now dead (DNS failure) -- replaced with current operator domain godspocket.com.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -32,9 +32,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "wikipedia.org,artificialreefsocietybc.ca,nanaimodiveoutfitters.ca",
-      "validation_notes": "Destroyer artificial reef. 366ft long. Dive 80-100ft mostly. Wreck penetration setup. Cabezon, anemones, cloud sponges, grunt sculpins.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "wikipedia.org,nanaimodiveoutfitters.ca,scubabc.ca",
+      "validation_notes": "QA 2026-07-08: Re-verified against Wikipedia, Nanaimo Dive Outfitters, ScubaBC. Mackenzie-class destroyer escort, 366ft/112m, ~2,830-2,880 long tons, scuttled 14 June 1997 off Snake Island near Nanaimo. Rests upright 24-40m (80-130ft); most diving 27-30m. Confirmed marine life (2+ sources): plumose anemones, cabezon, lingcod, rockfish (tiger/China/copper), nudibranchs, cloud sponges, shiner perch/baitfish. Removed unconfirmed 'grunt sculpins' claim -- no source found for this species at this specific wreck.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -51,10 +51,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "wikipedia.org,artificialreefsocietybc.ca,nanaimodiveoutfitters.ca",
-      "validation_notes": "442ft Victory Class ship. Keel at 140ft, deck at 70ft. World's second largest artificial reef. Swiss cheese design for penetration. Octopus, wolf eels, lingcod, cabezon.",
-      "last_qa_date": "2026-05-20",
-      "depth_note": "QA 2026-05-20: Corrected keel depth from 42m to 44m per Wikipedia/ARSBC (crow's nest at 12m, main deck at 30m, keel at 44m)"
+      "validation_source": "wikipedia.org,nanaimodiveoutfitters.ca,scubadiverlife.com",
+      "validation_notes": "QA 2026-07-08: Re-verified. Cape-class maintenance ship, laid down 5 Jul 1944, launched 7 Oct 1944 as HMS Flamborough Head, 134.6m (441ft 7in), 8,580 long tons. Scuttled 20 Oct 2001 near Snake Island, Nanaimo. Keel 44m/145ft, main deck 30m/100ft, crow's nest 12m/40ft -- all figures confirmed. Largest artificial reef in the Pacific Northwest (confirmed by 2+ sources); 'world's second-largest artificial reef' claim removed -- it was briefly the world's largest before being surpassed by USS Spiegel Grove in 2002, and further surpassed since by other reefs; this claim is stale/unverifiable as a current ranking. Confirmed marine life (2+ sources): rockfish, lingcod, perch, nudibranchs, feather stars, plumose anemones. Removed unconfirmed 'octopus, wolf eels, cabezon' claims -- not found in any 2026-07-08 source for this specific wreck (only general 'rockfish and invertebrates' language from ScubaBC).",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -63,7 +62,7 @@
     "lon": -124.05,
     "osm_id": null,
     "osm_type": null,
-    "depth": 33,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -71,10 +70,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "wikipedia.org,artificialreefsocietybc.ca,xray-mag.com",
-      "validation_notes": "Destroyer escort DDH, 366ft, sunk 2015 in Halkett Bay. Well-prepared with cutaways and safe penetration. Sits upright 110ft depth. 80 species recorded.",
-      "last_qa_date": "2026-05-20",
-      "difficulty_note": "QA 2026-05-20: Upgraded to Advanced — 33m depth with cold BC water conditions"
+      "validation_source": "wikipedia.org,hakaimagazine.com,cbc.ca",
+      "validation_notes": "QA 2026-07-08: CORRECTED sinking date. Prior data stated 'April 26, 2015' -- this date is not supported by any source found. Wikipedia, Hakai Magazine, and CBC/Globe and Mail coverage all independently agree on April 4, 2015 (one source, X-Ray Mag, states January 17, 2015 -- treated as an outlier and not used). Corrected depth from 33m to 32m keel / 10.5m top per Wikipedia + Hakai Magazine consensus. Annapolis-class destroyer escort, laid down 2 Sep 1961, launched 27 Apr 1963, 366ft/111.6m, 3,420 long tons full load. Confirmed marine life (2+ sources -- North Shore News, CBC, Ocean Wise/ARSBC joint biodiversity study): lingcod, wolf eels, rockfish (copper, yelloweye), anemones, nudibranchs, crabs, prawns, sea stars, mussels, tubeworms, pollock, perch. ~80 species catalogued per Hakai Magazine/ARSBC study. Removed unconfirmed 'cabezon, octopus' claims -- not found in any 2026-07-08 source for this specific wreck.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -83,17 +81,17 @@
     "lon": -123.2906,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dan.org,padi.com,scubabc.ca",
-      "validation_notes": "Premier dive spot multiple skill levels. Inner cove for beginners (15-40ft). Wall dive beyond for advanced. MPA. Rockfish, lingcod, wolf eel, octopus.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "vancouverscubadivingschool.ca,padi.com,zentacle.com",
+      "validation_notes": "QA 2026-07-08: Corrected depth from 12m to 30m -- sources describe an inner cove/ridge zone at 5-12m but the sandy bottom at bay center reaches 100ft/30m and the Whyte Islet wall drops to 15m, with advanced divers going beyond recreational limits toward Queen Charlotte Channel. Difficulty bumped from Beginner to Intermediate per cold-water destination policy (Vancouver Island minimum) -- inner cove remains suitable for training/certification under supervision. Confirmed marine life: chimney/boot/cloud sponges, lingcod, nudibranchs, octopus, wolf eel, grunt sculpin, cabezon, rockfish, kelp greenling, urchins, sea stars, brittle stars, crabs, sea cucumbers, tunicates, Red Irish Lords, resident harbour seals.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -105,14 +103,14 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "justgottadive.com,coldoceandiver.ca,scubabc.ca",
-      "validation_notes": "Provincial Park. Multiple wrecks: Granthall barge, Centennial sailboat, Leaning Tower concrete pillars. Nakaya minesweeper at 70-100ft (advanced). Safe artificial reefs 6-18m.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "justgottadive.com,artificialreefsocietybc.ca,scubaboard.com",
+      "validation_notes": "QA 2026-07-08: Corrected wreck identification -- 'Centennial' is Centennial III, a steel dredge tender, not a sailboat hull; a separate ferrocement sailboat hull also exists at the site as a distinct structure. Granthall confirmed as a 28m steel-hulled tugboat, superstructure removed, sunk 1992, resting ~14m/45ft. Nakaya (WWII wooden minesweeper, ~41m) confirmed to lie outside the official park boundary at 20-30m/65-100ft, in advanced state of decomposition. Difficulty bumped from Beginner to Intermediate per cold-water destination policy -- shallow structures (6-18m) remain beginner-accessible under supervision. Confirmed marine life (ScubaBoard dive report + ARSBC): rockfish, anemones, flounder, brittle stars, decorator crabs, nudibranchs, seasonal lion's mane jellyfish.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -129,9 +127,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubabc.ca,dive.bc.ca,zentacle.com",
-      "validation_notes": "Sunshine Coast. Two islets with rock reef. Granite walls with boot sponges, feather stars, anemones. Max 120ft+. Giant octopus, wolf eels, seals, sea lions, nudibranchs.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "zentacle.com,vancouverscubadivingschool.ca,dan.org",
+      "validation_notes": "QA 2026-07-08: Re-verified depth -- two islets, the shallower ('right') bottoming near 70ft/21m and the deeper ('left') near 120ft/37m, confirming the existing 37m max depth figure. No current at the site per multiple sources (existing 'occasional drift' language softened). Confirmed marine life: wolf eels, giant Pacific octopus, harbour seals, rockfish (yelloweye, copper), grunt sculpin, boot/chimney sponges, nudibranchs, sea stars, crinoids/feather stars, tunicates, anemones, seasonal lion's mane jellyfish. Removed unconfirmed 'sea lions' claim -- only seals confirmed at this specific site.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -140,7 +138,7 @@
     "lon": -123.8167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 21,
+    "depth": 20,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -148,9 +146,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubabc.ca,dive.bc.ca,scubadiving.com",
-      "validation_notes": "Extreme tidal drift between Cedar and Mudge Islands. Currents 5-9 knots. Live boat drop required. Can ride current through narrows. Requires experienced guide.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "elementescapes.ca,pnwdiving.com,dan.org",
+      "validation_notes": "QA 2026-07-08: Depth adjusted from 21m to 20m -- sources report depths in the 55-70ft (17-21m) range, not precisely pinned down; treated as an approximate figure. Confirmed marine life: schools of rockfish, sea stars, mosshead warbonnets, anemones on the Mudge Island side walls, and winter sea lions hunting salmon in the current. Removed unconfirmed 'lingcod, nudibranchs' claims -- not found in any 2026-07-08 source for this specific site (added mosshead warbonnets, which is site-specific and previously missing).",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -167,9 +165,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "racerocks.ca,scubabc.ca,dive.bc.ca",
-      "validation_notes": "Extreme tidal currents 5-7 knots. Slack tide only (6.5hr windows). 17km SW of Victoria. Ecological reserve. Sea lions, kelp forests, wreck debris. Spring/Fall best.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "racerocks.ca,coldoceandiver.ca,vancouverisland.com",
+      "validation_notes": "QA 2026-07-08: Depth kept at 25m as a representative figure; sources give a range -- most interest concentrated at 9-12m/30-40ft, general depths within 100ft/30m, and the ecological reserve boundary extends to 120ft/37m. Confirmed marine life: resident male California and Steller sea lion colony (year-round), harbour seals, occasional northern elephant seals, kelp forests. Removed unconfirmed 'giant Pacific octopus, colorful invertebrates' claims -- not found in any 2026-07-08 source specific to this site.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -178,7 +176,7 @@
     "lon": -123.3881,
     "osm_id": null,
     "osm_type": null,
-    "depth": 27,
+    "depth": 32,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -186,9 +184,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "zentacle.com,coldoceandiver.ca,scubabc.ca",
-      "validation_notes": "Victoria Breakwater. Beginner-accessible inner sections (few ft to 25ft), advanced sections beyond (to 90ft). Cold water. Currents possible. Excellent photography. Barnacles/kelp on entry.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "elementescapes.ca,coldoceandiver.ca,scubaboard.com",
+      "validation_notes": "QA 2026-07-08: Depth adjusted from 27m to 32m -- sources describe a shallow bay to ~8m, a mid-section to ~25m, and deepest sections at 28-35m; 32m used as a representative figure within that range, noted as a range in the description. Confirmed marine life: rockfish, giant Pacific octopus, lingcod, greenlings, scallops, crabs, nudibranchs, wolf eels, kelp forest. Breakwater extends 800m into the water.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -205,10 +203,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubabc.ca,dive.bc.ca,scubadiving.com",
-      "validation_notes": "World's fastest tidal rapids. 16-17.68 knots current. North America's fastest. 2m height difference. Extreme rare slack tide windows. Scuba equivalent of Everest. Emerald-green water.",
-      "last_qa_date": "2026-05-20",
-      "difficulty_note": "QA 2026-05-20: Changed Expert to Advanced (extreme current site — dive only at slack, live-boat required)"
+      "validation_source": "divernet.com,scubaverse.com,wikipedia.org",
+      "validation_notes": "QA 2026-07-08: Current speed 16-17.68 knots re-confirmed via divernet.com ('The Skook: Diving the world's fastest tidal rapids') and scubaverse.com -- North America's fastest tidal rapids. Depth kept at 20m as approximate; Wikipedia gives mean channel depth ~15m, dive descriptions reference current-swept walls to ~20m -- noted as approximate given imprecise sourcing. Confirmed marine life (divernet.com/scubaverse.com): colorful sea anemones and sponges on current-swept walls; broader species inventory remains unconfirmed/limited due to rarity of diveable slack windows -- description explicitly notes this limitation rather than padding with a generic list.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -225,9 +222,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "godspocketresort.com,dive.bc.ca,scubabc.ca",
-      "validation_notes": "20km NW Port Hardy, Hurst Island. Strong current walls, timed to slack tide. Browning Wall: one of best in North America. Orange/red anemones, soft corals, sponges, nudibranchs.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "godspocket.com,scubadiving.com,bcparks.ca",
+      "validation_notes": "QA 2026-07-08: Re-verified. God's Pocket Marine Provincial Park encompasses Hurst and Bell Islands, ~20km NW of Port Hardy, accessible only by boat/floatplane; includes named sites Browning Wall, Seven Tree Island, Buttertart Reef, Hussar Point. Operator (godspocket.com) requires minimum 100 total dives / 50 cold-water-drysuit dives. Water temp 7-9C. godspocketresort.com domain is now dead (DNS failure) -- replaced with current operator domain godspocket.com. Confirmed marine life: giant Pacific octopus, nudibranchs, metridium anemones, orange/red soft corals, sponges, sculpins.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -236,17 +233,17 @@
     "lon": -124.1333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubabc.ca,dive.bc.ca,zentacle.com",
-      "validation_notes": "26km N of Nanaimo, 15km S of Parksville. Madrona Point: multiple walls (Small, Mid, Maze to 60ft; Main to 90ft advanced). Wall Beach. Sea lions 1000+ lbs. Octopus, rockfish, lingcod.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "scubabc.ca,visitparksvillequalicumbeach.com,elementescapes.ca",
+      "validation_notes": "QA 2026-07-08: Corrected depth from 18m to 30m -- Madrona Point has three named walls: Small Wall (~15m/50ft), Mid Wall (~19m/65ft), and the Main/Big Wall (~30m/100ft); 30m reflects the site's true maximum. Difficulty bumped from Beginner to Intermediate per cold-water destination policy -- Small/Mid Walls remain accessible to less experienced divers. Confirmed marine life: California sea lions (fall/winter, near a former log dump), Steller sea lions (1000+ lbs), giant Pacific octopus, wolf eels.",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -263,9 +260,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dan.org,zentacle.com,scubabc.ca",
-      "validation_notes": "Lions Bay, 10km N of Horseshoe Bay, Howe Sound. Protected bay + sheer walls. Two walls to 130ft+. Rocky reef near beach (12m). Boot sponges, cloud sponges. Octopus common.",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "fvscuba.org,zentacle.com,coldoceandiver.ca",
+      "validation_notes": "QA 2026-07-08: Re-verified. Recreational wall max ~27m/90ft (sandy ledges at 24-28m/80-90ft) confirmed by 2+ sources; the wall itself continues beyond 40m/130ft for technical divers, noted as beyond recreational scope. Confirmed marine life: giant Pacific octopus (dens marked by discarded crab shells), wolf eels, crabs, lingcod, flatfish, rockfish, sea pens, greenlings, sea stars, nudibranchs, jellyfish, tubesnouts, sea cucumbers, tubeworms, plumose anemones, prawns, cloud sponges, boot sponges, occasional seals.",
+      "last_qa_date": "2026-07-08"
     }
   }
 ]

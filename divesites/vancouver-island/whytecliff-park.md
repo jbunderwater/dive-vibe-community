@@ -2,8 +2,8 @@
 name: Whytecliff Park
 lat: 49.3714
 lng: -123.2906
-difficulty: Beginner
-maxDepth: 12
+difficulty: Intermediate
+maxDepth: 30
 entryType: shore
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Whytecliff Park
 
-Whytecliff Park is the premier dive site on Vancouver Island's North Shore, accommodating divers of all skill levels. Located on the western tip of West Vancouver just south of Horseshoe Bay, it features an inner cove suitable for beginners and certification training, while advanced divers venture to deeper walls toward the Queen Charlotte Channel. Whytecliff Park Marine Protected Area is a designated conservation zone.
+Whytecliff Park is one of the premier dive sites near Vancouver, accommodating divers of a range of skill levels within one location. Located on the western tip of West Vancouver just south of Horseshoe Bay, it features an inner cove used for certification training, while more experienced divers venture to deeper walls and a sandy bay bottom toward the Queen Charlotte Channel. Whytecliff Park Marine Protected Area is a designated conservation zone.
 
 ## Overview
 
-Whytecliff Park is a world-renowned dive destination featuring different depth zones and challenges for all experience levels. The inner cove offers shallow diving (15-40 feet) ideal for beginners and certification training. Intermediate and advanced divers explore an extensive network of walls, ridges, and deeper terrain. The site features excellent marine life, clear water, and comprehensive park facilities making it one of North America's most accessible quality dive sites.
+Whytecliff Park features different depth zones for different experience levels. The inner cove and ridge area offers shallow diving (roughly 5-12 meters) used for certification training. From there, a sloping rocky wall off Whyte Islet drops to about 15 meters, and the sandy bottom at the center of the bay reaches roughly 30 meters — more experienced divers push out toward Queen Charlotte Channel to depths beyond typical recreational limits. As a cold-water BC site with a real range of depths and current, this destination is rated Intermediate overall even though its inner cove remains suitable for supervised beginner and certification dives.
 
 ## Site Information
 
 - **Location**: West Vancouver, western tip, 15 minutes from Lions Gate Bridge
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-20 meters
-- **Current**: Variable, can be strong (more in outer areas)
+- **Current**: Variable, can be strong (more in outer areas); thick plankton cloud common in summer
 - **Best Time**: Year-round (summer warmest)
 
 ## Marine Life
 
-Whytecliff Park Marine Protected Area features diverse marine life including rockfish, lingcod, crab, sculpin, anemones, starfish, occasional wolf eels, and giant Pacific octopus. The MPA status protects these populations. Harbor seals are regular visitors.
+Sources (Vancouver Scuba Diving School, PADI, Zentacle) describe an anemone garden, rockfish, lingcod, kelp greenling, urchins, sea stars, brittle stars, crabs, sea cucumbers, tunicates, and Red Irish Lords in the shallower areas, with chimney/boot/cloud sponges, nudibranchs, and occasional octopus, wolf eel, grunt sculpin, and cabezon reported at deeper points. Resident harbour seals are regular visitors and sometimes join divers.
 
 ## Dive Profile
 
-Beginner dives explore the inner cove (5-12 meters) with walls of stars and various depths. Certification classes typically occur here with safe, controlled environments. Intermediate dives progress to the ridge and plumose anemone forest (12-20 meters). Advanced/technical divers venture beyond the ridge to sloping walls with sandy ledges reaching well beyond recreational limits. Most recreational diving occurs between 5-20 meters.
+Certification classes and easier dives use the inner cove (5-12 meters). From there, dives progress to the ridge and plumose anemone forest (roughly 12-20 meters), then to the Whyte Islet wall (to about 15 meters) or the sandy bay bottom toward the center (to about 30 meters). Divers pushing toward Queen Charlotte Channel can go beyond typical recreational limits, so depth discipline matters here more than the "beginner site" reputation suggests.
 
 ## Entry and Exit
 
@@ -55,9 +55,9 @@ Shore entry requires careful navigation through the park's rocky area. Divers de
 
 ## Safety Considerations
 
-This is a beginner-to-expert site with considerations:
-- Beginner areas (inner cove 5-12m) suitable for newly certified divers
-- Advanced areas (outer walls) require experience and depth certification
+This site spans a wide range of conditions, from the training-friendly inner cove to deeper walls and open-bay depths beyond 30 meters:
+- Inner cove (5-12m) suitable for newly certified divers under supervision
+- Outer walls and the sandy bay bottom require Intermediate certification and depth awareness
 - Cold water (8-12°C) essential
 - Thermal protection required (7mm+ wetsuit or drysuit)
 - Designated Marine Protected Area — respect conservation status
@@ -70,7 +70,7 @@ This is a beginner-to-expert site with considerations:
 
 Excellent opportunities for all skill levels. Beginner photographers can capture the wall structures and marine life. Advanced photographers can pursue macro subjects in wall crevices and anemone fields. The MPA status means healthy, thriving ecosystems with excellent photographic subjects.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against Vancouver Scuba Diving School, PADI, and Zentacle
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [Vancouver Scuba Diving School — Whytecliff Park](https://www.vancouverscubadivingschool.ca/whytecliff-park/), [PADI — Whytecliff Park dive site](https://www.padi.com/dive-site/canada/whytecliff-park/), [Zentacle — Whytecliff Park](https://www.zentacle.com/Beach/1519/whytecliff-park). Last updated 2026-07-08.*

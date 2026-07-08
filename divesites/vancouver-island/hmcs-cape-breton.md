@@ -32,7 +32,7 @@ HMCS Cape Breton was originally launched in 1944 as HMS Flamborough Head, a Beac
 
 ## Marine Life
 
-The Cape Breton is heavily colonized with marine life. Residents include octopus (especially in hidden spaces), wolf eels, lingcod (large specimens common), cabezon, anemones, filter feeders, and numerous fish species. The wreck structure provides exceptional habitat, creating one of British Columbia's most productive artificial reefs.
+Sources specific to the Cape Breton (Nanaimo Dive Outfitters, ScubaBC) confirm rockfish, lingcod, perch, nudibranchs, feather stars, and plumose anemones on the wreck. Earlier drafts of this page also listed octopus, wolf eels, and cabezon here; no source found during this review confirms those species specifically at the Cape Breton (as opposed to the nearby Saskatchewan or other BC wrecks), so they have been removed pending better documentation. The wreck structure provides exceptional habitat, creating one of British Columbia's most productive artificial reefs.
 
 ## Dive Profile
 
@@ -71,7 +71,7 @@ The Cape Breton's intentional design with cutaways makes penetration safer than 
 
 The wreck provides dramatic wide-angle subjects with natural light filtering through portholes and openings. Torches illuminate interior details and bring out colors of anemones and other life. Macro opportunities abound on the heavily colonized hull surfaces. The scale of the wreck creates impressive depth perspectives.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against Wikipedia, Nanaimo Dive Outfitters, and Scuba Diver Life
 
 ---
-*Sources: [Wikipedia — HMCS Cape Breton (ARE 100)](https://en.wikipedia.org/wiki/HMCS_Cape_Breton_(ARE_100)), [ARSBC — Cape Breton](https://artificialreefsocietybc.ca/), [Nanaimo Dive Outfitters — HMCS Cape Breton](https://www.nanaimodiveoutfitters.ca/dive-sites/hmcs-cape-breton/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives). Last updated 2026-05-20.*
+*Sources: [Wikipedia — HMCS Cape Breton (ARE 100)](https://en.wikipedia.org/wiki/HMCS_Cape_Breton_(ARE_100)), [Nanaimo Dive Outfitters — HMCS Cape Breton](https://www.nanaimodiveoutfitters.ca/dive-sites/hmcs-cape-breton/), [Scuba Diver Life — Nanaimo Wreck Diving](https://scubadiverlife.com/nanaimo-wreck-diving/). Last updated 2026-07-08.*

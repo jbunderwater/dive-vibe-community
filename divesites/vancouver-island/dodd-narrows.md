@@ -3,7 +3,7 @@ name: Dodd Narrows
 lat: 49.1333
 lng: -123.8167
 difficulty: Advanced
-maxDepth: 21
+maxDepth: 20
 entryType: boat
 siteType: drift
 ref: null
@@ -25,14 +25,14 @@ Dodd Narrows is a tidal drift site where most of the water flow from two inlets 
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5-15 meters
-- **Current**: Extreme tidal current 5-9 knots average
-- **Best Time**: Summer and early fall
+- **Current**: Extreme tidal current, up to 9 knots
+- **Best Time**: Summer and early fall; sea lions present in winter
 
 ## Marine Life
 
-The strong currents create habitat diversity. Divers encounter rockfish, lingcod, starfish, anemones, nudibranchs, and other invertebrates. The narrow passage and current mix create interesting ecosystems along the narrows.
+Element Escapes describes schools of rockfish, sea stars, and mosshead warbonnets in the narrows, with the Mudge Island side walls covered in colorful anemones and other invertebrates. In winter, California and Steller sea lions have been observed hunting salmon in the swift current. Earlier drafts of this page also listed lingcod and nudibranchs; those weren't confirmed for this specific site during this review, so they've been removed.
 
 ## Dive Profile
 
@@ -73,7 +73,7 @@ Strong currents (5-9 knots) make this unsafe for less-experienced divers. Always
 
 Current makes detailed photography challenging. Wide-angle shots during brief slack periods and macro subjects on narrows walls are best. Bring stabilized equipment.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against Element Escapes, PNW Diving, and Divers Alert Network
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [Element Escapes — Dodd Narrows Dive Site](https://elementescapes.ca/dive-sites/dodd-narrows/), [PNW Diving — Dodd's Narrows](https://pnwdiving.com/dodds-narrows), [Divers Alert Network — Nanaimo](https://dan.org/alert-diver/article/nanaimo/). Last updated 2026-07-08.*

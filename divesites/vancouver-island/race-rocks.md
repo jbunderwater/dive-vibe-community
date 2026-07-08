@@ -32,7 +32,7 @@ Race Rocks is an ecological reserve protecting intertidal and subtidal communiti
 
 ## Marine Life
 
-The strong tidal currents create an exceptionally rich ecosystem. Divers encounter California and Steller sea lions (over 1000 lbs), kelp forests, and rocky pinnacles teeming with life. Additional residents include rockfish, lingcod, giant Pacific octopus, and colorful invertebrates. The ecological reserve status protects these communities.
+Race Rocks Ecological Reserve is home to a resident year-round male colony of California and Steller sea lions, along with resting harbour seals and occasional northern elephant seals (racerocks.ca). Kelp forests line the rocky terrain. Earlier drafts of this page also listed giant Pacific octopus and unspecified "colorful invertebrates" here; no site-specific source was found for those claims during this review, so they've been removed. Rockfish and lingcod are typical of the wider Strait of Juan de Fuca but weren't individually confirmed for this site.
 
 ## Dive Profile
 
@@ -71,7 +71,7 @@ Down currents occur when the tide is running. Strong tidal flows make this unsaf
 
 Current and bio-density make photography challenging but rewarding. Wide-angle shots of sea lions and kelp forests are possible during slack periods. Bring macro equipment for nudibranchs and invertebrates on pinnacles.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against Race Rocks Ecological Reserve, Cold Ocean Diver, and Vancouver Island tourism
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [Race Rocks Ecological Reserve](https://racerocks.ca/), [Cold Ocean Diver — Race Rocks](https://coldoceandiver.ca/race-rocks), [VancouverIsland.com — Race Rocks Ecological Reserve](https://vancouverisland.com/things-to-do-and-see/parks-and-trails/vancouver-island-bc-islands/race-rocks-ecological-reserve/). Last updated 2026-07-08.*

@@ -32,7 +32,7 @@ HMCS Saskatchewan rests near Snake Island in Nanaimo with her deck at approximat
 
 ## Marine Life
 
-The wreck is heavily colonized with marine life. Plumose anemones form dense clusters that serve as nurseries for juvenile fish. Other residents include cabezon, lingcod, rockfish, cloud sponges, and grunt sculpins. The entire wreck structure is covered in invertebrate life, creating both a thriving ecosystem and excellent photography opportunities.
+The wreck is heavily colonized with marine life. Plumose anemones form dense clusters that serve as nurseries for juvenile fish. Confirmed residents (Nanaimo Dive Outfitters, ScubaBC) include cabezon, lingcod, rockfish (including tiger, China and copper rockfish), nudibranchs, cloud sponges, and schools of shiner perch/baitfish. An earlier draft of this page listed "grunt sculpins" here; no source found during this review confirms that species at this specific wreck, so it has been removed.
 
 ## Dive Profile
 
@@ -68,7 +68,7 @@ This is an advanced-only site. Requirements:
 
 The wreck provides dramatic wide-angle subjects with natural light through openings and portholes. Torches illuminate interior details and bring out the colors of anemones and other encrusting organisms. Macro opportunities abound on the heavily colonized surfaces.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against Wikipedia, Nanaimo Dive Outfitters, and ScubaBC
 
 ---
-*Sources: [Wikipedia — HMCS Saskatchewan (DDE 262)](https://en.wikipedia.org/wiki/HMCS_Saskatchewan_(DDE_262)), [ARSBC — Saskatchewan](https://artificialreefsocietybc.ca/saskatchewan.html), [Nanaimo Dive Outfitters — HMCS Saskatchewan](https://www.nanaimodiveoutfitters.ca/dive-sites/hmcs-saskatchewan/), [ScubaBC — Wreck Diving on Vancouver Island](https://www.scubabc.ca/wreck-diving-on-vancouver-island/). Last updated 2026-05-20.*
+*Sources: [Wikipedia — HMCS Saskatchewan (DDE 262)](https://en.wikipedia.org/wiki/HMCS_Saskatchewan_(DDE_262)), [Nanaimo Dive Outfitters — HMCS Saskatchewan](https://www.nanaimodiveoutfitters.ca/dive-sites/hmcs-saskatchewan/), [ScubaBC — Wreck Diving on Vancouver Island](https://www.scubabc.ca/wreck-diving-on-vancouver-island/). Last updated 2026-07-08.*

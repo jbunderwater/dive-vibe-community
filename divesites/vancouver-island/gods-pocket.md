@@ -17,7 +17,7 @@ God's Pocket Marine Provincial Park, located 20 kilometers northwest of Port Har
 
 ## Overview
 
-God's Pocket is an off-grid dive lodge nestled in BC's temperate rainforest in a protected bay on Hurst Island. The marine park encompasses Hurst Island and Bell Island with multiple world-class wall dive sites. Strong tidal currents flow through Browning Passage, mixing nutrients from deep and surface waters, creating perfect conditions for incredible biodiversity and brilliant invertebrate colors. This is the ultimate advanced cold-water wall diving destination.
+God's Pocket Marine Provincial Park encompasses Hurst Island and Bell Island, about 20km northwest of Port Hardy, and is accessible only by boat or floatplane. It includes several named dive sites beyond Browning Wall, including Seven Tree Island, Buttertart Reef, and Hussar Point. Strong tidal currents flow through Browning Passage, mixing nutrients from deep and surface waters, creating conditions for dense invertebrate colonization. Water temperature runs 7-9C; the main local operator, God's Pocket Resort, requires a minimum of 100 total dives (at least 50 in cold water/drysuit) before diving here — this is an advanced-only cold-water wall diving destination.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ God's Pocket is an off-grid dive lodge nestled in BC's temperate rainforest in a
 
 ## Marine Life
 
-The strong current-driven nutrient upwelling creates exceptional biodiversity. Divers encounter dazzling reefs with brilliant red soft corals, bright yellow sponges, fields of giant white fluffy anemones, and towering kelp forests. Additional marine life includes rockfish, lingcod, cabezon, wolf eels, sea lions, and other cold-water species thriving in the nutrient-rich waters.
+The strong current-driven nutrient upwelling supports dense invertebrate growth. Confirmed residents across the park's named sites (God's Pocket Resort, Scuba Diving Magazine) include giant Pacific octopus, nudibranchs (including *Dirona albolineata*), glove sponges, metridium anemones, and orange/red soft corals. Rockfish, lingcod, and other cold-water reef species are typical of the wider Browning Passage area but were not individually confirmed at a site level for this review; kelp forests line the shallower margins of several sites in the park.
 
 ## Dive Profile
 
@@ -73,7 +73,7 @@ Strong tidal currents (timed to slack tide) are the defining feature of this sit
 
 The walls are among the most colorful in North America. Brilliant reds, oranges, and yellows of soft corals and sponges create stunning wide-angle compositions. The interplay of light and shadow along the wall creates dramatic depth. Macro photography of nudibranchs and other invertebrates is exceptional. Underwater lights are essential to capture the true colors.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against God's Pocket Resort, Scuba Diving Magazine, and BC Parks
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [God's Pocket Resort](https://www.godspocket.com/), [Scuba Diving Magazine — Deep in God's Pocket](https://www.scubadiving.com/travel/canada/deep-gods-pocket), [BC Parks — God's Pocket Marine Park](https://bcparks.ca/gods-pocket-marine-park/). Last updated 2026-07-08. Note: the prior validation_source domain godspocketresort.com no longer resolves; the operator's current domain is godspocket.com.*

@@ -27,12 +27,12 @@ Tuwanek is located in the peaceful cottage community of Tuwanek on the eastern s
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: 10-20 meters (excellent for the area)
-- **Current**: Generally manageable; occasional drift
+- **Current**: Minimal to none reported at this site
 - **Best Time**: Year-round (summer warmest)
 
 ## Marine Life
 
-Tuwanek is famous for its marine megafauna and invertebrate diversity. Giant Pacific octopus, wolf eels, seals, and sea lions are commonly seen. Additional residents include lingcod, flatfish, rockfish, greenlings, crabs, nudibranchs, cloud sponges, boot sponges, feather stars, sea cucumbers, anemones, and numerous other invertebrates and fish species.
+Tuwanek is known for wolf eel and giant Pacific octopus encounters, along with resident harbour seals (Zentacle, Vancouver Scuba Diving School). Confirmed invertebrate and fish life includes yelloweye and copper rockfish, grunt sculpin, boot and chimney sponges, nudibranchs, sea stars (including rose stars), crinoids/feather stars, tunicates, anemones, and — in fall — lion's mane jellyfish. An earlier draft of this page also listed sea lions here; no source found during this review confirms sea lions specifically at Tuwanek, so that claim has been removed.
 
 ## Dive Profile
 
@@ -61,15 +61,14 @@ This is an intermediate-level site with the following:
 - Excellent buoyancy control for wall dives
 - Thermal protection essential (7mm+ wetsuit or drysuit)
 - Always dive with a buddy
-- Watch depth carefully as walls drop significantly
+- Watch depth carefully as walls drop significantly (to ~37m off the deeper islet)
 - Use SMB for ascents
-- The site can have occasional drift current; be prepared
 
 ## Photography
 
 This site is exceptional for macro photography of nudibranchs, feather stars, and other invertebrates. Wide-angle shots of the islet formations and walls create dramatic compositions. Octopus and eel encounters provide unforgettable subjects. The calm water often creates excellent visibility for photography.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against Zentacle, Vancouver Scuba Diving School, and Divers Alert Network
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [Zentacle — Tuwanek Beach](https://www.zentacle.com/Beach/1470/tuwanek-beach), [Vancouver Scuba Diving School — Tuwanek](https://www.vancouverscubadivingschool.ca/tuwanek/), [Divers Alert Network — Diving on Sunshine](https://dan.org/alert-diver/article/diving-on-sunshine/). Last updated 2026-07-08.*
