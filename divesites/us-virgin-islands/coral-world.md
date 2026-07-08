@@ -23,7 +23,7 @@ The dive site sits next to Coki Beach and Coral World Ocean Park on St. Thomas's
 
 - **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 17 meters
 

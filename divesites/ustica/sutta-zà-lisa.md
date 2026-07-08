@@ -3,7 +3,7 @@ name: Sutta zà Lisa
 lat: 38.6920525
 lng: 13.1624883
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null

@@ -23,7 +23,7 @@ Cow and Calf sit off the southeast coast of St. Thomas, where two rock formation
 
 - **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 

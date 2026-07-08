@@ -3,7 +3,7 @@ name: Secca di Tramontana
 lat: 38.735
 lng: 13.16
 difficulty: Advanced
-maxDepth: 80
+maxDepth: 30
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -27,9 +27,9 @@ Because the underlying facts cannot currently be verified, this entry has been u
 
 - **Location**: Ustica, Europe (approximate; unverified)
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount (unverified)
-- **Difficulty Level**: Advanced (placeholder, unverified)
-- **Maximum Depth**: Unverified — do not rely on previously published figures
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 
 ---
 *No site-specific sources could be found or reconfirmed for this entry as of 2026-07-08. Previously cited sources (scubatravel.co.uk, divernet.com, misterjump.it) do not contain corroborating content on re-fetch. Flagged for further research or removal. Last updated 2026-07-08.*

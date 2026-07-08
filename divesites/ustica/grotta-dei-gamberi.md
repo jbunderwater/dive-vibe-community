@@ -17,9 +17,9 @@ Grotta dei Gamberi (Shrimp Cave) is one of the most celebrated cave dives in the
 
 ## Overview
 
-The cave entrance is an elliptical arch at approximately 40 metres depth, opening into a main chamber roughly 50 metres wide with a vaulted ceiling approximately 10 metres high. The chamber walls are covered with thousands of Plesionika narval — the unicorn shrimp, named for its long pointed rostrum — which are photophobic and emerge in the darkness of the cave. The cave narrows into a tunnel with exits ascending back up to 24-28 metres, allowing divers to leave without reversing. Additional documented species include the blue nudibranch Facelina coronata, Peltodoris atromaculata, Pinna nobilis fan shells, conger eels, lobsters, and forkbeards. Outside the exits, groupers, sea breams, and slipper lobsters hold station on the volcanic rock.
+The cave entrance is an elliptical arch at approximately 40 metres depth (just under 2 metres high and about 6 metres wide) on a sandy seabed, opening into a main chamber with a vaulted ceiling approximately 10 metres high and a diameter of 30 metres or more. The chamber walls are covered with thousands of Plesionika narval — the unicorn shrimp, named for its long pointed rostrum — which are photophobic and emerge in the darkness of the cave. The cave narrows into a corridor exiting at approximately 24 metres, allowing divers to leave without reversing. Additional documented species include the blue nudibranch Facelina coronata, Peltodoris atromaculata, Pinna nobilis fan shells, conger eels, lobsters, and forkbeards. Outside the exits, groupers, sea breams, and slipper lobsters hold station on the volcanic rock.
 
-Note: multiple sources give conflicting total route lengths (approximately 130m to 320m depending on the route taken through the cave system). The main chamber dimensions are approximately 50m wide and 20m long.
+Note: sources give conflicting total route lengths for the cave system — Orca Diving Ustica states approximately 320 metres, while Scuba Travel states approximately 130 metres. Both figures are retained here as an unresolved discrepancy rather than picking one.
 
 ## Site Information
 
@@ -30,4 +30,4 @@ Note: multiple sources give conflicting total route lengths (approximately 130m 
 - **Maximum Depth**: 40 meters
 
 ---
-*Sources: [Orca Diving Ustica - Grotta dei Gamberi](https://www.orcadivingustica.com/en/dive-sites/grotta-dei-gamberi), [Profondo Blu Diving - Beneath the Volcano](https://profondobludiving.com/content/beneath-the-volcano.html), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html). Last updated 2026-06-08.*
+*Sources: [Orca Diving Ustica - Grotta dei Gamberi](https://www.orcadivingustica.com/en/dive-sites/grotta-dei-gamberi), [Profondo Blu Diving - Beneath the Volcano](https://profondobludiving.com/content/beneath-the-volcano.html), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html). Last updated 2026-07-08.*

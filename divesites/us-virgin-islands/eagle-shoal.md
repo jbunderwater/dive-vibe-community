@@ -23,7 +23,7 @@ Eagle Shoal is a coral mound rising from deep water to within a few feet of the 
 
 - **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 

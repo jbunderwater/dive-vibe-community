@@ -29,7 +29,7 @@ Sources disagree on maximum depth (19-22 metres depending on source) and the pre
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 19 meters (sources report 19-22m)
+- **Maximum Depth**: 19 meters
 
 ---
 *Sources: [Orca Diving Ustica - Grotta della Pastizza](https://www.orcadivingustica.com/en/dive-sites/grotta-della-pastizza), [EnjoyScilia - Grotta della Pastizza](https://www.enjoysicilia.it/en/isola-di-ustica/ustica/grotta-della-pastizza-a-ustica/), [Mister Jump - Grotta della Pastizza](https://www.misterjump.it/immersioni-ustica/grotta-della-pastizza). Last updated 2026-07-08.*

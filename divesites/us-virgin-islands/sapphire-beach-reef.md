@@ -23,7 +23,7 @@ Sapphire Beach sits on St. Thomas's eastern side, a short drive from Charlotte A
 
 - **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
 

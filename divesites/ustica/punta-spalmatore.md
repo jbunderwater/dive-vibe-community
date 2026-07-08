@@ -17,7 +17,7 @@ Punta Spalmatore is a reef dive site in Ustica, Europe.
 
 ## Overview
 
-Punta Spalmatore lies at the northwestern tip of Ustica near the lighthouse, where shallow black volcanic rock slopes give way to posidonia meadows and scattered reefs typical of Italy's first Marine Protected Area. The site sits in Zone A of the reserve — the strictest no-take zone — which has allowed populations of grouper, wrasse, and sea bream to recover to densities rarely seen elsewhere in the Mediterranean. Calm conditions and a maximum depth of 12 metres make this one of Ustica's most accessible shore entries, ideal for photography or a relaxed first dive on the island.
+Punta Spalmatore lies on the western side of Ustica, between the island's lighthouse and the Torre di Punta Spalmatore, where shallow black volcanic rock slopes give way to posidonia meadows and scattered reefs typical of Italy's first Marine Protected Area. The site sits in Zone A of the reserve — the strictest no-take zone — which has allowed populations of grouper, wrasse, and sea bream to recover to densities rarely seen elsewhere in the Mediterranean. Along with Cala Sidoti, this is consistently cited as one of Ustica's best snorkelling and shallow-dive spots. Calm conditions and a maximum depth of 12 metres make this one of Ustica's most accessible shore entries, ideal for photography or a relaxed first dive on the island.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Punta Spalmatore lies at the northwestern tip of Ustica near the lighthouse, whe
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Evasioni Blu Diving - Le Piramidi](https://www.evasionibludiving.com/eng/198-piramidi.asp), [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html). Last updated 2026-06-08.*
+*Sources: [Evasioni Blu Diving - Le Piramidi](https://www.evasionibludiving.com/eng/198-piramidi.asp), [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html). Last updated 2026-07-08.*

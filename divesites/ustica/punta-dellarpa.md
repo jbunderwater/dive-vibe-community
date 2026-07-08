@@ -27,7 +27,7 @@ Sources report maximum depths between 34 and 42 metres for this site, depending 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (sources report 34-42m)
+- **Maximum Depth**: 40 meters
 
 ---
 *Sources: [Orca Diving Ustica - Punta dell'Arpa](https://www.orcadivingustica.com/en/dive-sites/punta-dellarpa), [Tribloo - Punta dell'Arpa](https://www.tribloo.com/en/dive-sites/613/punta-dellarpa.html), [Divernet - Ustica: Sicily's Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-07-08.*

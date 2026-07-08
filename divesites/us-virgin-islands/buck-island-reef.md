@@ -23,7 +23,7 @@ Buck Island Reef National Monument sits about 1.5 miles north of St. Croix and w
 
 - **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 

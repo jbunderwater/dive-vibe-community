@@ -32,4 +32,4 @@ The outer walls carry orange madrepore (Astroides calycularis) and yellow gorgon
 - **Maximum Depth**: 40 meters
 
 ---
-*Sources: [Evasioni Blu Diving - Le Piramidi](https://www.evasionibludiving.com/eng/198-piramidi.asp), [Profondo Blu Diving - Beneath the Volcano](https://profondobludiving.com/content/beneath-the-volcano.html), [X-Ray Mag - Ustica Diving](https://xray-mag.com/content/ustica). Last updated 2026-06-08.*
+*Sources: [Evasioni Blu Diving - Le Piramidi](https://www.evasionibludiving.com/eng/198-piramidi.asp), [Profondo Blu Diving - Beneath the Volcano](https://profondobludiving.com/content/beneath-the-volcano.html), [X-Ray Mag - Ustica Diving](https://xray-mag.com/content/ustica). Last updated 2026-07-08.*
