@@ -28,4 +28,4 @@ Grotta Azzurra (Blue Grotto) is one of Ustica's most accessible cave sites, loca
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [EnjoyScilia - Grotta Azzurra Ustica](https://www.enjoysicilia.it/en/isola-di-ustica/ustica/grotta-azzurra-a-ustica/), [Divessi - Grotta Azzurra](https://www.divessi.com/en/mydiveguide/divesite/grotta-azzurra-italy-202415), [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-06-08.*
+*Sources: [EnjoyScilia - Grotta Azzurra Ustica](https://www.enjoysicilia.it/en/isola-di-ustica/ustica/grotta-azzurra-a-ustica/), [Divessi - Grotta Azzurra](https://www.divessi.com/en/mydiveguide/divesite/grotta-azzurra-italy-202415), [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-07-08.*

@@ -27,12 +27,12 @@ Skookumchuck Narrows is a strait forming the entrance of Sechelt Inlet on Britis
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-20 meters (emerald-green water during slack)
-- **Current**: 16-17.7 knots (North America's fastest tidal rapids)
+- **Current**: 16-17.68 knots (North America's fastest tidal rapids)
 - **Best Time**: Rare slack tide windows only (a handful per year during daylight)
 
 ## Marine Life
 
-During slack tide windows, divers witness an emerald-green underwater environment. Information on specific marine life is limited due to extreme rarity of diveable conditions. Typical cold-water species may be present during slack tides.
+Divernet.com and Scubaverse describe a current-swept wall covered in colorful sea anemones and sponges. Beyond that, a broader species inventory is not well documented — dive reports focus overwhelmingly on the current itself rather than cataloguing marine life, likely because diveable slack windows are so rare. Typical cold-water BC species may be present during slack tides, but this page does not attribute specific species beyond anemones and sponges, since no site-specific source confirms them.
 
 ## Dive Profile
 
@@ -72,7 +72,7 @@ Current speeds of 16-17.7 knots make this among the world's most dangerous divin
 
 The emerald-green water visible during rare slack tide windows is a photographer's dream. Natural light creates otherworldly conditions. Bring appropriate lighting for depth and color.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against Divernet, Scubaverse, and Wikipedia
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [Divernet — The Skook: Diving the World's Fastest Tidal Rapids](https://divernet.com/world-dives/north-central-america/the-skook-diving-the-worlds-fastest-tidal-rapids/), [Scubaverse — Diving into the World's Fastest Tidal Rapids](https://scubaverse.com/diving-into-the-worlds-fastest-tidal-rapids/), [Wikipedia — Skookumchuck Narrows](https://en.wikipedia.org/wiki/Skookumchuck_Narrows). Last updated 2026-07-08.*

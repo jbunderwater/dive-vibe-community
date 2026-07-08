@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cane Bay Wall
 
-Cane Bay Wall is a wall dive site in US Virgin Islands, Caribbean.
+Cane Bay Wall is St. Croix's signature dive: a shore-accessible coral wall that drops from around 12 meters into the Virgin Islands Trough.
 
 ## Overview
 
-Cane Bay Wall is St. Croix's most celebrated dive, a vertical coral wall that begins in just 12 meters before dropping sheer to over 900 meters — one of the steepest near-shore drop-offs in the Caribbean. The wall face is covered in black coral trees, massive barrel sponges, and branching black wire coral, with deep-water species like black durgon, creole wrasse in vast schools, and occasional whale sharks visible in the blue at depth. The site is accessible as a shore dive from Cane Bay beach, with the reef starting right off the shoreline, making it extraordinary accessible for such a dramatic wall.
+Cane Bay Wall begins roughly 100 yards off Cane Bay Beach on St. Croix's north shore, where the reef slopes down to about 12 meters (40 feet) before the wall falls away into open water thousands of feet deep. Shore access to a wall dive of this scale is unusual in the Caribbean, and the site is consistently rated among the region's best. Coral gardens with sea fans and hard and soft corals line the top of the drop-off, and the site hosts a coral restoration nursery run by The Nature Conservancy — divers may see the tree-shaped outplanting structures used to grow elkhorn and staghorn coral fragments for reef restoration.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Cane Bay Wall is St. Croix's most celebrated dive, a vertical coral wall that be
 
 ## Marine Life
 
-The wall face is covered in black coral trees, massive barrel sponges, and branching black wire coral that shelter reef sharks, groupers, and moray eels in the deeper sections. Vast schools of creole wrasse and black durgon populate the mid-water, and the dramatic sheer drop — one of the steepest near-shore walls in the Caribbean — occasionally draws whale sharks into view in the open blue below.
+Confirmed sightings at Cane Bay include reef sharks, southern stingrays, sea turtles, moray eels, spotted eagle rays, barracuda, and schools of triggerfish, parrotfish, angelfish, trumpetfish, and blue tangs over the coral gardens, plus flamingo tongue snails, banded coral shrimp, nudibranchs, and octopus on close inspection of the reef. No source consulted for this update confirmed whale shark sightings at Cane Bay specifically — that claim from an earlier version of this page has been removed as unsupported.
 
 ---
-*Sources: GoToStCroix, Cane Bay Dive Shop, PADI. Last updated 2026-03-16.*
+*Sources: [GoToStCroix - Cane Bay Wall](https://www.gotostcroix.com/st-croix-dive-sites/cane-bay-wall-dropoff/), [Cane Bay Dive Shop](https://canebayscuba.com/dive-tours/), [Villa Margarita - St. Croix Dive Sites](https://villamargarita.com/st-croix-dive-sites-us-virgin-islands/). Last updated 2026-07-08.*

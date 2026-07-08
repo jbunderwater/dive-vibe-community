@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Henri Bonneaud
 
-A former New Zealand coastal trader scuttled as a dive attraction near Bokissa Island off Espiritu Santo. The 45.85-meter vessel sits upright on her keel at 40-45 meters in exceptional visibility, with accessible interior spaces and a propeller covered in featherstars.
+A former New Zealand-trading coastal vessel scuttled as a dive attraction near Bokissa Island off Espiritu Santo. The roughly 45.7-45.85-meter vessel sits upright on her keel at 40-45 meters in exceptional visibility, with accessible interior spaces and a propeller covered in featherstars.
 
 ## Overview
 
-The Henri Bonneaud was originally the MV River City, a New Zealand coastal trading vessel. After the end of her commercial life she was renamed Henri Bonneaud and deliberately scuttled on 19 December 1989 near Bokissa Island in the waters off Espiritu Santo to create an artificial reef and dive attraction.
+The Henri Bonneaud was built in 1951 at the De Hoop shipyard in Lobith, Netherlands, and originally named MV River City. She was renamed Holmbrae in 1964 and Paul Markson in 1966, then took her final name, Henri Bonneaud, in 1969 under French ownership, working the Vanuatu inter-island copra and cargo trade. She was 45.7-45.85 meters long (sources vary slightly) with a gross tonnage of 397. On 19 December 1989, Kevin Green of Aquamarine Diving deliberately scuttled her near Bokissa Island in Luganville Bay to create an artificial reef and dive attraction; by luck rather than design, she landed upright on her keel.
 
 The wreck sits upright on her keel at a depth of 40-45 meters to the sand. Her hull has accumulated a covering of gorgonian sea fans and sponges over more than three decades on the bottom. The interior remains largely intact and accessible -- crew cabins, the forward hold, and the engine room with its gauges and valves still in place can be explored with appropriate training and equipment. The propeller at the stern is covered in colourful featherstars, making it one of the most photogenic features of the wreck.
 
@@ -58,4 +58,4 @@ Access is by dive boat from Santo-based operators. The site near Bokissa Island 
 At 40-45 meters, this wreck is firmly in the advanced depth range. Nitrogen narcosis is a real concern at this depth -- monitor yourself and your buddy for symptoms. Interior penetration of the crew cabins and engine room requires wreck diving certification, redundant gas supply, and lights. The engine room contains gauges and valves that should not be disturbed. Plan gas management conservatively and always maintain adequate reserves for ascent and a 3-5 minute safety stop.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site - Henri Bonneaud](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=36), [German Wikipedia - Henry Bonneaud](https://de.wikipedia.org/wiki/Henry_Bonneaud), [Aoredise - Wreck Diving in Santo and Aore Island](https://www.aoredise.com/post/exploring-vanuatu-s-underwater-treasures-wreck-diving-in-santo-and-aore-island). Last updated 2026-07-08.*

@@ -3,7 +3,7 @@ name: Ogden Point
 lat: 48.4125
 lng: -123.3881
 difficulty: Intermediate
-maxDepth: 27
+maxDepth: 32
 entryType: shore
 siteType: wall
 ref: null
@@ -17,7 +17,7 @@ Ogden Point Breakwater in Victoria is the premier world-renowned cold-water dive
 
 ## Overview
 
-Ogden Point Breakwater is a working harbor facility with an underwater wall structure popular across all certification levels. The inner cove offers depths of 5-12 meters suitable for open water courses, while the main wall and ridge extend to 27+ meters for certified and advanced divers. The site features dense marine life and excellent visibility during optimal tidal phases.
+Ogden Point Breakwater is an 800-meter working harbor breakwater with an underwater wall structure popular across a range of certification levels. Sources describe three rough zones: a shallow sandy bay from shore to the first bend (about 8 meters), a mid-section between the first and second bends reaching about 25 meters, and the deepest outer sections at 28-35 meters. This page uses 32 meters as a representative maximum depth within that reported range.
 
 ## Site Information
 
@@ -25,18 +25,18 @@ Ogden Point Breakwater is a working harbor facility with an underwater wall stru
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 5-25 meters (seasonal/tidal dependent)
 - **Current**: Variable, can be strong; timing improves with tidal slack
 - **Best Time**: Year-round (summer warmest, spring/fall clearest)
 
 ## Marine Life
 
-Marine biodiversity includes rockfish, lingcod, sculpin, harbor seals, occasional wolf eels, and giant Pacific octopus. Colorful invertebrates include crab, starfish, anemones, and nudibranchs in wall crevices. The structure creates habitat for species at varying depths.
+Element Escapes, Cold Ocean Diver, and a ScubaBoard thread on Victoria diving confirm rockfish, giant Pacific octopus, lingcod, greenlings, scallops, crabs, nudibranchs, and wolf eels along the kelp-lined breakwater.
 
 ## Dive Profile
 
-Beginner dives stay in the inner cove area (5-12m) along the sloping bottom, exploring the reef structure and marine life. Open Water course training typically occurs here. Intermediate and advanced dives proceed to the main wall and ridge, descending to 20-27m. The wall provides a natural descent path; depths increase as you move outward from shore. Most divers target 20-30 minutes bottom time depending on depth.
+Easier dives stay in the shallow inner bay (to about 8m) along the sloping bottom, exploring the reef structure and marine life; Open Water course training often occurs here. Intermediate dives proceed to the mid-section wall (to about 25m). Advanced divers push to the outer sections, where depths reach 28-35m. The wall provides a natural descent path; depths increase as you move outward from shore. Most divers target 20-30 minutes bottom time depending on depth.
 
 ## Entry and Exit
 
@@ -69,7 +69,7 @@ This is a beginner-friendly site with considerations:
 
 Wide-angle opportunities abound with the wall's dramatic vertical drop. The light and shadow interplay on the wall creates compelling depth and perspective. Macro photography in wall crevices and overhangs reveals nudibranchs and other invertebrates. Kelp forests provide additional subjects.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against Element Escapes, Cold Ocean Diver, and ScubaBoard
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [Element Escapes — Ogden Point Dive Site](https://elementescapes.ca/dive-sites/ogden-point/), [Cold Ocean Diver — Diving Ogden Point](https://coldoceandiver.ca/ogden), [ScubaBoard — Victoria, BC diving](https://scubaboard.com/community/threads/victoria-bc-diving-whats-it-like-and-whats-your-favorite-site.422151/). Last updated 2026-07-08.*

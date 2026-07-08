@@ -8,7 +8,7 @@ Coral reefs, green turtles, and seasonal whale shark encounters off Tanzania's c
 
 ## Description
 
-Zanzibar is a notable diving destination in the Africa region, offering diverse dive sites with depths ranging from 20 to 20 meters. Water temperatures average 20-29°C (68-84°F), with visibility typically reaching 10-30 meters (30-100 feet). Year-round diving is possible, with the best conditions during October to March (East Africa), varies by location.
+Zanzibar is a notable diving destination in the Africa region, offering dive sites ranging from shallow 8-meter lagoon reefs to a 40-meter advanced wall dive near Mnemba Island. Water temperatures average 26-29°C, with visibility typically reaching 10-30 meters depending on site and season. Year-round diving is possible, with the best conditions during October to March (northeast monsoon).
 
 ### Diving Opportunities
 
@@ -38,4 +38,4 @@ Zanzibar is a notable diving destination in the Africa region, offering diverse 
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, remote locations. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*
+*This is a destination-level regional summary, not a site-specific report; individual dive site pages carry their own sourcing. Sources: [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [Buccaneer Diving](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Last updated 2026-07-08.*

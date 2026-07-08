@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Halliburton Wreck
 
-The Halliburton is the largest wreck dive around Utila — an approximately 100 ft (30 m) cargo ship intentionally sunk in 1998 to create an artificial reef, now sitting perfectly upright on the sandy bottom in 100 ft (30 m) of water.
+The Halliburton is the largest wreck dive around Utila — an approximately 100 ft (30 m) cargo ship intentionally sunk in May 1998 to create an artificial reef, now sitting perfectly upright on the sandy bottom in 100 ft (30 m) of water.
 
 ## Overview
 
-The Halliburton was deliberately sunk in 1998 as a community-led project to provide Utila with a dedicated wreck dive site. The vessel lies upright on the seafloor at 100 ft (30 m), with the main deck at approximately 85 ft (26 m) and the bridge top reachable at around 65 ft (20 m). The hull rises in a near-vertical wall of steel encrusted with coral and sponges, and several sections of the wreck — including the cargo hold, wheelhouse, and engine room — are accessible for penetration dives. The wheelhouse reportedly contains a plaque reading "Jesus Was A Pirate" and dive memorabilia left by visiting professionals. Nitrox is recommended to extend bottom time at this depth. The site suits Advanced divers and is used for wreck specialty training by local operators.
+The Halliburton was a cargo vessel — according to one source, used to run supplies between oil platforms — that was deliberately sunk in May 1998 to provide Utila with a dedicated wreck dive site; multiple independent sources agree on the vessel's cargo-ship identity, its approximately 30 m (100 ft) length, and the 1998 sinking date. Its build date and tonnage are not documented in any source consulted and are not stated here. The vessel lies upright on the seafloor at 100 ft (30 m), with the main deck at approximately 85 ft (26 m) and the bridge top reachable at around 65 ft (20 m). The hull rises in a near-vertical wall of steel encrusted with coral and sponges, and several sections of the wreck — including the cargo hold, wheelhouse, and engine room — are accessible for penetration dives. The wheelhouse reportedly contains a plaque reading "Jesus Was A Pirate" and dive memorabilia left by visiting professionals. Nitrox is recommended to extend bottom time at this depth. The site suits Advanced divers and is used for wreck specialty training by local operators.
 
 Visibility in Utila regularly exceeds 100 ft (30 m), making the full profile of this wreck viewable from mid-water on descent.
 
@@ -49,4 +49,4 @@ Boat dive from Utila town. The wreck is moored and accessed by descent line.
 Wreck penetration carries overhead environment risks. All penetration dives should be conducted only by divers with proper training and working dive lights. Do not enter without a certified guide on first visits.
 
 ---
-*Sources: [Scuba Diver Life – Halliburton Wreck, Utila](https://scubadiverlife.com/dive-site-halliburton-wreck-utila-honduras/), [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Lena on the Move – Dive Guide Utila](https://lenaonthemove.com/dive-guide-utila/). Last updated 2026-05-17.*
+*Sources: [Scuba Diver Life – Halliburton Wreck, Utila](https://scubadiverlife.com/dive-site-halliburton-wreck-utila-honduras/), [Utila Dive Center – The Halliburton Wreck](https://utiladivecenter.wordpress.com/2011/07/20/the-halliburton-wreck/), [Divemaster Austin – Haliburton Wreck Dive Guide](https://divemasteraustin.com/dive-sites/the-haliburton), [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites). Last updated 2026-07-08 (re-audited: cross-checked vessel identity, length, and sinking date against 4 independent dive-specific sources — no Wikipedia entry exists for this wreck; all sources agree, no conflicts found; tonnage and build date remain unverified and are not stated).*

@@ -13,46 +13,33 @@ addedBy: osm_import
 
 # Pango Reef
 
-A reef dive near Pango Point past Ifira Island, adjacent to the MV Semle Federsen wreck. East-west running gutters cut through the reef from 6 meters to 30-35 meters, with anemone gardens, banded sea snakes, and prolific invertebrate life.
+A gently sloping reef off Pango Point, south of Port Vila, also known locally as "Pango Wall" despite its gradual (rather than vertical) profile, sitting near the wreck of the MV Semele Federsen.
 
 ## Overview
 
-Pango Reef sits near Pango Point, past Ifira Island on the southern side of Port Vila harbour. The reef is characterised by a series of east-west running gutters that begin at around 6 meters depth and extend out to the reef edge at 30-35 meters. The adjacent wreck of the MV Semle Federsen adds interest to the area, though the reef itself is the primary attraction.
+Pango Reef lies on the outskirts of Pango Point, south of Port Vila. Rather than a true vertical wall, the site is a gently sloping reef plain that descends into deeper water — sources report a shallower shelf around 6-12 metres, with the reef extending out toward a deeper edge; depths on the outer edge have been reported as deep as 30-35 metres, though the shallower shelf is what most operators dive as the main feature.
 
-Visibility at this site is more variable than other Port Vila dives, typically ranging from 7-15 meters depending on tidal conditions and recent weather. Despite the lower visibility, the site compensates with dense invertebrate populations -- anemones packed with clownfish and transparent commensal shrimp, colourful starfish, nudibranchs, and regular sightings of banded sea snakes gliding through the gutters.
+The nearby wreck of the MV Semele Federsen, a cargo trading vessel that sank off the Pango coast in 1985, adds interest to the area — the wreck is reported accessible to around 40 metres depth with visibility that can reach up to 60 metres, though the reef itself is the primary draw of this particular site.
 
 ## Site Information
 
-- **Location**: Near Pango Point, past Ifira Island, Efate, Vanuatu
+- **Location**: Near Pango Point, Efate, Vanuatu
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 7-15 meters
-- **Current**: Generally mild
-- **Best Time**: April to November
 
 ## Marine Life
 
-The reef gutters host large anemone colonies with resident clownfish and transparent shrimp that are excellent macro photography subjects. Starfish and nudibranchs are found on the gutter walls. Banded sea snakes (Laticauda colubrina) are regularly encountered as they hunt through the reef structure -- they are venomous but docile and not aggressive toward divers. The adjacent MV Semle Federsen wreck attracts additional fish life to the area.
-
-## Dive Profile
-
-Drop into the shallows at 6 meters where the gutter system begins. Follow the gutters as they deepen toward the reef edge at 30-35 meters, checking the walls for nudibranchs and the sandy patches for starfish. The anemone gardens are scattered throughout the mid-depth range. Return to the shallows along a parallel gutter for the safety stop.
+Confirmed sightings at this site include anemones, hawksbill turtles, nudibranchs, mushroom corals, and gorgonian sea fans. A single source (Michael McFadyen) also reports banded sea snakes (Laticauda colubrina) moving through the reef structure — they are venomous but generally docile and not aggressive toward divers; give them space and do not handle them.
 
 ## Entry and Exit
 
-Access is by dive boat from Port Vila operators. The site is a short boat ride from the harbour. Entry by giant stride into relatively sheltered water.
-
-## Tips and Recommendations
-
-- Bring a macro lens -- the anemones with transparent shrimp and the nudibranchs are the stars of this site
-- Visibility is lower than other Efate sites, so a torch is useful for illuminating colours in the gutters
-- The banded sea snakes are photogenic but give them space; do not attempt to handle them
+Access is by dive boat from Port Vila operators, a short ride from the harbour.
 
 ## Safety Considerations
 
-The lower visibility means maintaining good buddy contact is important. Currents are generally mild. The sea snakes are not aggressive but should not be cornered or touched. The maximum depth at the reef edge reaches 35 meters, so monitor depth carefully in the gutters as they slope outward.
+Visibility at this site is more variable than at other Efate sites, so maintain good buddy contact. The reef's outer edge drops well beyond recreational limits in places, so monitor depth carefully.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
+*Sources: [Zentacle - Pango Wall](https://www.zentacle.com/Beach/2606/pango-wall), [Wannadive - Pango Wall](https://www.wannadive.net/spot/Australia_Pacific/Vanuatu/Efate_island/Pango_Wall/index.html), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-07-08.*

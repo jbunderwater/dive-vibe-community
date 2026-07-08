@@ -13,49 +13,46 @@ addedBy: osm_import
 
 ## Memba 1
 
-Memba 1 is a shallow coral reef dive on the northeastern coast of Zanzibar Island, close to the Nungwi area and accessible to recently certified divers. The site is the shallower and more sheltered of the two adjacent Memba sites, with a maximum depth of 18 meters and typically calm conditions year-round.
+Memba 1 is a reef entry on the Mnemba Island reef system off Zanzibar's northeastern coast. No source under this specific name was found during research.
 
 ## Overview
 
-The Memba sites sit on the northeastern Zanzibar reef system, where the island's fringing reef provides consistent diving in conditions sheltered from the open channel currents found at Nungwi's tip. Memba 1 features a gently sloping reef from the crest at 3-5 meters down to 18 meters at the sand base, with the most diverse coral growth in the mid-reef zone at 8-14 meters. Hard coral coverage includes branching Acropora, brain corals, and tabletop formations, and the relatively undisturbed character of the site supports a healthy fish assemblage. The beginner-appropriate profile and dependable conditions make Memba 1 a productive option for introductory dives and skills consolidation.
+This site's coordinates place it approximately 150 meters from the "Little Wall" entry in this database, and within the same Mnemba Island reef area as "Big Wall" and "Memba 2." This proximity — well inside typical reef-feature scale — raises the possibility that "Memba 1" is a near-duplicate of one of those other entries, produced by an overlapping scraper pass rather than representing a genuinely distinct dive site. That possibility has not been resolved here; it is flagged for a follow-up data-quality/deduplication pass rather than merged or deleted unilaterally. All previously listed depth, marine life, and dive-profile details for "Memba 1" were unsourced and have been removed rather than carried forward.
 
 ## Site Information
 
-- **Location**: Northeast Zanzibar Island, Zanzibar Archipelago, Tanzania
+- **Location**: Mnemba Island reef system, Northeast Zanzibar Island, Zanzibar Archipelago, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 12-18 meters (40-60 feet)
-- **Current**: Very light
-- **Best Time**: October to April (northeast monsoon)
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Not confirmed for this specific site
+- **Best Time**: October to March (northeast monsoon), consistent with the wider Mnemba/Nungwi diving season
 
 ## Marine Life
 
-Green and hawksbill turtles are the resident highlights at Memba 1, grazing on algae and sponges on the reef crest in the shallows. Large parrotfish, including terminal-phase individuals in brilliant blue-green coloration, cruise the coral formations. Surgeonfish and rabbitfish form loose schools along the reef edge. Moray eels and scorpionfish occupy the base. Cuttlefish hunt above sand patches near the reef base, and nudibranchs appear on soft coral outcrops throughout the site.
+No site-specific marine-life reports were found. The wider Mnemba Island reef system is documented for hard and soft coral growth and healthy reef fish populations, but attributing specific species to this precise, unconfirmed site would not be supported by available sources.
 
 ## Dive Profile
 
-Entry at the mooring and descent to the base at 16-18 meters to begin. Work back up the slope through the most productive coral zone at 8-14 meters, then spend the final portion on the bright shallow reef crest. The gentle slope and very light current allow divers to proceed at a relaxed pace. Safety stops are comfortable in the well-lit shallow reef.
+Not confirmed by available sources.
 
 ## Entry and Exit
 
-Boat access from Nungwi operators, typically 10-15 minutes travel time. Memba 1 is usually paired with Memba 2 for a morning two-tank combination or used as an introductory dive before more demanding afternoon sites. Giant stride entry; SMB deployment recommended.
+Boat access from Nungwi-area operators serving the Mnemba Island reef system.
 
 ## Tips and Recommendations
 
-- An ideal first Zanzibar dive for newly certified divers or those returning after a break from diving
-- Turtle encounters are reliable on the shallow reef crest — approach slowly and avoid fin movement overhead
-- Search carefully along the coral base for scorpionfish, which are easily overlooked against the substrate
-- Pair with Memba 2 to cover the full extent of this reef section
+- Confirm with a Mnemba-area operator whether "Memba 1" is a name they recognize, and whether it corresponds to a site distinct from Little Wall/Big Wall, before relying on this entry for trip planning
 
 ## Safety Considerations
 
-One of the more forgiving dive sites in the Zanzibar Archipelago. The 18-meter maximum depth, very light current, and sheltered position remove most depth and current-related risk. Standard coral and sea urchin contact hazards apply. Carry SMB for ascent.
+Not confirmed by available sources; apply standard reef-diving precautions.
 
 ## Photography
 
-The bright, shallow reef provides excellent natural light for daytime photography without strobes. Turtle portraits are the signature photography opportunity. The coral formations at 8-14 meters photograph well with a 60mm macro or moderate wide-angle lens to capture both reef structure and fish life in frame.
+Not confirmed by available sources.
 
 ---
-*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*
+*Description based on regional characteristics of the Mnemba Island reef system. No site-specific source was found under this name; the site's coordinates strongly overlap with the "Little Wall" entry in this database, suggesting a possible near-duplicate that warrants a data-quality review. Last updated 2026-07-08.*

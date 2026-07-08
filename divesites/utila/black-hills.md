@@ -5,7 +5,7 @@ lng: -86.8617
 difficulty: Intermediate
 maxDepth: 45
 entryType: boat
-siteType: seamount
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Black Hills
 
-Black Hills is a seamount rising from deep water off the north side of Utila, considered one of the island's must-dive sites for encounters with large pelagic species.
+Black Hills is a pinnacle (seamount) rising from deep water off the north side of Utila, widely considered one of the island's must-dive sites for its dense schools of fish and vibrant coral coverage.
 
 ## Overview
 
@@ -21,7 +21,7 @@ Black Hills is widely regarded as one of the most loved dive sites in Utila. The
 
 ## Marine Life
 
-Black Hills reliably attracts large pelagic visitors drawn to the currents sweeping the seamount. Recorded species include barracuda, Atlantic spadefish, horse-eye jacks, king mackerel, creole wrasse, green moray eels, and hawksbill turtles. Eagle rays and manta rays pass through, and the site sits within the whale shark corridor that makes Utila famous — encounters are possible, particularly during the March–May and August–October peak seasons documented by the Whale Shark and Oceanic Research Centre (WSORC).
+Black Hills reliably attracts dense schools of fish drawn to the currents sweeping the pinnacle. Recorded species include barracuda, Atlantic spadefish, horse-eye jacks, king mackerel, creole wrasse, green moray eels, and hawksbill turtles. Utila as a whole is known for year-round whale shark sightings (peak roughly March–May, per multiple regional sources), but no source specifically documents whale shark, eagle ray, or manta ray sightings at Black Hills itself — those species are not attributed to this site in the description.
 
 ## Dive Profile
 
@@ -46,4 +46,4 @@ Boat dive from Utila town. Operators typically moor or drift the site depending 
 The combination of pelagic passes and colorful coral slopes makes this an excellent wide-angle site. Best shots come at 40–60 ft where the reef meets the blue water backdrop. Good natural light for most of the day when current keeps visibility high.
 
 ---
-*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [IslasGuru – Diving in Utila Guide](https://www.islaguru.com/articles/diving-in-utila-guide). Last updated 2026-05-17.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [IslasGuru – Diving in Utila Guide](https://www.islaguru.com/articles/diving-in-utila-guide). Last updated 2026-07-08 (re-audited: site type corrected from invalid "seamount" tag to "pinnacle"; removed unconfirmed manta ray, eagle ray, and whale-shark-corridor claims — no source ties these to Black Hills specifically).*

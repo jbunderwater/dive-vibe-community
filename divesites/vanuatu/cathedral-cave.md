@@ -13,33 +13,28 @@ addedBy: osm_import
 
 ## Cathedral Cave
 
-Cathedral Cave is Vanuatu's most celebrated cavern dive, located near Port Vila on Efate, where geological forces have carved soaring limestone chambers through the reef — chambers that flood with dramatic shafts of filtered sunlight when the angle is right, creating the luminous, cathedral-like effect that defines the site.
+Known locally as "The Cathedral," this is a tall, narrow limestone cavern near the Pango Peninsula on Efate, about a 20-minute boat ride from Port Vila, named for the shafts of sunlight that filter through its open roof like light through stained glass.
 
 ## Overview
 
-Cathedral Cave is technically a cavern rather than a cave in the diving definition — natural light remains visible throughout the swim, and no overhead environment certification is required. The cavern system penetrates approximately 40 meters into the reef limestone, opening into a main chamber at around 20 meters depth where the ceiling rises into the rock above and openings allow sunlight to pour in from multiple angles. The effect in morning light (9–11am) is extraordinary: shafts of pale blue light slice through the water column, illuminating suspended particles and silhouetting divers in a scene unlike any open-water diving experience.
+The Cathedral is technically a cavern rather than a true cave — natural light is visible throughout, so no overhead-environment certification is required. The entrance is tall and wide, opening onto a sandy bottom around 22 metres, and narrows as divers approach a rock formation locals call "the pulpit." Sunbeams filter down through openings in the roof, giving the chamber its dappled, cathedral-like light effect.
 
-The surrounding outer reef approached on the way to the cavern entrance is also excellent — hard coral gardens, sea fans, and healthy fish populations in the 10–28 meter depth range. The dive naturally combines an approach reef dive, the cavern experience, and a return reef dive in a single outing.
+Beyond the pulpit, a narrower chimney leads up toward the surface — divers can rise through it, surface briefly inside the reef to wave to the boat, then descend back down and swim back out to the surrounding reef wall. The dive is weather-dependent: it's a comfortable dive in flat conditions, but swell and current can make the cavern tricky, so operators only run it when conditions allow.
 
 ## What to Expect
 
-The cavern entry point is a clearly defined opening in the reef face, wide enough for small groups to enter simultaneously. Inside, the main chamber is spacious and well-lit enough that torch use is optional (though recommended for seeing full color in the darker corners). The ceiling vaults above, with fracture lines and chimney openings admitting natural light. Dense schools of glassy sweepers occupy the upper reaches of the chamber, parting and reforming around divers passing through.
-
-Lionfish and scorpionfish are regular residents in the darker wall crevices — look carefully in the shadowed sections. The outside reef face around the cavern entrance hosts moray eels, groupers, and the occasional resting whitetip reef shark on ledges below the entrance.
-
-The guide will navigate the cavern and is essential for first-time visitors — the disorientation of the enclosed space and the desire to look upward at the light effects rather than ahead can affect navigation in less experienced divers.
+Inside the cavern, look for shrimp, nudibranchs, and leaf scorpionfish tucked into the walls and crevices. The site is popular with underwater photographers for the light-shaft effect, particularly in the late morning when the sun angle is highest. Outside the cavern entrance, the approach and exit are over Efate's typical reef terrain.
 
 ## Practical Information
 
-- **Depth Range**: 10–28 meters
-- **Visibility**: 20–30 meters; exceptional inside the cavern
-- **Currents**: Generally mild; cavern is sheltered
-- **Entry**: Boat dive from Port Vila operators
-- **Best For**: Intermediate divers; morning dives for best light; outstanding wide-angle photography site
+- **Depth Range**: Entrance around 22 meters; some sources report depths to 26–28 meters inside
+- **Currents**: Generally mild but can build with swell; dive is weather-dependent
+- **Entry**: Boat dive, about 20 minutes from Port Vila
+- **Best For**: Intermediate divers; wide-angle photography of the light-shaft effect; calm-weather days only
 
 ## Marine Life Highlights
 
-Glassy sweepers (dense schools inside cavern), lionfish, scorpionfish, moray eels, groupers, whitetip reef sharks on outer reef, sea fans, hard corals on approach reef.
+Shrimp, nudibranchs, and leaf scorpionfish are the species specifically reported inside the cavern. No other site-specific marine life reports were found for this location.
 
 ---
-*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*
+*Sources: [Big Blue Vanuatu](https://bigbluevanuatu.com/sites/), [Vanuatu Tourism Office](https://www.vanuatu.travel/en/dive-into-a-different-world-in-vanuatu), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-07-08.*

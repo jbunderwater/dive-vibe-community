@@ -1,16 +1,7 @@
 {
   "rotation_started": "2026-05-17",
   "destinations_per_day": 6,
-  "queue": [
-    "us",
-    "us-virgin-islands",
-    "ustica",
-    "utila",
-    "vancouver-island",
-    "vanuatu",
-    "west-pacific",
-    "zanzibar"
-  ],
+  "queue": [],
   "completed_this_cycle": [
     "alaska",
     "raja-ampat",
@@ -174,9 +165,106 @@
     "turkey",
     "turks-and-caicos",
     "uae",
-    "uae-fujairah"
+    "uae-fujairah",
+    "us-virgin-islands",
+    "ustica",
+    "utila",
+    "vancouver-island",
+    "vanuatu",
+    "zanzibar",
+    "us",
+    "west-pacific"
   ],
   "history": [
+    {
+      "date": "2026-07-08",
+      "slugs": [
+        "us-virgin-islands",
+        "ustica",
+        "utila",
+        "vancouver-island",
+        "vanuatu",
+        "zanzibar"
+      ],
+      "notes": "us and west-pacific popped from queue alongside today's slugs but skipped \u2014 both are isGroup=true parent slugs with no own osm_clean/divesites data to QA",
+      "summary": {
+        "sites_total": 83,
+        "sites_validated_today": 35,
+        "sites_re_audited": 80,
+        "hallucinations_removed": 36,
+        "marine_life_stripped": 40,
+        "wreck_conflicts_flagged": 6,
+        "sites_unresolved": 13,
+        "by_destination": {
+          "us-virgin-islands": {
+            "sites_total": 14,
+            "sites_validated_today": 0,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 8,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "Grain Wreck was actually SS Grainton (renamed, not Suffolk Maid); Cartanser Sr fabricated 1977 sinking date and wrong BVI location corrected; WIT Shoal II identity corrected (was USS LST-467 not a hopper dredge), sinking date/length conflict documented; DATA FLAG: the Rhone wreck is geographically in the British Virgin Islands, not US Virgin Islands \u2014 left in place but flagged for future relocation; Frederiksted Pier reef\u2192muck; French Cap Cay reef\u2192pinnacle"
+          },
+          "ustica": {
+            "sites_total": 13,
+            "sites_validated_today": 12,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "Secca di Tramontana likely fabricated/duplicate \u2014 no operator lists it, coordinates sit ~500-600m from Secca della Colombara; un-validated pending further research or removal. Grotta della Pastizza unverifiable 83m cavern figure removed. Punta Gavazzi fabricated archaeologist attribution and precise dating removed. Secca della Colombara/MV ITA wreck depth and length conflicts documented."
+          },
+          "utila": {
+            "sites_total": 12,
+            "sites_validated_today": 0,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "Black Hills invalid site_type 'seamount' fixed to pinnacle, unsupported eagle/manta ray and whale shark claims removed; Duppy Waters fabricated night-diving origin story corrected to sourced daytime sunlight effect; Ron's Wreck vessel-length/depth conflation fixed, tugboat vs fishing-boat identity conflict documented"
+          },
+          "vancouver-island": {
+            "sites_total": 14,
+            "sites_validated_today": 14,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "First agent attempt spawned its own sub-agents and returned without editing files; retried with an agent instructed to do all research directly. HMCS Annapolis sinking date fabrication (Apr 26) corrected to sourced Apr 4 2015, one outlier source (Jan 17) documented as unconfirmed; Porteau Cove wreck identity fixed (Centennial III steel dredge tender, not a sailboat hull); dead source domain godspocketresort.com replaced with godspocket.com; cold-water Beginner\u2192Intermediate minimum enforced on 3 sites"
+          },
+          "vanuatu": {
+            "sites_total": 15,
+            "sites_validated_today": 7,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 8,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "First agent completed all 7 wreck sites (incl. rigorous SS President Coolidge cross-check) then spawned a sub-agent for the remaining 8 reef/cave/drift sites and returned early; a follow-up agent finished those 8 directly. Paul's Rock was on the wrong island entirely (Espiritu Santo coords \u2192 corrected to Efate/Havannah Harbour, reclassified reef\u2192pinnacle); Cindy's Reef and Ollies Lolly location prose corrected to match their own coordinates; identical copy-pasted 5-source footer across 5 previously-validated sites (fabricated attribution) replaced with verified sources; Honeybone Drift left unvalidated (only 2 independent domains found)"
+          },
+          "zanzibar": {
+            "sites_total": 17,
+            "sites_validated_today": 2,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 15,
+            "marine_life_stripped": 13,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 11,
+            "notes": "COMMERCIAL BUSINESSES REMOVED: Captain Muddy (Nungwi excursion operator) and THGI Nungwi (dive shop location page) deleted entirely per CLAUDE.md no-commercial-business rule, site count 17\u219215; 15 of 17 sites had an identical fabricated 5-source footer not matching their actual JSON validation_source tags; Stingray city corrected from Atlantic/Caribbean species (Hypanus americanus, doesn't occur in Indian Ocean) to blue-spotted stingray; Barracuda Point location corrected from Nungwi to SE Zanzibar (Paje/Jambiani); 11 sites left unvalidated for insufficient independent sources (Little Wall, Memba 1/2, Moore Bank, Barracuda Point, Lagoon Mounding, Jambiani Lagoon, Sau Inn Garden, Woo South, Pungume Patches, Stingray city, Pawoni Hill, Napoleon Wall)"
+          }
+        },
+        "skipped": {
+          "us": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)",
+          "west-pacific": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)"
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/112",
+      "errors": []
+    },
     {
       "date": "2026-07-07",
       "slugs": [

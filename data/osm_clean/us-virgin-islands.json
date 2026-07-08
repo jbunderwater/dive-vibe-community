@@ -8,10 +8,11 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Zentacle, ScubaBoard, NPS Buck Island Reef National Monument",
+    "validation_source": "nps.gov,gotostcroix.com,tripadvisor.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -23,40 +24,45 @@
     "entry_type": "shore",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "GoToStCroix, Cane Bay Dive Shop, PADI",
+    "validation_source": "gotostcroix.com,canebayscuba.com,villamargarita.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
     "name": "Frederiksted Pier",
     "lat": 17.715,
     "lon": -64.882,
-    "depth": 8,
-    "site_type": "reef",
+    "depth": 14,
+    "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Ultimate Bluewater Adventures, GoToStCroix, Crucian Adventure Divers",
+    "validation_source": "gotostcroix.com,californiadiver.com,padi.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "Reclassified reef -> muck: pier pilings over sandy bottom, macro/critter site per gotostcroix.com and californiadiver.com. Depth updated from 8m to 14m to reflect primary dive zone (45ft/14m); pier extends to ~27m (90ft) at far end."
     }
   },
   {
     "name": "WIT Shoal II Wreck",
     "lat": 18.32,
     "lon": -64.94,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "DreamWrecks, Dolphin Water Taxi, Wannadive",
+    "validation_source": "dreamwrecks.com,dolphinshuttle.com,en.wikipedia.org",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "Depth updated from 21m to 27m (dreamwrecks.com and dolphinshuttle.com both cite ~90ft resting depth; one earlier source cited 70ft/21m - range noted in markdown). Ship identity corrected to USS LST-467 (WWII Landing Ship Tank, built 1942, later converted to civilian log hauler) per Wikipedia/navsource.org, not a purpose-built freighter or hopper dredge as previously described. Sinking date is disputed between sources (1979 per Navy disposal records vs. 1984 storm account per dive-tourism sites) - flagged as a conflict in the markdown rather than resolved."
     }
   },
   {
@@ -68,10 +74,11 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Virgin Islands Charter Yachts, Zentacle, TripAdvisor",
+    "validation_source": "virgin-islands-charter-yachts.com,tripadvisor.com,padi.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -83,10 +90,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Virgin Islands Charter Yachts, Freedom Tour Travel",
+    "validation_source": "freedomtourtravel.com,virgin-islands-charter-yachts.com,dolphinshuttle.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "Removed fabricated details: the wreck is NOT in the BVI's Sir Francis Drake Channel (it rests near Buck Island off St. Thomas, USVI) and there is no source for an intentional 1977 sinking date. Sources place the original sinking before 1979 (when the hulk was barged near Buck Island) and its breakup into pieces during Hurricane Hugo in 1989. Depth reported 12-18m across sources; JSON value kept at 14m (within range)."
     }
   },
   {
@@ -98,40 +107,45 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "GoToStCroix, PADI, ScubaBoard",
+    "validation_source": "gotostcroix.com,padi.com,scubadiving.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
-    "name": "Grain Wreck (Suffolk Maid)",
+    "name": "Grain Wreck (SS Grainton)",
     "lat": 18.34,
     "lon": -64.96,
-    "depth": 23,
+    "depth": 33,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "GoToStCroix Butler Bay, Triton's Realm",
+    "validation_source": "justgottadive.com,stormypirates.com,dolphinshuttle.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "Corrected from 'Grain Wreck (Suffolk Maid)'. The coordinates and 'Grain Wreck' nickname match the SS Grainton (a British collier that sank near St. Thomas in 1928), not the Suffolk Maid (a separate, unrelated wreck in Butler Bay, St. Croix). The previous markdown's '19th-century cargo vessel' description was unsourced and has been replaced with researched SS Grainton history. Depth updated from 23m to 33m and difficulty raised from Intermediate to Advanced to match the technical depth (>30m) confirmed by multiple sources."
     }
   },
   {
     "name": "Coral World",
     "lat": 18.35,
     "lon": -64.86,
-    "depth": 6,
+    "depth": 17,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "St. Thomas Dive Center, local operators",
+    "validation_source": "shoreexcursionsgroup.com,caribbaconnect.com,padi.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "Depth updated from 6m to 17m (55ft) to reflect the certified-diver maximum at this Coki Beach reef; the previous 6m figure understated the site."
     }
   },
   {
@@ -143,25 +157,28 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Scuba Diving Magazine, PADI",
+    "validation_source": "gotostcroix.com,scubadiving.com,padi.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
     "name": "French Cap Cay",
     "lat": 18.265,
     "lon": -64.69,
-    "depth": 23,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "ScubaMaxsta, JJ Divers, AA Divers",
+    "validation_source": "divechamp.com,stthomasscubadiving.com,aadivers.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "Reclassified reef -> pinnacle per divechamp.com ('French Cap Pinnacle') and other St. Thomas operator sites. Depth updated from 23m to 30m (100ft) to match the primary pinnacle dive; a shallower secondary dive to ~18m (60ft) exists on the island's northwest side."
     }
   },
   {
@@ -173,10 +190,11 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Sapphire Beach Resort, TripAdvisor, Virgin Islands Saver",
+    "validation_source": "usvisapphire.com,snorkelandhike.com,tripadvisor.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -190,13 +208,15 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Blue Water Divers BVI, Scuba Diving Magazine, Wikipedia RMS Rhone",
+    "validation_source": "en.wikipedia.org,scubadiving.com,divernet.com",
     "tags": {
       "historic": "wreck",
       "name": "Rhone",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-07-08",
+      "geographic_note": "This wreck lies off Salt Island in the British Virgin Islands, not within US Virgin Islands territory. Flagged for dataset-placement review; retained here because it is a frequently paired charter destination with USVI dive operators, but it does not belong to the us-virgin-islands destination geographically."
     }
   },
   {
@@ -210,12 +230,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Scuba Diving Magazine, Waypoints Yacht Charters",
+    "validation_source": "virgin-islands-charter-yachts.com,caribdiveguide.com,stjohnlinks.com",
     "tags": {
       "name": "Eagle Shoal",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "last_qa_date": "2026-07-08"
     }
   }
 ]

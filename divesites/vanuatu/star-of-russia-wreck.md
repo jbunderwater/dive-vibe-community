@@ -2,7 +2,7 @@
 name: Star of Russia Wreck
 lat: -17.7554
 lng: 168.2965
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
 siteType: wreck
@@ -13,31 +13,31 @@ addedBy: osm_import
 
 ## Star of Russia Wreck
 
-The Star of Russia is a wreck dive located in the waters near Port Vila on Efate, Vanuatu — a moderately sized vessel resting at intermediate depth and providing the primary wreck diving option for divers based in the capital who cannot reach the famous Santo wrecks.
+The Star of Russia is a 19th-century iron sailing ship — built at the same Belfast shipyard that later built the Titanic — now resting upright in Port Vila Harbour, Efate, making it one of Vanuatu's more historically significant wreck dives.
 
 ## Overview
 
-Port Vila, Vanuatu's capital on Efate island, is primarily known for its reef diving — the Efate reef systems are healthy and accessible, with excellent visibility and warm water year-round. The Star of Russia provides wreck diving variety for those based in the capital. The vessel lies at up to 35 meters, with the upper structure accessible at intermediate depths, and the hull well-colonized by the coral and invertebrate growth of a wreck that has been in place for many decades.
+The Star of Russia was built in 1874 by Harland & Wolff of Belfast (the yard that would build the Titanic roughly forty years later) as a three-masted, iron-hulled sailing ship. Sources give her length as approximately 83–84 meters with a gross tonnage around 1,981 tons; she originally carried jute from India to Europe and later carried cargo and migrants on runs to Australia. Around 1926 she was purchased by Burns Philp & Co. and brought to Port Vila, where she was stripped down and used as a floating warehouse. She came under US Navy control during WWII (around 1942). She is reported to have sunk around 1953, but the exact date and cause of her sinking are not recorded in the sources found — rather than guess, that detail is left as unknown.
 
-The site's coordinates place it near Efate's northern coast in waters typical of the Port Vila dive zone — visibility of 15–25 meters, mild currents, and water temperatures of 26–28°C year-round. The wreck provides a marked contrast to the open-water reef dives that dominate Efate diving, with its enclosed spaces, structure, and wreck-specific species community.
+The wreck now sits upright on a sandy bottom in Port Vila Harbour, roughly 100 meters southwest of Iririki Island, at a depth of approximately 34–35 meters. Her wooden decking has largely rotted away, but the steel hull and structural joists remain substantially intact, and divers can access several internal levels.
 
 ## What to Expect
 
-The wreck's upper sections at 18–25 meters are the most productive zone, with natural light penetrating well into the upper deck and superstructure areas. Large gorgonian fans have established on the exposed upper structural elements — a sign of good water flow across the site that also brings regular encounters with barracuda and trevally hunting in the water column above. The hull interior spaces shelter the typical wreck community: moray eels, lionfish, and glassy sweepers in the holds.
+The wreck is dived as a straightforward descent to the hull, with the anchor equipment, three masts, crow's-nest remains, and wheel machinery among the recognizable features. Because the ship's teak decking has deteriorated, safe swim-throughs into parts of the hull are possible. Large schools of batfish are a signature sighting here, gathering around descending divers.
 
-The deepest sections at 30–35 meters require careful air management — bottom time is limited at depth, and the most efficient profile is to descend directly to the deepest accessible section and ascend progressively to the upper structure for the final portion of the dive. A dive torch is essential for illuminating the interior spaces and bringing out the colors of the encrusting invertebrates.
+Local sources disagree on how demanding this dive is: one dive-site directory rates it Intermediate, while another local operator describes it as an Advanced dive. Given the maximum depth of 34–35 meters — beyond typical recreational no-decompression comfort zones — this listing follows the more conservative Advanced rating and flags the discrepancy here rather than picking one source over the other.
 
 ## Practical Information
 
-- **Depth Range**: 15–35 meters
-- **Visibility**: 15–25 meters typical
-- **Currents**: Mild to moderate
-- **Entry**: Boat dive from Port Vila operators
-- **Best For**: Intermediate divers based in Port Vila; good complement to Efate reef diving
+- **Depth Range**: approximately 34–35 meters
+- **Visibility**: Not consistently documented across sources
+- **Currents**: Not consistently documented across sources
+- **Entry**: Boat dive from Port Vila operators, close to Iririki Island
+- **Best For**: Divers comfortable at depths approaching 35 meters; a historically rich alternative to Efate's reef diving
 
 ## Marine Life Highlights
 
-Barracuda, trevally, moray eels, lionfish, glassy sweepers, gorgonian fans, soft coral encrustation, snapper, groupers, batfish.
+Large schools of batfish are specifically reported at this wreck. Beyond that, sources describe general tropical reef fish without naming further species specific to this site, so the earlier list of barracuda, trevally, lionfish, and others has been removed as unconfirmed.
 
 ---
-*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*
+*Sources: [Dive Pacific NZ - The Star of Russia](https://www.divepacific.co.nz/post/the-star-of-russia), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Zentacle - Star of Russia](https://www.zentacle.com/Beach/2584/star-of-russia). Last updated 2026-07-08.*

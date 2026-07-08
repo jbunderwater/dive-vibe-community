@@ -32,11 +32,11 @@ Kelvin Grove offers diverse diving options within one location. A protected bay 
 
 ## Marine Life
 
-The site is famous for giant Pacific octopus, commonly seen in wall crevices and crevasses. Additional marine life includes wolf eels, boot sponges, cloud sponges (80+ feet), lingcod, flatfish, rockfish, sea pens, greenlings, starfish, nudibranchs, jellyfish, tubesnouts, sea cucumbers, anemones, prawns, and occasional seals.
+Fraser Valley Scuba Club and Zentacle both describe giant Pacific octopus dens (marked by piles of discarded crab shells) in the wall crevices, along with wolf eels, crabs, lingcod, flatfish, rockfish, sea pens, greenlings, sea stars, nudibranchs, jellyfish, tubesnouts, sea cucumbers, tubeworms, plumose anemones, prawns, cloud sponges (80ft+/24m+), boot sponges, and occasional seals.
 
 ## Dive Profile
 
-The protected bay features rocky reef structure suitable for open water certification training, descending to about 12 meters. For more advanced diving, a short swim northwest across the cove leads to dramatic wall dives with sandy ledges at 24-28 meters. Most interesting wall features and crevices occur between 15-27 meters. Bottom time of 30-40 minutes typical for intermediate dives. Octopus encounters are common.
+The protected bay features rocky reef structure suitable for open water certification training, descending to about 12 meters. For more advanced diving, a short swim northwest across the cove leads to wall dives with sandy ledges around 24-28 meters (recreational max about 27m/90ft). Sources note the wall itself continues beyond 40m/130ft for technical divers — well past recreational limits. Bottom time of 30-40 minutes typical for intermediate dives. Octopus encounters are common, with dens often marked by piles of discarded crab shells.
 
 ## Entry and Exit
 
@@ -70,7 +70,7 @@ This is an intermediate site with important considerations:
 
 Exceptional opportunities for octopus photography in wall crevices. Macro subjects on sponges and nudibranchs provide detail work. Wide-angle wall perspectives create dramatic compositions. The kelp forest and resident octopus are signature subjects.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against Fraser Valley Scuba Club, Zentacle, and Cold Ocean Diver
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [Fraser Valley Scuba Club — Kelvin Grove](http://www.fvscuba.org/kelvin-grove.html), [Zentacle — Kelvin Grove](https://www.zentacle.com/Beach/446/kelvin-grove), [Cold Ocean Diver — Dive at Kelvin Grove](https://coldoceandiver.ca/kelvin-grove). Last updated 2026-07-08.*

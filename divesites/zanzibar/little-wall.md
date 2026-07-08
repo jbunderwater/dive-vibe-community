@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Little Wall
 
-Little Wall is a wall dive on the northeastern coast of Zanzibar Island, offering a scaled-down but genuinely rewarding vertical reef profile for intermediate divers who want the wall diving experience without the demands of the deeper, more current-swept sites at Nungwi's tip.
+Little Wall sits on the reef system immediately adjacent to Mnemba Island's well-known Big Wall, off Zanzibar Island's northeastern coast. It is mapped as a wall site, but no source under this literal name was found during research, so several details below carry more uncertainty than usual.
 
 ## Overview
 
-Little Wall takes its name by contrast with the nearby Big Wall — it shares the same reef formation but presents a more accessible dive. The wall descends from a reef crest at 5-6 meters to a sandy base at 18-20 meters, with the most productive sections at 10-18 meters where soft coral growth, overhangs, and encrusting organisms create varied habitat. Although the topography is less dramatic than Big Wall, the more manageable scale invites closer and slower inspection, which often rewards careful divers with nudibranchs, flatworms, and crevice-dwelling species missed when moving quickly along larger walls. Visibility averages 15-20 meters during the northeast monsoon.
+This site's coordinates place it roughly 150-500 meters from both "Big Wall" and the "Memba 1" entry in this database, all on the reef fringing Mnemba Island. Dive-operator materials describe a companion formation to Big Wall at Mnemba, variously called "Small Wall," reported by two sources (a Zanzibar dive shop and a general dive-travel guide) as a wall dropping to roughly 30-40 meters with reef-shark and mobula sightings possible in current. It is not certain this is the same feature recorded here as "Little Wall," since no source used that exact name for a specific, mappable site. Depth and difficulty have been left at their previous values rather than adjusted on unconfirmed information.
 
 ## Site Information
 
-- **Location**: Northeast Zanzibar Island, Zanzibar Archipelago, Tanzania
+- **Location**: Near Mnemba Island, Northeast Zanzibar Island, Zanzibar Archipelago, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-20 meters (50-65 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to March (northeast monsoon)
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Not confirmed for this specific site
+- **Best Time**: October to March (northeast monsoon), consistent with the wider Mnemba/Nungwi diving season
 
 ## Marine Life
 
-The wall supports a community of encrusting sea fans, sponges, and tunicates across its face, with soldierfish and squirrelfish sheltering in shaded overhangs. Moray eels occupy crevices along the base. Nudibranchs are common on the wall surface — aeolid and dorid species appear in good numbers during the northeast monsoon. Hawksbill turtles are regularly seen resting on the reef crest in 5-8 meters. Lionfish patrol the mid-wall sections, and small schools of anthias hover above the sea fan growth.
+No site-specific marine-life reports were found for this exact site name. The wider Mnemba Island reef system, which this site borders, is documented for hard and soft coral growth, reef fish, and occasional reef sharks and turtles, but attributing specific species to this precise site would not be supported by the available sources.
 
 ## Dive Profile
 
-Descend to the base of the wall at 18-20 meters and work horizontally along the face, inspecting each overhang and crevice before ascending through the mid-wall zone at 10-15 meters. The shallower reef crest provides an extended safety stop zone with good light and active reef life. Total dive times of 50-60 minutes are realistic given the comfortable maximum depth.
+Not confirmed by available sources. If this site corresponds to the "Small Wall" referenced by Mnemba-area operators, it would typically be dived as a companion to Big Wall on the same boat trip, but this pairing is not confirmed for the exact OSM-mapped location.
 
 ## Entry and Exit
 
-Boat access from Nungwi operators. Little Wall is frequently paired with Big Wall for a two-tank day that uses the smaller site as either a warm-up or a wind-down dive. Giant stride entry; SMB deployment recommended given boat traffic in the Nungwi area.
+Boat access from Nungwi-area operators serving the Mnemba Island reef system.
 
 ## Tips and Recommendations
 
-- Bring a torch — the overhangs shelter species that are not visible in ambient light
-- Move slowly and inspect the wall surface closely for nudibranchs and flatworms, which reward patient observation
-- Combine with Big Wall for a contrasting experience of the same reef system at different scales
-- The manageable depth profile and lighter current make this an appropriate site for divers new to wall diving
+- Confirm directly with a Nungwi or Mnemba-based dive operator whether "Little Wall" is a name they use, and for what depth range, before relying on this entry for dive planning
+- If diving the wider Mnemba reef system, ask the boat crew which of the walls in the area is being dived that day, since naming conventions vary between operators
 
 ## Safety Considerations
 
-The 20-meter maximum depth requires standard NDL management as a second dive. Current can run parallel to the wall and occasionally reverses — carry a reef hook and deploy SMB before ascending. Depth discipline is still required; clear water and wall profiles can encourage passive descent. Standard fire coral and sea urchin hazards.
+Because the depth and current profile of this specific site are unconfirmed, treat it with the caution due an unfamiliar wall dive: agree on a maximum depth and turnaround with the guide before descending, and deploy an SMB before ascending.
 
 ## Photography
 
-The closer, more intimate scale of Little Wall suits macro photography well — the nudibranch and flatworm life on the wall surface provides excellent subjects. Strobe-lit shots of sponge-encrusted overhangs produce good color. The reef crest in 5-8 meters offers bright natural light for turtle portraits and wide-angle reef compositions.
+Not confirmed by available sources.
 
 ---
-*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics near Mnemba Island. No source uses this exact site name; see [Scubafish Zanzibar](https://www.scubafishzanzibar.com/dive-in-zanzibar/dive-sites-zanzibar/) and [Travelstart](https://www.travelstart.co.za/blog/a-complete-guide-to-diving-in-zanzibar/) for the similarly-located, but not confirmed-identical, "Small Wall." Last updated 2026-07-08.*

@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Eagle Shoal
 
-Eagle Shoal is a reef dive site in US Virgin Islands, Caribbean.
+Eagle Shoal is a remote reef formation on St. John's east end, between Ram Head and Leduck Island, known for its arches, tunnels, and a sunlit chamber called "The Cathedral."
 
 ## Overview
 
-Eagle Shoal is a rarely visited gem on St. John's east end between Ram Head and Leduck Island, featuring a row of three long coral fingers riddled with caves, arches, tunnels, and overhangs. The highlight is "The Cathedral," a large sunlit chamber adorned with vibrant sponges and orange cup coral where underwater weddings have been held. The exposed open-ocean location means encounters with sharks and eagle rays are possible, and the protected terrain harbors exceptional fish density including schools of grunts, porkfish, spotted drums, Nassau grouper, and queen angelfish.
+Eagle Shoal is a coral mound rising from deep water to within a few feet of the surface, exposed to the open ocean on all sides. Its centerpiece, "The Cathedral," is a large open chamber with multiple entryways where sunlight streams in dramatically; the chamber is popular enough for underwater weddings. The site is riddled with arches, tunnels, and coral caves and channels beyond the Cathedral itself. Because of its remote, exposed location, it is recommended for experienced divers rather than beginners.
 
 ## Site Information
 
 - **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 
 ## Marine Life
 
-The Cathedral chamber and surrounding arches host dense concentrations of grunts, porkfish, spotted drums, Nassau grouper, and queen angelfish sheltering in the vibrant sponge-and-coral-encrusted structure. The open-ocean exposure draws eagle rays and sharks to the outer faces, while the protected interior tunnels and overhangs provide habitat for lobsters, moray eels, and hawksbill turtles.
+Inside the Cathedral, divers report schools of black durgon, porkfish, and silversides, along with spotted drums and queen and French angelfish. The coral caves and channels hold copper sweepers and small baitfish. Because Eagle Shoal is exposed to open ocean on all sides, sharks and manta rays are occasionally seen passing by. An earlier version of this page named Nassau grouper, lobster, moray eels, and hawksbill turtles; no source consulted for this update confirms those species at this specific site, so they have been removed rather than carried forward unverified.
 
 ---
-*Sources: Scuba Diving Magazine, Waypoints Yacht Charters. Last updated 2026-03-16.*
+*Sources: [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/US_Virgin_Islands/St_John_Eagle_Shoal_dive_site.html), [CaribDiveGuide](http://www.caribdiveguide.com/Eagle_Shoal.html), [St. John Links](https://stjohnlinks.com/scuba-diving/). Last updated 2026-07-08.*

@@ -21,7 +21,7 @@ Lighthouse Reef sits just off the main Utila Harbour entrance, making it one of 
 
 ## Marine Life
 
-Lighthouse Reef offers a strong mix of Caribbean wall species. Reported sightings include snapper, green moray eels, porcupine pufferfish, toadfish, hawksbill turtles, and spotted eagle rays. The rope sponges and coral overhangs on the wall face attract a variety of reef fish, and the sand patches on the top provide habitat for flatfish and small critters.
+Lighthouse Reef offers a strong mix of Caribbean wall species. Reported sightings include snapper, grunts, groupers, needlefish, goatfish, wrasses, green moray eels, porcupine pufferfish, toadfish, hawksbill turtles (occasional), and spotted eagle rays. The rope sponges and coral overhangs on the wall face attract a variety of reef fish, and the sand patches on the top provide habitat for flatfish and small critters. Octopus and spiny lobster are reported emerging to feed on night dives.
 
 ## Dive Profile
 
@@ -46,4 +46,4 @@ Boat dive, approximately 5 minutes from Utila town. One of the quickest sites to
 Colourful rope sponges and moray eels make good portrait subjects. Turtle and eagle ray encounters are unpredictable but the shallow reef top provides good natural light. Macro photographers will find toadfish and small critters in the sand patches.
 
 ---
-*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-05-17.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [DiveSSI – Lighthouse Reef](https://www.divessi.com/en/mydiveguide/destination/lighthouse-reef-9752638). Last updated 2026-07-08 (re-audited: added additional confirmed species — grunts, groupers, needlefish, goatfish, wrasses, night-diving octopus and spiny lobster; hawksbill sightings softened to "occasional" per source wording).*

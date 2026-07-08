@@ -7,7 +7,7 @@
     "osm_type": "node",
     "depth": 73,
     "site_type": "wreck",
-    "entry_type": "boat",
+    "entry_type": "both",
     "difficulty": "Advanced",
     "tags": {
       "name": "SS President Coolidge",
@@ -16,7 +16,8 @@
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,diveplanit.com,aoreadventures.com,padi.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -39,22 +40,24 @@
       "wikidata": "Q1343406",
       "wikipedia": "de:Million Dollar Point",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,southpacificwwiimuseum.com,aoreadventures.com,wearethemighty.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
     "name": "USS Tucker",
     "lat": -15.6093,
     "lon": 167.1332,
-    "depth": 24,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "wikimapia, diveplanit.com, evolutionunderwater.com"
+      "validation_source": "wikipedia.org,destroyerhistory.org,evolutionunderwater.com,pacificwrecks.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -69,7 +72,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "zentacle.com, diveplanit.com, aoreadventures.com"
+      "validation_source": "zentacle.com,diveplanit.com,aoreadventures.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -79,12 +83,13 @@
     "depth": 35,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "zentacle.com, allaboutvanuatu.com, bigbluevanuatu.com"
+      "validation_source": "divepacific.co.nz,bigbluevanuatu.com,zentacle.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -99,9 +104,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "michaelmcfadyenscuba.info, zentacle.com, bigbluevanuatu.com"
-    },
-    "validation_source": "michaelmcfadyenscuba.info"
+      "validation_source": "bigbluevanuatu.com,vanuatu.travel,michaelmcfadyenscuba.info",
+      "last_qa_date": "2026-07-08"
+    }
   },
   {
     "name": "Hideaway Island Reef",
@@ -115,22 +120,24 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "zentacle.com, diveplanit.com, vanuatu.travel"
+      "validation_source": "abyss.com.au,enezgreen.com,vanuatu.travel",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
     "name": "Paul's Rock",
-    "lat": -15.4923,
-    "lon": 167.1985,
-    "depth": 22,
-    "site_type": "reef",
+    "lat": -17.52,
+    "lon": 168.21,
+    "depth": 35,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "diveadventures.com.au, thehavannah.com"
+      "validation_source": "thehavannah.com,travel-news-photos-stories.com,tripadvisor.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -145,7 +152,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "vanuatu.travel, divepacific.co.nz, wannadive.net"
+      "validation_source": "vanuatu.travel,tripadvisor.com,divescover.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -155,12 +163,13 @@
     "depth": 26,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "zentacle.com, bigbluevanuatu.com, wannadive.net"
+      "validation_source": "michaelmcfadyenscuba.info,wannadive.net,bigbluevanuatu.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -170,14 +179,17 @@
     "depth": 36,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": "true",
     "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Hat Island East",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,travel-news-photos-stories.com,critterspotter.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -194,7 +206,9 @@
       "name": "Honeybone Drift",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validation_source": "michaelmcfadyenscuba.info,divinginvanuatu.wordpress.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -211,7 +225,10 @@
       "name": "Pango Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "zentacle.com,wannadive.net,michaelmcfadyenscuba.info",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -228,7 +245,10 @@
       "name": "Henri Bonneaud",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,de.wikipedia.org,aoredise.com",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -245,7 +265,10 @@
       "name": "SS Tui Tuate",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "validated": "true",
+      "validation_source": "michaelmcfadyenscuba.info,shipstamps.co.uk,en.wikipedia.org",
+      "last_qa_date": "2026-07-08"
     }
   }
 ]

@@ -3,7 +3,7 @@ name: Barracuda Point
 lat: -6.2728904
 lng: 39.5532195
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Barracuda Point
 
-Barracuda Point is one of Nungwi's most celebrated dive sites, located at the northern tip of Zanzibar Island where tidal currents funnel through the channel between Zanzibar and the Tanzanian mainland, creating the conditions that attract large aggregations of great barracuda.
+Barracuda Point is an outer-reef dive on Zanzibar's southeastern coast, near Paje/Jambiani — not at Nungwi as this entry previously described. Its coordinates place it well south of the Nungwi tip, in the same stretch of coast as Cement Wall, Sau Inn Garden, and Napoleon Wall.
 
 ## Overview
 
-Barracuda Point at Nungwi is among the most sought-after dives in Zanzibar, particularly renowned for its barracuda schools that can number in the hundreds. The site features a reef slope from 5 meters descending to 25 meters with a characteristic East African coral community, but the defining feature is the tidal current that concentrates pelagic fish life at the point. Visibility reaches 20-30 meters in the northeast monsoon season and the warm 26-29°C water is comfortable year-round.
+The one confirmed source for this site, Paje-based operator Buccaneer Diving, describes Barracuda Point as a vast coral garden with mounds and overhangs sheltering shellfish and reef fish, in the 10-20 meter range typical of the operator's outer-reef sites accessed through gaps ("mlango") in the barrier reef. This is a substantially different picture from the previous write-up, which placed the site at Nungwi and described current-driven barracuda "tornados" of hundreds of fish, giant trevally hunts, and patrolling spinner dolphins — none of which appear in the one source located for this specific site. Those claims have been removed rather than carried forward unverified.
 
 ## Site Information
 
-- **Location**: Northern tip, Nungwi, Zanzibar Island
+- **Location**: South East Zanzibar (Paje/Jambiani area), Tanzania — corrected from a previous "Nungwi" location claim
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Moderate to strong — tidal, highly variable
-- **Best Time**: October to March (northeast monsoon); also diveable June-September on western side
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: Not confirmed for this specific site
+- **Current**: Not confirmed for this specific site; the South East outer reef generally sees tidal current
+- **Best Time**: October to April (northeast monsoon, South East Zanzibar)
 
 ## Marine Life
 
-The great barracuda schools are the signature attraction — the fish form characteristic spiraling "tornados" when current is active, with hundreds of individuals creating a mesmerizing display. Giant trevally and kingfish hunt the same point, and reef whitetip sharks cruise the deeper reef edge. Green and hawksbill sea turtles rest on the shallow reef top. Spinner dolphins frequently patrol the channel above the point and occasionally descend to reef depth. Moray eels, groupers, and lionfish occupy the permanent reef structure.
+The confirmed source describes a coral garden with mounds and overhangs sheltering "a variety of shellfish and some of our shyer reef fish," without naming specific fish species or confirming barracuda aggregations at this site. Given the name, barracuda sightings are plausible, but no source confirms them specifically here, so they are not stated as a guaranteed feature.
 
 ## Dive Profile
 
-Time the dive to coincide with optimal barracuda activity — local guides track conditions daily. On active days, drift along the reef face at 15-20 meters where barracuda schools hold station facing the current, before ascending to the reef crest for the safety stop while the boat tracks your SMB. On calmer days, a standard reef slope dive from 25 meters up provides good diving without the aggregation spectacle.
+Not confirmed in detail by available sources. Given the coral-garden-with-overhangs topography reported, expect a reef dive working through mounds and overhang structures rather than a wall or drift profile.
 
 ## Entry and Exit
 
-Boats depart from Nungwi village beach. Live-boat drops are common when current is running — the guide will position you upstream and the boat picks up the group after the drift. Carry a fully inflated SMB for ascent in all conditions. Confirm the boat's tracking position before descent.
+Boat access from Paje/Jambiani-area operators, reached through a reef-gap ("mlango") typical of South East Zanzibar outer-reef sites.
 
 ## Tips and Recommendations
 
-- Ask for a morning tide-table check from the operator to assess current timing
-- A reef hook is useful for holding position and observing the barracuda without constant finning
-- The eastern side of the point produces better barracuda aggregations; the western side is better for calm-water reef diving
-- Book two dives at this site on different tidal conditions to experience both the active and calm versions
+- Book this site through a Paje or Jambiani-based operator, not a Nungwi-based one — the two areas are roughly 50km apart on different coasts of the island
+- Ask your operator directly what marine life they've been seeing recently at this specific site, since published detail is limited
 
 ## Safety Considerations
 
-Current at Barracuda Point can be very strong and direction shifts can occur mid-dive without warning. Maintain close buddy contact, agree on abort procedures, and carry a reef hook and fully deployed SMB throughout the ascent. The proximity to Nungwi's boat traffic requires visible ascent with SMB from the earliest opportunity.
+Standard outer-reef precautions apply: confirm current conditions with the boat crew before entry, and deploy an SMB before ascending given the offshore reef-gap access route.
 
 ## Photography
 
-The barracuda tornado is one of the iconic images of East African diving — a fisheye or 10-17mm lens, positioned below and slightly to the side of the school, captures the spiral formation against the open blue water. Natural light is sufficient for the upper reef but strobes improve the coral detail on the deeper sections.
+Not confirmed by available sources.
 
 ---
-*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*
+*Sources: [Buccaneer Diving - Dive Zanzibar](https://www.buccaneerdiving.com/pages/dive-zanzibar/). Only one independent source was found for this specific site; treat depth, conditions, and marine life details as provisional until confirmed by additional sources. Last updated 2026-07-08.*

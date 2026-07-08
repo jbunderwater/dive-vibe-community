@@ -17,7 +17,7 @@ One of the finest wall dives in North America, Browning Wall is located in God's
 
 ## Overview
 
-Browning Wall in God's Pocket is a world-class cold-water wall dive that showcases the temperate marine ecosystem. The sheer rock face drops steeply from the surface to approximately 40 meters, with the best viewing between 30-40 meters. The wall's exceptional biodiversity is fueled by strong tidal currents that upwell nutrient-rich deep water, creating optimal conditions for colorful invertebrate communities.
+Browning Wall in God's Pocket is a world-class cold-water wall dive that showcases the temperate marine ecosystem. Recreational dives are typically planned to a maximum of about 40 meters, with the best viewing between 30-40 meters. Sources differ on how much further the wall itself continues: an older site description (seaotter.com) and Scuba Diving Magazine both describe the wall face extending to roughly 180-250 feet (55-76 meters), well beyond recreational limits — so treat the site as a wall that keeps going into technical-diving depths, not a 40-meter dive with a hard bottom. The wall's exceptional biodiversity is fueled by strong tidal currents that upwell nutrient-rich deep water, creating optimal conditions for colorful invertebrate communities. God's Pocket Resort, the main local operator, requires a minimum of 100 total dives (50+ cold-water/drysuit) before diving here.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Browning Wall in God's Pocket is a world-class cold-water wall dive that showcas
 
 ## Marine Life
 
-This site is densely populated with marine life. The wall is covered in a checkerboard of orange and red soft corals, white anemones, yellow sponges, and numerous species of nudibranchs. Additional residents include rockfish, lingcod, cabezon, wolf eels, and occasionally pelagic visitors. Giant Pacific octopus are regularly spotted in wall crevices.
+This site is densely populated with marine life. Confirmed residents (God's Pocket Resort, Scuba Diving Magazine) include giant Pacific octopus, the nudibranch *Dirona albolineata*, glove sponges (*Neoesperiopsis digitata*), metridium anemones, and orange/red soft corals, sculpins and additional nudibranch species. Earlier drafts of this page also listed lingcod, cabezon and wolf eels; those weren't confirmed for Browning Wall specifically in this review, so they're presented here only as commonly-seen BC reef species rather than confirmed sightings at this exact site.
 
 ## Dive Profile
 
@@ -62,7 +62,7 @@ Strong tidal currents are the defining feature — dives outside slack tide wind
 
 Wall dives offer exceptional wide-angle opportunities with the interplay of color and shadow along the face creating dramatic compositions. The dense invertebrate life provides countless macro subjects in wall crevices and overhangs. Bring underwater lights to illuminate the vibrant reds, oranges, and yellows of soft corals.
 
-- **Validation Source**: Web research (2026-03)
+- **Validation Source**: Re-audited 2026-07-08 against God's Pocket Resort, Scuba Diving Magazine, and seaotter.com
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*
+*Sources: [God's Pocket Resort — Diving](https://www.godspocket.com/diving/), [Scuba Diving Magazine — Deep in God's Pocket](https://www.scubadiving.com/travel/canada/deep-gods-pocket), [seaotter.com — Browning Wall](http://www.seaotter.com/marine/html/browning.html). Last updated 2026-07-08. Note: the prior validation_source domain godspocketresort.com no longer resolves; the operator's current domain is godspocket.com.*

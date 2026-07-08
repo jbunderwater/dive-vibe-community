@@ -17,7 +17,7 @@ Cala Sidoti is a reef dive site in Ustica, Europe.
 
 ## Overview
 
-Cala Sidoti is a sheltered black-pebble cove on Ustica's southern coast, lying within Zone A of Italy's oldest Marine Protected Area where fishing has been prohibited since 1986. The shallow volcanic reef barely exceeds 10 metres, making it one of the island's best shore entries for snorkelers and newer divers, with crystal-clear water and permanent populations of grouper, wrasse, and damselfish that have grown habituated to divers over decades of protection. No site-specific marine life reports beyond the general described population were found from independent sources.
+Cala Sidoti is a dark-pebble cove on Ustica's western side, lying within Zone A of Italy's oldest Marine Protected Area (the integral reserve, where fishing has been prohibited since 1986 and bathing is restricted to Cala Sidoti and Cala Acquario). The shallow volcanic reef barely exceeds 10 metres, making it one of the island's best shore entries for snorkelers and newer divers, with crystal-clear water and permanent populations of grouper, wrasse, and damselfish that have grown habituated to divers over decades of protection. No site-specific marine life survey beyond this general reserve population was found from independent sources.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Cala Sidoti is a sheltered black-pebble cove on Ustica's southern coast, lying w
 - **Maximum Depth**: 10 meters
 
 ---
-*Sources: [Mister Jump - Ustica](https://www.misterjump.it/en/ustica), [Evasioni Blu Diving - AMP Ustica](https://www.evasionibludiving.com/eng/245-amp-ustica.asp), [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-06-08.*
+*Sources: [Mister Jump - Ustica](https://www.misterjump.it/en/ustica), [Evasioni Blu Diving - AMP Ustica](https://www.evasionibludiving.com/eng/245-amp-ustica.asp), [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-07-08.*
