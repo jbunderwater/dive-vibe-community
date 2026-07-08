@@ -262,7 +262,7 @@
           "west-pacific": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)"
         }
       },
-      "pr_url": null,
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/112",
       "errors": []
     },
     {
