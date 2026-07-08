@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Duppy Waters
 
-Duppy Waters is a north side wall dive at the eastern end of Turtle Harbour, named after the local Creole word for "ghost" — a reference to the eerie, sparkling quality of the water at this site after dark.
+Duppy Waters is a north side wall dive at the eastern end of Turtle Harbour, named after "duppy," the Caribbean Creole word for "ghost" — a reference to the way sunlight plays across the water and reef here, giving it an ethereal, ghostly appearance.
 
 ## Overview
 
-Duppy Waters features a reef top at 20–25 ft (6–8 m) with a sand channel running to 60 ft (18 m) and the wall dropping beyond 140 ft (43 m). The site marks the eastern boundary of Turtle Harbour and is paired with CJ's Drop Off at the western end for back-to-back north side dives on morning boat trips. The wall is decorated with oversized barrel sponges and the reef top offers a productive coral garden. Morning light on this north-facing wall provides excellent visibility into the blue during the descent. The name reflects local Caribbean English: "duppy" meaning ghost, referencing the ghostly shimmer the water takes on at night.
+Duppy Waters features a reef top at 20–25 ft (6–8 m) with a sand channel running to 60 ft (18 m) and the wall dropping beyond 140 ft (43 m). The site marks the eastern boundary of Turtle Harbour and is paired with CJ's Drop Off at the western end for back-to-back north side dives on morning boat trips. The wall is decorated with oversized barrel sponges and the reef top offers a productive coral garden, with eagle rays, stingrays, and the occasional foraging octopus reported on the sloping coral garden. Morning light on this north-facing wall provides excellent visibility into the blue during the descent.
 
 ## Marine Life
 
@@ -29,7 +29,6 @@ Large barrel sponges are a defining feature of the deeper wall sections. Grouper
 - **Sand channel**: to 60 ft (18 m)
 - **Wall**: drops past 140 ft (43 m)
 - **Current**: Present — typically aids buoyancy and brings cleaner water
-- **Night diving**: Noted for the ghostly bioluminescence that gives the site its name
 
 ## Entry / Exit
 
@@ -38,7 +37,7 @@ Boat dive, north side of Utila. Typically run as a morning dive alongside CJ's D
 ## Tips
 
 - Often paired with CJ's Drop Off in the same morning trip — plan dive profiles accordingly.
-- Night dives here are particularly atmospheric given the site's name and bioluminescent character.
+- Watch the sloping coral garden on the reef top for eagle rays and foraging octopus.
 - The reef top at 20–25 ft makes an ideal safety stop with plenty of life to observe.
 
 ## Photography
@@ -46,4 +45,4 @@ Boat dive, north side of Utila. Typically run as a morning dive alongside CJ's D
 Wide-angle on the barrel sponges against the deep blue wall background. The shallow reef top at 20 ft also offers good macro opportunities among juvenile reef fish.
 
 ---
-*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-05-17.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [Scuba Diving – 10 Things We Love About Utila](https://www.scubadiving.com/10-things-we-love-about-utila), [ZuBlu – Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-07-08 (re-audited: corrected the site's name-origin story — sources describe "duppy" as referring to a daytime sunlight effect on the water, not night-time bioluminescence as previously written; removed unsupported night-dive claim).*

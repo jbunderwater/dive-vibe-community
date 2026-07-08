@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Salt River Canyon
 
-Salt River Canyon is a wall dive site in US Virgin Islands, Caribbean.
+Salt River Canyon is a submerged canyon on St. Croix's north shore — the site where Columbus is said to have anchored in 1493 — split into an East Wall and West Wall by a chasm thousands of feet deep.
 
 ## Overview
 
-Salt River Canyon on St. Croix's north shore is a submerged river canyon where Columbus anchored in 1493, now divided into an East Wall and West Wall by a current-swept channel that drops from 15 meters at the canyon mouth to well over 60 meters into open water. The canyon walls are draped in black coral forests starting as shallow as 12 meters, along with huge barrel sponges, orange elephant ear sponges, and dense concentrations of deep-water gorgonians. Strong current at the channel opening funnels in pelagic life including eagle rays, turtles, Caribbean reef sharks, and occasionally hammerheads, while the walls themselves shelter lobster, moray eels, and spotted drums in every crevice.
+Salt River Canyon's East Wall (also called Barracuda Bank) has a mooring at about 12 meters (40 feet); from there the wall slopes down through sand chutes between hard-coral formations to around 24 meters (80 feet), where it drops off into open water. The West Wall — nicknamed "The Pinnacles" for rock formations believed to have been shaped by an ancient, above-ground waterfall — has a shallower mooring around 6 meters (20 feet) but plunges in stages to 60 meters, then 150 meters, and eventually thousands of feet down the canyon face. The Pinnacles' maze of swim-throughs, cuts, ledges, overhangs, and sand chutes is considered one of the more distinctive dive topographies in the Caribbean, and the West Wall is reportedly the most-requested boat dive on St. Croix.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Salt River Canyon on St. Croix's north shore is a submerged river canyon where C
 
 ## Marine Life
 
-The current-swept canyon channel funnels in eagle rays, hawksbill turtles, Caribbean reef sharks, and occasionally hammerheads, while the black coral forests starting at 12 metres shelter lobster, moray eels, and spotted drums in every crevice. Huge barrel sponges and orange elephant ear sponges drape the East and West Wall faces, creating a dense invertebrate ecosystem that rivals any wall in the US Virgin Islands.
+The East Wall holds large schools of black durgon, yellowtail snapper, soldierfish, and striped grunt over its hard-coral formations, with blacktip reef sharks and large spotted eagle rays commonly seen where the wall drops into open water, plus moray eels, barracuda, angelfish, parrotfish, lobster, and conch. The West Wall's Pinnacles draw rays gliding among the rock formations, reef fish sheltering under ledges, and jacks, grouper, permit, barracuda, and occasional sharks in the deeper sections. This update did not find a site-specific source confirming hammerhead sharks here, so that claim from an earlier version has been removed.
 
 ---
-*Sources: GoToStCroix, PADI, ScubaBoard. Last updated 2026-03-16.*
+*Sources: [GoToStCroix - Salt River Canyon Sites](https://www.gotostcroix.com/st-croix-blog/dive-the-salt-river-canyon-sites/), [PADI - Salt River Outer West Wall](https://www.padi.com/dive-site/united-states-virgin-islands/salt-river-outer-west-wall/), [Scuba Diving Magazine - Walled In](https://www.scubadiving.com/walled). Last updated 2026-07-08.*

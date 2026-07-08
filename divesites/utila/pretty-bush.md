@@ -46,4 +46,4 @@ Boat dive from Utila town. South side access remains reliable when north side co
 Among Utila's premier macro sites. Bring a dedicated macro lens — the varied substrate rewards methodical searching. Natural light is good in the shallow sections in the morning.
 
 ---
-*Sources: [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [ZuBlu – Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-05-17.*
+*Sources: [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [GreatestDiveSites – Honduras](https://honduras.greatestdivesites.com/), [PADI Travel](https://travel.padi.com/). Last updated 2026-07-08 (re-audited: macro-photography reputation re-confirmed via Scuba Diver Life; the hedged, no-exhaustive-species-inventory framing was retained since no site-specific species list was found).*

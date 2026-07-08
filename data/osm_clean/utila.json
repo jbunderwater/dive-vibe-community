@@ -10,11 +10,13 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "scubadiverlife.com, thescubadirectory.com, divescover.com",
+    "validation_source": "wediveutila.com, thescubadirectory.com, islaguru.com, scubadiverlife.com",
     "tags": {
       "name": "The Maze",
       "source": "survey",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -22,14 +24,17 @@
     "lat": 16.0955,
     "lon": -86.8617,
     "depth": 45,
-    "site_type": "seamount",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "zentacle.com, scubadiverlife.com, dive-the-world.com",
+    "validation_source": "wediveutila.com, scubadiverlife.com, islaguru.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "site_type corrected from invalid 'seamount' to 'pinnacle'; removed unconfirmed manta ray / whale shark claims"
     }
   },
   {
@@ -41,10 +46,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "zentacle.com, scubadiverlife.com, divebooker.com",
+    "validation_source": "wediveutila.com, scubadiverlife.com, scubadiving.com, zubludiving.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "corrected name-origin claim from unconfirmed night-bioluminescence story to sourced daytime sunlight explanation"
     }
   },
   {
@@ -56,10 +64,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "globaldiveguide.com, zentacle.com, scubadiverlife.com",
+    "validation_source": "wediveutila.com, scubadiverlife.com, scubaboard.com, globaldiveguide.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -71,10 +81,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "scubadiverlife.com, divebooker.com, alertdiver.eu, divessi.com",
+    "validation_source": "scubadiverlife.com, utiladivecenter.wordpress.com, divemasteraustin.com, wediveutila.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "wreck facts (cargo ship, ~30m/100ft length, sunk May 1998) cross-checked across 4 independent dive-specific sources; no Wikipedia entry exists; tonnage/build date not found in any source and remain omitted"
     }
   },
   {
@@ -86,10 +99,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "zentacle.com, divessi.com, utilascubadiving.com",
+    "validation_source": "zentacle.com, divessi.com, utilascubadiving.com, wediveutila.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -101,10 +116,13 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "divessi.com, padi.com, scubadiverlife.com",
+    "validation_source": "wediveutila.com, scubadiverlife.com, dan.org",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "removed unconfirmed species (Caesar grunts, Nassau grouper, spotted drum, pufferfish, damselfish); added DAN-confirmed macro fauna"
     }
   },
   {
@@ -116,10 +134,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "divessi.com, greatestdivesites.com, divescover.com",
+    "validation_source": "wediveutila.com, lenaonthemove.com, madisonvibra.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08",
+      "qa_note": "removed fabricated vessel-length claim (18m was the site depth, not the vessel's length, and no source gives an actual length); sources conflict on whether the vessel was a tugboat or a fishing/shrimp boat -- conflict noted in description; removed unconfirmed grouper/snapper"
     }
   },
   {
@@ -131,10 +152,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "divescover.com, zentacle.com, divebooker.com",
+    "validation_source": "divescover.com, zentacle.com, divebooker.com, wediveutila.com, scubadiverlife.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -146,10 +169,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "scubago.com, divejournal.io, padi.com, greatestdivesites.com",
+    "validation_source": "scubago.com, divejournal.io, padi.com, greatestdivesites.com, scubadiverlife.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -161,10 +186,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "divessi.com, scubadiving.place, adrex.com",
+    "validation_source": "divessi.com, scubadiving.place, adrex.com, wediveutila.com, scubadiverlife.com",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08"
     }
   },
   {
@@ -176,10 +203,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "divessi.com, thescubadirectory.com, zentacle.com",
+    "validation_source": "wediveutila.com, underwaterphotography.com, thescubadirectory.com, geoffschultz.org",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "last_qa_date": "2026-07-08"
     }
   }
 ]

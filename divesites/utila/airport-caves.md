@@ -46,4 +46,4 @@ Boat dive from Utila town. The south side location means calm conditions for mos
 An excellent macro site — toadfish and seahorses in the sand, silversides schooling in the cave mouth with light shafts overhead. Wide-angle divers can shoot the cave silhouette backlit by openings.
 
 ---
-*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-05-17.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/), [DiveScover – Airport Caves](https://divescover.com/dive-site/airport-caves/25202). Last updated 2026-07-08 (re-audited: cavern character, glassy sweepers/silversides, and seahorse/toadfish/stingray/eagle ray claims re-confirmed; no corrections needed).*

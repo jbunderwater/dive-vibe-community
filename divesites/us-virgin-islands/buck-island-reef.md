@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Buck Island Reef
 
-Buck Island Reef is a reef dive site in US Virgin Islands, Caribbean.
+Buck Island Reef National Monument protects one of the Caribbean's few remaining elkhorn coral barrier reef systems, ringing an uninhabited island off St. Croix's northeast coast.
 
 ## Overview
 
-Buck Island Reef National Monument off St. Croix's northeast coast encompasses one of the finest elkhorn coral barrier reef systems in the Caribbean, where a designated underwater snorkel trail leads through massive stands of staghorn coral, brain coral, and sea fans in 3-12 meters of gin-clear water. The monument's protected status since 1961 has allowed the reef to maintain exceptional biodiversity, with dense aggregations of parrotfish, blue tangs, queen angelfish, and virtually every common Caribbean reef species visible on a single dive. Green sea turtles nesting on Buck Island's beaches are a fixture in the water, and eagle rays frequently patrol the sandy lagoon between the reef and shore.
+Buck Island Reef National Monument sits about 1.5 miles north of St. Croix and was established as a national monument by President Kennedy in 1961, then expanded by President Clinton in 2001. A roughly 4,554-acre barrier reef, built largely from giant branching elkhorn coral, wraps around two-thirds of the island and forms the sheltered lagoon that contains one of only three official underwater snorkel trails in the United States. The trail itself is primarily a snorkeling feature, but scuba divers can access two designated dive areas along the reef in 9-12 meters of water. Because it is a National Monument, the island is boat-access only, reached via licensed tour operators from St. Croix.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Buck Island Reef National Monument off St. Croix's northeast coast encompasses o
 
 ## Marine Life
 
-Green sea turtles — which nest on Buck Island's protected beaches — are a fixture in the water, grazing through the staghorn, brain, and elkhorn coral formations in the warm shallows. Dense aggregations of stoplight parrotfish, blue tangs, queen angelfish, and virtually every common Caribbean reef species populate the monument's protected elkhorn barrier reef, and spotted eagle rays patrol the sandy lagoon between the reef and shore.
+The National Park Service documents more than 250 fish species within the monument, along with sea turtles, rays, barracuda, and sharks moving through the elkhorn coral formations. Buck Island's beaches are a documented sea turtle nesting site, so turtle encounters in the surrounding water are common, though no source consulted for this update confirmed which turtle species or specific ray species (e.g., eagle rays, named in an earlier version of this page) are seen on the dive areas specifically, so that detail has been generalized.
 
 ---
-*Sources: Zentacle, ScubaBoard, NPS Buck Island Reef National Monument. Last updated 2026-03-16.*
+*Sources: [NPS - Buck Island Reef National Monument](https://www.nps.gov/buis/planyourvisit/outdooractivities.htm), [GoToStCroix](https://www.gotostcroix.com/st-croix-blog/snorkel-buck-island/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g147401-d149043-Reviews-Buck_Island_Reef_National_Monument-St_Croix_U_S_Virgin_Islands.html). Last updated 2026-07-08.*

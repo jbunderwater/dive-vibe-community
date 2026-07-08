@@ -46,4 +46,4 @@ Boat dive from Utila town. Experienced divers can incorporate Stingray Point as 
 Excellent for ray photography — southern stingrays on sand, spotted eagle rays mid-water over the channel. The garden eel colonies are also a distinctive Utila subject. Wide-angle over the sand channel captures the scale of the habitat.
 
 ---
-*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-05-17.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Zentacle – Sting Ray Point](https://www.zentacle.com/Beach/4619/sting-ray-point), [DiveSSI – Stingray Point](https://www.divessi.com/en/mydiveguide/divesite/stingray-point-sting-ray-alley-honduras-69350). Last updated 2026-07-08 (re-audited: marine life claims — garden eels, seahorses, pipefish, flounder, spotted eagle rays, southern stingrays — re-confirmed against We Dive Utila; no corrections needed).*

@@ -17,28 +17,23 @@ Sutta zà Lisa is a wall dive site within the Ustica Marine Protected Area, Sici
 
 ## Overview
 
-Sutta zà Lisa — Sicilian dialect for "Sotto Zia Lisa" (Under Aunt Lisa) — is a dive site within the Riserva Naturale Marina di Ustica (Ustica Marine Protected Area), Italy's first officially designated marine reserve, established in 1986. The reserve extends over 15,000 hectares around the volcanic island of Ustica, located approximately 60 kilometres north of Palermo in the Tyrrhenian Sea.
+Sutta zà Lisa — "under 'zza Lisa" in Sicilian dialect — is a dive site within the Riserva Naturale Marina di Ustica (Ustica Marine Protected Area), Italy's first officially designated marine reserve, established in 1986. The name comes from a small stone ruin visible on the headland above the bay, originally a military lookout post and later the home of a woman locally remembered as "zza Lisa."
 
-The site takes the form of a wall formed from Ustica's characteristic basaltic lava rock, descending to approximately 20 metres. At around 30 metres (a slightly deeper route than the stated max depth), divers encounter octopus and grouper sheltering in the lava formations, and the site is documented as a location for finding amphora fragments that have fallen from ancient trading vessels and settled into the rock — vestiges of the rich maritime history of the Sicilian Channel. This makes Sutta zà Lisa of interest both for its marine life and for its archaeological character.
+**Re-verified 2026-07-08 — topography substantially expanded from prior description.** Orca Diving Ustica's own site page (not previously consulted) describes a canyon that begins inside the bay at around 3 metres and extends toward open water to roughly 18 metres. The west side of the site has three large rock formations, including the "cave of 'zza Lisa'" with a wide opening, and a sloping wall riddled with tunnels between 13 and 26 metres, some of them quite articulated. The overall site is reported to run about 300 metres.
 
-The site is listed by local dive operators as suitable for underwater photography, and the lava rock formations create interesting topography for exploring. It sits within the broader ecosystem that makes Ustica famous: the island's protected waters host the three signature species of the reserve — dusky groupers (Epinephelus marginatus) described by Profondo Blu Diving as present "everywhere in Ustica," amberjacks (Seriola dumerili), and large schools of Mediterranean barracuda. The long-term protection since 1986 has allowed predator populations to recover substantially.
+Amphora fragments (a type known as "spatheia") are documented at around 9 metres inside a submerged cave — refuse discarded by a late-Roman farm on the clifftop above — with further pottery shards settled into the lava rock at around 30 metres. This gives the site both marine-life and archaeological interest, consistent with the broader pattern of Roman-era wreckage found around Ustica's coastline.
 
 ## Dive Profile
 
 - **Entry**: Boat
-- **Depth range**: 5–20 m (wall); some sources note encounters at ~30 m in deeper route
-- **Wall type**: Basaltic lava rock formation
+- **Depth range**: ~3–30 m (bay canyon to deepest tunnels); maximum depth corrected to 30m to match sourced figures
+- **Topography**: Canyon, three rock formations, sloping wall with tunnels (13–26m)
 - **Conditions**: Typically calm in the Tyrrhenian; some current possible
-- **Visibility**: Generally excellent in the protected reserve; 20–30 m typical
 - **Best season**: May–October
 
 ## Marine Life
 
-- **Groupers**: Dusky groupers in lava rock crevices; abundant throughout the reserve
-- **Invertebrates**: Octopus in rock formations; Mediterranean spiny lobster
-- **Archaeological interest**: Amphora fragments in lava substrate
-- **Reserve species**: Amberjacks and barracuda from adjacent water column
-- **Photography**: Documented as a site suitable for underwater photography
+**Confirmed at this site** (Orca Diving Ustica, Ustica Sape): slipper lobsters, pencil sea urchins (notable here at shallower depths than their typical >40m range), grey mullet, nudibranchs and dotted sea slugs, seabream, brown groupers, moray eels, orange madrepore corals, octopus. Amberjacks and barracuda are reported in the area but are general reserve species rather than confirmed specifically at this site.
 
 ## Site Information
 
@@ -46,12 +41,8 @@ The site is listed by local dive operators as suitable for underwater photograph
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Protected Status**: Riserva Naturale Marina di Ustica (established 1986, Italy's first marine reserve)
 
-## Additional Resources
-
-- **Last Updated**: 2026-05-17
-
 ---
-*Sources: [Lustrica Diving Ustica — dive sites](https://www.lustricadiving.it/dives/?lang=en), [Profondo Blu Diving Ustica — Ustica Essentials](https://profondobludiving.com/content/ustica-essentials.html), [Evasioni Blu Diving — Secca della Colombara / Ustica](https://www.evasionibludiving.com/eng/200-secca-della-colombara.asp), [PADI — Diving in Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-06-08.*
+*Sources: [Orca Diving Ustica — Sutta a Za' Lisa](https://www.orcadivingustica.com/en/dive-sites/sutta-a-za-lisa), [Ustica Sape — pesca subacquea con anfore, polpo e cernia](https://www.usticasape.it/ustica-pesca-subacquea-con-anfore-polpo-e-cernia/), [PADI — Diving in Ustica](https://www.padi.com/diving-in/italy/ustica/). Last updated 2026-07-08.*

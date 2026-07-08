@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cow and Calf
 
-Cow and Calf is a reef dive site in US Virgin Islands, Caribbean.
+Cow and Calf Rocks are twin coral-covered rock outcroppings off St. Thomas's south coast, laced with swim-through tunnels, ledges, and small caves.
 
 ## Overview
 
-Cow and Calf is a pair of shallow pinnacle reefs off St. Thomas's south coast, where the "Cow" — the larger formation — tops out at about 6 meters while the "Calf" rises to just under the surface, creating an unusual diving environment with two distinct reef structures to explore in a single dive. The coral-covered pinnacles attract large concentrations of reef fish including blue chromis clouds, barracuda circling overhead, and dense schools of creole wrasse, while the sandy channels between the formations provide resting spots for southern stingrays. The site's shallow profile and minimal current make it accessible to all certification levels.
+Cow and Calf sit off the southeast coast of St. Thomas, where two rock formations break the surface — the larger "Cow" and the smaller "Calf" — connected underwater by a maze of swim-through tunnels, archways, and small caves. Depth tops out around 12 meters (40 feet), and visibility is typically excellent, which along with the shallow, low-current profile makes this a popular site for introductory dives and open-water certifications. According to dive-tourism sources, local lore holds that the rocks got their name from whalers who mistook the two outcroppings for a whale cow and calf — presented here as repeated local lore rather than a documented historical record. One notable swim-through, nicknamed the "champagne cork," can push divers up through a narrow chute on days with surge or wave action.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Cow and Calf is a pair of shallow pinnacle reefs off St. Thomas's south coast, w
 
 ## Marine Life
 
-Dense schools of blue chromis and creole wrasse cloud the coral-covered pinnacles, with barracuda circling overhead and southern stingrays resting in the sandy channels between the two formations. Queen angelfish, parrotfish, and blue tangs are reef regulars at both structures, and the shallow, low-current environment makes it easy to spend extended time observing the abundant fish community.
+Sources describe an abundance of fish, turtles, lobsters, rays, and sharks at Cow and Calf without naming specific species tied to this exact site, so that general characterization is used here. An earlier version of this page named specific species (queen angelfish, parrotfish, blue tangs, blue chromis) that no source consulted for this update could confirm as sightings at this particular site; they have been removed rather than carried forward unverified.
 
 ---
-*Sources: Virgin Islands Charter Yachts, Zentacle, TripAdvisor. Last updated 2026-03-16.*
+*Sources: [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/US_Virgin_Islands/St_Thomas_Cow_and_Calf_Rocks_dive_site.html), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g147404-d149950-Reviews-Cow_and_Calf_Rocks-St_Thomas_U_S_Virgin_Islands.html), [PADI Dive Site - Cow Rock](https://www.padi.com/dive-site/united-states-virgin-islands/cow-rock/). Last updated 2026-07-08.*

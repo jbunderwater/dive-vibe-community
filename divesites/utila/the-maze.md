@@ -21,7 +21,7 @@ Located in Turtle Harbour on the north side of Utila, The Maze is defined by a s
 
 ## Marine Life
 
-The maze channels and caves shelter a variety of Caribbean invertebrates and reef fish. Documented species at this site include southern stingrays encountered in the channels, scorpionfish (well-camouflaged against the reef — look carefully), lionfish in the deeper cave section, lobster, green moray eels, queen triggerfish, and nudibranchs on the reef walls. Seahorses have been observed in the Turtle Harbour area, and the site is recommended for macro photography throughout.
+The maze channels and caves shelter a variety of Caribbean invertebrates and reef fish. Documented species at this site include southern stingrays encountered in the channels, scorpionfish (well-camouflaged against the reef — look carefully), lobster, green moray eels, queen triggerfish, nudibranchs, and seahorses. No source confirms lionfish specifically at this site; the deeper cave feature is noted for its structure rather than a particular species.
 
 ## Dive Profile
 
@@ -44,7 +44,7 @@ Boat dive, north side of Utila. Located in Turtle Harbour alongside neighbouring
 
 ## Photography
 
-An excellent macro site — nudibranchs on the channel walls, lobster in crevices, and the possibility of lionfish portraits in the cave. The shallow, well-lit channels provide good ambient light for natural-light photography in the morning.
+An excellent macro site — nudibranchs on the channel walls, lobster in crevices, and seahorses in the surrounding coral. The shallow, well-lit channels provide good ambient light for natural-light photography in the morning.
 
 ---
-*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [The Scuba Directory – The Maze, Utila](https://thescubadirectory.com/divesiteprofile/The-Maze-Utila-Honduras-Dive-Site), [IslasGuru – Diving in Utila Guide](https://www.islaguru.com/articles/diving-in-utila-guide). Last updated 2026-05-17.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [The Scuba Directory – The Maze, Utila](https://thescubadirectory.com/divesiteprofile/The-Maze-Utila-Honduras-Dive-Site), [IslasGuru – Diving in Utila Guide](https://www.islaguru.com/articles/diving-in-utila-guide), [Scuba Diver Life – Best Dive Sites in Utila](https://scubadiverlife.com/the-best-dive-sites-in-utila/). Last updated 2026-07-08 (re-audited: removed unconfirmed lionfish claim).*
