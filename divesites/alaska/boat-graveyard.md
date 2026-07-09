@@ -52,4 +52,4 @@ Access would be by boat from Sitka (the nearest significant port). No establishe
 Cold-water wreck site in the Inside Passage. Dry suit mandatory. No information on structural conditions of any wreck at this location — avoid penetration without current site-specific knowledge. Buddy diving required. Tidal current timing is important throughout the Inside Passage.
 
 ---
-*Description based on OSM data and regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM data and regional diving characteristics. No site-specific sources found. Last updated 2026-07-09 (re-checked; still no site-specific dive sources found).*

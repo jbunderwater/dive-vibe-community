@@ -13,51 +13,35 @@ addedBy: osm_import
 
 ## Table Rock
 
-A submerged rocky formation in the cold Aleutian approaches offering kelp forest diving and productive cold-water communities.
+A flat-topped rock in the Aleutian approaches, named descriptively by the U.S. Coast and Geodetic Survey in 1927 — no confirmed dive history.
 
 ## Overview
 
-Table Rock is located in the waters of the Alaska Peninsula near the Cold Bay and Shumagin Islands area, where Bering Sea influence meets the North Pacific. This is remote Alaskan diving at its most extreme — far from any major population center, with a marine environment shaped by the cold, nutrient-dense waters pouring from the Bering Sea. The flat-topped rock formation (suggested by its name) supports kelp forest development in the shallower zones and dense encrusting invertebrates at depth. Access to this site requires serious logistical commitment, but the undisturbed cold-water marine life here is exceptional. The Alaska Peninsula region supports massive populations of Steller sea lions, brown bears, and seabirds, adding a remarkable surface wildlife dimension to any dive expedition.
+Table Rock lies on the north side of Deer Passage off Bold Cape, roughly 23 miles southeast of Cold Bay in the Aleutians/Alaska Peninsula region. It is a documented USC&GS chart feature: "Descriptive name given by USC&GS in 1927 on Chart 8703" (Dictionary of Alaska Place Names, Orth, 1971). No dive shop, ScubaBoard, or trip-report source references recreational diving at this remote, weather-exposed location.
 
 ## Site Information
 
-- **Location**: Alaska Peninsula / Shumagin Islands area, Southwest Alaska
+- **Location**: North side of Deer Passage, off Bold Cape, ~23 miles SE of Cold Bay, Alaska Peninsula
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 8–20 meters (26–66 feet)
-- **Current**: Moderate to strong — slack tide required
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Tidal, variable
 - **Water Temperature**: 3–10°C (37–50°F)
-- **Best Time**: June–August
+- **Best Time**: Unknown
 
 ## Marine Life
 
-Table Rock's cold waters support giant Pacific octopus, lingcod, Atka mackerel, Pacific cod, and various rockfish species. Kelp in the shallower zones provides habitat for juvenile fish and invertebrates. Sea urchins, anemones, and encrusting sponges cover the deeper reef faces. Steller sea lions are common in the broader area and occasionally investigate divers. Intertidal zones near the rock may expose starfish and intertidal fish during low water.
-
-## Dive Profile
-
-Explore the upper flat section and descend the rock faces during slack tide. The kelp zone at 5–12 meters is productive for smaller fish and invertebrate observations. Deeper sections at 15–24 meters feature the densest anemone and sponge coverage. Cold temperatures at this location demand conservative bottom time planning.
+No site-specific marine life reports exist for Table Rock. Regional Alaska Peninsula/Aleutians fauna (rockfish, lingcod, king crab, kelp-associated species) applies generally to the area, but no species are confirmed at this specific location, so none are attributed here.
 
 ## Entry and Exit
 
-Access requires a specialized charter from Cold Bay, King Cove, or Sand Point — there are very few regular dive operators in this area. Self-organized expeditions with a capable Alaska vessel are the typical access method. Conditions in this area can be extreme — abort procedures should be established before any dive begins.
-
-## Tips and Recommendations
-
-- This is an expedition dive site requiring significant advance planning and self-sufficiency
-- Water temperatures can approach 3°C — high-specification dry suits and undersuits are required
-- The Alaska Peninsula is bear country topside — follow appropriate safety protocols when ashore
-- Bering Sea weather is notoriously unpredictable — plan multiple weather contingency days
-- This site rewards divers with interest in Pacific Northwest kelp forest ecosystems
+This site has no documented recreational dive charter access. Any of the general Southeast Alaska or Aleutians-region operators referenced for nearby validated sites may be able to advise on current conditions, but no operator-specific listing for this location was found.
 
 ## Safety Considerations
 
-Table Rock sits in one of the most remote and weather-affected corners of Alaska. Emergency rescue response is measured in hours to days. All divers must be self-sufficient and experienced in cold-water diving. Seas in this area can be rough with minimal warning — weather monitoring is critical throughout any expedition.
-
-## Photography
-
-The kelp forest and cold-water reef environment offer a unique photographic context rarely available to visiting divers. Wide-angle shots of kelp canopy with fish subjects are striking. Macro photography of cold-water invertebrates found in this Bering Sea-influenced environment can document species difficult to access elsewhere. Natural light is limited — artificial lighting is essential.
+No dive-specific safety information exists for this site. Divers considering it should treat it as an unsurveyed cold-water Alaska location: dry suit and full thermal protection are mandatory, tidal currents in this region are frequently strong, and a conservative, well-briefed approach with local knowledge (where available) is essential.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Sources: [Dictionary of Alaska Place Names (Orth, 1971) via alaska.guide](https://alaska.guide/). No site-specific diving documentation found; description reflects general geographic/historical research only. Last updated 2026-07-09.*

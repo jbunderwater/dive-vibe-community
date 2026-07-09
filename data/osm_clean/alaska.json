@@ -16,7 +16,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -36,7 +37,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -56,7 +58,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -76,7 +79,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -96,7 +100,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -116,7 +121,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -136,7 +142,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -156,7 +163,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -179,8 +187,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "alaskashipwreck.com,evergreenfleet.com,incidentnews.noaa.gov",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "alaskashipwreck.com,evergreenfleet.com,incidentnews.noaa.gov,shipwreckworld.com",
+      "last_qa_date": "2026-07-09",
+      "qa_note": "Re-audited 2026-07-09: dimensions/dates re-confirmed; no dive-specific (ScubaBoard/operator) source found confirming this as an actively-dived site."
     }
   },
   {
@@ -201,7 +210,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: extensive research (dive shops, ScubaBoard, gazetteers, nautical charts) found no evidence of recreational scuba diving at this site. Appears to be a charted navigational/gazetteer feature (rock, reef, or sand/gravel bar). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -221,7 +231,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: extensive research (dive shops, ScubaBoard, gazetteers, nautical charts) found no evidence of recreational scuba diving at this site. Appears to be a charted navigational/gazetteer feature (rock, reef, or sand/gravel bar). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -241,7 +252,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: extensive research (dive shops, ScubaBoard, gazetteers, nautical charts) found no evidence of recreational scuba diving at this site. Appears to be a charted navigational/gazetteer feature (rock, reef, or sand/gravel bar). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -261,7 +273,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: extensive research (dive shops, ScubaBoard, gazetteers, nautical charts) found no evidence of recreational scuba diving at this site. Appears to be a charted navigational/gazetteer feature (rock, reef, or sand/gravel bar). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -281,7 +294,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -301,7 +315,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -321,7 +336,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -342,7 +358,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: deep wreck research attempted (Wikipedia, alaskashipwreck.com, NOAA, ScubaBoard). No vessel record matching this name/location was found, so vessel name/build date/tonnage/sinking cause could not be cross-checked across 2+ independent sources as required. Left unvalidated per anti-hallucination policy -- do not mark validated without real sourcing."
     }
   },
   {
@@ -365,7 +382,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: deep wreck research attempted (Wikipedia, alaskashipwreck.com, NOAA, ScubaBoard). No vessel record matching this name/location was found, so vessel name/build date/tonnage/sinking cause could not be cross-checked across 2+ independent sources as required. Left unvalidated per anti-hallucination policy -- do not mark validated without real sourcing."
     }
   },
   {
@@ -388,7 +406,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: deep wreck research attempted (Wikipedia, alaskashipwreck.com, NOAA, ScubaBoard). No vessel record matching this name/location was found, so vessel name/build date/tonnage/sinking cause could not be cross-checked across 2+ independent sources as required. Left unvalidated per anti-hallucination policy -- do not mark validated without real sourcing."
     }
   },
   {
@@ -410,8 +429,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,en.wikipedia.org/wiki/Exxon_Valdez_oil_spill,evostc.state.ak.us",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "wikipedia.org,evostc.state.ak.us,incidentnews.noaa.gov,dec.alaska.gov,alaskashipwreck.com",
+      "last_qa_date": "2026-07-09",
+      "qa_note": "Re-audited 2026-07-09: corrected Pathfinder grounding date (Dec 23, not Dec 24, 2009) and cargo (diesel ~6,400gal, not crude); flagged unresolved SS Olympia date conflict (Dec 10 vs Dec 13, 1910) rather than picking one."
     }
   },
   {
@@ -440,8 +460,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "en.wikipedia.org/wiki/Leschi_(steam_ferry),alaskashipwreck.com,progressivealaska.blogspot.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "en.wikipedia.org,alaskashipwreck.com,progressivealaska.blogspot.com,evergreenfleet.com",
+      "last_qa_date": "2026-07-09",
+      "qa_note": "Re-audited 2026-07-09: capsize-date conflict widened from 2 sources (1979/1986) to 3 sources (1978/1979/1986) after direct re-verification; flagged as unresolved rather than picking one date."
     }
   },
   {
@@ -461,31 +482,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
-    }
-  },
-  {
-    "name": "USS Coldbrook",
-    "lat": 59.4271357,
-    "lon": -146.3573015,
-    "osm_id": 665637588,
-    "osm_type": "way",
-    "depth": 19,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "historic": "wreck",
-      "name": "USS Coldbrook",
-      "seamark:type": "wreck",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "false",
-      "validation_source": "",
-      "qa_note": "CRITICAL: SS Coldbrook (not USS) grounded 1942 on Middleton Island. The 1964 Alaska earthquake raised the island 12 feet, leaving the wreck permanently above water. This is NOT a dive site — the vessel sits on land above the high tide line and serves as a seabird nesting colony. Site should be flagged for removal from dive database.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: coordinates place this site near Langara Island / Haida Gwaii, British Columbia -- NOT the Ketchikan, Alaska area as prior markdown text stated. No ScubaBoard, dive-shop, or trip-report evidence of recreational scuba diving found. Appears to be a charted nautical/fishing/scenic landmark, not a confirmed dive site. Flagged for destination-scope review (may not belong in the Alaska dataset at all). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -506,7 +504,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: extensive research (dive shops, ScubaBoard, gazetteers, nautical charts) found no evidence of recreational scuba diving at this site. Appears to be a charted navigational/gazetteer feature (rock, reef, or sand/gravel bar). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -526,7 +525,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: extensive research (dive shops, ScubaBoard, gazetteers, nautical charts) found no evidence of recreational scuba diving at this site. Appears to be a charted navigational/gazetteer feature (rock, reef, or sand/gravel bar). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -546,7 +546,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: extensive research (dive shops, ScubaBoard, gazetteers, nautical charts) found no evidence of recreational scuba diving at this site. Appears to be a charted navigational/gazetteer feature (rock, reef, or sand/gravel bar). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -566,7 +567,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: extensive research (dive shops, ScubaBoard, gazetteers, nautical charts) found no evidence of recreational scuba diving at this site. Appears to be a charted navigational/gazetteer feature (rock, reef, or sand/gravel bar). Left unvalidated -- do not mark validated without real dive-specific sourcing."
     }
   },
   {
@@ -587,8 +589,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "en.wikipedia.org/wiki/Vanderbilt_Reef,en.wikipedia.org/wiki/SS_Princess_Sophia,nps.gov",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "en.wikipedia.org,nps.gov,thescubanews.com,ktoo.org",
+      "last_qa_date": "2026-07-09",
+      "qa_note": "Re-audited 2026-07-09: widened Princess Sophia death-toll range to 343-367 per multi-source check; added confirmed drift-distance detail."
     }
   },
   {
@@ -609,7 +612,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: deep wreck research attempted (Wikipedia, alaskashipwreck.com, NOAA, ScubaBoard). No vessel record matching this name/location was found, so vessel name/build date/tonnage/sinking cause could not be cross-checked across 2+ independent sources as required. Left unvalidated per anti-hallucination policy -- do not mark validated without real sourcing."
     }
   },
   {
@@ -630,7 +634,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-09",
+      "qa_note": "QA 2026-07-09: deep wreck research attempted (Wikipedia, alaskashipwreck.com, NOAA, ScubaBoard). No vessel record matching this name/location was found, so vessel name/build date/tonnage/sinking cause could not be cross-checked across 2+ independent sources as required. Left unvalidated per anti-hallucination policy -- do not mark validated without real sourcing."
     }
   },
   {
@@ -656,8 +661,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "alaskashipwreck.com,coastview.org,scubaboard.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "alaskashipwreck.com,coastview.org,scubaboard.com,usmm.org,maritime.dot.gov",
+      "last_qa_date": "2026-07-09",
+      "qa_note": "Re-audited 2026-07-09: corrected original vessel name from 'Francia A. Retka' to 'Francis A. Retka' (typo in prior QA pass); confirmed tug Adeline Foss identity."
     }
   }
 ]

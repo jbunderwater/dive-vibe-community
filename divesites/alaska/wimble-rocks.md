@@ -13,51 +13,37 @@ addedBy: osm_import
 
 ## Wimble Rocks
 
-A cluster of submerged rocks in the outer Ketchikan area offering cold-water reef diving in a tidal environment.
+A charted rock cluster east of the Langara Island group, toward open Dixon Entrance, with no confirmed dive documentation.
 
 ## Overview
 
-Wimble Rocks is a cluster of submerged rocky formations in the outer approaches to Ketchikan, positioned where tidal currents in the Inner Passage flow across the structures and deliver nutrients to resident filter feeders. Like the nearby Observatory Rock and Haswell Reef, Wimble Rocks carries the dense invertebrate community — aggregating anemones, encrusting sponges, sea stars, and nudibranchs — that characterizes the best Inside Passage rocky reef sites. Lingcod are the signature fish species here, while giant Pacific octopus occupy the deeper crevices. The clustered nature of the rocks means a single dive can explore multiple distinct structures in the slack window.
+Wimble Rocks is the easternmost of this cluster of named features, roughly 50 km east of Langara Island toward open Dixon Entrance and Hecate Strait, past Rose Spit. No source of any kind — fishing, ecological-reserve documentation, place-name records, nautical charts, or diving — was found to reference this name.
+
+**Geographic note:** This site's coordinates place it between Langara Island and Rose Spit on Graham Island's north coast (Haida Gwaii, British Columbia) — not the Ketchikan area of Southeast Alaska as earlier text on this page stated. This stretch of coast is documented for marine bird habitat (Rose Spit Ecological Reserve) and halibut banks near Naden Harbour, not for recreational scuba diving. No ScubaBoard threads, dive shop listings, or trip reports referencing this site were found in this QA pass.
 
 ## Site Information
 
-- **Location**: Outer Ketchikan area, Southeast Alaska
+- **Location**: East of Langara Island, toward Dixon Entrance/Hecate Strait, Haida Gwaii, British Columbia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Strong — slack tide required
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Tidal, variable
 - **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Best Time**: Unknown
 
 ## Marine Life
 
-Wimble Rocks supports dense aggregating and plumose anemone colonies, colonial tunicates, encrusting red and orange sponges, and multiple sea star species across the rock cluster. Lingcod patrol the rock faces and commonly rest in exposed depressions. Black and quillback rockfish are found in mid-water. Giant Pacific octopus have been observed in the deeper sections. Nudibranchs are present on encrusting surfaces and reward close-focus inspection.
-
-## Dive Profile
-
-The rock cluster allows exploration of multiple structures in a single dive during the slack window. Descend onto the most prominent rock first and work systematically across the cluster. Depths top out at 23 meters — a comfortable sport diving range that allows for extended no-decompression bottom time. Ascend with an SMB and allow a full safety stop before surfacing.
+No site-specific marine life reports exist. No species are attributed to this site.
 
 ## Entry and Exit
 
-Ketchikan charter dive operators access Wimble Rocks as part of their regular outer-area rotation. No permanent moorings — GPS positioning and shot or anchor line descent. SMB deployment on ascent is essential.
-
-## Tips and Recommendations
-
-- Wimble Rocks pairs well with Observatory Rock and Haswell Reef for a full day of southern Ketchikan diving
-- The 23-meter max depth makes this one of the more forgiving sites in the cluster for dive planning
-- Multiple structures in one dive give photographers varied subject distances and backgrounds
-- Calm, slow movement between rocks reduces current exposure and improves marine life interactions
-- Always carry a compass for navigation between clustered structures
+This site has no documented recreational dive charter access. Any of the general Southeast Alaska or Aleutians-region operators referenced for nearby validated sites may be able to advise on current conditions, but no operator-specific listing for this location was found.
 
 ## Safety Considerations
 
-Current management remains the primary concern, even at this shallower cluster. Separation between rocks during a slack dive can expose divers to unexpected flow. Buddy pairs should agree on compass bearings between structures before descending. Dry suit and cold-water gear are mandatory for all dives in this area.
-
-## Photography
-
-The multi-rock structure of Wimble Rocks gives photographers the opportunity to switch between close-focus invertebrate compositions and broader reef scenes across a single dive. Anemone colonies and sea stars are excellent subjects in ambient light supplemented by a strobe. Lingcod on encrusted rock faces are a classic Pacific Northwest diving image.
+No dive-specific safety information exists for this site. Divers considering it should treat it as an unsurveyed cold-water Alaska location: dry suit and full thermal protection are mandatory, tidal currents in this region are frequently strong, and a conservative, well-briefed approach with local knowledge (where available) is essential.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-07-09.*

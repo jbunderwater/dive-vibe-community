@@ -46,4 +46,4 @@ Cold Bay has a regional airport and serves as the nearest accessible community. 
 Extremely remote location in some of Alaska's most challenging marine conditions. Emergency response is severely limited. Dry suit and full cold-water gear mandatory. Buddy diving required. This is an expedition-level site.
 
 ---
-*Description based on OSM data and regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM data and regional diving characteristics. No site-specific sources found. Last updated 2026-07-09 (re-checked; still no site-specific dive sources found).*

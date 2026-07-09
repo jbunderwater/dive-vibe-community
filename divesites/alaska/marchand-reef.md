@@ -13,51 +13,37 @@ addedBy: osm_import
 
 ## Marchand Reef
 
-A submerged reef in the Ketchikan cluster known for its dense anemone coverage and regular lingcod activity.
+The reef fronting the historic Haida village site of Kiusta on Graham Island, protecting it from Parry Passage currents.
 
 ## Overview
 
-Marchand Reef is one of the named reef formations clustered in the Dixon Entrance approaches south of Ketchikan, where some of Alaska's most productive cold-water dive sites are concentrated. The reef rises to manageable depths while descending to 26 meters, providing a full dive profile across zones with distinctly different fauna. Upper reef faces carry the densest anemone and sponge coverage, while deeper sections host larger lingcod and provide shelter for giant Pacific octopus. Like all sites in this group, successful diving requires coordinating the descent with slack tide windows. The site is regularly visited by Ketchikan dive operators and benefits from consistent local operational knowledge.
+Marchand Reef is a documented, named feature fronting Kiusta, a historic Haida village site on the northwest coast of Graham Island (Haida Gwaii, British Columbia), across from Langara Island. Sources describe the reef as shielding Kiusta from the strong currents of Parry Passage; a Haida Watchmen's cabin stands on its east side. It is documented as a landmark for kayakers and in the cultural/historical record of Kiusta, not as a scuba dive destination — no dive shop, ScubaBoard, or trip-report source references diving here.
+
+**Geographic note:** This site's coordinates place it near Langara Island and northwest Graham Island, part of Haida Gwaii, British Columbia — not the Ketchikan area of Southeast Alaska as earlier text on this page stated. The Langara Island area is internationally known for salmon and halibut sport fishing (Langara Fishing Adventures, West Coast Fishing Club), not scuba diving. No ScubaBoard threads, dive shop listings, or dive trip reports referencing this site were found in this QA pass.
 
 ## Site Information
 
-- **Location**: Ketchikan area reef cluster, Southeast Alaska
+- **Location**: Fronting Kiusta, northwest Graham Island, Haida Gwaii, British Columbia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Strong — slack tide required
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Tidal, variable
 - **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Best Time**: Unknown
 
 ## Marine Life
 
-Marchand Reef carries the typical Inside Passage cold-water community: aggregating anemones, plumose anemones, encrusting sponges, Pisaster and sunflower sea stars, sea urchins, and horse mussels. Rockfish schools are common in mid-water above the structure. Lingcod are the dominant large predators and are often surprisingly approachable. Giant Pacific octopus, wolf eels, and cabezon have all been reported by local divers at this site.
-
-## Dive Profile
-
-Descend on the structure during slack, spending initial time at 20–26 meters before ascending progressively through the mid-range zones. The upper reef at 8–14 meters provides a natural safety stop zone with plenty of interest to keep divers occupied. Allow a full 3-minute safety stop before surfacing.
+No site-specific marine life reports from divers exist. No species are attributed to this site.
 
 ## Entry and Exit
 
-Ketchikan operators run regular trips to Marchand Reef as part of multi-site dive days in this cluster. No permanent moorings — shot line descent is standard. SMB mandatory for all ascents.
-
-## Tips and Recommendations
-
-- Marchand Reef pairs well with neighboring sites like Alert Rock and Harvey Rock for a full day
-- Giant Pacific octopus are typically found in crevices below 15 meters — look for shell middens outside den entrances
-- Cold-water lingcod often allow very close approaches — avoid touching them, but slow, calm movement permits excellent views
-- Prepare for water temperatures potentially dropping below 8°C even in summer at depth
-- Dry suit checks including valve tests should be completed before departure from port
+This site has no documented recreational dive charter access. Any of the general Southeast Alaska or Aleutians-region operators referenced for nearby validated sites may be able to advise on current conditions, but no operator-specific listing for this location was found.
 
 ## Safety Considerations
 
-Current management is the critical skill for this site. Aborting the dive and rescheduling if conditions are unsuitable is always the right decision. Dry suit proficiency and proper undersuit insulation are mandatory. Cold water increases air consumption — dive conservatively and maintain agreed turn pressures with your buddy.
-
-## Photography
-
-Marchand Reef is a strong photography site within the Ketchikan cluster. The dense anemone coverage provides excellent textured backgrounds for fish portraits. Lingcod are highly photogenic and relatively cooperative. Macro subjects — nudibranchs, tube worms, sea stars — reward slow, careful exploration of the encrusted surfaces.
+No dive-specific safety information exists for this site. Divers considering it should treat it as an unsurveyed cold-water Alaska location: dry suit and full thermal protection are mandatory, tidal currents in this region are frequently strong, and a conservative, well-briefed approach with local knowledge (where available) is essential.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Sources: [Wikipedia — Kiusta](https://en.wikipedia.org/wiki/Kiusta), [BC Marine Trails](https://bcmarinetrails.org/). No site-specific diving documentation found; description reflects general geographic/historical research only. Last updated 2026-07-09.*

@@ -13,51 +13,35 @@ addedBy: osm_import
 
 ## Desconocida Reef
 
-A remote submerged reef in the outer islands of Southeast Alaska, named for its historical obscurity among mariners.
+A gazetteer-listed reef in outer Southeast Alaska with a Spanish exploration-era name — no confirmed dive documentation.
 
 ## Overview
 
-Desconocida Reef — its name derived from the Spanish word for "unknown" — sits among the outer island chains of Southeast Alaska, likely named for the hazard it presented to early navigators unfamiliar with the waters. Today it attracts divers for the same remote, undisturbed quality that once made it dangerous: minimal boat traffic, clear water during low-plankton periods, and intact cold-water communities undisturbed by heavy diving pressure. The reef is covered in aggregating anemones and encrusting sponges, with lingcod and rockfish occupying the structure. Getting here requires a committed boat trip, but the reward is an essentially wild dive experience in the Alaskan archipelago.
+Desconocida Reef (Spanish for "unknown") is listed under the "bar" category in the Alaska gazetteer, in the outer islands of Southeast Alaska near other Spanish-named features from the exploration era (Point Garcia, San Christoval Channel). No dive shop, forum, or trip-report source connects it to recreational diving.
 
 ## Site Information
 
-- **Location**: Outer island chains, Southeast Alaska
+- **Location**: Outer island chains, Southeast Alaska, near Point Garcia and San Christoval Channel
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 8–20 meters (26–66 feet)
-- **Current**: Moderate to strong — slack tide required
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Tidal, variable
 - **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Best Time**: Unknown
 
 ## Marine Life
 
-Cold Pacific upwellings sustain diverse invertebrate life on Desconocida Reef. Dense anemone colonies, leather stars, sunflower sea stars, and encrusting bryozoans cover the hard substrate. Lingcod and rockfish species patrol the reef, with larger individuals found in deeper sections. Giant Pacific octopus are likely residents in crevices along the base. The remote location means minimal human disturbance, so animal behavior tends to be natural and unhurried.
-
-## Dive Profile
-
-Explore the reef perimeter during the slack window, staying close to the substrate for protection from ambient current. The upper reef zone at 8–15 meters is most productive for invertebrates. Work deeper sections for larger fish encounters. Allow extra ascent time and safety stop duration given the remote location and limited rescue resources.
+No site-specific marine life reports exist. No species are attributed to this site.
 
 ## Entry and Exit
 
-This site requires a capable offshore charter from Southeast Alaska. There are no permanent moorings or infrastructure. GPS positioning is essential. Brief all divers thoroughly on abort conditions before descent, and ensure every diver carries an SMB and audible signal device.
-
-## Tips and Recommendations
-
-- Only attempt this site with experienced Alaska dive operators with local knowledge
-- Check extended weather forecasts — offshore runs in exposed water require good conditions
-- Pre-plan dive profiles conservatively given distance from emergency services
-- Thermal protection must be verified before leaving port
-- Bring backup surface signaling (mirror, strobe) in addition to SMB
+This site has no documented recreational dive charter access. Any of the general Southeast Alaska or Aleutians-region operators referenced for nearby validated sites may be able to advise on current conditions, but no operator-specific listing for this location was found.
 
 ## Safety Considerations
 
-Remoteness compounds every other risk factor at this site. Emergency response times are very long. Weather windows in Southeast Alaska can close quickly. Divers must be self-sufficient and conservative in planning. Current management and dry suit proficiency are non-negotiable prerequisites.
-
-## Photography
-
-The undisturbed nature of Desconocida Reef makes it attractive for underwater photography. Wide-angle coverage of intact anemone fields and reef structure, along with macro work on nudibranchs and small crustaceans, are the primary opportunities. Natural light diminishes quickly in these waters — strobes or video lights are essential.
+No dive-specific safety information exists for this site. Divers considering it should treat it as an unsurveyed cold-water Alaska location: dry suit and full thermal protection are mandatory, tidal currents in this region are frequently strong, and a conservative, well-briefed approach with local knowledge (where available) is essential.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Sources: [Alaska Handbook gazetteer](https://alaskahandbook.com/). No site-specific diving documentation found; description reflects general geographic/historical research only. Last updated 2026-07-09.*

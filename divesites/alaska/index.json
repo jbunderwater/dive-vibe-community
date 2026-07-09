@@ -264,18 +264,6 @@
     "osmId": 603529133
   },
   {
-    "name": "USS Coldbrook",
-    "filename": "uss-coldbrook.md",
-    "lat": 59.4271357,
-    "lng": -146.3573015,
-    "difficulty": "Advanced",
-    "maxDepth": 19,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 665637588
-  },
-  {
     "name": "Pleasant Island Reef",
     "filename": "pleasant-island-reef.md",
     "lat": 58.3103895,

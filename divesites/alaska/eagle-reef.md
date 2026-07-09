@@ -13,51 +13,35 @@ addedBy: osm_import
 
 ## Eagle Reef
 
-A rocky reef formation south of Juneau offering cold-water biodiversity amid the productive waterways of the Alaskan Inside Passage.
+A gravel bar in Favorite Channel southwest of Pearl Harbor, Southeast Alaska — not a documented dive site.
 
 ## Overview
 
-Eagle Reef lies in the tidal system south of Juneau, where freshwater draining from glaciated terrain meets the nutrient-rich salt water of the Inside Passage. The reef structure supports diverse cold-water communities, with rockfish patrolling the exposed faces and dense invertebrate assemblages covering the substrate. The Juneau area is recognized as having some of Alaska's most productive marine environments, and Eagle Reef exemplifies this with its mix of fish life, cephalopods, and colorful encrusting fauna. Glacially influenced visibility can vary considerably by season, so timing dives during periods of low outflow produces the clearest conditions.
+Eagle Reef is described in the Alaska gazetteer as a gravel bar roughly 0.4 miles long, in Favorite Channel about 1.8 miles southwest of Pearl Harbor and 18 miles northwest of Juneau. This is a tidal/navigational gazetteer feature, and like the nearby Cohen Reef it does not appear in any Juneau-area dive site directory (DiveAlaska, akseatrails.org) or dive forum (CHUM Social Dive Club, ScubaBoard).
 
 ## Site Information
 
-- **Location**: South of Juneau, Southeast Alaska
+- **Location**: Favorite Channel, ~1.8 miles SW of Pearl Harbor, ~18 miles NW of Juneau
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 6–15 meters (20–50 feet)
-- **Current**: Moderate to strong — slack tide required
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Tidal, variable
 - **Water Temperature**: 4–11°C (39–52°F)
-- **Best Time**: May–September
+- **Best Time**: Unknown
 
 ## Marine Life
 
-Eagle Reef fauna reflects the rich production of the Juneau-area waters. Aggregating and plumose anemones colonize hard substrate throughout the site. Dungeness and tanner crabs are present on the sandy areas adjacent to the reef. Rockfish, lingcod, and cabezon are the dominant fish species. Giant Pacific octopus are frequently observed here — local divers report regular encounters in the lower reef zones.
-
-## Dive Profile
-
-Descend to the reef top during the slack window and explore outward along the structure. The shallowest reef zone at 8–12 meters offers the densest anemone cover. Working down to 20–24 meters brings larger fish encounters and a chance to observe octopus in their daytime shelters. Plan ascent with adequate gas reserve.
+No site-specific marine life reports exist. No species are attributed to this site.
 
 ## Entry and Exit
 
-Access is by dive charter from Juneau. Local operators provide slack tide scheduling and briefings on current conditions. Descend on a shot or anchor line. Always ascend with a deployed SMB given potential boat traffic in the inner waterways.
-
-## Tips and Recommendations
-
-- Juneau dive operators run regular trips to south-side reefs including Eagle Reef
-- Late summer (August–September) tends to offer clearer water than glacial melt season
-- Dry suit hood and thick gloves are necessary even in summer months
-- Dive lights reveal the vivid colors of anemones and sponges hidden under ambient light
-- Log your dives with local operators to contribute to the knowledge base for this site
+This site has no documented recreational dive charter access. Any of the general Southeast Alaska or Aleutians-region operators referenced for nearby validated sites may be able to advise on current conditions, but no operator-specific listing for this location was found.
 
 ## Safety Considerations
 
-The proximity of glacial meltwater to Eagle Reef means visibility can drop unexpectedly. Temperatures can reach 4°C near glacial outflow — ensure thermal protection is rated for this extreme. Tidal currents require strict slack-tide discipline. Always carry redundant signaling devices given the commercial boat traffic in these waterways.
-
-## Photography
-
-Eagle Reef's anemone communities and rockfish populations offer excellent subjects. Wide-angle shots of the reef face illuminated by strobes show the full color spectrum that ambient light suppresses. Giant Pacific octopus, when found, are compelling portrait subjects that are capable of dramatic color changes.
+No dive-specific safety information exists for this site. Divers considering it should treat it as an unsurveyed cold-water Alaska location: dry suit and full thermal protection are mandatory, tidal currents in this region are frequently strong, and a conservative, well-briefed approach with local knowledge (where available) is essential.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Sources: [Alaska Handbook gazetteer](https://alaskahandbook.com/), [DiveAlaska — Local Dive Sites](https://divealaska.net/local-dive-sites/), [Alaska Sea Trails — SE Alaska dive sites](https://akseatrails.org/). No site-specific diving documentation found; description reflects general geographic/historical research only. Last updated 2026-07-09.*

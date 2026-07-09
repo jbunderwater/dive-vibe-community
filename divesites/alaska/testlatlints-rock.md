@@ -13,51 +13,37 @@ addedBy: osm_import
 
 ## Testlatlints Rock
 
-A Haida-named submerged rock in the Ketchikan area carrying one of Alaska's most distinctive dive site names and a dense cold-water reef community.
+Also known as Flower Pot Rock, a distinctive rock formation on Langara Island, Haida Gwaii — a scenic landmark, not a documented dive site.
 
 ## Overview
 
-Testlatlints Rock takes its name from the Haida language, reflecting the long Indigenous history of the Dixon Entrance area before European contact. The rock lies in the same cluster of named reefs as Alert Rock, Chanal Reef, and Harvey Rock in the approaches south of Ketchikan, sharing their tidal environment and cold-water biological character. The structure is covered by aggregating anemones, encrusting sponges, and the full suite of Inside Passage invertebrates that thrive in nutrient-rich tidal flow. Lingcod and rockfish are the dominant fish species, with giant Pacific octopus occupying crevices in the lower sections. This is one of the more distinctively named sites in Ketchikan's dive inventory.
+Testlatlints Rock is confirmed by stock-photography captions as also known as "Flower Pot Rock," a distinctive rock formation on Langara Island, Haida Gwaii, British Columbia. It is documented as a scenic/photographic subject, not as a recreational dive site — no source found in this QA pass references diving here.
+
+**Geographic note:** This site's coordinates place it near Langara Island and northwest Graham Island, part of Haida Gwaii, British Columbia — not the Ketchikan area of Southeast Alaska as earlier text on this page stated. The Langara Island area is internationally known for salmon and halibut sport fishing (Langara Fishing Adventures, West Coast Fishing Club), not scuba diving. No ScubaBoard threads, dive shop listings, or dive trip reports referencing this site were found in this QA pass.
 
 ## Site Information
 
-- **Location**: Ketchikan area reef cluster (Dixon Entrance approaches), Southeast Alaska
+- **Location**: Langara Island, Haida Gwaii, British Columbia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Strong — slack tide required
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Tidal, variable
 - **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Best Time**: Unknown
 
 ## Marine Life
 
-Testlatlints Rock supports the classic Dixon Entrance cold-water fauna. Aggregating anemones, plumose anemones, colonial tunicates, sea urchins, and sea stars encrust the hard substrate. Lingcod are common on the rock faces. Quillback and black rockfish are regularly encountered in mid-water. Giant Pacific octopus occupy sheltered crevices at depth and are a regular highlight reported by local divers.
-
-## Dive Profile
-
-Descend during slack, working around the rock perimeter systematically. Upper zones at 8–14 meters carry the densest anemone populations. Deeper sections at 18–25 meters provide the best encounters with octopus and lingcod. Plan your ascent with adequate gas for a comfortable 3-minute safety stop at 5 meters.
+No site-specific marine life reports exist. No species are attributed to this site.
 
 ## Entry and Exit
 
-Ketchikan charter boat access. Local operators manage the tidal timing for all dives in this cluster. No permanent infrastructure. Shot or anchor line descent standard. SMB mandatory on ascent.
-
-## Tips and Recommendations
-
-- The name reflects Haida heritage in this area — learning about local Indigenous culture enriches the overall experience
-- This site is typically combined with Alert Rock or Chanal Reef for a full day of diving
-- Pay attention to the deep crevices in the lower rock face — octopus dens marked by crab shell debris
-- Cold-water dry suit diving skills including valve-off practice should be current before attempting this site
-- Night dives here (with appropriate boat and safety support) can reveal octopus active on the rock surface
+This site has no documented recreational dive charter access. Any of the general Southeast Alaska or Aleutians-region operators referenced for nearby validated sites may be able to advise on current conditions, but no operator-specific listing for this location was found.
 
 ## Safety Considerations
 
-Standard Inside Passage precautions: slack tide required, dry suit mandatory, buddy system essential. The cultural and geographic remoteness of this area means emergency services are not nearby. Conservative dive planning and self-sufficient team preparation are non-negotiable.
-
-## Photography
-
-Testlatlints Rock offers the same photographic opportunities as the broader Ketchikan cluster — anemone fields, lingcod portraits, and Pacific octopus encounters. The diversity of invertebrate forms on the encrusted rock surface makes it a macro photographer's subject list in itself. Strobe lighting is essential for accurate color.
+No dive-specific safety information exists for this site. Divers considering it should treat it as an unsurveyed cold-water Alaska location: dry suit and full thermal protection are mandatory, tidal currents in this region are frequently strong, and a conservative, well-briefed approach with local knowledge (where available) is essential.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Sources: [agefotostock](https://www.agefotostock.com/). No site-specific diving documentation found; description reflects general geographic/historical research only. Last updated 2026-07-09.*

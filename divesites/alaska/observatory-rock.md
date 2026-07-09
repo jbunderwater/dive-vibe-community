@@ -13,51 +13,37 @@ addedBy: osm_import
 
 ## Observatory Rock
 
-A prominent submerged rock in the approaches to Ketchikan offering characteristic Inside Passage cold-water diversity.
+A charted rock between Langara Island and Rose Spit, Haida Gwaii, with a plausible but unconfirmed WWII-era naming origin.
 
 ## Overview
 
-Observatory Rock sits in the tidal waterways of the southern approaches to Ketchikan, its name suggesting a history as a navigational reference point for vessels transiting the Inside Passage. The rock presents a steep profile to the tidal flow, allowing cold, nutrient-rich water to sweep across all faces and support a dense invertebrate community. Aggregating and plumose anemones cover the upper faces, while deeper sections carry encrusting sponges and bryozoans in a more sheltered habitat. Lingcod, which favor the structure's exposed faces, are the primary fish attraction. This is a site within the cluster of named rocks regularly visited by Ketchikan operators during slack windows.
+Observatory Rock's coordinates place it in the same stretch of coast as Hastings Reef, Haswell Reef, and Wimble Rocks, between Langara Island and Rose Spit. Nearby Langara Point had a WWII-era radar/observation station and a 1929 radiobeacon building, which makes an "Observatory"-derived name plausible for this era of coastal surveying — but no source directly ties this rock to that history, and none reference diving here.
+
+**Geographic note:** This site's coordinates place it between Langara Island and Rose Spit on Graham Island's north coast (Haida Gwaii, British Columbia) — not the Ketchikan area of Southeast Alaska as earlier text on this page stated. This stretch of coast is documented for marine bird habitat (Rose Spit Ecological Reserve) and halibut banks near Naden Harbour, not for recreational scuba diving. No ScubaBoard threads, dive shop listings, or trip reports referencing this site were found in this QA pass.
 
 ## Site Information
 
-- **Location**: Southern approaches to Ketchikan, Southeast Alaska
+- **Location**: Between Langara Island and Rose Spit, Graham Island, Haida Gwaii, British Columbia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Strong — slack tide required
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Tidal, variable
 - **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Best Time**: Unknown
 
 ## Marine Life
 
-Observatory Rock hosts aggregating and plumose anemones across the upper faces, with sea stars, sea urchins, nudibranchs, and encrusting sponges throughout. Lingcod are the most frequently encountered large predators and can often be found resting in shallow depressions in the rock surface. Rockfish species, including black rockfish, are common above the structure. Giant Pacific octopus are resident in crevices on the deeper flanks.
-
-## Dive Profile
-
-The ideal profile descends to the base of the rock during slack tide and works upward through the invertebrate zones. Spending time at 20–26 meters early allows for lingcod and octopus encounters, with shallower zones reserved for the latter part of the dive. A natural safety stop at 5 meters on the rock top before surfacing is typical.
+No site-specific marine life reports exist. No species are attributed to this site.
 
 ## Entry and Exit
 
-Ketchikan charter dive operators regularly visit Observatory Rock as part of multi-site packages. No permanent moorings. Shot line descent is standard practice. SMB deployment before ascent is mandatory in this navigational waterway.
-
-## Tips and Recommendations
-
-- This rock is part of a productive cluster that includes Haswell Reef, Wimble Rocks, and La Perouse Reef
-- Clear winter conditions (November–March) sometimes offer significantly better visibility than summer
-- Lingcod tend to be most active and approachable in the early morning hours
-- Carry a reference card for common Pacific Northwest nudibranch species
-- Confirm your dry suit's pressure gauge shows no leak before descending
+This site has no documented recreational dive charter access. Any of the general Southeast Alaska or Aleutians-region operators referenced for nearby validated sites may be able to advise on current conditions, but no operator-specific listing for this location was found.
 
 ## Safety Considerations
 
-Observatory Rock sits in an active navigational waterway and SMB deployment is particularly important here. Tidal current timing must be confirmed with local knowledge. The 26-meter maximum depth requires attention to no-decompression limits in cold water, where increased gas consumption reduces available bottom time.
-
-## Photography
-
-The combination of lingcod portraits against anemone backgrounds and macro work on nudibranchs makes Observatory Rock a versatile photography site. The rock face offers good opportunities for environmental compositions showing the density of encrusting invertebrates. Strobe lighting is essential for accurate color rendition at depth.
+No dive-specific safety information exists for this site. Divers considering it should treat it as an unsurveyed cold-water Alaska location: dry suit and full thermal protection are mandatory, tidal currents in this region are frequently strong, and a conservative, well-briefed approach with local knowledge (where available) is essential.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Sources: [Wikipedia — Langara Light](https://en.wikipedia.org/wiki/Langara_Light). No site-specific diving documentation found; description reflects general geographic/historical research only. Last updated 2026-07-09.*
