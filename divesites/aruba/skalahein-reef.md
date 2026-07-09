@@ -3,7 +3,7 @@ name: Skalahein Reef
 lat: 12.4706
 lng: -69.9868
 difficulty: Intermediate
-maxDepth: 23
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -29,7 +29,7 @@ Note: The previous description described Skalahein as a "drift dive" with "drop-
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 23 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20+ meters (south coast)
 - **Current**: Light to moderate
 - **Best Time**: December to April (morning south coast trips)
@@ -63,4 +63,4 @@ Standard intermediate reef dive precautions. Monitor depth on the slope. South c
 Good visibility and schooling fish make this a strong wide-angle photography site. The hard coral coverage provides reef scenery context for fish portraits.
 
 ---
-*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [ScubaBoard - Best Dive Sites in Aruba](https://scubaboard.com/community/threads/best-dive-sites-in-aruba.397724/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Last updated 2026-05-24.*
+*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [ScubaBoard - Best Dive Sites in Aruba](https://scubaboard.com/community/threads/best-dive-sites-in-aruba.397724/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Re-audited 2026-07-09: depth field corrected from 23m to 25m to match the JADS Aruba figure already quoted in this file's text (an inconsistency from the prior pass). Last updated 2026-07-09.*

@@ -3,7 +3,7 @@ name: Malmok Reef
 lat: 12.5980
 lng: -70.0624
 difficulty: Beginner
-maxDepth: 5
+maxDepth: 12
 entryType: shore
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Malmok Reef
 
-Malmok Reef is a shallow, calm shore dive on Aruba's northwest coast in crystal-clear water at 2–5 meters — Aruba's go-to site for certification training, first dives, and macro photography in a genuinely nursery-ground environment.
+Malmok Reef is a calm shore dive on Aruba's northwest coast in crystal-clear water, shallowest near the entry point (2–5 meters) and reaching a maximum of 12 meters further out — Aruba's go-to site for certification training, first dives, and macro photography in a genuinely nursery-ground environment.
 
 ## Overview
 
-Malmok Reef sits adjacent to Malmok Beach on Aruba's protected leeward coast, directly south of the Antilla wreck area. The site features scattered coral heads, brain corals, and leaf corals on a sandy and rubble bottom, all in very shallow water with exceptional visibility documented at around 25 meters. The combination of zero current, warm water, and very shallow depth makes it the primary training site for multiple Aruba operators.
+Malmok Reef sits adjacent to Malmok Beach on Aruba's protected leeward coast, directly south of the Antilla wreck area. The site features scattered coral heads, brain corals, and leaf corals on a sandy and rubble bottom, in very shallow water near shore with exceptional visibility documented at around 25 meters. Divers-guide.com lists a maximum depth of 12 meters for the site (re-confirmed 2026-07-09; corrects a 5m figure recorded in the prior QA pass that reflected only the shallow inshore zone). The combination of low current, warm water, and easy depth progression makes it the primary training site for multiple Aruba operators.
 
 The reef is genuinely a nursery ground — juvenile fish, small critters, and invertebrates are more prevalent here than at deeper sites further out. Stingrays are commonly seen on the sandy bottom; lobsters rest in the coral crevices; turtles pass through feeding on the reef bottom. The bank wall is noted in dive databases as covered with sea urchins, coral, and feather worms.
 
@@ -27,20 +27,20 @@ The reef is genuinely a nursery ground — juvenile fish, small critters, and in
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 5 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: ~25 meters
 - **Current**: None to minimal
 - **Best Time**: Year-round
 
 ## Marine Life
 
-Documented species include stingrays on the sandy bottom, turtles feeding on the reef, lobsters in coral crevices, feather worms, brain coral, leaf coral, and sea urchins on the bank wall. Giant purple, orange, and green barrel sponges are noted as good photographic subjects. The shallow, calm conditions and nursery-ground character mean juvenile and small reef fish are common, making this a productive macro site.
+Documented species include stingrays on the sandy bottom, turtles feeding on the reef, lobsters in coral crevices, feather worms, starfish, brain coral, leaf coral, and sea urchins on the bank wall. Giant purple, orange, and green barrel sponges are noted as good photographic subjects. The shallow, calm conditions and nursery-ground character mean juvenile and small reef fish are common, making this a productive macro site.
 
 Note: The previous description mentioned juvenile French angelfish, peacock flounders, and neon gobies as specific residents — no source-confirmed documentation of these species at Malmok Reef specifically was found. The general characterization as a nursery and macro site is well-supported.
 
 ## Dive Profile
 
-Enter from Malmok Beach. The entire site is within the top 5 meters. Spend the dive meandering over the coral heads and sandy channels, looking for critters on the bottom and in crevices. The near-zero depth means essentially unlimited bottom time for no-decompression purposes. An extended surface swim may be needed to reach the outer coral heads.
+Enter from Malmok Beach. The shallows near the entry point stay within about 5 meters, with the site's coral heads and sandy channels extending out to a maximum of 12 meters. Spend the dive meandering over the coral heads, looking for critters on the bottom and in crevices. The shallow profile means generous no-decompression bottom time. An extended surface swim may be needed to reach the outer coral heads.
 
 ## Entry and Exit
 
@@ -62,4 +62,4 @@ Very low-hazard site. Watch for sea urchins on the bank wall section. Be aware o
 Excellent natural-light macro site — the shallow depth and clear water means no strobe is needed for many subjects. The barrel sponges and coral heads photograph well in wide-angle. A dedicated macro lens rewards patient divers.
 
 ---
-*Sources: [Divers Guide - Malmok Reef](https://www.divers-guide.com/en/malmok-reef), [Zentacle - Malmok Beach](https://www.zentacle.com/Beach/543/malmok-beach), [Yellow Cunucu - Scuba Diving Aruba Guide](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Last updated 2026-05-24.*
+*Sources: [Divers Guide - Malmok Reef](https://www.divers-guide.com/en/malmok-reef), [Zentacle - Malmok Beach](https://www.zentacle.com/Beach/543/malmok-beach), [Yellow Cunucu - Scuba Diving Aruba Guide](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Re-audited 2026-07-09: divers-guide.com's current listing gives a 12m max depth and adds starfish — depth field corrected from 5m (which only reflected the shallow inshore zone) and marine life updated accordingly. Last updated 2026-07-09.*

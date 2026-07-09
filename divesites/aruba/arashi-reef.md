@@ -3,7 +3,7 @@ name: Arashi Reef
 lat: 12.6099
 lng: -70.0566
 difficulty: Beginner
-maxDepth: 11
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Arashi Reef
 
-Arashi Reef is a shallow, colorful reef at Aruba's northwestern tip with a dedicated turtle cleaning station and the scattered wreckage of a Lockheed Lodestar aircraft at approximately 12 meters depth.
+Arashi Reef is a shallow, colorful reef at Aruba's northwestern tip with a dedicated turtle cleaning station and the scattered wreckage of a Lockheed Lodestar aircraft, reaching approximately 16 meters at its deepest.
 
 ## Overview
 
-Situated at the sheltered northwestern corner of Aruba, Arashi Reef is consistently ranked among the island's best beginner sites and one of its most reliable spots for turtle encounters. The reef extends to approximately 16 meters at its deepest (per JADS Aruba) and supports both the Lockheed Lodestar aircraft debris and an active turtle cleaning station where young green and hawksbill turtles gather repeatedly to be tended by small wrasses.
+Situated at the sheltered northwestern corner of Aruba, Arashi Reef is consistently ranked among the island's best beginner sites and one of its most reliable spots for turtle encounters. The reef extends to approximately 16 meters (50ft) at its deepest, confirmed on re-check 2026-07-09 against JADS Aruba's current listing, and supports both the Lockheed Lodestar aircraft debris and an active turtle cleaning station where young green and hawksbill turtles gather repeatedly to be tended by small wrasses.
 
 The aircraft components — fuselage sections, wings, and engine parts — are distributed across the sandy reef bottom at around 11–12 meters. Over the decades since the plane sank, coral and invertebrates have colonized the metal, making it a focal point for reef fish. The site's calm, protected conditions and lack of significant current make it accessible to Open Water divers and even confident snorkelers.
 
@@ -27,7 +27,7 @@ The aircraft components — fuselage sections, wings, and engine parts — are d
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 11 meters
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Minimal — a protected northwest corner
 - **Best Time**: Year-round
@@ -60,4 +60,4 @@ Standard precautions for boat diving apply. No significant hazards — good cond
 The turtle cleaning station is the primary photographic draw — divers regularly get close approaches from habituated individuals. Wide-angle shots of turtles against the aircraft wreck components are a classic Aruba composition. Natural light is good given the shallow depth.
 
 ---
-*Sources: [Happy Divers Aruba - Arashi Reef](https://happydiversaruba.com/diving-spots/arashi-reef/), [Divers Guide - Arashi Reef](https://www.divers-guide.com/en/arashi-reef), [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Palm Beach Divers Aruba](https://www.palmbeachdiversaruba.com/dive-sites/). Last updated 2026-05-24.*
+*Sources: [Happy Divers Aruba - Arashi Reef](https://happydiversaruba.com/diving-spots/arashi-reef/), [Divers Guide - Arashi Reef](https://www.divers-guide.com/en/arashi-reef), [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Palm Beach Divers Aruba](https://www.palmbeachdiversaruba.com/dive-sites/). Re-audited 2026-07-09: depth field corrected from 11m to 16m to match the JADS Aruba figure already quoted in this file's text (an inconsistency from the prior pass). Last updated 2026-07-09.*

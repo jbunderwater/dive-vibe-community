@@ -64,4 +64,4 @@ Standard precautions for boat diving. No overhead environments — wreck section
 The coral-encrusted wreck sections at very shallow depth allow for excellent natural-light photography without a torch. Wide-angle shots of the flat hull plates with turtle subjects above are a popular frame.
 
 ---
-*Sources: [Wikipedia - SS Pedernales](https://en.wikipedia.org/wiki/SS_Pedernales), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/pedernales/), [Willemsubmerged - Pedernales the Phoenix](https://willemsubmerged.wordpress.com/2009/01/13/pedernales-the-phoenix-of-aruba/). Last updated 2026-05-24.*
+*Sources: [Wikipedia - SS Pedernales](https://en.wikipedia.org/wiki/SS_Pedernales), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/pedernales/), [Willemsubmerged - Pedernales the Phoenix](https://willemsubmerged.wordpress.com/2009/01/13/pedernales-the-phoenix-of-aruba/). Re-audited 2026-07-09: length (355ft), tonnage (4,317 GRT), builder, attack date, U-156/Operation Neuland details, and the Baltimore reconstruction account were re-checked against current source content — no discrepancies found. Last updated 2026-07-09.*

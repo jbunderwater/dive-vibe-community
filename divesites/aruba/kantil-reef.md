@@ -3,7 +3,7 @@ name: Kantil Reef
 lat: 12.4750
 lng: -70.0010
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 33
 entryType: boat
 siteType: wall
 ref: null
@@ -29,7 +29,7 @@ The classification of Advanced reflects the depth potential: divers who follow t
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20–25 meters (south coast known for clear water)
 - **Current**: Moderate possible on south coast
 - **Best Time**: December to April
@@ -64,4 +64,4 @@ The primary hazard is unintentional depth excursion. Dive with a depth gauge or 
 The wall face and drop-off offer strong wide-angle subjects with depth perspective. Look for macro opportunities in the coral crevices and sponge formations on the wall.
 
 ---
-*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide), [ScubaBoard - Best Dive Sites in Aruba](https://scubaboard.com/community/threads/best-dive-sites-in-aruba.397724/). Last updated 2026-05-24.*
+*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide), [ScubaBoard - Best Dive Sites in Aruba](https://scubaboard.com/community/threads/best-dive-sites-in-aruba.397724/). Re-audited 2026-07-09: depth field corrected from 30m to 33m to match the JADS Aruba figure already quoted in this file's text (an inconsistency from the prior pass). Last updated 2026-07-09.*

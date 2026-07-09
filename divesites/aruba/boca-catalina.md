@@ -3,7 +3,7 @@ name: Boca Catalina
 lat: 12.6059
 lng: -70.0528
 difficulty: Beginner
-maxDepth: 6
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: null
@@ -13,13 +13,13 @@ addedBy: osm_import
 
 ## Boca Catalina
 
-Boca Catalina is a sheltered, shallow shore dive on Aruba's leeward northwest coast with calm conditions, minimal current, and reef habitat at 5–10 meters — one of the island's most forgiving entry points for new divers and snorkelers.
+Boca Catalina is a sheltered shore dive on Aruba's leeward northwest coast with calm conditions, minimal current, and reef habitat that shelves gently from the shallows near the beach out to 15 meters — one of the island's most forgiving entry points for new divers and snorkelers.
 
 ## Overview
 
-Boca Catalina Bay sits in calm water on Aruba's protected western coast, near the Malmok area. The bottom transitions from sandy shallows into coral reef reaching approximately 5–10 meters, with good visibility (averaging around 20 meters) and very little current. The site is described in multiple sources as ideal for first-timers and less-confident divers, and the bay functions as an easy shore-entry alternative to the boat dives further along the coast.
+Boca Catalina Bay sits in calm water on Aruba's protected western coast, near the Malmok area. The bottom transitions from sandy shallows near the entry point into coral reef and patch reef, with divers-guide.com listing a maximum depth of 15 meters for the site (re-confirmed 2026-07-09; this corrects an earlier, shallower depth figure recorded in the prior QA pass that only reflected the near-shore shallows). Visibility averages around 20 meters and current is minimal. The site is described in multiple sources as ideal for first-timers and less-confident divers, and the bay functions as an easy shore-entry alternative to the boat dives further along the coast — snorkelers and shallow-water divers can stay in the 3–6 meter zone near shore, while certified divers can follow the reef out to the full 15 meter depth.
 
-Sea fans and coral patches are found along the rocky reef edges, with the sandy lanes between heads providing habitat for stingrays and the foraging grounds used by sea turtles. The Divers Guide database notes depths of 15–35 feet (4–11 meters) on the northwest coast section, which aligns with conditions at this bay.
+Sea fans and coral patches are found along the rocky reef edges, with the sandy lanes between heads providing habitat for stingrays and the foraging grounds used by sea turtles.
 
 ## Site Information
 
@@ -27,18 +27,18 @@ Sea fans and coral patches are found along the rocky reef edges, with the sandy 
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 6 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: ~20 meters
 - **Current**: Minimal — well-sheltered bay
 - **Best Time**: Year-round
 
 ## Marine Life
 
-Documented species at Boca Catalina include green sea turtles (which graze on seagrass in the bay), sea fans, coral reef fish including angelfish, blue parrotfish, and damselfish, with rocky reef edges hosting critters typical of Aruba's leeward shallows. Multiple visitor reports confirm regular turtle sightings. Stingrays are commonly seen in the sandy channels between coral heads.
+Documented species at Boca Catalina include green sea turtles (which graze on seagrass in the bay), grouper, schoolmaster snapper, sea fans, coral reef fish including angelfish, blue parrotfish, and damselfish, with rocky reef edges hosting critters typical of Aruba's leeward shallows. Multiple visitor reports confirm regular turtle sightings. Stingrays are commonly seen in the sandy channels between coral heads.
 
 ## Dive Profile
 
-Enter from shore over a sandy bottom that transitions into the coral patches. Depth stays shallow throughout — most marine life is concentrated between 3–6 meters. Navigate along the reef edge, returning to the entry point. At 6 meters, all of the dive time can be spent at a single depth without complex multi-level planning.
+Enter from shore over a sandy bottom that transitions into the coral patches. Most marine life is concentrated in the shallower 3–6 meter zone near the entry point, with the reef continuing out to a maximum depth of 15 meters for divers who want to explore further. Navigate along the reef edge, returning to the entry point.
 
 ## Entry and Exit
 
@@ -60,4 +60,4 @@ Very low-hazard site. Be mindful of sea urchins on the rocky sections near entry
 Strong natural light in the shallow water makes this a good site for natural-light photography without strobes. Turtle encounters in very clear, calm water provide excellent subject opportunities.
 
 ---
-*Sources: [Divers Guide - Boca Catalina](https://www.divers-guide.com/en/boca-catalina), [Zentacle - Boca Catalina](https://www.zentacle.com/Beach/193/boca-catalina), [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/). Last updated 2026-05-24.*
+*Sources: [Divers Guide - Boca Catalina](https://www.divers-guide.com/en/boca-catalina), [Zentacle - Boca Catalina](https://www.zentacle.com/Beach/193/boca-catalina), [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/). Re-audited 2026-07-09: divers-guide.com's current listing gives a 15m max depth and adds grouper/schoolmaster snapper — depth field corrected from 6m (which only reflected the shallow near-shore zone) and marine life updated accordingly. Last updated 2026-07-09.*

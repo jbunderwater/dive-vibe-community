@@ -21,6 +21,8 @@ Built in 1939 by Deutsche Werft in Hamburg for the Hamburg America Line (HAPAG),
 
 Today the wreck lies on her port side in Malmok Bay, with the shallowest point approximately 5 meters below the surface and the deepest section — around the propeller — at approximately 18 meters. The sheer scale of the wreck means a single dive can only cover a fraction of the site: the bow section, the engine room, individual cargo holds, or the stern — each constitutes a separate dive in its own right. The steel hull is heavily encrusted with orange cup corals, tube sponges, and anemones. The wreck has deteriorated significantly over 80-plus years, and some sections are considered unsafe to enter.
 
+Length and tonnage are well corroborated across independent sources: Wikipedia, PADI, RushKult, and Aruba.com converge on 398–400 feet (121–122 meters) and 4,363 GRT. One operator listing (JADS Aruba) cites an outlier figure of roughly 430 feet (144 meters); this is not corroborated by any other source consulted and is treated as an approximation rather than a correction to the majority-sourced 398-foot figure.
+
 ## Site Information
 
 - **Location**: Malmok Bay, northwestern Aruba
@@ -64,4 +66,4 @@ Some interior sections are considered unsafe to enter due to structural deterior
 The hull's scale and the density of coral encrustation make this one of Aruba's best wide-angle subjects. A torch reveals brilliant colours in the cup corals and tube sponges on interior surfaces. Glassy sweeper schools filling doorways and portholes are classic composition subjects.
 
 ---
-*Sources: [Wikipedia - SS Antilla (1939)](https://en.wikipedia.org/wiki/SS_Antilla_(1939)), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/antilla/), [RushKult](https://rushkult.com/eng/scubamagazine/antilla-wreck-aruba/), [Aruba Unleashed](https://arubaunleashed.com/antilla-shipwreck-in-aruba/). Last updated 2026-05-24.*
+*Sources: [Wikipedia - SS Antilla (1939)](https://en.wikipedia.org/wiki/SS_Antilla_(1939)), [Pure Diving Aruba](https://www.puredivingaruba.com/diving-aruba/wrecks/antilla/), [RushKult](https://rushkult.com/eng/scubamagazine/antilla-wreck-aruba/), [Aruba Unleashed](https://arubaunleashed.com/antilla-shipwreck-in-aruba/), [PADI - Antilla Wreck](https://www.padi.com/dive-site/aruba/antilla-wreck/), [Aruba.com - The Antilla Shipwreck](https://www.aruba.com/us/blog/antilla-shipwreck). Re-audited 2026-07-09: build year, builder, length, tonnage, scuttling date/cause, and the 1953 storm-break account were re-checked against current source content and confirmed unchanged; JADS Aruba's outlier ~430ft length claim was newly identified and is flagged as unconfirmed rather than adopted. Last updated 2026-07-09.*
