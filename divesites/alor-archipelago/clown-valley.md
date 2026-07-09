@@ -32,7 +32,7 @@ Clown Valley (locally called Apuri) sits off Pura Island and delivers an experie
 
 ## Marine Life
 
-Clark's anemonefish (*Amphiprion clarkii*) is the dominant anemonefish species here, inhabiting the bubble-tip anemones (*Entacmaea quadricolor*) that cover the reef. Tomato anemonefish (*Amphiprion frenatus*) are also confirmed residents. The sheer density of anemone colonies means that clownfish are visible in the dozens across a single dive. Beyond the anemones, the site hosts sea snakes, eels, pufferfish, reef fish communities, and small crustaceans around the anemone bases. Thresher sharks and mola mola have been reported in the open water adjacent to the site, though these are not guaranteed encounters.
+Clark's anemonefish (*Amphiprion clarkii*) is the dominant anemonefish species here, inhabiting the bubble-tip anemones (*Entacmaea quadricolor*) that cover the reef. Tomato anemonefish (*Amphiprion frenatus*) are also confirmed residents. The sheer density of anemone colonies means that clownfish are visible in the dozens across a single dive. Starfish.ch additionally documents sea apples and yellow nudibranchs among the anemone colonies. Beyond the anemones, the site hosts sea snakes, eels, pufferfish, reef fish communities, and small crustaceans around the anemone bases. Thresher sharks and mola mola have been reported in the open water adjacent to the site, though these are not guaranteed encounters.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Currents can pick up during tidal shifts; stay aware of conditions. Avoid contac
 Clown Valley is an exceptional wide-angle site: a diver hovering over the anemone carpet creates an almost otherworldly composition. A 16–35 mm equivalent lens captures the breadth of the anemone field. For close-up portraits of clownfish between anemone tentacles, a 60 mm macro or a wide-angle with a close-focus capability works well.
 
 ---
-*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Abyss Ocean World](https://abyssoceanworld.com/alor-anemones-and-anemonefish-2/), [The Crowded Planet](https://www.thecrowdedplanet.com/scuba-diving-alor-anemone-valley/), [Merapi Tours Alor Dive Sites](https://www.merapitours.com/indonesia/other-sunda-islands/dive-sites-alor), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/). Last updated 2026-05-17.*
+*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Abyss Ocean World](https://abyssoceanworld.com/alor-anemones-and-anemonefish-2/), [The Crowded Planet](https://www.thecrowdedplanet.com/scuba-diving-alor-anemone-valley/), [Merapi Tours Alor Dive Sites](https://www.merapitours.com/indonesia/other-sunda-islands/dive-sites-alor), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/). Re-audited 2026-07-09: all facts re-confirmed against current source content, no contradictions found. Last updated 2026-07-09.*

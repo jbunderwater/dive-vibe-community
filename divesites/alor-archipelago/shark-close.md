@@ -57,4 +57,4 @@ Alor wall dives in this area frequently involve strong currents; dive with an ex
 Wall sites in this area of Alor typically support wide-angle photography of the wall face and reef fish communities.
 
 ---
-*Description based on curated site records. No site-specific sources were found for a site named "Shark Close" in published dive guides. Last updated 2026-05-17.*
+*Description based on curated site records. No site-specific sources were found for a site named "Shark Close" in published dive guides. Re-audited 2026-07-09: expanded search across starfish.ch, emperordivers.com, nautikadivealor.com, dive-the-world.com, scubaboard.com, ZuBlu, savusouthalor.com, airdivealor.com, and alortanapi.com still found no source using this exact site name. Remains unvalidated. Last updated 2026-07-09.*

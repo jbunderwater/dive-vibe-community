@@ -17,7 +17,7 @@ Beang Abang is a muck dive site on the southern coast of Pantar Island, Alor Arc
 
 ## Overview
 
-Beang Abang Bay sits on the southern coast of Pantar Island, where volcanic activity from the area's geology warms the beach with hot springs. Underwater, the bay holds three distinct dive sites: Hot Property, Ribbon Eel Run, and The Lava Flow — all of them on black sand with critter communities that reward slow, careful searching. The water here tends to run cooler than northern Alor sites, which suppresses coral growth but concentrates macro life in the volcanic substrate. The Alor Tanapi and Starfish.ch guides both confirm this bay as a muck-diving destination with specific critter sightings. It functions as an alternative to the more exposed wall and drift dives elsewhere in the archipelago.
+Beang Abang Bay sits on the southern coast of Pantar Island, where volcanic activity from the area's geology warms the beach with hot springs. Underwater, the bay holds three distinct named dive sites: Hot Property, Ribbon Eel Run, and The Lava Flow — all of them on black sand with critter communities that reward slow, careful searching. Dive-the-world.com additionally documents "The Twilight Zone," a macro site off Biangabang village on Pantar Island — the same bay area — though it is not confirmed whether this is identical to any of the other three named sites or a fourth distinct location within the bay. The water here tends to run cooler than northern Alor sites, which suppresses coral growth but concentrates macro life in the volcanic substrate. The Alor Tanapi and Starfish.ch guides both confirm this bay as a muck-diving destination with specific critter sightings. It functions as an alternative to the more exposed wall and drift dives elsewhere in the archipelago.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Beang Abang Bay sits on the southern coast of Pantar Island, where volcanic acti
 
 ## Marine Life
 
-Multiple sources confirm the following species at Beang Abang: ribbon eels, robust ghost pipefish, ornate ghost pipefish, octopus, nudibranchs, and hairy frogfish. The Emperor Divers guide also confirms wonderpus octopus as a species found here. The site is colder than northern Alor, and this is reflected in the fauna — the volcanic sand substrate and cooler temperatures create a distinct community from the warmer bay muck sites near Kalabahi.
+Multiple sources confirm the following species at Beang Abang: ribbon eels, robust ghost pipefish, ornate ghost pipefish, octopus, nudibranchs, and hairy frogfish. The Emperor Divers guide also confirms wonderpus octopus as a species found here. At "The Twilight Zone" sub-site, dive-the-world.com additionally documents snake eels, mantis shrimp, pegasus seamoths, bobbit worms, gurnard lionfish, soapfish, and Spanish dancers — these are attributed specifically to that named sub-site within the bay rather than the bay as a whole. The site is colder than northern Alor, and this is reflected in the fauna — the volcanic sand substrate and cooler temperatures create a distinct community from the warmer bay muck sites near Kalabahi.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Currents are generally mild, but volcanic activity nearby means the occasional w
 Beang Abang is a macro site. The black volcanic sand provides a clean, high-contrast background for colourful subjects. Ribbon eels in their burrows — with body extended and mouth open — are one of the site's more dramatic photography opportunities and reward patience. A 100 mm macro handles most subjects.
 
 ---
-*Sources: [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/), [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/), [Bluewater Dive Travel Alor](https://www.bluewaterdivetravel.com/Alor-Diving). Last updated 2026-05-17.*
+*Sources: [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/), [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/), [Bluewater Dive Travel Alor](https://www.bluewaterdivetravel.com/Alor-Diving), [Dive The World - Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Re-audited 2026-07-09: dive-the-world.com added as a new independent source ("The Twilight Zone" sub-site). No contradictions found for the previously confirmed species. Last updated 2026-07-09.*
