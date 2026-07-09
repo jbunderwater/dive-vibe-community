@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## MV Mars
 
-MV Mars is a small wooden cargo vessel that sank in a storm in April 2006 and rests upright on the sandy bottom northwest of Havelock Island at approximately 15 metres depth.
+MV Mars is a small wooden cargo vessel that sank in a storm during the month of April and rests upright on the sandy bottom northwest of Havelock Island; dive-site listings report the depth at 15 metres, though one source cites a deeper figure.
 
 ## Overview
 
-The MV Mars is a small wooden cargo ship that sank during a storm in April 2006, coming to rest upright on the sandy bottom just off the fringing reef near Sir William Peel Island, northwest of Havelock Island. The wreck is intact and slightly tilted to port, with the wheelhouse roof rising to around 7 metres. Over the years the hull has become encrusted with soft corals and sponges, turning it into a small artificial reef. The shallow depth and protected position make this one of the most accessible wreck dives in the Andamans, suitable for beginners.
+The MV Mars is a small wooden cargo ship that sank during a storm in April, coming to rest upright on the sandy bottom just off the fringing reef near Sir William Peel Island, northwest of Havelock Island. No build date, length, or tonnage could be found for this vessel in any source consulted — it appears to be a small local craft rather than a registered merchant ship, and such vessels are rarely documented in maritime records. The sinking year is reported as 2006 by one general travel blog (travelsetu.com), but this could not be corroborated by the dedicated dive-site listings (scubalov.in, andamantourism.org) and should be treated as unconfirmed. Depth is also disputed: scubalov.in, the most detailed dive-specific source, places the wreck upright at 15 metres (range 10–16m); travelsetu.com instead reports approximately 20 metres. The 15-metre figure is used here as the primary reference given the greater site-specific detail in that source, but divers should confirm current depth with their operator. The wreck is intact and slightly tilted to port, with the wheelhouse roof rising to around 7 metres. Over the years the hull has become encrusted with soft corals and sponges, turning it into a small artificial reef. The shallow depth and protected position make this one of the most accessible wreck dives in the Andamans, suitable for beginners.
 
 ## Site Information
 
@@ -58,4 +58,4 @@ Dive within your certification limits. Visibility can be limited at this wreck. 
 The small, intact wreck makes a good wide-angle subject, and the resident crocodilefish and seahorses offer macro opportunities on the hull.
 
 ---
-*Sources: [ScubaLov - MV Mars](https://www.scubalov.in/havelock-island/havelock-dive-sites/mv-mars/), [Andaman Tourism - Wreck Diving](https://www.andamantourism.org/wreck-diving-in-andaman/), [Travelsetu - Wreck Dives of Andaman](https://travelsetu.com/apps/blog/the-wreck-dives-of-andaman-exploring-underwater-mysteries/). Last updated 2026-06-08.*
+*Sources: [ScubaLov - MV Mars](https://www.scubalov.in/havelock-island/havelock-dive-sites/mv-mars/), [Andaman Tourism - Wreck Diving](https://www.andamantourism.org/wreck-diving-in-andaman/), [Travelsetu - Wreck Dives of Andaman](https://travelsetu.com/apps/blog/the-wreck-dives-of-andaman-exploring-underwater-mysteries/). Re-audited 2026-07-09: depth and sinking-year conflicts between sources noted explicitly above rather than resolved by assumption. Last updated 2026-07-09.*
