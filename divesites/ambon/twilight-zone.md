@@ -23,6 +23,8 @@ The substrate is a mix of dark sand, rubble, fishing debris, tires, and organic 
 
 Dive Happy describes it as "Ambon's most famous muck site" and notes it "repays repeat visits," while IndoPacificImages characterises it as "a cross between Steptoe's Yard and a critter menagerie." Visibility is typically reduced close to the jetty due to sediment disturbance from boat traffic.
 
+According to indopacificimages.com, the site was discovered in 1994 by Monique Walker of Germany, who initially called it the "aviation jetty," and was christened "Twilight Zone" the following year (1995) by American dive explorers Burt Jones and Maurine Shimlock. The site's productivity is credited partly to organic nutrients from fish carcasses discarded by boats overhead after catches are cleaned for shipment to Bali.
+
 ## Site Information
 
 - **Location**: Laha village, northwest Ambon Bay, near Ambon airport
@@ -63,4 +65,4 @@ Boat traffic overhead is the primary safety consideration — always surface awa
 This site is among Indonesia's premier macro photography destinations. Natural light beneath the jetty creates challenging but rewarding conditions; artificial light (strobes) is essential for colour accuracy on the dark substrate. Work in the 60–105mm macro range for most subjects; the occasional wide-angle shot is possible when the midday light shafts appear through the jetty structure.
 
 ---
-*Sources: [IndoPacificImages — Ambon's Twilight Zone](https://indopacificimages.com/indonesia/maluku/maluku-province-the-twilight-zone/), [DiveHappy — Ambon Twilight Zone](https://divehappy.com/indonesia/ambon-scuba-diving-the-twilight-zone/), [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish). Last updated 2026-05-17.*
+*Sources: [IndoPacificImages — Ambon's Twilight Zone](https://indopacificimages.com/indonesia/maluku/maluku-province-the-twilight-zone/), [DiveHappy — Ambon Twilight Zone](https://divehappy.com/indonesia/ambon-scuba-diving-the-twilight-zone/), [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish). Re-audited 2026-07-09: marine life and depth claims re-confirmed against sources with no corrections needed; discovery history added from indopacificimages.com. Last updated 2026-07-09.*

@@ -3,7 +3,7 @@
     "name": "Laha",
     "lat": -3.7058,
     "lon": 128.1037,
-    "depth": 15,
+    "depth": 30,
     "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -11,16 +11,17 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "starfish.ch,neptuneliveaboards.com,diveplanit.com",
+      "validation_source": "starfish.ch,neptuneliveaboards.com,diveplanit.com,dive-the-world.com",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-06-08"
+      "depth_note": "Corrected from 15m to 30m: Laha 1/2 sit at 5-15m but Laha 3 rhinopias are regularly found to 30m (starfish.ch), and neptuneliveaboards.com documents a 5-35m range across the complex. The old 15m field contradicted the site's own body text.",
+      "last_qa_date": "2026-07-09"
     }
   },
   {
     "name": "Rhino City",
     "lat": -3.7073,
     "lon": 128.098,
-    "depth": 20,
+    "depth": 28,
     "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -31,7 +32,8 @@
       "validation_source": "starfish.ch,dive-the-world.com,bottles-up-diving.com",
       "coordinates_note": "West of Laha along same coastline per dive guides",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-06-08"
+      "depth_note": "Corrected from 20m to 28m to match starfish.ch's stated maximum depth for this site; the prior entry's body text already cited 28m but the numeric field was never synced.",
+      "last_qa_date": "2026-07-09"
     }
   },
   {
@@ -49,7 +51,7 @@
       "validation_source": "en.wikipedia.org,starfish.ch,neptuneliveaboards.com",
       "coordinates_note": "Laha I area (Maluku Divers/Spice Island Divers) where psychedelic frogfish was first photographed January 2008",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-09"
     }
   },
   {
@@ -66,7 +68,7 @@
       "validated": "true",
       "validation_source": "diveplanit.com,bluewaterdivetravel.com,starfish.ch",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-09"
     }
   },
   {
@@ -81,10 +83,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "indonesia-tourism.com,indopacificimages.com,bottles-up-diving.com",
+      "validation_source": "indonesia-tourism.com,indopacificimages.com,bottles-up-diving.com,liveaboardindonesia.com",
       "coordinates_note": "South coast of Ambon Island",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-09"
     }
   },
   {
@@ -102,14 +104,14 @@
       "validation_source": "starfish.ch,bottles-up-diving.com,indopacificimages.com",
       "coordinates_note": "South shore of inner Ambon Bay opposite Laha per dive guides",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-09"
     }
   },
   {
     "name": "Duke of Sparta Wreck",
     "lat": -3.6658,
     "lon": 128.1715,
-    "depth": 40,
+    "depth": 35,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -117,10 +119,11 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,indopacificimages.com,coralia-liveaboard.com",
+      "validation_source": "en.wikipedia.org,indopacificimages.com,coralia-liveaboard.com,starfish.ch,bottles-up-diving.com",
       "coordinates_note": "Northern Ambon Bay near main harbor",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-06-08"
+      "depth_note": "Bow depth corrected from 40m to 35m: Wikipedia, coralia-liveaboard.com, and starfish.ch (15-35m range) independently agree on ~35m; bottles-up-diving.com is the outlier reporting 40+m. Conflict documented in markdown rather than silently picking one figure.",
+      "last_qa_date": "2026-07-09"
     }
   },
   {
@@ -137,7 +140,7 @@
       "validated": "true",
       "validation_source": "starfish.ch,indopacificimages.com,bottles-up-diving.com",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-09"
     }
   },
   {
@@ -155,14 +158,14 @@
       "validation_source": "indopacificimages.com,divehappy.com,diveplanit.com",
       "coordinates_note": "Jetty area near Laha village / Pertamina fuel jetty, northwestern Ambon Bay near airport",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-09"
     }
   },
   {
     "name": "Amahusu Reef",
     "lat": -3.7233,
     "lon": 128.1458,
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -170,10 +173,12 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "starfish.ch,bottles-up-diving.com,bluewaterdivetravel.com",
+      "validation_source": "starfish.ch,bottles-up-diving.com,indopacificimages.com",
       "coordinates_note": "Eastern Ambon Bay near Amahusu/Amahusa village",
       "coordinates_updated": "2026-04-05",
-      "last_qa_date": "2026-06-08"
+      "correction_note": "Prior entry cited bluewaterdivetravel.com and a '25m avg/40m max' depth 'per starfish.ch documentation.' Re-audit found bluewaterdivetravel.com's Ambon page does not mention Amahusu at all, and starfish.ch gives no depth figure for this site - the mica-flake sand and 25-40m depth actually belong to the separate, nearby Tirta Point entry in starfish.ch's own site numbering, not to Amahusu/Devion Point. Both fabricated claims removed; bluewaterdivetravel.com replaced with indopacificimages.com (confirmed Amahusu content: resident Saron shrimp colony). Depth set to an unsourced conservative default pending better data.",
+      "depth_unconfirmed": "true",
+      "last_qa_date": "2026-07-09"
     }
   }
 ]

@@ -3,7 +3,7 @@ name: Amahusu Reef
 lat: -3.7233
 lng: 128.1458
 difficulty: Beginner
-maxDepth: 25
+maxDepth: 20
 entryType: shore
 siteType: reef
 ref: null
@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Amahusu Reef
 
-Amahusu Reef is a critter-rich slope on the eastern shore of Ambon Bay where sandy patches, patchy reef, and glittering mica-flecked sand provide habitat for leaf scorpionfish, frogfish, jawfish, and an extensive range of nudibranchs.
+Amahusu Reef is a critter-rich slope on the eastern shore of Ambon Bay, known among photographers for a resident colony of Saron shrimp alongside leaf scorpionfish, clown frogfish, and breeding cardinalfish on a mix of coral blocks and sand.
 
 ## Overview
 
-Located in the Amahusu/Amahusa area on the eastern side of Ambon Bay, this site is described by bottles-up-diving.com as featuring "fairly steep slopes" with "a sandy slope leading to a nice patchy reef." The sand here is unusually fine and contains glittering mica flakes — a distinctive characteristic mentioned in starfish.ch's detailed site documentation. The site is less-visited than the Laha complex on the north shore, offering a quieter alternative with its own critter community.
+Located in the Amahusu/Amahusa area on the eastern side of Ambon Bay, this site is described by bottles-up-diving.com as featuring "fairly steep slopes" with "a sandy slope leading to a nice patchy reef." Starfish.ch's site-by-site documentation lists the immediately adjacent Devion Point section of Amahusa as a "large coral block" with a neighbouring sandy area. Indopacificimages.com singles out Amahusu specifically for its resident colony of Saron shrimp — a rarely-seen species that is a favourite subject for underwater photographers. The site is less-visited than the Laha complex on the north shore, offering a quieter alternative with its own critter community.
 
-Average depth is cited at 25 meters with a maximum of 40 meters in the deeper sand channel. Visibility can reach 20 meters in good conditions. Current can strengthen at times, driving schools of jacks, snappers, fusiliers, and barracudas along the slope — adding a fish-life dimension less common at the inner muck sites.
+**Correction (2026-07-09 re-audit):** An earlier version of this entry described "glittering mica-flecked sand" and a depth of "25m average / 40m maximum," both attributed to starfish.ch. On re-checking the source directly, starfish.ch's Amahusa/Devion Point entry gives no depth figure at all, and the mica-flake sand description actually belongs to a separate, nearby site in starfish.ch's own listing — Tirta Point — not to Amahusu. Both claims have been removed as unsupported. No source consulted gives a specific maximum depth for Amahusu Reef; the depth below is a conservative placeholder pending better data, not a sourced figure.
 
-Note: Sources describe the depth as significantly greater than the original 14m entry in this database; this has been corrected to 25m average / 40m maximum based on starfish.ch documentation.
+Current can strengthen at times, driving schools of jacks, snappers, fusiliers, and barracudas along the slope per bottles-up-diving.com — adding a fish-life dimension less common at the inner muck sites.
 
 ## Site Information
 
@@ -29,18 +29,18 @@ Note: Sources describe the depth as significantly greater than the original 14m 
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–20 meters
 - **Current**: Variable; can strengthen and bring pelagic fish life
 - **Best Time**: October to April
 
 ## Marine Life
 
-Confirmed species at Amahusu from bottles-up-diving.com and starfish.ch: leaf scorpionfish, hinge-beak shrimps (hinche-beak shrimps), nudibranchs (numerous), anemonefish, clown frogfish, whipcoral shrimps, tiny crabs, decorator spidercrabs, featherstars, jawfish, and nudibranchs among the stones in the mica-flecked sand. On current-active dives, schools of jacks, snappers, fusiliers, and barracudas are encountered. Pygmy seahorses reported in the gorgonians on the reef slope. Sources do not confirm ribbon eels specifically at this site — this attribution from earlier descriptions is removed.
+Confirmed species at Amahusu from bottles-up-diving.com, starfish.ch, and indopacificimages.com: Saron shrimp (a signature, rarely-seen species at this specific site per indopacificimages.com), leaf scorpionfish, hinge-beak shrimps, nudibranchs, anemonefish, clown frogfish, whipcoral shrimps, decorator spidercrabs, featherstars, jawfish, breeding cardinalfish, and small clown frogfish and leaffish on the adjacent coral block. On current-active dives, schools of jacks, snappers, fusiliers, and barracudas are encountered along the slope. Earlier claims of pygmy seahorses and ribbon eels at this site were not supported by any source consulted and have been removed.
 
 ## Dive Profile
 
-Shore entry from the beach in the Amahusu area. The slope descends from the shallows to approximately 25 meters across patchy reef and sandy substrate. The glittering mica sand is distinctive and helps confirm you're at the right site. Macro diving is productive in the 10–20 meter range; deeper sections on the sand channel are possible but require Intermediate certification and careful air management.
+Shore entry from the beach in the Amahusu area. The slope descends across a mix of large coral blocks and sandy areas typical of this stretch of the eastern bay. Macro diving is productive throughout, with the Saron shrimp colony and breeding cardinalfish among the highlights. No source gives a precise maximum depth for this site; dive conservatively within recreational limits and follow your guide's lead.
 
 ## Entry and Exit
 
@@ -49,7 +49,7 @@ Shore entry from the eastern bay shore. Conditions are generally calm in the inn
 ## Tips and Recommendations
 
 - Look carefully at the patchy reef structures for leaf scorpionfish and clown frogfish — they are extremely well camouflaged
-- The mica-flecked sand catches light in a way that makes this site visually distinctive
+- Ask your guide specifically about the resident Saron shrimp colony — they are cryptic and easily missed
 - This site sees fewer divers than the Laha complex — an advantage for wildlife disturbance
 - When current is running, scan the blue above the slope for passing jacks and barracudas
 
@@ -59,7 +59,7 @@ Current can increase without warning in the inner bay — monitor conditions thr
 
 ## Photography
 
-The leaf scorpionfish and frogfish blend superbly against the patchy reef — the challenge and the reward are in finding them. The mica-flecked sand can create an interesting sparkle effect in macro photography. When current brings schools of fish above the slope, wide-angle compositions are possible.
+The leaf scorpionfish, clown frogfish, and Saron shrimp blend superbly against the coral block and sand substrate — the challenge and the reward are in finding them. When current brings schools of fish above the slope, wide-angle compositions are possible.
 
 ---
-*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html), [Bluewater Dive Travel — Ambon Diving](https://www.bluewaterdivetravel.com/destination/ambon-diving). Last updated 2026-05-17.*
+*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html), [IndoPacificImages — Critter Diving in Ambon](https://indopacificimages.com/indonesia/maluku/diving-indonesia-maluku-province-critter-diving-in-ambon/). Re-audited 2026-07-09: removed unsupported mica-sand and 25/40m depth claims previously mis-attributed to starfish.ch (that content belongs to the separate Tirta Point site); replaced bluewaterdivetravel.com citation, which does not mention Amahusu, with indopacificimages.com. Last updated 2026-07-09.*

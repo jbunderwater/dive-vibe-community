@@ -34,7 +34,9 @@ DivePlanit's Nigel Marsh account confirms Air Manis was particularly notable for
 
 ## Marine Life
 
-The following species have been confirmed at Air Manis by independent sources: frogfish (multiple species including warty frogfish; DivePlanit trip report notes 11 frogfish found in a single dive), scorpionfish, lionfish, moray eels, groupers, blue-ringed octopus, longarm octopus, coconut octopus, starry night octopus (confirmed on night dives), flamboyant cuttlefish, ghost pipefish, seahorses, harlequin shrimps, nudibranchs, berry's bobtail squid, flatworms, and crabs. The pier pilings function as cleaning stations hosting moray eels and groupers attended by cleaner shrimp. Massive schools of fish aggregate beneath the pier structure.
+The following species have been confirmed at Air Manis by independent sources: frogfish (multiple species including warty frogfish; DivePlanit trip report notes 11 frogfish found in a single dive), rhinopias scorpionfish (starfish.ch), scorpionfish, lionfish, moray eels, longarm octopus, coconut octopus, starry night octopus (confirmed on night dives), broadclub cuttlefish (juveniles), flamboyant cuttlefish, ghost pipefish, nudibranchs, berry's bobtail squid, flatworms, flatheads, and crabs. The pier pilings function as cleaning stations hosting moray eels attended by cleaner shrimp. Massive schools of fish aggregate beneath the pier structure.
+
+**Re-audit note (2026-07-09):** Blue-ringed octopus, harlequin shrimps, seahorses, and groupers were listed in the prior version but are not confirmed at Air Manis specifically by diveplanit.com, starfish.ch, or bluewaterdivetravel.com; those species are documented at other Ambon Bay muck sites. They have been removed here to avoid misattribution.
 
 ## Dive Profile
 
@@ -49,7 +51,7 @@ Shore entry with guide supervision. Always be aware of active fishing boats usin
 - Night dives at Air Manis are among the best in Ambon Bay for octopus diversity
 - The working jetty means boat activity overhead — dive with a guide who monitors this
 - Slow down in the debris and rubble — frogfish and other cryptic species are easily overlooked
-- Harlequin shrimps are regularly found at this site; look carefully among the rubble
+- Rhinopias scorpionfish have been documented here; ask your guide about recent sightings
 
 ## Safety Considerations
 
@@ -60,4 +62,4 @@ Active boat traffic using the jetty is the primary safety concern — never asce
 Air Manis is exceptional for both macro and fisheye/ultra-wide shots of fish aggregations beneath the pier. The octopus diversity on night dives is a highlight. Bring a good focus light for nocturnal photography; strobes are essential. The darker conditions under the pier on day dives also reward wide-angle techniques when schools of fish are present.
 
 ---
-*Sources: [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Bluewater Dive Travel — Ambon Diving](https://www.bluewaterdivetravel.com/destination/ambon-diving), [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-05-17.*
+*Sources: [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Bluewater Dive Travel — Ambon Diving](https://www.bluewaterdivetravel.com/destination/ambon-diving), [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Re-audited 2026-07-09: four species (blue-ringed octopus, harlequin shrimps, seahorses, groupers) removed from the marine life list as unconfirmed at this specific site; rhinopias scorpionfish added per starfish.ch's Air Manis Jetty entry. Last updated 2026-07-09.*

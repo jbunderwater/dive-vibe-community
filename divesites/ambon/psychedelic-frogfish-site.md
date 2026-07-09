@@ -23,6 +23,8 @@ According to Wikipedia and the original species description, the fish was found 
 
 The psychedelic frogfish is small (maximum 15 cm), pale yellow-brown to peach in colour with unique swirling white-stripe patterns — each individual's markings are distinct, enabling researchers to track specimens over time. It walks on its pectoral fins and uses jet propulsion to move. Sightings are not guaranteed on any given dive; local guides who know the site are the most reliable means of locating individuals.
 
+Per Wikipedia, the species was unknowingly first collected in June 1992, when two specimens were shipped live from Bali to the Dallas Aquarium in Texas; both died in poor condition before being recognised as anything unusual. It was not until the January 2008 photographs from this Laha I site, followed by the 2 April 2008 holotype collection, that the species was recognised as new to science and formally described in 2009 — 16 years after the first (unrecognised) specimens were collected.
+
 Note: This site overlaps geographically with the Laha and Twilight Zone dive areas — these are not sharply delineated separate dive sites but sections of the same north-bay muck slope that different operators and guides name slightly differently.
 
 ## Site Information
@@ -64,4 +66,4 @@ The site is very shallow (5–7 meters) and generally calm. The main hazard is b
 The psychedelic frogfish is one of the most photographed rare species in the Indo-Pacific. At 5–7 meters, natural light is adequate but strobes produce better colour on the pale, strikingly patterned skin. Use a diopter or macro lens; maximum body size is 15 cm. Patience and stillness are more important than any equipment choice.
 
 ---
-*Sources: [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish), [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-05-17.*
+*Sources: [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish), [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Re-audited 2026-07-09: discovery timeline and species details re-confirmed against Wikipedia with no corrections needed; 1992 Dallas Aquarium historical detail added. Last updated 2026-07-09.*

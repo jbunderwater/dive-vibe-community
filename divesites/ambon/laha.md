@@ -3,7 +3,7 @@ name: Laha
 lat: -3.7058
 lng: 128.1037
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 30
 entryType: shore
 siteType: muck
 ref: null
@@ -29,14 +29,16 @@ Laha 1 is also the site where the psychedelic frogfish (Histiophryne psychedelic
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5–20 meters (varies by time of day and tidal activity)
 - **Current**: Minimal in inner bay; long-shore currents can reduce visibility at times
 - **Best Time**: October to April
 
 ## Marine Life
 
-The following species are confirmed across the Laha site complex by multiple independent sources: rhinopias scorpionfish (weedy / Rhinopias frondosa and Eschmeyer's / R. eschmeyeri in multiple colour variants), flamboyant cuttlefish, mandarin fish (evening dives at Laha 1), harlequin shrimps, frogfish (multiple species including psychedelic frogfish at Laha 1), ghost pipefish, nudibranchs, mimic octopus, blue-ringed octopus, moray eels, stonefish, inimicus, thorny seahorses, pygmy seahorses, and sea moths. Starfish.ch specifically documents rhinopias territorial interactions at Laha 3 and harlequin shrimp transporting starfish at Laha 1.
+The following species are confirmed across the Laha site complex by multiple independent sources: rhinopias scorpionfish (weedy / Rhinopias frondosa and Eschmeyer's / R. eschmeyeri in multiple colour variants), flamboyant cuttlefish, mandarin fish (evening dives at Laha 1), harlequin shrimps, frogfish (multiple species including psychedelic frogfish at Laha 1 and orange painted frogfish per dive-the-world.com), ghost pipefish, nudibranchs, moray eels, lionfish, stonefish, spiny and spotted devilfish, and pink thorny seahorses. Starfish.ch specifically documents rhinopias territorial interactions at Laha 3 and harlequin shrimp transporting starfish at Laha 1.
+
+**Re-audit note (2026-07-09):** Mimic octopus, blue-ringed octopus, pygmy seahorses, sea moths, and inimicus were listed here in the prior version but were not confirmed at Laha specifically by any source checked in this re-audit — those species are documented at other, nearby Ambon Bay sites (Mimic Point, Twilight Zone, Air Manis) and have been removed to avoid misattribution.
 
 ## Dive Profile
 
@@ -63,4 +65,4 @@ Inner bay conditions are generally calm with minimal current. The main hazard is
 Laha is consistently rated among the top five macro photography destinations in the world. The dark volcanic substrate provides clean backgrounds for critter portraits. Strobes are essential. Most subjects are found in the 10–100mm range; bring both macro and mid-range options. Rhinopias at Laha 3 can be framed with wider compositions. Mandarin fish at dusk require patience and low-light macro technique.
 
 ---
-*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/), [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish). Last updated 2026-05-17.*
+*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/), [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Dive the World — Ambon Diving](https://www.dive-the-world.com/diving-sites-indonesia-ambon.php), [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish). Re-audited 2026-07-09: depth field corrected from 15m to 30m to match the site's own body text on Laha 3 rhinopias depths; five unconfirmed species removed from the marine life list (see note above). Last updated 2026-07-09.*

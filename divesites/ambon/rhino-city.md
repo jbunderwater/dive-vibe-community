@@ -3,7 +3,7 @@ name: Rhino City
 lat: -3.7073
 lng: 128.098
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 28
 entryType: shore
 siteType: muck
 ref: null
@@ -27,7 +27,7 @@ Beyond the rhinopias, the site features sandy slopes with stones, anemones, cora
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10 meters (long-shore currents can reduce visibility)
 - **Current**: Mild long-shore currents typical
 - **Best Time**: October to April
@@ -60,4 +60,4 @@ Conditions are generally calm; long-shore currents can reduce visibility but are
 Rhinopias are among the most dramatic and rewarding macro subjects in the Indo-Pacific. The pale or vibrant colouration contrasts well against the dark sand; position strobes carefully to avoid harsh shadows on the complex body texture. Side-on portraits at 60–100mm work well. The anemone shrimp community in the shallows rewards a diopter and patience.
 
 ---
-*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Dive the World — Ambon Diving](https://www.dive-the-world.com/diving-sites-indonesia-ambon.php), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). Last updated 2026-05-17.*
+*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Dive the World — Ambon Diving](https://www.dive-the-world.com/diving-sites-indonesia-ambon.php), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). Re-audited 2026-07-09: sources re-checked and confirmed consistent with existing content; the 20m depth field (which contradicted the body text's own citation of starfish.ch's 28m figure) has been corrected to 28m. Last updated 2026-07-09.*
