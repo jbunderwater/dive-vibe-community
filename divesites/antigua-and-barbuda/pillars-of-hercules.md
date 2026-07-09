@@ -17,7 +17,7 @@ A scenic boulder and reef dive at the entrance to English Harbour — large cora
 
 ## Overview
 
-Pillars of Hercules sits at the entrance to English Harbour within Nelson's Dockyard National Park on Antigua's southeast coast. The site takes its name from the pillar-shaped eroded cliff formations visible above the waterline. Underwater, the landscape is dominated by large coral-covered boulders rather than a vertical wall — the rock structures descend from just below the surface to a maximum of 15 metres, with cracks, crevices, and swim-throughs running throughout. A 17th-century anchor lies among the formations, a reminder of the harbour's long maritime history. The site also hosts a coral nursery program established in 2021. Visibility is variable, ranging 5–15 metres depending on conditions, as the site is exposed to some southerly swell. Water temperature is 25–28°C year-round.
+Pillars of Hercules sits at the entrance to English Harbour within Nelson's Dockyard National Park on Antigua's southeast coast. The site takes its name from the pillar-shaped eroded cliff formations visible above the waterline. Underwater, the landscape is dominated by large coral-covered boulders rather than a vertical wall, with cracks, crevices, and swim-throughs running throughout. A historic anchor lies among the formations — DiveCarib dates it to the 17th century, while PADI's site page describes it as 18th-century; sources disagree and the exact age is unconfirmed. The site also hosts a coral nursery program established in 2021. Depth is another point of disagreement: DiveCarib and PADI both put the maximum around 13–50ft (4–15m), while Xtreme Spots describes a shallower profile averaging about 3m with a max near 8m. This entry uses the 15m figure supported by the two agreeing sources. Visibility is variable, ranging 5–15 metres depending on conditions, as the site is exposed to some southerly swell. Water temperature is 25–28°C year-round.
 
 ## Site Information
 
@@ -37,7 +37,7 @@ Sources confirm the following marine life at Pillars of Hercules: spotted eagle 
 
 ## Dive Profile
 
-Descent around the outer boulder structures, then exploration of the passages and swim-throughs between formations. Most of the interesting structure sits in the 5–12 metre range, with the base of the deeper boulders reaching 15 metres. The 17th-century anchor is worth locating — dive operators typically know its position. The exposed, southerly-facing site can experience surge; the deepest sections between boulders provide some shelter. Safety stop is comfortably taken in the shallows between the rock structures.
+Descent around the outer boulder structures, then exploration of the passages and swim-throughs between formations. Most of the interesting structure sits in the 5–12 metre range, with the base of the deeper boulders reaching 15 metres. The historic anchor (17th- or 18th-century, per conflicting sources) is worth locating — dive operators typically know its position. The exposed, southerly-facing site can experience surge; the deepest sections between boulders provide some shelter. Safety stop is comfortably taken in the shallows between the rock structures.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Surge can develop quickly at this exposed site. Avoid the boulder base during su
 
 ## Photography
 
-The boulder formations provide excellent wide-angle subjects. Spotted eagle rays in the open water above the boulders create strong images. The historic anchor among the encrusted rock is a distinctive shot. Macro subjects on boulder faces include flamingo tongue snails, nudibranchs, and encrusting invertebrates. Split-level photography from above the boulder tops shows the rock emerging from the water in calm conditions.
+The boulder formations provide excellent wide-angle subjects. Spotted eagle rays in the open water above the boulders create strong images. The historic anchor among the encrusted rock is a distinctive shot (its exact age is disputed between sources). Macro subjects on boulder faces include flamingo tongue snails, nudibranchs, and encrusting invertebrates. Split-level photography from above the boulder tops shows the rock emerging from the water in calm conditions.
 
 ---
-*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [PADI - The Pillars of Hercules](https://www.padi.com/dive-site/antigua-and-barbuda/the-pillars-of-hercules/), [Xtreme Spots - Pillars of Hercules](https://www.xtremespots.com/water-sports/scuba-diving/pillars-of-hercules-antigua-antigua-and-barbuda-2/). Last updated 2026-05-17.*
+*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [PADI - The Pillars of Hercules](https://www.padi.com/dive-site/antigua-and-barbuda/the-pillars-of-hercules/), [Xtreme Spots - Pillars of Hercules](https://www.xtremespots.com/water-sports/scuba-diving/pillars-of-hercules-antigua-antigua-and-barbuda-2/). Last updated 2026-07-09.*

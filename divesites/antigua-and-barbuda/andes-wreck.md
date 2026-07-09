@@ -34,4 +34,4 @@ The wreck is also listed as Deep Bay Wreck (Andes) in this database — both ent
 | Water Temp | 26–28°C |
 
 ---
-*Sources: [Antigua Marine Guide - Deep Bay](https://www.antiguamarineguide.com/anchorages/deep-bay), [Ancient Origins - Antigua Shipwrecks](https://www.ancient-origins.net/ancient-places-americas/antigua-shipwreck-0015533), [Yacht Warriors - Deep Bay](https://yachtwarriors.com/destinations/antigua-and-barbuda/islands/deep-bay). Last updated 2026-05-17.*
+*Sources: [Antigua Marine Guide - Deep Bay](https://www.antiguamarineguide.com/anchorages/deep-bay), [Ancient Origins - Antigua Shipwrecks](https://www.ancient-origins.net/ancient-places-americas/antigua-shipwreck-0015533), [Yacht Warriors - Deep Bay](https://yachtwarriors.com/destinations/antigua-and-barbuda/islands/deep-bay). Note: ancient-origins.net returned an access error on direct re-fetch 2026-07-09; its content (vessel build date, cargo, cause of sinking) was corroborated via independent mirror sources. Last updated 2026-07-09.*
