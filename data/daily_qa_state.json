@@ -179,6 +179,90 @@
   ],
   "history": [
     {
+      "date": "2026-07-09",
+      "slugs": [
+        "alaska",
+        "alor-archipelago",
+        "ambon",
+        "andaman-islands",
+        "antigua-and-barbuda",
+        "aruba"
+      ],
+      "summary": {
+        "sites_total": 84,
+        "sites_validated_today": 1,
+        "sites_re_audited": 58,
+        "hallucinations_removed": 25,
+        "marine_life_stripped": 25,
+        "wreck_conflicts_flagged": 12,
+        "sites_unresolved": 30,
+        "by_destination": {
+          "alaska": {
+            "sites_total": 30,
+            "sites_validated_today": 0,
+            "sites_re_audited": 5,
+            "hallucinations_removed": 22,
+            "marine_life_stripped": 20,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 25,
+            "notes": "Removed USS Coldbrook (non-diveable \u2014 sits above high-tide line since the 1964 earthquake). MAINTAINER FLAG: 12 sites (Alert Rock, Chanal Reef, Marchand Reef, Testlatlints Rock, Gatenby Rock, Harvey Rock, Douglas Rock, La Perouse Reef, Hastings Reef, Haswell Reef, Observatory Rock, Wimble Rocks) cluster near Langara Island/Haida Gwaii, British Columbia, Canada, not the Ketchikan, Alaska area their prior descriptions claimed \u2014 fabricated marine-life/operator claims stripped, but destination-membership needs a maintainer decision. Bligh Reef, MV Leschi, Vanderbilt Reef, and M/V Oduna re-audited with corrected facts (grounding date/cargo, capsize-date range, death-toll range, vessel-name typo). 5 wreck sites (Boat Graveyard, Grebe, Polar Bear, Swan Lake Wooden Barge, F/V Lily) remain unresolved \u2014 no matching vessel records found in any source."
+          },
+          "alor-archipelago": {
+            "sites_total": 11,
+            "sites_validated_today": 1,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 2,
+            "notes": "Pantar Strait newly validated (7 independent sources). Kal's Dream pinnacle-depth conflict documented (2-7m vs 5m/12m). Shark Close and The Boardroom (naming collision with an unrelated site off Pura) remain unresolved."
+          },
+          "ambon": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "Amahusu Reef's fabricated depth figure and misattributed 'mica-flecked sand' description (actually a different site's detail) corrected. Duke of Sparta Wreck (SS Aquila) bow-depth and hull-length conflicts documented; clarified a conflation risk between the ship's unidentified attacker and CIA pilot Allen Pope's separate 1958 shoot-down."
+          },
+          "andaman-islands": {
+            "sites_total": 9,
+            "sites_validated_today": 0,
+            "sites_re_audited": 9,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 2,
+            "notes": "South Button's unconfirmed leopard-shark sighting claim removed after a direct source re-fetch found no such mention. MV Mars depth conflict and MV Primrose crew-count outlier documented rather than picked. Guoddus Garden and Johnson's Reef remain unvalidated \u2014 no operator lists them under any spelling."
+          },
+          "antigua-and-barbuda": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 1,
+            "notes": "Citation-integrity sweep: Carpenter's Reef, Sandy Island Reef, Cades Reef, and Barbuda Reef were citing sources that don't actually mention them \u2014 replaced with directly re-verified sources. Andes/Deep Bay Wreck sinking-year conflict documented. Ariadne Shoal left validated=true but flagged: only 1 independent source survives re-verification (below the 3-source bar), needs maintainer follow-up. Coverage gap noted: several real undocumented Antigua sites found (Jettias Wreck, Double Dip, Cape Shirley, Mary Kay Reef, Rambo's Reef, Roads) as future gap-fill candidates."
+          },
+          "aruba": {
+            "sites_total": 14,
+            "sites_validated_today": 0,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "Fixed 5 depth-field inconsistencies where the site's own data disagreed with its own cited sources: Arashi Reef, Boca Catalina, Malmok Reef, Skalahein Reef, Kantil Reef. Antilla wreck dimensions re-confirmed against majority sources (JADS outlier flagged). Sonesta Plane Wreck aircraft-model and origin-story conflicts documented. MAINTAINER FLAG: SS Antilla Wreck and Antilla Shipwreck appear to be duplicate records of the same physical wreck \u2014 dedup candidate."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
+    {
       "date": "2026-07-08",
       "slugs": [
         "us-virgin-islands",
