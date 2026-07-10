@@ -33,7 +33,7 @@ Sunken Rock is one of Antigua's most challenging and well-regarded dive sites, w
 
 ## Marine Life
 
-The following marine life has been confirmed at Sunken Rock by dive operators and sources: Caribbean reef sharks (resident), ocean triggerfish (resident), dolphins (occasional). The open-ocean exposure and current-washed wall attract pelagic species; however, specific species such as spotted eagle rays, black coral, horse-eye jacks, and amberjack mentioned in older versions of this description were regional generalisations not independently confirmed at this specific site. No site-specific marine life survey is available beyond what DiveCarib documents.
+The following marine life has been confirmed at Sunken Rock by dive operators and sources: Caribbean reef sharks (resident), ocean triggerfish (resident), dolphins (occasional). Lemongrass Antigua's dive-sites guide additionally names schooling jacks and barracuda as pelagic sightings specific to this site. The open-ocean exposure and current-washed wall attract pelagic species; however, other species such as spotted eagle rays, black coral, and amberjack mentioned in older versions of this description were regional generalisations not independently confirmed at this specific site. No site-specific marine life survey is available beyond what DiveCarib and Lemongrass Antigua document.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Sunken Rock is best dived in the calmest conditions on Antigua's south coast, ty
 This is Antigua's most demanding recreational dive site. Exposed location, variable current, significant depth, and ocean swell combine to make this unsuitable for less experienced divers. Emergency support is further away than at leeward sites. Always dive with a guide on first visits. Do not exceed planned maximum depth. DSMB mandatory.
 
 ---
-*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm), [Lemongrass Antigua - Best Scuba Diving Sites 2026](https://www.lemongrassantigua.com/post/best-scuba-diving-sites-antigua-2026). Last updated 2026-05-17.*
+*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm), [Lemongrass Antigua - Best Scuba Diving Sites 2026](https://www.lemongrassantigua.com/post/best-scuba-diving-sites-antigua-2026). Last updated 2026-07-10.*

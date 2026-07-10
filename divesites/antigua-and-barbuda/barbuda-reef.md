@@ -47,11 +47,11 @@ All Barbuda diving is by boat, requiring either a day trip from Antigua (approxi
 
 ## Tips and Recommendations
 
-Barbuda diving is a full-day commitment from Antigua and requires advance arrangement. The investment yields access to reef systems that see very few divers. Post-Hurricane Irma (2017) recovery has been ongoing on the island itself; check with operators on current reef condition and accessibility before booking. The ruins of wrecked vessels visible in various states around the coastline are an additional historical interest.
+Barbuda diving is a full-day commitment from Antigua and requires advance arrangement. The investment yields access to reef systems that see very few divers. Post-Hurricane Irma (2017) recovery has been ongoing on the island itself; check with operators on current reef condition and accessibility before booking. The ruins of wrecked vessels visible in various states around the coastline are an additional historical interest — Antigua and Barbuda's official tourism source notes the island's reefs have ties to salvage operations dating back to the 17th century, though this is general island history rather than a claim about any specific numbered wreck or dive site.
 
 ## Safety Considerations
 
 The open-water channel crossing from Antigua to Barbuda can be rough. Remote location means emergency support is significantly further away than at Antigua sites. Dive conservatively. DSMB required.
 
 ---
-*Sources: [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm), [ScubaBoard - Dive Sites on Barbuda](https://scubaboard.com/community/threads/dive-sites-on-barbuda.501837/), [PADI - Diving in Antigua and Barbuda](https://www.padi.com/diving-in/antigua-and-barbuda/). Last updated 2026-05-17.*
+*Sources: [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm), [ScubaBoard - Dive Sites on Barbuda](https://scubaboard.com/community/threads/dive-sites-on-barbuda.501837/), [PADI - Diving in Antigua and Barbuda](https://www.padi.com/diving-in/antigua-and-barbuda/). Last updated 2026-07-10.*
