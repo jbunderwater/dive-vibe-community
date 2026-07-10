@@ -58,4 +58,4 @@ The calm conditions at The Boardroom are deceptive — venomous benthic species 
 Pegasus sea moths are the priority macro subject here. They are small, flat animals that blend into the bottom and require a macro lens (60–100 mm equivalent) and patience to photograph well. Ghost pipefish hovering near algae suit close-focus wide-angle or macro lenses depending on the surrounding context.
 
 ---
-*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/). No additional independent sources confirming specific species at this site were found. Last updated 2026-05-17.*
+*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/). No additional independent sources confirming specific species at this site were found. Last updated 2026-07-10.*

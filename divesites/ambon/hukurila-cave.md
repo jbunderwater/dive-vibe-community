@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Hukurila Cave
 
-Hukurila Cave is the most famous dive site on Ambon's south coast — a lava-formed chimney cave with twisting passages, multiple swim-throughs, and walls draped in gorgonian sea fans and colourful sponges.
+Hukurila Cave is the most famous dive site on Ambon's south coast — a honeycombed headland with twisting chimney passages, multiple swim-throughs, and walls draped in gorgonian sea fans and colourful sponges.
 
 ## Overview
 
-Hukurila Cave is located on the headland at Hukurila on Ambon's south coast, further east along the coastline from Pintu Kota. It is one of the most visited dive sites in the Ambon region. The cave is formed by lava, creating a honeycombed headland of twisting chimneys, passages, and caverns. The main entry is a chimney best entered from the top — divers drop into an approximately 1.5-meter-wide "gate" at around 10 meters depth, then descend through the twisting passage which splits into three exits at the bottom. Additional arches and swim-through openings at various depths provide multiple route options.
+Hukurila Cave is located on the headland at Hukurila on Ambon's south coast, further east along the coastline from Pintu Kota. It is one of the most visited dive sites in the Ambon region. The headland is honeycombed with twisting chimneys, passages, and caverns; indonesia-tourism.com describes several entrances including "a big hole and two small holes that serve a way out," and starfish.ch describes entering "from the top through a hole or chimney" with a choice of several swim-throughs beyond it. Indonesia-tourism.com gives the entrance width as roughly two to three meters — narrower figures cited in earlier versions of this entry could not be confirmed against a live source and have been removed.
 
-Sources are consistent that the cave is formed by lava (not a freshwater spring halocline system): indonesia-tourism.com, bottles-up-diving.com, and indopacificimages.com all describe the site as a lava cave. No source found indicates a freshwater spring or halocline inside Hukurila Cave; a description of halocline conditions published in earlier iterations of this entry was unsupported and has been removed.
+On re-verification, no currently-live source (indonesia-tourism.com or bottles-up-diving.com) actually describes the cave's geological formation as volcanic/lava rock; a prior version of this entry asserted a "lava cave" consensus that isn't supported by either page's text. That specific geological claim has been removed rather than repeated; the cave's formation mechanism is not confirmed by available sources, though the surrounding coastline is volcanic in origin generally.
 
-Bottles-up-diving.com describes it as "the most famous and liked dive site on the south side" with "twisting passages, caverns and canyons." Visibility is typically good at 15–20 meters, with the clear Indian Ocean water of the south coast offering better conditions than inner Ambon Bay.
+Bottles-up-diving.com describes it as "the most famous and liked dive site on the south side" with "twisting passages, caverns and canyons," and states visibility here can reach up to 28 meters. Indonesia-tourism.com separately states a depth around 20 meters. (An earlier version of this entry conflated the 28-meter visibility figure with depth; that error has been corrected here — sources give depth around 20m and visibility up to 28m as two different figures.)
 
 ## Site Information
 
@@ -29,8 +29,8 @@ Bottles-up-diving.com describes it as "the most famous and liked dive site on th
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 15–20 meters
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: Up to 28 meters
 - **Current**: Can be strong outside the cave; sheltered inside
 - **Best Time**: Dry season (October to April); calm south-coast conditions required
 
@@ -40,7 +40,7 @@ The cave walls are covered in large red, pink, and orange gorgonian sea fans, ba
 
 ## Dive Profile
 
-Boat dive from Ambon City or the inner bay; the south coast trip takes approximately one hour and is weather-dependent. The main entry is the chimney from the top at approximately 10 meters — descend through the lava tube to the multiple exits at depth. The cave can be navigated in a loop, emerging from different openings. The deepest sections reach approximately 28 meters. Good buoyancy control is important in the narrow sections to avoid disturbing coral growth on the walls. A dive torch is recommended to reveal the colours of the gorgonians inside.
+Boat dive from Ambon City or the inner bay; the south coast trip takes approximately one hour and is weather-dependent. The main entry is a chimney/hole from the top, descending into the honeycombed passages to one of several exit openings. The cave can be navigated in a loop, emerging from different openings. Overall site depth runs to approximately 20 meters. Good buoyancy control is important in the narrow sections to avoid disturbing coral growth on the walls. A dive torch is recommended to reveal the colours of the gorgonians inside.
 
 ## Entry and Exit
 
@@ -55,11 +55,11 @@ Boat mooring or drift approach from the surface. Divers descend into the chimney
 
 ## Safety Considerations
 
-The chimney entry is approximately 1.5 meters wide — this is a genuine restriction that requires good buoyancy and appropriate equipment configuration. Strong currents are possible outside the cave entrance on the open south coast; time your entry between surges. This is not a full cave dive requiring cave certification (the passages are well-lit cavern sections), but divers should be comfortable with overhead environments. A torch is important for safety as well as aesthetics.
+Entrance openings are reported at roughly two to three meters wide — narrow enough to require good buoyancy and streamlined equipment configuration. Strong currents are possible outside the cave entrance on the open south coast; time your entry between surges. This is not a full cave dive requiring cave certification (the passages are well-lit cavern sections), but divers should be comfortable with overhead environments. A torch is important for safety as well as aesthetics.
 
 ## Photography
 
 The gorgonian-draped walls with natural blue-water light framing through the cave openings are the defining photographic opportunity. Wide-angle with a torch to paint light on the fans creates the classic Hukurila shot. The fish life inside the cavern suits mid-range and macro approaches. Shoot toward the cave openings for dramatic silhouette and backlit compositions.
 
 ---
-*Sources: [Indonesia Tourism — Hukurila Cave](https://www.indonesia-tourism.com/maluku/hukurila_cave.html), [IndoPacificImages — Ambon South Coast](https://indopacificimages.com/indonesia/maluku/diving-indonesia-maluku-province-ambons-south-coast-dives/), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). Last updated 2026-05-17.*
+*Sources: [Indonesia Tourism — Hukurila Cave](https://www.indonesia-tourism.com/maluku/hukurila_cave.html), [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). indopacificimages.com, previously cited, has gone offline (404) and was dropped as a source on re-verification. Last updated 2026-07-10.*

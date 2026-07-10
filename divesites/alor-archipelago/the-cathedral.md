@@ -58,4 +58,4 @@ Cold upwellings can affect judgment and dexterity; monitor your depth closely an
 The Cathedral is an exceptional macro site. Pygmy seahorses require a 100 mm macro or equivalent with a dioptre; they are found in the coral structure and are very small. Wide-angle work captures the scale of the wall and the swim-through passage. The coral density at 15–25 metres makes for striking wide-angle compositions where the wall itself is the subject.
 
 ---
-*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/), [Nautika Dive Alor](https://www.nautikadivealor.com/diving-in-alor), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/). Last updated 2026-05-17.*
+*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/), [Nautika Dive Alor](https://www.nautikadivealor.com/diving-in-alor), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/). Last updated 2026-07-10.*

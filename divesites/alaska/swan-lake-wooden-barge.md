@@ -52,4 +52,4 @@ Sand Point is the nearest community with an airstrip. Access to the water would 
 Extremely remote location on the Alaska Peninsula. Emergency response times are measured in hours. Wooden wrecks in cold Alaskan waters can be in an advanced state of structural deterioration — penetration is not recommended. Full cold-water dry suit and redundant gear required. Buddy diving mandatory.
 
 ---
-*Description based on OSM data and regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM data and regional diving characteristics. No site-specific sources found. Re-checked 2026-07-10: Alaska Shipwrecks database and regional wreck sources re-searched; no new information found. Last updated 2026-07-10.*

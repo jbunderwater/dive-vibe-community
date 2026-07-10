@@ -17,11 +17,9 @@ Amahusu Reef is a critter-rich slope on the eastern shore of Ambon Bay where san
 
 ## Overview
 
-Located in the Amahusu/Amahusa area on the eastern side of Ambon Bay, this site is described by bottles-up-diving.com as featuring "fairly steep slopes" with "a sandy slope leading to a nice patchy reef." The sand here is unusually fine and contains glittering mica flakes — a distinctive characteristic mentioned in starfish.ch's detailed site documentation. The site is less-visited than the Laha complex on the north shore, offering a quieter alternative with its own critter community.
+Located in the Amahusu/Amahusa area on the eastern side of Ambon Bay, this site is described by bottles-up-diving.com as featuring "fairly steep slopes" with "a sandy slope leading to a nice patchy reef." The site is less-visited than the Laha complex on the north shore, offering a quieter alternative with its own critter community. On re-verification, the glitter/mica-flecked sand detail carried in a prior version of this entry is not documented for Amahusu — starfish.ch attributes that specific description to a different, nearby site ("Tirta Point"), not to Amahusu/Devion Point. It has been removed here rather than repeated on the wrong site.
 
-Average depth is cited at 25 meters with a maximum of 40 meters in the deeper sand channel. Visibility can reach 20 meters in good conditions. Current can strengthen at times, driving schools of jacks, snappers, fusiliers, and barracudas along the slope — adding a fish-life dimension less common at the inner muck sites.
-
-Note: Sources describe the depth as significantly greater than the original 14m entry in this database; this has been corrected to 25m average / 40m maximum based on starfish.ch documentation.
+Depth is currently unresolved: no live source (starfish.ch, bottles-up-diving.com, bluewaterdivetravel.com) states an explicit depth figure for this specific site. A widely-repeated regional statistic — "sloping reef and walls have an average depth of 25 and maximum depth of 40 metres" — describes Ambon-area reef/wall diving generally, not Amahusu specifically, and should not be presented as a site-specific measurement. The depth figures below are carried over from the database's existing values as an estimate pending a site-specific source, not as a confirmed fact.
 
 ## Site Information
 
@@ -29,9 +27,9 @@ Note: Sources describe the depth as significantly greater than the original 14m 
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 25 meters (estimate — no site-specific source confirms this figure; see Overview)
 - **Typical Visibility**: 10–20 meters
-- **Current**: Variable; can strengthen and bring pelagic fish life
+- **Current**: Variable
 - **Best Time**: October to April
 
 ## Marine Life
