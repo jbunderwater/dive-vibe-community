@@ -25,7 +25,7 @@ The MV Mars is a small wooden cargo ship that sank during a storm in April 2006,
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters (scubalov.in, the site-specific Havelock operator source, gives 10-16m; a generic travel-blog source cites depths as deep as 20m - 15m is retained as the figure from the dedicated local dive-shop page)
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Limited (typical for wreck sites in this area)
 - **Current**: Mild
 - **Best Time**: November to April

@@ -47,4 +47,4 @@ Contact local Havelock Island dive operators for current access information.
 - General Andaman diving season runs November to April
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Re-audited 2026-07-10 (fresh search): site still not listed by any Havelock operator (Dive Andaman, Seahawks Scuba, Barefoot Scuba, DIVEIndia, ScubaLov, Frogman Adventures, Private Scuba, Gypsy Divers) under any spelling variant.*
+*Description based on regional diving characteristics. No site-specific sources found. Re-audited 2026-07-10 (fresh search): site still not listed by any Havelock operator (Dive Andaman, Seahawks Scuba, Barefoot Scuba, DIVEIndia, ScubaLov, Frogman Adventures, Private Scuba, Gypsy Divers) under any spelling variant. Last updated 2026-07-10.*

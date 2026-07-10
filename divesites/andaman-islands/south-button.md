@@ -25,7 +25,7 @@ South Button Island is part of South Button Island National Park, situated withi
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters (sources describe a shallow reef starting around 2m; none give a precise maximum)
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20+ meters
 - **Current**: Variable
 - **Best Time**: December to April (park access season)
