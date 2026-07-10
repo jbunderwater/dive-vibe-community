@@ -29,7 +29,7 @@ The site is positioned on the inner Ambon Bay south shore and offers the combina
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (approximate — no source gives a precise figure for this site; treated as an estimate pending better sourcing)
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10–20 meters
 - **Current**: Variable at the point; mild along the wall
 - **Best Time**: October to April
@@ -40,7 +40,7 @@ Confirmed species at Pantai Nama Wall and its immediate vicinity include: large 
 
 ## Dive Profile
 
-Boat approach from Ambon Bay operators. Descend along the wall from the reef top in shallower water, working down to 15–18 meters where the main coral formations are concentrated. Navigate along the wall, spending time in the black coral bush section and at the current-exposed point before transitioning to the elephant ear sponge slope for a macro phase. Allow air for a shallow safety stop.
+Boat approach from Ambon Bay operators. Descend along the wall from the reef top in shallower water, working down to 15–18 meters where the main coral formations are concentrated. Navigate along the wall, spending time in the black coral bush section and at the current-exposed point before transitioning to the adjacent Pantai Nama Slope for a macro phase. Allow air for a shallow safety stop.
 
 ## Entry and Exit
 

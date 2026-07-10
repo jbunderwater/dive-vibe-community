@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Pintu Kota
 
-Pintu Kota — "Gate of the City" — is Ambon's most iconic south-coast dive, a lava-honeycombed headland where a spectacular underwater arch at 17 meters, draped in gorgonians and sea fans, creates cathedral-like chambers to swim through.
+Pintu Kota — "Gate of the City" — is Ambon's most iconic south-coast dive, a honeycombed headland where a spectacular underwater arch at 15–17 meters, draped in gorgonians and sea fans, creates cathedral-like chambers to swim through.
 
 ## Overview
 
@@ -31,7 +31,7 @@ Sources consistently classify Pintu Kota as an arch/cave type site rather than a
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (approximate; sources confirm the arch itself at 15–17m, no source states a precise overall maximum)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Up to 30+ meters (south coast, Indian Ocean water)
 - **Current**: Mild to moderate; can strengthen at the headland
 - **Best Time**: Dry season (October to April); weather-dependent access

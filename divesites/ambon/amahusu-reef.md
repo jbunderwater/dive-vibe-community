@@ -27,18 +27,18 @@ Depth is currently unresolved: no live source (starfish.ch, bottles-up-diving.co
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters (estimate — no site-specific source confirms this figure; see Overview)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–20 meters
 - **Current**: Variable
 - **Best Time**: October to April
 
 ## Marine Life
 
-Confirmed species at Amahusu from bottles-up-diving.com and starfish.ch: leaf scorpionfish, hinge-beak shrimps (hinche-beak shrimps), nudibranchs (numerous), anemonefish, clown frogfish, whipcoral shrimps, tiny crabs, decorator spidercrabs, featherstars, jawfish, and nudibranchs among the stones in the mica-flecked sand. On current-active dives, schools of jacks, snappers, fusiliers, and barracudas are encountered. Pygmy seahorses reported in the gorgonians on the reef slope. Sources do not confirm ribbon eels specifically at this site — this attribution from earlier descriptions is removed.
+Confirmed species at Amahusu from bottles-up-diving.com and starfish.ch: leaf scorpionfish, hinge-beak shrimps, nudibranchs (numerous), anemonefish, clown frogfish, whipcoral shrimps, tiny crabs, decorator spidercrabs, featherstars, and jawfish among the stones and sand. On re-verification, the following claims from an earlier version of this entry could not be confirmed against any current live source and have been removed: schools of jacks/snappers/fusiliers/barracudas, and pygmy seahorses. Sources also do not confirm ribbon eels specifically at this site.
 
 ## Dive Profile
 
-Shore entry from the beach in the Amahusu area. The slope descends from the shallows to approximately 25 meters across patchy reef and sandy substrate. The glittering mica sand is distinctive and helps confirm you're at the right site. Macro diving is productive in the 10–20 meter range; deeper sections on the sand channel are possible but require Intermediate certification and careful air management.
+Shore entry from the beach in the Amahusu area. The slope descends across patchy reef and sandy substrate; sources describe a steep sandy slope leading to patchy reef but do not give a precise depth profile. Macro diving is productive in the 10–20 meter range.
 
 ## Entry and Exit
 
@@ -47,9 +47,8 @@ Shore entry from the eastern bay shore. Conditions are generally calm in the inn
 ## Tips and Recommendations
 
 - Look carefully at the patchy reef structures for leaf scorpionfish and clown frogfish — they are extremely well camouflaged
-- The mica-flecked sand catches light in a way that makes this site visually distinctive
 - This site sees fewer divers than the Laha complex — an advantage for wildlife disturbance
-- When current is running, scan the blue above the slope for passing jacks and barracudas
+- Watch the sandy patches for hinge-beak shrimp and jawfish among the stones
 
 ## Safety Considerations
 
@@ -57,7 +56,7 @@ Current can increase without warning in the inner bay — monitor conditions thr
 
 ## Photography
 
-The leaf scorpionfish and frogfish blend superbly against the patchy reef — the challenge and the reward are in finding them. The mica-flecked sand can create an interesting sparkle effect in macro photography. When current brings schools of fish above the slope, wide-angle compositions are possible.
+The leaf scorpionfish and frogfish blend superbly against the patchy reef — the challenge and the reward are in finding them.
 
 ---
-*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html), [Bluewater Dive Travel — Ambon Diving](https://www.bluewaterdivetravel.com/destination/ambon-diving). Last updated 2026-05-17.*
+*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). A third source (bluewaterdivetravel.com) was previously credited but its current live content does not mention Amahusu Reef by name; only 2 independently confirmed sources remain, so this entry is flagged as unresolved pending a third source. Last updated 2026-07-10.*

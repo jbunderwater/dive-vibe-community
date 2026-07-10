@@ -13,51 +13,34 @@ addedBy: osm_import
 
 ## Testlatlints Rock
 
-A Haida-named submerged rock in the Ketchikan area carrying one of Alaska's most distinctive dive site names and a dense cold-water reef community.
+Testlatlints Rock is an OSM/NOAA-charted submerged rock in the Dixon Entrance approaches south of Ketchikan — no confirmed recreational dive reports were found for this specific site.
 
 ## Overview
 
-Testlatlints Rock takes its name from the Haida language, reflecting the long Indigenous history of the Dixon Entrance area before European contact. The rock lies in the same cluster of named reefs as Alert Rock, Chanal Reef, and Harvey Rock in the approaches south of Ketchikan, sharing their tidal environment and cold-water biological character. The structure is covered by aggregating anemones, encrusting sponges, and the full suite of Inside Passage invertebrates that thrive in nutrient-rich tidal flow. Lingcod and rockfish are the dominant fish species, with giant Pacific octopus occupying crevices in the lower sections. This is one of the more distinctively named sites in Ketchikan's dive inventory.
+Testlatlints Rock lies in the Dixon Entrance approaches south of Ketchikan, Southeast Alaska, at approximately 54.19°N, 133.00°W, near the charted features Alert Rock, Chanal Reef, and Harvey Rock. It is documented in OpenStreetMap as a `natural=reef` feature. A prior version of this description asserted the name derives from the Haida language; that etymology could not be independently verified during this QA pass and is not repeated here as fact. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases found no operator listing, forum thread, or diver log naming Testlatlints Rock specifically.
 
 ## Site Information
 
-- **Location**: Ketchikan area reef cluster (Dixon Entrance approaches), Southeast Alaska
+- **Location**: Dixon Entrance approaches, south of Ketchikan, Southeast Alaska
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Strong — slack tide required
-- **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Unknown at this specific site; Dixon Entrance generally has significant tidal flow
+- **Water Temperature**: 6–12°C (43–54°F) — general Southeast Alaska regional range
+- **Best Time**: Unknown for this site; the regional dive season runs roughly June–September
 
 ## Marine Life
 
-Testlatlints Rock supports the classic Dixon Entrance cold-water fauna. Aggregating anemones, plumose anemones, colonial tunicates, sea urchins, and sea stars encrust the hard substrate. Lingcod are common on the rock faces. Quillback and black rockfish are regularly encountered in mid-water. Giant Pacific octopus occupy sheltered crevices at depth and are a regular highlight reported by local divers.
-
-## Dive Profile
-
-Descend during slack, working around the rock perimeter systematically. Upper zones at 8–14 meters carry the densest anemone populations. Deeper sections at 18–25 meters provide the best encounters with octopus and lingcod. Plan your ascent with adequate gas for a comfortable 3-minute safety stop at 5 meters.
+No site-specific marine life reports have been found for Testlatlints Rock. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, giant Pacific octopus, anemones, sea stars, and nudibranchs as regional fauna, but no source confirms these species at this specific rock.
 
 ## Entry and Exit
 
-Ketchikan charter boat access. Local operators manage the tidal timing for all dives in this cluster. No permanent infrastructure. Shot or anchor line descent standard. SMB mandatory on ascent.
-
-## Tips and Recommendations
-
-- The name reflects Haida heritage in this area — learning about local Indigenous culture enriches the overall experience
-- This site is typically combined with Alert Rock or Chanal Reef for a full day of diving
-- Pay attention to the deep crevices in the lower rock face — octopus dens marked by crab shell debris
-- Cold-water dry suit diving skills including valve-off practice should be current before attempting this site
-- Night dives here (with appropriate boat and safety support) can reveal octopus active on the rock surface
+No established dive operator access is documented for this site. Any dive here would require a private or custom charter with local knowledge of the rock's exact position and current behavior.
 
 ## Safety Considerations
 
-Standard Inside Passage precautions: slack tide required, dry suit mandatory, buddy system essential. The cultural and geographic remoteness of this area means emergency services are not nearby. Conservative dive planning and self-sufficient team preparation are non-negotiable.
-
-## Photography
-
-Testlatlints Rock offers the same photographic opportunities as the broader Ketchikan cluster — anemone fields, lingcod portraits, and Pacific octopus encounters. The diversity of invertebrate forms on the encrusted rock surface makes it a macro photographer's subject list in itself. Strobe lighting is essential for accurate color.
+Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan given the area's remoteness from emergency services.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*

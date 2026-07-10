@@ -3,7 +3,7 @@ name: Hukurila Cave
 lat: -3.7365
 lng: 128.2515
 difficulty: Intermediate
-maxDepth: 28
+maxDepth: 20
 entryType: boat
 siteType: cave
 ref: null

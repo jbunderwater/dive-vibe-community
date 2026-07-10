@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Table Rock
 
-A submerged rocky formation in the cold Aleutian approaches offering kelp forest diving and productive cold-water communities.
+Table Rock is an OSM/NOAA-charted submerged rock formation on the Alaska Peninsula — no confirmed recreational dive reports were found for this specific site.
 
 ## Overview
 
-Table Rock is located in the waters of the Alaska Peninsula near the Cold Bay and Shumagin Islands area, where Bering Sea influence meets the North Pacific. This is remote Alaskan diving at its most extreme — far from any major population center, with a marine environment shaped by the cold, nutrient-dense waters pouring from the Bering Sea. The flat-topped rock formation (suggested by its name) supports kelp forest development in the shallower zones and dense encrusting invertebrates at depth. Access to this site requires serious logistical commitment, but the undisturbed cold-water marine life here is exceptional. The Alaska Peninsula region supports massive populations of Steller sea lions, brown bears, and seabirds, adding a remarkable surface wildlife dimension to any dive expedition.
+Table Rock is located in the waters of the Alaska Peninsula near the Cold Bay/Shumagin Islands area, at approximately 55.02°N, 162.24°W, where Bering Sea influence meets the North Pacific. OSM records a note that the name was "given by USC&GS in 1927 on Chart 8703" (per the Dictionary of Alaska Place Names, Orth, 1971) — a navigational chart name rather than a recreational-diving designation. A search of Alaska Peninsula dive operators, ScubaBoard, and regional dive-site databases during this QA pass found no recreational operator, forum thread, or diver log describing Table Rock. There are no known established dive operators serving Cold Bay, King Cove, or Sand Point.
 
 ## Site Information
 
@@ -25,39 +25,22 @@ Table Rock is located in the waters of the Alaska Peninsula near the Cold Bay an
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 24 meters
-- **Typical Visibility**: 8–20 meters (26–66 feet)
-- **Current**: Moderate to strong — slack tide required
-- **Water Temperature**: 3–10°C (37–50°F)
-- **Best Time**: June–August
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Unknown at this specific site; the Alaska Peninsula/Bering Sea approaches generally have strong, unpredictable currents
+- **Water Temperature**: 3–10°C (37–50°F) — general regional range for this coastline
+- **Best Time**: Unknown for this site; any weather window would likely fall in June–August
 
 ## Marine Life
 
-Table Rock's cold waters support giant Pacific octopus, lingcod, Atka mackerel, Pacific cod, and various rockfish species. Kelp in the shallower zones provides habitat for juvenile fish and invertebrates. Sea urchins, anemones, and encrusting sponges cover the deeper reef faces. Steller sea lions are common in the broader area and occasionally investigate divers. Intertidal zones near the rock may expose starfish and intertidal fish during low water.
-
-## Dive Profile
-
-Explore the upper flat section and descend the rock faces during slack tide. The kelp zone at 5–12 meters is productive for smaller fish and invertebrate observations. Deeper sections at 15–24 meters feature the densest anemone and sponge coverage. Cold temperatures at this location demand conservative bottom time planning.
+No site-specific marine life reports have been found for Table Rock. The Alaska Peninsula's cold, nutrient-dense waters generally support halibut, Pacific cod, rockfish, lingcod, king crab, and Steller sea lions as regional fauna, but no source confirms which of these, if any, occur at this specific rock. Any prior claim that sea lions "occasionally investigate divers" here was unsupported and has been removed.
 
 ## Entry and Exit
 
-Access requires a specialized charter from Cold Bay, King Cove, or Sand Point — there are very few regular dive operators in this area. Self-organized expeditions with a capable Alaska vessel are the typical access method. Conditions in this area can be extreme — abort procedures should be established before any dive begins.
-
-## Tips and Recommendations
-
-- This is an expedition dive site requiring significant advance planning and self-sufficiency
-- Water temperatures can approach 3°C — high-specification dry suits and undersuits are required
-- The Alaska Peninsula is bear country topside — follow appropriate safety protocols when ashore
-- Bering Sea weather is notoriously unpredictable — plan multiple weather contingency days
-- This site rewards divers with interest in Pacific Northwest kelp forest ecosystems
+No established dive operator access is documented for this site. Access would require a private or specialized charter from Cold Bay, King Cove, or Sand Point.
 
 ## Safety Considerations
 
-Table Rock sits in one of the most remote and weather-affected corners of Alaska. Emergency rescue response is measured in hours to days. All divers must be self-sufficient and experienced in cold-water diving. Seas in this area can be rough with minimal warning — weather monitoring is critical throughout any expedition.
-
-## Photography
-
-The kelp forest and cold-water reef environment offer a unique photographic context rarely available to visiting divers. Wide-angle shots of kelp canopy with fish subjects are striking. Macro photography of cold-water invertebrates found in this Bering Sea-influenced environment can document species difficult to access elsewhere. Natural light is limited — artificial lighting is essential.
+This is one of the most remote and weather-affected corners of Alaska; emergency response would be measured in hours to days. Treat this as an unconfirmed site — no dive profile, visibility data, or operator guidance exists. Any attempt would require full logistical self-sufficiency, conservative planning, and cold-water expedition experience.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM/NOAA chart data and general regional characteristics. No site-specific sources found. Last updated 2026-07-10.*

@@ -13,51 +13,34 @@ addedBy: osm_import
 
 ## Desconocida Reef
 
-A remote submerged reef in the outer islands of Southeast Alaska, named for its historical obscurity among mariners.
+Desconocida Reef is an OSM/NOAA-charted submerged reef among the outer islands of Southeast Alaska — no confirmed recreational dive reports were found for this specific site.
 
 ## Overview
 
-Desconocida Reef — its name derived from the Spanish word for "unknown" — sits among the outer island chains of Southeast Alaska, likely named for the hazard it presented to early navigators unfamiliar with the waters. Today it attracts divers for the same remote, undisturbed quality that once made it dangerous: minimal boat traffic, clear water during low-plankton periods, and intact cold-water communities undisturbed by heavy diving pressure. The reef is covered in aggregating anemones and encrusting sponges, with lingcod and rockfish occupying the structure. Getting here requires a committed boat trip, but the reward is an essentially wild dive experience in the Alaskan archipelago.
+Desconocida Reef ("desconocida" is Spanish for "unknown") lies among the outer island chains of Southeast Alaska, at approximately 55.69°N, 133.52°W, in the Coronation Island/Warren Island vicinity. Spanish-language place names appear on this coastline from 18th-century Spanish naval survey expeditions, which is a plausible but unconfirmed origin for the name. A search of Southeast Alaska dive operators, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Desconocida Reef specifically.
 
 ## Site Information
 
-- **Location**: Outer island chains, Southeast Alaska
+- **Location**: Outer island chains, Southeast Alaska (Coronation/Warren Island area)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 8–20 meters (26–66 feet)
-- **Current**: Moderate to strong — slack tide required
-- **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Unknown at this specific site; the outer islands are exposed to open-Pacific swell and tidal flow
+- **Water Temperature**: 6–12°C (43–54°F) — general Southeast Alaska regional range
+- **Best Time**: Unknown for this site; the regional dive season runs roughly June–September
 
 ## Marine Life
 
-Cold Pacific upwellings sustain diverse invertebrate life on Desconocida Reef. Dense anemone colonies, leather stars, sunflower sea stars, and encrusting bryozoans cover the hard substrate. Lingcod and rockfish species patrol the reef, with larger individuals found in deeper sections. Giant Pacific octopus are likely residents in crevices along the base. The remote location means minimal human disturbance, so animal behavior tends to be natural and unhurried.
-
-## Dive Profile
-
-Explore the reef perimeter during the slack window, staying close to the substrate for protection from ambient current. The upper reef zone at 8–15 meters is most productive for invertebrates. Work deeper sections for larger fish encounters. Allow extra ascent time and safety stop duration given the remote location and limited rescue resources.
+No site-specific marine life reports have been found for Desconocida Reef. Southeast Alaska's outer coast generally supports lingcod, rockfish, sea stars, and encrusting invertebrates as regional fauna, but no source confirms these species — or any giant Pacific octopus, which a prior version of this description speculated were "likely residents" — at this specific reef.
 
 ## Entry and Exit
 
-This site requires a capable offshore charter from Southeast Alaska. There are no permanent moorings or infrastructure. GPS positioning is essential. Brief all divers thoroughly on abort conditions before descent, and ensure every diver carries an SMB and audible signal device.
-
-## Tips and Recommendations
-
-- Only attempt this site with experienced Alaska dive operators with local knowledge
-- Check extended weather forecasts — offshore runs in exposed water require good conditions
-- Pre-plan dive profiles conservatively given distance from emergency services
-- Thermal protection must be verified before leaving port
-- Bring backup surface signaling (mirror, strobe) in addition to SMB
+No established dive operator access is documented for this site. Any dive here would require a private or custom offshore charter with local knowledge of the reef's exact position and current behavior.
 
 ## Safety Considerations
 
-Remoteness compounds every other risk factor at this site. Emergency response times are very long. Weather windows in Southeast Alaska can close quickly. Divers must be self-sufficient and conservative in planning. Current management and dry suit proficiency are non-negotiable prerequisites.
-
-## Photography
-
-The undisturbed nature of Desconocida Reef makes it attractive for underwater photography. Wide-angle coverage of intact anemone fields and reef structure, along with macro work on nudibranchs and small crustaceans, are the primary opportunities. Natural light diminishes quickly in these waters — strobes or video lights are essential.
+Treat this as an unconfirmed site in a remote location with long emergency-response times. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan with backup surface signaling.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
