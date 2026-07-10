@@ -64,4 +64,4 @@ Drift diving conditions require proper SMB deployment skills. Divers unfamiliar 
 The artificial Cessna wreck surrounded by coral growth is a compact, well-lit subject. Drift conditions mean fish behaviour is natural — barracuda and other species are less disturbed. Nurse sharks resting on the sand beside the structure make approachable photographic subjects.
 
 ---
-*Sources: [Duikersgids - De Palm Slope](https://www.duikersgids.nl/en/de-palm-slope), [Aruba Dive4Life - Dive Sites](https://arubadive4life.com/divesites/), [In-Aruba.com - Aruba Dive Sites](https://www.in-aruba.com/arubadivesites). Last updated 2026-05-24.*
+*Sources: [Duikersgids - De Palm Slope](https://www.duikersgids.nl/en/de-palm-slope), [Aruba Dive4Life - Dive Sites](https://arubadive4life.com/divesites/), [In-Aruba.com - Aruba Dive Sites](https://www.in-aruba.com/arubadivesites). Last updated 2026-07-10 (re-audited).*
