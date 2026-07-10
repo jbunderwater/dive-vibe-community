@@ -13,51 +13,34 @@ addedBy: osm_import
 
 ## Harvey Rock
 
-A current-swept pinnacle in the Ketchikan archipelago renowned for anemone density and productive rockfish habitat.
+Harvey Rock is an OSM/NOAA-charted submerged rock in the Ketchikan approaches — no confirmed recreational dive reports were found for this specific site.
 
 ## Overview
 
-Harvey Rock is one of the named submerged rocks in the Ketchikan diving area, rising from the Inside Passage seabed to form a hard-substrate habitat in a tidal corridor. The constant tidal sweep over this structure delivers a steady supply of plankton and organic matter to resident filter feeders, producing the dense anemone and sponge coverage characteristic of the best Inside Passage dive sites. Rockfish occupy the structure at multiple depths, and lingcod are commonly encountered resting on the substrate. Giant Pacific octopus are reported by local divers as reliably present. The site's depth of 25 meters keeps it within sport diving range while offering enough profile variation to keep a full dive interesting.
+Harvey Rock lies in the Ketchikan approaches, Southeast Alaska, at approximately 54.21°N, 133.04°W, near the charted features Testlatlints Rock and Douglas Rock. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Harvey Rock specifically. A prior version of this description claimed giant Pacific octopus were "reliably present" here and that harbor seals had "been reported visiting divers"; neither claim could be traced to any source and both have been removed.
 
 ## Site Information
 
-- **Location**: Ketchikan archipelago, Southeast Alaska
+- **Location**: Ketchikan approaches, Southeast Alaska
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Strong — slack tide required
-- **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Unknown at this specific site; the Inside Passage generally has significant tidal flow
+- **Water Temperature**: 6–12°C (43–54°F) — general Southeast Alaska regional range
+- **Best Time**: Unknown for this site; the regional dive season runs roughly June–September
 
 ## Marine Life
 
-Harvey Rock hosts aggregating anemones, plumose anemones in large white clusters, several sea star species, encrusting bryozoans, and colonial tunicates. Black and copper rockfish school over the rock in summer. Lingcod are commonly found resting on anemone-covered ledges, often tolerating close approaches from calm divers. Giant Pacific octopus are present in crevices below 15 meters. Harbor seals have been reported visiting divers at this site.
-
-## Dive Profile
-
-The ideal profile begins by descending quickly to the pinnacle top before current resumes, then conducting a systematic circumnavigation of the structure. The 14–20 meter depth band offers the best combination of fish life and invertebrate density. Deeper sections at 20–25 meters reward patience with octopus and larger lingcod encounters. Ascent should begin with at least 80 bar remaining to allow a comfortable safety stop.
+No site-specific marine life reports have been found for Harvey Rock. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, anemones, sponges, and colonial tunicates as regional fauna, but no source confirms these species at this specific rock.
 
 ## Entry and Exit
 
-Ketchikan-area dive operators service this site regularly. Tidal window coordination is managed by the skipper. Descend directly — hesitation during slack can mean descending into current. Deploy SMB at the start of your safety stop, not at the surface.
-
-## Tips and Recommendations
-
-- Harvey Rock is best combined with Alert Rock or Chanal Reef for a full day of diving
-- Lingcod will often ignore a calm diver who maintains neutral buoyancy and slow movement
-- Look carefully under every overhang for octopus den entrances marked by shell debris
-- Water temperature at depth can drop below 7°C — thick dry suit undersuits are advisable
-- Review your tide tables the night before — morning slack dives often have the clearest water
+No established dive operator access is documented for this site. Any dive here would require a private or custom charter with local knowledge of the rock's exact position and current behavior.
 
 ## Safety Considerations
 
-This is a current-dependent site where conditions can shift rapidly from calm to hazardous. Diving outside the slack window is not recommended. Cold water and the remote boat environment mean that self-rescue capability is important. Every diver should carry an SMB and audible signaling device as standard kit.
-
-## Photography
-
-Harvey Rock's anemone communities and resident fish offer diverse photographic subjects. Lingcod portrait shots are achievable with patience and slow movement. Wide-angle photography of the anemone-encrusted pinnacle profile works well when visibility exceeds 12 meters. Macro opportunities abound on the bryozoan and sponge-encrusted surfaces.
+Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*

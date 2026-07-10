@@ -58,4 +58,4 @@ Currents are generally mild, but volcanic activity nearby means the occasional w
 Beang Abang is a macro site. The black volcanic sand provides a clean, high-contrast background for colourful subjects. Ribbon eels in their burrows — with body extended and mouth open — are one of the site's more dramatic photography opportunities and reward patience. A 100 mm macro handles most subjects.
 
 ---
-*Sources: [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/), [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/), [Bluewater Dive Travel Alor](https://www.bluewaterdivetravel.com/Alor-Diving). Last updated 2026-05-17.*
+*Sources: [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/), [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/), [Bluewater Dive Travel Alor](https://www.bluewaterdivetravel.com/Alor-Diving). Last updated 2026-07-10.*

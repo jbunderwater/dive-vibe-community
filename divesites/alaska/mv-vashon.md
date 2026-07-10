@@ -62,4 +62,4 @@ Cold-water wreck in a remote setting. Penetration of this wooden-hulled wreck is
 The wooden hull structure and encrusting growth provide wide-angle wreck subjects. Natural light penetration is limited at depth in Southeast Alaska waters — an artificial light source is essential for bringing out colors and revealing detail in crevices.
 
 ---
-*Sources: [Alaska Shipwrecks — V](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-v/), [Evergreen Fleet — MV Vashon](https://evergreenfleet.com/vashon/), [NOAA IncidentNews — M/V Vashon](https://incidentnews.noaa.gov/incident/6365). Last updated 2026-05-17.*
+*Sources: [Alaska Shipwrecks — V](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-v/), [Evergreen Fleet — MV Vashon](https://evergreenfleet.com/vashon/), [NOAA IncidentNews — M/V Vashon](https://incidentnews.noaa.gov/incident/6365). Re-audited 2026-07-10: facts (dimensions, build date, grounding date/location, no loss of life) re-confirmed against current source content; no corrections needed. Last updated 2026-07-10.*

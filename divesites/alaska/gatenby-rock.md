@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Gatenby Rock
 
-A named submerged rock near the southern approaches to Ketchikan with rich cold-water invertebrate coverage.
+Gatenby Rock is an OSM/NOAA-charted submerged rock in the southern approaches to Ketchikan — no confirmed recreational dive reports were found for this specific site.
 
 ## Overview
 
-Gatenby Rock is a submerged rocky formation in the southern approaches to Ketchikan, positioned in the tidal flow of the Inside Passage where nutrient-laden currents sweep across its surfaces. The rock is heavily encrusted with aggregating anemones, colonial tunicates, and encrusting sponges, creating a colorful invertebrate garden across its flanks. Rockfish and lingcod occupy the structure, with giant Pacific octopus known to shelter in crevices on the lower faces. This site is part of the cluster of named rocks regularly visited by Ketchikan dive operators, and its moderate maximum depth of 24 meters makes it manageable for Advanced-certified cold-water divers.
+Gatenby Rock lies in the southern approaches to Ketchikan, Southeast Alaska, at approximately 54.12°N, 133.14°W. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Gatenby Rock specifically. A prior version of this description stated that giant Pacific octopus were "resident, most active at dawn and dusk" here; that claim could not be traced to any source and has been removed.
 
 ## Site Information
 
@@ -25,39 +25,22 @@ Gatenby Rock is a submerged rocky formation in the southern approaches to Ketchi
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 24 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Strong — slack tide required
-- **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Unknown at this specific site; the Inside Passage generally has significant tidal flow
+- **Water Temperature**: 6–12°C (43–54°F) — general Southeast Alaska regional range
+- **Best Time**: Unknown for this site; the regional dive season runs roughly June–September
 
 ## Marine Life
 
-Gatenby Rock is home to the characteristic invertebrate assemblage of Inside Passage rocks: plumose anemones in white colonies, aggregating anemones, encrusting red and purple sponges, and Pisaster sea stars. Lingcod patrol the structure and can often be observed resting on the substrate. Copper and quillback rockfish school over the rock in mid-water. Giant Pacific octopus are resident, most active at dawn and dusk but observable in their den entrances during day dives.
-
-## Dive Profile
-
-Descend to the rock top during slack tide and systematically explore each face. The top of the rock at 8–10 meters is worth an initial survey before descending the flanks. The 16–24 meter zone often has the best lingcod encounters and larger patches of undisturbed invertebrates. Begin ascent with adequate gas remaining for a safety stop.
+No site-specific marine life reports have been found for Gatenby Rock. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, giant Pacific octopus, anemones, and sponges as regional fauna, but no source confirms these species at this specific rock.
 
 ## Entry and Exit
 
-Ketchikan charter dive operators access this site regularly during good tidal windows. No permanent infrastructure is in place — shot lines or anchor descent is standard. Always use an SMB on ascent.
-
-## Tips and Recommendations
-
-- Ketchikan operators typically combine Gatenby Rock with one or two other nearby rocks in a full dive day
-- Autumn diving (September–October) often combines reasonable water temperatures with clearing visibility
-- A dedicated macro lens setup rewards time spent on the rock's encrusted surfaces
-- Giant Pacific octopus dens can often be identified by discarded crab shells outside the entrance
-- Keep noise to a minimum — quiet divers tend to have more intimate wildlife encounters on these rocks
+No established dive operator access is documented for this site. Any dive here would require a private or custom charter with local knowledge of the rock's exact position and current behavior.
 
 ## Safety Considerations
 
-Current remains the primary hazard. Missing the slack window can result in strong flows over the rock, making safe diving impossible. Water temperature in this range requires proper dry suit thermal protection. Maintain buddy contact at all times, as the structure can separate diving pairs on opposite sides.
-
-## Photography
-
-The rock's encrusted surfaces offer rich macro and wide-angle possibilities. Aggregating anemones in clusters photograph well with a wide-angle setup. Nudibranch hunting on the rock faces can reveal species otherwise difficult to find in warmer destinations. A torch or strobe is necessary to reveal the reds and oranges stripped out by the water column.
+Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*

@@ -13,57 +13,34 @@ addedBy: osm_import
 
 ## Hastings Reef
 
-Hastings Reef is a rocky reef formation in Southeast Alaska's inside passage, featuring dramatic underwater topography ideal for advanced divers seeking cold-water pinnacle and wall dives.
+Hastings Reef is an OSM/NOAA-charted submerged reef south of Ketchikan, in the Dixon Entrance approaches — no confirmed recreational dive reports were found for this specific site.
 
 ## Overview
 
-Hastings Reef offers a challenging cold-water dive on exposed rocky formations characteristic of the Ketchikan region. Located near Prince of Wales Island in Southeast Alaska, the site features surge and strong tidal currents that demand experienced boat diving techniques. Water temperatures range from 6-12°C (43-54°F) year-round, requiring a dry suit and regulator rated for cold water. Visibility typically ranges from 8-20 meters depending on tidal conditions and outflow from nearby glaciers.
+Hastings Reef lies in the Dixon Entrance approaches south of Ketchikan, Southeast Alaska, at approximately 54.06°N, 132.55°W. It is documented in OpenStreetMap as a `natural=reef` feature, consistent with a submerged rock or reef named on NOAA nautical charts. A search of Ketchikan-area dive shop websites (Wind & Water, Deep Six), ScubaBoard, and regional dive-site databases (akseatrails.org, DiveAlaska) during this QA pass found no dive operator listing, forum report, or diver log describing Hastings Reef specifically. Ketchikan's best-documented recreational site is Mountain Point, a shore dive north of town; Hastings Reef does not appear in any source alongside it. This entry should be treated as an unconfirmed, charted underwater feature rather than an established dive site until a site-specific source is found.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Dixon Entrance approaches, south of Ketchikan, Southeast Alaska
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-20 meters (26-66 feet)
-- **Current**: Strong, slack tide required
-- **Water Temperature**: 6-12°C (43-54°F)
-- **Best Time**: July-September (warmest months)
-
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Unknown at this specific site; Dixon Entrance generally has significant tidal flow
+- **Water Temperature**: 6–12°C (43–54°F) — general Southeast Alaska regional range
+- **Best Time**: Unknown for this site; the regional dive season runs roughly June–September
 
 ## Marine Life
 
-The rocky formations support cold-water invertebrate communities including sea urchins, starfish, anemones, nudibranchs, and sponges. Lingcod, rockfish, and cabezon patrol the rocks. Giant Pacific octopus inhabit rock crevices. Kelp fronds extend from shallower formations.
-
-
-## Dive Profile
-
-Descend to the rocky formation and stay close to structure for current management. Explore rock faces and crevices watching for fauna. Most dive time spent between 15-24 meters. Watch for large mobile fauna on exposed areas.
-
+No site-specific marine life reports have been found for Hastings Reef. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, giant Pacific octopus, anemones, sea stars, and nudibranchs as regional fauna, but no source confirms which, if any, of these are present at this specific reef.
 
 ## Entry and Exit
 
-Boat dive access from Ketchikan or nearby operators. Descend directly on a line or GPS coordinates. Maintain group cohesion.
-
-
-## Tips and Recommendations
-
-- Book with a local dive operator familiar with slack tide schedules
-- Wear dry suit with proper thermal insulation
-- Install cold-water regulator
-- Use a dive torch for fauna spotting
-- Deploy surface marker buoy (SMB) at ascent
-- Practice buoyancy control on rocky bottom
-
+No established dive operator access is documented for this site. Any dive here would require a private or custom charter from Ketchikan with local knowledge of the reef's exact position and current behavior.
 
 ## Safety Considerations
 
-This is an Advanced site requiring cold-water and current diving experience. Strong currents demand slack tide coordination. Limited visibility in glacier outflow requires navigation skills. Always dive with buddy, maintain group cohesion, and abort if conditions deteriorate.
-
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Treat this as an unconfirmed site: no operator, mooring, or current dive report exists to establish safe access windows. Standard Southeast Alaska precautions apply if attempted — dry suit, slack-tide timing verified independently, and a conservative, self-sufficient dive plan given the remote location.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*

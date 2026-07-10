@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Observatory Rock
 
-A prominent submerged rock in the approaches to Ketchikan offering characteristic Inside Passage cold-water diversity.
+Observatory Rock is an OSM/NOAA-charted submerged rock in the southern approaches to Ketchikan — no confirmed recreational dive reports were found for this specific site.
 
 ## Overview
 
-Observatory Rock sits in the tidal waterways of the southern approaches to Ketchikan, its name suggesting a history as a navigational reference point for vessels transiting the Inside Passage. The rock presents a steep profile to the tidal flow, allowing cold, nutrient-rich water to sweep across all faces and support a dense invertebrate community. Aggregating and plumose anemones cover the upper faces, while deeper sections carry encrusting sponges and bryozoans in a more sheltered habitat. Lingcod, which favor the structure's exposed faces, are the primary fish attraction. This is a site within the cluster of named rocks regularly visited by Ketchikan operators during slack windows.
+Observatory Rock lies in the southern approaches to Ketchikan, Southeast Alaska, at approximately 54.01°N, 132.58°W, near the charted features Haswell Reef and Wimble Rocks. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Observatory Rock specifically. No source confirmed a navigational or historical origin for the name.
 
 ## Site Information
 
@@ -25,39 +25,22 @@ Observatory Rock sits in the tidal waterways of the southern approaches to Ketch
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 26 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Strong — slack tide required
-- **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Unknown at this specific site; the Inside Passage generally has significant tidal flow
+- **Water Temperature**: 6–12°C (43–54°F) — general Southeast Alaska regional range
+- **Best Time**: Unknown for this site; the regional dive season runs roughly June–September
 
 ## Marine Life
 
-Observatory Rock hosts aggregating and plumose anemones across the upper faces, with sea stars, sea urchins, nudibranchs, and encrusting sponges throughout. Lingcod are the most frequently encountered large predators and can often be found resting in shallow depressions in the rock surface. Rockfish species, including black rockfish, are common above the structure. Giant Pacific octopus are resident in crevices on the deeper flanks.
-
-## Dive Profile
-
-The ideal profile descends to the base of the rock during slack tide and works upward through the invertebrate zones. Spending time at 20–26 meters early allows for lingcod and octopus encounters, with shallower zones reserved for the latter part of the dive. A natural safety stop at 5 meters on the rock top before surfacing is typical.
+No site-specific marine life reports have been found for Observatory Rock. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, giant Pacific octopus, anemones, sea stars, and nudibranchs as regional fauna, but no source confirms these species at this specific rock.
 
 ## Entry and Exit
 
-Ketchikan charter dive operators regularly visit Observatory Rock as part of multi-site packages. No permanent moorings. Shot line descent is standard practice. SMB deployment before ascent is mandatory in this navigational waterway.
-
-## Tips and Recommendations
-
-- This rock is part of a productive cluster that includes Haswell Reef, Wimble Rocks, and La Perouse Reef
-- Clear winter conditions (November–March) sometimes offer significantly better visibility than summer
-- Lingcod tend to be most active and approachable in the early morning hours
-- Carry a reference card for common Pacific Northwest nudibranch species
-- Confirm your dry suit's pressure gauge shows no leak before descending
+No established dive operator access is documented for this site. Any dive here would require a private or custom charter with local knowledge of the rock's exact position and current behavior.
 
 ## Safety Considerations
 
-Observatory Rock sits in an active navigational waterway and SMB deployment is particularly important here. Tidal current timing must be confirmed with local knowledge. The 26-meter maximum depth requires attention to no-decompression limits in cold water, where increased gas consumption reduces available bottom time.
-
-## Photography
-
-The combination of lingcod portraits against anemone backgrounds and macro work on nudibranchs makes Observatory Rock a versatile photography site. The rock face offers good opportunities for environmental compositions showing the density of encrusting invertebrates. Strobe lighting is essential for accurate color rendition at depth.
+Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*

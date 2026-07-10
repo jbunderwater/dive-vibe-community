@@ -46,4 +46,4 @@ Cold Bay has a regional airport and serves as the nearest accessible community. 
 Extremely remote location in some of Alaska's most challenging marine conditions. Emergency response is severely limited. Dry suit and full cold-water gear mandatory. Buddy diving required. This is an expedition-level site.
 
 ---
-*Description based on OSM data and regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM data and regional diving characteristics. No site-specific sources found. Re-checked 2026-07-10: Alaska Shipwrecks database and regional wreck/casualty sources re-searched (a distinct, unrelated vessel "Lily Jean" lost off Massachusetts in 2026 was ruled out as a false match); no new information found for this Alaska Peninsula site. Last updated 2026-07-10.*

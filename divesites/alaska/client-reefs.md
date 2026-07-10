@@ -13,51 +13,36 @@ addedBy: osm_import
 
 ## Client Reefs
 
-Offshore rocky reef system near Prince Rupert where cold Pacific currents fuel dramatic invertebrate life.
+Client Reefs is an OSM/NOAA-charted submerged reef cluster whose coordinates place it at Prince Rupert, British Columbia, Canada — not within Alaska — and no confirmed recreational dive reports were found for this specific site.
 
 ## Overview
 
-Client Reefs lie in the productive waters near the Alaska–British Columbia border, accessed from the Prince Rupert corridor. This cluster of submerged rocky formations intercepts the tidal streams flowing through Chatham Sound, delivering a constant supply of nutrients that support dense communities of filter feeders. The reefs are blanketed by plumose anemones, encrusting sponges, and colorful sea stars, with lingcod and rockfish holding position on the exposed pinnacles. These are remote sites with no onshore infrastructure nearby, requiring a well-prepared boat dive operation. The cold, clear water typical of this region provides excellent contrast for photography when plankton levels are low.
+**Geographic flag**: This entry's coordinates (54.106°N, 130.319°W) fall at Prince Rupert, British Columbia, Canada, not in Alaska. Prince Rupert lies south of the Alaska–BC border in the Dixon Entrance/Chatham Sound area. This site was scraped into the Alaska destination database via the Overpass extended-area search, which appears to have picked up a Canadian-waters feature. It is flagged here for destination-boundary review rather than corrected unilaterally, since removing or re-homing entries is outside the scope of this QA pass.
+
+Setting the geographic question aside, Client Reefs is documented in OpenStreetMap as a `natural=reef` feature. A search of Prince Rupert-area dive/commercial diving services (Adams Diving, Ven-Tech Subsea), ScubaBoard, and regional dive-site databases during this QA pass found no recreational operator listing, forum thread, or diver log naming Client Reefs specifically — the Prince Rupert-area diving businesses found are commercial/industrial dive contractors, not recreational dive shops.
 
 ## Site Information
 
-- **Location**: Chatham Sound area, Southeast Alaska near Prince Rupert
+- **Location**: At/near Prince Rupert, British Columbia, Canada (flagged — likely outside Alaska)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Moderate to strong — slack tide required
-- **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Unknown at this specific site; the Chatham Sound/Dixon Entrance area generally has significant tidal flow
+- **Water Temperature**: 6–12°C (43–54°F) — general regional range for this coastline
+- **Best Time**: Unknown for this site
 
 ## Marine Life
 
-Client Reefs host classic cold-water Pacific communities: plumose anemones in white and orange clusters, various sea star species, sunflower stars, nudibranchs, and horse mussels. Lingcod are common on exposed rock faces. Giant Pacific octopus are resident in deeper crevices. Schools of black rockfish may be encountered in mid-water above the reef structure.
-
-## Dive Profile
-
-Descend onto the reef top during the slack tide window and explore the perimeter systematically. The upper reef between 8–14 meters holds the densest invertebrate life. Deeper sections at 18–25 meters offer larger rock faces and better encounters with lingcod. Monitor your air consumption carefully — distances to shore are considerable and conditions can deteriorate quickly.
+No site-specific marine life reports have been found for Client Reefs. The broader BC/Southeast Alaska border region generally supports lingcod, rockfish, giant Pacific octopus, anemones, and sea stars as regional fauna, but no source confirms these species at this specific reef.
 
 ## Entry and Exit
 
-Access requires a capable charter boat from Prince Rupert or southern Southeast Alaska operators. There are no mooring buoys — anchoring or GPS drift diving is typical. Always carry redundant surface signaling devices given the remote location.
-
-## Tips and Recommendations
-
-- Use a dive computer with nitrox capability to extend bottom time
-- Dry suit certification is mandatory — these waters are consistently cold year-round
-- Check both tidal and weather windows before committing to an offshore run
-- A dive knife or shears is wise in case of kelp entanglement
-- Buddy teams should stay within visual range given current potential
+No established recreational dive operator access is documented for this site.
 
 ## Safety Considerations
 
-Remoteness is the primary consideration at Client Reefs. Boat breakdown or weather deterioration presents a genuine risk far from port. Ensure your vessel has adequate safety equipment, communications gear, and abort protocols. Strong currents demand strict slack-tide diving discipline. Always deploy an SMB on ascent.
-
-## Photography
-
-The dense anemone colonies and colorful encrusting invertebrates make Client Reefs excellent for wide-angle reef photography. Macro photographers will find nudibranchs and small crustaceans among the bryozoan mats. Strobes are essential to reveal the red and orange tones otherwise lost at depth.
+Treat this as an unconfirmed site of uncertain jurisdiction. If attempted, standard cold-water precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan given the remote, mixed-traffic waters near the international border.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM/NOAA chart data and general regional characteristics. No site-specific sources found. Geographic placement flagged for review. Last updated 2026-07-10.*

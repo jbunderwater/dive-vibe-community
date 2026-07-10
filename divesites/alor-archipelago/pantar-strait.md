@@ -58,4 +58,4 @@ The Pantar Strait is one of the most demanding diving environments in the archip
 Wide-angle is the appropriate choice in the Pantar Strait. Schools of fish and wall structures suit a 16–35 mm equivalent or fisheye. For cetacean encounters, pre-set exposure for ambient mid-water light and shoot in bursts.
 
 ---
-*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [The Occasional Traveller Alor Dive Logs](https://theoccasionaltraveller.com/scuba-diving-in-alor/), [Bluewater Dive Travel Alor](https://www.bluewaterdivetravel.com/Alor-Diving), [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/). Last updated 2026-05-17.*
+*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [The Occasional Traveller Alor Dive Logs](https://theoccasionaltraveller.com/scuba-diving-in-alor/), [Bluewater Dive Travel Alor](https://www.bluewaterdivetravel.com/Alor-Diving), [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/). Last updated 2026-07-10.*

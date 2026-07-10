@@ -17,9 +17,9 @@ Rhino City is a sandy muck slope west of Laha where rhinopias scorpionfish — a
 
 ## Overview
 
-Rhino City lies west of Laha along the same stretch of north Ambon Bay coastline, sharing the same general sand-and-rubble topography. The site takes its name from the rhinopias scorpionfish species that are reliably found here — starfish.ch, which provides the most detailed independent site-by-site documentation of Ambon, distinguishes between weedy rhinopias (Rhinopias frondosa) and Eschmeyer's rhinopias (R. eschmeyeri) as the two species present, and notes that lacy scorpionfish (Rhinopias aphanes) have also been reported. Multiple colour variants of each species are possible on a single dive.
+Rhino City lies west of Laha along the same stretch of north Ambon Bay coastline, and is explicitly described by dive-the-world.com as "an extension of the same sandy slope" running from Laha — the two sites share topography rather than being sharply separate locations. The site takes its name from the rhinopias scorpionfish species found here. On re-verification against starfish.ch's current text, only two species are confirmed present: weedy rhinopias (Rhinopias frondosa) and Eschmeyer's rhinopias (R. eschmeyeri). An earlier version of this entry also listed lacy scorpionfish (Rhinopias aphanes); starfish.ch explicitly states that species "is only found in Papua New Guinea and Australia," not Indonesia, so that claim has been removed as contradicted rather than repeated. Multiple colour variants of the two confirmed species are possible on a single dive.
 
-Beyond the rhinopias, the site features sandy slopes with stones, anemones, coral patches, soft corals, and sponges — a slightly richer substrate composition than the darkest muck sections at Laha. Starfish.ch notes a maximum depth of 28 meters at this site, though most productive diving is shallower. The site has been described as an extension of the same long sandy slope that runs from Laha westward.
+Beyond the rhinopias, the site features sandy slopes with stones, anemones, coral patches, soft corals, and sponges — a slightly richer substrate composition than the darkest muck sections at Laha. A prior version of this entry attributed a 28-meter maximum depth to Rhino City based on starfish.ch; on re-checking the live page, that 28m figure is actually associated with a related but distinct site referred to there as "Laha 3," not with Rhino City itself. It has been removed from this entry as a misattribution pending a source that names a depth for Rhino City specifically.
 
 ## Site Information
 
@@ -34,11 +34,11 @@ Beyond the rhinopias, the site features sandy slopes with stones, anemones, cora
 
 ## Marine Life
 
-Confirmed species at Rhino City include: rhinopias scorpionfish (Rhinopias frondosa and R. eschmeyeri; Rhinopias aphanes also reported), ghost pipefish (robust and ornate variants), ribbon eels, anemone shrimps, emperor shrimps, jawfish, short-snout pipefish, nudibranchs, moray eels, dragonets, hairy crabs, and orangutan crabs. Commensal shrimps and arrow crabs are noted among the anemones. The sandy slopes at the shallower sections are particularly rich in nudibranchs.
+Confirmed species at Rhino City include: rhinopias scorpionfish (Rhinopias frondosa and R. eschmeyeri only — R. aphanes does not occur in Indonesia per starfish.ch and has been removed from this entry), ghost pipefish (robust and ornate variants), ribbon eels, anemone shrimps, emperor shrimps, jawfish, short-snout pipefish, nudibranchs, moray eels, dragonets, hairy crabs, and orangutan crabs. Commensal shrimps and arrow crabs are noted among the anemones. The sandy slopes at the shallower sections are particularly rich in nudibranchs.
 
 ## Dive Profile
 
-Shore entry from the coastal access path west of the main Laha operator area. The slope descends gradually from 5 to 28 meters; rhinopias are found at varying depths and locations, so working the entire slope methodically with a guide is the most productive approach. Most divers stay in the 10–20 meter range. Plan conservatively to allow time in the shallows for the diverse nudibranch and anemone-fauna community.
+Shore entry from the coastal access path west of the main Laha operator area. The slope descends gradually across sand and rubble; rhinopias are found at varying depths and locations, so working the entire slope methodically with a guide is the most productive approach. Most divers stay in the 10–20 meter range. Plan conservatively to allow time in the shallows for the diverse nudibranch and anemone-fauna community.
 
 ## Entry and Exit
 
@@ -60,4 +60,4 @@ Conditions are generally calm; long-shore currents can reduce visibility but are
 Rhinopias are among the most dramatic and rewarding macro subjects in the Indo-Pacific. The pale or vibrant colouration contrasts well against the dark sand; position strobes carefully to avoid harsh shadows on the complex body texture. Side-on portraits at 60–100mm work well. The anemone shrimp community in the shallows rewards a diopter and patience.
 
 ---
-*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Dive the World — Ambon Diving](https://www.dive-the-world.com/diving-sites-indonesia-ambon.php), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). Last updated 2026-05-17.*
+*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Dive the World — Ambon Diving](https://www.dive-the-world.com/diving-sites-indonesia-ambon.php), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html). Last updated 2026-07-10.*

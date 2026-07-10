@@ -4,7 +4,7 @@ addedBy: osm_import
 
 ## Aruba
 
-The SS Antilla — one of the largest diveable shipwrecks in the Caribbean at 127 meters — anchors a wreck-rich destination with calm, warm waters and year-round diving outside the hurricane belt.
+The SS Antilla — one of the largest diveable shipwrecks in the Caribbean at 121 meters (398 feet) — anchors a wreck-rich destination with calm, warm waters and year-round diving outside the hurricane belt.
 
 ## Description
 
@@ -12,7 +12,7 @@ Aruba, the westernmost of the ABC islands, sits just 29 km north of Venezuela an
 
 ### Diving Opportunities
 
-- **Wreck Diving**: Wreck sites, making Aruba one of the most wreck-dense destinations in the Caribbean relative to its size. The SS Antilla (a 127-meter German cargo ship scuttled by her own captain on May 10, 1940) is the centerpiece, sitting upright at 18-20 meters with sections accessible for penetration by qualified divers. Other wrecks include the Pedernales (a WWII tanker torpedoed by a U-boat), the Jane Sea (deeper at ~27m), the California (a pre-WWII passenger steamship at 10-15m), and the Sonesta Plane Wreck.
+- **Wreck Diving**: Wreck sites, making Aruba one of the most wreck-dense destinations in the Caribbean relative to its size. The SS Antilla (a 121-meter/398-foot German cargo ship scuttled by her own crew on May 10, 1940) is the centerpiece; she lies on her port side from roughly 5 to 18 meters, broken in two amidships by a 1953 storm, with sections accessible for penetration by qualified divers. Other wrecks include the Pedernales (a WWII tanker torpedoed by U-156 on February 16, 1942), the Jane Sea (deeper at ~27m), the California (an 1891 wooden steamship at 10-14m, rarely dived due to exposed conditions), and the Sonesta Plane Wreck (a Convair 240 and a NAMC YS-11 turboprop).
 - **Boat Diving**: Boat-accessible sites along the sheltered west coast. Two-tank boat dives typically cost $90-120 USD.
 - **Shore Diving**: Shore-accessible sites, including reef dives along the south coast.
 - **Reef Diving**: Reef sites with healthy Caribbean hard and soft corals, sponge gardens, and abundant reef fish along the leeward coast.
@@ -41,4 +41,4 @@ Aruba, the westernmost of the ABC islands, sits just 29 km north of Venezuela an
 - **Safety**: Recompression chamber available on-island. DAN insurance recommended. The SS Antilla's shallowest sections are at ~12 meters (suitable for Open Water divers), but penetration dives require Advanced certification and experienced guidance. The Jane Sea wreck has strong currents and is recommended for advanced divers only.
 
 ---
-*Sources: [Yellow Cunucu - Aruba Dive Guide](https://www.yellowcunucu.com/blog/scuba-diving-in-aruba-the-complete-guide-to-dive-sites-marine-life-and-planning-your-trip), [PADI - Antilla Wreck](https://www.padi.com/dive-site/aruba/antilla-wreck/), [Island Hopper Guides - Antilla](https://islandhopperguides.com/aruba/aruba-activities/arubas-underwater-oasis-scuba-diving-secrets-of-the-antilla-shipwreck/), [VisitAruba.com - Antilla Wreck](https://www.visitaruba.com/experience-aruba/attractions-and-activities/antilla-wreck/), [Aruba Sunset Beach - Top 5 Wrecks](https://www.arubasunsetbeach.com/blog/Our-Top-5-Wrecks-in-Aruba/). Last updated 2026-04-05.*
+*Sources: [Yellow Cunucu - Aruba Dive Guide](http://www.yellowcunucu.com/blog/scuba-diving-in-aruba), [PADI - Antilla Wreck](https://www.padi.com/dive-site/aruba/antilla-wreck/), [Island Hopper Guides - Antilla](https://islandhopperguides.com/aruba/aruba-activities/arubas-underwater-oasis-scuba-diving-secrets-of-the-antilla-shipwreck/), [VisitAruba.com - Antilla Wreck](https://www.visitaruba.com/experience-aruba/attractions-and-activities/antilla-wreck/), [Aruba Sunset Beach - Top 5 Wrecks](https://www.arubasunsetbeach.com/blog/Our-Top-5-Wrecks-in-Aruba/), [Wikipedia - SS Antilla (1939)](https://en.wikipedia.org/wiki/SS_Antilla_(1939)). Last updated 2026-07-10 (re-audited: corrected SS Antilla length from an erroneous 127m to the source-confirmed 121m/398ft; fixed dead Yellow Cunucu URL).*

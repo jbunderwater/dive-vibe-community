@@ -52,4 +52,4 @@ Ask the operator which named section is planned — The Ledge, Jewel Box, and Th
 The site is within the marine reserve zone — no collecting or touching the reef. Fire coral is present on some shallow sections. Boat traffic near St. John's Harbour approaches can be active; surface visibly with a DSMB.
 
 ---
-*Sources: [California Diver Magazine - Scuba Diving Antigua](https://californiadiver.com/scuba-diving-antigua-lord-horatio-nelsons-island-1209/), [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm). Last updated 2026-05-17.*
+*Sources: [California Diver Magazine - Scuba Diving Antigua](https://californiadiver.com/scuba-diving-antigua-lord-horatio-nelsons-island-1209/), [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm). Note: the Official Tourism source corroborates destination-level context (protected-area status, general reef fish community) rather than Sandy Island by name. Last updated 2026-07-10.*

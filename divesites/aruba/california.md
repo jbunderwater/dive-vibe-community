@@ -23,6 +23,8 @@ The California was wooden-hulled, and little of the original structure survives 
 
 Note on "iron-ribbed hull" claim: The California was wooden-hulled, not iron-ribbed. This erroneous characterization has been removed.
 
+Note on identity: The California Lighthouse naming history, ScubaBoard, and In-Aruba.com all identify this wreck as the 1891 SS California. Divers Guide, an operator listing, instead describes it more cautiously as an "unidentified" century-old wreck. Given two independent historical sources (the lighthouse-naming record and multiple diving guides) corroborate the SS California identification, that name is used here, but readers should be aware at least one operator source does not confirm the identity. Re-audit also checked Divers Guide's claim of "green moray, eagle rays, bull sharks, and hammerhead sharks" at this site — no other source corroborates bull sharks or hammerheads at Aruba generally, so this unconfirmed, regionally-implausible claim was not added to the Marine Life section below.
+
 ## Site Information
 
 - **Location**: Northwestern Aruba, Hudishibana / California headland area (windward coast)
@@ -60,4 +62,4 @@ No regularly scheduled dive trips operate to this site. Ask dive operators in Ar
 Strong currents and rough seas are the primary hazard. Only experienced divers with current management skills should attempt this site. Always evaluate conditions on the day — abort if sea state has changed from the forecast. Carry a surface marker buoy and alert your boat crew to current direction before descending.
 
 ---
-*Sources: [ScubaBoard - California Wreck Aruba](https://scubaboard.com/community/threads/california-wreck-aruba.219219/), [Divers Guide - California Wreck](https://www.divers-guide.com/en/california-wreck), [In-Aruba.com - California Wreck](https://www.in-aruba.com/activities/watersports/scubadivingonaruba/californiawreck). Last updated 2026-05-24.*
+*Sources: [ScubaBoard - California Wreck Aruba](https://scubaboard.com/community/threads/california-wreck-aruba.219219/), [Divers Guide - California Wreck](https://www.divers-guide.com/en/california-wreck), [In-Aruba.com - California Wreck](https://www.in-aruba.com/activities/watersports/scubadivingonaruba/californiawreck). Last updated 2026-07-10 (re-audited).*

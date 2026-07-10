@@ -21,7 +21,7 @@ Laha sits on the north coast of Ambon Bay, inside the bay approximately 3 km fro
 
 Laha 1 is associated with harlequin shrimps among stones and rubble, and is particularly known for its mandarin fish (Synchiropus splendidus), which emerge at evening dives. Laha 2 features a stone and sponge-covered slope with frogfish, nudibranchs, flamboyant cuttlefish, and ghost pipefish. Laha 3 is the site most associated with rhinopias scorpionfish — multiple colour variants (blue, yellow, brown) are found here, with the fish occasionally descending to 30 meters but relocating seasonally to shallower water. Territorial disputes and interactions between individuals have been documented at Laha 3.
 
-Laha 1 is also the site where the psychedelic frogfish (Histiophryne psychedelica) was first photographed in January 2008 by Maluku Divers (now Spice Island Divers) guides, and where the species' holotype was collected in April 2008.
+Laha 1 is also the site where the psychedelic frogfish (Histiophryne psychedelica) was first photographed in January 2008 by Maluku Divers (now Spice Island Divers) guides, and where the species' holotype was collected in April 2008. On re-verification, this remains an extremely rare species: the most recent specific sighting report located is a February 2019 ScubaBoard discussion of a single small individual, and posters there note no further confirmed updates since. Treat any sighting as a rare bonus rather than an expectation.
 
 ## Site Information
 
@@ -63,4 +63,4 @@ Inner bay conditions are generally calm with minimal current. The main hazard is
 Laha is consistently rated among the top five macro photography destinations in the world. The dark volcanic substrate provides clean backgrounds for critter portraits. Strobes are essential. Most subjects are found in the 10–100mm range; bring both macro and mid-range options. Rhinopias at Laha 3 can be framed with wider compositions. Mandarin fish at dusk require patience and low-light macro technique.
 
 ---
-*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/), [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish). Last updated 2026-05-17.*
+*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards — Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/), [DivePlanit — Diving into Ambon (Nigel Marsh)](https://www.diveplanit.com/dive-destination/diving-into-ambon/), [Wikipedia — Psychedelic frogfish](https://en.wikipedia.org/wiki/Psychedelic_frogfish), [ScubaBoard — Psychedelic frogfish still in Ambon?](https://scubaboard.com/community/threads/psychedelic-frogfish-still-in-ambon.649445/). Last updated 2026-07-10.*

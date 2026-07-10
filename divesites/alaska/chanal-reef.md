@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Chanal Reef
 
-A cold-water reef system near the Dixon Entrance with exceptional invertebrate life and strong tidal influence.
+Chanal Reef is an OSM/NOAA-charted submerged reef in the Dixon Entrance area — no confirmed recreational dive reports were found for this specific site.
 
 ## Overview
 
-Chanal Reef sits in the Dixon Entrance area at the southernmost edge of Alaska's Inside Passage, where Pacific swells and tidal currents converge to create a productive upwelling environment. The reef surfaces are blanketed by aggregating anemones, encrusting sponges, and colonial tunicates that thrive in the nutrient-saturated water. Rockfish species, including yelloweye and quillback, are commonly encountered along the structure. Like all reefs in this zone, the site is current-dependent and demands careful timing around slack water. The visibility here is typically good by Alaska standards when sediment is not stirred by surge.
+Chanal Reef lies in the Dixon Entrance area at the southern edge of Southeast Alaska's Inside Passage, at approximately 54.19°N, 133.03°W, near the charted features Alert Rock, Marchand Reef, and Testlatlints Rock. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops, ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Chanal Reef specifically. A prior version of this description stated that harbor seals "sometimes investigate divers near the surface" here; that claim could not be traced to any source and has been removed.
 
 ## Site Information
 
@@ -25,39 +25,22 @@ Chanal Reef sits in the Dixon Entrance area at the southernmost edge of Alaska's
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 24 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Strong — slack tide required
-- **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Unknown at this specific site; Dixon Entrance is exposed to open-Pacific swell and tidal flow
+- **Water Temperature**: 6–12°C (43–54°F) — general Southeast Alaska regional range
+- **Best Time**: Unknown for this site; the regional dive season runs roughly June–September
 
 ## Marine Life
 
-Cold Pacific currents feed rich invertebrate communities across Chanal Reef. Expect to find multiple nudibranch species, large aggregating anemones, sea urchins, leather stars, and sunflower sea stars. Lingcod and rockfish are common residents along the reef crest. Giant Pacific octopus are occasionally encountered in crevices along the reef base. Harbor seals sometimes investigate divers near the surface.
-
-## Dive Profile
-
-Dive the reef perimeter during slack tide, keeping the structure to one side for navigation. The reef crest at 10–12 meters holds much of the invertebrate density. Deeper sections from 18–24 meters offer broader reef faces and better chance of encountering larger fish. Allow sufficient bottom time to ascend gradually with adequate air reserve.
+No site-specific marine life reports have been found for Chanal Reef. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, anemones, sea stars, sea urchins, and nudibranchs as regional fauna, but no source confirms these species at this specific reef.
 
 ## Entry and Exit
 
-Access is by boat from Ketchikan-area dive operators. GPS coordinates and local knowledge are essential for locating the reef. Descend on a shot or anchor line. Deploy SMB before ascending in case of vessel traffic.
-
-## Tips and Recommendations
-
-- Confirm slack tide windows with your skipper before departure
-- Dry suit is essential for multi-dive days in these temperatures
-- A wide-angle lens on your camera captures the density of anemone colonies
-- Check nudibranch guides specific to the Pacific Northwest for ID help
-- Carry a signaling device (SMB and whistle) at all times
+No established dive operator access is documented for this site. Any dive here would require a private or custom charter with local knowledge of the reef's exact position and current behavior.
 
 ## Safety Considerations
 
-This Advanced site requires experience with cold-water diving, dry suit use, and current management. Surface conditions can change rapidly in the Dixon Entrance area due to oceanic swells from the open Pacific. Always brief on abort procedures before descending. Check weather forecasts in addition to tide tables.
-
-## Photography
-
-Chanal Reef offers outstanding macro opportunities with its concentration of nudibranchs, colonial tunicates, and anemones. Wide-angle framing of the reef profile during good visibility can capture the layered, colorful invertebrate communities. Use strobe lighting to compensate for color absorption at depth.
+Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and awareness that the Dixon Entrance is exposed to open-Pacific swell that can change surface conditions quickly.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*

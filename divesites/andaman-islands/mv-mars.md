@@ -58,4 +58,4 @@ Dive within your certification limits. Visibility can be limited at this wreck. 
 The small, intact wreck makes a good wide-angle subject, and the resident crocodilefish and seahorses offer macro opportunities on the hull.
 
 ---
-*Sources: [ScubaLov - MV Mars](https://www.scubalov.in/havelock-island/havelock-dive-sites/mv-mars/), [Andaman Tourism - Wreck Diving](https://www.andamantourism.org/wreck-diving-in-andaman/), [Travelsetu - Wreck Dives of Andaman](https://travelsetu.com/apps/blog/the-wreck-dives-of-andaman-exploring-underwater-mysteries/). Last updated 2026-06-08.*
+*Sources: [ScubaLov - MV Mars](https://www.scubalov.in/havelock-island/havelock-dive-sites/mv-mars/), [Andaman Tourism - Wreck Diving](https://www.andamantourism.org/wreck-diving-in-andaman/), [Travelsetu - Wreck Dives of Andaman](https://travelsetu.com/apps/blog/the-wreck-dives-of-andaman-exploring-underwater-mysteries/). Note: Travelsetu's stated depth has changed between audits (previously ~30m, now ~20m) and is treated as the least reliable of the three sources; scubalov.in's 15m figure is used as primary. Last updated 2026-07-10.*

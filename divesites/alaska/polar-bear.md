@@ -52,4 +52,4 @@ Access from Cordova or Whittier by charter boat. No established dive infrastruct
 Cold-water wreck in a remote Prince William Sound location. Dry suit mandatory. Do not penetrate a wreck of unknown structural condition without specific wreck training and current site knowledge. Buddy diving required.
 
 ---
-*Description based on OSM data and regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM data and regional diving characteristics. No site-specific sources found. Re-checked 2026-07-10: Alaska Shipwrecks database and Prince William Sound wreck sources re-searched; no new information found. Last updated 2026-07-10.*

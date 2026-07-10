@@ -14,8 +14,8 @@
       "validation_source": "divecarib.com,padi.com,xtremespots.com",
       "coordinates_source": "zentacle.com, wannadive.net (exact match)",
       "coordinates_confidence": "high",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-17. site_type corrected wall->reef: DiveCarib, PADI, and xtremespots all describe coral-covered boulders and rock formations, not a vertical wall. Max depth corrected 9m->15m per DiveCarib (13-50ft = 4-15m). Difficulty corrected Intermediate->Beginner per DiveCarib ('all certified divers and snorkelers'). 17th-century anchor confirmed by DiveCarib. Located at entrance to English Harbour within Nelson's Dockyard National Park. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-10",
+      "qa_notes": "Re-audited 2026-05-17. site_type corrected wall->reef: DiveCarib, PADI, and xtremespots all describe coral-covered boulders and rock formations, not a vertical wall. Max depth corrected 9m->15m per DiveCarib (13-50ft = 4-15m). Difficulty corrected Intermediate->Beginner per DiveCarib ('all certified divers and snorkelers'). 17th-century anchor confirmed by DiveCarib. Located at entrance to English Harbour within Nelson's Dockyard National Park. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed. Re-audited 2026-07-10: all 3 sources re-fetched and still live. NEW CONFLICT found: PADI's current dive-site page states the anchor is '18th-century', while DiveCarib describes it as '17th-century' - genuine source disagreement, now flagged in markdown rather than picking one. Depth also has a 3-way spread: xtremespots reports avg 3m/max 8m, DiveCarib reports 4-15m, PADI reports max 15m; keeping 15m (2 of 3 sources) and noting the xtremespots outlier in markdown. No marine-life changes required - existing hedged species list still holds up against fresh DiveCarib/PADI/xtremespots fetches."
     }
   },
   {
@@ -33,8 +33,8 @@
       "validation_source": "divecarib.com,californiadiver.com,zentacle.com",
       "coordinates_source": "zentacle.com, wannadive.net (exact match)",
       "coordinates_confidence": "high",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-17. Confirmed as 2-mile (approx 3km) barrier reef on SW coast. Cades Bay Marine Reserve (not 'marine park'). Named dive spots include Bush Gardens, Bluff Cut, Snapper Ledge, Monk's Head. Confirmed marine life at this specific site: barracuda, nurse sharks, hawksbill turtles, moray eels, eagle rays, angelfish, spotted drum. Depth range 20-100ft at various spots; outer edge around 15m. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-10",
+      "qa_notes": "Re-audited 2026-05-17. Confirmed as 2-mile (approx 3km) barrier reef on SW coast. Cades Bay Marine Reserve (not 'marine park'). Named dive spots include Bush Gardens, Bluff Cut, Snapper Ledge, Monk's Head. Confirmed marine life at this specific site: barracuda, nurse sharks, hawksbill turtles, moray eels, eagle rays, angelfish, spotted drum. Depth range 20-100ft at various spots; outer edge around 15m. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed. Re-audited 2026-07-10: all 3 sources re-fetched. NEW CONFLICT found: zentacle.com's current listing shows a single crowd-sourced max depth of 16.4ft/5m, much shallower than the 15m outer-edge figure from DiveCarib/California Diver. This is almost certainly one diver's shallow-section log entry rather than the reef's true maximum, given the reef spans 2 miles with documented depths to 21m+ elsewhere - keeping 15m but noting the discrepancy in markdown. No hallucinations found; marine life list re-confirmed against fresh DiveCarib and California Diver fetches."
     }
   },
   {
@@ -49,11 +49,11 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "antiguamarineguide.com,ancient-origins.net,yachtwarriors.com",
+      "validation_source": "antiguamarineguide.com,ancient-origins.net,yachtwarriors.com,wadadlipen.wordpress.com,antigua-barbuda.org",
       "coordinates_source": "blog.mailasail.com GPS waypoint 17:07:56N 61:53:352W, getamap.net Deep Bay 17.1333/-61.9",
       "coordinates_confidence": "medium-high",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-17. DUPLICATE of Deep Bay Wreck (Andes) - same vessel, same coordinates. Ship facts confirmed across multiple sources: steel barque built in England 1874, three-masted, sailed from Trinidad June 5 1905 carrying 1,330 barrels of pitch bound for Chile; caught fire from poorly stowed cargo causing friction; sank June 9 1905. Depth approximately 25-30ft (7.5-9m). Protected by Marine Areas Act of 1972. Alamy photo caption states 'sunk in 1904' but all other sources agree on 1905 - using 1905. History corrected: previous markdown stated 'late 1800s' which is wrong. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-10",
+      "qa_notes": "Re-audited 2026-05-17. DUPLICATE of Deep Bay Wreck (Andes) - same vessel, same coordinates. Ship facts confirmed across multiple sources: steel barque built in England 1874, three-masted, sailed from Trinidad June 5 1905 carrying 1,330 barrels of pitch bound for Chile; caught fire from poorly stowed cargo causing friction; sank June 9 1905. Depth approximately 25-30ft (7.5-9m). Protected by Marine Areas Act of 1972. Alamy photo caption states 'sunk in 1904' but all other sources agree on 1905 - using 1905. History corrected: previous markdown stated 'late 1800s' which is wrong. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed. Re-audited 2026-07-10 (deep wreck-history pass): WRECK-HISTORY CROSS-CHECK - build year 1874, 3-masted steel barque, June 5 1905 Trinidad departure, 1,330 barrels of pitch, fire from friction in poorly-stowed cargo, June 9 1905 sinking in Deep Bay, are each independently corroborated across 5 non-Wikipedia sources (antiguamarineguide.com, ancient-origins.net, yachtwarriors.com, antigua-barbuda.org, and the Historical & Archaeological Society of Antigua & Barbuda newsletter via wadadlipen.wordpress.com). No dedicated Wikipedia article exists for this specific vessel (searched; only unrelated ships named Andes/RMS Andes/ARA Los Andes were found) - documenting this gap rather than fabricating a Wikipedia citation. NEW FACT ADDED: captain's name Rees Griffiths, corroborated by two sources (evendo.com and the HAS newsletter), added to markdown. HAS newsletter also states the ship was 866 tons and that smoke was seen from the hollow steel masts before 2 feet of molten pitch was found in the hold - this tonnage figure appears in only that single source, so per the 2+-source rule for wreck specifics it is NOT added to the description, only logged here as unconfirmed. Build/sink-year conflict (1874 build is consistent; Alamy's caption saying 'sunk 1904' vs the 5-source consensus of 1905) is now stated explicitly in the markdown text rather than silently resolved."
     }
   },
   {
@@ -71,8 +71,8 @@
       "validation_source": "divecarib.com,antigua-barbuda.org,lemongrassantigua.com",
       "coordinates_source": "Derived from Mamora Bay (17.0167/-61.7333) and Indian Creek position, furthest windward site past Carpenters Rock",
       "coordinates_confidence": "medium",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-17. Confirmed as Antigua's only known wall dive (DiveCarib). Depth 6-80ft+ (2-25m+), some sources say 100ft (30m). Caribbean reef sharks confirmed by DiveCarib. Ocean triggerfish confirmed. Dolphins occasionally reported. DiveCarib describes as drift dive often; advanced divers. Wall classification confirmed. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-10",
+      "qa_notes": "Re-audited 2026-05-17. Confirmed as Antigua's only known wall dive (DiveCarib). Depth 6-80ft+ (2-25m+), some sources say 100ft (30m). Caribbean reef sharks confirmed by DiveCarib. Ocean triggerfish confirmed. Dolphins occasionally reported. DiveCarib describes as drift dive often; advanced divers. Wall classification confirmed. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed. Re-audited 2026-07-10: all 3 sources re-fetched and still live. Lemongrass Antigua's current 2026 dive-sites post independently confirms depth to 100ft (30m), the wall/vertical topography, and specifically names 'schooling jacks and barracuda' as pelagic sightings at this site - added to markdown as newly confirmed. No other changes; no hallucinations found."
     }
   },
   {
@@ -87,11 +87,11 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "antiguamarineguide.com,ancient-origins.net,yachtwarriors.com",
+      "validation_source": "antiguamarineguide.com,ancient-origins.net,yachtwarriors.com,wadadlipen.wordpress.com,antigua-barbuda.org",
       "coordinates_source": "blog.mailasail.com GPS waypoint 17:07:56N 61:53:352W, getamap.net Deep Bay 17.1333/-61.9",
       "coordinates_confidence": "medium-high",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-17. CONFIRMED DUPLICATE of Andes Wreck entry - same vessel, same coordinates. This entry retained as it has the more descriptive name and is shore-accessible from Deep Bay beach. Ship facts confirmed: steel barque built 1874 in England, three-masted, sailed from Trinidad June 5 1905 with 1,330 barrels of pitch for Chile, caught fire and sank June 9 1905. Protected by Marine Areas Act of 1972. Depth ~25-30ft (approx 7.5-9m). History corrected: previous markdown said 'late 19th century' which is wrong - sank 1905 = early 20th century. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-10",
+      "qa_notes": "Re-audited 2026-05-17. CONFIRMED DUPLICATE of Andes Wreck entry - same vessel, same coordinates. This entry retained as it has the more descriptive name and is shore-accessible from Deep Bay beach. Ship facts confirmed: steel barque built 1874 in England, three-masted, sailed from Trinidad June 5 1905 with 1,330 barrels of pitch for Chile, caught fire and sank June 9 1905. Protected by Marine Areas Act of 1972. Depth ~25-30ft (approx 7.5-9m). History corrected: previous markdown said 'late 19th century' which is wrong - sank 1905 = early 20th century. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed. Re-audited 2026-07-10 (deep wreck-history pass): same cross-check as Andes Wreck entry - build year 1874, 3-masted steel barque, 1,330 barrels of pitch, June 5 1905 departure/June 9 1905 sinking each corroborated across 5 sources (antiguamarineguide.com, ancient-origins.net, yachtwarriors.com, antigua-barbuda.org, HAS newsletter via wadadlipen.wordpress.com). No Wikipedia article exists for this vessel - documented rather than invented. Captain Rees Griffiths added (2-source corroboration: evendo.com + HAS newsletter). 866-ton figure from the HAS newsletter is single-sourced and therefore withheld from the description pending a second source. Alamy-vs-consensus sinking-year conflict (1904 vs 1905) now stated explicitly in the markdown."
     }
   },
   {
@@ -109,8 +109,8 @@
       "validation_source": "californiadiver.com,divecarib.com,antigua-barbuda.org",
       "coordinates_source": "ag.geoview.info Sandy Island coordinates, cross-referenced with N17 08.075 W61 55.578",
       "coordinates_confidence": "medium",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-17. California Diver article confirms Sandy Island at St John's Harbour entrance with named spots: The Ledge, Jewel Box, The Barge (sunken structure with parrotfish, snapper, spadefish, barracuda). Garden eels in sandy patches confirmed. Nurse sharks at The Ridge section confirmed. Stingrays in sandy areas confirmed. Note: Sandy Island in Jolly Harbour (17.1343/-61.9263) is different from Sandy Island at St John's entrance - coordinates should be verified against these named spots. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-10",
+      "qa_notes": "Re-audited 2026-05-17. California Diver article confirms Sandy Island at St John's Harbour entrance with named spots: The Ledge, Jewel Box, The Barge (sunken structure with parrotfish, snapper, spadefish, barracuda). Garden eels in sandy patches confirmed. Nurse sharks at The Ridge section confirmed. Stingrays in sandy areas confirmed. Note: Sandy Island in Jolly Harbour (17.1343/-61.9263) is different from Sandy Island at St John's entrance - coordinates should be verified against these named spots. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed. Re-audited 2026-07-10: californiadiver.com and divecarib.com re-fetched and reconfirm all named spots and species unchanged. Note: antigua-barbuda.org's official dive page does not name Sandy Island specifically in its current content - it corroborates only destination-level context (protected-area status, general reef fish community), not site-specific facts. Flagging this so the domain isn't overweighted as a site-specific confirmation. No hallucinations found."
     }
   },
   {
@@ -128,8 +128,8 @@
       "validation_source": "californiadiver.com,divecarib.com,antigua-barbuda.org",
       "coordinates_source": "Calculated from ~7 miles west of Antigua west coast (~61.9), no GPS source found",
       "coordinates_confidence": "low",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-17. Distance conflict: California Diver says 7 miles from St John's by boat (50 min journey); another source says 12 miles west. Coordinates at -61.99 reflect ~7 miles west estimate. Named spots confirmed: Ming's Bank, The Cave, Grunts, Zurich Train Station. Confirmed marine life: nurse sharks, blacktip reef sharks, turtles, large schools of grunts and snappers. Depth 'rarely deeper than 50ft' (15m) confirmed. Nurse shark claim was already in previous description; blacktip reef sharks (not Caribbean reef sharks) confirmed by ScubaBoard and californiadiver.com. Previous markdown claimed 'spotted eagle rays' without source - not confirmed at this specific site. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-10",
+      "qa_notes": "Re-audited 2026-05-17. Distance conflict: California Diver says 7 miles from St John's by boat (50 min journey); another source says 12 miles west. Coordinates at -61.99 reflect ~7 miles west estimate. Named spots confirmed: Ming's Bank, The Cave, Grunts, Zurich Train Station. Confirmed marine life: nurse sharks, blacktip reef sharks, turtles, large schools of grunts and snappers. Depth 'rarely deeper than 50ft' (15m) confirmed. Nurse shark claim was already in previous description; blacktip reef sharks (not Caribbean reef sharks) confirmed by ScubaBoard and californiadiver.com. Previous markdown claimed 'spotted eagle rays' without source - not confirmed at this specific site. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed. Re-audited 2026-07-10: californiadiver.com re-fetched, all named spots (Ming's Bank, The Cave, Grunts, Zurich Train Station) and marine life reconfirmed unchanged. Same caveat as Sandy Island Reef: antigua-barbuda.org's current dive page provides destination-level context only, does not name Ariadne Shoal specifically. No hallucinations found; distance conflict (7 vs 12 miles) remains unresolved in sources and stays flagged in markdown."
     }
   },
   {
@@ -147,8 +147,8 @@
       "validation_source": "yachtwarriors.com,tripadvisor.com,internationalparks.org",
       "coordinates_source": "latitude.to (17.15/-61.7167), confirmed by multiple geographic databases",
       "coordinates_confidence": "high",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-17. Part of North East Marine Management Area (not 'North Sound Marine Park' as previously stated). Confirmed marine life from sources: hawksbill sea turtles, southern stingrays, spotted eagle rays, diverse reef fish. Antiguan racer snake (Alsophis antiguae) facts confirmed - critically endangered, found only on offshore cays after mongoose/rat eradication program. Previous claims about French/queen angelfish abundance not specifically confirmed for this site. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-10",
+      "qa_notes": "Re-audited 2026-05-17. Part of North East Marine Management Area (not 'North Sound Marine Park' as previously stated). Confirmed marine life from sources: hawksbill sea turtles, southern stingrays, spotted eagle rays, diverse reef fish. Antiguan racer snake (Alsophis antiguae) facts confirmed - critically endangered, found only on offshore cays after mongoose/rat eradication program. Previous claims about French/queen angelfish abundance not specifically confirmed for this site. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed. Re-audited 2026-07-10: yachtwarriors.com re-fetched, reconfirms turtles, rays, and reef fish (though the current page text does not itself repeat the racer-snake detail - that fact remains cross-referenced via internationalparks.org and prior research). Minor distance rounding noted (2.5km vs the 3km used in markdown) - not material, left as-is. No hallucinations found; no marine life additions or removals needed."
     }
   },
   {
@@ -166,8 +166,8 @@
       "validation_source": "antigua-barbuda.org,scubaboard.com,padi.com",
       "coordinates_source": "Derived from Palmetto Point coordinates, adjusted to reef area south of point",
       "coordinates_confidence": "low-medium",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-17. Key diving areas: South Ridge (best diving per ScubaBoard), Palaster Reef (east coast barrier reef, 10-30m depth), Palmetto Point (staghorn and brain corals). No dive centers on Barbuda - must arrange from Antigua. Previous claims about 'Caribbean reef sharks' and 'nurse sharks as consistent sightings' could not be confirmed to specific site from available sources; previous description of 'healthier shark populations' is general regional claim. Antigua-barbuda.org notes Barbuda reefs have 'enormous number of wrecks, most yet to be explored'. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-10",
+      "qa_notes": "Re-audited 2026-05-17. Key diving areas: South Ridge (best diving per ScubaBoard), Palaster Reef (east coast barrier reef, 10-30m depth), Palmetto Point (staghorn and brain corals). No dive centers on Barbuda - must arrange from Antigua. Previous claims about 'Caribbean reef sharks' and 'nurse sharks as consistent sightings' could not be confirmed to specific site from available sources; previous description of 'healthier shark populations' is general regional claim. Antigua-barbuda.org notes Barbuda reefs have 'enormous number of wrecks, most yet to be explored'. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed. Re-audited 2026-07-10: ScubaBoard thread and antigua-barbuda.org re-checked; Palaster Reef (sand channels/ridges, ~10m/30ft to shallow) and South Ridge details reconfirmed. antigua-barbuda.org additionally notes historical salvage operations on Barbuda's wrecks dating to the 17th century - added as background context only, not attributed to any specific dive site. No hallucinations found."
     }
   },
   {
@@ -185,8 +185,8 @@
       "validation_source": "divecarib.com,xtremespots.com,antigua-barbuda.org",
       "coordinates_source": "zentacle.com Carpenter's Hole (17.0023/-61.7785), cross-referenced with Windward Bay Beach (17.006/-61.776)",
       "coordinates_confidence": "high",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-17. Also known as Carpenter's Rock and Carpenter's Hole. DiveCarib confirms: coral-covered boulders, 6-18m depth (not 24m as recorded - conflict: xtremespots says max 24.4m/80ft, DiveCarib says 6-18m). Using 24m from xtremespots as max depth. Confirmed marine life at this site: Caribbean reef sharks, spotted eagle rays, nurse sharks, green moray eels (DiveCarib), lionfish (invasive). Exposed to Atlantic, requires calm weather; best Dec-May. Difficulty: xtremespots/DiveCarib say 'experienced boat divers' - keeping Intermediate is appropriate. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-10",
+      "qa_notes": "Re-audited 2026-05-17. Also known as Carpenter's Rock and Carpenter's Hole. DiveCarib confirms: coral-covered boulders, 6-18m depth (not 24m as recorded - conflict: xtremespots says max 24.4m/80ft, DiveCarib says 6-18m). Using 24m from xtremespots as max depth. Confirmed marine life at this site: Caribbean reef sharks, spotted eagle rays, nurse sharks, green moray eels (DiveCarib), lionfish (invasive). Exposed to Atlantic, requires calm weather; best Dec-May. Difficulty: xtremespots/DiveCarib say 'experienced boat divers' - keeping Intermediate is appropriate. Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed. Re-audited 2026-07-10: BUG FOUND AND FIXED - the xtremespots URL previously cited in the markdown footer (.../cades-reef-antigua-antigua-and-barbuda/) actually resolves to Cade's Reef content, not Carpenter's Hole; it was mislabeled in an earlier pass. Correct URL is https://www.xtremespots.com/water-sports/scuba-diving/carpenters-hole-antigua-antigua-and-barbuda/ - confirmed live and site-specific (24.4m/80ft max, 13.7m/45ft avg, 5-10m visibility, mid-Dec to mid-May best season). That corrected page's indexed content also names 'Bermuda chub, Atlantic blue tang, and horse-eye jack' as a specific schooling-fish group at this site - horse-eye jack was incorrectly stripped as an 'unconfirmed regional generalisation' in the 2026-05-17 pass; reinstated here since it is source-confirmed for this specific site, and species names in the marine life section made more specific (Bermuda chub, Atlantic blue tang) rather than generic 'chub'."
     }
   }
 ]

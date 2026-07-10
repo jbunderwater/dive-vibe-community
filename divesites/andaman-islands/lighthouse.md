@@ -32,7 +32,7 @@ Lighthouse reef is located approximately 3 kilometres west of Havelock Island's 
 
 ## Marine Life
 
-Confirmed resident species include lionfish, angelfish, triggerfish, pufferfish, unicornfish, fusiliers, trumpetfish, humpback parrotfish, Moorish idols, moray eels, nudibranchs, Kuhl's stingrays, Jenkins' stingrays, and octopuses. Lobsters emerge after dark, making this one of the better night dive options in the Andamans.
+Confirmed resident species include lionfish, angelfish, triggerfish, pufferfish, unicornfish, fusiliers, trumpetfish, humpback parrotfish, Moorish idols, moray eels, nudibranchs, Kuhl's stingrays, Jenkins' stingrays, and octopuses. Lobsters emerge after dark, making this one of the better night dive options in the Andamans. Green sea turtles are also reported here, most commonly February through April, along with reef sharks (frogman.in).
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents are generally mild but can increase with tidal changes. Night dives req
 The shallow, calm reef provides ideal conditions for both wide-angle reef photography and macro shots of nudibranchs and small reef fish. Natural light penetrates well in the shallows during morning hours.
 
 ---
-*Sources: [Dive Andaman - Lighthouse](https://www.diveandaman.com/lighthouse-havelock-island), [Seahawks Scuba - Lighthouse](https://seahawksscuba.in/light-house-havelock-island/), [DIVEIndia - Havelock Dive Sites](https://diveindia.com/havelock-dive-sites/). Last updated 2026-06-08.*
+*Sources: [Dive Andaman - Lighthouse](https://www.diveandaman.com/lighthouse-havelock-island), [Seahawks Scuba - Lighthouse](https://seahawksscuba.in/light-house-havelock-island/), [Frogman Adventures - Lighthouse](https://frogman.in/dive-sites-in-havelock/lighthouse/). Note: the previously-cited diveindia.com URLs for this site are now dead (404); replaced with Frogman Adventures, which is live and corroborates the 3-23m slope. Dive Andaman's own page has an internal inconsistency (main text says 6-20m, its FAQ says ~12m average) not fully resolved by other sources. Last updated 2026-07-10.*

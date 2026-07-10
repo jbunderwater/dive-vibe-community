@@ -17,7 +17,7 @@ A coral boulder site on Antigua's exposed southeastern coast — also known as C
 
 ## Overview
 
-Carpenter's Reef (also known locally as Carpenter's Rock or Carpenter's Hole) sits in the passage between Nanton Point and Stoney Cove in Antigua's Windward Bay area. The site consists of large, coral-covered boulders rather than a continuous reef wall, with the most dramatic diving in the form of a drift when tidal current is running. In the shallower upper zone (top 6 metres), the site functions as an "aquarium" with large schools of sergeant majors and chub — an entirely different character from the deeper sections. Below 6 metres, the coral boulders are interspersed with moray eels, nurse sharks, and invasive lionfish. Caribbean reef sharks and spotted eagle rays have been confirmed at this site by DiveCarib, which operates it regularly. The site is fully exposed to the Atlantic Ocean and requires calm conditions; the best diving window is mid-December through mid-May.
+Carpenter's Reef (also known locally as Carpenter's Rock or Carpenter's Hole) sits in the passage between Nanton Point and Stoney Cove in Antigua's Windward Bay area. The site consists of large, coral-covered boulders rather than a continuous reef wall, with the most dramatic diving in the form of a drift when tidal current is running. In the shallower upper zone (top 6 metres), the site functions as an "aquarium" with large schools of sergeant majors, Bermuda chub, Atlantic blue tang, and horse-eye jack — an entirely different character from the deeper sections. Below 6 metres, the coral boulders are interspersed with moray eels, nurse sharks, and invasive lionfish. Caribbean reef sharks and spotted eagle rays have been confirmed at this site by DiveCarib, which operates it regularly. The site is fully exposed to the Atlantic Ocean and requires calm conditions; the best diving window is mid-December through mid-May.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Carpenter's Reef (also known locally as Carpenter's Rock or Carpenter's Hole) si
 
 ## Marine Life
 
-The following marine life has been confirmed at Carpenter's Reef by DiveCarib and corroborating sources: Caribbean reef sharks, spotted eagle rays, nurse sharks, green moray eels, and invasive lionfish in the boulder zone; large schools of sergeant majors and chub in the shallow aquarium zone. These species are confirmed at this specific site. General Caribbean reef fish (parrotfish, angelfish, snapper) inhabit the boulder complex. Previous descriptions mentioning horse-eye jacks, bar jacks, hawksbill turtles, and black coral at this site were unconfirmed regional generalisations that have been removed.
+The following marine life has been confirmed at Carpenter's Reef by DiveCarib and Xtreme Spots: Caribbean reef sharks, spotted eagle rays, nurse sharks, green moray eels, and invasive lionfish in the boulder zone; large schools of sergeant majors, Bermuda chub, Atlantic blue tang, and horse-eye jack in the shallow aquarium zone. These species are confirmed at this specific site. General Caribbean reef fish (parrotfish, angelfish, snapper) inhabit the boulder complex. Previous descriptions mentioning bar jacks, hawksbill turtles, and black coral at this site were unconfirmed regional generalisations that remain removed; horse-eye jack, previously removed in error, has been reinstated after confirming it on Xtreme Spots' dedicated Carpenter's Hole page.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Carpenter's Reef is not dived very often precisely because the exposed position 
 Exposed to the full Atlantic; only dive in appropriate conditions assessed by the operator. DSMB deployment is mandatory — never ascend without deploying. The exposed position means wave action can make entry and exit difficult. Lionfish are present — avoid contact. Moray eels under boulder overhangs can be large; maintain distance.
 
 ---
-*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Xtreme Spots - Carpenter's Hole Antigua](https://www.xtremespots.com/water-sports/scuba-diving/cades-reef-antigua-antigua-and-barbuda/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm). Last updated 2026-05-17.*
+*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Xtreme Spots - Carpenter's Hole Antigua](https://www.xtremespots.com/water-sports/scuba-diving/carpenters-hole-antigua-antigua-and-barbuda/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm). Note: the Xtreme Spots URL was corrected in this pass — a prior version pointed to Xtreme Spots' Cade's Reef page in error. Last updated 2026-07-10.*

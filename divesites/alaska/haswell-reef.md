@@ -13,51 +13,34 @@ addedBy: osm_import
 
 ## Haswell Reef
 
-A rocky reef in the southern Ketchikan approaches offering cold-water invertebrate abundance in tidal waters.
+Haswell Reef is an OSM/NOAA-charted submerged reef in the southern approaches to Ketchikan — no confirmed recreational dive reports were found for this specific site.
 
 ## Overview
 
-Haswell Reef lies in the southern approaches to the Ketchikan region, in an area where tidal currents flowing through the Inside Passage create productive conditions for filter-feeding invertebrates. The reef is encrusted with the characteristic cold-water assemblage of this coastline — aggregating anemones, plumose anemones, encrusting sponges, and colonial organisms that create a layered, colorful substrate. Lingcod and rockfish are the dominant fish predators here. Paired with nearby Observatory Rock, Wimble Rocks, and La Perouse Reef, Haswell forms part of a group of dive sites in the southernmost portion of Alaska's Inside Passage frequently accessed from Ketchikan operators.
+Haswell Reef lies in the southern approaches to Ketchikan, Southeast Alaska, at approximately 54.05°N, 132.56°W, near the neighboring charted features Observatory Rock, Wimble Rocks, and La Perouse Reef. It is documented in OpenStreetMap as a `natural=reef` feature. A search of Ketchikan-area dive shops (Wind & Water, Deep Six), ScubaBoard, and regional dive-site databases during this QA pass found no operator listing, forum thread, or diver log naming Haswell Reef specifically. Whether this cluster of named rocks and reefs is actually dived recreationally, or is simply a set of charted navigational hazards, could not be confirmed from available sources.
 
 ## Site Information
 
-- **Location**: Southern Ketchikan area, Southeast Alaska
+- **Location**: Southern Ketchikan approaches, Southeast Alaska
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 24 meters
-- **Typical Visibility**: 8–18 meters (26–60 feet)
-- **Current**: Strong — slack tide required
-- **Water Temperature**: 6–12°C (43–54°F)
-- **Best Time**: June–September
+- **Typical Visibility**: Unknown — no dive reports found
+- **Current**: Unknown at this specific site; the Inside Passage generally has significant tidal flow
+- **Water Temperature**: 6–12°C (43–54°F) — general Southeast Alaska regional range
+- **Best Time**: Unknown for this site; the regional dive season runs roughly June–September
 
 ## Marine Life
 
-Haswell Reef supports aggregating and plumose anemones across the upper reef faces, with sea urchins, Dungeness crabs, and various sea star species on the base. Lingcod are regularly encountered, often positioned on the substrate near the structure. Rockfish species, including black and quillback, are common. Nudibranchs are present on the reef surfaces, making careful inspection of encrusting growth productive for macro enthusiasts.
-
-## Dive Profile
-
-Descend to the reef structure during the slack window, exploring both the upper zone (8–14 meters) and the deeper flanks (14–24 meters). The upper zone holds the densest anemone growth. Current can resume quickly, so monitor conditions throughout and ascend before flow builds. Safety stop at 5 meters with SMB deployed.
+No site-specific marine life reports have been found for Haswell Reef. Southeast Alaska's Inside Passage generally supports lingcod, rockfish, giant Pacific octopus, anemones, sea stars, and nudibranchs as regional fauna, but no source confirms these species at this specific reef.
 
 ## Entry and Exit
 
-Charter boat access from Ketchikan. Local operators familiar with this site will manage the tidal timing. No permanent moorings — descent via shot line is typical. Ensure all divers carry surface marker buoys.
-
-## Tips and Recommendations
-
-- Ask your Ketchikan operator about combining Haswell with neighboring reefs on the same trip
-- Cold-water nudibranchs found here include species not encountered in warmer destinations
-- Slow, patient observation of rock crevices often reveals octopus that active swimmers miss
-- Winter diving (November–February) in this area often yields dramatic clarity improvements
-- A primary and backup light source is advisable on any Alaska cold-water dive
+No established dive operator access is documented for this site. Any dive here would require a private or custom charter with local knowledge of the reef's exact position and current behavior.
 
 ## Safety Considerations
 
-Standard Inside Passage precautions apply: strict slack-tide diving, dry suit mandatory, buddy system required. Distance from emergency medical services means conservative dive planning is especially important. Ensure your boat skipper has emergency communication equipment.
-
-## Photography
-
-The layered invertebrate community on Haswell Reef is excellent for environmental portrait photography. Anemone-encrusted surfaces behind a lingcod or rockfish subject create compelling compositions. Macro shots of nudibranchs on bryozoan mats benefit from a dedicated macro lens and close-focus strobe positioning.
+Treat this as an unconfirmed site. If attempted, standard Southeast Alaska precautions apply — dry suit, independently verified slack-tide timing, and a conservative, self-sufficient dive plan.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on OSM/NOAA chart data and general Southeast Alaska regional characteristics. No site-specific sources found. Last updated 2026-07-10.*
