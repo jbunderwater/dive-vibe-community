@@ -25,7 +25,7 @@ The MV Mars is a small wooden cargo ship that sank during a storm in April 2006,
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 15 meters (scubalov.in, the site-specific Havelock operator source, gives 10-16m; a generic travel-blog source cites depths as deep as 20m - 15m is retained as the figure from the dedicated local dive-shop page)
 - **Typical Visibility**: Limited (typical for wreck sites in this area)
 - **Current**: Mild
 - **Best Time**: November to April
@@ -58,4 +58,4 @@ Dive within your certification limits. Visibility can be limited at this wreck. 
 The small, intact wreck makes a good wide-angle subject, and the resident crocodilefish and seahorses offer macro opportunities on the hull.
 
 ---
-*Sources: [ScubaLov - MV Mars](https://www.scubalov.in/havelock-island/havelock-dive-sites/mv-mars/), [Andaman Tourism - Wreck Diving](https://www.andamantourism.org/wreck-diving-in-andaman/), [Travelsetu - Wreck Dives of Andaman](https://travelsetu.com/apps/blog/the-wreck-dives-of-andaman-exploring-underwater-mysteries/). Last updated 2026-06-08.*
+*Sources: [ScubaLov - MV Mars](https://www.scubalov.in/havelock-island/havelock-dive-sites/mv-mars/), [Andaman Tourism - Wreck Diving](https://www.andamantourism.org/wreck-diving-in-andaman/), [Travelsetu - Wreck Dives of Andaman](https://travelsetu.com/apps/blog/the-wreck-dives-of-andaman-exploring-underwater-mysteries/). Note: Travelsetu's stated depth has changed between audits (previously ~30m, now ~20m) and is treated as the least reliable of the three sources; scubalov.in's 15m figure is used as primary. Last updated 2026-07-10.*

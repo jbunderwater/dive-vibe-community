@@ -47,4 +47,4 @@ Contact local Havelock Island dive operators for current access information.
 - The site is classified as advanced in OSM data; confirm current conditions before diving
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Re-audited 2026-06-08: site not listed by any Havelock operator. Named Karen-brothers sites are Dixon's Pinnacle, Johnny's Gorge, and Jackson's Bar.*
+*Description based on regional diving characteristics. No site-specific sources found. Re-audited 2026-07-10: fresh search confirms Jackson's Bar is a separate, distinct site (~19km NE of Havelock, per Dive Andaman and Seahawks Scuba) rather than an alias for "Johnson's Reef." Named Karen-brothers sites remain Dixon's Pinnacle, Johnny's Gorge, and Jackson's Bar - none matches this name.*

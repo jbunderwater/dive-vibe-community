@@ -15,8 +15,8 @@
       "sport": "scuba_diving",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "qa_note": "Re-audited 2026-06-08. No site-specific sources found under any spelling variant (Guoddus, Guodus, Guddus). Not listed by any Havelock dive operator (Dive Andaman, Seahawks Scuba, Barefoot Scuba, DIVEIndia, ScubaLov, Lacadives, Gypsy Divers, The Divemaster Havelock). Cannot validate."
+      "last_qa_date": "2026-07-10",
+      "qa_note": "Re-audited 2026-07-10 (fresh web search, not carried over from prior pass). Still no site-specific source found under any spelling variant (Guoddus, Guodus, Guddus). Checked Dive Andaman, Seahawks Scuba, Barefoot Scuba, DIVEIndia, ScubaLov, Frogman Adventures, Private Scuba, Gypsy Divers, The Divemaster Havelock via targeted WebSearch — none list a site by this name. Cannot validate; leaving validated=false rather than padding with weak sources."
     }
   },
   {
@@ -35,8 +35,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "barefootscuba.in,seahawksscuba.in,diveandaman.com",
-      "last_qa_date": "2026-06-08",
-      "qa_note": "Re-audited 2026-06-08. Depth 55m confirmed by Barefoot Scuba, Seahawks Scuba, Dive Andaman. 200m reef extent confirmed. Marine life (Napoleon wrasse, trevally, barracuda, scorpionfish, stonefish) confirmed. Site description accurate."
+      "last_qa_date": "2026-07-10",
+      "qa_note": "Re-audited 2026-07-10: re-pulled all three cited pages, all still live. Barefoot Scuba: wall 10-55m, purple soft corals, Napoleon wrasse/groupers/trevally/snapper. Seahawks Scuba: 10.2-55m, 200m+ span, stag horn/star/valley/mushroom/fan/cauliflower corals, mild east current. Dive Andaman: gives 56m max (vs 55m from the other two) - minor 1m discrepancy noted, 55m retained as majority figure. All facts in markdown still hold; no corrections needed."
     }
   },
   {
@@ -55,8 +55,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "scubalov.in,andamantourism.org,travelsetu.com",
-      "last_qa_date": "2026-06-08",
-      "qa_note": "Re-audited 2026-06-08. Depth 15m (10-16m range) confirmed by scubalov.in; travelsetu.com erroneously reports 30m — this conflicts with scubalov.in and andamantourism.org; 15m is supported by majority of operator sources. Vessel type is wooden cargo vessel (not fishing boat). Sinking month April 2006 confirmed by scubalov.in. Beginner difficulty confirmed. Marine life (cardinalfish, parrotfish, triggerfish, seahorses, crocodilefish) confirmed by scubalov.in."
+      "last_qa_date": "2026-07-10",
+      "qa_note": "Re-audited 2026-07-10. scubalov.in (the site-specific dive-shop page) still confirms 15m / 10-16m range, wooden cargo vessel, April 2006 storm sinking - unchanged. andamantourism.org gives no specific depth this pass. travelsetu.com's figure has DRIFTED since the last audit: it previously read ~30m, now reads ~20m, and this pass it also floated an unconfirmed 'reef sharks' mention not corroborated anywhere else - travelsetu.com is a generic listicle and its numbers are unstable across visits; flagged as low-reliability but retained as a 3rd distinct domain. 15m (scubalov.in) kept as primary figure; markdown now notes the 15-20m spread rather than asserting a single precise number. Did not add 'reef sharks' to marine life - single unstable source, not corroborated."
     }
   },
   {
@@ -75,8 +75,8 @@
       "sport": "scuba_diving",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-08",
-      "qa_note": "Re-audited 2026-06-08. No site-specific sources found under this name. Checked Dive Andaman, Seahawks Scuba, Barefoot Scuba, DIVEIndia, ScubaLov, Lacadives, Gypsy Divers — none list Johnson's Reef. Known Karen-brothers-named sites are Dixon's Pinnacle, Johnny's Gorge, and Jackson's Bar. Cannot validate."
+      "last_qa_date": "2026-07-10",
+      "qa_note": "Re-audited 2026-07-10 (fresh web search). Still no site-specific source under this name. Search surfaced only Jackson's Bar (a distinct, separate site) as a near-name match; confirmed via diveandaman.com and seahawksscuba.in that Jackson's Bar is its own site ~19km NE of Havelock, not an alias for 'Johnson's Reef'. Karen-brothers sites remain Dixon's Pinnacle, Johnny's Gorge, and Jackson's Bar - none of which is 'Johnson's Reef'. Cannot validate."
     }
   },
   {
@@ -85,18 +85,18 @@
     "lon": 93.0197618,
     "osm_id": 649984315,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "South Button",
       "scuba_diving:divespot": "South Button",
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "touristinindia.com,wikipedia.org,andamanislands.com",
-      "last_qa_date": "2026-06-08",
-      "qa_note": "Re-audited 2026-06-08. Updated validation sources to include wikipedia.org (South Button Island National Park article confirms smallest national park status, lists manta rays, devil rays, turtles). touristinindia.com confirms leopard shark as occasional visitor at eastern coral garden. West wall to 25m confirmed. Removed incorrect previous note that leopard sharks could not be confirmed — touristinindia.com specifically confirms occasional sightings at this site."
+      "last_qa_date": "2026-07-10",
+      "qa_note": "Re-audited 2026-07-10 - CORRECTION. All three sources re-pulled this pass consistently describe SHALLOW coral reefs (Wikipedia and andamanislands.com both explicitly say reefs as shallow as 1.8m/6ft; none of the three mentions a wall or a 25m drop-off). The previously recorded 'western wall to 25 metres' and 'leopard shark' claims do NOT appear in any current source and could not be re-confirmed - removed as unsupported (likely carried over in error from an earlier pass). Depth corrected from 25m to 12m and difficulty from Intermediate to Beginner to match the shallow-reef profile sources actually describe. Confirmed marine life this pass: manta rays and devil rays (all 3 sources), snappers/sweetlips/groupers/butterflyfish/barracuda (andamanislands.com + wikipedia), turtles (all 3), dugongs (wikipedia only - noted as park-wide fauna, not asserted as a diver sighting). Remains validated=true on the corrected facts."
     }
   },
   {
@@ -114,9 +114,9 @@
       "scuba_diving:divespot": "Duncan's Wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "frogman.in,private-scuba.com,seahawksscuba.in",
-      "last_qa_date": "2026-06-08",
-      "qa_note": "Re-audited 2026-06-08. SS Inchkeith wreck details confirmed: built 1923 John Priestman & Co Sunderland, 111m long, 16m wide, 4,290 GRT (private-scuba.com), sank 2 March 1955 near Duncan Island carrying coal and timber. Depth 6-22m confirmed by frogman.in and seahawksscuba.in. Marine life (groupers, barracuda, scorpionfish, cleaner shrimp, nudibranchs) confirmed. Tonnage 4,290 GRT from private-scuba.com — not independently confirmed by a primary maritime source (Lloyd's Register not accessible online for 1923). Claim retained with caveat. Updated validation_source to replace diveandaman.com with seahawksscuba.in as Seahawks provides additional corroborating detail."
+      "validation_source": "frogman.in,private-scuba.com,seahawksscuba.in,theshipslist.com",
+      "last_qa_date": "2026-07-10",
+      "qa_note": "Re-audited 2026-07-10 - WRECK HISTORY UPGRADE. Found an independent maritime-history source, theshipslist.com (Inch Steamship Co. fleet list), that cross-confirms and extends the previously-uncertain tonnage claim: vessel launched 1923 by J. Priestman & Co Ltd, Sunderland, as 'Barbara Marie' (4,290 GRT - now independently confirmed, not just dive-shop sourced). Sold/renamed multiple times: Portsea (1925), Cipro (1933, Italian owners), Stella (1937); captured by HMS Circassia 14 Aug 1941 off Cape Verde, taken into Ministry of War Transport service as Empire Planet; sold 1947 to Williamson & Co, Hong Kong, renamed Inchkeith; struck an uncharted rock 2 March 1955 near Port Meadows/Duncan Island and was declared a total loss. This is a new, verifiable pre-wreck history not previously in the markdown - added since it is corroborated by a dedicated ship-history reference source, not just dive operators. Depth (6-22m), length/beam (111m x 16m), cargo (coal and timber), and route (Calcutta-Bombay) all still confirmed by frogman.in and seahawksscuba.in. Updated validation_source to add theshipslist.com."
     }
   },
   {
@@ -134,9 +134,9 @@
       "scuba_diving:divespot": "Dixon's",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "diveandaman.com,frogman.in,diveindia.com",
-      "last_qa_date": "2026-06-08",
-      "qa_note": "Re-audited 2026-06-08. Three pinnacles rising from 35-40m+ confirmed by frogman.in, diveandaman.com, diveindia.com. Discovery in 2006 confirmed by diveindia.com blog. Karen brothers (Poayesay family) connection confirmed. Depth 16-35m confirmed. Marine life (manta rays, Napoleon wrasse, barracuda, trevally, reef sharks, turtles, yellow soft corals, barrel sponges) confirmed. Updated validation sources to replace private-scuba.com with frogman.in and add diveindia.com for third independent source."
+      "validation_source": "diveandaman.com,frogman.in,scubadiving.com",
+      "last_qa_date": "2026-07-10",
+      "qa_note": "Re-audited 2026-07-10. IMPORTANT: the previously-cited diveindia.com URL (2018/01/02/1st-dive-shop-in-the-andamans) now 404s, as does diveindia.com/our-story - diveindia.com appears to have restructured its site and this content is no longer live there. Replaced with scubadiving.com ('How Three Brothers Put Havelock Island Diving on the Map'), a Scuba Diving Magazine feature that independently corroborates the discovery narrative: Karen-community brothers Johnny, Jackson, and Dickson (Poayasay/Poayesay - spelling varies by source) worked for DIVEIndia founder Vandit Kalia; Dickson's Pinnacle was the first of the three put on the Havelock map in 2006, followed by Johnny's Gorge and Jackson's Bar. Depth (16-35/40m), 19km distance from Havelock, and marine life (Napoleon wrasse, manta rays, barracuda, trevally, reef sharks, turtles, yellow soft corals, barrel sponges) reconfirmed by diveandaman.com and frogman.in. Did not add 'whale sharks' - only frogman.in mentions this, not corroborated elsewhere."
     }
   },
   {
@@ -154,9 +154,9 @@
       "scuba_diving:divespot": "Lighthouse",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "diveandaman.com,seahawksscuba.in,diveindia.com",
-      "last_qa_date": "2026-06-08",
-      "qa_note": "Re-audited 2026-06-08. Depth confirmed: diveandaman.com states 6-20m; seahawksscuba.in says reef descends to 23m — minor discrepancy, 20m retained as maximum recreational depth. Location ~3km west of ferry jetty confirmed. Night diving confirmed as available by diveandaman.com and seahawksscuba.in. Marine life (lionfish, angelfish, triggerfish, pufferfish, unicornfish, fusiliers, moray eels, nudibranchs, Kuhl's stingrays, octopuses, lobsters) confirmed by both sources."
+      "validation_source": "diveandaman.com,seahawksscuba.in,frogman.in",
+      "last_qa_date": "2026-07-10",
+      "qa_note": "Re-audited 2026-07-10. Previously-cited diveindia.com/havelock-dive-sites URL and the diveindia.com 2023 blog post about best Havelock dive sites now both 404 - dropped and replaced with frogman.in/dive-sites-in-havelock/lighthouse, which is live and gives a consistent 3-23m slope matching seahawksscuba.in. diveandaman.com's own page has an internal inconsistency (main body says 6-20m, its own FAQ says ~12m average dive of 8-10m) - noted but not resolved, 20m retained as the commonly-cited max. Night diving availability reconfirmed by all three sources. New confirmed detail from frogman.in: green sea turtles (seasonal, Feb-Apr) and reef sharks, added to marine life. Location ~3km west of ferry jetty confirmed by 2 of 3 sources."
     }
   },
   {
@@ -181,9 +181,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,nzherald.co.nz,upi.com",
-      "last_qa_date": "2026-06-08",
-      "note": "Re-audited 2026-06-08. Protected site near North Sentinel Island. Diving prohibited per Indian regulations. 16,000-ton cargo ship grounded 2 August 1981, en route Bangladesh to Australia with chicken feed. Crew count: NZ Herald and most sources confirm 31 total (UPI archive headline says 28 sailors, likely excluding officers — GEOSAT blog erroneously reports 20 crew; 31 is the consensus figure). Captain Liu Chunglong. Rescued by ONGC helicopter. In 1991, salvage operators Mohamed Brothers were authorised by the Indian government to dismantle vessel; Sentinelese confronted salvors with weapons. Sentinelese scavenged iron for arrowheads — confirmed by Wikipedia and GEOSAT. Updated validation_source to replace geosat.space with upi.com (UPI 1981 archive provides contemporaneous reporting)."
+      "validation_source": "wikipedia.org,nzherald.co.nz,upi.com,scmp.com",
+      "last_qa_date": "2026-07-10",
+      "note": "Re-audited 2026-07-10. Protected site near North Sentinel Island; diving prohibited. Added South China Morning Post as a 4th independent source, which resolves the crew-count discrepancy: SCMP confirms 31 total crew (21 of them Hong Kong nationals) and 16,000-ton Panamanian-registered cargo vessel, matching NZ Herald's 31 figure. The UPI archive headline's 'twenty-eight sailors' remains an outlier not matching the other three sources - noted as such rather than resolved. 2 August 1981 grounding date, ONGC helicopter rescue, Captain Liu Chunglong, and 1991 Mohamed Brothers salvage attempt all still confirmed by at least 2 sources. Wikipedia's North Sentinel Island article confirms Sentinelese scavenged iron from the wreck but (this pass) does not itself specify 'arrowheads' - that detail traces to the previously-cited geosat.space, which is not used as a citation here; keeping the description to what the 3-4 current sources support (iron scavenging, not the specific end-use of the metal)."
     }
   }
 ]
