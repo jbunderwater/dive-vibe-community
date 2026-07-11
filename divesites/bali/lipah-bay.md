@@ -41,7 +41,7 @@ Enter from shore and descend onto the sandy slope. The site is a mix of terrain 
 
 ## Entry and Exit
 
-Shore entry from the beach at Lipah Bay, approximately 12 minutes by road from the main Amed area. The entry is straightforward over a sandy beach. Exit at the same point.
+Most operators list Lipah Bay as a shore/beach entry, approximately 12 minutes from the main Amed area (PADI lists it as a "Beach, Reef" site). McFadyen's trip report describes accessing it by boat, mooring off the middle of the bay -- so both options appear to be in use depending on operator; confirm which applies to your dive. Shore entry is straightforward over a sandy beach.
 
 ## Tips and Recommendations
 
@@ -59,4 +59,4 @@ Lipah Bay is a straightforward dive with generally mild conditions. Currents are
 The turtles at Lipah Bay are the primary photographic attraction and are often cooperative subjects. The large moray eels in the bommies reward patient photographers. The artificial reef structures with their coral growth provide interesting compositions showing reef colonization. Wide-angle is recommended for turtles and reef-scape; macro for the invertebrates on the artificial structures.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096). Last updated 2026-05-17.*
+*Sources: [PADI - Lipah Bay](https://www.padi.com/dive-site/indonesia/lipah-bay/), [Fab Dive - Lipah Bay Dive Site](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/lipah-bay-dive-site-description/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/). Last updated 2026-07-11.*

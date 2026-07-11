@@ -16,7 +16,7 @@ Tulamben's dramatic volcanic wall — a shore-entry wall dive formed by a histor
 
 ## Overview
 
-The Tulamben Drop-off, also known as the Tulamben Wall, is a vertical wall formed by solidified lava from Mount Agung's eruptions. The wall begins just meters from shore, with the top at 3-5 meters dropping steeply to over 60 meters. Shore entry across a pebble beach leads to a short surface swim before the wall begins. A shallow "aquarium section" at 5 meters teems with reef fish, making the site accessible to beginners at shallow depths while offering deeper exploration for experienced divers. The wall is heavily encrusted with sponges, gorgonian fans, black coral bushes, and crinoids.
+The Tulamben Drop-off, also known as the Tulamben Wall, is a vertical wall formed by solidified lava from Mount Agung's 1963 eruption. The wall begins just meters from shore, with the top at 3-5 meters dropping to well beyond recreational limits — Let's Dive Tulamben and Ecodive Bali both describe the wall descending past 70 meters. Recreational divers typically limit their profile to 30-40 metres and never approach the full depth of the wall face. Shore entry across a pebble beach leads to a short surface swim before the wall begins. The wall is heavily encrusted with sponges, gorgonian fans, black coral, and crinoids, with overhanging rocks and coral-filled ledges along the face.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ A drift dive along Nusa Penida's sheltered north coast — sloping reefs, reside
 
 ## Overview
 
-Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside SD, Sental, and Buyuk — that line the more sheltered northern coastline of the island. The site features sloping coral reefs with consistent current that creates ideal conditions for drift diving through rich fish life. Unlike the dramatic, exposed southern sites, PED is more sheltered from the Indian Ocean swell, making it a reliable choice when conditions elsewhere are challenging. The current-swept slopes bring nutrient-rich water that supports dense populations of reef fish, turtles, and occasional pelagic visitors including giant trevally and, in season, mola mola.
+Ped is one of a string of north-coast Nusa Penida dive sites — alongside SD Point, Sental, and Buyuk — named for the nearby Pura Ped, one of the island's most sacred temples, and lining the more sheltered northern coastline. The site is usually dived as a drift, following a sloping reef that runs from around 5 m down past 30 m. Unlike the dramatic, exposed southern sites, Ped is more sheltered from the Indian Ocean swell, making it a reliable choice when conditions elsewhere are challenging, though currents here can still be strong. The current-swept slopes bring nutrient-rich water that supports dense fish life, resident turtles, and — in season — mola mola.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside 
 
 ## Marine Life
 
-Green and hawksbill turtles are commonly found on the reef slope. Dense schools of fusiliers, anthias, and sweetlips follow the current along the wall. Giant trevally hunt in the blue water, and reef sharks are frequently sighted. During the July–October mola mola season, oceanic sunfish have been reported here. Macro life includes nudibranchs, shrimps, and small cephalopods in coral crevices.
+Green and hawksbill turtles are commonly found on the reef slope, and reef sharks are reported by local operators. Giant trevally and barracuda are listed among the site's regular pelagics by Nusa Penida dive site directories, alongside schooling reef fish. During the July–October mola mola season, oceanic sunfish are reported here fairly reliably — divers have reported seeing multiple mola mola in a single dive at Ped during peak months. Macro life includes nudibranchs and shrimps in coral crevices, though this is based on regional expectations rather than a site-specific report.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Drift currents can be strong and may accelerate unexpectedly. Stay aware of dept
 Wide-angle suits the sloping reef with schools of fusiliers and turtles. Turtles grazing in the shallows offer portrait opportunities with good natural light. The current-swept character of the site means quick composition is needed — practice shooting on the move.
 
 ---
-*Sources: [Nusa Penida.org - Ped, SD Point, Sental](https://nusapenida.org/ped-sd-point-sental-buyuk-tugu), [Purple Dive Penida - Ped](https://www.purpledivepenida.com/ped), [Aquamarine Diving - Sental, Ped, SD](https://www.aquamarinediving.com/bali-diving/dive-sites/nusa-penida-lembongan/sental-ped-sd/). Last updated 2026-05-17.*
+*Sources: [Nusa Penida.org - Diving Guide](https://nusapenida.org/bali-nusa-penida-diving-guide/), [Purple Dive Penida - Ped](https://www.purpledivepenida.com/ped), [Diving Squad - Nusa Penida Diving](https://www.divingsquad.com/nusa-penida-diving/). Last updated 2026-07-11.*

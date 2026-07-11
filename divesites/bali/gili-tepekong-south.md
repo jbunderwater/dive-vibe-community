@@ -30,6 +30,8 @@ Gili Tepekong South is the dramatic, exposed southwest/east face of the largest 
 - **Current**: Strong to very strong; powerful down-currents possible
 - **Best Time**: May to October (slack tide only)
 
+## Marine Life
+
 Whitetip and blacktip reef sharks are the signature species, and operators describe a resident shark nursery in the wider Tepekong area. Large schools of sweetlips, jacks, fusiliers, eagle rays, and grouper gather in the canyon. Mola mola are the headline seasonal draw (July–October) at the Blue Hole/east wall cleaning station. Turtles and barracuda are regular sightings. The walls host nudibranchs and large moray eels; pygmy seahorses in gorgonians are reported for Gili Tepekong generally but not confirmed specifically for this face, so treat that sighting as possible rather than reliable.
 
 ## Dive Profile
@@ -50,11 +52,11 @@ Boat from Padangbai or Candidasa. Entry timing is critical — experienced guide
 
 ## Safety Considerations
 
-Down-currents in the canyon are the primary hazard and have caused incidents. Never enter the canyon alone. Follow your guide's instructions precisely regarding depth and exit timing. If swept deep, maintain neutral buoyancy and swim horizontally to exit the down-current zone. Always carry an SMB and a safety sausage.
+Down-currents in the canyon are the primary hazard, and multiple operator sources still describe this as one of Bali's most demanding sites, with the canyon dived "only when ocean conditions are exceptionally calm." Never enter the canyon alone. Follow your guide's instructions precisely regarding depth and exit timing. If swept deep, maintain neutral buoyancy and swim horizontally to exit the down-current zone. Always carry an SMB and a safety sausage. Current guidance from local operators continues to support Advanced-only certification for this site — nothing in this re-audit supports downgrading the difficulty rating.
 
 ## Photography
 
 The canyon walls create dramatic frame shots. Schools of sweetlips in the current produce action shots that require fast shutter speeds. Reef sharks at rest on the wall are excellent subjects with wide-angle. The Blue Hole chimney with divers backlit by the opening is a signature image of Bali diving.
 
 ---
-*Sources: [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [Indopacific Images - Gili Tepekong](https://indopacificimages.com/indonesia/bali-anchor-page/diving-indonesia-bali-gili-tepekong/), [OK Divers - Gili Tepekong](https://www.okdiversbali.com/portfolio/gili-tepekong-bali/), [PADI - Gili Tepekong](https://www.padi.com/dive-site/indonesia/gili-tepekong-2/). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [OK Divers Resort - Gili Tepekong](https://www.okdiversbali.com/portfolio/gili-tepekong-bali/), [Nico Dives Cool Bali - Gili Tepekong](https://nicodivescoolbali.com/go-diving/day-trips/candidasa/gili-tepekong/), [PADI - Gili Tepekong](https://www.padi.com/dive-site/indonesia/gili-tepekong-2/). Last updated 2026-07-11.*

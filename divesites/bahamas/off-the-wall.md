@@ -17,7 +17,7 @@ Off The Wall is a wall dive off Cape Eleuthera associated with the Cape Eleuther
 
 ## Overview
 
-Also referenced as the CEI Offshore Cage site, Off The Wall is located at the edge of the wall system running along Cape Eleuthera's southwestern coast. The site marks the point where the reef top drops away into the deep Exuma Sound. A research cage used by the Cape Eleuthera Institute (historically for cobia) sits at approximately 24-25 meters, moored just off the wall face. Divers can descend to the cage level and then explore the wall, which drops steeply toward depths of 600 meters and beyond. The site offers relatively straightforward wall diving in a productive marine environment.
+Also known as the "Cobia Cage" or CEI Offshore Cage, Off The Wall is a large decommissioned aquaculture research structure — a diamond-shaped, netting-covered cage originally used in a cobia-farming project run jointly by the Island School / Cape Eleuthera Institute and the University of Miami — moored roughly 75 yards from the edge of the wall running along Cape Eleuthera's southwestern coast. Sources disagree somewhat on exact depth: some list the cage floating around 15 meters (49 ft), while others describe it sitting in 21-30 meters (70-100 ft) of water on a sloped sandy bottom, with the adjacent wall dropping away past 29 meters (95 ft) toward the deep Exuma Sound. The cage netting is now encrusted with algae and young corals and shelters abundant macro life. Divers can explore the cage itself and then visit the nearby wall face.
 
 ## Site Information
 

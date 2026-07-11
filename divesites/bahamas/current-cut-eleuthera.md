@@ -17,7 +17,7 @@ One of the Bahamas' most exhilarating drift dives — a narrow tidal channel at 
 
 ## Overview
 
-Current Cut is a narrow natural channel at the northern end of Eleuthera Island near Current Settlement village, where tidal water flows between the Atlantic Ocean and the Exuma Sound. When the tide runs, Current Cut generates some of the strongest recreational diving current in the Bahamas — divers are carried through the channel at speeds that can make swimming feel effortless and can reach several knots at peak flow. The channel walls are covered with sea fans, sponges, and encrusting organisms that thrive in the nutrient-rich moving water, and the fish life in and around the channel is extraordinary. The maximum depth is 18 meters — manageable — but the current creates the advanced character of this dive. Visibility is outstanding, typically 25–35 meters in the channel's clear waters.
+Current Cut is a narrow natural channel at the northern end of Eleuthera Island between Current Settlement (North Eleuthera) and Current Island, where tidal water flows between the Atlantic Ocean and the Exuma Sound. When the tide runs, Current Cut generates some of the strongest recreational diving current in the Bahamas — sources report tidal flow of roughly 6 to 10 knots, with some accounts citing peaks near 9–10 knots. The channel walls are covered with sea fans, sponges, and encrusting organisms that thrive in the nutrient-rich moving water, and the fish life in and around the channel is extraordinary. Reported maximum depth varies by source, from around 10 meters (32 ft) up to roughly 18 meters (60 ft); the deeper figure is the most commonly cited. The current, not the depth, is what drives the advanced character of this dive. A full pass through the cut typically takes about 10–12 minutes.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Current Cut is a narrow natural channel at the northern end of Eleuthera Island 
 
 ## Marine Life
 
-Current Cut is one of the best sites in the Bahamas for fish volume — the constant food delivery from the moving water supports enormous populations. Schools of horse-eye jacks and bar jacks pack the channel walls in dense, swirling formations. Caribbean reef sharks and nurse sharks are common in the cut. Spotted eagle rays and southern stingrays ride the current through the channel. The walls themselves carry spectacular sea fan gardens and large barrel sponges. Barracuda hover at the edges of the main flow. Schools of snappers and grunts shelter in eddies behind the coral formations.
+Current Cut is one of the best sites in the Bahamas for fish volume — the constant food delivery from the moving water supports enormous populations. Sources report schools of horse-eye jacks, blacktip and Caribbean reef sharks, eagle rays, and a resident pod of stingrays using the channel. Lobster, parrotfish, and queen angelfish shelter in holes and crevices along the rock walls, and moray eels are reported peering from crevices. The walls themselves carry sea fan and sponge growth. Barracuda are reported stationing themselves in the flow.
 
 ## Dive Profile
 
-The classic Current Cut dive times entry with the incoming tide, entering the channel at the Atlantic end and exiting into the Exuma Sound. The chase boat follows from the Atlantic and motors around to the Sound side for pickup. The entire channel transit takes 10–20 minutes depending on tidal speed. Divers are simply carried through — depth is controlled by positioning on the channel wall, and the main skill is staying close to the wall without hitting it.
+The classic Current Cut dive times entry with the incoming tide, entering the channel at the Atlantic end and exiting into the Exuma Sound. The chase boat follows from the Atlantic and motors around to the Sound side for pickup. Sources consistently report the full channel transit takes about 10–12 minutes. Divers are simply carried through — depth is controlled by positioning on the channel wall, and the main skill is staying close to the wall without hitting it.
 
 ## Entry and Exit
 
@@ -59,6 +59,7 @@ Current Cut is exhilarating and challenging to photograph simultaneously — the
 
 - Eleuthera dive operators: Current Settlement village has local guides experienced with the cut
 - The dive is completely tide-dependent — book based on operator tidal calculations, not calendar dates
+- Note: this listing and the separate "Current Cut" entry in this database both describe the same physical tidal channel between North Eleuthera and Current Island, plotted from two different data sources with slightly different coordinates.
 
 ---
-*Sources: [Discover Eleuthera Bahamas - The Current Cut](https://www.discover-eleuthera-bahamas.com/the-current-cut/), [Eleuthera.me - Current Cut](https://eleuthera.me/currentcut.html), [Zentacle - Current Cut](https://www.zentacle.com/Beach/3565/current-cut), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*
+*Sources: [Discover Eleuthera Bahamas - The Current Cut](https://www.discover-eleuthera-bahamas.com/the-current-cut/), [Eleuthera.me - Current Cut](https://eleuthera.me/currentcut.html), [Zentacle - Current Cut](https://www.zentacle.com/Beach/3565/current-cut), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-07-11.*

@@ -3,9 +3,9 @@ name: Shark Wall New Providence
 lat: 25.025
 lng: -77.4917
 difficulty: Intermediate
-maxDepth: 12
+maxDepth: 14
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,52 +13,54 @@ addedBy: osm_import
 
 # Shark Wall New Providence
 
-A Caribbean reef shark encounter site on the southwestern wall of New Providence Island, where the Nassau dive community has maintained one of the longest-running shark interaction programmes in the Bahamas.
+The non-feeding "free swim" half of Stuart Cove's Shark Adventure™ — a true vertical wall dive on New Providence's southwest drop-off where Caribbean reef sharks circulate calmly among divers.
 
 ## Overview
 
-Shark Wall is one of the original Nassau shark dive sites, operated along the southwestern wall of New Providence Island. The site sits at 12 meters maximum depth over a coral reef ledge where Caribbean reef sharks congregate reliably throughout the year. Nassau's shark diving tradition dates to the 1980s when dive operators Stuart Cove and others began habituating sharks to feeding encounters, developing protocols that have since influenced shark diving operations worldwide. The reef at Shark Wall is in good health with solid hard coral coverage and a productive fish community alongside the shark encounters. Visibility averages 20–30 meters. Water temperature is 25–28°C.
+**Correction from prior QA pass:** This site was previously described and typed as a "reef" feeding site. Stuart Cove's own program description states plainly that Shark Wall is the *first*, non-feeding dive of the two-dive Shark Adventure™ program — divers "swim calmly along with the divers in a non-feeding environment" — while the feeding encounter happens on the companion dive, The Arena (see "Shark Arena Nassau" in this database). It is also, structurally, a wall dive, not a reef: Regal Diving's Nassau site guide describes Shark Wall starting around 10 meters and continuing thousands of meters down into the Tongue of the Ocean. `site_type` has been corrected from `reef` to `wall`, and this page's dive-profile content has been rewritten to remove the feeding-dive description that was inaccurately carried over here.
+
+Stuart Cove's shark-species page lists a maximum operating depth of 45 ft (about 14 m) for Shark Wall. Regal Diving describes a wall face carrying purple tube sponges and coral growth. Caribbean reef sharks are the confirmed, consistent species — Stuart Cove's states their reef sharks range 4–9 feet in length.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 6–12 m |
+| Depth Range | 10–14 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
-| Site Type | Reef |
+| Site Type | Wall |
 | Visibility | 20–30 m |
 | Current | Light |
 | Water Temp | 25–28°C |
 
 ## Marine Life
 
-Caribbean reef sharks are the signature species — 8–20 individuals are typically present at the wall during encounters. Nurse sharks rest along the sandy ledges adjacent to the reef. The reef itself supports large schools of French grunt and yellowtail snapper, as well as French and grey angelfish, large parrotfish, and hawksbill turtles. Nassau groupers — the site's namesake fish — are less abundant now than historically due to overfishing but are still encountered. Southern stingrays occupy the sandy floor.
+Caribbean reef sharks are the confirmed signature species, sourced to both Stuart Cove's (4–9 ft individuals) and Regal Diving's independent Nassau site guide. Regal Diving also documents eagle rays, Nassau grouper, black grouper, lobster, and green-eyed morays on the wall's rocky ledges, alongside purple tube sponge growth on the wall face. The prior version of this page described a "feeding session" with nurse sharks and stingrays on a sandy floor — none of that is supported by current sources for this specific site (feeding happens at the separate Arena site) and has been removed rather than carried forward.
 
 ## Dive Profile
 
-Descent to the reef at 12 meters. Divers position along the wall ledge and face seaward during the encounter. Caribbean reef sharks approach from the open water and work the wall, with the divemaster managing the encounter from the feeding position. After the 20–25 minute feeding session, divers explore the wall for the remainder of their air supply before ascending.
+Descent to the wall crest at approximately 10 meters. This is a free-swim dive — Caribbean reef sharks circulate around the group in open water without bait, and divers are free to move along the wall face rather than holding a fixed feeding position. Stay within the planned maximum depth; the wall continues far below recreational limits into the Tongue of the Ocean.
 
 ## Entry and Exit
 
-Boat dive from Nassau-based operators, primarily Stuart Cove's. Entry by giant stride or backward roll. The site uses a mooring to prevent anchor damage to the reef. DSMB recommended.
+Boat dive from Nassau-based operators, primarily Stuart Cove's. Entry by giant stride or backward roll. The site uses a permanent mooring. DSMB recommended.
 
 ## Tips and Recommendations
 
-Shark Wall is the most reliable and most accessible shark encounter in Nassau — it is included in nearly every two-tank Nassau dive trip. The site dives well after the encounter ends — the wall section has good coral and interesting fish life. Position at the outer edge of the diver group for the best photographic angles during the encounter.
+Shark Wall is one of the most reliable shark encounters in Nassau and is typically the first dive of Stuart Cove's two-tank Shark Adventure™ trip, paired with the feeding dive at The Arena. Because there is no fixed feeding position, divers have more freedom to work the wall face for photography than on the companion feeding dive.
 
 ## Safety Considerations
 
-Follow all briefings from the operator. Keep hands close to the body throughout. Do not reach toward sharks or feeding positions. Caribbean reef sharks at this site are habituated but remain wild animals — unexpected movements or equipment issues can cause unpredictable behaviour. Always dive with the operator's divemaster.
+Follow all briefings from the operator. Keep hands close to the body throughout. Caribbean reef sharks here are reported by divers as curious but not aggressive, though they remain wild animals — always dive with the operator's divemaster and maintain awareness of depth given the wall's continuation into deep water.
 
 ## Photography
 
-Shark Wall is ideal for entry-level shark photography — multiple sharks, shallow depth, good light, and predictable behaviour. Wide-angle or fisheye captures multiple sharks with the wall as backdrop. The 6–10 meter depth range provides excellent natural light for natural-colour photography without strobes. Time the shutter for moments when sharks are oriented toward the camera for impact.
+Good natural light at 10–14 meters supports wide-angle shark photography without strobes. Wide-angle or fisheye captures Caribbean reef sharks against the wall face and sponge growth.
 
 ## Additional Resources
 
-- Stuart Cove's Dive Bahamas: offers Shark Wall as part of standard Nassau dive packages
-- Nassau day trips typically include Stuart Cove Wall and Shark Wall as a combined experience
+- Stuart Cove's Dive Bahamas: offers Shark Wall as the non-feeding half of the Shark Adventure™ program
+- Typically paired with The Arena (feeding dive) as a two-tank Nassau shark trip
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Adventure](https://stuartcove.com/shark-diving/shark-adventure/), [Stuart Cove's Dive Bahamas - Sharks](https://stuartcove.com/underwater-hollywood/sharks/), [Regal Diving - Nassau](https://regal-diving.co.uk/nassau), [ScubaBoard - Considering Stuart Cove's in Nassau](https://scubaboard.com/community/threads/considering-stuart-coves-in-nassau.639695/). Last updated 2026-07-11.*
