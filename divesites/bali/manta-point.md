@@ -17,7 +17,7 @@ Nusa Penida's most celebrated manta ray cleaning station — nearly year-round e
 
 ## Overview
 
-Manta Point is located on the southwestern coast of Nusa Penida and is the most reliable place in Bali to observe reef manta rays in their natural environment. The site centres on several coral head cleaning stations where manta rays circle continuously while small cleaner wrasses remove parasites from their skin. Most encounters happen at 5–15 m as the mantas rise to the cleaning stations, making this accessible even to snorkellers above. The site extends across a sandy seabed and a vibrant coral plateau, with a second cleaning station reachable by following the reef. Outside of stormy conditions, operators report manta encounter rates exceeding 90%.
+Manta Point is located on the southwestern coast of Nusa Penida, beneath cliffs near the Peguyangan Waterfalls, and is the most reliable place in Bali to observe reef manta rays in their natural environment. The main cleaning station is a small coral mound around 10 m at its base, rising to within a few metres of the surface, where manta rays circle continuously while small cleaner wrasses remove parasites from their skin. This makes the site accessible even to snorkellers above the action. Divers who continue past the cleaning station can follow the reef down a wall that drops to around 40 m — a more advanced extension of the dive, sometimes called Batu Sepatu. Nusa Penida dive operators report manta sightings on close to a daily basis at this site.
 
 ## Site Information
 
@@ -27,12 +27,12 @@ Manta Point is located on the southwestern coast of Nusa Penida and is the most 
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10–20 m
-- **Current**: Variable; can be strong on the exposed southern coast
+- **Current**: Generally light directly at the cleaning station, but the site is fully exposed to Indian Ocean swell and surge
 - **Best Time**: April to October for most stable conditions
 
 ## Marine Life
 
-Reef manta rays with wingspans up to 5 m are the headline attraction. Rare melanistic (all-black) manta rays have been recorded here. Blue-spotted stingrays rest on the sandy seabed, bamboo sharks cruise the reef base, and nudibranchs, Zanzibar shrimps, and porcelain crabs inhabit the coral structure. Mola mola (oceanic sunfish) are occasionally seen on the wall during the July–October season, and whale shark sightings have been recorded.
+Reef manta rays with wingspans up to 5 m are the headline attraction. Melanistic (all-black) manta rays, while uncommon overall, are a known part of the Nusa Islands' manta population and have been documented at Manta Point, including a regularly recognized individual nicknamed "Batman." No verified figure exists for what share of the local population is melanistic — treat any specific percentage claim with caution. Blue-spotted stingrays, marble rays, and eagle rays are seen on the sandy seabed, and blacktip reef sharks and bamboo sharks patrol the reef base. Nudibranchs and other macro life inhabit the coral structure. Mola mola (oceanic sunfish) are occasionally seen at the site during the July–October season. Whale sharks are extremely rare here but not unheard of — a sighting was documented at the site in September 2023.
 
 ## Dive Profile
 

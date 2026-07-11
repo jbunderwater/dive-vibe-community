@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Jemeluk Wall
 
-A wall dive at the eastern end of Jemeluk Beach near Amed, where a slope steepens into a wall dropping over 40 meters, covered in gorgonias, barrel sponges, and hard coral.
+A wall dive at the eastern end of Jemeluk Beach near Amed, where a slope steepens into a wall reported to drop somewhere between 40 and 50+ meters, covered in gorgonias, barrel sponges, and hard coral.
 
 ## Overview
 
-Jemeluk Wall is located at the eastern end of Jemeluk Beach in the Amed area of northeast Bali, running north from a point. The site begins as a slope that gradually steepens into a genuine wall dropping 40 meters or more. The wall and upper slope are covered with small gorgonias, barrel sponges, large pink gorgonia fans, various sponges, and hard coral formations. The site is conveniently located approximately 10 minutes from Hotel Uyah, making it one of the most accessible wall dives in the Amed area.
+Jemeluk Wall is located at the eastern end of Jemeluk Beach in the Amed area of northeast Bali, running north from a point. The site begins as a slope that gradually steepens into a genuine wall. Sources report varying maximum depths for the wall -- Michael McFadyen's trip report describes it going down "at least 40 metres," while PADI's site listing cites figures as deep as 50 metres -- so treat any single number as approximate. The wall and upper slope are covered with small gorgonias, barrel sponges, large pink gorgonia fans, various sponges, and hard coral formations. The site is conveniently located approximately 10 minutes from Hotel Uyah. It is most commonly run as a boat dive from Amed, though PADI's listing also notes shore access is possible for divers willing to make the longer surface swim.
 
 ## Site Information
 
@@ -41,7 +41,7 @@ Enter from shore at the eastern end of Jemeluk Beach and swim out to the point w
 
 ## Entry and Exit
 
-Shore entry from Jemeluk Beach. The entry is straightforward -- walk into the water from the beach, put on fins, and swim out to the point where the wall begins. The site is approximately 10 minutes from Hotel Uyah. Exit at the same beach.
+Entry is from Jemeluk Beach -- walk into the water from the beach, put on fins, and swim out to the point where the wall begins. The site is approximately 10 minutes from Hotel Uyah (about 2 km by boat, per McFadyen's trip report). Many Amed operators run this as a boat dive from Jemeluk or nearby beaches rather than a long shore swim; confirm which option your operator uses. Exit at the same point of entry.
 
 ## Tips and Recommendations
 
@@ -52,11 +52,11 @@ Shore entry from Jemeluk Beach. The entry is straightforward -- walk into the wa
 
 ## Safety Considerations
 
-The wall drops well beyond 40 meters, so uncontrolled descents are a real risk. Maintain neutral buoyancy and monitor your depth gauge frequently. Stay within recreational depth limits. Currents can be variable, so assess conditions before entering. The shore entry is straightforward but can have some surge depending on conditions.
+The wall drops well beyond recreational limits (sources differ on the exact maximum, citing figures from roughly 40 to 50+ meters), so uncontrolled descents are a real risk. Maintain neutral buoyancy and monitor your depth gauge frequently. Stay within recreational depth limits. Currents can be variable, so assess conditions before entering.
 
 ## Photography
 
 Jemeluk Wall offers both wide-angle and macro opportunities. The large pink gorgonia fans and barrel sponges along the wall make excellent wide-angle subjects, particularly when backlit or shot with divers for scale. Macro subjects include nudibranchs, ribbon eels, and the invertebrates living on the sponges and corals. The wall structure itself provides dramatic depth perspectives for wide-angle compositions.
 
 ---
-*Sources: [PADI - Jemeluk Wall](https://www.padi.com/dive-site/indonesia/jemeluk-wall/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1091). Last updated 2026-05-17.*
+*Sources: [PADI - Jemeluk Wall](https://www.padi.com/dive-site/indonesia/jemeluk-wall/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1091). Last updated 2026-07-11.*

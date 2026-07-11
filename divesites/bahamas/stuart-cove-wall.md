@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Stuart Cove Wall
 
-The premier Nassau wall dive — a section of the Tongue of the Ocean's vertical edge operated by Stuart Cove's Dive Bahamas, with classic Bahamian clarity, sea fans, and regular shark encounters.
+Nassau's signature wall diving experience, operated by Stuart Cove's Dive Bahamas along the southwest wall of New Providence where the shelf plunges into the Tongue of the Ocean.
 
 ## Overview
 
-Stuart Cove Wall is the name applied to the section of Nassau's southwest wall routinely operated by Stuart Cove's Dive Bahamas — one of the most established and visited dive operators in the Caribbean. The wall drops from a reef crest at around 10 meters to a sandy bottom at 25 meters (with the actual wall continuing much deeper into the Tongue of the Ocean). The site features the Bahamas' characteristic crystal-clear blue water, with visibility regularly hitting 25–35 meters. The wall carries healthy hard coral coverage on the upper sections, large barrel sponges and sea fans at mid-wall, and deep-water gorgonians at the base. Caribbean reef sharks are frequently encountered throughout the water column. This site is one of the most-dived walls in Nassau and an essential reference point for Bahamian wall diving.
+**Naming note:** "Stuart Cove Wall" is not an official proprietary site name used by the operator or by third-party dive databases — it is a descriptive label for the wall-diving product Stuart Cove's Dive Bahamas runs on Nassau's southwest wall. Real, individually named walls in this same system include Runway Wall, Tunnel Wall, and Southwest Reef (a partial wall/coral-garden site), plus the dedicated shark-dive walls covered separately in this database (Shark Wall, The Arena). This entry represents the general Nassau wall-diving experience rather than one specific charted site.
+
+Stuart Cove's is the largest full-service dive operator on New Providence, based on the island's southwest coast close to the wall system. Diver reports describe the wall beginning around 10 meters and continuing far below recreational limits into the Tongue of the Ocean; typical dive depths on Stuart Cove's wall trips run to about 24–27 meters (80–90 ft). The operator and third-party sources describe good-to-excellent visibility and a wall face carrying purple tube sponges and coral growth. Caribbean reef sharks are a consistent presence along Nassau's wall system — divers on ScubaBoard describe them as "curious but not aggressive," and the diving itself as "low stress... no real challenges," suitable for a range of certification levels.
 
 ## Site Information
 
@@ -33,11 +35,11 @@ Stuart Cove Wall is the name applied to the section of Nassau's southwest wall r
 
 ## Marine Life
 
-Caribbean reef sharks are a consistent feature at Stuart Cove Wall — the area is part of the Nassau reef system where sharks have been associated with dive operations for decades. Schools of large barracuda hover at the wall edge. Spotted eagle rays sweep past the wall face. Hawksbill turtles feed on sea fans at mid-wall depths. The reef community on the upper wall is diverse — French and queen angelfish, large parrotfish, blue tang, and Nassau groupers (reduced in number but still present). Nurse sharks rest on the sandy base.
+Caribbean reef sharks are a consistent presence throughout Stuart Cove's Nassau wall diving — confirmed both by the operator and by independent diver reports (ScubaBoard). Third-party dive-travel sources describing Nassau's Shark Wall — part of the same wall system this entry represents — also report eagle rays, Nassau and black grouper, lobster, and green-eyed morays on the wall's rocky ledges, alongside purple tube sponge growth. These species are documented for the wall system generally rather than confirmed at one precise GPS point, so treat them as characteristic of the area rather than guaranteed on every dive. No site-specific source confirms turtles or barracuda at this particular wall — those claims have been removed rather than carried over from the template.
 
 ## Dive Profile
 
-Descent to the wall crest at 10 meters, then a controlled descent along the wall face to 20–25 meters. The upper wall at 12–18 meters has the best hard coral and the most active fish community. The mid-wall zone at 18–22 meters carries large barrel sponges and sea fans. The base at 25 meters transitions to sand and is worth visiting briefly for the nurse sharks and stingrays before ascending. Safety stop at the wall crest.
+Descent to the wall crest at approximately 10 meters, then along the wall face. Diver reports describe typical Stuart Cove wall dives staying at 24–27 meters (80–90 ft) or shallower, with the wall itself continuing far deeper into the Tongue of the Ocean — stay within your planned maximum depth rather than following the wall down. Dive duration is diver-paced rather than time-boxed on Stuart Cove's boats, per diver reports. Safety stop at the wall crest.
 
 ## Entry and Exit
 
