@@ -2,10 +2,10 @@
 name: Shark Rodeo Cat Island
 lat: 24.3833
 lng: -75.4333
-difficulty: Intermediate
-maxDepth: 12
+difficulty: Advanced
+maxDepth: 9
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,11 +13,15 @@ addedBy: osm_import
 
 # Shark Rodeo Cat Island
 
-Cat Island's famous oceanic whitetip shark dive — one of the few places in the world where oceanic whitetip sharks (Carcharhinus longimanus) reliably approach divers at recreational diving depths.
+Cat Island's oceanic whitetip shark encounter — a blue-water drift dive over open ocean where oceanic whitetip sharks (Carcharhinus longimanus) reliably approach divers hovering far from any reef or sea floor.
 
 ## Overview
 
-The Shark Rodeo at Cat Island is one of the most significant shark diving experiences in the Bahamas — primarily because of the species involved. Oceanic whitetip sharks (Carcharhinus longimanus) were once among the most abundant large sharks in the open ocean but have been devastated by longline fishing globally. Cat Island's offshore waters remain one of the last reliable places on Earth where divers can encounter them predictably. The oceanic whitetips arrive at Cat Island in large numbers in April and May, following the tuna migration through the area; they are the primary draw for dedicated expeditions. Caribbean reef sharks are present throughout the year. The site operates in shallow water (no more than 12 metres depth) over a sandy bottom near the island's continental shelf edge, where Cat Island drops to depths of nearly 1,000 metres within a short distance of shore. The clear Bahamian water delivers 25–35 metres visibility in typical conditions.
+**Naming issue found during this audit — flagged for review.** This entry and its filename use the name "Shark Rodeo Cat Island," but this audit found no operator or database using "Shark Rodeo" for any Cat Island site. "Shark Rodeo" is a real, established name — but for a shark-feeding site at **Walker's Cay in the Abaco Islands**, an entirely different part of the Bahamas, roughly 300+ km from Cat Island. No source found in this pass connects that name to Cat Island's oceanic whitetip diving, which every operator (Epic Diving, Big Fish Expeditions, Dive Ninja Expeditions, DiveAdvice) refers to simply as "Cat Island oceanic whitetip diving" or similar descriptive names — never "Shark Rodeo." This looks like a naming error (possibly conflating the two sites) that was not caught in the prior 2026-05-17 validation pass. **Recommend renaming this entry** (e.g., to "Cat Island Oceanic Whitetips") — see the final report for the flagged issue. The description below is corrected to reflect what sources actually document at Cat Island, independent of the name problem.
+
+Cat Island is documented by multiple independent sources (Epic Diving, Big Fish Expeditions, Southern Boating, Scuba Diver Life, DIVE Magazine) as one of the most reliable places on Earth to encounter oceanic whitetip sharks (Carcharhinus longimanus), a species decimated globally by longline fishing. This is **not** a bottom or sand-flat dive like Tiger Beach or the Nassau shark sites — it is a blue-water drift dive. Divers descend to roughly 6–9 m (20–30 ft) and hold that depth near a drift buoy while drifting over open ocean where the bottom drops to 1,000+ m, confirmed independently by Dive Ninja Expeditions and multiple secondary sources. There is no reef, sand, or bottom reference at any point in the dive. `site_type` has been corrected from `reef` to `drift` and `difficulty` from `Intermediate` to `Advanced` to reflect this — every operator source found (Big Fish Expeditions, DiveAdvice, Dive Ninja Expeditions) describes these as advanced, no-cage, open-ocean drift dives requiring an advanced certification and strong buoyancy control, not the standard recreational dives implied by the prior rating.
+
+Sources disagree somewhat on the peak season: Epic Diving's own pages give both "March through June" and "May–June" depending on the page, while Big Fish Expeditions, DiveAdvice, and Southern Boating cite April–May as the peak window, with sightings extending into March and June on some trips. This entry states April–May as the most commonly cited peak, while flagging that the window varies by source rather than picking one figure as definitive.
 
 ## Site Information
 

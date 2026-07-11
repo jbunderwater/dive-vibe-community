@@ -24,10 +24,12 @@ Also known as the "Cobia Cage" or CEI Offshore Cage, Off The Wall is a large dec
 - **Location**: Cape Eleuthera, southern Eleuthera, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 30 meters (sources vary — reported cage/wall depths range from about 15 to 30 m; see Overview)
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate; Cape Eleuthera is known for current-influenced conditions
-- **Best Time**: November to May
+- **Best Time**: December to May
+
+Note: Zentacle rates this site "Beginner" with a shallower ~15 m (49 ft) max depth. This listing keeps it Intermediate/30 m because other sources describe the adjacent wall dropping past 29 m (95 ft), and this project's difficulty rule (18-30 m = Intermediate) fits that better. Flagged here as an unresolved discrepancy between sources rather than silently overridden.
 
 ## Marine Life
 
@@ -49,7 +51,7 @@ Boat dive only. The site is within range of The Dive Shop at Cape Eleuthera Reso
 
 ## Safety Considerations
 
-Depths exceed 30 meters just off the recreational limit at this site. A dive computer is essential. The open Exuma Sound exposure can create surge at the wall face. Complete a safety stop at 5 meters and carry an SMB for open-water ascent.
+Depth reports for this site run close to or beyond the 30 m recreational limit depending on source. A dive computer is essential. The open Exuma Sound exposure can create surge at the wall face. Complete a safety stop at 5 meters and carry an SMB for open-water ascent.
 
 ---
-*Sources: [Zentacle - Off The Wall](https://www.zentacle.com/Beach/8538/off-the-wall), [All Star Liveaboards - Cobia Cage Eleuthera](https://allstarliveaboards.com/scuba-diving-cobia-cage-eleuthera-bahamas/), [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/). Last updated 2026-05-17.*
+*Sources: [Zentacle - Off The Wall](https://www.zentacle.com/Beach/8538/off-the-wall), [All Star Liveaboards - Cobia Cage Eleuthera](https://allstarliveaboards.com/scuba-diving-cobia-cage-eleuthera-bahamas/), [Dive the World - Eleuthera Diving](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-07-11.*

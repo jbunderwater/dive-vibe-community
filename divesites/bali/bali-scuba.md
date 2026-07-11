@@ -34,31 +34,29 @@ This entry is most likely an OSM import artifact — a business location or POI 
 
 ## Marine Life
 
-Reef fish typical of the Bali coast — butterflyfish, parrotfish, surgeonfish, and triggerfish. Moray eels and lionfish in coral crevices. Sea turtles are occasionally sighted. Batfish, sea snakes, cuttlefish, and nudibranchs are common finds along the Sanur reef system.
+No site-specific marine life reports were found for an entry named "Bali Scuba." The Sanur house reef used by the Bali Scuba dive operator is described generically (by the operator's own site) as hosting trumpetfish, pufferfish, porcupinefish, sweetlips, catfish, lionfish, clownfish, sea snakes, and moray eels — but this describes the operator's general Sanur reef area, not a confirmed site-specific list for these exact coordinates.
 
 ## Dive Profile
 
-Descend from the boat to the reef at 5–10 m and follow the coral gardens to the maximum depth of 20 m. Most of the interesting reef life is concentrated at 8–15 m. Ascend gradually along the coral slope and complete the safety stop in the shallow reef zone.
+Not confirmed. Sanur-area reefs used for beginner/check dives are typically shallow (roughly 2–14 m per one operator source), well short of the 20 m depth currently on file for this entry.
 
 ## Entry and Exit
 
-Jukung boat from Sanur beach. Short transit to the reef. Entry via giant stride. Conditions are typically calm and manageable for intermediate divers.
+Not confirmed for this specific entry. Sanur-area dive operators typically run short boat trips (jukung) from Sanur beach/harbour.
 
 ## Tips and Recommendations
 
-- A convenient option for divers staying in Sanur, Kuta, or Nusa Dua
-- Works well as a refresher dive before heading to more demanding destinations
-- Best dived in the morning before afternoon boat traffic increases
-- Pair with a Nusa Penida day trip for a complete south Bali diving itinerary
-- Ask operators about combining with nearby batfish and cuttlefish sites in the channel
+- This entry should be reviewed rather than treated as a validated, standalone dive site
+- If it is meant to represent an operator's house reef near Sanur, consider renaming it (e.g., "Sanur House Reef") and re-describing it with operator-sourced, site-specific detail
+- If no distinct site can be substantiated, consider removing it from the database per the project's "no non-diving/commercial entries" data quality standard
 
 ## Safety Considerations
 
-Boat traffic in the Sanur channel can be significant — surface carefully and use an SMB. Lionfish in the reef are venomous. Be mindful of sea urchins in the shallower rocky areas near the beach.
+Not researched — see recommendation above before treating this as a real dive briefing.
 
 ## Photography
 
-Calmer conditions suit learning photographers and those testing new equipment. Cuttlefish and sea snakes are approachable subjects. Batfish schools in the channel create interesting wide-angle compositions.
+Not researched.
 
 ---
-*Description based on regional diving characteristics of the south Bali/Nusa Penida area. The site name "Bali Scuba" does not appear in dive operator site listings as a named dive site; it may originate from an OSM entry for a dive operator. No site-specific sources found. Last updated 2026-05-17.*
+*Description based on regional diving characteristics. No site-specific sources found for a dive site named "Bali Scuba" — research indicates this name most likely refers to a Sanur dive operator (baliscuba.com) rather than a distinct dive site. Recommend flagging for review/possible removal or renaming. Last updated 2026-07-11.*

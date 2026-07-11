@@ -31,22 +31,22 @@ The Tulamben Drop-off, also known as the Tulamben Wall, is a vertical wall forme
 
 ## Marine Life
 
-The wall supports prolific macro life including frogfish, ghost pipefish, leaf scorpionfish, nudibranchs, octopus, and cuttlefish. Larger species include white-tip reef sharks, Napoleon wrasse, and large moray eels. Clown triggerfish and schools of fusiliers are common along the wall face. The sandy slope before the wall is an excellent macro photography area. Occasional mola mola and pelagics pass in the blue water beyond the wall.
+Macro life confirmed at the site by multiple independent sources (Aquamarine Diving, Let's Dive Tulamben, and Ecodive Bali) includes frogfish, ghost pipefish (often on crinoids around 12m), leaf and reef scorpionfish, octopus, hermit and porcelain crabs, mantis shrimp, lionfish, pygmy seahorses, and an electric clam. Reef fish reported include longnose hawkfish, anemonefish, emperor and blue-faced angelfish, triggerfish, and pufferfish. Larger species regularly seen along the wall include white-tip reef sharks, Napoleon wrasse, large moray eels, scrawled filefish, tuna, trevally, barracuda, and occasional bumphead parrotfish. The black coral, sea fans, and tube sponges on the wall face host much of this macro life.
 
 ## Dive Profile
 
-Enter from the pebble beach and swim a short distance to the wall edge. The shallow aquarium section at 3-5 meters is ideal for a warmup. Drop along the wall to your desired depth — the wall is productive at all levels from 5-30 meters. The sandy slope at the base of the wall transitions into deeper territory. Return along the wall at a shallower depth for your safety stop before swimming back to shore.
+Enter from the pebble beach and swim a short distance to the wall edge. The shallow aquarium section at 3-5 meters is ideal for a warmup. Drop along the wall to your desired depth — sources describe the wall itself continuing past 70 meters, but recreational no-decompression profiles should stay within 30-40 meters. The wall is productive from the shallows down through 30 meters. Return along the wall at a shallower depth for your safety stop before swimming back to shore.
 
 ## Tips and Recommendations
 
 - Easily combined with a dive on the adjacent USAT Liberty wreck
-- The sandy slope before the wall is excellent for macro photography — look for frogfish and ghost pipefish
+- The wall is excellent for macro photography — look for frogfish, ghost pipefish, and pygmy seahorses on the crinoids and gorgonian fans
 - Early morning dives offer the best lighting on the wall face
-- Night dives on the Drop-off are popular for hunting flashlight fish and Spanish dancers
+- Night dives are offered in the Tulamben area and are reported to be good for spotting hunting moray eels and Spanish dancers, though this has not been confirmed as specific to the Drop-off site itself
 
 ## Safety Considerations
 
 The shallow wall top makes this site very accessible for beginners, but depth increases rapidly. Watch your depth gauge carefully along the wall. Shore entry over loose pebbles can be slippery — water shoes or booties recommended.
 
 ---
-*Sources: [Aquamarine Diving - Tulamben Drop Off](https://www.aquamarinediving.com/tulamben-drop-off-dive-site-bali/), [Ecodive Bali - Tulamben Wall](https://ecodivebali.com/tulamben-wall-drop-off-dive/), [Let's Dive Tulamben - Drop Off](https://letsdivetulamben.com/dive-sites/drop-off/). Last updated 2026-04-05.*
+*Sources: [Aquamarine Diving - Tulamben Drop Off](https://www.aquamarinediving.com/tulamben-drop-off-dive-site-bali/), [Ecodive Bali - Tulamben Wall](https://ecodivebali.com/tulamben-wall-drop-off-dive/), [Let's Dive Tulamben - Drop Off](https://letsdivetulamben.com/dive-sites/drop-off/). Last updated 2026-07-11.*

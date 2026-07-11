@@ -36,7 +36,7 @@ Tiger sharks (Galeocerdo cuvier) are the confirmed primary attraction, with indi
 
 ## Dive Profile
 
-Descend to the sandy bottom at 6–9 metres and remain stationary — kneeling, sitting, or crouching. The sharks approach from all directions; avoid sudden movements and keep fins flat to the sand. Dives routinely extend to 50–60 minutes given the shallow depth. Experienced divemasters position themselves between divers and the most active sharks. Multiple dives per day are standard on liveaboard itineraries.
+Descend to the sandy bottom at roughly 6–9 metres and remain stationary — kneeling, sitting, or crouching. The sharks approach from all directions; avoid sudden movements and keep fins flat to the sand. The shallow depth allows for long bottom times relative to typical recreational diving, though this audit found no source giving a precise, consistent dive-length figure, so no specific minute count is stated here. Experienced divemasters position themselves between divers and the most active sharks. Multiple dives per day are standard on liveaboard itineraries.
 
 ## Entry and Exit
 
@@ -48,7 +48,7 @@ Primarily a liveaboard destination, though a handful of land-based operators now
 - Wide-angle lens essential; 8–15mm fisheye produces the most dramatic images in the shallow, bright water
 - Winter months offer the best chance of great hammerheads alongside the resident tigers
 - Closed-circuit rebreathers are popular with photographers but noisy open-circuit scuba works fine for shark interaction
-- This is not a beginner dive — basic shark-awareness training and solid buoyancy control are required
+- This is not a beginner dive — basic shark-awareness training and solid buoyancy control are required. Sources disagree on formal certification requirements: PADI's own site listing suggests Open Water certification is sufficient, while Bluewater Dive Travel rates the destination as Advanced-level; this entry keeps a difficulty of Intermediate as a middle position pending a clearer consensus
 
 ## Safety Considerations
 
@@ -59,4 +59,4 @@ Tiger sharks are large, powerful animals. Follow all operator briefings without 
 Tiger Beach is arguably the best shark photography site on the planet. Shoot wide-angle to capture full-body shark portraits against the white sand and blue water. Afternoon light creates excellent backlit silhouette shots. Bring at least two dives to warm up before expecting close approaches.
 
 ---
-*Sources: [PADI - Tiger Beach dive site](https://www.padi.com/dive-site/bahamas/tiger-beach/), [Epic Diving - Tiger Beach Bahamas](https://www.epicdiving.com/), [Dive the World - Tiger Beach Grand Bahama](https://www.dive-the-world.com/diving-sites-bahamas-grand-bahama-tiger-beach.php), [Bluewater Dive Travel - Tiger Beach](https://www.bluewaterdivetravel.com/destination/tiger-beach-diving). Last updated 2026-05-17.*
+*Sources: [PADI - Tiger Beach dive site](https://www.padi.com/dive-site/bahamas/tiger-beach/), [Dive the World - Tiger Beach Grand Bahama](https://www.dive-the-world.com/diving-sites-bahamas-grand-bahama-tiger-beach.php), [Bluewater Dive Travel - Tiger Beach](https://www.bluewaterdivetravel.com/destination/tiger-beach-diving), [Shark Dive Adventures - Tiger Beach](https://sharkdiveadventures.com/dive-locations/tiger-beach-grand-bahama/). Last updated 2026-07-11.*
