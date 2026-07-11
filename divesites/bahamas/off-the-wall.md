@@ -31,7 +31,7 @@ Also known as the "Cobia Cage" or CEI Offshore Cage, Off The Wall is a large dec
 
 ## Marine Life
 
-Cape Eleuthera wall sites consistently produce reef shark encounters. Turtles, eagle rays, groupers, and schools of reef fish are typical. The wall face supports sponge and coral communities, providing habitat for moray eels, lobster, and smaller reef fish species. Amberjack congregate around structural features like the cage.
+Large loggerhead sea turtles are reported regularly at the cage. Various reef shark species are seen around the structure, and at least one report mentions an occasional hammerhead shark sighting nearby (reported, not personally observed, by the source). The cage netting itself hosts abundant macro life — lettuce sea slugs, arrow crabs, neck crabs, and shrimp are specifically documented here. No source reviewed confirmed groupers, eagle rays, or amberjack at this specific site, so they are not listed.
 
 ## Dive Profile
 

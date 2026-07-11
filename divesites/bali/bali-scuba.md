@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Bali Scuba
 
-A reef dive site off the Sanur/Nusa Dua coast — coral gardens with varied fish life and calm conditions convenient to south Bali.
+QUESTIONABLE ENTRY — "Bali Scuba" is very likely the name of a Sanur-based dive operator (baliscuba.com), not a distinct named dive site. See note below.
 
 ## Overview
 
-Bali Scuba is a reef dive site accessible from south Bali, located in the waters off the Sanur area. The reef features coral gardens with a mix of hard and soft corals on a sloping bottom, offering a convenient dive option for travellers based in the south of the island who cannot make the longer journeys to Tulamben, Menjangan, or Nusa Penida. The site is particularly useful as a refresher or check dive, and conditions inside the sheltered reef channel are generally calm. Visibility averages 10–20 m and water temperatures are a consistent 28–30°C.
+Fresh research (2026-07-11) strongly suggests this entry does not describe a distinct, named dive site. "Bali Scuba" is the trading name of a real, currently operating PADI dive center based in Sanur (baliscuba.com), which runs day trips to a "house reef" a short (~5 minute) boat ride off Sanur — a shallow, easy reef (roughly 2–14 m) used for beginner courses, refreshers, and check dives. No dive shop, forum, or dive-site directory search turned up any dive site independently named "Bali Scuba." The coordinates for this entry sit in the general south Bali/Sanur diving area, consistent with a generic reef used by that operator, but there is no evidence this is a site with its own identity the way Manta Point or Crystal Bay are.
+
+This entry is most likely an OSM import artifact — a business location or POI for the dive operator "Bali Scuba" that was scraped as if it were a dive site. The description below is written to be honest about that uncertainty rather than inventing site-specific characteristics that cannot be confirmed.
 
 ## Site Information
 

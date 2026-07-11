@@ -49,19 +49,19 @@ Shore entry at Kubu village, the same access point used for Kubu Reef. Local por
 
 ## Tips and Recommendations
 
-- Start at the bow (~18 m) and work deeper to manage bottom time efficiently
+- Start at the bow (shallowest point, roughly 14-18 m depending on source) and work deeper to manage bottom time efficiently
 - Bring a torch to illuminate the wreck interior and highlight the prop decorations
-- Nitrox extends bottom time significantly at the 18–25 metre deck level
+- Nitrox extends bottom time significantly at the shallower deck level
 - The prop items — VW car, Buddha statues — make for unusual and entertaining photographs
-- The wreck has settled deeper than originally planned; verify current depths with your operator before diving
+- Depth reports for this wreck vary noticeably between operators; verify current depths with your operator before diving
 
 ## Safety Considerations
 
-The stern depth of 38–40 metres makes this a deeper dive that limits bottom time on air. Plan gas management carefully and avoid spending too long at the deepest sections. Wreck penetration requires dedicated wreck penetration training, a guideline or clear exit plan, and redundant lights — never enter an overhead environment without proper equipment and training. The shore entry over rocks requires care, particularly with camera equipment.
+The stern depth (reported as roughly 35-40 metres by most sources, with some citing figures up to 45 metres) makes this a deeper dive that limits bottom time on air. Plan gas management carefully and avoid spending too long at the deepest sections. Wreck penetration requires dedicated wreck penetration training, a guideline or clear exit plan, and redundant lights — never enter an overhead environment without proper equipment and training. The shore entry over rocks requires care, particularly with camera equipment.
 
 ## Photography
 
-The Kubu Wreck offers unique photographic opportunities. The prop decorations on the deck -- statues, the old-style helm, portholes -- create distinctive compositions unlike any other wreck dive. The adjacent artificial reef with motorbikes and pushbikes draped in gorgonias provides surreal wide-angle subjects. A wide-angle lens is recommended for wreck exteriors and artificial reef structures. Bring a torch to bring out colours and illuminate details in the wreck's darker areas.
+The Kubu Wreck offers unique photographic opportunities. The prop decorations on the deck -- Buddha statues, the non-original wooden helm, the Volkswagen car -- create distinctive compositions unlike any other wreck dive. A wide-angle lens is recommended for wreck exteriors. Bring a torch to bring out colours and illuminate details in the wreck's darker areas. (Note: an earlier version of this page referenced an "adjacent artificial reef with motorbikes and pushbikes" -- no source consulted in this review corroborates that claim, so it has been removed pending verification.)
 
 ---
-*Sources: [Let's Dive Tulamben - Boga Wreck](https://letsdivetulamben.com/dive-sites/boga-wreck/), [Bali Dive Cove - Kubu Wreck Boga](https://www.balidivecove.com/dive-sites/kubu-wreck-boga/), [Ecodive Bali - Boga Wreck](https://ecodivebali.com/boga-wreck/). Last updated 2026-05-17.*
+*Sources: [Let's Dive Tulamben - Boga Wreck](https://letsdivetulamben.com/dive-sites/boga-wreck/), [Bali Dive Cove - Kubu Wreck Boga](https://www.balidivecove.com/dive-sites/kubu-wreck-boga/), [Ecodive Bali - Boga Wreck](https://ecodivebali.com/boga-wreck/), [Diveconcepts - Boga Wreck](https://diveconcepts.com/bali/spot-boga-wreck.php), [No Fear Diving - Boga Wreck](https://nofeardiving.com/dive-sites/boga-wreck), [Go Diving Tulamben - Boga Wreck](https://godivingtulamben.com/boga-wreck/), [Bali AQua - Wreck Diving in Bali](https://baliaqua.com/blog/wreck-diving-bali/). Last updated 2026-07-11.*

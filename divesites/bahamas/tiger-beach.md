@@ -17,22 +17,22 @@ Tiger Beach is the world's most celebrated tiger shark dive, a shallow sand flat
 
 ## Overview
 
-Tiger Beach sits approximately 32 km (20 miles) off the west end of Grand Bahama Island. The site is a broad, flat sandy bottom at 6–12 metres where warm Atlantic water delivers extraordinary visibility often exceeding 30 metres. What makes Tiger Beach exceptional is the density and predictability of tiger shark encounters: multiple sources confirm an average of 5–7 tiger sharks per dive, alongside 15+ lemon sharks and over 20 Caribbean reef sharks. Tiger sharks and lemon sharks are present year-round, though October to January is peak season when tiger shark numbers are highest. Great hammerheads (Sphyrna mokarran) are most reliably seen from December to March. Divers kneel or sit on the sand and the sharks work around them naturally. The shallow depth means long bottom times and excellent natural light for photography.
+Tiger Beach sits approximately 32 km (20 miles) off the west end of Grand Bahama Island, confirmed by PADI's dive site listing. Sources consistently describe a shallow sand flat, though the precise depth cited varies by source — PADI lists a maximum of 20 m with divers typically kneeling around 8–10 m, while Bluewater Dive Travel and Dive the World describe most diving happening around 5–6 m. This entry uses 9 m as a representative depth within that range rather than picking one source as authoritative. Water clarity is consistently described as excellent. Tiger sharks and lemon sharks are reported as present year-round, with October to January cited by multiple sources as the period with the most tiger shark activity; great hammerheads (Sphyrna mokarran) are most reliably reported December through March.
 
 ## Site Information
 
-- **Location**: Northwest Bahamas, Grand Bahama offshore
+- **Location**: Northwest Bahamas, Grand Bahama offshore, ~32 km (20 miles) off West End
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Reef (sand flat)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 9 meters
+- **Maximum Depth**: 9 meters (sources range 5–20 m depending on operator)
 - **Typical Visibility**: 25–40 metres
 - **Current**: Light
-- **Best Time**: October to January for peak tiger shark numbers; year-round viable; July–August fewest sharks; great hammerheads December–March
+- **Best Time**: October to January for the most tiger shark activity; great hammerheads December–March
 
 ## Marine Life
 
-Tiger sharks (Galeocerdo cuvier) are the primary attraction, regularly reaching 3–4 metres at this site. Lemon sharks crowd the mid-water in large numbers. Great hammerheads (Sphyrna mokarran) visit from December to March. Nurse sharks rest on the sand. Caribbean reef sharks patrol the periphery. Occasionally oceanic whitetip sharks appear offshore. Southern stingrays and eagle rays cross the flat.
+Tiger sharks (Galeocerdo cuvier) are the confirmed primary attraction, with individuals reported up to 4.5–5.5 m by multiple sources. Lemon sharks are consistently reported in numbers. Great hammerheads (Sphyrna mokarran) are reported December through March. Nurse sharks and Caribbean reef sharks are also confirmed present by multiple sources. One source (Dive the World) mentions occasional bull sharks — flagged here as single-sourced rather than cross-confirmed. **Removed from the prior version:** oceanic whitetip sharks and eagle rays. Research for this audit found no source placing oceanic whitetips or eagle rays specifically at Tiger Beach — oceanic whitetips are well documented at Cat Island (see that site's entry) but not as a Tiger Beach species, and the eagle ray references found were tied to the West End marina area, not the dive site itself. Southern stingrays are removed for the same reason — no site-specific source was found.
 
 ## Dive Profile
 
