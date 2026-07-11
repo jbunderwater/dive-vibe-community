@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Big Fins TecDiving
 
-An exposed reef dive near Tulamben, known locally for healthy corals and regularly offering bumphead parrotfish and whitetip sharks.
+**Data quality flag: this entry does not appear to be a dive site.** Research indicates "Big Fins TecDiving" is the name and location of a technical diving training operator (bigfins.asia) based in Tulamben, not a named dive site that any dive shop, forum, or database recognises.
 
 ## Overview
 
-Big Fins TecDiving is a reef site in the Tulamben area near the eastern tip of Bali that overlooks the Lombok Strait. The reef here is among the healthiest along this stretch of coast due to the strong upwellings from deep, cold water in the strait — the same forces that make Gili Selang (Big Fins/Express) a notable site for larger pelagic species. Bumphead parrotfish travel this coastline, and whitetip reef sharks are resident. The exposed position means conditions can vary considerably, with strong currents possible, particularly on the deeper sections.
+"Big Fins TecDiving" refers to Big Fins Diving, a technical diving training and mesophotic-conservation operator with a base/office in Tulamben, Bali (bigfins.asia). The OSM point this entry is built from most likely tags the operator's business location rather than an underwater dive site. Direct review of bigfins.asia found no dive site named "Big Fins" or "Big Fins TecDiving" anywhere on the operator's own site. Additional web searches for the name alongside "Tulamben," "reef," and "whitetip sharks" returned no operator, forum (including ScubaBoard), or aggregator database that lists a dive site by this name. Named dive sites that do exist in this general stretch of the Tulamben coast include Coral Garden, the Drop-Off/Wall, and Shark Point — none of which is called "Big Fins" or "Big Fins TecDiving" by any source found.
+
+Because no source confirms this as an actual dive site, all of the previously published site-specific claims below (reef character, upwellings, bumphead parrotfish schools, resident whitetip sharks, hammerhead sightings, current patterns, dive profile, entry/exit specifics) were unsupported by any source and have been removed. This entry should be treated as a data-quality issue for the underlying `data/osm_clean/bali.json` record (an operator/business entry, not a dive site) rather than a validated site description — per this project's "No Commercial Businesses" data standard, dive shops and operators should not be catalogued as dive sites.
 
 ## Site Information
 
-- **Location**: Near Tulamben, northeast Bali coast
-- **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–25 m
-- **Current**: Variable; can be strong due to Lombok Strait position
-- **Best Time**: April to November
+- **Location**: Tulamben area, northeast Bali coast (coordinates as recorded in OSM; likely the operator's base location, not a specific reef)
+- **Entry Type**: Unconfirmed — no site-specific source found
+- **Site Type**: Unconfirmed — likely not a distinct dive site
+- **Difficulty Level**: Unconfirmed
+- **Maximum Depth**: Unconfirmed
+- **Status**: Not validated as a legitimate dive site; recommend flagging for review/removal from the dataset
 
 ## Marine Life
 
-Bumphead parrotfish travel this section of coast in schools. Whitetip reef sharks are resident and regularly sighted. Giant trevally hunt in the current. Turtles are common throughout the reef. The strong upwellings support healthy populations of fusiliers, basslets, and coral reef species. Hammerhead sharks have been reported on the deeper sections during strong current periods.
+No site-specific marine life claims can be made — no source treats "Big Fins TecDiving" as a distinct, named dive site with its own species records. General Tulamben-area reef fauna (sweetlips, angelfish, trevally, occasional reef sharks) may apply if this point in fact corresponds to a real reef, but no source confirms that.
 
 ## Dive Profile
 
-Descend to 10–15 m and follow the reef slope. Stay alert for current changes — on exposed dives like this, conditions can shift from manageable to strong within a dive. Concentrate fish spotting between 8–20 m. If current picks up, ascend to the shallower reef where it is less intense and complete the dive safely.
+Not applicable — no independent source describes a dive profile for a site by this name.
 
 ## Entry and Exit
 
-Boat dive from Tulamben. Entry timing should be based on current conditions — consult your operator. SMB deployment is essential for safe ascent pickup at this exposed site.
+Not applicable — no independent source describes entry/exit conditions for a site by this name.
 
 ## Tips and Recommendations
 
-- Dive on incoming tide for the best visibility and most manageable current
-- Watch for bumphead parrotfish schools cruising the reef — they typically appear early morning
-- Keep an eye into the blue at depth — reef sharks and trevally appear suddenly
-- Not recommended for divers lacking drift dive experience
-- Combine with the USAT Liberty wreck for a full northeast Bali day
+- This entry needs manual review: confirm with OSM source data whether the original tag was for a dive shop/training operator (`amenity=dive_centre` or similar) rather than a dive site
+- If it is confirmed as a business location, it should be removed from the dive site dataset per the project's "No Commercial Businesses" standard
+- If evidence later surfaces of an actual named dive site here (e.g. from a local operator's site list), re-research before restoring site-specific content
 
 ## Safety Considerations
 
-Current can be strong and the site is exposed — abort to the shallow reef if conditions deteriorate. Always carry an SMB and be prepared to surface and wait for the boat. Divers should have drift dive experience before attempting this site. Down-currents are possible on the exposed seaward sections.
+Not applicable — no independent source describes conditions for a site by this name.
 
 ## Photography
 
-Bumphead parrotfish schools provide spectacular wide-angle subjects. The healthy reef with clear water makes for vivid reef photography. Fast shutter speeds are needed for the moving fish schools in current. Reef shark shots require patience and a wide-angle zoom setting.
+Not applicable — no independent source describes this as a photography site.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics only where noted above; no site-specific sources found, because "Big Fins TecDiving" could not be confirmed as an actual dive site. Sources checked: [Big Fins Diving](https://www.bigfins.asia) (operator's own site, confirms this is a training/conservation operator, not a dive site listing), plus web searches for "Big Fins TecDiving" combined with "Tulamben," "dive site," "reef," and "whitetip sharks" (no corroborating result). Last updated 2026-07-11.*
