@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "australia",
-    "azores",
-    "bahamas",
-    "bali",
-    "banda-sea",
-    "barbados",
     "belize",
     "belize-barrier-reef",
     "bermuda",
@@ -175,9 +169,94 @@
     "ambon",
     "andaman-islands",
     "antigua-and-barbuda",
-    "aruba"
+    "aruba",
+    "australia",
+    "azores",
+    "bahamas",
+    "bali",
+    "banda-sea",
+    "barbados"
   ],
   "history": [
+    {
+      "date": "2026-07-11",
+      "slugs": [
+        "australia",
+        "azores",
+        "bahamas",
+        "bali",
+        "banda-sea",
+        "barbados"
+      ],
+      "notes": "australia is isGroup=true with no own data files (children great-barrier-reef, lord-howe-island, ningaloo-reef, south-australia-neptune-islands remain separately in queue) -- skipped. bahamas and bali initial agent attempts each spawned orphaned sub-agents instead of researching directly (a known failure pattern) and returned prematurely without writing files; both were retried with agents explicitly instructed to do all research directly without delegation, which then reconciled the orphaned sub-agents' markdown-only edits into the final JSON themselves.",
+      "summary": {
+        "sites_total": 109,
+        "sites_validated_today": 88,
+        "sites_re_audited": 105,
+        "hallucinations_removed": 42,
+        "marine_life_stripped": 22,
+        "wreck_conflicts_flagged": 10,
+        "sites_unresolved": 15,
+        "by_destination": {
+          "australia": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files; skipped, children handled in separate future batches"
+          },
+          "azores": {
+            "sites_total": 14,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "Light re-audit -- prior pass was already well-sourced and hedged. Dori Wreck length claim corrected to the documented Liberty-ship standard (134.6m), bow/max-depth conflict flagged 20m vs 22m. SS Slavonia Wreck rescue/passenger breakdown refined, SOS claim reconfirmed as still unverified per Wikipedia. Santa Iria, Bahia de Capelas, Lagoa, and Rostro de Cao remain unvalidated placeholders with no dive-specific source found."
+          },
+          "bahamas": {
+            "sites_total": 26,
+            "sites_validated_today": 22,
+            "sites_re_audited": 26,
+            "hallucinations_removed": 13,
+            "marine_life_stripped": 15,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 4,
+            "notes": "Reclassified Shark Wall New Providence reef->wall (it's the non-feeding half of Stuart Cove's Shark Adventure program, not a feeding reef) and Shark Rodeo Cat Island reef->drift + Intermediate->Advanced, flagging that the name 'Shark Rodeo' appears to actually belong to an unrelated Walker's Cay (Abaco) site. Lost Blue Hole Andros flagged similarly -- the real, documented site by that name is off Rose Island near Nassau, not Andros; left validated=false pending maintainer review of both names/coordinates. Normans Key Cut's 'washing machine' drift narrative found to actually belong to Shroud Cay, reverted to validated=false. Off Cape Eleuthera depth corrected 27m->15m and entry_type boat->both per a site-specific source distinct from the neighboring 'Off The Wall'. Thunderball Grotto depth corrected 8m->5m, nurse-shark claim removed (belongs to nearby Compass Cay). Wreck conflicts: Curtiss C-46A depth (15-20m JSON vs multiple sources describing ~3m/snorkel depth, unresolved), Willaurie Wreck (major identity conflict: 1966 Dutch mailboat vs. a 1907 Danish barge across two source clusters, unresolved), Devil's Backbone Cienfuegos wrecking date (Feb 4 storm vs Feb 5 calm across NYT vs crew testimony). Connected Dott, Seabass, and The Cutt remain unvalidated (fewer than 3 independent sources); Seabass's sole prior citation turned out to be a broken/mismatched link."
+          },
+          "bali": {
+            "sites_total": 34,
+            "sites_validated_today": 31,
+            "sites_re_audited": 34,
+            "hallucinations_removed": 20,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 6,
+            "notes": "COMMERCIAL/NON-DIVE-SITE ENTRIES REMOVED per CLAUDE.md: Big Fins TecDiving (a tec-diving operator's business location, not a named site), Bali Scuba (a Sanur dive shop's business location), and Water Walk (a non-scuba Seawalker helmet-diving tourist activity) -- site count 37->34. Bulakan found to have been describing a different site entirely ('Ghost Bay', ~3-4km away); rewritten around its one genuine source (DivePhotoGuide), narrowed to 1 source. Batu Belah's cited padi.com source turned out to describe an unrelated site near Gili Meno; removed and replaced. Blue Corner's footer cited a Nusa Penida Crystal Bay page by mistake (different island); corrected, left with only 1 genuine source. Pygmy-seahorse claims audited across 4 sites -- confirmed only at Pos 2 and Coral Garden, stripped from Bat Cave/Underwater Cave/Blue Corner where unsupported. USAT Liberty Wreck: tonnage conflict newly found (Wikipedia 13,130 tons vs. combinedfleet.com 6,211 tons), length conflict reconfirmed (120m operator figure vs 125.4m Wikipedia). Kubu Wreck: vessel-type conflict (patrol vessel vs cargo ship) and length range 35-50m documented; removed an invented 'adjacent artificial reef with motorbikes' claim with no source. Harlequin Slope, Liberty Muck, and Blue Hill Dive Site remain unvalidated (fewer than 3 sources); Blue Corner, Manta Bay, and Bulakan left validated=true per existing-validation rules but flagged as weak (down to 1-2 sources after corrections)."
+          },
+          "banda-sea": {
+            "sites_total": 13,
+            "sites_validated_today": 13,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites in this destination. Removed a fabricated mandarinfish claim at Lava Flow (species is actually documented at Mandarin City/Hotel Maulana pier, not the Gunung Api lava field) and fixed a species mislabel at Pulau Karaka (pufferfish->pipefish). Stripped unconfirmed marine life from Batu Kapal, Nailaka Wall, and Jackpot. Agent flagged a judgment call: Mandarin City and Pulau Karaka are rated Beginner despite the routine's 'remote liveaboard = minimum Advanced' rule, on the grounds that both are extensively and consistently documented as calm, shallow, beginner-appropriate sites -- left as Beginner rather than override well-sourced data with a blanket heuristic; flagged for maintainer review."
+          },
+          "barbados": {
+            "sites_total": 22,
+            "sites_validated_today": 22,
+            "sites_re_audited": 22,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 1,
+            "notes": "Pamir Wreck depth corrected 15m->18m per a stronger primary source. 'The Barge' corrected to be part of the Carlisle Bay wreck cluster rather than a standalone west-coast site; a likely coordinate error (~11km north of Carlisle Bay) flagged for follow-up but left unchanged pending a verified pinpoint. Lord Combermere's sinking-date conflict expanded from 2 to 3 documented sources (1961 / 1974 / early 1980s). Coconut Court Reef's marine life was regional not site-specific and was stripped; site left validated=true (existing-validation rule) but flagged as short of the 3-source bar (only 2 domains found)."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
     {
       "date": "2026-07-10",
       "slugs": [
