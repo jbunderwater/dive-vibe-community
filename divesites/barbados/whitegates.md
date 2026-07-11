@@ -50,4 +50,4 @@ Hawksbill turtles here are accustomed to divers — maintain the Barbados Marine
 Standard barrier reef dive safety. Moderate currents possible. Maintain awareness of depth at the reef edge. Carry an SMB for boat pickup.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/). Last updated 2026-07-11.*

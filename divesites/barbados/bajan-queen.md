@@ -17,7 +17,7 @@ A former Barbadian tugboat converted into a party cruiser, sunk on 19 May 2002 i
 
 ## Overview
 
-The Bajan Queen began her working life as the Pelican — Barbados's first tugboat, serving the harbour from the 1960s. She was later converted to a party cruise vessel operating out of Bridgetown. On 19 May 2002 she was deliberately sunk in Carlisle Bay Marine Park to add to the bay's growing artificial reef wreck cluster. The 120-foot vessel rests on the sandy bottom at 11 metres (35 feet), with her deck accessible at 4–6 metres. She is one of the larger wrecks in Carlisle Bay and features intact interior spaces including the captain's bridge, hold, and washrooms. Carlisle Bay's sheltered west coast conditions give consistent visibility of 15–20 metres. Water temperature is 26–28°C year-round.
+The Bajan Queen began her working life as the Pelican — Barbados's first tugboat, used during the 1960s construction of Bridgetown's Deep Water Harbour (confirmed independently by Carlisle Bay Barbados and Dive O'Clock). She was later converted to a party cruise vessel operating out of Bridgetown. On 19 May 2002 she was deliberately sunk in Carlisle Bay Marine Park to add to the bay's growing artificial reef wreck cluster. The 120-foot vessel rests on the sandy bottom at 11 metres (35 feet), with her deck accessible at 4–6 metres. She is one of the larger wrecks in Carlisle Bay and features intact interior spaces including the captain's bridge, hold, and washrooms. Carlisle Bay's sheltered west coast conditions give consistent visibility of 15–20 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -56,4 +56,4 @@ Straightforward at 11 metres in calm bay conditions. Fire coral is present. DSMB
 The accessible depth and calm bay conditions make the Bajan Queen suitable for natural-light photography. The intact superstructure, barrel sponges, spadefish schools, and turtle encounters are the main subjects.
 
 ---
-*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/). Last updated 2026-05-17.*
+*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/), [Dive O'Clock](https://www.diveoclock.com/destinations/Caribbean/Barbados/Carlisle/), [Carlisle Bay Barbados](https://carlislebaybarbados.org/shipwrecks/). Last updated 2026-07-11.*

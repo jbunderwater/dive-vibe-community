@@ -17,7 +17,7 @@ A 60-foot steel-hulled water carrier scuttled near Batt's Rock, named after a fo
 
 ## Overview
 
-The Lord Combermere is a 60-foot (18-metre) steel-hulled water carrier that, along with her sister ship the Lord Willoughby, ferried water and supplies to cargo vessels before Bridgetown Harbour was developed. When the pair became obsolete, they were scuttled — the Lord Combermere off Batt's Rock on the west coast. Sources conflict on the precise date: one source (Caribbean Beat) gives 1974, while others cite 1961 for the scuttling of the Lord Willoughby pair. The vessel now sits in approximately 12–15 metres of water, surrounded by fringing coral reef. She is cited as one of the main underwater viewing attractions on Atlantis Submarine tours. Dive Hightide describes her as an excellent site for beginners and refresher training. Caribbean Beat notes that hundreds of copper sweepers inhabit the holds. Visibility is 15–25 metres. Water temperature is 26–28°C.
+The Lord Combermere is a 60-foot (18-metre) steel-hulled water carrier that, along with her sister ship the Lord Willoughby, ferried water and supplies to cargo vessels before Bridgetown Harbour was developed. When the pair became obsolete, they were scuttled — the Lord Combermere off Batt's Rock on the west coast. Sources conflict on the precise scuttling date: Caribbean Beat gives 1974, Ins and Outs of Barbados gives 1961 for the Lord Willoughby pair, and Dive Hightide's own site listing gives yet a third answer — "sunk in the early 1980's." No two sources agree, so the date should be treated as unconfirmed somewhere between the early 1960s and early 1980s rather than a single figure. The vessel now sits in approximately 12–15 metres of water, surrounded by fringing coral reef. She is cited as one of the main underwater viewing attractions on Atlantis Submarine tours. Dive Hightide describes her as an excellent site for beginners and refresher training. Caribbean Beat notes that hundreds of copper sweepers inhabit the holds. Visibility is 15–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 - **Location**: West coast, near Batt's Rock between Bridgetown and Holetown
@@ -46,11 +46,11 @@ Boat dive from Bridgetown or Holetown operators. Short boat ride from most west 
 - Bring a torch to illuminate the hold sections where copper sweepers congregate
 - The surrounding coral reef is worth exploring after the wreck circuit
 - The Atlantis Submarine passes this site regularly — an unusual underwater encounter
-- Sinking date is uncertain between sources (1961 or 1974); the Lord Willoughby sister ship rests about a mile further north
+- Sinking date is uncertain — sources variously give 1961, 1974, or "early 1980s"; the Lord Willoughby sister ship rests about a mile further north
 
 ## Safety Considerations
 
 Accessible wreck dive. Shallow depth and calm west coast conditions pose minimal risk. Avoid entering confined spaces without wreck diving training. Be aware of the Atlantis Submarine passing nearby.
 
 ---
-*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Ins and Outs of Barbados](https://www.insandoutsbarbados.com/articles/the-shipwreck-capital-of-the-caribbean). Last updated 2026-05-17.*
+*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Ins and Outs of Barbados](https://www.insandoutsbarbados.com/articles/the-shipwreck-capital-of-the-caribbean). Last updated 2026-07-11.*

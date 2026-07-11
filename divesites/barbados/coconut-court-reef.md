@@ -33,7 +33,7 @@ Coconut Court Reef lies off the south Barbados coast in the Christ Church parish
 
 ## Marine Life
 
-The reef hosts a typical south coast Caribbean community. Schools of French grunts and blue tangs populate the reef crest. Parrotfish and queen angelfish are resident. Caribbean spiny lobster shelter under reef overhangs. Southern stingrays rest on sandy patches between coral formations. Hawksbill turtle activity on the south coast is lower than on the west coast, but encounters do occur. No site-specific marine life reports were found beyond these general south coast reef species.
+No site-specific marine life reports have been found for this reef. The species listed by Barbados Blue and Barbados.org for the south coast in general — French grunts, blue tangs, parrotfish, queen angelfish, Caribbean spiny lobster, southern stingrays, and occasional hawksbill turtles — are typical of the region's fringing reefs, but none of the available sources confirm sightings at this specific site rather than the south coast generally.
 
 ## Dive Profile
 
@@ -56,4 +56,4 @@ The south coast entry can be affected by surge — abort if waves are significan
 In calm conditions the reef offers natural-light photography for the full depth range. Parrotfish compositions and any turtle encounters are the main subjects when conditions are favourable.
 
 ---
-*Sources: [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/diving.htm). Last updated 2026-05-17.*
+*Sources: [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/diving.htm). Only 2 independent source domains found despite additional 2026-07-11 searches (coconut-court.com's own scuba page has no site-specific detail, and "Carlenes," the named dive site nearest Coconut Court, is a distinct deeper boat site rather than this shore reef) — this falls short of the 3-source bar; treat with more caution than other sites in this destination pending a further source. Last updated 2026-07-11.*

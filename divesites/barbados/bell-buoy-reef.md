@@ -56,4 +56,4 @@ DSMB required for open-water ascent. Moderate current is possible on the exposed
 Bell Buoy Reef's combination of dramatic coral tree formations, gorgonian growth, and good natural light makes it one of Barbados's better reef photography sites. Coral tree close-ups and chromis schools against the reef structure are the defining images. Natural light is excellent throughout the depth range.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm), [Barbados Blue](https://divebarbadosblue.com/scuba-diving/barbados-dive-sites/reef-diving). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm), [Barbados Blue](https://divebarbadosblue.com/scuba-diving/barbados-dive-sites/reef-diving). Last updated 2026-07-11.*

@@ -56,4 +56,4 @@ Do not penetrate enclosed sections without wreck training. The air pocket in the
 At 17 metres in Carlisle Bay's clear water, the Eillon offers good natural light for deck and hull photography. Moray portraits, school-of-sweepers compositions, and the structural details of the engine room are the main subjects.
 
 ---
-*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/). Last updated 2026-05-17.*
+*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/), [Carlisle Bay Barbados](https://carlislebaybarbados.org/shipwrecks/). Last updated 2026-07-11.*

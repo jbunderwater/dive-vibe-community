@@ -50,4 +50,4 @@ Scan the sandy areas carefully for camouflaged peacock flounders and resting sti
 One of Barbados's most relaxed dive sites. Light currents and moderate depth make it very manageable. Standard boat dive safety applies.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-07-11.*

@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # The Barge
 
-A naval landing barge lying in just 4 metres of water on Barbados's west coast — more of a snorkel and introductory diving platform than a conventional dive, but home to puffer fish, reef fish, and good natural light throughout.
+A WWII-era naval landing barge and the shallowest of Carlisle Bay's wreck cluster, lying in just 4 metres of water — more of a snorkel and introductory diving platform than a conventional dive, but home to puffer fish, reef fish, and good natural light throughout.
 
 ## Overview
 
-The Barge is a naval landing vessel that was sunk or grounded in the very shallow inshore water of Barbados's west coast. At 4 metres maximum depth, the entire structure is visible from the surface and accessible to free divers and snorkellers as much as to scuba divers. Dive Hightide and Barbados Blue both list it in their site inventories as a beginners' and introductory option. Barbados Blue notes puffer fish and reef species as residents. The Wanderlusters dive blog describes it as the shallowest Carlisle Bay wreck, though its listed coordinates place it north of Carlisle Bay proper — likely the "Naval Landing Barge" listed by Dive Hightide on the west coast. Visibility averages 15–20 metres when conditions are calm. Water temperature is 26–28°C.
+The Barge is a WWII-era naval landing craft, one of the six (some sources say seven) named wrecks inside Carlisle Bay Marine Park, alongside the Berwyn, Ce-Trek, Eilon, Bajan Queen and others. Carlisle Bay Barbados (the beach park's own site) and Dive Hightide both group it with the bay's wreck trail, and Dive O'Clock lists it as the shallowest of the cluster. At around 4 metres maximum depth, the entire structure is visible from the surface and accessible to free divers and snorkellers as much as to scuba divers. Barbados Blue notes puffer fish and reef species as residents. Visibility averages 15–20 metres when conditions are calm. Water temperature is 26–28°C.
+
+**Data quality note**: this entry's stored coordinates (13.1865, -59.6437) place it well north of Carlisle Bay, near Holetown/Sandy Lane rather than Bridgetown — inconsistent with every source above, which places "The Barge" inside Carlisle Bay (~13.08-13.09). This looks like a geocoding error inherited from the original OSM extended scrape rather than a genuinely distinct west-coast site. The description above follows the sourced identification (Carlisle Bay); the coordinates have not been changed pending a verified pinpoint and should be treated as unreliable for mapping purposes.
 
 ## Site Information
 
@@ -41,7 +43,7 @@ Boat entry into shallow water adjacent to the barge. The entire structure at 1�
 
 ## Entry and Exit
 
-Boat dive from west coast operators. Typically offered as an add-on experience for beginners or snorkellers rather than a standalone dive destination.
+Boat dive from Carlisle Bay operators, typically as part of a multi-wreck bay tour. Often offered as an add-on experience for beginners or snorkellers rather than a standalone dive destination.
 
 ## Tips and Recommendations
 
@@ -56,4 +58,4 @@ The extreme shallowness creates no decompression risk, but any boat above is ver
 Ultra-shallow depth and good visibility make this a natural-light photography site. Puffer fish, parrotfish on the encrusted barge, and the barge structure against the clear blue water are the main subjects.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/), [Carlisle Bay Barbados](https://carlislebaybarbados.org/shipwrecks/). Last updated 2026-07-11.*
