@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Bulakan
 
-Known as Ghost Bay — one of Amed's best muck dive sites, where garden eels, flying gurnard, and frogfish inhabit the black volcanic sand.
+A quiet, seldom-visited muck and macro dive site in the Kubu/Tulamben-area black sand corridor west of Amed proper, centered on a coral bommie that hosts a dense concentration of critters.
 
 ## Overview
 
-Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sites in the Amed area, situated on the black volcanic sand coastline of northeast Bali. Unlike the classic Amed coral reef sites, Bulakan is characterised by an open sandy bay where the substrate is alive with small burrows, scattered rubble, and sparse coral patches. Garden eels extend from the sand in large colonies, retracting as divers approach. Flying gurnard — a striking fish that spreads its wing-like pectoral fins when disturbed — are a highlight. Blue-spotted stingrays, frogfish, mantis shrimp, and an exceptional diversity of nudibranchs make this a must-visit for underwater photographers.
+**Correction from previous validation pass:** this site was previously described in this file as "known as Ghost Bay," with flying gurnard and garden eel colonies as its headline species. During this audit, neither of the two previously-cited sources (baliaqua.com, ameddiveexplorer.com) could be found to mention "Bulakan" by name anywhere on their sites. The "Ghost Bay" name, flying gurnard, and garden eel colonies are well documented — but for a *different*, better-known site of that name located roughly 3-4 km away near Amed Dive Center and North Seraya. Bulakan itself sits in the black-sand muck corridor between Batu Belah and Kubu, closer to Tulamben, and is listed by name in only one genuinely site-specific source found during this audit (a DivePhotoGuide feature on Bali's top dive sites). Rather than continue the apparent conflation, the description below has been rewritten to include only what that source specifically reports for Bulakan; unconfirmed claims have been removed.
+
+Bulakan centers on a coral bommie at roughly 21 meters (70 feet) on an otherwise sandy/rubble slope typical of this stretch of coast. The site is rarely crowded — divers who have logged it report never encountering another dive boat there. It rewards slow, macro-focused exploration of the bommie and surrounding substrate rather than a big-animal drift dive.
 
 ## Site Information
 
@@ -32,23 +34,23 @@ Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sit
 
 ## Marine Life
 
-Garden eels in large sandy colonies. Flying gurnard — spread their elaborate pectoral fins when approached. Blue-spotted stingrays partially buried in the sand. Frogfish in various colour forms. Mantis shrimp at burrow entrances. Diverse nudibranchs throughout the rubble zone. Cuttlefish hunt over the sand, and ghost pipefish are found among sparse algae growth.
+Confirmed at this specific site: longnose hawkfish (typically sheltering in sea fans/gorgonians near the bommie), tiny frogfish in various color forms, dense shoals of glassfish, blue ribbon eels, cardinalfish (including individuals seen mouth-brooding eggs), boxer crabs, and a range of nudibranch species. **Flying gurnard, garden eel colonies, mantis shrimp, cuttlefish, and ghost pipefish — present in the previous version of this page — could not be confirmed for Bulakan specifically** and have been removed; those species are well documented at the separate "Ghost Bay" site near North Seraya, which this site was likely confused with.
 
 ## Dive Profile
 
-Descend to the sandy bottom at 8–25 m and move slowly across the substrate. Approach garden eel colonies gradually to get close before they retract. When a flying gurnard is located, circle slowly to encourage it to spread its fins for photography. Cover the site systematically in a back-and-forth pattern with the guide, who will point out located critters.
+Descend to the bommie area, which sits at approximately 21 m (70 ft) on the sandy/rubble slope. Work the bommie and surrounding substrate slowly and systematically with a macro setup — the appeal here is the density of small subjects on a single structure rather than covering a wide area. A guide familiar with the specific site is valuable for locating cryptic species like boxer crabs and ribbon eels.
 
 ## Entry and Exit
 
-Boat dive from Amed. Short transit, typically 5–10 minutes. Entry via back roll or giant stride. Currents are minimal. Communicate with the boat crew for pickup location after the drift dive if current is running.
+Boat dive; exact transit time from Amed was not confirmed by available sources. Entry via back roll or giant stride is standard practice for boat-based muck/macro sites in this area. No site-specific current or pickup-procedure information was found — follow your guide's briefing.
 
 ## Tips and Recommendations
 
-- Approach garden eel colonies very slowly at eye level for the best viewing distance
-- Specifically ask your guide to locate a flying gurnard — it is the iconic species here
-- Carry a small torch even during the day to illuminate crevices and burrows
-- Combining with the Pyramids site in the morning creates an ideal Amed diving day
-- Dusk and dawn dives produce the most active critter behaviour on the sand
+- This is a bommie-focused macro dive — bring a dedicated macro lens or diopter rather than expecting wide sandy vistas
+- Ask your guide to point out longnose hawkfish in the sea fans and any ribbon eels around the bommie
+- Carry a small torch even during the day to illuminate crevices
+- Because the site sees little boat traffic, it can be a good choice when other Amed sites are crowded
+- Regional Amed muck fauna (blue-spotted stingrays, ghost pipefish, mantis shrimp, etc.) may be present but has not been specifically confirmed for this site — treat sightings of those as a bonus, not a guarantee
 
 ## Safety Considerations
 

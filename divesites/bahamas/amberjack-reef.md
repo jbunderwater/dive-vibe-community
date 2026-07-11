@@ -31,7 +31,7 @@ This compact patch reef — roughly 50 feet in length — punches well above its
 
 ## Marine Life
 
-Up to 10 Caribbean reef sharks are commonly seen circling the reef, alongside nurse sharks resting on the sandy bottom. Large groupers — black grouper, yellowmouth grouper, and yellowfin grouper — are resident on the reef structure. Eagle rays make regular appearances. The sandy seafloor between coral heads is home to garden eels swaying in the current. Lobsters are abundant due to the no-take protections. Smaller residents include pirate blennies and various reef fish.
+Re-confirmed on re-audit: up to 10 Caribbean reef sharks are commonly seen circling the reef, alongside nurse sharks, and black, yellowmouth, and yellowfin grouper are resident — this is consistently reported across independent sources and is the best-documented shark/grouper combination of any Exuma park site in our data. Eagle rays are also reported. The claims of garden eels, lobster abundance, and "pirate blennies" could not be independently re-confirmed on this pass; garden eels and lobster likely occur given the no-take protections and sandy substrate typical of the park, but are noted here as plausible rather than confirmed.
 
 ## Dive Profile
 

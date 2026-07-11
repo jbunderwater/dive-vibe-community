@@ -31,11 +31,11 @@ The Glass Window Bridge dive site sits just east of the famous land bridge on No
 
 ## Marine Life
 
-Large groupers are resident in the boulder crevices and overhang areas. The sheltered crack and tunnel formations attract an assortment of reef fish, invertebrates, and small shark species. The relatively protected Caribbean side of the site supports healthy coral growth with typical Bahamian reef fish communities.
+Large groupers resident in the boulder crevices are the one marine life detail confirmed by a site-specific source (Zentacle). Beyond that, no source reviewed named specific additional species — reef fish and invertebrates are plausible in this crevice/boulder habitat given the regional Bahamian reef fauna, but no site-specific report was found confirming particular species, so none are named here.
 
 ## Dive Profile
 
-A shallow dive well within beginner certification limits. The site is more about exploring the boulder landscape than depth. Penetrate the cracks and tunnels with a torch to find resident groupers and resting fish. Visibility is typically good on the protected Caribbean side of the bridge. Be aware that surge from Atlantic swells can build quickly in the crevice areas.
+A shallow dive well within beginner certification limits (confirmed max depth 8 m / 26.2 ft per Zentacle). The site is more about exploring the boulder landscape than depth. Explore the cracks and tunnels with a torch to look for resident groupers. Be aware that surge from Atlantic swells can build quickly in the crevice areas — this is a site where surface and weather conditions matter more than depth.
 
 ## Entry and Exit
 
@@ -49,7 +49,7 @@ Boat dive. Work with a local North Eleuthera dive operator who can assess condit
 
 ## Safety Considerations
 
-**Important:** Glass Window Bridge is subject to sudden Atlantic "rage waves" — enormous waves driven by distant storms that surge over the narrow rock bridge. Check weather forecasts for Atlantic swell carefully before any visit, surface or underwater. Even modest Atlantic swells can be amplified in the narrow channel between the two bodies of water.
+**Important:** Glass Window Bridge is well documented as subject to sudden Atlantic "rage waves" — enormous waves driven by distant storms, some historically reported up to 100 feet, that surge over the narrow rock bridge with no warning even under clear skies. This surface hazard is confirmed by multiple independent sources, including a documented 1991 rage that shifted the bridge itself and a fatality reported near the site. There is no dedicated source confirming underwater current strength at the dive site itself (as opposed to the surface rage-wave hazard), so avoid over-stating in-water current — check conditions with a local operator before diving. Check weather forecasts for Atlantic swell carefully before any visit, surface or underwater.
 
 ---
-*Sources: [Zentacle - Glass Window Bridge](https://www.zentacle.com/Beach/3566/glass-window-bridge), [Bahamas.com - Glass Window Bridge](https://www.bahamas.com/natural-wonders/glass-window-bridge), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*
+*Sources: [Zentacle - Glass Window Bridge](https://www.zentacle.com/Beach/3566/glass-window-bridge), [Bahamas.com - Glass Window Bridge](https://www.bahamas.com/natural-wonders/glass-window-bridge), [Eleuthera-Map.com - Glass Window Bridge / Rage Waves](https://www.eleuthera-map.com/glass-window-bridge-eleuthera.htm). Last updated 2026-07-11.*

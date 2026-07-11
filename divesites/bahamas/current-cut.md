@@ -39,7 +39,7 @@ The incoming tide provides the best visibility and the preferred dive direction.
 
 ## Entry and Exit
 
-Drift dive by boat. The boat drops divers at one end and moves to the other end to collect them as they surface. This is a one-way dive — there is no swimming back against the current. Work exclusively with local operators who know the 20-minute tidal window precisely.
+Drift dive by boat. The boat drops divers at one end and moves to the other end to collect them as they surface. This is a one-way dive — there is no swimming back against the current. Work exclusively with local operators who know the tidal timing precisely.
 
 ## Tips and Recommendations
 

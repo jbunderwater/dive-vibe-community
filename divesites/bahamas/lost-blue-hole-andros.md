@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Lost Blue Hole Andros
 
-One of hundreds of blue holes surrounding Andros Island — a circular marine sinkhole accessible by boat that offers a unique Bahamian blue hole experience in the shallow waters of the Andros barrier reef system.
+One of hundreds of blue holes surrounding Andros Island — a circular marine sinkhole in the shallow waters of the Andros barrier reef system. **Naming caveat (2026-07-11 re-audit): see note below.**
 
 ## Overview
 
-Andros Island has more blue holes per square kilometre than anywhere else on Earth — there are hundreds on land and offshore. Lost Blue Hole is one of the accessible offshore sinkholes on the vast, flat Andros reef shelf, reachable by dive boat from the lodges and operators on the island. The hole drops from the shallow shelf depth to 30 meters, with the classic blue hole profile of narrow entrance widening into a larger chamber. Andros's blue holes are part of an extensive cave system that extends under the island and is connected to the ocean through tidal breathing — some of the holes flow in or out with the tides. The visibility in the offshore holes is excellent: 25–35 meters in clear Bahamas water.
+Andros Island has more blue holes per square kilometre than anywhere else on Earth — Andros hosts roughly 200 blue holes, the largest concentration in the world, formed when Pleistocene-era sea-level drops exposed limestone bedrock that was carved into cave systems by acidic groundwater and later flooded as seas rose. Andros's offshore blue holes generally connect to the ocean through tidal exchange, and depths across the island's blue holes typically range from about 30 to 60 meters, with some documented shafts reaching much deeper. Visibility in the offshore holes is generally excellent.
+
+**Important naming/identity note:** research for this re-audit could not confirm a specifically-named "Lost Blue Hole" site in Andros. A real, well-documented dive site called "Lost Blue Hole" exists in the Bahamas — but multiple independent sources (Zentacle, Scuba Spot Advisor, DiveSSI, DiveJourney, TripAdvisor reviews of Nassau-based operator Bahama Divers) place it off **Rose Island, near Nassau/New Providence** — roughly 16 km (10 miles) from Nassau — not off Andros. That site has its own documented profile (entrance around 13–14 m, ~25–30 m diameter, small cave at ~22 m, floor around 52–90 m depending on source). None of those sources describe an Andros location, and none of the general Andros blue-hole sources consulted here (Discovery Channel, ExplorersWeb, My Out Islands) name a site called "Lost Blue Hole" in Andros specifically. This entry's coordinates place it in the Andros area, so either this is a distinct, less-documented Andros blue hole that has been mislabeled with the Nassau site's name, or the location itself needs correction. Flagging for human review rather than guessing. The description below is therefore written conservatively, using only generic, well-sourced Andros blue-hole characteristics rather than site-specific claims.
 
 ## Site Information
 
@@ -33,11 +35,11 @@ Andros Island has more blue holes per square kilometre than anywhere else on Ear
 
 ## Marine Life
 
-The blue hole environment supports a specialised community. The upper section (0–15 m) has a typical Andros reef community — parrotfish, angelfish, and blue tang from the adjacent shelf reef. The transition zone (15–25 m) is where the halocline (saltwater/freshwater interface) creates the characteristic blue hole visual distortion and the upper limit of the hole's cave fauna. Below the halocline, visibility improves dramatically to crystal-clear salt water. Caribbean spiny lobster cluster near the halocline. Nurse sharks are frequently found resting on the ledges within the hole.
+No site-specific marine life reports were found for this exact site. Generically, Andros's offshore blue holes and surrounding shelf reef are known to host typical Bahamian reef fish (parrotfish, angelfish, blue tang) and, in some Andros blue holes, halocline layers (saltwater/freshwater interfaces) that create visual distortion — but no source confirmed which species are actually seen at this specific hole. The previous description's claims of spiny lobster and nurse sharks at this site are unconfirmed and have been removed.
 
 ## Dive Profile
 
-Descent from the boat to the hole entrance at 3–5 meters, then controlled descent through the halocline at 15–20 meters to the clear saltwater below. The halocline creates a visible shimmering boundary and water temperature drop. Advanced divers explore the saltwater section to 30 meters while intermediate divers hover at the halocline for the visual experience before ascending.
+Generic Andros blue-hole profile only (not confirmed for this specific site): descent from the boat to the hole entrance in shallow water, then a controlled descent toward the deeper chamber, with many Andros holes exhibiting a halocline layer partway down. Divers should follow local operator guidance for this specific site's actual profile, which has not been independently verified here.
 
 ## Entry and Exit
 
@@ -45,7 +47,7 @@ Boat dive from Andros-based operators. Entry by giant stride from the boat. The 
 
 ## Tips and Recommendations
 
-The halocline is the defining visual experience of a blue hole dive — the shimmering boundary between the upper murky layer and the crystal-clear saltwater below is dramatic and disorienting at first encounter. Avoid strong finning through the halocline as it disturbs the layers and reduces the visual effect. Andros operators know which holes are currently most accessible and most spectacular — follow local guidance rather than relying on general maps.
+Where a halocline is present, it is typically the defining visual experience of a Bahamian blue hole dive. Andros operators know which holes are currently most accessible — follow local guidance rather than relying on general maps, especially given the naming uncertainty flagged above for this specific entry.
 
 ## Safety Considerations
 
@@ -61,4 +63,4 @@ The halocline is the primary photographic attraction of Andros blue holes — th
 - Andros dive operators: guide divers to the most accessible and scenic blue holes on the shelf
 
 ---
-*Sources: [Scuba Diving Magazine - Diving Inland Blue Hole Cave System Andros](https://www.scubadiving.com/travel/bahamas/diving-inland-blue-hole-cave-system), [Discovery Channel - Andros Blue Holes](https://www.discovery.com/exploration/Andros-Bahamas-Blue-Holes), [Explorers Web - Blue Holes of Andros](https://explorersweb.com/a-guide-to-the-blue-holes-of-the-bahamas-andros-island/), [My Out Islands - Diving Blue Holes](https://www.myoutislands.com/things-to-do-in-the-bahamas/bahamas-diving/diving-blue-holes). Last updated 2026-05-17.*
+*Sources (general Andros blue-hole background only — no source confirms a specifically-named "Lost Blue Hole" site in Andros; the real "Lost Blue Hole" is documented off Rose Island near Nassau, see note above): [Discovery Channel - Andros Blue Holes](https://www.discovery.com/exploration/Andros-Bahamas-Blue-Holes), [Explorers Web - Blue Holes of Andros](https://explorersweb.com/a-guide-to-the-blue-holes-of-the-bahamas-andros-island/), [My Out Islands - Diving Blue Holes](https://www.myoutislands.com/things-to-do-in-the-bahamas/bahamas-diving/diving-blue-holes), [Zentacle - Lost Blue Hole (Nassau/New Providence, distinct site)](https://www.zentacle.com/Beach/3168/lost-blue-hole). Last updated 2026-07-11.*

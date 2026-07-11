@@ -32,7 +32,7 @@ Batu Belah is a reef dive site in the Amed area of northeast Bali, accessible di
 
 ## Marine Life
 
-Schools of snappers, platax (batfish), and fusiliers are the most characteristic large-group species. Tuna are seen in blue water adjacent to the reef. Nudibranchs, crabs, and mantis shrimp inhabit the substrate. Giant frogfish and leaf scorpionfish — rare species that can be difficult to locate — have been confirmed at this site. The productive Lombok Strait waters support rich fish diversity throughout the reef structure.
+Schools of snappers, platax (batfish), and fusiliers are the most characteristic large-group species. Tuna are seen actively hunting in blue water adjacent to the reef. Nudibranchs, crabs, and mantis shrimp inhabit the substrate. Purple leaf scorpionfish and giant frogfish — both described by local operators as rare, notable finds — have been confirmed at this site, along with blue-spotted stingrays, green turtles, and Javanese and ribbon moray eels. Barracudas are also reported passing through. The productive Lombok Strait waters support rich fish diversity throughout the reef structure.
 
 ## Dive Profile
 
@@ -57,4 +57,6 @@ Currents are generally mild with occasional moderate periods. Maintain good buoy
 Both macro and reef-scene photography are rewarding here. The frogfish and leaf scorpionfish are prime macro subjects. Schools of snappers and fusiliers against the reef structure suit wide-angle. Natural light is generally good given the shallow-to-mid depth range.
 
 ---
-*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [PADI - Batu Belah](https://www.padi.com/dive-site/indonesia/batu-belah/), [Dive Navigator - Batu Belah](https://www.divenavigator.com/dive-sites/indonesia/batu-belah). Last updated 2026-05-17.*
+*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [Dive Navigator - Batu Belah](https://www.divenavigator.com/dive-sites/indonesia/batu-belah), [Dive Concepts - Batu Belah](https://diveconcepts.com/bali/spot-batu-belah.php). Last updated 2026-07-11.*
+
+*Note: The PADI listing previously cited as a source for this site (padi.com/dive-site/indonesia/batu-belah/) was re-checked during this audit and describes a different dive site of the same name located near Gili Meno (a 35m boat-only site with pinnacles, canyons, and sightings of sharks/whales/dolphins) — it does not match this Amed/Tulamben-area Batu Belah and has been removed as a source.*

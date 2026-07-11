@@ -17,7 +17,7 @@ Arguably the finest dive at Menjangan Island — a dramatic wall with cave entra
 
 ## Overview
 
-Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali National Park, and is widely regarded as the island's best dive. Small bats inhabit the caves at the waterline, giving the site its name; the underwater cave crevasses begin at around 9 metres and are a haven for invertebrates and critters. The wall drops vertically to beyond 40 metres and is draped in gorgonian sea fans, whip corals, and large barrel sponges. Strong head-on currents sweep in nutrient-rich water, producing dense fish aggregations throughout the water column. The site typically serves as the continuation dive from Pos 2, with divers drifting west along the wall until they reach the cave entrances.
+Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali National Park, and is regarded by several operators as one of the island's best dives. Small bats inhabit the caves at the waterline, giving the site its name; the underwater cave crevasses begin at around 9–12 metres. The wall drops to 35–40 metres and is draped in gorgonian sea fans, whip corals, and large barrel sponges. Multiple operators note this is a deeper, more current-exposed site than the other Menjangan walls — one dive shop specifically recommends it for divers with Advanced certification or a deep specialty, which is worth factoring into planning even though our records classify it as Intermediate. The site is often dived as a continuation from Pos 2, with divers drifting west along the wall until they reach the cave entrances.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali Na
 
 ## Marine Life
 
-Cave crevasses shelter nudibranchs, electric clams, moray eels, and small crustaceans. The open wall hosts schools of bluefin trevally, bigeye trevally, and fusiliers. Blacktip reef sharks patrol the deeper sections, and octopus are commonly spotted in overhangs. Pygmy seahorses hide in the gorgonians between 20–30 m, and the occasional whale shark has been reported drifting past during certain seasons.
+Cave crevasses shelter nudibranchs, electric clams, moray eels, and small crustaceans. The open wall hosts schools of tuna, jacks, pompano, fusiliers, and both bigeye and bluefin trevally, along with barracuda. Both blacktip and whitetip reef sharks patrol the deeper sections — this is confirmed independently by two separate dive operators — and octopus are commonly spotted in overhangs. **Pygmy seahorses are not confirmed at this site.** Despite being a well-documented Menjangan highlight elsewhere (notably at Pos 2 and Eel Garden), none of the operator listings specific to Bat Cave mention pygmy seahorses, so this claim has been removed. A single source mentioned occasional whale shark sightings; since no second source corroborates this, treat it as unconfirmed rather than a site expectation.
 
 ## Dive Profile
 

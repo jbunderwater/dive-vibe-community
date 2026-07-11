@@ -31,7 +31,7 @@ The site takes its name from a coral-encrusted Jeep that lies on the reef, now s
 
 ## Marine Life
 
-The park's no-take protections have allowed fish populations to recover fully. Divers commonly encounter Caribbean reef sharks, nurse sharks, southern stingrays, spotted eagle rays, large black grouper, yellowfin grouper, and yellowmouth grouper. Barracuda patrol the upper reef, and lobsters are plentiful on the reef structure. The sandy bottom areas host garden eels.
+Re-audit correction: the shark/stingray/eagle-ray list previously here was not site-specific to Jeep Reef — it duplicated species confirmed for nearby Amberjack Reef and has been removed. Sources specific to Jeep Reef describe the coral-encrusted Jeep itself as home to lobsters, sea slugs, porcupinefish, and squirrelfish, with Nassau grouper resident on the surrounding reef. Beyond these, the Exuma Cays Land and Sea Park's no-take protections support generally dense and healthy Caribbean reef fish populations, but no source confirmed sharks, stingrays, eagle rays, or barracuda specifically at Jeep Reef.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ All diving here is by boat. Most divers visit on organised day trips from Stanie
 Currents can build quickly in the Exuma Cays. Plan your dive profile around the tidal cycle and carry a surface marker buoy (SMB). Boat traffic in the cays can be significant during peak season.
 
 ---
-*Sources: [Diveboard - Jeep Reef](https://www.diveboard.com/explore/spots/bahamas/pimlico-cay-exumas-L4fMqzj/jeep-reef-S6nGw57), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Yachts Bahama Charters - Wall Diving in the Exumas](https://www.yachtsbahamacharters.com/blog/the-thrill-of-wall-diving-top-5-scuba-dive-sites-in-the-exumas/). Last updated 2026-05-17.*
+*Sources: [Diveboard - Jeep Reef](https://www.diveboard.com/explore/spots/bahamas/pimlico-cay-exumas-L4fMqzj/jeep-reef-S6nGw57), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Yachts Bahama Charters - Wall Diving in the Exumas](https://www.yachtsbahamacharters.com/blog/the-thrill-of-wall-diving-top-5-scuba-dive-sites-in-the-exumas/), [Uncommon Caribbean - Get Wild With The Sharks of Amberjack Reef, Exuma](https://www.uncommoncaribbean.com/exuma/get-wild-sharks-amberjack-reef-exuma/) (cross-reference for marine life correction). Re-audited 2026-07-11: marine-life list corrected to site-specific species; generic shark/ray list removed. Last updated 2026-07-11.*

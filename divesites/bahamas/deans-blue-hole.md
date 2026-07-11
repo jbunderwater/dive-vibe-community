@@ -61,4 +61,4 @@ Dean's Blue Hole is one of the most photographed natural formations in the Baham
 - Long Island, Bahamas: accessible by flight from Nassau to Deadman's Cay Airport
 
 ---
-*Sources: [Wikipedia - Dean's Blue Hole](https://en.wikipedia.org/wiki/Dean%27s_Blue_Hole), [Atlas Obscura - Dean's Blue Hole](https://www.atlasobscura.com/places/deans-blue-hole), [Bahamas Air Tours - Dean's Blue Hole](https://www.bahamasairtours.com/deans-blue-hole-long-island-bahamas/), [Scuba.com - Freediving Haven Dean's Blue Hole](https://www.scuba.com/blog/free-diving-haven-deans-blue-hole-bahamas/). Last updated 2026-05-17.*
+*Sources: [Wikipedia - Dean's Blue Hole](https://en.wikipedia.org/wiki/Dean%27s_Blue_Hole), [Atlas Obscura - Dean's Blue Hole](https://www.atlasobscura.com/places/deans-blue-hole), [Amusing Planet - Dean's Blue Hole](https://www.amusingplanet.com/2014/02/dean-blue-hole-world-deepest-blue-hole.html), [Scuba.com - Freediving Haven Dean's Blue Hole](https://www.scuba.com/blog/free-diving-haven-deans-blue-hole-bahamas/), [Freediving New Zealand - Will Trubridge 102m](http://freediving.co.nz/will-trubridge-102m/). Last updated 2026-07-11.*

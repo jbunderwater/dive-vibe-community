@@ -17,7 +17,7 @@ A vibrant shallow reef on the north side of Menjangan Island, rich with hard and
 
 ## Overview
 
-Coral Garden occupies the northern coastline of Menjangan Island within West Bali National Park, beginning at 5 m and sloping steeply to over 40 m. The reef is celebrated for the density and health of its hard and soft corals — colourful gorgonian fans, table corals, and large barrel sponges create a kaleidoscopic underwater landscape. Cleaning stations attract larger fish, while shallow sections between 5–12 m host clownfish in their anemones alongside titan triggerfish and scorpionfish. The protected location within the national park means the reef has been largely undisturbed, making it one of the most pristine coral environments in Bali.
+Coral Garden occupies the northern coastline of Menjangan Island within West Bali National Park. Local operators describe a slope beginning around 5–10 m, with some reporting the reef extending to 30–40 m; our data records a 20 m maximum, so treat the deeper figure as a range rather than a fixed number. The site is actually made up of several adjoining slopes, sometimes described as "four different dive sites" strung together, celebrated for the density of hard and soft coral, gorgonian fans, and sponges. Numerous cleaning stations attract larger fish, while shallow sections host clownfish in their anemones alongside titan triggerfish and scorpionfish. The protected location within the national park means the reef has been largely undisturbed, making it one of Bali's healthier coral environments.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Coral Garden occupies the northern coastline of Menjangan Island within West Bal
 
 ## Marine Life
 
-Clownfish and their host anemones are found throughout the shallows. Bigeye trevally, titan triggerfish, and scorpionfish are common. Deeper sections host stingrays, sea turtles, garden eels in sandy patches, and large grouper. Nudibranchs are plentiful on the reef rubble, and pygmy seahorses have been found in the gorgonians. Sharks — particularly whitetip reef sharks — are occasionally seen below 20 m.
+Clownfish and their host anemones are found throughout the shallows. Bigeye and bluefin trevally, titan triggerfish, and scorpionfish are common, and schools of mackerel pass through periodically. Deeper sections host stingrays and sea turtles (both green and hawksbill are reported), with giant grouper occasionally passing by. Nudibranchs are plentiful on the reef rubble, and pygmy seahorses have been reported on the gorgonian fans. Reef sharks are occasionally seen, though sources disagree on species — some report blacktip, others describe them simply as "reef sharks" — so treat sightings as opportunistic rather than a guaranteed encounter. Note: garden eels, previously listed for this site, are not confirmed here by any source we found; that species is specific to Menjangan's dedicated Eel Garden site further west.
 
 ## Dive Profile
 
@@ -47,7 +47,7 @@ Reach Menjangan Island by boat from Labuhan Lalang, northwest Bali. Entry via ba
 - An excellent site for new divers and underwater photographers at any experience level
 - The shallow reef between 5–12 m is ideal for beginners and snorkellers
 - Look for scorpionfish resting motionless on coral heads — they are well camouflaged
-- Check sandy patches at the base of the slope for garden eels and stingrays
+- Check sandy patches at the base of the slope for stingrays
 - Pair with a dive at Bat Cave or Pos 2 for a full-day Menjangan experience
 
 ## Safety Considerations
@@ -59,4 +59,4 @@ Titan triggerfish nest in the shallow sections — give them a wide berth, espec
 Coral Garden is one of Bali's best underwater photography sites. The shallow, bright reef provides excellent natural light for wide-angle shots of coral formations and fish schools. Look for clownfish portrait opportunities in the anemones, and explore the deeper gorgonians for pygmy seahorses and nudibranchs with a macro lens.
 
 ---
-*Sources: [Menjangan Island Trip - Diving](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Menjangan Island Trip - Diving](https://menjanganislandtrip.com/menjangan-island/), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [Mimpi Resort - Menjangan Dive Sites](https://mimpi.com/en/resort/boutique/bali/menjangan/dive-snorkeling/dive-sites/), [Nico Dives Cool Bali - Menjangan](https://nicodivescoolbali.com/go-diving/day-trips/menjangan/). Last updated 2026-07-11.*
