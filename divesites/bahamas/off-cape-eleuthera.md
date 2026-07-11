@@ -49,7 +49,7 @@ This site is reachable by shore or by boat, per Zentacle's site-specific listing
 
 ## Safety Considerations
 
-The deep drop-off makes depth monitoring critical. Advanced current conditions are possible on exposed sections of the wall. Complete a proper safety stop and carry an SMB. Advanced certification is recommended for divers planning to descend beyond 20 meters on the wall.
+Depth monitoring remains important on any wall dive since the bottom drops away rather than leveling off. Moderate to strong current is possible on exposed sections of the regional wall system, per operator descriptions of the area. Complete a proper safety stop and carry an SMB.
 
 ---
-*Sources: [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/), [Scuba Diving Magazine - Eleuthera and Exuma Cays Liveaboard](https://www.scubadiving.com/article/other/mild-and-wild-exploring-bahamas-eleuthera-and-exuma), [Zentacle - Off Cape Eleuthera](https://www.zentacle.com/). Note: sources describe Cape Eleuthera's wall diving region generally; no write-up specific to this exact pin was found. Last updated 2026-07-11.*
+*Sources: [Zentacle - Off Cape Eleuthera](https://www.zentacle.com/Beach/8382/off-cape-eleuthera), [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/), [Scuba Diving Magazine - Eleuthera and Exuma Cays Liveaboard](https://www.scubadiving.com/article/other/mild-and-wild-exploring-bahamas-eleuthera-and-exuma). Note: the Zentacle listing is the only source found specific to this exact pin; other sources describe the Cape Eleuthera wall diving region generally. Last updated 2026-07-11.*
