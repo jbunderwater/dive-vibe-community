@@ -27,42 +27,43 @@ Sources disagree somewhat on the peak season: Epic Diving's own pages give both 
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 4–8 m |
-| Difficulty | Intermediate |
+| Depth Range | 6–9 m (hovering in open water; ocean floor 1,000+ m below) |
+| Difficulty | Advanced |
 | Entry Type | Boat |
-| Site Type | Reef |
-| Visibility | 25–35 m |
-| Current | Light |
-| Water Temp | 25–28°C |
+| Site Type | Drift (blue-water) |
+| Visibility | 20+ m typical (70+ ft reported in peak season by Dive Ninja Expeditions) |
+| Current | Open-ocean drift |
+| Water Temp | 24–27°C (75–80°F per Dive Ninja Expeditions) |
 
 ## Marine Life
 
-Oceanic whitetip sharks are the primary attraction during April and May — identifiable by their distinctive rounded, white-tipped fins and pectoral fins broad as wings. These are genuinely pelagic animals; their seasonal concentration at Cat Island is exceptional and follows the annual tuna migration. Caribbean reef sharks are present year-round and are typically encountered on every dive. Sources report that the whitetips are generally slow-moving and stay near the surface, making them relatively approachable in clear conditions. The shallow, sandy bottom supports nurse sharks and southern stingrays.
+Oceanic whitetip sharks are the confirmed primary attraction, cross-confirmed by every source consulted — identifiable by their distinctive rounded, white-tipped, wing-like pectoral fins. Caribbean reef sharks are also confirmed at Cat Island by multiple sources (Big Fish Expeditions, Epic Diving), typically seen when drifting closer to shore rather than in the open blue water. Silky and dusky sharks are confirmed by two independent sources (Big Fish Expeditions, DiveAdvice/Epic Diving) as regularly encountered alongside the whitetips. Great hammerheads, tiger sharks, and blue sharks are reported by multiple sources as occasional/sometimes sightings rather than reliable ones — included here with that caveat. **Removed from the prior version:** nurse sharks and southern stingrays. No source found in this audit places either species at this specific site, and neither fits the open blue-water drift profile documented here (both are bottom-associated species, and this is not a bottom dive). A single source (Epic Diving) mentioned whale sharks in passing; that claim is not repeated here as it was not cross-confirmed by a second source.
 
 ## Dive Profile
 
-Divers descend to the sandy bottom at 4–8 meters and remain stationary. Oceanic whitetips are inquisitive and will typically approach closely within minutes of descent. The dive proceeds as an open-water encounter with sharks approaching from all directions. Divemasters position themselves to manage shark approaches. Bottom time is generous given the shallow depth.
+This is a blue-water drift dive, not a bottom dive. Divers enter and descend to roughly 6–9 meters, holding that depth near a drift line or buoy while the boat and divers drift together over open ocean — there is no reef or sand to reference. Oceanic whitetips are reported as inquisitive and will typically approach within minutes. Divemasters position themselves to manage shark approaches. Strong buoyancy control is required to hold depth without a bottom reference, per Dive Ninja Expeditions and Big Fish Expeditions.
 
 ## Entry and Exit
 
-Boat dive from Cat Island operators — primarily Epic Diving (based at Hawk's Nest Resort) which specialises in the oceanic whitetip expeditions, or via liveaboard visiting the island. Cat Island requires flights from Nassau (approximately 1 hour by small aircraft). Entry by giant stride. DSMB required for surface pickup.
+Boat dive from Cat Island operators — Epic Diving (based at Hawk's Nest Resort) is the longest-running operator (diving Cat Island since 2010 per their own site), alongside Big Fish Expeditions and Dive Ninja Expeditions. Cat Island requires flights from Nassau (roughly 1 hour by small aircraft). Entry by giant stride onto open water, not a reef. DSMB/drift line required for surface pickup given the blue-water format.
 
 ## Tips and Recommendations
 
-Oceanic whitetips behave differently from Caribbean reef sharks — they are more persistent and investigative, and will return repeatedly to investigate divers. Maintain calm positioning and avoid sudden movements. Do not extend hands toward approaching sharks. The experience of a true pelagic species at recreational diving depth is unique to very few sites worldwide — Cat Island is a pilgrimage destination for shark divers who have already experienced Nassau and Tiger Beach.
+Oceanic whitetips behave differently from Caribbean reef sharks — they are more persistent and investigative, and multiple sources describe them returning repeatedly to investigate divers. Maintain calm positioning and avoid sudden movements. This is an advanced, no-cage, open-ocean dive — sources are consistent that prior shark-diving experience and strong buoyancy skills are expected, not just a certification card.
 
 ## Safety Considerations
 
-Oceanic whitetips are the species most historically associated with open-ocean shipwreck attacks, though their behaviour in a shallow recreational setting with experienced divemasters is generally manageable. Strictly follow all operator briefings. Do not wear high-contrast black-and-yellow dive gear, which can attract shark attention. DSMB mandatory.
+This is an open-ocean drift dive with large predatory sharks and no cage, per every operator source consulted. Strictly follow all operator briefings. Maintain depth and stay with the group and drift line — there is no bottom to orient to if separated. Oceanic whitetips are historically associated with open-ocean encounters with shipwreck and plane-crash survivors; the operator-managed dive here is a different, controlled context, but this is not a risk-free activity and should not be described as such.
 
 ## Photography
 
-Oceanic whitetip photography is the primary goal. The broad pectoral fins and rounded nose create a distinctive silhouette — position at the same depth as the shark, not above it, for the best full-body images. The crystal-clear Bahamas water makes natural-light photography excellent at this shallow depth. Wide-angle or fisheye captures the full shark with the white sand background.
+Oceanic whitetip photography is the primary goal. The broad pectoral fins and rounded nose create a distinctive silhouette — position at the same depth as the shark, not above it. Because this is open blue water rather than a sand flat, expect blue-water backgrounds rather than the white-sand compositions typical of Tiger Beach or the Nassau shark sites.
 
 ## Additional Resources
 
-- Hawk's Nest Resort: Cat Island diving base with shark dive packages
-- Cat Island is 1 hour by small aircraft from Nassau
+- Hawk's Nest Resort: Cat Island diving base used by Epic Diving for oceanic whitetip expeditions
+- Cat Island is roughly 1 hour by small aircraft from Nassau
+- **Flag for maintainers:** this entry's name ("Shark Rodeo Cat Island") does not match any source found for Cat Island diving — see Overview for details and a rename recommendation
 
 ---
-*Sources: [Epic Diving - Oceanic Whitetip Shark Diving Cat Island](https://www.epicdiving.com/package/oceanic-whitetip-shark-diving/), [Scuba Diver Life - Oceanic Whitetips Cat Island](https://scubadiverlife.com/the-oceanic-whitetips-of-cat-island-bahamas/), [Southern Boating - Oceanic Whitetips Cat Island](https://southernboating.com/destinations/bahamas/oceanic-whitetip-sharks/), [Big Fish Expeditions - Cat Island Oceanic Whitetips](https://www.bigfishexpeditions.com/trips/scuba-diving/oceanic-whitetip-sharks/). Last updated 2026-05-17.*
+*Sources: [Big Fish Expeditions - Cat Island Oceanic Whitetips](https://www.bigfishexpeditions.com/trips/scuba-diving/oceanic-whitetip-sharks/), [Dive Ninja Expeditions - Cat Island Shark Diving](https://www.diveninjaexpeditions.com/bahamas-cat-island-shark-diving/), [Epic Diving - A Bit About Cat Island](https://www.epicdiving.com/a-bit-about-cat-island/), [Southern Boating - Oceanic Whitetips Cat Island](https://southernboating.com/destinations/bahamas/oceanic-whitetip-sharks/), [DiveAdvice - Cat Island Oceanic Whitetips](https://diveadvice.com/special-expeditions/shark-encounters/299-cat-island-diving-oceanic-whitetip-sharks/). Last updated 2026-07-11.*

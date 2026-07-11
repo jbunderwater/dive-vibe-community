@@ -56,7 +56,7 @@ Crystal Bay has a serious, well-documented history of downcurrent incidents. Div
 
 ## Photography
 
-The mola mola is one of diving's most iconic and difficult photographic subjects. Use a wide-angle lens and approach slowly from below or to the side — never block the sunfish's path to the surface. Ambient light is usually sufficient at cleaning station depths. The reef boulders and sea fans provide dramatic backdrops for wide-angle reef shots. A macro lens is productive for nudibranchs and pygmy seahorses on the shallower sections.
+The mola mola is one of diving's most iconic and difficult photographic subjects. Use a wide-angle lens and approach slowly from below or to the side — never block the sunfish's path to the surface. Ambient light is usually sufficient at cleaning station depths. The reef boulders and sea fans provide dramatic backdrops for wide-angle reef shots. A macro lens is productive for nudibranchs on the shallower sections (pygmy seahorse sightings are reported regionally in Bali but are not confirmed as site-specific to Crystal Bay).
 
 ---
 *Sources: [ScubaBoard - Crystal Bay Safety](https://scubaboard.com/community/threads/lets-be-careful-down-there-excellent-article-on-crystal-bay-nusa-penida-bali.465688/), [Undercurrent - Two Deaths at One of Indonesia's Most Dangerous Dive Sites](https://www.undercurrent.org/UCnow/dive_magazine/2014/TwoDeaths201403.html), [Scuba Junkie Penida - 7 Key Insights for Diving Crystal Bay](https://www.scubajunkiepenida.com/7-key-insights-for-diving-crystal-bay/), [Purple Dive Penida - Crystal Bay](https://www.purpledivepenida.com/post/crystal-bay-nusa-penida-dive-guide). Last updated 2026-07-11.*

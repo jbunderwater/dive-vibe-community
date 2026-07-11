@@ -3,7 +3,7 @@ name: Thunderball Grotto
 lat: 24.2333
 lng: -76.3333
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 5
 entryType: boat
 siteType: cave
 ref: null
@@ -17,39 +17,39 @@ A small, spectacular sea cave on Staniel Cay in the Exumas — made famous by tw
 
 ## Overview
 
-Thunderball Grotto is a limestone sea cave on a small rocky island near Staniel Cay in the Exuma Cays, made internationally famous as a filming location for the 1965 James Bond film Thunderball and the 1983 film Never Say Never Again. The cave has multiple underwater entrances that lead to a large internal chamber with openings in the roof that allow shafts of natural light to penetrate to the water below, creating spectacular light effects. The cave's maximum depth is just 8 meters — the interior is shallow enough for snorkelling. The crystal-clear Exuma water delivers extraordinary visibility of 25–35+ meters. The site is visited year-round by yachts, water taxis, and dive boats from Staniel Cay. Water temperature is 24–28°C.
+Thunderball Grotto is a limestone sea cave on a small rocky island west of Staniel Cay in the Exuma Cays, made internationally famous as a filming location for the 1965 James Bond film Thunderball and the 1983 film Never Say Never Again (it also appeared in Splash and Into the Blue). The cave has multiple underwater entrances — sources describe up to seven access points, five of which require briefly diving under a ledge at high tide, with two accessible without submerging. Openings in the roof let shafts of natural light penetrate to the water below, creating a dramatic "kaleidoscope" light effect. Re-audit correction: the cave's interior depth is shallow, around 0–5 meters (0–15 feet) — not the 8 meters previously listed; ceiling height inside varies from just a few feet above the water to roughly six meters in places. The crystal-clear Exuma water delivers excellent visibility. The site is visited year-round by yachts, water taxis, and dive/snorkel boats from Staniel Cay, and the cave and surrounding islands are protected by the Bahamas National Trust.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 1–8 m |
+| Depth Range | 0–5 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Cave |
-| Visibility | 25–35+ m |
-| Current | Tidal (light to moderate) |
-| Water Temp | 24–28°C |
+| Visibility | Excellent (exact figures not independently confirmed) |
+| Current | Tidal (light to strong at high tide) |
+| Water Temp | 24–28°C (regional average, not site-specific) |
 
 ## Marine Life
 
-The cave interior supports a dense community of tropical fish that have become highly habituated to visitors. Large schools of yellowtail snapper, sergeant majors, and chromis fill the interior chamber — the fish are comfortable approaching to arm's length. Outside the cave, the reef and rock surfaces carry hard coral formations, sea fans, and encrusting organisms. Nurse sharks occasionally rest on the cave floor. The clear Exuma water means every fish is vividly visible from surface snorkelling level.
+Multiple independent sources confirm sergeant majors, snappers (including yellowtail snapper), and angelfish (including queen angelfish) inside the grotto, along with parrotfish, blue tangs, French grunts, groupers, lobster, and conch. One source also reports sea turtles and occasional octopus. Hard corals (mustard hill, finger, lettuce, brain, fire, and mountainous star coral), sponges, sea fans, and crinoids are present on the surrounding rock. Note: nurse sharks are NOT confirmed at Thunderball Grotto itself — the previous description's claim of nurse sharks resting on the cave floor could not be verified and has been removed; nurse sharks are instead a well-documented feature of nearby Compass Cay, a separate site.
 
 ## Dive Profile
 
-Entry through one of the underwater cave entrances (typically the largest on the south side) at 2–4 meters depth. Swim through to the interior chamber and surface inside the cave. Explore the lit interior chamber from the surface or while hovering at various depths. Exit through any of the entrances. The cave is small enough that a complete exploration requires 20–30 minutes. Tidal current flows through the entrances — check direction before entering.
+Entry through one of the underwater cave entrances at 1–3 meters depth. Swim a short distance (a few meters) to the interior chamber and surface inside the cave. Explore the lit interior chamber from the surface or while hovering at shallow depths — the cave bottoms out well within recreational snorkel range. Exit through the same or an alternative entrance. Tidal current flows through the entrances and can be strong at high tide — check direction before entering.
 
 ## Entry and Exit
 
-Boat access from Staniel Cay water taxi or dive operator. Entry through the underwater cave opening at 2–4 meters — this requires submerging (either snorkel or scuba) and swimming approximately 4 metres horizontally to the chamber interior. Not suitable for non-swimmers. Exit through the same or alternative entrances.
+Boat access from Staniel Cay water taxi or dive operator, roughly a short ride from the cay. At low tide, snorkelers can swim in without submerging; at high tide the main entrance is covered and requires a brief dive under a rock ledge to reach the interior. Not suitable for non-swimmers or anyone uncomfortable submerging briefly. Exit through the same or alternative entrances.
 
 ## Tips and Recommendations
 
-Visit at low or slack tide to minimise current through the entrances. The most dramatic light effects occur when the sun is directly overhead (10am–2pm) and shafts of light enter through the roof openings. Low tide or slack water also reduces the current through the entrances. Staniel Cay Yacht Club rents kayaks and provides water taxi service to the cave for independent visitors.
+Visit at low or slack tide to minimise current through the entrances and avoid needing to submerge to get in. The light effects are best photographed around midday when the sun angles directly into the roof openings. Staniel Cay Yacht Club and local operators provide water taxi/boat access to the cave.
 
 ## Safety Considerations
 
-The cave entrance requires brief underwater swimming (snorkel or scuba) — guests who are not comfortable submerging cannot enter. Tidal current through the entrances can be significant — do not attempt entry against a strong outflowing current. The cave interior is safe and has ample headroom, but avoid the narrow passages that extend beyond the main chamber. The site is a natural cave, not a dive-managed site — there is no divemaster oversight.
+At high tide, entry requires briefly submerging and swimming under a rock ledge — guests who are not comfortable submerging or are weak swimmers should not attempt entry, particularly at high tide when there is little shallow water and currents can be strong. The cave interior has ample headroom in the main chamber, but ceiling height varies and some passages are narrow. The site is a natural cave with no divemaster oversight.
 
 ## Photography
 

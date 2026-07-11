@@ -17,7 +17,7 @@ A dramatic volcanic wall dive in Bali's quietest diving village.
 
 ## Overview
 
-Amed Wall is a shore-entry wall dive along the black-sand coastline of northeast Bali, dropping from a shallow reef top down to around 25 meters. The wall is covered in hard and soft corals, sea fans, and sponges, supported by the nutrient-rich upwellings characteristic of this stretch of coast. Visibility is generally good, reaching 15–25 meters, and currents are typically mild. The Amed area sits between the Tulamben USAT Liberty wreck site and the Gili Islands, making it a convenient stop on any Bali diving itinerary. Water temperatures range from 25–29°C year-round, occasionally dipping to 22°C during cold thermoclines in the dry season.
+Amed Wall is a shore-entry wall dive along the black-sand coastline of northeast Bali, at the Jemeluk Bay locale where the reef top drops into a vertical wall. The wall is covered in hard and soft corals, sea fans, and sponges, supported by the nutrient-rich upwellings characteristic of this stretch of coast. Local operators describe the accessible upper section running roughly 5–25 meters (suitable for less experienced divers), while the wall itself continues considerably deeper — sources report it dropping to 35–50 meters for those trained and certified to go there. Visibility is generally good, reaching 15–25 meters, and currents are typically mild to moderate. Water temperatures range from 25–29°C year-round, occasionally dipping to 22°C during cold thermoclines in the dry season.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Amed Wall is a shore-entry wall dive along the black-sand coastline of northeast
 
 ## Marine Life
 
-The wall hosts a diverse array of reef fish including large schools of fusiliers, angelfish, and surgeonfish. Leaf scorpionfish and various nudibranch species are found in the rubble at the base of the wall. Hawksbill turtles regularly patrol the wall face, and reef whitetip sharks rest in crevices at depth. Macro enthusiasts will find ghost pipefish and robust ghost pipefish among the sea fans. The black-sand substrate at depth is classic Amed muck habitat, where frogfish and flamboyant cuttlefish occasionally appear.
+The wall hosts a diverse array of reef fish including large schools of fusiliers, angelfish, and surgeonfish. Leaf scorpionfish and various nudibranch species are found in the rubble at the base of the wall. Hawksbill and green turtles are reliably spotted in the 5–10 m range along the Amed coast, and reef whitetip sharks are reported passing at depth here. Ghost pipefish are found among the sea fans and gorgonians. The black-sand substrate at depth is classic Amed muck habitat, where frogfish occasionally appear; no site-specific reports of cuttlefish at this particular wall were found, so that claim has been removed.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents are usually light but can pick up unexpectedly — monitor direction an
 The wall face provides excellent ambient-light wide-angle shots, especially with sea fans as foreground subjects. The muck habitat at the base of the wall is productive for macro work — look for nudibranchs, pipefish, and frogfish. Shoot upward along the wall to capture divers silhouetted against the blue water column.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-07-11.*

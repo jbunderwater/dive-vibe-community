@@ -3,8 +3,8 @@ name: Off Cape Eleuthera
 lat: 24.8172378
 lng: -76.3499165
 difficulty: Intermediate
-maxDepth: 27
-entryType: boat
+maxDepth: 15
+entryType: both
 siteType: wall
 ref: null
 osmId: null
@@ -13,20 +13,20 @@ addedBy: community_contribution
 
 ## Off Cape Eleuthera
 
-Off Cape Eleuthera is a wall and reef dive site along the southwestern coast of Eleuthera where the island's shelf edge meets the deep Exuma Sound — a 25-mile-long wall system that drops to over 3,000 feet.
+Off Cape Eleuthera is a wall dive in the Freetown area of South Eleuthera, where an underwater wall runs nearly parallel to the coastline, accessible by both shore and boat.
 
 ## Overview
 
-Cape Eleuthera's leeward coast sits along the Exuma Sound, with the wall system along this coast reported to extend roughly 25 miles and drop past 3,000 feet in places. The shelf edge here creates wall diving within recreational depth limits near the top, with coral reef and drop-off terrain. The Dive Shop at Cape Eleuthera Resort describes its local sites broadly as including coral reefs, wall dives, swim-throughs, and shark encounters, all accessible within about 7 minutes of the marina — though available sources describe this as a regional characterization of Cape Eleuthera's dive sites collectively rather than a write-up specific to this exact "Off Cape Eleuthera" pin.
+Zentacle's dedicated listing for this site (found at its own URL distinct from "Off The Wall" / the Cobia Cage) describes it plainly: "By shore or by boat, the wall runs almost parallel to the coast southeast bound for the cape," with a maximum depth of 49.2 ft (about 15 m) and an Intermediate difficulty rating. This is a shallower, more specific figure than earlier revisions of this listing used, and it comes from the only source found that documents this exact named site rather than the Cape Eleuthera region generally. More broadly, Cape Eleuthera's leeward coast sits along the Exuma Sound, with the overall wall system along this coast reported to extend roughly 25 miles and drop past 3,000 feet in places — but that describes the wider wall system, not a confirmed depth for this specific pin. The Dive Shop at Cape Eleuthera Resort describes its local sites broadly as including coral reefs, wall dives, swim-throughs, and shark encounters, accessible within about 7 minutes of the marina by boat — a regional characterization, not a site-specific write-up.
 
 ## Site Information
 
-- **Location**: Cape Eleuthera, southern Eleuthera, Bahamas
-- **Entry Type**: Boat dive
+- **Location**: Freetown area, South Eleuthera (Cape Eleuthera), Bahamas
+- **Entry Type**: Shore or boat (per Zentacle's site-specific listing)
 - **Site Type**: Wall dive
-- **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Moderate to strong — Cape Eleuthera is known for challenging current conditions
+- **Maximum Depth**: 15 meters (49.2 ft) per the site-specific source; the wall itself continues deeper along the coast but no source confirms a specific greater depth for this exact pin
+- **Typical Visibility**: 20-30 meters (regional estimate, not site-specific)
+- **Current**: Moderate to strong — Cape Eleuthera is known for challenging current conditions (regional characterization)
 - **Best Time**: December to May
 
 ## Marine Life
@@ -35,11 +35,11 @@ No site-specific marine life reports were found for this exact location during t
 
 ## Dive Profile
 
-Descend to the reef top (approximately 15 meters), then drop to the wall face. The wall runs steeply downward — plan your bottom time conservatively to allow for a proper ascent. The reef top at 10-15 meters provides a productive safety stop zone. Swim-throughs and small caverns are present in the reef structure for qualified divers.
+The wall runs nearly parallel to the coastline, trending southeast toward the cape, with a documented maximum depth around 15 meters. Follow the wall face along its length; plan bottom time and turnaround conservatively since exact depth progression beyond 15 m is not documented for this specific site.
 
 ## Entry and Exit
 
-Boat dive only. The Dive Shop at Cape Eleuthera Resort operates from the Cape Eleuthera marina, with dive sites along this coast reported to be reachable within about 7 minutes by boat.
+This site is reachable by shore or by boat, per Zentacle's site-specific listing. Operators such as The Dive Shop at Cape Eleuthera Resort run boat trips from the Cape Eleuthera marina to sites along this coast, reportedly within about 7 minutes by boat, though it is not confirmed whether this specific pin is one of their boat-served sites or the shore-access point referenced by Zentacle.
 
 ## Tips and Recommendations
 
