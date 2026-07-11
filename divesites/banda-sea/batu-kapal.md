@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Batu Kapal
 
-Batu Kapal ("Boat Rock" or "Ship Rock") is a pinnacle dive site north of Pulau Pisang in the Banda Islands. The main rock breaks the surface in a shape resembling a boat hull. Submerged pinnacles extend below — a plateau at around 5 m gives way to further pinnacles at 12 m and 15 m, then drops beyond 50 m — making this one of the deeper and more current-exposed sites in the Banda archipelago.
+Batu Kapal ("Boat Rock" or "Ship Rock") is a pinnacle dive site north of Pulau Pisang in the Banda Islands, named for the central rock that breaks the surface in a shape resembling a boat. Submerged pinnacles extend below — the reef flat and plateau begin around 8 m and give way to further pinnacles, dropping beyond 50 m — making this one of the deeper and more current-exposed sites in the Banda archipelago.
 
 ## Overview
 
-The site's signature feature is a straight, spacious 15-metre-long swim-through at depth, its walls lined with gorgonians and sponges; it exits onto a wall covered in large sea fans and massive barrel sponges. The pinnacle plateau above the swim-through is covered in pyramid butterflyfish, red-tooth triggerfish, and dense fusilier schools. Strong, shifting currents concentrate large fish: napoleon wrasse ride the current above the plateau, and bumphead parrotfish, eagle rays, and turtles are regularly reported.
+The site's signature feature is a 15-metre-long swim-through lined with gorgonians, exiting onto sea fans and sponge-covered rock. The pinnacle tops and flanks hold some of the largest sponges in the area, and are covered in butterflyfish, red-tooth triggerfish, anemonefish, and snappers. Strong, shifting currents concentrate large fish, with grey reef sharks reported patrolling the pinnacle.
 
 Visibility at Batu Kapal is exceptional — sources report 40–50 m on good days, particularly between February and May. Strong and unpredictable currents mean diving is impossible at certain tidal states, and the site demands advanced diving skills.
 
 ## Dive Profile
 
-Reef flat and plateau from 5 m, pinnacles at 12 m and 15 m dropping beyond 50 m. The 10–35 m range has the densest life. Currents change direction unpredictably — timing dives around slack water is recommended. Best visibility: February–May (40–50 m reported). Typical visibility: 20–30 m. Water temperature: 27–29°C.
+Reef flat and plateau beginning around 8 m, connected pinnacles dropping beyond 50 m. The 10–35 m range has the densest life. Currents change direction unpredictably — timing dives around slack water is recommended. Best visibility: February–May (40–50 m reported). Typical visibility: 20–30 m. Water temperature: 27–29°C.
 
 ## Marine Life
 
-- Napoleon wrasse and bumphead parrotfish (regular encounters on current pushes)
-- Eagle rays and green turtles
-- Pyramid butterflyfish and red-tooth triggerfish (covering the pinnacle)
-- Dense fusilier schools
+- Grey reef sharks and banded sea kraits (reported on current pushes)
+- Butterflyfish and red-tooth triggerfish (covering the pinnacle)
+- Anemonefish and snappers
 - Giant moray eels and honeycomb moray eels in crevices
 - Enormous gorgonian fans and barrel sponges on the swim-through walls
+
+Sources do not confirm Napoleon wrasse, bumphead parrotfish, eagle rays, or turtles specifically at this site (those species are documented at other nearby Banda sites); they have been removed from this listing pending site-specific confirmation.
 
 ## Entry / Exit
 
@@ -44,7 +45,7 @@ Strong and unpredictable currents — this site is rated Advanced. A surface mar
 
 ## Photography
 
-The 15-metre swim-through lined with gorgonians is a classic wide-angle subject, as are the pyramid butterflyfish clouds covering the pinnacle top. High-visibility periods (Feb–May) are ideal for wide-angle open-water work.
+The 15-metre swim-through lined with gorgonians is a classic wide-angle subject, as are the butterflyfish clouds covering the pinnacle top. High-visibility periods (Feb–May) are ideal for wide-angle open-water work.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Mermaid Liveaboards - Batu Kapal](https://www.mermaid-liveaboards.com/dive_spots/batu-kapal/), [Bluewater Dive Travel - Banda Sea](https://www.bluewaterdivetravel.com/banda-sea-diving). Last updated 2026-05-17.*
+*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Mermaid Liveaboards - Batu Kapal](https://www.mermaid-liveaboards.com/dive_spots/batu-kapal/), [Bluewater Dive Travel - Banda Sea](https://www.bluewaterdivetravel.com/banda-sea-diving). Last updated 2026-07-11.*

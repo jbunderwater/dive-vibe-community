@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Batu Belanda
 
-Batu Belanda ("Dutch Rock") is a wall dive on the western side of Banda Besar, named after the Dutch landing in the Banda Islands in 1599. The wall is distinguished by a large cave and an unusual mix of low-light-adapted marine life, and is one of the few Banda Islands sites where the rare Lembeh sea dragon has been recorded.
+Batu Belanda ("Dutch Rock") is a wall dive on the western side of Banda Besar. Dive operators describe it as the purported site of the first Dutch landing in the Banda Islands in 1599 (a fleet under Admiral Jacob van Heemskerck reached Banda that year, per historical record, though the specific rock's connection to the landing is a local/operator attribution rather than a documented historical fact). The wall is distinguished by a large cave and an unusual mix of low-light-adapted marine life, and is one of the few Banda Islands sites where the rare Lembeh sea dragon has been recorded.
 
 ## Overview
 
@@ -50,4 +50,4 @@ Boat dive from liveaboard or Banda Neira day-trip vessel. The site is on the wes
 Well-suited to natural-light and strobe-lit sponge photography. The cave shaft creates atmospheric light-ray images when conditions are right. A macro setup is rewarding for pipehorse and Ambon scorpionfish.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago). Last updated 2026-05-17.*
+*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Wikipedia - Dutch conquest of the Banda Islands](https://en.wikipedia.org/wiki/Dutch_conquest_of_the_Banda_Islands). Last updated 2026-07-11.*

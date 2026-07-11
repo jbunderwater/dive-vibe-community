@@ -17,7 +17,7 @@ Jackpot is an advanced pinnacle dive site at Serua Island, a remote volcanic out
 
 ## Overview
 
-The site features deep-water pinnacles covered in large coral formations and substantial pink barrel sponges. Strong currents sweep the pinnacle tops and flanks, concentrating fish in impressive aggregations. Divers commonly perform negative entries and use reef hooks to shelter from the current before positioning to watch the show. Schooling jacks, large tuna schools, grey reef sharks, and groupers are regular presences.
+The site features deep-water pinnacles covered in large coral formations and substantial pink barrel sponges. Strong currents sweep the pinnacle tops and flanks, concentrating fish in impressive aggregations. Divers commonly perform negative entries and use reef hooks to shelter from the current before positioning to watch the show. A trip report from Original Diving notes that "large grey reef sharks might come and say hello" on the pinnacle, alongside schooling reef fish.
 
 Scalloped hammerhead sharks are reported here during upwelling periods. Multiple sources indicate hammerhead sightings during the South East wind season (approximately June–September) when nutrient-rich upwellings develop around Serua, as well as during the broader October–November peak season across the Banda Sea.
 
@@ -31,8 +31,7 @@ Pinnacle dive from the surface to 40+ m. Most action at 15–35 m on the pinnacl
 
 - Scalloped hammerhead sharks (most likely during SE wind upwelling, June–September, and October–November peak season; not guaranteed)
 - Grey reef sharks in the water column
-- Schooling jacks and large tuna schools
-- Large groupers
+- Schooling reef fish
 - Large pink barrel sponges
 - Hard and soft coral formations on pinnacle faces
 
@@ -49,4 +48,4 @@ Advanced dive due to strong currents and remote location. Surface marker buoy ma
 Wide-angle pinnacle photography — the barrel sponge formations and schooling fish make strong subjects. Hammerhead encounters in clear water are exceptional but not guaranteed.
 
 ---
-*Sources: [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [Mermaid Liveaboards - Serua](https://www.mermaid-liveaboards.com/dive_spots/serua/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php). Last updated 2026-05-17.*
+*Sources: [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [Mermaid Liveaboards - Serua](https://www.mermaid-liveaboards.com/dive_spots/serua/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php). Last updated 2026-07-11.*

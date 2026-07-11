@@ -45,11 +45,11 @@ Boat dive from liveaboard. Manuk is approximately 100 miles from the Banda Islan
 
 ## Safety
 
-Currents can be moderate to strong. Advanced diving skills required. Sea snakes are venomous; do not handle or corner them. The remote location has no emergency resources — liveaboard guide and DAN insurance essential.
+Underwater currents are typically calm to mild with occasional stronger patches, but surface seas around the exposed island can be rough, and the crossing itself is weather-dependent. Advanced diving skills and comfort with an exposed, remote location are required. Sea snakes are venomous; do not handle or corner them. The remote location has no emergency resources — liveaboard guide and DAN insurance essential.
 
 ## Photography
 
 Exceptional for wide-angle sea snake photography. The dark volcanic sand provides strong contrast for close-focus wide-angle shots. Bring both wide-angle and macro setups.
 
 ---
-*Sources: [Solitude World - Diving in Manuk Island](https://solitude.world/diving-in-manuk-island/), [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Bluewater Dive Travel - Banda Sea](https://www.bluewaterdivetravel.com/banda-sea-diving). Last updated 2026-05-17.*
+*Sources: [Solitude World - Diving in Manuk Island](https://solitude.world/diving-in-manuk-island/), [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Bluewater Dive Travel - Banda Sea](https://www.bluewaterdivetravel.com/banda-sea-diving), [Simon Mustoe - Manuk Island's Famous Sea Snakes](https://simonmustoe.blog/manuk-islands-famous-sea-snakes-their-infamous-home-in-indonesia/). Last updated 2026-07-11.*
