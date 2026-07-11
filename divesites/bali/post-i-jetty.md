@@ -47,16 +47,15 @@ Jukung boat from Labuhan Lalang. Entry at the jetty area. Currents are minimal a
 - Check jetty pilings carefully for ghost pipefish — they are masters of camouflage
 - Use this as the third dive of the day when bottom time budgets are tighter
 - The site is excellent for Open Water training dives due to its calm, predictable conditions
-- Garden eels are found in sandy patches at around 15 m
 - Carry a small torch for illuminating crevices beneath the jetty
 
 ## Safety Considerations
 
-Currents are minimal but be aware of boat traffic around the jetty. Maintain good buoyancy near the jetty structure to avoid entanglement. Lionfish under overhangs are venomous — do not touch. Stingrays on the sandy bottom may be partially buried — shuffle feet if wading near shore.
+Currents are minimal but be aware of boat traffic around the jetty. Maintain good buoyancy near the jetty structure to avoid entanglement. Stingrays on the sandy bottom may be partially buried — shuffle feet if wading near shore.
 
 ## Photography
 
-The jetty creates an interesting structural dive shot opportunity. Macro photographers will enjoy the ghost pipefish, pipefish, and nudibranchs on the pilings. Garden eels on the sand require slow, patient approach for close-up shots. Cuttlefish in mid-water make excellent wide-angle subjects.
+The jetty creates an interesting structural dive shot opportunity. Macro photographers will enjoy the ghost pipefish, pipefish, and nudibranchs on the pilings. Stingrays and batfish on the sand offer additional subjects for patient wide-angle or macro work.
 
 ---
-*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan). Last updated 2026-05-17.*
+*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Nico Dives Cool Bali - Menjangan](https://nicodivescoolbali.com/go-diving/day-trips/menjangan/), [Bali Diving Academy (Scubali) - Menjangan](https://scubali.com/en/menjangan/). Last updated 2026-07-11.*

@@ -17,7 +17,7 @@ A sheltered wall and reef dive on the western end of Menjangan Island where morn
 
 ## Overview
 
-Mangrove Point is located at the western tip of Menjangan Island, where the reef turns a corner and the light conditions in the morning are particularly striking — sunshine penetrates the shallow corals and illuminates the wall with a vivid blue glow. The reef here is full of life from top to bottom, with fish nurseries in the shallow corals making the mandatory safety stop genuinely enjoyable rather than routine. The wall drops to around 30 m and hosts the same diversity of gorgonians, sponges, and corals characteristic of the rest of Menjangan, but with a slightly more sheltered character than the eastern wall sites.
+Mangrove Point takes its name from its entry point, where the island's rocky shoreline gives way to a sandy peninsula and mangroves. Operators describe the dive as a sloping wall turning into a vertical wall (or vice versa, depending on your start point and the current), running roughly 4–30 m. The site is often paired with a description of good morning light in the shallows. The wall hosts the gorgonians, sponges, and corals characteristic of the rest of Menjangan, with a slightly more sheltered character than the eastern wall sites.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Mangrove Point is located at the western tip of Menjangan Island, where the reef
 
 ## Marine Life
 
-The shallow nursery areas host dense clouds of juvenile fish — anthias, chromis, and basslets — around branching corals. Lionfish, ornate ghost pipefish, and moray eels inhabit the wall. Turtles are frequently seen feeding along the reef crest. Reef sharks and trevally patrol the deeper sections, and batfish are often seen at mid-depth.
+Two independent operator listings confirm reef sharks — both blacktip and whitetip — along with octopus and moray eels at this specific site. Triggerfish and batfish are also reported here. **Ghost pipefish, lionfish, and turtles feeding on the reef crest, previously listed here, could not be confirmed for this site by any source found in this pass and have been removed.** Ghost pipefish are well documented at Menjangan's Post I Jetty and in the "Blue Lagoon" area, but not specifically at Mangrove Point — this looks like another case of a Menjangan-wide highlight being copied onto a site without site-specific confirmation. Anyone diving here should treat the general fish-nursery and reef-fish diversity typical of Menjangan's walls as likely present, even where we can't cite a specific source for a specific species.
 
 ## Dive Profile
 
