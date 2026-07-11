@@ -46,7 +46,7 @@ Access by traditional jukung boat from Labuhan Lalang jetty in West Bali Nationa
 
 - Dive this site as a continuation from Pos 2 for a long, memorable drift along the wall
 - Bring a torch to illuminate the cave recesses and reveal cryptic critters
-- Check pygmy seahorse colonies on gorgonians around 22–25 m
+- Some operators consider this a deeper/stronger-current site best suited to more experienced divers — check conditions with your guide
 - Nitrox is available from most Menjangan operators and extends bottom time
 - Visit in the morning for the best light angles on the wall and clearest water
 
@@ -56,7 +56,7 @@ Currents can be strong and unpredictable, particularly on incoming tides. Do not
 
 ## Photography
 
-The cave entrances provide dramatic silhouette shots with ambient light streaming from above. Wide-angle lenses suit the wall sections with large gorgonians, while macro photographers will find electric clams, nudibranchs, and pygmy seahorses inside the cave crevasses. Morning dives produce the best water column colour.
+The cave entrances provide dramatic silhouette shots with ambient light streaming from above. Wide-angle lenses suit the wall sections with large gorgonians and the passing trevally schools, while macro photographers will find electric clams and nudibranchs inside the cave crevasses. Morning dives produce the best water column colour.
 
 ---
-*Sources: [Dive Concepts - Bat Cave Menjangan](https://diveconcepts.com/bali/spot-bat-cave.php), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Dive Concepts - Bat Cave Menjangan](https://diveconcepts.com/bali/spot-bat-cave.php), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [Mimpi Resort - Menjangan Dive Sites](https://mimpi.com/en/resort/boutique/bali/menjangan/dive-snorkeling/dive-sites/). Last updated 2026-07-11.*

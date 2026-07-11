@@ -54,11 +54,13 @@ Boat dive; exact transit time from Amed was not confirmed by available sources. 
 
 ## Safety Considerations
 
-Camouflaged scorpionfish and stonefish on muck sites are a real hazard — never place hands on the substrate. Maintain positive buoyancy at all times. Stirring the black sand by finning reduces visibility to near zero rapidly. Stingrays on the sand can sting if accidentally contacted — maintain clear distance.
+As with any muck/critter site on this coastline, camouflaged scorpionfish and stonefish are a real hazard — never place hands on the substrate. Maintain positive buoyancy at all times. Stirring the black sand by finning reduces visibility rapidly. General site-specific hazard information beyond this was not found; follow standard muck-diving precautions and your guide's briefing.
 
 ## Photography
 
-Flying gurnard and garden eels are the headline subjects. Wide-angle with close focus captures the gurnard's wing-like fins spread against the dark sand. Garden eels require a long lens or careful approach — shoot from a distance with a telephoto macro setup. Nudibranchs reward a 100mm macro lens with diopter.
+The bommie and its resident critters are the main subject here: longnose hawkfish tucked into sea fans, ribbon eels, boxer crabs, and mouth-brooding cardinalfish all reward a macro lens with diopter. The dense glassfish shoals around the bommie can also make a striking wide-angle-with-strobe subject.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [DivePhotoGuide - Bali's Best: Top Dive Sites in the Island of the Gods](https://www.divephotoguide.com/underwater-photography-travel/article/bali-indonesia-best-top-dive-sites-island-gods). Last updated 2026-07-11.*
+
+*Note: This is currently the only source found that names "Bulakan" specifically. The two sources previously listed here (baliaqua.com, ameddiveexplorer.com) do not appear to reference "Bulakan" by name and have been removed as unverified for this site. This site therefore falls short of the 3-source validation bar — flagged as weak/unresolved pending further research. `validated` has been left as `true` per instructions for an existing validated site, but this should be treated as a priority for follow-up validation.*

@@ -17,7 +17,7 @@ A safe cavern dive on Menjangan Island's western wall, featuring a beautiful san
 
 ## Overview
 
-Underwater Cave is located on the western side of Menjangan Island, where the coral wall is cut through with gullies and channels that create diverse micro-habitats. At 14 metres, a beautiful cavern opens with a sandy floor and light filtering down from above — an easy, non-penetration cave that divers of all levels can safely explore. The walls of the cavern are encrusted with sponges and small invertebrates, including electric clams that flash in the dim light. Outside the cave, the reef is a garden of soft and hard corals, with large grouper, frogfish, and anglerfish found in crevices. Currents are generally mild here, making it one of Menjangan's more relaxed diving environments.
+Underwater Cave (listed by some operators as "Cave Point") is located on the western/south-central side of Menjangan Island. At around 12–14 metres, a cavern opens with a sandy floor and light filtering down from above — an easy, non-penetration cave that divers of all levels can safely explore. The surrounding coral wall is cut by gullies and small caves that shelter large barracuda, surgeonfish, snappers, and grouper. The cave itself is home to electric clams that flash in the dim light, alongside sponges and small invertebrates. Currents here are generally described as mild to moderate, making it a relatively relaxed dive by Menjangan standards.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Underwater Cave is located on the western side of Menjangan Island, where the co
 
 ## Marine Life
 
-The cave interior hosts electric clams, small crustaceans, and invertebrates adapted to low-light conditions. Outside, large grouper, frogfish, and anglerfish reside in coral overhangs. Pygmy seahorses have been spotted in gorgonian fans near the cave entrance. Reef sharks, trevally, and tuna occasionally appear in the open water beyond the reef edge.
+The cave interior hosts electric clams, small crustaceans, and invertebrates adapted to low-light conditions. Nudibranchs, scorpionfish, and small crabs are found on the surrounding coral, alongside common reef fish — parrotfish, angelfish, butterflyfish, and clownfish. Large barracuda, surgeonfish, snappers, and grouper shelter in the wall's crevasses. One operator reports juvenile whitetip reef sharks seasonally near the cave. **Pygmy seahorses and frogfish/anglerfish, previously listed here, are not confirmed by any site-specific source we found** — the dedicated Menjangan operator page for this cave lists a different marine life set entirely (see sources below), so these two species have been removed rather than carried over from the general Menjangan species pool.
 
 ## Dive Profile
 
@@ -46,9 +46,8 @@ Access by jukung boat from Labuhan Lalang, West Bali. Entry via back roll or gia
 
 - Bring a torch to see the cave walls clearly and to spot electric clams
 - Do not penetrate beyond natural daylight — the cavern is safe as a daylight dive only
-- Look for frogfish and anglerfish resting on coral rubble outside the cave
+- Watch the wall crevasses for grouper, snapper, and surgeonfish
 - Combine with Coral Garden or Mangrove Point for a full Menjangan day
-- Check the sea fan colonies near the cave entrance for pygmy seahorses
 
 ## Safety Considerations
 

@@ -17,7 +17,7 @@ A remote, pristine wall off uninhabited Conception Island in the central Bahamas
 
 ## Overview
 
-Conception Island is a protected national park in the central Bahamas — uninhabited, no development, no permanent population — and its underwater walls reflect this complete absence of human impact. Conception Wall drops from a reef crest at around 12 meters to 43 meters and beyond, with exceptional hard coral coverage on the upper wall and large sponge and sea fan formations on the deeper sections. The island's remote position and protected status mean that dive traffic is extremely low — Conception Wall is almost exclusively accessed by liveaboard vessels. The Bahamas' characteristic crystal-clear water delivers 30–40+ meters of visibility here. Water temperature ranges from 24–28°C seasonally.
+Conception Island lies roughly 20 km (12 miles) northeast of Long Island — it is an uninhabited national park (established 1964, ~25,173 acres, administered by the Bahamas National Trust together with adjacent Booby Cay and South Rocks) with no development or permanent population, and its underwater walls reflect this near-total absence of human impact. Sources consistently describe the wall beginning around 12 meters (40 feet) and dropping into deep water — the surrounding Exuma Sound/ocean floor itself plunges to great depth well beyond recreational limits, though the specific 43m maximum previously listed here could not be independently re-confirmed and should be treated as approximate. The upper wall carries healthy coral and sponge growth, and the island's large protected cove has shallow groves of staghorn coral divers can swim through near the surface. The island's remote position and protected status mean dive traffic is low — Conception Wall is mainly accessed by liveaboard vessels and boats out of Long Island. Visibility is generally reported as excellent.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Conception Island is a protected national park in the central Bahamas — uninha
 
 ## Marine Life
 
-The undisturbed nature of Conception Island's waters supports exceptional marine life. Caribbean reef sharks are common along the wall face. Spotted eagle rays sweep past regularly. Sea turtles are frequent. The upper wall has dense, healthy hard coral coverage with a diverse fish community including large parrotfish, groupers, and snappers that are notably less skittish than at dived-out Nassau sites. The deeper wall sections carry large barrel sponges and gorgonian sea fans.
+Sources confirm barracuda and reef sharks (described as nurse sharks, generally docile) along the wall, plus schools of jacks and snappers, with occasional dolphin sightings in the blue water off the wall. The island is also an important nesting/nursery site for green sea turtles and a seabird rookery, so turtle sightings in the water are plausible though not separately confirmed for the wall dive itself. Claims of spotted eagle rays and large parrotfish specifically at this wall could not be independently re-confirmed this pass and have been softened accordingly — treat as regionally likely rather than site-confirmed.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Conception Wall's pristine condition and extraordinary clarity make it a premier
 - Bahamas National Trust: manages Conception Island National Park
 
 ---
-*Sources: [Sea Dragon Bahamas - Diving Conception Island](https://www.seadragonbahamas.com/diving-conception-island), [Geoff Schultz Dive Logs - Conception Island](https://geoffschultz.org/Log_Page.php?subjectid=Conception_Island_Diving_Sites), [Dive the World - Bahamas Diving](https://www.dive-the-world.com/diving-sites-bahamas.php), [TripAdvisor - Conception Island Wall](https://www.tripadvisor.com/Attraction_Review-g147423-d149445-Reviews-Conception_Island_Wall-Out_Islands_Bahamas.html). Last updated 2026-05-17.*
+*Sources: [Sea Dragon Bahamas - Diving Conception Island](https://www.seadragonbahamas.com/diving-conception-island) (previously verified, not re-fetchable this pass — 403), [Bahamas National Trust - Conception Island National Park](https://bnt.bs/explore/conception-island-national-park/), [TripAdvisor - Conception Island Wall](https://www.tripadvisor.com/Attraction_Review-g147423-d149445-Reviews-Conception_Island_Wall-Out_Islands_Bahamas.html), [My Out Islands - Long Island Diving](https://www.myoutislands.com/bahamas-islands/long-island/diving). Last updated 2026-07-11.*
