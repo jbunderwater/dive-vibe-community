@@ -46,4 +46,4 @@ Azores chromis (*Chromis limbata*), ornate wrasses (*Thalassoma pavo*), blacktai
 - Reef top at 5 m makes upper sections accessible to snorkellers
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/ilheu-de-vila-franca), [Wikipedia – Vila Franca Islet](https://en.wikipedia.org/wiki/Vila_Franca_Islet), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/ilheu-de-vila-franca), [Wikipedia – Vila Franca Islet](https://en.wikipedia.org/wiki/Vila_Franca_Islet), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/). Re-audited 2026-07-11 — crater dimensions, <500m distance from shore, and 8-22m depth range reconfirmed, no changes required. Last updated 2026-07-11.*

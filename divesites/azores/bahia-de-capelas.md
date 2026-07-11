@@ -41,4 +41,4 @@ No site-specific marine life records found. Typical north-coast Azorean reef spe
 - The village of Capelas has historical connections to whaling industry
 
 ---
-*Description based on general north-coast São Miguel diving characteristics. No site-specific dive sources found. Last updated 2026-05-17.*
+*Description based on general north-coast São Miguel diving characteristics. Re-audited 2026-07-11: no dive-specific source naming "Bahia de Capelas" as a dive site was found across dive-shop listings (Azores Sub, dive.visitazores.com), forums, or general search — insufficient for validation. Left unvalidated. Last updated 2026-07-11.*

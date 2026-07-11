@@ -41,4 +41,4 @@ No site-specific marine life records found for this named site. Typical south-co
 - Volcanic geology typical of the Azores
 
 ---
-*Description based on general south-coast São Miguel diving characteristics. No site-specific dive sources found for this named site. Last updated 2026-05-17.*
+*Description based on general south-coast São Miguel diving characteristics. Re-audited 2026-07-11: no dive-specific source naming "Lagoa" as a dive site was found; nearby named south-coast sites (Amora, Baixa do Pisão, Arcos da Caloura) are documented but were not assumed to be the same site without explicit confirmation. Insufficient for validation. Left unvalidated. Last updated 2026-07-11.*

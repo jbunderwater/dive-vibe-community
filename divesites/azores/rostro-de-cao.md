@@ -41,4 +41,4 @@ No site-specific marine life records found. Typical south-coast Azorean reef spe
 - Volcanic basalt underwater landscape typical of the Azores south coast
 
 ---
-*Description based on general south-coast São Miguel diving characteristics. No site-specific dive sources found for this site. Last updated 2026-05-17.*
+*Description based on general south-coast São Miguel diving characteristics. Re-audited 2026-07-11: confirmed Rosto de Cão as a real coastal landmark/islet near São Roque (Wikipedia PT, acores.fandom.com) named for its dog-shaped rock profile, but found no dive-shop or scuba-specific source describing it as a dive site with depth or marine-life detail. Insufficient for validation. Left unvalidated. Last updated 2026-07-11.*

@@ -42,4 +42,4 @@ No site-specific marine life records found. The rocky lava reef and no-fishing p
 - Also used as a snorkelling destination
 
 ---
-*Description based on general north-coast São Miguel diving characteristics and protected area status. No site-specific dive sources found. Last updated 2026-05-17.*
+*Description based on general north-coast São Miguel diving characteristics and protected area status. Re-audited 2026-07-11: additional search located tourism references to "Santa Iria Bay" / Porto de Santa Iria as a snorkelling spot near Rabo de Peixe (futurismo.pt), but no dive-shop or scuba-specific source with depth, site type, or marine-life confirmation was found — insufficient for validation (fewer than 3 independent dive-specific sources). Left unvalidated. Last updated 2026-07-11.*

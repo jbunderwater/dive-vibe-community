@@ -45,4 +45,4 @@ Yellowmouth barracudas (*Sphyraena viridensis*), Almaco jacks (*Seriola rivolian
 - Combine with other Pico–Faial Channel dives (Baixa do Sul, Baixa do Norte) for a full day
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/baixa-da-barca), [DiveAzores](https://www.diveazores.net/dive-sites/), [Dive Worldwide – Pico](https://www.diveworldwide.com/locations/pico). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/baixa-da-barca), [DiveAzores](https://www.diveazores.net/dive-sites/), [Dive Worldwide – Pico](https://www.diveworldwide.com/locations/pico). Re-audited 2026-07-11 — blue jack mackerel/devil ray/ocean sunfish attraction and Pico-Faial Channel location reconfirmed, no changes required. Last updated 2026-07-11.*
