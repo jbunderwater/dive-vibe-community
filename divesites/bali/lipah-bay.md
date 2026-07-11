@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Lipah Bay
 
-A relaxed sandy slope dive about 12 minutes from Amed, mixing artificial reefs with natural coral patches, large bommies, and resident turtles -- a pleasant, easy site if not the most dramatic in the area.
+A relaxed sandy slope dive about 12 minutes from Amed, notable as a confirmed shark nursery where baby whitetip reef sharks rest under table corals, alongside natural coral patches, large bommies, and resident turtles.
 
 ## Overview
 
-Lipah Bay is located approximately 12 minutes from Amed on Bali's northeast coast. The site features a sandy slope descending to around 40 meters, with a mix of artificial reef structures (now colonized with coral growth), natural coral patches, and large bommies decorated with gorgonias and barrel sponges. While described as "not the most exciting dive at Amed," the site offers pleasant, relaxed diving with reliable turtle sightings, large moray eels, and abundant reef fish. It is well-suited to less experienced divers looking for an easy, enjoyable dive in the Amed area.
+Lipah Bay is located approximately 12 minutes from Amed on Bali's northeast coast. The site features a sandy slope descending to around 40 meters, with a mix of artificial reef structures (now colonized with coral growth), natural coral patches, and large bommies decorated with gorgonias and barrel sponges. The bay is independently documented by both PADI and local operator Fab Dive as a shark nursery area -- baby whitetip reef sharks are regularly found resting under large table corals in the shallower sections. Michael McFadyen's trip report separately describes it as pleasant but "not the most exciting dive at Amed," with reliable turtle sightings, large moray eels, and abundant reef fish. It is well-suited to less experienced divers looking for an easy, enjoyable dive, though some operators run it as a boat dive off the middle of the bay rather than a shore entry -- confirm access with your operator.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Lipah Bay is located approximately 12 minutes from Amed on Bali's northeast coas
 
 ## Marine Life
 
-Lipah Bay is confirmed as a reef shark nursery area — baby and juvenile reef sharks shelter under large table corals, alongside adult reef sharks. Hawksbill and green sea turtles are regular sightings. Large moray eels inhabit the bommies and artificial reef structures. General reef fish are abundant across the varied habitats. The site is also suitable for macro photography among the invertebrates of the artificial structures and coral patches.
+Lipah Bay is confirmed by two independent operator sources (PADI and Fab Dive) as a shark nursery site -- baby whitetip reef sharks are regularly found sleeping beneath table corals in the shallows, and guided divers can observe them without disturbing the coral. Earlier notes describing "juvenile and adult reef sharks" alongside the babies could not be independently re-confirmed for this specific site, so that detail has been removed; the whitetip nursery claim itself is well supported. Turtles are regularly sighted (McFadyen's report and PADI both note this), though no source confirms species-level identification, so "hawksbill and green" has been softened to "turtles" generally. Large moray eels inhabit the bommies and artificial reef structures, per McFadyen's dive report. General reef fish are abundant across the varied habitats.
 
 ## Dive Profile
 

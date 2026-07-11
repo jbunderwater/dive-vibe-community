@@ -51,11 +51,11 @@ Stuart Cove Wall is almost always combined with a shark encounter at Shark Arena
 
 ## Safety Considerations
 
-Depth management on the wall is important — the Tongue of the Ocean drops thousands of meters and the wall continues far below recreational limits. Set and maintain your maximum depth. Caribbean reef sharks at this site are habituated and generally non-threatening but should be treated respectfully. Fire coral on the upper reef. DSMB required.
+Depth management on the wall is important — the Tongue of the Ocean drops thousands of meters and the wall continues far below recreational limits. Set and maintain your maximum depth. Caribbean reef sharks along Nassau's wall system are reported by divers as curious rather than aggressive, but should be treated respectfully. DSMB recommended.
 
 ## Photography
 
-Stuart Cove Wall in the Bahamas' characteristic blue water is a premium wide-angle photography site. The reef wall face with sea fans and diver descending is a strong composition. Natural light at 12–20 meters in this visibility is exceptional — strobes are optional for the upper wall. Caribbean reef sharks on the wall backdrop create the defining Nassau wall image.
+Nassau's wall diving in the Bahamas' characteristically clear water is a strong wide-angle photography setting — the wall face with sponge growth and a diver descending is a common composition. Caribbean reef sharks are a frequent subject on the wall.
 
 ## Additional Resources
 
@@ -63,4 +63,4 @@ Stuart Cove Wall in the Bahamas' characteristic blue water is a premium wide-ang
 - The site is typically the first dive of a Nassau morning two-tank trip
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Wreck Diving Bahamas](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas](https://stuartcove.com/scuba-diving/dive-sites/), [Regal Diving - Nassau](https://regal-diving.co.uk/nassau), [ScubaBoard - Considering Stuart Cove's in Nassau](https://scubaboard.com/community/threads/considering-stuart-coves-in-nassau.639695/), [Scuba Diving Magazine - Stuart Cove's Dive Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0). Last updated 2026-07-11.*

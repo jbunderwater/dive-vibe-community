@@ -17,7 +17,7 @@ An adrenaline dive on Tepekong's exposed south face — the site known as "The T
 
 ## Overview
 
-Gili Tepekong South is the dramatic, exposed face of the largest island in Amuk Bay off Candidasa. The canyon section — colloquially called "The Toilet" because of the swirling downcurrents it generates — is one of the most challenging dive environments in Bali, reserved for advanced divers with significant current experience. The wall drops to beyond 35 m and is covered in hard and soft corals, sea fans, and sponges. Schools of sweetlips, jacks, and large grouper congregate in the current-swept canyon, and whitetip and blacktip reef sharks are frequently observed. The Blue Hole, a distinctive chimney formation on the south face, adds to the dramatic topography.
+Gili Tepekong South is the dramatic, exposed southwest/east face of the largest island in Amuk Bay off Candidasa, encompassing what operators variously call the Canyon, "The Toilet," and the Blue Hole. The canyon — colloquially "The Toilet" because of the swirling downcurrents it can generate — is one of the most challenging dive environments in Bali; several operators state it should only be attempted "when ocean conditions are exceptionally calm," reserved for advanced divers with significant current experience. The wall here drops well beyond recreational limits (operator sources describe the east wall continuing to 40 m and beyond), and recreational dive plans on this face top out around 35 m. It's covered in hard and soft corals, sea fans, and sponges. Schools of sweetlips, jacks, and large grouper congregate in the current-swept canyon, and whitetip and blacktip reef sharks are frequently observed. The Blue Hole — a chimney/tunnel formation, reported at roughly 18–28 m depending on the source — adds to the dramatic topography and is also where mola mola come to be cleaned in season.
 
 ## Site Information
 
@@ -30,9 +30,7 @@ Gili Tepekong South is the dramatic, exposed face of the largest island in Amuk 
 - **Current**: Strong to very strong; powerful down-currents possible
 - **Best Time**: May to October (slack tide only)
 
-## Marine Life
-
-Whitetip and blacktip reef sharks are the signature species on the south face. Large schools of sweetlips, jacks, fusiliers, and grouper gather in the canyon. Mola mola appear on the exposed south wall during the July–October season. Turtles and barracuda are regular sightings. The walls host nudibranchs, pygmy seahorses in gorgonians, and large moray eels.
+Whitetip and blacktip reef sharks are the signature species, and operators describe a resident shark nursery in the wider Tepekong area. Large schools of sweetlips, jacks, fusiliers, eagle rays, and grouper gather in the canyon. Mola mola are the headline seasonal draw (July–October) at the Blue Hole/east wall cleaning station. Turtles and barracuda are regular sightings. The walls host nudibranchs and large moray eels; pygmy seahorses in gorgonians are reported for Gili Tepekong generally but not confirmed specifically for this face, so treat that sighting as possible rather than reliable.
 
 ## Dive Profile
 
