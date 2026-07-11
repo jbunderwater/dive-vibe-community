@@ -17,7 +17,9 @@ A black sand muck diving site approximately 3 kilometres southeast of Tulamben, 
 
 ## Overview
 
-Seraya Secrets is located near the village of Seraya, roughly 3 kilometres southeast of Tulamben along the northeast Bali coast. The site is divided into three sub-sites — Top Secrets (shallow), Deep Secrets (deeper), and Noisy Reef (named for the sounds made by resident juvenile triggerfish) — each offering slightly different terrain and critter populations. The black volcanic sand bottom has a silty character and requires careful buoyancy control. A metal dome artificial structure has been placed on the sand and is now colonised with soft corals and marine life, providing additional hard substrate amid the open sand. The maximum depth is approximately 25–35 metres depending on the sub-site explored.
+Seraya Secrets is located near the village of Seraya, roughly 3 kilometres southeast of Tulamben along the northeast Bali coast. The site is divided into three sub-sites — Top Secrets (shallow), Deep Secrets (deeper, to ~35m), and Noisy Reef/Noisy Secrets (named for the sounds made by resident juvenile triggerfish) — each offering slightly different terrain and critter populations. The black volcanic sand bottom has a silty character and requires careful buoyancy control. A metal dome-shaped structure sits in the sand at roughly 9 metres and is now colonised with soft coral and reef fish; its origin (deliberately placed artificial reef vs. abandoned equipment) is not definitively documented in available sources, but it has become a well-known photo subject at the site. The maximum depth is approximately 25–35 metres depending on the sub-site explored.
+
+**Confirmed correction (preserved from prior QA pass)**: There is no sunken airplane or aircraft frame at this site. No source consulted in this or the prior research pass mentions an airplane, and the current markdown does not reference one. Divers should not expect an aircraft wreck here.
 
 ## Site Information
 
@@ -33,7 +35,7 @@ Seraya Secrets is located near the village of Seraya, roughly 3 kilometres south
 
 ## Marine Life
 
-Seraya Secrets is one of Bali's premier critter diving destinations. The black sand and low-profile reef environment support an outstanding variety of small and unusual marine life. Confirmed species include nudibranchs (including donut and pikachu varieties), harlequin shrimp, Coleman and tiger shrimp, boxer crabs, frogfish, ornate ghost pipefish, pygmy seahorses, blue-spotted stingrays, mimic octopus, moray eels, and coral groupers. Spanish dancers — large, spectacularly coloured nudibranchs — are a highlight, particularly on night dives. The site is rated among Bali's top macro destinations.
+Seraya Secrets is one of Bali's premier critter diving destinations. Species confirmed for this specific site across multiple operator/blog sources: nudibranchs (including donut and pikachu varieties, plus documented species such as Mexichromis kalinda and Glossodoris cincta), harlequin shrimp, Coleman and tiger shrimp, boxer crabs, frogfish, ornate ghost pipefish, pygmy seahorses, blue-spotted stingrays, mimic octopus, moray eels (including yellow-edged and greyface varieties), coral groupers, leopard moray eels, lionfish, leaf fish, and skeleton shrimp. At night, divers report octopuses, bobtail squid, and snake eels emerging from the sand. (Note: an earlier version of this description attributed "Spanish dancer" sightings to this site — no source consulted confirms Spanish dancers specifically at Seraya Secrets, so this claim has been removed.) The site is rated among Bali's top macro destinations.
 
 ## Dive Profile
 
@@ -47,7 +49,7 @@ Shore entry, accessed by car from Tulamben (approximately 3 kilometres). The ent
 
 - This is a slow, focused critter dive -- resist the urge to cover too much ground
 - A knowledgeable local guide is essential for locating the best critter spots on both sub-sites
-- Night diving here is particularly rewarding, with Spanish dancers and other nocturnal species emerging after dark
+- Night diving here is particularly rewarding, with octopuses, bobtail squid, and snake eels emerging from the sand after dark
 - Macro photography equipment is strongly recommended
 
 ## Safety Considerations
@@ -59,4 +61,4 @@ The shore entry can be rocky, so take care when entering and exiting. Currents a
 Seraya Secrets is a world-class macro photography site. The black sand provides clean, high-contrast backgrounds for critter subjects. Ghost pipefish, nudibranchs, frogfish, and harlequin shrimp are the primary macro targets. The coral-covered dome structure offers interesting wide-angle compositions showing artificial reef colonisation. A dedicated macro lens (60mm or 100mm) and a good focus light are essential.
 
 ---
-*Sources: [Let's Dive Tulamben - Seraya Secrets](https://letsdivetulamben.com/dive-sites/seraya-secrets/), [DiveOtion - Seraya Secrets](https://diveotion.com/seraya-secrets-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=879). Last updated 2026-05-17.*
+*Sources: [Let's Dive Tulamben - Seraya Secrets](https://letsdivetulamben.com/dive-sites/seraya-secrets/), [DiveOtion - Seraya Secrets](https://diveotion.com/seraya-secrets-tulamben/), [Scuba Seraya Resorts - Seraya Secrets](https://scubaserayabali.com/?dive-site=seraya-secrets), [Tulambenscuba.com - Seraya Secret](https://tulambenscuba.com/dive-spot-seraya-secret/), [Bonnie Waycott - The Seraya Slope, Tulamben](https://bonniewaycott.com/2012/06/13/april-2012-the-seraya-slope-tulamben-bali-indonesia/). Re-verified 2026-07-11: no airplane/aircraft frame confirmed at this site (correction preserved); Spanish dancer claim removed as unsupported. Last updated 2026-07-11.*

@@ -17,7 +17,9 @@ A black sand muck slope located approximately 200 meters southeast of the famous
 
 ## Overview
 
-Harlequin Slope is a black sand muck diving site on the Tulamben coast of northeast Bali. The site sits roughly 200 meters southeast of the USAT Liberty wreck, offering a completely different diving experience from the wreck itself. The bottom is composed of volcanic black sand formed into ridges, with small coral outcrops scattered across the slope. The site descends to approximately 29 meters and is best known for its resident harlequin shrimps, which can be found sheltering under rocks at depth -- the feature that gives the site its name.
+Harlequin Slope is a black sand muck diving site on the Tulamben coast of northeast Bali, documented in a detailed trip report by Australian diver Michael McFadyen. The site sits roughly 200 meters southeast of the USAT Liberty wreck (GPS 8°16'31.8"S 115°35'35.1"E), offering a completely different diving experience from the wreck itself. The bottom is composed of volcanic black sand formed into ridges perpendicular to shore, with small coral outcrops and shallow gullies between the ridges. The site descends to approximately 29 meters via one of these gullies, and is named for the resident harlequin shrimps found sheltering under rocks at depth -- described in the source report as having a white background with blue-ringed light-brown circles.
+
+**Research note**: This site is currently confirmed by only one independent source. Additional searches (ScubaBoard, local dive shop site listings, aggregator databases) did not turn up a second source using the name "Harlequin Slope." ScubaBoard threads do reference a similarly-located "Liberty Slope" (~50m east of the Liberty wreck) with comparable black-sand macro life, but this cannot be confirmed as the same site. Note also that this destination's separate "Liberty Muck" entry sits only ~40-45 meters away by GPS coordinates -- both entries derive from the same source's trip reports of adjacent-but-distinct dive spots, and may describe overlapping terrain. Until a second independent source is found, this site remains unvalidated per the 3-source requirement.
 
 ## Site Information
 
@@ -26,14 +28,14 @@ Harlequin Slope is a black sand muck diving site on the Tulamben coast of northe
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
-- **Typical Visibility**: 15-25 meters
+- **Typical Visibility**: Source trip report noted ~30 meters on the day dived; regional Tulamben norm is roughly 15-25 meters
 - **Water Temperature**: 27-29°C
 - **Current**: Generally mild
 - **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-The black sand environment at Harlequin Slope supports a rich variety of critter life. The site's namesake harlequin shrimps are found under rocks at depth and are a prized sighting for macro photographers. The sand ridges and coral outcrops harbour diverse nudibranchs, cuttlefish, mantis shrimp, and various crab species. The dark volcanic sand provides excellent contrast for spotting small, well-camouflaged creatures that would be difficult to find on a traditional reef.
+Species reported at this specific site by the source trip report: harlequin shrimp (the namesake species, found under rocks at depth), cuttlefish, blue ribbon eels, moray eels, nudibranchs, mantis shrimp, and sea pens with attendant cleaner shrimp. The dark volcanic sand provides excellent contrast for spotting small, well-camouflaged creatures that would be difficult to find on a traditional reef. (An earlier version of this description mentioned unspecified "various crab species" -- this was not supported by the source and has been removed.)
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ The rocky beach entry requires care, particularly when carrying camera equipment
 Harlequin Slope is a dedicated macro photography site. The black sand provides clean, dark backgrounds that make critter subjects stand out beautifully. A 60mm or 100mm macro lens is ideal. Harlequin shrimps, nudibranchs, and cuttlefish are the primary targets. Bring a focus light to assist with finding and illuminating small subjects on the dark substrate.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=878). Note: no second independent source found for this site — validation_source remains single-source until confirmed. Last updated 2026-05-17.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=878). Single-source site: re-checked 2026-07-11 with additional targeted searches (ScubaBoard, Tulamben dive shop listings) and no second independent source naming this site "Harlequin Slope" was found. Remains unvalidated pending a second source. Last updated 2026-07-11.*

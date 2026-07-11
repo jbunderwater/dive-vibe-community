@@ -17,7 +17,7 @@ The Devil's Backbone is a shallow, jagged reef extending across the northern tip
 
 ## Overview
 
-Stretching approximately 1.4 miles northeast of Spanish Wells at the north end of Eleuthera, the Devil's Backbone has been documented as a navigational hazard since 1648. More ships have wrecked here than on any other reef in the Bahamas. The result is a remarkable collection of shallow wrecks layered atop one another in 8-11 meters of water, all now heavily colonised by coral and sponge and hosting abundant marine life. The reef itself is an intricate system of coral heads, archways, and channels. The surf here is rarely calm, making the site effectively boat-access only despite the shallow depths.
+Stretching approximately 1.4 miles northeast of Spanish Wells at the north end of Eleuthera, the Devil's Backbone has been documented as a navigational hazard since 1648. More ships have wrecked here than on any other reef in the Bahamas. The result is a remarkable collection of shallow wrecks scattered across roughly 3-11 meters of water, all now heavily colonised by coral and sponge and hosting abundant marine life. The reef itself is an intricate system of coral heads, archways, and channels. The surf here is rarely calm, making the site effectively boat-access only despite the shallow depths.
 
 ## Notable Wrecks
 
@@ -38,11 +38,11 @@ Stretching approximately 1.4 miles northeast of Spanish Wells at the north end o
 
 ## Marine Life
 
-Abundant reef fish populations inhabit the wrecks and reef — snapper, grunts, parrotfish, angelfish, Nassau grouper, and barracuda. Nurse sharks and stingrays are commonly encountered resting around the wreck structures. Moray eels occupy crevices in the iron hulls. Brain coral, elkhorn coral, and star coral form the backdrop.
+Ocean Fox Bahamas — a Harbour Island-based operator that dives this specific site — reports snapper, grunts, parrotfish, angelfish, sharks, stingrays, Nassau grouper, moray eels, and brain coral formations at Devil's Backbone. No site-specific source was found confirming barracuda, nurse sharks specifically (versus sharks generally), elkhorn coral, or star coral, so those claims have been removed. Broader Eleuthera reef fauna may well be present but is not documented for this site specifically in the sources reviewed.
 
 ## Dive Profile
 
-The entire site sits within recreational depth limits, making it suitable for newly certified divers. Begin on the shallower sections and move between wrecks. The Train Wreck at 5 meters makes an ideal end to the dive during the safety stop zone. Multiple dive profiles are possible — the wrecks are spread across the reef and require several dives to cover fully.
+The entire site sits within recreational depth limits, making it suitable for newly certified divers. Begin on the shallower sections and move between wrecks. The Train Wreck, the shallowest of the four (sources give roughly 3-7.5 meters), makes a good end to the dive during the safety stop zone. Multiple dive profiles are possible — the wrecks are spread across the reef and require several dives to cover fully.
 
 ## Entry and Exit
 
@@ -60,4 +60,4 @@ Boat dive. Ocean Fox Dive Shop on Harbour Island and other local operators offer
 Boat traffic in the area can be significant — always use a dive flag. The shallow depths create surge in any swell. Sand and silt in the wreck structures reduce visibility when disturbed; maintain good buoyancy. The reef is fragile — do not penetrate unguided wreck interiors.
 
 ---
-*Sources: [Ocean Fox Bahamas - Devil's Backbone](https://oceanfoxbahamas.com/devils-backbone/), [Zentacle - Devil's Backbone](https://www.zentacle.com/Beach/3567/devils-backbone), [Project Eleuthera - Underwater Sites](https://www.projecteleuthera.org/underwater-sites), [The Tribune Bahamas - 200 Years of Wrecks](https://www.tribune242.com/news/2026/jan/09/200-years-of-wrecks-across-the-north-central-bahamas-especially-the-devils-backbone/). Last updated 2026-05-17.*
+*Sources: [Ocean Fox Bahamas - Devil's Backbone](https://oceanfoxbahamas.com/devils-backbone/), [The Tribune Bahamas - 200 Years of Wrecks](https://www.tribune242.com/news/2026/jan/09/200-years-of-wrecks-across-the-north-central-bahamas-especially-the-devils-backbone/), [Project Eleuthera - Underwater Sites](https://www.projecteleuthera.org/underwater-sites), [Zentacle - Devil's Backbone](https://www.zentacle.com/Beach/3567/devils-backbone), [Official Eleuthera Harbour Island - Shipwreck Diving](https://officialeleutheraharbourisland.com/harbour-island/things-to-do/sports-activities/water-sports-activities/shipwreck-diving/), [Bahamas Charter Center - Preacher's Cave, Beach, and Train Wreck](https://www.bahamaschartercenter.com/articles/preachers-cave-beach-and-train-wreak). Last updated 2026-07-11.*

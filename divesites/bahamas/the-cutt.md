@@ -17,7 +17,7 @@ The Cutt is a tidal channel dive site in the Abaco Islands of the northern Baham
 
 ## Overview
 
-Located in the Abaco Island chain near Guana Cay (approximately 26.75°N, 77.87°W), The Cutt is a tidal channel where ocean water is forced between two cay formations. Channel cuts like this one are a feature of Abaco diving — the tidal currents concentrate nutrients and attract larger predatory fish. Divers drop in at one end and drift with the current through the cut, with the boat repositioning to the exit point. Reefs flank the channel and provide the main visual interest between current pulses.
+Located in the Abaco Island chain near Guana Cay (approximately 26.75°N, 77.87°W), The Cutt takes its name from a tidal channel ("cut") where ocean water is forced between cay formations — a common feature of Abaco diving where tidal currents concentrate nutrients and attract larger fish. A 2026 ScubaBoard thread on independent Abaco diving describes going out "the cut north of Guana Cay" and diving reefs nearby, noting that "the flow through the cut can sometimes bring sharks and rays into the area." That thread does not use the proper name "The Cutt" and does not confirm a specific drift entry/exit profile for this exact site — the drift-style dive plan described below reflects general Abaco channel-diving convention rather than a confirmed site-specific report, and should be treated as indicative rather than verified.
 
 ## Site Information
 

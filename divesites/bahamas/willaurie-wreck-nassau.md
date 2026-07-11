@@ -13,31 +13,31 @@ addedBy: osm_import
 
 # Willaurie Wreck Nassau
 
-A 130-foot Bahamian mailboat that sank accidentally in 1988 and was resettled as an artificial reef off Nassau's southwest coast — an accessible wreck now colonised by sponges, corals, and large resident groupers.
+A wreck resting off New Providence's southwest coast, now colonised by sponges and coral — but its origin is disputed: sources disagree on whether it was a 1966 Dutch-built mailboat lost under tow in 1988, or a 1907 Danish-built barge that sank in a storm.
 
 ## Overview
 
-The Willaurie was a 130-foot (39.6 m) steel freighter built in the Netherlands in 1966, which served the Bahamas from 1980 as an inter-island mailboat — transporting mail and freight between Nassau and the outer islands of Rum Cay, San Salvador, and Cat Island. In 1988 the vessel sank while being towed in heavy seas near Clifton Pier on New Providence's western shore. Stuart Cove's Dive Bahamas subsequently patched the hull at low tide, partially refloated the wreck, and moved it to its current resting position on the southwest side of the island. The Willaurie now sits upright on the sandy bottom in 15–19 metres of water. Its most distinctive feature is the open cargo hold — the metal support bars of the original mail compartment now form an underwater cage that sponges and corals have colonised extensively. The site has been a popular Nassau wreck for over three decades. Visibility is 20–30 metres. Water temperature 25–28°C.
+Sources disagree substantially on this wreck's history, and this audit could not resolve the conflict. **DreamWrecks and Scuba Diver Life** describe a 130-foot (roughly 40 m) steel freighter built in the Netherlands in 1966, which — per DreamWrecks only, not independently corroborated — served the Bahamas from 1980 as an inter-island mailboat carrying mail and freight between Nassau and Rum Cay, San Salvador, and Cat Island. Both of those sources agree the vessel sank in 1988 while under tow in a storm near Clifton Pier on New Providence's western shore (DreamWrecks says it was being towed out to be scuttled; Scuba Diver Life says it was en route to Sea Breeze Marina), and that Stuart Cove's Dive Bahamas subsequently patched the hull at low tide on Christmas Day and attempted to refloat it, before it took on water again and settled into its current position. **Wannadive.net**, however, describes a different vessel entirely: a wreck built in Denmark in 1907 that "sank originally in Potter's Cay, Nassau; moved; and finally sank during a storm near Clifton Pier" — with no mailboat service and no salvage attempt mentioned. A since-unreachable Ash Underwater blog post (found via search cache, could not be re-fetched to verify) echoed the 1907/Denmark account and stated it was "the only wreck in the region that sank naturally." Given this direct conflict on build year, country of origin, and vessel type, treat those specifics as unverified. What multiple sources do agree on: the wreck rests off New Providence's southwest coast near Goulding Cay/Clifton Point, upright (or vertical, per DreamWrecks) on a sandy bottom in roughly 15–21 metres of water, with its cargo-hold support bars now forming a cage-like structure heavily colonised by sponges and coral.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 10–19 m |
+| Depth Range | 15–21 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wreck |
-| Visibility | 20–30 m |
-| Current | Light |
+| Visibility | 10–30 m (source estimates vary) |
+| Current | Light to none |
 | Water Temp | 25–28°C |
 
 ## Marine Life
 
-Large Nassau groupers and black groupers are resident inside the Willaurie's superstructure and have grown to substantial sizes over the decades of protection inside the wreck structure. Schools of grunt and snapper fill the interior spaces. Spotted moray eels occupy the crevices and engine room sections. Caribbean spiny lobster are found throughout the structural overhangs. Sea turtles occasionally visit. The encrusted exterior supports a typical Nassau reef community of angelfish, parrotfish, and blue tang.
+No source found in this audit confirms specific fish, invertebrate, or reptile species observed at this particular wreck beyond two site-specific mentions: Scuba Diver Life reports spotted drum and describes soft coral in "reds, oranges, purples and greens," and DreamWrecks describes reef fish freely swimming through the cargo-hold cage structure without naming species. Wannadive and Zentacle both describe the site generically as having abundant marine growth and "lots of life," again without naming species. Beyond sponges and coral (well confirmed by multiple sources), general Nassau reef fauna likely also occurs here, but this audit found no site-specific confirmation of groupers, moray eels, spiny lobster, sea turtles, or other species previously listed — those claims have been removed as unverified.
 
 ## Dive Profile
 
-Descent via mooring line to the main deck at 10–12 meters. Exploration works bow to stern along the main deck before visiting the interior sections accessible from deck hatches. The deeper sections of the hull at 17–19 meters can be visited at the end of the dive before a safety stop at the upper deck. Total dive: 45–55 minutes.
+Sources place the wreck in roughly 15–21 metres of water on a sandy bottom, with the cargo-hold cage structure as the main point of interest. This audit found no source-confirmed breakdown of specific deck or interior depths, so divers should follow their operator's dive plan and briefing for depth staging rather than a fixed profile.
 
 ## Entry and Exit
 
@@ -45,15 +45,15 @@ Boat dive with permanent mooring. Operated by Nassau-based dive operators. Entry
 
 ## Tips and Recommendations
 
-The Willaurie is one of the best wreck dives in Nassau for beginner wreck divers — the accessible depth, upright position, and clear water make it a comfortable introduction to wreck exploration. Carry a torch for the interior sections where the groupers and moray eels shelter. The upper deck in 10–12 meters is well-lit by natural light and ideal for close-focus wide-angle photography.
+The Willaurie is a popular wreck dive in Nassau for beginner-level wreck exploration — the moderate depth, largely intact structure, and generally clear water make it an accessible introduction to wreck diving. Carry a torch for interior and shaded sections of the cage structure. Photographers should note the propeller as a specifically recommended subject (per Zentacle and Wannadive).
 
 ## Safety Considerations
 
-Interior sections should not be penetrated beyond light penetration without wreck diving training. Silt in the interior spaces can reduce visibility to near zero if disturbed. The accessible depth of 19 meters means no decompression concern for a standard dive duration. DSMB recommended for the ascent.
+Wreck penetration beyond light penetration is never inherently safe and should only be attempted with proper wreck diving training and equipment. Silt in interior or overhung spaces can reduce visibility if disturbed. At the sourced depth range of roughly 15–21 metres, dive tables/computers should still be followed for no-decompression limits. DSMB recommended for the ascent.
 
 ## Photography
 
-The accessible depth and clear water make the Willaurie an excellent introduction to wreck photography. The upper deck in natural light at 10–12 meters allows wide-angle photography without strobes in the Bahamas' clear water. The resident groupers inside the superstructure are large and approachable. Wide-angle shots looking along the main deck from bow to stern capture the ship's scale.
+Multiple sources single out the propeller as a strong photo subject, and the coral- and sponge-covered cargo-hold cage structure offers a distinctive wide-angle subject. Beyond that, this audit found no source-confirmed detail on lighting conditions at specific depths on this wreck, so photographers should assess natural light and visibility on the day and plan strobe use accordingly.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ The accessible depth and clear water make the Willaurie an excellent introductio
 - Typically combined with other Nassau dives as part of a two-tank itinerary
 
 ---
-*Sources: [DreamWrecks - The Willaurie Bahamas](https://dreamwrecks.com/willaurie-mailboat-bahamas-shipwreck), [Wannadive - The Willaurie Wreck Nassau](https://www.wannadive.net/spot/Central_America/Bahamas/New_Providence_-_Nassau/The_Willaurie_Wreck/index.html), [Scuba Diver Life - Willaurie Nassau](https://scubadiverlife.com/willaurie-new-providence-nassau-bahamas/), [Ash Underwater - Diving Nassau Wrecks](https://www.ashunderwater.com/blog/diving-nassau-bahamas-wrecks-of-the-willaurie-and-anthony-bell/). Last updated 2026-05-17.*
+*Sources: [DreamWrecks - The Willaurie, Bahamas](https://dreamwrecks.com/willaurie-mailboat-bahamas-shipwreck), [Wannadive - The Willaurie Wreck](https://www.wannadive.net/spot/Central_America/Bahamas/New_Providence_-_Nassau/The_Willaurie_Wreck/index.html), [Scuba Diver Life - The Willaurie](https://scubadiverlife.com/willaurie-new-providence-nassau-bahamas/), [Zentacle - The Willaurie Wreck](https://www.zentacle.com/Beach/3627/the-willaurie-wreck), [The World's Waiting - Get Wrecked in Nassau](https://www.theworldswaiting.com/2011/05/get-wrecked-in-nassau.html). Note: Ash Underwater's prior source page (ashunderwater.com) no longer resolves (DNS failure at re-check) and could not be independently re-verified this pass. Last updated 2026-07-11.*
