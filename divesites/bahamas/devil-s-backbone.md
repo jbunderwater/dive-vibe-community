@@ -3,7 +3,7 @@ name: Devil s Backbone
 lat: 25.5770333
 lng: -76.6869
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 11
 entryType: boat
 siteType: wreck
 ref: null
@@ -21,17 +21,17 @@ Stretching approximately 1.4 miles northeast of Spanish Wells at the north end o
 
 ## Notable Wrecks
 
-- **The Cienfuegos** (wrecked 1895): A 292-foot American steam passenger ship operated by the Ward Line — launched in 1883 from Chester, Pennsylvania. She measured 2,332 tons and ran aground on the reef approximately 5 miles north of Harbour Island. Now flattened in 3–10 metres of water; the bow, steam engine, boiler, two giant heat exchangers, and main driveshaft remain identifiable. The wreck resembles an underwater junkyard at this point, spread across the reef.
-- **The Carnarvon** (wrecked 1916): A 186-foot steel-hulled Welsh freighter that serviced lighthouses in the Bahamas for the British Admiralty. Sits in 5–8 metres of water on the southern edge of the Backbone, northeast of Preacher's Cave beach. The top of the steering quadrant is just 2–3 metres below the surface; the steam engine and driveshaft are remarkably intact for a wreck over a century old.
-- **The Train Wreck** (wrecked 1865): A barge carrying Confederate-era railway equipment — reportedly en route from the southern United States to a Cuban sugar plantation during the Civil War — which struck the reef in a storm. Lies in 3–5 metres of water. Remaining artifacts include train wheels, three-wheel trucks, boiler plate, brass spikes, coal, and ballast stones.
-- **The Vanaheim** (wrecked 1969): An 86-foot coastal freighter whose cargo of potatoes and onions gave the site its informal name "Potato and Onion Wreck." Lies in the shallows near the Cienfuegos.
+- **The Cienfuegos** (wrecked 1895): A 292-foot American steam passenger ship operated by the Ward Line — launched in 1883 from the John Roach & Sons Shipyard in Chester, Pennsylvania. She measured 39 feet 8 inches in breadth and weighed 2,332 tons, and ran aground on the reef approximately 5 miles north of Harbour Island (about 45 miles from Nassau). Sources conflict on the exact date and conditions: a contemporary New York Times account places the wreck on February 5, 1895 in calm seas, while surviving crew testimony described a strong northwest gale in the early hours of February 4, 1895. All passengers and crew survived, reportedly thanks to local Bahamian seamen who rescued the occupants of a capsized lifeboat. The wreck now lies in roughly 3–11 metres (10–35 feet) of water and resembles an underwater junkyard; the bow, steam engine, boiler, two heat exchangers, and main driveshaft remain identifiable, spread across the reef.
+- **The Carnarvon** (wrecked 1916): A 186-foot steel-hulled Welsh freighter that serviced lighthouses in the Bahamas for the British Admiralty. Ran aground on a shallow coral head off North Eleuthera in 1916. Sits in roughly 5–8 metres (15–25 feet) of water on the southern edge of the Backbone, northeast of Preacher's Cave beach. The top of the steering quadrant is about 2.4 metres (8 feet) below the surface; the steam engine and driveshaft are remarkably intact for a wreck over a century old, and divers can swim through part of the boiler.
+- **The Train Wreck** (wrecked 1865): A barge carrying a steam locomotive and rail cars struck the Devil's Backbone reef during a storm and sank with the train still aboard — this core fact is corroborated across multiple independent regional sources. The more colorful backstory attached to the wreck in some accounts — that it was Confederate-era railway equipment being shipped to a Cuban sugar plantation after Union troops overran Confederate rail lines during the Civil War — appears in a couple of regional sources (one citing the reference work *Berg's Tropical Shipwrecks*), but is not corroborated by any primary archival record found, and at least one other regional history of the wreck describes it without any Confederate/Cuba detail at all. **This narrative should be treated as unverified local legend, not established history.** Sources also disagree on depth, giving figures ranging from roughly 3–5 metres to 4.5–7.5 metres (10–25 feet). Visible remains include railcar wheels, three-wheel trucks, boiler plate, brass spikes, coal, and ballast stones.
+- **The Vanaheim** (wrecked February 1969): An 86-foot coastal freighter that ran aground on the reef during a storm; its cargo of potatoes and onions gave the site its informal name, the "Potato and Onion Wreck." It struck the reef at nearly the same spot as the Cienfuegos — the Vanaheim's metal rudder lies only about 5 feet from the Cienfuegos's bow.
 
 ## Site Information
 
 - **Location**: North Eleuthera, Bahamas (near Spanish Wells and Preacher's Cave)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: 8 meters
+- **Maximum Depth**: ~11 meters overall (varies by wreck: Train Wreck ~3-7.5m, Carnarvon ~5-8m, Cienfuegos/Vanaheim ~3-11m — see Notable Wrecks for source ranges)
 - **Typical Visibility**: 5-6 meters (conditions can be variable due to surge and sand disturbance)
 - **Current**: Light to moderate
 - **Best Time**: November to May (calmer conditions)
