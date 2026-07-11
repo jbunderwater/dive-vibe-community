@@ -31,7 +31,7 @@ Located at the northern end of the Exuma Cays just south of Highbourne Cay, Norm
 
 ## Marine Life
 
-The current draws nutrients through the channel, attracting larger pelagic species. Caribbean reef sharks and eagle rays are commonly encountered in the cut. The reef walls host grouper, snapper, moray eels, sea fans, and sponges. Sea turtles are frequently seen in the Exuma Cays throughout the year.
+Regional sources for Exuma Cays channel/cut dives (including this one) describe eagle rays and sea turtles as regular sightings, with reef structure hosting grouper, snapper, and moray eels among sea fans and sponges. No source found in this re-audit specifically confirmed Caribbean reef sharks at this cut (as opposed to the general Exuma Cays reef sharks reported elsewhere in the destination) — that claim has been softened rather than removed outright, since channel/cut dives elsewhere in the Exumas do commonly report reef sharks, but it is not independently confirmed for Norman's Cay Cut specifically.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ Drift dive by boat only. This site requires an experienced local boat captain wh
 The currents at Norman's Cay Cut are among the strongest in the Exuma Cays. Incorrect tidal timing can result in dangerous, uncontrollable drift. If you miss the exit point, stay at the surface and signal the boat with your SMB. Divers should have solid buoyancy skills and drift diving experience before attempting this site.
 
 ---
-*Sources: [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Zentacle - Norman's Cay Cut](https://www.zentacle.com/). Last updated 2026-05-17.*
+*Sources: [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Zentacle - Norman's Cay Cut](https://www.zentacle.com/), [Highbourne Cay - Diving in the Exumas](https://highbourne-exumas.com/). Re-audited 2026-07-11: reef shark claim at this specific cut softened as unconfirmed. Last updated 2026-07-11.*

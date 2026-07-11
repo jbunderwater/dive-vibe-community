@@ -17,7 +17,7 @@ A current-swept wall dive at the corner of Menjangan Island where the reef drops
 
 ## Overview
 
-Blue Corner is situated at a prominent point on Menjangan Island where the reef wall turns sharply and currents accelerate around the corner, attracting schooling fish and pelagic species. The wall drops vertically from the surface to beyond 30 m, draped in gorgonian fans, black coral trees, and colourful soft corals. The corner geometry channels current to produce reliable fish aggregations — schools of trevally, fusiliers, and snapper are a constant presence. The site sits between the main eastern and western wall dive zones and offers a slightly more exposed character suited to intermediate divers comfortable with moderate current.
+Blue Corner is a named wall/point dive at Menjangan Island (not to be confused with the far more famous Blue Corner dive sites in Palau or off Nusa Penida/Lembongan — an easy mix-up, since a dive operator also called "Blue Corner Dive" runs trips to Menjangan from Pemuteran, and a well-known diveconcepts.com page titled "Blue Corner" actually describes their Nusa Lembongan site, not this one). Site-specific information for Menjangan's own Blue Corner is thinner than for the other Menjangan sites in this guide: only one dive operator (Bali Diving Academy / Scubali) publishes a dedicated listing for it, describing a wall dive from around 5 m down to 35 m or more, suited to a range of experience levels. Treat descriptions below as a starting point rather than exhaustive — this entry would benefit from further research before being treated as fully validated.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Blue Corner is situated at a prominent point on Menjangan Island where the reef 
 
 ## Marine Life
 
-Schools of bigeye trevally and snapper dominate the corner point. Blacktip reef sharks are frequently seen at 20–30 m. Turtles feed on the wall corals, and large grouper inhabit the deeper overhangs. Moray eels are tucked into crevices throughout the wall, and the gorgonians host nudibranchs and pygmy seahorses for patient searchers.
+The one dedicated site listing we found reports turtles, barracuda, trevally, tuna, and snapper, along with reef sharks — but does not specify whether these are blacktip, whitetip, or a mix, so **the previous "blacktip reef sharks" claim has been softened to "reef sharks" pending better confirmation.** **Pygmy seahorses, black coral trees, moray eels, and large grouper — all previously listed here — could not be confirmed for this specific site in any source found during this pass** and have been removed. Pygmy seahorses are genuinely well documented at Menjangan, but at Pos 2 and Eel Garden specifically, not at Blue Corner; this looks like a case of a destination-wide highlight being copied onto a site without site-specific confirmation.
 
 ## Dive Profile
 
@@ -46,7 +46,6 @@ Jukung boat from Labuhan Lalang. Entry via back roll on the upcurrent side. Curr
 
 - Approach the corner at depth to stay below the strongest surface current
 - Station yourself at 15–20 m to watch the show as fish circle the point
-- Check gorgonians on the wall for pygmy seahorses while currents are manageable
 - Carry a reef hook if your operator provides one for current-swept corners
 - Combine with Pos 2 or Bat Cave for a full Menjangan diving day
 
@@ -56,7 +55,9 @@ Currents can be strong and may reverse unexpectedly as the tide changes. Do not 
 
 ## Photography
 
-The corner's fish aggregations provide spectacular wide-angle subjects — schools of trevally backlit against the blue water are the signature shot. Reef sharks on the wall add drama. Wide-angle with dual strobes works best; save macro for the calmer sections of the wall where current is reduced.
+The corner's fish aggregations provide spectacular wide-angle subjects — schools of trevally backlit against the blue water are the signature shot. Wide-angle with dual strobes works best in current; macro is only practical in the calmer sections of the wall.
 
 ---
-*Sources: [Dive Concepts - Crystal Bay Menjangan](https://diveconcepts.com/bali/spot-crystal-bay.php), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-05-17.*
+*Note: A previous version of this page cited "diveconcepts.com/bali/spot-crystal-bay.php" as a source. That page describes Crystal Bay at Nusa Penida — a different island and a different operator's site entirely — and has been removed as a mismatched citation. Site-specific sourcing for Menjangan's Blue Corner remains limited to one dedicated listing; this page should be revisited if better sources become available.*
+
+*Sources: [Bali Diving Academy (Scubali) - Menjangan](https://scubali.com/en/menjangan/). Last updated 2026-07-11.*

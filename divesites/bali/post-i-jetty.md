@@ -17,7 +17,7 @@ A pleasant sandy slope in front of Menjangan Island's ranger station — an ofte
 
 ## Overview
 
-Post I Jetty sits directly in front of the West Bali National Park ranger station on Menjangan Island and is a gentle sandy slope with a good variety of hard and soft corals reaching to around 30 m. While it lacks the dramatic vertical walls of other Menjangan sites, the shallow area beneath the jetty is genuinely special for critter hunters — ornate ghost pipefish, pipefish, frogfish, and various nudibranchs inhabit the structures and rubble. The site works well as a final dive of the day, providing a relaxed, lower-intensity experience to complement the deeper wall dives at Pos 2 or Bat Cave earlier in the day.
+Post I Jetty sits directly in front of the West Bali National Park ranger station at the southwest tip of Menjangan Island — the main entrance point for the park. It's described consistently across operators as a relaxing, easy site with sandy slopes and flats, low current, and good visibility. While it lacks the dramatic vertical walls of other Menjangan sites, the shallow area beneath the jetty is genuinely special for critter hunters — ornate ghost pipefish have been reported there by more than one operator. The site works well as a final dive of the day, providing a relaxed, lower-intensity experience to complement the deeper wall dives at Pos 2 or Bat Cave earlier in the day.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Post I Jetty sits directly in front of the West Bali National Park ranger statio
 
 ## Marine Life
 
-The jetty pilings host ornate ghost pipefish, pipefish, various nudibranch species, and small crustaceans. The sandy slope outside has garden eels, blue-spotted stingrays, and occasional cuttlefish. Lionfish rest under overhangs, and batfish congregate near the structure. Turtles are frequently seen on the reef.
+The jetty pilings host ornate ghost pipefish — confirmed here by two independent operators — along with pipefish and nudibranchs in the mixed coral rubble. The sandy slope hosts blue-spotted stingrays, and juvenile batfish and turtles are reported here too. **Garden eels, lionfish, and cuttlefish, previously listed for this site, are not confirmed by any source found in this pass and have been removed** — garden eels in particular are a documented feature of Menjangan's separate Eel Garden site, not this one.
 
 ## Dive Profile
 

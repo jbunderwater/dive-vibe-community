@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # Conception Wall
 
-A remote, pristine wall off uninhabited Conception Island in the central Bahamas — one of the least-dived significant walls in the archipelago, with exceptional clarity and undisturbed coral gardens.
+A remote, pristine wall off uninhabited Conception Island, roughly 20 km northeast of Long Island — one of the least-dived significant walls in the archipelago, with exceptional clarity and undisturbed coral gardens.
 
 ## Overview
 
@@ -41,7 +41,7 @@ Descent to the wall crest at 12 meters, then a controlled descent along the wall
 
 ## Entry and Exit
 
-Liveaboard access only — Conception Island has no facilities and is only reachable by sea. Entry by backward roll or giant stride. DSMB essential for the open-water ascent from a remote wall.
+Boat access only (liveaboard, or long-range day boat from Long Island) — Conception Island has no facilities and is only reachable by sea. Entry by backward roll or giant stride. DSMB essential for the open-water ascent from a remote wall.
 
 ## Tips and Recommendations
 
