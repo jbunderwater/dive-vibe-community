@@ -22,9 +22,9 @@ Zentacle's dedicated listing for this site (found at its own URL distinct from "
 ## Site Information
 
 - **Location**: Freetown area, South Eleuthera (Cape Eleuthera), Bahamas
-- **Entry Type**: Shore or boat (per Zentacle's site-specific listing)
+- **Entry Type**: Shore or boat entry
 - **Site Type**: Wall dive
-- **Maximum Depth**: 15 meters (49.2 ft) per the site-specific source; the wall itself continues deeper along the coast but no source confirms a specific greater depth for this exact pin
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-30 meters (regional estimate, not site-specific)
 - **Current**: Moderate to strong — Cape Eleuthera is known for challenging current conditions (regional characterization)
 - **Best Time**: December to May

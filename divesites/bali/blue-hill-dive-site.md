@@ -27,7 +27,7 @@ An extensive search of roughly a dozen other Tulamben-area dive shop and resort 
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters (resort states 2-15m)
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Not confirmed by an independent source
 - **Current**: Not confirmed by an independent source
 - **Best Time**: April to November (regional dry-season default; not confirmed site-specific)

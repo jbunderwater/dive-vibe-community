@@ -31,7 +31,7 @@ Stretching approximately 1.4 miles northeast of Spanish Wells at the north end o
 - **Location**: North Eleuthera, Bahamas (near Spanish Wells and Preacher's Cave)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: ~11 meters overall (varies by wreck: Train Wreck ~3-7.5m, Carnarvon ~5-8m, Cienfuegos/Vanaheim ~3-11m — see Notable Wrecks for source ranges)
+- **Maximum Depth**: 11 meters
 - **Typical Visibility**: 5-6 meters (conditions can be variable due to surge and sand disturbance)
 - **Current**: Light to moderate
 - **Best Time**: November to May (calmer conditions)

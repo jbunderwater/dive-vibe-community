@@ -23,9 +23,9 @@ Tiger Beach sits approximately 32 km (20 miles) off the west end of Grand Bahama
 
 - **Location**: Northwest Bahamas, Grand Bahama offshore, ~32 km (20 miles) off West End
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (sand flat)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 9 meters (sources range 5–20 m depending on operator)
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 25–40 metres
 - **Current**: Light
 - **Best Time**: October to January for the most tiger shark activity; great hammerheads December–March

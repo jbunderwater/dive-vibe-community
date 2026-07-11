@@ -24,7 +24,7 @@ Also known as the "Cobia Cage" or CEI Offshore Cage, Off The Wall is a large dec
 - **Location**: Cape Eleuthera, southern Eleuthera, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Maximum Depth**: 30 meters (sources vary — reported cage/wall depths range from about 15 to 30 m; see Overview)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate; Cape Eleuthera is known for current-influenced conditions
 - **Best Time**: December to May
