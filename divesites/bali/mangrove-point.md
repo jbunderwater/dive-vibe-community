@@ -44,19 +44,18 @@ Jukung boat from Labuhan Lalang. Entry via back roll or giant stride from the gu
 
 ## Tips and Recommendations
 
-- Dive in the morning to make the most of the beautiful light filtering through the corals
-- Spend your safety stop in the shallows watching the fish nurseries — it rivals the deeper reef
-- Look for ornate ghost pipefish near the gorgonian bases
+- Dive in the morning to make the most of the light filtering through the shallows
+- Watch the wall for reef sharks, moray eels, and octopus in crevices
 - Pair with Eel Garden or Pos 2 for a full Menjangan day
 - Suitable for Open Water certified divers and snorkellers
 
 ## Safety Considerations
 
-Currents are usually mild but can increase at the point. Stay within recreational depth limits. Lionfish in coral overhangs are venomous — observe from a safe distance. Maintain good buoyancy to protect the reef structure. Always dive with a buddy.
+Currents are usually mild but can increase at the point. Stay within recreational depth limits. Maintain good buoyancy to protect the reef structure. Always dive with a buddy.
 
 ## Photography
 
-Morning dives offer exceptional natural light for shooting the shallow reef and fish schools. Wide-angle works well for the wall sections, while macro shooters will find ghost pipefish, nudibranchs, and juvenile fish in the corals. The safety stop in the shallows often yields some of the most colourful shots of the day.
+Morning dives offer good natural light for shooting the shallow reef and fish schools. Wide-angle works well for the wall sections and passing reef sharks; macro shooters will find nudibranchs and juvenile fish in the corals.
 
 ---
-*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Bali Diving Academy (Scubali) - Menjangan](https://scubali.com/en/menjangan/), [Abyss Ocean World - Pemuteran & Menjangan Dive Sites](https://abyssoceanworld.com/dive-sites-pemuteran-menjangan/). Last updated 2026-07-11.*

@@ -17,7 +17,7 @@ The signature wall dive at Menjangan Island — spectacular gorgonians, pygmy se
 
 ## Overview
 
-Pos 2 (Post 2) sits on the southeast point of Menjangan Island and is one of the most renowned wall dives in Bali. The wall begins at 12 m and drops vertically to beyond 35 m, with the most spectacular coral growth concentrated between 15–25 m. This section is home to some of the largest sea fans in Bali, as well as forests of whip corals and multi-coloured sponges. Cold water upwellings from depth bring pelagic life close to the reef, including turtles and occasional manta rays and mola mola (oceanic sunfish). The site connects naturally to Bat Cave Point to the west, allowing for a long drift dive along the entire eastern wall.
+Pos 2 (Post 2) sits on the south coast of Menjangan Island and is consistently described across multiple operators as one of the most renowned wall dives in Bali. The wall begins around 12 m and drops to 35–40 m, with the most spectacular coral growth concentrated between 15–25 m. This section is home to some of the largest sea fans in Bali, as well as whip corals and sponges. Several operators independently report manta rays, mola mola (oceanic sunfish, most likely July–October), and eagle rays passing the wall. The site connects naturally to Bat Cave Point to the west, allowing for a long drift dive along the wall.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Pos 2 (Post 2) sits on the southeast point of Menjangan Island and is one of the
 
 ## Marine Life
 
-Between 20–25 m, enormous sea fans host Denise pygmy seahorses — considered one of the best pygmy seahorse spots in Bali. Spotted eagle rays cruise past in mid-water. Fusiliers, triggerfish, and trevally form dense schools along the wall. Turtles feed on the corals, and sharks are occasionally seen at depth. During the right season (July–October), mola mola have been sighted in this area.
+This is genuinely one of the best-documented pygmy seahorse claims in this guide: multiple independent dive databases and operators (not just one) confirm Denise pygmy seahorses on the large sea fans between roughly 25–30 m, making this — along with Menjangan's separate Eel Garden site — one of the two spots at Menjangan where the claim holds up to scrutiny (it does not hold up at Bat Cave, Underwater Cave, or Blue Corner, where the same claim has been removed in this pass for lack of site-specific sources). Eagle rays, manta rays, and reef sharks are also independently confirmed here. Fusiliers, triggerfish, and trevally form dense schools along the wall, and turtles are regularly reported. Mola mola have been reported in-season (July–October).
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents are moderate but can increase around the point. Stay aware of depth whe
 Pos 2 is superb for both wide-angle and macro work. The enormous sea fans and clear water suit wide-angle with strobes. Pygmy seahorses require a macro lens and patience to photograph among the gorgonian polyps. Eagle rays in blue water make dramatic wide-angle subjects on clear days.
 
 ---
-*Sources: [Dive Concepts - Pos 2 Menjangan](https://diveconcepts.com/dive-site-pos-2-menjangan-bali), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Dive Concepts - Pos 2 Menjangan](https://diveconcepts.com/dive-site-pos-2-menjangan-bali), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [Nico Dives Cool Bali - Menjangan](https://nicodivescoolbali.com/go-diving/day-trips/menjangan/), [Scuba Diving Magazine - Dive Site of the Day: POS 2](https://www.scubadiving.com/dive-site-day-pos-2-bali-indonesia). Last updated 2026-07-11.*

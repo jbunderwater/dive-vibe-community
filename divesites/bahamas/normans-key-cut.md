@@ -13,33 +13,33 @@ addedBy: community_contribution
 
 ## Normans Key Cut
 
-Normans Key Cut (Norman's Cay Cut) is one of the most dramatic drift dives in the Exuma Cays, where tidal flow through a narrow channel between Norman's Cay and the next island propels divers through a colorful reef system at speed.
+Normans Key Cut (Norman's Cay Cut) is listed as a drift dive in the Exuma Cays, but a deep re-audit (2026-07-11) could not independently confirm the specific "washing machine" drift-dive narrative previously attached to this entry. See the flag below.
 
 ## Overview
 
-Located at the northern end of the Exuma Cays just south of Highbourne Cay, Norman's Cay Cut is a tidal channel dive that begins in around 15 feet (5m) of water and sweeps divers down to 50 feet (15m) as the current accelerates through the cut. When the tide is running correctly, the current drops divers through a boulder shoot into a basin, then lifts them back up — a sequence some describe as a natural "washing machine." The reef flanking the channel is healthy and colourful, with visibility typically excellent in these protected waters. Timing is everything: the dive has a narrow window and requires knowledge of local tidal patterns.
+**Re-audit flag (2026-07-11), superseding the concurrent pass's partial edit:** the previous description of a boulder-shoot / "washing machine" drift (tidal sweep from 5m to 15m through a basin, current 4-6 knots) closely matches the real, independently well-documented **"Washing Machine"** dive site, which multiple sources (Scuba Diving Magazine, Dive the World, YachtCharterFleet) consistently place near **Shroud Cay**, in the northern Exuma Cays Land and Sea Park — a different, specific island from Norman's Cay, roughly 15-20 km to the south. No source found in this pass — including a source added in a concurrent edit pass (highbourne-exumas.com, which on direct inspection contains no diving content at all) — confirms this "washing machine" description as applying to Norman's Cay specifically. What IS confirmed about diving/snorkeling near Norman's Cay: the reefs on the island's NE coast are regionally reputed to be some of the best in the Bahamas; a channel/cut area exists with tidal current; and nearby Norman's Pond (a separate, landlocked-looking bay reached by dinghy) is reported by one source (a Bahamas cruising guide, not a diving-specific source) as a hammerhead shark mating site in April. None of this matches the specific drift-dive profile previously described here. This description has been rewritten conservatively pending better site-specific sourcing — recommend either re-verifying this exact site with a local Exuma dive operator or renaming/relocating the entry to correctly reflect the Shroud Cay "Washing Machine" site if that was the intended site.
 
 ## Site Information
 
 - **Location**: Norman's Cay area, northern Exuma Cays, Bahamas
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
-- **Maximum Depth**: 15 meters
-- **Current**: Strong tidal flow — can exceed 4-6 knots at peak; dive at correct tidal stage
-- **Typical Visibility**: 20-30 meters
-- **Best Time**: November to May
+- **Site Type**: Drift dive (unconfirmed this pass — see flag above)
+- **Maximum Depth**: 15 meters (unconfirmed this pass — carried over from prior entry, not independently verified)
+- **Current**: Tidal current is plausible for a Norman's Cay channel dive generally, but the specific "4-6 knots" figure is unconfirmed for this site
+- **Typical Visibility**: Not independently confirmed this pass
+- **Best Time**: Not independently confirmed this pass
 
 ## Marine Life
 
-Regional sources for Exuma Cays channel/cut dives (including this one) describe eagle rays and sea turtles as regular sightings, with reef structure hosting grouper, snapper, and moray eels among sea fans and sponges. No source found in this re-audit specifically confirmed Caribbean reef sharks at this cut (as opposed to the general Exuma Cays reef sharks reported elsewhere in the destination) — that claim has been softened rather than removed outright, since channel/cut dives elsewhere in the Exumas do commonly report reef sharks, but it is not independently confirmed for Norman's Cay Cut specifically.
+No site-specific marine life source was found for Norman's Cay Cut itself in this pass. Regionally, Exuma Cays channel/cut dives commonly report grouper, snapper, moray eels, sea fans, and sponges, and eagle rays and turtles are seen throughout the Exuma Cays — but none of this was confirmed as specific to this exact site.
 
 ## Dive Profile
 
-Enter the water at the up-current end of the channel when tidal flow is building. The current will carry you down through the boulder shoot to around 15m, then back up through the "washing machine" section. The entire drift typically takes 10-15 minutes. The boat positions at the exit end to pick up divers as they surface.
+Not independently confirmed this pass. The previously-described "boulder shoot" and "washing machine" profile appears to belong to a different, specific site (see flag above) and has been removed from this profile pending correct site verification.
 
 ## Entry and Exit
 
-Drift dive by boat only. This site requires an experienced local boat captain who knows exactly when to run it. Do not attempt independently without local knowledge of the tidal timing.
+Boat access only. If this site does involve tidal channel current as its name suggests, local operator knowledge of tidal timing would be essential — but the specific operational details previously given here were not independently verified this pass.
 
 ## Tips and Recommendations
 
