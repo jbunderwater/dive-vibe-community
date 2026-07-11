@@ -43,14 +43,11 @@ Boat access only. If this site does involve tidal channel current as its name su
 
 ## Tips and Recommendations
 
-- Advanced certification and prior drift diving experience are strongly recommended
-- Deploy your SMB before the final ascent so the boat can track you
-- Surrender to the current — fighting it wastes air and energy
-- Check the tide tables with your dive operator; the entry window may be only 20-30 minutes wide
+If diving any Exuma Cays channel/cut site with current, advanced certification and drift-diving experience are generally recommended, and deploying an SMB and following local operator guidance on tidal timing is standard practice — but these are general Exuma Cays recommendations, not confirmed specifics for this site.
 
 ## Safety Considerations
 
-The currents at Norman's Cay Cut are among the strongest in the Exuma Cays. Incorrect tidal timing can result in dangerous, uncontrollable drift. If you miss the exit point, stay at the surface and signal the boat with your SMB. Divers should have solid buoyancy skills and drift diving experience before attempting this site.
+General Exuma Cays channel-diving caution applies (current awareness, SMB use, experienced local boat captain) but site-specific safety details for Norman's Cay Cut were not independently confirmed this pass.
 
 ---
-*Sources: [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Zentacle - Norman's Cay Cut](https://www.zentacle.com/), [Highbourne Cay - Diving in the Exumas](https://highbourne-exumas.com/). Re-audited 2026-07-11: reef shark claim at this specific cut softened as unconfirmed. Last updated 2026-07-11.*
+*Sources consulted this pass (none independently confirm the site-specific "washing machine" drift profile for Norman's Cay itself): [Bahamas Cruisers Guide - Norman's Cay](https://bahamascruisersguide.com/Exumas/Exumas/NormansC.html) (general/tidal info only, not a dive-specific source), [Scuba Diving Magazine - Wax Cay Cut](https://www.scubadiving.com/aboard-aqua-cat-traveling-wax-cay-cut) (describes the real, distinct Wax Cay Cut/Washing Machine site near Shroud Cay), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php) (describes "The Washing Machine" near Shroud Cay, not Norman's Cay). Previously-cited sources (DiveIn, bare Zentacle homepage, and a concurrent pass's added highbourne-exumas.com) do not contain verifiable site-specific content for this entry. Flagged unresolved 2026-07-11.*
