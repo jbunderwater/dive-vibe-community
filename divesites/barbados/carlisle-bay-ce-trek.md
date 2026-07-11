@@ -56,4 +56,4 @@ Do not penetrate fully enclosed compartments without wreck diving training. DSMB
 The Ce-Trek's concrete encrustation with its distinct texture is a strong macro photography subject — frogfish and seahorse portraits are the standout images. Natural light is adequate for the full depth range in morning conditions.
 
 ---
-*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/). Last updated 2026-05-17.*
+*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/), [Carlisle Bay Barbados](https://carlislebaybarbados.org/shipwrecks/). Last updated 2026-07-11.*

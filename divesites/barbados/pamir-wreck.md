@@ -3,7 +3,7 @@ name: Pamir Wreck
 lat: 13.1
 lng: -59.615
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
