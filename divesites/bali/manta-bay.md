@@ -27,7 +27,7 @@ Manta Bay is situated near the iconic Broken Beach (Pasih Uug) on the northwest 
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (sources vary; see note above)
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Generally calmer/more sheltered than Manta Point; can still be significant
 - **Best Time**: April to October

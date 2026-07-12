@@ -25,7 +25,7 @@ Barracuda Wall is part of the broader Bunutan dive area near Amed on Bali's nort
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (average ~18 meters)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-25 meters
 - **Water Temperature**: 27-29°C
 - **Current**: Current-assisted drift, can build from moderate to very strong

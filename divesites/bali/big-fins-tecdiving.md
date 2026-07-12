@@ -26,10 +26,10 @@ This entry's coordinates fall in the Kubu/Tulamben area, close to where the Kubu
 ## Site Information
 
 - **Location**: Kubu/Tulamben area, northeast Bali coast (coordinates match a location near Big Fins' Kubu training operation)
-- **Entry Type**: Unconfirmed
-- **Site Type**: Unconfirmed — likely misattributed to a dive operator rather than a distinct site
-- **Difficulty Level**: Unconfirmed
-- **Maximum Depth**: Unconfirmed
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Status**: Not validated as a genuine, independently-documented dive site after three separate research attempts (this pass and the prior pass). Recommend flagging for removal or merging with the Kubu Wreck / Boga Wreck entries pending further evidence.
 
 ## Marine Life

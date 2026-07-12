@@ -25,7 +25,7 @@ Gili Mimpang (Batu Tiga, meaning "three rocks") is a series of three large rocks
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters (dive operators report a working range of roughly 10–35 m across the site)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–30 m
 - **Current**: Medium to strong, variable; tied to tide and moon phase
 - **Best Time**: May to October (mola mola season July–October)

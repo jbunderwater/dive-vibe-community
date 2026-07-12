@@ -27,7 +27,7 @@ Gili Tepekong is the largest of the three volcanic islets in Amuk Bay off Candid
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (sources describe 10–40 m for this face)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: More protected/predictable than the south face, but can still be significant
 - **Best Time**: May to October

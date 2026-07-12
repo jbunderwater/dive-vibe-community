@@ -167,7 +167,7 @@
       "description": "Likely the house reef at Bluehill Dive Resort Tulamben, a shallow shore-entry reef (2-15m) between the USAT Liberty Wreck and the Tulamben Wall. Known for statues and stone carvings scattered on the reef. Single source only; requires additional independent validation.",
       "name": "Blue Hill Dive Site",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-12"
     }
   },
   {
@@ -220,10 +220,10 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "padi.com,balifundiving.com,bluecornerdive.com",
     "tags": {
-      "description": "Corner point on Menjangan Island where reef wall turns sharply. Currents accelerate around corner. Wall drops vertically from surface to 30m+, covered in gorgonian fans, black coral trees, soft corals. Dense fish aggregations: bigeye trevally, snapper, fusiliers. Blacktip reef sharks at 20-30m. Turtles, large grouper, moray eels. Pygmy seahorses on gorgonians.",
+      "description": "NAMING CONFLICT (found this pass): these coordinates fall within Menjangan Island's wall-diving zone (near Pos I, Pos II, Mangrove Point), but no Menjangan dive-shop site listing (Bali Fun Diving, Menjangan Island Trip, PADI) names a site 'Blue Corner' among Menjangan's points. The well-documented Bali dive site actually called 'Blue Corner' is a different, well-known drift dive off Nusa Lembongan/Nusa Penida (~60km away, PADI lists it near -8.661,115.442) with sharks, rays, and mola mola - NOT this location. 'Blue Corner Dive & Conservation' is also a dive operator with a Menjangan branch, likely explaining the name overlap/confusion. The description previously here (reef wall, bigeye trevally, blacktip sharks etc.) appears to have been misattributed from the Nusa Lembongan site and has been removed. Depth/current/species claims for this specific point are UNVERIFIED - not marked validated pending clarification of what site, if any, actually corresponds to these coordinates.",
       "leisure": "marina",
       "name": "Blue Corner",
       "reef": "coral",
@@ -262,10 +262,10 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
+    "validated": false,
     "validation_source": "baliaqua.com,menjanganislandtrip.com",
     "tags": {
-      "description": "Western tip of Menjangan Island. Wall drops to ~30m. Good morning light through shallow corals. Dense juvenile fish nurseries in shallow branching corals. Lionfish, ghost pipefish, moray eels on wall. Turtles feeding on reef crest. Reef sharks and trevally at depth. Batfish mid-water. Slightly more sheltered than eastern wall sites.",
+      "description": "Western/southeastern tip of Menjangan Island, ~10-15 min boat from Post I. Dive-shop sources describe a gentle wall/sloping-reef hybrid (quieter than Menjangan's dramatic walls), scattered coral patches, small rock formations, mini-walls. Depths reported 5-25m+ (destination data lists 20m as approximate). Confirmed marine life (baliaqua.com): triggerfish (territorial when nesting), reef sharks, moray eels, octopus, batfish, snappers, nudibranchs. menjanganislandtrip.com confirms abundant reef fish/coral and mangrove-fringed shallow snorkel area. UNRESOLVED: only 2 independent site-specific sources found despite genuine search for a 3rd (a 'Mangrove Point' listed by Bali Fun Diving describes a different site near Nusa Lembongan). Downgraded from validated=true to validated=false this pass per 3-source minimum policy; previously-listed lionfish, ghost pipefish, and juvenile-fish-nursery claims removed as unconfirmed.",
       "leisure": "marina",
       "name": "Mangrove Point",
       "reef": "coral",

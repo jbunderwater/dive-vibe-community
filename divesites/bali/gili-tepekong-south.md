@@ -25,7 +25,7 @@ Gili Tepekong South is the dramatic, exposed southwest face of the largest islan
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters (canyon reported starting ~24–25 m; swim-through tunnel 18–28 m; Blue Hole entrance ~12–21 m)
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Strong to very strong; powerful down-currents documented, especially in the canyon during surface swell
 - **Best Time**: May to October (slack tide only)

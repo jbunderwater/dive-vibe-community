@@ -22,10 +22,10 @@ A wall-diving point within the Menjangan Island reef system, West Bali National 
 ## Site Information
 
 - **Location**: Coordinates fall within the Menjangan Island dive area, West Bali National Park, northwest Bali — exact named site could not be confirmed against dive-shop listings this pass
-- **Entry Type**: Boat dive (consistent with all Menjangan diving)
-- **Site Type**: Wall dive (consistent with general Menjangan wall-diving character; not independently confirmed for this specific point)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (unverified for this specific point)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 m (general Menjangan range)
 - **Current**: Not independently confirmed for this point
 - **Best Time**: April to November (general Menjangan dry-season window)

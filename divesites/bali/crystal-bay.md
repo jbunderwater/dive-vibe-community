@@ -25,7 +25,7 @@ Crystal Bay is Bali's premier site for encountering the ocean sunfish (mola mola
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (most recreational diving 12–25 m)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Strong to very strong, especially near the "second corner"; documented dangerous down-currents
 - **Best Time**: July–October for mola mola; April–June for calmer conditions

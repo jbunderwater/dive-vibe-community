@@ -23,9 +23,9 @@ Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside 
 
 - **Location**: North coast of Nusa Penida, Bali region, in front of Ped temple
 - **Entry Type**: Boat dive
-- **Site Type**: Predominantly sloping reef with sections of wall (particularly toward Sental); often listed as a "wall" site by local operators
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (reef begins around 5 m and slopes/drops well past 30 m)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 m
 - **Current**: Weak to moderate drift current
 - **Best Time**: April to October; mola mola most likely July–October

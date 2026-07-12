@@ -25,9 +25,9 @@ Mangrove Point is located roughly 10–15 minutes by boat from Post I, on Menjan
 
 - **Location**: Southeastern Menjangan Island, ~10–15 min by boat from Post I, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (dive-shop descriptions characterize it as a gentle wall/sloping-reef hybrid)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters (sources describe 5–25 m+)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Generally light to moderate
 - **Best Time**: April to November
