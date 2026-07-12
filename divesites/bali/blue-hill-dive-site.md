@@ -36,27 +36,26 @@ The resort's own site is the only source found this pass, and it specifically ca
 
 ## Dive Profile
 
-Enter at the boat and descend to the reef at 10 m. Follow the sloping reef to 20–25 m, then ascend gradually back along the slope. Most fish life is concentrated at 8–18 m. The shallow reef section between 3–8 m offers a colourful final exploration during the safety stop period.
+Enter directly from the beach and descend across the shallow reef, which the resort describes as running from about 2 to 15 m. Explore the scattered statues and stone carvings along the reef, watching sandy patches for blue ribbon eels. Ascend gradually and complete a safety stop in the shallows before exiting.
 
 ## Entry and Exit
 
-Boat dive from Tulamben area operators. Entry via back roll. Currents are manageable. SMB deployment recommended for ascent in open water.
+Shore entry directly from Bluehill Dive Resort's beach, per the resort's own description of its house reef. (Corrected this pass — the previous text here described a boat entry, which contradicted this site's own recorded shore entry type and 15 m max depth; that inconsistency has been fixed.)
 
 ## Tips and Recommendations
 
-- Excellent filler dive between the Liberty wreck and muck diving sites in the Tulamben area
-- Well-suited for Open Water divers progressing toward their Advanced certification
-- Check sea fans at depth for pygmy seahorses if available in the area
+- Convenient house-reef dive between the Liberty wreck and Tulamben's muck-diving sites
+- Look for the scattered statues and stone carvings that are the reef's signature feature
+- Watch sandy patches for blue ribbon eels
 - Pair with an early morning Liberty wreck dive for a productive two-dive morning
-- Afternoon dives can be affected by increased current — check with operators
 
 ## Safety Considerations
 
-Maintain good buoyancy above the reef to avoid coral contact. Lionfish in overhangs are venomous — observe without touching. Sea urchins on the substrate can cause injury if handled or stepped on with bare skin.
+Maintain good buoyancy above the reef to avoid coral contact. Sea urchins on the substrate can cause injury if handled or stepped on with bare skin.
 
 ## Photography
 
-Good light in the shallows suits reef scene photography. Fish portraits of parrotfish and surgeonfish work well at the reef crest. Look for cleaner stations on prominent coral heads for fish portrait opportunities.
+The statues and stone carvings scattered across the reef are the site's most distinctive photographic subject. Macro shooters should look for blue ribbon eels in the sand.
 
 ---
-*Description based on regional characteristics of the Tulamben corridor. The "Blue Hill Dive Site" likely refers to the house reef at Bluehill Dive Resort Tulamben — a shallow shore-entry reef (2–15 m) between the Liberty Wreck and the Tulamben Wall, known for statues and stone carvings on the reef. No independent site-specific sources found under this exact name. Last updated 2026-05-17.*
+*Sources: [Bluehill Dive Resort - Dive](https://www.bluehilltulamben.com/dive) (content recovered via search aggregation this pass; the site returned repeated server errors on direct fetch). This remains the only source found for "Blue Hill" under this exact name despite fresh searching this pass — see Overview for the distinction from the similarly-described but differently-named "Suci Place"/statue reef near Matahari Resort. Last updated 2026-07-12.*
