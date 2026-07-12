@@ -17,22 +17,22 @@ An adrenaline dive on Tepekong's exposed south face — the site known as "The T
 
 ## Overview
 
-Gili Tepekong South is the dramatic, exposed face of the largest island in Amuk Bay off Candidasa. The canyon section — colloquially called "The Toilet" because of the swirling downcurrents it generates — is one of the most challenging dive environments in Bali, reserved for advanced divers with significant current experience. The wall drops to beyond 35 m and is covered in hard and soft corals, sea fans, and sponges. Schools of sweetlips, jacks, and large grouper congregate in the current-swept canyon, and whitetip and blacktip reef sharks are frequently observed. The Blue Hole, a distinctive chimney formation on the south face, adds to the dramatic topography.
+Gili Tepekong South is the dramatic, exposed southwest face of the largest island in Amuk Bay off Candidasa. Multiple independent sources (Bali Aqua, a general Bali diving search aggregate, Baliberty) confirm the canyon section is genuinely nicknamed "The Toilet" for the swirling, washing-machine-like downcurrents it generates during surface swell, and that it is reserved for advanced divers with significant current experience and, per several operators, a senior-guide requirement. Baliberty describes the canyon starting at roughly 25 m after a steep drop, with strong currents and a "flushing effect." Bali Aqua separately describes a connected swim-through tunnel between 28 m and 18 m on the same face, and a "shark boulder" in shallower water where whitetip reef sharks rest. A distinctive chimney/tunnel formation known locally as the Blue Hole is also confirmed on Tepekong (multiple dive-shop sources), entered from a slope around 12–21 m.
 
 ## Site Information
 
-- **Location**: Amuk Bay, Candidasa area, east Bali
+- **Location**: Southwest/south face of Gili Tepekong, Amuk Bay, Candidasa area, east Bali
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 35 meters (canyon reported starting ~24–25 m; swim-through tunnel 18–28 m; Blue Hole entrance ~12–21 m)
 - **Typical Visibility**: 10–20 m
-- **Current**: Strong to very strong; powerful down-currents possible
+- **Current**: Strong to very strong; powerful down-currents documented, especially in the canyon during surface swell
 - **Best Time**: May to October (slack tide only)
 
 ## Marine Life
 
-Whitetip and blacktip reef sharks are the signature species on the south face. Large schools of sweetlips, jacks, fusiliers, and grouper gather in the canyon. Mola mola appear on the exposed south wall during the July–October season. Turtles and barracuda are regular sightings. The walls host nudibranchs, pygmy seahorses in gorgonians, and large moray eels.
+Whitetip reef sharks are confirmed resting on the "shark boulder" in shallower water (Bali Aqua). Baliberty confirms sweetlips, snappers, and trevallies cohabiting with whitetips on the south face. Mola mola sightings July–September/October are reported by multiple Tepekong-focused sources during the cooler-water season, though exact months vary by source (July–September vs July–October). No source this pass specifically confirmed blacktip reef sharks, fusiliers, grouper, barracuda, or large moray eels on this specific face, so those have been removed; pygmy seahorses on gorgonians are reported for Tepekong generally rather than confirmed for this face specifically.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Down-currents in the canyon are the primary hazard and have caused incidents. Ne
 The canyon walls create dramatic frame shots. Schools of sweetlips in the current produce action shots that require fast shutter speeds. Reef sharks at rest on the wall are excellent subjects with wide-angle. The Blue Hole chimney with divers backlit by the opening is a signature image of Bali diving.
 
 ---
-*Sources: [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [Indopacific Images - Gili Tepekong](https://indopacificimages.com/indonesia/bali-anchor-page/diving-indonesia-bali-gili-tepekong/), [OK Divers - Gili Tepekong](https://www.okdiversbali.com/portfolio/gili-tepekong-bali/), [PADI - Gili Tepekong](https://www.padi.com/dive-site/indonesia/gili-tepekong-2/). Last updated 2026-05-17.*
+*Sources: [Bali Aqua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [Baliberty - Padangbai, Candidasa & the Gilis](https://www.baliberty.com/en/dive-sites/padangbai-candidasa-gilis/), [PADI - Gili Tepekong](https://www.padi.com/dive-site/indonesia/gili-tepekong-2/). Last updated 2026-07-12.*

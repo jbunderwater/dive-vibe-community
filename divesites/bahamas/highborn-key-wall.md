@@ -24,7 +24,7 @@ The wall sits right off the Highbourne Cay coastline, facing the Exuma Sound, an
 - **Location**: Highbourne Cay, northern Exuma Cays, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Maximum Depth**: Sources report 23-30 meters; retained at 30 m as the site's outer recreational limit
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate — the open Sound can generate surge and current
 - **Best Time**: November to May

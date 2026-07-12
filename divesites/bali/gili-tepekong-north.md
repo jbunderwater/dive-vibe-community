@@ -17,22 +17,24 @@ The more accessible face of Gili Tepekong — healthy hard and soft corals, turt
 
 ## Overview
 
-Gili Tepekong is the largest of the three volcanic islets in Amuk Bay off Candidasa, and its north face offers a more sheltered diving experience compared to the exposed southern sections. The northern reef features steep drop-offs, swim-throughs, and walls covered in blood-red sea fans, table corals, and various sponge species. Schools of sweetlips, bannerfish, and grouper are resident, and whitetip reef sharks are commonly found resting among the coral bommies. The site is accessible to intermediate divers on most days, though currents can still be significant and require monitoring throughout the dive.
+Gili Tepekong is the largest of the three volcanic islets in Amuk Bay off Candidasa. Its northeast face — sometimes called "The Garden" by local operators — is described by Baliberty as the island's most protected section, starting around 10 m and sloping to roughly 40 m, with pristine conditions and generally good visibility, in contrast to the exposed south/canyon face. The seabed here is covered in sponges and table coral, with fields of feather stars, anemones, and soft coral.
+
+*Note: sources describe this face's depth range as roughly 10–40 m; this destination's data lists a 25 m maximum, so treat depth as approximate.*
 
 ## Site Information
 
-- **Location**: Amuk Bay, Candidasa area, east Bali
+- **Location**: Northeast face of Gili Tepekong, Amuk Bay, Candidasa area, east Bali
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 25 meters (sources describe 10–40 m for this face)
 - **Typical Visibility**: 10–20 m
-- **Current**: Moderate; can increase significantly
+- **Current**: More protected/predictable than the south face, but can still be significant
 - **Best Time**: May to October
 
 ## Marine Life
 
-Whitetip reef sharks, turtles, octopus, and cuttlefish are regular sightings. Schools of sweetlips, jacks, and grouper gather in the current-swept areas. Bargibanti pygmy seahorses are found nestled in the pink and yellow gorgonians, taking on their host's colour for camouflage. Nudibranchs, crabs, and shrimps inhabit the reef rubble. The cooler water occasionally brings mola mola in season (July–October).
+Bali Aqua's Tepekong guide reports whitetip reef sharks resting on the boulders here. Baliberty's northeast-face description centers on sponges, table coral, feather stars, anemones, and soft coral rather than naming specific fish species. No source this pass specifically confirmed sweetlips, bannerfish, grouper, octopus, cuttlefish, pygmy seahorses, or mola mola on this north/northeast face specifically — those claims have been removed here (mola mola sightings are better documented on Tepekong's south/canyon face, see that site's entry).
 
 ## Dive Profile
 
@@ -44,10 +46,8 @@ Boat from Padangbai or Candidasa (approximately 20–25 minutes). Entry via back
 
 ## Tips and Recommendations
 
-- Gili Tepekong North suits intermediate divers; save Tepekong South for when conditions and experience align
-- Look methodically at pink gorgonians for Bargibanti pygmy seahorses
-- The canyon and swim-throughs between boulders are a highlight — follow your guide
-- Mola mola are possible July–October on the current-swept sections
+- Gili Tepekong North/Northeast ("The Garden") suits intermediate divers; save Tepekong South's canyon for when conditions and experience align
+- This face is generally the most protected and predictable part of Tepekong, per local operator guides
 - Combine with Gili Mimpang for a full Candidasa diving day
 
 ## Safety Considerations
@@ -56,7 +56,7 @@ Currents can intensify quickly and may reverse without warning near the island. 
 
 ## Photography
 
-The swim-throughs provide dramatic frame shots with divers silhouetted against the light. Pygmy seahorses in gorgonians require macro lens and careful focus. Wide-angle captures the schools of sweetlips and the coral wall character.
+Wide-angle suits the sponge- and table-coral-covered seabed and feather star fields. No site-specific macro subjects were confirmed for this face this pass.
 
 ---
-*Sources: [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [Indopacific Images - Gili Tepekong](https://indopacificimages.com/indonesia/bali-anchor-page/diving-indonesia-bali-gili-tepekong/), [PADI - Gili Tepekong](https://www.padi.com/dive-site/indonesia/gili-tepekong-2/). Last updated 2026-05-17.*
+*Sources: [Bali Aqua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [Baliberty - Padangbai, Candidasa & the Gilis](https://www.baliberty.com/en/dive-sites/padangbai-candidasa-gilis/), [PADI - Gili Tepekong](https://www.padi.com/dive-site/indonesia/gili-tepekong-2/). Last updated 2026-07-12.*

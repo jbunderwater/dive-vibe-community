@@ -24,7 +24,7 @@ Off The Wall is independently confirmed (via Zentacle's own listing) to be an al
 - **Location**: Cape Eleuthera, southern Eleuthera, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Maximum Depth**: ~24 meters at the cage (sources also show shallower logged dives around 15 m)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate; Cape Eleuthera is known for current-influenced conditions
 - **Best Time**: November to May

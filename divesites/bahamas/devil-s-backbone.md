@@ -17,7 +17,7 @@ The Devil's Backbone is a shallow, jagged reef extending across the northern tip
 
 ## Overview
 
-Stretching approximately 1.4 miles northeast of Spanish Wells at the north end of Eleuthera, the Devil's Backbone has been documented as a navigational hazard since 1648. More ships have wrecked here than on any other reef in the Bahamas. The result is a remarkable collection of shallow wrecks layered atop one another in 8-11 meters of water, all now heavily colonised by coral and sponge and hosting abundant marine life. The reef itself is an intricate system of coral heads, archways, and channels. The surf here is rarely calm, making the site effectively boat-access only despite the shallow depths.
+Stretching approximately 1.4 miles northeast of Spanish Wells at the north end of Eleuthera, the Devil's Backbone has been a documented navigational hazard since October 1648, when the William — carrying William Sayle and the Eleutheran Adventurers from Bermuda — wrecked here (her remains have never been found). More ships have wrecked here than on any other reef in the Bahamas. The result is a remarkable collection of shallow wrecks spread across the reef in roughly 3-10 meters of water, all now colonised by coral and sponge. The reef itself is an intricate system of coral heads, archways, and channels. The surf here is rarely calm, making the site effectively boat-access only despite the shallow depths.
 
 ## Notable Wrecks
 

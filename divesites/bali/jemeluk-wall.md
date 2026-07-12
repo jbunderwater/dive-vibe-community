@@ -17,7 +17,7 @@ A wall dive at the eastern end of Jemeluk Beach near Amed, where a slope steepen
 
 ## Overview
 
-Jemeluk Wall is located at the eastern end of Jemeluk Beach in the Amed area of northeast Bali, running north from a point. The site begins as a slope that gradually steepens into a genuine wall dropping 40 meters or more. The wall and upper slope are covered with small gorgonias, barrel sponges, large pink gorgonia fans, various sponges, and hard coral formations. The site is conveniently located approximately 10 minutes from Hotel Uyah, making it one of the most accessible wall dives in the Amed area.
+Jemeluk Wall is located at the eastern end of Jemeluk Beach in the Amed area of northeast Bali, off a point. The site begins as a slope that gradually steepens into a genuine wall dropping 40 meters or more. The wall and upper slope are covered with small and large pink gorgonia fans, barrel sponges, and hard coral. Sources disagree on access: PADI lists both boat and shore entry as options, and it is reachable directly from Jemeluk Beach on foot, but a detailed McFadyen dive log describes reaching it by boat (roughly 10 minutes / ~2 km from Hotel Uyah). Both access methods appear to be used in practice depending on operator and conditions — this description does not assume one exclusively.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Jemeluk Wall is located at the eastern end of Jemeluk Beach in the Amed area of 
 
 ## Marine Life
 
-The wall supports a healthy mix of reef life. Moray eels occupy crevices and overhangs along the wall face. Nudibranchs are found on the coral-covered surfaces throughout the dive. Ribbon eels -- with their striking blue and yellow colouration -- inhabit sandy patches near the base of the slope. Clownfish nestle in anemones on the upper slope and reef top. The barrel sponges and gorgonias along the wall provide habitat for a variety of invertebrates, while the deeper wall sections attract passing pelagics.
+The wall supports a healthy mix of reef life, confirmed across sources: moray eels in crevices and overhangs, a ribbon eel, nudibranchs on coral-covered surfaces, and clownfish in anemones on the upper slope. The claim of unspecified "passing pelagics" at depth could not be corroborated this pass and has been removed; PADI's aggregate listing mentions sharks, whales, dolphins and turtles as possible sightings for the general area, but these are not confirmed as site-specific and are not included here.
 
 ## Dive Profile
 
@@ -41,7 +41,7 @@ Enter from shore at the eastern end of Jemeluk Beach and swim out to the point w
 
 ## Entry and Exit
 
-Shore entry from Jemeluk Beach. The entry is straightforward -- walk into the water from the beach, put on fins, and swim out to the point where the wall begins. The site is approximately 10 minutes from Hotel Uyah. Exit at the same beach.
+Reachable either by shore entry from Jemeluk Beach (walk into the water, put on fins, and swim out to the point where the wall begins) or by a short boat ride, roughly 10 minutes / ~2 km from Hotel Uyah — operators vary in which they use. Exit at the same point of entry.
 
 ## Tips and Recommendations
 
@@ -59,4 +59,4 @@ The wall drops well beyond 40 meters, so uncontrolled descents are a real risk. 
 Jemeluk Wall offers both wide-angle and macro opportunities. The large pink gorgonia fans and barrel sponges along the wall make excellent wide-angle subjects, particularly when backlit or shot with divers for scale. Macro subjects include nudibranchs, ribbon eels, and the invertebrates living on the sponges and corals. The wall structure itself provides dramatic depth perspectives for wide-angle compositions.
 
 ---
-*Sources: [PADI - Jemeluk Wall](https://www.padi.com/dive-site/indonesia/jemeluk-wall/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1091). Last updated 2026-05-17.*
+*Sources: [PADI - Jemeluk Wall](https://www.padi.com/dive-site/indonesia/jemeluk-wall/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1091). Last updated 2026-07-12.*

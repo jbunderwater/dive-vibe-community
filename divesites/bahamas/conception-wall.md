@@ -45,7 +45,7 @@ Liveaboard access only — Conception Island has no facilities and is only reach
 
 ## Tips and Recommendations
 
-Conception Wall is a bucket-list dive for advanced Bahamas divers. The combination of pristine condition, outstanding clarity, and very low traffic makes this site qualitatively different from Nassau's busier walls. Plan the dive conservatively — with 40+ meter depth potential, it is easy to spend too long at depth. The wall tops in 12–18 meters are among the finest hard coral reef sections in the Bahamas.
+Conception Wall is a bucket-list dive for advanced Bahamas divers. The combination of remoteness, outstanding clarity, and very low traffic makes this site qualitatively different from Nassau's busier walls. Plan the dive conservatively — the wall crest itself starts around 17–24 meters, so there is little shallow margin before NDLs become a factor if you push deeper. Coral and sponge growth on the wall are reported as excellent even if large-fish sightings are inconsistent.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ Remote location means no emergency support nearby — dive conservatively and ma
 
 ## Photography
 
-Conception Wall's pristine condition and extraordinary clarity make it a premier wide-angle photography site. The hard coral reef on the upper wall is among the most photogenic in the Bahamas. Deep sponge formations with divers in frame require good strobe positioning at depth. The fish are larger and less camera-shy than at heavily visited sites.
+Conception Wall's remoteness and extraordinary clarity make it a premier wide-angle photography site. The hard coral reef and elephant-ear and barrel sponges on the wall are photogenic subjects, and a sponge-covered anchor chain descending over the wall edge is a distinctive feature at one of the mooring sites. Deep sponge formations with divers in frame require good strobe positioning at depth. Large-animal encounters (sharks, rays, turtles) should be treated as a bonus rather than a guarantee, based on available reports.
 
 ## Additional Resources
 

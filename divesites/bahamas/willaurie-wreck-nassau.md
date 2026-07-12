@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # Willaurie Wreck Nassau
 
-A 130-foot Bahamian mailboat that sank accidentally in 1988 and was resettled as an artificial reef off Nassau's southwest coast — an accessible wreck now colonised by sponges, corals, and large resident groupers.
+A 130-foot Bahamian mailboat that sank accidentally in 1988 and was resettled as an artificial reef off Nassau's southwest coast — an accessible wreck whose cargo-hold cage is now colonised by sponges and brightly coloured soft corals.
 
 ## Overview
 
@@ -49,7 +49,7 @@ One source describes the Willaurie as offering "beginner to advanced" divers a g
 
 ## Safety Considerations
 
-Interior sections should not be penetrated beyond light penetration without wreck diving training. Silt in the interior spaces can reduce visibility to near zero if disturbed. The accessible depth of 19 meters means no decompression concern for a standard dive duration. DSMB recommended for the ascent.
+Interior sections should not be penetrated beyond light penetration without wreck diving training. Silt in the interior spaces can reduce visibility to near zero if disturbed. At depths of up to 21 meters, keep an eye on no-decompression limits for a standard dive duration. DSMB recommended for the ascent.
 
 ## Photography
 

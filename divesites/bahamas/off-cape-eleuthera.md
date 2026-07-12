@@ -26,7 +26,7 @@ Cape Eleuthera's leeward coast sits along the Exuma Sound, a body of water reach
 - **Location**: Cape Eleuthera, southern Eleuthera, Bahamas (general wall system; not tied to one of the ~20 individually named local sites)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Maximum Depth**: 27 meters (consistent with the recreational range reported across Cape Eleuthera's wall sites, e.g. Monolith at ~30 m)
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate to strong — Cape Eleuthera is known for challenging current conditions
 - **Best Time**: November to May

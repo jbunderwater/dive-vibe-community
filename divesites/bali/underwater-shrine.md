@@ -17,7 +17,7 @@ Jemeluk Bay's iconic marked temple sculpture on the sandy bottom — batfish gat
 
 ## Overview
 
-The Underwater Shrine sits in Jemeluk Bay near Amed, where a traditional Balinese temple sculpture has been placed on the sandy seabed and is marked with a visible surface buoy. The shrine has become a gathering point for batfish, which hover in loose groups beneath the structure creating an atmospheric underwater scene. Jemeluk Bay itself is packed with diverse soft and hard corals along its perimeter, and the reef hosts lionfish, clownfish in anemones, butterflyfish, triggerfish, stingrays, and reliable schools of big-mouth mackerel. The bay is relatively sheltered with good visibility, making it a comfortable intermediate dive.
+The Underwater Shrine sits in Jemeluk Bay near Amed, where an artificial underwater temple/shrine structure — not an actual sunken historical temple — has been placed on the seabed at around 3–6 m and is marked with a large buoy. It has become a gathering point for batfish, which hover in loose groups beneath the structure, and is a popular reference/training point for free divers as well as a photogenic subject for scuba divers. Jemeluk Bay itself combines coral reef and artificial reef structures (including other statue installations), sloping from the shallows to a wall reported at 10–40 m depending on the exact spot dived.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Underwater Shrine sits in Jemeluk Bay near Amed, where a traditional Balines
 
 ## Marine Life
 
-Batfish hover in groups beneath the shrine structure. Clownfish and their anemones are throughout the bay reef. Lionfish, stingrays, triggerfish, and butterflyfish are common. Dense schools of big-mouth mackerel patrol the bay in reliable formations. The sandy bottom around the shrine hosts garden eels and occasional octopus.
+Batfish are the signature sighting, hovering in groups beneath the shrine/temple structure and in its shadow. Amed-based operators covering Jemeluk Bay also confirm diamondfish, snappers, lionfish, anemonefish (clownfish), cleaner shrimp, moray eels, garden eels, scorpionfish, seahorses, reef octopus, cuttlefish, reef sharks, and Spanish mackerel across the bay. No source consulted this pass confirmed triggerfish, stingrays, or butterflyfish specifically for this site, so those have been removed as unconfirmed padding; "big-mouth mackerel" has been corrected to Spanish mackerel per operator listings.
 
 ## Dive Profile
 
@@ -40,7 +40,7 @@ Descend and navigate to the surface buoy marking the shrine. Spend time photogra
 
 ## Entry and Exit
 
-Boat dive with Amed operators. Short trip from the main Amed beach. The buoy marking the shrine is visible from the surface. Entry via back roll or giant stride. Ascend away from the buoy line to avoid entanglement.
+Multiple Amed-area operators describe Jemeluk Bay, where the shrine sits, as an easy shore-entry dive with calm conditions, though some boat operators also run it as a short boat dive from the main Amed beach. The buoy marking the shrine is visible from the surface. Ascend away from the buoy line to avoid entanglement.
 
 ## Tips and Recommendations
 
@@ -56,7 +56,7 @@ Be cautious of boat traffic near the surface buoy when ascending. Maintain good 
 
 ## Photography
 
-The shrine with batfish hovering beneath it is the signature subject of Jemeluk Bay. Wide-angle captures the full scene with the structure and fish together. Macro photographers will find clownfish, nudibranchs, and critters on the surrounding reef corals. The mackerel schools can produce stunning wide-angle action shots.
+The shrine with batfish hovering beneath it is the signature subject of Jemeluk Bay. Wide-angle captures the full scene with the structure and fish together. Macro photographers will find clownfish and nudibranchs on the surrounding reef corals.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Atlantis Bali Diving - Amed](https://www.atlantis-bali-diving.com/dive_site/amed/), [Dive Concepts - Jemeluk Bay](https://diveconcepts.com/dive-site-spot-amed-jemeluk-bay). Last updated 2026-05-17.*
+*Sources: [Amed Jepun Divers - Jemeluk Bay](https://www.amedjepundivers.com/dive-sites/amed/jemeluk-bay), [No Fear Diving - Jemeluk Bay](https://nofeardiving.com/dive-sites/jemeluk-bay), [Hotels.com Go Guide - Jemeluk Bay Underwater Gallery](https://www.hotels.com/go/indonesia/jemeluk-bay-underwater-gallery). Last updated 2026-07-12.*

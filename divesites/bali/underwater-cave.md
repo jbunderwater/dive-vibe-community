@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Underwater Cave
 
-A safe cavern dive on Menjangan Island's western wall, featuring a beautiful sandy-bottomed cave at 14 m lit by ambient light from above.
+A safe cavern dive on Menjangan Island's northern coast, featuring a cave around 10–15 m lit by ambient light from above.
 
 ## Overview
 
-Underwater Cave is located on the western side of Menjangan Island, where the coral wall is cut through with gullies and channels that create diverse micro-habitats. At 14 metres, a beautiful cavern opens with a sandy floor and light filtering down from above — an easy, non-penetration cave that divers of all levels can safely explore. The walls of the cavern are encrusted with sponges and small invertebrates, including electric clams that flash in the dim light. Outside the cave, the reef is a garden of soft and hard corals, with large grouper, frogfish, and anglerfish found in crevices. Currents are generally mild here, making it one of Menjangan's more relaxed diving environments.
+Underwater Cave is located on the northern side of Menjangan Island (roughly 7 minutes by boat from Mangrove Point per one operator), where the coral wall is cut through with gullies, cornices, and small caves that create diverse micro-habitats. Sources describe a cave entrance around 10–15 metres, with one operator giving a specific cave size of about 3 x 4 m at roughly 10 m depth, and light filtering down through "skylights" from above — a non-penetration cave that divers of all levels can safely explore. The walls of the cavern are encrusted with fire/electric clams that flash in the dim light. The reef top sits around 4–6 m, with a drop-off wall reported to 35 m by one operator. Currents are generally mild here.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Underwater Cave is located on the western side of Menjangan Island, where the co
 
 ## Marine Life
 
-The cave interior hosts electric clams, small crustaceans, and invertebrates adapted to low-light conditions. Outside, large grouper, frogfish, and anglerfish reside in coral overhangs. Pygmy seahorses have been spotted in gorgonian fans near the cave entrance. Reef sharks, trevally, and tuna occasionally appear in the open water beyond the reef edge.
+Operator listings confirm juvenile whitetip reef sharks sheltering in the cave during daylight, along with fire/electric clams on the cave walls and pygmy seahorses on nearby sea fans. Anthias, damselfish, and other small reef fish are common on the surrounding hard coral. No source consulted this pass confirmed grouper, frogfish, or anglerfish specifically at this site, so those claims have been removed as unconfirmed.
 
 ## Dive Profile
 
@@ -40,13 +40,13 @@ Descend along the wall from the boat and follow the reef to the cave entrance at
 
 ## Entry and Exit
 
-Access by jukung boat from Labuhan Lalang, West Bali. Entry via back roll or giant stride. The western side of Menjangan can have variable current; consult your dive guide for conditions on the day. Deploy SMB for ascent and surface pickup.
+Access by jukung boat from Labuhan Lalang, West Bali. Entry via back roll or giant stride. Consult your dive guide for current conditions on the day. Deploy SMB for ascent and surface pickup.
 
 ## Tips and Recommendations
 
-- Bring a torch to see the cave walls clearly and to spot electric clams
+- Bring a torch to see the cave walls clearly and to spot electric/fire clams
 - Do not penetrate beyond natural daylight — the cavern is safe as a daylight dive only
-- Look for frogfish and anglerfish resting on coral rubble outside the cave
+- Watch the cave mouth for juvenile whitetip reef sharks sheltering during the day
 - Combine with Coral Garden or Mangrove Point for a full Menjangan day
 - Check the sea fan colonies near the cave entrance for pygmy seahorses
 
@@ -59,4 +59,4 @@ Do not penetrate the cave beyond daylight illumination — turn around when ligh
 The cave interior offers unique shots with light streaming through the entrance creating a natural halo effect. Electric clams provide dramatic close-up subjects in the dim cave walls. Outside, wide-angle shots of the gully formations and soft coral walls work well with strobe lighting.
 
 ---
-*Sources: [Menjangan Island Trip - Diving](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Menjangan Island Trip - Diving](https://menjanganislandtrip.com/menjangan-island/), [Abyss Ocean World - Menjangan Island Top 3 Dive Sites](https://abyssoceanworld.com/menjangan-island-top-3-dive-sites/), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-07-12.*

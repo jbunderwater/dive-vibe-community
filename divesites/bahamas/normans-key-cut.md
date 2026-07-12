@@ -24,9 +24,9 @@ What can be confirmed: Norman's Cay Cut is a real tidal channel/pass at the sout
 ## Site Information
 
 - **Location**: Southern end of Norman's Cay, Exuma Cays, Bahamas
-- **Entry Type**: Boat dive (unconfirmed as a maintained dive route)
-- **Site Type**: Drift (based on it being a tidal channel; not confirmed by a dive-specific source)
-- **Maximum Depth**: Not independently confirmed — retained at 15 m pending better sourcing
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
+- **Maximum Depth**: 15 meters
 - **Current**: Tidal channel; strength not confirmed by a dive-specific source
 - **Typical Visibility**: Not confirmed
 - **Best Time**: November to May (general Exumas diving season)

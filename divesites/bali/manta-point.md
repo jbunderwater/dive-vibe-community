@@ -17,7 +17,7 @@ Nusa Penida's most celebrated manta ray cleaning station — nearly year-round e
 
 ## Overview
 
-Manta Point is located on the southwestern coast of Nusa Penida and is the most reliable place in Bali to observe reef manta rays in their natural environment. The site centres on a cleaning station around 10 m deep where manta rays circle while small cleaner wrasses remove parasites from their skin, with a nearby wall dropping to about 40 m. A more current-exposed rock formation, Batu Sepatu, is part of the site and is recommended for advanced divers only. Operators report encounter rates around 95% across the year, with mantas present almost year-round.
+Manta Point is located on the southwestern coast of Nusa Penida and is the most reliable place in Bali to observe reef manta rays in their natural environment. The site centres on a cleaning station around 10 m deep where manta rays circle while small cleaner wrasses remove parasites from their skin, with a nearby wall dropping to about 40 m. A more current-exposed rock formation, Batu Sepatu, is part of the site and is recommended for advanced divers only. Operators report encounter/sighting odds in the roughly 90–95% range across the year, with mantas present almost year-round.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Manta Point is located on the southwestern coast of Nusa Penida and is the most 
 
 ## Marine Life
 
-Reef manta rays with wingspans up to 5 m are the headline attraction. Rare melanistic (all-black) manta rays have been recorded here. Blue-spotted stingrays rest on the sandy seabed, bamboo sharks cruise the reef base, and nudibranchs, Zanzibar shrimps, and porcelain crabs inhabit the coral structure. Mola mola (oceanic sunfish) are occasionally seen on the wall during the July–October season, and whale shark sightings have been recorded.
+Reef manta rays are the headline attraction, with a resident Nusa Penida population estimated at 800+ individuals. Roughly 10% of Nusa Penida's mantas show the melanistic (all-black) colour morph — one of the highest rates recorded anywhere — and melanistic individuals, including a well-known animal nicknamed "Batman," are regularly seen at this specific cleaning station (source: peer-reviewed population study via bluecornerconservation.org / nusapenida.org). Blacktip reef sharks, bamboo sharks, and blue-spotted, marble, and eagle rays are reported at the site, along with sea turtles and nudibranchs. Crown jellyfish and a banded sea krait have been documented here. Mola mola (oceanic sunfish) are a seasonal July–October sighting; a whale shark was documented at the site once, on 13 September 2023 — it is a rare, not expected, encounter.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The site is fully exposed to Indian Ocean swell, and surge can be powerful. Stro
 Manta rays at close range on the cleaning station provide world-class wide-angle subjects. Use a rectilinear wide-angle lens for belly shots as they circle overhead. Avoid using flash on the mantas — natural light combined with sunbursts from above works beautifully at 10–15 m depth.
 
 ---
-*Sources: [Nusa Penida.org - Diving Manta Point](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/diving-manta-point-nusa-penida/), [Neptune Scuba Diving - Nusa Penida Sites](https://neptunescubadiving.com/scuba-diving-bali/nusa-penida-dive-sites/), [Manta Point Nusa Penida](https://mantapointnusapenida.com/), [Two Fish Divers - Nusa Penida](https://twofishdivers.com/diving/nusa-penida/). Last updated 2026-05-17.*
+*Sources: [Nusa Penida.org - Diving Manta Point](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/diving-manta-point-nusa-penida/), [Neptune Scuba Diving - Nusa Penida Sites](https://neptunescubadiving.com/scuba-diving-bali/nusa-penida-dive-sites/), [Manta Point Nusa Penida](https://mantapointnusapenida.com/), [Blue Corner Conservation - Manta Rays of Penida](http://bluecornerconservation.org/manta-rays-of-penida). Last updated 2026-07-12.*
