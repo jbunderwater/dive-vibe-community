@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Carlisle Bay - Berwyn
 
-The oldest wreck in Carlisle Bay — a 70-foot (21-metre) French tugboat scuttled in 1919 by her own crew, now lying in just 7 metres and accessible to snorkellers and divers of all levels.
+The oldest wreck in Carlisle Bay — a French tugboat scuttled in 1919 by her own crew, now lying in shallow water and accessible to snorkellers and divers of all levels.
 
 ## Overview
 
-The Berwyn is the cornerstone of Carlisle Bay Marine Park's wreck cluster and its oldest dive site. The vessel is a French tugboat that served during the First World War. In 1919, reportedly to avoid being returned to post-war Europe, her crew deliberately scuttled the boat in the shallow waters of Carlisle Bay off Barbados. She came to rest in approximately 7 metres — shallow enough that her outline is visible from the surface. After more than a century on the seabed, she is heavily encrusted with hard and soft corals, brain coral formations, and sponges. Carlisle Bay's consistently calm west coast conditions give the wreck excellent natural light throughout. Visibility averages 15–20 metres. Water temperature is 26–28°C year-round.
+The Berwyn is the cornerstone of Carlisle Bay Marine Park's wreck cluster and its oldest dive site. The vessel is a French tugboat that served during the First World War. In 1919, reportedly because her crew preferred the Barbadian rum and lifestyle to returning to post-war Europe, they deliberately scuttled the boat in the shallow waters of Carlisle Bay off Barbados. Sources disagree on her length: Barbados Snorkeling Tours and Wanderlusters give 70 feet (21 metres), while Caribbean Beat gives 60 feet (18 metres). She came to rest at a depth sources give as 6–7 metres — shallow enough that her outline is visible from the surface. After more than a century on the seabed, she is heavily encrusted with hard and soft corals, brain coral formations, and sponges. Carlisle Bay's consistently calm west coast conditions give the wreck excellent natural light throughout. Visibility averages 15–20 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -56,4 +56,4 @@ Very forgiving at 7 metres. Standard shore diving precautions apply. Boat traffi
 The Berwyn in ambient natural light is an accessible introduction to wreck photography. The heavily encrusted hull, turtle portraits over the wreck, and close-up coral and sponge detail all work well without strobes at this depth.
 
 ---
-*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/), [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/). Last updated 2026-05-17.*
+*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/), [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/). Last updated 2026-07-12.*

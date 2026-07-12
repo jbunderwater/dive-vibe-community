@@ -56,4 +56,4 @@ Standard wreck diving precautions apply. Do not enter enclosed spaces without wr
 The dense chub and chromis schools swarming the Pamir hull are the defining photographic image — wide-angle shots of the school against the hull in the blue water are possible at this depth. Gorgonian close-ups and garden eel portraits on the sandy bottom are secondary subjects.
 
 ---
-*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners). Last updated 2026-05-17.*
+*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners). Last updated 2026-07-12.*

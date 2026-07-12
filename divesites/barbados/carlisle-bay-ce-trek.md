@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Carlisle Bay - Ce-Trek
 
-An unusual ferro-cement vessel sunk in January 1986 on the northern edge of Carlisle Bay Marine Park — lying at 12 metres, structurally distinct from iron-hulled wrecks and notable for frogfish, long-snout seahorses, and audibly grazing parrotfish.
+An unusual ferro-cement vessel on the northern edge of Carlisle Bay Marine Park — lying at 12 metres, structurally distinct from iron-hulled wrecks and notable for frogfish, long-snout seahorses, and audibly grazing parrotfish.
 
 ## Overview
 
-The Ce-Trek is a ferro-cement (concrete construction) vessel — a structural rarity among the Carlisle Bay wrecks. Sunk in January 1986, she rests at 12 metres on the northern edge of Carlisle Bay Marine Park. The concrete hull develops different encrustation characteristics from the iron-hulled wrecks nearby; its textured surfaces are excellent habitat for cryptic species. The wreck sits upright on a sandy bottom with accessible deck and interior sections suitable for beginner divers. Carlisle Bay's consistently calm west coast conditions give reliable visibility of 15–20 metres year-round. Water temperature is 26–28°C.
+The Ce-Trek is a ferro-cement (concrete construction) vessel — a structural rarity among the Carlisle Bay wrecks — confirmed by multiple dive-operator sources. Sources disagree on the exact sinking year: Barbados Snorkeling Tours and other dive operators cite January 1986, while Caribbean Beat gives 1985. She rests at approximately 12–13 metres on the northern edge of Carlisle Bay Marine Park. The concrete hull develops different encrustation characteristics from the iron-hulled wrecks nearby; its textured surfaces are excellent habitat for cryptic species. The wreck sits upright on a sandy bottom with accessible deck and interior sections suitable for beginner divers. Carlisle Bay's consistently calm west coast conditions give reliable visibility of 15–20 metres year-round. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -56,4 +56,4 @@ Do not penetrate fully enclosed compartments without wreck diving training. DSMB
 The Ce-Trek's concrete encrustation with its distinct texture is a strong macro photography subject — frogfish and seahorse portraits are the standout images. Natural light is adequate for the full depth range in morning conditions.
 
 ---
-*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/). Last updated 2026-05-17.*
+*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/). Last updated 2026-07-12.*

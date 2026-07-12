@@ -17,7 +17,7 @@ A drift dive off Barbados's west coast named for the large schools of great barr
 
 ## Overview
 
-Barracuda Junction is located on the west coast reef system south of Holetown, typically dived as a drift along the reef edge at 18–24 metres. The site's name reflects its most reliable attraction: large schools of great barracuda that patrol the reef edge consistently. Dive Hightide also lists the site under "Barracuda Reef" — a drift dive off Needhams Point at 30–90 feet, noting cannonball and antique bottle artifacts on the bottom. Scuba Diving Earth cites the working depth as 65–80 feet (20–24 metres), with the reef dropping steeply on the seaward side. Colourful corals and unusually shaped barrel and tube sponges add visual interest. Visibility averages 20–30 metres. Water temperature is 26–28°C.
+Barracuda Junction is located on the west coast reef system south of Holetown, typically dived as a drift along the reef edge at 18–24 metres. The site's name reflects its most reliable attraction: large schools of great barracuda that patrol the reef edge consistently. Scuba Diving Earth cites the working depth as 65–80 feet (20–24 metres), with the reef dropping steeply on the seaward side to a maximum of around 44 metres. Colourful corals and unusually shaped barrel and tube sponges add visual interest. Note: some sources describe a "Barracuda Reef" off Needhams Point with cannonball and antique bottle artifacts on the sandy bottom, but on closer review those artifacts are more consistently attributed to a separate nearby site ("Old Fort"); that detail has been left out here to avoid misattributing another site's feature. Visibility averages 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 - **Location**: West coast, south of Holetown (reef edge near Needhams Point)
@@ -31,7 +31,7 @@ Barracuda Junction is located on the west coast reef system south of Holetown, t
 
 ## Marine Life
 
-The large school of great barracuda that gives the site its name is a reliable and impressive sighting — they congregate along the reef edge and are consistently reported by operators. Schools of baitfish also aggregate here, which attracts the barracuda and other predators. The reef supports colourful sponges, barrel and tube sponges, and healthy hard corals. Hawksbill turtles and jacks are reported at the site. Dive Hightide notes the sandy bottom may contain historical artifacts (cannonballs, antique bottles).
+The large school of great barracuda that gives the site its name is a reliable and impressive sighting — they congregate along the reef edge and are consistently reported by operators. Schools of baitfish also aggregate here, which attracts the barracuda and other predators. The reef supports colourful sponges, barrel and tube sponges, and healthy hard corals. Hawksbill turtles and jacks are reported at the site.
 
 ## Dive Profile
 
@@ -50,4 +50,4 @@ The barracuda school is most impressive viewed from below, silhouetted against t
 Moderate current requires drift diving experience. The drop-off past recreational depth demands careful awareness. Maintain visual contact with dive buddies. Always carry and deploy an SMB for pickup.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners). Last updated 2026-07-12.*

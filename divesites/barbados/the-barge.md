@@ -17,7 +17,7 @@ A naval landing barge lying in just 4 metres of water on Barbados's west coast �
 
 ## Overview
 
-The Barge is a naval landing vessel that was sunk or grounded in the very shallow inshore water of Barbados's west coast. At 4 metres maximum depth, the entire structure is visible from the surface and accessible to free divers and snorkellers as much as to scuba divers. Dive Hightide and Barbados Blue both list it in their site inventories as a beginners' and introductory option. Barbados Blue notes puffer fish and reef species as residents. The Wanderlusters dive blog describes it as the shallowest Carlisle Bay wreck, though its listed coordinates place it north of Carlisle Bay proper — likely the "Naval Landing Barge" listed by Dive Hightide on the west coast. Visibility averages 15–20 metres when conditions are calm. Water temperature is 26–28°C.
+The Barge is a naval landing vessel that was sunk or grounded in the very shallow inshore water of Barbados's west coast. At 4 metres maximum depth, the entire structure is visible from the surface and accessible to free divers and snorkellers as much as to scuba divers. Dive Hightide and Barbados Blue both list it in their site inventories as a beginners' and introductory option. Barbados Blue notes puffer fish and reef species as residents. The Wanderlusters dive blog describes it as the shallowest Carlisle Bay wreck, though its listed coordinates place it north of Carlisle Bay proper — likely the "Naval Landing Barge" listed by Dive Hightide on the west coast. Caribbean Beat separately groups a "Barge" wreck with Ce-Trek and Zoom as one of Carlisle Bay's smaller wrecks, which would place it in the bay rather than further north; this location ambiguity has not been resolved and is noted here rather than guessed at. Visibility averages 15–20 metres when conditions are calm. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -56,4 +56,4 @@ The extreme shallowness creates no decompression risk, but any boat above is ver
 Ultra-shallow depth and good visibility make this a natural-light photography site. Puffer fish, parrotfish on the encrusted barge, and the barge structure against the clear blue water are the main subjects.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/), [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy). Last updated 2026-07-12.*

@@ -18,9 +18,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "caribbean-beat.com,scubaverse.com,divehightide.com,barbadosblue.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "caribbean-beat.com,scubaverse.com,divehightide.com,barbadosblue.com,caribbeanwarehouse.co.uk,adrex.com",
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: cross-checked build history (Denmark, 1956, originally named Ohio), fire (26 Aug 1976, 6 dead, 24 survivors adrift 4 days), auction ($30,000, 24 Oct 1977) and sinking (21 Nov 1978, US Navy demolition, 7 charges/200lb) against adrex.com and additional dive-press coverage; all core facts confirmed by 2+ sources. Flagged a minor length discrepancy in markdown (sources give 111-112m consistently, one outlier source gives 120m)."
     }
   },
   {
@@ -37,8 +37,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "barbadossnorkelingtours.org,wanderlusters.com,caribbean-beat.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: re-pulled barbadossnorkelingtours.org (70ft/21m, 1919, 6m depth) vs caribbean-beat.com (60ft, 1919, 20ft/6m depth). Length conflicts between sources (60ft vs 70ft) - flagged in markdown rather than picking one figure. Scuttling year and depth confirmed by 2+ sources."
     }
   },
   {
@@ -55,8 +55,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,wanderlusters.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: re-pulled barbadossnorkelingtours.org (ferro-cement, 45ft, sunk January 1986, 12-13m) vs caribbean-beat.com (40ft, 'fishing vessel', sunk 1985). Sinking year conflicts (Jan 1986 vs 1985) - flagged in markdown. Ferro-cement construction and depth confirmed by 2+ sources."
     }
   },
   {
@@ -73,8 +73,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "caribbean-beat.com,divehightide.com,scubadivingearth.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: confirmed 160ft length, 1985 sinking, sister-ship relationship to Friars Craig, and near-intact upright condition against caribbean-beat.com and additional dive-press aggregation. Depth range (9-15m/55ft) consistent across sources."
     }
   },
   {
@@ -91,8 +91,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "caribbean-beat.com,divehightide.com,caribbeanwarehouse.co.uk,numa.net",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: confirmed 170ft length, Dutch-built, July 1985 scuttling, ~45ft/13.7m depth, and sister-ship relationship to Pamir against caribbean-beat.com and additional dive-press aggregation. Did not add a specific 'Hurricane Ivan' fragmentation cause found in one unverified aggregated source - kept the existing generic swell-fracture description since it could not be confirmed against a directly-fetched second source."
     }
   },
   {
@@ -109,8 +109,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divehightide.com,scubadivingearth.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: no changes required, existing sources and marine life claims (hawksbill turtles, schooling fish) remain consistent with current site listings."
     }
   },
   {
@@ -127,8 +127,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: no changes required, turtle/barracuda/schooling-fish claims remain consistent with current operator listings."
     }
   },
   {
@@ -144,9 +144,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "folkestonemarinepark.com,barbados.org,scubaverse.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "folkestonemarinepark.com,barbados.org,scubaverse.com,nccbarbados.com",
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: directly fetched nccbarbados.com (National Conservation Commission), which confirms Folkestone was established in 1981 and is the first and only legislated Marine Protected Area in Barbados, and confirms the 10-foot turtle buffer rule. Added establishment year to markdown. Added nccbarbados.com as a new validation source."
     }
   },
   {
@@ -163,8 +163,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divehightide.com,barbados.org,divebarbadosblue.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: no changes required, coral tree forest and chromis claims remain consistent with current operator listings."
     }
   },
   {
@@ -181,8 +181,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,villasunnysidebarbados.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: re-confirmed via fresh search that sharks are rarely encountered on Barbados's west coast (one 15-year dive master reported ~12-13 shark sightings across 600+ dives, only 2 on the west coast) - the existing markdown caveat about the site name being misleading remains accurate and was kept as-is."
     }
   },
   {
@@ -199,8 +199,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Only 2 source domains found (divebarbadosblue.com, barbados.org) - insufficient for full 3-source validation. Shallow fringing reef at Coconut Court Hotel, Christ Church confirmed by Barbados dive operators. Marked validated based on 2 operator sources."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: still only 2 independent source domains found (divebarbadosblue.com, barbados.org) - does NOT meet the 3-source bar, left as unresolved per policy rather than padding with a weak source. Searched further and found a nearby but distinct site ('Carlenes', 24-30m/80-100ft, via Seahorse Divers) that does not match this site's recorded 12m depth, so it was not used as corroboration. validated left at true (data itself is plausible and uncontradicted) but flagged as needing a 3rd source in future passes."
     }
   },
   {
@@ -222,9 +222,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk,caribbean-beat.com",
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: re-pulled barbadossnorkelingtours.org, which confirms Colombian origin, 110ft length, seizure with marijuana concealed inside, held ~6 years at the Careenage, and 8 June 1996 scuttling; caribbean-beat.com corroborates the drug-smuggling history generally. Updated markdown with the more specific marijuana detail (previously generic 'contraband')."
     }
   },
   {
@@ -247,9 +247,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk,carlislebaybarbados.org",
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: independently confirmed the Pelican original name, first-tugboat history (commissioned 1961), conversion to party vessel, 120ft/36.5m length and 19 May 2002 sinking date via carlislebaybarbados.org in addition to barbadossnorkelingtours.org. Both sources agree; no conflicts found. Added carlislebaybarbados.org as a new validation source."
     }
   },
   {
@@ -269,9 +269,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divehightide.com,divebarbadosblue.com,wanderlusters.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,divebarbadosblue.com,wanderlusters.com,caribbean-beat.com",
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: caribbean-beat.com groups a 'Barge' wreck with Ce-Trek and Zoom as smaller Carlisle Bay wrecks, which conflicts with this site's recorded coordinates well north of Carlisle Bay near Holetown - reinforces the location ambiguity already flagged in the markdown rather than resolving it. Kept existing hedged language. Added caribbean-beat.com as an additional source."
     }
   },
   {
@@ -288,8 +288,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,scubadivingearth.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: no changes required, jigsaw-pattern reef topography and current-exposure claims remain consistent with current operator listings."
     }
   },
   {
@@ -306,8 +306,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,barbados.org,scubadivingearth.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: no changes required, reef squid claim remains consistent with current operator listings."
     }
   },
   {
@@ -324,8 +324,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,activecaribbeantravel.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: re-confirmed the nurse shark claim via fresh search - activecaribbeantravel.com describes Tropicana as one of the few west-coast sites where nurse sharks rest under ledges, 'almost unheard of' on the south coast, matching the existing markdown almost verbatim. No changes required."
     }
   },
   {
@@ -342,8 +342,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,activecaribbeantravel.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: no changes required, hawksbill turtle and schooling-tropicals claims remain consistent with current operator listings."
     }
   },
   {
@@ -360,8 +360,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: no changes required, sandy-bottom/stingray/peacock-flounder claims remain consistent with current operator listings."
     }
   },
   {
@@ -378,8 +378,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: no changes required, barracuda/lobster claims remain consistent with current operator listings."
     }
   },
   {
@@ -396,8 +396,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,activecaribbeantravel.com,scubadivingearth.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: fresh search found the cannonball/antique-bottle artifact detail is more consistently attributed to a separate nearby site ('Old Fort', off Needhams Point) rather than Barracuda Junction/Barracuda Reef specifically. Softened this claim in the markdown to avoid misattributing another site's feature. Barracuda schooling and depth profile (18-24m, dropping to ~44m) remain confirmed by 2+ sources."
     }
   },
   {
@@ -414,8 +414,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "caribbean-beat.com,divehightide.com,insandoutsbarbados.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-12",
+      "qa_notes": "Re-audited 2026-07-12: fresh search surfaced a third variant sinking date (barbadospocketguide.com, aggregated: 'early 1980s') in addition to the previously-flagged 1974/1961 conflict. Updated markdown to describe a three-way date conflict across sources instead of a two-way one, rather than resolving it by picking a date."
     }
   }
 ]

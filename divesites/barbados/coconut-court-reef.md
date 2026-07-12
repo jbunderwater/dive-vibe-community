@@ -56,4 +56,4 @@ The south coast entry can be affected by surge — abort if waves are significan
 In calm conditions the reef offers natural-light photography for the full depth range. Parrotfish compositions and any turtle encounters are the main subjects when conditions are favourable.
 
 ---
-*Sources: [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/diving.htm). Last updated 2026-05-17.*
+*Sources: [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/diving.htm). Only 2 independent source domains found as of this audit — does not meet the 3-source bar. A third search surfaced a nearby but distinct operator listing ("Carlenes," 24–30m) that does not match this site's recorded 12m depth, so it was not used to pad the source count. Last updated 2026-07-12.*

@@ -17,7 +17,7 @@ Barbados's only designated marine reserve and the island's most accessible shore
 
 ## Overview
 
-Folkestone Marine Park and Reserve is a protected marine area on Barbados's west coast at Holetown, established and managed by the Barbados government. The reserve encompasses four fringing reefs, several patch reefs, and an offshore bank reef extending from the Stavronikita wreck site to the Bellairs Fringing Reef. The inshore snorkel trail operates at 1.5–9 metres (5–30 feet), while the outer reef extends to 10 metres. Hard coral formations (finger coral) and Venus sea fans (Gorgonia ventalina) are characteristic of the reef structure. The park has visitor facilities including changing rooms, picnic areas, and a marine museum. Folkestone is the most visited shore dive in Barbados. Visibility averages 15–20 metres. Water temperature is 26–28°C.
+Folkestone Marine Park and Reserve is a protected marine area on Barbados's west coast at Holetown, established in 1981 by the Barbados government and confirmed by the National Conservation Commission as the first — and to date the only — legislated Marine Protected Area in Barbados. The reserve encompasses four fringing reefs, several patch reefs, and an offshore bank reef extending from the Stavronikita wreck site to the Bellairs Fringing Reef. The inshore snorkel trail operates at 1.5–9 metres (5–30 feet), while the outer reef extends to 10 metres. Hard coral formations (finger coral) and Venus sea fans (Gorgonia ventalina) are characteristic of the reef structure. The park has visitor facilities including changing rooms, picnic areas, and a marine museum. Folkestone is the most visited shore dive in Barbados. Visibility averages 15–20 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -56,4 +56,4 @@ The park sees significant boat, water taxi, and submarine traffic. Deploy SMB or
 Folkestone's shallow, clear water and habituated turtle population make it one of Barbados's best natural-light shore photography sites. Turtle portraits in the seagrass and reef zones in morning light are the defining images. Crinoid close-ups and school-of-fish compositions over the coral also work well.
 
 ---
-*Sources: [Folkestone Marine Park](https://folkestonemarinepark.com/activities/), [Barbados.org](https://barbados.org/folkstone.htm), [Scubaverse](https://scubaverse.com/dive-guide/caribbean/barbados/). Last updated 2026-05-17.*
+*Sources: [Folkestone Marine Park](https://folkestonemarinepark.com/activities/), [Barbados.org](https://barbados.org/folkstone.htm), [Scubaverse](https://scubaverse.com/dive-guide/caribbean/barbados/), [National Conservation Commission](https://www.nccbarbados.com/about-the-folkestone-marine-reserve/). Last updated 2026-07-12.*
