@@ -17,7 +17,7 @@ Known as Ghost Bay — one of Amed's best muck dive sites, where garden eels, fl
 
 ## Overview
 
-Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sites in the Amed area, situated on the black volcanic sand coastline of northeast Bali. Unlike the classic Amed coral reef sites, Bulakan is characterised by an open sandy bay where the substrate is alive with small burrows, scattered rubble, and sparse coral patches. Garden eels extend from the sand in large colonies, retracting as divers approach. Flying gurnard — a striking fish that spreads its wing-like pectoral fins when disturbed — are a highlight. Blue-spotted stingrays, frogfish, mantis shrimp, and an exceptional diversity of nudibranchs make this a must-visit for underwater photographers.
+Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sites in the Amed area, situated on the black volcanic sand coastline of northeast Bali. Unlike the classic Amed coral reef sites, Bulakan is characterised by a broad sandy plateau roughly 150 metres wide running parallel to shore at 4–7 metres, sloping down to about 20–25 metres. The substrate is alive with small burrows, scattered rubble, sparse coral patches, and some artificial reef pieces placed by a local dive operator. Garden eels extend from the sand in large colonies, retracting as divers approach. Flying gurnard and sea moth — both striking fish that spread wing-like fins when disturbed — are the signature species here. Blue-spotted stingrays, multiple species of ghost pipefish, stonefish, mimic octopus, mantis shrimp, and an exceptional diversity of nudibranchs make this a must-visit for underwater photographers.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sit
 
 ## Marine Life
 
-Garden eels in large sandy colonies. Flying gurnard — spread their elaborate pectoral fins when approached. Blue-spotted stingrays partially buried in the sand. Frogfish in various colour forms. Mantis shrimp at burrow entrances. Diverse nudibranchs throughout the rubble zone. Cuttlefish hunt over the sand, and ghost pipefish are found among sparse algae growth.
+Garden eels in large sandy colonies. Flying gurnard and sea moth — both spread elaborate wing-like fins when approached. Blue-spotted stingrays partially buried in the sand. Multiple species of ghost pipefish, stonefish, and mimic octopus. Mantis shrimp at burrow entrances. Diverse nudibranchs throughout the rubble zone. Shrimp-filled anemones and cuttlefish hunt over the sand.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Camouflaged scorpionfish and stonefish on muck sites are a real hazard — never
 Flying gurnard and garden eels are the headline subjects. Wide-angle with close focus captures the gurnard's wing-like fins spread against the dark sand. Garden eels require a long lens or careful approach — shoot from a distance with a telephoto macro setup. Nudibranchs reward a 100mm macro lens with diopter.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Dive Concepts - Ghost Bay (Macro)](https://diveconcepts.com/bali/spot-ghost-bay-macro.php). Last updated 2026-07-12.*

@@ -21,6 +21,8 @@ The Ilhéu de Vila Franca do Campo is a submerged volcanic cone (Surtseyan type)
 
 The volcanic geology creates dramatic cracks, canyons, and arched passages around the islet. Divers can vary their route based on wave direction, making this a flexible site for all experience levels including introductory dives. The protected status supports notably dense fish populations compared to surrounding areas.
 
+Local operators (including Azores Sub, based at the nearby Vila Franca do Campo marina) run this site for "Try Scuba"/"Diving Baptism" introductory dives with no prior certification required, confirming its suitability for first-time divers. Note that Azores water is cooler than tropical destinations even in the May–October dive season — sea temperature typically runs 17–24°C, and a 5–7mm wetsuit (or semi-dry suit with hood and gloves in the shoulder season) is standard exposure protection.
+
 ## Site Information
 
 - **Location**: Off Vila Franca do Campo, south coast São Miguel, Azores
@@ -46,4 +48,4 @@ Azores chromis (*Chromis limbata*), ornate wrasses (*Thalassoma pavo*), blacktai
 - Reef top at 5 m makes upper sections accessible to snorkellers
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/ilheu-de-vila-franca), [Wikipedia – Vila Franca Islet](https://en.wikipedia.org/wiki/Vila_Franca_Islet), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/ilheu-de-vila-franca), [Wikipedia – Vila Franca Islet](https://en.wikipedia.org/wiki/Vila_Franca_Islet), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/), [Azores Sub – Try Scuba](https://www.azoressub.com/en/scuba-courses/try-scuba/). Re-audited 2026-07-12: Beginner rating specifically re-examined against the Azores cold-water minimum-difficulty policy — confirmed this site is used for no-certification introductory dives by local operators, and Azores in-season water temperature (17–24°C) is materially warmer than the Norway/Svalbard/Great Lakes examples the policy targets, so the rating was retained; a thermal-protection note was added. Last updated 2026-07-12.*

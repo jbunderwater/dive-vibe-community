@@ -17,11 +17,11 @@ A protected bay on São Miguel's north coast — volcanic lava reef with a no-fi
 
 ## Overview
 
-Santa Iria is a bay on the north coast of São Miguel near Rabo de Peixe, designated as a no-fishing area. The bay features a sheltered lagoon with a narrow inlet from the sea, with one side comprising a lava flow and the other reinforced with large boulders. The volcanic underwater landscape — lava reef and rocky seafloor — is typical of the Azores north coast. The protected status supports higher fish densities than surrounding areas. North coast visibility is variable and generally lower than the south coast.
+Santa Iria (Porto de Santa Iria) is a small bay on the north coast of São Miguel in the parish of Ribeirinha, Ribeira Grande municipality, designated as a no-fishing area. Note: earlier versions of this entry placed the site "near Rabo de Peixe" — Ribeirinha and Rabo de Peixe are both north-coast parishes of Ribeira Grande but are distinct locations, and this has been corrected based on geographic sources. The bay features a sheltered lagoon with a narrow inlet from the sea, with one side comprising a lava flow and the other reinforced with large boulders. The volcanic underwater landscape — lava reef and rocky seafloor — is typical of the Azores north coast. The protected status supports higher fish densities than surrounding areas. North coast visibility is variable and generally lower than the south coast.
 
 ## Site Information
 
-- **Location**: North coast, São Miguel, Azores (near Rabo de Peixe)
+- **Location**: North coast, São Miguel, Azores (Ribeirinha parish, Ribeira Grande)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
@@ -42,4 +42,4 @@ No site-specific marine life records found. The rocky lava reef and no-fishing p
 - Also used as a snorkelling destination
 
 ---
-*Description based on general north-coast São Miguel diving characteristics and protected area status. No site-specific dive sources found. Last updated 2026-05-17.*
+*Description based on general north-coast São Miguel diving characteristics and protected area status. No site-specific dive source found despite checking dive.visitazores.com, Azores Sub, DiveAzores, and Azoresdiving listings (2026-07-12). Location corrected to [Ribeirinha, Ribeira Grande](https://www.ribeiragrande.pt/en/porto-formoso/) per [Futurismo – Porto de Santa Iria](https://www.futurismo.pt/blog/porto-de-santa-iria-clear-waters-at-a-off-the-beaten-path/) and Ribeira Grande municipal parish records. Last updated 2026-07-12.*

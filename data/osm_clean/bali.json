@@ -36,7 +36,7 @@
     "validated": true,
     "validation_source": "en.wikipedia.org,letsdivetulamben.com,diving-indo.com,baliaqua.com",
     "tags": {
-      "description": "US Army cargo ship launched 1918, torpedoed by Japanese submarine I-66 on 11 January 1942 while carrying railway parts and rubber. Beached at Tulamben same day; slid into sea during 1963 Mount Agung eruption. Lies parallel to shore ~25m offshore, spanning 3-30m depth. Wikipedia records length as ~125m (411ft 6in); dive operators commonly cite 120m. Wreck hull encrusted in soft corals, gorgonian fans, sponges. Marine life: bigeye trevally, bumphead parrotfish (night/dawn), Napoleon wrasse, turtles, reef sharks, great barracuda, garden eels.",
+      "description": "US Army cargo ship (Design 1037), launched 19 June 1918 at Federal Shipbuilding, Kearny NJ; earlier served as USS Liberty (ID-3461). Torpedoed by Japanese submarine I-66 on 11 January 1942 while carrying railway parts and rubber from Australia to the Philippines, ~10nm SW of Lombok Strait. Under tow toward Singaraja, took on too much water and was beached at Tulamben same day; slid into sea during 1963 Mount Agung eruption tremors. Lies parallel to shore, spanning ~3-30m depth (Wikipedia: 7.6-30.5m). SOURCE CONFLICT: Wikipedia gives length 411ft6in (~125m) and displacement 13,130 tons; dive operators (diving-indo.com, letsdivetulamben.com) commonly cite 120m length and ~6,211 tons - likely a different tonnage measure (gross/net vs displacement), not resolved between sources. Beam consistently 55ft/17m. Wreck hull encrusted in soft corals, gorgonian fans, sponges. Marine life: bigeye trevally, bumphead parrotfish (night/dawn), Napoleon wrasse, turtles, reef sharks, great barracuda, garden eels.",
       "name": "USAT Liberty Wreck",
       "scuba_diving:type:apnoe": "yes",
       "scuba_diving:type:attraction": "yes",
@@ -46,7 +46,7 @@
       "wikidata": "Q2468064",
       "wikimedia_commons": "Category:USAT Liberty (ship, 1918)",
       "wikipedia": "en:USAT Liberty",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-12"
     }
   },
   {
@@ -457,12 +457,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "baliaqua.com,ameddiveexplorer.com",
+    "validation_source": "baliaqua.com,ameddiveexplorer.com,diveconcepts.com",
     "tags": {
-      "description": "Ghost Bay - muck dive in Amed area. Black volcanic sand bay with burrows, rubble, sparse coral. Garden eel colonies. Flying gurnard (iconic species). Blue-spotted stingrays, frogfish, mantis shrimp, nudibranchs, cuttlefish, ghost pipefish. 8-25m depth. Mild current. Note: only 2 sources found; further validation recommended.",
+      "description": "Ghost Bay - muck dive in Amed area. Black volcanic sand bay/plateau (~150m wide parallel to shore at 4-7m, sloping to ~20-25m) with burrows, rubble, sparse coral and some artificial reef pieces. Garden eel colonies. Flying gurnard and sea moth (iconic species). Blue-spotted stingrays, ghost pipefish (multiple species), stonefish, mimic octopus, mantis shrimp, nudibranchs, cuttlefish, shrimp-filled anemones. 5-25m depth. Generally mild current (ghost pipefish hide when current picks up). Third independent source (diveconcepts.com) confirms core details.",
       "name": "Bulakan",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-12"
     }
   },
   {
@@ -685,14 +685,14 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "letsdivetulamben.com,balidivecove.com,ecodivebali.com",
+    "validation_source": "letsdivetulamben.com,balidivecove.com,ecodivebali.com,evolutiondiver.com,nofeardiving.com",
     "tags": {
       "name": "Kubu Wreck",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "description": "Boga Wreck - Dutch-built Indonesian government patrol vessel ~40-45m length, intentionally sunk September 2012 as artificial reef off Kubu village. Bow ~18m, stern 38-40m (has settled deeper over time). Deck props: non-original wooden steering wheel, Buddha statues, VW car, scuba tanks. Confirmed species: moray eels, barracuda, batfish, lionfish, nudibranchs, octopus, turtles. Gorgonian fans colonising structure.",
-      "last_qa_date": "2026-06-08"
+      "description": "Boga Wreck - Dutch-built patrol/cargo-patrol vessel used by Indonesian government, intentionally sunk September 2012 as artificial reef off Kubu village. SOURCE CONFLICT: length reported between 40m (balidivecove.com, evolutiondiver.com) and 50m (nofeardiving.com), commonly cited as ~40-45m; tonnage ~150 tonnes reported by only one source (evolutiondiver.com), not independently corroborated. Unverified 1950s build-year claim found in aggregated search results could not be confirmed by any directly-fetched source, so it is omitted. Originally sunk to max ~32m; bow ~18m, stern now 38-45m (has settled deeper over time per multiple operators). Deck props: non-original wooden steering wheel, Buddha statues, VW car, scuba tanks. Confirmed species (multiple sources): moray eels, barracuda, batfish, lionfish, nudibranchs, octopus, turtles, occasional reef shark. Gorgonian fans colonising structure; young wreck, not yet fully coral-covered.",
+      "last_qa_date": "2026-07-12"
     }
   },
   {
@@ -737,19 +737,19 @@
     "name": "Barracuda Wall",
     "lat": -8.344235,
     "lon": 115.675122,
-    "depth": 30,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "michaelmcfadyenscuba.info,ameddiveexplorer.com",
+    "validation_source": "michaelmcfadyenscuba.info,ameddiveexplorer.com,amedjepundivers.com",
     "tags": {
       "name": "Barracuda Wall",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "description": "Drift dive from east end of Bunutan Beach heading east-southeast. Wall densely covered in thousands of barrel sponges and hundreds of gorgonia fans. Large garden eel colonies on sandy bottom - among largest in Amed area. Ribbon eels and moray eels in wall crevices. Very large brain corals. Current-assisted drift; boat follows bubbles for pickup. Note: only 2 sources found.",
-      "last_qa_date": "2026-06-08"
+      "description": "Part of the Bunutan dive area, also known locally as 'The House of Barracudas'; drift dive from east end of Bunutan Beach heading east-southeast. Gently sloping reef turns into a wall densely covered in barrel sponges, gorgonian sea fans, and table corals; pinnacles rise near the surface toward the end of the dive. Large garden eel colonies on sandy bottom - among the largest in the Amed area. Schools of barracuda and giant trevally patrol the blue; juvenile and resting reef sharks shelter near the end-of-dive pinnacles. Octopuses, moray eels (including honeycomb morays), ribbon eels, nudibranchs and shrimp in wall crevices. Current-assisted drift, can build to strong; boat follows bubbles for pickup. Depth to ~40m, average ~18m. Confirmed by a third independent source (amedjepundivers.com).",
+      "last_qa_date": "2026-07-12"
     }
   }
 ]

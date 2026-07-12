@@ -17,7 +17,7 @@ Also known as Shark Point and Batu Tiga — Candidasa's premier dive site for wh
 
 ## Overview
 
-Gili Mimpang (Batu Tiga, meaning "three rocks") is a series of three large rocks followed by six smaller ones off the coast of Candidasa, a 10-minute boat ride from Padangbai. The site is widely acknowledged as one of the best places in Bali to see whitetip reef sharks, wobbegong sharks, and the rare coral catshark. The reef is exceptionally well-preserved — highly alive with hard and soft corals, gorgonians, and barrel sponges — and the Indonesian Throughflow brings cooler, nutrient-rich water that feeds abundant fish life. Between July and October, mola mola appear at this site, sometimes in groups, dancing in the current rather than presenting at cleaning stations.
+Gili Mimpang (Batu Tiga, meaning "three rocks") is a series of three large rocks followed by six smaller ones off the coast of Candidasa, roughly 10–30 minutes by boat depending on departure point (Candidasa or Padangbai). The site is widely acknowledged as one of the best places in Bali to see whitetip reef sharks, with rarer sightings of wobbegong sharks and coral catsharks. The reef is craggy rock covered in hard and soft corals and gorgonians. Between July and October, mola mola (oceanic sunfish) appear at this site.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Gili Mimpang (Batu Tiga, meaning "three rocks") is a series of three large rocks
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10–25 m
-- **Current**: Strong and variable; unpredictable
+- **Maximum Depth**: 25 meters (dive operators report a working range of roughly 10–35 m across the site)
+- **Typical Visibility**: 10–30 m
+- **Current**: Medium to strong, variable; tied to tide and moon phase
 - **Best Time**: May to October (mola mola season July–October)
 
 ## Marine Life
 
-Whitetip reef sharks are the flagship species, often seen in groups resting on sandy patches. Wobbegong sharks and coral catsharks are rare finds that Gili Mimpang is known for. On the shallow eastern reef (5–15 m), turtles, large barrel sponges, giant trevally, and hawksbill turtles are reliable sightings. Mola mola are possible from July to October. Pygmy seahorses hide in the gorgonians.
+Whitetip reef sharks are the flagship species and the most reliable sighting. Wobbegong sharks are a rarer find, and coral catsharks rarer still — both are specifically associated with this site by multiple Bali dive operators. Giant trevally, sweetlips, and Napoleon wrasse are reported around the reef's cleaning stations, and turtles are a reliable sighting. Mola mola are possible from July to October, generally seen cruising in the current rather than at a fixed cleaning station. No source consulted this pass confirmed pygmy seahorses specifically at this site, so that claim has been removed.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Strong, variable, and unpredictable currents are the primary hazard. Down-curren
 
 ## Photography
 
-Whitetip reef sharks resting on sand between coral heads provide some of the most photogenic shark shots in Bali. Wide-angle suits the coral formations and shark encounters. Mola mola in open water require fast shooting; use wide angle and be ready for sudden appearances. Macro opportunities on the reef include pygmy seahorses and nudibranchs.
+Whitetip reef sharks resting on sand between coral heads provide some of the most photogenic shark shots in Bali. Wide-angle suits the coral formations and shark encounters. Mola mola in open water require fast shooting; use wide angle and be ready for sudden appearances. Macro opportunities on the reef include nudibranchs.
 
 ---
-*Sources: [Geko Dive Bali - Gili Mimpang](https://gekodivebali.com/en/bali-dive-sites/gili-mimpang), [Atlantis Bali Diving - Gilis](https://www.atlantis-bali-diving.com/gilis#gili-mimpang), [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [PADI - Gili Mimpang](https://www.padi.com/dive-site/indonesia/gili-mimpang/). Last updated 2026-05-17.*
+*Sources: [Divezone - Gili Mimpang](https://divezone.net/divesite/gili-mimpang), [Bali Fun Diving - Candidasa](https://balifundiving.com/bali-dive-sites/candidasa/), [PADI - Gili Mimpang](https://www.padi.com/dive-site/indonesia/gili-mimpang/), [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/). Last updated 2026-07-12.*

@@ -2,8 +2,8 @@
 name: Barracuda Wall
 lat: -8.344235
 lng: 115.675122
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -17,23 +17,23 @@ A current-assisted drift dive starting off the eastern end of Bunutan Beach and 
 
 ## Overview
 
-Barracuda Wall is a drift dive site near Amed on Bali's northeast coast. The dive begins off the eastern end of Bunutan Beach and follows the current east-southeast along a wall densely covered in marine growth. The site is named for the barracuda that frequent the area, but the real draw is the sheer density of barrel sponges and gorgonia fans along the wall, along with an exceptional garden eel colony. The current typically carries divers along the wall, making this an effortless and visually spectacular drift dive.
+Barracuda Wall is part of the broader Bunutan dive area near Amed on Bali's northeast coast, sometimes referred to locally as "The House of Barracudas." The dive begins off the eastern end of Bunutan Beach, where a gently sloping reef turns into a wall, and follows the current east-southeast along a face densely covered in barrel sponges, gorgonian sea fans, and table corals. Toward the end of the dive, pinnacles rise close to the surface, offering shelter to juvenile and resting reef sharks. The site is named for its schools of barracuda, which patrol the blue alongside giant trevally, but the real draw is the density of sponge and gorgonian growth along the wall and an exceptional garden eel colony on the sandy bottom below. Current can build from moderate to very strong, carrying divers along the wall — this is considered one of Amed's more demanding drift dives, with depths reaching 40 metres.
 
 ## Site Information
 
 - **Location**: Bunutan Beach, Amed, East Bali, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters (average ~18 meters)
 - **Typical Visibility**: 15-25 meters
 - **Water Temperature**: 27-29°C
-- **Current**: Current-assisted drift (moderate to strong)
+- **Current**: Current-assisted drift, can build from moderate to very strong
 - **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-The wall at Barracuda is covered with thousands of barrel sponges and hundreds of gorgonia fans, creating one of the most densely covered walls in the Amed area. The sandy bottom adjacent to the wall supports some of the largest garden eel colonies described in the area -- dense fields of eels swaying in the current. Ribbon eels and moray eels inhabit crevices in the wall. Very large brain corals are present among the sponge and gorgonia coverage.
+The wall at Barracuda Wall is densely covered with barrel sponges, gorgonian sea fans, and table corals, creating one of the most heavily encrusted walls in the Amed area. Schools of barracuda and giant trevally patrol in the blue water off the wall. The sandy bottom adjacent to the wall supports some of the largest garden eel colonies in the area — dense fields of eels swaying in the current. Octopuses, moray eels (including honeycomb morays), and ribbon eels inhabit crevices in the wall. Near the end of the dive, pinnacles rising toward the surface shelter juvenile and resting reef sharks.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ This is a current-assisted drift dive, so experience with drift diving technique
 Wide-angle photography excels here. The density of barrel sponges and gorgonias along the wall provides spectacular reef-scape compositions. The garden eel colony is an excellent wide-angle subject if you can approach slowly enough to avoid spooking them. Ribbon eels in the wall crevices are a rewarding macro target, though shooting macro on a drift dive requires skill and quick reflexes.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1090), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1090), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Amed Jepun Divers - Bunutan](https://www.amedjepundivers.com/dive-sites/amed/bunutan). Last updated 2026-07-12.*

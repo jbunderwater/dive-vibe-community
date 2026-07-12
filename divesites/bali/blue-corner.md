@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Blue Corner
 
-A current-swept wall dive at the corner of Menjangan Island where the reef drops sharply and pelagic life congregates in the blue water.
+A wall-diving point within the Menjangan Island reef system, West Bali National Park — see naming note below.
 
 ## Overview
 
-Blue Corner is situated at a prominent point on Menjangan Island where the reef wall turns sharply and currents accelerate around the corner, attracting schooling fish and pelagic species. The wall drops vertically from the surface to beyond 30 m, draped in gorgonian fans, black coral trees, and colourful soft corals. The corner geometry channels current to produce reliable fish aggregations — schools of trevally, fusiliers, and snapper are a constant presence. The site sits between the main eastern and western wall dive zones and offers a slightly more exposed character suited to intermediate divers comfortable with moderate current.
+**Naming note (important):** This entry's coordinates place it within the Menjangan Island dive area of West Bali National Park, near sites such as Pos I, Pos II, and Mangrove Point. A fresh re-audit of Menjangan dive-shop site listings (Bali Fun Diving, Menjangan Island Trip, PADI's Menjangan Island guide) found no dive site individually named "Blue Corner" among Menjangan's named points. The well-known Bali dive site actually called "Blue Corner" — a deep drift dive noted for sharks, rays, and mola mola, documented directly by PADI, Dive Concepts, Bali Fun Diving, and the Blue Corner Dive operator's own site — is located roughly 60 km away off **Nusa Lembongan/Nusa Penida** (PADI's dive-site page lists it near -8.661, 115.442), a different diving area entirely from Menjangan. "Blue Corner Dive & Conservation" is also the name of a dive operator with a branch based at Menjangan, which is the likely source of the name overlap. The previous validation pass appears to have attached descriptive detail from the Nusa Lembongan site to this Menjangan-coordinate entry; that content has been removed in this re-audit. What can be said reliably from the coordinates alone is that this point sits within Menjangan's wall-diving zone, an area generally characterized by vertical coral walls and light-to-moderate current — but no dive-shop or database source could be matched to this specific named point, so depth-profile, current-strength, and fish-aggregation claims below are not verifiable this pass and have been removed rather than repeated unsupported.
 
 ## Site Information
 
-- **Location**: Menjangan Island, West Bali National Park, northwest Bali
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Coordinates fall within the Menjangan Island dive area, West Bali National Park, northwest Bali — exact named site could not be confirmed against dive-shop listings this pass
+- **Entry Type**: Boat dive (consistent with all Menjangan diving)
+- **Site Type**: Wall dive (consistent with general Menjangan wall-diving character; not independently confirmed for this specific point)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15–30 m
-- **Current**: Moderate to strong at the corner point
-- **Best Time**: April to November
+- **Maximum Depth**: 30 meters (unverified for this specific point)
+- **Typical Visibility**: 15–30 m (general Menjangan range)
+- **Current**: Not independently confirmed for this point
+- **Best Time**: April to November (general Menjangan dry-season window)
 
 ## Marine Life
 
-Schools of bigeye trevally and snapper dominate the corner point. Blacktip reef sharks are frequently seen at 20–30 m. Turtles feed on the wall corals, and large grouper inhabit the deeper overhangs. Moray eels are tucked into crevices throughout the wall, and the gorgonians host nudibranchs and pygmy seahorses for patient searchers.
+No dive-shop or database source could be matched to this specific named point this pass, so no species are listed here. Menjangan's wall sites generally host gorgonian fans, soft corals, reef fish, and occasional pelagics and turtles, but attributing specific sightings to this point without a site-specific source would not meet this project's marine-life accuracy standard.
 
 ## Dive Profile
 
-Descend to 15–20 m and position on the upcurrent side of the corner. Allow the current to carry you around the point where fish aggregations are densest. After rounding the corner, ascend gradually up the wall and drift to a sheltered area for the safety stop at 5 m. Total dive time 45–55 minutes.
+Site-specific profile details could not be confirmed this pass. Divers booking a Menjangan trip should confirm with their operator which named site corresponds to these coordinates before planning a dive around a "Blue Corner" itinerary item.
 
 ## Entry and Exit
 
-Jukung boat from Labuhan Lalang. Entry via back roll on the upcurrent side. Currents at the corner can be significant — time your dive for moderate tidal flow. Deploy an SMB before ascending for boat pickup.
+Jukung boat from Labuhan Lalang, consistent with all Menjangan boat diving. Site-specific entry/exit guidance could not be confirmed for this point.
 
 ## Tips and Recommendations
 
-- Approach the corner at depth to stay below the strongest surface current
-- Station yourself at 15–20 m to watch the show as fish circle the point
-- Check gorgonians on the wall for pygmy seahorses while currents are manageable
-- Carry a reef hook if your operator provides one for current-swept corners
-- Combine with Pos 2 or Bat Cave for a full Menjangan diving day
+- Confirm with your local operator which named Menjangan site corresponds to this location before diving — "Blue Corner" is not a name used in Menjangan dive-shop site lists found this pass
+- Do not confuse this location with the well-known "Blue Corner" drift dive off Nusa Lembongan/Nusa Penida, which has a very different current regime and species profile
+- General Menjangan wall-diving practices apply: monitor current, carry an SMB, and dive within your certification limits
 
 ## Safety Considerations
 
-Currents can be strong and may reverse unexpectedly as the tide changes. Do not round the corner if conditions are too strong — abort the dive and surface in a sheltered area. Always carry an SMB. Stay well clear of the wall to avoid being swept into it during current surges.
+Because this specific point could not be matched to a named, described dive site, follow your operator's site briefing rather than any specific current or hazard claims. General Menjangan wall-diving currents range from light to moderate; always carry an SMB.
 
 ## Photography
 
-The corner's fish aggregations provide spectacular wide-angle subjects — schools of trevally backlit against the blue water are the signature shot. Reef sharks on the wall add drama. Wide-angle with dual strobes works best; save macro for the calmer sections of the wall where current is reduced.
+No site-specific photography guidance could be confirmed this pass.
 
 ---
-*Sources: [Dive Concepts - Crystal Bay Menjangan](https://diveconcepts.com/bali/spot-crystal-bay.php), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [PADI - Blue Corner dive site (Nusa Lembongan)](https://www.padi.com/dive-site/indonesia/blue-corner/), [Bali Fun Diving - Menjangan Island](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [Blue Corner Dive & Conservation - Menjangan](https://www.bluecornerdive.com/menjangan). Last updated 2026-07-12.*

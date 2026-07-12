@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Lost Blue Hole Andros
 
-One of hundreds of blue holes surrounding Andros Island — a circular marine sinkhole accessible by boat that offers a unique Bahamian blue hole experience in the shallow waters of the Andros barrier reef system.
+A marine sinkhole in the Andros blue hole region — one of the least documented sites in this database, and a name that requires a caution: a different, well-documented "Lost Blue Hole" dive site exists near Nassau, New Providence, roughly 35 miles away, and should not be confused with this entry.
 
 ## Overview
 
-Andros Island has more blue holes per square kilometre than anywhere else on Earth — there are hundreds on land and offshore. Lost Blue Hole is one of the accessible offshore sinkholes on the vast, flat Andros reef shelf, reachable by dive boat from the lodges and operators on the island. The hole drops from the shallow shelf depth to 30 meters, with the classic blue hole profile of narrow entrance widening into a larger chamber. Andros's blue holes are part of an extensive cave system that extends under the island and is connected to the ocean through tidal breathing — some of the holes flow in or out with the tides. The visibility in the offshore holes is excellent: 25–35 meters in clear Bahamas water.
+Andros Island has the highest concentration of blue holes in the world — regional sources put the total at 200+ across land and offshore water, part of an extensive limestone cave system formed when Ice Age sea-level changes eroded and later flooded karst caverns. Regional sources describe Andros's blue holes as ranging roughly 30–60 meters deep, with some offshore holes reported to reach much greater depths, and note the caves commonly contain stalactites and stalagmites (formations that only develop in air, evidence the caves once sat above sea level).
+
+**A note on this specific entry**: despite an extensive search — including the sources cited below — no publication was found that documents a distinct, named "Lost Blue Hole" feature at this location in Andros. A well-documented dive site of the same name exists off New Providence near Nassau (about 10 miles southeast of the city, with reported depths that vary between sources from roughly 14 m to 60+ m) — that is a different site from this one, based on this entry's coordinates placing it near Andros's east coast. The description below is therefore built from general, sourced facts about Andros's blue hole diving rather than confirmed details specific to this exact site; treat depth, current, and marine-life specifics with appropriate caution until a site-specific source is found.
 
 ## Site Information
 
@@ -33,19 +35,19 @@ Andros Island has more blue holes per square kilometre than anywhere else on Ear
 
 ## Marine Life
 
-The blue hole environment supports a specialised community. The upper section (0–15 m) has a typical Andros reef community — parrotfish, angelfish, and blue tang from the adjacent shelf reef. The transition zone (15–25 m) is where the halocline (saltwater/freshwater interface) creates the characteristic blue hole visual distortion and the upper limit of the hole's cave fauna. Below the halocline, visibility improves dramatically to crystal-clear salt water. Caribbean spiny lobster cluster near the halocline. Nurse sharks are frequently found resting on the ledges within the hole.
+No site-specific marine life report for this location was found. Regional Andros reef and blue hole diving commonly features typical Caribbean reef fish species near the rim where sunlight and reef habitat reach; deeper cave sections in Bahamian blue holes generally are described as biologically sparse. Species are not listed here since none could be confirmed for this specific site — do not treat prior mentions of specific species (e.g. lobster, nurse sharks) at this exact site as confirmed.
 
 ## Dive Profile
 
-Descent from the boat to the hole entrance at 3–5 meters, then controlled descent through the halocline at 15–20 meters to the clear saltwater below. The halocline creates a visible shimmering boundary and water temperature drop. Advanced divers explore the saltwater section to 30 meters while intermediate divers hover at the halocline for the visual experience before ascending.
+Specific dive-profile details for this exact site (entry depth, halocline location, turnaround point) could not be confirmed from available sources. Blue holes in the Andros region generally follow a narrow-entrance-to-wider-chamber profile, and many exhibit a halocline (a shimmering saltwater/freshwater interface) at some depth — but the precise depth and character of any halocline here is unconfirmed. Divers should rely on a briefing from a local operator familiar with this specific hole rather than the general profile described here.
 
 ## Entry and Exit
 
-Boat dive from Andros-based operators. Entry by giant stride from the boat. The hole entrance is typically identifiable from above as a dark blue circle against the light-coloured shelf. DSMB recommended for the open-water ascent.
+Boat dive, consistent with the site's recorded entry type. Entry by giant stride from the boat is standard practice for Bahamian blue hole/offshore diving generally, but has not been confirmed specifically for this site. DSMB recommended for the open-water ascent.
 
 ## Tips and Recommendations
 
-The halocline is the defining visual experience of a blue hole dive — the shimmering boundary between the upper murky layer and the crystal-clear saltwater below is dramatic and disorienting at first encounter. Avoid strong finning through the halocline as it disturbs the layers and reduces the visual effect. Andros operators know which holes are currently most accessible and most spectacular — follow local guidance rather than relying on general maps.
+Confirm with a local Andros-based operator whether this specific site is on their regular itinerary before planning a visit — it was not identified by name in any dive-shop or dive-database listing found during this review. If diving a halocline feature in the Andros region generally, avoid strong finning through the layer, as it disturbs the visual effect.
 
 ## Safety Considerations
 

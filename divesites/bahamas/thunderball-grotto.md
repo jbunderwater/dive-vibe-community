@@ -3,7 +3,7 @@ name: Thunderball Grotto
 lat: 24.2333
 lng: -76.3333
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 5
 entryType: boat
 siteType: cave
 ref: null
@@ -17,13 +17,13 @@ A small, spectacular sea cave on Staniel Cay in the Exumas — made famous by tw
 
 ## Overview
 
-Thunderball Grotto is a limestone sea cave on a small rocky island near Staniel Cay in the Exuma Cays, made internationally famous as a filming location for the 1965 James Bond film Thunderball and the 1983 film Never Say Never Again. The cave has multiple underwater entrances that lead to a large internal chamber with openings in the roof that allow shafts of natural light to penetrate to the water below, creating spectacular light effects. The cave's maximum depth is just 8 meters — the interior is shallow enough for snorkelling. The crystal-clear Exuma water delivers extraordinary visibility of 25–35+ meters. The site is visited year-round by yachts, water taxis, and dive boats from Staniel Cay. Water temperature is 24–28°C.
+Thunderball Grotto is a limestone sea cave on a small rocky island near Staniel Cay in the Exuma Cays, made internationally famous as a filming location for the 1965 James Bond film Thunderball and the 1983 film Never Say Never Again. The cave has multiple underwater entrances that lead to a large internal chamber with openings in the roof that allow shafts of natural light to penetrate to the water below, creating spectacular light effects. At high tide the chamber has five entrances that require submerging to reach, plus two entrances that can be reached without diving under; at low tide more of the entrances are accessible at the surface. The cave's depth is shallow — sources consistently put it in the 0–15 foot (0–4.5 m) range — so the interior is accessible to snorkelling as well as diving. The crystal-clear Exuma water delivers extraordinary visibility. The site is visited year-round by yachts, water taxis, and dive boats from Staniel Cay. Water temperature is 24–28°C.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 1–8 m |
+| Depth Range | 0–5 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Cave |
@@ -33,7 +33,7 @@ Thunderball Grotto is a limestone sea cave on a small rocky island near Staniel 
 
 ## Marine Life
 
-The cave interior supports a dense community of tropical fish that have become highly habituated to visitors. Large schools of yellowtail snapper, sergeant majors, and chromis fill the interior chamber — the fish are comfortable approaching to arm's length. Outside the cave, the reef and rock surfaces carry hard coral formations, sea fans, and encrusting organisms. Nurse sharks occasionally rest on the cave floor. The clear Exuma water means every fish is vividly visible from surface snorkelling level.
+The cave interior supports a community of tropical fish that have become habituated to visitors, including yellowtail snapper and sergeant majors, along with angelfish, lobster, and conch reported by visitors. Outside the cave, the reef and rock surfaces carry hard coral formations, sea fans, and encrusting organisms. No source-specific reports of larger animals (e.g. sharks) at this cave were found during this review, so none are listed here. The clear Exuma water means fish are vividly visible from surface snorkelling level.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Thunderball Grotto is one of the Caribbean's most photographed underwater locati
 - The cave is approximately 15 minutes by boat from Staniel Cay
 
 ---
-*Sources: [Bahamas Air Tours - Thunderball Grotto](https://www.bahamasairtours.com/destination/thunderball-grotto/), [Staniel Cay Adventures - Thunderball Grotto](https://stanielcayadventures.com/thunderball-grotto-staniel-cay-james-bond/), [Nassau Bahamas Guide - Thunderball Grotto](https://nassaubahamasguide.com/destination/thunderball-grotto-james-bond/), [Sandals - Visiting Thunderball Grotto](https://www.sandals.com/blog/thunderball-grotto/). Last updated 2026-05-17.*
+*Sources: [Bahamas Air Tours - Thunderball Grotto](https://www.bahamasairtours.com/destination/thunderball-grotto/), [Staniel Cay Adventures - Thunderball Grotto](https://stanielcayadventures.com/thunderball-grotto-staniel-cay-james-bond/), [Sandals - Visiting Thunderball Grotto](https://www.sandals.com/blog/thunderball-grotto/), [Nassau Bahamas Guide - Thunderball Grotto](https://nassaubahamasguide.com/destination/thunderball-grotto-james-bond/). Re-verified 2026-07-12: depth corrected to 0–5 m (multiple sources report 0–15 ft) and Marine Life narrowed to species with source confirmation. Last updated 2026-07-12.*
