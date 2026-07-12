@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Pyramids
 
-Amed's iconic artificial reef — hollow concrete pyramid structures placed by local fishermen in the early 1990s, now fully encrusted with soft corals, sea fans, and teeming with reef fish.
+Amed's iconic artificial reef — more than 20 hollow concrete pyramid structures placed by local fishermen as a reef-enhancement effort, now encrusted with soft corals, sea fans, and teeming with reef fish.
 
 ## Overview
 
-The Pyramids dive site near Jemeluk Bay in Amed was created when local fishermen placed more than 20 hollow concrete pyramid structures on the black sand bottom at approximately 18–22 metres as a reef enhancement effort in the early 1990s. Three decades on, they are covered in soft corals, pink sea fans, and hard coral growth, and are teeming with reef fish. The site functions as a reliable turtle cleaning station where hawksbill and green turtles visit the structures regularly. Blue-spotted stingrays rest on the surrounding sandy floor. Moderate to strong current can sweep through the area on some days, enabling drift-style dives with excellent visibility.
+The Pyramids dive site near Jemeluk Bay in Amed was created when local fishermen placed more than 20 hollow concrete pyramid structures on the black sand bottom at approximately 12–25 metres as a reef enhancement effort. Sources disagree on exactly when: some operator sites cite "the early 1990s," while others describe it only as "more than 20 years ago" without naming a decade — since this is a historical claim without two independently corroborating primary sources, treat the specific "early 1990s" date as unconfirmed rather than established fact. What is well corroborated is that the structures are now covered in soft corals, sea fans, and hard coral growth, and are teeming with reef fish. The site functions as a resting/sheltering spot where hawksbill and green turtles are regularly seen. Blue-spotted stingrays rest on the surrounding sandy floor. Moderate current can sweep through the area on some days, enabling drift-style dives with good visibility.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Pyramids dive site near Jemeluk Bay in Amed was created when local fishermen
 
 ## Marine Life
 
-Hawksbill and green turtles visit the cleaning station on the pyramids regularly. Blue-spotted stingrays carpet the sandy floor between structures. Frogfish, leaf scorpionfish, and large stonefish reside in and around the pyramid structures. Pygmy seahorses have been found on the pink sea fans. Moray eels, angelfish, pufferfish, butterflyfish, and lionfish are common. Nudibranchs are numerous in the rubble around the base of each pyramid.
+Hawksbill and green turtles are regularly seen sheltering along the pyramids and slope (the nearby snorkel area is locally known as "Turtle Point"). Blue-spotted stingrays rest on the sandy floor between structures, and garden eels colonize the surrounding sand. Leaf scorpionfish and frogfish are reported in and around the pyramid structures, and pygmy seahorses have been found on the site's gorgonian/sea fans. Titan triggerfish, moray eels, oriental sweetlips, butterflyfish, blueface angelfish, and lionfish are common. Occasional larger visitors reported by local operators include giant barracuda and reef sharks. Nudibranchs are numerous in the rubble around the base of each pyramid.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Strong current can make it difficult to hold position at the deeper pyramids. Be
 The pyramids are a macro photographer's paradise — soft corals, frogfish, pygmy seahorses, and nudibranchs all on a single geometric structure. Wide-angle shots capturing turtles on the coral-covered pyramids are the signature image. Blue-spotted stingrays in groups on the black sand are striking wide-angle subjects.
 
 ---
-*Sources: [Bali Dive Cove - Amed Pyramids](https://www.balidivecove.com/dive-sites/amed-pyramids/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali Dive Cove - Amed Pyramids](https://www.balidivecove.com/dive-sites/amed-pyramids/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Dive Concepts - Pyramids Dive Site Amed](https://diveconcepts.com/bali/spot-pyramids.php) (source of the conflicting "20+ years ago" timeframe, used to flag the placement-date uncertainty above). Last updated 2026-07-12.*

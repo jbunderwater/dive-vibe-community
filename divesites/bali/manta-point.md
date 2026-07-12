@@ -17,7 +17,7 @@ Nusa Penida's most celebrated manta ray cleaning station — nearly year-round e
 
 ## Overview
 
-Manta Point is located on the southwestern coast of Nusa Penida and is the most reliable place in Bali to observe reef manta rays in their natural environment. The site centres on several coral head cleaning stations where manta rays circle continuously while small cleaner wrasses remove parasites from their skin. Most encounters happen at 5–15 m as the mantas rise to the cleaning stations, making this accessible even to snorkellers above. The site extends across a sandy seabed and a vibrant coral plateau, with a second cleaning station reachable by following the reef. Outside of stormy conditions, operators report manta encounter rates exceeding 90%.
+Manta Point is located on the southwestern coast of Nusa Penida and is the most reliable place in Bali to observe reef manta rays in their natural environment. The site centres on a cleaning station around 10 m deep where manta rays circle while small cleaner wrasses remove parasites from their skin, with a nearby wall dropping to about 40 m. A more current-exposed rock formation, Batu Sepatu, is part of the site and is recommended for advanced divers only. Operators report encounter rates around 95% across the year, with mantas present almost year-round.
 
 ## Site Information
 

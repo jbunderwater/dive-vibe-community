@@ -32,7 +32,7 @@ Blue Lagoon is Padangbai's signature dive site, set in a sheltered bay just east
 
 ## Marine Life
 
-Clownfish in anemones are abundant throughout the bommies. Moray eels occupy coral crevices, and lionfish rest under overhangs. Sweetlips, butterflyfish, parrotfish, and triggerfish are commonly seen. Occasional turtles graze on the reef, and reef sharks have been sighted on the wall section. Nudibranchs and small crustaceans reward patient macro searchers.
+PADI's site listing and Aquamarine Diving's Blue Lagoon/Jepun page both describe a rich resident population: bluespotted stingrays, a resident large Napoleon wrasse, several kinds of reef shark, moray eels, blue ribbon eels, stonefish, lionfish, scorpionfish/leaf scorpionfish, nudibranchs, pygmy seahorses, and turtles, with squid, octopus, and cuttlefish more commonly encountered at night. No source this pass confirmed clownfish, sweetlips, butterflyfish, parrotfish, or triggerfish specifically at this site, so those have been removed.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ The bay is very calm, but boat traffic enters and exits the area — be visible 
 
 ## Photography
 
-Excellent natural light in the shallows suits wide-angle reef shots and fish portraits. Clownfish in anemones are predictable subjects. Night dives add octopus, cuttlefish, and nudibranchs. The white sand bottom reflects light beautifully for macro shots.
+Excellent natural light in the shallows suits wide-angle reef shots and fish portraits. Napoleon wrasse and bluespotted stingrays are reliably found subjects. Night dives add octopus, cuttlefish, and nudibranchs. The white sand bottom reflects light beautifully for macro shots.
 
 ---
-*Sources: [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Neptune Scuba Diving - Bali Dive Sites](https://neptunescubadiving.com/bali-diving/bali-dive-sites/). Last updated 2026-05-17.*
+*Sources: [PADI - Blue Lagoon dive site](https://www.padi.com/dive-site/indonesia/blue-lagoon/), [Aquamarine Diving - Padangbai: Blue Lagoon & Jepun](https://www.aquamarinediving.com/bali-diving/dive-sites/padangbai/blue-lagoon-jepun/), [Neptune Scuba Diving - Bali Dive Sites](https://neptunescubadiving.com/bali-diving/bali-dive-sites/). Last updated 2026-07-12.*

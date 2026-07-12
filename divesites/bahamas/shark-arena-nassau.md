@@ -17,7 +17,7 @@ A structured Caribbean reef shark feeding dive operated off Nassau's southwest c
 
 ## Overview
 
-Shark Arena is one of Nassau's signature dive experiences, operated by Stuart Cove's Dive Bahamas on a regular basis at a reef site southwest of New Providence Island. The site features a designated "arena" area on the reef where multiple Caribbean reef sharks congregate for a structured encounter. Caribbean reef sharks are the primary species at this site, regularly reaching 1.5–2 metres. The reef sits at 12 metres maximum depth, providing excellent natural light and generous bottom time. Nassau's clear Caribbean water delivers 20–30 metres of visibility. Water temperature is 25–28°C.
+Shark Arena — also called "The Arena" — is the feeding-dive half of Stuart Cove's Dive Bahamas' two-tank Shark Adventure programme, run at a sandy site southwest of New Providence Island (the paired free-swim dive takes place at Shark Wall). Stuart Cove's own materials describe the shallow feeding site as roughly 35 feet (about 11 metres), consistent with this site's recorded 12 metre depth. Divers kneel in a semicircle on the sand while a divemaster in a full chainmail suit and helmet feeds Caribbean reef sharks from a pole — dozens of sharks (Stuart Cove's describes them as "5–6 foot" individuals) circle within touching distance, though touching is not permitted. Nassau's clear Caribbean water delivers 20–30 metres of visibility. Water temperature is 25–28°C.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ Shark Arena is one of the most photographically accessible shark dives in the wo
 - Typically offered as part of a two-tank trip combining Shark Arena with Stuart Cove Wall
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Adventure](https://stuartcove.com/shark-diving/shark-adventure/), [Stuart Cove's Dive Bahamas - Sharks](https://stuartcove.com/underwater-hollywood/sharks/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bahamas Tour Center - Stuart Cove Shark Adventure](https://www.bahamastourcenter.com/stuart-cove-shark-adventure-dive/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Adventure](https://stuartcove.com/shark-diving/shark-adventure/), [Stuart Cove's Dive Bahamas - Sharks](https://stuartcove.com/underwater-hollywood/sharks/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bahamas Tour Center - Stuart Cove Shark Adventure](https://www.bahamastourcenter.com/stuart-cove-shark-adventure-dive/). Last updated 2026-07-12.*

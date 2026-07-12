@@ -17,22 +17,24 @@ A sheltered wall and reef dive on the western end of Menjangan Island where morn
 
 ## Overview
 
-Mangrove Point is located at the western tip of Menjangan Island, where the reef turns a corner and the light conditions in the morning are particularly striking — sunshine penetrates the shallow corals and illuminates the wall with a vivid blue glow. The reef here is full of life from top to bottom, with fish nurseries in the shallow corals making the mandatory safety stop genuinely enjoyable rather than routine. The wall drops to around 30 m and hosts the same diversity of gorgonians, sponges, and corals characteristic of the rest of Menjangan, but with a slightly more sheltered character than the eastern wall sites.
+Mangrove Point is located roughly 10–15 minutes by boat from Post I, on Menjangan's southeastern coastline. Menjangan-specific dive-shop sources describe it as a quieter, more relaxed site than the island's dramatic vertical walls — a gentle wall and sloping reef with scattered coral patches, small rock formations, and mini-wall sections, described by operators as "a quieter, more natural landscape, perfect for slow exploration" rather than the impressive drop-offs found elsewhere on Menjangan. Depths range from roughly 5 m down to 25 m or more depending on where and in which direction the dive begins.
+
+*Note: this destination's data lists Mangrove Point's site type as "reef" and 20 m maximum depth; Menjangan operator descriptions found this pass describe it more as a gentle wall/sloping-reef hybrid reaching 25 m+, so treat the depth and type as approximate.*
 
 ## Site Information
 
-- **Location**: Menjangan Island, West Bali National Park, northwest Bali
+- **Location**: Southeastern Menjangan Island, ~10–15 min by boat from Post I, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Reef (dive-shop descriptions characterize it as a gentle wall/sloping-reef hybrid)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 20 meters (sources describe 5–25 m+)
 - **Typical Visibility**: 15–30 m
 - **Current**: Generally light to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-The shallow nursery areas host dense clouds of juvenile fish — anthias, chromis, and basslets — around branching corals. Lionfish, ornate ghost pipefish, and moray eels inhabit the wall. Turtles are frequently seen feeding along the reef crest. Reef sharks and trevally patrol the deeper sections, and batfish are often seen at mid-depth.
+Bali Aqua's Menjangan site guide specifically lists triggerfish (especially during nesting season, when they can become territorial toward divers), reef sharks, moray eels, octopus, batfish, snappers, and nudibranchs for this site. Menjangan Island Trip separately confirms abundant reef fishes and colorful coral, and notes the mangrove-fringed shallows are a good high-tide snorkel spot. No source this pass confirmed juvenile-fish nursery clouds, lionfish, or ghost pipefish specifically at this point, so those claims have been removed.
 
 ## Dive Profile
 
@@ -44,19 +46,18 @@ Jukung boat from Labuhan Lalang. Entry via back roll or giant stride from the gu
 
 ## Tips and Recommendations
 
-- Dive in the morning to make the most of the beautiful light filtering through the corals
-- Spend your safety stop in the shallows watching the fish nurseries — it rivals the deeper reef
-- Look for ornate ghost pipefish near the gorgonian bases
-- Pair with Eel Garden or Pos 2 for a full Menjangan day
+- Keep a respectful distance from nesting triggerfish — they can become territorial and nip at divers who stray into their nesting cone
+- A good, relaxed choice for slow exploration and macro/nudibranch searching between the island's more dramatic wall dives
+- Pair with Post I or Post II for a fuller Menjangan day
 - Suitable for Open Water certified divers and snorkellers
 
 ## Safety Considerations
 
-Currents are usually mild but can increase at the point. Stay within recreational depth limits. Lionfish in coral overhangs are venomous — observe from a safe distance. Maintain good buoyancy to protect the reef structure. Always dive with a buddy.
+Currents are generally light to moderate. Give nesting triggerfish (seasonal) a wide berth rather than turning your back on one that is displaying territorial behavior. Maintain good buoyancy to protect the reef structure. Always dive with a buddy.
 
 ## Photography
 
-Morning dives offer exceptional natural light for shooting the shallow reef and fish schools. Wide-angle works well for the wall sections, while macro shooters will find ghost pipefish, nudibranchs, and juvenile fish in the corals. The safety stop in the shallows often yields some of the most colourful shots of the day.
+Macro shooters will find nudibranchs among the coral patches. Wide-angle suits the gentle wall and sloping-reef sections. No site-specific claim about exceptional morning light was found this pass, so that detail has been removed.
 
 ---
-*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Bali Aqua - Menjangan Diving](https://baliaqua.com/bali-dive-sites/menjangan-diving/), [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/). Last updated 2026-07-12. Note: only two independently-verified site-specific sources found this pass despite a genuine search for a third — a "Mangrove Point" listed by Bali Fun Diving actually describes a different site near Nusa Lembongan and was not used here.*

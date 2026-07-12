@@ -23,7 +23,7 @@ On 10 June 1909, she ran aground in foggy conditions at Ponta dos Fenais (Baixa 
 
 The SOS claim: multiple sources, including a dedicated history of early SOS use, credit the *Slavonia* with transmitting the first maritime SOS distress call, sent by the wireless operator at the Radio-Flores station on her behalf. Wikipedia flags this specific claim as needing a stronger citation, and the exact timing of the transmission is not precisely documented. A competing claim for RMS Republic's January 1909 distress call is not equivalent, since Republic used the earlier Marconi "CQD" signal rather than SOS. The Slavonia claim is widely repeated and not contradicted by an earlier confirmed SOS use, but it remains without a definitive primary-source citation.
 
-The wreck lies at approximately 18 metres depth, less than 50 metres from the coast at Lajedo, Flores. It was designated an Underwater Archaeological Park in 2015. The wreck is substantially broken up after more than a century of wave action.
+The wreck lies at approximately 18 metres depth, less than 50 metres from the coast at Lajedo, Flores. The Azores regional government created the Parque Arqueológico Subaquático do Slavonia (Slavonia Underwater Archaeological Park) by Decreto Regulamentar Regional n.º 17/2015/A of 29 September 2015, effective 30 September 2015; fishing, anchoring, and unauthorised research within the park are prohibited. The wreck is substantially broken up after more than a century of wave action.
 
 ## Site Information
 

@@ -51,16 +51,15 @@ Confirm with a local Andros-based operator whether this specific site is on thei
 
 ## Safety Considerations
 
-Blue holes involve a degree of overhead environment — do not descend into the narrower lower sections without appropriate training. The halocline can cause temporary disorientation. Tidal flow in and out of some holes creates current — check with the operator on the day's tidal state. Cave diving beyond the cavern zone requires technical cave certification. Recreational divers should not penetrate further than natural daylight penetrates.
+Blue holes generally involve a degree of overhead environment — do not descend into narrower lower sections without appropriate training, and any halocline present can cause temporary disorientation. Tidal flow in and out of some Andros holes creates current; check with a local operator on the day's conditions before diving. Cave diving beyond the cavern (daylight) zone requires technical cave certification. Recreational divers should not penetrate further than natural daylight penetrates. Because this exact site has not been independently documented, treat any operator's on-site briefing as the authoritative source of safety information rather than the general guidance above.
 
 ## Photography
 
-The halocline is the primary photographic attraction of Andros blue holes — the shimmering interface layer creates a surreal visual effect that photographs dramatically with a wide-angle or fisheye lens. Looking up through the halocline from below, with the refracted surface light above, is a signature blue hole image. The circular opening photographed from below with sunlight streaming in is a classic composition.
+No site-specific photography notes were found. General Andros blue hole photography favors wide-angle or fisheye lenses to capture the circular opening and any halocline layer, but this has not been confirmed for this specific location.
 
 ## Additional Resources
 
-- Small Hope Bay Lodge: Andros-based diving lodge with extensive blue hole expertise
-- Andros dive operators: guide divers to the most accessible and scenic blue holes on the shelf
+- Andros dive operators and lodges (e.g. Small Hope Bay Lodge) offer blue hole diving on the island generally; confirm with them directly whether this specific site is part of their itinerary.
 
 ---
-*Sources: [Scuba Diving Magazine - Diving Inland Blue Hole Cave System Andros](https://www.scubadiving.com/travel/bahamas/diving-inland-blue-hole-cave-system), [Discovery Channel - Andros Blue Holes](https://www.discovery.com/exploration/Andros-Bahamas-Blue-Holes), [Explorers Web - Blue Holes of Andros](https://explorersweb.com/a-guide-to-the-blue-holes-of-the-bahamas-andros-island/), [My Out Islands - Diving Blue Holes](https://www.myoutislands.com/things-to-do-in-the-bahamas/bahamas-diving/diving-blue-holes). Last updated 2026-05-17.*
+*Sources: [Explorers Web - Blue Holes of Andros](https://explorersweb.com/a-guide-to-the-blue-holes-of-the-bahamas-andros-island/), [Discovery Channel - Andros Blue Holes](https://www.discovery.com/exploration/Andros-Bahamas-Blue-Holes), [My Out Islands - Diving Blue Holes](https://www.myoutislands.com/things-to-do-in-the-bahamas/bahamas-diving/diving-blue-holes), [Scuba Diving Magazine - Diving Inland Blue Hole Cave System Andros](https://www.scubadiving.com/travel/bahamas/diving-inland-blue-hole-cave-system). Re-verified 2026-07-12: none of these sources name a specific "Lost Blue Hole" site in Andros; description rewritten to general, sourced Andros blue-hole facts only, and flagged as distinct from the separately documented "Lost Blue Hole" near Nassau, New Providence. Last updated 2026-07-12.*

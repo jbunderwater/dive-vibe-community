@@ -31,7 +31,7 @@ The Tulamben Drop-off, also known as the Tulamben Wall, is a vertical wall forme
 
 ## Marine Life
 
-The wall supports prolific macro life including frogfish, ghost pipefish, leaf scorpionfish, nudibranchs, octopus, and cuttlefish. Larger species include white-tip reef sharks, Napoleon wrasse, and large moray eels. Clown triggerfish and schools of fusiliers are common along the wall face. The sandy slope before the wall is an excellent macro photography area. Occasional mola mola and pelagics pass in the blue water beyond the wall.
+White-tip reef sharks are seen here more often than at the nearby USAT Liberty wreck, and Napoleon wrasse are regularly sighted along the wall. Frogfish, moray eels, mantis shrimp, octopus, cuttlefish, and pygmy seahorses are confirmed residents. The wall is encrusted with black coral, sea fans, and tube/barrel sponges, and hosts several angelfish species (emperor, blue-banded, yellow-faced). Anemonefish, triggerfish, bumphead parrotfish, and passing tuna and trevally are also reported, and the shallow aquarium section holds reef fish and cuttlefish. Claims of ghost pipefish, leaf scorpionfish, fusilier schools, and mola mola/pelagic sightings at this specific site could not be corroborated this pass and have been removed.
 
 ## Dive Profile
 
@@ -40,7 +40,7 @@ Enter from the pebble beach and swim a short distance to the wall edge. The shal
 ## Tips and Recommendations
 
 - Easily combined with a dive on the adjacent USAT Liberty wreck
-- The sandy slope before the wall is excellent for macro photography — look for frogfish and ghost pipefish
+- The sandy slope before the wall is excellent for macro photography — look for frogfish
 - Early morning dives offer the best lighting on the wall face
 - Night dives on the Drop-off are popular for hunting flashlight fish and Spanish dancers
 
@@ -49,4 +49,4 @@ Enter from the pebble beach and swim a short distance to the wall edge. The shal
 The shallow wall top makes this site very accessible for beginners, but depth increases rapidly. Watch your depth gauge carefully along the wall. Shore entry over loose pebbles can be slippery — water shoes or booties recommended.
 
 ---
-*Sources: [Aquamarine Diving - Tulamben Drop Off](https://www.aquamarinediving.com/tulamben-drop-off-dive-site-bali/), [Ecodive Bali - Tulamben Wall](https://ecodivebali.com/tulamben-wall-drop-off-dive/), [Let's Dive Tulamben - Drop Off](https://letsdivetulamben.com/dive-sites/drop-off/). Last updated 2026-04-05.*
+*Sources: [Aquamarine Diving - Tulamben Drop Off](https://www.aquamarinediving.com/tulamben-drop-off-dive-site-bali/), [Ecodive Bali - Tulamben Wall](https://ecodivebali.com/tulamben-wall-drop-off-dive/), [Let's Dive Tulamben - Drop Off](https://letsdivetulamben.com/dive-sites/drop-off/). Last updated 2026-07-12.*

@@ -52,4 +52,4 @@ Boat dive only. The site is within range of The Dive Shop at Cape Eleuthera Reso
 Depths exceed 30 meters just off the recreational limit at this site. A dive computer is essential. The open Exuma Sound exposure can create surge at the wall face. Complete a safety stop at 5 meters and carry an SMB for open-water ascent.
 
 ---
-*Sources: [Zentacle - Off The Wall](https://www.zentacle.com/Beach/8538/off-the-wall), [All Star Liveaboards - Cobia Cage Eleuthera](https://allstarliveaboards.com/scuba-diving-cobia-cage-eleuthera-bahamas/), [Lost Island Voyages - Dives & Destinations in the Bahamas](https://www.lostislandvoyages.com/Dives_Destinations). Last updated 2026-07-12.*
+*Sources: [Zentacle - Off The Wall](https://www.zentacle.com/Beach/8538/off-the-wall), [All Star Liveaboards - Cobia Cage Eleuthera](https://allstarliveaboards.com/scuba-diving-cobia-cage-eleuthera-bahamas/), [Lost Island Voyages - Dives & Destinations in the Bahamas](https://www.lostislandvoyages.com/Dives_Destinations), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-07-12.*

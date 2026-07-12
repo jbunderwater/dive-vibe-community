@@ -17,7 +17,7 @@ A black sand muck dive adjacent to the famous USAT Liberty wreck in Tulamben, of
 
 ## Overview
 
-Liberty Muck is the black sand area adjacent to the USAT Liberty wreck at Tulamben on Bali's northeast coast. While most divers visiting Tulamben head straight for the Liberty wreck, this neighbouring muck site offers exceptional critter diving on the volcanic sand bottom. The terrain consists of sand ridges running perpendicular to the shore, descending to approximately 28 meters. The dark sand provides habitat for an impressive array of small, unusual marine life that thrives independently of the wreck.
+Liberty Muck is the black sand area adjacent to the USAT Liberty wreck at Tulamben on Bali's northeast coast, entered from the beach opposite the wreck site. The terrain consists of sand ridges running roughly perpendicular to the shore with small coral outcrops on the ridges and mostly bare gullies between them, descending to approximately 24-28 meters before the guide typically turns the dive. A ScubaBoard trip report separately describes a black-sand "Liberty Slope" muck site immediately east of the wreck ("the muck dive next door"), which matches this location's general description closely enough to be treated as corroborating, though the exact naming is not identical across sources — this is noted as a caveat rather than a certainty.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Liberty Muck is the black sand area adjacent to the USAT Liberty wreck at Tulamb
 
 ## Marine Life
 
-The black sand at Liberty Muck supports remarkable critter diversity. Mimic octopus are found here -- masters of disguise that can imitate flatfish, lionfish, and sea snakes. Ornate ghost pipefish drift among debris and sea grass. Orangutan crabs cling to bubble corals, their hairy bodies providing effective camouflage. Garden eels form colonies in the sand, swaying in the current while feeding on plankton. The site hosts a wide variety of nudibranchs across the sand ridges and coral patches.
+The black sand at Liberty Muck supports notable critter diversity, per the McFadyen dive log: mimic octopus, ornate ghost pipefish, several crab species, shrimp, nudibranchs, and garden eels in the shallower zones near shore. The claim that mimic octopus here specifically imitate flatfish, lionfish, and sea snakes, and the description of orangutan crabs clinging to bubble corals, are general species behaviors rather than confirmed observations at this exact site, and have been softened accordingly.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The entry over the rocky beach requires care, especially when carrying camera eq
 Liberty Muck is outstanding for macro photography. The black volcanic sand creates clean, dark backgrounds that highlight small, colourful subjects. Mimic octopus, ghost pipefish, and nudibranchs are the primary photographic targets. A macro lens (60mm or 100mm) and a focus light are essential. The garden eel colonies also make excellent subjects if approached slowly and patiently.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=880), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/). Last updated 2026-05-17.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=880) (site-specific, primary source), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/) (regional muck-diving context, does not name this site specifically), [ScubaBoard - Tulamben trip reports](https://scubaboard.com/community/tags/tulamben/) (describes a matching black-sand macro slope immediately east of the Liberty wreck, naming and exact distance not identical). Three distinct domains consulted this pass; only the first provides precise, site-specific confirmation — treat with appropriate caution. Last updated 2026-07-12.*

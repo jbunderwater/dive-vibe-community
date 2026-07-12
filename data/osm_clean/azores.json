@@ -62,14 +62,14 @@
     "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,wikipedia.org,turismo.azores.gov.pt,azoressub.com",
       "last_qa_date": "2026-07-12",
-      "cold_water_review": "Reviewed 2026-07-12: site is actively used by local operators (Azores Sub, others) for zero-certification Discover Scuba/Diving Baptism dives; Azores in-season water temp (~17-24C, May-Oct) is not in the same cold-water tier as Norway/Svalbard/Great Lakes examples in the cold-water minimum-difficulty policy. Beginner rating retained; thermal protection note added to markdown."
+      "difficulty_note": "Corrected Beginner->Intermediate 2026-07-12: Azores overall is NOT classified cold-water under this project's policy (in-season temp 17-24C, well above Norway/Svalbard/Great Lakes examples), but this site's own confirmed 22m max depth exceeds the project's Beginner threshold (<18m per validate-sites.md rubric), independent of the cold-water question. Shallow crater-bay sections (5-10m) remain suitable for introductory dives."
     }
   },
   {
@@ -86,8 +86,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive.visitazores.com,uboat.net,padi.com,scubaboard.com",
-      "last_qa_date": "2026-07-12"
+      "validation_source": "dive.visitazores.com,vesselhistory.marad.dot.gov,alleganyhistory.org,scubaweather.com",
+      "last_qa_date": "2026-07-12",
+      "correction_note": "Corrected 2026-07-12: prior identity (SS Thomas Donaldson, torpedoed by U-968 1945) does not check out -- that ship's wreck remains near Kildin Island, Russia, per multiple sources, so it cannot be the same vessel later sunk off Azores in 1964. Real identity is SS Edwin L. Drake (Bethlehem-Fairfield, 1943), renamed Seadrake/Phoenix/Anassa/Dori, per MARAD Vessel History Database and alleganyhistory.org voyage records."
     }
   },
   {
@@ -176,8 +177,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "wikipedia.org,dive.visitazores.com,ggarchives.com,themanwhosentthesos.com",
-      "last_qa_date": "2026-07-12"
+      "validation_source": "wikipedia.org,ggarchives.com,portal.azores.gov.pt,themanwhosentthesos.com",
+      "last_qa_date": "2026-07-12",
+      "correction_note": "2026-07-12: dropped dive.visitazores.com/flores as a source -- checked directly and it does not mention the Slavonia wreck at all. Added portal.azores.gov.pt (Decreto Regulamentar Regional n.o 17/2015/A de 29 de Setembro), the official Azores government decree creating the Slavonia underwater archaeological park, confirming the 2015 protection date directly."
     }
   },
   {

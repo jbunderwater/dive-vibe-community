@@ -2,7 +2,7 @@
 name: Ray of Hope Nassau
 lat: 25.0583
 lng: -77.475
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 18
 entryType: boat
 siteType: wreck
@@ -24,7 +24,7 @@ The Ray of Hope is a 200-foot Haitian-registered cargo freighter — her side pl
 | Detail | Value |
 |--------|-------|
 | Depth Range | 12–18 m |
-| Difficulty | Beginner to Intermediate |
+| Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Wreck |
 | Visibility | 25–35 m |
@@ -33,7 +33,7 @@ The Ray of Hope is a 200-foot Haitian-registered cargo freighter — her side pl
 
 ## Marine Life
 
-The wreck hosts large groupers throughout the superstructure and hull. Schools of glassfish and sweepers fill the interior spaces. Spotted moray eels occupy crevices. The encrusted exterior supports a diverse invertebrate community. Caribbean reef sharks patrol the area around the wreck. The open sandy bottom at 50 meters hosts southern stingrays. Sea turtles occasionally visit the shallower upper sections of the superstructure.
+Caribbean reef sharks are the wreck's signature draw — Stuart Cove's runs a structured feed here twice daily, with sources describing dozens of sharks circling under the hull during feeding. Nurse sharks are also reported at the site. Groupers are present (used as feed bait during shark dives). Invertebrates documented on the wreck include lobster, crabs, shrimp, octopus, and nudibranchs. Rays are occasionally reported, though the species is not specified in available sources.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The accessible depth (12–18 m) means excellent natural light — strobes are o
 - Combine with Stuart Cove Wall for a Nassau two-tank deep dive day
 
 ---
-*Sources: [DreamWrecks - Ray of Hope Bahamas](https://dreamwrecks.com/ray-of-hope-bahamas-shipwreck), [DeeperBlue - Ray of Hope newest wreck](https://www.deeperblue.com/the-ray-of-hope-is-the-newest-wreck-dive-in-the-bahamas/), [Scuba Diving Magazine - Wreck Diving with Stuart Cove's](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Stuart Cove's Dive Bahamas](https://stuartcove.com/). Last updated 2026-05-17.*
+*Sources: [DreamWrecks - Ray of Hope Bahamas](https://dreamwrecks.com/ray-of-hope-bahamas-shipwreck), [DeeperBlue - Ray of Hope newest wreck](https://www.deeperblue.com/the-ray-of-hope-is-the-newest-wreck-dive-in-the-bahamas/), [Scuba Diving Magazine - Wreck Diving with Stuart Cove's](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Stuart Cove's Dive Bahamas](https://stuartcove.com/), [DAM Dive Shop - Nassau Dive Sites](https://www.damdiveshop.com/scuba-dive-sites-in-nassau). Last updated 2026-07-12.*

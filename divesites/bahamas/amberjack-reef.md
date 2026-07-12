@@ -31,11 +31,11 @@ This compact patch reef — roughly 50 feet in length — punches well above its
 
 ## Marine Life
 
-Up to 10 Caribbean reef sharks are commonly seen circling the reef, alongside nurse sharks resting on the sandy bottom. Large groupers — black grouper, yellowmouth grouper, and yellowfin grouper — are resident on the reef structure. Eagle rays make regular appearances. The sandy seafloor between coral heads is home to garden eels swaying in the current. Lobsters are abundant due to the no-take protections. Smaller residents include pirate blennies and various reef fish.
+Multiple Caribbean reef sharks are commonly seen circling the reef, alongside nurse sharks resting on the sandy bottom — this is the site's best-documented feature, corroborated across several independent sources. Large groupers, including black grouper and yellowfin grouper, are resident on the reef structure. Eagle rays are reported in the area. The sandy seafloor between coral heads is home to garden eels, and blennies and snappers are also documented here. Lobster abundance is consistent with the park's no-take protections generally, though not separately confirmed for this exact reef.
 
 ## Dive Profile
 
-Descend to approximately 15 meters (50 feet) to the patch reef structure. The site suits beginner to intermediate divers due to its modest depth. Most marine life activity concentrates on and around the reef structure itself. Allow plenty of time — the sharks and grouper interactions here are the highlight.
+Descend to approximately 15 meters (50 feet) to the patch reef structure — note that other published sources give figures ranging from about 11 to 21 meters (35–69 ft), so treat the exact maximum depth as approximate. The site suits beginner to intermediate divers due to its modest depth. Most marine life activity concentrates on and around the reef structure itself. Allow plenty of time — the shark and grouper interactions here are the highlight.
 
 ## Entry and Exit
 
@@ -52,4 +52,4 @@ Access is by boat only, typically as part of organised dive trips from Staniel C
 The Caribbean reef sharks present here are habituated to divers but remain wild animals. Do not corner, chase, or attempt to touch sharks. The Exuma Cays Land and Sea Park rules prohibit any interaction that disturbs marine life. Carry an SMB for your ascent.
 
 ---
-*Sources: [Uncommon Caribbean - Amberjack Reef](https://www.uncommoncaribbean.com/exuma/amberjack-reef-exuma/), [Zentacle - Amberjack Reef](https://www.zentacle.com/Beach/10024/amberjack-reef), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-05-17.*
+*Sources: [Uncommon Caribbean - Amberjack Reef](https://www.uncommoncaribbean.com/exuma/amberjack-reef-exuma/), [Zentacle - Amberjack Reef](https://www.zentacle.com/Beach/10024/amberjack-reef), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Oceanatik - Amberjack Reef](https://www.oceanatik.com/destination/bahamas/sites/amberjack-reef-11130.html). Re-verified 2026-07-12: removed an unconfirmed specific shark count and flagged conflicting depth figures across sources. Last updated 2026-07-12.*

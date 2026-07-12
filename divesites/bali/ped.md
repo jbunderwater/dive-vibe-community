@@ -17,22 +17,22 @@ A drift dive along Nusa Penida's sheltered north coast — sloping reefs, reside
 
 ## Overview
 
-Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside SD, Sental, and Buyuk — that line the more sheltered northern coastline of the island. The site features sloping coral reefs with consistent current that creates ideal conditions for drift diving through rich fish life. Unlike the dramatic, exposed southern sites, PED is more sheltered from the Indian Ocean swell, making it a reliable choice when conditions elsewhere are challenging. The current-swept slopes bring nutrient-rich water that supports dense populations of reef fish, turtles, and occasional pelagic visitors including giant trevally and, in season, mola mola.
+Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside SD Point, Sental, Buyuk, and Tugu — that line the more sheltered northern coastline of the island, with dives dropping in front of the sacred Ped temple. The site is mainly a sloping reef (from around 5 m) with stretches of deep wall, particularly between Ped and Sental. Unlike the dramatic, exposed southern sites, Ped is more sheltered from the Indian Ocean swell, making it a reliable choice when conditions elsewhere are challenging. Currents here are typically weak to moderate and can carry divers seamlessly across into SD Point, Buyuk, and Tugu on a single continuous drift. The current-swept slope brings nutrient-rich water that supports dense reef-fish populations, resident turtles, and — at 20–25 m — a chance of larger pelagics.
 
 ## Site Information
 
-- **Location**: North coast of Nusa Penida, Bali region
+- **Location**: North coast of Nusa Penida, Bali region, in front of Ped temple
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Predominantly sloping reef with sections of wall (particularly toward Sental); often listed as a "wall" site by local operators
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15–25 m
-- **Current**: Moderate; consistent drift current along the wall
-- **Best Time**: April to October
+- **Maximum Depth**: 30 meters (reef begins around 5 m and slopes/drops well past 30 m)
+- **Typical Visibility**: 20–30 m
+- **Current**: Weak to moderate drift current
+- **Best Time**: April to October; mola mola most likely July–October
 
 ## Marine Life
 
-Green and hawksbill turtles are commonly found on the reef slope. Dense schools of fusiliers, anthias, and sweetlips follow the current along the wall. Giant trevally hunt in the blue water, and reef sharks are frequently sighted. During the July–October mola mola season, oceanic sunfish have been reported here. Macro life includes nudibranchs, shrimps, and small cephalopods in coral crevices.
+Green and hawksbill turtles are regularly seen on the reef. Moorish idols, sweetlips, lionfish, moray eels, scorpionfish, and Napoleon wrasse are characteristic of the slope. Whitetip reef sharks are confirmed at this site; blacktip reef sharks are also reported. Around 20–25 m, on the current-swept slope, there is a reasonable chance of larger pelagics — eagle rays, manta rays, tuna, and barracuda — and, in season (roughly July–October), mola mola (oceanic sunfish). In March 2025 a great white shark was filmed passing divers at Ped at around 22 m — a rare, one-off sighting rather than a typical encounter. Macro life includes nudibranchs and shrimps in coral crevices.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Drift currents can be strong and may accelerate unexpectedly. Stay aware of dept
 Wide-angle suits the sloping reef with schools of fusiliers and turtles. Turtles grazing in the shallows offer portrait opportunities with good natural light. The current-swept character of the site means quick composition is needed — practice shooting on the move.
 
 ---
-*Sources: [Nusa Penida.org - Ped, SD Point, Sental](https://nusapenida.org/ped-sd-point-sental-buyuk-tugu), [Purple Dive Penida - Ped](https://www.purpledivepenida.com/ped), [Aquamarine Diving - Sental, Ped, SD](https://www.aquamarinediving.com/bali-diving/dive-sites/nusa-penida-lembongan/sental-ped-sd/). Last updated 2026-05-17.*
+*Sources: [Nusa Penida.org - SD Point & Ped](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/ped-sd-point-sental-buyuk-tugu/), [Purple Dive Penida - Ped](https://www.purpledivepenida.com/ped), [Aquamarine Diving - Sental, Ped, SD](https://www.aquamarinediving.com/bali-diving/dive-sites/nusa-penida-lembongan/sental-ped-sd/). Last updated 2026-07-12.*

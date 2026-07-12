@@ -242,14 +242,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "menjanganislandtrip.com,gekodivebali.com",
+    "validation_source": "menjanganislandtrip.com,gekodivebali.com,searovers.net",
     "tags": {
-      "description": "Menjangan Island main entrance, in front of West Bali National Park ranger station. Gentle sandy slope to 30m. Jetty pilings: ghost pipefish, pipefish, nudibranchs, crustaceans. Sandy slope: garden eels, blue-spotted stingrays, cuttlefish. Batfish near structure. Calm conditions, excellent for training dives.",
+      "description": "Menjangan Island main entrance, at the West Bali National Park ranger station/jetty - one of only three points where boats can land on the island. Sandy bottom sloping from 16-18m into deeper water; coral running east towards the mangrove with lots of small fish. Jetty pilings: ornate ghost pipefish, pipefish, nudibranchs, crustaceans. Sandy slope: garden eels, blue-spotted stingrays, cuttlefish. Batfish near structure. Slight to moderate currents (stronger toward the Menjangan-Bali channel). Calm conditions overall, excellent for training/easing into Menjangan diving.",
       "leisure": "marina",
       "name": "Post I Jetty",
       "reef": "coral",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-12"
     }
   },
   {

@@ -17,7 +17,7 @@ A dramatic volcanic wall dive in Bali's quietest diving village.
 
 ## Overview
 
-Amed Wall is a shore-entry wall dive along the black-sand coastline of northeast Bali, dropping from a shallow reef top down to around 25 meters. The wall is covered in hard and soft corals, sea fans, and sponges, supported by the nutrient-rich upwellings characteristic of this stretch of coast. Visibility is generally good, reaching 15–25 meters, and currents are typically mild. The Amed area sits between the Tulamben USAT Liberty wreck site and the Gili Islands, making it a convenient stop on any Bali diving itinerary. Water temperatures range from 25–29°C year-round, occasionally dipping to 22°C during cold thermoclines in the dry season.
+Amed Wall is a shore-entry wall dive in the Jemeluk Bay area of northeast Bali. Amed Dive Explorer describes the Jemeluk Bay & Wall entry as a gentle, sandy beach entry well suited to easing into equipment and buoyancy before reaching the wall. The wall itself is covered in hard and soft corals, sea fans, and sponges. Bali Aqua's regional guide reports blacktip reef sharks in the shallower parts of Jemeluk Bay, with grey reef shark sightings occasionally reported specifically on the Jemeluk wall — this site's shark encounters are more likely blacktip/grey reef than whitetip. The Amed area sits between the Tulamben USAT Liberty wreck site and the Gili Islands, making it a convenient stop on a Bali diving itinerary.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Amed Wall is a shore-entry wall dive along the black-sand coastline of northeast
 
 ## Marine Life
 
-The wall hosts a diverse array of reef fish including large schools of fusiliers, angelfish, and surgeonfish. Leaf scorpionfish and various nudibranch species are found in the rubble at the base of the wall. Hawksbill turtles regularly patrol the wall face, and reef whitetip sharks rest in crevices at depth. Macro enthusiasts will find ghost pipefish and robust ghost pipefish among the sea fans. The black-sand substrate at depth is classic Amed muck habitat, where frogfish and flamboyant cuttlefish occasionally appear.
+World Adventure Divers and Bali Aqua's Amed guides describe a broad species list for the Jemeluk wall area: pygmy seahorses, nudibranchs, leaf scorpionfish, peacock mantis shrimp, lionfish, octopus, moray eels, harlequin/porcelain/candy crabs, gobies, whip coral shrimp, scorpionfish, butterflyfish, blue-spotted stingrays, and turtles, along with giant trevally, Napoleon wrasse, schools of batfish, barracuda, and occasional eagle rays. Sharks reported are blacktip reef sharks (shallower bay) and occasional grey reef sharks on the wall itself, not whitetips. No source this pass specifically confirmed frogfish or flamboyant cuttlefish at this site, so those claims have been removed.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Currents are usually light but can pick up unexpectedly — monitor direction an
 
 ## Photography
 
-The wall face provides excellent ambient-light wide-angle shots, especially with sea fans as foreground subjects. The muck habitat at the base of the wall is productive for macro work — look for nudibranchs, pipefish, and frogfish. Shoot upward along the wall to capture divers silhouetted against the blue water column.
+The wall face provides good ambient-light wide-angle shots, especially with sea fans as foreground subjects. Macro shooters should look for nudibranchs, pygmy seahorses, and leaf scorpionfish among the sea fans and rubble. Shoot upward along the wall to capture divers silhouetted against the blue water column.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali Aqua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/), [Amed Dive Explorer - Amed, Bali](https://ameddiveexplorer.com/en/amed-dive-explorers-bali/). Last updated 2026-07-12.*

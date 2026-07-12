@@ -17,7 +17,7 @@ A black sand muck slope located approximately 200 meters southeast of the famous
 
 ## Overview
 
-Harlequin Slope is a black sand muck diving site on the Tulamben coast of northeast Bali. The site sits roughly 200 meters southeast of the USAT Liberty wreck, offering a completely different diving experience from the wreck itself. The bottom is composed of volcanic black sand formed into ridges, with small coral outcrops scattered across the slope. The site descends to approximately 29 meters and is best known for its resident harlequin shrimps, which can be found sheltering under rocks at depth -- the feature that gives the site its name.
+Harlequin Slope is a black sand muck diving site on the Tulamben coast of northeast Bali, documented in detail (with GPS waypoint) by Michael McFadyen's dive log roughly 200 meters southeast of the USAT Liberty wreck. The bottom is composed of sand ridges running perpendicular to the beach with scattered coral outcrops, separated by shallow, largely bare gullies that slope gradually. The site reaches approximately 29 meters and is named for resident harlequin shrimp found under rocks at depth. Note on naming: this exact site name does not appear on any dive-shop or operator listing found this pass — only on the McFadyen personal dive log. A ScubaBoard thread separately describes a black-sand macro slope roughly 50m east of the Liberty wreck (referred to there as "Liberty Slope") that also hosts harlequin shrimp; it is unclear whether this is the same location, an adjacent site, or a different local name for the same general muck-diving stretch of coast east of the wreck.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Harlequin Slope is a black sand muck diving site on the Tulamben coast of northe
 
 ## Marine Life
 
-The black sand environment at Harlequin Slope supports a rich variety of critter life. The site's namesake harlequin shrimps are found under rocks at depth and are a prized sighting for macro photographers. The sand ridges and coral outcrops harbour diverse nudibranchs, cuttlefish, mantis shrimp, and various crab species. The dark volcanic sand provides excellent contrast for spotting small, well-camouflaged creatures that would be difficult to find on a traditional reef.
+The black sand environment at Harlequin Slope supports a rich variety of critter life. The site's namesake harlequin shrimp are found under rocks at depth. Confirmed sightings (per the McFadyen dive log) include giant cuttlefish, blue ribbon eels, moray eels, cleaner shrimp, mantis shrimp, soft coral crabs, sea pens with associated shrimp, and multiple nudibranch species. The dark volcanic sand provides excellent contrast for spotting small, well-camouflaged creatures that would be difficult to find on a traditional reef.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The rocky beach entry requires care, particularly when carrying camera equipment
 Harlequin Slope is a dedicated macro photography site. The black sand provides clean, dark backgrounds that make critter subjects stand out beautifully. A 60mm or 100mm macro lens is ideal. Harlequin shrimps, nudibranchs, and cuttlefish are the primary targets. Bring a focus light to assist with finding and illuminating small subjects on the dark substrate.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=878). Note: no second independent source found for this site — validation_source remains single-source until confirmed. Last updated 2026-05-17.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=878). A ScubaBoard thread mentions a similar black-sand harlequin-shrimp macro slope near the Liberty wreck but under a different name ("Liberty Slope") and a different estimated distance, so it is not counted as a confirmed independent source for this specific named site. Extensive re-search this pass across Tulamben dive-operator sites (Let's Dive Tulamben, Bali AQua, Tulamben Scuba) found no listing using the name "Harlequin Slope" — this remains a single-source (sub-3-source) site. Last updated 2026-07-12.*

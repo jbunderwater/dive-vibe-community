@@ -17,21 +17,23 @@ Off Cape Eleuthera is a wall and reef dive site along the southwestern coast of 
 
 ## Overview
 
-Cape Eleuthera's leeward coast sits along the Exuma Sound, a body of water reaching depths of 4,000-5,000 feet within one mile of shore. The shelf edge here creates excellent wall diving within recreational depth limits. The dive area features thriving coral reefs on the wall top, dramatic drop-offs, swim-throughs in the reef structure, and a habitat productive enough to support regular reef shark sightings. The Dive Shop at Cape Eleuthera Resort describes its local sites as including coral nurseries, swim-throughs, and walls — all accessible within 7 minutes of the marina.
+Cape Eleuthera's leeward coast sits along the Exuma Sound, a body of water reaching depths of 4,000-5,000 feet within one mile of shore, and the local dive shop's own site runs over 20 named dives along this ~25-mile wall system (Cave Rock, Cut Through City, Split Coral Head, Rich's Canyon, Monolith, and others), most within about 7 minutes of the marina.
+
+**On distinctness from "Off The Wall":** This entry sits roughly 3.9 km from the [Off The Wall](/divesites/bahamas/off-the-wall.md) entry, which is confirmed to be the specific, independently-documented Cobia Cage site. We could not find a dive shop, database, or forum source that uses the name "Off Cape Eleuthera" for a specific, separately-branded dive site — none of the ~20 named Cape Eleuthera sites we found match that label. This GPS point most likely represents a general position along the same broad wall system rather than a uniquely identified dive site. We're keeping it as a separate entry because its coordinates and reported depth (27 m) genuinely differ from Off The Wall/Cobia Cage (24 m, ~3.9 km away), but the description below reflects the wall system's general, well-documented character rather than site-unique claims.
 
 ## Site Information
 
-- **Location**: Cape Eleuthera, southern Eleuthera, Bahamas
+- **Location**: Cape Eleuthera, southern Eleuthera, Bahamas (general wall system; not tied to one of the ~20 individually named local sites)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 27 meters (consistent with the recreational range reported across Cape Eleuthera's wall sites, e.g. Monolith at ~30 m)
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate to strong — Cape Eleuthera is known for challenging current conditions
 - **Best Time**: November to May
 
 ## Marine Life
 
-Reef sharks are commonly encountered along Cape Eleuthera's wall sites. Sea turtles, eagle rays, grouper, barracuda, and large schools of reef fish are typical. The wall face and reef top support diverse coral and sponge communities. The proximity to deep water means pelagic species occasionally move through.
+Reef sharks are well documented along Cape Eleuthera's wall system generally — Split Coral Head, in particular, is a known shark-feeding site nearby. Sea turtles are also regularly reported across the area. We could not confirm species sightings specific to this exact GPS point, so the above reflects the documented character of the broader wall system rather than site-specific reports.
 
 ## Dive Profile
 
@@ -52,4 +54,4 @@ Boat dive only. The Dive Shop at Cape Eleuthera Resort operates from the Cape El
 The deep drop-off makes depth monitoring critical. Advanced current conditions are possible on exposed sections of the wall. Complete a proper safety stop and carry an SMB. Advanced certification is recommended for divers planning to descend beyond 20 meters on the wall.
 
 ---
-*Sources: [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/), [Scuba Diving Magazine - Eleuthera and Exuma Cays Liveaboard](https://www.scubadiving.com/article/other/mild-and-wild-exploring-bahamas-eleuthera-and-exuma), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*
+*Sources: [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php), [All Star Liveaboards - Cobia Cage Eleuthera](https://allstarliveaboards.com/scuba-diving-cobia-cage-eleuthera-bahamas/) (for Cape Eleuthera wall system context and comparison to the nearby Off The Wall/Cobia Cage site). Description reflects the general Cape Eleuthera wall system's documented character rather than a confirmed uniquely-named site. Last updated 2026-07-12.*

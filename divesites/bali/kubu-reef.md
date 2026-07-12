@@ -17,7 +17,7 @@ A two-part reef site at Kubu village, 3.5 kilometres northwest of Tulamben, feat
 
 ## Overview
 
-Kubu Reef is located off the village of Kubu on Bali's northeast coast, approximately 3.5 kilometres northwest of Tulamben. The site is divided into two sub-sites, each offering a mix of sandy ridges with coral outcrops in the shallows that give way to more substantial reef development at depth. Beyond 30 meters, the reef forms a small wall. Kubu Reef combines the critter-hunting appeal of the Tulamben area with genuine reef diving, and is known for excellent anglerfish sightings and pygmy seahorses on the deeper gorgonias.
+Kubu Reef is located off the village of Kubu on Bali's northeast coast, approximately 3.5 kilometres northwest of Tulamben. The site is divided into two sub-sites, commonly called Kubu Reef Right and Kubu Reef Left, on opposite sides of the entry point — the right side is steeper and reaches almost 30 meters, the left is sandier with a less substantial reef beyond 30 meters. Kubu Reef combines the critter-hunting appeal of the Tulamben area with genuine reef diving, and is known for anglerfish sightings and pygmy seahorses on the deeper gorgonias. At least one operator source also places underwater bicycle/motorbike artificial-reef structures at Kubu Reef (rather than at the nearby Kubu Wreck).
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Kubu Reef is located off the village of Kubu on Bali's northeast coast, approxim
 
 ## Marine Life
 
-Kubu Reef is rich in both critter life and reef species. Multiple anglerfish species have been documented here, including yellow, white (clown), and black striped varieties. Ornate ghost pipefish drift among the coral outcrops. Pygmy seahorses cling to gorgonia fans at depth -- look carefully, as they are extremely well camouflaged. The deeper reef sections feature large barrel sponges and gorgonias that provide habitat for a range of invertebrates. General reef fish are abundant across both sub-sites.
+Kubu Reef is rich in both critter life and reef species. Yellow and clown (white) anglerfish are confirmed here; a third "black striped" variety mentioned in earlier data could not be corroborated this pass and has been removed. Ornate ghost pipefish, pygmy seahorses on gorgonia fans, soft coral crabs, nudibranchs (including dusky Nembrotha), flutemouth, butterflyfish, and shrimp on sea whips and featherstars are also confirmed. The deeper reef sections feature large barrel sponges and gorgonias that provide habitat for a range of invertebrates.
 
 ## Dive Profile
 

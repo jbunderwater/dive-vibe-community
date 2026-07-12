@@ -33,7 +33,7 @@ The S.S. Sapona is one of the most unusual and historically evocative wrecks in 
 
 ## Marine Life
 
-The Sapona's exposed concrete surfaces are colonised by a shallow-water reef community. Schools of sergeant majors defend egg patches on the concrete walls. Parrotfish and blue tang feed along the encrusted exterior. The underwater sections of the hull provide shelter for spotted moray eels and Caribbean spiny lobster. Southern stingrays rest in the sandy areas alongside the wreck. Green sea turtles are occasional visitors. Fire coral has colonised significant sections of the exterior.
+The Sapona's exposed concrete surfaces are colonised by a shallow-water reef community. Sources specifically document sergeant majors, French angelfish, spotfin butterflyfish, barracuda, French grunt, bluestriped grunt, schoolmaster snapper, and bar jacks around the hull. Nurse sharks are reported resting under the hull at the stern. Moray eels shelter in the hull's crevices. Fire coral has colonised sections of the exterior — divers should avoid contact.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The partially above-water wreck creates unique photography opportunities. Split-
 - Bimini dive operators: the Sapona is typically the first stop on any Bimini dive itinerary
 
 ---
-*Sources: [Wikipedia - SS Sapona](https://en.wikipedia.org/wiki/SS_Sapona), [Bahamas.com - Sapona Shipwreck](https://www.bahamas.com/natural-wonders/sapona-shipwreck), [DreamWrecks - SS Sapona Bimini](https://dreamwrecks.com/sapona-bimini-shipwreck), [The Vintage News - WWII Bombing Practice](https://www.thevintagenews.com/2016/04/24/chilling-wreck-ss-sapona-used-target-practice-us-forces-wwii/). Re-audited 2026-07-12: build/launch date, dimensions, Fisher/Bethell ownership chain, and 1926 grounding confirmed against Wikipedia; corrected "British officer" to "British soldier" per source. Flight 19's final training flight is independently documented (Naval History and Heritage Command) as having flown a bombing run near the Sapona, though no source confirms bombing practice ceased immediately afterward — phrasing softened accordingly.
+*Sources: [Wikipedia - SS Sapona](https://en.wikipedia.org/wiki/SS_Sapona), [DreamWrecks - SS Sapona Bimini](https://dreamwrecks.com/sapona-bimini-shipwreck), [The Vintage News - WWII Bombing Practice](https://www.thevintagenews.com/2016/04/24/chilling-wreck-ss-sapona-used-target-practice-us-forces-wwii/), [Big Game Club Bimini - Favorite Dive Sites](https://biggameclubbimini.com/diving-adventure/favorite-dive-sites/), [Snorkeling Report - Sapona Bimini](https://www.snorkeling-report.com/spot/snorkeling-wreck-of-the-sapona-bimini/). Last updated 2026-07-12.*

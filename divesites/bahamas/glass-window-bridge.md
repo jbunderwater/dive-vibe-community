@@ -31,7 +31,7 @@ The Glass Window Bridge dive site sits just east of the famous land bridge on No
 
 ## Marine Life
 
-Large groupers are resident in the boulder crevices and overhang areas. The sheltered crack and tunnel formations attract an assortment of reef fish, invertebrates, and small shark species. The relatively protected Caribbean side of the site supports healthy coral growth with typical Bahamian reef fish communities.
+Large groupers, including Nassau grouper, are the confirmed highlight — resident in the boulder crevices and overhang areas. We could not independently confirm reports of small shark species at this specific site, so that claim has been removed; regional reef fish are likely present in the boulder terrain, but we don't have a site-specific source listing them.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Boat dive. Work with a local North Eleuthera dive operator who can assess condit
 **Important:** Glass Window Bridge is subject to sudden Atlantic "rage waves" — enormous waves driven by distant storms that surge over the narrow rock bridge. Check weather forecasts for Atlantic swell carefully before any visit, surface or underwater. Even modest Atlantic swells can be amplified in the narrow channel between the two bodies of water.
 
 ---
-*Sources: [Zentacle - Glass Window Bridge](https://www.zentacle.com/Beach/3566/glass-window-bridge), [Bahamas.com - Glass Window Bridge](https://www.bahamas.com/natural-wonders/glass-window-bridge), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*
+*Sources: [Zentacle - Glass Window Bridge](https://www.zentacle.com/Beach/3566/glass-window-bridge), [Bahamas.com - Glass Window Bridge](https://www.bahamas.com/natural-wonders/glass-window-bridge), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Rogue-wave ("rage") safety information corroborated by regional storm-damage reporting. Last updated 2026-07-12.*

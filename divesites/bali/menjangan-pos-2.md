@@ -17,7 +17,7 @@ The signature wall dive at Menjangan Island — spectacular gorgonians, pygmy se
 
 ## Overview
 
-Pos 2 (Post 2) sits on the southeast point of Menjangan Island and is one of the most renowned wall dives in Bali. The wall begins at 12 m and drops vertically to beyond 35 m, with the most spectacular coral growth concentrated between 15–25 m. This section is home to some of the largest sea fans in Bali, as well as forests of whip corals and multi-coloured sponges. Cold water upwellings from depth bring pelagic life close to the reef, including turtles and occasional manta rays and mola mola (oceanic sunfish). The site connects naturally to Bat Cave Point to the west, allowing for a long drift dive along the entire eastern wall.
+Pos 2 (Post 2) sits on the south coast of Menjangan Island, the closest point of the island to the Bali mainland, and is one of the most popular and renowned wall dives in Bali. The dive begins with a sand corridor between dramatic underwater cliffs before a steep drop with two walls and small caves, with depths from around 5 m at the top to 40 m at the bottom. The most spectacular coral growth is concentrated between roughly 15–25 m, home to some of the largest sea fans in Bali (giant gorgonians), as well as whip corals and sponges. Cold-water upwellings around the island are documented to bring pelagic life closer to the reef — including turtles, manta rays, reef sharks, and, rarely, mola mola — though this effect is described regionally (strongest along the northeast wall from around October) rather than confirmed as a Pos 2-specific guarantee. The site is a continuation of, and can be combined with, the neighbouring Bat Cave dive site for a longer drift along the wall.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Pos 2 (Post 2) sits on the southeast point of Menjangan Island and is one of the
 
 ## Marine Life
 
-Between 20–25 m, enormous sea fans host Denise pygmy seahorses — considered one of the best pygmy seahorse spots in Bali. Spotted eagle rays cruise past in mid-water. Fusiliers, triggerfish, and trevally form dense schools along the wall. Turtles feed on the corals, and sharks are occasionally seen at depth. During the right season (July–October), mola mola have been sighted in this area.
+Between roughly 25–30 m, giant gorgonian sea fans host Denise pygmy seahorses — Pos 2 is considered one of the best pygmy seahorse spots in Bali. Parrotfish, angelfish, butterflyfish, and clownfish are common on the wall, and nudibranchs, scorpionfish, and small crabs are found in the coral. Whitetip reef sharks and turtles are reported at the site. Manta rays are occasionally seen, consistent with the island's known cold-water-upwelling pelagic events; mola mola sightings in the area are possible but described by local operators as rare. Spotted eagle rays are mentioned by some regional sources but were not independently confirmed for Pos 2 specifically in this pass — treat as a possible rather than confirmed sighting.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents are moderate but can increase around the point. Stay aware of depth whe
 Pos 2 is superb for both wide-angle and macro work. The enormous sea fans and clear water suit wide-angle with strobes. Pygmy seahorses require a macro lens and patience to photograph among the gorgonian polyps. Eagle rays in blue water make dramatic wide-angle subjects on clear days.
 
 ---
-*Sources: [Dive Concepts - Pos 2 Menjangan](https://diveconcepts.com/dive-site-pos-2-menjangan-bali), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Dive Concepts - Pos 2 Menjangan](https://diveconcepts.com/dive-site-pos-2-menjangan-bali), [Bali Fun Diving - Menjangan Dive Sites](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [Tali Landsman - Dive Sites Around Menjangan Island Marine Park](https://talilandsmanart.com/2023/01/30/dive-sites-around-menjangan-island-marine-park-bali-indonesia/). Note: gekodivebali.com and the specific PADI Menjangan-Pos-2 page previously cited could not be reloaded this pass (empty/404 response) and were dropped rather than re-cited without verification. Last updated 2026-07-12.*
