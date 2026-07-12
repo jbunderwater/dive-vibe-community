@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Lava Flow
 
-Lava Flow is a coral reef site on the northern flank of Gunung Api, the active volcano that rises from the Banda Sea. The 1988 eruption sent lava cascading into the ocean, and the coral recovery on the volcanic substrate is one of the most celebrated reef regeneration stories in the region. Scientists have documented some table corals here growing to over 4 metres in diameter in under 10 years — a rate attributed in part to the nutrient content of volcanic ash.
+Lava Flow is a coral reef site on the northern flank of Gunung Api, the active volcano that rises from the Banda Sea. The 1988 eruption sent lava cascading into the ocean, and the coral recovery on the volcanic substrate is one of the most celebrated reef regeneration stories in the region. A peer-reviewed survey of the site found tabulate Acropora colonies exceeding 90 cm in diameter within five years of the eruption, with coral cover reaching roughly 62% — higher than on the adjacent, undisturbed carbonate reef nearby.
 
 ## Overview
 
@@ -47,4 +47,4 @@ Boat dive from liveaboard or from Banda Neira-based operators. The site is withi
 One of the Banda Sea's premier wide-angle reef photography sites — the black lava contrasts vividly with colourful coral formations. Dusk dives offer macro opportunities with mandarinfish.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [A Lovely Planet - Banda Islands Diving Guide](https://www.alovelyplanet.com/banda-islands-diving-guide/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php). Last updated 2026-05-17.*
+*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [A Lovely Planet - Banda Islands Diving Guide](https://www.alovelyplanet.com/banda-islands-diving-guide/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Rapid coral colonization of a recent lava flow following a volcanic eruption, Banda Islands, Indonesia (Coral Reefs journal, via ResearchGate)](https://www.researchgate.net/publication/225976451_Rapid_coral_colonization_of_a_recent_lava_flow_following_a_volcanic_eruption_Banda_Islands_Indonesia). Last updated 2026-07-12.*
