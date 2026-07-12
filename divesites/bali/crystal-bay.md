@@ -36,7 +36,7 @@ Mola mola (ocean sunfish) are the signature attraction, seen near the second cor
 
 ## Dive Profile
 
-Descend quickly from the boat through the current to reach the reef. Most productive diving is between 20–35 meters where mola mola cleaning stations are located on the deeper boulders. A typical dive runs 40–50 minutes; be alert for sudden downwellings that can push you beyond planned depth. The safety stop can be challenging — use a reef hook if current is running. Surface with SMB deployed.
+Descend from the boat toward the reef, watching the surface beforehand for "washing machine" swirl patterns that signal a strong down-current. Most recreational diving happens in the 12–25 m band; mola mola are reported on the deeper slopes near the second corner during season. A typical dive runs 40–50 minutes; be alert for sudden down-currents that can push you beyond planned depth. The safety stop can be challenging — use a reef hook if current is running. Surface with SMB deployed.
 
 ## Entry and Exit
 
@@ -44,19 +44,19 @@ Dive boats moor at Crystal Bay during calmer conditions; in stronger currents bo
 
 ## Tips and Recommendations
 
-- Bring a 5mm wetsuit or drysuit liner — cold upwellings regularly drop temperatures to 16°C
-- Carry a reef hook to hold position at cleaning stations without damaging coral
-- Descend quickly to the 20–25 m depth band to avoid missing mola mola in cleaner water
-- Book with an operator experienced specifically with Nusa Penida currents — site knowledge is critical
-- July to August offers the highest mola mola encounter probability; October adds manta ray sightings nearby
+- Bring a 5mm wetsuit or drysuit liner — cool-season upwellings can drop temperatures into the high teens/low 20s°C
+- Carry a reef hook to hold position without damaging coral if current is running
+- Even in peak season, mola mola encounters are not guaranteed — Scuba Diver Life estimates roughly a 1-in-10 chance per dive
+- Book with an operator experienced specifically with Nusa Penida currents — site knowledge is critical, per DAN's safety analysis of this site
+- Watch the surface for swirling "washing machine" patterns before descending — a warning sign of an active down-current
 
 ## Safety Considerations
 
-Downwellings at Crystal Bay can pull divers deep rapidly — this is a documented cause of diving accidents here. Never exceed your planned depth and maintain strict buoyancy control. Cold thermoclines cause rapid heat loss; watch for signs of nitrogen narcosis at depth. The current can make returning to the boat difficult — always surface with a deployed SMB. This site is not suitable for divers below Advanced certification.
+Down-currents at Crystal Bay are a verified, documented hazard, not just a general warning. Undercurrent (the dive-industry publication) documented a specific incident on 14 February 2014 in which a sudden storm produced a violent "washing machine"-like current: two of seven Japanese divers died (one body recovered, one diver never found) while the other five survived after drifting roughly 19 nautical miles before rescue. Separately, in a ScubaBoard-hosted analysis, John Lippmann, Asia-Pacific Director of the Divers Alert Network (DAN), is quoted characterizing the area as "subject to very strong currents, including substantial downcurrents, which can suddenly force a diver to descend far deeper than planned," and states that such conditions have caused multiple deaths and severe decompression illness cases in the region. Based on these two independent, named sources, it is accurate to say Crystal Bay has documented down-current-related fatalities and near-misses (a separate 2012 near-miss involving eight divers drifting 20 km before a fortuitous fishing-boat rescue is also described in the ScubaBoard thread) — but this pass could not independently re-verify the specific "multiple accidents and fatalities" figures beyond the 2014 double-fatality and the general DAN characterization, so avoid citing precise death counts beyond what's sourced here. Never exceed your planned depth, maintain strict buoyancy control, watch the surface for "washing machine" swirl patterns before descending, and always surface with a deployed SMB. This site is not suitable for divers below Advanced certification, and dive only with an operator experienced specifically in Nusa Penida's currents.
 
 ## Photography
 
-The mola mola is one of diving's most iconic and difficult photographic subjects. Use a wide-angle lens and approach slowly from below or to the side — never block the sunfish's path to the surface. Ambient light is usually sufficient at cleaning station depths. The reef boulders and sea fans provide dramatic backdrops for wide-angle reef shots. A macro lens is productive for nudibranchs and pygmy seahorses on the shallower sections.
+The mola mola is one of diving's most iconic and difficult photographic subjects. Use a wide-angle lens and approach slowly from below or to the side — never block the sunfish's path to the surface. The reef boulders provide backdrops for wide-angle reef shots. A macro lens is productive for nudibranchs, Thor and Zanzibar shrimp, and porcelain crabs in the shallower/sandy sections.
 
 ---
-*Sources: [Nusa Penida.org - Diving Crystal Bay](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/diving-crystal-bay-nusa-penida/), [ScubaBoard - Crystal Bay Safety](https://scubaboard.com/community/threads/lets-be-careful-down-there-excellent-article-on-crystal-bay-nusa-penida-bali.465688/), [Scuba Diver Life - Crystal Bay](https://scubadiverlife.com/dive-site-crystal-bay-nusa-penida-bali-indonesia/), [Purple Dive Penida - Crystal Bay](https://www.purpledivepenida.com/post/crystal-bay-nusa-penida-dive-guide). Last updated 2026-05-17.*
+*Sources: [Nusa Penida.org - Diving Crystal Bay](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/diving-crystal-bay-nusa-penida/), [ScubaBoard - "Let's be careful down there" (Crystal Bay safety, quoting DAN's John Lippmann)](https://scubaboard.com/community/threads/lets-be-careful-down-there-excellent-article-on-crystal-bay-nusa-penida-bali.465688/), [Undercurrent - Two Deaths at One of Indonesia's Most Dangerous Dive Sites](https://www.undercurrent.org/UCnow/dive_magazine/2014/TwoDeaths201403.html), [Scuba Diver Life - Crystal Bay](https://scubadiverlife.com/dive-site-crystal-bay-nusa-penida-bali-indonesia/). Last updated 2026-07-12.*

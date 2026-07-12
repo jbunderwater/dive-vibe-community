@@ -17,7 +17,7 @@ A sloping reef in the Tulamben area with a pleasant mix of coral formations and 
 
 ## Overview
 
-Blue Hill is a reef dive site in the Tulamben corridor of northeast Bali, situated between the major draw sites of the USAT Liberty wreck and the muck diving locations near Amed. The reef slopes from the shallows to around 25 m, offering a classic Indonesian tropical reef experience with hard coral bommies, sea fans, and a colourful fish community. The site is particularly useful for groups of mixed experience levels, providing enough depth and interest for intermediate divers without the demanding conditions of more exposed sites in the region. Current is generally moderate and predictable.
+Blue Hill is the house reef of Bluehill Dive Resort, located on Bali's northeast coast roughly halfway between Tulamben village and Tukad Dabu (about 6 minutes from Tulamben town by the resort's own account), between the USAT Liberty wreck and the Tulamben Wall/Drop-Off. Per the resort's own site (bluehilltulamben.com), the shallow shore reef runs from about 2 to 15 m and is known for statues and stone carvings scattered across it, with a rich variety of micro and macro life on the hard and soft corals, including blue ribbon eels. This pass could not find a second independent source that names "Blue Hill" specifically (other Tulamben operators describe a similarly statue-decorated site near Matahari Resort, called "Coral Garden" or "Suci Place" by them — that appears to be a different, separately named site, not confirmed as the same location). This description should be treated as single-sourced.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Blue Hill is a reef dive site in the Tulamben corridor of northeast Bali, situat
 
 ## Marine Life
 
-Parrotfish, fusiliers, and anthias are abundant on the upper reef. Turtles are regularly sighted grazing on the reef crest. Moray eels, grouper, and lionfish inhabit the coral cavities at 15–20 m. Smaller critters including nudibranchs and cleaner shrimps are found in the rubble zones at depth.
+The resort's own site is the only source found this pass, and it specifically calls out blue ribbon eels as resident on the house reef, plus general "micro and macro life" among the hard and soft corals. Parrotfish, fusiliers, anthias, turtles, moray eels, grouper, lionfish, nudibranchs, and cleaner shrimp — as previously listed here — could not be confirmed against any source this pass and have been removed as unsupported regional padding.
 
 ## Dive Profile
 
