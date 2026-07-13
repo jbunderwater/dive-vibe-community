@@ -41,4 +41,4 @@ No site-specific marine life records found for this named site. Typical south-co
 - Volcanic geology typical of the Azores
 
 ---
-*Description based on general south-coast São Miguel diving characteristics. No site-specific dive sources found for this named site. Last updated 2026-05-17.*
+*Description based on general south-coast São Miguel diving characteristics. No site-specific dive sources found for this named site (re-checked 2026-07-13). Last updated 2026-07-13.*

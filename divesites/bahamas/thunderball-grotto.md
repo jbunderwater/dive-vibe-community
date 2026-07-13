@@ -33,7 +33,7 @@ Thunderball Grotto is a limestone sea cave on a small rocky island near Staniel 
 
 ## Marine Life
 
-The cave interior supports a dense community of tropical fish that have become highly habituated to visitors. Large schools of yellowtail snapper, sergeant majors, and chromis fill the interior chamber — the fish are comfortable approaching to arm's length. Outside the cave, the reef and rock surfaces carry hard coral formations, sea fans, and encrusting organisms. Nurse sharks occasionally rest on the cave floor. The clear Exuma water means every fish is vividly visible from surface snorkelling level.
+The cave interior supports a dense community of tropical fish that have become highly habituated to visitors. Confirmed sightings reported by operators and visitors include yellowtail snapper, sergeant majors, angelfish, spiny lobster, and conch, with the fish comfortable approaching to arm's length. Outside the cave, the reef and rock surfaces carry hard coral formations, sea fans, and encrusting organisms. Nurse sharks are occasionally encountered in the area (most reliably at the nearby Compass Cay nurse shark sanctuary), and visitors have reported occasional nurse shark sightings inside the grotto itself, though this is not a guaranteed or daily occurrence. The clear Exuma water means every fish is vividly visible from surface snorkelling level.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat access from Staniel Cay water taxi or dive operator. Entry through the unde
 
 ## Tips and Recommendations
 
-Visit at low or slack tide to minimise current through the entrances. The most dramatic light effects occur when the sun is directly overhead (10am–2pm) and shafts of light enter through the roof openings. Low tide or slack water also reduces the current through the entrances. Staniel Cay Yacht Club rents kayaks and provides water taxi service to the cave for independent visitors.
+Visit at low tide if possible — several sources note that at low tide two of the entrances can be reached without fully submerging, while at high tide all entrances require swimming underwater through short tunnels. Slack tide (regardless of high or low) minimises current through the entrances. The most dramatic light effects occur when the sun is directly overhead (10am–2pm) and shafts of light enter through the roof openings. Staniel Cay Yacht Club and local operators provide water taxi service to the cave for independent visitors.
 
 ## Safety Considerations
 
@@ -61,4 +61,4 @@ Thunderball Grotto is one of the Caribbean's most photographed underwater locati
 - The cave is approximately 15 minutes by boat from Staniel Cay
 
 ---
-*Sources: [Bahamas Air Tours - Thunderball Grotto](https://www.bahamasairtours.com/destination/thunderball-grotto/), [Staniel Cay Adventures - Thunderball Grotto](https://stanielcayadventures.com/thunderball-grotto-staniel-cay-james-bond/), [Nassau Bahamas Guide - Thunderball Grotto](https://nassaubahamasguide.com/destination/thunderball-grotto-james-bond/), [Sandals - Visiting Thunderball Grotto](https://www.sandals.com/blog/thunderball-grotto/). Last updated 2026-05-17.*
+*Sources: [Bahamas Air Tours - Thunderball Grotto](https://www.bahamasairtours.com/destination/thunderball-grotto/), [Staniel Cay Adventures - Thunderball Grotto](https://stanielcayadventures.com/thunderball-grotto-staniel-cay-james-bond/), [Sandals - Visiting Thunderball Grotto](https://www.sandals.com/blog/thunderball-grotto/). Re-verified live 2026-07-13; tide-entrance and marine-life claims cross-checked against additional visitor/operator accounts (Staniel Rental, Sailing Britican). Last updated 2026-07-13.*

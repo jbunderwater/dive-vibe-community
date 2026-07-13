@@ -14,7 +14,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive.visitazores.com,cwazores.com,wikipedia.org,deeperblue.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -32,7 +32,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,portugaldive.com,turismo.azores.gov.pt",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -50,7 +50,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,wikipedia.org,portugaldive.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -68,7 +68,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,wikipedia.org,turismo.azores.gov.pt",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -85,8 +85,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive.visitazores.com,uboat.net,padi.com,scubaboard.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "wikipedia.org,marad.dot.gov,dive.visitazores.com,scubaweather.com,greatestdivesites.com,scubaboard.com",
+      "corrected_2026-07-13": "Prior entry incorrectly identified the vessel as SS Thomas Donaldson (a different Liberty ship, torpedoed 1945 near Kola Inlet, Russia, still there). Corrected to SS Edwin L. Drake per Wikipedia List of Liberty ships (E) and MARAD vessel history database.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -104,7 +105,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,portugaldive.com,scubadiving.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -122,7 +123,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,diveazores.net,diveworldwide.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -140,7 +141,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,portugaldive.com,azoresgetaways.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -158,7 +159,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,turismo.azores.gov.pt,explorefloresisland.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -175,8 +176,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "wikipedia.org,dive.visitazores.com,ggarchives.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "wikipedia.org,dive.visitazores.com,ggarchives.com,oceanlinersmagazine.com",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -191,7 +192,8 @@
       "name": "Santa Iria",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "qa_note": "Re-checked 2026-07-13: only one non-diving source found (futurismo.pt travel blog describing 'Porto de Santa Iria' as a shore snorkelling/swimming cove, not a boat scuba site). Insufficient for validation (need >=3 independent sources); entry_type/depth unconfirmed.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -206,7 +208,8 @@
       "name": "Bahia de Capelas",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "qa_note": "Re-checked 2026-07-13: no site-specific source found. Remains unvalidated.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -221,7 +224,8 @@
       "name": "Lagoa",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "qa_note": "Re-checked 2026-07-13: no site-specific source found. Remains unvalidated.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -236,7 +240,8 @@
       "name": "Rostro de Cao",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "qa_note": "Re-checked 2026-07-13: all sources found (turismo.azores.gov.pt, AllTrails, TripAdvisor) describe this location as a coastal viewpoint/shore access point, not a documented scuba dive site. No diving-specific source found. Remains unvalidated; site_type/entry_type/depth unconfirmed.",
+      "last_qa_date": "2026-07-13"
     }
   }
 ]

@@ -59,4 +59,4 @@ Maintain good buoyancy above the reef to avoid coral contact. Lionfish in overha
 Good light in the shallows suits reef scene photography. Fish portraits of parrotfish and surgeonfish work well at the reef crest. Look for cleaner stations on prominent coral heads for fish portrait opportunities.
 
 ---
-*Description based on regional characteristics of the Tulamben corridor. The "Blue Hill Dive Site" likely refers to the house reef at Bluehill Dive Resort Tulamben — a shallow shore-entry reef (2–15 m) between the Liberty Wreck and the Tulamben Wall, known for statues and stone carvings on the reef. No independent site-specific sources found under this exact name. Last updated 2026-05-17.*
+*Description based on regional characteristics of the Tulamben corridor. The "Blue Hill Dive Site" likely refers to the house reef at Bluehill Dive Resort Tulamben — a shallow shore-entry reef (2–15 m) between the Liberty Wreck and the Tulamben Wall, known for statues and stone carvings on the reef. No independent site-specific sources found under this exact name. Last updated 2026-07-13.*

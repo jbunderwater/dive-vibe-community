@@ -3,7 +3,7 @@ name: Batu Belah
 lat: -8.3078554
 lng: 115.6208435
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 25
 entryType: shore
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Batu Belah is a reef dive site in the Amed area of northeast Bali, accessible di
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Nil to moderate
 - **Best Time**: April to November
@@ -36,7 +36,7 @@ Schools of snappers, platax (batfish), and fusiliers are the most characteristic
 
 ## Dive Profile
 
-Enter from the sandy and rocky beach shore and descend to the reef structure, which begins close to shore. The coral clumps rise from the sandy bottom and are the focal points of the dive. Work across the reef formations at 10–25 metres, checking for frogfish and macro life on coral surfaces while watching the surrounding water for schooling species. The reef extends to around 30 metres on the deeper edge.
+Enter from the sandy and rocky beach shore and descend to the reef structure, which begins close to shore. The coral clumps rise from the sandy bottom and are the focal points of the dive. Work across the reef formations at 10–25 metres, checking for frogfish and macro life on coral surfaces while watching the surrounding water for schooling species. The reef extends to around 25 metres on the deeper edge (diveconcepts.com reports a max depth of 25m with an average dive depth of ~15m; an earlier 30m figure was not corroborated by this newer source and has been corrected).
 
 ## Entry and Exit
 
@@ -57,4 +57,4 @@ Currents are generally mild with occasional moderate periods. Maintain good buoy
 Both macro and reef-scene photography are rewarding here. The frogfish and leaf scorpionfish are prime macro subjects. Schools of snappers and fusiliers against the reef structure suit wide-angle. Natural light is generally good given the shallow-to-mid depth range.
 
 ---
-*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [PADI - Batu Belah](https://www.padi.com/dive-site/indonesia/batu-belah/), [Dive Navigator - Batu Belah](https://www.divenavigator.com/dive-sites/indonesia/batu-belah). Last updated 2026-05-17.*
+*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [PADI - Batu Belah](https://www.padi.com/dive-site/indonesia/batu-belah/), [Dive Navigator - Batu Belah](https://www.divenavigator.com/dive-sites/indonesia/batu-belah), [Dive Concepts - Batu Belah](https://diveconcepts.com/bali/spot-batu-belah.php). Note: PADI's generic "Sharks, Whales, Dolphins, Turtles" species boilerplate appears verbatim across many unrelated PADI site pages and is not treated as site-specific confirmation here. Last updated 2026-07-13.*

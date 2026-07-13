@@ -44,4 +44,4 @@ Azores chromis (*Chromis limbata*), large blacktail combers (*Serranus atricauda
 - Combine with Terceira's accessible bay sites for a mixed-depth day
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/fradinhos), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/fradinhos-266.html), [Azores Getaways – Terceira Diving](https://azoresgetaways.com/en-us/destination/azores/general-articles/azores-diving). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/fradinhos), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/fradinhos-266.html), [Azores Getaways – Terceira Diving](https://azoresgetaways.com/en-us/destination/azores/general-articles/azores-diving). Last updated 2026-07-13.*

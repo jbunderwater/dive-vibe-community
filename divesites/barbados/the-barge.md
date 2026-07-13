@@ -56,4 +56,4 @@ The extreme shallowness creates no decompression risk, but any boat above is ver
 Ultra-shallow depth and good visibility make this a natural-light photography site. Puffer fish, parrotfish on the encrusted barge, and the barge structure against the clear blue water are the main subjects.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/). Last updated 2026-07-13.*

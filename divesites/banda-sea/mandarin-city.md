@@ -23,7 +23,7 @@ By day, the site also rewards slow exploration: scorpionfish and crocodilefish r
 
 ## Dive Profile
 
-Shore entry to a maximum of 12 m, with most productive mandarinfish habitat in 2–8 m. No significant current. Ideal for dusk dives (30–60 minutes before sunset) and night dives.
+Shore entry to a maximum of 12 m, with most productive mandarinfish habitat in 2–8 m. Note: at least one operator (Bottles Up Diving) lists the broader "Maulana" reef area at this location to a 25 m maximum, but the shallow rubble patch where mandarinfish are reliably seen is consistently described as 2–8 m across sources. No significant current in the shallows. Ideal for dusk dives (30–60 minutes before sunset) and night dives.
 
 ## Marine Life
 
@@ -47,4 +47,4 @@ Shore entry from the Banda Neira waterfront in front of Hotel Maulana. One of th
 A dedicated macro site. Use a macro lens or wet diopter for mandarinfish portraits. The dusk light creates a challenging low-light environment — set your camera for low-light macro before the dive.
 
 ---
-*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [DAN Alert Diver - Banda Bound](https://dan.org/alert-diver/article/banda-bound/), [ScubaBoard - Banda Sea](https://scubaboard.com/community/threads/banda-sea.579226/). Last updated 2026-05-17.*
+*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [DAN Alert Diver - Banda Bound](https://dan.org/alert-diver/article/banda-bound/), [ScubaBoard - Banda Sea](https://scubaboard.com/community/threads/banda-sea.579226/). Last updated 2026-07-13.*

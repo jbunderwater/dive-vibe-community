@@ -59,4 +59,4 @@ Currents are minimal but be aware of boat traffic around the jetty. Maintain goo
 The jetty creates an interesting structural dive shot opportunity. Macro photographers will enjoy the ghost pipefish, pipefish, and nudibranchs on the pilings. Garden eels on the sand require slow, patient approach for close-up shots. Cuttlefish in mid-water make excellent wide-angle subjects.
 
 ---
-*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan). Last updated 2026-05-17.*
+*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [Bali FUN Diving - Menjangan Island](https://balifundiving.com/bali-dive-sites/menjangan-island/) (describes "Post I" with batfish schools along the reef). Last updated 2026-07-13.*

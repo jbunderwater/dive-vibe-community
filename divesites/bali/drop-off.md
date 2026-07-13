@@ -16,7 +16,7 @@ Tulamben's dramatic volcanic wall — a shore-entry wall dive formed by a histor
 
 ## Overview
 
-The Tulamben Drop-off, also known as the Tulamben Wall, is a vertical wall formed by solidified lava from Mount Agung's eruptions. The wall begins just meters from shore, with the top at 3-5 meters dropping steeply to over 60 meters. Shore entry across a pebble beach leads to a short surface swim before the wall begins. A shallow "aquarium section" at 5 meters teems with reef fish, making the site accessible to beginners at shallow depths while offering deeper exploration for experienced divers. The wall is heavily encrusted with sponges, gorgonian fans, black coral bushes, and crinoids.
+The Tulamben Drop-off, also known as the Tulamben Wall, is a vertical wall formed by solidified lava from Mount Agung's eruptions. The wall begins just meters from shore, with the top at 3-5 meters dropping steeply — sources disagree on the exact base depth, with a firsthand dive log reporting roughly 55-65 meters and operator sites citing 70 meters or more. Shore entry across a pebble beach leads to a short surface swim before the wall begins. A shallow "aquarium section" at 5 meters teems with reef fish, making the site accessible to beginners at shallow depths while offering deeper exploration for experienced divers. The wall is heavily encrusted with sponges, gorgonian fans, black coral bushes, and crinoids.
 
 ## Site Information
 
@@ -31,7 +31,7 @@ The Tulamben Drop-off, also known as the Tulamben Wall, is a vertical wall forme
 
 ## Marine Life
 
-The wall supports prolific macro life including frogfish, ghost pipefish, leaf scorpionfish, nudibranchs, octopus, and cuttlefish. Larger species include white-tip reef sharks, Napoleon wrasse, and large moray eels. Clown triggerfish and schools of fusiliers are common along the wall face. The sandy slope before the wall is an excellent macro photography area. Occasional mola mola and pelagics pass in the blue water beyond the wall.
+The wall supports prolific macro life including frogfish, ghost pipefish, scorpionfish, nudibranchs, octopus, and cuttlefish. Larger species include white-tip reef sharks, Napoleon wrasse, large moray eels, triggerfish, bumphead parrotfish, tuna, trevally, and pufferfish. The sandy slope before the wall is an excellent macro photography area. Some operators mention occasional mola mola and pelagic sightings in the blue water beyond the wall, but this was not confirmed in the primary sources reviewed for this site.
 
 ## Dive Profile
 
@@ -49,4 +49,4 @@ Enter from the pebble beach and swim a short distance to the wall edge. The shal
 The shallow wall top makes this site very accessible for beginners, but depth increases rapidly. Watch your depth gauge carefully along the wall. Shore entry over loose pebbles can be slippery — water shoes or booties recommended.
 
 ---
-*Sources: [Aquamarine Diving - Tulamben Drop Off](https://www.aquamarinediving.com/tulamben-drop-off-dive-site-bali/), [Ecodive Bali - Tulamben Wall](https://ecodivebali.com/tulamben-wall-drop-off-dive/), [Let's Dive Tulamben - Drop Off](https://letsdivetulamben.com/dive-sites/drop-off/). Last updated 2026-04-05.*
+*Sources: [Aquamarine Diving - Tulamben Drop Off](https://www.aquamarinediving.com/tulamben-drop-off-dive-site-bali/), [Ecodive Bali - Tulamben Wall](https://ecodivebali.com/tulamben-wall-drop-off-dive/), [Let's Dive Tulamben - Drop Off](https://letsdivetulamben.com/dive-sites/drop-off/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/) (firsthand dive log). Last updated 2026-07-13.*

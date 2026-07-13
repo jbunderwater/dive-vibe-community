@@ -33,7 +33,7 @@ Lipah Bay is located approximately 12 minutes from Amed on Bali's northeast coas
 
 ## Marine Life
 
-Lipah Bay is confirmed as a reef shark nursery area — baby and juvenile reef sharks shelter under large table corals, alongside adult reef sharks. Hawksbill and green sea turtles are regular sightings. Large moray eels inhabit the bommies and artificial reef structures. General reef fish are abundant across the varied habitats. The site is also suitable for macro photography among the invertebrates of the artificial structures and coral patches.
+Local operators report two distinct shark features here: baliaqua.com describes juvenile whitetip reef sharks resting under large table corals in the shallow section (the operator calls this a nursery area, though it is not independently verified as a scientific nursery site). Separately, a deeper resting point at approximately 30 meters is reported where adult whitetip reef sharks sleep on the coral garden bottom. Hawksbill and green sea turtles are regular sightings. Large moray eels inhabit the bommies and artificial reef structures. General reef fish are abundant across the varied habitats. The site is also suitable for macro photography among the invertebrates of the artificial structures and coral patches.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Lipah Bay is a straightforward dive with generally mild conditions. Currents are
 The turtles at Lipah Bay are the primary photographic attraction and are often cooperative subjects. The large moray eels in the bommies reward patient photographers. The artificial reef structures with their coral growth provide interesting compositions showing reef colonization. Wide-angle is recommended for turtles and reef-scape; macro for the invertebrates on the artificial structures.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096), [Amed White Sand Divers - Shark Diving in Amed](https://www.amedwhitesanddivers.com/2025/05/31/shark-diving-in-amed-bali/). Last updated 2026-07-13.*

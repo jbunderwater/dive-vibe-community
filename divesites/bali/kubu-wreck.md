@@ -60,4 +60,4 @@ The stern depth of 38–40 metres makes this a deeper dive that limits bottom ti
 The Kubu Wreck offers unique photographic opportunities. The prop decorations on the deck -- statues, the old-style helm, portholes -- create distinctive compositions unlike any other wreck dive. The adjacent artificial reef with motorbikes and pushbikes draped in gorgonias provides surreal wide-angle subjects. A wide-angle lens is recommended for wreck exteriors and artificial reef structures. Bring a torch to bring out colours and illuminate details in the wreck's darker areas.
 
 ---
-*Sources: [Let's Dive Tulamben - Boga Wreck](https://letsdivetulamben.com/dive-sites/boga-wreck/), [Bali Dive Cove - Kubu Wreck Boga](https://www.balidivecove.com/dive-sites/kubu-wreck-boga/), [Ecodive Bali - Boga Wreck](https://ecodivebali.com/boga-wreck/). Last updated 2026-05-17.*
+*Sources: [Let's Dive Tulamben - Boga Wreck](https://letsdivetulamben.com/dive-sites/boga-wreck/), [Bali Dive Cove - Kubu Wreck Boga](https://www.balidivecove.com/dive-sites/kubu-wreck-boga/), [Ecodive Bali - Boga Wreck](https://ecodivebali.com/boga-wreck/). Last updated 2026-07-13.*

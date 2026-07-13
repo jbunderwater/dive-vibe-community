@@ -17,7 +17,7 @@ Off The Wall is a wall dive off Cape Eleuthera associated with the Cape Eleuther
 
 ## Overview
 
-Also referenced as the CEI Offshore Cage site, Off The Wall is located at the edge of the wall system running along Cape Eleuthera's southwestern coast. The site marks the point where the reef top drops away into the deep Exuma Sound. A research cage used by the Cape Eleuthera Institute (historically for cobia) sits at approximately 24-25 meters, moored just off the wall face. Divers can descend to the cage level and then explore the wall, which drops steeply toward depths of 600 meters and beyond. The site offers relatively straightforward wall diving in a productive marine environment.
+Also referenced as the CEI Offshore Cage (and commonly called the "Cobia Cage" by local operators and liveaboards), Off The Wall is located at the edge of the wall system running along Cape Eleuthera's southwestern coast, roughly 160-330 feet (50-100 meters) offshore. A large submersible cage originally built for a Cape Eleuthera Institute / Island School / University of Miami cobia-farming research project sits at roughly 70-100 feet (21-30 meters), moored a short distance from the wall face. The aquaculture project itself ended (sources describe the commercial cobia operation as no longer viable), and the empty cage structure has since been colonized by algae, coral, and invertebrate growth, functioning now as an artificial-reef dive site rather than an active research installation. Divers can explore the cage structure and then follow the wall, which drops steeply toward the deep Exuma Sound. The site offers relatively straightforward wall/structure diving in a productive marine environment.
 
 ## Site Information
 
@@ -31,7 +31,7 @@ Also referenced as the CEI Offshore Cage site, Off The Wall is located at the ed
 
 ## Marine Life
 
-Cape Eleuthera wall sites consistently produce reef shark encounters. Turtles, eagle rays, groupers, and schools of reef fish are typical. The wall face supports sponge and coral communities, providing habitat for moray eels, lobster, and smaller reef fish species. Amberjack congregate around structural features like the cage.
+Sources describing this specific cage report loggerhead sea turtles, schools of yellowtail snapper, and reef sharks (one dive-charter account mentions a hammerhead shark said to frequent the sandy area near the cage, though the reporting diver had not personally encountered it — treat that as unconfirmed). The cage netting itself is covered in algae and coral growth and hosts macro life, including lettuce sea slugs and arrow crabs. No source confirms grouper, eagle rays, moray eels, lobster, or amberjack at this specific site — those claims have been removed; they may be present as part of general Cape Eleuthera reef fauna, but should not be stated as site-confirmed without a source.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Boat dive only. The site is within range of The Dive Shop at Cape Eleuthera Reso
 Depths exceed 30 meters just off the recreational limit at this site. A dive computer is essential. The open Exuma Sound exposure can create surge at the wall face. Complete a safety stop at 5 meters and carry an SMB for open-water ascent.
 
 ---
-*Sources: [Zentacle - Off The Wall](https://www.zentacle.com/Beach/8538/off-the-wall), [All Star Liveaboards - Cobia Cage Eleuthera](https://allstarliveaboards.com/scuba-diving-cobia-cage-eleuthera-bahamas/), [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/). Last updated 2026-05-17.*
+*Sources: [All Star Liveaboards - Scuba Diving the Cobia Cage in Eleuthera, Bahamas](https://allstarliveaboards.com/scuba-diving-cobia-cage-eleuthera-bahamas/), [ScubaBoard - The Cobia Cage Dive Site in Eleuthera, Bahamas](https://scubaboard.com/community/threads/the-cobia-cage-dive-site-in-eleuthera-bahamas.609505/), [Dive the World - Eleuthera Diving Guide](https://www.dive-the-world.com/posts/eleuthera/eleuthera-diving-guide-premier-dive-sites-bahamas.php). Last updated 2026-07-13.*

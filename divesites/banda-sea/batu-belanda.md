@@ -19,7 +19,7 @@ Batu Belanda ("Dutch Rock") is a wall dive on the western side of Banda Besar, n
 
 The western Banda Besar wall receives limited direct sunlight. Conventional encrusting corals are sparse, replaced by species suited to lower-light conditions: large barrel sponges, cup corals (both green and orange varieties), yellow and violet sea squirts, and tube sponges cover the wall face. A significant cave, accessible at around 10 m depth (sources note depths between 10 and 13 m for the cave entrance), features a ceiling shaft that channels filtered light onto soldierfish sheltering inside. Eagle rays are a reliable sighting along this wall, frequently spotted cruising past the cave entrance.
 
-The Lembeh sea dragon — a pipehorse with the elongated body of a pipefish and head of a seahorse — has been recorded here, attaching to black crinoids for camouflage. Ambon scorpionfish are also reported on this site. Napoleon wrasse, bullethead parrotfish, and moray eels inhabit the wall and cave surrounds.
+The Lembeh sea dragon — a pipehorse with the elongated body of a pipefish and head of a seahorse — has been recorded here, attaching to black crinoids for camouflage. Scorpionfish (species not specified by sources) are also reported on this site. Napoleon wrasse, bullethead parrotfish, and moray eels inhabit the wall and cave surrounds.
 
 ## Dive Profile
 
@@ -30,7 +30,7 @@ Wall diving from the surface to around 30 m. The cave entrance is at approximate
 - Eagle rays (regular sightings along the wall)
 - Soldierfish (inside the cave)
 - Lembeh sea dragon / pipehorse (rare; recorded at this site)
-- Ambon scorpionfish
+- Scorpionfish
 - Large barrel sponges, cup corals (green and orange), yellow and violet sea squirts
 - Napoleon wrasse, bullethead parrotfish
 - Moray eels in crevices and overhangs
@@ -47,7 +47,7 @@ Boat dive from liveaboard or Banda Neira day-trip vessel. The site is on the wes
 
 ## Photography
 
-Well-suited to natural-light and strobe-lit sponge photography. The cave shaft creates atmospheric light-ray images when conditions are right. A macro setup is rewarding for pipehorse and Ambon scorpionfish.
+Well-suited to natural-light and strobe-lit sponge photography. The cave shaft creates atmospheric light-ray images when conditions are right. A macro setup is rewarding for pipehorse and scorpionfish.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago). Last updated 2026-05-17.*
+*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago). Last updated 2026-07-13.*

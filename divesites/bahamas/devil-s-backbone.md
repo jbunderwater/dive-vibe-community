@@ -21,7 +21,7 @@ Stretching approximately 1.4 miles northeast of Spanish Wells at the north end o
 
 ## Notable Wrecks
 
-- **The Cienfuegos** (wrecked 1895): A 292-foot American steam passenger ship operated by the Ward Line — launched in 1883 from Chester, Pennsylvania. She measured 2,332 tons and ran aground on the reef approximately 5 miles north of Harbour Island. Now flattened in 3–10 metres of water; the bow, steam engine, boiler, two giant heat exchangers, and main driveshaft remain identifiable. The wreck resembles an underwater junkyard at this point, spread across the reef.
+- **The Cienfuegos** (wrecked 4/5 February 1895): A 292-foot American steam passenger ship operated by the Ward Line — launched in 1883 from the John Roach & Sons Shipyard in Chester, Pennsylvania. She measured 2,332 tons and ran aground on the reef approximately 5 miles north of Harbour Island; a Tribune242 account of the wreck (citing local maritime history) states all passengers and crew survived, with some cargo — including a shipment of rice — salvaged. Now flattened in 3–10 metres of water; the bow, steam engine, and boiler remain identifiable. The wreck resembles an underwater junkyard at this point, spread across the reef.
 - **The Carnarvon** (wrecked 1916): A 186-foot steel-hulled Welsh freighter that serviced lighthouses in the Bahamas for the British Admiralty. Sits in 5–8 metres of water on the southern edge of the Backbone, northeast of Preacher's Cave beach. The top of the steering quadrant is just 2–3 metres below the surface; the steam engine and driveshaft are remarkably intact for a wreck over a century old.
 - **The Train Wreck** (wrecked 1865): A barge carrying Confederate-era railway equipment — reportedly en route from the southern United States to a Cuban sugar plantation during the Civil War — which struck the reef in a storm. Lies in 3–5 metres of water. Remaining artifacts include train wheels, three-wheel trucks, boiler plate, brass spikes, coal, and ballast stones.
 - **The Vanaheim** (wrecked 1969): An 86-foot coastal freighter whose cargo of potatoes and onions gave the site its informal name "Potato and Onion Wreck." Lies in the shallows near the Cienfuegos.
@@ -38,7 +38,7 @@ Stretching approximately 1.4 miles northeast of Spanish Wells at the north end o
 
 ## Marine Life
 
-Abundant reef fish populations inhabit the wrecks and reef — snapper, grunts, parrotfish, angelfish, Nassau grouper, and barracuda. Nurse sharks and stingrays are commonly encountered resting around the wreck structures. Moray eels occupy crevices in the iron hulls. Brain coral, elkhorn coral, and star coral form the backdrop.
+Abundant reef fish populations inhabit the wrecks and reef — snapper, grunts, parrotfish, angelfish, and Nassau grouper are reported by a local Harbour Island dive shop, along with nurse sharks, stingrays, and moray eels around the wreck structures. A separate regional survey of Eleuthera diving also reports eagle rays, blacktip reef sharks, and queen triggerfish in the area. Brain coral is specifically confirmed; other hard and soft corals are also present but not itemized by species in the sources reviewed. The earlier claim of barracuda at this specific site was not corroborated and has been removed.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Boat dive. Ocean Fox Dive Shop on Harbour Island and other local operators offer
 Boat traffic in the area can be significant — always use a dive flag. The shallow depths create surge in any swell. Sand and silt in the wreck structures reduce visibility when disturbed; maintain good buoyancy. The reef is fragile — do not penetrate unguided wreck interiors.
 
 ---
-*Sources: [Ocean Fox Bahamas - Devil's Backbone](https://oceanfoxbahamas.com/devils-backbone/), [Zentacle - Devil's Backbone](https://www.zentacle.com/Beach/3567/devils-backbone), [Project Eleuthera - Underwater Sites](https://www.projecteleuthera.org/underwater-sites), [The Tribune Bahamas - 200 Years of Wrecks](https://www.tribune242.com/news/2026/jan/09/200-years-of-wrecks-across-the-north-central-bahamas-especially-the-devils-backbone/). Last updated 2026-05-17.*
+*Sources: [Ocean Fox Bahamas - Devil's Backbone](https://oceanfoxbahamas.com/devils-backbone/), [Zentacle - Devil's Backbone](https://www.zentacle.com/Beach/3567/devils-backbone), [Project Eleuthera - Underwater Sites](https://www.projecteleuthera.org/underwater-sites), [The Tribune Bahamas - 200 Years of Wrecks](https://www.tribune242.com/news/2026/jan/09/200-years-of-wrecks-across-the-north-central-bahamas-especially-the-devils-backbone/), [Dive The World - Eleuthera Diving Guide](https://www.dive-the-world.com/posts/eleuthera/eleuthera-diving-guide-premier-dive-sites-bahamas.php). Last updated 2026-07-13.*

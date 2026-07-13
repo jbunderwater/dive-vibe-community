@@ -56,4 +56,4 @@ Do not penetrate enclosed hull spaces without wreck training. Monitor conditions
 The encrusted three-piece hull sections, breeding French angelfish pair, and the transition from wreck to reef at the site boundary offer varied photographic subjects. Natural light is adequate for the shallower deck sections.
 
 ---
-*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/), [NUMA](https://numa.net/2015/05/shipwrecks-of-barbados/). Last updated 2026-05-17.*
+*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/), [NUMA](https://numa.net/2015/05/shipwrecks-of-barbados/). Last updated 2026-07-13.*

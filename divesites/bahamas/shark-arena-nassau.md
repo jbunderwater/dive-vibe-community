@@ -3,7 +3,7 @@ name: Shark Arena Nassau
 lat: 25.0417
 lng: -77.5
 difficulty: Intermediate
-maxDepth: 12
+maxDepth: 14
 entryType: boat
 siteType: reef
 ref: null
@@ -17,13 +17,13 @@ A structured Caribbean reef shark feeding dive operated off Nassau's southwest c
 
 ## Overview
 
-Shark Arena is one of Nassau's signature dive experiences, operated by Stuart Cove's Dive Bahamas on a regular basis at a reef site southwest of New Providence Island. The site features a designated "arena" area on the reef where multiple Caribbean reef sharks congregate for a structured encounter. Caribbean reef sharks are the primary species at this site, regularly reaching 1.5–2 metres. The reef sits at 12 metres maximum depth, providing excellent natural light and generous bottom time. Nassau's clear Caribbean water delivers 20–30 metres of visibility. Water temperature is 25–28°C.
+Shark Arena ("The Arena") is one of Nassau's signature dive experiences, operated by Stuart Cove's Dive Bahamas as the feeding-dive half of its two-tank Shark Adventure program (paired with the non-feeding Shark Wall). The site is a sand patch with open space designed so neither divers nor sharks feel confined, where a trained shark feeder uses a bait box and pole spear to draw Caribbean reef sharks into a semicircle of divers. Stuart Cove's own site data lists Shark Arena at 45 feet (approximately 14 meters), slightly deeper than the previous 12 m figure in this entry; one third-party source describes it as reaching this depth "at the primary feeding area" only, with shallower approaches possible. Nassau's clear Caribbean water delivers 20–30 metres of visibility. Water temperature is 25–28°C.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 6–12 m |
+| Depth Range | 6–14 m (feeding area ~14 m per operator data) |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Reef |
@@ -33,11 +33,11 @@ Shark Arena is one of Nassau's signature dive experiences, operated by Stuart Co
 
 ## Marine Life
 
-Caribbean reef sharks (Carcharhinus perezi) are the primary attraction — Stuart Cove's describes them as "5–6 foot" individuals that approach divers within touching distance during the feeding dives, with dozens present per session. Nurse sharks rest on the sandy areas around the reef. The reef itself carries a healthy fish community including French angelfish, parrotfish, and blue tang. Southern stingrays are common on the surrounding sandy areas.
+Caribbean reef sharks (Carcharhinus perezi) are the confirmed, primary species — Stuart Cove's describes them as its predominant shark species Bahamas-wide (4–9 ft) and its own promotional material describes "5–6 foot" individuals approaching divers within touching distance during the feeding dives, with dozens present per session. General Nassau/Stuart Cove's shark-diving descriptions also mention nurse sharks, stingrays, and turtles in the same operating area, though not confirmed at Shark Arena specifically with site-level precision — treat those as likely-but-unconfirmed for this exact site. No site-specific source was found for French angelfish, parrotfish, or blue tang at this location; those have been removed rather than presented as confirmed site records.
 
 ## Dive Profile
 
-Divers descend to the reef at 12 metres and form a semicircle or full circle around the feeding area. A divemaster in chainmail armour manages the feeding crate. Sharks approach from all directions within the arena. Divers kneel or crouch on the sandy areas at the reef edge for the duration of the feeding session (approximately 20–30 minutes). After feeding, divers can explore the surrounding reef before ascending.
+Divers descend to the sand patch at approximately 14 metres and form a semicircle or full circle around the feeding area. A trained shark feeder wearing a Neptunic-style stainless-steel chainmail suit and helmet manages the bait box, using a pole spear to control the release of food. Sharks approach from all directions within the arena. Divers kneel or crouch on the sandy areas at the reef edge for the duration of the feeding session (approximately 20–30 minutes). After feeding, divers can explore the surrounding reef before ascending.
 
 ## Entry and Exit
 
@@ -61,4 +61,4 @@ Shark Arena is one of the most photographically accessible shark dives in the wo
 - Typically offered as part of a two-tank trip combining Shark Arena with Stuart Cove Wall
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Adventure](https://stuartcove.com/shark-diving/shark-adventure/), [Stuart Cove's Dive Bahamas - Sharks](https://stuartcove.com/underwater-hollywood/sharks/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bahamas Tour Center - Stuart Cove Shark Adventure](https://www.bahamastourcenter.com/stuart-cove-shark-adventure-dive/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Adventure](https://stuartcove.com/shark-diving/shark-adventure/), [Stuart Cove's Dive Bahamas - Sharks](https://stuartcove.com/underwater-hollywood/sharks/), [Scuba Hank NYC - Shark Arena Dive Bahamas](https://scubahanknyc.com/2026/02/02/shark-arena-dive-bahamas/), [Nassau Scuba Dive - Stuart Cove Shark Adventure Dive](https://www.nassauscubadive.com/stuart-cove-shark-adventure-dive/). Last updated 2026-07-13.*

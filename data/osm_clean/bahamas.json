@@ -5,12 +5,12 @@
     "lon": -76.8097669,
     "osm_id": 948102800,
     "osm_type": "way",
-    "depth": 20,
+    "depth": 4,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "baaa-acro.com,aviation-safety.net,bahamasairtours.com,wikipedia.org",
+    "validation_source": "baaa-acro.com,aviation-safety.net,bahamasairtours.com,outislandlifebahamas.com,en.wikipedia.org",
     "tags": {
       "access": "yes",
       "aircraft:type": "transport",
@@ -18,7 +18,7 @@
       "damage:structure": "heavy",
       "historic": "wreck",
       "name": "Curtiss C-46A-45-CU Commando",
-      "note": "Civil registration, N355BY, cancelled on 15 November 1980. Crashed off Norman's Cay, not generic Exuma Cays.",
+      "note": "Major depth correction: wreck sits ~3-4m deep, snorkel-accessible, breaks surface at low tide (was incorrectly 15-20m). Registration N355BY, MSN 30243, crash 15 Nov 1980 confirmed via baaa-acro.com + aviation-safety.net + Wikipedia.",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "tourism": "attraction",
@@ -28,7 +28,7 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "yes",
       "year_of_construction": "1940-1945",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -37,12 +37,12 @@
     "lon": -79.2933084,
     "osm_id": 952659147,
     "osm_type": "way",
-    "depth": 5,
+    "depth": 6,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "en.wikipedia.org,bahamas.com,dreamwrecks.com,thevintagenews.com",
+    "validation_source": "en.wikipedia.org,bahamas.com,dreamwrecks.com,snorkeling-report.com",
     "tags": {
       "access": "yes",
       "building": "yes",
@@ -59,8 +59,8 @@
       "wreck:date_sunk": "1926",
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
-      "note": "Built 1919 by Liberty Shipbuilding Co for US Shipping Board WWI Emergency Fleet. NOT built for Henry Ford. Purchased 1924 by Carl G. Fisher, then Bruce Bethell. Wrecked in 1926 hurricane. Used for WWII bombing practice by US Army/Navy. Hemingway target practice claim is unverified. Length 281 ft 10 in; 3,500 DWT.",
-      "last_qa_date": "2026-05-17"
+      "note": "Built 1919 Liberty Shipbuilding Co for WWI Emergency Fleet. Popular 'designed by Henry Ford'/Woodrow Wilson origin story and Flight 19 causal link are NOT corroborated by Wikipedia's primary sourcing - flagged as unverified tourism lore in markdown, not stated as fact.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -69,17 +69,17 @@
     "lon": -79.0333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 9,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "padi.com,epicdiving.com,dive-the-world.com,bluewaterdivetravel.com",
+    "validation_source": "padi.com,epicdiving.com,bigfishexpeditions.com,bluewaterdivetravel.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "Located 32km (20 miles) off west end of Grand Bahama. Tiger sharks year-round, peak Oct-Jan. Great hammerheads Dec-Mar. Depth 6-12m.",
-      "last_qa_date": "2026-05-17"
+      "note": "Depth harmonized to 6-12m typical (was internally inconsistent 9m vs 6-12m). Bull shark added as confirmed secondary species per Epic Diving.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -88,16 +88,17 @@
     "lon": -77.4833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "stuartcove.com,scubadiving.com,bluewaterdivetravel.com",
+    "validation_source": "stuartcove.com,bahamas.com,nassauscubadive.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "Likely duplicate of 'Shark Wall New Providence' - both describe the same real Stuart Cove's site (~1km apart in coordinates). Flagged for maintainer deduplication review, not merged automatically."
     }
   },
   {
@@ -106,17 +107,17 @@
     "lon": -77.5,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 14,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "stuartcove.com,scubadiving.com,bahamastourcenter.com",
+    "validation_source": "stuartcove.com,scubahanknyc.com,nassauscubadive.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "Also known as The Arena and The Runway (two separate Stuart Cove feeding sites). Primary species: Caribbean reef sharks (5-6ft). Depth ~12m (40ft).",
-      "last_qa_date": "2026-05-17"
+      "note": "Depth corrected 12m->14m per operator's own site data (45ft). Chainmail-suit claim verified (Neptunic stainless-steel suit + helmet).",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -130,12 +131,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "bahamasairtours.com,stanielcayadventures.com,nassaubahamasguide.com,sandals.com",
+    "validation_source": "bahamasairtours.com,stanielcayadventures.com,sandals.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "Filmed for Thunderball (1965) and Never Say Never Again (1983). Multiple underwater entrances. Best visited at low/slack tide.",
-      "last_qa_date": "2026-05-17"
+      "note": "Filmed for Thunderball (1965) and Never Say Never Again (1983). Multiple underwater entrances; some reachable without submersion at low tide only.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -149,12 +150,12 @@
     "entry_type": "shore",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "en.wikipedia.org,atlasobscura.com,bahamasairtours.com,scuba.com",
+    "validation_source": "en.wikipedia.org,atlasobscura.com,scuba.com,divernet.com,us.molchanovs.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "World's THIRD deepest known ocean blue hole (not second) — after Taam Ja' Blue Hole (Mexico) and Dragon Hole (South China Sea). Surface diameter ~30m, widens to ~100m. William Trubridge world record 101m in Dec 2010. Hosts annual Vertical Blue competition.",
-      "last_qa_date": "2026-05-17"
+      "note": "World's third deepest known ocean blue hole. Trubridge's 101m/102m CNF freediving records here (2010/2016) were surpassed by Petar Klovar (103m, Egypt, May 2025); Alenka Artnik (123m CWT) and Arnaud Jerald (126m CWTB) set current records here July 2025. Site remains the annual Vertical Blue venue.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -172,8 +173,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "This is the same as the Current Cut OSM entry. Both entries reference the same channel between North Eleuthera and Current Island.",
-      "last_qa_date": "2026-05-17"
+      "note": "Re-audited 2026-07-13 - confirmed to be the same physical site as 'Current Cut' (channel between Current Settlement, North Eleuthera, and Current Island, accessed via Harbour Island operators Valentine's Dive Center and Ocean Fox Diving). Current speed/visibility/marine-life claims cross-referenced against Zentacle, Dive-the-World, Eleuthera.me, Discover-Eleuthera-Bahamas, DiveOneClub.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -182,16 +183,17 @@
     "lon": -77.4917,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
-    "site_type": "reef",
+    "depth": 14,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "stuartcove.com,scubadiving.com,bluewaterdivetravel.com",
+    "validation_source": "stuartcove.com,divernet.com,nassauscubadive.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "Reclassified reef->wall per Stuart Cove's own description ('a coral wall along the Tongue of the Ocean'). Corrected: this is the NON-feeding half of the Shark Adventure (feeding happens at the separate Arena); removed false '20-25 minute feeding session' claim. Origin date corrected to early 1990s (was unsourced '1980s'). Likely duplicate of 'Stuart Cove Wall' - flagged for maintainer deduplication review."
     }
   },
   {
@@ -209,7 +211,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "CAUTION: no source found confirms a site specifically named 'Lost Blue Hole' exists in Andros. A well-documented 'Lost Blue Hole' is a distinct, different site off Nassau/New Providence (~45km away, near Rose Island). Named Andros blue holes in regional sources are Stargate, Cousteau's, Captain Bill's/Church's, Uncle Charlie's, Benjamin's, Rat Cay - not this. Coordinates are plausible for an Andros offshore blue hole but the specific name/site combination is unverified. Recommend contributor follow-up or renaming."
     }
   },
   {
@@ -218,17 +221,17 @@
     "lon": -77.4667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 19,
+    "depth": 21,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "dreamwrecks.com,wannadive.net,scubadiverlife.com,ashunderwater.com",
+    "validation_source": "dreamwrecks.com,scubadiverlife.com,zentacle.com,wannadive.net,tribune242.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "130ft (39.6m) steel freighter built Netherlands 1966. Served as Bahamas mailboat from 1980. Sank in 1988 during tow at Clifton Pier. Stuart Cove's refloated and resank in current position. NOT a passenger ferry. NOT deliberately sunk as artificial reef initially — accidental sinking then repositioned.",
-      "last_qa_date": "2026-05-17"
+      "note": "Genuine unresolved source conflict: build history reported as either a 130ft steel freighter built Netherlands 1966 (DreamWrecks/Scuba Diver Life) OR built Denmark 1907, sank first at Potters Cay (Zentacle/Wannadive). Sinking narrative also conflicts (routine tow that broke free vs. scuttle-tow for scrapping per Tribune242). Both versions documented in markdown rather than silently resolved. Depth reported 15-21m across sources.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -238,16 +241,16 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 12,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "epicdiving.com,scubadiverlife.com,southernboating.com,bigfishexpeditions.com",
+    "validation_source": "epicdiving.com,divemagazine.com,bigfishexpeditions.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "Oceanic whitetip sharks primary April-May (following tuna migration). Not year-round. Depth up to 12m (40ft). Caribbean reef sharks year-round.",
-      "last_qa_date": "2026-05-17"
+      "note": "MAJOR NAMING ISSUE: 'Shark Rodeo' is a real, documented Bahamas site name but belongs to a Walker Cay (Abaco) blacktip-feeding site, not this Cat Island oceanic-whitetip site - no source calls the Cat Island site 'Shark Rodeo'. Coordinates are correctly placed at Cat Island; only the name appears misattributed. Reclassified reef->drift and Intermediate->Advanced: sourced dive format is open-water/blue-water drift near the shelf edge with large pelagics, not a stationary sand-bottom reference dive. Silky and dusky shark added as confirmed secondary species.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -261,12 +264,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "seadragonbahamas.com,geoffschultz.org,dive-the-world.com,tripadvisor.com",
+    "validation_source": "seadragonbahamas.com,geoffschultz.org,dive-the-world.com,bnt.bs,sharkrayareas.org",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "Wall top at 15-24m, drops to 40m+ into abyss. Swim-throughs and tunnels on south wall in 21-30m. Conception Island is Bahamas National Trust national park.",
-      "last_qa_date": "2026-05-17"
+      "note": "Conception Island is a Bahamas National Trust national park and documented Important Shark & Ray Area / green-turtle nesting site. Wall crest depth varies by mooring (~9-24m) before dropping past 40m into Exuma Sound. Unsourced 'spotted eagle rays regularly' claim removed; 'larger/less-skittish fish' framing softened - one operator log reports fewer large fish, attributed to fishing pressure.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -280,12 +283,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "dreamwrecks.com,deeperblue.com,scubadiving.com,stuartcove.com",
+    "validation_source": "dreamwrecks.com,deeperblue.com,stuartcove.com,scuba-do.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "200ft Haitian cargo freighter. Sunk 2003 by Stuart Cove's as artificial reef. Bow at 12m, stern at 18m (40-60ft). Sits next to Bahama Mama wreck. 16th wreck on New Providence SW side. PREVIOUS depth of 50m was WRONG — corrected to 18m.",
-      "last_qa_date": "2026-05-17"
+      "note": "200ft freighter sunk 7 July 2003 by Stuart Cove's, 16th wreck on New Providence SW side. Full provenance per operator's own account: constructed in Germany, prior registration in Belize, last registered as a Haitian freighter (previously oversimplified to 'Haitian cargo freighter').",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -297,14 +300,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "diveboard.com,dive-the-world.com,yachtsbahamacharters.com",
+    "validation_source": "thescubadirectory.com,dive-the-world.com,yachtsbahamacharters.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "diveboard.com, dive-the-world.com, yachtsbahamacharters.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "Removed unsupported claim that the Jeep was deliberately placed as an artificial reef - all sources agree origin is unknown/disputed. Marine life corrected to species actually attributed to this site by sources."
     }
   },
   {
@@ -316,14 +320,15 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "uncommoncaribbean.com,zentacle.com,dive-the-world.com",
+    "validation_source": "dive-the-world.com,zentacle.com,oceanatik.com,scubaboard.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "uncommoncaribbean.com, zentacle.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "Depth conflicts across sources (10.7m zentacle, 15m dive-the-world, 21m oceanatik) - kept 15m as the dive-the-world figure explicitly tied to this named site, range flagged in markdown. Shark-feeding-discontinuation claim retained but softened - no source gives an exact date."
     }
   },
   {
@@ -342,8 +347,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "false",
       "validation_source": "scubaweather.com",
-      "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
-      "last_qa_date": "2026-05-17"
+      "note": "Re-audited 2026-07-13 - only 1 independent source found (scubaweather.com) despite exhaustive search (Dive Exuma, ScubaBoard, TripAdvisor, ScubaSnap, Divebooker). Remains unvalidated; needs 2 additional independent sources.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -362,8 +367,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "false",
       "validation_source": "scubaboard.com",
-      "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
-      "last_qa_date": "2026-05-17"
+      "note": "Re-audited 2026-07-13 - coordinates are ~74km from Great Guana Cay, Abaco, contradicting prior 'near Guana Cay' description (corrected in markdown). The sole cited ScubaBoard source never actually names a site 'The Cutt' - only generically mentions 'the cut north of Guana Cay'. Site identity and location are unconfirmed; needs contributor clarification.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -382,8 +387,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "false",
       "validation_source": "scubaweather.com",
-      "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
-      "last_qa_date": "2026-05-17"
+      "note": "Re-audited 2026-07-13 - only 1 weak source found; the cited URL is actually ScubaWeather's 'Connected Dott' page, which lists Seabass only as a nearby site name with no dedicated page. Remains unvalidated; needs 2 additional independent sources.",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -394,15 +399,16 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "divein.com,dive-the-world.com,zentacle.com",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "divein.com, dive-the-world.com, zentacle.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "DOWNGRADED to unvalidated 2026-07-13: no dive operator, forum, or database source found naming a dive site 'Norman's Cay Cut'/'Normans Key Cut' after extensive search. Prior markdown's narrative (boulder shoot, 'washing machine' basin, 'just south of Highbourne Cay') matches a real, different, well-documented site called 'The Washing Machine' between Long Cay and Highbourne Cay - likely name/location conflation, not a verified independent site. This entry's own coordinates sit south of Norman's Cay, contradicting the prior 'just south of Highbourne Cay' claim. Recommend review for duplicate/mislabel/removal. Depth/difficulty retained as prior provisional values pending resolution (not source-confirmed for this specific name/coordinates)."
     }
   },
   {
@@ -414,14 +420,15 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "zentacle.com,yachtsbahamacharters.com,dive-the-world.com",
+    "validation_source": "zentacle.com,yachtsbahamacharters.com,myoutislands.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "zentacle.com, yachtsbahamacharters.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "Removed unconfirmed hammerhead shark, Nassau grouper, and barracuda claims (no source names them for this site). Conflicting depth reports across sources: Zentacle 30m/98ft vs. yachtsbahamacharters.com/myoutislands.com 23m/75ft - both retained in text as a flagged discrepancy."
     }
   },
   {
@@ -433,14 +440,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "zentacle.com,allstarliveaboards.com,capeeleuthera.com",
+    "validation_source": "allstarliveaboards.com,scubaboard.com,dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "zentacle.com, allstarliveaboards.com, capeeleuthera.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "CEI cobia research cage confirmed real (Island School/Cape Eleuthera Institute/University of Miami project) but corrected: the aquaculture operation ended and the cage is now decommissioned, functioning only as an artificial-reef dive site (locally 'Cobia Cage'/'SeaStation') - previously implied ongoing research use."
     }
   },
   {
@@ -451,15 +459,16 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "capeeleuthera.com,scubadiving.com,dive-the-world.com",
+    "validated": false,
+    "validation_source": "capeeleuthera.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "capeeleuthera.com, scubadiving.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "DOWNGRADED to unvalidated 2026-07-13: could not independently confirm 'Off Cape Eleuthera' as an established named dive site beyond general Cape Eleuthera-area marketing (capeeleuthera.com). Dive the World's detailed Eleuthera site-by-site guide lists ~10-12 named Cape Eleuthera sites (Cave Rock, Cut Through City, Hole in the Wall, Cobia Cage, Jake's Hole, Monolith, Split Coral Head, etc.) and this name is not among them. Site-specific claims stripped as unverified; may be a generic descriptive label rather than a distinctly named site."
     }
   },
   {
@@ -471,15 +480,15 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "oceanfoxbahamas.com,zentacle.com,projecteleuthera.org,tribune242.com",
+    "validation_source": "oceanfoxbahamas.com,zentacle.com,projecteleuthera.org,tribune242.com,dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "oceanfoxbahamas.com, zentacle.com, projecteleuthera.org, tribune242.com",
-      "note": "Site type changed from 'reef' to 'wreck' — primary draw is the multiple historic wrecks (Cienfuegos 1895, Carnarvon 1916, Train Wreck 1865, Vanaheim 1969). Depth 5-10m.",
-      "last_qa_date": "2026-05-17"
+      "note": "All four wrecks (Cienfuegos, Carnarvon, Train Wreck, Vanaheim) re-confirmed. Corrected misattribution: 'two giant heat exchangers/main driveshaft' belongs to Carnarvon, not Cienfuegos (previously conflated).",
+      "last_qa_date": "2026-07-13"
     }
   },
   {
@@ -491,14 +500,15 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "zentacle.com,bahamas.com,dive-the-world.com",
+    "validation_source": "zentacle.com,eleuthera-map.com,bahamas.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "zentacle.com, bahamas.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "Rage-wave hazard confirmed and documented with specifics: 1991 event (70-100ft waves) displaced the bridge ~9-11ft, 1996 fatality (Sam Pedican). Removed unconfirmed 'small shark species' marine-life claim - only grouper is source-confirmed."
     }
   },
   {
@@ -517,7 +527,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "eleuthera.me, zentacle.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-13",
+      "note": "Re-audited 2026-07-13 alongside Current Cut Eleuthera - confirmed same physical site (channel between Current Settlement, North Eleuthera, and Current Island), cross-referenced against Zentacle, Dive-the-World, Eleuthera.me, Discover-Eleuthera-Bahamas, DiveOneClub."
     }
   }
 ]

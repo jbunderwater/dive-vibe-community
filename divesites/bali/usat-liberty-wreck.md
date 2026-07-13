@@ -33,4 +33,4 @@ Wikipedia records the vessel's length as 411 ft 6 in (approximately 125 metres);
 - **Best Time**: Year-round; April–November for optimal visibility
 
 ---
-*Sources: [Wikipedia - USAT Liberty](https://en.wikipedia.org/wiki/USAT_Liberty), [Let's Dive Tulamben - USAT Liberty History](https://letsdivetulamben.com/history-of-the-usat-liberty-wreck-in-tulamben-bali/), [Let's Dive Tulamben - Liberty Wreck Dive Site](https://letsdivetulamben.com/dive-sites/liberty-wreck/), [Diving Indo - Liberty Shipwreck](https://www.diving-indo.com/blogs/bali-dive-sites-usat-liberty-shipwreck/). Last updated 2026-05-17.*
+*Sources: [Wikipedia - USAT Liberty](https://en.wikipedia.org/wiki/USAT_Liberty), [Let's Dive Tulamben - USAT Liberty History](https://letsdivetulamben.com/history-of-the-usat-liberty-wreck-in-tulamben-bali/), [Let's Dive Tulamben - Liberty Wreck Dive Site](https://letsdivetulamben.com/dive-sites/liberty-wreck/), [Diving Indo - Liberty Shipwreck](https://www.diving-indo.com/blogs/bali-dive-sites-usat-liberty-shipwreck/). Last updated 2026-07-13.*

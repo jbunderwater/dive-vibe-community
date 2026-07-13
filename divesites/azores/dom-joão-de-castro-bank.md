@@ -47,4 +47,4 @@ Wahoos, yellowmouth barracuda, Atlantic bonito, Almaco jacks, Bermuda chubs, Spa
 - The caldera erupted in 1720 and briefly formed a visible island
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/banco-d-joao-de-castro), [Wikipedia – Dom João de Castro Bank](https://en.wikipedia.org/wiki/Dom_Jo%C3%A3o_de_Castro_Bank), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/banco-dom-joao-de-castro-89.html), [Santos et al. (2010), Oceanography](https://tos.org/oceanography/assets/docs/23-1_santos1.pdf). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/banco-d-joao-de-castro), [Wikipedia – Dom João de Castro Bank](https://en.wikipedia.org/wiki/Dom_Jo%C3%A3o_de_Castro_Bank), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/banco-dom-joao-de-castro-89.html), [Santos et al. (2010), Oceanography](https://tos.org/oceanography/assets/docs/23-1_santos1.pdf). Last updated 2026-07-13.*

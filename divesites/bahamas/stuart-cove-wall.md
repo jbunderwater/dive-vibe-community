@@ -3,7 +3,7 @@ name: Stuart Cove Wall
 lat: 25.0333
 lng: -77.4833
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 24
 entryType: boat
 siteType: wall
 ref: null
@@ -17,27 +17,29 @@ The premier Nassau wall dive — a section of the Tongue of the Ocean's vertical
 
 ## Overview
 
-Stuart Cove Wall is the name applied to the section of Nassau's southwest wall routinely operated by Stuart Cove's Dive Bahamas — one of the most established and visited dive operators in the Caribbean. The wall drops from a reef crest at around 10 meters to a sandy bottom at 25 meters (with the actual wall continuing much deeper into the Tongue of the Ocean). The site features the Bahamas' characteristic crystal-clear blue water, with visibility regularly hitting 25–35 meters. The wall carries healthy hard coral coverage on the upper sections, large barrel sponges and sea fans at mid-wall, and deep-water gorgonians at the base. Caribbean reef sharks are frequently encountered throughout the water column. This site is one of the most-dived walls in Nassau and an essential reference point for Bahamian wall diving.
+**Correction (2026-07-13 re-audit):** No source found uses "Stuart Cove Wall" as an official site name. Stuart Cove's Dive Bahamas names its two Nassau wall dives "Shark Wall" (45 ft/~14 m, a coral wall along the Tongue of the Ocean) and "Runway Wall" (35 ft/~11 m, over a trench) — see stuartcove.com. This entry's coordinates and description are consistent with that "Shark Wall" system, and it very likely overlaps with the separate "Shark Wall New Providence" entry in this database; the two should be reviewed for consolidation rather than treated as distinct sites. Content below has been corrected to match sourced depths rather than the previously listed 10–25 m range.
+
+Stuart Cove's operates daily wall dives on Nassau's southwest drop-off into the Tongue of the Ocean — one of the most established and visited dive operations in the Caribbean. Per Stuart Cove's own booking-partner description, the wall crest is reached around 12 meters (40 ft) and dives can extend to about 24 meters (80 ft) for more experienced divers; the specific "Shark Wall" shark-encounter depth is listed by Stuart Cove's as roughly 14 meters (45 ft). The wall face itself continues far deeper into the Tongue of the Ocean (a trench reaching roughly 1,800 m), but recreational dives do not descend anywhere near that depth. The site features the Bahamas' characteristic clear water, with Stuart Cove's advertising visibility "exceeding 80 feet" (24 m+) year-round. Caribbean reef sharks are the confirmed headline species, encountered as a "free swim" wall encounter without feeding (feeding takes place on a separate dive, at the Arena/Runway sand sites).
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 10–25 m |
+| Depth Range | 12–24 m (wall crest ~12 m; shark-encounter depth ~14 m; advanced divers to ~24 m) |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Wall |
-| Visibility | 25–35 m |
+| Visibility | 24 m+ (operator-reported) |
 | Current | Light to moderate |
 | Water Temp | 25–28°C |
 
 ## Marine Life
 
-Caribbean reef sharks are a consistent feature at Stuart Cove Wall — the area is part of the Nassau reef system where sharks have been associated with dive operations for decades. Schools of large barracuda hover at the wall edge. Spotted eagle rays sweep past the wall face. Hawksbill turtles feed on sea fans at mid-wall depths. The reef community on the upper wall is diverse — French and queen angelfish, large parrotfish, blue tang, and Nassau groupers (reduced in number but still present). Nurse sharks rest on the sandy base.
+Caribbean reef sharks are the confirmed, source-backed species at this wall — Stuart Cove's lists them as its predominant shark species across its Nassau wall sites. General Nassau shark-diving descriptions (multiple Stuart Cove's booking-partner sites) also mention nurse sharks, stingrays, and turtles in the same area, though not tied to this specific wall segment with site-level precision. No site-specific source was found confirming barracuda, eagle rays, or particular reef-fish species (angelfish, parrotfish, groupers) at this exact location — treat those as generic Bahamian reef fauna that may be present rather than confirmed site records.
 
 ## Dive Profile
 
-Descent to the wall crest at 10 meters, then a controlled descent along the wall face to 20–25 meters. The upper wall at 12–18 meters has the best hard coral and the most active fish community. The mid-wall zone at 18–22 meters carries large barrel sponges and sea fans. The base at 25 meters transitions to sand and is worth visiting briefly for the nurse sharks and stingrays before ascending. Safety stop at the wall crest.
+Descent to the wall crest at approximately 12 meters, then along the wall face to a working depth of roughly 14–24 meters depending on diver experience level, per Stuart Cove's stated operating depths for its Nassau wall sites. This is run as a non-feeding "free swim" — sharks follow the group naturally along the wall face rather than being actively fed. Divers should stay within recreational depth limits; do not follow the wall face down toward the Tongue of the Ocean's much greater depths. Safety stop at the wall crest.
 
 ## Entry and Exit
 
@@ -45,11 +47,11 @@ Boat dive exclusively with Stuart Cove's or comparable Nassau operators. Entry b
 
 ## Tips and Recommendations
 
-Stuart Cove Wall is almost always combined with a shark encounter at Shark Arena or Shark Wall as a two-tank morning trip — the wall and the shark dive complement each other well, with the wall providing the broader reef experience and the shark dive the concentrated encounter. The wall dives best in morning light when the east-facing upper wall sections are well illuminated by natural light.
+This wall dive is run by Stuart Cove's as the first tank of its two-tank Shark Adventure, paired with a feeding dive at the Arena or Runway sand site — the non-feeding wall swim and the feeding dive are deliberately different experiences (natural encounter vs. managed feeding), per Stuart Cove's own program description.
 
 ## Safety Considerations
 
-Depth management on the wall is important — the Tongue of the Ocean drops thousands of meters and the wall continues far below recreational limits. Set and maintain your maximum depth. Caribbean reef sharks at this site are habituated and generally non-threatening but should be treated respectfully. Fire coral on the upper reef. DSMB required.
+Depth management on the wall is important — the Tongue of the Ocean drops roughly 1,800 meters and the wall face continues far below recreational limits. Set and maintain your maximum depth (roughly 12–24 m depending on certification level); do not chase the wall deeper. Caribbean reef sharks at this site are habituated and generally non-threatening but should be treated respectfully. Fire coral on the upper reef. DSMB required.
 
 ## Photography
 
@@ -61,4 +63,4 @@ Stuart Cove Wall in the Bahamas' characteristic blue water is a premium wide-ang
 - The site is typically the first dive of a Nassau morning two-tank trip
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Wreck Diving Bahamas](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Sharks (site names & depths)](https://stuartcove.com/underwater-hollywood/sharks/), [Stuart Cove's Dive Bahamas - Shark Adventure](https://stuartcove.com/shark-diving/shark-adventure/), [Bahamas.com - Stuart Cove's Dive](https://www.bahamas.com/natural-wonders/stuart-coves-dive), [Nassau Scuba Dive - Stuart Cove Two-Tank Morning Dive](https://www.nassauscubadive.com/stuart-cove-two-tank-morning-dive/). Last updated 2026-07-13. Note: the previous footer cited a Scuba Diving Magazine article about wreck diving that does not describe this wall site — that citation has been removed as mismatched.*

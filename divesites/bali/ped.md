@@ -59,4 +59,4 @@ Drift currents can be strong and may accelerate unexpectedly. Stay aware of dept
 Wide-angle suits the sloping reef with schools of fusiliers and turtles. Turtles grazing in the shallows offer portrait opportunities with good natural light. The current-swept character of the site means quick composition is needed — practice shooting on the move.
 
 ---
-*Sources: [Nusa Penida.org - Ped, SD Point, Sental](https://nusapenida.org/ped-sd-point-sental-buyuk-tugu), [Purple Dive Penida - Ped](https://www.purpledivepenida.com/ped), [Aquamarine Diving - Sental, Ped, SD](https://www.aquamarinediving.com/bali-diving/dive-sites/nusa-penida-lembongan/sental-ped-sd/). Last updated 2026-05-17.*
+*Sources: [Nusa Penida.org - Ped, SD Point, Sental](https://nusapenida.org/ped-sd-point-sental-buyuk-tugu), [Purple Dive Penida - Ped](https://www.purpledivepenida.com/ped), [Aquamarine Diving - Sental, Ped, SD](https://www.aquamarinediving.com/bali-diving/dive-sites/nusa-penida-lembongan/sental-ped-sd/). Last updated 2026-07-13.*

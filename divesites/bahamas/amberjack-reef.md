@@ -17,7 +17,7 @@ Amberjack Reef is a patch reef in the Exuma Cays Land and Sea Park, known for ex
 
 ## Overview
 
-This compact patch reef — roughly 50 feet in length — punches well above its size in terms of marine life density. Positioned within the protected boundaries of the Exuma Cays Land and Sea Park, the reef has recovered fully from historical fishing pressure. The site was historically a shark feeding location, but feeding has been discontinued in accordance with the park's management policies. Sharks still congregate here naturally.
+This compact patch reef — roughly 50 feet in length — punches well above its size in terms of marine life density. Positioned within the protected no-take boundaries of the Exuma Cays Land and Sea Park, the reef is well known among Exuma dive operators for its Caribbean reef shark encounters, and is described by multiple sources as a historically "renowned" shark feeding location. Park rules prohibit feeding marine life, and a captain's trip-log account of the site describes sharks approaching divers and boats on their own, with no indication that feeding was taking place — consistent with the practice having been discontinued, though no source gives a specific date for when feeding stopped. Sharks still congregate here naturally.
 
 ## Site Information
 
@@ -25,17 +25,17 @@ This compact patch reef — roughly 50 feet in length — punches well above its
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-30 meters
+- **Typical Visibility**: 15-45 meters (sources vary)
 - **Current**: Moderate
 - **Best Time**: November to May
 
 ## Marine Life
 
-Up to 10 Caribbean reef sharks are commonly seen circling the reef, alongside nurse sharks resting on the sandy bottom. Large groupers — black grouper, yellowmouth grouper, and yellowfin grouper — are resident on the reef structure. Eagle rays make regular appearances. The sandy seafloor between coral heads is home to garden eels swaying in the current. Lobsters are abundant due to the no-take protections. Smaller residents include pirate blennies and various reef fish.
+Caribbean reef sharks are the highlight, commonly seen circling the reef, alongside nurse sharks. Large black grouper and yellowfin grouper are resident on the reef structure. Eagle rays make appearances, and horse-eye jacks and snappers are reported here as well. The sandy seafloor between coral heads is home to garden eels. Lobsters are abundant due to the no-take protections. Smaller residents include blennies and triggerfish. (Note: "yellowmouth grouper" was previously listed for this site but no source found confirms that species here specifically, so it has been removed.)
 
 ## Dive Profile
 
-Descend to approximately 15 meters (50 feet) to the patch reef structure. The site suits beginner to intermediate divers due to its modest depth. Most marine life activity concentrates on and around the reef structure itself. Allow plenty of time — the sharks and grouper interactions here are the highlight.
+Descend to approximately 15 meters (50 feet, though some sources report shallower or deeper) to the patch reef structure. The site suits beginner divers due to its modest depth and moderate current. Most marine life activity concentrates on and around the reef structure itself. Allow plenty of time — the shark and grouper interactions here are the highlight.
 
 ## Entry and Exit
 
@@ -52,4 +52,4 @@ Access is by boat only, typically as part of organised dive trips from Staniel C
 The Caribbean reef sharks present here are habituated to divers but remain wild animals. Do not corner, chase, or attempt to touch sharks. The Exuma Cays Land and Sea Park rules prohibit any interaction that disturbs marine life. Carry an SMB for your ascent.
 
 ---
-*Sources: [Uncommon Caribbean - Amberjack Reef](https://www.uncommoncaribbean.com/exuma/amberjack-reef-exuma/), [Zentacle - Amberjack Reef](https://www.zentacle.com/Beach/10024/amberjack-reef), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-05-17.*
+*Sources: [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Zentacle - Amberjack Reef](https://www.zentacle.com/Beach/10024/amberjack-reef), [Oceanatik - Amberjack Reef](https://www.oceanatik.com/destination/bahamas/sites/amberjack-reef-11130.html), [ScubaBoard - Carib Dancer Captain's Logs](https://scubaboard.com/community/threads/carib-dancer-captains-logs.421217/). Last updated 2026-07-13.*

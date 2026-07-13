@@ -59,4 +59,4 @@ Do not penetrate the cave beyond daylight illumination — turn around when ligh
 The cave interior offers unique shots with light streaming through the entrance creating a natural halo effect. Electric clams provide dramatic close-up subjects in the dim cave walls. Outside, wide-angle shots of the gully formations and soft coral walls work well with strobe lighting.
 
 ---
-*Sources: [Menjangan Island Trip - Diving](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Menjangan Island Trip - Diving](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-07-13.*

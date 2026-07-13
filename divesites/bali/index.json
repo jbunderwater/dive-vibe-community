@@ -72,18 +72,6 @@
     "osmId": 2969866045
   },
   {
-    "name": "Bali Scuba",
-    "filename": "bali-scuba.md",
-    "lat": -8.7057211,
-    "lng": 115.2528946,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3546785649
-  },
-  {
     "name": "Blue Hill Dive Site",
     "filename": "blue-hill-dive-site.md",
     "lat": -8.2875992,
@@ -94,18 +82,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 3747662782
-  },
-  {
-    "name": "Water Walk",
-    "filename": "water-walk.md",
-    "lat": -8.7065673,
-    "lng": 115.2631469,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3909173262
   },
   {
     "name": "Underwater Cave",
@@ -245,7 +221,7 @@
     "lat": -8.3078554,
     "lng": 115.6208435,
     "difficulty": "Intermediate",
-    "maxDepth": 30,
+    "maxDepth": 25,
     "entryType": "shore",
     "siteType": "reef",
     "ref": "",
@@ -281,23 +257,11 @@
     "lat": -8.2769163,
     "lng": 115.5946864,
     "difficulty": "Beginner",
-    "maxDepth": 15,
+    "maxDepth": 28,
     "entryType": "shore",
     "siteType": "reef",
     "ref": "",
     "osmId": 6428015268
-  },
-  {
-    "name": "Big Fins TecDiving",
-    "filename": "big-fins-tecdiving.md",
-    "lat": -8.2784946,
-    "lng": 115.5933629,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 9028333855
   },
   {
     "name": "Menjangan - Pos 2",
@@ -413,7 +377,7 @@
     "lat": -8.3373,
     "lng": 115.6621,
     "difficulty": "Intermediate",
-    "maxDepth": 30,
+    "maxDepth": 40,
     "entryType": "shore",
     "siteType": "wall",
     "ref": "",

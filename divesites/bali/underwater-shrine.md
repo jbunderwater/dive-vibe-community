@@ -17,7 +17,7 @@ Jemeluk Bay's iconic marked temple sculpture on the sandy bottom — batfish gat
 
 ## Overview
 
-The Underwater Shrine sits in Jemeluk Bay near Amed, where a traditional Balinese temple sculpture has been placed on the sandy seabed and is marked with a visible surface buoy. The shrine has become a gathering point for batfish, which hover in loose groups beneath the structure creating an atmospheric underwater scene. Jemeluk Bay itself is packed with diverse soft and hard corals along its perimeter, and the reef hosts lionfish, clownfish in anemones, butterflyfish, triggerfish, stingrays, and reliable schools of big-mouth mackerel. The bay is relatively sheltered with good visibility, making it a comfortable intermediate dive.
+The Underwater Shrine sits in Jemeluk Bay near Amed. It is a modern artificial installation — Apsara-style statues and a small temple-like structure (which also includes a functioning underwater postbox) — placed on the sandy seabed and marked with a visible surface buoy. It is not an ancient sunken temple, despite sometimes being described that way. The shrine has become a gathering point for batfish, which hover in loose groups beneath the structure creating an atmospheric underwater scene. Jemeluk Bay's wall and reef host leaf scorpionfish, white-spotted boxfish, clownfish in anemones, and turtles, in addition to lionfish, butterflyfish, triggerfish, stingrays, and schools of big-mouth mackerel around the bay perimeter. The bay is relatively sheltered with good visibility, making it a comfortable intermediate dive.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Underwater Shrine sits in Jemeluk Bay near Amed, where a traditional Balines
 
 ## Marine Life
 
-Batfish hover in groups beneath the shrine structure. Clownfish and their anemones are throughout the bay reef. Lionfish, stingrays, triggerfish, and butterflyfish are common. Dense schools of big-mouth mackerel patrol the bay in reliable formations. The sandy bottom around the shrine hosts garden eels and occasional octopus.
+Batfish hover in groups beneath the shrine structure. On the surrounding wall, leaf scorpionfish, white-spotted boxfish, clownfish, and turtles are reported. Lionfish, stingrays, triggerfish, and butterflyfish are common around the bay. Dense schools of big-mouth mackerel patrol the bay in reliable formations. The sandy bottom around the shrine hosts garden eels and occasional octopus.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Be cautious of boat traffic near the surface buoy when ascending. Maintain good 
 The shrine with batfish hovering beneath it is the signature subject of Jemeluk Bay. Wide-angle captures the full scene with the structure and fish together. Macro photographers will find clownfish, nudibranchs, and critters on the surrounding reef corals. The mackerel schools can produce stunning wide-angle action shots.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Atlantis Bali Diving - Amed](https://www.atlantis-bali-diving.com/dive_site/amed/), [Dive Concepts - Jemeluk Bay](https://diveconcepts.com/dive-site-spot-amed-jemeluk-bay). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Atlantis Bali Diving - Amed](https://www.atlantis-bali-diving.com/dive_site/amed/), [Dive Concepts - Jemeluk Bay](https://diveconcepts.com/dive-site-spot-amed-jemeluk-bay), [Amed Jepun Divers - Jemeluk Bay](https://www.amedjepundivers.com/dive-sites/amed/jemeluk-bay). Last updated 2026-07-13.*

@@ -33,7 +33,7 @@ Seraya Secrets is located near the village of Seraya, roughly 3 kilometres south
 
 ## Marine Life
 
-Seraya Secrets is one of Bali's premier critter diving destinations. The black sand and low-profile reef environment support an outstanding variety of small and unusual marine life. Confirmed species include nudibranchs (including donut and pikachu varieties), harlequin shrimp, Coleman and tiger shrimp, boxer crabs, frogfish, ornate ghost pipefish, pygmy seahorses, blue-spotted stingrays, mimic octopus, moray eels, and coral groupers. Spanish dancers — large, spectacularly coloured nudibranchs — are a highlight, particularly on night dives. The site is rated among Bali's top macro destinations.
+Seraya Secrets is one of Bali's premier critter diving destinations. The black sand and low-profile reef environment support an outstanding variety of small and unusual marine life. Confirmed species include nudibranchs (multiple species and colour morphs), harlequin shrimp, Coleman and tiger shrimp, boxer crabs, frogfish, ornate ghost pipefish, pygmy seahorses, blue-spotted stingrays, mimic octopus, moray eels, and coral groupers. A Spanish dancer — a large, spectacularly coloured nudibranch — was logged during a firsthand dive; this is a real but occasional sighting rather than a routine nightly guarantee. The site is rated among Bali's top macro destinations. Note: an earlier version of this description referenced an airplane-frame artificial reef structure at this site — no such structure has been confirmed here (an airplane-shaped structure does exist at nearby Coral Garden Tulamben, which may be the source of the earlier confusion).
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The shore entry can be rocky, so take care when entering and exiting. Currents a
 Seraya Secrets is a world-class macro photography site. The black sand provides clean, high-contrast backgrounds for critter subjects. Ghost pipefish, nudibranchs, frogfish, and harlequin shrimp are the primary macro targets. The coral-covered dome structure offers interesting wide-angle compositions showing artificial reef colonisation. A dedicated macro lens (60mm or 100mm) and a good focus light are essential.
 
 ---
-*Sources: [Let's Dive Tulamben - Seraya Secrets](https://letsdivetulamben.com/dive-sites/seraya-secrets/), [DiveOtion - Seraya Secrets](https://diveotion.com/seraya-secrets-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=879). Last updated 2026-05-17.*
+*Sources: [Let's Dive Tulamben - Seraya Secrets](https://letsdivetulamben.com/dive-sites/seraya-secrets/), [DiveOtion - Seraya Secrets](https://diveotion.com/seraya-secrets-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=879) (firsthand dive log). Last updated 2026-07-13.*

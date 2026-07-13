@@ -53,4 +53,4 @@ Boat dive from Bridgetown or Holetown operators. Short boat ride from most west 
 Accessible wreck dive. Shallow depth and calm west coast conditions pose minimal risk. Avoid entering confined spaces without wreck diving training. Be aware of the Atlantis Submarine passing nearby.
 
 ---
-*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Ins and Outs of Barbados](https://www.insandoutsbarbados.com/articles/the-shipwreck-capital-of-the-caribbean). Last updated 2026-05-17.*
+*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Ins and Outs of Barbados](https://www.insandoutsbarbados.com/articles/the-shipwreck-capital-of-the-caribbean). Last updated 2026-07-13.*

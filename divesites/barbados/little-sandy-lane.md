@@ -50,4 +50,4 @@ The Sandy Lane Hotel is a visible landmark on the boat ride out — useful orien
 Moderate currents possible on the outer reef edge. Monitor depth at the deeper sections. Carry an SMB for boat pickup.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-07-13.*

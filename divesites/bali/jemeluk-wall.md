@@ -3,7 +3,7 @@ name: Jemeluk Wall
 lat: -8.3373
 lng: 115.6621
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 40
 entryType: shore
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Jemeluk Wall is located at the eastern end of Jemeluk Beach in the Amed area of 
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-25 meters
 - **Water Temperature**: 27-29°C
 - **Current**: Variable, generally mild to moderate
@@ -59,4 +59,4 @@ The wall drops well beyond 40 meters, so uncontrolled descents are a real risk. 
 Jemeluk Wall offers both wide-angle and macro opportunities. The large pink gorgonia fans and barrel sponges along the wall make excellent wide-angle subjects, particularly when backlit or shot with divers for scale. Macro subjects include nudibranchs, ribbon eels, and the invertebrates living on the sponges and corals. The wall structure itself provides dramatic depth perspectives for wide-angle compositions.
 
 ---
-*Sources: [PADI - Jemeluk Wall](https://www.padi.com/dive-site/indonesia/jemeluk-wall/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1091). Last updated 2026-05-17.*
+*Sources: [PADI - Jemeluk Wall](https://www.padi.com/dive-site/indonesia/jemeluk-wall/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1091). Note: the depth field previously listed 30m, contradicting this file's own body text (wall drops 40m+); corrected during re-audit to match sourced content. This site's coordinates are within ~150m of both "Amed Wall" and "Underwater Shrine" — these may describe overlapping features of the same Jemeluk Bay wall/reef system under different names rather than fully distinct sites; flagged for future review, not merged here. Last updated 2026-07-13.*

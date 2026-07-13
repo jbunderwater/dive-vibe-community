@@ -32,7 +32,9 @@ Emerald (also called Batu Emerald) is a reef site located southeast of Tulamben 
 
 ## Marine Life
 
-Confirmed at this site: garden eels in sandy areas, sweetlips, angelfish, bannerfish, turtles, groupers, cuttlefish, octopus, trevally, and bumphead parrotfish. Gorgonian sea fans at depth host pygmy seahorses — up to 10 per fan have been found. Reef sharks are occasionally seen at the 20–30 metre level. The submerged furniture on the sandy slope has become colonised and functions as a critter habitat.
+Confirmed at this site: garden eels in sandy areas, sweetlips, angelfish, bannerfish, turtles, groupers, cuttlefish, octopus, and trevally. Bumphead parrotfish are occasionally sighted here per operator reports. Gorgonian sea fans at depth host pygmy seahorses — one source reports up to 10 per fan, though this specific count is not independently confirmed elsewhere. Reef sharks are occasionally seen at the 20–30 metre level. The submerged furniture on the sandy slope has become colonised and functions as a critter habitat.
+
+Note: difficulty is rated inconsistently across sources — Bali Dive Cove and Bali AQua grade this site Advanced due to depth and current, while Let's Dive Tulamben grades it Intermediate. This entry uses Intermediate pending further confirmation.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Currents are generally mild but can pick up in the afternoon. Lionfish in overha
 Good natural light in the shallows suits wide-angle reef shots and fish portraits. Turtles on the reef provide accessible wide-angle subjects. The fish diversity makes for productive "reef scene" photography. Macro shooters will find nudibranchs and cleaner shrimps in the rubble zones.
 
 ---
-*Sources: [Bali Dive Cove - Emerald](https://www.balidivecove.com/bali-dive-site/emerald/), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/), [Bali Dive Resort & Spa - Tulamben Sites](https://www.balidiveresortandspa.com/dive-sites-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali Dive Cove - Emerald](https://www.balidivecove.com/bali-dive-site/emerald/), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/), [Bali Dive Resort & Spa - Tulamben Sites](https://www.balidiveresortandspa.com/dive-sites-tulamben/), [Let's Dive Tulamben - Emerald](https://letsdivetulamben.com/dive-sites/emerald/). Last updated 2026-07-13.*

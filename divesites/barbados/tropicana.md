@@ -50,4 +50,4 @@ Check under the reef ledges for resting nurse sharks — they rest in the darker
 Moderate currents are common as this is typically a drift dive. Maintain visual contact with the group. The ledge edges drop below recreational limits at the outer reef — monitor depth carefully. Always carry and deploy an SMB for pickup.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/). Last updated 2026-07-13.*

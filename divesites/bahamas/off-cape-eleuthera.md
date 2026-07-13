@@ -17,7 +17,7 @@ Off Cape Eleuthera is a wall and reef dive site along the southwestern coast of 
 
 ## Overview
 
-Cape Eleuthera's leeward coast sits along the Exuma Sound, a body of water reaching depths of 4,000-5,000 feet within one mile of shore. The shelf edge here creates excellent wall diving within recreational depth limits. The dive area features thriving coral reefs on the wall top, dramatic drop-offs, swim-throughs in the reef structure, and a habitat productive enough to support regular reef shark sightings. The Dive Shop at Cape Eleuthera Resort describes its local sites as including coral nurseries, swim-throughs, and walls — all accessible within 7 minutes of the marina.
+Cape Eleuthera's leeward coast sits along the Exuma Sound, a body of water reaching great depth close to shore. The Dive Shop at Cape Eleuthera Resort describes its local sites collectively as including a 25-mile wall dropping to 3,000+ feet, coral nurseries, swim-throughs, blue holes, and reefs — all accessible within about 7 minutes of the marina, with reef shark encounters a regular feature of the general area. That operator description covers the whole Cape Eleuthera dive area rather than this exact location: despite a genuine search (Zentacle, DiveBuddy, ScubaBoard, Dive the World's dedicated Eleuthera site-by-site guide, PADI, and Scuba Diving Magazine), no independent source could be found naming a distinct dive site called "Off Cape Eleuthera." Dive the World's detailed Eleuthera guide lists roughly a dozen named Cape Eleuthera sites (Cave Rock, Cut Through City, Hole in the Wall, Cobia Cage, Jake's Hole, Monolith, Split Coral Head, among others) but none matches this name — it appears to be a generic/community-assigned label for an otherwise-unnamed location along this stretch of wall rather than an established operator site name.
 
 ## Site Information
 
@@ -31,11 +31,11 @@ Cape Eleuthera's leeward coast sits along the Exuma Sound, a body of water reach
 
 ## Marine Life
 
-Reef sharks are commonly encountered along Cape Eleuthera's wall sites. Sea turtles, eagle rays, grouper, barracuda, and large schools of reef fish are typical. The wall face and reef top support diverse coral and sponge communities. The proximity to deep water means pelagic species occasionally move through.
+No source specifically confirms marine life sightings at this exact location. Regional Cape Eleuthera wall/reef fauna (reef sharks, turtles, rays, and reef fish are reported generally for the area by the local dive operator) likely applies here as well, but that is a regional characterization, not a site-specific report, and individual species are not listed for that reason.
 
 ## Dive Profile
 
-Descend to the reef top (approximately 15 meters), then drop to the wall face. The wall runs steeply downward — plan your bottom time conservatively to allow for a proper ascent. The reef top at 10-15 meters provides a productive safety stop zone. Swim-throughs and small caverns are present in the reef structure for qualified divers.
+Descend to the reef top, then drop to the wall face. The wall runs steeply downward — plan your bottom time conservatively to allow for a proper ascent. The reef top provides a safety stop zone. (Swim-throughs and caverns are a feature of several named sites elsewhere along the Cape Eleuthera wall system, per the local dive operator, but are not confirmed specifically for this location.)
 
 ## Entry and Exit
 
@@ -45,11 +45,11 @@ Boat dive only. The Dive Shop at Cape Eleuthera Resort operates from the Cape El
 
 - Current can build significantly on the exposed wall face — check conditions with your operator
 - The wall system extends for miles; ask your operator to take you to the most current-sheltered section if conditions are rough
-- Reef sharks at Cape Eleuthera are habituated to divers — stay calm and they will pass close
+- Confirm with your operator exactly which named site along the wall you'll be diving — "Off Cape Eleuthera" is not a standardized site name among local operators
 
 ## Safety Considerations
 
 The deep drop-off makes depth monitoring critical. Advanced current conditions are possible on exposed sections of the wall. Complete a proper safety stop and carry an SMB. Advanced certification is recommended for divers planning to descend beyond 20 meters on the wall.
 
 ---
-*Sources: [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/), [Scuba Diving Magazine - Eleuthera and Exuma Cays Liveaboard](https://www.scubadiving.com/article/other/mild-and-wild-exploring-bahamas-eleuthera-and-exuma), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*
+*Sources: [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/). Description based on general Cape Eleuthera diving characteristics reported by the local dive operator. No source specifically naming or describing a site called "Off Cape Eleuthera" was found despite searching Zentacle, DiveBuddy, ScubaBoard, PADI, and Dive the World's detailed Eleuthera site guide. Last updated 2026-07-13.*

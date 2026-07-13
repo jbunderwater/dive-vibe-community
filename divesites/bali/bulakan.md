@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Bulakan
 
-Known as Ghost Bay — one of Amed's best muck dive sites, where garden eels, flying gurnard, and frogfish inhabit the black volcanic sand.
+An OSM-tagged site name corresponding to a real place in the Amed area; the muck-diving description attached to it could not be independently confirmed under this exact name during re-audit.
 
 ## Overview
 
-Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sites in the Amed area, situated on the black volcanic sand coastline of northeast Bali. Unlike the classic Amed coral reef sites, Bulakan is characterised by an open sandy bay where the substrate is alive with small burrows, scattered rubble, and sparse coral patches. Garden eels extend from the sand in large colonies, retracting as divers approach. Flying gurnard — a striking fish that spreads its wing-like pectoral fins when disturbed — are a highlight. Blue-spotted stingrays, frogfish, mantis shrimp, and an exceptional diversity of nudibranchs make this a must-visit for underwater photographers.
+"Bulakan" is a real place name in the Amed area, and this entry has previously carried a description matching "Ghost Bay," a separately branded muck dive site nearby with garden eels, flying gurnard, blue-spotted stingrays, and sparse coral on black volcanic sand. However, a direct re-check of the two sources previously cited (baliaqua.com's Amed diving page and ameddiveexplorer.com's site list) found that neither page contains the word "Bulakan" anywhere in the text — they do not independently confirm that this name maps to the muck-site profile described below. The content is retained as unverified rather than removed, since diveconcepts.com documents a similar muck profile ("Ghost Bay (Macro)") in the same general area, but the correspondence between that profile and the specific name "Bulakan" has not been confirmed by a source that uses both the name and the description together.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sit
 
 ## Marine Life
 
-Garden eels in large sandy colonies. Flying gurnard — spread their elaborate pectoral fins when approached. Blue-spotted stingrays partially buried in the sand. Frogfish in various colour forms. Mantis shrimp at burrow entrances. Diverse nudibranchs throughout the rubble zone. Cuttlefish hunt over the sand, and ghost pipefish are found among sparse algae growth.
+The following species are commonly reported for the "Ghost Bay" muck profile that this entry's description is drawn from, but have not been confirmed under the name "Bulakan" specifically: garden eels in large sandy colonies, flying gurnard, blue-spotted stingrays partially buried in the sand, frogfish, mantis shrimp at burrow entrances, diverse nudibranchs, cuttlefish, and ghost pipefish among sparse algae growth. Treat this list as indicative of the general area rather than a confirmed site-specific report.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Camouflaged scorpionfish and stonefish on muck sites are a real hazard — never
 Flying gurnard and garden eels are the headline subjects. Wide-angle with close focus captures the gurnard's wing-like fins spread against the dark sand. Garden eels require a long lens or careful approach — shoot from a distance with a telephoto macro setup. Nudibranchs reward a 100mm macro lens with diopter.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Description based on a muck-diving profile ("Ghost Bay") reported for the general Amed area by [Dive Concepts - Ghost Bay (Macro)](https://diveconcepts.com/bali/spot-ghost-bay-macro.php); the previously-cited [Bali AQua](https://baliaqua.com/bali-dive-sites/amed-diving/) and [Amed Dive Explorer](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/) pages do not actually name "Bulakan" and have been removed as citations for this specific site name pending confirmation. Last updated 2026-07-13.*

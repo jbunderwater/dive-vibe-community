@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "australia",
-    "azores",
-    "bahamas",
-    "bali",
-    "banda-sea",
-    "barbados",
     "belize",
     "belize-barrier-reef",
     "bermuda",
@@ -175,9 +169,94 @@
     "ambon",
     "andaman-islands",
     "antigua-and-barbuda",
-    "aruba"
+    "aruba",
+    "australia",
+    "azores",
+    "bahamas",
+    "bali",
+    "banda-sea",
+    "barbados"
   ],
   "history": [
+    {
+      "date": "2026-07-13",
+      "slugs": [
+        "australia",
+        "azores",
+        "bahamas",
+        "bali",
+        "banda-sea",
+        "barbados"
+      ],
+      "summary": {
+        "sites_total": 109,
+        "sites_validated_today": 9,
+        "sites_re_audited": 105,
+        "hallucinations_removed": 45,
+        "marine_life_stripped": 32,
+        "wreck_conflicts_flagged": 7,
+        "sites_unresolved": 14,
+        "sites_removed_non_dive_site": 3,
+        "by_destination": {
+          "australia": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files; children (great-barrier-reef, lord-howe-island, ningaloo-reef, south-australia-neptune-islands) remain in queue for their own dedicated passes"
+          },
+          "azores": {
+            "sites_total": 14,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "Dori Wreck misidentified as SS Thomas Donaldson (fabricated WWII narrative) -- corrected to real identity SS Edwin L. Drake; SS Slavonia passenger/crew headcount conflict documented rather than picked; Santa Iria/Bahia de Capelas/Lagoa/Rostro de Cao remain unresolved (no site-specific diving source found)"
+          },
+          "bahamas": {
+            "sites_total": 26,
+            "sites_validated_today": 0,
+            "sites_re_audited": 26,
+            "hallucinations_removed": 25,
+            "marine_life_stripped": 20,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 5,
+            "notes": "Initial agent and a bahamas retry both spawned/overlapped with sub-agents against instructions; orchestrator manually reconciled by applying all researched JSON patches (site_type/depth/difficulty/validation_source/notes) that the sub-agents had described but never written to data/osm_clean/bahamas.json, then ran sync_sites.py -- figures above are aggregated across that reconciliation and approximate. Key finds: Curtiss C-46 plane wreck depth corrected 20m->4m (was snorkel-depth, not 15-20m); Normans Key Cut downgraded validated=false (no source names this site; content appears conflated with the real, different 'The Washing Machine' site); Shark Rodeo Cat Island reclassified reef->drift, Intermediate->Advanced, and flagged as likely misattributed from the real Walker Cay 'Shark Rodeo'; Shark Wall New Providence reclassified reef->wall and corrected (was wrongly described as a feeding dive); Stuart Cove Wall and Shark Wall New Providence flagged as likely duplicates of the same real site; Off Cape Eleuthera downgraded validated=false (only 1 real source); Lost Blue Hole Andros flagged as a probable name/location mismatch with a different, real Nassau-area site of the same name."
+          },
+          "bali": {
+            "sites_total": 34,
+            "sites_validated_today": 9,
+            "sites_re_audited": 34,
+            "hallucinations_removed": 15,
+            "marine_life_stripped": 10,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "COMMERCIAL/NON-DIVE-SITE REMOVALS (CLAUDE.md Sec 1/4): Bali Scuba (a PADI dive shop's address, not a site), Water Walk (the 'Seawalker' helmet tourist activity, not scuba), Big Fins TecDiving (a tech-diving operator's office with fabricated hammerhead/Gili Selang content) -- site count 37->34. First agent attempt spawned sub-agents and returned with zero edits; retried with direct-work instructions. Lipah Bay had a fabricated 'confirmed shark nursery... adult and juvenile sharks under table corals' claim, corrected to sourced juvenile-only reports. Bulakan reverted to unvalidated (cited sources never actually name this site). Coral Garden Tulamben depth corrected 15m->28m. Blue Hill Dive Site, Harlequin Slope, Liberty Muck remain unresolved (<3 sources)."
+          },
+          "banda-sea": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites in this destination. Lava Flow mandarinfish claim corrected (only 1 of 5 cited sources actually supports it; Mandarin City is the real site for that). Nailaka Wall unsourced 45m depth claim removed. Overview.md hammerhead-sharks-at-Batu-Kapal claim corrected to Karang Hatta (properly sourced)."
+          },
+          "barbados": {
+            "sites_total": 22,
+            "sites_validated_today": 0,
+            "sites_re_audited": 22,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 1,
+            "notes": "Eillon wreck safety correction: bow air pocket was described as enterable, now correctly flagged as trapped toxic air, unsafe to breathe. Pamir Wreck length/depth conflicts (160-180ft, 25-60ft across sources) documented rather than picked. Carlisle Bay - Berwyn has 3 mutually exclusive scuttling-motive stories, all now presented as unresolved. Coconut Court Reef remains on only 2 independent sources."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/117",
+      "errors": []
+    },
     {
       "date": "2026-07-10",
       "slugs": [

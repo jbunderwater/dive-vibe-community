@@ -32,7 +32,7 @@ Amed Wall is a shore-entry wall dive along the black-sand coastline of northeast
 
 ## Marine Life
 
-The wall hosts a diverse array of reef fish including large schools of fusiliers, angelfish, and surgeonfish. Leaf scorpionfish and various nudibranch species are found in the rubble at the base of the wall. Hawksbill turtles regularly patrol the wall face, and reef whitetip sharks rest in crevices at depth. Macro enthusiasts will find ghost pipefish and robust ghost pipefish among the sea fans. The black-sand substrate at depth is classic Amed muck habitat, where frogfish and flamboyant cuttlefish occasionally appear.
+The wall hosts a diverse array of reef fish including large schools of fusiliers, angelfish, and surgeonfish. Leaf scorpionfish and various nudibranch species are found in the rubble at the base of the wall. Hawksbill turtles regularly patrol the wall face, and whitetip reef sharks are occasionally reported resting in crevices at depth (not a guaranteed sighting). Macro enthusiasts will find ghost pipefish and robust ghost pipefish among the sea fans. The black-sand substrate at depth is classic Amed muck habitat, where frogfish and flamboyant cuttlefish occasionally appear.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents are usually light but can pick up unexpectedly — monitor direction an
 The wall face provides excellent ambient-light wide-angle shots, especially with sea fans as foreground subjects. The muck habitat at the base of the wall is productive for macro work — look for nudibranchs, pipefish, and frogfish. Shoot upward along the wall to capture divers silhouetted against the blue water column.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Note: this site's coordinates are within ~150m of both "Jemeluk Wall" and "Underwater Shrine" — these may describe overlapping features of the same Jemeluk Bay wall/reef system under different names; flagged for future review, not merged here. Last updated 2026-07-13.*
