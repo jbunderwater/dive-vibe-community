@@ -17,7 +17,7 @@ A current-swept wall dive at the corner of Menjangan Island where the reef drops
 
 ## Overview
 
-Blue Corner is situated at a prominent point on Menjangan Island where the reef wall turns sharply and currents accelerate around the corner, attracting schooling fish and pelagic species. The wall drops vertically from the surface to beyond 30 m, draped in gorgonian fans, black coral trees, and colourful soft corals. The corner geometry channels current to produce reliable fish aggregations — schools of trevally, fusiliers, and snapper are a constant presence. The site sits between the main eastern and western wall dive zones and offers a slightly more exposed character suited to intermediate divers comfortable with moderate current.
+Blue Corner is listed as a dive site name at Menjangan Island in several dive-site directories, generally placed toward the island's western corner. However, this QA pass found a significant sourcing problem: the source previously cited for this page — a "Crystal Bay Menjangan" page on diveconcepts.com — actually describes Crystal Bay off Nusa Penida/Nusa Lembongan, more than 100 km away, and makes no reference to Menjangan at all. A related diveconcepts.com page literally titled "Blue Corner" was also checked and turned out to describe a different Blue Corner, at Nusa Lembongan, not Menjangan. Both mismatched sources have been removed. No directly-verified, site-specific source describing Menjangan's "Blue Corner" (its depth, current character, or marine life) could be found during this pass — general Menjangan dive-site listings from gekodivebali.com and balifundiving.com describe the island's other named sites in detail but do not mention a "Blue Corner" among them. The wall/current characterization below reflects the site's general type classification rather than a confirmed site-specific description, and this entry should not be marked as fully validated until a genuine site-specific source is found.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Blue Corner is situated at a prominent point on Menjangan Island where the reef 
 
 ## Marine Life
 
-Schools of bigeye trevally and snapper dominate the corner point. Blacktip reef sharks are frequently seen at 20–30 m. Turtles feed on the wall corals, and large grouper inhabit the deeper overhangs. Moray eels are tucked into crevices throughout the wall, and the gorgonians host nudibranchs and pygmy seahorses for patient searchers.
+No site-specific marine life reports for Blue Corner at Menjangan could be confirmed from available sources during this QA pass. The regional fauna typical of Menjangan's wall dives — reef fish schools, gorgonian-dwelling invertebrates, and occasional reef sharks and turtles — likely applies, but is not documented specifically for this site, so no species list is given here.
 
 ## Dive Profile
 

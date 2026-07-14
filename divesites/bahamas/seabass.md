@@ -17,7 +17,7 @@ Seabass is a reef dive site off Great Exuma Island, documented among a cluster o
 
 ## Overview
 
-Seabass sits in the Great Exuma area alongside Connected Dott and Amberjack Reef, and appears in regional dive condition databases as part of the local site inventory. The name likely reflects the fish species historically abundant at this location. Detailed published descriptions are limited; the information below draws on the broader Great Exuma diving context and conditions data.
+Seabass sits in the Great Exuma area alongside Connected Dott and Amberjack Reef. A thorough search — Dive Exuma's own site, PADI's Exuma listings, TripAdvisor, The Scuba Directory's 12-site Great Exuma index, Zentacle, and general web search — turned up no independent mention of a site called "Seabass." The only reference found remains the scubaweather.com marine-conditions aggregator, which auto-generates a forecast page for the GPS point rather than describing the site. This is most likely an informal name tied to a specific waypoint used by one local operator rather than a broadly documented dive site. The name may reflect fish species historically seen there, but that is speculation, not a sourced fact.
 
 ## Site Information
 
@@ -31,7 +31,7 @@ Seabass sits in the Great Exuma area alongside Connected Dott and Amberjack Reef
 
 ## Marine Life
 
-Great Exuma reefs support healthy populations of Caribbean reef fish. Groupers, snapper, barracuda, parrotfish, and angelfish are common across the region's reefs. Nurse sharks and southern stingrays are regularly encountered, and sea turtles are a frequent sight. The site name suggests historically notable grouper or bass populations.
+No site-specific marine-life reports were found for Seabass. Regional Great Exuma reef fauna likely applies given the habitat and location, but no source confirms which species are actually seen at this specific site, so none are listed as confirmed sightings here.
 
 ## Dive Profile
 
@@ -51,4 +51,4 @@ Access is by boat. Dive Exuma in George Town is the primary local operator offer
 Check conditions with your operator before entry. Carry an SMB for open-water ascents.
 
 ---
-*Sources: [ScubaWeather - Great Exuma Island sites](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). Only one source found; validation status set to false pending additional independent sources. Description based on regional diving characteristics. Last updated 2026-05-17.*
+*Sources: [ScubaWeather - Great Exuma Island sites](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). Only one source found despite an extensive additional search (Dive Exuma, PADI, TripAdvisor, The Scuba Directory, Zentacle checked and none reference this site name); validation status remains false. Description based on regional diving characteristics. Last updated 2026-07-14.*

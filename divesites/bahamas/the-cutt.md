@@ -13,15 +13,15 @@ addedBy: community_contribution
 
 ## The Cutt
 
-The Cutt is a tidal channel dive site in the Abaco Islands of the northern Bahamas, located near Guana Cay. The channel cut between the cays funnels tidal flow, creating currents that attract sharks, rays, and pelagic fish.
+The Cutt is a community-contributed tidal channel dive site in the Abaco Islands of the northern Bahamas. Its recorded GPS coordinates (26.75°N, 77.87°W) place it in the Little Abaco / Crown Haven area at the northern end of the Abaco chain — not near Guana Cay (26.68°N, 77.13°W), which is roughly 75 km to the southeast. This location discrepancy could not be resolved during this research pass and is flagged for a maintainer to check against the original contribution.
 
 ## Overview
 
-Located in the Abaco Island chain near Guana Cay (approximately 26.75°N, 77.87°W), The Cutt is a tidal channel where ocean water is forced between two cay formations. Channel cuts like this one are a feature of Abaco diving — the tidal currents concentrate nutrients and attract larger predatory fish. Divers drop in at one end and drift with the current through the cut, with the boat repositioning to the exit point. Reefs flank the channel and provide the main visual interest between current pulses.
+Re-checking the single source previously on file for this site (a ScubaBoard thread on independent Abaco diving) found that the thread does not actually mention a site called "The Cutt" anywhere in the discussion — it covers other named Abaco sites (Fowl Cays Preserve, Pelican Cays, Grouper Alley, sites near Guana Cay) but not this one. An extensive further search — Dive Guana's own site, other Abaco dive shop listings, ScubaBoard, Zentacle, and general web search — found no source that names or describes a site called "The Cutt." Tidal channel cuts are a real and well-documented feature of Abaco diving in general (channels between cays that concentrate current and draw in reef sharks, turtles, nurse sharks, and eagle rays), so the general description below reflects that regional pattern, not a confirmed report about this specific site. Given the location mismatch and total absence of a site-specific source, this entry most likely represents either an informal name used by a single local contact or a mis-plotted GPS point, and should be treated as unverified.
 
 ## Site Information
 
-- **Location**: Guana Cay area, Abaco Islands, Bahamas
+- **Location**: Recorded coordinates place this in the Little Abaco / Crown Haven area, Abaco Islands, Bahamas (previously described as "near Guana Cay" — that association is not supported by the coordinates and could not be confirmed)
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Maximum Depth**: 18 meters
@@ -30,7 +30,7 @@ Located in the Abaco Island chain near Guana Cay (approximately 26.75°N, 77.87�
 
 ## Marine Life
 
-Tidal channel cuts in Abaco are known to draw Caribbean reef sharks and eagle rays into the current flow. Grouper and snapper congregate around the channel edges. Coral and sponge growth on the channel walls provides habitat for reef fish. The current-driven nutrient flow supports healthy invertebrate communities.
+No site-specific marine-life reports were found for The Cutt. Tidal channel cuts elsewhere in Abaco are documented to draw Caribbean reef sharks, blacktip reef sharks, turtles, nurse sharks, and spotted eagle rays into the current, so similar species plausibly occur here — but no source confirms sightings at this specific location, so none are listed as confirmed for this site.
 
 ## Dive Profile
 

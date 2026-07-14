@@ -17,7 +17,7 @@ Arguably the finest dive at Menjangan Island — a dramatic wall with cave entra
 
 ## Overview
 
-Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali National Park, and is widely regarded as the island's best dive. Small bats inhabit the caves at the waterline, giving the site its name; the underwater cave crevasses begin at around 9 metres and are a haven for invertebrates and critters. The wall drops vertically to beyond 40 metres and is draped in gorgonian sea fans, whip corals, and large barrel sponges. Strong head-on currents sweep in nutrient-rich water, producing dense fish aggregations throughout the water column. The site typically serves as the continuation dive from Pos 2, with divers drifting west along the wall until they reach the cave entrances.
+Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali National Park, and is widely regarded as the island's best dive. Small bats inhabit the caves at the waterline, giving the site its name; the underwater cave crevasses begin at around 9 metres and are a haven for invertebrates and critters. The wall drops vertically to beyond 40 metres and is draped in gorgonian sea fans, whip corals, and large barrel sponges. Strong head-on currents sweep in nutrient-rich water, producing dense fish aggregations throughout the water column. The site is commonly dived in sequence with Pos 2, drifting along the wall until reaching the cave entrances, though this pairing is described only loosely across sources and is not confirmed as a fixed, official dive plan.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali Na
 
 ## Marine Life
 
-Cave crevasses shelter nudibranchs, electric clams, moray eels, and small crustaceans. The open wall hosts schools of bluefin trevally, bigeye trevally, and fusiliers. Blacktip reef sharks patrol the deeper sections, and octopus are commonly spotted in overhangs. Pygmy seahorses hide in the gorgonians between 20–30 m, and the occasional whale shark has been reported drifting past during certain seasons.
+Cave crevasses shelter electric clams and moray eels. The open wall hosts schools of bluefin trevally, bigeye trevally, and fusiliers — confirmed for this specific site by a local operator's dive-site listing. Both blacktip and whitetip reef sharks patrol the wall, and octopus are spotted in overhangs. One dive operator's Bat Cave page specifically reports occasional whale shark sightings drifting past during certain seasons; this is a single-source claim and has not been independently corroborated, so treat it as an occasional/seasonal report rather than a reliable expectation. Nudibranchs, small crustaceans, and pygmy seahorses appear in generic Menjangan-wide species lists but could not be confirmed as reported specifically at Bat Cave, so they have been removed from this description.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents can be strong and unpredictable, particularly on incoming tides. Do not
 The cave entrances provide dramatic silhouette shots with ambient light streaming from above. Wide-angle lenses suit the wall sections with large gorgonians, while macro photographers will find electric clams, nudibranchs, and pygmy seahorses inside the cave crevasses. Morning dives produce the best water column colour.
 
 ---
-*Sources: [Dive Concepts - Bat Cave Menjangan](https://diveconcepts.com/bali/spot-bat-cave.php), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Dive Concepts - Bat Cave Menjangan](https://diveconcepts.com/bali/spot-bat-cave.php), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [Sea Rovers Dive Center - Menjangan Island](https://searovers.net/diving-nw-bali/menjangan-island/), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-07-14.*

@@ -24,14 +24,14 @@ This compact patch reef — roughly 50 feet in length — punches well above its
 - **Location**: Exuma Cays Land and Sea Park, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 15 meters (most sources cite ~15m/50ft; one dive database lists a shallower ~11m maximum)
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate
 - **Best Time**: November to May
 
 ## Marine Life
 
-Up to 10 Caribbean reef sharks are commonly seen circling the reef, alongside nurse sharks resting on the sandy bottom. Large groupers — black grouper, yellowmouth grouper, and yellowfin grouper — are resident on the reef structure. Eagle rays make regular appearances. The sandy seafloor between coral heads is home to garden eels swaying in the current. Lobsters are abundant due to the no-take protections. Smaller residents include pirate blennies and various reef fish.
+Up to 10 Caribbean reef sharks are commonly seen circling the reef, alongside nurse sharks resting on the sandy bottom. Large groupers — black grouper, yellowmouth grouper, and yellowfin grouper — are resident on the reef structure, along with triggerfish. Eagle rays make regular appearances, and horse-eye jacks are reported schooling over the reef. The sandy seafloor between coral heads is home to garden eels swaying in the current. Lobsters are abundant due to the no-take protections. Smaller residents include pirate blennies and various reef fish.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Access is by boat only, typically as part of organised dive trips from Staniel C
 The Caribbean reef sharks present here are habituated to divers but remain wild animals. Do not corner, chase, or attempt to touch sharks. The Exuma Cays Land and Sea Park rules prohibit any interaction that disturbs marine life. Carry an SMB for your ascent.
 
 ---
-*Sources: [Uncommon Caribbean - Amberjack Reef](https://www.uncommoncaribbean.com/exuma/amberjack-reef-exuma/), [Zentacle - Amberjack Reef](https://www.zentacle.com/Beach/10024/amberjack-reef), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-05-17.*
+*Sources: [Uncommon Caribbean - Amberjack Reef](https://www.uncommoncaribbean.com/exuma/amberjack-reef-exuma/), [Zentacle - Amberjack Reef](https://www.zentacle.com/Beach/10024/amberjack-reef), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-07-14.*
