@@ -14,7 +14,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive.visitazores.com,cwazores.com,wikipedia.org,deeperblue.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -32,7 +32,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,portugaldive.com,turismo.azores.gov.pt",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -50,7 +50,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,wikipedia.org,portugaldive.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -62,13 +62,13 @@
     "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,wikipedia.org,turismo.azores.gov.pt",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -86,7 +86,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,uboat.net,padi.com,scubaboard.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -104,7 +104,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,portugaldive.com,scubadiving.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -122,7 +122,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,diveazores.net,diveworldwide.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -140,7 +140,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,portugaldive.com,azoresgetaways.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -158,7 +158,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,turismo.azores.gov.pt,explorefloresisland.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -176,7 +176,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "wikipedia.org,dive.visitazores.com,ggarchives.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -191,7 +191,7 @@
       "name": "Santa Iria",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -206,7 +206,7 @@
       "name": "Bahia de Capelas",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -221,7 +221,7 @@
       "name": "Lagoa",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -236,7 +236,7 @@
       "name": "Rostro de Cao",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-14"
     }
   }
 ]

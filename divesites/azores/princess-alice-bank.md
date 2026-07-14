@@ -45,4 +45,4 @@ Mobula rays (*Mobula tarapacana*) in large summer aggregations — the primary d
 - Trip cancellations are common — build flexibility into your schedule
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/princesa-alice), [CW Azores](https://www.cwazores.com/princess-alice), [Wikipedia – Princess Alice Bank](https://en.wikipedia.org/wiki/Princess_Alice_Bank), [DeeperBlue](https://www.deeperblue.com/exploring-azores-princess-alice-bank/). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/princesa-alice), [CW Azores](https://www.cwazores.com/princess-alice), [Wikipedia – Princess Alice Bank](https://en.wikipedia.org/wiki/Princess_Alice_Bank), [DeeperBlue](https://www.deeperblue.com/exploring-azores-princess-alice-bank/). Last updated 2026-07-14.*

@@ -34,7 +34,7 @@ The cave ceiling is covered with dozens of nudibranch species, making it one of 
 
 ## Marine Life
 
-Inside the cave: schools of large white trevallies, resident dusky groupers (*Epinephelus marginatus*), and a ceiling packed with nudibranchs of many species. Outside: moray eels, Guinean puffers, Mediterranean rainbow wrasses (*Thalassoma pavo*), wide-eyed flounders, ornate wrasses, salema porgies, Azores chromis (*Chromis limbata*), parrotfish (*Sparisoma cretense*), and blacktail combers (*Serranus atricauda*).
+Inside the cave: schools of large white trevallies, resident dusky groupers (*Epinephelus marginatus*), and a ceiling packed with nudibranchs of many species. Outside: moray eels, Guinean puffers, ornate wrasses (*Thalassoma pavo*, also called the Mediterranean rainbow wrasse), wide-eyed flounders, salema porgies, Azores chromis (*Chromis limbata*), parrotfish (*Sparisoma cretense*), and blacktail combers (*Serranus atricauda*).
 
 ## Tips and Recommendations
 
@@ -45,4 +45,4 @@ Inside the cave: schools of large white trevallies, resident dusky groupers (*Ep
 - 15 minutes from Vila Franca do Campo Marina, 30 minutes from Ponta Delgada
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/arcos-da-caloura), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/arcos-da-caloura-65.html), [Scuba Diving Magazine – Azores Guide](https://www.scubadiving.com/azores-scuba-diving-guide). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/arcos-da-caloura), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/arcos-da-caloura-65.html), [Scuba Diving Magazine – Azores Guide](https://www.scubadiving.com/azores-scuba-diving-guide). Last updated 2026-07-14.*
