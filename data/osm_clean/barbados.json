@@ -193,14 +193,14 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
-    "validated": true,
+    "validated": false,
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": "true",
+      "validated": "false",
       "validation_source": "divebarbadosblue.com,barbados.org",
       "last_qa_date": "2026-07-14",
-      "qa_notes": "Re-audited 2026-07-14: searched further (site:tripadvisor, coconut-court.com, general Christ Church dive site searches) but could not find a third independent, site-specific source for this specific shallow shore reef distinct from the nearby boat-accessible 'Carlenes Reef' (80-100ft, a different, deeper site off the same hotel strip per coconut-court.com/thescubaplace.co.uk). Only divebarbadosblue.com and barbados.org remain as sources. Per deep-QA policy this does not meet the 3-source bar; validated left as-is per instructions but flagged as unresolved/insufficient sourcing."
+      "qa_notes": "Re-audited 2026-07-14: searched further (TripAdvisor, coconut-court.com, general Christ Church dive site searches) but could not find a third independent, site-specific source distinct from the nearby boat-accessible 'Carlenes Reef' (80-100ft, a different, deeper site off the same hotel strip per coconut-court.com/thescubaplace.co.uk). Only divebarbadosblue.com and barbados.org found. Downgraded validated=true -> false on re-audit: does not meet the 3-source bar, consistent with this cycle's handling of similar insufficiently-sourced sites in other destinations."
     }
   },
   {
