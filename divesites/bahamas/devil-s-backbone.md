@@ -31,14 +31,14 @@ Stretching approximately 1.4 miles northeast of Spanish Wells at the north end o
 - **Location**: North Eleuthera, Bahamas (near Spanish Wells and Preacher's Cave)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: 8 meters
+- **Maximum Depth**: 8 meters (operator-reported site maximum; some individual wreck sections, notably the Cienfuegos/Vanaheim area, are reported by other sources at up to ~11 meters)
 - **Typical Visibility**: 5-6 meters (conditions can be variable due to surge and sand disturbance)
 - **Current**: Light to moderate
 - **Best Time**: November to May (calmer conditions)
 
 ## Marine Life
 
-Abundant reef fish populations inhabit the wrecks and reef — snapper, grunts, parrotfish, angelfish, Nassau grouper, and barracuda. Nurse sharks and stingrays are commonly encountered resting around the wreck structures. Moray eels occupy crevices in the iron hulls. Brain coral, elkhorn coral, and star coral form the backdrop.
+The local dive operator's own site listing confirms snapper, grunts, parrotfish, angelfish, Nassau grouper, sharks, stingrays, moray eels, and brain coral formations at this site — this is the best-corroborated marine-life list among the five sites reviewed in this pass. Barracuda, and elkhorn/star coral specifically (as distinct from brain coral), are commonly reported for Bahamian reef wrecks generally but were not separately confirmed for this site in the sources checked; they are plausible but not independently verified here.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Boat dive. Ocean Fox Dive Shop on Harbour Island and other local operators offer
 Boat traffic in the area can be significant — always use a dive flag. The shallow depths create surge in any swell. Sand and silt in the wreck structures reduce visibility when disturbed; maintain good buoyancy. The reef is fragile — do not penetrate unguided wreck interiors.
 
 ---
-*Sources: [Ocean Fox Bahamas - Devil's Backbone](https://oceanfoxbahamas.com/devils-backbone/), [Zentacle - Devil's Backbone](https://www.zentacle.com/Beach/3567/devils-backbone), [Project Eleuthera - Underwater Sites](https://www.projecteleuthera.org/underwater-sites), [The Tribune Bahamas - 200 Years of Wrecks](https://www.tribune242.com/news/2026/jan/09/200-years-of-wrecks-across-the-north-central-bahamas-especially-the-devils-backbone/). Last updated 2026-05-17.*
+*Sources: [Ocean Fox Bahamas - Devil's Backbone](https://oceanfoxbahamas.com/devils-backbone/), [Zentacle - Devil's Backbone](https://www.zentacle.com/Beach/3567/devils-backbone), [Project Eleuthera - Underwater Sites](https://www.projecteleuthera.org/underwater-sites), [The Tribune Bahamas - 200 Years of Wrecks](https://www.tribune242.com/news/2026/jan/09/200-years-of-wrecks-across-the-north-central-bahamas-especially-the-devils-backbone/). All four sources independently re-fetched and re-verified 2026-07-14. Last updated 2026-07-14.*

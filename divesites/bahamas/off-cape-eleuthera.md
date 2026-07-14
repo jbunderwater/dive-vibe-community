@@ -13,11 +13,11 @@ addedBy: community_contribution
 
 ## Off Cape Eleuthera
 
-Off Cape Eleuthera is a wall and reef dive site along the southwestern coast of Eleuthera where the island's shelf edge meets the deep Exuma Sound — a 25-mile-long wall system that drops to over 3,000 feet.
+Off Cape Eleuthera is a wall and reef dive site along the southwestern coast of Eleuthera where the island's shelf edge meets the deep Exuma Sound, described by regional sources as a colorful wall dropping to around 2,000 feet (600 meters).
 
 ## Overview
 
-Cape Eleuthera's leeward coast sits along the Exuma Sound, a body of water reaching depths of 4,000-5,000 feet within one mile of shore. The shelf edge here creates excellent wall diving within recreational depth limits. The dive area features thriving coral reefs on the wall top, dramatic drop-offs, swim-throughs in the reef structure, and a habitat productive enough to support regular reef shark sightings. The Dive Shop at Cape Eleuthera Resort describes its local sites as including coral nurseries, swim-throughs, and walls — all accessible within 7 minutes of the marina.
+Cape Eleuthera's leeward coast sits along the Exuma Sound. The shelf edge here creates excellent wall diving within recreational depth limits, with the wall reported to continue down to roughly 600 meters (2,000 feet) offshore. The dive area features thriving coral reefs on the wall top, dramatic drop-offs, and reef structure "punctuated by swim-throughs, small pinnacles and deep drop-offs" (Scuba Diving Magazine), with a habitat productive enough to support regular reef shark sightings. The Dive Shop at Cape Eleuthera Resort describes its local sites as including coral nurseries, swim-throughs, and walls, most of which it says are just minutes from the marina by boat — a precise site count or transit time is not published, so exact figures previously used here have been removed as unconfirmed.
 
 ## Site Information
 
@@ -39,7 +39,7 @@ Descend to the reef top (approximately 15 meters), then drop to the wall face. T
 
 ## Entry and Exit
 
-Boat dive only. The Dive Shop at Cape Eleuthera Resort operates from the Cape Eleuthera marina with access to over 20 sites along this coast.
+Boat dive only. The Dive Shop at Cape Eleuthera Resort operates from the Cape Eleuthera marina with access to numerous sites along this coast.
 
 ## Tips and Recommendations
 

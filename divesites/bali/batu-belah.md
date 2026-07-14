@@ -17,22 +17,22 @@ A coastal reef in the Amed area with rich coral formations rising from a sandy b
 
 ## Overview
 
-Batu Belah is a reef dive site in the Amed area of northeast Bali, accessible directly from shore. The distinctive feature is a substantial coral clump rising from a sandy bottom, creating a dynamic reef habitat with rich nutrients from the nearby Lombok Strait. The reef is considered productive for macro life including frogfish and leaf fish, as well as schooling species like snappers, platax (batfish), and fusiliers. Tuna pass in the blue water beyond the reef. Conditions are generally calm with little to moderate current and good visibility of 15–30 metres.
+Batu Belah is a reef dive site a short distance from Amed village in northeast Bali (some operators group it with the wider "Amed-Tulamben" diving corridor since it sits geographically between the two). It is accessible directly from shore. The distinctive feature is a substantial coral clump rising from a sandy bottom, with dramatic volcanic rock formations, creating a dynamic reef habitat with rich nutrients from the nearby Lombok Strait. The reef is considered productive for macro life including frogfish and scorpionfish, as well as schooling species like snappers, platax (batfish), fusiliers, and trevallies. Conditions are generally calm with mild to moderate current. Note: search results for "Batu Belah" also turn up an unrelated, similarly-named site near Gili Meno, Lombok — that is a different location and is not the site described here.
 
 ## Site Information
 
-- **Location**: Tulamben area, northeast Bali
-- **Entry Type**: Shore entry
+- **Location**: A small bay near Amed village, northeast Bali (also referred to as the Amed-Tulamben area by some operators)
+- **Entry Type**: Shore entry (boat access also offered by some operators)
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 30 meters (operator sources vary, reporting maximums anywhere from about 15 to 40 m depending on how far along the site's slope is explored)
 - **Typical Visibility**: 15–30 metres
 - **Current**: Nil to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Schools of snappers, platax (batfish), and fusiliers are the most characteristic large-group species. Tuna are seen in blue water adjacent to the reef. Nudibranchs, crabs, and mantis shrimp inhabit the substrate. Giant frogfish and leaf scorpionfish — rare species that can be difficult to locate — have been confirmed at this site. The productive Lombok Strait waters support rich fish diversity throughout the reef structure.
+Schools of snappers, platax (batfish), fusiliers, and trevally are the most characteristic large-group species. Nudibranchs, shrimp, and mantis shrimp inhabit the substrate. Frogfish and scorpionfish, including the rare Rhinopias aphanes (weedy scorpionfish), have been reported at this site by multiple local operators — these are difficult-to-locate species best found with a guide. The productive Lombok Strait waters support rich fish diversity throughout the reef structure. Earlier claims of "giant frogfish" and confirmed tuna sightings at this specific site were not corroborated by current sources and have been softened accordingly.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Currents are generally mild with occasional moderate periods. Maintain good buoy
 Both macro and reef-scene photography are rewarding here. The frogfish and leaf scorpionfish are prime macro subjects. Schools of snappers and fusiliers against the reef structure suit wide-angle. Natural light is generally good given the shallow-to-mid depth range.
 
 ---
-*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [PADI - Batu Belah](https://www.padi.com/dive-site/indonesia/batu-belah/), [Dive Navigator - Batu Belah](https://www.divenavigator.com/dive-sites/indonesia/batu-belah). Last updated 2026-05-17.*
+*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [No Fear Diving - Batu Belah](https://nofeardiving.com/dive-sites/batu-belah), [Dive Concepts - Batu Belah](https://diveconcepts.com/bali/spot-batu-belah.php). Last updated 2026-07-14. Note: the PADI and Dive Navigator pages previously cited for this site actually describe a different, unrelated "Batu Belah" near Gili Meno, Lombok, and have been replaced.*
