@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "australia",
-    "azores",
-    "bahamas",
-    "bali",
-    "banda-sea",
-    "barbados",
     "belize",
     "belize-barrier-reef",
     "bermuda",
@@ -175,9 +169,95 @@
     "ambon",
     "andaman-islands",
     "antigua-and-barbuda",
-    "aruba"
+    "aruba",
+    "australia",
+    "azores",
+    "bahamas",
+    "bali",
+    "banda-sea",
+    "barbados"
   ],
   "history": [
+    {
+      "date": "2026-07-14",
+      "slugs": [
+        "australia",
+        "azores",
+        "bahamas",
+        "bali",
+        "banda-sea",
+        "barbados"
+      ],
+      "notes": "australia is isGroup=true parent slug with no own data files (no osm_clean or divesites directory) and none of its children (great-barrier-reef, lord-howe-island, ningaloo-reef, south-australia-neptune-islands) fell in today's batch to substitute; skipped. Two bahamas sub-agent attempts spawned their own background sub-agents and returned before merging results (first attempt returned with zero files touched; retry decomposed into batches but the parent still needed a manual JSON-consolidation pass, which was done directly against each batch's reported findings). The bali agent similarly decomposed into batch sub-agents and returned before finishing JSON consolidation/sync -- a follow-up consolidation agent was dispatched, but it ran before one last batch ('batch 3', 8 sites: Ped/Batu Belah/Bulakan/Pyramids/Coral Garden Tulamben/Menjangan Pos 2/Emerald/Gili Biaha) finished, so those 7 sites' JSON updates (Ped's site_type wall->drift, Bulakan's entry_type boat->shore, validation_source swaps, description corrections) were merged manually afterward. A separate bali sub-agent batch failed mid-run on an API error while processing Mangrove Point; Post I Jetty, Mangrove Point, Manta Bay, Amed Wall, Blue Lagoon, Gili Tepekong North/South, and Crystal Bay (8 sites) were not re-audited this cycle as a result. Three orphaned Bali markdown files with no matching osm_clean entries were removed by sync_sites.py: Bali Scuba and Big Fins TecDiving (both named after commercial dive operators, no legitimate independent dive-site entry existed for them), and Water Walk (a seawalker/helmet-diving activity, not scuba). Barbados's Coconut Court Reef was manually downgraded validated=true->false after its agent flagged only 2 independent sources (below the 3-source bar) but left the flag unresolved -- corrected for consistency with how similarly under-sourced sites were handled elsewhere this cycle.",
+      "summary": {
+        "sites_total": 109,
+        "sites_re_audited": 101,
+        "sites_currently_validated": 95,
+        "sites_unresolved": 14,
+        "by_destination": {
+          "australia": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files; skipped, no substitute available in today's batch"
+          },
+          "azores": {
+            "sites_total": 14,
+            "sites_re_audited": 14,
+            "sites_currently_validated": 10,
+            "sites_unresolved": 4,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 2,
+            "notes": "Corrected a misidentified fish species (Dori Wreck: zebra seabream -> Moroccan white seabream) and a duplicate species listing (Arcos da Caloura). Bumped Ilheu de Vila Franca do Campo Beginner->Intermediate per the cold-water-Atlantic difficulty floor. Santa Iria, Bahia de Capelas, Lagoa, and Rostro de Cao remain unresolved -- sparse coordinate-only entries with no dive-specific source found."
+          },
+          "bahamas": {
+            "sites_total": 26,
+            "sites_re_audited": 26,
+            "sites_currently_validated": 21,
+            "sites_unresolved": 5,
+            "hallucinations_removed": 9,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 5,
+            "notes": "Major correction: Shark Wall New Providence was mischaracterized as a shark-feeding site; it is actually the non-feeding companion dive to Shark Arena. Shark Rodeo Cat Island's difficulty/profile was wrong (bumped Intermediate->Advanced; corrected from a shallow sand-bottom description to an open-water blue-water drift). Curtiss C-46 depth corrected 15-20m->~3-4m (was ~5x too deep). Normans Key Cut downgraded validated=true->false -- its cited sources didn't actually describe the site, and its signature 'washing machine' narrative was misattributed from a different site. Glass Window Bridge downgraded validated=true->false -- only 1 of its cited sources actually covers diving. Wreck conflicts documented (not resolved by guessing) for SS Sapona launch date, Willaurie sinking circumstances, Devil's Backbone depth. Connected Dott, Seabass, and The Cutt remain unresolved (no independent site-specific source found for any of the three)."
+          },
+          "bali": {
+            "sites_total": 34,
+            "sites_re_audited": 26,
+            "sites_currently_validated": 30,
+            "sites_unresolved": 4,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 8,
+            "wreck_conflicts_flagged": 2,
+            "notes": "Blue Corner downgraded validated=true->false -- its two cited sources both turned out to describe different, same-named sites at Nusa Lembongan/Nusa Penida, not this Menjangan site; description rewritten to disclose the error rather than invent site detail. Batu Belah had a similar name-collision issue (cited PADI/Dive Navigator sources described a different Batu Belah in Lombok) -- corrected. Barracuda Wall newly validated (3rd source found). Ped reclassified reef/wall->drift; Bulakan entry_type corrected boat->shore, its unconfirmed 'Ghost Bay' alias removed. USAT Liberty Wreck and Kubu Wreck retain documented (not guessed) length/tonnage/date conflicts. Blue Hill Dive Site, Harlequin Slope, and Liberty Muck remain unvalidated (<3 independent sources despite genuine search effort). 8 sites (Post I Jetty, Mangrove Point, Manta Bay, Amed Wall, Blue Lagoon, Gili Tepekong North/South, Crystal Bay) were not re-audited this cycle after a sub-agent batch failed mid-run on an API error. 3 orphaned non-dive-site markdown files removed (2 named after commercial dive operators, 1 a seawalker activity)."
+          },
+          "banda-sea": {
+            "sites_total": 13,
+            "sites_re_audited": 13,
+            "sites_currently_validated": 13,
+            "sites_unresolved": 0,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "notes": "No wreck sites in this destination. Jackpot's confident 'at Serua Island' location claim corrected to disclose a genuine source conflict (Original Diving/Liveaboard Indonesia say Serua; X-Ray Mag says Suanggi Island near Banda Neira) -- the site's own stored coordinates are consistent with Suanggi, not the far-more-distant Serua. All 13 sites cleanly re-validated with 3+ independent sources."
+          },
+          "barbados": {
+            "sites_total": 22,
+            "sites_re_audited": 22,
+            "sites_currently_validated": 21,
+            "sites_unresolved": 1,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 4,
+            "notes": "No outright fabrications found; corrections were mostly under-hedged claims broadened into sourced ranges. Eillon markdown gained a missing safety-critical fact: its bow air pocket contains toxic, unsafe-to-breathe air. Wreck conflicts documented for SS Stavronikita, Pamir Wreck, Friars Craig Wreck, and Lord Combermere (length/depth/date disputes across sources). Coconut Court Reef downgraded validated=true->false on manual review -- its agent found only 2 independent sources (below the 3-source bar) but had left it validated; corrected for consistency."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": [
+        "bahamas: first QA agent attempt spawned its own background sub-agents and returned with zero files edited; retried successfully with an agent instructed to work directly (though it too decomposed into batch sub-agents, this time reconciling their results into a full merge before returning)",
+        "bali: QA agent decomposed into batch sub-agents and returned before finishing JSON consolidation/sync; a follow-up consolidation agent was dispatched but also returned before the last batch finished, requiring a final manual merge",
+        "bali: one batch sub-agent ('Bali dive site QA batch 2') failed mid-run on a server-side API error while processing Mangrove Point; its assigned sites were not re-attempted this cycle"
+      ]
+    },
     {
       "date": "2026-07-10",
       "slugs": [
