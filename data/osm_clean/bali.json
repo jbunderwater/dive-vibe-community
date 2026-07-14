@@ -577,8 +577,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "description": "~3km SE of Tulamben near Seraya village. Three sub-sites: Top Secrets (shallow), Deep Secrets (to ~35m), Noisy Reef (juvenile triggerfish sounds). Silty black volcanic sand - strict buoyancy required. Metal dome artificial structure colonised by soft corals. Confirmed species: nudibranchs (donut, pikachu), harlequin shrimp, Coleman/tiger shrimp, boxer crabs, frogfish, ghost pipefish, pygmy seahorses, blue-spotted stingrays, mimic octopus, moray eels. Night: Spanish dancers. NOTE: No airplane frame exists at this site - earlier description was in error.",
-      "last_qa_date": "2026-06-08"
+      "description": "~3km SE of Tulamben near Seraya village. Three sub-sites: Top Secrets (shallow), Deep Secrets (to ~35m), Noisy Reef (juvenile triggerfish sounds). Silty black volcanic sand - strict buoyancy required. Metal dome artificial structure colonised by soft corals. Confirmed species: nudibranchs (donut, pikachu), harlequin shrimp, Coleman/tiger shrimp, boxer crabs, frogfish, ghost pipefish, pygmy seahorses, blue-spotted stingrays, mimic octopus, moray eels. Night: Spanish dancers. NOTE: No airplane frame exists at this site - earlier description was in error. Third independent source (diveotion.com) confirms depth range and sub-site structure.",
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -596,8 +596,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "description": "Black sand muck area adjacent to USAT Liberty wreck at Tulamben. Shore entry. Sand ridges perpendicular to shore, 12-28m. Only 2 sources found - requires additional independent validation for 3-source requirement.",
-      "last_qa_date": "2026-06-08"
+      "description": "Black sand muck area adjacent to USAT Liberty wreck at Tulamben. Shore entry. Sand ridges perpendicular to shore, 12-28m. Real re-search effort (dive shops, ScubaBoard, dive databases) found no third independent source naming this specific site \"Liberty Muck\" - the muck area beside the wreck is widely described generically by operators but rarely under this exact name. Remains at 2 sources and unvalidated.",
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -615,8 +615,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "description": "Kubu village, 3.5km NW of Tulamben. Sandy ridges with coral outcrops shallowing to deeper reef with small wall beyond 30m. Two sub-sites. Anglerfish (multiple color morphs), pygmy seahorses on gorgonias, ghost pipefish, barrel sponges. Local porters assist with equipment. Shore entry over rocky shoreline.",
-      "last_qa_date": "2026-06-08"
+      "description": "Kubu village, 3.5km NW of Tulamben. Sandy ridges with coral outcrops shallowing to deeper reef with small wall beyond 30m. Two sub-sites. Anglerfish (multiple color morphs including yellow, white/clown, black striped), pygmy seahorses on gorgonias, ghost pipefish, barrel sponges. Local porters assist with equipment. Shore entry over rocky shoreline.",
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -653,8 +653,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "description": "East end of Jemeluk Beach, Amed. Slope steepens to wall dropping to 50m+. Upper slope: small gorgonias, barrel sponges, large pink gorgonia fans, hard corals. Moray eels in crevices, ribbon eels in sandy areas, clownfish in anemones on upper slope. Wall top at ~15m. Shore entry from beach. ~10 min from Hotel Uyah. Intermediate to Advanced due to depth.",
-      "last_qa_date": "2026-06-08"
+      "description": "East end of Jemeluk Beach, Amed. Slope steepens to wall dropping 40m or more. Upper slope: small gorgonias, barrel sponges, large pink gorgonia fans, hard corals. Moray eels in crevices, ribbon eels in sandy areas near base of slope, clownfish in anemones on upper slope. Shore entry from beach. ~10 min from Hotel Uyah. Intermediate to Advanced due to depth.",
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -666,14 +666,14 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "baliaqua.com,ameddiveexplorer.com,michaelmcfadyenscuba.info",
+    "validation_source": "baliaqua.com,ameddiveexplorer.com,michaelmcfadyenscuba.info,balifabdive.com",
     "tags": {
       "name": "Lipah Bay",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "description": "~12 min from Amed. Sandy slope to 40m with artificial reef structures (coral-colonised), natural coral patches, large bommies with gorgonias and barrel sponges. Confirmed shark nursery area - baby and juvenile reef sharks shelter under large table corals alongside adult reef sharks. Hawksbill and green turtles regular. Large moray eels. Shore entry over black pebble beach. All levels when calm. Site_type corrected from wall to reef.",
-      "last_qa_date": "2026-06-08"
+      "description": "~12 min from Amed. Sandy slope to 40m with artificial reef structures (coral-colonised), natural coral patches, large bommies with gorgonias and barrel sponges. Confirmed shark nursery site - juvenile whitetip reef sharks regularly found resting under large table corals; McFadyen's dive log describes only a single shark-like animal on one visit, so sightings evidently vary by visit. Turtles regular. Large moray eels. Shore entry over black pebble beach. All levels when calm. Site_type corrected from wall to reef.",
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -685,14 +685,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "michaelmcfadyenscuba.info,ameddiveexplorer.com",
+    "validation_source": "michaelmcfadyenscuba.info,ameddiveexplorer.com,nofeardiving.com",
     "tags": {
       "name": "Barracuda Wall",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "description": "Drift dive from east end of Bunutan Beach heading east-southeast. Wall densely covered in thousands of barrel sponges and hundreds of gorgonia fans. Large garden eel colonies on sandy bottom - among largest in Amed area. Ribbon eels and moray eels in wall crevices. Very large brain corals. Current-assisted drift; boat follows bubbles for pickup. Note: only 2 sources found.",
-      "last_qa_date": "2026-06-08"
+      "description": "Drift dive from east end of Bunutan Beach heading east-southeast. Also marketed by local operators as \"Bunutan Wall\" / \"The House of Barracudas\" - same drift dive, corroborating depth, wall structure, garden eels, and barracuda. Wall densely covered in thousands of barrel sponges and hundreds of gorgonia fans. Large garden eel colonies on sandy bottom - among largest in Amed area. Ribbon eels and moray eels in wall crevices. Very large brain corals. Current-assisted drift; boat follows bubbles for pickup. Third independent source (nofeardiving.com) found, upgrading validation.",
+      "last_qa_date": "2026-07-14"
     }
   }
 ]
