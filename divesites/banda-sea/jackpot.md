@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Jackpot
 
-Jackpot is an advanced pinnacle dive site at Serua Island, a remote volcanic outpost southeast of the main Banda archipelago. The name reflects the site's reputation for high-payoff encounters: when conditions are right, this is one of the Banda Sea's better-known spots for scalloped hammerhead sharks and large pelagic aggregations.
+Jackpot is an advanced pinnacle dive site in the remote southern Banda Sea, one of the region's better-known spots for scalloped hammerhead sharks and large pelagic aggregations. Sources disagree on which island the "Jackpot" pinnacle actually belongs to: trip reports from Original Diving and Liveaboard Indonesia place it at Serua Island, part of the Forgotten Islands chain south of the main Banda archipelago, while X-Ray Mag identifies "Jackpot" as a feature of Suanggi, a solitary seamount northwest of Banda Neira. This entry's recorded coordinates sit within the Banda Sea destination boundary close to Banda Neira, which is more consistent with the Suanggi identification — but this has not been independently confirmed, and the name may be applied by different operators to more than one hammerhead pinnacle in the region.
 
 ## Overview
 
 The site features deep-water pinnacles covered in large coral formations and substantial pink barrel sponges. Strong currents sweep the pinnacle tops and flanks, concentrating fish in impressive aggregations. Divers commonly perform negative entries and use reef hooks to shelter from the current before positioning to watch the show. Schooling jacks, large tuna schools, grey reef sharks, and groupers are regular presences.
 
-Scalloped hammerhead sharks are reported here during upwelling periods. Multiple sources indicate hammerhead sightings during the South East wind season (approximately June–September) when nutrient-rich upwellings develop around Serua, as well as during the broader October–November peak season across the Banda Sea.
+Scalloped hammerhead sharks are reported here during upwelling periods. Sources give somewhat different windows — Original Diving's trip report cites April, May, September, and October, while other Banda Sea operator guides emphasize a June–September SE-wind upwelling and an October–November peak — but all agree the broader September–November stretch is the most reliable window and that sightings are never guaranteed.
 
-The site earns its "Jackpot" name from the unpredictability typical of remote Banda Sea pinnacles — on a productive dive, divers can encounter schooling fish, coral walls, and huge barrel sponge formations in a single dive. Conditions vary considerably.
+Given the naming ambiguity, treat "Jackpot" as a regional pinnacle-and-hammerhead site name used by Banda Sea liveaboard operators rather than a precisely pinned single location. Conditions vary considerably from trip to trip.
 
 ## Dive Profile
 
@@ -29,7 +29,7 @@ Pinnacle dive from the surface to 40+ m. Most action at 15–35 m on the pinnacl
 
 ## Marine Life
 
-- Scalloped hammerhead sharks (most likely during SE wind upwelling, June–September, and October–November peak season; not guaranteed)
+- Scalloped hammerhead sharks (most likely September–November; some sources also cite April–May and June–September windows; not guaranteed)
 - Grey reef sharks in the water column
 - Schooling jacks and large tuna schools
 - Large groupers
@@ -38,7 +38,7 @@ Pinnacle dive from the surface to 40+ m. Most action at 15–35 m on the pinnacl
 
 ## Entry / Exit
 
-Boat dive from liveaboard. Serua Island is only accessible by liveaboard. Negative entry is standard. Drift exit with SMB pickup by tender.
+Boat dive from liveaboard only — whichever seamount is being visited, it is reachable solely by dedicated Banda Sea liveaboard itinerary. Negative entry is standard. Drift exit with SMB pickup by tender.
 
 ## Safety
 
@@ -49,4 +49,4 @@ Advanced dive due to strong currents and remote location. Surface marker buoy ma
 Wide-angle pinnacle photography — the barrel sponge formations and schooling fish make strong subjects. Hammerhead encounters in clear water are exceptional but not guaranteed.
 
 ---
-*Sources: [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [Mermaid Liveaboards - Serua](https://www.mermaid-liveaboards.com/dive_spots/serua/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php). Last updated 2026-05-17.*
+*Sources: [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [Liveaboard Indonesia - Banda Sea](https://liveaboardindonesia.com/destinations/banda-sea/), [Mermaid Liveaboards - Serua](https://www.mermaid-liveaboards.com/dive_spots/serua/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php). Sources conflict on whether "Jackpot" refers to a site at Serua Island or Suanggi Island; see note above. Last updated 2026-07-14.*
