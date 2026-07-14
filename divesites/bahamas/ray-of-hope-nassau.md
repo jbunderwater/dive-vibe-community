@@ -33,7 +33,7 @@ The Ray of Hope is a 200-foot cargo freighter, last legally registered as Haitia
 
 ## Marine Life
 
-The wreck hosts large groupers throughout the superstructure and hull. Schools of glassfish and sweepers fill the interior spaces. Spotted moray eels occupy crevices. The encrusted exterior supports a diverse invertebrate community. Caribbean reef sharks patrol the area around the wreck. The open sandy bottom at 50 meters hosts southern stingrays. Sea turtles occasionally visit the shallower upper sections of the superstructure.
+Nassau grouper are commonly reported around the wreck, along with snapper, angelfish, grunts, butterflyfish, and horse-eye jacks. Caribbean reef sharks are the site's best-documented residents, drawn in part by Stuart Cove's shark-feed program run here and at the adjacent Bahama Mama. Sponges, gorgonians, and sea fans cover the exterior. Claims of glassfish, sweepers, or moray eels specifically at this site are not confirmed by the sources reviewed and have been removed; a previous reference to stingrays on a "50 meter" sandy bottom was a data error (the wreck's own maximum depth is 18 m) and has been corrected/removed.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The accessible depth (12–18 m) means excellent natural light — strobes are o
 - Combine with Stuart Cove Wall for a Nassau two-tank deep dive day
 
 ---
-*Sources: [DreamWrecks - Ray of Hope Bahamas](https://dreamwrecks.com/ray-of-hope-bahamas-shipwreck), [DeeperBlue - Ray of Hope newest wreck](https://www.deeperblue.com/the-ray-of-hope-is-the-newest-wreck-dive-in-the-bahamas/), [Scuba Diving Magazine - Wreck Diving with Stuart Cove's](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Stuart Cove's Dive Bahamas](https://stuartcove.com/). Last updated 2026-05-17.*
+*Sources: [DreamWrecks - Ray of Hope Bahamas](https://dreamwrecks.com/ray-of-hope-bahamas-shipwreck), [DeeperBlue - Ray of Hope newest wreck](https://www.deeperblue.com/the-ray-of-hope-is-the-newest-wreck-dive-in-the-bahamas/), [Scuba Diving Magazine - Ray of Hope becomes newest wreck](https://www.scubadiving.com/article/news/iray-hopei-becomes-newest-wreck-grace-bahamian-reefs). Last updated 2026-07-14.*

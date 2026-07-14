@@ -5,7 +5,7 @@ lng: 115.5160285
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: drift
 ref: null
 osmId: 4742534378
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Ped
 
-A drift dive along Nusa Penida's sheltered north coast — sloping reefs, resident turtles, and frequent pelagic encounters.
+A drift dive along Nusa Penida's sheltered north coast — a gently sloping reef in front of the Pura Ped temple, with resident turtles and frequent pelagic encounters.
 
 ## Overview
 
-Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside SD, Sental, and Buyuk — that line the more sheltered northern coastline of the island. The site features sloping coral reefs with consistent current that creates ideal conditions for drift diving through rich fish life. Unlike the dramatic, exposed southern sites, PED is more sheltered from the Indian Ocean swell, making it a reliable choice when conditions elsewhere are challenging. The current-swept slopes bring nutrient-rich water that supports dense populations of reef fish, turtles, and occasional pelagic visitors including giant trevally and, in season, mola mola.
+Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside SD, Sental, and Buyuk — that line the more sheltered northern coastline of the island. Named for the nearby Pura Ped temple, the site is a gently sloping reef rather than a true vertical wall: the bottom slopes gradually from the shallows down to roughly 15–17 m before steepening further into deeper water. It is usually dived as a drift, with current strength varying from an easy drift on most days to occasionally strong. Unlike the dramatic, exposed southern sites, PED is more sheltered from the Indian Ocean swell, making it a reliable choice when conditions elsewhere are challenging. The slopes support dense populations of reef fish and turtles, with mola mola reported here in season more consistently than at some neighboring north-coast sites.
 
 ## Site Information
 
-- **Location**: North coast of Nusa Penida, Bali region
+- **Location**: North coast of Nusa Penida, in front of the Pura Ped temple, Bali region
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Site Type**: Drift dive over a sloping reef
+- **Difficulty Level**: Beginner to Intermediate (rated Intermediate here for the variable current)
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 m
-- **Current**: Moderate; consistent drift current along the wall
+- **Current**: Variable; usually an easy drift, occasionally strong
 - **Best Time**: April to October
 
 ## Marine Life
 
-Green and hawksbill turtles are commonly found on the reef slope. Dense schools of fusiliers, anthias, and sweetlips follow the current along the wall. Giant trevally hunt in the blue water, and reef sharks are frequently sighted. During the July–October mola mola season, oceanic sunfish have been reported here. Macro life includes nudibranchs, shrimps, and small cephalopods in coral crevices.
+Turtles are a reliable sighting on the reef slope, and butterflyfish, triggerfish, and parrotfish are commonly reported by local operators. During the July–October mola mola season, PED is noted by Nusa Penida dive shops as one of the more reliable north-coast sites for oceanic sunfish encounters, sometimes ahead of neighboring SD Point. Claims of reef sharks and dense pelagic schooling at this specific site were not confirmed in current source material and have been removed; divers should treat any shark or large-pelagic sighting as a bonus rather than an expectation.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Drift currents can be strong and may accelerate unexpectedly. Stay aware of dept
 
 ## Photography
 
-Wide-angle suits the sloping reef with schools of fusiliers and turtles. Turtles grazing in the shallows offer portrait opportunities with good natural light. The current-swept character of the site means quick composition is needed — practice shooting on the move.
+Wide-angle suits the sloping reef and passing turtles. Turtles grazing in the shallows offer portrait opportunities with good natural light. The current-swept character of the site means quick composition is needed — practice shooting on the move.
 
 ---
-*Sources: [Nusa Penida.org - Ped, SD Point, Sental](https://nusapenida.org/ped-sd-point-sental-buyuk-tugu), [Purple Dive Penida - Ped](https://www.purpledivepenida.com/ped), [Aquamarine Diving - Sental, Ped, SD](https://www.aquamarinediving.com/bali-diving/dive-sites/nusa-penida-lembongan/sental-ped-sd/). Last updated 2026-05-17.*
+*Sources: [Nusa Penida.org - Ped, SD Point, Sental](https://nusapenida.org/ped-sd-point-sental-buyuk-tugu), [Purple Dive Penida - Ped](https://www.purpledivepenida.com/ped), [Aquamarine Diving - Sental, Ped, SD](https://www.aquamarinediving.com/bali-diving/dive-sites/nusa-penida-lembongan/sental-ped-sd/). Last updated 2026-07-14.*

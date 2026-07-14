@@ -27,7 +27,7 @@ Blue Corner is listed as a dive site name at Menjangan Island in several dive-si
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 m
-- **Current**: Moderate to strong at the corner point
+- **Current**: Not independently confirmed for this specific site; treated as moderate to strong based on the "corner" naming and general wall-dive character, pending a verified source
 - **Best Time**: April to November
 
 ## Marine Life
@@ -36,7 +36,7 @@ No site-specific marine life reports for Blue Corner at Menjangan could be confi
 
 ## Dive Profile
 
-Descend to 15–20 m and position on the upcurrent side of the corner. Allow the current to carry you around the point where fish aggregations are densest. After rounding the corner, ascend gradually up the wall and drift to a sheltered area for the safety stop at 5 m. Total dive time 45–55 minutes.
+A generic wall-dive profile applies until site-specific information is confirmed: descend to 15–20 m and position on the upcurrent side of the corner, allow the current to carry you around the point, then ascend gradually up the wall and drift to a sheltered area for the safety stop at 5 m. Total dive time is typically 45–55 minutes for this style of dive.
 
 ## Entry and Exit
 
@@ -45,10 +45,9 @@ Jukung boat from Labuhan Lalang. Entry via back roll on the upcurrent side. Curr
 ## Tips and Recommendations
 
 - Approach the corner at depth to stay below the strongest surface current
-- Station yourself at 15–20 m to watch the show as fish circle the point
-- Check gorgonians on the wall for pygmy seahorses while currents are manageable
 - Carry a reef hook if your operator provides one for current-swept corners
 - Combine with Pos 2 or Bat Cave for a full Menjangan diving day
+- Ask your dive guide for current, depth, and marine-life specifics before the dive — this write-up could not independently confirm site-specific details
 
 ## Safety Considerations
 
@@ -56,7 +55,7 @@ Currents can be strong and may reverse unexpectedly as the tide changes. Do not 
 
 ## Photography
 
-The corner's fish aggregations provide spectacular wide-angle subjects — schools of trevally backlit against the blue water are the signature shot. Reef sharks on the wall add drama. Wide-angle with dual strobes works best; save macro for the calmer sections of the wall where current is reduced.
+Current-swept corner points at Menjangan generally favor wide-angle setups for wall and blue-water shots, with macro better suited to calmer sections of the wall where current is reduced. Species-specific shot recommendations have been removed pending a confirmed site-specific source.
 
 ---
-*Sources: [Dive Concepts - Crystal Bay Menjangan](https://diveconcepts.com/bali/spot-crystal-bay.php), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-05-17.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-07-14.*

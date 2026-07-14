@@ -13,11 +13,11 @@ addedBy: community_contribution
 
 ## Normans Key Cut
 
-Normans Key Cut (Norman's Cay Cut) is one of the most dramatic drift dives in the Exuma Cays, where tidal flow through a narrow channel between Norman's Cay and the next island propels divers through a colorful reef system at speed.
+Normans Key Cut (Norman's Cay Cut) is a tidal channel drift dive in the Exuma Cays, where tidal flow through a narrow channel near Norman's Cay propels divers along at speed. Site-specific details beyond this general description are not well documented (see Overview).
 
 ## Overview
 
-Located at the northern end of the Exuma Cays just south of Highbourne Cay, Norman's Cay Cut is a tidal channel dive that begins in around 15 feet (5m) of water and sweeps divers down to 50 feet (15m) as the current accelerates through the cut. When the tide is running correctly, the current drops divers through a boulder shoot into a basin, then lifts them back up — a sequence some describe as a natural "washing machine." The reef flanking the channel is healthy and colourful, with visibility typically excellent in these protected waters. Timing is everything: the dive has a narrow window and requires knowledge of local tidal patterns.
+Located in the Exuma Cays near Norman's Cay, south of Highbourne Cay, Norman's Cay Cut is a tidal channel where water is forced between cays as the tide changes, generating currents used for drift diving. Re-checking the three sources previously cited for this site found that none of them actually describe Norman's Cay Cut specifically: the ScubaBoard-adjacent source only covers the general Exuma Cays Land and Sea Park wall, the Dive the World Exuma Cays page does not mention this site by name, and the Zentacle citation pointed to the site's homepage rather than a page about this location. Notably, the distinctive "boulder shoot into a washing machine basin" description and specific current-speed figures previously used here appear to actually describe **The Washing Machine**, a separately and well-documented dive site directly off Highbourne Cay marina — a different location from Norman's Cay Cut. That narrative has been removed from this entry to avoid misattributing another site's characteristics. What can be said with reasonable confidence, based on boating/anchorage references for the area, is that the cut experiences strong reversing tidal current as the tide changes; beyond that, no dive-specific source describing Norman's Cay Cut's depth profile, current speed, or a distinguishing "basin" feature could be located.
 
 ## Site Information
 
@@ -25,17 +25,17 @@ Located at the northern end of the Exuma Cays just south of Highbourne Cay, Norm
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Maximum Depth**: 15 meters
-- **Current**: Strong tidal flow — can exceed 4-6 knots at peak; dive at correct tidal stage
-- **Typical Visibility**: 20-30 meters
+- **Current**: Reported as a strong, tide-reversing current typical of Exuma Cays cuts; no source gives a confirmed knot figure specific to this site
+- **Typical Visibility**: Not specifically confirmed for this site — likely good, consistent with the generally clear water of the protected Exuma Cays
 - **Best Time**: November to May
 
 ## Marine Life
 
-The current draws nutrients through the channel, attracting larger pelagic species. Caribbean reef sharks and eagle rays are commonly encountered in the cut. The reef walls host grouper, snapper, moray eels, sea fans, and sponges. Sea turtles are frequently seen in the Exuma Cays throughout the year.
+No site-specific marine-life reports were found for Norman's Cay Cut. Exuma Cays cuts and drift sites in general are documented to attract Caribbean reef sharks, eagle rays, and turtles into the current, so similar species plausibly occur here — but no source confirms sightings at this specific location, so none are listed as confirmed for this site.
 
 ## Dive Profile
 
-Enter the water at the up-current end of the channel when tidal flow is building. The current will carry you down through the boulder shoot to around 15m, then back up through the "washing machine" section. The entire drift typically takes 10-15 minutes. The boat positions at the exit end to pick up divers as they surface.
+Enter the water at the up-current end of the channel when tidal flow is building, and drift with the current toward the exit point. Beyond that general drift-diving pattern, no source-confirmed profile (exact depths, dive duration, or a distinguishing terrain feature) exists for this specific site — treat any more detailed description as unconfirmed until verified with a local operator.
 
 ## Entry and Exit
 
@@ -46,7 +46,7 @@ Drift dive by boat only. This site requires an experienced local boat captain wh
 - Advanced certification and prior drift diving experience are strongly recommended
 - Deploy your SMB before the final ascent so the boat can track you
 - Surrender to the current — fighting it wastes air and energy
-- Check the tide tables with your dive operator; the entry window may be only 20-30 minutes wide
+- Check the tide tables with your dive operator; cut dives generally have a narrow entry window around the tidal stage
 
 ## Safety Considerations
 
