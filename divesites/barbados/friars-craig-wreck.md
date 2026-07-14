@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Friars Craig Wreck
 
-A 170-foot (52-metre) Dutch-built inter-island freighter scuttled on 2 July 1985 off Barbados's south coast — broken into three sections by south coast swells and lying at 14–17 metres, with breeding French angelfish pairs, stingrays, and rich sponge and coral encrustation.
+A 170-foot (52-metre) Dutch-built inter-island freighter scuttled in July 1985 off Barbados's south coast — broken into three sections by south coast swells, with breeding French angelfish pairs, stingrays, and rich sponge and coral encrustation.
 
 ## Overview
 
-The Friars Craig is a Dutch-built inter-island freighter and the sister ship of the Pamir (see separate entry). She was scuttled on 2 July 1985 off Barbados's south coast near the Asta Hotel in Christ Church parish, after spending a decade moored in Carlisle Bay. At 170 feet (approximately 52 metres), she is significantly larger than most other Barbados wrecks outside the Stavronikita. South coast ocean swells have over time fractured the hull into three pieces, which lie at 14–17 metres (45–55 feet). A combined wreck and reef dive is possible, as a productive reef is located immediately adjacent to the wreck site. Caribbean Beat magazine described her as one of Barbados's most richly encrusted wrecks. Visibility averages 15–25 metres. Water temperature is 26–28°C.
+The Friars Craig is a Dutch-built inter-island freighter and the sister ship of the Pamir (see separate entry). She was scuttled off Barbados's south coast near the Asta Hotel in Christ Church parish, after spending a decade moored in Carlisle Bay. Dive Hightide gives the exact sinking date as 2 July 1985; Caribbean Beat corroborates the month and year (July 1985) but does not give a specific day. At 170 feet (approximately 52 metres), she is significantly larger than most other Barbados wrecks outside the Stavronikita. South coast ocean swells have over time fractured the hull into three pieces. Depth is reported inconsistently across sources: Caribbean Beat and Dive Hightide both give approximately 45–55 feet (14–17 metres), while a NUMA reprint gives 70 feet (21 metres) — the shallower, more consistently reported figure is used here. A combined wreck and reef dive is possible, as a productive reef is located immediately adjacent to the wreck site. Caribbean Beat magazine described her as one of Barbados's most richly encrusted wrecks. Visibility averages 15–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -56,4 +56,4 @@ Do not penetrate enclosed hull spaces without wreck training. Monitor conditions
 The encrusted three-piece hull sections, breeding French angelfish pair, and the transition from wreck to reef at the site boundary offer varied photographic subjects. Natural light is adequate for the shallower deck sections.
 
 ---
-*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/), [NUMA](https://numa.net/2015/05/shipwrecks-of-barbados/). Last updated 2026-05-17.*
+*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/), [NUMA](https://numa.net/2015/05/shipwrecks-of-barbados/). Last updated 2026-07-14.*

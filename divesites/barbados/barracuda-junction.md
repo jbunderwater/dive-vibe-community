@@ -50,4 +50,4 @@ The barracuda school is most impressive viewed from below, silhouetted against t
 Moderate current requires drift diving experience. The drop-off past recreational depth demands careful awareness. Maintain visual contact with dive buddies. Always carry and deploy an SMB for pickup.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners). Last updated 2026-07-14.*

@@ -56,4 +56,4 @@ Straightforward at 11 metres in calm bay conditions. Fire coral is present. DSMB
 The accessible depth and calm bay conditions make the Bajan Queen suitable for natural-light photography. The intact superstructure, barrel sponges, spadefish schools, and turtle encounters are the main subjects.
 
 ---
-*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/). Last updated 2026-05-17.*
+*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/). Last updated 2026-07-14.*

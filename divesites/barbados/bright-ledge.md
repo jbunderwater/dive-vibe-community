@@ -56,4 +56,4 @@ DSMB required. Fire coral is present. Maintain buoyancy throughout. Monitor air 
 The ledge structure, hawksbill turtle encounters, and schooling tropical fish provide strong photographic subjects. Natural light is good in the 8–18 metre range in morning conditions.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-07-14.*
