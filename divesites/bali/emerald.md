@@ -17,7 +17,7 @@ A sloping reef and drift site southeast of Tulamben Bay — accessible only by b
 
 ## Overview
 
-Emerald (also called Batu Emerald) is a reef site located southeast of Tulamben Bay, past Batu Kelebit along the northeast Bali coastline, accessible by a short ~5-minute jukung boat ride from Tulamben. The site begins in a shallow sandy bay with scattered reef before transitioning to a sloping reef richer in hard corals, large barrel sponges, and gorgonian fans from approximately 12–30 metres. A submerged chair and table have been placed along the sandy slope as an additional artificial reef. Mild to moderate currents can create pleasant drift conditions on the right days. Due to its depth and drift potential, it is better suited to certified divers.
+Emerald (also called Batu Emerald) is a reef site located southeast of Tulamben Bay, past Batu Kelebit along the northeast Bali coastline, accessible by a short ~5-minute jukung boat ride from Tulamben. The site begins in a shallow sandy bay with scattered reef before transitioning to a sloping reef richer in hard corals, large barrel sponges, and gorgonian fans from approximately 12–30 metres. A submerged chair and table have been placed along the sandy slope as an additional artificial reef. Mild to moderate currents can create pleasant drift conditions on the right days. Operators disagree on the difficulty here: some describe it as suitable for all levels, while another specifically recommends advanced certification given the depth and drift potential on the deeper sections — this page rates it Intermediate as a middle ground, but less experienced divers should check conditions with their operator first.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Emerald (also called Batu Emerald) is a reef site located southeast of Tulamben 
 
 ## Marine Life
 
-Confirmed at this site: garden eels in sandy areas, sweetlips, angelfish, bannerfish, turtles, groupers, cuttlefish, octopus, trevally, and bumphead parrotfish. Gorgonian sea fans at depth host pygmy seahorses — up to 10 per fan have been found. Reef sharks are occasionally seen at the 20–30 metre level. The submerged furniture on the sandy slope has become colonised and functions as a critter habitat.
+Confirmed at this site: garden eels in sandy areas, sweetlips, angelfish, bannerfish, groupers, cuttlefish, octopus, trevally, and bumphead parrotfish (specifically reported by one operator alongside garden eels at this site). Turtles are also reported. Gorgonian sea fans at depth are said by one operator to occasionally host pygmy seahorses; the specific "up to 10 per fan" figure could not be corroborated in this pass and has been removed as an unconfirmed specific. Reef sharks are occasionally seen at the 20–30 metre level, though not guaranteed on any given dive. The submerged furniture on the sandy slope has become colonised and functions as a critter habitat.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents are generally mild but can pick up in the afternoon. Lionfish in overha
 Good natural light in the shallows suits wide-angle reef shots and fish portraits. Turtles on the reef provide accessible wide-angle subjects. The fish diversity makes for productive "reef scene" photography. Macro shooters will find nudibranchs and cleaner shrimps in the rubble zones.
 
 ---
-*Sources: [Bali Dive Cove - Emerald](https://www.balidivecove.com/bali-dive-site/emerald/), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/), [Bali Dive Resort & Spa - Tulamben Sites](https://www.balidiveresortandspa.com/dive-sites-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali Dive Cove - Emerald](https://www.balidivecove.com/bali-dive-site/emerald/), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/), [Bali Dive Resort & Spa - Tulamben Sites](https://www.balidiveresortandspa.com/dive-sites-tulamben/). Last updated 2026-07-14.*

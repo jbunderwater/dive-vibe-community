@@ -10,9 +10,9 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "gekodivebali.com,atlantis-bali-diving.com,baliaqua.com,padi.com",
+    "validation_source": "gekodivebali.com,atlantis-bali-diving.com,baliaqua.com,padi.com,divezone.net",
     "tags": {
-      "description": "Drift dive site with strong currents. Also known as Batu Tiga, requires Advanced Open Water certification. Sloping reefs, craggy rocks and walls covered in hard and soft corals. Visibility often reaches 30 meters. Strong and unpredictable currents especially during full moon. White-tip reef sharks, wobbegong sharks, turtles, mola mola (Jul-Oct).",
+      "description": "Also known as Shark Point and Batu Tiga (three rocks) off Candidasa. Sloping reef from 5-25m with large gorgonians; nutrient-rich water from the Indonesian Throughflow. Strong and variable/unpredictable currents (not confined to full moon per source consensus). Whitetip reef sharks (often resting in groups of 8+), wobbegong sharks, rare coral catsharks, turtles, giant trevally, occasional blacktip reef sharks and devil rays, mola mola (Jul-Oct, sometimes wider May-Nov window per some operators). Pygmy seahorse claim removed - not confirmed site-specific.",
       "name": "Gili Mimpang",
       "place": "islet",
       "scuba_diving:dangers:current": "yes",
@@ -20,7 +20,7 @@
       "scuba_diving:entry": "boat",
       "scuba_diving:type:boat": "yes",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -60,13 +60,13 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "menjanganislandtrip.com,gekodivebali.com,padi.com,balifundiving.com",
+    "validation_source": "menjanganislandtrip.com,balifundiving.com,balicelebesdive.com,padi.com",
     "tags": {
-      "description": "North side of Menjangan Island in West Bali National Park. Shallow reef slopes from 5m to 40m+. Rich hard and soft corals, table corals, gorgonian fans, barrel sponges. Clownfish in anemones throughout shallows. Bigeye trevally, titan triggerfish, scorpionfish, sea turtles, garden eels, large grouper. Sharks (whitetip) occasionally below 20m.",
+      "description": "North side of Menjangan Island in West Bali National Park. Shallow reef slopes from 5m to 40m+. Rich hard and soft corals, table corals, gorgonian fans, barrel sponges. Clownfish in anemones throughout shallows. Confirmed: bigeye trevally, titan triggerfish, scorpionfish, sea turtles, whitetip/blacktip reef sharks, nudibranchs, pygmy seahorses. Garden eels and grouper claims removed - garden eels are a specialty of the nearby Eel Garden site, not Coral Garden; grouper unconfirmed. Stingrays reported by one source only for deeper sections.",
       "leisure": "marina",
       "name": "Coral Garden",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -80,13 +80,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "diveconcepts.com,gekodivebali.com,balifundiving.com,padi.com",
+    "validation_source": "diveconcepts.com,balifundiving.com,searovers.net,padi.com",
     "tags": {
-      "description": "South/east wall of Menjangan Island. Cave entrances at 9-12m depth, wall drops to 60m. Bats inhabit caves at waterline giving site its name. Cave crevasses harbour nudibranchs, electric clams, moray eels, crustaceans. Wall section: large gorgonians, whip corals, barrel sponges. Schools of bigeye trevally, blacktip reef sharks at depth, octopus. Pygmy seahorses on gorgonians 20-30m. Typically dived as continuation from Pos 2 drift.",
+      "description": "East wall of Menjangan Island. Cave entrances at 9-12m depth, wall drops beyond 40m. Bats inhabit caves at waterline giving site its name. Cave crevasses harbour electric clams and moray eels (confirmed). Wall section: large gorgonians, whip corals, barrel sponges. Schools of bluefin/bigeye trevally and fusiliers; blacktip and whitetip reef sharks at depth; octopus in overhangs. One operator source reports occasional whale shark sightings - single-source, not independently corroborated, treat as rare/seasonal only. Nudibranchs/crustaceans/pygmy seahorses removed as unconfirmed site-specific claims. Often dived as a drift continuation from Pos 2, though this pairing is not confirmed as a fixed official plan.",
       "leisure": "marina",
       "name": "Bat Cave",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -100,14 +100,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "nusapenida.org,neptunescubadiving.com,mantapointnusapenida.com,twofishdivers.com",
+    "validation_source": "nusapenida.org,neptunescubadiving.com,mantapointnusapenida.com,twofishdivers.com,scubaboard.com",
     "tags": {
-      "description": "Southwest coast of Nusa Penida. Manta ray cleaning stations at 8-15m; site extends to 35m on wall. Near year-round manta encounters (reef manta rays). Almost 10% of Nusa Penida manta population are melanistic (all-black) - documented at this site. Confirmed species: bamboo sharks, blue-spotted stingrays, blacktip reef sharks, turtles, nudibranchs, banded sea krait, crown jellyfish, mola mola (seasonal), whale sharks (rare, documented). Boat only; fully exposed to Indian Ocean swell.",
+      "description": "Southwest coast of Nusa Penida. Only reef manta rays (Manta alfredi) reported here, no oceanic mantas. Cleaning stations at roughly 5-15m depending on source (one operator cites ~5m, others 10-15m); a separate rock/wall formation (sometimes called Batu Sepatu) extends to 30-40m for advanced divers but is not the shallow cleaning-station experience. Encounter rate varies by source: 90-95% per some operators, more conservatively >50% per others; ScubaBoard notes swell makes the site inaccessible ~10 days/month. Nusa Penida has one of the highest recorded rates of melanistic (all-black) mantas worldwide (~10% of local population), including a regularly-sighted individual nicknamed \"Batman\", documented at this site. Also: bamboo/nurse sharks, blue-spotted stingrays, turtles, eagle rays, nudibranchs, Zanzibar shrimps, porcelain crabs, mola mola (Jul-Oct, seasonal). Whale sharks reported by multiple operators but consistently described as extremely rare, isolated sightings - not a predictable occurrence. Boat only; fully exposed to Indian Ocean swell.",
       "ele": "-13",
       "name": "Manta Point",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -121,15 +121,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "baliaqua.com,atlantis-bali-diving.com,diveconcepts.com",
+    "validation_source": "atlantis-bali-diving.com,diveintolife.blog,worldadventuredivers.com",
     "tags": {
-      "description": "Jemeluk Bay, Amed. Balinese temple sculpture on sandy seabed marked by surface buoy. Batfish gather beneath shrine structure. Jemeluk Bay reef hosts lionfish, clownfish in anemones, butterflyfish, triggerfish, stingrays, schools of big-mouth mackerel, garden eels. Coral-covered reef around bay perimeter 10-25m.",
+      "description": "Jemeluk Bay, Amed. Balinese temple sculpture on sandy seabed marked by surface buoy. Batfish gather beneath shrine structure - the signature sighting, confirmed by multiple independent sources. Jemeluk Bay reef hosts lionfish, clownfish in anemones, butterflyfish, triggerfish, stingrays, reliable schools of big-mouth mackerel. Garden eels and octopus removed as site-specific claims - those are documented at other nearby Amed sites (Bunutan and Jemeluk Drop Off respectively), not confirmed at the shrine itself. Coral-covered reef around bay perimeter 10-25m.",
       "name": "Underwater Shrine",
       "scuba_diving:depth": "29",
       "scuba_diving:type": "artificial_reef",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -145,10 +145,10 @@
     "validated": false,
     "validation_source": "bluehilltulamben.com",
     "tags": {
-      "description": "Likely the house reef at Bluehill Dive Resort Tulamben, a shallow shore-entry reef (2-15m) between the USAT Liberty Wreck and the Tulamben Wall. Known for statues and stone carvings scattered on the reef. Single source only; requires additional independent validation.",
+      "description": "Likely the house reef at Bluehill Dive Resort Tulamben, a shallow shore-entry reef (2-15m) between the USAT Liberty Wreck and the Tulamben Wall. Known for statues and stone carvings scattered on the reef. Extensive re-search (ScubaBoard, other Tulamben operators, TripAdvisor, general web) found no independent confirmation of a distinctly named \"Blue Hill\" dive site beyond the resort's own page - only the resort itself supports the name. Remains single-source and unvalidated; treat with caution pending human review.",
       "name": "Blue Hill Dive Site",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -162,14 +162,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "menjanganislandtrip.com,gekodivebali.com,padi.com",
+    "validation_source": "menjanganislandtrip.com,abyssoceanworld.com,balicelebesdive.com",
     "tags": {
-      "description": "Western side of Menjangan Island. Sandy-bottomed cavern at 14m lit by ambient light. Cave walls: sponges, electric clams (flash in dim light), small invertebrates. Outside: large grouper, frogfish, anglerfish in overhangs. Pygmy seahorses on gorgonian fans near cave entrance. Wall with gullies and channels. Generally mild currents on this side.",
+      "description": "North side of Menjangan Island (corrected from earlier 'western side' - a directly-verified operator source specifically places it on the north side). Sandy-bottomed cavern with entrance reported 10-15m depending on source (one cites ~10m at a 3x4m cavity, another a 6m top with entrance 10-15m). Cave walls: sponges, electric clams (flash in dim light). Juvenile whitetip reef sharks specifically reported sheltering in/near the cave; pygmy seahorses also reported. Grouper, frogfish, anglerfish, and open-water trevally/tuna claims removed - not confirmed by any site-specific source. Wall with gullies and channels. Generally mild currents on this side.",
       "leisure": "marina",
       "name": "Underwater Cave",
       "natural": "cave_entrance",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -182,15 +182,15 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "diveconcepts.com,gekodivebali.com,balifundiving.com",
+    "validated": false,
+    "validation_source": "",
     "tags": {
-      "description": "Corner point on Menjangan Island where reef wall turns sharply. Currents accelerate around corner. Wall drops vertically from surface to 30m+, covered in gorgonian fans, black coral trees, soft corals. Dense fish aggregations: bigeye trevally, snapper, fusiliers. Blacktip reef sharks at 20-30m. Turtles, large grouper, moray eels. Pygmy seahorses on gorgonians.",
+      "description": "Listed as a dive-site name at Menjangan Island in several directories, generally placed toward the island's western corner. QA pass found a sourcing problem: the previously-cited source (a diveconcepts.com \"Crystal Bay Menjangan\" page) actually describes Crystal Bay off Nusa Penida/Nusa Lembongan, 100+ km away, with no mention of Menjangan; a diveconcepts.com page literally titled \"Blue Corner\" also turned out to describe a different Blue Corner at Nusa Lembongan, not Menjangan. Both mismatched sources removed. No genuine site-specific source (depth, current, marine life) for a Menjangan \"Blue Corner\" could be found - gekodivebali.com and balifundiving.com general Menjangan listings describe the island's other named sites but do not mention this one. Wall/current characterization reflects general type classification only, not a confirmed site-specific description. Not validated pending a genuine source.",
       "leisure": "marina",
       "name": "Blue Corner",
       "reef": "coral",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -540,7 +540,7 @@
       "sport": "scuba_diving",
       "description": "Tulamben Wall - volcanic wall formed by Mount Agung lava flow. Shore entry across pebble beach. Wall top 3-5m drops to 60m+. Shallow aquarium at 5m teems with reef fish. Wall: sponges, gorgonian fans, black coral, crinoids. Whitetip reef sharks, Napoleon wrasse, frogfish, ghost pipefish, nudibranchs. Adjacent to USAT Liberty wreck.",
       "scuba_diving:entry": "shore",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -558,8 +558,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "description": "Black sand muck slope ~200m southeast of USAT Liberty wreck. Named for resident harlequin shrimps found under rocks at depth. Volcanic sand ridges with small coral outcrops. Shore entry. Single source only - requires additional independent validation for 3-source requirement.",
-      "last_qa_date": "2026-06-08"
+      "description": "Black sand muck slope ~200m southeast of USAT Liberty wreck. Named for resident harlequin shrimps found under rocks at depth. Volcanic sand ridges with small coral outcrops. Shore entry. Extensive re-search (dive shops, ScubaBoard, general web) found no second independent source using this site name - most Tulamben operators describe this general muck area informally (e.g. as \"Liberty Slope\") without the \"Harlequin Slope\" name. Remains single-source and unvalidated.",
+      "last_qa_date": "2026-07-14"
     }
   },
   {
