@@ -17,7 +17,7 @@ The premier Nassau wall dive — a section of the Tongue of the Ocean's vertical
 
 ## Overview
 
-Stuart Cove Wall is the name applied to the section of Nassau's southwest wall routinely operated by Stuart Cove's Dive Bahamas — one of the most established and visited dive operators in the Caribbean. The wall drops from a reef crest at around 10 meters to a sandy bottom at 25 meters (with the actual wall continuing much deeper into the Tongue of the Ocean). The site features the Bahamas' characteristic crystal-clear blue water, with visibility regularly hitting 25–35 meters. The wall carries healthy hard coral coverage on the upper sections, large barrel sponges and sea fans at mid-wall, and deep-water gorgonians at the base. Caribbean reef sharks are frequently encountered throughout the water column. This site is one of the most-dived walls in Nassau and an essential reference point for Bahamian wall diving.
+Stuart Cove Wall is the name this database applies to the section of Nassau's southwest wall routinely operated by Stuart Cove's Dive Bahamas — one of the most established and visited dive operators in the Caribbean (note: Stuart Cove's own site lists specific named sections such as "Shark Wall," but does not use "Stuart Cove Wall" as a formal site name — this entry represents the general wall-diving experience the operator runs). Stuart Cove's own materials describe the wall beginning as shallow as 10–11 meters (35 ft) before plunging sheer to roughly 1,800 meters (6,000 ft) into the Tongue of the Ocean — there is no sandy bottom on the wall face itself; recreational divers instead turn around at a planned maximum depth (commonly 20–25 meters) well above the true base. The site features the Bahamas' characteristic crystal-clear blue water, with visibility regularly hitting 25–35 meters. The wall carries healthy hard coral coverage on the upper sections, large barrel sponges and sea fans at mid-wall, and deep-water gorgonians further down. Caribbean reef sharks are frequently encountered throughout the water column. This site is one of the most-dived walls in Nassau and an essential reference point for Bahamian wall diving.
 
 ## Site Information
 
@@ -37,7 +37,7 @@ Caribbean reef sharks are a consistent feature at Stuart Cove Wall — the area 
 
 ## Dive Profile
 
-Descent to the wall crest at 10 meters, then a controlled descent along the wall face to 20–25 meters. The upper wall at 12–18 meters has the best hard coral and the most active fish community. The mid-wall zone at 18–22 meters carries large barrel sponges and sea fans. The base at 25 meters transitions to sand and is worth visiting briefly for the nurse sharks and stingrays before ascending. Safety stop at the wall crest.
+Descent to the wall crest at 10–11 meters, then a controlled descent along the wall face to a planned maximum of roughly 20–25 meters. The upper wall at 12–18 meters has the best hard coral and the most active fish community. The mid-wall zone at 18–22 meters carries large barrel sponges and sea fans. Divers turn around at their planned depth well above the wall's true base — nurse sharks and stingrays are commonly reported resting on sandy patches near the reef crest rather than on the wall face itself. Safety stop at the wall crest.
 
 ## Entry and Exit
 
@@ -49,7 +49,7 @@ Stuart Cove Wall is almost always combined with a shark encounter at Shark Arena
 
 ## Safety Considerations
 
-Depth management on the wall is important — the Tongue of the Ocean drops thousands of meters and the wall continues far below recreational limits. Set and maintain your maximum depth. Caribbean reef sharks at this site are habituated and generally non-threatening but should be treated respectfully. Fire coral on the upper reef. DSMB required.
+Depth management on the wall is important — the Tongue of the Ocean drops roughly 1,800 meters and the wall continues far below recreational limits, with no bottom in sight. Set and maintain your maximum depth. Caribbean reef sharks at this site are habituated and generally non-threatening but should be treated respectfully. Fire coral on the upper reef. DSMB required.
 
 ## Photography
 
@@ -61,4 +61,4 @@ Stuart Cove Wall in the Bahamas' characteristic blue water is a premium wide-ang
 - The site is typically the first dive of a Nassau morning two-tank trip
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Wreck Diving Bahamas](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Conditions](https://stuartcove.com/underwater-hollywood/conditions/), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-07-14.*

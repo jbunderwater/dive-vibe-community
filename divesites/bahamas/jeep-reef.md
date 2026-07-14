@@ -31,7 +31,7 @@ The site takes its name from a coral-encrusted Jeep that lies on the reef, now s
 
 ## Marine Life
 
-The park's no-take protections have allowed fish populations to recover fully. Divers commonly encounter Caribbean reef sharks, nurse sharks, southern stingrays, spotted eagle rays, large black grouper, yellowfin grouper, and yellowmouth grouper. Barracuda patrol the upper reef, and lobsters are plentiful on the reef structure. The sandy bottom areas host garden eels.
+Site-specific reports for Jeep Reef describe Nassau grouper, lobsters, sea slugs, porcupinefish, and squirrelfish on the reef structure, with southern sennet (a barracuda species), bluehead wrasse, trumpetfish, needlefish, French grunts, and blue tangs among the fish life. Nurse sharks are occasionally seen. Note that this differs from some other Exuma Cays park sites (like nearby Amberjack Reef) that are known specifically for reef shark and eagle ray encounters — those species have not been specifically documented at Jeep Reef itself.
 
 ## Dive Profile
 

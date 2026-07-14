@@ -32,7 +32,7 @@ The Underwater Shrine sits in Jemeluk Bay near Amed, where a traditional Balines
 
 ## Marine Life
 
-Batfish hover in groups beneath the shrine structure. Clownfish and their anemones are throughout the bay reef. Lionfish, stingrays, triggerfish, and butterflyfish are common. Dense schools of big-mouth mackerel patrol the bay in reliable formations. The sandy bottom around the shrine hosts garden eels and occasional octopus.
+Batfish hover in groups beneath the shrine structure — this is the signature sighting at the site and is confirmed by multiple independent sources. Clownfish and their anemones are throughout the bay reef, and lionfish, stingrays, triggerfish, and butterflyfish are common on the surrounding coral. Dense schools of big-mouth mackerel patrol Jemeluk Bay in reliable formations. Garden eels and octopus are documented at other nearby Amed sites (Bunutan and the Jemeluk Drop Off, respectively) but are not specifically reported at the shrine itself, so they are omitted here as site-specific claims.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Be cautious of boat traffic near the surface buoy when ascending. Maintain good 
 
 ## Photography
 
-The shrine with batfish hovering beneath it is the signature subject of Jemeluk Bay. Wide-angle captures the full scene with the structure and fish together. Macro photographers will find clownfish, nudibranchs, and critters on the surrounding reef corals. The mackerel schools can produce stunning wide-angle action shots.
+The shrine with batfish hovering beneath it is the signature subject of Jemeluk Bay. Wide-angle captures the full scene with the structure and fish together. Macro photographers will find clownfish and other reef macro subjects on the surrounding corals. The mackerel schools can produce stunning wide-angle action shots.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Atlantis Bali Diving - Amed](https://www.atlantis-bali-diving.com/dive_site/amed/), [Dive Concepts - Jemeluk Bay](https://diveconcepts.com/dive-site-spot-amed-jemeluk-bay). Last updated 2026-05-17.*
+*Sources: [Atlantis Bali Diving - Amed](https://www.atlantis-bali-diving.com/dive_site/amed/), [Dive into Life - Diving Amed](https://diveintolife.blog/diving-amed-bali/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/). Last updated 2026-07-14.*

@@ -32,7 +32,7 @@ Coral Garden occupies the northern coastline of Menjangan Island within West Bal
 
 ## Marine Life
 
-Clownfish and their host anemones are found throughout the shallows. Bigeye trevally, titan triggerfish, and scorpionfish are common. Deeper sections host stingrays, sea turtles, garden eels in sandy patches, and large grouper. Nudibranchs are plentiful on the reef rubble, and pygmy seahorses have been found in the gorgonians. Sharks — particularly whitetip reef sharks — are occasionally seen below 20 m.
+Clownfish and their host anemones are found throughout the shallows, alongside bigeye trevally, titan triggerfish, and scorpionfish — all confirmed for this site by local operator listings. Sea turtles and both whitetip and blacktip reef sharks have been reported here. Nudibranchs and pygmy seahorses are found on the reef and in the gorgonians. Note: earlier drafts of this page also listed garden eels and grouper for Coral Garden, but no site-specific source could confirm either — garden eels are a specialty of the nearby Eel Garden site, not Coral Garden, so that claim and the unconfirmed grouper mention have been removed. Stingrays are mentioned by one source only for the site's deeper sections.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Titan triggerfish nest in the shallow sections — give them a wide berth, espec
 Coral Garden is one of Bali's best underwater photography sites. The shallow, bright reef provides excellent natural light for wide-angle shots of coral formations and fish schools. Look for clownfish portrait opportunities in the anemones, and explore the deeper gorgonians for pygmy seahorses and nudibranchs with a macro lens.
 
 ---
-*Sources: [Menjangan Island Trip - Diving](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Menjangan Island Trip - Diving](https://menjanganislandtrip.com/menjangan-island/), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [Bali Celebes Dive - Menjangan Island](https://balicelebesdive.com/menjangan-island/), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-07-14.*

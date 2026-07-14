@@ -34,9 +34,9 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "en.wikipedia.org,letsdivetulamben.com,diving-indo.com,baliaqua.com",
+    "validation_source": "en.wikipedia.org,combinedfleet.com,letsdivetulamben.com,diving-indo.com,baliaqua.com",
     "tags": {
-      "description": "US Army cargo ship launched 1918, torpedoed by Japanese submarine I-66 on 11 January 1942 while carrying railway parts and rubber. Beached at Tulamben same day; slid into sea during 1963 Mount Agung eruption. Lies parallel to shore ~25m offshore, spanning 3-30m depth. Wikipedia records length as ~125m (411ft 6in); dive operators commonly cite 120m. Wreck hull encrusted in soft corals, gorgonian fans, sponges. Marine life: bigeye trevally, bumphead parrotfish (night/dawn), Napoleon wrasse, turtles, reef sharks, great barracuda, garden eels.",
+      "description": "US Army cargo transport launched 19 June 1918, Federal Shipbuilding Co., Kearny NJ. Sources disagree on length (120-125m) and tonnage (6,211 gross tons per wartime submarine patrol records vs 13,130 tons displacement per Wikipedia). Torpedoed ~04:15 on 11 January 1942 by submarine I-66 (same vessel renumbered I-166 later in 1942 - both names refer to one submarine and are not a contradiction) ~10nm SW of Lombok Strait, carrying rubber and railway parts from Tanjung Priok toward the Philippines. Crew of 54 rescued same day by Dutch flying boat. Towed toward Singaraja by USS Paul Jones and HNLMS Van Ghent but beached at Tulamben around 14 January 1942. Slid into the sea during the 1963 Mount Agung eruption; broke apart at midsection. Sources disagree on distance offshore (10-40m). Confirmed marine life at site: bigeye trevally, sweetlips, hawksbill turtles, Napoleon wrasse, great barracuda, garden eels, bumphead parrotfish (dawn/night), moray eels, occasional reef sharks; macro: frogfish, ghost pipefish, nudibranchs; night: Spanish dancers, flashlight fish.",
       "name": "USAT Liberty Wreck",
       "scuba_diving:type:apnoe": "yes",
       "scuba_diving:type:attraction": "yes",
@@ -46,7 +46,7 @@
       "wikidata": "Q2468064",
       "wikimedia_commons": "Category:USAT Liberty (ship, 1918)",
       "wikipedia": "en:USAT Liberty",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -133,25 +133,6 @@
     }
   },
   {
-    "name": "Bali Scuba",
-    "lat": -8.7057211,
-    "lon": 115.2528946,
-    "osm_id": 3546785649,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
-    "tags": {
-      "description": "Reef dive site near Nusa Penida/south Bali area. NOTE: Name 'Bali Scuba' does not appear as a named dive site in operator listings; may be an OSM entry for a dive business rather than a named dive site. No site-specific sources found.",
-      "name": "Bali Scuba",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
-    }
-  },
-  {
     "name": "Blue Hill Dive Site",
     "lat": -8.2875992,
     "lon": 115.6050638,
@@ -166,25 +147,6 @@
     "tags": {
       "description": "Likely the house reef at Bluehill Dive Resort Tulamben, a shallow shore-entry reef (2-15m) between the USAT Liberty Wreck and the Tulamben Wall. Known for statues and stone carvings scattered on the reef. Single source only; requires additional independent validation.",
       "name": "Blue Hill Dive Site",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
-    }
-  },
-  {
-    "name": "Water Walk",
-    "lat": -8.7065673,
-    "lon": 115.2631469,
-    "osm_id": 3909173262,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "",
-    "tags": {
-      "description": "Reef dive site near Nusa Penida area. NOTE: 'Water Walk' at Sanur is primarily known as a seawalker (helmet diving) activity venue, not a conventional scuba dive site. No scuba dive site named 'Water Walk' confirmed in operator listings at these coordinates. Requires verification.",
-      "name": "Water Walk",
       "sport": "scuba_diving",
       "last_qa_date": "2026-06-08"
     }
@@ -397,7 +359,7 @@
     "validated": true,
     "validation_source": "nusapenida.org,scubaboard.com,scubadiverlife.com,purpledivepenida.com",
     "tags": {
-      "description": "Northwest tip of Nusa Penida. Bali's premier site for mola mola (ocean sunfish) July-October; peak August-September. Two shallow reefs on either side of bay plus deep channel to 190m. Powerful downcurrents documented causing multiple accidents and fatalities - advanced divers only. Water temperature drops to 16-18\u00b0C during cold upwellings. Mola mola cleaning stations at 20-35m. Also: manta rays, barracuda, giant trevally, whitetip/blacktip reef sharks, turtles, frogfish, wobbegong, nudibranchs.",
+      "description": "Northwest tip of Nusa Penida. Bali's premier site for mola mola (ocean sunfish) July-October; peak August-September. Two shallow reefs on either side of bay plus deep channel to 190m. Powerful downcurrents documented causing multiple accidents and fatalities - advanced divers only. Water temperature drops to 16-18°C during cold upwellings. Mola mola cleaning stations at 20-35m. Also: manta rays, barracuda, giant trevally, whitetip/blacktip reef sharks, turtles, frogfish, wobbegong, nudibranchs.",
       "name": "Crystal Bay",
       "scuba_diving:access_easyness": "1",
       "scuba_diving:depth": "15",
@@ -500,25 +462,6 @@
     "tags": {
       "description": "Shore-entry shallow reef between Liberty Wreck and Drop-off at Tulamben. 3-15m depth. Table corals, staghorn, massive Porites heads on black volcanic sand. Sunken Balinese statues (Buddha, Hindu deities) as focal points. Ghost pipefish, leaf scorpionfish, harlequin shrimp, mantis shrimp, clownfish in large anemone patches, ribbon eels, reef sharks, bumphead parrotfish (early morning). Night: Spanish dancers. Accessible all levels.",
       "name": "Coral Garden Tulamben",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
-    }
-  },
-  {
-    "name": "Big Fins TecDiving",
-    "lat": -8.2784946,
-    "lon": 115.5933629,
-    "osm_id": 9028333855,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "bigfins.asia",
-    "tags": {
-      "description": "Tulamben area. Note: 'Big Fins TecDiving' refers to a technical diving operator (bigfins.asia) rather than a named dive site. No independent dive site named 'Big Fins TecDiving' confirmed in operator site listings. Single source; requires verification as a legitimate dive site entry.",
-      "name": "Big Fins TecDiving",
       "sport": "scuba_diving",
       "last_qa_date": "2026-06-08"
     }
@@ -685,14 +628,14 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "letsdivetulamben.com,balidivecove.com,ecodivebali.com",
+    "validation_source": "letsdivetulamben.com,balidivecove.com,ecodivebali.com,nicodivescoolbali.com,evolutiondiver.com,baliberty.com",
     "tags": {
       "name": "Kubu Wreck",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "description": "Boga Wreck - Dutch-built Indonesian government patrol vessel ~40-45m length, intentionally sunk September 2012 as artificial reef off Kubu village. Bow ~18m, stern 38-40m (has settled deeper over time). Deck props: non-original wooden steering wheel, Buddha statues, VW car, scuba tanks. Confirmed species: moray eels, barracuda, batfish, lionfish, nudibranchs, octopus, turtles. Gorgonian fans colonising structure.",
-      "last_qa_date": "2026-06-08"
+      "description": "Also known as the Boga Wreck. Dutch-built vessel intentionally sunk September 2012 off Kubu village as an artificial reef. Sources mostly describe her as a former Indonesian government patrol/communications vessel; a minority describe her as a cargo ship. Build year given as 1952 or 1953 depending on source (Netherlands-built); tonnage consistently ~150 tonnes; length reported 35-50m (40m most common). Depth converges around 16-18m (bow) to 37-40m (stern), settling deeper over time per several operators. Distance from shore inconsistently reported (25-300m across sources). VW car, Buddha statues, wooden steering wheel placed on deck as props. Confirmed marine life (2+ sources): moray eels, barracuda, batfish, lionfish, nudibranchs, octopuses, turtles, surgeonfish, fusiliers, angelfish, damselfish, triggerfish.",
+      "last_qa_date": "2026-07-14"
     }
   },
   {

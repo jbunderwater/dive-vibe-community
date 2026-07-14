@@ -17,7 +17,7 @@ A sloping reef in the Tulamben area with a pleasant mix of coral formations and 
 
 ## Overview
 
-Blue Hill is a reef dive site in the Tulamben corridor of northeast Bali, situated between the major draw sites of the USAT Liberty wreck and the muck diving locations near Amed. The reef slopes from the shallows to around 25 m, offering a classic Indonesian tropical reef experience with hard coral bommies, sea fans, and a colourful fish community. The site is particularly useful for groups of mixed experience levels, providing enough depth and interest for intermediate divers without the demanding conditions of more exposed sites in the region. Current is generally moderate and predictable.
+Blue Hill is a shallow reef dive site in the Tulamben corridor of northeast Bali, entered directly from shore and lying between the USAT Liberty wreck and the muck diving locations further along the coast. The reef runs close to shore from around 2 m down to about 15 m at its deepest, at the edge of a sandy slope, and is a low-intensity, easy-access dive well suited to beginners and Open Water divers. Available reporting on this exact site is limited to a single operator source (see footer), so several details below should be treated as provisional pending further independent confirmation.
 
 ## Site Information
 
@@ -27,36 +27,35 @@ Blue Hill is a reef dive site in the Tulamben corridor of northeast Bali, situat
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–22 m
-- **Current**: Moderate; generally predictable
+- **Current**: Generally mild given the sheltered shore access; not independently documented beyond operator information
 - **Best Time**: April to November
 
 ## Marine Life
 
-Parrotfish, fusiliers, and anthias are abundant on the upper reef. Turtles are regularly sighted grazing on the reef crest. Moray eels, grouper, and lionfish inhabit the coral cavities at 15–20 m. Smaller critters including nudibranchs and cleaner shrimps are found in the rubble zones at depth.
+No source-confirmed, site-specific marine life reports could be found for this exact site name after extensive search (ScubaBoard, PADI, other Tulamben operators, TripAdvisor, and general web search). Regional Tulamben-area reef fauna — reef fish, macro critters, and occasional turtles — likely applies given the site's shallow reef and sandy-slope character, but no species list is given here since none is directly documented at this site.
 
 ## Dive Profile
 
-Enter at the boat and descend to the reef at 10 m. Follow the sloping reef to 20–25 m, then ascend gradually back along the slope. Most fish life is concentrated at 8–18 m. The shallow reef section between 3–8 m offers a colourful final exploration during the safety stop period.
+Enter from shore and descend along the sandy slope, keeping the reef structure to one side. The reef stays shallow throughout, running roughly from 2 m down to about 15 m at its deepest, so most of the dive is spent working the shallower contours rather than a deep profile. The shallow zone between 3–8 m is well lit and makes a good area for the final part of the dive and the safety stop.
 
 ## Entry and Exit
 
-Boat dive from Tulamben area operators. Entry via back roll. Currents are manageable. SMB deployment recommended for ascent in open water.
+Shore entry from the black-sand beach in the Tulamben area. Wade or walk in and descend directly onto the sandy slope; no boat is required to reach the reef. Currents are generally mild given the sheltered, shore-accessible location. Exit is a reverse of the entry, back onto the beach.
 
 ## Tips and Recommendations
 
-- Excellent filler dive between the Liberty wreck and muck diving sites in the Tulamben area
-- Well-suited for Open Water divers progressing toward their Advanced certification
-- Check sea fans at depth for pygmy seahorses if available in the area
+- Convenient shore-entry filler dive between the Liberty wreck and the muck diving sites further along the Tulamben corridor
+- Well-suited for Open Water divers, given the shallow depth and easy shore access
 - Pair with an early morning Liberty wreck dive for a productive two-dive morning
-- Afternoon dives can be affected by increased current — check with operators
+- Conditions and current strength for this specific site have not been independently documented — check locally before diving
 
 ## Safety Considerations
 
-Maintain good buoyancy above the reef to avoid coral contact. Lionfish in overhangs are venomous — observe without touching. Sea urchins on the substrate can cause injury if handled or stepped on with bare skin.
+Maintain good buoyancy above the reef and sandy slope to avoid coral contact, particularly given the shallow profile. As with other shallow reef sites in the area, watch for venomous species such as lionfish in overhangs and avoid contact with sea urchins on the substrate.
 
 ## Photography
 
-Good light in the shallows suits reef scene photography. Fish portraits of parrotfish and surgeonfish work well at the reef crest. Look for cleaner stations on prominent coral heads for fish portrait opportunities.
+Good light in the shallows suits reef scene photography, and the sandy-slope/reef-edge structure works well for wide-angle shots. Macro shooters can work the reef crest and rubble areas for smaller subjects, though specific critter sightings for this site are not independently documented.
 
 ---
-*Description based on regional characteristics of the Tulamben corridor. The "Blue Hill Dive Site" likely refers to the house reef at Bluehill Dive Resort Tulamben — a shallow shore-entry reef (2–15 m) between the Liberty Wreck and the Tulamben Wall, known for statues and stone carvings on the reef. No independent site-specific sources found under this exact name. Last updated 2026-05-17.*
+*Sources: [Bluehill Dive Resort – Dive Page](https://www.bluehilltulamben.com/dive). Only one source specific to this exact site name was found, describing it as the shallow shore-entry house reef (roughly 2–15 m) between the Liberty Wreck and the Tulamben Wall, known for statues and stone carvings. A thorough search of ScubaBoard, PADI, other Tulamben dive operators (Bali Diving Academy/scubali.com, Blue Season Bali/baliocean.com), Wannadive-style aggregators, and TripAdvisor found no independent confirmation of a distinctly named "Blue Hill" dive site — only references to the resort of the same name. Not marked as validated pending a second independent source. Last updated 2026-07-14.*
