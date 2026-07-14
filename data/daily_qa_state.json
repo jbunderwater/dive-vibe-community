@@ -251,7 +251,7 @@
           }
         }
       },
-      "pr_url": null,
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/118",
       "errors": [
         "bahamas: first QA agent attempt spawned its own background sub-agents and returned with zero files edited; retried successfully with an agent instructed to work directly (though it too decomposed into batch sub-agents, this time reconciling their results into a full merge before returning)",
         "bali: QA agent decomposed into batch sub-agents and returned before finishing JSON consolidation/sync; a follow-up consolidation agent was dispatched but also returned before the last batch finished, requiring a final manual merge",
