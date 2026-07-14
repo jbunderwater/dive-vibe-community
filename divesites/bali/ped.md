@@ -23,8 +23,8 @@ Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside 
 
 - **Location**: North coast of Nusa Penida, in front of the Pura Ped temple, Bali region
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive over a sloping reef
-- **Difficulty Level**: Beginner to Intermediate (rated Intermediate here for the variable current)
+- **Site Type**: Drift dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Variable; usually an easy drift, occasionally strong

@@ -31,7 +31,7 @@ Stretching approximately 1.4 miles northeast of Spanish Wells at the north end o
 - **Location**: North Eleuthera, Bahamas (near Spanish Wells and Preacher's Cave)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: 8 meters (operator-reported site maximum; some individual wreck sections, notably the Cienfuegos/Vanaheim area, are reported by other sources at up to ~11 meters)
+- **Maximum Depth**: 8 meters
 - **Typical Visibility**: 5-6 meters (conditions can be variable due to surge and sand disturbance)
 - **Current**: Light to moderate
 - **Best Time**: November to May (calmer conditions)

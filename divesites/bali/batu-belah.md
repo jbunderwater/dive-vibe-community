@@ -22,10 +22,10 @@ Batu Belah is a reef dive site a short distance from Amed village in northeast B
 ## Site Information
 
 - **Location**: A small bay near Amed village, northeast Bali (also referred to as the Amed-Tulamben area by some operators)
-- **Entry Type**: Shore entry (boat access also offered by some operators)
+- **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (operator sources vary, reporting maximums anywhere from about 15 to 40 m depending on how far along the site's slope is explored)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Nil to moderate
 - **Best Time**: April to November

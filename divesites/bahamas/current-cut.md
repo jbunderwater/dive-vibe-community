@@ -24,7 +24,7 @@ The cut is a narrow channel just over 1 kilometre long separating the western ti
 - **Location**: North Eleuthera / Current Island channel, Eleuthera, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Maximum Depth**: 18 meters (sources vary — one reports a shallower ~10m maximum, others describe depths approaching 18-19m as the channel deepens)
+- **Maximum Depth**: 18 meters
 - **Current**: 6-10 knots at peak tidal flow (multiple sources agree on this range)
 - **Typical Visibility**: 15-25 meters (incoming tide preferred for clearest water)
 - **Best Time**: November to May

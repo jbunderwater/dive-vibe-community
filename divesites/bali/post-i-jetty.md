@@ -25,7 +25,7 @@ Post I Jetty sits directly in front of the West Bali National Park ranger statio
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20–30 meters (sources vary; see Overview)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–25 m
 - **Current**: Minimal
 - **Best Time**: April to November

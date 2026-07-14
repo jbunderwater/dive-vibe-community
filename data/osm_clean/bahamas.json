@@ -5,12 +5,12 @@
     "lon": -76.8097669,
     "osm_id": 948102800,
     "osm_type": "way",
-    "depth": 20,
+    "depth": 4,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "baaa-acro.com,aviation-safety.net,bahamasairtours.com,wikipedia.org",
+    "validation_source": "baaa-acro.com,aviation-safety.net,outislandlifebahamas.com,bahamasairtours.com",
     "tags": {
       "access": "yes",
       "aircraft:type": "transport",
@@ -18,7 +18,7 @@
       "damage:structure": "heavy",
       "historic": "wreck",
       "name": "Curtiss C-46A-45-CU Commando",
-      "note": "Civil registration, N355BY, cancelled on 15 November 1980. Crashed off Norman's Cay, not generic Exuma Cays.",
+      "note": "Re-audited 2026-07-14: corrected depth from 20m to ~3-4m and difficulty from Intermediate to Beginner \u2014 official wreck records and a local operator account describe the aircraft resting in very shallow water with part of the airframe breaking the surface at low tide, not 20m.",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "tourism": "attraction",
@@ -42,7 +42,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "en.wikipedia.org,bahamas.com,dreamwrecks.com,thevintagenews.com",
+    "validation_source": "en.wikipedia.org,concreteships.org,bahamas.com,thevintagenews.com",
     "tags": {
       "access": "yes",
       "building": "yes",
@@ -74,7 +74,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "padi.com,epicdiving.com,dive-the-world.com,bluewaterdivetravel.com",
+    "validation_source": "sharkdiveadventures.com,bluewaterdivetravel.com,bigfishexpeditions.com,epicdiving.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -93,7 +93,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "stuartcove.com,scubadiving.com,bluewaterdivetravel.com",
+    "validation_source": "stuartcove.com,bluewaterdivetravel.com,padi.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -111,7 +111,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "stuartcove.com,scubadiving.com,bahamastourcenter.com",
+    "validation_source": "stuartcove.com,nassauscubadive.com,bahamastourcenter.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -130,7 +130,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "bahamasairtours.com,stanielcayadventures.com,nassaubahamasguide.com,sandals.com",
+    "validation_source": "stanielcayadventures.com,bahamasairtours.com,sailingkindness.com,theplanetd.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -149,7 +149,7 @@
     "entry_type": "shore",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "en.wikipedia.org,atlasobscura.com,bahamasairtours.com,scuba.com",
+    "validation_source": "en.wikipedia.org,deeperblue.com,guinnessworldrecords.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -187,7 +187,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "stuartcove.com,scubadiving.com,bluewaterdivetravel.com",
+    "validation_source": "stuartcove.com,nassauscubadive.com,bahamastourcenter.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -205,7 +205,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "scubadiving.com,discovery.com,explorersweb.com,myoutislands.com",
+    "validation_source": "discovery.com,explorersweb.com,thediveglobe.com,myoutislands.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -223,7 +223,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "dreamwrecks.com,wannadive.net,scubadiverlife.com,ashunderwater.com",
+    "validation_source": "dreamwrecks.com,scubadiverlife.com,tribune242.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -240,13 +240,13 @@
     "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "epicdiving.com,scubadiverlife.com,southernboating.com,bigfishexpeditions.com",
+    "validation_source": "epicdiving.com,diveadvice.com,scubaverse.com,bigfishexpeditions.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "Oceanic whitetip sharks primary April-May (following tuna migration). Not year-round. Depth up to 12m (40ft). Caribbean reef sharks year-round.",
+      "note": "Re-audited 2026-07-14: reclassified difficulty Intermediate -> Advanced. This is a cageless, open-water/pelagic drift dive over a bottomless drop-off (not a shallow sand-bottom sit-and-wait site), and operators require solid open-water buoyancy and comfort with no bottom reference, consistent with an Advanced rating.",
       "last_qa_date": "2026-07-14"
     }
   },
@@ -261,7 +261,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "seadragonbahamas.com,geoffschultz.org,dive-the-world.com,tripadvisor.com",
+    "validation_source": "seadragonbahamas.com,bnt.bs,dive-the-world.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -280,7 +280,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "dreamwrecks.com,deeperblue.com,scubadiving.com,stuartcove.com",
+    "validation_source": "dreamwrecks.com,deeperblue.com,scubadiving.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -297,13 +297,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "diveboard.com,dive-the-world.com,yachtsbahamacharters.com",
+    "validation_source": "diveboard.com,dive-the-world.com,thescubadirectory.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "diveboard.com, dive-the-world.com, yachtsbahamacharters.com",
+      "validation_source": "diveboard.com, dive-the-world.com, thescubadirectory.com",
       "last_qa_date": "2026-07-14"
     }
   },
@@ -335,13 +335,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": false,
-    "validation_source": "scubaweather.com,zentacle.com",
+    "validation_source": "scubaweather.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "false",
-      "validation_source": "scubaweather.com, zentacle.com",
+      "validation_source": "scubaweather.com",
       "note": "Re-audited 2026-07-14: found a second independent source (Zentacle, which lists this site as 'Dott' with Beginner difficulty) but no third source. Still only 2 distinct domains found after renewed search (scubaweather.com, zentacle.com) \u2014 left validated=false pending a third independent source. Difficulty kept at Intermediate (existing regional default) since Zentacle's differing 'Beginner' tag is a single, weak data point.",
       "last_qa_date": "2026-07-14"
     }
@@ -362,7 +362,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "false",
       "validation_source": "scubaboard.com",
-      "note": "Re-audited 2026-07-14: renewed search (Dive Guana, divescover.com, ScubaBoard, Abaco dive operator sites) found no second or third independent source naming this specific channel as 'The Cutt'. Still validated=false pending additional independent sources.",
+      "note": "Re-audited 2026-07-14: the single ScubaBoard thread previously cited does not actually name or describe 'The Cutt'. Additionally, the recorded coordinates (26.75N, 77.87W) place this site in the Little Abaco/Crown Haven area, ~75km from Guana Cay, contradicting the site's own location description. Flagged for maintainer review of the original community contribution; validated remains false.",
       "last_qa_date": "2026-07-14"
     }
   },
@@ -394,15 +394,16 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": true,
-    "validation_source": "divein.com,dive-the-world.com,zentacle.com",
+    "validated": false,
+    "validation_source": "waterwayguide.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "divein.com, dive-the-world.com, zentacle.com",
-      "last_qa_date": "2026-07-14"
+      "validated": "false",
+      "validation_source": "waterwayguide.com",
+      "last_qa_date": "2026-07-14",
+      "note": "Re-audited 2026-07-14: none of the 3 previously-cited sources (DiveIn, Dive the World, Zentacle homepage) actually describe Norman's Cay Cut specifically. The 'boulder shoot / washing machine basin' narrative previously used here was found to actually describe a different, separately-documented site ('The Washing Machine' off Highbourne Cay) and has been removed to avoid misattribution. Downgraded validated true -> false pending a genuine site-specific source. Only a general Waterway Guide anchorage reference remains."
     }
   },
   {
@@ -414,13 +415,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "zentacle.com,yachtsbahamacharters.com,dive-the-world.com",
+    "validation_source": "zentacle.com,yachtsbahamacharters.com,diveadvisor.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "zentacle.com, yachtsbahamacharters.com, dive-the-world.com",
+      "validation_source": "zentacle.com, yachtsbahamacharters.com, diveadvisor.com",
       "last_qa_date": "2026-07-14"
     }
   },
@@ -433,13 +434,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "zentacle.com,allstarliveaboards.com,capeeleuthera.com",
+    "validation_source": "zentacle.com,allstarliveaboards.com,capeeleuthera.com,dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "zentacle.com, allstarliveaboards.com, capeeleuthera.com",
+      "validation_source": "zentacle.com, allstarliveaboards.com, capeeleuthera.com, dive-the-world.com",
       "last_qa_date": "2026-07-14"
     }
   },
@@ -490,15 +491,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "zentacle.com,bahamas.com,dive-the-world.com",
+    "validated": false,
+    "validation_source": "zentacle.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "zentacle.com, bahamas.com, dive-the-world.com",
-      "last_qa_date": "2026-07-14"
+      "validated": "false",
+      "validation_source": "zentacle.com",
+      "last_qa_date": "2026-07-14",
+      "note": "Re-audited 2026-07-14: of the 3 previously-cited domains, Dive the World's Eleuthera page was found not to mention this site and was dropped. Of the remaining 2, only Zentacle actually covers diving details (depth/marine life); Bahamas.com covers only the above-water landmark, not diving. That leaves 1 genuine diving-specific source, not 3. Downgraded validated true -> false per the 3-source requirement; a second and third independent diving-specific source should be sought before re-validating."
     }
   },
   {
@@ -510,13 +512,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "eleuthera.me,zentacle.com,dive-the-world.com",
+    "validation_source": "eleuthera.me,zentacle.com,discover-eleuthera-bahamas.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "eleuthera.me, zentacle.com, dive-the-world.com",
+      "validation_source": "eleuthera.me, zentacle.com, discover-eleuthera-bahamas.com",
       "last_qa_date": "2026-07-14"
     }
   }

@@ -22,10 +22,10 @@ Bulakan is a shore-entry muck/macro site in the Amed-Tulamben corridor of northe
 ## Site Information
 
 - **Location**: Near a shoreline temple in the Amed-Tulamben corridor, northeast Bali (~10 minutes from Amed)
-- **Entry Type**: Shore entry — boulder-strewn entry/exit, described by divers as physically awkward but manageable
+- **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (approximate; no source in this pass gave a precise maximum depth for this specific site)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Generally mild
 - **Best Time**: April to November

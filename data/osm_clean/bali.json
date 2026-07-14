@@ -376,17 +376,17 @@
     "osm_id": 4742534378,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "wall",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
     "validation_source": "nusapenida.org,purpledivepenida.com,aquamarinediving.com",
     "tags": {
-      "description": "North coast of Nusa Penida, near sacred Ped temple. Drift dive along wall with wide shallow plateau. Turtles regularly on plateau. Whitetip reef sharks, barracuda, mola mola (Jul-Oct peak). Moderate drift current; pull-out currents and occasional downdrafts possible. Visibility 25-30m. Boat from Toyapakeh (15-20 min). Links seamlessly with SD Point.",
+      "description": "Also known as Pura Ped, on the sheltered north coast of Nusa Penida near the Pura Ped temple, alongside SD, Sental and Buyuk. Site_type corrected from wall to drift: it is a gently sloping reef (bottom slopes gradually to roughly 15-17m before steepening) rather than a true vertical wall, usually dived as a drift. Current varies from an easy drift most days to occasionally strong. Turtles reliable on the slope; butterflyfish, triggerfish, parrotfish common. Noted by Nusa Penida shops as one of the more reliable north-coast sites for mola mola (Jul-Oct), sometimes ahead of neighboring SD Point. Reef shark and dense pelagic schooling claims removed - not confirmed in current sources.",
       "name": "Ped",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -400,12 +400,12 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "balifabdive.com,padi.com,divenavigator.com",
+    "validation_source": "balifabdive.com,nofeardiving.com,diveconcepts.com",
     "tags": {
-      "description": "Shore-entry reef in Amed area. Coral clump rising from sandy bottom. Nutrient-rich Lombok Strait waters. Schools of snappers, platax (batfish), fusiliers. Tuna in blue water. Giant frogfish and leaf scorpionfish confirmed. Nudibranchs, crabs, mantis shrimps. 5-30m depth. Nil to moderate current. Good visibility 15-30m.",
+      "description": "Shore-entry reef in Amed area. Coral clump rising from sandy bottom. Nutrient-rich Lombok Strait waters. Schools of snappers, platax (batfish), fusiliers. Tuna in blue water. Weedy scorpionfish (Rhinopias aphanes) and leaf scorpionfish confirmed. Nudibranchs, crabs, mantis shrimps. 5-30m depth. Nil to moderate current. Good visibility 15-30m.",
       "name": "Batu Belah",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -416,15 +416,15 @@
     "osm_type": "node",
     "depth": 25,
     "site_type": "muck",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "baliaqua.com,ameddiveexplorer.com",
+    "validation_source": "scubaboard.com,balielitescuba.com,amedwhitesanddivers.com",
     "tags": {
-      "description": "Ghost Bay - muck dive in Amed area. Black volcanic sand bay with burrows, rubble, sparse coral. Garden eel colonies. Flying gurnard (iconic species). Blue-spotted stingrays, frogfish, mantis shrimp, nudibranchs, cuttlefish, ghost pipefish. 8-25m depth. Mild current. Note: only 2 sources found; further validation recommended.",
+      "description": "Muck dive in Amed area, boulder entry/exit near a temple. Black volcanic sand with bouldery bottom, rubble, sparse coral. Wunderpus and Cuthona nudibranchs ('sheep nudis') confirmed by ScubaBoard trip reports. 8-25m depth. Mild current. 'Also known as Ghost Bay' claim removed - unconfirmed; Ghost Bay is a separate, distinct Amed site.",
       "name": "Bulakan",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -444,7 +444,7 @@
       "name": "Pyramids",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -460,10 +460,10 @@
     "validated": true,
     "validation_source": "letsdivetulamben.com,balidiveresortandspa.com,michaelmcfadyenscuba.info",
     "tags": {
-      "description": "Shore-entry shallow reef between Liberty Wreck and Drop-off at Tulamben. 3-15m depth. Table corals, staghorn, massive Porites heads on black volcanic sand. Sunken Balinese statues (Buddha, Hindu deities) as focal points. Ghost pipefish, leaf scorpionfish, harlequin shrimp, mantis shrimp, clownfish in large anemone patches, ribbon eels, reef sharks, bumphead parrotfish (early morning). Night: Spanish dancers. Accessible all levels.",
+      "description": "Shore-entry shallow reef between Liberty Wreck and Drop-off at Tulamben. 3-15m depth. Table corals, staghorn, massive Porites heads on black volcanic sand. Sunken Balinese statues (Buddha, Hindu deities) as focal points. Ghost pipefish, leaf scorpionfish, harlequin shrimp, mantis shrimp, clownfish in large anemone patches, ribbon eels, reef sharks. Night: Spanish dancers. Accessible all levels.",
       "name": "Coral Garden Tulamben",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -477,13 +477,13 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "diveconcepts.com,gekodivebali.com,padi.com,balifundiving.com",
+    "validation_source": "diveconcepts.com,padi.com,balifundiving.com",
     "tags": {
-      "description": "Southeast point of Menjangan Island. Wall from 12m to 40m+. Most spectacular coral 15-25m: largest sea fans in Bali, whip corals, multi-coloured sponges. Denise pygmy seahorses on gorgonians 20-25m - one of best pygmy seahorse spots in Bali. Spotted eagle rays in mid-water. Dense fusiliers, triggerfish, trevally. Turtles. Cold upwellings; occasional mola mola and manta rays. Connects to Bat Cave for long drift.",
+      "description": "Southeast point of Menjangan Island. Wall from 12m to 40m+. Most spectacular coral 15-25m: largest sea fans in Bali, whip corals, multi-coloured sponges. Denise pygmy seahorses on gorgonians 20-25m - one of best pygmy seahorse spots in Bali. Dense fusiliers, triggerfish, trevally. Turtles. Cold upwellings; occasional mola mola and manta rays. Connects to Bat Cave for long drift.",
       "leisure": "marina",
       "name": "Menjangan - Pos 2",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -499,11 +499,11 @@
     "validated": true,
     "validation_source": "balidivecove.com,baliaqua.com,balidiveresortandspa.com",
     "tags": {
-      "description": "Southeast of Tulamben Bay, ~5 min by jukung. Sloping reef 12-30m+. Hard corals, large barrel sponges, gorgonian sea fans with pygmy seahorses (up to 10 per fan). Garden eels, sweetlips, angelfish, bannerfish, turtles, groupers, cuttlefish, trevally, bumphead parrotfish. Reef sharks at 20-30m. Submerged chair and table as artificial reef on sandy slope. Mild-moderate drift possible.",
+      "description": "Southeast of Tulamben Bay, ~5 min by jukung. Sloping reef 12-30m+. Hard corals, large barrel sponges, gorgonian sea fans with pygmy seahorses. Garden eels, sweetlips, angelfish, bannerfish, turtles, groupers, cuttlefish, trevally, bumphead parrotfish. Reef sharks at 20-30m. Submerged chair and table as artificial reef on sandy slope. Mild-moderate drift possible.",
       "name": "Emerald",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
@@ -522,7 +522,7 @@
       "description": "Most remote of Amuk Bay's three Gili islands; ~45 min boat from Padangbai. Black volcanic wall surrounding island drops to 40m+. Shark Cave at ~10-12m depth on northeastern face where whitetip reef sharks rest; schools of glass fish at cave entrance. Strong and unpredictable currents including downcurrents. Confirmed species: whitetip reef sharks, lobsters, crabs, pufferfish, nudibranchs, octopus, cuttlefish, frogfish, leaf scorpionfish, lionfish, turtles, mola mola (seasonal), dolphins. Best Jun-Oct.",
       "scuba_diving:entry": "boat",
       "scuba_diving:dangers:current": "yes",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-07-14"
     }
   },
   {
