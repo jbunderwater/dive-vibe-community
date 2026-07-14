@@ -31,7 +31,7 @@ Cape Eleuthera's leeward coast sits along the Exuma Sound. The shelf edge here c
 
 ## Marine Life
 
-Reef sharks are commonly encountered along Cape Eleuthera's wall sites. Sea turtles, eagle rays, grouper, barracuda, and large schools of reef fish are typical. The wall face and reef top support diverse coral and sponge communities. The proximity to deep water means pelagic species occasionally move through.
+Reef sharks and sea turtles are commonly encountered along Cape Eleuthera's wall sites as a whole, per the local dive shop's general description of the area; rays, grouper, and tropical reef fish are also part of that regional portfolio. These are not confirmed sightings for this exact GPS point specifically, but reflect the documented character of the wall system it sits on.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Boat dive only. The Dive Shop at Cape Eleuthera Resort operates from the Cape El
 The deep drop-off makes depth monitoring critical. Advanced current conditions are possible on exposed sections of the wall. Complete a proper safety stop and carry an SMB. Advanced certification is recommended for divers planning to descend beyond 20 meters on the wall.
 
 ---
-*Sources: [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/), [Scuba Diving Magazine - Eleuthera and Exuma Cays Liveaboard](https://www.scubadiving.com/article/other/mild-and-wild-exploring-bahamas-eleuthera-and-exuma), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*
+*Sources: [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/), [Scuba Diving Magazine - Eleuthera and Exuma Cays Liveaboard](https://www.scubadiving.com/article/other/mild-and-wild-exploring-bahamas-eleuthera-and-exuma), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Note: none of these sources name this exact GPS point as "Off Cape Eleuthera" specifically; description reflects the general, well-documented Cape Eleuthera wall system rather than a site named and reviewed individually. Last updated 2026-07-14.*

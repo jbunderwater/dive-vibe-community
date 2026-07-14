@@ -17,7 +17,7 @@ One of the Bahamas' most exhilarating drift dives — a narrow tidal channel at 
 
 ## Overview
 
-Current Cut is a narrow natural channel at the northern end of Eleuthera Island near Current Settlement village, where tidal water flows between the Atlantic Ocean and the Exuma Sound. When the tide runs, Current Cut generates some of the strongest recreational diving current in the Bahamas — divers are carried through the channel at speeds that can make swimming feel effortless and can reach several knots at peak flow. The channel walls are covered with sea fans, sponges, and encrusting organisms that thrive in the nutrient-rich moving water, and the fish life in and around the channel is extraordinary. The maximum depth is 18 meters — manageable — but the current creates the advanced character of this dive. Visibility is outstanding, typically 25–35 meters in the channel's clear waters.
+Current Cut is a narrow natural channel at the northern end of Eleuthera Island near Current Settlement village, where tidal water flows between the Atlantic Ocean and the Exuma Sound. When the tide runs, Current Cut generates some of the strongest recreational diving current in the Bahamas — divers are carried through the channel at speeds that can make swimming feel effortless, with sources reporting current speeds of 6-10 knots at peak flow. The channel walls are covered with sea fans, sponges, and encrusting organisms that thrive in the nutrient-rich moving water, and the fish life in and around the channel is extraordinary. The maximum depth is 18 meters — manageable — but the current creates the advanced character of this dive. Visibility is outstanding, typically 25–35 meters in the channel's clear waters.
 
 ## Site Information
 
@@ -28,12 +28,12 @@ Current Cut is a narrow natural channel at the northern end of Eleuthera Island 
 | Entry Type | Boat |
 | Site Type | Drift |
 | Visibility | 25–35 m |
-| Current | Strong to very strong (tidal) |
+| Current | Strong to very strong (tidal) — sources report 6-10 knots at peak flow, consistent with the Current Cut entry for this same channel |
 | Water Temp | 24–28°C |
 
 ## Marine Life
 
-Current Cut is one of the best sites in the Bahamas for fish volume — the constant food delivery from the moving water supports enormous populations. Schools of horse-eye jacks and bar jacks pack the channel walls in dense, swirling formations. Caribbean reef sharks and nurse sharks are common in the cut. Spotted eagle rays and southern stingrays ride the current through the channel. The walls themselves carry spectacular sea fan gardens and large barrel sponges. Barracuda hover at the edges of the main flow. Schools of snappers and grunts shelter in eddies behind the coral formations.
+This is the same channel documented in the Current Cut entry for this destination, so the marine life described there applies here too: a resident pod of stingrays is one of the defining sights, and blacktip sharks are the shark species most consistently reported, including along a stretch nicknamed "Shark Alley" where they feed on fish swept through by the current. Eagle rays, lobster, parrotfish, and queen angelfish are also reported holding in crevices and potholes along the flow. The walls carry sea fan gardens and sponges that thrive in the moving water. (Earlier versions of this description listed horse-eye jacks, bar jacks, nurse sharks, barracuda, snappers, and grunts as confirmed sightings; none of those could be re-verified against a source for this channel and they have been removed pending confirmation.)
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Current Cut is exhilarating and challenging to photograph simultaneously — the
 - The dive is completely tide-dependent — book based on operator tidal calculations, not calendar dates
 
 ---
-*Sources: [Discover Eleuthera Bahamas - The Current Cut](https://www.discover-eleuthera-bahamas.com/the-current-cut/), [Eleuthera.me - Current Cut](https://eleuthera.me/currentcut.html), [Zentacle - Current Cut](https://www.zentacle.com/Beach/3565/current-cut), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*
+*Sources: [Discover Eleuthera Bahamas - The Current Cut](https://www.discover-eleuthera-bahamas.com/the-current-cut/), [Eleuthera.me - Current Cut](https://eleuthera.me/currentcut.html), [Zentacle - Current Cut](https://www.zentacle.com/Beach/3565/current-cut), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-07-14.*

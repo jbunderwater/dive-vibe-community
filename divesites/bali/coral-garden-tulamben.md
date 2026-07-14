@@ -17,7 +17,7 @@ The reef adjacent to the famous USAT Liberty wreck at Tulamben -- one of the mos
 
 ## Overview
 
-Coral Garden is the stretch of reef immediately alongside the USAT Liberty wreck site at Tulamben, on Bali's northeast coast. While most divers come to Tulamben for the Liberty, Coral Garden is a destination in its own right and one of the most-dived reef sites on the island. The reef begins in the shallows near shore and slopes down over varied hard coral formations -- table corals, staghorn thickets, massive Porites heads -- interspersed with large barrel sponges and sea fans. The site reaches a maximum depth of approximately 25 meters on the sandy slope below the reef edge.
+Coral Garden is the stretch of reef immediately alongside the USAT Liberty wreck site at Tulamben, on Bali's northeast coast. While most divers come to Tulamben for the Liberty, Coral Garden is a destination in its own right and one of the most-dived reef sites on the island. The reef begins in the shallows near shore and slopes down over varied hard coral formations -- table corals, staghorn thickets, massive Porites heads -- interspersed with large barrel sponges and sea fans. Local dive shop listings describe the site itself as a shallow 3–15 meter beginner reef, though diver trip reports covering the broader coral-garden slope toward the drop-off describe depths reaching 25–30 meters — treat the deeper figure as applying to the wider slope rather than the core beginner-friendly reef.
 
 Shore entry over the black volcanic pebble beach makes this an accessible dive without the need for a boat, and the site can be dived at all levels. The shallow maximum depth of 15 metres means extended bottom times and easy profiles. The proximity to the Liberty wreck means that marine life moves freely between the two sites, and species attracted to the wreck's artificial reef structure are regularly encountered on the adjacent reef. Sunken Balinese statues — including Buddha figures and Hindu deity representations — have been placed on the reef over the years, serving as focal points for marine life.
 
@@ -35,7 +35,7 @@ Shore entry over the black volcanic pebble beach makes this an accessible dive w
 
 ## Marine Life
 
-The Coral Garden is confirmed to host ghost pipefish, leaf scorpionfish, harlequin shrimp, and mantis shrimp — specialist critters on a reef that most visitors to Tulamben overlook while heading directly to the Liberty. Clownfish are abundant in large anemone patches. Blue and yellow ribbon eels inhabit sandy areas. Schools of trevally, sweetlips, and snapper are regular visitors. Reef sharks — predominantly blacktip and whitetip — are occasionally seen. Cuttlefish and squid hover over the coral heads. Spanish dancers (nudibranchs) are a night-dive highlight. Bumphead parrotfish move through in small groups, typically in early morning.
+The Coral Garden is confirmed to host ghost pipefish, leaf scorpionfish, harlequin shrimp, and mantis shrimp — specialist critters on a reef that most visitors to Tulamben overlook while heading directly to the Liberty. Clownfish are abundant in large anemone patches. Blue and yellow ribbon eels inhabit sandy areas. Schools of trevally, sweetlips, and snapper are regular visitors. Blacktip and whitetip reef sharks are reported in the area. Cuttlefish and squid are seen over the coral heads. Spanish dancers (nudibranchs) are a night-dive highlight. **Correction**: none of the three current sources for this site mention bumphead parrotfish at Coral Garden specifically — that species is well known from other spots in greater Tulamben (notably near the Liberty/Drop-off), but the earlier claim that they move through Coral Garden in the early morning was not corroborated here and has been removed.
 
 ## Dive Profile
 
@@ -49,7 +49,6 @@ This is a shore dive. Enter from the black volcanic pebble beach at Tulamben vil
 
 ## Tips and Recommendations
 
-- Dive early morning for the best chance of seeing bumphead parrotfish -- they tend to move through in the first hours of daylight
 - Combine with a Liberty wreck dive for a full morning of diving without moving sites
 - A macro lens rewards careful searching through the coral rubble and sponges for nudibranchs and small critters
 - Booties are essential for the pebble beach entry -- barefoot entry is painful and risks injury
@@ -57,11 +56,11 @@ This is a shore dive. Enter from the black volcanic pebble beach at Tulamben vil
 
 ## Safety Considerations
 
-Coral Garden is a straightforward reef dive without significant hazards. The shore entry over pebbles requires care to avoid slipping, especially when wearing full equipment. Current is generally mild but can pick up on occasion -- if current is present, stay close to the reef and do not venture into open water beyond the slope. The maximum depth of 25 meters is within recreational limits but plan gas management for the return swim to shore. Be aware of boat traffic near the surface, particularly jukung outrigger boats transporting divers to other sites -- ascend close to the reef rather than in open water.
+Coral Garden is a straightforward reef dive without significant hazards. The shore entry over pebbles requires care to avoid slipping, especially when wearing full equipment. Current is generally mild but can pick up on occasion -- if current is present, stay close to the reef and do not venture into open water beyond the slope. The site's beginner-friendly shallow section stays within recreational limits, but plan gas management for the return swim to shore if you follow the reef deeper toward the drop-off. Be aware of boat traffic near the surface, particularly jukung outrigger boats transporting divers to other sites -- ascend close to the reef rather than in open water.
 
 ## Photography
 
-Both macro and wide-angle photography are productive here. The table coral formations and barrel sponges provide excellent wide-angle subjects with good natural light in the shallows. Nudibranchs and small critters throughout the reef reward macro work. Bumphead parrotfish are challenging to photograph as they move steadily, but a wide-angle lens and patient positioning can yield dramatic shots. Cuttlefish are more cooperative subjects, often holding still or approaching curious photographers. The black volcanic sand creates a distinctive dark backdrop for close-focus wide-angle compositions of coral heads.
+Both macro and wide-angle photography are productive here. The table coral formations and barrel sponges provide excellent wide-angle subjects with good natural light in the shallows. Nudibranchs and small critters throughout the reef reward macro work. Cuttlefish are cooperative subjects, often holding still or approaching curious photographers. The black volcanic sand creates a distinctive dark backdrop for close-focus wide-angle compositions of coral heads.
 
 ---
-*Sources: [Let's Dive Tulamben - Coral Garden](https://letsdivetulamben.com/dive-sites/coral-garden/), [Bali Dive Resort & Spa - Tulamben Sites](https://www.balidiveresortandspa.com/dive-sites-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=877). Last updated 2026-05-17.*
+*Sources: [Let's Dive Tulamben - Coral Garden](https://letsdivetulamben.com/dive-sites/coral-garden/), [Bali Dive Resort & Spa - Tulamben Sites](https://www.balidiveresortandspa.com/dive-sites-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=877). Last updated 2026-07-14.*
