@@ -24,7 +24,7 @@ The site takes its name from an abandoned Jeep that lies encrusted in coral and 
 - **Location**: Exuma Cays Land and Sea Park, near February Point, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 15 meters (one dive-site database lists a shallower 10 m — sources aren't fully consistent, so treat 10–15 m as the working range)
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate to strong at tidal change — dive at slack tide
 - **Best Time**: November to May

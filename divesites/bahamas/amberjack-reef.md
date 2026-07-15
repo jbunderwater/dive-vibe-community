@@ -24,7 +24,7 @@ This compact patch reef — roughly 50 feet in length — punches well above its
 - **Location**: Exuma Cays Land and Sea Park, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 15 meters (sources vary noticeably here, reporting anywhere from about 11 m to 21 m — we've kept the existing mid-range figure pending a more precise site-specific measurement)
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate
 - **Best Time**: November to May

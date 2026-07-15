@@ -133,25 +133,6 @@
     }
   },
   {
-    "name": "Bali Scuba",
-    "lat": -8.7057211,
-    "lon": 115.2528946,
-    "osm_id": 3546785649,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "baliscuba.com,padi.com",
-    "tags": {
-      "description": "Reef dive site near Nusa Penida/south Bali area. NOTE: Name 'Bali Scuba' does not appear as a named dive site in operator listings; may be an OSM entry for a dive business rather than a named dive site. No site-specific sources found.",
-      "name": "Bali Scuba",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-07-15"
-    }
-  },
-  {
     "name": "Blue Hill Dive Site",
     "lat": -8.2875992,
     "lon": 115.6050638,
@@ -166,25 +147,6 @@
     "tags": {
       "description": "Likely the house reef at Bluehill Dive Resort Tulamben, a shallow shore-entry reef (2-15m) between the USAT Liberty Wreck and the Tulamben Wall. Known for statues and stone carvings scattered on the reef. Single source only; requires additional independent validation.",
       "name": "Blue Hill Dive Site",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-07-15"
-    }
-  },
-  {
-    "name": "Water Walk",
-    "lat": -8.7065673,
-    "lon": 115.2631469,
-    "osm_id": 3909173262,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "baligoldentour.com,seawalkerdive.com",
-    "tags": {
-      "description": "Reef dive site near Nusa Penida area. NOTE: 'Water Walk' at Sanur is primarily known as a seawalker (helmet diving) activity venue, not a conventional scuba dive site. No scuba dive site named 'Water Walk' confirmed in operator listings at these coordinates. Requires verification.",
-      "name": "Water Walk",
       "sport": "scuba_diving",
       "last_qa_date": "2026-07-15"
     }
@@ -500,25 +462,6 @@
     "tags": {
       "description": "Shore-entry shallow reef between Liberty Wreck and Drop-off at Tulamben. 3-15m depth. Table corals, staghorn, massive Porites heads on black volcanic sand. Sunken Balinese statues (Buddha, Hindu deities) as focal points. Ghost pipefish, leaf scorpionfish, harlequin shrimp, mantis shrimp, clownfish in large anemone patches, ribbon eels, reef sharks, bumphead parrotfish (early morning). Night: Spanish dancers. Accessible all levels.",
       "name": "Coral Garden Tulamben",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-07-15"
-    }
-  },
-  {
-    "name": "Big Fins TecDiving",
-    "lat": -8.2784946,
-    "lon": 115.5933629,
-    "osm_id": 9028333855,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "bigfins.asia",
-    "tags": {
-      "description": "Tulamben area. Note: 'Big Fins TecDiving' refers to a technical diving operator (bigfins.asia) rather than a named dive site. No independent dive site named 'Big Fins TecDiving' confirmed in operator site listings. Single source; requires verification as a legitimate dive site entry.",
-      "name": "Big Fins TecDiving",
       "sport": "scuba_diving",
       "last_qa_date": "2026-07-15"
     }
