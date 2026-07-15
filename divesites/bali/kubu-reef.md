@@ -33,7 +33,7 @@ Kubu Reef is located off the village of Kubu on Bali's northeast coast, approxim
 
 ## Marine Life
 
-Kubu Reef is rich in both critter life and reef species. Multiple anglerfish species have been documented here, including yellow, white (clown), and black striped varieties. Ornate ghost pipefish drift among the coral outcrops. Pygmy seahorses cling to gorgonia fans at depth -- look carefully, as they are extremely well camouflaged. The deeper reef sections feature large barrel sponges and gorgonias that provide habitat for a range of invertebrates. General reef fish are abundant across both sub-sites.
+Kubu Reef is rich in both critter life and reef species. Michael McFadyen's site survey documents yellow anglerfish and juvenile clown anglerfish here alongside ornate ghost pipefish, pygmy seahorses, and juvenile striped frogfish -- other operator listings describe "multiple color morphs" of anglerfish at Kubu without giving the same level of species-by-species detail, so treat the full range of morphs as likely but not individually confirmed. Pygmy seahorses cling to gorgonia fans at depth -- look carefully, as they are extremely well camouflaged. The shallows near shore (3-8 m) have staghorn coral and schools of reef fish over a sand-and-rock bottom; garden eels and blue-spotted stingrays are found on the sandy slope. The deeper reef sections feature large barrel sponges and gorgonias that provide habitat for a range of invertebrates, and part of the site also carries submerged bicycles and motorbikes placed as additional artificial-reef structure, now partly coral-encrusted. General reef fish are abundant across both sub-sites.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The shore entry involves a walk over uneven terrain -- the porters are well wort
 Kubu Reef offers excellent opportunities for both macro and wide-angle photography. The anglerfish are superb macro subjects, and pygmy seahorses on gorgonias are a prized capture for patient photographers with appropriate macro equipment. The barrel sponges and gorgonias at depth provide good wide-angle compositions. A versatile setup or a dedicated macro rig is recommended.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=876), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/), [Pebble and Fins - Kubu Dive Sites](https://pebbleandfins.com/the-ultimate-guide-to-kubus-hidden-dive-sites/). Last updated 2026-05-17.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=876), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/), [Pebble and Fins - Kubu Dive Sites](https://pebbleandfins.com/the-ultimate-guide-to-kubus-hidden-dive-sites/). Last updated 2026-07-15.*

@@ -17,7 +17,7 @@ Connected Dott is a reef dive site located off Great Exuma Island in the central
 
 ## Overview
 
-Connected Dott sits in the Great Exuma area alongside other local reef sites including Amberjack Reef and Seabass. The site appears in regional dive condition forecasts and is part of the dive portfolio operated from George Town, the main settlement on Great Exuma. Specific published descriptions of this site are limited in publicly available sources; the information below reflects what is known from the broader regional context.
+Connected Dott sits in the Great Exuma area alongside other local reef sites tracked by the same source, including Amberjack Reef and Seabass. This audit re-confirmed that ScubaWeather.com's Great Exuma page for "Connected Dott" is a live, real dive-conditions database entry that cross-links to those two sibling sites, confirming all three names are used by at least this one source. However, despite extensive searching (WebSearch for the site name directly, and checks of Dive Exuma's and other Great Exuma dive shop websites, ScubaBoard, Wannadive, and Divingaway), no second independent source could be found that names this specific site. Specific published descriptions of this site remain limited to that one source; the information below reflects what is known from the broader Great Exuma regional context rather than site-specific reporting.
 
 ## Site Information
 
@@ -31,7 +31,7 @@ Connected Dott sits in the Great Exuma area alongside other local reef sites inc
 
 ## Marine Life
 
-The Great Exuma reefs typically support Caribbean reef fish communities including groupers, snapper, parrotfish, angelfish, barracuda, nurse sharks, and southern stingrays. Sea turtles are commonly encountered throughout the area.
+This site shares the Bahamas' regional reef fauna, but no site-specific marine life reports were found in current sources. (The Great Exuma area generally supports Caribbean reef fish communities, but no source confirms specific species at this site by name.)
 
 ## Dive Profile
 
@@ -51,4 +51,4 @@ Access is by boat. Dive Exuma in George Town is the primary local operator offer
 Check current and visibility conditions with your dive operator before entry. Carry an SMB for open-water ascents.
 
 ---
-*Sources: [ScubaWeather - Connected Dott](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). Only one source found; validation status set to false pending additional independent sources. Description based on regional diving characteristics. Last updated 2026-05-17.*
+*Sources: [ScubaWeather - Connected Dott](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). Re-audited 2026-07-15: confirmed this remains the only independent source found for this exact site name despite targeted searches of local dive shops (Dive Exuma, thescubadirectory.com), ScubaBoard, Wannadive, and Divingaway. Validation status remains false pending additional independent sources. Description based on regional diving characteristics; marine life claims removed as non-site-specific. Last updated 2026-07-15.*

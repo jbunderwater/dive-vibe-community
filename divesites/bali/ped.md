@@ -17,7 +17,7 @@ A drift dive along Nusa Penida's sheltered north coast — sloping reefs, reside
 
 ## Overview
 
-Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside SD, Sental, and Buyuk — that line the more sheltered northern coastline of the island. The site features sloping coral reefs with consistent current that creates ideal conditions for drift diving through rich fish life. Unlike the dramatic, exposed southern sites, PED is more sheltered from the Indian Ocean swell, making it a reliable choice when conditions elsewhere are challenging. The current-swept slopes bring nutrient-rich water that supports dense populations of reef fish, turtles, and occasional pelagic visitors including giant trevally and, in season, mola mola.
+Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside SD, Sental, and Buyuk — that line the more sheltered northern coastline of the island. The site is a steep, current-swept coral slope — reported at roughly 45° in places — starting around 3–5 m and dropping well beyond recreational depths; sources describe stretches of deep wall between Ped and neighbouring Sental within the broader slope. Unlike the dramatic, exposed southern sites, PED is more sheltered from the Indian Ocean swell, making it a reliable choice when conditions elsewhere are challenging. The current-swept slope brings nutrient-rich water that supports dense populations of reef fish, turtles, and occasional pelagic visitors including giant trevally and, in season, mola mola.
 
 ## Site Information
 
@@ -25,18 +25,18 @@ Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15–25 m
-- **Current**: Moderate; consistent drift current along the wall
-- **Best Time**: April to October
+- **Maximum Depth**: 30 meters (reef continues well beyond recreational limits; most diving happens 15–25 m)
+- **Typical Visibility**: 18–30 m
+- **Current**: Moderate; consistent drift current along the slope, with occasional pull-out currents and downdrafts
+- **Best Time**: April to October; mola mola season extends July to mid-November
 
 ## Marine Life
 
-Green and hawksbill turtles are commonly found on the reef slope. Dense schools of fusiliers, anthias, and sweetlips follow the current along the wall. Giant trevally hunt in the blue water, and reef sharks are frequently sighted. During the July–October mola mola season, oceanic sunfish have been reported here. Macro life includes nudibranchs, shrimps, and small cephalopods in coral crevices.
+Green and hawksbill turtles are commonly found on the reef slope. Dense schools of fusiliers and sweetlips follow the current, alongside butterflyfish, triggerfish, parrotfish, and angelfish reported on the reef. Giant trevally hunt in the blue water, and whitetip and blacktip reef sharks are regularly sighted. Mola mola (ocean sunfish) are reported here during the July-to-mid-November upwelling season — Ped is considered one of the better mola sites on the north coast, though less consistent than Crystal Bay; note that not every source that covers Ped mentions mola sightings, so treat it as a possibility rather than a highlight. Macro finds include nudibranchs, mantis shrimp, and giant pufferfish.
 
 ## Dive Profile
 
-Descend at the upstream end of the site and drift along the reef slope at 15–25 m. The gentle gradient allows divers to control depth easily while observing fish life. Watch for turtles feeding on the reef crest in the shallows. Ascend gradually and complete a 3-minute safety stop at 5 m before signalling the boat with an SMB.
+Descend at the upstream end of the site and drift along the slope, spending most of the dive around 18–20 m — the depth band most operators recommend for the best mix of visibility, current, and marine life. Watch for turtles feeding on the reef crest in the shallows. Ascend gradually and complete a 3-minute safety stop at 5 m before signalling the boat with an SMB.
 
 ## Entry and Exit
 
@@ -59,4 +59,4 @@ Drift currents can be strong and may accelerate unexpectedly. Stay aware of dept
 Wide-angle suits the sloping reef with schools of fusiliers and turtles. Turtles grazing in the shallows offer portrait opportunities with good natural light. The current-swept character of the site means quick composition is needed — practice shooting on the move.
 
 ---
-*Sources: [Nusa Penida.org - Ped, SD Point, Sental](https://nusapenida.org/ped-sd-point-sental-buyuk-tugu), [Purple Dive Penida - Ped](https://www.purpledivepenida.com/ped), [Aquamarine Diving - Sental, Ped, SD](https://www.aquamarinediving.com/bali-diving/dive-sites/nusa-penida-lembongan/sental-ped-sd/). Last updated 2026-05-17.*
+*Sources: [Nusa Penida.org - SD Point & Ped](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/ped-sd-point-sental-buyuk-tugu/), [Purple Dive Penida - Ped](https://www.purpledivepenida.com/ped), [Aquamarine Diving - Sental, Ped, SD](https://www.aquamarinediving.com/bali-diving/dive-sites/nusa-penida-lembongan/sental-ped-sd/), [Dive Concepts - Pura Ped](https://diveconcepts.com/bali/spot-pura-ped.php). Last updated 2026-07-15.*

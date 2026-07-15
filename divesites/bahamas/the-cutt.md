@@ -17,7 +17,7 @@ The Cutt is a tidal channel dive site in the Abaco Islands of the northern Baham
 
 ## Overview
 
-Located in the Abaco Island chain near Guana Cay (approximately 26.75°N, 77.87°W), The Cutt is a tidal channel where ocean water is forced between two cay formations. Channel cuts like this one are a feature of Abaco diving — the tidal currents concentrate nutrients and attract larger predatory fish. Divers drop in at one end and drift with the current through the cut, with the boat repositioning to the exit point. Reefs flank the channel and provide the main visual interest between current pulses.
+Located in the Abaco Island chain near Guana Cay (approximately 26.75°N, 77.87°W), The Cutt is described in our data as a tidal channel where ocean water is forced between two cay formations. Important caveat from this audit: the previously-cited ScubaBoard thread ("Diving in Abaco Bahamas on our own") was re-read in full and does **not** actually mention a site called "The Cutt" anywhere — it discusses Fowl Cays Preserve, Pelican Cays/Sandy Cay, Grouper Alley, and general Guana Cay/Scotland Cay channel diving, but never that name. The original single-source citation for this site therefore does not hold up under re-verification. Despite additional targeted searches (Dive Guana's site list, other Abaco operator pages, general "the cut"/"the cutt" Abaco searches), no source — old or new — could be found that names a site called "The Cutt." A well-documented tidal channel by a similar name, "Current Cut," exists near Eleuthera (not Abaco) and is a distinct, unrelated site. Channel cuts are a genuine and well-documented feature of Abaco diving in general, and the coordinates recorded for this entry are internally consistent with the Abaco chain, but this specific named site could not be independently confirmed to exist. Treat the description below as a plausible but unverified regional characterization rather than a confirmed site profile.
 
 ## Site Information
 
@@ -30,7 +30,7 @@ Located in the Abaco Island chain near Guana Cay (approximately 26.75°N, 77.87�
 
 ## Marine Life
 
-Tidal channel cuts in Abaco are known to draw Caribbean reef sharks and eagle rays into the current flow. Grouper and snapper congregate around the channel edges. Coral and sponge growth on the channel walls provides habitat for reef fish. The current-driven nutrient flow supports healthy invertebrate communities.
+This site shares the Bahamas' regional reef fauna, but no site-specific marine life reports were found in current sources — and, per the naming caveat above, this audit could not even confirm the site itself is independently documented. The previously-listed species (Caribbean reef sharks, eagle rays, grouper, snapper) have been removed as unverifiable for this specific location.
 
 ## Dive Profile
 

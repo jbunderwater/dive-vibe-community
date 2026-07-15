@@ -33,7 +33,7 @@ Thunderball Grotto is a limestone sea cave on a small rocky island near Staniel 
 
 ## Marine Life
 
-The cave interior supports a dense community of tropical fish that have become highly habituated to visitors. Large schools of yellowtail snapper, sergeant majors, and chromis fill the interior chamber — the fish are comfortable approaching to arm's length. Outside the cave, the reef and rock surfaces carry hard coral formations, sea fans, and encrusting organisms. Nurse sharks occasionally rest on the cave floor. The clear Exuma water means every fish is vividly visible from surface snorkelling level.
+Bahamas.com and multiple local operators consistently document yellowtail snapper, angelfish, and sergeant majors inside the grotto, with large snapper and sergeant majors often clustering just inside the entrance — the fish are habituated enough to approach visitors closely. No source consulted in this audit confirmed sharks inside the grotto; the prior claim of nurse sharks resting on the cave floor has been removed as unverifiable. "Chromis" has also been removed — no source named this species at the site.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Thunderball Grotto is one of the Caribbean's most photographed underwater locati
 - The cave is approximately 15 minutes by boat from Staniel Cay
 
 ---
-*Sources: [Bahamas Air Tours - Thunderball Grotto](https://www.bahamasairtours.com/destination/thunderball-grotto/), [Staniel Cay Adventures - Thunderball Grotto](https://stanielcayadventures.com/thunderball-grotto-staniel-cay-james-bond/), [Nassau Bahamas Guide - Thunderball Grotto](https://nassaubahamasguide.com/destination/thunderball-grotto-james-bond/), [Sandals - Visiting Thunderball Grotto](https://www.sandals.com/blog/thunderball-grotto/). Last updated 2026-05-17.*
+*Sources: [Bahamas Air Tours - Thunderball Grotto](https://www.bahamasairtours.com/destination/thunderball-grotto/), [Staniel Cay Adventures - Thunderball Grotto](https://stanielcayadventures.com/thunderball-grotto-staniel-cay-james-bond/), [Nassau Bahamas Guide - Thunderball Grotto](https://nassaubahamasguide.com/destination/thunderball-grotto-james-bond/), [Sandals - Visiting Thunderball Grotto](https://www.sandals.com/blog/thunderball-grotto/), [Bahamas.com - Thunderball Grotto](https://www.bahamas.com/natural-wonders/thunderball-grotto). Re-audited 2026-07-15: filming history (Thunderball 1965, Never Say Never Again 1983) re-confirmed with no conflicts; marine life narrowed to sourced species. Last updated 2026-07-15.*

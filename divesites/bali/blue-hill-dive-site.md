@@ -32,31 +32,29 @@ Blue Hill's house dive sites are two reef areas situated at the end of Tulamben 
 
 ## Marine Life
 
-Parrotfish, fusiliers, and anthias are abundant on the upper reef. Turtles are regularly sighted grazing on the reef crest. Moray eels, grouper, and lionfish inhabit the coral cavities at 15–20 m. Smaller critters including nudibranchs and cleaner shrimps are found in the rubble zones at depth.
+The only site-specific claim found is that these reefs, being less frequently dived than Tulamben's shore sites, have become a refuge for pygmy seahorses. No other species are confirmed for this specific site in available sources; broader reef fish typical of the Tulamben coral formations may be present but are not independently verified here.
 
 ## Dive Profile
 
-Enter at the boat and descend to the reef at 10 m. Follow the sloping reef to 20–25 m, then ascend gradually back along the slope. Most fish life is concentrated at 8–18 m. The shallow reef section between 3–8 m offers a colourful final exploration during the safety stop period.
+Boat transfer (~10 minutes) from Blue Hill Dive Resort to the twin reef sites at the end of Tulamben Wall. Coral growth is concentrated around 20–30 metres on a sandy bottom. Beyond the pygmy seahorse habitat, no further site-specific dive profile detail was found — plan the dive with your operator based on current conditions and diver experience.
 
 ## Entry and Exit
 
-Boat dive from Tulamben area operators. Entry via back roll. Currents are manageable. SMB deployment recommended for ascent in open water.
+Boat dive, departing from Blue Hill Dive Resort. No further site-specific entry/exit detail was found.
 
 ## Tips and Recommendations
 
-- Excellent filler dive between the Liberty wreck and muck diving sites in the Tulamben area
-- Well-suited for Open Water divers progressing toward their Advanced certification
-- Check sea fans at depth for pygmy seahorses if available in the area
-- Pair with an early morning Liberty wreck dive for a productive two-dive morning
-- Afternoon dives can be affected by increased current — check with operators
+- Ask the resort's dive team about current pygmy seahorse locations before the dive
+- Less-dived than Tulamben's popular shore sites, so a good option for divers seeking fewer other groups underwater
+- Confirm depth and current conditions with Blue Hill's dive team, as detailed profile information beyond depth range was not available from independent sources
 
 ## Safety Considerations
 
-Maintain good buoyancy above the reef to avoid coral contact. Lionfish in overhangs are venomous — observe without touching. Sea urchins on the substrate can cause injury if handled or stepped on with bare skin.
+No site-specific hazards are documented in available sources. As a 20–30 m reef dive, plan gas management and no-decompression limits accordingly, and maintain buoyancy control around the coral formations.
 
 ## Photography
 
-Good light in the shallows suits reef scene photography. Fish portraits of parrotfish and surgeonfish work well at the reef crest. Look for cleaner stations on prominent coral heads for fish portrait opportunities.
+Pygmy seahorses are the standout macro subject reported for this site — bring a macro lens and a dive guide experienced at finding them. No other photography-specific detail was found in available sources.
 
 ---
-*Description based on regional characteristics of the Tulamben corridor. The "Blue Hill Dive Site" likely refers to the house reef at Bluehill Dive Resort Tulamben — a shallow shore-entry reef (2–15 m) between the Liberty Wreck and the Tulamben Wall, known for statues and stone carvings on the reef. No independent site-specific sources found under this exact name. Last updated 2026-05-17.*
+*Sources: [Blue Hill Dive Resort - Dive Page](https://www.bluehilltulamben.com/dive). Note: only one independent source confirmed for this site despite additional searches — validation_source remains single-source until a second independent source is found. Last updated 2026-07-15.*

@@ -17,7 +17,7 @@ Padangbai's most popular shore dive — crystal-clear, calm water with colourful
 
 ## Overview
 
-Blue Lagoon is Padangbai's signature dive site, set in a sheltered bay just east of the ferry port on Bali's east coast. The site starts at 3–5 m over a white sandy bottom scattered with coral bommies and transitions to a deeper wall section on the right side (Tanjung Sari, max 15–18 m). The calm, protected conditions make it the go-to site for Open Water certification training and introductory dives, yet the reef is rich enough to satisfy experienced divers. The crystal-clear water earns the site its name, and visibility regularly exceeds 15 m. It is commonly paired with Gili Tepekong or Gili Mimpang for divers wanting a contrast between gentle and challenging dives.
+Blue Lagoon is Padangbai's signature dive site, set in a sheltered bay just east of the ferry port on Bali's east coast. The site starts at 3–5 m over a white sandy bottom scattered with coral bommies. On the southern end of the bay, Tanjung Sari (also called Shark Point) is a reef cape that slopes down to around 15–18 m, separating Blue Lagoon from Padangbai harbor; a deeper wall section is also reported to the north, running to roughly 30 m. The calm, protected conditions make it a popular site for Open Water certification training and introductory dives, yet the reef is rich enough to satisfy experienced divers. The crystal-clear water earns the site its name, and visibility regularly exceeds 15–20 m. It is commonly paired with Gili Tepekong or Gili Mimpang for divers wanting a contrast between gentle and challenging dives.
 
 ## Site Information
 
@@ -27,12 +27,12 @@ Blue Lagoon is Padangbai's signature dive site, set in a sheltered bay just east
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–20 m
-- **Current**: Minimal inside the bay
+- **Current**: Light to minimal inside the bay; can strengthen at the northern end outside the sheltered area
 - **Best Time**: April to November
 
 ## Marine Life
 
-Clownfish in anemones are abundant throughout the bommies. Moray eels occupy coral crevices, and lionfish rest under overhangs. Sweetlips, butterflyfish, parrotfish, and triggerfish are commonly seen. Occasional turtles graze on the reef, and reef sharks have been sighted on the wall section. Nudibranchs and small crustaceans reward patient macro searchers.
+Clownfish in anemones are abundant throughout the bommies. Moray eels occupy coral crevices, and lionfish, scorpionfish, and stonefish rest under overhangs and staghorn coral. Sweetlips and crocodile fish are commonly reported over the reef. Blue-spotted stingrays, Napoleon wrasse, octopus, and cuttlefish are documented here, along with turtles. Whitetip reef sharks are specifically reported at the Tanjung Sari wall/cape at the southern end of the bay, often resting on sand or under coral around 17 m. Nudibranchs reward patient macro searchers.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Shore entry from the Blue Lagoon beach. Walk to waist depth and submerge. The be
 
 - An ideal site for the first ocean dive of a certification course or a checkout dive
 - The right-hand wall at Tanjung Sari offers more depth and variety for experienced divers
-- Night dives are excellent here — octopus, cuttlefish, and lobster are active after dark
+- Night dives are excellent here — octopus, cuttlefish, and Spanish dancers are reported after dark
 - Visit on a weekday morning to avoid the peak snorkel tour crowds
 - Combine with Gili Tepekong or Gili Mimpang for a varied diving day from Padangbai
 
@@ -59,4 +59,4 @@ The bay is very calm, but boat traffic enters and exits the area — be visible 
 Excellent natural light in the shallows suits wide-angle reef shots and fish portraits. Clownfish in anemones are predictable subjects. Night dives add octopus, cuttlefish, and nudibranchs. The white sand bottom reflects light beautifully for macro shots.
 
 ---
-*Sources: [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Neptune Scuba Diving - Bali Dive Sites](https://neptunescubadiving.com/bali-diving/bali-dive-sites/). Last updated 2026-05-17.*
+*Sources: [Blue Season Bali - Blue Lagoon Padang Bai](https://www.baliocean.com/blog/dive-site-blue-lagoon-padang-bai/), [PADI - Blue Lagoon](https://www.padi.com/dive-site/indonesia/blue-lagoon/), [Divezone - Blue Lagoon](https://divezone.net/divesite/blue-lagoon), [Neptune Scuba Diving - Bali Dive Sites](https://neptunescubadiving.com/bali-diving/bali-dive-sites/). Last updated 2026-07-15.*

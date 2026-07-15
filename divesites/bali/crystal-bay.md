@@ -32,7 +32,7 @@ Crystal Bay is Bali's premier site for encountering the ocean sunfish (mola mola
 
 ## Marine Life
 
-Mola mola (ocean sunfish) are the signature attraction, typically seen at 20–30 meters near cleaning stations from July to October. Reef whitetip and blacktip sharks patrol the deeper sections. Large schools of bumphead parrotfish visit the reef along with giant trevally and barracuda. The reef is carpeted with hard corals, sea fans, and crinoids. Hawksbill turtles are regularly encountered on the shallower reef top. During non-mola season, the site still offers excellent macro subjects including nudibranchs and pygmy seahorses in sea fans.
+Mola mola (ocean sunfish) are the signature attraction, typically encountered at 20–30 meters near cleaning stations from July to October, peaking in August–September. Reef whitetip and blacktip sharks patrol the deeper sections, and reef manta rays are also reported here on occasion. Large schools of bumphead parrotfish visit the reef along with giant trevally and barracuda. The reef is carpeted with hard corals, sea fans, and crinoids. Hawksbill turtles are regularly encountered on the shallower reef top. During non-mola season, the site still offers excellent macro subjects, including nudibranchs, frogfish, and Zanzibar and Thor shrimp on the sandy areas.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Downwellings at Crystal Bay can pull divers deep rapidly — this is a documente
 
 ## Photography
 
-The mola mola is one of diving's most iconic and difficult photographic subjects. Use a wide-angle lens and approach slowly from below or to the side — never block the sunfish's path to the surface. Ambient light is usually sufficient at cleaning station depths. The reef boulders and sea fans provide dramatic backdrops for wide-angle reef shots. A macro lens is productive for nudibranchs and pygmy seahorses on the shallower sections.
+The mola mola is one of diving's most iconic and difficult photographic subjects. Use a wide-angle lens and approach slowly from below or to the side — never block the sunfish's path to the surface. Ambient light is usually sufficient at cleaning station depths. The reef boulders and sea fans provide dramatic backdrops for wide-angle reef shots. A macro lens is productive for nudibranchs and shrimp on the sandy, shallower sections.
 
 ---
-*Sources: [Nusa Penida.org - Diving Crystal Bay](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/diving-crystal-bay-nusa-penida/), [ScubaBoard - Crystal Bay Safety](https://scubaboard.com/community/threads/lets-be-careful-down-there-excellent-article-on-crystal-bay-nusa-penida-bali.465688/), [Scuba Diver Life - Crystal Bay](https://scubadiverlife.com/dive-site-crystal-bay-nusa-penida-bali-indonesia/), [Purple Dive Penida - Crystal Bay](https://www.purpledivepenida.com/post/crystal-bay-nusa-penida-dive-guide). Last updated 2026-05-17.*
+*Sources: [Nusa Penida.org - Diving Crystal Bay](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/diving-crystal-bay-nusa-penida/), [ScubaBoard - Crystal Bay Safety](https://scubaboard.com/community/threads/lets-be-careful-down-there-excellent-article-on-crystal-bay-nusa-penida-bali.465688/), [Scuba Diver Life - Crystal Bay](https://scubadiverlife.com/dive-site-crystal-bay-nusa-penida-bali-indonesia/), [Purple Dive Penida - Crystal Bay](https://www.purpledivepenida.com/post/crystal-bay-nusa-penida-dive-guide). Last updated 2026-07-15.*

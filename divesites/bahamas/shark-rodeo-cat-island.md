@@ -5,7 +5,7 @@ lng: -75.4333
 difficulty: Intermediate
 maxDepth: 12
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import

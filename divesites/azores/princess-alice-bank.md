@@ -17,7 +17,7 @@ One of the world's best seamount dives — massive aggregations of mobula rays, 
 
 ## Overview
 
-Princess Alice Bank is consistently ranked among the world's best seamount dives and is the most famous dive site in the Azores. The seamount rises from over 2,500 metres of open Atlantic to its shallowest point; sources report the least depth at the western peak as 29 metres (Wikipedia) to 35 metres (CW Azores, dive.visitazores.com), with an average diving depth around 35 metres and the surrounding platform dropping to 60 metres. Visibility commonly reaches 30–40 metres.
+Princess Alice Bank is consistently ranked among the world's best seamount dives and is the most famous dive site in the Azores. The seamount rises from over 2,500 metres of open Atlantic to its shallowest point; sources report the least depth at the western peak as 29 metres (Wikipedia) to 35 metres (CW Azores, dive.visitazores.com, Portugal Dive), with an average diving depth around 35 metres. Maximum recreational diving depth on the site is around 60 metres — this is distinct from a separate, much deeper geological "platform" feature (~190 m) that Wikipedia describes and is not part of the recreational dive; the two should not be conflated. Visibility commonly reaches 30–40 metres.
 
 The site is renowned for massive aggregations of mobula rays (*Mobula tarapacana*) that form 'carousels' of golden wingtips during summer. Giant manta rays and Galapagos sharks are also regularly encountered. Most diving is done while descending the mooring line, where mobulas frequently approach within metres. The 2.5–3 hour boat ride from Pico or Faial is an expedition; the crossing often yields whale, dolphin, turtle, and seabird sightings. Most operators require a minimum of 50 logged dives, a check dive, and Advanced Open Water certification or equivalent.
 
@@ -34,7 +34,7 @@ The site is renowned for massive aggregations of mobula rays (*Mobula tarapacana
 
 ## Marine Life
 
-Mobula rays (*Mobula tarapacana*) in large summer aggregations — the primary draw. Giant manta rays, Galapagos sharks, Atlantic bonito (*Sarda sarda*), Almaco jacks (*Seriola rivoliana*), greater amberjacks, triggerfish, wahoos, and large tunas have all been observed at this site. Blue sharks and occasional shortfin mako sharks are reported seasonally by some operators.
+Mobula rays (*Mobula tarapacana*) in large summer aggregations — the primary draw, confirmed by dive.visitazores.com, Portugal Dive, CW Azores and ScubaBoard trip reports. Giant manta rays and Galapagos sharks are confirmed by at least two of these sources. Atlantic bonito, Almaco jacks (*Seriola rivoliana*), greater amberjacks, triggerfish, wahoos, and large tunas are also reported at this site by dive.visitazores.com/Portugal Dive/CW Azores. Blue sharks appear in multiple ScubaBoard trip reports. Occasional shortfin mako sharks are reported by only a single operator source found in this pass and should be treated as a lower-confidence, single-sourced claim rather than a regular occurrence.
 
 ## Tips and Recommendations
 
@@ -45,4 +45,4 @@ Mobula rays (*Mobula tarapacana*) in large summer aggregations — the primary d
 - Trip cancellations are common — build flexibility into your schedule
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/princesa-alice), [CW Azores](https://www.cwazores.com/princess-alice), [Wikipedia – Princess Alice Bank](https://en.wikipedia.org/wiki/Princess_Alice_Bank), [DeeperBlue](https://www.deeperblue.com/exploring-azores-princess-alice-bank/). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/princesa-alice), [CW Azores](https://www.cwazores.com/princess-alice), [Wikipedia – Princess Alice Bank](https://en.wikipedia.org/wiki/Princess_Alice_Bank), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/banco-princesa-alice-59.html), [DiveAzores](https://www.diveazores.net/dive-sites/). Last updated 2026-07-15.*

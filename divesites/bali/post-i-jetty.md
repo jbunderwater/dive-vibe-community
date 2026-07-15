@@ -17,7 +17,7 @@ A pleasant sandy slope in front of Menjangan Island's ranger station — an ofte
 
 ## Overview
 
-Post I Jetty sits directly in front of the West Bali National Park ranger station on Menjangan Island and is a gentle sandy slope with a good variety of hard and soft corals reaching to around 30 m. While it lacks the dramatic vertical walls of other Menjangan sites, the shallow area beneath the jetty is genuinely special for critter hunters — ornate ghost pipefish, pipefish, frogfish, and various nudibranchs inhabit the structures and rubble. The site works well as a final dive of the day, providing a relaxed, lower-intensity experience to complement the deeper wall dives at Pos 2 or Bat Cave earlier in the day.
+Post I Jetty (also called Pos I) sits in front of the West Bali National Park ranger station, at what several operators describe as the island's main entrance and one of only a few points where boats can put divers ashore. Multiple dive operators independently describe a shallow zone right at the jetty pilings — useful for critter-hunting and beginner skills practice — adjoining a sandy slope further out. Reported depths for the sandy slope vary considerably by source, from around 16–18 m up to 30–40 m, so treat any single figure as approximate. Currents are consistently reported as calm to gentle, though one operator notes it can occasionally be slight to moderate. Not every operator rates the site highly for pure reef scenery — one describes it as "not the best location on the island for diving" — but it is repeatedly recommended as an easy, low-current dive, particularly for beginners and for spotting cryptic critters under the jetty structure.
 
 ## Site Information
 
@@ -25,38 +25,37 @@ Post I Jetty sits directly in front of the West Bali National Park ranger statio
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10–25 m
-- **Current**: Minimal
+- **Maximum Depth**: 20 meters (recreational reference; sources describe a shallow jetty zone of roughly 1–3 m at the pilings themselves, with the adjoining sandy slope reported anywhere from about 16 m to 30–40 m depending on the operator)
+- **Typical Visibility**: 15–25 m (one source reports up to 20 m+)
+- **Current**: Generally calm to gentle; one source notes it can be slight to moderate at times
 - **Best Time**: April to November
 
 ## Marine Life
 
-The jetty pilings host ornate ghost pipefish, pipefish, various nudibranch species, and small crustaceans. The sandy slope outside has garden eels, blue-spotted stingrays, and occasional cuttlefish. Lionfish rest under overhangs, and batfish congregate near the structure. Turtles are frequently seen on the reef.
+Ornate ghost pipefish are the signature find here — multiple independent operators specifically report them in the shallow water under the jetty pilings. One dive resort's site-specific listing for this location also reports groupers, bigeyes, sea anemones with clownfish, sergeant major fish, powder blue and black tang, emperor angelfish, wrasse, and giant sweetlips. A separate operator reports occasional/rare sightings of eagle ray, bull shark, and whale shark at this site — these appear to be unusual, single-source reports rather than something to expect on a typical dive, so treat them as a possibility rather than a guarantee. Earlier drafts of this page referenced garden eels, blue-spotted stingrays, cuttlefish, lionfish, batfish, and turtles at this specific site; none of those could be confirmed against current sources for Post I Jetty specifically (garden eels in particular belong to the separate Eel Garden / Garden Eels Point site at Menjangan) and have been removed.
 
 ## Dive Profile
 
-Descend under the jetty and spend time searching the pilings and rubble for cryptic critters before moving onto the sandy slope. Dive the slope between 8–20 m exploring coral heads and sandy patches. The dive is typically 45–55 minutes at a comfortable pace. Ascend slowly and complete a 3-minute safety stop.
+Descend at the jetty and spend time searching the pilings and surrounding rubble for ghost pipefish and other cryptic critters before moving onto the sandy slope. Depth on the slope varies by source (see Site Information), so follow your guide's lead rather than a fixed profile. The dive is typically a relaxed, unhurried pace given the calm conditions. Ascend slowly and complete a safety stop.
 
 ## Entry and Exit
 
-Jukung boat from Labuhan Lalang. Entry at the jetty area. Currents are minimal at this site. Surface marker buoy recommended for boat pickup in open water.
+Boat from Labuhan Lalang to the ranger station jetty on Menjangan Island — one of the few points on the island where boats can put divers ashore. Entry at the jetty area. Currents are generally minimal at this site. Carry a surface marker buoy for boat pickup in open water.
 
 ## Tips and Recommendations
 
-- Check jetty pilings carefully for ghost pipefish — they are masters of camouflage
-- Use this as the third dive of the day when bottom time budgets are tighter
-- The site is excellent for Open Water training dives due to its calm, predictable conditions
-- Garden eels are found in sandy patches at around 15 m
+- Check jetty pilings carefully for ornate ghost pipefish — they are masters of camouflage and are the site's best-documented highlight
+- The calm, predictable conditions make this a commonly recommended site for Open Water training or an easy final dive of the day
+- Opinions on the site vary among operators — some rate it primarily as a convenient, easy dive rather than a scenic highlight, so set expectations accordingly
 - Carry a small torch for illuminating crevices beneath the jetty
 
 ## Safety Considerations
 
-Currents are minimal but be aware of boat traffic around the jetty. Maintain good buoyancy near the jetty structure to avoid entanglement. Lionfish under overhangs are venomous — do not touch. Stingrays on the sandy bottom may be partially buried — shuffle feet if wading near shore.
+Currents are usually minimal but be aware of boat traffic around the jetty structure. Maintain good buoyancy near the pilings to avoid entanglement or damaging the reef. If you encounter reported but infrequent visitors like eagle rays or sharks, observe from a respectful distance. Dive within your certification limits.
 
 ## Photography
 
-The jetty creates an interesting structural dive shot opportunity. Macro photographers will enjoy the ghost pipefish, pipefish, and nudibranchs on the pilings. Garden eels on the sand require slow, patient approach for close-up shots. Cuttlefish in mid-water make excellent wide-angle subjects.
+The jetty pilings are the standout macro subject here — ornate ghost pipefish reward a patient, close approach with a macro lens. Clownfish in their anemones and the reef fish reported on the sandy slope (sergeant majors, tangs, angelfish, wrasse) offer additional subjects for both macro and wide-angle work, depending on how close you can get in the site's typical visibility.
 
 ---
-*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan). Last updated 2026-05-17.*
+*Sources: [Menjangan Island Trip](https://menjanganislandtrip.com/menjangan-island/), [Nico Dives Cool Bali](https://nicodivescoolbali.com/go-diving/day-trips/menjangan/), [Bali Marine Diving](https://balimarinediving.com/bali-dive-sites/menjangan-wall-dive/), [Sea Rovers Dive Center](https://searovers.net/diving-nw-bali/menjangan-island/), [Mimpi Resort](https://mimpi.com/en/resort/boutique/bali/menjangan/dive-snorkeling/dive-sites/). Last updated 2026-07-15.*

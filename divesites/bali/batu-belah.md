@@ -17,7 +17,9 @@ A coastal reef in the Amed area with rich coral formations rising from a sandy b
 
 ## Overview
 
-Batu Belah is a reef dive site in the Amed area of northeast Bali, accessible directly from shore. The distinctive feature is a substantial coral clump rising from a sandy bottom, creating a dynamic reef habitat with rich nutrients from the nearby Lombok Strait. The reef is considered productive for macro life including frogfish and leaf fish, as well as schooling species like snappers, platax (batfish), and fusiliers. Tuna pass in the blue water beyond the reef. Conditions are generally calm with little to moderate current and good visibility of 15–30 metres.
+Batu Belah is a reef dive site between Amed and Tulamben on northeast Bali, accessible directly from shore. The distinctive feature is a substantial coral clump rising from a sandy bottom, creating a dynamic reef habitat with rich nutrients from the nearby Lombok Strait. The site is well known among local operators as a macro-photography spot, productive for frogfish and leaf/purple scorpionfish, as well as schooling species like snappers, platax (batfish), and fusiliers. Tuna pass in the blue water beyond the reef. Conditions are generally calm with little to moderate current and good visibility of 15–30 metres. Note that depth figures vary by source — most describe typical diving in the 10–25 m range, with some reporting the outer edge dropping to 35–40 m.
+
+*Note: "Batu Belah" ("split rock" in Indonesian) is a common site name in Indonesia — a same-named PADI-listed site exists off Gili Meno, Lombok, and is a different location from this one. Multiple independent Amed/Tulamben-area sources corroborate the site described here.*
 
 ## Site Information
 
@@ -32,7 +34,7 @@ Batu Belah is a reef dive site in the Amed area of northeast Bali, accessible di
 
 ## Marine Life
 
-Schools of snappers, platax (batfish), and fusiliers are the most characteristic large-group species. Tuna are seen in blue water adjacent to the reef. Nudibranchs, crabs, and mantis shrimp inhabit the substrate. Giant frogfish and leaf scorpionfish — rare species that can be difficult to locate — have been confirmed at this site. The productive Lombok Strait waters support rich fish diversity throughout the reef structure.
+Schools of snappers, platax (batfish), and fusiliers are the most characteristic large-group species. Tuna are seen in blue water adjacent to the reef. Giant frogfish and leaf/purple scorpionfish — species that can be difficult to locate — are reliably reported at this site, alongside ghost pipefish, harlequin shrimp, boxer crabs, wonderpus octopus, nudibranchs, and mantis shrimp on the sandy-and-coral substrate. The productive Lombok Strait waters support rich fish diversity throughout the reef structure.
 
 ## Dive Profile
 
@@ -57,4 +59,4 @@ Currents are generally mild with occasional moderate periods. Maintain good buoy
 Both macro and reef-scene photography are rewarding here. The frogfish and leaf scorpionfish are prime macro subjects. Schools of snappers and fusiliers against the reef structure suit wide-angle. Natural light is generally good given the shallow-to-mid depth range.
 
 ---
-*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [PADI - Batu Belah](https://www.padi.com/dive-site/indonesia/batu-belah/), [Dive Navigator - Batu Belah](https://www.divenavigator.com/dive-sites/indonesia/batu-belah). Last updated 2026-05-17.*
+*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [Dive Concepts - Batu Belah](https://diveconcepts.com/bali/spot-batu-belah.php), [No Fear Diving - Batu Belah](https://nofeardiving.com/dive-sites/batu-belah). Last updated 2026-07-15.*

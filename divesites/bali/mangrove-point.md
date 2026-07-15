@@ -13,50 +13,50 @@ addedBy: osm_import
 
 ## Mangrove Point
 
-A sheltered wall and reef dive on the western end of Menjangan Island where morning light filters through corals to spectacular effect.
+A dive site toward the western end of Menjangan Island, named for the mangroves visible along that stretch of coastline.
 
 ## Overview
 
-Mangrove Point is located at the western tip of Menjangan Island, where the reef turns a corner and the light conditions in the morning are particularly striking — sunshine penetrates the shallow corals and illuminates the wall with a vivid blue glow. The reef here is full of life from top to bottom, with fish nurseries in the shallow corals making the mandatory safety stop genuinely enjoyable rather than routine. The wall drops to around 30 m and hosts the same diversity of gorgonians, sponges, and corals characteristic of the rest of Menjangan, but with a slightly more sheltered character than the eastern wall sites.
+Mangrove Point is located on Menjangan Island, roughly 10–15 minutes by boat from the Pos I ranger station, in an area where the coastline gives way to mangroves and long shoreline views. This re-audit found only one dive-operator source with content specific to this exact site (Menjangan Island Trip), which describes it simply as home to "tons of reef fishes and colorful coral," without further depth, current, or species-level detail. Several other Menjangan dive-site guides and operator pages checked in this pass did not mention a "Mangrove Point" site by name, and some general web searches returned results that turned out to describe an entirely different, unrelated "Mangrove Point" dive site off Nusa Lembongan/Nusa Penida — that site is not this one, and any depth, current, or marine-life claims tied to the Nusa Lembongan location have deliberately been excluded here to avoid conflating the two.
+
+Because fewer than three independent, site-specific sources could be confirmed for this exact location, the depth, current, and marine-life details previously published on this page (wall dropping to ~30 m, specific fish nursery and predator claims, etc.) could not be re-verified this pass and have been removed rather than repeated without support. This page should be treated as unresolved pending further site-specific research — for example, directly contacting a Menjangan-area dive operator about this named site, or finding additional dive-shop pages that describe it individually rather than as part of a general island overview.
 
 ## Site Information
 
-- **Location**: Menjangan Island, West Bali National Park, northwest Bali
+- **Location**: Menjangan Island, West Bali National Park, northwest Bali (western end of the island, per the one source found)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–30 m
-- **Current**: Generally light to moderate
-- **Best Time**: April to November
+- **Maximum Depth**: 20 meters listed in our data; this has not been independently confirmed for this specific site. General Menjangan wall/slope dives are commonly reported in the 15–30 m+ range, but that has not been verified for Mangrove Point specifically.
+- **Typical Visibility**: Not confirmed for this specific site in current sources
+- **Current**: Not confirmed for this specific site in current sources
+- **Best Time**: April to November (general Menjangan seasonal pattern; not confirmed specifically for this site)
 
 ## Marine Life
 
-The shallow nursery areas host dense clouds of juvenile fish — anthias, chromis, and basslets — around branching corals. Lionfish, ornate ghost pipefish, and moray eels inhabit the wall. Turtles are frequently seen feeding along the reef crest. Reef sharks and trevally patrol the deeper sections, and batfish are often seen at mid-depth.
+No site-specific marine-life reports were found for Mangrove Point in this research pass. The one site-specific source located (Menjangan Island Trip) describes the area only in general terms — "tons of reef fishes and colorful coral" — without naming individual species. Menjangan's reef fauna in general includes a wide range of hard and soft corals and reef fish, and it is reasonable to expect similar regional fauna here, but no source confirmed specific species sightings at this exact site, so none are listed. Species previously listed here (anthias/chromis/basslet nurseries, lionfish, ornate ghost pipefish, moray eels, feeding turtles, reef sharks, trevally, batfish) could not be traced to a source describing this specific site and have been removed.
 
 ## Dive Profile
 
-Descend to 10–15 m and follow the reef wall westward. Spend the bulk of the dive between 8–18 m where fish density and coral quality are highest. The shallow section at 3–5 m near the mooring is a wonderful spot to spend the safety stop watching the fish nurseries at the reef edge. Total dive time 45–60 minutes.
+Detailed, site-specific dive profile information (descent depth, typical route, time at depth) could not be confirmed for this site in this research pass. Divers should follow their dive guide's briefing on the day rather than relying on a fixed profile description here.
 
 ## Entry and Exit
 
-Jukung boat from Labuhan Lalang. Entry via back roll or giant stride from the gunwale. Currents are usually manageable. Ascend slowly up the wall for the safety stop and signal the boat with an SMB.
+Reached by boat from Labuhan Lalang via the Pos I ranger station area, with the site itself roughly 10–15 minutes further by boat from Pos I. Entry and exit procedures should follow your boat crew's instructions, as site-specific current and entry-point details were not confirmed this pass.
 
 ## Tips and Recommendations
 
-- Dive in the morning to make the most of the beautiful light filtering through the corals
-- Spend your safety stop in the shallows watching the fish nurseries — it rivals the deeper reef
-- Look for ornate ghost pipefish near the gorgonian bases
-- Pair with Eel Garden or Pos 2 for a full Menjangan day
-- Suitable for Open Water certified divers and snorkellers
+- Confirm current conditions and dive plan with your boat crew before entering, since site-specific current data was not available in this research pass
+- If mangrove viewing interests you, note that the West Bali National Park area also offers guided mangrove boat tours on the surface, separate from the dive site itself
+- Treat any marketing material describing dramatic wall depths or specific marine life at "Mangrove Point" with some caution unless it is clearly describing this Menjangan location and not the similarly-named site at Nusa Lembongan/Nusa Penida
 
 ## Safety Considerations
 
-Currents are usually mild but can increase at the point. Stay within recreational depth limits. Lionfish in coral overhangs are venomous — observe from a safe distance. Maintain good buoyancy to protect the reef structure. Always dive with a buddy.
+As with any boat dive at Menjangan, dive within your certification limits, maintain a buddy system, and carry a surface marker buoy for pickup. Because current and depth data for this specific site were not independently confirmed this pass, err on the side of caution and rely on your dive guide's on-the-day assessment of conditions.
 
 ## Photography
 
-Morning dives offer exceptional natural light for shooting the shallow reef and fish schools. Wide-angle works well for the wall sections, while macro shooters will find ghost pipefish, nudibranchs, and juvenile fish in the corals. The safety stop in the shallows often yields some of the most colourful shots of the day.
+Photography-specific details (light conditions, notable subjects) could not be confirmed for this site in this research pass and have been removed rather than repeated without a source.
 
 ---
-*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Menjangan Island Trip](https://menjanganislandtrip.com/menjangan-island/). Only one site-specific source could be confirmed for this exact site in this research pass; further verification is needed before this page can be considered fully validated. Last updated 2026-07-15.*
