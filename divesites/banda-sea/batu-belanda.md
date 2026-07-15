@@ -19,21 +19,22 @@ Batu Belanda ("Dutch Rock") is a wall dive on the western side of Banda Besar, n
 
 The western Banda Besar wall receives limited direct sunlight. Conventional encrusting corals are sparse, replaced by species suited to lower-light conditions: large barrel sponges, cup corals (both green and orange varieties), yellow and violet sea squirts, and tube sponges cover the wall face. A significant cave, accessible at around 10 m depth (sources note depths between 10 and 13 m for the cave entrance), features a ceiling shaft that channels filtered light onto soldierfish sheltering inside. Eagle rays are a reliable sighting along this wall, frequently spotted cruising past the cave entrance.
 
-The Lembeh sea dragon — a pipehorse with the elongated body of a pipefish and head of a seahorse — has been recorded here, attaching to black crinoids for camouflage. Ambon scorpionfish are also reported on this site. Napoleon wrasse, bullethead parrotfish, and moray eels inhabit the wall and cave surrounds.
+The Lembeh sea dragon — a pipehorse with the elongated body of a pipefish and head of a seahorse — has been recorded here, attaching to black crinoids for camouflage; this is confirmed by two independent operator sources. Ambon scorpionfish are also reported on this site. Orang-utan crabs and red-fire gobies are additionally reported here, along with nudibranchs. Napoleon wrasse, bullethead parrotfish, and moray eels (including blackspotted morays) inhabit the wall and cave surrounds.
 
 ## Dive Profile
 
-Wall diving from the surface to around 30 m. The cave entrance is at approximately 10–13 m (sources vary on exact depth). Currents are typically mild on this sheltered western face, making it accessible for intermediate divers. Visibility averages 20–30 m.
+Wall diving from the surface to a maximum reported between 24 and 30 m (sources vary). The cave entrance is at approximately 10–13 m (sources vary on exact depth). Currents are typically mild on this sheltered western face, making it accessible for intermediate divers. Visibility averages 20–30 m.
 
 ## Marine Life
 
 - Eagle rays (regular sightings along the wall)
 - Soldierfish (inside the cave)
-- Lembeh sea dragon / pipehorse (rare; recorded at this site)
-- Ambon scorpionfish
+- Lembeh sea dragon / pipehorse (rare; confirmed by two independent sources)
+- Ambon scorpionfish (confirmed by two independent sources)
+- Orang-utan crabs, red-fire gobies, nudibranchs
 - Large barrel sponges, cup corals (green and orange), yellow and violet sea squirts
 - Napoleon wrasse, bullethead parrotfish
-- Moray eels in crevices and overhangs
+- Moray eels (including blackspotted morays) in crevices and overhangs
 
 ## Entry / Exit
 
@@ -50,4 +51,4 @@ Boat dive from liveaboard or Banda Neira day-trip vessel. The site is on the wes
 Well-suited to natural-light and strobe-lit sponge photography. The cave shaft creates atmospheric light-ray images when conditions are right. A macro setup is rewarding for pipehorse and Ambon scorpionfish.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago). Last updated 2026-05-17.*
+*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Cilu Bintang Estate - Diving & Sport Fishing](https://cilubintang.com/all-project-list/diving-sport-fishing/). Re-audited 2026-07-15.*

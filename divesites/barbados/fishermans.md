@@ -17,7 +17,7 @@ A sandy bottom dive with scattered coral heads between Holetown and the Stavroni
 
 ## Overview
 
-Fisherman's is located on the west coast between Holetown and the Stavronikita wreck site. It provides a contrast to Barbados's typical barrier reef dives — the bottom is primarily sandy with isolated coral heads rather than continuous reef. This open topography makes it an effective site for spotting rays and bottom-dwelling species. Barbados Blue and Dive Hightide both include it in west coast dive itineraries. Multiple operators (Reefers & Wreckers, Barbados Blue) pair it with deeper reef or wreck sites for two-tank trips. The relaxed depth and calm conditions make it suitable for all experience levels. Visibility is 15–25 metres. Water temperature is 26–28°C.
+Fisherman's is located on the west coast between Holetown and the Stavronikita wreck site. It provides a contrast to Barbados's typical barrier reef dives — the bottom is primarily sandy with isolated coral heads rather than continuous reef. This open topography makes it an effective site for spotting rays and bottom-dwelling species. Barbados Blue and Dive Hightide both include it in west coast dive itineraries, though on re-check neither site's current published dive-site listing names this site explicitly by "Fisherman's" — the sandy-bottom, ray-and-flounder profile is consistent with how this stretch of coast is generally described, but it could not be independently re-confirmed under this exact name this cycle. The relaxed depth and calm conditions make it suitable for all experience levels. Visibility is 15–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 - **Location**: West coast, between Holetown and the Stavronikita wreck area
@@ -31,7 +31,7 @@ Fisherman's is located on the west coast between Holetown and the Stavronikita w
 
 ## Marine Life
 
-The sandy bottom is prime territory for southern stingrays, which are frequently spotted resting between coral heads or gliding across the sand. Peacock flounders camouflage themselves on sandy patches. Moray eels inhabit the coral heads. Parrotfish graze the coral surfaces. Schools of tropical fish congregate around each coral formation. Spotted drum and trumpetfish are also reported at this site. Hawksbill turtles are present on the adjacent reef areas.
+Sandy-bottom habitats of this type on Barbados's west coast are generally good territory for southern stingrays and peacock flounders, both of which favour sand and isolated coral-head topography. However, this cycle's re-audit could not find a source confirming these species specifically at a named "Fisherman's" site — the marine life listed here reflects the expected community for this habitat type rather than confirmed site-specific sightings. Treat species claims below as regionally typical rather than site-verified: southern stingrays, peacock flounders, moray eels, parrotfish, and schools of tropical fish around the coral heads. Hawksbill turtles are present on the adjacent reef areas.
 
 ## Dive Profile
 
@@ -50,4 +50,4 @@ Scan the sandy areas carefully for camouflaged peacock flounders and resting sti
 One of Barbados's most relaxed dive sites. Light currents and moderate depth make it very manageable. Standard boat dive safety applies.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Re-audited 2026-07-15: site-specific confirmation of this name could not be re-verified against current source content; marine life claims downgraded to "regionally typical, not independently site-confirmed" pending stronger sourcing. Last updated 2026-07-15.*

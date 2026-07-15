@@ -56,4 +56,4 @@ The south coast entry can be affected by surge — abort if waves are significan
 In calm conditions the reef offers natural-light photography for the full depth range. Parrotfish compositions and any turtle encounters are the main subjects when conditions are favourable.
 
 ---
-*Sources: [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/diving.htm). Last updated 2026-05-17.*
+*Sources: [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/diving.htm). Only two independent source domains found despite a re-search on 2026-07-15 — below the 3-source bar for full validation confidence; not padded with a weak/unrelated third source. Last updated 2026-07-15.*

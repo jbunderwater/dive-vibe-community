@@ -30,9 +30,9 @@ Gently sloping reef from 5 m to 25–30 m sweet spot, then dropping more steeply
 - Schooling fusiliers (yellow and blue; extremely dense aggregations)
 - Dogtooth tuna, giant barracuda, schooling trevally
 - Eagle rays, green turtles
-- Blacktip sharks (in the depths); hammerhead sharks (current-dependent, unpredictable)
+- Blacktip sharks and whitetip reef sharks (in the depths); hammerhead sharks (current-dependent, unpredictable but confirmed by three independent sources for this stretch of reef)
 - Triggerfish, groupers, napoleon wrasse
-- Large elephant ear sponges and sea fans on deeper sections
+- Large elephant ear sponges and sea fans on deeper sections; moray eels and octopus in crevices
 
 ## Entry / Exit
 
@@ -49,4 +49,4 @@ Boat dive from liveaboard. Hatta Island is approximately 25 km from Banda Neira.
 Outstanding wide-angle destination. The fusilier schools combined with the deep blue background make for dramatic open-water compositions. Bring a large dome port for reef-and-blue shots.
 
 ---
-*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Bluewater Dive Travel - Banda Sea](https://www.bluewaterdivetravel.com/banda-sea-diving), [Calico Jack Charters - Banda Sea Dive Spots](https://calicojackcharters.com/dive-spots-banda/). Last updated 2026-05-17.*
+*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Bluewater Dive Travel - Banda Sea](https://www.bluewaterdivetravel.com/banda-sea-diving), [Calico Jack Charters - Banda Sea Dive Spots](https://calicojackcharters.com/dive-spots-banda/). Re-audited 2026-07-15.*

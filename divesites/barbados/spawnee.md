@@ -31,7 +31,7 @@ Spawnee is a shallow reef site on Barbados's northwest coast near Weston and Gib
 
 ## Marine Life
 
-Spawnee is particularly noted for its resident population of Caribbean reef squid, which hover in small groups above the reef and are approachable for patient divers. Trumpetfish are a common sight, often hanging vertically among gorgonians. Schools of tropical fish populate the reef. Moray eels occupy reef crevices. No further site-specific marine life reports were found; the general reef species of Barbados's north coast are expected throughout.
+Spawnee is particularly noted for its resident population of Caribbean reef squid, which hover in small groups above the reef and are approachable for patient divers — independently confirmed by Reefers & Wreckers, a Speightstown-based operator that dives the site regularly ("Caribbean reef squid and lots of Trumpet fish abound"). Trumpetfish are a common sight, often hanging vertically among gorgonians — also confirmed by Reefers & Wreckers. Schools of tropical fish populate the reef. Moray eels occupy reef crevices. No further site-specific marine life reports were found; the general reef species of Barbados's north coast are expected throughout.
 
 ## Dive Profile
 
@@ -50,4 +50,4 @@ Approach the reef squid slowly — they are curious but will retreat if startled
 Gentle conditions make this a low-stress dive. Light currents typical. Standard boat dive safety applies — carry an SMB and monitor air supply.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners), [Reefers & Wreckers](https://scubadiving.bb/dive/). Last updated 2026-07-15.*

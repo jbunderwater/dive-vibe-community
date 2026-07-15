@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Mandarin City
 
-Mandarin City is a shallow muck dive site in Banda Neira, located in front of Hotel Maulana near the old town harbour. It is specifically noted for a dense concentration of mandarinfish (*Synchiropus splendidus*) in 2–3 m of water, making it snorkeller-accessible as well as suitable for divers. Multiple sources describe it as one of the most reliable mandarinfish mating display sites in Indonesia.
+Mandarin City is a shallow muck dive site in Banda Neira, located near the old town harbour. Sources place it in front of Hotel Maulana; one source instead describes the same style of mandarinfish site as being behind the Nutmeg Tree guesthouse — likely the same general stretch of waterfront referenced by different landmarks. It is specifically noted for a dense concentration of mandarinfish (*Synchiropus splendidus*) in 2–3 m of water, making it snorkeller-accessible as well as suitable for divers. Multiple sources describe it as one of the most reliable mandarinfish mating display sites in Indonesia.
 
 ## Overview
 
@@ -34,7 +34,7 @@ Shore entry to a maximum of 12 m, with most productive mandarinfish habitat in 2
 
 ## Entry / Exit
 
-Shore entry from the Banda Neira waterfront in front of Hotel Maulana. One of the few accessible shore dives in the Banda Islands, and the only one suitable for beginners.
+Shore entry from the Banda Neira waterfront, most commonly described as in front of Hotel Maulana. One of the few accessible shore dives in the Banda Islands, and the only one suitable for beginners.
 
 ## Tips
 
@@ -47,4 +47,4 @@ Shore entry from the Banda Neira waterfront in front of Hotel Maulana. One of th
 A dedicated macro site. Use a macro lens or wet diopter for mandarinfish portraits. The dusk light creates a challenging low-light environment — set your camera for low-light macro before the dive.
 
 ---
-*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [DAN Alert Diver - Banda Bound](https://dan.org/alert-diver/article/banda-bound/), [ScubaBoard - Banda Sea](https://scubaboard.com/community/threads/banda-sea.579226/). Last updated 2026-05-17.*
+*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [DAN Alert Diver - Banda Bound](https://dan.org/alert-diver/article/banda-bound/) (describes Banda's mandarinfish reputation generally, not this site by name). The previously cited ScubaBoard thread was checked on re-audit and does not mention this site or mandarinfish — it has been removed. Re-audited 2026-07-15.*

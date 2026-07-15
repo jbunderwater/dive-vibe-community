@@ -56,4 +56,4 @@ Forgiving and well-suited to beginners. DSMB recommended for the open-water asce
 Reliable turtle encounters in clear water at 5–10 metres make this one of Barbados's best natural-light photography sites. Barracuda formation shots and school-of-fish compositions over the reef also work well in morning conditions.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-07-15.*

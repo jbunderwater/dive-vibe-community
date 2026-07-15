@@ -13,11 +13,11 @@ addedBy: scubadiving_bb_corroboration
 
 # Tropicana
 
-A standout multilevel reef on the west coast barrier system — the rare Barbados site where nurse sharks have been reported sheltering under ledges, with excellent visibility and a varied depth profile for intermediate divers.
+A standout multilevel reef on the west coast barrier system — one of the few Barbados west-coast sites where nurse sharks are occasionally reported resting under ledges (sightings are not guaranteed), with excellent visibility and a varied depth profile for intermediate divers.
 
 ## Overview
 
-Tropicana is located on the offshore barrier reef along Barbados's west coast between Weston and Holetown. Dive Hightide describes it as an "excellent multilevel dive with great visibility." It is one of very few sites in Barbados where nurse sharks have been reported resting under ledges — the site's notable distinction. The reef features pronounced ledges at 18–24 metres with some sections dropping to 30 metres. Typically dived as a drift, the site offers rich coral coverage with both hard and soft species. Visibility regularly exceeds 20–30 metres. Water temperature is 26–28°C.
+Tropicana is located on the offshore barrier reef along Barbados's west coast between Weston and Holetown. Dive Hightide describes it as an "excellent multilevel dive with great visibility." Totallybarbados.com confirms that nurse sharks are "sometimes seen around Tropicana," calling it "almost unheard of in the southern waters" — but is explicit that sightings are occasional, not guaranteed, and that a different site (Sharks Hole, on the Atlantic east coast and not part of this destination's site list) is the more reliable place to see resting nurse sharks. The reef features pronounced ledges at 18–24 metres with some sections dropping to 30 metres. Typically dived as a drift, the site offers rich coral coverage with both hard and soft species. Visibility regularly exceeds 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 - **Location**: West coast, offshore barrier reef between Weston and Holetown
@@ -31,7 +31,7 @@ Tropicana is located on the offshore barrier reef along Barbados's west coast be
 
 ## Marine Life
 
-The headline sighting at Tropicana is the nurse shark — reported by multiple operators and sources resting beneath the reef ledges, an almost unheard-of occurrence at other southern Barbados sites. The reef supports hawksbill turtles, cleaner shrimp at cleaning stations, sea fans, and large schools of tropical fish. Coral coverage is healthy with extensive hard coral, sea fans, and colourful sponges lining the ledges. General reef fish typical of the west coast barrier reef are present throughout.
+Nurse sharks are occasionally reported resting beneath the reef ledges at Tropicana — an unusual sighting for Barbados's west/south coast, though not a guaranteed one; check current conditions with the dive operator rather than expecting a sighting. The reef supports hawksbill turtles, cleaner shrimp at cleaning stations, sea fans, and large schools of tropical fish. Coral coverage is healthy with extensive hard coral, sea fans, and colourful sponges lining the ledges. General reef fish typical of the west coast barrier reef are present throughout.
 
 ## Dive Profile
 
@@ -43,11 +43,11 @@ Boat dive from Speightstown or Holetown operators. Usually paired with Whitegate
 
 ## Tips and Recommendations
 
-Check under the reef ledges for resting nurse sharks — they rest in the darker overhang sections. The multilevel profile optimises no-decompression time for computer divers. Carry an SMB — the drift can carry you some distance from the entry point.
+Check under the reef ledges for resting nurse sharks — they rest in the darker overhang sections, though sightings are occasional rather than reliable. The multilevel profile optimises no-decompression time for computer divers. Carry an SMB — the drift can carry you some distance from the entry point.
 
 ## Safety Considerations
 
 Moderate currents are common as this is typically a drift dive. Maintain visual contact with the group. The ledge edges drop below recreational limits at the outer reef — monitor depth carefully. Always carry and deploy an SMB for pickup.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Active Caribbean Travel](https://activecaribbeantravel.com/barbados-diving/barbados-diving-west-coast-dive-sites/), [Totally Barbados](https://www.totallybarbados.com/articles/sports/scuba-diving/sea-creatures/). Last updated 2026-07-15.*
