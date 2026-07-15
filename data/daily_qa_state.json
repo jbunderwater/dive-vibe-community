@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "australia",
-    "azores",
-    "bahamas",
-    "bali",
-    "banda-sea",
-    "barbados",
     "belize",
     "belize-barrier-reef",
     "bermuda",
@@ -175,9 +169,94 @@
     "ambon",
     "andaman-islands",
     "antigua-and-barbuda",
-    "aruba"
+    "aruba",
+    "australia",
+    "azores",
+    "bahamas",
+    "bali",
+    "banda-sea",
+    "barbados"
   ],
   "history": [
+    {
+      "date": "2026-07-15",
+      "slugs": [
+        "australia",
+        "azores",
+        "bahamas",
+        "bali",
+        "banda-sea",
+        "barbados"
+      ],
+      "notes": "australia is isGroup=true parent slug with no own data files; skipped for agent dispatch (its child destinations great-barrier-reef, lord-howe-island, ningaloo-reef, south-australia-neptune-islands remain in queue for dedicated passes). azores, bahamas, and bali's initial sub-agents spawned their own nested sub-agents and returned without editing files on first attempt; each was resumed with explicit direct-work instructions. Several late-arriving nested sub-agent edits (from before the resume) landed in markdown after the orchestrator's own merge and required manual JSON/markdown reconciliation for bahamas (2 site_type corrections + 1 depth correction + 1 difficulty correction) to keep frontmatter and JSON consistent -- verified via a full frontmatter-vs-JSON sweep across all 5 destinations.",
+      "summary": {
+        "sites_total": 109,
+        "sites_validated_today": 84,
+        "sites_re_audited": 109,
+        "hallucinations_removed": 37,
+        "marine_life_stripped": 35,
+        "wreck_conflicts_flagged": 12,
+        "sites_unresolved": 13,
+        "by_destination": {
+          "australia": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data file (no osm_clean or divesites directory); children great-barrier-reef, lord-howe-island, ningaloo-reef, south-australia-neptune-islands remain in queue for their own dedicated passes"
+          },
+          "azores": {
+            "sites_total": 14,
+            "sites_validated_today": 10,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "Dori Wreck identity corrected -- was misattributed to SS Thomas Donaldson (a different, still-existing wreck near Kildin Island, Russia); actually the former SS Edwin L. Drake (renamed 5 times before becoming Dori in 1962). SS Slavonia passenger/crew total (400-600+) and build/sale timeline corrected. Gruta dos Enxareus coordinates tightened ~2.5km. Santa Iria, Bahia de Capelas, Lagoa, Rostro de Cao remain unresolved (no site-specific scuba sources found). Baixa da Barca kept validated=true but flagged below the 3-source bar."
+          },
+          "bahamas": {
+            "sites_total": 26,
+            "sites_validated_today": 23,
+            "sites_re_audited": 26,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 10,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 3,
+            "notes": "Lost Blue Hole Andros flagged as a name collision with a different, unrelated Nassau site. The Cutt's sole prior citation was found to never mention the site at all -- validation_source cleared. Shark Wall New Providence reclassified reef->wall; Shark Rodeo Cat Island reclassified reef->drift with difficulty bumped Intermediate->Advanced (blue-water, no-bottom shark dive). Willaurie Wreck Nassau and Ray of Hope Nassau wreck-history conflicts documented. Connected dott, Seabass, The Cutt remain unresolved (<3 sources)."
+          },
+          "bali": {
+            "sites_total": 34,
+            "sites_validated_today": 29,
+            "sites_re_audited": 34,
+            "hallucinations_removed": 16,
+            "marine_life_stripped": 20,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 5,
+            "notes": "3 non-dive-site entries removed per CLAUDE.md commercial-business/non-diving rules: Bali Scuba (a PADI dive shop's premises in Sanur), Water Walk (the Seawalker helmet-diving tourist attraction, not scuba), Big Fins TecDiving (a technical-diving shop's premises, previously mislabeled with fabricated Gili Selang content ~15km away). Blue Corner (Menjangan) found to not be a genuine distinct site -- content was borrowed from the unrelated, famous Nusa Lembongan site of the same name; left unvalidated. Mangrove Point name-collision with a different Nusa Lembongan/Nusa Penida site caught and excluded. USAT Liberty Wreck and Kubu Wreck length/tonnage/depth conflicts documented. Amed Wall and Jemeluk Wall flagged as likely the same physical site (~50m apart) for a future dedup pass. Blue Hill Dive Site, Harlequin Slope, Liberty Muck remain unresolved (<3 sources)."
+          },
+          "banda-sea": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites in this destination. All 13 sites were already validated=true and were re-audited/reconfirmed rather than newly validated. Lava Flow mandarinfish overclaim softened (weight of sources points to Mandarin City instead). Batu Kapal's fabricated-precision pinnacle depths replaced with the actual conflicting figures sources report. Jackpot location (Serua vs Suanggi Island) and hammerhead-sighting confidence flagged as disputed. overview.md's false hammerhead-at-Batu-Kapal claim corrected. Goa Hatta and Tanjung Cengkeh kept validated=true but flagged below the 3-source bar (2 of their prior 4 cited sources didn't actually mention the site)."
+          },
+          "barbados": {
+            "sites_total": 22,
+            "sites_validated_today": 22,
+            "sites_re_audited": 22,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 6,
+            "sites_unresolved": 1,
+            "notes": "Berwyn's unsupported 'avoid being returned to post-war Europe' scuttling narrative replaced with the two genuinely conflicting sourced motives (rum fondness vs. mutiny). Wreck length/date conflicts documented for SS Stavronikita, Friars Craig, Pamir, Carlisle Bay wrecks (Berwyn, Ce-Trek), and Lord Combermere, all as explicit 'sources report X-Y' ranges rather than picked figures. Fisherman's marine-life claims downgraded to regional-typical language (site name could not be re-confirmed). Coconut Court Reef remains below the 3-source bar (2 domains)."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
     {
       "date": "2026-07-10",
       "slugs": [
