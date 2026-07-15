@@ -19,7 +19,7 @@ Batu Payung ("Umbrella Rock") is a steep wall dive on the western coast of Pulau
 
 The wall drops from the surface to beyond 60 m, with the most action concentrated in the 10–40 m range. Overhangs shelter barrel sponges, tubastraea cup corals, and gorgonian fans with hawkfish perched at their tips. Thousands of tiny reef fish dart in and out of cracks and crevices beneath the overhangs.
 
-When current is running, Batu Payung earns its Advanced rating: giant trevally and bluefin trevally hunt in formation, and chevron barracuda school in open water. Sources confirm sightings of hammerhead sharks, thresher sharks, and silvertip sharks at Pulau Ai's walls — these are occasional and current-dependent rather than guaranteed. Hawksbill turtles and napoleon wrasse work the wall at recreational depths.
+When current is running, Batu Payung earns its Advanced rating: giant trevally and bluefin trevally hunt in formation, and chevron barracuda school in open water. Mobula rays are also reported in formations of up to 20. Multiple independent sources confirm sightings of hammerhead, thresher, and silvertip sharks at Pulau Ai's walls — these are occasional and current-dependent rather than guaranteed. Hawksbill turtles and napoleon wrasse work the wall at recreational depths.
 
 The shallow reef flat (5–15 m) has dense hard coral growth and anemonefish colonies.
 
@@ -31,7 +31,8 @@ Vertical wall from surface to 60 m+. Recommended depth range: 10–40 m. Strong 
 
 - Giant trevally and bluefin trevally (hunting schools)
 - Chevron barracuda (schooling)
-- Hammerhead sharks, thresher sharks, silvertip sharks (occasional; current-dependent)
+- Mobula rays (formations reported up to 20 strong)
+- Hammerhead sharks, thresher sharks, silvertip sharks (occasional; current-dependent; confirmed by multiple independent sources for Pulau Ai's walls generally)
 - Hawksbill turtles, napoleon wrasse
 - Barrel sponges, tubastraea cup corals, gorgonian fans
 - Hawkfish on gorgonians
@@ -51,4 +52,4 @@ Advanced rating due to strong, potentially unpredictable currents. Carry a surfa
 Excellent wide-angle site. Drifting along the overhang-studded wall with schools of trevally makes for dramatic compositions. The barrel sponge and cup coral overhangs also suit medium wide-angle setups.
 
 ---
-*Sources: [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Indonesia Greatest Dive Sites - Pulau Ai](https://indonesia.greatestdivesites.com/maluku/banda_islands/pulau_ai), [Calico Jack Charters - Banda Sea Dive Spots](https://calicojackcharters.com/dive-spots-banda/). Last updated 2026-05-17.*
+*Sources: [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Calico Jack Charters - Banda Sea Dive Spots](https://calicojackcharters.com/dive-spots-banda/), [Cilu Bintang Estate - Diving & Sport Fishing](https://cilubintang.com/all-project-list/diving-sport-fishing/). Indonesia Greatest Dive Sites, previously cited, returned a server error on re-audit and could not be verified — replaced with Cilu Bintang Estate. Re-audited 2026-07-15.*
