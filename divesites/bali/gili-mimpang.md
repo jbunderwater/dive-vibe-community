@@ -17,7 +17,7 @@ Also known as Shark Point and Batu Tiga — Candidasa's premier dive site for wh
 
 ## Overview
 
-Gili Mimpang (Batu Tiga, meaning "three rocks") is a series of three large rocks followed by six smaller ones off the coast of Candidasa, a 10-minute boat ride from Padangbai. The site is widely acknowledged as one of the best places in Bali to see whitetip reef sharks, wobbegong sharks, and the rare coral catshark. The reef is exceptionally well-preserved — highly alive with hard and soft corals, gorgonians, and barrel sponges — and the Indonesian Throughflow brings cooler, nutrient-rich water that feeds abundant fish life. Between July and October, mola mola appear at this site, sometimes in groups, dancing in the current rather than presenting at cleaning stations.
+Gili Mimpang (Batu Tiga, meaning "three rocks") is a series of three large rocks followed by several smaller ones off the coast of Candidasa, roughly 15-30 minutes by boat from Padangbai depending on the operator. The site is widely acknowledged as one of the best places in Bali to see whitetip reef sharks, and it is one of the few spots in the region where the rare wobbegong shark and the even rarer coral catshark are reported. The reef is craggy and rock-strewn, covered in hard and soft corals and large gorgonians. Between July and October, mola mola (oceanic sunfish) are reported at this site, particularly around 25 m depth.
 
 ## Site Information
 
@@ -26,13 +26,13 @@ Gili Mimpang (Batu Tiga, meaning "three rocks") is a series of three large rocks
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10–25 m
-- **Current**: Strong and variable; unpredictable
+- **Typical Visibility**: 10–30 m
+- **Current**: Strong and unpredictable; varies with moon phase
 - **Best Time**: May to October (mola mola season July–October)
 
 ## Marine Life
 
-Whitetip reef sharks are the flagship species, often seen in groups resting on sandy patches. Wobbegong sharks and coral catsharks are rare finds that Gili Mimpang is known for. On the shallow eastern reef (5–15 m), turtles, large barrel sponges, giant trevally, and hawksbill turtles are reliable sightings. Mola mola are possible from July to October. Pygmy seahorses hide in the gorgonians.
+Whitetip reef sharks are the flagship species, regularly reported at cleaning stations and resting on sandy patches around 25 m. Wobbegong sharks and the very rare coral catshark are among the specific draws that keep divers returning to this site. Trevally, sweetlips, snapper, and Napoleon wrasse are also reported here, along with turtles and marble rays. Mola mola (oceanic sunfish) are seen from July to October. No site-specific reports of pygmy seahorses at Gili Mimpang were found during this audit — pygmy seahorses are documented at the nearby Gili Tepekong pinnacle, not confirmed here.
 
 ## Dive Profile
 
@@ -40,7 +40,7 @@ Descend on the upcurrent side and follow the sloping reef from 5–25 m. The eas
 
 ## Entry and Exit
 
-Boat access from Padangbai or Candidasa (approximately 10 minutes). Entry via back roll. Currents are strong and variable — this site requires experience with unpredictable drift conditions. Down-currents are possible near the rock faces.
+Boat access from Padangbai or Candidasa. Entry via back roll; up-currents and swell can make entry timing tricky, so follow your guide's signal closely. Currents are strong and change with the moon phase — this site requires experience with unpredictable drift conditions.
 
 ## Tips and Recommendations
 
@@ -52,11 +52,11 @@ Boat access from Padangbai or Candidasa (approximately 10 minutes). Entry via ba
 
 ## Safety Considerations
 
-Strong, variable, and unpredictable currents are the primary hazard. Down-currents have been recorded near the rock faces. Do not attempt if you are not comfortable with drift conditions. Always carry an SMB. Be aware of depth as the wall deepens rapidly beyond recreational limits.
+Strong and unpredictable currents that shift with the moon phase are the primary hazard, along with up-currents and swell at entry. Do not attempt if you are not comfortable with drift conditions. Always carry an SMB. Be aware of depth as the reef slopes past recreational limits beyond 25 m.
 
 ## Photography
 
-Whitetip reef sharks resting on sand between coral heads provide some of the most photogenic shark shots in Bali. Wide-angle suits the coral formations and shark encounters. Mola mola in open water require fast shooting; use wide angle and be ready for sudden appearances. Macro opportunities on the reef include pygmy seahorses and nudibranchs.
+Whitetip reef sharks resting on sand between coral heads provide some of the most photogenic shark shots in Bali. Wide-angle suits the coral formations and shark encounters. Mola mola in open water require fast shooting; use wide angle and be ready for sudden appearances. Macro shooters can look for nudibranchs on the reef; no site-specific pygmy seahorse reports were found for Gili Mimpang.
 
 ---
-*Sources: [Geko Dive Bali - Gili Mimpang](https://gekodivebali.com/en/bali-dive-sites/gili-mimpang), [Atlantis Bali Diving - Gilis](https://www.atlantis-bali-diving.com/gilis#gili-mimpang), [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [PADI - Gili Mimpang](https://www.padi.com/dive-site/indonesia/gili-mimpang/). Last updated 2026-05-17.*
+*Sources: [Geko Dive Bali - Gili Mimpang](https://gekodivebali.com/en/bali-dive-sites/gili-mimpang), [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [PADI - Gili Mimpang](https://www.padi.com/dive-site/indonesia/gili-mimpang/), [Nico Dives Cool Bali - Gili Mimpang](https://nicodivescoolbali.com/go-diving/day-trips/candidasa/mimpang/). Last updated 2026-07-15.*

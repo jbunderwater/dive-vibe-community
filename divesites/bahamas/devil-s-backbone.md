@@ -21,10 +21,10 @@ Stretching approximately 1.4 miles northeast of Spanish Wells at the north end o
 
 ## Notable Wrecks
 
-- **The Cienfuegos** (wrecked 1895): A 292-foot American steam passenger ship operated by the Ward Line — launched in 1883 from Chester, Pennsylvania. She measured 2,332 tons and ran aground on the reef approximately 5 miles north of Harbour Island. Now flattened in 3–10 metres of water; the bow, steam engine, boiler, two giant heat exchangers, and main driveshaft remain identifiable. The wreck resembles an underwater junkyard at this point, spread across the reef.
-- **The Carnarvon** (wrecked 1916): A 186-foot steel-hulled Welsh freighter that serviced lighthouses in the Bahamas for the British Admiralty. Sits in 5–8 metres of water on the southern edge of the Backbone, northeast of Preacher's Cave beach. The top of the steering quadrant is just 2–3 metres below the surface; the steam engine and driveshaft are remarkably intact for a wreck over a century old.
-- **The Train Wreck** (wrecked 1865): A barge carrying Confederate-era railway equipment — reportedly en route from the southern United States to a Cuban sugar plantation during the Civil War — which struck the reef in a storm. Lies in 3–5 metres of water. Remaining artifacts include train wheels, three-wheel trucks, boiler plate, brass spikes, coal, and ballast stones.
-- **The Vanaheim** (wrecked 1969): An 86-foot coastal freighter whose cargo of potatoes and onions gave the site its informal name "Potato and Onion Wreck." Lies in the shallows near the Cienfuegos.
+- **The Cienfuegos** (wrecked 1895): A 292-foot American steam passenger ship operated by the Ward Line — launched in 1883 from the John Roach & Sons Shipyard in Chester, Pennsylvania, with a beam of 39 ft 8 in and a draught of 22 ft. She measured 2,332 tons and ran aground on the reef approximately 5 miles north of Harbour Island. Now flattened in 3–10 metres of water; the bow, steam engine, boiler, two giant heat exchangers, and main driveshaft remain identifiable. The wreck resembles an underwater junkyard at this point, spread across the reef.
+- **The Carnarvon** (wrecked 1916): A 186-foot steel-hulled Welsh freighter that serviced lighthouses in the Bahamas for the British Admiralty. Sits in roughly 5–8 metres of water on the southern edge of the Backbone, northeast of Preacher's Cave beach. The top of the steering quadrant is 2–3 metres below the surface; the steam engine and driveshaft are remarkably intact for a wreck over a century old.
+- **The Train Wreck** (wrecked 1865): A barge carrying Confederate-era railway equipment — reportedly en route from the southern United States to a Cuban sugar plantation during the Civil War — which struck the reef in a storm. Lies in roughly 3–5 metres of water near Ridley Head. Remaining artifacts include train wheels, three-wheel trucks, boiler plate, brass spikes, coal, and ballast stones.
+- **The Vanaheim** (wrecked February 1969): An 86-foot coastal freighter that ran aground on the reef during a storm carrying a cargo of potatoes and onions, giving the site its informal name "Potato and Onion Wreck." She struck the reef at nearly the same spot as the Cienfuegos — her rudder reportedly lies only a few feet from the Cienfuegos's bow. Lies in roughly 3–10 metres of water near the Cienfuegos.
 
 ## Site Information
 
@@ -38,7 +38,7 @@ Stretching approximately 1.4 miles northeast of Spanish Wells at the north end o
 
 ## Marine Life
 
-Abundant reef fish populations inhabit the wrecks and reef — snapper, grunts, parrotfish, angelfish, Nassau grouper, and barracuda. Nurse sharks and stingrays are commonly encountered resting around the wreck structures. Moray eels occupy crevices in the iron hulls. Brain coral, elkhorn coral, and star coral form the backdrop.
+Sources report snapper, grunts, parrotfish, angelfish, Nassau grouper, sharks, stingrays, and moray eels around the wrecks and reef, with brain coral forming part of the backdrop. Prior mentions of barracuda, elkhorn coral, and star coral specifically were not corroborated by current sources and have been softened/removed.
 
 ## Dive Profile
 

@@ -17,7 +17,7 @@ A closer, shallower alternative to Manta Point — a sheltered bay near Broken B
 
 ## Overview
 
-Manta Bay is situated near the iconic Broken Beach (Pasih Uug) on the northwest coast of Nusa Penida, making it the closer and more frequently visited of the two main manta sites on the island. The site is shallower than Manta Point with a maximum depth of around 18 m, set in a partially sheltered bay that experiences less swell than the fully exposed southern coast. Reef manta rays visit the cleaning corals here on most days, though the site tends to attract more snorkel tour traffic than Manta Point. Operators report approximately 80% encounter rates. The sandy bottom and coral bommies also host resident reef fish and macro life.
+Manta Bay is situated near the iconic Broken Beach (Pasih Uug) on the northwest coast of Nusa Penida, making it the closer and more frequently visited of the two main manta sites on the island. Unlike Manta Point, Manta Bay has no fixed cleaning station — it is primarily a feeding aggregation area where reef manta rays glide near the surface, roughly 1–6 m down, to filter plankton, which is why the bay is popular with snorkellers as well as divers. The sandy bottom slopes from about 5 m to 12 m and then on to around 30 m, in a partially sheltered bay that experiences less swell than the fully exposed southern coast. Reported manta encounter rates vary considerably by source — some operator sites cite figures around 80%, others put day-to-day odds much lower — so treat a sighting as likely but not guaranteed, and expect more snorkel-tour boat traffic here than at Manta Point.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Manta Bay is situated near the iconic Broken Beach (Pasih Uug) on the northwest 
 
 ## Marine Life
 
-Reef manta rays are the primary attraction, visiting cleaning stations in the bay on most days. Blue-spotted stingrays, reef sharks, and turtles are regular companions. The coral bommies host clownfish, moray eels, and reef fish. During the July–October season, cooler upwellings occasionally bring mola mola close to the reef.
+Reef manta rays are the primary attraction, feeding near the surface rather than gathering at a fixed cleaning station. Blue-spotted stingrays, turtles, and occasional reef sharks have been reported in the bay. Regional reef fish inhabit the coral bommies, but no site-specific source could confirm which species are typically seen there, so none are listed here. Mola mola have occasionally been reported at Manta Bay during the July–October upwelling season, though the site is far better known for mantas than for sunfish.
 
 ## Dive Profile
 
-Descend to the sandy floor at 12–18 m and approach the cleaning stations at a respectful distance. Allow the mantas to approach rather than chasing them. Explore the coral bommies around the bay perimeter between manta passes. Ascend via the reef wall and conduct a 3-minute safety stop at 5 m.
+Descend to the sandy floor at roughly 5–18 m, where most manta activity occurs, and hold a respectful distance from feeding rays — there is no fixed cleaning station to station yourself at. Allow the mantas to approach rather than chasing them. Explore the coral bommies around the bay perimeter between manta passes. Ascend via the reef and conduct a 3-minute safety stop at 5 m.
 
 ## Entry and Exit
 
@@ -52,11 +52,11 @@ Boat access from Toyapakeh or operators based on Nusa Penida. The crossing is sh
 
 ## Safety Considerations
 
-Currents are less intense than Manta Point but can still be significant. Be aware of increased boat traffic in the bay — stay well clear of mooring lines and anchor chains. Do not approach manta rays closer than 3 m; they will leave the cleaning station if stressed. Always carry an SMB.
+Currents are less intense than Manta Point but can still be significant. Be aware of increased boat traffic in the bay — stay well clear of mooring lines and anchor chains. Do not approach manta rays closer than 3 m; they will move off if stressed. Always carry an SMB.
 
 ## Photography
 
 Wide-angle lenses capture manta rays circling over the coral bommies. The shallower, brighter conditions at Manta Bay often produce better-lit shots than the deeper site. Capture belly patterns to contribute to manta ID research programs run by local conservation organisations.
 
 ---
-*Sources: [Nusa Penida.org - Manta Bay](https://balimarinediving.com/bali-dive-sites/nusa-penida-crystal-bay-manta-baypoint/), [DPM Diving - Nusa Penida Sites](https://dpmdiving.com/discover-where-to-dive-in-nusa-penida/), [Two Fish Divers - Nusa Penida](https://twofishdivers.com/diving/nusa-penida/). Last updated 2026-05-17.*
+*Sources: [Joe's Gone Diving - Nusa Penida](https://www.joesgonediving.com/en/bali-dive-trips/nusa-penida/), [Diving Lembongan - Nusa Penida Dive Sites](https://divinglembongan.com/nusa-penida-dive-sites/), [Snorkeling Penida - Manta Bay vs Manta Point](https://snorkelingpenida.com/blog/manta-bay-vs-manta-point/). Last updated 2026-07-15.*

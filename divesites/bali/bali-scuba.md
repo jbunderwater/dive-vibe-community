@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Bali Scuba
 
-A reef dive site off the Sanur/Nusa Dua coast — coral gardens with varied fish life and calm conditions convenient to south Bali.
+Likely a commercial dive operator misclassified as a dive site — "Bali Scuba" is a well-known PADI dive center and Instructor Development Course provider based in Sanur, not a named reef.
 
 ## Overview
 
-Bali Scuba is a reef dive site accessible from south Bali, located in the waters off the Sanur area. The reef features coral gardens with a mix of hard and soft corals on a sloping bottom, offering a convenient dive option for travellers based in the south of the island who cannot make the longer journeys to Tulamben, Menjangan, or Nusa Penida. The site is particularly useful as a refresher or check dive, and conditions inside the sheltered reef channel are generally calm. Visibility averages 10–20 m and water temperatures are a consistent 28–30°C.
+Research confirms "Bali Scuba" (baliscuba.com) is an active PADI-registered dive operator headquartered in Sanur, south Bali, running daily trips to Padang Bai, Nusa Penida, and Tulamben. No dive shop, ScubaBoard thread, or dive database lists "Bali Scuba" as the name of an actual reef or dive site — every reference found is to the business itself. This OSM entry at these coordinates most likely represents the operator's location or a mistagged point of interest rather than a genuine dive site, and appears to be exactly the kind of commercial-business entry this project's data quality standards exclude. The previous generic reef description below was not supported by any site-specific source and has been removed rather than repeated.
 
 ## Site Information
 
@@ -32,31 +32,11 @@ Bali Scuba is a reef dive site accessible from south Bali, located in the waters
 
 ## Marine Life
 
-Reef fish typical of the Bali coast — butterflyfish, parrotfish, surgeonfish, and triggerfish. Moray eels and lionfish in coral crevices. Sea turtles are occasionally sighted. Batfish, sea snakes, cuttlefish, and nudibranchs are common finds along the Sanur reef system.
+No site-specific marine life claims can be made because no confirmed dive site by this name was found. If this entry does correspond to a real reef near Sanur, the general reef fauna of the Sanur/south Bali coast (parrotfish, surgeonfish, occasional turtles, sea snakes) may apply, but nothing has been verified for this specific point.
 
-## Dive Profile
+## Data Quality Note
 
-Descend from the boat to the reef at 5–10 m and follow the coral gardens to the maximum depth of 20 m. Most of the interesting reef life is concentrated at 8–15 m. Ascend gradually along the coral slope and complete the safety stop in the shallow reef zone.
-
-## Entry and Exit
-
-Jukung boat from Sanur beach. Short transit to the reef. Entry via giant stride. Conditions are typically calm and manageable for intermediate divers.
-
-## Tips and Recommendations
-
-- A convenient option for divers staying in Sanur, Kuta, or Nusa Dua
-- Works well as a refresher dive before heading to more demanding destinations
-- Best dived in the morning before afternoon boat traffic increases
-- Pair with a Nusa Penida day trip for a complete south Bali diving itinerary
-- Ask operators about combining with nearby batfish and cuttlefish sites in the channel
-
-## Safety Considerations
-
-Boat traffic in the Sanur channel can be significant — surface carefully and use an SMB. Lionfish in the reef are venomous. Be mindful of sea urchins in the shallower rocky areas near the beach.
-
-## Photography
-
-Calmer conditions suit learning photographers and those testing new equipment. Cuttlefish and sea snakes are approachable subjects. Batfish schools in the channel create interesting wide-angle compositions.
+This entry could not be validated as a legitimate dive site. Every independent source found for "Bali Scuba" refers to the PADI dive center/operator, not a reef. Per this project's data quality standard (no dive centers, shops, schools, or operators as site entries), this record should be reviewed for possible removal or re-tagging via `/quality-check` rather than treated as a validated dive site.
 
 ---
-*Description based on regional diving characteristics of the south Bali/Nusa Penida area. The site name "Bali Scuba" does not appear in dive operator site listings as a named dive site; it may originate from an OSM entry for a dive operator. No site-specific sources found. Last updated 2026-05-17.*
+*Unresolved: "Bali Scuba" appears to be a commercial dive operator (baliscuba.com), not a dive site. Not validated — recommend review for removal. Last updated 2026-07-15.*

@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Kubu Wreck
 
-A Dutch-built patrol vessel (the Boga) intentionally sunk in 2012 as an artificial reef off Kubu village, sitting at 18–40 meters depth with a VW car, Buddha statues, and decorative props on deck.
+A wreck of disputed origin — most dive operators describe it as a Dutch-built Indonesian government patrol vessel, one describes it as a Dutch-built cargo ship — deliberately sunk in September 2012 as an artificial reef off Kubu village, now settling deeper into the sand slope than its original placement depth.
 
 ## Overview
 
-The Kubu Wreck (officially named the Boga) is a former Dutch-built Indonesian government patrol vessel approximately 40–45 metres in length, intentionally sunk in 2012 to create an artificial reef off Kubu village on Bali's northeast coast. The wreck sits on a sloping sandy bottom with the bow at approximately 18 metres and the stern extending to 38–40 metres. Over time the wreck has slowly settled deeper than originally planned. The deck has been decorated with props — a (non-original) wooden steering wheel, Buddha statues, scuba tanks, and a Volkswagen car — giving the wreck a distinctive, theatrical character. The site is located approximately 400 metres southeast of Kubu Reef.
+The Kubu Wreck (also called the Boga Wreck) is an artificial-reef wreck deliberately sunk off Kubu village on Bali's northeast coast in September 2012. Sources disagree on its origin: several dive operators (Let's Dive Tulamben, Evolution Diver, Baliberty) describe it as a Dutch-built patrol vessel used by the Indonesian government — with some giving a build date of 1953 — while another operator (Bali Dive Cove) describes it simply as a Dutch-built cargo ship. No Wikipedia, Wikidata, or maritime-registry entry for a vessel named "Boga" could be found to independently confirm the build date, original role, or tonnage; these details should be treated as dive-operator-reported rather than independently verified history.
+
+Sources also disagree on the wreck's length (reports range from approximately 40 to 45 metres) and current depth (reports range from an 18–34 metre span to an 18–45 metre span). Multiple operators note the wreck was originally placed with a maximum depth around 32 metres and has settled progressively deeper into the sandy slope in the years since — so some of the depth variation likely reflects different survey dates rather than a pure factual conflict, but divers should confirm current depths with a local operator before diving. The deck carries non-original decorative props added after sinking — a Volkswagen car, Buddha statues, and a wooden ship's wheel — giving the site a distinctive, staged character. The site is located roughly 400 metres southeast of Kubu Reef.
 
 ## Site Information
 
@@ -25,7 +27,7 @@ The Kubu Wreck (officially named the Boga) is a former Dutch-built Indonesian go
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 40 meters (sources range 34-45m; wreck has settled deeper over time — confirm with local operator)
 - **Typical Visibility**: 15-25 meters
 - **Water Temperature**: 27-29°C
 - **Current**: Generally mild
@@ -33,7 +35,7 @@ The Kubu Wreck (officially named the Boga) is a former Dutch-built Indonesian go
 
 ## Marine Life
 
-Gorgonian fans and soft corals have colonised the wreck structure in the years since sinking. Confirmed species at the site include moray eels, barracuda, batfish, lionfish, nudibranchs, octopuses, and turtles. Reef fish — surgeonfish, fusiliers, angelfish, and damselfish — shelter around the structure. The wreck prop items (Volkswagen car, Buddha statues) have become focal points for marine life and unusual photographic subjects. The surrounding sand supports the same critter diversity found along the broader Tulamben–Kubu coast.
+Species reported at this specific wreck by dive operators include barracuda, batfish, angelfish, damselfish, surgeonfish, fusiliers, triggerfish, octopus, nudibranchs, and lobsters. Gorgonian fans and soft corals have colonised the wreck structure in the years since its 2012 sinking. The wreck's decorative props (Volkswagen car, Buddha statues) have become focal points for small reef fish and photographic subjects. Earlier versions of this description also listed moray eels, lionfish, and turtles at this site; those could not be re-confirmed against current site-specific sources and have been removed — they may still be present given they occur along the broader Tulamben–Kubu coastline, but are not verified as reported at this wreck specifically.
 
 ## Dive Profile
 
@@ -60,4 +62,4 @@ The stern depth of 38–40 metres makes this a deeper dive that limits bottom ti
 The Kubu Wreck offers unique photographic opportunities. The prop decorations on the deck -- statues, the old-style helm, portholes -- create distinctive compositions unlike any other wreck dive. The adjacent artificial reef with motorbikes and pushbikes draped in gorgonias provides surreal wide-angle subjects. A wide-angle lens is recommended for wreck exteriors and artificial reef structures. Bring a torch to bring out colours and illuminate details in the wreck's darker areas.
 
 ---
-*Sources: [Let's Dive Tulamben - Boga Wreck](https://letsdivetulamben.com/dive-sites/boga-wreck/), [Bali Dive Cove - Kubu Wreck Boga](https://www.balidivecove.com/dive-sites/kubu-wreck-boga/), [Ecodive Bali - Boga Wreck](https://ecodivebali.com/boga-wreck/). Last updated 2026-05-17.*
+*Sources: [Let's Dive Tulamben - Boga Wreck](https://letsdivetulamben.com/dive-sites/boga-wreck/), [Bali Dive Cove - Kubu Wreck Boga](https://www.balidivecove.com/dive-sites/kubu-wreck-boga/), [Ecodive Bali - Boga Wreck](https://ecodivebali.com/boga-wreck/), [Evolution Diver - Kubu/Boga Wreck](https://evolutiondiver.com/en/diving-sites?id=5). Last updated 2026-07-15.*

@@ -32,7 +32,7 @@ Manta Point is located on the southwestern coast of Nusa Penida and is the most 
 
 ## Marine Life
 
-Reef manta rays with wingspans up to 5 m are the headline attraction. Rare melanistic (all-black) manta rays have been recorded here. Blue-spotted stingrays rest on the sandy seabed, bamboo sharks cruise the reef base, and nudibranchs, Zanzibar shrimps, and porcelain crabs inhabit the coral structure. Mola mola (oceanic sunfish) are occasionally seen on the wall during the July–October season, and whale shark sightings have been recorded.
+Reef manta rays are the headline attraction, with encounter rates commonly reported above 90% year-round. Around 10% of Nusa Penida's manta population is melanistic (all-black) — one regularly-seen individual is nicknamed "Batman" — and Manta Point is one of the most reliable places to see this colour morph. Blue-spotted stingrays rest on the sandy seabed, bamboo sharks cruise the reef base, and banded sea kraits, nudibranchs, Zanzibar shrimp and porcelain crabs are found on the coral structure. Mola mola (ocean sunfish) are occasionally seen on the wall during the July–October upwelling season. Whale sharks are very rare here — sources point to a single documented sighting on 13 September 2023 — so they should not be treated as an expected encounter.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The site is fully exposed to Indian Ocean swell, and surge can be powerful. Stro
 Manta rays at close range on the cleaning station provide world-class wide-angle subjects. Use a rectilinear wide-angle lens for belly shots as they circle overhead. Avoid using flash on the mantas — natural light combined with sunbursts from above works beautifully at 10–15 m depth.
 
 ---
-*Sources: [Nusa Penida.org - Diving Manta Point](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/diving-manta-point-nusa-penida/), [Neptune Scuba Diving - Nusa Penida Sites](https://neptunescubadiving.com/scuba-diving-bali/nusa-penida-dive-sites/), [Manta Point Nusa Penida](https://mantapointnusapenida.com/), [Two Fish Divers - Nusa Penida](https://twofishdivers.com/diving/nusa-penida/). Last updated 2026-05-17.*
+*Sources: [Nusa Penida.org - Diving Manta Point](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/diving-manta-point-nusa-penida/), [Manta Point Nusa Penida](https://mantapointnusapenida.com/), [Neptune Scuba Diving - Nusa Penida Sites](https://neptunescubadiving.com/scuba-diving-bali/nusa-penida-dive-sites/), [Purple Dive Penida - Whale Shark in Nusa Penida](https://www.purpledivepenida.com/post/whale-shark-in-nusa-penida). Last updated 2026-07-15.*

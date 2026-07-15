@@ -17,7 +17,7 @@ Arguably the finest dive at Menjangan Island — a dramatic wall with cave entra
 
 ## Overview
 
-Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali National Park, and is widely regarded as the island's best dive. Small bats inhabit the caves at the waterline, giving the site its name; the underwater cave crevasses begin at around 9 metres and are a haven for invertebrates and critters. The wall drops vertically to beyond 40 metres and is draped in gorgonian sea fans, whip corals, and large barrel sponges. Strong head-on currents sweep in nutrient-rich water, producing dense fish aggregations throughout the water column. The site typically serves as the continuation dive from Pos 2, with divers drifting west along the wall until they reach the cave entrances.
+Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali National Park, and is frequently cited by local operators as one of the island's best dives. Small bats inhabit the caves at the waterline, giving the site its name; the underwater cave crevasses begin at around 9–12 metres and are a haven for invertebrates and critters. The wall drops vertically, with sources reporting maximum depths anywhere from 35 to 45 metres, and is draped in gorgonian sea fans, whip corals, and large sponges. Current reports conflict: some operators describe strong, sometimes head-on currents that make for a fast drift (Bali Fun Diving), while others describe generally mild to gentle conditions (Mimpi Resort, a ScubaBoard trip report) — expect variation by tide and season. The site is often dived as the continuation of a drift from Pos 2, moving along the wall toward the cave entrances.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali Na
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15–30 m
-- **Current**: Moderate to strong; head-on current from the east
+- **Maximum Depth**: 40 meters (sources vary between 35–45 m for the wall; cave entrances sit at 9–12 m)
+- **Typical Visibility**: 15–30 m, with PADI reporting 50 m+ possible October–November
+- **Current**: Reports conflict — described as strong by some operators and as mild/gentle by others; treat as variable and follow your dive guide's briefing
 - **Best Time**: April to November (dry season, best visibility)
 
 ## Marine Life
 
-Cave crevasses shelter nudibranchs, electric clams, moray eels, and small crustaceans. The open wall hosts schools of bluefin trevally, bigeye trevally, and fusiliers. Blacktip reef sharks patrol the deeper sections, and octopus are commonly spotted in overhangs. Pygmy seahorses hide in the gorgonians between 20–30 m, and the occasional whale shark has been reported drifting past during certain seasons.
+Multiple dive operator sources place schools of tuna, jacks, pompano, and fusiliers along the wall, with white-tip and black-tip reef sharks, big-eye and bluefin trevally, and redtooth triggerfish also reported here (Dive Concepts, Bali Fun Diving, Bali Aqua). Turtles, octopus, moray eels, and eagle rays have been recorded at the site (Dive Concepts, Bali Aqua). The cave crevasses and overhangs are described as a macro habitat for nudibranchs, shrimp, and pygmy seahorses (Karang Divers). Two independent sources — Dive Concepts and a ScubaBoard trip report — mention occasional whale shark sightings while drifting past Bat Cave; this is not a typical Menjangan sighting and should be treated as a rare possibility rather than an expected encounter (one other operator source, Karang Divers, explicitly ties Menjangan-wide whale shark sightings to October–November generally rather than to Bat Cave specifically).
 
 ## Dive Profile
 
@@ -45,8 +45,8 @@ Access by traditional jukung boat from Labuhan Lalang jetty in West Bali Nationa
 ## Tips and Recommendations
 
 - Dive this site as a continuation from Pos 2 for a long, memorable drift along the wall
-- Bring a torch to illuminate the cave recesses and reveal cryptic critters
-- Check pygmy seahorse colonies on gorgonians around 22–25 m
+- Bring a torch to illuminate the cave recesses and reveal cryptic critters — nudibranchs, shrimp, and pygmy seahorses hide in the overhangs
+- Ask your guide about current conditions before the dive, since reports on current strength vary by operator and tide
 - Nitrox is available from most Menjangan operators and extends bottom time
 - Visit in the morning for the best light angles on the wall and clearest water
 
@@ -59,4 +59,4 @@ Currents can be strong and unpredictable, particularly on incoming tides. Do not
 The cave entrances provide dramatic silhouette shots with ambient light streaming from above. Wide-angle lenses suit the wall sections with large gorgonians, while macro photographers will find electric clams, nudibranchs, and pygmy seahorses inside the cave crevasses. Morning dives produce the best water column colour.
 
 ---
-*Sources: [Dive Concepts - Bat Cave Menjangan](https://diveconcepts.com/bali/spot-bat-cave.php), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Dive Concepts - Bat Cave Menjangan](https://diveconcepts.com/bali/spot-bat-cave.php), [Bali Fun Diving - Menjangan](https://balifundiving.com/bali-dive-sites/menjangan-island/), [Karang Divers - Menjangan Island Diving](https://karangdivers.com/menjangan-island-diving.html), [Bali Aqua - Menjangan Diving](https://baliaqua.com/bali-dive-sites/menjangan-diving/), [ScubaBoard - Safari Dive in Menjangan Island](https://scubaboard.com/community/threads/safari-dive-in-menjangan-island-diving-in-bali-abyss-ocean-world.543360/). Last updated 2026-07-15.*

@@ -17,7 +17,7 @@ A 200-foot Haitian cargo freighter deliberately sunk as an artificial reef off N
 
 ## Overview
 
-The Ray of Hope is a 200-foot Haitian cargo freighter deliberately sunk as an artificial reef off the southwest coast of New Providence Island, Nassau, in 2003. Nassau port authorities donated the vessel to Stuart Cove's Dive Bahamas for sinking — it became the 16th wreck placed on the southwestern side of New Providence. The ship sits upright with its bow at approximately 12 metres and the stern sloping down to 18 metres, making this one of the most accessible and diver-friendly wrecks in Nassau. The Bahamas' clear water delivers 20–30 metres of visibility at this site. The wreck is fully intact, allowing divers to explore its interior, cabins, and gangways. It sits adjacent to an older wreck called Bahama Mama, creating a two-wreck dive option. Caribbean reef sharks regularly patrol the area and the wreck is used for structured shark-feeding dives by Stuart Cove's.
+The Ray of Hope is a 200-foot cargo freighter deliberately sunk as an artificial reef off the southwest coast of New Providence Island, Nassau, in 2003. She was last legally registered as a Haitian freighter — one source (Scuba-Do) notes physical evidence aboard (a side plate and engine-room placards) suggesting an earlier Belizean registration and German construction, though this detail is not independently corroborated elsewhere and should be treated as uncertain. Nassau port authorities donated the vessel to Stuart Cove's Dive Bahamas for sinking — it became the 16th wreck placed on the southwestern side of New Providence. The ship sits upright with its bow at approximately 12 metres (40 ft) and the stern sloping down to 18 metres (60 ft), making this one of the most accessible and diver-friendly wrecks in Nassau. The Bahamas' clear water delivers 20–30 metres of visibility at this site. The wreck is fully intact, allowing divers to explore its interior, cabins, and gangways. It sits directly behind an older wreck called Bahama Mama, creating a two-wreck dive option, with the Tongue of the Ocean wall close behind both. The wreck is used for structured shark-feeding dives by Stuart Cove's.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Ray of Hope is a 200-foot Haitian cargo freighter deliberately sunk as an ar
 
 ## Marine Life
 
-The wreck hosts large groupers throughout the superstructure and hull. Schools of glassfish and sweepers fill the interior spaces. Spotted moray eels occupy crevices. The encrusted exterior supports a diverse invertebrate community. Caribbean reef sharks patrol the area around the wreck. The open sandy bottom at 50 meters hosts southern stingrays. Sea turtles occasionally visit the shallower upper sections of the superstructure.
+DreamWrecks reports nurse sharks and Caribbean reef sharks living in and around the wreck, along with turtles, snapper, angelfish, grunts, grouper, and anemones; eagle rays are reported as a possible but not guaranteed sighting. Claims of glassfish, sweepers, spotted moray eels, and southern stingrays from the prior text were not corroborated by current sources and have been removed.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The accessible depth (12–18 m) means excellent natural light — strobes are o
 - Combine with Stuart Cove Wall for a Nassau two-tank deep dive day
 
 ---
-*Sources: [DreamWrecks - Ray of Hope Bahamas](https://dreamwrecks.com/ray-of-hope-bahamas-shipwreck), [DeeperBlue - Ray of Hope newest wreck](https://www.deeperblue.com/the-ray-of-hope-is-the-newest-wreck-dive-in-the-bahamas/), [Scuba Diving Magazine - Wreck Diving with Stuart Cove's](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Stuart Cove's Dive Bahamas](https://stuartcove.com/). Last updated 2026-05-17.*
+*Sources: [DreamWrecks - Ray of Hope Bahamas](https://dreamwrecks.com/ray-of-hope-bahamas-shipwreck), [DeeperBlue - Ray of Hope newest wreck](https://www.deeperblue.com/the-ray-of-hope-is-the-newest-wreck-dive-in-the-bahamas/), [Scuba Diving Magazine - Wreck Diving with Stuart Cove's](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Stuart Cove's Dive Bahamas](https://stuartcove.com/), [Scuba-Do - Top 10 Wreck Dives of the Bahamas](https://scuba-do.com/article/top-10-wreck-dives-of-the-bahamas/). Re-audited 2026-07-15: length/sinking year/depths re-confirmed with no conflicts; the Haitian registration is well-supported but one source's claim of a possible earlier Belizean/German origin is flagged as uncorroborated rather than stated as fact. Marine life rewritten to site-specific sourced species. Last updated 2026-07-15.*

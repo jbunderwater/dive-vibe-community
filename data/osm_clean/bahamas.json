@@ -28,7 +28,7 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "yes",
       "year_of_construction": "1940-1945",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -60,7 +60,7 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "note": "Built 1919 by Liberty Shipbuilding Co for US Shipping Board WWI Emergency Fleet. NOT built for Henry Ford. Purchased 1924 by Carl G. Fisher, then Bruce Bethell. Wrecked in 1926 hurricane. Used for WWII bombing practice by US Army/Navy. Hemingway target practice claim is unverified. Length 281 ft 10 in; 3,500 DWT.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -78,8 +78,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "Located 32km (20 miles) off west end of Grand Bahama. Tiger sharks year-round, peak Oct-Jan. Great hammerheads Dec-Mar. Depth 6-12m.",
-      "last_qa_date": "2026-05-17"
+      "note": "Located 32km (20 miles) off west end of Grand Bahama. Tiger sharks year-round, peak Oct-Jan (breeding season). Great hammerheads Dec-Mar. Lemon, Caribbean reef, nurse sharks consistently present; occasional bull sharks reported. Depth 6-12m.",
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -97,7 +97,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15",
+      "note": "Not an officially named Stuart Cove's site -- their published site names for this program are 'Shark Wall', 'The Arena', 'Shark Wall North' and 'The Runway' (confirmed via stuartcove.com). 'Stuart Cove Wall' is a descriptive label for the wall section their boats dive; stuartcove.com only explicitly confirms Caribbean reef sharks as a consistent species here. Other species in description are regional-typical, not site-confirmed."
     }
   },
   {
@@ -115,8 +116,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "Also known as The Arena and The Runway (two separate Stuart Cove feeding sites). Primary species: Caribbean reef sharks (5-6ft). Depth ~12m (40ft).",
-      "last_qa_date": "2026-05-17"
+      "note": "Also known as The Arena and The Runway (two separate Stuart Cove feeding sites). Confirmed as 'The Arena' on stuartcove.com 2026-07-15 -- Caribbean reef sharks (5-6ft) are the only species stuartcove.com explicitly documents there; nurse sharks and reef fish are regionally typical but not individually confirmed by that source. Depth ~12m (40ft).",
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -135,7 +136,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "Filmed for Thunderball (1965) and Never Say Never Again (1983). Multiple underwater entrances. Best visited at low/slack tide.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -153,8 +154,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "World's THIRD deepest known ocean blue hole (not second) — after Taam Ja' Blue Hole (Mexico) and Dragon Hole (South China Sea). Surface diameter ~30m, widens to ~100m. William Trubridge world record 101m in Dec 2010. Hosts annual Vertical Blue competition.",
-      "last_qa_date": "2026-05-17"
+      "note": "World's THIRD deepest known ocean blue hole -- after Taam Ja' Blue Hole (Mexico, 420m) and Dragon Hole/Yongle Blue Hole (South China Sea, 300.89m). Re-confirmed via Wikipedia + DeeperBlue 2026-07-15. Surface diameter ~30m, widens to ~100m. William Trubridge world record 101m in Dec 2010. Hosts annual Vertical Blue competition.",
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -172,8 +173,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "This is the same as the Current Cut OSM entry. Both entries reference the same channel between North Eleuthera and Current Island.",
-      "last_qa_date": "2026-05-17"
+      "note": "DATA QUALITY FLAG: this is the same physical channel as the 'Current Cut' entry elsewhere in this file (both describe the tidal cut between North Eleuthera and Current Island). Left as two entries per task scope -- flagged for a future dedup pass, not merged here.",
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -191,7 +192,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15",
+      "note": "Confirmed as 'Shark Wall' on stuartcove.com -- Caribbean reef sharks are the only species stuartcove.com explicitly documents at this site. Markdown's prior 'Nassau grouper -- the site's namesake fish' line was a factual error (site is not named for grouper) and has been removed."
     }
   },
   {
@@ -209,7 +211,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15",
+      "note": "Sources (scubadiving.com, discovery.com, explorersweb.com, myoutislands.com) document Andros's blue hole system generally and in strong depth/character agreement, but none specifically names 'Lost Blue Hole' as a distinct site during this re-audit -- confidence is at the regional-Andros-blue-hole level, not site-name level."
     }
   },
   {
@@ -223,12 +226,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "dreamwrecks.com,wannadive.net,scubadiverlife.com,ashunderwater.com",
+    "validation_source": "dreamwrecks.com,yachtcharterfleet.com,zentacle.com,wannadive.net",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "130ft (39.6m) steel freighter built Netherlands 1966. Served as Bahamas mailboat from 1980. Sank in 1988 during tow at Clifton Pier. Stuart Cove's refloated and resank in current position. NOT a passenger ferry. NOT deliberately sunk as artificial reef initially — accidental sinking then repositioned.",
-      "last_qa_date": "2026-05-17"
+      "note": "SOURCE CONFLICT (documented, not resolved by picking a side): dreamwrecks.com, yachtcharterfleet.com and scubadiverlife.com describe a 130ft (39.6m) freighter built in the Netherlands in 1966, used as a Bahamas mailboat from 1980, which sank under tow near Clifton Pier in 1988 and was relocated by Stuart Cove's. zentacle.com and wannadive.net instead describe the vessel as built in Denmark in 1907, first sunk at Potter's Cay, Nassau, then moved and finally sunk in a storm near Clifton Pier -- with no mailboat narrative. Depth also varies: dreamwrecks.com reports ~15m/50ft, zentacle.com/wannadive.net report avg 15m/max 21m. Both narratives are written into the markdown; do not present either as settled fact.",
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -246,8 +249,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "Oceanic whitetip sharks primary April-May (following tuna migration). Not year-round. Depth up to 12m (40ft). Caribbean reef sharks year-round.",
-      "last_qa_date": "2026-05-17"
+      "note": "Oceanic whitetip sharks primary April-May (following tuna migration) -- this remains the best-corroborated window (southernboating.com, epicdiving.com both state 'April and May'), though other sources (scubaverse.com, diveadvice.com) give a wider March-June window. Caribbean reef sharks year-round. Depth up to 12m (40ft).",
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -266,7 +269,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "Wall top at 15-24m, drops to 40m+ into abyss. Swim-throughs and tunnels on south wall in 21-30m. Conception Island is Bahamas National Trust national park.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -285,7 +288,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "200ft Haitian cargo freighter. Sunk 2003 by Stuart Cove's as artificial reef. Bow at 12m, stern at 18m (40-60ft). Sits next to Bahama Mama wreck. 16th wreck on New Providence SW side. PREVIOUS depth of 50m was WRONG — corrected to 18m.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -304,7 +307,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "diveboard.com, dive-the-world.com, yachtsbahamacharters.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -323,7 +326,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "uncommoncaribbean.com, zentacle.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15",
+      "note": "Zentacle.com confirms Caribbean reef sharks, large groupers and triggerfish at this site ('fantastic shark feeding dive'). uncommoncaribbean.com (original source) blocked automated re-fetch (403) during this re-audit; exact '10 sharks' figure softened to 'several' since it could not be re-confirmed live."
     }
   },
   {
@@ -342,8 +346,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "false",
       "validation_source": "scubaweather.com",
-      "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
-      "last_qa_date": "2026-05-17"
+      "note": "Re-audit 2026-07-15: still only 1 independent source (scubaweather.com, a dive-conditions tracker confirming the site exists with real GPS/visibility data). No descriptive/marine-life source found despite additional targeted searches (thescubadirectory.com's Great Exuma site list of 12 named sites does not include this one). validated remains false pending 2 more independent sources.",
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -362,8 +366,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "false",
       "validation_source": "scubaboard.com",
-      "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
-      "last_qa_date": "2026-05-17"
+      "note": "Re-audit 2026-07-15 found a DATA INTEGRITY PROBLEM: the sole cited source (a ScubaBoard thread on Abaco diving) does not actually mention a site called 'The Cutt' anywhere in its text -- confirmed by direct re-fetch. No independent source could be found naming a Bahamas dive site called 'The Cutt'. validated remains false; this entry needs re-investigation of its origin (github_issue_52 contribution) rather than further source-hunting.",
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -382,8 +386,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "false",
       "validation_source": "scubaweather.com",
-      "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
-      "last_qa_date": "2026-05-17"
+      "note": "Re-audit 2026-07-15: still only 1 independent source (scubaweather.com conditions tracker). No descriptive source found; thescubadirectory.com's Great Exuma site list of 12 named sites does not include this one. validated remains false pending 2 more independent sources.",
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -402,7 +406,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "divein.com, dive-the-world.com, zentacle.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15",
+      "note": "Re-audit 2026-07-15: sourcing weaker than the 3-domain count suggests -- the cited zentacle.com URL resolves to the homepage, not a dedicated site page (no dedicated Zentacle page for this site could be located), and divein.com blocked automated re-fetch (403). dive-the-world.com's Exuma Cays page is regional, not site-specific. Kept validated=true because the physical tidal cut at Norman's Cay is independently corroborated by waterwayguide.com's 'Norman's Cay Cut' anchorage listing, and the dive character is consistent with the well-documented Current Cut pattern nearby -- but precise numbers (4-6 knots, 'washing machine' nickname) are unconfirmed and flagged as such."
     }
   },
   {
@@ -421,7 +426,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "zentacle.com, yachtsbahamacharters.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15",
+      "note": "Re-audit 2026-07-15: direct re-fetch of the cited zentacle.com page confirms depth (98.4ft/30m) and difficulty (advanced) but contains NO marine-life text at all. The other two cited sources are regional Exuma-wall pages, not specific to this site. The prior markdown's detailed species list (turtles, eagle rays, reef sharks, Nassau grouper, barracuda, lobster, hammerheads) is not traceable to a site-specific source and has been stripped/replaced with an honest regional-fauna disclaimer."
     }
   },
   {
@@ -440,7 +446,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "zentacle.com, allstarliveaboards.com, capeeleuthera.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15",
+      "note": "Re-audit 2026-07-15: allstarliveaboards.com's Cobia Cage article (the site's actual namesake feature) specifically confirms a large loggerhead sea turtle, a resident hammerhead shark, and lettuce sea slugs/arrow crabs on the cage netting. It does NOT confirm eagle rays, groupers, or amberjack as previously written -- the amberjack claim likely bled in from the separate 'Amberjack Reef' site and has been removed as an unsupported/likely-confused claim."
     }
   },
   {
@@ -459,7 +466,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "capeeleuthera.com, scubadiving.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15",
+      "note": "capeeleuthera.com's dive shop page (re-fetched 2026-07-15) confirms the general area character (walls, reef sharks, turtles, rays) but does not name this specific site or confirm species at this exact location distinct from the shop's other Cape Eleuthera sites. Description reflects confirmed regional Cape Eleuthera character rather than site-exclusive sightings."
     }
   },
   {
@@ -478,8 +486,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "oceanfoxbahamas.com, zentacle.com, projecteleuthera.org, tribune242.com",
-      "note": "Site type changed from 'reef' to 'wreck' — primary draw is the multiple historic wrecks (Cienfuegos 1895, Carnarvon 1916, Train Wreck 1865, Vanaheim 1969). Depth 5-10m.",
-      "last_qa_date": "2026-05-17"
+      "note": "Site type changed from 'reef' to 'wreck' -- primary draw is the multiple historic wrecks (Cienfuegos 1895, Carnarvon 1916, Train Wreck 1865, Vanaheim 1969). Depth 5-10m. Re-audit 2026-07-15: Cienfuegos (292ft, 2332 tons, launched 1883 Chester PA, wrecked 5 Feb 1895) and Carnarvon (186ft Welsh freighter, wrecked 1916) facts re-confirmed via independent WebSearch cross-check against projecteleuthera.org/tribune242.com. Train Wreck's 1865 Confederate-railway-to-Cuba narrative also re-confirmed independently. No conflicts found.",
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -498,7 +506,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "zentacle.com, bahamas.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15"
     }
   },
   {
@@ -517,7 +525,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "eleuthera.me, zentacle.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-15",
+      "note": "Zentacle.com re-fetch 2026-07-15 specifically confirms 'a pod of stingrays lives here' at this exact site plus strong eastward tidal flow (up to 9 knots per Zentacle, vs 6-10 knots in prior text -- consistent). Other species (sharks, eagle rays, grouper, snapper, barracuda) are regionally typical for Eleuthera cuts but not individually confirmed at this specific site by the re-fetched source."
     }
   }
 ]

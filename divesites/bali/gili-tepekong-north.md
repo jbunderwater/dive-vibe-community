@@ -17,7 +17,7 @@ The more accessible face of Gili Tepekong — healthy hard and soft corals, turt
 
 ## Overview
 
-Gili Tepekong is the largest of the three volcanic islets in Amuk Bay off Candidasa, and its north face offers a more sheltered diving experience compared to the exposed southern sections. The northern reef features steep drop-offs, swim-throughs, and walls covered in blood-red sea fans, table corals, and various sponge species. Schools of sweetlips, bannerfish, and grouper are resident, and whitetip reef sharks are commonly found resting among the coral bommies. The site is accessible to intermediate divers on most days, though currents can still be significant and require monitoring throughout the dive.
+Gili Tepekong is the largest of the three volcanic islets in Amuk Bay off Candidasa. Dive operators generally describe Tepekong as one site with several routes of varying intensity — a calmer sloping plateau/boulder area, and the far more demanding Canyon and Blue Hole features on the exposed south/southwest side (covered in the Gili Tepekong South entry). This northern-facing entry corresponds to the gentler plateau and boulder terrain, with reef and rock formations covered in soft and hard corals. Whitetip (and occasionally blacktip) reef sharks are reported resting among the boulders, and schools of sweetlips and grouper are seen over the reef. Conditions are more approachable than Tepekong South, but currents at Amuk Bay's islands can still strengthen quickly and require constant monitoring.
 
 ## Site Information
 
@@ -32,31 +32,31 @@ Gili Tepekong is the largest of the three volcanic islets in Amuk Bay off Candid
 
 ## Marine Life
 
-Whitetip reef sharks, turtles, octopus, and cuttlefish are regular sightings. Schools of sweetlips, jacks, and grouper gather in the current-swept areas. Bargibanti pygmy seahorses are found nestled in the pink and yellow gorgonians, taking on their host's colour for camouflage. Nudibranchs, crabs, and shrimps inhabit the reef rubble. The cooler water occasionally brings mola mola in season (July–October).
+Whitetip and blacktip reef sharks are reported at Gili Tepekong. Turtles, octopus, and cuttlefish are also seen on the reef. Schools of sweetlips, trevally, and grouper gather over the boulders and plateau. Bargibanti pygmy seahorses have been documented on the pink and yellow gorgonians around the "Tepekong Pinnacle" reef feature — sources do not specify whether this is on the north or south side of the island, so treat this as a Tepekong-wide sighting rather than confirmed for this exact spot. Nudibranchs inhabit the reef rubble. Mola mola are reported in season (July–October), primarily on the current-swept sections of the island.
 
 ## Dive Profile
 
-Descend on the north face and follow the reef slope from 5–25 m. Swim-throughs between 10–18 m add variety to the dive. Spend time on the reef crest examining gorgonians for pygmy seahorses before dropping to the deeper sections. Ascend gradually and complete a 3-minute safety stop at 5 m, watching for current changes during ascent.
+Descend on the sheltered plateau side and follow the boulder-strewn reef slope from 5–25 m. Spend time over the reef examining gorgonians for pygmy seahorses. Ascend gradually and complete a 3-minute safety stop at 5 m, watching for current changes during ascent. The dramatic swim-through/chimney and Canyon features described for Tepekong are on the exposed south side of the island — see the Gili Tepekong South entry.
 
 ## Entry and Exit
 
-Boat from Padangbai or Candidasa (approximately 20–25 minutes). Entry via back roll. Currents are more predictable on the north face than the south, but monitor throughout. SMB deployment essential for drift ascent.
+Boat from Padangbai or Candidasa. Entry via back roll. Currents are generally more manageable here than on Tepekong's south side, but conditions at Amuk Bay's islands change quickly, so monitor throughout. SMB deployment recommended for drift ascent.
 
 ## Tips and Recommendations
 
-- Gili Tepekong North suits intermediate divers; save Tepekong South for when conditions and experience align
-- Look methodically at pink gorgonians for Bargibanti pygmy seahorses
-- The canyon and swim-throughs between boulders are a highlight — follow your guide
+- Gili Tepekong North/plateau suits intermediate divers; save Tepekong South's Canyon for when conditions and experience align
+- Look methodically at pink and yellow gorgonians for Bargibanti pygmy seahorses
+- Follow your guide closely — currents at Amuk Bay's islands can strengthen with little warning
 - Mola mola are possible July–October on the current-swept sections
 - Combine with Gili Mimpang for a full Candidasa diving day
 
 ## Safety Considerations
 
-Currents can intensify quickly and may reverse without warning near the island. Down-currents are possible near rock faces. Always carry an SMB. Maintain sight of your buddy and guide throughout. Abort the dive and surface in a sheltered location if current exceeds your ability to control depth.
+Currents can intensify quickly near the island, and downcurrents are a documented hazard at Gili Tepekong generally (most severe in the Canyon on the south side — see that entry). Always carry an SMB. Maintain sight of your buddy and guide throughout. Abort the dive and surface in a sheltered location if current exceeds your ability to control depth.
 
 ## Photography
 
-The swim-throughs provide dramatic frame shots with divers silhouetted against the light. Pygmy seahorses in gorgonians require macro lens and careful focus. Wide-angle captures the schools of sweetlips and the coral wall character.
+Wide-angle suits the schools of sweetlips and the boulder/coral terrain. Pygmy seahorses in gorgonians require a macro lens and careful focus if you find them on this side of the island.
 
 ---
-*Sources: [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [Indopacific Images - Gili Tepekong](https://indopacificimages.com/indonesia/bali-anchor-page/diving-indonesia-bali-gili-tepekong/), [PADI - Gili Tepekong](https://www.padi.com/dive-site/indonesia/gili-tepekong-2/). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [PADI - Gili Tepekong](https://www.padi.com/dive-site/indonesia/gili-tepekong-2/), [Nico Dives Cool Bali - Gili Tepekong](https://nicodivescoolbali.com/go-diving/day-trips/candidasa/gili-tepekong/), [OK Divers - Gili Tepekong](https://www.okdiversbali.com/portfolio/gili-tepekong-bali/). Last updated 2026-07-15.*

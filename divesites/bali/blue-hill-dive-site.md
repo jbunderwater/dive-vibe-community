@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## Blue Hill Dive Site
 
-A sloping reef in the Tulamben area with a pleasant mix of coral formations and resident reef fish, ideal between the Liberty wreck and muck dive sites.
+Twin reef sites at the end of the Tulamben Wall, reached by a short boat ride from Blue Hill Dive Resort — a 20-30 metre sandy-bottomed reef known for pygmy seahorses, less frequently dived than the shore-entry sites closer to town.
 
 ## Overview
 
-Blue Hill is a reef dive site in the Tulamben corridor of northeast Bali, situated between the major draw sites of the USAT Liberty wreck and the muck diving locations near Amed. The reef slopes from the shallows to around 25 m, offering a classic Indonesian tropical reef experience with hard coral bommies, sea fans, and a colourful fish community. The site is particularly useful for groups of mixed experience levels, providing enough depth and interest for intermediate divers without the demanding conditions of more exposed sites in the region. Current is generally moderate and predictable.
+Blue Hill's house dive sites are two reef areas situated at the end of Tulamben Wall, reached by roughly a 10-minute boat ride from the resort (located on the coast between Tulamben and Tukad Dabu). Coral formations have grown up at approximately 20-30 metres on a sandy bottom. Because these reefs are visited far less often than the popular shore-entry sites (Liberty Wreck, Coral Garden, Drop-off), the operator reports they have become a refuge for shyer, less common creatures, including pygmy seahorses. This corrects the earlier version of this page, which described Blue Hill as a shallow (15 m) shore-entry site — that was not supported by any source; the only site-specific source found (the resort's own dive page) describes a boat-accessed 20-30 m reef instead.
 
 ## Site Information
 
-- **Location**: Tulamben area, northeast Bali
-- **Entry Type**: Shore entry
+- **Location**: Tulamben area, northeast Bali (end of Tulamben Wall)
+- **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–22 m
-- **Current**: Moderate; generally predictable
+- **Current**: Not specified by source; assume moderate given depth and boat access
 - **Best Time**: April to November
 
 ## Marine Life

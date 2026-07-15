@@ -33,7 +33,7 @@ The Curtiss C-46A Commando (civil registration N355BY) crashed into the shallow 
 
 ## Marine Life
 
-The aircraft wreck has been colonised over four decades into a productive artificial reef. Large groupers inhabit the fuselage interior. Moray eels occupy the engine nacelles. Schools of snapper and grunt shelter around the wings. Sea turtles are common in the Exuma Cays waters. The sandy surrounding area hosts southern stingrays and garden eels. The clarity of Exuma water means visibility to the aircraft from above is often achievable in mid-water during descent.
+No source consulted in this audit documents specific fish or invertebrate species observed on the Curtiss C-46 wreck itself. This site shares the Exuma Cays' regional reef fauna, but no site-specific marine life reports were found in current sources — prior text naming groupers, moray eels, snapper, grunt, sea turtles, stingrays, and garden eels at this wreck has been removed as unverifiable.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ An aircraft wreck in crystal-clear Bahamas water is an exceptional photography s
 - Bahamas liveaboard vessels frequently include Norman's Cay in Exuma Cays itineraries
 
 ---
-*Sources: [Bureau of Aircraft Accidents Archives - Norman's Cay crash](https://www.baaa-acro.com/crash/crash-curtiss-c-46a-45-cu-commando-normans-cay), [Aviation Safety Network - N355BY accident record](https://aviation-safety.net/wikibase/328206), [Bahamas Air Tours - Norman's Cay Plane Wreck](https://www.bahamasairtours.com/normans-cay/), [Wikipedia - List of C-46 accidents](https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Curtiss_C-46_Commando). Last updated 2026-05-17.*
+*Sources: [Bureau of Aircraft Accidents Archives - Norman's Cay crash](https://www.baaa-acro.com/crash/crash-curtiss-c-46a-45-cu-commando-normans-cay), [Aviation Safety Network - N355BY accident record](https://aviation-safety.net/wikibase/328206), [Bahamas Air Tours - Norman's Cay Plane Wreck](https://www.bahamasairtours.com/normans-cay/), [Wikipedia - List of C-46 accidents](https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Curtiss_C-46_Commando). Re-audited 2026-07-15: accident narrative (registration N355BY, 15 Nov 1980, touch-and-go gone wrong, no fatalities) re-confirmed against all four sources with no factual conflicts found. Marine life claims removed as unsourced. Last updated 2026-07-15.*
