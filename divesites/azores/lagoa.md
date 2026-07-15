@@ -17,7 +17,7 @@ A south coast dive site near the municipality of Lagoa on São Miguel — volcan
 
 ## Overview
 
-Lagoa is located on the south coast of São Miguel near the municipality of Lagoa. The south coast is São Miguel's primary diving area, offering more sheltered conditions and generally better visibility than the north coast. The volcanic terrain features rocky reef, arches, and sandy patches. Nearby documented sites in this area include Arcos da Caloura (cave system, 18 m) to the east and various reef sites along the south coast.
+Lagoa is located on the south coast of São Miguel near the municipality of Lagoa. A fresh, thorough re-check on 2026-07-15 — including dive.visitazores.com's full São Miguel dive-spot directory, ScubaBoard, and Portuguese-language searches — found no scuba site actually named "Lagoa"; it is not listed in dive.visitazores.com's directory, and no dive shop or forum names a site by this name at these coordinates. "Lagoa" is a very common Portuguese place name (it means "lagoon"), and this entry's coordinates most likely represent a generic pin near the Lagoa municipality rather than a distinct, named dive site — this should be considered for possible removal or merging with a genuinely named nearby site in a future data-quality pass rather than continued validation attempts. The south coast is São Miguel's primary diving area, offering more sheltered conditions than the north coast; nearby documented sites include Arcos da Caloura (cave system, 18 m) to the east.
 
 ## Site Information
 
@@ -41,4 +41,4 @@ No site-specific marine life records found for this named site. Typical south-co
 - Volcanic geology typical of the Azores
 
 ---
-*Description based on general south-coast São Miguel diving characteristics. No site-specific dive sources found for this named site. Last updated 2026-05-17.*
+*Description based on general south-coast São Miguel diving characteristics. No site-specific dive sources found for this named site despite a thorough re-check on 2026-07-15 (dive.visitazores.com directory, ScubaBoard, Portuguese-language searches); likely a generic coordinate pin rather than a distinct named dive site. Last updated 2026-07-15.*

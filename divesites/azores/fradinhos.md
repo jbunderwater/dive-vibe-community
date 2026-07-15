@@ -17,7 +17,7 @@ Four uninhabited islets 5 nautical miles southeast of Terceira — the submerged
 
 ## Overview
 
-Fradinhos are four small uninhabited islets located 5 nautical miles southeast of Terceira Island, comprising the exposed summit of a submerged volcanic cone. The dive profile begins at 25 metres average depth, with the bottom progressively descending to 60 metres. The site is accessible only by boat — approximately 20 minutes from Angra do Heroísmo Harbour or 35 minutes from Praia da Vitória Harbour.
+Fradinhos are four small uninhabited islets — Wikipedia gives more precise distances of 2.1 NM off Porto Judeu and 9 NM from Angra do Heroísmo — comprising the exposed summit of a submerged volcanic cone. "5 nautical miles southeast of Terceira" remains a reasonable general approximation but is not an exact match to any single cited figure. The dive profile begins at 25 metres average depth, with the bottom progressively descending to 60 metres. The site is accessible only by boat — approximately 20 minutes from Angra do Heroísmo Harbour or 35 minutes from Praia da Vitória Harbour.
 
 The site is known both for resident demersal species and for open-water pelagic encounters. From 30 metres, black coral (*Antipathella wollastoni*) colonises the flanks alongside imposing dusky groupers and barred hogfish. The exposed offshore position and strong currents make this an advanced dive reserved for experienced divers.
 
@@ -44,4 +44,4 @@ Azores chromis (*Chromis limbata*), large blacktail combers (*Serranus atricauda
 - Combine with Terceira's accessible bay sites for a mixed-depth day
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/fradinhos), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/fradinhos-266.html), [Azores Getaways – Terceira Diving](https://azoresgetaways.com/en-us/destination/azores/general-articles/azores-diving). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/fradinhos), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/fradinhos-266.html), [Wikipedia – Fradinhos](https://en.wikipedia.org/wiki/Fradinhos). Last updated 2026-07-15.*

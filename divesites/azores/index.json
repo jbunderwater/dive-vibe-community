@@ -98,8 +98,8 @@
   {
     "name": "Gruta dos Enxaréus",
     "filename": "gruta-dos-enxaréus.md",
-    "lat": 39.45,
-    "lng": -31.12,
+    "lat": 39.4265,
+    "lng": -31.1409,
     "difficulty": "Advanced",
     "maxDepth": 23,
     "entryType": "boat",

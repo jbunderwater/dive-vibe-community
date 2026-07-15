@@ -17,7 +17,7 @@ A bay dive on São Miguel's north coast near the village of Capelas — volcanic
 
 ## Overview
 
-Bahia de Capelas is a bay on the north coast of São Miguel near the village of Capelas, situated between Mosteiros to the west and Ribeira Grande to the east. The north coast features rugged cliffs, volcanic rock formations, and natural pools connected to the sea. The underwater terrain comprises volcanic basalt typical of the Azores, with rocky reef rather than coral structures. North coast conditions can be rougher than the more sheltered south coast, with variable visibility.
+Bahia de Capelas is a bay on the north coast of São Miguel near the village of Capelas, situated between Mosteiros to the west and Ribeira Grande to the east. A fresh, thorough re-check on 2026-07-15 — including dive.visitazores.com's full São Miguel dive-spot directory, ScubaBoard, and Portuguese-language searches — still found no scuba-diving source naming this bay specifically. It is not listed in dive.visitazores.com's directory. The nearby Poços de Capelas natural pools are documented, but consistently as swimming pools rather than dive sites. The north coast generally features rugged cliffs and volcanic rock formations, with rocky reef rather than coral structures, but the depth, difficulty, and site-type values below remain unverified placeholders rather than researched figures for this specific bay.
 
 ## Site Information
 
@@ -41,4 +41,4 @@ No site-specific marine life records found. Typical north-coast Azorean reef spe
 - The village of Capelas has historical connections to whaling industry
 
 ---
-*Description based on general north-coast São Miguel diving characteristics. No site-specific dive sources found. Last updated 2026-05-17.*
+*Description based on general north-coast São Miguel diving characteristics. No site-specific dive sources found despite a thorough re-check on 2026-07-15 (dive.visitazores.com directory, ScubaBoard, Portuguese-language searches). Last updated 2026-07-15.*

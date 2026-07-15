@@ -34,7 +34,7 @@ The volcanic geology creates dramatic cracks, canyons, and arched passages aroun
 
 ## Marine Life
 
-Azores chromis (*Chromis limbata*), ornate wrasses (*Thalassoma pavo*), blacktail combers (*Serranus atricauda*), parrotfish (*Sparisoma cretense*), ballan wrasses (*Labrus bergylta*), barred hogfish (*Bodianus scrofa*), moray eels, common octopuses (*Octopus vulgaris*), common stingrays, dusky groupers (*Epinephelus marginatus*), white trevallies, yellowmouth barracudas (*Sphyraena viridensis*), and Almaco jacks (*Seriola rivoliana*). Species confirmed at this site by dive.visitazores.com.
+Dive.visitazores.com describes these species with two different levels of confidence, which this entry now distinguishes rather than presenting as uniformly confirmed. Stated as present/abundant: Azores chromis (*Chromis limbata*), ornate wrasses (*Thalassoma pavo*), blacktail combers (*Serranus atricauda*), parrotfish (*Sparisoma cretense*), ballan wrasses (*Labrus bergylta*), barred hogfish (*Bodianus scrofa*), moray eels, common octopuses (*Octopus vulgaris*), and dusky groupers (*Epinephelus marginatus*). Described with hedged, probabilistic language ("likely to spot," "often seen in the water column") rather than as confirmed sightings: common stingrays, white trevallies, yellowmouth barracudas (*Sphyraena viridensis*), Almaco jacks (*Seriola rivoliana*), and bluefish (*Pomatomus saltator*) — the last of which was omitted from earlier versions of this entry despite appearing on the source page.
 
 ## Tips and Recommendations
 
@@ -46,4 +46,4 @@ Azores chromis (*Chromis limbata*), ornate wrasses (*Thalassoma pavo*), blacktai
 - Reef top at 5 m makes upper sections accessible to snorkellers
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/ilheu-de-vila-franca), [Wikipedia – Vila Franca Islet](https://en.wikipedia.org/wiki/Vila_Franca_Islet), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/ilheu-de-vila-franca), [Wikipedia – Vila Franca Islet](https://en.wikipedia.org/wiki/Vila_Franca_Islet), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/ilheu-de-vila-franca/), [Futurismo](https://www.futurismo.pt/blog/ilheu-de-vila-franca-the-idyllic-princess-ring/). Last updated 2026-07-15.*

@@ -17,7 +17,9 @@ One of three submerged reefs in the Pico–Faial Channel — massive schools of 
 
 ## Overview
 
-Baixa da Barca is one of three submerged rocky reefs in the Pico–Faial Channel, located 2 nautical miles north of the Madalena Islets and approximately 20 minutes by boat from Porto da Madalena. The shallowest peak sits at 20 metres; corridors and platforms extend from 30 to 50 metres, with a maximum depth of 55 metres. The site is reserved for experienced divers due to depth and moderate-to-strong currents.
+Baixa da Barca is one of three submerged rocky reefs in the Pico–Faial Channel, located 2 nautical miles north of the Madalena Islets and approximately 20 minutes by boat from Porto da Madalena. The shallowest peak sits at 20 metres; corridors and platforms extend from 30 to 50 metres, with a maximum depth of 55 metres — all figures confirmed verbatim on dive.visitazores.com's own listing. The site is reserved for experienced divers due to depth and moderate-to-strong currents; a second Azores diving directory (byacores.com) independently corroborates the "advanced/experienced divers" characterization for this shoal.
+
+**Sourcing note (2026-07-15 re-audit):** this site's previously-cited secondary sources (diveazores.net and diveworldwide.com) could not be substantiated as containing content specific to this site on re-audit — diveazores.net's site-listing page returned a 404, and diveworldwide.com's Pico content discusses devil rays generally without naming Baixa da Barca specifically. Only dive.visitazores.com and byacores.com could be confirmed as genuinely site-specific sources, which is below this database's 3-source validation bar. The facts below remain well-supported by dive.visitazores.com directly, but a third independent source is still needed.
 
 The defining feature is massive schools of blue jack mackerel (*Trachurus picturatus*) which aggregate over the reef and attract devil rays (*Mobula tarapacana*), ocean sunfish (*Mola mola*), and pelagic predators. The volcanic geology offers interesting swim-throughs and corridors alongside the main pelagic action.
 
@@ -45,4 +47,4 @@ Yellowmouth barracudas (*Sphyraena viridensis*), Almaco jacks (*Seriola rivolian
 - Combine with other Pico–Faial Channel dives (Baixa do Sul, Baixa do Norte) for a full day
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/baixa-da-barca), [DiveAzores](https://www.diveazores.net/dive-sites/), [Dive Worldwide – Pico](https://www.diveworldwide.com/locations/pico). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/baixa-da-barca), [ByAzores](https://byacores.com/en/diving-azores/). Only 2 independently-verifiable source domains found on re-audit; see sourcing note above. Last updated 2026-07-15.*

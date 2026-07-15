@@ -17,9 +17,9 @@ The only voluntary marine reserve in the Azores — the highest concentration of
 
 ## Overview
 
-Caneiro dos Meros ('Dusky Grouper Passageway') on Corvo Island is the only voluntary marine reserve in the Azores, established by agreement between local fishermen and divers more than a decade ago. Fishing is prohibited, and the result is the highest concentration of dusky groupers of any dive site in the archipelago — divers regularly encounter more than a dozen large, curious groupers simultaneously. Located about 150 metres from the coast, directly opposite the port of Vila do Corvo, and just 3 minutes by boat from the quay.
+Caneiro dos Meros ('Dusky Grouper Passageway') on Corvo Island is the only voluntary marine reserve in the Azores, established by agreement between local fishermen and divers (exact founding date not confirmed in this pass; sources describe it only as "more than a decade ago"). Fishing is prohibited, and dive.visitazores.com and Portugal Dive both describe it as having the highest concentration of dusky groupers of any dive site in the archipelago — divers regularly encounter more than a dozen large, curious groupers simultaneously. This "highest concentration" framing is an operator characterization repeated by two independent tourism sources rather than a scientific population survey, and is presented here with that caveat. The site sits about 150 metres from the coast, directly opposite the port of Vila do Corvo, and just 3 minutes by boat from the quay.
 
-The dive follows several large lava ravines ('caneiros') with sandy patches at 18–25 metres. The final ravine wall drops to a sandy seafloor at 40–45 metres, where dusky groupers and barred hogfish also congregate. The sheltered position provides weak currents despite the depth requirement.
+The dive follows several large lava ravines ('caneiros') with sandy patches at 18–25 metres, with the final ravine culminating in a wall that drops to a sandy seafloor at 40–45 metres, where dusky groupers and barred hogfish also congregate. All three primary sources (dive.visitazores.com, Portugal Dive, turismo.azores.gov.pt) describe this as a series of ravines/canyons ending in a wall drop, rather than a continuous wall dive throughout — divers expecting a classic wall from entry to exit should be aware the dive is predominantly canyon/ravine terrain with a wall finale. The sheltered position provides weak currents despite the depth requirement.
 
 ## Site Information
 
@@ -44,4 +44,4 @@ Exceptional concentration of dusky groupers (*Epinephelus marginatus*) — the d
 - Advanced Open Water required due to 45 m depth despite weak currents
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/caneiro-dos-meros), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/caneiro-dos-meros-94.html), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/caneiro-dos-meros/). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/caneiro-dos-meros), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/caneiro-dos-meros-94.html), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/caneiro-dos-meros/). Last updated 2026-07-15.*
