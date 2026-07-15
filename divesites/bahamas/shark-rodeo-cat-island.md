@@ -2,7 +2,7 @@
 name: Shark Rodeo Cat Island
 lat: 24.3833
 lng: -75.4333
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 12
 entryType: boat
 siteType: drift
