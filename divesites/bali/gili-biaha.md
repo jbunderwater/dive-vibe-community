@@ -24,7 +24,7 @@ Gili Biaha is a small crescent-shaped island off Padangbai in Amuk Bay, reached 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (sources range 35–40 m)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10–25 m
 - **Current**: Strong and unpredictable; downcurrents possible
 - **Best Time**: June to October

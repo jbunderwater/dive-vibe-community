@@ -34,7 +34,7 @@ Amed Wall is a shore-entry wall dive along the black-sand coastline of northeast
 
 ## Marine Life
 
-The wall hosts a diverse array of reef fish including large schools of fusiliers, angelfish, and surgeonfish. Leaf scorpionfish and various nudibranch species are found in the rubble at the base of the wall. Hawksbill turtles regularly patrol the wall face, and reef whitetip sharks rest in crevices at depth. Macro enthusiasts will find ghost pipefish and robust ghost pipefish among the sea fans. The black-sand substrate at depth is classic Amed muck habitat, where frogfish and flamboyant cuttlefish occasionally appear.
+The wall hosts a diverse array of reef fish including large schools of fusiliers, angelfish, and surgeonfish. Leaf scorpionfish and various nudibranch species are found in the rubble at the base of the wall. Turtles regularly patrol the wall face, and reef sharks are occasionally seen resting in crevices at depth (sources describe blacktip reef sharks for this stretch of wall; the earlier "whitetip" reference has been generalised since it wasn't specifically confirmed). Macro enthusiasts will find ghost pipefish among the sea fans. The black-sand substrate at depth is classic Amed muck habitat, where frogfish and cuttlefish occasionally appear.
 
 ## Dive Profile
 

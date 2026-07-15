@@ -5,7 +5,7 @@ lng: -77.4917
 difficulty: Intermediate
 maxDepth: 12
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import

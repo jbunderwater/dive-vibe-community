@@ -25,7 +25,7 @@ Post I Jetty (also called Pos I) sits in front of the West Bali National Park ra
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters (recreational reference; sources describe a shallow jetty zone of roughly 1–3 m at the pilings themselves, with the adjoining sandy slope reported anywhere from about 16 m to 30–40 m depending on the operator)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 m (one source reports up to 20 m+)
 - **Current**: Generally calm to gentle; one source notes it can be slight to moderate at times
 - **Best Time**: April to November

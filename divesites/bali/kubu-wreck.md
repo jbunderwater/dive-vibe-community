@@ -27,7 +27,7 @@ Sources also disagree on the wreck's length (reports range from approximately 40
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters (sources range 34-45m; wreck has settled deeper over time — confirm with local operator)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-25 meters
 - **Water Temperature**: 27-29°C
 - **Current**: Generally mild

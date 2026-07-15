@@ -3,7 +3,7 @@ name: Normans Key Cut
 lat: 24.5729238
 lng: -76.7908287
 difficulty: Advanced
-maxDepth: 15
+maxDepth: 12
 entryType: boat
 siteType: drift
 ref: null
@@ -26,7 +26,7 @@ Located in the northern Exuma Cays Land and Sea Park, this site is a tidal drift
 - **Location**: Northern Exuma Cays Land and Sea Park, near Highbourne Cay/Shroud Cay, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 12 meters
 - **Current**: Strong swirling tidal flow, especially in the ~2 hours before high tide
 - **Typical Visibility**: 20-30 meters
 - **Best Time**: November to May

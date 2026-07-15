@@ -26,8 +26,8 @@ Sources disagree on how deep the recreational portion of the wall runs: several 
 - **Location**: Menjangan Island, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Sources are split. Several dive-site directories (Divers Guide, Divezone) explicitly recommend Pos 2 for advanced or experienced divers because current "can sometimes be strong," while a resort source (Mimpi) and Dive Concepts describe conditions as generally calm and suitable for a range of levels. Given this conflict, and given that the comparable Menjangan wall site Blue Corner in this database is rated Intermediate, a straight "Beginner" rating for a 30-40 m+ wall with reported occasional strong current looks too permissive and is flagged for review rather than left unchanged.
-- **Maximum Depth**: Data field lists 30 m; multiple independent sources place the recreational wall closer to 40 m, with some describing the full wall face continuing to 60-70 m. Flagged as a discrepancy rather than resolved to one number.
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-40 m depending on source; PADI's general Menjangan-area figure is 15-30 m (up to 50 m+ in October-November)
 - **Current**: Conflicting reports — some sources describe calm/gentle current typical of Menjangan generally, others describe a genuine drift dive with current that "can sometimes be strong" and direction that varies with tide
 - **Best Time**: April to November (general Menjangan dive season)

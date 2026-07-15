@@ -21,10 +21,10 @@ The Tulamben Drop-off, also called the Tulamben Wall, is a vertical wall formed 
 ## Site Information
 
 - **Location**: Tulamben, east Bali — opposite end of Tulamben Bay from the USAT Liberty wreck, roughly a 10-15 minute walk away
-- **Entry Type**: Shore entry, pebble beach with a short surface swim to the wall
+- **Entry Type**: Shore entry
 - **Site Type**: Wall dive
-- **Difficulty Level**: Beginner-accessible in the shallows, with deeper, more demanding terrain available; sources broadly describe it as suitable for a range of levels given adjustable depth
-- **Maximum Depth**: Data field lists 30 m (a sensible recreational-limit cutoff); independent sources describe the wall face itself continuing to 60-70 m or more, so treat 30 m as the practical recreational depth rather than the full extent of the wall
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-20 m is most commonly cited, best in the morning before plankton builds up; some sources give a wider 15-30 m range
 - **Current**: Multiple sources agree current is rare here, even mild current, likely due to the site's position at the sheltered end of the bay
 - **Best Time**: Year-round; mornings favored for visibility

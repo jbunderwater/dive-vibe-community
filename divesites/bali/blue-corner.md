@@ -24,10 +24,10 @@ What general sources do agree on for diving around Menjangan (including a first-
 ## Site Information
 
 - **Location**: Menjangan Island, West Bali National Park, northwest Bali (exact identity of this named point unconfirmed)
-- **Entry Type**: Boat dive (consistent with all Menjangan sites, which are boat-access only)
-- **Site Type**: Wall dive (per OSM tagging; unconfirmed by independent site-specific source)
-- **Difficulty Level**: Intermediate (unverified for this specific point; general Menjangan diving is rated Open Water/gentle per PADI)
-- **Maximum Depth**: 30 meters (unverified for this specific point)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: Not confirmed for this specific point; general Menjangan visibility runs 15-30 m+ per PADI
 - **Current**: General Menjangan-area sources describe current as gentle to negligible, not the moderate-to-strong condition previously listed here
 - **Best Time**: April to November (general Menjangan dive season per regional sources)

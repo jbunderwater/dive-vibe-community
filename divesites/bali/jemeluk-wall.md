@@ -43,7 +43,7 @@ Enter from shore at the eastern end of Jemeluk Beach and swim out to the point w
 
 ## Entry and Exit
 
-Shore entry from Jemeluk Beach. The entry is straightforward -- walk into the water from the beach, put on fins, and swim out to the point where the wall begins. The site is approximately 10 minutes from Hotel Uyah. Exit at the same beach.
+Shore entry from Jemeluk Beach. The entry is straightforward -- walk into the water from the beach, put on fins, and swim out to the point where the wall begins. The site is approximately 10 minutes from Hotel Uyah. Exit at the same beach. Note: some dive logs describe reaching this wall by a short boat ride instead of the long surface swim from shore -- both approaches are used by local operators, so confirm which your operator plans before the dive.
 
 ## Tips and Recommendations
 

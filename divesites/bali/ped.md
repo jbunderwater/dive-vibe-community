@@ -25,7 +25,7 @@ Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (reef continues well beyond recreational limits; most diving happens 15–25 m)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 18–30 m
 - **Current**: Moderate; consistent drift current along the slope, with occasional pull-out currents and downdrafts
 - **Best Time**: April to October; mola mola season extends July to mid-November

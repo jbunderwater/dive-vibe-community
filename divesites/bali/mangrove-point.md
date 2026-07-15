@@ -27,7 +27,7 @@ Because fewer than three independent, site-specific sources could be confirmed f
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters listed in our data; this has not been independently confirmed for this specific site. General Menjangan wall/slope dives are commonly reported in the 15–30 m+ range, but that has not been verified for Mangrove Point specifically.
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Not confirmed for this specific site in current sources
 - **Current**: Not confirmed for this specific site in current sources
 - **Best Time**: April to November (general Menjangan seasonal pattern; not confirmed specifically for this site)

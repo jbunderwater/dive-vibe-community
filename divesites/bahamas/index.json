@@ -103,7 +103,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 12,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -139,7 +139,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 12,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": null
   },
@@ -233,7 +233,7 @@
     "lat": 24.5729238,
     "lng": -76.7908287,
     "difficulty": "Advanced",
-    "maxDepth": 15,
+    "maxDepth": 12,
     "entryType": "boat",
     "siteType": "drift",
     "ref": "",

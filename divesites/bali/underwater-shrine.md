@@ -25,7 +25,7 @@ The Underwater Shrine is part of an underwater sculpture garden placed in Jemelu
 - **Entry Type**: Shore or boat entry
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 29 meters (the shrine structure itself sits much shallower, around 3–6 m; sources report bay-wide depths from 3 m to 40 m on the outer wall)
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Variable; generally mild inside the bay
 - **Best Time**: April to November

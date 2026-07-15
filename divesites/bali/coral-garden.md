@@ -25,7 +25,7 @@ Coral Garden sits on the north side of Menjangan Island within West Bali Nationa
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters (recreational reference; sources report the shallow reef beginning at 3–12 m and slopes/drop-offs extending to roughly 28–40 m depending on the operator)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Reports vary by source — generally described as gentle to mild, though one operator notes currents can be strong enough to dictate the best entry point. Confirm conditions with your boat crew before the dive.
 - **Best Time**: April to November
