@@ -17,7 +17,9 @@ A dramatic volcanic wall dive in Bali's quietest diving village.
 
 ## Overview
 
-Amed Wall is a shore-entry wall dive along the black-sand coastline of northeast Bali, dropping from a shallow reef top down to around 25 meters. The wall is covered in hard and soft corals, sea fans, and sponges, supported by the nutrient-rich upwellings characteristic of this stretch of coast. Visibility is generally good, reaching 15–25 meters, and currents are typically mild. The Amed area sits between the Tulamben USAT Liberty wreck site and the Gili Islands, making it a convenient stop on any Bali diving itinerary. Water temperatures range from 25–29°C year-round, occasionally dipping to 22°C during cold thermoclines in the dry season.
+Amed Wall is a shore-entry wall dive along the black-sand coastline of northeast Bali, dropping from a shallow reef top down to around 25 meters. The wall is covered in hard and soft corals, sea fans, and sponges, supported by the nutrient-rich upwellings characteristic of this stretch of coast. Visibility is generally good, reaching 15–25 meters, and currents are typically mild. Water temperatures range from 25–29°C year-round, occasionally dipping to 22°C during cold thermoclines in the dry season.
+
+**Data quality note**: This entry's coordinates (-8.337564, 115.6617295) are within roughly 50 metres of this project's separate "Jemeluk Wall" entry (-8.3373, 115.6621), and multiple sources describe "Amed Wall"/"The Wall" as the same feature as "Jemeluk Wall" — the wall section on the eastern/right side of Jemeluk Bay. This looks like a likely near-duplicate entry rather than two distinct sites; flagging for review rather than merging or deleting either record, since that is outside the scope of this validation pass.
 
 ## Site Information
 
@@ -59,4 +61,4 @@ Currents are usually light but can pick up unexpectedly — monitor direction an
 The wall face provides excellent ambient-light wide-angle shots, especially with sea fans as foreground subjects. The muck habitat at the base of the wall is productive for macro work — look for nudibranchs, pipefish, and frogfish. Shoot upward along the wall to capture divers silhouetted against the blue water column.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Original Diving - The Wall, Amed](https://www.originaldiving.com/far-east/indonesia/bali/the-wall-amed). Re-checked 2026-07-15; likely near-duplicate of "Jemeluk Wall" — see data quality note above. Last updated 2026-07-15.*

@@ -33,7 +33,7 @@ Liberty Muck is the black sand area adjacent to the USAT Liberty wreck at Tulamb
 
 ## Marine Life
 
-The black sand at Liberty Muck supports remarkable critter diversity. Mimic octopus are found here -- masters of disguise that can imitate flatfish, lionfish, and sea snakes. Ornate ghost pipefish drift among debris and sea grass. Orangutan crabs cling to bubble corals, their hairy bodies providing effective camouflage. Garden eels form colonies in the sand, swaying in the current while feeding on plankton. The site hosts a wide variety of nudibranchs across the sand ridges and coral patches.
+The black sand at Liberty Muck supports remarkable critter diversity. Mimic octopus are found here -- masters of disguise that can imitate flatfish, lionfish, and sea snakes. Ornate ghost pipefish drift among debris and sea grass. Garden eels form colonies in the shallower zones (roughly 6-8 m), swaying while feeding on plankton. Multiple crab species and shrimp are reported on and around the sand ridges, along with a wide variety of nudibranchs. Note: an earlier version of this page specifically named orangutan crabs on bubble coral here -- that species-and-substrate combination is not confirmed by the source consulted (which reports "multiple crab species" without naming orangutan crabs specifically), so it has been generalised rather than repeated as fact.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The entry over the rocky beach requires care, especially when carrying camera eq
 Liberty Muck is outstanding for macro photography. The black volcanic sand creates clean, dark backgrounds that highlight small, colourful subjects. Mimic octopus, ghost pipefish, and nudibranchs are the primary photographic targets. A macro lens (60mm or 100mm) and a focus light are essential. The garden eel colonies also make excellent subjects if approached slowly and patiently.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=880), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/). Last updated 2026-05-17.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=880), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/). Re-checked 2026-07-15: content re-confirmed (black sand ridges, 24-28m, mimic octopus, ornate ghost pipefish, garden eels, crab species, nudibranchs — all verified against McFadyen source). Searched for a third independent source (letsdivetulamben.com, worldadventuredivers.com) but found no other listing naming this exact site — nearby named muck sites are Melasti and Alamanda, not confirmed as identical to this entry. Still only two independent sources — site remains unvalidated pending a third. Last updated 2026-07-15.*

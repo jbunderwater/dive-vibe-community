@@ -17,7 +17,7 @@ Highborn Key Wall is a deep wall dive directly off Highbourne Cay in the norther
 
 ## Overview
 
-The wall sits right off the Highbourne Cay coastline, facing the Exuma Sound. The drop-off begins at around 12 meters (40 feet) and descends to near 30 meters (98 feet) within recreational diving range, continuing well beyond into the Sound. This exposure to the open Atlantic-influenced Sound, combined with healthy coral on the wall face, makes it one of the more dramatic wall dives in the northern Exumas. The site is accessible by boat from Highbourne Cay's marina or via liveaboard.
+The wall sits right off the Highbourne Cay coastline, facing the Exuma Sound. The drop-off begins at around 12 meters (40 feet) and descends to near 30 meters (98 feet) within recreational diving range, continuing well beyond into the Sound — a dive-site database entry for this exact site independently confirms both the 30 m depth and Advanced difficulty rating. This exposure to the open Atlantic-influenced Sound, combined with healthy coral on the wall face, makes it one of the more dramatic wall dives in the northern Exumas. Note that regional guides also describe a couple of other named walls in the immediate Highbourne Cay area (e.g. "Great Exuma Wall" around 23 m, "Shroud Wall" around 27 m) — if you're booking with an operator, confirm which specific wall they mean, as names and depths vary slightly between sources in this stretch of the Exumas. The site is accessible by boat from Highbourne Cay's marina or via liveaboard.
 
 ## Site Information
 
@@ -52,4 +52,4 @@ Boat dive only. Access via Highbourne Cay marina or liveaboard. The site is dire
 The depth and open-water exposure make this an Advanced-level dive. Monitor your depth carefully on the wall — gradual deepening is easy to miss. Currents can be unpredictable when exposed to the Exuma Sound. Always complete a 3-minute safety stop at 5 meters and carry an SMB.
 
 ---
-*Sources: [Zentacle - Highborn Key Wall](https://www.zentacle.com/Beach/8446/highborn-key-wall), [Yachts Bahama Charters - Wall Diving in the Exumas](https://www.yachtsbahamacharters.com/blog/the-thrill-of-wall-diving-top-5-scuba-dive-sites-in-the-exumas/), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-05-17.*
+*Sources: [Zentacle - Highborn Key Wall](https://www.zentacle.com/Beach/8446/highborn-key-wall), [Yachts Bahama Charters - Wall Diving in the Exumas](https://www.yachtsbahamacharters.com/blog/the-thrill-of-wall-diving-top-5-scuba-dive-sites-in-the-exumas/), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-07-15.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## USAT Liberty Wreck
 
-One of the world's most accessible wreck dives — a WWII-era US Army cargo ship torpedoed on 11 January 1942, now lying parallel to shore just 25 metres offshore at Tulamben, accessible without a boat.
+One of the world's most accessible wreck dives — a WWII-era US Army cargo ship torpedoed on 11 January 1942, now lying parallel to shore a short distance offshore at Tulamben (sources give anywhere from roughly 10 to 40 metres), accessible without a boat.
 
 ## Overview
 

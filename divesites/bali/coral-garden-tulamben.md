@@ -59,7 +59,7 @@ This is a shore dive. Enter from the black volcanic pebble beach at Tulamben vil
 
 ## Safety Considerations
 
-Coral Garden is a straightforward reef dive without significant hazards. The shore entry over pebbles requires care to avoid slipping, especially when wearing full equipment. Current is generally mild but can pick up on occasion -- if current is present, stay close to the reef and do not venture into open water beyond the slope. The maximum depth of 25 meters is within recreational limits but plan gas management for the return swim to shore. Be aware of boat traffic near the surface, particularly jukung outrigger boats transporting divers to other sites -- ascend close to the reef rather than in open water.
+Coral Garden is a straightforward reef dive without significant hazards in its shallower sections. The shore entry over pebbles requires care to avoid slipping, especially when wearing full equipment. Current is generally mild but can pick up on occasion -- if current is present, stay close to the reef and do not venture into open water beyond the slope. As noted in the Overview, some parts of the broader "Coral Garden" area reportedly slope well past 30 metres, so confirm your planned maximum depth with your guide before the dive and plan gas management accordingly, particularly for the return swim to shore. Be aware of boat traffic near the surface, particularly jukung outrigger boats transporting divers to other sites -- ascend close to the reef rather than in open water.
 
 ## Photography
 

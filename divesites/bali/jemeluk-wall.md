@@ -19,6 +19,8 @@ A wall dive at the eastern end of Jemeluk Beach near Amed, where a slope steepen
 
 Jemeluk Wall is located at the eastern end of Jemeluk Beach in the Amed area of northeast Bali, running north from a point. The site begins as a slope that gradually steepens into a genuine wall dropping 40 meters or more. The wall and upper slope are covered with small gorgonias, barrel sponges, large pink gorgonia fans, various sponges, and hard coral formations. The site is conveniently located approximately 10 minutes from Hotel Uyah, making it one of the most accessible wall dives in the Amed area.
 
+**Data quality note**: This entry's coordinates (-8.3373, 115.6621) are within roughly 50 metres of this project's separate "Amed Wall" entry (-8.337564, 115.6617295), and multiple sources use "Amed Wall"/"The Wall" and "Jemeluk Wall" interchangeably for the wall feature on the eastern side of Jemeluk Bay. This looks like a likely near-duplicate entry; flagging for review rather than merging or deleting either record.
+
 ## Site Information
 
 - **Location**: Jemeluk Beach, Amed, East Bali, Indonesia
@@ -59,4 +61,4 @@ The wall drops well beyond 40 meters, so uncontrolled descents are a real risk. 
 Jemeluk Wall offers both wide-angle and macro opportunities. The large pink gorgonia fans and barrel sponges along the wall make excellent wide-angle subjects, particularly when backlit or shot with divers for scale. Macro subjects include nudibranchs, ribbon eels, and the invertebrates living on the sponges and corals. The wall structure itself provides dramatic depth perspectives for wide-angle compositions.
 
 ---
-*Sources: [PADI - Jemeluk Wall](https://www.padi.com/dive-site/indonesia/jemeluk-wall/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1091). Last updated 2026-05-17.*
+*Sources: [PADI - Jemeluk Wall](https://www.padi.com/dive-site/indonesia/jemeluk-wall/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1091). Re-checked 2026-07-15; likely near-duplicate of "Amed Wall" — see data quality note above. Last updated 2026-07-15.*

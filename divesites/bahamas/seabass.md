@@ -17,7 +17,7 @@ Seabass is a reef dive site off Great Exuma Island, documented among a cluster o
 
 ## Overview
 
-Seabass sits in the Great Exuma area alongside Connected Dott and Amberjack Reef, and appears in regional dive condition databases as part of the local site inventory. The name likely reflects the fish species historically abundant at this location. Detailed published descriptions are limited; the information below draws on the broader Great Exuma diving context and conditions data.
+Seabass sits in the Great Exuma area alongside Connected Dott and Amberjack Reef, and appears in regional dive condition databases as part of the local site inventory. This audit re-confirmed ScubaWeather.com's Great Exuma page for "Seabass" is a live, real entry cross-linked with those two sibling sites. Despite additional targeted searches (Dive Exuma and other Great Exuma dive shop websites, ScubaBoard, Wannadive, Divingaway, thescubadirectory.com), no second independent source could be found that names this specific site — it remains sourced to ScubaWeather.com alone. The name likely reflects the fish species historically abundant at this location, though no source confirms this etymology; treat it as speculation. Detailed published descriptions remain limited; the information below draws on the broader Great Exuma diving context and conditions data rather than site-specific reporting.
 
 ## Site Information
 
@@ -31,7 +31,7 @@ Seabass sits in the Great Exuma area alongside Connected Dott and Amberjack Reef
 
 ## Marine Life
 
-Great Exuma reefs support healthy populations of Caribbean reef fish. Groupers, snapper, barracuda, parrotfish, and angelfish are common across the region's reefs. Nurse sharks and southern stingrays are regularly encountered, and sea turtles are a frequent sight. The site name suggests historically notable grouper or bass populations.
+This site shares the Bahamas' regional reef fauna, but no site-specific marine life reports were found in current sources. The prior text's specific species list (groupers, snapper, barracuda, parrotfish, angelfish, nurse sharks, stingrays, turtles) was regional filler rather than site-specific reporting and has been removed.
 
 ## Dive Profile
 
@@ -51,4 +51,4 @@ Access is by boat. Dive Exuma in George Town is the primary local operator offer
 Check conditions with your operator before entry. Carry an SMB for open-water ascents.
 
 ---
-*Sources: [ScubaWeather - Great Exuma Island sites](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). Only one source found; validation status set to false pending additional independent sources. Description based on regional diving characteristics. Last updated 2026-05-17.*
+*Sources: [ScubaWeather - Great Exuma Island (Connected Dott page, cross-linking to the Seabass entry)](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). Note: the direct `.../Seabass/Point_DiveSiteMap.html` URL returned a 404 when re-checked on 2026-07-15, though it appears as a live navigation link from the Connected Dott page — treat the Seabass-specific page as currently unreachable/unstable rather than confirmed dead. Re-audited 2026-07-15: this remains the only independent source found for this exact site name despite targeted searches. Validation status remains false pending additional independent sources. Description based on regional diving characteristics; marine life claims removed as non-site-specific. Last updated 2026-07-15.*

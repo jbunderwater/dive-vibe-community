@@ -33,7 +33,7 @@ Lipah Bay is located approximately 12 minutes from Amed on Bali's northeast coas
 
 ## Marine Life
 
-Lipah Bay is confirmed as a reef shark nursery area — baby and juvenile reef sharks shelter under large table corals, alongside adult reef sharks. Hawksbill and green sea turtles are regular sightings. Large moray eels inhabit the bommies and artificial reef structures. General reef fish are abundant across the varied habitats. The site is also suitable for macro photography among the invertebrates of the artificial structures and coral patches.
+Lipah Bay is confirmed as a shark nursing ground — PADI specifically describes "baby whitetips sleeping" under table corals, and the site is noted for active coral restoration/nursery work. Sea turtles are regular sightings, though sources do not consistently identify the species — earlier text specifying "hawksbill and green" turtles has been generalised since no source confirmed those species specifically at this site. Large moray eels inhabit the bommies and artificial reef structures. General reef fish are abundant across the varied habitats, and the coral-restoration structures support macro subjects including shrimp and crabs.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Lipah Bay is a straightforward dive with generally mild conditions. Currents are
 The turtles at Lipah Bay are the primary photographic attraction and are often cooperative subjects. The large moray eels in the bommies reward patient photographers. The artificial reef structures with their coral growth provide interesting compositions showing reef colonization. Wide-angle is recommended for turtles and reef-scape; macro for the invertebrates on the artificial structures.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096), [PADI - Lipah Bay](https://www.padi.com/dive-site/indonesia/lipah-bay/), [Dive Concepts - Lipah Bay](https://diveconcepts.com/bali/spot-lipah-bay.php). Re-checked 2026-07-15: the reef shark nursery claim (juvenile whitetip reef sharks resting under table corals) is independently corroborated by PADI, Dive Concepts, and Calypso Diving Bali — strengthened from a single-source claim to a well-corroborated one. Last updated 2026-07-15.*

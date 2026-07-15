@@ -33,7 +33,7 @@ Stuart Cove Wall is the name applied to the section of Nassau's southwest wall r
 
 ## Marine Life
 
-Caribbean reef sharks are a consistent feature at Stuart Cove Wall — the area is part of the Nassau reef system where sharks have been associated with dive operations for decades. Schools of large barracuda hover at the wall edge. Spotted eagle rays sweep past the wall face. Hawksbill turtles feed on sea fans at mid-wall depths. The reef community on the upper wall is diverse — French and queen angelfish, large parrotfish, blue tang, and Nassau groupers (reduced in number but still present). Nurse sharks rest on the sandy base.
+Stuart Cove's own materials confirm Caribbean reef sharks as a consistent, reliable feature of the wall dive specifically — the operator runs a no-bait "free swim" with the sharks on the wall as the first dive of its two-tank Shark Adventure. Beyond the reef sharks, this audit found no source confirming the specific additional species previously listed (barracuda, spotted eagle rays, hawksbill turtles, French/queen angelfish, parrotfish, blue tang, Nassau grouper, nurse sharks) at this particular site; they have been removed as unverified rather than repeated as regional filler.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Stuart Cove Wall in the Bahamas' characteristic blue water is a premium wide-ang
 - The site is typically the first dive of a Nassau morning two-tank trip
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Wreck Diving Bahamas](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Wreck Diving Bahamas](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Re-audited 2026-07-15: wall start depth (Stuart Cove's states 40-60ft/12-18m) is broadly consistent with the 10-25m range given here; reef sharks on the wall dive itself re-confirmed directly from the operator. Marine life trimmed to only what is site-specifically sourced. Last updated 2026-07-15.*

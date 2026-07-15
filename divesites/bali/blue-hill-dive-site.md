@@ -13,48 +13,51 @@ addedBy: osm_import
 
 ## Blue Hill Dive Site
 
-Twin reef sites at the end of the Tulamben Wall, reached by a short boat ride from Blue Hill Dive Resort — a 20-30 metre sandy-bottomed reef known for pygmy seahorses, less frequently dived than the shore-entry sites closer to town.
+A shallow shore-entry reef between the USAT Liberty Wreck and Tulamben Wall, best known for the statues and stone carvings scattered across the coral, in the resort area operated by Blue Hill Dive Resort.
 
 ## Overview
 
-Blue Hill's house dive sites are two reef areas situated at the end of Tulamben Wall, reached by roughly a 10-minute boat ride from the resort (located on the coast between Tulamben and Tukad Dabu). Coral formations have grown up at approximately 20-30 metres on a sandy bottom. Because these reefs are visited far less often than the popular shore-entry sites (Liberty Wreck, Coral Garden, Drop-off), the operator reports they have become a refuge for shyer, less common creatures, including pygmy seahorses. This corrects the earlier version of this page, which described Blue Hill as a shallow (15 m) shore-entry site — that was not supported by any source; the only site-specific source found (the resort's own dive page) describes a boat-accessed 20-30 m reef instead.
+Blue Hill Dive Site sits in the Tulamben dive corridor between the USAT Liberty Wreck and Tulamben Wall, on the stretch of coast where Blue Hill Dive Resort is based (roughly midway between the villages of Tulamben and Tukad Dabu). Blue Hill Dive Resort's own site lists five named dive locations reachable from its base — Liberty Wreck, Coral Garden (Melasti), Tulamben Wall, and the boat-accessed Twin Reefs (Drop Off and Batu Kelebit) — but does not use "Blue Hill" as the name of any single site; it is the resort's name. Based on this entry's recorded depth (15 m) and shore entry, it most closely matches the resort's nearby shallow reef, described in sources as running from 2 to 15 metres, close to shore, and scattered with statues and stone carvings that have become encrusted with coral growth. Blue ribbon eels are the standout resident species reported here. Conditions are mild, with little to no current, making it a popular choice for beginner and certification divers as well as macro photographers.
+
+Note: because dive shop material does not use "Blue Hill" as a specific site name, this identification (that "Blue Hill Dive Site" = the resort's shallow statue reef, rather than its deeper boat-accessed Twin Reefs at 20–30 m) is an inference based on matching depth/entry-type, not a directly confirmed name match. Flagged for further review.
 
 ## Site Information
 
-- **Location**: Tulamben area, northeast Bali (end of Tulamben Wall)
-- **Entry Type**: Boat dive
+- **Location**: Tulamben area, northeast Bali, between USAT Liberty Wreck and Tulamben Wall
+- **Entry Type**: Shore entry
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15–22 m
-- **Current**: Not specified by source; assume moderate given depth and boat access
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: Not independently confirmed
+- **Current**: Mild to absent
 - **Best Time**: April to November
 
 ## Marine Life
 
-The only site-specific claim found is that these reefs, being less frequently dived than Tulamben's shore sites, have become a refuge for pygmy seahorses. No other species are confirmed for this specific site in available sources; broader reef fish typical of the Tulamben coral formations may be present but are not independently verified here.
+Blue ribbon eels are specifically reported at this reef. Broader Tulamben-corridor macro life — frogfish, ghost pipefish, anemonefish, shrimp, nudibranchs, cuttlefish, octopus, and reports of black-tip reef sharks and humphead parrotfish passing through — is mentioned in connection with Blue Hill's shore dive sites generally, but is not confirmed site-by-site. No other species should be treated as confirmed specifically for this exact spot.
 
 ## Dive Profile
 
-Boat transfer (~10 minutes) from Blue Hill Dive Resort to the twin reef sites at the end of Tulamben Wall. Coral growth is concentrated around 20–30 metres on a sandy bottom. Beyond the pygmy seahorse habitat, no further site-specific dive profile detail was found — plan the dive with your operator based on current conditions and diver experience.
+Shore entry directly onto the reef, which slopes from roughly 2 metres near the surface down to about 15 metres. The site is compact, running parallel to the shore alongside a deeper sandy slope. Statues and stone carvings placed on the reef have become coral-encrusted over time and are a focal point of the dive; blue ribbon eels are commonly found among the structures and rubble.
 
 ## Entry and Exit
 
-Boat dive, departing from Blue Hill Dive Resort. No further site-specific entry/exit detail was found.
+Shore entry from the beach in front of the Blue Hill Dive Resort area. Conditions are generally calm with little to no current, making entry and exit straightforward. No further site-specific detail was found beyond this.
 
 ## Tips and Recommendations
 
-- Ask the resort's dive team about current pygmy seahorse locations before the dive
-- Less-dived than Tulamben's popular shore sites, so a good option for divers seeking fewer other groups underwater
-- Confirm depth and current conditions with Blue Hill's dive team, as detailed profile information beyond depth range was not available from independent sources
+- A good option for Discovery Scuba or Open Water certification dives thanks to the shallow depth and calm conditions
+- Look closely around the statues and stone carvings for blue ribbon eels and other macro life sheltering in the crevices
+- Photographers should bring both macro and wide-angle options — the statues make interesting wide subjects, while ribbon eels and smaller critters reward a macro lens
+- Confirm current conditions and specific critter locations with Blue Hill's dive team before the dive, as detailed profile information beyond the general depth range was not available from independent sources
 
 ## Safety Considerations
 
-No site-specific hazards are documented in available sources. As a 20–30 m reef dive, plan gas management and no-decompression limits accordingly, and maintain buoyancy control around the coral formations.
+No site-specific hazards are documented in available sources. As a shallow reef dive, standard reef-diving practices apply: maintain buoyancy control around the statues and coral to avoid contact damage, and be mindful of any surge near the shallow entry point.
 
 ## Photography
 
-Pygmy seahorses are the standout macro subject reported for this site — bring a macro lens and a dive guide experienced at finding them. No other photography-specific detail was found in available sources.
+The coral-encrusted statues and stone carvings are the signature wide-angle subject at this site. Blue ribbon eels are the highlight macro subject; bring a dedicated macro lens and dive slowly along the rubble and crevice areas where they are typically found.
 
 ---
-*Sources: [Blue Hill Dive Resort - Dive Page](https://www.bluehilltulamben.com/dive). Note: only one independent source confirmed for this site despite additional searches — validation_source remains single-source until a second independent source is found. Last updated 2026-07-15.*
+*Sources: [Bluehill Dive Resort - Dive Page](https://www.bluehilltulamben.com/dive), [Bali.com - Blue Hill Dive Resort](https://bali.com/places/blue-hill-dive-resort/). Only two independent sources were found describing this reef despite an extensive search of Tulamben dive-shop listings (scubali.com, balidiveresortandspa.com, godivingtulamben.com, and others describe the same general area under different site names — Coral Garden, House Reef — without confirming "Blue Hill" as a distinct listed site name). Does not yet meet the 3-source validation bar; flagged for further research. Last updated 2026-07-15.*

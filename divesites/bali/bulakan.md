@@ -4,7 +4,7 @@ lat: -8.308309
 lng: 115.6214953
 difficulty: Intermediate
 maxDepth: 25
-entryType: boat
+entryType: shore
 siteType: muck
 ref: null
 osmId: 4747124685
@@ -21,8 +21,8 @@ Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sit
 
 ## Site Information
 
-- **Location**: Amed area, northeast Bali
-- **Entry Type**: Boat dive
+- **Location**: Amed area, northeast Bali (in front of Café Garam/Hotel Uyah, north of Jemeluk Bay)
+- **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
@@ -40,7 +40,7 @@ Descend to the sandy bottom at 8–25 m and move slowly across the substrate. Ap
 
 ## Entry and Exit
 
-Boat dive from Amed. Short transit, typically 5–10 minutes. Entry via back roll or giant stride. Currents are minimal. Communicate with the boat crew for pickup location after the drift dive if current is running.
+Shore entry, accessed on foot from the beach in front of Café Garam/Hotel Uyah, just north of Jemeluk Bay. Walk in over the black sand and descend directly onto the plateau. Currents are typically minimal; if current does pick up, expect the resident ghost pipefish to tuck into cover, so plan the dive around calmer conditions where possible.
 
 ## Tips and Recommendations
 
@@ -59,4 +59,4 @@ Camouflaged scorpionfish and stonefish on muck sites are a real hazard — never
 Flying gurnard and garden eels are the headline subjects. Wide-angle with close focus captures the gurnard's wing-like fins spread against the dark sand. Garden eels require a long lens or careful approach — shoot from a distance with a telephoto macro setup. Nudibranchs reward a 100mm macro lens with diopter.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Dive Concepts - Ghost Bay (Macro)](https://diveconcepts.com/bali/spot-ghost-bay-macro.php). Re-checked 2026-07-15: Ghost Bay alternate name and flying gurnard/ghost pipefish/garden eel/blue-spotted stingray claims re-confirmed by Dive Concepts, which also independently corrects entry type to shore (not boat) — matching DiveZone.net and The Very Hungry Mermaid's independent reporting that this is a walk-in shore dive from Café Garam/Hotel Uyah. Last updated 2026-07-15.*

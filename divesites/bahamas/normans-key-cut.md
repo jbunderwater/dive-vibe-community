@@ -13,29 +13,31 @@ addedBy: community_contribution
 
 ## Normans Key Cut
 
-Normans Key Cut (Norman's Cay Cut) is one of the most dramatic drift dives in the Exuma Cays, where tidal flow through a narrow channel between Norman's Cay and the next island propels divers through a colorful reef system at speed.
+Normans Key Cut is a high-energy tidal drift dive in the northern Exuma Cays, where strong swirling current sweeps divers over a boulder shoot into a churning basin — a sequence widely known among Bahamas dive operators as "The Washing Machine."
+
+**Naming note:** We could not find any source using the name "Norman's Cay Cut" for a dive site. Every description matching this location's coordinates and this exact "boulder shoot into a basin, spun like laundry" mechanic is consistently named "The Washing Machine" by dive operators and guides, and is generally placed near Shroud Cay / Highbourne Cay in the northern Exuma Cays Land and Sea Park (close to, though not always identified as, Norman's Cay itself). This is very likely the same site as "The Washing Machine" under a different name in our data — flagging for review rather than renaming, since that's outside this audit's scope.
 
 ## Overview
 
-Located at the northern end of the Exuma Cays just south of Highbourne Cay, Norman's Cay Cut is a tidal channel dive that begins in around 15 feet (5m) of water and sweeps divers down to 50 feet (15m) as the current accelerates through the cut. When the tide is running correctly, the current drops divers through a boulder shoot into a basin, then lifts them back up — a sequence some describe as a natural "washing machine." The reef flanking the channel is healthy and colourful, with visibility typically excellent in these protected waters. Timing is everything: the dive has a narrow window and requires knowledge of local tidal patterns.
+Located in the northern Exuma Cays Land and Sea Park, this site is a tidal drift dive where strong swirling current sweeps divers from around 40 feet (12m) up to about 15 feet (4.5m) through a boulder shoot into a swirling basin, tumbling divers "head over heels" for a couple of minutes before releasing them over a calmer patch reef. Optimal conditions occur roughly two hours before high tide. The reef beyond the current is healthy and colourful. Timing is everything: the dive has a narrow window and requires knowledge of local tidal patterns.
 
 ## Site Information
 
-- **Location**: Norman's Cay area, northern Exuma Cays, Bahamas
+- **Location**: Northern Exuma Cays Land and Sea Park, near Highbourne Cay/Shroud Cay, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Maximum Depth**: 15 meters
-- **Current**: Strong tidal flow — can exceed 4-6 knots at peak; dive at correct tidal stage
+- **Current**: Strong swirling tidal flow, especially in the ~2 hours before high tide
 - **Typical Visibility**: 20-30 meters
 - **Best Time**: November to May
 
 ## Marine Life
 
-The current draws nutrients through the channel, attracting larger pelagic species. Caribbean reef sharks and eagle rays are commonly encountered in the cut. The reef walls host grouper, snapper, moray eels, sea fans, and sponges. Sea turtles are frequently seen in the Exuma Cays throughout the year.
+Nurse sharks and Caribbean reef sharks are both directly reported at this site by multiple independent sources, along with sea turtles and eagle rays. Groupers and snappers are present on the reef beyond the current, and divers commonly report parrotfish, butterflyfish, octopus, and nudibranchs on the calmer patch reef the current releases you into. We've removed the earlier claim of moray eels, which we could not confirm site-specifically.
 
 ## Dive Profile
 
-Enter the water at the up-current end of the channel when tidal flow is building. The current will carry you down through the boulder shoot to around 15m, then back up through the "washing machine" section. The entire drift typically takes 10-15 minutes. The boat positions at the exit end to pick up divers as they surface.
+Enter the water at the up-current end when tidal flow is building, ideally timed to roughly two hours before high tide. The current carries divers down through the boulder shoot to around 12m, then lifts them back up through the swirling "washing machine" basin before releasing them over a calmer patch reef. Divers can choose a slower "starfish" body position or a faster "ball" position to control the intensity of the ride. The entire turbulent phase lasts a couple of minutes; the full drift typically runs 10-15 minutes. The boat positions at the exit end to pick up divers as they surface.
 
 ## Entry and Exit
 
@@ -50,7 +52,7 @@ Drift dive by boat only. This site requires an experienced local boat captain wh
 
 ## Safety Considerations
 
-The currents at Norman's Cay Cut are among the strongest in the Exuma Cays. Incorrect tidal timing can result in dangerous, uncontrollable drift. If you miss the exit point, stay at the surface and signal the boat with your SMB. Divers should have solid buoyancy skills and drift diving experience before attempting this site.
+The currents at this site are among the strongest in the Exuma Cays. Incorrect tidal timing can result in dangerous, uncontrollable drift. If you miss the exit point, stay at the surface and signal the boat with your SMB. Divers should have solid buoyancy skills and drift diving experience before attempting this site.
 
 ---
-*Sources: [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Zentacle - Norman's Cay Cut](https://www.zentacle.com/). Last updated 2026-05-17.*
+*Sources: [Dive the World - The Washing Machine Drift Dive](https://www.dive-the-world.com/posts/bahamas/exumas/dive-exuma-washing-machine-thrilling-drift-dive.php), [All Star Liveaboards - The Washing Machine Dive Site](https://allstarliveaboards.com/the-washing-machine-dive-site/), [YachtCharterFleet - The Washing Machine](https://www.yachtcharterfleet.com/bahamas/see-and-do/beach/the-washing-machine.htm). Last updated 2026-07-15.*
