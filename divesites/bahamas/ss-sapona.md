@@ -61,4 +61,4 @@ The partially above-water wreck creates unique photography opportunities. Split-
 - Bimini dive operators: the Sapona is typically the first stop on any Bimini dive itinerary
 
 ---
-*Sources: [Wikipedia - SS Sapona](https://en.wikipedia.org/wiki/SS_Sapona), [Bahamas.com - Sapona Shipwreck](https://www.bahamas.com/natural-wonders/sapona-shipwreck), [DreamWrecks - SS Sapona Bimini](https://dreamwrecks.com/sapona-bimini-shipwreck), [The Vintage News - WWII Bombing Practice](https://www.thevintagenews.com/2016/04/24/chilling-wreck-ss-sapona-used-target-practice-us-forces-wwii/). Last updated 2026-05-17.*
+*Sources: [Wikipedia - SS Sapona](https://en.wikipedia.org/wiki/SS_Sapona), [Bahamas.com - Sapona Shipwreck](https://www.bahamas.com/natural-wonders/sapona-shipwreck), [DreamWrecks - SS Sapona Bimini](https://dreamwrecks.com/sapona-bimini-shipwreck), [The Vintage News - WWII Bombing Practice](https://www.thevintagenews.com/2016/04/24/chilling-wreck-ss-sapona-used-target-practice-us-forces-wwii/). Last updated 2026-07-16.*

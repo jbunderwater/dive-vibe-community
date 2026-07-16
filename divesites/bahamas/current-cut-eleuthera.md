@@ -61,4 +61,4 @@ Current Cut is exhilarating and challenging to photograph simultaneously — the
 - The dive is completely tide-dependent — book based on operator tidal calculations, not calendar dates
 
 ---
-*Sources: [Discover Eleuthera Bahamas - The Current Cut](https://www.discover-eleuthera-bahamas.com/the-current-cut/), [Eleuthera.me - Current Cut](https://eleuthera.me/currentcut.html), [Zentacle - Current Cut](https://www.zentacle.com/Beach/3565/current-cut), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*
+*Sources: [Discover Eleuthera Bahamas - The Current Cut](https://www.discover-eleuthera-bahamas.com/the-current-cut/), [Eleuthera.me - Current Cut](https://eleuthera.me/currentcut.html), [Zentacle - Current Cut](https://www.zentacle.com/Beach/3565/current-cut), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-07-16.*

@@ -51,4 +51,4 @@ Access is by boat. Dive Exuma in George Town is the primary local operator offer
 Check conditions with your operator before entry. Carry an SMB for open-water ascents.
 
 ---
-*Sources: [ScubaWeather - Great Exuma Island sites](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). Only one source found; validation status set to false pending additional independent sources. Description based on regional diving characteristics. Last updated 2026-05-17.*
+*Sources: [ScubaWeather - Great Exuma Island sites](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). Re-audited 2026-07-16: a further search found no dive shop, forum, or database page referencing a site named "Seabass" in the Great Exuma area beyond the ScubaWeather conditions listing. Only one source found; validation status remains false pending additional independent sources. Description based on regional diving characteristics. Last updated 2026-07-16.*

@@ -28,7 +28,7 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "yes",
       "year_of_construction": "1940-1945",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -60,7 +60,7 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "note": "Built 1919 by Liberty Shipbuilding Co for US Shipping Board WWI Emergency Fleet. NOT built for Henry Ford. Purchased 1924 by Carl G. Fisher, then Bruce Bethell. Wrecked in 1926 hurricane. Used for WWII bombing practice by US Army/Navy. Hemingway target practice claim is unverified. Length 281 ft 10 in; 3,500 DWT.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -79,7 +79,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "Located 32km (20 miles) off west end of Grand Bahama. Tiger sharks year-round, peak Oct-Jan. Great hammerheads Dec-Mar. Depth 6-12m.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -97,7 +97,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -116,7 +116,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "Also known as The Arena and The Runway (two separate Stuart Cove feeding sites). Primary species: Caribbean reef sharks (5-6ft). Depth ~12m (40ft).",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -135,7 +135,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "Filmed for Thunderball (1965) and Never Say Never Again (1983). Multiple underwater entrances. Best visited at low/slack tide.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -154,7 +154,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "World's THIRD deepest known ocean blue hole (not second) — after Taam Ja' Blue Hole (Mexico) and Dragon Hole (South China Sea). Surface diameter ~30m, widens to ~100m. William Trubridge world record 101m in Dec 2010. Hosts annual Vertical Blue competition.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -173,7 +173,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "This is the same as the Current Cut OSM entry. Both entries reference the same channel between North Eleuthera and Current Island.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -191,7 +191,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16",
+      "note": "Re-audited 2026-07-16: corrected confusing markdown sentence that implied the site was named after Nassau grouper; the site is named for its shark diving, unrelated to the grouper's common name."
     }
   },
   {
@@ -209,7 +210,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -227,8 +228,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "note": "130ft (39.6m) steel freighter built Netherlands 1966. Served as Bahamas mailboat from 1980. Sank in 1988 during tow at Clifton Pier. Stuart Cove's refloated and resank in current position. NOT a passenger ferry. NOT deliberately sunk as artificial reef initially — accidental sinking then repositioned.",
-      "last_qa_date": "2026-05-17"
+      "note": "130ft (39.6m) steel freighter built Netherlands 1966. Served as Bahamas mailboat from 1980. Sank in 1988 during tow at Clifton Pier. Stuart Cove's refloated and resank in current position. NOT a passenger ferry. NOT deliberately sunk as artificial reef initially — accidental sinking then repositioned. Re-audited 2026-07-16: 3 independent sources (DreamWrecks, Scuba Diver Life, YachtCharterFleet) confirm Netherlands-built 1966; one source (Wannadive) states Denmark 1907 — this appears to be an error, but is noted as an unresolved source conflict. Length 130ft/39.6m confirmed by 3 sources.",
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -247,7 +248,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "Oceanic whitetip sharks primary April-May (following tuna migration). Not year-round. Depth up to 12m (40ft). Caribbean reef sharks year-round.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -266,7 +267,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "Wall top at 15-24m, drops to 40m+ into abyss. Swim-throughs and tunnels on south wall in 21-30m. Conception Island is Bahamas National Trust national park.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -285,7 +286,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "note": "200ft Haitian cargo freighter. Sunk 2003 by Stuart Cove's as artificial reef. Bow at 12m, stern at 18m (40-60ft). Sits next to Bahama Mama wreck. 16th wreck on New Providence SW side. PREVIOUS depth of 50m was WRONG — corrected to 18m.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -297,14 +298,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "diveboard.com,dive-the-world.com,yachtsbahamacharters.com",
+    "validation_source": "dive-the-world.com,februarypoint.com,yachtsbahamacharters.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "diveboard.com, dive-the-world.com, yachtsbahamacharters.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16",
+      "note": "Re-audited 2026-07-16: marine life list corrected — prior text listed species (Caribbean reef sharks, spotted eagle rays, multiple named grouper species) that dive-the-world.com attributes to Amberjack Reef, not Jeep Reef. Corrected to source-confirmed species: lobsters, sea slugs, porcupinefish, squirrelfish, Nassau grouper, southern sennet, blueheaded wrasse, trumpetfish, needlefish, French grunts, blue tangs, occasional nurse sharks. Depth confirmed 10-15m (35-50ft) by dive-the-world.com."
     }
   },
   {
@@ -323,7 +325,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "uncommoncaribbean.com, zentacle.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -343,7 +345,7 @@
       "validated": "false",
       "validation_source": "scubaweather.com",
       "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -363,7 +365,7 @@
       "validated": "false",
       "validation_source": "scubaboard.com",
       "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -383,7 +385,7 @@
       "validated": "false",
       "validation_source": "scubaweather.com",
       "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -402,7 +404,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "divein.com, dive-the-world.com, zentacle.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -421,7 +423,8 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "zentacle.com, yachtsbahamacharters.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16",
+      "note": "Re-audited 2026-07-16: hammerhead shark mention softened to reflect regional Exuma Sound seasonal pattern (Nov-Feb) rather than a site-specific confirmed sighting record — no source confirms hammerheads specifically at this site."
     }
   },
   {
@@ -440,7 +443,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "zentacle.com, allstarliveaboards.com, capeeleuthera.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -459,7 +462,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "capeeleuthera.com, scubadiving.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -479,7 +482,7 @@
       "validated": "true",
       "validation_source": "oceanfoxbahamas.com, zentacle.com, projecteleuthera.org, tribune242.com",
       "note": "Site type changed from 'reef' to 'wreck' — primary draw is the multiple historic wrecks (Cienfuegos 1895, Carnarvon 1916, Train Wreck 1865, Vanaheim 1969). Depth 5-10m.",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -498,7 +501,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "zentacle.com, bahamas.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -517,7 +520,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "eleuthera.me, zentacle.com, dive-the-world.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   }
 ]

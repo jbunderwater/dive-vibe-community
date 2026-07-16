@@ -61,4 +61,4 @@ Stuart Cove Wall in the Bahamas' characteristic blue water is a premium wide-ang
 - The site is typically the first dive of a Nassau morning two-tank trip
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Wreck Diving Bahamas](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Wreck Diving Bahamas](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-07-16.*

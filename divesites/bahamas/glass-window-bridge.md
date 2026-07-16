@@ -52,4 +52,4 @@ Boat dive. Work with a local North Eleuthera dive operator who can assess condit
 **Important:** Glass Window Bridge is subject to sudden Atlantic "rage waves" — enormous waves driven by distant storms that surge over the narrow rock bridge. Check weather forecasts for Atlantic swell carefully before any visit, surface or underwater. Even modest Atlantic swells can be amplified in the narrow channel between the two bodies of water.
 
 ---
-*Sources: [Zentacle - Glass Window Bridge](https://www.zentacle.com/Beach/3566/glass-window-bridge), [Bahamas.com - Glass Window Bridge](https://www.bahamas.com/natural-wonders/glass-window-bridge), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*
+*Sources: [Zentacle - Glass Window Bridge](https://www.zentacle.com/Beach/3566/glass-window-bridge), [Bahamas.com - Glass Window Bridge](https://www.bahamas.com/natural-wonders/glass-window-bridge), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-07-16.*

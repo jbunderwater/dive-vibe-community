@@ -33,7 +33,7 @@ Shark Wall is one of the original Nassau shark dive sites, operated along the so
 
 ## Marine Life
 
-Caribbean reef sharks are the signature species — 8–20 individuals are typically present at the wall during encounters. Nurse sharks rest along the sandy ledges adjacent to the reef. The reef itself supports large schools of French grunt and yellowtail snapper, as well as French and grey angelfish, large parrotfish, and hawksbill turtles. Nassau groupers — the site's namesake fish — are less abundant now than historically due to overfishing but are still encountered. Southern stingrays occupy the sandy floor.
+Caribbean reef sharks are the signature species — 8–20 individuals are typically present at the wall during encounters. Nurse sharks rest along the sandy ledges adjacent to the reef. The reef itself supports large schools of French grunt and yellowtail snapper, as well as French and grey angelfish, large parrotfish, and hawksbill turtles. Nassau grouper — a species whose common name derives from the city of Nassau rather than from this particular site — are less abundant now than historically due to overfishing but are still encountered. Southern stingrays occupy the sandy floor.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Shark Wall is ideal for entry-level shark photography — multiple sharks, shall
 - Nassau day trips typically include Stuart Cove Wall and Shark Wall as a combined experience
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-07-16.*

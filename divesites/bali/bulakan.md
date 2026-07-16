@@ -17,7 +17,7 @@ Known as Ghost Bay — one of Amed's best muck dive sites, where garden eels, fl
 
 ## Overview
 
-Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sites in the Amed area, situated on the black volcanic sand coastline of northeast Bali. Unlike the classic Amed coral reef sites, Bulakan is characterised by an open sandy bay where the substrate is alive with small burrows, scattered rubble, and sparse coral patches. Garden eels extend from the sand in large colonies, retracting as divers approach. Flying gurnard — a striking fish that spreads its wing-like pectoral fins when disturbed — are a highlight. Blue-spotted stingrays, frogfish, mantis shrimp, and an exceptional diversity of nudibranchs make this a must-visit for underwater photographers.
+Bulakan (widely known among operators as Ghost Bay) is regarded as one of the finest muck dive sites in the Amed area, located in front of Cafe Garam (Uyah) just north of Jemeluk Bay on the black volcanic sand coastline of northeast Bali. Unlike the classic Amed coral reef sites, Ghost Bay is characterised by a wide sandy plateau (roughly 150m along the shore, 4-7m deep) that slopes down to around 20-25m, with small burrows, scattered rubble, patches of artificial reef, and sparse coral. Garden eels extend from the sand in large colonies, retracting as divers approach. Ornate ghost pipefish and flying gurnard — a striking fish that spreads its wing-like pectoral fins when disturbed — are the signature sightings here. Blue-spotted stingrays, frogfish, mantis shrimp, mimic octopus, and an exceptional diversity of nudibranchs round out the site's critter reputation.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Camouflaged scorpionfish and stonefish on muck sites are a real hazard — never
 Flying gurnard and garden eels are the headline subjects. Wide-angle with close focus captures the gurnard's wing-like fins spread against the dark sand. Garden eels require a long lens or careful approach — shoot from a distance with a telephoto macro setup. Nudibranchs reward a 100mm macro lens with diopter.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Dive Concepts - Ghost Bay (Macro)](https://diveconcepts.com/bali/spot-ghost-bay-macro.php). Last updated 2026-07-16.*

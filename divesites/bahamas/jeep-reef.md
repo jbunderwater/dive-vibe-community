@@ -31,11 +31,11 @@ The site takes its name from a coral-encrusted Jeep that lies on the reef, now s
 
 ## Marine Life
 
-The park's no-take protections have allowed fish populations to recover fully. Divers commonly encounter Caribbean reef sharks, nurse sharks, southern stingrays, spotted eagle rays, large black grouper, yellowfin grouper, and yellowmouth grouper. Barracuda patrol the upper reef, and lobsters are plentiful on the reef structure. The sandy bottom areas host garden eels.
+The Jeep itself is thickly encrusted in corals and sponges and is a favored home for lobsters, sea slugs, porcupinefish, squirrelfish, and Nassau grouper. Schools of southern sennet (a member of the barracuda family), blue-headed wrasse, trumpetfish, and needlefish move through the site, alongside French grunts and blue tangs. Occasional small nurse sharks rest under reef patches. The frequent current through this Exuma Bank/Exuma Sound channel feeds the reef and draws a large volume of fish.
 
 ## Dive Profile
 
-The reef sits at around 15 meters maximum depth. Begin the dive shallower and work deeper. The coral-encrusted Jeep is the focal point, surrounded by healthy hard and soft coral formations. Buoyancy control is important to protect the reef structure and avoid stirring up silt around the Jeep.
+The reef top starts at around 10 meters (35 feet) and slopes down to about 15 meters (50 feet) before dropping toward Exuma Sound. Begin the dive shallower and work deeper. The coral-encrusted Jeep is the focal point, surrounded by healthy hard and soft coral formations. Buoyancy control is important to protect the reef structure and avoid stirring up silt around the Jeep.
 
 ## Entry and Exit
 
@@ -52,4 +52,4 @@ All diving here is by boat. Most divers visit on organised day trips from Stanie
 Currents can build quickly in the Exuma Cays. Plan your dive profile around the tidal cycle and carry a surface marker buoy (SMB). Boat traffic in the cays can be significant during peak season.
 
 ---
-*Sources: [Diveboard - Jeep Reef](https://www.diveboard.com/explore/spots/bahamas/pimlico-cay-exumas-L4fMqzj/jeep-reef-S6nGw57), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Yachts Bahama Charters - Wall Diving in the Exumas](https://www.yachtsbahamacharters.com/blog/the-thrill-of-wall-diving-top-5-scuba-dive-sites-in-the-exumas/). Last updated 2026-05-17.*
+*Sources: [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [February Point - 6 Not-to-Miss Diving Destinations in the Exumas](https://februarypoint.com/6-not-to-miss-diving-destinations-in-the-exumas/), [Yachts Bahama Charters - Diving Excursions in the Exumas](https://www.yachtsbahamacharters.com/blog/a-guide-to-the-scuba-diving-excursions-in-the-exumas/). Re-audited 2026-07-16: marine life list corrected to site-specific species (the previous list of reef sharks, eagle rays, and named grouper species was sourced to Amberjack Reef, not Jeep Reef). Last updated 2026-07-16.*

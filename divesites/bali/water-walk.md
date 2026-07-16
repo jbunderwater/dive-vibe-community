@@ -13,50 +13,23 @@ addedBy: osm_import
 
 ## Water Walk
 
-A reef and channel dive near Sanur offering accessible tropical diving with cuttlefish, sea snakes, and colourful reef fish.
+An OSM entry near Sanur/Nusa Penida whose name most likely refers to "seawalker" helmet-diving, a non-scuba tourist activity — not a confirmed scuba dive site.
 
 ## Overview
 
-Water Walk is a reef dive site in south Bali near Sanur, positioned in the sheltered waters of the coast. The site offers a pleasant tropical reef experience with coral gardens on a gradual slope accessible by short boat transfer. Like other Sanur area sites, it is characterised by calm conditions and moderate visibility, making it well-suited for intermediate divers and as a convenient day dive option from the south Bali resort areas. The reef hosts a representative cross-section of Bali's coastal marine life, including species characteristic of the Sanur bay system.
+Research for this entry found no dive shop, ScubaBoard thread, or dive database listing a scuba dive site named "Water Walk" at these coordinates. "Water Walk" (and "Sea Walker") is a well-known helmet-diving tourist activity offered around Sanur and Tanjung Benoa, which does not require scuba certification and is not the kind of site this database otherwise catalogues. It's likely this OSM node was tagged from that activity rather than from an actual scuba dive site. Because no site-specific scuba source could be found, this page does not describe a dive profile, marine life, or entry/exit conditions — doing so would mean inventing details that cannot be verified.
 
 ## Site Information
 
-- **Location**: South Bali, Sanur area
-- **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10–18 m
-- **Current**: Generally mild
-- **Best Time**: April to November
+- **Location**: South Bali, Sanur / Nusa Penida corridor (coordinates only; exact site identity unconfirmed)
+- **Entry Type**: Boat dive (assumed, unconfirmed)
+- **Site Type**: Reef (assumed, unconfirmed — OSM default, not source-verified)
+- **Difficulty Level**: Intermediate (placeholder pending verification)
+- **Maximum Depth**: 20 meters (placeholder pending verification)
 
 ## Marine Life
 
-Cuttlefish are frequently sighted and are typically approachable. Banded sea snakes cruise the reef in a non-aggressive manner. Batfish and moray eels are common. Nudibranchs and octopus inhabit the reef rubble. Reef fish typical of the region — triggerfish, parrotfish, surgeonfish, and butterflyfish — are abundant.
-
-## Dive Profile
-
-Descend from the jukung boat to the reef at 5–8 m. Follow the coral slope to 15–20 m, exploring coral heads and sandy patches. Cuttlefish are often found hovering near the reef edge. Ascend gradually and complete a 3-minute safety stop in the shallow zone before returning to the boat.
-
-## Entry and Exit
-
-Short jukung boat ride from Sanur beach. Entry via back roll or giant stride. Conditions are usually straightforward. SMB recommended for safe ascent signalling in the boat channel.
-
-## Tips and Recommendations
-
-- An ideal site for divers based in south Bali wanting a convenient dive day close to the hotels
-- Look for cuttlefish hovering motionlessly near the reef edge — they often stay for close observation
-- Sea snakes are harmless if not handled — a close-up encounter is a highlight of south Bali diving
-- Combine with a Nusa Penida trip the next day for a contrasting experience
-- Afternoon dives can include excellent cuttlefish sightings as they become more active
-
-## Safety Considerations
-
-Be aware of boat traffic in the Sanur channel — deploy SMB before surfacing. Sea snakes are venomous if provoked — observe without touching. Lionfish rest under overhangs throughout the reef. Maintain good buoyancy over the reef structure.
-
-## Photography
-
-Cuttlefish portrait shots are accessible here — their colour-changing skin makes for compelling close-up images. Sea snakes create interesting mid-water compositions. Wide-angle with a diver in the frame shows the classic Bali reef character.
+No site-specific marine life reports were found. The general Sanur / Nusa Penida area supports typical Indo-Pacific reef fish, sea snakes, and cuttlefish, but none of this can be attributed to this specific, unconfirmed location.
 
 ---
-*Description based on regional diving characteristics of the south Bali/Nusa Penida area. Note: "Water Walk" at Sanur is primarily known as a seawalker (helmet diving) activity rather than a conventional scuba dive site. Coordinates place this entry near Nusa Penida. No site-specific scuba diving sources found for a site named "Water Walk." Last updated 2026-05-17.*
+*No site-specific scuba diving source found for "Water Walk" as a named dive site; coordinates and name suggest this may correspond to a seawalker (helmet diving) tourist activity rather than a scuba site. This entry could not be validated during the 2026-07-16 QA pass and remains `validated: false`. Last updated 2026-07-16.*

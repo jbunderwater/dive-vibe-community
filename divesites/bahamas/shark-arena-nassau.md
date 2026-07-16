@@ -61,4 +61,4 @@ Shark Arena is one of the most photographically accessible shark dives in the wo
 - Typically offered as part of a two-tank trip combining Shark Arena with Stuart Cove Wall
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Adventure](https://stuartcove.com/shark-diving/shark-adventure/), [Stuart Cove's Dive Bahamas - Sharks](https://stuartcove.com/underwater-hollywood/sharks/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bahamas Tour Center - Stuart Cove Shark Adventure](https://www.bahamastourcenter.com/stuart-cove-shark-adventure-dive/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Adventure](https://stuartcove.com/shark-diving/shark-adventure/), [Stuart Cove's Dive Bahamas - Sharks](https://stuartcove.com/underwater-hollywood/sharks/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bahamas Tour Center - Stuart Cove Shark Adventure](https://www.bahamastourcenter.com/stuart-cove-shark-adventure-dive/). Last updated 2026-07-16.*
