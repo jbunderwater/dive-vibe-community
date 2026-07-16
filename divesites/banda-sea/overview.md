@@ -8,12 +8,12 @@ Indonesia's historic Spice Islands offering liveaboard-only access to hammerhead
 
 ## Description
 
-The Banda Sea surrounds the volcanic Banda Islands in the heart of Maluku Province, at the geographic center of the Coral Triangle. Dive sites range in depth with depths from 12 to 60 meters. This is a liveaboard-only destination, with itineraries typically running 7-10 nights departing from Ambon. The islands' isolation has preserved reefs of exceptional quality, and the deep oceanic waters bring pelagic encounters including schooling hammerhead sharks at sites like Jackpot and Batu Kapal.
+The Banda Sea surrounds the volcanic Banda Islands in the heart of Maluku Province, at the geographic center of the Coral Triangle. Dive sites range in depth with depths from 12 to 60 meters. This is a liveaboard-only destination, with itineraries typically running 7-10 nights departing from Ambon. The islands' isolation has preserved reefs of exceptional quality, and the deep oceanic waters bring pelagic encounters including schooling hammerhead sharks at sites like Jackpot and Karang Hatta.
 
 ### Diving Opportunities
 
 - **Wall Diving**: Sites including Batu Belanda, Goa Hatta, Batu Payung, Nailaka Wall, Pulau Karaka, and Tanjung Cengkeh, with coral-encrusted vertical walls dropping into deep blue water
-- **Pinnacle Diving**: Sites (Batu Kapal, Jackpot, Manuk Island) where deep-water seamounts attract hammerhead sharks, large groupers, and schooling pelagics
+- **Pinnacle Diving**: Sites (Batu Kapal, Jackpot) where deep-water pinnacles attract grey reef sharks, pelagic fish, and — at Jackpot specifically — scalloped hammerhead sharks
 - **Drift Diving**: Site (Pohon Miring) with nutrient-rich currents sweeping over volcanic reef formations
 - **Reef Diving**: Sites including the celebrated Lava Flow, where coral has spectacularly recolonized a volcanic lava field, and Karang Hatta with deep coral slopes
 - **Muck Diving**: Site (Mandarin City) accessible from shore, famous for mandarin fish mating displays at dusk
@@ -40,4 +40,4 @@ The Banda Sea surrounds the volcanic Banda Islands in the heart of Maluku Provin
 - **Safety**: This is an advanced diving destination. Strong currents at pinnacle and wall sites, deep profiles (many sites exceed 40m), and the extreme remoteness require experienced divers with current drift diving skills. The nearest medical facilities are hours away by boat. Liveaboard briefings typically emphasize current awareness, depth management, and emergency protocols. Minimum Advanced Open Water certification is recommended by most operators.
 
 ---
-*Sources: [Liveaboard Indonesia - Banda Sea](https://liveaboardindonesia.com/destinations/banda-sea/), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Solitude World - Banda Sea](https://solitude.world/where-is-the-banda-sea-explore-diving-liveaboard-options/). Last updated 2026-04-05.*
+*Sources: [Liveaboard Indonesia - Banda Sea](https://liveaboardindonesia.com/destinations/banda-sea/), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Solitude World - Banda Sea](https://solitude.world/where-is-the-banda-sea-explore-diving-liveaboard-options/). Last updated 2026-07-16 (corrected a mismatch with per-site data: Batu Kapal is not confirmed as a hammerhead site by any per-site source and was removed from that claim; Manuk Island, tagged as a wall dive in our per-site data, was removed from the "Pinnacle Diving" list).*

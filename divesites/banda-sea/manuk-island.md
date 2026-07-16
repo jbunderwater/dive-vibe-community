@@ -19,19 +19,19 @@ Manuk Island is a remote, uninhabited volcanic island roughly 100 miles (approxi
 
 Manuk's walls and sandy volcanic seabed host thriving populations of banded sea kraits (*Laticauda colubrina*) and olive sea snakes, drawn to the reef by the warm geothermal environment. Divers routinely encounter numerous sea snakes on a single dive, coiling through corals, hunting in crevices, and swimming openly through the water column. Though venomous, sea kraits are not aggressive toward divers, but should not be handled or cornered. Notably, trevally and sea snakes demonstrate a cooperative hunting behaviour at this site: the fish herd prey while the snakes corner them.
 
-Beyond the snakes, the reef walls are covered in cabbage corals, porites, and barrel sponges. Pelagic action includes chevron barracuda, jacks, rainbow runners, and large tuna. Hammerhead sharks have been reported at Manuk Ridge and Palm Point when upwelling currents are active.
+Beyond the snakes, the reef walls are covered in plate and staghorn hard coral formations, sea fans, and barrel sponges. Pelagic action includes chevron and yellow-tailed barracuda, jacks, rainbow runners, and large tuna. Hammerhead sharks have been reported at Manuk Ridge and Palm Point when upwelling currents are active.
 
 ## Dive Profile
 
-Walls drop steeply from the surface. Most diving occurs in the 10–35 m range along volcanic rock walls and over dark volcanic sand at the base. Water temperatures can reach 28–31°C near geothermal vent areas; surface seas can be rough due to the island's exposed location. Visibility is typically 20–30 m.
+Walls drop steeply from the surface. Most diving occurs in the 10–35 m range along volcanic rock walls and over dark volcanic sand at the base. Water temperature typically 27–30°C, with local elevation reported near active geothermal vents; surface seas can be rough due to the island's exposed location. Visibility is typically 20–30 m.
 
 ## Marine Life
 
 - Banded sea kraits and olive sea snakes (exceptionally dense population)
 - Scalloped hammerhead sharks (Manuk Ridge, Palm Point; current-dependent)
-- Chevron barracuda, jacks, rainbow runners
+- Chevron and yellow-tailed barracuda, jacks, rainbow runners
 - Large tuna
-- Barrel sponges, cabbage corals, porites
+- Plate and staghorn hard coral formations, sea fans, barrel sponges
 
 ## Entry / Exit
 
@@ -52,4 +52,4 @@ Currents can be moderate to strong. Advanced diving skills required. Sea snakes 
 Exceptional for wide-angle sea snake photography. The dark volcanic sand provides strong contrast for close-focus wide-angle shots. Bring both wide-angle and macro setups.
 
 ---
-*Sources: [Solitude World - Diving in Manuk Island](https://solitude.world/diving-in-manuk-island/), [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Bluewater Dive Travel - Banda Sea](https://www.bluewaterdivetravel.com/banda-sea-diving). Last updated 2026-05-17.*
+*Sources: [Solitude World - Diving in Manuk Island](https://solitude.world/diving-in-manuk-island/), [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Bluewater Dive Travel - Banda Sea](https://www.bluewaterdivetravel.com/banda-sea-diving). Last updated 2026-07-16 (re-audited: corrected water temperature range to the 27-30°C sources actually give, rather than an unconfirmed 28-31°C; softened "cabbage corals, porites" to the plate/staghorn coral terms sources use. The trevally/sea-snake cooperative hunting behavior was re-checked and remains directly sourced to Solitude World.)*
