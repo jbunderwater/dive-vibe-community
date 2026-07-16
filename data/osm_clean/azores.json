@@ -14,7 +14,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive.visitazores.com,cwazores.com,wikipedia.org,deeperblue.com",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -32,7 +32,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive.visitazores.com,portugaldive.com,turismo.azores.gov.pt",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -49,8 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive.visitazores.com,wikipedia.org,portugaldive.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "dive.visitazores.com,wikipedia.org,portugaldive.com,tos.org",
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -67,8 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive.visitazores.com,wikipedia.org,turismo.azores.gov.pt",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "dive.visitazores.com,wikipedia.org,azoressub.com",
+      "last_qa_date": "2026-07-16"
     }
   },
   {
