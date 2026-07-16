@@ -17,7 +17,7 @@ Mandarin City is a shallow muck dive site in Banda Neira, located in front of Ho
 
 ## Overview
 
-The site consists of shallow rubble, broken coral heads, and jetty rubble in front of the Banda Neira waterfront. Mandarinfish inhabit the small coral heads and rubble piles, emerging at dusk to perform their brief, spectacular mating display. Divers settle over the rubble in just a few metres of water as the vivid blue, green, and orange fish emerge in pairs.
+The site consists of shallow rubble, broken coral heads, and jetty rubble in front of the Banda Neira waterfront, with a rocky bottom and long-spined sea urchins scattered through the shallows. Mandarinfish inhabit the small coral heads and rubble piles, emerging at dusk to perform their brief, spectacular mating display. Divers settle over the rubble in just a few metres of water as the vivid blue, green, and orange fish emerge in pairs.
 
 By day, the site also rewards slow exploration: scorpionfish and crocodilefish rest on the rubble, pipefish hide among the structure, and juvenile batfish inhabit the old stone surrounds near the adjacent pier. The shallowness and shore-entry access make this the only true beginner dive in the Banda Islands, and one of the most unusual — a piece of living history, where a 400-year-old spice trading port now hosts some of the ocean's most flamboyant fish.
 
@@ -47,4 +47,4 @@ Shore entry from the Banda Neira waterfront in front of Hotel Maulana. One of th
 A dedicated macro site. Use a macro lens or wet diopter for mandarinfish portraits. The dusk light creates a challenging low-light environment — set your camera for low-light macro before the dive.
 
 ---
-*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [DAN Alert Diver - Banda Bound](https://dan.org/alert-diver/article/banda-bound/), [ScubaBoard - Banda Sea](https://scubaboard.com/community/threads/banda-sea.579226/). Last updated 2026-05-17.*
+*Sources: [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [DAN Alert Diver - Banda Bound](https://dan.org/alert-diver/article/banda-bound/). Last updated 2026-07-16 (re-audited: dropped All Star Liveaboards and the cited ScubaBoard thread — on re-check, neither actually mentions Mandarin City/mandarinfish; added a rocky-bottom/sea-urchin detail confirmed by DAN Alert Diver).*

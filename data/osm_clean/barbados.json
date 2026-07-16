@@ -18,9 +18,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "caribbean-beat.com,scubaverse.com,divehightide.com,barbadosblue.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "caribbean-beat.com,scubaverse.com,divehightide.com,barbadosblue.com,caribbeanwarehouse.co.uk,insandoutsbarbados.com,caribdiveguide.com",
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): length (365ft/111m), fire date (26 Aug 1976), casualties (6 dead), purchase (Oct 1977, $30,000), and sinking date (21 Nov 1978) confirmed across 4+ independent sources. Found a genuine conflict on who conducted the demolition: some sources credit a US Navy demolition team, insandoutsbarbados.com credits the US Army Corps of Engineers, and caribdiveguide.com says explosives experts came from Puerto Rico. Flagged as an explicit conflict in the markdown rather than picking one account. Declined to add an unconfirmed 'originally named Ohio' claim and an unconfirmed '4,000 ton' tonnage figure (single-source only)."
     }
   },
   {
@@ -36,9 +36,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "barbadossnorkelingtours.org,wanderlusters.com,caribbean-beat.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "barbadossnorkelingtours.org,wanderlusters.com,caribbean-beat.com,caribbeanwarehouse.co.uk,insandoutsbarbados.com",
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): scuttling story (crew avoided returning to post-WWI Europe) reconfirmed by barbadossnorkelingtours.org and insandoutsbarbados.com independently. Found a length conflict: caribbean-beat.com/numa.net give 60 feet, barbadossnorkelingtours.org gives 70 feet (the value already used). Flagged in markdown. Depth (6-7m) consistent across sources."
     }
   },
   {
@@ -54,16 +54,16 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,wanderlusters.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,wanderlusters.com,caribbean-beat.com",
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): ferro-cement construction and 12-13m depth reconfirmed. Found a conflict on sinking date: most sources (barbadossnorkelingtours.org) say January 1986, caribbean-beat.com/numa.net say 1985. Flagged in markdown. Length (~45ft) added per barbadossnorkelingtours.org."
     }
   },
   {
     "name": "Pamir Wreck",
     "lat": 13.1,
     "lon": -59.615,
-    "depth": 15,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -72,9 +72,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "caribbean-beat.com,divehightide.com,scubadivingearth.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "caribbean-beat.com,divehightide.com,scubadivingearth.com,barbados.org,insandoutsbarbados.com",
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): depth corrected from 15m to 18m - caribbean-beat.com, barbados.org, and a fresh divehightide.com pull all report a max depth of 55-60ft (17-18m), deeper than the previously recorded 15m. Length reported as 160ft (caribbean-beat.com) to 165ft (barbados.org, divehightide.com); markdown now reflects the range instead of a single figure. Sinking year (1985) and sister-ship relationship to Friars Craig reconfirmed."
     }
   },
   {
@@ -90,9 +90,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "caribbean-beat.com,divehightide.com,caribbeanwarehouse.co.uk,numa.net",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "caribbean-beat.com,divehightide.com,caribbeanwarehouse.co.uk,numa.net,insandoutsbarbados.com,barbados.org",
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): 170ft length and July 1985 scuttling date reconfirmed by caribbean-beat.com/numa.net AND insandoutsbarbados.com (2 independent sources). One outlier source (barbados.org summary) gives a conflicting 100ft/1984 account; flagged as an outlier in markdown rather than silently dropped, since majority evidence (2 sources) favors 170ft/1985."
     }
   },
   {
@@ -109,8 +109,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divehightide.com,scubadivingearth.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): re-pulled divehightide.com and barbados.org - turtle and schooling-fish claims still accurate, no factual changes needed."
     }
   },
   {
@@ -127,8 +127,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): re-pulled divehightide.com and barbados.org - turtle, barracuda, and coral claims still accurate, no factual changes needed."
     }
   },
   {
@@ -145,8 +145,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "folkestonemarinepark.com,barbados.org,scubaverse.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): re-pulled folkestonemarinepark.com directly. Depth range, turtle/seagrass, and crinoid claims reconfirmed. Added two new site-specific details found on re-pull: park rangers conduct regular invasive lionfish culling, and brittle stars/sea anemones are documented park residents."
     }
   },
   {
@@ -163,8 +163,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divehightide.com,barbados.org,divebarbadosblue.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): re-pulled divehightide.com and barbados.org - coral tree forest and depth-range claims reconfirmed within normal source rounding variance, no changes needed."
     }
   },
   {
@@ -180,9 +180,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "divehightide.com,divebarbadosblue.com,villasunnysidebarbados.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,divebarbadosblue.com,villasunnysidebarbados.com,barbados.org",
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): re-pulled barbados.org and divehightide.com - 135-145ft (41-44m) seabed depth and 80-90ft typical dive depth reconfirmed, no changes needed."
     }
   },
   {
@@ -199,8 +199,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Only 2 source domains found (divebarbadosblue.com, barbados.org) - insufficient for full 3-source validation. Shallow fringing reef at Coconut Court Hotel, Christ Church confirmed by Barbados dive operators. Marked validated based on 2 operator sources."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): searched again for a 3rd independent source and still could not find one. A site called 'Carlenes' off Coconut Court appears in some listings at 80-100ft as a drift dive, but that depth/profile does not match this shallow (3-12m) shore-entry site, so it was not used as a corroborating source (would misattribute facts from a different site). Per instructions, validated flag is left as-is (true, carried over from prior QA) rather than padded with a weak source or newly re-marked. Still only 2 source domains - flagged as unresolved in this pass's summary."
     }
   },
   {
@@ -222,9 +222,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk,caribbean-beat.com,insandoutsbarbados.com",
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): 110ft length, 17m depth, and 1996 sinking after Coast Guard seizure of a contraband-carrying vessel reconfirmed by 2 new independent sources (caribbean-beat.com/numa.net, insandoutsbarbados.com), in addition to the existing barbadossnorkelingtours.org. The specific date '8 June 1996' is only given by barbadossnorkelingtours.org; other sources only confirm the year, so markdown now attributes the exact day to that one source rather than stating it as universally confirmed. Declined to specify the drug type (marijuana) named by only one source - kept as generic 'contraband' per anti-hallucination policy on drug-specific details."
     }
   },
   {
@@ -247,9 +247,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk,carlislebaybarbados.org",
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): the 'Pelican' tugboat origin story is now confirmed by 2 independent sources (carlislebaybarbados.org and barbadossnorkelingtours.org) rather than one. Sinking date (19 May 2002) and depth (~10-11m) reconfirmed. Removed the previously-stated '120-foot' length figure - no source found corroborates a specific length for this vessel, so the markdown no longer states a fabricated dimension."
     }
   },
   {
@@ -270,8 +270,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,wanderlusters.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): shallow depth (3-4m) and beginner/snorkel character reconfirmed via new search results describing it as a Naval Landing Barge at 3.6-4m. Did not add new marine-life or provenance details found in unclear-provenance search snippets since the underlying source page could not be confirmed by direct fetch (403 errors) - avoided citing an unverified source."
     }
   },
   {
@@ -288,8 +288,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,scubadivingearth.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): re-pulled divehightide.com and barbados.org - 'jigsaw puzzle'/finger-reef topography, rays, barracuda, and Bermuda chub claims reconfirmed, no changes needed."
     }
   },
   {
@@ -306,8 +306,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,barbados.org,scubadivingearth.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): re-pulled divehightide.com - 'second dive for deep-water species' framing reconfirmed. Reef squid remains a claim sourced only to the original destination-level research; no additional site-specific corroboration found today, description already flags this appropriately."
     }
   },
   {
@@ -324,8 +324,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,activecaribbeantravel.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): nurse shark claim independently reconfirmed today by a second source describing ledges 'making a habitat for Nurse sharks which are rare in the diving area of Barbados' - this is now a 2-source-corroborated site-specific marine life claim, not a single-source one. Depth range (18-24m) reconfirmed."
     }
   },
   {
@@ -342,8 +342,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,activecaribbeantravel.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): re-pulled divehightide.com - turtle and schooling-fish claims reconfirmed, no changes needed."
     }
   },
   {
@@ -359,9 +359,9 @@
       "source": "curated",
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
-      "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org,activecaribbeantravel.com",
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): sandy-bottom/scattered-coral-heads profile independently reconfirmed by a new source (activecaribbeantravel.com), added as 4th validation domain. Stingray and eel claims consistent with existing sourcing."
     }
   },
   {
@@ -378,8 +378,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): new source confirms depth extends to 75-140ft (23-43m) on the outer edge, consistent with the existing markdown's already-noted 70-140ft Barbados Blue range and 'drops beyond recreational limits' caution. Barracuda/lobster claims reconfirmed. maxDepth field (24m) kept as the typical working depth per existing convention; deeper outer-edge figures remain in the prose only, consistent with how Shark Bank Barbados is handled."
     }
   },
   {
@@ -396,8 +396,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,activecaribbeantravel.com,scubadivingearth.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): re-pulled divehightide.com - barracuda school and cannonball/bottle artifact claims reconfirmed, no changes needed."
     }
   },
   {
@@ -413,9 +413,9 @@
       "source": "curated",
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
-      "validation_source": "caribbean-beat.com,divehightide.com,insandoutsbarbados.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "caribbean-beat.com,divehightide.com,insandoutsbarbados.com,barbados.org",
+      "last_qa_date": "2026-07-16",
+      "qa_notes": "Re-audited 2026-07-16 (deep QA pass): the existing 1961-vs-1974 sinking-date conflict is now further corroborated - barbados.org independently gives 1961 (matching insandoutsbarbados.com) against caribbean-beat.com's 1974. Length (60ft) and depth (~50ft/15m) reconfirmed by barbados.org and caribbean-beat.com. Conflict note retained in markdown."
     }
   }
 ]

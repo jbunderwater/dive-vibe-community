@@ -17,7 +17,7 @@ A west coast fringing reef named after the landmark Sandy Lane Hotel, known for 
 
 ## Overview
 
-Little Sandy Lane is part of a cluster of reef sites south of Holetown on Barbados's west coast, along with Barracuda Junction and Dottin's Reef. It takes its name from the iconic Sandy Lane Hotel directly above. Barbados Blue, which operates at this site, notes the depth range from 70–140 feet (21–43 metres) and lists barracuda and lobsters as key species. Dive Hightide's "Sandy Lane" entry confirms a 70–80 foot typical dive depth, abundant soft corals, barrel sponges, tube sponges, schooling fish, barracudas, turtles, and parrotfish. The multilevel profile makes it well-suited for computer-managed dive planning. Visibility averages 20–30 metres. Water temperature is 26–28°C.
+Little Sandy Lane is part of a cluster of reef sites south of Holetown on Barbados's west coast, along with Barracuda Junction and Dottin's Reef. It takes its name from the iconic Sandy Lane Hotel directly above. Barbados Blue, which operates at this site, notes the depth range from 70–140 feet (21–43 metres) and lists barracuda and lobsters as key species — a separate source independently confirms a similar 75–140 foot (23–43 metre) range on the outer reef edge, describing the site as an extension of Dottin's Reef. Dive Hightide's "Sandy Lane" entry confirms a 70–80 foot typical dive depth, abundant soft corals, barrel sponges, tube sponges, schooling fish, barracudas, turtles, and parrotfish. Most divers stay in the shallower 12–24 metre range; the deeper 40+ metre sections at the outer edge exceed recreational limits and are noted as a caution below rather than the typical working depth. The multilevel profile makes it well-suited for computer-managed dive planning. Visibility averages 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 - **Location**: West coast, offshore from Sandy Lane Hotel south of Holetown
@@ -50,4 +50,4 @@ The Sandy Lane Hotel is a visible landmark on the boat ride out — useful orien
 Moderate currents possible on the outer reef edge. Monitor depth at the deeper sections. Carry an SMB for boat pickup.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-07-16.*

@@ -3,7 +3,7 @@
     "name": "Lava Flow",
     "lat": -4.523,
     "lon": 129.868,
-    "depth": 30,
+    "depth": 35,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -11,7 +11,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-07-16",
       "validation_source": "bottles-up-diving.com, allstarliveaboards.com, merapitours.com, alovelyplanet.com, dive-the-world.com"
     }
   },
@@ -27,7 +27,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-07-16",
       "validation_source": "bottles-up-diving.com, dive-the-world.com, merapitours.com, mermaid-liveaboards.com, bluewaterdivetravel.com"
     }
   },
@@ -43,7 +43,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-07-16",
       "validation_source": "merapitours.com, bottles-up-diving.com, dive-the-world.com"
     }
   },
@@ -59,8 +59,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
-      "validation_source": "bottles-up-diving.com, dive-the-world.com, xray-mag.com, diveindonesia.com, merapitours.com"
+      "last_qa_date": "2026-07-16",
+      "validation_source": "bottles-up-diving.com, dive-the-world.com, xray-mag.com, merapitours.com, konjocruisingindonesia.com"
     }
   },
   {
@@ -75,7 +75,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-07-16",
       "validation_source": "bottles-up-diving.com, xray-mag.com, dive-the-world.com, bluewaterdivetravel.com, calicojackcharters.com"
     }
   },
@@ -91,8 +91,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
-      "validation_source": "xray-mag.com, bottles-up-diving.com, dive-the-world.com, calicojackcharters.com"
+      "last_qa_date": "2026-07-16",
+      "validation_source": "xray-mag.com, bottles-up-diving.com, dive-the-world.com"
     }
   },
   {
@@ -107,7 +107,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-07-16",
       "validation_source": "xray-mag.com, originaldiving.com, mermaid-liveaboards.com, dive-the-world.com"
     }
   },
@@ -123,8 +123,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
-      "validation_source": "merapitours.com, bottles-up-diving.com, scubaboard.com, allstarliveaboards.com, dan.org"
+      "last_qa_date": "2026-07-16",
+      "validation_source": "merapitours.com, bottles-up-diving.com, dan.org"
     }
   },
   {
@@ -139,8 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
-      "validation_source": "cilubintang.com, merapitours.com, bottles-up-diving.com, dive-the-world.com"
+      "last_qa_date": "2026-07-16",
+      "validation_source": "merapitours.com, bottles-up-diving.com, dive-the-world.com"
     }
   },
   {
@@ -155,7 +155,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-07-16",
       "validation_source": "dive-the-world.com, bottles-up-diving.com, indonesia.greatestdivesites.com, calicojackcharters.com"
     }
   },
@@ -171,8 +171,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
-      "validation_source": "bottles-up-diving.com, merapitours.com, dive-the-world.com, dan.org"
+      "last_qa_date": "2026-07-16",
+      "validation_source": "bottles-up-diving.com, merapitours.com, dan.org, dive-the-world.com"
     }
   },
   {
@@ -187,8 +187,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
-      "validation_source": "merapitours.com, bottles-up-diving.com, dive-the-world.com"
+      "last_qa_date": "2026-07-16",
+      "validation_source": "merapitours.com, bottles-up-diving.com",
+      "qa_note": "Only 2 independent sources confirmed on re-audit (bottles-up-diving.com detailed; merapitours.com names the site with general Banda Besar character). Prior dive-the-world.com citation removed - that source has no distinct Tanjung Cengkeh entry. Below the 3-source bar; content otherwise unchanged since bottles-up-diving.com corroborates it in detail."
     }
   },
   {
@@ -203,7 +204,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-07-16",
       "validation_source": "xray-mag.com, allstarliveaboards.com, solitude.world, originaldiving.com, bluewaterdivetravel.com"
     }
   }

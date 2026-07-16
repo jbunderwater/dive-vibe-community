@@ -13,13 +13,13 @@ addedBy: osm_import
 
 ## Jackpot
 
-Jackpot is an advanced pinnacle dive site at Serua Island, a remote volcanic outpost southeast of the main Banda archipelago. The name reflects the site's reputation for high-payoff encounters: when conditions are right, this is one of the Banda Sea's better-known spots for scalloped hammerhead sharks and large pelagic aggregations.
+Jackpot is an advanced pinnacle dive site in the remote "Forgotten Islands" southeast of the main Banda archipelago. Sources are not fully consistent on which island it sits closest to — trip reports place it at both Serua Island and nearby Suanggi Island — but agree it is one of the Banda Sea's better-known spots for scalloped hammerhead sharks and large pelagic aggregations. The name reflects the site's reputation for high-payoff encounters when conditions are right.
 
 ## Overview
 
-The site features deep-water pinnacles covered in large coral formations and substantial pink barrel sponges. Strong currents sweep the pinnacle tops and flanks, concentrating fish in impressive aggregations. Divers commonly perform negative entries and use reef hooks to shelter from the current before positioning to watch the show. Schooling jacks, large tuna schools, grey reef sharks, and groupers are regular presences.
+The site features deep-water pinnacles and coral walls covered in large coral formations and substantial pink barrel sponges. Strong currents sweep the pinnacle tops and flanks, concentrating fish in impressive aggregations. Divers commonly perform negative entries and use reef hooks to shelter from the current before positioning to watch the show. Grey reef sharks, dogtooth tuna, eagle rays, mackerel, and hawksbill sea turtles are reported here.
 
-Scalloped hammerhead sharks are reported here during upwelling periods. Multiple sources indicate hammerhead sightings during the South East wind season (approximately June–September) when nutrient-rich upwellings develop around Serua, as well as during the broader October–November peak season across the Banda Sea.
+Scalloped hammerhead sharks are reported here, most reliably during the September–November window that operators cite for the Banda Sea generally; one operator describes the hammerhead appearance as confined to "only a few months of the year" without giving exact dates.
 
 The site earns its "Jackpot" name from the unpredictability typical of remote Banda Sea pinnacles — on a productive dive, divers can encounter schooling fish, coral walls, and huge barrel sponge formations in a single dive. Conditions vary considerably.
 
@@ -29,16 +29,16 @@ Pinnacle dive from the surface to 40+ m. Most action at 15–35 m on the pinnacl
 
 ## Marine Life
 
-- Scalloped hammerhead sharks (most likely during SE wind upwelling, June–September, and October–November peak season; not guaranteed)
-- Grey reef sharks in the water column
-- Schooling jacks and large tuna schools
-- Large groupers
+- Scalloped hammerhead sharks (most reliable September–November; not guaranteed)
+- Grey reef sharks and dogtooth tuna in the water column
+- Eagle rays and mackerel
+- Hawksbill sea turtles
 - Large pink barrel sponges
 - Hard and soft coral formations on pinnacle faces
 
 ## Entry / Exit
 
-Boat dive from liveaboard. Serua Island is only accessible by liveaboard. Negative entry is standard. Drift exit with SMB pickup by tender.
+Boat dive from liveaboard only — this part of the Forgotten Islands has no other access. Negative entry is standard. Drift exit with SMB pickup by tender.
 
 ## Safety
 
@@ -49,4 +49,4 @@ Advanced dive due to strong currents and remote location. Surface marker buoy ma
 Wide-angle pinnacle photography — the barrel sponge formations and schooling fish make strong subjects. Hammerhead encounters in clear water are exceptional but not guaranteed.
 
 ---
-*Sources: [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [Mermaid Liveaboards - Serua](https://www.mermaid-liveaboards.com/dive_spots/serua/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php). Last updated 2026-05-17.*
+*Sources: [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [Mermaid Liveaboards - Serua](https://www.mermaid-liveaboards.com/dive_spots/serua/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php). Last updated 2026-07-16 (re-audited: removed an unconfirmed "June-September SE wind" hammerhead season claim — only Sept-Nov is source-confirmed; removed unconfirmed jacks/grouper claims; flagged the Serua-vs-Suanggi naming conflict between sources rather than picking one).*

@@ -33,7 +33,7 @@ Folkestone Marine Park and Reserve is a protected marine area on Barbados's west
 
 ## Marine Life
 
-Folkestone's marine park status supports a reliable and approachable community. Hawksbill turtles are a signature species — the park's seagrass beds are primary grazing habitat, and the Barbados Marine Trust mandates a 10-foot buffer zone around individuals. Schools of blue tangs and sergeant majors dominate the reef. Parrotfish, queen triggerfish, and French angelfish are resident. Rare sea lilies (crinoids) have been recorded within the park. Caribbean spiny lobster shelter under reef overhangs. The sandy areas at the reef edge support southern stingrays and garden eels.
+Folkestone's marine park status supports a reliable and approachable community. Hawksbill turtles are a signature species — the park's seagrass beds are primary grazing habitat, and the Barbados Marine Trust mandates a 10-foot buffer zone around individuals. Schools of blue tangs and sergeant majors dominate the reef. Parrotfish, queen triggerfish, and French angelfish are resident. Rare sea lilies (crinoids), sea anemones, and brittle stars have been recorded within the park, per the park's own site. Caribbean spiny lobster shelter under reef overhangs. The sandy areas at the reef edge support southern stingrays and garden eels. Park rangers conduct regular culling of invasive lionfish to protect native biodiversity — divers should not attempt this themselves without proper training and park authorization.
 
 ## Dive Profile
 
@@ -56,4 +56,4 @@ The park sees significant boat, water taxi, and submarine traffic. Deploy SMB or
 Folkestone's shallow, clear water and habituated turtle population make it one of Barbados's best natural-light shore photography sites. Turtle portraits in the seagrass and reef zones in morning light are the defining images. Crinoid close-ups and school-of-fish compositions over the coral also work well.
 
 ---
-*Sources: [Folkestone Marine Park](https://folkestonemarinepark.com/activities/), [Barbados.org](https://barbados.org/folkstone.htm), [Scubaverse](https://scubaverse.com/dive-guide/caribbean/barbados/). Last updated 2026-05-17.*
+*Sources: [Folkestone Marine Park](https://folkestonemarinepark.com/activities/), [Barbados.org](https://barbados.org/folkstone.htm), [Scubaverse](https://scubaverse.com/dive-guide/caribbean/barbados/). Last updated 2026-07-16.*

@@ -17,13 +17,13 @@ A former Barbadian tugboat converted into a party cruiser, sunk on 19 May 2002 i
 
 ## Overview
 
-The Bajan Queen began her working life as the Pelican — Barbados's first tugboat, serving the harbour from the 1960s. She was later converted to a party cruise vessel operating out of Bridgetown. On 19 May 2002 she was deliberately sunk in Carlisle Bay Marine Park to add to the bay's growing artificial reef wreck cluster. The 120-foot vessel rests on the sandy bottom at 11 metres (35 feet), with her deck accessible at 4–6 metres. She is one of the larger wrecks in Carlisle Bay and features intact interior spaces including the captain's bridge, hold, and washrooms. Carlisle Bay's sheltered west coast conditions give consistent visibility of 15–20 metres. Water temperature is 26–28°C year-round.
+The Bajan Queen began her working life as the Pelican — Barbados's first tugboat, servicing the newly built Bridgetown Deep Water Harbour (Carlisle Bay Beach's historical account dates this to around 1961). A decade or so later, as more modern tugs came into service, she was converted to a party cruise vessel operating out of Bridgetown under the name Bajan Queen — this Pelican-to-party-boat history is corroborated by two independent sources. On 19 May 2002 she was deliberately sunk in Carlisle Bay Marine Park, reportedly under the supervision of a marine biologist, to add to the bay's growing artificial reef wreck cluster. No source consulted gives a confirmed length for the vessel, so none is stated here. She rests on the sandy bottom at approximately 10–11 metres (33–35 feet), with her deck accessible at 4–6 metres. She is one of the larger wrecks in Carlisle Bay and features intact interior spaces including the captain's bridge, hold, and washrooms. Carlisle Bay's sheltered west coast conditions give consistent visibility of 15–20 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 4–11 m |
+| Depth Range | 4–11 m (deck 4–6 m, base ~10–11 m) |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wreck |
@@ -56,4 +56,4 @@ Straightforward at 11 metres in calm bay conditions. Fire coral is present. DSMB
 The accessible depth and calm bay conditions make the Bajan Queen suitable for natural-light photography. The intact superstructure, barrel sponges, spadefish schools, and turtle encounters are the main subjects.
 
 ---
-*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/). Last updated 2026-05-17.*
+*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/), [Carlisle Bay Beach Barbados](https://carlislebaybarbados.org/blog-the-bajan-queen-from-party-boat-to-artificial-reef/). Last updated 2026-07-16.*

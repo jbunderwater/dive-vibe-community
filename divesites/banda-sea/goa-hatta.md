@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Goa Hatta
 
-Goa Hatta (also known as "Hatta Goa" or "Hole in the Wall") is a wall dive on the north coast of Pulau Hatta, roughly 25 km from Banda Neira. The site takes its name from a sinkhole in the reef flat — a gap approximately 6 m wide that drops 4 m and then bursts through to the seaward wall, forming a dramatic archway.
+Goa Hatta (also known as "Hatta Goa" or "Hole in the Wall") is a wall dive on the north coast of Pulau Hatta, roughly 25 km from Banda Neira. The site takes its name from a sinkhole in the reef flat that drops approximately 4 m and then bursts through to the seaward wall, forming a dramatic archway. Sources agree on the depth of the drop but do not give a consistent width for the gap, so no specific width is stated here.
 
 ## Overview
 
-The dive begins with a descent through the sinkhole gap on the reef flat (about 6 m wide, dropping approximately 4 m), which opens immediately onto a spectacular seaward wall. A slope of brown soft corals and leather corals transitions to a vertical wall at around 14 m, where the largest sponges begin. Soldierfish peer from every overhang, and the wall is richly decorated with large sea fans, barrel sponges, black sun corals, and colonies of leather corals.
+The dive begins with a descent through the sinkhole gap on the reef flat (dropping approximately 4 m), which opens immediately onto a spectacular seaward wall. A slope of brown soft corals and leather corals transitions to a vertical wall at around 14 m, where the largest sponges begin. Soldierfish peer from every overhang, and the wall is richly decorated with large sea fans, barrel sponges, black sun corals, and colonies of leather corals.
 
 Giant clams are embedded in the shallower sections. Blacktip sharks and red snappers circle in the depths. On the drift along the shallow reef flat at the end of the dive, triggerfish, wrasse, striped catfish, and damselfish are abundant, living in symbiosis with anemones.
 
 ## Dive Profile
 
-Entry through the sinkhole gap (reef flat, about 6 m wide, 4 m drop) opening onto the seaward wall. Vertical wall begins at approximately 14 m and drops to 50 m+. Most marine life concentrated in the 14–35 m range. Currents are generally mild at this site, making it accessible for intermediate divers. Visibility is typically excellent — 20–30 m.
+Entry through the sinkhole gap (reef flat, approximately 4 m drop) opening onto the seaward wall. Vertical wall begins at approximately 14 m and drops to 50 m+. Most marine life concentrated in the 14–35 m range. Currents are generally mild at this site, making it accessible for intermediate divers. Visibility is typically excellent — 20–30 m.
 
 ## Marine Life
 
@@ -50,4 +50,4 @@ Boat dive from liveaboard or day-trip vessel from Banda Neira. The site is on th
 The sinkhole/archway provides a natural frame for wide-angle photography. The wall's sea fan gardens and soldierfish overhangs make this one of the more photogenic Hatta sites. Bring a wide-angle setup; the archway light at the right time of day is dramatic.
 
 ---
-*Sources: [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Calico Jack Charters - Banda Sea Dive Spots](https://calicojackcharters.com/dive-spots-banda/). Last updated 2026-05-17.*
+*Sources: [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php). Last updated 2026-07-16 (re-audited: removed an unconfirmed 6m sinkhole-width figure that no source actually supports; dropped Calico Jack Charters citation — that page does not mention Goa Hatta on re-check — and added Bottles Up Diving, which does cover this site under "Pulau Hatta").*
