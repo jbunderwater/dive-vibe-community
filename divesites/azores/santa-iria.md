@@ -42,4 +42,4 @@ No site-specific marine life records found. The rocky lava reef and no-fishing p
 - Also used as a snorkelling destination
 
 ---
-*Description based on general north-coast São Miguel diving characteristics and protected area status. No site-specific dive sources found. Last updated 2026-05-17.*
+*Description based on general north-coast São Miguel diving characteristics and protected area status. No site-specific dive sources found. Last updated 2026-07-16 (re-checked; still no site-specific source found).*

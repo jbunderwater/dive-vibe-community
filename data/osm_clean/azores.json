@@ -85,8 +85,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive.visitazores.com,uboat.net,padi.com,scubaboard.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "dive.visitazores.com,padi.com,scubaboard.com,scubaweather.com",
+      "last_qa_date": "2026-07-16",
+      "qa_note": "2026-07-16 re-audit: removed unverified 'SS Thomas Donaldson / U-968 torpedo' backstory (was sourced only from uboat.net's unrelated Liberty ship entry and not corroborated by specialist wreck-history sources). MARAD vessel records show Thomas Donaldson was a distinct total loss in 1945 with no documented link to Dori. Specialist sources (scubaweather.com, academic wreck research) independently identify the vessel as SS Edwin L. Drake, built 1943."
     }
   },
   {
@@ -103,8 +104,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive.visitazores.com,portugaldive.com,scubadiving.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "dive.visitazores.com,portugaldive.com,tribloo.com",
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -121,8 +122,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive.visitazores.com,diveazores.net,diveworldwide.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "dive.visitazores.com,diveazores.net",
+      "last_qa_date": "2026-07-16",
+      "qa_note": "2026-07-16 re-audit: removed diveworldwide.com (does not mention this site on re-check). Only 2 independently-verified site-specific sources found despite additional search; below the 3-source bar. Depth reported: dive.visitazores.com gives 20-55m, diveazores.net gives 17-40m - hedged in description."
     }
   },
   {
@@ -139,8 +141,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive.visitazores.com,portugaldive.com,azoresgetaways.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "dive.visitazores.com,portugaldive.com",
+      "last_qa_date": "2026-07-16",
+      "qa_note": "2026-07-16 re-audit: removed azoresgetaways.com (does not mention this site on re-check). Only 2 independently-verified site-specific sources found despite additional search; below the 3-source bar."
     }
   },
   {
@@ -157,8 +160,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive.visitazores.com,turismo.azores.gov.pt,explorefloresisland.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "dive.visitazores.com,turismo.azores.gov.pt,allaboutportugal.pt",
+      "last_qa_date": "2026-07-16"
     }
   },
   {
@@ -175,8 +178,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "wikipedia.org,dive.visitazores.com,ggarchives.com",
-      "last_qa_date": "2026-05-17"
+      "validation_source": "wikipedia.org,ggarchives.com,azoren-online.info",
+      "last_qa_date": "2026-07-16",
+      "qa_note": "2026-07-16 re-audit: replaced dive.visitazores.com/islands/flores (does not mention Slavonia specifically) with azoren-online.info, which independently confirms depth (18m), distance from shore (<50m), and passenger count (410)."
     }
   },
   {
@@ -191,7 +195,8 @@
       "name": "Santa Iria",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16",
+      "qa_note": "2026-07-16 re-audit: repeated targeted search (dive shop listings, ScubaBoard, tourism portals) found no site-specific dive source for this name. Left unvalidated; markdown honestly states regional-only characterization."
     }
   },
   {
@@ -206,7 +211,8 @@
       "name": "Bahia de Capelas",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16",
+      "qa_note": "2026-07-16 re-audit: repeated targeted search (dive shop listings, ScubaBoard, tourism portals) found no site-specific dive source for this name. Left unvalidated; markdown honestly states regional-only characterization."
     }
   },
   {
@@ -221,7 +227,8 @@
       "name": "Lagoa",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16",
+      "qa_note": "2026-07-16 re-audit: repeated targeted search (dive shop listings, ScubaBoard, tourism portals) found no site-specific dive source for this name. Left unvalidated; markdown honestly states regional-only characterization."
     }
   },
   {
@@ -236,7 +243,8 @@
       "name": "Rostro de Cao",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-17"
+      "last_qa_date": "2026-07-16",
+      "qa_note": "2026-07-16 re-audit: repeated targeted search (dive shop listings, ScubaBoard, tourism portals) found no site-specific dive source for this name. Left unvalidated; markdown honestly states regional-only characterization."
     }
   }
 ]

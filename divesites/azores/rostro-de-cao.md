@@ -41,4 +41,4 @@ No site-specific marine life records found. Typical south-coast Azorean reef spe
 - Volcanic basalt underwater landscape typical of the Azores south coast
 
 ---
-*Description based on general south-coast São Miguel diving characteristics. No site-specific dive sources found for this site. Last updated 2026-05-17.*
+*Description based on general south-coast São Miguel diving characteristics. No site-specific dive sources found for this site. Last updated 2026-07-16 (re-checked; still no site-specific source found).*

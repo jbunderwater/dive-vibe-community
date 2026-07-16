@@ -17,7 +17,7 @@ One of three submerged reefs in the Pico–Faial Channel — massive schools of 
 
 ## Overview
 
-Baixa da Barca is one of three submerged rocky reefs in the Pico–Faial Channel, located 2 nautical miles north of the Madalena Islets and approximately 20 minutes by boat from Porto da Madalena. The shallowest peak sits at 20 metres; corridors and platforms extend from 30 to 50 metres, with a maximum depth of 55 metres. The site is reserved for experienced divers due to depth and moderate-to-strong currents.
+Baixa da Barca is one of three submerged rocky reefs in the Pico–Faial Channel, located 2 nautical miles north of the Madalena Islets and approximately 20 minutes by boat from Porto da Madalena. Sources report differing depth ranges: dive.visitazores.com gives a shallowest peak of 20 metres with corridors and platforms extending from 30 to 50 metres (maximum 55 metres), while DiveAzores gives a shallower plateau starting around 17 metres with a maximum around 40 metres. The site is reserved for experienced divers due to depth and moderate-to-strong currents regardless of which figure applies.
 
 The defining feature is massive schools of blue jack mackerel (*Trachurus picturatus*) which aggregate over the reef and attract devil rays (*Mobula tarapacana*), ocean sunfish (*Mola mola*), and pelagic predators. The volcanic geology offers interesting swim-throughs and corridors alongside the main pelagic action.
 
@@ -45,4 +45,4 @@ Yellowmouth barracudas (*Sphyraena viridensis*), Almaco jacks (*Seriola rivolian
 - Combine with other Pico–Faial Channel dives (Baixa do Sul, Baixa do Norte) for a full day
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/baixa-da-barca), [DiveAzores](https://www.diveazores.net/dive-sites/), [Dive Worldwide – Pico](https://www.diveworldwide.com/locations/pico). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/baixa-da-barca), [DiveAzores](https://www.diveazores.net/dive-sites/). Only two independently-verified site-specific sources were found on re-audit (a previously-cited third source, Dive Worldwide, does not actually mention this site). Last updated 2026-07-16.*
