@@ -59,4 +59,4 @@ The shore entry can be rocky, so take care when entering and exiting. Currents a
 Seraya Secrets is a world-class macro photography site. The black sand provides clean, high-contrast backgrounds for critter subjects. Ghost pipefish, nudibranchs, frogfish, and harlequin shrimp are the primary macro targets. The coral-covered dome structure offers interesting wide-angle compositions showing artificial reef colonisation. A dedicated macro lens (60mm or 100mm) and a good focus light are essential.
 
 ---
-*Sources: [Let's Dive Tulamben - Seraya Secrets](https://letsdivetulamben.com/dive-sites/seraya-secrets/), [DiveOtion - Seraya Secrets](https://diveotion.com/seraya-secrets-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=879). Last updated 2026-05-17.*
+*Sources: [Let's Dive Tulamben - Seraya Secrets](https://letsdivetulamben.com/dive-sites/seraya-secrets/), [DiveOtion - Seraya Secrets](https://diveotion.com/seraya-secrets-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=879). Last updated 2026-07-16.*

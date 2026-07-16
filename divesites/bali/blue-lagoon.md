@@ -59,4 +59,4 @@ The bay is very calm, but boat traffic enters and exits the area — be visible 
 Excellent natural light in the shallows suits wide-angle reef shots and fish portraits. Clownfish in anemones are predictable subjects. Night dives add octopus, cuttlefish, and nudibranchs. The white sand bottom reflects light beautifully for macro shots.
 
 ---
-*Sources: [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Neptune Scuba Diving - Bali Dive Sites](https://neptunescubadiving.com/bali-diving/bali-dive-sites/). Last updated 2026-05-17.*
+*Sources: [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Neptune Scuba Diving - Bali Dive Sites](https://neptunescubadiving.com/bali-diving/bali-dive-sites/). Last updated 2026-07-16.*

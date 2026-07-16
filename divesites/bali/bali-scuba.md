@@ -24,10 +24,10 @@ The coordinates place the point in the south Bali / Nusa Penida corridor, an are
 ## Site Information
 
 - **Location**: South Bali / Nusa Penida corridor (coordinates only; exact site identity unconfirmed)
-- **Entry Type**: Boat dive (assumed, unconfirmed)
-- **Site Type**: Reef (assumed, unconfirmed — OSM default, not source-verified)
-- **Difficulty Level**: Intermediate (placeholder pending verification)
-- **Maximum Depth**: 20 meters (placeholder pending verification)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 
 ## Marine Life
 

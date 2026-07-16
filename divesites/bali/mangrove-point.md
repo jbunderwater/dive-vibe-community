@@ -59,4 +59,4 @@ Currents are usually mild but can increase at the point. Stay within recreationa
 Morning dives offer exceptional natural light for shooting the shallow reef and fish schools. Wide-angle works well for the wall sections, while macro shooters will find ghost pipefish, nudibranchs, and juvenile fish in the corals. The safety stop in the shallows often yields some of the most colourful shots of the day.
 
 ---
-*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Menjangan Island Trip - Diving Sites](https://menjanganislandtrip.com/menjangan-island/), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-07-16.*

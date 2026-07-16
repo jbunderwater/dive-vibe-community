@@ -59,4 +59,4 @@ Currents are usually light but can pick up unexpectedly — monitor direction an
 The wall face provides excellent ambient-light wide-angle shots, especially with sea fans as foreground subjects. The muck habitat at the base of the wall is productive for macro work — look for nudibranchs, pipefish, and frogfish. Shoot upward along the wall to capture divers silhouetted against the blue water column.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [World Adventure Divers - Diving Amed](https://worldadventuredivers.com/diving-amed/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-07-16.*

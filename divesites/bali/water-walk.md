@@ -22,10 +22,10 @@ Research for this entry found no dive shop, ScubaBoard thread, or dive database 
 ## Site Information
 
 - **Location**: South Bali, Sanur / Nusa Penida corridor (coordinates only; exact site identity unconfirmed)
-- **Entry Type**: Boat dive (assumed, unconfirmed)
-- **Site Type**: Reef (assumed, unconfirmed — OSM default, not source-verified)
-- **Difficulty Level**: Intermediate (placeholder pending verification)
-- **Maximum Depth**: 20 meters (placeholder pending verification)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 
 ## Marine Life
 

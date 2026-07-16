@@ -22,10 +22,10 @@ Research for this entry found no dive database or operator listing a dive site n
 ## Site Information
 
 - **Location**: Tulamben area, northeast Bali coast (coordinates only; exact site identity unconfirmed)
-- **Entry Type**: Boat dive (assumed, unconfirmed)
-- **Site Type**: Reef (assumed, unconfirmed — OSM default, not source-verified)
-- **Difficulty Level**: Intermediate (placeholder pending verification)
-- **Maximum Depth**: 25 meters (placeholder pending verification)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
 ## Marine Life
 

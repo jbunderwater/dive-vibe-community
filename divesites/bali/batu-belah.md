@@ -57,4 +57,4 @@ Currents are generally mild with occasional moderate periods. Maintain good buoy
 Both macro and reef-scene photography are rewarding here. The frogfish and leaf scorpionfish are prime macro subjects. Schools of snappers and fusiliers against the reef structure suit wide-angle. Natural light is generally good given the shallow-to-mid depth range.
 
 ---
-*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [PADI - Batu Belah](https://www.padi.com/dive-site/indonesia/batu-belah/), [Dive Navigator - Batu Belah](https://www.divenavigator.com/dive-sites/indonesia/batu-belah). Last updated 2026-05-17.*
+*Sources: [Bali Fab Dive - Batu Belah](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/batu-belah-dive-amed/), [PADI - Batu Belah](https://www.padi.com/dive-site/indonesia/batu-belah/), [Dive Navigator - Batu Belah](https://www.divenavigator.com/dive-sites/indonesia/batu-belah). Last updated 2026-07-16.*

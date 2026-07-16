@@ -59,4 +59,4 @@ Strong current can make it difficult to hold position at the deeper pyramids. Be
 The pyramids are a macro photographer's paradise — soft corals, frogfish, pygmy seahorses, and nudibranchs all on a single geometric structure. Wide-angle shots capturing turtles on the coral-covered pyramids are the signature image. Blue-spotted stingrays in groups on the black sand are striking wide-angle subjects.
 
 ---
-*Sources: [Bali Dive Cove - Amed Pyramids](https://www.balidivecove.com/dive-sites/amed-pyramids/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*
+*Sources: [Bali Dive Cove - Amed Pyramids](https://www.balidivecove.com/dive-sites/amed-pyramids/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-07-16.*

@@ -59,4 +59,4 @@ Be cautious of boat traffic near the surface buoy when ascending. Maintain good 
 The shrine with batfish hovering beneath it is the signature subject of Jemeluk Bay. Wide-angle captures the full scene with the structure and fish together. Macro photographers will find clownfish, nudibranchs, and critters on the surrounding reef corals. The mackerel schools can produce stunning wide-angle action shots.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Atlantis Bali Diving - Amed](https://www.atlantis-bali-diving.com/dive_site/amed/), [Dive Concepts - Jemeluk Bay](https://diveconcepts.com/dive-site-spot-amed-jemeluk-bay). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Atlantis Bali Diving - Amed](https://www.atlantis-bali-diving.com/dive_site/amed/), [Dive Concepts - Jemeluk Bay](https://diveconcepts.com/dive-site-spot-amed-jemeluk-bay). Last updated 2026-07-16.*

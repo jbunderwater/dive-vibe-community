@@ -59,4 +59,4 @@ Lipah Bay is a straightforward dive with generally mild conditions. Currents are
 The turtles at Lipah Bay are the primary photographic attraction and are often cooperative subjects. The large moray eels in the bommies reward patient photographers. The artificial reef structures with their coral growth provide interesting compositions showing reef colonization. Wide-angle is recommended for turtles and reef-scape; macro for the invertebrates on the artificial structures.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096). Last updated 2026-07-16.*
