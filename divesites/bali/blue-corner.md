@@ -59,4 +59,4 @@ Currents can be strong and may reverse unexpectedly as the tide changes. Do not 
 The corner's fish aggregations provide spectacular wide-angle subjects — schools of trevally backlit against the blue water are the signature shot. Reef sharks on the wall add drama. Wide-angle with dual strobes works best; save macro for the calmer sections of the wall where current is reduced.
 
 ---
-*Sources: [Dive Concepts - Crystal Bay Menjangan](https://diveconcepts.com/bali/spot-crystal-bay.php), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Dive Concepts - Crystal Bay Menjangan](https://diveconcepts.com/bali/spot-crystal-bay.php), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-07-17.*

@@ -42,4 +42,4 @@ Descend along the wall on the sheltered side. The Shark Cave is located at appro
 This is one of Bali's most demanding dive sites. Strong, unpredictable currents and downcurrents are the primary hazards. Cold thermoclines can drop water temperature to 20°C without warning. Advanced Open Water certification and significant drift diving experience are required. Always dive with a local operator who knows the current conditions at Biaha.
 
 ---
-*Sources: [OK Divers - Gili Biaha](https://www.okdiversbali.com/portfolio/gili-biaha-bali/), [Nico Dives Cool Bali - Gili Biaha](https://nicodivescoolbali.com/go-diving/day-trips/candidasa/gili-biaha/), [PADI - Gili Biaha](https://www.padi.com/dive-site/indonesia/gili-biaha/). Last updated 2026-04-05.*
+*Sources: [OK Divers - Gili Biaha](https://www.okdiversbali.com/portfolio/gili-biaha-bali/), [Nico Dives Cool Bali - Gili Biaha](https://nicodivescoolbali.com/go-diving/day-trips/candidasa/gili-biaha/), [PADI - Gili Biaha](https://www.padi.com/dive-site/indonesia/gili-biaha/). Last updated 2026-07-17.*

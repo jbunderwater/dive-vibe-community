@@ -59,4 +59,4 @@ Currents are moderate but can increase around the point. Stay aware of depth whe
 Pos 2 is superb for both wide-angle and macro work. The enormous sea fans and clear water suit wide-angle with strobes. Pygmy seahorses require a macro lens and patience to photograph among the gorgonian polyps. Eagle rays in blue water make dramatic wide-angle subjects on clear days.
 
 ---
-*Sources: [Dive Concepts - Pos 2 Menjangan](https://diveconcepts.com/dive-site-pos-2-menjangan-bali), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-05-17.*
+*Sources: [Dive Concepts - Pos 2 Menjangan](https://diveconcepts.com/dive-site-pos-2-menjangan-bali), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/). Last updated 2026-07-17.*
