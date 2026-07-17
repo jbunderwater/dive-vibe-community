@@ -17,27 +17,27 @@ A structured Caribbean reef shark feeding dive operated off Nassau's southwest c
 
 ## Overview
 
-Shark Arena is one of Nassau's signature dive experiences, operated by Stuart Cove's Dive Bahamas on a regular basis at a reef site southwest of New Providence Island. The site features a designated "arena" area on the reef where multiple Caribbean reef sharks congregate for a structured encounter. Caribbean reef sharks are the primary species at this site, regularly reaching 1.5–2 metres. The reef sits at 12 metres maximum depth, providing excellent natural light and generous bottom time. Nassau's clear Caribbean water delivers 20–30 metres of visibility. Water temperature is 25–28°C.
+Shark Arena — referred to by Stuart Cove's Dive Bahamas simply as "The Arena" — is the feeding half of their signature 2-tank Shark Adventure, paired with a non-feeding free-swim dive at the adjacent Shark Wall. (Stuart Cove's runs two alternating site pairs: Shark Wall + The Arena, or Shark Wall North + The Runway — see the distinctness note under Additional Resources.) Per ScubaBoard trip reports re-checked today, the site sits over a largely barren sandy bottom near a few small sunken-ship reefs, not a coral reef proper. Caribbean reef sharks are the primary species, and Stuart Cove's own site description (re-verified 2026-07-17) puts the sharks routinely seen here at "5–6 foot" (roughly 1.5–1.8 m) individuals, with "dozens" present per session; Bluewater Dive Travel's operator profile gives a more specific figure of 30–40 sharks observed during feedings, which is consistent with "dozens." Depth is reported inconsistently across sources: Stuart Cove's own materials cite 45 feet (≈14 m) for the Shark Arena feeding site, while a third-party dive-blog re-check today (Scuba Hank NYC) gives 40–45 feet (12–14 m); both are noted here rather than picking one figure. Visibility and water temperature figures below reflect general Nassau conditions reported across sources rather than a site-specific measurement taken today.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 6–12 m |
+| Depth Range | 6–14 m (sources vary 35–45 ft at the feeding zone; widened from the previous 6–12 m to reflect sources found today) |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
-| Site Type | Reef |
+| Site Type | Reef (imperfect fit — see Marine Life/site-type note; bottom is mostly bare sand with a few small wreck-reefs nearby, not classic coral reef) |
 | Visibility | 20–30 m |
 | Current | Light |
 | Water Temp | 25–28°C |
 
 ## Marine Life
 
-Caribbean reef sharks (Carcharhinus perezi) are the primary attraction — Stuart Cove's describes them as "5–6 foot" individuals that approach divers within touching distance during the feeding dives, with dozens present per session. Nurse sharks rest on the sandy areas around the reef. The reef itself carries a healthy fish community including French angelfish, parrotfish, and blue tang. Southern stingrays are common on the surrounding sandy areas.
+Caribbean reef sharks (Carcharhinus perezi) are the confirmed, primary, site-specific attraction — Stuart Cove's own page (re-fetched 2026-07-17) describes them as "5–6 foot" individuals that approach divers within touching distance during the feeding dives, with "dozens" present per session (Bluewater Dive Travel's more specific figure: 30–40 sharks observed during feedings). A ScubaBoard trip report re-checked today for this dive independently corroborates high shark density ("this whole dive was sharks sharks and more sharks") and notes divers are briefed to keep GoPros and arms tucked in when sharks are close. Bahamas Tour Center's listing (re-checked today) also notes the species can reach up to 10 feet at the high end regionally, though the sharks typically encountered at this specific site are the 5–6 ft individuals per Stuart Cove's own description. **Marine-life audit note:** nurse sharks, French angelfish, parrotfish, blue tang, and southern stingrays — all present in the previous pass's text — were NOT confirmed at this specific site by any source re-checked today. They are plausible regional Bahamian sandy-reef fauna but are removed here as unconfirmed site-specific claims; the only site-specific marine life independently confirmed today is Caribbean reef sharks (heavy presence) and the "few small sunken ships" acting as an artificial reef nearby (ScubaBoard).
 
 ## Dive Profile
 
-Divers descend to the reef at 12 metres and form a semicircle or full circle around the feeding area. A divemaster in chainmail armour manages the feeding crate. Sharks approach from all directions within the arena. Divers kneel or crouch on the sandy areas at the reef edge for the duration of the feeding session (approximately 20–30 minutes). After feeding, divers can explore the surrounding reef before ascending.
+Divers descend to the sandy feeding area (reported 12–14 m) and form a semicircle on the bottom. Per Stuart Cove's own description (re-verified today), a professional divemaster controls shark behavior using a bait box and pole spear. (The previous pass's detail that the divemaster wears "chainmail armour" could not be confirmed by any source re-checked today and has been removed as unverified rather than repeated.) Sharks approach from multiple directions during the feeding. After feeding, divers can explore the surrounding area, including a few small sunken-ship reefs nearby (per ScubaBoard), before ascending.
 
 ## Entry and Exit
 

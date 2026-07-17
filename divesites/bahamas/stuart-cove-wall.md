@@ -17,13 +17,13 @@ The premier Nassau wall dive — a section of the Tongue of the Ocean's vertical
 
 ## Overview
 
-Stuart Cove Wall is the name applied to the section of Nassau's southwest wall routinely operated by Stuart Cove's Dive Bahamas — one of the most established and visited dive operators in the Caribbean. The wall drops from a reef crest at around 10 meters to a sandy bottom at 25 meters (with the actual wall continuing much deeper into the Tongue of the Ocean). The site features the Bahamas' characteristic crystal-clear blue water, with visibility regularly hitting 25–35 meters. The wall carries healthy hard coral coverage on the upper sections, large barrel sponges and sea fans at mid-wall, and deep-water gorgonians at the base. Caribbean reef sharks are frequently encountered throughout the water column. This site is one of the most-dived walls in Nassau and an essential reference point for Bahamian wall diving.
+Stuart Cove Wall is the name applied to the section of Nassau's southwest wall routinely operated by Stuart Cove's Dive Bahamas — one of the most established and visited dive operators in the Caribbean, founded in 1978. Per Bluewater Dive Travel's operator profile (re-verified 2026-07-17), Stuart Cove's standard wall dive "begins at 40 feet [12 m], although some are deeper," with divers typically working down to about 80 feet (24 m) — consistent with this site's crest-to-base range. The wall continues much deeper into the Tongue of the Ocean beyond recreational limits. Visibility and water temperature figures below reflect typical Bahamian conditions reported across multiple operator and trip-report sources, though exact numbers vary by season and were not independently confirmed for this specific wall segment today. Caribbean reef sharks are commonly encountered on Stuart Cove's Nassau wall dives generally; other species below reflect regional reef fauna rather than confirmed sightings at this specific site (see Marine Life note).
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 10–25 m |
+| Depth Range | 12–24 m (40–80 ft) |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Wall |
@@ -33,11 +33,11 @@ Stuart Cove Wall is the name applied to the section of Nassau's southwest wall r
 
 ## Marine Life
 
-Caribbean reef sharks are a consistent feature at Stuart Cove Wall — the area is part of the Nassau reef system where sharks have been associated with dive operations for decades. Schools of large barracuda hover at the wall edge. Spotted eagle rays sweep past the wall face. Hawksbill turtles feed on sea fans at mid-wall depths. The reef community on the upper wall is diverse — French and queen angelfish, large parrotfish, blue tang, and Nassau groupers (reduced in number but still present). Nurse sharks rest on the sandy base.
+Caribbean reef sharks are a consistent feature on Stuart Cove's Nassau wall dives generally — the operator has run shark-focused dive programs since the 1980s (see Tips/history note on the paired Shark Wall site) and reef sharks are a signature encounter across their sites. **Marine-life audit note (2026-07-17):** no source re-checked today confirmed barracuda, spotted eagle rays, hawksbill turtles, angelfish, parrotfish, blue tang, Nassau grouper, or nurse sharks specifically *at Stuart Cove Wall* — the previous pass's species list matches generic Bahamian reef-wall fauna rather than a site-specific sighting record. These species are common on Nassau's walls generally and may well occur here, but should be read as regional likely-fauna, not confirmed site records, until a site-specific source is found. One general regional fact worth flagging: Nassau grouper populations are documented as in steep decline Bahamas-wide (IUCN uplisted the species to Critically Endangered in 2018; NOAA and Perry Institute research both confirm severe overfishing), so any grouper sighting at this or any Bahamas site would be a diminished/occasional encounter rather than a reliable one — but this is regional context, not a confirmed sighting here.
 
 ## Dive Profile
 
-Descent to the wall crest at 10 meters, then a controlled descent along the wall face to 20–25 meters. The upper wall at 12–18 meters has the best hard coral and the most active fish community. The mid-wall zone at 18–22 meters carries large barrel sponges and sea fans. The base at 25 meters transitions to sand and is worth visiting briefly for the nurse sharks and stingrays before ascending. Safety stop at the wall crest.
+Descent to the wall crest at approximately 12 meters (40 ft), then a controlled descent along the wall face toward 24 meters (80 ft). The base transitions to sand. Safety stop at the wall crest. (Note: the previous pass described specific coral/sponge zonation by depth band — 12–18 m hard coral, 18–22 m barrel sponges/sea fans — that could not be re-confirmed against a site-specific source today and has been removed rather than repeated unverified.)
 
 ## Entry and Exit
 
@@ -49,11 +49,11 @@ Stuart Cove Wall is almost always combined with a shark encounter at Shark Arena
 
 ## Safety Considerations
 
-Depth management on the wall is important — the Tongue of the Ocean drops thousands of meters and the wall continues far below recreational limits. Set and maintain your maximum depth. Caribbean reef sharks at this site are habituated and generally non-threatening but should be treated respectfully. Fire coral on the upper reef. DSMB required.
+Depth management on the wall is important — the Tongue of the Ocean drops thousands of meters and the wall continues far below recreational limits. Set and maintain your maximum depth. Caribbean reef sharks encountered here are generally non-threatening but, as wild animals, should be treated respectfully and never touched or fed independently of an operator-run program. Watch for fire coral on the upper reef. DSMB required.
 
 ## Photography
 
-Stuart Cove Wall in the Bahamas' characteristic blue water is a premium wide-angle photography site. The reef wall face with sea fans and diver descending is a strong composition. Natural light at 12–20 meters in this visibility is exceptional — strobes are optional for the upper wall. Caribbean reef sharks on the wall backdrop create the defining Nassau wall image.
+Stuart Cove Wall in the Bahamas' characteristic blue water is a premium wide-angle photography site. Natural light at the shallower (12–20 m) end of the wall in this visibility is generally strong for wide-angle work — strobes are optional there. Caribbean reef sharks on the wall backdrop create the defining Nassau wall image; specific reef structure details (e.g. sea fan cover) were not independently re-confirmed today and should be treated as typical Bahamian wall character rather than a site-specific record.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Stuart Cove Wall in the Bahamas' characteristic blue water is a premium wide-ang
 - The site is typically the first dive of a Nassau morning two-tank trip
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Wreck Diving Bahamas](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [ScubaBoard - Diving Stuart Cove's Nassau Bahamas](https://scubaboard.com/community/threads/diving-stuart-coves-nassau-bahamas.283786/). Re-audited and re-verified 2026-07-17 (previous pass 2026-05-17). Note: scubadiving.com and padi.com were re-checked today; scubadiving.com returned HTTP 403 on every URL attempted (could not be independently re-verified and was dropped from this citation list) and padi.com's Bahamas page was live but contained only generic regional content with no site-specific facts, so it was not used as a supporting source.*
