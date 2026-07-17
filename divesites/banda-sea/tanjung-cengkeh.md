@@ -2,7 +2,7 @@
 name: Tanjung Cengkeh
 lat: -4.537
 lng: 129.912
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
 siteType: wall
@@ -23,7 +23,7 @@ Napoleon wrasse and bumphead parrotfish make regular appearances. The gorgonians
 
 ## Dive Profile
 
-Steep slope and wall from shallow to 35 m+. Mild to moderate currents. Water temperature approximately 28°C. Good visibility, typically 20–30 m.
+Steep slope and wall from shallow to 35 m+. Mild to moderate currents. Water temperature approximately 28°C. Good visibility, typically 20–30 m. Rated Advanced in line with the destination's remote, liveaboard-only character, though this is one of the calmer walls in the Banda Islands.
 
 ## Marine Life
 
@@ -48,4 +48,4 @@ Boat dive from liveaboard or Banda Neira day-trip vessel. Banda Besar is a short
 Well-suited to close-focus wide-angle work on the gorgonian fans. Napoleon wrasse encounters lend themselves to wide-angle fish portraits. Clear water improves ambient-light compositions.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago). Last updated 2026-05-17.*
+*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago). Last updated 2026-07-17.*
