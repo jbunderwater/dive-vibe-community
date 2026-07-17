@@ -49,4 +49,4 @@ No site-specific marine life data available. The scattered wreck structure provi
 - The wreck is heavily broken up after 115+ years; remains scattered at 18 m
 
 ---
-*Sources: [Wikipedia – RMS Slavonia](https://en.wikipedia.org/wiki/RMS_Slavonia), [GG Archives – SS Slavonia](https://www.ggarchives.com/OceanTravel/ImmigrantShips/Slavonia.html), [dive.visitazores.com – Flores](https://dive.visitazores.com/en/islands/flores). Last updated 2026-05-17.*
+*Sources: [Wikipedia – RMS Slavonia](https://en.wikipedia.org/wiki/RMS_Slavonia), [GG Archives – SS Slavonia](https://www.ggarchives.com/OceanTravel/ImmigrantShips/Slavonia.html), [dive.visitazores.com – Flores](https://dive.visitazores.com/en/islands/flores). Last updated 2026-07-17.*
