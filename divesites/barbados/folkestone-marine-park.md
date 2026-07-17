@@ -56,4 +56,4 @@ The park sees significant boat, water taxi, and submarine traffic. Deploy SMB or
 Folkestone's shallow, clear water and habituated turtle population make it one of Barbados's best natural-light shore photography sites. Turtle portraits in the seagrass and reef zones in morning light are the defining images. Crinoid close-ups and school-of-fish compositions over the coral also work well.
 
 ---
-*Sources: [Folkestone Marine Park](https://folkestonemarinepark.com/activities/), [Barbados.org](https://barbados.org/folkstone.htm), [Scubaverse](https://scubaverse.com/dive-guide/caribbean/barbados/). Last updated 2026-05-17.*
+*Sources: [Folkestone Marine Park](https://folkestonemarinepark.com/activities/), [Barbados.org](https://barbados.org/folkstone.htm), [Scubaverse](https://scubaverse.com/dive-guide/caribbean/barbados/). Last updated 2026-07-17.*

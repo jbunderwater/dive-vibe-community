@@ -50,4 +50,4 @@ Best dived on calm days when currents are manageable. The sand corridors are the
 Currents can be strong and unpredictable at this exposed northern site. Depth reaches recreational limits on the deeper sections — monitor air supply carefully. Always carry an SMB for drift scenarios.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners), [Barbados.org](https://barbados.org/divesite.htm). Re-confirmed on re-audit — all three sources independently list "Maycocks Bay." Last updated 2026-07-17.*

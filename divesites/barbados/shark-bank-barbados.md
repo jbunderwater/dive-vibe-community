@@ -56,4 +56,4 @@ Maximum depth of 43–44 metres exceeds recreational limits for most standard ce
 Shark Bank offers open-ocean pelagic photography unavailable at Barbados's shallower inshore sites. Schooling jack formations against open-water blue, eagle ray encounters, and deep-reef barrel sponge compositions are the primary subjects. The exceptional offshore clarity improves colour reproduction at depth.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Villa Sunnyside Barbados](https://villasunnysidebarbados.com/scuba-diving-in-barbados/). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://divebarbadosblue.com/scuba-diving/barbados-dive-sites/reef-diving), [Villa Sunnyside Barbados](https://villasunnysidebarbados.com/scuba-diving-in-barbados/). Last updated 2026-07-17. (Corrected the Barbados Blue link on re-audit — the "about-us" dive-sites page does not list Shark Bank; the reef-diving subpage does.)*

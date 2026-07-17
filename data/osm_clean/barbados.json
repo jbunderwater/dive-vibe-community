@@ -18,9 +18,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "caribbean-beat.com,scubaverse.com,divehightide.com,barbadosblue.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "caribbean-beat.com,scubaverse.com,divehightide.com,barbadosblue.com,caribbeanwarehouse.co.uk,insandoutsbarbados.com,caribdiveguide.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: corrected factual error \u2014 markdown previously attributed the 1978 deliberate sinking to a 'US Navy demolition team'; cross-checked against insandoutsbarbados.com and caribdiveguide.com (both independent of the original source set), which agree the sinking was carried out by the US Army Corps of Engineers using ~200 lbs of explosives from a Puerto Rico-based team. Markdown corrected and sources added."
     }
   },
   {
@@ -36,9 +36,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "barbadossnorkelingtours.org,wanderlusters.com,caribbean-beat.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "barbadossnorkelingtours.org,wanderlusters.com,caribbean-beat.com,caribbeanwarehouse.co.uk,divebds.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: 70ft length and 1919 scuttling date re-confirmed across 4 independent sources (added The Dive Shop Ltd). No corrections needed."
     }
   },
   {
@@ -54,16 +54,16 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,wanderlusters.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,wanderlusters.com,divebds.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: ferro-cement construction, Jan 1986 sinking date, and 12m depth re-confirmed; added The Dive Shop Ltd as a further independent source. No corrections needed."
     }
   },
   {
     "name": "Pamir Wreck",
     "lat": 13.1,
     "lon": -59.615,
-    "depth": 15,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -73,8 +73,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "caribbean-beat.com,divehightide.com,scubadivingearth.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: Caribbean Beat and Dive Hightide both give a max depth of 55-60ft (17-18m), deeper than the previously recorded 15m \u2014 depth field widened to 18m max and markdown range updated accordingly. Length re-confirmed at approx. 160-165ft across sources."
     }
   },
   {
@@ -90,9 +90,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "caribbean-beat.com,divehightide.com,caribbeanwarehouse.co.uk,numa.net",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "caribbean-beat.com,divehightide.com,caribbeanwarehouse.co.uk,divebds.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: 170ft length, 2 July 1985 scuttling date, and three-piece hull break-up now confirmed by three independent dive-operator sources (Caribbean Beat, Dive Hightide, The Dive Shop Ltd). Dropped numa.net as a validation source \u2014 it disagrees on length (100ft) and date (1983) and is not corroborated by the more detailed, consistent operator accounts; this is noted as a minor source conflict in the markdown."
     }
   },
   {
@@ -108,9 +108,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "divehightide.com,scubadivingearth.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,scubadivingearth.com,wikivoyage.org",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: found the previously-cited barbados.org page does not actually mention 'Bright Ledge' \u2014 replaced with Wikivoyage's Diving in Barbados article, which independently lists the site under the Speightstown-area reefs. No factual corrections needed otherwise."
     }
   },
   {
@@ -127,8 +127,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: all three sources re-confirmed to independently name 'Dottins.' No corrections needed."
     }
   },
   {
@@ -145,8 +145,8 @@
       "addedBy": "fill_caribbean",
       "validated": "true",
       "validation_source": "folkestonemarinepark.com,barbados.org,scubaverse.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: no new issues found, sources and factual claims re-confirmed."
     }
   },
   {
@@ -162,9 +162,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "divehightide.com,barbados.org,divebarbadosblue.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,barbados.org,barbadosblue.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: corrected the Barbados Blue citation URL to the reef-diving subpage that actually lists 'Bell Buoy' (the previously linked about-us page does not). All three sources re-confirmed."
     }
   },
   {
@@ -180,9 +180,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "divehightide.com,divebarbadosblue.com,villasunnysidebarbados.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,barbadosblue.com,villasunnysidebarbados.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: corrected the Barbados Blue citation URL to the reef-diving subpage that actually lists 'Shark Bank' (the previously linked about-us page does not). Depth and current character re-confirmed."
     }
   },
   {
@@ -198,9 +198,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": "Re-audited 2026-05-24. Only 2 source domains found (divebarbadosblue.com, barbados.org) - insufficient for full 3-source validation. Shallow fringing reef at Coconut Court Hotel, Christ Church confirmed by Barbados dive operators. Marked validated based on 2 operator sources."
+      "validation_source": "barbados.org",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: found the previously-cited divebarbadosblue.com dive-sites page does not actually mention 'Coconut Court' \u2014 that citation was removed as unsupported (hallucinated attribution from a prior pass). Only one confirmed site-specific source remains (barbados.org). A deeper, boat-accessible south-coast site called 'Carlenes' is advertised as being off Coconut Court but its depth/profile do not match this shallow shore-dive record, so it was not merged in. UNRESOLVED for the 3-source bar \u2014 left validated as-is per instructions, flagged for future research."
     }
   },
   {
@@ -222,9 +222,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk,divebds.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: 110ft length, 8 June 1996 sinking date, and contraband-seizure cause re-confirmed across 5 sources. One source (Wanderlusters) specifies the contraband as marijuana, but since no second source corroborates the specific drug type, the markdown intentionally keeps the generic 'contraband' wording rather than naming a substance."
     }
   },
   {
@@ -247,9 +247,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "barbadossnorkelingtours.org,divehightide.com,divebarbadosblue.com,caribbeanwarehouse.co.uk,divebds.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: 120ft length independently confirmed via caribbeanwarehouse.co.uk; 19 May 2002 sinking date and 11m depth re-confirmed. No corrections needed."
     }
   },
   {
@@ -269,9 +269,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divehightide.com,divebarbadosblue.com,wanderlusters.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,barbadosblue.com,wanderlusters.com,divebds.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: on this pass, Barbados Blue's shipwreck-diving page and The Dive Shop Ltd's site list both group 'Barge' with the other Carlisle Bay Marine Park wrecks (Berwyn, Ce-Trek, Eillon, Bajan Queen, Cornwallis) at a matching ~3-3.6m depth. This conflicts with the recorded coordinates, which sit well north of Carlisle Bay near Holetown/Folkestone. Flagged as an unresolved location conflict in the markdown rather than silently relocating the site \u2014 recommend a coordinate review."
     }
   },
   {
@@ -288,8 +288,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,scubadivingearth.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: all three sources re-confirmed to independently name 'Maycocks Bay.' No corrections needed."
     }
   },
   {
@@ -305,9 +305,9 @@
       "source": "curated",
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
-      "validation_source": "divehightide.com,barbados.org,scubadivingearth.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,wikivoyage.org,scubadivingearth.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: found the previously-cited barbados.org page does not actually mention 'Spawnee' \u2014 replaced with Wikivoyage's Diving in Barbados article, which independently lists the site under the Speightstown-area reefs. No factual corrections needed otherwise."
     }
   },
   {
@@ -323,9 +323,9 @@
       "source": "curated",
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
-      "validation_source": "divehightide.com,divebarbadosblue.com,activecaribbeantravel.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,activecaribbeantravel.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: found the previously-cited divebarbadosblue.com dive-sites pages do not actually mention 'Tropicana' \u2014 that citation was removed as unsupported rather than padded. Down to 2 confirmed independent sources; UNRESOLVED for the 3-source bar, left validated as-is per instructions, flagged for future research. Nurse shark sighting claim independently corroborated via web search but no third stable citable source found."
     }
   },
   {
@@ -341,9 +341,9 @@
       "source": "curated",
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
-      "validation_source": "divehightide.com,divebarbadosblue.com,activecaribbeantravel.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,activecaribbeantravel.com",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: found the previously-cited divebarbadosblue.com dive-sites pages do not actually mention 'Whitegates' \u2014 that citation was removed as unsupported rather than padded. Down to 2 confirmed independent sources; UNRESOLVED for the 3-source bar, left validated as-is per instructions, flagged for future research."
     }
   },
   {
@@ -359,9 +359,9 @@
       "source": "curated",
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
-      "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,wikivoyage.org,barbados.org",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: found the previously-cited divebarbadosblue.com dive-sites pages do not actually mention 'Fisherman's' \u2014 replaced with Wikivoyage's Diving in Barbados article, which independently lists the site in the Holetown-area reef group."
     }
   },
   {
@@ -377,9 +377,9 @@
       "source": "curated",
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
-      "validation_source": "divehightide.com,divebarbadosblue.com,barbados.org",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "validation_source": "divehightide.com,divebarbadosblue.com,wikivoyage.org,barbados.org",
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: re-confirmed Barbados Blue lists 'Sandy Lane' (matching name); added Wikivoyage as a further independent source listing the same site in the Holetown-area reef group."
     }
   },
   {
@@ -396,8 +396,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "divehightide.com,activecaribbeantravel.com,scubadivingearth.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: Dive Hightide lists this site as 'Barracuda Reef' off Needhams Point (fuzzy name match, same description/location) \u2014 noted explicitly in the markdown. No corrections needed."
     }
   },
   {
@@ -414,8 +414,8 @@
       "addedBy": "scubadiving_bb_corroboration",
       "validated": "true",
       "validation_source": "caribbean-beat.com,divehightide.com,insandoutsbarbados.com",
-      "last_qa_date": "2026-05-24",
-      "qa_notes": " Re-audited 2026-05-24: no new issues found, validation_source and factual claims confirmed."
+      "last_qa_date": "2026-07-17",
+      "qa_notes": "Re-audited 2026-07-17: strengthened the sinking-date conflict resolution \u2014 Caribbean Beat and Dive Hightide now both independently confirm 1974 for Lord Combermere, superseding an earlier, unverifiable '1961' reference; Dive Hightide separately dates the sister ship Lord Willoughby's sinking to 1976. Depth (50ft/15m) re-confirmed by Dive Hightide."
     }
   }
 ]
