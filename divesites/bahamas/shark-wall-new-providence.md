@@ -5,7 +5,7 @@ lng: -77.4917
 difficulty: Intermediate
 maxDepth: 12
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -53,16 +53,17 @@ Shark Wall is typically dived as the first, non-feeding tank of Stuart Cove's Sh
 
 ## Safety Considerations
 
-Follow all briefings from the operator. Keep hands close to the body throughout. Do not reach toward sharks or feeding positions. Caribbean reef sharks at this site are habituated but remain wild animals — unexpected movements or equipment issues can cause unpredictable behaviour. Always dive with the operator's divemaster.
+Follow all briefings from the operator. Even though this is a non-feeding dive, sharks are present in numbers and this should never be treated as a completely safe or risk-free encounter — keep hands close to the body throughout and do not reach toward sharks. Caribbean reef sharks at this site are accustomed to divers but remain wild animals — unexpected movements or equipment issues can cause unpredictable behaviour. Always dive with the operator's divemaster. Note the unresolved depth discrepancy above (10–14 m vs. 18–30 m depending on source) — confirm actual planned depth with the operator before the dive, as it affects gas planning and no-decompression limits.
 
 ## Photography
 
-Shark Wall is ideal for entry-level shark photography — multiple sharks, shallow depth, good light, and predictable behaviour. Wide-angle or fisheye captures multiple sharks with the wall as backdrop. The 6–10 meter depth range provides excellent natural light for natural-colour photography without strobes. Time the shutter for moments when sharks are oriented toward the camera for impact.
+Shark Wall is a good entry-level shark photography dive — sharks accompanying divers along the wall, generally good light, and predictable behaviour (no feeding chaos, unlike The Arena). Wide-angle or fisheye captures sharks with the wall as backdrop. If the shallower end of the reported depth range (10–14 m) applies, natural light without strobes should be workable; this could not be confirmed against the deeper (18–30 m) figure reported in one trip report today, where more artificial light would likely be needed.
 
 ## Additional Resources
 
-- Stuart Cove's Dive Bahamas: offers Shark Wall as part of standard Nassau dive packages
-- Nassau day trips typically include Stuart Cove Wall and Shark Wall as a combined experience
+- Stuart Cove's Dive Bahamas: offers Shark Wall as the non-feeding half of the standard Shark Adventure package
+- Nassau day trips typically pair Shark Wall with a feeding dive at The Arena (or Shark Wall North with The Runway)
+- See `shark-arena-nassau.md` for the full distinctness finding: Shark Wall and Shark Arena are legitimately two different named sites/dives in Stuart Cove's own program (free-swim vs. feeding), not a data-duplication error — though this file's previous description had incorrectly copied Arena's feeding-dive content onto Shark Wall, which this re-audit has corrected
 
 ---
-*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-05-17.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Stuart Cove's Dive Bahamas - Shark Adventure](https://stuartcove.com/shark-diving/shark-adventure/), [Stuart Cove's Dive Bahamas - Sharks (company history)](https://stuartcove.com/underwater-hollywood/sharks/), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [Bahamas Tour Center - Stuart Cove Shark Adventure](https://www.bahamastourcenter.com/stuart-cove-shark-adventure-dive/), [ScubaBoard - Diving Stuart Cove's Nassau Bahamas](https://scubaboard.com/community/threads/diving-stuart-coves-nassau-bahamas.283786/). Re-audited and re-verified 2026-07-17 (previous pass 2026-05-17, which mischaracterized this site as a feeding dive — corrected today). Note: scubadiving.com and padi.com were re-checked today; scubadiving.com returned HTTP 403 on every URL attempted (could not be independently re-verified and was dropped from this citation list) and padi.com's Bahamas page was live but generic only, with no site-specific facts, so it was not used as a supporting source.*

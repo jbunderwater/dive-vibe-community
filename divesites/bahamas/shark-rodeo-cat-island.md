@@ -17,19 +17,23 @@ Cat Island's famous oceanic whitetip shark dive — one of the few places in the
 
 ## Overview
 
-The Shark Rodeo at Cat Island is one of the most significant shark diving experiences in the Bahamas — primarily because of the species involved. Oceanic whitetip sharks (Carcharhinus longimanus) were once among the most abundant large sharks in the open ocean but have been devastated by longline fishing globally. Cat Island's offshore waters remain one of the last reliable places on Earth where divers can encounter them predictably. The oceanic whitetips arrive at Cat Island in large numbers in April and May, following the tuna migration through the area; they are the primary draw for dedicated expeditions. Caribbean reef sharks are present throughout the year. The site operates in shallow water (no more than 12 metres depth) over a sandy bottom near the island's continental shelf edge, where Cat Island drops to depths of nearly 1,000 metres within a short distance of shore. The clear Bahamian water delivers 25–35 metres visibility in typical conditions.
+The Shark Rodeo at Cat Island is one of the most significant shark diving experiences in the Bahamas — primarily because of the species involved. Oceanic whitetip sharks (Carcharhinus longimanus) were once among the most abundant large sharks in the open ocean but have been devastated by longline fishing globally; multiple operators describe Cat Island as one of the last reliable places on Earth to encounter them. **This re-audit found a significant mischaracterization in the previous pass: this is not a shallow, stationary, sandy-bottom dive.** It is an open-water "blue water" drift dive — divers enter open ocean off Cat Island's eastern shelf edge, near where the Atlantic meets the Antilles Current, with no fixed bottom in sight. Epic Diving describes it as "drifting over bottomless ocean"; Southern Boating & Yachting independently calls it an "open-ocean drift dive [requiring] advanced buoyancy skills, unlike the shallow stationary dives at other Bahamian locations"; X-Ray Mag reports divers' only point of reference is a bait crate suspended at roughly 10 metres, with the sharks themselves capable of diving to around 1,000 m. Southern Boating separately describes Cat Island's wall system beginning around 12 m (40 ft) at its shallowest and reaching roughly 914 m (3,000 ft) across more than 20 miles of wall; Scubaverse independently reports the dive site itself is about a 10-minute boat ride from shore. No single source gives one precise "bottom depth" for the shark encounter, since there is no bottom in view during the dive — the 12 m figure in this record should be read as an operating/reference depth, not a seafloor depth.
+
+Sources also disagree on the exact season, more than the previous text acknowledged: Epic Diving's own site states May–June; X-Ray Mag reports "end of March to mid-June"; Southern Boating and Scubaverse describe a broader window extending from March/April through June/July; and multiple sources agree that whitetip numbers peak around April–May, coinciding with the tuna migration. The species is not present here year-round. The primary operator is Epic Diving, run by Vincent and Debra Canabal aboard the M/V Thresher — based at **Greenwood Beach Resort**, not Hawk's Nest Resort as the previous version of this page stated (see Entry and Exit below for the source of that correction).
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 4–8 m |
-| Difficulty | Intermediate |
+| Depth Range | ~10–12 m operating/reference depth in open blue water — not a fixed-bottom dive (previously listed as 4–8 m, which no source checked today supports; see Overview) |
+| Difficulty | Intermediate in this database record — re-audit found this is likely too low; see note below |
 | Entry Type | Boat |
-| Site Type | Reef |
+| Site Type | Reef in this database record — re-audit found this is inaccurate; see note below |
 | Visibility | 25–35 m |
-| Current | Light |
-| Water Temp | 25–28°C |
+| Current | Light (sources describe drift conditions in open water; "light" may understate the current experienced during a blue-water drift dive — not independently confirmed today) |
+| Water Temp | 25–28°C (not independently re-confirmed today; left as previously recorded, plausible for the Bahamas) |
+
+**Classification note (added during 2026-07-17 re-audit):** Multiple independently re-verified sources (Southern Boating, X-Ray Mag, and the general-search corroboration of operator requirements) describe this as an open-ocean/blue-water drift dive requiring Advanced certification, explicitly distinguished by operators from "shallow stationary" reef dives elsewhere in the Bahamas. This database record currently lists Difficulty: Intermediate and Site Type: Reef, both of which this audit recommends changing — to Advanced and Drift, respectively — subject to a human updating `data/osm_clean/bahamas.json`. The table above intentionally still reflects the current database values so this file does not silently diverge from the JSON record; the recommendation is captured here and in the audit report instead.
 
 ## Marine Life
 
