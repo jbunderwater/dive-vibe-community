@@ -23,9 +23,9 @@ Sources disagree on the exact distance from Grand Bahama: PADI states "roughly 2
 
 - **Location**: Northwest Bahamas, Grand Bahama offshore
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (imprecise — the site is a sand flat with patch reef, not a classic reef; no better-fitting category exists among this database's valid site types)
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 9 meters (sources converge on a 6–10 m operating range; this value is consistent with that range)
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 25–40 metres
 - **Current**: Light
 - **Best Time**: October through May is the broadly agreed window (Epic Diving/Scuba Adventures cite October–June); ScubaBoard divers identify February–April as best for combined tiger shark + great hammerhead sightings; great hammerheads most reliable December–March, per Bluewater Dive Travel and Dive The World

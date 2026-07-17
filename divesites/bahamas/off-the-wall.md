@@ -24,7 +24,7 @@ Also referenced as the CEI Offshore Cage site, Off The Wall is located at the ed
 - **Location**: Cape Eleuthera, southern Eleuthera, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Maximum Depth**: 30 meters (allstarliveaboards.com's narrative description supports depths to ~29m off the cage; zentacle.com's structured field lists only 15m — see conflict note above)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate; Cape Eleuthera is known for current-influenced conditions
 - **Best Time**: November to May

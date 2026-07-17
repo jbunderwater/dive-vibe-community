@@ -2,7 +2,7 @@
 name: Conception Wall
 lat: 23.85
 lng: -75.1167
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 40
 entryType: boat
 siteType: wall

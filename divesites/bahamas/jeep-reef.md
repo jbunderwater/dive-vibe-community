@@ -26,7 +26,7 @@ The site takes its name from a coral-encrusted Jeep that lies on the reef — re
 - **Location**: Exuma Cays Land and Sea Park, Bahamas (near Pimlico Cay — see location note above)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Maximum Depth**: 15 meters (reef top ~10-11 m / 35 ft, sloping to ~15 m / 50 ft before the drop-off into Exuma Sound — confirmed today via dive-the-world.com and februarypoint.com)
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate to strong at tidal change — dive at slack tide
 - **Best Time**: November to May

@@ -2,8 +2,8 @@
 name: Curtiss C-46A-45-CU Commando
 lat: 24.5944614
 lng: -76.8097669
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 3
 entryType: boat
 siteType: wreck
 ref: null

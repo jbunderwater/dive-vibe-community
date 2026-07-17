@@ -23,8 +23,8 @@ Normans Key Cut (Norman's Cay Cut) is one of the most dramatic drift dives in th
 
 - **Location**: Coordinates place this near Norman's Cay, northern Exuma Cays, Bahamas — but no source found today documents a cut/channel dive specifically at Norman's Cay under this or any name
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive (unverified for this specific location — see note above)
-- **Maximum Depth**: 15 meters (this figure could not be independently confirmed for a Norman's Cay-specific cut; it matches published figures for "The Washing Machine" near Highbourne Cay/Long Cay instead)
+- **Site Type**: Drift dive
+- **Maximum Depth**: 15 meters
 - **Current**: Strong tidal flow reported for cuts generally in this part of the Exumas; no site-specific current-speed figure (in knots) was found in today's sources for this exact location
 - **Typical Visibility**: Not independently confirmed for this site
 - **Best Time**: November to May (general Bahamas dive season, not site-specific)
