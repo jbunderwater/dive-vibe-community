@@ -21,7 +21,7 @@ Dom João de Castro Bank is the only seamount in the Atlantic Ocean with energet
 
 A fumarole field of approximately 1,600 m² occupies the northwestern sector of the caldera (16–45 m depth), releasing gas and warm fluid visible as bubbles from the surface. Scientific literature identifies two hydrothermal zones: a white zone with high hydrogen sulphide and methane content, and a yellow zone characterised by elevated iron and manganese. Reported temperatures vary by source: one peer-reviewed study reports the white zone at ~37°C and the yellow zone at ~60°C; another study reports higher values of ~39°C (bleached areas) and ~83°C (yellowish areas). The discrepancy likely reflects measurement methodology and temporal variability.
 
-An eruption in December 1720 briefly created an island — locally called 'Ilha Nova' (New Island) — approximately 1.5 km long and 250 m high, which marine erosion destroyed within two years. Additional seismic activity was recorded in 1997. The 2.5–3 hour boat ride from Pico or Faial makes this an expedition dive.
+An eruption in December 1720 briefly created an island — locally called 'Ilha Nova' (New Island) — approximately 1.5 km long and 250 m high, which marine erosion destroyed within two years. Additional seismic activity was recorded in 1997. The site sits roughly equidistant between São Miguel and Terceira; boat transit takes 110–160 minutes depending on departure port — from Praia da Vitória or Angra do Heroísmo on Terceira, or from Ponta Delgada on São Miguel — making this an expedition dive.
 
 ## Site Information
 
@@ -43,8 +43,8 @@ Wahoos, yellowmouth barracuda, Atlantic bonito, Almaco jacks, Bermuda chubs, Spa
 - The only shallow-water hydrothermal seamount in the Atlantic
 - Two hydrothermal zones with visually distinct colours — white (high H₂S) and yellow (high Fe and Mn) — approximately 50 m apart; temperatures reported at 37–83°C (sources vary)
 - Protected Marine Area — no anchoring; mooring buoy required
-- 2.5–3 hour boat ride from Pico or Faial — true expedition diving; weather-dependent
+- 110–160 minute boat ride from Terceira (Praia da Vitória or Angra do Heroísmo) or São Miguel (Ponta Delgada) — true expedition diving; weather-dependent
 - The caldera erupted in 1720 and briefly formed a visible island
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/banco-d-joao-de-castro), [Wikipedia – Dom João de Castro Bank](https://en.wikipedia.org/wiki/Dom_Jo%C3%A3o_de_Castro_Bank), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/banco-dom-joao-de-castro-89.html), [Santos et al. (2010), Oceanography](https://tos.org/oceanography/assets/docs/23-1_santos1.pdf). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/banco-d-joao-de-castro), [Wikipedia – Dom João de Castro Bank](https://en.wikipedia.org/wiki/Dom_Jo%C3%A3o_de_Castro_Bank), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/banco-dom-joao-de-castro-89.html), [Santos et al. (2010), Oceanography](https://tos.org/oceanography/assets/docs/23-1_santos1.pdf). Last updated 2026-07-17.*

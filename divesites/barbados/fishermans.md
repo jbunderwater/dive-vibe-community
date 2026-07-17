@@ -17,7 +17,7 @@ A sandy bottom dive with scattered coral heads between Holetown and the Stavroni
 
 ## Overview
 
-Fisherman's is located on the west coast between Holetown and the Stavronikita wreck site. It provides a contrast to Barbados's typical barrier reef dives — the bottom is primarily sandy with isolated coral heads rather than continuous reef. This open topography makes it an effective site for spotting rays and bottom-dwelling species. Barbados Blue and Dive Hightide both include it in west coast dive itineraries. Multiple operators (Reefers & Wreckers, Barbados Blue) pair it with deeper reef or wreck sites for two-tank trips. The relaxed depth and calm conditions make it suitable for all experience levels. Visibility is 15–25 metres. Water temperature is 26–28°C.
+Fisherman's is located on the west coast between Holetown and the Stavronikita wreck site. It provides a contrast to Barbados's typical barrier reef dives — the bottom is primarily sandy with isolated coral heads rather than continuous reef. This open topography makes it an effective site for spotting rays and bottom-dwelling species. Barbados Blue and Dive Hightide both include it in west coast dive itineraries. Multiple operators pair it with deeper reef or wreck sites for two-tank trips. Wikivoyage's regional dive-site directory independently lists "Fisherman's" as one of the reef sites on the stretch of coast running west to Holetown, corroborating both its existence and general location. (On re-audit, the Barbados Blue dive-site page previously cited here does not actually name this site, so that citation has been replaced.) The relaxed depth and calm conditions make it suitable for all experience levels. Visibility is 15–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 - **Location**: West coast, between Holetown and the Stavronikita wreck area
@@ -50,4 +50,4 @@ Scan the sandy areas carefully for camouflaged peacock flounders and resting sti
 One of Barbados's most relaxed dive sites. Light currents and moderate depth make it very manageable. Standard boat dive safety applies.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Wikivoyage](https://en.wikivoyage.org/wiki/Diving_in_Barbados), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-07-17.*

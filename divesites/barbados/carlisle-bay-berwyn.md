@@ -56,4 +56,4 @@ Very forgiving at 7 metres. Standard shore diving precautions apply. Boat traffi
 The Berwyn in ambient natural light is an accessible introduction to wreck photography. The heavily encrusted hull, turtle portraits over the wreck, and close-up coral and sponge detail all work well without strobes at this depth.
 
 ---
-*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/), [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/). Last updated 2026-05-17.*
+*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Wanderlusters](https://wanderlusters.com/barbados-best-wreck-dives-diving-carlisle-bay/), [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [The Dive Shop Ltd](http://www.divebds.com/divesites.html), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/). Last updated 2026-07-17.*

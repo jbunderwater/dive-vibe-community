@@ -17,7 +17,7 @@ Off Cape Eleuthera is a wall and reef dive site along the southwestern coast of 
 
 ## Overview
 
-Cape Eleuthera's leeward coast sits along the Exuma Sound, a body of water reaching depths of 4,000-5,000 feet within one mile of shore. The shelf edge here creates excellent wall diving within recreational depth limits. The dive area features thriving coral reefs on the wall top, dramatic drop-offs, swim-throughs in the reef structure, and a habitat productive enough to support regular reef shark sightings. The Dive Shop at Cape Eleuthera Resort describes its local sites as including coral nurseries, swim-throughs, and walls — all accessible within 7 minutes of the marina.
+Cape Eleuthera's leeward coast sits along the Exuma Sound. Today's re-audit found consistent, independently-sourced figures for the wall's scale: caribjournal.com (Nov 2025) and capeeleuthera.com both describe a roughly 25-mile-long wall dropping to over 3,000 feet, matching the figure already used here. The shelf edge creates excellent wall diving within recreational depth limits. The dive area features thriving coral reefs on the wall top, dramatic drop-offs, and swim-throughs in the reef structure; capeeleuthera.com names specific signature sites along this system, including "Cut N' Run" (a smuggler's-plane wreck on a sand-and-coral plateau at the drop-off) and "Shark Wall" (frequent reef shark sightings), and dive-the-world.com separately names "Split Coral Head" (55ft/16m, a shark-feed site), "Cut Through City" (exits at 90ft/27m — matching this entry's 27m depth), "Monolith" (16-30m), "Cave Rock" (15m), and "SeaStation" (20-30m) as distinct named sites along the same wall system. "Off Cape Eleuthera" does not correspond by name to any one of these; it most likely refers generically to the same wall system rather than one specific named/branded site — worth noting for anyone trying to match this entry to an operator's dive-briefing sheet. **Difficulty conflict:** dive-the-world.com's guide states advanced divers are the primary audience for this wall system as a whole and that its sites require strong buoyancy control, which sits in tension with the Intermediate rating carried in our data; treating this as "Intermediate to Advanced" is more defensible than a flat Intermediate label given the sources.
 
 ## Site Information
 
@@ -25,13 +25,13 @@ Cape Eleuthera's leeward coast sits along the Exuma Sound, a body of water reach
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-30 meters
+- **Typical Visibility**: 20-30 meters (dive-the-world.com cites 80-100ft/24-30m in the dry season)
 - **Current**: Moderate to strong — Cape Eleuthera is known for challenging current conditions
 - **Best Time**: November to May
 
 ## Marine Life
 
-Reef sharks are commonly encountered along Cape Eleuthera's wall sites. Sea turtles, eagle rays, grouper, barracuda, and large schools of reef fish are typical. The wall face and reef top support diverse coral and sponge communities. The proximity to deep water means pelagic species occasionally move through.
+Reef sharks are commonly and consistently encountered along Cape Eleuthera's wall sites — confirmed by capeeleuthera.com ("Shark Wall," the Eleuthera Shark Dive) and by scubadiving.com, which describes Caribbean reef sharks converging during a chummed dive at "Split Coral Head." scubadiving.com additionally notes "Caribbean reef, lemon and nurse sharks are common in this area of the Bahamas" — a regional statement, not a claim specific to this exact entry's coordinates. Sea turtles and rays are confirmed regionally by capeeleuthera.com. dive-the-world.com adds site-specific confirmations elsewhere on the same wall system: silversides, black jacks, stingrays, and occasional hammerheads at Cave Rock; garden eels, banded coral shrimp, and moray eels at Monolith; loggerhead turtles and macro life (neck crabs) at SeaStation. None of these individual sightings can be pinned to the exact "Off Cape Eleuthera" coordinates specifically, since that name doesn't match a single named site in operator literature — treat the marine life list as reef-system-wide rather than site-pinpoint-confirmed.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Boat dive only. The Dive Shop at Cape Eleuthera Resort operates from the Cape El
 The deep drop-off makes depth monitoring critical. Advanced current conditions are possible on exposed sections of the wall. Complete a proper safety stop and carry an SMB. Advanced certification is recommended for divers planning to descend beyond 20 meters on the wall.
 
 ---
-*Sources: [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/), [Scuba Diving Magazine - Eleuthera and Exuma Cays Liveaboard](https://www.scubadiving.com/article/other/mild-and-wild-exploring-bahamas-eleuthera-and-exuma), [Dive the World - Eleuthera Bahamas](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*
+*Sources: [The Dive Shop at Cape Eleuthera](https://capeeleuthera.com/activities/the-dive-shop/), [Scuba Diving Magazine - Eleuthera and Exuma Cays Liveaboard](https://www.scubadiving.com/article/other/mild-and-wild-exploring-bahamas-eleuthera-and-exuma) (direct fetch blocked with HTTP 403 today; content re-verified via search-engine cached excerpt instead), [Dive the World - Eleuthera Diving Guide](https://www.dive-the-world.com/posts/eleuthera/eleuthera-diving-guide-premier-dive-sites-bahamas.php), [Caribbean Journal - Cape Eleuthera Dive Resort](https://www.caribjournal.com/2025/11/09/caribbean-island-dive-resort-bahamas/). Last updated 2026-07-17.*

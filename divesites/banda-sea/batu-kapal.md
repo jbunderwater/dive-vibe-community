@@ -17,7 +17,7 @@ Batu Kapal ("Boat Rock" or "Ship Rock") is a pinnacle dive site north of Pulau P
 
 ## Overview
 
-The site's signature feature is a straight, spacious 15-metre-long swim-through at depth, its walls lined with gorgonians and sponges; it exits onto a wall covered in large sea fans and massive barrel sponges. The pinnacle plateau above the swim-through is covered in pyramid butterflyfish, red-tooth triggerfish, and dense fusilier schools. Strong, shifting currents concentrate large fish: napoleon wrasse ride the current above the plateau, and bumphead parrotfish, eagle rays, and turtles are regularly reported.
+One operator (Merapi Tours) describes a roughly 15-metre-long swim-through lined with gorgonians at the site; this feature is not corroborated by the other sources consulted, so it should be treated as a single-source report rather than confirmed fact. What is consistently reported across sources is a series of pinnacles draped in orange gorgonians, barrel sponges, and deep-purple ellisella whip coral fans. Strong, shifting currents concentrate fish life on the pinnacle tops and flanks.
 
 Visibility at Batu Kapal is exceptional — sources report 40–50 m on good days, particularly between February and May. Strong and unpredictable currents mean diving is impossible at certain tidal states, and the site demands advanced diving skills.
 
@@ -27,12 +27,14 @@ Reef flat and plateau from 5 m, pinnacles at 12 m and 15 m dropping beyond 50 m.
 
 ## Marine Life
 
-- Napoleon wrasse and bumphead parrotfish (regular encounters on current pushes)
-- Eagle rays and green turtles
-- Pyramid butterflyfish and red-tooth triggerfish (covering the pinnacle)
-- Dense fusilier schools
-- Giant moray eels and honeycomb moray eels in crevices
-- Enormous gorgonian fans and barrel sponges on the swim-through walls
+- Redtooth triggerfish and blacklip butterflyfish (multiple sources)
+- Grey reef sharks and banded sea kraits (multiple sources)
+- Midnight snappers and bigeye bream
+- Giant and honeycomb moray eels in crevices
+- Napoleon wrasse (reported by Merapi Tours)
+- Potato cod, longnose emperors, yellow-tail barracuda, rainbow runners, anemonefish, surgeonfish (Dive The World)
+- Orange gorgonians, barrel sponges, and ellisella whip coral fans on the pinnacle flanks
+- No source consulted confirms bumphead parrotfish, eagle rays, or turtles specifically at this site — those species are reported at other nearby Banda sites but not documented here, so they have been removed from this listing
 
 ## Entry / Exit
 
@@ -44,7 +46,7 @@ Strong and unpredictable currents — this site is rated Advanced. A surface mar
 
 ## Photography
 
-The 15-metre swim-through lined with gorgonians is a classic wide-angle subject, as are the pyramid butterflyfish clouds covering the pinnacle top. High-visibility periods (Feb–May) are ideal for wide-angle open-water work.
+The gorgonian- and sponge-covered pinnacles are a classic wide-angle subject. High-visibility periods (Feb–May) are ideal for wide-angle open-water work with schooling fish.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Mermaid Liveaboards - Batu Kapal](https://www.mermaid-liveaboards.com/dive_spots/batu-kapal/), [Bluewater Dive Travel - Banda Sea](https://www.bluewaterdivetravel.com/banda-sea-diving). Last updated 2026-05-17.*
+*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [Bluewater Dive Travel - Banda Sea](https://www.bluewaterdivetravel.com/banda-sea-diving). Last updated 2026-07-17.*

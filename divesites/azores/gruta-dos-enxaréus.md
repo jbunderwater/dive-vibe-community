@@ -45,4 +45,4 @@ Common stingrays (*Dasyatis pastinaca*) in groups of six or more inside the cave
 - Flores is one of the most remote Azores islands — plan logistics carefully (ferry or small aircraft from Faial)
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/gruta-dos-enxareus), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/gruta-dos-enxareus/), [Explore Flores Island](https://www.explorefloresisland.com/en/mapa-interativo/local/gruta-dos-enxareus-2/). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/gruta-dos-enxareus), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/gruta-dos-enxareus/), [Explore Flores Island](https://www.explorefloresisland.com/en/mapa-interativo/local/gruta-dos-enxareus-2/). Last updated 2026-07-17.*

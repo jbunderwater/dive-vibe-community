@@ -17,21 +17,21 @@ Normans Key Cut (Norman's Cay Cut) is one of the most dramatic drift dives in th
 
 ## Overview
 
-Located at the northern end of the Exuma Cays just south of Highbourne Cay, Norman's Cay Cut is a tidal channel dive that begins in around 15 feet (5m) of water and sweeps divers down to 50 feet (15m) as the current accelerates through the cut. When the tide is running correctly, the current drops divers through a boulder shoot into a basin, then lifts them back up — a sequence some describe as a natural "washing machine." The reef flanking the channel is healthy and colourful, with visibility typically excellent in these protected waters. Timing is everything: the dive has a narrow window and requires knowledge of local tidal patterns.
+**Important finding from today's re-audit:** the GPS coordinates for this entry (24.5729238, -76.7908287) sit at/near Norman's Cay itself, in the northern Exuma Cays. However, extensive searching today found no dive guide, operator, or database that documents a distinctly named "Norman's Cay Cut" at this location. The known, published dive sites at Norman's Cay itself are Cracked Coral Head, the DC-3 plane wreck in the interior lagoon, the northeast-coast reefs, and Norman's Pond (a reported hammerhead mating ground) — none of which is a channel/cut dive. The vivid "washing machine" content previously written for this entry (boulder shoot, 15ft entry dropping to 40-50ft, then lifting back to 15-25ft) matches a real, well-documented site called **"The Washing Machine"** — but multiple independent sources (dive-the-world.com, bottomlessdivers.com, allstarliveaboards.com, yachtcharterfleet.com) place that site near **Highbourne Cay and Long Cay**, roughly 12-14 km north of Norman's Cay, not at Norman's Cay itself. Of the three originally-cited sources: zentacle.com has no page matching this site name (a direct ID lookup returned an unrelated Nassau site, and a site search returned nothing); divein.com could not be accessed today (403 error) and no independent snippet of its content was found; and dive-the-world.com's Exuma Cays page does describe "The Washing Machine" in detail but explicitly ties it to Highbourne Cay/Long Cay, not Norman's Cay. **This entry's validated status should be reconsidered** — the specific narrative content here appears to be misattributed from a different, real site roughly a dozen kilometers away, rather than sourced material about a site at these coordinates. It is possible a tidal cut exists near Norman's Cay itself that simply isn't documented under this name in accessible sources, but that could not be confirmed today.
 
 ## Site Information
 
-- **Location**: Norman's Cay area, northern Exuma Cays, Bahamas
+- **Location**: Coordinates place this near Norman's Cay, northern Exuma Cays, Bahamas — but no source found today documents a cut/channel dive specifically at Norman's Cay under this or any name
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Maximum Depth**: 15 meters
-- **Current**: Strong tidal flow — can exceed 4-6 knots at peak; dive at correct tidal stage
-- **Typical Visibility**: 20-30 meters
-- **Best Time**: November to May
+- **Current**: Strong tidal flow reported for cuts generally in this part of the Exumas; no site-specific current-speed figure (in knots) was found in today's sources for this exact location
+- **Typical Visibility**: Not independently confirmed for this site
+- **Best Time**: November to May (general Bahamas dive season, not site-specific)
 
 ## Marine Life
 
-The current draws nutrients through the channel, attracting larger pelagic species. Caribbean reef sharks and eagle rays are commonly encountered in the cut. The reef walls host grouper, snapper, moray eels, sea fans, and sponges. Sea turtles are frequently seen in the Exuma Cays throughout the year.
+No source found today confirms marine life sightings specifically at coordinates 24.5729238, -76.7908287. The species listed below are regionally typical for Exuma Cays tidal channels and reefs generally (Caribbean reef sharks, eagle rays, grouper, snapper, moray eels, sea turtles are all well documented in the northern Exuma Cays), but none could be confirmed as site-specific sightings for this exact location in today's research.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ Drift dive by boat only. This site requires an experienced local boat captain wh
 The currents at Norman's Cay Cut are among the strongest in the Exuma Cays. Incorrect tidal timing can result in dangerous, uncontrollable drift. If you miss the exit point, stay at the surface and signal the boat with your SMB. Divers should have solid buoyancy skills and drift diving experience before attempting this site.
 
 ---
-*Sources: [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Zentacle - Norman's Cay Cut](https://www.zentacle.com/). Last updated 2026-05-17.*
+*Sources checked today: [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php) (describes "The Washing Machine" near Highbourne Cay/Long Cay, not confirmed to be Norman's Cay), divein.com/diving/destination/bahamas/ (inaccessible, HTTP 403), zentacle.com (no page found for this site name — direct ID lookup and site search both failed to locate it). No source independently confirms a distinctly-documented "Norman's Cay Cut" at these coordinates. Recommend flagging validated status for reconsideration pending clarification of which real-world site this entry is meant to represent. Last updated 2026-07-17.*

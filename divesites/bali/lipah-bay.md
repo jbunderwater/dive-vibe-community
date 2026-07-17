@@ -33,7 +33,7 @@ Lipah Bay is located approximately 12 minutes from Amed on Bali's northeast coas
 
 ## Marine Life
 
-Lipah Bay is confirmed as a reef shark nursery area — baby and juvenile reef sharks shelter under large table corals, alongside adult reef sharks. Hawksbill and green sea turtles are regular sightings. Large moray eels inhabit the bommies and artificial reef structures. General reef fish are abundant across the varied habitats. The site is also suitable for macro photography among the invertebrates of the artificial structures and coral patches.
+Lipah Bay is confirmed by two independent dive-shop sources (Bali AQua and Bali Fab Dive) as a shark nursery area — juvenile white-tip reef sharks shelter under large table corals in the 5–30 m range, with adult reef sharks reported deeper (25–40 m) on the same site. Hawksbill and green sea turtles are regular sightings. Large moray eels inhabit the bommies and artificial reef structures. A note on one dive log (Michael McFadyen's Scuba Diving Web Site) recorded only a single "blind shark or similar species" on that particular visit rather than a nursery — individual dive reports don't always encounter every resident species. General reef fish are abundant across the varied habitats.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Lipah Bay is a straightforward dive with generally mild conditions. Currents are
 The turtles at Lipah Bay are the primary photographic attraction and are often cooperative subjects. The large moray eels in the bommies reward patient photographers. The artificial reef structures with their coral growth provide interesting compositions showing reef colonization. Wide-angle is recommended for turtles and reef-scape; macro for the invertebrates on the artificial structures.
 
 ---
-*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096). Last updated 2026-05-17.*
+*Sources: [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096), [Bali Fab Dive - Lipah Bay](https://balifabdive.com/dive-site-bali-amed-tulamben-fab-dive-padi/lipah-bay-dive-site-description/). Last updated 2026-07-17.*

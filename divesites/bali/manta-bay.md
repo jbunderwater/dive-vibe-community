@@ -59,4 +59,4 @@ Currents are less intense than Manta Point but can still be significant. Be awar
 Wide-angle lenses capture manta rays circling over the coral bommies. The shallower, brighter conditions at Manta Bay often produce better-lit shots than the deeper site. Capture belly patterns to contribute to manta ID research programs run by local conservation organisations.
 
 ---
-*Sources: [Nusa Penida.org - Manta Bay](https://balimarinediving.com/bali-dive-sites/nusa-penida-crystal-bay-manta-baypoint/), [DPM Diving - Nusa Penida Sites](https://dpmdiving.com/discover-where-to-dive-in-nusa-penida/), [Two Fish Divers - Nusa Penida](https://twofishdivers.com/diving/nusa-penida/). Last updated 2026-05-17.*
+*Sources: [Nusa Penida.org - Manta Bay](https://balimarinediving.com/bali-dive-sites/nusa-penida-crystal-bay-manta-baypoint/), [DPM Diving - Nusa Penida Sites](https://dpmdiving.com/discover-where-to-dive-in-nusa-penida/), [Two Fish Divers - Nusa Penida](https://twofishdivers.com/diving/nusa-penida/). Last updated 2026-07-17.*

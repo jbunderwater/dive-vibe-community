@@ -49,4 +49,4 @@ Enter from the pebble beach and swim a short distance to the wall edge. The shal
 The shallow wall top makes this site very accessible for beginners, but depth increases rapidly. Watch your depth gauge carefully along the wall. Shore entry over loose pebbles can be slippery — water shoes or booties recommended.
 
 ---
-*Sources: [Aquamarine Diving - Tulamben Drop Off](https://www.aquamarinediving.com/tulamben-drop-off-dive-site-bali/), [Ecodive Bali - Tulamben Wall](https://ecodivebali.com/tulamben-wall-drop-off-dive/), [Let's Dive Tulamben - Drop Off](https://letsdivetulamben.com/dive-sites/drop-off/). Last updated 2026-04-05.*
+*Sources: [Aquamarine Diving - Tulamben Drop Off](https://www.aquamarinediving.com/tulamben-drop-off-dive-site-bali/), [Ecodive Bali - Tulamben Wall](https://ecodivebali.com/tulamben-wall-drop-off-dive/), [Let's Dive Tulamben - Drop Off](https://letsdivetulamben.com/dive-sites/drop-off/). Last updated 2026-07-17.*

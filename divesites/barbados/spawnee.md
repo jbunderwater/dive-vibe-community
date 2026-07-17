@@ -50,4 +50,4 @@ Approach the reef squid slowly — they are curious but will retreat if startled
 Gentle conditions make this a low-stress dive. Light currents typical. Standard boat dive safety applies — carry an SMB and monitor air supply.
 
 ---
-*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners). Last updated 2026-05-17.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Wikivoyage](https://en.wikivoyage.org/wiki/Diving_in_Barbados), [Scuba Diving Earth](https://www.scubadivingearth.com/blogs/blog/is-barbados-good-for-scuba-diving-7-great-dive-sites-for-beginners). On re-audit, Barbados.org does not actually mention "Spawnee," so that citation has been replaced with Wikivoyage, which independently confirms the site under the Speightstown-area reef listings. Last updated 2026-07-17.*

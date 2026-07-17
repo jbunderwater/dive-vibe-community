@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Dori Wreck
 
-A WWII Liberty ship that took part in Operation Overlord — now a 130-metre wreck resting 800 metres off Ponta Delgada, considered the best dive on São Miguel.
+A WWII Liberty ship that took part in Operation Overlord — now a 134-metre wreck resting 800 metres off Ponta Delgada, considered the best dive on São Miguel.
 
 ## Overview
 
-The Dori Wreck is considered by many local operators the best dive site on São Miguel. Originally named SS Thomas Donaldson, she was a WWII Liberty-class steam merchant (7,210 GRT, approximately 130 metres long) built in February 1944 at Bethlehem-Fairfield Shipyards, Baltimore. She participated in Operation Overlord (the D-Day Normandy landings) and subsequently served on Arctic convoys. On 20 March 1945 she was torpedoed by U-968 (Kapitänleutnant Otto Westphalen) during Arctic Convoy JW-65, approximately 20 miles from the Kola Inlet. Four crew members were killed; 65 survived. The stricken vessel was taken under tow but sank stern-first near Kilden Island.
+The Dori Wreck is considered by many local operators the best dive site on São Miguel. Originally named SS Thomas Donaldson, she was a WWII Liberty-class steam merchant (7,210 GRT, 441 feet/134 metres long per the US Maritime Administration's vessel history database — consistent with the standard EC2-S-C1 Liberty ship hull) built in February 1944 at Bethlehem-Fairfield Shipyards, Baltimore. She participated in Operation Overlord (the D-Day Normandy landings) and subsequently served on Arctic convoys. On 20 March 1945 she was torpedoed by U-968 (Kapitänleutnant Otto Westphalen) during Arctic Convoy JW-65, approximately 20 miles from the Kola Inlet. Four crew members were killed; 65 survived. The stricken vessel was taken under tow but sank stern-first near Kilden Island.
 
 Raised, repaired, and later renamed *Dori*, she operated as a Liberian cargo ship until 16 January 1964, when she developed leaks while carrying steel coils en route to New Orleans and sank approximately 800 metres off the Ponta Delgada coast. Now an Underwater Archaeological Park and no-take marine reserve, the wreck rests on a sandy seabed. The stern top sits at 9 metres — accessible to snorkellers — with the bow at 20–21 metres.
 
@@ -47,4 +47,4 @@ Clouds of small fish surround the stern; Moroccan white seabreams (*Diplodus cer
 - Wreck penetration requires proper training and equipment
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/dori), [uboat.net – Thomas Donaldson](https://uboat.net/allies/merchants/ships/3475.html), [PADI – Dori Liberty Ship Wreck](https://www.padi.com/dive-site/portugal/dori-liberty-ship-wreck/), [ScubaBoard](https://scubaboard.com/community/threads/ss-dori-sao-miguel-azores.638098/). Last updated 2026-05-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/dori), [uboat.net – Thomas Donaldson](https://uboat.net/allies/merchants/ships/3475.html), [PADI – Dori Liberty Ship Wreck](https://www.padi.com/dive-site/portugal/dori-liberty-ship-wreck/), [ScubaBoard](https://scubaboard.com/community/threads/ss-dori-sao-miguel-azores.638098/), [MARAD Vessel History Database – Thomas Donaldson](https://vesselhistory.marad.dot.gov/ShipHistory/Detail/11222). Last updated 2026-07-17.*
