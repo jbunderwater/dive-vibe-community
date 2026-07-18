@@ -51,7 +51,7 @@ The swim-throughs and small caverns are what distinguish The Playground from oth
 
 ## Safety Considerations
 
-The swim-throughs require good buoyancy to avoid silt disturbance. Fire coral is present on some reef sections. DSMB recommended.
+The swim-throughs require good buoyancy to avoid silt disturbance. Fire coral is present on some reef sections. DSMB recommended. Note: one source (bocasdivecenter.com) describes this as an "advanced reef site" for more experienced divers, while other sources rate it beginner-friendly; the majority view and the site's common use as an early certification dive are retained here.
 
 ## Photography
 
@@ -63,4 +63,4 @@ The swim-throughs and cavern openings make stronger compositional subjects than 
 - Often the first full scuba experience for visitors to Bocas del Toro
 
 ---
-*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites), [Tourism Panama - Bocas del Toro Dive Sites](https://www.tourismpanama.com/blog/post/bocas-del-toro-top-scuba-diving-and-snorkeling-sites/). Last updated 2026-06-25.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites), [Tourism Panama - Bocas del Toro Dive Sites](https://www.tourismpanama.com/blog/post/bocas-del-toro-top-scuba-diving-and-snorkeling-sites/). Last updated 2026-07-18. (2026-07-18 re-audit: depth/turtle/difficulty claims reconfirmed. A single-source detail describing this as a "shipwreck reef" with a barely-recognizable old wreck was found on therealdealtours.com but is not corroborated elsewhere, so it was NOT added to this description.)*

@@ -3,7 +3,7 @@ name: Polo Beach Wall
 lat: 9.292
 lng: -82.158
 difficulty: Intermediate
-maxDepth: 12
+maxDepth: 20
 entryType: boat
 siteType: cave
 ref: null
@@ -19,13 +19,13 @@ An extensive cave and cavern system beneath the barrier reef at Polo Beach on Is
 
 Polo Beach Wall (locally also called Polo Channel or Polo Channels) is one of Bocas del Toro's most distinctive dive sites, located on Isla Bastimentos on the outer edge of the archipelago. Rather than a conventional wall or reef dive, the site is defined by an intricate network of caverns, caves, and underwater tunnels cut into the barrier reef structure beneath Polo Beach. Surface access is available throughout approximately 90% of the dive — this is well-lit cave and cavern diving rather than technical overhead-environment diving, making it accessible to intermediate divers without overhead environment training.
 
-The maximum depth is only 12 meters, which is the site's most surprising characteristic: the caves are shallow, well-lit, and navigable without technical equipment. The underwater geology creates a complex three-dimensional landscape of passageways, chimneys, and swim-throughs that makes navigation the primary skill being exercised. Water clarity at the site can be turbid; the site reveals its full character during the July–November season when visibility improves. Water temperature is 27–29°C.
+The maximum depth is approximately 20 meters, which is still a relatively shallow, well-lit cave and cavern system navigable without technical equipment. The underwater geology creates a complex three-dimensional landscape of passageways, chimneys, and swim-throughs that makes navigation the primary skill being exercised. Water clarity at the site can be turbid; the site reveals its full character during the July–November season when visibility improves. Water temperature is 27–29°C.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 3–12 m |
+| Depth Range | 3–20 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Cave |
@@ -39,7 +39,7 @@ Giant moray eels are the confirmed resident species in the cave crevices and cor
 
 ## Dive Profile
 
-Entry from the boat onto the reef, then navigation into the cave system at 5–12 meters. The dive follows the passages and swim-throughs, emerging into open water and re-entering the system at multiple points given the continuous surface access. The complex topography rewards a guide who knows the system — this is not a site for self-guided exploration on a first visit. Total dive: 40–55 minutes.
+Entry from the boat onto the reef, then navigation into the cave system between 5 and 20 meters. The dive follows the passages and swim-throughs, emerging into open water and re-entering the system at multiple points given the continuous surface access. The complex topography rewards a guide who knows the system — this is not a site for self-guided exploration on a first visit. Total dive: 40–55 minutes.
 
 ## Entry and Exit
 
@@ -63,4 +63,4 @@ The cave architecture — passageways, swim-throughs, and chimney formations —
 - Best season: July–November for optimal visibility and conditions
 
 ---
-*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Tribloo - Polo Beach](https://www.tribloo.com/en/dive-sites/691/polo-beach.html), [Bocas Divers Paradise - Dive Sites](https://bocasdiversparadise.com/2024/07/02/what-are-the-dive-sites-like-in-bocas-del-toro/). Last updated 2026-06-25.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [Tribloo - Polo Beach](https://www.tribloo.com/en/dive-sites/691/polo-beach.html), [Bocas Divers Paradise - Dive Sites](https://bocasdiversparadise.com/2024/07/02/what-are-the-dive-sites-like-in-bocas-del-toro/). Last updated 2026-07-18. (2026-07-18 re-audit corrected max depth from a previously recorded 12m to 20m — both tribloo.com and therealdealtours.com currently list a 20m/65ft maximum.)*

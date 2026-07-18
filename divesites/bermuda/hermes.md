@@ -33,7 +33,7 @@ The Hermes was built in 1943 in Pennsylvania as a 165-foot (50 m), 254-ton buoy 
 
 ## Marine Life
 
-The Hermes hosts one of the most diverse fish communities of any Bermuda wreck. Schools of yellowtail snapper, barracuda, and gray snapper swirl around the hull. Large black grouper patrol the forward cargo hold and engine room. The mast is typically surrounded by baitfish that attract larger predators. Resident spiny lobster and moray eels occupy the internal spaces. The surrounding pristine reef adds parrotfish, angelfish, and occasional sea turtle sightings.
+Dive Bermuda at Somerset specifically reports schools of barracuda and snapper at the Hermes. Beyond these two species, no site-specific marine life reports were found in available sources — claims of grouper, moray eels, spiny lobster, or sea turtles at this particular wreck could not be independently confirmed and have been removed rather than presented as site-specific.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The 23–24 meter depth requires standard recreational diving depth management a
 The Hermes is widely regarded as Bermuda's best photography wreck. The intact, upright orientation combined with outstanding visibility creates ideal conditions for wide-angle hull compositions. The mast surrounded by schooling fish is a signature shot. Interior rooms offer dramatic ambient light from removed hatches. Macro subjects abound on the hull surfaces.
 
 ---
-*Sources: [Bermuda 100 Project - Hermes](https://bermuda100.ucsd.edu/hermes/), [Bermuda Attractions - The Hermes](https://www.bermuda-attractions.com/bermuda_000048.htm), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Last updated 2026-05-18.*
+*Sources: [Bermuda 100 Project - Hermes](https://bermuda100.ucsd.edu/hermes/), [Bermuda Attractions - The Hermes](https://www.bermuda-attractions.com/bermuda_000048.htm), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Re-audited: Brava Fogo/Panama registry history reconfirmed by two independent sources; marine life narrowed to only the species (barracuda, snapper) a source specifically attributes to this site. Last updated 2026-07-18.*

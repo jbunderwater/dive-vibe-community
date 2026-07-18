@@ -51,7 +51,7 @@ The Zapatillas are a full-day destination from Bocas Town given travel time. The
 
 ## Safety Considerations
 
-National Marine Park rules prohibit fishing, collecting, and anchoring. The exposed southern position means swells are possible in trade wind conditions — check conditions before the trip. DSMB recommended.
+National Marine Park rules prohibit fishing, collecting, and anchoring. The exposed southern position means swells are possible in trade wind conditions — check conditions before the trip. DSMB recommended. Note: one source (therealdealtours.com) rates the broader "Zapatilla Cay" site cluster Intermediate/Advanced; this likely reflects the cluster's separate cave/cavern sections rather than the main protected reef described here, which bocas-del-toro.org and alnaturalresort.com both frame as calm and beginner-friendly.
 
 ## Photography
 
@@ -63,4 +63,4 @@ The pristine coral, 200+ fish species diversity, and superior visibility create 
 - Bastimentos National Marine Park: permits and visitor information
 
 ---
-*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Al Natural Resort - Zapatillas Dive Center](https://www.alnaturalresort.com/zapatillas-dive-center/). Last updated 2026-06-25.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Al Natural Resort - Zapatillas Dive Center](https://www.alnaturalresort.com/zapatillas-dive-center/). Last updated 2026-07-18. (2026-07-18 re-audit reconfirmed reef/turtle/fish-diversity claims; difficulty conflict from therealdealtours.com noted above.)*

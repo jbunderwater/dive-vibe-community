@@ -17,7 +17,7 @@ Bermuda's largest shipwreck — a 499-foot Spanish luxury liner that struck the 
 
 ## Overview
 
-The Cristóbal Colón is the largest known shipwreck in Bermuda waters. This 499-foot Spanish luxury ocean liner, over 10,000 tons, was launched in 1923 as one of the most advanced passenger vessels of her time. On October 25, 1936, the captain wedged the ship into a coral reef just east of North Rock at 15 knots, eight miles north of the island. The wreck sat partially exposed at the surface and was heavily salvaged — pianos, paintings, brass portholes, and even the chapel doors were removed. The wreck was subsequently used as a bombing and target practice site (sources differ on whether it was the US Air Force or RAF) to flatten it ahead of WWII. Today the shattered wreckage is scattered across 100,000 square feet of seabed between 5 and 18 meters depth and can be enjoyed by both snorkelers and divers. The stern section reportedly preserves green-tiled bathroom fixtures, prop shafts, winches, boilers, and engines. Unexploded ordnance from the bombing practice is reportedly present on site.
+The Cristóbal Colón is the largest known shipwreck in Bermuda waters. This 499-foot Spanish luxury ocean liner, over 10,000 tons, was launched in 1923 as one of the most advanced passenger vessels of her time. On October 25, 1936, the captain wedged the ship into a coral reef just east of North Rock at 15 knots, eight miles north of the island. The wreck sat partially exposed at the surface and was heavily salvaged — pianos, paintings, brass portholes, and even the chapel doors were removed. The wreck was subsequently used as a bombing and target practice site ahead of WWII — one source attributes this to the US Air Force training in preparation for the war, another to the British military — before Teddy Tucker was hired to demolish the remaining structure as a navigation hazard. Today the shattered wreckage is scattered across 100,000 square feet of seabed between 5 and 18 meters depth and can be enjoyed by both snorkelers and divers. The stern section reportedly preserves green-tiled bathroom fixtures, prop shafts, winches, boilers, and engines. Unexploded ordnance from the bombing practice is reportedly present on site.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Cristóbal Colón is the largest known shipwreck in Bermuda waters. This 499
 
 ## Marine Life
 
-The enormous debris field hosts a rich fish community including large black grouper patrolling the deeper sections, schools of barracuda, snapper, and reef fish navigating between the scattered structural elements. Engines, propellers, and prop shafts provide hard substrate for coral and sponge colonization. Resident green turtles are frequently reported at this site.
+No site-specific marine life reports were found for the Cristóbal Colón in dive operator listings or research sources — available coverage focuses on the wreck's history and scale. Bermuda's typical reef and wreck fauna can be expected on the debris field, but specific species sightings at this site have not been documented in available sources.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The depth range (5–18 meters) is accessible but the scale and complexity of th
 The Cristóbal Colón is one of Bermuda's premier photography wrecks. The combination of massive structural debris, abundant marine life, and extraordinary visibility creates exceptional wide-angle compositions. Natural light at the shallower sections is excellent.
 
 ---
-*Sources: [Bermuda Department of Environment and Natural Resources](https://environment.bm/cristobal-colon), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Bermuda Attractions - Cristobal Colon](https://www.bermuda-attractions.com/bermuda_000046.htm), [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Last updated 2026-05-18.*
+*Sources: [Bermuda Department of Environment and Natural Resources](https://environment.bm/cristobal-colon), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Bermuda Attractions - Cristobal Colon](https://www.bermuda-attractions.com/bermuda_000046.htm), [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Re-audited: bombing-service conflict clarified (US Air Force per environment.bm vs. British military per bermuda-attractions.com — both retained since sources disagree); marine life claims not corroborated by a site-specific source were removed. Last updated 2026-07-18.*

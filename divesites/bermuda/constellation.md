@@ -17,7 +17,7 @@ The inspiration for Peter Benchley's novel *The Deep*, this WWII-era four-masted
 
 ## Overview
 
-The Constellation was a 192-foot (58.5 m) wooden-hulled, four-masted schooner built in 1918. On July 30, 1943, while waiting for a local pilot near Bermuda's northwest reef, she was driven onto the same reef as the Montana and rapidly sank — carrying a cargo of cement bags, sheets of slate for pool tables, lead crucifixes, morphine ampoules, glassware, and cases of Johnny Walker Scotch whisky (sources disagree on exact number: some cite 700 cases, others 700 bottles). Her scattered cargo lying in just 9 meters of water inspired author Peter Benchley's 1974 novel *The Deep* and its 1977 film adaptation. The Constellation sits very close to the wreck of the Civil War-era Montana, effectively offering a two-wreck dive in a single excursion on Bermuda's northwest reef.
+The Constellation was a 192-foot (58.5 m) wooden-hulled, four-masted schooner built in 1918. On July 31, 1943, while waiting for a local pilot near Bermuda's northwest reef, she was driven by a strong current onto the same reef as the Montana and rapidly sank — carrying a cargo of cement bags, sheets of slate for pool tables, lead crucifixes, morphine ampoules, glassware, and cases of Johnny Walker Scotch whisky (sources disagree on exact number: some cite 700 cases, others 700 bottles). Her scattered cargo lying in just 9 meters of water inspired author Peter Benchley's 1974 novel *The Deep* and its 1977 film adaptation. The Constellation sits very close to the wreck of the Civil War-era Montana, effectively offering a two-wreck dive in a single excursion on Bermuda's northwest reef.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Constellation was a 192-foot (58.5 m) wooden-hulled, four-masted schooner bu
 
 ## Marine Life
 
-Gray snappers and small barracuda frequent the scattered wreck site. The cement bag pyramids stacked in rows attract juvenile fish seeking shelter. Parrotfish, angelfish, and sergeant majors move through the wreckage. The shallow sandy bottom and nearby coral heads support diverse reef fish typical of Bermuda's outer platform. The proximity to the Montana wreck means a combined dive covers an expanded area of reef and wreck habitat.
+No site-specific marine life reports were found for the Constellation wreck in dive operator listings or research sources — coverage of this site focuses almost entirely on its cargo and history. Bermuda's typical outer-platform reef and wreck fauna can be expected here, but specific species sightings have not been documented in available sources.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ At 9 meters, this is one of Bermuda's most accessible wrecks. The primary hazard
 The scattered cargo field provides unique photographic subjects not found on typical wreck dives — pyramids of cement bags, intact glassware half-buried in sand, and historical ampoules. Wide-angle shots of the cargo field in excellent Bermuda visibility capture the surreal quality of this site. Natural light photography is practical in the 9-meter depth range.
 
 ---
-*Sources: [Scuba Diver Life - Montana and Constellation](https://scubadiverlife.com/dive-site-bermuda-shipwrecks-montana-constellation/), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda Dive Bermuda at Somerset - Dive Sites](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Bermuda Attractions - Famous Shipwrecks](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-05-18.*
+*Sources: [Bermuda Department of Environment and Natural Resources](https://environment.bm/constellation), [The Bermudian - History of the Constellation Shipwreck](https://www.thebermudian.com/history/history-history/the-history-of-constellation-shipwreck/), [MAHS - Constellation Project](http://www.mahsnet.org/projects/constellation/Constellation_1.html), [Scuba Diver Life - Montana and Constellation](https://scubadiverlife.com/dive-site-bermuda-shipwrecks-montana-constellation/), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Bermuda Attractions - Famous Shipwrecks](https://www.bermuda-attractions.com/bermuda_000045.htm). Re-audited: sinking date corrected to July 31, 1943 (environment.bm and The Bermudian agree); pool-table slate cargo confirmed by MAHS survey. Last updated 2026-07-18.*

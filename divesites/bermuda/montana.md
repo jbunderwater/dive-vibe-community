@@ -33,7 +33,7 @@ The Montana was a 236-foot (72 m) paddlewheel steamer built in Glasgow, Scotland
 
 ## Marine Life
 
-The Montana wreck supports a year-round population of large gray snappers around the boilers and paddlewheel frames. Parrotfish, angelfish, and blue tangs occupy the coral heads surrounding the wreck. The shallow sandy bottom and surrounding reef attract diverse reef fish typical of Bermuda's outer platform.
+No site-specific marine life reports were found for the Montana wreck in dive operator listings or research sources. Bermuda's typical outer-platform reef and wreck fauna can be expected here, but specific species sightings at this site have not been documented in available sources.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ At 9 meters, depth hazards are minimal. The primary concerns are the offshore lo
 The paddlewheel frames and twin boilers are iconic photographic subjects that illustrate 19th-century steam paddle technology. Wide-angle natural light photography at 9 meters is highly effective. A split-level shot through the surface in calm conditions captures both the reef environment and the boat above.
 
 ---
-*Sources: [Bermuda Department of Environment and Natural Resources](https://environment.bm/montana), [Scuba Diver Life - Montana and Constellation](https://scubadiverlife.com/dive-site-bermuda-shipwrecks-montana-constellation/), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-05-18.*
+*Sources: [Bermuda Department of Environment and Natural Resources](https://environment.bm/montana), [Wikipedia - Montana (ship)](https://en.wikipedia.org/wiki/Montana_(ship)), [Scuba Diver Life - Montana and Constellation](https://scubadiverlife.com/dive-site-bermuda-shipwrecks-montana-constellation/), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks](https://www.bermuda-attractions.com/bermuda_000045.htm). Re-audited against current sources; marine life claims not corroborated by a site-specific source were removed. Last updated 2026-07-18.*

@@ -51,7 +51,7 @@ Hospital Point is an excellent night dive — the sandy bottom comes alive after
 
 ## Safety Considerations
 
-The site is appropriate for beginners and discovery divers. The wall transition at 12 meters means divers should be aware of depth — the wall face drops further than the maximum recreational beginner depth at the bottom. Standard beginner precautions apply. Fire coral may be present on shallow reef sections.
+The site is appropriate for beginners and discovery divers. The wall transition at 12 meters means divers should be aware of depth — the wall face drops further than the maximum recreational beginner depth at the bottom. Standard beginner precautions apply. Fire coral may be present on shallow reef sections. Note: one source (bocas-del-toro.org) rates the site "moderate to advanced" rather than beginner-friendly; the majority of sources (including the two dive-shop sources above) describe it as an easy, training-suitable dive, and that classification is retained here.
 
 ## Photography
 
@@ -63,4 +63,4 @@ The wall crevices and caverns provide good torch-lit subjects. The shallow coral
 - Night diving: Hospital Point is one of the recommended Bocas del Toro night dive sites
 
 ---
-*Sources: [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites), [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm). Last updated 2026-06-25.*
+*Sources: [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites), [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Tourism Panama - Bocas del Toro Dive Sites](https://www.tourismpanama.com/blog/post/bocas-del-toro-top-scuba-diving-and-snorkeling-sites/). Last updated 2026-07-18. (2026-07-18 re-audit reconfirmed wall/depth/night-dive/marine-life claims; difficulty conflict from bocas-del-toro.org noted above.)*

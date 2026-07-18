@@ -33,7 +33,7 @@ The King George was one of three purpose-built dredgers commissioned by the Berm
 
 ## Marine Life
 
-The King George's coral and tunicate-encrusted structure hosts schools of grunts, snapper, and parrotfish that treat the wreck as a permanent reef habitat. Spiny lobster occupy crevices between dredging buckets and structural elements. Seahorses have been reported among the encrusted machinery. Larger fish including grouper and barracuda patrol the exterior. Soft corals and purple tunicates blanket much of the hull.
+Dive Bermuda at Grotto Bay reports the King George as a habitat for coral, reef fish, lobsters, octopus, and — occasionally — seahorses among the encrusted machinery. Other species previously listed here (grunts, parrotfish, grouper, barracuda, purple tunicates) could not be confirmed against a site-specific source and have been removed.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Intermediate depth and offshore location are the primary considerations. Moderat
 The King George's dredging machinery — buckets, chains, engines — provides industrial-scale photographic subjects not found on typical Bermuda wrecks. The purple tunicate colonization creates vivid color contrast against the steel hull. Wide-angle natural light photography captures the intact upright profile in Bermuda's clear water.
 
 ---
-*Sources: [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [DiveBuddy - King George Dredger](http://www.divebuddy.com/divesite/5050/king-george-dredger-bermuda/), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites). Last updated 2026-05-18.*
+*Sources: [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [DiveBuddy - King George Dredger](http://www.divebuddy.com/divesite/5050/king-george-dredger-bermuda/), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites). Re-audited: build/scuttling history reconfirmed; marine life narrowed to species Dive Bermuda at Grotto Bay specifically attributes to this wreck. Last updated 2026-07-18.*

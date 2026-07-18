@@ -42,4 +42,4 @@ The previously listed marine life has been removed as it was AI-generated withou
 - Bocas del Toro dive operators: contact operators to confirm whether a dive site at this location is offered and under what name
 
 ---
-*Description based on geographic coordinates only. No site-specific sources found. 2026-06-25 re-audit confirmed: zero results across all Bocas del Toro operator sites and databases. Last updated 2026-06-25.*
+*Description based on geographic coordinates only. No site-specific sources found. 2026-06-25 re-audit confirmed: zero results across all Bocas del Toro operator sites and databases. 2026-07-18 re-audit repeated the search with no new results. Last updated 2026-07-18.*
