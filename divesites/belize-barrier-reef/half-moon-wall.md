@@ -2,7 +2,7 @@
 name: Half Moon Wall
 lat: 17.2082863
 lng: -87.5358197
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 40
 entryType: boat
 siteType: wall
