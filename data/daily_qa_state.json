@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "belize",
-    "belize-barrier-reef",
-    "bermuda",
-    "bocas-del-toro",
-    "bonaire",
-    "british-columbia",
     "british-virgin-islands",
     "cabo-pulmo",
     "california-channel-islands",
@@ -164,6 +158,12 @@
     "zanzibar"
   ],
   "completed_this_cycle": [
+    "belize",
+    "belize-barrier-reef",
+    "bermuda",
+    "bocas-del-toro",
+    "bonaire",
+    "british-columbia",
     "alaska",
     "alor-archipelago",
     "ambon",
@@ -178,6 +178,85 @@
     "barbados"
   ],
   "history": [
+    {
+      "date": "2026-07-18",
+      "slugs": [
+        "belize",
+        "belize-barrier-reef",
+        "bermuda",
+        "bocas-del-toro",
+        "bonaire",
+        "british-columbia"
+      ],
+      "notes": "belize is isGroup=true parent slug with no own data files -- skipped, consistent with prior-cycle precedent for group slugs. Its child belize-barrier-reef was processed directly, covering it.",
+      "summary": {
+        "sites_total": 271,
+        "sites_validated_today": 38,
+        "sites_re_audited": 232,
+        "hallucinations_removed": 19,
+        "marine_life_stripped": 27,
+        "wreck_conflicts_flagged": 12,
+        "sites_unresolved": 15,
+        "by_destination": {
+          "belize": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory); its child belize-barrier-reef is processed directly"
+          },
+          "belize-barrier-reef": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "Rusty Barge Wreck downgraded validated=true->false: coordinates/description were misattributed from a different named wreck (Changa's Wreck) ~40km away near San Pedro. Half Moon Wall's fabricated whale-shark/manta claim removed (belongs to Gladden Spit, ~150km south) plus a mismatched Hamanasi Resort citation. Ermlund and M/V Transfer wreck histories flagged as single/weakly-sourced rather than padded. Catalan Rocks and Columbus Reef remain unresolved (no site-specific source found)."
+          },
+          "bermuda": {
+            "sites_total": 15,
+            "sites_validated_today": 0,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 12,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 0,
+            "notes": "Constellation sinking date corrected (July 31, not July 30) 1943; Minnie Breslauer's uncorroborated 'Portuguese foundry markings' detail removed; Pelinaion depth corrected 20m->21m. Cristobal Colon bombing-service conflict (US vs British), Taunton flag/nationality conflict, and Mary Celestia date outlier all documented rather than guessed. 12 of 15 sites had generic marine-life lists replaced with source-confirmed-only content."
+          },
+          "bocas-del-toro": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 5,
+            "notes": "Polo Beach Wall depth corrected 12m->20m after live source re-fetch. Barco Hundido sinking-date conflict (1997 vs 2000) and depth range documented; name-collision note added distinguishing the wreck from an unrelated Bocas Town nightclub of the same name. Dark Wood Reef, Wreck Rock, Punta Juan, Long Cay Wall, Dolphins Bay remain unresolved (no qualifying sources)."
+          },
+          "bonaire": {
+            "sites_total": 61,
+            "sites_validated_today": 0,
+            "sites_re_audited": 56,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 5,
+            "notes": "Boy Scout and English Garden were entirely fabricated (invented coral formations, a 20-species marine-life list, invented dive-profile depths) despite already-honest footers -- rewritten to disclosed-unconfirmed stubs. Windjammer's four-masted claim corrected to three-masted; tonnage and sinking-cause conflicts documented. Bonus finding: 6 sites in Washington-Slagbaai National Park (Boka Bartol, Playa Benge, Playa Funchi, Bise Morto, Wayaka 2, Boka Slagbaai) are currently closed to diving under STINAPA's ongoing SCTLD coral-disease closure since May 2023 -- dated closure notices added to all 6. Boy Scout, English Garden, Hidden Beach, Yellow Hut, Soft Coral Garden remain unresolved."
+          },
+          "british-columbia": {
+            "sites_total": 172,
+            "sites_validated_today": 38,
+            "sites_re_audited": 38,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 2,
+            "notes": "Given destination size, prioritized all 16 wreck sites plus a 22-site spot-check of reef/wall/muck/kelp sites rather than bulk-re-auditing all 172; last_qa_date left untouched for ~130 sites not individually re-checked this pass. G.B. Church's fabricated build history and documentary claim removed. USS Tattnall, HMCS Gatineau, HMCS Longueuil, and S.F. Tolmie wreck-history date conflicts documented. Osprey and Fort Langley Wreck downgraded validated=true->false (no site-specific source found on re-search). Henderson Point reclassified wall->reef and Porteau Cove Diving Area reclassified muck->wreck based on source content."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
     {
       "date": "2026-07-17",
       "slugs": [
