@@ -58,4 +58,4 @@ Kelp entanglement is the primary hazard — always carry a cutting device. Boats
 Bull kelp forests offer some of BC's most dramatic underwater photography. Looking up through the stipes toward the filtered sunlight creates beautiful natural-light images. Wide-angle or fisheye lenses capture the cathedral-like interior of the forest. Macro shooters should examine kelp blades carefully for nudibranchs, amphipods, and other small invertebrates.
 
 ---
-*Description based on OSM geographic data and regional Parksville/Qualicum Beach diving characteristics. No site-specific published sources found for this named site. Last updated 2026-05-18.*
+*Description based on OSM geographic data and regional Parksville/Qualicum Beach diving characteristics. No site-specific published sources found for this named site. Re-searched 2026-07-18 — still no site-specific source located. Last updated 2026-07-18.*

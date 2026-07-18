@@ -58,4 +58,4 @@ Kelp entanglement is the primary hazard — always carry a cutting tool. Tidal c
 Looking upward through the kelp stipes toward the surface canopy creates cathedral-like natural light images — one of BC's signature underwater shots. Wide-angle or fisheye lenses are ideal for kelp forest interior photography. Kelp greenlings and other fish among the stipes make great subjects. Morning light provides the best natural illumination.
 
 ---
-*Description based on OSM geographic data and regional Gulf Islands diving characteristics. No site-specific published sources found for Forest Island as a named dive site. Last updated 2026-05-18.*
+*Description based on OSM geographic data and regional Gulf Islands diving characteristics. No site-specific published sources found for Forest Island as a named dive site. Re-searched 2026-07-18 — still no site-specific source located. Last updated 2026-07-18.*

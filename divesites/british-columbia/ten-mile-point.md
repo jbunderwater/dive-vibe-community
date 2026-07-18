@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Ten Mile Point
 
-Ten Mile Point is a reef dive site in British Columbia, North America.
+Ten Mile Point is a wall dive site in British Columbia, North America.
 
 ## Overview
 
@@ -56,4 +56,4 @@ Shore entry from the end of White Rock Street in the Cadboro Bay district. Parki
 - Visibility is best in autumn and winter outside plankton bloom periods.
 
 ---
-*Sources: [Ten Mile Point — Zentacle/ShoreDiving](https://www.zentacle.com/Earth/Canada/Vancouver_Island/Ten_Mile_Point/index.htm), [Five Amazing Shore Dives Victoria — Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/five-amazing-shore-dives-victoria), [Ten Mile Point — Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/ten-mile-point.html), [Victoria BC — Scuba Diving Magazine](https://www.scubadiving.com/travel/canada/victoria-bc). Last updated 2026-05-17.*
+*Sources: [Ten Mile Point — Zentacle/ShoreDiving](https://www.zentacle.com/Earth/Canada/Vancouver_Island/Ten_Mile_Point/index.htm), [Five Amazing Shore Dives Victoria — Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/five-amazing-shore-dives-victoria), [Ten Mile Point — Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/ten-mile-point.html), [Victoria BC — Scuba Diving Magazine](https://www.scubadiving.com/travel/canada/victoria-bc), [PNW Diving — 10 Mile Point](https://pnwdiving.com/10-mile-point). Re-audited 2026-07-18 — current speeds and wall depth range re-confirmed; corrected stale "reef dive site" one-liner to "wall dive site" to match siteType. Last updated 2026-07-18.*

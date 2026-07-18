@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Telegraph Cove
 
-Telegraph Cove is a reef dive site in British Columbia, North America.
+Telegraph Cove is a muck dive site in British Columbia, North America.
 
 ## Overview
 
@@ -53,4 +53,4 @@ Shore entry from Telegraph Bay Road in the Cadboro Bay district of Victoria, nea
 - The nearby Spring Bay and Ten Mile Point offer more advanced diving on the same day.
 
 ---
-*Sources: [Telegraph Bay — Zentacle/ShoreDiving](https://www.zentacle.com/Earth/Canada/Vancouver_Island/Telegraph/index.htm), [Victoria BC Dive Sites — Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/victoria-bc-dive-sites.html), [Five Amazing Shore Dives Victoria — Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/five-amazing-shore-dives-victoria). Last updated 2026-05-17.*
+*Sources: [Telegraph Bay — Zentacle/ShoreDiving](https://www.zentacle.com/Earth/Canada/Vancouver_Island/Telegraph/index.htm), [Victoria BC Dive Sites — Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/victoria-bc-dive-sites.html), [Five Amazing Shore Dives Victoria — Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/five-amazing-shore-dives-victoria). Re-audited 2026-07-18 — beginner-friendly, shallow, minimal-current character re-confirmed; note this Cadboro Bay-area "Telegraph Bay/Cove" is a distinct location from the better-known Telegraph Cove near Port McNeill on northern Vancouver Island. Last updated 2026-07-18.*

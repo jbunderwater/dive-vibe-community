@@ -17,7 +17,7 @@ A small rocky islet near Victoria with productive underwater terrain and active 
 
 ## Overview
 
-Chain Islet is a small rocky outcrop in the Haro Strait east of Victoria, part of the chain of small islands and reefs stretching between Vancouver Island and the San Juan Islands. The islet's above-water rock extends below the surface as a reef structure, creating habitat for a range of cold-water species. The site is accessible by boat from Victoria or Sidney and experiences the tidal currents typical of the Haro Strait region. Water temperatures range from 8–11°C and visibility is commonly 8–15 metres.
+Chain Islet is part of the Chain Islets, a cluster of at least 18 small rocky islets and rocks near Oak Bay, within 2 km of Victoria, in the Strait of Juan de Fuca/Haro Strait area. The above-water islets are protected as part of BC Provincial Ecological Reserve #94 (Oak Bay Islands) — a sensitive seabird nesting area — and landing on the islets themselves is prohibited without permission. The islet's above-water rock extends below the surface as a reef structure, creating habitat for a range of cold-water species. The site is accessible by boat from Victoria or Sidney and experiences the tidal currents typical of the area (documented at 3–6 knots in the nearby Plumper Passage/Baynes Channel, so slack-water timing matters). Water temperatures range from 8–11°C and visibility is commonly 8–15 metres.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Chain Islet is a small rocky outcrop in the Haro Strait east of Victoria, part o
 
 ## Marine Life
 
-The underwater extension of Chain Islet provides excellent habitat for Pacific Northwest species. California sea lions haul out on the exposed rock surface and regularly interact with divers underwater — encounters can be spectacular. Giant Pacific octopus are found in crevices below the waterline. Lingcod and kelp greenlings are abundant on the rocky faces. Plumose anemones form dense colonies on current-swept surfaces. Harbour seals are a constant presence around the islet, and Steller sea lions visit seasonally.
+The Chain Islets are a documented seabird nesting sanctuary (glaucous-winged gulls, pelagic cormorants, pigeon guillemots, black oystercatchers) with a year-round harbour seal population — the confirmed marine mammal presence here. Sea lion haul-outs are well documented at nearby Race Rocks; whether they are a reliable feature at Chain Islet specifically was not independently confirmed during this audit, so treat sea lion sightings here as possible rather than guaranteed. Giant Pacific octopus are found in crevices below the waterline. Lingcod and kelp greenlings are abundant on the rocky faces. Plumose anemones form dense colonies on current-swept surfaces.
 
 ## Dive Profile
 
@@ -55,10 +55,10 @@ Haro Strait tidal currents require careful timing to slack. BC Ferries and inter
 
 ## Photography
 
-Sea lion interactions produce some of the most dynamic wildlife photography available in BC diving. Wide-angle or fisheye lenses capture the animals' speed and playfulness. Look for moments when sea lions pose near the camera for portrait shots. The islet's rocky underwater structure with plumose anemones also provides fine invertebrate compositions.
+Harbour seals and, when present, sea lions can produce dynamic wildlife photography here. Wide-angle or fisheye lenses capture the animals' speed and playfulness if they approach. The islet's rocky underwater structure with plumose anemones also provides fine invertebrate compositions, and the seabird colony above the waterline is a distinctive above-surface subject.
 
 - Victoria area dive charters for current timing and multi-site itineraries
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/), [Wild Coast Publishing — Oak Bay Islands](https://www.wildcoast.ca/pages/explore-victoria-oak-bay-islands), [IBA Canada — Chain Islets & Great Chain Island](https://www.ibacanada.org/mobile/site.jsp?siteID=BC045). Re-audited 2026-07-18 — added Ecological Reserve #94 protected status and landing restriction; softened unconfirmed sea lion haul-out claim (only harbour seals are independently documented at this specific islet) and corrected current speed to the documented 3–6 knot range for the surrounding passages. Last updated 2026-07-18.*

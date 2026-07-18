@@ -5,7 +5,7 @@ lng: -123.480744
 difficulty: Advanced
 maxDepth: 30
 entryType: shore
-siteType: wall
+siteType: reef
 ref: null
 osmId: 663869295
 addedBy: osm_import
@@ -13,51 +13,50 @@ addedBy: osm_import
 
 ## Henderson Point
 
-Henderson Point is a wall and rocky reef dive site near the southern tip of Vancouver Island, British Columbia, Canada, accessible by shore entry in the waters of the southern Gulf Islands.
+Henderson Point is a rock-mound reef dive site at the end of Senanus Drive in North Saanich, on the west side of the Saanich Peninsula, British Columbia, Canada.
 
 ## Overview
 
-Henderson Point offers one of the more accessible wall dives in the southern Vancouver Island area, dropping from a rocky shoreline entry into a dramatic wall structure that descends to 30 metres. This is an advanced shore dive due to the depth and the potential for significant tidal current. Water temperatures range from 8-12°C throughout the year and a drysuit is essential. Visibility typically runs 6-15 metres, improving considerably in autumn and winter when summer plankton blooms clear.
+Henderson Point is a shore dive featuring a series of rock mounds and reefs rising from a generally flat, sandy bottom, separated by sand channels rather than a continuous wall face. Depths reach over 30 metres at the deepest reefs, though most of the diving takes place in the 6–18 metre range. The site sits in Saanich Inlet and, unlike many southern Vancouver Island shore dives, current is minimal — the main navigational challenge is that the similar-looking rock mounds can be disorienting, so a compass is recommended. Water temperature runs 8–12°C and a drysuit is essential.
 
 ## Site Information
 
-- **Location**: Southern Vancouver Island, British Columbia, Canada
+- **Location**: Senanus Drive, North Saanich, British Columbia, Canada
 - **Entry Type**: Shore entry
-- **Site Type**: Wall dive
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 6-15 metres
+- **Typical Visibility**: 15–30 metres (shallower areas can be murkier; a surface thermocline can reduce visibility to a couple of feet before it opens up below ~6m)
 - **Water Temperature**: 8-12°C (drysuit essential)
-- **Current**: Strong on tidal exchanges — dive at slack
-- **Best Time**: Year-round; best visibility October to March
+- **Current**: Minimal — Saanich Inlet is sheltered and this site is not tide-dependent
+- **Best Time**: Year-round
 
 ## Marine Life
 
-The wall at Henderson Point is richly decorated with plumose anemones, encrusting sponges, and colourful sea stars from top to bottom. Giant Pacific octopus are common in ledges and crevices on the wall face. Lingcod patrol the upper reef sections near the base of the wall. Schools of black rockfish hover in the water column above the drop-off. Nudibranchs and hermit crabs populate the rocky shallows at the entry point. Harbour seals frequently investigate divers at this site.
+Both the large and small reef mounds are known for wolf eels and octopus dens. Red Irish Lord (a distinctively patterned sculpin) and swarms of shrimp are specifically called out by local dive guides for this site. Boot sponges and cloud sponges appear in the deeper areas. Large jellyfish are reported in summer and fall.
 
 ## Dive Profile
 
-Enter from the rocky shoreline and navigate along the bottom to the wall edge, typically encountered at 8-10 metres. Follow the wall down to 20-25 metres, exploring the encrusting invertebrate community and monitoring for GPO in crevices. The deepest section (25-30 metres) can be included for advanced divers with appropriate gas planning. Ascend back up the wall face and complete a 3-5 minute safety stop in the shallows before exiting.
+Enter from the rocky shoreline and descend to the reef mounds, which rise from a sandy bottom starting around 6–8 metres. Most divers work the reef structure in the 6–18 metre range, where marine life density is highest; the deepest mounds reach past 30 metres for those with appropriate training and gas planning. Because the terrain is a series of similar-looking rock mounds rather than a single linear feature, navigation by compass or careful landmark-tracking is recommended to find your way back to the exit.
 
 ## Entry and Exit
 
-Shore entry over rocks — water shoes or rock boots are strongly advised. Assess the entry and exit points carefully before diving; swell and surge can make rocky entries challenging. The entry is best at high water to cover slippery rocks. Confirm your buddy and dive plan before entering. Exit at the same location, timing your approach to the rocks to avoid surge.
+Shore entry via a short trail from a small parking area at the end of Senanus Drive, with a steep final descent of roughly 3 metres (10 ft) down to the water. Water shoes or rock boots are advised. Parking is limited and can fill at peak times. Exit at the same location.
 
 ## Tips and Recommendations
 
-- Always check current tables — this is a wall dive that is noticeably affected by tidal flow
-- A dive torch reveals rich invertebrate life on the deeper wall sections
-- Advanced buoyancy control is important to avoid disturbing the wall community
-- Note the entry/exit point carefully in case visibility drops during the dive
-- Late autumn and winter offer the best wall visibility and active fish populations
+- Bring a compass — the repeating rock-mound terrain can be disorienting without one
+- A dive torch reveals octopus dens and Red Irish Lord camouflaged against the reef
+- Expect a strong thermocline near the surface; visibility improves noticeably once you're a few metres down
+- Current here is minimal, so depth and gas management (not tidal timing) are the main planning considerations
 
 ## Safety Considerations
 
-The combination of depth, potential strong current, and rocky shore entry makes Henderson Point suitable for advanced divers with wall diving experience. Never dive this site in strong current — if current is present on arrival, wait for slack water or choose a different site. Monitor depth carefully on the wall. Manage your gas conservatively to allow for a full safety stop and potential current during the ascent.
+The combination of depth (mounds reaching past 30 metres) and potentially disorienting, repetitive underwater terrain makes Henderson Point suitable for advanced divers. Monitor depth carefully — it is easy to end up deeper than planned while following the reef contour. Manage gas conservatively to allow for a full safety stop. Limited parking means arriving early is advisable.
 
 ## Photography
 
-Henderson Point's wall is visually compelling for wide-angle photography — the plumose anemone forests and sponge-encrusted rock create striking backgrounds. GPO on the wall face make iconic BC diving images. For macro work, the upper reef section and rocky shallows reward close inspection with tight lens setups. Natural light on the upper wall (5-10 metres) can be beautiful on calm bright days.
+The rock-mound reef topography, boot sponges, and cloud sponges in the deeper sections offer strong wide-angle subjects. Octopus dens and Red Irish Lord are good macro subjects in the shallower reef sections.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Element Escapes — Henderson Point](https://elementescapes.ca/dive-sites/henderson-point/), [Zentacle — Henderson Point Dive Site](https://www.zentacle.com/Beach/396/henderson-point-dive-site), [DiveScover — Henderson Point](https://divescover.com/dive-site/henderson-point/27893). Re-audited 2026-07-18 — corrected site type from "wall" to "reef" and current characterization from "strong tidal current" to "minimal current"; multiple independent sources describe this as a rock-mound/reef site in sheltered Saanich Inlet, not a wall dive with significant current. Last updated 2026-07-18.*

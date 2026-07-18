@@ -61,4 +61,4 @@ The reef complex offers diverse photographic compositions at multiple depths. Wo
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Re-searched 2026-07-18 — no source specifically named "Danger Reefs" as a dive site was located (Gabriola-area diving sources instead name Orlebar Point, Gabriola Passage, Snake Island, and Breakwater Island); content remains based on regional Nanaimo/Gabriola diving characteristics rather than a site-specific report. Last updated 2026-07-18.*

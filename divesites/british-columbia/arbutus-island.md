@@ -60,4 +60,4 @@ Boat traffic in the Gulf Islands is frequent, particularly on summer weekends. A
 The reef and kelp combination at Arbutus Island supports both wide-angle and macro work. Rocky slopes colonised by sponges and anemones make compelling wide-angle subjects, while the sea floor and rock crevices yield nudibranchs and small invertebrates for macro lenses. Natural light quality is best from late spring through early autumn.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Re-audited 2026-07-18 — content re-reviewed, remains based on regional Gulf Islands diving characteristics; no site-specific source located. Last updated 2026-07-18.*

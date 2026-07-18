@@ -247,7 +247,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "shore",
-    "siteType": "wall",
+    "siteType": "reef",
     "ref": "",
     "osmId": 663869295
   },
@@ -1747,7 +1747,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 18,
     "entryType": "shore",
-    "siteType": "muck",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 12589864608
   },

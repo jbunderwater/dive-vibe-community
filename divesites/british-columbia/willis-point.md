@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Willis Point
 
-Willis Point is a reef dive site in British Columbia, North America.
+Willis Point is a wall dive site in British Columbia, North America.
 
 ## Overview
 
@@ -52,4 +52,4 @@ Cold water (8–12 °C year-round) requires a drysuit with appropriate undergarm
 The geological formations along the wall and the boot sponge colonies hosting decorated warbonnets are strong macro subjects. Wide-angle compositions work well along the boulder slope in high-visibility conditions. The cloud sponges, if present, are visually striking but must be framed without contact.
 
 ---
-*Sources: [Element Escapes — Willis Point](https://elementescapes.ca/dive-sites/willis-point/), [DIVE BC — Saanich Inlet](http://www.dive.bc.ca/guide/sect_iii.html), [ScubaBoard — Willis Point 2019](https://scubaboard.com/community/threads/oct-20-2019-willis-point-saanich-inlet-video.586787/), [Zentacle — Willis Point](https://www.zentacle.com/Beach/1521/willis-point). Last updated 2026-05-17.*
+*Sources: [Element Escapes — Willis Point](https://elementescapes.ca/dive-sites/willis-point/), [DIVE BC — Saanich Inlet](http://www.dive.bc.ca/guide/sect_iii.html), [ScubaBoard — Willis Point 2019](https://scubaboard.com/community/threads/oct-20-2019-willis-point-saanich-inlet-video.586787/), [Zentacle — Willis Point](https://www.zentacle.com/Beach/1521/willis-point). Re-audited 2026-07-18 — cloud sponge and sixgill shark presence re-confirmed via independent Saanich Inlet sources; corrected stale "reef dive site" one-liner to "wall dive site" to match siteType. Last updated 2026-07-18.*

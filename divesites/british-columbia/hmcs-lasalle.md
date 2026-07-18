@@ -52,4 +52,4 @@ Plan the dive on the slack-water window for Discovery Passage — current predic
 Discovery Passage currents are the dominant hazard: plan carefully around slack water and have strict abort criteria. Drysuit required (water 7–10°C). The wrecks are partially collapsed — penetration is not advised without structural assessment. Remote location means emergency response times are long.
 
 ---
-*Sources: [Wikipedia — HMCS Lasalle (K519)](https://en.wikipedia.org/wiki/HMCS_Lasalle_(K519)), [uboat.net — HMCS LaSalle](https://uboat.net/allies/warships/ship/186.html), [Wikimapia — Kelsey Bay breakwater hulks](http://wikimapia.org/9834071/Kelsey-Bay-breakwater-hulks). Last updated 2026-05-17.*
+*Sources: [Wikipedia — HMCS Lasalle (K519)](https://en.wikipedia.org/wiki/HMCS_Lasalle_(K519)), [uboat.net — HMCS LaSalle](https://uboat.net/allies/warships/ship/186.html), [Wikimapia — Kelsey Bay breakwater hulks](http://wikimapia.org/9834071/Kelsey-Bay-breakwater-hulks). Re-audited 2026-07-18 — dismantled 1947 / breakwater 1948 dates re-confirmed against Military Wiki/Wikipedia summaries with no changes needed. Last updated 2026-07-18.*

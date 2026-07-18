@@ -47,7 +47,9 @@ The Race Rocks area and surrounding southern Vancouver Island waters are well-se
 
 Cold water (7–10°C) and depths to 28 m require a dry suit and appropriate gas planning. Tidal currents through Juan de Fuca Strait can be very strong — current timing is critical. A live boat above is strongly recommended. Surface marker buoy is essential for ascent.
 
-**Note:** The wreck classification in the source data (OSM) could not be confirmed against a specific known wreck at South Bedford Island from available sources. The site is treated here as a rocky reef dive with possible wreck material — divers should consult local operators for current site knowledge.
+**Note:** The wreck classification in the source data (OSM) could not be confirmed against a specific known wreck at South Bedford Island from available sources. The site is treated here as a rocky reef dive with possible wreck material — divers should consult local operators for current site knowledge. Re-checked 2026-07-18: a further search of UASBC's dive-trip records (including a report on a "Race Rocks Mystery Wreck" near Great Race) still turned up no confirmed link to a wreck specifically at South Bedford Island.
+
+The marine life described above reflects the general cold-water fauna of the Race Rocks/Juan de Fuca area rather than site-specific sighting reports for South Bedford Island itself.
 
 ---
-*Sources: [DIVE BC Saanich Inlet Guide](http://www.dive.bc.ca/guide/sect_iii.html), [Rockfish Divers — Victoria Charter Dives](https://www.rockfishdivers.com/charters-805995-404646-553944.html), [Diving — Vancouver Island Tourism](https://vancouverisland.com/things-to-do-and-see/recreation/vancouver-island-bc-islands/diving/). Last updated 2026-05-17.*
+*Sources: [DIVE BC Saanich Inlet Guide](http://www.dive.bc.ca/guide/sect_iii.html), [Rockfish Divers — Victoria Charter Dives](https://www.rockfishdivers.com/charters-805995-404646-553944.html), [Diving — Vancouver Island Tourism](https://vancouverisland.com/things-to-do-and-see/recreation/vancouver-island-bc-islands/diving/), [UASBC — Race Rocks Mystery Wreck & Barnard Castle Photogrammetry](https://uasbc.com/exploration-dive-trips/race-rocks-mystery-wreck-documentation-and-barnard-castle-photogrammetry). Last updated 2026-07-18.*

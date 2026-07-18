@@ -32,7 +32,7 @@ Race Rocks lies about 10 kilometres southwest of Victoria, where the Strait of J
 
 ## Marine Life
 
-The combination of exposed rock, cold upwelling, and protected status has produced exceptional density and diversity. Steller sea lions haul out on the islets and routinely swim through during dives, close enough to touch (though touching is prohibited). Harbour seals are ubiquitous. Northern elephant seals have been documented in recent years. Six-gill sharks patrol the deeper reef zones and are occasionally encountered by divers. Giant Pacific octopus and wolf eels occupy rock piles and boulder crevices. Lingcod reach impressive size here — fish over a metre long are documented. Purple sea urchin barrens alternate with dense plumose anemone fields. Nudibranchs are abundant on the rock surfaces.
+The combination of exposed rock, cold upwelling, and protected status has produced exceptional density and diversity. Both California and Steller sea lions haul out on the islets and routinely swim through during dives, close enough to touch (though touching is prohibited). Harbour seals are ubiquitous. Northern elephant seals have been documented in recent years. Bluntnose sixgill sharks are known from the wider Victoria/Juan de Fuca area (documented, for example, at Willis Point in Saanich Inlet); their presence specifically at Race Rocks is plausible given the depth and current-fed productivity but was not independently re-confirmed during this audit — treat sixgill sightings here as a possibility rather than a guarantee. Giant Pacific octopus and wolf eels occupy rock piles and boulder crevices. Lingcod reach impressive size here — fish over a metre long are documented. Purple sea urchin barrens alternate with dense plumose anemone fields. Nudibranchs are abundant on the rock surfaces.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Sea lion interactions are the headline subject — shoot wide (10–17 mm equiva
 ## Additional Resources
 
 ---
-*Sources: [Race Rocks Ecological Reserve](https://racerocks.ca/), [Rockfish Divers — Race Rocks Charter](https://www.rockfishdivers.com/charters-410001.html), [UVic Scuba — Race Rocks](https://www.uvicscuba.com/race-rocks.html), [DAN — Howe Sound](https://dan.org/alert-diver/article/howe-sound/). Last updated 2026-05-18.*
+*Sources: [Race Rocks Ecological Reserve](https://racerocks.ca/), [Rockfish Divers — Race Rocks Charter](https://www.rockfishdivers.com/charters-410001.html), [UVic Scuba — Race Rocks](https://www.uvicscuba.com/race-rocks.html), [BC Parks — Race Rocks Ecological Reserve](https://bcparks.ca/race-rocks-ecological-reserve/), [Wikipedia — Race Rocks Ecological Reserve](https://en.wikipedia.org/wiki/Race_Rocks_Ecological_Reserve). Re-audited 2026-07-18 — current speeds (up to 7 knots) and California/Steller sea lion haul-outs re-confirmed; sixgill shark claim softened as it could not be independently re-confirmed for this specific site. Last updated 2026-07-18.*

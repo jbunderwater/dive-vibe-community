@@ -17,7 +17,7 @@ One of Metro Vancouver's most beloved shore dives, offering dense bull kelp fore
 
 ## Overview
 
-Whytecliff Park sits at the western edge of West Vancouver near Horseshoe Bay, roughly 15 minutes from Lions Gate Bridge. The park encompasses two distinct dive areas: The Bay, a sheltered cove with gentle slopes accessible to beginners, and The Cut, a current-swept channel on the north side that demands intermediate skills and careful slack-tide planning. Both areas share the same rich Pacific Northwest marine community — dense bull kelp canopy, encrusting anemone gardens, and a well-documented wolf eel population that has made Whytecliff famous among BC divers. Water temperature runs 8–12°C year-round, making a drysuit the sensible choice for extended dives.
+Whytecliff Park sits at the western edge of West Vancouver near Horseshoe Bay, roughly 15 minutes from Lions Gate Bridge. In 1993 it became Canada's first Marine Protected Area. The park encompasses several distinct dive areas: The Bay, a sheltered cove with a sandy center appropriate for skills practice that gradually deepens beyond 18 metres toward its outer edges; The Cut, a current-swept channel on the north side that demands intermediate-to-advanced skills and careful slack-tide planning, with depths that can exceed recreational limits; and Whyte Islet and the Day Marker, two further named sites within the park boundary. All areas share the same rich Pacific Northwest marine community — dense bull kelp canopy, encrusting anemone gardens, and a well-documented wolf eel population that has made Whytecliff famous among BC divers. Water temperature runs 8–12°C year-round, making a drysuit the sensible choice for extended dives.
 
 ## Site Information
 
@@ -65,4 +65,4 @@ Bull kelp towers make dramatic wide-angle subjects when the sun angle is right i
 - Last Updated: 2026-03-28
 
 ---
-*Sources: [DAN — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [PADI — Whytecliff Park](https://www.padi.com/dive-site/canada/whytecliff-park/), [Make Some Bubbles — Whytecliff Park](https://makesomebubbles.com/posts/2023/vancouver-dive-sites-whytecliff-park/), [Fraser Valley Scuba Club — Whytecliff](http://www.fvscuba.org/whytecliff-park.html). Last updated 2026-05-18.*
+*Sources: [DAN — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [PADI — Whytecliff Park](https://www.padi.com/dive-site/canada/whytecliff-park/), [Make Some Bubbles — Whytecliff Park](https://makesomebubbles.com/posts/2023/vancouver-dive-sites-whytecliff-park/), [Fraser Valley Scuba Club — Whytecliff](http://www.fvscuba.org/whytecliff-park.html), [Zentacle — Whytecliff Park](https://www.zentacle.com/Beach/1519/whytecliff-park). Re-audited 2026-07-18 — added 1993 first-Marine-Protected-Area designation and noted that both The Bay and The Cut can exceed this site's listed 18m max depth toward their outer edges. Last updated 2026-07-18.*

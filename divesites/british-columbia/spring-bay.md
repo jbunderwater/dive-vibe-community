@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Spring Bay
 
-Spring Bay is a reef dive site in British Columbia, North America.
+Spring Bay is a muck dive site in British Columbia, North America.
 
 ## Overview
 
@@ -33,7 +33,7 @@ Spring Bay supports the diverse cryptic community typical of Victoria-area muck 
 
 ## Dive Profile
 
-The site is a sheltered bay with a shallow profile to around 15 metres (50 feet) maximum. The bay itself is calm and beginner-friendly; conditions become more demanding toward Ten Mile Point to the right, where currents increase significantly. Visibility is tidal-dependent and ranges from around 3 m in poor conditions to good visibility near shore on calm days with incoming tide. A slack-water dive is strongly preferred.
+The site is a sheltered bay with a shallow, beginner-friendly profile close to shore; conditions become more demanding toward Ten Mile Point to the right, where currents increase significantly. To the left, a reef slopes away to a boulder-strewn bottom that some sources describe reaching approximately 25 metres — deeper than the 15m figure in this site's data, so treat maximum depth as a range depending on how far from the sheltered inner bay you travel. Visibility is tidal-dependent and ranges from around 3 m in poor conditions to good visibility near shore on calm days with incoming tide. A slack-water dive is strongly preferred.
 
 ## Entry and Exit
 
@@ -48,4 +48,4 @@ Dive at slack tide for best visibility. For macro and cryptic species, head left
 Tidal currents increase sharply toward Ten Mile Point — stay in the bay if inexperienced with current. Cold water (7–10°C) requires a dry suit or thick wetsuit with hood and gloves. The rocky entry can be slippery, especially with gear; booties with good grip are important. Always dive at or near slack water.
 
 ---
-*Sources: [Spring Bay — Zentacle Dive Reviews](https://www.zentacle.com/Beach/1382/spring-bay), [Shore Diving in Victoria — Rockfish Divers](https://www.rockfishdivers.com/shore-diving.html), [Victoria BC Dive Sites — vancouver-island-dive-sites.com](http://www.vancouver-island-dive-sites.com/victoria-bc-dive-sites.html). Last updated 2026-05-17.*
+*Sources: [Spring Bay — Zentacle Dive Reviews](https://www.zentacle.com/Beach/1382/spring-bay), [Shore Diving in Victoria — Rockfish Divers](https://www.rockfishdivers.com/shore-diving.html), [Victoria BC Dive Sites — vancouver-island-dive-sites.com](http://www.vancouver-island-dive-sites.com/victoria-bc-dive-sites.html), [Just Gotta Dive — Five Shore Dives Victoria](https://www.justgottadive.com/dive_resources/travel_articles/five-amazing-shore-dives-victoria). Re-audited 2026-07-18 — flagged a depth discrepancy: this site's data lists 15m max depth, but Just Gotta Dive describes the reef sloping to a boulder bottom around 25m. Last updated 2026-07-18.*

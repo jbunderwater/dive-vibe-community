@@ -48,4 +48,4 @@ This site is current-dependent: plan the dive within 30 minutes of predicted sla
 Strong tidal currents are the primary hazard. Even at slack, current can resume quickly if a tidal prediction is off or if the dive runs long. Drysuit required for cold water (8–12°C). Have a current plan and agree on abort procedures with your buddy before entry.
 
 ---
-*Sources: [X-Ray Mag — British Columbia Southern Gulf Islands](https://xray-mag.com/content/british-columbias-southern-gulf-islands), [Scuba Diving — BC's Top 10 Dives](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives). Last updated 2026-05-17.*
+*Sources: [X-Ray Mag — British Columbia Southern Gulf Islands](https://xray-mag.com/content/british-columbias-southern-gulf-islands), [Scuba Diving — BC's Top 10 Dives](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives). Re-audited 2026-07-18 — content re-reviewed, remains based on regional Active Pass/Gulf Islands diving characteristics; no additional site-specific source located. Last updated 2026-07-18.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Parker Reef
 
-Parker Reef is a reef dive site in British Columbia, North America.
+Parker Reef is a kelp forest dive site in British Columbia, North America.
 
 ## Overview
 
@@ -48,4 +48,4 @@ Kelp forest dives at Parker Reef are best in summer when the bull kelp canopy is
 Bull kelp can entangle gear or become wrapped around regulators and limbs — move slowly and keep SPG and octopus tucked away. Cold water (8–11°C) requires a dry suit or 7 mm wetsuit with hood. Tidal currents in the Southern Gulf Islands can be significant — assess flow before entry. Carry a surface marker buoy.
 
 ---
-*Sources: [Diving — Gulf Islands Guide](https://www.gulfislandsguide.com/activities-and-recreation/diving/), [Diving — Gulf Islands National Park, BC](https://www.gulfislandsnationalpark.com/recreation/diving/), [British Columbia's Top 10 Dives — Scuba Diving Magazine](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives). Last updated 2026-05-17.*
+*Sources: [Diving — Gulf Islands Guide](https://www.gulfislandsguide.com/activities-and-recreation/diving/), [Diving — Gulf Islands National Park, BC](https://www.gulfislandsnationalpark.com/recreation/diving/), [British Columbia's Top 10 Dives — Scuba Diving Magazine](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives). Re-searched 2026-07-18 — no additional site-specific source located for Parker Reef by name; content remains based on regional Gulf Islands/Saturna Island kelp-diving characteristics rather than site-specific reports. Last updated 2026-07-18.*

@@ -53,4 +53,4 @@ Boat-only access. Tumbo Island is part of Gulf Islands National Park Reserve; ac
 - Autumn and early winter (October–January) offer peak visibility in these southern Gulf Islands waters.
 
 ---
-*Sources: [Saturna Island — Visitor in Victoria](https://visitorinvictoria.ca/saturna-island/), [Off The Beaten Path: Cabbage and Tumbo Islands — PassageMaker](http://passagemaker.com/channels/new-article/), [Diving — Gulf Islands National Park](https://www.gulfislandsnationalpark.com/recreation/diving/). Last updated 2026-05-17.*
+*Sources: [Saturna Island — Visitor in Victoria](https://visitorinvictoria.ca/saturna-island/), [Off The Beaten Path: Cabbage and Tumbo Islands — PassageMaker](http://passagemaker.com/channels/new-article/), [Diving — Gulf Islands National Park](https://www.gulfislandsnationalpark.com/recreation/diving/). Re-audited 2026-07-18 — content re-reviewed, remains based on regional Saturna/Tumbo Island diving characteristics; no additional site-specific source located. Last updated 2026-07-18.*

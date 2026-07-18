@@ -18,7 +18,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "dive.bc.ca,rockfishdivers.com,vancouverisland.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "QA 2026-07-18: Re-searched; no source confirms a specific named wreck at this location. Site remains treated as rocky reef terrain of uncertain wreck identity, consistent with prior findings."
     }
   },
   {
@@ -38,7 +39,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "racerocks.ca,rockfishdivers.com,uvicscuba.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -60,7 +61,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "racerocks.ca,uasbc.com,coldoceandiver.ca",
-      "last_qa_date": "2026-05-20",
+      "last_qa_date": "2026-07-18",
       "depth_note": "QA 2026-05-20: Corrected from 28m to 12m — wreck sits in ~12m at Pilot Bay per UASBC and racerocks.ca. The 28m figure reflects slope past wreck."
     }
   },
@@ -101,7 +102,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubabc.ca,dive.bc.ca,rockfishdivers.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -124,7 +125,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "nauticapedia.ca,uasbc.com,scubaboard.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "QA 2026-07-18: Sinking date confirmed as Dec 27 1944 by most sources (victoriaharbourhistory.com, nauticapedia.ca); a minority of sources cite January 1944/1945. Location given as Macaulay Point in most sources, Harrison Island in some."
     }
   },
   {
@@ -165,7 +167,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "coldoceandiver.ca,zentacle.com,scubabc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -185,7 +187,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -205,7 +207,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -225,7 +227,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "zentacle.com,coldoceandiver.ca,vancouver-island-dive-sites.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -245,7 +247,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -286,7 +288,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -387,7 +389,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubabc.ca,dive.bc.ca,diveidc.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -417,7 +419,7 @@
     "osm_id": 663869295,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Advanced",
     "tags": {
@@ -426,8 +428,9 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubabc.ca,dive.bc.ca,diveidc.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "elementescapes.ca,zentacle.com,divescover.com",
+      "last_qa_date": "2026-07-18",
+      "qa_note": "QA 2026-07-18: Corrected site_type from wall to reef and current characterization from strong-tidal to minimal, per multiple independent sources (Element Escapes, Zentacle, DiveScover) describing this as a rock-mound reef with minimal Saanich Inlet current, not a wall dive."
     }
   },
   {
@@ -527,7 +530,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -569,8 +572,9 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "artificialreefsocietybc.ca,wikipedia.org,scubabc.ca",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "artificialreefsocietybc.ca,wikipedia.org,scubabc.ca,xray-mag.com",
+      "last_qa_date": "2026-07-18",
+      "qa_note": "QA 2026-07-18: Removed unverified claims (original name 'Cerium', 1943 WWII munitions-carrier build history, National Geographic 'Search for the Giant Octopus' documentary) — no independent source confirms these. Confirmed facts retained: 175ft freighter, ARSBC's first project (started 1989), scuttled 11 Aug 1991 off Portland Island."
     }
   },
   {
@@ -590,7 +594,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -670,7 +674,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -833,7 +837,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -914,7 +918,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -1042,7 +1046,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,canada.ca,atlasobscura.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -1102,7 +1106,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -1467,7 +1471,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -1530,7 +1534,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -2603,7 +2607,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,artificialreefsocietybc.ca,cbc.ca",
-      "last_qa_date": "2026-05-20",
+      "last_qa_date": "2026-07-18",
       "depth_note": "QA 2026-05-20: Depth confirmed 32-33m at keel level per ARSBC."
     }
   },
@@ -2626,9 +2630,10 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "scubabc.ca,dive.bc.ca,openstreetmap.org",
-      "last_qa_date": "2026-05-20"
+      "validated": "false",
+      "validation_source": "none - no site-specific source found",
+      "last_qa_date": "2026-07-18",
+      "qa_note": "QA 2026-07-18: Re-audit found no site-specific source (previously marked validated=true on generic/regional sources only, which does not meet the 3-independent-source bar). Downgraded to unvalidated pending a real source."
     }
   },
   {
@@ -2748,7 +2753,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -2836,7 +2841,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "navsource.net,wikipedia.org,bigdoer.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "QA 2026-07-18: Three battle stars (Italy, Southern France, Okinawa) confirmed by Wikipedia, historyofwar.org, and destroyerhistory.org. Scuttling date 21 Aug 1947 confirmed directly by NavSource; bigdoer.com lists 1948 for the same event — conflict noted in markdown. Sale date also varies: NavSource says 13 Nov 1946, Wikipedia/destroyerhistory.org say 17 Oct 1946."
     }
   },
   {
@@ -2862,7 +2868,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18",
+      "wreck_date_sunk_note": "Sources conflict: Wikipedia states 1948; forposterityssake.ca is internally inconsistent (states both 1947 and 1948); bigdoer.com and qualla.com state 1947 (qualla.com gives 8 Nov 1947)."
     }
   },
   {
@@ -2888,7 +2895,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "atlasobscura.com,vanisle.news,uasbc.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -2910,9 +2917,10 @@
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "scubabc.ca,dive.bc.ca,diveidc.com",
-      "last_qa_date": "2026-05-20"
+      "validated": "false",
+      "validation_source": "none - no site-specific source found",
+      "last_qa_date": "2026-07-18",
+      "qa_note": "QA 2026-07-18: Re-audit found no site-specific source (previously marked validated=true on generic/regional sources only, which does not meet the 3-independent-source bar). Downgraded to unvalidated pending a real source."
     }
   },
   {
@@ -2954,7 +2962,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "coldoceandiver.ca,britanniabeach.com,dan.org",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -2984,7 +2992,7 @@
     "osm_id": 12589864608,
     "osm_type": "node",
     "depth": 18,
-    "site_type": "muck",
+    "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
@@ -2994,8 +3002,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "dan.org,justgottadive.com,coldoceandiver.ca",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "dan.org,justgottadive.com,coldoceandiver.ca,artificialreefsocietybc.ca,britishcolumbia.com",
+      "last_qa_date": "2026-07-18",
+      "qa_note": "QA 2026-07-18: Corrected site_type from muck to wreck. The site's own OSM description tag says 'Several artificial reefs and wrecks' (Granthall tug, Nakaya minesweeper, Centennial III dredge tender) -- muck/critter-sand diving is not this site's character."
     }
   },
   {
@@ -3016,7 +3025,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "dan.org,padi.com,makesomebubbles.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -3242,7 +3251,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -3266,7 +3275,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "QA 2026-07-18: Corrected paid-off date from 31 Dec 1945 to 31 Dec 1946 per Wikipedia (markdown previously had an error). Breakwater scuttling year conflict noted: Wikipedia says 1947, while the site had previously stated 1948 (matching sister ship convention) — flagged as uncertain in markdown."
     }
   },
   {
@@ -3290,7 +3300,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -3373,7 +3383,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -3399,7 +3409,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "atlasobscura.com,bigdoer.com,uasbc.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-18"
     }
   },
   {

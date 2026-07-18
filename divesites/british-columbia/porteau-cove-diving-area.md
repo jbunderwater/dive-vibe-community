@@ -5,7 +5,7 @@ lng: -123.2351748
 difficulty: Intermediate
 maxDepth: 18
 entryType: shore
-siteType: muck
+siteType: wreck
 ref: null
 osmId: 12589864608
 addedBy: osm_import
@@ -23,7 +23,7 @@ Porteau Cove is located on the east side of Howe Sound, 24 km north of Horseshoe
 
 - **Location**: Howe Sound, Porteau Peninsula, British Columbia
 - **Entry Type**: Shore entry
-- **Site Type**: Muck dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Water Temperature**: 8-12°C (cold water diving required)
@@ -31,21 +31,22 @@ Porteau Cove is located on the east side of Howe Sound, 24 km north of Horseshoe
 ## Featured Wrecks
 
 **The Granthall** (primary attraction)
-- 28-meter steel tug
-- Scuttled March 11, 1992
+- 28-meter steel-hulled tugboat, built in Montreal in 1928 for CPR
+- Converted from tug to herring packer in 1967 after her superstructure was removed
+- Scuttled in 1992 along with two other vessels (an 11m steel dredge tender, Centennial III, and a 15m ferrocement sailboat hull) to form the reef network
 - Depth: 10-15 meters
 - Ideal for novice divers due to shallow depth and intact structure
 - Heavily encrusted with anemones and decorator crabs
 - Easily explored without penetration training
 
 **The Nakaya**
-- Located in 20-30 meter depths
-- Advanced state of decomposition
-- Lies partially outside park boundary
-- Accessible for experienced divers only
+- A 41-metre former minesweeper, scuttled in 1985 at the northern edge of the diving area
+- Located in 20-30 meter depths, in an advanced state of decomposition
+- No longer shown on current park dive maps and lies outside the official park boundary, but still accessible to experienced divers
 
-**Centennial Wreck**
-- Part of artificial reef network
+**Centennial III**
+- 11-metre steel dredge tender, one of three vessels sunk in 1992 alongside the Granthall
+- Part of the artificial reef network
 - Densely populated with anemones
 - Shallow to moderate depth
 
@@ -110,4 +111,4 @@ This is an Intermediate site suitable for trained recreational divers:
 - Carry proper signaling devices
 
 ---
-*Sources: [DAN — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [Just Gotta Dive — Porteau Cove](https://www.justgottadive.com/dive_resources/travel_articles/diving-porteau-cove-provincial-park-reefs-wrecks-and-more), [Cold Ocean Diver — Porteau Cove](https://coldoceandiver.ca/porteau-cove), [ARSBC — Porteau Wrecks and Reefs](https://artificialreefsocietybc.ca/uploads/6/9/3/9/69390363/porteau_wrecks_and_reefs_2013.pdf). Last updated 2026-05-18.*
+*Sources: [DAN — Howe Sound](https://dan.org/alert-diver/article/howe-sound/), [Just Gotta Dive — Porteau Cove](https://www.justgottadive.com/dive_resources/travel_articles/diving-porteau-cove-provincial-park-reefs-wrecks-and-more), [Cold Ocean Diver — Porteau Cove](https://coldoceandiver.ca/porteau-cove), [ARSBC — Porteau Wrecks and Reefs](https://artificialreefsocietybc.ca/uploads/6/9/3/9/69390363/porteau_wrecks_and_reefs_2013.pdf), [BritishColumbia.com — Porteau Cove Provincial Park](https://britishcolumbia.com/things-to-do-and-see/parks-and-trails/vancouver-coast-mountains/porteau-cove-provincial-park/). Re-audited 2026-07-18 — corrected site_type from "muck" to "wreck" (the site's defining feature is its wreck/artificial-reef network, not muck/critter diving); Granthall build history and Nakaya scuttling details cross-confirmed against a second independent source. Last updated 2026-07-18.*

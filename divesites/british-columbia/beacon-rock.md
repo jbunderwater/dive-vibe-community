@@ -17,7 +17,7 @@ Beacon Rock is a boat-access reef dive in the Strait of Georgia off Nanaimo, Bri
 
 ## Overview
 
-Beacon Rock is a submerged navigational hazard in the Strait of Georgia that has been converted by biology into a prime dive site. The rock is well known to local Nanaimo-area divers and sees regular charter boat traffic from the city's active dive community. Rocky substrate drops from near-surface to 18 metres, with varied terrain of ridges, crevices, and sandy patches at the perimeter. Cold Strait of Georgia water — typically 8 to 11°C — keeps the rock richly colonised. Visibility averages 8 to 12 metres and can improve significantly during summer when conditions are calm.
+Beacon Rock is a submerged navigational hazard just north of Departure Bay, near the beach by Pipers Lagoon Park in Nanaimo, marked by a lighted beacon and a dive buoy. It's a popular add-on boat dive after visiting the wrecks near Snake Island (HMCS Saskatchewan or HMCS Cape Breton) or the Snake Island Wall. Rocky substrate drops from near-surface to 18 metres, with varied terrain of ridges, crevices, and sandy patches at the perimeter. Cold Strait of Georgia water — typically 8 to 11°C — keeps the rock richly colonised. Visibility averages 8 to 12 metres and can improve significantly during summer when conditions are calm.
 
 ## Site Information
 
@@ -60,4 +60,4 @@ The Strait of Georgia is a busy commercial shipping route. Be visible at the sur
 Beacon Rock suits wide-angle shooting of the rock structure and schooling fish. The perch and rockfish communities are photogenic and accustomed to diver presence. Macro opportunities include nudibranchs and small crustaceans on the rock face. Morning dives often have the best ambient light in the Strait.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/), [Vancouver Island Dive Sites — Nanaimo](http://www.vancouver-island-dive-sites.com/dive-sites/nanaimo). Re-audited 2026-07-18 — added precise location (near Pipers Lagoon Park, north of Departure Bay) and its relationship to the nearby Snake Island wreck/wall dives, confirmed via a Nanaimo-specific dive-site source. Last updated 2026-07-18.*
