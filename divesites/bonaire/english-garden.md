@@ -13,48 +13,50 @@ addedBy: jbunderwater_ai
 
 # English Garden
 
+*A site name recorded in OpenStreetMap on Bonaire's southern coast, near Pink Beach and Tori's Reef — no site-specific source has been found to confirm its character.*
+
 ## Overview
-English Garden is a beautiful dive site located in southern Bonaire near Pink Beach. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+English Garden is a dive site name that appears in OpenStreetMap data for Bonaire's southern coast, near Pink Beach and Tori's Reef. Despite repeated searches, no independent source — InfoBonaire, STINAPA, Divers-Guide, PADI, Bonaire.com, or ScubaBoard — lists a dive site under this name. It may be an informal or local name for a section of the reef near these established sites. The difficulty, depth, and entry-type fields below reflect the general character of this stretch of coast, not a confirmed profile for this specific site.
 
 ## Site Information
-- **Location**: South Bonaire (near Pink Beach)
+
+- **Location**: Southern Bonaire, near Pink Beach and Tori's Reef
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: Not documented for this specific site
+- **Current**: Not documented for this specific site
+- **Best Time**: Not documented for this specific site
 
 ## Marine Life
-English Garden is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+No source confirming species sightings specific to this site has been found. Bonaire's southern reefs generally support a wide range of Caribbean reef fish and invertebrates, but attributing a species list to "English Garden" specifically would not be supported by any source.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+No site-specific dive profile has been documented. If this is indeed a section of reef near Pink Beach and Tori's Reef, it likely shares that area's shore-entry, sandbar-and-reef character, but this has not been confirmed.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Not documented for this specific site.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Verify this site's exact location and access with a local dive shop before planning a dive — it does not appear on official BNMP maps
+
+## Safety
+
+No site-specific hazards are documented. Follow standard precautions for shore diving on Bonaire's southern coast.
 
 ## Photography
-English Garden offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Not documented for this specific site.
 
 ## Nearby Sites
-Nearby sites include Pink Beach, Alice in Wonderland, and Margate Bay. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Pink Beach, Alice in Wonderland, and Margate Bay are the nearest official, mapped sites along the southern coast.
 
 ---
-*Description based on regional diving characteristics of the southern Bonaire fringing reef. No site-specific sources found — "English Garden" appears in OpenStreetMap but not in InfoBonaire, STINAPA, PADI, or Bonaire.com dive-site indexes; the OSM coordinates place it on the southern coast near Pink Beach and Tori's Reef. Possibly an informal or local name. Last updated 2026-05-24.*
+*No site-specific source found. "English Garden" appears in OpenStreetMap but not in InfoBonaire, STINAPA, Divers-Guide, PADI, Bonaire.com, or ScubaBoard dive-site indexes as of this search. The previous version of this page contained a detailed marine-life list and dive profile that could not be traced to any source and has been removed. Last updated 2026-07-18.*

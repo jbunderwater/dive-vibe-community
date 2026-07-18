@@ -60,4 +60,4 @@ The soft coral community would be a primary photographic subject if conditions a
 Sweet Dreams and Red Slave are nearby to the south. Yellow Hut and Hidden Beach are adjacent unmarked sites.
 
 ---
-*Unmarked "dive like a local" site on the southern west coast between Sweet Dreams and Red Slave; not on the official BNMP yellow-stone marker system. Brief mention in [kasdivi.com](https://www.kasdivi.com/) beach guide. Limited site-specific sources — description based on site name and regional reef characteristics. Last updated 2026-05-24.*
+*Sources: [4 Wheel Diving – Dive Like a Local](https://4wheeldiving.com/tours/dive-like-a-local/) (confirms this is an unmarked site known to local divemasters, grouped with Yellow Hut and Hidden Beach), kasdivi.com beach guide (previously cited; unreachable — HTTP 503 — on this pass and not re-verified live). Two sources at best — short of this destination's three-source bar for full validation, so `validated` remains unset. Last updated 2026-07-18.*

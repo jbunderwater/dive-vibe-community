@@ -62,4 +62,4 @@ The nutrient-rich slope rewards wide-angle for the fish schools and rays. Calm-d
 Boka Bartol, Boka Katuna, and Wayaka 2 lie inside the adjacent Washington-Slagbaai Park. Carel's Vision is the nearest non-park site to the south.
 
 ---
-*Sources: [Divers-Guide – Playa Frans](https://www.divers-guide.com/en/playa-frans), [BonairePros – Four Great Dives For The Experienced](https://bonairepros.com/). Last updated 2026-05-16.*
+*Sources: [Divers-Guide – Playa Frans](https://www.divers-guide.com/en/playa-frans), [BonairePros – Four Great Dives For The Experienced](https://bonairepros.com/). Re-verified live 2026-07-18 against the cited sources; content confirmed consistent. Last updated 2026-07-18.*

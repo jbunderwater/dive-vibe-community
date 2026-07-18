@@ -13,48 +13,50 @@ addedBy: jbunderwater_ai
 
 # Boy Scout
 
+*A site name recorded in OpenStreetMap on Bonaire's central west coast, near Bari Reef and Palu Lechi — no site-specific source has been found to confirm its character.*
+
 ## Overview
-Boy Scout is a beautiful dive site located in central Bonaire near Bari Reef. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Boy Scout is a dive site name that appears in OpenStreetMap data for Bonaire's central west-coast fringing reef belt, near Bari Reef and Palu Lechi. Despite repeated searches, no independent source — InfoBonaire, STINAPA, Divers-Guide, PADI, Bonaire.com, or ScubaBoard — lists a dive site under this name. It may be a local or informal name for a section of the adjacent house reefs, or a name specific to a single dive shop's log rather than an established, marked site. The difficulty, depth, and entry-type fields below reflect the general character of this stretch of coast, not a confirmed profile for this specific site.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
+
+- **Location**: Central Bonaire, near Bari Reef and Palu Lechi
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: Not documented for this specific site
+- **Current**: Not documented for this specific site
+- **Best Time**: Not documented for this specific site
 
 ## Marine Life
-Boy Scout is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+No source confirming species sightings specific to this site has been found. Bonaire's central west-coast reefs generally support a wide range of Caribbean reef fish and invertebrates, but attributing a species list to "Boy Scout" specifically would not be supported by any source.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+No site-specific dive profile has been documented. If this is indeed a section of the fringing reef near Bari Reef and Palu Lechi, it likely shares that area's shore-entry, gently sloping reef character, but this has not been confirmed.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Not documented for this specific site.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Verify this site's exact location and access with a local dive shop before planning a dive — it does not appear on official BNMP maps
+
+## Safety
+
+No site-specific hazards are documented. Follow standard precautions for shore diving on Bonaire's central coast.
 
 ## Photography
-Boy Scout offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Not documented for this specific site.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, Buddy's Reef, and Cliff. All are accessible along the central coast of Bonaire.
 
-## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Bari Reef, Buddy's Reef, and La Machaca are the nearest official, mapped sites in this section of the central coast.
 
 ---
-*Description based on regional diving characteristics of the central west-coast fringing reef belt near Palu Lechi. No site-specific sources found — "Boy Scout" appears in OpenStreetMap but not in InfoBonaire, STINAPA, PADI, or Bonaire.com dive-site indexes; it may be a local or informal name for a section of the adjacent house reefs. Last updated 2026-05-24.*
+*No site-specific source found. "Boy Scout" appears in OpenStreetMap but not in InfoBonaire, STINAPA, Divers-Guide, PADI, Bonaire.com, or ScubaBoard dive-site indexes as of this search. The previous version of this page contained a detailed marine-life list and dive profile that could not be traced to any source and has been removed. Last updated 2026-07-18.*

@@ -62,4 +62,4 @@ The shallow shelf at 2–5 meters has excellent ambient light and dense soft cor
 Willemstoren Lighthouse lies just south. Sweet Dreams and the unmarked southern sites are further north along the same coastline.
 
 ---
-*Sources: [Bonaire.com – Lighthouse Point](https://bonaire.com/en/dive-sites/lighthouse-point/), [Divers-Guide – Lighthouse Point](https://www.divers-guide.com/en/lighthouse-point), [Reef Smart Guides – Lighthouse Point](https://reefsmartguides.com/lighthouse-point/). Last updated 2026-05-16.*
+*Sources: [Bonaire.com – Lighthouse Point](https://bonaire.com/en/dive-sites/lighthouse-point/), [Divers-Guide – Lighthouse Point](https://www.divers-guide.com/en/lighthouse-point), [Reef Smart Guides – Lighthouse Point](https://reefsmartguides.com/lighthouse-point/). Re-verified live 2026-07-18 against the cited sources; content confirmed consistent. Last updated 2026-07-18.*

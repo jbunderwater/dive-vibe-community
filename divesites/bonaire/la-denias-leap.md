@@ -63,4 +63,4 @@ The wall photographs well in the morning when sun lights the reef face. The comm
 Karpata is the exit point and a worthwhile dive in its own right. 1000 Steps and Weber's Joy / Witches Hut lie further south along the same coastline. Boka di Tolo is the nearest site to the north.
 
 ---
-*Sources: [InfoBonaire – La Dania's Leap](https://infobonaire.com/la-danias-leap/), [Bonaire.com – La Dania's Leap](https://bonaire.com/en/dive-sites/la-danias-leap/), [PADI – La Dania's Leap](https://www.padi.com/dive-site/bonaire/la-danias-leap/), [ScubaBoard – La Dania's Leap thread](https://scubaboard.com/community/threads/la-danias-leap.255674/). Last updated 2026-05-16.*
+*Sources: [InfoBonaire – La Dania's Leap](https://infobonaire.com/la-danias-leap/), [Bonaire.com – La Dania's Leap](https://bonaire.com/en/dive-sites/la-danias-leap/), [PADI – La Dania's Leap](https://www.padi.com/dive-site/bonaire/la-danias-leap/), [ScubaBoard – La Dania's Leap thread](https://scubaboard.com/community/threads/la-danias-leap.255674/). Re-verified live 2026-07-18 against the cited sources; content confirmed consistent. Last updated 2026-07-18.*

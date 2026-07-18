@@ -13,11 +13,13 @@ addedBy: jbunderwater_ai
 
 # Playa Benge
 
-*A Washington-Slagbaai National Park reef dive accessible only by 4WD — pristine, remote fringing reef on Bonaire's northwest coast. Note: currently listed as closed for diving on infobonaire.com (verify current status before visiting).*
+*A Washington-Slagbaai National Park reef dive accessible only by 4WD — pristine, remote fringing reef on Bonaire's northwest coast. Currently closed to diving — see note below.*
 
 ## Overview
 
-Playa Benge is located inside Washington-Slagbaai National Park on Bonaire's northwest coast, accessible only by 4WD via the park road. The site offers pristine fringing reef diving in an unspoiled setting, with the lower visitor numbers that come with the access barrier. As of early 2026, infobonaire.com lists several Washington-Slagbaai park sites as currently closed for diving — **verify the current status of this site with STINAPA or the park entrance before visiting**. The difficulty rating of Advanced reflects the remote location and the logistical challenges of diving without nearby support.
+Playa Benge is located inside Washington-Slagbaai National Park on Bonaire's northwest coast, accessible only by 4WD via the park road. The site offers pristine fringing reef diving in an unspoiled setting, with the lower visitor numbers that come with the access barrier. The reef wall begins around 11 meters. The difficulty rating of Advanced reflects the remote location, loose-stone entry, occasional rip currents, and the logistical challenges of diving without nearby support.
+
+**Site closure**: STINAPA closed all Washington-Slagbaai National Park dive sites, including Playa Benge, on May 1, 2023 to slow the spread of Stony Coral Tissue Loss Disease (SCTLD). InfoBonaire's live dive-site map still lists the site as closed as of this update, and a ScubaBoard discussion from November 2025 confirmed the park's numbered sites remained closed with no reopening expected before at least February 2026. Confirm current status with STINAPA before planning a dive here.
 
 ## Site Information
 
@@ -32,7 +34,7 @@ Playa Benge is located inside Washington-Slagbaai National Park on Bonaire's nor
 
 ## Marine Life
 
-The protected national park location supports excellent reef health with typical northern Bonaire species: parrotfish, angelfish, groupers, snappers, and turtles. The lower visitor traffic means fish are less accustomed to divers and behaviour is more natural.
+Divers-Guide logs report sponges, glassfish, groupers, stingrays, peacock flounder, thornback ray, and sea bass as typical sightings. The same logs also record occasional larger pelagics passing through the deeper drop-off, including nurse sharks and reports of manta rays and hammerhead sharks — these should be treated as rare, not typical, encounters. The lower visitor traffic means fish are generally less accustomed to divers.
 
 ## Dive Profile
 
@@ -44,7 +46,7 @@ Shore entry and gradual reef slope. The northwest exposure means conditions shou
 
 ## Tips
 
-- **Check current site closure status with STINAPA before visiting**
+- **This site is currently closed for diving (see closure note above) — check with STINAPA before planning a visit**
 - A park entry fee is required in addition to the STINAPA nature tag
 - Combine with other park sites on the same day to justify the access effort
 - Carry more water and sun protection than usual given the remote setting
@@ -62,4 +64,4 @@ The pristine reef and clear northern water are excellent for photography. The wi
 Boka Bartol, Playa Funchi, and Bisé Morto are other park sites in the same area.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide – Playa Benge](https://www.divers-guide.com/en/dive-spots/playa-benge), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/) (live closure status), [Divers-Guide – Playa Benge](https://www.divers-guide.com/en/dive-spots/playa-benge), [ScubaBoard – Bonaire dive site closures done?](https://scubaboard.com/community/threads/bonaire-dive-site-closures-done.664329/). Last updated 2026-07-18.*

@@ -665,8 +665,8 @@
     "lat": 12.2935303,
     "lng": -68.4132212,
     "difficulty": "Intermediate",
-    "maxDepth": 18,
-    "entryType": "shore",
+    "maxDepth": 30,
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 4200486589

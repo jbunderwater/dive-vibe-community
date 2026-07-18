@@ -60,4 +60,4 @@ Southern Bonaire reef with low dive traffic and clear water.
 Vista Blue and Atlantis are to the north. Yellow Hut and Soft Coral Garden are nearby unmarked sites.
 
 ---
-*Unmarked "dive like a local" site on the southern west coast — not on the official BNMP yellow-stone marker system, InfoBonaire, STINAPA, or PADI dive-site indexes. Limited site-specific information available; [kasdivi.com beach guide](https://www.kasdivi.com/) places it in the southern coast area. Last updated 2026-05-24.*
+*Sources: [4 Wheel Diving – Dive Like a Local](https://4wheeldiving.com/tours/dive-like-a-local/) (confirms this is an unmarked site known to local divemasters, grouped with Yellow Hut and Soft Coral Garden), kasdivi.com beach guide (previously cited; unreachable — HTTP 503 — on this pass and not re-verified live). Two sources at best — short of this destination's three-source bar for full validation, so `validated` remains unset. Last updated 2026-07-18.*

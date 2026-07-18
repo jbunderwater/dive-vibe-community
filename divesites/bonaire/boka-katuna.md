@@ -62,4 +62,4 @@ The healthy reef and sandy plain reward wide-angle. Rays on the sand are reliabl
 Boka Slagbaai, Boka Bartol, Wayaka 2, Playa Funchi, and Playa Benge are within the same park, sharing similar 4WD access and remote-condition concerns.
 
 ---
-*Sources: [Divers-Guide – Boka Katuna](https://www.divers-guide.com/en/boka-katuna). Last updated 2026-05-16.*
+*Sources: [Divers-Guide – Boka Katuna](https://www.divers-guide.com/en/boka-katuna). Re-verified live 2026-07-18 against the cited sources; content confirmed consistent. Last updated 2026-07-18.*

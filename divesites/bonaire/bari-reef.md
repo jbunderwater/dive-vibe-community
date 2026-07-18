@@ -40,7 +40,7 @@ Enter from the sand and follow the reef edge that runs parallel to shore. The sl
 
 ## Entry and Exit
 
-Sandy beach entry at Sand Dollar Resort. Easy on/off with no rocks or surf to navigate. Exit at the same location. The reef is close enough to shore that air management is rarely an issue.
+Sandy beach entry at Sand Dollar Resort; InfoBonaire also documents public access via the adjacent Isidel Beach Park, which has a concrete entry ramp (reported as slippery). Easy on/off with no rocks or surf to navigate. Exit at the same location. The reef is close enough to shore that air management is rarely an issue.
 
 ## Tips
 
@@ -62,4 +62,4 @@ Macro photography excels here given the species density. Wide-angle works for ta
 Buddy's Reef, La Machaca, and Cliff are within walking or short driving distance along the same coast. Something Special — the muck/critter dive — is also nearby.
 
 ---
-*Sources: [InfoBonaire – Bari Reef / Sand Dollar](https://infobonaire.com/bari-reef-sand-dollar-bonaire/), [Scuba Diving Magazine – Bari Reef](https://www.scubadiving.com/dive-bari-reef), [Bonaire Island – Bari Reef](https://bonaireisland.com/experiences/diving/sites/bari-reef/), [REEF.org Volunteer Fish Survey](https://www.reef.org/). Last updated 2026-05-16.*
+*Sources: [InfoBonaire – Bari Reef / Sand Dollar](https://infobonaire.com/bari-reef-sand-dollar-bonaire/) (re-verified live 2026-07-18: confirms #1-in-Caribbean / 300+ species REEF.org claim and Isidel Beach Park entry point), [Scuba Diving Magazine – Bari Reef](https://www.scubadiving.com/dive-bari-reef), [Bonaire Island – Bari Reef](https://bonaireisland.com/experiences/diving/sites/bari-reef/), [REEF.org Volunteer Fish Survey](https://www.reef.org/). Last updated 2026-07-18.*

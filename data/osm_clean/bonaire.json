@@ -17,7 +17,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,scubadiving.com,reef.org,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -39,7 +40,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divers-guide.com,sunwisebonaire.com,scuba-diving-smiles.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -59,8 +61,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Site name not found in STINAPA, InfoBonaire, PADI, or Bonaire.com indexes. Informal or local name for section of central west coast reef."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: no site-specific source found (InfoBonaire, STINAPA, Divers-Guide, PADI, Bonaire.com, ScubaBoard all searched). The markdown previously contained a fully fabricated marine-life/coral/dive-profile description despite the footer already disclaiming sources -- that fabricated content has been removed and replaced with an honest 'unconfirmed' description."
     }
   },
   {
@@ -80,7 +82,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "buddydive.com,infobonaire.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -102,8 +105,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "123carrentalbonaire.com,infobonaire.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
+      "validation_source": "divers-guide.com,dreamwrecks.com,infobonaire.com",
+      "last_qa_date": "2026-07-18",
       "qa_note": "14m depth confirmed by multiple sources (45ft / 14m). OSM had 10m which was low. Locally-built 14m fishing boat intentionally sunk at Captain Don's Habitat dock."
     },
     "depth_max": 14
@@ -125,8 +128,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Site name not found in STINAPA, InfoBonaire, PADI, or Bonaire.com indexes. Informal or local name for section of southern Bonaire fringing reef."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: no site-specific source found (InfoBonaire, STINAPA, Divers-Guide, PADI, Bonaire.com, ScubaBoard all searched). The markdown previously contained a fully fabricated marine-life/coral/dive-profile description despite the footer already disclaiming sources -- that fabricated content has been removed and replaced with an honest 'unconfirmed' description."
     }
   },
   {
@@ -147,8 +150,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,beyondthecorals.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Difficulty corrected to Intermediate: double-reef system, second reef requires advanced depth management. BNMP #45."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Difficulty corrected to Intermediate: double-reef system, second reef requires advanced depth management. BNMP #45. | 2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -182,8 +185,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,scubadiving.com,buddydive.com,dreamwrecks.com",
-      "last_qa_date": "2026-05-24",
+      "validation_source": "wikipedia.org,infobonaire.com,buddydive.com,scubadiving.com",
+      "last_qa_date": "2026-07-18",
       "qa_note": "Corrected length fields: 71.78m (235ft 6in) per Wikipedia. Previous OSM value of 236 was in feet. Beam corrected to 11.01m (36ft). All key wreck details cross-checked across Wikipedia + scubadiving.com + buddydive.com."
     },
     "depth_max": 30
@@ -208,7 +211,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -229,8 +233,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,sunwisebonaire.com,thediveglobe.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Depth corrected to 18m; macro/critter focus is 6-18m range. Alt name Pali Grandi confirmed."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Depth corrected to 18m; macro/critter focus is 6-18m range. Alt name Pali Grandi confirmed. | 2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -250,7 +254,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "bonaire.com,sunwisebonaire.com,divers-guide.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -270,7 +275,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -291,8 +297,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Difficulty updated to Intermediate: 40m max depth puts this beyond Beginner. Also known as Witches Hut."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Difficulty updated to Intermediate: 40m max depth puts this beyond Beginner. Also known as Witches Hut. | 2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -312,8 +318,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Site type corrected to wall: southern tip drop-off, steep wall profile, current-exposed."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Site type corrected to wall: southern tip drop-off, steep wall profile, current-exposed. | 2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -333,7 +339,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -353,7 +360,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -373,7 +381,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaire.digital,padi.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -395,8 +404,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "entry_type corrected to shore: OSM has scuba_diving:entry=shore despite entry_type=boat in previous JSON. Shore entry confirmed."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "entry_type corrected to shore: OSM has scuba_diving:entry=shore despite entry_type=boat in previous JSON. Shore entry confirmed. | 2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -418,7 +427,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -438,7 +448,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -460,8 +471,8 @@
       "validated": "true",
       "validation_source": "sunwisebonaire.com,beyondthecorals.com,infobonaire.com",
       "site_note": "pier dive",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Depth corrected to 15m: site ranges 5-15m per multiple sources. Previous null replaced."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Depth corrected to 15m: site ranges 5-15m per multiple sources. Previous null replaced. | 2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -481,8 +492,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,beyondthecorals.com,padi.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Depth corrected to 35m: second reef extends to 18-35m per beyondthecorals.com."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Depth corrected to 35m: second reef extends to 18-35m per beyondthecorals.com. | 2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -502,7 +513,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -523,7 +535,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -543,7 +556,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -563,8 +577,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Difficulty updated to Intermediate: southern tip location with potential current exposure."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Difficulty updated to Intermediate: southern tip location with potential current exposure. | 2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -584,8 +598,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Difficulty updated to Intermediate: southern exposure location."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Difficulty updated to Intermediate: southern exposure location. | 2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -607,7 +621,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -627,7 +642,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -647,7 +663,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -668,8 +685,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "East coast site, exposed to current and swell. Advanced despite shallow depth due to conditions."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "East coast site, exposed to current and swell. Advanced despite shallow depth due to conditions. | 2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -689,7 +706,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -710,8 +728,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "beyondthecorals.com,infobonaire.com,divers-guide.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Coral nursery at 5-9m confirmed by beyondthecorals.com."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Coral nursery at 5-9m confirmed by beyondthecorals.com. | 2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -732,8 +750,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "sunwisebonaire.com,beyondthecorals.com,infobonaire.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Double reef system confirmed. Named for angelfish. BNMP #44."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Double reef system confirmed. Named for angelfish. BNMP #44. | 2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -754,7 +772,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divers-guide.com,bonaire.com,scubaboard.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -774,7 +793,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -793,8 +813,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
+      "validation_source": "infobonaire.com,divers-guide.com,scubaboard.com",
+      "last_qa_date": "2026-07-18",
       "qa_note": "Washington Slagbaai National Park area \u2014 noted as currently closed for diving on infobonaire.com as of 2026."
     }
   },
@@ -815,8 +835,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
+      "validation_source": "infobonaire.com,divers-guide.com,scubaboard.com",
+      "last_qa_date": "2026-07-18",
       "qa_note": "Washington Slagbaai National Park area \u2014 noted as currently closed for diving on infobonaire.com as of 2026."
     }
   },
@@ -836,8 +856,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
+      "validation_source": "infobonaire.com,divers-guide.com,scubaboard.com",
+      "last_qa_date": "2026-07-18",
       "qa_note": "Washington Slagbaai National Park area \u2014 noted as currently closed for diving on infobonaire.com as of 2026."
     }
   },
@@ -861,7 +881,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -884,8 +905,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "House reef of Divi Flamingo resort."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "House reef of Divi Flamingo resort. | 2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -908,8 +929,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "sunwisebonaire.com,scuba-diving-smiles.com,divers-guide.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Depth corrected to 40m (reef slopes to 40m+ per sources). BNMP #20."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Depth corrected to 40m (reef slopes to 40m+ per sources). BNMP #20. | 2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -931,7 +952,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -951,8 +973,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Located adjacent to airport runway. Named for airport windsock visible from shore."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Located adjacent to airport runway. Named for airport windsock visible from shore. | 2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -972,8 +994,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,123carrentalbonaire.com,divers-guide.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Depth corrected to 40m: steep drop-off wall site. Site type confirmed wall per 123carrentalbonaire.com."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Depth corrected to 40m: steep drop-off wall site. Site type confirmed wall per 123carrentalbonaire.com. | 2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -994,8 +1016,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divers-guide.com,scuba-diving-smiles.com,johnnyafrica.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Depth corrected to 40m (sandy bottom at 35-45m per sources). BNMP #9. Wall profile confirmed. Difficult entry/exit over rocks."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "Depth corrected to 40m (sandy bottom at 35-45m per sources). BNMP #9. Wall profile confirmed. Difficult entry/exit over rocks. | 2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -1016,7 +1038,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,bonaire.com,padi.com,scubaboard.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -1035,8 +1058,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divers-guide.com,infobonaire.com,scubaboard.com",
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -1057,7 +1080,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -1077,7 +1101,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -1097,7 +1122,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -1117,7 +1143,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -1137,7 +1164,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -1156,8 +1184,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "dreamwrecks.com,divers-guide.com,numa.net",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "dreamwrecks.com,numa.net,divers-guide.com",
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -1178,7 +1206,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: reviewed for internal consistency (depth/difficulty/type/marine-life framing) as part of destination-wide QA pass; not independently re-fetched live this cycle given destination size. Marine-life section already uses non-committal 'typical regional species' framing rather than site-specific attribution. Existing multi-source validation retained."
     }
   },
   {
@@ -1187,9 +1216,9 @@
     "lon": -68.4132212,
     "osm_id": 4200486589,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 30,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bis\u00e9 Morto",
@@ -1197,11 +1226,11 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Depth corrected to 18m per depth_max field. Previous depth of 30m conflicted with depth_max=18. Washington Slagbaai National Park area."
+      "validation_source": "infobonaire.com,divers-guide.com,scubaboard.com",
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: depth corrected back to 30m (100ft) per live infobonaire.com and divers-guide.com pages, both confirming a 6-30m (20-100ft) range; the prior pass's 18m correction (based on an internal depth_max field) did not match live source content. Entry type corrected to boat -- divers-guide.com states shore entry is currently not feasible at this site. Site sits inside the Washington Slagbaai closure area (see closure note)."
     },
-    "depth_max": 18
+    "depth_max": 30
   },
   {
     "name": "Wayaka 2",
@@ -1219,8 +1248,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
+      "validation_source": "divers-guide.com,infobonaire.com,scubaboard.com",
+      "last_qa_date": "2026-07-18",
       "qa_note": "Washington Slagbaai National Park area."
     }
   },
@@ -1241,7 +1270,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: re-verified live against divers-guide.com/infobonaire.com; site_type, depth, difficulty and marine-life claims confirmed consistent with current source content (non-Caribbean species tags occasionally appearing in divers-guide.com's database, e.g. 'regal angelfish' / 'Mediterranean moray', were disregarded as likely mistagging)."
     }
   },
   {
@@ -1261,8 +1291,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Unmarked site on southern Bonaire coast. No independent sources found."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: found a second source (4wheeldiving.com 'Dive Like a Local' tour page) confirming this as a known unmarked local site alongside Yellow Hut and Soft Coral Garden. kasdivi.com (prior source) returned HTTP 503 on this pass and could not be re-verified live. Two sources total -- short of the 3-source bar for validated=true."
     }
   },
   {
@@ -1282,8 +1312,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Unmarked site on southern Bonaire coast. No independent sources found."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: divers-guide.com re-verified live (depth, route, and species confirmed). Added 4wheeldiving.com 'Dive Like a Local' tour page as a second corroborating source. Two sources total -- short of the 3-source bar for validated=true."
     }
   },
   {
@@ -1303,8 +1333,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Unmarked site on southern Bonaire coast. No independent sources found."
+      "last_qa_date": "2026-07-18",
+      "qa_note": "2026-07-18 re-audit: found a second source (4wheeldiving.com 'Dive Like a Local' tour page) confirming this as a known unmarked local site alongside Yellow Hut and Hidden Beach. kasdivi.com (prior source) returned HTTP 503 on this pass and could not be re-verified live. Two sources total -- short of the 3-source bar for validated=true."
     }
   }
 ]

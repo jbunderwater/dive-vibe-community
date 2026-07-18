@@ -32,11 +32,11 @@ Yellow Hut is an unmarked dive site on Bonaire's southern west coast, between Sw
 
 ## Marine Life
 
-Typical southern Bonaire reef species. No independent site-specific confirmed species lists available.
+Divers-Guide reports turtles, rays, moray eels, and parrotfish as species commonly seen at this site.
 
 ## Dive Profile
 
-Shore entry to a fringing reef slope to 25 metres. Character similar to other southern coast sites.
+Shore entry over loose rocks to a fringing reef. Divers-Guide describes the best route as heading south, in the 6–15 metre range.
 
 ## Entry and Exit
 
@@ -60,4 +60,4 @@ Quiet southern coast reef with low traffic.
 Sweet Dreams is nearby. Hidden Beach and Soft Coral Garden are adjacent unmarked sites. Atlantis and Vista Blue are the nearest official sites to the north.
 
 ---
-*Unmarked "dive like a local" site on the southern west coast between Sweet Dreams and Chogogo (off EEG Boulevard); not on the official BNMP yellow-stone marker system. Named for a yellow structure at the entry point. Site details from [Divers-Guide – Yellow Hut](https://www.divers-guide.com/en/yellow-hut). Last updated 2026-05-24.*
+*Sources: [Divers-Guide – Yellow Hut](https://www.divers-guide.com/en/yellow-hut), [4 Wheel Diving – Dive Like a Local](https://4wheeldiving.com/tours/dive-like-a-local/) (confirms this is an unmarked site known to local divemasters, grouped with Hidden Beach and Soft Coral Garden). Two independent sources found — short of this destination's three-source bar for full validation, so `validated` remains unset pending a third source. Last updated 2026-07-18.*

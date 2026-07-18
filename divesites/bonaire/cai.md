@@ -62,4 +62,4 @@ Wide-angle works well for the tarpon schools, particularly when the current conc
 White Hole, the other true east-coast site, lies a short distance south near Sorobon. Both are advanced and weather-dependent. The remainder of Bonaire's dive sites are on the western leeward coast, well away from this side of the island.
 
 ---
-*Sources: [Divers-Guide – Cai](https://www.divers-guide.com/en/cai), [Bonaire.com – Cai](https://bonaire.com/en/dive-sites/cai-dive/), [ScubaBoard – Shore diving the east side](https://scubaboard.com/community/threads/shore-diving-the-east-side.612521/). Last updated 2026-05-16.*
+*Sources: [Divers-Guide – Cai](https://www.divers-guide.com/en/cai), [Bonaire.com – Cai](https://bonaire.com/en/dive-sites/cai-dive/), [ScubaBoard – Shore diving the east side](https://scubaboard.com/community/threads/shore-diving-the-east-side.612521/). Re-verified live 2026-07-18 against the cited sources; content confirmed consistent. Last updated 2026-07-18.*

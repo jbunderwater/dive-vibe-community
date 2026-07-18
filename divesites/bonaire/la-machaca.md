@@ -32,7 +32,7 @@ La Machaca (BNMP #27) is a 14-metre (45-foot) locally-built fishing boat that wa
 
 ## Marine Life
 
-The wreck structure is encrusted with corals and sponges and provides shelter for a variety of species. Barracuda, jacks, and groupers patrol the wreck. The surrounding sandy bottom and reef host parrotfish, angelfish, moray eels, and damselfish. The wreck is a good site for macro subjects in the encrusting growth. Night dives reveal octopus and lobster.
+Tarpon are regularly reported around the wreck, especially active on night dives. Groupers — including tiger grouper — and snappers hold around the structure, and moray eels are commonly found in the wreckage. Divers also report octopus, sand eels, and the occasional seahorse in the encrusting growth.
 
 ## Dive Profile
 
@@ -40,7 +40,7 @@ Enter from shore near the Captain Don's Habitat dock and swim the short distance
 
 ## Entry and Exit
 
-Sandy and rocky shore entry near the dock. The wreck is within easy swimming distance of shore. Exit at the same point. The short profile and shallow depth make this one of Bonaire's most convenient dives.
+Sandy and rocky shore entry near the dock. The wreck is within easy swimming distance of shore. Exit at the same point. The short profile and shallow depth make this one of Bonaire's most convenient dives. Note: the site sits on Captain Don's Habitat property, and InfoBonaire notes that access is by permission of the resort.
 
 ## Tips
 
@@ -62,4 +62,4 @@ The small wreck makes framing easy — wide-angle compositions of the full hull 
 Buddy's Reef is adjacent to the north. Bari Reef (Sand Dollar Resort house reef) lies immediately north. Cliff and Something Special are a short drive away.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/), [Bonaireisland.com – La Machaca](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*
+*Sources: [Divers-Guide – La Machaca](https://www.divers-guide.com/en/la-machaca), [DreamWrecks – Hotel Alley Wrecks (La Machaca)](https://dreamwrecks.com/la-machaca-bonaire-wreck), [InfoBonaire – La Machaca](https://infobonaire.com/la-machaca/). Marine-life list trimmed to species reported at this specific wreck. Last updated 2026-07-18.*

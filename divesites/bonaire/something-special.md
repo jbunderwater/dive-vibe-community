@@ -63,4 +63,4 @@ A muck/critter photographer's site. Macro lens, focus light, and patience produc
 Bari Reef, La Machaca, and Cliff lie nearby along the central west coast, all within a short drive. Buddy's Reef and Calabas Reef are also close.
 
 ---
-*Sources: [InfoBonaire – Something Special / Pali Grandi](https://infobonaire.com/something-special-pali-grandi/), [Sunwise Bonaire – Something Special](https://sunwisebonaire.com/blog/bonaire-dive-sites-something-special/), [DiveGlobe – Something Special](https://www.thediveglobe.com/app/en/dive/somethings-special-bonaire). Last updated 2026-05-16.*
+*Sources: [InfoBonaire – Something Special / Pali Grandi](https://infobonaire.com/something-special-pali-grandi/), [Sunwise Bonaire – Something Special](https://sunwisebonaire.com/blog/bonaire-dive-sites-something-special/), [DiveGlobe – Something Special](https://www.thediveglobe.com/app/en/dive/somethings-special-bonaire). Re-verified live 2026-07-18 against the cited sources; content confirmed consistent. Last updated 2026-07-18.*
