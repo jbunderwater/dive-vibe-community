@@ -32,4 +32,4 @@ Columbus Reef is located in the central-southern Belize Barrier Reef east of Dan
 No site-specific marine life sources were found for Columbus Reef. Marine life typical of the central-southern barrier reef includes spotted eagle rays, turtles, moray eels, southern stingrays, grouper, barracuda, and various reef fish, but these species have not been confirmed at this specific location.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-18.*
+*Description based on regional diving characteristics. No site-specific sources found. Re-checked 2026-07-18 against Dangriga/South Water Caye/Tobacco Caye dive operator listings (Windward Lodge, Tobacco Caye Paradise, Blue Marlin) — none named this specific site. Last updated 2026-07-18.*

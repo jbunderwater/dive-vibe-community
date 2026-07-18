@@ -17,7 +17,7 @@ A 300-foot steel English freighter lost on her maiden voyage on New Year's Day 1
 
 ## Overview
 
-The Minnie Breslauer was a 300-foot steel-hulled English steamer built in 1872, lost on her maiden voyage in 1873. On New Year's Day 1873, her captain — unfamiliar with Bermuda's reefs and lacking the appropriate navigation chart — cruised too close to the South Shore at full speed and rammed into a submerged reef one mile offshore near Horseshoe Bay. An attempt to back the ship off the reef only completed its sinking. Her cargo of wine, dried fruit, bales of cork, and 160-pound lead ingots with Portuguese foundry markings now rests across the reef in depths ranging from 35 to 70 feet (10–21 meters). The bow section is collapsed and smashed across the reef; the stern section is relatively intact, with a large steam boiler, steering quadrant, four-bladed propeller, and rudder still attached. The stern's propeller and rudder in 70 feet make for the most dramatic diving.
+The Minnie Breslauer was a 300-foot steel-hulled English steamer built in 1872, lost on her maiden voyage in 1873. On New Year's Day 1873, her captain — unfamiliar with Bermuda's reefs and lacking the appropriate navigation chart — cruised too close to the South Shore at full speed and rammed into a submerged reef one mile offshore near Horseshoe Bay. An attempt to back the ship off the reef only completed its sinking. Her cargo of wine, dried fruit, bales of cork, and 160-pound lead ingots now rests across the reef in depths ranging from 35 to 70 feet (10–21 meters). The bow section is collapsed and smashed across the reef; the stern section is relatively intact, with a large steam boiler, steering quadrant, four-bladed propeller, and rudder still attached. The stern's propeller and rudder in 70 feet make for the most dramatic diving.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Minnie Breslauer was a 300-foot steel-hulled English steamer built in 1872, 
 
 ## Marine Life
 
-The Minnie Breslauer's combination of scattered bow debris and intact stern section creates varied habitat zones. Schools of snapper and grunt shelter around the structural remains. Barracuda regularly patrol the water column above the stern. Large grouper are reported at the deeper stern section. Spiny lobster and moray eels occupy enclosed spaces in the hull. The surrounding reef adds sea turtles, parrotfish, and angelfish to the species count.
+No site-specific marine life reports were found for the Minnie Breslauer in dive operator listings or research sources — available coverage focuses on the wreck's cargo and its maiden-voyage sinking. Bermuda's typical South Shore reef and wreck fauna can be expected here, but specific species sightings at this site have not been documented in available sources.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Boat dive from Bermuda South Shore operators. The site is positioned one mile of
 ## Tips and Recommendations
 
 - The four-bladed propeller and rudder at the stern are the defining photographic features — plan your approach for the best light angle
-- Lead ingots with Portuguese foundry markings are among the most unusual cargo artifacts on any Bermuda wreck
+- The 160-pound lead ingots are among the most unusual cargo artifacts on any Bermuda wreck
 - A torch illuminates the coral-encrusted spaces around the boiler and propeller mount
 - The bow section's scattered nature rewards slow, thorough exploration
 - The South Shore can be exposed to Atlantic swell — check conditions before committing to this site
@@ -60,4 +60,4 @@ The 21-meter maximum depth is appropriate for Intermediate divers with good buoy
 The Minnie Breslauer offers contrasting photographic environments: the dramatic intact propeller and rudder at the stern, and the chaotic scattered ironwork of the broken bow. Coral and sponge colonization over 150 years creates rich color and texture. Natural light photography at 10–21 meters is effective in Bermuda's clear water.
 
 ---
-*Sources: [Bermuda Department of Environment and Natural Resources - Minnie Breslauer](https://environment.bm/minnie-breslauer), [Bermuda Attractions - Minnie Breslauer](https://www.bermuda-attractions.com/bermuda_00004f.htm), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Last updated 2026-05-18.*
+*Sources: [Bermuda Department of Environment and Natural Resources - Minnie Breslauer](https://environment.bm/minnie-breslauer), [Bermuda Attractions - Minnie Breslauer](https://www.bermuda-attractions.com/bermuda_00004f.htm), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Re-audited: Malaga origin port reconfirmed by two independent sources; unconfirmed "Portuguese foundry markings" claim on the lead ingots removed; marine life claims not corroborated by a site-specific source were removed. Last updated 2026-07-18.*

@@ -33,7 +33,7 @@ The Mary Celestia was an iron-hulled side-paddlewheel steamer built at the Liver
 
 ## Marine Life
 
-The Mary Celestia's sand patch setting surrounded by reef creates an excellent mixed habitat. Parrotfish, angelfish, and grunt populate the surrounding reef. The wreck structure itself supports resident moray eels and spiny lobster. The well-preserved paddlewheel frame provides a unique hard structure that attracts encrusting corals and sheltering fish.
+No site-specific marine life reports were found for the Mary Celestia in dive operator listings or research sources — available coverage focuses on the wreck's history, the intact paddlewheel, and the 2011 archaeological finds. Bermuda's typical South Shore reef and wreck fauna can be expected here, but specific species sightings at this site have not been documented in available sources.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ This is a protected heritage site under Bermuda law. Handling, removing, or dist
 The Mary Celestia is one of Bermuda's most historically compelling photography subjects. The intact paddlewheel frame standing upright is a unique and immediately recognizable element. The iron hull structure against the white sand bottom photographs beautifully in Bermuda's clear water.
 
 ---
-*Sources: [Bermuda Department of Environment and Natural Resources - Mary Celestia](https://environment.bm/mary-celestia), [Bermuda 100 Project - Mary Celestia](https://bermuda100.ucsd.edu/mary-celestia/), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Scuba Diver Life - Best Diving Bermuda](https://scubadiverlife.com/best-diving-bermuda/), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Last updated 2026-05-18.*
+*Sources: [Bermuda Department of Environment and Natural Resources - Mary Celestia](https://environment.bm/mary-celestia), [Bermuda 100 Project - Mary Celestia](https://bermuda100.ucsd.edu/mary-celestia/), [Bermuda Attractions - The Mary Celeste](https://www.bermuda-attractions.com/bermuda_000050.htm), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Scuba Diver Life - Best Diving Bermuda](https://scubadiverlife.com/best-diving-bermuda/), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Re-audited: destination (Wilmington, NC) added and sinking-date conflict flagged; marine life claims not corroborated by a site-specific source were removed. Last updated 2026-07-18.*

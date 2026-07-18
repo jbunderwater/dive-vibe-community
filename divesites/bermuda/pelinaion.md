@@ -3,7 +3,7 @@ name: Pelinaion
 lat: 32.3558
 lng: -64.6433
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 21
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ The Pelinaion was a 385-foot (117 m), 4,291-ton cargo steamer built at Port Glas
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -37,7 +37,7 @@ No site-specific marine life reports were found for the Pelinaion in dive operat
 
 ## Dive Profile
 
-Begin at the massive engine block near the surface for orientation — its scale and upright profile are immediately impressive. Descend along the hull to the deeper sections at 15–20 meters, exploring the triple-expansion engine, steam boilers, propeller, and hull swim-throughs. The bow in approximately 6 meters provides an easy shallow finish before ascending for the safety stop.
+Begin at the massive engine block near the surface for orientation — its scale and upright profile are immediately impressive. Descend along the hull to the deeper sections at 15–21 meters, exploring the triple-expansion engine, steam boilers, propeller, and hull swim-throughs. The shallower bow section provides an easy finish before ascending for the safety stop.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Boat dive from East End Bermuda operators or operators offering island-wide wrec
 
 ## Safety Considerations
 
-The East End of Bermuda is more exposed to Atlantic swell than the North Shore. Wave action can make entry and exit difficult in windy conditions. Monitor surface conditions throughout the dive. The 20-meter maximum depth requires standard Intermediate no-decompression management. Always deploy an SMB on ascent.
+The East End of Bermuda is more exposed to Atlantic swell than the North Shore. Wave action can make entry and exit difficult in windy conditions. Monitor surface conditions throughout the dive. The 21-meter maximum depth requires standard Intermediate no-decompression management. Always deploy an SMB on ascent.
 
 ## Photography
 

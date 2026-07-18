@@ -17,7 +17,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "wikipedia.org,holchanmarinereserve.org,atlasandboots.com,dive-the-world.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -31,7 +31,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "belizedivehaven.com,itravelbelize.com,dive-the-world.com",
+    "validation_source": "belizedivehaven.com,amigosdivebelize.com,hamanasi.com",
     "tags": {
       "name": "Long Caye Aquarium",
       "name:es": "Acuario de Cayo Largo",
@@ -39,8 +39,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "belizedivehaven.com,itravelbelize.com,dive-the-world.com",
-      "last_qa_date": "2026-05-18"
+      "validation_source": "belizedivehaven.com,amigosdivebelize.com,hamanasi.com",
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -52,17 +52,17 @@
     "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "hamanasi.com,scubaboard.com,dive-the-world.com",
+    "validation_source": "padi.com,dive-the-world.com,scuba.com",
     "tags": {
       "name": "Half Moon Wall",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "hamanasi.com,scubaboard.com,dive-the-world.com",
-      "last_qa_date": "2026-05-18"
+      "validation_source": "padi.com,dive-the-world.com,scuba.com",
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -82,7 +82,7 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -96,7 +96,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "ambergriscaye.com,7newsbelize.com,belize.com",
+    "validation_source": "ambergriscaye.com",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -109,8 +109,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "ambergriscaye.com,7newsbelize.com,belize.com",
-      "last_qa_date": "2026-05-18"
+      "validation_source": "ambergriscaye.com",
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -124,7 +124,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "7newsbelize.com,ambergriscaye.com,belize.com",
+    "validation_source": "7newsbelize.com,ambergriscaye.com,i-law.com",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -137,8 +137,8 @@
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "7newsbelize.com,ambergriscaye.com,belize.com",
-      "last_qa_date": "2026-05-18"
+      "validation_source": "7newsbelize.com,ambergriscaye.com,i-law.com",
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -158,7 +158,7 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -172,15 +172,15 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "padi.com,hamanasi.com,dive-the-world.com",
+    "validation_source": "padi.com,wikipedia.org,whc.unesco.org,dive-the-world.com",
     "tags": {
       "name": "Belize Barrier Reef",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "padi.com,hamanasi.com,dive-the-world.com",
-      "last_qa_date": "2026-05-18"
+      "validation_source": "padi.com,wikipedia.org,whc.unesco.org,dive-the-world.com",
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -202,7 +202,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "ecomarbelize.org,padi.com,seasportsbelize.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-18"
     }
   },
   {
@@ -215,8 +215,8 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "ambergriscaye.com,dive-the-world.com,tripadvisor.com",
+    "validated": false,
+    "validation_source": "",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -225,9 +225,7 @@
       "seamark:wreck:category": "non-dangerous",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "ambergriscaye.com,dive-the-world.com,tripadvisor.com",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-18"
     }
   }
 ]

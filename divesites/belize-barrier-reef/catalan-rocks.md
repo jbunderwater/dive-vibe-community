@@ -32,4 +32,4 @@ Catalan Rocks is listed among the dive sites along the northern Ambergris Caye b
 Typical Ambergris Caye barrier reef species include nurse sharks, spotted eagle rays, parrotfish, angelfish, grunts, snappers, moray eels, spiny lobsters, and hawksbill turtles. No species have been confirmed at this specific site by site-level sources; the above reflects regional sightings common along the northern Belize barrier reef.
 
 ---
-*Description based on regional diving characteristics of northern Ambergris Caye spur-and-groove reef sites. No site-specific sources found. Last updated 2026-05-18.*
+*Description based on regional diving characteristics of northern Ambergris Caye spur-and-groove reef sites. No site-specific sources found. Re-checked 2026-07-18 against Ambergris Divers, AmbergrisCaye.com, Dive The World, and ScubaDiving.com dive-site listings — none list a site by this name. Last updated 2026-07-18.*

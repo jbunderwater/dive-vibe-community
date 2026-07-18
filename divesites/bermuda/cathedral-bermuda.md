@@ -29,11 +29,11 @@ The Cathedral is one of Bermuda's most visually distinctive reef dive sites, loc
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)
-- **Best Time**: May–October (spring and fall for best light and ocean tarpon)
+- **Best Time**: May–October
 
 ## Marine Life
 
-The cave and cavern environment of the Cathedral supports distinct communities. Schools of ocean tarpon exceeding 5 feet in length have been reported sheltering in the cavern — one of the site's most spectacular encounters. Large schools of snapper and margate frequent the cavern. In spring, schools of 100+ parrotfish have been observed at this site. Spiny lobster and Spanish slipper lobsters occupy the sandy patches and crevices around the cavern base.
+Multiple sources confirm schools of ocean tarpon and snapper as a signature sighting inside the Cathedral's cavern system. Other species previously listed here (margate, parrotfish counts, Spanish slipper lobsters) could not be confirmed against a site-specific source and have been removed rather than presented as verified.
 
 ## Dive Profile
 
@@ -49,7 +49,7 @@ Boat dive from East End operators (Dive Bermuda at Grotto Bay) or central Bermud
 - Strict neutral buoyancy is essential — fin-kicking silt inside the cavern ruins visibility and affects others
 - The cavern can feel disorienting — maintain awareness of your exit point throughout
 - A wide-angle lens captures the full drama of the light-shaft environment
-- Spring and autumn are the best seasons for encountering ocean tarpon in the cavern
+- Ocean tarpon are a regularly reported sighting in the cavern
 - The site is best approached through Devil's Throat rather than by swimming over the top
 
 ## Safety Considerations
@@ -61,4 +61,4 @@ Cavern diving requires reliable buoyancy skills to avoid silting conditions. Do 
 The Cathedral is one of Bermuda's most photographed dive sites. The columns of sunlight through the arched ceiling openings create dramatic natural light compositions that require no flash. For interior subjects, a torch or wide-angle video light supplements available light without destroying the ambient effect. Early morning dives in summer offer the most intense light shafts.
 
 ---
-*Sources: [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Bermuda Attractions - Cathedral and Basilica](https://www.bermuda-attractions.com/bermuda_00005f.htm), [Blue Water Divers Bermuda](https://www.divebermuda.com/our-sites/), [PADI - The Cathedral Bermuda](https://www.padi.com/dive-site/bermuda/the-cathedral-3/), [Go To Bermuda - Diving Bermuda](https://www.gotobermuda.com/inspiration/article/where-go-diving-bermuda-best-locations-all-skill-levels). Last updated 2026-05-18.*
+*Sources: [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Bermuda Attractions - Cathedral and Basilica](https://www.bermuda-attractions.com/bermuda_00005f.htm), [Blue Water Divers Bermuda](https://www.divebermuda.com/our-sites/), [PADI - The Cathedral Bermuda](https://www.padi.com/dive-site/bermuda/the-cathedral-3/), [Go To Bermuda - Diving Bermuda](https://www.gotobermuda.com/inspiration/article/where-go-diving-bermuda-best-locations-all-skill-levels). Re-audited: depth range (26-55ft/8-17m) and Devil's Throat access reconfirmed; marine life narrowed to species (tarpon, snapper) multiple sources specifically attribute to this site. Last updated 2026-07-18.*
