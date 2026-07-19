@@ -61,4 +61,4 @@ The dense hard- and soft-coral cover photographs well on wide-angle. Black coral
 Playa Frans lies further north along the coast at the Washington-Slagbaai boundary. Boka Slagbaai and other park sites are reached via the park's 4WD access road. Karpata and Taylor Made are to the southeast.
 
 ---
-*Sources: [Divers-Guide – Carel's Vision](https://www.divers-guide.com/en/carels-vision), [InfoBonaire – Carel's Vision](https://infobonaire.com/carels-vision/), [Greatest Dive Sites – Carel's Vision](https://bonaire.greatestdivesites.com/north_bonaire/carels_vision). Last updated 2026-05-16.*
+*Sources: [Divers-Guide – Carel's Vision](https://www.divers-guide.com/en/carels-vision), [InfoBonaire – Carel's Vision](https://infobonaire.com/carels-vision/), [Harp's Guide to Bonaire – Carel's Vision](https://www.harpsguidetobonaire.com/bonairedivesite/8/carel%E2%80%99s-vision). Re-audited 2026-07-19: dropped Greatest Dive Sites as a source (its site now serves an untrusted self-signed TLS certificate and could not be re-verified); Carel Steensma naming history, 2005 opening, and Hurricane Lenny (1999) damage reconfirmed via independent sources. Last updated 2026-07-19.*
