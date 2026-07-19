@@ -32,7 +32,8 @@ Buckeye Shoal is located in the southern Strait of Georgia near the US-Canada bo
 
 ## Marine Life
 
-Buckeye Shoal hosts the typical cold-water assemblage of the southern Strait of Georgia. Giant Pacific octopus are found among the rocky terrain. Lingcod are a dominant predator and are regularly seen resting on the bottom or hunting among the rocks. Copper, quillback, and black rockfish occupy different depth zones. Plumose anemones and encrusting coralline algae cover exposed rock surfaces. Dungeness crab forage on sandy areas adjacent to the shoal. Harbour seals and occasional Steller sea lions visit the site.
+No site-specific marine life reports were found for Buckeye Shoal in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Wide-angle shots of the rocky shoal structure with plumose anemones and orbiting
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Buckeye Shoal in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

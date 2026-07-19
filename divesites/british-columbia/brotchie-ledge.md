@@ -3,9 +3,9 @@ name: Brotchie Ledge
 lat: 48.4066162
 lng: -123.3881989
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 6416967672
 addedBy: osm_import
@@ -13,52 +13,41 @@ addedBy: osm_import
 
 # Brotchie Ledge
 
-A historic reef ledge at the entrance to Victoria Harbour, known for rich marine life and easy access.
+The wreck of the SS San Pedro, a 19th-century collier that ran aground at the entrance to Victoria Harbour in 1891 and remains scattered across the ledge today.
 
 ## Overview
 
-Brotchie Ledge is one of Victoria's most iconic dive sites, sitting at the entrance to Victoria Inner Harbour on a rocky shelf marked by a navigational beacon. The ledge has been a favourite with Victoria area divers for decades due to its accessible boat launch from the Inner Harbour and consistent marine life. The site features a stepped rock ledge descending from 5 metres to about 18 metres, and is particularly noted for its wolf eel population. Water temperatures run 8–11°C with visibility of 6–15 metres.
+Brotchie Ledge is a shallow reef at the entrance to Victoria's Outer Harbour, marked today by a navigational light, but its real draw for divers is the wreck of the San Pedro scattered across it. This site was previously listed here as a generic reef dive with fabricated content about "habituated wolf eels" and other unsourced claims — that content has been removed. Brotchie Ledge is correctly classified as a wreck site: the OSM/hydrographic data plus multiple independent wreck-diving sources confirm the San Pedro's remains are the defining feature.
 
 ## Site Information
 
-- **Location**: Victoria Inner Harbour entrance, Victoria, British Columbia
+- **Location**: Entrance to Victoria's Outer Harbour, British Columbia (marked by Brotchie Ledge Light, southeast of Ogden Point)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 6–15 metres
-- **Current**: Variable — can be strong during tidal exchange
-- **Best Time**: Year-round; best visibility in late summer and autumn
+- **Maximum Depth**: 30 meters
+- **Current**: Sits at a harbour entrance with active vessel traffic; no strong current specifically reported, but boat traffic is a real hazard
+- **Best Time**: Not documented in sources consulted
+
+## Wreck History
+
+The San Pedro was an iron screw steamer launched in November 1882 in Philadelphia by the Wm Cramp & Sons Shipbuilding Company, rated at 3,119 tons gross (able to carry over 4,000 tons of cargo), and operated by the Pacific Improvement Company of San Francisco (a Southern Pacific Railroad subsidiary). On the night of 22 November 1891, San Pedro ran onto Brotchie Ledge while carrying roughly 4,000 tons of coal from Comox to San Francisco. She struck the ledge at about 8:30 PM, glanced off, struck again, and stopped as the tide fell; two tugs reached her by 11 PM and roughly 300 tons of coal was jettisoned overnight in a failed attempt to refloat her. By the next morning she sat at a steep angle and would not rise on the tide. For six years the grounded hulk itself served as an unofficial navigation marker — a watchman reportedly rowed out nightly to hang and retrieve a lantern on her foremast — before repeated salvage attempts failed and the wreck was dynamited on Dominion Day (1 July), 1897. The prolonged hazard she posed prompted construction of a permanent light on the ledge, completed in 1898.
 
 ## Marine Life
 
-Brotchie Ledge is famous for its resident wolf eels, which divers have been visiting for many years and which show a degree of familiarity toward respectful divers. Giant Pacific octopus are regularly encountered in crevices throughout the ledge. Lingcod guard territories on the open rock surfaces. Cabezon camouflage themselves among the kelp and rock. Plumose anemones and encrusting sponges coat exposed faces of the ledge. Harbour seals are a constant presence, often following divers throughout the dive. Nudibranchs are diverse throughout the site.
+Dive-site listings for this wreck mention octopus, wolf eels, crabs, and fish among the scattered hull plates, but do not describe them with the site-specific detail needed to state particular sightings with confidence. Regional Victoria-area cold-water fauna (rockfish, lingcod, plumose anemones, giant Pacific octopus, nudibranchs) is broadly present in this area, but no source consulted gave a detailed, site-specific account of what divers currently see at Brotchie Ledge.
 
 ## Dive Profile
 
-The ledge drops in a series of steps from a shallow rocky platform to 18 metres. Begin at the beacon and work along the ledge in either direction, exploring the steppy terrain and crevices. The best wolf eel dens are typically found in the 10–15 metre zone. A safety stop on the shallow platform at 5 metres is ideal before surfacing. Watch for Harbour ferry and water taxi traffic above.
+What remains of the San Pedro today is described as a largely disorganized scatter of hull plating, keel, and structural members — roughly 90 metres of hull material is reported spread across the ledge, in places as shallow as 10 metres. This is not a penetrable, intact wreck; it is a debris field to explore along the ledge.
 
 ## Entry and Exit
 
-Access by small boat from Victoria Inner Harbour or other nearby launches. The navigational beacon at the ledge provides a surface reference point. Given the site's location at the harbour entrance, vessel traffic is constant — deploy your SMB before ascending and be very visible. Boat captains must maintain watch during the dive.
-
-## Tips and Recommendations
-
-- Approach resident wolf eels slowly and without startling them — they reward patience
-- The site is popular with local dive clubs and has been dived thousands of times without damaging the marine life
-- Ferry and water taxi schedules peak during morning commute hours — plan dives accordingly
-- Check Victoria Harbour Authority for any harbour activity notices before diving
+Boat access only, from Victoria-area launches. The site sits directly at a working harbour entrance with active ferry, water-taxi, whale-watching, and float-plane traffic — surface awareness and a clearly deployed SMB are essential.
 
 ## Safety Considerations
 
-Victoria Inner Harbour has heavy marine traffic including whale-watching vessels, water taxis, ferries, and float planes. Surfacing at this site requires extreme vigilance and a highly visible SMB. Current can intensify during peak tidal exchange. Always maintain boat tender watch. Cold water requires full drysuit.
-
-## Photography
-
-The habituated wolf eels at Brotchie Ledge are among the most photographed subjects in BC diving. Portrait shots with a wide-angle or fisheye lens capture their expressive faces and mottled colouring. Lingcod and octopus are equally photogenic. The plumose anemone fields with harbour seal silhouettes above make compelling wide-angle compositions.
-
-- Victoria Harbour Authority: victoriahabourharbour.ca
-- Fisheries and Oceans Canada tide tables: tides.gc.ca
+Vessel traffic at the entrance to Victoria Harbour is a primary hazard — maintain boat tender watch and deploy a highly visible SMB before ascending. Cold water (typically 8-11°C in this area) requires a drysuit. Because the wreck is a scattered debris field rather than an intact structure, sharp metal edges are a real entanglement/injury risk; dive gloves and careful buoyancy are advised.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Cold Ocean Diver — Brotchie Ledge, the fate of the San Pedro](https://coldoceandiver.ca/brotchie-ledge), [Victoria Harbour History — 1891 San Pedro](https://www.victoriaharbourhistory.com/transportation/sea-transportation/wrecks/wrecks-2/), [Wannadive — Brotchie Ledge Wreck](https://www.wannadive.net/spot/North_America/Canada/British_Columbia/Vancouver_Island/Brotchie_Ledge_Wreck/index.html), [Zentacle — Brotchie Ledge Wreck](https://www.zentacle.com/Beach/9372/brotchie-ledge-wreck). Last updated 2026-07-19.*

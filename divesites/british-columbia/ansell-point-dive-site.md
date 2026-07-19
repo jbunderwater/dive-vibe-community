@@ -13,51 +13,44 @@ addedBy: osm_import
 
 ## Ansell Point Dive Site
 
-Ansell Point Dive Site is a wall dive located along the Sunshine Coast of British Columbia, Canada.
+Ansell Point is a well-known shore wall dive in West Vancouver, reached via a steep 65-step descent just north of the Horseshoe Bay ferry terminal on Howe Sound.
 
 ## Overview
 
-Ansell Point drops away in a dramatic wall formation on the edge of Howe Sound, offering one of the more compelling shore dives accessible from the Sunshine Coast. The wall plunges to 30 metres and is encrusted with orange and white plumose anemones, crimson sea stars, and clusters of barnacles. Cold, nutrient-rich water flowing through Howe Sound supports exceptional invertebrate life throughout the year. A dry suit is essential — water temperatures hover between 7 and 12°C year-round. Visibility averages 6 to 12 metres and improves on incoming tides when cleaner Pacific water pushes in from the south.
+Ansell Point is a sheer wall dive site off the Sea-to-Sky Highway corridor, accessed via the Ansell Place exit just north of Horseshoe Bay in West Vancouver — on the Howe Sound shoreline, not the Sunshine Coast (a previous version of this page misstated the location; the Sunshine Coast is reached by ferry across the sound). The wall drops steeply from the entry point and, per diver reports, continues past 90 metres (300 feet) at its base, though divers typically stay well shallower. A wall cut or undercut around 20 metres runs several metres back into the cliff and is a noted gathering spot for fish. Divers can work the wall to the left, to the right, or descend straight down at the entry point; the left route ends at a rubble slope turnaround.
 
 ## Site Information
 
-- **Location**: Ansell Point, Howe Sound, British Columbia, Canada
+- **Location**: Ansell Place exit, Sea-to-Sky Highway, West Vancouver (Howe Sound), British Columbia, Canada
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 6-12 meters (20-40 feet)
-- **Water Temperature**: 7-12°C (45-54°F) — dry suit required
-- **Current**: Moderate to strong on tidal changes
-- **Best Time**: Year-round; slack tide preferred
+- **Current**: Reports note strong tidal effects on Howe Sound; plan around slack water
+- **Best Time**: Year-round; good fitness required for the access trail
 
 ## Marine Life
 
-The wall at Ansell Point is a showcase for Pacific Northwest invertebrate life. Giant Pacific octopus (GPO) tuck into crevices at depth and are frequently spotted by patient divers. Wolf eels inhabit rocky dens along the wall base, often in pairs. Copper and quillback rockfish hover in the water column, while schools of black rockfish patrol the kelp canopy above. Plumose anemones coat the wall in dense colonies, and a variety of nudibranch species — including alabaster, clown, and opalescent nudibranchs — move across the rock face. Harbour seals occasionally visit the site.
+Diver trip reports from this exact site describe cloud sponges and chimney/boot sponges on the wall, tiger rockfish, lingcod, squat lobsters, and golf ball crabs. A resident pair of wolf eels is repeatedly reported sheltering under a large rock on the right-hand wall route, at roughly 20-22 metres. Harbour seals are frequently seen and are occasionally described as inquisitive around divers. These are the species specifically documented at Ansell Point across multiple independent dive reports — not a generic regional list.
 
 ## Dive Profile
 
-Descend from the shore entry point and follow the wall northward at your chosen depth. The wall face is most productive between 10 and 25 metres, where overhangs and crevices shelter the highest concentration of invertebrates and fish. Work your way shallower for the ascent, spending time in the kelp zone at 5 to 8 metres before surfacing. Reserve adequate gas for a 3-minute safety stop at 5 metres.
+From the entry point, divers typically choose one of three routes: left along the wall (ending at a rubble slope), right along the wall (toward the wolf eel den around 20-22m), or straight down at the entry (where an undercut/overhang is present). Depth is diver-selected since the wall continues far past recreational limits — conservative gas and depth planning is essential.
 
 ## Entry and Exit
 
-Shore entry is made from the point itself — negotiate the rocky shoreline carefully, particularly at lower tides when algae-covered rocks can be slippery. Enter the water with fins on and descend immediately to avoid surface surge. Exit at the same location; time your approach to the rocks between wave sets. A thick wetsuit hood or dry suit hood is recommended even on warm days.
+Park near the Ansell Place cul-de-sac and follow the trail down: wooden stairs at the start, a wooded trail, then a scramble over large rocks to the water (a rope is reportedly rigged from an overhanging tree to assist on the final rocks). The descent is steep but not technical; good fitness is needed to carry gear back up. Time entry/exit around calmer water — surge on the rocks can make footing difficult.
 
 ## Tips and Recommendations
 
-- Dive on slack tide to minimise current on the wall
-- A dive light or torch illuminates GPO dens and crevice life dramatically
-- Bring a macro lens — nudibranch diversity here rewards close-up photography
-- Dry suit and hood are essential regardless of season
-- Carry an SMB — boat traffic in Howe Sound can be heavy
+- This is a physically demanding shore entry — pace yourself and consider staging gear
+- The wolf eel den (right-hand route, ~20-22m) is the site's signature sighting, though it is not guaranteed on every dive
+- Plan the dive around slack water given Howe Sound's tidal currents
+- Dry suit is standard for BC's cold water; this is not a beginner site
 
 ## Safety Considerations
 
-Tidal currents at Ansell Point can be strong on the ebb, pushing divers away from the wall and into open water. Always check tidal tables and plan the dive for slack. Cold water accelerates air consumption and increases hypothermia risk — monitor both carefully. Rocky shore entry and exit requires confident footing in dive gear. Always dive with a buddy and signal your presence at the surface with a deployed SMB.
-
-## Photography
-
-Ansell Point wall offers outstanding macro and wide-angle opportunities. Plumose anemone colonies make for striking wide-angle compositions, while nudibranchs and GPO tentacles reward macro shooters. Ambient light is best in mid-morning when the sun is higher and reflects off the kelp canopy above. A focus light significantly improves colour rendering on the wall.
+Because the wall continues far past recreational limits, careful depth and gas management is critical — it is easy to descend deeper than planned on a featureless wall. The steep, uneven shore access adds physical demands before and after the dive. Always dive with a buddy, monitor tidal current predictions for Howe Sound, and carry a means to signal boat traffic on the surface.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBoard — Ansell Point, BC](https://scubaboard.com/community/threads/ansell-point-bc.162463/), [ScubaBoard — Ansell Point](https://scubaboard.com/community/threads/ansell-point.354464/), [Zentacle — Ansell Place](https://www.zentacle.com/Beach/4461/ansell-place). Last updated 2026-07-19.*

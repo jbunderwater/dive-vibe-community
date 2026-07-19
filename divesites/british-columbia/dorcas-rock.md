@@ -32,7 +32,8 @@ Dorcas Rock lies in the Strait of Georgia offshore from Qualicum Beach on easter
 
 ## Marine Life
 
-Dorcas Rock hosts a productive community of Pacific Northwest cold-water species. Giant Pacific octopus are found in crevices throughout the rock. Lingcod are resident predators, often seen resting on the rock surface. Copper and quillback rockfish are the most abundant reef fish, with black rockfish occasionally schooling above the structure. Plumose anemones and encrusting sponges cover exposed faces. Kelp greenlings and painted greenlings are common. Dungeness crab and Puget Sound king crab are found on sandy surrounding terrain.
+No site-specific marine life reports were found for Dorcas Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Octopus in crevices or foraging in the open are excellent macro and wide-angle s
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Dorcas Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

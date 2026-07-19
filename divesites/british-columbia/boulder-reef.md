@@ -32,7 +32,8 @@ Boulder Reef sits in the southern Strait of Georgia near the US-Canada border, i
 
 ## Marine Life
 
-Giant Pacific octopus are a highlight at Boulder Reef, using the rocky terrain for shelter and ambush. Wolf eels inhabit permanent dens in crevices and can be approached carefully. Lingcod and cabezon are common among the rocks, while schools of black and copper rockfish patrol the mid-water column. Painted greenlings and kelp greenlings are ever-present. Plumose anemones, encrusting sponges, and sea pens populate the structure. Dungeness crab are found on the sandy surrounding bottom, and harbour seals frequently visit divers.
+No site-specific marine life reports were found for Boulder Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Boulder terrain with its mix of encrusting life, fish, and invertebrate behaviou
 - Sidney area dive charters and shops for current conditions
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Boulder Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

@@ -33,7 +33,8 @@ Fraser Rock rises from the cold, nutrient-rich waters of Howe Sound, offering an
 
 ## Marine Life
 
-Fraser Rock's rocky reef structure supports a dense Pacific Northwest assemblage. Giant Pacific octopus (GPO) are common residents in crevices and under ledges. Wolf eels are regularly spotted in their rocky dens. Lingcod patrol the reef edges while schools of black rockfish and copper rockfish hover in the water column. Puget Sound king crabs, sea cucumbers, and colourful plumose anemones carpet the substrate. Harbour seals frequently visit the site, and Steller sea lions may pass through in season.
+No site-specific marine life reports were found for Fraser Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Cold water, boat traffic, and tidal currents are the primary hazards at Fraser R
 Fraser Rock offers strong macro and wide-angle opportunities. GPO encounters are a highlight — approach slowly and avoid touching the animal. Wolf eel portraits reward patient divers with lights. Plumose anemone gardens and encrusting sponges photograph well in the 8-15 metre zone. Early morning dives in calm conditions give the cleanest natural light.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Fraser Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

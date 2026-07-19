@@ -32,7 +32,8 @@ Janit Reef lies in Barkley Sound on the west coast of Vancouver Island, one of B
 
 ## Marine Life
 
-Barkley Sound's ocean-influenced waters support exceptional biodiversity. Giant Pacific octopus are large and numerous in this productive environment. Lingcod, cabezon, and tiger rockfish are all present at impressive sizes. Plumose anemones and encrusting sponges grow in dense multi-coloured layers on exposed reef faces. Sea pens and basket stars are found in deeper sandy areas. Cloud sponges — a signature BC indicator species — have been documented in Barkley Sound. Steller sea lions haul out on Barkley Sound rocks and frequently encounter divers. Grey whales feed in the shallows during spring migration.
+No site-specific marine life reports were found for Janit Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Barkley Sound's biodiversity creates outstanding photographic opportunities. Den
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Janit Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

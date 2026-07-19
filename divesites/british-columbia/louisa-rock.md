@@ -32,7 +32,8 @@ Louisa Rock sits in the waters around the Saanich Peninsula, in the channels bet
 
 ## Marine Life
 
-Louisa Rock hosts a productive Salish Sea community. Giant Pacific octopus are found in crevices throughout the rock structure — the Victoria and Saanich Inlet area is renowned for its octopus density. Wolf eels are occasionally encountered at this type of rocky site. Lingcod are present as territorial predators. Copper and quillback rockfish inhabit the rock faces. Plumose anemones and encrusting sponges colonise exposed surfaces. Kelp greenlings and painted greenlings are common. Harbour seals are abundant in the area.
+No site-specific marine life reports were found for Louisa Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Octopus portraiture is the photographic priority at Louisa Rock — the Victoria
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Louisa Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

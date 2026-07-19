@@ -32,7 +32,8 @@ Located off the outer coast of Vancouver Island near the entrance to Barkley Sou
 
 ## Marine Life
 
-The outer coast environment brings strong Pacific upwelling, supporting kelp-blanketed rocky substrates with dense populations of sea urchins, sunflower sea stars, and large anemone communities. Lingcod and cabezon are resident predators. Harbour porpoise and Dall's porpoise are occasionally sighted in surface waters near the bank. Pacific halibut may be encountered in sandy transition zones around the reef edges. Steller sea lions from nearby colonies are a regular presence.
+No site-specific marine life reports were found for Sargison Bank in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Open Pacific Ocean exposure is the defining safety factor at Sargison Bank. Surg
 The outer coast's cleaner water and kelp environments produce vivid underwater imagery. Wide-angle with kelp forest context shots are stunning in good visibility. Sea lions making passes at the reef provide excellent opportunities. Halibut camouflage photography on sandy substrate requires patience and keen eyes.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Sargison Bank in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

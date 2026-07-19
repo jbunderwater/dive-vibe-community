@@ -32,7 +32,8 @@ Johnstone Reef is located in the Haro Strait south of Victoria, in the channel b
 
 ## Marine Life
 
-Johnstone Reef's position in the Haro Strait means it experiences stronger currents than inner Gulf Islands sites, supporting particularly dense plumose anemone growth on current-facing surfaces. Giant Pacific octopus are well-represented. Lingcod are numerous and bold. Copper and quillback rockfish are abundant. The reef's position also makes it accessible to open-water species — Pacific white-sided dolphins sometimes hunt in the Haro Strait and may be seen from the surface. Harbour seals are abundant throughout the area.
+No site-specific marine life reports were found for Johnstone Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ The current-swept reef faces with dense plumose anemone growth create outstandin
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Johnstone Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

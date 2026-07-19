@@ -32,7 +32,8 @@ Escape Reef is located in the Strait of Georgia north of Nanaimo near Gabriola I
 
 ## Marine Life
 
-Escape Reef hosts a rich cold-water community. Giant Pacific octopus are the headline attraction, consistently found in rocky crevices throughout the reef. Lingcod are numerous and visible on the reef surface. Copper and quillback rockfish are the dominant fish species. Plumose anemones and encrusting sponges cover exposed rocky faces. Kelp greenlings, painted greenlings, and pile perch inhabit the shallower rocky zone. Nudibranchs are diverse at this reef. Harbour seals are reliably present.
+No site-specific marine life reports were found for Escape Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Octopus portraiture is the primary photographic goal at Escape Reef. Wide-angle 
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Escape Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

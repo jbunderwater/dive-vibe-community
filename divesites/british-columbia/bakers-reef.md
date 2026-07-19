@@ -33,7 +33,8 @@ Bakers Reef lies in Boundary Pass, the international waterway between the southe
 
 ## Marine Life
 
-Bakers Reef supports the rich temperate marine life typical of the Boundary Pass area. Lingcod are prominent residents on the deeper edges, and giant Pacific octopus use the boulder fields extensively. Schooling black rockfish frequent the mid-water above the reef, while perch species pick invertebrates from the rock face. Dense colonies of plumose anemones festoon the current-swept ledges. Steller sea lions from nearby haulouts occasionally investigate divers. Nudibranchs, including the brightly coloured opalescent and alabaster varieties, are found throughout the site.
+No site-specific marine life reports were found for Bakers Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Heavy vessel traffic through Boundary Pass creates a genuine surface hazard. Asc
 Anemone walls at Bakers Reef offer dramatic wide-angle compositions. Position against the rock face with the anemone colonies filling the background for the best results. Black rockfish and perch species make active wide-angle subjects in the water column. Macro opportunities include nudibranchs, shrimp, and encrusting bryozoans.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Bakers Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

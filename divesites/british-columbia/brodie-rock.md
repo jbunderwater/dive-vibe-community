@@ -32,7 +32,8 @@ Brodie Rock is located in the western approaches to Victoria in the Strait of Ju
 
 ## Marine Life
 
-Brodie Rock's position in the Juan de Fuca Strait means it experiences strong tidal exchange, which nourishes dense invertebrate communities. Giant Pacific octopus are the top attraction, using the rock's crevices for shelter. Lingcod defend territories on the upper reef, while quillback and copper rockfish congregate in schools. The rock faces are covered with plumose anemones, encrusting sponges, and cup corals. Dungeness crab are found on surrounding sand. California sea lions haul out on nearby rocks and often investigate divers in this area.
+No site-specific marine life reports were found for Brodie Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Sea lions often interact playfully with divers and make exceptional underwater p
 - Victoria area dive charters for Juan de Fuca conditions
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Brodie Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

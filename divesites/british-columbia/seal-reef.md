@@ -32,7 +32,8 @@ Seal Reef sits in the channel systems north of Parksville/Qualicum in the Strait
 
 ## Marine Life
 
-Harbour seals are the standout encounter at Seal Reef — curious individuals frequently swim alongside divers or circle the group throughout the dive. Lingcod, copper rockfish, and quillback rockfish occupy the rocky ledges and overhangs. Kelp greenling are common in the kelp patches. Dungeness crab and red rock crab scavenge on the sandy zones at the reef base. Nudibranchs, particularly alabaster and shaggy mouse species, appear on encrusted rock. Plumose anemone colonies adorn vertical surfaces.
+No site-specific marine life reports were found for Seal Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Seal encounters are generally safe but remain alert — seals can nip, particula
 Harbour seal portrait photography is the star attraction — wide-angle imaging of seals swimming through kelp is stunning. Portrait shots of the seals' whiskered faces require a moderately long port setting. Rockfish and lingcod also make excellent portrait subjects in strong available light.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Seal Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

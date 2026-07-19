@@ -33,7 +33,8 @@ Horda Shoals is a popular intermediate boat dive in the northern Gulf Islands, w
 
 ## Marine Life
 
-Horda Shoals supports typical northern Gulf Islands species. Giant Pacific octopus are regularly encountered in crevices throughout the reef structure. Lingcod and cabezon occupy rocky ledges, while schools of black rockfish and kelp greenling patrol the kelp canopy above. Purple and red sea urchins, sea stars, and nudibranchs of various species appear across the shallower sections of the shoal. Harbour seals are a constant presence around the Gulf Islands and regularly follow divers through the site.
+No site-specific marine life reports were found for Horda Shoals in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ The strong tidal currents through the Gulf Islands channels pose the main hazard
 Horda Shoals offers a classic Gulf Islands photo opportunity set. Wide-angle ambient shots through the kelp canopy work well on bright calm days. For targeted encounters, GPO portraits and lingcod resting on sponge-covered rock are the standout subjects. Macro photographers can find nudibranchs, shrimp, and small crustaceans throughout the shallower reef sections.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Horda Shoals in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

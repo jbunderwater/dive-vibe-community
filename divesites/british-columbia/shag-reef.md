@@ -32,7 +32,8 @@ Shag Reef sits in the channel systems south and east of the Gulf Islands, close 
 
 ## Marine Life
 
-The tidal flows around Shag Reef support dense orange and white plumose anemone colonies on current-swept surfaces. Lingcod patrol the reef edges and occupy ledge positions throughout the site. Copper rockfish, quillback rockfish, and painted greenling are resident. Giant Pacific octopus have den areas in the deeper boulder zones. Harbour seals are highly visible, particularly during and after tidal runs when feeding activity increases. Nudibranchs are present on encrusted surfaces across the reef.
+No site-specific marine life reports were found for Shag Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Tidal currents in the Southern Gulf Islands and US border channel areas can be a
 Anemone wall photography is outstanding when current brings out the feeding postures. Wide-angle images of the reef structure with a diver in frame capture the Gulf Islands character. Lingcod and rockfish portrait photography rewards patience and slow movement.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Shag Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

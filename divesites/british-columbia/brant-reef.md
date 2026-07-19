@@ -32,7 +32,8 @@ Brant Reef lies in the central Strait of Georgia offshore from the Nanaimo area,
 
 ## Marine Life
 
-The reef supports a full complement of Salish Sea species. Giant Pacific octopus are frequently encountered among rock crevices. Lingcod — some exceeding a metre in length — guard territories on the rocky substrate. Copper and quillback rockfish hover near the reef structure. Plumose anemones in white and orange form dense colonies on rocky prominences exposed to current. Tiger rockfish can be found deeper on the reef. Puget Sound king crab and red rock crab are common. Harbour seals often follow dive groups around the reef.
+No site-specific marine life reports were found for Brant Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Rockfish portraits, octopus interactions, and wide-angle reef panoramas are all 
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Brant Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

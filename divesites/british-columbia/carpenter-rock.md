@@ -32,7 +32,8 @@ Carpenter Rock lies in the northern Strait of Georgia in waters between Vancouve
 
 ## Marine Life
 
-The northern Strait of Georgia supports exceptional populations of giant Pacific octopus — Carpenter Rock is a reliable spot for encounters. Wolf eels are present in permanent den sites. Lingcod are abundant and can be seen guarding egg masses during winter and spring. Copper and quillback rockfish are the dominant reef fish. Plumose anemones and encrusting sponges colonise hard surfaces. The area is also known for large Puget Sound king crabs patrolling the reef base. Harbour porpoise are frequently seen at the surface in this part of the Strait.
+No site-specific marine life reports were found for Carpenter Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ The northern Strait of Georgia's nutrient-rich waters support exceptional invert
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Carpenter Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

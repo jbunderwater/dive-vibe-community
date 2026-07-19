@@ -32,7 +32,8 @@ Chesil Bank sits in the central Gulf Islands in the waters between Salt Spring I
 
 ## Marine Life
 
-Chesil Bank supports the classic Gulf Islands cold-water community. Giant Pacific octopus are routinely sighted in crevices throughout the bank. Lingcod are abundant predators, often resting camouflaged against the rocky bottom. Copper and quillback rockfish inhabit the reef structure. Plumose anemones and encrusting sponges coat exposed surfaces. Nudibranchs are diverse and visible for those who search carefully. Harbour seals are regular visitors. Dungeness crab forage on sandy areas adjacent to the bank.
+No site-specific marine life reports were found for Chesil Bank in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ The varied terrain of Chesil Bank offers wide-angle compositions of the bank's s
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Chesil Bank in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

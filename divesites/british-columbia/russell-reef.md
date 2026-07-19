@@ -32,7 +32,8 @@ Russell Reef lies in the outer Gulf Islands near the Strait of Georgia, exposed 
 
 ## Marine Life
 
-Russell Reef hosts a healthy community of rockfish — quillback, copper, and tiger rockfish are all regularly observed. Large lingcod are a consistent highlight, often seen in pairs or triads resting on top of the reef. Giant Pacific octopus inhabit the deeper rock piles, and plumose anemone fields coat many of the vertical surfaces. Nudibranchs including the shaggy mouse nudibranch and alabaster nudibranch appear on encrusted surfaces. Harbour seals are common visitors and show curiosity toward divers.
+No site-specific marine life reports were found for Russell Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Current is the primary hazard at Russell Reef. A strong ebb or flood can make th
 Lingcod and rockfish portrait photography are the standout opportunities. The dense plumose anemone coverage on vertical rock faces makes compelling wide-angle images with a diver silhouette. Macro subjects are abundant on encrusted rubble between the boulders.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Russell Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

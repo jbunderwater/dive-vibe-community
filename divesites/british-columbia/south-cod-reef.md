@@ -32,7 +32,8 @@ South Cod Reef sits among the reefs and shoals off Sidney and the Saanich Penins
 
 ## Marine Life
 
-Lingcod are the defining fish at South Cod Reef — consistent with the area's naming convention. Large resident lingcod are found on prominent rocky features. Copper rockfish and quillback rockfish are abundant on the deeper reef structure. Kelp greenling add colour in the shallower zones. Giant Pacific octopus inhabit boulder crevices. Plumose anemones carpet exposed rock faces. Harbour seals make regular appearances. Nudibranch diversity is good — the Sidney area supports a well-documented nudibranch fauna.
+No site-specific marine life reports were found for South Cod Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Standard Gulf Islands diving hazards apply — cold water, current, and summer b
 Lingcod portrait photography is exceptional — large, willing subjects in good ambient light. The Sidney area's nudibranchs provide excellent macro subjects. Wide-angle images of the reef structure and resident rockfish communities are consistently rewarding.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for South Cod Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

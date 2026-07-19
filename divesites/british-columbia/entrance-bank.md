@@ -32,7 +32,8 @@ Entrance Bank is positioned at the southern approach to Discovery Passage near C
 
 ## Marine Life
 
-Entrance Bank benefits from the nutrient upwelling typical of Discovery Passage. Giant Pacific octopus are abundant at this site. Lingcod are large and numerous, with some exceptional individuals. Schools of black rockfish hover above the bank structure. Quillback and copper rockfish are resident. Plumose anemones form dense gardens on current-swept faces. Sunflower sea stars and leather stars are common. Pacific white-sided dolphins are frequently seen in Discovery Passage and occasionally dive through the shallower bank.
+No site-specific marine life reports were found for Entrance Bank in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Current-swept banks produce exceptional wide-angle photography — plumose anemo
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Entrance Bank in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

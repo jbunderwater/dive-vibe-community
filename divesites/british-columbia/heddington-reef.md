@@ -33,7 +33,8 @@ Heddington Reef sits in the exposed outer waters of Barkley Sound, one of the mo
 
 ## Marine Life
 
-Barkley Sound reefs are known for large lingcod, and Heddington is no exception — substantial fish occupy the reef faces throughout the dive. Giant Pacific octopus are abundant here, frequently visible without needing a torch in daylight conditions. Quillback and copper rockfish shelter in the reef structure. The rocky substrate is carpeted with Gooseneck barnacles, sea anemones, and colourful encrusting sponges. Steller sea lions occasionally visit from their rookeries in the Sound, providing memorable encounters.
+No site-specific marine life reports were found for Heddington Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Open Pacific swell, tidal currents, and remoteness from emergency services make 
 Barkley Sound's clear water and rich marine life make Heddington Reef a strong photographic destination. Wide-angle shots capturing lingcod against sponge-encrusted rock, or GPO in open water, are distinctive BC west coast images. Sea lion encounters — if they occur — are best captured with fast autofocus and a wide lens. Macro subjects including nudibranchs, chitons, and small crustaceans are abundant across the reef.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Heddington Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

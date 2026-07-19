@@ -32,7 +32,8 @@ Satellite Reef rises from the floor of the Strait of Georgia, sitting in the tid
 
 ## Marine Life
 
-Satellite Reef hosts the full spectrum of BC cold-water reef species. Copper and quillback rockfish are ever-present on rocky perches. Lingcod up to 90 centimetres are regulars on deeper ledges. Plumose anemones (orange and white) colonise nearly every vertical surface. Painted greenling and kelp greenling add splashes of colour throughout. Pacific spiny dogfish sharks may be encountered in schools at mid-depth. Giant Pacific octopus occupy boulder crevices and are a highlight for visiting divers.
+No site-specific marine life reports were found for Satellite Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Boat traffic in the Strait of Georgia is heavy, particularly in summer. Always u
 Rockfish portrait photography is outstanding here — copper rockfish in particular make bold, cooperative subjects. Wide-angle shots capturing the plumose anemone fields with a diver create striking images. Dogfish in motion are a more challenging but rewarding photographic subject.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Satellite Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

@@ -32,7 +32,8 @@ Egerton Rock lies in the Strait of Georgia off the Sunshine Coast, in the waters
 
 ## Marine Life
 
-Egerton Rock concentrates the typical Salish Sea species in an otherwise open-water environment. Giant Pacific octopus are found in rocky crevices. Lingcod and quillback rockfish are the dominant fish species. Plumose anemones and encrusting sponges colonise exposed surfaces. Kelp greenlings patrol the shallower portions of the rock. Dungeness crab and Puget Sound king crab are found on adjacent sandy bottom. Harbour seals visit regularly and will shadow dive groups throughout.
+No site-specific marine life reports were found for Egerton Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Rocky reef photography with encrusting invertebrates as backdrop is the primary 
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Egerton Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

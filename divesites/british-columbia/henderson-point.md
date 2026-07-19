@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Henderson Point
 
-Henderson Point is a wall and rocky reef dive site near the southern tip of Vancouver Island, British Columbia, Canada, accessible by shore entry in the waters of the southern Gulf Islands.
+Henderson Point is a Saanich Inlet wall dive near Victoria, notable both for its wall topography and a small cabin cruiser wreck reported at the site.
 
 ## Overview
 
-Henderson Point offers one of the more accessible wall dives in the southern Vancouver Island area, dropping from a rocky shoreline entry into a dramatic wall structure that descends to 30 metres. This is an advanced shore dive due to the depth and the potential for significant tidal current. Water temperatures range from 8-12°C throughout the year and a drysuit is essential. Visibility typically runs 6-15 metres, improving considerably in autumn and winter when summer plankton blooms clear.
+Henderson Point is a shore-access wall dive in Saanich Inlet, grouped with nearby Willis Point and McKenzie Bight as one of the classic Saanich Inlet shore sites near Victoria. Diver reports describe a small cabin cruiser wreck at the site in addition to the wall itself — this is a mixed wall/wreck-feature site rather than a pure wall. The wall drops from the rocky shoreline entry to around 30 metres. This is an advanced shore dive due to the depth and the potential for tidal current in the inlet. Water temperatures range from 8-12°C throughout the year and a drysuit is essential.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Henderson Point offers one of the more accessible wall dives in the southern Van
 
 ## Marine Life
 
-The wall at Henderson Point is richly decorated with plumose anemones, encrusting sponges, and colourful sea stars from top to bottom. Giant Pacific octopus are common in ledges and crevices on the wall face. Lingcod patrol the upper reef sections near the base of the wall. Schools of black rockfish hover in the water column above the drop-off. Nudibranchs and hermit crabs populate the rocky shallows at the entry point. Harbour seals frequently investigate divers at this site.
+Sources consulted for this revision confirmed Henderson Point as a known Saanich Inlet dive location and mentioned the site's small cabin cruiser wreck, but did not provide a site-specific species list. Saanich Inlet generally is known for giant Pacific octopus, wolf eels, plumose anemones, rockfish, and (in winter, in the inlet's deeper zones) six-gill shark sightings — but these are regional characteristics, not confirmed observations at Henderson Point specifically. Divers should treat the marine life description above as regional context rather than a site-specific report.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The combination of depth, potential strong current, and rocky shore entry makes 
 Henderson Point's wall is visually compelling for wide-angle photography — the plumose anemone forests and sponge-encrusted rock create striking backgrounds. GPO on the wall face make iconic BC diving images. For macro work, the upper reef section and rocky shallows reward close inspection with tight lens setups. Natural light on the upper wall (5-10 metres) can be beautiful on calm bright days.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBoard — Henderson Point / Saanich Inlet visibility and dive reports](https://scubaboard.com/community/threads/what-good-visibility-looks-like-at-henderson-point-saanich-inlet.434746/), [Zentacle — Henderson Point Dive Site](https://www.zentacle.com/Beach/396/henderson-point-dive-site), [ScubaBC — Dive Sites](https://www.scubabc.ca/dive-sites/). Last updated 2026-07-19.*

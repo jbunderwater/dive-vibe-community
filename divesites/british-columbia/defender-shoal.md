@@ -32,7 +32,8 @@ Defender Shoal sits in Discovery Passage north of Campbell River, in one of the 
 
 ## Marine Life
 
-Discovery Passage's tidal currents make Defender Shoal one of the most productive dive sites in the region. Giant Pacific octopus are abundant, drawn by the rich food supply the current brings. Lingcod and quillback rockfish are large and numerous. Plumose anemones in dense white and orange colonies cover every hard surface facing the current. Sunflower sea stars and leather stars forage along the shoal base. Schools of black rockfish hover in the water column above. Pacific white-sided dolphins are frequently seen in Discovery Passage, and their underwater encounters are exceptional.
+No site-specific marine life reports were found for Defender Shoal in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ The concentration of life at current-swept shoals produces exceptional photograp
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Defender Shoal in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

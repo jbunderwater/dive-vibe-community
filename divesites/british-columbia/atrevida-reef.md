@@ -33,7 +33,8 @@ Atrevida Reef sits in the remote waters of Desolation Sound, one of British Colu
 
 ## Marine Life
 
-Atrevida Reef's cold, productive waters support large populations of sea urchins, sunflower sea stars, and bat stars across the reef surface. Giant Pacific octopus inhabit the deeper boulder sections and are regularly seen on evening dives. Schools of black rockfish hover above the reef in mid-water, while lingcod occupy territorial spots on the prominent rock structures. Wolf eels have been reported in the deeper crevices. Nudibranchs are abundant throughout the site, including the vibrant opalescent nudibranch. Harbour seals frequent the area, particularly during salmon runs in summer.
+No site-specific marine life reports were found for Atrevida Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Remote location means self-sufficiency is essential — no emergency services ar
 Desolation Sound's clear water and rich marine life make Atrevida Reef an excellent photography site. Wide-angle shots of the reef structure against the mountain backdrop can be striking from the surface. Underwater, rockfish schools, sea star aggregations, and GPO encounters are the prime subjects. Macro work on nudibranchs and bryozoans is rewarding in the 8 to 12 metre zone.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Atrevida Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

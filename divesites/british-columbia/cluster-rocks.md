@@ -32,7 +32,8 @@ Cluster Rocks is a collection of rocky underwater outcrops in the Strait of Geor
 
 ## Marine Life
 
-Multiple rocky structures create diverse microhabitats at Cluster Rocks. Giant Pacific octopus are consistently encountered here — the site has a good reputation for octopus sightings. Wolf eels occupy den sites in the deeper rocky sections. Lingcod are abundant, with some large individuals having occupied the same territories for many years. Copper and quillback rockfish swarm around the rocks. Plumose anemones create dense white and orange gardens on current-facing surfaces. Nudibranchs are diverse and well-documented at this site.
+No site-specific marine life reports were found for Cluster Rocks in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Multiple rocks create varied photographic opportunities in a single dive day. Wi
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Cluster Rocks in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

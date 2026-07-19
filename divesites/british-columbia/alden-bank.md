@@ -32,7 +32,8 @@ Alden Bank sits in the waters between Saturna Island and the San Juan Islands, w
 
 ## Marine Life
 
-The reef structure shelters a dense invertebrate community including sea stars, nudibranchs, and painted greenlings browsing among the urchins. Giant pacific octopus are regularly encountered tucked under ledges, and lingcod patrol the edge of the bank. Harbour seals often investigate divers, and Steller sea lions may pass through during winter months.
+No site-specific marine life reports were found for Alden Bank in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Tidal currents can build quickly on the bank — always check current tables for
 The shallow reef top offers excellent ambient-light conditions for wide-angle shots of invertebrate communities. Macro subjects include nudibranchs, hermit crabs, and the intricate structure of cup corals. A strobe or video light is recommended to reveal the true colours beneath the surface.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Alden Bank in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

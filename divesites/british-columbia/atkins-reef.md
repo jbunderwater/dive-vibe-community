@@ -33,7 +33,8 @@ Atkins Reef lies in Active Pass — one of the most current-swept passages in th
 
 ## Marine Life
 
-The current-swept reef at Atkins supports an impressive density of marine life. Giant Pacific octopus shelter in deep boulder dens and emerge at slack to hunt. Large lingcod are territorial on the reef crest. Black rockfish school in the mid-water column, while copper and quillback rockfish occupy ledge habitat. Plumose anemone walls are spectacular under a torch beam. Steller sea lions occasionally transit the pass. The strong tidal flow also brings schools of small baitfish that attract feeding birds on the surface.
+No site-specific marine life reports were found for Atkins Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Active Pass sees heavy BC Ferries traffic; boats must adhere to navigation rules
 Atkins Reef offers outstanding wide-angle shots of anemone-covered rock faces and schooling rockfish. Macro opportunities include nudibranchs on the rock surface and small crustaceans in crevices. Video is particularly effective here when current is calm and the marine life is active. Use a red filter or strobes to restore colour in the deeper sections.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Atkins Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

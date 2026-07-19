@@ -32,7 +32,8 @@ Collinson Reef sits in the central Gulf Islands in the Haro Strait area, between
 
 ## Marine Life
 
-Collinson Reef supports a typical Gulf Islands cold-water community with some noteworthy density of invertebrate life. Giant Pacific octopus are regularly encountered. Wolf eels inhabit rocky crevices on the deeper sections. Lingcod and copper rockfish are the dominant fish species. Plumose anemones form substantial colonies on exposed faces. Purple and orange encrusting sponges provide habitat for nudibranchs. Puget Sound king crab are occasionally spotted on the reef perimeter. Harbour seals are common throughout the dive.
+No site-specific marine life reports were found for Collinson Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Wolf eels at the reef's deeper sections are a priority photographic subject. Por
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Collinson Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*
