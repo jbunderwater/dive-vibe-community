@@ -21,6 +21,8 @@ Crawl Cay (also called Coral Cay, after the small restaurant on the islet) is lo
 
 The site is described as a beginner-to-intermediate site — suitable for new divers while offering enough variety for more experienced divers. Giant jellyfish are occasionally encountered in the water column. Barracuda have been reported at the site. Visibility is 15–20 meters in typical conditions.
 
+**Note on naming:** this entry sits roughly 46 meters from the separate "Cayo Coral" entry in this database (a shallow 8m shore-entry site). The two are very likely the same physical islet, referenced under different names by different sources — tourismpanama.com's own "Cayo Coral" listing (60ft/18m max, caves/tunnels, giant jellyfish, sponges, barracudas) matches this site's profile more closely than the separate shallow entry. Treat the two database entries as possibly duplicative pending a manual review.
+
 ## Site Information
 
 | Detail | Value |
@@ -63,4 +65,4 @@ The sea sponge diversity at the reef provides strong close-focus subjects. Any b
 - La Buga and Bocas Dive Center offer regular guided dives here
 
 ---
-*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [ScubaBoard - Bocas del Toro Dive Sites](https://scubaboard.com/community/threads/bocas-del-toro-panama-dive-sites.627586/). Last updated 2026-06-25.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [ScubaBoard - Bocas del Toro Dive Sites](https://scubaboard.com/community/threads/bocas-del-toro-panama-dive-sites.627586/). Last updated 2026-07-19.*

@@ -3,7 +3,7 @@ name: Hospital Point
 lat: 9.3348
 lng: -82.2198
 difficulty: Beginner
-maxDepth: 16
+maxDepth: 18
 entryType: boat
 siteType: wall
 ref: null
@@ -19,13 +19,13 @@ A shallow reef-to-wall transition at the northwest tip of Isla Solarte — one o
 
 Hospital Point sits at the northwest tip of Isla Solarte, approximately five minutes by boat from the dive centers on Isla Colón. The site has historical significance: the point was once the location of a hospital complex built by the United Fruit Company in 1901 to serve banana plantation workers. Today the headland is better known as a dive and snorkel site.
 
-The underwater topography begins as a shallow sandy bay at 2 meters — useful for equipment checks and entry — then transitions to a fringing reef of lettuce and brain coral starting at 3 meters. The reef gradually descends and becomes a wall at approximately 12–16 meters, with numerous cracks, caverns, and overhanging ledges cutting into the wall face. The wall provides shelter for a variety of reef invertebrates and fish that use the shaded overhangs. Visibility averages 15–20 meters. Water temperature is 28–30°C.
+The underwater topography begins as a shallow sandy bay at 2 meters — useful for equipment checks and entry — then transitions to a fringing reef of lettuce and brain coral starting at 3 meters. The reef gradually descends and becomes a wall at approximately 12–18 meters, with numerous cracks, caverns, and overhanging ledges cutting into the wall face. The wall provides shelter for a variety of reef invertebrates and fish that use the shaded overhangs. Visibility averages 15–20 meters. Water temperature is 28–30°C.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 2–16 m |
+| Depth Range | 2–18 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wall |
@@ -35,11 +35,11 @@ The underwater topography begins as a shallow sandy bay at 2 meters — useful f
 
 ## Marine Life
 
-The sandy bay at the site's entrance is an active night dive location — nurse sharks, southern stingrays, and hermit crabs are confirmed active on the sand after dark. Seahorses have been recorded in the reef crevices. The wall itself hosts colourful encrusting corals and fish that shelter in the cavern and ledge formations. Parrotfish and schools of reef fish occupy the shallow coral sections. The site is popular for a relaxed dive at any time of day.
+The sandy bay at the site's entrance is an active night dive location — nurse sharks, southern stingrays, and hermit crabs are confirmed active on the sand after dark. Seahorses have been recorded at the site (sources vary on the exact microhabitat — reef crevices vs. seagrass — both are plausible and non-contradictory). Lobster and crabs are confirmed by two independent sources (therealdealtours.com, tourismpanama.com). The wall itself hosts colourful encrusting corals and fish that shelter in the cavern and ledge formations. Parrotfish and schools of reef fish occupy the shallow coral sections. The site is popular for a relaxed dive at any time of day.
 
 ## Dive Profile
 
-Enter the shallow sandy bay at 2 meters for equipment checks, then descend to the reef at 3 meters. Follow the reef slope down to the wall at 12 meters, exploring the cavern openings and crevices in the wall face. Maximum depth of 16 meters. The very shallow bay section makes this excellent for certification dives and practice. Total dive: 45–60 minutes.
+Enter the shallow sandy bay at 2 meters for equipment checks, then descend to the reef at 3 meters. Follow the reef slope down to the wall at 12 meters, exploring the cavern openings and crevices in the wall face. Maximum depth of 18 meters. The very shallow bay section makes this excellent for certification dives and practice. Total dive: 45–60 minutes.
 
 ## Entry and Exit
 
@@ -63,4 +63,4 @@ The wall crevices and caverns provide good torch-lit subjects. The shallow coral
 - Night diving: Hospital Point is one of the recommended Bocas del Toro night dive sites
 
 ---
-*Sources: [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites), [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm). Last updated 2026-06-25.*
+*Sources: [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites), [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Tourism Panama - Bocas del Toro Dive Sites](https://www.tourismpanama.com/blog/post/bocas-del-toro-top-scuba-diving-and-snorkeling-sites/). Last updated 2026-07-19.*

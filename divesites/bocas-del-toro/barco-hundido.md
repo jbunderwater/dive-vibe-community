@@ -17,7 +17,7 @@ An old car ferry deliberately sunk on the southwest side of Isla Colón to creat
 
 ## Overview
 
-Barco Hundido — "sunken ship" in Spanish — is an intentionally sunk car ferry lying upright on the sandy bottom at approximately 5–12 meters on the southwest side of Isla Colón, the main island of the Bocas del Toro archipelago. The vessel was used to transport cars between the mainland and Isla Colón before being deliberately sunk to create an artificial reef and habitat for fish. Sources disagree on the sinking date: bocasdiversparadise.com and travelingwithscubajay.com state 1997, while other sources indicate approximately 2000; no primary record has been located to resolve the discrepancy. Over the intervening decades, the wreck has been colonised by hard and soft corals, sponges, and encrusting organisms that have transformed it into a living reef structure.
+Barco Hundido — "sunken ship" in Spanish — is an intentionally sunk car ferry lying upright on the sandy bottom at approximately 6–12 meters (20–40ft, per thevisitorpanama.info) on the southwest side of Isla Colón, the main island of the Bocas del Toro archipelago. The vessel was used to transport cars between the mainland and Isla Colón before being deliberately sunk to create an artificial reef and habitat for fish. On the 2026-07-19 re-audit, four independent, directly-quoted sources — bocasdiversparadise.com ("Sunken ferryboat since 1997"), travelingwithscubajay.com, bocasdivecenter.com, and tourismpanama.com ("Sunken ferry since 1997") — state the vessel was sunk in 1997. A minority of sources previously cited for an alternate ~2000 date could not be reconfirmed this pass (divescover.com was unreachable, HTTP 503; theblondeabroad.com's current text only says "11 years ago" relative to an undated article, giving no absolute year). Given the current weight of evidence, 1997 is treated as the better-supported date, though it remains operator-marketing-sourced rather than a primary historical record. Over the intervening decades, the wreck has been colonised by hard and soft corals, sponges, and encrusting organisms that have transformed it into a living reef structure.
 
 The site is sheltered and accessible year-round. The wreck rests upright, making exterior navigation straightforward. The protected inner bay position means calm conditions are the norm and visibility is typically adequate. Note: no vessel name, dimensions, or tonnage have been found in any source; the wreck's history is limited to its identification as an old car ferry sunk to create an artificial reef. Interior penetration is not recommended due to confined spaces and silt accumulation.
 
@@ -25,7 +25,7 @@ The site is sheltered and accessible year-round. The wreck rests upright, making
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–12 m (sources vary; some report up to ~15 m) |
+| Depth Range | 6–12 m (sources vary; some report up to ~15 m) |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wreck |
@@ -63,4 +63,4 @@ The wreck in warm, clear water makes for accessible wide-angle wreck photography
 - The wreck is in sheltered inner waters, accessible year-round
 
 ---
-*Sources: [Traveling with Scuba Jay - Panama Dive Guide](https://travelingwithscubajay.com/the-ultimate-guide-to-scuba-diving-in-panama/), [The Visitor Panama - The Old Wreck](http://www.thevisitorpanama.info/eng/2024/10/19/the-old-wreck-an-amazing-site-to-dive-in-the-bocas-del-toro-archipelago/), [Bocas Divers Paradise - Dive Sites](https://bocasdiversparadise.com/2024/07/02/what-are-the-dive-sites-like-in-bocas-del-toro/), [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/bdc-blog/best-dive-sites). Last updated 2026-06-25.*
+*Sources: [Traveling with Scuba Jay - Panama Dive Guide](https://travelingwithscubajay.com/the-ultimate-guide-to-scuba-diving-in-panama/), [The Visitor Panama - The Old Wreck](http://www.thevisitorpanama.info/eng/2024/10/19/the-old-wreck-an-amazing-site-to-dive-in-the-bocas-del-toro-archipelago/), [Bocas Divers Paradise - Dive Sites](https://bocasdiversparadise.com/2024/07/02/what-are-the-dive-sites-like-in-bocas-del-toro/), [Bocas Dive Center - Best Dive Sites](https://bocasdivecenter.com/best-dive-sites/), [Tourism Panama - Bocas del Toro Dive Sites](https://www.tourismpanama.com/blog/post/bocas-del-toro-top-scuba-diving-and-snorkeling-sites/). Last updated 2026-07-19.*
