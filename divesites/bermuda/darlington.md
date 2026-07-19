@@ -33,7 +33,7 @@ The Darlington was a 285-foot (87 m), 1,990-ton iron-hulled steamer built in 188
 
 ## Marine Life
 
-Shallow Bermudian wreck sites like the Darlington are productive fish habitats. Schooling grunts and snapper shelter around the structural elements. Parrotfish and angelfish move through the wreckage. Resident spiny lobster occupy crevices between the collapsed hull plates. The warm, shallow environment supports coral encrustation on the exposed metal surfaces. Moray eels are common in the darker interior spaces.
+No source-specific marine life reports were found for the Darlington during this review. Shallow Bermuda wreck sites generally support snapper, grunt, and lobster populations, but no source confirms specific species sightings at this site. The warm, shallow environment does support visible coral encrustation on the exposed metal surfaces.
 
 ## Dive Profile
 
@@ -49,7 +49,7 @@ Boat dive from Bermuda operators. The Western Reef area is regularly visited. Gi
 - Excellent site for photographers developing wide-angle framing skills in manageable conditions
 - The shallow depth makes this a good choice when surface conditions or wind affect deeper sites
 - Snorkelers comfortable in open water can explore this site from the boat
-- A torch illuminates interior spaces and reveals the size of resident moray eels
+- A torch is useful for illuminating the darker spaces between the collapsed hull plates
 
 ## Safety Considerations
 
@@ -60,4 +60,4 @@ At 6 meters, depth-related hazards are minimal. The primary concerns are boat tr
 The shallow depth and Bermuda's excellent clarity make the Darlington an accessible photography site. The rudder pointing toward the surface with light filtering down creates an iconic image. Hull plates and boilers covered in colorful encrusting life photograph well with natural light supplemented by a single strobe.
 
 ---
-*Sources: [Bermuda 100 Project - Darlington](https://bermuda100.ucsd.edu/darlington/), [Bermuda Department of Environment and Natural Resources - Darlington](https://environment.bm/darlington), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Last updated 2026-05-18.*
+*Sources: [Bermuda 100 Project - Darlington](https://bermuda100.ucsd.edu/darlington/), [Bermuda Department of Environment and Natural Resources - Darlington](https://environment.bm/darlington), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Re-audited 2026-07-19 (previously validated 2026-05-18) — history fully reconfirmed (285ft, 1,990 tons, 1881 Swan & Hunter, Feb 22 1886, Capt. Richard Ward); removed unconfirmed marine life claims.*

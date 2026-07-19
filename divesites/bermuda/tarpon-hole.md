@@ -33,7 +33,7 @@ Tarpon Hole is a series of large breakers directly off the western end of Elbow 
 
 ## Marine Life
 
-Tarpon Hole is particularly known for ocean tarpon, which school here in significant numbers at certain seasons and can be very inquisitive toward divers. Horse-eye jacks and bar jacks also school in the arches and tunnels. Large gray and mutton snapper are regular residents under the coral arches. The overhangs and tunnel systems support grouper, French angelfish, and butter hamlet. Silversides pack the enclosed spaces in summer, attracting the tarpon that give this site its name.
+Tarpon Hole is particularly known for ocean tarpon, which school here in significant numbers at certain seasons, feeding on the silversides that pack the enclosed spaces, and can be very inquisitive toward divers. Jacks and large snappers frequently patrol the arches. Sources consulted did not identify these jacks and snappers to species level, and no source-specific reports of grouper, angelfish, or hamlet at this site were found during this review — earlier text naming "horse-eye jacks," "bar jacks," "mutton snapper," "French angelfish," and "butter hamlet" has been removed as unconfirmed.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The combination of arches and caves means divers can briefly lose visual contact
 The coral arches and caves are natural photographic frames for wide-angle compositions with tarpon or jacks silhouetted against the light. Schools of silversides in Bermuda's clear water create impressive ambient light images. Morning sun angles illuminate the arch interiors most dramatically. Tarpon at close range are among the most spectacular subjects at this site.
 
 ---
-*Sources: [Bermuda 100 Project - Tarpon Hole](https://bermuda100.ucsd.edu/tarpon-hole/), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Scuba Diver Life - Best Diving Bermuda](https://scubadiverlife.com/best-diving-bermuda/), [Go To Bermuda - Diving Bermuda](https://www.gotobermuda.com/inspiration/article/where-go-diving-bermuda-best-locations-all-skill-levels), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-05-18.*
+*Sources: [Bermuda 100 Project - Tarpon Hole](https://bermuda100.ucsd.edu/tarpon-hole/index.php), [Go To Bermuda - Diving Bermuda](https://www.gotobermuda.com/inspiration/article/where-go-diving-bermuda-best-locations-all-skill-levels), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm), [Scuba Diver Life - Best Diving Bermuda](https://scubadiverlife.com/best-diving-bermuda/). Re-audited 2026-07-19 (previously validated 2026-05-18) — trimmed marine life to species confirmed by sources (tarpon, silversides, jacks, snappers); removed unconfirmed species-level specificity.*
