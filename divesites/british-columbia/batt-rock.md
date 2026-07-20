@@ -33,7 +33,8 @@ Batt Rock is a submerged rock pinnacle in the central Gulf Islands, rising from 
 
 ## Marine Life
 
-Batt Rock's exposed pinnacle is colonised with dense plumose anemone growths that make the rock appear almost furry from a distance. Lingcod sit motionless on flat rock surfaces, relying on camouflage to ambush prey. Copper and black rockfish hover in mid-water around the pinnacle. Giant Pacific octopus shelter in crevices on the steeper sides. Nudibranchs are abundant on the rock surface, and purple sea urchins graze the encrusting algae. Harbour seals use the area regularly.
+No site-specific marine life reports were found for Batt Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ The open-water position of Batt Rock means tidal current affects the site from m
 Plumose anemone coverage at Batt Rock rewards wide-angle shooters. Position close to the rock face with the anemone-covered walls behind your subject for impactful images. The lingcod are patient subjects and will tolerate a slow approach. Nudibranchs and tube worms on the rock surface are excellent macro subjects.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Batt Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

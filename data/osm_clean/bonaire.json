@@ -17,7 +17,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,scubadiving.com,reef.org,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-19"
     }
   },
   {
@@ -39,7 +39,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divers-guide.com,sunwisebonaire.com,scuba-diving-smiles.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-19"
     }
   },
   {
@@ -59,8 +59,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Site name not found in STINAPA, InfoBonaire, PADI, or Bonaire.com indexes. Informal or local name for section of central west coast reef."
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-checked 2026-07-19: fresh web search still finds no site-specific source (only an OSM-mirror geoview.info listing, not independent). Markdown template-generated content (fabricated marine life list, feet-based depths, fake 'Additional Resources' section) stripped and replaced with an honest no-source notice matching the unmarked-site treatment. Remains unvalidated."
     }
   },
   {
@@ -102,9 +102,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "123carrentalbonaire.com,infobonaire.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "14m depth confirmed by multiple sources (45ft / 14m). OSM had 10m which was low. Locally-built 14m fishing boat intentionally sunk at Captain Don's Habitat dock."
+      "validation_source": "infobonaire.com,123carrentalbonaire.com,bonaireisland.com,divers-guide.com,dreamwrecks.com",
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-audited 2026-07-19. Length reconfirmed: infobonaire.com states 45ft (13.7m), divers-guide.com states 14m -- consistent, no correction needed. Marine-life list updated to match divers-guide.com's site-specific report (tarpons, octopus, moray eels, seahorses, stingrays, cubera snappers) rather than the prior generic Caribbean list. A single-source claim (divers-guide.com) that the wreck was used as a filming location for a 1979 Dutch TV series was found but NOT added to markdown -- only one source, does not meet 2-source bar for historical claims."
     },
     "depth_max": 14
   },
@@ -125,8 +125,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Site name not found in STINAPA, InfoBonaire, PADI, or Bonaire.com indexes. Informal or local name for section of southern Bonaire fringing reef."
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-checked 2026-07-19: fresh web search still finds no site-specific source. Markdown template-generated content (fabricated marine life list, feet-based depths, fake 'Additional Resources' section) stripped and replaced with an honest no-source notice matching the unmarked-site treatment. Remains unvalidated."
     }
   },
   {
@@ -182,9 +182,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,scubadiving.com,buddydive.com,dreamwrecks.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Corrected length fields: 71.78m (235ft 6in) per Wikipedia. Previous OSM value of 236 was in feet. Beam corrected to 11.01m (36ft). All key wreck details cross-checked across Wikipedia + scubadiving.com + buddydive.com."
+      "validation_source": "wikipedia.org,scubadiving.com,buddydive.com,dreamwrecks.com,divers-guide.com",
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-audited 2026-07-19 against Wikipedia (fresh pull) + divers-guide.com. Ship history (Midsland 1951 -> Mistral -> William Express -> Anna C. -> Doric Express -> Hilma Hooker 1979; 71.78m/691GRT built by Van der Giessen de Noord; 25,000 lb marijuana seizure; towed to anchorage and sank 12 Sept 1984 at 9:08am) reconfirmed consistent across sources -- no changes needed. Depth conflict flagged: Wikipedia/original sources cite ~30m sand-bottom depth, but divers-guide.com lists a 10-34m range with some divers reporting excursions to ~40m; markdown now notes this range rather than asserting a single figure. Rejected divers-guide.com's claim that the ship was 'deliberately sunk to create an artificial reef' as contradicted by the well-corroborated accidental-sinking narrative (Wikipedia + original multi-source validation)."
     },
     "depth_max": 30
   },
@@ -312,8 +312,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Site type corrected to wall: southern tip drop-off, steep wall profile, current-exposed."
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-audited 2026-07-19. 1837 construction date for the lighthouse reconfirmed via independent search (multiple Bonaire history sources agree). No changes needed to existing content."
     }
   },
   {
@@ -373,7 +373,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,divers-guide.com,bonaire.digital,padi.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-audited 2026-07-19. Confirmed via a fresh search that despite the 'Red Slave' name, the surviving huts at this location are actually painted orange/yellow-ochre (not pure red) -- multiple sources note the color mismatch, some tracing it to an old paint-order mix-up. Markdown corrected to note this nuance rather than describing the huts as simply 'red-painted'."
     }
   },
   {
@@ -460,7 +461,7 @@
       "validated": "true",
       "validation_source": "sunwisebonaire.com,beyondthecorals.com,infobonaire.com",
       "site_note": "pier dive",
-      "last_qa_date": "2026-05-24",
+      "last_qa_date": "2026-07-19",
       "qa_note": "Depth corrected to 15m: site ranges 5-15m per multiple sources. Previous null replaced."
     }
   },
@@ -607,7 +608,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "infobonaire.com,padi.com,divers-guide.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-audited 2026-07-19. 1850 build date for the slave huts reconfirmed via independent search (multiple regional history sources agree: built 1850, 13 years before 1863 abolition). No changes needed to existing content."
     }
   },
   {
@@ -994,7 +996,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divers-guide.com,scuba-diving-smiles.com,johnnyafrica.com",
-      "last_qa_date": "2026-05-24",
+      "last_qa_date": "2026-07-19",
       "qa_note": "Depth corrected to 40m (sandy bottom at 35-45m per sources). BNMP #9. Wall profile confirmed. Difficult entry/exit over rocks."
     }
   },
@@ -1076,8 +1078,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "infobonaire.com,divers-guide.com,bonaireisland.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divers-guide.com,infobonaire.com,harpsguidetobonaire.com",
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-audited 2026-07-19. Carel Steensma naming story, 2005 opening, and 1999 Hurricane Lenny damage all reconfirmed via additional independent source (harpsguidetobonaire.com / aggregated search of zentacle.com, scubaboard.com). Swapped out the greatestdivesites.com citation (site now serves a self-signed/untrusted TLS certificate, unreliable) for harpsguidetobonaire.com in the source list."
     }
   },
   {
@@ -1156,8 +1159,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "dreamwrecks.com,divers-guide.com,numa.net",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "dreamwrecks.com,divers-guide.com,numa.net,mass.cultureelerfgoed.nl",
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Deep re-audit 2026-07-19 found MAJOR conflicts across independent sources on cause of sinking, casualties, tonnage, and depth. Netherlands Cultural Heritage maritime-archaeology database (mass.cultureelerfgoed.nl) says: 1278 tons, storm shifted loose tar cargo causing list, anchor failed, grounded on reef 7 Dec 1912, no casualties mentioned, wreck at 60m with a mast visible at 12m. NUMA (numa.net) says: 1,315 tons, 239ft, ran aground in a storm then cargo (asphalt) caught fire from a kerosene lamp causing explosions, 4 crew died/28 survived, wreck at 140-180ft (43-55m). DreamWrecks says: 378 tons, initial grounding 7 Dec 1905, then a separate hurricane in Dec 1912 capsized her; a historian (Maurice Coutts) theorized the captain deliberately grounded the aging ship; 2 people died later during salvage when a mast fell; wreck at ~200ft (61m) with one mast in 30ft (9m) of water. Markdown rewritten to present only the facts common to all sources (built 1874, Glasgow, Barclay Curle & Co; wrecked on a Bonaire reef in a storm in 1912) and to explicitly flag the conflicting tonnage/cause/casualty/depth claims rather than picking one. Removed prior unsupported claim that 'both masts still stand upright' -- no current source confirms standing masts at 35-40m; sources instead describe masts lying on the bottom or a mast section in much shallower water (9-12m)."
     }
   },
   {
@@ -1261,8 +1265,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Unmarked site on southern Bonaire coast. No independent sources found."
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-checked 2026-07-19: kasdivi.com (previously cited) now redirects to an unrelated domain (theoceanwindow.com) with a mismatched TLS certificate -- no longer a usable source, removed from footer. 4wheeldiving.com's 'Dive Like a Local' tour page confirms Hidden Beach as a real named unmarked south-coast site (2nd source) but gives no depth/marine-life specifics. Still only 1-2 usable sources; remains unvalidated."
     }
   },
   {
@@ -1281,9 +1285,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "false",
-      "validation_source": "osm_only",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Unmarked site on southern Bonaire coast. No independent sources found."
+      "validation_source": "divers-guide.com,4wheeldiving.com",
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-checked 2026-07-19: divers-guide.com has a dedicated Yellow Hut page confirming EEG Boulevard location, 25m max depth, best route 6-15m, marine life (turtles, rays, moray eels, parrotfish), rocky entry. 4wheeldiving.com confirms it as a real 'dive like a local' site. Only 2 distinct domains found (not 3) -- left validated=false per the 3-source rule, but markdown updated with this real content in place of prior generic fallback text."
     }
   },
   {
@@ -1303,8 +1307,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "osm_only",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Unmarked site on southern Bonaire coast. No independent sources found."
+      "last_qa_date": "2026-07-19",
+      "qa_note": "Re-checked 2026-07-19: kasdivi.com (previously cited) now redirects to an unrelated domain -- no longer usable, removed from footer. 4wheeldiving.com's 'Dive Like a Local' tour page confirms Soft Coral Garden as a real named unmarked site alongside Hidden Beach and Yellow Hut, but gives no depth/marine-life specifics. Still only 1 usable independent source; remains unvalidated."
     }
   }
 ]

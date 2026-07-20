@@ -43,4 +43,4 @@ No site-specific marine life information confirmed. The previously listed marine
 - Bocas del Toro dive operators: contact local operators to confirm whether "Wreck Rock" is a locally used site name
 
 ---
-*Description based on site coordinates only. One aggregated reference found via labugapanama.com describing an offshore rock formation at this location (0–20m, weather-dependent access), but no active dive operator confirms this site by name. Last updated 2026-06-25.*
+*Description based on site coordinates only. One aggregated reference found via labugapanama.com describing an offshore rock formation at this location (0–20m, weather-dependent access), but no active dive operator confirms this site by name. 2026-07-19 deep-QA re-audit: several other genuinely distinct named wrecks exist in Bocas del Toro (Mystic Wind trimaran at Buoyline, sunk 2015; Godewind sailboat, 18m; a "Mayday" plane/shipwreck off Bocas Dive Center's jetty), but none matches this entry's name, coordinates, or depth closely enough to justify a rename without guessing. Still unresolved. Last updated 2026-07-19.*

@@ -13,51 +13,52 @@ addedBy: jbunderwater_ai
 
 # Yellow Hut (unmarked site)
 
-*An unmarked "dive like a local" site on the far southern Bonaire coast — named for a yellow hut landmark near the entry point, not on the official BNMP marker system.*
+*An unmarked "dive like a local" site on Bonaire's southern EEG Boulevard coast — a rocky-entry reef with healthy, low-traffic coral, best worked in the 6–15 metre range.*
 
 ## Overview
 
-Yellow Hut is an unmarked dive site on Bonaire's southern west coast, between Sweet Dreams and the Chogogo area near EEG Boulevard. The site is named for a yellow hut (or painted structure) that serves as a landmark for the shore entry point. It does not appear in the official BNMP numbered-marker system or on the standard tourist dive-site maps. Known as a "dive like a local" site, it is used by experienced locals and visitors who know the southern coast road access points. The intermediate difficulty reflects the exposed southwest location.
+Yellow Hut is an unmarked dive site on Bonaire's southern west coast, on EEG Boulevard between Sweet Dreams and Chogogo. It does not appear in the official BNMP numbered-marker system or on standard tourist dive-site maps, but Divers-Guide.com carries a dedicated, site-specific listing: entry is over loose rocks (sometimes with firm surf), the site is rated easy/all-levels (beginners under supervision), and the reef is described as "beautiful, healthy and almost untouched coral." 4wheeldiving.com independently lists Yellow Hut among the named unmarked sites on its "Dive Like a Local" tour, alongside Hidden Beach and Soft Coral Garden, confirming it as a real, locally-known site rather than an OSM artifact.
 
 ## Site Information
 
-- **Location**: Far southern Bonaire, southwest coast
+- **Location**: Southern Bonaire, EEG Boulevard, between Sweet Dreams and Chogogo
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–25 metres
+- **Typical Visibility**: Around 20 metres (15–30 m range reported)
 - **Current**: Light to moderate
 - **Best Time**: Morning
 
 ## Marine Life
 
-Typical southern Bonaire reef species. No independent site-specific confirmed species lists available.
+Divers-Guide.com reports turtles, rays, moray eels, and parrotfish as common species at this specific site. No further site-specific marine-life detail was found; treat other species as regional rather than confirmed here.
 
 ## Dive Profile
 
-Shore entry to a fringing reef slope to 25 metres. Character similar to other southern coast sites.
+Shore entry over loose rock. Divers-Guide.com recommends the route heading south, staying in the 6–15 metre band, which holds most of the reef's interest. Maximum depth reaches 25 metres.
 
 ## Entry and Exit
 
-Shore entry. The yellow hut near EEG Boulevard is the reference landmark. Exit at the same point.
+Entry is over loose rocks and can have firm surf at times; the access road can become muddy after rain. Exit at the same point.
 
 ## Tips
 
-- Use the yellow hut landmark to locate the entry
-- Combine with nearby official sites for a southern dive day
+- Best route is south from the entry, in the 6–15 metre range
+- The access road can be muddy after rain — check conditions before driving in
+- A STINAPA Nature Fee permit is required
 
 ## Safety
 
-Southwest exposure. Intermediate conditions. Carry an SMB.
+Southwest exposure with occasional firm surf at the rocky entry. Carry an SMB and assess surf conditions from shore before entering.
 
 ## Photography
 
-Quiet southern coast reef with low traffic.
+The "almost untouched" coral reported by Divers-Guide.com and the low dive traffic make this a promising, uncrowded reef subject.
 
 ## Nearby Sites
 
 Sweet Dreams is nearby. Hidden Beach and Soft Coral Garden are adjacent unmarked sites. Atlantis and Vista Blue are the nearest official sites to the north.
 
 ---
-*Unmarked "dive like a local" site on the southern west coast between Sweet Dreams and Chogogo (off EEG Boulevard); not on the official BNMP yellow-stone marker system. Named for a yellow structure at the entry point. Site details from [Divers-Guide – Yellow Hut](https://www.divers-guide.com/en/yellow-hut). Last updated 2026-05-24.*
+*Sources: [Divers-Guide – Yellow Hut](https://www.divers-guide.com/en/yellow-hut), [4 Wheel Diving – Dive Like a Local](https://4wheeldiving.com/tours/dive-like-a-local/). Only 2 independent sources found (not the 3 required for full validation) — site remains flagged as unvalidated in the underlying data. Last updated 2026-07-19.*

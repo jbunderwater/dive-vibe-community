@@ -12,10 +12,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
-    "validation_source": "environment.bm,scubadiverlife.com,divemagazine.com,divebermuda.com,bermuda-attractions.com"
+    "validation_source": "bermuda-attractions.com,environment.bm,divebermuda.com,scubadiverlife.com,divemagazine.com"
   },
   {
     "name": "Constellation",
@@ -30,10 +30,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
-    "validation_source": "scubadiverlife.com,divemagazine.com,bermudascubasomerset.com,divebermuda.com,bermuda-attractions.com"
+    "validation_source": "environment.bm,bermuda100.ucsd.edu,bermuda-attractions.com,thebermudian.com,divebermuda.com"
   },
   {
     "name": "Cristobal Colon",
@@ -48,10 +48,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
-    "validation_source": "environment.bm,divemagazine.com,bermuda-attractions.com,bermudascubagrottobay.com,divebermuda.com"
+    "validation_source": "environment.bm,bermuda-attractions.com,divemagazine.com,bermudascubagrottobay.com,divebermuda.com"
   },
   {
     "name": "Hermes",
@@ -66,10 +66,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
-    "validation_source": "bermuda100.ucsd.edu,bermuda-attractions.com,divemagazine.com,bermudascubasomerset.com,divebermuda.com"
+    "validation_source": "bermuda100.ucsd.edu,divebermuda.com,scubadiving.com,bermuda-attractions.com,divemagazine.com"
   },
   {
     "name": "King George",
@@ -84,7 +84,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
     "validation_source": "bermudascubagrottobay.com,divemagazine.com,divebuddy.com,divebermuda.com,bermudascubasomerset.com"
@@ -102,10 +102,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
-    "validation_source": "bermudascubagrottobay.com,bermudascubasomerset.com,divebermuda.com,bermuda-attractions.com,divemagazine.com"
+    "validation_source": "bermuda100.ucsd.edu,bermudascubagrottobay.com,bermuda-attractions.com,divemagazine.com,gotobermuda.com"
   },
   {
     "name": "North Carolina",
@@ -120,7 +120,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
     "validation_source": "bermuda100.ucsd.edu,divemagazine.com,bermuda-attractions.com,divebermuda.com,cambridge.org"
@@ -138,7 +138,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
     "validation_source": "environment.bm,bermudascubagrottobay.com,bermuda-attractions.com,divemagazine.com,divebermuda.com"
@@ -156,7 +156,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
     "validation_source": "bermuda100.ucsd.edu,environment.bm,bermudascubasomerset.com,divemagazine.com,divebermuda.com"
@@ -174,10 +174,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
-    "validation_source": "environment.bm,bermuda100.ucsd.edu,bermudascubasomerset.com,scubadiverlife.com,divebermuda.com"
+    "validation_source": "environment.bm,bermuda100.ucsd.edu,archive.archaeology.org,bermudascubasomerset.com,divebermuda.com"
   },
   {
     "name": "Minnie Breslauer",
@@ -192,7 +192,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
     "validation_source": "environment.bm,bermuda-attractions.com,bermudascubasomerset.com,divemagazine.com,divebermuda.com"
@@ -210,7 +210,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
     "validation_source": "bermuda-attractions.com,bermudascubasomerset.com,divebermuda.com,bermuda100.ucsd.edu,divemagazine.com"
@@ -228,10 +228,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
-    "validation_source": "bermuda-attractions.com,scubadiverlife.com,divebermuda.com,bermudascubasomerset.com,gotobermuda.com"
+    "validation_source": "bermuda-attractions.com,bermuda100.ucsd.edu,padi.com,divebermuda.com,bermudascubasomerset.com"
   },
   {
     "name": "Cathedral Bermuda",
@@ -246,10 +246,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
-    "validation_source": "bermudascubagrottobay.com,bermuda-attractions.com,divebermuda.com,padi.com,gotobermuda.com"
+    "validation_source": "bermuda-attractions.com,bermudascubagrottobay.com,padi.com,gotobermuda.com,bermuda100.ucsd.edu"
   },
   {
     "name": "Tarpon Hole",
@@ -264,9 +264,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-18"
+      "last_qa_date": "2026-07-19"
     },
     "validated": true,
-    "validation_source": "bermuda100.ucsd.edu,bermudascubasomerset.com,scubadiverlife.com,gotobermuda.com,bermuda-attractions.com"
+    "validation_source": "bermuda100.ucsd.edu,gotobermuda.com,bermudascubasomerset.com,bermuda-attractions.com,scubadiverlife.com"
   }
 ]

@@ -33,7 +33,7 @@ The Lartington was a 245-foot early vintage steel freighter built in 1875 by Sho
 
 ## Marine Life
 
-Shallow Bermuda reef wrecks are productive fish habitats. The Lartington's scattered structural remains support schools of grunt, snapper, and parrotfish across a wide debris field. Spiny lobster are common in the spaces between hull plates. The intact bow section provides a prominent piece of hard structure that attracts larger fish, including grouper and barracuda.
+No source-specific marine life reports were found for the Lartington during this review. Sources describe the ship's history and structural remains in detail but do not report specific fauna at this site. Macro subjects on the coral-encrusted hull plates are documented photographically, but individual species are not identified in the sources consulted.
 
 ## Dive Profile
 
@@ -47,7 +47,7 @@ Boat dive from Bermuda operators. The site is accessible from multiple locations
 
 - The bow rising nearly to the surface is visible on very calm days — look for the shadow from the boat
 - The broken propeller at the stern is the most photogenic single element of this wreck
-- A torch reveals resident lobster in the spaces between collapsed hull sections
+- A torch helps illuminate the spaces between collapsed hull sections
 - An early morning dive before the wind builds provides the calmest surface and best light
 - The site's scattered nature rewards slow, systematic exploration — allow time for the full circuit
 
@@ -60,4 +60,4 @@ The shallow depth makes this one of Bermuda's most accessible wrecks. Primary co
 The Lartington offers distinctive photographic material: an upturned bow almost breaking the surface, recognizable boilers amid scattered debris, and a dramatic broken propeller. Wide-angle natural light photography at 10 meters captures the full scene. Macro shots on the coral-encrusted surfaces reveal the invertebrate community that has colonized the wreck over 140 years.
 
 ---
-*Sources: [Bermuda Attractions - Lartington](https://www.bermuda-attractions.com/bermuda_000051.htm), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda 100 Project - Lartington](http://bermuda100.ucsd.edu/lartington/index.php), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda). Last updated 2026-05-18.*
+*Sources: [Bermuda Attractions - Lartington](https://www.bermuda-attractions.com/bermuda_000051.htm), [Bermuda Dive Bermuda at Somerset](https://www.bermudascubasomerset.com/bermuda-dive-sites), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda 100 Project - Lartington](http://bermuda100.ucsd.edu/lartington/index.php), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda). Re-audited 2026-07-19 (previously validated 2026-05-18) — history reconfirmed (245ft, 1875, 4,000 bales of cotton); removed unconfirmed marine life claims.*

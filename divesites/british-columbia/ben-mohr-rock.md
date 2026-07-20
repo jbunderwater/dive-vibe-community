@@ -33,7 +33,8 @@ Ben Mohr Rock is a submerged rocky outcrop in the central Gulf Islands, sitting 
 
 ## Marine Life
 
-Ben Mohr Rock is well regarded among Gulf Islands divers for consistent giant Pacific octopus sightings. The boulder terrain creates ideal den habitat, and multiple GPO have been documented living on the rock simultaneously. Wolf eels have been reported in the deeper crevices. Lingcod and copper rockfish are common on the reef face, and kelp greenling dart through the kelp fronds in the shallower zone. Plumose anemones, encrusting sponges, and nudibranchs cover the rock surfaces. Sea stars including sunflower, bat, and blood stars are active on the substrate.
+No site-specific marine life reports were found for Ben Mohr Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Current in the central Gulf Islands passages can be deceptive — it may appear 
 Ben Mohr Rock is an excellent GPO photography site. The boulders provide natural framing for wide-angle shots. Approach carefully and give the octopus space to display natural behaviour rather than retreating. Nudibranchs on the rock face are excellent macro subjects. A torch is essential for illuminating crevice life.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Ben Mohr Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

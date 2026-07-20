@@ -33,7 +33,8 @@ Sitting in the sheltered waters between Salt Spring Island and the Saanich Penin
 
 ## Marine Life
 
-The reef supports a classic southern Gulf Islands ecosystem. Giant Pacific octopus shelter in rocky dens and are regularly spotted by attentive divers. Lingcod guard territories on the reef face, often sitting still enough to approach closely. Kelp greenling, black rockfish, and copper rockfish populate the kelp canopy. Large purple and red sea urchins, sea stars, and colourful nudibranchs are abundant throughout the shallower sections. Harbour seals are common visitors.
+No site-specific marine life reports were found for Fulford Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Strong tidal currents are the primary hazard. Even at predicted slack, residual 
 The southern Gulf Islands palette is rich with colour. Nudibranchs, sea stars, and encrusting sponges offer excellent macro subjects. Lingcod resting on the reef make dramatic wide-angle shots. GPO encounters in the lower reef reward patient photographers — use a wide-angle lens and approach from a low angle to avoid disturbing the animal.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Fulford Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

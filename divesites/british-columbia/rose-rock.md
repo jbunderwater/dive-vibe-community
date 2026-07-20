@@ -32,7 +32,8 @@ Rose Rock sits in the southern Gulf Islands region, a cluster of rocky outcroppi
 
 ## Marine Life
 
-The rocky substrate of Rose Rock supports abundant orange and white plumose anemones blanketing the shallower ledges. Giant Pacific octopus (GPO) hide in crevices at mid-depth, while wolf eels are regularly encountered in den-like cavities. Lingcod and copper rockfish occupy rocky perches, and schools of black rockfish gather in the water column. Harbour seals are commonly seen patrolling the site. Nudibranchs — including alabaster nudibranchs and opalescent nudibranchs — appear throughout the dive on encrusted rocky surfaces.
+No site-specific marine life reports were found for Rose Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Cold water (7–12°C) requires appropriate thermal protection — most BC diver
 Wide-angle shots work well for the plumose anemone fields and passing rockfish schools. Macro opportunities are excellent — nudibranchs, encrusting sponges, and small crustaceans offer rich close-up subjects. Natural light penetrates well to 10 metres during summer.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Rose Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

@@ -32,7 +32,8 @@ Sky Pilot Rock lies in the waters of Desolation Sound and the Discovery Islands 
 
 ## Marine Life
 
-The Discovery Islands area is famous for its outstanding marine diversity. Sky Pilot Rock likely hosts resident lingcod and multiple rockfish species on the rocky structure. Steller sea lions from nearby haul-outs are common. Giant Pacific octopus occupy crevices. The Discovery Islands are one of the best areas in BC for encountering Pacific white-sided dolphins at the surface. Humpback whales feed in the region during summer and autumn. Underwater, plumose anemone colonies and cloud sponge formations characterise the deeper rocky surfaces in this area.
+No site-specific marine life reports were found for Sky Pilot Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Remote location means extended emergency response times. Each diver should be se
 Dolphin and whale surface photography on transits is a major bonus. Underwater wide-angle in kelp forests and around the pinnacle structure captures the grandeur of BC's northern inside passage. Cloud sponge formations if present are iconic subjects.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Sky Pilot Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

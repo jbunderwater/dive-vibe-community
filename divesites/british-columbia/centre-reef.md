@@ -32,7 +32,8 @@ Centre Reef sits in the central Strait of Georgia near Nanaimo, in the productiv
 
 ## Marine Life
 
-Giant Pacific octopus are regularly encountered at Centre Reef, drawn to the rocky habitat for shelter and hunting grounds. Lingcod occupy prominent positions on the reef structure. Copper and quillback rockfish are the dominant fish, with black rockfish often schooling in the water column above. Plumose anemones coat the reef faces with white and orange columns. Encrusting sponges and bryozoans provide habitat for numerous nudibranch species. Puget Sound king crab are found along the reef base, and harbour seals visit frequently.
+No site-specific marine life reports were found for Centre Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Centre Reef's invertebrate growth provides excellent photographic subjects. Wide
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Centre Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

@@ -34,7 +34,7 @@ Cypress Reef is a submerged rocky reef in the southern Strait of Georgia, south 
 
 ## Marine Life
 
-The cold rocky reef supports the typical southern Strait of Georgia community: plumose anemones and encrusting sponges on hard surfaces, lingcod and various rockfish (copper, quillback, China) holding territory throughout the structure. Giant Pacific octopus den in crevices in the deeper sections. Kelp greenlings are present throughout. Harbour seals patrol the site.
+No site-specific marine life reports were found for Cypress Reef in this or the prior research pass. The southern Strait of Georgia broadly supports rockfish, lingcod, plumose anemones, giant Pacific octopus, and harbour seals, but none of these have been confirmed as observed at this specific reef — treat this as regional context only, not a site report.
 
 ## Dive Profile
 
@@ -49,4 +49,4 @@ Boat access from Sidney, Anacortes, or local Gulf Island launch facilities. GPS 
 Advanced depth of 28 metres requires careful NDL management. Cold water (8–12°C) demands drysuit protection. Tidal currents in the southern Strait of Georgia can be strong — time the dive to slack. Always surface with a deployed SMB; boating traffic in the Strait is active. Gas management: turn at one-third of starting pressure.
 
 ---
-*Description based on OSM geographic data (natural:reef classification) and regional diving characteristics. No site-specific dive sources found for this named reef. Last updated 2026-05-18.*
+*Description based on OSM geographic data (natural:reef classification) and regional diving characteristics. No site-specific dive sources found for this named reef despite a fresh search pass. Last updated 2026-07-19.*

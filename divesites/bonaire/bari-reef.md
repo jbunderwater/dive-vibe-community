@@ -62,4 +62,4 @@ Macro photography excels here given the species density. Wide-angle works for ta
 Buddy's Reef, La Machaca, and Cliff are within walking or short driving distance along the same coast. Something Special — the muck/critter dive — is also nearby.
 
 ---
-*Sources: [InfoBonaire – Bari Reef / Sand Dollar](https://infobonaire.com/bari-reef-sand-dollar-bonaire/), [Scuba Diving Magazine – Bari Reef](https://www.scubadiving.com/dive-bari-reef), [Bonaire Island – Bari Reef](https://bonaireisland.com/experiences/diving/sites/bari-reef/), [REEF.org Volunteer Fish Survey](https://www.reef.org/). Last updated 2026-05-16.*
+*Sources: [InfoBonaire – Bari Reef / Sand Dollar](https://infobonaire.com/bari-reef-sand-dollar-bonaire/), [Scuba Diving Magazine – Bari Reef](https://www.scubadiving.com/dive-bari-reef), [Bonaire Island – Bari Reef](https://bonaireisland.com/experiences/diving/sites/bari-reef/), [REEF.org Volunteer Fish Survey](https://www.reef.org/). Re-audited 2026-07-19: sources re-checked and content confirmed consistent; no changes needed. Last updated 2026-07-19.*

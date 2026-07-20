@@ -32,7 +32,8 @@ Shirt Tail Reef lies in the complex of reefs and shoals east of the Gulf Islands
 
 ## Marine Life
 
-The Active Pass region is famous among BC divers for its lingcod populations, and Shirt Tail Reef reflects this reputation with resident large lingcod on the rocky structure. Copper rockfish, quillback rockfish, and kelp greenling are numerous. Dense plumose anemone colonies grow on exposed faces. Giant Pacific octopus maintain dens in the deeper boulder zones. Nudibranchs are diverse and prolific — this part of the Gulf Islands is a well-documented nudibranch hotspot. Harbour seals are constant companions.
+No site-specific marine life reports were found for Shirt Tail Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ The Active Pass approaches see very heavy commercial and recreational vessel tra
 Nudibranchs are the standout macro subjects in this area — bring your best macro setup. Lingcod portraits are excellent — the large resident animals sit boldly. Wide-angle anemone wall images on the current-swept sides of the reef are highly rewarding.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Shirt Tail Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

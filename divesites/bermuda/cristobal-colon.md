@@ -33,7 +33,7 @@ The Cristóbal Colón is the largest known shipwreck in Bermuda waters. This 499
 
 ## Marine Life
 
-The enormous debris field hosts a rich fish community including large black grouper patrolling the deeper sections, schools of barracuda, snapper, and reef fish navigating between the scattered structural elements. Engines, propellers, and prop shafts provide hard substrate for coral and sponge colonization. Resident green turtles are frequently reported at this site.
+Large groupers are a defining feature of this wreck, and the debris field is described by local sources as a haven for a wide variety of colorful reef fish moving between the scattered structural elements. Engines, propellers, and prop shafts provide hard substrate for coral and sponge colonization. No source-specific reports of turtles or other megafauna at this particular site were found during this review; earlier text naming "resident green turtles" has been removed as unconfirmed.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The depth range (5–18 meters) is accessible but the scale and complexity of th
 The Cristóbal Colón is one of Bermuda's premier photography wrecks. The combination of massive structural debris, abundant marine life, and extraordinary visibility creates exceptional wide-angle compositions. Natural light at the shallower sections is excellent.
 
 ---
-*Sources: [Bermuda Department of Environment and Natural Resources](https://environment.bm/cristobal-colon), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Bermuda Attractions - Cristobal Colon](https://www.bermuda-attractions.com/bermuda_000046.htm), [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Last updated 2026-05-18.*
+*Sources: [Bermuda Department of Environment and Natural Resources](https://environment.bm/cristobal-colon), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Bermuda Attractions - Cristobal Colon](https://www.bermuda-attractions.com/bermuda_000046.htm), [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Re-audited 2026-07-19 (previously validated 2026-05-18) — trimmed unconfirmed turtle claim; the US Air Force / RAF bombing-practice conflict remains unresolved across sources and is noted above rather than guessed.*

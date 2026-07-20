@@ -33,7 +33,8 @@ Hornby Rock lies within the productive outer waters of Barkley Sound, where cold
 
 ## Marine Life
 
-Hornby Rock is productive for large species typical of BC's outer coast. Giant lingcod — some exceeding 1 metre — are a highlight, guarding reef territories and resting openly on rock faces. Giant Pacific octopus are encountered frequently, sometimes in daylight in open positions. Quillback rockfish, copper rockfish, and tiger rockfish occupy the deeper reef sections. The rock surface is thickly covered with Gooseneck barnacles, orange and purple encrusting sponges, and colonial tunicates. Steller sea lions from Barkley Sound colonies may visit, creating thrilling pelagic encounters.
+No site-specific marine life reports were found for Hornby Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Remote location, Pacific swell, and tidal currents combine to make dive planning
 Barkley Sound's clear water and dramatic marine life make Hornby Rock a prime photo destination. Lingcod resting on sponge-carpeted rock create powerful wide-angle compositions. GPO in the open are a rare and rewarding subject — natural light plus a single strobe brings out the texture and colour of the skin. Sea lion encounters, if they occur, suit high-speed burst shooting with a wide-angle lens.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Hornby Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

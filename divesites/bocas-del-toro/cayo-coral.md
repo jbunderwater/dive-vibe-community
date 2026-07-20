@@ -17,7 +17,7 @@ A shallow snorkel and dive reef directly surrounding one of Bocas del Toro's cor
 
 ## Overview
 
-Cayo Coral is a small cay in the southern Bocas del Toro archipelago surrounded by a shallow reef accessible directly from the beach. The cay is in a similar location to Crawl Cay / Coral Cay, and some local naming overlaps between these sites. The surrounding reef features vibrant hard coral and sea sponges at depths of 1–8 meters. The water is warm and clear in good conditions, making this an excellent beginner dive and snorkel site.
+Cayo Coral is a small cay in the southern Bocas del Toro archipelago surrounded by a shallow reef accessible directly from the beach. **Near-duplicate note:** this entry's coordinates sit roughly 46 meters from the separate "Crawl Cay" entry in this database — very likely the same islet, split across two curation passes. On the 2026-07-19 re-audit, tourismpanama.com's own "Cayo Coral" listing (60ft/18m max, caves/tunnels, giant jellyfish, sponges, barracudas) was found to match the deeper "Crawl Cay" entry's profile far better than this shallow site; those specific numbers are not used here and are attributed to Crawl Cay instead. The shallow ~8m depth for this entry rests on snorkeling-report.com and bocas-del-toro.org. The surrounding reef features vibrant hard coral and sea sponges at depths of 1–8 meters. The water is warm and clear in good conditions, making this an excellent beginner dive and snorkel site. Treat the two database entries as possibly duplicative pending a manual review.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ The shallow depth delivers excellent ambient light. Coral formations and sea spo
 - Local dive operators: offer snorkel and beginner dive trips to this cay
 
 ---
-*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Tourism Panama - Bocas del Toro Dive Sites](https://www.tourismpanama.com/blog/post/bocas-del-toro-top-scuba-diving-and-snorkeling-sites/). Last updated 2026-06-25.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Tourism Panama - Bocas del Toro Dive Sites](https://www.tourismpanama.com/blog/post/bocas-del-toro-top-scuba-diving-and-snorkeling-sites/) (name/existence only — depth figures reattributed to Crawl Cay, see note above). Last updated 2026-07-19.*

@@ -33,7 +33,7 @@ The North Carolina was a 205-foot (62.5 m), 533-ton iron-hulled three-masted bar
 
 ## Marine Life
 
-The North Carolina's intact structural features provide excellent reef habitat. The bowsprit and rigging attachment points carry dense coral and sponge encrustation. Schools of hogfish and snapper are regularly associated with this wreck. The deck area with its preserved deadeyes hosts resident angelfish and parrotfish. Spiny lobster are common in sheltered spaces beneath the hull plates.
+The bowsprit and rigging attachment points carry dense coral and sponge encrustation. No source-specific marine life reports were found for this particular site during this review; the destination's typical reef and wreck fauna is present, but specific species sightings here are not independently confirmed.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The 14-meter depth is appropriate for Intermediate divers. Moderate currents can
 The North Carolina is considered one of Bermuda's most photogenic wrecks precisely because of the intact bowsprit and deadeye rows. Wide-angle natural light photography at 14 meters captures the sailing ship atmosphere powerfully. The rows of deadeyes against the sandy bottom are a detail that rewards close-focus treatment. Bermuda's excellent visibility makes this site exceptional for underwater photography.
 
 ---
-*Sources: [Bermuda 100 Project - North Carolina](https://bermuda100.ucsd.edu/north-carolina/), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Bermuda Attractions - North Carolina](https://www.bermuda-attractions.com/bermuda_00004e.htm), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Cambridge Core - Wreck of the Barque North Carolina](https://www.cambridge.org/core/journals/american-antiquity/article/abs/wreck-of-the-barque-north-carolina-bermuda-1880-an-underwater-crime-scene/089AB339F43EB42B0E275BC5515F49CC). Last updated 2026-05-18.*
+*Sources: [Bermuda 100 Project - North Carolina](https://bermuda100.ucsd.edu/north-carolina/), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Bermuda Attractions - North Carolina](https://www.bermuda-attractions.com/bermuda_00004e.htm), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Cambridge Core - Wreck of the Barque North Carolina](https://www.cambridge.org/core/journals/american-antiquity/article/abs/wreck-of-the-barque-north-carolina-bermuda-1880-an-underwater-crime-scene/089AB339F43EB42B0E275BC5515F49CC). Re-audited 2026-07-19 (previously validated 2026-05-18) — history reconfirmed across sources; removed unconfirmed marine life claims (no site-specific source found).*

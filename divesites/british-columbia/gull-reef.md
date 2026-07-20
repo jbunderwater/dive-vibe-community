@@ -33,7 +33,8 @@ Gull Reef is a productive intermediate reef dive in the heart of the Gulf Island
 
 ## Marine Life
 
-The reef supports a dense community of cold-water species characteristic of the southern Gulf Islands. Giant Pacific octopus are common in rocky dens along the reef. Lingcod claim territories on the rock faces, often remaining still as divers approach. Black rockfish and kelp greenling populate the bull kelp canopy at 5-8 metres. Sea stars, nudibranchs, and encrusting sponges in orange, white, and purple cover the lower reef surfaces. Harbour seals are regular visitors, attracted to the abundant fish life.
+No site-specific marine life reports were found for Gull Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Strong tidal currents in the Gulf Islands passages are the primary safety concer
 Gull Reef offers a blend of macro and wide-angle opportunities. Nudibranchs and small crustaceans provide excellent macro subjects in the shallower kelp zone. Lingcod and rockfish portraits work well with a wide-angle or fisheye lens. GPO encounters are a highlight — take your time positioning for the best angle and use a single strobe to avoid harsh shadows on the animal's textured skin.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Gull Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

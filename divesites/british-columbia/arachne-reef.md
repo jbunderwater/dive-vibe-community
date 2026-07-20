@@ -33,7 +33,8 @@ Arachne Reef lies in the sheltered waters between Sidney Island and the D'Arcy I
 
 ## Marine Life
 
-Arachne Reef hosts a representative cross-section of southern BC reef life. Lingcod claim territorial spots on the reef crest and can be approached closely by patient divers. Copper rockfish and kelp greenling cruise the rock edges, while giant Pacific octopus shelter in boulder crevices deeper on the reef. The rock faces carry colonies of white plumose anemones and encrusting sponges. Nudibranch diversity is high — look for alabaster, sea lemon, and various aeolid species. Harbour seals occasionally hunt the reef perimeter.
+No site-specific marine life reports were found for Arachne Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Tidal currents through the southern Gulf Islands can run strong, especially on s
 Arachne Reef suits both macro and wide-angle shooting. The kelp canopy provides dramatic wide-angle framing, while the rock faces yield nudibranchs and cryptic invertebrates for macro work. Ambient light is strongest June through August. A video light or focus light is useful in the deeper boulder sections.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Arachne Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

@@ -32,7 +32,8 @@ Bentley Rock sits in Discovery Passage near Campbell River, one of British Colum
 
 ## Marine Life
 
-Bentley Rock hosts the full spectrum of cold Pacific Northwest species. Giant Pacific octopus shelter in crevices along the rock's base. Wolf eels occupy den sites in the broken rock structure. Lingcod and copper rockfish hold position on current-swept ledges. Plumose anemones — both white and orange — encrust every hard surface. Puget Sound king crab and sunflower sea stars are common on the bottom. Schools of black rockfish and kelp greenling patrol the mid-water column. Harbour seals frequently investigate divers at this site.
+No site-specific marine life reports were found for Bentley Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -62,4 +63,4 @@ The concentration of invertebrate life on Bentley Rock makes it excellent for wi
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Bentley Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

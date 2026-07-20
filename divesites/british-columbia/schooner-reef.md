@@ -32,7 +32,8 @@ Schooner Reef lies in the northern Strait of Georgia, a highly productive marine
 
 ## Marine Life
 
-The productive waters of the northern Strait of Georgia deliver excellent fish diversity to Schooner Reef. Lingcod and multiple rockfish species (black, copper, quillback, canary) are resident. Dense aggregations of cloud sponges are possible in deeper sections of the reef. Harbour seals and occasional Steller sea lions visit from Vancouver Island haul-outs. Pacific spiny dogfish are common. Plumose anemones and encrusting sponges cover the rock surfaces. Humpback whale activity in the area is a surface highlight when transiting to the site.
+No site-specific marine life reports were found for Schooner Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Open-Strait location means exposure to wind and waves that can develop quickly. 
 The diverse rockfish community and possible cloud sponge formations create excellent wide-angle and portrait opportunities. Surface whale activity during transits can yield topside photography. Macro subjects are plentiful on encrusted reef surfaces.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Schooner Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

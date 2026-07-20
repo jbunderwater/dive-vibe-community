@@ -33,7 +33,7 @@ The Montana was a 236-foot (72 m) paddlewheel steamer built in Glasgow, Scotland
 
 ## Marine Life
 
-The Montana wreck supports a year-round population of large gray snappers around the boilers and paddlewheel frames. Parrotfish, angelfish, and blue tangs occupy the coral heads surrounding the wreck. The shallow sandy bottom and surrounding reef attract diverse reef fish typical of Bermuda's outer platform.
+The Montana hosts a resident school of large gray snappers around the boilers and paddlewheel frames. A school of barracuda gathers in the sand hole beside the paddlewheels, with counts reported as high as 500 individuals during spring and autumn. The heavily deteriorated structure is thickly encrusted with hard and soft corals. No source-confirmed reports of other specific reef fish species were found for this site during this review.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ At 9 meters, depth hazards are minimal. The primary concerns are the offshore lo
 The paddlewheel frames and twin boilers are iconic photographic subjects that illustrate 19th-century steam paddle technology. Wide-angle natural light photography at 9 meters is highly effective. A split-level shot through the surface in calm conditions captures both the reef environment and the boat above.
 
 ---
-*Sources: [Bermuda Department of Environment and Natural Resources](https://environment.bm/montana), [Scuba Diver Life - Montana and Constellation](https://scubadiverlife.com/dive-site-bermuda-shipwrecks-montana-constellation/), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-05-18.*
+*Sources: [Bermuda Department of Environment and Natural Resources](https://environment.bm/montana), [Bermuda Attractions - The Montana](https://www.bermuda-attractions.com/bermuda_00004b.htm), [Scuba Diver Life - Montana and Constellation](https://scubadiverlife.com/dive-site-bermuda-shipwrecks-montana-constellation/), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Re-audited 2026-07-19 (previously validated 2026-05-18).*

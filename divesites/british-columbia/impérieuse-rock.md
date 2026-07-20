@@ -33,7 +33,8 @@ Impérieuse Rock sits in the central Strait of Georgia, an area known for strong
 
 ## Marine Life
 
-Impérieuse Rock supports a dense community of cold-water Pacific species. Giant Pacific octopus are a reliable sighting, occupying rocky dens on the reef structure. Lingcod are present throughout, with larger individuals claiming prime territories on the reef faces. Black and copper rockfish populate the kelp canopy. Sea stars of multiple species, large purple and red sea urchins, and encrusting sponges dominate the rocky substrate. Harbour seals and, occasionally, Steller sea lions pass through the area.
+No site-specific marine life reports were found for Impérieuse Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Strong tidal currents in the Strait of Georgia and significant vessel traffic ar
 Impérieuse Rock offers productive wide-angle and macro photography in calm conditions. GPO portraits and lingcod on the reef face are the standout wide-angle subjects. The encrusting invertebrate community provides colour and texture for macro work — encrusting sponges, nudibranchs, and small crustaceans are found throughout. Natural light underwater can be striking on bright winter days when visibility peaks.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Impérieuse Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

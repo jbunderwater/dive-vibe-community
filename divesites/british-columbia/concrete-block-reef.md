@@ -32,7 +32,8 @@ Concrete Block Reef is an artificial reef in Howe Sound north of Squamish, creat
 
 ## Marine Life
 
-The concrete structure supports a thriving community of filter feeders. Plumose anemones colonise every available concrete surface in dense white carpets. Encrusting sponges in multiple colours coat the blocks. Giant Pacific octopus have adopted the concrete crevices as dens and are regularly encountered. Lingcod and copper rockfish are the dominant fish species. Painted greenlings and kelp greenlings are abundant throughout. Wolf eels have been documented at the site. In winter, large schools of herring use Howe Sound — their presence brings lingcod and rockfish into active hunting behaviour.
+No site-specific marine life reports were found for Concrete Block Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Concrete block artificial reefs offer unique visual opportunities — the geomet
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Concrete Block Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

@@ -61,4 +61,4 @@ The sponge-covered slope and pelagic visitors make for productive photography. T
 Red Slave is a short drive west along the same southern coastal track. Vista Blue and Sweet Dreams are also in the area.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide](https://www.divers-guide.com/en/bonaire), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [Divers-Guide](https://www.divers-guide.com/en/bonaire), [Bonaireisland.com](https://bonaireisland.com/experiences/diving/sites/). Re-audited 2026-07-19: 1837 lighthouse construction date reconfirmed via independent sources; no other changes. Last updated 2026-07-19.*

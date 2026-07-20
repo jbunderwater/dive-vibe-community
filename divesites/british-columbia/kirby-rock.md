@@ -32,7 +32,8 @@ Kirby Rock is located in the outer Barkley Sound area on Vancouver Island's west
 
 ## Marine Life
 
-Barkley Sound's ocean influence makes sites like Kirby Rock exceptionally productive. Giant Pacific octopus are large and numerous. Lingcod, cabezon, and tiger rockfish are well-represented. Plumose anemones and coloured encrusting sponges cover exposed rock faces in dense growth. Sea pens inhabit sandy areas around the rock base. Steller sea lions are common in Barkley Sound and may be encountered underwater. Grey whales feed in adjacent shallows during spring. Cloud sponge formations occur in deeper areas of Barkley Sound.
+No site-specific marine life reports were found for Kirby Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ West coast BC diving provides exceptional wide-angle photography opportunities â
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Kirby Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

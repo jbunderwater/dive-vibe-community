@@ -32,7 +32,8 @@ Lawson Reef sits in the southern Strait of Georgia near the US-Canada border, in
 
 ## Marine Life
 
-Lawson Reef hosts a productive border-area Salish Sea community. Giant Pacific octopus are found in rocky crevices. Lingcod are the primary predator fish. Copper and quillback rockfish are abundant. Plumose anemones and encrusting sponges colonise hard surfaces. Dungeness crab and rock crab forage on adjacent sandy substrate. Harbour seals are regular visitors. California sea lions are occasionally encountered in the border waters.
+No site-specific marine life reports were found for Lawson Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Wide-angle reef photography with encrusting invertebrates and rockfish is the pr
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Lawson Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

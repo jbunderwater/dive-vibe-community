@@ -62,4 +62,4 @@ Wide-angle works well across the sand-to-reef transition, particularly with rays
 Red Slave lies further south along the same coast near the red slave huts. Willemstoren Lighthouse marks the southern tip of the island. Sweet Dreams and the southern double-reef sites lie north along the same coastline.
 
 ---
-*Sources: [InfoBonaire – White Slave](https://infobonaire.com/white-slave/), [PADI – White Slave](https://www.padi.com/dive-site/bonaire/white-slave/), [Divers-Guide – White Slave](https://www.divers-guide.com/en/white-slave). Last updated 2026-05-16.*
+*Sources: [InfoBonaire – White Slave](https://infobonaire.com/white-slave/), [PADI – White Slave](https://www.padi.com/dive-site/bonaire/white-slave/), [Divers-Guide – White Slave](https://www.divers-guide.com/en/white-slave). Re-audited 2026-07-19: 1850 slave-hut construction date reconfirmed via independent regional-history sources; no other changes. Last updated 2026-07-19.*

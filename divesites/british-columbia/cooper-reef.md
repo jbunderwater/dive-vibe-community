@@ -32,7 +32,8 @@ Cooper Reef lies in the southern Gulf Islands in the Haro Strait area east of Vi
 
 ## Marine Life
 
-Cooper Reef supports the full range of Salish Sea cold-water species. Giant Pacific octopus are resident in crevices throughout the reef. Lingcod claim territories on prominent rock surfaces. Copper and quillback rockfish are the most visible fish species, with black rockfish schooling in mid-water. Plumose anemones carpet current-swept surfaces. Kelp greenlings and painted greenlings inhabit the shallow reef zones. Puget Sound king crab and Dungeness crab forage on sandy areas adjacent to the reef. Harbour seals are a near-constant presence.
+No site-specific marine life reports were found for Cooper Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Wide-angle reef photography with encrusting invertebrates in the foreground and 
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Cooper Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

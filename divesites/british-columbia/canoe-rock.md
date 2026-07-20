@@ -32,7 +32,8 @@ Canoe Rock is one of the better-known dive sites in the central Gulf Islands, ly
 
 ## Marine Life
 
-Canoe Rock is celebrated for its rich invertebrate communities. Plumose anemones blanket the current-facing rock surfaces in white and orange. Encrusting sponges in yellow, purple, and red add colour to the deeper sections. Giant Pacific octopus inhabit crevices throughout the rock. Wolf eels are occasionally encountered here, particularly in the rock's more sheltered aspects. Lingcod are present and can be territorial around their resting spots. Schools of black rockfish hover in the water column above the rock. Harbour seals frequently visit and will swim alongside divers.
+No site-specific marine life reports were found for Canoe Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Canoe Rock offers classic Pacific Northwest invertebrate photography. Wide-angle
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Canoe Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

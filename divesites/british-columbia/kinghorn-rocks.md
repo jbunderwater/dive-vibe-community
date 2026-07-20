@@ -32,7 +32,8 @@ Kinghorn Rocks lie in the northern Strait of Georgia near Desolation Sound, one 
 
 ## Marine Life
 
-The northern Strait of Georgia and Desolation Sound area is celebrated for its exceptional marine life. Giant Pacific octopus are large and frequent in rocky terrain. Lingcod reach impressive sizes in these less-fished waters. Plumose anemones in dense colonies cover current-facing surfaces. Wolf eels are present in permanent dens. Tiger and quillback rockfish dominate in deeper sections. Sea pens inhabit sandy adjacent areas. Steller sea lions patrol the area, and Pacific white-sided dolphins are regularly seen.
+No site-specific marine life reports were found for Kinghorn Rocks in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Less-visited northern Strait sites often deliver exceptional photography due to 
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Kinghorn Rocks in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

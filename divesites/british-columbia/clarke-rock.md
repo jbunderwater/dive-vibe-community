@@ -3,9 +3,9 @@ name: Clarke Rock
 lat: 49.225327
 lng: -123.9414614
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 21
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 6372876071
 addedBy: osm_import
@@ -13,52 +13,43 @@ addedBy: osm_import
 
 # Clarke Rock
 
-A submerged rock in the northern Strait of Georgia with productive cold-water reef diving.
+A boat-accessible pinnacle dive just off Nanaimo, popular as a second dive of the day after the HMCS Saskatchewan.
 
 ## Overview
 
-Clarke Rock sits in the northern Strait of Georgia in waters between Vancouver Island and Lasqueti Island, accessible from Courtenay/Comox or Powell River. This submerged feature rises from the strait floor into the photic zone, collecting encrusting life on its faces and attracting fish and invertebrates that rely on the structure. The northern Strait of Georgia is noted for excellent octopus populations and lingcod, and Clarke Rock is representative of the area's diving character. Water temperatures are 8–11°C and visibility averages 8–15 metres in season.
+Clarke Rock (locally sometimes spelled "Clark Rock") is a submerged pinnacle a short boat ride from the HMCS Saskatchewan wreck site off Nanaimo — a previous version of this page incorrectly placed it near Comox, roughly 100 km to the north; the coordinates on file (49.2253, -123.9415) are just off Nanoose/Nanaimo. The feature is essentially a large rocky pinnacle topped with a small lighthouse, partially surrounded by a steep boulder field. It is a well-known charter destination for Nanaimo-area dive operators.
 
 ## Site Information
 
-- **Location**: Northern Strait of Georgia, near Comox/Courtenay, British Columbia
+- **Location**: Off Nanaimo, British Columbia (near the HMCS Saskatchewan artificial reef)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 8–15 metres
-- **Current**: Moderate tidal currents
-- **Best Time**: Late summer and autumn
+- **Maximum Depth**: 21 meters
+- **Current**: Boat operators note current at this site; plan around slack where possible
+- **Best Time**: Fall and winter for best visibility; herring spawns in spring can reduce it
 
 ## Marine Life
 
-Giant Pacific octopus are one of the top attractions at Clarke Rock, regularly encountered by divers familiar with the site. Lingcod and cabezon are the dominant predator fish, with cabezon particularly visible during winter when they attend egg masses. Copper and quillback rockfish are abundant throughout the reef. Plumose anemones, encrusting sponges, and coralline algae coat the rock surfaces. Puget Sound king crab patrol the sandy perimeter. Harbour porpoise are regularly seen from the surface in this area.
+Clarke Rock is specifically noted by a Nanaimo dive operator for its abundance of wolf eels — large mature individuals, mated pairs, and colourful juveniles are commonly reported, with five or more sightings possible on a single dive in the boulder field surrounding the pinnacle. Various rockfish species are also present, along with occasional octopus sightings. These are the species reported specifically for this site; broader Strait of Georgia species (lingcod, plumose anemones, nudibranchs) likely occur here too but were not confirmed for Clarke Rock specifically in this research pass.
 
 ## Dive Profile
 
-The rock summit reaches approximately 8–10 metres below the surface. Begin the dive at depth along the base perimeter, working systematically up the rock face. The most productive section for octopus is typically in the 12–18 metre zone where crevices in the rock provide appropriate sheltering habitat. Ascend to the summit for a safety stop as the dive concludes.
+The pinnacle rises toward the surface with a small lighthouse marking it above water, and is surrounded by a steep boulder field to about 18-21 metres. Wolf eels are typically found hiding in the cracks and crevices of the large boulders rather than on the pinnacle itself.
 
 ## Entry and Exit
 
-Boat access from Comox or Courtenay Small Boat Basin, or from Fanny Bay or Bowser. GPS navigation required to locate this submerged feature. Anchor carefully on sand away from the rock's summit. Monitor weather conditions — the northern Strait of Georgia can see strong northwesterly winds in summer. Deploy SMB before ascending.
+Boat access only, typically as a charter dive out of Nanaimo, often paired with the nearby HMCS Saskatchewan wreck on the same trip.
 
 ## Tips and Recommendations
 
-- The Comox Valley area has excellent dive operators who know this site well
-- Consider combining Clarke Rock with a dive at Hornby Island's renowned Flora Islet for a full day trip
-- Autumn provides clearest visibility in the northern Strait
-- Lingcod guarding egg masses can be found at sites like this from January to April
+- Nanaimo-area dive charters (e.g. Nanaimo Dive Outfitters) run this as a standard second dive after the HMCS Saskatchewan
+- Search the boulder field cracks carefully for wolf eels rather than expecting them on open rock faces
+- Fall/winter visibility is best; spring herring spawns can severely reduce visibility in the area
 
 ## Safety Considerations
 
-Tidal currents require timing — use current tables for the Discovery Passage reference station. Weather in the northern Strait can change quickly — have a float plan and check forecasts. SMB deployment is essential before surfacing. Drysuit proficiency is mandatory in these cold waters.
-
-## Photography
-
-Giant Pacific octopus are exceptional photography subjects at this site — bring a wide-angle lens and patience. Cabezon guarding egg masses in winter make striking behavioural photographs. The rock structure with encrusting sponges provides fine wide-angle reef compositions. Macro photographers should check sponge surfaces for nudibranchs.
-
-- Comox Valley dive operators and shops
-- Fisheries and Oceans Canada tide tables: tides.gc.ca
+Tidal currents require timing — check current predictions for the Nanaimo/Departure Bay area before diving. Drysuit is standard for BC's cold water (6-10°C average). Deploy an SMB before surfacing given boat traffic near Nanaimo.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Wikidata — Clarke Rock](https://www.wikidata.org/wiki/Q22508154), [Nanaimo Dive Outfitters — Dive Sites](https://www.nanaimodiveoutfitters.ca/dive-sites/), [ScubaBC — Diving in Nanaimo](https://www.scubabc.ca/scuba-diving-in-nanaimo-bc/). Last updated 2026-07-19.*

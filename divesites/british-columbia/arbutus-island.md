@@ -33,7 +33,8 @@ Arbutus Island sits in the northern Gulf Islands between Saltspring Island and t
 
 ## Marine Life
 
-Arbutus Island's reef is home to the characteristic species of the inner Gulf Islands. Kelp greenling and copper rockfish patrol the rock edges and mid-water column. Lingcod are present year-round and become particularly visible in winter and early spring during spawning season, when males guard egg masses on exposed rock. Giant Pacific octopus use boulder crevices as dens; look for debris piles outside den entrances as telltale signs. Purple and red sea urchins cover many rock surfaces, and the encrusting fauna includes sponges, hydroids, and bright pink coralline algae. Nudibranchs such as the opalescent and sea lemon species are common.
+No site-specific marine life reports were found for Arbutus Island in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Boat traffic in the Gulf Islands is frequent, particularly on summer weekends. A
 The reef and kelp combination at Arbutus Island supports both wide-angle and macro work. Rocky slopes colonised by sponges and anemones make compelling wide-angle subjects, while the sea floor and rock crevices yield nudibranchs and small invertebrates for macro lenses. Natural light quality is best from late spring through early autumn.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Arbutus Island in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

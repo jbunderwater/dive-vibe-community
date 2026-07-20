@@ -33,7 +33,8 @@ Georgina Shoals presents an intermediate reef dive on a series of rocky outcropp
 
 ## Marine Life
 
-The shoal habitat is productive for cold-water Pacific Northwest species. Lingcod are commonly seen resting on the rock, and large cabezon occupy ledges near the base of the reef. Black and copper rockfish form loose aggregations in the kelp zone. Giant Pacific octopus occupy dens in the boulder fields, particularly in the 10-15 metre range. Colourful nudibranchs, encrusting sponges, and plumose anemones decorate the rock surfaces. Harbour seals regularly follow divers through the site.
+No site-specific marine life reports were found for Georgina Shoals in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Tidal currents and boat traffic are the main hazards. Ascend with a deployed SMB
 Georgina Shoals offers a range of photographic subjects. Encrusting sea stars, nudibranchs, and anemones suit macro lenses in the shallow zone. Lingcod portraits are rewarding for wide-angle work — approach low and slowly to avoid flushing them off the reef. GPO den shots require patience and a well-positioned strobe to bring out skin texture and eye detail.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Georgina Shoals in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

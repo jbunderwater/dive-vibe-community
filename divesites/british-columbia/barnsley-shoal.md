@@ -33,7 +33,8 @@ Barnsley Shoal lies in the Discovery Islands, a cluster of islands and channels 
 
 ## Marine Life
 
-The Discovery Islands are renowned among BC divers for their exceptional density and diversity of marine life, and Barnsley Shoal reflects this reputation. Giant Pacific octopus are frequently encountered in the boulder terrain. Lingcod and quillback rockfish patrol the reef. Swimming scallops occupy sandy patches around the shoal edges, while large Dungeness crabs move across the bottom in the shallows. Plumose anemones colonise the steeper rock faces, and nudibranchs are abundant throughout. Steller sea lions and harbour seals regularly visit the area during salmon season.
+No site-specific marine life reports were found for Barnsley Shoal in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Remote location means emergency response time is long. Ensure the surface suppor
 The Discovery Islands' cold, clear water makes Barnsley Shoal a strong photography site. Wide-angle shots of anemone-covered rock faces and GPO encounters are the highlights. The schooling rockfish and sea stars also provide compelling subjects. Macro work on nudibranchs is excellent throughout the site.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Barnsley Shoal in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

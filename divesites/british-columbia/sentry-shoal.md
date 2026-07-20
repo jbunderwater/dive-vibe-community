@@ -32,7 +32,8 @@ Sentry Shoal lies in the northern Strait of Georgia, close to the Discovery Pass
 
 ## Marine Life
 
-Current-swept environments like Sentry Shoal concentrate filter feeders — large plumose anemone aggregations and encrusting sponge communities are characteristic. Lingcod and rockfish congregate in the shelter of rocky structures behind the main current. Steller sea lions are a frequent presence given nearby colonies. Pacific spiny dogfish move through in schools. Dungeness crab inhabit the sandy zones around the shoal base. Occasionally schooling fish including herring and sand lance draw predators like larger lingcod and rockfish.
+No site-specific marine life reports were found for Sentry Shoal in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -58,4 +59,4 @@ Remote location and strong currents are the primary hazards. Ensure your charter
 Current-swept reef photography rewards wide-angle technique — capturing anemone walls and drifting fish in a single frame. Steller sea lion encounters are fast and dramatic — a wide-angle wet lens is ideal. Lingcod on rocky substrate make excellent portrait subjects during slack water pauses.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Sentry Shoal in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

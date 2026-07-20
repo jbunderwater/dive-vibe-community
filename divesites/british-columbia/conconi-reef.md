@@ -32,7 +32,8 @@ Conconi Reef is located in the southern Gulf Islands between Salt Spring Island 
 
 ## Marine Life
 
-Conconi Reef is particularly noted for its rockfish populations. Copper, quillback, and black rockfish are all present, with black rockfish often schooling conspicuously in the mid-water column. Lingcod are resident predators. Giant Pacific octopus are commonly found in crevices. Plumose anemones and encrusting sponges coat exposed surfaces. Painted greenlings and kelp greenlings are abundant in the shallower rocky zones. Nudibranchs are found throughout the reef on sponge-covered surfaces.
+No site-specific marine life reports were found for Conconi Reef in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ Schooling black rockfish photographed from below against a bright surface canopy
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Conconi Reef in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

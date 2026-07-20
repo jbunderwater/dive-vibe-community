@@ -32,7 +32,8 @@ Brinn Rock lies in the Haro Strait southeast of Victoria, in the channel between
 
 ## Marine Life
 
-The current-swept surfaces of Brinn Rock are colonised by dense plumose anemone gardens and encrusting sponges in purple, orange, and yellow. Giant Pacific octopus occupy crevices on the rock's flanks. Lingcod and copper rockfish are the dominant fish species, with the lingcod often conspicuously territorial. Painted greenlings and kelp greenlings inhabit the upper reef. Sunflower sea stars and leather stars are found on the rock's base. Pacific white-sided dolphins occasionally pass through the Haro Strait and may visit divers.
+No site-specific marine life reports were found for Brinn Rock in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -61,4 +62,4 @@ The dense invertebrate encrustation on current-facing surfaces is visually strik
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Brinn Rock in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

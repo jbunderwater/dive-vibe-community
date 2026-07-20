@@ -17,9 +17,9 @@ A pristine reef surrounding the Isla Zapatillas within Bastimentos National Mari
 
 ## Overview
 
-Zapatillas Reef surrounds the Isla Zapatillas (Zapatilla Cays) at the southern end of the Bocas del Toro archipelago, within the Bastimentos National Marine Park. The cays are uninhabited and receive significantly less boat traffic than inner sites closer to Bocas Town — the distance preserves reef quality. Zapatillas Dive Center at Al Natural Resort operates small-group diving at the protected reefs around the cays.
+Zapatillas Reef surrounds the Isla Zapatillas (Zapatilla Cays) at the southern end of the Bocas del Toro archipelago, within the Bastimentos National Marine Park, which therealdealtours.com states covers roughly 28,000 protected acres. The cays are uninhabited and receive significantly less boat traffic than inner sites closer to Bocas Town — the distance preserves reef quality. Zapatillas Dive Center at Al Natural Resort operates small-group diving at the protected reefs around the cays.
 
-The site features "pristine" reef conditions, with over 200 confirmed tropical fish species. The reef descends from the beach to approximately 12–14 meters. Cavern formations are present on the more exposed side of the cay system. The park protection status restricts fishing and anchoring. Visibility is 20–25 meters on the exposed side.
+The site features "pristine" reef conditions, with over 200 confirmed tropical fish species. The reef descends from the beach to approximately 12–14 meters. Cavern formations are present on the more exposed side of the cay system — independently corroborated by bocas-del-toro.org, which separately lists "Zapatillas Keys (Caves)" as challenging to access during north winds. The park protection status restricts fishing and anchoring. Visibility is 20–25 meters on the exposed side.
 
 ## Site Information
 
@@ -63,4 +63,4 @@ The pristine coral, 200+ fish species diversity, and superior visibility create 
 - Bastimentos National Marine Park: permits and visitor information
 
 ---
-*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Al Natural Resort - Zapatillas Dive Center](https://www.alnaturalresort.com/zapatillas-dive-center/). Last updated 2026-06-25.*
+*Sources: [The Real Deal Tours - Popular Dive Sites](https://www.therealdealtours.com/blog/blog/popular-dive-sites-in-bocas-del-toro-panama/), [bocas-del-toro.org - Scuba Diving](https://www.bocas-del-toro.org/activities/scuba-diving.htm), [Al Natural Resort - Zapatillas Dive Center](https://www.alnaturalresort.com/zapatillas-dive-center/). Last updated 2026-07-19.*

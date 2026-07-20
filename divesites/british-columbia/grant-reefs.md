@@ -33,7 +33,8 @@ Grant Reefs lies in the nutrient-rich waters of the upper Sunshine Coast, offeri
 
 ## Marine Life
 
-Grant Reefs attracts a typical Sunshine Coast assemblage of cold-water Pacific species. Wolf eels are a signature encounter — bonded pairs occupy rocky dens and are known to be tolerant of respectful divers. Giant Pacific octopus are abundant across the reef, particularly in the 8-15 metre zone. Large lingcod are common on the reef faces, and black rockfish congregate in loose schools in the water column above the kelp canopy. Dungeness and red rock crabs scavenge the sandy margins. Harbour seals are frequent visitors, often following divers with curiosity.
+No site-specific marine life reports were found for Grant Reefs in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Cold water, tidal current, and moderate vessel traffic are the main hazards. Mon
 Grant Reefs is excellent for wide-angle photography — wolf eels in their dens, lingcod portraits, and kelp forest ambient shots are all achievable. For macro work, the sponge and anemone encrusted surfaces yield nudibranchs, crabs, and small invertebrates year-round. A single wide-angle strobe provides good results for reef portraits when natural light is limited.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Grant Reefs in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

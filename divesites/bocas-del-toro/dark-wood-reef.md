@@ -42,4 +42,4 @@ No site-specific marine life information found. Regional Caribbean reef species 
 - Bocas del Toro dive operators: contact local operators for confirmation of this site
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. 2026-06-25 re-audit confirmed: zero results across all major Bocas del Toro operator sites and databases. Last updated 2026-06-25.*
+*Description based on regional diving characteristics. No site-specific sources found. 2026-07-19 deep-QA re-audit confirmed again: zero results across labugapanama.com's 14-site table, PADI's dive-site page, bocasdivecenter.com, tourismpanama.com's listicle, and a direct re-fetch of the 20+-site ScubaBoard aggregation thread. Last updated 2026-07-19.*

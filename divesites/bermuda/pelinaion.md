@@ -33,7 +33,7 @@ The Pelinaion was a 385-foot (117 m), 4,291-ton cargo steamer built at Port Glas
 
 ## Marine Life
 
-The Pelinaion's scattered remains support diverse reef life across multiple depth zones. The shallow bow section attracts snorkelers and hosts parrotfish and angelfish in the surrounding reef. Larger structural components in deeper water provide habitat for schools of barracuda, snapper, and resident grouper. The prominent propeller at the stern section is a gathering point for marine life. Spiny lobster are consistently found in the wreck's enclosed spaces. Hawksbill turtles occasionally visit the East End reef system.
+Big schools of grunts and snappers are regularly seen around the reef structure surrounding the wreck, along with barracuda and blue angelfish. Beyond these confirmed sightings, no source-specific reports of grouper, lobster, or turtles at this particular site were found during this review.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The East End of Bermuda is more exposed to Atlantic swell than the North Shore. 
 The near-surface engine block creates a dramatic natural light composition visible from the surface and even more powerful when photographed from below. Wide-angle shots of the scattered hull in Bermuda's clear water capture the scale of this large vessel's remains. The spare propeller strapped to the deck and the steam boilers are compelling close-focus subjects.
 
 ---
-*Sources: [Bermuda Department of Environment and Natural Resources - Pelinaion](https://environment.bm/pelinaion), [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Bermuda Attractions - Pelinaion](https://www.bermuda-attractions.com/bermuda_00004a.htm), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Last updated 2026-05-18.*
+*Sources: [Bermuda Department of Environment and Natural Resources - Pelinaion](https://environment.bm/pelinaion), [Bermuda Dive Bermuda at Grotto Bay](https://www.bermudascubagrottobay.com/bermuda-dive-sites), [Bermuda Attractions - Pelinaion](https://www.bermuda-attractions.com/bermuda_00004a.htm), [Dive Magazine - Bermuda Shipwrecks](https://divemagazine.com/scuba-diving-travel/diving-the-shipwrecks-of-bermuda), [Blue Water Divers Bermuda](https://www.divebermuda.com/shipwrecks/). Re-audited 2026-07-19 (previously validated 2026-05-18) — history reconfirmed (385ft, 4,291 tons, Jan 16 1940, Capt. Janis Valikos); marine life trimmed to source-confirmed species.*

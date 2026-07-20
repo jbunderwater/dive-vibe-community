@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Belize Barrier Reef
 
-Belize Barrier Reef is a reef dive site in Belize Barrier Reef, Caribbean.
+Belize Barrier Reef is the longest unbroken barrier reef in the Western Hemisphere and the second-largest coral reef system in the world.
 
 ## Overview
 
-The Belize Barrier Reef is the second-largest coral reef system in the world, stretching 300 kilometers along the entire Belizean coastline and designated a UNESCO World Heritage Site in 1996. This general reef dive accesses the inner barrier reef near the cayes, where shallow coral gardens at 5-15 meters host more than 500 fish species, 60 types of coral, and 350 mollusc species. Divers regularly encounter hawksbill and green sea turtles, nurse sharks, southern stingrays, spotted eagle rays, and dense schools of reef fish including parrotfish, angelfish, and blue tangs. The calm, warm waters averaging 27-30 degrees Celsius make this an accessible dive for all certification levels.
+The Belize Barrier Reef stretches roughly 300 kilometers along the entire Belizean coastline as part of the larger Mesoamerican Barrier Reef System, and was designated a UNESCO World Heritage Site in 1996. Per Wikipedia, the reef supports over 500 fish species and more than 100 coral species (roughly 70 hard coral and 36 soft coral species). This general reef dive accesses the inner barrier reef near the cayes, where shallow coral gardens sit at 5-15 meters. Water temperature stays in the 26-29°C (79-84°F) range year-round per PADI and Dive The World, with visibility typically 10-40 meters. Divers regularly encounter hawksbill and green sea turtles, nurse sharks, southern stingrays, spotted eagle rays, and dense schools of reef fish including parrotfish, angelfish, and blue tangs. The calm, warm waters make this an accessible dive for all certification levels.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Belize Barrier Reef is the second-largest coral reef system in the world, st
 
 ## Marine Life
 
-The shallow coral gardens support over 500 fish species, with hawksbill and green sea turtles, nurse sharks, southern stingrays, and spotted eagle rays being regular sightings among the parrotfish, angelfish, and blue tangs. Large grouper and tarpon are common in the channels and deeper sections of the reef system. Note: the Whitespotted Toadfish (Sanopus astrifer), Belize's endemic toadfish species, is found specifically at Turneffe Atoll and is not confirmed at general inner barrier reef sites.
+The shallow coral gardens support over 500 fish species (Wikipedia), with hawksbill and green sea turtles, nurse sharks, southern stingrays, and spotted eagle rays being regular sightings among the parrotfish, angelfish, and blue tangs. Large grouper and tarpon are common in the channels and deeper sections of the reef system. Note: the Whitespotted Toadfish (Sanopus astrifer), Belize's endemic toadfish species, is found specifically at Turneffe Atoll and is not confirmed at general inner barrier reef sites.
 
 ---
-*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Hamanasi Resort - Barrier Reef Diving](https://www.hamanasi.com/belize-vacation/barrier-reef-diving/), [Wikipedia - Belize Barrier Reef](https://en.wikipedia.org/wiki/Belize_Barrier_Reef), [Dive the World - Belize](https://www.dive-the-world.com/diving-sites-belize.php). Last updated 2026-05-18.*
+*Sources: [PADI - Diving in Belize](https://www.padi.com/diving-in/belize/), [Wikipedia - Belize Barrier Reef](https://en.wikipedia.org/wiki/Belize_Barrier_Reef), [Dive the World - Belize](https://www.dive-the-world.com/diving-sites-belize.php). Re-checked 2026-07-19: corrected coral species count from "60 types" to Wikipedia's sourced 70 hard + 36 soft coral species; removed an unsourced "350 mollusc species" figure that could not be traced to a specific reliable source; removed Hamanasi Resort as a source — that page describes Hamanasi's own South Water Caye dive sites, not general Belize Barrier Reef facts. Last updated 2026-07-19.*

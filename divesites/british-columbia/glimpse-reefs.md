@@ -33,7 +33,8 @@ Glimpse Reefs is an intermediate boat dive offering rocky reef terrain thickly c
 
 ## Marine Life
 
-The reef structure supports dense populations of rockfish, including black, copper, and quillback species. Lingcod are a standout species here — large individuals claim territories along the reef faces and ledges. Giant Pacific octopus inhabit crevices and overhangs throughout the dive. Painted greenling and kelp greenling are common in the kelp canopy. Look in sandy areas adjacent to the reef for flounders and skates. Nudibranchs, chitons, and encrusting bryozoans add colour to the rocky substrate.
+No site-specific marine life reports were found for Glimpse Reefs in this research pass (only generic regional BC dive directories were available as sources, not site-specific descriptions or trip reports). The broader region is known for species such as rockfish, lingcod, plumose anemones, giant Pacific octopus, and nudibranchs, but none of these are confirmed as observed at this specific site -- treat any such mentions elsewhere on this page as regional context only, not a site-specific report.
+
 
 ## Dive Profile
 
@@ -60,4 +61,4 @@ Tidal current and boat traffic are the primary concerns at Glimpse Reefs. Surfac
 Glimpse Reefs provides excellent photographic variety. Lingcod portraits using wide-angle lenses are a favourite. Nudibranchs and small crustaceans on the reef surface reward macro photographers. Ambient light shots through the kelp canopy can be spectacular on calm, bright days. A dual-strobe setup brings out the vivid colours of encrusting sponges and anemones.
 
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Description based on OSM/hydrographic geographic data and general regional diving characteristics. No site-specific dive sources were found for Glimpse Reefs in this research pass -- the sources previously cited here were generic destination-level homepages, not site-specific descriptions, and have been removed as misleading attribution. Last updated 2026-07-19.*

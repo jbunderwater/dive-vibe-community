@@ -32,7 +32,7 @@ La Machaca (BNMP #27) is a 14-metre (45-foot) locally-built fishing boat that wa
 
 ## Marine Life
 
-The wreck structure is encrusted with corals and sponges and provides shelter for a variety of species. Barracuda, jacks, and groupers patrol the wreck. The surrounding sandy bottom and reef host parrotfish, angelfish, moray eels, and damselfish. The wreck is a good site for macro subjects in the encrusting growth. Night dives reveal octopus and lobster.
+Divers-Guide.com and DreamWrecks both report site-specific sightings at the wreck itself: tarpon, groupers (including a resident tiger grouper per DreamWrecks), common octopus, moray eels, seahorses, stingrays, and cubera snappers. Sergeant majors are regularly seen guarding eggs on the hull. The wreck structure is encrusted with corals and sponges, and the surrounding sandy/reef bottom adds the usual central-Bonaire reef-fish community. Night dives are known to bring out octopus and lobster.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The small wreck makes framing easy — wide-angle compositions of the full hull 
 Buddy's Reef is adjacent to the north. Bari Reef (Sand Dollar Resort house reef) lies immediately north. Cliff and Something Special are a short drive away.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/), [Bonaireisland.com – La Machaca](https://bonaireisland.com/experiences/diving/sites/). Last updated 2026-05-24.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [123 Car Rental Bonaire – Dive Sites](https://123carrentalbonaire.com/bonaire-dive-sites/), [Bonaireisland.com – La Machaca](https://bonaireisland.com/experiences/diving/sites/), [Divers-Guide – La Machaca](https://www.divers-guide.com/en/la-machaca), [DreamWrecks – La Machaca](https://dreamwrecks.com/la-machaca-bonaire-wreck). Last updated 2026-07-19.*
