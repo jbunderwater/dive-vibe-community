@@ -246,5 +246,187 @@
       "last_qa_date": "2026-06-30",
       "description": "Primary beach entry for Lauderdale-by-the-Sea shore diving via Datura Avenue at El Mar Drive. First reef line 100-400 feet from shore at 12-20 feet depth. The Shipwreck Snorkel Trail (dedicated 2002 by Jean-Michel Cousteau and the Marine Archaeological Council) sits in approximately 8-10 feet of water with five concrete replica cannons, a concrete anchor, and a ballast pile. Tank rack and freshwater rinse on the beach. Metered parking via PayByPhone."
     }
+  },
+  {
+    "name": "Jupiter Wreck Trek (Zion Train / Miss Jenny / Esso Bonaire)",
+    "lat": 26.95604,
+    "lon": -80.02313,
+    "depth": 27,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "BOUNDS FLAG: lat 26.956 exceeds current south-florida destination bounds (max 26.7) - Jupiter is north of the existing bounding box; expand bounds or treat as a separate Treasure Coast/Jupiter destination. Three-wreck drift site; major Goliath grouper spawning aggregation (Aug-Sep), lemon sharks Jan-Feb. Esso Bonaire cabin area enterable but requires wreck-diving training - lower compartments should not be entered.",
+      "validation_source": "americandivers.net,padi.com,florida-scubadiving.com"
+    }
+  },
+  {
+    "name": "Juno Ledge",
+    "lat": 26.87053,
+    "lon": -80.01917,
+    "depth": 27,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "BOUNDS FLAG: lat 26.871 exceeds current south-florida destination bounds (max 26.7) - see Jupiter Wreck Trek note. ~2-mile limestone ledge with 15-20ft drop-offs; large lemon shark aggregations Dec-Mar (50+), spotted eagle rays, occasional hammerhead/tiger shark sightings.",
+      "validation_source": "scuba.com,florida-scubadiving.com,underwaterjournal.com"
+    }
+  },
+  {
+    "name": "MV Castor",
+    "lat": 26.47883,
+    "lon": -80.03713,
+    "depth": 34,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "258-ft Dutch freighter seized by U.S. Customs 1999 (10,000+ lbs cocaine), sunk 2001 off Boynton Beach. Year-round Goliath grouper site (20-30 present, 100+ during Aug-Oct spawning).",
+      "validation_source": "southfloridadiving.com,scubadiverlife.com,divers-hub.com"
+    }
+  },
+  {
+    "name": "Boca Artificial Reef Ledge",
+    "lat": 26.328,
+    "lon": -80.0598,
+    "depth": 21,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Natural ledge off Boca Raton plus 20 supplemental concrete 'Erojacks' (some hurricane-displaced). Drift dive; angelfish, chub, barracuda, lobster, occasional goliath grouper/hammerhead reported.",
+      "validation_source": "southfloridadiving.com,divebuddy.com"
+    }
+  },
+  {
+    "name": "Sea Emperor (Aqua Zoo)",
+    "lat": 26.32228,
+    "lon": -80.05913,
+    "depth": 21,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Overturned hopper barge off Boca Raton carrying ~1,600 tons of drainage culverts, deployed after a legal settlement over reef damage from dredging. Stacked culvert pipes create swim-through structure.",
+      "validation_source": "florida-scubadiving.com,southfloridadiving.com,scubaboard.com"
+    }
+  },
+  {
+    "name": "Mercedes I",
+    "lat": 26.1558,
+    "lon": -80.0822,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "194-ft freighter (built Hamburg 1952) that famously grounded on a Palm Beach seawall in the 1984 'Mollie Wilmot' storm incident before being sunk as a reef in 1985. Twisted into two pieces; penetration carries entanglement risk and requires training.",
+      "validation_source": "southfloridadiving.com,florida-scubadiving.com,divebuddy.com"
+    }
+  },
+  {
+    "name": "Ancient Mariner",
+    "lat": 26.30202,
+    "lon": -80.06215,
+    "depth": 21,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Former U.S. Coast Guard cutter (1934, WWII rescue/anti-submarine duty, later a restaurant vessel), sunk 1991 off Deerfield Beach. Resident large Goliath grouper commonly found in the wheelhouse.",
+      "validation_source": "southfloridadiving.com,wreckwiki.com,freedomtourtravel.com"
+    }
+  },
+  {
+    "name": "Berry Patch Tug",
+    "lat": 26.30145,
+    "lon": -80.06143,
+    "depth": 21,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "62-ft tug (built 1940 as A.L. Spencer, used to tow Bahamas sand barges), sunk 1987; near the Ancient Mariner.",
+      "validation_source": "southfloridadiving.com,scubasouthflorida.com"
+    }
+  },
+  {
+    "name": "Rodeo 25",
+    "lat": 26.2313,
+    "lon": -80.06355,
+    "depth": 38,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "215-ft Dutch freighter sunk 1990 off Pompano Beach for the 25th Pompano Beach Fishing Rodeo. Twin masts rise 68ft from wheelhouse; forward mast has since fallen to starboard.",
+      "validation_source": "southfloridadiving.com,wreckwiki.com,florida-scubadiving.com"
+    }
+  },
+  {
+    "name": "Tracey",
+    "lat": 26.15932,
+    "lon": -80.07938,
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "131-ft vessel seized by U.S. Customs for drug trafficking, deployed 1999 off Fort Lauderdale as part of the 'Wreck Trek'. Memorial plaque to dive instructor Ken Vitale.",
+      "validation_source": "southfloridadiving.com,divebuddy.com,oceanwideexplorers.com"
+    }
+  },
+  {
+    "name": "Radio Tower Pyramids",
+    "lat": 25.81235,
+    "lon": -80.089433,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "19 steel-and-concrete pyramid structures built from decommissioned Radio Mambi broadcast tower sections, deployed 1988 off Miami Beach.",
+      "validation_source": "divespots.com,florida.greatestdivesites.com"
+    }
+  },
+  {
+    "name": "Fowey Rocks",
+    "lat": 25.590611,
+    "lon": -80.09667,
+    "depth": 6,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Shallow reef surrounding the 1876 Fowey Rocks Lighthouse at the north edge of Biscayne National Park; scattered remains of the Arratoon Apcar nearby.",
+      "validation_source": "florida.greatestdivesites.com,en.wikipedia.org"
+    }
+  },
+  {
+    "name": "Hollywood Beach Mermaid Artificial Reef",
+    "lat": 25.98819,
+    "lon": -80.09437,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "20-module artificial reef ~1 mile off Hollywood Beach, part of the '1000 Mermaids' reef project; 5 of the 20 modules are sculptural pieces.",
+      "validation_source": "hollywoodfl.org,1000mermaids.com,atlasobscura.com"
+    }
   }
 ]
