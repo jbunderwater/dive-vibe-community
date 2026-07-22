@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "british-virgin-islands",
-    "cabo-pulmo",
-    "california-channel-islands",
-    "canada",
-    "cape-town",
-    "cayman-islands",
     "christmas-island",
     "chuuk-lagoon",
     "cocos-island",
@@ -175,7 +169,13 @@
     "bermuda",
     "bocas-del-toro",
     "bonaire",
-    "british-columbia"
+    "british-columbia",
+    "british-virgin-islands",
+    "cabo-pulmo",
+    "california-channel-islands",
+    "canada",
+    "cape-town",
+    "cayman-islands"
   ],
   "history": [
     {
@@ -2300,6 +2300,26 @@
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/109",
       "errors": []
+    },
+    {
+      "date": "2026-07-22",
+      "slugs": [
+        "british-virgin-islands",
+        "cabo-pulmo",
+        "california-channel-islands",
+        "canada",
+        "cape-town",
+        "cayman-islands"
+      ],
+      "summary": {
+        "british-virgin-islands": "59 sites, 55 re-audited, 7 difficulty corrections, 3 wreck conflicts flagged, 4 unresolved",
+        "cabo-pulmo": "12 sites, 11 validated, 1 dead source domain removed, 4 sites marine-life stripped, 1 wreck conflict, Las Navajas downgraded (unresolved)",
+        "california-channel-islands": "10 sites, all re-audited, 3 hallucinations removed (S.S. Chickasaw major), 7 marine-life corrections, 4 wreck conflicts, Ex-Tortuga unresolved",
+        "canada (group: british-columbia, newfoundland, nova-scotia, vancouver-island)": "250 sites, 100 re-audited, 1 fabricated wreck narrative removed (Le Muscadin), several wreck conflicts flagged, USS/BC scope partially covered (172-site BC destination too large for full pass)",
+        "cape-town": "22 sites, all re-audited, 2 factual corrections (SAS Transvaal tonnage, Shark Alley conflation), 2 wreck conflicts, 4 sites bumped to cold-water minimum difficulty",
+        "cayman-islands": "16 sites, 14 re-audited, major USS Kittiwake correction (black box myth -> Solid Rocket Booster), 3 marine-life tightenings, 3 wreck conflicts, 2 unresolved (Chinese Wall, Japanese Garden)"
+      },
+      "pr_url": null
     }
   ]
 }
