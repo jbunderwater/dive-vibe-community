@@ -72,4 +72,4 @@ Exceptional opportunities for sea lion and marine life photography. Wide-angle s
 - **Validation Source**: Re-audited 2026-07-08 against ScubaBC, Parksville Qualicum Beach Tourism, and Pacific Pro Dive
 
 ---
-*Sources: [ScubaBC — Madrona Point Scuba Diving Site](https://www.scubabc.ca/madrona-point-nanoose/), [Parksville Qualicum Beach Tourism — Madrona Point Dive Site](https://www.visitparksvillequalicumbeach.com/blog/madrona-point-dive-site-at-nanoose-bay/), [Pacific Pro Dive — Shore Diving Maps](https://pacificprodive.com/pages/dive-maps). Last updated 2026-07-08.*
+*Sources: [ScubaBC — Madrona Point Scuba Diving Site](https://www.scubabc.ca/madrona-point-nanoose/), [Parksville Qualicum Beach Tourism — Madrona Point Dive Site](https://www.visitparksvillequalicumbeach.com/blog/madrona-point-dive-site-at-nanoose-bay/), [Pacific Pro Dive — Shore Diving Maps](https://pacificprodive.com/pages/dive-maps). Last updated 2026-07-22 (re-audited, no factual changes).*

@@ -40,4 +40,4 @@ Access by boat to the McNabs Island area. Contact East Coast Scuba & Watersports
 - Bring a dive light for detailed exploration
 
 ---
-*Sources: [McNabs Island — Halifax Trails Guide](https://www.halifaxtrails.ca/mcnabs-island-provincial-park/), [Nova Scotia Military History — Mystery On The Lake](https://madiganstories.com/mystery-on-the-lake/), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Aircraft type (Hudson vs. Ventura) and 1944 date not independently confirmed from public online records. Last updated 2026-06-24.*
+*Sources: [McNabs Island — Halifax Trails Guide](https://www.halifaxtrails.ca/mcnabs-island-provincial-park/), [Nova Scotia Military History — Mystery On The Lake](https://madiganstories.com/mystery-on-the-lake/), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Aircraft type (Hudson vs. Ventura) and 1944 date not independently confirmed from public online records. Last updated 2026-07-22 (re-audited, no factual changes).*

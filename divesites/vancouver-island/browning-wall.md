@@ -65,4 +65,4 @@ Wall dives offer exceptional wide-angle opportunities with the interplay of colo
 - **Validation Source**: Re-audited 2026-07-08 against God's Pocket Resort, Scuba Diving Magazine, and seaotter.com
 
 ---
-*Sources: [God's Pocket Resort — Diving](https://www.godspocket.com/diving/), [Scuba Diving Magazine — Deep in God's Pocket](https://www.scubadiving.com/travel/canada/deep-gods-pocket), [seaotter.com — Browning Wall](http://www.seaotter.com/marine/html/browning.html). Last updated 2026-07-08. Note: the prior validation_source domain godspocketresort.com no longer resolves; the operator's current domain is godspocket.com.*
+*Sources: [God's Pocket Resort — Diving](https://www.godspocket.com/diving/), [Scuba Diving Magazine — Deep in God's Pocket](https://www.scubadiving.com/travel/canada/deep-gods-pocket), [seaotter.com — Browning Wall](http://www.seaotter.com/marine/html/browning.html). Last updated 2026-07-22 (re-audited, no factual changes). Note: the prior validation_source domain godspocketresort.com no longer resolves; the operator's current domain is godspocket.com.*

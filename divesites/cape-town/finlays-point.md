@@ -38,4 +38,4 @@ Bryozoans, sponges, colonial ascidians, and anemones encrust the reef surfaces. 
 Pyjama catsharks, bryozoans, sponges, colonial ascidians, anemones, and reef fish are documented at this site. No additional specific species are confirmed by reviewed sources.
 
 ---
-*Sources: [Wikivoyage — Cape Peninsula East Coast Dive Sites](https://en.wikivoyage.org/wiki/Dive_sites_of_the_Cape_Peninsula_east_coast), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Dive Team Cape Town](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Cape Peninsula East Coast Dive Sites](https://en.wikivoyage.org/wiki/Dive_sites_of_the_Cape_Peninsula_east_coast), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Dive Team Cape Town](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town). Last updated 2026-07-22.*

@@ -42,4 +42,4 @@ Access by boat. Contact local Halifax dive operators — East Coast Scuba & Wate
 - Bring a dive light for wreck exploration
 
 ---
-*Sources: [uboat.net — MT Kars](https://uboat.net/allies/merchants/ship/1365.html), [Royal Museums Greenwich — Kars (1939)](https://www.rmg.co.uk/collections/objects/rmgc-object-67499), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Note: OSM coordinate and verified sinking position do not align; site-specific dive details require local operator confirmation. Last updated 2026-06-24.*
+*Sources: [uboat.net — MT Kars](https://uboat.net/allies/merchants/ship/1365.html), [Royal Museums Greenwich — Kars (1939)](https://www.rmg.co.uk/collections/objects/rmgc-object-67499), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Note: OSM coordinate and verified sinking position do not align; site-specific dive details require local operator confirmation. Last updated 2026-07-22 (re-audited, no factual changes).*

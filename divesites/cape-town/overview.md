@@ -8,7 +8,9 @@ Cold-water kelp forest diving in the Great African Seaforest, home to seven-gill
 
 ## Description
 
-Cape Town offers diverse dive sites spanning the Atlantic Seaboard and False Bay, with depths ranging from 5 to 40 meters. The destination is split between the cold, nutrient-rich Atlantic side -- famous for towering kelp forests of Ecklonia maxima -- and the warmer waters of False Bay, where seven-gill cow sharks aggregate at sites like Shark Alley. With wreck sites, reef and kelp dives, caves, and wall dives, Cape Town provides remarkable variety for a temperate diving destination.
+Cape Town offers diverse dive sites spanning the Atlantic Seaboard and False Bay, with depths ranging from 5 to 40 meters. The destination is split between the cold, nutrient-rich Atlantic side -- famous for towering kelp forests of Ecklonia maxima -- and the warmer waters of False Bay, where sevengill cow sharks have historically aggregated near Miller's Point (sites such as Castle Rock). With wreck sites, reef and kelp dives, caves, and wall dives, Cape Town provides remarkable variety for a temperate diving destination.
+
+*Note (2026-07-22 re-audit): "Shark Alley" is used ambiguously in Cape Town diving literature. In this database, Shark Alley (False Bay) refers specifically to the boat-access site near Seal Island historically associated with great white shark cage diving -- not the sevengill cow shark aggregation area near Miller's Point/Castle Rock, which is a separate location sometimes also called "Shark Alley" locally. Sevengill sharks are not confirmed as a reliable current sighting at either location: local operators report them as elusive near Miller's Point since 2016, and great white sharks have been largely absent from False Bay since approximately 2017-2018 due to orca predation.*
 
 ### Diving Opportunities
 
@@ -16,7 +18,7 @@ Cape Town offers diverse dive sites spanning the Atlantic Seaboard and False Bay
 - **Boat Diving**: Boat-access sites in False Bay and around the Cape Peninsula, often combined with seal encounters at Duiker Island
 - **Wreck Diving**: Wrecks including the BOS 400, SAS Transvaal, Clan Stewart, and the Phyllisia, ranging from shallow shore-accessible wrecks to deeper boat dives
 - **Kelp Forest Diving**: Cape Town's signature experience -- diving through cathedral-like kelp canopies on the Atlantic side, with visibility often exceeding 15 meters during summer upwelling
-- **Shark Diving**: Seven-gill cow sharks in False Bay, pyjama catsharks, and dark shysharks are regularly encountered on reef dives
+- **Shark Diving**: Sevengill cow sharks have historically been seen near Miller's Point, though local operators report them as elusive since 2016; pyjama catsharks and dark shysharks are more reliably encountered on reef dives; great white cage diving near Seal Island has been disrupted by the species' absence from False Bay since approximately 2017-2018
 
 ### Accessibility
 
@@ -29,7 +31,7 @@ Cape Town offers diverse dive sites spanning the Atlantic Seaboard and False Bay
 ### Marine Life & Environment
 
 - **Water Conditions**: Atlantic side temperatures range from 8-14 degrees C year-round due to Benguela Current upwelling; False Bay is warmer at 14-22 degrees C seasonally. Visibility ranges from 5-20 meters, with best clarity on the Atlantic side during southeast wind conditions in summer
-- **Marine Biodiversity**: The Great African Seaforest supports over 14,000 documented species. Key encounters include seven-gill cow sharks, Cape fur seals, pyjama catsharks, dark shysharks, short-tail stingrays, over 80 species of nudibranchs, cuttlefish, octopus, Cape rock lobster, and dense kelp forest ecosystems with associated invertebrate communities
+- **Marine Biodiversity**: The Great African Seaforest supports over 14,000 documented species. Key encounters at the destination level include sevengill cow sharks (though currently elusive near their traditional Miller's Point haunts), Cape fur seals, pyjama catsharks, dark shysharks, short-tail stingrays, over 80 species of nudibranchs, cuttlefish, octopus, and Cape rock lobster. Individual site pages should be consulted for which of these are actually confirmed at a specific location -- this is a destination-wide list, not a per-site guarantee
 - **Conservation**: The kelp forests of the Cape Peninsula form part of the Great African Seaforest, a unique temperate marine ecosystem. Table Mountain National Park Marine Protected Area protects portions of the coastline. The Cape Peninsula is within a UNESCO Biosphere Reserve
 
 ## Additional Information
@@ -40,4 +42,4 @@ Cape Town offers diverse dive sites spanning the Atlantic Seaboard and False Bay
 - **Safety**: Cold water is the primary consideration -- a 7mm wetsuit or drysuit is essential, especially on the Atlantic side. Surge and swell can affect shore entries. Strong currents occur at some sites around Cape Point. Seven-gill sharks are docile but should be given respectful distance. Cape fur seals are playful but can be boisterous
 
 ---
-*Sources: [Pisces Divers](https://piscesdivers.co.za/reef-and-kelp/), [Kelptown - Best Diving Conditions in Cape Town](https://kelptown.com/blogs/when-is-the-best-time-dive-in-cape-town/when-are-the-best-diving-conditions-in-cape-town), [Oceans Africa - Dive Cape Town](https://www.oceansafrica.com/dive-cape-town/), [Impact Divers](https://impactdivers.com/), [Shark Explorers](https://www.sharkexplorers.com/). Last updated 2026-04-05.*
+*Sources: [Pisces Divers](https://piscesdivers.co.za/reef-and-kelp/), [Kelptown - Best Diving Conditions in Cape Town](https://kelptown.com/blogs/when-is-the-best-time-dive-in-cape-town/when-are-the-best-diving-conditions-in-cape-town), [Oceans Africa - Dive Cape Town](https://www.oceansafrica.com/dive-cape-town/), [Impact Divers](https://impactdivers.com/), [Shark Explorers](https://www.sharkexplorers.com/). Last updated 2026-07-22.*

@@ -73,4 +73,4 @@ Excellent opportunities for all skill levels. Beginner photographers can capture
 - **Validation Source**: Re-audited 2026-07-08 against Vancouver Scuba Diving School, PADI, and Zentacle
 
 ---
-*Sources: [Vancouver Scuba Diving School — Whytecliff Park](https://www.vancouverscubadivingschool.ca/whytecliff-park/), [PADI — Whytecliff Park dive site](https://www.padi.com/dive-site/canada/whytecliff-park/), [Zentacle — Whytecliff Park](https://www.zentacle.com/Beach/1519/whytecliff-park). Last updated 2026-07-08.*
+*Sources: [Vancouver Scuba Diving School — Whytecliff Park](https://www.vancouverscubadivingschool.ca/whytecliff-park/), [PADI — Whytecliff Park dive site](https://www.padi.com/dive-site/canada/whytecliff-park/), [Zentacle — Whytecliff Park](https://www.zentacle.com/Beach/1519/whytecliff-park). Last updated 2026-07-22 (re-audited, no factual changes).*

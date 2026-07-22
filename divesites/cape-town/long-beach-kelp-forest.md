@@ -2,7 +2,7 @@
 name: Long Beach Kelp Forest
 lat: -34.13
 lng: 18.43
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 8
 entryType: shore
 siteType: reef
@@ -25,12 +25,14 @@ False Bay water temperatures here are 12–18°C, warmer than the Atlantic seabo
 
 *Note: previous versions listed pyjama sharks, gully sharks, and shysharks as marine life at this site. These species are documented in the broader Long Beach / Simon's Town area but not confirmed as regular sightings at this specific kelp forest site by the reviewed sources. Southern Right whales have been reported in False Bay but not confirmed at this dive site specifically.*
 
+*Difficulty upgraded from Beginner to Intermediate (2026-07-22 re-audit): Cape Town is a cold-water destination and this database applies a minimum Intermediate difficulty rating destination-wide, regardless of a site's shallow depth or sheltered conditions.*
+
 ## Site Information
 
 - **Location**: Long Beach, Simon's Town, False Bay, Cape Town
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 8 meters
 - **Water Temperature**: 12–18°C (False Bay, warmer than Atlantic side)
 - **Conditions**: Most protected site on Cape Peninsula; minimal swell; good for training
@@ -40,4 +42,4 @@ False Bay water temperatures here are 12–18°C, warmer than the Atlantic seabo
 Octopus, biscuit skates, blue-fin gurnard, pineapple fish, stingrays, and Cape fur seals are documented in the area. Kelp forest invertebrates typical of False Bay include sea urchins, nudibranchs, and encrusting sponges. The SAS Pietermaritzburg wreck accessible from this point is colonised by invertebrates and fish at 20m depth.
 
 ---
-*Sources: [Wikivoyage — Long Beach Simon's Town](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Long_Beach_Simon's_Town), [Two Brothers Diving — Long Beach](https://twobrothersdiving.co.za/long-beach-simons-town/), [Apnea Addicts — Long Beach](https://www.aaddicts.co.za/freediving/freediving-long-beach-simons-town/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Long Beach Simon's Town](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Long_Beach_Simon's_Town), [Two Brothers Diving — Long Beach](https://twobrothersdiving.co.za/long-beach-simons-town/), [Apnea Addicts — Long Beach](https://www.aaddicts.co.za/freediving/freediving-long-beach-simons-town/). Last updated 2026-07-22.*

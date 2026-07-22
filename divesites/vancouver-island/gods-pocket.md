@@ -76,4 +76,4 @@ The walls are among the most colorful in North America. Brilliant reds, oranges,
 - **Validation Source**: Re-audited 2026-07-08 against God's Pocket Resort, Scuba Diving Magazine, and BC Parks
 
 ---
-*Sources: [God's Pocket Resort](https://www.godspocket.com/), [Scuba Diving Magazine — Deep in God's Pocket](https://www.scubadiving.com/travel/canada/deep-gods-pocket), [BC Parks — God's Pocket Marine Park](https://bcparks.ca/gods-pocket-marine-park/). Last updated 2026-07-08. Note: the prior validation_source domain godspocketresort.com no longer resolves; the operator's current domain is godspocket.com.*
+*Sources: [God's Pocket Resort](https://www.godspocket.com/), [Scuba Diving Magazine — Deep in God's Pocket](https://www.scubadiving.com/travel/canada/deep-gods-pocket), [BC Parks — God's Pocket Marine Park](https://bcparks.ca/gods-pocket-marine-park/). Last updated 2026-07-22 (re-audited, no factual changes). Note: the prior validation_source domain godspocketresort.com no longer resolves; the operator's current domain is godspocket.com.*

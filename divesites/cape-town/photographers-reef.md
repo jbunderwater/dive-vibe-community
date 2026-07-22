@@ -38,4 +38,4 @@ The topography is densely varied for the reef's modest size: crevices, bowls, ov
 Regional marine life includes cold-water reef fish, nudibranchs, sponges, sea fans, and the encrusting invertebrate communities typical of False Bay granite reefs. No site-specific species reports were found for this site beyond the general cold-water invertebrate community described in Wikivoyage.
 
 ---
-*Sources: [Wikivoyage — Photographer's Reef](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Photographer's_Reef), [Cape Town Freediving — Photographer's Reef](https://capetownfreediving.com/photographers-reef/), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Photographer's Reef](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Photographer's_Reef), [Cape Town Freediving — Photographer's Reef](https://capetownfreediving.com/photographers-reef/), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/). Last updated 2026-07-22.*

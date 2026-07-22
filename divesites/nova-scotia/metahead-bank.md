@@ -38,4 +38,4 @@ Access by offshore charter boat. Contact East Coast Scuba & Watersports (Bedford
 - Confirm site coordinates with local operators before planning
 
 ---
-*Description based on regional Nova Scotia diving characteristics. No site-specific sources found. This site name is not confirmed in any public dive site database. Last updated 2026-06-24.*
+*Description based on regional Nova Scotia diving characteristics. No site-specific sources found. This site name is not confirmed in any public dive site database. Last updated 2026-07-22 (re-audited, no factual changes).*

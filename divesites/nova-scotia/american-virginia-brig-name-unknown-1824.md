@@ -40,4 +40,4 @@ Access by boat. Contact East Coast Scuba & Watersports (Bedford) or Torpedo Rays
 - Carry a surface marker buoy (SMB)
 
 ---
-*Sources: [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). No vessel name or dive-specific sources found for this site. Last updated 2026-06-24.*
+*Sources: [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). No vessel name or dive-specific sources found for this site. Last updated 2026-07-22 (re-audited, no factual changes).*

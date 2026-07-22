@@ -2,7 +2,7 @@
 name: Nolloth
 lat: -34.2838018
 lng: 18.3884129
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 5
 entryType: shore
 siteType: wreck
@@ -21,12 +21,14 @@ The MV Nolloth was a 347-ton Dutch coastal freighter carrying a cargo of mostly 
 
 The wreck sits in the surge zone at 0–5 metres, barely awash at high tide and fully exposed to the Atlantic swell, which limits diving to genuinely flat conditions. The hull remains among the most visible of Cape Point's wrecks, clearly identifiable as a steel ship even above the waterline. The site is usually combined with the nearby Thomas T. Tucker wreck as part of the Olifantsbos Shipwreck Trail, which starts from the Olifantsbos parking area within Table Mountain National Park.
 
+*Difficulty upgraded from Beginner to Intermediate (2026-07-22 re-audit): Cape Town is a cold-water destination and this database applies a minimum Intermediate difficulty rating destination-wide. The shallow depth here does not offset the cold water, surge exposure, and narrow weather window required to dive it.*
+
 ## Site Information
 
 - **Location**: Olifantsbos, Cape Point, Table Mountain National Park (second wreck on Olifantsbos Trail)
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
 - **Depth Range**: 0–5 meters
 - **Conditions**: Surge zone; fully exposed to Atlantic swell; diveable only in flat, calm conditions
@@ -36,4 +38,4 @@ The wreck sits in the surge zone at 0–5 metres, barely awash at high tide and 
 Regional marine life includes cold-water kelp forest community typical of the Atlantic seaboard. No site-specific species reports were found for this site.
 
 ---
-*Sources: [Learn to Dive Today — Nolloth](https://www.learntodivetoday.co.za/blog/2015/08/25/visible-shipwrecks-nolloth/), [Cape of Storms Distillery — Nolloth](https://capeofstormsdistillery.com/2021/08/22/m-v-nolloth-shipwreck-2/), [Cape Point — Cape of Storms](https://capepoint.co.za/cape-of-storms/). Last updated 2026-05-20.*
+*Sources: [Learn to Dive Today — Nolloth](https://www.learntodivetoday.co.za/blog/2015/08/25/visible-shipwrecks-nolloth/), [Cape of Storms Distillery — Nolloth](https://capeofstormsdistillery.com/2021/08/22/m-v-nolloth-shipwreck-2/), [Cape Point — Cape of Storms](https://capepoint.co.za/cape-of-storms/). Last updated 2026-07-22.*

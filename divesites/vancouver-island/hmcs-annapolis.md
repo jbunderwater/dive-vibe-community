@@ -71,4 +71,4 @@ The wreck provides dramatic wide-angle subjects with excellent photo opportuniti
 - **Validation Source**: Re-audited 2026-07-08 against Wikipedia, Hakai Magazine, and CBC News
 
 ---
-*Sources: [Wikipedia — HMCS Annapolis (DDH 265)](https://en.wikipedia.org/wiki/HMCS_Annapolis_(DDH_265)), [Hakai Magazine — Life Aboard the Wreck of the HMCS Annapolis](https://hakaimagazine.com/news/life-aboard-wreck-hmcs-annapolis/), [CBC News — HMCS Annapolis sunk to make artificial reef](https://www.cbc.ca/news/canada/british-columbia/hmcs-annapolis-sunk-to-make-artificial-reef-1.3021329). Last updated 2026-07-08.*
+*Sources: [Wikipedia — HMCS Annapolis (DDH 265)](https://en.wikipedia.org/wiki/HMCS_Annapolis_(DDH_265)), [Hakai Magazine — Life Aboard the Wreck of the HMCS Annapolis](https://hakaimagazine.com/news/life-aboard-wreck-hmcs-annapolis/), [CBC News — HMCS Annapolis sunk to make artificial reef](https://www.cbc.ca/news/canada/british-columbia/hmcs-annapolis-sunk-to-make-artificial-reef-1.3021329). Last updated 2026-07-22 (re-audited, no factual changes).*

@@ -2,7 +2,7 @@
 name: Phyllisia Shipwreck
 lat: -34.3078694
 lng: 18.4018744
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 5
 entryType: shore
 siteType: wreck
@@ -21,12 +21,14 @@ The FV Phyllisia was a 452-ton steam trawler that struck submerged rocks close t
 
 Only part of the stern remains on the shore today, its hull now rusted to the same orange-brown as the surrounding rock. The wreck lies at 0–5 metres, directly exposed to the full Atlantic swell at one of the Cape Peninsula's most exposed points. It is virtually never diveable — the exceptional conditions required are rarely achieved at this location. Most visitors encounter it on the 5-kilometre Phyllisia Circuit hiking trail from the Gifkommetjie parking area within Cape Point Nature Reserve.
 
+*Difficulty upgraded from Beginner to Intermediate (2026-07-22 re-audit): Cape Town is a cold-water destination and this database applies a minimum Intermediate difficulty rating destination-wide. In practice this site is rarely diveable at all given its exposure.*
+
 ## Site Information
 
 - **Location**: Hoek van Bobbejaan, Cape Point headland, Cape Point Nature Reserve
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
 - **Depth Range**: 0–5 meters
 - **Conditions**: Fully exposed to Atlantic swell; virtually never diveable; access primarily via hiking trail
@@ -36,4 +38,4 @@ Only part of the stern remains on the shore today, its hull now rusted to the sa
 Regional marine life includes cold-water kelp and surge-adapted invertebrates. No site-specific species reports were found for this site.
 
 ---
-*Sources: [Learn to Dive Today — Phyllisia](https://www.learntodivetoday.co.za/blog/2015/10/17/visible-shipwrecks-fv-phyllisia/), [Cape Point — Shipwreck Trails](https://capepoint.co.za/cape-points-shipwreck-trails/), [Shipwrecks of Cape Town — Wikipedia](https://en.wikipedia.org/wiki/Shipwrecks_of_Cape_Town). Last updated 2026-05-20.*
+*Sources: [Learn to Dive Today — Phyllisia](https://www.learntodivetoday.co.za/blog/2015/10/17/visible-shipwrecks-fv-phyllisia/), [Cape Point — Shipwreck Trails](https://capepoint.co.za/cape-points-shipwreck-trails/), [Shipwrecks of Cape Town — Wikipedia](https://en.wikipedia.org/wiki/Shipwrecks_of_Cape_Town). Last updated 2026-07-22.*

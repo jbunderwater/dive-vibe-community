@@ -75,4 +75,4 @@ The emerald-green water visible during rare slack tide windows is a photographer
 - **Validation Source**: Re-audited 2026-07-08 against Divernet, Scubaverse, and Wikipedia
 
 ---
-*Sources: [Divernet — The Skook: Diving the World's Fastest Tidal Rapids](https://divernet.com/world-dives/north-central-america/the-skook-diving-the-worlds-fastest-tidal-rapids/), [Scubaverse — Diving into the World's Fastest Tidal Rapids](https://scubaverse.com/diving-into-the-worlds-fastest-tidal-rapids/), [Wikipedia — Skookumchuck Narrows](https://en.wikipedia.org/wiki/Skookumchuck_Narrows). Last updated 2026-07-08.*
+*Sources: [Divernet — The Skook: Diving the World's Fastest Tidal Rapids](https://divernet.com/world-dives/north-central-america/the-skook-diving-the-worlds-fastest-tidal-rapids/), [Scubaverse — Diving into the World's Fastest Tidal Rapids](https://scubaverse.com/diving-into-the-worlds-fastest-tidal-rapids/), [Wikipedia — Skookumchuck Narrows](https://en.wikipedia.org/wiki/Skookumchuck_Narrows). Last updated 2026-07-22 (re-audited, no factual changes).*

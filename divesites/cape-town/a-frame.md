@@ -41,4 +41,4 @@ Conditions are fairly sheltered from south-westerly swell, making it diveable on
 Cuttlefish, helmet shells, leopard catsharks, soles, red fanworms, juvenile abalone, common feather stars, elegant feather stars, nudibranchs, Cape rock lobster, octopus, blacktail, Cape Hottentot, galjoen, Red Roman, and gully sharks are documented at this site. Cape fur seals visit.
 
 ---
-*Sources: [Wikivoyage — A-Frame](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/A-Frame), [Scuba Shack Cape Town — A-Frame](https://scubashack.co.za/2017/05/16/a-frame/), [Apnea Addicts — A-Frame](https://www.aaddicts.co.za/freediving/diving-aframe-simonstown/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — A-Frame](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/A-Frame), [Scuba Shack Cape Town — A-Frame](https://scubashack.co.za/2017/05/16/a-frame/), [Apnea Addicts — A-Frame](https://www.aaddicts.co.za/freediving/diving-aframe-simonstown/). Last updated 2026-07-22.*

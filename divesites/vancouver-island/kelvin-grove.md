@@ -73,4 +73,4 @@ Exceptional opportunities for octopus photography in wall crevices. Macro subjec
 - **Validation Source**: Re-audited 2026-07-08 against Fraser Valley Scuba Club, Zentacle, and Cold Ocean Diver
 
 ---
-*Sources: [Fraser Valley Scuba Club — Kelvin Grove](http://www.fvscuba.org/kelvin-grove.html), [Zentacle — Kelvin Grove](https://www.zentacle.com/Beach/446/kelvin-grove), [Cold Ocean Diver — Dive at Kelvin Grove](https://coldoceandiver.ca/kelvin-grove). Last updated 2026-07-08.*
+*Sources: [Fraser Valley Scuba Club — Kelvin Grove](http://www.fvscuba.org/kelvin-grove.html), [Zentacle — Kelvin Grove](https://www.zentacle.com/Beach/446/kelvin-grove), [Cold Ocean Diver — Dive at Kelvin Grove](https://coldoceandiver.ca/kelvin-grove). Last updated 2026-07-22 (re-audited, no factual changes).*

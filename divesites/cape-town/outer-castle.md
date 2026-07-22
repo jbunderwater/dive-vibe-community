@@ -35,4 +35,4 @@ Water temperatures sit between 10–16°C year-round under Benguela influence, s
 Red bait (ascidians), false corals, feather stars, sea cucumbers, shoaling fish, Cape fur seals, and kelp-associated invertebrates are documented at this site.
 
 ---
-*Sources: [Wikivoyage — Cape Peninsula Dive Sites](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Scuba Shack Cape Town](https://scubashack.co.za/category/dive-sites/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Cape Peninsula Dive Sites](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Scuba Shack Cape Town](https://scubashack.co.za/category/dive-sites/). Last updated 2026-07-22.*

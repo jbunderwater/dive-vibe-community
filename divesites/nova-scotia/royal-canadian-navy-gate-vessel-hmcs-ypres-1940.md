@@ -40,4 +40,4 @@ Access by boat. Contact local Halifax dive operators — East Coast Scuba & Wate
 - Bring a dive light for wreck exploration
 
 ---
-*Sources: [Wikipedia — HMCS Ypres](https://en.wikipedia.org/wiki/HMCS_Ypres), [For Posterity's Sake — HMCS Ypres](https://www.forposterityssake.ca/Navy/HMCS_YPRES.htm), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Last updated 2026-06-24.*
+*Sources: [Wikipedia — HMCS Ypres](https://en.wikipedia.org/wiki/HMCS_Ypres), [For Posterity's Sake — HMCS Ypres](https://www.forposterityssake.ca/Navy/HMCS_YPRES.htm), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Last updated 2026-07-22 (re-audited, no factual changes).*

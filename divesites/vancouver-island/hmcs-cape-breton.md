@@ -74,4 +74,4 @@ The wreck provides dramatic wide-angle subjects with natural light filtering thr
 - **Validation Source**: Re-audited 2026-07-08 against Wikipedia, Nanaimo Dive Outfitters, and Scuba Diver Life
 
 ---
-*Sources: [Wikipedia — HMCS Cape Breton (ARE 100)](https://en.wikipedia.org/wiki/HMCS_Cape_Breton_(ARE_100)), [Nanaimo Dive Outfitters — HMCS Cape Breton](https://www.nanaimodiveoutfitters.ca/dive-sites/hmcs-cape-breton/), [Scuba Diver Life — Nanaimo Wreck Diving](https://scubadiverlife.com/nanaimo-wreck-diving/). Last updated 2026-07-08.*
+*Sources: [Wikipedia — HMCS Cape Breton (ARE 100)](https://en.wikipedia.org/wiki/HMCS_Cape_Breton_(ARE_100)), [Nanaimo Dive Outfitters — HMCS Cape Breton](https://www.nanaimodiveoutfitters.ca/dive-sites/hmcs-cape-breton/), [Scuba Diver Life — Nanaimo Wreck Diving](https://scubadiverlife.com/nanaimo-wreck-diving/). Last updated 2026-07-22 (re-audited, no factual changes).*

@@ -71,4 +71,4 @@ This site is exceptional for macro photography of nudibranchs, feather stars, an
 - **Validation Source**: Re-audited 2026-07-08 against Zentacle, Vancouver Scuba Diving School, and Divers Alert Network
 
 ---
-*Sources: [Zentacle — Tuwanek Beach](https://www.zentacle.com/Beach/1470/tuwanek-beach), [Vancouver Scuba Diving School — Tuwanek](https://www.vancouverscubadivingschool.ca/tuwanek/), [Divers Alert Network — Diving on Sunshine](https://dan.org/alert-diver/article/diving-on-sunshine/). Last updated 2026-07-08.*
+*Sources: [Zentacle — Tuwanek Beach](https://www.zentacle.com/Beach/1470/tuwanek-beach), [Vancouver Scuba Diving School — Tuwanek](https://www.vancouverscubadivingschool.ca/tuwanek/), [Divers Alert Network — Diving on Sunshine](https://dan.org/alert-diver/article/diving-on-sunshine/). Last updated 2026-07-22 (re-audited, no factual changes).*

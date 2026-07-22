@@ -44,4 +44,4 @@ Direct beach access with easy entry. Park at the beach and walk to water's edge.
 - Dive light useful for crevice and rocky areas
 
 ---
-*Sources: [East Coast Scuba & Watersports — Fox Point Beach](https://www.eastcoastscuba.com/fox-point-beach-dive-site), [PADI — Fox Point Beach](https://www.padi.com/dive-site/canada/fox-point-beach/), [Zentacle — Fox Point Beach](https://www.zentacle.com/Beach/10976/fox-point-beach). Last updated 2026-06-24.*
+*Sources: [East Coast Scuba & Watersports — Fox Point Beach](https://www.eastcoastscuba.com/fox-point-beach-dive-site), [PADI — Fox Point Beach](https://www.padi.com/dive-site/canada/fox-point-beach/), [Zentacle — Fox Point Beach](https://www.zentacle.com/Beach/10976/fox-point-beach). Last updated 2026-07-22 (re-audited, no factual changes).*

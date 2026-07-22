@@ -44,4 +44,4 @@ Access by boat. Contact East Coast Scuba & Watersports (Bedford, NS) or Torpedo 
 - Bring a dive light for wreck exploration
 
 ---
-*Sources: [Fisheries & Oceans Canada — Shipwrecks of Halifax Harbour](https://www.bio-oa.ca/halifaxharbour/shipwrecks-eng.php), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Last updated 2026-06-24.*
+*Sources: [Fisheries & Oceans Canada — Shipwrecks of Halifax Harbour](https://www.bio-oa.ca/halifaxharbour/shipwrecks-eng.php), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Last updated 2026-07-22 (re-audited, no factual changes).*

@@ -74,4 +74,4 @@ Current and bio-density make photography challenging but rewarding. Wide-angle s
 - **Validation Source**: Re-audited 2026-07-08 against Race Rocks Ecological Reserve, Cold Ocean Diver, and Vancouver Island tourism
 
 ---
-*Sources: [Race Rocks Ecological Reserve](https://racerocks.ca/), [Cold Ocean Diver — Race Rocks](https://coldoceandiver.ca/race-rocks), [VancouverIsland.com — Race Rocks Ecological Reserve](https://vancouverisland.com/things-to-do-and-see/parks-and-trails/vancouver-island-bc-islands/race-rocks-ecological-reserve/). Last updated 2026-07-08.*
+*Sources: [Race Rocks Ecological Reserve](https://racerocks.ca/), [Cold Ocean Diver — Race Rocks](https://coldoceandiver.ca/race-rocks), [VancouverIsland.com — Race Rocks Ecological Reserve](https://vancouverisland.com/things-to-do-and-see/parks-and-trails/vancouver-island-bc-islands/race-rocks-ecological-reserve/). Last updated 2026-07-22 (re-audited, no factual changes).*

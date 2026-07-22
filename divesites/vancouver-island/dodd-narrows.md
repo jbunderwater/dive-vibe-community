@@ -76,4 +76,4 @@ Current makes detailed photography challenging. Wide-angle shots during brief sl
 - **Validation Source**: Re-audited 2026-07-08 against Element Escapes, PNW Diving, and Divers Alert Network
 
 ---
-*Sources: [Element Escapes — Dodd Narrows Dive Site](https://elementescapes.ca/dive-sites/dodd-narrows/), [PNW Diving — Dodd's Narrows](https://pnwdiving.com/dodds-narrows), [Divers Alert Network — Nanaimo](https://dan.org/alert-diver/article/nanaimo/). Last updated 2026-07-08.*
+*Sources: [Element Escapes — Dodd Narrows Dive Site](https://elementescapes.ca/dive-sites/dodd-narrows/), [PNW Diving — Dodd's Narrows](https://pnwdiving.com/dodds-narrows), [Divers Alert Network — Nanaimo](https://dan.org/alert-diver/article/nanaimo/). Last updated 2026-07-22 (re-audited, no factual changes).*

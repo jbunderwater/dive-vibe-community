@@ -38,4 +38,4 @@ The submerged wreckage lies on sand at up to 20 metres. The dispersed debris fie
 The wreckage now supports an encrusting invertebrate community and associated fish life typical of artificial reef substrates in Table Bay. No site-specific species reports were found for this wreck beyond general reef fish and invertebrate communities.
 
 ---
-*Sources: [Wikipedia — Seli 1](https://en.wikipedia.org/wiki/Seli_1), [IOL — Seli 1 Shipwreck Removal](https://infrastructurenews.co.za/2012/09/10/seli-1-shipwreck-to-be-removed/), [Learn to Dive Today — Seli 1](http://www.learntodivetoday.co.za/blog/2010/12/08/seli-1/). Last updated 2026-05-20.*
+*Sources: [Wikipedia — Seli 1](https://en.wikipedia.org/wiki/Seli_1), [IOL — Seli 1 Shipwreck Removal](https://infrastructurenews.co.za/2012/09/10/seli-1-shipwreck-to-be-removed/), [Learn to Dive Today — Seli 1](http://www.learntodivetoday.co.za/blog/2010/12/08/seli-1/). Last updated 2026-07-22.*

@@ -72,4 +72,4 @@ Wide-angle opportunities abound with the wall's dramatic vertical drop. The ligh
 - **Validation Source**: Re-audited 2026-07-08 against Element Escapes, Cold Ocean Diver, and ScubaBoard
 
 ---
-*Sources: [Element Escapes — Ogden Point Dive Site](https://elementescapes.ca/dive-sites/ogden-point/), [Cold Ocean Diver — Diving Ogden Point](https://coldoceandiver.ca/ogden), [ScubaBoard — Victoria, BC diving](https://scubaboard.com/community/threads/victoria-bc-diving-whats-it-like-and-whats-your-favorite-site.422151/). Last updated 2026-07-08.*
+*Sources: [Element Escapes — Ogden Point Dive Site](https://elementescapes.ca/dive-sites/ogden-point/), [Cold Ocean Diver — Diving Ogden Point](https://coldoceandiver.ca/ogden), [ScubaBoard — Victoria, BC diving](https://scubaboard.com/community/threads/victoria-bc-diving-whats-it-like-and-whats-your-favorite-site.422151/). Last updated 2026-07-22 (re-audited, no factual changes).*

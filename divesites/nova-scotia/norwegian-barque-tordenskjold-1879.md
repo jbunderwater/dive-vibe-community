@@ -39,4 +39,4 @@ Access by boat to McNabs Island area. Contact East Coast Scuba & Watersports (Be
 - Wooden wreck may have limited remaining structure after 140+ years
 
 ---
-*Sources: [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [Maugher Beach Lighthouse — NS Lighthouse Preservation Society](https://www.nslps.com/about-ns-lighthouses/lighthouse-lists?c=maugher-beach-lighthouse). Note: sinking date conflicts between sources (1872 vs. 1879); neither confirmed without museum record access. No dive-specific sources found. Last updated 2026-06-24.*
+*Sources: [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [Maugher Beach Lighthouse — NS Lighthouse Preservation Society](https://www.nslps.com/about-ns-lighthouses/lighthouse-lists?c=maugher-beach-lighthouse). Note: sinking date conflicts between sources (1872 vs. 1879); neither confirmed without museum record access. No dive-specific sources found. Last updated 2026-07-22 (re-audited, no factual changes).*

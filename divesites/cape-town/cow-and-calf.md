@@ -62,4 +62,4 @@ False Bay is a busy waterway — deploy an SMB during your safety stop. Cold wat
 The shallow depth allows good natural light throughout the dive. Seal interactions are the premier photographic subject — wide-angle lenses capture them spiralling through kelp fronds. The kelp canopy creates natural framing for reef portraits.
 
 ---
-*Sources: [Wikivoyage — Cape Peninsula Dive Sites](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Dive Team Cape Town](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Cape Peninsula Dive Sites](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Dive Team Cape Town](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/). Last updated 2026-07-22.*

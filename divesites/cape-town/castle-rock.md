@@ -65,4 +65,4 @@ Cold water induces rapid heat loss — plan shorter dives if wearing a wetsuit i
 Castle Rock is excellent for wide-angle photography of seal interactions in the kelp canopy, and for macro work on the boulder surfaces where nudibranchs, sea slugs, and brittle stars are abundant. The kelp fronds backlit by surface light make strong atmospheric shots.
 
 ---
-*Sources: [Wikivoyage — Castle Rock](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Dive Team Cape Town — Castle Rock](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Castle Rock](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Dive Team Cape Town — Castle Rock](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/). Last updated 2026-07-22.*

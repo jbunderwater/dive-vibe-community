@@ -38,4 +38,4 @@ Access by boat to McNabs Island area. Contact East Coast Scuba & Watersports (Be
 - Bring a dive light for detailed exploration of aircraft structure
 
 ---
-*Sources: [McNabs Island — Halifax Trails Guide](https://www.halifaxtrails.ca/mcnabs-island-provincial-park/), [Canadian Warplanes 5: Hawker Sea Fury RCN](https://silverhawkauthor.com/aviation/canadian-warplanes-5-hawker-sea-fury/), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Aircraft type and 1952 date not independently confirmed from public online records. Last updated 2026-06-24.*
+*Sources: [McNabs Island — Halifax Trails Guide](https://www.halifaxtrails.ca/mcnabs-island-provincial-park/), [Canadian Warplanes 5: Hawker Sea Fury RCN](https://silverhawkauthor.com/aviation/canadian-warplanes-5-hawker-sea-fury/), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Aircraft type and 1952 date not independently confirmed from public online records. Last updated 2026-07-22 (re-audited, no factual changes).*

@@ -43,4 +43,4 @@ The wreck is heavily colonised by Cape kelp (Ecklonia maxima) and cold-water inv
 - At low tide, wreck sections are partially exposed on the beach and can be inspected without diving
 
 ---
-*Sources: [Wikipedia — SS Thomas T. Tucker](https://en.wikipedia.org/wiki/SS_Thomas_T._Tucker), [Cape of Storms Distillery — Thomas T. Tucker](https://capeofstormsdistillery.com/2021/08/16/ss-thomas-t-tucker-shipwreck-2/), [Submerged — Thomas T. Tucker](https://www.submerged.co.uk/tucker/). Last updated 2026-05-20.*
+*Sources: [Wikipedia — SS Thomas T. Tucker](https://en.wikipedia.org/wiki/SS_Thomas_T._Tucker), [Cape of Storms Distillery — Thomas T. Tucker](https://capeofstormsdistillery.com/2021/08/16/ss-thomas-t-tucker-shipwreck-2/), [Submerged — Thomas T. Tucker](https://www.submerged.co.uk/tucker/). Last updated 2026-07-22.*

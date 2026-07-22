@@ -40,4 +40,4 @@ Boat dive from Saint-Pierre. The Club Nautique Saint-Pierrais is the principal d
 Cold water (drysuit recommended), variable visibility, and the remote North Atlantic setting are the main considerations. Dive with a local operator familiar with current site conditions.
 
 ---
-*Sources: [Club Nautique Saint-Pierrais](https://en.spm-tourisme.fr/enjoy/nautical-activities/club-nautique-saint-pierrais/), [OpenStreetMap node 3747883905](https://www.openstreetmap.org/node/3747883905). No site-specific published dive source for Troot Pool was located; dive profile generalised from Saint-Pierre and Miquelon regional diving characteristics. Last updated 2026-06-18.*
+*Sources: [Club Nautique Saint-Pierrais](https://en.spm-tourisme.fr/enjoy/nautical-activities/club-nautique-saint-pierrais/), [OpenStreetMap node 3747883905](https://www.openstreetmap.org/node/3747883905). No site-specific published dive source for Troot Pool was located; dive profile generalised from Saint-Pierre and Miquelon regional diving characteristics. Last updated 2026-07-22.*
