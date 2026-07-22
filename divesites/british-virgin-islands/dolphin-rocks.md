@@ -2,7 +2,7 @@
 name: Dolphin Rocks
 lat: 18.495679
 lng: -64.454625
-difficulty: Advanced
+difficulty: Beginner
 maxDepth: 15
 entryType: boat
 siteType: reef
@@ -24,11 +24,11 @@ Dolphin Rocks sits on the northern side of George Dog, one of the Dog Islands �
 - **Location**: Northern side of George Dog, Dog Islands, BVI
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: Good in calm conditions
 - **Current**: Low
-- **Swell**: High; weather-dependent
+- **Swell**: Moderate; weather-dependent
 - **Best Time**: Summer months (June–September) for calmest conditions and best pelagic activity
 
 ## Marine Life
@@ -52,7 +52,7 @@ Access by boat only. Being in exposed open water, entry conditions must be asses
 
 ## Safety Considerations
 
-The exposed northern position means Dolphin Rocks should only be dived in settled, calm weather. Swell can build rapidly in the Dog Islands area. The site is rated Advanced due to open-water exposure and weather dependency. Always dive with a buddy. Carry a surface marker buoy (SMB) as a precaution against drift.
+The exposed northern position means Dolphin Rocks should only be dived in settled, calm weather. Swell can build rapidly in the Dog Islands area, and the site should not be attempted if conditions are marginal. Always dive with a buddy. Carry a surface marker buoy (SMB) as a precaution against drift.
 
 ## Photography
 
@@ -60,7 +60,9 @@ The site's topographic variety — canyons on one side, ledges on the other — 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-22
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dolphin-rocks/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dolphin-rocks/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-07-22.*
+
+*QA note (2026-07-22): difficulty corrected from Advanced to Beginner. BVI Dive Map and Dive BVI both independently rate this site Novice at 6-15 meters; the previous Advanced rating was not supported by either primary source. The site remains weather-dependent and should only be dived in calm conditions.*

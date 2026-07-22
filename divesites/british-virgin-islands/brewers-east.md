@@ -2,7 +2,7 @@
 name: Brewer's East
 lat: 18.448787
 lng: -64.653486
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 21
 entryType: boat
 siteType: reef
@@ -17,18 +17,18 @@ A quieter alternative on the eastern side of Brewers Bay, northern Tortola, wher
 
 ## Overview
 
-Brewer's East lies on the eastern side of Brewers Bay on the northern coast of Tortola. While Brewers Bay is known for its beautiful beach, the eastern dive site is tucked away from the more heavily trafficked spots, offering a more secluded experience. The underwater terrain consists of isolated rocky formations sitting on sandy bottom, adorned with colorful corals and sponges. Depths range from roughly 12 to 21 meters. Swell can run high at this north-facing site, making it an advanced-level dive that rewards those who pick the right conditions.
+Brewer's East lies on the eastern side of Brewers Bay on the northern coast of Tortola. While Brewers Bay is known for its beautiful beach, the eastern dive site is tucked away from the more heavily trafficked spots, offering a more secluded experience. The underwater terrain consists of isolated rocky formations sitting on sandy bottom, adorned with colorful corals and sponges. Depths range from roughly 12 to 21 meters. Swell can build at this north-facing site, so conditions are worth checking before committing.
 
 ## Site Information
 
 - **Location**: Eastern side of Brewers Bay, northern Tortola
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: Good; consistently clear in calm conditions
 - **Current**: Low
-- **Swell**: High (north-facing exposure)
+- **Swell**: Moderate (north-facing exposure)
 - **Best Time**: Calmer summer months; check conditions in winter
 
 ## Marine Life
@@ -52,7 +52,7 @@ Access is by dive boat from Tortola operators. Entry via giant stride or back ro
 
 ## Safety Considerations
 
-The north-facing exposure means swell can be significant, particularly in winter. This site is rated Advanced due to exposure and depth. Dive within your certification limits. Fire coral is present on the formations. Carry an SMB. Dive with a buddy.
+The north-facing exposure means swell can build, particularly in winter. Dive within your certification limits. Fire coral is present on the formations. Carry an SMB. Dive with a buddy.
 
 ## Photography
 
@@ -60,7 +60,9 @@ The isolated rock formations on open sand create clean backgrounds for wide-angl
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-22
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brewers-east/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brewers-east/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-07-22.*
+
+*QA note (2026-07-22): difficulty corrected from Advanced to Intermediate. BVI Dive Map and Dive BVI both independently rate this site Intermediate at 12-21 meters; the previous Advanced rating was not supported by either primary source.*

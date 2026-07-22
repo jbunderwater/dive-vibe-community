@@ -4,7 +4,7 @@ addedBy: osm_import
 
 ## Cabo Pulmo
 
-Home to the only living coral reef in the Sea of Cortez, Cabo Pulmo National Marine Park is a conservation success story where 30 years of protection have produced a 461% increase in marine biomass and UNESCO World Heritage recognition.
+Home to the only living coral reef in the Sea of Cortez, Cabo Pulmo National Marine Park is a conservation success story where a decade of protection produced a peer-reviewed 463% increase in total fish biomass, part of the case for its UNESCO World Heritage recognition.
 
 ## Description
 
@@ -14,7 +14,7 @@ Cabo Pulmo National Marine Park protects a 20,000-year-old coral reef system alo
 
 - **Wreck Diving**: El Vencedor — a tuna trawler on sand at 14 meters, the park's most famous site and primary location for seasonal bull shark encounters
 - **Reef Bar Systems**: El Bajo, Los Morros, and Meros form the park's central reef complex, home to the iconic jack tornado and diverse hard coral (7+ species)
-- **Wall & Canyon Diving**: El Cantil — the largest reef in the park with miniature canyons, swim-throughs, walls, and caves stretching two miles offshore. Las Navajas offers canyon topography with shark encounters
+- **Canyon & Reef Diving**: El Cantil — the largest reef in the park, with miniature canyons, swim-throughs, and cavern-like ledges. Las Navajas is a named park site included on local snorkel-tour circuits, but a 2026-07-22 source re-check could not confirm the canyon-topography and shark-encounter claims previously listed here — see the Las Navajas site page for details
 - **Deep Pelagic Sites**: La Esperanza and El Cien — outer reef drop-offs to 30 meters with bull sharks, nurse sharks, tuna schools, and mobula rays (Advanced only)
 - **Sea Lion Colony**: La Lobera — playful California sea lions interact with divers at 8 meters near Los Frailes
 - **Cave & Rock Formations**: Las Casitas — unique rock formations with cup corals and garden eels
@@ -32,7 +32,7 @@ Cabo Pulmo National Marine Park protects a 20,000-year-old coral reef system alo
 
 - **Water Conditions**: Water temperature ranges from 20°C (68°F) in winter to 28°C (82°F) in summer. Visibility typically 10-25 meters. Mild currents at inshore sites; moderate to strong currents at outer reef sites (La Esperanza, El Cien). Thermoclines possible at depth
 - **Signature Species**: Bigeye trevally (jack tornado — the park's iconic spectacle), bull sharks (seasonal, primarily at El Vencedor, La Esperanza, El Cien), California sea lions (resident colony at La Lobera), whale sharks (transiting, seasonal), mobula rays, humpback whales (December-March, songs audible underwater), grouper aggregations, green sea turtles, giant moray eels
-- **Conservation**: The reef's recovery since 1995 is one of the most documented marine conservation successes worldwide. The 461% biomass increase demonstrated that full marine protection can restore even heavily depleted ecosystems. UNESCO World Heritage site as part of the Islands and Protected Areas of the Gulf of California
+- **Conservation**: The reef's recovery since 1995 is one of the most documented marine conservation successes worldwide. A peer-reviewed study (Aburto-Oropeza et al., 2011, *PLOS ONE*) measured total fish biomass rising from 0.75 to 4.24 t/ha between 1999 and 2009 — a 463% increase, the largest absolute recovery recorded in any marine reserve worldwide at the time — demonstrating that full marine protection can restore even heavily depleted ecosystems. UNESCO World Heritage site as part of the Islands and Protected Areas of the Gulf of California
 
 ### Park Rules
 
@@ -52,4 +52,4 @@ Cabo Pulmo National Marine Park protects a 20,000-year-old coral reef system alo
 - **Safety**: No hyperbaric chamber in Cabo Pulmo — nearest in Cabo San Lucas (2+ hours). The remote location means medical evacuation is slow. Dive conservatively. Advanced sites (La Esperanza, El Cien) have unpredictable currents and should only be attempted by experienced divers
 
 ---
-*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/), [Costa Coral Mexico](https://costacoralmexico.com/), [Dive O'Clock](https://diveoclock.com/). Last updated 2026-04-05.*
+*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Costa Coral Mexico](https://www.costacoralmexico.com/en/diving-center-capo-pulmo/scuba-diving/), [Dive O'Clock](https://www.diveoclock.com/destinations/Latin-America/Mexico/Cabo_Pulmo/), [Cabo Pulmo Beach Resort](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Aburto-Oropeza et al. 2011, PLOS ONE (biomass statistic)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3155316/). Last updated 2026-07-22. (Note: cabopulmodiving.com and cabopulmonationalpark.com, cited in the prior pass, are currently offline/unreachable and have been dropped as sources.)*

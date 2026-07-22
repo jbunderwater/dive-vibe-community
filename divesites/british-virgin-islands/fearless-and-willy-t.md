@@ -60,7 +60,9 @@ The Willy T offers unique photo opportunities: pirate props, an intact superstru
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-22
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/fearless-willy-t/), [Dive BVI – Willy T Wreck](https://divebvi.com/dive-the-willy-t-wreck/), [DreamWrecks – The Fearless](https://dreamwrecks.com/fearless-shipwreck-british-virgin-islands), [BVI Wreck Week](https://bviwreckweek.com/), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/fearless-willy-t/), [Dive BVI – Willy T Wreck](https://divebvi.com/dive-the-willy-t-wreck/), [DreamWrecks – The Fearless](https://dreamwrecks.com/fearless-shipwreck-british-virgin-islands), [BVI Wreck Week](https://bviwreckweek.com/), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t). Last updated 2026-07-22.*
+
+*QA note (2026-07-22): re-audited; core facts (Willy T scuttled 7 August 2019 by Beyond the Reef, Fearless as a wooden BYMS-class minesweeper believed sister ship to Calypso) remain consistent across the cited sources and no conflicting claims were found this pass.*

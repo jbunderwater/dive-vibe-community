@@ -24,7 +24,7 @@ Wreck Alley sits offshore from Red Bluff on the north side of Cooper Island and 
 | Detail | Value |
 |--------|-------|
 | Depth Range | 15–27 m |
-| Difficulty | Intermediate |
+| Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Wreck |
 | Visibility | 20–30 m |
@@ -62,4 +62,6 @@ The variety of wrecks in different stages of marine colonisation creates interes
 - Often combined with the RMS Rhone for a two-tank wreck diving day
 
 ---
-*Sources: [BVI Scuba - Wreck Alley](https://bviscuba.org/destinations/wreck-alley/), [BVI Wreck Week - Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Dive Map - Wreck Alley](https://bvi-dive-map.com/site/marie-l/), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t), [Reef Smart Guides](https://reefsmartguides.com/wreck-alley/). Last updated 2026-05-20.*
+*Sources: [BVI Scuba - Wreck Alley](https://bviscuba.org/destinations/wreck-alley/), [BVI Wreck Week - Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Dive Map - Wreck Alley](https://bvi-dive-map.com/site/marie-l/), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t), [Reef Smart Guides](https://reefsmartguides.com/wreck-alley/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-07-22.*
+
+*QA note (2026-07-22): sources disagree on difficulty — BVI Scuba rates the site Advanced OW, while Dive BVI's site listing describes it as Intermediate. This description retains Advanced per BVI Scuba's explicit certification-level statement; the Site Information table (previously showing a stale "Intermediate" value inconsistent with this file's own frontmatter) has been corrected to match.*

@@ -10,7 +10,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "wikipedia.org,channelislands.noaa.gov,scubadiverlife.com,nationalgeographic.com,independent.com",
+    "validation_source": "wikipedia.org,channelislands.noaa.gov,scubadiverlife.com,nationalgeographic.com,independent.com,sanctuaries.noaa.gov,nps.gov",
     "tags": {
       "historic": "wreck",
       "name": "Cuba",
@@ -18,8 +18,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Passenger/crew count conflict between sources: scubadiverlife.com gives 41 passengers + 71 crew (112 total); SB Independent gives 115 passengers + 65 crew. Fabricated figure of '77 passengers and crew' removed from markdown. Ship dimensions and cargo ($2.5M silver bullion) confirmed across multiple sources."
+      "last_qa_date": "2026-07-22",
+      "qa_notes": "Passenger/crew count conflict between sources: scubadiverlife.com gives 41 passengers + 71 crew (112 total); SB Independent gives 115 passengers + 65 crew. Fabricated figure of '77 passengers and crew' removed from markdown. Ship dimensions and cargo ($2.5M silver bullion) confirmed across multiple sources. RE-AUDIT 2026-07-22: History facts reconfirmed unchanged across sanctuaries.noaa.gov and nationalgeographic.com. Removed unconfirmed site-specific species claims (wolf eels, spiny lobster, halibut, nudibranchs attributed to the wreck structure) — no source names these species at this specific site. Kept well-documented Point Bennett pinniped content (NPS confirms world's largest pinniped haul-out at this exact location). Marine Life section rewritten to separate confirmed pinniped presence from unconfirmed regional fish/invertebrate claims."
     }
   },
   {
@@ -33,7 +33,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "false",
-    "validation_source": "wikipedia.org,channelislands.noaa.gov,nps.gov",
+    "validation_source": "wikipedia.org,channelislands.noaa.gov,nps.gov,governmentattic.org",
     "tags": {
       "historic": "wreck",
       "name": "Ex-Tortuga",
@@ -41,8 +41,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "CRITICAL: Previous markdown was entirely incorrect. Vessel was USS Tortuga (LSD-26), a 457-ft Casa Grande-class dock landing ship that grounded at Cardwell Point, SAN MIGUEL ISLAND (not Santa Cruz Island) on December 15, 1987. Was scrapped in place; hull disappeared below surface August 21, 1988. NOT deliberately sunk as artificial reef. Previous description fabricated: wrong vessel identity, wrong location, wrong circumstances. Validation set to false pending dive-specific source confirmation of current wreck state. 3 independent sources confirm vessel identity and grounding location/date."
+      "last_qa_date": "2026-07-22",
+      "qa_notes": "CRITICAL: Previous markdown was entirely incorrect. Vessel was USS Tortuga (LSD-26), a 457-ft Casa Grande-class dock landing ship that grounded at Cardwell Point, SAN MIGUEL ISLAND (not Santa Cruz Island) on December 15, 1987. Was scrapped in place; hull disappeared below surface August 21, 1988. NOT deliberately sunk as artificial reef. Previous description fabricated: wrong vessel identity, wrong location, wrong circumstances. Validation set to false pending dive-specific source confirmation of current wreck state. 3 independent sources confirm vessel identity and grounding location/date. RE-AUDIT 2026-07-22: Located and added the US Navy Supervisor of Salvage report (governmentattic.org), which confirms the storm conditions (winds to 50 knots, seas over 20 ft) and that a 100-ft stern section broke free from the 355-ft fore section, consistent with the vessel's 457 ft 9 in overall length. Still no dive-specific source describing the current underwater state of the wreck was found. Validated remains 'false' — this site stays unresolved pending a dive-specific source."
     }
   },
   {
@@ -56,7 +56,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,independent.com,channelislandsdiveadventures.com",
+    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,independent.com,channelislandsdiveadventures.com,cadivingnews.com",
     "tags": {
       "historic": "wreck",
       "name": "Aggi",
@@ -64,8 +64,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Wreck history verified: 3-masted steel full-rigged ship, wrecked May 4, 1915 at Talcott Shoal, Santa Rosa Island. Cargo (600 tons beans, 2500 tons barley) confirmed. All 20-21 crew survived. Anchor recovered 1960s by Glenn Miller. Facts consistent across 5 sources."
+      "last_qa_date": "2026-07-22",
+      "qa_notes": "Wreck history verified: 3-masted steel full-rigged ship, wrecked May 4, 1915 at Talcott Shoal, Santa Rosa Island. Cargo (600 tons beans, 2500 tons barley) confirmed. All 20-21 crew survived. Anchor recovered 1960s by Glenn Miller. Facts consistent across 5 sources. RE-AUDIT 2026-07-22: All facts reconfirmed unchanged. Added cadivingnews.com 'Aggi Wreck' page, which independently confirms the site-specific marine life already in the markdown (nudibranchs, lobster, halibut, white sea bass, rockfish, sunflower stars, corynactis anemones, wolf eels) — these are now treated as confirmed site-specific sightings rather than a generic list, since this source names them for Talcott Shoal specifically."
     }
   },
   {
@@ -79,7 +79,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,cawreckdivers.org",
+    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,cawreckdivers.org,sanctuaries.noaa.gov",
     "tags": {
       "historic": "wreck",
       "name": "Goldenhorn",
@@ -87,8 +87,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "CORRECTIONS: Previous markdown overview contained two errors: (1) described vessel as 'German' — vessel was Scottish-built; (2) stated wreck was at 'Point Conception in 1896' — wreck was on southwest coast of Santa Rosa Island on September 12, 1892. Wreck History section was already correct. Both errors corrected in overview paragraph. Vessel was iron-hulled four-masted bark, 268 ft, built 1883 in Scotland."
+      "last_qa_date": "2026-07-22",
+      "qa_notes": "CORRECTIONS: Previous markdown overview contained two errors: (1) described vessel as 'German' — vessel was Scottish-built; (2) stated wreck was at 'Point Conception in 1896' — wreck was on southwest coast of Santa Rosa Island on September 12, 1892. Wreck History section was already correct. Both errors corrected in overview paragraph. Vessel was iron-hulled four-masted bark, 268 ft, built 1883 in Scotland. RE-AUDIT 2026-07-22: Wreck-history facts reconfirmed unchanged. Marine Life section revised — no source names species observed at the Goldenhorn wreck specifically; reworded to present garibaldi/kelp bass/rockfish/urchins as regional kelp-forest expectation rather than confirmed site-specific sightings."
     }
   },
   {
@@ -102,7 +102,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,cawreckdivers.org,independent.com",
+    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,cawreckdivers.org,independent.com,cadivingnews.com,opendivesites.org",
     "tags": {
       "historic": "wreck",
       "name": "S.S. Chickasaw",
@@ -110,8 +110,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Crew count conflict noted in markdown: NOAA gives '36 crew and passengers'; Islapedia and SB Independent give '46 crew plus 4 elderly tourists (50 total)'. Previous markdown said '36 crew and four passengers' — now noted as conflicted in description. Ship type (C-2), date (Feb 7, 1962), cargo (plywood, dishes, toys, optical supplies), and grounding location (south side Santa Rosa Island) confirmed across multiple sources."
+      "last_qa_date": "2026-07-22",
+      "qa_notes": "Crew count conflict noted in markdown: NOAA gives '36 crew and passengers'; Islapedia and SB Independent give '46 crew plus 4 elderly tourists (50 total)'. Previous markdown said '36 crew and four passengers' — now noted as conflicted in description. Ship type (C-2), date (Feb 7, 1962), cargo (plywood, dishes, toys, optical supplies), and grounding location (south side Santa Rosa Island) confirmed across multiple sources. RE-AUDIT 2026-07-22 — CORRECTION: California Diving News ('Santa Rosa: The Second Largest Channel Island') and an OpenDiveSites/Malibu Divers summary both state plainly that 'nothing remains visible of the ship now' and that 'few have dived her.' The prior QA pass (2026-05-20) had left in place vivid but unconfirmed descriptive claims — an 'intact boiler,' 'large hull sections encrusted with orange and pink invertebrates,' and a 'sea lion haul-out' at this site — none of which is supported by any source found in either QA pass. These claims have been removed from the markdown (Overview, Marine Life, Dive Profile, Tips) and replaced with an accurate description: this is now a reef dive with historical significance, not a structure-focused wreck dive. Historical facts about the vessel and its grounding remain unchanged and confirmed."
     }
   },
   {
@@ -133,8 +133,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Key facts verified: 26 naval wrecking mines (confirmed by NPS), 215+ ft four-masted barkentine, wrecked/destroyed August 1929 at Skunk Point, Santa Rosa Island east end. NPS confirms it is largest wooden shipwreck within Channel Islands National Park. Steamer that rammed it not named in NPS source; markdown correctly omits the name."
+      "last_qa_date": "2026-07-22",
+      "qa_notes": "Key facts verified: 26 naval wrecking mines (confirmed by NPS), 215+ ft four-masted barkentine, wrecked/destroyed August 1929 at Skunk Point, Santa Rosa Island east end. NPS confirms it is largest wooden shipwreck within Channel Islands National Park. Steamer that rammed it not named in NPS source; markdown correctly omits the name. RE-AUDIT 2026-07-22: Wreck history and the keelson/ship's-knees description reconfirmed unchanged and independently corroborated as the site's standout visible feature. Marine Life section reworded — garibaldi/perch/sheephead presented as regional expectation, since no source names species specifically observed at this wreckage."
     }
   },
   {
@@ -156,8 +156,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Facts verified: Fishing vessel, October 10, 1952, fire off Anacapa Island, crew of 11 rescued by Sea Ranger and Western Monarch, sank at Frenchy's Cove West Anacapa Island. WWII minesweeper service confirmed. Description consistent across NOAA, Islapedia, and NPS sources."
+      "last_qa_date": "2026-07-22",
+      "qa_notes": "Facts verified: Fishing vessel, October 10, 1952, fire off Anacapa Island, crew of 11 rescued by Sea Ranger and Western Monarch, sank at Frenchy's Cove West Anacapa Island. WWII minesweeper service confirmed. Description consistent across NOAA, Islapedia, and NPS sources. RE-AUDIT 2026-07-22: Wreck history reconfirmed unchanged. Corrected an overreaching claim that Frenchy's Cove is 'home to a resident California sea lion colony' — sources confirm sea lions/harbor seals are resident on Anacapa Island broadly, but the best-documented rookeries are Cathedral Cove and Underwater Arch, not Frenchy's Cove specifically. Softened to reflect this."
     }
   },
   {
@@ -179,8 +179,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "CORRECTIONS: (1) Depth corrected from 12m to 9m (approximately 30 ft per California Diving News/Islapedia). (2) Fabricated claim that 'explosive charges were used to open the hull' removed — sources say vessel struck a rock and sank; site was subsequently salvaged. (3) Vessel correctly identified as tuna seiner (not generic 'commercial fishing vessel'). Depth updated in JSON from 12 to 9."
+      "last_qa_date": "2026-07-22",
+      "qa_notes": "CORRECTIONS: (1) Depth corrected from 12m to 9m (approximately 30 ft per California Diving News/Islapedia). (2) Fabricated claim that 'explosive charges were used to open the hull' removed — sources say vessel struck a rock and sank; site was subsequently salvaged. (3) Vessel correctly identified as tuna seiner (not generic 'commercial fishing vessel'). Depth updated in JSON from 12 to 9. RE-AUDIT 2026-07-22: Wreck history and location reconfirmed unchanged; California Diving News additionally confirms only scattered beams now remain, covered in urchin. Marine Life section revised to separate that one confirmed observation from generic Anacapa kelp-forest species (garibaldi, sheephead, sea lions) not specifically documented at this wreck."
     }
   },
   {
@@ -194,18 +194,18 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "nps.gov,channelislands.noaa.gov,wikipedia.org,scubadiverlife.com,independent.com",
+    "validation_source": "nps.gov,channelislands.noaa.gov,wikipedia.org,scubadiverlife.com,independent.com,cadivingnews.com",
     "tags": {
       "historic": "wreck",
       "name": "Winfield Scott",
-      "nps:verified": "yes",
-      "seamark:type": "wreck",
       "wikidata": "Q7394563",
       "wikipedia": "en:SS Winfield Scott",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Gold bullion value conflict noted: NPS says $1 million, Wikipedia says $2 million — noted as '$1-2 million (sources vary)' in markdown. Passenger count: Wikipedia says ~450 (some sources say up to 500) — retained '450 passengers and crew' with '(some sources indicate up to 500)' qualification. Ship dimensions (225 ft, 1,291 tons), builder (Westervelt & MacKay), and wreck date (December 1, 1853) confirmed across 5+ sources."
+      "last_qa_date": "2026-07-22",
+      "qa_notes": "Gold bullion value conflict noted: NPS says $1 million, Wikipedia says $2 million — noted as '$1-2 million (sources vary)' in markdown. Passenger count: Wikipedia says ~450 (some sources say up to 500) — retained '450 passengers and crew' with '(some sources indicate up to 500)' qualification. Ship dimensions (225 ft, 1,291 tons), builder (Westervelt & MacKay), and wreck date (December 1, 1853) confirmed across 5+ sources. RE-AUDIT 2026-07-22: All facts reconfirmed unchanged, including the gold-value and passenger-count conflicts. Confirmed via California Diving News/NOAA (Robert Schwemmer photography) that the garibaldi-at-paddle-wheel-flanges detail is a genuine, photographed observation at this exact site, not a generic claim. Softened a sentence claiming sea lions 'regularly join divers' at this specific wreck — sources document sea lions as resident on Anacapa Island generally, not tied specifically to the Winfield Scott site.",
+      "nps:verified": "yes",
+      "seamark:type": "wreck"
     }
   },
   {
@@ -234,8 +234,8 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Key facts verified: launched September 24, 1930 as SS Borinquen; operated as Borinquen, Puerto Rico, Arosa Star, Bahama Star, La Jenelle; rescued 373 Yarmouth Castle survivors (November 13, 1965, confirmed); grounded April 13, 1970 at Port Hueneme; incorporated into breakwater by Navy Seabees. Length 'nearly 500 feet' per Captain's Table blog (other sources say 467 ft). Tonnage: 9,000 tons per search results. D-Day support confirmed by Captain's Table."
+      "last_qa_date": "2026-07-22",
+      "qa_notes": "Key facts verified: launched September 24, 1930 as SS Borinquen; operated as Borinquen, Puerto Rico, Arosa Star, Bahama Star, La Jenelle; rescued 373 Yarmouth Castle survivors (November 13, 1965, confirmed); grounded April 13, 1970 at Port Hueneme; incorporated into breakwater by Navy Seabees. Length 'nearly 500 feet' per Captain's Table blog (other sources say 467 ft). Tonnage: 9,000 tons per search results. D-Day support confirmed by Captain's Table. RE-AUDIT 2026-07-22: Ship-identity history reconfirmed unchanged; length discrepancy remains flagged as sources disagree (nearly 500 ft vs. 466-467 ft). Added clarification, confirmed by California Diving News, that little of the vessel is visible underwater and the site functions mainly as a rocky/artificial reef dive rather than a structure-focused wreck dive; offshore reef marine life (cabezon, sand bass, calico bass, sculpin, sheephead, garibaldi, rockfish, lobster) remains confirmed by that source."
     }
   }
 ]

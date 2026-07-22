@@ -27,7 +27,7 @@ La Esperanza ("Hope") is an outer reef site in Cabo Pulmo National Marine Park, 
 - **Best Time**: October to May for peak pelagic activity
 
 ## Marine Life
-Bull sharks (most reliably November–May), nurse sharks, amberjacks, dog snappers, schooling tuna, bigeye trevally, mobula rays (seasonal). Tiger sharks have been listed as a possible encounter at outer Cabo Pulmo reef sites including La Esperanza, but no site-specific confirmed sightings were found in sources consulted. The rocky outcrops and reduced current compared to El Cien make this a slightly more accessible pelagic site.
+Bull sharks (most reliably November–May), nurse sharks, amberjacks, dog snappers, schooling tuna, bigeye trevally, mobula rays (seasonal). Multiple sources list tiger sharks among the species found at Cabo Pulmo's outer reef bars (La Esperanza and El Cien), but no report specifically confirms a tiger shark sighting at La Esperanza on a given dive — treat it as a possible, not likely, encounter. The rocky outcrops and reduced current compared to El Cien make this a slightly more accessible pelagic site.
 
 ## Dive Profile
 Advanced certification recommended. Depths to approximately 21 meters (70 feet). The site has less coral than the central reef bars, with rocky outcrops as the primary structure. Divers typically explore either the North or South section per dive. Monitor depth and air carefully — the 45-minute park dive limit applies. Carry an SMB.
@@ -39,4 +39,4 @@ Advanced certification recommended. Depths to approximately 21 meters (70 feet).
 - Not suitable for inexperienced divers regardless of certification level
 
 ---
-*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo). Last updated 2026-05-20.*
+*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Divearoo](https://divearoo.com/destinations/mexico/sea-of-cortez/cabo-pulmo). Last updated 2026-07-22.*

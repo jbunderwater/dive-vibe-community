@@ -60,7 +60,9 @@ The upright orientation of the wreck allows dramatic exterior wide-angle shots f
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-22
 
 ---
-*Sources: [BVI Diving – Inganess Bay](https://www.bvidiving.com/diving-wreck-of-the-inganess-bay.html), [BVI Dive Map](https://bvi-dive-map.com/site/inganess-bay/), [BVI Wreck Week – Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Scuba](https://bviscuba.org/destinations/wreck-alley/). Last updated 2026-05-20.*
+*Sources: [BVI Diving – Inganess Bay](https://www.bvidiving.com/diving-wreck-of-the-inganess-bay.html), [BVI Dive Map](https://bvi-dive-map.com/site/inganess-bay/), [BVI Wreck Week – Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Scuba](https://bviscuba.org/destinations/wreck-alley/). Last updated 2026-07-22.*
+
+*QA note (2026-07-22): re-confirmed via fresh WebSearch cross-check. Build year (Holland, 1950), 1988 sale to Captain Cosmos Sealey, August 1996 deliberate scuttling by the BVI Dive Operators Association, and depth figures (masthead ~14m/45ft, keel ~29m/95ft) are consistently reported. The cause of the pre-sinking grounding still varies by source (storm-snapped anchor cable at The Moorings base per bvidiving.com vs. Hurricane Bertha per BVI Wreck Week) — this description continues to present both rather than choosing one.*

@@ -33,7 +33,7 @@ The Goldenhorn was a Scottish-built, four-masted sailing bark, 268 feet (82 m) i
 
 ## Marine Life
 
-At only 4–9 meters depth, the Goldenhorn site is bathed in filtered light and kelp canopy typical of northern Channel Islands reefs. Iron hull sections are thickly encrusted with coralline algae and purple sea urchins, and garibaldi — California's state saltwater fish — patrol the kelp fronds above. Kelp bass, lingcod, and rockfish are common residents of the structural sections. The shallow reef also supports California sea stars, anemones, and the cold-water invertebrates characteristic of nutrient-rich Santa Rosa Island waters.
+At only 4–9 meters depth, the Goldenhorn site is bathed in filtered light and kelp canopy typical of northern Channel Islands reefs. Kelp forest habitat of this type around Santa Rosa Island is well documented to support garibaldi, kelp bass, rockfish, and sea urchins on rocky substrate — the general ecology NOAA and other sources describe for this coastline. No source consulted during this QA pass reports a species list specific to the Goldenhorn wreck itself, so the above should be read as regional kelp-forest fauna likely to be present at this shallow rocky site rather than confirmed site-specific sightings.
 
 ## Dive Profile
 
@@ -52,4 +52,6 @@ This site can only be dived in the calmest of conditions — check forecasts car
 The southwest coast of Santa Rosa Island is one of the most exposed positions in the Channel Islands, prone to surge and swell from multiple directions. Dive only on the flattest days. Water temperature requires a minimum 7 mm wetsuit with hood and gloves. The shallow depth amplifies surge effects significantly.
 
 ---
-*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Goldenhorn](https://www.islapedia.com/index.php?title=Goldenhorn), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [California Wreck Divers - Goldenhorn](http://www.cawreckdivers.org/Wrecks/GldnHorn.htm). Last updated 2026-05-20.*
+*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Goldenhorn](https://www.islapedia.com/index.php?title=Goldenhorn), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [California Wreck Divers - Goldenhorn](http://www.cawreckdivers.org/Wrecks/GldnHorn.htm), [NOAA - Kelp Forest Ecosystems](https://sanctuaries.noaa.gov/visit/ecosystems/kelpdesc.html). Last updated 2026-07-22.*
+
+*Re-audit (2026-07-22): Wreck-history facts (vessel description, September 12, 1892 grounding, cargo, crew rescue, later salvage) reconfirmed with no changes. Marine Life section revised to clarify that the specific species named are regional kelp-forest fauna rather than a confirmed site-specific list, since no source names species observed at the Goldenhorn wreck itself.*

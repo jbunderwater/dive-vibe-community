@@ -2,7 +2,7 @@
 name: Joe's Cave
 lat: 18.481352
 lng: -64.475087
-difficulty: Advanced
+difficulty: Beginner
 maxDepth: 14
 entryType: boat
 siteType: cave
@@ -17,14 +17,14 @@ A dramatic boulder and cave dive west of West Dog Island where huge granite form
 
 ## Overview
 
-Joe's Cave sits west of West Dog Island and south of the Flintstones dive site. The site's defining topography is a cluster of huge boulders — some reaching up to 8 meters (25 ft) in height — resting on a sandy bottom. The main cave entrance is narrow at the top, where ambient light filters down into the blue water creating what bvi-dive-map.com describes as "a very magical view." The cave widens toward its base, allowing easier movement inside. Walls and rock surfaces are covered with colorful corals and sponges. The cave interior is home to a swarm of glassy sweepers that fill the space toward the exit. Maximum depth is around 14 meters (45 ft). Swell at the site can be high, though current is typically low. The site is rated advanced due to the cave environment and swell exposure.
+Joe's Cave sits west of West Dog Island and south of the Flintstones dive site. The site's defining topography is a cluster of huge boulders — some reaching up to 8 meters (25 ft) in height — resting on a sandy bottom. The main cave entrance is narrow at the top, where ambient light filters down into the blue water creating what bvi-dive-map.com describes as "a very magical view." The cave widens toward its base, allowing easier movement inside. Walls and rock surfaces are covered with colorful corals and sponges. The cave interior is home to a swarm of glassy sweepers that fill the space toward the exit. Maximum depth is around 14 meters (45 ft). Swell at the site can be high, though current is typically low. This is a cavern-style swim-through rather than a true overhead cave system, and BVI Dive Map and Sail Caribbean Divers both rate it Novice/Beginner.
 
 ## Site Information
 
 - **Location**: West of West Dog Island, south of Flintstones
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: Good; light penetrates through the narrow cave opening
 - **Current**: Low
@@ -52,7 +52,7 @@ Access is by dive boat. Entry via giant stride or back roll. Swell can be presen
 
 ## Safety Considerations
 
-Advanced certification is recommended. Do not attempt full cave penetration without proper cave diving certification, a guideline, and redundant lighting. The cave environment restricts direct ascent in the deeper sections — plan the dive with adequate air reserves for a controlled exit. Swell at the surface can complicate boat entry and exit. Always carry an SMB.
+This is a cavern-level swim-through, not a true overhead cave — the entrance stays within sight of ambient light throughout. Do not attempt to push beyond the lit cavern zone without proper cave diving certification, a guideline, and redundant lighting. Swell at the surface can complicate boat entry and exit. Always carry an SMB.
 
 ## Photography
 
@@ -60,7 +60,9 @@ The narrow cave opening creates natural light rays when the sun is at the right 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-22
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/joes-cave/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/joes-cave/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-07-22.*
+
+*QA note (2026-07-22): difficulty corrected from Advanced to Beginner. BVI Dive Map and Dive BVI both independently rate this site Novice at 6-14 meters; the previous Advanced rating was not supported by either primary source.*

@@ -33,7 +33,7 @@ The Jane L. Stanford was a four-masted barkentine — square-rigged on the forem
 
 ## Marine Life
 
-The site at Skunk Point lies in very shallow water — 1.5 to 5 meters — in a sand, rock, and kelp habitat at the eastern tip of Santa Rosa Island. The inshore environment supports garibaldi, perch, sheephead, and the cold-water invertebrates typical of Channel Islands reef habitats. Sea stars and encrusting anemones colonise the iron fasteners and keelson timbers visible above and below the sand.
+The site at Skunk Point lies in very shallow water — 1.5 to 5 meters — in a sand, rock, and kelp habitat at the eastern tip of Santa Rosa Island. This kind of shallow inshore habitat is typically home to garibaldi, perch, sheephead, and cold-water invertebrates elsewhere in the Channel Islands, but no source consulted names species specifically observed at the Jane L. Stanford wreckage itself, so treat this as regional expectation rather than a confirmed sighting list.
 
 ## Dive Profile
 
@@ -52,4 +52,6 @@ Visibility and surge at this exposed, shallow site are highly condition-dependen
 Extreme shallowness makes this site extremely surge-prone — even light swell creates significant water movement at 1.5–3 meters. Water temperature at Santa Rosa Island requires a 7 mm wetsuit with hood and gloves year-round. The site is protected; removal of any timber, fasteners, or artifacts is prohibited under federal law.
 
 ---
-*Sources: [NPS - Jane L. Stanford Shipwreck](https://www.nps.gov/places/000/jane-l-stanford-shipwreck.htm), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Santa Barbara Independent - Channel Islands Shipwrecks](https://www.independent.com/2020/02/26/channel-island-shipwrecks-tell-stories-of-heroism-heartbreak-and-high-seas-scalawaggery/). Last updated 2026-05-20.*
+*Sources: [NPS - Jane L. Stanford Shipwreck](https://www.nps.gov/places/000/jane-l-stanford-shipwreck.htm), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Santa Barbara Independent - Channel Islands Shipwrecks](https://www.independent.com/2020/02/26/channel-island-shipwrecks-tell-stories-of-heroism-heartbreak-and-high-seas-scalawaggery/), [Islapedia - Skunk Point, Santa Rosa Island](https://www.islapedia.com/index.php?title=Skunk_Point,_Santa_Rosa_Island). Last updated 2026-07-22.*
+
+*Re-audit (2026-07-22): Wreck history (barkentine design, 1929 collision, wrecking-mine demolition, keelson remains) reconfirmed with no changes — the keelson/ship's-knees description is independently corroborated as the site's standout visible feature. Marine Life section reworded to distinguish regional expectation from confirmed site-specific sightings.*

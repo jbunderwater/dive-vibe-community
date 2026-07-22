@@ -2,7 +2,7 @@
 name: Alice in Wonderland
 lat: 18.4
 lng: -64.4333
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 21
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ The site's defining feature is the collection of large mushroom-shaped coral for
 | Detail | Value |
 |--------|-------|
 | Depth Range | 5–21 m |
-| Difficulty | Beginner |
+| Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Reef |
 | Visibility | 20–30 m |
@@ -64,4 +64,6 @@ The mushroom coral formations create genuinely otherworldly wide-angle subjects.
 - Best combined with Ginger Steps or The Indians for a full southern BVI dive day
 
 ---
-*Sources: [BVI Dive Map – Alice's Wonderland](https://bvi-dive-map.com/site/alices-wonderland/), [BVI Diving – Alice's Wonderland](https://www.bvidiving.com/diving-alices-wonderland.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/take-trip-wonderland-diving-ginger-island-british-virgin-islands). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map – Alice's Wonderland](https://bvi-dive-map.com/site/alices-wonderland/), [BVI Diving – Alice's Wonderland](https://www.bvidiving.com/diving-alices-wonderland.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/take-trip-wonderland-diving-ginger-island-british-virgin-islands). Last updated 2026-07-22.*
+
+*QA note (2026-07-22): difficulty corrected from Beginner to Intermediate. Dive BVI and Sail Caribbean Divers both independently rate this site Novice/Intermediate to Intermediate at depths up to 21 meters, consistent with this site's own depth-based Intermediate threshold (18-30m).*

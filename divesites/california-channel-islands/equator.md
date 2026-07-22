@@ -17,7 +17,7 @@ Equator is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-The Equator is a 93-foot commercial fishing vessel built in Tacoma in 1949 that wrecked on the rocks at Middle Anacapa Island the same year. The heavily salvaged debris field sits in shallow water around 8–12 meters, where bronze and iron hardware is occasionally exposed among the kelp. California sea lions haul out on Anacapa's rocky shores and frequently swoop through the wreckage in playful spirals. The surrounding kelp forest adds atmosphere to the dive, with garibaldi and sheephead patrolling the amber fronds above the scattered hull remains.
+The Equator is a 93-foot commercial fishing vessel built in Tacoma in 1949 that wrecked on the rocks at Middle Anacapa Island the same year. The heavily salvaged debris field sits in shallow water around 8–12 meters, where bronze and iron hardware is occasionally exposed among the kelp. California sea lions are resident on Anacapa Island and commonly encountered by divers around the island, though no source specifically documents sea lions at the Equator wreckage itself. The surrounding kelp forest adds atmosphere to the dive, with garibaldi and sheephead patrolling the amber fronds above the scattered hull remains.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Equator was a fishing vessel just under 93 feet (28 m) in length, built in T
 
 ## Marine Life
 
-The Equator site is surrounded by the kelp forest habitat characteristic of Middle Anacapa Island. California sea lions from the adjacent Anacapa haul-outs frequently visit the site. Garibaldi are abundant in the kelp fronds, and sheephead patrol the rocky substrate around the scattered wreckage. The site's location on the seaward side of the island exposes it to nutrient-rich upwelling that supports healthy invertebrate growth on any exposed hull sections.
+The Equator site is surrounded by the kelp forest habitat characteristic of Middle Anacapa Island. California Diving News reports the remaining beams are now covered in urchin — the one piece of site-specific marine life confirmed for this wreck. Garibaldi and sheephead are typical of Anacapa's kelp forest reefs generally, and sea lions are resident on the island, but no source names these species as observed specifically at the Equator wreckage.
 
 ## Dive Profile
 
@@ -52,4 +52,6 @@ Ask your captain or divemaster specifically about the Equator when visiting Anac
 Water temperature at Anacapa ranges from approximately 12°C in winter to 18°C in summer. A 7 mm wetsuit with hood and gloves is recommended. The seaward (south) exposure of this site means it is more susceptible to swell than Frenchy's Cove on the island's north side. Dive only in settled conditions.
 
 ---
-*Sources: [California Diving News - Anacapa's Wreck of the Equator](https://cadivingnews.com/dive-spots/anacapas-wreck-of-the-equator/), [Islapedia - Shipwrecks: Anacapa Island](https://www.islapedia.com/index.php?title=SHIPWRECKS:_ANACAPA_ISLAND), [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/northern-channel-islands/), [Peace Dive Boat](https://peaceboat.com/). Last updated 2026-05-20.*
+*Sources: [California Diving News - Anacapa's Wreck of the Equator](https://cadivingnews.com/dive-spots/anacapas-wreck-of-the-equator/), [Islapedia - Shipwrecks: Anacapa Island](https://www.islapedia.com/index.php?title=SHIPWRECKS:_ANACAPA_ISLAND), [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/northern-channel-islands/), [Peace Dive Boat](https://peaceboat.com/). Last updated 2026-07-22.*
+
+*Re-audit (2026-07-22): Wreck history and location (1949 build and same-year wreck, 150 yards from shore near East Fish Camp) reconfirmed — California Diving News additionally confirms only scattered beams now remain, covered in urchin. Marine Life section revised to separate this one confirmed observation from generic Anacapa kelp-forest species that are not specifically documented at this wreck.*

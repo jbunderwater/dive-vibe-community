@@ -17,7 +17,7 @@ Del Rio is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-The Del Rio is a steam schooner that wrecked off Anacapa Island, her remains resting in a shallow kelp-fringed rocky area at around 12 meters with sections of hull, machinery, and boiler scattered across the reef. The shallow depth and proximity to Anacapa's sea lion colony make it a lively dive — it's common to have inquisitive California sea lions weaving between divers while garibaldi flash orange against the kelp fronds above. Visibility here can be exceptional on calm summer days, reaching 20 meters or more in the clear Channel Islands water.
+The Del Rio is a steam schooner that wrecked off Anacapa Island, her remains resting in a shallow kelp-fringed rocky area at around 12 meters with sections of hull, machinery, and boiler scattered across the reef. Sea lions and harbor seals are common around Anacapa Island generally, and divers at Frenchy's Cove often report inquisitive California sea lions in the water, though no source confirms a resident rookery specifically at this cove (established sea lion haul-outs on Anacapa are best documented at Cathedral Cove and Underwater Arch). Visibility here can be exceptional on calm summer days, reaching 20 meters or more in the clear Channel Islands water.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Del Rio was a commercial fishing vessel that had previously served in mine-s
 
 ## Marine Life
 
-Frenchy's Cove on West Anacapa Island is sheltered from the prevailing northwest swell and is home to a resident California sea lion colony. Garibaldi — California's state saltwater fish — are abundant here in the kelp-fringed shallows. The Del Rio's hull sections provide relief structure for kelp bass, sheephead, and lingcod. The surrounding rocky reef supports coralline algae, sea urchins, and the cold-water invertebrates typical of Anacapa's nutrient-rich waters.
+Frenchy's Cove on West Anacapa Island is sheltered from the prevailing northwest swell. California sea lions and harbor seals are documented as resident and breeding on Anacapa Island as a whole, and are commonly encountered by divers around the island's coves. Garibaldi are typical of the kelp-fringed shallows here. No source consulted names species specifically observed on the Del Rio's hull sections themselves — kelp bass, sheephead, and lingcod are regional expectations for this type of reef habitat rather than confirmed site-specific sightings.
 
 ## Dive Profile
 
@@ -52,4 +52,6 @@ Frenchy's Cove is one of the most accessible Anacapa dive sites. The sheltered c
 Water temperature at Anacapa ranges from approximately 12°C (54°F) in winter to 18°C (65°F) in summer. A 7 mm wetsuit with hood and gloves is recommended; conditions are generally mild relative to the northern islands. The site is protected — disturbing or removing any artifacts is a federal offense.
 
 ---
-*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Shipwrecks: Anacapa Island](https://www.islapedia.com/index.php?title=SHIPWRECKS:_ANACAPA_ISLAND), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/northern-channel-islands/), [Peace Dive Boat](https://peaceboat.com/). Last updated 2026-05-20.*
+*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Shipwrecks: Anacapa Island](https://www.islapedia.com/index.php?title=SHIPWRECKS:_ANACAPA_ISLAND), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/northern-channel-islands/), [Peace Dive Boat](https://peaceboat.com/), [Islapedia - Frenchy's Cove, Anacapa Island](https://www.islapedia.com/index.php?title=Frenchy%E2%80%99s_Cove%2C_Anacapa_Island). Last updated 2026-07-22.*
+
+*Re-audit (2026-07-22): Wreck history (1952 fire, rescue by Sea Ranger and Western Monarch, drift to Frenchy's Cove) reconfirmed with no changes. Corrected an overreaching claim that Frenchy's Cove is "home to a resident California sea lion colony" — sources confirm sea lions and harbor seals are resident on Anacapa Island broadly and commonly seen by divers, but the best-documented rookeries are at Cathedral Cove and Underwater Arch, not Frenchy's Cove specifically.*

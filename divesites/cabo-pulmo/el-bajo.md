@@ -39,4 +39,4 @@ Depths range from 9 to 18 meters along the reef bar. Most divers follow the bar 
 - July–October offers the best visibility and most reliable jack tornado formations
 
 ---
-*Sources: [Cabo Pulmo Diving](https://cabopulmodiving.com/our-gourmet-diving-menu/), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico), [Girls that Scuba](https://www.girlsthatscuba.com/scuba-diving-cabo-pulmo-mexico/). Last updated 2026-07-22. (Note: cabopulmodiving.com, cited in the prior pass, is now offline — hosting account suspended — and has been dropped as a source.)*

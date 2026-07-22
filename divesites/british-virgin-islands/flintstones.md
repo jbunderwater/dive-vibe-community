@@ -2,7 +2,7 @@
 name: Flintstones
 lat: 18.485178
 lng: -64.473456
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -24,11 +24,11 @@ Flintstones lies west of West Dog Island in the Dog Islands group. The site take
 - **Location**: West of West Dog Island, The Dogs group, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: Good
 - **Current**: Low
-- **Swell**: High (exposed position west of West Dog)
+- **Swell**: Moderate (exposed position west of West Dog)
 - **Best Time**: Calmer conditions; December to April generally most stable
 
 ## Marine Life
@@ -53,7 +53,7 @@ Boat access only from Virgin Gorda or other Dog Islands operators. The site is e
 
 ## Safety Considerations
 
-The exposed western position means swell can be significant, particularly on winter days with northerly or westerly swells. The boulder maze requires good buoyancy control to avoid disturbing coral and sponge growth on boulder surfaces. Monitor depth carefully — it is easy to follow the terrain deeper than intended. Always carry an SMB for open-water ascent.
+The exposed western position means swell can build, particularly on winter days with northerly or westerly swells. The boulder maze requires good buoyancy control to avoid disturbing coral and sponge growth on boulder surfaces. Monitor depth carefully — it is easy to follow the terrain deeper than intended. Always carry an SMB for open-water ascent.
 
 ## Photography
 
@@ -61,7 +61,9 @@ The jumbled boulder field offers excellent compositional variety for wide-angle 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-22
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/flintstones/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/flintstones/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-07-22.*
+
+*QA note (2026-07-22): difficulty corrected from Advanced to Intermediate. BVI Dive Map and Dive BVI both independently rate this site Intermediate at 9-21 meters; the previous Advanced rating was not supported by either primary source.*

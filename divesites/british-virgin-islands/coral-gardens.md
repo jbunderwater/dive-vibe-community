@@ -61,7 +61,9 @@ The aircraft fuselage makes a striking wide-angle subject, particularly when a d
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-22
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/coral-gardens-airplane-wreck/), [BVI Diving](https://www.bvidiving.com/diving-airplane-wreck-coral-gardens-bvi.html), [Uncommon Caribbean](https://www.uncommoncaribbean.com/british-virgin-islands/great-dog-island-airplane-wreck/), [Wikipedia – Atlantic Air BVI](https://en.wikipedia.org/wiki/Atlantic_Air_BVI). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/coral-gardens-airplane-wreck/), [BVI Diving](https://www.bvidiving.com/diving-airplane-wreck-coral-gardens-bvi.html), [Uncommon Caribbean](https://www.uncommoncaribbean.com/british-virgin-islands/great-dog-island-airplane-wreck/), [Wikipedia – Atlantic Air BVI](https://en.wikipedia.org/wiki/Atlantic_Air_BVI). Last updated 2026-07-22.*
+
+*QA note (2026-07-22): re-confirmed via a fresh direct fetch of the BVI Diving Coral Gardens/Airplane Wreck page, which independently corroborates the Great Dog Island location, Shorts 360 aircraft, 1993 abortive-takeoff history, and 6-15m depth range. Note: BVI Diving also lists a separate, differently-located "Coral Gardens" reef site (no aircraft) near Dead Chest Island under a similar name — confirmed this destination's "Coral Gardens" entry (by coordinates) refers to the Great Dog Island airplane wreck site, not the Dead Chest reef of the same name.*
