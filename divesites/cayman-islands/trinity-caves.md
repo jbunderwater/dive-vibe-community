@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Trinity Caves
 
-Grand Cayman's dramatic West Bay canyon complex — a network of large coral canyons and swim-throughs (not true caves) famous for its appearance in the Tom Cruise film *The Firm* and its abundant Caribbean reef life.
+Grand Cayman's dramatic West Bay canyon complex — a network of large coral canyons and swim-throughs (not true caves) referenced by name in the Tom Cruise film *The Firm* and known for its abundant Caribbean reef life.
 
 ## Overview
 
-Trinity Caves is a popular West Bay dive site on Grand Cayman's West Wall, famous for a notable appearance in the 1993 Tom Cruise film *The Firm*. Despite the name, Trinity Caves does not contain true caves — the site consists of three large, converging coral canyons with dramatic swim-throughs that are navigated with natural light throughout. The canyons converge at the West Wall and can reach approximately 24 meters at the deepest point as they exit over the wall face. The variety of canyon passages means repeated dives reveal different routes and perspectives. The coral canyon structure is well-lit by natural light beams streaming from above.
+Trinity Caves is a popular West Bay dive site on Grand Cayman's West Wall. It is name-checked in the dialogue of the 1993 Tom Cruise film *The Firm* ("My friends are taking him to Trinity Caves..."); sources disagree on whether underwater footage was actually filmed at the site or whether it was simply referenced in the script, so that distinction is left open here rather than asserting the site appeared on screen. Despite the name, Trinity Caves does not contain true caves — the site consists of three large, converging coral canyons with dramatic swim-throughs that are navigated with natural light throughout. The canyons converge at the West Wall and can reach approximately 24 meters at the deepest point as they exit over the wall face. The variety of canyon passages means repeated dives reveal different routes and perspectives. The coral canyon structure is well-lit by natural light beams streaming from above.
 
 ## Site Information
 
@@ -48,7 +48,7 @@ Boat dive from West Bay operators — Trinity Caves is a frequently dived site i
 - A guide who knows the canyon routes is highly recommended for the first dive — the maze-like nature can confuse navigation
 - Watch for tarpon in the deeper canyon recesses — they are significantly calmer here than in open water
 - The canyons are well-lit throughout — no torch needed for canyon navigation, though one helps with photography
-- The film *The Firm* reference is a talking point for dive guides — it adds a pop culture dimension to the dive
+- The film *The Firm* name-drops the site in dialogue — a fun talking point for dive guides, though whether the movie's dive scene was actually shot here is disputed
 - Combine with Eagle Ray Pass or Orange Canyon on the same day for a varied West Side experience
 
 ## Safety Considerations
@@ -60,4 +60,4 @@ Trinity Caves are technically coral canyon swim-throughs, not true caves — the
 The coral canyon environment creates dramatic compositions with natural light streaming from above. Tarpon in the canyon shadows with a bright exit visible behind them are classic images. Wide-angle shots of divers in the canyon passages capture the scale of the formations. Sea fans on the canyon walls photograph beautifully with a single strobe at close range.
 
 ---
-*Sources: [Dive Red Sail Cayman – Dive Sites](https://www.diveredsailcayman.com/dive-sites), [Underwater Photography – Trinity Caves](http://www.underwaterphotography.com/Dive-Sites/Dive-Site.aspx?ID=6514), [DiveAdvisor – Trinity Caves](https://diveadvisor.com/cayman-islands/trinity-caves). Last updated 2026-05-20.*
+*Sources: [Dive Red Sail Cayman – Dive Sites](https://www.diveredsailcayman.com/dive-sites), [Underwater Photography – Trinity Caves](http://www.underwaterphotography.com/Dive-Sites/Dive-Site.aspx?ID=6514), [DiveAdvisor – Trinity Caves](https://diveadvisor.com/cayman-islands/trinity-caves), [Movie-Locations.com – The Firm (1993) Filming Locations](https://movie-locations.com/movies/f/Firm.php). Last updated 2026-07-22.*

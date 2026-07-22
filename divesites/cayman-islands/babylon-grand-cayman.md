@@ -33,7 +33,7 @@ Babylon is one of Grand Cayman's premier North Wall dives, located on the North 
 
 ## Marine Life
 
-The Ocean Frontiers dive operator specifically documents at Babylon: schools of Chromis, barracuda, stoplight parrotfish, and queen angelfish — confirmed from site-level accounts. Black coral, purple sea fans, and barrel sponges are confirmed on the pinnacle structure. Eagle rays and reef sharks are in the broader North Wall environment and may be encountered, but no site-specific source reviewed confirms them as regular Babylon residents. Flamingo tongue cowries are plausible on the sea fans but not specifically documented for this site. Regional Cayman North Wall fauna applies generally.
+Schools of Chromis, barracuda, stoplight parrotfish, and queen angelfish are commonly reported at Babylon by dive-site guides (PADI, Tortuga Divers); a direct 2026-07-22 re-check of the primary operator page (oceanfrontiers.com) confirms the pinnacle and wall structure but the current page text only describes "abundant marine life" without itemizing species, so these are marked as commonly reported rather than operator-confirmed. Black coral, purple sea fans, and barrel sponges are confirmed on the pinnacle structure. Eagle rays and reef sharks are in the broader North Wall environment and may be encountered, but no site-specific source reviewed confirms them as regular Babylon residents. A hammerhead shark sighting is mentioned in one aggregator source but is not corroborated by the primary operator page or any other source reviewed, so it is not included here. Flamingo tongue cowries are plausible on the sea fans but not specifically documented for this site. Regional Cayman North Wall fauna applies generally.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The maximum depth of 45 meters touches the technical diving boundary — do not 
 The pinnacle and wall combination provides exceptional wide-angle photography. Eagle rays against the infinite blue beyond the wall edge are classic Cayman images. The pinnacle structure covered in colorful soft corals and sea fans photographs beautifully in ambient Cayman light. A dome port handles the mixed near/far compositions most effectively.
 
 ---
-*Sources: [Ocean Frontiers – Discovering Babylon](https://www.oceanfrontiers.com/babylon), [Tortuga Divers – East End vs North Wall](https://tortugadivers.com/grand-cayman-dive-sites-east-end-vs-north-wall/), [PADI – Babylon Dive Site](https://www.padi.com/dive-site/cayman-islands/babylon-2/). Last updated 2026-05-20.*
+*Sources: [Ocean Frontiers – Discovering Babylon](https://www.oceanfrontiers.com/babylon), [Tortuga Divers – East End vs North Wall](https://tortugadivers.com/grand-cayman-dive-sites-east-end-vs-north-wall/), [PADI – Babylon Dive Site](https://www.padi.com/dive-site/cayman-islands/babylon-2/). Last updated 2026-07-22.*

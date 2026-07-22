@@ -17,7 +17,7 @@ Grand Cayman's most iconic dive — a shallow sandbar in the North Sound where l
 
 ## Overview
 
-Stingray City is one of the most famous shallow water dive and snorkel experiences in the Caribbean, and arguably the world. Located in the protected waters of Grand Cayman's North Sound, the site developed after local fishermen began anchoring at this sandbar to clean their catch — starting in the 1950s and 1960s — leaving scraps that attracted southern stingrays, who learned to associate boat engines with food. Today, a broadly stable population of approximately 100 southern stingrays (*Hypanus americanus*) — some with wingspans exceeding 1.5 meters — congregates daily at the sandbar in depths of only 4–5 meters. Divers and snorkelers wade and swim among the rays, which are thoroughly accustomed to human interaction. The experience is one of the most unusual and memorable underwater encounters in the Caribbean, though its commercial popularity means the site can be crowded during peak season.
+Stingray City is one of the most famous shallow water dive and snorkel experiences in the Caribbean, and arguably the world. Located in the protected waters of Grand Cayman's North Sound, the site developed after local fishermen began anchoring at this sandbar to clean their catch — starting in the 1950s and 1960s — leaving scraps that attracted southern stingrays, who learned to associate boat engines with food. Today, a broadly stable population of approximately 100 southern stingrays (*Hypanus americanus*) — females with wingspans reported up to roughly 1.5–2 meters, males somewhat smaller — congregates daily at the sandbar in depths of only 4–5 meters. Divers and snorkelers wade and swim among the rays, which are thoroughly accustomed to human interaction. The experience is one of the most unusual and memorable underwater encounters in the Caribbean, though its commercial popularity means the site can be crowded during peak season.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Stingray City is one of the most famous shallow water dive and snorkel experienc
 
 ## Marine Life
 
-Southern stingrays (*Hypanus americanus*) are the defining encounter — the resident population has been broadly stable at approximately 100 individuals over the past decade. The rays have developed feeding associations with humans and will actively approach visitors. Nurse sharks occasionally visit the sandbar — this is reported but not guaranteed. The surrounding reef areas accessible from the main sandbar support typical North Sound species including parrotfish, snapper, and sergeant majors.
+Southern stingrays (*Hypanus americanus*) are the defining encounter — the resident population has been broadly stable at approximately 100 individuals over the past decade, per the long-running Guy Harvey Foundation/Department of Environment stingray survey. The rays have developed feeding associations with humans and will actively approach visitors. Nurse sharks occasionally visit the sandbar — this is reported but not guaranteed. The surrounding reef areas accessible from the main sandbar support typical North Sound species including parrotfish, snapper, and sergeant majors.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Southern stingrays are docile and accustomed to humans at this site, but should 
 Stingray City is one of the Caribbean's most photographed dive sites. Southern stingrays at very close range in excellent visibility create extraordinary opportunities with any camera. The rays' tolerance for close interaction allows true macro detail shots of their patterning and texture. Ambient natural light photography in 4 meters produces spectacular results. Wide-angle group shots of multiple rays among divers are a classic Grand Cayman image.
 
 ---
-*Sources: [Wikipedia – Stingray City, Grand Cayman](https://en.wikipedia.org/wiki/Stingray_City,_Grand_Cayman), [Red Sail Sports – Stingray City Guide](https://redsailcayman.com/the-ultimate-guide-to-stingray-city-in-grand-cayman/), [Melissa's Travel Journal – Grand Cayman Stingray City](https://melissastraveljournal.com/grand-cayman-stingray-city/). Last updated 2026-05-20.*
+*Sources: [Wikipedia – Stingray City, Grand Cayman](https://en.wikipedia.org/wiki/Stingray_City,_Grand_Cayman), [Red Sail Sports – Stingray City Guide](https://redsailcayman.com/the-ultimate-guide-to-stingray-city-in-grand-cayman/), [Melissa's Travel Journal – Grand Cayman Stingray City](https://melissastraveljournal.com/grand-cayman-stingray-city/), [Guy Harvey Foundation – 22nd Year of Stingray Survey](https://guyharveyfoundation.org/news-feed/the-ghf-embarks-on-22nd-year-of-stingray-survey-in-stingray-city-grand-cayman/). Last updated 2026-07-22.*
