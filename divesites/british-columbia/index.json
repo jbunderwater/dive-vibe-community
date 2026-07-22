@@ -391,7 +391,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 12,
     "entryType": "boat",
-    "siteType": "kelp",
+    "siteType": "reef",
     "ref": "",
     "osmId": 663869313
   },
@@ -1615,7 +1615,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 12,
     "entryType": "boat",
-    "siteType": "kelp",
+    "siteType": "reef",
     "ref": "",
     "osmId": 11732411235
   },
@@ -1759,7 +1759,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 18,
     "entryType": "shore",
-    "siteType": "kelp",
+    "siteType": "reef",
     "ref": "",
     "osmId": 12589868010
   },
@@ -1963,7 +1963,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 12,
     "entryType": "shore",
-    "siteType": "kelp",
+    "siteType": "reef",
     "ref": "",
     "osmId": 1198856783
   },

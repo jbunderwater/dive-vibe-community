@@ -5,7 +5,7 @@ lng: -123.333333
 difficulty: Intermediate
 maxDepth: 12
 entryType: boat
-siteType: kelp
+siteType: reef
 ref: null
 osmId: 663869313
 addedBy: osm_import
@@ -23,7 +23,7 @@ Forest Island is a small island in the central Gulf Islands between Salt Spring 
 
 - **Location**: Central Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Kelp
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 6–12 metres

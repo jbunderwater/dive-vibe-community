@@ -5,7 +5,7 @@ lng: -124.2166297
 difficulty: Intermediate
 maxDepth: 12
 entryType: boat
-siteType: kelp
+siteType: reef
 ref: null
 osmId: 11732411235
 addedBy: osm_import
@@ -23,7 +23,7 @@ Bull Kelp 20' is a shallow bull kelp forest site near the Qualicum Beach and Par
 
 - **Location**: Eastern Vancouver Island, near Parksville/Qualicum Beach, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Kelp
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5–12 metres

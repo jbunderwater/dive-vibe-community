@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Ten Mile Point
 
-Ten Mile Point is a reef dive site in British Columbia, North America.
+Ten Mile Point is one of Victoria's premier wall dives, famed for a vertical rock face so densely carpeted in plumose anemones it is barely visible beneath them.
 
 ## Overview
 

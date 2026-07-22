@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Willis Point
 
-Willis Point is a reef dive site in British Columbia, North America.
+Willis Point is a Saanich Inlet wall dive known for its cloud sponge colonies and occasional bluntnose sixgill shark sightings.
 
 ## Overview
 

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Spring Bay
 
-Spring Bay is a reef dive site in British Columbia, North America.
+Spring Bay is a sheltered, sandy-bottomed muck dive near Victoria's Cadboro Bay, popular for macro and critter photography.
 
 ## Overview
 

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Telegraph Cove
 
-Telegraph Cove is a reef dive site in British Columbia, North America.
+Telegraph Cove (Telegraph Bay) is a calm, shore-accessible muck dive in Victoria's Cadboro Bay area, well suited to macro photography.
 
 ## Overview
 

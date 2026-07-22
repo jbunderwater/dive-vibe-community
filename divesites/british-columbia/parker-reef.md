@@ -5,7 +5,7 @@ lng: -122.8933075
 difficulty: Intermediate
 maxDepth: 12
 entryType: shore
-siteType: kelp
+siteType: reef
 ref: null
 osmId: 1198856783
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Parker Reef
 
-Parker Reef is a reef dive site in British Columbia, North America.
+Parker Reef is a kelp-draped shallow reef near Saturna Island in the Southern Gulf Islands.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Parker Reef is a kelp-draped reef near Saturna Island in the Southern Gulf Islan
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Kelp
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 

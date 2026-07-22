@@ -5,7 +5,7 @@ lng: -123.291608
 difficulty: Intermediate
 maxDepth: 18
 entryType: shore
-siteType: kelp
+siteType: reef
 ref: null
 osmId: 12589868010
 addedBy: osm_import
@@ -23,7 +23,7 @@ Whytecliff Park sits at the western edge of West Vancouver near Horseshoe Bay, r
 
 - **Location**: West Vancouver, British Columbia — Horseshoe Bay area
 - **Entry Type**: Shore entry
-- **Site Type**: Kelp
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5–15 metres; best October through March

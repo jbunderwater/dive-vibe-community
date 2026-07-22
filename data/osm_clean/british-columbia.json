@@ -18,7 +18,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "dive.bc.ca,rockfishdivers.com,vancouverisland.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -60,8 +61,9 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "racerocks.ca,uasbc.com,coldoceandiver.ca",
-      "last_qa_date": "2026-07-19",
-      "depth_note": "QA 2026-05-20: Corrected from 28m to 12m \u2014 wreck sits in ~12m at Pilot Bay per UASBC and racerocks.ca. The 28m figure reflects slope past wreck."
+      "last_qa_date": "2026-07-22",
+      "depth_note": "QA 2026-05-20: Corrected from 28m to 12m — wreck sits in ~12m at Pilot Bay per UASBC and racerocks.ca. The 28m figure reflects slope past wreck.",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -124,7 +126,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "nauticapedia.ca,uasbc.com,scubaboard.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -146,7 +149,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -268,7 +273,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -289,7 +296,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -310,7 +319,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -411,7 +422,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "dive.bc.ca,scubaboard.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -431,7 +443,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubaboard.com,zentacle.com,scubabc.ca",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -491,7 +504,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "zentacle.com,dive.site,scubabc.ca",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -532,7 +546,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -575,7 +591,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "artificialreefsocietybc.ca,wikipedia.org,scubabc.ca",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -636,7 +653,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -657,7 +676,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -667,7 +688,7 @@
     "osm_id": 663869313,
     "osm_type": "node",
     "depth": 12,
-    "site_type": "kelp",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -677,7 +698,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-05-20",
+      "note": "QA 2026-07-22: site_type corrected from invalid \"kelp\" (not in the valid site_type enum) to \"reef\" -- kelp canopy is a described habitat feature, not a distinct underwater topography category."
     }
   },
   {
@@ -698,7 +720,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -719,7 +743,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -741,7 +766,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -784,7 +811,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -805,7 +833,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -826,7 +856,9 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": "",
+      "note": "QA 2026-07-22: Confirmed as a real named shore-accessible dive site via zentacle.com (listed Beginner difficulty; kept at Intermediate here per this destination's cold-water minimum-difficulty policy). Only one independent source was found -- short of the 3-source bar required to mark this site fully validated. Depth (18m) remains an unconfirmed placeholder value pending a second/third source."
     }
   },
   {
@@ -867,7 +899,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -889,7 +922,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -910,7 +944,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -931,7 +966,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -952,7 +988,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1060,7 +1097,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,canada.ca,atlasobscura.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -1081,7 +1119,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1102,7 +1141,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1143,7 +1183,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1164,7 +1205,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1185,7 +1227,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1206,7 +1249,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1247,7 +1291,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1269,7 +1314,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1291,7 +1337,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1333,7 +1380,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1374,7 +1422,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1395,7 +1444,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1416,7 +1466,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1457,7 +1508,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1479,11 +1531,12 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
-    "name": "Imp\u00e9rieuse Rock",
+    "name": "Impérieuse Rock",
     "lat": 49.2613562,
     "lon": -124.1252523,
     "osm_id": 5777590757,
@@ -1493,7 +1546,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Imp\u00e9rieuse Rock",
+      "name": "Impérieuse Rock",
       "natural": "reef",
       "wikidata": "Q22427417",
       "source": "osm_extended",
@@ -1501,7 +1554,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1543,7 +1597,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikidata.org,nanaimodiveoutfitters.ca,scubabc.ca",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -1565,7 +1620,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1607,7 +1663,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1648,7 +1705,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1669,7 +1727,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1710,7 +1769,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1731,7 +1791,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1772,7 +1833,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1793,7 +1855,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1814,7 +1877,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1835,7 +1899,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1857,7 +1922,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1878,7 +1944,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -1938,8 +2005,9 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "coldoceandiver.ca,victoriaharbourhistory.com,wannadive.net,zentacle.com",
-      "last_qa_date": "2026-07-19",
-      "historic": "wreck"
+      "last_qa_date": "2026-07-22",
+      "historic": "wreck",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -1960,7 +2028,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2001,7 +2070,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2022,7 +2092,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2063,7 +2134,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2085,7 +2157,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2126,7 +2199,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2187,7 +2261,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2208,7 +2283,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2250,7 +2326,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2272,7 +2349,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2333,7 +2411,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2394,7 +2473,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2455,7 +2535,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2476,7 +2557,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2517,7 +2599,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2538,7 +2621,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2619,7 +2703,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2640,7 +2725,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2668,8 +2754,9 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,artificialreefsocietybc.ca,cbc.ca",
-      "last_qa_date": "2026-07-19",
-      "depth_note": "QA 2026-05-20: Depth confirmed 32-33m at keel level per ARSBC."
+      "last_qa_date": "2026-07-22",
+      "depth_note": "QA 2026-05-20: Depth confirmed 32-33m at keel level per ARSBC.",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -2693,7 +2780,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubabc.ca,dive.bc.ca,openstreetmap.org",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -2803,7 +2891,7 @@
     "osm_id": 11732411235,
     "osm_type": "node",
     "depth": 12,
-    "site_type": "kelp",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -2813,7 +2901,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-05-20",
+      "note": "QA 2026-07-22: site_type corrected from invalid \"kelp\" (not in the valid site_type enum) to \"reef\" -- kelp canopy is a described habitat feature, not a distinct underwater topography category."
     }
   },
   {
@@ -2874,7 +2963,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -2902,7 +2992,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "navsource.net,wikipedia.org,bigdoer.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -2928,7 +3019,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -2954,7 +3046,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "atlasobscura.com,vanisle.news,uasbc.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -2978,7 +3071,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubabc.ca,dive.bc.ca,diveidc.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -2999,7 +3093,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3021,7 +3116,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "coldoceandiver.ca,britanniabeach.com,dan.org",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -3072,7 +3168,7 @@
     "osm_id": 12589868010,
     "osm_type": "node",
     "depth": 18,
-    "site_type": "kelp",
+    "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
@@ -3083,7 +3179,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "dan.org,padi.com,makesomebubbles.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-05-20",
+      "note": "QA 2026-07-22: site_type corrected from invalid \"kelp\" (not in the valid site_type enum) to \"reef\" -- kelp canopy is a described habitat feature, not a distinct underwater topography category."
     }
   },
   {
@@ -3104,7 +3201,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "scubaboard.com,zentacle.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -3125,7 +3223,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3146,7 +3245,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3167,7 +3267,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3189,7 +3290,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3210,7 +3312,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3231,7 +3334,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3252,7 +3356,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3273,7 +3378,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3317,7 +3423,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -3341,7 +3448,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -3365,7 +3473,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,forposterityssake.ca,bigdoer.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -3388,7 +3497,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3409,7 +3519,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3440,7 +3551,7 @@
     "osm_id": 1198856783,
     "osm_type": "way",
     "depth": 12,
-    "site_type": "kelp",
+    "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
@@ -3450,7 +3561,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "openstreetmap.org,scubabc.ca,dive.bc.ca",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-05-20",
+      "note": "QA 2026-07-22: site_type corrected from invalid \"kelp\" (not in the valid site_type enum) to \"reef\" -- kelp canopy is a described habitat feature, not a distinct underwater topography category."
     }
   },
   {
@@ -3476,7 +3588,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "atlasobscura.com,bigdoer.com,uasbc.com",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-22",
+      "validation_notes": " | QA 2026-07-22: Re-audited 3 days after prior pass; spot-checked, no changes needed."
     }
   },
   {
@@ -3499,7 +3612,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3522,7 +3636,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3545,7 +3660,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3567,7 +3683,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "openstreetmap.org,wikidata.org",
-      "last_qa_date": "2026-07-19"
+      "last_qa_date": "2026-07-19",
+      "validation_notes": ""
     }
   },
   {
@@ -3590,7 +3707,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
@@ -3613,7 +3731,8 @@
       "validated": "false",
       "validation_source": "openstreetmap.org",
       "last_qa_date": "2026-07-19",
-      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed."
+      "qa_note": "No site-specific dive source found in 2026-07-19 re-audit; prior scubabc.ca/dive.bc.ca citation was a generic regional homepage, not a site-specific page, and has been removed.",
+      "validation_notes": ""
     }
   },
   {
