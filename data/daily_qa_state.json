@@ -2319,7 +2319,7 @@
         "cape-town": "22 sites, all re-audited, 2 factual corrections (SAS Transvaal tonnage, Shark Alley conflation), 2 wreck conflicts, 4 sites bumped to cold-water minimum difficulty",
         "cayman-islands": "16 sites, 14 re-audited, major USS Kittiwake correction (black box myth -> Solid Rocket Booster), 3 marine-life tightenings, 3 wreck conflicts, 2 unresolved (Chinese Wall, Japanese Garden)"
       },
-      "pr_url": null
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/125"
     }
   ]
 }
