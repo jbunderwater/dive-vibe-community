@@ -25,7 +25,7 @@ Wall to Wall sits on the southwest corner of West Dog, the closest point of that
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 22 meters (65-75 feet at the deepest canyon section)
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: Good
 - **Current**: Can be strong
 - **Swell**: Low (protected by island)
