@@ -254,8 +254,8 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "activecaribbeantravel.com,caymanturtledivers.com,zubludiving.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Site-specific sources not found for Japanese Garden specifically beyond general references to South Side shallow reef. Validated=false — 3 independent site-specific sources not confirmed. Marine life replaced with regional South Side reef description; specific species claims removed."
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-searched — one new source (a West Coast dive-region overview) confirms Japanese Garden is named for its staghorn/elkhorn coral abundance on the South Wall, but still no source gives site-specific depth, difficulty, or marine-life detail distinct from the general South Wall description. validated remains false — still short of 3 independent site-specific sources."
     },
     "validated": false,
     "validation_source": "activecaribbeantravel.com,caymanturtledivers.com,zubludiving.com"
@@ -274,12 +274,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dreamwrecks.com,redsailcayman.com,blog.stevenwsmeltzer.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Named after Dr. James 'Jimmie' Poulson — Grand Cayman's first diving doctor who set up the hyperbaric chamber. Vessel is Japanese cable-laying ship, ~70-80ft long. Sunk 1981 or 1982 (sources differ). First artificial reef in Grand Cayman. Eagle rays, nurse sharks, turtles removed as unconfirmed site-specific residents. Parrotfish and schooling fish confirmed."
+      "validation_source": "dreamwrecks.com,redsailcayman.com,blog.stevenwsmeltzer.com,liveaboard.com",
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-checked against liveaboard.com — 1981 sinking date and 70-80ft length range reconfirmed as the majority figures; one outlier source states 100ft, kept as an acknowledged discrepancy rather than resolved. 1981/1982 date conflict persists across sources and remains flagged in the description. Named-after-Dr.-Poulson history and depth 15-18m reconfirmed. No new marine-life claims added."
     },
     "validated": true,
-    "validation_source": "dreamwrecks.com,redsailcayman.com,blog.stevenwsmeltzer.com"
+    "validation_source": "dreamwrecks.com,redsailcayman.com,blog.stevenwsmeltzer.com,liveaboard.com"
   },
   {
     "name": "Keith Tibbetts Wreck Cayman Brac",
@@ -296,8 +296,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dreamwrecks.com,scubadiverlife.com,freedomtourtravel.com,caymancompass.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "CRITICAL CORRECTION: Depth corrected from 50m to 26m (stern at ~85ft). Previous claim of 50m depth was incorrect. Ship is Koni II class (not generic 'Soviet frigate'). Hurricane Ivan (not generic '2004 storm') broke it in two. Named after Captain Keith Parker Tibbetts — Cayman Brac's first National Hero (seafarer, businessman, Legislative Assembly member). Marine life: Nassau grouper and snappers confirmed; former resident Goliath groupers (Boris and Doris) noted as not recently sighted. Eagle rays/turtles qualified as regional."
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-checked ship specs (330ft, Koni II class, built 1984 in USSR for Cuban Navy) against scubadiverlife.com — reconfirmed. Sinking date reconfirmed as 17 September 1996; Hurricane Ivan (2004) break reconfirmed. Keith Tibbetts biography (23 years in Legislative Assembly, first Cayman Brac National Hero honoured 2025) reconfirmed via independent search aggregation. One source phrase ('renamed after a local dive operator') appears to be templated/copied across multiple dive-shop sites and could not be resolved into a coherent, distinct fact — not added to markdown. No corrections needed to existing content."
     },
     "validated": true,
     "validation_source": "dreamwrecks.com,scubadiverlife.com,freedomtourtravel.com,caymancompass.com"
@@ -316,12 +316,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "diveredsailcayman.com,underwaterphotography.com,diveadvisor.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Three converging coral canyons on West Wall confirmed. Site is NOT true caves — coral canyon swim-throughs with natural light throughout. The Firm (1993) film connection confirmed. Marine life: tarpon, barracuda at exits, spotted lobster, silversides (seasonal), reef fish confirmed. Nurse sharks in canyon bases qualified as occasional."
+      "validation_source": "diveredsailcayman.com,underwaterphotography.com,diveadvisor.com,yachtscaymans.com",
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-confirmed against yachtscaymans.com — three converging coral canyons on the West Wall near Northwest Point, max depth ~24m (just over 24m/79ft cited), The Firm (1993) connection all reconfirmed. No corrections needed."
     },
     "validated": true,
-    "validation_source": "diveredsailcayman.com,underwaterphotography.com,diveadvisor.com"
+    "validation_source": "diveredsailcayman.com,underwaterphotography.com,diveadvisor.com,yachtscaymans.com"
   },
   {
     "name": "Mixing Bowl Little Cayman",
@@ -337,11 +337,11 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "littlecaymandivers.com,cayman-islands.greatestdivesites.com,cita.ky",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Also known as Three Fathom Wall. Starts at approximately 18ft (5.5m). Junction of Bloody Bay Wall and Jackson Bight confirmed. Marine life: Caribbean reef sharks, nurse sharks, horse-eye jacks, sea turtles, yellow-headed jawfish, Bermuda chubs, eagle rays, groupers, snappers all confirmed by Little Cayman Divers site-specific accounts."
+      "validation_source": "littlecaymandivers.com,cayman-islands.greatestdivesites.com,justgottadive.com",
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23 — SOURCE SWAP: the previously cited cita.ky 'Dive 365: Mixing Bowl' page now returns 404 (CITA has removed its Dive 365 site-guide pages site-wide, confirmed by checking cita.ky root nav). Replaced with justgottadive.com, which independently confirms: junction of Bloody Bay Wall/Jackson's Bight, vertical wall to 45ft sandy area on one side, shallow 18ft reef on the other, sponges/sea fans/coral, and popularity as a night dive. Also known as Three Fathom Wall reconfirmed. Marine life list (reef sharks, jacks, turtles, jawfish, chubs, eagle rays, groupers, snappers) reconfirmed by Little Cayman Divers."
     },
     "validated": true,
-    "validation_source": "littlecaymandivers.com,cayman-islands.greatestdivesites.com,cita.ky"
+    "validation_source": "littlecaymandivers.com,cayman-islands.greatestdivesites.com,justgottadive.com"
   }
 ]

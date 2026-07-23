@@ -29,7 +29,7 @@ Eagle Ray Pass is one of Grand Cayman's most celebrated North Wall dive sites, f
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Moderate — can run along the wall
 - **Water Temperature**: 26–29°C (79–84°F)
-- **Best Time**: Year-round (December–April for calmest conditions)
+- **Best Time**: Year-round; December–April for calmest conditions, April–October cited by some operators as the stronger window for eagle ray sightings specifically
 
 ## Marine Life
 
@@ -49,6 +49,7 @@ Boat dive with mooring buoys at the site or operator-managed deployment. All Nor
 - Approach eagle ray groups slowly and horizontally — hovering neutral in their path is more effective than pursuing
 - The coral formations in the pass reward slow exploration — there is more to see than a quick swim-through
 - Nitrox extends no-decompression time at the working depths on this site
+- Some North Wall operators cite April–October as the more reliable window for eagle ray encounters, separate from the calmer December–April sea conditions
 - Combine with Trinity Caves or Doc Poulson for a complete North Wall day
 
 ## Safety Considerations
@@ -60,4 +61,4 @@ The 30-meter maximum depth requires careful no-decompression limit management. V
 Eagle Ray Pass is one of Grand Cayman's premier photography sites. Eagle ray groups in formation against the infinite blue wall backdrop are iconic Caribbean images. The coral chasm with its towering formations provides dramatic architectural wide-angle compositions. Black coral and gorgonian fans reward close-up macro work with a strobe. An underwater video light improves colors on the chasm walls during the descent.
 
 ---
-*Sources: [IBDivingMon – Eagle Ray Pass](https://ibdivingmon.com/dive-site-reviews-and-listings/dive-sites/scuba-diving-grand-cayman-eagle-ray-pass/), [XtremeSpots – Eagle Ray Pass Grand Cayman](https://www.xtremespots.com/water-sports/scuba-diving/eagle-ray-pass-grand-cayman-cayman-islands/), [Steven W. Smeltzer Blog – Eagle Ray Pass](https://blog.stevenwsmeltzer.com/dive-site-reviews/grand-cayman-dive-site-reviews/dive-sites/scuba-diving-grand-cayman-eagle-ray-pass/). Last updated 2026-05-20.*
+*Sources: [IBDivingMon – Eagle Ray Pass](https://ibdivingmon.com/dive-site-reviews-and-listings/dive-sites/scuba-diving-grand-cayman-eagle-ray-pass/), [XtremeSpots – Eagle Ray Pass Grand Cayman](https://www.xtremespots.com/water-sports/scuba-diving/eagle-ray-pass-grand-cayman-cayman-islands/), [Steven W. Smeltzer Blog – Eagle Ray Pass](https://blog.stevenwsmeltzer.com/dive-site-reviews/grand-cayman-dive-site-reviews/dive-sites/scuba-diving-grand-cayman-eagle-ray-pass/), [DiveSSI – Eagle Ray Pass](https://www.divessi.com/en/mydiveguide/divesite/eagle-ray-pass-cayman-islands-299251). Last updated 2026-07-23.*
