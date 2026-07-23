@@ -26,7 +26,7 @@ Christmas Island is a notable diving destination in the Oceania region with dept
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 20-29°C (68-84°F) with visibility of 15-40 meters (50-130 feet). Currents are generally variable.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod, maori wrasse, giant trevally.
+- **Marine Biodiversity**: The waters support diverse marine ecosystems including whitetip reef sharks, grey reef sharks, whale sharks, manta rays, sea turtles, spinner dolphins, and large pelagics such as trevally and barracuda. (Corrected 2026-07-23: earlier text listed great white sharks, grey nurse sharks, and dugongs, none of which are documented Christmas Island species in available sources — these were template artifacts and have been removed.)
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
 ## Additional Information
