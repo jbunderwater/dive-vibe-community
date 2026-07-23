@@ -21,7 +21,7 @@ Castle Rock is a well-known shore dive in Simon's Town on the western shore of F
 
 Water temperatures range from 8°C in winter to around 14°C in summer, driven by the Benguela Current, making this a cold-water destination requiring a 5mm or 7mm wetsuit. Visibility is highly variable — from 3 metres in surge conditions to 15 metres on calm summer days. The best diving typically occurs in calmer summer months (November to April), before sea breezes build in the afternoon.
 
-*Note: broadnose sevengill sharks were historically a signature species here ("Millers Point Shark Alley"), but a local Cape Town dive operator (Dive Team Cape Town) reports they have been elusive since 2016. Sevengill sharks have been removed as a reliable current sighting. Great white sharks are absent from False Bay since approximately 2017–2018.*
+*Note: broadnose sevengill sharks were historically a signature species here ("Millers Point Shark Alley"), but a local Cape Town dive operator (Dive Team Cape Town) reports they have been elusive since 2016. A 2026 re-audit (Cape RADD) traces the decline to a 2015 orca predation event that killed at least nine cow sharks in the immediate area, after which sharks partly relocated to the False Bay Yacht Club marina; sightings once numbering 10+ divers-at-a-time now occur roughly once a year at this site. Sevengill sharks remain removed as a reliable current sighting. Great white sharks are absent from False Bay since approximately 2017–2018.*
 
 ## Site Information
 
@@ -39,7 +39,7 @@ Water temperatures range from 8°C in winter to around 14°C in summer, driven b
 
 Cape fur seals are the signature sighting — playful and inquisitive, regularly encountered in the kelp. Pyjama sharks, spotted gully sharks, and shy sharks rest in the reef crevices. Other documented species include Cape knifejaw, Roman sea bream, snoek, klipvis (klipfish), nudibranchs, sea cucumbers, red bait (ascidians), brittle stars, and octopus.
 
-*Broadnose sevengill sharks, formerly a signature species at Castle Rock ("Millers Point Shark Alley"), have been reported as elusive since 2016 by local dive operators. They cannot be listed as a reliable sighting.*
+*Broadnose sevengill sharks, formerly a signature species at Castle Rock ("Millers Point Shark Alley"), have been reported as elusive since 2016 by local dive operators, a decline linked to a 2015 orca predation event. They cannot be listed as a reliable sighting.*
 
 ## Dive Profile
 
@@ -65,4 +65,4 @@ Cold water induces rapid heat loss — plan shorter dives if wearing a wetsuit i
 Castle Rock is excellent for wide-angle photography of seal interactions in the kelp canopy, and for macro work on the boulder surfaces where nudibranchs, sea slugs, and brittle stars are abundant. The kelp fronds backlit by surface light make strong atmospheric shots.
 
 ---
-*Sources: [Wikivoyage — Castle Rock](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Dive Team Cape Town — Castle Rock](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Castle Rock](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Dive Team Cape Town — Castle Rock](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Cape RADD — Where Did All the Cow Sharks Go?](https://www.caperadd.com/news/where-did-all-the-cow-sharks-go/). Last updated 2026-07-23.*

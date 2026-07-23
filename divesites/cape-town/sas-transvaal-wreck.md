@@ -17,7 +17,9 @@ SAS Transvaal Wreck is the northernmost of five scuttled vessels in Smitswinkel 
 
 ## Overview
 
-The SAS Transvaal (HMSAS Transvaal F602) was a Loch-class frigate of 2,000 tonnes displacement and 93.6 metres length, originally laid down on 20 January 1944 at Harland and Wolff in Belfast as HMS Loch Ard, and launched 2 August 1944. She was transferred to the South African Naval Defence Force during fitting-out and completed as HMSAS Transvaal on 21 May 1945. The vessel served in the South African Navy before being sold for scrap and scuttled in Smitswinkel Bay on 3 August 1978 to form an artificial reef.
+The SAS Transvaal (HMSAS Transvaal F602) was a Loch-class frigate of 93.6 metres length and 11.7–11.8 metre beam, originally laid down on 20 January 1944 at Harland and Wolff in Belfast as HMS Loch Ard, and launched 2 August 1944. She was transferred to the South African Naval Defence Force during fitting-out and completed as HMSAS Transvaal on 21 May 1945. The vessel served in the South African Navy before being sold for scrap and scuttled in Smitswinkel Bay on 3 August 1978 to form an artificial reef.
+
+*Sources report conflicting displacement figures: Wikivoyage and Southern Peninsula Explorer cite a rounded 2,000 tonnes, while Wikipedia gives 1,435 long tons (standard load) and 2,260 long tons (deep load) — a range of roughly 1,458–2,300 tonnes depending on loading condition. Length (93.6m) and beam agree across sources.*
 
 The wreck lies upright on a flat sandy bottom with its bow pointing northeast at 34 metres, making it one of the deepest of the five Smitswinkel wrecks. The main deck lies at approximately 29 metres. The wreck is deteriorating: the bow section has broken from the hull just aft of the foredeck winch and fallen over to starboard, and upper deck structures have collapsed, though the quarterdeck remains in relatively good condition with intact rudder and shaft brackets. Internal compartments in the central section are accessible via vertical shafts but are structurally unstable — penetration carries significant risk and should not be attempted without proper training and equipment.
 
@@ -49,4 +51,4 @@ Sponges, soft corals, sea fans, walking anemones, mauve sea cucumbers, and barre
 - Scorpionfish are easy to brush against; examine surfaces before touching
 
 ---
-*Sources: [Wikivoyage — SAS Transvaal](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/SAS_Transvaal), [Wikipedia — SAS Transvaal](https://en.wikipedia.org/wiki/SAS_Transvaal), [Southern Peninsula Explorer — SAS Transvaal](https://southernpeninsulaexplorer.co.za/shipwrecks-sas-transvaal/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — SAS Transvaal](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/SAS_Transvaal), [Wikipedia — SAS Transvaal](https://en.wikipedia.org/wiki/SAS_Transvaal), [Southern Peninsula Explorer — SAS Transvaal](https://southernpeninsulaexplorer.co.za/shipwrecks-sas-transvaal/). Last updated 2026-07-23.*

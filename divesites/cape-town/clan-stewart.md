@@ -2,7 +2,7 @@
 name: Clan Stewart
 lat: -34.1717192
 lng: 18.4304841
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 9
 entryType: shore
 siteType: wreck
@@ -28,7 +28,7 @@ This shallow shore dive sits at 7–9 metres in the Benguela's cold water, withi
 - **Location**: Mackerel Bay, Simon's Town, False Bay, Cape Town (~100m offshore from Mackerel Beach)
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 9 meters
 - **Depth Range**: 7–9 meters
 - **Water Temperature**: 10–18°C (False Bay) — 5mm wetsuit minimum
@@ -38,5 +38,7 @@ This shallow shore dive sits at 7–9 metres in the Benguela's cold water, withi
 
 The wreck is colonised by red bait ascidians, coralline algae, bryozoans, and nudibranchs — cold-water invertebrates typical of False Bay. No additional site-specific species are confirmed at this location by reviewed sources. Regional marine life in this area of False Bay includes reef fish and occasional Cape fur seal visits.
 
+*Difficulty upgraded from Beginner to Intermediate (2026-07-23 re-audit): cold False Bay water and an offshore wreck approach mean this does not meet a true "Beginner" bar despite the shallow 7-9m depth. Applying the destination-wide minimum-Intermediate policy for this cold-water kelp-forest destination.*
+
 ---
-*Sources: [SA History Online — SS Clan Stuart](https://sahistory.org.za/article/ss-clan-stuart), [Wikivoyage — SS Clan Stuart](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/SS_Clan_Stuart), [Scuba Shack Cape Town — Clan Stuart](https://scubashack.co.za/2017/05/16/the-clan-stuart-1914/). Last updated 2026-05-20.*
+*Sources: [SA History Online — SS Clan Stuart](https://sahistory.org.za/article/ss-clan-stuart), [Wikivoyage — SS Clan Stuart](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/SS_Clan_Stuart), [Scuba Shack Cape Town — Clan Stuart](https://scubashack.co.za/2017/05/16/the-clan-stuart-1914/). Last updated 2026-07-23.*

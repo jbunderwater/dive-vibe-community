@@ -46,4 +46,4 @@ Regional marine life includes cape rock lobster, octopus, and cold-water reef fi
 The NSRI has issued safety alerts at this site following diving injuries (August 2021). The collapsed steel and debris field are the primary hazard. Treat this as an external inspection dive only — do not attempt to penetrate unstable wreck structure.
 
 ---
-*Sources: [Wikipedia — BOS 400](https://en.wikipedia.org/wiki/BOS_400), [Atlas Obscura — BOS 400 Shipwreck](https://www.atlasobscura.com/places/bos-400-shipwreck), [NSRI Safety Alert — BOS 400](https://www.nsri.org.za/2021/08/nsri-safety-alert-after-2-males-injured-at-the-bos-400-wreck-sandy-bay-and-non-fatal-drowning-hartenbos/). Last updated 2026-05-20.*
+*Sources: [Wikipedia — BOS 400](https://en.wikipedia.org/wiki/BOS_400), [Atlas Obscura — BOS 400 Shipwreck](https://www.atlasobscura.com/places/bos-400-shipwreck), [NSRI Safety Alert — BOS 400](https://www.nsri.org.za/2021/08/nsri-safety-alert-after-2-males-injured-at-the-bos-400-wreck-sandy-bay-and-non-fatal-drowning-hartenbos/). Last updated 2026-07-23.*

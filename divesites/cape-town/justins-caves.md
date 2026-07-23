@@ -46,4 +46,4 @@ The reef hosts Cape sea urchins, dark sea cucumbers, spiny starfish, cape rock l
 - Entry from the roadside parking requires a brief surface swim — check conditions before committing
 
 ---
-*Sources: [Wikivoyage — Justin's Caves](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Justins_Caves), [Scuba Shack Cape Town — Nick's Caves / Justin's Caves](https://scubashack.co.za/2017/05/16/justins-caves/), [Apnea Addicts — Oudekraal](https://www.aaddicts.co.za/freediving/diving-oudekraal-cape-town-freediving/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Justin's Caves](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Justins_Caves), [Scuba Shack Cape Town — Nick's Caves / Justin's Caves](https://scubashack.co.za/2017/05/16/justins-caves/), [Apnea Addicts — Oudekraal](https://www.aaddicts.co.za/freediving/diving-oudekraal-cape-town-freediving/). Last updated 2026-07-23.*

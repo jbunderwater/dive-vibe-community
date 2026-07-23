@@ -42,6 +42,8 @@ All five are densely colonised by soft corals, sea fans, sponges, and anemones, 
 | MFV Princess Elizabeth | Steel side trawler (built 1962) | 27 Jun 1983 | 22m |
 | MFV Orotava | Fishing trawler (built 1958) | Aug 1983 | 24m |
 
+*Note: sources conflict on SAS Transvaal's displacement — Wikivoyage rounds to 2,000 tonnes while Wikipedia gives 1,435–2,260 long tons depending on load condition. See the [SAS Transvaal Wreck](sas-transvaal-wreck.md) page for detail.*
+
 ## Marine Life
 
 The wrecks are heavily colonised by soft corals, sea fans, sponges, nudibranchs, starfish, and anemones. Dense fish populations shelter in the superstructures and between deck plates. Bring a torch to illuminate the colours properly — ambient light at depth in the bay does not reveal the full range of the invertebrate growth.
@@ -58,4 +60,4 @@ Boat access only. Operators depart from Miller's Point slipway (approximately 4 
 - Always bring a torch — colours are dramatic but require light at depth
 
 ---
-*Sources: [Wikivoyage — SAS Transvaal](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/SAS_Transvaal), [Wikivoyage — SAS Good Hope](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/SAS_Good_Hope), [Scuba Shack Cape Town — Smitswinkel Bay](https://scubashack.co.za/2017/05/16/smitswinkel-bay/), [Just Gotta Dive — Smitswinkel Bay](https://www.justgottadive.com/dive_resources/travel_articles/diving-wrecks-smitswinkel-bay-south-africas-amazing-artificial-reef). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — SAS Transvaal](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/SAS_Transvaal), [Wikivoyage — SAS Good Hope](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/SAS_Good_Hope), [Scuba Shack Cape Town — Smitswinkel Bay](https://scubashack.co.za/2017/05/16/smitswinkel-bay/), [Just Gotta Dive — Smitswinkel Bay](https://www.justgottadive.com/dive_resources/travel_articles/diving-wrecks-smitswinkel-bay-south-africas-amazing-artificial-reef), [Wikipedia — SAS Transvaal](https://en.wikipedia.org/wiki/SAS_Transvaal). Last updated 2026-07-23.*

@@ -39,4 +39,4 @@ The granite corestone topography includes pinnacles, gullies, walls, overhangs, 
 Gully sharks are documented in the swim-throughs. Large short-tailed stingrays are sighted at the site. Basket stars, feather stars, sea fans, and sponges colonise vertical surfaces. Seasonal pelagic species include shoals of yellowtail. Seals occasionally visit, particularly during decompression stops.
 
 ---
-*Sources: [Wikipedia — Whittle Rock](https://en.wikipedia.org/wiki/Whittle_Rock), [Wikivoyage — Whittle Rock](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Whittle_Rock), [Scuba Shack Cape Town — Whittle Rock](https://scubashack.co.za/2017/05/16/whittle-rock/). Last updated 2026-05-20.*
+*Sources: [Wikipedia — Whittle Rock](https://en.wikipedia.org/wiki/Whittle_Rock), [Wikivoyage — Whittle Rock](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Whittle_Rock), [Scuba Shack Cape Town — Whittle Rock](https://scubashack.co.za/2017/05/16/whittle-rock/). Last updated 2026-07-23.*
