@@ -14,12 +14,12 @@
       "name": "Cali Ship Wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "underanendlesssky.com,morritts.com,redsailcayman.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Depth corrected from 28m to 9m — wreck lies in 2.7–9m. Length discrepancy noted (206ft vs 220ft) across sources; origin of rice cargo route not confirmed. Previous depth of 28m was incorrect."
+      "validation_source": "underanendlesssky.com,morritts.com,redsailcayman.com,padi.com,tortugadivers.com",
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-pulled underanendlesssky.com, padi.com, tortugadivers.com. Length 220ft confirmed by 2 sources (Under An Endless Sky, PADI); the '206ft' figure could not be re-confirmed this pass. Sinking date conflict found: majority of sources (Under An Endless Sky, Red Sail, Tortuga) say 9 Jan 1948 (leak at sea, run aground, burned, then dynamited); PADI's site page instead states 1944 due to 'severe weather' — flagged as a source conflict in the description rather than silently picking one. Depth 6-9m (20-30ft) reconfirmed by Red Sail and Tortuga. No changes to marine life claims (tarpon/angelfish already site-confirmed)."
     },
     "validated": true,
-    "validation_source": "underanendlesssky.com,morritts.com,redsailcayman.com"
+    "validation_source": "underanendlesssky.com,morritts.com,redsailcayman.com,padi.com,tortugadivers.com"
   },
   {
     "name": "USS Kittiwake Shipwreck",
@@ -43,12 +43,12 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,sunsethouse.com,scubadiverlife.com,caymannewsservice.com,ambassadordivers.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Challenger recovery corrected: ship recovered flight data recorder (not black box). Tropical Storm Nate (October 2017) confirmed as cause of port-side tipping. Length 251ft, displacement 1780 tons confirmed. Caribbean reef sharks and nurse sharks removed as site-specific residents — not confirmed in site-level sources."
+      "validation_source": "en.wikipedia.org,sunsethouse.com,scubadiverlife.com,caymannewsservice.com,ambassadordivers.com,divetech.com",
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23 — HALLUCINATION CORRECTED: The previous QA pass's claim that the Kittiwake 'recovered the Challenger's flight data recorder' is ITSELF FALSE and has been removed. Re-verified directly against en.wikipedia.org and divetech.com ('What did the Kittiwake do?'): the Space Shuttle Challenger was not equipped with a flight data recorder/black box at all — the Kittiwake recovered a large curved debris segment from the right Solid Rocket Booster (SRB) on 17 April 1986 from ~175 fsw. Description and qa_notes corrected accordingly. Length 251ft4in and displacement 1,780 tons reconfirmed directly against Wikipedia. Tropical Storm Nate (Oct 2017) cause of tipping reconfirmed."
     },
     "validated": true,
-    "validation_source": "en.wikipedia.org,sunsethouse.com,scubadiverlife.com,caymannewsservice.com,ambassadordivers.com"
+    "validation_source": "en.wikipedia.org,sunsethouse.com,scubadiverlife.com,caymannewsservice.com,ambassadordivers.com,divetech.com"
   },
   {
     "name": "Stingray City",
@@ -64,12 +64,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,redsailcayman.com,melissastraveljournal.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Population corrected to ~100 individuals (not 20-50 on busy days). Species corrected to Hypanus americanus (southern stingray). Depth corrected from 12m to 5m — the sandbar is 4-5m depth."
+      "validation_source": "en.wikipedia.org,redsailcayman.com,melissastraveljournal.com,doe.ky",
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-checked population figure against Cayman Islands Department of Environment (doe.ky) bi-annual survey reporting, run with Guy Harvey Research Institute — recent counts range ~90-113 individuals, broadly stable around 100; existing '~100' description reconfirmed as accurate and now cited to the official DOE source rather than tourism blogs alone. Species (Hypanus americanus) and depth (4-5m) reconfirmed, no changes."
     },
     "validated": true,
-    "validation_source": "en.wikipedia.org,redsailcayman.com,melissastraveljournal.com"
+    "validation_source": "en.wikipedia.org,redsailcayman.com,melissastraveljournal.com,doe.ky"
   },
   {
     "name": "Bloody Bay Wall",
@@ -85,12 +85,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "littlecaymandivers.com,explorecayman.com,atlasobscura.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Wall start depth corrected to approximately 5-6m (not 4m). Wall is 1 mile long with 12+ named sites. Marine life claims tightened — Nassau grouper specifically confirmed as habituated to divers."
+      "validation_source": "littlecaymandivers.com,explorecayman.com,atlasobscura.com,destination360.com",
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-checked wall start depth (18ft/~5.5m) and site count (destination360.com lists 22 named sites along Bloody Bay/Jackson Bight, consistent with 'a dozen+' framing) — no factual corrections needed. Nassau grouper habituation and 1-mile wall length reconfirmed."
     },
     "validated": true,
-    "validation_source": "littlecaymandivers.com,explorecayman.com,atlasobscura.com"
+    "validation_source": "littlecaymandivers.com,explorecayman.com,atlasobscura.com,destination360.com"
   },
   {
     "name": "Devil's Grotto",
@@ -106,12 +106,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "padi.com,travel.usnews.com,insidescuba.online",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Depth corrected from 12m to 15m. Location confirmed as adjacent to Eden Rock Diving Center, George Town. Silverside season confirmed as August-September. Marine life description expanded and sourced — turtles and angelfish moved to surrounding reef context, not confirmed as grotto interior residents."
+      "validation_source": "padi.com,travel.usnews.com,insidescuba.online,divephotoguide.com",
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Silverside season CORRECTED — multiple re-pulled sources (divephotoguide.com, general aggregation of dive blogs) most consistently describe June through August/early August as peak season, with some extending into September; the previous 'August-September only' framing was too narrow. Description widened to 'June-September, most reliable July-August'. Depth 4-15m and Eden Rock adjacency reconfirmed."
     },
     "validated": true,
-    "validation_source": "padi.com,travel.usnews.com,insidescuba.online"
+    "validation_source": "padi.com,travel.usnews.com,insidescuba.online,divephotoguide.com"
   },
   {
     "name": "Babylon Grand Cayman",
@@ -128,8 +128,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "oceanfrontiers.com,tortugadivers.com,padi.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Pinnacle top confirmed at ~14m (45ft), base extends to 30m+ with plate coral. Ocean Frontiers confirms as top-10 Caribbean dive. Site description corrected — Eagle rays and reef sharks removed as specific residents (not confirmed at site-level). Chromis, barracuda, stoplight parrotfish, queen angelfish confirmed by Ocean Frontiers."
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-pulled oceanfrontiers.com directly — pinnacle rising from 100ft+ to 45ft top reconfirmed verbatim; black coral, purple sea fans, barrel sponges, chromis, barracuda, stoplight parrotfish, queen angels all reconfirmed as site-specific. No corrections needed. Eagle rays/reef sharks remain correctly excluded as unconfirmed site-specific claims."
     },
     "validated": true,
     "validation_source": "oceanfrontiers.com,tortugadivers.com,padi.com"
@@ -149,8 +149,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "redsailcayman.com,divespot.app,scubadivingresource.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "CRITICAL CORRECTION: Previous coordinates (19.7083, -80.075) placed this site near Little Cayman — WRONG. Ghost Mountain is on Grand Cayman's North Wall, West Bay area. Confirmed coordinates approximately N19°24.138'/W81°23.141' (19.402, -81.386). Previous description referencing 'Little Cayman', 'Bloody Bay Wall', and 'Jackson Bight' was entirely wrong. Pinnacle top at ~15m (50ft). Marine life replaced with confirmed sponge/gorgonian description; eagle rays/sharks removed as unconfirmed site-specific claims."
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Coordinates and West Bay/North Wall location reconfirmed. Pinnacle top ~50ft/15m reconfirmed by independent re-search. Note: a cita.ky 'Dive 365: Ghost Mountain' page surfaced in search results describing a pass-through hole at ~110ft (33m) with a 'do not swim through' warning, but the live cita.ky page now 404s (CITA appears to have removed its Dive 365 site-guide pages entirely) — this detail could NOT be independently confirmed against live content and was deliberately NOT added to the markdown. Sponge/gorgonian marine life description reconfirmed, no changes."
     },
     "validated": true,
     "validation_source": "redsailcayman.com,divespot.app,scubadivingresource.com"
@@ -169,12 +169,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "diveredsailcayman.com,activecaribbeantravel.com,divetech.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Depth corrected from 25m to 30m (canyon exits wall at ~100ft/30m). Location corrected to Northwest Point (not generic 'West Side'). Difficulty noted as current-prone — can require Advanced conditions. Blacktip and Caribbean reef sharks confirmed as site-specific species by dive sources."
+      "validation_source": "diveredsailcayman.com,activecaribbeantravel.com,divetech.com,divebooker.com",
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-checked depth against divebooker.com, which describes 'best diving depth' at 30-40m (98-130ft) for advanced divers extending along the wall beyond the 30m recreational exit point already on file — noted in markdown as an option for advanced divers rather than changing the primary max depth field. Northwest Point location, blacktip/Caribbean reef shark sightings, and current-prone conditions all reconfirmed."
     },
     "validated": true,
-    "validation_source": "diveredsailcayman.com,activecaribbeantravel.com,divetech.com"
+    "validation_source": "diveredsailcayman.com,activecaribbeantravel.com,divetech.com,divebooker.com"
   },
   {
     "name": "Balboa Wreck",
@@ -182,7 +182,7 @@
     "lon": -81.3667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 10,
+    "depth": 12,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -191,8 +191,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "redsailcayman.com,tortugadivers.com,numa.net",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "CRITICAL CORRECTION: Depth corrected from 32m to 10m — wreck debris lies in 8-10m, NOT 32 meters. Dynamiting date confirmed as 1957 (not vague 'subsequently'). Sinking date confirmed as 1932 hurricane. Good night dive per local operators. Propeller claim retained but qualified as needing local operator confirmation."
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Depth WIDENED from 10m to 12m — tortugadivers.com gives 25-40ft (7.6-12.2m), a wider range than the previously recorded flat 10m; JSON depth field updated to 12m (upper bound) and markdown now states the 7.6-12m range explicitly. 1,389 gross tons / 375ft length reconfirmed via web cross-check (caymancompass.com wreck listing could not be re-fetched this pass — blocked by 403 — so it was not added as a source). Three-bladed propellers CONFIRMED as visible surviving structure by 2 independent sources (Red Sail, Tortuga) — the previous 'needs verification' hedge has been removed. One source (NUMA) recounts an unverified single-source anecdote about the captain funding a waterfront church with salvaged cargo proceeds — NOT added to markdown per 2-source historical-fact rule (no corroboration found)."
     },
     "validated": true,
     "validation_source": "redsailcayman.com,tortugadivers.com,numa.net"
@@ -212,8 +212,8 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "activecaribbeantravel.com,caymanturtledivers.com,ambassadordivers.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Site-specific sources not found for Chinese Wall specifically. Description based on South Side wall characteristics. Validated=false because 3 independent site-specific sources could not be confirmed. Marine life updated to reflect regional South Side characteristics only."
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-searched specifically for 'Chinese Wall' Grand Cayman South Side — still no site-specific source found (only generic South Side wall-diving pages, e.g. activecaribbeantravel.com noting South Side walls start ~70ft). validated remains false per policy — left as unresolved rather than padded with weak sources."
     },
     "validated": false,
     "validation_source": "activecaribbeantravel.com,caymanturtledivers.com,ambassadordivers.com"
@@ -232,12 +232,12 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "ibdivingmon.com,xtremespots.com,blog.stevenwsmeltzer.com",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Depth corrected from 36m to 30m (pass exits at ~100ft/30m). Location confirmed as North Wall (45 min from West Side via North Sound). Spotted eagle rays, grouper at cleaning stations, lobster, stingrays on sand chutes, moray eels confirmed as site-specific. Caribbean reef sharks not confirmed as regular Eagle Ray Pass residents."
+      "validation_source": "ibdivingmon.com,xtremespots.com,blog.stevenwsmeltzer.com,divessi.com",
+      "last_qa_date": "2026-07-23",
+      "qa_notes": "RE-AUDIT 2026-07-23: Re-checked against divessi.com — average depth 16m/52.5ft, max depth 30m/98.4ft reconfirmed matching existing 30m figure. Best season April-October reconfirmed by an independent source and added as a markdown tip. Spotted eagle rays, groupers, moray eels reconfirmed as site-specific; Caribbean reef sharks remain correctly unconfirmed as regular residents."
     },
     "validated": true,
-    "validation_source": "ibdivingmon.com,xtremespots.com,blog.stevenwsmeltzer.com"
+    "validation_source": "ibdivingmon.com,xtremespots.com,blog.stevenwsmeltzer.com,divessi.com"
   },
   {
     "name": "Japanese Garden Grand Cayman",
