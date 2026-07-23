@@ -2,13 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "british-virgin-islands",
-    "cabo-pulmo",
-    "california-channel-islands",
-    "canada",
-    "cape-town",
-    "cayman-islands",
-    "christmas-island",
     "chuuk-lagoon",
     "cocos-island",
     "coiba-national-park",
@@ -175,7 +168,14 @@
     "bermuda",
     "bocas-del-toro",
     "bonaire",
-    "british-columbia"
+    "british-columbia",
+    "british-virgin-islands",
+    "cabo-pulmo",
+    "california-channel-islands",
+    "cape-town",
+    "cayman-islands",
+    "christmas-island",
+    "canada"
   ],
   "history": [
     {
@@ -2299,6 +2299,95 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/109",
+      "errors": []
+    },
+    {
+      "date": "2026-07-23",
+      "slugs": [
+        "british-virgin-islands",
+        "cabo-pulmo",
+        "california-channel-islands",
+        "cape-town",
+        "cayman-islands",
+        "christmas-island"
+      ],
+      "notes": "canada popped from queue alongside today's slugs but skipped -- isGroup=true parent slug with no own osm_clean/divesites data; its children (british-columbia, nova-scotia, vancouver-island, newfoundland) are elsewhere in queue/history.",
+      "summary": {
+        "sites_total": 127,
+        "sites_validated_today": 43,
+        "sites_re_audited": 109,
+        "hallucinations_removed": 11,
+        "marine_life_stripped": 11,
+        "wreck_conflicts_flagged": 8,
+        "sites_unresolved": 29,
+        "by_destination": {
+          "british-virgin-islands": {
+            "sites_total": 59,
+            "sites_validated_today": 0,
+            "sites_re_audited": 41,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 18,
+            "notes": "Corrected a false 'Fearless is a Calypso sister ship' claim (real sole sister ship is USS YMS-328) and a mislabeled Coral Gardens aircraft (Short 330-200, not '360'). Chikuzen length (240ft vs 246ft) and Wreck Alley depth (3-20m vs 26-27m for the wreck cluster) documented as source conflicts. Also fixed an internal difficulty-table bug on Wreck Alley. 18 of 59 sites left un-re-audited this pass, budget-limited; still validated=true from the 2026-05-20 pass, no evidence of problems found."
+          },
+          "cabo-pulmo": {
+            "sites_total": 12,
+            "sites_validated_today": 11,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "Removed unconfirmed jack-tornado claims at El Cantil/El Bajo (spectacle only holds for neighboring Los Morros) and an unconfirmed octopus claim at Los Chopitos. Overview.md biomass figure corrected 461%->463% (peer-reviewed PLOS ONE study). El Vencedor wreck conflicts (vessel type, length, sinking date) documented across 6 sources instead of guessed. Prior top source cabopulmodiving.com found dead/suspended -- replaced site-wide with live domains. Las Navajas' 3 prior sources re-checked and none actually cover the site by name; left validated=true per instructions but flagged with a qa_note for further research."
+          },
+          "california-channel-islands": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "Ex-Tortuga's 'not deliberately sunk' claim reversed (2 sources confirm it was towed and scuttled); S.S. Chickasaw's implicit 'still intact' framing corrected (almost nothing remains visible, rarely dived). Ex-Tortuga final-disposition and La Jenelle hull-length conflicts documented. Restored a previously-removed Equator detail (post-sinking hull-opening explosives) after direct-source confirmation it was true, not fabricated. Cold-water Intermediate-minimum satisfied on all 10 sites."
+          },
+          "cape-town": {
+            "sites_total": 22,
+            "sites_validated_today": 0,
+            "sites_re_audited": 22,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 8,
+            "notes": "KEY FINDING: 4 sites (Long Beach Kelp Forest, Nolloth, Phyllisia Shipwreck, Clan Stewart) were mislabeled Beginner despite the cold-water minimum-Intermediate rule -- fixed all four. SAS Transvaal displacement conflict (1,435-2,260 long tons vs a rounded '2,000 tonnes') documented. Refreshed sevengill-shark sourcing on 3 sites with a new source (Cape RADD) confirming the 2015 orca-predation decline. 8 sites (A-Frame, Smitswinkel Bay Wrecks, Tafelberg Reef, Justin's Caves, Outer Castle, Antipolis, Whittle Rock, Het Huis te Kraaienstjin) could not be freshly re-verified because scubashack.co.za was down site-wide during this session -- left unchanged, flagged for re-check."
+          },
+          "cayman-islands": {
+            "sites_total": 16,
+            "sites_validated_today": 14,
+            "sites_re_audited": 16,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 2,
+            "notes": "Corrected a prior QA pass's own hallucination: USS Kittiwake recovered Space Shuttle Challenger debris (a Solid Rocket Booster segment) on 17 Apr 1986, not a 'flight data recorder' (the shuttle had none). Cali Ship Wreck sinking-date conflict (1948 vs 1944) and Doc Poulson's 1981-vs-1982/length conflict documented. Dead source domain cita.ky swapped for a live corroborating one at Mixing Bowl. Chinese Wall and Japanese Garden remain unvalidated -- fewer than 3 independent site-specific sources found."
+          },
+          "christmas-island": {
+            "sites_total": 8,
+            "sites_validated_today": 8,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Confirmed this is the Australian Indian Ocean Territory Christmas Island, not Kiribati/Kiritimati. KEY FINDING: 'The Grotto' was fabricated as a 12m scuba site with Beginner->Intermediate-worthy depth; its actual sources describe a ~1m swim/snorkel pool -- corrected depth and difficulty. Removed unsupported dolphin/manta/whale-shark claims at Perpendicular Wall and a turtle claim at Flying Fish Cove. No wreck-type sites in this destination."
+          },
+          "canada": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data file (no osm_clean or divesites directory); its children (british-columbia, nova-scotia, vancouver-island, newfoundland) are elsewhere in the queue/history and covered on their own days."
+          }
+        }
+      },
+      "pr_url": null,
       "errors": []
     }
   ]
