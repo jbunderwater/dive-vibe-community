@@ -60,7 +60,7 @@ Mercurious Rock's cave interior offers rare dramatic cavern photography opportun
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/great-tobago/), [Jost Van Dyke Scuba](https://jostvandykescuba.com/diving/dive-sites/), [BVI Sail – Great Tobago Island](https://www.bvisail.com/yacht-charter-destinations/british-virgin-islands-yacht-charters/great-tobago-island/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/great-tobago/), [Jost Van Dyke Scuba](https://jostvandykescuba.com/diving/dive-sites/), [BVI Sail – Great Tobago Island](https://www.bvisail.com/yacht-charter-destinations/british-virgin-islands-yacht-charters/great-tobago-island/). Last updated 2026-07-23.*

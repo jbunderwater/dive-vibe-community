@@ -60,7 +60,7 @@ The high colour saturation of the reef — dense soft corals and hard coral stru
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rhone-reef/), [Worldwide Boat – Rhone National Marine Park](https://www.worldwideboat.com/destinations/bvi/details/rhone-national-marine-park), [Blue Water Divers BVI](https://bluewaterdiversbvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rhone-reef/), [Worldwide Boat – Rhone National Marine Park](https://www.worldwideboat.com/destinations/bvi/details/rhone-national-marine-park), [Blue Water Divers BVI](https://bluewaterdiversbvi.com/dive-sites/). Last updated 2026-07-23.*

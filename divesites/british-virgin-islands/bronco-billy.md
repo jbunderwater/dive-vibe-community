@@ -60,7 +60,7 @@ The canyon walls are ideal for close-focus wide-angle shots, particularly when i
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/bronco-billy/), [BVI Diving](https://www.bvidiving.com/diving-bronco-billys.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/bronco-billy/), [BVI Diving](https://www.bvidiving.com/diving-bronco-billys.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-07-23.*

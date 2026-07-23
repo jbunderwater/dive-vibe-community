@@ -60,7 +60,7 @@ The combination of colorful pinnacle surfaces, schooling horse-eye jacks, and fa
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-invisibles/), [Dive BVI](https://divebvi.com/dive-sites/), [Scuba Diving Magazine – BVI Top 10](https://www.scubadiving.com/destination-top-10-british-virgin-islands). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-invisibles/), [Dive BVI](https://divebvi.com/dive-sites/), [Scuba Diving Magazine – BVI Top 10](https://www.scubadiving.com/destination-top-10-british-virgin-islands). Last updated 2026-07-23.*

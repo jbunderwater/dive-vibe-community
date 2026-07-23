@@ -60,7 +60,7 @@ The upright orientation of the wreck allows dramatic exterior wide-angle shots f
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Diving – Inganess Bay](https://www.bvidiving.com/diving-wreck-of-the-inganess-bay.html), [BVI Dive Map](https://bvi-dive-map.com/site/inganess-bay/), [BVI Wreck Week – Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Scuba](https://bviscuba.org/destinations/wreck-alley/). Last updated 2026-05-20.*
+*Sources: [BVI Diving – Inganess Bay](https://www.bvidiving.com/diving-wreck-of-the-inganess-bay.html), [BVI Dive Map](https://bvi-dive-map.com/site/inganess-bay/), [BVI Wreck Week – Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Scuba](https://bviscuba.org/destinations/wreck-alley/). Last updated 2026-07-23.*

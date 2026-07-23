@@ -61,7 +61,7 @@ Painted Walls offers some of the best wide-angle reef photography in the BVI. Th
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/painted-walls/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [BVI Diving](https://www.bvidiving.com/diving-painted-walls.html), [DiveBuddy](http://www.divebuddy.com/divesite/3042/painted-walls-rainbow-canyon-virgin-islands-british/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/painted-walls/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [BVI Diving](https://www.bvidiving.com/diving-painted-walls.html), [DiveBuddy](http://www.divebuddy.com/divesite/3042/painted-walls-rainbow-canyon-virgin-islands-british/). Last updated 2026-07-23.*

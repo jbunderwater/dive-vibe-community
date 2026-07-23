@@ -60,7 +60,7 @@ The Aquarium is an outstanding photography site. The granite boulder formations,
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-aquarium/), [Aerial BVI Dive Guide](https://aerialbvi.com/blog/bvi-scubadiving-guide/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-aquarium/), [Aerial BVI Dive Guide](https://aerialbvi.com/blog/bvi-scubadiving-guide/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-07-23.*
