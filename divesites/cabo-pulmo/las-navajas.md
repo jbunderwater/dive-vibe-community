@@ -14,7 +14,7 @@ addedBy: osm_import
 # Las Navajas
 
 ## Overview
-Las Navajas features deep canyons and rocky formations within Cabo Pulmo National Marine Park. The site is known for shark and ray encounters — reef sharks patrol the canyon edges and stingrays rest on the sandy bottom between formations. Parts of the site are shallow enough for snorkeling, making it one of the park's more versatile locations. The canyon topography creates sheltered areas where diverse reef fish congregate, and the varied depth profile offers something at every level down to 15 meters. Schools of jacks and snappers move through the canyons, alongside the resident reef shark population.
+Las Navajas is a boat- and kayak/SUP-accessible reef point at the Punta Cabo Pulmo end of the park, reached in only a few minutes from shore. On re-audit, the "deep canyons" and "resident reef shark" characterization in the previous version of this page could not be confirmed by any current source and has been removed — three independent sources (Marquis Los Cabos, Brooke Beyond, and a Mexican-press feature in El Universal) instead describe the site's signature feature as massive, tightly packed schools of fish passing close to divers and snorkelers, driven by seasonal cold-water currents. Two of the three sources specifically describe schools of tuna; the El Universal account instead describes dense schools of snapper (pargos) passing within a meter of the surface, occurring roughly once a month. Humpback whale sightings are also reported at the site by two of the three sources. No source gave a confirmed maximum depth, canyon topography, or shark/ray sightings specific to this site; the depth and difficulty rating below reflect the prior gap-fill estimate and have not been independently re-verified this cycle.
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
@@ -27,15 +27,15 @@ Las Navajas features deep canyons and rocky formations within Cabo Pulmo Nationa
 - **Best Time**: Year-round
 
 ## Marine Life
-Reef sharks, rays, tropical reef fish in the canyon formations. The combination of rock structure and sand channels creates habitat variety that supports both pelagic visitors and resident reef species.
+Dense schools of tuna and/or snapper (sources differ on species) are the site's defining spectacle, along with reef fish typical of the park. Humpback whales are seasonally sighted from the surface here (roughly December–March, consistent with park-wide whale season). No source confirmed reef sharks, rays, or other pelagic species specifically at this site — earlier text naming them has been removed pending confirmation.
 
 ## Dive Profile
-Canyon topography from shallow sections (suitable for snorkeling) down to 15 meters. Navigate through the rock formations and along canyon walls, checking sandy areas between structures for resting rays. The 45-minute park dive limit applies.
+A short boat ride (or kayak/SUP paddle) from Punta Cabo Pulmo. Divers and snorkelers position themselves to observe the passing fish schools, which one source describes as occurring roughly monthly with the arrival of cold-water currents. Specific depth profile and topography were not confirmed by sources consulted this cycle — treat the site as accessible to both snorkelers and divers based on available accounts, and follow your guide's briefing for the day's conditions.
 
 ## Tips and Recommendations
-- Good site for combining a dive and snorkel on the same visit
-- Check canyon floors and overhangs for resting sharks and rays
-- Relatively sheltered — a good option when conditions are rough at outer sites
+- Good site for combining a dive and snorkel/kayak outing on the same visit
+- Ask your guide about recent current conditions — the signature fish-school spectacle is current-driven and not guaranteed on every visit
+- Keep an eye toward the surface during whale season (December–March)
 
 ---
-*Sources: [Cabo Pulmo Diving](https://cabopulmodiving.com/our-gourmet-diving-menu/), [ScubaBoard – Cabo Pulmo Best Practices](https://scubaboard.com/community/threads/cabo-pulmo-best-practices.626751/), [Dive O'Clock](https://www.diveoclock.com/destinations/Latin-America/Mexico/Cabo_Pulmo/). Last updated 2026-05-20.*
+*Sources: [Marquis Los Cabos](https://www.marquisloscabos.com/our-journal/baja-discover-cabo-pulmo), [Brooke Beyond](https://brookebeyond.com/a-complete-guide-to-visiting-cabo-pulmo-national-park-in-baja), [El Universal](https://archivo.eluniversal.com.mx/articulos/77439.html). Note: cabopulmodiving.com, ScubaBoard, and Dive O'Clock — the three sources previously cited — were re-checked during this audit and none of them actually mention Las Navajas by name with site-specific detail; they have been replaced. Last updated 2026-07-24.*

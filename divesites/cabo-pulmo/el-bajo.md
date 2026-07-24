@@ -14,7 +14,7 @@ addedBy: osm_import
 # El Bajo
 
 ## Overview
-El Bajo (also known as "El Bajo de los Meros") is a long reef bar running roughly 800 metres north-south with sand channels on both sides. One of the most biologically rich sites in the Sea of Cortez, it hosts multiple coral species making it the northern anchor of the park's reef system. Large grouper schools patrol the reef top, garden eels populate the sandy margins, and sea turtles cruise through regularly. Seasonal visitors include mobula rays, and the site is one of the two primary locations in the park for witnessing the famous "jack tornado" — a massive swirling vortex of bigeye trevally dense enough to block sunlight. Nudibranchs and frogfish reward patient macro divers along the coral heads. The best jack schools are typically seen from July through October when visibility is at its peak.
+El Bajo is an elongated reef bar with sand channels on both sides, anchoring the northern end of the park's central reef complex (the "El Bajo de los Meros" name applies to the adjacent Meros extension, not El Bajo itself — corrected on re-audit). One of the most biologically rich sites in the Sea of Cortez, one source (Girls That Scuba) reports it holds 12 of the 14 hard coral species found worldwide in Sea of Cortez waters. Volcanic rock ridges cut through by sandy channels support colorful starfish populations (red, purple, white, and yellow) and sponges. Large grouper schools (including leopard grouper) patrol the reef top, and sea turtles cruise through regularly. Seasonal visitors include mobula rays, and the site is one of the primary locations in the park for witnessing the famous "jack tornado" — a massive swirling vortex of bigeye trevally dense enough to block sunlight.
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
@@ -27,16 +27,15 @@ El Bajo (also known as "El Bajo de los Meros") is a long reef bar running roughl
 - **Best Time**: Year-round; seasonal mantas and jack aggregations peak October-May
 
 ## Marine Life
-Large grouper schools (including leopard groupers), garden eels, sea turtles, seasonal mobula rays, nudibranchs, frogfish, porkfish, grunts, diverse hard corals. Bigeye trevally form the park's iconic jack tornado formations. Reef conditions and diverse structure also attract angelfish, pufferfish, and multiple eel species.
+Leopard and other grouper species, sergeant majors, angelfish, pufferfish, cabrilla, five reported eel species, rays, grunts, sea turtles, seasonal mobula rays, lobster, and multicolored starfish on the sand channels. Bigeye trevally form the park's iconic jack tornado formations here. Note: nudibranchs, frogfish, and porkfish were named in an earlier version of this page but could not be confirmed for this specific site by any source consulted this cycle, and have been removed.
 
 ## Dive Profile
-Depths range from 9 to 18 meters along the reef bar. Most divers follow the bar north-south, exploring coral formations on the top and checking the sand channels on either side. The 45-minute park dive limit applies. Currents are generally mild but can pick up near the canyon edge.
+Depths range from roughly 9 to 18 meters along the reef bar. Most divers follow the bar, exploring coral and volcanic rock formations on top and checking the sand channels on either side for starfish and rays. The 45-minute park dive limit applies. Currents are generally mild but can pick up near the channel edges.
 
 ## Tips and Recommendations
-- Carry a macro lens for nudibranchs and frogfish on the coral heads
-- Check the sand channels on both sides of the bar for garden eels and resting turtles
+- Check the sand channels on both sides of the bar for starfish and resting turtles
 - Often combined with nearby Los Morros or Meros on the same boat trip
-- July–October offers the best visibility and most reliable jack tornado formations
+- Best visibility is typically reported in summer
 
 ---
-*Sources: [Cabo Pulmo Diving](https://cabopulmodiving.com/our-gourmet-diving-menu/), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*
+*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Girls That Scuba](https://www.girlsthatscuba.com/scuba-diving-cabo-pulmo-mexico/), [El Universal](https://archivo.eluniversal.com.mx/articulos/77439.html). Note: cabopulmodiving.com, previously cited, is no longer live (domain suspended) and was replaced during re-audit. Last updated 2026-07-24.*
