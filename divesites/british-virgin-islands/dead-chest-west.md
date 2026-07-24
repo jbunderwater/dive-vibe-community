@@ -61,7 +61,7 @@ The caves and overhangs are excellent subjects — a wide-angle lens with a stro
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-24
 
 ---
 *Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dead-chest-west/), [BVI Diving](https://www.bvidiving.com/diving-deadchest-west.html), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Peter_Island_Dead_Chest_West_dive_site.html). Last updated 2026-07-24.*

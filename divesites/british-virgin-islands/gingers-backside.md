@@ -24,7 +24,7 @@ Ginger's Backside faces north onto the Sir Francis Drake Channel from Ginger Isl
 - **Location**: North side of Ginger Island, Sir Francis Drake Channel, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner (BVI Dive Map lists Intermediate; Dive BVI and other operators list Novice — Beginner reflects the majority)
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: Good
 - **Current**: Low
@@ -33,7 +33,7 @@ Ginger's Backside faces north onto the Sir Francis Drake Channel from Ginger Isl
 
 ## Marine Life
 
-Ginger's Backside is particularly rich in macro subjects. Crabs, lobsters, and octopuses hide in reef crevices and are more commonly spotted here than at busier sites. Turtles are frequent visitors and comfortable around divers due to limited boat traffic. Barracuda and southern sennet (smaller barracuda) school in the water column. Nurse and reef sharks are reliably sighted, as are tarpons cruising through the site. Moray eels occupy rock formations throughout the reef. Porcupinefish and parrotfish are common at mid-depths. The diverse invertebrate life makes this a strong choice for macro photography.
+Confirmed site-specific sightings include crabs, lobsters, octopuses, turtles, barracuda, southern sennet, nurse and reef sharks, tarpons, moray eels, porcupinefish, and parrotfish. Sources describe the site as particularly rich in these invertebrate and macro subjects thanks to lighter boat traffic than at busier Norman Island sites.
 
 ## Dive Profile
 
@@ -47,8 +47,8 @@ Boat access via mooring buoy. Entry is back roll or giant stride. The calm chann
 
 - Bring a macro lens or camera — octopuses, crabs, and lobsters are the highlights of this site
 - Look carefully under ledges and in crevices; the macro subjects here require patience to spot
-- This site pairs well with a morning dive at Alice's Backside (the south face) or Ginger Steps
-- The calm conditions make it suitable for less experienced intermediate divers
+- This site is also called "Alice's Backside" or "Ginger's Patch" by some operators — it's the same north-facing site, not a separate dive; pair it with Alice in Wonderland or Ginger Steps on the south face for a full-island day
+- The calm conditions make it suitable for less experienced divers
 - Almost always diveable, making it a good backup when swells close other sites
 
 ## Safety Considerations
@@ -61,7 +61,7 @@ Ginger's Backside is among the best macro photography sites in the BVI. Octopuse
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-24
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/gingers-backside/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/gingers-backside/), [Dive BVI](https://divebvi.com/dive-sites-old/), [The Scuba Directory – Alice's Backside](https://thescubadirectory.com/divesiteprofile/Alice's-Backside-Ginger-Island-British-Virgin-Islands-Dive-Site). Last updated 2026-07-24.*

@@ -24,7 +24,7 @@ Markoe Point sits on the south side of Cooper Island, facing the open water sout
 - **Location**: South of Cooper Island, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Advanced (BVI Dive Map and BVI Diving rate Advanced; Dive BVI rates Intermediate)
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: Good
 - **Current**: Low
@@ -61,7 +61,7 @@ Markoe Point is well-suited to reef fish portraiture: the relatively undisturbed
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-24
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/markoe-point/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/markoe-point/), [BVI Diving](https://www.bvidiving.com/diving-markoe-point.html), [Dive BVI](https://divebvi.com/dive-sites-old/). Last updated 2026-07-24.*

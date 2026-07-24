@@ -60,7 +60,7 @@ The sandy-bottomed canyons are ideal for macro subjects: jawfish, blennies, seah
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-24
 
 ---
 *Sources: [BVI Dive Map](https://bvi-dive-map.com/site/angelfish-reef/), [BVI Diving](https://www.bvidiving.com/diving-angelfish-reef.html), [Last Stop Sports BVI](https://www.laststopsports.com/Dive_sites.htm), [ScubaBoard – Rhone Man's BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/). Last updated 2026-07-24.*

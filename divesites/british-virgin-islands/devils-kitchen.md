@@ -2,7 +2,7 @@
 name: Devil's Kitchen
 lat: 18.375082
 lng: -64.50017
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 15
 entryType: boat
 siteType: wall
@@ -17,14 +17,14 @@ A hidden gem on the eastern shore of Cooper Island, named for its fiery red wall
 
 ## Overview
 
-Devil's Kitchen sits on the eastern shoreline of Cooper Island, facing into the Sir Francis Drake Channel. The site takes its name from the vivid red encrusting sponges and corals that cover its rocky formations — when lit by a torch or in good ambient light, the wall appears to glow in reds and oranges. The exposed eastern aspect means the site is subject to significant swell and can be undiveable on rougher days, which is precisely why it stays less crowded than better-known Cooper Island sites. When conditions are right, it is considered a hidden gem: colorful, diverse in structure, and offering genuine wildlife encounters in the nooks and crannies of its rocky formations. Diveable depths reach 15 meters (50 feet).
+Devil's Kitchen sits on the eastern shoreline of Cooper Island, facing into the Sir Francis Drake Channel. The site takes its name from the vivid red encrusting sponges and corals that cover its rocky formations — when lit by a torch or in good ambient light, the wall appears to glow in reds and oranges. The exposed eastern aspect means the site is subject to significant swell and can be undiveable on rougher days, which is precisely why it stays less crowded than better-known Cooper Island sites. Operators disagree on its difficulty rating — one dedicated site database rates it Advanced, while another rates it Novice/Intermediate, and a diver trip report describes it as "almost impossible to get lost on" — so Intermediate is used here as the middle ground; the swell exposure, not technical complexity, is the main hazard. Diveable depths reach 15 meters (50 feet).
 
 ## Site Information
 
 - **Location**: Eastern shoreline of Cooper Island, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Intermediate (BVI Dive Map rates Advanced; Dive BVI rates Novice/Intermediate)
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: Good on calm days
 - **Current**: Low
@@ -33,7 +33,7 @@ Devil's Kitchen sits on the eastern shoreline of Cooper Island, facing into the 
 
 ## Marine Life
 
-The red wall and rocky formations shelter parrotfish, grunts, cherub fish, and sea breams in the open reef areas. Lobsters and turtles are reliably present around the coral structures. Tarpons cruise the water column near the site. The ledges and crevices harbor smaller invertebrates, and the swaying underwater plants respond to any surge, giving the site a dynamic quality. The concentration of color from encrusting sponges is the defining visual characteristic.
+Confirmed site-specific sightings include parrotfish, grunts, cherub fish (a juvenile angelfish), sea breams, turtles, lobsters, and tarpons around the rocky formations. The concentration of color from red and orange encrusting sponges is the defining visual characteristic.
 
 ## Dive Profile
 
@@ -49,7 +49,7 @@ Boat access only. The exposed eastern aspect means seas must be checked carefull
 - Bring a torch to fully appreciate the red and orange sponge coloring on the wall
 - Morning dives on calm days offer the best conditions
 - Swim slowly along the wall and check every ledge — the smaller subjects here are the real reward
-- The site's advanced rating is primarily due to swell and exposure, not depth or current
+- Any elevated difficulty rating here is primarily due to swell and exposure, not depth or current
 
 ## Safety Considerations
 
@@ -61,7 +61,7 @@ The red and orange sponge-covered wall is the main photographic subject — a wi
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-24
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/devils-kitchen/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/devils-kitchen/), [Dive BVI](https://divebvi.com/dive-sites-old/), [ScubaBoard – Rhone Man's BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/). Last updated 2026-07-24.*
