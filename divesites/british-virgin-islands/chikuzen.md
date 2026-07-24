@@ -70,7 +70,7 @@ The Chikuzen is one of the BVI's top wide-angle wreck subjects. The hull encrust
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-24
 
 ---
-*Sources: [BVI Diving](https://www.bvidiving.com/diving-wreck-of-the-chikuzen-bvi.html), [BVI Scuba](https://bviscuba.org/destinations/chikuzen/), [DreamWrecks](https://dreamwrecks.com/chikuzen-shipwreck-british-virgin-islands), [BVI Dive Map](https://bvi-dive-map.com/site/chikuzen/), [BVI Wreck Week](https://bviwreckweek.com/tours/chikuzen/). Last updated 2026-05-20.*
+*Sources: [BVI Diving](https://www.bvidiving.com/diving-wreck-of-the-chikuzen-bvi.html), [BVI Scuba](https://bviscuba.org/destinations/chikuzen/), [DreamWrecks](https://dreamwrecks.com/chikuzen-shipwreck-british-virgin-islands), [BVI Wreck Week](https://bviwreckweek.com/tours/chikuzen/). Last updated 2026-07-24.*
