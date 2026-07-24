@@ -17,7 +17,7 @@ Two sunken vessels resting near Peter Island — the Fearless, a wooden-hulled m
 
 ## Overview
 
-Fearless and Willy T is a twin-wreck dive site located approximately half a mile north of Great Harbour near Peter Island. The Fearless is a wooden-hulled minesweeper that multiple sources describe as a sister ship of Jacques Cousteau's Calypso — both belonged to the BYMS (British Yard Minesweeper) class of wooden motor minesweepers built during World War II. It sits upright on the sand at approximately 24 metres (80 feet). The wooden structure is heavily deteriorated and penetration is dangerous. The Willy T was a steel-hulled 100-foot floating bar and restaurant that became a beloved institution in the BVI's Norman Island area. Washed ashore during Hurricane Irma in September 2017, it was recovered and transformed by Beyond the Reef, a local nonprofit, into an underwater pirate-themed playground, then deliberately scuttled on August 7, 2019 at Key Bay off Peter Island. The Willy T now rests upright on the sand with the crow's nest at approximately 10 metres (35 feet) and the deck at approximately 20 metres (65 feet). The sinking was notable: it "landed perfectly upright on the sand between two coral heads." The nonprofit accepts $5 donations to support BVI children's swim programs. Both wrecks are wooden and fragile.
+Fearless and Willy T is a twin-wreck dive site located approximately half a mile north of Great Harbour near Peter Island. The Fearless is a wooden-hulled WWII-era minesweeper (one source dates its construction to 1942 in Seattle). Multiple dive-tourism sources (BVI Dive Map, DreamWrecks) describe it as "the sister ship" of Jacques Cousteau's Calypso, and Calypso herself was a converted wooden British Yard Minesweeper (BYMS-class) that Cousteau acquired in Malta in 1950. However, this "sister ship" claim is repeated only by dive/tourism sources, not by any Calypso-focused historical source identified in this review, and no source gives a specific hull/yard number tying the two vessels together — so it should be treated as a widely repeated but unconfirmed claim rather than an established fact. It sits upright on the sand at approximately 24 metres (80 feet). The wooden structure is heavily deteriorated and penetration is dangerous. The Willy T was a steel-hulled 100-foot floating bar and restaurant that became a beloved institution in the BVI's Norman Island area. Washed ashore during Hurricane Irma in September 2017, it was recovered and transformed by Beyond the Reef, a local nonprofit, into an underwater pirate-themed playground, then deliberately scuttled on August 7, 2019 at Key Bay off Peter Island. The Willy T now rests upright on the sand with the crow's nest at approximately 10 metres (35 feet) and the deck at approximately 20 metres (65 feet). The sinking was notable: it "landed perfectly upright on the sand between two coral heads." The nonprofit accepts $5 donations to support BVI children's swim programs. Both wrecks are wooden and fragile.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Fearless and Willy T is a twin-wreck dive site located approximately half a mile
 
 ## Marine Life
 
-Fairy basslets are present around both wrecks. Eagle rays and sea turtles are regularly sighted in the vicinity. Southern stingrays are reported near the sandy bottom around the wrecks. The Willy T's crow's nest has already become a fish aggregation point with reef fish inhabiting the structure.
+Dive BVI's site-specific page for the Willy T confirms the crow's nest has become a fish aggregation point worth inspecting closely. A resident barracuda was noted near the Fearless in an independent site visit (DreamWrecks). Beyond these two confirmed observations, no site-specific source in this review named the broader species lists (eagle rays, sea turtles, southern stingrays, fairy basslets) that appeared in an earlier version of this page; regional BVI reef fauna can be expected around both wrecks, but those specific claims have been removed as unconfirmed for this site.
 
 ## Dive Profile
 
@@ -60,7 +60,7 @@ The Willy T offers unique photo opportunities: pirate props, an intact superstru
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-24
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/fearless-willy-t/), [Dive BVI – Willy T Wreck](https://divebvi.com/dive-the-willy-t-wreck/), [DreamWrecks – The Fearless](https://dreamwrecks.com/fearless-shipwreck-british-virgin-islands), [BVI Wreck Week](https://bviwreckweek.com/), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/fearless-willy-t/), [Dive BVI – Willy T Wreck](https://divebvi.com/dive-the-willy-t-wreck/), [DreamWrecks – The Fearless](https://dreamwrecks.com/fearless-shipwreck-british-virgin-islands), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t). Last updated 2026-07-24.*

@@ -57,9 +57,9 @@ The variety of wrecks in different stages of marine colonisation creates interes
 
 ## Additional Resources
 
-- BVI Wreck Week annually features dives on all five Wreck Alley vessels
+- BVI Wreck Week features dives on Wreck Alley, sometimes combined with the nearby Inganess Bay wreck as part of the same excursion
 - Road Town dive operators including Blue Water Divers: include Wreck Alley on dive itineraries
 - Often combined with the RMS Rhone for a two-tank wreck diving day
 
 ---
-*Sources: [BVI Scuba - Wreck Alley](https://bviscuba.org/destinations/wreck-alley/), [BVI Wreck Week - Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Dive Map - Wreck Alley](https://bvi-dive-map.com/site/marie-l/), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t), [Reef Smart Guides](https://reefsmartguides.com/wreck-alley/). Last updated 2026-05-20.*
+*Sources: [BVI Scuba - Wreck Alley](https://bviscuba.org/destinations/wreck-alley/), [BVI Wreck Week - Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Dive Map - Wreck Alley](https://bvi-dive-map.com/site/marie-l/), [Reef Smart Guides](https://reefsmartguides.com/wreck-alley/), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t). Last updated 2026-07-24.*

@@ -14,10 +14,10 @@ Cabo Pulmo National Marine Park protects a 20,000-year-old coral reef system alo
 
 - **Wreck Diving**: El Vencedor — a tuna trawler on sand at 14 meters, the park's most famous site and primary location for seasonal bull shark encounters
 - **Reef Bar Systems**: El Bajo, Los Morros, and Meros form the park's central reef complex, home to the iconic jack tornado and diverse hard coral (7+ species)
-- **Wall & Canyon Diving**: El Cantil — the largest reef in the park with miniature canyons, swim-throughs, walls, and caves stretching two miles offshore. Las Navajas offers canyon topography with shark encounters
+- **Reef Canyon Diving**: El Cantil — one of the largest reef systems in the park, with miniature canyons, swim-throughs, and cavern-like structures (primarily a coral reef system, not a wall dive). Las Navajas is a boat/kayak-accessible point known for dense schooling fish and seasonal humpback whale sightings; specific canyon or shark claims from an earlier version of this page could not be confirmed on re-audit and were removed
 - **Deep Pelagic Sites**: La Esperanza and El Cien — outer reef drop-offs to 30 meters with bull sharks, nurse sharks, tuna schools, and mobula rays (Advanced only)
-- **Sea Lion Colony**: La Lobera — playful California sea lions interact with divers at 8 meters near Los Frailes
-- **Cave & Rock Formations**: Las Casitas — unique rock formations with cup corals and garden eels
+- **Sea Lion Colony**: La Lobera — resident California sea lion colony near Los Frailes
+- **Cave & Rock Formations**: Las Casitas — rock formations with caves, crevices, and swim-through passages colonized by hard and soft coral (the "cup coral" claim from an earlier version of this page was not confirmed by any source and was removed)
 - **Macro Diving**: Los Chopitos — shallow reef with invertebrates and small fish for patient photographers
 
 ### Accessibility
@@ -52,4 +52,4 @@ Cabo Pulmo National Marine Park protects a 20,000-year-old coral reef system alo
 - **Safety**: No hyperbaric chamber in Cabo Pulmo — nearest in Cabo San Lucas (2+ hours). The remote location means medical evacuation is slow. Dive conservatively. Advanced sites (La Esperanza, El Cien) have unpredictable currents and should only be attempted by experienced divers
 
 ---
-*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/), [Costa Coral Mexico](https://costacoralmexico.com/), [Dive O'Clock](https://diveoclock.com/). Last updated 2026-04-05.*
+*Sources: [Adventures in Baja](https://adventuresinbaja.com/), [Costa Coral Mexico](https://costacoralmexico.com/), [Cabo Pulmo Beach Resort](https://www.cabopulmo.com/), [Girls That Scuba](https://www.girlsthatscuba.com/). Note: cabopulmodiving.com, previously cited here, is no longer live (domain suspended) and was removed during the 2026-07-24 re-audit. Last updated 2026-07-24.*

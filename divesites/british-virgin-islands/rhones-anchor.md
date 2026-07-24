@@ -35,7 +35,7 @@ The anchor itself — approximately 3,000 pounds of iron — dropped to the sand
 
 ## Marine Life
 
-The anchor and its surrounding sandy floor support a coral-encrusted habitat. Blennies, ballan wrasses, and damselfish are commonly observed around the coral-covered anchor structure. The northern section of the site has better visibility and concentrates most fish activity. The sandy floor around the anchor hosts small invertebrates, and the coral-encrusted chain itself shelters a variety of small reef organisms. Occasional turtles and barracuda pass through in the open water.
+BVI Dive Map (the only site-specific source found for this exact location) confirms blennies, ballan wrasses, and damselfish around the coral-covered anchor, and notes that the northern part of the site has better visibility and the most fish activity. The additional claims of "occasional turtles and barracuda" could not be independently confirmed for this specific site and have been removed.
 
 ## Dive Profile
 
@@ -63,7 +63,9 @@ The anchor itself is the primary subject — wide-angle with a torch or strobe t
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-04-11 (re-audited 2026-07-24; unresolved — see note below)
+
+**Note on sourcing**: Only one source (BVI Dive Map) was confirmed in this review to describe this exact site ("Rhone's Anchor," between Fearless and Randy's Reef) with specific details. Wikipedia's RMS Rhone article supports the general historical background (the 1867 hurricane, the captain cutting the anchor loose) but does not describe today's dive site. BVI Diving's RMS Rhone page and BVI Scuba's diving-info page — both previously cited here — were checked directly in this pass and do **not** mention the anchor as a distinct site; they have been removed as unverified for this specific location. This entry does not meet the 3-independent-source standard and is flagged unresolved pending additional research.
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rhones-anchor/), [Wikipedia – RMS Rhone](https://en.wikipedia.org/wiki/RMS_Rhone), [BVI Diving](https://www.bvidiving.com/diving-rms-rhone-bvi.html), [BVI Scuba](https://bviscuba.org/diving-info/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rhones-anchor/). Background only (not site-specific confirmation): [Wikipedia – RMS Rhone](https://en.wikipedia.org/wiki/RMS_Rhone). Last updated 2026-07-24.*
