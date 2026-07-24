@@ -40,4 +40,4 @@ Circle the seamount from shallow coral areas down to the sandy base at 18 meters
 - Look for golden grouper at the deeper northern face
 
 ---
-*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort — Top 5 Dive Sites](https://www.cabopulmo.com/single-post/top-5-best-diving-sites-in-cabo-pulmo), [Baja Diving](https://bajadiving.com/cabo-pulmo/), [ScubaBoard — Cabo Pulmo Best Practices](https://scubaboard.com/community/threads/cabo-pulmo-best-practices.626751/). Re-audited 2026-07-24: golden grouper at the northern face and the eel species list were independently re-confirmed by Baja Diving. Last updated 2026-07-24.*

@@ -27,7 +27,7 @@ Los Morros is a series of massive rock formations covered in sea fans and corals
 - **Best Time**: Year-round; jack tornado most reliable October-May
 
 ## Marine Life
-Bigeye trevally (jack tornado formations), large groupers including Gulf groupers and Goliath groupers, schooling snapper, stingrays, moray eels, garden eels in sandy patches between formations. The sheer biomass at this site is what makes it exceptional — quantity as much as variety. Sea lions are occasionally observed transiting the area.
+Bigeye trevally (jack tornado formations), leopard grouper and other large groupers, schooling snapper, southern stingrays, whitetip reef sharks, green sea turtles, mobula rays, moray eels, garden eels in sandy patches between formations. One source (Cabo Pulmo Beach Resort) lists whale sharks and bull sharks as "possible" seasonal encounters, though not confirmed sightings. The sheer biomass at this site is what makes it exceptional — quantity as much as variety. Note: sea lions, named in an earlier version of this page, were not confirmed for this site by any source consulted this cycle and have been removed.
 
 ## Dive Profile
 Maximum depth of 18 meters along the broken reef. Most of the action happens in mid-water as the jack schools form and reform around divers. Stay neutrally buoyant in the water column to enjoy the spectacle without disturbing the reef below. The 45-minute park dive limit applies.
@@ -40,4 +40,4 @@ Maximum depth of 18 meters along the broken reef. Most of the action happens in 
 - Check the tunnel and crevice formations for resting groupers
 
 ---
-*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Dive O'Clock](https://www.diveoclock.com/destinations/Latin-America/Mexico/Cabo_Pulmo/), [Divearoo](https://divearoo.com/destinations/mexico/sea-of-cortez/cabo-pulmo). Last updated 2026-07-24.*

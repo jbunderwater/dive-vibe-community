@@ -14,7 +14,7 @@ addedBy: osm_import
 # Meros
 
 ## Overview
-Meros ("Groupers") is a northern reef bar that extends from El Bajo, featuring meandering coral and rock formations. Named for the groupers that congregate here, the site tends to have noticeably more sea turtles than adjacent El Bajo, and the grouper aggregations are its defining characteristic. Mobula rays are seen seasonally. During December through March, humpback whale songs are audible underwater across Cabo Pulmo — multiple divers report this at park sites in general, and Meros is one of the sites where this is mentioned by operators. Whale shark transits through the park area are possible seasonally but no source specifically confirmed whale shark sightings at Meros as a regular occurrence. The 9–18 meter depth range and moderate conditions make Meros accessible to intermediate divers while still delivering the grouper aggregations and turtle encounters the site is known for.
+Meros ("Groupers"), also called "El Bajo de los Meros" reflecting its connection to the adjacent El Bajo reef, is a northern reef bar that extends from El Bajo, featuring meandering coral and rock formations. Named for the groupers that congregate here, the site tends to have noticeably more sea turtles than adjacent El Bajo, and the grouper aggregations are its defining characteristic. Mobula rays are seen seasonally. During December through March, humpback whale songs are audible underwater across Cabo Pulmo. On re-audit, Adventures in Baja explicitly lists whale sharks among the wildlife reported at this specific site — an upgrade from the previous version of this page, which could not confirm site-specific whale shark sightings. This remains a single-source claim and should be read as "reported by one operator" rather than a guaranteed encounter. The 9–18 meter depth range and moderate conditions make Meros accessible to intermediate divers while still delivering the grouper aggregations and turtle encounters the site is known for.
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur (northern reef)
@@ -27,7 +27,7 @@ Meros ("Groupers") is a northern reef bar that extends from El Bajo, featuring m
 - **Best Time**: December-March for whale songs and mobula rays; year-round for reef life
 
 ## Marine Life
-Grouper congregations (the site's namesake — notably higher concentrations than El Bajo), sea turtles, mobula rays (seasonal), diverse reef fish throughout the coral and rock formations. Humpback whale songs are audible underwater during December–March across the park, including at this site. Whale sharks transit the broader Cabo Pulmo area but were not confirmed as a regular Meros-specific sighting in sources consulted.
+Grouper congregations (the site's namesake — notably higher concentrations than El Bajo), sea turtles (more frequently reported here than at El Bajo), mobula rays (seasonal), diverse reef fish throughout the coral and rock formations. Humpback whale songs are audible underwater during December–March across the park, including at this site. One source (Adventures in Baja) specifically lists whale sharks among the wildlife at Meros; no other source consulted corroborates this, so treat it as a single-operator report.
 
 ## Dive Profile
 Depths from 9 to 18 meters along the reef bar. Follow the meandering coral formations, checking overhangs for resting groupers. The reef connects to the El Bajo system to the south. The 45-minute park dive limit applies.
@@ -39,4 +39,4 @@ Depths from 9 to 18 meters along the reef bar. Follow the meandering coral forma
 - Keep an eye on the blue water — whale sharks and mobulas transit through without warning
 
 ---
-*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Cabo Pulmo Diving – Gourmet Menu](https://cabopulmodiving.com/our-gourmet-diving-menu/), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo). Last updated 2026-05-20.*
+*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Girls That Scuba](https://www.girlsthatscuba.com/scuba-diving-cabo-pulmo-mexico/), [Cabo Pulmo Scuba Diving (site list)](https://www.cabopulmoscubadiving.com/english/tours/day-trips-cabo-pulmo/). Note: cabopulmodiving.com, previously cited, is no longer live (domain suspended) and was replaced during re-audit. Last updated 2026-07-24.*

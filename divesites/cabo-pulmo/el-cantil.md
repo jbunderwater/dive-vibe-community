@@ -39,4 +39,4 @@ Depths range from 8 to 15 meters. Guides typically choose either the North or So
 - One of the best sites in the park for repeat visits — hard to see it all in one dive
 
 ---
-*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Mexico Travel Adventure](https://mexicotraveladventure.com/en/cabo-pulmo-diving-guide-national-park/). Re-audited 2026-07-24: depth range (6-15m), site type, and shark species re-confirmed by all three current sources; no factual corrections needed. Last updated 2026-07-24.*

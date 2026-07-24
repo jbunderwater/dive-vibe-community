@@ -14,7 +14,7 @@ addedBy: osm_import
 # Los Chopitos
 
 ## Overview
-Los Chopitos (also known locally as Playa La Sirenita or "Mermaid Beach") is a sheltered bay protected from wind and waves, used principally for training dives, resort courses, and refresher dives. The site is a gentle sandy-bottom entry that gradually descends from 2–3 meters to a maximum around 10–12 meters, making it the park's most accessible dive. The bay's protection from swell makes it a reliable alternative when outer sites have current. Octopus and snappers are noted as commonly seen here — local operators describe them as "relaxed and easy to approach." The "Chopitos" name references the small squid-like cephalopods occasionally seen in the area, though no source independently confirmed this etymology.
+Los Chopitos (also known locally as Playa La Sirenita, "Mermaid Beach," or "Dinosaur Egg Beach") is a sheltered bay protected from wind and waves, used principally for training dives, resort courses, and refresher dives. Access is by kayak, boat, or a roughly 20-minute hike along the footpath from Los Arbolitos. The site is a gentle sandy-bottom entry that gradually descends from 2–3 meters to a maximum around 10–12 meters, making it one of the park's most accessible dive and snorkel sites. The bay's protection from swell makes it a reliable alternative when outer sites have current. Octopus and snappers are noted as commonly seen here — local operators describe them as "relaxed and easy to approach." The "Chopitos" name references the small squid-like cephalopods occasionally seen in the area, though no source independently confirmed this etymology.
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
@@ -39,4 +39,4 @@ Shallow reef diving to 10 meters. The easy depth profile allows long bottom time
 - Can be linked to Las Casitas by swimming in the right conditions
 
 ---
-*Sources: [Cabo Pulmo Diving – Los Chopitos](https://cabopulmodiving.com/los-chopitos/), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Costa Coral Mexico](https://www.costacoralmexico.com/en/diving-center-capo-pulmo/scuba-diving/). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Costa Coral Mexico](https://www.costacoralmexico.com/en/diving-center-capo-pulmo/scuba-diving/), [Moon Travel Guides](https://www.moontravelguides.com/travel/outdoors/cabo-pulmo-diving-and-snorkeling/). Note: cabopulmodiving.com, previously cited, is no longer live (domain suspended) and was replaced during re-audit. Last updated 2026-07-24.*

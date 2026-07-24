@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Wreck Alley
 
-A cluster of deliberately sunk vessels off the north shore of Cooper Island — five wrecks at different stages of coral colonisation, diveable from the same mooring line at depths of 15–27 metres.
+A cluster of deliberately sunk vessels off Cooper Island — four wrecks at different stages of coral colonisation, diveable from the same mooring line at depths of roughly 15–27 metres (50–90 ft).
 
 ## Overview
 
-Wreck Alley sits offshore from Red Bluff on the north side of Cooper Island and contains five purpose-sunk wrecks that can all be visited on a single dive. The site has grown over decades: the Marie L, a 90-foot cargo vessel, was scuttled in 1991; the Pat Rex, an inter-island trader of similar size, was sunk in 1995 and collided with the Marie L as it descended, so the two now lie port-to-port creating a dramatic double-wreck profile. The Beata, a well-preserved tugboat, was scuttled in 2000 upright with her bow resting near the reef slope. The Island Seal, a small cargo ship carrying seven containers, grounded on a shoal near Salt Island in August 2006 and eventually capsized; the crew was rescued and the wreck was subsequently relocated to Wreck Alley as an artificial reef. Each vessel lies on sandy seabed at 15–27 metres adjacent to a natural reef slope. Visibility averages 20–30 metres. Water temperature is 26–28°C year-round.
+Wreck Alley sits off Cooper Island and contains four purpose-sunk (or relocated) wrecks that can all be visited on a single dive: the Marie L, a 90-foot cargo vessel scuttled in 1991; the Pat (sometimes called Pat Rex), an inter-island trader/tugboat sunk in 1995 that collided with the Marie L as it descended, so the two now lie side by side; the Beata, a well-preserved tugboat scuttled in 2000 (one source gives 2001); and the Island Seal (also referred to as Joey D), a small cargo/container vessel that hit a shoal near Salt Island on 25 August 2006, capsized while carrying seven containers, and was rescued crew-safe — the hull was later moved and added to Wreck Alley as an artificial reef in 2009, not scuttled there directly. Multiple independent sources (BVI Scuba, BVI Wreck Week, Reef Smart Guides, Island Roots Charters) confirm the count is four wrecks, not five — an earlier version of this entry incorrectly listed "five scuttled wrecks" while naming only four; that error has been corrected. (Note: BVI Wreck Week's tour page bundles a fifth wreck, the Inganess Bay, into the same excursion, but Inganess Bay is a distinct dive site with its own separate coordinates in this database and is not part of the Wreck Alley cluster itself.) Depths are reported variously as 50–90 ft (15–27 m) across sources. Visibility averages 20–30 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Wreck Alley sits offshore from Red Bluff on the north side of Cooper Island and 
 
 ## Marine Life
 
-The five wrecks collectively host a diverse fish community. Dog snappers and blue chromis are consistently reported at Wreck Alley. Schools of smaller fish shelter inside the superstructure of the larger vessels. Garden eels inhabit the sandy bottom between wrecks. Eagle rays and southern stingrays are commonly observed on the sand around the wreck perimeters. The natural reef slope adjacent to the Beata provides additional habitat. Lobsters, barracuda, and various invertebrates have established themselves across all five structures.
+Site-specific reports (charter/dive guide sources) confirm a large colony of garden eels along the sandy edges of the wreck cluster, and stingrays that are notably bold here — divers report them swimming close through the group. French grunts, lobsters, and occasional eagle rays are also reported at the site. Earlier text naming "dog snappers and blue chromis" could not be corroborated by any site-specific source found in this review and has been removed.
 
 ## Dive Profile
 
-Descend the mooring line and orient to the Marie L and Pat Rex, which lie port-to-port and are the most visually complex starting point. Work your way through the cluster: the double-wreck of the Marie L and Pat, then the Beata (note the bow pointing toward shore near the reef slope), and the Island Seal for the largest hull profile. Each wreck has distinct character — the double-wreck drama, the intact tugboat, the large cargo hull. Safety stop in the water column above the shallowest point.
+Descend the mooring line and orient to the Marie L and Pat, which lie side by side and are the most visually complex starting point. Work your way through the cluster: the double-wreck of the Marie L and Pat, then the Beata (well-preserved, described as accessible from the same mooring), and the Island Seal for the largest hull profile. Each wreck has distinct character — the double-wreck drama, the intact tugboat, the large cargo hull. Safety stop in the water column above the shallowest point.
 
 ## Entry and Exit
 

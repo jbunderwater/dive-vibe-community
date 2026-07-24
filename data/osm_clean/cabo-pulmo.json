@@ -11,8 +11,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com,adventuresinbaja.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "adventuresinbaja.com,girlsthatscuba.com,divearoo.com,eastcapeadventurepul.wixsite.com",
+      "last_qa_date": "2026-07-24"
     }
   },
   {
@@ -27,8 +27,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "adventuresinbaja.com,girlsthatscuba.com,archivo.eluniversal.com.mx",
+      "last_qa_date": "2026-07-24"
     }
   },
   {
@@ -43,8 +43,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "adventuresinbaja.com,myscubadivinggearguide.com,cabopulmo.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "adventuresinbaja.com,cabopulmo.com,girlsthatscuba.com",
+      "last_qa_date": "2026-07-24"
     }
   },
   {
@@ -59,8 +59,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com,scubaboard.com,diveoclock.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "marquisloscabos.com,brookebeyond.com,archivo.eluniversal.com.mx",
+      "last_qa_date": "2026-07-24",
+      "qa_note": "Re-audit removed unconfirmed canyon/reef-shark/stingray claims from prior version; replaced with fish-schooling and whale-sighting content confirmed by 3 new independent sources. Depth/difficulty not independently re-verified this cycle."
     }
   },
   {
@@ -75,8 +76,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,adventuresinbaja.com,mexicotraveladventure.com",
+      "last_qa_date": "2026-07-24"
     }
   },
   {
@@ -91,8 +92,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,adventuresinbaja.com,diveoclock.com,divearoo.com",
+      "last_qa_date": "2026-07-24"
     }
   },
   {
@@ -107,8 +108,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,bajadiving.com,scubaboard.com",
+      "last_qa_date": "2026-07-24"
     }
   },
   {
@@ -123,8 +124,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com,cabopulmo.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,costacoralmexico.com,scubaboard.com",
+      "last_qa_date": "2026-07-24"
     }
   },
   {
@@ -139,8 +140,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com,cabopulmo.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,costacoralmexico.com,archivo.eluniversal.com.mx",
+      "last_qa_date": "2026-07-24"
     }
   },
   {
@@ -155,8 +156,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "adventuresinbaja.com,myscubadivinggearguide.com,cabopulmo.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "adventuresinbaja.com,divearoo.com,mexicotraveladventure.com",
+      "last_qa_date": "2026-07-24"
     }
   },
   {
@@ -171,8 +172,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com,cabopulmo.com,costacoralmexico.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,costacoralmexico.com,moontravelguides.com",
+      "last_qa_date": "2026-07-24"
     }
   },
   {
@@ -187,8 +188,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "adventuresinbaja.com,cabopulmodiving.com,cabopulmo.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "adventuresinbaja.com,girlsthatscuba.com,cabopulmoscubadiving.com",
+      "last_qa_date": "2026-07-24"
     }
   }
 ]

@@ -27,7 +27,7 @@ La Lobera ("The Sea Lion Place") sits just before Los Frailes bay at the souther
 - **Best Time**: Year-round except August–October when most sea lions relocate seasonally; May–June for newborn sea lion interactions
 
 ## Marine Life
-Resident California sea lion colony (interactive with divers), surgeonfish, damselfish, parrotfish, mackerel, resident jacks and barracuda schools, eagle rays. The sea lions are the star attraction. Humpback whales are a seasonal presence in Cabo Pulmo waters (December–March) and their songs can sometimes be heard underwater, though no source specifically confirmed whale encounters at La Lobera dive site versus the broader park area.
+Resident California sea lion colony (interactive with divers, approximately 25 animals per one source), surgeonfish, Moorish idols, spotted eagle rays. The sea lions are the star attraction. One Mexican-press source (El Universal) additionally reports winter (November–March) sightings of whale sharks, hammerhead sharks, and giant manta rays at this site — a striking claim not corroborated by any other source consulted, so it should be treated as a single-source report rather than an established fact. Humpback whales are a seasonal presence in Cabo Pulmo waters generally (December–March) and their songs can sometimes be heard underwater, though no source specifically confirmed humpback encounters at La Lobera itself versus the broader park area.
 
 ## Dive Profile
 The active zone is shallow — most of the dive is spent in 3–8 meters of water near the sea lion colony rocks. Sandy areas extend to approximately 18 meters for those who want to explore beyond the colony. Let the sea lions come to you. The 45-minute park dive limit applies, though air consumption at this depth is minimal. May–June brings newborn sea lions that attempt to interact while mothers herd them away.
@@ -39,4 +39,4 @@ The active zone is shallow — most of the dive is spent in 3–8 meters of wate
 - Often scheduled as the final dive of the day due to its shallow, relaxing profile
 
 ---
-*Sources: [Cabo Pulmo Diving – Sea Lion Colony](https://cabopulmodiving.com/sea-lion-colony/), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Costa Coral Mexico](https://www.costacoralmexico.com/en/diving-center-capo-pulmo/scuba-diving/), [El Universal](https://archivo.eluniversal.com.mx/articulos/77439.html). Note: cabopulmodiving.com, previously cited, is no longer live (domain suspended) and was replaced during re-audit. Last updated 2026-07-24.*

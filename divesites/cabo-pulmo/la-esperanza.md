@@ -14,7 +14,7 @@ addedBy: osm_import
 # La Esperanza
 
 ## Overview
-La Esperanza ("Hope") is an outer reef site in Cabo Pulmo National Marine Park, divided into North and South sections, and a reliable destination for pelagic encounters. Bull sharks and nurse sharks patrol the rocky outcrops, and multiple sources note tiger sharks as a possible encounter at this site, though sightings are not regularly reported and should not be considered likely. Amberjacks, tuna, dog snappers, and bigeye trevally pass through regularly, and mobula rays are seen seasonally. Depths reach approximately 21 meters (70 feet), with less current than the outermost reef sites, though conditions can still be strong and unpredictable. Advanced certification is recommended.
+La Esperanza ("Hope") is an outer reef site in Cabo Pulmo National Marine Park, divided into North and South sections, and a reliable destination for pelagic encounters. Bull sharks and nurse sharks patrol the rocky outcrops. On re-audit, three independent current sources (Cabo Pulmo Beach Resort, Girls That Scuba, and Mexico Travel Adventure) all separately list tiger sharks as a possible — not confirmed — encounter at this site or the paired outer reef sites, which strengthens rather than weakens the original hedge: this is a real "possible" tag repeated across sources, but still no source reports an actual confirmed sighting. Snappers, yellowfin tuna, and mobula rays (seasonal) pass through regularly. Depths reach approximately 21 meters (70 feet), with less current than the outermost reef sites, though conditions can still be strong and unpredictable. Advanced certification is recommended.
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur (outer reef)
@@ -27,7 +27,7 @@ La Esperanza ("Hope") is an outer reef site in Cabo Pulmo National Marine Park, 
 - **Best Time**: October to May for peak pelagic activity
 
 ## Marine Life
-Bull sharks (most reliably November–May), nurse sharks, amberjacks, dog snappers, schooling tuna, bigeye trevally, mobula rays (seasonal). Tiger sharks have been listed as a possible encounter at outer Cabo Pulmo reef sites including La Esperanza, but no site-specific confirmed sightings were found in sources consulted. The rocky outcrops and reduced current compared to El Cien make this a slightly more accessible pelagic site.
+Bull sharks (most reliably November–May), nurse sharks, snappers, yellowfin tuna, mobula rays (seasonal), and multiple eel species (green, zebra, fine-spotted, jewel — per Cabo Pulmo Beach Resort). Tiger sharks are consistently listed as a possible encounter at this site and the paired outer reef sites across three sources, but no source reports a confirmed sighting. Amberjack and dog snapper, named in an earlier version of this page, were not confirmed for this specific site this cycle and have been removed. The rocky outcrops and reduced current compared to El Cien make this a slightly more accessible pelagic site.
 
 ## Dive Profile
 Advanced certification recommended. Depths to approximately 21 meters (70 feet). The site has less coral than the central reef bars, with rocky outcrops as the primary structure. Divers typically explore either the North or South section per dive. Monitor depth and air carefully — the 45-minute park dive limit applies. Carry an SMB.
@@ -39,4 +39,4 @@ Advanced certification recommended. Depths to approximately 21 meters (70 feet).
 - Not suitable for inexperienced divers regardless of certification level
 
 ---
-*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo). Last updated 2026-05-20.*
+*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Cabo Pulmo Beach Resort — Top 5 Dive Sites](https://www.cabopulmo.com/single-post/top-5-best-diving-sites-in-cabo-pulmo), [Girls That Scuba](https://www.girlsthatscuba.com/scuba-diving-cabo-pulmo-mexico/). Last updated 2026-07-24.*
