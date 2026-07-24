@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # The Caves at Norman Island
 
-Three sea-level caves carved into the limestone cliffs of Norman Island's west coast — the inspiration for Robert Louis Stevenson's Treasure Island and one of the BVI's most dramatic and historically evocative dive and snorkel destinations.
+Three sea-level caves carved into the limestone cliffs of Norman Island's west coast at Treasure Point — primarily known as the BVI's most popular snorkeling stop, with only the shallow cavern zone offered as a scuba dive.
 
 ## Overview
 
-The Caves at Norman Island are three large sea-level caverns cut into the western cliff face of Norman Island at Treasure Point. The island itself is reputedly the inspiration for Robert Louis Stevenson's Treasure Island — legends persist of Spanish gold buried in the caves following a 1750 shipwreck — and the caves' name reflects this romantic history. The largest cave is fully navigable by snorkelers and divers, its interior illuminated by light filtering in through the entrance. The underwater sections at 3–9 metres feature excellent hard and soft coral growth on the rocky walls and floor. The cave interiors support dense populations of fish habituated to the constant stream of visitors. Visibility is typically 20–30 metres in the clear BVI water. Water temperature is 26–28°C.
+The Caves at Norman Island are three sea-level caverns cut into the cliff face of Norman Island at Treasure Point, on the western edge of The Bight. Multiple independent sources describe this as primarily a snorkeling destination — one dive-site database lists it explicitly as "snorkel only" — rather than a full scuba site, and it is often called the most-visited snorkeling spot in the BVI. The largest cave is navigable from the surface, its interior lit by daylight filtering through the entrance. Local legend connects Norman Island to Robert Louis Stevenson's Treasure Island, with stories of buried treasure following an 18th-century shipwreck; this is folklore repeated by multiple tourism sources rather than a documented historical event, and no source could confirm specific dates, ship names, or treasure amounts, so those details are not included here. The shallow cavern zone (roughly 1–9 metres) is dived on the same trip as snorkeling, with rocky walls that hold cup coral and reef fish. Visibility is typically good in the clear water around Norman Island.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Caves at Norman Island are three large sea-level caverns cut into the wester
 
 ## Marine Life
 
-The cave interiors and the reef wall outside the entrances support a classic shallow Caribbean community. Schools of squirrelfish, glassy sweepers, and bigeyes pack the cave ceilings and overhangs, where low light suits them. Spotted moray eels occupy rock crevices in the cave walls. Outside the cave entrances, Caribbean spiny lobster shelter in crevices at depth. Hawksbill turtles are common on the outer reef sections adjacent to the caves. The overhangs host orange cup corals that thrive in the reduced light environment.
+Confirmed site-specific sightings include yellowtail snapper, puffer fish, trunkfish, parrotfish, sergeant majors, damselfish, and occasional barracuda schooling in and around the caves, with squid, lobster, sea cucumbers, and blue tangs also reported. The cave walls are patchworked with red sponge and orange cup coral. Claims about spotted moray eels, resident spiny lobster "at depth," and hawksbill turtles being common here are not confirmed by any site-specific source and have been removed — divers may see them, but they are not documented as reliable features of this specific site.
 
 ## Dive Profile
 
@@ -53,13 +53,13 @@ The cave interior is safe and spacious — this is a cavern environment, not a t
 
 ## Photography
 
-The caves offer a distinctive Caribbean photography subject — the entrance framed in dark rock with blue water and light beyond creates a classic arch-framing composition. The ceiling-packed squirrelfish and bigeyes in the low light of the cave interior require a strobe for colour. Natural-light shots from inside looking toward the entrance are the most atmospheric images.
+The caves offer a distinctive Caribbean photography subject — the entrance framed in dark rock with blue water and light beyond creates a classic arch-framing composition. The schooling snapper and sergeant majors in the low light of the cave interior benefit from a strobe for colour. Natural-light shots from inside looking toward the entrance are the most atmospheric images.
 
 ## Additional Resources
 
 - BVI National Parks Trust: Norman Island is a National Park; the Bight and the caves are protected
-- Most BVI dive operators include The Caves on Norman Island itineraries
+- Most BVI snorkel and dive operators include The Caves on Norman Island itineraries
 - The William Thornton floating bar/restaurant is anchored in The Bight — a traditional surface interval stop
 
 ---
-*Sources: [Dive BVI](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [BVI Scuba](https://bviscuba.org/diving-info/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-caves/), [Best of USVI](https://bestofusvi.com/places-to-visit-virgin-islands/the-caves-norman-island-bvi/), [Yacht Warriors](https://yachtwarriors.com/destinations/british-virgin-islands/islands/the-caves-norman-island). Last updated 2026-07-24.*

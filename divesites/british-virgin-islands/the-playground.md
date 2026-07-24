@@ -64,4 +64,4 @@ Wide-angle coverage of the boulder field with gorgonian foreground and divers in
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-playground/), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Jost_Van_Dyke_The_Playground_dive_site.html), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-playground/), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Jost_Van_Dyke_The_Playground_dive_site.html), [Jost Van Dyke Scuba](https://jostvandykescuba.com/diving/dive-sites/) (confirms the 2004 Sport Diver magazine "Big Animal Dive" recognition). Last updated 2026-07-24.*

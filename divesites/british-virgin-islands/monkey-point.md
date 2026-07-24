@@ -63,4 +63,4 @@ Monkey Point rewards photographers at every level. The approachable fish — par
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/monkey-point/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/monkey-point/), [Dive BVI](https://divebvi.com/dive-sites/), [The Scuba Directory](https://thescubadirectory.com/divesiteprofile/Monkey-Point-Guana-British-Virgin-Islands-Dive-Site). The BVI Diving citation from a prior pass was checked directly and has no content specific to Monkey Point; it has been replaced with The Scuba Directory, which independently confirms the ~9m depth. Last updated 2026-07-24.*

@@ -32,7 +32,7 @@ Carval Rock sits in the channel between Cooper and Ginger Islands, an exposed ro
 
 ## Marine Life
 
-The site is known for schooling sennet and larger pelagics attracted by open-ocean current flows. Reef sharks, barracuda, and mackerel are regularly sighted on the exposed rock face. Moray eels inhabit the boulder crevices, while lobsters shelter beneath ledge overhangs. Amberjacks and groupers patrol the rock perimeter. Spotted drums have been recorded here. Brain corals, sea fans, and tube sponges colonize the rock faces alongside queen angelfish and yellowtail snapper.
+The site is known for schooling sennet and larger pelagics attracted by open-ocean current flows (confirmed by Dive BVI). BVI Dive Map additionally reports sharks, barracuda, moray eels, lobsters, red lip blennies, amberjacks, whitespotted filefish, groupers, and queen and black triggerfish on the rock face, with fire coral and colorful sponges covering the boulders. Sail Caribbean Divers confirms general shark and ray sightings at this site. Earlier drafts of this page named additional species (spotted drums, brain corals, sea fans, tube sponges, yellowtail snapper) that could not be traced to any of the three sources checked for this site — they have been removed.
 
 ## Dive Profile
 
@@ -55,11 +55,11 @@ Current is the primary hazard at this site; strength varies with tidal state and
 
 ## Photography
 
-The combination of dense fish aggregations, boulder structures, and open-water pelagics makes Carval Rock a strong wide-angle site. Schooling sennet make excellent subjects when backlit from above. Moray eels and spotted drums in the boulder fields reward macro shooters. Morning light provides the best natural illumination into the deeper sections.
+The combination of dense fish aggregations, boulder structures, and open-water pelagics makes Carval Rock a strong wide-angle site. Schooling sennet make excellent subjects when backlit from above. Moray eels in the boulder fields reward macro shooters. Morning light provides the best natural illumination into the deeper sections.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/carval-rock/), [Dive BVI](https://divebvi.com/dive-sites/), [BoatyBall Carvel Rock](https://boatyball.com/dive-sites/carvel_rock/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/carval-rock/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). All three were checked directly and specifically describe this site. Note Dive BVI gives a shallower depth range (12–21m) than BVI Dive Map and Sail Caribbean Divers (both 27m); this listing keeps 27m as the majority figure. The BoatyBall citation from a prior pass was not independently re-confirmed and has been replaced. Last updated 2026-07-24.*

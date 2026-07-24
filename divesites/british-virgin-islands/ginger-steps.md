@@ -33,7 +33,7 @@ Ginger Steps takes its name from the distinctive terrace topography on the south
 
 ## Marine Life
 
-The current-exposed position of Ginger Steps concentrates pelagic species. Spotted eagle rays cruise the open water beyond the terrace edge, and schools of bar jacks and horse-eye jacks sweep through the current lanes. Caribbean reef sharks are regularly seen along the deeper terrace sections. Hawksbill turtles patrol the upper steps where coral and sponge growth is densest. The step ledges shelter large spiny lobsters and Caribbean reef octopus. Green morays and spotted morays occupy crevices in the terrace faces.
+Confirmed site-specific sightings include tube sponges and sea fans on the ledge faces with brain and star coral bouquets, and a fish community of angelfish, snappers, barracuda, moray eels, octopus, eagle rays, sea turtles, and lobster. Squirrelfish and damselfish shelter under the ledges. A claim of Caribbean reef sharks being regularly seen here could not be confirmed by any source and has been removed. One ScubaBoard trip report notes the site has become somewhat "over-dived" in recent years given its popularity.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The step terrace topography creates compelling layered compositions — shooting
 - Best combined with Alice in Wonderland for a full Ginger Island two-tank day
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [ScubaBoard – BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/ginger-steps/), [BVI Diving](https://www.bvidiving.com/diving-ginger-steps.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [ScubaBoard – Rhone Man's BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/). Last updated 2026-07-24.*

@@ -2,7 +2,7 @@
 name: Bronco Billy
 lat: 18.492992
 lng: -64.460067
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: boat
 siteType: reef
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 ## Bronco Billy
 
-Jacques Cousteau's reputed favorite dive in the BVI — a dramatic surge channel at the northwestern tip of George Dog, with coral archways leading into a box canyon of pillar coral and vibrant encrusting sponges.
+A reputed favorite of Jacques Cousteau's — a surge-exposed canyon dive at the northwestern tip of George Dog, with coral archways leading into a box canyon of pillar coral and encrusting sponges. Difficulty ratings vary sharply by operator, from Beginner to Advanced.
 
 ## Overview
 
-Bronco Billy sits at the northwestern tip of George Dog island, approximately 12 minutes by boat from Spanish Town on Virgin Gorda. The site is built around a meandering series of coral ridges and canyons that wrap around the tip of the island, culminating in a large steep-walled box canyon with a boulder field. Two coral archways mark the entrance to the canyon system and serve as navigational anchors. The site is exposed to Atlantic swell and can generate significant surge — which is said to be the origin of the name: the surge carries divers through the box canyon in a motion compared to riding a bucking bronco. Jacques Cousteau reportedly declared it his favorite dive site in the BVI, ahead of more famous sites like the RMS Rhone.
+Bronco Billy sits at the northwestern tip of George Dog island, approximately 12 minutes by boat from Spanish Town on Virgin Gorda. The site is built around a meandering series of coral ridges and canyons that wrap around the tip of the island, culminating in a large steep-walled box canyon with a boulder field. Two coral archways mark the entrance to the canyon system and serve as navigational anchors. The site is exposed to Atlantic swell and can generate significant surge — reportedly the origin of the name, with surge carrying divers through the box canyon like riding a bucking bronco. Two operators separately describe it as reputedly Jacques Cousteau's favorite BVI dive site, though this is repeated as reputation/legend rather than a documented fact. A ScubaBoard trip report is more measured, calling it a "Marmite" site — divers either love it or find it "a bit unremarkable except for one decent swim through" — a useful counterpoint to the marketing. Difficulty ratings vary widely by operator (Beginner, Intermediate, and Advanced have each been cited); Intermediate is used here as the middle ground, reflecting that conditions depend heavily on swell.
 
 ## Site Information
 
 - **Location**: Northwestern tip of George Dog island, The Dogs group, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate (operators disagree — cited as Beginner, Intermediate, and Advanced)
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: Moderate — limited by canyon shadows; torches recommended
 - **Current**: Low
@@ -33,7 +33,7 @@ Bronco Billy sits at the northwestern tip of George Dog island, approximately 12
 
 ## Marine Life
 
-The canyon walls support strong coral growth: pillar corals are a dominant feature, alongside encrusting sponges in red, lavender, and orange, cup corals, and lacy hydroids. Fish life includes snappers, grunts, groupers, spotted drums, sea breams, and lobsters tucked into crevices. Eels are common in the rock formations. The site's small size rewards slow, thorough exploration rather than a single pass.
+The canyon walls support strong coral growth: pillar corals are a dominant feature, alongside encrusting sponges in red, lavender, and orange, cup corals, and lacy hydroids. Fish life includes snappers, grunts, spotted drums, and sea breams, with lobsters tucked into crevices and eels in the rock formations. A claim of "groupers" as a defining feature is not independently confirmed and is treated with caution. The site's small size rewards slow, thorough exploration rather than a single pass.
 
 ## Dive Profile
 
@@ -60,7 +60,7 @@ The canyon walls are ideal for close-focus wide-angle shots, particularly when i
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-24
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/bronco-billy/), [BVI Diving](https://www.bvidiving.com/diving-bronco-billys.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/bronco-billy/), [BVI Diving](https://www.bvidiving.com/diving-bronco-billys.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [ScubaBoard – Rhone Man's BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/). Last updated 2026-07-24.*

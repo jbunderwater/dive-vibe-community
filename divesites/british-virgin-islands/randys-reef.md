@@ -66,4 +66,4 @@ Wide-angle for ray encounters in the sandy shallows. The reef sections offer sta
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/randys-reef/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/randys-reef/). This was the only source independently verified to contain content specific to this site; a second and third distinct source could not be confirmed despite multiple searches, so this entry has not been fully re-validated. Last updated 2026-05-20.*

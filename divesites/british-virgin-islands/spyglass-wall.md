@@ -17,7 +17,7 @@ A 1,500-foot-long mini wall on the north side of Norman Island, named after Spyg
 
 ## Overview
 
-Spyglass Wall runs along the north side of Norman Island — the island widely believed to have inspired Robert Louis Stevenson's Treasure Island — and takes its name from Spyglass Hill, which rises above the dive site on the island's ridge. The wall stretches approximately 460 meters (1,500 feet) and is described as one of the most captivating mini walls in the BVI. The site is only about 5 minutes by boat from The Bight, the main anchorage on Norman Island, making it easy to reach from the popular Norman Island sites. The wall is draped in sea fans and purple tube sponges with coral outcrops throughout. The upper portion offers good snorkeling, while the main dive zone descends to around 18 meters. Swell is moderate at this site and current is low.
+Spyglass Wall runs along the north side of Norman Island — the island widely believed to have inspired Robert Louis Stevenson's Treasure Island — and takes its name from Spyglass Hill, which rises above the dive site on the island's ridge. The wall stretches approximately 460 meters (1,500 feet) and is described as one of the most captivating mini walls in the BVI. The site is only about 5 minutes by boat from The Bight, the main anchorage on Norman Island, making it easy to reach from the popular Norman Island sites. The wall is draped in sea fans and purple tube sponges with coral outcrops throughout. The upper portion offers good snorkeling, while the main dive zone descends to around 18 meters. Swell is moderate at this site and current is low. Difficulty ratings vary by source — BVI Dive Map lists it Intermediate, while BVI Diving and an independent diver-review site (Zentacle) both describe it as a good introductory/Novice wall dive; this listing keeps the Intermediate rating as a middle-ground given the depth reaches the Intermediate threshold. Zentacle also notes the site's marine life is "fair but not spectacular by BVI standards" compared to other Norman Island sites — consistent with this being more of a scenic than wildlife-dense dive.
 
 ## Site Information
 
@@ -63,4 +63,4 @@ Spyglass Wall is scenic rather than wildlife-dense, rewarding photographers who 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/spyglass-wall/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/spyglass-wall/), [BVI Diving](https://www.bvidiving.com/diving-spyglass-wall.html), [Zentacle](https://www.zentacle.com/Beach/3970/spyglass). The Dive BVI citation from a prior pass was checked directly and does not mention this site; it has been replaced with two sources that do. Last updated 2026-07-24.*

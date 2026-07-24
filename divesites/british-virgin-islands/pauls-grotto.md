@@ -64,4 +64,4 @@ The cave interiors are exceptional for close-focus wide-angle photography: arrow
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/pauls-grotto/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/pauls-grotto/), [BVI Aggressor Captain's Log](https://www.aggressor.com/captains-logs-view.php?id=3786). Only two independently-verified, site-specific sources could be confirmed for this re-audit (Dive BVI and BVI Diving's general site listings do not mention Paul's Grotto specifically) — a third source was not found despite extensive searching. The Aggressor log describes Paul's Grotto as "a drift dive covering...three dive sites," which conflicts with BVI Dive Map's cave/coral-hill description; this discrepancy is unresolved. Last updated 2026-05-20 (re-audit incomplete, pending a third independent source).*

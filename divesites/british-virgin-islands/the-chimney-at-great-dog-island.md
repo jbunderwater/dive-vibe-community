@@ -3,7 +3,7 @@ name: The Chimney at Great Dog Island
 lat: 18.4833
 lng: -64.4833
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 15
 entryType: boat
 siteType: cave
 ref: null
@@ -17,13 +17,13 @@ A natural swim-through cavern rising vertically through the rock face of Great D
 
 ## Overview
 
-The Chimney is a natural vertical cleft in the rocky face of Great Dog Island that descends from an opening at 12 metres up through the rock to an exit near the reef top at 3–4 metres. The passage is wide enough for a single diver with standard equipment and the full ascent takes approximately 30–45 seconds. The rocks lining the chimney are covered with cup corals, tube worms, and encrusting sponges that thrive in the low-light, current-protected environment. The reef surrounding the chimney exit on top of the island is excellent — the Dog Islands receive consistent current from the open Atlantic that supports impressive coral and sponge growth. The site is accessible to beginner divers and offers a memorable experience without requiring specialist cave diving training. Visibility averages 20–30 metres. Water temperature is 26–28°C.
+The Chimney is a natural vertical cleft in the rocky face of Great Dog Island, formed where two rock formations come together. Dive operators put its depth at roughly 8–15 metres, rising to a shallow exit near the reef top. The site also includes two canyons and an arch nearby. The rocks lining the chimney are covered with cup corals and colorful sponges. The site is rated Beginner by most operators, though one lists it as Intermediate, and offers a memorable experience without requiring specialist cave diving training. Water temperature is 26–28°C.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 3–12 m |
+| Depth Range | 8–15 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Cave |
@@ -33,11 +33,11 @@ The Chimney is a natural vertical cleft in the rocky face of Great Dog Island th
 
 ## Marine Life
 
-Inside the chimney passage, the encrusted walls host orange cup corals, Christmas tree worms, and feather duster worms that add colour in the reduced light. Spotted moray eels and small hawkfish occupy niches in the passage walls. Above the chimney on the reef top, the fish community is diverse and active — French angelfish, parrotfish, and trumpetfish are common. Hawksbill turtles visit the reef regularly, and small nurse sharks are occasionally found resting between rocks at the base of the island.
+Confirmed site-specific sightings include shrimp, damselfish, parrotfish, yellowtails, sergeant majors, and spotted rock lobster, with starfish, anemones, baby flame scallops, and cup corals on the rock surfaces. Claims of resident moray eels, hawkfish, French angelfish, trumpetfish, hawksbill turtles, and nurse sharks specific to this site could not be confirmed and have been removed — divers may still encounter these BVI regulars, but they are not documented as reliable features of The Chimney itself.
 
 ## Dive Profile
 
-Begin the dive on the reef at the base of the chimney entrance at 12 metres. Approach the chimney opening and ascend vertically through the passage, emerging on the reef top at 3–4 metres. Explore the reef around the chimney exit before descending back to the deeper sections and repeating the passage on the same or subsequent dive. Total dive time 35–45 minutes.
+Begin the dive on the reef near the chimney entrance. Approach the opening and ascend vertically through the passage, emerging on the reef top in the shallows. Explore the reef around the chimney exit before descending back to the deeper sections and repeating the passage on the same or subsequent dive. Total dive time 35–45 minutes.
 
 ## Entry and Exit
 
@@ -53,12 +53,12 @@ The Chimney is wide enough for a single diver to ascend comfortably — do not a
 
 ## Photography
 
-The Chimney creates a unique photographic opportunity — shooting upward from the entrance at 12 metres toward the sunlit opening at 3–4 metres captures the vertical geometry of the passage with light streaming down through the water column. Cup coral close-ups on the chimney walls require a strobe. The reef-top exit with diver emerging is a classic BVI cave dive image.
+The Chimney creates a unique photographic opportunity — shooting upward through the passage toward the sunlit shallow exit captures the vertical geometry of the passage with light streaming down through the water column. Cup coral close-ups on the chimney walls require a strobe.
 
 ## Additional Resources
 
-- Dive BVI: regularly operates Dog Islands trips including The Chimney
+- Dive BVI and Sail Caribbean Divers: regularly operate Dog Islands trips including The Chimney
 - Great Dog Island sites are typically accessed as part of a Virgin Gorda or north sound dive itinerary
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [BVI Diving](https://www.bvidiving.com/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-chimney/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Dive BVI](https://divebvi.com/dive-sites-old/). Last updated 2026-07-24.*

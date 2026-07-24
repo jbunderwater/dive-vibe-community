@@ -62,4 +62,4 @@ The combination of open-water pelagics and colorful rocky reef formations makes 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/seal-dogs-east/), [BVI Diving – Seal Dogs](https://www.bvidiving.com/diving-seal-dogs-bvi.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/seal-dogs-east/), [BVI Diving — Seal Dogs and Rock](https://www.bvidiving.com/diving-seal-dogs-bvi.html), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Virgin_Gorda_Seal_Dog_Islands_dive_site.html). Note: BVI Diving and Virgin Islands Charter Yachts describe the Seal Dog Islands as a single dive destination and do not distinguish "Seal Dogs East" from "West Seal Dog" as separately named sites — only BVI Dive Map treats them as distinct entries. The Sail Caribbean Divers citation from a prior pass was checked directly and does not mention this site; it has been removed. Last updated 2026-07-24.*

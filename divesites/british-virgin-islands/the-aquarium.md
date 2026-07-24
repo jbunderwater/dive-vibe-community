@@ -63,4 +63,4 @@ The Aquarium is an outstanding photography site. The granite boulder formations,
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-aquarium/), [Aerial BVI Dive Guide](https://aerialbvi.com/blog/bvi-scubadiving-guide/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-aquarium/), [BVI Diving](https://www.bvidiving.com/diving-the-aquarium.html), [Dive BVI](https://divebvi.com/dive-sites/), [Aerial BVI Dive Guide](https://aerialbvi.com/blog/bvi-scubadiving-guide/). All four sources were independently checked and specifically describe this site (also known locally as Fischer's Rocks); depth and marine life details are consistent across all four. Last updated 2026-07-24.*

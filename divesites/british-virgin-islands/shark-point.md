@@ -63,4 +63,4 @@ The ledge system at 18 meters offers strong compositions with overhanging rock a
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/shark-point-scrub-island/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/shark-point-scrub-island/), [Dive BVI](https://divebvi.com/dive-sites/), [The Scuba Directory](https://thescubadirectory.com/divesiteprofile/Shark-Point-Scrub-Island-British-Virgin-Islands-Dive-Site). Important correction: the Sail Caribbean Divers citation from a prior pass was checked directly, and their "Shark Point" listing is a different site located at Peter Island — not this Scrub Island site — so it has been removed to avoid conflating two same-named but distinct dive sites. The Scuba Directory's listing was confirmed to specifically reference Scrub Island at the matching ~21m depth. Last updated 2026-07-24.*

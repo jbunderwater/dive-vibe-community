@@ -33,7 +33,7 @@ Blonde Rock is an isolated submerged pinnacle topped at just 4 meters below the 
 
 ## Marine Life
 
-The current-swept pinnacle draws a different species mix than the sheltered reef sites. Caribbean reef sharks and nurse sharks occupy the base of the rock. Schooling bar jacks and horse-eye jacks circle the upper pinnacle in impressive formations. Eagle rays cruise in the current lanes around the rock, and barracuda lurk in the lee of the pinnacle. Spotted eagle rays are particularly common during certain seasons.
+Confirmed site-specific sightings include reef and nurse sharks at the base of the rock, schooling bar jacks and horse-eye jacks, barracuda, and cobia in the current lanes. The rock itself hosts abundant lobster, puffer fish, parrotfish, angelfish, triggerfish, blackbar soldierfish, French grunts, goatfish, and damsels, with fire coral, cup coral, and colorful sponges covering the structure. Claims of eagle rays being a seasonal feature at this specific site could not be confirmed by any source and have been removed.
 
 ## Dive Profile
 
@@ -56,12 +56,12 @@ Current is the primary hazard and must never be underestimated. All divers must 
 
 ## Photography
 
-Blonde Rock offers the BVI's best wide-angle pelagic photography. Jacks in spiralling schools around the pinnacle top, reef shark portraits at the base, and eagle ray passes in the blue water are the signature images. Current conditions require efficient underwater movement and camera pre-setting before descent.
+Blonde Rock offers strong wide-angle pelagic photography. Jacks in spiralling schools around the pinnacle top and reef/nurse shark portraits at the base are the signature images. Current conditions require efficient underwater movement and camera pre-setting before descent.
 
 ## Additional Resources
 
-- Blue Water Divers and Sail Caribbean Divers (Road Town): operate Blonde Rock on suitable tidal conditions
-- Best combined with Dead Chest Wall for a two-tank Salt Island area day
+- Sail Caribbean Divers and other Road Town operators: operate Blonde Rock on suitable weather/tidal conditions
+- Best combined with Dead Chest West for a two-tank Salt Island area day
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [ScubaBoard – BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/blonde-rock/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [ScubaBoard – Rhone Man's BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/). Last updated 2026-07-24.*

@@ -68,4 +68,4 @@ One of the BVI's top macro and wide-angle reef sites. The color saturation of th
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rainbow-canyons/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rainbow-canyons/); older ScubaBoard trip reports (2003–2008) independently confirm a site called "Rainbow Canyon" off Pelican Island, reached by dinghy from the Caves on Norman Island, matching this site's location. Only these two independently verified sources were found — a third site-specific source could not be confirmed, so this entry has not been fully re-validated. Last updated 2026-05-20.*

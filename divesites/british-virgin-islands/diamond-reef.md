@@ -17,14 +17,14 @@ A small wall reef off Great Camanoe — just two minutes by boat from Scrub Isla
 
 ## Overview
 
-Diamond Reef lies off Great Camanoe Island, a short boat ride from Scrub Island Resort in the northeastern BVI. The site takes its name from a local legend: a diver reportedly lost a diamond ring here years ago and it was never recovered. The reef itself runs approximately 200 yards as a small wall, its surface coated with soft and hard corals and colorful sponges on both the wall face and the rocky formations sitting on the sandy bottom. Visibility tends to be better on the northern side of the reef. The site is calm and accessible in nearly all weather conditions, making it a dependable choice when conditions elsewhere are unfavorable. It works well for divers and snorkelers alike.
+Diamond Reef lies off Great Camanoe Island, a short boat ride from Scrub Island Resort in the northeastern BVI. Local legend attributes the name to a lost diamond ring — BVI Dive Map's version has a newlywed woman throwing her ring into the water during an argument, though other retellings vary, so treat the exact story as folklore rather than verified history. The reef itself runs approximately 200 yards as a small wall, its surface coated with soft and hard corals and colorful sponges on both the wall face and the rocky formations sitting on the sandy bottom. Visibility tends to be better on the northern side of the reef. The site is calm and accessible in nearly all weather conditions, making it a dependable choice when conditions elsewhere are unfavorable. It works well for divers and snorkelers alike.
 
 ## Site Information
 
 - **Location**: Off Great Camanoe Island, 2 minutes by boat from Scrub Island, northeastern BVI
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Intermediate in current site data, though BVI Diving and Dive BVI both independently list this site as Novice/Beginner — the shallow 3–12m depth range and calm, sheltered conditions support the more relaxed rating
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: Good; best on the northern side
 - **Current**: Generally low
@@ -62,4 +62,4 @@ The sponge-encrusted wall face is colorful and photogenic in wide-angle. The san
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/diamond-reef/), [BVI Diving](https://www.bvidiving.com), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/diamond-reef/), [BVI Diving](https://www.bvidiving.com/diving-diamond-reef.html), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-07-24.*

@@ -32,7 +32,7 @@ Joe's Cave sits west of West Dog Island and south of the Flintstones dive site. 
 
 ## Marine Life
 
-Giant groupers shelter at the base of the boulder formations and around the cave entrance. Lobsters occupy crevices in the rocky structures. Eagle rays cruise the sandy areas surrounding the boulders. Glassy sweepers form a dense swarm inside the cave, particularly toward the back. Colorful corals and sponges coat the cave walls, supporting small invertebrates and fish in the low-light zone.
+Sources disagree on how much marine life this site offers. Sail Caribbean Divers, an operator that runs the site, describes it as "best done to view the scenery" and notes it "does not have as much marine life as other locations" — the one consistently confirmed highlight is a small cavern in the shallows that fills with a dense swarm of glassy sweepers. BVI Dive Map additionally lists giant groupers, lobsters, and eagle rays around the boulders, but that claim is not corroborated elsewhere, so treat those sightings as possible rather than reliable. Colorful corals and sponges coat the cave walls and boulder surfaces.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The narrow cave opening creates natural light rays when the sun is at the right 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/joes-cave/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/joes-cave/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Dive BVI](https://divebvi.com/dive-sites/). Note: Dive BVI lists this as a Novice site while BVI Dive Map lists it as Advanced — the Advanced rating is kept here given the cave/swell environment, but sources conflict. Last updated 2026-07-24.*

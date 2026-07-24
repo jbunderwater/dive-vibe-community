@@ -2,8 +2,8 @@
 name: The Visibles
 lat: 18.492015
 lng: -64.45835
-difficulty: Beginner
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 24
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## The Visibles
 
-A massive pinnacle on the southwestern edge of the BVI, embroidered with corals, sea fans, and hydroids — best in summer when strong currents and rough weather subside.
+A current-swept pinnacle off Cockroach Island, southwest of Virgin Gorda — also referred to by some operators as "POS" — rated for experienced divers due to variable, sometimes strong current sweeping across the exposed rock.
 
 ## Overview
 
-The Visibles sits on the southwestern side of the British Virgin Islands, roughly 12 minutes by boat from Spanish Town on Virgin Gorda. The site is named for the rocky outcrops that break the surface, marking a submerged pinnacle system below. The formation drops through caves, canyons, ledges, and huge boulders to a sandy floor, creating layered habitat for an exceptional range of fish life. Visibility is typically excellent, and the lack of strong current at the site (despite the exposed setting) makes it accessible to novice divers when conditions cooperate. The recommended season is summer; wintertime swells can make the site challenging or inaccessible.
+The Visibles sits off the west side of Cockroach Island, southwest of Virgin Gorda, roughly 12 minutes by boat from Spanish Town. The formation is a submerged pinnacle marked at the surface by breaking rocks, dropping through caves, canyons, ledges, and boulders to a sandy floor around 24 meters. Sources disagree on how demanding the site is: BVI Dive Map describes it as a low-current, novice-accessible site in calm summer conditions, while Dive BVI and Aerial BVI's dive guide both rate it Intermediate/Advanced to Advanced-only, citing strong, variable current sweeping the exposed pinnacle. Given the exposed setting and the fact that two of three independently-verified sources flag it as current-prone and unsuitable for novices, this listing follows the more conservative Advanced rating; less experienced divers should confirm current conditions with the boat crew before committing to the site.
 
 ## Site Information
 
-- **Location**: Southwestern BVI, approximately 12 minutes by boat from Spanish Town, Virgin Gorda
+- **Location**: Off Cockroach Island, southwest of Virgin Gorda, ~12 minutes by boat from Spanish Town
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: Near-excellent; best in calm summer conditions
-- **Current**: Low
+- **Difficulty Level**: Advanced (sources conflict — see Overview)
+- **Maximum Depth**: 24 meters (sources range 18–24m)
+- **Typical Visibility**: Excellent in calm conditions
+- **Current**: Variable to strong (per Dive BVI, Aerial BVI); BVI Dive Map describes it as low
 - **Swell**: High (seasonally)
-- **Best Time**: Summer months
+- **Best Time**: Summer months, calmer current windows
 
 ## Marine Life
 
@@ -53,7 +53,7 @@ Access is by dive boat from Virgin Gorda or day-trip operators. Entry is via gia
 
 ## Safety Considerations
 
-This site is exposed and best dived in settled summer weather. Dive within your certification limits. Always carry a surface marker buoy (SMB) — conditions can change and boat pickup is essential at this offshore location. Dive with a buddy.
+This site is exposed and best dived in settled summer weather. Current can be strong and variable, and fire coral cover has been noted by at least one operator — dive within your certification limits and confirm current conditions before descending. Always carry a surface marker buoy (SMB) — conditions can change and boat pickup is essential at this offshore location. Dive with a buddy.
 
 ## Photography
 
@@ -64,4 +64,4 @@ The Visibles is one of the BVI's premier photography sites. The sheer density of
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-visibles/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-visibles/), [Dive BVI](https://divebvi.com/dive-sites/), [Aerial BVI Dive Guide](https://aerialbvi.com/blog/bvi-scubadiving-guide/). The generic bvidiving.com homepage cited in a prior pass did not contain site-specific content and has been replaced. Last updated 2026-07-24.*

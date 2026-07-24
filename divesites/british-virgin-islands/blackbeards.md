@@ -63,4 +63,4 @@ Blackbeard's rewards macro photographers. The fish diversity — jawfish, squirr
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/blackbeards/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/blackbeards/). Only one independently-verified, site-specific source could be confirmed for this re-audit. Dive BVI and BVI Diving's general site listings do not mention Blackbeard's, and a search for the pirate-legend context (justgottadive.com's Dead Chest Island article) confirms the Blackbeard marooning legend but does not cover this dive site by name. A second and third source could not be located despite extensive searching. Last updated 2026-05-20 (re-audit incomplete, pending independent corroboration).*

@@ -63,4 +63,4 @@ The site's topographic variety — canyons on one side, ledges on the other — 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dolphin-rocks/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dolphin-rocks/) (lists Advanced difficulty), [Dive BVI](https://divebvi.com/dive-sites-old/) (lists this same site, "Ledges/Dolphin Rocks," as Novice difficulty at 20–50ft). Only two independently verified site-specific sources were found, and they disagree on difficulty — a third could not be confirmed, so the difficulty rating above should be treated as unresolved. Last updated 2026-05-20.*

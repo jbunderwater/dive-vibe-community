@@ -68,4 +68,4 @@ Wide-angle for the canyon approach shots and the cave mouth. Inside the cave, a 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brown-pants/), [BVI Diving](https://www.bvidiving.com/diving-brown-pants.html), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brown-pants/), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Norman_Island_Brown_Pants_dive_site.html), [Scuba Diving Magazine](https://www.scubadiving.com/from-shipwrecks-to-sharks-five-best-dive-sites-in-british-virgin-islands). Last updated 2026-07-24.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Great Tobago
 
-A protected National Park island six miles west of Jost Van Dyke featuring over 15 dive sites around its rocky coastline, highlighted by the Mercurious Rock cave system with its 75-foot ceiling and black corals in deeper waters.
+A protected National Park island six miles west of Jost Van Dyke featuring over 15 dive and snorkel sites around its rocky coastline, with black corals found in deeper water and a nearby cave system, Mercurious Rock, that some operators dive as part of the same excursion.
 
 ## Overview
 
-Great Tobago and neighboring Little Tobago lie approximately six miles west of Jost Van Dyke, making them the most remote of the BVI's regularly dived locations. The islands are protected as a National Park under the BVI National Parks Trust, with a strict no-anchor policy that has helped preserve both the terrestrial environment and the surrounding coral reefs. The island complex hosts over 15 individual dive and snorkel sites along its varied coastline. The most celebrated of these is the Mercurious Rock cave system on the eastern side of Great Tobago, where a cave interior reaches a ceiling height of approximately 75 feet, with painted coral walls, shallow canyons carved through the rock, and vivid sponge and soft coral colouring the surfaces. In deeper water, black corals have established colonies that are rarely encountered at other BVI sites. The island also hosts the third-largest seabird population in the Caribbean, including the only Caribbean nesting ground for frigatebirds.
+Great Tobago lies approximately six miles west of Jost Van Dyke, making it one of the most remote of the BVI's regularly dived locations. Wikipedia confirms the island is 210 acres, surrounded by cliffs that extend below the water, and has been part of the BVI National Parks Trust since the 1990s, with a strict no-anchor policy — diving and snorkeling are legal, but anchoring is prohibited because the surrounding seabed is coral reef. Wikipedia and BVI Dive Map both confirm over 15 scuba diving sites around the island. Sources disagree on how Mercurious Rock relates to Great Tobago: BVI Dive Map's Great Tobago page describes Mercurious Rock's cave system as part of the area's diving, while Jost Van Dyke Scuba — a local operator diving this area — lists Mercurious Rock as a separate, standalone site distinct from its four named Great Tobago dive sites (Coral Dome, Tobago Canyons, North Point Grand Central Station, Gardens of the Queen). No source consulted for this re-audit gave a specific cave ceiling height or confirmed the cave sits on the "eastern side" of Great Tobago — those specifics from a prior pass could not be verified and have been removed. In deeper water (30+ meters), black corals have been reported, a detail confirmed by BVI Dive Map. The island also hosts the third-largest seabird nesting population in the Caribbean, per Wikipedia — though sources disagree on exact species (see Marine Life note below).
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Great Tobago and neighboring Little Tobago lie approximately six miles west of J
 
 ## Marine Life
 
-Underwater, the rocky reef structures support coral-covered boulder gardens with diverse Caribbean reef fish including blue stripe grunts, French grunts, and various wrasse species. Black corals grow in the deeper sections (30+ meters). The Mercurious Rock cave system shelters large groupers, hogfish, snappers, lobsters, and nurse sharks, along with an unusual variety of invertebrates. Above the surface, the islands support blue-footed boobies, brown pelicans, terns, long-tailed tropic birds, laughing gulls, and nesting frigatebirds.
+Underwater, the rocky reef structures support coral-covered boulder gardens with diverse Caribbean reef fish including blue stripe grunts and French grunts (confirmed by both BVI Dive Map and Jost Van Dyke Scuba). Black corals grow in the deeper sections (30+ meters), per BVI Dive Map. Jost Van Dyke Scuba describes Mercurious Rock (whether counted as part of Great Tobago or a nearby separate site) as featuring soft corals and several caves and caverns, but no source consulted named specific fish species inside it — the previous claim of "large groupers, hogfish, snappers, lobsters, and nurse sharks" at Mercurious Rock could not be traced to any source and has been removed. Above the surface, Wikipedia identifies the nesting seabirds as magnificent frigatebirds, white-tailed tropicbirds, roseate terns, brown pelicans, laughing gulls, and brown boobies. A prior version of this page listed "blue-footed boobies" and "long-tailed tropic birds" — likely carried over from BVI Dive Map's own wording — but blue-footed boobies are a Pacific/Galápagos species not found in the Caribbean, so this listing follows Wikipedia's brown booby and white-tailed tropicbird identification instead.
 
 ## Dive Profile
 
-With over 15 sites available around the island, dive planning depends on which area is visited and the conditions on the day. The Mercurious Rock cave system is the signature dive: locate the cave entrance on the eastern side of Great Tobago, then explore the interior cavern whose ceiling reaches approximately 75 feet above the floor. Coral-painted walls and sponge-covered surfaces line the shallow canyons leading through the rock. The cave should only be entered by trained cave/cavern divers with appropriate lighting and equipment. Reef dives around the island's perimeter offer coral-covered boulders at moderate depths, accessible to Advanced open-water divers. Landing on shore is not permitted under National Parks rules.
+With over 15 sites available around the island, dive planning depends on which area is visited and the conditions on the day. Mercurious Rock, whether treated as one of Great Tobago's sites or a nearby separate dive, features soft corals and multiple caves and caverns; it should only be entered by trained cave/cavern divers with appropriate lighting and equipment, and divers should confirm with their operator which exact site is being dived. Reef dives around Great Tobago's perimeter offer coral-covered boulders at moderate depths, accessible to Advanced open-water divers. Landing on shore is not permitted under National Parks rules.
 
 ## Entry and Exit
 
@@ -56,11 +56,11 @@ The remote location means limited emergency response — conservative dive plann
 
 ## Photography
 
-Mercurious Rock's cave interior offers rare dramatic cavern photography opportunities. The painted coral walls and colourful sponges create vivid subjects when illuminated with video lights or strobes. The seabird colonies visible from the surface provide unique topside photography opportunities not found elsewhere in the BVI.
+Mercurious Rock's cave interior offers cavern photography opportunities — colourful sponges and soft corals are best rendered with video lights or strobes. The seabird colonies visible from the surface provide unique topside photography opportunities not found elsewhere in the BVI.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/great-tobago/), [Jost Van Dyke Scuba](https://jostvandykescuba.com/diving/dive-sites/), [BVI Sail – Great Tobago Island](https://www.bvisail.com/yacht-charter-destinations/british-virgin-islands-yacht-charters/great-tobago-island/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/great-tobago/), [Jost Van Dyke Scuba](https://jostvandykescuba.com/diving/dive-sites/), [Wikipedia](https://en.wikipedia.org/wiki/Great_Tobago_Island). The BVI Sail citation from a prior pass could not be independently re-confirmed (the page did not load usable content, and search snippets attributed to it appear to just repeat BVI Dive Map's own phrasing) and has been replaced with Wikipedia, which was independently confirmed. Last updated 2026-07-24.*

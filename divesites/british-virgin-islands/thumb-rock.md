@@ -17,7 +17,7 @@ A massive underwater pinnacle near Wreck Alley that rises from 18 meters to with
 
 ## Overview
 
-Thumb Rock is located near the wreck dives of Wreck Alley (the Marie L and Pat wrecks) south of Cooper Island, making it a natural complement on a multi-dive day in that area. The site takes its name from the boulder's distinctive profile — a large pinnacle that rises vertically from approximately 18 meters to within a few meters of the surface, resembling a thumb pointing upward from the seafloor. Despite its relatively modest maximum depth, Thumb Rock packs in a remarkable diversity of species. Large schools of creole wrasse congregate around the formation, and the ledges beneath the overhangs shelter numerous lobsters. The site's biodiversity is considered superior to many other BVI sites and makes it a favourite for underwater photographers.
+Thumb Rock is located near the wreck dives of Wreck Alley (the Marie L and Pat wrecks) south of Cooper Island, making it a natural complement on a multi-dive day in that area. The site takes its name from the boulder's distinctive profile — a large pinnacle that rises vertically from approximately 18 meters to within a few meters of the surface, resembling a thumb pointing upward from the seafloor. Despite its relatively modest maximum depth, Thumb Rock packs in a remarkable diversity of species. Large schools of creole wrasse congregate around the formation, and the ledges beneath the overhangs shelter numerous lobsters. The site's biodiversity is considered superior to many other BVI sites and makes it a favourite for underwater photographers. Difficulty ratings for this site vary sharply by source — BVI Dive Map rates it Advanced, Dive BVI rates it Novice, and Sail Caribbean Divers rates it Beginner. This listing keeps the Intermediate rating used in a prior pass as a documented middle ground, since no single source's rating commands a majority.
 
 ## Site Information
 
@@ -62,4 +62,4 @@ Thumb Rock is rated highly for photography across multiple subjects. The creole 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/thumb-rock/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/thumb-rock/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). All three independently confirmed; species list (creole wrasse, lobsters, tarpon, French/queen angelfish, spotted drums, seahorses, barracuda) matches BVI Dive Map's site-specific listing. Last updated 2026-07-24.*

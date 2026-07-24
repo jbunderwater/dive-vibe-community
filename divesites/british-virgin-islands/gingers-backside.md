@@ -2,7 +2,7 @@
 name: Ginger's Backside
 lat: 18.388521
 lng: -64.487552
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 21
 entryType: boat
 siteType: reef
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Ginger's Backside
 
-The sheltered northern face of uninhabited Ginger Island on the Sir Francis Drake Channel, a calm and colorful reef rich in macro subjects and consistently recommended for underwater photography.
+The sheltered northern face of uninhabited Ginger Island on the Sir Francis Drake Channel — also referred to by some operators as "Alice's Backside" or "Ginger's Patch" — a calm, novice-friendly reef rich in macro subjects and consistently recommended for underwater photography.
 
 ## Overview
 

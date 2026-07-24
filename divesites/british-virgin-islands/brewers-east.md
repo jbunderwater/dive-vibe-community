@@ -63,4 +63,4 @@ The isolated rock formations on open sand create clean backgrounds for wide-angl
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brewers-east/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brewers-east/), [Dive BVI](https://divebvi.com/dive-sites/). Only two independently-verified, site-specific sources could be confirmed. BVI Diving's generic homepage cited in a prior pass had no site-specific content. A candidate third source, Virgin Islands Charter Yachts' "Brewers Bay Pinnacles" page, was checked directly and describes a different, deeper pinnacle site (matching this dataset's separate "Brewers Pinnacle" entry, not Brewer's East) — it was excluded to avoid conflating the two sites. A genuine third source for Brewer's East specifically could not be located. Last updated 2026-05-20 (re-audit incomplete, pending a third independent source).*

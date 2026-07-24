@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Anegada Reef
 
-Anegada Reef is a shallow coral reef system off Anegada, the BVI's most northerly and unique island. Unlike the volcanic islands of the BVI chain, Anegada is a flat coral limestone atoll barely 10 meters above sea level, surrounded by one of the Caribbean's most extensive and dangerous barrier reef systems — responsible for over 300 documented shipwrecks over the centuries.
+"Anegada Reef" in this database refers to a shallow section of Anegada's Horseshoe Reef system. Note: this specific site name could not be independently verified against dive-shop or database sources during this QA pass — see the sourcing note at the end of this page.
 
 ## Overview
 
-The reef sits in the shallow, crystal-clear waters off Anegada's coastline and reaches no more than 10 meters depth. The site features extensive hard coral formations characteristic of a Caribbean platform reef, with brain, star, and staghorn corals in various states of growth. Anegada's isolation (accessible only by small aircraft or boat from other BVI islands) keeps dive traffic lower than at the more easily reached sites near Road Town, and the reef quality reflects this. Visibility regularly exceeds 25 meters. Water temperature averages 27°C.
+Anegada is a flat coral-limestone atoll, unlike the volcanic islands elsewhere in the BVI chain, and is ringed by Horseshoe Reef — an extensive barrier reef repeatedly described in regional sources as the largest in the Caribbean and among the largest in the world, historically responsible for numerous shipwrecks. There is no dive centre based on Anegada itself; diving is organized from other BVI islands, or through the island's own boat operators. One confirmed operator, We Be Divin', has been granted exclusive dive access to sections of Horseshoe Reef. Named, independently documented dive sites in the Anegada area include East Loblolly Bay, Easy Loblolly Bay, Big Bamboo, and Flash of Beauty, along with wreck sites such as the Parmatta and the Rokus — none of which correspond to the name "Anegada Reef" used here. This entry likely refers informally to a shallow reef area rather than a specifically named, individually tracked dive site.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The reef sits in the shallow, crystal-clear waters off Anegada's coastline and r
 
 ## Marine Life
 
-Anegada is known for its large conch population and the historically productive lobster fishery. In the waters around the reef, sea turtles are abundant and particularly large. The healthier-than-average reef condition supports good fish diversity — parrotfish, groupers, and snapper are well represented. Eagle rays are sighted regularly, gliding over the sandy shallows adjacent to the reef.
+At a regional level, Anegada is known for a large conch population and a historically productive lobster fishery, and its waters are reported to hold larger, more abundant sea turtles than the more heavily dived southern BVI sites. These are destination-level characteristics, not confirmed sightings at this specific named site — no source-specific marine life report for "Anegada Reef" was found, so species claims are not attributed to this exact location.
 
 ## Dive Profile
 
@@ -60,8 +60,8 @@ Anegada's clear, shallow water and less-disturbed marine life create excellent n
 
 ## Additional Resources
 
-- Anegada Reef Hotel dive operation: the primary dive operator on Anegada
+- We Be Divin': confirmed operator with exclusive dive access to sections of Horseshoe Reef
 - Most BVI liveaboards include Anegada on multi-day itineraries
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/), [DivesCover – Anegada](https://divescover.com/diving/british-virgin-islands/anegada), [ZuBlu – British Virgin Islands](https://www.zubludiving.com/destination/lesser-antilles/leeward-islands/british-virgin-islands), [TripAdvisor – Horseshoe Reef](https://www.tripadvisor.com/Attraction_Review-g147362-d148086-Reviews-Horseshoe_Reef-Anegada_British_Virgin_Islands.html). Last updated 2026-05-20.*
+*Unresolved: "Anegada Reef" could not be confirmed as an independently-named, individually tracked dive site. BVI Dive Map's site database does not list any Anegada entries at all, and DiveScover's named Anegada sites (East/Easy Loblolly Bay, Big Bamboo, Flash of Beauty, Parmatta, Rokus) do not include this name. General destination-level facts above are supported by public reporting on Horseshoe Reef and We Be Divin's operations, but no site-specific source was found for "Anegada Reef" itself. Last updated 2026-05-20 (unchanged — pending re-identification of this site against a real named location).*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Playgrounds Anegada
 
-Playgrounds Anegada is a shallow, frolicsome reef dive off Anegada's coastline — one of the most relaxed and enjoyable dives accessible from the island, with an easy profile that lives up to the playful name.
+"Playgrounds Anegada" could not be confirmed as an independently-named, individually tracked dive site during this QA pass — see the sourcing note at the end of this page. It appears in this database as a shallow reef area of Anegada's Horseshoe Reef system.
 
 ## Overview
 
-Situated in the clear turquoise water around Anegada's flat coral atoll, Playgrounds features a shallow reef system at just 4–8 meters depth with excellent coral coverage and outstanding visibility. The Anegada atoll reef system is renowned for its clarity — the flat atoll geography allows little runoff and the water is among the clearest in the BVI. Brain corals, star corals, and large gorgonian sea fans characterise the site, and the sandy clearings between coral formations are classic Caribbean clear-water settings. Visibility consistently exceeds 25 meters. Water temperature averages 27°C.
+Anegada's Horseshoe Reef is renowned for water clarity — the flat atoll geography allows little runoff, and the surrounding water is reported to be among the clearest in the BVI. Independently documented named dive sites in the Anegada area include East Loblolly Bay, Easy Loblolly Bay, Big Bamboo, and Flash of Beauty, plus wreck sites such as the Parmatta and the Rokus — none of these match the name "Playgrounds Anegada." Note also that a genuinely distinct, separately confirmed site called "The Playground" exists in this database near Little Jost Van Dyke (see that entry), which may be the source of confusion behind this name. Depth and difficulty here reflect the shallow, calm character typical of Anegada's inner reef flats but are not independently verified for this specific name.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Situated in the clear turquoise water around Anegada's flat coral atoll, Playgro
 
 ## Marine Life
 
-Anegada's reef system supports notably healthy large-animal populations. Green sea turtles are abundant and large — the atoll's extensive seagrass beds support a significant resident turtle population. Conch shells are scattered across sandy areas. Queen triggerfish, parrotfish, and angelfish are common throughout the reef. Eagle rays are seen regularly, and the occasional nurse shark rests under deeper coral overhangs.
+At a regional level, Anegada's waters are reported to hold notably large, abundant sea turtles supported by extensive seagrass beds, and conch are commonly seen on sandy areas. These are destination-level characteristics rather than confirmed sightings at this specific named site — no site-specific marine life report for "Playgrounds Anegada" was found, so individual species claims are not attributed to this exact location.
 
 ## Dive Profile
 
@@ -60,8 +60,8 @@ The exceptional clarity of Anegada's water, combined with shallow depth and acti
 
 ## Additional Resources
 
-- Anegada Reef Hotel dive operation: the primary access point for Anegada dive sites
-- Best combined with Anegada Reef for a two-tank Anegada atoll day
+- Diving at Anegada is organized through operators on other BVI islands or the island's own boat operators
+- Best paired with a Horseshoe Reef day exploring different zones of the atoll
 
 ---
-*Sources: [Dive BVI](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [DivesCover – Anegada](https://divescover.com/diving/british-virgin-islands/anegada). Last updated 2026-05-20.*
+*Unresolved: "Playgrounds Anegada" could not be confirmed as an independently-named, individually tracked dive site. BVI Dive Map's site database does not list any Anegada entries at all, and DiveScover's named Anegada sites (East/Easy Loblolly Bay, Big Bamboo, Flash of Beauty, Parmatta, Rokus) do not include this name. It may be a conflation with the separately-confirmed "The Playground" site near Little Jost Van Dyke. Last updated 2026-05-20 (unchanged — pending re-identification of this site against a real named location).*

@@ -33,7 +33,7 @@ Carrot Shoal consists of two submerged pinnacles rising from open water between 
 
 ## Marine Life
 
-Carrot Shoal's orange and red encrusting sponges and corals are home to spotted and Spanish lobsters, spiny lobsters, hermit crabs, and moray eels — the classic reclusive reef dwellers the BVI notes are most reliably seen with a careful eye. Angelfish and butterflyfish are common on the shallower sections. Basslets hover over the coral. Sea turtles visit the pinnacle tops. Nurse sharks rest in deeper crevices. The open-water setting means reef sharks and barracuda appear regularly, with better encounters on the north side of the shoal.
+Confirmed site-specific sightings include angelfish, butterflyfish (including the less-common longsnout butterflyfish), basslets, spotted and Spanish lobsters, sea turtles, nurse sharks, and moray eels (including large green morays). Visibility and pelagic activity are typically best on the north side of the shoal. A claim of reef sharks and barracuda appearing "regularly" could not be confirmed by any source and has been softened — divers may see them, but they are not documented as a reliable feature here.
 
 ## Dive Profile
 
@@ -64,4 +64,4 @@ The encrusting orange and red sponges create distinctive coloring for wide-angle
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/carrot-shoal/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/carrot-shoal/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Peter_Island_Carrot_Shoal_dive_site.html), [ScubaBoard – Rhone Man's BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/). Last updated 2026-07-24.*

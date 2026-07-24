@@ -13,57 +13,57 @@ addedBy: osm_import
 
 ## Dead Chest
 
-An uninhabited National Park island between Salt Island and Peter Island with three distinct dive zones — Coral Gardens, Dead Chest Wall, and Painted Walls — named after a pirate legend involving Blackbeard.
+An uninhabited National Park island between Salt Island and Peter Island, named after a pirate legend involving Blackbeard, with a shallow coral-mound reef known locally as Coral Gardens on its northeast side.
 
 ## Overview
 
-Dead Chest sits in the Sir Francis Drake Channel between Salt Island and Peter Island, a small uninhabited island managed as a National Park. The diving here is divided into three separate zones, each with its own character. Coral Gardens on the northeast side features some of the BVI's largest coral mounds, with brain, star, and sheet corals capping rocky structures. The Painted Walls canyon system on the south side is one of the most visually striking sites in the BVI — four parallel canyons where encrusting sponges and corals create a technicolor display of purple, green, yellow, and red when dappled sunlight hits the walls. In 1993, as part of the BVI's artificial reef restoration programme, the remains of an Atlantic Air 360 airplane were placed at Coral Gardens, where it has since become a thriving habitat.
+Dead Chest sits in the Sir Francis Drake Channel between Salt Island and Peter Island, a small uninhabited island managed as a National Park. The site's name comes from the pirate legend of Edward Teach (Blackbeard), who allegedly marooned 15 mutinous crew members on this tiny island with nothing but a bottle of rum — an act commemorated in the well-known rhyme "Fifteen men on a dead man's chest, yo ho ho and a bottle of rum."
 
-The site's name comes from the pirate legend of Edward Teach (Blackbeard), who allegedly marooned 15 mutinous crew members on this tiny island with nothing but a bottle of rum — an act immortalized in a Robert Louis Stevenson poem.
+This entry covers the reef area on the northeast side of the island, known as Coral Gardens (not to be confused with the separate Coral Gardens/Airplane Wreck site off Great Dog Island, which involves a different, unrelated Atlantic Air aircraft wreck). This Dead Chest-area Coral Gardens is a shallow, friendly site with large coral mounds capped by brain, star, and sheet coral formations.
+
+Note that the western side of the island (rugged ledges and archways) and the dramatic canyon system on the south side are catalogued in this dataset as separate, individually named sites — Dead Chest West and Painted Walls — rather than as zones of this entry, matching how BVI dive operators (BVI Dive Map, BVI Diving, Virgin Islands Charter Yachts) list them as distinct dives.
 
 ## Site Information
 
-- **Location**: Between Salt Island and Peter Island, Sir Francis Drake Channel
+- **Location**: Northeast side of Dead Chest Island, Sir Francis Drake Channel, between Salt and Peter Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters (Painted Walls up to 24m; Coral Gardens 5–11m)
-- **Typical Visibility**: 20–30 meters
+- **Maximum Depth**: Not firmly established in available sources; described as shallow and suitable for snorkelers
+- **Typical Visibility**: Good
 - **Current**: Light
 - **Swell**: Low
 - **Best Time**: Year-round; calmer conditions in summer
 
 ## Marine Life
 
-The site supports a diverse reef community. At Coral Gardens, expect fairy basslets, grunts, snappers, spotted hawkfish, chromis, Spanish hogfish, glassy sweepers, gobies, banded coral shrimps, sea urchins, and green moray eels. The airplane wreck at Coral Gardens shelters lobsters, stingrays, and occasional barracuda. Painted Walls offers more dramatic encounters along the canyon walls — fairy basslets are abundant in the vivid sponge growth, and wrasses move actively through the corridors.
+Fairy basslets, grunts, snappers, spotted hawkfish, chromis, Spanish hogfish, glassy sweepers, gobies, and green moray eels are reported here. Filefish, chub, large snappers, and barracuda patrol the mid-water above the coral mounds, while goatfish, grunts, damselfish, and squirrelfish occupy the reef structure itself. Banded coral shrimp and sea urchins are found around the base of the coral mounds.
 
 ## Dive Profile
 
-Three separate mooring buoys serve the three zones. Coral Gardens is ideal as a first dive or for snorkelers — depths of 5–11 meters over extensive coral mounds. Painted Walls drops the most dramatically: start shallow at the canyon tops and follow the walls down to 24 meters, drifting through the four corridors while looking up at the colorful encrusting life. Dead Chest Wall offers a more moderate mid-water experience between the two extremes. Many boats visit two or even all three zones on a single outing.
+A mooring buoy serves this shallow reef. The coral mounds rise from a sandy bottom, capped with brain, star, and sheet coral formations, making this an easy, unhurried dive or a good option for snorkelers and first-time divers on the boat. Because the site is shallow and sheltered, it also works well as a fallback when conditions elsewhere in the Dead Chest/Salt Island area are marginal.
 
 ## Entry and Exit
 
-Boat access from Road Town or nearby anchorages. Moor at the designated buoys for each zone. Entry by giant stride or back roll. Painted Walls can have some surge — time your descent when the water calms. Exit as briefed by the dive operator, using an SMB on ascent.
+Boat access from Road Town or nearby anchorages. Moor at the designated buoy. Entry by giant stride or back roll. Exit as briefed by the dive operator, using an SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive light for Painted Walls — the colors of the encrusting sponges are dramatically revealed with artificial light
-- Visit Coral Gardens first if conditions are uncertain — it remains divable even with moderate swell
-- The airplane wreck at Coral Gardens makes for a good macro photography subject
-- Check the Atlantic Air 360 wreck carefully for lobsters and small critters sheltering inside
-- Painted Walls is best with good natural light in the morning when sunlight angles into the canyons
+- A good first dive of the day or a site to bring less-experienced divers and snorkelers
+- Remains divable even with moderate swell, since the reef is shallow and somewhat sheltered
+- If you're looking for the canyon/wall diving associated with Dead Chest Island, ask your operator about Dead Chest West or Painted Walls — those are separate dive sites, not part of this reef
 
 ## Safety Considerations
 
-Painted Walls can have surge from Atlantic swell on exposed days — abort that zone and dive Coral Gardens instead. Be aware of boat traffic in the channel. Maintain buoyancy when passing through the canyons to avoid contact with the encrusted walls. Carry an SMB for open-water ascents.
+Be aware of boat traffic in the channel. Maintain buoyancy over the coral mounds to avoid contact. Carry an SMB for ascents.
 
 ## Photography
 
-Painted Walls is one of the BVI's premier wide-angle subjects — a dive light or strobe is essential to bring out the full spectrum of colors on the canyon walls. Coral Gardens offers macro opportunities around the airplane wreck and on coral heads. Morning light angles best into the Painted Walls canyons.
+The coral mounds offer straightforward macro and close-focus subjects — look for banded coral shrimp and small reef fish sheltering among the brain and star coral heads. Good natural light in shallow water suits photography without strobes on sunny days.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dead-chest/), [BVI Diving](https://www.bvidiving.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/dead-chest/), [BVI Diving](https://www.bvidiving.com/diving-coral-gardens.html), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands_dive_sites.html). Last updated 2026-07-24.*

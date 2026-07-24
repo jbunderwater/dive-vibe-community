@@ -24,7 +24,7 @@ Gun Point is a hidden gem in the western BVI, reached via a dirt road to a white
 - **Location**: Western BVI
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Beginner in current site data — note that BVI Dive Map's page for this site explicitly labels it "Experience: advanced," which conflicts with the shallow, calm, shore-entry description below. This has not been resolved.
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: Excellent; shallow depth keeps colors vivid
 - **Current**: Generally low
@@ -62,4 +62,4 @@ Shallow depth and excellent natural light make this an ideal site for natural-li
 - **Last Updated**: 2026-04-11
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/gun-point/), [Dive BVI](https://divebvi.com/dive-sites/), [BVI Diving](https://www.bvidiving.com/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/gun-point/). This was the only source independently verified to contain content specific to this site, and it conflicts with our difficulty rating (see Site Information above). A second and third distinct source could not be confirmed, so this entry has not been fully re-validated. Last updated 2026-05-20.*

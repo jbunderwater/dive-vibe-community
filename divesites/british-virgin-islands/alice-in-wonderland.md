@@ -2,7 +2,7 @@
 name: Alice in Wonderland
 lat: 18.4
 lng: -64.4333
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 21
 entryType: boat
 siteType: reef
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 # Alice in Wonderland
 
-Alice in Wonderland is one of the British Virgin Islands' most distinctive reef sites, located on the south side of Ginger Island. The site earned its whimsical name from the extraordinary mushroom-coral formations that dot the reef — giant boulder corals and plate corals rising from the sandy bottom like something from a fantasy landscape.
+Alice in Wonderland is one of the British Virgin Islands' most distinctive reef sites, located on the southwest side of Ginger Island. The site earned its whimsical name from mushroom-shaped coral heads that dot the reef, rising from narrow sandy canyons and rocky ridges.
 
 ## Overview
 
-The site's defining feature is the collection of large mushroom-shaped coral formations that rise from a sandy floor to approximately 12–15 meters, creating a surreal topography of coral "mushrooms" of various sizes. The reef descends further to 21 meters where the sand base meets the deeper edge. The BVI's clear, warm waters are ideal for coral growth, and Alice in Wonderland's formations are among the largest and most impressive in the island group. Visibility typically reaches 25–30 meters. Water temperature averages 27°C.
+The site's defining feature is a collection of large mushroom-shaped coral formations rising from a sandy floor, set among narrow channels, sandy canyons, and rocky ridges. Depths reported by dive operators range from roughly 9 to 23 meters. Difficulty ratings vary by operator — most rate it Intermediate, though one lists it as Advanced and a travel guide describes it as suitable for "divers of all skill levels," so less experienced divers can still enjoy the shallower sections with a guide. Visibility is frequently excellent, with operators reporting over 30 meters in favorable conditions.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–21 m |
-| Difficulty | Beginner |
+| Depth Range | 9–23 m |
+| Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Reef |
 | Visibility | 20–30 m |
@@ -33,7 +33,7 @@ The site's defining feature is the collection of large mushroom-shaped coral for
 
 ## Marine Life
 
-The mushroom coral formations create habitat complexity that supports a rich fish community. Large parrotfish and queen triggerfish are prominent. Nurse sharks rest under the coral overhangs created by the mushroom formations. Hawksbill turtles are regularly sighted feeding on sponges attached to the large corals. Schools of creole wrasse sweep along the current faces, and barracuda hover in the water column above the reef.
+Confirmed site-specific sightings include spotted moray eels, large lobsters, exceptionally large pufferfish, spotted eagle rays, southern stingrays, hawksbill turtles, jacks (including crevalle jacks), parrotfish, squirrelfish, angelfish, and rock beauties. Nurse sharks rest under the mushroom coral overhangs, and large pelagic fish occasionally pass through the blue water. A claim of "queen triggerfish" as a prominent species could not be confirmed and has been removed.
 
 ## Dive Profile
 
@@ -64,4 +64,4 @@ The mushroom coral formations create genuinely otherworldly wide-angle subjects.
 - Best combined with Ginger Steps or The Indians for a full southern BVI dive day
 
 ---
-*Sources: [BVI Dive Map – Alice's Wonderland](https://bvi-dive-map.com/site/alices-wonderland/), [BVI Diving – Alice's Wonderland](https://www.bvidiving.com/diving-alices-wonderland.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/take-trip-wonderland-diving-ginger-island-british-virgin-islands). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map – Alice's Wonderland](https://bvi-dive-map.com/site/alices-wonderland/), [BVI Diving – Alice's Wonderland](https://www.bvidiving.com/diving-alices-wonderland.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/take-trip-wonderland-diving-ginger-island-british-virgin-islands), [ScubaBoard – Rhone Man's BVI Diving Guide](https://scubaboard.com/community/threads/rhone-mans-british-virgin-islands-diving-guide.255722/). Last updated 2026-07-24.*
