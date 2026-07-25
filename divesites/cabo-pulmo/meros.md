@@ -39,4 +39,4 @@ Depths from 9 to 18 meters along the reef bar. Follow the meandering coral forma
 - Keep an eye on the blue water — whale sharks and mobulas transit through without warning
 
 ---
-*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Cabo Pulmo Diving – Gourmet Menu](https://cabopulmodiving.com/our-gourmet-diving-menu/), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo). Last updated 2026-05-20.*
+*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico), [Girls that Scuba](https://www.girlsthatscuba.com/scuba-diving-cabo-pulmo-mexico/). cabopulmodiving.com (previously cited) is no longer live and has been dropped. Last updated 2026-07-25.*

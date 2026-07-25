@@ -39,4 +39,4 @@ Advanced certification recommended. Depths to approximately 21 meters (70 feet).
 - Not suitable for inexperienced divers regardless of certification level
 
 ---
-*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo). Last updated 2026-05-20.*
+*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo) (listed as "Outer Pulmo Cabo Reef"). Last updated 2026-07-25.*

@@ -10,7 +10,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "wikipedia.org,channelislands.noaa.gov,scubadiverlife.com,nationalgeographic.com,independent.com",
+    "validation_source": "wikipedia.org,channelislands.noaa.gov,scubadiverlife.com,nationalgeographic.com,independent.com,islapedia.com",
     "tags": {
       "historic": "wreck",
       "name": "Cuba",
@@ -18,8 +18,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Passenger/crew count conflict between sources: scubadiverlife.com gives 41 passengers + 71 crew (112 total); SB Independent gives 115 passengers + 65 crew. Fabricated figure of '77 passengers and crew' removed from markdown. Ship dimensions and cargo ($2.5M silver bullion) confirmed across multiple sources."
+      "last_qa_date": "2026-07-25",
+      "qa_notes": "RE-AUDIT 2026-07-25: Re-pulled NOAA, Wikipedia, Islapedia, National Geographic. Islapedia independently corroborates the '115 passengers, 65 crew' side of the existing conflict and gives location as '500 yards from Point Bennett' (close to the quarter-mile figure already used, not a material conflict). MARINE LIFE CORRECTED: previous markdown attributed wolf eels, spiny lobster, halibut, and nudibranchs to this specific wreck with no supporting source found this pass or last. Only Wikipedia's note that the wreck 'supports marine life including the California sheephead' is site-specific and sourced; all other species claims removed from markdown as unconfirmed regional filler. Overview's claim that sea lions/elephant seals 'regularly interact with divers on the wreck' softened — Point Bennett's pinniped colony is confirmed nearby, but no source ties this to diver interactions at the wreck itself. Passenger/crew conflict, ship dimensions, and cargo value remain confirmed across 5+ sources."
     }
   },
   {
@@ -41,8 +41,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "CRITICAL: Previous markdown was entirely incorrect. Vessel was USS Tortuga (LSD-26), a 457-ft Casa Grande-class dock landing ship that grounded at Cardwell Point, SAN MIGUEL ISLAND (not Santa Cruz Island) on December 15, 1987. Was scrapped in place; hull disappeared below surface August 21, 1988. NOT deliberately sunk as artificial reef. Previous description fabricated: wrong vessel identity, wrong location, wrong circumstances. Validation set to false pending dive-specific source confirmation of current wreck state. 3 independent sources confirm vessel identity and grounding location/date."
+      "last_qa_date": "2026-07-25",
+      "qa_notes": "RE-AUDIT 2026-07-25: Re-pulled Wikipedia's USS Tortuga (LSD-26) article; all previously verified facts reconfirmed (Casa Grande-class dock landing ship, 457 ft 9 in length, 4,490 long tons displacement, target-ship service 1983-1987, grounded Cardwell Point San Miguel Island Dec 15 1987, scrapped in place through Aug 1988). No new dive-specific source located this pass describing current wreck condition, depth profile, or marine life at the site. Remains UNRESOLVED / validated=false pending a dive-specific source — do not mark validated on historical facts alone."
     }
   },
   {
@@ -56,7 +56,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,independent.com,channelislandsdiveadventures.com",
+    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,independent.com,channelislandsdiveadventures.com,cadivingnews.com",
     "tags": {
       "historic": "wreck",
       "name": "Aggi",
@@ -64,8 +64,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Wreck history verified: 3-masted steel full-rigged ship, wrecked May 4, 1915 at Talcott Shoal, Santa Rosa Island. Cargo (600 tons beans, 2500 tons barley) confirmed. All 20-21 crew survived. Anchor recovered 1960s by Glenn Miller. Facts consistent across 5 sources."
+      "last_qa_date": "2026-07-25",
+      "qa_notes": "RE-AUDIT 2026-07-25: NEW CONFLICT FOUND — NOAA's current shipwrecks page gives the stranding date as May 3, 1915, while Islapedia and California Diving News give May 4, 1915; both dates now noted in markdown rather than picking one. Depth range (20-50 ft largely 20-30 ft) reconfirmed via California Diving News, consistent with existing 6-15m figure. MARINE LIFE CORRECTED: Channel Islands Dive Adventures (dive operator) specifically confirms sheepshead, lingcod, small rockfish, and invertebrates at this site — kept. Previous markdown's corynactis anemones, sponges, sunflower sea stars, spiny lobster, wolf eels, nudibranchs, cabezon, and garibaldi were NOT confirmed by any source found this pass and were removed, along with an unconfirmed claim about harbor seals investigating divers."
     }
   },
   {
@@ -79,7 +79,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,cawreckdivers.org",
+    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,cawreckdivers.org,channelislandsdiveadventures.com",
     "tags": {
       "historic": "wreck",
       "name": "Goldenhorn",
@@ -87,8 +87,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "CORRECTIONS: Previous markdown overview contained two errors: (1) described vessel as 'German' — vessel was Scottish-built; (2) stated wreck was at 'Point Conception in 1896' — wreck was on southwest coast of Santa Rosa Island on September 12, 1892. Wreck History section was already correct. Both errors corrected in overview paragraph. Vessel was iron-hulled four-masted bark, 268 ft, built 1883 in Scotland."
+      "last_qa_date": "2026-07-25",
+      "qa_notes": "RE-AUDIT 2026-07-25: Re-confirmed via California Wreck Divers and Islapedia — build year 1883 in Scotland (added to markdown, was missing), Sept 12 1892 wreck date, coal cargo, crew of 28, depth 15-30 ft (4.5-9m) all consistent. MARINE LIFE CORRECTED: no source consulted (NOAA, Islapedia, California Wreck Divers, or Channel Islands Dive Adventures — the latter explicitly returned no species data for this site) confirms any specific species at the Goldenhorn wreck. Previous markdown's purple sea urchins, garibaldi, kelp bass, and lingcod list removed as unconfirmed filler; replaced with an explicit note that this is unverified regional expectation, not a documented observation."
     }
   },
   {
@@ -102,7 +102,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,cawreckdivers.org,independent.com",
+    "validation_source": "channelislands.noaa.gov,islapedia.com,nps.gov,cawreckdivers.org,independent.com,channelislandsdiveadventures.com",
     "tags": {
       "historic": "wreck",
       "name": "S.S. Chickasaw",
@@ -110,8 +110,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Crew count conflict noted in markdown: NOAA gives '36 crew and passengers'; Islapedia and SB Independent give '46 crew plus 4 elderly tourists (50 total)'. Previous markdown said '36 crew and four passengers' — now noted as conflicted in description. Ship type (C-2), date (Feb 7, 1962), cargo (plywood, dishes, toys, optical supplies), and grounding location (south side Santa Rosa Island) confirmed across multiple sources."
+      "last_qa_date": "2026-07-25",
+      "qa_notes": "RE-AUDIT 2026-07-25: NEW CONFLICTS FOUND — (1) NOAA's current shipwrecks page gives a precise crew/passenger split of '32 crewmen, 4 passengers' (36 total), narrower than the previous 'NOAA gives 36 crew and passengers' phrasing; the Islapedia/Independent figure of 46 crew + 4 tourists (50 total) still conflicts and both are now stated precisely. (2) NOAA's current page adds 'shoes' and 'at least one 1950s vintage Buick' to the cargo manifest, not present in Islapedia/Independent's list (plywood, toys, dishes, optical supplies); both cargo lists now noted. CURRENT CONDITION CORRECTED: Channel Islands Dive Adventures (dive operator) states plainly that 'nothing remains visible of the ship now,' and California Wreck Divers describes the hull as having disintegrated 'piece by piece' over four decades — this contradicts the previous markdown's confident claim of an 'intact boiler and large hull sections.' Overview and Dive Profile corrected to reflect this uncertainty/disintegration rather than asserting intact structure. MARINE LIFE CORRECTED: only 'large sheepshead,' specifically confirmed by Channel Islands Dive Adventures, retained; kelp bass, rockfish, lingcod, garibaldi, cabezon, and wrasse removed as unconfirmed for this specific site."
     }
   },
   {
@@ -133,8 +133,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Key facts verified: 26 naval wrecking mines (confirmed by NPS), 215+ ft four-masted barkentine, wrecked/destroyed August 1929 at Skunk Point, Santa Rosa Island east end. NPS confirms it is largest wooden shipwreck within Channel Islands National Park. Steamer that rammed it not named in NPS source; markdown correctly omits the name."
+      "last_qa_date": "2026-07-25",
+      "qa_notes": "RE-AUDIT 2026-07-25: Re-pulled NPS 'Jane L. Stanford Shipwreck' page — all core facts reconfirmed (215+ ft four-masted barkentine, built by Hans Bendixen, rammed by a steamer Aug 31 1929, destroyed with 26 naval wrecking mines over 4 days at Skunk Point, largest wooden shipwreck in Channel Islands National Park). MARINE LIFE CORRECTED: the NPS page's only species mention is snowy plovers nesting on the adjacent beach (a land bird, not part of the dive). No source confirms garibaldi, perch, sheephead, sea stars, or anemones specifically at this wreck; previous markdown's list removed and replaced with an explicit statement that no site-specific marine life source was found."
     }
   },
   {
@@ -156,8 +156,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Facts verified: Fishing vessel, October 10, 1952, fire off Anacapa Island, crew of 11 rescued by Sea Ranger and Western Monarch, sank at Frenchy's Cove West Anacapa Island. WWII minesweeper service confirmed. Description consistent across NOAA, Islapedia, and NPS sources."
+      "last_qa_date": "2026-07-25",
+      "qa_notes": "RE-AUDIT 2026-07-25: Re-confirmed via Islapedia and NOAA — fishing vessel, WWII minesweeper service, fire Oct 10 1952, crew of 11 rescued by Sea Ranger and Western Monarch, sank at Frenchy's Cove, West Anacapa Island. All consistent, no new conflicts. MARINE LIFE CORRECTED: Frenchy's Cove is a documented California sea lion/harbor seal haul-out area generally (per NPS-adjacent sources), which is reasonably tied to the wreck's exact location, so that mention is retained with a caveat that sources describe the cove, not divers interacting with the wreck. Garibaldi, kelp bass, sheephead, and lingcod claims for the wreck itself were not confirmed by any source and have been removed."
     }
   },
   {
@@ -179,8 +179,8 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "CORRECTIONS: (1) Depth corrected from 12m to 9m (approximately 30 ft per California Diving News/Islapedia). (2) Fabricated claim that 'explosive charges were used to open the hull' removed — sources say vessel struck a rock and sank; site was subsequently salvaged. (3) Vessel correctly identified as tuna seiner (not generic 'commercial fishing vessel'). Depth updated in JSON from 12 to 9."
+      "last_qa_date": "2026-07-25",
+      "qa_notes": "RE-AUDIT 2026-07-25: CORRECTION OF PRIOR QA ERROR — the 2026-05-20 pass removed a claim that 'explosive charges were used to open the hull' as unverified. Fresh research this pass located the same specific detail (explosives used to salvage the vessel's valuable, nearly-new diesel engine) independently and consistently on California Diving News across two separate searches; this appears to be genuine site-specific content from that source rather than a fabrication, and has been restored to the markdown with attribution to California Diving News. Depth (25-30 ft / ~9m) reconfirmed. MARINE LIFE CORRECTED: California Diving News' marine life mentions (angel sharks, bat rays, moray eels, sea lions, harbor seals) are given as general Anacapa Island fauna, not tied to the Equator wreck specifically. Previous markdown's claims that garibaldi and sheephead 'patrol' this specific site were not confirmed and have been removed."
     }
   },
   {
@@ -194,7 +194,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "nps.gov,channelislands.noaa.gov,wikipedia.org,scubadiverlife.com,independent.com",
+    "validation_source": "nps.gov,channelislands.noaa.gov,wikipedia.org,scubadiverlife.com,independent.com,sanctuaries.noaa.gov",
     "tags": {
       "historic": "wreck",
       "name": "Winfield Scott",
@@ -204,8 +204,8 @@
       "wikipedia": "en:SS Winfield Scott",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Gold bullion value conflict noted: NPS says $1 million, Wikipedia says $2 million — noted as '$1-2 million (sources vary)' in markdown. Passenger count: Wikipedia says ~450 (some sources say up to 500) — retained '450 passengers and crew' with '(some sources indicate up to 500)' qualification. Ship dimensions (225 ft, 1,291 tons), builder (Westervelt & MacKay), and wreck date (December 1, 1853) confirmed across 5+ sources."
+      "last_qa_date": "2026-07-25",
+      "qa_notes": "RE-AUDIT 2026-07-25: Re-pulled Wikipedia, NOAA sanctuaries.noaa.gov 'earth is blue' feature, and Scuba Diver Life. All core facts reconfirmed: 225 ft, 1,291 tons, built by Westervelt & MacKay, wrecked Dec 1, 1853, depth 25-30 ft (7.6-9m). Gold value ($1-2M) and passenger count (450 vs up to 500) conflicts both reconfirmed as genuinely split across sources — retained as-is. MARINE LIFE CONFIRMED, not stripped: Scuba Diver Life specifically documents a garibaldi swimming between the wreck's paddle-wheel shaft flanges — this is a rare genuinely site-specific, sourced marine life claim for this destination and was kept. Channel Islands Dive Adventures' 'possible black sea bass' mention added with its original hedge intact."
     }
   },
   {
@@ -234,8 +234,8 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-20",
-      "qa_notes": "Key facts verified: launched September 24, 1930 as SS Borinquen; operated as Borinquen, Puerto Rico, Arosa Star, Bahama Star, La Jenelle; rescued 373 Yarmouth Castle survivors (November 13, 1965, confirmed); grounded April 13, 1970 at Port Hueneme; incorporated into breakwater by Navy Seabees. Length 'nearly 500 feet' per Captain's Table blog (other sources say 467 ft). Tonnage: 9,000 tons per search results. D-Day support confirmed by Captain's Table."
+      "last_qa_date": "2026-07-25",
+      "qa_notes": "RE-AUDIT 2026-07-25: NEW CONFLICT FOUND AND NOW STATED IN MARKDOWN — length/tonnage is genuinely disputed across sources: Wikipedia's Borinquen (1930) article gives 413 ft 7 in (126.1 m) and 7,114 GRT; Captain's Table Blog gives 'nearly 500 feet'; California Diving News gives approximately 466-467 feet and approximately 9,000 tons. All three figures now reported in the markdown rather than picking one. Yarmouth Castle rescue figure of 373 survivors RECONFIRMED via Wikipedia's SS Yarmouth Castle article (Bahama Star specifically rescued 240 passengers + 133 crew = 373) — this is accurate, not a conflict. MARINE LIFE CORRECTED: California Diving News specifically documents garibaldi, cabezon, rockfish, opaleye, senoritas, and sheep crab (a species distinct from spiny lobster) at this site — these replace the previous markdown's less-precise list of sand bass, calico bass, sculpin, sheephead, garibaldi, rockfish, and spiny lobster, most of which were not confirmed by any source found."
     }
   }
 ]

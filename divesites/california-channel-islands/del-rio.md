@@ -17,7 +17,7 @@ Del Rio is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-The Del Rio is a steam schooner that wrecked off Anacapa Island, her remains resting in a shallow kelp-fringed rocky area at around 12 meters with sections of hull, machinery, and boiler scattered across the reef. The shallow depth and proximity to Anacapa's sea lion colony make it a lively dive — it's common to have inquisitive California sea lions weaving between divers while garibaldi flash orange against the kelp fronds above. Visibility here can be exceptional on calm summer days, reaching 20 meters or more in the clear Channel Islands water.
+The Del Rio is a steam schooner that wrecked off Anacapa Island, her remains resting in a shallow kelp-fringed rocky area at around 12 meters with sections of hull, machinery, and boiler scattered across the reef. Frenchy's Cove, where the wreck lies, is a documented California sea lion and harbor seal haul-out area, so encounters with curious pinnipeds are plausible — though no source specifically documents them interacting with divers at this wreck rather than the cove generally. No site-specific marine life report was found for the wreck itself; an earlier claim about garibaldi at this site has been removed as unconfirmed. Visibility here can be exceptional on calm summer days, reaching 20 meters or more in the clear Channel Islands water.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Del Rio was a commercial fishing vessel that had previously served in mine-s
 
 ## Marine Life
 
-Frenchy's Cove on West Anacapa Island is sheltered from the prevailing northwest swell and is home to a resident California sea lion colony. Garibaldi — California's state saltwater fish — are abundant here in the kelp-fringed shallows. The Del Rio's hull sections provide relief structure for kelp bass, sheephead, and lingcod. The surrounding rocky reef supports coralline algae, sea urchins, and the cold-water invertebrates typical of Anacapa's nutrient-rich waters.
+Frenchy's Cove on West Anacapa Island is sheltered from the prevailing northwest swell and is a documented haul-out area for California sea lions and harbor seals, though sources describe this generally for the cove rather than the Del Rio wreck specifically. No source consulted during this QA pass confirmed fish species — such as garibaldi, kelp bass, sheephead, or lingcod — at the Del Rio wreck itself; the earlier species list has been removed as unconfirmed for this site. The surrounding rocky reef supports the cold-water invertebrate growth typical of Anacapa's nutrient-rich waters.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Frenchy's Cove is one of the most accessible Anacapa dive sites. The sheltered c
 Water temperature at Anacapa ranges from approximately 12°C (54°F) in winter to 18°C (65°F) in summer. A 7 mm wetsuit with hood and gloves is recommended; conditions are generally mild relative to the northern islands. The site is protected — disturbing or removing any artifacts is a federal offense.
 
 ---
-*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Shipwrecks: Anacapa Island](https://www.islapedia.com/index.php?title=SHIPWRECKS:_ANACAPA_ISLAND), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/northern-channel-islands/), [Peace Dive Boat](https://peaceboat.com/). Last updated 2026-05-20.*
+*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Shipwrecks: Anacapa Island](https://www.islapedia.com/index.php?title=SHIPWRECKS:_ANACAPA_ISLAND), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/northern-channel-islands/), [Peace Dive Boat](https://peaceboat.com/). Last updated 2026-07-25.*

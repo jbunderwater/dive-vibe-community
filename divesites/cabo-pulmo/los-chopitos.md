@@ -39,4 +39,4 @@ Shallow reef diving to 10 meters. The easy depth profile allows long bottom time
 - Can be linked to Las Casitas by swimming in the right conditions
 
 ---
-*Sources: [Cabo Pulmo Diving – Los Chopitos](https://cabopulmodiving.com/los-chopitos/), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Costa Coral Mexico](https://www.costacoralmexico.com/en/diving-center-capo-pulmo/scuba-diving/). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Costa Coral Mexico](https://www.costacoralmexico.com/en/diving-center-capo-pulmo/scuba-diving/), [Moon Travel Guides](https://www.moontravelguides.com/travel/outdoors/cabo-pulmo-diving-and-snorkeling/). cabopulmodiving.com (previously cited) is no longer live and has been dropped. Last updated 2026-07-25.*

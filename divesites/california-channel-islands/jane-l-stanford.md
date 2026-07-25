@@ -17,7 +17,7 @@ Jane L. Stanford is a historic wreck dive in California Channel Islands, North A
 
 ## Overview
 
-The Jane L. Stanford is a 215-foot four-masted wooden barkentine — the largest wooden ship to wreck within Channel Islands National Park — that was deliberately destroyed with naval wrecking mines at Skunk Point on the east end of Santa Rosa Island in 1929. Her debris field lies scattered across a shallow rocky reef in just 5 meters of water, accessible in calm conditions. The wreck is highly broken up after nearly a century of Pacific swell, but her iron frames and fastenings are encrusted with cold-water invertebrates and colonised by the garibaldi, perch, and sheephead that are ubiquitous in Channel Islands kelp habitats. The exposure of the Santa Rosa coastline means conditions must be carefully assessed before attempting this dive, as surge can make the shallow reef uncomfortable.
+The Jane L. Stanford is a 215-foot four-masted wooden barkentine — the largest wooden ship to wreck within Channel Islands National Park — that was deliberately destroyed with naval wrecking mines at Skunk Point on the east end of Santa Rosa Island in 1929. Her debris field lies scattered across a shallow rocky reef in just 5 meters of water, accessible in calm conditions. The wreck is highly broken up after nearly a century of Pacific swell. No source consulted during this QA pass documents specific marine life at this wreck (see Marine Life below); the exposure of the Santa Rosa coastline means conditions must be carefully assessed before attempting this dive, as surge can make the shallow reef uncomfortable.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Jane L. Stanford was a four-masted barkentine — square-rigged on the forem
 
 ## Marine Life
 
-The site at Skunk Point lies in very shallow water — 1.5 to 5 meters — in a sand, rock, and kelp habitat at the eastern tip of Santa Rosa Island. The inshore environment supports garibaldi, perch, sheephead, and the cold-water invertebrates typical of Channel Islands reef habitats. Sea stars and encrusting anemones colonise the iron fasteners and keelson timbers visible above and below the sand.
+No source consulted during this QA pass — including the National Park Service's page on this wreck — documents specific marine life at the Jane L. Stanford site. NPS notes only that snowy plovers, a federally threatened shorebird, nest on the adjacent beach from March through September; this is a land-based species and not part of the underwater dive experience. The shallow sand, rock, and kelp habitat at Skunk Point is typical of northern Channel Islands reefs generally, but no site-specific report confirms which fish or invertebrate species occur at this particular wreck.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Visibility and surge at this exposed, shallow site are highly condition-dependen
 Extreme shallowness makes this site extremely surge-prone — even light swell creates significant water movement at 1.5–3 meters. Water temperature at Santa Rosa Island requires a 7 mm wetsuit with hood and gloves year-round. The site is protected; removal of any timber, fasteners, or artifacts is prohibited under federal law.
 
 ---
-*Sources: [NPS - Jane L. Stanford Shipwreck](https://www.nps.gov/places/000/jane-l-stanford-shipwreck.htm), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Santa Barbara Independent - Channel Islands Shipwrecks](https://www.independent.com/2020/02/26/channel-island-shipwrecks-tell-stories-of-heroism-heartbreak-and-high-seas-scalawaggery/). Last updated 2026-05-20.*
+*Sources: [NPS - Jane L. Stanford Shipwreck](https://www.nps.gov/places/000/jane-l-stanford-shipwreck.htm), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Santa Barbara Independent - Channel Islands Shipwrecks](https://www.independent.com/2020/02/26/channel-island-shipwrecks-tell-stories-of-heroism-heartbreak-and-high-seas-scalawaggery/). Last updated 2026-07-25.*

@@ -39,4 +39,4 @@ Advanced certification required. The reef drops to 30 meters and currents can sh
 - Current strength varies significantly between dives — listen to the guide's briefing carefully
 
 ---
-*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo). Last updated 2026-05-20.*
+*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico) (listed as "Mario's Reef"), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo) (listed as "Outer Pulmo Cabo Reef"). Last updated 2026-07-25.*

@@ -10,12 +10,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "wikipedia.org,divebvi.com,bvi-dive-map.com,bviscuba.org,sailcaribbeandivers.com",
+    "validation_source": "wikipedia.org,divebvi.com,bvi-dive-map.com,bviscuba.org,sailcaribbeandivers.com,numa.net,thebviinsider.com,scubadiving.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "310 ft (94 m) long, 40 ft beam, 2,738 GRT. Built Millwall Iron Works, launched February 1865. Sank 29 October 1867 in San Narciso Hurricane. Of ~145 aboard, 25 survived. Bow at 24m, stern at 6-15m. BVI National Marine Park since 1980.",
-      "last_qa_date": "2026-05-20"
+      "notes": "310 ft (94 m) long, 40 ft beam, 2,738 GRT. Built Millwall Iron Works, launched 11 February 1865. Sank 29 October 1867 in San Narciso Hurricane after striking Black Rock Point, Salt Island. Of ~145 aboard, sources conflict on the toll: Wikipedia states 25 survivors (~120 dead) in its body text but 123 dead in its summary; thebviinsider.com states 23 survivors (~122 dead). Bow at 24m, stern at 6-9m. BVI National Marine Park since 1980. Re-audited 2026-07-25: casualty-count conflict added to markdown per multi-source cross-check.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -33,8 +33,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Four rocky pinnacles rising above sea surface. Site type updated from reef to pinnacle - confirmed by multiple operators. Depth corrected: best diving 5-20m, base to 35m. Strong currents possible.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Four rocky pinnacles rising above sea surface. Site type updated from reef to pinnacle - confirmed by multiple operators. Depth corrected: best diving 5-20m, base to 35m. Strong currents possible. Re-confirmed 2026-07-25 via Sail Caribbean Divers (Beginner, 15m) - coral gardens and shallow pools noted, consistent with existing entry.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -52,8 +52,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Three water-level caves at Norman Island. Cavern environment (not true cave). Popular for snorkeling and shallow diving. Protected national park.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Three water-level caves at Norman Island. Cavern environment (not true cave). Popular for snorkeling and shallow diving. Protected national park. Re-confirmed 2026-07-25: Sail Caribbean Divers snorkeling page lists turtles and nurse sharks at this specific site.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -71,8 +71,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Offshore pinnacle 1.5km SE of Norman Island. Depths 6-31m. Craggy top with fire coral. Pelagic fish. ScubaBoard confirms as deep pinnacle accessible at various levels.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Offshore pinnacle 1.5km SE of Norman Island. Depths 6-31m. Craggy top with fire coral. Pelagic fish, sharks, barracuda. Re-confirmed 2026-07-25 via Sail Caribbean Divers (Advanced, 30m, 'haven for large pelagic fish, sharks and great barracudas') - matches existing entry.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -90,8 +90,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Shallow pinnacle between Salt Island and Dead Chest Island. Rises from 20m to 4m below surface. Strong currents. Complex tunnels, overhangs, undercuts. Lobsters abundant. Weather-dependent.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Shallow pinnacle between Salt Island and Dead Chest Island. Rises from 20m to 4m below surface. Strong currents. Complex tunnels, overhangs, undercuts. Lobsters abundant. Weather-dependent. Re-confirmed 2026-07-25 via Sail Caribbean Divers (Advanced, 18m).",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -103,14 +103,14 @@
     "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": true,
     "validation_source": "bvi-dive-map.com,bvidiving.com,sailcaribbeandivers.com,divebvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "SW side of Ginger Island. Spur and groove reef 11-21m. Huge mushroom-shaped coral heads. Eagle rays, stingrays, turtles, reef sharks common. Visibility often 30m+. Easy navigation.",
-      "last_qa_date": "2026-05-20"
+      "notes": "SW side of Ginger Island. Spur and groove reef 11-21m. Huge mushroom-shaped coral heads. Eagle rays, stingrays, turtles, reef sharks common. Visibility often 30m+. CORRECTED 2026-07-25: difficulty changed from Beginner to Intermediate - re-audit found Sail Caribbean Divers explicitly lists 'Alice's Wonderland' as Intermediate (23m) and Dive BVI lists 'Alice In Wonderland' as Novice/Intermediate; the prior Beginner-only rating was not supported by primary sources.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -128,8 +128,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Five scuttled wrecks off Cooper Island: Marie L (90-ft cargo, 1991), Pat Rex (inter-island trader, 1995), Beata (tugboat, 2000), Island Seal (cargo ship, grounded 2006 Salt Island, scuttled here). Depths 15-27m. Note: difficulty updated to Advanced per BVI Scuba - confirmed Advanced OW site.",
-      "last_qa_date": "2026-05-20"
+      "notes": "CORRECTED 2026-07-25: FOUR scuttled wrecks (not five) off Cooper Island - Marie L (90-ft cargo, 1991), Pat/Pat Rex (inter-island trader, 1995, collided with Marie L on descent), Beata (tugboat, 2000), Island Seal (cargo ship). Island Seal sink date CONFLICTS across sources: BVI Wreck Week states grounded/sunk 25 August 2006; Reef Smart Guides states sunk 2009 and lies upside down. Both figures kept in markdown as an unresolved conflict. Depths 26-27m (85-90ft) per Reef Smart Guides GPS-referenced description. Note: Inganess Bay is a separate, nearby wreck sometimes grouped with Wreck Alley by BVI Wreck Week but tracked as its own site here.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -143,12 +143,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,divescover.com,zubludiving.com,tripadvisor.com",
+    "validation_source": "bvi-dive-map.com,divescover.com,zubludiving.com,tripadvisor.com,thebviinsider.com,yachtwarriors.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Part of Horseshoe Reef - 18-mile barrier reef (4th largest globally). Nurse sharks, rays, turtles. Guided access only - We Be Divin' has exclusive access. Visibility excellent.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Part of Horseshoe Reef - 18-mile barrier reef (4th largest globally per multiple sources). Nurse sharks (5-6ft) return to the same sheltered spot every June-July and are approachable in the shallows; rays and turtles also reported. Guided access only - We Be Divin' holds exclusive operator access, confirmed by thebviinsider.com and yachtwarriors.com. Visibility excellent. Re-audited 2026-07-25.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -166,8 +166,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Vertical chimney swim-through 12m to 3-4m exit on reef top. Protected site. Cavern environment (not true cave). Sail Caribbean Divers confirms beginner-accessible.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Vertical chimney swim-through 12m to 3-4m exit on reef top. Protected site. Cavern environment (not true cave). Dive BVI describes it as a well-known Dog Islands landmark; a claim that it was 'discovered by Jacques Cousteau' appears on one operator page (Dive BVI) but is not independently corroborated by any Cousteau expedition record found in this pass, so it is presented as an unverified operator claim rather than fact. Re-audited 2026-07-25.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -185,8 +185,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "East of Cooper Island. Ridge rises from 24m. Open water site with pillar corals, black corals, sea fans. Pelagic fish. Can have strong currents.",
-      "last_qa_date": "2026-05-20"
+      "notes": "East of Cooper Island. Ridge rises from 24m. Open water site with pillar corals, black corals, sea fans. Pelagic fish. Can have strong currents. Re-confirmed 2026-07-25: Dive BVI lists Intermediate/Advanced, 9-24m - consistent.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -204,8 +204,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Three dramatic step walls on Ginger Island southwest: 12m, 20m, 29m. Tube sponges, sea fans, corals. ScubaBoard forum confirms this as terraced wall dive.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Three dramatic step walls on Ginger Island southwest: 12m, 20m, 29m. Tube sponges, sea fans, corals. Re-confirmed 2026-07-25 via Sail Caribbean Divers (Intermediate/Advanced, 30m) and Dive BVI (Novice/Intermediate, 9-27m) - consistent terraced wall dive.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -223,8 +223,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Shallow reef site around Anegada. Part of Horseshoe Reef system. Requires local guide. Good for beginners in calm conditions.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Shallow reef site around Anegada. Part of Horseshoe Reef system. Requires local guide. Good for beginners in calm conditions. Re-audit 2026-07-25: no additional site-specific source located beyond the three already cited; general Horseshoe Reef/Anegada regional characteristics apply. Left validated but flagged as thin sourcing in the QA summary.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -238,12 +238,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,divebvi.com,bvidiving.com",
+    "validation_source": "bvi-dive-map.com,divebvi.com,bvidiving.com,virgin-islands-charter-yachts.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Southwest of Norman Island. Captivating canyons and ridges with gorgonians.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Southwest of Norman Island, leeward side. Captivating canyons and ridges with gorgonians on a sandy bottom. Re-confirmed 2026-07-25 via virgin-islands-charter-yachts.com: site is well protected from outside currents, described as ideal for all divers, consistent with Beginner rating.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -261,8 +261,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Northwestern tip of George Dog. Features ridges, archways, canyons with soft and pillar coral. Sail Caribbean Divers lists as beginner site (difficulty corrected from Intermediate).",
-      "last_qa_date": "2026-05-20"
+      "notes": "Northwestern tip of George Dog. Features ridges, archways, canyons with soft and pillar coral. Re-confirmed 2026-07-25: both Sail Caribbean Divers and Dive BVI list Beginner/Novice, 15m - consistent.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -274,14 +274,14 @@
     "depth": 18,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": true,
     "validation_source": "bvi-dive-map.com,sailcaribbeandivers.com,divebvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Between Norman Island and Peter Island. Two pinnacles in open water. One of the most exciting night dive sites in the BVI.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Between Norman Island and Peter Island. Two pinnacles in open water. One of the most exciting night dive sites in the BVI. CORRECTED 2026-07-25: difficulty changed from Intermediate to Advanced - Sail Caribbean Divers explicitly rates it Advanced (20m) with strong currents, lobsters, eels, hermit crabs; prior Intermediate rating not supported by re-pulled source.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -299,8 +299,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "West side of Dead Chest Island. Multi-level formations with overhangs, caves, ridges, passages, and archways.",
-      "last_qa_date": "2026-05-20"
+      "notes": "West side of Dead Chest Island. Multi-level formations with overhangs, caves, ridges, passages, and archways. Re-audit 2026-07-25: no new site-specific source beyond the three already cited; general Dead Chest National Park character (confirmed separately) is consistent.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -318,8 +318,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Northern side of Ginger Island in Sir Francis Drake Channel. Good for macro photography.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Northern side of Ginger Island in Sir Francis Drake Channel. Good for macro photography. Re-audit 2026-07-25: no independent confirmation found beyond the three already-cited domains this pass (possible match to 'Alice's Backside/Ginger Patches' on Dive BVI's list, but name variance too uncertain to treat as confirmation). Left validated but flagged as needing deeper follow-up in the QA summary.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -337,8 +337,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Hidden gem with fiery red wall and rocky formations covered with corals and sponges. Experiences big swells.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Hidden gem with fiery red wall and rocky formations covered with corals and sponges. Experiences big swells. Re-confirmed 2026-07-25: BVI Dive Map independently uses the same 'fiery red wall' description and calls it a hidden gem most operators pass over, 6-18m, Novice/Intermediate rating on that source - noting as a minor difficulty conflict against our Advanced rating, kept as Advanced given swell exposure.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -356,8 +356,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "West of West Dog Island. Underwater boulders resembling Bedrock. Rocky formations with ledges and crevices.",
-      "last_qa_date": "2026-05-20"
+      "notes": "West of West Dog Island. Underwater boulders resembling Bedrock. Rocky formations with ledges and crevices. CONFLICT noted 2026-07-25: Dive BVI's own site listing rates this Intermediate (9-21m), not Advanced. Kept existing Advanced rating pending further confirmation, but flagged the conflict in the markdown rather than silently resolving it.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -375,8 +375,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "South of Cooper Island. Relatively uncrowded. Good for underwater photography.",
-      "last_qa_date": "2026-05-20"
+      "notes": "South of Cooper Island. Relatively uncrowded. Good for underwater photography. Re-confirmed 2026-07-25: Dive BVI lists Intermediate, 12-24m, v-shaped groove with vertical drop - broadly consistent, minor difficulty variance noted (Intermediate vs our Advanced).",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -394,8 +394,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Near Dead Chest Island. Four gullies with canyons, walls, and a narrow cave. Bold yellow, red, orange, purple corals. Hawksbill turtles, nurse sharks.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Near Dead Chest Island. Four gullies with canyons, walls, and a narrow cave. Bold yellow, red, orange, purple corals. Hawksbill turtles, nurse sharks. CONFLICT noted 2026-07-25: Sail Caribbean Divers rates this Beginner (12m) with an archway feature, versus the Intermediate/18m rating carried here. Both figures now noted in the markdown rather than picking one.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -413,8 +413,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Near Mountain Point and Cow's Mouth. Stunning underwater caves and hills covered in corals and gorgonians.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Near Mountain Point and Cow's Mouth. Stunning underwater caves and hills covered in corals and gorgonians. Re-audit 2026-07-25: could not independently re-confirm beyond the three domains already cited from the original pass - targeted searches this round returned no additional site-specific results. Left validated (three domains already on record) but flagged in the QA summary as not independently re-verified this pass.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -426,14 +426,14 @@
     "depth": null,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "validated": true,
     "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Southwestern BVI, 12 minutes from Spanish Town. Massive pinnacle with caves, canyons, ledges. Best in summer.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Southwestern BVI, 12 minutes from Spanish Town. Massive pinnacle with caves, canyons, ledges. Best in summer. CORRECTED 2026-07-25: difficulty changed from Beginner to Advanced - Dive BVI explicitly lists 'The Visibles/POS' as Intermediate/Advanced (12-24m); a submerged pinnacle exposed to open water is inconsistent with a Beginner rating and the prior rating appears to have been an error.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -451,8 +451,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Uninhabited islet. National park since 1974. Caves, ledges, rocky formations covered with colorful sponges and corals.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Uninhabited islet. National park since 1974. Caves, ledges, rocky formations covered with colorful sponges and corals. CONFLICT noted 2026-07-25: Dive BVI's 'Seal Dog Rocks' entry rates this general area Novice/Intermediate (12-24m); our 28m/Advanced rating may reflect a deeper specific spot within the Seal Dogs group. Kept Advanced given the greater depth, conflict flagged in markdown.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -470,8 +470,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Northeast of Dead Chest Island. Brain, sheet, and star corals, large sea fans.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Northeast of Dead Chest Island. Brain, sheet, and star corals, large sea fans. Re-confirmed 2026-07-25: BVI Dive Map independently lists nearly identical species (brain/sheet/star corals, sea fans) plus site-specific fish list (puffers, filefish, chub, snappers, redmullets, goatfish, grunts, damselfish, squirrelfish, jawfish, barracuda) - strong corroboration.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -489,8 +489,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Eastern side of Brewers Bay, northern Tortola. Isolated rocky formations on sandy bottom.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Eastern side of Brewers Bay, northern Tortola. Isolated rocky formations on sandy bottom. CONFLICT noted 2026-07-25: Dive BVI lists 'Brewers Bay East' as Intermediate (12-21m); our record carries Advanced. Both ratings now noted; kept Advanced pending further confirmation.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -504,12 +504,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,dreamwrecks.com,divebvi.com,bviwreckweek.com",
+    "validation_source": "bvi-dive-map.com,dreamwrecks.com,divebvi.com,bviwreckweek.com,wikipedia.org,virginislandsnewsonline.com,islandrootscharters.com,reefsmartguides.com,seatrekbvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Two sunken ships at Peter Island. The Fearless: wooden-hulled minesweeper, believed sister ship of Cousteau's Calypso, upright on sand at ~24m. The Willy T: former floating bar, scuttled 7 August 2019 by Beyond the Reef nonprofit, rests upright with crow's nest at ~10m, deck at ~20m. Both wooden wrecks severely degraded - no penetration of Fearless.",
-      "last_qa_date": "2026-05-20"
+      "notes": "DEEP RE-RESEARCHED 2026-07-25. The Fearless is identified by Wikipedia as USS Fearless (AMc-80), an Accentor-class wooden coastal minesweeper: laid down 4 Aug 1941, launched 18 Nov 1941, commissioned 4 Feb 1942, length 98ft 5in (30m). Sunk as a target vessel in 1973 (not scuttled for diving purposes), lies on her keel in ~24m (80ft) 800 yards north of Great Harbour, Peter Island. The 'sister ship of Calypso' claim is repeated by bvi-dive-map.com and other operator sites as a belief/tradition, not a documented naval record - both vessels were WWII-era wooden Allied minesweepers of similar type, but no source confirms an official sister-ship designation, so this is presented as a widely repeated claim rather than verified fact. The Willy T: a former floating bar/restaurant washed ashore in Hurricane Irma (Sept 2017), restored and deliberately scuttled 7 August 2019 by Beyond the Reef (local nonprofit) at Key Bay, Peter Island - confirmed independently by virginislandsnewsonline.com, islandrootscharters.com, reefsmartguides.com, and seatrekbvi.com. Rests on sand at ~20-20.5m (65-67ft), crow's nest at ~11.5m (35-38ft). Both wooden wrecks severely degraded - no penetration of the Fearless.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -523,12 +523,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "bvidiving.com,bvi-dive-map.com,bviwreckweek.com,bviscuba.org",
+    "validation_source": "bvidiving.com,bvi-dive-map.com,bviwreckweek.com,bviscuba.org,justgottadive.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "136-foot inter-island cargo freighter built in Holland in 1950 for Scottish company. Sold to Captain Cosmos Sealey 1988. Grounded in storm (some sources say Hurricane Bertha July 1996), deliberately sunk August 1996 by BVI Dive Operators Association. Rests upright on sand at 29m (95ft), mastheads at 14m (45ft). Engine and most doors removed before sinking.",
-      "last_qa_date": "2026-05-20"
+      "notes": "DEEP RE-RESEARCHED 2026-07-25. 136-foot steel inter-island cargo freighter built in Holland in 1950 for a Scottish company. Sold to Captain Cosmos Sealey in 1988 (via Antigua-based Captain Hugh Bailey), traded Puerto Rico-to-Trinidad routes 1988-1996. Ran aground near The Moorings charter base in 1996 after a storm snapped her anchor cable - re-pulled sources (bvidiving.com, justgottadive.com) describe only 'a storm', NOT Hurricane Bertha specifically; the 'Hurricane Bertha July 1996' attribution in the prior QA pass could not be independently corroborated this round and is now presented as unconfirmed/possible in the markdown rather than stated as fact. Declared a write-off and deliberately sunk August 1996 by the BVI Dive Operators Association. Rests upright on sand south of Cooper Island, mastheads at 14m (45ft), bottom at 29m (95ft). Engine and most doors removed before sinking.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -546,8 +546,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Between The Baths and Spanish Town, Virgin Gorda. Rocky formations, small caves, granite boulders.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Between The Baths and Spanish Town, Virgin Gorda. Rocky formations, small caves, granite boulders. Re-confirmed 2026-07-25: Dive BVI lists Novice, ~11m, 'attracts some of the largest schools and varieties of reef fish' - consistent.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -565,8 +565,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Next to Joe's Cave on West Dog, southwest tip closest to Scrub Island. Novice-level wall dive with low swell and low current.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Next to Joe's Cave on West Dog, southwest tip closest to Scrub Island. Novice-level wall dive with low swell and low current. CONFLICT noted 2026-07-25: Dive BVI's own site list rates 'Wall To Wall' Intermediate/Advanced (9-23m), directly contradicting the Beginner/'novice-level' framing carried here. Both ratings now noted in markdown as an unresolved conflict rather than silently picking one.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -584,8 +584,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Small islet northwest of Virgin Gorda in The Dogs group. Rocky formations with ledges and crevices. Open waters with strong currents.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Small islet northwest of Virgin Gorda in The Dogs group. Rocky formations with ledges and crevices. Open waters with strong currents. CONFLICT noted 2026-07-25: Dive BVI's 'Seal Dog Rocks' listing rates the group Novice/Intermediate (12-24m); kept Advanced here given the strong-current framing already in the original notes, conflict flagged in markdown.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -603,8 +603,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "1,500-foot-long wall on north side of Norman Island. Named after Spyglass Hill from Treasure Island.",
-      "last_qa_date": "2026-05-20"
+      "notes": "1,500-foot-long wall on north side of Norman Island. Named after Spyglass Hill (pirate lookout point). Re-confirmed 2026-07-25 via BVI Diving's dedicated page: 3-18m, Novice-rated by that operator (a further conflict with our Intermediate rating, noted in markdown), sea fans and purple tube sponges, eagle rays/turtles/tarpon/stingrays in open water off the wall.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -622,8 +622,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Between Cooper and Ginger Islands. Magnificent rocky formation with boulders densely populated by fish.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Between Cooper and Ginger Islands. Magnificent rocky formation with boulders densely populated by fish. Re-confirmed 2026-07-25: Sail Caribbean Divers lists Advanced, 27m (exact depth match) with sharks and rays; Dive BVI lists Advanced 12-21m under 'Carvel Rock' spelling.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -641,8 +641,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Northwest side of Virgin Gorda near Mountain Point. Named after rock shaped like a cow's mouth. Great visibility.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Northwest side of Virgin Gorda near Mountain Point. Named after rock shaped like a cow's mouth. Great visibility. Re-confirmed 2026-07-25 via BVI Dive Map: visibility up to 30m (100ft), barracuda/eagle rays/jacks reported, interior of the rock formation explorable and sometimes holds fish - specific marine life added.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -656,12 +656,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com",
+    "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com,bvitrustees.org,bvisail.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Six miles west of Jost Van Dyke. National Park. Over 15 diving sites around the islands. Strict no-anchor policy.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Six miles west of Jost Van Dyke. National Park (established 1995, 210 acres per bvitrustees.org). Over 15 diving sites around the islands (confirmed by bvisail.com). Strict no-anchor policy, patrolled. Re-confirmed 2026-07-25: sea beds slope to ~50m (165ft) matching our depth field exactly; only nesting site in BVI for magnificent frigate birds (new detail, not diving-relevant but confirms source overlap).",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -679,8 +679,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "North of Virgin Gorda. Submerged pinnacle rising to 4 feet from surface with no marker buoy. Strong currents. Only suitable for experienced divers in calm weather.",
-      "last_qa_date": "2026-05-20"
+      "notes": "North of Virgin Gorda. Submerged pinnacle rising to 4 feet from surface with no marker buoy. Strong currents. Only suitable for experienced divers in calm weather. Re-confirmed 2026-07-25: Dive BVI lists Advanced, 18m, submerged pinnacle with sponges/soft corals/strong currents - consistent.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -698,8 +698,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Near Wreck Alley. Massive underwater pinnacle resembling a thumb. Superior marine biodiversity. Sail Caribbean lists as Beginner/Intermediate site; difficulty corrected from Advanced.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Near Wreck Alley. Massive underwater pinnacle resembling a thumb. Superior marine biodiversity, creole wrasse schools. Re-audit 2026-07-25: Sail Caribbean Divers page currently reads flatly 'Beginner' (18m); kept Intermediate as a reasonable midpoint given the site's earlier Advanced-to-Intermediate correction history, conflict noted in markdown.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -717,8 +717,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "South of Guana Island with white sand beach. Aquarium-like waters with nice walls and smaller rocky formations.",
-      "last_qa_date": "2026-05-20"
+      "notes": "South of Guana Island with white sand beach. Aquarium-like waters with nice walls and smaller rocky formations. Re-confirmed 2026-07-25: Dive BVI lists 'Monkey Point (Guana Island)' at 9m/Snorkel level - consistent with Beginner rating.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -732,12 +732,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,sailcaribbeandivers.com,divebvi.com",
+    "validation_source": "bvi-dive-map.com,divebvi.com,bvidiving.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Near Scrub Island. System of ledges at ~18m. Monitor open water for rays and sharks. Higher currents typical. Sail Caribbean confirms Advanced.",
-      "last_qa_date": "2026-05-20"
+      "notes": "CORRECTED 2026-07-25: our coordinates (18.472479, -64.50118) place this site in the Scrub Island/Great Camanoe area, matching Dive BVI's 'Shark Point (Scrub Island)' - Intermediate/Advanced, 12-21m - NOT Sail Caribbean Divers' separate, similarly-named 'Shark Point' at Peter Island (Advanced, 21m). The prior note's 'Sail Caribbean confirms Advanced' attribution has been removed as a likely misattribution between two distinct same-named BVI sites; Dive BVI is now the cited source for this location.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -751,12 +751,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com",
+    "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com,scubadivingresource.com,worldwideboat.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Near the RMS Rhone wreck. Magnificent colored reef with soft and hard corals. Can have currents.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Near the RMS Rhone wreck, within Dead Chest/Rhone National Marine Park. Magnificent colored reef with soft and hard corals. Can have currents. Re-confirmed 2026-07-25: scubadivingresource.com and worldwideboat.com independently describe turtles and nurse sharks at this site plus 'coral-encrusted tunnels' - added to markdown with source attribution.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -774,8 +774,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Less crowded site ideal for looping around schools of fish. Giant barrel sponges, golden zoanthids, crinoids, gorgonians.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Less crowded site ideal for looping around schools of fish. Giant barrel sponges, golden zoanthids, crinoids, gorgonians. Re-confirmed 2026-07-25: BVI Dive Map's dedicated Ring Dove Rock page independently lists near-identical detail plus an extended species list (butterflyfish, sergeant majors, rock beauties, bar jacks, filefish, yellowhead jawfish, urchins, angelfish, lizardfish, moray eels, lobsters, harlequin basslet) - strong corroboration, species list added to markdown.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -793,8 +793,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Northern side of George Dog. Eastern canyons, western ledges. Weather-dependent; best in summer.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Northern side of George Dog. Eastern canyons, western ledges. Weather-dependent; best in summer. CONFLICT noted 2026-07-25: Dive BVI's 'Ledges/Dolphin Rocks' entry rates this Novice (6-15m); kept Advanced here pending further confirmation, conflict flagged in markdown.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -812,8 +812,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Uninhabited National Park between Salt and Peter Island. Three diving zones: Coral Gardens, Dead Chest Wall, and Painted Walls.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Uninhabited National Park between Salt and Peter Island. Three diving zones: Coral Gardens, Dead Chest Wall, and Painted Walls. Re-confirmed 2026-07-25: worldwideboat.com independently confirms Dead Chest National Park contains multiple named dive zones (Blonde Rock, Painted Walls, Rhone Reef) within the broader marine park - zone naming varies slightly by source but the multi-zone character is corroborated.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -825,14 +825,14 @@
     "depth": 13,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": true,
     "validation_source": "bvi-dive-map.com,sailcaribbeandivers.com,divebvi.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Eastern side of Salt Island near Cooper Island. Pillar coral formations. Near RMS Rhone. Sail Caribbean confirms beginner level.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Eastern side of Salt Island near Cooper Island. Pillar coral formations. Near RMS Rhone. CORRECTED 2026-07-25: difficulty changed from Beginner to Intermediate and the prior 'Sail Caribbean confirms beginner level' attribution has been removed as a misattribution - the re-pulled Sail Caribbean Divers page explicitly rates Vanishing Rock Intermediate (15m) with strong currents.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -846,12 +846,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com",
+    "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com,virgin-islands-charter-yachts.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "South of Norman Island. Maze of ledges, canyons, and caverns with an open cave.",
-      "last_qa_date": "2026-05-20"
+      "notes": "South of Norman Island. Maze of ledges, canyons, and caverns with an open cave. Re-confirmed 2026-07-25 via virgin-islands-charter-yachts.com: name reportedly originates from an incident where bull sharks chased Annie and Duncan Muirhead (crew of the Misty Law, BVI's first liveaboard) back to their boat while scouting the site; site-specific species added: queen angelfish, black durgon, filefish, barracuda, stingrays, lobsters, eels.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -869,8 +869,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "North of Norman Island near Pelican Island. Abundant corals, sponges, gorgonians.",
-      "last_qa_date": "2026-05-20"
+      "notes": "North of Norman Island near Pelican Island, southwest of Peter Island. Abundant corals, sponges, gorgonians. Re-confirmed 2026-07-25: BVI Dive Map's dedicated page independently lists site-specific species - juvenile trunkfish, spotted drums, creole wrasse, garden eels, queen angelfish, nurse sharks - added to markdown.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -888,8 +888,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "East of Little Harbour, Peter Island area. Deep water reef with moorings.",
-      "last_qa_date": "2026-05-20"
+      "notes": "East of Little Harbour, Peter Island area. Deep water reef with moorings. Re-confirmed 2026-07-25: BVI Dive Map describes it as a deep-water spot east of Little Harbour with moorings on the harbour's western side, also popular for commercial fishing - consistent with 'deep water reef' framing though the source emphasizes it less as a coral-garden reef and more as an open deep-water mooring site.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -903,12 +903,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,wikipedia.org,bvidiving.com,bviscuba.org",
+    "validation_source": "bvi-dive-map.com,wikipedia.org,bvidiving.com,bviscuba.org,numa.net,worldwideboat.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Features the anchor from the RMS Rhone, dragged around a coral head during the hurricane of 29 October 1867. Captain cut the chain to attempt escape. Anchor still wrapped around same coral head, covered in colorful coral growth.",
-      "last_qa_date": "2026-05-20"
+      "notes": "DEEP RE-RESEARCHED 2026-07-25. Features the anchor from the RMS Rhone. Cross-referenced history (numa.net + Wikipedia RMS Rhone): while sheltering at Great Harbour, Peter Island ahead of the 29 October 1867 hurricane, a shackle on the anchor cable caught in the hawse pipe; Captain Wooley ordered the ~3,000-lb anchor and ~300ft of chain cut loose so the ship could flee - it never reached safety and wrecked off Salt Island. The anchor remains wrapped around the same coral head, now coral-encrusted. DEPTH CONFLICT: worldwideboat.com states the anchor lies in ~55ft (17m) of water at Great Harbour, Peter Island, while our existing record carries 25m (82ft) - both figures now presented in the markdown as a source conflict rather than picking one; location (Great Harbour, Peter Island, not directly at the Salt Island wreck site) is consistent with our coordinates.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -926,8 +926,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "246-foot (75m) refrigerator vessel based in St. Maarten, serviced Japanese fishing fleets. Deliberately set ablaze and cast adrift by owners in early 1981 when hurricane threatened St. Maarten harbor. Drifted toward Marina Cay; tugboat tow line snapped injuring crew member; sank 7.5 miles NW of Tortola. Lies on port side, starboard rail at ~15m (50ft), bottom at 23m (75ft). Three accessible cargo holds. Resident Goliath grouper documented. One confirmed whale shark encounter at site (Cuan Law dive). Note: some sources say built in Japan 1960 as Seujo Maru No. 1, but this is from a single source and unverified by second independent source.",
-      "last_qa_date": "2026-05-20"
+      "notes": "246-foot (75m) refrigerator vessel based in St. Maarten, serviced Japanese fishing fleets. Deliberately set ablaze and cast adrift by owners in early 1981 when hurricane threatened St. Maarten harbor. Drifted toward Marina Cay; tugboat tow line snapped injuring crew member; sank 7.5 miles NW of Tortola. Lies on port side, starboard rail at ~15m (50ft), bottom at 23m (75ft). Three accessible cargo holds. Resident Goliath grouper documented. One confirmed whale shark encounter at site (Cuan Law dive). Re-audited 2026-07-25: sources re-pulled and remain consistent; single-source 'Seujo Maru No. 1 / built Japan 1960' claim remains unverified by a second independent source and stays flagged as such.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -945,8 +945,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Western side of Cooper Island. Craters, ledges, rocky outcroppings with sea fans.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Western side of Cooper Island. Craters, ledges, rocky outcroppings with sea fans. CONFLICT noted 2026-07-25: Dive BVI lists 'Cistern Point' at Cooper Island as Beginner (6-12m) - matches our location but not our Intermediate rating. Sail Caribbean Divers separately lists a 'Cistern Point' at Salt Island (Beginner/Snorkeling, 15m) - possibly a second, different site of the same name, or a location discrepancy between operators. Both conflicts now noted in markdown; kept Intermediate and Cooper Island location pending further confirmation.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -960,12 +960,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com",
+    "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com,h2oluxuryyachts.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Uninhabited island south of Virgin Gorda. National Park since 1974, bird sanctuary since 1959. Underwater caves, tunnels, and rocky formations.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Uninhabited island south of Virgin Gorda. National Park since 1974, bird sanctuary since 1959. Underwater caves, tunnels, and rocky formations. Re-confirmed 2026-07-25 via h2oluxuryyachts.com: independently confirms the 1974/1959 park dates and describes the site as 'an underwater version of the Baths' with heavy volcanic boulders - strong corroboration.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -983,8 +983,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Named after the blue chromis fish. Sea fans, gorgonians. Depth range 9-27m. Good for training dives.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Named after the blue chromis fish. Sea fans, gorgonians. Depth range 9-27m. Good for training dives. Re-confirmed 2026-07-25: independent search result confirms depth range 9-27m (30-90ft) matching our max-depth figure exactly.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -998,12 +998,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,bvidiving.com,bviwreckweek.com,uncommoncaribbean.com",
+    "validation_source": "bvi-dive-map.com,bvidiving.com,bviwreckweek.com,uncommoncaribbean.com,en.wikipedia.org,aerialbvi.com,travelweekly.com,1beyondthereef.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Great Dog Island. Atlantic Air BVI Shorts 360 aircraft made abortive takeoff 6 May 1993, landed ~60m off runway; used as BBC film prop, then sunk as artificial reef. Also 3 art-installation 'Sharkplane' aircraft sunk December 2019. Plus dense coral formations of boulder star coral, brain corals. Mooring buoys available.",
-      "last_qa_date": "2026-05-20"
+      "notes": "DEEP RE-RESEARCHED 2026-07-25. Great Dog Island. AIRCRAFT MODEL CONFLICT: the aviation-incident record on Wikipedia's Terrance B. Lettsome International Airport page identifies the 6 May 1993 Atlantic Air BVI aircraft that overran the runway and landed in the sea as a Short 330 turboprop; dive-industry sources (bvidiving.com, aerialbvi.com) consistently call it a 'Shorts 360'. Both model names are now presented as a source conflict in the markdown rather than asserting one. Confirmed across sources: no injuries, plane recovered then used as a film prop (bvidiving.com specifies BBC) before being sunk at Great Dog as an artificial reef, now sits without wings/tail on a sand patch at ~12-15m. Separately, in December 2019, three Beyond the Reef 'Sharkplaneo' aircraft (Piper Navajo, Piper Aztec, Cessna 150) shaped like a bull shark, hammerhead, and nurse shark were sunk nearby at 12-14m (40-45ft) - two had been damaged in Hurricane Irma (2017), the third in a separate accident. Broken previous Wikipedia link (en.wikipedia.org/wiki/Atlantic_Air_BVI, 404) replaced with the working Terrance B. Lettsome International Airport article which documents the incident.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -1021,8 +1021,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Hidden gem with uncrowded white sand beaches. Shore entry via dirt road.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Hidden gem with uncrowded white sand beaches. Shore entry via dirt road. Re-audit 2026-07-25: targeted searches this pass returned no additional site-specific results beyond the three domains already cited from the original pass. Left validated but flagged in the QA summary as not independently re-verified this round.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -1040,8 +1040,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Off Great Camanoe, 2 minutes from Scrub Island. Soft and hard corals with colorful sponges.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Off Great Camanoe, 2 minutes from Scrub Island. Soft and hard corals with colorful sponges. CONFLICT noted 2026-07-25: Dive BVI lists Novice (6-12m), a small wall site accessible in most weather; kept Intermediate here, conflict flagged in markdown.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -1059,8 +1059,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Western side of Brewers Bay, northern Tortola. Isolated rocky pinnacles rising to different heights.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Western side of Brewers Bay, northern Tortola. Isolated rocky pinnacles rising to different heights. Re-confirmed 2026-07-25: Dive BVI's 'Brewers Bay West' entry matches closely - Intermediate/Advanced, 21-30m, pinnacles, devil rays reported - consistent with our Advanced/30m record; devil ray sighting added to markdown.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -1074,12 +1074,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com",
+    "validation_source": "bvi-dive-map.com,bvidiving.com,divebvi.com,bviscubaco.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "East of Green Cay West near Little Jost Van Dyke. Corals and gorgonians with exciting pinnacles on north side.",
-      "last_qa_date": "2026-05-20"
+      "notes": "East of Green Cay West near Little Jost Van Dyke. Corals and gorgonians with exciting pinnacles on north side. Re-confirmed 2026-07-25 via bviscubaco.com: 'The Playground' at Green Cay, Advanced, ~21m (70ft), manta rays and eagle rays reported; single-source claim that it was 'voted #1 Big Animal Dive in the BVI by Sport Diver magazine (2004)' is presented as an attributed operator claim, not independently verified by a second source.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -1097,8 +1097,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Northwest of Virgin Gorda. Sandy bottom with corals and sea sponges. Caves, passages, rock formations with sleeping nurse sharks.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Northwest of Virgin Gorda. Sandy bottom with corals and sea sponges. Caves, passages, rock formations with sleeping nurse sharks. Re-confirmed 2026-07-25: Dive BVI independently describes 'three separate moorings' with grottoes and coral heads at Novice level (~21m) - consistent.",
+      "last_qa_date": "2026-07-25"
     }
   },
   {
@@ -1116,8 +1116,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "West of West Dog Island. Huge boulders up to 25 feet high on sandy bottom. Underwater cave narrow at top, widens at base. Giant groupers, lobsters, eagle rays, glassy sweepers.",
-      "last_qa_date": "2026-05-20"
+      "notes": "West of West Dog Island, south of Flintstones. Huge boulders up to 25 feet high on sandy bottom. Cave crevice ~75ft long, narrow lit entrance widening at base. Giant groupers, lobsters, eagle rays, glassy sweepers. Named for Joe Giacinto, founder of Dive BVI, who discovered the site in the early 1980s (per BVI Dive Map). CONFLICT noted 2026-07-25: Dive BVI's own site list rates this Novice (6-14m); kept Advanced here given the confined cave topography, conflict flagged in markdown.",
+      "last_qa_date": "2026-07-25"
     }
   }
 ]

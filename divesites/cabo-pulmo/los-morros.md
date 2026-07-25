@@ -40,4 +40,4 @@ Maximum depth of 18 meters along the broken reef. Most of the action happens in 
 - Check the tunnel and crevice formations for resting groupers
 
 ---
-*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico), [Costa Coral Mexico](https://www.costacoralmexico.com/en/diving-center-capo-pulmo/scuba-diving/). Last updated 2026-07-25.*

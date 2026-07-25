@@ -39,4 +39,4 @@ The active zone is shallow — most of the dive is spent in 3–8 meters of wate
 - Often scheduled as the final dive of the day due to its shallow, relaxing profile
 
 ---
-*Sources: [Cabo Pulmo Diving – Sea Lion Colony](https://cabopulmodiving.com/sea-lion-colony/), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Costa Coral Mexico](https://www.costacoralmexico.com/en/diving-center-capo-pulmo/scuba-diving/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico) (listed as "Sea Lion Colony / Frailes Rock"). cabopulmodiving.com (previously cited) is no longer live and has been dropped. Last updated 2026-07-25.*
