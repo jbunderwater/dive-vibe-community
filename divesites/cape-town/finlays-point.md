@@ -21,7 +21,7 @@ Finlay's Point is a popular shore entry dive on the False Bay side of the Cape P
 
 Bryozoans, sponges, colonial ascidians, and anemones encrust the reef surfaces. Pyjama catsharks are a reliable sighting at this site. Reef fish species typical of False Bay inhabit the rocky margins.
 
-*Note: broadnose sevengill sharks and "large seven-gill cow sharks" were listed in a previous version. Per Dive Team Cape Town, sevengill sharks have been elusive in the False Bay area since 2016. Sevengill sharks have been removed as a reliable sighting at Finlay's Point.*
+*Note: broadnose sevengill sharks and "large seven-gill cow sharks" were listed in a previous version. Per Dive Team Cape Town, sevengill sharks have been elusive in the False Bay area since 2016 — a 2026 re-audit (Cape RADD) attributes this to a 2015 orca predation event that killed at least nine cow sharks in the Millers Point area, with sharks partly relocating to the False Bay Yacht Club marina. Sevengill sharks have been removed as a reliable sighting at Finlay's Point.*
 
 ## Site Information
 
@@ -38,4 +38,4 @@ Bryozoans, sponges, colonial ascidians, and anemones encrust the reef surfaces. 
 Pyjama catsharks, bryozoans, sponges, colonial ascidians, anemones, and reef fish are documented at this site. No additional specific species are confirmed by reviewed sources.
 
 ---
-*Sources: [Wikivoyage — Cape Peninsula East Coast Dive Sites](https://en.wikivoyage.org/wiki/Dive_sites_of_the_Cape_Peninsula_east_coast), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Dive Team Cape Town](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Cape Peninsula East Coast Dive Sites](https://en.wikivoyage.org/wiki/Dive_sites_of_the_Cape_Peninsula_east_coast), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Dive Team Cape Town](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town), [Cape RADD — Where Did All the Cow Sharks Go?](https://www.caperadd.com/news/where-did-all-the-cow-sharks-go/). Last updated 2026-07-23.*

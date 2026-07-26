@@ -17,14 +17,16 @@ A cluster of deliberately sunk vessels off the north shore of Cooper Island — 
 
 ## Overview
 
-Wreck Alley sits offshore from Red Bluff on the north side of Cooper Island and contains five purpose-sunk wrecks that can all be visited on a single dive. The site has grown over decades: the Marie L, a 90-foot cargo vessel, was scuttled in 1991; the Pat Rex, an inter-island trader of similar size, was sunk in 1995 and collided with the Marie L as it descended, so the two now lie port-to-port creating a dramatic double-wreck profile. The Beata, a well-preserved tugboat, was scuttled in 2000 upright with her bow resting near the reef slope. The Island Seal, a small cargo ship carrying seven containers, grounded on a shoal near Salt Island in August 2006 and eventually capsized; the crew was rescued and the wreck was subsequently relocated to Wreck Alley as an artificial reef. Each vessel lies on sandy seabed at 15–27 metres adjacent to a natural reef slope. Visibility averages 20–30 metres. Water temperature is 26–28°C year-round.
+Wreck Alley sits offshore from Red Bluff on the north side of Cooper Island and contains five purpose-sunk wrecks that can all be visited on a single dive. The site has grown over decades: the Marie L, a 90-foot cargo vessel, was scuttled in 1991; the Pat Rex, an inter-island trader of similar size, was sunk in 1995 and struck the Marie L as it descended, so the two now lie port-to-port creating a dramatic double-wreck profile. The Beata, a well-preserved tugboat, was scuttled in 2000 upright with her bow resting near the reef slope. The Island Seal, a small cargo ship carrying seven containers, grounded on a shoal near Salt Island in August 2006 and eventually capsized; the crew was rescued and the wreck was subsequently relocated to Wreck Alley as an artificial reef, with reefsmartguides.com giving 2009 for that relocation. Each vessel lies on sandy seabed at 15–27 metres adjacent to a natural reef slope. Visibility averages 20–30 metres. Water temperature is 26–28°C year-round.
+
+*Depth note (2026-07-23 re-audit): sources disagree on the site's overall depth. bviscuba.org and bviwreckweek.com describe the general depth range as 3–20 m (10–65 ft), while reefsmartguides.com and islandrootscharters.com report the wreck cluster itself sitting on sand at 26–27 m (85–90 ft). This page follows the latter, wreck-specific figures.*
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
 | Depth Range | 15–27 m |
-| Difficulty | Intermediate |
+| Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Wreck |
 | Visibility | 20–30 m |
@@ -62,4 +64,4 @@ The variety of wrecks in different stages of marine colonisation creates interes
 - Often combined with the RMS Rhone for a two-tank wreck diving day
 
 ---
-*Sources: [BVI Scuba - Wreck Alley](https://bviscuba.org/destinations/wreck-alley/), [BVI Wreck Week - Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Dive Map - Wreck Alley](https://bvi-dive-map.com/site/marie-l/), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t), [Reef Smart Guides](https://reefsmartguides.com/wreck-alley/). Last updated 2026-05-20.*
+*Sources: [BVI Scuba - Wreck Alley](https://bviscuba.org/destinations/wreck-alley/), [BVI Wreck Week - Wreck Alley](https://bviwreckweek.com/tours/wreck-alley/), [BVI Dive Map - Wreck Alley](https://bvi-dive-map.com/site/marie-l/), [Island Roots Charters](https://www.islandrootscharters.com/charter-blog/bvi-wreck-diving-guide-rhone-wreck-alley-willy-t), [Reef Smart Guides](https://reefsmartguides.com/wreck-alley/). Last updated 2026-07-23.*

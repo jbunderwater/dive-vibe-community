@@ -12,9 +12,9 @@
       "addedBy": "fill_new_destinations",
       "validated": true,
       "validation_source": "en.wikivoyage.org,scubashack.co.za,aaddicts.co.za",
-      "marine_life": "cuttlefish, helmet shells, leopard catsharks, soles, red fanworms, anemones, feather stars, nudibranchs, reef fish",
-      "notes": "Difficulty upgraded to Intermediate: cold water (12-18\u00b0C), kelp navigation required, surge possible. Eagle rays NOT confirmed at this specific site.",
-      "last_qa_date": "2026-05-20"
+      "marine_life": "cuttlefish, helmet shells, leopard catsharks, soles, red fanworms, anemones, feather stars, nudibranchs, reef fish (blacktail, Cape Hottentot, galjoen, Red Roman), gully sharks (occasional), octopus, Cape rock lobster, Cape fur seals",
+      "notes": "Difficulty upgraded to Intermediate: cold water (12-18\u00b0C), kelp navigation required, surge possible. Eagle rays NOT confirmed at this specific site. 2026-07-23 re-audit: marine_life tag expanded to match aaddicts.co.za-confirmed species already present in markdown (gully sharks, blacktail, Cape Hottentot, galjoen, Red Roman, octopus, seals) - this was a tag completeness gap, not a hallucination. scubashack.co.za returned HTTP 503 during this re-audit and could not be re-verified live.",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -34,7 +34,7 @@
       "water_temp_c": "14-18",
       "great_white_status": "absent_since_2018",
       "notes": "Great white sharks disappeared from False Bay circa 2017-2018 per peer-reviewed research (Frontiers in Marine Science, 2025). Cage diving operations now primarily encounter bronze whalers. Description must reflect current status.",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -60,8 +60,8 @@
       ],
       "depth_range": "22-38m",
       "scuttling_period": "1972-1983",
-      "notes": "Five scuttled vessels; scuttling spanned 1972-1983 (NOT 'early 1970s' alone). Correct spelling: MFV Orotava (not Oratava). SAS Transvaal and SAS Good Hope are Loch-class frigates. Advanced certification required.",
-      "last_qa_date": "2026-06-30"
+      "notes": "Five scuttled vessels; scuttling spanned 1972-1983 (NOT 'early 1970s' alone). Correct spelling: MFV Orotava (not Oratava). SAS Transvaal and SAS Good Hope are Loch-class frigates. Advanced certification required. 2026-07-23 re-audit: SAS Transvaal displacement conflict - Wikipedia states 1,435-2,260 long tons vs. Wikivoyage's rounded 2,000 tonnes. See sas-transvaal-wreck.md for detail.",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -76,12 +76,12 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "en.wikivoyage.org,diveteam.co.za,aaddicts.co.za",
+      "validation_source": "en.wikivoyage.org,diveteam.co.za,aaddicts.co.za,caperadd.com",
       "marine_protected_area": true,
       "pinnacles": "rise from 14m to 5m",
       "marine_life": "Cape fur seals, pyjama sharks, spotted gully sharks, Cape knifejaw, Roman sea bream, nudibranchs, sea cucumbers, brittle stars, octopus",
-      "notes": "Sevengill sharks listed as 'elusive since 2016' per diveteam.co.za; removed as reliable sighting. Great whites also absent from False Bay since ~2018.",
-      "last_qa_date": "2026-06-30"
+      "notes": "Sevengill sharks listed as 'elusive since 2016' per diveteam.co.za; removed as reliable sighting. Great whites also absent from False Bay since ~2018. 2026-07-23 re-audit (caperadd.com): sevengill decline traced to a 2015 orca predation event that killed at least 9 cow sharks at this general Millers Point area; sharks have partly relocated to False Bay Yacht Club marina. Confirms 'elusive since 2016' framing remains accurate; sightings at this site remain rare, not reliable.",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -103,7 +103,7 @@
       "depth_range": "3-13m",
       "alternate_name": "JJM Reef",
       "notes": "Difficulty upgraded to Intermediate: cold Atlantic water, open-water conditions, exposed to swell. Also accessible by shore from North Windmill Beach but most commonly boat dive from Miller's Point (~4km).",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -125,7 +125,7 @@
       "depth_range": "8-30m",
       "marine_life": "nudibranchs, basket stars, brittle stars, colonial ascidians, dreadlocks hydroids, sponges, soft corals, cape rock lobster; seals occasional",
       "notes": "Located ~4.5km from Hout Bay Harbour on Atlantic seaboard. Previous description incorrectly said 'Table Bay'. Pyjama sharks NOT confirmed at this site \u2014 removed.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -147,7 +147,7 @@
       "visibility_m": "up to 20m on good summer days after SE wind",
       "anchor": "large iron anchor from Het Huis te Kraaienstein VOC wreck",
       "notes": "Depth range 8-17m (centre 5m, seaward edge to 17m). Site is a rocky reef with cave/cavern features; properly classified as cave for its celebrated cavern and swim-throughs.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -164,7 +164,7 @@
       "validated": true,
       "validation_source": "en.wikivoyage.org,wikipedia.org,southernpeninsulaexplorer.co.za",
       "ship_type": "Loch-class frigate (ex-HMS Loch Ard)",
-      "ship_displacement": "2000 tonnes",
+      "ship_displacement": "~1,435-2,300 tonnes (sources conflict; see notes)",
       "ship_length": "93.6m",
       "sunk": "1978-08-03",
       "history": "Scuttled to form artificial reef; laid down 20 Jan 1944 Harland & Wolff Belfast, launched 2 Aug 1944",
@@ -172,7 +172,8 @@
       "depth_main_deck": "~29m",
       "permit_required": true,
       "hazards": "unstable structure, fine silt, scorpionfish",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23",
+      "notes": "Displacement conflict identified 2026-07-23: Wikipedia gives 1,435 long tons (standard load) / 2,260 long tons (deep load) for this Loch-class frigate class; Wikivoyage and southernpeninsulaexplorer.co.za state a rounded 2,000 tonnes. Length (93.6m) and beam (~11.7-11.8m) agree across all sources. Reporting the range rather than a single figure."
     }
   },
   {
@@ -191,7 +192,7 @@
       "features": "large boulders, swim-throughs, breaks surface at low tide",
       "marine_life": "Red bait ascidian, kelp, false corals, feather stars, sea cucumbers, fish shoals, Cape fur seals",
       "alternate_names": "Castle Blinder",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -206,13 +207,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "en.wikivoyage.org,aaddicts.co.za,scubashack.co.za",
+      "validation_source": "en.wikivoyage.org,aaddicts.co.za,scubashack.co.za,caperadd.com",
       "features": "kelp forests, swim-throughs, rocky reef, Finlay's Pinnacle",
       "pinnacle": "Finlay's Pinnacle rises from 15m to 6m",
       "marine_life": "bryozoans, sponges, colonial ascidians, anemones, pyjama catsharks, reef fish, nudibranchs",
       "alternate_names": "Jenga Reef",
-      "notes": "Sevengill sharks NOT confirmed as reliable sighting at this specific site \u2014 removed from marine life tag.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Sevengill sharks NOT confirmed as reliable sighting at this specific site \u2014 removed from marine life tag. 2026-07-23 re-audit (caperadd.com): sevengill decline traced to a 2015 orca predation event that killed at least 9 cow sharks at this general Millers Point area; sharks have partly relocated to False Bay Yacht Club marina. Confirms 'elusive since 2016' framing remains accurate; sightings at this site remain rare, not reliable.",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -242,7 +243,7 @@
       "warning": "Advanced stage of deterioration; rusted steel threatening collapse; area unsafe",
       "conditions": "exposed location, strong surge in shallows; shore access via Sandy Bay beach",
       "notes": "Previous description said 'capable of lifting 1,200 tons' \u2014 confirmed accurate per Wikipedia. Previous description said 'boat access from Hout Bay' \u2014 incorrect; entry_type is shore (Sandy Bay beach). Also Oakburn described as carrying 'railway lines and antique glassware' \u2014 no independent source confirms this specific cargo claim; removed.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -252,7 +253,7 @@
     "depth": 8,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
@@ -262,8 +263,8 @@
       "marine_life": "octopus, biscuit skates, blue-fin gurnard, pineapple fish, stingrays, Cape fur seals; nearby SAS Pietermaritzburg minesweeper wreck at max 20m",
       "depth_range": "0-10m",
       "conditions": "calm sheltered site, most protected site on Cape Peninsula",
-      "notes": "WWII wrecks nearby confirmed: SAS Pietermaritzburg (A-class minesweeper, D-Day veteran, max 20m). 'Pyjama sharks, gully sharks, shysharks' not confirmed at THIS specific site; removed from tag. Southern Right whale sightings in bay not confirmed at dive site specifically.",
-      "last_qa_date": "2026-05-20"
+      "notes": "WWII wrecks nearby confirmed: SAS Pietermaritzburg (A-class minesweeper, D-Day veteran, max 20m). 'Pyjama sharks, gully sharks, shysharks' not confirmed at THIS specific site; removed from tag. Southern Right whale sightings in bay not confirmed at dive site specifically. Difficulty upgraded from Beginner to Intermediate (2026-07-23 re-audit): cold Benguela/False Bay water (12-18C), sheltered but still requires cold-water skills; upgraded per destination-wide minimum-Intermediate policy for this cold-water kelp-forest destination.",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -278,12 +279,12 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "en.wikivoyage.org,aaddicts.co.za,scubashack.co.za",
+      "validation_source": "en.wikivoyage.org,aaddicts.co.za,scubashack.co.za,caperadd.com",
       "features": "twin reef outcrops (cow and calf), sand base at 10-12m",
       "marine_life": "Cape fur seals, pyjama catsharks, spotted gully sharks, Cape knifejaw, Roman sea bream, nudibranchs, sea cucumbers, starfish, octopus",
       "depth_range": "2-12m",
-      "notes": "Sevengill sharks listed in previous version; elusive since 2016 per diveteam.co.za, removed as reliable sighting. Palmate sea fans and feather stars retained as cold-water invertebrate fauna consistent with site.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Sevengill sharks listed in previous version; elusive since 2016 per diveteam.co.za, removed as reliable sighting. Palmate sea fans and feather stars retained as cold-water invertebrate fauna consistent with site. 2026-07-23 re-audit (caperadd.com): sevengill decline traced to a 2015 orca predation event that killed at least 9 cow sharks at this general Millers Point area; sharks have partly relocated to False Bay Yacht Club marina. Confirms 'elusive since 2016' framing remains accurate; sightings at this site remain rare, not reliable.",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -304,7 +305,7 @@
       "marine_life": "Cape fur seals, Hottentot sea bream, Fransmadam, Roman, Two-tone Fingerfin, Galjoen, klipfish, sea fans, nudibranchs, anemones, octopus",
       "site_type_correction": "Corrected from 'wall' to 'reef': site consists of boulder/granite reef topography, NOT vertical wall. Multiple authoritative sources confirm reef classification.",
       "marine_protected_area": true,
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -337,7 +338,7 @@
       "wreck_status": "partially washed further ashore in Jan 2022 storm; bow ribs near shoreline, boiler visible at low tide",
       "wikidata": "Q14213801",
       "wikimedia_commons": "Category:Dive site Antipolis",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -369,7 +370,7 @@
       "condition": "submerged wreckage on sand to ~20m; marker buoy installed 2015",
       "marker_buoy": true,
       "seamark:wreck:category": "hull_showing",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -401,7 +402,7 @@
       "permit_required": true,
       "notes": "Difficulty upgraded from Beginner to Intermediate: cold Atlantic water, 150m swim from shore, swell possible. Cannon are IRON not bronze \u2014 previous description was incorrect. Previous description said 'anchor cable parted in fog' \u2014 corrected: actual cause was striking rocks in thick mist.",
       "seamark:type": "wreck",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -438,7 +439,7 @@
       "entry": "shore access on foot to Olifantsbos; NOT boat-only",
       "notes": "Previous markdown description incorrectly said 'boat only' \u2014 entry is actually SHORE on foot from Olifantsbos parking area. Cargo description corrected: 25 Sherman tanks confirmed, NOT 'ammunition' as previously tagged. Compass error 37 degrees confirmed (not 23 nautical miles as stated in markdown \u2014 both may be true: 37 degree error resulting in ~23 NM position error).",
       "seamark:wreck:category": "dangerous",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -450,7 +451,7 @@
     "depth": 5,
     "site_type": "wreck",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Nolloth",
@@ -467,7 +468,8 @@
       "conditions": "visible at high tide, walkable at low tide; surge zone; dive only in flat conditions",
       "history": "First helicopter rescue in SA maritime history",
       "seamark:type": "wreck",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23",
+      "notes": "Difficulty upgraded from Beginner to Intermediate (2026-07-23 re-audit): surge zone, exposed to Atlantic swell, cold water; upgraded per destination-wide minimum-Intermediate policy for this cold-water kelp-forest destination."
     }
   },
   {
@@ -479,7 +481,7 @@
     "depth": 5,
     "site_type": "wreck",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "access": "permissive",
       "historic": "wreck",
@@ -498,7 +500,8 @@
       "access_type": "Phyllisia Circuit hiking trail (5km from Gifkommetjie parking area)",
       "wreck_remains": "Part of stern remains on shore",
       "seamark:wreck:category": "hull_showing",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23",
+      "notes": "Difficulty upgraded from Beginner to Intermediate (2026-07-23 re-audit): fully exposed Atlantic swell site, virtually never diveable, cold water when conditions do allow; upgraded per destination-wide minimum-Intermediate policy for this cold-water kelp-forest destination."
     }
   },
   {
@@ -526,7 +529,7 @@
       "notes": "Previous description mentioned 'bronze whalers and ragged-tooth sharks' \u2014 NOT confirmed at this specific site by reviewed sources; removed. Marine life updated to source-confirmed species only.",
       "wikidata": "Q110064499",
       "wikipedia": "en:Whittle Rock",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -538,7 +541,7 @@
     "depth": 9,
     "site_type": "wreck",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Clan Stewart",
@@ -559,9 +562,9 @@
       "permit_required": true,
       "marine_life": "red bait (ascidians), coralline algae, bryozoans, nudibranchs",
       "access": "shore entry from Mackerel Beach",
-      "notes": "Previous description said 'great white sharks have been sighted on several occasions' \u2014 NOT confirmed as specific to this site; great whites also absent from False Bay since ~2018. Statement removed. Previous description said 'squid, cuttlefish, rays, fish species' \u2014 these are not confirmed at this specific site by reviewed sources.",
+      "notes": "Previous description said 'great white sharks have been sighted on several occasions' \u2014 NOT confirmed as specific to this site; great whites also absent from False Bay since ~2018. Statement removed. Previous description said 'squid, cuttlefish, rays, fish species' \u2014 these are not confirmed at this specific site by reviewed sources. Difficulty upgraded from Beginner to Intermediate (2026-07-23 re-audit): cold False Bay water (10-18C), MPA permit site; upgraded per destination-wide minimum-Intermediate policy for this cold-water kelp-forest destination.",
       "seamark:type": "wreck",
-      "last_qa_date": "2026-06-30"
+      "last_qa_date": "2026-07-23"
     }
   }
 ]

@@ -19,7 +19,7 @@ addedBy: osm_import
 
 Cow and Calf is a pair of submerged granite reef outcrops rising from the sandy floor of False Bay, named for the two distinct rock formations — one larger ("cow") and one smaller ("calf") — visible in the shallows. The site sits within False Bay near Simon's Town and is most easily accessed by boat from the Simon's Town waterfront. Water temperatures range from 8°C in winter to 14°C in summer under the influence of the Benguela Current. The shallow maximum depth of 12 metres makes this a manageable site for intermediate divers working with cold water for the first time. Dense Cape kelp colonises the rock surfaces, creating the characteristic kelp forest habitat that defines Cape Point dive sites.
 
-*Note: broadnose sevengill sharks were listed in a previous version of this description. Sevengill cow sharks have been reported as elusive since 2016 at nearby sites (Dive Team Cape Town); they have been removed as a reliable sighting at Cow and Calf.*
+*Note: broadnose sevengill sharks were listed in a previous version of this description. Sevengill cow sharks have been reported as elusive since 2016 at nearby sites (Dive Team Cape Town), a decline that a 2026 re-audit (Cape RADD) traces to a 2015 orca predation event in the Millers Point area that killed at least nine cow sharks; they have been removed as a reliable sighting at Cow and Calf.*
 
 ## Site Information
 
@@ -62,4 +62,4 @@ False Bay is a busy waterway — deploy an SMB during your safety stop. Cold wat
 The shallow depth allows good natural light throughout the dive. Seal interactions are the premier photographic subject — wide-angle lenses capture them spiralling through kelp fronds. The kelp canopy creates natural framing for reef portraits.
 
 ---
-*Sources: [Wikivoyage — Cape Peninsula Dive Sites](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Dive Team Cape Town](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Cape Peninsula Dive Sites](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Dive Team Cape Town](https://diveteam.co.za/blogs/news/dive-cape-town-like-a-pro-the-real-top-5-dive-spots-part-1-simons-town), [Apnea Addicts — Cape Town Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Cape RADD — Where Did All the Cow Sharks Go?](https://www.caperadd.com/news/where-did-all-the-cow-sharks-go/). Last updated 2026-07-23.*

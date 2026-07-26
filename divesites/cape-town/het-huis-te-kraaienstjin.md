@@ -46,4 +46,4 @@ The site is surrounded by Cape kelp forest and cold-water reef community typical
 - Combine with Justin's Caves nearby for a fuller Oudekraal dive trip
 
 ---
-*Sources: [Wikivoyage — Het Huis te Kraaiestein](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Het_Huis_te_Kraaiestein), [Dive Team Cape Town — Het Huis te Kraaiestein](https://diveteam.co.za/blogs/news/het-huis-te-kraaiestein-wreck), [Scuba Shack Cape Town](https://scubashack.co.za/2017/05/16/het-huis-te-kraaienstjin/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Het Huis te Kraaiestein](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Het_Huis_te_Kraaiestein), [Dive Team Cape Town — Het Huis te Kraaiestein](https://diveteam.co.za/blogs/news/het-huis-te-kraaiestein-wreck), [Scuba Shack Cape Town](https://scubashack.co.za/2017/05/16/het-huis-te-kraaienstjin/). Last updated 2026-07-23.*

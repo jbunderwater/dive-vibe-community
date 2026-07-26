@@ -3,7 +3,7 @@ name: West White Beach
 lat: -10.461
 lng: 105.5795
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 18
 entryType: shore
 siteType: cave
 ref: null
@@ -17,7 +17,7 @@ West White Beach is a shore dive on Christmas Island's western coast featuring a
 
 ## Overview
 
-West White Beach is on the western coast of Christmas Island and offers one of the island's most accessible cave-and-reef combinations. The cavern — referred to as West White Beach Cave in dive operator listings — has two large entrances separated by a central column, opening into a spacious chamber at around 12 metres. The interior walls carry colourful encrusting life including coral formations, and lionfish rest beneath protected ledges. Looking out from inside the cavern toward the open ocean produces a vivid silhouette effect popular with photographers. The reef outside the cave entrance runs between 12 and 18 metres and carries hard corals and anemones. Multiple sources rate the site as beginner-friendly; no deep exploration is required. A torch is recommended for visiting the inner chamber. No site-specific marine life records beyond the above have been confirmed in available sources.
+West White Beach is on the western coast of Christmas Island and offers one of the island's most accessible cave-and-reef combinations. The cavern — referred to as West White Beach Cave in dive operator listings — has two large entrances separated by a central column, opening into a spacious chamber at around 12 metres. The interior walls carry colourful encrusting life including coral formations, and lionfish rest beneath protected ledges — confirmed independently by both DivePlanit and Arrival Guides. Looking out from inside the cavern toward the open ocean produces a vivid silhouette effect popular with photographers. The reef outside the cave entrance runs between 12 and 18 metres and carries hard corals and anemones; Arrival Guides and DivePlanit's own site description both put the working depth range at 12-18 metres. DivePlanit's separate technical stats table for this dive lists a 28-metre bottom depth, which is not explained or corroborated by any other source and conflicts with the site's own descriptive text ("no need to go deeper on this one") — treat the 28 m figure with caution. Multiple sources rate the site as beginner-friendly; no deep exploration is required. A torch is recommended for visiting the inner chamber. No site-specific marine life records beyond the lionfish and reef corals above have been confirmed in available sources.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ West White Beach is on the western coast of Christmas Island and offers one of t
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 18 meters
 
 ---
-*Sources: [DivePlanit – West White Beach Cave](https://www.diveplanit.com/dive-site/christmas-islands-west-white-beach-cave/), [Arrival Guides – West White Beach Cave](https://www.arrivalguides.com/en/Travelguide/Australiasindianoceanislands/doandsee/west-white-beach-cave-113301), [Australian Traveller – Christmas Island Diving Sites](https://www.australiantraveller.com/territories/christmas-island/snorkelling-and-diving-sites-around-christmas-island/). Last updated 2026-05-22.*
+*Sources: [DivePlanit – West White Beach Cave](https://www.diveplanit.com/dive-site/christmas-islands-west-white-beach-cave/), [Arrival Guides – West White Beach Cave](https://www.arrivalguides.com/en/Travelguide/Australiasindianoceanislands/doandsee/west-white-beach-cave-113301), [Australian Traveller – Christmas Island Diving Sites](https://www.australiantraveller.com/territories/christmas-island/snorkelling-and-diving-sites-around-christmas-island/). Last updated 2026-07-23.*

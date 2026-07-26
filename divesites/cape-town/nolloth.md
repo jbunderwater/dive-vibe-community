@@ -2,7 +2,7 @@
 name: Nolloth
 lat: -34.2838018
 lng: 18.3884129
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 5
 entryType: shore
 siteType: wreck
@@ -26,7 +26,7 @@ The wreck sits in the surge zone at 0–5 metres, barely awash at high tide and 
 - **Location**: Olifantsbos, Cape Point, Table Mountain National Park (second wreck on Olifantsbos Trail)
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
 - **Depth Range**: 0–5 meters
 - **Conditions**: Surge zone; fully exposed to Atlantic swell; diveable only in flat, calm conditions
@@ -35,5 +35,7 @@ The wreck sits in the surge zone at 0–5 metres, barely awash at high tide and 
 
 Regional marine life includes cold-water kelp forest community typical of the Atlantic seaboard. No site-specific species reports were found for this site.
 
+*Difficulty upgraded from Beginner to Intermediate (2026-07-23 re-audit): the exposed surge zone, cold Atlantic water, and requirement for genuinely flat conditions mean this site does not meet a true "Beginner" bar despite its shallow 0-5m depth. Applying the destination-wide minimum-Intermediate policy for this cold-water kelp-forest destination.*
+
 ---
-*Sources: [Learn to Dive Today — Nolloth](https://www.learntodivetoday.co.za/blog/2015/08/25/visible-shipwrecks-nolloth/), [Cape of Storms Distillery — Nolloth](https://capeofstormsdistillery.com/2021/08/22/m-v-nolloth-shipwreck-2/), [Cape Point — Cape of Storms](https://capepoint.co.za/cape-of-storms/). Last updated 2026-05-20.*
+*Sources: [Learn to Dive Today — Nolloth](https://www.learntodivetoday.co.za/blog/2015/08/25/visible-shipwrecks-nolloth/), [Cape of Storms Distillery — Nolloth](https://capeofstormsdistillery.com/2021/08/22/m-v-nolloth-shipwreck-2/), [Cape Point — Cape of Storms](https://capepoint.co.za/cape-of-storms/). Last updated 2026-07-23.*

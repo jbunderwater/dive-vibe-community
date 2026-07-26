@@ -11,8 +11,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com,adventuresinbaja.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "myscubadivinggearguide.com,bajadiving.com,adventuresinbaja.com,costacoralmexico.com,girlsthatscuba.com,scubaboard.com",
+      "last_qa_date": "2026-07-23",
+      "qa_note": "cabopulmodiving.com (prior source) is offline (account suspended) as of 2026-07-23 and was dropped. Wreck history has genuine cross-source conflicts on vessel type and length; documented in markdown rather than resolved by guesswork."
     }
   },
   {
@@ -27,8 +28,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com,diveoclock.com",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -44,7 +45,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "adventuresinbaja.com,myscubadivinggearguide.com,cabopulmo.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -59,8 +60,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com,scubaboard.com,diveoclock.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,mexicotravelbuddy.com",
+      "last_qa_date": "2026-07-23",
+      "qa_note": "UNRESOLVED (2026-07-23 re-audit): prior validation_source (cabopulmodiving.com, scubaboard.com, diveoclock.com) does not actually mention Las Navajas anywhere in re-checked content - none confirmed on re-fetch. Only two thin sources found naming the site as a snorkel-tour stop; no independent source confirms the canyon topography or reef-shark/ray specifics previously in the markdown. Left validated=true per instruction not to flip on re-audit, but this site does not meet the 3-independent-source bar and needs further research. Description hedged accordingly."
     }
   },
   {
@@ -76,7 +78,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -91,8 +93,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com,diveoclock.com",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -107,8 +109,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,adventuresinbaja.com,myscubadivinggearguide.com,bajadiving.com",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -123,8 +125,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com,cabopulmo.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,costacoralmexico.com,scubaboard.com",
+      "last_qa_date": "2026-07-23",
+      "qa_note": "cabopulmodiving.com and myscubadivinggearguide.com (prior sources) dropped: former is offline, latter does not mention this site on re-check. Replaced with confirmed sources."
     }
   },
   {
@@ -139,8 +142,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com,cabopulmo.com,myscubadivinggearguide.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,costacoralmexico.com,bajadiving.com,myscubadivinggearguide.com",
+      "last_qa_date": "2026-07-23",
+      "qa_note": "cabopulmodiving.com (prior source) is offline as of 2026-07-23 and was dropped."
     }
   },
   {
@@ -155,8 +159,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "adventuresinbaja.com,myscubadivinggearguide.com,cabopulmo.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "adventuresinbaja.com,myscubadivinggearguide.com,cabopulmo.com,scubaboard.com",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -171,8 +175,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "cabopulmodiving.com,cabopulmo.com,costacoralmexico.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "cabopulmo.com,costacoralmexico.com,moontravelguides.com,bajadiving.com",
+      "last_qa_date": "2026-07-23",
+      "qa_note": "cabopulmodiving.com (prior source) is offline as of 2026-07-23 and was dropped. Replaced with confirmed sources."
     }
   },
   {
@@ -187,8 +192,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "adventuresinbaja.com,cabopulmodiving.com,cabopulmo.com",
-      "last_qa_date": "2026-05-20"
+      "validation_source": "adventuresinbaja.com,girlsthatscuba.com,scubaboard.com",
+      "last_qa_date": "2026-07-23",
+      "qa_note": "cabopulmodiving.com and cabopulmo.com (prior sources) dropped: former is offline, latter does not mention Meros on re-check. Replaced with confirmed sources."
     }
   }
 ]

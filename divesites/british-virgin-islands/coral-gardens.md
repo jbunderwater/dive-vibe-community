@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Coral Gardens
 
-A dual-attraction novice dive at Great Dog Island that pairs dense boulder coral formations with the fuselage of a deliberately sunk Shorts 360 aircraft — the wingless wreck has become a thriving artificial reef centerpiece.
+A dual-attraction novice dive at Great Dog Island that pairs dense boulder coral formations with the fuselage of a deliberately sunk Short 330-200 commuter aircraft — the wingless wreck has become a thriving artificial reef centerpiece.
 
 ## Overview
 
-Coral Gardens is tucked into the eastern tip of the south side of Great Dog Island in the British Virgin Islands. The site is known for two distinct features: extensive coral formations of boulder star coral, great star coral, brain corals, tube sponges, sea fans, and gorgonians; and the wreck of a Shorts 360 twin-turboprop aircraft that rests on the sandy bottom at around 12–15 meters (40–50 ft). The aircraft belonged to Atlantic Air BVI and made an aborted takeoff in 1993, landing in the water approximately 60 meters from the runway. It was initially raised and stored in a hangar, then used as a prop in a BBC film before being deliberately sunk here as part of the BVI's artificial reef program. The plane has no wings or tail section but has become, as bvi-dive-map.com notes, "the center of sea life, attracting even bigger fish." In December 2019, three additional art-installation aircraft shaped like sharks (bull, hammerhead, and nurse shark) were sunk nearby as part of an environmental recycling project. Mooring balls are available. Low swell and low current make this a comfortable novice-level dive.
+Coral Gardens is tucked into the eastern tip of the south side of Great Dog Island in the British Virgin Islands. The site is known for two distinct features: extensive coral formations of boulder star coral, great star coral, brain corals, tube sponges, sea fans, and gorgonians; and the wreck of a Short 330-200 twin-turboprop aircraft (registration VP-LVR) that rests on the sandy bottom at around 12–15 meters (40–50 ft). The aircraft belonged to Atlantic Air BVI (AABVI), which had started operating the plane in 1992 on a Tortola–San Juan route. On 6 May 1993, carrying 27 passengers and 3 crew, the aircraft aborted takeoff at Beef Island Airport (Terrance B. Lettsome International) and overran into Trellis Bay; there were no serious injuries. It was initially raised and stored in a hangar, then used as a prop in a BBC film before being deliberately sunk here as part of the BVI's artificial reef program. The plane has no wings or tail section but has become, as bvi-dive-map.com notes, "the center of sea life, attracting even bigger fish." In December 2019, three additional art-installation aircraft shaped like sharks (bull, hammerhead, and nurse shark) were sunk nearby as part of an environmental recycling project. Mooring balls are available. Low swell and low current make this a comfortable novice-level dive.
+
+*Correction (2026-07-23 re-audit): earlier text identified the aircraft as a "Shorts 360" — this is corrected to Short 330-200, confirmed independently by Wikipedia/Wikidata (Atlantic Air BVI) and the aviation-safety.net (ASN) accident database, record 19930506-2, which also supplied the registration and passenger/crew count.*
 
 ## Site Information
 
@@ -61,7 +63,7 @@ The aircraft fuselage makes a striking wide-angle subject, particularly when a d
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/coral-gardens-airplane-wreck/), [BVI Diving](https://www.bvidiving.com/diving-airplane-wreck-coral-gardens-bvi.html), [Uncommon Caribbean](https://www.uncommoncaribbean.com/british-virgin-islands/great-dog-island-airplane-wreck/), [Wikipedia – Atlantic Air BVI](https://en.wikipedia.org/wiki/Atlantic_Air_BVI). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/coral-gardens-airplane-wreck/), [BVI Diving](https://www.bvidiving.com/diving-airplane-wreck-coral-gardens-bvi.html), [Uncommon Caribbean](https://www.uncommoncaribbean.com/british-virgin-islands/great-dog-island-airplane-wreck/), [Wikipedia – Atlantic Air BVI](https://en.wikipedia.org/wiki/Atlantic_Air_BVI), [Aviation Safety Network – ASN accident record 19930506-2](https://aviation-safety.net/database/record.php?id=19930506-2). Last updated 2026-07-23.*

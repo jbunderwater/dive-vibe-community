@@ -17,7 +17,7 @@ Jane L. Stanford is a historic wreck dive in California Channel Islands, North A
 
 ## Overview
 
-The Jane L. Stanford is a 215-foot four-masted wooden barkentine — the largest wooden ship to wreck within Channel Islands National Park — that was deliberately destroyed with naval wrecking mines at Skunk Point on the east end of Santa Rosa Island in 1929. Her debris field lies scattered across a shallow rocky reef in just 5 meters of water, accessible in calm conditions. The wreck is highly broken up after nearly a century of Pacific swell, but her iron frames and fastenings are encrusted with cold-water invertebrates and colonised by the garibaldi, perch, and sheephead that are ubiquitous in Channel Islands kelp habitats. The exposure of the Santa Rosa coastline means conditions must be carefully assessed before attempting this dive, as surge can make the shallow reef uncomfortable.
+The Jane L. Stanford is a 215-foot four-masted wooden barkentine — the largest wooden ship to wreck within Channel Islands National Park — that was deliberately destroyed with naval wrecking mines at Skunk Point on the east end of Santa Rosa Island in 1929. Her debris field lies scattered across a shallow rocky reef in just 5 meters of water, accessible in calm conditions. The wreck is highly broken up after nearly a century of Pacific swell. The exposure of the Santa Rosa coastline means conditions must be carefully assessed before attempting this dive, as surge can make the shallow reef uncomfortable.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Jane L. Stanford was a four-masted barkentine — square-rigged on the forem
 
 ## Marine Life
 
-The site at Skunk Point lies in very shallow water — 1.5 to 5 meters — in a sand, rock, and kelp habitat at the eastern tip of Santa Rosa Island. The inshore environment supports garibaldi, perch, sheephead, and the cold-water invertebrates typical of Channel Islands reef habitats. Sea stars and encrusting anemones colonise the iron fasteners and keelson timbers visible above and below the sand.
+No source consulted for this destination — NPS, NOAA, Islapedia, or the Santa Barbara Independent — confirms specific marine life at this wreck. A previous version of this description named garibaldi, perch, and sheephead; these were regional Channel Islands generalizations, not confirmed sightings at Skunk Point, and have been removed. The site sits in a sand, rock, and kelp habitat typical of Santa Rosa Island's east end, where similar species likely occur, but no source ties them to this wreck specifically.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Visibility and surge at this exposed, shallow site are highly condition-dependen
 Extreme shallowness makes this site extremely surge-prone — even light swell creates significant water movement at 1.5–3 meters. Water temperature at Santa Rosa Island requires a 7 mm wetsuit with hood and gloves year-round. The site is protected; removal of any timber, fasteners, or artifacts is prohibited under federal law.
 
 ---
-*Sources: [NPS - Jane L. Stanford Shipwreck](https://www.nps.gov/places/000/jane-l-stanford-shipwreck.htm), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Santa Barbara Independent - Channel Islands Shipwrecks](https://www.independent.com/2020/02/26/channel-island-shipwrecks-tell-stories-of-heroism-heartbreak-and-high-seas-scalawaggery/). Last updated 2026-05-20.*
+*Sources: [NPS - Jane L. Stanford Shipwreck](https://www.nps.gov/places/000/jane-l-stanford-shipwreck.htm), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Santa Barbara Independent - Channel Islands Shipwrecks](https://www.independent.com/2020/02/26/channel-island-shipwrecks-tell-stories-of-heroism-heartbreak-and-high-seas-scalawaggery/). Last updated 2026-07-23.*

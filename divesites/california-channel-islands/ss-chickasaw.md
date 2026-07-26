@@ -17,7 +17,7 @@ S.S. Chickasaw is a historic wreck dive in California Channel Islands, North Ame
 
 ## Overview
 
-The S.S. Chickasaw is a 439-foot C-2-type steel-hulled cargo freighter (ex-USS *Thurston*) that grounded on the south side of Santa Rosa Island on February 7, 1962. Her remains lie on a rocky reef at around 3–12 meters — one of the shallower and more accessible wreck dives in the northern Channel Islands. The intact boiler and large hull sections are encrusted with orange and pink invertebrates that colour up brilliantly under a dive light, and the surrounding kelp forest filters sunlight down through the canopy in shifting shafts. Garibaldi are abundant here, and the area's sea lion haul-outs mean playful interactions with the local colony are a regular part of the dive.
+The S.S. Chickasaw is a 439-foot C-2-type steel-hulled cargo freighter (ex-USS *Thurston*) that grounded on the south side of Santa Rosa Island on February 7, 1962. Two independent wreck-diving sources — cawreckdivers.org and opendivesites.org — report that essentially nothing of the ship remains visible today: the hull "slowly fell into the sea, piece by piece" over the following four decades of surf exposure, leaving only a smokestack section visible on the beach and rocky reef underwater at 3–12 meters. Because of the exposed location and lack of substantial remaining structure, the site is rarely dived. What draws divers here now is less the wreck and more the shallow, kelp-covered reef itself, where large sheephead are a highlight.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ The Chickasaw was a 439-foot (134 m), 6,131-ton steel American-flag freighter bu
 
 ## Marine Life
 
-The remains of the Chickasaw lie in 3–12 meters (10–40 ft) of water along the exposed south shore of Santa Rosa Island. Most of the hull has disintegrated into the surf zone over six decades, but remaining structural sections attract large California sheephead, kelp bass, rockfish, and lingcod. The local environment is cold and nutrient-rich, supporting the full range of northern Channel Islands kelp forest species — garibaldi, cabezon, and various wrasse — as well as invertebrate growth on exposed metal.
+opendivesites.org and channelislandsdiveadventures.com both specifically credit this site with large sheephead, and opendivesites.org adds rockfish and kelp bass to the list — these are the only species confirmed at this specific location. A previous version of this description also named lingcod, garibaldi, cabezon, and "various wrasse," none of which are confirmed by any source consulted; they have been removed. The site is also noted as a good spearfishing spot on calm days, which is consistent with a healthy population of the confirmed reef fish species.
 
 ## Dive Profile
 
-The site extends from the surf zone down to approximately 12 meters (40 ft). The wreck is highly degraded; large structural sections have collapsed and the most intact elements lie in the shallowest areas. Depth and surge dictate how far productive diving extends on any given day.
+The site extends from the surf zone down to approximately 12 meters (40 ft) across a rocky, kelp-covered reef. Per cawreckdivers.org and opendivesites.org, essentially no identifiable wreck structure remains underwater — the vessel disintegrated into the surf zone piece by piece over four decades, and only a smokestack section is visible today, on shore rather than underwater. Divers visiting this site should expect a shallow rocky-reef dive with sparse or no wreckage, not a substantially intact shipwreck.
 
 ## Entry and Exit
 
@@ -45,11 +45,11 @@ Boat dive only. Santa Rosa Island lies approximately 34 miles southwest of Santa
 
 ## Tips and Recommendations
 
-Chickasaw is best dived as a secondary site on a Santa Rosa liveaboard trip, in conjunction with the Aggi or Goldenhorn. Conditions on the south coast are often better than the north or west, but check forecasts carefully. Large sheephead are the standout fish encounter here.
+Chickasaw is best dived as a secondary site on a Santa Rosa liveaboard trip, in conjunction with the Aggi or Goldenhorn. Conditions on the south coast are often better than the north or west, but check forecasts carefully. Set expectations for a shallow rocky-reef dive rather than a substantial wreck — large sheephead are the standout fish encounter here, and this is a genuinely rarely-dived, out-of-the-way site.
 
 ## Safety Considerations
 
-Water temperature at Santa Rosa Island is typically 10–16°C (50–61°F). A 7 mm wetsuit with hood and gloves is minimum; drysuit preferred in winter. The shallow, surf-zone character of the wreck means surge is a significant hazard. The remote location requires diver self-sufficiency.
+Water temperature at Santa Rosa Island is typically 10–16°C (50–61°F). A 7 mm wetsuit with hood and gloves is minimum; drysuit preferred in winter. The shallow, surf-zone, exposed location is a significant hazard, and the remote location requires diver self-sufficiency.
 
 ---
-*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Chickasaw](https://www.islapedia.com/index.php?title=Chickasaw), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [California Wreck Divers - Chickasaw](http://www.cawreckdivers.org/Wrecks/Chickasaw.htm), [Santa Barbara Independent - Channel Islands Shipwrecks](https://www.independent.com/2020/02/26/channel-island-shipwrecks-tell-stories-of-heroism-heartbreak-and-high-seas-scalawaggery/). Last updated 2026-05-20.*
+*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Chickasaw](https://www.islapedia.com/index.php?title=Chickasaw), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [California Wreck Divers - Chickasaw](http://www.cawreckdivers.org/Wrecks/Chickasaw.htm), [Santa Barbara Independent - Channel Islands Shipwrecks](https://www.independent.com/2020/02/26/channel-island-shipwrecks-tell-stories-of-heroism-heartbreak-and-high-seas-scalawaggery/), [OpenDiveSites.org - Santa Rosa Island](https://opendivesites.org/Santa_Rosa_Island). Last updated 2026-07-23.*

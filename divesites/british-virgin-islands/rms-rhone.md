@@ -62,4 +62,4 @@ The RMS Rhone is among the most photographed wrecks in the world. The stern sect
 - The wreck is accessible to charter yachts — many BVI bareboat itineraries include a Rhone stop
 
 ---
-*Sources: [Wikipedia - RMS Rhone](https://en.wikipedia.org/wiki/RMS_Rhone), [BVI Dive Map - RMS Rhone](https://bvi-dive-map.com/site/rms-rhone/), [Dive BVI](https://divebvi.com/rms-rhone/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/r-m-s-rhone/), [BVI Scuba](https://bviscuba.org/diving-info/). Last updated 2026-05-20.*
+*Sources: [Wikipedia - RMS Rhone](https://en.wikipedia.org/wiki/RMS_Rhone), [BVI Dive Map - RMS Rhone](https://bvi-dive-map.com/site/rms-rhone/), [Dive BVI](https://divebvi.com/rms-rhone/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/r-m-s-rhone/), [BVI Scuba](https://bviscuba.org/diving-info/). Last updated 2026-07-23.*
