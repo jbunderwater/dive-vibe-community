@@ -17,7 +17,7 @@ A west-coast passage on Rarotonga with frequent strong currents, ridge-and-gully
 
 ## Overview
 
-Arorangi School Passage is located on the west side of Rarotonga, directly offshore from Arorangi School. The passage is the smallest and shallowest of Rarotonga's five reef passages, and it frequently carries strong currents that flush the inner lagoon. These currents make it a legitimate drift dive when running — divers can begin a drift at the passage and follow the current along the outside of the reef. The passage itself has been dredged in recent years to allow smaller vessels through, changing the upper passage topography.
+Arorangi School Passage is located on the west side of Rarotonga, directly offshore from Arorangi School. The passage is the smallest and shallowest of Rarotonga's five reef passages, and it frequently carries strong currents that flush the inner lagoon. These currents make it a legitimate drift dive when running — divers can begin a drift at the passage and follow the current along the outside of the reef.
 
 Outside the passage, the terrain consists of volcanic rock ridges and gullies running WNW from the sandy shallows at 10 to 18 meters out to the reef edge, where the ridges descend to 30 to 35 meters. Coral cover is approximately 15%, concentrated on the ridges and gully walls. Good-sized Porites bommies are scattered around the passage area.
 
@@ -57,4 +57,4 @@ Access by dive boat from Avatui Harbour (approximately 12 to 18 minutes) or from
 The passage can carry strong currents without warning. Always dive with a local operator who can assess tidal conditions. When the current is running, stay close to the reef to avoid being swept into open water. Monitor depth carefully along the ridges as they slope into deeper water.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=512), [Pacific Divers — Site Map](https://www.pacificdivers.co.ck/Diving-Map.html), [Cook Islands Pocket Guide — Best Scuba Diving Rarotonga](https://cookislandspocketguide.com/the-best-scuba-diving-in-rarotonga-top-25-places-to-scuba-dive/). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=512). The previously cited Pacific Divers site map and Cook Islands Pocket Guide article were re-checked on 2026-07-26; neither lists this site under this name (Pacific Divers doesn't cover it at all, and the Pocket Guide's "Top 25" article lists a differently-described "Arorangi Passage"/"Arorangi Drop Off"), so those citations and an unsourced claim about the passage having been dredged have been removed. Only one independently confirmed site-specific source could be found despite additional research. Last updated 2026-07-26.*
