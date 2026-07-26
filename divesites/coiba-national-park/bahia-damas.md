@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Bahia Damas
 
-Bahia Damas is a large, partially protected bay on the eastern shore of Isla Coiba, home to what CoibaNationalPark.com identifies as the second-largest coral reef in the Eastern Pacific — a 135-hectare (335-acre) hard coral system that serves as refuge for enormous schools of fish.
+Bahia Damas is a large, partially protected bay on the eastern shore of Isla Coiba, home to a 135-hectare (335-acre) hard coral system that serves as refuge for enormous schools of fish. Three independent sources — CoibaNationalPark.com, Tourism Panama, and The Ark Divers — describe it as the second-largest coral reef in the Eastern Pacific.
 
 ## Overview
 
-Bahia Damas reef is a rocky hard coral system — characteristic of Eastern Pacific reefs, which lack the soft pastel colours of Caribbean reefs but compensate with structural complexity and fish biomass. The reef is estimated to be over 5,000 years old and is recognized within Coiba's UNESCO World Heritage Site designation for its ecological significance.
+Bahia Damas reef is a rocky hard coral system — characteristic of Eastern Pacific reefs, which lack the soft pastel colours of Caribbean reefs but compensate with structural complexity and fish biomass. It is recognized within Coiba's UNESCO World Heritage Site designation for its ecological significance. (A previous version of this description stated the reef was "over 5,000 years old" — this claim could not be reconfirmed against any source on re-audit and has been removed.)
 
 The bay's semi-protected position on Coiba's eastern side means conditions are generally calmer than the island's exposed western reefs, though variable currents remain part of diving here. Coral reefs in this region of the Eastern Pacific are typically found at shallower depths; the reef structure in this bay extends from the shallows down to around 30 meters on its outer edges.
 
-Note on marine life diversity: Coiba National Park as a whole hosts more than 800 fish species and is documented to have over 30 shark species in its waters. These figures reflect the entire park, not Bahia Damas specifically. At Bahia Damas, confirmed species include large schools of snapper, jacks, barracuda, and tuna, along with manta rays, sharks (reef sharks confirmed; other species seasonal), and dolphin and whale sightings in adjacent waters.
+Note on marine life diversity: Coiba National Park as a whole hosts nearly 800 fish species, roughly 33 shark species, and around 20 cetacean species, according to the Smithsonian Ocean Portal. These figures reflect the entire park, not Bahia Damas specifically. At Bahia Damas, confirmed species include large schools of snapper, jacks, barracuda, and tuna, along with manta rays, sharks (reef sharks confirmed; other species seasonal), and dolphin and whale sightings in adjacent waters.
 
 ## Site Information
 
@@ -68,4 +68,4 @@ December–April (dry season): Plankton upwelling reduces visibility in some are
 May–November (rainy season): Warmer surface water (27–29°C), clearer water, calmer seas. Excellent for reef photography and leisurely coral exploration.
 
 ---
-*Sources: [CoibaNationalPark.com - Bahia Damas Reef](http://www.coibanationalpark.com/bahia_damas_reef.html), [Tourism Panama - Coiba National Park](https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/coiba-national-park/), [The Ark Divers - Scuba Diving Coiba](https://www.thearkdivers.com/dive). Last updated 2026-06-25.*
+*Sources: [CoibaNationalPark.com - Bahia Damas Reef](http://www.coibanationalpark.com/bahia_damas_reef.html), [Tourism Panama - Coiba National Park](https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/coiba-national-park/), [The Ark Divers - Scuba Diving Coiba](https://www.thearkdivers.com/dive), [Smithsonian Ocean Portal - Coiba National Park](https://ocean.si.edu/ocean-life/coiba-national-park-and-its-special-zone-marine-protection-panama). Last updated 2026-07-26. (2026-07-26 re-audit: the "5,000 years old" reef-age claim was removed — not reconfirmed on any source. The "second-largest reef" claim is now confirmed by three independent sources rather than one. Smithsonian Ocean Portal added as source for the park-wide fish/shark/cetacean species counts, which remain explicitly labeled as park-wide, not Bahia Damas-specific.)*

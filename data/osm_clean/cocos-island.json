@@ -12,7 +12,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26"
     },
     "validated": "true",
     "validation_source": "visitcocosisland.com,dan.org,dive-the-world.com,aqua-firma.com,wikipedia.org"
@@ -30,10 +30,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26"
     },
     "validated": "true",
-    "validation_source": "visitcocosisland.com,dan.org,dive-the-world.com,aqua-firma.com,scubadivingearth.com"
+    "validation_source": "visitcocosisland.com,dan.org,dive-the-world.com,aqua-firma.com"
   },
   {
     "name": "Manuelita Outside",
@@ -48,7 +48,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26"
     },
     "validated": "true",
     "validation_source": "dan.org,dive-the-world.com,aqua-firma.com,news.co.cr"
@@ -66,10 +66,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26"
     },
     "validated": "true",
-    "validation_source": "dan.org,dive-the-world.com,scubadivingearth.com,news.co.cr"
+    "validation_source": "dan.org,dive-the-world.com,news.co.cr"
   },
   {
     "name": "Punta Maria",
@@ -84,10 +84,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26"
     },
     "validated": "true",
-    "validation_source": "dan.org,dive-the-world.com,aqua-firma.com,scubadivingearth.com"
+    "validation_source": "dan.org,dive-the-world.com,aqua-firma.com"
   },
   {
     "name": "Silverado",
@@ -102,10 +102,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26"
     },
     "validated": "true",
-    "validation_source": "dan.org,aqua-firma.com,scubadivingearth.com,scubadiverlife.com"
+    "validation_source": "dan.org,aqua-firma.com,media.costarica.com"
   },
   {
     "name": "Viking Rock",
@@ -120,10 +120,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26"
     },
     "validated": "true",
-    "validation_source": "aqua-firma.com,scubadivingearth.com,media.costarica.com,scubadiverlife.com"
+    "validation_source": "aqua-firma.com,media.costarica.com,galapagossharkdiving.com,costarica-spirit.com"
   },
   {
     "name": "Lobster Rock",
@@ -131,16 +131,16 @@
     "lon": -87.032,
     "osm_id": null,
     "osm_type": null,
-    "depth": 37,
+    "depth": 33,
     "site_type": "wall",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26"
     },
     "validated": "true",
-    "validation_source": "scubadivingearth.com,media.costarica.com,dan.org,ecooceanescapes.com"
+    "validation_source": "media.costarica.com,ecooceanescapes.com,galapagossharkdiving.com"
   }
 ]

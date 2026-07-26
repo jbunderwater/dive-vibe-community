@@ -34,7 +34,7 @@ The fuselage is nearly intact and large enough to be entered from either the fro
 
 ## Marine Life
 
-The Betty Bomber has been colonized by corals and sponges over more than eight decades on the lagoon floor. Hard and soft corals encrust the wings and fuselage, with small sea fans growing from protruding surfaces. The aircraft provides shelter for schools of glassy sweepers inside the fuselage, along with lionfish and scorpionfish that lurk in the shadows. Anemones with resident clownfish are found on the surrounding sand and along the wing surfaces. The sandy bottom around the wreck hosts garden eels and occasional stingrays.
+No independent source consulted during this QA pass confirms specific fish or other fauna sightings at the Betty Bomber. Chuuk Lagoon's regional reef fauna -- fish species and coral growth reported across the lagoon's wrecks generally -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -59,7 +59,7 @@ This is one of Chuuk's most accessible wreck dives. The shallow depth of 15 mete
 
 ## Photography
 
-The Betty Bomber is an outstanding photography subject at a forgiving depth. The nearly intact fuselage can be captured in a single wide-angle frame, and the abundant ambient light at 15 meters allows natural-light shooting that brings out the coral encrustation in full color. Interior shots through the fuselage with a diver silhouetted at the far opening are classic compositions. The separated engines make interesting standalone subjects. Macro opportunities include nudibranchs on the wing surfaces and coral polyps along the fuselage.
+The Betty Bomber is an outstanding photography subject at a forgiving depth. The nearly intact fuselage can be captured in a single wide-angle frame, and the abundant ambient light at 15 meters allows natural-light shooting that brings out the coral encrustation in full color. Interior shots through the fuselage with a diver silhouetted at the far opening are classic compositions. The separated engines make interesting standalone subjects. Macro opportunities include coral polyps along the fuselage, though no specific macro species have been confirmed for this wreck by independent sources.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Betty Bomber](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=224), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving - Betty Bomber](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=224), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Last updated 2026-07-26.*

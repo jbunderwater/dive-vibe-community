@@ -17,7 +17,7 @@ A 116-meter cargo vessel that sees fewer visitors than Chuuk's marquee wrecks --
 
 ## Overview
 
-The Kensho Maru was approximately a 116-meter (383 ft), 4,860-ton cargo vessel built in 1938, requisitioned by the Imperial Japanese Navy. She was towed to Truk Lagoon's repair anchorage, and it appears she was undergoing repairs when Operation Hailstone commenced on February 18, 1944 (the second day of operations). She was struck by U.S. carrier aircraft -- sources describe either a torpedo or a belly-tank fire-bomb as the cause -- and sank upright onto the lagoon floor at approximately 36--40 meters.
+The Kensho Maru was approximately a 116-meter (383 ft), 4,860-ton cargo vessel built in 1938, requisitioned by the Imperial Japanese Navy. She was towed to Truk Lagoon's repair anchorage and was still undergoing repairs on February 17, 1944, the first day of Operation Hailstone, when she was hit by U.S. carrier aircraft torpedoes and bombs and sank, with six of her crew killed. She now lies upright on the lagoon floor at approximately 36--40 meters.
 
 The Kensho Maru is one of the less-visited wrecks in the lagoon, overshadowed by famous neighbors. The interior contains workshops, tool rooms, valves, gauges, and instruments -- the character of a vessel in a repair role rather than a munitions transport. The superstructure is well-preserved and accessible with swim-throughs. Coral growth on the upper works is good, benefiting from less diver contact. Note: the "mines and munitions" description in earlier versions of this entry was not confirmed by independent sources during this QA pass; that claim has been removed. The maximum depth of approximately 40 meters at the sand line limits bottom time on air.
 
@@ -34,9 +34,7 @@ The Kensho Maru is one of the less-visited wrecks in the lagoon, overshadowed by
 
 ## Marine Life
 
-The Kensho Maru benefits from lighter diver traffic, and the coral growth reflects it. Hard corals and soft corals cover the superstructure, masts, and deck fixtures in healthy abundance. Sea fans and gorgonians grow along railings and cable runs. The upper masts carry dense coral colonies.
-
-Resident fish populations are robust. Schools of fusiliers and surgeonfish circle the wreck. Batfish aggregate near the superstructure. Inside the holds and corridors, glassy sweepers and cardinalfish form dense clouds. Lionfish and scorpionfish are plentiful. No site-specific marine life reports were found for this wreck beyond the reef fish and shark species typical of Chuuk Lagoon generally.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Kensho Maru. Chuuk Lagoon's regional reef fauna -- fish species, sharks, and turtles reported across the lagoon's wrecks generally, along with coral growth typical of a wreck submerged for eight decades -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -67,4 +65,4 @@ The Kensho Maru is a war grave and all artifacts are protected by law. While the
 The Kensho Maru rewards photographers willing to work at depth. The workshops and tools in the interior spaces make evocative subjects -- wrenches, gauges, and valves in place tell the story of a vessel interrupted mid-repair. The coral-covered masts and superstructure at shallower depths provide colorful wide-angle compositions with natural light. The swim-throughs within the superstructure create opportunities for silhouette shots with divers framed in ambient-lit openings. The absence of crowds means clean shots without other divers in frame -- a significant advantage over marquee wrecks. The deeper depth challenges exposure and color; bring strong video lights or wide-beam strobes to compensate for the reduced ambient light at 30-40 meters. Note: the "mines and shells" mentioned in earlier versions of this description were removed as unverified -- photograph what you find, not what is assumed to be there.
 
 ---
-*Sources: [Dive3D - Kensho Maru](https://dive3d.eu/models/chuuk-lagoon-truk/kensho-maru/), [Evolution Underwater - Sinking of the Kensho Maru](https://www.evolutionunderwater.com/sinking-of-the-kensho-maru), [Diver Trek - Truk Lagoon Ghost Fleet](https://divertrek.com/truk-lagoon-the-ghost-fleet-wrecks-july-29-aug-2/). Last updated 2026-05-22. Correction 2026-06-16: Photography section updated to remove references to "mines and shells" that were inconsistent with Overview, which noted this claim was removed as unverified.*
+*Sources: [Dive3D - Kensho Maru](https://dive3d.eu/models/chuuk-lagoon-truk/kensho-maru/), [Evolution Underwater - Sinking of the Kensho Maru](https://www.evolutionunderwater.com/sinking-of-the-kensho-maru), [Diver Trek - Truk Lagoon Ghost Fleet](https://divertrek.com/truk-lagoon-the-ghost-fleet-wrecks-july-29-aug-2/). Last updated 2026-07-26. Correction 2026-06-16: Photography section updated to remove references to "mines and shells" that were inconsistent with Overview, which noted this claim was removed as unverified.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # Yamagiri Maru
 
-Famous for the massive 18-inch battleship shells in Hold 4 -- Type 91 armor-piercing rounds destined for Yamato or Musashi-class super-battleships, found nowhere else in the diving world.
+Famous for the massive 18-inch battleship shells in Hold 5 -- Type 91 armor-piercing rounds destined for Yamato or Musashi-class super-battleships, found nowhere else in the diving world.
 
 ## Overview
 
@@ -34,7 +34,7 @@ The Yamagiri Maru is famous for one extraordinary feature: the massive armor-pie
 
 ## Marine Life
 
-The Yamagiri Maru's exposed starboard hull at 15 meters supports healthy coral growth in the well-lit shallows, with hard and soft corals, sea fans, and encrusting sponges. The spaces along the port side on the lagoon floor provide habitat for lionfish and scorpionfish. Schools of fusiliers and jacks patrol the mid-water around the wreck. Glassy sweepers congregate in the interior spaces, particularly in the refrigerated hold and engine room. The hull serves as an artificial reef attracting a range of reef fish.
+Dirty Dozen Expeditions' photo documentation of the Yamagiri Maru includes images captioned as showing lionfish and a turtle at the site -- the only site-specific marine life indication found during this QA pass, and a weak one since it comes from image filenames rather than a described sighting report. No independent source provides a fuller account of fish or shark species here; Chuuk Lagoon's regional reef fauna likely applies as it does across the lagoon's wrecks generally, but no further site-specific reports were found.
 
 ## Dive Profile
 
@@ -55,11 +55,11 @@ Access is by dive boat from Weno-based operators. Entry is by giant stride. Desc
 
 ## Safety Considerations
 
-The Yamagiri Maru is a war grave -- removing any artifacts is strictly illegal under Chuuk State law. The 18-inch battleship shells in Hold 4 are live ordnance of extraordinary destructive potential -- do not touch, stand on, or disturb them under any circumstances. The wreck lies on her port side, which disorients interior navigation; decks are now vertical surfaces and bulkheads become floors. Exercise particular caution in the engine room, which is extensive and presents multiple overhead environment challenges. Wreck penetration training, redundant lights, and a clear exit plan are essential for any interior exploration. The moderate maximum depth of 34 meters is within advanced recreational limits but gas management should still be carefully planned.
+The Yamagiri Maru is a war grave -- removing any artifacts is strictly illegal under Chuuk State law. The 18-inch battleship shells in Hold 5 are live ordnance of extraordinary destructive potential -- do not touch, stand on, or disturb them under any circumstances. The wreck lies on her port side, which disorients interior navigation; decks are now vertical surfaces and bulkheads become floors. Exercise particular caution in the engine room, which is extensive and presents multiple overhead environment challenges. Wreck penetration training, redundant lights, and a clear exit plan are essential for any interior exploration. The moderate maximum depth of 34 meters is within advanced recreational limits but gas management should still be carefully planned.
 
 ## Photography
 
-The 18-inch battleship shells in Hold 4 are the most historically significant photographic subjects on any wreck in Chuuk Lagoon. Their sheer size is difficult to convey in a single image -- including a diver for scale is essential. Wide-angle lenses are necessary for the hold and engine room interiors. The starboard hull at 15 meters receives good ambient light and supports natural-light wide-angle compositions of the coral-encrusted hull surface. The large refrigerated hold and extensive engine room provide additional interior subjects. Strobes are essential for hold and engine room photography to restore color and illuminate the darker spaces.
+The 18-inch battleship shells in Hold 5 are the most historically significant photographic subjects on any wreck in Chuuk Lagoon. Their sheer size is difficult to convey in a single image -- including a diver for scale is essential. Wide-angle lenses are necessary for the hold and engine room interiors. The starboard hull at 15 meters receives good ambient light and supports natural-light wide-angle compositions of the coral-encrusted hull surface. The large refrigerated hold and extensive engine room provide additional interior subjects. Strobes are essential for hold and engine room photography to restore color and illuminate the darker spaces.
 
 ---
-*Sources: [SS Thorfinn - Yamagiri Maru](https://thorfinn.net/yamagiri-maru/), [Dive3D - Yamagiri Maru](https://dive3d.eu/models/chuuk-lagoon-truk/yamagiri-maru/), [Argunners - Yamagiri Maru](https://www.argunners.com/yamagiri-maru-shipwreck-in-truk-lagoon/), [Scuba Diving Earth - Yamagiri Maru](https://www.scubadivingearth.com/yamagiri-maru-truk-lagoon-wreck-the-best-truk-lagoon-wreck-dives/), [Wikipedia - Yamato-class battleship](https://en.wikipedia.org/wiki/Japanese_battleship_Yamato). Correction 2026-06-16: battleship shells corrected from Hold 4 to Hold 5 per 4 independent sources.*
+*Sources: [SS Thorfinn - Yamagiri Maru](https://thorfinn.net/yamagiri-maru/), [Dive3D - Yamagiri Maru](https://dive3d.eu/models/chuuk-lagoon-truk/yamagiri-maru/), [Argunners - Yamagiri Maru](https://www.argunners.com/yamagiri-maru-shipwreck-in-truk-lagoon/), [Scuba Diving Earth - Yamagiri Maru](https://www.scubadivingearth.com/yamagiri-maru-truk-lagoon-wreck-the-best-truk-lagoon-wreck-dives/), [Wikipedia - Yamato-class battleship](https://en.wikipedia.org/wiki/Japanese_battleship_Yamato). Correction 2026-06-16: battleship shells corrected from Hold 4 to Hold 5 per 4 independent sources. Last updated 2026-07-26.*

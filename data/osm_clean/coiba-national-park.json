@@ -11,9 +11,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "panamadivecenter.com,divemasteraustin.com,coiba-island.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "RE-AUDITED 2026-06-25. El Faro (lighthouse) at western tip of Isla Canales de Afuera. Rocky reef descending to 30m. divemasteraustin.com confirms max 64ft/19m (not 30m) — note: multiple sources say 30m; the 19m figure may be the typical working depth. Retained 30m as max listed by panamadivecenter.com. Bull sharks and oceanic blacktips confirmed by panamadivecenter.com. Bigeye jacks, dog snappers, barracuda, scorpionfish, octopus, seahorse, frogfish confirmed. Manta rays seasonal. Whale sharks seasonal (December-April peak). Garden eels on sandy sections confirmed. Strong variable currents confirmed. Three independent sources all confirm this site."
+      "validation_source": "panamadivecenter.com,divemasteraustin.com,scubaboard.com",
+      "last_qa_date": "2026-07-26",
+      "qa_notes": "RE-AUDITED 2026-07-26 (deep QA pass). El Faro (lighthouse) at western tip of Isla Canales de Afuera. CORRECTION: coiba-island.com removed from validation_source — fresh fetch of coiba-island.com's dive site page confirms it does NOT mention Faro/El Faro or bull/oceanic blacktip sharks anywhere; the earlier citation was unsupported. Replaced with scubaboard.com (thread 330598, 'Diving report about Coiba Island, Panama', 2010) which explicitly lists 'El Faro del Canales' among sites dived and independently corroborates the encrusting-sponge/orange-cup-coral/finger-sponge/gorgonian substrate description found in other independent write-ups of the same site cluster. Three independently re-verified domains: panamadivecenter.com, divemasteraustin.com, scubaboard.com. Depth: panamadivecenter.com states reef descends to ~30m; divemasteraustin.com's single-visit log recorded 64ft/19m max — retained 30m as the operator-published maximum, noted as a range. Bull sharks and oceanic blacktips confirmed by both panamadivecenter.com and divemasteraustin.com independently. Manta rays and whale sharks (seasonal, Dec-Apr) confirmed by panamadivecenter.com. Garden eels confirmed by divemasteraustin.com. No factual claims required removal this pass."
     }
   },
   {
@@ -29,8 +29,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "UNRESOLVED. 2026-06-25 re-audit: No independent dive operator, ScubaBoard thread, or dive database (PADI, panamadivecenter.com, scubacoiba.com, divemasteraustin.com, coiba-island.com, thearkdivers.com, divebasecoiba.com) lists a Coiba National Park dive site by this name. 'Machete Caves' is in Bocas del Toro on Panama's Caribbean coast — a different location. Known Coiba wall/reef sites near these coordinates include sites around Isla Coibita but none called 'Machete Point'. Validated=false. Do not publish until confirmed by a local operator."
+      "last_qa_date": "2026-07-26",
+      "qa_notes": "UNRESOLVED. Re-checked again 2026-07-26 (deep QA pass): fresh WebSearch for \"Machete Point\" Coiba dive site Panama still returns no operator, PADI, ScubaBoard, or database listing under this name. One tangential search hit referenced a Coiba site nicknamed after a former Coiba prison inmate turned park ranger, entered at 13m depth — but no name or coordinates tie that anecdote to \"Machete Point,\" so it was not used to confirm this entry. 'Machete Caves' remains a distinct Bocas del Toro (Caribbean coast) location, not Coiba. Validated=false retained. Do not publish until confirmed by a local operator."
     }
   },
   {
@@ -46,8 +46,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "coiba-island.com,snorkeling-report.com,coibanationalpark.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "RE-AUDITED 2026-06-25. Islet NE of Coiba Island. Coords verified: 7.5933/-81.7124 (snorkeling-report.com: 7.593368/-81.713267). Shallow reef 5-18m around volcanic islet. Intermediate difficulty confirmed (not Advanced). Day-trip accessible from Santa Catalina. Marine life confirmed by 3 sources: hawksbill and green turtles, whitetip reef sharks (deeper rocky sections), king angelfish, surgeonfish (razor surgeonfish), grunts, snapper, moray eels, pufferfish (white-spotted puffer, spot-fin porcupinefish), parrotfish, wrasses, triggerfish. No pelagic megafauna (bull sharks, hammerheads) confirmed at this specific site. Aquarium-like density of species confirmed."
+      "last_qa_date": "2026-07-26",
+      "qa_notes": "RE-AUDITED 2026-07-26 (deep QA pass). CORRECTION: panamadivecenter.com removed from validation_source — fresh fetch of panamadivecenter.com's full site listing (18 named sites) confirms Granito de Oro is not among them; the earlier citation was unsupported. Three independently re-verified domains remain: coiba-island.com, snorkeling-report.com, coibanationalpark.com. Marine life re-checked against fresh source fetches: dropped 'spot-fin porcupinefish' (only generic 'puffers'/'white-spotted puffer' confirmed) and 'wrasses/triggerfish' (not reconfirmed on this pass) from the species list; added butterflyfish, octopus, and scorpionfish, which coiba-island.com's current page independently confirms for this islet. Depths (5-18m diving; snorkeling-report.com's 1-6m range is snorkel-specific, not the dive max) and difficulty (Intermediate) reconfirmed."
     }
   },
   {
@@ -63,8 +63,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "panamadivecenter.com,coiba-island.com,divemasteraustin.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "RE-AUDITED 2026-06-25. Near Isla Rancheria. Cathedral-like rock walls, overhangs, channels. Depth range: panamadivecenter.com lists 12-30m; divemasteraustin.com confirms 18m/58ft max working depth with most diving at 20-40ft. NOTE: divemasteraustin confirms large manta ray sighting here. Baby octopus confirmed (divemasteraustin). Marine life confirmed: whitetip reef sharks, moray eels, lobsters, snappers, jacks, angelfish, parrotfish, wrasse, scorpionfish, frogfish, seahorses, turtles, octopus, barracuda, manta rays. Oceanic whitetip claim removed (not confirmed at this specific site). Antler coral claim removed (no source confirmation). Three independent sources confirmed."
+      "last_qa_date": "2026-07-26",
+      "qa_notes": "RE-AUDITED 2026-07-26 (deep QA pass). All three sources re-fetched and independently reconfirmed as covering this exact site (panamadivecenter.com 'Iglesia' entry, coiba-island.com 'Iglesia (Ranchería area)' entry, divemasteraustin.com 'Iglesia (Church)' entry). Depth conflict reconfirmed and retained as a noted range: panamadivecenter.com and coiba-island.com both independently state up to 30m; divemasteraustin.com's single dive log recorded 58ft/18m max. Manta ray and baby octopus sightings reconfirmed via divemasteraustin.com. Species list cross-checked against fresh fetches of all three sources and found accurate; added 'grunts' (coiba-island.com) as an additional confirmed species. No fabricated claims found this pass."
     }
   },
   {
@@ -79,9 +79,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "coibanationalpark.com,tourismpanama.com,thearkdivers.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "RE-AUDITED 2026-06-25. Bay on east side of Isla Coiba. '135 hectares (335 acres) — second largest coral reef in the Eastern Pacific' confirmed by coibanationalpark.com. CAVEAT: This claim should be noted as sourced from a single advocacy site; independent verification from a scientific source was not found. The '5,000 years old' reef claim originates from coibanationalpark.com; not independently verified — retained with attribution. The '33 shark species' and '800 fish species' figures apply to the entire Coiba National Park, NOT to Bahia Damas specifically — these are park-wide figures and have been noted accordingly in the description. Marine life confirmed at or adjacent to Bahia Damas: large schools of snapper, jacks, barracuda, tuna; manta rays; reef sharks; dolphins and whales (seasonal/adjacent waters). Whale sharks and humpback whales are seasonal park-wide visitors, not guaranteed at this bay specifically."
+      "validation_source": "coibanationalpark.com,tourismpanama.com,thearkdivers.com,ocean.si.edu",
+      "last_qa_date": "2026-07-26",
+      "qa_notes": "RE-AUDITED 2026-07-26 (deep QA pass). CORRECTION/REMOVAL: the '5,000 years old' reef age claim was re-checked against a fresh fetch of coibanationalpark.com's Bahia Damas page and is NOT present on the page in its current form (page states only the 135-hectare/335-acre size and 'one of the largest reefs in Central America'). No other source confirms a reef age. This claim has been REMOVED as unverifiable — a hallucination-removal per the anti-hallucination policy. UPGRADE: the 'second-largest coral reef in the Eastern Pacific' claim, previously flagged as single-source, is now independently confirmed by THREE sources on fresh re-fetch: coibanationalpark.com ('one of the largest reefs in Central America... second largest coral reef in the Eastern Pacific'), tourismpanama.com ('135 hectares, one of the most extensive marine habitats on the continent'), and thearkdivers.com ('THE BAHIA DAMAS REEF IN COIBA IS THE SECOND-LARGEST CORAL REEF IN THE EASTERN PACIFIC OCEAN'). Caveat retained and strengthened: the park-wide '800 fish species / 33 shark species' figures are NOT Bahia Damas-specific — added ocean.si.edu (Smithsonian Ocean Portal) as a fourth source, which independently states Coiba National Park hosts 'nearly 800 species of fish, including 33 species of sharks, and 20 species of cetaceans' park-wide (matches thearkdivers.com's '33 different shark species' figure). These remain explicitly labeled park-wide, not site-specific, in the markdown."
     }
   },
   {
@@ -96,9 +96,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "panamadivecenter.com,coiba-island.com,scubaboard.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "RE-AUDITED 2026-06-25. Isla Canal de Afuera — island with multiple dive areas. Primary sites: calm leeward coral gardens (snapper, jacks, surgeonfish, angelfish, parrotfish, moray eels, turtles) and exposed western point (Faro/El Faro — listed separately as Faro Reef). panamadivecenter.com confirms site list includes Wahoo Rock, Buffet, Faro, Bajo Pinon, Punta Deseo, La Lengua within the Canales area. 1.5-hour boat from Santa Catalina confirmed. ScubaBoard confirms rocky reef with encrusting sponges, orange cup corals, green/yellow finger-sponges, gorgonians, and hard corals. Species confirmed: snapper, jacks, surgeonfish, angelfish, parrotfish, moray eels, turtles (calm side); bull sharks, oceanic blacktips, bigeye jacks, dog snappers, barracuda, scorpionfish, octopus, seahorses, frogfish (exposed western areas). Three independent sources confirmed."
+      "validation_source": "panamadivecenter.com,divemasteraustin.com,scubaboard.com",
+      "last_qa_date": "2026-07-26",
+      "qa_notes": "RE-AUDITED 2026-07-26 (deep QA pass). CORRECTION: coiba-island.com removed from validation_source — its dive site page does not use the name 'Canales de Afuera' or describe this island; the earlier citation was unsupported. Replaced with divemasteraustin.com, which independently covers Wahoo Rock and Buffet (both explicitly identified by panamadivecenter.com as being in the 'Isla Canales Region'). Three re-verified domains: panamadivecenter.com, divemasteraustin.com, scubaboard.com (thread 330598 lists multiple Canales-cluster sites including El Faro del Canales, Fisherman's Dream, El Chorro). Leeward calm-side vs. exposed Punta Faro characterization reconfirmed. Substrate description (encrusting sponges, orange cup coral, finger-sponges, gorgonians) independently corroborated across multiple trip write-ups of this exact site cluster."
     }
   },
   {
@@ -113,9 +113,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "padi.com,coiba-island.com,panamadivecenter.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "RE-AUDITED 2026-06-25. PADI confirms this site at southern end of Coiba National Park adjacent to Isla Jicarón. Described as 'islands on the drop-off' with seafloor plunging to thousands of meters. PADI species list confirmed: hammerhead sharks, barracuda, batfish, eagle rays, eels, flounders, groupers, lobsters, manta rays, moray eels, parrotfish, pipefish, porcupinefish, pufferfish, reef sharks, sea turtles, stingrays, yellowtail snapper. NOTE: species list covers Jicaron and Jicarita together as a combined dive area — individual site-specific observations are not separable from source. Accessible only on special trips, not standard day-trip routes. Three independent sources confirmed."
+      "validation_source": "padi.com,en.wikipedia.org,coibanationalpark.com",
+      "last_qa_date": "2026-07-26",
+      "qa_notes": "RE-AUDITED 2026-07-26 (deep QA pass) — MAJOR CORRECTION. Fresh fetch of the PADI dive site page's actual 'Common Sightings' tag list shows only FOUR species/categories: Sharks, Whales, Dolphins, Turtles — not the 17-species list previously carried in validation_source/markdown (hammerhead sharks, barracuda, batfish, eagle rays, eels, flounders, groupers, lobsters, manta rays, moray eels, parrotfish, pipefish, porcupinefish, pufferfish, reef sharks, stingrays, yellowtail snapper). That expanded list was NOT found on the current PADI page and has been REMOVED as unconfirmed — a significant hallucination-removal. Also removed: the specific attribution of 'hammerhead sharks' to this site — hammerhead activity in Coiba is documented at the Contreras Islands (thearkdivers.com, scubacoiba.com, panamadivecenter.com), not at Jicarón/Jicarita; no source ties hammerheads specifically to Jicarita. coiba-island.com and panamadivecenter.com were removed from validation_source (neither page mentions Jicarita/Jicarón by name with site-specific detail). Two new genuine sources found and substituted: en.wikipedia.org/wiki/Jicarita (dedicated article — confirms geography, and that surrounding waters host 'rays, sharks, sailfish, marlin, yellowfin tuna, dolphins, whales, and orcas') and coibanationalpark.com/jicaron.html (independently corroborates the same species set: rays, sharks, sailfish, marlin, dolphins, whales, orcas, yellowfin tuna). Depth: no source gives a numeric depth for Jicarita specifically; retained 30m as an unconfirmed working estimate consistent with regional advanced drop-off sites — flagged as such in markdown rather than presented as a sourced fact."
     }
   },
   {
@@ -130,9 +130,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "divemasteraustin.com,panamadivecenter.com,coiba-island.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "RE-AUDITED 2026-06-25. Coords corrected from (7.615, -81.735) to divemasteraustin.com-confirmed 7.632914/-81.781273. Hard coral reef, primarily 20-30ft (6-9m) average with 66ft (20m) max (divemasteraustin.com). divemasteraustin.com confirms: 'aquarium-like fields of hard coral' description; scorpionfish specifically mentioned including a mated pair observed. Used as rest dive between demanding sites. Difficulty Intermediate confirmed. Marine life: hard corals, scorpionfish (confirmed), diverse reef fish schools. No shark or ray encounters confirmed at this specific site — those are for more exposed sites. Three independent sources confirmed."
+      "validation_source": "divemasteraustin.com",
+      "last_qa_date": "2026-07-26",
+      "qa_notes": "RE-AUDITED 2026-07-26 (deep QA pass) — SOURCE COUNT SHORTFALL, FLAGGED PER DEEP-QA POLICY. On this pass, panamadivecenter.com's and coiba-island.com's full site listings were re-fetched in their entirety and neither one mentions 'Santa Cruz' anywhere; the previous validation_source citing all three was overstated. Extensive additional WebSearch found no second independent source describing a 'Santa Cruz' dive site in Coiba — all results trace back to the same divemasteraustin.com article. Per deep-QA instruction, validated is left as 'true' (content is accurate per this one strong, detailed firsthand source and is not being newly marked validated) but validation_source has been corrected to list only the one genuinely confirmed domain, and this shortfall is called out explicitly rather than padded. All specific claims (32ft/10m avg, 66ft/20m max, mated scorpionfish pair, 'aquarium-like' hard coral, strong current in the shallows) were reconfirmed against a fresh fetch of divemasteraustin.com and are accurate to that source."
     }
   },
   {
@@ -147,9 +147,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "padi.com,panamadivecenter.com,divemasteraustin.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "RE-AUDITED 2026-06-25. Coords verified: PADI dive site database 7.906614/-81.816730. CORRECTION: 'Montana Rusa' translates literally to 'Russian Mountain' in Spanish (montaña = mountain, rusa = Russian/feminine adjective) — NOT 'Roller Coaster' as stated in previous markdown. The site is nicknamed 'roller coaster' by divers due to the experience of riding currents, but the literal name means Russian Mountain. Markdown updated. Depth: PADI confirms 14m shallowest to 42m (140ft) max. divemasteraustin.com confirms 25m/83ft max on this visit. Retained 40m as the typical published maximum. Marine life confirmed: hammerhead sharks (seasonal, April-July peak; also documented sightings in September — ScubaBoard 2024 report); bull sharks, whitetip reef sharks, giant manta rays, large schools of bigeye trevally, barracuda, dog snappers, groupers. divemasteraustin.com confirms: oceanic blacktips, amberjacks. Strong to severe currents confirmed. Four independent sources."
+      "validation_source": "padi.com,panamadivecenter.com,divemasteraustin.com,scubaboard.com",
+      "last_qa_date": "2026-07-26",
+      "qa_notes": "RE-AUDITED 2026-07-26 (deep QA pass) — CORRECTIONS. Coordinates and 14-42m depth range reconfirmed via fresh PADI fetch. CORRECTION: the claim 'ScubaBoard trip reports confirm hammerhead sightings at Contreras-area sites including in September 2024' has been REMOVED — a fresh direct fetch of the cited ScubaBoard thread (654201) shows it was posted January 14, 2025 (not '2026' as the markdown footer previously stated — also corrected) and the author explicitly states hammerheads did NOT appear on that trip ('hammerheads didn't show up'). A follow-up WebSearch for a genuine September 2024 hammerhead report at Contreras found no corroborating page — the earlier claim could not be reproduced from any live source and has been treated as unverifiable/removed per anti-hallucination policy. CORRECTION: 'white-tip reef sharks in schools' from that same thread has been corrected to match the source text, which describes 'a couple of big white strip sharks,' not schools. Hammerhead season: sources conflict significantly (panamadivecenter.com/contreras: March-April; other pages: April-May, April-July; thearkdivers.com: June-November) — this conflict is now stated explicitly in the markdown rather than asserting one window. Humpback whales, dolphins, and toad fish/gorgonian corals added to confirmed PADI species list (previously omitted). All other species and depth claims reconfirmed against fresh fetches of PADI, panamadivecenter.com, and divemasteraustin.com."
     }
   },
   {
@@ -165,8 +165,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "UNRESOLVED. 2026-06-25 re-audit: No operator website (panamadivecenter.com, scubacoiba.com, divemasteraustin.com, coiba-island.com, thearkdivers.com, divebasecoiba.com), PADI dive site database, or ScubaBoard thread lists a Coiba National Park site named 'Shark Point' or 'Shark Point Coiba'. Coordinates (7.52, -81.75) are near central-west Coiba. Established shark-focused sites in Coiba are named El Faro (Punta Faro), Montana Rusa, Wahoo Rock, and Punta Peligro. Validated=false. Do not publish until confirmed by a local operator or replaced with a verified site."
+      "last_qa_date": "2026-07-26",
+      "qa_notes": "UNRESOLVED. Re-checked again 2026-07-26 (deep QA pass): fresh WebSearch for \"Shark Point\" Coiba National Park dive site Panama still returns no operator, PADI, ScubaBoard, or database listing under this name. Confirmed shark-focused Coiba sites remain El Faro (Punta Faro), Montana Rusa, Wahoo Rock, and Punta Peligro — none of which use the name 'Shark Point.' Validated=false retained. Do not publish until confirmed by a local operator or replaced with a verified site."
     }
   }
 ]

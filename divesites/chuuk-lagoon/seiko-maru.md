@@ -34,7 +34,7 @@ The Seiko Maru's holds contain a varied military cargo, highlighted by torpedoes
 
 ## Marine Life
 
-The Seiko Maru's upright profile provides vertical structure from the sandy bottom to the upper superstructure, supporting marine life across a range of depths. Hard and soft corals colonize the masts, king posts, and railings. Sea fans and sponges encrust the superstructure. Schools of fusiliers and jacks are present in the mid-water column. Glassy sweepers fill the engine room and hold interiors. Lionfish and scorpionfish occupy overhangs and dark recesses throughout the wreck.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Seiko Maru. Chuuk Lagoon's regional reef fauna -- fish species and coral growth reported across the lagoon's wrecks generally -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The Seiko Maru is a war grave -- removing any artifacts is strictly illegal unde
 The Seiko Maru's upright torpedoes are her most compelling photographic subjects -- their vertical stance in the holds creates powerful, unusual compositions. A diver positioned beside a torpedo provides essential scale. The bridge at 30 meters receives moderate ambient light and supports atmospheric superstructure compositions. The engine room interior rewards careful lighting with strobes. Powerful strobes are essential at depth to restore color across the wreck. The upright position and clear layout make pre-planning compositions feasible, allowing efficient use of limited bottom time.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Seiko Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=822), [trukwreckdiving.com - Seiko Maru](http://trukwreckdiving.com/index.php/wreck-site-map/21-30/29-seiko-maru), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Last updated 2026-05-22. Correction 2026-06-16: maxDepth corrected from 40m to 49m (bridge ~30m, keel ~49m) per multiple sources; JSON depth also updated.*
+*Sources: [Michael McFadyen's Scuba Diving - Seiko Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=822), [trukwreckdiving.com - Seiko Maru](http://trukwreckdiving.com/index.php/wreck-site-map/21-30/29-seiko-maru), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Last updated 2026-07-26. Correction 2026-06-16: maxDepth corrected from 40m to 49m (bridge ~30m, keel ~49m) per multiple sources; JSON depth also updated.*

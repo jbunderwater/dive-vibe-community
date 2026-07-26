@@ -35,7 +35,7 @@ The site ranges from a shallow entry at around 12 meters up to 30 meters in the 
 
 ## Marine Life
 
-Confirmed species at Iglesia based on operator listings and trip reports: whitetip reef sharks, moray eels, lobsters, snappers, jacks, angelfish, parrotfish, wrasse, scorpionfish, frogfish, seahorses, turtles, octopus, and barracuda. One firsthand diver report (divemasteraustin.com) recorded a large manta ray on a visit to this site.
+Confirmed species at Iglesia based on operator listings and trip reports: whitetip reef sharks, moray eels, lobsters, snappers, grunts, jacks, angelfish, parrotfish, wrasse, scorpionfish, frogfish, seahorses, turtles, octopus, and barracuda. One firsthand diver report (divemasteraustin.com) recorded a large manta ray and a baby octopus on a visit to this site.
 
 Reef sharks are commonly seen here — multiple sources describe Iglesia as a site with high shark activity relative to other Coiba reefs. There are no confirmed reports of oceanic whitetip sharks specifically at this site; that species is associated with the park's more open-water pelagic zones.
 
@@ -63,4 +63,4 @@ Rock formations can be disorienting in strong current — maintain clear visual 
 Year-round diving available. Hammerhead season (January–April) may bring occasional hammerhead passes through the area. Dry season (December–April) delivers calmest surface conditions. Rainy season (May–November) maintains excellent visibility with variable, often gentle currents.
 
 ---
-*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama). Last updated 2026-06-25.*
+*Sources: [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama). Last updated 2026-07-26. (2026-07-26 re-audit: all three sources re-fetched and reconfirmed as covering this site; no factual corrections required beyond adding grunts and baby octopus, both confirmed in the re-fetched pages.)*

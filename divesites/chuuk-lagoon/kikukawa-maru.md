@@ -34,7 +34,7 @@ Despite the damage to her stern, the Kikukawa Maru's holds contain a remarkable 
 
 ## Marine Life
 
-The Kikukawa Maru's infrequent diver traffic has allowed marine life to flourish undisturbed. Coral growth covers the exposed hull surfaces, with hard corals, sea fans, and encrusting sponges colonizing the wreck structure. Schools of fusiliers patrol the surrounding water column. Glassy sweepers congregate in the interior spaces around the aircraft cargo. Lionfish and scorpionfish occupy overhangs and recesses along the hull.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Kikukawa Maru. Chuuk Lagoon's regional reef fauna -- fish species and coral growth reported across the lagoon's wrecks generally -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The Kikukawa Maru is a war grave containing human remains -- removing any artifa
 The Kikukawa Maru's aircraft cargo provides exceptional photographic subjects. The hundreds of propeller blades stacked in the holds create striking repetitive patterns, and individual radial engines are instantly recognizable subjects. The seaplane floats and propeller spinners add variety to the cargo portfolio. The near-inverted orientation creates unusual visual perspectives that differ from other Chuuk wrecks. Powerful strobes are essential at 40 meters to restore color and illuminate the interior spaces. The lack of other dive groups means clean compositions without interference.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Kikukawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=825), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/), [Dirty Dozen Expeditions - Truk Lagoon Wrecks below 40m](https://thedirtydozenexpeditions.com/truk-lagoon-wrecks). Exact tonnage, precise sinking circumstances, and full cargo manifest not confirmed to 2-source standard; the Oct 7, 1943 sinking from ammunition explosion is from McFadyen (single source). Last updated 2026-06-16.*
+*Sources: [Michael McFadyen's Scuba Diving - Kikukawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=825), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/), [Dirty Dozen Expeditions - Truk Lagoon Wrecks below 40m](https://thedirtydozenexpeditions.com/truk-lagoon-wrecks). Exact tonnage, precise sinking circumstances, and full cargo manifest not confirmed to 2-source standard; the Oct 7, 1943 sinking from ammunition explosion is from McFadyen (single source). Last updated 2026-07-26.*
