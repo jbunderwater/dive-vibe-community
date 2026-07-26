@@ -1495,5 +1495,26 @@
       "name contains 'dive center'"
     ],
     "dest": "zanzibar"
+  },
+  {
+    "name": "Les Joyeux Corsaires",
+    "reasons": [
+      "dive school/club (Ol\u00e9ron Plong\u00e9e - Les Joyeux Corsaires, \u00c9cole de plong\u00e9e d'Ol\u00e9ron)"
+    ],
+    "dest": "la-rochelle-oleron"
+  },
+  {
+    "name": "\u00c9pave Sauerland",
+    "reasons": [
+      "duplicate of Le Sauerland (\u00e9pave 1944) - kept node with precise GPS position"
+    ],
+    "dest": "la-rochelle-oleron"
+  },
+  {
+    "name": "SS Presidente Viera",
+    "reasons": [
+      "intertidal beach wreck at Saint-Trojan, exposed at low tide - not a scuba dive site"
+    ],
+    "dest": "la-rochelle-oleron"
   }
 ]
