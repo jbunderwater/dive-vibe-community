@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "chuuk-lagoon",
-    "cocos-island",
-    "coiba-national-park",
-    "colombia",
-    "cook-islands-rarotonga",
-    "costa-rica",
     "cozumel",
     "croatia",
     "curacao",
@@ -151,6 +145,12 @@
     "zanzibar"
   ],
   "completed_this_cycle": [
+    "chuuk-lagoon",
+    "cocos-island",
+    "coiba-national-park",
+    "colombia",
+    "cook-islands-rarotonga",
+    "costa-rica",
     "alaska",
     "alor-archipelago",
     "ambon",
@@ -178,6 +178,79 @@
     "canada"
   ],
   "history": [
+    {
+      "date": "2026-07-26",
+      "slugs": [
+        "chuuk-lagoon",
+        "cocos-island",
+        "coiba-national-park",
+        "colombia",
+        "cook-islands-rarotonga",
+        "costa-rica"
+      ],
+      "notes": "colombia and costa-rica are isGroup=true parent slugs with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs (belize, sudan, uae, australia). Chuuk Lagoon (25 WWII wreck sites) had a systemic issue where nearly every site's Marine Life section named 6-10 specific species not actually confirmed by the cited sources -- all 25 rewritten. Cook Islands Rarotonga had a similar systemic fabricated-citation problem: 8 of 10 sites had scubaboard.com/pacificdivers.co.ck/diverarotonga.com/cookislandspocketguide.com cited as sources that, on direct re-fetch, do not actually cover those sites under their listed names -- those citations were removed, leaving only michaelmcfadyenscuba.info as a genuinely confirmed source for those 8 sites (below the 3-domain bar, left unresolved rather than padded).",
+      "summary": {
+        "sites_total": 53,
+        "sites_validated_today": 32,
+        "sites_re_audited": 53,
+        "hallucinations_removed": 15,
+        "marine_life_stripped": 30,
+        "wreck_conflicts_flagged": 11,
+        "sites_unresolved": 12,
+        "by_destination": {
+          "chuuk-lagoon": {
+            "sites_total": 25,
+            "sites_validated_today": 24,
+            "sites_re_audited": 25,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 25,
+            "wreck_conflicts_flagged": 10,
+            "sites_unresolved": 1,
+            "notes": "All 25 sites are WWII wrecks from Operation Hailstone (Feb 1944) plus HIJMS Tachikaze. Corrected sinking-date errors on Kensho Maru (Feb 18->17) and fixed internal contradictions on Yamagiri Maru (Hold 4 vs Hold 5) and Nippo Maru (stale hold-location reference). Systemic marine-life over-attribution found and fixed across all 25 sites -- cited sources (mcfadyen, dive3d, thorfinn, etc.) did not confirm the 6-10 species lists attached to nearly every site; rewritten to state regional fauna likely applies but wasn't confirmed per-site, keeping only genuinely sourced items. HIJMS Tachikaze left validated=true but flagged: only 2 distinct source domains found despite exhaustive search, does not meet the 3-domain bar."
+          },
+          "cocos-island": {
+            "sites_total": 8,
+            "sites_validated_today": 8,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites (pinnacle/wall/reef only). All 8 sites already met the remote-liveaboard Advanced-minimum-difficulty rule. Viking Rock's unsourced '60m wall' depth corrected to the sourced 39-40m, and its tiger-shark 'headline species' framing (with a fabricated 25-40m behavioral claim) demoted to a hedged mention after direct source re-fetch found no tiger-shark mention at that site. Lobster Rock depth corrected 37m->33m."
+          },
+          "coiba-national-park": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 3,
+            "notes": "No wreck sites. Removed an unsourced 'reef estimated over 5,000 years old' claim on Bahia Damas and a fabricated 17-species 'PADI-confirmed' list on Jicarita Island (live PADI page only tags 4 broad categories). Montana Rusa's invented September 2024 hammerhead sighting and an inflated shark-school claim removed; hammerhead-season claims rewritten to disclose genuine cross-operator conflict (March-April vs April-July vs June-November). Several validation_source domains were found to be over-claimed (didn't actually cover the site) and corrected. Machete Point and Shark Point Coiba remain unvalidated (no independent source names either site under these names); Santa Cruz downgraded to a single confirmed domain, left validated=true per re-audit rules but flagged below the 3-domain bar."
+          },
+          "colombia": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)"
+          },
+          "cook-islands-rarotonga": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 8,
+            "notes": "SYSTEMIC FINDING: 8 of 10 sites had validation_source citations (scubaboard.com, pacificdivers.co.ck, diverarotonga.com, cookislandspocketguide.com) that don't actually cover those sites under their listed names, confirmed via direct WebFetch of each source's real content -- citations removed, leaving only michaelmcfadyenscuba.info as genuinely confirmed for those 8 sites (below 3-domain bar, left validated=true but flagged unresolved rather than padded). Fabricated eagle-ray aggregation counts on Avaavaroa Passage ('40-80... exceeding 87') and fabricated caverns/crayfish/lionfish on Black Rock Chimneys (source says ridges and gullies, no caverns) removed. Maritime Reefer (wreck) sinking-cause conflict flagged: dive-industry sites assert deliberate 1981 scuttling as fact, while the independent McFadyen trip report treats it as unverified with no matching Lloyd's Register entry -- both accounts now presented."
+          },
+          "costa-rica": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)"
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/127",
+      "errors": []
+    },
     {
       "date": "2026-07-19",
       "slugs": [

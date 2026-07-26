@@ -56,4 +56,4 @@ Access by dive boat from Avatiu Harbour, approximately seven minutes to the site
 The reef edge drops into deeper water — monitor depth carefully near the canyons. Currents are generally mild but can increase near the reef edge. The 35-meter maximum depth limits bottom time on air.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=511), [ScubaBoard — Rarotonga discussions](https://scubaboard.com/community/threads/rarotonga-aitutaki.407203/), [Pacific Divers](https://www.pacificdivers.co.ck/Diving-Map.html). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=511). The previously cited ScubaBoard thread and Pacific Divers site map were re-checked on 2026-07-26 and neither actually covers this site under this name, so those citations have been removed. Only one independently confirmed site-specific source could be found despite additional research. Last updated 2026-07-26.*

@@ -34,9 +34,7 @@ The Shinkoku Maru is widely considered the most beautiful wreck in Chuuk Lagoon 
 
 ## Marine Life
 
-The Shinkoku Maru carries the heaviest coral encrustation of any wreck in Chuuk. Massive table corals, staghorn formations, and enormous gorgonian sea fans cover the superstructure and masts, creating reef habitat that rivals natural coral formations. Soft corals in vivid reds, oranges, and purples festoon every railing and cable. Anemones with pairs of clownfish are found throughout.
-
-The wreck supports dense fish populations. Large schools of batfish hover around the bridge area. Clouds of glassy sweepers fill interior spaces. Lionfish, scorpionfish, and leaf fish hide in shadowed corners. Reef sharks patrol the perimeter. Hawksbill turtles are frequently encountered resting on deck. The coral coverage is so dense that many divers describe the Shinkoku Maru as a reef dive that happens to be on a ship.
+Dirty Dozen Expeditions describes "amazing coral growth and lots of interesting marine life" on the Shinkoku Maru -- consistent with the wreck's reputation as the most heavily coral-encrusted in Chuuk Lagoon, and the one site-specific source confirmation found during this QA pass. That source does not itemize which fish, shark, or turtle species are present, so this description does not name individual species beyond the confirmed coral growth. The coral coverage is dense enough that many divers describe the Shinkoku Maru as a reef dive that happens to be on a ship.
 
 ## Dive Profile
 
@@ -64,7 +62,7 @@ The Shinkoku Maru is a designated war grave. Removal of any artifacts is illegal
 
 ## Photography
 
-The Shinkoku Maru is arguably the most photogenic wreck in the Pacific. The coral-encrusted masts and king posts at shallow depth offer wide-angle compositions with brilliant natural light -- some of the most published underwater images from Chuuk were shot here. The engine order telegraph on the bridge is a classic detail shot. Inside, the operating room provides haunting still-life subjects with bottles and instruments. The engine room rewards wide-angle work with powerful video lights to reveal its scale. Macro photographers will find nudibranchs, coral detail, and small critters throughout the exterior hull and railings.
+The Shinkoku Maru is arguably the most photogenic wreck in the Pacific. The coral-encrusted masts and king posts at shallow depth offer wide-angle compositions with brilliant natural light -- some of the most published underwater images from Chuuk were shot here. The engine order telegraph on the bridge is a classic detail shot. Inside, the operating room provides haunting still-life subjects with bottles and instruments. The engine room rewards wide-angle work with powerful video lights to reveal its scale. Macro photographers will find coral detail throughout the exterior hull and railings, though specific macro species have not been confirmed for this wreck by independent sources.
 
 ---
-*Sources: [Dive3D - Shinkoku Maru](https://dive3d.eu/models/chuuk-lagoon-truk/shinkoku-maru/), [Scuba Diving Earth - Shinkoku Maru](https://www.scubadivingearth.com/shinkoku-maru-wreck-of-truk-lagoon-details-of-truk-lagoon-wrecks-2/), [TracesOfWar - Shinkoku Maru](https://www.tracesofwar.com/sights/9272/Ship-Wreck-Shinkoku-Maru.htm), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m). Last updated 2026-05-22.*
+*Sources: [Dive3D - Shinkoku Maru](https://dive3d.eu/models/chuuk-lagoon-truk/shinkoku-maru/), [Scuba Diving Earth - Shinkoku Maru](https://www.scubadivingearth.com/shinkoku-maru-wreck-of-truk-lagoon-details-of-truk-lagoon-wrecks-2/), [TracesOfWar - Shinkoku Maru](https://www.tracesofwar.com/sights/9272/Ship-Wreck-Shinkoku-Maru.htm), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m). Last updated 2026-07-26.*

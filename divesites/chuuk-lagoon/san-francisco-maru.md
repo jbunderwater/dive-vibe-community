@@ -34,7 +34,7 @@ Three Type-95 Ha-Go light tanks sit on the deck -- the most famous individual ar
 
 ## Marine Life
 
-Despite her depth, the San Francisco Maru's structure supports marine life across its profile. The upper portions of the superstructure host coral growth, sea fans, and sponges. Schools of fusiliers and jacks are present in the water column. Glassy sweepers occupy interior spaces. The tanks and deck cargo are partially encrusted with coral and sponge growth after more than eight decades underwater, softening their military outlines with the slow work of marine colonization.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the San Francisco Maru. The tanks and deck cargo are visibly encrusted with coral and sponge growth after more than eight decades underwater, softening their military outlines, but beyond this structural growth, Chuuk Lagoon's regional reef fauna likely applies without site-specific confirmation.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The San Francisco Maru is a war grave -- removing any artifacts is strictly ille
 The San Francisco Maru offers the most iconic wreck photography in Chuuk -- and arguably anywhere. The three Ha-Go tanks on deck are the definitive image of Truk Lagoon diving, and capturing them well requires careful planning given the depth and limited bottom time. Pre-plan compositions to use the available minutes efficiently. A diver positioned beside a tank provides essential scale. Powerful strobes are mandatory at 45-62 meters to restore color. The variety of cargo -- tanks, steamroller, fuel tankers, mines, torpedoes -- means each dive can yield a completely different photographic portfolio. The depth and decompression obligation make post-processing flexibility important; shoot RAW if your camera supports it.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - San Francisco Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=240), [Dirty Dozen Expeditions - San Francisco Maru](https://thedirtydozenexpeditions.com/blog/san-fransisco-maru-wreck-in-depth-truk-lagoon), [Argunners - San Francisco Maru](https://www.argunners.com/san-francisco-maru-wreck-in-truk-lagoon/), [Master Liveaboards - San Francisco Maru](https://masterliveaboards.com/san-francisco-maru-wreck-truk/). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving - San Francisco Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=240), [Dirty Dozen Expeditions - San Francisco Maru](https://thedirtydozenexpeditions.com/blog/san-fransisco-maru-wreck-in-depth-truk-lagoon), [Argunners - San Francisco Maru](https://www.argunners.com/san-francisco-maru-wreck-in-truk-lagoon/), [Master Liveaboards - San Francisco Maru](https://masterliveaboards.com/san-francisco-maru-wreck-truk/). Last updated 2026-07-26.*

@@ -34,7 +34,7 @@ The stern section rests upright on the lagoon floor at approximately 62--64 mete
 
 ## Marine Life
 
-After more than eight decades on the lagoon floor, the Aikoku Maru has developed substantial coral colonization across its exposed surfaces. The superstructure and gun mounts support hard and soft coral growth, sea fans, and encrusting sponges. Schools of fusiliers and jacks are commonly seen around the wreck profile. Glassy sweepers occupy the darker interior spaces, and lionfish hunt along railings and overhangs. Reef sharks are occasionally sighted in the surrounding waters.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Aikoku Maru. Chuuk Lagoon's regional reef fauna -- fish species, sharks, and turtles reported across the lagoon's wrecks generally, along with coral growth typical of a wreck submerged for eight decades -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The Aikoku Maru is a war grave containing the remains of hundreds of crew member
 The stern gun at 48 meters and the twin anti-aircraft mounts offer dramatic military hardware subjects for wide-angle photography, though the depth limits available light and bottom time for composition. The funnel area at 27 meters provides more accessible wide-angle opportunities with better ambient light. The contrast between the intact stern and the destroyed forward section tells a powerful visual story. Strobes are essential at depth to restore color.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Aikoku Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=222), [Wikipedia - Aikoku Maru (1940)](https://en.wikipedia.org/wiki/Aikoku_Maru_(1940)), [Dive3D - Aikoku Maru](https://dive3d.eu/models/chuuk-lagoon-truk/aikoku-maru/), [DivePlanIt - Aikoku Maru](https://www.diveplanit.com/truk/aikoku-maru-chuuk-wreck/). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving - Aikoku Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=222), [Wikipedia - Aikoku Maru (1940)](https://en.wikipedia.org/wiki/Aikoku_Maru_(1940)), [Dive3D - Aikoku Maru](https://dive3d.eu/models/chuuk-lagoon-truk/aikoku-maru/), [DivePlanIt - Aikoku Maru](https://www.diveplanit.com/truk/aikoku-maru-chuuk-wreck/). Last updated 2026-07-26.*

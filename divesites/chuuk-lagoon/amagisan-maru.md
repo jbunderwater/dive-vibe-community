@@ -34,7 +34,7 @@ The holds contain a remarkable variety of wartime cargo. Hundreds of 200-litre d
 
 ## Marine Life
 
-The Amagisan Maru's exposed surfaces support coral growth typical of Chuuk's deeper wrecks, with hard corals, sea fans, and encrusting sponges colonizing the hull and superstructure. Schools of fusiliers and jacks patrol the surrounding water column. Glassy sweepers congregate in the shadowed interior spaces of the holds. Lionfish and scorpionfish occupy overhangs and recesses along the hull.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Amagisan Maru. Chuuk Lagoon's regional reef fauna -- fish species, sharks, and turtles reported across the lagoon's wrecks generally, along with coral growth typical of a wreck submerged for eight decades -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The Amagisan Maru is a war grave -- removing any artifacts is strictly illegal u
 The exceptional visibility on the Amagisan Maru (30-40 meters) combined with the dramatic 45-50 degree list creates striking compositional opportunities. Wide-angle shots capturing the full angle of the wreck against blue water are particularly effective. The aircraft parts in the holds -- wings, propeller blades -- make compelling subjects with proper lighting. The depth limits ambient light considerably, so powerful strobes are essential to restore color and detail.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Amagisan Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=223), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/), [Dirty Dozen Expeditions - Truk Lagoon Wrecks below 40m](https://thedirtydozenexpeditions.com/truk-lagoon-wrecks). Tonnage, builder, and exact sinking date not confirmed to 2-source standard; description based on confirmed diving characteristics from 3+ sources. Last updated 2026-06-16.*
+*Sources: [Michael McFadyen's Scuba Diving - Amagisan Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=223), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/), [Dirty Dozen Expeditions - Truk Lagoon Wrecks below 40m](https://thedirtydozenexpeditions.com/truk-lagoon-wrecks). Tonnage, builder, and exact sinking date not confirmed to 2-source standard; description based on confirmed diving characteristics from 3+ sources. Last updated 2026-07-26.*

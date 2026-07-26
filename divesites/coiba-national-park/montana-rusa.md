@@ -19,7 +19,7 @@ Montana Rusa (literally "Russian Mountain" in Spanish) is a deep oceanic pinnacl
 
 Montana Rusa faces both south and north, with the west side fully exposed to open Pacific swells and swell-driven surge. PADI's database confirms coordinates at 7.90661, -81.81673 (Gulf of Chiriquí) and depth from 14 meters (shallowest) to 42 meters (maximum). Panama Dive Center describes currents here as potentially very difficult; the site's name reflects the roller-coaster sensation divers experience as currents change direction and speed with depth. (Note: "Montana Rusa" is a common Spanish phrase for roller coaster, literally translating as "Russian Mountain" — a reference to the historical Russian sledding hills that gave rise to the roller coaster.)
 
-The site features pinnacle and canyon topography: divers descend to the reef top and navigate rock formations, crevices, and ridges where large schooling fish and multiple shark species concentrate. It is one of the few Coiba sites where hammerhead sharks are regularly encountered — typically in schools, particularly during the April–July hammerhead migration season through the Eastern Tropical Pacific. ScubaBoard trip reports confirm hammerhead sightings at Contreras-area sites including in September 2024.
+The site features pinnacle and canyon topography: divers descend to the reef top and navigate rock formations, crevices, and ridges where large schooling fish and multiple shark species concentrate. It is one of the few Coiba sites where hammerhead sharks are regularly encountered — typically in schools, though not on every dive. Sources disagree on the precise hammerhead season for Coiba's Contreras Islands: Panama Dive Center's Contreras page states March–April, other operator pages cite April–May or April–July, and The Ark Divers cites a broader June–November window tied to the wider Eastern Tropical Pacific migration. No single window is consistently agreed upon across sources, so this page does not assert one. A January 2025 ScubaBoard trip report from this area explicitly notes hammerheads did *not* appear on that particular visit ("hammerheads didn't show up"), underscoring that sightings are never guaranteed.
 
 Montana Rusa is accessible primarily via multi-day liveaboard or dedicated multi-day charter from Santa Catalina. It is in the Contreras archipelago — a longer journey than the Canales sites.
 
@@ -34,13 +34,13 @@ Montana Rusa is accessible primarily via multi-day liveaboard or dedicated multi
 - **Typical Visibility**: 15–25 meters
 - **Current**: Strong to severe; direction and speed can change at depth
 - **Water Temperature**: 24–28°C
-- **Best Time**: December–April (dry season); hammerheads April–July
+- **Best Time**: December–April (dry season) for general conditions; hammerhead timing is disputed across sources (see Overview) — no single confirmed window
 
 ## Marine Life
 
-Panama Dive Center and PADI confirm the following species at this site: hammerhead sharks, bull sharks, whitetip reef sharks, giant manta rays, large schools of bigeye trevally (big-eyed jacks), Mexican barracuda, Pacific dog snappers, bluefin trevallies, longtail stingrays. Groupers and snappers are found in the deeper crevice sections. Baitball feeding activity has been reported. One ScubaBoard trip report (January 2026) noted white-tip reef sharks in schools at Contreras sites in the same diving area.
+Panama Dive Center and PADI confirm the following species at this site: hammerhead sharks, bull sharks, whitetip sharks, giant manta rays, large schools of bigeye trevally (big-eyed jacks), Mexican barracuda, Pacific dog snappers, bluefin trevallies, longtail stingrays. PADI additionally lists groupers, snappers, sea turtles (including hawksbill), toadfish, gorgonian and hard corals, and — notably — humpback whales and dolphins as sightings at this site. Baitball feeding activity has been reported.
 
-Hammerhead sharks are seasonal (April–July peak migration, with documented sightings outside that window). They are not guaranteed on every dive; operators run specialized trips during peak season.
+**Correction (2026-07-26 re-audit):** a previous version of this page cited "a ScubaBoard trip report (January 2026)" reporting "white-tip reef sharks in schools" and separately claimed hammerhead sightings "in September 2024." On re-fetching the cited ScubaBoard thread directly, it was posted **January 14, 2025** (not 2026), and the report describes encountering "a couple of big white strip sharks" at Contreras — not organized schools — and explicitly states hammerheads did not appear on that trip. No source could be found to confirm a September 2024 hammerhead sighting at Contreras; that claim has been removed as unverifiable. Hammerheads remain seasonal and not guaranteed on any given dive; operators run specialized trips aimed at the (disputed) peak window discussed above.
 
 ## Dive Profile
 
@@ -68,9 +68,9 @@ Currents can be severe and change direction unexpectedly at depth. Deep profiles
 
 December–April: Dry season creates consistent currents and plankton upwelling. Coolest deep water (24°C). Best for mantas and bull sharks.
 
-April–July: Hammerhead migration peak. Primary hammerhead season across the Eastern Tropical Pacific including Coiba.
+Hammerhead season: sources conflict. Panama Dive Center's Contreras page states March–April; other operator pages cite April–May or April–July; The Ark Divers cites June–November as the peak Eastern Tropical Pacific migration window. Divers should not plan a trip around a specific hammerhead window without checking current conditions with an operator — a January 2025 trip report from this exact area recorded no hammerhead sightings at all.
 
-May–November: Generally easier conditions, warmer water, but hammerheads less predictable outside peak season.
+May–November: Generally easier conditions, warmer water.
 
 ---
-*Sources: [PADI - Montaña Rusa Dive Site](https://www.padi.com/dive-site/panama/montana-rusa-dive-base-coiba/), [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama), [ScubaBoard - January 2026 Coiba Trip](https://scubaboard.com/community/threads/diving-in-panama-at-coiba-island-in-january-with-panama-dive-center.654201/). Last updated 2026-06-25.*
+*Sources: [PADI - Montaña Rusa Dive Site](https://www.padi.com/dive-site/panama/montana-rusa-dive-base-coiba/), [Panama Dive Center - Coiba Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/), [Panama Dive Center - Contreras](https://panamadivecenter.com/contreras/), [DiveMasterAustin - Coiba 9 Dives](https://divemasteraustin.com/destinations/coiba-panama), [ScubaBoard - Diving in Panama at Coiba Island in January with Panama Dive Center](https://scubaboard.com/community/threads/diving-in-panama-at-coiba-island-in-january-with-panama-dive-center.654201/) (posted January 14, 2025), [The Ark Divers - Hammerhead Migration](https://www.thearkdivers.com/post/uncovering-the-mysteries-of-hammerhead-shark-migration-navigating-the-eastern-tropical-pacific-mari). Last updated 2026-07-26. (2026-07-26 re-audit: corrected ScubaBoard thread date from "2026" to its actual 2025 posting date, removed unconfirmed "September 2024" hammerhead claim, corrected "schools" of white-tips to the source's actual "a couple" of sharks, and replaced the single April–July hammerhead-season assertion with an explicit note on conflicting source windows.)*

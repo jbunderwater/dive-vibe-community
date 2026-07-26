@@ -34,7 +34,7 @@ Known universally as the "Bulldozer Wreck," the Hoki Maru is famous for the extr
 
 ## Marine Life
 
-The Hoki Maru's upright position and large deck area support extensive coral colonization. The superstructure, masts, and king posts are covered in hard and soft corals and sea fans. Schools of fusiliers and jacks patrol the mid-water around the wreck profile. Glassy sweepers fill the darker interior spaces of the holds, shimmering in torch beams. Lionfish and scorpionfish are found throughout the wreck in overhangs and shadowed areas. The surrounding sand supports garden eels and occasional stingrays.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Hoki Maru. Chuuk Lagoon's regional reef fauna -- fish species, sharks, and turtles reported across the lagoon's wrecks generally, along with coral growth typical of a wreck submerged for eight decades -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The Hoki Maru is a war grave -- removing any artifacts is strictly illegal under
 The Hoki Maru is one of Chuuk's most photogenic wrecks. The bulldozers, trucks, and aircraft engines in the holds are immediately recognizable subjects that tell a powerful historical story. The typically superb visibility (30+ meters) supports wide-angle compositions that capture the scale of both the wreck and its cargo. The bridge at 25 meters receives good ambient light for natural-light shots. Strobes bring out the colors of coral encrustation on the superstructure and the details of the military hardware in the holds. The variety of cargo means multiple dives can yield distinctly different photographic portfolios.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Hoki Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=232), [Argunners - Hoki Maru](https://www.argunners.com/hoki-maru-wreck-in-truk-lagoon/), [truk-lagoon.com - Hoki History](https://www.truk-lagoon.com/Hoki_History.html), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving - Hoki Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=232), [Argunners - Hoki Maru](https://www.argunners.com/hoki-maru-wreck-in-truk-lagoon/), [truk-lagoon.com - Hoki History](https://www.truk-lagoon.com/Hoki_History.html), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m). Last updated 2026-07-26.*

@@ -34,7 +34,7 @@ As one of the less frequently dived wrecks in Chuuk, the Fujisan Maru offers an 
 
 ## Marine Life
 
-The Fujisan Maru's superstructure and hull support coral growth, sea fans, and encrusting sponges. The infrequent diver traffic means marine life is less habituated to humans compared to popular wrecks. Schools of fusiliers and jacks are present in the water column around the wreck. Glassy sweepers occupy interior spaces, and lionfish hunt along overhangs and in shadowed recesses.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Fujisan Maru. Chuuk Lagoon's regional reef fauna -- fish species, sharks, and turtles reported across the lagoon's wrecks generally, along with coral growth typical of a wreck submerged for eight decades -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The Fujisan Maru is a war grave -- removing any artifacts is strictly illegal un
 The Fujisan Maru's greatest photographic asset is its exceptional visibility. With 30+ meters of water clarity, wide-angle shots can capture substantial portions of the wreck in a single frame -- a rarity at this depth in many dive destinations. The bridge structure at 38 meters provides the most accessible and compositionally interesting subject. Powerful strobes are essential to restore color at depth, where ambient light is significantly reduced. The lack of other dive groups means clean compositions without stray bubbles or divers in the background.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Fujisan Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=823), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/), [Dirty Dozen Expeditions - Truk Lagoon Wrecks below 40m](https://thedirtydozenexpeditions.com/truk-lagoon-wrecks). Exact tonnage, sinking date, and 1976 Air Micronesia discovery story not confirmed to 2-source standard; description based on confirmed diving characteristics. Last updated 2026-06-16.*
+*Sources: [Michael McFadyen's Scuba Diving - Fujisan Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=823), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/), [Dirty Dozen Expeditions - Truk Lagoon Wrecks below 40m](https://thedirtydozenexpeditions.com/truk-lagoon-wrecks). Exact tonnage, sinking date, and 1976 Air Micronesia discovery story not confirmed to 2-source standard; description based on confirmed diving characteristics. Last updated 2026-07-26.*
