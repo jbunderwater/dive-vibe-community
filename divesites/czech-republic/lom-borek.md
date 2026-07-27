@@ -55,4 +55,4 @@ From Golčův Jeníkov toward Chotěboř, take a right turn before the village o
 - On-site facilities make this a convenient base for a full day of diving
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=132), [DiveSSI - Lom Borek](https://www.divessi.com/en/mydiveguide/divesite/lom-borek-czech-republic-235735), [DiveChamp - Lom Borek](https://divechamp.com/divesite/lom-borek). Last updated 2026-05-23.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=132), [DiveSSI - Lom Borek](https://www.divessi.com/en/mydiveguide/divesite/lom-borek-czech-republic-235735), [DiveChamp - Lom Borek](https://divechamp.com/divesite/lom-borek), [Deník.cz - Potápění v lomu Borek](https://www.denik.cz/cestovani/potapeni-v-lomu-borek-je-neobycejnym-zazitkem-20190903.html), [Poznatsvět.cz - Lom Borek](https://www.poznatsvet.cz/cestovani/lom-borek/). Last updated 2026-07-27.*

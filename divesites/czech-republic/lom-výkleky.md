@@ -36,7 +36,7 @@ Sunken attractions include a Škoda 1203 van wreck, a caisson, a bicycle, a cara
 
 ## Marine Life
 
-Freshwater fish and invertebrates. The site is notable for seasonal freshwater jellyfish (Craspedacusta sowerbii) — tiny, translucent creatures that appear in late summer when water temperatures are warm enough.
+Freshwater fish and invertebrates. The site is notable for seasonal freshwater jellyfish, confirmed by Czech science journalists (Ekolist.cz, Olomoucký deník) as the species Craspedacusta sowerbii — originally native to southeast Asia and now naturalized in many parts of the world. They form visible populations when the quarry's water temperature stays above roughly 20°C for a sustained period, growing up to about 3 cm across. Their stinging cells cannot penetrate human skin, so they pose no hazard to divers.
 
 ## Dive Profile
 
@@ -50,4 +50,4 @@ A straightforward shallow dive. Enter from shore and explore the scattered attra
 - A dry suit is recommended outside of summer months
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/), [DiveSSI - Lom Výkleky](https://www.divessi.com/en/mydiveguide/divesite/lom-vykleky-czech-republic-170498), [Sea Horse Diving](https://seahorsediving.cz/lom-vykleky/). Last updated 2026-05-23.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/), [DiveSSI - Lom Výkleky](https://www.divessi.com/en/mydiveguide/divesite/lom-vykleky-czech-republic-170498), [Sea Horse Diving](https://seahorsediving.cz/lom-vykleky/), [Ekolist.cz - Lom ve Výklekách zaplavily sladkovodní medúzy](https://ekolist.cz/cz/zpravodajstvi/zpravy/lom-ve-vyklekach-zaplavily-sladkovodni-meduzy-vyskytu-pomohlo-i-teple-pocasi). Last updated 2026-07-27.*
