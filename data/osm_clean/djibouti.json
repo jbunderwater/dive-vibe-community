@@ -19,7 +19,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive-the-world.com,scubatravel.co.uk,atlasandboots.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -46,7 +46,7 @@
       "wikidata": "Q23723098",
       "validated": "true",
       "validation_source": "dive-the-world.com,thescubanews.com,atlasandboots.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -75,7 +75,7 @@
       "wikipedia": "es:Isla Moucha",
       "validated": "true",
       "validation_source": "dive-the-world.com,atlasandboots.com,egyptiancruising.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -91,7 +91,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "dive-the-world.com,atlasandboots.com,scubatravel.co.uk",
-      "last_qa_date": "2026-05-24",
+      "last_qa_date": "2026-07-27",
       "qa_note": "Near-duplicate of Ile Moucha OSM entry. Retained as curated entry representing the shallow fringing reef around Moucha Island distinct from the island polygon."
     }
   },
@@ -108,7 +108,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "dive-the-world.com,thescubanews.com,atlasandboots.com",
-      "last_qa_date": "2026-05-24",
+      "last_qa_date": "2026-07-27",
       "qa_note": "Near-duplicate of Ile Maskali OSM entry. Retained as curated entry representing the dive sites around Maskali Island distinct from the administrative boundary polygon."
     }
   },
@@ -124,8 +124,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "dive-the-world.com,scubadiverlife.com,divezone.net",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "dive-the-world.com,scubadiverlife.com,divezone.net,wikipedia.org,naval-encyclopedia.com",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Deep re-audit 2026-07-27: Torricelli submarine cross-checked - confirmed Brin-class (72.47m, 1,000 long tons surfaced/1,245 submerged), scuttled 23 June 1940 near Perim after engagement with HMS Kandahar, HMS Khartoum, HMS Kingston and sloop HMS Shoreham (Wikipedia Brin-class submarine + naval-encyclopedia.com; markdown previously omitted Khartoum, now added). The commonly-repeated dive-tourism figure of '120m long' (dive-the-world.com, ZuBlu) conflicts with verified naval specs and is noted as likely erroneous. history.navy.mil unreachable (503) during this re-audit; retained in footer as previously-verified source, corroborated this pass via Wikipedia + naval-encyclopedia.com instead."
     }
   },
   {
@@ -141,7 +142,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "dive-the-world.com,scubatravel.co.uk,liveaboard.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -157,7 +158,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "dive-the-world.com,thescubanews.com,scubadiverlife.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -172,9 +173,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "lukasspieker.com,dive-the-world.com,atlasandboots.com",
-      "last_qa_date": "2026-05-24",
-      "qa_note": "Formerly named 'Le Grumier Wreck'. No source confirms a wreck named Le Grumier in Djibouti. The established wreck near Moucha Island is Le Faon (also known as MV Priamos / Orchard Reefer). Renamed accordingly. Length conflicts across sources (120m/126m/135m) - see markdown."
+      "validation_source": "lukasspieker.com,dive-the-world.com,atlasandboots.com,shippingtandy.com",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Formerly named 'Le Grumier Wreck'. No source confirms a wreck named Le Grumier in Djibouti. The established wreck near Moucha Island is Le Faon (also known as MV Priamos / Orchard Reefer). Renamed accordingly. Length conflicts across sources (120m/126m/135m); 126m corroborated by 2 independent sources (lukasspieker.com, shippingtandy.com Laeisz fleet history) - see markdown. Deep re-audit 2026-07-27: build year (1959) and shipyard (Howaldtswerke, Kiel) corroborated by 2 sources; gross tonnage (3,027 GT) reported by only 1 source (shippingtandy.com), flagged as unconfirmed. Sinking date/cause CONFLICT found: lukasspieker.com reports fire, 22 Nov 1974; atlasandboots.com reports explosion, 1975. Both retained as unresolved conflict in markdown per anti-hallucination policy - do not pick one."
     }
   },
   {
@@ -190,7 +191,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "dive-the-world.com,liveaboard.com,scubadiverlife.com",
-      "last_qa_date": "2026-05-24",
+      "last_qa_date": "2026-07-27",
       "qa_note": "site_type changed from 'wall' to 'reef'. The site is primarily known for the Djibouti Crack (8m tectonic fissure) and shallow reef features, not wall diving. Waters plunge to 200m but the dive sites are on shallow reef and geological features. Depth changed from 25m to 8m reflecting the Crack; the site has extreme depth variation (8m to 200m+)."
     }
   },
