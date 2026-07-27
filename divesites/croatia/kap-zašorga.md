@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Kap Zašorga
 
-Kap Zašorga is a rocky cape reef dive in the Dugi Otok area of the Zadar Archipelago in northern Dalmatia. Positioned very close to the similar Kap Tanki site, this cape offers reef diving along limestone rocky faces in the clear open water between Dugi Otok and the surrounding islets.
+Kap Zašorga's coordinates place it on Sv. Grgur island in the Kvarner Gulf near Rab, essentially co-located (within about 150 metres) with the confirmed Canyon and Kap Tanki/Sika Tanki dive sites on the same island — not in the Dugi Otok/Zadar Archipelago as an earlier version of this page claimed. That claim placed the site over 200 km from its actual coordinates and has been removed.
 
 ## Overview
 
-The reef at Zašorga descends over sloping rocky terrain to approximately 25 metres, with the cape structure creating interesting topography that includes crevices, overhangs, and open rocky faces. The substrate is encrusted with sponge communities, encrusting corals, and sea anemones. Posidonia seagrass occupies the shallower sandy patches. Visibility in the Zadar Archipelago is consistently excellent, often 15–20+ metres during the main diving season.
+Rab-based operator Kron Diving publishes a fairly complete list of the named dive sites on Sv. Grgur (Kosaca, Prst, Aquarium, Zuckerhut, Canyon, Sika Tanki), but "Zašorga" does not appear on it under that name, and no other source using this specific name was found. Given its location directly between the confirmed Canyon and Sika Tanki sites, it may be an alternate/local name for a feature of one of those sites, or a distinct nearby point not covered by the sources checked. Until a source names it directly, the underwater description is not verified and the site type, depth, and difficulty below are inherited from the original OSM import.
 
 ## Site Information
 
-- **Location**: Cape Zašorga, Dugi Otok area, Zadar Archipelago, Northern Dalmatia, Croatia
+- **Location**: Sv. Grgur island, Kvarner Gulf, near Rab, Croatia (between the confirmed Canyon and Sika Tanki sites)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Variable around the cape
-- **Best Time**: May to October
+- **Typical Visibility**: Not confirmed by any source
+- **Current**: Not confirmed by any source
+- **Best Time**: May to October (general Kvarner season)
 
 ## Marine Life
 
@@ -36,26 +36,24 @@ No site-specific marine life reports found. Regional Adriatic/Mediterranean faun
 
 ## Dive Profile
 
-Descend to the reef at 5–8 metres and follow the rocky slope down to 25 metres. Explore the cape structure methodically, checking crevices and under overhangs for resident species. The most productive marine life zone is typically 10–18 metres. Ascend slowly and complete a 3-minute safety stop at 5 metres.
+Not independently confirmed.
 
 ## Entry and Exit
 
-Dive boats from Zadar or Sali operators serve this site. Entry by giant stride or back roll. Deploy an SMB when ascending — the open Adriatic position requires clear surface signalling for boat pickup.
+Likely reached by boat from Rab to Sv. Grgur island, alongside the neighbouring Canyon and Sika Tanki sites, but no operator listing this exact name was found.
 
 ## Tips and Recommendations
 
-- Explore the Posidonia areas in the shallows for seahorses before or after the deeper section
-- A torch is useful for illuminating the crevice and overhang areas
-- Combine this site with Kap Tanki on the same day for a productive two-site dive programme in the area
-- The Zadar Archipelago is one of Croatia's most pristine diving areas — explore beyond the obvious sites
+- No site-specific tips available — this entry needs further research before it can be treated as verified
+- If diving this area, ask the Rab-based operator whether "Zašorga" is a local name for part of the Canyon or Sika Tanki site
 
 ## Safety Considerations
 
-Cape exposure can concentrate current — check conditions before entry. Standard intermediate dive parameters. Always carry an SMB and dive with a buddy.
+Standard recreational diving precautions apply. Dive within your certification level, carry an SMB, and dive with a buddy. Given the current reported at the neighbouring Sika Tanki site, confirm conditions with the operator before diving.
 
 ## Photography
 
-The clear Adriatic water of the Zadar Archipelago makes this an excellent wide-angle site. Rocky reef landscape, resident grouper, and the Posidonia meadows provide varied photographic subjects. The cape tip can be framed as a dramatic subject with deep blue water behind it.
+No site-specific photography notes available.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-07-27.*

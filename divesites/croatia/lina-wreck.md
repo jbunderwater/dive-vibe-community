@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Lina wreck
 
-The Lina is a 70-metre steel cargo steamer built in 1879 at the Andrew Leslie shipyard in Scotland. Originally named *Ville de Namour*, she carried 1,049 GRT and was powered by a triple expansion steam engine. On 14 January 1914, during thick fog, Captain Giuseppe Cicconardi lost course and the vessel struck the shore of Cres island near Cape Pecenj. Carrying over 700 tons of wooden cargo bound for Trieste, she sank close to the NW coast of Cres. She is considered the top wreck destination in the Kvarner bay.
+The Lina was a steel cargo steamer built in 1879 by A. Leslie & Co (Andrew Leslie shipyard) at Hebburn-on-Tyne, near Newcastle upon Tyne, England (not Scotland, as sometimes stated). She was launched as *Ville de Nemours*, later renamed *Nuevo Estremadura*, and finally *Lina* under owner Vincenzo Granata of Società Adriatica di Navigazione, Bari, Italy, under Captain Giuseppe Cicconardi. She carried 1,049 GRT and a beam of roughly 9 metres. **Sources disagree on her length**: krnica.com and an independent feet-to-metric conversion (218.6 ft ≈ 66.6 m) both point to approximately 70 metres, which is treated here as the best-supported figure, but Dive Center KRK cites 80 metres and Pro-Taucher cites roughly 90 metres — this variance is unresolved and may reflect rounding or confusion with another vessel. On 14 January 1914 (a small number of sources give 16–18 January), in poor weather — most sources describe dense fog, though one source describes a snow storm — the vessel struck the coast of Cres island near Cape Pecenj and sank while carrying a cargo of wood/timber. She is considered a top wreck destination in the Kvarner bay.
 
 ## Overview
 
-The Lina rests in an upright position close to the Cres shoreline, making her accessible in most weather conditions. The bow sits at approximately 25–27 metres and the stern descends to 52–55 metres. The wooden deck has long deteriorated, exposing the remaining cargo. The bow mast still stands, festooned with fishing nets. A classic tour of the wreck descends the starboard side toward the engine room and main bridge, then ascends the port side. The Kvarner's clear water provides visibility typically around 16 metres.
+The Lina rests in an upright position close to the Cres shoreline, making her accessible in most weather conditions. The bow sits at approximately 25–27 metres and the stern descends to 52–55 metres (sources vary slightly, from 25–52 m to 27–53 m). The wooden deck has long deteriorated, exposing the remaining cargo. The bow mast still stands, festooned with fishing nets, and an overturned funnel/chimney rests on the roof of the former captain's cabin — a distinctive identifying feature noted by local dive operators. A classic tour of the wreck descends the starboard side toward the engine room and main bridge, then ascends the port side. The Kvarner's clear water provides visibility typically around 16 metres.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Lina rests in an upright position close to the Cres shoreline, making her ac
 
 ## Marine Life
 
-Sources confirm: conger eels, lobsters, and schools of fish are resident, particularly concentrating around the standing bow mast. No further site-specific species claims made.
+Multiple dive operator sources confirm conger eels, lobsters, and schools of fish resident on the wreck, particularly concentrating around the standing bow mast. No further site-specific species claims are made beyond these.
 
 ## Dive Profile
 
@@ -48,15 +48,15 @@ Dive boats from Krk or Cres operators serve this site. Shot line descent is stan
 - Primary and backup torches are essential — the interior is very dark
 - Plan gas turn pressures before descent — no margin for error at 50+ metres
 - A drysuit is advisable at depth even in summer; water below 30m can be 12–15°C
-- The bow mast with its fishing nets is the most photogenic feature; plan time there
+- The bow mast with its fishing nets and the overturned funnel near the captain's cabin are the most photogenic features; plan time there
 
 ## Safety Considerations
 
-This site pushes the boundary of recreational diving. Narcosis is a real concern at 50+ metres. Only Advanced divers with experience at depth should attempt the deeper sections. Always dive with a buddy and an experienced local guide. In-water decompression capability is advisable.
+This site pushes the boundary of recreational diving. Narcosis is a real concern at 50+ metres. Only Advanced divers with experience at depth should attempt the deeper sections. Penetration of enclosed sections requires proper wreck training and equipment — it is not inherently safe regardless of experience. Always dive with a buddy and an experienced local guide. In-water decompression capability is advisable for the deeper sections.
 
 ## Photography
 
-The standing bow mast draped in fishing nets makes a striking image in ambient blue light. Torch-lit shots of the engine room fittings and encrusted hull reward macro photographers at depth. The open cargo holds framed by deteriorated hull plating are distinctive.
+The standing bow mast draped in fishing nets makes a striking image in ambient blue light. Torch-lit shots of the engine room fittings, the overturned funnel, and the encrusted hull reward macro photographers at depth. The open cargo holds framed by deteriorated hull plating are distinctive.
 
 ---
-*Sources: [SS Lina – Krnica.com](https://krnica.com/web_pages.php?r=73&kat=Wrecks), [Dive Center KRK – Lina](https://www.dive-center-krk.com/dive-sites/), [Frontier Adriatic – Wreck Lina](https://www.frontieradriatic.com/liveabord-croatia-wreck-lina/). Last updated 2026-05-23.*
+*Sources: [SS Lina – Krnica.com](https://krnica.com/web_pages.php?r=73&kat=Wrecks), [Dive Center KRK – Lina](https://www.dive-center-krk.com/dive-sites/), [Frontier Adriatic – Wreck Lina](https://www.frontieradriatic.com/liveabord-croatia-wreck-lina/), [Pro-Taucher – Lina](https://www.pro-taucher.com/dive-sites/europe/croatia/cres/lina/), [Tauchclub Seeteufel – Lina/Insel Cres](https://www.tc-seeteufel.at/wracktauchen/wrackbeschreibungen/lina-insel-cres/). Last updated 2026-07-27.*

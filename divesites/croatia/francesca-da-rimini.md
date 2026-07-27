@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Francesca da Rimini
 
-The Francesca da Rimini is an Italian cargo warship built in 1942 in Rijeka, measuring 42 metres in length and 12 metres in beam, with a displacement of 281 tons. Originally Italian-owned, she was seized by the German Navy in 1943 and used to transport weapons for German forces. She sank in 1944 near Kaprije island in the Šibenik archipelago after being torpedoed by British Spitfires. The exact date is disputed: dive operator Tramonto Diving records the sinking as 22 March 1944; the OSM record states 24 January 1944. Both sources agree on the general circumstances.
+The Francesca da Rimini is an Italian cargo warship built in 1942 in Rijeka, measuring 42 metres in length and 12 metres in beam, with a displacement of 281 tons. Originally Italian-owned, she was seized by the German Navy in 1943 and used to transport weapons for German forces. She sank in 1944 near Kaprije island in the Šibenik archipelago after being torpedoed by British Spitfires. The exact date is disputed: dive operator Tramonto Diving records the sinking as 22 March 1944; the OSM record states 24 January 1944. This conflict was re-checked this pass by fetching Tramonto Diving's site directly, which continues to state 22 March 1944 — the discrepancy remains unresolved and both dates are presented here rather than picking one.
 
 ## Overview
 
@@ -59,4 +59,4 @@ The 50-metre maximum depth puts this firmly in Advanced territory. The presence 
 The canted hull and the upright mast rising toward the surface provide dramatic wide-angle subjects. The anti-aircraft gun at the stern is a compelling close-focus subject. The scattered munitions provide historically significant but sobering photographic context.
 
 ---
-*Sources: [Tramonto Diving – Francesca da Rimini](https://divetramonto.com/francesca-da-rimini-ww2/), [ScubaBoard – Franceska di Rimini in Croatia](https://scubaboard.com/community/threads/franceska-di-rimini-in-croatia.222463/), [DiVeSSI – Francesca di Rimini](https://www.divessi.com/en/mydiveguide/divesite/francesca-di-rimini-wreck-murter-chorvatsko-croatia-92023). Last updated 2026-05-23.*
+*Sources: [Tramonto Diving – Francesca da Rimini](https://divetramonto.com/francesca-da-rimini-ww2/), [ScubaBoard – Franceska di Rimini in Croatia](https://scubaboard.com/community/threads/franceska-di-rimini-in-croatia.222463/), [DiVeSSI – Francesca di Rimini](https://www.divessi.com/en/mydiveguide/divesite/francesca-di-rimini-wreck-murter-chorvatsko-croatia-92023). Last updated 2026-07-27.*

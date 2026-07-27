@@ -3,7 +3,7 @@ name: Canyon
 lat: 44.8698976
 lng: 14.7723539
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Canyon
 
-Canyon is a wall and canyon dive in the Cres/Lošinj area of the Kvarner archipelago in northern Croatia. The site features a dramatic geological formation where the seafloor drops away in a series of vertical faces and narrow channels, creating an impressive underwater landscape with varied depths.
+Canyon is a wall dive with a canyon feature on the north side of Sv. Grgur island in the Kvarner Gulf near Rab — not in the Cres/Lošinj area as an earlier version of this page claimed. That claim placed the site roughly 60-70 km from its actual coordinates and has been removed. Three independent sources confirm this site: Rab-based operators Kron Diving and Moby Dick Diving, and the ScubaGo/MyDiveGuide listing for "Canyon, Croatia."
 
 ## Overview
 
-The site consists of rocky wall faces, narrow canyon-like channels, and broken terrain dropping to around 25 metres. The walls and overhangs are encrusted with red and orange sponges, gorgonian fans, and hydroids, while the crevices and boulders create numerous micro-habitats. The clear Kvarner waters, with typical visibility of 15–20 metres, allow full appreciation of the dramatic topography.
+Kron Diving describes Canyon as an easily reached, sheltered site on the north side of Sv. Grgur, 15-20 minutes by boat from Rab, with a protected small bay for anchoring; the dive runs from about 5 to 40 metres, following a crevasse between two sponge-covered walls, and is rated suitable for both beginners and experienced divers. Moby Dick Diving, a separate Rab operator, lists it as "Sv. Grgur – Canyon," a beginner-level dive from 3 to 23 metres with nudibranchs and schools of fish. The two operators' depth ranges differ (Kron Diving describes the full wall to 40m; Moby Dick describes a shallower beginner-focused route to 23m), which likely reflects different dive plans on the same feature rather than a contradiction — divers can expect a shallower, easier route and a deeper wall option depending on the operator and group level.
 
 ## Site Information
 
-- **Location**: Cres/Lošinj area, Kvarner, Croatia
+- **Location**: North side of Sv. Grgur island, Kvarner Gulf, near Rab, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Light to moderate; check locally
-- **Best Time**: May to October
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: Not confirmed by any source
+- **Current**: Not specifically documented for this site
+- **Best Time**: May to October (general Kvarner season)
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+Kron Diving reports colourful sponges, anemones, various nudibranch species, conger eels, octopus, lobster/crayfish, and schools of reef fish and sea bream. Moby Dick Diving separately confirms nudibranchs and schools of fish at the site. These are the only site-specific marine life reports found.
 
 ## Dive Profile
 
-Begin at the shallow end of the canyon formation and work down the walls to the 25-metre maximum depth. Explore the narrow canyon sections by finning through carefully while maintaining distance from the walls. Work back up through the shallower sections and complete a 3-minute safety stop at 5 metres.
+Descend into the crevasse-like canyon between two sponge-draped walls. Less experienced groups typically work the shallower 3-23 metre range; more experienced divers can follow the wall down to around 40 metres. The canyon itself is used as a natural, sheltered spot for the safety stop on ascent.
 
 ## Entry and Exit
 
-Dive boats from Cres or Mali Lošinj operators access this site. Entry by giant stride or back roll. Deploy an SMB during ascent for boat pickup. Be aware of any current running through the canyon on the surface.
+Reached by boat from Rab (about 15-20 minutes) to a sheltered bay on the north side of Sv. Grgur, used for anchoring. Entry by giant stride or back roll.
 
 ## Tips and Recommendations
 
-- A torch is invaluable for illuminating the deep crevices and darker canyon sections
-- Excellent buoyancy control is essential in the narrow canyon passages
-- The red coral-encrusted overhangs are among the most photogenic aspects of the site
-- Combine with a second reef dive nearby for a full day programme
-- Bring a surface marker buoy — the canyon topography can take divers away from the descent point
+- Ask the operator which depth range they plan to run — this site supports both a shallow beginner route and a deeper wall for experienced divers
+- Watch for nudibranchs and conger eels in the crevasse walls
+- Combine with the neighbouring Kap Kosaca or Sika Tanki sites on the same island for a varied day from Rab
 
 ## Safety Considerations
 
-The canyon topography can be disorienting for less experienced divers — maintain awareness of depth and position at all times. Current can funnel through narrow sections. Always dive with a buddy and carry an SMB. The site is straightforward for intermediate divers with solid buoyancy skills.
+The sheltered bay makes entry and exit straightforward, but be aware of the depth difference between the shallow canyon route and the deeper wall — agree the dive plan and maximum depth with your guide beforehand. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The canyon walls draped with red and orange sponges make exceptional wide-angle subjects with a diver for scale. Deep crevice openings framed by colourful encrustation are classic compositions. Macro subjects on the sponge-covered walls reward close inspection.
+Sponge- and anemone-draped walls make good wide-angle subjects; nudibranchs and small crustaceans in the crevasse offer macro opportunities.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [Kron Diving – Canyon](https://kron-diving.com/canyon/), [Moby Dick Diving – Locations (Sv. Grgur – Canyon)](https://mobydick-diving.com/en/locations/), [ScubaGo/MyDiveGuide – Canyon, Croatia](https://www.divessi.com/en/mydiveguide/divesite/canyon-croatia-6755). Last updated 2026-07-27.*

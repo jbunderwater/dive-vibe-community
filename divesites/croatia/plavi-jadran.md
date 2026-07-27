@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Plavi Jadran
 
-The Plavi Jadran ("Blue Adriatic") is a 30-metre cargo vessel that sank on 31 January 2018 after a collision with the Jadrolinija ferry *Tijat* near Prvić island in central Dalmatia. A large crack opened in the forward cargo hold; both crew members — the captain/owner and a sailor — survived, one rescued by a bystander and the other swimming to shore. The vessel sank within minutes and now rests at 20–22 metres depth, approximately 100 metres from the shore of Prvić island.
+The Plavi Jadran ("Blue Adriatic") is a cargo vessel, approximately 30 metres long, that sank on 31 January 2018 at 18:19 local time in the Prvić Channel near Prvić island in central Dalmatia. Croatia's official Agency for Investigation of Accidents (AIN) confirms the passenger ferry *Tijat* struck the port side of Plavi Jadran with its bow, approximately 2.5 metres forward of the load line mark; no injuries or fatalities were recorded among crew or passengers on either vessel, and no fuel/oil pollution was observed. The vessel sank within minutes; the AIN report gives a resting depth of 19 metres, while dive-operator sources (Tramonto Diving, PADI) consistently cite 20–22 metres — this is likely a difference in reference point (e.g. keel vs. accessible deck) rather than a true conflict, but is noted here since it is unresolved. One secondary source lists a 1952 build year for the vessel; this has not been corroborated by a second independent source and is not treated as confirmed.
 
 ## Overview
 
-The Plavi Jadran sits upright on the seabed, its relatively recent sinking (2018) meaning the hull remains structurally intact and easy to navigate. The wreck is accessible to beginner divers and is positioned close enough to the island that boat travel to the site is brief. Colonisation by marine organisms is ongoing — the hull is progressively accumulating encrusting life year by year. Visibility in this area of the central Dalmatian coast is typically 15–20 metres.
+The Plavi Jadran sits upright on the seabed, its relatively recent sinking (2018) meaning the hull remains structurally intact and easy to navigate. The wreck is accessible to beginner divers and is positioned close enough to the island that boat travel to the site is brief. Colonisation by marine organisms is ongoing — the hull is progressively accumulating encrusting life year by year. Tramonto Diving (which operates out of nearby Tisno) confirms both crew members survived: the captain/owner was rescued by a bystander and his sons, while the second crew member swam to shore where locals assisted him. Visibility in this area of the central Dalmatian coast is typically 15–20 metres.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Plavi Jadran sits upright on the seabed, its relatively recent sinking (2018
 
 ## Marine Life
 
-As a recently sunk wreck, the Plavi Jadran is still in the early stages of becoming an artificial reef habitat. No specific marine life surveys have been confirmed for this site. Regional central Dalmatian fauna is expected to colonise progressively.
+As a recently sunk wreck, the Plavi Jadran is still in the early stages of becoming an artificial reef habitat. No specific marine life surveys have been confirmed for this site, and none is asserted here. Regional central Dalmatian fauna is expected to colonise progressively.
 
 ## Dive Profile
 
@@ -52,11 +52,11 @@ Dive boats from Šibenik operators serve this site. Entry by giant stride or bac
 
 ## Safety Considerations
 
-This is one of Croatia's most beginner-friendly wreck dives. Depth is well within Open Water limits. The main requirement is basic buoyancy control to avoid silt disturbance. Always carry an SMB and dive with a buddy.
+This is one of Croatia's most beginner-friendly wreck dives. Depth is well within Open Water limits. The main requirement is basic buoyancy control to avoid silt disturbance. Any interior exploration beyond simple openings should still follow wreck-diving best practice — always carry an SMB and dive with a buddy.
 
 ## Photography
 
 The intact, relatively clean hull of a recent wreck provides clear photographic subjects with good ambient light penetration at this depth. Wide-angle shots of the full vessel silhouette in good visibility are achievable. As the wreck matures, encrusting subjects will become increasingly rewarding.
 
 ---
-*Sources: [Tramonto Diving – Ship Wreck Plavi Jadran](https://divetramonto.com/ship-wreck-plavi-jadran/), [PADI – Plavi Jadran dive site](https://www.padi.com/dive-site/croatia/plavi-jadran/), [Wrecked Ships Wiki – Plavi Jadran](https://wrecked-ships.fandom.com/wiki/Plavi_Jadran). Last updated 2026-05-23.*
+*Sources: [Tramonto Diving – Ship Wreck Plavi Jadran](https://divetramonto.com/ship-wreck-plavi-jadran/), [PADI – Plavi Jadran dive site](https://www.padi.com/dive-site/croatia/plavi-jadran/), [AIN — Official Accident Investigation Report](https://ain.hr/en/investigations/collision-between-passenger-ship-tijat-and-cargo-ship-plavi-jadran-prvic-channel-jan-31-2018/). Last updated 2026-07-27.*

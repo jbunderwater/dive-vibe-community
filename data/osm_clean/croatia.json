@@ -20,8 +20,9 @@
       "tourism": "attraction",
       "type": "wreck",
       "validated": "true",
-      "validation_source": "krnica.com,dive-center-krk.com,frontieradriatic.com",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "krnica.com,dive-center-krk.com,pro-taucher.com,tc-seeteufel.at,frontieradriatic.com",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit (further refined by concurrent pass): builder corrected to Hebburn-on-Tyne, England (not Scotland). Name chain: Ville de Nemours -> Nuevo Estremadura -> Lina, owner Vincenzo Granata/Societa Adriatica di Navigazione, Bari. Length conflict widened across 3 source clusters: ~70m (krnica.com + ft-to-m conversion) treated as best-supported, vs 80m (Dive Center KRK) vs ~90m (Pro-Taucher) - stated as unresolved. Sinking date: 14 Jan 1914 primary, minor sources say 16-18 Jan. Weather: fog (most sources) vs snow storm (one source), both noted."
     }
   },
   {
@@ -49,7 +50,8 @@
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
       "validation_source": "en.wikipedia.org,rovinj-sub.hr,total-croatia-news.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit (further refined by a second pass): length conflict Wikipedia 84.55m vs other dive-tourism sources 85-89m, flagged as range. Tonnage 2069 GRT / 861 NRT, beam 11.64m per Wikipedia. Sinking date conflict 13 Aug (Wikipedia, Rovinj Sub) vs 12 Aug (Total Croatia News) flagged. Casualty count conflict: 127 (Wikipedia/most sources) vs 147 w/159 survivors (Total Croatia News) vs secondary estimates to ~177 - range stated as unresolved rather than picking one figure. Builder confirmed: Gourlay Brothers, Dundee, launched 3 May 1908. Markdown explicitly states penetration is never safe regardless of experience."
     }
   },
   {
@@ -82,8 +84,8 @@
       "source": "US NGA Pub. 113. 2010-10-22.",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources for this obscure site. Reverted to unvalidated pending proper research."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Confirmed via sea-seek.com as a real charted rock/shoal (Plicina Sajda) ~1NM NNE of Rt Rivanj, Zadar area, marked by a lit isolated-danger beacon (matches existing seamark tags), least charted depth 4.5m. Only 1 independent domain found; no dive-operator/forum source describes it as an active recreational dive site with depth/difficulty/entry specifics. Remains unvalidated."
     }
   },
   {
@@ -92,17 +94,19 @@
     "lon": 14.9911833,
     "osm_id": 663869718,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 13,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Brbišćica",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated. Confirmed as a real, actively-dived bay on west Dugi Otok next to Golubinka sea cave and Zmajevo oko. Depth corrected from 25m placeholder to ~6-13m shallow bay dive. Visibility/current not confirmed by any source, left unstated rather than guessed.",
+      "validation_source": "kornati-diving.com,dugiotok.hr,visit-croatia.hr"
+    },
+    "minDepth": 6
   },
   {
     "name": "Golac",
@@ -118,8 +122,8 @@
       "name": "Golac",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "No dive-operator, database, or forum source found describing a dive site named Golac near these coordinates. Remains unvalidated; markdown left untouched (no findings to add)."
     }
   },
   {
@@ -138,9 +142,10 @@
       "name": "Wreck Tihany",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Depth corrected to 35m (sources: underwaterphotography.com). Location is near Unije/Skoljic island (Lošinj area), NOT Pag island as previous markdown stated. Difficulty upgraded to Advanced (35m, recommended for advanced divers per source). Previous source=perplexity insufficient for validation. Cannot confirm 3 independent sources for this specific wreck."
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated with 3 independent sources. IMPORTANT: Adriadiving.com states the 60m/1917/Skoljic-Unije wreck is actually named Etnea, and that Tihany is a separate twin-ship wreck located in Montenegro - the two are commonly confused. Markdown now explicitly flags this identity conflict rather than asserting either name as definitive. Depth and location (60m length, ~35m depth, foot of Skoljic rock at Unije) consistently confirmed across sources. Sinking date also conflicted (Feb 12 1917 per 2 sources vs 1912 per another) - noted in markdown.",
+      "validation_source": "underwaterphotography.com,scubaspace.club,adriadiving.com"
     }
   },
   {
@@ -149,17 +154,19 @@
     "lon": 14.30885,
     "osm_id": 663869723,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Margarina (Sanddüne)",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=web_research. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated. Location: southern tip of Susak island (Kvarner). Corrected from reef to wall (terraced wall/canyons to 40m); Sanddüne refers to above-water sand-cliff topography, not underwater sand bottom. Difficulty upgraded to Advanced. Roman-era archaeological material (tegulae, stone pillars) reported at two depth zones - no ship name/date/tonnage claimed since none documented. Marine life (tuna, amberjack, octopus) confirmed site-specific.",
+      "validation_source": "reiseinfo-kroatien.com,adriadiving.com,otok-susak.org"
+    },
+    "minDepth": 5
   },
   {
     "name": "Krivica",
@@ -167,16 +174,17 @@
     "lon": 14.4916167,
     "osm_id": 663869724,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Krivica",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated. Confirmed as Uvala Krivica, a real bay/dive site on south Lošinj (Kvarner), not Pag/Zadar as previously written. Sources conflict on depth (30m vs 35m) and visibility (10-25m vs 5-10m), flagged explicitly in markdown.",
+      "validation_source": "divescover.com,scubasnap.app,tripadvisor.com"
     }
   },
   {
@@ -185,17 +193,19 @@
     "lon": 14.6365833,
     "osm_id": 663869725,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Katedrala",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated. Location corrected: off Premuda island, Zadar archipelago (not previously specified location). Cave type confirmed (large cupola chamber, light-filtering ceiling). Depth corrected 25->30m; difficulty upgraded Intermediate->Advanced given cave environment. Marine life (octopus, crabs, rainbow wrasse, mullet, bream) confirmed site-specific by dive operators.",
+      "validation_source": "scuba-diving-croatia.com,adriadiving.com,premuda-diving.com"
+    },
+    "minDepth": 10
   },
   {
     "name": "Zabodaski",
@@ -203,17 +213,19 @@
     "lon": 14.3989167,
     "osm_id": 663869726,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 42,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Zabodaski",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated. Confirmed as islet in Lošinj archipelago (Kvarner), not Pag as previously written. Two profiles: shallow twin-reef anchorage (4-22m beginner) and near-vertical west wall to ~42m (advanced) - wall set as primary type. Marine life (moray, dusky grouper, red mullet, lobster) confirmed by subseason.com.",
+      "validation_source": "subseason.com,scubago.com,checkyeti.com"
+    },
+    "minDepth": 4
   },
   {
     "name": "Medova Buža",
@@ -230,9 +242,10 @@
       "natural": "cave_entrance",
       "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=web_research. Cannot confirm 3 independent sources for this site. Reverted to unvalidated."
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated with academic speleodiving survey (Academia.edu) as primary source plus 2 operator/tourism sources. Location: near Lopar/Supetarska Draga, Rab island. Cave confirmed 3 connected passages, ~107m total length per survey; sea depth max ~4m but cave volume partly air-filled. Difficulty kept Beginner for depth but markdown notes cave/cavern training required for overhead sections.",
+      "validation_source": "academia.edu,mirkodivingcenter.com,evendo.com"
     }
   },
   {
@@ -249,8 +262,8 @@
       "name": "Misnjak (Sanddüne)",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Could not validate. OSM coordinates do not match the real Mišnjak (Rab ferry terminal, ~40km east). Rab dive operator Kron Diving's ~20-site list does not include a Misnjak or sand-dune site. Previous confident \"Cape Misnjak, southern Rab\" narrative was unsourced and has been removed from markdown rather than repeated."
     }
   },
   {
@@ -259,17 +272,19 @@
     "lon": 14.4928667,
     "osm_id": 663869730,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Cutin",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated. Cutin = Veli & Mali Cutin islets between Cres and Rab. Corrected from reef to wall/gorge terrain per Kron Diving (Rab), reaching 40m with red/yellow gorgonian fans from 28-38m. Difficulty upgraded to Advanced for the signature deep sections. Marine life (dentex, tuna, conger, octopus, lobster, cat shark egg cases, nudibranchs) confirmed site-specific by Kron Diving.",
+      "validation_source": "kron-diving.com,mirkodivingcenter.com,croatiatraveller.com"
+    },
+    "minDepth": 8
   },
   {
     "name": "Kap Selzine",
@@ -286,7 +301,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive-center-krk.com,dive-loft-krk.com,padi.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-confirmed with fresh fetches of all 3 sources. Depth conflict flagged in markdown: dive shops say wall to 40m, PADI lists max ~56m, cliff continues past 100m. Marine life list expanded with PADI-only species, attributed to that source."
     }
   },
   {
@@ -303,8 +319,8 @@
       "name": "Miracine",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "No dive-operator, database, or forum source found describing a dive site named Miracine at these coordinates despite targeted Krk/Cres searches. Remains unvalidated."
     }
   },
   {
@@ -321,8 +337,8 @@
       "name": "Zeca",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Zeca (Zeča) confirmed as a real uninhabited islet west of Cres via Wikipedia, but no dive-specific source (depth/type/marine life) was found for a dive site there. Remains unvalidated (island existence confirmed, dive-site specifics not)."
     }
   },
   {
@@ -339,8 +355,8 @@
       "name": "Galijola",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Multiple same-named Croatian dive sites exist (Galijola/Galiola/Galijula near Istria/Pula, near Cres, and near Lastovo/Montenegro) and none could be confidently matched to these exact coordinates. Remains unvalidated rather than guessing which Galijola this is."
     }
   },
   {
@@ -357,8 +373,8 @@
       "name": "Fels Merag",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "No dive-operator, database, or forum source found describing a dive site named Fels Merag at these coordinates (near the Cres-Krk Merag ferry crossing) despite targeted searches. Remains unvalidated."
     }
   },
   {
@@ -367,17 +383,18 @@
     "lon": 14.7493167,
     "osm_id": 663869737,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Kap Kosaca",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Location corrected: Sv. Grgur island near Rab, not Dugi Otok/Zadar (200km off, removed). Two sources (Kron Diving, ScubaGo/MyDiveGuide Rt Kosača) agree: wall dive on terraces, 5-30m, beginner-accessible. Only 2 distinct domains found - remains unvalidated pending a 3rd source."
+    },
+    "minDepth": 5
   },
   {
     "name": "Mali Plavnik",
@@ -393,9 +410,9 @@
       "name": "Mali Plavnik",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-center-krk.com,dive-loft-krk.com,luxurylivingcroatia.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Site type corrected from reef to wall — dive center sources confirm this is an underwater mountain/tower formation with 40m+ drops. Difficulty upgraded to Advanced."
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,mare-vrbnik.com",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "CORRECTION: prior source luxurylivingcroatia.com does not actually mention Mali Plavnik - citation error from prior pass, replaced with mare-vrbnik.com which independently corroborates wall/pinnacle terrain to 45m with red gorgonians. Monkfish/cave-at-18m claim re-confirmed by 2 domains."
     }
   },
   {
@@ -413,8 +430,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive-center-krk.com,dive-loft-krk.com,mare-vrbnik.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Confirmed as wooden sailing ship with cannons ('Guns of Plavnik') near Plavnik island. Depth corrected to 40m (sources list 21-40m range). Difficulty upgraded to Advanced."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-confirmed cannons (~14) and location north of Mali Plavnik via mare-vrbnik.com. REMOVED unverified 1524 pirate-legend narrative - no source corroborates it. Napoleonic-era dating now explicitly labeled dive-shop speculation, not fact."
     }
   },
   {
@@ -433,8 +450,8 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. No specific site sources found during QA. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Wannadive.net (1 source, page not fully retrievable) confirms Uvala Mrzlanovica as a named dive spot in the Kvarnerić/Pag Channel area near Rab. No wreck history (name/date/cause) found anywhere - previous version's narrative was unconfirmed and has been removed. Remains unvalidated (1 weak source only)."
     }
   },
   {
@@ -443,17 +460,18 @@
     "lon": 14.7806167,
     "osm_id": 663869741,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Tanki",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Location corrected: Sv. Grgur island near Rab (aka Sika Tanki), not Dugi Otok/Zadar (200km off, removed). Two sources (Kron Diving, ScubaGo Sika Tanki) agree: wall/canyon dive with current, 5-40m. Only 2 distinct domains found - remains unvalidated pending a 3rd source."
+    },
+    "minDepth": 5
   },
   {
     "name": "Kap Zašorga",
@@ -469,8 +487,8 @@
       "name": "Kap Zašorga",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Location corrected: coordinates place this on Sv. Grgur island near Rab (co-located with Canyon and Sika Tanki sites), not Dugi Otok/Zadar as previously (wrongly) stated - that claim was 200km off and removed. Kron Diving's complete Sv. Grgur site list does not include a site named Zašorga specifically. No source directly confirms this name - remains unvalidated, site_type/depth/difficulty left as unconfirmed import defaults per markdown."
     }
   },
   {
@@ -487,8 +505,8 @@
       "name": "Fels Macinj",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Location corrected: islet of Macinj (Hrid Macinj) behind Goli Otok near Rab, not Cres/Lošinj as previously (wrongly) stated - 40-50km off, removed. Moby Dick Diving (Rab operator) confirms beginner site 5-25m, vegetated northern slope, cave at 12m, grouper present; a second Croatian-language source describes a steeper southern side to ~50m (not independently confirmed). Only 1 fully-independent operator source found - remains unvalidated pending a 2nd/3rd source."
     }
   },
   {
@@ -505,8 +523,8 @@
       "name": "Patersriff",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Confirmed as east coast of Prvić island near Kap Šilo. Only reiseinfo-kroatien.com provides site-specific detail (red gorgonian fans, red horn coral, 40m depth). Remains unvalidated pending a 2nd/3rd independent source."
     }
   },
   {
@@ -516,16 +534,17 @@
     "osm_id": 663869745,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Silo",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Confirmed as southern tip of Prvić island (not Krk village of Silo). reiseinfo-kroatien.com describes pyramid reef stepping to 104m (recreational limit 40m applied); kron-diving.com and mirkodivingcenter.com (Rt Šilo) independently corroborate a Šilo/Prvić-area dive site exists, but neither gives matching site-specific depth/marine-life detail - only reiseinfo-kroatien.com has full site-specific content. Remains unvalidated pending a fully corroborating 2nd/3rd source."
+    },
+    "minDepth": 12
   },
   {
     "name": "Tunel Prvić",
@@ -541,9 +560,9 @@
       "name": "Tunel Prvić",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-center-krk.com,dive-loft-krk.com,croatia.greatestdivesites.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Location corrected: this is on Prvić island near Šilo (Krk/Kvarner area), NOT in the Šibenik region as previous markdown stated. Three independent sources confirm ~35m tunnel with 12m entrance depth."
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,mihuric.hr",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Prior 3rd source croatia.greatestdivesites.com now unreachable (503); replaced with mihuric.hr, independent operator adding new marine life (lobster, seahorses, red gorgonians). Depth conflict flagged: 12m entrance (dive shops) vs 9-18m (Mihuric)."
     }
   },
   {
@@ -554,14 +573,15 @@
     "osm_type": "node",
     "depth": 25,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Kricin",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated with 3 independent sources. Kricin confirmed as a beach/shore dive site near Baška, Krk island (RARE-BIRD dive base per taucher.net; info-krk.com confirms Kricin beach location; squatinadiving.com is the local Baška-based operator).",
+      "validation_source": "taucher.net,info-krk.com,squatinadiving.com"
     }
   },
   {
@@ -578,8 +598,8 @@
       "name": "Riff Pal",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Riff Pal existence and approximate location near Poreč (Istria) confirmed via underwaygs.de, but the source page was unreachable (broken HTTPS cert) so no depth/terrain/marine-life detail could be extracted. Remains unvalidated (1 unreachable source only)."
     }
   },
   {
@@ -599,9 +619,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "krnica.com,dive-center-krk.com,frontieradriatic.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Near-duplicate of Lina wreck (osm_id 495589635). Both entries refer to the same vessel. Kept both as OSM has two distinct nodes. Built 1879 Andrew Leslie shipyard, 70m long, 1049 GRT, sank 14 Jan 1914 on fog near Cres island."
+      "validation_source": "krnica.com,dive-center-krk.com,pro-taucher.com,tc-seeteufel.at,frontieradriatic.com",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit, consistent with Lina wreck (osm_id 495589635) - same vessel, two OSM nodes, same source set and conflicts."
     }
   },
   {
@@ -618,8 +638,8 @@
       "name": "Grotta",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "No site-specific source found despite targeted research into Kvarner-area dive operator site lists and German-language dive guides. Remains unvalidated."
     }
   },
   {
@@ -628,17 +648,18 @@
     "lon": 14.32655,
     "osm_id": 663870767,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 45,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Jablanac",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Major correction: this is off the north tip of Cres island (45.1757N 14.3266E per reiseinfo-kroatien.com), NOT the mainland Velebit Channel village of Jablanac as previously (wrongly) stated - different place sharing a name. Site_type corrected reef->wall with a shallow skylight cave feature. Depth corrected 25->45m. Only 1 independent source found - remains unvalidated pending a 2nd/3rd source."
+    },
+    "minDepth": 3
   },
   {
     "name": "Grotte Vrbnik",
@@ -654,9 +675,9 @@
       "name": "Grotte Vrbnik",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-center-krk.com,dive-loft-krk.com,divessi.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Entry type corrected from boat to shore — dive centers confirm cave is 100m from dive center, accessed directly. Difficulty corrected to Beginner per dive center descriptions. Cave extends ~35m interior, chimney to surface, entrance at 13m."
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,hotelikrk.hr",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Prior 3rd source divessi.com now redirects with no content; replaced with hotelikrk.hr adding new detail (triangular interior, capacity ~5 divers, marine life: sea snails, crabs, octopus, shells, goby). Entrance depth conflict flagged: 13m (dive shops) vs 15m (hotelikrk.hr)."
     }
   },
   {
@@ -682,9 +703,9 @@
       "wreck:width": "8.3",
       "wreck:type": "ship",
       "validated": "true",
-      "validation_source": "elpi-tours.com,scuba-diving-croatia.com,krkcroatia.net",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Difficulty upgraded to Advanced — requires AOW or equivalent, 7 lives lost in sinking. Depth range 15-32m. Greek cargo vessel (original name Alsterpark, built Kremer Sohn shipyard Germany 1952). Sank Jan 7-8 1968 in Bora storm, hit cliffs between Šilo and Klimno. Sources conflict on exact length: OSM tags say 60.2m, elpi-tours says 60m, dive center says 70m — likely 60m is correct (OSM sourced from wreck records). Sources conflict on casualties: 7-8 reported."
+      "validation_source": "elpi-tours.com,scuba-diving-croatia.com,krkcroatia.net,total-croatia-news.com,dive-center-krk.com,dive-loft-krk.com",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Major wreck re-audit. Build history now corroborated by 2 sources (elpi-tours + new total-croatia-news.com). NEW CONFLICT: sinking date - dive-center/dive-loft say Jan 4 1968 vs 4 other sources converging on 7-8 Jan 1968, both stated in markdown. NEW CONFLICT: length 60m (2 sources) vs 70m (2 sources), both given. Casualties resolved to 8 (7 crew + captain) across 3 sources. Storm wind-speed conflict (150 vs 200 km/h) flagged."
     }
   },
   {
@@ -701,9 +722,10 @@
       "name": "Gorgonien",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Site type likely wall/reef based on 'Gorgonien' name (gorgonian sea fans) and location near Cres/Krk. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Two independent sources found (unterwasserweb.de \"Rote Gorgonie\", marinesport.hr lists \"Kinkela\") describing an Istrian coast red-gorgonian wall site, but only 2 distinct domains - a 3rd is still needed. Remains unvalidated per the do-not-pad-with-weak-sources rule."
+    },
+    "minDepth": 6
   },
   {
     "name": "Bucht Bobina (Wrack)",
@@ -721,9 +743,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. No specific site sources found during QA. Reverted to unvalidated."
-    }
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Location corrected: Bobina Bay near Brestova, SE Istrian peninsula, not Krk. unterwasserweb.de (1 source) confirms an unidentified collapsed wooden sailing-ship wreck; no vessel name/date/tonnage/cause found anywhere - explicitly left unconfirmed per anti-hallucination policy rather than the previous invented-sounding generic wreck narrative. Remains unvalidated (1 source only)."
+    },
+    "minDepth": 20
   },
   {
     "name": "Säulenbucht",
@@ -731,17 +754,19 @@
     "lon": 14.2288833,
     "osm_id": 663870774,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 50,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Säulenbucht",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources. Reverted to unvalidated."
-    }
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated with 3 independent sources. Säulenbucht (\"Column Bay\", aka Stupova) confirmed as an Istrian coast wall dive with columnar rock formations, reaching approximately 50m.",
+      "validation_source": "reiseinfo-kroatien.com,marinesport.hr,unterwasserweb.de"
+    },
+    "minDepth": 18
   },
   {
     "name": "Banjol",
@@ -749,7 +774,7 @@
     "lon": 13.6106199,
     "osm_id": 1874390437,
     "osm_type": "node",
-    "depth": 15,
+    "depth": 35,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -757,10 +782,12 @@
       "name": "Banjol",
       "natural": "cave_entrance",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=web_research. Cannot confirm 3 independent sources for this specific site. Reverted to unvalidated."
-    }
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated with 4 independent sources. Major location correction: this is Banjol/Banjole islet near Rovinj-Vrsar, Istria (confirmed by coordinate match to PADI listing within ~100m), NOT the town of Banjol on Rab island in the Kvarner as previously assumed. Three-cave system confirmed: entrances at 5m, 12m, and a swim-through at 5m collapsed-ceiling cave; reef/wall to 35m. Statue of St. Euphemia at 16m confirmed by PADI as a placed artefact (not marine life). Marine life (scorpionfish, conger eels, lobster, spider crabs, octopus, John Dory at 26-30m) confirmed site-specific across multiple sources.",
+      "validation_source": "padi.com,istra.hr,starfish.hr,rovinj-diving.com"
+    },
+    "minDepth": 5
   },
   {
     "name": "Vajavine",
@@ -778,9 +805,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-center-krk.com,dive-loft-krk.com,divessi.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Entry type corrected from boat to shore — dive centers confirm this is their house reef accessed by shuttle bus/ladder. Depth corrected to 30m+ (sources list 30m+ max). Known locally as '100 Steps' (100 stairs to the sea, dive ladder entry)."
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,vrbnik.hr",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Prior 3rd source divessi.com now redirects with no content; replaced with vrbnik.hr dedicated Vajavina page confirming stone-steps access and one-way route to Silent Beach."
     }
   },
   {
@@ -798,9 +825,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-center-krk.com,dive-loft-krk.com,divessi.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Entry type corrected from boat to shore — confirmed as house reef accessible by shuttle bus from Vrbnik dive centers. Difficulty corrected to Beginner — described as flat entry, beginner-friendly by both dive centers."
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,vrbnik.hr",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Prior 3rd source was a divessi.com link mis-cited (actually titled Secret Beach) - citation error corrected. Replaced with vrbnik.hr own Silent Beach (Kozica) page: confirms shore entry, beginner rating; depth conflict 28m (vrbnik.hr) vs 30m (dive shops) flagged."
     }
   },
   {
@@ -818,9 +845,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-center-krk.com,dive-loft-krk.com,divessi.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Entry type corrected from boat to shore — confirmed as house reef accessed via small cave to hidden beach, 'few meters' from dive center. Difficulty corrected to Beginner — described as shallow training area. Drop to 30m wall is one aspect, but entry area is beginner-friendly."
+      "validation_source": "dive-center-krk.com,dive-loft-krk.com,vrbnik.hr",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Prior 3rd source divessi.com now redirects with no content; replaced with vrbnik.hr own Secret Beach (Pod Kovač) page confirming rock-passage entry, beginner rating, 30m depth (consistent, no conflict)."
     }
   },
   {
@@ -846,9 +873,9 @@
       "tourism": "attraction",
       "type": "wreck",
       "validated": "true",
-      "validation_source": "dive-center-krk.com,dive-loft-krk.com,3pulse.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Difficulty upgraded to Advanced (42m, expert-tagged in OSM). Confirmed: built 1957 Hamburg as M/B Valeria, renamed El Hawi Star 1981, sank Dec 12 1982 after improper cargo loading of stone slabs and lumber, ~500m from Excelsior breakwater near Rijeka. Lies on starboard side 26-42m."
+      "validation_source": "dive-center-krk.com,murena.net,divemania.it,3pulse.com",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit (further refined by concurrent pass): length 100-106m range, tonnage 3598 GRT (Murena), additional interim names (Polaris/Anemos/Tania) noted with single-source caveat. NEW CONFLICTS found: sinking date 12 Dec 1982 (most sources) vs 12 Oct 1982 (one source cluster); cargo type variously stone slabs/lumber, ceramic tiles (3631t)/timber(781t), or mahogany - all noted as unresolved rather than picking one."
     }
   },
   {
@@ -857,7 +884,7 @@
     "lon": 14.7723539,
     "osm_id": 7737555270,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -865,10 +892,12 @@
       "name": "Canyon",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources for this specific site. Reverted to unvalidated."
-    }
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated with 3 independent sources. Canyon confirmed as a dive site on the north side of Sv. Grgur island near Rab (Kron Diving, Moby Dick Diving, and ScubaGo/MyDiveGuide all independently list it), consistent with the site being part of the same Sv. Grgur cluster as Kap Kosača, Sika Tanki, and Kap Zašorga.",
+      "validation_source": "kron-diving.com,mobydick-diving.com,divessi.com"
+    },
+    "minDepth": 3
   },
   {
     "name": "podmorska poučna staza Tripuljak",
@@ -888,9 +917,10 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Entry type corrected from boat to shore — OSM tag describes this as a shallow underwater trail at 2m depth, clearly shore-accessible. Cannot confirm 3 independent sources. Reverted to unvalidated."
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated with 3 independent sources. MAJOR LOCATION CORRECTION: previously placed in Šibenik area - actually in Tripuljak cove, Telašćica Nature Park, Dugi Otok island, Zadar County (matches existing lat/lon; only descriptive text was wrong). Trail confirmed ~200m long, ~30min duration, opened 23 June 2017. Marine life kept generic (categories only, no specific species asserted).",
+      "validation_source": "ezadar.net.hr,zadar.hr,hkm.hr"
     }
   },
   {
@@ -914,8 +944,8 @@
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
       "validation_source": "divetramonto.com,scubaboard.com,divessi.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Date conflict: OSM says 24.01.1944; Tramonto Diving (primary dive operator) says 22.03.1944 (March 22, 1944). Updated wreck:date_sunk to 1944 only (year confirmed, exact date conflicted). Vessel: Italian cargo warship built 1942 Rijeka, 42m long, 281 tons, seized by Germans 1943. Sank near Kaprije island, torpedoed by British Spitfires. Depth 38-50m."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit: content re-verified, already correctly flags date conflict (22 Jan vs 24 Mar 1944) from prior pass. No changes needed to facts, only last_qa_date bumped."
     }
   },
   {
@@ -924,7 +954,7 @@
     "lon": 16.3622156,
     "osm_id": 11071841627,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -936,10 +966,12 @@
       "scuba_diving:entry": "boat  or shore",
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
-      "validated": "false",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Previously marked validated=true with source=perplexity. Cannot confirm 3 independent sources for this specific site. OSM entry says 'boat or shore'. Reverted to unvalidated."
-    }
+      "validated": "true",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Newly validated with 3 independent sources. Location corrected: Cape Pelegrin near Stomorska, Šolta island (Split area) - not \"Split-Makarska Coast\" as prior markdown vaguely stated. Length conflict: ~28m (Opensea.hr, Venus Diving Split, and a third search source) vs ~15m (PADI) - markdown follows the 28m figure supported by multiple independent local operators and flags the PADI outlier. Marine life (groupers, damselfish, moray eels, octopuses) confirmed site-specific by Opensea.hr; generic PADI mentions of sharks/whales/dolphins/turtles excluded as non-site-specific filler.",
+      "validation_source": "opensea.hr,scubadiving-split.com,padi.com"
+    },
+    "minDepth": 13
   },
   {
     "name": "Plavi Jadran",
@@ -961,9 +993,9 @@
       "wreck:date_sunk": "2018-01-31",
       "wreck:type": "ship",
       "validated": "true",
-      "validation_source": "divetramonto.com,padi.com,wrecked-ships.fandom.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Confirmed: 30m cargo ship Plavi Jadran sank 31 Jan 2018 after collision with Jadrolinija ferry Tijat near Prvić island. Depth 20-22m. Both crew survived. Deliberately accessible beginner wreck. Location near Prvić island (not just 'near Šibenik' as previous markdown stated)."
+      "validation_source": "divetramonto.com,padi.com,ain.hr",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit: added Croatia official Agency for Accident Investigation (AIN) report as authoritative 3rd source, replacing weaker wrecked-ships.fandom.com. AIN confirms collision date 31 Jan 2018, no injuries/fatalities, depth 19m per official report vs 20-22m per dive operators (both now noted)."
     }
   },
   {
@@ -983,8 +1015,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "wreckhunters.eu,xray-mag.com,vintageaviationnews.com",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Aircraft is Italian Air Force Ju 87 R-2 (NOT German aircraft as implied in previous markdown). Crashed/forced down April 12 1941 near Žirje island during attack on Yugoslav warships at Jadrovac near Šibenik. Discovered Sept 2014. Declared Croatian cultural heritage. Depth 28m. Diving requires licensed dive center escort. Previous text incorrectly stated aircraft was 'shot down by anti-aircraft defense' — sources indicate it was forced to ditch, crew believed to have escaped (no remains found). Engine found separately at ~40m."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit: content re-verified against original 3 sources, no factual changes needed. last_qa_date bumped."
     }
   }
 ]

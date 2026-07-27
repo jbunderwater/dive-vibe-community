@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Misnjak (Sanddüne)
 
-Misnjak (Sanddüne — "sand dune" in German) is a reef and sand dive site near the southern tip of Rab Island (Cape Misnjak) in the Kvarner region. The name references sandy formations at the base of the reef, creating a productive reef-to-sand interface habitat in the sheltered waters south of Rab.
+This site's OSM coordinates (44.664°N, 14.289°E) do not match the well-known "Mišnjak" location on Rab — the real Mišnjak is a ferry terminal at the southern tip of Rab (~44.68°N, 14.76°E), roughly 40km east of this point. Research could not confirm this coordinate against any named, dive-operator-listed site. The Rab-based operator with the most complete public dive-site list (Kron Diving, ~20 named sites) does not list a site called "Misnjak" or any explicit "sand dune" site. This entry should be treated as unverified pending better sourcing — the previous "Cape Misnjak, southern Rab" narrative in this file was not source-backed and has been removed.
 
 ## Overview
 
-Cape Misnjak's underwater extension features rocky reef terrain transitioning to sandy areas at around 20–25 metres depth. The rocky sections are encrusted with sponges and anemones, while the sandy "dune" areas provide habitat for burrowing species and a clean sandy substrate. The waters around southern Rab are typically sheltered from the main Velebit Channel exposure, providing calm conditions and good visibility of 15–20 metres.
+No dive-operator, database, or forum source describing a dive site matching this name and location could be found. "Sanddüne" (German for "sand dune") suggests a sandy-bottom or sand-topped pinnacle feature, consistent with naming conventions used elsewhere in this destination's German-sourced site names, but no site-specific description was located to confirm depth, terrain, or habitat here.
 
 ## Site Information
 
-- **Location**: Cape Misnjak, Southern Rab Island, Kvarner, Croatia
+- **Location**: Kvarner Gulf, Croatia — exact named location unconfirmed (coordinates do not match the known Mišnjak/Rab ferry point)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Generally moderate at the exposed southern cape
-- **Best Time**: May to October
+- **Typical Visibility**: Unverified
+- **Current**: Unverified
+- **Best Time**: Unverified
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+No site-specific marine life reports found.
 
 ## Dive Profile
 
-Descend at the cape and explore the rocky reef first, then transition to the sandy areas at the deepest section. Observe the different communities in each habitat zone. Ascend via the reef and complete a safety stop at 5 metres. The sandy bottom provides an easy depth reference.
+Not documented by any source found.
 
 ## Entry and Exit
 
-Dive boats from Rab town or Lopar operators access the southern cape. Entry by giant stride or back roll. The exposed cape position requires current assessment before entry. Deploy an SMB on ascent.
+Not documented by any source found.
 
 ## Tips and Recommendations
 
-- Scan the sandy bottom carefully — rays rest motionless and are easy to miss
-- The cape exposure can generate current — check conditions with the operator
-- Combine with a second Rab Island dive at a cave site (Banjol, Grotte Vrbnik) for a varied day
-- The transition between reef and sand habitats makes for interesting comparative ecology observation
+- Do not confuse this site with the Mišnjak ferry terminal on southern Rab — the coordinates on file do not match
+- If this is a genuine local dive site, its correct location and name need to be re-confirmed against a local operator before further content is added
 
 ## Safety Considerations
 
-Cape position can mean variable current. Check conditions before descending. Monitor depth in the sandy areas. Carry an SMB and dive with a buddy.
+Not documented by any source found.
 
 ## Photography
 
-The clear Kvarner/Adriatic water provides good visibility for wide-angle and macro photography. Specific photographic subjects depend on what marine life is present at the time of diving.
+Not documented by any source found.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Description based on regional diving characteristics. No site-specific sources found — and the site's name/location could not be corroborated against known "Mišnjak" references (see Overview). Last updated 2026-07-27.*

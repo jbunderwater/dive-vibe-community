@@ -13,49 +13,47 @@ addedBy: osm_import
 
 ## Plic Sajda
 
-Plic Sajda is a shoal (plic = shoal/reef in Croatian) reef site in the northern Dalmatian waters near the Zadar Archipelago. The site features a submerged rocky reef formation rising from deeper water — a classic Dalmatian shoal dive offering diverse terrain in the clear Adriatic.
+Plic Sajda ("Plićina Sajda," plic/plićina = shoal in Croatian) is a charted underwater rock/shoal roughly 1 nautical mile north-northeast of Rt Rivanj, near Rivanj island in the Zadar area of northern Dalmatia. It is marked on nautical charts as an isolated navigational danger with a lit beacon (matching the seamark data already recorded for this OSM point) — its documented identity is as a shipping hazard rather than as an established, dive-operator-listed recreational site.
 
 ## Overview
 
-The shoal at Sajda rises from the surrounding deeper seabed to within a few metres of the surface, creating a three-dimensional reef structure with steep sides and an accessible shallow top. The reef faces are encrusted with sponges, sea anemones, and small gorgonian fans. Maximum depth around the base of the shoal reaches approximately 25 metres. The open Dalmatian water position means excellent visibility — typically 15–20 metres.
+Nautical charting sources confirm Plic Sajda as a steep-sided underwater rock with a least (shallowest) charted depth of about 4.5 metres, marked by a lighted isolated-danger beacon to warn vessels. Beyond this navigational data, no dive shop, dive-site database, or forum describing Plic Sajda as a recreational dive destination — with specifics on typical dive depth, difficulty, entry type, or marine life — could be found. The depth, difficulty, and entry-type values in this listing are unverified placeholders and should not be relied on.
 
 ## Site Information
 
-- **Location**: Northern Dalmatian Coast (Zadar Archipelago area), Croatia
+- **Location**: ~1 NM NNE of Rt Rivanj, Zadar area, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Moderate; open water shoal position
-- **Best Time**: May to October
+- **Typical Visibility**: Unverified
+- **Current**: Unverified
+- **Best Time**: Unverified
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna would be expected on a shoal like this, but no species are named here since no source confirms actual sightings at this site.
 
 ## Dive Profile
 
-Boats moor directly over the shoal top. Descend the reef face to the desired depth — anywhere from the shallow top (5–10 m) to the base at 25 m. Circumnavigate the shoal, exploring the faces from different angles. Ascend back up the reef face and complete a safety stop at 5 metres.
+Not documented by any source found. Do not rely on the previous version of this page's dive profile — it was not sourced.
 
 ## Entry and Exit
 
-Dive boats from Zadar-area operators serve this site. Entry by giant stride over the shoal position. The open water location requires an SMB for surfacing — drift can carry divers away from the shoal on the surface.
+Not documented by any source found.
 
 ## Tips and Recommendations
 
-- Look up periodically for pelagic visitors — barracuda and amberjack often circle isolated shoals
-- A surface marker buoy is essential — the open water surface makes recovery difficult without one
-- Circumnavigate the shoal on successive dives from different directions for a complete exploration
-- The shoal top in 5–8 m provides excellent snorkelling for non-diving companions
+- This location's confirmed identity is as a marked navigational hazard (isolated danger beacon), not a documented recreational dive site
+- Divers considering this site should confirm current details directly with a local Zadar-area operator before planning a dive
 
 ## Safety Considerations
 
-The open water position of isolated shoals requires careful SMB discipline — divers can drift away from the boat pickup point rapidly. Always deploy an SMB before leaving the reef on ascent. Current can be present. Dive with a buddy.
+As an isolated shoal marking a navigational hazard, boat traffic awareness is a real consideration regardless of diving specifics. No dive-specific safety profile is documented for this site.
 
 ## Photography
 
-Isolated shoals offer exceptional wide-angle photography with fish-filled blue water as the background. Schools of barracuda or amberjack circling the shoal create iconic images. The reef face covered in encrusting organisms provides colourful macro subjects.
+Not documented by any source found.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [Sea-Seek – Plic Sajda (Rivanj)](https://www.sea-seek.com/en/Plic-Sajda-Rivanj-). No dive-operator-specific source found describing this as an active recreational dive site; other fields above are marked unverified rather than guessed. Last updated 2026-07-27.*

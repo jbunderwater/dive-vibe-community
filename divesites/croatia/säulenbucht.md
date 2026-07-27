@@ -2,10 +2,10 @@
 name: Säulenbucht
 lat: 45.1535833
 lng: 14.2288833
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 50
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663870774
 addedBy: osm_import
@@ -13,49 +13,49 @@ addedBy: osm_import
 
 ## Säulenbucht
 
-Säulenbucht ("Column Bay" in German) is a small bay and reef dive site near Krk Island in the Kvarner region, named for distinctive columnar rock formations that characterise the underwater topography. The natural stone columns and pillar-like formations give this site a unique architectural quality rarely found in Mediterranean reef diving.
+Säulenbucht ("Column Bay," also known locally as "Stupova") is a dramatic wall dive on the mainland Kvarner coast about two nautical miles south of Brseč, opposite the north tip of Cres — not near Krk Island as previously listed. Three independent German-language sources (reiseinfo-kroatien.com, marinesport.hr, unterwasserweb.de) confirm it as an established, actively-dived site, accessible only by boat.
 
 ## Overview
 
-The underwater terrain at Säulenbucht features distinctive columnar limestone formations rising from the seabed — the "columns" that give the bay its name. These natural pillars are encrusted with sponges, sea fans, and encrusting corals, creating a visually striking landscape in the clear Kvarner water. Maximum depth reaches approximately 25 metres at the base of the columns, with the tops accessible in the shallower sections. Visibility is typically 15–20 metres.
+The bay takes its name from a striking rock indentation shaped like a cathedral tower ("Kathedrale"). From the anchor point, the wall drops steeply to around 40 metres, with sources reporting maximum depths between 50 and 60 metres at the deepest points — this is a dive for advanced, experienced divers who keep a close eye on their depth gauge. Along the way, divers pass overhangs and crevices covered in bryozoans, cylinder rose anemones, and gold sponges, sheltering scorpionfish and slipper lobsters. A wide indentation in the wall (roughly 18–35 metres deep, 10 metres wide) is regularly used as a refuge by larger fish; groupers and mackerel are reported resting in the calm water inside the "cathedral tower" structure. Visibility is reported up to 30 metres, and the site is normally free of current, making it a favoured spot for macrophotographers looking for gobies and seahorses among the soft corals.
 
 ## Site Information
 
-- **Location**: Krk Island area, Kvarner, Croatia
+- **Location**: Mainland Kvarner coast, ~2 nautical miles south of Brseč, opposite the north tip of Cres, Croatia (corrected from "Krk Island area")
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Generally light in the sheltered bay
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 50 meters
+- **Typical Visibility**: Up to 30 meters
+- **Current**: Generally none
 - **Best Time**: May to October
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+Sources specifically report scorpionfish and slipper lobsters ("Bärenkrebse") in the wall's overhangs and crevices, groupers and mackerel sheltering inside the cathedral-tower indentation, and gobies and seahorses among the soft corals for macro photographers. No other site-specific species were confirmed.
 
 ## Dive Profile
 
-Descend to the column bases at 20–25 metres and ascend through the column field, exploring the surfaces at each level. The bay's sheltered position allows for an unhurried dive. Spend time in the 8–18 metre zone where the column formations are most dramatic and the light penetration is best. Safety stop at 5 metres.
+From the anchor point, descend the steep wall to around 40 metres. Around 18–35 metres, look for the wide cathedral-like indentation in the rock (~10 m wide) where larger fish shelter. Sources report the wall can continue to 50–60 metres at its deepest — this is an advanced dive, and less experienced divers should turn well before that depth. Ascend slowly and complete a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Dive boats from Krk-area operators serve this bay. Entry by giant stride or back roll. The sheltered bay position provides calm surface conditions for entry and exit.
+Dive boats from Mošćenička Draga-area operators (e.g., Marine Sport DC, which lists "Stupova" among its regular sites) serve this bay; access is by boat only. Entry by giant stride or back roll.
 
 ## Tips and Recommendations
 
-- The columnar formations are the feature of this site — take time to explore around and between them
-- A torch brings out the colours of the encrusting organisms on the column surfaces
-- The bay's sheltered position makes this an excellent choice on days when exposed sites are challenging
-- Combine with a second Krk Island site for a varied diving day
+- This is an advanced dive — agree on a maximum depth and turnaround point with your buddy/guide before descending, since the wall continues well past recreational limits
+- The cathedral-shaped rock indentation around 18–35 metres is the site's namesake feature and a good spot to look for resident groupers and mackerel
+- Currents are generally absent, making this a good site for unhurried macro photography of gobies and seahorses
+- A torch brings out the colour of the gold sponges, bryozoans, and cylinder rose anemones on the wall
 
 ## Safety Considerations
 
-Standard intermediate reef diving in calm, sheltered conditions. Monitor depth among the columns. Carry an SMB and dive with a buddy.
+This is a genuine deep wall dive: sources report depths of 50–60 metres at the base, well beyond recreational limits for less experienced divers. Beginners with few logged dives should only visit with an experienced buddy who monitors the depth gauge closely, and should turn the dive well above the deepest sections. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-The columnar formations are the star subject — wide-angle images of the pillars rising from the seabed with a diver providing scale are compelling. The encrusted column surfaces reward macro photography. The bay's calm conditions make for easy, unhurried shooting.
+The site is specifically noted as excellent for macrophotographers, with gobies and seahorses reported among the soft corals in the wall's crevices. The calm, current-free conditions and reported visibility up to 30 metres make for unhurried shooting; wide-angle images of the cathedral-shaped rock feature are also a natural subject.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [reiseinfo-kroatien.com – Stupova oder Säulenbucht](http://reiseinfo-kroatien.com/ger/freizeit_sport/tauchen/kvarner/stupova/stupova.html), [marinesport.hr – Tauchplätze (lists "Stupova")](https://www.marinesport.hr/de/tauchplatze.html), [unterwasserweb.de – Kroatien Istrien: Die Säulenbucht](http://www.unterwasserweb.de/uwtauchplatz/kroatien/uwtauchplatz_istrien_kueste_saeulenbucht.html). Last updated 2026-07-27.*

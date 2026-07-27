@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Zeca
 
-Zeca is a rocky reef site in the Pag Island area of northern Dalmatia. The site lies in the waters west of Pag Island in the outer Dalmatian Archipelago, offering typical but productive rocky reef diving in the clear blue open Adriatic water.
+Zeca (Zeča) is named for the small uninhabited Croatian islet of the same name, which Wikipedia places south-west of Cres in the outer Kvarner Gulf — not "west of Pag Island" as an earlier version of this page claimed. That earlier claim placed the site roughly 70 km from these coordinates and has been removed as unsupported.
 
 ## Overview
 
-The reef at Zeca descends over rocky limestone slopes and boulders to approximately 25 metres. The open Dalmatian position means excellent water clarity — typically 15–20 metres visibility — and a healthy marine community benefiting from open water circulation. The substrate supports encrusting sponges and anemones at depth, with Posidonia seagrass in the shallower sections.
+Wikipedia confirms Zeča as a real, uninhabited islet in the Cres-Lošinj archipelago, consistent with this site's coordinates. No dive shop, dive guide, or forum post describing diving conditions, depth profile, or marine life at this specific site was found during this QA pass, despite searching German- and English-language Kvarner dive operators. The site type, depth, and difficulty below are inherited from the original OSM import and are not independently verified.
 
 ## Site Information
 
-- **Location**: West of Pag Island, Northern Dalmatian Coast, Croatia
+- **Location**: Islet of Zeča, south-west of Cres, Cres-Lošinj archipelago, Kvarner Gulf, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Light to moderate; open coast position
-- **Best Time**: May to October
+- **Typical Visibility**: Not confirmed by any source
+- **Current**: Not confirmed by any source
+- **Best Time**: May to October (general Kvarner season)
 
 ## Marine Life
 
@@ -36,26 +36,24 @@ No site-specific marine life reports found. Regional Adriatic/Mediterranean faun
 
 ## Dive Profile
 
-Descend to the reef top and work down the slope to 25 metres. Explore the rocky terrain and crevice zones. The most diverse marine life is typically found between 8–18 metres. Ascend slowly and complete a 3-minute safety stop at 5 metres.
+Not independently confirmed.
 
 ## Entry and Exit
 
-Dive boats from Pag town or Zadar-area operators serve this site. Entry by giant stride. Deploy an SMB on ascent — the open coast position requires clear surface signalling.
+Likely reached by boat from a Cres or Lošinj-based operator given the location, but no specific operator listing this site was found.
 
 ## Tips and Recommendations
 
-- The outer Dalmatian position can generate some swell and current — check conditions before diving
-- Explore the Posidonia sections at the end of the dive for seahorses
-- Combine with a Pag cave or wreck dive for a varied day programme
-- The open water location sometimes produces unexpected pelagic visitors
+- No site-specific tips available — this entry needs further research before it can be treated as verified
+- Confirm exact conditions with a local Cres/Lošinj operator before diving
 
 ## Safety Considerations
 
-The open coast position can expose the site to wind swell and variable current. Assess surface conditions with the operator before entry. Always carry an SMB and dive with a buddy.
+Standard recreational diving precautions apply. Dive within your certification level, carry an SMB, and dive with a buddy. Site-specific hazards are not documented.
 
 ## Photography
 
-The clear Kvarner/Adriatic water provides good visibility for wide-angle and macro photography. Specific photographic subjects depend on what marine life is present at the time of diving.
+No site-specific photography notes available.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [Wikipedia – Zeča](https://en.wikipedia.org/wiki/Ze%C4%8Da) (confirms island location only; no site-specific dive source found). Last updated 2026-07-27.*

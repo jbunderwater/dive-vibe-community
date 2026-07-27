@@ -3,9 +3,9 @@ name: Kap Jablanac
 lat: 45.1757
 lng: 14.32655
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 45
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663870767
 addedBy: osm_import
@@ -13,50 +13,49 @@ addedBy: osm_import
 
 ## Kap Jablanac
 
-Kap Jablanac is a cape dive site near the village of Jablanac on the mainland Croatian coast opposite Rab Island, in the Velebit Channel. The cape's underwater extension creates a rocky reef with mixed terrain descending to 25 metres, enhanced by the strong tidal flow through the Velebit Channel that promotes productive marine life.
+Kap Jablanac is a cape off the north tip of Cres Island in the Kvarner — not the mainland village of Jablanac in the Velebit Channel that shares its name. reiseinfo-kroatien.com places this dive site (45°10.527'N 14°19.444'E) off Cres, opposite an almost uninhabited stretch of the island and facing the mainland, popular with wall and cavern divers.
 
 ## Overview
 
-The cape drops into the clear Velebit Channel water, with the rocky reef featuring boulders, stepped terraces, and small overhangs down to 25 metres. The channel location means strong water movement brings nutrients, resulting in dense sponge communities, sea fans, and healthy fish populations. Visibility is typically 10–20 metres in this channel, which can carry particulate matter when currents are strong.
+The site features two steep walls riddled with crevices, niches, and grottos. Current is usually light, with visibility reported between 10 and 30 metres depending on weather. A notable feature is a roughly 15-metre-long cave, open to the sky, whose far end sits at a comfortable 3 metres — described as producing dramatic light effects. Beginners can find plenty to see in the 20-metre range along the sponge-covered wall (home to octopus and scorpionfish), while more experienced divers can follow the wall down to a reported maximum of 45 metres. Great cormorants are sometimes seen circling the cape from the surface before the dive.
 
 ## Site Information
 
-- **Location**: Jablanac, Velebit Channel, Mainland Croatia
+- **Location**: Off the north tip of Cres Island, Kvarner, Croatia (corrected from "mainland Croatia, Velebit Channel" — that location refers to a different, similarly-named village)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10–20 meters
-- **Current**: Moderate; Velebit Channel tidal flow can be strong
+- **Maximum Depth**: 45 meters
+- **Typical Visibility**: 10–30 meters
+- **Current**: Usually light
 - **Best Time**: May to October
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+Reiseinfo-kroatien.com specifically reports octopus and scorpionfish on the sponge-covered wall in the shallower (beginner) zone. Great cormorants are sometimes seen from the surface circling the cape. No other site-specific species reports were found.
 
 ## Dive Profile
 
-Time the dive to current conditions in the Velebit Channel — slack water provides the most comfortable conditions. Descend the reef face from the cape, exploring the step terrain down to 25 metres. In a mild current, a drift dive from the cape is possible. Ascend with adequate gas reserve and deploy an SMB for boat pickup in the channel.
+Descend along one of the two steep walls, which are cut by crevices, niches, and grottos. Beginners can get a full dive in the 20-metre range along the sponge-covered wall; more experienced divers can follow the wall to a reported 45-metre maximum. Save time near the end of the dive for the roughly 15-metre skylight cave, whose far end sits at a comfortable 3 metres. Ascend slowly and complete a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Dive boats from Jablanac village or Senj-area operators serve this site. Entry by giant stride. The Velebit Channel requires careful coordination with the boat captain for pickup in any current conditions.
+Dive boats from Cres-area operators, or Kvarner-area operators serving the north Cres coast, access this site (Kap Jablanac is regularly visited by local dive bases per reiseinfo-kroatien.com). Entry by giant stride. A dive light is recommended, particularly for divers exploring the cave/grotto sections.
 
 ## Tips and Recommendations
 
-- Confirm current state with the local operator — the Velebit Channel is tidal and conditions vary
-- Slack water or mild current provides the easiest and most comfortable conditions
-- A moderate drift along the cape in light current can be an enjoyable experience
-- The abundant schooling fish life is best photographed when current is bringing bait fish into the area
-- A torch helps with the deeper boulder overhangs
+- Save the shallow skylight cave for the end of the dive — its light effects are described as spectacular
+- A torch is recommended, especially for the grotto and niche sections of the wall
+- Beginners can have a full, worthwhile dive without exceeding roughly 20 metres
+- More experienced divers can follow the wall deeper, to a reported 45-metre maximum
 
 ## Safety Considerations
 
-Current is the primary safety consideration at this channel site. Never enter the water if the current exceeds your swimming capacity. Always coordinate the pickup plan with the boat captain before diving. Carry an SMB and deploy it before surfacing.
+Two distinct depth zones exist here — a shallower beginner-accessible wall and a deeper section to 45 metres — so agree on a maximum depth and turnaround plan with your buddy/guide before descending. Carry an SMB and a torch for the overhead cave sections.
 
 ## Photography
 
-Schooling sea bream and sardines in the channel current make spectacular wide-angle images. The sponge-encrusted reef face provides colourful wide-angle compositions. When conditions allow, large resident grouper portraits reward patient photographers.
+The interplay of light through the skylight cave is the site's signature photo opportunity. The sponge-covered wall and its resident octopus and scorpionfish offer additional macro subjects.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [reiseinfo-kroatien.com – Kap Jablanac](http://reiseinfo-kroatien.com/ger/freizeit_sport/tauchen/kvarner/jablanac/jablanac.html). Only one independent source was found for this site; a second and third are still needed for full validation. Last updated 2026-07-27.*
