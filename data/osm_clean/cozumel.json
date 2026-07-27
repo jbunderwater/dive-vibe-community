@@ -10,11 +10,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,barefootcozumel.com,bluenotescuba.com,divepointmexico.com,cozumelscuba.com",
+    "validation_source": "reefsofcozumel.com,bluenotescuba.com,cozumelscuba.com,pelagicventuresscuba.com",
     "tags": {
       "name": "Palancar Reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited 2026-07-27. DROPPED two dead sources: divepointmexico.com now 301-redirects to an unrelated squatted domain; barefootcozumel.com returned blank content on repeated fetch. Added pelagicventuresscuba.com as a live replacement. CORRECTED current direction from north-to-south to south-to-north (the prior text had it backwards). Corrected 'Atlantic spotted grouper' to black grouper and 'blacktip reef shark' (not a Caribbean species) to juvenile blacktip shark. Added seasonal caveat (Dec-Mar) for eagle rays. Removed unconfirmed queen/French angelfish, blue tangs, Bermuda chubs, horse-eye jacks."
     }
   },
   {
@@ -23,16 +24,17 @@
     "lon": -87.031631,
     "osm_id": 663869325,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 38,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "wikipedia.org,reefsofcozumel.com,prodiveinternational.com,padi.com,cozumeldivers.com",
+    "validation_source": "wikipedia.org,reefsofcozumel.com,prodiveinternational.com,padi.com,pelagicventuresscuba.com",
     "tags": {
       "name": "Punta Sur Reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited via fresh Wikipedia + reefsofcozumel.com + Pelagic Ventures Scuba fetches. Hurricane Wilma sponge-crucifix loss at the Cathedral is CONFIRMED by Wikipedia. DROPPED cozumeldivers.com (403 error, unreachable), replaced with pelagicventuresscuba.com. Classification tension noted: reefsofcozumel.com labels the general area a 'wall,' multiple sources call Devil's Throat a 'cavern' (light visible throughout) rather than a true cave; site_type=cave retained since the cavern/swim-through system is the site's defining feature. Depth varies by source (entrance 24-30m, exit 38-43m) \u2014 range stated in description; depth field bumped from 35m to 38m as a more representative figure within that range. Removed unconfirmed 'turtles nest on adjacent beaches' and 'eagle rays in groups' claims."
     }
   },
   {
@@ -44,13 +46,14 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,bluenotescuba.com,cozumelscuba.com",
+    "validation_source": "reefsofcozumel.com,cozumelscuba.com,padi.com,blueprojectcozumel.com",
     "tags": {
       "name": "Paso El Cedral Reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "DIFFICULTY CORRECTED 2026-07-27 from Beginner to Intermediate: reefsofcozumel.com/cedral.html and cozumelscuba.com both explicitly rate this dive 'Intermediate'; no re-verified source called it purely Beginner. DROPPED bluenotescuba.com (does not actually mention this site by name on direct check); added padi.com and blueprojectcozumel.com. Confirmed via cozumelscuba.com/blueprojectcozumel.com: grunts, porkfish, snappers, moray eels, black grouper, stingrays, nurse sharks, turtles, splendid toadfish, elkhorn coral (12-18m range)."
     }
   },
   {
@@ -62,13 +65,14 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,bluenotescuba.com,scubadiving.place",
+    "validation_source": "reefsofcozumel.com,thescubadirectory.com,tritondiving.mx",
     "tags": {
       "name": "La Francesa",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "DIFFICULTY CORRECTED 2026-07-27 from Beginner to Intermediate: no re-verified source calls this a pure Beginner site (reefsofcozumel.com says 'novice to intermediate,' tritondiving.mx says 'intermediate to advanced'). DROPPED bluenotescuba.com (doesn't name this site) and scubadiving.place (its URL/depth figures appear to conflate La Francesa with the separate, deeper San Francisco Reef); added thescubadirectory.com and tritondiving.mx. DEPTH FLAGGED, not resolved: sources disagree substantially (9-18m vs 18m vs 15-30m depending on source/section) \u2014 range now stated in description rather than picking one number; field kept at 18m. Removed unconfirmed queen-triggerfish nesting-territory claim and species-level snapper naming."
     }
   },
   {
@@ -82,12 +86,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "divescover.com,wannadive.net,zentacle.com,colemanconcierge.com",
+    "validation_source": "colemanconcierge.com,bluenotescuba.com,zentacle.com,deepblu.com",
     "tags": {
       "name": "Punta Dalila",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "Western leeward reef. Confirmed boat entry, beginner-friendly, ~15m (50ft) max depth. Multiple sources confirm gentle current, reef type, good sea turtle and nurse shark sightings. Validated with 4 sources."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited 2026-07-27. DROPPED divescover.com (503 error) and wannadive.net (timeout), both unreachable; added bluenotescuba.com and deepblu.com, both fetched live. The largest marine-life strip in this batch: removed an extended, unconfirmed species list (French/queen angelfish, spotted drums, three butterflyfish species, cleaner wrasse stations, green/spotted morays, Caribbean reef squid) not traceable to any of the 4 live sources \u2014 replaced with confirmed species (turtles, nurse sharks, stingrays, seasonal eagle rays, splendid toadfish, flamingo tongue cowries). Difficulty flagged as possibly understated (some sources lean Intermediate) but not force-changed given mixed signal; kept Beginner."
     }
   },
   {
@@ -105,7 +109,8 @@
     "tags": {
       "name": "Yucab Reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-confirmed via fresh bluenotescuba.com + cozumelscuba.com fetches: splendid toadfish, nurse sharks, turtles (green/hawksbill/loggerhead), stingrays, moray eels, lobster, night octopus, king crabs, shrimp, and pipefish are site-specific confirmed. Corrected current direction to 'south to north' for consistency with the confirmed island-wide pattern. Softened species-level angelfish naming (queen/French) to generic 'angelfish' since no source specifies the exact species here; removed unconfirmed blue tangs, surgeonfish, and flamingo-tongue-cowrie claims."
     }
   },
   {
@@ -119,11 +124,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "prodiveinternational.com,divesites.scubatony.com,scubadiving.place",
+    "validation_source": "divesites.scubatony.com,scubadiving.place,blueprojectcozumel.com,scubaboard.com",
     "tags": {
       "name": "Punta Tunich Wall",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit: prodiveinternational.com no longer returned retrievable content, replaced with blueprojectcozumel.com and scubaboard.com. Removed unconfirmed Caribbean reef shark and dog snapper marine-life claims; corrected reef-crest depth description (sources show wall top nearer 18-24m, not 8m). Depth/site_type/difficulty/entry_type unchanged, well supported."
     }
   },
   {
@@ -137,12 +143,12 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "scuba-diving-cozumel.com,divebuddy.com,living-underwater.com,scubaxoc.com",
+    "validation_source": "living-underwater.com,scubaxoc.com,everythingcozumel.com,blog.scubatony.com",
     "tags": {
       "name": "Cardona",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "Shore dive confirmed. Low-profile broad flat reef full of holes and crevasses; ~14m (45ft) max depth (corrected from 12m). Named after Mexican film director René Cardona who filmed 'Un Mundo Nuevo' here in 1957. Splendid toadfish, nurse sharks, lobsters, crabs, spotted morays confirmed by multiple sources. Good night dive site. Validated with 4 sources."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit: film history claim re-verified (2 independent domains: scubaxoc.com direct statement, everythingcozumel.com hedged as \"probably why\") but corrected \u2014 film shot ~1956, released Mexico City Aug 1957, not filmed \"in 1957\". Stripped unconfirmed marine life (spiny lobster, splendid toadfish, spotted moray eel, elkhorn coral, sea turtles) \u2014 only nurse sharks confirmed site-specific. Entry type (shore vs boat) is UNRESOLVED: one search result described the site as ~200m offshore and boat-accessible, contradicting the shore tag; left unchanged pending stronger confirmation. Depth also uncertain: one source cites 6-11m vs this entrys 14m max. scuba-diving-cozumel.com and divebuddy.com no longer show site-specific content."
     }
   },
   {
@@ -156,12 +162,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,bluenotescuba.com,dive.site,padi.com,cozumelscuba.com",
+    "validation_source": "reefsofcozumel.com,padi.com,bluenotescuba.com,scubaboard.com",
     "tags": {
       "name": "San Frandsco Reef",
       "sport": "scuba_diving",
-      "qa_note": "OSM name has typo (San Frandsco). Known as San Francisco Reef or San Francisco Wall in all sources. Wall confirmed by 5 sources.",
-      "last_qa_date": "2026-05-23"
+      "qa_note": "Re-audit: markdown frontmatter previously said maxDepth 30 while this JSON said 25 (out of sync) - markdown corrected to 25. Elkhorn/staghorn coral claim removed - not confirmed by any source; PADI describes wall as sponges/sea fans rather than coral. Corrected Caribbean reef shark to nurse shark (only species sourced); corrected midnight parrotfish to giant parrotfish; removed unsourced yellowtail/mahogany snapper species specificity. dive.site and cozumeleveryday.com could not be re-verified (403/503).",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -175,12 +181,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,bluenotescuba.com,scuba-diving-cozumel.com",
+    "validation_source": "reefsofcozumel.com,bluenotescuba.com,colemanconcierge.com",
     "tags": {
       "name": "Las Palamas",
       "sport": "scuba_diving",
-      "qa_note": "OSM name has typo (Las Palamas). Known as Las Palmas Reef in all sources. Sources indicate beginner-friendly site with max 45ft (14m). Difficulty corrected from Intermediate to Beginner.",
-      "last_qa_date": "2026-05-23"
+      "qa_note": "Re-audit: scuba-diving-cozumel.com no longer shows site-specific content (generic gear page now); replaced with colemanconcierge.com. Corrected current from confident northward drift to variable/swirling per sources. Corrected French/grey angelfish to queen angelfish; softened hawksbill turtle species claim to generic turtles; removed unconfirmed Creole wrasse and flamingo tongue cowrie claims. Added confirmed splendid toadfish. Difficulty conflict noted: colemanconcierge.com implies Intermediate, reefsofcozumel.com explicitly says Beginner; kept Beginner (majority/explicit source) but flagging the conflict.",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -194,11 +200,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,bluenotescuba.com,cozumelscuba.com,prodiveinternational.com",
+    "validation_source": "reefsofcozumel.com,bluenotescuba.com,scubadiving.place",
     "tags": {
       "name": "Tormentos Reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit: cozumelscuba.com dropped (no Tormentos entry found on re-check), prodiveinternational.com dropped (unreachable), replaced with scubadiving.place. REMOVED unconfirmed cleaning-station claim (central to previous description) - no source documents cleaner-wrasse behavior at this site. Current corrected from confident light/northward to conflicting-reports (one source: usually strong; another: mild to swift). Splendid toadfish, black grouper, nurse sharks, French grunts confirmed. Stingray/eagle ray confirmed via scubadiving.place species checklist."
     }
   },
   {
@@ -212,11 +219,12 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "shoreexcursioneer.com,bluenotescuba.com,lancasterscuba.com,sanddollarsports.com",
+    "validation_source": "shoreexcursioneer.com,bluenotescuba.com,reefsofcozumel.com",
     "tags": {
       "name": "Chankanaab Reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit: lancasterscuba.com and sanddollarsports.com both returned HTTP 403 on re-check and could not be re-verified; replaced with reefsofcozumel.com (direct confirmation of depth, shore entry, current, marine life). REMOVED unconfirmed splendid toadfish and glassy sweepers claims (not tied to this specific site by any source). Softened halocline claim - freshwater lagoon influx is sourced, but no source confirms experiencing a halocline inside La Quebrada cave specifically. Softened turtle species (was green/hawksbill, now unspecified per sources). Depth/entry/difficulty/site_type unchanged, well supported (9-16m and 10.7-12m ranges bracket the 12m entry)."
     }
   },
   {
@@ -230,12 +238,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,prodiveinternational.com,scuba-diving-cozumel.com,padi.com",
+    "validation_source": "reefsofcozumel.com,prodiveinternational.com,padi.com,huffpost.com",
     "tags": {
       "name": "Maracaibo Reef",
       "sport": "scuba_diving",
-      "qa_note": "Southernmost Cozumel dive site near Punta Celerain Lighthouse. Features famous arch at approx 35m (115ft). Wall drops 70-150ft (21-46m). 40m max depth in our data is conservative but within recreational range.",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited 2026-07-27. scuba-diving-cozumel.com CONFIRMED INVALID as a source (re-fetched directly twice): its maracaibo-punta page is a generic scuba-gear buying guide with zero site-specific content about Maracaibo -- dropped. Replaced with huffpost.com (first-person published dive account) and padi.com re-confirmed independently with real content. Arch depth cross-checked across reefsofcozumel.com (implies ~120ft via 90ft wall edge + ~30ft fissure descent), padi.com (explicitly states arch lies 115ft deep), and huffpost.com (states arch bottoms out at 120ft) -- sources converge on approximately 115-120ft (35-37m), consistent with existing ~35m figure; NOT a hallucination. Marine life pruned to only site-confirmed species; tiger grouper, 2m sea fans, and \"most impressive black coral\" superlative removed from Overview/Marine Life as unconfirmed by any source."
     }
   },
   {
@@ -244,17 +252,17 @@
     "lon": -86.974983,
     "osm_id": 663869357,
     "osm_type": "node",
-    "depth": 24,
+    "depth": 37,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": false,
-    "validation_source": "colemanconcierge.com,living-underwater.com",
+    "validated": true,
+    "validation_source": "colemanconcierge.com,living-underwater.com,letstraveltomexico.com,60feetunder.com",
     "tags": {
       "name": "El Islote",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "Southeast Cozumel near Punta Celarain lighthouse. Large patch coral island with broad ridges of pristine hard and soft coral separated by sandy channels. Advanced dive with strong current and depth 60-130ft (18-40m); our 24m (80ft) max is within confirmed range. Depth corrected from 20m to 24m; difficulty upgraded from Intermediate to Advanced. Only 2 sources found — not yet validated to 3-source standard."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited 2026-07-27. Found 3rd+4th independent site-specific sources: letstraveltomexico.com (\"7 Secret Dive Sites in Cozumel\") confirms location, weather-dependent access, current, turtles/sharks/eagle rays, sea fans/staghorn coral; 60feetunder.com (real Cozumel dive shop dive-table) gives precise technical parameters: current Strong/Very Strong, average depth 15m/50ft, MAX DEPTH 37m/120ft, Experience Level Advanced/Deep. Depth corrected from 24m to 37m -- the dive-shop technical table is the most authoritative single figure and is corroborated by living-underwater.com's broader 60-130ft+ range; colemanconcierge.com's 80ft/24m appears to reflect a typical/average depth rather than the true max. Now validated with 4 distinct domains. Marine life pruned to only confirmed species (turtles, sharks, eagle rays, parrotfish, rays in sand flats)."
     }
   },
   {
@@ -263,17 +271,17 @@
     "lon": -87.011375,
     "osm_id": 663869358,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,bluenotescuba.com,barefootcozumel.com",
+    "validation_source": "reefsofcozumel.com,prodiveinternational.com,aquamarinas.com,deepstop.wordpress.com",
     "tags": {
       "name": "Chun Chacaaab Reef",
       "sport": "scuba_diving",
-      "qa_note": "Known as Chun Chacaab in most sources. Southern reef near Punta Sur. Nitrox 32 recommended per Barefoot Cozumel.",
-      "last_qa_date": "2026-05-23"
+      "qa_note": "Re-audited 2026-07-27. bluenotescuba.com and barefootcozumel.com DROPPED from sources -- direct re-fetch of both live pages confirms neither mentions Chun Chacaaab anywhere in their Cozumel dive site content. Replaced with prodiveinternational.com, aquamarinas.com, and deepstop.wordpress.com (first-person 2011 trip report), all confirmed with real site-specific content: turtles (adult + juvenile), spotted drum, lobsters, crabs, sea plumes/rods/fans, black coral, sponges, hawksbill turtles, reef/nurse sharks, spotted eagle rays, black groupers, green morays, octopus, French grunts, schoolmasters, Bermuda chubs, lionfish, blue chromis, red seastars, southern stingrays. Depth corrected from 18m to 21m (most sources cite ~70ft/21m as typical, with a 60-100ft/18-30m range reported); difficulty corrected from Intermediate to Advanced (reefsofcozumel.com and prodiveinternational.com both explicitly rate Advanced due to unpredictable/multidirectional currents, surge, and large sea swells -- also confirmed anecdotally by deepstop.wordpress.com). Nitrox 32 recommendation traces to reefsofcozumel.com, not barefootcozumel.com as previously attributed. Marine life pruned: splendid toadfish, Nassau/tiger grouper, and queen/grey angelfish removed as unconfirmed by any source for this specific site.",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -287,12 +295,12 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": false,
-    "validation_source": "reefsofcozumel.com,colemanconcierge.com",
+    "validation_source": "colemanconcierge.com",
     "tags": {
       "name": "Chen Rio",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "CORRECTION: Chen Rio is a SHORE dive (not boat). East coast site with sheltered natural bay protected by rocky rim. Small bay inside the reef sheltered from surf; drop-off to deeper water on outside. Max depth ~18m (60ft). Maya name means 'stone mouth'. Entry type corrected from boat to shore. Only 2 sources found — not yet validated to 3-source standard."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited 2026-07-27. CORRECTION: reefsofcozumel.com does NOT actually cover Chen Rio -- directly verified via two checks: reefguide.html does not list it among ~30 sites, and a dedicated reefsofcozumel.com/chen-rio.html URL returns HTTP 404. That prior citation was erroneous and has been dropped, leaving only ONE genuinely dive-specific source: colemanconcierge.com (60ft/18m depth, shore entry, sheltered bay w/ drop-off outside rim). scuba-diving-cozumel.com/chen-rio/ exists but is a generic gear-guide page with no site-specific content on fetch. en.wikipedia.org/wiki/Chen_Rio corroborates the geography (rocky rim, sheltered pool, east coast) but has no diving-specific content, so it is not counted toward the 3-source bar. Exhaustive search (English + Spanish, ScubaBoard, cozumelscuba.com, searobincozumel.com) found no further dive-specific source. Remains UNVALIDATED, now with 1 confirmed source rather than the 2 previously believed."
     }
   },
   {
@@ -310,8 +318,8 @@
     "tags": {
       "name": "El Mirador",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "CORRECTIONS: Shore dive (not boat). Max depth ~11m (35ft) per colemanconcierge.com (corrected from 22m). East coast location with multiple small bays; rocky seascape with natural bridges and tide pools. Dangerous undertow can be present. Intermediate difficulty due to variable surf and undertow. Depth and entry type corrected. Only 2 sources found — not validated to 3-source standard."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audit 2026-07-27: scuba-diving-cozumel.com/top-6-dive-sites-in-cozumel/ mentions El Mirador by name only, in a site list, with zero corroborating depth/current/marine-life detail \u2014 does not count as a substantive 3rd source per our standard. Still only 2 sources with real content \u2014 validated remains false, not padded. No factual claims changed from the prior 2026-06-16 corrections (shore entry, ~11m max depth)."
     }
   },
   {
@@ -329,8 +337,8 @@
     "tags": {
       "name": "San Juan Reef",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "CORRECTION: Difficulty upgraded from Intermediate to Advanced. North end of Cozumel outside the marine park; extremely strong and unpredictable currents — operators rate as Advanced/Expert. Features finger corals, lettuce coral, barrel sponges, ledges with French grunts, schoolmasters, moray eels, nurse sharks, turtles, eagle rays. Depth 40-60ft (12-18m) confirmed. Often second dive after Barracuda or Cantarel. Risk of separation from group and drift past island noted by multiple sources. Validated with 5 sources."
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited 2026-07-27: all 5 sources re-verified live with real site-specific content. Depth noted as varying 12-27m (40-90ft) across sources; 18m retained as the most commonly-cited figure. Confirmed marine life: green moray eels, drumfish, lobster, turtles, nurse sharks, eagle rays (living-underwater.com); French grunts, schoolmasters (reefsofcozumel.com, TripAdvisor); creole wrasse, trumpetfish (rare, reefsofcozumel.com). TripAdvisor's eagle-ray-schooling review (10-15 individuals) retained as genuinely site-specific."
     }
   },
   {
@@ -344,12 +352,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,prodiveinternational.com,scuba-diving-cozumel.com",
+    "validation_source": "reefsofcozumel.com,undercurrent.org,scubaboard.com",
     "tags": {
       "name": "Barracuda Reef",
       "sport": "scuba_diving",
-      "qa_note": "Site is a WALL (rocky ledge drop-off), not a flat reef. Real depth range 90-120ft (27-37m). Sources say 'Expert' level due to current 2-10 knots, downcurrents, and risk of being lost at sea. Difficulty is conservatively listed as Advanced; operators should treat as Expert. Port Captain monitors and restricts diving here.",
-      "last_qa_date": "2026-05-23"
+      "qa_note": "RE-AUDIT 2026-07-27: prodiveinternational.com and scuba-diving-cozumel.com (prior sources) are now dead/off-topic; replaced with undercurrent.org (1994 trip report, independent) and scubaboard.com (DocVikingo thread). Site is a rocky slope (60-90ft) transitioning to a wall beyond ~100ft, not a pure wall from the entry. Current corrected to ~1-5 knots with occasional downcurrents (not a flat 2-10kt); prior 'lost forever' framing softened but retained as source-supported anecdotal risk (Undercurrent references diver deaths). Port Captain 'monitors and restricts' claim is single-sourced to reefsofcozumel.com only, not independently confirmed - now attributed as such. Marine life pared to site-confirmed: barracuda, spotted eagle rays, nurse sharks, splendid toadfish. Removed unconfirmed Caribbean reef shark and dog snapper claims.",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -358,17 +366,17 @@
     "lon": -87.0309448,
     "osm_id": 663869365,
     "osm_type": "node",
-    "depth": 15,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,prodiveinternational.com,padi.com,bluenotescuba.com",
+    "validation_source": "reefsofcozumel.com,padi.com,bluenotescuba.com,prodiveinternational.com",
     "tags": {
       "name": "Paraiso Reef",
       "sport": "scuba_diving",
-      "qa_note": "Site is south of the Puerto Maya cruise ship pier (not north). Named after Rancho Paraiso. Three sections at 5m, 13m, and 18m depth. Strong current warning: proximity to cruise ship pier creates hazard.",
-      "last_qa_date": "2026-05-23"
+      "qa_note": "RE-AUDIT 2026-07-27: Location south of Puerto Maya pier and 'northernmost park reef' reconfirmed by 3+ live sources. Fixed-depth per-section claims (5m/13m/18m) not supported by any source; replaced with a 9-15m (30-50ft) range across three parallel sections. 'Turtles on virtually every dive' claim downgraded - only weakly sourced (single mention, no species/frequency confirmation); flamingo tongue cowries and schoolmaster snapper species-level claims removed as unconfirmed filler. Splendid toadfish, spotted drum, moray eels, stingrays, and pier-proximity current hazard all reconfirmed as site-specific.",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -382,12 +390,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,prodiveinternational.com,sanddollarsports.com,scubaspotadvisor.com",
+    "validation_source": "reefsofcozumel.com,scubaspotadvisor.com,scubaboard.com",
     "tags": {
       "name": "Villa Blanca Wall",
       "sport": "scuba_diving",
-      "qa_note": "Wall starts at 45ft (15m) just south of San Miguel (NOT the northern hotel zone as previously described). Extends north to Cantarel. Currents can be strong and unpredictable. Sources rate as Expert/Advanced due to current risks. Difficulty upgraded from Intermediate to Advanced.",
-      "last_qa_date": "2026-05-23"
+      "qa_note": "RE-AUDIT 2026-07-27: prodiveinternational.com is dead (both old and current URL paths return empty); sanddollarsports.com blocked (403) this session, dropped from citations though likely still a real live source. Direct fetch of reefsofcozumel.com (primary source) shows this site is BOTH shore and boat accessible (boat preferred for safety) and is rated 'intermediate' by that source, depth-adjustable to advanced - this conflicts with our 'Advanced'-only framing; noted as a source disagreement rather than silently resolved, difficulty retained as Advanced given current hazard emphasis elsewhere. Removed unconfirmed 'depth to 600ft' and 'extends 1km north to Cantarell' claims - neither supported by any source. Cruise-ship current hazard claim is real but primarily single-sourced to reefsofcozumel.com. Marine life pared: turtles (species unconfirmed), spotted moray eels, barracuda, scrawled filefish, trumpetfish, trunkfish, white-spot triggerfish, spotted eagle rays, nurse sharks confirmed; flamingo tongue cowries, grunt schooling, and spiny lobster night claims removed as unconfirmed.",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -401,12 +409,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "reefsofcozumel.com,scuba-diving-cozumel.com,mexico.greatestdivesites.com",
+    "validation_source": "reefsofcozumel.com,scubaboard.com,thescubadirectory.com",
     "tags": {
       "name": "Cantarell Sand Reef",
       "sport": "scuba_diving",
-      "qa_note": "CRITICAL CORRECTION: This site is actually a WALL (known as 'Cantarel' or 'Spotted Eagle Ray Wall'), not a sand reef. Real depth 40-100ft (12-30m). Strong to extremely strong currents. Known for eagle ray aggregations Dec-Feb. Difficulty corrected from Beginner to Advanced. Depth corrected from 10m to 30m.",
-      "last_qa_date": "2026-05-23"
+      "qa_note": "RE-AUDIT 2026-07-27: Eagle ray Dec-Feb (some reports into March) aggregation claim VERIFIED as genuinely site-specific (not conflated with a different site) via reefsofcozumel.com and multiple independent ScubaBoard diver trip reports naming 'Cantarell'/'Cantarel' specifically; ray counts vary 13-20+ per report rather than a flat '20 or more'. Added thescubadirectory.com's dedicated 'Cantarel (Eagle Ray Wall)' page as a 3rd live, direct-fetched source (confirms ~30m/100ft depth, boat/deep classification), bringing this site to the 3-source bar. Previously cited scuba-diving-cozumel.com/cantarell/ is a generic gear page with no site content, dropped; mexico.greatestdivesites.com returned repeated 503s, dropped. Removed unconfirmed generic marine life (nurse sharks, turtles, groupers, barracuda, damselfish, moray eels, lionfish, razorfish, seahorses) not tied to site-specific sources. Removed unconfirmed claim that the wall 'extends south to Villa Blanca.'",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -420,12 +428,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "californiadiver.com,tritondiving.mx,reefsofcozumel.com,reefsmartguides.com",
+    "validation_source": "en.wikipedia.org,californiadiver.com,tritondiving.mx,reefsofcozumel.com,reefsmartguides.com",
     "tags": {
       "name": "Wreck C-53",
       "sport": "scuba_diving",
-      "qa_note": "Verified: USS Scuffle (AM-298), Admirable-class minesweeper, built 1943 Tampa. 184ft (56m) long, 33ft wide, 40ft high keel-to-superstructure. Scuttled June 2000. Rests upright at 24m near Chankanaab Park (west/southwest coast, NOT northwest). Interior accessible to certified wreck divers.",
-      "last_qa_date": "2026-05-23"
+      "qa_note": "RE-AUDIT 2026-07-27 (deep wreck-history research): Cross-checked against Wikipedia (USS Scuffle AM-298; Felipe Santiago Xicotencatl bio) plus 4 dive/maritime sources. CONFLICTS FOUND AND PRESERVED IN TEXT (not silently resolved): (1) builder/location - Wikipedia says Winslow Marine Railway & Shipbuilding Co., Seattle WA; dive-tourism sources say 'Wilson Marine Shipworks,' Tampa FL - both stated, not reconciled. (2) Renaming to 'Felipe Xicotencatl C-53' occurred in 1994 per Wikipedia/Triton Diving, NOT at the 1962 transfer as previously stated - corrected. (3) Scuttling date - naval-history sources say sunk 1999/stricken 2000; dive sources say June 5, 2000 - both stated. (4) Depth reported inconsistently 10-24m across dive sources - range now noted. Tonnage: Wikipedia gives 650 long tons (660t) for the class, but no second independent source corroborates it for this specific hull, so per the 2-source rule it is OMITTED from the description rather than presented as confirmed. 'Named after a general under Santa Anna' claim flagged as disputed - Wikipedia's own bio calls him a colonel (posthumous honor) while the ship's official Mexican Navy name uses 'General'; both noted. Lingayen Gulf/Subic Bay WWII minesweep service INDEPENDENTLY CONFIRMED (Wikipedia + californiadiver.com, matching dates); a conflicting 'Gulf of Leyte' claim from another dive source was rejected as less-corroborated. Marine life pared to site-confirmed: black grouper (not 'Atlantic spotted grouper'), moray eels (general), glassy sweeper schools, nurse sharks (not 'juvenile reef sharks'), turtles (species unconfirmed). Removed unconfirmed silversides schooling and flamingo tongue cowries on deck fittings.",
+      "last_qa_date": "2026-07-27"
     }
   }
 ]
