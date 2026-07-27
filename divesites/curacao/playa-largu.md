@@ -35,7 +35,7 @@ Unlike some plantation beaches, the entry here is on coral rubble — booties ar
 
 ## Marine Life
 
-The defining feature is sponge diversity: Elephant Ear sponges, Touch-me-not sponges, stovepipe sponges, barrel sponges, vase sponges, rope sponges, and encrusting sponges are all confirmed at this site. Soft coral formations cover the reef shoulder. Hard coral density is strong in the 10–20 metre zone.
+The defining feature is sponge diversity. Barrel and stovepipe/tube sponges are corroborated by a second independent source beyond DiveCuracao.info; Elephant Ear, Touch-me-not, vase, rope, and encrusting sponge varieties are reported by DiveCuracao.info but were not independently corroborated in this audit. Elkhorn and brain coral formations are also present. Soft coral formations cover the reef shoulder.
 
 No site-specific fish species documentation found beyond sponge and coral communities. Regional Caribbean reef fish and typical Curaçao species should be expected.
 
@@ -59,4 +59,4 @@ Coral rubble entry — booties or reef shoes essential; sandals insufficient. En
 Remote site with no immediate emergency access. Dive conservatively and inform someone of your plans. The plantation gate closes at specific times — confirm closing hours before visiting.
 
 ---
-*Sources: [DiveCuracao.info — Playa Largu](https://www.divecuracao.info/dive/curacao-diving-guide/playa-largu/), [Divers-Guide.com — Playa Largu](https://www.divers-guide.com/en/playa-largu), [PADI — Playa Largu Dive Site](https://www.padi.com/dive-site/curacao/playa-largu/). Last updated 2026-05-24.*
+*Sources: [DiveCuracao.info — Playa Largu](https://www.divecuracao.info/dive/curacao-diving-guide/playa-largu/), [Divers-Guide.com — Playa Largu](https://www.divers-guide.com/en/playa-largu), [PADI — Playa Largu Dive Site](https://www.padi.com/dive-site/curacao/playa-largu/), [CuracaoTodo — Playa Largu](https://curacaotodo.com/en/beaches/playa-largu/). Re-audited 2026-07-27: sponge diversity re-confirmed, entrance fee and access details unchanged, hedged which sponge species are single- vs. multi-source confirmed. Last updated 2026-07-27.*

@@ -34,4 +34,4 @@ No dive operator site, forum report, or published dive guide has been found that
 This site could not be validated against independent dive sources. Local dive operators in the Caracasbaai area (CURious2Dive operates nearby) may have information about this specific wreck. It should be treated as unconfirmed until a specific local source can document it.
 
 ---
-*Description based on OSM data only. No site-specific sources found. Last updated 2026-05-24.*
+*Description based on OSM data only. No site-specific sources found. Re-checked 2026-07-27 (WebSearch for "Caracasbaai second wreck," "unnamed wreck Curaçao," and related terms) — still no independent dive-shop, forum, or database source identifies this wreck separately from the Tugboat. Remains unvalidated. Last updated 2026-07-27.*

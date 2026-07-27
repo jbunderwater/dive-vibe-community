@@ -35,7 +35,7 @@ A drift dive from Snake Bay to Boca Sint Michiel is sometimes offered as a longe
 
 ## Marine Life
 
-The site name reflects abundant moray eels. Local dive guides rate it highly for overall fish life. Coral spawning events (September–October) are a noted feature. The sandy plateaus at 13 metres host macro life. Dolphins are occasionally reported in the area; turtles are also seen.
+The site name reflects abundant moray eels. Local dive guides (DiveWederfoort, Central Dive & Car) also confirm nurse sharks, sea turtles, creole wrasse, and porcupine fish at this site. Coral spawning events (September–October) are a noted feature. The sandy plateaus at 13 metres host macro life. An earlier version of this page reported occasional dolphin sightings at Snake Bay; no source found during this re-audit confirms dolphins here specifically (a dolphin sighting was reported by one diver at Blue Bay Garden, a different site), so that claim has been removed.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Beach entry from Playa Wachi. The SAMI Scuba Center adjacent to the site offers 
 A surface marker buoy is mandatory due to boat traffic. For drift dives, arrange pick-up logistics in advance. The remote area has limited facilities.
 
 ---
-*Sources: [DiveCuracao.info — Snake Bay](https://www.divecuracao.info/curacao-dive-travel-guide/curacao-diving-guide/dive-and-snorkel-guide/snake-bay-slaagbaai/), [Curacao.com — Boka Sami, Snake Bay and Kaap Mal Meeuw](https://www.curacao.com/en/activity/boka-sami-snake-bay-kaap-mal-meeuw), [Zentacle — Snake Bay](https://www.zentacle.com/Beach/1368/snake-bay). Last updated 2026-05-24.*
+*Sources: [DiveCuracao.info — Snake Bay](https://www.divecuracao.info/curacao-dive-travel-guide/curacao-diving-guide/dive-and-snorkel-guide/snake-bay-slaagbaai/), [Curacao.com — Boka Sami, Snake Bay and Kaap Mal Meeuw](https://www.curacao.com/en/activity/boka-sami-snake-bay-kaap-mal-meeuw), [Zentacle — Snake Bay](https://www.zentacle.com/Beach/1368/snake-bay), [DiveWederfoort — Snake Bay](https://www.divewederfoort.com/local-diving-sites/snake-bay). Re-audited 2026-07-27: removed unsupported dolphin claim, added nurse shark, creole wrasse, and porcupine fish sightings confirmed by additional local dive-site guides. Last updated 2026-07-27.*
