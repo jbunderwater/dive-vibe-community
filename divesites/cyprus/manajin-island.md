@@ -41,4 +41,4 @@ The varied terrain with old masonry provides habitat for groupers, octopus, and 
 - Old masonry scattered on the seabed makes this a distinctive site among Paphos reefs
 
 ---
-*Sources: [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [divingincyprus.net](https://www.divingincyprus.net/Dive-Sites-Paphos.html), [divessi.com](https://www.divessi.com/en/mydiveguide/destination/paphos-9749329). Last updated 2026-05-23.*
+*Sources: [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [divingincyprus.net](https://www.divingincyprus.net/Dive-Sites-Paphos.html), [divessi.com](https://www.divessi.com/en/mydiveguide/destination/paphos-9749329). Last updated 2026-07-27.*

@@ -42,4 +42,4 @@ No site-specific marine life reports found. Regional Mediterranean fauna applies
 - A motorbike reportedly on the seabed — ask local operators for current position
 
 ---
-*Description based on regional diving characteristics. Limited site-specific sources found: [wannadive.net](https://www.wannadive.net/spot/Middle_East/Cyprus/The_Bends/index.html). Last updated 2026-05-23.*
+*Description based on regional diving characteristics. Limited site-specific sources found: [wannadive.net](https://www.wannadive.net/spot/Middle_East/Cyprus/The_Bends/index.html). Re-searched 2026-07-27 — no additional site-specific sources found. Last updated 2026-07-27.*

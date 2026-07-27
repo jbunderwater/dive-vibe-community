@@ -49,4 +49,4 @@ Damselfish, painted combers, octopus, sea urchins, and moray eels are confirmed 
 - The Cathedral, Love Bridge Cave, and Blue Room are the three most distinctive named features
 
 ---
-*Sources: [underwater.journeys.cy](https://underwater.journeys.cy/logbook/sea-caves-cape-greco), [Easy Divers](https://www.ezdivers.com/the-caves/), [Thomas Cook - Cape Greco Sea Caves](https://www.thomascook.com/holidays/cyprus/ayia-napa/things-to-do/explore-the-sea-caves-of-cape-greco). Last updated 2026-05-23.*
+*Sources: [underwater.journeys.cy](https://underwater.journeys.cy/logbook/sea-caves-cape-greco), [Easy Divers](https://www.ezdivers.com/the-caves/), [Thomas Cook - Cape Greco Sea Caves](https://www.thomascook.com/holidays/cyprus/ayia-napa/things-to-do/explore-the-sea-caves-of-cape-greco). Last updated 2026-07-27.*
