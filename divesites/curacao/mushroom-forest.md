@@ -34,7 +34,7 @@ The site consistently appears on Caribbean and global top-10 dive lists. Dive op
 
 ## Marine Life
 
-Confirmed species at this site include spotted moray eels, porcupine fish (burrfish), southern stingrays, sea turtles, nurse sharks, cleaner shrimp, nudibranchs, parrotfish, angelfish, and butterflyfish. Giant moray eels are noted by Go West Diving as resident species. Barracuda and lobster are also regularly observed. An inflated surface marker buoy is required due to boat traffic in the area.
+Confirmed species at this site (Divers-Guide.com, Go West Diving) include spotted moray eels, porcupine fish (burrfish), southern stingrays, sea turtles, nurse sharks (frequently resting on the sandy plateaus and in the nearby Blue Room), lionfish, regal angelfish, cleaner shrimp, nudibranchs, parrotfish, and butterflyfish. Giant moray eels are noted by Go West Diving as resident species. This audit found barracuda and lobster mentioned in general regional round-ups rather than site-specific sources, so those two are flagged as less certain than the list above. An inflated surface marker buoy is required due to boat traffic in the area.
 
 ## Dive Profile
 
@@ -56,4 +56,4 @@ Boat dive only. Entry via giant stride or back roll. The remote location and ope
 Boat diving protocols apply. Deploy a surface marker buoy before ascending. The site is within Curaçao National Marine Park — do not touch or collect anything.
 
 ---
-*Sources: [DiveCuracao.info — Mushroom Forest](https://www.divecuracao.info/dive/curacao-diving-guide/mushroom-forest/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [PADI Dive Site — Mushroom Forest](https://www.padi.com/dive-site/curacao/mushroom-forest-2/). Last updated 2026-05-24.*
+*Sources: [DiveCuracao.info — Mushroom Forest](https://www.divecuracao.info/dive/curacao-diving-guide/mushroom-forest/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [PADI Dive Site — Mushroom Forest](https://www.padi.com/dive-site/curacao/mushroom-forest-2/), [Divers-Guide.com — Mushroom Forest](https://www.divers-guide.com/en/mushroom-forest). Re-audited 2026-07-27: coral-formation science and nurse-shark presence re-confirmed and strengthened with an additional source; added lionfish and regal angelfish (confirmed) while flagging barracuda/lobster as less certain. Last updated 2026-07-27.*

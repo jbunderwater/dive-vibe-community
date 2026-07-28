@@ -32,4 +32,4 @@ The wreck of Le Faon (MV Priamos / Orchard Reefer) lies adjacent to the islands 
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [SCUBA Travel – Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html), [Atlas & Boots – Diving in Djibouti](https://www.atlasandboots.com/travel-blog/diving-in-djibouti/). Last updated 2026-05-24.*
+*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [SCUBA Travel – Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html), [Atlas & Boots – Diving in Djibouti](https://www.atlasandboots.com/travel-blog/diving-in-djibouti/). Re-audited 2026-07-27: all sources re-pulled and confirmed live, no factual corrections required. Last updated 2026-07-27.*

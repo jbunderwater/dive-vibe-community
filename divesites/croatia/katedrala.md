@@ -2,8 +2,8 @@
 name: Katedrala
 lat: 44.3137
 lng: 14.6365833
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: cave
 ref: null
@@ -13,50 +13,49 @@ addedBy: osm_import
 
 ## Katedrala
 
-Katedrala ("Cathedral") is a large cavern dive site off the Dugi Otok (Long Island) area of northern Dalmatia. The site takes its name from the cathedral-like proportions of its main cavern chamber, which features soaring natural light that illuminates the interior in a remarkable way, particularly during morning dives.
+Katedrala ("The Cathedral") is a well-known cave system off Premuda, the westernmost island of the Zadar archipelago. It is named for the large, cupola-shaped main chamber with a porous, light-filtering ceiling, and is consistently listed by multiple dive operators as one of Premuda's signature dives.
 
 ## Overview
 
-The main chamber of Katedrala is one of the more impressive cavern formations accessible to recreational divers in Croatia. Natural light floods in through the entrance and illuminates sponge-encrusted walls, stalactite-like formations, and the serene interior of the cave. The cavern is accessible to around 20–25 metres depth, with the exterior reef descending further. Visibility in the clear Dalmatian waters surrounding Dugi Otok is typically excellent, often 20+ metres in summer.
+Katedrala is a complex of connected caves centred on a large, dome-shaped hall. Light filters through numerous natural openings in the porous ceiling, creating shafts of turquoise light inside the chamber — the feature the site is named for. Sources put the main cave system's depth in the 10–30 metre range, with additional tunnels and openings leading through the surrounding plateau to deeper areas for more experienced divers; general Premuda-area dives run from roughly 12–20 metres down to a possible maximum around 48 metres on the deeper profiles. Multiple operators rate Katedrala as suited to advanced/experienced divers given the cave environment and depth range.
 
 ## Site Information
 
-- **Location**: Dugi Otok area, Northern Dalmatia, Croatia
+- **Location**: Off Premuda Island, Zadar Archipelago, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Generally minimal inside the cavern
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: Good; sources describe strong light penetration and clear water
+- **Current**: Generally minimal
 - **Best Time**: May to October
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+Per dive-operator descriptions, the outer plateau near the cave hosts octopus, crabs, and rainbow wrasse, while the sandy seabed nearby is home to mullet, white two-banded bream, and dusky/sheepshead-type breams; the cave surfaces themselves carry sponges, soft corals, and polychaetes. These reports are specific to this site rather than generic regional lists.
 
 ## Dive Profile
 
-Approach the cavern entrance from the outside reef and enter the main chamber. The cathedral-like interior can be explored while maintaining a clear view of the entrance. The deepest accessible point reaches around 25 metres. Allow time to appreciate the extraordinary light effects inside. Exit the cavern and explore the surrounding reef before ascending for a 3-minute safety stop at 5 metres.
+Approach the cave entrance from the outer plateau and enter the main cupola-shaped chamber. The interior can be explored while maintaining a clear view back to the entrance/light sources. Additional tunnels and openings lead deeper through the surrounding plateau for advanced divers. Allow time to appreciate the light effects inside before exiting and ascending with a safety stop.
 
 ## Entry and Exit
 
-Dive boats from operators on Dugi Otok or Zadar serve this site. Entry by giant stride. The cavern provides natural shelter from light swell. Deploy an SMB when ascending to the surface.
+Dive boats from Premuda-based operators serve this site, typically a short (~20 minute) boat ride out. Entry by giant stride or back roll. Deploy an SMB on ascent in open water.
 
 ## Tips and Recommendations
 
-- Morning dives offer the most dramatic natural light penetration inside the cavern
-- A torch is essential even in the well-lit sections — it reveals the vivid colours of the encrusting life
-- Always maintain visual contact with the entrance — cavern diving principles apply at all times
-- The exterior reef surrounding the entrance is worth exploring as part of the same dive
-- This is one of Croatia's most photogenic dive sites — allocate time accordingly
+- Cave/cavern training and a torch are recommended even though the main chamber is well lit — the connecting tunnels are not
+- Always maintain orientation to the entrance and light sources
+- The outer plateau (octopus, wrasse, crabs) is worth exploring on the same dive
+- This is one of Croatia's most photogenic dive sites — allocate time for the light-shaft effect
 
 ## Safety Considerations
 
-Cavern diving rules apply: maintain orientation to the entrance, ensure all divers are equipped with torches, and never exceed the cavern-trained limits. The 25-metre maximum depth is well within recreational range. Dive with a buddy at all times.
+This is a cave dive, not a simple swim-through cavern — several sources rate it for advanced/experienced divers. Maintain orientation to the entrance, carry a torch, and do not exceed your training level in the connecting tunnels. Dive with a buddy at all times.
 
 ## Photography
 
 The signature shot at Katedrala is looking toward the cave entrance from inside, with the silhouette of a diver against the blue, light-filled opening. The cathedral-like proportions make this one of the most dramatic cavern photographs in the Mediterranean. A torch/strobe combination illuminates the vivid wall encrustation for detailed shots.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [Scuba Diving Croatia – The Cathedral (Katedrala), Premuda](https://scuba-diving-croatia.com/hr/listing/the-cathedral-katedrala-scuba-diving-in-premuda-croatia/), [Adria Diving – The Cathedral Cave, Premuda](https://adriadiving.com/diving_locations/the-cathedral-cave-premuda/), [Premuda Diving – Diving at Premuda Archipelago](https://www.premuda-diving.com/en/diving). Last updated 2026-07-27.*

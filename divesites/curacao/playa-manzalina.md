@@ -35,7 +35,7 @@ The site is quiet even on weekends, making it a good choice for photographers an
 
 ## Marine Life
 
-Confirmed species: lobsters, lionfish, moray eels, and angelfish. The site also hosts a range of sponge species including barrel sponges, vase sponges, and encrusting sponges. Hard coral coverage is high in the 10–20 metre zone.
+Confirmed species (Divers-Guide.com, ShoreDivingCuracao): lobsters, lionfish, moray eels, and angelfish, plus cleaner shrimp, arrow crabs, and Pederson shrimp found among the site's anemones. The site also hosts a range of sponge species. Hard coral coverage is high in the 10–20 metre zone, with some coral heads showing the mushroom-like bio-eroded bases also seen at nearby Mushroom Forest.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Coral rubble entry: reef shoes required. The entry is described as fairly clean 
 Remote location with no immediate emergency services — dive conservatively and inform someone of your plans. The plantation road access can be difficult after rain. A surface marker buoy is required.
 
 ---
-*Sources: [DiveCuracao.info — Playa Manzaliña](https://www.divecuracao.info/dive/curacao-diving-guide/playa-manzalina/), [Divers-Guide.com — Playa Manzalina](https://www.divers-guide.com/en/playa-manzalina-392), [ShoreDivingCuracao — Playa Manzaliña](https://shoredivingcuracao.com/dive-sites/west/36-san-juan-playa-manzalina). Last updated 2026-05-24.*
+*Sources: [DiveCuracao.info — Playa Manzaliña](https://www.divecuracao.info/dive/curacao-diving-guide/playa-manzalina/), [Divers-Guide.com — Playa Manzalina](https://www.divers-guide.com/en/playa-manzalina-392), [ShoreDivingCuracao — Playa Manzaliña](https://shoredivingcuracao.com/dive-sites/west/36-san-juan-playa-manzalina). Re-audited 2026-07-27: core species list (lobster, lionfish, moray eels, angelfish) re-confirmed and expanded with cleaner shrimp, arrow crabs, and Pederson shrimp. Last updated 2026-07-27.*

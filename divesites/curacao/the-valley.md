@@ -19,7 +19,7 @@ The Valley at Porto Marie is a shore dive on Curaçao's west coast featuring a d
 
 Porto Marie Beach (also called Playa Porto Mari) operates as a private beach with an entrance fee. The "Valley" refers to the sandy channel that runs between the two parallel reef systems accessible from the beach.
 
-The first reef begins at approximately 15 metres; the sandy valley floor connects to the second reef at approximately 18 metres. Forum divers describe the site as a "triple reef" with distinct left, middle, and right reef sections accessible from the same beach entry, with the middle reef reaching approximately 27 metres (90 feet). The two or three reefs look notably different from each other — one reason this site rewards multiple dives.
+The first reef begins at approximately 15 metres; the sandy valley floor connects to the second reef at approximately 18 metres. Most dive-guide sources (DiveCuracao.info, Divers-Guide.com, Ocean Encounters) describe Porto Marie as a double reef separated by a sand channel; some forum divers instead describe a "triple reef" with distinct left, middle, and right sections, with the middle reef reaching approximately 27 metres (90 feet). Both descriptions agree the reefs look notably different from each other — one reason this site rewards multiple dives.
 
 ## Site Information
 
@@ -55,4 +55,4 @@ The sandy beach provides easy entry for all experience levels. The Porto Marie B
 The sandy valley between reefs is a disorientation risk for divers unfamiliar with the site — know your compass bearing back to the beach. The site is busy on weekends. A surface marker buoy is required.
 
 ---
-*Sources: [DiveCuracao.info — Porto Marie](https://www.divecuracao.info/dive/curacao-diving-guide/porto-mari/), [ScubaBoard — Curaçao Best Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Site — Porto Mari](https://www.padi.com/dive-site/curacao/porto-mari/). Last updated 2026-05-24.*
+*Sources: [DiveCuracao.info — Porto Marie](https://www.divecuracao.info/dive/curacao-diving-guide/porto-mari/), [ScubaBoard — Curaçao Best Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Site — Porto Mari](https://www.padi.com/dive-site/curacao/porto-mari/), [Porto Mari Dive Center — Marine Life of Curaçao](https://www.portomaridivecenter.com/en/dive-and-snorkel-guide-curacao/marine-life-of-curacao~E3ArWzDq/). Re-audited 2026-07-27: full species list and double-vs-triple-reef naming both re-confirmed and cross-checked; noted that "double reef" is the more common official description with "triple reef" as a forum variant, rather than presenting one as definitive. Last updated 2026-07-27.*

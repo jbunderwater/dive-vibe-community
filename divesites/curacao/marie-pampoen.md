@@ -33,7 +33,7 @@ The Dive Bus operates from this location and offers equipment rental, guided div
 
 ## Marine Life
 
-Confirmed species at this site: large schools of tarpon (a defining feature, particularly near the Car Pile), moray eels, lionfish, parrotfish, angelfish, scorpionfish, octopus, pufferfish, snappers, grunts, and various reef fish. The tarpon schools are a reliable encounter — one of the better tarpon sites on the island for shore diving.
+Confirmed species at this site (Divers-Guide.com/Duikersgids "Car Pile" page): a resident school of roughly 30 tarpon near the Car Pile, moray eels, yellowtail snappers, spotted scorpionfish, big parrotfish, and southern stingrays on the sandy patches. The tarpon school is a reliable encounter — one of the better tarpon sites on the island for shore diving. Angelfish, octopus, pufferfish, and lionfish are also commonly reported for this general reef system, though this audit found them less consistently documented as Marie Pampoen-specific sightings than the species above.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Harbour entry with minimal coral rubble. Reef shoes recommended. The protected h
 The Car Pile has entanglement hazards — navigate carefully around metal protrusions. A surface marker buoy is recommended for ascent. Be aware of boat traffic in the harbour area.
 
 ---
-*Sources: [Divers-Guide.com — Marie Pampoen](https://www.divers-guide.com/en/marie-pampoen), [DiveCuracao.info — Dive Sites](https://www.divecuracao.info/dive/curacao-diving-guide/), [Scubacao.com — Marie Pampoen](https://scubacao.com/places/marie-pampoen/). Last updated 2026-05-24.*
+*Sources: [Divers-Guide.com — Marie Pampoen](https://www.divers-guide.com/en/marie-pampoen), [Divers-Guide.com — Car Pile](https://www.divers-guide.com/en/car-pile), [DiveCuracao.info — Dive Sites](https://www.divecuracao.info/dive/curacao-diving-guide/), [Scubacao.com — Marie Pampoen](https://scubacao.com/places/marie-pampoen/). Re-audited 2026-07-27: Car Pile dating (1940s cars, dumped in the 1960s) and tarpon-count claim re-confirmed; marine life list tightened to distinguish site-specific vs. general-area sightings. Last updated 2026-07-27.*

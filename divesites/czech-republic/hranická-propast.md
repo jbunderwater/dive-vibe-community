@@ -31,7 +31,7 @@ Hranická Propast (Hranice Abyss) is located within the Hůrka u Hranic National
 
 ## Notable Explorations
 
-Polish explorer Krzysztof Starnawski set multiple depth records over successive expeditions: reaching 181 m in 2000, 217 m in 2012, and 265 m in 2015 — all on closed-circuit rebreather. In 2016, a GRALmarine ROV reached 404 m. In August 2022, the UX1-Neo AUV operated by UNEXMIN Georobotics descended to 450 m underwater without reaching the bottom. Access to the cave for diving is restricted to members of the Hranický Karst Diving Club; open-circuit equipment is prohibited due to bubble damage to cave walls. The cave's geological formation involves upwelling waters, though the precise mechanism remains under scientific study.
+Polish explorer Krzysztof Starnawski set multiple depth records over successive expeditions: reaching 181 m in 2000, 217 m in 2012, and 265 m in 2015 — all on closed-circuit rebreather. In 2016, a GRALmarine ROV reached 404 m. On 1 August 2022, the UX1-Neo AUV operated by UNEXMIN Georobotics descended to 450 m underwater without reaching the bottom, a record confirmed by multiple Czech news outlets. Access to the cave for diving is restricted to members of the Hranický Karst Diving Club; open-circuit equipment is prohibited due to bubble damage to cave walls. The cave's geological formation involves upwelling waters, though the precise mechanism remains under scientific study.
 
 ## Safety Considerations
 
@@ -44,4 +44,4 @@ This is not a recreational dive site. Access is restricted within the national n
 - The nearby Lom Opatovice u Hranic offers accessible quarry diving in the same region
 
 ---
-*Sources: [Wikipedia - Hranice Abyss](https://en.wikipedia.org/wiki/Hranice_Abyss), [InDepth Magazine - Deepest Flooded Abyss](https://indepthmag.com/deepest-flooded-freshwater-abyss-in-the-world/), [UNEXUP Project](https://unexup.eu/hranicka-propast/). Last updated 2026-05-23.*
+*Sources: [Wikipedia - Hranice Abyss](https://en.wikipedia.org/wiki/Hranice_Abyss), [InDepth Magazine - Deepest Flooded Abyss](https://indepthmag.com/deepest-flooded-freshwater-abyss-in-the-world/), [UNEXUP Project](https://unexup.eu/hranicka-propast/), [Deník.cz - Nový světový rekord Hranické propasti](https://www.denik.cz/regiony/hranicka-propast-rekord-hloubka-2022.html). Last updated 2026-07-27.*

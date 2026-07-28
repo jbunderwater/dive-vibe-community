@@ -15,8 +15,9 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz,soprassub.com,apneasite.cz",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "stranypotapecske.cz,soprassub.com,apneasite.cz,wikipedia.org",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited 2026-07-27. Sources disagree on lake area (55-65 ha) and depth (40-70m); 40m is the commonly cited diveable/marked depth. Noted as a range in the markdown rather than picking one figure."
     }
   },
   {
@@ -34,10 +35,10 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "stranypotapecske",
-      "validated": "false",
-      "validation_source": "stranypotapecske.cz",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Only 1 independent source found. Needs 2 additional sources to confirm validated."
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz,obeclestinka.cz,lokality.geology.cz",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Now has 3 independent sources. Sources disagree on when mining ceased in this quarry system (geology.cz says 1950s; obeclestinka.cz implies later, closer to end of 20th century) - flagged in markdown as unresolved."
     }
   },
   {
@@ -56,8 +57,8 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz,stredni-morava.cz,infocentrum-hranice.cz",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "stranypotapecske.cz,stredni-morava.cz,infocentrum-hranice.cz,regiontourist.cz",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -75,10 +76,10 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "stranypotapecske",
-      "validated": "false",
-      "validation_source": "stranypotapecske.cz,tourismato.cz",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Historical claims about H. Kulka company and 1918-1919 railway found in only 1 source (stranypotapecske.cz). Needs 2 more independent sources for full validation."
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz,tourismato.cz,vedazive.cz",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "H. Kulka a spol. / 1918-1919 railway spur history now confirmed by a third independent source (vedazive.cz), in addition to stranypotapecske.cz and tourismato.cz."
     }
   },
   {
@@ -98,7 +99,8 @@
       "addedBy": "stranypotapecske",
       "validated": "true",
       "validation_source": "stranypotapecske.cz,divessi.com,wikipedia.org",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited. The reservoir has multiple distinct named dive entry points (e.g. Měřín beach vs. the dam/hráz-náplavka entry) with different wreck features at different depths - not a data conflict, just different sub-sites within the same reservoir."
     }
   },
   {
@@ -116,10 +118,9 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "stranypotapecske",
-      "validated": "false",
-      "validation_source": "stranypotapecske.cz",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Only 1 source found. Needs 2 additional independent sources to confirm validated."
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz,kudyznudy.cz,wikipedia.org",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -138,8 +139,9 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz,wikipedia.org,mubruntal.cz",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "stranypotapecske.cz,wikipedia.org,mubruntal.cz,poznatsvet.cz",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "A claim that the submerged bridge was designed by engineer Rudolf Saliger appeared in one aggregated search result but could not be confirmed on a direct source fetch, so it was NOT added to the markdown."
     }
   },
   {
@@ -157,10 +159,10 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "stranypotapecske",
-      "validated": "false",
-      "validation_source": "stranypotapecske.cz",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "Only 1 source found. Specific fish species (grass carp, silver carp, catfish, crayfish) confirmed only by stranypotapecske.cz. Needs 2 more independent sources."
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz,perseus-diving.cz,kudyznudy.cz",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Fish species list (carp, perch, pike, catfish, crayfish) now independently confirmed by perseus-diving.cz, matching stranypotapecske.cz."
     }
   },
   {
@@ -179,8 +181,8 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz,divessi.com,divechamp.com",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "stranypotapecske.cz,divessi.com,divechamp.com,denik.cz,poznatsvet.cz",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -199,8 +201,9 @@
       "source": "curated",
       "addedBy": "stranypotapecske",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz,divechamp.com,divebuddy.com",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "stranypotapecske.cz,divechamp.com,divebuddy.com,wikipedia.org,itras.cz",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "The caisson is named 'Permon' and was the site of a 1967 saturation-diving-style experiment (Vilem Kocian and Vladimir Geist, 100 hours at 25m) confirmed by 2 sources (cs.wikipedia.org, denik.cz). Sources disagree on the month (Wikipedia: November 21-26 1967; aggregated denik.cz result: September 21-26 1967) - flagged as a conflict in the markdown rather than picking one."
     }
   },
   {
@@ -219,8 +222,8 @@
       "source": "curated",
       "addedBy": "curated",
       "validated": "true",
-      "validation_source": "wikipedia.org,indepthmag.com,unexup.eu",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "wikipedia.org,indepthmag.com,unexup.eu,denik.cz",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -239,8 +242,9 @@
       "source": "curated",
       "addedBy": "curated",
       "validated": "true",
-      "validation_source": "scubaboard.com,divemagazine.com,visitczechia.com",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "scubaboard.com,divemagazine.com,visitczechia.com,stranypotapecske.cz,wikipedia.org",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited. Depth figures vary by source: stranypotapecske.cz reports roof ~30m/base ~45m with typical dives to 55m; other sources (incl. our original 45-60m) and cs.wikipedia (~40-50m at normal level) are broadly consistent given reservoir level fluctuation. Kept as a range in markdown rather than a single number."
     }
   },
   {
@@ -259,8 +263,9 @@
       "source": "curated",
       "addedBy": "curated",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz,helidat.cz,collectspace.com",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "stranypotapecske.cz,helidat.cz,collectspace.com,poznatsvet.cz,novinky.cz,radio.cz",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Wreck history deep-researched across 5+ independent sources. Crash facts (28 Oct 2001, near Okrouhla Radoun, Mi-8S/0829, Cernan+Remek+Blaha aboard among 12, no fatalities, 4 injured) are well corroborated. Cause was originally attributed to a fuel float-switch/technician error, but a Prague technician tried for the crash was ACQUITTED by the Pisek district court in Sept 2004 for insufficient evidence - markdown updated to reflect this rather than stating the cause as settled fact. Also corrected: the quarry saw a second, brief period of granite extraction in the 1990s in addition to 1922-1970 (poznatsvet.cz), not previously reflected. Helicopter wreck depth also has a minor conflict: 6-8m (2 sources, used in markdown) vs a single outlying report of ~11m (poznatsvet.cz) - noted."
     }
   },
   {
@@ -279,8 +284,8 @@
       "source": "curated",
       "addedBy": "curated",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz,divessi.com,seahorsediving.cz",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "stranypotapecske.cz,divessi.com,seahorsediving.cz,ekolist.cz",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -299,8 +304,9 @@
       "source": "curated",
       "addedBy": "curated",
       "validated": "true",
-      "validation_source": "stranypotapecske.cz,lestinkalom.cz,soprassub.com",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "stranypotapecske.cz,lestinkalom.cz,soprassub.com,turistika.cz",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "Re-audited. Caisson depth reported as 18m by one source (turistika.cz aggregate) vs 20m in our original text - noted as a range. Fish species list has minor variance across sources (roach reported by one source vs bream in our original) - kept species confirmed across sources, flagged the discrepancy rather than silently picking one."
     }
   },
   {
@@ -318,10 +324,10 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "curated",
-      "validated": "false",
-      "validation_source": "stranypotapecske.cz,buddymag.cz",
-      "last_qa_date": "2026-05-23",
-      "qa_note": "buddymag.cz URL returned 503. Cannot confirm second source. Needs re-verification."
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz,hn.cz,svetcestovatele.cz",
+      "last_qa_date": "2026-07-27",
+      "qa_note": "buddymag.cz is dead (persistent 503) and was dropped as a source, replaced with two working independent sources (vikend.hn.cz, svetcestovatele.cz). Fish species (catfish, carp, pike, perch) now site-specifically confirmed by vikend.hn.cz. Quarry dimensions have a minor conflict: 130x90m (most sources) vs 80x100m (svetcestovatele.cz) - noted in markdown."
     }
   }
 ]

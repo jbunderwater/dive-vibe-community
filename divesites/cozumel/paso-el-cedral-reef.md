@@ -2,7 +2,7 @@
 name: Paso El Cedral Reef
 lat: 20.314525
 lng: -87.033863
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 18
 entryType: boat
 siteType: reef
@@ -24,15 +24,15 @@ Paso El Cedral sits near the passage (paso) leading to El Cedral — the island'
 - **Location**: Southern leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
-- **Current**: Light to moderate drift
+- **Current**: Moderate, and can strengthen noticeably on the adjacent wall section — sources vary from "gentle" to "moderate to strong" depending on the day and depth
 - **Best Time**: Year-round; southern position provides some additional shelter from northern swells
 
 ## Marine Life
 
-Paso El Cedral is a reliable turtle site — the southern reefs of Cozumel see high densities of hawksbill and green turtles, and El Cedral is no exception. Southern stingrays forage in sandy pockets between coral formations. Large nurse sharks rest in the sheltered areas between coral ridges, untroubled by passing divers. The coral growth here includes healthy stands of elkhorn coral in the shallows — one of the Caribbean's most ecologically important but now threatened coral species. The endemic splendid toadfish has been reliably sighted at this site; seek them in reef crevices at 10–15 meters.
+Multiple dive-shop sources confirm turtles (green and hawksbill), nurse sharks, and southern stingrays at Paso El Cedral. Green moray eels, black groupers, and schools of grunts, porkfish, and snappers are also documented here. The endemic splendid toadfish is reported at this site — seek them in reef crevices. Coral formations include brain coral, elkhorn coral, and sea fans per operator descriptions. Less commonly reported extras include eagle rays, seahorses, and scorpionfish.
 
 ## Dive Profile
 
@@ -64,4 +64,4 @@ The shallow elkhorn coral is a compelling wide-angle subject — the branching a
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel — Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Blue Note Scuba — Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Cozumel Scuba — Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/). Last updated 2026-05-23.*
+*Sources: [The Reefs of Cozumel — Paso De Cedral Reef](https://www.reefsofcozumel.com/cedral.html), [Cozumel Scuba — Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [PADI Dive Site — Paso de Cedral](https://www.padi.com/dive-site/mexico/paso-de-cedral/), [BlueProject Cozumel — Diving El Paso del Cedral Reef](https://blueprojectcozumel.com/diving-el-paso-del-cedral-reef-in-cozumel-dive-site/). Last updated 2026-07-27.*

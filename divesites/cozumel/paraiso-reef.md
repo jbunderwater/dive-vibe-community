@@ -3,7 +3,7 @@ name: Paraiso Reef
 lat: 20.4167169
 lng: -87.0309448
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Cozumel's closest accessible reef to the main cruise ship pier — a gentle, sha
 
 ## Overview
 
-Paraiso (Spanish for "paradise") is named after the adjacent Rancho Paraiso and is located directly south of the Puerto Maya international cruise ship terminal dock. It is the northernmost reef within the Arrecifes de Cozumel National Park. Its proximity to the dock makes it one of the most frequently visited reefs in Cozumel, and local operators have excellent familiarity with its conditions. The site is a large reef system in three sections at approximately 5 meters, 13 meters, and 18 meters depth — with abundant coral and sponges on the 18-meter level before the reef slopes into the abyss. The mild northward drift is consistent, making it genuinely beginner-appropriate.
+Paraiso (Spanish for "paradise") is named after the adjacent Rancho Paraiso and is located directly south of the Puerto Maya international cruise ship terminal dock — confirmed by multiple independent sources. It is described as the northernmost reef within the Arrecifes de Cozumel National Park. Its proximity to the dock makes it one of the most frequently visited reefs in Cozumel, and local operators have excellent familiarity with its conditions. The site consists of three parallel patch-reef sections (North, Middle, South) in the roughly 9–15 meter (30–50 foot) range; sources vary on exact per-section depths, so treat individual section depths as approximate rather than fixed. The mild, generally northward drift is consistent, making it genuinely beginner-appropriate.
 
 **Important current warning**: Because Paraiso is situated immediately south of the Puerto Maya cruise ship pier, strong current can carry ascending divers toward the active pier — a genuine hazard unique to this site's position. Deploy your SMB before ascending and follow your divemaster's ascent location precisely.
 
@@ -27,18 +27,18 @@ Paraiso (Spanish for "paradise") is named after the adjacent Rancho Paraiso and 
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 18–30 meters (60–100 feet)
 - **Current**: Light to moderate northward drift
 - **Best Time**: Year-round; consistent conditions in the leeward position
 
 ## Marine Life
 
-Paraiso is one of Cozumel's best turtle sites — both green and hawksbill turtles are seen on virtually every dive, often in multiples. Nurse sharks rest in sandy areas between coral heads and are accustomed to diver presence. Southern stingrays forage in the sand. Moray eels of several species occupy the coral crevices, and spotted drums — among the Caribbean's most striking reef fish — pirouette near the larger coral heads. The endemic splendid toadfish has been consistently documented at Paraiso. Large aggregations of schoolmaster snappers and grunt species shelter under coral ledges. The sea fan gardens support healthy flamingo tongue cowrie populations.
+Turtles are occasionally sighted at Paraiso, though sources do not consistently confirm species or frequency, so treat sightings as possible rather than guaranteed. Nurse sharks are an occasional sighting resting in sandy areas between coral heads. Southern stingrays forage in the sand. Moray eels occupy coral crevices, and spotted drums — among the Caribbean's most striking reef fish — pirouette near the larger coral heads. The endemic splendid toadfish has been consistently documented at Paraiso across multiple sources. Snapper and grunt species shelter under coral ledges. Claims of "virtually every dive" turtle encounters and flamingo tongue cowrie populations could not be independently confirmed for this site and have been removed.
 
 ## Dive Profile
 
-A gentle descent to the sandy floor at 12–15 meters, followed by a relaxed drift through the coral head field. The average diver completes the drift in 50–65 minutes, finishing with a comfortable ascent to the reef crest at 5–8 meters for the safety stop. The two sections (Norte and Sur) are often combined into one extended drift. The boat follows your SMB throughout.
+A gentle descent to the sandy floor at 9–15 meters, followed by a relaxed drift through the coral head field. The average diver completes the drift in 50–65 minutes, finishing with a comfortable ascent to the reef crest at 5–8 meters for the safety stop. The site's parallel sections are sometimes combined into one extended drift depending on the operator and conditions. The boat follows your SMB throughout.
 
 ## Entry and Exit
 
@@ -48,7 +48,7 @@ Proximity to the cruise piers means boat rides are only 5–10 minutes. Mooring 
 
 - Arrive early (before 9am) to beat the crowds from cruise ships that anchor throughout the day
 - The spotted drum performs a distinctive figure-eight swimming pattern — look near larger coral heads at 8–12 meters
-- Both sections of Paraiso differ slightly in coral density; ask your operator which they plan to visit
+- Paraiso's sections differ slightly in coral density; ask your operator which they plan to visit
 - Night dives at Paraiso are extremely popular and reveal the Caribbean's nocturnal residents
 - This site is an ideal first drift dive given its reliable, gentle current
 
@@ -58,7 +58,7 @@ The main safety considerations are boat traffic and the proximity to the cruise 
 
 ## Photography
 
-Paraiso is a photographer-friendly site with clear shallow water and approachable subjects. Turtles here are accustomed to divers and allow close, unhurried portraits. The spotted drum's elegant movements make for excellent behavioural shots. Wide-angle captures the coral head formations with divers silhouetted in the background. Macro opportunities include flamingo tongue cowries, Christmas tree worms, and the resident spotted morays.
+Paraiso is a photographer-friendly site with clear shallow water and approachable subjects. The spotted drum's elegant movements make for excellent behavioural shots. Wide-angle captures the coral head formations with divers silhouetted in the background. Macro opportunities include Christmas tree worms and the resident moray eels.
 
 ## Additional Resources
 
@@ -66,4 +66,4 @@ Paraiso is a photographer-friendly site with clear shallow water and approachabl
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel — Paradise Reef](https://www.reefsofcozumel.com/paradise.html), [Pro Dive International — Paradise Reef](https://www.prodiveinternational.com/dive-site/paradise-reef/), [PADI Dive Site — Paradise Reef](https://www.padi.com/dive-site/mexico/paradise-reef-4/), [Blue Note Scuba — Paradise Reef Cozumel](https://www.bluenotescuba.com/paradise-reef-cozumel). Last updated 2026-05-23.*
+*Sources: [The Reefs of Cozumel — Paradise Reef](https://www.reefsofcozumel.com/paradise.html), [PADI Dive Site — Paradise Reef](https://www.padi.com/dive-site/mexico/paradise-reef-4/), [Blue Note Scuba — Paradise Reef Cozumel](https://www.bluenotescuba.com/paradise-reef-cozumel), [Pro Dive International — Paradise Reef](https://www.prodiveinternational.com/dive-site/paradise-reef/). Last updated 2026-07-27.*

@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Medova Buža
 
-Medova Buža is a very shallow cave and cavern site off the central Dalmatian coast near the Šibenik area. With a maximum depth of just 4 metres, this is an ideal introduction to cavern environments for beginners and snorkellers, and also serves as a relaxed, no-pressure dive for certified divers.
+Medova Buža ("Bear's Hole") is a partially submerged cave system on the island of Rab, near Lopar and Supetarska Draga, in the Kvarner Gulf. With a maximum depth of just 4 metres, this is an ideal introduction to overhead/cavern environments for trained divers, though its confined spaces still demand proper cave/cavern training.
 
 ## Overview
 
-"Buža" in Croatian refers to a hole or opening, and Medova Buža is characterised by its shallow rocky cave entrances that open up into small cavern chambers barely below the surface. The site is essentially a snorkel-depth cave system where natural light floods the interior throughout. The cave walls are covered in colourful encrusting organisms including sponges, anemones, and coralline algae, vividly illuminated by the sun penetrating the clear Adriatic water.
+"Buža" in Croatian refers to a hole or opening. Medova Buža consists of three connected cave passages developed in Upper Cretaceous–to–Holocene limestone and breccia, with a documented total length of about 107 metres per a published speleodiving survey. The entrance and most of the cave floor are submerged, with sea depth reaching a maximum of about 4 metres, but much of the cave volume beyond the entrance is air-filled cavity, not open water. Despite the shallow depth, the overhead, confined nature of the passages means divers need appropriate cave/cavern certification and experience — this is not a simple open-water swim-through.
 
 ## Site Information
 
-- **Location**: Central Dalmatian Coast, Croatia
+- **Location**: Near Lopar / Supetarska Draga, Rab Island, Kvarner Gulf, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 4 meters
-- **Typical Visibility**: 10–20 meters
+- **Typical Visibility**: Good; clear Kvarner water
 - **Current**: Minimal
 - **Best Time**: April to November
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+No site-specific marine life reports found. Regional Adriatic/Kvarner fauna applies; the cave walls do host encrusting sponges and coralline growth typical of shaded Adriatic cave environments.
 
 ## Dive Profile
 
@@ -40,23 +40,22 @@ The entire dive takes place at 0–4 metres. Enter the cave entrance and explore
 
 ## Entry and Exit
 
-Dive boats from operators in the Šibenik area access this site. Entry by giant stride or back roll, or swimmers can enter directly. The site is suitable for both scuba and snorkel exploration.
+Dive boats from operators on Rab (e.g. near Lopar/Supetarska Draga) access this site. Entry by giant stride or back roll at the cave mouth; snorkellers can also access the entrance area directly.
 
 ## Tips and Recommendations
 
-- An excellent first cavern experience for Open Water certified divers
-- Snorkellers will enjoy this site as much as scuba divers — the shallow depth is ideal
-- Bring a torch even at this depth — it reveals the full colour range of encrusting organisms that appears washed out in ambient light
-- This is a great warm-up or cool-down dive when paired with deeper sites nearby
-- Children completing supervised diving experiences will enjoy this site
+- Cave/cavern certification and a torch are required for all divers entering the passages, despite the shallow depth
+- The shallow depth allows long bottom times, but air-filled cavity sections beyond the entrance mean this is not a casual swim-through
+- Pair with a deeper Rab or Kvarner site for a varied day of diving
+- Snorkellers can enjoy the entrance area without going into the confined passages
 
 ## Safety Considerations
 
-The very shallow depth makes this one of the safest dive sites in Croatia. Maintain awareness of rocky surfaces and avoid contact with the cave walls to protect the encrusting life. Cavern principles still apply — maintain orientation to the entrance at all times.
+The shallow water depth (max ~4m) limits decompression risk, but this remains an overhead-environment dive through confined, partially air-filled passages — proper cave/cavern training, a guide familiar with the site, and torches for all divers are required. Maintain orientation to the entrance at all times and avoid silting.
 
 ## Photography
 
-The shallow depth and strong ambient light make this an excellent photography site. Close-up shots of the cave wall organisms photograph well without strobes. The cave entrance with sunlight streaming in creates a beautiful natural frame.
+The shallow depth and clear water make this a workable photography site for cave/cavern-trained photographers, though ambient light fades quickly once inside the passages — bring a torch or strobe for the interior sections.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [Speleodiving, geomorphological and biospeleological research of Medova buža cave (Rab, Croatia) – Academia.edu](https://www.academia.edu/3532487/Speleoronila%C4%8Dka_geomorfolo%C5%A1ka_i_biospeleolo%C5%A1ka_istra%C5%BEivanja_%C5%A1pilje_Medove_bu%C5%BEe_na_otoku_Rabu_Speleodiving_geomorphological_and_biospeleological_research_of_Medova_bu%C5%BEa_cave_Rab_Croatia_), [Mirko Diving Center Rab – dive locations](https://mirkodivingcenter.com/ronjenje/ronilacke-lokacije/), [Evendo – Medova Buža](https://evendo.com/locations/croatia/kvarner/attraction/medova-buza). Last updated 2026-07-27.*

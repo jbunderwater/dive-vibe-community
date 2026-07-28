@@ -17,9 +17,9 @@ A rocky east-coast shore dive site on Cozumel's windward coast, named for the is
 
 ## Overview
 
-El Mirador (The Lookout) is located on Cozumel's eastern coast along the coastal road — the same area as the well-known clifftop viewpoint with its dramatic rock formations, natural bridges, and stone spires. The diving here is done by shore entry into one of several small bays formed by the rocky coastline. The bays offer partial shelter from the Caribbean swell, though conditions on the exposed east coast are variable and must be assessed on the day. Maximum depth is approximately 11 meters (35 feet), making this one of Cozumel's shallower dive sites. Marine life includes moderate reef fish populations at Intermediate difficulty.
+El Mirador (The Lookout) is located on Cozumel's eastern coast along the coastal road — the same area as the well-known clifftop viewpoint with its sea-carved rock arch, a popular photo stop reached by climbing onto the rock formation. Coleman Concierge's Cozumel dive guide lists it as a beach dive accessed via the free El Mirador parking lot, maximum depth 35ft (11m), Intermediate difficulty, with "surf in the bays and current during the dive" and dangerous undertow possible. Cozumel Mexico.net separately describes the area as offering both lookout/photography and snorkel/dive activity, with "crystal-clear waters" and "colorful fish and coral formations," though without depth or current specifics.
 
-**Note: Only 2 independent sources confirmed specific details for this site. Descriptions are informed by verified east-coast site character but should be treated as unvalidated.**
+**Important caveat**: multiple independent travel sources (Viator, TripAdvisor summaries, local travel blogs) that discuss El Mirador focus on it purely as a scenic rock-arch lookout point, several explicitly stating it is "not a swimming beach" due to dangerous waves and currents. This is consistent with the undertow warning below, but it also means El Mirador is thinly documented as an established dive site outside the two sources cited here — treat this description as unvalidated.
 
 ## Site Information
 
@@ -28,17 +28,17 @@ El Mirador (The Lookout) is located on Cozumel's eastern coast along the coastal
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 11 meters
-- **Typical Visibility**: Variable — east coast conditions affect clarity
-- **Current**: Variable; dangerous undertow can be present in the bays
-- **Best Time**: Calmer months (April–June) when Caribbean swell is lowest; assess conditions on the day
+- **Typical Visibility**: Not confirmed by any source found
+- **Current**: Variable; "surf in the bays and current during the dive," with dangerous undertow possible (colemanconcierge.com)
+- **Best Time**: Not specifically confirmed for this site; assess conditions on the day regardless of season
 
 ## Marine Life
 
-East-coast Cozumel reef fish populations with reduced diver pressure compared to the leeward sites. Marine life ratings at this site are moderate. Specific species confirmed here are limited by available sources.
+No source names specific species confirmed at this site. Cozumelmexico.net mentions "colorful fish and coral formations" in general terms only. Regional east-coast Caribbean reef fauna likely applies, but no species are listed here since none are site-specifically confirmed.
 
 ## Dive Profile
 
-Shore entry into one of the small bays formed by the rocky coastline. The reef formations are found at depths between 3 and 11 meters. Navigation stays within the relatively sheltered bay perimeter. Undertow and surge can be present — monitor conditions continuously and have a clear exit plan before entering. Bottom times can be extended given the shallow maximum depth.
+Shore entry into one of several small bays formed by the rocky coastline, to a maximum depth of about 11m (35ft) per colemanconcierge.com. No source provides a more detailed depth-by-zone profile. Navigation stays within the relatively sheltered bay perimeter. Undertow and surge can be present — monitor conditions continuously and have a clear exit plan before entering.
 
 ## Entry and Exit
 
@@ -47,13 +47,12 @@ Shore access from the coastal road (free parking area). The eastern coastline is
 ## Tips
 
 - Assess conditions carefully from shore before committing to entry
-- This site works best in calm morning conditions on the east coast
 - Keep maximum depth expectations low (35 feet) — this is a shallow exploration dive
-- The adjacent clifftop El Mirador lookout is worth visiting for the surface scenery before or after the dive
+- The adjacent clifftop rock arch is worth visiting for the surface scenery before or after the dive, but note it is described elsewhere as a lookout point rather than a swimming beach
 
 ## Safety
 
-Dangerous undertow has been specifically reported at this site. The exposed east coast makes this inappropriate as a solo dive. Have a safety plan including a designated surface observer when diving independently. Emergency response from San Miguel takes significantly longer from the east coast. No mooring buoys — boat support is not typical here.
+Dangerous undertow has been specifically reported at this site (colemanconcierge.com). The exposed east coast makes this inappropriate as a solo dive. Have a safety plan including a designated surface observer when diving independently. No mooring buoys — boat support is not typical here. No source quantifies emergency response time specifically for this site; plan conservatively given its east-coast, non-boat-served location.
 
 ---
-*Description based on limited source data: [Coleman Concierge — Cozumel Dive Guide](https://www.colemanconcierge.com/cozumel-dive-guide-and-map/), [Cozumel Mexico — El Mirador](https://cozumelmexico.net/El_Mirador_Cozumel.html). Fewer than 3 independent dive-specific sources found; not fully validated. Depth corrected from previous 22m to 11m (35ft), entry type corrected from boat to shore. Last updated 2026-06-16.*
+*Sources: [Coleman Concierge — Cozumel Dive Guide](https://www.colemanconcierge.com/cozumel-dive-guide-and-map/), [Cozumel Mexico — El Mirador](https://cozumelmexico.net/El_Mirador_Cozumel.html). scuba-diving-cozumel.com's "top 6" list mentions El Mirador by name only with no corroborating detail, so it does not count as a substantive 3rd source. Only 2 genuinely dive-specific sources found despite extensive search — NOT VALIDATED to the 3-source standard. Last updated 2026-07-27.*

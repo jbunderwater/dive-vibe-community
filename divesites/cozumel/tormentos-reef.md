@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Tormentos Reef
 
-A mid-island reef famous for its resident cleaning stations and impressive concentration of large invertebrates along the south-facing coral ridges.
+A mid-island reef with confirmed sightings of the Cozumel-endemic splendid toadfish, black grouper, and nurse sharks among its tunnels and overhangs.
 
 ## Overview
 
-Tormentos is a classic Cozumel intermediate site located along the island's central leeward coast, roughly midway between San Miguel and the southern reefs. The site name — "torments" in Spanish — likely refers to historical weather rather than dive conditions; Tormentos today is a friendly, manageable reef with consistent light drift current. The terrain consists of parallel coral ridges running perpendicular to the shoreline, intersected by sandy channels where stingrays rest and eagle rays cruise past. The spur-and-groove topography provides natural navigation markers making it one of the easier Cozumel reefs to orient on. Depths are moderate, reaching around 20 meters at the base of the spurs.
+Tormentos is a classic Cozumel intermediate-to-beginner site located along the island's central leeward coast. Two sources agree closely on depth: 50–60 feet (15–18 m), consistent with this entry's 20-meter maximum. Current is reported inconsistently between sources — one describes it as "usually experiencing a strong current," another as "mild to swift" — so it should not be assumed to be reliably light. The reef has "nice tunnels and overhangs" per one source, with reef formations 20–30 feet tall separated by sandy areas. A previous version of this page described a specific active "cleaning station" behavior at Tormentos (groupers queuing for cleaner wrasse); this could not be confirmed by any source checked during this audit and has been removed rather than repeated as fact.
 
 ## Site Information
 
@@ -27,16 +27,16 @@ Tormentos is a classic Cozumel intermediate site located along the island's cent
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
-- **Current**: Light to moderate northward drift
+- **Current**: Sources disagree — one describes it as usually strong, another as mild to swift; do not assume a consistently light current
 - **Best Time**: November to April for most stable conditions; diveable year-round
 
 ## Marine Life
 
-Tormentos hosts one of the most active cleaning stations in Cozumel. Large groupers and other reef fish queue at specific coral heads where cleaner wrasse remove parasites — observing this behaviour can occupy a full dive. The sandy channels between the spurs shelter southern stingrays that allow close approaches. Spotted eagle rays are regular visitors, soaring through the channels with effortless grace. The endemic splendid toadfish has been documented here — check coral crevices at mid-depth. Christmas tree worms, feather duster worms, and flamingo tongue cowries are abundant on the sponges and sea fans, making this a strong macro site alongside its larger-animal attractions.
+Splendid toadfish, the Cozumel endemic, are documented here under ledges and in holes — this is one of the better-confirmed claims for this site. Nurse sharks, black grouper, and turtles are commonly reported, along with damselfish, barracuda, spotted and green moray eels, angelfish, butterflyfish, parrotfish, and large schools of French grunts and other snappers gathering in overhangs. Eagle rays and stingrays are both confirmed by a species checklist for this site, though not described in behavioral detail. Occasional sightings also include honeycombed cowfish, spotted drums, seahorses, scorpionfish, and triggerfish. Cleaning-station behavior, Christmas tree worms, and flamingo tongue cowries from earlier text were not confirmed for this specific site by any source checked and have been dropped.
 
 ## Dive Profile
 
-Begin the dive at the reef crest around 5–8 meters and work down the spurs to the sandy channels at 15–20 meters. Follow a chosen spur seaward, explore the channel floor and adjacent spur faces, then return shoreward on the neighbouring spur. The light current assists your drift along the reef's orientation. Plan your safety stop in the shallows of the reef crest where brain corals and sea fans create shelter. Average bottom time of 45–55 minutes is standard at this depth.
+The reef features tunnels and overhangs with formations roughly 20–30 feet (6–9 m) tall separated by sandy areas, reaching a maximum of about 18–20 meters. Explore the tunnels and overhangs where toadfish, groupers, and grunts shelter. Current strength varies by report, so follow your divemaster's read of conditions on the day rather than expecting a light, easy drift. Plan your safety stop in the shallows where reef structure provides some shelter.
 
 ## Entry and Exit
 
@@ -44,19 +44,18 @@ Boat-only access from San Miguel or the hotel zone pier. Mooring buoys are maint
 
 ## Tips
 
-- Spend time hovering above the cleaning stations without approaching — you'll see more behaviour if you don't interrupt it
-- Look for splendid toadfish tucked under ledges on the spurs between 12 and 18 meters
-- This site pairs well with a morning at Yucab for a two-tank day covering both macro and general reef diving
-- The sandy channels are excellent places to scan for southern stingrays and garden eels
+- Look for splendid toadfish tucked under ledges — this Cozumel endemic is well documented here
+- Large schools of French grunts and snappers gather in the overhangs; check there for black grouper too
+- Confirm current conditions with your divemaster before the dive — reports on this site's typical current vary
 - Bring a dive light to illuminate the undersides of coral ledges even on day dives
 
 ## Safety
 
-Tormentos is a moderate site but fire coral is present on many coral structures — touching anything on the reef causes both ecological harm and personal injury. Current is generally manageable but can increase in the afternoon; morning dives are preferred. Always surface with your SMB deployed. The nearest recompression chamber is in San Miguel town.
+Fire coral is present on many coral structures at this site — touching anything on the reef causes both ecological harm and personal injury. Sources give conflicting reports on current strength (see Overview), so treat this as a site where conditions can be more demanding than "moderate" on a given day; always surface with your SMB deployed. The nearest recompression chamber is in San Miguel town.
 
 ## Photography
 
-The cleaning station behaviour at Tormentos is among the best behavioural photography available in Cozumel. Use a 60mm macro or a 105mm equivalent to capture the intimate interactions between groupers and cleaner wrasse. The Christmas tree worms embedded in brain corals are classic Caribbean macro subjects. Wide-angle works well for the sandy channels when an eagle ray passes through — keep your camera ready throughout the dive.
+Splendid toadfish under ledges reward a macro lens and patience — this is the best-confirmed macro subject at this site. Grouper and grunt schools in the overhangs offer additional macro and small-group subjects. Earlier text describing cleaning-station behavior and Christmas tree worms as photography highlights has been removed since neither was confirmed for this specific site.
 
 ## Additional Resources
 
@@ -64,4 +63,4 @@ The cleaning station behaviour at Tormentos is among the best behavioural photog
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel — Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Blue Note Scuba — Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Cozumel Scuba — Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Pro Dive International — Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-05-23.*
+*Sources: [The Reefs of Cozumel — Tormentos](https://www.reefsofcozumel.com/tormentos.html), [Blue Note Scuba — Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Scuba Diving Place — Tormentos](https://scubadiving.place/divesite/tormentos). Note: cozumelscuba.com's dive-site page did not include a Tormentos entry when re-checked, and prodiveinternational.com could not be fetched (no retrievable content); both dropped from this list pending re-verification. Last updated 2026-07-27.*

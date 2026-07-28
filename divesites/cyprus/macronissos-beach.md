@@ -41,4 +41,4 @@ No site-specific marine life reports found. Regional Mediterranean reef species 
 - Nearby Makronissos archaeological site adds interest for surface intervals
 
 ---
-*Sources: [DiveBuddy - Makronissos Beach](http://www.divebuddy.com/divesite/6421/makronissos-beach-in-ayia-napa-cyprus/), [theabroadguide.com](https://theabroadguide.com/first-time-scuba-dive-adventure-makronissos-ayia-napa/), [visitfamagusta.com.cy](https://visitfamagusta.com.cy/ayia-napa-beaches/). Last updated 2026-05-23.*
+*Sources: [DiveBuddy - Makronissos Beach](http://www.divebuddy.com/divesite/6421/makronissos-beach-in-ayia-napa-cyprus/), [theabroadguide.com](https://theabroadguide.com/first-time-scuba-dive-adventure-makronissos-ayia-napa/), [visitfamagusta.com.cy](https://visitfamagusta.com.cy/ayia-napa-beaches/). Last updated 2026-07-27.*

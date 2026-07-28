@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Galijola
 
-Galijola is a rocky reef and islet site in the Pag area of the northern Dalmatian coast. The reef surrounding this small rocky outcrop descends over sloping limestone faces to around 25 metres, offering classic Dalmatian reef diving in clear blue water. The exposed islet position promotes strong water movement and healthy marine life.
+Galijola is a small offshore islet/rock in the Kvarner Gulf, near Susak in the outer Cres-Lošinj archipelago — not "Pag Area, Northern Dalmatian Coast" as an earlier version of this page claimed. Those coordinates are roughly 150 km from Pag and the claim has been removed as unsupported.
 
 ## Overview
 
-The rocky reef at Galijola features broken limestone terrain with boulders, crevices, and small overhangs descending from the surface to approximately 25 metres. The substrate is encrusted with sponges, encrusting corals, and sea fans, and Posidonia seagrass meadows extend in the shallower sections. The site's open position in the northern Dalmatian channel means water clarity is typically excellent, reaching 15–20 metres or more.
+Multiple web searches independently associate a "Galijola"/"Galiolo"/"Galijula" islet with steep drop-off/wall diving in the Kvarner region near Susak, with reported depths in the 40-50 metre range on its exposed side. However, no source page could be directly retrieved and verified during this QA pass (the relevant listing pages returned access errors), so this description is not being upgraded to a confirmed wall/pinnacle site type. The site type, depth, and difficulty below are kept as inherited from the original OSM import pending direct source verification.
 
 ## Site Information
 
-- **Location**: Pag Area, Northern Dalmatian Coast, Croatia
+- **Location**: Islet near Susak, Cres-Lošinj archipelago, Kvarner Gulf, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Moderate; open position in the channel
-- **Best Time**: May to October
+- **Typical Visibility**: Not confirmed by any source
+- **Current**: Not confirmed by any source
+- **Best Time**: May to October (general Kvarner season)
 
 ## Marine Life
 
@@ -36,26 +36,24 @@ No site-specific marine life reports found. Regional Adriatic/Mediterranean faun
 
 ## Dive Profile
 
-Descend to the reef at 5–8 metres and follow the rocky slope down to 25 metres. Explore the crevice zones where eels and lobster shelter, then ascend the reef face slowly. The exposed position of the islet can generate current — plan the dive with current in mind and deploy an SMB on ascent.
+Not independently confirmed.
 
 ## Entry and Exit
 
-Dive boats from operators on Pag or the mainland access this site. Entry by giant stride. The exposed position requires careful surface entry and exit assessment. Always deploy an SMB for surfacing as boat pickup coordination is important here.
+Likely reached by boat from a Cres, Lošinj, or Susak-based operator given the location, but no specific operator listing was directly verified.
 
 ## Tips and Recommendations
 
-- Check current direction before the dive — the exposed islet position can create drift conditions
-- A torch helps find grouper and eels in the deeper crevices
-- Combine with other Pag area reef sites for a productive multi-dive day
-- Look for barracuda in the blue water above the reef in summer months
+- No site-specific tips available — this entry needs further research (with direct source verification) before it can be treated as validated
+- Confirm exact conditions and site character with a local Cres/Lošinj/Susak operator before diving
 
 ## Safety Considerations
 
-The exposed islet position can generate significant current — confirm sea state with the operator before diving. Deploy an SMB clearly when ascending. Dive with a buddy and maintain awareness of your position relative to the islet.
+Standard recreational diving precautions apply. Dive within your certification level, carry an SMB, and dive with a buddy. Site-specific hazards are not documented.
 
 ## Photography
 
-The clear open water around the islet provides excellent wide-angle opportunities. The rocky reef silhouetted against blue water, barracuda in the water column, and resident grouper portraits are all productive subjects. The Posidonia shallows offer intimate macro photography.
+No site-specific photography notes available.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-07-27.*

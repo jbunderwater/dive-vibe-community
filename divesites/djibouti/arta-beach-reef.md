@@ -32,4 +32,4 @@ The nearby headland Ras Eiro (east of Arta) offers more varied diving with drop-
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [The Scuba News – Djibouti's Top 10 Sites](https://www.thescubanews.com/2024/01/07/djiboutis-top-10-scuba-diving-sites/), [Scuba Diver Life – Best Scuba Diving in Djibouti](https://scubadiverlife.com/best-scuba-diving-dijibouti/). Last updated 2026-05-24.*
+*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [The Scuba News – Djibouti's Top 10 Sites](https://www.thescubanews.com/2024/01/07/djiboutis-top-10-scuba-diving-sites/), [Scuba Diver Life – Best Scuba Diving in Djibouti](https://scubadiverlife.com/best-scuba-diving-dijibouti/). Re-audited 2026-07-27: all three sources re-pulled and confirmed live; barracuda and green turtle claims reconfirmed against The Scuba News, no corrections required. Last updated 2026-07-27.*

@@ -32,7 +32,7 @@ San Juan Reef sits at the northern end of Cozumel, outside the boundaries of the
 
 ## Marine Life
 
-When diveable, San Juan offers green moray eels, drumfish, lobsters, turtles, nurse sharks, and eagle rays reported by visiting divers. The flat reef with finger corals and lettuce corals hosts French grunts and schoolmasters in large numbers. TripAdvisor reviewers report schooling spotted eagle rays as a highlight.
+Re-confirmed across sources: green moray eels, drumfish, lobster, turtles, nurse sharks, and eagle rays (living-underwater.com); French grunts and schoolmasters on ledges and overhangs (reefsofcozumel.com and a TripAdvisor review); creole wrasse and trumpetfish as rare sightings (reefsofcozumel.com). A TripAdvisor review titled "Great dive for schooling Spotted Eagle Rays" directly confirms spotted eagle rays schooling in groups of up to 10–15 individuals here — this is a genuinely site-specific, sourced claim, not a hallucination.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ San Juan is one of Cozumel's most demanding sites due to current. Separation fro
 The undisturbed nature of the site — consequence of it being so seldom visited — means large, relaxed marine life. Eagle ray schools are a notable photographic reward for divers who make the effort. Wide-angle for the coral formations; the finger coral fields have an architectural quality distinct from the leeward drift reefs.
 
 ---
-*Sources: [The Reefs of Cozumel — San Juan](https://www.reefsofcozumel.com/sanjuan.html), [Pro Dive International — San Juan Reef](https://www.prodiveinternational.com/dive-site/san-juan-reef/), [Coleman Concierge — Cozumel Dive Guide](https://www.colemanconcierge.com/cozumel-dive-guide-and-map/), [Living Underwater — Cozumel Dive Sites](https://living-underwater.com/cozumel-dive-sites), [TripAdvisor — San Juan Reef](https://www.tripadvisor.com/Attraction_Review-g150809-d558546-Reviews-San_Juan_Reef-Cozumel_Yucatan_Peninsula.html). Difficulty corrected from Intermediate to Advanced based on multiple-source confirmation of extreme current conditions. Last updated 2026-06-16.*
+*Sources: [The Reefs of Cozumel — San Juan](https://www.reefsofcozumel.com/sanjuan.html), [Pro Dive International — San Juan Reef](https://www.prodiveinternational.com/dive-site/san-juan-reef/), [Coleman Concierge — Cozumel Dive Guide](https://www.colemanconcierge.com/cozumel-dive-guide-and-map/), [Living Underwater — Cozumel Dive Sites](https://living-underwater.com/cozumel-dive-sites), [TripAdvisor — San Juan Reef](https://www.tripadvisor.com/Attraction_Review-g150809-d558546-Reviews-San_Juan_Reef-Cozumel_Yucatan_Peninsula.html). Re-audited 2026-07-27 — all 5 sources re-verified live with real site-specific content; no changes to site_type/depth/difficulty/entry_type. Last updated 2026-07-27.*

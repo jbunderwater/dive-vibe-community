@@ -44,4 +44,4 @@ Groupers, moray eels, trumpet fish, octopus, cuttlefish, flounders, sea bream, a
 - Shore entry approximately 10 minutes from Paphos dive centres
 
 ---
-*Sources: [Cyprus Island - Amphitheatre](https://www.cyprusisland.net/cyprus-diving/amphitheatre-diving-site), [Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/sun-sea/diving/amphitheatre/), [TD Diving](https://tddiving.com/paphos/). Last updated 2026-05-23.*
+*Sources: [Cyprus Island - Amphitheatre](https://www.cyprusisland.net/cyprus-diving/amphitheatre-diving-site), [Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/sun-sea/diving/amphitheatre/), [TD Diving](https://tddiving.com/paphos/). Last updated 2026-07-27.*

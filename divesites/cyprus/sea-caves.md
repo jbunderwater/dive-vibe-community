@@ -34,7 +34,7 @@ Shore entry is from the Peyia seafront. Boats also access the site from Paphos.
 
 ## Marine Life
 
-No site-specific marine life reports found. Mediterranean reef species typical of rocky cave habitat apply.
+The Peyia Sea Caves area is documented by Cyprus Island as a breeding site for the endangered Mediterranean monk seal (Monachus monachus), one of the rarest marine mammals in the world — divers and snorkellers should not approach or disturb any seal encountered. Beyond the monk seal reports, no further site-specific fish or invertebrate surveys were found; general Mediterranean reef species typical of rocky cave habitat can be expected.
 
 ## Tips and Recommendations
 
@@ -43,4 +43,4 @@ No site-specific marine life reports found. Mediterranean reef species typical o
 - One of the shallowest sites in the Paphos area — maximum bottom time on any certification level
 
 ---
-*Sources: [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [Cyprus Island - Sea Caves Peyia](https://www.cyprusisland.net/attractions/sea-caves-peyia-paphos), [divingincyprus.net](https://www.divingincyprus.net/Dive-Sites-Paphos.html). Last updated 2026-05-23.*
+*Sources: [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [Cyprus Island - Sea Caves Peyia](https://www.cyprusisland.net/attractions/sea-caves-peyia-paphos), [divingincyprus.net](https://www.divingincyprus.net/Dive-Sites-Paphos.html). Last updated 2026-07-27.*

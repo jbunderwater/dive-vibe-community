@@ -21,7 +21,7 @@ Moucha Island and the adjacent Maskali Island lie within Djibouti's first marine
 
 Atlas & Boots, diving with local operator Dolphin Excursions, report batfish, glassfish, and snappers on the island's reef system. Sea turtles and dolphins are noted by Dive The World as regular visitors. The Egyptian Cruising itinerary identifies "Les Patates Air France" near Moucha as known for large grouper aggregations during the March–April mating season. No site-specific marine life inventories were found beyond these reported species.
 
-The wreck of Le Faon (MV Priamos / Orchard Reefer) — a 126-metre cargo vessel that caught fire in 1974 — lies adjacent to Moucha Island at 10–28 metres depth. Sources disagree on the ship's length (reports range from 120 to 135 metres); 126 metres is supported by the most detailed account. Most day trips from Djibouti City combine reef diving at Moucha with the Le Faon wreck.
+The wreck of Le Faon (MV Priamos / Orchard Reefer) — a 126-metre cargo vessel disabled by an engine-room fire or explosion in 1974 or 1975 (sources disagree on both the exact year and the cause; see the Le Faon Wreck entry for the full conflict) — lies adjacent to Moucha Island at 10–28 metres depth. Sources disagree on the ship's length (reports range from 120 to 135 metres); 126 metres is corroborated by two independent sources. Most day trips from Djibouti City combine reef diving at Moucha with the Le Faon wreck.
 
 ## Site Information
 
@@ -32,4 +32,4 @@ The wreck of Le Faon (MV Priamos / Orchard Reefer) — a 126-metre cargo vessel 
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [Atlas & Boots – Diving in Djibouti](https://www.atlasandboots.com/travel-blog/diving-in-djibouti/), [Egyptian Cruising – Djibouti Tadjoura Special](https://www.egyptiancruising.com/itineraries/djibouti-tadjoourah-special/). Last updated 2026-05-24.*
+*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [Atlas & Boots – Diving in Djibouti](https://www.atlasandboots.com/travel-blog/diving-in-djibouti/), [Egyptian Cruising – Djibouti Tadjoura Special](https://www.egyptiancruising.com/itineraries/djibouti-tadjoourah-special/), [Shipping Today & Yesterday – The Laeisz "Flying P" Line of Hamburg](https://shippingtandy.com/features/the-laeisz-flying-p-line-of-hamburg/). Re-audited 2026-07-27: sources re-pulled; Le Faon length cross-check strengthened with a second independent source (126m). Last updated 2026-07-27.*

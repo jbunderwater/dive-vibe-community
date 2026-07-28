@@ -36,7 +36,7 @@ The reef structure runs from just metres off the sandy beach down to 30 metres a
 
 ## Marine Life
 
-Confirmed species at this specific site include sea turtles (frequent), green moray eels, spotted eagle rays, creole wrasse, blue tangs, sergeant majors, schooling parrotfish, damselfish, trumpetfish, flamingo tongue cowries, cleaner shrimp, nudibranchs, finger corals, elkhorn corals, brain corals, star corals, soft corals, barrel sponges, and sea fans. Night dives at this site produce octopus and lobster.
+Confirmed species at this specific site (Divers-Guide.com log data): sea turtles (hawksbill and green, frequent), rays, green moray eels, grouper, trumpetfish, lionfish, French angelfish, seahorses, octopus, blue-striped grunts, and cuttlefish, alongside parrotfish, finger corals, elkhorn corals, brain corals, star corals, soft corals, barrel sponges, and sea fans. This audit did not find independent confirmation of creole wrasse, blue tangs, sergeant majors, damselfish, flamingo tongue cowries, cleaner shrimp, or nudibranchs at this specific site, or of the previously claimed night-dive octopus/lobster pattern, so those claims have been removed.
 
 ## Dive Profile
 
@@ -51,11 +51,11 @@ Sandy beach entry makes this one of the easiest shore entries on the island. Go 
 - Arrive early on weekends — the site is popular and the beach gets busy
 - Take advantage of Go West Diving's local knowledge for guided dive options
 - Look for the coral nursery frames in the shallow zone
-- Night dives here are highly rated for octopus and lobster
+- Watch for seahorses, octopus, and cuttlefish among the coral structures
 
 ## Safety Considerations
 
 Go West Diving staff are on-site and provide additional safety oversight. Boat traffic from the dive operator's excursion boats is present — deploy a surface marker buoy before ascending. The site is within Curaçao National Marine Park; do not collect or damage anything.
 
 ---
-*Sources: [DiveCuracao.info — Alice in Wonderland](https://www.divecuracao.info/dive/curacao-diving-guide/alice-in-wonderland/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [ScubaDiverLife — Alice in Wonderland Curaçao](https://scubadiverlife.com/dive-site-alice-in-wonderland-curacao/). Last updated 2026-05-24.*
+*Sources: [DiveCuracao.info — Alice in Wonderland](https://www.divecuracao.info/dive/curacao-diving-guide/alice-in-wonderland/), [Go West Diving — Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [ScubaDiverLife — Alice in Wonderland Curaçao](https://scubadiverlife.com/dive-site-alice-in-wonderland-curacao/), [Divers-Guide.com — Alice in Wonderland](https://www.divers-guide.com/en/alice-in-wonderland-400). Re-audited 2026-07-27: coral nursery and reef-structure facts re-confirmed; marine life list revised to match confirmed Divers-Guide.com log data, removing several species (creole wrasse, blue tangs, sergeant majors, damselfish, flamingo tongue cowries, cleaner shrimp, nudibranchs) and a night-dive claim that no source in this audit could corroborate. Last updated 2026-07-27.*

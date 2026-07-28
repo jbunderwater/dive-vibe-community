@@ -2,9 +2,9 @@
 name: Kricin
 lat: 44.966607
 lng: 14.7684364
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 25
-entryType: boat
+entryType: shore
 siteType: reef
 ref: null
 osmId: 663869748
@@ -13,49 +13,49 @@ addedBy: osm_import
 
 ## Kricin
 
-Kricin is a rocky reef site in the Cres Island area of the Kvarner, in the central Adriatic channel between Cres and the mainland. The site benefits from the strong tidal flow through the Kvarner, which delivers nutrients and promotes healthy sponge communities and abundant fish life.
+Kricin is a shore/house reef directly off the small beach of the same name in Baška, on the southeastern coast of Krk Island. It served as the house reef of the (now-closed) RARE-BIRD dive base and continues to be used by Squatina Diving in Baška for shore-entry and land-based dives, in addition to their boat trips out to Prvić Island.
 
 ## Overview
 
-The reef at Kricin features rocky terrain descending from the shallows to approximately 25 metres, with a mix of open rocky faces, boulders, and crevices. Encrusting sponges of various colours colonise the substrate from mid-depth down. The Kvarner's characteristic crystal-clear water provides excellent visibility, typically 15–20 metres. The water movement through this area keeps the Adriatic water well oxygenated, supporting a productive marine community.
+Kricin takes its name from the beach in Baška it fronts (coordinates confirmed via info-krk.com within ~40 m of this site's location). Divers describe it as a pleasant, easily accessible reef reached directly from shore rather than by boat — a former reviewer on taucher.net noted "das Boot und Hausriff (Kricin) liegen direkt vor der Basis" (the boat and house reef Kricin lie right in front of the base). The beach itself is shallow and sheltered, described by local tourism sources as suitable for children and non-swimmers, consistent with a gently sloping shore entry. Exact maximum depth was not given by any source found; the previous 25 m figure is retained pending further confirmation.
 
 ## Site Information
 
-- **Location**: Cres Island area, Kvarner, Croatia
-- **Entry Type**: Boat dive
+- **Location**: Kricin beach, Baška, Krk Island, Kvarner, Croatia
+- **Entry Type**: Shore entry
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Moderate; channel location increases current variability
+- **Typical Visibility**: Not specifically reported
+- **Current**: Not specifically reported; sheltered shore location
 - **Best Time**: May to October
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+No site-specific marine life reports were found beyond a single anecdotal taucher.net logbook mention of sea cucumber spawning activity, which was not independently corroborated. Regional Adriatic/Mediterranean fauna applies.
 
 ## Dive Profile
 
-Begin at the shallower reef sections and descend to 25 metres, exploring the rocky faces and crevices as depth increases. The 10–18 metre zone typically offers the best combination of marine life and comfortable depth. Ascend slowly and complete a 3-minute safety stop at 5 metres. In moderate current, a drift along the reef is possible.
+As a shore/house reef, Kricin is typically dived as a straightforward walk-in entry followed by a relaxed exploration of the reef terrain, historically used for check dives, training dives, and night dives by local operators. Depth progression was not detailed by sources; dive conservatively and within your training level.
 
 ## Entry and Exit
 
-Dive boats from Cres or Kvarner-area operators serve this site. Entry by giant stride. Deploy an SMB when ascending — the open Kvarner location requires clear surface signalling.
+Entry is directly from Kricin beach in Baška — historically about 30 metres from the former RARE-BIRD dive base, and still used by Squatina Diving for shore/land dives. No boat is required for this specific site, though local operators also run boat trips from Baška out to Prvić Island for other dives.
 
 ## Tips and Recommendations
 
-- Current awareness is important in the Kvarner channel — time the dive with the operator's guidance
-- A torch helps explore deeper crevices for any sheltering invertebrates
-- The channel location can produce excellent baitfish concentrations when current is running
-- Combine with a cave or wall dive from the Cres programme for a varied day
+- A good option for check dives, refresher dives, or an easy second dive of the day given its shore access
+- Because it's a shore entry, gear can be carried directly to the water rather than loaded onto a boat
+- Combine with a boat trip to Prvić (Patersriff, Kap Šilo) for a fuller day of diving from Baška
+- Night dives have historically been run at this house reef by local operators
 
 ## Safety Considerations
 
-Current is the primary variable at this channel-adjacent site. Coordinate the dive timing with the operator. Always carry an SMB and dive with a buddy. The depth is within recreational limits.
+As a sheltered shore/house reef, conditions are generally benign. Standard shore-diving practices apply: check entry/exit points, carry an SMB, and dive with a buddy.
 
 ## Photography
 
-The clear Kvarner water provides exceptional wide-angle conditions. Schooling fish life when current is active creates spectacular images. Resident grouper and reef structure with sponge communities provide reliable photographic subjects.
+No site-specific photography subjects were confirmed by sources. As a shallow, calm shore reef it should offer easy conditions for macro and reef photography, but specific subjects depend on what is present at the time of diving.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [taucher.net – RARE-BIRD KRK-Baska](https://taucher.net/tauchbasis-rare-bird_krk-baska-faz6321), [info-krk.com – Kricin beach](https://www.info-krk.com/en/baska/beaches/145/kricin), [squatinadiving.com](https://www.squatinadiving.com/). Last updated 2026-07-27.*

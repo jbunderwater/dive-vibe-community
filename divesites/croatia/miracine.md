@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Miracine
 
-Miracine is a reef dive site in the northern Kvarner area near the town of Rijeka, in the sheltered inner Kvarner waters. The site features rocky reef terrain with the moderate depth and generally calm conditions characteristic of inner Kvarner diving, making it a good choice for divers based in the Rijeka area.
+Miracine is a rocky reef dive site in the outer Kvarner Gulf, in the Cres-Lošinj archipelago south-west of Cres near the small island group around Unije and Zeča. The site's coordinates place it in this outer-island area rather than the sheltered inner Kvarner near Rijeka claimed by an earlier version of this page — that location could not be confirmed by any source and has been removed.
 
 ## Overview
 
-The reef at Miracine descends over rocky limestone terrain to approximately 25 metres. The sheltered inner Kvarner location means conditions are typically calm, with gentle water movement that supports healthy sponge and invertebrate communities. The substrate is well colonised by encrusting organisms, and the clear Kvarner water — typically 15–20 metres visibility — makes for a pleasant, unhurried dive experience.
+Research for this QA pass could not locate a dive-shop, dive-guide, or forum listing specifically describing Miracine as a named dive site. A nearby cove of the same name is documented in general sailing/geography references as an anchorage in the Cres-Lošinj outer islands, which is consistent with these coordinates, but no source describes the underwater terrain, depth profile, or marine life at this specific spot. The depth, site type, and difficulty below are carried over from the original OSM import and have not been independently verified.
 
 ## Site Information
 
-- **Location**: Inner Kvarner, Rijeka area, Croatia
+- **Location**: Outer Kvarner Gulf, Cres-Lošinj archipelago (near Unije/Zeča), Croatia — unconfirmed beyond general area
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
-- **Current**: Generally calm in the sheltered inner Kvarner
-- **Best Time**: May to October
+- **Current**: Not confirmed by any source
+- **Best Time**: May to October (general Kvarner season)
 
 ## Marine Life
 
@@ -36,26 +36,24 @@ No site-specific marine life reports found. Regional Adriatic/Mediterranean faun
 
 ## Dive Profile
 
-Descend to the upper reef at 5–8 metres and work down to 25 metres, exploring the rocky terrain and crevices. Spend time in the 8–18 metre zone where the encrusting community is richest. Ascend slowly and complete a safety stop at 5 metres.
+Not independently confirmed. General recreational reef-diving practice (gradual descent, safety stop at 5 metres) applies until site-specific information is found.
 
 ## Entry and Exit
 
-Dive boats from Rijeka-area operators access this site. Entry by giant stride or back roll. Deploy an SMB when ascending for boat pickup.
+Likely a boat dive given the outer-island location and entry type inherited from the OSM import, but no operator listing this exact site was found during this QA pass.
 
 ## Tips and Recommendations
 
-- An ideal site for divers visiting the Rijeka area between trips to more exposed outer Kvarner sites
-- The calm conditions make this suitable for divers consolidating skills after course completion
-- A torch helps reveal crevice inhabitants even in good ambient light
-- Combine with an outer Kvarner site (Peltastis wreck, Gorgonien) for a varied day
+- No site-specific tips available — this entry needs further research before it can be treated as verified
+- If diving in this area, confirm current conditions and exact site location with a local Cres/Lošinj-based operator before the dive
 
 ## Safety Considerations
 
-Standard intermediate reef diving in calm, sheltered conditions. Monitor depth on the sloping terrain. Carry an SMB and dive with a buddy. Dive within your certification level.
+Standard recreational diving precautions apply. Dive within your certification level, carry an SMB, and dive with a buddy. Site-specific hazards are not documented.
 
 ## Photography
 
-The sheltered, calm conditions make this an excellent site for unhurried macro photography. Nudibranchs and small crustaceans on the sponge-covered surfaces are excellent subjects. The Posidonia shallows offer opportunities for seahorse photography.
+No site-specific photography notes available.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-07-27.*

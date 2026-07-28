@@ -17,7 +17,7 @@ One of the most celebrated dive sites in the Caribbean, a vast coral labyrinth s
 
 ## Overview
 
-Palancar Reef is Cozumel's crown jewel — a sprawling reef system stretching several kilometers along the island's leeward southwest coast, protected within the Arrecifes de Cozumel National Park. The site is divided into named sections including Palancar Gardens, Palancar Caves, Palancar Bricks, and Palancar Horseshoe, each offering distinct terrain. Palancar Gardens features shallow coral gardens dense with brain corals and star corals. Palancar Caves is defined by dramatic swim-throughs, archways, and spur-and-groove canyons descending to 30 meters. The Mesoamerican Barrier Reef's influence means immaculate water clarity of 25–40 meters and warm Caribbean temperatures of 26–29°C year-round. Cozumel's north-to-south current system makes nearly every dive here a relaxed drift, requiring minimal finning as the reef slides past.
+Palancar Reef is Cozumel's crown jewel — a sprawling reef system stretching several kilometers along the island's leeward southwest coast, protected within the Arrecifes de Cozumel National Park. The site is divided into named sections including Palancar Gardens, Palancar Caves, Palancar Bricks, and Palancar Horseshoe, each offering distinct terrain. Palancar Gardens features shallow coral gardens dense with brain corals and star corals. Palancar Caves is defined by dramatic swim-throughs, archways, and spur-and-groove canyons descending to 30 meters. The Mesoamerican Barrier Reef's influence means immaculate water clarity of 25–40 meters and warm Caribbean temperatures of 26–29°C year-round. Cozumel's current runs south to north along the west coast, making nearly every dive here a relaxed drift, requiring minimal finning as the reef slides past.
 
 ## Site Information
 
@@ -27,12 +27,12 @@ Palancar Reef is Cozumel's crown jewel — a sprawling reef system stretching se
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
-- **Current**: Moderate north-to-south drift — the site is designed for drift diving
+- **Current**: Moderate south-to-north drift — the site is designed for drift diving
 - **Best Time**: November to April for calmest seas; diving is excellent year-round
 
 ## Marine Life
 
-Palancar is renowned for its resident population of spotted eagle rays, often seen in formation cruising over the sandy channels between spurs. Hawksbill and green sea turtles are almost guaranteed sightings, frequently resting on coral heads or grazing on sponges. The endemic splendid toadfish (*Sanopus splendidus*) hides under coral ledges — found nowhere else on Earth. Large Atlantic spotted groupers patrol the deeper sections, while queen angelfish and French angelfish are common throughout. Blacktip reef sharks and nurse sharks rest in sandy channels. The reef itself is carpeted with massive star corals, brain corals, pillar corals, and sea fans, with enormous barrel sponges at depth. Schools of blue tangs, Bermuda chubs, and horse-eye jacks sweep through regularly.
+Spotted eagle rays are reported at Palancar, with multiple dive-shop sources noting they are most reliably seen seasonally (roughly December–March). Hawksbill turtles are a year-round resident species here; sightings of green turtles are also reported by some operators but are less consistently confirmed. The endemic splendid toadfish (*Sanopus splendidus*) is a confirmed year-round resident, hiding under coral ledges — found nowhere else on Earth. Black groupers patrol the deeper sections, and French grunts and schoolmaster snappers school throughout. Juvenile blacktip sharks and nurse sharks are reported resting in sandy channels. The reef itself is carpeted with star and brain corals and sea fans, with barrel sponges noted at depth by local operators. Occasional hammerhead shark sightings have also been reported by local dive shops, though these are not a reliable feature of the site.
 
 ## Dive Profile
 
@@ -64,4 +64,4 @@ Palancar is one of the world's top wide-angle reef photography destinations. The
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel — Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Barefoot Dive Center — Palancar Reef](https://barefootcozumel.com/palancar-reef-cozumel-mexico/), [Blue Note Scuba — Palancar Reef Cozumel](https://www.bluenotescuba.com/palancar-reef-cozumel), [Divepoint Mexico — Palancar Reef](https://divepointmexico.com/palancar-reef/), [Cozumel Scuba — Palancar Reef](https://cozumelscuba.com/palancar-reef/). Last updated 2026-05-23.*
+*Sources: [The Reefs of Cozumel — Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Blue Note Scuba — Palancar Reef Cozumel](https://www.bluenotescuba.com/palancar-reef-cozumel), [Cozumel Scuba — Palancar Reef](https://cozumelscuba.com/palancar-reef/), [Pelagic Ventures Scuba — Palancar Reef Cozumel](https://pelagicventuresscuba.com/cozumel-dive-sites/palancar-reef-cozumel/). Last updated 2026-07-27.*

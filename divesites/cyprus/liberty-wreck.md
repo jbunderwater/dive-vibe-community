@@ -17,7 +17,7 @@ A 37-metre Russian cargo vessel scuttled in 2009 — the inaugural site of the P
 
 ## Overview
 
-MV Liberty was a Russian cargo vessel, 37 metres long with a 7-metre beam and a gross tonnage of approximately 226 GT, that formerly carried frozen cargo between ports. The Paralimni Municipality purchased the vessel and intentionally sank it on 22 May 2009 (Wikipedia date; some sources give 27 May 2009 — the discrepancy is minor and unresolved) as the first component of the Liberty Reef Artificial Project, funded by the Cyprus Dive Center Association. Before sinking, the vessel was stripped down to the hull with the bridge removed.
+MV Liberty was a Russian cargo vessel, 37 metres long with a 7-metre beam and a gross tonnage of 225–226 GT (Wikipedia's infobox and body text give slightly different figures), that formerly carried frozen cargo between ports. The Paralimni Municipality purchased the vessel and intentionally sank it on 22 May 2009 (Wikipedia date; some sources give 27 May 2009 — the discrepancy is minor and unresolved) as the first component of the Liberty Reef Artificial Project, funded by the Cyprus Dive Center Association. Before sinking, the vessel was stripped down to the hull with the bridge removed.
 
 The wreck sits upright at 27 metres to the seabed, with the shallowest point at 22 metres, approximately 1 km from shore. Two deck openings and a large cargo hatch allow swim-through access. The area around the wreck is designated as a marine fish reserve and closed to boat traffic, which has supported the development of a thriving ecosystem over 15+ years.
 
@@ -44,4 +44,4 @@ Groupers, moray eels, jacks (seasonally), turtles, rays, nudibranchs, triggerfis
 - Check with operators for current access requirements and conditions
 
 ---
-*Sources: [Wikipedia - MV Liberty](https://en.wikipedia.org/wiki/MV_Liberty), [Easy Divers - Liberty Wreck](https://www.ezdivers.com/liberty-wreck/), [Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/sports-training/sports-diving/liberty-shipwreck/). Last updated 2026-05-23.*
+*Sources: [Wikipedia - MV Liberty](https://en.wikipedia.org/wiki/MV_Liberty), [Easy Divers - Liberty Wreck](https://www.ezdivers.com/liberty-wreck/), [Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/sports-training/sports-diving/liberty-shipwreck/). Last updated 2026-07-27.*

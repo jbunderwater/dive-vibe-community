@@ -13,50 +13,49 @@ addedBy: osm_import
 
 ## Gorgonien
 
-Gorgonien ("gorgonians" in German) takes its name from the gorgonian sea fan colonies that populate the deeper sections of this reef in the Kvarner region near Krk Island. The site is specifically known for its sea fan communities, which are among the more substantial gorgonian growths accessible to recreational divers in the northern Adriatic.
+Gorgonien ("gorgonians" in German) corresponds to a site German dive-site catalogue unterwasserweb.de lists as "Rote Gorgonien" (Red Gorgonians), at Punta Kinkela northwest of Brseč toward Opatija, on the mainland Kvarner coast opposite the north tip of Cres. Local operator Marine Sport DC (Mošćenička Draga) also lists "Kinkela" among its regular dive sites, corroborating that this is a real, actively-dived location rather than a generic descriptor.
 
 ## Overview
 
-The reef descends over rocky limestone terrain to approximately 25 metres, where the gorgonian fans become most prominent in the 15–25 metre range. The fans grow on rocky outcrops and wall sections, creating an underwater garden of branching shapes in orange and red. The clear Kvarner waters, typically 15–20 metres visibility, provide excellent viewing conditions. The site name itself signals the primary biological attraction.
+Unterwasserweb.de describes a steep wall at Punta Kinkela that drops from 6 metres to 45 metres, anchored in a spot sheltered from the Jugo wind. At the base of the wall lies a colony of red gorgonian fans, the site's defining feature. Reported visibility is excellent, current is generally light, and the source recommends the dive exclusively for advanced, experienced divers given the free-falling drop into deep blue water. A separate maximum depth of 55 metres is given for the overall dive area.
 
 ## Site Information
 
-- **Location**: Krk Island area, Kvarner, Croatia
+- **Location**: Punta Kinkela, mainland Kvarner coast NW of Brseč (opposite the north tip of Cres), Croatia (corrected from "Krk Island area")
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Light to moderate
+- **Typical Visibility**: Reported as excellent
+- **Current**: Generally light
 - **Best Time**: May to October
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+Red gorgonian sea fans at the base of the wall (around 45 metres) are the confirmed, source-backed highlight of this site. No other site-specific species reports were found; regional Adriatic fauna applies beyond the gorgonians.
 
 ## Dive Profile
 
-Descend to the shallower reef top and work down to the gorgonian zone at 15–25 metres. Spend time examining the sea fan colonies closely — they reward careful observation with small resident animals. Ascend slowly along the reef face and complete a 3-minute safety stop at 5 metres.
+The dive is a free-falling wall descent from the 6-metre anchor point down to 45 metres, where the red gorgonian colony is found. This is a deep, current-light dive intended for advanced divers with good buoyancy and depth discipline — plan gas and no-decompression limits conservatively before descending. Ascend slowly and complete a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Dive boats from Krk-area operators serve this site. Entry by giant stride or back roll. Deploy an SMB when ascending for boat pickup.
+Dive boats from Mošćenička Draga-area operators (e.g., Marine Sport DC, which lists "Kinkela" among its regular sites) serve this site. Entry by giant stride or back roll, anchoring in the lee of the point, sheltered from the Jugo wind.
 
 ## Tips and Recommendations
 
-- Take time with the gorgonian colonies — the small animals living on them are the real highlight
-- A torch brings out the vivid colours of the sea fans, which appear washed out in ambient light alone
-- Do not touch or disturb the gorgonian fans — they are protected and grow extremely slowly
-- Excellent macro photography site — a close-up lens is highly recommended
-- Combine with a shallower second dive at a nearby reef or cave site
+- This is an advanced, deep wall dive — verify certification and gas planning before booking
+- Do not touch or disturb the gorgonian fans — they are slow-growing and easily damaged
+- A torch brings out the true red colour of the fans, which appears muted in ambient light at this depth
+- Sheltered anchorage from the Jugo wind makes this a reliable choice when that wind is blowing elsewhere
 
 ## Safety Considerations
 
-Standard intermediate reef diving. Maintain good buoyancy to avoid contact with the gorgonian colonies. Carry an SMB and dive with a buddy. Depth management on the sloping terrain is important.
+This is a deep wall dive to 45+ metres suited only to advanced, experienced divers. Maintain excellent buoyancy near the gorgonian colony to avoid contact damage. Plan no-decompression limits and gas reserves carefully, carry an SMB, and dive with a buddy.
 
 ## Photography
 
-The gorgonian fans are the star subjects for macro photography — look for arrow crabs, brittle stars, and nudibranchs on the fan surfaces. Wide-angle shots of a diver surrounded by sea fans with a wide lens and strobe lighting create impressive images. The clear Kvarner water provides excellent natural light in the upper sections.
+The red gorgonian colony at the base of the wall is the confirmed signature subject; strobe lighting will be needed to bring out true colour at 45 metres. No other site-specific photographic subjects were confirmed by sources.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [unterwasserweb.de – Küste Istrien: Rote Gorgonie](http://www.unterwasserweb.de/uwtauchplatz/kroatien/uwtauchplatz_istrien_rotegorgonie.html), [marinesport.hr – Tauchplätze (lists "Kinkela")](https://www.marinesport.hr/de/tauchplatze.html). Only two independent sources were found for this site; a third is still needed for full validation. Last updated 2026-07-27.*

@@ -13,9 +13,7 @@ addedBy: osm_import
 
 ## Wreck Tihany
 
-The Tihany is a cargo steamship that sank in 1917 near the small island of Školjić in the waters off Unije island (Lošinj area of the Kvarner). Note: the wreck lies near Unije island in the northern Kvarner — not near Pag island as some records suggest. The vessel is 60 metres long and rests at a depth of approximately 35 metres. Notably, ancient amphorae fragments have been found in the immediate vicinity of the stern, indicating this stretch of water has been a shipping hazard for millennia.
-
-One source (ScubaSpace) records the sinking date as February 12, 1917; another source describes the vessel as an Austro-Hungarian cargo steamship that stranded due to bad weather and poor navigation. Exact circumstances require further verification from maritime records.
+A wreck lies at the foot of the rock Školjić at the entrance to Unije port (Lošinj area of the Kvarner), resting at approximately 33–35 metres depth. **Sources disagree, materially, on the vessel's identity**, and this has not been resolved: the dive is listed as "Wreck Tihany" by Underwater Photography and ScubaSpace (which give a length of ~60 metres and a sinking date of 12 February 1917 or, per one aggregated account, 1912), but Adriadiving.com states the wreck at this exact location (Školjić, Unije) is actually the *Etnea* (also ~60 m, sunk 1917), and explicitly says *Tihany* is a separate "twin/sister ship" of the Etnea lying in Montenegrin waters, "often mixed up" with it. A third, less reliable aggregated account describes a "Tihany" built in Trieste in 1908, only 45 metres long, sunk 12 February 1917 while under tow — a length figure that conflicts with the ~60 m figure given by the other sources. Given this unresolved three-way identity conflict, no vessel name, build history, exact length, or exact sinking date is asserted here as fact; only the physical location and depth are treated as reasonably confirmed. One detail is corroborated across sources regardless of which name is correct: ancient amphora fragments have been found in the immediate vicinity of the stern, indicating this stretch of water has been a shipping hazard for millennia.
 
 ## Overview
 
@@ -60,6 +58,4 @@ The 35-metre maximum depth is at the upper recreational limit. Gas management an
 The wreck structure at 35m provides wide-angle subjects in the clear Kvarner water. The amphora fragments near the stern are historically significant macro subjects. A torch and strobe combination reveals the encrusting organisms on the hull.
 
 ---
-*Sources: [Underwater Photography – Wreck Tihany](http://www.underwaterphotography.com/dive-sites/Dive-Site.aspx?id=750), [ScubaSpace – Tihany Wreck](https://scubaspace.club/en/discover/dive-spot/tihany-wreck). No third independent source found — validation status set to false pending additional research.*
-
-*Description based on two sources; third independent source not located. No site-specific marine life sources found. Regional Adriatic/Kvarner fauna applies. Last updated 2026-05-23.*
+*Sources: [Underwater Photography – Wreck Tihany](http://www.underwaterphotography.com/dive-sites/Dive-Site.aspx?id=750), [ScubaSpace – Tihany Wreck](https://scubaspace.club/en/discover/dive-spot/tihany-wreck), [Adriadiving – Shipwreck Etnea, Unije](https://adriadiving.com/diving_locations/shipwreck-etnea-unije/). Last updated 2026-07-27.*

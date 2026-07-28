@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Vajavine
 
-Vajavine is a house reef wall dive at Vrbnik on Krk Island, also known in English as "100 Steps" — a reference to the 100 stairs descending from the town to the sea, where a dive ladder provides water entry. The site is operated as a house reef by the dive centres at Vrbnik and is accessible by shuttle bus from the facilities. The name *Vajavine* refers to the bay itself.
+Vajavine is a house reef wall dive at Vrbnik on Krk Island, also known in English as "100 Steps" (locally *Vajavina*) — a reference to the stone steps descending from a protruding cape overlooking the Podvelebit Canal down to the sea. The Vrbnik tourist board's own site (vrbnik.hr) independently confirms the stone-steps shore access and describes it as the longest of the three local house-reef routes, running from the rocks at Vajavina toward the shallower waters near Kozica (Silent Beach) — consistent with the dive shops' description of a one-way route between the two sites. The site is operated as a house reef by the dive centres at Vrbnik and is accessible by shuttle bus from the facilities.
 
 ## Overview
 
@@ -32,7 +32,7 @@ The dive ladder at the base of the 100 steps provides a direct entry to a colour
 
 ## Marine Life
 
-Local dive operators report: various crustaceans, octopus, and schooling fish on the steep face sections. Occasional seahorse sightings. No additional site-specific species claims made.
+Dive Center Krk and Dive Loft Krk both independently report crabs, octopuses, schooling fish, and seahorses/scorpionfish on the steep face sections. No further site-specific species claims made.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ The wall extends to 30m and beyond — maintain awareness of depth. Current can 
 The colourful steep face with crustaceans and octopus provides strong wide-angle and macro subjects. The clear Kvarner water allows effective strobe work. The one-way option to Silent Beach allows a long photographic dive on the wall.
 
 ---
-*Sources: [Dive Center KRK – 100 Steps](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – 100 Steps](https://www.dive-loft-krk.com/dive-sites/), [DiVeSSI – 100 Steps Vrbnik](https://www.divessi.com/de/mydiveguide/divesite/100-steps-vrbnik-croatia-189140). Last updated 2026-05-23.*
+*Sources: [Dive Center KRK – Dive Sites](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Dive Sites](https://www.dive-loft-krk.com/dive-sites/), [Vrbnik.hr – Vajavina](https://vrbnik.hr/en/vajavina/). Last updated 2026-07-27.*
