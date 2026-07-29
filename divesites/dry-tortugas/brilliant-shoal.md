@@ -46,4 +46,4 @@ Access is by private or charter boat only — the park is 70 miles from Key West
 The Dry Tortugas offer no onsite emergency dive support; the nearest hyperbaric chamber is in Key West. No cell service in the park — carry a marine VHF radio. Dive with a buddy and display a dive flag.
 
 ---
-*Description based on Dry Tortugas National Park regional diving characteristics and REEF site catalogue. No Brilliant Shoal-specific published source was found. Last updated 2026-05-24.*
+*Description based on Dry Tortugas National Park regional diving characteristics and REEF site catalogue. No Brilliant Shoal-specific published source was found. Re-checked 2026-07-29 (myfwc.com CREMP list and ScubaBoard re-confirmed no site-specific detail exists beyond the bare REEF database catalogue entry, site 34100069) — still not validated; not padded with weak sources. Last updated 2026-07-29.*

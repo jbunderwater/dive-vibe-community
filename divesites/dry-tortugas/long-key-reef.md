@@ -19,6 +19,8 @@ A heavily developed coral reef south of Long Key (closed to public access), feat
 
 Long Key Reef lies south of Long Key, a wildlife island closed year-round for nesting bird protection. The DAN Alert Diver source describes the reef as starting in approximately 35 feet of water and extending to approximately 65 feet, with heavily developed coral reef cut by deep surge channels running north and south between ranges of coral. The reef's deeper structure and potential for current place it at the intermediate level. Nurse sharks gliding through the shallows off the back side of Long Key are specifically documented in the diving literature, and the overall Dry Tortugas reef fish community — large due to the no-take park regulations — is present throughout.
 
+**Note on a source discrepancy:** The NPS's own general park diving/snorkeling page lists a "Long Reef Key" entry under its eastern-boundary sites as a snorkel-only location, which doesn't match DAN's deeper (35–65 ft) scuba-depth description used above. This may be the same reef described inconsistently across two NPS-adjacent sources, or it may refer to a shallower sub-area of the same reef complex. This research could not resolve which is correct, so both are noted here rather than silently picking one.
+
 ## Site Information
 
 - **Location**: South of Long Key (wildlife closure area), Dry Tortugas National Park
@@ -56,4 +58,4 @@ Access is by boat only. Long Key island is closed to public access year-round (n
 An intermediate dive with deeper structure and potential current. Respect the Long Key wildlife closure boundary — federal protected area. Variable currents are possible, particularly in the surge channels. Always dive with a buddy and carry a safety sausage. The nearest hyperbaric chamber is in Key West; the park has no onsite emergency dive support.
 
 ---
-*Sources: [DAN Alert Diver - The Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/), [NPS - Swimming, Snorkeling, and Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/). Last updated 2026-05-24.*
+*Sources: [DAN Alert Diver - The Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/), [NPS - Swimming, Snorkeling, and Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/). Re-audited 2026-07-29; depth/snorkel-vs-dive discrepancy between NPS and DAN noted above, unresolved. Last updated 2026-07-29.*

@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-The Atlantic Princess was a small passenger vessel — approximately 30 metres long and 9 metres high — that served tourists in the Bayahibe area. In August 2008, Tropical Storm Fay drove the vessel aground on the beach near the Dreams La Romana Resort. After decontamination (sources note approximately 100,000 gallons of contaminated water were removed), Dominican environmental and tourism authorities approved the ship's deliberate sinking as an artificial reef. The wreck sank on May 6, 2009.
+The Atlantic Princess was a small passenger vessel — approximately 30 metres long and 9 metres high — that served tourists in the Bayahibe area. On August 15, 2008, Tropical Storm Fay drove the vessel aground on the beach near the Dreams La Romana Resort. Dominican environmental and tourism authorities planned to deliberately sink the damaged ship to create an artificial reef, but sources indicate the vessel sank on its own on May 6, 2009, before the intentional scuttling took place. The result is functionally the same artificial-reef wreck either way, but the "deliberate sinking" framing used in some marketing material is not quite accurate to what sources describe.
 
 The vessel rests off the Bayahibe/Dominicus coast at a maximum depth of 12 metres, making it one of the most accessible wreck dives in the country. Over fifteen years on the seabed, the hull has accumulated corals, barnacles, and encrusting organisms, and it now hosts a resident fish community. The site is located close to shore near the Dreams La Romana Resort. Note: this wreck is in the Bayahibe area, not near Santo Domingo.
 
@@ -60,4 +60,4 @@ At 12 metres, this is a safe recreational depth for beginners. Do not enter encl
 The shallow, bright conditions allow natural-light photography without a strobe. The exterior hull at 12 metres has good ambient illumination for wide-angle shots. Macro subjects on the encrusted hull include nudibranchs, blennies, and Christmas tree worms. Moray portraits from exterior openings are a classic wreck shot.
 
 ---
-*Sources: [Coral Point Diving](https://www.coralpointdiving.com/En/divesite.html), [Ultra Marine Divers](https://ultramarinedivers.com/bayahibewreck.html), [Diving DR](https://www.divingdr.com/atlantic-princess-wreck/), [DiveSSI](https://www.divessi.com/en/mydiveguide/divesite/atlantic-princess-wreck-st-prinzess-dominican-republic-101907). Last updated 2026-05-24.*
+*Sources: [Coral Point Diving](https://www.coralpointdiving.com/En/divesite.html), [Ultra Marine Divers](https://ultramarinedivers.com/bayahibewreck.html), [Diving DR](https://www.divingdr.com/atlantic-princess-wreck/), [Dominican Republic Tourism Board — Atlantic Princess Shipwreck](https://www.godominicanrepublic.com/things-to-do/atlantic-princess-shipwreck). Last updated 2026-07-29.*

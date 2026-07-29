@@ -61,4 +61,4 @@ Current at the wall tip can be moderate — a drift dive approach is safer than 
 Wide-angle: shoot along the wall face with barrel sponges framing the composition and open water behind. Macro: sponge encrustation on the wall surface hosts small gobies and cleaner shrimp. Lionfish — being slow-moving — are cooperative macro portrait subjects.
 
 ---
-*Sources: [The Dive Academy Las Terrenas](https://tdalasterrenas.com/our_sites), [PADI — Diving in Las Terrenas](https://www.padi.com/diving-in/dominican-republic/las-terrenas/), [Goodive — Las Terrenas](https://www.gooddive.com/dominican-republic-diving/las-terrenas-diving.htm). Last updated 2026-05-24.*
+*Sources: [The Dive Academy Las Terrenas](https://tdalasterrenas.com/our_sites), [PADI — Diving in Las Terrenas](https://www.padi.com/diving-in/dominican-republic/las-terrenas/), [Goodive — Las Terrenas](https://www.gooddive.com/dominican-republic-diving/las-terrenas-diving.htm). Re-audited 2026-07-29: TDA site re-confirmed live; Farola Wall's 30m (up to ~35m) maximum depth and lobster/lionfish/moray/scorpionfish marine life re-confirmed. Last updated 2026-07-29.*

@@ -29,7 +29,7 @@ Starting from about 30 feet (10 metres), Point Guignard descends slowly to aroun
 
 ## Marine Life
 
-Seahorses on gorgonian fans, nudibranchs, sea slugs, pipefish, and sharptail eels are documented critter finds along the slope. Sea turtles and southern stingrays are routine sightings. Moray eels occupy the numerous crevices throughout, and frogfish are regularly spotted. At night, giant lobsters and squid emerge prominently. Note: nurse sharks are documented at nearby Rina's Hole dive site; no independent source confirms nurse sharks specifically at Point Guignard.
+Seahorses on gorgonian fans, nudibranchs, sea slugs, pipefish, and sharptail eels are documented critter finds along the slope. World of Diving specifically documents "frequent visits by turtles during their active seasons," and southern stingrays are also routine sightings. Moray eels occupy the numerous crevices throughout, and frogfish are regularly spotted. At night, giant lobsters and squid emerge prominently. Note: nurse sharks are documented at nearby Rina's Hole dive site; no independent source confirms nurse sharks specifically at Point Guignard.
 
 ---
-*Sources: [Dive Dominica](https://divedominica.com/dominica-dive-sites/), [SSMR Dominica](https://www.ssmrdominica.com/dive-sites-in-the-ssmr/), [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Scuba Travel](https://www.scubatravel.co.uk/dominica/dominicadive.html), [World of Diving](https://worldofdiving.com/dominica/). Last updated 2026-05-24.*
+*Sources: [Dive Dominica](https://divedominica.com/dominica-dive-sites/), [SSMR Dominica](https://www.ssmrdominica.com/dive-sites-in-the-ssmr/), [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Scuba Travel](https://www.scubatravel.co.uk/dominica/dominicadive.html), [World of Diving](https://worldofdiving.com/dominica/). Re-audited 2026-07-29, all claims re-confirmed. Last updated 2026-07-29.*

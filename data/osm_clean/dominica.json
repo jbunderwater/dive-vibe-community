@@ -12,8 +12,8 @@
       "addedBy": "fill_caribbean",
       "validated": true,
       "validation_source": "divedominica.com,ssmrdominica.com,diveoclock.com,cocoacottagedominica.com,dan.org",
-      "last_qa_date": "2026-05-24",
-      "notes": "Geothermal vent site in SSMR; bubbles rise from sandy seabed creating champagne effect; fringing reef slopes to ~30m near-perpendicular wall section; shore entry with boardwalk"
+      "last_qa_date": "2026-07-29",
+      "notes": "Geothermal vent site in SSMR; bubbles rise from sandy seabed creating champagne effect; reef gradually slopes to greater depth via walls/boulders per diveoclock.com, no source confirms an exact max depth figure for the wall extension so the precise '30m' figure was removed from markdown; shore entry with boardwalk; re-audited 2026-07-29, no factual corrections needed beyond softening the unconfirmed wall depth figure"
     }
   },
   {
@@ -28,9 +28,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "divedominica.com,ssmrdominica.com,dom767.com,discoverdominica.com,dan.org",
-      "last_qa_date": "2026-05-24",
-      "notes": "Swiss Cheese formation + Soldierfish Cave swim-through; pinnacle swim-through at 35ft leads to crater wall dropping 120ft+; SSMR rates this Moderate (2 flags), not Advanced"
+      "validation_source": "divedominica.com,ssmrdominica.com,dom767.com,dan.org",
+      "last_qa_date": "2026-07-29",
+      "notes": "Swiss Cheese formation + Soldierfish Cave swim-through; pinnacle swim-through at 35ft leads to crater wall dropping 120ft+; SSMR rates this Moderate (2 flags), not Advanced; re-audited 2026-07-29 via dom767.com (confirms hawksbill turtles, longsnout seahorses, 35ft swim-through, 120ft+ wall) and DAN article (confirms soldierfish/turtles) — all claims held up; discoverdominica.com dropped from sources, page now returns 404"
     }
   },
   {
@@ -46,15 +46,15 @@
       "addedBy": "fill_caribbean",
       "validated": true,
       "validation_source": "ssmrdominica.com,divedominica.com,avirtualdominica.com,dan.org,etbtravelphotography.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Three pinnacles rising from 25ft shelf near Soufriere village; easy second-dive option; site_type corrected from wall to pinnacle based on all sources"
+      "last_qa_date": "2026-07-29",
+      "notes": "Three pinnacles rising from a shelf near Soufriere village; easy second-dive option; site_type corrected from wall to pinnacle based on all sources; re-audited 2026-07-29 — DAN article states pinnacles rise from a 40ft (12m) seafloor vs. 25ft (8m) shelf cited by other sources, conflict now flagged in markdown rather than picking one figure; turtle claim REMOVED — etbtravelphotography.com (a source cited for this site) explicitly documents turtles at Champagne Reef and Dangleben's North but NOT at Soufriere Pinnacle, and no other source confirms turtles here; hallucination removed"
     }
   },
   {
     "name": "Danglebens Pinnacles",
     "lat": 15.2371,
     "lon": -61.3728,
-    "depth": 40,
+    "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -62,9 +62,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "divedominica.com,ssmrdominica.com,scubadiverlife.com,avirtualdominica.com,dan.org",
-      "last_qa_date": "2026-05-24",
-      "notes": "5 pinnacles on north edge of Soufriere crater; depth 40-80ft (12-24m); reef sharks confirmed (girlsthatscuba); winter schooling jacks activity; barrel sponges"
+      "validation_source": "divedominica.com,ssmrdominica.com,scubadiverlife.com,avirtualdominica.com,dan.org,ewdr.com",
+      "last_qa_date": "2026-07-29",
+      "notes": "5 pinnacles on north edge of Soufriere crater; depth corrected from 40m to 30m — consensus across ssmrdominica.com, girlsthatscuba.com, ewdr.com, scubadiverlife.com and avirtualdominica.com is 40-98ft (12-30m), no source supports 40m; winter schooling jacks activity; barrel sponges; REEF SHARK CLAIM REMOVED — re-audit found no currently-fetchable source confirming reef sharks at this site; scubadiverlife.com explicitly states 'no sharks are mentioned at Dangleben's Pinnacles or any other named dive site' in their article; only scubatravel.co.uk reports an anecdotal, uncorroborated hammerhead shark sighting, now described as such rather than as confirmed sharks; hallucination removed"
     }
   },
   {
@@ -79,9 +79,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "ssmrdominica.com,avirtualdominica.com,divedominica.com,dan.org,originaldiving.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Shallow colourful reef in Batali Bay; finger and pencil coral; frogfish various colors; garden eels; upside-down jellyfish on sand; occasional nurse sharks under ledges; entry can be shore or boat"
+      "validation_source": "ssmrdominica.com,avirtualdominica.com,divedominica.com,dan.org",
+      "last_qa_date": "2026-07-29",
+      "notes": "Shallow colourful reef in Batali Bay (divedominica.com's 'Coral Gardens North' near Dangleben's); finger and pencil coral; garden eels; upside-down jellyfish on sand; entry can be shore or boat; re-audit 2026-07-29: originaldiving.com dropped from sources — it does not mention Coral Gardens by name or provide site-specific detail for it; NURSE SHARK CLAIM REMOVED — no fetchable source confirms nurse sharks at this specific site (nurse sharks are documented near Rina's Hole/Point Guignard area, not here); FROGFISH CLAIM REMOVED — no source confirms frogfish specifically at Coral Gardens (multiple sources confirm frogfish at Danglebens/Soufriere/Champagne but not here), was likely a regional list padded onto this site; hallucinations removed"
     }
   },
   {
@@ -97,8 +97,8 @@
       "addedBy": "fill_caribbean",
       "validated": true,
       "validation_source": "divedominica.com,ssmrdominica.com,avirtualdominica.com,dan.org,scubatravel.co.uk",
-      "last_qa_date": "2026-05-24",
-      "notes": "1500ft wall; suitable for all levels per SSMR, Dive Dominica, and DAN — difficulty downgraded from Advanced to Intermediate; sandy shelf start at 25ft with very little current; black coral, whip corals, gorgonians confirmed"
+      "last_qa_date": "2026-07-29",
+      "notes": "1500ft wall; suitable for all levels per SSMR, Dive Dominica, and DAN — difficulty downgraded from Advanced to Intermediate; sandy shelf start at 25ft with very little current; black coral, whip corals, gorgonians confirmed; re-audit 2026-07-29: scubatravel.co.uk reports an anecdotal 'hammerhead shark (reported)' sighting — markdown updated to note this explicitly as a single uncorroborated report rather than implying no reports exist at all; all other claims held up"
     }
   },
   {
@@ -114,8 +114,8 @@
       "addedBy": "fill_caribbean",
       "validated": true,
       "validation_source": "cabritsdive.com,dominicadiveoperations.com,avirtualdominica.com,dtmag.com,divedominica.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Tunnels at 25 and 45ft; drops to 110ft; mahogany snapper schools confirmed; fumarole on ocean floor; cave section max ~38ft, overall reef to 33m; electric rays not verified — removed"
+      "last_qa_date": "2026-07-29",
+      "notes": "Tunnels at 25 and 45ft; drops to 110ft; mahogany snapper schools confirmed; fumarole on ocean floor; cave section max ~38ft (dominicadiveoperations.com confirms), overall reef to 33m; electric rays not verified — removed; re-audited 2026-07-29, all claims re-confirmed via dominicadiveoperations.com and cabritsdive.com, no corrections needed"
     }
   },
   {
@@ -130,9 +130,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "cabritsdive.com,avirtualdominica.com,scubatravel.co.uk,scubadiving.com,madurodive.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Cabrits South wall drops to 155ft; third site to south drops to 185ft+; healthy sponge-covered reef; multiple Cabrits sites grouped under this name; spotted eagle rays at Cabrits area not specifically confirmed for this wall"
+      "validation_source": "cabritsdive.com,avirtualdominica.com,madurodive.com,scubadiving.com",
+      "last_qa_date": "2026-07-29",
+      "notes": "Cabrits South wall drops to 155ft; third site to south drops to 185ft+; healthy sponge-covered reef; multiple Cabrits sites grouped under this name (cabritsdive.com does not list a site literally named 'Cabrits Drop' — it aggregates Prince Rupert Bay/Cabrits sites like Shark's Mouth, Volcano Site, Sunshine Reef); spotted eagle rays at Cabrits area not specifically confirmed for this wall; re-audit 2026-07-29: scubatravel.co.uk dropped from sources — it explicitly does not cover Cabrits Drop as a named site; CORRECTED 'creole wrasse' to 'creole fish' (Paranthias furcifer) — avirtualdominica.com and madurodive.com both confirm 'creole' fish schools at Cabrits, but this is a different species from creole wrasse (Clepticus parrae), which was sourced from an unrelated southern-reserve site (Crater's Edge) and wrongly attributed here; HAWKSBILL TURTLE CLAIM REMOVED — not confirmed by any Cabrits-specific source, appears to have been attributed from a different site (Inbetween, per scubatravel.co.uk); hallucination corrected"
     }
   },
   {
@@ -148,8 +148,8 @@
       "addedBy": "fill_caribbean",
       "validated": true,
       "validation_source": "divedominica.com,ssmrdominica.com,avirtualdominica.com,scubatravel.co.uk,worldofdiving.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Slowly sloping wall 30-80ft; cave at ~50ft narrow — not suitable for large groups; seahorses, nudibranchs, sea slugs confirmed; nurse sharks NOT confirmed at this site (attributed to Rina's Hole) — removed from description"
+      "last_qa_date": "2026-07-29",
+      "notes": "Slowly sloping wall 30-80ft; cave at ~50ft narrow — not suitable for large groups; seahorses, nudibranchs, sea slugs confirmed; turtles confirmed by worldofdiving.com ('frequent visits by turtles during their active seasons'); nurse sharks NOT confirmed at this site (attributed to Rina's Hole per dtmag.com) — remains removed from description; re-audited 2026-07-29, all claims re-confirmed, no corrections needed"
     }
   },
   {
@@ -165,15 +165,15 @@
       "addedBy": "fill_caribbean",
       "validated": true,
       "validation_source": "avirtualdominica.com,scubatravel.co.uk,ewdr.com,dtmag.com,scubadiving.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Three nose-shaped ledges on Grand Savanne central coast; depth 40-130ft, best at ~80ft (24m); whale shark claim removed — 'Whale Shark Reef' nearby named for historical one-time sighting, not regular encounters; yellowfin tuna and jacks confirmed"
+      "last_qa_date": "2026-07-29",
+      "notes": "Three nose-shaped ledges on Grand Savanne central coast; depth 40-130ft, best at ~80ft (24m); whale shark claim removed — 'Whale Shark Reef' nearby named for historical one-time sighting, not regular encounters; yellowfin tuna and jacks confirmed; re-audit 2026-07-29: turtles at this site independently confirmed by BOTH ewdr.com ('turtles and pelagic fish swim around here') and scubatravel.co.uk ('turtles' in marine life list) — two-source confirmation, claim retained; no corrections needed"
     }
   },
   {
     "name": "Five Finger Rock",
     "lat": 15.5908,
     "lon": -61.4756,
-    "depth": 30,
+    "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -182,8 +182,8 @@
       "addedBy": "fill_caribbean",
       "validated": true,
       "validation_source": "cabritsdive.com,avirtualdominica.com,scubatravel.co.uk,padi.com,scubadiving.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Large boulder in Douglas Bay visible at surface; depth 15-90ft (5-27m); spotted eagle rays confirmed; squirrelfish, flounders, tobacco fish, angelfish confirmed; Caribbean reef squid also confirmed (scubadiving.com)"
+      "last_qa_date": "2026-07-29",
+      "notes": "Large boulder in Douglas Bay visible at surface; depth corrected from 30m to 27m to match the site's own stated max-depth text and consensus sources (cabritsdive.com 15-90ft, scubatravel.co.uk 2-24m); spotted eagle rays confirmed (cabritsdive.com: 'spotted eagle ray sightings'); squirrelfish, flounders, tobacco fish, angelfish confirmed; Caribbean reef squid claim (scubadiving.com) could not be re-verified live (site returns 403 to automated fetch) but no contrary evidence found, retained; PADI page's generic 'Sharks, Whales, Dolphins' marine-life tags are unverified boilerplate, NOT added to description"
     }
   },
   {
@@ -198,9 +198,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "avirtualdominica.com,discoverdominica.com,ewdr.com,scubatravel.co.uk,scubadiving.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Max 50ft (15m); seahorse record of 11 in one dive confirmed by multiple sources; batfish, frogfish, bumblebee shrimp, leaf fish, ribbon eels, spotted snake eel confirmed; night diving for squid/lobster/crabs confirmed"
+      "validation_source": "avirtualdominica.com,ewdr.com,scubadiving.com",
+      "last_qa_date": "2026-07-29",
+      "notes": "Max 50ft (15m) confirmed directly by avirtualdominica.com ('a shallow (maximum 50 feet) dive'); seahorse record of 11 in one dive was originally sourced partly to discoverdominica.com, which now returns 404 — dropped from sources, claim retained on the strength of avirtualdominica.com corroboration but flagged as needing a live replacement source; scubatravel.co.uk REMOVED — that page explicitly does not cover Rodney's Rock as a named site (was miscited in prior audit); batfish, frogfish, bumblebee shrimp, leaf fish, ribbon eels, spotted snake eel confirmed; ewdr.com additionally confirms seahorses, frogfish, lobsters, snakeeel, sea cucumbers, stingrays; night diving for squid/lobster/crabs confirmed (avirtualdominica.com: 'squid, lobsters and crabs are out in full view')"
     }
   }
 ]

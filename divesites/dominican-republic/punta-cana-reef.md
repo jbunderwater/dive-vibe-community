@@ -58,4 +58,4 @@ Boat traffic can be heavy in this tourist-heavy area. Follow the guide closely i
 Bright, sunlit conditions at shallow depth create good ambient-light photography opportunities. Macro subjects on the coral heads include cleaner shrimp and Christmas tree worms. Sea turtle encounters are the most sought-after photo opportunity in this area.
 
 ---
-*Sources: [Grand Bay of the Sea — Punta Cana](https://www.grandbay-puntacana.com/), [PADI — Diving in Punta Cana](https://www.padi.com/diving-in/punta-cana/), [SCUBA Travel — Dominican Republic](https://www.scubatravel.co.uk/americas/dominicanrepublic.html). Last updated 2026-05-24.*
+*Sources: [Grand Bay of the Sea — Punta Cana](https://www.grandbay-puntacana.com/), [PADI — Diving in Punta Cana](https://www.padi.com/diving-in/punta-cana/), [SCUBA Travel — Dominican Republic](https://www.scubatravel.co.uk/americas/dominicanrepublic.html). Re-audited 2026-07-29: Grand Bay of the Sea re-confirmed live and current as a PADI centre offering reef and wreck diving near Punta Cana. Last updated 2026-07-29.*
