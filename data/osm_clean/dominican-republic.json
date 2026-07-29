@@ -12,7 +12,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -24,11 +24,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "coralpointdiving.com,ultramarinedivers.com,prodiveinternational.com,scubaboard.com",
+    "validation_source": "coralpointdiving.com,ultramarinedivers.com,prodiveinternational.com,scubaboard.com,easydive24.de",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "qa_note": "Re-audit 2026-07-29: ship history (MV Norbrae, built 1962 Ardrossan/Strathclyde, wheat/barley Norway-Americas trade, renamed after Hurricane Georges 1998, sunk 1999-06-12 ~800m offshore) cross-checked across 5 independent sources, no conflicts.",
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -44,7 +45,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -60,7 +61,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -76,7 +77,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -88,11 +89,11 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "prodiveinternational.com,dresseldivers.com,diveoclock.com",
+    "validation_source": "prodiveinternational.com,dresseldivers.com,diveoclock.com,saonaisland.org",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -108,7 +109,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -124,7 +125,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -136,11 +137,12 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "superiordivesosua.com,sosuabeachdr.com,scubadivesosua.com",
+    "validation_source": "superiordivesosua.com,scubadivesosua.com,padi.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "qa_note": "sosuabeachdr.com (previously cited) returned 404/dead on 2026-07-29 re-check; replaced with padi.com as third independent source.",
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -156,7 +158,7 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -168,11 +170,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "coralpointdiving.com,ultramarinedivers.com,divingdr.com,divessi.com",
+    "validation_source": "coralpointdiving.com,ultramarinedivers.com,divingdr.com,godominicanrepublic.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "last_qa_date": "2026-05-24"
+      "qa_note": "Re-audit 2026-07-29: godominicanrepublic.com corroborates that Atlantic Princess sank on its own on 2009-05-06 after the intentional-scuttling plan was overtaken by events; description corrected to reflect this rather than a clean deliberate-sinking narrative.",
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -186,7 +189,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "adrex.com,sosuabeachdr.com,scubadivesosua.com,superiordivesosua.com",
+    "validation_source": "adrex.com,scubadivesosua.com,superiordivesosua.com",
     "tags": {
       "historic": "wreck",
       "name": "Zingara",
@@ -197,7 +200,8 @@
       "wreck:depth": "35m",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-24"
+      "qa_note": "Re-audit 2026-07-29: sosuabeachdr.com (previously cited) is dead (404 on the whole domain); dropped from validation_source, still 3 independent domains remain. Confirmed via Wikipedia that a separate, unrelated ship also named Zingara (1963-built, sunk 1984 in the Straits of Tiran, Red Sea) exists -- do not conflate the two in future research/edits.",
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -211,7 +215,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "coralpointdiving.com,scubaboard.com,scubadiving.com",
+    "validation_source": "coralpointdiving.com,dresseldivers.com,reefoasisdiveclub.com",
     "tags": {
       "name": "Aquarium",
       "scuba": "yes",
@@ -222,7 +226,8 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-24"
+      "qa_note": "Re-audit 2026-07-29: removed scubaboard.com citation (the previously-cited Catalina Island thread does not mention Aquarium or seahorses -- misattributed source). Replaced with dresseldivers.com and reefoasisdiveclub.com, which independently corroborate 'The Aquarium' as Catalina Island's shallow west-side site paired with 'The Wall', with seahorses a recurring guide-assisted sighting.",
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -236,7 +241,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "coralpointdiving.com,reefoasisdiveclub.com,scubaboard.com",
+    "validation_source": "coralpointdiving.com,reefoasisdiveclub.com,dresseldivers.com",
     "tags": {
       "name": "The Wall",
       "scuba": "yes",
@@ -247,7 +252,8 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-24"
+      "qa_note": "Re-audit 2026-07-29: swapped scubaboard.com (generic Bayahibe thread that does not confirm nurse sharks/reef sharks at this specific site) for dresseldivers.com. Nurse shark and Caribbean reef shark claims removed from markdown as unconfirmed for this specific site.",
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -267,7 +273,7 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -287,8 +293,8 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "qa_note": "OSM entry likely refers to Las Galeras Divers dive shop (commercial operator), not a named dive site. Coordinates are very close to Playita (19.2944N, 69.2077W). Cannot confirm this is a distinct dive site versus the dive center itself. Flagged for removal or rename. Last checked 2026-05-24.",
-      "last_qa_date": "2026-05-24"
+      "qa_note": "OSM entry likely refers to Las Galeras Divers dive shop (commercial operator), not a named dive site. Coordinates are very close to Playita (19.2944N, 69.2077W). Cannot confirm this is a distinct dive site versus the dive center itself. Flagged for removal or rename. Re-checked 2026-07-29: confirmed via las-galeras-divers.com's own site listing (Ferry Wreck, Wall La Farola, Barco Monika, Cabo Cabron/Tibisi, Piedra Bonita) that 'Las Galeras Divers' does not appear as a named dive site anywhere in their own materials -- reinforces that this OSM node is the shop location, not a site. Still unresolved; still recommend removal or rename.",
+      "last_qa_date": "2026-07-29"
     }
   },
   {
@@ -310,7 +316,8 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-05-24"
+      "qa_note": "Re-audit 2026-07-29: cross-checked build year (1957, Chantiers de l'Atlantique), length (127m), and tonnage (27,990 GT / 47,012 DWT) against Wikipedia plus independent web aggregation of Pro Dive International / Dominican Divers / DiveSSI content -- all consistent. Cause of grounding (storm) is disputed by Wikipedia itself (no recorded storm that date); markdown updated to flag this rather than assert a storm as fact. A claim that dynamite was used to free the grounded ship could only be traced to a single unverifiable secondary aggregation and was NOT added to the markdown per the 2-source rule.",
+      "last_qa_date": "2026-07-29"
     }
   }
 ]

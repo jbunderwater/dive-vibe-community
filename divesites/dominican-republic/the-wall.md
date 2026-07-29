@@ -17,9 +17,11 @@ addedBy: osm_import
 
 ## Overview
 
-The Wall is one of several wall dive sites accessible from Bayahibe on the southeastern Dominican Republic coast. The reef flat sits at 8–12 metres before dropping sharply to depths well beyond 40 metres. This is the primary wall dive option from the Bayahibe dive base, offered by all major Bayahibe operators (Coral Point Diving, Dressel Divers, Pro Dive International, ScubaCaribe). The wall face is colonised with sea fans, encrusting sponges, and large barrel sponges. Visibility regularly reaches 25–35 metres. Water temperatures remain between 27–29°C for most of the year. The dive typically pairs with the nearby Aquarium site: The Wall first at depth, then Aquarium as the shallower second dive.
+The Wall is one of several wall dive sites accessible from the Bayahibe/La Romana dive base on the southeastern Dominican Republic coast. The reef flat sits at 8–12 metres before dropping sharply to depths well beyond 40 metres. The wall face is colonised with sea fans, encrusting sponges, and large barrel sponges. Visibility regularly reaches 25–35 metres. Water temperatures remain between 27–29°C for most of the year. The dive typically pairs with the nearby Aquarium site: The Wall first at depth, then Aquarium as the shallower second dive.
 
-ScubaBoard reports describe Bayahibe reefs as "in great shape" with healthy sea fans and coral, and attribute this partly to the national park protection in the area.
+**Note on site identity:** Coral Point Diving and Dressel Divers both use "The Wall" and "The Aquarium" to refer to the paired dive sites on Isla Catalina's east and west sides — potentially the same feature as the separate "Catalina Wall" entry in this database. Reef Oasis Dive Club's site list separately identifies a "Catalina Wall" at 20–30 m alongside a distinct, shallower "Acuario"-type reef closer to Bayahibe itself. Given the inconsistency between operators on exactly which wall this OSM node represents, and this entry's 40 m depth being consistent with Catalina-area wall descriptions generally, treat this as describing the dive experience common to Bayahibe/Catalina wall dives rather than one uniquely pinned location.
+
+ScubaBoard's general Bayahibe trip-report thread describes local reefs as "in great shape" with "sea fans not all kicked over" and coral in good condition, and independently confirms St. George wreck and a mix of reef, wall, wreck, and cave dives in the area — but it does not name "The Wall" specifically, nor does it confirm nurse sharks or Caribbean reef sharks at this site (those claims have been removed from this description; see Marine Life below).
 
 ## Site Information
 
@@ -34,7 +36,7 @@ ScubaBoard reports describe Bayahibe reefs as "in great shape" with healthy sea 
 
 ## Marine Life
 
-Sources confirm the following at Bayahibe wall sites: hawksbill turtles (cruising the wall face feeding on sponges), eagle rays (in open water off the wall), nurse sharks (resting on ledges at 20–25 metres), Caribbean reef sharks (deeper sections), horse-eye jacks (circling in open water), parrotfish, surgeonfish, French angelfish, moray eels on ledge undersides. Peñon — a nearby wall site — is specifically noted by Coral Point Diving as a "must dive" for its concentration of turtles, eagle rays, stingrays, and drumfish. The broader wall environment applies similar expectations to The Wall.
+Dressel Divers reports seahorse sightings and dense schooling fish in the Bayahibe/Catalina wall-and-aquarium pairing, and Coral Point Diving's site descriptions for the area's wall dives mention sea fans, sponges, and reef fish cover. Nearby Peñón — a separate, specifically-named wall site — is noted by Coral Point Diving as a "must dive" for its concentration of turtles, eagle rays, stingrays, and drumfish; that reputation belongs to Peñón, not confirmed here for The Wall itself. Hawksbill turtles, eagle rays, and reef fish (parrotfish, surgeonfish, French angelfish) are consistent with what operators report across Bayahibe/Catalina wall dives generally. Prior claims of nurse sharks and Caribbean reef sharks specifically at The Wall could not be traced to any source and have been removed.
 
 ## Dive Profile
 
@@ -46,7 +48,7 @@ Standard boat operation from Bayahibe. Multiple operators depart throughout the 
 
 ## Tips
 
-- Keep one eye on the open blue water while exploring the wall — eagle rays often appear with little warning
+- Keep one eye on the open blue water while exploring the wall — eagle rays are reported by area operators, though not confirmed specifically at this site
 - The reef plateau top at 8–10 metres is worth a slow exploration during the safety stop
 - Pair with Aquarium (the nearby shallow reef site) for the classic Bayahibe two-tank day
 - The wall is particularly photogenic in the first two hours after sunrise when light penetrates at a favorable angle
@@ -60,4 +62,4 @@ The wall is deeper than it first appears — it is easy to descend beyond 30 met
 Shoot along the wall face with a diver and the open blue water as background for classic wall dive compositions. Sea fans at depth frame dramatic silhouette shots. The upper reef plateau in bright, shallow water is ideal for fish portraiture and reef landscape shots.
 
 ---
-*Sources: [Coral Point Diving](https://www.coralpointdiving.com/En/divesite.html), [Reef Oasis Dive Club — DR Sites](https://www.reefoasisdiveclub.com/diving-dominican-republic/dive-sites/), [ScubaBoard — Bayahibe Report](https://scubaboard.com/community/threads/bayahibe-dominican-republic-diving-report.540809/). Last updated 2026-05-24.*
+*Sources: [Coral Point Diving](https://www.coralpointdiving.com/En/divesite.html), [Reef Oasis Dive Club — DR Sites](https://www.reefoasisdiveclub.com/diving-dominican-republic/dive-sites/), [Dressel Divers — Bayahibe](https://www.dresseldivers.com/dive/dominican-republic/bayahibe-scuba-diving/). Last updated 2026-07-29.*
