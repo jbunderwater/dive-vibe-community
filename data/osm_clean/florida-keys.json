@@ -20,7 +20,7 @@
       "wreck:date_sunk": "2009-05-27",
       "validated": "true",
       "validation_source": "wikipedia.org,lostreefadventures.com,florida-scubadiving.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-30"
     }
   },
   {
@@ -40,7 +40,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "wikipedia.org,rainbowreef.com,florida-scubadiving.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-30"
     }
   },
   {
@@ -56,9 +56,9 @@
     "tags": {
       "name": "Triumph Reef",
       "sport": "scuba_diving",
-      "note": "Lesser-known Biscayne National Park reef site; no site-specific dive sources located after 2026-05-25 research",
+      "note": "Lesser-known Biscayne National Park reef site; no site-specific dive sources located after 2026-05-25 or 2026-07-30 research",
       "validated": "false",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-30"
     },
     "depth_max": 8
   },
@@ -79,7 +79,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "floridakeys.noaa.gov,rainbowreef.com,islandventure.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-30"
     }
   },
   {
@@ -107,7 +107,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,floridakeys.noaa.gov,coastguard.dodlive.mil",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-30"
     }
   },
   {
@@ -129,7 +129,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "floridakeys.noaa.gov,islamoradadivecenter.com,florida-scubadiving.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-30"
     }
   },
   {
@@ -151,8 +151,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,islamoradadivecenter.com,oceanexplorer.noaa.gov",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,islamoradadivecenter.com,oceanexplorer.noaa.gov,history.navy.mil",
+      "last_qa_date": "2026-07-30"
     }
   },
   {
@@ -172,8 +172,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "nps.gov,nps.gov/bisc,archaeologychannel.org",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "nps.gov,archaeologychannel.org,divespots.com",
+      "last_qa_date": "2026-07-30"
     }
   },
   {
@@ -193,8 +193,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "nps.gov,nps.gov/bisc,ace-diving.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "nps.gov,ace-diving.com,nationalparkstraveler.org",
+      "last_qa_date": "2026-07-30"
     }
   },
   {
@@ -220,7 +220,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,floridakeys.noaa.gov,florida-keys-vacation.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-30"
     }
   },
   {
@@ -238,9 +238,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Middle Keys reef site; no site-specific dive sources located after 2026-05-25 research",
+      "note": "Middle Keys reef site; no site-specific dive sources located after 2026-05-25 or 2026-07-30 research",
       "validated": "false",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-30"
     },
     "depth_max": 12
   },
@@ -260,9 +260,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Old ship remnants on north side of Wisteria Island (Key West harbor dredge spoil island); identity and condition unverifiable from public sources as of 2026-05-25",
+      "note": "Old ship remnants on north side of Wisteria Island (Key West harbor dredge spoil island); identity and condition unverifiable from public sources as of 2026-05-25; re-checked 2026-07-30, floridamemory.com confirms remnants exist but adds no identity/condition detail",
       "validated": "false",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-30"
     },
     "depth_max": 6
   },
@@ -291,7 +291,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikipedia.org,floridakeys.noaa.gov,florida-keys-vacation.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-30"
     }
   }
 ]

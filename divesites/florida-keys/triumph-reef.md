@@ -36,4 +36,4 @@ No public source reviewed describes: this site's marine life, typical depth prof
 Standard Florida Keys boat-diving precautions apply: dive within your certification limits, monitor air and depth, deploy an SMB on ascent, and confirm conditions and any park regulations with the boat crew before entering the water.
 
 ---
-*No site-specific dive sources located despite 2026-05-25 research. Description reflects only OpenStreetMap-recorded data. Divers should contact Biscayne National Park area operators directly. Last updated 2026-05-25.*
+*No site-specific dive sources located despite 2026-05-25 and 2026-07-30 research (WebSearch for "Triumph Reef Biscayne National Park dive site" returned only general park-wide diving pages). Description reflects only OpenStreetMap-recorded data. Divers should contact Biscayne National Park area operators directly. Last updated 2026-07-30.*
