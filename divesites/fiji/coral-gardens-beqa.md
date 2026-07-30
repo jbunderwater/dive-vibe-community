@@ -13,15 +13,17 @@ addedBy: osm_import
 
 # Coral Gardens Beqa
 
-A gentle, accessible coral garden in sheltered Beqa Lagoon — an ideal complement to the deeper, more demanding dives on the lagoon's outer reef.
+A gentle, sheltered reef zone within Beqa Lagoon — the name describes a category of easy, shallow diving in the lagoon rather than a single confirmed named site.
 
 ## Overview
 
-Coral Gardens sits in the sheltered interior of Beqa Lagoon, protected from ocean swells by the surrounding barrier reef. At a maximum depth of 15 meters and with typically nil to light current, it is one of the most accessible sites in the lagoon and a natural complement to deeper sites like Shark Reef Marine Reserve. Beqa Lagoon has been described as "The Soft Coral Capital of the World" by multiple sources for the density and variety of its soft coral coverage, and Coral Gardens represents the lagoon's gentler face: a varied reef structure of hard and soft corals accessible to all certification levels. Beqa Adventure Divers lists this type of site as a standard option on their coral dive schedule alongside the shark dives, and Beqa Lagoon Resort operators offer similar shallow reef packages for beginners and certification courses.
+"Coral Gardens" is listed in this dataset as a site within the sheltered interior of Beqa Lagoon, Pacific Harbour. On re-audit, named site-by-site guides for Beqa Lagoon (Fiji Travel's "Best Dive Sites Around Beqa Lagoon" and Dive The World's Beqa Lagoon guide) were checked directly and neither names a specific site called "Coral Gardens." They instead name Caesar's Rocks, Fantasea, Carpet Cove, E.T., Seven Sisters, The Pinnacle, and The Three Nuns as the lagoon's individually identified sites — with Caesar's Rocks and Fantasea both offering the kind of calm, shallow, all-levels diving this entry describes. The previously-cited third source, Beqa Adventure Divers' "Coral Dives" page, is a category page describing a style of dive (shallow coral reef diving) offered alongside their shark dives, not a page naming a specific "Coral Gardens" site. Because a specifically named site by this name could not be confirmed across three independent sources, this entry has been marked unvalidated pending better evidence — it most likely corresponds to Caesar's Rocks, Fantasea, or an operator-specific label for a class of shallow lagoon dives, but that cannot be confirmed from available sources.
+
+Divers looking for exactly this kind of shallow, current-free reef dive in Beqa Lagoon should ask their operator by name — Caesar's Rocks and Fantasea are both confirmed, similarly-styled alternatives.
 
 ## Site Information
 
-- **Location**: Beqa Lagoon, Pacific Harbour, Viti Levu, Fiji
+- **Location**: Beqa Lagoon, Pacific Harbour, Viti Levu, Fiji (specific site identity unconfirmed — see Overview)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -32,30 +34,29 @@ Coral Gardens sits in the sheltered interior of Beqa Lagoon, protected from ocea
 
 ## Marine Life
 
-The calm, shallow coral structure supports a dense resident reef fish community. Chromis and damselfish create a constant shimmer over the coral heads. Moorish idols, butterflyfish, and bannerfish patrol the open water above the reef. Anemonefish inhabit large anemones distributed across the reef flat. Hawksbill sea turtles are reported as regular visitors by Beqa Lagoon Resort accounts. For macro enthusiasts, the lagoon's protected waters support nudibranchs, flatworms, and ribbon eels within reef rock burrows. The lagoon's general visibility of 15–30 meters and water temperatures of 25–29°C apply year-round. No site-specific marine life documentation distinguishes Coral Gardens from the broader Beqa Lagoon reef ecosystem — species lists reflect the lagoon system generally.
+No site-specific marine life source could be confirmed for a distinctly named "Coral Gardens" site. The description below reflects Beqa Lagoon's general shallow-reef character rather than confirmed sightings at this specific location: chromis, damselfish, moorish idols, butterflyfish, bannerfish, and anemonefish are typical of the lagoon's sheltered shallow reefs, and hawksbill turtles are reported as regular lagoon visitors by operator accounts. Treat this as regional, not site-specific, information.
 
 ## Dive Profile
 
-Descend to the deepest section (10–15 meters) and work slowly up the slope toward the shallower reef flat, finishing the dive in 3–8 meters where hard coral coverage and light are most intense. Total dive times of 60–70 minutes are easily achieved given the shallow profile. Night dives on the lagoon's coral gardens are productive — sleeping parrotfish, hunting octopus, and fully extended crinoids are characteristic night-dive subjects across Beqa Lagoon.
+Based on the general character of Beqa Lagoon's sheltered shallow reefs: descend to the deepest section (10–15 meters) and work up the slope toward the reef flat, finishing in 3–8 meters where light and hard coral coverage are best. A 60–70 minute dive time is easily achieved given the shallow profile.
 
 ## Entry and Exit
 
-Accessed by boat from Pacific Harbour-based operators as part of multi-dive packages. The lagoon is calm enough that entry and exit are straightforward. The site is used by operators for beginner and Discover Scuba experiences given the shallow, benign conditions. Operators commonly pair it with deeper Beqa Lagoon dives as a third, shallower closing dive.
+Accessed by boat from Pacific Harbour-based operators as part of multi-dive packages. Lagoon conditions are calm enough that entry and exit are straightforward on any of the lagoon's sheltered shallow sites.
 
 ## Tips and Recommendations
 
-- **Slow down and look small**: Coral Gardens rewards methodical inspection of individual coral heads. Macro life requires close-range searching.
-- **Visit at night**: A night dive on the lagoon's coral gardens reveals the reef's nocturnal community. Octopus hunt openly and moray eels cruise actively. Book through your operator.
-- **Ideal for mixed-experience groups**: The shallow, calm conditions accommodate groups where experience levels vary.
-- **Combine with Cathedral Beqa**: The two sites are geographically close — Coral Gardens for relaxed reef exploration, Cathedral for the swim-through drama.
+- **Ask your operator to confirm the site name**: "Coral Gardens" may be an informal or operator-specific label rather than a universally recognized site name — confirm what you'll actually be diving.
+- **Caesar's Rocks and Fantasea are confirmed alternatives**: If you want this style of dive specifically, these two are independently documented shallow, all-levels sites in the same lagoon.
+- **Ideal for mixed-experience groups**: Shallow, calm lagoon reef dives generally accommodate groups where experience levels vary.
 
 ## Safety Considerations
 
-Coral Gardens presents minimal hazards beyond standard reef diving precautions. Buoyancy control is important — fin tips easily damage fragile shallow coral. Maintain proper trim throughout and avoid kneeling on coral rubble. Blue-spotted stingrays on sandy patches will flee if approached but can sting if accidentally stepped on.
+Shallow, sheltered lagoon reef diving of this type presents minimal hazards beyond standard reef precautions. Buoyancy control matters — fin tips easily damage fragile shallow coral. Blue-spotted stingrays on sandy patches will flee if approached but can sting if accidentally stepped on.
 
 ## Photography
 
-The site's shallow profile and good light make it well-suited to close-focus wide-angle shots of coral heads with ambient light flooding from above. Macro shooters have essentially unlimited bottom time to work the reef. Visibility is occasionally reduced by plankton blooms, which provide exceptional macro lighting conditions.
+Shallow, well-lit lagoon reef sites of this type suit close-focus wide-angle shots of coral heads with ambient light from above, and offer effectively unlimited bottom time for macro work given the shallow profile.
 
 ---
-*Sources: [Beqa Adventure Divers - Coral Dives](https://www.fijisharkdive.com/coral-dives/), [Fiji Travel - Best Dive Sites Beqa Lagoon](https://www.fijitravel.org/posts/best-dive-sites-beqa-lagoon), [Dive The World - Beqa Lagoon](https://www.dive-the-world.com/diving-sites-fiji-beqa-lagoon.php). Last updated 2026-05-25.*
+*Description based on Beqa Lagoon's general shallow-reef diving character. The specific site name "Coral Gardens Beqa" could not be confirmed against 3 independent sources during re-audit on 2026-07-30 — see Overview for detail. Sources consulted: [Fiji Travel - Best Dive Sites Beqa Lagoon](https://www.fijitravel.org/posts/best-dive-sites-beqa-lagoon), [Dive The World - Beqa Lagoon](https://www.dive-the-world.com/diving-sites-fiji-beqa-lagoon.php), [Beqa Adventure Divers - Coral Dives](https://www.fijisharkdive.com/coral-dives/). Last updated 2026-07-30 (re-audited: downgraded from validated=true; the cited "Coral Dives" source was found to be a generic category page, not a named-site listing).*

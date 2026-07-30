@@ -28,7 +28,7 @@ Kansas is a dive site within Namena Marine Reserve, the largest no-take reserve 
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Moderate; varies with tide
-- **Best Time**: May to October
+- **Best Time**: Sources give differing advice for Namena specifically. PADI's Namena Marine Park listing notes peak coral and shark sightings April–September with manta encounters more likely November–April. Other Namena-specific accounts note that the wet season (November–May) brings calmer seas and easier boat access from Savusavu, while the dry season (May–October) gives the best visibility and is the general Fiji diving norm. Both windows are viable; ask your operator which suits current conditions
 
 ## Marine Life
 
@@ -60,4 +60,4 @@ Namena Marine Reserve lies in open water and boat travel can be rough in trade w
 Kansas rewards close-focus wide-angle photography of the Sinularia soft coral reefscape. Position yourself at 10–15 meters looking along the reef crest with soft coral extending in the current, using strobes to reveal the coral's true warm colors against the ambient blue. Macro shooters have access to nudibranchs, leaf scorpionfish, and small crustaceans in the reef matrix. The 10-meter Kansas window, as described by Waterlust Fiji, is particularly productive for compact systems shooting close-focus wide-angle.
 
 ---
-*Sources: [Waterlust Fiji - Scuba Diving Namena Reserve](https://www.waterlustfiji.com/post/scuba-diving-namena-reserve), [Fijieco - Namena Marine Reserve](https://www.fijieco.com/places/diving-snorkeling/namena-marine-reserve), [Namena Island - Diving](https://www.namenaisland.com/Diving). Last updated 2026-05-25.*
+*Sources: [Waterlust Fiji - Scuba Diving Namena Reserve](https://www.waterlustfiji.com/post/scuba-diving-namena-reserve), [Fijieco - Namena Marine Reserve](https://www.fijieco.com/places/diving-snorkeling/namena-marine-reserve), [Namena Island - Diving](https://www.namenaisland.com/Diving), [PADI - Namena Marine Park](https://www.padi.com/dive-site/fiji/namena-marine-park/). Last updated 2026-07-30 (re-audited: Kansas-specific claims re-confirmed against current source content; corrected the "Best Time" field to reflect a genuine conflict between general-Fiji dry-season advice and Namena-specific wet-season access advice, rather than asserting a single window).*
