@@ -18,7 +18,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31"
     }
   },
   {
@@ -40,7 +40,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31"
     }
   },
   {
@@ -62,7 +62,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31"
     }
   },
   {
@@ -78,7 +78,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31"
     }
   },
   {
@@ -94,7 +94,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31"
     }
   },
   {
@@ -110,7 +110,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31"
     }
   },
   {
@@ -125,8 +125,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "flowergarden.noaa.gov,dan.org",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "flowergarden.noaa.gov,sanctuaries.noaa.gov",
+      "validation_note": "Only 2 independent domains found with site-specific facts; dan.org's Flower Garden Banks articles do not discuss Rankin Bank and its prior citation here was incorrect and has been removed. Below the 3-source bar for deep-QA re-validation; flagged unresolved.",
+      "last_qa_date": "2026-07-31"
     }
   },
   {

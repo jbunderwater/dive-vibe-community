@@ -33,7 +33,7 @@ Rankin Bank lies approximately 124 miles (200 km) from shore and 9.3 miles east 
 
 ## Marine Life
 
-NOAA documents black corals, octocorals, algae, sponges, stony corals, and invertebrates at Rankin and 28 Fathom Banks. Deeper zones feature groupers inhabiting whip coral fields. The reef community is mesophotic in character given the minimum 50-meter depth. No site-specific recreational dive reports were found in the sources reviewed.
+NOAA documents black corals, octocorals, algae, sponges, stony corals, and invertebrates at Rankin and 28 Fathom Banks. Deeper zones feature groupers inhabiting whip coral fields. The reef community is mesophotic in character given the minimum 50-meter depth. No site-specific recreational dive reports were found in the sources reviewed. (Note: DAN Alert Diver's Flower Garden Banks feature articles, cited elsewhere in this destination, discuss McGrail, Bright, and Geyer Banks by name but do not mention Rankin Bank — that source has been removed from this page's citations as inapplicable.)
 
 *Description based on NOAA sanctuary documentation. No recreational dive-specific marine life sources found for this site.*
 
@@ -50,4 +50,4 @@ Access by charter vessel only; anchoring is prohibited throughout the sanctuary.
 Rankin Bank is beyond recreational dive limits at 50 meters minimum depth. Technical diving training, mixed gas, and decompression capability are required. At 124 miles offshore, emergency response is a multi-hour operation. This site is not suitable for recreational divers.
 
 ---
-*Sources: [NOAA Rankin and 28 Fathom Banks](https://flowergarden.noaa.gov/about/rankin28fathombanks.html), [NOAA Flower Garden Banks FAQ](https://flowergarden.noaa.gov/about/faq.html), [NOAA Sanctuary Expansion](https://sanctuaries.noaa.gov/news/press/flower-garden-banks-expansion/). Last updated 2026-05-25.*
+*Sources: [NOAA Rankin and 28 Fathom Banks](https://flowergarden.noaa.gov/about/rankin28fathombanks.html), [NOAA Flower Garden Banks FAQ](https://flowergarden.noaa.gov/about/faq.html), [NOAA Sanctuary Expansion Proposal (names Rankin Bank)](https://sanctuaries.noaa.gov/news/apr20/flower-garden-banks-national-marine-sanctuary-proposes-expansion.html). Re-audited 2026-07-31: the previously cited DAN Alert Diver article and NOAA sanctuary-expansion press release do not actually mention Rankin Bank and have been removed/replaced; only 2 independent domains (flowergarden.noaa.gov, sanctuaries.noaa.gov) carry verifiable Rankin Bank-specific facts, below this pass's 3-source bar — flagged for further research. Last updated 2026-07-31.*

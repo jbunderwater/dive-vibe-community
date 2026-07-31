@@ -14,7 +14,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "padi.com,taveunioceansports.com,saltdiverfiji.com,fiji.travel,diveotion.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-audited 2026-07-31: re-pulled all 5 sources, lava-tube entry / tidal-window / Dendronephthya facts confirmed current. Recreational max depth reported 35-40m across sources (PADI cites 40m); kept 35m as the conservative recreational figure already used, noting the range in markdown."
     }
   },
   {
@@ -32,7 +33,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "fiji.travel,taveunioceansports.com,dive-the-world.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-audited 2026-07-31: 390+ coral species / ~1,500 fish species figures reconfirmed on fiji.travel (one secondary source cites ~1,400 fish species; within normal source variance, not flagged). Removed unconfirmed Coleman shrimp claim from markdown (no site-specific source)."
     }
   },
   {
@@ -50,7 +52,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "fijisharkdive.com,diveplanit.com,fiji.travel",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-audited 2026-07-31: establishment (April 2004) and National Marine Park designation (November 2014) dates reconfirmed across sources; 8-species shark list and Arena depth profile (5m/15m/30m) reconfirmed by diveplanit.com re-fetch."
     }
   },
   {
@@ -68,7 +71,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "naia.com.fj,dive-the-world.com,diversiondivetravel.com.au",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-audited 2026-07-31: naia.com.fj re-fetch reconfirms seamount rising from ~900m/3,000ft, schooling barracuda/trevally/surgeonfish, occasional hammerheads, lee-side soft corals. No changes."
     },
     "depth_max": 40
   },
@@ -87,7 +91,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "naia.com.fj,liveaboard.com,dive-the-world.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-audited 2026-07-31: liveaboard.com re-fetch reconfirms ~20m passage length, 10-25 grey reef sharks (mostly female), 3-4 hour tidal window, >4 knot current outside the window. No changes."
     }
   },
   {
@@ -105,7 +110,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "papagenoresort.com,dive-the-world.com,fiji.travel",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-audited 2026-07-31: CORRECTION - papagenoresort.com's own current page describes the site primarily as a 'year-round manta ray cleaning station,' not a feeding-first site. Markdown previously framed feeding as primary and cleaning as secondary; flipped to match the operator's current framing (cleaning station primary, supplemental feeding activity noted)."
     }
   },
   {
@@ -121,9 +127,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "fijisharkdive.com,fijitravel.org,dive-the-world.com",
-      "last_qa_date": "2026-05-25"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-07-31",
+      "qa_note": "DOWNGRADED 2026-07-31 on re-audit: could not confirm 'Coral Gardens' as a standalone named Beqa Lagoon site in a fresh pull of the sources previously cited. Beqa Adventure Divers' actual named coral-dive sites are Carpet Cove, Caesar's Rock, Three Nuns, Fantasy, The Aquarium, Pearl Rock, Glory Hole, Seven Sisters, Million Dollar Point (fijisharkdive.com); dive-the-world.com's Beqa Lagoon site list (Caesar's Rocks, Carpet Cove, E.T., Fantasea, Seven Sisters, The Pinnacle, Three Nuns) also omits 'Coral Gardens.' fijitravel.org's 'Coral Gardens' heading in fact describes the Shark Reef Marine Reserve shark-feed dive profile (10-30m, bull shark aggregation), not a separate beginner reef. 'Coral garden' appears only as a generic habitat descriptor across sources, not a confirmed site name at these coordinates. Previously marked validated in error; unvalidated pending a source that names this site specifically."
     }
   },
   {
@@ -133,15 +140,16 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 20,
-    "site_type": "cave",
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "fijitravel.org,diveplanit.com,dive-the-world.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "beqalagoonresort.com,diveplanit.com,scubadiving.com,jettydive.com.au",
+      "last_qa_date": "2026-07-31",
+      "qa_note": "CORRECTED 2026-07-31 on re-audit: the previous description (natural swim-through cavern with light beams and batfish, cited to fijitravel.org) does not match the site independently and consistently described as 'The Cathedral' by the operator (beqalagoonresort.com) and by diveplanit.com, scubadiving.com, and jettydive.com.au: a hand-fed shark dive developed by Beqa Lagoon Resort at a fixed reef location (~21m/70ft), featuring up to 9 shark species including bull and tiger sharks, viewed from stone-wall/ledge positions. site_type changed cave->reef and difficulty Intermediate->Advanced to match. fijitravel.org's differing cavern/batfish description is noted as a source conflict in the markdown rather than silently dropped."
     }
   },
   {
@@ -159,8 +167,8 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-25",
-      "qa_note": "Site name Zoo Namena not confirmed in 3+ independent sources specific to Namena Reserve; major databases associate 'Zoo' with Yasawa/Somosomo Strait. Coordinates place this in Koro Sea near Namenalala. Cannot reach 3-source threshold."
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-checked 2026-07-31: still cannot confirm 'Zoo' as a Namena-specific site in 3+ independent sources. Fresh search reconfirms 'The Zoo' is documented elsewhere (a current-swept wall site associated with the Somosomo Strait / Taveuni area, per Tourism Fiji and scubadiving.com), not Namena. fijieco.com's current Namena page names only North Save-a-Tack, Grand Central Station, Moody's Namena, and Kansas as its detailed sites - no Zoo. Cannot reach 3-source threshold; left unvalidated."
     },
     "depth_max": 30
   },
@@ -178,8 +186,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "waterlustfiji.com,fijieco.com,namenaisland.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "waterlustfiji.com,fijieco.com,namenaisland.com,fiji.wcs.org",
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-audited 2026-07-31: Sinularia soft-coral reefscape and 10m 'Kansas window' reconfirmed on waterlustfiji.com. Reserve size corrected from a single 'approximately 70 sq km' figure to a range (60-70+ sq km) after WCS Fiji (authoritative, added as 4th source) gives 60 km2 while other sources report up to 70-88 km2. Noted fijieco.com's current page instead describes Kansas as 'a drift dive through channels and swim-throughs' - flagged as a minor source discrepancy in markdown rather than adopted, since it is outweighed by the more detailed waterlustfiji.com/namenaisland.com accounts."
     }
   },
   {
@@ -197,8 +206,8 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-25",
-      "qa_note": "Site name Supermarket Namena not confirmed in 3+ independent sources at Namena Reserve specifically; primary 'Supermarket' references in Fiji databases are Mamanuca Islands sites. Cannot reach 3-source threshold."
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-checked 2026-07-31: still cannot confirm 'Supermarket' as a Namena-specific site. Fresh search reconfirms 'The Supermarket' is a well-documented named shark dive in the Mamanuca Islands (zentacle.com, thediveglobe.com), not Namena. Cannot reach 3-source threshold; left unvalidated."
     }
   },
   {
@@ -216,7 +225,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "fiji.travel,saltdiverfiji.com,dive-the-world.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-audited 2026-07-31: taveunioceansports.com and saltdiverfiji.com re-fetches both reconfirm Purple Wall as one of the strait's named vertical drop-off wall dives alongside The Zoo and Fish Factory. No changes."
     }
   },
   {
@@ -234,7 +244,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "dive-the-world.com,saltdiverfiji.com,fijitravel.org",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-audited 2026-07-31: dive-the-world.com re-fetch reconfirms 'Eel Reef' north of Rainbow Reef, 8-25m slope, ribbon/snake eels, ghost pipefish, frogfish, and pygmy seahorse - all consistent with existing markdown. No changes."
     }
   },
   {
@@ -252,7 +263,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "fiji.travel,saltdiverfiji.com,dive-the-world.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-audited 2026-07-31: dive-the-world.com re-fetch reconfirms depth 10-20m and adds location detail (Inner Vuna Reef) plus damsels/anthias/moray eels/barracuda/trevally, consistent with existing markdown. Added the Inner Vuna Reef detail to the markdown."
     }
   },
   {
@@ -270,8 +282,8 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-05-25",
-      "qa_note": "Samu Reef not found in any major dive database (dive-the-world.com, papagenoresort.com, padi.com, techdivetravels.com). Cannot confirm site name, depth, or marine life claims with 3 independent sources."
+      "last_qa_date": "2026-07-31",
+      "qa_note": "Re-checked 2026-07-31: still not found in any major dive database consulted (dive-the-world.com, papagenoresort.com, fiji.travel, diveadventures.com.au). Cannot confirm site name, depth, or marine life claims with 3 independent sources; left unvalidated."
     }
   }
 ]

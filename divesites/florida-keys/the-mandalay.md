@@ -27,9 +27,15 @@ The Mandalay is the best snorkeling shipwreck in Biscayne National Park, located
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 3.6 meters
 
+## Marine Life
+
+Florida Rambler reports schools of colorful reef fish and purple sea fans growing on the wreck debris, with trumpetfish, blue tang, surgeonfish, parrotfish, and sergeant majors regularly seen moving through the scattered hull sections.
+
 ## Wreck History
 
-The Mandalay was a 110-foot-6-inch steel-hulled auxiliary schooner built in 1928 by George Lawley & Son Corporation for $177,000. After multiple owners, Windjammer Cruises Inc. acquired and renamed her in 1965 for use as a "barefoot" luxury cruise ship. On the night of December 31, 1965 / early January 1, 1966, returning from a 10-day Bahamian cruise to Miami with 23 passengers and 12 crew, the captain miscalculated the distance from Fowey Rocks and left a novice seaman at the helm; the schooner ran aground on Long Reef roughly 20 miles off her intended course. An SOS at 3:45 AM brought Coast Guard helicopters and patrol boats and all aboard were rescued. Salvage tugs failed to pull her free; the masts were removed under contract for re-use on a replica Spanish galleon, and the hull was picked clean by opportunistic salvors before official recovery crews arrived. The wreck remains embedded on Long Reef as one of six sites on Biscayne National Park's Maritime Heritage Trail.
+Per the National Park Service, the Mandalay was originally built in 1928 by George Lawley & Son Corporation as the private schooner yacht Hardi Biou, designed by John G. Alden Naval Architects for Dr. Henry D. Lloyd of Brookline, Massachusetts, at a cost of $177,000. She was a 110-foot-6-inch steel-hulled auxiliary schooner. Sold in 1931, she was renamed Valor and passed through five further owners under that name before Michael Burke of Windjammer Cruises, Inc. purchased, refitted, and renamed her Mandalay in 1965 for use as a "barefoot" luxury cruise ship. On the night of December 31, 1965 / early January 1, 1966, returning from a Bahamian cruise with 23 passengers and 12 crew, a 26-year-old Norwegian captain miscalculated the distance from Fowey Rocks Light and left an inexperienced seaman at the helm; the schooner ran aground on Long Reef roughly 20 miles off her intended course. All aboard were rescued by helicopter to Homestead Air Force Base with minimal injury. Salvage tugs failed to pull her free; the masts were removed under contract for re-use on a replica Spanish galleon, and the hull was picked clean by opportunistic salvors before official recovery crews arrived. The wreck remains embedded on Long Reef as one of six sites on Biscayne National Park's Maritime Heritage Trail.
+
+Note: Windjammer Barefoot Cruises' well-documented tall ship "SV Mandalay" (built as the yacht Hussar, later the oceanographic research vessel Vema) is a separate, larger vessel and should not be confused with this wrecked schooner — despite both having sailed for the Windjammer fleet under the same name.
 
 ## Dive Profile
 
@@ -53,4 +59,4 @@ The Mandalay is reachable only by boat through Biscayne National Park, which mai
 - Fire coral and stinging hydroids commonly encrust shallow Keys wrecks; maintain neutral buoyancy.
 
 ---
-*Sources: [NPS — Mandalay (Biscayne National Park)](https://www.nps.gov/bisc/learn/historyculture/mandalay.htm), [NPS Places — Mandalay](https://www.nps.gov/places/mandalay.htm), [NPS — Maritime Heritage Trail, Biscayne](https://www.nps.gov/bisc/learn/historyculture/maritime-heritage-trail.htm), [Ace Diving — Biscayne National Park](https://www.ace-diving.com/biscayne-national-park). Last updated 2026-05-25.*
+*Sources: [NPS — Mandalay (Biscayne National Park)](https://www.nps.gov/bisc/learn/historyculture/mandalay.htm), [NPS Places — Mandalay](https://www.nps.gov/places/mandalay.htm), [NPS — Maritime Heritage Trail, Biscayne](https://www.nps.gov/bisc/learn/historyculture/maritime-heritage-trail.htm), [Ace Diving — Biscayne National Park](https://www.ace-diving.com/biscayne-national-park), [Florida Rambler — Snorkel Biscayne National Park](https://www.floridarambler.com/southeast-florida-getaways/snorkel-biscayne-national-park/). Last updated 2026-07-31.*

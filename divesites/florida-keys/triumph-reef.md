@@ -29,11 +29,11 @@ Triumph Reef is a mapped reef feature at roughly 25.47°N, 80.11°W, at the nort
 
 ## What Is Not Documented
 
-No public source reviewed describes: this site's marine life, typical depth profile, currents, visibility, seasonality, photography conditions, or which operators visit it. Divers interested in Triumph Reef should contact Key Largo or Homestead-area operators directly for first-hand information, as the site sits within or adjacent to Biscayne National Park waters.
+No public source reviewed describes: this site's marine life, typical depth profile, currents, visibility, seasonality, photography conditions, or which operators visit it. A 2026-07-31 re-search, including a full dive-site listing from a Miami-area operator (Diver's Paradise) covering dozens of named reef and wreck sites in the area, still turned up no mention of "Triumph Reef" specifically. Divers interested in Triumph Reef should contact Key Largo or Homestead-area operators directly for first-hand information, as the site sits within or adjacent to Biscayne National Park waters.
 
 ## General Safety
 
 Standard Florida Keys boat-diving precautions apply: dive within your certification limits, monitor air and depth, deploy an SMB on ascent, and confirm conditions and any park regulations with the boat crew before entering the water.
 
 ---
-*No site-specific dive sources located despite 2026-05-25 research. Description reflects only OpenStreetMap-recorded data. Divers should contact Biscayne National Park area operators directly. Last updated 2026-05-25.*
+*No site-specific dive sources located despite 2026-05-25 and 2026-07-31 research (including a Diver's Paradise Miami dive-site listing, checked 2026-07-31, which does not mention this site). Description reflects only OpenStreetMap-recorded data. Divers should contact Biscayne National Park area operators directly. Last updated 2026-07-31.*

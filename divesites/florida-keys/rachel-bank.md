@@ -17,7 +17,7 @@ Rachel Bank is a reef dive site in the Florida Keys.
 
 ## Overview
 
-Rachel Bank is a named reef feature in the Lower Keys, located at roughly 24.74°N, 81.08°W. It is tagged in OpenStreetMap as a natural reef and recorded as a scuba diving site, but no site-specific dive operator listings, trip reports, or other public documentation could be located. The points below reflect only what is recorded in the underlying data — site-specific marine life, typical dive profile, currents, visibility, and photography conditions are not documented in the sources reviewed.
+Rachel Bank is a named reef feature in the Lower Keys, located at roughly 24.74°N, 81.08°W. It is tagged in OpenStreetMap as a natural reef and recorded as a scuba diving site. A 2026-07-31 re-search confirmed matching coordinates for "Rachel Bank" in a recreational fishing directory (HookAndBullet.com), indicating the bank is a recognized local feature used by anglers — but no site-specific dive operator listings, trip reports, or other diving-focused documentation could be located. The points below reflect only what is recorded in the underlying data — site-specific marine life, typical dive profile, currents, visibility, and photography conditions are not documented in the sources reviewed.
 
 ## Site Information
 
