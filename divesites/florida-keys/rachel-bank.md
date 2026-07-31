@@ -36,4 +36,4 @@ No public source reviewed describes: the site's marine life, depth profile, curr
 Standard Florida Keys boat-diving precautions apply: dive within your certification limits, monitor air and depth, deploy an SMB on ascent, and confirm conditions with the boat crew before entering the water.
 
 ---
-*No site-specific dive sources located despite 2026-05-25 research. Description reflects only OpenStreetMap-recorded data. Divers should contact Marathon/Lower Keys area operators directly. Last updated 2026-05-25.*
+*No site-specific dive sources located despite 2026-05-25 and 2026-07-31 research. [HookAndBullet — Rachel Bank](https://www.hookandbullet.com/fishing-rachel-bank-marathon-fl/nearby-hot-spots/) confirms the bank as a named fishing location at matching coordinates, but this is not a diving source. Description otherwise reflects only OpenStreetMap-recorded data. Divers should contact Marathon/Lower Keys area operators directly. Last updated 2026-07-31.*

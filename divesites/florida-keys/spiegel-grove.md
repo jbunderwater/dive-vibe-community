@@ -57,10 +57,11 @@ The site is accessible only by boat (about a 25-30 minute run from Key Largo) an
 - The 60-foot deck is well below recreational no-decompression limits for repetitive dives — monitor computers carefully and plan conservative profiles.
 - Sun exposure on surface intervals 6 miles offshore is intense; bring water, sun protection, and a wind layer.
 - Visibility ranges widely; on cloudy days the superstructure can fade into blue-green haze and divers should stay close to the mooring line on descent.
+- Diving fatalities have occurred at this depth in recent years, a reminder that the site's 60-90+ foot decks call for solid buoyancy control, a recent deep-diving history, and conservative dive planning.
 
 ## Photography
 
 Florida-Scubadiving.com notes the ship's crane arms, encrusted with sponges and corals, are a signature wide-angle subject; the upright orientation since 2005 makes the superstructure photogenic and navigable, though the depth and ambient light loss favor strobes and fast wide lenses.
 
 ---
-*Sources: [Wikipedia — USS Spiegel Grove](https://en.wikipedia.org/wiki/USS_Spiegel_Grove_(LSD-32)), [Rainbow Reef Dive Center — Spiegel Grove](https://www.rainbowreef.com/dive-locations-in-key-largo/spiegel-grove-wreck), [Florida-Scubadiving.com — USS Spiegel Grove](https://www.florida-scubadiving.com/uss-spiegel-grove-key-largo/), [Scuba-Fun Florida — Spiegel Grove Wreck](https://scubafunflorida.com/the-spiegel-grove-wreck/). Last updated 2026-05-25.*
+*Sources: [Wikipedia — USS Spiegel Grove](https://en.wikipedia.org/wiki/USS_Spiegel_Grove_(LSD-32)), [Rainbow Reef Dive Center — Spiegel Grove](https://www.rainbowreef.com/dive-locations-in-key-largo/spiegel-grove-wreck), [Florida-Scubadiving.com — USS Spiegel Grove](https://www.florida-scubadiving.com/uss-spiegel-grove-key-largo/), [Scuba-Fun Florida — Spiegel Grove Wreck](https://scubafunflorida.com/the-spiegel-grove-wreck/). Re-audited 2026-07-31: all facts re-checked against current sources, no changes required. Last updated 2026-07-31.*

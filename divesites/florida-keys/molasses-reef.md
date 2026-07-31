@@ -49,7 +49,7 @@ The reef sits roughly 6 miles southeast of Key Largo, a 30-minute run by boat fr
 
 - Sun exposure on surface intervals is severe — bring water, reef-safe sunscreen, and sun protection.
 - The site is named in part for Fire Coral Cave; fire coral is widespread on the spurs and easily contacted with a careless fin or knee.
-- Mid-summer reef temperatures regularly hit 86 degrees F; NOAA documented widespread bleaching during the 2023 heat event, and divers should never touch corals.
+- Mid-summer reef temperatures regularly hit 86 degrees F; NOAA documented widespread bleaching during the 2023 heat event, and NOAA Coral Reef Watch was again reporting Bleaching Alert Level 1 conditions across the Florida Keys as of summer 2026. Divers should never touch corals.
 - The southern end's current can be strong; brief with the boat on drift procedures and surface-marker buoy use before entering.
 - The SPA is a strict no-take zone — no spearfishing, no lobstering, no collecting of corals or shells, no fish-feeding.
 
@@ -58,4 +58,4 @@ The reef sits roughly 6 miles southeast of Key Largo, a 30-minute run by boat fr
 Key Largo's summer visibility on outer reefs commonly runs 60-80 feet (occasionally to 100 feet in clear winter mornings), making Molasses well-suited to wide-angle reef and seascape photography across the spur-and-groove ridges and over the historic Spanish Anchor.
 
 ---
-*Sources: [NOAA FKNMS — Molasses Reef SPA](https://floridakeys.noaa.gov/zones/spas/molasses.html), [NOAA FKNMS — Winch Hole/M13 Wreckage](https://floridakeys.noaa.gov/shipwrecks/winch-hole.html), [Rainbow Reef Dive Center — Molasses Reef](https://www.rainbowreef.com/dive-locations-in-key-largo/molasses-reef), [Rainbow Reef — Eagle Ray Alley](https://www.rainbowreef.com/dive-locations-in-key-largo/molasses-reef/eagle-ray-alley), [Island Ventures — Molasses Reef](https://www.islandventure.com/molasses-reef/). Last updated 2026-05-25.*
+*Sources: [NOAA FKNMS — Molasses Reef SPA](https://floridakeys.noaa.gov/zones/spas/molasses.html), [NOAA FKNMS — Winch Hole/M13 Wreckage](https://floridakeys.noaa.gov/shipwrecks/winch-hole.html), [Rainbow Reef Dive Center — Molasses Reef](https://www.rainbowreef.com/dive-locations-in-key-largo/molasses-reef), [Rainbow Reef — Eagle Ray Alley](https://www.rainbowreef.com/dive-locations-in-key-largo/molasses-reef/eagle-ray-alley), [Island Ventures — Molasses Reef](https://www.islandventure.com/molasses-reef/), [NOAA Coral Reef Watch — Florida Keys Regional Products](https://coralreefwatch.noaa.gov/product/vs/gauges/florida_keys.php). Re-audited 2026-07-31: added current 2026 bleaching-alert status; all other facts re-checked with no changes required. Last updated 2026-07-31.*
