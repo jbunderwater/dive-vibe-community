@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Manta Reef Kadavu
 
-A submerged reef outside the Great Astrolabe Barrier Reef where reef manta rays feed year-round and occasionally stop at cleaning stations.
+A year-round manta ray cleaning station outside the Great Astrolabe Barrier Reef, where reef mantas stop to be groomed by cleaner fish.
 
 ## Overview
 
-Manta Reef sits approximately 40 minutes by boat from Kadavu's resort areas, outside the Great Astrolabe Reef system — Fiji's fourth-largest island and one of the Pacific's most pristine diving destinations. The site is a submerged reef within a nutrient-rich feeding zone for reef manta rays (Mobula alfredi). Operator accounts from Papageno Resort describe it as a primarily feeding site where a resident manta population is supplemented by visiting pelagic mantas; cleaning station behavior also occurs here, but is secondary to the feeding activity. The Great Astrolabe Reef provides the broad ecosystem that sustains the manta population. Kadavu is accessed by a 45-minute prop plane flight from Nadi to Vunisea, or by ferry from Suva. Only a handful of small dive resorts operate in the area, keeping pressure low.
+Manta Reef sits approximately 40 minutes by boat from Kadavu's resort areas, outside the Great Astrolabe Reef system — Fiji's fourth-largest island and one of the Pacific's most pristine diving destinations. Papageno Resort, the primary operator serving the site, describes it directly as a "year-round manta ray cleaning station": reef manta rays (Mobula alfredi) visit the site so that smaller cleaner fish can remove parasites and dead skin, rather than to feed. Supplemental feeding-related activity in the vicinity has also been reported, but the cleaning-station function is the primary, operator-confirmed characterization. The Great Astrolabe Reef provides the broad ecosystem that sustains the manta population. Kadavu is accessed by a 45-minute prop plane flight from Nadi to Vunisea, or by ferry from Suva. Only a handful of small dive resorts operate in the area, keeping pressure low.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Manta Reef sits approximately 40 minutes by boat from Kadavu's resort areas, out
 
 ## Marine Life
 
-Reef manta rays (Mobula alfredi) are the signature species. Multiple operator sources confirm year-round manta presence, with the site functioning as both a feeding area and an occasional cleaning station. Divers may encounter single mantas, small groups, or occasional larger aggregations. Schooling jacks, barracuda, and surgeonfish are reported as regular reef residents. Grey reef sharks patrol the adjacent reef. Papageno Resort accounts mention eagle rays passing through. The surrounding reef structure provides typical Indo-Pacific reef fish diversity. No site-specific reports confirm consistent presence of nurse sharks at this particular site during research.
+Reef manta rays (Mobula alfredi) are the signature species. Multiple operator sources confirm year-round manta presence, with the site functioning primarily as a cleaning station, per Papageno Resort's own description; encounters while mantas feed in the vicinity are also reported. Divers may encounter single mantas, small groups, or occasional larger aggregations. Schooling jacks, barracuda, and surgeonfish are reported as regular reef residents. Grey reef sharks patrol the adjacent reef. Papageno Resort accounts mention eagle rays passing through. The surrounding reef structure provides typical Indo-Pacific reef fish diversity. No site-specific reports confirm consistent presence of nurse sharks at this particular site during research.
 
 ## Dive Profile
 
-Descend from the boat to the reef structure at 18–22 meters. If the site is being worked as a cleaning station, settle quietly in a loose arc around the station coral and wait — patience is the core technique. Mantas confirmed as feeding at this site may also pass through in mid-water above the reef rather than hovering near a fixed station. When mantas arrive, remain stationary and let them set the terms of the encounter. After the manta portion, ascend to the upper reef at 8–12 meters to explore coral gardens during the safety stop.
+Descend from the boat to the reef structure at 18–22 meters and settle quietly in a loose arc around the cleaning-station coral — patience is the core technique, since this is primarily a cleaning stop rather than a feeding pass. Mantas may also be encountered passing through in mid-water above the reef. When mantas arrive, remain stationary and let them set the terms of the encounter. After the manta portion, ascend to the upper reef at 8–12 meters to explore coral gardens during the safety stop.
 
 ## Entry and Exit
 
@@ -58,4 +58,4 @@ The dive profile — hovering at 18–22 meters for extended periods — consume
 Manta rays are among the most photogenic subjects in diving. Wide-angle shooting at 10–17mm captures full manta silhouettes against the water above. Shoot upward from reef level to frame mantas against the light surface. For detail shots, the spotted patterning on the ventral surface (used by researchers for individual ID) and the cephalic fins unfurling are distinctive subjects. Avoid strobe light on approaching mantas from close range — a sudden burst can redirect their approach circuit. Use ambient light or minimal fill flash from well-angled positions.
 
 ---
-*Sources: [Papageno Resort & Dive - Dive Sites](https://www.papagenoresort.com/dive), [Dive The World - Kadavu](https://www.dive-the-world.com/diving-sites-fiji-kadavu.php), [Tourism Fiji - Manta Rays in Fiji](https://www.fiji.travel/things-to-do/wildlife/swimming-with-manta-rays-a-fiji-adventure). Last updated 2026-05-25.*
+*Sources: [Papageno Resort & Dive - Dive Sites](https://www.papagenoresort.com/dive), [Dive The World - Kadavu](https://www.dive-the-world.com/diving-sites-fiji-kadavu.php), [Tourism Fiji - Manta Rays in Fiji](https://www.fiji.travel/things-to-do/wildlife/swimming-with-manta-rays-a-fiji-adventure). Re-audited 2026-07-31: corrected framing from feeding-primary to cleaning-station-primary per papagenoresort.com's current description. Last updated 2026-07-31.*

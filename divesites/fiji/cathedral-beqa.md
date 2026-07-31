@@ -25,9 +25,9 @@ The Cathedral is Beqa Lagoon Resort's own shark dive site, developed by the reso
 
 - **Location**: Beqa Lagoon Resort's shark dive site, Beqa Island, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (fixed shark-viewing site)
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters (~70 feet)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; dive runs Monday, Wednesday, Friday

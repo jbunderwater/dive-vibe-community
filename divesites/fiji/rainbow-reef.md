@@ -47,7 +47,7 @@ Access is exclusively by boat from Taveuni-based operators. Day-trip and liveabo
 - **Book the morning current**: Ask operators which tidal window produces the best current at Rainbow Reef on your dates. Morning dives frequently align with favorable current in the dry season.
 - **Stay shallow on the first dive**: Entry through shallower sections (8–15 meters) allows extended bottom time in the most colorful zone.
 - **Pair with Great White Wall**: Rainbow Reef and Great White Wall are adjacent on the same reef system. Most Taveuni operators offer them together — confirm that your Great White Wall dive falls on a tidal window date.
-- **Look for small subjects between coral formations**: The reef harbors nudibranchs, Coleman shrimp on fire urchins, and cleaner shrimp stations throughout the rubble zones.
+- **Look for small subjects between coral formations**: The reef harbors nudibranchs and cleaner shrimp stations throughout the rubble zones. Coleman shrimp are present elsewhere on Fiji's rubble reefs but have not been confirmed specifically at Rainbow Reef; it's worth asking your guide if they know current sightings.
 
 ## Safety Considerations
 
@@ -55,7 +55,7 @@ Current can accelerate rapidly as tides turn in the strait, particularly near ch
 
 ## Photography
 
-Rainbow Reef rewards wide-angle photography for sweeping soft coral vistas and carries exceptional macro subjects. Challenge: the current requires positioning yourself with the current at your back to avoid swimming against it while composing. Fisheye or close-focus wide-angle works well for coral heads teeming with anthias. Macro shooters should focus on nudibranchs, Coleman shrimp, and crinoid-associated life in the rubble zones.
+Rainbow Reef rewards wide-angle photography for sweeping soft coral vistas and carries exceptional macro subjects. Challenge: the current requires positioning yourself with the current at your back to avoid swimming against it while composing. Fisheye or close-focus wide-angle works well for coral heads teeming with anthias. Macro shooters should focus on nudibranchs and crinoid-associated life in the rubble zones.
 
 ---
-*Sources: [Tourism Fiji - Somosomo Strait Diving](https://www.fiji.travel/places-to-go/taveuni-island/locations/diving-in-the-taveuni-somosomo-strait), [Taveuni Ocean Sports - Dive Sites](https://www.taveunioceansports.com/taveuni-dive-sites.html), [Dive The World - Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php). Last updated 2026-05-25.*
+*Sources: [Tourism Fiji - Somosomo Strait Diving](https://www.fiji.travel/places-to-go/taveuni-island/locations/diving-in-the-taveuni-somosomo-strait), [Taveuni Ocean Sports - Dive Sites](https://www.taveunioceansports.com/taveuni-dive-sites.html), [Dive The World - Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php). Re-audited 2026-07-31: removed unconfirmed Coleman shrimp claim (not site-specific to Rainbow Reef in any re-pulled source). Last updated 2026-07-31.*
