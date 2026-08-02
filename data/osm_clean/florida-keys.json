@@ -19,8 +19,8 @@
       "wikipedia": "en:USNS General Hoyt S. Vandenberg (T-AGM-10)",
       "wreck:date_sunk": "2009-05-27",
       "validated": "true",
-      "validation_source": "wikipedia.org,lostreefadventures.com,florida-scubadiving.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,lostreefadventures.com,naui.org",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -40,7 +40,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "wikipedia.org,rainbowreef.com,florida-scubadiving.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -56,9 +56,9 @@
     "tags": {
       "name": "Triumph Reef",
       "sport": "scuba_diving",
-      "note": "Lesser-known Biscayne National Park reef site; no site-specific dive sources located after 2026-05-25 research",
+      "note": "Lesser-known Biscayne National Park reef site; no site-specific dive sources located after 2026-05-25 or 2026-08-02 research passes",
       "validated": "false",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     },
     "depth_max": 8
   },
@@ -79,7 +79,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "floridakeys.noaa.gov,rainbowreef.com,islandventure.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -106,8 +106,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,floridakeys.noaa.gov,coastguard.dodlive.mil",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,floridakeys.noaa.gov,dan.org,marinesanctuary.org",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -129,7 +129,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "floridakeys.noaa.gov,islamoradadivecenter.com,florida-scubadiving.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -151,8 +151,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,islamoradadivecenter.com,oceanexplorer.noaa.gov",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,islamoradadivecenter.com,floridakeys.noaa.gov,nps.gov",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -172,8 +172,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "nps.gov,nps.gov/bisc,archaeologychannel.org",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "nps.gov,archaeologychannel.org,ace-diving.com",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -193,8 +193,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "nps.gov,nps.gov/bisc,ace-diving.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "nps.gov,ace-diving.com,floridarambler.com",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -219,8 +219,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,floridakeys.noaa.gov,florida-keys-vacation.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,floridakeys.noaa.gov,keywestdivecenter.com,stripes.com",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -238,9 +238,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Middle Keys reef site; no site-specific dive sources located after 2026-05-25 research",
+      "note": "Middle Keys reef site; no site-specific dive sources located after 2026-05-25 or 2026-08-02 research passes",
       "validated": "false",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     },
     "depth_max": 12
   },
@@ -260,9 +260,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Old ship remnants on north side of Wisteria Island (Key West harbor dredge spoil island); identity and condition unverifiable from public sources as of 2026-05-25",
+      "note": "Island is named for USPHS disinfecting steamer Wisteria (ex-USLHS light tender), which sank moored here in 1925 and burned to the waterline (wikipedia.org, keysweekly.com); vessel was reportedly salvaged afterward, and no dive-specific source confirms current in-water wreck condition, depth profile, or marine life. Only 2 independent domains found -- below the 3-source bar for validation",
       "validated": "false",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     },
     "depth_max": 6
   },
@@ -290,8 +290,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,floridakeys.noaa.gov,florida-keys-vacation.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,floridakeys.noaa.gov,keywestdivecenter.com,stripes.com",
+      "last_qa_date": "2026-08-02"
     }
   }
 ]
