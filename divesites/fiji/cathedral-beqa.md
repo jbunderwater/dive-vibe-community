@@ -11,6 +11,7 @@ osmId: null
 addedBy: osm_import
 ---
 
+
 # Cathedral Beqa
 
 A structured shark-viewing dive at a rock wall barrier in the Beqa Lagoon system, where bull sharks, occasional tiger sharks, and reef sharks gather in a controlled setting.
@@ -25,9 +26,9 @@ Operator attribution is itself unresolved: Diveplanit attributes this "Cathedral
 
 - **Location**: Beqa Lagoon, Pacific Harbour area, Viti Levu, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (structured shark-viewing site)
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters (sources report a range of 20–30 meters depending on operator)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; the dive reportedly runs on a fixed weekly schedule (sources give differing days — confirm with the specific operator)

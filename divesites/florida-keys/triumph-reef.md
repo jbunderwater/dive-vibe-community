@@ -36,4 +36,4 @@ No public source reviewed describes: this site's marine life, typical depth prof
 Standard Florida Keys boat-diving precautions apply: dive within your certification limits, monitor air and depth, deploy an SMB on ascent, and confirm conditions and any park regulations with the boat crew before entering the water.
 
 ---
-*No site-specific dive sources located despite 2026-05-25 research. Description reflects only OpenStreetMap-recorded data. Divers should contact Biscayne National Park area operators directly. Last updated 2026-05-25.*
+*No site-specific dive sources located despite research passes on 2026-05-25 and 2026-08-02 (searches for the site name alongside Biscayne National Park and Fowey Rocks returned only generic park-wide results grouping it with Ajax, Long, and Pacific reefs). Description reflects only OpenStreetMap-recorded data. Divers should contact Biscayne National Park area operators directly. Last updated 2026-08-02.*

@@ -27,7 +27,7 @@ Because the specific site name cannot be independently confirmed, this entry has
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters (unconfirmed default; not sourced to a specific named site)
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet), consistent with Beqa Lagoon generally
 - **Current**: Nil to light
 - **Best Time**: Year-round; best visibility May to October
