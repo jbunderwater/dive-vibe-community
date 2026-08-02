@@ -18,7 +18,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -40,7 +40,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -61,8 +61,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "flowergarden.noaa.gov,dan.org,texascaribbean.com,scubadiving.com,scubaboard.com",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -76,9 +76,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "validated": "false",
+      "validation_source": "flowergarden.noaa.gov,dan.org",
+      "validation_note": "Re-audited 2026-08-02: previous validated=true rested on an unconfirmed scubaboard.com citation. Exhaustive search found only 2 distinct independent domains (flowergarden.noaa.gov, dan.org) covering this site -- below the 3-domain bar. Downgraded to unvalidated pending a 3rd source.",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -93,8 +94,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "flowergarden.noaa.gov,dan.org,nwf.org,texascaribbean.com",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -109,8 +110,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "flowergarden.noaa.gov,dan.org,scubaboard.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "flowergarden.noaa.gov,dan.org,texascaribbean.com",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -124,9 +125,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "flowergarden.noaa.gov,dan.org",
-      "last_qa_date": "2026-05-25"
+      "validated": "false",
+      "validation_source": "flowergarden.noaa.gov",
+      "validation_note": "Re-audited 2026-08-02: dan.org does not actually cover Rankin/28 Fathom Bank (confirmed by direct fetch of the DAN article -- it discusses McGrail, Bright, and Geyer but not Rankin). Only flowergarden.noaa.gov has substantive facts; maritime-executive.com only namechecks the bank with no independent facts. Below the 3-domain bar -- downgraded to unvalidated. Site is also beyond recreational dive limits (50-174m) per NOAA.",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -141,7 +143,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "false",
-      "last_qa_date": "2026-05-25"
+      "validation_note": "Re-audited 2026-08-02: no independent source (NOAA, dive operators, ScubaBoard, DAN) confirms a named site called 'East Flower Garden Stairway'. Left unvalidated; content describes it as an unconfirmed name for a slope feature on East Flower Garden Bank.",
+      "last_qa_date": "2026-08-02"
     }
   }
 ]

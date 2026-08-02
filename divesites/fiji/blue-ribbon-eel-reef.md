@@ -32,7 +32,7 @@ Blue Ribbon Eel Reef is a critter-focused site on Taveuni's reef system, north o
 
 ## Marine Life
 
-Species confirmed at this site by multiple sources: blue ribbon eels (Rhinomuraena quaesita) in rubble burrows; black juvenile ribbon eels; yellow-headed ribbon eels (females); snake eels. Ghost pipefish hovering near crinoids and sea whips are reported by Dive The World's Taveuni guide. Frogfish on sponges and leaf scorpionfish on rubble are documented. Pygmy seahorses are listed by Dive The World for Eel Reef, associated with gorgonian fans. Octopus and cuttlefish are noted. Nudibranchs of various genera throughout.
+Species confirmed at this site by multiple sources: blue ribbon eels (Rhinomuraena quaesita) in rubble burrows; black juvenile ribbon eels; yellow-headed ribbon eels (females); snake eels. Ghost pipefish hovering near crinoids and sea whips are reported by Dive The World's Taveuni guide. Frogfish on sponges and leaf scorpionfish on rubble are documented. Pygmy seahorses are listed by Dive The World for Eel Reef, associated with gorgonian fans. Dive The World's listing (re-checked 2026-08-02) also confirms flying gurnards and flamboyant cuttlefish at this site, in addition to octopus. Nudibranchs of various genera throughout.
 
 Note: The previous description included specific nudibranch genus attributions (Chromodoris, Flabellina, Hypselodoris) and Coleman shrimp on fire urchins as confirmed at this specific site. Coleman shrimp are widely present in Fiji's rubble zones but were not confirmed in site-specific sources for this site; they remain plausible given the habitat but are not attributed here.
 
@@ -60,4 +60,4 @@ Blue Ribbon Eel Reef is one of Fiji's most low-risk dive sites. The primary conc
 This site is primarily a macro site. A 100mm or 105mm macro lens handles ribbon eels at working distance (50–80cm). A wet diopter extends capability for the smallest subjects. For blue ribbon eels, a single strobe at 45° from one side reveals the electric blue coloring without harsh shadows. For ghost pipefish, front-on two-strobe lighting at equal intensity reveals their actual shape against the camouflage background.
 
 ---
-*Sources: [Dive The World - Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php), [Salt Diver Fiji - Guided Dives](https://saltdiverfiji.com/guided-dives), [Fiji Travel - Diving Rainbow Reef Taveuni](https://www.fijitravel.org/posts/diving-rainbow-reef-taveuni). Last updated 2026-05-25.*
+*Sources: [Dive The World - Taveuni](https://www.dive-the-world.com/diving-sites-fiji-taveuni.php), [Salt Diver Fiji - Guided Dives](https://saltdiverfiji.com/guided-dives), [Fiji Travel - Diving Rainbow Reef Taveuni](https://www.fijitravel.org/posts/diving-rainbow-reef-taveuni). Re-audited 2026-08-02: all three sources re-confirmed; flying gurnard and flamboyant cuttlefish sightings added from Dive The World. Last updated 2026-08-02.*

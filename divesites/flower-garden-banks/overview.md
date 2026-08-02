@@ -8,13 +8,13 @@ The northernmost coral reefs in the continental United States, rising from salt 
 
 ## Description
 
-Flower Garden Banks National Marine Sanctuary encompasses documented dive sites across 17 reefs and banks, with depths ranging from 7.6 to 43.9 meters. The sanctuary includes reef sites and wall sites, with all sites accessed exclusively by boat — typically multi-day liveaboard trips departing from the Texas coast. The coral cap of the East and West Flower Garden Banks sits atop salt domes and supports over 50% living coral cover, making these among the healthiest reefs in the Western Atlantic.
+Flower Garden Banks National Marine Sanctuary encompasses 17 reefs and banks in total (expanded from 3 to 17 in 2021); this database currently documents 8 named dive sites within it, with recorded depths ranging from 17 to 50 meters. The sanctuary includes reef and pinnacle sites, with all sites accessed exclusively by boat — typically multi-day liveaboard trips departing from the Texas coast. The coral cap of the East and West Flower Garden Banks sits atop salt domes and supports over 50% living coral cover, making these among the healthiest reefs in the Western Atlantic.
 
 ### Diving Opportunities
 
-- **Boat Diving**: All sites are boat-access only, reached via liveaboard vessels on 2-3 day expeditions. Typical dive profiles are 21-40 meters (70-130 ft) on the main banks
-- **Reef Diving**: Reef sites including East Flower Garden Bank, West Flower Garden Bank, and deeper banks like McGrail Bank (43.9m), Bright Bank (34.1m), Geyer Bank, and Rankin Bank
-- **Wall Diving**: Wall sites — Stetson Bank features dramatic pinnacles and ledges, while East Flower Garden Stairway offers a shallower wall profile starting at 7.6 meters
+- **Boat Diving**: All sites are boat-access only, reached via liveaboard vessels on 2-3 day expeditions. Typical recreational dive profiles are 17-34 meters on the shallower banks (East/West Flower Garden, Stetson, Bright, Geyer); McGrail (44m) and Rankin (50m+) exceed the 130-foot/39.6m recreational limit and require technical/mixed-gas diving
+- **Reef Diving**: Reef sites including East Flower Garden Bank, West Flower Garden Bank, and the deeper banks — McGrail Bank (43.9m, technical), Bright Bank (34.1m), Geyer Bank (32m), and Rankin Bank (50m+, technical)
+- **Pinnacle Diving**: Stetson Bank is a pinnacle/ridge site of eroded siltstone and claystone ridges rather than coral reef, distinct from the limestone-based main banks
 
 ### Accessibility
 
@@ -38,4 +38,4 @@ Flower Garden Banks National Marine Sanctuary encompasses documented dive sites 
 - **Safety**: All sites rated Advanced difficulty due to depth (most dives 21-40m), distance from shore (100+ miles, 10-12 hour boat transit), and unpredictable Gulf currents. Advanced Open Water certification required by most operators. Nitrox certification recommended for the repetitive deep profiles. Surface intervals spent on the liveaboard — no shore access during trips
 
 ---
-*Sources: [NOAA Flower Garden Banks - Dive Charters](https://flowergarden.noaa.gov/visiting/divecharters.html), [Scuba Diving Magazine - Flower Garden Banks Guide](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Scuba Diving Magazine - Three Days at FGB](https://www.scubadiving.com/three-days-diving-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [DAN - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks/). Last updated 2026-04-05.*
+*Sources: [NOAA Flower Garden Banks - Dive Charters](https://flowergarden.noaa.gov/visiting/divecharters.html), [Scuba Diving Magazine - Flower Garden Banks Guide](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Scuba Diving Magazine - Three Days at FGB](https://www.scubadiving.com/three-days-diving-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [DAN - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks/), [NOAA Sanctuary Banks](https://flowergarden.noaa.gov/about/gulfbanks.html), [NOAA FAQ](https://flowergarden.noaa.gov/about/faq.html). Re-audited 2026-08-02: corrected the depth range and site-type summary to match the 8 sites actually documented in this database (previous text cited a stale 7.6m minimum depth and mischaracterized Stetson/Stairway as wall dives). Last updated 2026-08-02.*
