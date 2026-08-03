@@ -33,7 +33,7 @@ Shark Bay (Bahía Tiburón) occupies a protected bay on Wolf Island, offering a 
 
 ## Marine Life
 
-Scalloped hammerhead sharks are the headliner, typically encountered in schools at 15–20 meters depth toward the outer bay. Galápagos sharks and silky sharks are regular visitors alongside them. Whale sharks have been documented here seasonally. Galápagos sea lions are playful and abundant in the shallower bay sections. Eagle rays, golden cowrays, green sea turtles, and dolphins are reported across multiple sources. Moray eels inhabit the wall crevices and cavern entrances. Schools of snappers and jacks patrol the wall face.
+Scalloped hammerhead sharks are the headliner, typically encountered in schools at 15–20 meters depth toward the outer bay -- one trip report describes "a wall of hammerheads out in the blue, all swimming in the same direction," with smaller groups also seen closer to the rocky shallows near cleaning stations. Galápagos sharks and silky sharks are regular visitors alongside them. Whale sharks have been documented here seasonally. Galápagos sea lions are playful and abundant in the shallower bay sections. Eagle rays, golden cowrays, green sea turtles, and dolphins are reported across multiple sources. Moray eels inhabit the wall crevices and cavern entrances. Schools of snappers and jacks patrol the wall face.
 
 Night dives at the Fondeadero anchorage reveal bioluminescent plankton, Galápagos fur seals, and nocturnal reef species not seen during the day.
 
@@ -57,4 +57,4 @@ Access by panga from the liveaboard vessel only. Wolf Island is approximately 14
 Despite the bay's relative shelter, currents are strong and unpredictable. Unexpected drift dives occur regularly. Swell can be heavy close to shore and near the wall. Carry an SMB and signaling device. Night dives require additional planning — carry primary and backup lights, stay with your buddy, and follow the divemaster's briefing carefully.
 
 ---
-*Sources: [Galapatours – Shark Bay](https://www.galapatours.com/highlights/shark-bay-landslide-diving-wolf), [Galapatours – Fondeadero](https://www.galapatours.com/highlights/fondeadero), [Happy Gringo – Darwin & Wolf Islands](https://happygringo.com/blog/darwin-and-wolf-islands/), [Starfish.ch – Northern Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-north.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-30.*
+*Sources: [Galapatours – Shark Bay](https://www.galapatours.com/highlights/shark-bay-landslide-diving-wolf), [Galapatours – Fondeadero](https://www.galapatours.com/highlights/fondeadero), [Happy Gringo – Darwin & Wolf Islands](https://happygringo.com/blog/darwin-and-wolf-islands/), [Starfish.ch – Northern Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-north.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-08-03.*

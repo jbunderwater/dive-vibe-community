@@ -2,7 +2,7 @@
 name: Isla Lobo
 lat: -0.8565
 lng: -89.5653
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 15
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Isla Lobos (Lobos Island) sits in a sheltered channel between a small rocky isla
 - **Location**: Lobos Island, northwest of San Cristóbal, Galápagos Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10–20 meters
 - **Current**: Very calm, no current (sheltered channel)
@@ -52,7 +52,7 @@ Boat access from Puerto Baquerizo Moreno on San Cristóbal, approximately 30 min
 
 ## Safety
 
-While this is the calmest site in the Galápagos, standard dive safety practices apply. Sea lions are wild animals — maintain respectful distance from large males, who can be territorial. Do not touch or grab marine life. The shallow depth and lack of current make this a low-risk dive by Galápagos standards.
+While this is the calmest site in the Galápagos, standard dive safety practices apply. Sea lions are wild animals — maintain respectful distance from large males, who can be territorial. Do not touch or grab marine life. The shallow depth and lack of current make this one of the lowest-risk dives at the site level in the Galápagos, though the difficulty rating is held at Advanced in line with this destination's remote-liveaboard-region floor (medical facilities are distant, and conditions elsewhere on a typical itinerary are demanding even when this particular site is not).
 
 ---
-*Sources: [Galapatours – Isla Lobos Diving](https://www.galapatours.com/highlights/isla-lobos-diving), [Scuba Iguana – Isla Lobos](https://scubaiguana.com/dive-travel-packages/customized-trip/isla-lobos/), [The Portuguese Traveler – San Cristóbal Dive Sites](https://theportuguesetraveler.com/galapagos/san-cristobal/best-dive-sites-san-cristobal-galapagos/). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-30.*
+*Sources: [Galapatours – Isla Lobos Diving](https://www.galapatours.com/highlights/isla-lobos-diving), [Scuba Iguana – Isla Lobos](https://scubaiguana.com/dive-travel-packages/customized-trip/isla-lobos/), [The Portuguese Traveler – San Cristóbal Dive Sites](https://theportuguesetraveler.com/galapagos/san-cristobal/best-dive-sites-san-cristobal-galapagos/). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-08-03.*

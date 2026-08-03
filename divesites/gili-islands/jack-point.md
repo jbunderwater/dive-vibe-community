@@ -32,7 +32,7 @@ Jack Point is located on the north side of Gili Trawangan and features two coral
 
 ## Marine Life
 
-Schools of bigeye trevally and jackfish are the signature species — large aggregations on the ridge systems. Whitetip and blacktip reef sharks are regularly sighted. Schools of lined, black, and humpback snappers cover the ridges. Blue-spotted stingrays on sandy patches at depth. Eagle and devil rays occasionally pass in open water. Gorgonian fans in the canyons may host pygmy seahorses.
+Large schools of bigeye trevally are the signature species — dense aggregations congregate between the two ridges. Whitetip and blacktip reef sharks are regularly sighted. Schools of lined, black, and humpback snappers cover the ridges. Spotted eagle rays and devil rays pass in open water, and manta rays are occasionally reported at this site as well, though — as elsewhere in the Gilis — sightings are opportunistic rather than reliable.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Strong current can sweep divers off the ridges into open water. Have an agreed a
 Dense jackfish and trevally schools backlit by open water are the classic Jack Point image. Wide-angle suits the school density and the vertical ridge structure. Reef sharks on the ridges with schools behind them suit fast shutter speed. The current-swept conditions are challenging — pre-focus and be ready before the subjects appear.
 
 ---
-*Sources: [Manta Dive Gili Air – Jack Point](https://manta-dive-giliair.com/gili-islands-dive-sites/jack-point-advanced), [Divine Divers – Gili dive sites](https://divinedivers.com/dive-sites/), [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-05-30.*
+*Sources: [Manta Dive Gili Air – Jack Point](https://manta-dive-giliair.com/gili-islands-dive-sites/jack-point-advanced), [Divine Divers – Gili dive sites](https://divinedivers.com/dive-sites/), [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Re-verified 2026-08-03: removed blue-spotted stingray and pygmy seahorse claims, which were not corroborated by any source for this specific site. Last updated 2026-08-03.*

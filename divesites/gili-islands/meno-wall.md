@@ -17,7 +17,7 @@ A steep, soft coral-covered wall between Gili Trawangan and Gili Meno — one of
 
 ## Overview
 
-Meno Wall runs along the channel between Gili Trawangan and Gili Meno, dropping from 5 m to over 30 m on a steep face blanketed in soft corals and sea fans. The drift current usually carries divers at a comfortable pace along the wall, creating an exhilarating experience as turtles, passing reef sharks, and batfish appear from the blue. The wall is particularly celebrated as one of the Gili Islands' finest night dive sites, when the crustaceans that shelter by day emerge to forage — lobsters, shrimps, crabs, and various nocturnal fish become active after dark. Pygmy seahorses and bamboo sharks have been found in the wall's crevices.
+Meno Wall runs along the channel between Gili Trawangan and Gili Meno, dropping from 5 m to over 30 m on a steep face blanketed in soft corals, gorgonian sea fans, and hanging corals. The drift current usually carries divers at a comfortable pace along the wall, creating an exhilarating experience as turtles, blacktip and whitetip reef sharks, and rays appear from the blue. The wall is particularly celebrated as one of the Gili Islands' finest night dive sites, when the crustaceans that shelter by day emerge to forage — lobsters, shrimps, crabs, and various nocturnal fish become active after dark.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Meno Wall runs along the channel between Gili Trawangan and Gili Meno, dropping 
 
 ## Marine Life
 
-Turtles cruise the wall face at all depths. Reef sharks are regularly seen passing in the blue water. Bamboo sharks rest in wall crevices. Pygmy seahorses inhabit the soft coral colonies. At night: lobsters, shrimps, crabs, and nocturnal reef fish emerge throughout the wall. Nudibranchs are abundant on the soft coral and gorgonian fan structures.
+Turtles cruise the wall face at all depths, and blacktip and whitetip reef sharks are regularly seen in the blue water, along with occasional rays. Clownfish shelter in anemones on the upper wall. Sweetlips, snappers, angelfish, and bumphead parrotfish work the reef, and groupers and moray eels are found in the wall's ledges. At night, lobsters, shrimps, crabs, and sleeping fish emerge throughout the wall, along with Spanish dancers and squid on occasion. Leaf scorpionfish, ghost pipefish, and nudibranchs are found tucked into the soft coral and gorgonian fan growth for those who look closely.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Boat from Gili Trawangan or Gili Meno. Always drifted — enter upstream and pic
 
 - Night dives here are exceptional — book an evening boat with your operator
 - The comfortable drift pace allows relaxed wall exploration without fighting current
-- Look into crevices for bamboo sharks resting on the wall during day dives
+- Look closely into the soft coral and gorgonian growth for leaf scorpionfish and ghost pipefish during day dives
 - Combine with Turtle Point on the same day for a contrasting two-site Gili Meno experience
 - Soft coral density is best at 8–18 m where the wall colour is most vivid
 
@@ -56,7 +56,7 @@ The drift current can occasionally accelerate to strong — if too fast, ascend 
 
 ## Photography
 
-Night dive photography reveals lobsters, shrimps, and crabs with full colour in torch and strobe light. Day dives suit wide-angle for the colourful soft coral wall and passing turtles. Pygmy seahorses in the gorgonians require macro lens and patience.
+Night dive photography reveals lobsters, shrimps, and crabs with full colour in torch and strobe light. Day dives suit wide-angle for the colourful soft coral wall and passing turtles and sharks. Leaf scorpionfish and ghost pipefish in the gorgonians reward a macro lens and patience.
 
 ---
-*Sources: [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Divine Divers – Gili sites](https://divinedivers.com/dive-sites/). Last updated 2026-05-30.*
+*Sources: [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Divine Divers – Gili sites](https://divinedivers.com/dive-sites/), [Trawangan Dive – dive sites](https://www.trawangandive.com/dive-sites-gili-islands/). Re-verified 2026-08-03: removed bamboo shark and pygmy seahorse claims, which were not corroborated by any of 5 sources checked for this site. Last updated 2026-08-03.*

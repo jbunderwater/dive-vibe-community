@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Plazas
 
-A shallow reef dive off South Plaza Island where a large sea lion colony turns every dive into an interactive experience on fine sandy bottom with garden eels and pelagic visitors.
+A shallow reef dive off South Plaza Island where a resident sea lion colony turns every dive into an interactive experience on fine sandy bottom with garden eels and pelagic visitors.
 
 ## Overview
 
-Plazas (Plaza Islets) is located on the east side of Santa Cruz, where North and South Plaza are divided by a narrow channel. The dive takes place on the seaward side of the islets, over a sandy and rocky bottom at 15–18 meters with strong currents possible. The site is used as a check dive and staging point — Gordon Rocks is just minutes away. The sandy bottom supports Pacific garden eels, and the channel edges attract rays, sharks, and sea turtles. Note: the sea lion colony beaches on the opposite side of the islet from the dive site, so underwater sea lion encounters here are possible but not a guaranteed feature — they are more reliable at Mosquera and North Seymour. Gordon Rocks briefings are sometimes conducted here, with Plazas serving as an equipment-check location before the demanding crater dive.
+Plazas (Plaza Islets) is located on the east side of Santa Cruz, where North and South Plaza are divided by a narrow channel. The dive takes place on the seaward side of the islets and in the channel between them, over a sandy and rocky bottom at 15–18 meters. Sources differ on current strength here: some describe it as generally mild, without the strong currents typical of Gordon Rocks or the outer islands, while others note strong currents are possible through the channel — treat conditions as variable rather than reliably calm. The site is used as a check dive and staging point — Gordon Rocks is just minutes away. The sandy bottom supports Pacific garden eels, and the channel edges attract rays, sharks, and sea turtles. The channel separating the two islets sits alongside one of the larger sea lion colonies in the Galapagos (the colony itself hauls out on the cliffs and shores above), and multiple operators report playful underwater encounters with sea lions at the dive site, though — as with most Galapagos sites — they are not guaranteed on every dive. Gordon Rocks briefings are sometimes conducted here, with Plazas serving as an equipment-check location before the demanding crater dive.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Plazas (Plaza Islets) is located on the east side of Santa Cruz, where North and
 
 ## Marine Life
 
-Pacific garden eels are the most reliable encounter, emerging from the sandy floor in large numbers and retreating into their burrows as divers approach. Sea lions may visit the dive site, but the colony beaches on the opposite (landward) side of the islet — underwater interactions here are opportunistic, not guaranteed. Spotted eagle rays, stingrays, and golden cownose rays cruise through. Butterflyfishes, damselfishes, wrasses, and moorish idols populate the rocky reef edges. Juvenile barracuda and whitetip reef sharks patrol the channel. Sea turtles visit regularly.
+Pacific garden eels are the most reliable encounter, emerging from the sandy floor in large numbers and retreating into their burrows as divers approach. Sea lions are commonly seen at the dive site — multiple operators describe divers swimming with playful individuals from the nearby colony, though the intensity of interaction varies dive to dive. Spotted eagle rays, stingrays, and golden cownose rays cruise through. Butterflyfishes, damselfishes, wrasses, and moorish idols populate the rocky reef edges. Juvenile barracuda and whitetip reef sharks patrol the channel. Sea turtles visit regularly.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Day boat from Puerto Ayora with a short transit. Giant stride entry into the cha
 The channel between the islets can funnel strong tidal currents without warning. Despite the shallower depths, be prepared for genuine drift conditions and stay oriented relative to your exit point. Sea lions are playful but protect loose gear from curious pups. Standard Galapagos thermal protection applies (water temperature 17-25°C seasonally). Carry an SMB and signaling devices.
 
 ---
-*Sources: [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html), [The Portuguese Traveler – 24 Best Galapagos Dive Sites](https://theportuguesetraveler.com/galapagos/diving-guide-galapagos/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/). Last updated 2026-05-30.*
+*Sources: [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html), [The Portuguese Traveler – 24 Best Galapagos Dive Sites](https://theportuguesetraveler.com/galapagos/diving-guide-galapagos/), [Academy Bay Diving – Galapagos Dive Sites](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/), [Happy Gringo – South Plaza Island Visitor Guide](https://happygringo.com/blog/south-plazas-island/). Last updated 2026-08-03.*
