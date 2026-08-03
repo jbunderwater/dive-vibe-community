@@ -33,11 +33,7 @@ The western end of Lake Erie near Windsor, Ontario and the mouth of the Detroit 
 
 ## Marine Life
 
-The western Lake Erie fishery is among the most productive in North America. Yellow perch gather in enormous schools around the Specular in summer. Walleye — the species Lake Erie is most famous for — patrol the wreck edges and hunt perch. Smallmouth bass are resident on the hull. Channel catfish cruise the bottom debris field. White bass and lake herring are present seasonally. Zebra mussels blanket all submerged hard surfaces.
-
-## Dive Profile
-
-The Specular lies on a flat bottom in the western Lake Erie basin. Standard bow-to-stern exploration. The thermocline (typically at 10–12 metres in summer) marks the transition from warm surface water to cold bottom water — prepare for this temperature change. Silty conditions in the western basin require careful buoyancy. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

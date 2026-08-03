@@ -33,11 +33,7 @@ The northern approaches to the Straits of Mackinac and the waters around the St.
 
 ## Marine Life
 
-Northern Lake Huron near the Sault supports healthy populations of lake trout, walleye, and northern pike — classic Great Lakes cold-water species. Smallmouth bass are present around the wreck hull. The relative absence of heavy zebra mussel colonization (compared to the lower Great Lakes) means the hull retains a more natural appearance. The clean, cold water supports good freshwater sponge populations and diverse invertebrates on the hull surfaces.
-
-## Dive Profile
-
-The Panther lies at an accessible 20-metre depth. Explore the hull from bow to stern in the clear northern Lake Huron water. The excellent visibility compared to southern Great Lakes sites makes this a particularly enjoyable dive. Standard ascent with safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

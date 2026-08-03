@@ -33,11 +33,7 @@ The Cecil J. lies on the northern Lake Erie lakebed at an ideal intermediate div
 
 ## Marine Life
 
-Yellow perch are the signature fish of Lake Erie wreck sites, and the Cecil J. hosts a healthy resident population that schools densely around the hull in summer. Walleye patrol the perimeter, particularly early in the morning. Smallmouth bass occupy hull openings and sheltered areas below the deck. Round gobies are present throughout the debris field. Zebra mussels encrust all submerged hard surfaces.
-
-## Dive Profile
-
-The wreck lies upright on a flat sandy-silty bottom. Explore from bow to stern, taking note of structural and historical details along the hull. Silty sediment around the base of the wreck can reduce visibility if disturbed — maintain excellent buoyancy. Ascend the anchor or mooring line for a 3-minute safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

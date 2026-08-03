@@ -33,11 +33,7 @@ Lake Erie's cold, freshwater environment has preserved this wreck remarkably wel
 
 ## Marine Life
 
-Great Lakes wrecks support a thriving freshwater ecosystem. Expect to encounter large yellow perch, smallmouth bass, and lake trout sheltering around the wreck structure. Crayfish inhabit crevices throughout the hull. Zebra and quagga mussels coat much of the exposed metal and wood surfaces, creating habitat for small invertebrates. Freshwater amphipods are abundant, and in summer months diving near dawn or dusk may yield sightings of lake whitefish passing through. The wreck acts as an artificial reef, concentrating fish in an otherwise featureless sandy bottom.
-
-## Dive Profile
-
-Begin your descent from the boat anchor line to the top of the wreck structure. Explore the deck and hull exterior, noting the state of preservation typical of freshwater wrecks — wood and metal remain far more intact than their saltwater counterparts. The wreck lies on a relatively flat sandy bottom, making navigation straightforward. Ascend with adequate reserve gas and perform a 3-minute safety stop at 5 metres before surfacing.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

@@ -33,11 +33,7 @@ The western basin of Lake Erie was one of the most heavily trafficked stretches 
 
 ## Marine Life
 
-The western Lake Erie fishery is legendary. Yellow perch school densely around the M. I. Wilcox. Walleye — Lake Erie's famous sport fish — patrol the wreck edges, particularly at dawn and dusk. Smallmouth and largemouth bass inhabit the hull. Channel catfish are common on the silty bottom. White bass and white perch are present in season. Zebra mussels cover all submerged hard surfaces.
-
-## Dive Profile
-
-Western Lake Erie wreck diving at 20 metres provides generous bottom time. Explore the hull from bow to stern on the flat, silty bottom. Excellent buoyancy control is important to avoid stirring up silt in an area that may already have reduced visibility. Ascend on anchor or mooring line. Safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

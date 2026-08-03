@@ -33,11 +33,7 @@ The Keystorm sank in 1912 after striking a shoal in dense fog and now lies on he
 
 ## Marine Life
 
-The Thousand Islands St. Lawrence supports outstanding freshwater fishing and diving wildlife. Northern pike are frequently encountered around and beneath the Keystorm. Muskellunge (muskie) inhabit the area. Large smallmouth bass are resident near the hull. Yellow perch, walleye, and other species complete the community. The river's current reduces heavy zebra mussel colonization, leaving portions of the steel hull in a more natural state than equivalent lake wrecks.
-
-## Dive Profile
-
-Plan the dive around the current direction. Enter upstream and navigate to the wreck, using the hull as a current break while exploring. The Keystorm's steel construction means machinery, cargo holds, and hull fittings are all accessible exploration targets. On ascent, deploy an SMB early given the boat traffic and current in the St. Lawrence.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

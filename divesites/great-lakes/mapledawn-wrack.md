@@ -33,11 +33,7 @@ The Mapledawn grounded on a Georgian Bay shoal and was lost in relatively shallo
 
 ## Marine Life
 
-The sunlit shallow wreck is rich with freshwater life. Smallmouth bass are conspicuous and bold, approaching divers at close range. Yellow perch school around the hull and through the deck openings. Sunfish (pumpkinseed) hover near the shallowest hull sections. Crayfish populate every crevice. In summer, the hull's shallowest sections are covered in aquatic plants that provide habitat for juvenile fish and insects. Northern pike occasionally cruise the area.
-
-## Dive Profile
-
-This site is ideal for beginner wreck dives. At 8 metres maximum depth, there are no significant NDL concerns, and the full wreck can be explored in a single, extended dive. Swim along the hull from end to end, noting deck features, hull fittings, and any visible interior spaces through hatches. The site also works well as a snorkelling destination from a boat. No safety stop required at this depth, but a brief stop at 5 metres before surfacing is still good practice.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

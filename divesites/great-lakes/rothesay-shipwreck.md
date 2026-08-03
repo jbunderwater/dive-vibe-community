@@ -33,11 +33,7 @@ The Rothesay went down in the St. Lawrence River in 1889, adding to the growing 
 
 ## Marine Life
 
-The St. Lawrence River Thousand Islands section supports a rich fish community. Northern pike are commonly encountered near 19th-century wooden wrecks — the sheltered hull provides ideal ambush structure. Smallmouth bass are resident on the deck and around the hull openings. Yellow perch and walleye are present. Freshwater drum (sheepshead) — less common further into the Great Lakes — are occasionally seen in the St. Lawrence system. The flowing water limits zebra mussel dominance, leaving more natural hull surfaces visible.
-
-## Dive Profile
-
-Descend to the wreck and explore, using the hull as shelter from current. The Rothesay's 1889 vintage means 19th-century wooden schooner construction — hull planking, iron hardware, and rigging attachment points are identifiable features. On ascent, deploy SMB early for pickup coordination. Safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

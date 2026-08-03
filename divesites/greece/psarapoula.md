@@ -23,6 +23,8 @@ No site-specific documentation for Psarapoula was found in major dive site datab
 
 A previous description included unverified claims about swim-throughs, overhangs, soldierfish, rabbitfish, seahorses, and Mediterranean monk seals at this specific site. These claims have been removed as no source was found to confirm them at this location. Regional marine life for the eastern Dodecanese applies.
 
+**Re-audit update (2026-08-03):** A PADI listing for "Psaropoula" was located (coordinates 36.45365, 28.21762, a close match to this node), confirming the site's existence and general location. However, PADI classifies its site type as "Beach" (conflicting with our "reef" classification) and its "Common Sightings" list — sharks, whales, dolphins, turtles — reads as generic platform-wide taxonomy rather than site-specific data for a small Rhodes-area site, so it was not used. This is one source, short of the three independent site-specific sources required for validation.
+
 Regional marine life applies; no site-specific species reports found.
 
 ## Site Information
@@ -34,4 +36,4 @@ Regional marine life applies; no site-specific species reports found.
 - **Maximum Depth**: 22 meters
 
 ---
-*Description based on regional Dodecanese diving characteristics. No site-specific sources for Psarapoula were located during research. Last updated 2026-06-04.*
+*Description based on regional Dodecanese diving characteristics. No 3 independent site-specific sources for Psarapoula could be located during research (a single PADI listing confirms coordinates only — see note above). Last updated 2026-08-03.*

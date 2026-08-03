@@ -3,7 +3,7 @@ name: Uçak Batığı
 lat: 36.9870592
 lng: 27.4325639
 difficulty: Advanced
-maxDepth: 72
+maxDepth: 34
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,41 +13,41 @@ addedBy: osm_import
 
 ## Uçak Batığı
 
-Uçak Batığı is a wreck dive site in the Dodecanese region of Greece, near the border with Turkish waters.
+## Location Warning
+
+The coordinates of this site (36.987°N, 27.432°E) sit almost exactly on Karaada (Black Island) off the Bodrum peninsula, Turkey — not in Greek waters. This OSM node was very likely misassigned to the Greece dataset.
 
 ## Overview
 
-Uçak Batığı is Turkish for "airplane wreck." This site is located in the northern Dodecanese, in the sea channel between Kos island (Greece) and the Turkish Bodrum peninsula. The coordinates (36.987°N, 27.432°E) place it in Greek waters very close to the Turkish border — the identical site name and near-identical coordinates appear for a dive site listed by Turkish operators as a decommissioned Turkish Air Force Dakota C-47 intentionally sunk in the Bodrum area. It is possible this represents the same aircraft, or a different wreck in adjacent waters.
+Uçak Batığı is Turkish for "airplane wreck." Four independent Turkish sources (Aquapro Dive Center, Sualtı Gazetesi, The Divers' Club, Zentacle) consistently describe a Douglas C-47 Dakota at this location: a former Turkish Air Force transport aircraft used to deploy paratroops over Cyprus in 1974, later decommissioned and donated to BOSAD (Bodrum Underwater Sports Association), and intentionally sunk on 1 July 2008 in Paçoz Cove near Karaada as an artificial reef.
 
-The recorded maximum depth of 72 metres makes this one of the deepest aircraft wrecks accessible in this area and places it firmly in technical diving territory — recreational sport diving limits (40 m with advanced training) would not reach the deepest sections. The dive would require technical diving certification (trimix or advanced nitrox) for the full depth profile.
+In 2010, current action broke the wreck into two pieces; the hangar and tail section drifted to a deeper resting place. Depths reported across sources: the engine and propeller (detached from the wing) sit at around 17 metres, the cockpit around 23 metres, and the fuselage/tail section around 34 metres, with a reported maximum around 36 metres (The Divers' Club). Other sources give a similar overall 16–34 metre spread. **This is a recreational-limits dive, not a technical one** — none of the current documentation supports the 72-metre depth previously recorded in OSM for this named site, and that figure has been corrected.
 
-The name "Uçak Batığı" appears in Greek and Turkish dive site databases for aircraft wrecks in the Kos–Bodrum strait area. Aircraft wrecks in this part of the Aegean typically originate from WWII aerial operations over the Dodecanese, though intentionally sunk aircraft are also present in Turkish waters for dive tourism purposes.
-
-No Greek dive operator documentation specifically for this site at these coordinates and this depth was found during research. Given the 72-metre maximum depth and the proximity to the Turkish border, this site may be primarily accessed from Turkish operators or may represent a different aircraft than the shallower C-47 listed by Bodrum operators.
+Diving inside the structure is not recommended; the wreck's interior is unstable and full of loose material. Marine life reported at the site includes groupers, moray eels, dentex, leerfish, lionfish, crabs, lobsters, tritons, and nudibranchs, with posidonia seagrass beds nearby that also attract groupers.
 
 ## Dive Profile
 
-- **Entry**: Boat
-- **Maximum depth**: 72 metres (technical diving depths)
-- **Minimum certification**: Technical diving (advanced nitrox / trimix required for depths below 40 m)
-- **Location note**: Near Greek/Turkish maritime border in the Kos–Bodrum strait
-- **Conditions**: Aegean; visibility typically 15–25 m
+- **Entry**: Boat (~30 minute ride from Bodrum)
+- **Depth**: Engine/propeller ~17m, cockpit ~23m, fuselage/tail ~34m, maximum reported ~36m
+- **Certification**: Recreational Advanced (no technical/trimix requirement)
+- **Location note**: Karaada (Black Island), Bodrum peninsula, Turkey — OSM node likely misassigned to Greece
+- **Conditions**: Aegean; visibility typically 15–25m
 
 ## Safety
 
-A maximum depth of 72 metres requires technical diving certification and mixed-gas equipment. This site is not accessible to recreational divers without technical training. Decompression obligations at this depth are significant.
+The wreck broke into two pieces in 2010 and its structure is unstable in places; entering the fuselage or hangar section is not recommended without appropriate wreck-diving training and is never entirely without risk.
 
 ## Site Information
 
-- **Location**: Northern Dodecanese, Greece (Kos–Bodrum strait area)
+- **Location**: Karaada, Bodrum peninsula, Turkey (OSM node misassigned to Greece dataset)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 72 meters
+- **Maximum Depth**: 34 meters
 
 ## Additional Resources
 
-- **Last Updated**: 2026-06-04
+- **Last Updated**: 2026-08-03
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources for this exact site (72 m depth, Greek side) were located. A comparable site named Uçak Batığı at 17–32 m depth operated by Aquapro Dive Center is documented on the Turkish side near Bodrum ([aquapro-turkey.com](https://aquapro-turkey.com/services/plane-wreck-dive/)). The C-47 Dakota listed by Turkish operators is a deliberately sunk decommissioned aircraft (sunk 1 July 2008). Relationship between these two OSM listings is unclear and could not be resolved from available sources. Last updated 2026-06-04.*
+*Sources: [Aquapro Dive Center — Plane Wreck Dive](https://aquapro-turkey.com/services/plane-wreck-dive/), [Sualtı Gazetesi — Bodrum Douglas C-47 Dakota Uçak Batığı](https://www.sualtigazetesi.com/bodrum-douglas-c-47-dakota-ucak-batigi/), [The Divers' Club — C-47 Dakota Aircraft Wreck](https://www.thediversclub.com.tr/?dive-sites=c-47-dakota-aircraft-wreck&lang=en), [Zentacle — Douglas C-47A Dakota airplane wreck](https://www.zentacle.com/Beach/10561/douglas-c-47-a-dakota-airplane-wreck). Re-audited 2026-08-03: depth corrected from 72m to 34m based on 4 corroborating sources; kosdiving.com (previously cited) was re-checked directly and does not mention this site — dropped as an invalid source.*

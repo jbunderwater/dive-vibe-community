@@ -33,11 +33,7 @@ The North Channel of Lake Huron — the body of water between Manitoulin Island 
 
 ## Marine Life
 
-The North Channel's cold, clear water supports excellent freshwater biodiversity. Lake trout are more commonly encountered here than in the lower lakes — this is prime lake trout habitat. Walleye and pickerel are present. Smallmouth bass inhabit the wreck hull. Northern pike are occasionally seen. The North Channel has less zebra mussel impact than the lower Great Lakes, meaning hull surfaces are more natural in appearance.
-
-## Dive Profile
-
-The North Wind lies at 20 metres on the North Channel lakebed. Explore the hull at leisure — the better visibility here compared to many Great Lakes sites makes navigation intuitive and exploration rewarding. The wreck's historical character is enhanced by the beautiful North Channel setting. Standard ascent with safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

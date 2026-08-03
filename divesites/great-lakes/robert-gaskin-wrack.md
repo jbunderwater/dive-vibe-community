@@ -33,11 +33,7 @@ The Robert Gaskin was a two-masted wooden schooner that sank in the St. Lawrence
 
 ## Marine Life
 
-The Thousand Islands section of the St. Lawrence is one of the most diverse freshwater aquatic environments in eastern North America. Northern pike are a signature species here — large specimens, often exceeding a metre, are regularly encountered near the wreck. Smallmouth bass inhabit the hull. Yellow perch and walleye are present. Muskellunge (muskie) inhabit the area and are occasionally sighted. The flowing river keeps the hull in better condition than equivalent lake wrecks — less mussel colonization means more of the original vessel's character is visible.
-
-## Dive Profile
-
-Plan the dive to account for river current. Descend to the wreck and use the hull as a current shelter while exploring. The Robert Gaskin's upright profile and intact character make navigation easy even in modest visibility. On ascent, deploy SMB early given the river environment. Coordinate pickup with the dive boat.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

@@ -33,11 +33,7 @@ The Philo Scoville was a Great Lakes cargo schooner that sank in Georgian Bay an
 
 ## Marine Life
 
-Georgian Bay's cold, clear water supports a healthy freshwater community centred on the wreck. Lake trout circle the deeper hull sections. Smallmouth bass are territorial on the deck and around hull openings. Yellow perch school in mid-water. Lake whitefish are occasionally spotted above the site. Zebra mussels colonize surfaces below the thermocline, and Georgian Bay's water clarity makes these mussel beds visible in unusual detail.
-
-## Dive Profile
-
-The Philo Scoville lies at an excellent recreational depth with generous NDL. Explore the hull's length, examining the 19th-century schooner construction in detail that Georgian Bay's clarity makes possible. The preserved rigging, deck hardware, and hull fittings tell the story of a working sailing vessel's life on the Great Lakes. Ascend on the mooring line. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

@@ -33,11 +33,7 @@ Lake Erie's western basin — the shallowest portion of the lake — saw intense
 
 ## Marine Life
 
-Western Lake Erie is one of the most productive fisheries in North America. The George Worthington's hull attracts extraordinary numbers of yellow perch — schools of hundreds are common in summer. Walleye, Lake Erie's prize sport fish, patrol the structure. Large smallmouth bass are resident in the hull. Channel catfish occasionally cruise the bottom debris field. Zebra mussels carpet the hard surfaces below the thermocline.
-
-## Dive Profile
-
-The wreck sits on the flat sandy-silty western Lake Erie bottom. Standard bow-to-stern hull exploration works well. At 20 metres, bottom times are generous. The prominent fish life makes taking time to observe the ecosystem as rewarding as examining the hull's historical features. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

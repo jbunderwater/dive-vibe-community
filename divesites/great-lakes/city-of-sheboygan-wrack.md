@@ -33,11 +33,7 @@ The Kingston, Ontario area at the eastern end of Lake Ontario and the entrance t
 
 ## Marine Life
 
-Lake Ontario near Kingston supports a diverse freshwater ecosystem. Smallmouth bass are the most commonly seen fish around the City of Sheboygan, patrolling the hull openings and deck sections. Yellow perch school in mid-water above the wreck. Round gobies — an established invasive species — cover the bottom around the debris field. Lake whitefish are occasionally spotted in the open water column above. The hull carries heavy zebra mussel colonization below 10 metres.
-
-## Dive Profile
-
-The wreck lies on a flat silty bottom upright or at a slight list. Explore the hull from bow to stern, noting the propeller machinery and boiler if present. The Kingston area's silty bottom requires careful buoyancy control to avoid reducing visibility. Ascend on the mooring or anchor line for a 3-minute safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

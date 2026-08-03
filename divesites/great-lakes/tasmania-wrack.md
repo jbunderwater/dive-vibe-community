@@ -33,11 +33,7 @@ The Tasmania lies in the western Lake Erie basin near the southern Ontario coast
 
 ## Marine Life
 
-Western Lake Erie is the most productive fishing lake in North America by weight. The Tasmania wreck concentrates fish in impressive numbers. Yellow perch schools numbering in the hundreds hover above the deck in summer. Large walleye are a fixture at dawn and dusk. Smallmouth bass dominate the hull interior. White bass and channel catfish are present. Zebra mussels coat all hard surfaces.
-
-## Dive Profile
-
-Standard western Lake Erie wreck profile. Descend through the thermocline (expect a cold shock below 10–12 metres) to the wreck at 20 metres. Explore bow to stern on the flat, silty-sandy bottom. Be mindful of buoyancy to minimize silt disturbance. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

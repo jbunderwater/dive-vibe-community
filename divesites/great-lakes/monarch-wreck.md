@@ -33,11 +33,7 @@ The southern end of Lake Huron near Sarnia, Ontario and Port Huron, Michigan is 
 
 ## Marine Life
 
-Southern Lake Huron wrecks attract a typical Great Lakes community. Smallmouth bass are commonly seen around the hull. Yellow perch school in mid-water. Walleye patrol the wreck edges. The proximity to the St. Clair River system means some species diversity — muskellunge and northern pike are occasional visitors. Zebra mussels coat hard surfaces below the thermocline.
-
-## Dive Profile
-
-The Monarch lies on a relatively flat bottom at 20 metres — a good recreational wreck diving depth. Explore from bow to stern, noting hull construction and any preserved fittings. The proximity to the St. Clair River may produce some current — assess conditions before entry. Ascend on the anchor line for a standard safety stop.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

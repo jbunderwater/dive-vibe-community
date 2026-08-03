@@ -33,11 +33,7 @@ Georgian Bay's eastern shoreline and the waters around Collingwood saw extensive
 
 ## Marine Life
 
-Eastern Georgian Bay wreck sites host healthy freshwater communities. Smallmouth bass are the dominant fish, frequently seen darting in and out of the hull. Yellow perch school around the masts and rigging remains. Lake whitefish occasionally pass overhead in open water above the site. Crayfish are common on the bottom debris field. Zebra mussels colonize hard surfaces below approximately 8 metres.
-
-## Dive Profile
-
-The wreck lies on the sandy-silty bottom of eastern Georgian Bay. Standard bow-to-stern exploration works well. Note the hull construction — 19th-century wooden schooner building methods visible in the planking, framing, and iron hardware. Maximum depth 20 metres. Ascend on the anchor line for a standard safety stop.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

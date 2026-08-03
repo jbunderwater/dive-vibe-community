@@ -33,11 +33,7 @@ Lake Huron's cold freshwater has preserved this wreck remarkably well. The site 
 
 ## Marine Life
 
-The wreck structure attracts a diverse community of freshwater species. Smallmouth bass and yellow perch are the most commonly encountered fish, often hovering around the hull in schools. Lake trout patrol the deeper sections. Zebra and quagga mussels blanket most hard surfaces, providing habitat for amphipods and small invertebrates. Crayfish pick their way through the debris field around the wreck's base. In late summer, large walleye are occasionally spotted near the wreck.
-
-## Dive Profile
-
-Descend the anchor or mooring line to the top of the wreck. Explore the exterior hull, noting the well-preserved wooden construction typical of 19th-century Great Lakes sailing vessels. The site sits on a flat sandy bottom, making orientation easy. Allow adequate bottom time to circle the wreck before beginning your ascent. Perform a 3-minute safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

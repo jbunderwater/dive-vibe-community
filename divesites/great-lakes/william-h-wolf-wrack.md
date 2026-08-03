@@ -33,11 +33,7 @@ The southern end of Lake Huron near Sarnia, Ontario and Port Huron, Michigan is 
 
 ## Marine Life
 
-Southern Lake Huron supports a typical Great Lakes freshwater community. Smallmouth bass are the most visible wreck residents. Yellow perch school around the hull structure. Walleye patrol the wreck edges. Zebra mussels cover all hard surfaces below the thermocline. Round gobies are established in this part of Lake Huron.
-
-## Dive Profile
-
-The wreck lies at 20 metres on a relatively flat bottom. Explore from bow to stern. Note hull construction and preserved fittings. Current awareness is important given the proximity to the St. Clair River system. Standard ascent with safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

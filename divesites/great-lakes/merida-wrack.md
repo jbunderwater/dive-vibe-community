@@ -33,11 +33,7 @@ The Merida rests on the Lake Erie lakebed in approximately 20 metres of cold fre
 
 ## Marine Life
 
-Yellow perch school prominently around the Merida's hull in summer — often in groups of hundreds, these fish are the most striking wildlife encounter on Lake Erie wreck dives. Walleye patrol the structure edges. Smallmouth bass are territorial on the hull. Round gobies cover the bottom sediment. Zebra mussels blanket all hard surfaces. Occasional lake trout visits add excitement, particularly at dawn and dusk.
-
-## Dive Profile
-
-Standard bow-to-stern wreck exploration. The 20-metre depth provides adequate bottom time for full hull inspection. Flat sandy bottom makes navigation and buoyancy management straightforward. Ascend on the anchor or mooring line for a 3-minute safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

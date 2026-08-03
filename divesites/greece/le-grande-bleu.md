@@ -34,4 +34,4 @@ Regional marine life applies; no site-specific species reports found for this OS
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Movie-Locations.com — The Big Blue filming locations](https://movie-locations.com/movies/g/Grand-Bleu.php), [Wikipedia — The Big Blue (film)](https://en.wikipedia.org/wiki/The_Big_Blue), [Greeka — Manganari Beach, Ios](https://www.greeka.com/cyclades/ios/beaches/manganari/). No independent dive site documentation for this specific OSM node was found. Last updated 2026-06-04.*
+*Sources: [Movie-Locations.com — The Big Blue filming locations](https://movie-locations.com/movies/g/Grand-Bleu.php), [Wikipedia — The Big Blue (film)](https://en.wikipedia.org/wiki/The_Big_Blue), [Greeka — Manganari Beach, Ios](https://www.greeka.com/cyclades/ios/beaches/manganari/). No independent dive site documentation for this specific OSM node was found. Re-audited 2026-08-03: movie-locations.com re-fetched directly, filming-location claim confirmed unchanged. Last updated 2026-08-03.*

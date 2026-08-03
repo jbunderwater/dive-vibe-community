@@ -33,11 +33,7 @@ The Nimrod name was a popular choice for 19th-century vessels — it evokes the 
 
 ## Marine Life
 
-Lake Erie's productive fishery is well represented at the Nimrod. Yellow perch are the most conspicuous fish, schooling densely around the hull. Walleye patrol the wreck perimeter. Smallmouth bass are resident in the hull. Round gobies are abundant on the sediment. Zebra mussels encrust all submerged hard surfaces below the thermocline.
-
-## Dive Profile
-
-Standard Lake Erie wreck dive profile. Descend to the wreck top and explore from bow to stern on the flat lakebed. The wooden hull offers historical details — note the schooner's rigging attachments, windlass, and cargo hold structure. Ascend with adequate reserve gas. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

@@ -33,11 +33,7 @@ Small steam or diesel tugs were the workhorses of Great Lakes harbours throughou
 
 ## Marine Life
 
-Georgian Bay's cold, clear water supports excellent fish life around the tug wrecks. Lake trout are periodically seen at depth. Smallmouth bass are the dominant territorial fish, claiming the hull openings. Yellow perch school around the superstructure. The compact scale of the tugs provides more "per square metre" wreck detail than the larger sailing ships, and crayfish inhabit every accessible space.
-
-## Dive Profile
-
-The Tugs are compact vessels — a single dive covers the entire exterior easily. Explore the hull, pilothouse, engine room areas (external view), and stern. The scale of the vessels means intimate exploration rather than the extended sweeping exploration of larger wrecks. At 20 metres, generous bottom time is available. Ascend on the mooring line for a standard safety stop.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

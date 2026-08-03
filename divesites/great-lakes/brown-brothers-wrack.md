@@ -33,11 +33,7 @@ Lake Erie wrecks at depth beyond 30 metres offer exceptional preservation condit
 
 ## Marine Life
 
-Deep Lake Erie wrecks host a different community than shallower sites. Lake trout — cold-water specialists — are more commonly seen here than at shallower wrecks. Deep-water sculpin inhabit the bottom debris field. Yellow perch are present but less numerous than at shallower depths. The wreck's hard surfaces below the thermocline are heavily colonized by zebra mussels. Freshwater sponges and bryozoans grow on some sections in the deeper portions.
-
-## Dive Profile
-
-This site is at the recreational diving depth limit. Careful dive planning is essential. Descent on the anchor line to the wreck top (approximately 30–35 metres), then explore aft to the maximum depth of 40 metres. Keep a close eye on NDL and gas consumption — bottom time at this depth is limited. Begin ascent in plenty of time, completing a 3–5 minute safety stop at 5 metres. Consider bringing a pony bottle as an additional safety margin.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

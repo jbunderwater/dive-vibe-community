@@ -33,4 +33,4 @@ Note: A separate shore dive accessible from Mononaftis beach — the Amphora Cav
 - **Visibility**: Up to 30 metres
 
 ---
-*Sources: [Divers Club Crete — Mononaftis dive site](https://www.diversclub-crete.gr/sites-mononaftis/), [PADI — Mononaftis dive site](https://www.padi.com/dive-site/greece/mononaftis/), [Zentacle — Mononaftis](https://www.zentacle.com/Beach/6782/mononaftis). Amphora Cave is a separate site documented by [Eco Diving Center](https://www.ecodivingcenter.com/en/diving_spots/amphora-cave-2/). Last updated 2026-06-04.*
+*Sources: [Divers Club Crete — Mononaftis dive site](https://www.diversclub-crete.gr/sites-mononaftis/), [PADI — Mononaftis dive site](https://www.padi.com/dive-site/greece/mononaftis/), [Zentacle — Mononaftis](https://www.zentacle.com/Beach/6782/mononaftis). Amphora Cave is a separate site documented by [Eco Diving Center](https://www.ecodivingcenter.com/en/diving_spots/amphora-cave-2/). Re-audited 2026-08-03: diversclub-crete.gr re-fetched directly, including confirmation that "Big Anchor" is a distinct site from the Mononaftis rock — all claims confirmed unchanged. Last updated 2026-08-03.*

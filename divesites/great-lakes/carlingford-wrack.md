@@ -33,11 +33,7 @@ Lake Erie was the busiest commercial shipping route in North America for much of
 
 ## Marine Life
 
-The Carlingford's wreck structure serves as a fish aggregating device on the otherwise featureless sandy bottom of northern Lake Erie. Yellow perch school densely around the hull in summer. Walleye move through the area, particularly at dawn and dusk. Bass establish territories inside the hull openings. Round gobies are abundant on the bottom. Zebra mussels blanket all hard surfaces below the thermocline.
-
-## Dive Profile
-
-The wreck lies on a flat sandy bottom and is generally easy to navigate for intermediate divers. Explore the hull exterior from bow to stern, noting structural details that speak to the vessel's working life. The cargo hold and anchor hardware are primary features. Ascend with adequate reserve gas and perform a standard safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

@@ -33,11 +33,7 @@ The eastern end of Lake Erie's north shore between Port Colborne and the Welland
 
 ## Marine Life
 
-Eastern Lake Erie wreck sites share the productive fish community of the lake as a whole. Yellow perch are abundant. Walleye are regular visitors, particularly in the lower light conditions of dawn, dusk, or overcast days. Smallmouth bass are resident in the hull. Lake trout are occasionally seen in the eastern basin's colder, deeper water. Round gobies populate the bottom sediment. Zebra mussels coat all hard surfaces.
-
-## Dive Profile
-
-The Raleigh lies on a flat sandy bottom. Standard bow-to-stern exploration works well. The eastern Lake Erie basin's better clarity compared to the western basin makes this a rewarding dive in good conditions. Ascend on the anchor line. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

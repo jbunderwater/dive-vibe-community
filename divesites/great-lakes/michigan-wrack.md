@@ -33,11 +33,7 @@ The Michigan (not to be confused with the lake of the same name) lies in 4 metre
 
 ## Marine Life
 
-The very shallow, sunlit Michigan hosts a warm-water freshwater community in summer. Sunfish (pumpkinseed and bluegill) are abundant and approachable. Smallmouth bass patrol the hull's shadowed areas. Crayfish are everywhere on the hull and bottom. Juvenile perch move through in large groups. Aquatic vegetation on the hull and surrounding bottom provides habitat for insects, small fish, and invertebrates. This is an excellent site for observing the interactions of a warm, shallow freshwater ecosystem.
-
-## Dive Profile
-
-At 4 metres maximum depth, this is as simple as scuba diving gets. Descend from the boat and explore the hull at leisure — no NDL concerns, no decompression requirements, and easy self-rescue if needed. The site is ideal for students on discovery or checkout dives. A brief stop at 3 metres before surfacing is good practice.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

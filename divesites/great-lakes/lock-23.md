@@ -33,11 +33,7 @@ The site known as Lock 23 is an underwater remnant of one of the old canal syste
 
 ## Marine Life
 
-The lock's stone walls, sheltered channel, and structural complexity provide diverse habitat for eastern Ontario freshwater species. Northern pike patrol the edges of the lock chamber. Smallmouth bass are resident in sheltered corners and beneath ledges. Large carp occasionally cruise through the lock area. Yellow perch school in open water within the chamber. Crayfish populate every stone surface. Freshwater mussels (native species, not zebra mussels) are present on the submerged stonework.
-
-## Dive Profile
-
-The lock structure defines the dive profile — enter the chamber and explore the stone walls, lock gate mechanisms, and associated hardware. The confined channel keeps navigation intuitive. Maximum depth is 20 metres. The stone walls are interesting subjects but care should be taken near potentially unstable masonry. Ascend and exit upstream or downstream as coordinated with the dive boat.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

@@ -33,11 +33,7 @@ Toronto, Ontario's position on the western shore of Lake Ontario makes it a reas
 
 ## Marine Life
 
-Western Lake Ontario near Toronto supports freshwater species adapted to a more urbanized environment. Smallmouth bass are present around the hull. Yellow perch school in mid-water. Round gobies are abundant on the bottom. Occasional alewives pass through the area. Zebra mussels coat all hard surfaces. Lake trout are less common in western Lake Ontario's warmer waters than in the eastern end of the lake.
-
-## Dive Profile
-
-The Sligo lies on a silty bottom at 20 metres. Standard wreck exploration from bow to stern. Silty conditions in western Lake Ontario require careful buoyancy to maintain what visibility exists. Ascend on the anchor line. Safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

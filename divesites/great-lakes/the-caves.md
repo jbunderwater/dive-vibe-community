@@ -33,11 +33,7 @@ Georgian Bay's rocky Bruce Peninsula shoreline is characterized by dramatic lime
 
 ## Marine Life
 
-The cave openings and overhangs create sheltered habitat for species that seek protection from open-water predators. Smallmouth bass are the dominant fish, often seen resting in the cave interiors. Crayfish inhabit every available crack and crevice in the limestone. In summer, juvenile sunfish and perch hover at the cave entrances. The limestone surfaces are colonized by freshwater algae and sponges (Georgian Bay has rare freshwater sponge species). Northern pike occasionally hunt near the cave entrances.
-
-## Dive Profile
-
-The Caves are at 6 metres — effectively unlimited bottom time for certified divers. Explore the cave openings from the outside, swimming into sheltered cavern areas (daylight-lit, without penetrating into dark zones). Observe the geological formations — flutes, arches, and overhangs carved by millennia of water action. This site is suitable for completing multiple circuits during a single dive. No safety stop required at 6 metres, though a brief pause before surfacing is good practice.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

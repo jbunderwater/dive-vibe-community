@@ -35,11 +35,7 @@ The wreck lies on her starboard side at approximately 45 degrees from inverted, 
 
 ## Marine Life
 
-The Straits of Mackinac are known for exceptional freshwater fish populations. Lake trout — among the most prized sport fish in the Great Lakes — are commonly encountered around the Cedarville at depth. Cisco (lake herring) school in open water above the wreck. Large walleye and yellow perch inhabit the shallower portions. The clean, cold Straits water supports less zebra mussel colonisation than Lake Erie but more than Lake Superior, creating a middle-ground ecosystem on the hull.
-
-## Dive Profile
-
-The Cedarville lies on her starboard side at approximately 45 degrees from inverted. The highest point of the hull is at about 11 metres, with the maximum depth at the keel reaching 34 metres. The ship's scale — 588 feet (179 metres) long — means a single dive will only cover a section of the vessel. Focus on the bow area (intact and photogenic), midships cargo holds with the visible collision gash, or the stern. Multiple dives are needed to fully explore this wreck.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

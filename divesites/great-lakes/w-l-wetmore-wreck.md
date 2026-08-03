@@ -33,11 +33,7 @@ The W. L. Wetmore was a Great Lakes cargo schooner that met her end in Georgian 
 
 ## Marine Life
 
-Georgian Bay cold-water species are regularly encountered at the Wetmore. Lake trout patrol at depth. Smallmouth bass are territorial on the hull — often seen closely following divers. Yellow perch school around mast stumps and rigging. Lake whitefish appear periodically in the water column above the wreck. Zebra mussels colonize surfaces below the thermocline.
-
-## Dive Profile
-
-The Wetmore lies at 20 metres on the Georgian Bay bottom. The exceptional Fathom Five visibility allows full appreciation of the wreck's profile before reaching the deck. Explore bow to stern with time to note hull construction details. At 20 metres, NDL provides generous exploration time. Standard ascent with 3-minute safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

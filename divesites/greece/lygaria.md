@@ -31,4 +31,4 @@ The site's signature feature is a swim-through tunnel entered at 14 m and exitin
 - **Notable Features**: Swim-through tunnel (14 m–8 m), three WWII bombs at 11 m
 
 ---
-*Sources: [Divers Club Crete — Lygaria dive site](https://www.diversclub-crete.gr/sites-lygaria/), [Scuba Hellas — Crete Agia Pelagia](https://www.scubahellas.com/crete-agia-pelagia/), [Greeka — Scuba Diving in Lygaria](https://www.greeka.com/crete/heraklion/sports/scuba-diving/lygaria/). Last updated 2026-06-04.*
+*Sources: [Divers Club Crete — Lygaria dive site](https://www.diversclub-crete.gr/sites-lygaria/), [Scuba Hellas — Crete Agia Pelagia](https://www.scubahellas.com/crete-agia-pelagia/), [Greeka — Scuba Diving in Lygaria](https://www.greeka.com/crete/heraklion/sports/scuba-diving/lygaria/). Re-audited 2026-08-03: diversclub-crete.gr re-fetched directly, all claims confirmed unchanged. Last updated 2026-08-03.*

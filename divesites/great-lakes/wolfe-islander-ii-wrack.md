@@ -17,7 +17,7 @@ The Wolfe Islander II is a deliberately sunk ferry wreck in Lake Ontario near Ki
 
 ## Overview
 
-The Wolfe Islander II was a steel-hulled passenger and vehicle ferry that served the crossing between Kingston and Wolfe Island — the same route its successor ferry serves today. Retired from service, she was scuttled in Lake Ontario in 1985 to create a recreational dive site, and has since become one of the most popular wreck dives in the Kingston area. At approximately 20 metres in Lake Ontario's cold, dark freshwater, the steel hull has survived 40 years since sinking in excellent condition. The vessel's familiar 20th-century form — a flat-deck car ferry with wheelhouse and passenger spaces — makes navigation intuitive and the dive engaging even for recreational divers without specific wreck experience. The Kingston area's visibility (5–10 metres) makes this a good dive on most weather conditions.
+The Wolfe Islander II was a steel-hulled passenger and vehicle ferry, built in 1946, that served the crossing between Kingston and Wolfe Island — the same route its successor ferries serve today. Retired from service, she was deliberately scuttled near Dawson's Point off Wolfe Island on September 21, 1985 to create a recreational dive site, after hazardous materials were stripped out and interior hatches removed to allow safer swim-through access. The wreck has since become one of the most popular dives in the Kingston area. Sources describe the maximum depth differently — most put the bottom at approximately 21 metres (70 feet), with the superstructure starting around 12 metres (40 feet), though a few dive-shop accounts cite depths as great as 26 metres (85 feet); divers should treat the deeper figure as an outer bound rather than the typical profile. The vessel's familiar 20th-century form — a flat-deck car ferry with wheelhouse and passenger spaces — makes navigation intuitive and the dive engaging even for recreational divers without specific wreck experience. The Kingston area's visibility (5–10 metres) makes this a good dive in most weather conditions.
 
 ## Site Information
 
@@ -33,11 +33,7 @@ The Wolfe Islander II was a steel-hulled passenger and vehicle ferry that served
 
 ## Marine Life
 
-The Wolfe Islander II has been in place for 40 years and has developed a rich artificial reef community. Smallmouth bass are the dominant fish — bold and abundant, often approaching divers aggressively. Yellow perch school in large numbers around the superstructure. Round gobies are ubiquitous on the bottom. Large northern pike occasionally patrol the wreck perimeter. The ferry's flat car deck and superstructure provide extensive surface area for zebra mussel colonization, which in turn supports abundant invertebrates.
-
-## Dive Profile
-
-The Wolfe Islander II is a large vessel — a full-sized car ferry — so multiple dives are needed to explore the whole site. The car deck at approximately 15 metres, the superstructure and wheelhouse at shallower depths, and the hull exterior at 20 metres are all worthwhile sections. The familiar form of the vessel makes navigation intuitive. Explore systematically from bow to stern on successive dives. Ascend on the anchor or mooring line with a standard safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -60,4 +56,4 @@ Lake Ontario boat traffic near Kingston requires careful ascent planning. Always
 The Wolfe Islander II's large scale and 20th-century construction provide different photographic subjects from the historic wooden wrecks nearby. The cavernous car deck, wheelhouse, and bow profile are dramatic wide-angle subjects. Smallmouth bass portraits are a Kingston area speciality.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [MV Wolfe Islander II - Wikipedia](https://en.wikipedia.org/wiki/MV_Wolfe_Islander_II), [The Scuba News - Wolfe Islander II Served Kingston as Ferry](https://www.thescubanews.com/2017/05/29/wolfe-islander-ii-served-kingston-as-ferry-and-now-dive-site-2/), [Shotline Diving - Wolfe Islander II C157269](https://www.shotlinediving.com/docs/general/kingston-canadian-side/wolfe-islander-ii-c157269/). Last updated 2026-08-03.*

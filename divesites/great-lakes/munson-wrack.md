@@ -33,11 +33,7 @@ The Kingston area's remarkable concentration of historic shipwrecks results from
 
 ## Marine Life
 
-Kingston-area wrecks are consistently productive dive sites for freshwater fish observation. Smallmouth bass are the signature species, often encountered nose-to-lens at close range. Yellow perch school around the masts and rigging. Round gobies populate the bottom. Occasional walleye sightings add interest. The hull below 8–10 metres carries heavy zebra mussel colonization.
-
-## Dive Profile
-
-The Munson lies on a silty bottom at 20 metres. Explore from bow to stern, noting preserved hull features. Careful buoyancy control protects both the fragile hull and the visibility. Ascend on the mooring line for a standard 3-minute safety stop.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

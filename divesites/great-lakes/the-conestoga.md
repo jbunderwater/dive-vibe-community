@@ -17,7 +17,7 @@ The Conestoga is a 20th-century steel canal vessel that sank in the St. Lawrence
 
 ## Overview
 
-The Conestoga sank in 1922 — relatively recent by Great Lakes wreck diving standards — in the St. Lawrence River near the Thousand Islands. She was a canal-size vessel designed to navigate the original St. Lawrence canals before the Seaway era. The steel hull has survived a century in the river's clear, cold water in excellent condition, and the 20th-century construction means the vessel's details are more familiar to modern eyes than the wooden schooners typical of the region. The Thousand Islands' excellent visibility (8–15 metres from the constantly flowing river) makes exploring the Conestoga's steel hull a clear, engaging dive.
+The Conestoga was a double-planked propeller freighter, 252 feet by 36 feet and 2,008 tons, launched July 6, 1878, and built to navigate the original St. Lawrence canals before the Seaway era. On May 22, 1922, while waiting to pass through Galop Canal Lock 28 near Cardinal, Ontario, a fire broke out in the engine room; the vessel burned to the waterline and sank. Part of a mast remains visible above the water at both high and low tide. The wreck now lies in shallow water alongside the old canal wall — relatively recent by Great Lakes wreck diving standards. The Thousand Islands' excellent visibility (8–15 metres from the constantly flowing river) makes exploring the Conestoga's remains a clear, engaging dive.
 
 ## Site Information
 
@@ -33,11 +33,7 @@ The Conestoga sank in 1922 — relatively recent by Great Lakes wreck diving sta
 
 ## Marine Life
 
-The St. Lawrence River around the Thousand Islands supports abundant freshwater life. Northern pike are the signature encounter near this wreck — large, powerful fish that hunt in the current along the hull. Smallmouth bass claim sheltered sections. Yellow perch and walleye are seasonally present. The steel hull's industrial features attract different species than the wooden-schooner environment — channel catfish are more commonly seen near steel wrecks. The flowing river keeps the hull largely free of the heavy mussel colonization typical of lake wrecks.
-
-## Dive Profile
-
-Plan the dive with the current in mind. Descend to the wreck and explore the steel hull sections, machinery areas, and cargo hold. The 1922 construction means identifiable 20th-century features — steam or diesel machinery, steel plate construction, riveted seams. On ascent, deploy SMB early and coordinate with the dive boat for current-assisted pickup.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -60,4 +56,4 @@ St. Lawrence River current is the primary safety consideration. Commercial shipp
 The steel construction of the Conestoga provides macro photography subjects distinct from wooden wrecks — rivets, steel plate textures, machinery components, and hull fittings. Northern pike encounters in the flowing river are excellent photography subjects.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Ottawa Scuba - Conestoga](http://ottawa-scuba.com/sites/connestoga/connestoga.shtml), [Save Ontario Shipwrecks - Wikipedia](https://en.wikipedia.org/wiki/Save_Ontario_Shipwrecks), [Dive Kawartha - The Conestoga Shipwreck](https://divekawartha.ca/charters/the-conestoga-shipwreck/). Last updated 2026-08-03.*

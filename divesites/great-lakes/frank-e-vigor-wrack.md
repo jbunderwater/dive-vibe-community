@@ -33,11 +33,7 @@ The Frank E. Vigor was a 97-metre steel freighter that sank during World War II 
 
 ## Marine Life
 
-Lake Erie's western basin is one of the most productive fisheries in North America. The Frank E. Vigor wreck is a fish magnet — enormous schools of yellow perch create clouds around the hull, and large walleye patrol the structure edges. Smallmouth bass claim the hull openings as territory. Channel catfish are occasionally seen on the bottom debris field. The steel hull carries heavy zebra mussel growth, which in turn supports a complex invertebrate food web.
-
-## Dive Profile
-
-The Frank E. Vigor's steel hull is massive — a single dive explores only a portion. Choose a section to focus on: bow area (anchor chain, hawsepipes, and windlass), midships hold section, or stern with propeller and rudder. The flat, sandy bottom makes navigation straightforward. Silty conditions in the western basin require careful buoyancy management.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

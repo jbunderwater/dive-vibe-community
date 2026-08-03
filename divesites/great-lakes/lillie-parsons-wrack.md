@@ -17,7 +17,7 @@ The Lillie Parsons is one of the most beloved wreck dives in the St. Lawrence Ri
 
 ## Overview
 
-The Lillie Parsons was a canal schooner — a vessel designed to pass through the original Welland Canal — that foundered in the St. Lawrence River in 1877 after a cargo of coal shifted. She now lies in approximately 20 metres of water in the Thousand Islands section of the St. Lawrence near Brockville, Ontario. The Lillie Parsons is one of the most frequently dived and photographed wrecks in the Thousand Islands area, known for its accessible depth, well-preserved wooden hull construction, and the clarity of the St. Lawrence River water that reveals details clearly. The 19th-century schooner rigging and hull architecture are visible and identifiable, offering a genuine connection to Great Lakes maritime heritage.
+The Lillie Parsons was an American two-masted canal schooner launched September 14, 1868, at Tonawanda, New York. She sank in 1877 in the St. Lawrence River near Brockville after a squall shifted her roughly 500-ton coal cargo. She now lies upside down against Sparrow Island, with the bow (downstream) at approximately 21 metres (70 feet) and the stern (upstream) considerably shallower, around 6 metres. The wreck is reachable as a shore dive via the Sparrow Island public dock, though current at the site can be strong. The Lillie Parsons is one of the most frequently dived and photographed wrecks in the Thousand Islands area, known for its accessible depth, well-preserved wooden hull construction, and the clarity of the St. Lawrence River water that reveals details clearly.
 
 ## Site Information
 
@@ -33,15 +33,11 @@ The Lillie Parsons was a canal schooner — a vessel designed to pass through th
 
 ## Marine Life
 
-The Lillie Parsons attracts a wide variety of Thousand Islands fish life. Northern pike are almost always present — some large, trophy-sized specimens use the wreck as a hunting ground. Smallmouth bass are territorial on the hull. Yellow perch and walleye are seasonally present. Crayfish populate the bottom debris field. The flowing river water keeps the hull relatively clear, allowing more natural viewing of the vessel's structure than you'd get at a lake site with heavy mussel colonization.
-
-## Dive Profile
-
-The Lillie Parsons lies upright (or nearly so) on the river bottom. Navigate with the current in mind — begin upstream and work your way along the hull aft, or moor directly over the wreck and explore sections systematically. Hull features include the rigging structure, capstan, and cargo hold area. On ascent, deploy SMB well before leaving the bottom in the river current.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
-Charter dive boats from Brockville are the primary access. The Lillie Parsons is one of the more popular Brockville area wrecks and charters run regularly in season. Entry by giant stride. River current requires an experienced crew for proper boat positioning.
+The Lillie Parsons is a shore dive, accessed via the public dock on Sparrow Island near Brockville. Some local operators also offer it as part of a charter itinerary, but the public-dock shore entry is the primary access point. River current requires care when entering and exiting, and swimming out to the wreck should not be attempted by inexperienced current divers.
 
 ## Tips and Recommendations
 
@@ -60,4 +56,4 @@ St. Lawrence River current requires active management throughout the dive. Never
 The Lillie Parsons is one of the most photographed freshwater wrecks in Ontario. The 19th-century wooden hull and the clarity of the St. Lawrence River create ideal conditions for wide-angle wreck photography. Northern pike encounters are outstanding — these large, streamlined predators pose beautifully in the current near the hull.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Lillie Parsons - Wikipedia](https://en.wikipedia.org/wiki/Lillie_Parsons), [Sharky's Scuba - Lillie Parsons](https://sharkyscuba.com/local-ottawa-diving/lillie-parsons/), [Dive Brockville - Lillie Parsons Charters](https://divebrockville.com/charters/lillie-parsons/). Last updated 2026-08-03.*

@@ -33,11 +33,7 @@ The Eastcliffe Hall was a Canadian bulk carrier that sank on July 14, 1970, in t
 
 ## Marine Life
 
-The St. Lawrence River supports a rich freshwater ecosystem. Northern pike are common visitors to the wreck area, hunting in the current along the hull. Smallmouth bass shelter in the vessel's protected leeward side. Yellow perch school in areas of reduced current near the hull. Walleye are frequently encountered, particularly at dawn and dusk. The flowing river keeps the hull relatively free of heavy mussel colonization compared to static lake environments.
-
-## Dive Profile
-
-Dive planning for river current diving differs significantly from lake diving. Assess current direction and speed before entry. Descend quickly to the shelter of the hull and explore from there, moving up-current first so the return is easier. The wreck's size means multiple dives are needed for full exploration. Ascend close to the hull in the current shadow and signal the dive boat for pickup. Drift diving along the wreck is possible in moderate current.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

@@ -33,11 +33,7 @@ The Wawinet rests in the southern Georgian Bay waters near Collingwood or the Ow
 
 ## Marine Life
 
-Southern Georgian Bay wreck sites support a productive freshwater community. Smallmouth bass are prominent around the hull. Yellow perch school in mid-water. Northern pike are occasionally spotted near the wreck. Crayfish inhabit the bottom debris field. Zebra mussels colonize hard surfaces below the thermocline. In the shallow southern Georgian Bay waters, warm summer surface temperatures support more diverse plant life and sunfish species than the colder northern parts of the lake.
-
-## Dive Profile
-
-The Wawinet lies at a comfortable 20-metre recreational depth. Explore the hull from end to end, noting the vessel's construction and any preserved features. The southern Georgian Bay bottom is relatively sandy in this area. Standard ascent with safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

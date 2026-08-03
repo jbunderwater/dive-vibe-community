@@ -17,7 +17,7 @@ The Forest City is a deep wreck in Fathom Five National Marine Park, Georgian Ba
 
 ## Overview
 
-The Forest City lies in the deepest section of the Fathom Five wreck collection, descending to 45 metres in the cold, crystal-clear waters of Georgian Bay. Fathom Five National Marine Park is renowned for visibility that can reach 25 metres or more, and this exceptional clarity makes deep dives significantly more pleasant than they would be in murkier waters. The Forest City was a 19th-century wooden vessel lost in Georgian Bay, and her hull has been preserved in remarkable condition by the cold, dark water at this depth. At 45 metres, this site requires Advanced Open Water certification and preferably deep diving specialty experience.
+The Forest City, a wooden vessel roughly 66 metres in length, sank in June 1904 after striking the east side of Bears Rump Island in dense fog. She now lies in the deepest section of the Fathom Five wreck collection, with the bow at approximately 18 metres and the stern down to 46 metres in the cold, crystal-clear waters of Georgian Bay. Fathom Five National Marine Park is renowned for visibility that can reach 25 metres or more, and this exceptional clarity makes deep dives significantly more pleasant than they would be in murkier waters. Her hull has been preserved in remarkable condition by the cold, dark water at depth. At 45+ metres, this site requires Advanced Open Water certification and preferably deep diving specialty experience.
 
 ## Site Information
 
@@ -33,11 +33,7 @@ The Forest City lies in the deepest section of the Fathom Five wreck collection,
 
 ## Marine Life
 
-At 45 metres in Georgian Bay, large lake trout are the dominant wildlife encounter. These cold-water predators are frequently seen circling deep wrecks, attracted by the schools of cisco and small perch that aggregate around the structure. At this depth, ambient light is reduced and the water temperature is at its coldest — conditions that suit lake trout perfectly. Deepwater sculpin may be encountered on the sediment near the wreck's base.
-
-## Dive Profile
-
-At 45 metres, NDL on air is approximately 9–12 minutes, depending on surface pressure. This is a limited bottom-time dive — plan carefully to maximize your experience of the wreck within safe limits. Descend rapidly on the anchor line to conserve precious bottom time. Explore the most photogenic or significant sections first (typically bow area and main deck). Ascend promptly and complete a 5-minute safety stop at 5 metres. Enriched Air Nitrox is often used on this dive — ensure your mix is appropriate for the depth.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -61,4 +57,4 @@ The Forest City sits at the outer limit of recreational diving. Narcosis, cold i
 Georgian Bay's exceptional visibility makes the Forest City a prime deep wreck photography subject. At 45 metres, ambient light is present but limited — wide-angle photography with supplemental lighting provides the best results. Lake trout encounters are outstanding photography opportunities.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Scuba Diving Magazine - Drive and Dive: Exploring the Wrecks of Tobermory](https://www.scubadiving.com/drive-and-dive-exploring-wrecks-tobermory), [Parks Canada - Fathom Five Dive Sites](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive), [The Bruce Peninsula - Shipwrecks of Fathom Five](https://thebrucepeninsula.com/shipwrecks-of-fathom-five/). Last updated 2026-08-03.*

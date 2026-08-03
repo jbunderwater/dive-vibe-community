@@ -33,11 +33,7 @@ The Charles P. Minch was a Great Lakes cargo schooner typical of the commercial 
 
 ## Marine Life
 
-Georgian Bay's cold, nutrient-rich water supports productive freshwater ecosystems. Lake trout circle the wreck at depth, while large smallmouth bass claim territories around the bow and stern sections. Yellow perch gather in schools inside and around the hull. Lake whitefish are occasionally spotted passing over the wreck in the water column above. The hull is colonized by zebra mussels below the thermocline, and freshwater sponges — unusual but present in Georgian Bay — grow on protected sections of the structure.
-
-## Dive Profile
-
-The Charles P. Minch lies on its side or at an angle (typical of many Georgian Bay wrecks dislodged from their original sinking position by ice and weather). Descend to the wreck and explore along the hull, noting preserved wooden construction and iron hardware. At 20 metres, NDL limits are generous — extended bottom times allow thorough exploration. Ascend on the mooring or anchor line, safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

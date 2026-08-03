@@ -33,11 +33,7 @@ The Tobermory area of Georgian Bay at the tip of the Bruce Peninsula is home to 
 
 ## Marine Life
 
-Georgian Bay's clear, cold waters support a healthy and visible freshwater community. Lake trout patrol the deeper sections of the wreck and surrounding water column. Smallmouth bass are the dominant territorial fish around the hull openings and deck. Yellow perch gather in shallower portions of the site. Lake whitefish occasionally move through in graceful schools. The hull is colonized by zebra mussels below the thermocline, but the Georgian Bay ecosystem remains less heavily impacted by invasives than the lower Great Lakes.
-
-## Dive Profile
-
-The James C. King lies at a manageable intermediate depth with generous NDL at 20 metres. Explore from bow to stern, taking time to examine the hull construction, rigging fragments, and deck hardware. The ship's orientation and profile are identifiable, making this an engaging wreck dive. Ascend on the mooring line for a 3-minute safety stop.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

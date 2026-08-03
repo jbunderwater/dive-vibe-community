@@ -33,11 +33,7 @@ The Caroline Rose was purposefully sunk to create an accessible dive site near T
 
 ## Marine Life
 
-Georgian Bay's cold, clear waters support healthy lake trout and smallmouth bass populations that frequent the Caroline Rose. Yellow perch school around the hull and masts. The shallow sections of the wreck, where sunlight penetrates well, are colonized by algae that attract small forage fish. Lake whitefish are occasionally seen in the water column above the deck. Zebra mussels encrust the hull below 6 metres.
-
-## Dive Profile
-
-The Caroline Rose sits upright on the bottom with the main deck at roughly 12 metres and the keel at 16 metres. Beginners can comfortably explore the full length of the vessel within recreational NDL limits. The intact hull with open deck areas and visible interior spaces through hatchways makes this an engaging dive without requiring wreck penetration. Ascend the anchor line for a standard safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

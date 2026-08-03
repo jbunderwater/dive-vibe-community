@@ -33,11 +33,7 @@ The Marquette rests in the shallow, relatively protected waters of southern Geor
 
 ## Marine Life
 
-The Marquette hosts a typical southern Georgian Bay fish community. Smallmouth bass are the most visible residents and are often bold around visiting divers. Yellow perch school above the deck. Crayfish are abundant on the bottom and on the hull. Sunfish patrol the shallowest sections. In summer, aquatic vegetation on the hull's upper surfaces provides nursery habitat for juvenile fish. Northern pike occasionally appear in the open water around the site.
-
-## Dive Profile
-
-At 11 metres, this is a highly accessible dive with generous bottom time. Explore the hull from end to end, examine the deck features and fittings, and peer through hatches and openings into the hull interior. No significant decompression concerns. Brief stop at 5 metres before surfacing is good practice. This site works well for students completing wreck specialty requirements.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

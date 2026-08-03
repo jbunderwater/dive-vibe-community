@@ -33,11 +33,7 @@ The Lycoming rests in the central section of Lake Erie — relatively close to t
 
 ## Marine Life
 
-Yellow perch are abundant, as they are throughout Lake Erie. The wreck structure draws large schools that hover above the deck in summer. Walleye patrol the wreck edge. Smallmouth bass are territorial on the hull. Round gobies populate the bottom debris field. White bass are sometimes seen in the open water column above the site. Zebra mussels are densely packed on all submerged hard surfaces.
-
-## Dive Profile
-
-Standard Lake Erie wreck profile — descend to the wreck top and explore bow to stern on the flat sandy bottom. The central Lake Erie basin's cooler bottom water provides good preservation of wooden hull elements. Ascend with adequate reserve gas for safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

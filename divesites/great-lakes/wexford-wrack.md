@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Wexford (Wrack)
 
-The Wexford is one of Lake Huron's most historically significant wrecks — a steel-hulled propeller steamer lost with all hands during the Great Lakes Storm of November 1913, one of the most devastating storms in Great Lakes history. She lies in approximately 23 metres (75 feet) of Lake Huron water off the Ontario coast near Grand Bend, discovered on August 25, 2000, after eluding searchers for 87 years.
+The Wexford is one of Lake Huron's most historically significant wrecks — a steel-hulled propeller steamer built in 1883, lost with all hands during the Great Lakes Storm of November 1913, one of the most devastating storms in Great Lakes history. She lies in approximately 23 metres (75 feet) of Lake Huron water off the Ontario coast near Grand Bend, discovered on August 25, 2000, after eluding searchers for 87 years.
 
 ## Overview
 
-The Great Storm of November 1913 was the most destructive storm in Great Lakes history, sinking nineteen vessels and killing an estimated 248 sailors. The Wexford was a steel-hulled propeller steamer carrying 96,000 bushels of wheat when she vanished with all crew members on November 9, 1913. Her whistle was heard near Goderich harbour as the storm raged, but the vessel never arrived. She was discovered on August 25, 2000 — reportedly by a local fisherman whose fish-finder detected the anomaly — lying upright in approximately 23 metres (75 feet) of water off Grand Bend, Ontario, remarkably preserved after 87 years on the lakebed. Her discovery is considered one of the most significant Great Lakes maritime events of recent decades.
+The Great Storm of November 1913 was the most destructive storm in Great Lakes history, sinking numerous vessels and killing an estimated 250+ sailors. The Wexford was a steel-hulled propeller steamer, built in 1883 and measuring roughly 250 feet (76m) in length, carrying 96,000 bushels of wheat when she vanished with all hands on November 9, 1913. Her whistle was reportedly heard near Goderich harbour as the storm raged, but the vessel never arrived. Sources disagree on the exact number of crew lost — figures ranging from 17 to 24 appear across Great Lakes shipwreck references, and no single count has been definitively confirmed. She was discovered on August 25, 2000, lying upright in approximately 23 metres (75 feet) of water off Grand Bend, Ontario, remarkably preserved after 87 years on the lakebed. Her discovery is considered one of the most significant Great Lakes maritime events of recent decades.
 
 ## Site Information
 
@@ -33,11 +33,7 @@ The Great Storm of November 1913 was the most destructive storm in Great Lakes h
 
 ## Marine Life
 
-Southern Lake Huron supports a healthy freshwater fish community. Lake trout and walleye are present. Smallmouth bass inhabit the hull openings. Yellow perch school around the superstructure. Round gobies are established in Lake Huron. Zebra mussels coat the hull surfaces below the thermocline, creating the characteristic appearance of all Ontario Great Lakes wrecks.
-
-## Dive Profile
-
-The Wexford lies upright at approximately 23 metres. Explore the steel hull from bow to stern — this is a complete, upright vessel, not a broken or scattered wreck, which makes exploration intuitive and rewarding. The superstructure, portholes, mast, and stern are all intact. The historical significance of this vessel — lost with all hands in the greatest Great Lakes storm — gives the dive a solemn, powerful character. Ascend on the anchor or mooring line. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -46,7 +42,7 @@ Charter dive boats from Goderich, Ontario provide access. Local dive operators h
 ## Tips and Recommendations
 
 - Research the Great Storm of 1913 before diving the Wexford — the historical context makes this a deeply moving experience
-- The vessel serves as a grave for 17 crew members — treat it with appropriate respect
+- The vessel serves as a grave for her entire crew (sources vary on the exact number, 17-24) — treat it with appropriate respect
 - Drysuit recommended for cold Lake Huron bottom temperatures
 - The Wexford is one of the most historically significant accessible wreck dives in Canada
 - The discovery story — 87 years lost, found in 2000 — is extraordinary
@@ -60,4 +56,4 @@ Lake Huron offshore conditions can deteriorate rapidly. Check weather forecasts 
 The Wexford is one of the most compelling photography subjects in Great Lakes diving. The intact upright hull of a vessel lost with all hands in the greatest Great Lakes storm offers images of extraordinary historical power. The steel hull in Lake Huron's ambient light, with portholes and deck features clearly visible, provides subjects ranging from intimate macro to wide-angle documentary.
 
 ---
-*Sources: [Maritime History of the Great Lakes - Wexford](https://images.maritimehistoryofthegreatlakes.ca/57184/data), [DAN Alert Diver - The Great Storm of 1913](https://dan.org/alert-diver/article/the-great-storm-of-1913/), [Trips into History - The 1913 Storm and the Loss of the SS Wexford](https://tripsintohistory.com/2012/05/28/deadliest-storm-on-the-great-lakes-the-1913-storm-and-the-loss-of-the-ss-wexford/). Last updated 2026-05-30.*
+*Sources: [SS Wexford - Wikipedia](https://en.wikipedia.org/wiki/SS_Wexford), [Maritime History of the Great Lakes - Wexford](https://images.maritimehistoryofthegreatlakes.ca/57184/data), [Trips into History - The 1913 Storm and the Loss of the SS Wexford](https://tripsintohistory.com/2012/05/28/deadliest-storm-on-the-great-lakes-the-1913-storm-and-the-loss-of-the-ss-wexford/). Last updated 2026-08-03.*
