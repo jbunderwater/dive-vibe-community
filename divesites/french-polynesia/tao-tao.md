@@ -36,4 +36,4 @@ The coral reef at Tao-tao supports a well-developed community typical of healthy
 Taha'a's limited dive infrastructure means smaller groups and more personalised dives. The island is best reached by boat from Raiatea or via liveaboard. Combining Tao-tao as a morning reef dive with an afternoon pass dive at Passe de Céran makes for an excellent contrast of dive styles in one day.
 
 ---
-*Sources: [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Tahiti Tourisme](https://tahititourisme.pf/). Last updated 2026-05-30.*
+*Sources: [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Tahiti Tourisme](https://tahititourisme.pf/). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

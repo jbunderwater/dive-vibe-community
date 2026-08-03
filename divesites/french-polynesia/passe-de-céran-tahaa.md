@@ -21,7 +21,7 @@ Taha'a and Raiatea share the same large lagoon, which contains nine passes acces
 
 ## Marine Life
 
-Bigeye trevally are a consistent presence in the pass, along with surgeonfish and impressive schools of barracuda. Whitetip reef sharks are regularly encountered along the pinnacles and reef edges. Large groupers and Napoleon wrasse (humphead wrasse) occupy the deeper seamount structure below the ridgeline. Angelfish inhabit the coral formations on the pinnacle faces.
+Bigeye trevally, golden jacks, and surgeonfish are a consistent presence in the pass, along with impressive schools of barracuda — confirmed independently by Manawa, Te Mara Nui, and Te Moana Diving. Whitetip reef sharks are regularly encountered along the pinnacles and reef edges. Napoleon wrasse (humphead wrasse) occupy the deeper seamount structure below the ridgeline, and rays are also reported without a specific species identified. Note: an earlier draft claimed large groupers and angelfish here; neither could be corroborated across the three operator sources reviewed and both have been removed.
 
 ## Dive Profile
 
@@ -44,4 +44,4 @@ Current strength varies with tidal flow. The dive requires experience in current
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Manawa – Exploration Diving Raiatea and Taha'a](https://www.manawa.com/en-GB/activity/french-polynesia/raiatea-tahaa/scuba-diving/exploration-diving-in-raiatea-and-tahaa-french-polynesia/13991), [PADI Blog – Best Dive Sites French Polynesia](https://blog.padi.com/escape-into-the-turquoise-waters-of-french-polynesias-islands-and-atolls/). Last updated 2026-05-17.*
+*Sources: [Manawa – Exploration Diving Raiatea and Taha'a](https://www.manawa.com/en-GB/activity/french-polynesia/raiatea-tahaa/scuba-diving/exploration-diving-in-raiatea-and-tahaa-french-polynesia/13991), [PADI Blog – Best Dive Sites French Polynesia](https://blog.padi.com/escape-into-the-turquoise-waters-of-french-polynesias-islands-and-atolls/), [Te Mara Nui Diving - Raiatea](https://te-mara-nui.com/en/diving.html), [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa). Re-audited 2026-08-03: added two independent operator sources (previously only 2 sources existed, below the 3-source minimum); cross-referenced marine life across all three and removed groupers and angelfish, which no source corroborated. Last updated 2026-08-03.*

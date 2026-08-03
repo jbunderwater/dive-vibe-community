@@ -36,4 +36,4 @@ The halocline above the spring is a highlight for underwater photographers and v
 Allow time to observe the halocline effect carefully — the spring output varies with tide and season, so the visual effect ranges from a faint shimmer to a dramatic distortion. Position yourself above the spring looking up into the halocline for the most striking photographic results.
 
 ---
-*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [DiveOtion – Scuba Diving in Tahiti](https://diveotion.com/scuba-diving-in-tahiti/), [Dive Discovery – Tahiti Diving](https://www.divediscovery.com/tahiti/divesites/tahiti-diving.php). Last updated 2026-05-30.*
+*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [DiveOtion – Scuba Diving in Tahiti](https://diveotion.com/scuba-diving-in-tahiti/), [Dive Discovery – Tahiti Diving](https://www.divediscovery.com/tahiti/divesites/tahiti-diving.php). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

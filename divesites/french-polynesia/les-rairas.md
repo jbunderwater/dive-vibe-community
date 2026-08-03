@@ -36,4 +36,4 @@ The coral structures at Les rairas host a characteristic Society Islands reef co
 Raiatea operators often combine Les rairas with a visit to the sacred Taputapuatea marae (an ancient ceremonial site) ashore for divers interested in Polynesian culture. The island's less touristed nature means smaller dive groups and more personal divemaster attention.
 
 ---
-*Sources: [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Tahiti Tourisme - Raiatea](https://www.tahititourisme.com/activities/diving/raiatea/). Last updated 2026-05-30.*
+*Sources: [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Tahiti Tourisme - Raiatea](https://www.tahititourisme.com/activities/diving/raiatea/). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

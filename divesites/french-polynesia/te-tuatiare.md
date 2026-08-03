@@ -36,4 +36,4 @@ Grey reef sharks (*Carcharhinus amblyrhynchos*) are the dominant species in the 
 Dive only on a reliable incoming tide — outgoing tides produce weaker shark activity and poorer visibility. This is an Advanced-rated dive; strong buoyancy control and comfort in current are essential. Always dive with a local guide who knows the pass timing and pickup point for the drift exit. Surface marker buoys (SMBs) are standard equipment.
 
 ---
-*Sources: [Hemisphere Sub - Raiatea](https://www.hemispheresub.com/en/), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa). Last updated 2026-05-30.*
+*Sources: [Hemisphere Sub - Raiatea](https://www.hemispheresub.com/en/), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

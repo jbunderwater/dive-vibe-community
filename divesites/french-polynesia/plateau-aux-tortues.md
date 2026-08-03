@@ -36,4 +36,4 @@ Green turtles are the headline attraction and are reliably encountered on most d
 Approach resting turtles slowly and from the side — never from above or directly in front. Turtles regularly surface to breathe; hovering neutrally buoyant and watching them rise and descend is one of the memorable experiences at this site. Morning dives catch turtles actively feeding before they rest.
 
 ---
-*Sources: [Dive and Sea Tahiti - Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots), [Tahiti Tourisme](https://tahititourisme.pf/). Last updated 2026-05-30.*
+*Sources: [Dive and Sea Tahiti - Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots), [Tahiti Tourisme](https://tahititourisme.pf/). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*
