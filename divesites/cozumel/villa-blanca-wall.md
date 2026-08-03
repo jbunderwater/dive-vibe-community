@@ -17,13 +17,15 @@ A wall dive just south of San Miguel's marina entrance, densely covered in giant
 
 ## Overview
 
-Villa Blanca Wall takes its name from the Villa Blanca resort formerly located on the shore nearby. The wall is situated just south of San Miguel — specifically at the entrance to the Puerto de Abrigo marina — and extends northward over one kilometre toward Cantarel. This is not in the northern hotel zone as sometimes described; it is immediately adjacent to the main port. The wall drop-off begins at approximately 45 feet (15 meters) and the sloping face reaches 30 meters and beyond, with the deepest point reported at 600 feet in some reference materials. The wall is heavily draped in giant barrel sponges, basket sponges, and black gorgonians.
+Villa Blanca Wall takes its name from the nearby Villa Blanca resort (current source material does not confirm whether the resort is still operating, so "formerly" is not asserted). The site sits directly across from the hotel, between Puerta Maya pier to the south and San Miguel's downtown pier to the north, per the primary site reference. This is not in the northern hotel zone as sometimes described; it is immediately adjacent to the main port. It can be accessed as both a shore dive and a boat dive, though the primary source notes boat diving is preferred for safety given the current. Depth runs roughly 40–120 feet (12–36 meters), with a shallower reef shelf around 12 meters before the drop-off. A previously listed "600 feet" maximum depth figure could not be confirmed by any source and has been removed. The wall is heavily draped in giant barrel sponges, basket sponges, and black gorgonians. The claim that the wall extends over a kilometer north toward the Cantarell/Cantarel dive site could not be confirmed and has been removed.
 
-**Current warning**: Currents here are strong and unpredictable, running north. Local dive references rate this site as Expert level, noting that strong current can carry divers under moored cruise ships — an extreme hazard unique to this site's port-adjacent location. Only dive Villa Blanca with a reputable operator who assesses current conditions before entry.
+**Difficulty note**: The primary source (reefsofcozumel.com) rates this site "intermediate," with difficulty adjustable by depth choice, and notes it's typically run as a second dive of the day. However, the strong/unpredictable current and cruise-ship hazard described below push toward a more conservative rating. This markdown retains "Advanced" as the listed difficulty given the current risk, but divers should know sources are not unanimous — the shallower shelf is more moderate, while the current-exposed deeper wall is genuinely demanding.
+
+**Current warning**: Currents here are strong and unpredictable, running north. The primary site reference (reefsofcozumel.com) explicitly states that if current picks up or shifts, divers can be swept toward and potentially under moored cruise ships in the adjacent port — an extreme hazard unique to this site's port-adjacent location. This specific mechanism is corroborated by the site's physical layout directly between two cruise piers, though it is currently attributed mainly to that one source; general "strong, dangerous current" characterization is independently corroborated elsewhere. Only dive Villa Blanca with a reputable operator who assesses current conditions before entry.
 
 ## Site Information
 
-- **Location**: Just south of San Miguel marina (Puerto de Abrigo), Cozumel, Quintana Roo, Mexico
+- **Location**: Just south of San Miguel's main pier, across from the Villa Blanca hotel, between Puerta Maya and the downtown cruise dock, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -34,7 +36,7 @@ Villa Blanca Wall takes its name from the Villa Blanca resort formerly located o
 
 ## Marine Life
 
-Hawksbill and green turtles are among the most reliable sightings at Villa Blanca — the density of sponges and sea fans in the 10–20 meter range provides an excellent food source. Large moray eels occupy the larger coral crevices; green morays are often visible by day. The sea fans throughout the site support flamingo tongue cowries in good numbers. School-sized aggregations of blue striped grunts and white grunts shelter under coral ledges on the upper reef. Caribbean spiny lobsters are present and active here at dusk and dawn — night dives at this site reveal them foraging across the reef surface.
+Sea turtles are reported at Villa Blanca, though the primary source does not specify species, so "hawksbill and green" should be read as unconfirmed rather than verified. Spotted moray eels occupy coral crevices, per the primary site reference. Barracuda, scrawled filefish, trumpetfish, trunkfish, and white-spot triggerfish are documented at this site. Spotted eagle rays and nurse sharks are also reported here. Claims of flamingo tongue cowries, blue striped/white grunt schooling, and spiny lobster night activity at this specific site could not be independently confirmed and have been removed.
 
 ## Dive Profile
 
@@ -42,15 +44,14 @@ Descend to the reef crest at 8–10 meters and work down the slope through the s
 
 ## Entry and Exit
 
-Short boat ride from San Miguel or nearby piers. Mooring buoys present. Because of the cruise ship pier proximity, operators must assess current direction and strength before committing to entry. Strong current days are common and some are not diveable.
+Short boat ride from San Miguel or nearby piers; shore entry is also possible from across the road from the Villa Blanca hotel but is less commonly used due to current. Mooring buoys present for boat dives. Because of the cruise ship pier proximity, operators must assess current direction and strength before committing to entry. Strong current days are common and some are not diveable.
 
 ## Tips
 
 - The sea fan zone at 12–18 meters is the site's most rewarding section — don't rush through it on the way down
-- Night dives here are excellent; lobsters, octopus, and sleeping parrotfish are accessible in calm conditions
-- This site works well as an introductory wall dive for divers moving up from beginner reef diving
-- Look carefully at flamingo tongue cowries in the sea fans — when the mantle is extended, the spotted colouring is vivid and striking
-- Carry a light even on day dives to examine the crevices where moray eels shelter
+- This is a current-exposed Advanced site — do not attempt it without solid drift-diving experience, regardless of depth comfort
+- Confirm with your operator how they plan to manage current direction relative to the cruise ship anchorage before entry
+- Carry a light even on day dives to examine the crevices where spotted moray eels shelter
 
 ## Safety
 
@@ -58,7 +59,7 @@ The primary hazard is the strong northward current and proximity to the cruise s
 
 ## Photography
 
-The sea fan garden zone is a macro and close-focus wide-angle paradise. Flamingo tongue cowries with extended mantles create vibrant colour contrast against the purple sea fans. Wide-angle captures the fanned coral tapestry with divers at scale. Turtle portraits are achievable here given the relaxed population. At night, the wall and reef surface become active subjects for macro shooters.
+The sea fan garden zone is a macro and close-focus wide-angle paradise. Wide-angle captures the fanned coral tapestry with divers at scale. Reported eagle ray and turtle sightings can make for good opportunistic subjects, though neither is guaranteed on a given dive.
 
 ---
-*Sources: [The Reefs of Cozumel — Villa Blanca Wall](https://www.reefsofcozumel.com/villablanca.html), [Pro Dive International — Villa Blanca Wall](https://www.prodiveinternational.com/dive-site/villa-blanca-wall/), [Sand Dollar Sports — Dive Villa Blanca Reef](https://sanddollarsports.com/dive-villa-blanca-reef-before-it-disappears/), [Scuba Spot Advisor — Villablanca Wall](https://www.scubaspotadvisor.com/en/diving-spots/mexico/san-miguel-de-cozumel/villablanca-wall-1320). Last updated 2026-05-23.*
+*Sources: [The Reefs of Cozumel — Villa Blanca Wall](https://www.reefsofcozumel.com/villablanca.html), [Scuba Spot Advisor — Villablanca Wall](https://www.scubaspotadvisor.com/en/diving-spots/mexico/san-miguel-de-cozumel/villablanca-wall-1320), [ScubaBoard — Trip Report, Scuba Mau Cozumel and Villa Blanca](https://scubaboard.com/community/threads/trip-report-scuba-mau-cozumel-and-villa-blanca.286912/). Last updated 2026-07-27. Note: previously cited prodiveinternational.com page is no longer live; sanddollarsports.com could not be reached this session (403) though it remains a live, real dive-shop domain.*

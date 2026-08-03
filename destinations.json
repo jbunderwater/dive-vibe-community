@@ -2347,7 +2347,7 @@
         -80.5
       ],
       [
-        26.7,
+        27.0,
         -79.9
       ]
     ],
@@ -3911,5 +3911,51 @@
     ],
     "description": "Mediterranean diving with the legendary Zenobia wreck, sea caves, and warm clear waters.",
     "countryCode": "CY"
+  },
+  {
+    "name": "Florida Panhandle",
+    "slug": "florida-panhandle",
+    "region": "North America",
+    "center": [
+      30.15,
+      -86.3
+    ],
+    "bounds": [
+      [
+        29.8,
+        -87.4
+      ],
+      [
+        30.6,
+        -85.0
+      ]
+    ],
+    "description": "Gulf of Mexico wreck diving from Pensacola to Panama City Beach, anchored by the USS Oriskany — the world's largest artificial reef — plus dozens of intentionally sunk freighters, tugs, Liberty ships, and Navy vessels.",
+    "countryCode": "US",
+    "parentSlug": "us",
+    "overviewFile": "overview.md"
+  },
+  {
+    "name": "Florida Springs",
+    "slug": "florida-springs",
+    "region": "North America",
+    "center": [
+      30.0,
+      -84.0
+    ],
+    "bounds": [
+      [
+        29.3,
+        -86.0
+      ],
+      [
+        30.9,
+        -82.4
+      ]
+    ],
+    "description": "Freshwater cavern and cave diving in north-central Florida's spring-fed karst system, famous for 100+ foot visibility, a constant ~68-72°F year-round, and some of the longest mapped underwater cave systems in the continental US. Full cave penetration requires specific cave certification (NACD/NSS-CDS or equivalent); cavern zones are accessible to cavern-certified divers.",
+    "countryCode": "US",
+    "parentSlug": "us",
+    "overviewFile": "overview.md"
   }
 ]

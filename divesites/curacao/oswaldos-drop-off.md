@@ -17,9 +17,9 @@ Oswaldo's Drop Off is the house reef wall dive of Ocean Encounters at Sunscape C
 
 ## Overview
 
-Oswaldo's Drop Off is located at the Sunscape Curaçao Resort, Spa and Casino on Curaçao's southeast coast. It is the house reef of Ocean Encounters, Curaçao's largest dive operator. Shore diving access is restricted to Sunscape resort guests. Non-guests can access the same reef from Pierbaai — the local beach adjacent to the resort — which reaches the same reef system from the other end.
+Oswaldo's Drop Off is located at the Sunscape Curaçao Resort, Spa and Casino on Curaçao's southeast coast. It is the house reef of Ocean Encounters, Curaçao's largest dive operator. Ocean Encounters' own site describes the name as honouring a local diver, Oswaldo, who frequented the site regularly "many years ago," back when the resort operated under its earlier name, Princess Beach Resort, and Ocean Encounters ran the original dive shop there. Shore diving access is restricted to Sunscape resort guests. Non-guests can access the same reef from Pierbaai — the local beach adjacent to the resort — which reaches the same reef system from the other end.
 
-The wall dive features a drop-off with best marine life concentrated at 20–40 feet (6–12 metres) depth. Reports note it can keep going well past 33 metres (109 feet). Unexpected strong current can occur, making it unsuitable for inexperienced divers in those conditions. The site is adjacent to the Car Pile artificial reef and the Marie Pampoen reef system.
+The wall dive features a drop-off with best marine life concentrated at 20–40 feet (6–12 metres) depth. Reports note it can keep going well past 33 metres (109 feet). Ocean Encounters attributes the reef's health partly to constant easterly currents that push nutrients along the shoreline — the same currents that can produce the unexpected strong-current conditions reported here, making the site unsuitable for inexperienced divers when that occurs. The site is adjacent to the Car Pile artificial reef and the Marie Pampoen reef system.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ The wall dive features a drop-off with best marine life concentrated at 20–40 
 
 ## Marine Life
 
-The site hosts restored coral colonies along the wall face. Generic Caribbean reef fish are to be expected; no site-specific species lists found in available sources beyond what would be typical for this reef system. The adjacent Car Pile area (accessible via extension from the same entry) hosts tarpon, moray eels, scorpionfish, octopus, and pufferfish — see Marie Pampoen site entry.
+The reef includes wire corals, finger corals, and tube sponges along the drop-off (Ocean Encounters). Confirmed fish at this site include doctor fish (tangs), trumpetfish, and parrotfish, alongside generic Caribbean reef fish typical of this reef system. The adjacent Car Pile area (accessible via extension from the same entry) hosts tarpon, moray eels, scorpionfish, and southern stingrays — see the Marie Pampoen entry.
 
 ## Dive Profile
 
@@ -56,4 +56,4 @@ Resort guests use the Ocean Encounters pier adjacent to the dive shop. Non-resor
 Unexpected strong currents have been reported at this site — assess conditions before entering. Inexperienced divers should not dive here during current. A surface marker buoy is required; Ocean Encounters staff are present at this site.
 
 ---
-*Sources: [DiveCuracao.info — Oswaldo's Drop Off](https://www.divecuracao.info/dive/curacao-diving-guide/oswaldos-drop-off/), [ShoreDiving.com — Oswaldo's Drop-off](http://www.shorediving.com/Earth/ABC/Curacao/Oswaldos_Drop-off/index.htm), [Ocean Encounters — Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/). Last updated 2026-05-24.*
+*Sources: [DiveCuracao.info — Oswaldo's Drop Off](https://www.divecuracao.info/dive/curacao-diving-guide/oswaldos-drop-off/), [ShoreDiving.com — Oswaldo's Drop-off](http://www.shorediving.com/Earth/ABC/Curacao/Oswaldos_Drop-off/index.htm), [Ocean Encounters — Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/). Re-audited 2026-07-27: added Ocean Encounters' account of the site's naming origin (a diver named Oswaldo, from the resort's Princess Beach Resort era) and added a confirmed marine-life list that was previously marked as unfound. Last updated 2026-07-27.*

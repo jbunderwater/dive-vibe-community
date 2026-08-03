@@ -17,8 +17,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divecuracao.info,divers-guide.com,scubaboard.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divers-guide.com,zentacle.com,shorediving.com",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -39,8 +39,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divecuracao.info,divers-guide.com,scubaboard.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divers-guide.com,zentacle.com,divecuracao.info",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -61,7 +61,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divecuracao.info,padi.com,scubaboard.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -81,7 +81,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divers-guide.com,divecuracao.info,scubacao.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -101,8 +101,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divecuracao.info,gowestdiving.com,padi.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divecuracao.info,gowestdiving.com,padi.com,divers-guide.com",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -123,8 +123,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divecuracao.info,scubaboard.com,padi.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divecuracao.info,divers-guide.com,zentacle.com",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -147,8 +147,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divecuracao.info,gowestdiving.com,scubadiverlife.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divers-guide.com,divecuracao.info,scubadiverlife.com",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -171,8 +171,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divecuracao.info,dreamwrecks.com,californiadiver.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divecuracao.info,divenewswire.com,dreamwrecks.com,californiadiver.com",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -191,8 +191,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divecuracao.info,zentacle.com,curacao.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divecuracao.info,curacao.com,zentacle.com,divewederfoort.com",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -211,8 +211,8 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divecuracao.info,divers-guide.com,curacao.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divers-guide.com,curacao.com,aquafari.net,zentacle.com",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -235,7 +235,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divers-guide.com,divecuracao.info,atlasobscura.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -255,7 +255,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divecuracao.info,divers-guide.com,shoredivingcuracao.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -275,7 +275,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divecuracao.info,padi.com,curacao.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -297,7 +297,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divecuracao.info,divers-guide.com,scubacao.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -317,7 +317,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divecuracao.info,scubaboard.com,padi.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -337,7 +337,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divecuracao.info,divers-guide.com,padi.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -357,7 +357,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "divecuracao.info,shorediving.com,oceanencounters.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -378,8 +378,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divecuracao.info,divers-guide.com,travelinmypocket.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divers-guide.com,travelinmypocket.com,dreamwrecks.com,mycuracaoguide.com",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -399,8 +399,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divecuracao.info,gowestdiving.com,padi.com",
-      "last_qa_date": "2026-05-24"
+      "validation_source": "divecuracao.info,gowestdiving.com,padi.com,divers-guide.com",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -421,7 +421,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "false",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "researched 2026-07-27; no site-specific sources found, left unvalidated"
     }
   },
   {
@@ -440,7 +441,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "false",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-27",
+      "qa_note": "researched 2026-07-27; no site-specific sources found, left unvalidated"
     }
   }
 ]

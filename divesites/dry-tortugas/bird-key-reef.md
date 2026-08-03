@@ -56,4 +56,4 @@ Access is by boat only — the park is 70 miles from Key West. Anchor southeast 
 The shallow depths make this a low-risk dive for decompression. The park's remote location (70 miles from Key West) means no onsite emergency support; the nearest hyperbaric chamber is in Key West. Carry a marine VHF radio. Display a dive flag and always dive with a buddy.
 
 ---
-*Sources: [DAN Alert Diver - The Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/), [FWC CREMP Dry Tortugas](https://myfwc.com/research/habitat/coral/cremp/overview/drytortugas/), [NPS - Swimming, Snorkeling, and Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm). Last updated 2026-05-24.*
+*Sources: [DAN Alert Diver - The Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/), [FWC CREMP Dry Tortugas](https://myfwc.com/research/habitat/coral/cremp/overview/drytortugas/), [NPS - Swimming, Snorkeling, and Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm). Re-audited 2026-07-29 — re-confirmed as one of the original 1999 CREMP stations, no factual changes found. Last updated 2026-07-29.*

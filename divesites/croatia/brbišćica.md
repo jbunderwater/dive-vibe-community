@@ -3,7 +3,7 @@ name: Brbišćica
 lat: 44.0549833
 lng: 14.9911833
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 13
 entryType: boat
 siteType: reef
 ref: null
@@ -13,49 +13,48 @@ addedBy: osm_import
 
 ## Brbišćica
 
-Brbišćica is a reef dive site located on the rugged Dalmatian coast of the Zadar Archipelago in northern Dalmatia. The site offers a typical Adriatic rocky reef experience — dramatic underwater topography of limestone boulders, rocky slopes, and drop-offs encrusted with Mediterranean marine life in the crystal-clear Dalmatian waters.
+Brbišćica is a bay on the western (open-sea) side of Dugi Otok, in the Zadar Archipelago of northern Dalmatia, dived by boat as part of Kornati/Dugi Otok-area diving programmes. It sits next to the well-known Golubinka sea cave and the "Zmajevo oko" (Dragon's Eye) karst lake, and is listed by local dive operators as a distinct site in its own right.
 
 ## Overview
 
-The reef at Brbišćica descends over rocky slopes and terraces to around 25 metres, with the bottom transitioning to sand and mixed substrate. The rocky surfaces are covered in colourful sponge communities, sea fans, and coralline algae, interspersed with Posidonia seagrass meadows in the shallower sections. Visibility here typically reaches 15–20 metres in the main season. The site is sheltered enough to dive in moderate swell conditions.
+The bay and adjoining rocky coastline at Brbišćica are reported with depths in roughly the 6–13 metre range — shallower than a typical open-water reef dive, and better suited to a relaxed, exploratory profile than a deep dive. It is diveable as an "open sea side" excursion alongside the nearby Golubinka cave (a partially submerged sea cave lit through a ceiling opening) and Zmajevo oko. Exact depth and visibility figures beyond this range were not confirmed by available sources — treat the numbers above as approximate.
 
 ## Site Information
 
-- **Location**: Zadar Archipelago, Northern Dalmatia, Croatia
+- **Location**: West coast, Dugi Otok, Zadar Archipelago, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Light to moderate
+- **Maximum Depth**: 13 meters
+- **Typical Visibility**: Not confirmed by available sources
+- **Current**: Not confirmed by available sources
 - **Best Time**: May to October
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+No site-specific marine life reports were found for Brbišćica itself. Regional Adriatic/Dalmatian fauna applies, but no species are named here since no source confirmed sightings at this specific site.
 
 ## Dive Profile
 
-Begin at the shallowest section of the reef and work gradually deeper, exploring ledges and overhangs as you descend to 25 metres. The most prolific marine life is typically found between 8–18 metres where the rocky topography is most varied. Ascend slowly and finish with a 3-minute safety stop at 5 metres.
+This is a shallower bay/coastal dive (roughly 6–13m) rather than a deep reef profile. Explore the rocky coastline and, where guided by a local operator, the adjacent Golubinka sea cave. Given the shallow depth, no mandatory safety stop is required, though a few minutes at 5 metres is good practice.
 
 ## Entry and Exit
 
-Dive boats from Zadar-area operators serve this site. Entry by giant stride or back roll. Deploy an SMB during the ascent for boat pickup.
+Dive boats from Dugi Otok or Kornati-area operators serve this site; at least one operator organises a car transfer to the bay to reach the boat. Entry by giant stride or back roll.
 
 ## Tips and Recommendations
 
-- A torch helps reveal the marine life in overhangs and crevices even in good ambient light
-- The shallow Posidonia zone is excellent for seahorse and pipefish spotting — move slowly and look carefully
-- Combine with a second dive at a nearby site for a full day programme in the Zadar archipelago
-- A 5 mm wetsuit is sufficient in summer; a 7 mm is more comfortable in spring and autumn
+- Pair with the nearby Golubinka cave and Zmajevo oko (Dragon's Eye) for a themed day exploring this stretch of Dugi Otok's coast
+- The shallow depth suits long, relaxed dive times
+- Confirm current site-specific depth and visibility with your operator, as this is not a heavily documented dive site
 
 ## Safety Considerations
 
-Conditions are well within intermediate recreational parameters. Monitor current, which can vary at open coastal sites. Always dive with a buddy and carry an SMB. Avoid boat traffic zones on ascent.
+Conditions are well within intermediate recreational parameters given the shallow depth. Always dive with a buddy and carry an SMB in open coastal areas.
 
 ## Photography
 
-The clear Kvarner/Adriatic water provides good visibility for wide-angle and macro photography. Specific photographic subjects depend on what marine life is present at the time of diving.
+The shallow depth allows good ambient light for photography; specific subjects depend on what is present at the time of diving, and no site-specific species reports are available to guide subject expectations.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [Kornati Diving Center – Diving Spots (Brbinjšćica / Golubinka)](https://kornati-diving.com/en/diving-spots/), [Dugi Otok official tourism – Scuba Diving](https://www.dugiotok.hr/en/activities-scuba-diving), [Visit Croatia – Brbišćica Bay](https://www.visit-croatia.hr/en/destinations/dalmatia-north/island-dugi-otok/brbinjscica). Last updated 2026-07-27.*

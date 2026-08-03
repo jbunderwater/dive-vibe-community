@@ -17,7 +17,7 @@ A shallow, clean-water sand pit between Hradec Králové and Pardubice, ideal fo
 
 ## Overview
 
-Písník Březhrad (also known as Opatovický písník or "Opaťák") is a flooded sand pit located between the villages of Březhrad and Opatovice nad Labem, on the road connecting Hradec Králové and Pardubice in the Pardubický region. Sand and gravel mining ended in 2001, leaving a clean-water lake of approximately 30 hectares. The older, less-visited section of the pit offers cleaner water due to fewer swimmers, and the site doubles as a fishing reserve (mimoprstruhový rybářský revír).
+Písník Březhrad (also known as Opatovický písník or "Opaťák") is a flooded sand pit located between the villages of Březhrad and Opatovice nad Labem, on the road connecting Hradec Králové and Pardubice in the Pardubický region. Gravel and sand mining ran from the 1980s until 2001, leaving a clean-water lake of approximately 30 hectares. The older, less-visited section of the pit offers cleaner water due to fewer swimmers, and the site doubles as a fishing reserve (rybářský revír) used mainly by Hradec Králové residents for recreational swimming in summer.
 
 ## Site Information
 
@@ -49,4 +49,4 @@ A simple, shallow dive with a maximum depth of 7 meters. Enter from shore and na
 - Good site for new divers to build confidence and log easy dives
 
 ---
-*Description based on single-source data. No additional independent sources found for this site. Source: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=12). Last updated 2026-05-23.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=12), [Kudy z nudy - Písník Březhrad](https://www.kudyznudy.cz/aktivity/pisnik-brezhrad-opatovicky-rybnik-u-hradce-kralo), [Wikipedia - Opatovický písník](https://cs.wikipedia.org/wiki/Opatovick%C3%BD_p%C3%ADsn%C3%ADk). Last updated 2026-07-27.*

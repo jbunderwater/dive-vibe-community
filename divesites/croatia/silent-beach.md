@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Silent Beach
 
-Silent Beach is a house reef site at Vrbnik on Krk Island, accessed by shuttle bus from the Vrbnik dive centres. The beach is described by local operators as the island's most scenic beach, with flat entry platforms on turquoise water. Two sections are dived separately — Silent Beach South and Silent Beach North — each with distinct character. The site transitions from a shallow training area into a steep face with a 30-metre wall.
+Silent Beach (locally *Kozica*) is a house reef site at Vrbnik on Krk Island, accessed by shuttle bus from the Vrbnik dive centres. The beach is described by local operators as the island's most scenic beach, with flat entry platforms on turquoise water. The Vrbnik tourist board's own site (vrbnik.hr) independently confirms the bay as "the quiet bay of Kozica," surrounded by pine forest, and gives a maximum depth of 28 metres — slightly less than the 30m figure the dive shops use, so the true maximum likely sits in the 28–30m range. Two sections are dived separately — Silent Beach South and Silent Beach North — each with distinct character. The site transitions from a shallow, beginner-friendly entry into a steeper rocky/sandy slope.
 
 ## Overview
 
@@ -21,7 +21,7 @@ Silent Beach South features a flat entry platform and a steep face with giant sp
 
 ## Site Information
 
-- **Location**: Silent Beach, Vrbnik, Krk Island, Kvarner, Croatia
+- **Location**: Silent Beach (Kozica bay), Vrbnik, Krk Island, Kvarner, Croatia
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -32,7 +32,7 @@ Silent Beach South features a flat entry platform and a steep face with giant sp
 
 ## Marine Life
 
-Local dive operators confirm: giant spider crabs, yellow seahorses (in the central bay), gurnards, and large tubeworms. These species are specifically reported by Dive Center KRK and Dive Loft KRK as present at this site.
+Dive Center KRK and Dive Loft KRK confirm: giant spider crabs, yellow seahorses (in the central bay), gurnards, and large tubeworms. Vrbnik.hr describes the site more generally as hosting "rich sea life" without naming individual species.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ The sheltered bay and flat entry provide some of the most benign diving conditio
 The yellow seahorses and giant spider crabs are exceptional macro subjects. The calm, clear conditions make this one of the best macro photography sites in the Krk Island area. The gurnards on white sand in the north section are striking against the clean bottom.
 
 ---
-*Sources: [Dive Center KRK – Silent Beach](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Silent Beach](https://www.dive-loft-krk.com/dive-sites/), [DiVeSSI – Secret Beach](https://www.divessi.com/en/mydiveguide/divesite/secret-beach-croatia-412837). Last updated 2026-05-23.*
+*Sources: [Dive Center KRK – Dive Sites](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Dive Sites](https://www.dive-loft-krk.com/dive-sites/), [Vrbnik.hr – Silent Beach](https://vrbnik.hr/en/silent-beach/). Last updated 2026-07-27.*

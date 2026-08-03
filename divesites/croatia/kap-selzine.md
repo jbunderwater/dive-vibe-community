@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Kap Selzine
 
-Kap Selzine (Selzine) is a wall dive off the coast of Plavnik island, between Krk and Cres in the Kvarner, described by local dive operators as one of the absolute top spots of the northern Adriatic. The cape drops into a near-vertical cliff that plunges from the surface to over 100 metres, with recreational diving focused on the 10–40 metre section. From 30–35 metres, the wall hosts large gorgonian sea fans in what operators call a "Coral Forest."
+Kap Selzine (Selzine) is a wall dive on the south side of Plavnik island in the Kvarner, reached by boat from operators on Krk or Cres. Dive shop descriptions consistently describe a cliff that plunges from the surface to roughly 110 metres, with recreational diving focused on the upper 10–40 metre section. From about 30–35 metres, the wall hosts large gorgonian sea fans that operators describe as a "Coral Forest."
 
 ## Overview
 
-The upper plateau is covered with corals of all colours and teems with schools of fish. The wall itself drops vertically to at least 40 metres (and far beyond for technical divers), with the face encrusted in gorgonian fans, red sponges, and other encrusting organisms. The Kvarner's characteristically clear water provides visibility that often exceeds 20 metres. This is one of the most dramatic topographic dive sites in the northern Adriatic.
+The upper plateau is covered with corals of many colours and teems with schools of fish. The wall drops vertically to at least 40 metres on the recreational portion, encrusted with gorgonian fans and other organisms; PADI's site listing gives a somewhat greater maximum depth of around 56 metres, and dive shops note the cliff face itself continues well past 100 metres for technical divers. Sources agree the Kvarner's clear water here regularly provides 20+ metres visibility.
 
 ## Site Information
 
-- **Location**: Selzine cape, off Plavnik island (between Krk and Cres), Kvarner, Croatia
+- **Location**: Selzine cape, south side of Plavnik island, Kvarner, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -32,7 +32,7 @@ The upper plateau is covered with corals of all colours and teems with schools o
 
 ## Marine Life
 
-Local dive operators confirm: large schools of fish along the cliff edge, conger eels, large scorpionfish, and large gorgonian fans at 30–40m depth. The open water at the wall face attracts tuna and mackerel that chase smaller fish through the area. No additional site-specific species claims made.
+Dive shop sources (Dive Center Krk, Dive Loft Krk) and PADI's site listing both report conger eels, large/giant scorpionfish, and large gorgonian fans at 30–40m depth. Dive Center Krk and Dive Loft Krk additionally note schools of fish along the cliff edge with tuna and mackerel passing through open water at the wall face. PADI's listing separately notes nudibranchs, spider crabs, and octopus. No further site-specific species claims made.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ The depth, potential for current, and the scale of open-water wall diving make t
 The vertical wall draped in gorgonian fans with deep blue water in the background is one of the iconic images of northern Adriatic diving. A diver neutrally buoyant at the gorgonian zone provides excellent scale. Torch-lit macro shots of the fan colonies reveal arrow crabs and brittle stars.
 
 ---
-*Sources: [Dive Center KRK – Selzine](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Selzine](https://www.dive-loft-krk.com/dive-sites/), [PADI – Selzine Insel Plavnk](https://www.padi.com/dive-site/croatia/selzine-insel-plavnk/). Last updated 2026-05-23.*
+*Sources: [Dive Center KRK – Dive Sites](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Dive Sites](https://www.dive-loft-krk.com/dive-sites/), [PADI – Selzine Insel Plavnk](https://www.padi.com/dive-site/croatia/selzine-insel-plavnk/). Last updated 2026-07-27.*

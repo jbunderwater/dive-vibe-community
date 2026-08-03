@@ -43,4 +43,4 @@ Green sea turtles are seasonally present (reported June–November) feeding on t
 - The 'letterbox' swim-through is the distinctive feature
 
 ---
-*Sources: [divingincyprus.net](https://www.divingincyprus.net/Dive-Sites-Paphos.html), [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [cyprusdiving.org.cy](https://cyprusdiving.org.cy/index.php/paphos-diving-sites). Last updated 2026-05-23.*
+*Sources: [divingincyprus.net](https://www.divingincyprus.net/Dive-Sites-Paphos.html), [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [cyprusdiving.org.cy](https://cyprusdiving.org.cy/index.php/paphos-diving-sites). Last updated 2026-07-27.*

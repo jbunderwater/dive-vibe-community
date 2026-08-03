@@ -32,11 +32,11 @@ Lom Leštinka is a flooded granite quarry near Skuteč in the Pardubický region
 
 ## Underwater Features
 
-The highlight is a caisson at 20 meters depth — approximately 3,500 liters with breathable air regularly refreshed from the surface. Training platforms sit at 3, 6, 8, and 12 meters. At 12 meters, the remains of the old mining station include tools, mine carts, and building structures. A sunken museum provides additional exploration. Submerged forests and quarry walls add to the atmosphere.
+The highlight is a caisson with breathable air regularly refreshed from the surface, at a depth reported as 18-20 meters depending on the source (approximately 3,500 liters). Training platforms sit at 3, 6, 8, and 12 meters. At 12-13 meters, the remains of the old mining station form an open-air museum with wooden structures, rails, tools, mine carts, and other building remnants. Submerged forests and quarry walls add to the atmosphere.
 
 ## Marine Life
 
-Rich freshwater life: pike, large koi carp, bream, sturgeon, catfish, mussels, and crayfish. The quarry's established ecosystem supports more diversity than most Czech dive sites.
+Rich freshwater life is consistently reported across multiple sources: pike, koi carp (large schools), sturgeon, catfish, and crayfish. Sources vary on the remaining species — our original research reported bream and mussels, while another source reports roach instead — so treat those two as unconfirmed pending a source that resolves the discrepancy.
 
 ## Dive Profile
 
@@ -51,4 +51,4 @@ Multiple depth levels allow progression from beginner to advanced dives. Start a
 - Excellent access by car with parking at the water's edge
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/), [Lom Leštinka official site](https://www.lestinkalom.cz/), [Sopras Sub - Diving in Czech Republic](https://soprassub.com/diving-in-the-czech-republic-best-locations/). Last updated 2026-05-23.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/), [Lom Leštinka official site](https://www.lestinkalom.cz/), [Sopras Sub - Diving in Czech Republic](https://soprassub.com/diving-in-the-czech-republic-best-locations/), [Turistika.cz - lom Leštinka a okolí](https://www.turistika.cz/mista/lom-lestinka-a-okoli/detail). Last updated 2026-07-27.*

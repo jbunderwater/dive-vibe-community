@@ -17,7 +17,7 @@ A rarely-visited advanced wall at a headland point where converging currents cre
 
 ## Overview
 
-Punta Tunich is a headland on Cozumel's central southwest coast where the geography of the point intensifies the island's characteristic drift current, creating conditions preferred by large pelagic fish. The wall here begins at the reef crest around 8 meters and drops vertically through the recreational range to 30 meters before continuing into the deep. The wall face is heavily undercut in places, with overhangs and small caverns providing shelter for resting nurse sharks and large groupers. Because the site requires stronger current management than the calmer central reefs, it attracts a more experienced diving crowd and sees less traffic — the reef condition is notably pristine compared to heavily-visited sites nearby.
+Punta Tunich is a headland on Cozumel's central-south coast where the point's geography intensifies the island's characteristic drift current, creating conditions preferred by large pelagic fish. Sources disagree somewhat on exact depths: one dive-site database lists an average depth around 23 meters with recorded dives spanning roughly 16–33 meters, while narrative accounts describe divers reaching a sandy shelf around 18–24 meters (60–80 feet) before the wall face proper begins and continues into deeper water beyond recreational limits. The wall face is undercut in places, with overhangs providing shelter for resting nurse sharks. Because the site demands stronger current management than the calmer central reefs, ScubaBoard divers describe it as rarely dived and notably pristine compared to more heavily-visited sites, and it draws a more experienced crowd.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Punta Tunich is a headland on Cozumel's central southwest coast where the geogra
 
 ## Marine Life
 
-The point's current concentration attracts spotted eagle rays in significant numbers; groups of five to ten individuals are regularly reported. Caribbean reef sharks appear consistently at the wall edge. The overhangs shelter nurse sharks that rest during the day. Large black grouper occupy ledges on the wall face between 15 and 25 meters. The wall sponge community is dense, with massive barrel sponges and elephant ear sponges providing visual landmarks. Hawksbill turtles are common, often found grazing on sponges on the mid-wall section. The deep blue beyond the wall edge occasionally yields sightings of dog snapper in large schools.
+Spotted eagle rays are regularly reported at the point. The overhangs shelter nurse sharks that rest during the day — this is the shark species most consistently documented here. Grouper are commonly sighted along the wall face, and the wall itself carries a dense cover of sponges and soft coral. Turtles — hawksbill, green, and loggerhead have all been documented at this site — are seen regularly along the wall. Barracuda and moray eels are also reported by multiple sources.
 
 ## Dive Profile
 
-Entry is timed by the boat captain to match the current cycle. Descend quickly to the reef crest and begin drifting with the current along the wall face. Explore the overhangs between 15 and 25 meters where the most interesting geological features and resting animals are found. Depth management requires active attention at a vertical wall — it is easy to drift deeper than planned. Begin the ascent with adequate air reserve (minimum 70 bar) and deploy the SMB before ascending in the water column rather than against the wall.
+Entry is timed by the boat captain to match the current cycle. Descend quickly to the reef crest and begin drifting with the current along the wall face. Explore the overhangs along the wall face, where the most interesting geological features and resting animals are found. Depth management requires active attention at a vertical wall — it is easy to drift deeper than planned. Begin the ascent with adequate air reserve (minimum 70 bar) and deploy the SMB before ascending in the water column rather than against the wall.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Boat-only, with the captain following the drift throughout. Longer ride from San
 ## Tips
 
 - This is not a training site — come with prior drift wall experience before attempting Punta Tunich
-- The overhangs between 18 and 25 meters are the biological highlight; budget time to investigate them carefully
+- The overhangs along the wall are the biological highlight; budget time to investigate them carefully
 - Position yourself slightly into the blue at the wall edge to increase the chances of eagle ray encounters
 - The current can shift direction at the point; follow your divemaster's lead throughout
 - Carry a dive computer to monitor depth continuously — the wall's vertical nature makes depth creep a real hazard
@@ -64,4 +64,4 @@ Punta Tunich's clear water and large-animal encounters create outstanding wide-a
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Pro Dive International — Punta Tunich](https://www.prodiveinternational.com/dive-site/punta-tunich/), [ScubaTony's Cozumel Guide — Punta Tunich](https://divesites.scubatony.com/divesite.aspx?id=9), [Scuba Diving Place — Punta Tunich](https://scubadiving.place/divesite/punta-tunich). Last updated 2026-05-23.*
+*Sources: [ScubaTony's Cozumel Dive Guide — Punta Tunich](https://divesites.scubatony.com/divesite.aspx?id=9), [Scuba Diving Place — Punta Tunich](https://scubadiving.place/divesite/punta-tunich), [Blue Project Cozumel — Tunich](https://blueprojectcozumel.com/tunich-cozumel-among-the-best-reefs-for-diving/), [ScubaBoard — diver trip reports](https://scubaboard.com/community/threads/dive-sites-in-cozumel.40837/). Note: prodiveinternational.com, previously cited, could not be re-verified during this audit (page returned no retrievable content). Last updated 2026-07-27.*

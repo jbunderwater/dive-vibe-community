@@ -44,4 +44,4 @@ Octopus, turtles, and shoaling fish have been reported inhabiting the wreckage. 
 - Aircraft type described as a Wellington Bomber in tourism sources, but this has not been independently verified from aviation records
 
 ---
-*Sources: [cypruspremier.com](https://www.cypruspremier.com/articles/scuba-diving/), [scubacyprus.com](https://www.scubacyprus.com/diving-sites), [cyprusparadise.com](https://www.cyprusparadise.com/articles/scuba-diving/). Last updated 2026-05-23.*
+*Sources: [cypruspremier.com](https://www.cypruspremier.com/articles/scuba-diving/), [scubacyprus.com](https://www.scubacyprus.com/diving-sites), [cyprusparadise.com](https://www.cyprusparadise.com/articles/scuba-diving/). Last updated 2026-07-27.*

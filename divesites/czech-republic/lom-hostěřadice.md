@@ -36,7 +36,7 @@ The quarry is packed with deliberately placed attractions: a van, a yacht, a wat
 
 ## Marine Life
 
-Freshwater species in the clear quarry water. Species reported by the site's managing diving club (Manta Znojmo) include carp, perch, pike, catfish, and crayfish. No site-specific species list has been independently confirmed from a second source.
+Freshwater species in the clear quarry water: carp, perch, pike, catfish, and crayfish. This species list is confirmed by two independent sources (the site's managing diving club's affiliated listing on Strany potápěčské and, separately, Perseus Diving), in addition to broader regional listings citing carp and crayfish.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ Access requires borrowing a key from the BENALE gas station in Miroslav upon sho
 - Pick up the gate key at the BENALE gas station in Miroslav before heading to the quarry
 
 ---
-*Description based on single primary source. No additional independent sources found. Source: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=579). Last updated 2026-05-23.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=579), [Perseus Diving - Hostěřadice](https://www.perseus-diving.cz/hosteradice/), [Kudy z nudy - Zatopený lom Hostěradice](https://www.kudyznudy.cz/aktivity/zatopeny-lom-hosteradice). Last updated 2026-07-27.*

@@ -57,4 +57,4 @@ Sandy beach entry — easy for all experience levels including photographers wit
 The extended surface swim places divers at distance from shore. A surface marker buoy is mandatory. The site is within the Curaçao marine park system.
 
 ---
-*Sources: [DiveCuracao.info — Daaibooi Beach](https://www.divecuracao.info/dive/curacao-diving-guide/daaibooi/), [Divers-Guide.com — Daaibooi](https://www.divers-guide.com/en/daaibooi), [Scubacao.com — Daibooi](https://scubacao.com/places/daibooi-2/). Last updated 2026-05-24.*
+*Sources: [DiveCuracao.info — Daaibooi Beach](https://www.divecuracao.info/dive/curacao-diving-guide/daaibooi/), [Divers-Guide.com — Daaibooi](https://www.divers-guide.com/en/daaibooi), [Scubacao.com — Daibooi](https://scubacao.com/places/daibooi-2/). Re-audited 2026-07-27: pipefish, cuttlefish, turtle, parrotfish, stingray, and Elephant Ear/brain coral claims all re-confirmed against current source content, no changes. Last updated 2026-07-27.*

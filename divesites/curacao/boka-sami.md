@@ -21,6 +21,8 @@ Boka Sami sits at Playa Boca Sami on Curaçao's central west coast, adjacent to 
 
 Coral density is variable: directly in front of the bay it is lower, but after swimming right from the entry for approximately 15 minutes, coral coverage approaches 100% in places. The drop-off is approximately 45 degrees and descends to 45 metres and beyond. A large mooring buoy serves as a navigational reference point.
 
+Aquafari.net notes that Boca Sami's reef sustained significant coral damage on 25 September 2019, when a mobile oil platform struck the reef during heavy weather; coral density in front of the bay being lower than the sections further along the coast is consistent with that damage.
+
 ## Site Information
 
 - **Location**: Playa Boca Sami, central west coast (adjacent to Snake Bay)
@@ -33,7 +35,7 @@ Coral density is variable: directly in front of the bay it is lower, but after s
 
 ## Marine Life
 
-No specific fish species are documented beyond "coral and sponges" in available sources — generic Caribbean reef fish are to be expected. Sea turtles and eagle rays are reported by multiple guides covering the Sint Michiel area broadly. The high coral density sections to the right of the main entry are likely the richest for marine life.
+Confirmed at this site (Aquafari.net, Curacao.com): sea turtles, eagle rays, moray eels, parrotfish, angelfish, butterflyfish, octopus, squid, and stingrays resting on the sandy bottom. The high coral density sections to the right of the main entry are likely the richest for marine life.
 
 ## Dive Profile
 
@@ -55,4 +57,4 @@ Beach entry with adequate parking nearby. A surface marker buoy is mandatory due
 The long distance from the entry to the reef means you are far from shore when diving. Carry a surface marker buoy for return. Check current conditions before committing to the swim — a surface marker buoy is required.
 
 ---
-*Sources: [DiveCuracao.info — Boca Sami](https://www.divecuracao.info/dive/curacao-diving-guide/boca-sami/), [Divers-Guide.com — Daaibooi](https://www.divers-guide.com/en/daaibooi), [Curacao.com — Boka Sami](https://www.curacao.com/en/activity/boka-sami-snake-bay-kaap-mal-meeuw). Last updated 2026-05-24.*
+*Sources: [Divers-Guide.com — Boca Sami](https://www.divers-guide.com/en/boca-sami), [Curacao.com — Boka Sami](https://www.curacao.com/en/activity/boka-sami-snake-bay-kaap-mal-meeuw), [Aquafari.net — Boca Sami Dive Site](https://www.aquafari.net/top-reasons-to-explore-boca-sami-dive-site-in-curacao/), [Zentacle — Boca Sami](https://www.zentacle.com/Beach/196/boca-sami). Re-audited 2026-07-27: the footer previously cited a Divers-Guide.com URL for Daaibooi in error — corrected to the actual Boca Sami page. Marine life section previously said no species were documented; corrected with a confirmed species list, and added the 2019 oil-platform coral-damage incident. Last updated 2026-07-27.*

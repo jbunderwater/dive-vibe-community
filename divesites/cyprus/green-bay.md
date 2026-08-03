@@ -46,4 +46,4 @@ Green sea turtles are regularly sighted. Other reported species include parrotfi
 - Note: MUSAN (Museum of Underwater Sculptures Ayia Napa) is a separate site near Ayia Napa — not the same as Green Bay
 
 ---
-*Sources: [Easy Divers - Green Bay](https://www.ezdivers.com/green-bay/), [Cyprus Island - Green Bay](https://www.cyprusisland.net/cyprus-diving/green-bay-diving-site), [AquaNaut Diving / scubadivecyprus.com](https://www.scubadivecyprus.com). Last updated 2026-05-23.*
+*Sources: [Easy Divers - Green Bay](https://www.ezdivers.com/green-bay/), [Cyprus Island - Green Bay](https://www.cyprusisland.net/cyprus-diving/green-bay-diving-site), [AquaNaut Diving / scubadivecyprus.com](https://www.scubadivecyprus.com). Last updated 2026-07-27.*

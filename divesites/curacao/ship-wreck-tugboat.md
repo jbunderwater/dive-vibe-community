@@ -17,9 +17,16 @@ The Tugboat at Caracas Bay is Curaçao's most accessible wreck — a small tug r
 
 ## Overview
 
-This unnamed tugboat sank sometime in the 1980s in the sheltered waters of Caracasbaai (Caracas Bay) on Curaçao's southeast coast. The exact circumstances of the sinking are unknown; local accounts offer conflicting stories — one version describes the tug catching fire while towing an oil tanker, another attributes the sinking to an accidental strike from a crane at a nearby facility. No authoritative record has been identified for either account, and the vessel's original name remains undocumented.
+This unnamed tugboat sank sometime in the 1980s in the sheltered waters of Caracasbaai (Caracas Bay) on Curaçao's southeast coast. Sources disagree on how it happened, and no authoritative record (shipping registry, news account, etc.) has been identified for any version:
 
-The wreck sits upright on a sandy bottom in 5 metres of water, close to shore at Tugboat Beach. It is fully intact and completely encrusted with tube sponges, star coral, sea fans, and soft corals after decades underwater.
+- **Fire while under tow**: the tug caught fire while towing an oil tanker and sank almost immediately.
+- **Crane strike**: the tug was moored at a nearby facility when it was accidentally struck by a large crane during equipment movement.
+- **Dropped anchor**: while the tug was assisting a tanker's docking maneuver, the tanker's crew dropped anchor onto the tug's deck instead of into the water, rupturing the hull.
+- At least one operator (Scubacao.com) describes the tug as having been **purposefully wrecked/scuttled** just offshore of Tugboat Beach, rather than lost in an accident — a claim that conflicts with all three accident narratives above.
+
+Given this many mutually exclusive accounts across independent sources, the true cause of sinking should be treated as unresolved. The vessel's original name is undocumented in every source found; "Tugboat" is a descriptive label, not an official ship name.
+
+The wreck sits upright on a sandy bottom in 5 metres of water, close to shore at Tugboat Beach. It is fully intact and completely encrusted with tube sponges, star coral, sea fans, and soft corals after decades underwater. A Coral Restoration Foundation Curaçao coral-nursery outplant is also present at this site.
 
 ## Site Information
 
@@ -33,7 +40,7 @@ The wreck sits upright on a sandy bottom in 5 metres of water, close to shore at
 
 ## Marine Life
 
-The wreck functions as an artificial reef. Confirmed species at this site include parrotfish, trumpetfish, angelfish, moray eels, schools of chromis, barracuda, sea turtles, seahorses, frogfish, octopus, eagle rays, lobsters, nudibranchs, shrimp, blennies, horse-eye jacks, and green turtles. The tube sponges and soft corals on the hull host numerous small invertebrates.
+The wreck functions as an artificial reef. Confirmed species at this site (Divers-Guide.com, Dreamwrecks, MyCuracaoGuide, Scubacao.com) include Majestic blue parrotfish, yellowtail snappers, sergeant majors, bar jacks, grouper, trumpetfish, moray eels (including green moray), scorpionfish, frogfish, seahorses, octopus, lobster, nudibranch, barracuda, sea turtles, and occasional eagle rays. Fish here are accustomed to divers and noted as unusually approachable. A large green moray has also been reported on the opposite side of Caracasbaai, away from the wreck itself, so it is not listed here as a tugboat-specific sighting.
 
 ## Dive Profile
 
@@ -55,4 +62,4 @@ Shore entry from Tugboat Beach is across sand — an easy walk into the water. T
 The shallow depth and calm, protected bay make this one of Curaçao's safest dive sites. The wreck structure should be navigated carefully to avoid disturbing marine growth. The surrounding Caracasbaai area is within the Curaçao National Marine Park.
 
 ---
-*Sources: [DiveCuracao.info — Tugboat](https://www.divecuracao.info/dive/curacao-diving-guide/tugboat/), [Divers-Guide.com — Tugboat Curaçao](https://www.divers-guide.com/en/tugboat-curacao), [TravelInMyPocket — Tugboat Curaçao](https://www.travelinmypocket.com/tugboat-curacao-caracas-bay-peninsula/). Last updated 2026-05-24.*
+*Sources: [Divers-Guide.com — Tugboat Curaçao](https://www.divers-guide.com/en/tugboat-curacao), [TravelInMyPocket — Tugboat Curaçao](https://www.travelinmypocket.com/tugboat-curacao-caracas-bay-peninsula/), [DreamWrecks — Little Tug, Curaçao](https://dreamwrecks.com/tugboat-curacao-wreck), [MyCuracaoGuide — Top 10 Dive Sites](https://www.mycuracaoguide.com/blogs/the-complete-guide-to-dive-curacao). Re-audited 2026-07-27: added a third conflicting sinking account (dropped anchor) and a scuttling claim found in Scubacao.com, corrected the marine-life list to only species confirmed by site-specific sources (dropped unconfirmed angelfish, chromis, shrimp, blennies, and horse-eye jacks; added confirmed sergeant majors, bar jacks, yellowtail snappers, grouper, and scorpionfish). DiveCuracao.info could not be reached during this audit. Last updated 2026-07-27.*

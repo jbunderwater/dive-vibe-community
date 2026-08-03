@@ -17,7 +17,7 @@ A large reservoir on the Vltava River south of Prague with deep wall profiles, s
 
 ## Overview
 
-Slapská Přehrada (Slapy Dam) is a major reservoir built in the 1950s on the Vltava River, located approximately 22 km south of Prague in the Central Bohemian Region. The reservoir covers 11.63 km² and reaches depths of up to 56 meters. When the river was dammed and the reservoir completed in 1961, several villages and structures were submerged, including remnants divers can still explore today. Multiple named dive entry points exist around the reservoir, including a beach entry that leads to a dramatically steep underwater profile.
+Slapská Přehrada (Slapy Dam) is a major reservoir built in the 1950s on the Vltava River, located approximately 22 km south of Prague in the Central Bohemian Region. The reservoir covers 11.63 km² and reaches depths of up to 56 meters. When the river was dammed and the reservoir completed in 1961, several villages and structures were submerged, including remnants divers can still explore today. Multiple named dive entry points exist around the reservoir with different features — the Měřín beach entry described below leads to a dramatically steep underwater profile, while the separate dam/embankment (hráz-náplavka) entry area has its own smaller boat wrecks at 8-20 meters.
 
 ## Site Information
 
@@ -53,4 +53,4 @@ A dive buoy (SMB) is strongly recommended — the reservoir sees significant boa
 - Bring lights for the deeper areas and wreck exploration
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=241), [DiveSSI - Přehrada Slapy Náplavka](https://www.divessi.com/en/mydiveguide/divesite/prehrada-slapy-naplavka-skalice-zahori-czech-republic-75514), [Wikipedia - Slapy Reservoir](https://en.wikipedia.org/wiki/Slapy_Reservoir). Last updated 2026-05-23.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=241), [DiveSSI - Přehrada Slapy Náplavka](https://www.divessi.com/en/mydiveguide/divesite/prehrada-slapy-naplavka-skalice-zahori-czech-republic-75514), [Wikipedia - Slapy Reservoir](https://en.wikipedia.org/wiki/Slapy_Reservoir). Last updated 2026-07-27.*

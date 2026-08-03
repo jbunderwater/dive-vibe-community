@@ -13,7 +13,7 @@ addedBy: extended_overpass
 
 ## Playa Jeremi
 
-Playa Jeremi is a quiet northwest coast shore dive featuring fire cup corals along rocky cliffs, a wall that extends to 20 metres, and confirmed sightings of yellow-headed jawfish, squid, and rays — all accessible from uneven rock steps carved into the cliff.
+Playa Jeremi is a quiet northwest coast shore dive featuring fire cup corals along rocky cliffs, a wall that extends to 20 metres, and confirmed sightings of yellow-headed jawfish, squid, flying gurnard, and queen angelfish — all accessible from uneven rock steps carved into the cliff.
 
 ## Overview
 
@@ -33,7 +33,7 @@ The reef starts close to shore with a shallow area of fire cup corals along the 
 
 ## Marine Life
 
-Confirmed species at this specific site: squid, yellow-headed jawfish, rays, cornetfish, fire cup corals along the cliff faces. Diver reports from ScubaBoard note the right-side wall outside the cove produces good fish life, and the wall provides good juvenile fish photography during safety stops.
+Confirmed species at this specific site: squid and yellow-headed jawfish (DiveCuracao.info), flying gurnard on the sandy bottom at around 5 metres, wide-eyed flounder, peacock flounder, lizard fish, sea urchin, and striped red mullet (Divers-Guide.com dive log), plus queen angelfish, a large green moray eel, hawksbill turtle, and orange cup corals near shore (Zentacle diver reviews). Fire cup corals line the cliff faces on both sides of the bay. This audit found no site-specific source for rays or cornetfish at this site, so those two claims have been removed; generic "rays" mentioned in earlier drafts appears to have come from a regional species list rather than a Playa Jeremi-specific sighting.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ Rock steps carved into the cliff provide entry access — reef shoes or sturdy b
 The rocky entry is the main hazard — take time with the steps and have a buddy assist with equipment. The remote location means emergency services are not immediately available; dive conservatively. A surface marker buoy is recommended.
 
 ---
-*Sources: [DiveCuracao.info — Playa Jeremi](https://www.divecuracao.info/dive/curacao-diving-guide/playa-jeremi/), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/), [PADI Dive Site — Playa Jeremi](https://www.padi.com/dive-site/curacao/). Last updated 2026-05-24.*
+*Sources: [DiveCuracao.info — Playa Jeremi](https://www.divecuracao.info/dive/curacao-diving-guide/playa-jeremi/), [Divers-Guide.com — Playa Jeremi](https://www.divers-guide.com/en/playa-jeremi), [Zentacle — Playa Jeremi](https://www.zentacle.com/Beach/1228/playa-jeremi). Re-audited 2026-07-27: removed unsupported "rays" and "cornetfish" claims (not found in any site-specific source), replaced with a longer confirmed species list drawn from Divers-Guide.com's dive log and Zentacle reviews. ScubaBoard's general "Curaçao Shore Dives" thread and the PADI site index page were dropped from this footer as they do not independently corroborate Playa Jeremi-specific details beyond what's now cited. Last updated 2026-07-27.*

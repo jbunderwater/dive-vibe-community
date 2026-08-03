@@ -42,4 +42,4 @@ Sea snails, starfish, slipper lobster, rainbow wrasse, and peacock wrasse have b
 - Green and loggerhead turtles reported as occasional visitors — this is described as a territorial area for them
 
 ---
-*Sources: [tddiving.com](https://tddiving.com/paphos/), [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [aquatic-centre.com](https://aquatic-centre.com/paphos-2/). Last updated 2026-05-23.*
+*Sources: [tddiving.com](https://tddiving.com/paphos/), [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [aquatic-centre.com](https://aquatic-centre.com/paphos-2/). Last updated 2026-07-27.*

@@ -3,7 +3,7 @@ name: Punta Sur Reef
 lat: 20.2873171
 lng: -87.031631
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 38
 entryType: boat
 siteType: cave
 ref: null
@@ -17,7 +17,7 @@ Cozumel's southernmost dive — an advanced cave and wall system combining the i
 
 ## Overview
 
-Punta Sur sits at the southern tip of Cozumel, where the island's wall system meets the open Caribbean and currents converge from multiple directions. The site is best known for two distinct features: the **Devil's Throat** (La Garganta del Diablo), a narrow descending tunnel that drops at roughly 45 degrees from around 30 meters to approximately 38–41 meters before exiting onto the open wall; and **The Cathedral**, a large connected cavern. The site may be classified as a cavern dive rather than a true cave because natural light is visible from most points inside, though the passages are too narrow to simply swim out. Maximum depth on the wall reaches 35 meters; the Devil's Throat exit opens near the recreational dive limit. Because decompression stops may be necessary if progress through the tunnel is slow, this site demands excellent air management and current experience.
+Punta Sur sits at the southern tip of Cozumel, where the island's wall system meets the open Caribbean and currents converge from multiple directions. The site is best known for two distinct features: the **Devil's Throat** (La Garganta del Diablo), a narrow, steeply descending tunnel; and **The Cathedral**, a large connected cavern with its own swim-throughs (reported around 33 meters/110 feet). Multiple independent sources (Wikipedia, Pro Dive International, Pelagic Ventures) confirm this is a **cavern**, not a true cave — natural light remains visible from most points inside, and divers do not penetrate beyond the light zone, though the passages are too narrow to simply swim straight out. Sources disagree on the exact numbers: the tunnel entrance is variously reported between 24–30 meters (80–90 ft), and the exit onto the open wall between 38–43 meters (125–140 ft) depending on the source — treat these as approximate. Because of the depth and the narrow overhead section, this site demands excellent air management, buoyancy control, and current experience.
 
 **Hurricane Wilma note**: The Cathedral was formerly famous for a natural crucifix-shaped sponge formation on its ceiling, backlit by light from a tunnel opening. Hurricane Wilma (2005) destroyed this sponge feature. The cavern itself is intact, but that specific visual element no longer exists.
 
@@ -29,18 +29,18 @@ The surrounding reef is in exceptional condition due to its remote location and 
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 38 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
 - **Current**: Strong and variable — exposed headland with converging currents
 - **Best Time**: November to April; summer months can have stronger, less predictable currents
 
 ## Marine Life
 
-The open-ocean positioning attracts large pelagics. Spotted eagle rays are frequently encountered in groups at depth. Caribbean reef sharks patrol the wall edge. Hawksbill turtles nest on the adjacent beaches and are reliably seen underwater. The wall sponge community is exceptional. Schools of Atlantic spadefish and horse-eye jacks congregate at the wall edge.
+Sources tie several species specifically to Punta Sur. Caribbean reef sharks are reported here more frequently than at most other Cozumel sites. Eagle rays, southern stingrays, nurse sharks, and hawksbill turtles are reported by local operators (no source confirms turtles nesting on adjacent beaches — that claim has been removed as unconfirmed). The Reefs of Cozumel also documents damselfish, barracuda, grouper, creole wrasse, bar jacks, and occasional trumpetfish at this site. The wall's sponge community (including black coral and deep-water sponges) is notable per multiple operators.
 
 ## Dive Profile
 
-Punta Sur requires a precisely timed boat entry to match the current cycle. Descend quickly once in the water. The Devil's Throat tunnel entrance begins at approximately 24–30 meters; the tunnel descends at roughly 45 degrees and exits onto the open wall at 38–41 meters. Carry a torch — the tunnel sections are dark. Divers are advised against scissor-kicking inside as it stirs up sediment and drastically reduces visibility. Most time is spent between 18 and 35 meters. Ascent is in the water column away from the wall with SMB deployed.
+Punta Sur requires a precisely timed boat entry to match the current cycle. Descend quickly once in the water. The Devil's Throat tunnel entrance begins around 24–30 meters and exits onto the open wall somewhere in the 38–43 meter range — sources vary on the precise exit depth, so plan conservatively and follow your guide's numbers for the day. Carry a torch — passages inside can be dark even though light is visible from most points. Divers are advised against scissor-kicking inside as it stirs up sediment and drastically reduces visibility. Ascent is in the water column away from the wall with SMB deployed.
 
 ## Entry and Exit
 
@@ -68,4 +68,4 @@ The cavern interiors reward wide-angle shooting with natural light filtering thr
 - **Last Updated**: 2026-05-23
 
 ---
-*Sources: [Wikipedia — Devil's Throat at Punta Sur](https://en.wikipedia.org/wiki/Devil%27s_Throat_at_Punta_Sur), [The Reefs of Cozumel — Punta Sur](https://www.reefsofcozumel.com/puntasur.html), [Pro Dive International — Punta Sur](https://www.prodiveinternational.com/dive-site/punta-sur/), [PADI Dive Site — Punta Sur](https://www.padi.com/dive-site/mexico/punta-sur/), [Cozumel Divers — Devil's Throat](https://cozumeldivers.com/devils-throat-cozumel/). Last updated 2026-05-23.*
+*Sources: [Wikipedia — Devil's Throat at Punta Sur](https://en.wikipedia.org/wiki/Devil%27s_Throat_at_Punta_Sur), [The Reefs of Cozumel — Punta Sur](https://www.reefsofcozumel.com/puntasur.html), [Pro Dive International — Punta Sur](https://www.prodiveinternational.com/dive-site/punta-sur/), [PADI Dive Site — Punta Sur](https://www.padi.com/dive-site/mexico/punta-sur/), [Pelagic Ventures Scuba — Devil's Throat Cozumel](https://pelagicventuresscuba.com/cozumel-dive-sites/devils-throat-cozumel/). Last updated 2026-07-27.*
