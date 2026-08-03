@@ -53,7 +53,7 @@ This is one of the safest wreck dive sites in the Great Lakes system. The shallo
 
 ## Photography
 
-The Mapledawn is a photographer's delight — sunlit wreck photography at 8 metres produces images with excellent natural colour and contrast. The hull framed against the lighter water above, with smallmouth bass in the foreground, is a classic composition. Close-up images of hull hardware and marine growth are equally rewarding without supplemental lighting.
+The Mapledawn is a photographer's delight — sunlit wreck photography at 8 metres produces images with excellent natural colour and contrast. Close-up images of hull hardware and marine growth are equally rewarding without supplemental lighting.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

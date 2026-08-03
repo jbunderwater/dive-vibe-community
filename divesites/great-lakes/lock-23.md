@@ -53,7 +53,7 @@ Canal lock structures may include unstable masonry, particularly at older sites.
 
 ## Photography
 
-Canal lock diving offers unusual photographic subjects — the geometry of the stone chamber, the precision of 19th-century masonry, and the darkness punctuated by dive torches create atmospheric imagery. Northern pike portraits in the clear water of the lock chamber are outstanding subjects.
+Canal lock diving offers unusual photographic subjects — the geometry of the stone chamber, the precision of 19th-century masonry, and the darkness punctuated by dive torches create atmospheric imagery.
 
 ---
 *Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

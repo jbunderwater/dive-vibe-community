@@ -52,7 +52,7 @@ Lake Erie weather is the primary safety consideration — watch forecasts carefu
 
 ## Photography
 
-Eastern Lake Erie wreck photography typically rewards better visibility than the western basin. Yellow perch schools and the preserved wooden hull provide engaging subjects. A torch significantly improves hull detail photography.
+Eastern Lake Erie wreck photography typically rewards better visibility than the western basin. A torch significantly improves hull detail photography.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

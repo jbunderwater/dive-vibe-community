@@ -53,7 +53,7 @@ Standard Lake Ontario/Kingston area safety precautions. Cold water, limited visi
 
 ## Photography
 
-The Olive Branch offers typical Kingston wreck photography: wooden hull detail, hardware, and resident smallmouth bass in the characteristic blue-green of Lake Ontario. A torch or video light significantly improves image quality.
+A torch or video light significantly improves image quality.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

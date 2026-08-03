@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "french-polynesia",
-    "galapagos-islands",
-    "gili-islands",
-    "great-barrier-reef",
-    "great-lakes",
-    "greece",
     "greenland",
     "grenada",
     "guadeloupe",
@@ -175,7 +169,13 @@
     "florida-keys",
     "flower-garden-banks",
     "france",
-    "french-antilles"
+    "french-antilles",
+    "french-polynesia",
+    "galapagos-islands",
+    "gili-islands",
+    "great-barrier-reef",
+    "great-lakes",
+    "greece"
   ],
   "history": [
     {
@@ -2680,6 +2680,74 @@
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/128",
       "errors": []
+    },
+    {
+      "date": "2026-08-03",
+      "slugs": [
+        "french-polynesia",
+        "galapagos-islands",
+        "gili-islands",
+        "great-barrier-reef",
+        "great-lakes",
+        "greece"
+      ],
+      "summary": {
+        "french-polynesia": {
+          "sites_total": 30,
+          "sites_validated_today": 0,
+          "sites_re_audited": 30,
+          "hallucinations_removed": 8,
+          "marine_life_stripped": 7,
+          "wreck_conflicts_flagged": 2,
+          "sites_unresolved": 1
+        },
+        "galapagos-islands": {
+          "sites_total": 16,
+          "sites_validated_today": 16,
+          "sites_re_audited": 16,
+          "hallucinations_removed": 1,
+          "marine_life_stripped": 0,
+          "wreck_conflicts_flagged": 0,
+          "sites_unresolved": 0
+        },
+        "gili-islands": {
+          "sites_total": 14,
+          "sites_validated_today": 0,
+          "sites_re_audited": 14,
+          "hallucinations_removed": 7,
+          "marine_life_stripped": 7,
+          "wreck_conflicts_flagged": 1,
+          "sites_unresolved": 1
+        },
+        "great-barrier-reef": {
+          "sites_total": 25,
+          "sites_validated_today": 24,
+          "sites_re_audited": 25,
+          "hallucinations_removed": 20,
+          "marine_life_stripped": 21,
+          "wreck_conflicts_flagged": 1,
+          "sites_unresolved": 1
+        },
+        "great-lakes": {
+          "sites_total": 71,
+          "sites_validated_today": 12,
+          "sites_re_audited": 22,
+          "hallucinations_removed": 6,
+          "marine_life_stripped": 71,
+          "wreck_conflicts_flagged": 6,
+          "sites_unresolved": 37
+        },
+        "greece": {
+          "sites_total": 13,
+          "sites_validated_today": 10,
+          "sites_re_audited": 13,
+          "hallucinations_removed": 1,
+          "marine_life_stripped": 0,
+          "wreck_conflicts_flagged": 2,
+          "sites_unresolved": 3
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/136"
     }
   ]
 }

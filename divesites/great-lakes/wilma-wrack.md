@@ -53,7 +53,7 @@ Lake Erie north shore conditions can be excellent in settled weather but deterio
 
 ## Photography
 
-The Wilma is a rewarding photography subject when visibility reaches its best. Wide-angle shots of the intact hull with natural light filtering from above, yellow perch schools in the mid-water, and close-up detail of the preserved wooden construction all work well. A torch significantly improves interior and shadowed area photography.
+The Wilma is a rewarding photography subject when visibility reaches its best. A torch significantly improves interior and shadowed area photography.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

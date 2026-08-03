@@ -53,7 +53,7 @@ This is a genuinely beginner-safe site — shallow, calm, and well-lit. The cave
 
 ## Photography
 
-The Caves is outstanding for photography — natural light at 6 metres in Georgian Bay's exceptional clarity illuminates the limestone architecture beautifully. The play of light and shadow in the cave openings creates dramatic compositions. Macro photography of freshwater sponges, crayfish, and limestone encrusting organisms is rewarding. Wide-angle shots of the cave entrance with a diver silhouetted inside are iconic subjects.
+The Caves is outstanding for photography — natural light at 6 metres in Georgian Bay's exceptional clarity illuminates the limestone architecture beautifully. The play of light and shadow in the cave openings creates dramatic compositions. Wide-angle shots of the cave entrance with a diver silhouetted inside are iconic subjects.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [AquaViews - Scuba Dive at Canada's Fathom Five National Marine Park](https://www.leisurepro.com/blog/scuba-dive-destinations/scuba-dive-canadas-fathom-national-marine-park/), [Zentacle - The Caves](https://www.zentacle.com/Beach/7765/the-caves), [Scuba Diving Magazine - Wreck Diving in Tobermory](https://www.scubadiving.com/drive-and-dive-exploring-wrecks-tobermory). Last updated 2026-08-03.*

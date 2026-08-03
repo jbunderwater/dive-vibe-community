@@ -53,7 +53,7 @@ River current is the primary safety consideration. Assess current conditions at 
 
 ## Photography
 
-The Thousand Islands offers some of the most visually appealing freshwater diving in North America. The flowing river creates clean, blue-green water that photographs beautifully. Northern pike and smallmouth bass are excellent wildlife photography subjects, and the wreck structure provides framing for wide-angle compositions.
+The Thousand Islands offers some of the most visually appealing freshwater diving in North America. The flowing river creates clean, blue-green water that photographs beautifully.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

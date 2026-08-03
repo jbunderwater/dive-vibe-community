@@ -53,7 +53,7 @@ Lake Erie conditions near Long Point require attention — the area can develop 
 
 ## Photography
 
-The Long Point/Port Dover area of Lake Erie wreck photography rewards patience — when visibility reaches 10–15 metres, the hull profile is dramatic in wide-angle. Yellow perch schools provide life and motion in mid-water shots.
+The Long Point/Port Dover area of Lake Erie wreck photography rewards patience — when visibility reaches 10–15 metres, the hull profile is dramatic in wide-angle.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

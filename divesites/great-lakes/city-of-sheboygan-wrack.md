@@ -53,7 +53,7 @@ Lake Ontario waters near Kingston are relatively sheltered but can develop wave 
 
 ## Photography
 
-The City of Sheboygan's 19th-century wooden construction and machinery offer compelling photographic subjects. A torch or video light is valuable for illuminating interior spaces and hull details in the darker freshwater conditions. Smallmouth bass make willing portrait subjects.
+The City of Sheboygan's 19th-century wooden construction and machinery offer compelling photographic subjects. A torch or video light is valuable for illuminating interior spaces and hull details in the darker freshwater conditions.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

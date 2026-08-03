@@ -2,8 +2,8 @@
 name: Panther (Wrack)
 lat: 46.6444444
 lng: -84.8080528
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 34
 entryType: boat
 siteType: wreck
 ref: null

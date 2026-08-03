@@ -45,7 +45,6 @@ Access to North Channel diving requires either a private boat or charter from on
 - Drysuit recommended — North Channel water is cold year-round
 - The area has less commercial dive infrastructure than Tobermory or Kingston — plan fuel, supplies, and accommodation in advance
 - This region rewards adventurous divers willing to explore outside the established dive tourism corridors
-- Lake trout are outstanding encounters at North Channel sites
 
 ## Safety Considerations
 
@@ -53,7 +52,7 @@ The North Channel's remoteness means emergency services response times are longe
 
 ## Photography
 
-The exceptional clarity of North Channel water, combined with a less-disturbed natural setting and minimal zebra mussel impact on the hull, creates outstanding photography conditions. Lake trout encounters at 20 metres in 15-metre visibility are exceptional.
+The North Channel's exceptional clarity and largely undisturbed setting make it a rewarding location for freshwater wreck photography, though no site-specific photography notes for the North Wind were found in the sources consulted.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

@@ -3,7 +3,7 @@ name: M. I. Wilcox (Wreck)
 lat: 41.9805
 lng: -82.9408333
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 8
 entryType: boat
 siteType: wreck
 ref: null

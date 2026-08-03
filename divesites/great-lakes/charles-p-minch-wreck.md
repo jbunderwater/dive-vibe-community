@@ -3,7 +3,7 @@ name: Charles P. Minch (Wreck)
 lat: 45.2942498
 lng: -81.7101192
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 16
 entryType: boat
 siteType: wreck
 ref: null

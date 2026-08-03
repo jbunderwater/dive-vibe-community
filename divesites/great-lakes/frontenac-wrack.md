@@ -53,7 +53,7 @@ Standard Great Lakes freshwater diving precautions apply. Cold water, limited vi
 
 ## Photography
 
-Wooden hull wreck photography in Lake Ontario's blue-green ambient light has a distinctive character. Supplemental lighting reveals hull grain, fasteners, and hardware details. Smallmouth bass make engaging portrait subjects.
+Wooden hull wreck photography in Lake Ontario's blue-green ambient light has a distinctive character. Supplemental lighting reveals hull grain, fasteners, and hardware details.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

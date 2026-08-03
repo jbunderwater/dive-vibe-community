@@ -52,7 +52,7 @@ Current conditions near the St. Clair River end of Lake Huron require assessment
 
 ## Photography
 
-Standard Great Lakes wreck photography approach — supplemental lighting improves hull detail. Smallmouth bass and perch schools are engaging subjects around the hull.
+Standard Great Lakes wreck photography approach — supplemental lighting improves hull detail.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

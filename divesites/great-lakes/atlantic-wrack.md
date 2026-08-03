@@ -53,7 +53,7 @@ Lake Erie has a well-earned reputation for dangerous weather. Its shallow depth 
 
 ## Photography
 
-Lake Erie wrecks offer a distinctive photographic palette — the muted blue-green water, silty bottom, and encrusted hull textures create moody, atmospheric images. Yellow perch schools hovering around the wreck make excellent natural framing elements. A torch adds warmth and contrast to interior shots.
+Lake Erie wrecks offer a distinctive photographic palette — the muted blue-green water, silty bottom, and encrusted hull textures create moody, atmospheric images. A torch adds warmth and contrast to interior shots.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

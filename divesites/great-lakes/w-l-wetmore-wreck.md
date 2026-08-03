@@ -3,7 +3,7 @@ name: W. L. Wetmore (Wreck)
 lat: 45.2655744
 lng: -81.7093277
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 9
 entryType: boat
 siteType: wreck
 ref: null

@@ -53,7 +53,7 @@ Lake Erie weather changes quickly. Defer to your dive charter operator's judgmen
 
 ## Photography
 
-Lake Erie wreck photography benefits from supplemental lighting. The blue-green ambient light underwater combined with a torch or video light reveals hull wood grain, rusted hardware, and other detail. Yellow perch schools make excellent subjects for mid-water wide-angle shots.
+Lake Erie wreck photography benefits from supplemental lighting. The blue-green ambient light underwater combined with a torch or video light reveals hull wood grain, rusted hardware, and other detail.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

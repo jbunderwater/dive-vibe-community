@@ -53,7 +53,7 @@ Lake Erie weather demands constant awareness on both sides of the border. Condit
 
 ## Photography
 
-The Willis offers typical central Lake Erie wreck photography conditions — better visibility than the western basin, dense perch schools for wildlife shots, and preserved wooden hull detail. A torch reveals the hull's historical character.
+A torch reveals the hull's historical character.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

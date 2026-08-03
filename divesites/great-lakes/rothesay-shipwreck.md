@@ -3,7 +3,7 @@ name: Rothesay (Shipwreck)
 lat: 44.6996694
 lng: -75.5271694
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 9
 entryType: boat
 siteType: wreck
 ref: null
@@ -53,7 +53,7 @@ St. Lawrence River current requires careful dive planning and an experienced div
 
 ## Photography
 
-The Rothesay's 135-year-old hull in the clear St. Lawrence water creates outstanding photography conditions. Northern pike encounters add wildlife photography opportunities. The flowing river's characteristic blue-green tones produce images with a distinctive freshwater character.
+The Rothesay's 135-year-old hull in the clear St. Lawrence water creates outstanding photography conditions. The flowing river's characteristic blue-green tones produce images with a distinctive freshwater character.
 
 ---
 *Sources: [The Scuba News - Rothesay Wreck in Prescott Ontario](https://www.thescubanews.com/2018/04/24/rothesay-wreck-in-prescott-ontario-2/), [Augusta Township - The Rothesay (1867-1889)](https://augusta.ca/recreation-facilities/the-rothesay-1867-1889/), [Sharky's Scuba - Rothesay](https://sharkyscuba.com/local-ottawa-diving/rothesay/). Last updated 2026-08-03.*

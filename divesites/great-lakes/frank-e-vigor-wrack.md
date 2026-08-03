@@ -3,7 +3,7 @@ name: Frank E. Vigor (Wrack)
 lat: 41.9590806
 lng: -81.9540333
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 28
 entryType: boat
 siteType: wreck
 ref: null

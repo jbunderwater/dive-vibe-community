@@ -44,7 +44,6 @@ Charter dive boats from Tobermory access the Forest City regularly as part of mu
 - Advanced Open Water and deep diving specialty certification are minimum requirements
 - Enriched Air Nitrox (maximum 32% for this depth with 45m planned maximum) can help manage NDL
 - Drysuit essential — bottom temperature is 4°C
-- Lake trout encounters at this depth are memorable — have a wide-angle lens ready
 - Plan surface intervals carefully between deep dives in Tobermory's multi-dive format
 - Narcosis effects at 45 metres are real — know your personal response to depth
 
@@ -54,7 +53,7 @@ The Forest City sits at the outer limit of recreational diving. Narcosis, cold i
 
 ## Photography
 
-Georgian Bay's exceptional visibility makes the Forest City a prime deep wreck photography subject. At 45 metres, ambient light is present but limited — wide-angle photography with supplemental lighting provides the best results. Lake trout encounters are outstanding photography opportunities.
+Georgian Bay's exceptional visibility makes the Forest City a prime deep wreck photography subject. At 45 metres, ambient light is present but limited — wide-angle photography with supplemental lighting provides the best results.
 
 ---
 *Sources: [Scuba Diving Magazine - Drive and Dive: Exploring the Wrecks of Tobermory](https://www.scubadiving.com/drive-and-dive-exploring-wrecks-tobermory), [Parks Canada - Fathom Five Dive Sites](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive), [The Bruce Peninsula - Shipwrecks of Fathom Five](https://thebrucepeninsula.com/shipwrecks-of-fathom-five/). Last updated 2026-08-03.*

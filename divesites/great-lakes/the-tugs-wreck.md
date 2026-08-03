@@ -3,8 +3,8 @@ name: The Tugs (Wreck)
 lat: 45.2583508
 lng: -81.6609268
 difficulty: Intermediate
-maxDepth: 20
-entryType: boat
+maxDepth: 13
+entryType: shore
 siteType: wreck
 ref: null
 osmId: 663869541

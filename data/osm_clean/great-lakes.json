@@ -1049,10 +1049,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30",
-    "qa_notes": "Difficulty upgraded from Beginner to Intermediate per cold-water Great Lakes rule. Cave site at Tobermory Georgian Bay."
+    "validated": "true",
+    "validation_source": "leisurepro.com/blog/scuba-dive-destinations/scuba-dive-canadas-fathom-national-marine-park, zentacle.com/Beach/7765/the-caves, scubadiving.com/drive-and-dive-exploring-wrecks-tobermory",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Difficulty upgraded from Beginner to Intermediate per cold-water Great Lakes rule. Cave site east of Tobermory, Fathom Five NP - submerged grotto entrance ~6m (20ft), consistent across 3 sources. Depth was already accurate; site_type (cave) confirmed correct."
   },
   {
     "name": "Caroline Rose (Schooner)",
@@ -1159,9 +1159,9 @@
     "lon": -81.6609268,
     "osm_id": 663869541,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 13,
     "site_type": "wreck",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
@@ -1172,9 +1172,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive/activ2a, scubadiverlife.com/scuba-diving-tobermory, deepstop.wordpress.com/2008/12/05/diving-the-tugs-in-tobermorys-little-tub-harbour",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Four small steam tugs (Alice G, Robert K, John & Alex, and one unidentified) at the mouth of Little Tub Harbour, Tobermory. Max depth ~13m (40ft). Shore-accessible via wooden deck/stairs - one of only a few shore dives in Fathom Five NP. Entry_type corrected from boat to shore; depth corrected from 20m to 13m."
   },
   {
     "name": "City of Grand Rapids (steamer)",

@@ -47,7 +47,6 @@ Charter dive boats from Cheboygan and Mackinaw City, Michigan provide access. Th
 - The wreck's large scale rewards repeat visits to different sections
 - Drysuit essential for bottom temperatures
 - The Straits area offers numerous additional wreck dive opportunities
-- Lake trout sightings are common and make memorable encounters — have a wide-angle lens ready
 - Current in the Straits can exceed 1 knot — plan accordingly
 
 ## Safety Considerations
@@ -56,7 +55,7 @@ Current in the Straits of Mackinac is the primary safety consideration. Dive tim
 
 ## Photography
 
-The Cedarville's scale and the excellent Straits visibility combine to create exceptional wide-angle photography opportunities. The 20th-century steel construction retains its shape well, with portholes, machinery, and hull features providing compelling close-up subjects. Lake trout encounters add dramatic wildlife photography potential.
+The Cedarville's scale and the excellent Straits visibility combine to create exceptional wide-angle photography opportunities. The 20th-century steel construction retains its shape well, with portholes, machinery, and hull features providing compelling close-up subjects.
 
 ---
 *Sources: [Straits of Mackinac Shipwreck Preserve - Cedarville](https://www.straitspreserve.com/shipwrecks/cedarville/), [SS Cedarville - Wikipedia](https://en.wikipedia.org/wiki/SS_Cedarville), [Michigan Underwater Preserves - Straits of Mackinac](https://www.michiganpreserves.org/straits-of-mackinac-shipwreck-preserve/). Last updated 2026-05-30.*

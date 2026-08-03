@@ -53,7 +53,7 @@ Lake Erie conditions can deteriorate rapidly. Monitor weather forecasts and be c
 
 ## Photography
 
-Northern Lake Erie wreck photography rewards patience — visibility can range dramatically from excellent to poor. Plan for both ambient light shooting and supplemental lighting. The yellow perch schools provide naturalistic framing opportunities around the hull.
+Northern Lake Erie wreck photography rewards patience — visibility can range dramatically from excellent to poor. Plan for both ambient light shooting and supplemental lighting.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

@@ -53,7 +53,7 @@ St. Lawrence River current requires active dive planning. Assess conditions befo
 
 ## Photography
 
-The compact scale of the Wee Hawk makes full-hull photography possible in the Thousand Islands' excellent visibility. Northern pike portraits in the flowing river are outstanding. The clarity of the St. Lawrence gives freshwater wreck photography a distinctive, luminous character.
+The compact scale of the Wee Hawk makes full-hull photography possible in the Thousand Islands' excellent visibility. The clarity of the St. Lawrence gives freshwater wreck photography a distinctive, luminous character.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

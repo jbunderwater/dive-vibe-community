@@ -53,7 +53,7 @@ St. Lawrence River current is the primary safety consideration. Commercial shipp
 
 ## Photography
 
-The steel construction of the Conestoga provides macro photography subjects distinct from wooden wrecks — rivets, steel plate textures, machinery components, and hull fittings. Northern pike encounters in the flowing river are excellent photography subjects.
+The steel construction of the Conestoga provides macro photography subjects distinct from wooden wrecks — rivets, steel plate textures, machinery components, and hull fittings.
 
 ---
 *Sources: [Ottawa Scuba - Conestoga](http://ottawa-scuba.com/sites/connestoga/connestoga.shtml), [Save Ontario Shipwrecks - Wikipedia](https://en.wikipedia.org/wiki/Save_Ontario_Shipwrecks), [Dive Kawartha - The Conestoga Shipwreck](https://divekawartha.ca/charters/the-conestoga-shipwreck/). Last updated 2026-08-03.*

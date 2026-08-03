@@ -53,7 +53,7 @@ Cold water is the primary environmental consideration. Thermal protection approp
 
 ## Photography
 
-The George A. Marsh is one of the most photographed wrecks in Canadian freshwater. The intact three-masted profile lends itself to dramatic wide-angle images. Descend below the deck level and look up to frame the hull against the surface light. Fish life — particularly the resident smallmouth bass population — adds animation to still images.
+The George A. Marsh is one of the most photographed wrecks in Canadian freshwater. The intact three-masted profile lends itself to dramatic wide-angle images. Descend below the deck level and look up to frame the hull against the surface light.
 
 ---
 *Sources: [George A. Marsh - Wikipedia](https://en.wikipedia.org/wiki/George_A._Marsh), [Pat's Dive Charters - George A. Marsh](http://patsdivecharters.com/george-a-marsh/), [Canadian Geographic - Diving Kingston's Shipwrecks](https://canadiangeographic.ca/articles/diving-kingstons-shipwrecks-the-hidden-histories-of-lake-ontario/). Last updated 2026-08-03.*

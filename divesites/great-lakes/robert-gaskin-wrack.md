@@ -53,7 +53,7 @@ St. Lawrence River current requires active management. Commercial shipping traff
 
 ## Photography
 
-The Robert Gaskin is regarded as one of the finest wreck photography subjects in freshwater diving. The complete, upright hull, the clarity of the St. Lawrence River, and the abundant fish life — particularly northern pike — create exceptional images. The 19th-century wooden hull's natural appearance (less mussel-encrusted than lake wrecks) reveals historical construction details vividly.
+The Robert Gaskin is regarded as one of the finest wreck photography subjects in freshwater diving. The complete, upright hull and the clarity of the St. Lawrence current combine well for wide-angle shots, and the 19th-century wooden hull's natural appearance reveals historical construction details vividly.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

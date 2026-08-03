@@ -53,7 +53,7 @@ Lake Ontario boat traffic near Kingston requires careful ascent planning. Always
 
 ## Photography
 
-The Wolfe Islander II's large scale and 20th-century construction provide different photographic subjects from the historic wooden wrecks nearby. The cavernous car deck, wheelhouse, and bow profile are dramatic wide-angle subjects. Smallmouth bass portraits are a Kingston area speciality.
+The Wolfe Islander II's large scale and 20th-century construction provide different photographic subjects from the historic wooden wrecks nearby. The cavernous car deck, wheelhouse, and bow profile are dramatic wide-angle subjects.
 
 ---
 *Sources: [MV Wolfe Islander II - Wikipedia](https://en.wikipedia.org/wiki/MV_Wolfe_Islander_II), [The Scuba News - Wolfe Islander II Served Kingston as Ferry](https://www.thescubanews.com/2017/05/29/wolfe-islander-ii-served-kingston-as-ferry-and-now-dive-site-2/), [Shotline Diving - Wolfe Islander II C157269](https://www.shotlinediving.com/docs/general/kingston-canadian-side/wolfe-islander-ii-c157269/). Last updated 2026-08-03.*

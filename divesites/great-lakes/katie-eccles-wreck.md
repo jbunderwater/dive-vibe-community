@@ -44,7 +44,6 @@ Charter dive boats from Kingston visit the Katie Eccles as part of deeper dive i
 - At 30 metres, time is more limited than at the shallower Kingston wrecks — pre-plan your exploration priorities
 - Nitrox 32% provides additional NDL margin at this depth
 - Drysuit essential — temperatures at 30m are 4°C year-round
-- Lake trout encounters at this depth are memorable
 - Heritage protection applies throughout the Kingston area
 
 ## Safety Considerations

@@ -52,7 +52,7 @@ Lake Erie weather can deteriorate in any section of the lake. Central basin stor
 
 ## Photography
 
-Central Lake Erie wreck photography benefits from better clarity than the western basin. The wooden hull and hardware provide historical subject matter. Yellow perch schools are plentiful photographic subjects.
+Central Lake Erie wreck photography benefits from better clarity than the western basin. The wooden hull and hardware provide historical subject matter.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

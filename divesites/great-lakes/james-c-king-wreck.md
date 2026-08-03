@@ -2,8 +2,8 @@
 name: James C. King (Wreck)
 lat: 45.2678
 lng: -81.7149972
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 27
 entryType: boat
 siteType: wreck
 ref: null

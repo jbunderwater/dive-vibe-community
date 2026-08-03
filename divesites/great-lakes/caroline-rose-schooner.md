@@ -53,7 +53,7 @@ Although shallow and beginner-friendly, the cold water demands proper thermal pr
 
 ## Photography
 
-The Caroline Rose is a photographer's favourite at Tobermory. The combination of exceptional clarity, intact hull, and manageable depth allows wide-angle shots of the entire wreck in natural light. The bow and stern profiles are classic subjects, and fish life adds natural animation. Natural light in clear Georgian Bay water has a luminous, turquoise quality distinct from deeper or murkier Great Lakes sites.
+The Caroline Rose is a photographer's favourite at Tobermory. The combination of exceptional clarity, intact hull, and manageable depth allows wide-angle shots of the entire wreck in natural light. The bow and stern profiles are classic subjects. Natural light in clear Georgian Bay water has a luminous, turquoise quality distinct from deeper or murkier Great Lakes sites.
 
 ---
 *Sources: [Wrecks and Reefs - Caroline Rose](https://www.wrecksandreefs.com/CRose.html), [Parks Canada - Fathom Five Dive Sites](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive), [Visit Tobermory - Shipwrecks](https://visittobermory.ca/profile/shipwrecks-in-tobermory/2380/). Last updated 2026-05-30.*

@@ -53,7 +53,7 @@ Cold water, limited visibility, and boat traffic are the standard Kingston-area 
 
 ## Photography
 
-Toronto-region divers regularly visit Kingston specifically for the wreck photography opportunities. The Munson's 19th-century wooden construction provides compelling historical documentary subjects. Smallmouth bass are engaging portrait subjects in the characteristic blue-green Lake Ontario ambient light.
+Toronto-region divers regularly visit Kingston specifically for the wreck photography opportunities. The Munson's 19th-century wooden construction provides compelling historical documentary subjects.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

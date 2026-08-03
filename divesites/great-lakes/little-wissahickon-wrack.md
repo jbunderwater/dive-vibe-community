@@ -43,7 +43,6 @@ Charter dive boats from Cleveland, Lorain, or Sandusky, Ohio provide access. Ohi
 
 - Western Lake Erie conditions vary significantly day to day — check forecasts and charter recommendations
 - The warm surface temperatures in summer allow wetsuit diving at the surface, but bring thermal protection for bottom temperatures
-- The perch and walleye aggregations are often more impressive than the wreck itself
 - Ohio heritage protection laws apply to underwater cultural resources
 
 ## Safety Considerations
@@ -52,7 +51,7 @@ Lake Erie weather changes rapidly and without much warning. The western basin's 
 
 ## Photography
 
-Dense perch schools provide exceptional wildlife photography around the Little Wissahickon. In good visibility, the compact wooden hull fits in wide-angle frames. Walleye portraits require patience but are memorable.
+In good visibility, the compact wooden hull fits in wide-angle frames.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

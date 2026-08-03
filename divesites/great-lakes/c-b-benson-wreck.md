@@ -53,7 +53,7 @@ Lake Erie weather can be unpredictable. Check forecasts carefully, particularly 
 
 ## Photography
 
-The C. B. Benson provides excellent wreck photography opportunities at a manageable depth. Deck features, hull planking, and abundant yellow perch provide diverse subjects. Natural light from above creates attractive top-lit conditions on clear days.
+The C. B. Benson provides excellent wreck photography opportunities at a manageable depth. Natural light from above creates attractive top-lit conditions on clear days.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

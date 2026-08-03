@@ -56,7 +56,7 @@ Lake Superior is famously cold and conditions can change rapidly. Even in summer
 
 ## Photography
 
-Lake Superior's exceptional clarity makes the Glenlyon a standout photography destination. The large steel hull photographs beautifully in wide-angle, and the relative lack of zebra mussel coverage shows the original construction details. Lake trout encounters are outstanding for wildlife photography.
+Lake Superior's exceptional clarity makes the Glenlyon a standout photography destination.
 
 ---
 *Sources: [SS Glenlyon - Wikipedia](https://en.wikipedia.org/wiki/SS_Glenlyon), [NPS - SS Glenlyon Wreck Event and Survivor Accounts](https://home.nps.gov/articles/000/ss-glenlyon-wreck-event-and-survivor-accounts.htm), [NPS - Shipwrecks of Isle Royale National Park](https://www.nps.gov/isro/learn/historyculture/shipwrecks.htm). Last updated 2026-05-30.*

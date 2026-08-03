@@ -43,7 +43,6 @@ Charter dive boats from Ohio ports (Sandusky, Lorain, or Port Clinton area) prov
 
 - Western Lake Erie's summer surface can be warm enough for wetsuits, but dress for the cold bottom temperatures
 - Visibility varies considerably — check conditions with charter operators before booking
-- The walleye aggregations around this wreck rival any sport fishing experience
 - Combining wreck dives with the fishing culture of western Lake Erie makes for a unique diving destination experience
 
 ## Safety Considerations
@@ -52,7 +51,7 @@ Western Lake Erie is notorious for fast-developing storms. Never dive without ch
 
 ## Photography
 
-Dense yellow perch schools create spectacular wide-angle photography opportunities around the George Worthington. Walleye portraits are possible with patience and a steady approach. The warm western Lake Erie water in summer allows comfortable shooting with a standard wetsuit.
+The warm western Lake Erie water in summer allows comfortable shooting with a standard wetsuit.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

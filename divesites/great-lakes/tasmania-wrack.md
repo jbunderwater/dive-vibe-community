@@ -17,7 +17,7 @@ The Tasmania is a 19th-century wooden schooner wreck in Lake Erie near the Ontar
 
 ## Overview
 
-The Tasmania lies in the western Lake Erie basin near the southern Ontario coast, in waters that connected the Great Lakes industrial heartland from the mid-1800s onward. The vessel's name — Tasmania — evokes the era when romantic geographical names were fashionable for commercial vessels. She rests at approximately 20 metres on the lakebed, where cold bottom water has preserved the wooden hull from the deterioration that would affect a similar vessel in saltwater. Western Lake Erie wreck diving is characterized by warm surface temperatures in summer (the warmest of the Great Lakes), variable visibility, and excellent fish populations — particularly the walleye for which Lake Erie is famous worldwide.
+The Tasmania lies in the western Lake Erie basin near the southern Ontario coast, in waters that connected the Great Lakes industrial heartland from the mid-1800s onward. The vessel's name — Tasmania — evokes the era when romantic geographical names were fashionable for commercial vessels. She rests at approximately 20 metres on the lakebed, where cold bottom water has preserved the wooden hull from the deterioration that would affect a similar vessel in saltwater.
 
 ## Site Information
 
@@ -42,7 +42,6 @@ Charter dive boats from Ontario ports (Windsor, Leamington, Port Stanley area) o
 ## Tips and Recommendations
 
 - Western Lake Erie's warm surface and cold bottom create a pronounced thermocline — prepare for the temperature transition
-- The walleye aggregations at this site are exceptional by freshwater diving standards
 - Visibility is variable — check current conditions with operators before booking
 - Drysuit recommended for cold bottom temperatures despite warm surface
 - A torch is essential below the thermocline
@@ -53,7 +52,7 @@ Western Lake Erie weather is the most unpredictable in the Great Lakes — condi
 
 ## Photography
 
-Dense fish aggregations offer outstanding wildlife photography. Walleye and perch in high numbers around the wreck create unusual opportunities for schools-of-fish wide-angle shots. Close-up images of the preserved wooden hull in the dim, cold bottom water have atmospheric character.
+Close-up images of the preserved wooden hull in the dim, cold bottom water have atmospheric character.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

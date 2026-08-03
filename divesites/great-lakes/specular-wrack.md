@@ -42,7 +42,6 @@ Charter dive boats from Leamington or Windsor, Ontario, or from the US side at M
 ## Tips and Recommendations
 
 - Western Lake Erie's exceptionally warm summer surface water is unusual for Great Lakes diving
-- The walleye and perch concentrations are among the most impressive in freshwater diving globally
 - Visibility varies considerably — check conditions with operators before booking
 - Drysuit recommended for cold bottom water despite warm surface
 - Heritage protection laws apply in both Ontario and Ohio waters
@@ -53,7 +52,7 @@ Western Lake Erie weather changes rapidly — the most storm-prone section of th
 
 ## Photography
 
-Dense fish aggregations — perch and walleye in numbers unusual in freshwater diving — create spectacular wildlife photography. The warm surface light in summer produces attractive ambient conditions in the upper water column.
+The warm surface light in summer produces attractive ambient conditions in the upper water column.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

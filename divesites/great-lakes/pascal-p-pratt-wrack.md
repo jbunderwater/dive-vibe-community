@@ -53,7 +53,7 @@ Lake Erie conditions require constant weather awareness. Rapid wind and wave dev
 
 ## Photography
 
-The typical Lake Erie wreck photography experience — blue-green ambient light, encrusted hull surfaces, and abundant yellow perch schools. Supplemental lighting brings out hull detail and colour.
+Supplemental lighting brings out hull detail and colour.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

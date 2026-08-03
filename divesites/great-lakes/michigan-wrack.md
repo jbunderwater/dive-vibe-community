@@ -53,7 +53,7 @@ This is one of the safest dive sites in the Great Lakes. The shallow depth, prot
 
 ## Photography
 
-4-metre depth in summer sunlight produces exceptional natural-light photography. Sunfish and juvenile perch are highly photogenic subjects. The hull structure, silhouetted against the bright surface above, creates evocative images with a standard underwater camera and no additional lighting.
+4-metre depth in summer sunlight produces exceptional natural-light photography. The hull structure, silhouetted against the bright surface above, creates evocative images with a standard underwater camera and no additional lighting.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

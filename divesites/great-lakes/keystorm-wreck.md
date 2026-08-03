@@ -53,7 +53,7 @@ St. Lawrence River current can be strong and varies with season and upstream wat
 
 ## Photography
 
-The Keystorm's steel construction and the river's clear water create excellent photographic conditions. Northern pike are compelling portrait subjects, often posing motionless in the current near the hull. The industrial scale of the vessel provides dramatic wide-angle compositions.
+The Keystorm's steel construction and the river's clear water create excellent photographic conditions. The industrial scale of the vessel provides dramatic wide-angle compositions.
 
 ---
 *Sources: [Divetech - The Keystorm](https://www.divetech.ca/keystorm.htm), [ScubaBoard - Diving the Wreck of the Keystorm](https://scubaboard.com/community/threads/diving-the-wreck-of-the-keystorm-in-the-upper-st-lawrence-river.419904/), [Underwater Photography Guide - St. Lawrence River Wrecks](https://www.uwphotographyguide.com/st-lawrence-river-wrecks/). Last updated 2026-05-30.*

@@ -3,7 +3,7 @@ name: Philo Scoville (Wreck)
 lat: 45.2688778
 lng: -81.6972111
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null

@@ -53,7 +53,7 @@ River current is the primary safety consideration at this site. Strong current c
 
 ## Photography
 
-The steel hull of the Eastcliffe Hall provides industrial-scale photographic subjects. The river current keeps visibility relatively good, and the dark green tones of St. Lawrence River water create a distinct atmospheric quality. Northern pike encounters make excellent wildlife photography subjects.
+The steel hull of the Eastcliffe Hall provides industrial-scale photographic subjects. The river current keeps visibility relatively good, and the dark green tones of St. Lawrence River water create a distinct atmospheric quality.
 
 ---
 *Sources: [Counties of SDG - Eastcliffe Hall Shipwreck](https://whereontariobegan.ca/project/scuba-diving-eastcliffe-hall-shipwreck/), [Eastcliffe Hall - Wikipedia](https://en.wikipedia.org/wiki/Eastcliffe_Hall), [South Dundas - Eastcliffe Hall Dive Site](https://www.southdundas.com/recreation-tourism/attractions/eastcliffe-hall-dive-site). Last updated 2026-05-30.*

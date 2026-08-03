@@ -52,7 +52,7 @@ Lake Erie weather demands constant awareness. Conditions can shift rapidly with 
 
 ## Photography
 
-Lake Erie's blue-green ambient light and dense perch schools create characteristic freshwater wreck photography. A torch enhances hull detail images. The early morning light on calm days produces the best conditions.
+A torch enhances hull detail images. The early morning light on calm days produces the best conditions.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

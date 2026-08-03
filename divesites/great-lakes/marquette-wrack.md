@@ -53,7 +53,7 @@ Beginner-friendly in most respects, but cold water relative to tropical diving s
 
 ## Photography
 
-Natural-light photography at 11 metres in Georgian Bay produces excellent results on sunny days. The hull structure, small fish, and crayfish all photograph well in available light. The relatively colourful freshwater ecosystem at this depth rewards macro photography.
+Natural-light photography at 11 metres in Georgian Bay produces excellent results on sunny days. The relatively colourful freshwater ecosystem at this depth rewards macro photography.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

@@ -4,7 +4,7 @@ lat: 44.5561778
 lng: -75.7187806
 difficulty: Intermediate
 maxDepth: 21
-entryType: boat
+entryType: shore
 siteType: wreck
 ref: null
 osmId: 663869513
@@ -22,7 +22,7 @@ The Lillie Parsons was an American two-masted canal schooner launched September 
 ## Site Information
 
 - **Location**: St. Lawrence River, Ontario, Canada (Thousand Islands)
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
@@ -53,7 +53,7 @@ St. Lawrence River current requires active management throughout the dive. Never
 
 ## Photography
 
-The Lillie Parsons is one of the most photographed freshwater wrecks in Ontario. The 19th-century wooden hull and the clarity of the St. Lawrence River create ideal conditions for wide-angle wreck photography. Northern pike encounters are outstanding — these large, streamlined predators pose beautifully in the current near the hull.
+The Lillie Parsons is one of the most photographed freshwater wrecks in Ontario. The 19th-century wooden hull and the clarity of the St. Lawrence River create ideal conditions for wide-angle wreck photography.
 
 ---
 *Sources: [Lillie Parsons - Wikipedia](https://en.wikipedia.org/wiki/Lillie_Parsons), [Sharky's Scuba - Lillie Parsons](https://sharkyscuba.com/local-ottawa-diving/lillie-parsons/), [Dive Brockville - Lillie Parsons Charters](https://divebrockville.com/charters/lillie-parsons/). Last updated 2026-08-03.*
