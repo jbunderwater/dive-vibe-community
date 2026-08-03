@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ginnie Springs (Devil's Spring System)",
+    "filename": "ginnie-springs-devils-spring-system.md",
+    "lat": 29.836,
+    "lng": -82.7,
+    "difficulty": "Advanced",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Devil's Den",
+    "filename": "devils-den.md",
+    "lat": 29.40756,
+    "lng": -82.4765,
+    "difficulty": "Beginner",
+    "maxDepth": 20,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Blue Grotto",
+    "filename": "blue-grotto.md",
+    "lat": 29.38789,
+    "lng": -82.48653,
+    "difficulty": "Beginner",
+    "maxDepth": 30,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Wes Skiles Peacock Springs State Park",
+    "filename": "wes-skiles-peacock-springs-state-park.md",
+    "lat": 30.12694,
+    "lng": -83.13611,
+    "difficulty": "Advanced",
+    "maxDepth": 20,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Madison Blue Spring State Park",
+    "filename": "madison-blue-spring-state-park.md",
+    "lat": 30.4805,
+    "lng": -83.244386,
+    "difficulty": "Intermediate",
+    "maxDepth": 21,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Troy Spring State Park",
+    "filename": "troy-spring-state-park.md",
+    "lat": 30.00583,
+    "lng": -82.99694,
+    "difficulty": "Beginner",
+    "maxDepth": 21,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Little River Springs",
+    "filename": "little-river-springs.md",
+    "lat": 29.9967,
+    "lng": -82.9664,
+    "difficulty": "Advanced",
+    "maxDepth": 20,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Manatee Springs State Park",
+    "filename": "manatee-springs-state-park.md",
+    "lat": 29.49041,
+    "lng": -82.97707,
+    "difficulty": "Intermediate",
+    "maxDepth": 9,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Vortex Spring",
+    "filename": "vortex-spring.md",
+    "lat": 30.77149,
+    "lng": -85.94812,
+    "difficulty": "Beginner",
+    "maxDepth": 17,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Jackson Blue Spring",
+    "filename": "jackson-blue-spring.md",
+    "lat": 30.79046943,
+    "lng": -85.1407611,
+    "difficulty": "Advanced",
+    "maxDepth": 5,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  }
+]

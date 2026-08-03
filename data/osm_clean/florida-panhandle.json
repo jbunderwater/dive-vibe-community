@@ -1,0 +1,172 @@
+[
+  {
+    "name": "USS Oriskany",
+    "lat": 30.04258,
+    "lon": -87.00662,
+    "depth": 65,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {"source": "curated_research", "notes": "Essex-class carrier, sunk 2006 as artificial reef, world's largest per FWC. FWC advises against interior entry; do not treat penetration as safe.", "validation_source": "myfwc.com,floridapanhandledivetrail.com,florida-scubadiving.com,niuhidivecharters.com"}
+  },
+  {
+    "name": "USS Massachusetts (BB-2)",
+    "lat": 30.29658,
+    "lon": -87.312,
+    "depth": 9,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "Pre-dreadnought battleship, Florida Underwater Archaeological Preserve; strong current, not recommended for novices despite shallow depth.", "validation_source": "nps.gov,scubadiverlife.com,florida-scubadiving.com"}
+  },
+  {
+    "name": "Russian Freighter (S.S. San Pablo)",
+    "lat": 30.18888,
+    "lon": -87.21762,
+    "depth": 26,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {"source": "curated_research", "notes": "Historical origin/sinking cause conflicts across sources (uncertain identification and circumstances) - flag as unresolved history, do not state as settled fact. Depth also reported inconsistently 23-30m across sources.", "validation_source": "niuhidivecharters.com,florida-scubadiving.com,atlasobscura.com"}
+  },
+  {
+    "name": "Antares",
+    "lat": 30.0097,
+    "lon": -87.12957,
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {"source": "curated_research", "notes": "387-ft freighter sunk 1995; broken apart by hurricanes since, only stern largely intact. Penetration explicitly flagged dangerous by sources.", "validation_source": "niuhidivecharters.com,fishingdivingspots.com"}
+  },
+  {
+    "name": "Pete Tide II",
+    "lat": 30.146,
+    "lon": -87.23367,
+    "depth": 32,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "180-ft former oil-field supply boat sunk 1993, sits upright with intact superstructure.", "validation_source": "florida-scubadiving.com,niuhidivecharters.com,floridapanhandledivetrail.com"}
+  },
+  {
+    "name": "Chevron Oil Rig",
+    "lat": 30.07073,
+    "lon": -87.0353,
+    "depth": 42,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {"source": "curated_research", "notes": "Two former oil platform jackets donated under Rigs-to-Reefs program, deployed 1993.", "validation_source": "divebuddy.com,florida-divepros.com"}
+  },
+  {
+    "name": "YDT-14",
+    "lat": 30.08883,
+    "lon": -87.16067,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "132.5-ft Navy dive tender, one of two sister ships sunk April 2000.", "validation_source": "niuhidivecharters.com,divessi.com"}
+  },
+  {
+    "name": "YDT-15",
+    "lat": 30.08778,
+    "lon": -87.15917,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "Sister ship to YDT-14, rests ~500 ft away, formerly YF-336/Suitland (built 1942).", "validation_source": "niuhidivecharters.com,divessi.com"}
+  },
+  {
+    "name": "Liberty Ship Joseph L. Meek",
+    "lat": 30.26897,
+    "lon": -87.16928,
+    "depth": 29,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "480-ft WWII Liberty Ship built 1942, sunk as artificial reef 1976, sits upright.", "validation_source": "niuhidivecharters.com,divebuddy.com"}
+  },
+  {
+    "name": "Joe Patti Memorial Reef",
+    "lat": 30.28883,
+    "lon": -87.22925,
+    "depth": 15,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "175-ft barge sunk 2013, named for Joe Patti Seafood Company founder.", "validation_source": "niuhidivecharters.com,scuba-dive-pensacola.com"}
+  },
+  {
+    "name": "Miss Louise",
+    "lat": 30.37137,
+    "lon": -86.42192,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "95-ft push tugboat sunk 1997 off Destin; signature recreational wreck in Destin, resident goliath grouper reported.", "validation_source": "floridapanhandledivetrail.com,florida-scubadiving.com,theoutbound.com"}
+  },
+  {
+    "name": "Thomas Hayward (SS Thomas Heyward)",
+    "lat": 30.3062667,
+    "lon": -86.6037,
+    "depth": 27,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "360-ft Liberty Ship built 1942, sunk 1977 off Okaloosa Island. Historic ship name is spelled 'Thomas Heyward' per Wikipedia; local dive-site naming commonly uses 'Thomas Hayward' - spelling discrepancy flagged.", "validation_source": "floridapanhandledivetrail.com,en.wikipedia.org,florida-scubadiving.com"}
+  },
+  {
+    "name": "Black Bart",
+    "lat": 30.0608,
+    "lon": -85.82388,
+    "depth": 26,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "180-ft former oilfield supply ship (built 1977 as Vulcano del Golfo), sunk 1993, named for Navy salvage officer Capt. Charles 'Black Bart' Bartholomew.", "validation_source": "floridapanhandledivetrail.com,montereyboats.com,divebuddy.com"}
+  },
+  {
+    "name": "Grey Ghost",
+    "lat": 30.04715,
+    "lon": -85.0926,
+    "depth": 33,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {"source": "curated_research", "notes": "Former 105-110 ft Navy tugboat sunk 1978, rests on its port side along a natural limestone reef.", "validation_source": "florida-scubadiving.com,scubapanamacitybeach.net"}
+  },
+  {
+    "name": "USS Strength",
+    "lat": 30.03227,
+    "lon": -85.70688,
+    "depth": 24,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {"source": "curated_research", "notes": "WWII minesweeper (survived Iwo Jima and Okinawa), sunk 1987, wreck split into two sections allowing swim-throughs.", "validation_source": "florida-scubadiving.com,divebuddy.com"}
+  },
+  {
+    "name": "El Dorado",
+    "lat": 29.98193,
+    "lon": -85.84917,
+    "depth": 31,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {"source": "curated_research", "notes": "Sunk 2019, one of the newer Panama City Beach shipwreck-trail wrecks; sandbar sharks, goliath grouper and schooling mackerel reported at this specific site.", "validation_source": "scubadiving.com,florida-scubadiving.com,colemanconcierge.com"}
+  },
+  {
+    "name": "Vamar Shipwreck Site",
+    "lat": 29.89889,
+    "lon": -85.46333,
+    "depth": 7.6,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {"source": "curated_research", "notes": "Sank 1942 off Mexico Beach; Florida's 9th Underwater Archaeological Preserve (2004). Geographically at edge of Panama City circuit near Mexico Beach.", "validation_source": "en.wikipedia.org,florida-scubadiving.com"}
+  }
+]
