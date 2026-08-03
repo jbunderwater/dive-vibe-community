@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Plate Top
 
-Plate Top is a reef dive site on the outer Great Barrier Reef near Lizard Island, Queensland, Australia, named for the distinctive plate coral formations that define its shallow reef flat.
+Plate Top is a reef dive site at Norman Reef on the outer Great Barrier Reef, Queensland, Australia, named for the distinctive plate coral formations that define its shallow reef flat.
 
 ## Overview
 
-Plate Top takes its name from the extensive colonies of plate corals — broad, flat Turbinaria and Montipora formations that spread horizontally across the reef surface, creating a stacked, layered appearance in the shallower zones. These plate coral structures are particularly well-developed here, forming terraced shelves that step down from the reef crest toward the slope below.
+**Location corrected 2026-08-03**: earlier versions of this page placed Plate Top "near Lizard Island." Its coordinates (-16.43, 145.99) and independent sources (divessi.com, reefexperience.com.au) place it at Norman Reef instead — a well-known outer reef system off Cairns/Port Douglas, roughly 170km south of Lizard Island. Sources describe it as "a massive mountain range of coral" for more advanced divers, with shelves of plate coral stacking from around 3 metres down to about 20 metres, and the reef wall continuing to descend to roughly 30 metres beyond that.
 
-The site is positioned on the outer reef system in the Lizard Island area, giving it the clear water and healthy coral coverage characteristic of outer GBR reefs. It is a reliable site for day and liveaboard trips in the area, offering a good cross-section of GBR reef diving without demanding specific conditions.
+It is a reliable site for day and liveaboard trips to Norman Reef, offering a good cross-section of GBR reef diving.
 
 ## Site Information
 
-- **Location**: Outer Great Barrier Reef (Lizard Island area), Queensland, Australia
+- **Location**: Norman Reef, outer Great Barrier Reef, Queensland, Australia (corrected from "Lizard Island area")
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -34,15 +34,15 @@ The site is positioned on the outer reef system in the Lizard Island area, givin
 
 ## Marine Life
 
-The layered plate coral formations create sheltered microhabitats — the undersides of the plates harbour small fish, juvenile animals, and invertebrates that find refuge in the sheltered space. Hawksbill turtles are commonly found feeding on the sponges attached to the plate undersides. Coral trout and grouper ambush prey from the edges of the plates. Reef fish diversity is high: parrotfish, surgeonfish, triggerfish, and butterflyfish move through the formations in numbers. Moray eels use the gaps between plate stacks as their territories. At depth on the sandy slope, whitetip reef sharks rest in small groups.
+Sources confirm anthias, yellowtail barracuda, anemonefish, gobies, sweetlips, trevally, and coral trout, which gather at the plate's northern corner at low tide. Reef sharks, turtles, and large schools of fish are reported sheltering from tidal currents at the ends of the formation. Earlier claims of moray eels using plate-stack gaps as territories and whitetip reef sharks resting on the sandy slope were not independently corroborated and have been removed.
 
 ## Dive Profile
 
-Begin at the reef crest at 3–5 metres to observe the plate coral architecture in the best light, then descend along the terraced face to 15–19 metres. The transition zones between plate coral levels are particularly productive for fish watching. Ascend via the terraces rather than the slope for a gradual, varied return to the shallows.
+Begin at the reef crest at 3–5 metres to observe the plate coral architecture in the best light, then descend along the terraced shelves toward 19-20 metres. Advanced divers can follow the wall further, which sources report continuing to roughly 30 metres. The transition zones between plate coral levels are particularly productive for fish watching.
 
 ## Entry and Exit
 
-Boat access from Lizard Island or liveaboard operators covering the area. Free descent to the reef top. Exit via the boat mooring or SMB.
+Boat access from Cairns or Port Douglas operators running trips to Norman Reef, or liveaboard operators covering the area. Free descent to the reef top. Exit via the boat mooring or SMB.
 
 ## Tips and Recommendations
 
@@ -56,7 +56,7 @@ Titan triggerfish establish cone-shaped territories around nesting sites on the 
 
 ## Photography
 
-The plate coral architecture at this site is unusual and photogenic — wide-angle shots of the stacked formations create strong geometric compositions. Hawksbill turtles feeding under plate overhangs are a recurring subject. The good visibility on this outer reef site allows for environmental portraits that show the coral landscape in context.
+The plate coral architecture at this site is unusual and photogenic — wide-angle shots of the stacked formations create strong geometric compositions. The fish aggregation at the plate's northern corner at low tide is a confirmed, reliable subject.
 
 ---
-*Sources: [Dive the World - Great Barrier Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures](https://cairnsdiveadventures.com.au/), [Great Barrier Reef Tours](https://greatbarrierreeftours.com/great-barrier-reef/). Last updated 2026-05-30.*
+*Sources: [Divessi - Norman Reef Dive Guide](https://www.divessi.com/en/mydiveguide/destination/great-barrier-reef-9752730), [Reef Experience - Norman Reef](https://reefexperience.com.au/tour-information/reef-locations/norman-reef/), [Dive the World - Great Barrier Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php). Location corrected from Lizard Island to Norman Reef; marine-life list corrected to sourced species. Last updated 2026-08-03.*

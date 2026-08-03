@@ -2,7 +2,7 @@
 name: Steve's Bommie
 lat: -15.5012397
 lng: 145.7882636
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
 siteType: pinnacle
@@ -26,7 +26,7 @@ Divers consistently rate it among their best GBR experiences, and it appears on 
 - **Location**: Ribbon Reef No. 3, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20–35 metres
 - **Current**: Mild; light current keeps soft corals extended

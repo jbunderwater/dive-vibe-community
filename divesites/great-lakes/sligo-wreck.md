@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Sligo (Wreck)
 
-The Sligo is a 19th-century wooden schooner wreck lying in Lake Ontario near Toronto, Ontario. Sitting in approximately 20 metres of water in the western section of Lake Ontario, this wreck is one of the more accessible to divers based in Canada's largest city — a significant advantage for Toronto-area divers seeking weekend wreck dives without long drives.
+The Sligo is a schooner-barge, built in 1860 at St. Catharines and rebuilt in 1874, that sank in Humber Bay, Toronto, during a 1918 storm while under tow toward Hamilton with a cargo of roughly 500 tons of limestone. She now lies in approximately 20 metres (66 feet) of water less than a mile from shore.
 
 ## Overview
 
-Toronto, Ontario's position on the western shore of Lake Ontario makes it a reasonable base for Lake Ontario wreck diving, and the Sligo is among the wrecks accessible from Toronto-area dive operators. The wreck lies at approximately 20 metres in the western Lake Ontario basin, where cold, dark freshwater conditions have preserved the wooden hull over more than a century since sinking. The proximity to Toronto means this site receives more regular visitor traffic than many Great Lakes wrecks, and local dive clubs have documented the site thoroughly. Visibility in western Lake Ontario ranges from 3–10 metres — lower than the Kingston area due to the influence of runoff from the heavily developed Toronto shoreline.
+In 1918, while being towed toward Hamilton through a storm, the Sligo took on water; the combined weight of the water and her roughly 500-ton limestone cargo broke the towing line. She drifted into Humber Bay and sank less than a mile from shore with no loss of life. The wreck, about 42 metres (138 feet) long, now rests in approximately 20 metres (66 feet) of water and is a popular site for Toronto-area divers, including those learning to dive, though visibility can be limited by silt and algae. Toronto's position on the western shore of Lake Ontario makes it a reasonable base for Lake Ontario wreck diving. Visibility in western Lake Ontario ranges from 3–10 metres — lower than the Kingston area due to the influence of runoff from the heavily developed Toronto shoreline.
 
 ## Site Information
 
@@ -56,4 +56,4 @@ Western Lake Ontario offshore diving requires awareness of shipping traffic in a
 Photography in western Lake Ontario's reduced visibility challenges are real — supplemental lighting is essential. The wooden hull details, captured close-up with a torch, reveal the vessel's historical character despite ambient conditions.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [Zentacle - Sligo Wreck](https://www.zentacle.com/Beach/9325/sligo-wreck), [TDI/SDI - Best Dive Sites Near Toronto](https://www.tdisdi.com/sdi-diver-news/best-dive-sites-near-toronto/), [BlogTO - Here Are All the Sunken Ships in Toronto](https://www.blogto.com/sports_play/2021/05/sunken-ships-toronto/). Last updated 2026-08-03.*

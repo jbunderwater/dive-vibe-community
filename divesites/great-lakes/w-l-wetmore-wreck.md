@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## W. L. Wetmore (Wreck)
 
-The W. L. Wetmore is a 19th-century wooden schooner wreck in Fathom Five National Marine Park, Georgian Bay, Ontario. One of the cluster of historic vessels preserved in Canada's first national marine park dedicated to underwater heritage, the Wetmore lies in the exceptional clear water of Tobermory's Georgian Bay at approximately 20 metres.
+The W.L. Wetmore is a 213.7-foot (65.1m) steamer, built in Cleveland, Ohio in 1871, that wrecked in a November 1901 snowstorm while carrying timber through the channels north of Tobermory — the same storm that claimed the James C. King, which she had under tow. Most of her remains lie in just 6-8 metres of water in Fathom Five National Marine Park, making this one of the shallowest and most-visited wrecks in the park.
 
 ## Overview
 
-The W. L. Wetmore was a Great Lakes cargo schooner that met her end in Georgian Bay, joining the remarkable collection of historic vessels now preserved within Fathom Five National Marine Park. At 20 metres in the park's famously clear water — visibility regularly reaching 15–20 metres — this wreck offers an outstanding dive in pristine freshwater conditions. The cold Georgian Bay water (consistently near 4°C at this depth) has preserved the wooden hull in excellent condition. The park's protection ensures the wreck remains undisturbed. The Tobermory area's collection of wrecks at various depths from 7 to 45 metres makes it a world-class freshwater dive destination.
+The W.L. Wetmore was a 213.7-foot steamer built in 1871 in Cleveland, Ohio. In November 1901, while under way through the treacherous channels north of Tobermory in a snowstorm — towing the schooner-barge James C. King — she was lost, along with her tow. Most of the Wetmore's remains now lie in just 6-8 metres of water (some sources cite depths up to 28 feet/8.5m), making her one of the shallowest and most frequently dived wrecks in Fathom Five National Marine Park. Large sections of hull, an anchor and chain, the boiler, an unusual four-bladed screw, and the rudder are all visible on the lakebed. The park's famously clear water — visibility regularly reaching 15-20 metres — makes this an outstanding, accessible dive.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The W. L. Wetmore was a Great Lakes cargo schooner that met her end in Georgian 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 4–16°C (seasonal); bottom 4–6°C
 - **Current**: Minimal
@@ -41,8 +41,8 @@ Charter dive boats from Tobermory service the Wetmore as part of multi-site day 
 
 ## Tips and Recommendations
 
-- The W. L. Wetmore is one of several mid-depth (20m) wrecks in Fathom Five — often paired with Arabia (34m) or Forest City (45m) for a deeper second dive
-- Drysuit essential for bottom temperatures
+- The W.L. Wetmore's shallow depth makes it a good introductory wreck dive or second dive of the day, often paired with a deeper site like the Arabia (34m) or Forest City (45m)
+- Drysuit or thick wetsuit recommended even at this shallow depth — Georgian Bay stays cold
 - Excellent visibility makes wide-angle photography highly rewarding
 - Do not remove artifacts from this protected national park
 - Tobermory's dive scene is well-developed — excellent logistics and guided options available
@@ -53,7 +53,7 @@ Cold bottom water demands proper drysuit diving skills. Boat traffic in Tobermor
 
 ## Photography
 
-Georgian Bay's exceptional clarity makes the W. L. Wetmore a prime wide-angle wreck photography subject. The 20-metre depth with 15+ metre visibility allows dramatic hull profile shots with natural light. Lake trout encounters add wildlife photography opportunities.
+Georgian Bay's exceptional clarity makes the W.L. Wetmore a prime wide-angle wreck photography subject. The shallow depth with 15+ metre visibility allows full natural-light hull profile shots, and the visible four-bladed screw and boiler are compelling detail subjects.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [David Gibbins - Diving the Wreck of the Wetmore](http://davidgibbins.com/journal/2015/9/27/diving-the-wreck-of-the-wetmore-1899-tobermory-canada-september-2015), [Parks Canada - Fathom Five Dive & Snorkel Guide (PDF)](http://parkscanadahistory.com/publications/fathomfive/brochures/dive-snorkel-guide-e-2024.pdf), [Visit Tobermory - Shipwrecks](https://visittobermory.ca/profile/shipwrecks-in-tobermory/2380/). Last updated 2026-08-03.*

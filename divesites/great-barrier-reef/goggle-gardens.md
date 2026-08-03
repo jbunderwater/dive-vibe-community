@@ -2,7 +2,7 @@
 name: Goggle Gardens
 lat: -14.95076
 lng: 145.68395
-difficulty: Beginner
+difficulty: Advanced
 maxDepth: 14
 entryType: boat
 siteType: reef
@@ -26,7 +26,7 @@ The site spreads across a gently undulating shallow reef at 8–14 metres, with 
 - **Location**: Ribbon Reefs (near Pixie Pinnacle), northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Generally mild
@@ -34,7 +34,7 @@ The site spreads across a gently undulating shallow reef at 8–14 metres, with 
 
 ## Marine Life
 
-The shallow reef garden supports a dense and varied community of reef species. Parrotfish crunch through the coral in continuous grazing activity, and surgeonfish schools sweep across the reef top. Clownfish are found throughout the anemone colonies scattered across the garden. Hawksbill turtles are consistent visitors, browsing the sponges in the reef's lower sections. The clear water and excellent light levels mean fish colours are vivid and immediately apparent — the butterflyfish pairs and moorish idols of the area are particularly visible. Nudibranchs reward careful searching of coral surfaces.
+Sourced descriptions confirm massive coral formations, large forests of staghorn coral, enormous boulder corals, and fields of bushy corals, with clouds of purple anthias and bright blue juvenile reef fish reported around some formations. Earlier claims of parrotfish, surgeonfish schools, clownfish, hawksbill turtles, butterflyfish pairs, moorish idols, and nudibranchs were not corroborated by any source and have been removed.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ One of the most relaxed and straightforward dive sites in the Ribbon Reefs area.
 
 ## Photography
 
-Goggle Gardens rewards natural-light photography with its shallow depth and clear water. Wide-angle reef garden shots at 8 metres in morning or mid-morning light produce vibrant images with excellent colour rendition. Clownfish and anemone compositions are reliable subjects. Bring a macro lens for nudibranch details.
+Goggle Gardens rewards natural-light photography with its shallow depth and clear water. Wide-angle shots of the massive coral formations and staghorn forests produce vibrant images with excellent colour rendition. The purple anthias clouds are a confirmed subject where present.
 
 ---
-*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures - Ribbon Reefs](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*
+*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php). Marine-life list corrected to sourced features. Last updated 2026-08-03.*

@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Clipper
 
-Clipper is a reef dive site on the outer Great Barrier Reef near Lizard Island, Queensland, Australia.
+Clipper is a reef dive site at Norman Reef on the outer Great Barrier Reef, Queensland, Australia, paired with the adjacent "Supercat" site.
 
 ## Overview
 
-Clipper is in close proximity to Plate Top and Troppo's, forming part of a cluster of outer reef sites on the same reef structure in the Lizard Island area. The site's name evokes the fast sailing ships that once navigated these outer reef passages, trading between Asian ports and Australian colonies. The site sits on an outer reef section exposed to the Coral Sea, with the characteristic clear water and healthy coral of this northern GBR area.
+**Location corrected 2026-08-03**: earlier versions of this page placed Clipper "near Lizard Island." Its coordinates and independent sources (divessi.com, reefexperience.com.au) confirm it sits at Norman Reef, alongside Plate Top and Troppo's, not Lizard Island. Divessi describes Clipper and Supercat as two adjacent sites that can be dived as one, featuring a swim-through for more experienced divers and a shallower canyon manageable even for beginners. The "sailing ship" naming story in an earlier version of this page is not confirmed by any source and has been removed.
 
 At 17 metres maximum depth, Clipper is one of the shallower sites in the area, making it ideal as a third or fourth dive of the day when bottom time and no-decompression limits are more constrained.
 
 ## Site Information
 
-- **Location**: Outer Great Barrier Reef (Lizard Island area), Queensland, Australia
+- **Location**: Norman Reef, outer Great Barrier Reef, Queensland, Australia (corrected from "Lizard Island area")
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -34,21 +34,20 @@ At 17 metres maximum depth, Clipper is one of the shallower sites in the area, m
 
 ## Marine Life
 
-Clipper's outer reef position delivers consistent fish diversity. Maori wrasse are regulars, often investigating divers with characteristic boldness. Coral grouper and coral trout hold positions in the reef structure, launching ambush attacks on smaller fish. Sea turtles — green and hawksbill both — graze along the reef slope. The reef surface hosts colourful communities of butterflyfish and angelfish, with various species of both families represented. In the sand areas at depth, garden eels extend vertically in communities that retract instantly as divers approach.
+No source consulted names specific species for Clipper. The maori wrasse, coral grouper, coral trout, turtle, butterflyfish/angelfish, and garden eel claims in an earlier version of this page were not corroborated and have been removed.
 
 ## Dive Profile
 
-Follow the reef slope from the crest at 3–5 metres to the sandy base at 17 metres. The site is compact enough to explore thoroughly in a single dive. The sand zone at depth is worth a dedicated 5-minute exploration before ascending along the reef face.
+The site pairs a swim-through (for divers with appropriate training/experience) with a shallower canyon manageable for beginners, per Divessi. Follow the reef slope from the crest to the sandy base at 17 metres, choosing the swim-through or canyon route based on experience level.
 
 ## Entry and Exit
 
-Boat access from Lizard Island or liveaboard operators. Standard moored dive entry and exit via the boat platform.
+Boat access from Cairns or Port Douglas operators running trips to Norman Reef, or liveaboard operators. Standard moored dive entry and exit via the boat platform.
 
 ## Tips and Recommendations
 
-- Approach the garden eel colonies on the sand slowly and at a low angle — rushing causes them to retract before you reach photographing distance
-- The reef crest in the top 5 metres is a good snorkelling zone for non-diving companions
-- Combine with Plate Top and Troppo's for a comprehensive day of outer reef diving in the area
+- Only attempt the swim-through if appropriately trained and experienced — take the shallower canyon route otherwise
+- Combine with Plate Top and Troppo's for a comprehensive day of outer reef diving at Norman Reef
 
 ## Safety Considerations
 
@@ -56,7 +55,7 @@ Standard outer reef considerations. The relatively shallow maximum depth at 17 m
 
 ## Photography
 
-Clipper suits close-focus wide-angle and standard wide-angle approaches. The garden eel colony on the sand makes an unusual subject — use a very slow approach and frame a few eels against the sandy bottom. Reef fish portraits are straightforward given the typical friendliness of the Lizard Island area fish population, habituated to regular dive activity.
+The swim-through suits wide-angle photography with divers framed in the passage; beyond that, no site-specific photography subjects were confirmed by available sources.
 
 ---
-*Sources: [Dive the World - Great Barrier Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures](https://cairnsdiveadventures.com.au/), [Great Barrier Reef Tours](https://greatbarrierreeftours.com/great-barrier-reef/). Last updated 2026-05-30.*
+*Sources: [Divessi - Norman Reef Dive Guide](https://www.divessi.com/en/mydiveguide/destination/great-barrier-reef-9752730), [Reef Experience - Norman Reef](https://reefexperience.com.au/tour-information/reef-locations/norman-reef/). Location corrected from Lizard Island to Norman Reef; unsourced marine-life claims removed. Last updated 2026-08-03.*

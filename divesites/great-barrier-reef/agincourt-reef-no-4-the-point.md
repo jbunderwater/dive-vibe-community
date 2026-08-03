@@ -19,7 +19,7 @@ Agincourt Reef No. 4 - The Point is a reef dive site on the fourth section of Ag
 
 Agincourt No. 4 is the northernmost of the regularly dived Agincourt sections, positioned at a point where the reef system's northern end meets open water on multiple sides. This exposed position — "The Point" — funnels currents and concentrates the associated marine activity that current brings: filter feeders extended in the flow, predators positioned to intercept prey, and a general heightening of reef vitality.
 
-At 18 metres maximum depth, The Point offers slightly deeper diving than the southern Agincourt sections, with a more pronounced reef face that provides additional habitat structure. It is frequently rated the best site among the Agincourt sections by visiting divers.
+Our data lists a maximum depth of 18 metres, but Silverseries' own Agincourt Reef dive-site listing gives 25 metres for "The Point" at Agincourt Reef 4 with "magnificent coral cover" — noted here as an unresolved source conflict rather than silently changed.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ At 18 metres maximum depth, The Point offers slightly deeper diving than the sou
 
 ## Marine Life
 
-The point position produces the best pelagic sightings of the Agincourt sites. Schools of barracuda occupy the mid-water above the reef edge, and large trevally — giant trevally and golden trevally — hunt along the reef face. Reef sharks are present throughout, typically grey reef sharks cruising the exposed side. Sea turtles are abundant — the Agincourt Reef system has one of the higher turtle densities of any easily-accessible outer reef section. Maori wrasse are large and confident. The reef face at 14–18 metres has developed impressive gorgonian sea fans and soft coral growth due to the current exposure.
+Silverseries describes "magnificent coral cover" at this site but does not itemise species. No source consulted names specific fish or pelagic sightings for The Point; the barracuda, trevally, grey reef shark, turtle-density, and Maori wrasse claims in an earlier version of this page were not corroborated and have been removed. General Agincourt Reef fauna (turtles, reef sharks, reef fish diversity) can be expected but is not confirmed site-specific.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ The Point is the most current-affected of the Agincourt sites. Monitor your posi
 
 ## Photography
 
-The Point's current-driven marine activity creates outstanding opportunities for pelagic fish schools against the open water blue. Position yourself at the reef edge and let the schools come to you. The gorgonian sea fans on the deeper face are excellent for diver-in-context wide-angle images.
+The coral cover at The Point suits wide-angle reef photography. Beyond that, no site-specific photography subjects were confirmed by available sources.
 
 ---
-*Sources: [Silverseries - Silversonic Port Douglas](https://silverseries.com.au/silversonic/), [Visit Port Douglas - Agincourt Reef](https://visitportdouglas.com.au/port-douglas-region/great-barrier-reef/agincourt-reef/), [Poseidon Cruises Port Douglas](https://poseidon-cruises.com.au/great-barrier-reef/). Last updated 2026-05-30.*
+*Sources: [Silverseries - Great Barrier Reef Dive Sites](https://silverseries.com.au/dive-sites), [Visit Port Douglas - Agincourt Reef](https://visitportdouglas.com.au/port-douglas-region/great-barrier-reef/agincourt-reef/), [Poseidon Cruises Port Douglas](https://poseidon-cruises.com.au/great-barrier-reef/). Depth conflict (18m vs 25m per Silverseries) flagged; unsourced marine-life claims removed. Last updated 2026-08-03.*

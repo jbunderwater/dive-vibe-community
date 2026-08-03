@@ -17,9 +17,9 @@ Moore Reef - Labyrinth is a shallow reef dive site on Moore Reef, approximately 
 
 ## Overview
 
-The Labyrinth is the most distinctive dive site on Moore Reef, offering a coral maze of narrow passages, swim-throughs, and interconnected channels that give the site its name. The formation is created by closely-spaced coral bommies and reef structures that have grown together at their tops while remaining separated below, creating a three-dimensional puzzle of passages and dead-ends that divers navigate at very shallow depths.
+**Unresolved on 2026-08-03 re-audit**: despite multiple searches, this site's specific name ("Labyrinth") could not be independently corroborated. Operator site-maps for Moore Reef that were checked list sites named The Lagoon, Coral Gardens, The Drop Off, The Pinnacles, Shark Alley, and Turtle Bay, but not "Labyrinth." The entry originates from an OSM community survey rather than a dive-operator source, so it is retained rather than removed, but the maze/passage narrative below should be treated as unverified rather than confirmed fact. Moore Reef generally is documented to feature "dramatic drop offs, coral walls, and swim-throughs" (Great Barrier Reef Tours), which is consistent with — but does not specifically confirm — a maze-like site.
 
-The maximum depth of just 12 metres makes the Labyrinth the shallowest and most relaxed dive site at Moore Reef. It is popular as a final dive of the day when air and bottom time are limited, and it is equally well-suited as an introductory dive for beginners encountering complex reef navigation for the first time.
+The maximum depth of 12 metres (from OSM data) would make this the shallowest site at Moore Reef if the maze description is accurate.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ The maximum depth of just 12 metres makes the Labyrinth the shallowest and most 
 
 ## Marine Life
 
-The enclosed passages of the Labyrinth create sheltered microhabitats that support species not found in open reef areas. Wobbegong sharks rest on the sand in corners and dead-ends of the maze. Juvenile fish use the passages as nursery areas — small wrasse, juvenile parrotfish, and juvenile surgeonfish are more abundant here than on the open reef. Coral coverage within the passages is dense and largely undisturbed; the complex architecture protects the inner structures from wave action and larger grazing animals. Moray eels are consistently present. The sandy pockets within the maze hold blue-spotted stingrays.
+No source-confirmed, site-specific marine-life reports exist for this site. Wobbegong sharks are documented generally in the Cairns diving area (giant moray eels and wobbegongs are noted at "other nearby Cairns dive sites" per available sources) but not confirmed at this specific location. The wobbegong-in-dead-ends, juvenile-fish-nursery, and blue-spotted stingray claims in an earlier version of this page have been removed as unsourced.
 
 ## Dive Profile
 
@@ -46,18 +46,16 @@ Day trips from Cairns on the Moore Reef pontoon. Entry from the pontoon dive pla
 
 ## Tips and Recommendations
 
-- Pre-dive orientation is important: the pontoon dive guides will give a compass heading for the exit — note it before you enter the maze
-- Buoyancy control is critical here — do not grab or push off coral walls to navigate passages
-- The site is ideal for buoyancy practice after an open-water course
-- Wobbegong sharks in the dead-ends are a highlight — observe from a distance without cornering them
+- Confirm current site details and navigation guidance directly with Moore Reef pontoon dive staff, since this site's name could not be independently verified against operator sources
+- Buoyancy control is generally important around coral bommie clusters — avoid grabbing or pushing off coral to navigate
 
 ## Safety Considerations
 
-The enclosed passages could cause navigation confusion — always maintain a mental note of your orientation and ascent routes. Do not enter passages that narrow to the point where exit is uncertain. In poor visibility (uncommon at Moore Reef but possible after storms), use the compass provided during the briefing. Touch nothing — the coral walls are fragile and wobbegong sharks will bite if cornered.
+If the maze/passage description proves accurate, enclosed passages could cause navigation confusion — maintain a mental note of orientation and ascent routes, and do not enter passages that narrow to the point where exit is uncertain. Treat this guidance as precautionary pending confirmation of the site's actual layout.
 
 ## Photography
 
-The Labyrinth's narrow passages create dramatic perspective shots — wide-angle images looking down a coral corridor are visually striking. The wobbegong sharks in the dead-ends are excellent subjects if approached carefully. Juvenile fish portraits reward a macro lens in the inner passages.
+No source-confirmed photography subjects exist for this specific site pending further verification.
 
 ---
-*Sources: [Dive the World - Great Barrier Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures](https://cairnsdiveadventures.com.au/), [Great Barrier Reef Tours](https://greatbarrierreeftours.com/great-barrier-reef/). Last updated 2026-05-30.*
+*Sources: [Great Barrier Reef Tours - Moore Reef](https://greatbarrierreeftours.com/great-barrier-reef/cairns-great-barrier-reef/moore-reef/), [Dive the World - Great Barrier Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures](https://cairnsdiveadventures.com.au/). Site name "Labyrinth" could not be independently corroborated on 2026-08-03 re-audit; unsourced marine-life and feature claims removed. Flagged as unresolved.*

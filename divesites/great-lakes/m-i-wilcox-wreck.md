@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## M. I. Wilcox (Wreck)
 
-The M. I. Wilcox is a 19th-century wooden schooner wreck lying in the western basin of Lake Erie, near the Ohio-Michigan border area. This small cargo vessel is one of many schooners that sank in western Lake Erie's busy and dangerous shipping waters, now preserved in cold freshwater for divers to explore.
+The M. I. Wilcox is a three-masted wooden schooner, 140 feet long, that stranded and sank just offshore of Colchester, Ontario on May 8, 1906, while carrying a cargo of coal. She now lies in shallow water — sources report depths between roughly 22 and 26 feet (7-8 metres), noticeably shallower than the 20-metre figure previously listed for this site.
 
 ## Overview
 
-The western basin of Lake Erie was one of the most heavily trafficked stretches of water in 19th-century North America, connecting the port of Detroit with the Lake Erie ports of Toledo, Sandusky, and Cleveland. The M. I. Wilcox was among the hundreds of schooners that served this trade before succumbing to the lake's famous autumn storms. She lies at approximately 20 metres in the warm, relatively shallow western basin, where bottom temperatures remain cooler than the sun-warmed surface even in summer. The western basin's visibility is the most variable in Lake Erie, ranging from 2–3 metres in poor conditions to 10 metres when calm.
+The western basin of Lake Erie was one of the most heavily trafficked stretches of water in 19th-century North America, connecting the port of Detroit with the Lake Erie ports of Toledo, Sandusky, and Cleveland. The M. I. Wilcox, a three-masted schooner of Vermilion, Ohio, was carrying a cargo of coal when she stranded just offshore at Colchester, Ontario, and sank on May 8, 1906. Sources give slightly different resting depths, from about 22 to 26 feet (roughly 7-8 metres); one older Great Lakes vessel record lists the wreck under the similar name "M. J. Wilcox," which may reflect a transcription variant rather than a different vessel. She lies bow to the northeast in the shallow, relatively warm western basin, where visibility is the most variable in Lake Erie, ranging from 2–3 metres in poor conditions to 10 metres when calm.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The western basin of Lake Erie was one of the most heavily trafficked stretches 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 8 meters
 - **Typical Visibility**: 3–10 metres
 - **Water Temperature**: 4–24°C (seasonal); surface water is the warmest in the Great Lakes system in summer
 - **Current**: Variable; western Lake Erie develops current quickly with wind
@@ -43,8 +43,8 @@ Charter dive boats from Toledo, Ohio or Monroe, Michigan provide access. Western
 
 - Summer surface temperatures can be warm enough for a thin wetsuit — but dress for the bottom temperatures
 - Western Lake Erie visibility is the most unpredictable in the Great Lakes — always check conditions with local operators
-- The walleye and perch concentrations around this wreck are among the most impressive in freshwater diving
 - Plan dives during settled weather periods for best visibility
+- At a shallow 7-8 metres, this site also works well as a second or backup dive when conditions elsewhere are poor
 
 ## Safety Considerations
 
@@ -52,7 +52,7 @@ Western Lake Erie is the most dangerous lake section for rapidly developing stor
 
 ## Photography
 
-Dense fish aggregations — perch, walleye, and bass — make the M. I. Wilcox an outstanding wildlife photography site. Close-approach photography of walleye is possible in the dim conditions near the wreck at dawn light. Video with dive lights brings colour to what would otherwise be monochrome ambient conditions.
+The shallow depth allows good natural light penetration for wide-angle shots of the hull. Video with dive lights brings out colour and detail that ambient light alone would not reveal in the deeper, more silt-affected sections.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [Erie Wrecks - M.I. Wilcox](http://www.eriewrecks.com/shipwrecks/wilcox/wilcox.html), [Alchem Incorporated - Western Erie Shipwrecks](https://www.alcheminc.com/west.html), [Maritime History of the Great Lakes - M.J. Wilcox](https://images.maritimehistoryofthegreatlakes.ca/details.asp?ID=58660). Last updated 2026-08-03.*

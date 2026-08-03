@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## The Tugs (Wreck)
 
-The Tugs wreck site in Fathom Five National Marine Park, Tobermory, Ontario, refers to a pair of small tug boats that were sunk as diving attractions in Georgian Bay. These compact steel vessels offer a different character from the 19th-century wooden schooners typical of the park — their mechanical complexity and intimate scale make for engaging exploration in Tobermory's famously clear water.
+The Tugs is a shore-accessible dive site at the mouth of Little Tub Harbour, Tobermory, featuring the wreckage of four small steam tugs — Alice G, Robert K, John & Alex, and one unidentified vessel — in a maximum depth of about 13 metres. It is one of only a few shore dives within Fathom Five National Marine Park, reached via a wooden deck and stairs into the water.
 
 ## Overview
 
-Small steam or diesel tugs were the workhorses of Great Lakes harbours throughout the late 19th and early 20th centuries, pushing and pulling larger vessels through harbour approaches and canal locks. The tug wrecks at Tobermory — multiple small vessels in relatively close proximity — were deliberately sunk or accidentally lost in the Georgian Bay waters and have since been incorporated into the Fathom Five National Marine Park dive experience. At approximately 20 metres in the park's exceptional visibility (10–20 metres), the tugboat wrecks provide compact, machinery-rich diving experiences that complement the longer exploration of the larger sailing ship wrecks nearby.
+Small steam tugs were the workhorses of Great Lakes harbours in the late 19th and early 20th centuries. Four of them — Alice G, Robert K, John & Alex, and a fourth, unidentified tug — now lie scattered near the mouth of Little Tub Harbour in Tobermory, in a maximum depth of approximately 13 metres (40 feet). Unlike most Fathom Five wrecks, this site is shore-accessible: a wooden deck with stairs leads directly into the water, and conditions here tend to be clear and comparatively warm relative to the rest of the park. The compact scale and mechanical detail of the tugs make for an engaging, accessible dive suitable for a range of skill levels.
 
 ## Site Information
 
-- **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
-- **Entry Type**: Boat dive
+- **Location**: Little Tub Harbour, Fathom Five National Marine Park, Tobermory, Ontario, Canada
+- **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 13 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 4–16°C (seasonal); bottom 4–6°C
 - **Current**: Minimal
@@ -37,23 +37,23 @@ No site-specific marine-life reports were found in the sources consulted for thi
 
 ## Entry and Exit
 
-Charter dive boats from Tobermory Harbour include the Tugs in their multi-site day tours. Entry by giant stride. Deploy SMB on ascent. A Fathom Five National Marine Park day pass is required.
+The Tugs is reached by shore entry via a wooden deck and stairs at the mouth of Little Tub Harbour — one of the few shore-access dive sites within Fathom Five National Marine Park. A Fathom Five National Marine Park day pass is required. Some operators also include the site in boat-based multi-site tours.
 
 ## Tips and Recommendations
 
+- As a shore dive, The Tugs is a convenient option that doesn't require a charter booking
 - The compact tugboat wrecks provide a different experience from the large sailing ships that Tobermory is best known for
 - Great site for examining machinery details and hardware in manageable scale
-- Combine with one of the park's larger wrecks (Arabia, Philo Scoville) for a varied dive day
-- Drysuit essential for cold bottom temperatures
-- The tug scale makes them appropriate for photographers working on detailed close-up images
+- Combine with one of the park's boat-accessed wrecks (Arabia, Philo Scoville) for a varied dive day
+- A wetsuit is generally sufficient given the shallow, comparatively warm conditions here relative to the rest of the park
 
 ## Safety Considerations
 
-Standard Fathom Five safety considerations. Cold bottom water at 20 metres demands proper thermal protection (drysuit). Boat traffic in Tobermory is high in summer — always deploy an SMB before ascending. Park regulations must be observed. Dive with a buddy.
+Standard Fathom Five safety considerations. Boat traffic near the harbour mouth is present in summer — stay aware of surface traffic even on a shore dive. Park regulations must be observed. Dive with a buddy.
 
 ## Photography
 
-The compact scale of The Tugs makes them ideal for close-up detail photography of machinery, gauges, and hardware. Georgian Bay's exceptional clarity allows excellent ambient light wide-angle shots of the entire vessel in a single frame. Mechanical details photographed in natural light have a compelling, archival quality.
+The compact scale of The Tugs makes them ideal for close-up detail photography of machinery, gauges, and hardware. Georgian Bay's exceptional clarity allows excellent ambient light wide-angle shots at this shallow depth.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [Parks Canada - Big Tub and Little Tub Dive Sites](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive/activ2a), [Scuba Diver Life - Scuba Diving Tobermory](https://scubadiverlife.com/scuba-diving-tobermory/), [Chronicle of an Older Diver - Diving the Tugs in Tobermory's Little Tub Harbour](https://deepstop.wordpress.com/2008/12/05/diving-the-tugs-in-tobermorys-little-tub-harbour/). Last updated 2026-08-03.*

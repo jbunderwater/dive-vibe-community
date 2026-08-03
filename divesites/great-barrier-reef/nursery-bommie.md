@@ -2,8 +2,8 @@
 name: Nursery Bommie
 lat: -16.0309501
 lng: 145.8563177
-difficulty: Beginner
-maxDepth: 20
+difficulty: Intermediate
+maxDepth: 27
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -17,28 +17,28 @@ Nursery Bommie is a coral pinnacle dive site on the outer Great Barrier Reef nea
 
 ## Overview
 
-Nursery Bommie takes its name from the exceptional density of juvenile fish that shelter in and around the bommie's structure. The complex architecture of the pinnacle — crevices, overhangs, soft coral branches, and anemone fields — provides ideal nursery habitat for the young of many reef species, creating concentrations of juvenile fish life that are not found on simpler reef structures.
+Silverseries lists Nursery Bommie (Agincourt Reef 2) as a "stunning 24 metre pinnacle," and several independent tourism/travel listings (Tropical North Queensland, Queensland.com, Wannadive) describe the coral column as rising from a base of 25-30 metres. This is a substantial correction from an earlier version of this page, which listed a 20-metre maximum depth — our data now uses 27 metres as a documented midpoint within the sourced 24-30m range. Wannadive also notes the site is current-prone and best dived on the incoming tide.
 
-The bommie rises to 20 metres on a sandy base, with the typical GBR bommie profile of a steep, colonised structure providing habitat across multiple depth zones simultaneously. The juvenile fish assemblage makes this site particularly interesting for divers interested in fish identification and behavioural observation.
+No source found explains the "Nursery" name via a density of juvenile fish, as an earlier version of this page claimed — that explanation is presented here as a plausible but unconfirmed theory rather than fact.
 
 ## Site Information
 
 - **Location**: Outer Great Barrier Reef near Port Douglas, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Mild
 - **Best Time**: August to November; year-round
 
 ## Marine Life
 
-Juvenile fish are the defining feature — small parrotfish, juvenile wrasse, baby grouper, and the larvae-stage young of many species that are invisible at other times find refuge in the bommie's structure. Adult fish are equally present: maori wrasse, large coral grouper, and lionfish occupy the bigger crevices. Clownfish colonies in the anemones are a constant attraction. The sandy base holds blue-spotted stingrays. Nudibranchs are reliable on the soft coral surfaces. The site name notwithstanding, adult reef sharks patrol the deeper margins — whitetip reef sharks resting on the sand at 18–20 metres are common.
+No source consulted names specific species for Nursery Bommie beyond confirming it as a current-prone pinnacle site. The juvenile-fish assemblage, maori wrasse, coral grouper, lionfish, blue-spotted stingrays, nudibranchs, and whitetip reef shark claims in an earlier version of this page were not corroborated by any source and have been removed. General outer-GBR bommie fauna can be expected but is not confirmed site-specific.
 
 ## Dive Profile
 
-Begin at the sandy base at 18–20 metres to observe the resting sharks and stingrays before ascending the bommie structure. The densest juvenile fish activity is in the 8–15 metre zone, particularly around the anemone clusters and soft coral branches. Finish the dive circling the bommie top at 5–8 metres in the best light.
+Given the current-prone nature of the site noted by Wannadive, plan the dive on the incoming tide. Begin near the sandy base and work up the pinnacle structure toward the shallower top, consistent with the typical GBR bommie profile.
 
 ## Entry and Exit
 
@@ -46,17 +46,16 @@ Boat access from Port Douglas or liveaboard. Standard bommie descent by shot lin
 
 ## Tips and Recommendations
 
-- Take time to study the juvenile fish — the bommie is an outdoor fish identification class, with juvenile colour phases of common species present at every depth
-- The clownfish colonies are highly photogenic and reliably easy to approach
-- Look carefully in the crevices for juvenile moray eels and small reef fish hiding from the adult predators that also use the bommie
+- Check tide timing before booking — sources note the site is best dived on the incoming tide due to current
+- Given the greater confirmed depth (24-30m vs the previous listing's 20m), plan gas and no-decompression limits accordingly
 
 ## Safety Considerations
 
-Standard outer reef dive. The maximum depth of 20 metres requires attention to no-decompression limits if doing multiple dives. Mild conditions overall.
+The corrected depth range (24-30m) requires more careful no-decompression planning than the previously listed 20m. The site is also reported as current-prone — check conditions with the boat crew before descent.
 
 ## Photography
 
-The juvenile fish at Nursery Bommie are unusual photographic subjects — the juvenile colour phases of common species are often strikingly different from adults and make interesting images. Wide-angle bommie shots with the anthias cloud and clownfish anemone in frame are straightforward here. A macro lens rewards patient searching among the coral.
+No site-specific photography subjects were confirmed by available sources; treat this as a standard outer-reef pinnacle dive for photography planning purposes.
 
 ---
-*Sources: [Silverseries - Silversonic Port Douglas](https://silverseries.com.au/silversonic/), [Visit Port Douglas - Agincourt Reef](https://visitportdouglas.com.au/port-douglas-region/great-barrier-reef/agincourt-reef/), [Poseidon Cruises Port Douglas](https://poseidon-cruises.com.au/great-barrier-reef/). Last updated 2026-05-30.*
+*Sources: [Silverseries - Great Barrier Reef Dive Sites](https://silverseries.com.au/dive-sites), [Tropical North Queensland - Nursery Bommie](https://tropicalnorthqueensland.org.au/listing/product/nursery-bommie-dive-site/), [Wannadive - Nursery Bommie](https://www.wannadive.net/spot/Australia_Pacific/Australia/QLD/Cairns_and_Port_Douglas/Nursery_Bommie/), [Queensland.com - Nursery Bommie](https://www.queensland.com/us/en/things-to-do/attractions/p-56b265897b935fbe730e4a65-nursery-bommie-dive-site). Depth corrected from 20m to 27m (sourced range 24-30m); unsourced marine-life claims removed. Last updated 2026-08-03.*

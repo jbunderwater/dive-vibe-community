@@ -2,7 +2,7 @@
 name: Lighthouse Bommie
 lat: -14.875091
 lng: 145.689982
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 27
 entryType: boat
 siteType: pinnacle
@@ -26,8 +26,8 @@ By day the bommie serves as a cleaning and resting station for green and hawksbi
 - **Location**: Ribbon Reef No. 9, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters (sources report 25-30m)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Variable; can strengthen with tidal changes
 - **Best Time**: July to November
@@ -56,7 +56,7 @@ Night dives require careful buddy management and a pre-agreed surface signal. Mo
 
 ## Photography
 
-The Spanish dancer nudibranch is the photographic trophy at Lighthouse Bommie. Its large size (up to 60cm) means standard macro lenses capture detailed close-ups, while wider focal lengths can capture the full animal in context. Use a torch for positioning, then a focus light for camera autofocus. The moray eels make excellent daytime portrait subjects in their crevice frames.
+Turtles sleeping in the coral and giant trevally hunting at night are the standout subjects at Lighthouse Bommie. Wide-angle shots of the pinnacle with trevally schools work well; macro shooters can work the crevices for mantis shrimp, flame file shells, and pipefish.
 
 ---
-*Sources: [Spirit of Freedom - Ribbon Reefs](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Great Barrier Reef Liveaboards - Ribbon Reefs](https://greatbarrierreefliveaboards.com/reef-location/ribbon-reefs/), [Cairns Tours - Ribbon Reefs](https://cairns-tours.com/article/what-are-the-ribbon-reefs), [Diversion Dive Travel - Lighthouse Bommie](https://www.diversiondivetravel.com.au/g2659/diving_lighthouse_bommie.html). Last updated 2026-05-30.*
+*Sources: [Spirit of Freedom - Ribbon Reefs](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Diversion Dive Travel - Lighthouse Bommie](https://www.diversiondivetravel.com.au/g2659/diving_lighthouse_bommie.html), [Tropical North Queensland - Lighthouse Bommie](https://tropicalnorthqueensland.org.au/listing/product/lighthouse-bommie-dive-site/), [Queensland.com - Lighthouse Bommie](https://www.queensland.com/au/en/things-to-do/attractions/p-56b265837b935fbe730e4a1b-lighthouse-bommie-dive-site). Depth conflict (25m vs 30m across sources) and marine-life list corrected on re-audit. Last updated 2026-08-03.*
