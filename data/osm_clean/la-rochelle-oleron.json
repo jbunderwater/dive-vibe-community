@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Épave du Sauerland",
+    "lat": 46.0930134,
+    "lon": -1.7039336,
+    "osm_id": 10876656898,
+    "osm_type": "node",
+    "depth": 36,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "access": "yes",
+      "description": "Le Sauerland (épave 1944) , Longueur environ  150m , profondeur 30 à 40m de fond , précision de localisation environ 5m (GPS Tomtom)",
+      "historic": "wreck",
+      "name": "Épave du Sauerland",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "non-dangerous",
+      "wreck:date_sunk": "1944-08-12",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "no",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "samdiving.fr,plongee-anges.com,sous-la-mer.com,wlb-stuttgart.de",
+      "last_qa_date": "2026-07-26"
+    }
+  },
+  {
+    "name": "Épave du Cornélis",
+    "lat": 46.13715,
+    "lon": -1.6993,
+    "depth": 33,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "plongee-infos.com,samdiving.fr",
+      "last_qa_date": "2026-07-26"
+    }
+  },
+  {
+    "name": "Épave du U-667",
+    "lat": 46.10728,
+    "lon": -1.58675,
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "samdiving.fr,sous-la-mer.com,uboat.net",
+      "last_qa_date": "2026-07-26"
+    }
+  },
+  {
+    "name": "Épave du Nautilus",
+    "lat": 46.1835,
+    "lon": -1.5397,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "samdiving.fr,sous-la-mer.com,aquadive.over-blog.com",
+      "last_qa_date": "2026-07-26",
+      "position": "approximate (1.2 nm SSW of Pointe de Grignon, Ars-en-Ré)"
+    }
+  },
+  {
+    "name": "Épave du M4204",
+    "lat": 46.0975,
+    "lon": -1.701,
+    "depth": 36,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "samdiving.fr",
+      "last_qa_date": "2026-07-26",
+      "position": "approximate (about 600 m from the Sauerland wreck)"
+    }
+  },
+  {
+    "name": "B-17 de l'île d'Aix",
+    "lat": 46.0,
+    "lon": -1.205,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "samdiving.fr,b17flyingfortress.de",
+      "last_qa_date": "2026-07-26",
+      "position": "approximate (off Île d'Aix per dive operators)"
+    }
+  },
+  {
+    "name": "Épave du Saint-Yves",
+    "lat": 46.11965,
+    "lon": -1.47625,
+    "depth": 35,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "plongee-infos.com",
+      "last_qa_date": "2026-07-26"
+    }
+  },
+  {
+    "name": "Plateau de Chaucre",
+    "lat": 45.98,
+    "lon": -1.408,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "voyage-plongee.com,guide-charente-maritime.com",
+      "last_qa_date": "2026-07-26",
+      "position": "approximate (off Pointe de Chaucre, Saint-Georges-d'Oléron)"
+    }
+  }
+]

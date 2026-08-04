@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Épave du Sauerland",
+    "filename": "épave-du-sauerland.md",
+    "lat": 46.0930134,
+    "lng": -1.7039336,
+    "difficulty": "Advanced",
+    "maxDepth": 36,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 10876656898
+  },
+  {
+    "name": "Épave du Cornélis",
+    "filename": "épave-du-cornélis.md",
+    "lat": 46.13715,
+    "lng": -1.6993,
+    "difficulty": "Advanced",
+    "maxDepth": 33,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Épave du U-667",
+    "filename": "épave-du-u-667.md",
+    "lat": 46.10728,
+    "lng": -1.58675,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Épave du Nautilus",
+    "filename": "épave-du-nautilus.md",
+    "lat": 46.1835,
+    "lng": -1.5397,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Épave du M4204",
+    "filename": "épave-du-m4204.md",
+    "lat": 46.0975,
+    "lng": -1.701,
+    "difficulty": "Advanced",
+    "maxDepth": 36,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "B-17 de l'île d'Aix",
+    "filename": "b-17-de-lîle-daix.md",
+    "lat": 46.0,
+    "lng": -1.205,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Épave du Saint-Yves",
+    "filename": "épave-du-saint-yves.md",
+    "lat": 46.11965,
+    "lng": -1.47625,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Plateau de Chaucre",
+    "filename": "plateau-de-chaucre.md",
+    "lat": 45.98,
+    "lng": -1.408,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]
