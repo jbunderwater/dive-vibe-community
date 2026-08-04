@@ -33,11 +33,7 @@ Kingston, Ontario is often called the freshwater wreck diving capital of North A
 
 ## Marine Life
 
-The Kingston-area wreck community is consistent across the dozen-plus wrecks in the area. Smallmouth bass are dominant — bold, curious fish that approach divers closely and add life to any wreck exploration. Yellow perch school around the masts and rigging. Round gobies carpet the silty bottom. Occasional walleye sightings add excitement. Heavy zebra mussel colonization below 8 metres armours the hull surfaces while providing invertebrate habitat.
-
-## Dive Profile
-
-The Olive Branch lies upright (or close to it) on the lakebed. Standard bow-to-stern exploration. The hull features — windlass, capstan, hatches, and tiller or wheel — are the primary points of interest. Ascend on the mooring line. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Standard Lake Ontario/Kingston area safety precautions. Cold water, limited visi
 
 ## Photography
 
-The Olive Branch offers typical Kingston wreck photography: wooden hull detail, hardware, and resident smallmouth bass in the characteristic blue-green of Lake Ontario. A torch or video light significantly improves image quality.
+A torch or video light significantly improves image quality.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

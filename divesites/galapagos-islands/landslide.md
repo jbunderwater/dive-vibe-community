@@ -37,7 +37,7 @@ Scalloped hammerhead sharks are the main attraction, often appearing in schools 
 
 ## Dive Profile
 
-Divers make negative entries from the panga directly into the current. The slope begins at approximately 9–10 meters and descends to 37 meters. The typical strategy is to descend along the rubble field, find a sheltered position among the boulders, and hold — active swimming against the current is counterproductive and disturbs the sharks. The dive is current-assisted, drifting along the slope as conditions allow. Plan gas reserves carefully for safety stops in open water.
+Divers make negative entries from the panga directly into the current. The slope begins at approximately 9–10 meters and descends past recreational limits — sources describe the boulder field continuing to roughly 50 meters at the base — so dives here are typically planned to a 37-meter working maximum. The typical strategy is to descend along the rubble field, find a sheltered position among the boulders, and hold — active swimming against the current is counterproductive and disturbs the sharks. The dive is current-assisted, drifting along the slope as conditions allow. Plan gas reserves carefully for safety stops in open water.
 
 ## Entry and Exit
 
@@ -56,4 +56,4 @@ Access is by panga (zodiac tender) from the liveaboard vessel. Wolf Island is ap
 Strong currents are always present and can intensify without warning. Downcurrents have been reported. Negative entries are mandatory. This site requires solid buoyancy control, drift diving experience, and comfort in open-ocean conditions. Always carry an SMB and audible surface signaling device. Dive with your buddy and follow divemaster instructions for group management.
 
 ---
-*Sources: [Galapatours – El Derrumbe / Landslide](https://www.galapatours.com/highlights/el-derrumbe-diving-wolf), [Happy Gringo – Darwin & Wolf Islands](https://happygringo.com/blog/darwin-and-wolf-islands/), [Dive The World – Darwin & Wolf Island](https://www.dive-the-world.com/diving-sites-galapagos-darwin-wolf-island.php), [Starfish.ch – Northern Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-north.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-30.*
+*Sources: [Galapatours – El Derrumbe / Landslide](https://www.galapatours.com/highlights/el-derrumbe-diving-wolf), [Happy Gringo – Darwin & Wolf Islands](https://happygringo.com/blog/darwin-and-wolf-islands/), [Dive The World – Darwin & Wolf Island](https://www.dive-the-world.com/diving-sites-galapagos-darwin-wolf-island.php), [Starfish.ch – Northern Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-north.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-08-03.*

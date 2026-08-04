@@ -23,7 +23,7 @@ Pa'ipa'i descends to around 20–25 metres at the channel floor before shoaling 
 
 ## What to Expect
 
-Grey reef sharks are present in the pass on incoming tides, consistent with Society Islands pass diving generally. Whitetip reef sharks are also encountered along the channel walls and reef edges. The yellow coral formations on the pinnacles and pass walls are a visual highlight. Trevally, surgeonfish, and barracuda pass through the channel. Eagle rays are expected. The pass offers a typical high-current Society Islands drift experience with reef shark encounters.
+Grey reef sharks are present in the pass on incoming tides, confirmed by Te Mara Nui's listing for Tiva Pass, and are consistent with Society Islands pass diving generally. Whitetip reef sharks are also encountered along the channel walls and reef edges. The yellow coral formations on the pinnacles and pass walls are a visual highlight, and canyon-like terrain is confirmed along the route. Trevally, surgeonfish, and barracuda pass through the channel. Note: an eagle ray claim in an earlier draft was not corroborated by any source reviewed here and has been removed. The pass offers a typical high-current Society Islands drift experience with reef shark encounters.
 
 ## Conditions
 
@@ -33,17 +33,9 @@ Grey reef sharks are present in the pass on incoming tides, consistent with Soci
 - **Water temperature**: 27–28°C
 - **Entry**: Boat drift dive; guide mandatory
 
-## Conditions
-
-- **Best season**: April–November; aggregation peaks vary seasonally
-- **Visibility**: 30–40 m on incoming tide
-- **Current**: Very strong (3–5 knots at peak); fins and positioning critical
-- **Water temperature**: 27–28°C
-- **Entry**: Boat drift dive; guide mandatory
-
 ## Tips
 
-This is strictly an Advanced dive and is frequently listed as the flagship site by Raiatea and Taha'a dive operators. Dives are conducted with small groups and experienced local guides who know the shark behaviour cycles. Buoyancy mastery and strong fin technique are mandatory — divers who cannot manage the current will be unsafe and will disturb the aggregation. Book in advance with Taha'a or Raiatea-based operators who specialise in this site.
+This is strictly an Advanced dive and is frequently listed as a flagship site by Raiatea and Taha'a dive operators. Dives are conducted with small groups and experienced local guides who know current and shark behaviour patterns. Buoyancy mastery and strong fin technique are mandatory — divers who cannot manage the current will be unsafe and may disturb the marine life. Book in advance with Taha'a or Raiatea-based operators who specialise in this site.
 
 ---
-*Sources: [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa), [Tahiti.com - Scuba Diving Raiatea Taha'a](https://www.tahiti.com/activities/first-dive-3145), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/). Last updated 2026-05-30.*
+*Sources: [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa), [Tahiti.com - Scuba Diving Raiatea Taha'a](https://www.tahiti.com/activities/first-dive-3145), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Te Mara Nui Diving - Raiatea](https://te-mara-nui.com/en/diving.html). Re-audited 2026-08-03: added a fourth independent source (Te Mara Nui) which corroborates the yellow-coral wall/canyon description; confirmed no source supports a "wall of hundreds of sharks" claim for this pass specifically (that phenomenon belongs to Fakarava's South Pass), so the prior correction stands. Last updated 2026-08-03.*

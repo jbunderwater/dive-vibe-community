@@ -33,11 +33,7 @@ Lake Erie, despite being the shallowest of the Great Lakes, has claimed hundreds
 
 ## Marine Life
 
-Yellow perch dominate the wreck community in Lake Erie, often encountered in large schools hovering over the deck. Walleye — for which Lake Erie is famous — are occasionally spotted near the wreck, particularly in early morning or evening. Smallmouth and largemouth bass use the hull as structure, and lake trout patrol the edges of the debris field. Zebra mussels cover all hard surfaces. Round gobies are omnipresent on the bottom around the wreck.
-
-## Dive Profile
-
-Descend to the wreck top and explore from bow to stern. The wreck lies on a flat sandy bottom, making orientation and navigation easy for intermediate divers. Hull features including the capstan, anchoring hardware, and cargo hold are the main points of interest. Begin your ascent with adequate reserve gas. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Lake Erie has a well-earned reputation for dangerous weather. Its shallow depth 
 
 ## Photography
 
-Lake Erie wrecks offer a distinctive photographic palette — the muted blue-green water, silty bottom, and encrusted hull textures create moody, atmospheric images. Yellow perch schools hovering around the wreck make excellent natural framing elements. A torch adds warmth and contrast to interior shots.
+Lake Erie wrecks offer a distinctive photographic palette — the muted blue-green water, silty bottom, and encrusted hull textures create moody, atmospheric images. A torch adds warmth and contrast to interior shots.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

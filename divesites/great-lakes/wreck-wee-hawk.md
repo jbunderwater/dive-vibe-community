@@ -33,11 +33,7 @@ The Wee Hawk — a small vessel whose diminutive name suggests a compact craft �
 
 ## Marine Life
 
-The Thousand Islands section of the St. Lawrence supports excellent freshwater biodiversity. Northern pike are common near small vessel wrecks — they use the compact structure as hunting cover. Smallmouth bass inhabit the hull openings. Yellow perch school around the wreck. Crayfish are abundant on the bottom debris. The flowing river water maintains better visibility and less mussel colonization than equivalent lake sites.
-
-## Dive Profile
-
-The Wee Hawk's small scale means complete hull exploration is possible in a single dive. Navigate the exterior carefully, examining all accessible areas. Use the hull as current shelter while exploring. On ascent, deploy SMB early for the dive boat to track your position in the river current. Coordinate pickup carefully.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ St. Lawrence River current requires active dive planning. Assess conditions befo
 
 ## Photography
 
-The compact scale of the Wee Hawk makes full-hull photography possible in the Thousand Islands' excellent visibility. Northern pike portraits in the flowing river are outstanding. The clarity of the St. Lawrence gives freshwater wreck photography a distinctive, luminous character.
+The compact scale of the Wee Hawk makes full-hull photography possible in the Thousand Islands' excellent visibility. The clarity of the St. Lawrence gives freshwater wreck photography a distinctive, luminous character.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

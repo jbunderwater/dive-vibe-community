@@ -36,4 +36,4 @@ The upper part of the fissure (10–20 m) has good coral coverage with glassfish
 A maximum depth of 40 m means this site is suitable for Advanced Open Water divers and above. Monitor bottom time carefully and begin ascent from depth with a 3-minute safety stop at 5 m. A torch is essential for illuminating the fissure walls below 20 m.
 
 ---
-*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center – Spots](https://www.eleutheratahiti.com/en/diving/spots), [Scubago – La Faille St Etienne](https://www.scubago.com/en/explore/divesite/la-faille-st-etienne-tahiti-128416). Last updated 2026-05-30.*
+*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center – Spots](https://www.eleutheratahiti.com/en/diving/spots), [Scubago – La Faille St Etienne](https://www.scubago.com/en/explore/divesite/la-faille-st-etienne-tahiti-128416). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

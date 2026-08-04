@@ -13,13 +13,13 @@ addedBy: osm_import
 
 ## Halfway Wall
 
-Halfway Wall is a soft coral wall dive at Osprey Reef in the Coral Sea, Queensland, Australia, situated between the North Horn and Castle sites on the atoll's eastern face.
+Halfway Wall is a wall dive at Osprey Reef in the Coral Sea, Queensland, Australia, located midway between the North Horn and False Entrance moorings.
 
 ## Overview
 
-Halfway Wall runs along a section of Osprey Reef's outer face where the reef descends as a gently sloping wall rather than a vertical drop. The wall surface is densely colonised by soft corals, sea fans, and whip corals — a feature of Osprey Reef's remote Coral Sea position, where nutrient-rich currents sweep past and nourish filter feeders. The result is a wall that appears draped in a living tapestry, with soft corals of multiple species cascading down the face to the maximum dive depth.
+Diversion Dive Travel and other operator sources place the Halfway Wall mooring on the edge of the wall, with a scatter of bommies rising from around 20 metres while the main wall face drops away beneath the boat to over 1,000 metres. This corrects an earlier version of this page, which placed the site "between North Horn and Castle" — no source found supports that description; the consistent operator reference point is False Entrance, not Castle.
 
-The site provides an excellent middle option on Osprey Reef liveaboard itineraries — less intense than the North Horn shark feed but more varied than the standard Coral Sea reef dive.
+The site provides an excellent middle option on Osprey Reef liveaboard itineraries — less intense than the North Horn shark feed but with strong pelagic potential of its own.
 
 ## Site Information
 
@@ -34,11 +34,11 @@ The site provides an excellent middle option on Osprey Reef liveaboard itinerari
 
 ## Marine Life
 
-The soft coral forest on the wall hosts an array of associated species: sea fans are decorated with long-nosed hawkfish, and crinoids anchor to the branching structures and extend their feeding arms. Nudibranchs — including the large chromodoris species characteristic of the Coral Sea — move across the wall surface. Reef fish typical of the outer reef — surgeonfish, butterflyfish, Moorish idols — populate the upper wall. In the mid-water beyond the wall edge, grey reef sharks cruise, and occasional Spanish mackerel and wahoo flash through. Sea turtles rest on the broader ledges.
+Operator dive logs (Diversion Dive Travel, Dive the World) report grey reef sharks, whitetip reef sharks, occasional hammerheads, manta rays, Maori wrasse, barracuda, and dogtooth tuna at this site, alongside soft coral cover on the wall face. Earlier claims of long-nosed hawkfish on sea fans, chromodoris nudibranchs, and Spanish mackerel/wahoo sightings were not corroborated by any source and have been removed.
 
 ## Dive Profile
 
-Begin at the wall top at around 8 metres and descend slowly along the face to the maximum depth of 22 metres. The richest soft coral coverage is typically found between 12 and 18 metres. Ascend by moving across the face rather than straight up, to continue encountering new sections of wall. The reef top provides a comfortable safety stop zone with abundant fish life.
+Explore the bommies scattered around 20 metres near the mooring, then work along the wall face which drops away toward 1,000+ metres — stay within recreational limits and use the bommie tops as reference points rather than following the wall down. The reef top provides a comfortable safety stop zone.
 
 ## Entry and Exit
 
@@ -56,7 +56,7 @@ Wall dives require consistent depth monitoring — it is easy to drift deeper th
 
 ## Photography
 
-Halfway Wall excels for wide-angle photography with divers positioned against the soft coral backdrop and the blue water column extending below. Use a strobe to bring out the orange and red tones of the soft corals, which appear dull without artificial light at depth. Sea fans with associated hawkfish provide excellent close-focus wide-angle compositions.
+Halfway Wall suits wide-angle photography with divers positioned against the soft coral backdrop and the blue water column extending below the wall. Pelagic subjects (barracuda, tuna, occasional manta rays) reward divers who position themselves off the wall edge and wait.
 
 ---
-*Sources: [Mike Ball Dive Expeditions - Osprey Reef Liveaboard](https://www.mikeball.com/great-barrier-reef-liveaboard/osprey-reef-liveaboard/), [Spirit of Freedom - 4 Night Liveaboard](https://www.spiritoffreedom.com.au/dive-liveaboards/4-night-liveaboard-dive-trip/), [Dive the World - Osprey Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php), [Cairns Dive Adventures - Osprey Reef](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*
+*Sources: [Mike Ball Dive Expeditions - Osprey Reef Liveaboard](https://www.mikeball.com/great-barrier-reef-liveaboard/osprey-reef-liveaboard/), [Spirit of Freedom - 4 Night Liveaboard](https://www.spiritoffreedom.com.au/dive-liveaboards/4-night-liveaboard-dive-trip/), [Dive the World - Osprey Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php), [Diversion Dive Travel - Half Way Wall](https://www.diversiondivetravel.com.au/g2651/diving_half_way_wall_.html). Last updated 2026-08-03.*

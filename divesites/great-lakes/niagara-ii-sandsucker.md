@@ -33,11 +33,7 @@ The Niagara II was built in 1930 as a tanker and later converted to a sand-dredg
 
 ## Marine Life
 
-Like all Tobermory wrecks, the Niagara II supports an active freshwater community. Lake trout are commonly seen at this depth. Smallmouth bass have colonized the hull and machinery. Yellow perch school around the vessel. The industrial machinery offers plentiful hiding places for freshwater crayfish and invertebrates. Georgian Bay's lake whitefish are occasionally seen in the water column above the wreck.
-
-## Dive Profile
-
-The Niagara II sits upright on a sandy bottom with the main deck at approximately 18–20 metres and the bottom at 25 metres. The dredging machinery on deck is the main attraction — explore the suction pipes, pump housings, and mechanical equipment that made this vessel work before her retirement. Ascend on the mooring line for a standard 3-minute safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -60,4 +56,4 @@ Cold bottom water at 25 metres requires proper thermal protection. Drysuit divin
 The Niagara II's industrial machinery is visually distinctive from the wooden sailing ships typical of Tobermory. Macro photography of engine components, pipe joints, and mechanical details is rewarding. Wide-angle shots of the full vessel in Fathom Five's exceptional clarity are dramatic.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Niagara This Week - Sand-sucker Lives on as Dive Wreck](https://www.niagaranow.com/news.phtml/2122-sand-sucker-lives-on-as-dive-wreck), [Bottomless Divers - Niagara II Tobermory](https://bottomlessdivers.com/blog/niagara2tobermory), [Parks Canada - Fathom Five Dive Sites](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive). Last updated 2026-08-03.*

@@ -33,11 +33,7 @@ Lock 27 is part of the system of bypassed canals that preceded the modern St. La
 
 ## Marine Life
 
-The lock's submerged stonework creates micro-habitat that supports a variety of freshwater species. Northern pike are common, using the shelter of the lock structure as ambush points. Smallmouth bass inhabit the corners and sheltered sections of the lock chamber walls. Crayfish are abundant on all stone surfaces. Yellow perch school in the open water of the chamber. Native freshwater mussels and aquatic insects colonize the stonework. In calmer sections near the lock walls, aquatic vegetation provides additional shelter for juvenile fish.
-
-## Dive Profile
-
-The defined walls and floor of the lock chamber provide natural navigation. Enter and explore along one wall, then return along the other to cover the full structure. The architecture of the lock — mitre gates (or their remnants), sill stones, and wall drainage features — are interesting engineering subjects. Maximum depth 20 metres. Plan ascent and exit logistics with the dive boat before entering due to current management requirements.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

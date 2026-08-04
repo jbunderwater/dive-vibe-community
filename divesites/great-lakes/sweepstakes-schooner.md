@@ -33,11 +33,7 @@ The Sweepstakes was a 36-metre two-masted schooner that sank in 1885 after susta
 
 ## Marine Life
 
-The Sweepstakes is alive with freshwater species attracted to the sunlit, shallow hull. Smallmouth bass are bold and abundant, approaching divers to within arm's reach. Sunfish hover in the warm upper section of the hull. Yellow perch school around the mast stumps. Crayfish inhabit every crevice of the hull and debris field. In summer, the shallower hull sections carry aquatic plant growth that provides habitat for juvenile fish. Northern pike occasionally visit the harbour.
-
-## Dive Profile
-
-At 7 metres maximum depth, the Sweepstakes offers unlimited bottom time with no decompression concerns. Descend to the bottom of the harbour and explore the hull at leisure — swim from bow to stern, look down into the open hold, examine the mast stumps, and explore the deck hardware. The protected harbour setting means minimal current and excellent orientation. No formal safety stop required at this depth, but pausing at 3 metres before surfacing is good practice.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

@@ -13,13 +13,11 @@ addedBy: osm_import
 
 ## Castle
 
-Castle is a deeper reef dive site at Osprey Reef in the Coral Sea, Queensland, Australia, named for the imposing coral formations that rise from the reef floor like battlements.
+Castle is a dive site at Osprey Reef in the Coral Sea, Queensland, Australia, built around a series of "volcano-style" coral bommies rising along the edge of a steep sloping wall.
 
 ## Overview
 
-Castle sits on the outer reef platform of Osprey Reef, south of the North Horn area, where the reef builds impressive three-dimensional coral structures rather than dropping away as a sheer wall. The site's name refers to turreted formations of hard coral — massive Porites bommies, table coral stacks, and consolidated reef structures that create a vertical landscape reminiscent of a fortified castle when viewed from the sandy channels between them.
-
-At 24 metres maximum depth, Castle is the deepest of the Osprey Reef recreational sites and is reserved for intermediate and above divers. The deeper zone is where the reef sharks congregate most reliably and where pelagic visitors from the open Coral Sea make their appearances.
+According to sourced descriptions of the "Castles" mooring at Osprey Reef, the site is only a few hundred metres from the mooring and features a 45-degree sloping wall descending toward the reef's 1,000-metre drop-off. A series of volcano-shaped coral bommies rises just before the drop-off along the length of the site, with caves along the sloping wall and gaps in the reef that let divers swim up into a shallow, sandy lagoon area. This corrects an earlier version of this page, which described "turreted" coral formations and "battlements" — language not supported by any source found and removed on re-audit.
 
 ## Site Information
 
@@ -34,11 +32,11 @@ At 24 metres maximum depth, Castle is the deepest of the Osprey Reef recreationa
 
 ## Marine Life
 
-Grey reef sharks are the defining large species at Castle, patrolling the channels between the coral formations with characteristic lazy confidence. Hawksbill and green sea turtles rest on the flat surfaces of the coral structures and are often approached closely. Eagle rays cruise the mid-water between formations, and occasional manta rays are sighted at depth. The coral itself is among the best preserved at Osprey Reef, with excellent table coral coverage and large soft coral sea fans decorating the deeper faces. Barracuda and trevally school over the reef top in open water.
+No source consulted names specific species observed at Castle itself. Osprey Reef as a whole is documented to hold grey reef and silvertip sharks, occasional hammerheads, and schools of tuna and trevally, and this general Coral Sea fauna can be expected here, but the turtle, manta ray, and eagle ray claims in an earlier version of this page were not tied to this specific site by any source and have been removed.
 
 ## Dive Profile
 
-Descend to the sandy channels at 20–24 metres to explore the base of the castle formations and encounter reef sharks. Work upward through the channels and overhangs before reaching the reef flat at 12–15 metres. The Coral Sea's clear water means distant structures are visible throughout, helping with navigation and orientation. Allow ample bottom time for the 5-minute safety stop at 5 metres.
+Explore the volcano-shaped bommies along the top of the sloping wall, and use the caves and reef breaks to swim up into the shallow, sandy lagoon area described by dive operators. The Coral Sea's clear water means distant structures are visible throughout, helping with navigation and orientation.
 
 ## Entry and Exit
 
@@ -52,11 +50,11 @@ Liveaboard access only. Giant stride or back roll entry, free descent to reef to
 
 ## Safety Considerations
 
-Castle's depth requires careful gas management and depth monitoring. NDL limits at 24 metres must be observed. The intermediate rating reflects the depth commitment and the variable currents that can make buoyancy control more demanding than shallower Osprey sites. Always ascend slowly — Coral Sea dives at depth warrant a 3-minute safety stop minimum.
+Castle's depth requires careful gas management and depth monitoring. NDL limits at 24 metres must be observed. The Advanced rating reflects the depth commitment, the wall/drop-off exposure, and the variable currents that can make buoyancy control more demanding than shallower Osprey sites. Always ascend slowly — Coral Sea dives at depth warrant a 3-minute safety stop minimum.
 
 ## Photography
 
-The coral architecture at Castle is ideal for wide-angle environmental images. Shoot along the channels between formations with a diver exploring in the background. The grey reef sharks provide classic GBR-Coral Sea shark imagery, and the visibility allows for impressive environmental portraits with the blue water visible beyond the reef structures.
+The volcano-shaped bommies and cave formations at Castle suit wide-angle environmental images, with the wall's blue water as a backdrop. Beyond that, no site-specific photography subjects were confirmed by available sources.
 
 ---
-*Sources: [Mike Ball Dive Expeditions - Osprey Reef Liveaboard](https://www.mikeball.com/great-barrier-reef-liveaboard/osprey-reef-liveaboard/), [Spirit of Freedom - 4 Night Liveaboard](https://www.spiritoffreedom.com.au/dive-liveaboards/4-night-liveaboard-dive-trip/), [Dive the World - Osprey Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php), [Cairns Dive Adventures - Osprey Reef](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*
+*Sources: [Mike Ball Dive Expeditions - Osprey Reef Liveaboard](https://www.mikeball.com/great-barrier-reef-liveaboard/osprey-reef-liveaboard/), [Spirit of Freedom - 4 Night Liveaboard](https://www.spiritoffreedom.com.au/dive-liveaboards/4-night-liveaboard-dive-trip/), [Dive the World - Osprey Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php), [Scuba Dive Maps - Castles, Osprey Reef](https://www.scubadivemaps.com/dive_site/castles-osprey-reef/). Last updated 2026-08-03.*

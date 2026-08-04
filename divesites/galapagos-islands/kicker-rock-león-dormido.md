@@ -19,11 +19,11 @@ The most iconic dive in San Cristóbal — twin volcanic tuff pillars split by a
 
 Kicker Rock (León Dormido — "Sleeping Lion") is located approximately 1.5 hours by boat northeast of Puerto Baquerizo Moreno on San Cristóbal Island. The formation is the eroded remnant of a vertical tuff cone that rises above the ocean surface and is split by a narrow channel — the primary dive corridor. The two rock faces and the channel between them create a layered underwater environment: vertical walls descending 20-30 meters in the channel, and open-ocean depths beyond the formation where pelagic species congregate. This is the flagship dive site for San Cristóbal and one of the most celebrated in the entire Galápagos system.
 
-The channel concentrates pelagic species drawn by nutrient-rich currents sweeping the exposed formation. Marine life abundance peaks from May to November when cooler, nutrient-dense water creates more active feeding conditions. Hammerhead sightings are reported year-round, with groups of 20 or more documented in the channel by multiple operators.
+The channel concentrates pelagic species drawn by nutrient-rich currents sweeping the exposed formation. Sources disagree on the best season: some operators cite May through November/December, when cooler, nutrient-dense water brings stronger current and more shark activity, while at least one local dive shop guide names January through May as the peak window for hammerhead abundance. Hammerhead sightings are reported year-round at Kicker Rock, but reported group sizes vary widely by source and by dive — trip reports describe everything from single sharks and small groups of two or three up to a reported group of nine; no source reviewed here documents schools in the dozens at this site (unlike Darwin's Arch or Wolf Island, where much larger schools are consistently reported).
 
 ## Marine Life
 
-Whitetip reef sharks and Galapagos sharks are the most consistently reported encounters throughout the dive. Scalloped hammerhead sharks regularly appear in the channel in schools — multiple sources report groups of 20 or more, particularly in the cooler season. Spotted eagle rays and golden rays are commonly sighted. Green sea turtles and sea lions are present. Barracuda schools, moray eels, octopus, parrotfish, and surgeonfish inhabit the wall formations. The plateau area hosts sea urchins and various reef fish. Manta rays are seen seasonally.
+Whitetip reef sharks and Galapagos sharks are the most consistently reported encounters throughout the dive. Scalloped hammerhead sharks appear in the channel, though reported numbers vary considerably by trip and source — from single individuals to groups of around ten. Spotted eagle rays and golden rays are commonly sighted. Green sea turtles and sea lions are present. Blacktip reef sharks, barracuda schools, moray eels, octopus, parrotfish, and surgeonfish inhabit the wall formations. The plateau area (described by one dive shop as "devoid of reef, with only rocks and sea urchins") is where divers commonly position themselves to wait for sharks. Manta rays are seen seasonally.
 
 ## Dive Profile
 
@@ -41,13 +41,13 @@ All dives are by guided day trip from Puerto Baquerizo Moreno. Tours include two
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-15 meters (variable; can be excellent or reduced by current)
-- **Current**: Moderate to strong, especially May-November; direction can reverse in the channel
+- **Current**: Moderate to strong; direction can reverse in the channel
 - **Water Temperature**: 21-30°C (warm season Jan-Apr); 21-27°C (cool season May-Dec)
-- **Best Time**: May-November for strongest current and most reliable shark activity
+- **Best Time**: Sources disagree — some cite May-November for strongest current and most reliable shark activity generally, while another local operator names January-May as best for hammerhead abundance specifically
 
 ## Safety Considerations
 
 Strong and variable currents, particularly through the channel, require good buoyancy control and current diving experience. Divers should stay close to the wall and be prepared to adjust for surge. The exposed open-ocean position means conditions can deteriorate quickly. SMB use is mandatory. Advanced or minimum Intermediate certification is expected.
 
 ---
-*Sources: [Happy Gringo – Kicker Rock Galapagos Guide](https://happygringo.com/blog/kicker-rock-galapagos-leon-dormido/), [Aquaventures GPS – Diving at Kicker Rock](https://aquaventuresgps.com/what-its-like-to-dive-at-kicker-rock-depth-marine-life-practical-tips/), [Planet Ocean Galapagos – Kicker Rock](https://planetoceangalapagos.com/en/kicker-rock/), [The Portuguese Traveler – Diving Kicker Rock](https://theportuguesetraveler.com/galapagos/san-cristobal/diving-in-kicker-rock/). Last updated 2026-05-30.*
+*Sources: [Happy Gringo – Kicker Rock Galapagos Guide](https://happygringo.com/blog/kicker-rock-galapagos-leon-dormido/), [Aquaventures GPS – Diving at Kicker Rock](https://aquaventuresgps.com/what-its-like-to-dive-at-kicker-rock-depth-marine-life-practical-tips/), [Aquaventures GPS – Complete Guide to Kicker Rock](https://aquaventuresgps.com/complete-guide-kicker-rock-a-diving-paradise-in-san-cristobal-galapagos/), [Planet Ocean Galapagos – Kicker Rock](https://planetoceangalapagos.com/en/kicker-rock/), [The Portuguese Traveler – Diving Kicker Rock](https://theportuguesetraveler.com/galapagos/san-cristobal/diving-in-kicker-rock/). Last updated 2026-08-03.*

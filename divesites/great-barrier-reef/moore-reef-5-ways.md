@@ -34,7 +34,7 @@ The 5 Ways site is a short swim or boat transfer from the pontoon and offers the
 
 ## Marine Life
 
-The five converging channels concentrate plankton and attract reef fish in feeding aggregations. Maori wrasse are numerous and confident around the pontoon area. Sea turtles are a near-guarantee at Moore Reef — both green and hawksbill turtles are resident in the reef system and frequently encountered at the 5 Ways site. Leopard sharks (zebra sharks) are commonly sighted resting on the sand. Whitetip reef sharks patrol the channel edges. The reef itself supports healthy hard coral coverage with butterflyfish, parrotfish, and surgeonfish in constant activity. Bumphead parrotfish groups occasionally pass through the channels.
+Moore Reef as a whole is documented (Pure Snorkelling, operator listings) as abundant in soft corals and marine life, with friendly Maori wrasse and large schools of jacks reported reef-wide. No source names species specific to the 5 Ways channel confluence itself; the leopard shark, whitetip reef shark, bumphead parrotfish, and named-resident-turtle claims in an earlier version of this page were not corroborated and have been removed.
 
 ## Dive Profile
 
@@ -48,8 +48,7 @@ Day trips depart from Cairns marina (Reef Fleet Terminal) with multiple operator
 
 - Book the first dive slot on the pontoon to experience the site before the day's snorkelling traffic begins
 - The 5 Ways confluence is best during an incoming tide when current draws nutrients across the site
-- Introductory (discover scuba) dives are well-suited to this site — it is shallow, calm, and rich in large, approachable marine life
-- Ask about the resident turtle by name — pontoon dive guides typically know the individual animals
+- Introductory (discover scuba) dives are well-suited to this site — it is shallow and calm
 
 ## Safety Considerations
 
@@ -57,7 +56,7 @@ Moore Reef is the most supervised and supported dive environment on the GBR — 
 
 ## Photography
 
-Moore Reef's clear outer reef water and abundant large animals make it excellent for beginner underwater photographers. Sea turtles are the primary subject — approach slowly from the side and the turtles typically continue feeding, allowing close-range portraits. The maori wrasse are similarly cooperative. Wide-angle reef landscapes are achievable without strobes in the morning light.
+Moore Reef's clear outer reef water suits beginner underwater photography, with the confirmed friendly Maori wrasse as a cooperative subject reef-wide. Wide-angle reef landscapes are achievable without strobes in the morning light.
 
 ---
-*Sources: [Dive the World - Great Barrier Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures](https://cairnsdiveadventures.com.au/), [Great Barrier Reef Tours](https://greatbarrierreeftours.com/great-barrier-reef/). Last updated 2026-05-30.*
+*Sources: [Dive the World - Great Barrier Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures](https://cairnsdiveadventures.com.au/), [Great Barrier Reef Tours](https://greatbarrierreeftours.com/great-barrier-reef/), [Pure Snorkelling - Moore Reef](https://puresnorkelling.au/exclusive-reef-locations/moore-reef/). Unsourced species-specific claims removed on re-audit. Last updated 2026-08-03.*

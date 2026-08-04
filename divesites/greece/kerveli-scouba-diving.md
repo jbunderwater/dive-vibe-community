@@ -34,4 +34,4 @@ Note: A previous version of this description included claims about seahorses, po
 - **Currents**: None
 
 ---
-*Sources: [Kerveli Dive Center — Samos dive sites](https://samos-scuba.com/dive-sites/), [Scuba Hellas — Samos diving packages](https://www.scubahellas.com/package/package-samos/), [TripAdvisor — Kerveli Dive Center, Samos](https://www.tripadvisor.com/Attraction_Review-g1192015-d17559277-Reviews-Kerveli_Dive_Center_Samos-Kerveli_Samos_Northeast_Aegean_Islands.html). Last updated 2026-06-04.*
+*Sources: [Kerveli Dive Center — Samos dive sites](https://samos-scuba.com/dive-sites/), [Scuba Hellas — Samos diving packages](https://www.scubahellas.com/package/package-samos/), [TripAdvisor — Kerveli Dive Center, Samos](https://www.tripadvisor.com/Attraction_Review-g1192015-d17559277-Reviews-Kerveli_Dive_Center_Samos-Kerveli_Samos_Northeast_Aegean_Islands.html). Re-audit note (2026-08-03): samos-scuba.com was unreachable (DNS failure) at re-audit time; prior verified content retained rather than re-confirmed. A low-authority aggregator suggesting a shallower depth range could not be corroborated and was not incorporated. Last updated 2026-08-03.*

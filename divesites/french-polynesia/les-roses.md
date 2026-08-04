@@ -36,4 +36,4 @@ The *Porites* bommies are encrusted with smaller corals, hydroids, and sponges, 
 Wide-angle lenses are recommended for capturing the scale of the coral bommies. Swim slowly through the passages between heads to spot smaller species, and look along the sand at the base of the bommies where flatfish and small rays rest.
 
 ---
-*Sources: [Dive and Sea Tahiti - Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots), [Tahiti Tourisme](https://tahititourisme.pf/). Last updated 2026-05-30.*
+*Sources: [Dive and Sea Tahiti - Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots), [Tahiti Tourisme](https://tahititourisme.pf/). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

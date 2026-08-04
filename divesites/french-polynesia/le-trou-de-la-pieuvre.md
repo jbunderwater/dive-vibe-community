@@ -36,4 +36,4 @@ Day octopuses (*Octopus cyanea*) are the target species here — active during d
 Octopus are most active in the first few hours after sunrise when actively hunting. Ask your dive guide about the current status of the resident animal — octopus change dens periodically. Avoid touching or disturbing octopus; they are highly intelligent and stressed animals will retreat and hide.
 
 ---
-*Sources: [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Tahiti Tourisme - Raiatea](https://www.tahititourisme.com/activities/diving/raiatea/). Last updated 2026-05-30.*
+*Sources: [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Tahiti Tourisme - Raiatea](https://www.tahititourisme.com/activities/diving/raiatea/). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

@@ -13,13 +13,11 @@ addedBy: osm_import
 
 ## Round the Bend
 
-Round the Bend is a reef dive site at Osprey Reef in the Coral Sea, situated near the northern tip of the atoll, Queensland, Australia.
+Round the Bend (listed by some operators as "Around the Bend") is a dive site at Osprey Reef in the Coral Sea, Queensland, Australia, known for an isolated bommie that serves as a manta ray cleaning station.
 
 ## Overview
 
-Round the Bend takes its name from its position just around the corner from the dramatic North Horn shark feed site. Divers who have just experienced the intensity of North Horn are often surprised by how different this nearby site feels — calmer, more intimate, and focused on the reef rather than the open water. The site follows the edge of Osprey Reef's northern plateau, where the reef drops away on one side to deep water while shallower reef gardens spread inward toward the atoll lagoon.
-
-The contrast between the exposed outer wall and the sheltered inner reef creates excellent diversity: wall species on the outer edge and garden reef species in the shallower sections, all within a single dive.
+Operator sources describe Around the Bend as typically a drift dive that starts on Osprey Reef's 1,000-metre outer wall before reaching an isolated bommie at around 32 metres, off the wall, which functions as a manta ray cleaning station and draws big fish life. This is a significant correction to an earlier version of this page, which omitted the manta cleaning station — the site's defining feature — entirely. Our listed maximum depth of 18 metres reflects the shallower reef-garden portion nearer the plateau; divers wanting the cleaning station should expect a deeper, more advanced profile (source-reported depth conflict noted, not resolved to a single figure).
 
 ## Site Information
 
@@ -34,11 +32,11 @@ The contrast between the exposed outer wall and the sheltered inner reef creates
 
 ## Marine Life
 
-The Coral Sea's exceptional water clarity means the fish life at Round the Bend is highly visible from a distance. Grey reef sharks are present throughout, often cruising the reef edge in small groups. Large Napoleon wrasse make regular appearances, and schools of bumphead parrotfish occasionally pass through on their grazing circuits. The reef gardens hold dense populations of butterflyfish, moorish idols, and anthias, while the wall face features sea fans and whip corals. Sea turtles and eagle rays are commonly sighted in the mid-water.
+Manta rays are the signature species, visiting the cleaning-station bommie at depth. Beyond that specific report, no source names further species unique to this site — general Osprey Reef fauna (grey reef sharks, sea fans, whip corals) can be expected, but the Napoleon wrasse, bumphead parrotfish, eagle ray, and moorish idol claims in an earlier version of this page were not sourced to this site and have been removed.
 
 ## Dive Profile
 
-A gentle arc following the reef edge from shallow (8 metres) to the maximum dive depth at 18 metres, then returning via the reef top. The corner point where the site rounds from the wall exposure to the sheltered garden is typically the most productive area for pelagic sightings. Currents at the corner can create up-currents — maintain buoyancy control during transitions.
+A drift dive starting on the outer wall, working toward the isolated cleaning-station bommie at around 32 metres where mantas are reported, or a shallower arc across the reef garden up to 18 metres for divers not chasing the deeper bommie. Currents at the corner can create up-currents — maintain buoyancy control during transitions.
 
 ## Entry and Exit
 
@@ -47,8 +45,7 @@ Liveaboard access; Osprey Reef is reached after approximately 18–24 hours from
 ## Tips and Recommendations
 
 - Dive this site as a complement to North Horn — the contrast between the two experiences is part of what makes Osprey Reef memorable
-- Watch the blue water off the wall edge for passing pelagics — barracuda, tuna, and occasional hammerheads are sighted here
-- The corner point concentrates current-driven plankton, attracting feeding activity — position yourself there early in the dive
+- Ask your guide whether the day's dive plan includes the deeper manta cleaning station bommie, as this affects the dive profile significantly
 
 ## Safety Considerations
 
@@ -56,7 +53,7 @@ Osprey Reef's remote location means any medical assistance is hours away; conser
 
 ## Photography
 
-Coral Sea visibility makes Round the Bend excellent for wide-angle shooting. Frame reef fish against the blue water column, or shoot along the reef edge at 15 metres with divers silhouetted above. The Napoleon wrasse and grey reef sharks make reliable wide-angle subjects.
+Coral Sea visibility makes Round the Bend excellent for wide-angle shooting. The manta cleaning station bommie is the standout subject if the dive plan reaches it; otherwise the wall and reef edge provide standard Osprey Reef wide-angle opportunities.
 
 ---
-*Sources: [Mike Ball Dive Expeditions - Osprey Reef Liveaboard](https://www.mikeball.com/great-barrier-reef-liveaboard/osprey-reef-liveaboard/), [Spirit of Freedom - 4 Night Liveaboard](https://www.spiritoffreedom.com.au/dive-liveaboards/4-night-liveaboard-dive-trip/), [Dive the World - Osprey Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php), [Cairns Dive Adventures - Osprey Reef](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*
+*Sources: [Mike Ball Dive Expeditions - Osprey Reef Liveaboard](https://www.mikeball.com/great-barrier-reef-liveaboard/osprey-reef-liveaboard/), [Spirit of Freedom - 4 Night Liveaboard](https://www.spiritoffreedom.com.au/dive-liveaboards/4-night-liveaboard-dive-trip/), [Dive the World - Osprey Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php), [Scuba Dive Maps - Around the Bend, Osprey Reef](https://www.scubadivemaps.com/dive_site/around-bend-osprey-reef/). Manta cleaning station detail added; depth conflict flagged. Last updated 2026-08-03.*

@@ -36,4 +36,4 @@ Grey reef sharks aggregate in the Iriru pass on incoming tides — the specific 
 The eastern exposure makes Iriru weather-sensitive; confirm conditions with operators before booking. This pass rewards divers who are comfortable managing current with their fin position and body trim rather than fighting it. The relative quiet of the eastern Raiatea reef makes early morning dives at Iriru particularly productive.
 
 ---
-*Sources: [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Te Mara Nui Diving - Raiatea](https://te-mara-nui.com/en/diving.html), [Hemisphere Sub - Raiatea](https://www.hemispheresub.com/en/). Last updated 2026-05-30.*
+*Sources: [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Te Mara Nui Diving - Raiatea](https://te-mara-nui.com/en/diving.html), [Hemisphere Sub - Raiatea](https://www.hemispheresub.com/en/). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

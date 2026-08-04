@@ -2,8 +2,8 @@
 name: Challenger Bay
 lat: -14.9154407
 lng: 145.6903158
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -17,28 +17,26 @@ Challenger Bay is a sheltered reef dive site in the Ribbon Reefs of the northern
 
 ## Overview
 
-Challenger Bay occupies a naturally protected embayment between Ribbon Reef sections, offering calm conditions that make it a reliable dive site even when weather affects more exposed parts of the outer reef. The bay's sheltered character creates a different ecological dynamic from the exposed pinnacles and walls of the area — coral growth is denser in the protected lower zones, and the reduction in surge encourages macro life to colonise surfaces that would be too exposed elsewhere.
-
-The site is a favourite for night dives on liveaboard itineraries due to its calm, predictable conditions and rich invertebrate community after dark.
+Spirit of Freedom's Ribbon Reefs site listing describes Challenger Bay as a sandy bottom with scattered bommies, ranging from around 30 metres at its base to 5 metres at the top, and notes it as good for both day and night dives. This corrects an earlier version of this page, which listed an 18-metre maximum depth — a significant discrepancy now resolved in favour of the sourced 30m figure.
 
 ## Site Information
 
 - **Location**: Ribbon Reefs, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 metres
 - **Current**: Minimal; well sheltered
 - **Best Time**: Year-round; one of the more reliable sites in adverse conditions
 
 ## Marine Life
 
-The sheltered coral heads and bommies within the bay host a strong community of reef fish, with coral grouper, large parrotfish, and batfish moving through the formations. Nudibranch diversity is high throughout the bay, with species found on every hard substrate. Flatworms, hairy shrimp, and tiny crustaceans inhabit the rubble and coral edges. At night, spotted and painted crayfish emerge from the reef, and Spanish dancer nudibranchs have been sighted here on night dives. Whitetip reef sharks are regularly encountered resting on the sandy floor between coral heads.
+Spirit of Freedom's site listing confirms batfish, sweetlips, mackerel, tuna, barracuda, moray eels, giant trevally, octopus, lionfish, reef sharks, fusiliers, giant clams, and anthias. Earlier claims of coral grouper, specific parrotfish/nudibranch diversity, flatworms, hairy shrimp, crayfish, and Spanish dancer nudibranchs were not corroborated by this or any other source and have been removed.
 
 ## Dive Profile
 
-Begin at the deeper coral bommies at 15–18 metres, working upward through the coral formations to the shallower zone. The bay floor is mostly sand with scattered coral heads, making navigation easy. Night dives follow a similar profile with a focus on the coral edges and rubble zones at 8–12 metres, where nocturnal invertebrates are most active.
+Begin at the deeper bommies and work upward through the sandy-bottomed terrain with scattered coral heads toward the shallower zone, consistent with the site's 30m base to 5m top profile. Night dives are specifically noted as a good option here.
 
 ## Entry and Exit
 
@@ -46,18 +44,16 @@ Liveaboard access. Typically moored directly in the bay, allowing easy entry and
 
 ## Tips and Recommendations
 
-- Request a night dive here — the sheltered conditions make it an ideal introduction to GBR night diving
-- Check under table corals and along reef edges for flatworms and small nudibranchs
-- The sandy channels between coral heads are productive for blue-spotted stingrays and sleeping nurse sharks
-- Conditions here are among the most forgiving in the Ribbon Reefs section — a good choice for divers acclimatising to liveaboard diving
+- Request a night dive here — Spirit of Freedom specifically notes it as good for both day and night dives
+- With a corrected maximum depth of 30 metres, plan gas and no-decompression limits accordingly — this is deeper than the site's previous 18m listing suggested
 
 ## Safety Considerations
 
-Challenger Bay is one of the safest sites in the Ribbon Reefs. Currents are minimal and the shallow maximum depth limits any decompression concerns. Night dives should still follow standard buddy protocols with primary and backup lighting.
+The corrected 30-metre maximum depth requires more attention to no-decompression limits than the previous 18m listing suggested. Currents are reported as minimal given the sheltered bay location.
 
 ## Photography
 
-The bay's calm conditions make it ideal for macro work — no surge to disturb camera positioning. Nudibranchs, flatworms, and small crustaceans reward patient photographers with a diopter or macro lens. Night dives offer Spanish dancer nudibranchs, crayfish, and hunting octopuses as subjects in reliably still water.
+Octopus and lionfish are confirmed subjects here; beyond that, no further site-specific photography subjects were corroborated by available sources.
 
 ---
-*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures - Ribbon Reefs](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*
+*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php). Depth corrected from 18m to 30m; marine-life list corrected to sourced species. Last updated 2026-08-03.*

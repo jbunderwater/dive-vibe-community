@@ -32,7 +32,7 @@ Shallow Turbo is the more beginner-accessible sibling of Deep Turbo in the Gili 
 
 ## Marine Life
 
-Turtles are reliably sighted. Reef sharks cruise the outer reef. Schools of snapper and fusiliers follow the current. Cuttlefish hover near coral heads. Clownfish in anemones are common throughout the upper reef sections. Moray eels and parrotfish in the coral structure.
+Sea turtles are a reliable sighting over the sandy bottom and coral heads. Whitetip reef sharks are seen resting or cruising the reef. Pufferfish, batfish, and unicornfish are common on the reef. Garden eels colonise the sandy patches, and ghost pipefish can be found among the coral heads for those who look closely.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Even gentle drift requires SMB carry and drift pickup procedures. Do not attempt
 
 ## Photography
 
-Turtles in the current-swept reef are accessible wide-angle subjects. Clownfish portraits in anemones suit macro or close-focus wide-angle. The natural light in 6–15 m produces vivid coral colour without strobe.
+Turtles in the current-swept reef are accessible wide-angle subjects. Ghost pipefish and garden eels reward a macro lens and patience. The natural light in 6–15 m produces vivid coral colour without strobe.
 
 ---
-*Sources: [Trawangan Dive – dive sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Divine Divers – Gili sites](https://divinedivers.com/dive-sites/). Last updated 2026-05-30.*
+*Sources: [Trawangan Dive – dive sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Divine Divers – Gili dive sites](https://divinedivers.com/dive-sites/), [Trawangan Stingray Divers – Shallow Turbo](https://www.trawanganstingraydivers.com/dive-site/dive-site-gili-trawangan/shallow-turbo/). Re-verified 2026-08-03: rewrote marine life section — the previous version listed snapper, fusiliers, cuttlefish, clownfish, and moray eels, none of which were corroborated for this specific site by the sources above (Gili Divers and Manta Dive's general listing pages do not name "Shallow Turbo" specifically and were removed from validation_source accordingly). Last updated 2026-08-03.*

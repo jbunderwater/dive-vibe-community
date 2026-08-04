@@ -33,11 +33,7 @@ Brockville sits along the scenic Thousand Islands stretch of the St. Lawrence Ri
 
 ## Marine Life
 
-The St. Lawrence River around Brockville supports a diverse freshwater fish community. Northern pike, bass, and perch are regularly encountered around the sculpture installations. The sculptures themselves have been colonized over the years by freshwater mussels and aquatic vegetation, making them naturalistic environments. Turtles — both painted and snapping — are sometimes seen in the shallower areas, and crayfish inhabit every crevice. Round gobies are present but do not dominate as they do in the lower Great Lakes.
-
-## Dive Profile
-
-The sculpture installations are distributed across a range of depths from 3 to 20 metres. Beginner divers can enjoy shallow pieces without exceeding comfortable limits, while more experienced divers can explore the deeper installations. Navigation is straightforward — the sculptures are clustered in a relatively small area accessible from the shore entry point or a dive boat.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -61,4 +57,4 @@ The St. Lawrence River current can increase significantly during high water leve
 The sculpture park offers unique photographic opportunities in a freshwater setting. The art pieces — humanoid forms, abstract shapes, and natural motifs — provide unusual subjects against the backdrop of clear river water and aquatic vegetation. Natural light penetrates well at shallow depths, and the sculptures are photogenic in natural light.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Home Is Brockville - All About Brockville's Underwater Sculpture Park](https://homeisbrockville.com/all-about-brockvilles-underwater-sculpture-park/), [Save Ontario Shipwrecks - Under Water Sculpture Park](https://saveontarioshipwrecks.ca/chapter/thousand-islands/under-water-sculpture-park/), [Blue North Scuba - Centeen](https://bluenorthscuba.ca/centeen/). Last updated 2026-08-03.*

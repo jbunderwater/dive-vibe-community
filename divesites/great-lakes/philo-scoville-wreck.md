@@ -3,7 +3,7 @@ name: Philo Scoville (Wreck)
 lat: 45.2688778
 lng: -81.6972111
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Philo Scoville (Wreck)
 
-The Philo Scoville is a 19th-century wooden schooner in Fathom Five National Marine Park, Tobermory, Ontario. Part of the remarkable cluster of historic wrecks in Canada's first underwater heritage marine park, the Philo Scoville lies at 20 metres in the clear, cold waters of Georgian Bay.
+The Philo Scoville is a three-masted wooden schooner, 139.5 feet (42.5m) long, that wrecked in a storm in October 1889 near Russell Island, Fathom Five National Marine Park. The wreckage spans a wide depth range, from around 7 metres near shore among interesting rock formations to about 24 metres at the bow and bowsprit — the deepest parts of the site.
 
 ## Overview
 
-The Philo Scoville was a Great Lakes cargo schooner that sank in Georgian Bay and now rests within the protected boundaries of Fathom Five National Marine Park. At 20 metres in Tobermory's famously clear water — visibility regularly reaches 15–20 metres — the wreck is an outstanding dive with full visual context of the hull in a single wide-angle view. The cold, clean water of Georgian Bay has preserved the 19th-century wooden construction in excellent condition. The park's protective status ensures the wreck remains undisturbed for future generations. The Philo Scoville is one of numerous wrecks accessible from Tobermory, making the area a world-class freshwater wreck diving destination.
+The Philo Scoville, a three-masted schooner 139.5 feet (42.5m) long, wrecked in a storm in October 1889 near Russell Island. The wreck's remains span a substantial depth range: some wreckage lies in as little as 7 metres amid interesting rock formations close to shore, while the bow and bowsprit — the deepest section — rest around 24 metres. The anchors lie roughly 30 metres east of the main wreckage. This spread makes the Philo Scoville a versatile dive, suitable for a range of experience levels depending on which section is explored. Tobermory's famously clear water (visibility regularly 15-20 metres) and the cold, clean conditions of Georgian Bay have preserved the wooden structure well within the protected boundaries of Fathom Five National Marine Park.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Philo Scoville was a Great Lakes cargo schooner that sank in Georgian Bay an
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 4–16°C (seasonal); bottom 4–6°C
 - **Current**: Minimal
@@ -33,11 +33,7 @@ The Philo Scoville was a Great Lakes cargo schooner that sank in Georgian Bay an
 
 ## Marine Life
 
-Georgian Bay's cold, clear water supports a healthy freshwater community centred on the wreck. Lake trout circle the deeper hull sections. Smallmouth bass are territorial on the deck and around hull openings. Yellow perch school in mid-water. Lake whitefish are occasionally spotted above the site. Zebra mussels colonize surfaces below the thermocline, and Georgian Bay's water clarity makes these mussel beds visible in unusual detail.
-
-## Dive Profile
-
-The Philo Scoville lies at an excellent recreational depth with generous NDL. Explore the hull's length, examining the 19th-century schooner construction in detail that Georgian Bay's clarity makes possible. The preserved rigging, deck hardware, and hull fittings tell the story of a working sailing vessel's life on the Great Lakes. Ascend on the mooring line. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Cold bottom water at 20 metres demands proper thermal protection. Boat traffic a
 
 ## Photography
 
-Fathom Five's exceptional clarity makes the Philo Scoville outstanding for wide-angle wreck photography. The full hull is visible in a single frame in good visibility. Natural light photography at 20 metres in Georgian Bay produces images with superb clarity and colour rendition.
+Fathom Five's exceptional clarity makes the Philo Scoville outstanding for wide-angle wreck photography. The shallow near-shore wreckage benefits from strong natural light, while the deeper bow section around 24 metres rewards divers who bring supplemental lighting.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [Shotline Diving - Philo Scoville](https://www.shotlinediving.com/docs/lake-huron/tobermory/philo-scoville/), [Parks Canada - Fathom Five Dive Sites](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive), [Scuba Diving Magazine - Wreck Diving in Tobermory](https://www.scubadiving.com/drive-and-dive-exploring-wrecks-tobermory). Last updated 2026-08-03.*

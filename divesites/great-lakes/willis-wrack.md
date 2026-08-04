@@ -33,11 +33,7 @@ The Ohio side of Lake Erie holds numerous historic wrecks from the sailing and e
 
 ## Marine Life
 
-Lake Erie's productive fishery is well-represented at the Willis. Yellow perch are abundant around the hull. Walleye hunt the structure edges at dawn and dusk. Smallmouth bass are resident in the hull openings. White bass are present in the open water above the wreck. Round gobies populate the bottom. Zebra mussels encrust all hard surfaces.
-
-## Dive Profile
-
-Standard Lake Erie wreck exploration. Descend to the wreck on a flat, sandy bottom. Explore from bow to stern noting preserved hull details. The 20-metre depth provides comfortable recreational diving with adequate NDL. Safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Lake Erie weather demands constant awareness on both sides of the border. Condit
 
 ## Photography
 
-The Willis offers typical central Lake Erie wreck photography conditions — better visibility than the western basin, dense perch schools for wildlife shots, and preserved wooden hull detail. A torch reveals the hull's historical character.
+A torch reveals the hull's historical character.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

@@ -1,25 +1,5 @@
 [
   {
-    "name": "Brampton Scuba Instruction",
-    "lat": 43.6841164,
-    "lon": -79.7614869,
-    "osm_id": 378465832,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Brampton Scuba Instruction",
-      "scuba_diving:education": "yes",
-      "sport": "scuba_diving"
-    },
-    "validated": "false",
-    "validation_source": "COMMERCIAL BUSINESS - Brampton Scuba is a dive center/shop at 93 Queen St W, Brampton ON. Not a dive site. Should be removed from dataset.",
-    "last_qa_date": "2026-05-30",
-    "qa_notes": "Confirmed commercial dive school/shop via bramptonscuba.com. OSM tag scuba_diving:education=yes confirms training facility. Remove from dataset."
-  },
-  {
     "name": "Little Wissahickon (Wrack)",
     "lat": 41.9036222,
     "lon": -81.94635,
@@ -45,7 +25,7 @@
     "lon": -81.9540333,
     "osm_id": 663869460,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 28,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -55,9 +35,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "en.wikipedia.org/wiki/SS_Sir_William_Siemens, shipwreckworld.com/maps/frank-e-vigor, greatlakesvesselhistory.com/histories-by-name/s/siemens-sir-william",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Originally SS Sir William Siemens (built 1896, Globe Iron Works Cleveland), renamed William B. Pilkey 1929-1941, then Frank E. Vigor 1941. 412ft (125.6m) length, 4,344 GRT. Collided with Philip Minch in fog April 27 1944 while carrying sulphur, capsized and sank; crew rescued, no fatalities per family account. Depth corrected from 20m to 28m (92ft) per 3 corroborating sources. Markdown previously stated an incorrect 97m length - corrected to 412ft/125.6m."
   },
   {
     "name": "Willis (Wrack)",
@@ -85,7 +66,7 @@
     "lon": -82.9408333,
     "osm_id": 663869462,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 8,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -95,9 +76,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "eriewrecks.com/shipwrecks/wilcox/wilcox.html, alcheminc.com/west.html, images.maritimehistoryofthegreatlakes.ca/details.asp?ID=58660",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Three-masted schooner, 140ft, of Vermilion OH, carrying coal. Stranded and sank just offshore of Colchester ON May 8 1906. Depth corrected from 20m to 8m (sources report 22-26ft/~7-8m, not 20m). One source (Maritime History of the Great Lakes) lists this vessel as 'M. J. Wilcox (Barge)' rather than 'M.I. Wilcox (schooner)' - noted as an unresolved name/vessel-type discrepancy in the markdown rather than silently ignored."
   },
   {
     "name": "Specular (Wrack)",
@@ -256,9 +238,9 @@
       "sport": "scuba_diving"
     },
     "validated": "true",
-    "validation_source": "images.maritimehistoryofthegreatlakes.ca/57184/data, dan.org/alert-diver/article/the-great-storm-of-1913, tripsintohistory.com/2012/05/28/deadliest-storm-on-the-great-lakes",
-    "last_qa_date": "2026-05-30",
-    "qa_notes": "Wexford was a steel-hulled propeller steamer (not just 'steamer'). Sank November 9 1913 in Great Storm, all 17+ crew lost. Discovered August 25 2000 in 75ft (approx 23m) of water off Grand Bend Ontario. Carrying 96,000 bushels of wheat. Depth corrected from 20m to 23m (75 feet per discovery reports). OSM depth of 20m was approximate."
+    "validation_source": "en.wikipedia.org/wiki/SS_Wexford, images.maritimehistoryofthegreatlakes.ca/57184/data, tripsintohistory.com/2012/05/28/deadliest-storm-on-the-great-lakes",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "2026-08-03 RE-AUDIT: Steel-hulled propeller steamer, built 1883, 250ft (76m) length, 2,077 GRT (per Wikipedia, not previously in our data). Sank November 9 1913 in the Great Storm carrying 96,000 bushels of wheat. Discovered August 25 2000 in 75ft (23m) off Grand Bend, Ontario. CONFLICT: crew lost is reported inconsistently across sources - Wikipedia itself states figures of 17 to 24 are cited; markdown updated to reflect this rather than asserting a single number."
   },
   {
     "name": "Raleigh (Wrack)",
@@ -456,9 +438,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "en.wikipedia.org/wiki/SS_Merida, images.maritimehistoryofthegreatlakes.ca/45218/data, alcheminc.com/asht.html",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Steel propeller steamer built 1893, 360ft length, ~3,329 GRT. Foundered October 20 1916 in a storm between Southeast Shoal and Long Point carrying iron ore; entire crew lost. CONFLICT: crew count is reported as either 23 or 24 across sources, not resolved - markdown states both figures rather than picking one. Corrected site type description from 'wooden schooner' (unsupported by any source) to steel propeller steamer. Depth (20m) remains an unconfirmed OSM default - no source gives an exact resting depth, so this figure should be treated as approximate."
   },
   {
     "name": "Pascal P. Pratt (Wrack)",
@@ -516,9 +499,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "zentacle.com/Beach/9325/sligo-wreck, tdisdi.com/sdi-diver-news/best-dive-sites-near-toronto, blogto.com/sports_play/2021/05/sunken-ships-toronto",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Schooner-barge built 1860 St. Catharines, rebuilt 1874. Sank 1918 in Humber Bay, Toronto while under tow to Hamilton; storm-driven water plus ~500-ton limestone cargo broke the tow line, vessel sank <1 mile from shore, no loss of life. ~42m (138ft) long, depth ~20m (66ft), confirmed across 3 sources. NOTE: an early search result attributed a 'Highway 2 construction cargo' and 'discovered 1980' story to this wreck via a since-unverifiable article; that claim was dropped as unconfirmed and not repeated in the 3 sources actually used. Depth matches the original OSM default (20m) so is left unchanged."
   },
   {
     "name": "Michigan (Wrack)",
@@ -641,8 +625,8 @@
     },
     "validated": "true",
     "validation_source": "en.wikipedia.org/wiki/MV_Wolfe_Islander_II, thescubanews.com/2017/05/29/wolfe-islander-ii-served-kingston-as-ferry, shotlinediving.com/docs/general/kingston-canadian-side/wolfe-islander-ii-c157269",
-    "last_qa_date": "2026-05-30",
-    "qa_notes": "Former Wolfe Island passenger/car ferry, originally built 1946. Deliberately scuttled September 21 1985 near Dawson's Point off Wolfe Island as artificial reef. Max depth 70ft (~21m), superstructure at ~40ft range. Hazardous materials removed before sinking. Door hatches removed for easy penetration."
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Former Wolfe Island passenger/car ferry, originally built 1946. Deliberately scuttled September 21 1985 near Dawson's Point off Wolfe Island as artificial reef. Max depth 70ft (~21m), superstructure at ~40ft range. Hazardous materials removed before sinking. Door hatches removed for easy penetration. 2026-08-03 RE-AUDIT: confirmed core facts hold; noted that some dive-shop sources cite depths up to 85ft (26m) rather than the 70ft figure - markdown updated to flag the range rather than assert a single depth. Footer previously cited unrelated generic sources (Michigan.org, Gear Patrol etc.) - corrected to the actual sources used."
   },
   {
     "name": "Munson (Wrack)",
@@ -702,8 +686,8 @@
     },
     "validated": "true",
     "validation_source": "patsdivecharters.com/george-a-marsh, canadiangeographic.ca/articles/diving-kingstons-shipwrecks, en.wikipedia.org/wiki/George_A._Marsh",
-    "last_qa_date": "2026-05-30",
-    "qa_notes": "Depth corrected from 20m to 25m per Pat's Dive Charters and Canadian Geographic. Built 1882, sank August 8 1917 in storm with loss of 12 of 14 aboard including children. Three-masted schooner, ~40m length."
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Depth corrected from 20m to 25m per Pat's Dive Charters and Canadian Geographic. Built 1882, sank August 8 1917 in storm with loss of 12 of 14 aboard including children. Three-masted schooner. 2026-08-03 RE-AUDIT: corrected length from ~40m to 36m (118ft) and added tonnage ~175 GRT per Wikipedia, which conflicted with the earlier estimate; markdown updated to match."
   },
   {
     "name": "Frontenac (Wrack)",
@@ -766,8 +750,8 @@
     },
     "validated": "true",
     "validation_source": "shotlinediving.com/docs/lake_ontario/picton/kattie-eccles-c75911, shipwreckworld.com/maps/katie-eccles-schooner-lake-ontario-shipwreck, kingstondivecharters.com/wrecks.html",
-    "last_qa_date": "2026-05-30",
-    "qa_notes": "Katie Eccles: two-masted wooden schooner built 1877 by William Jamieson in Deseronto ON. 95ft long, 122 gross tons. Foundered November 28 1922 off Timber Island with cargo of coal, crew survived. Depth ~30m (100ft) per dive sources. Relatively intact with broken stern, intact bowsprit and wheel."
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Katie Eccles: two-masted wooden schooner built 1877 by William Jamieson in Deseronto ON. 95ft long, 122 gross tons. Foundered November 28 1922 off Timber Island with cargo of coal, crew survived. Depth ~30m (100ft) per dive sources. Relatively intact with broken stern, intact bowsprit and wheel. 2026-08-03 RE-AUDIT: confirmed via fresh source pull; added specific foundering mechanism (lost rudder, anchor chain cut through planking) to markdown, which previously omitted it. Footer previously cited unrelated generic sources - corrected to the actual research sources."
   },
   {
     "name": "Annie Falconer (Wreck)",
@@ -790,8 +774,8 @@
     },
     "validated": "true",
     "validation_source": "shotlinediving.com/docs/lake-erie/picton/annie-falconer-c83285, frontenacarchbiosphere.ca/explore/diving/annie-falconer, wannadive.net/spot/North_America/Canada/Ontario/Lake_Ontario/Annie_Falconer_Wreck",
-    "last_qa_date": "2026-05-30",
-    "qa_notes": "Annie Falconer: two-masted wooden schooner built Kingston ON 1867. Sank November 12 1904 between False Duck and Timber Islands with cargo of coal. Upright on mud bottom in ~80ft (24m). Well preserved - stern broken off but visible nearby. Deadeyes, anchors, ship's wheel, blocks, chain present. Discovered August 1975."
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Annie Falconer: two-masted wooden schooner built Kingston ON 1867. Sank November 12 1904 between False Duck and Timber Islands with cargo of coal. Upright on mud bottom in ~80ft (24m). Well preserved - stern broken off but visible nearby. Deadeyes, anchors, ship's wheel, blocks, chain present. Discovered August 1975. 2026-08-03 RE-AUDIT: markdown previously omitted all of this specific history (generic template text) - now rewritten to include it. Footer previously cited unrelated generic sources - corrected."
   },
   {
     "name": "Olive Branch (Wrack)",
@@ -839,7 +823,7 @@
     "lon": -75.5271694,
     "osm_id": 663869510,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 9,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -854,9 +838,10 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "thescubanews.com/2018/04/24/rothesay-wreck-in-prescott-ontario-2, augusta.ca/recreation-facilities/the-rothesay-1867-1889, sharkyscuba.com/local-ottawa-diving/rothesay",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Wooden twin side-wheel steamer, launched February 2 1868 at Saint John NB. Ran Montreal-Prescott route, nicknamed 'Greyhound of the St Lawrence'. Collided with tug Myra September 12 1889 at Prescott ON; no Rothesay passengers lost, 2 Myra crew killed. RMC Kingston cadets used wreckage for explosives exercises in 1901. Rediscovered September 20 1964 by Ottawa Underwater Society. Depth corrected from 20m to 9m (30ft) - 3 sources agree it is a shallow, low-current site near Prescott, not Brockville as the markdown previously stated (location corrected)."
   },
   {
     "name": "Eastcliffe Hall (Wrack)",
@@ -876,7 +861,7 @@
     },
     "validated": "true",
     "validation_source": "whereontariobegan.ca/project/scuba-diving-eastcliffe-hall-shipwreck, en.wikipedia.org/wiki/Eastcliffe_Hall, southdundas.com/recreation-tourism/attractions/eastcliffe-hall-dive-site",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Eastcliffe Hall: Canadian bulk carrier built by Canadian Vickers Ltd Montreal. Length lengthened to 342.5ft (104.4m), 3335 GRT. Sank July 14 1970 in St Lawrence River near Morrisburg ON after fire in engine room. Lost 9 of 21 aboard including captain, his son, engineer's wife and 6-year-old daughter. Depth ~70ft (21m). Masts removed, forward superstructure dynamited as navigation hazard."
   },
   {
@@ -887,7 +872,7 @@
     "osm_type": "node",
     "depth": 21,
     "site_type": "wreck",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
@@ -897,8 +882,8 @@
     },
     "validated": "true",
     "validation_source": "en.wikipedia.org/wiki/Lillie_Parsons, sharkyscuba.com/local-ottawa-diving/lillie-parsons, divebrockville.com/charters/lillie-parsons",
-    "last_qa_date": "2026-05-30",
-    "qa_notes": "Lillie Parsons: American two-masted schooner launched September 14 1868 Tonawanda NY. Sank 1877 in St Lawrence River near Brockville when squall shifted 500-ton coal cargo. Lies upside down against Sparrow Island. Bow downstream at ~21m (70ft), stern upstream at ~6m. Shore dive via Sparrow Island public dock. Strong current."
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Lillie Parsons: American two-masted schooner launched September 14 1868 Tonawanda NY. Sank 1877 in St Lawrence River near Brockville when squall shifted 500-ton coal cargo. Lies upside down against Sparrow Island. Bow downstream at ~21m (70ft), stern upstream at ~6m. Shore dive via Sparrow Island public dock. Strong current. 2026-08-03 RE-AUDIT: entry_type corrected from 'boat' to 'shore' - qa_notes already documented this as a shore dive but the field had never been updated to match, an inconsistency this re-audit caught."
   },
   {
     "name": "Henry C. Daryaw (Wrack)",
@@ -938,7 +923,7 @@
     },
     "validated": "true",
     "validation_source": "divetech.ca/keystorm.htm, scubaboard.com/community/threads/diving-the-wreck-of-the-keystorm, uwphotographyguide.com/st-lawrence-river-wrecks",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Depth corrected to 35m max (stern). Bow is at 7.6m, stern at 35m. Wreck is on a slope, lies on starboard side. Sank October 12 1912 in fog after striking shoal near Alexandria Bay. Built in England, 256ft long, 2300 ton steel freighter. Location: St Lawrence River, US waters."
   },
   {
@@ -959,7 +944,7 @@
     },
     "validated": "true",
     "validation_source": "straitspreserve.com, en.wikipedia.org/wiki/SS_Cedarville, michiganpreserves.org",
-    "last_qa_date": "2026-05-30"
+    "last_qa_date": "2026-08-03"
   },
   {
     "name": "Edmund Fitzgerald",
@@ -990,7 +975,7 @@
     },
     "validated": "true",
     "validation_source": "en.wikipedia.org/wiki/SS_Edmund_Fitzgerald, shipwreckmuseum.com, michiganseagrant.org",
-    "last_qa_date": "2026-05-30"
+    "last_qa_date": "2026-08-03"
   },
   {
     "name": "Panther (Wrack)",
@@ -998,19 +983,20 @@
     "lon": -84.8080528,
     "osm_id": 663869534,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 34,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Panther (Wrack)",
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "shipwreckexplorers.com/panther, michiganpreserves.org/whitefish-point-underwater-preserve, images.maritimehistoryofthegreatlakes.ca/56008/data",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "MAJOR CORRECTION: markdown previously placed this wreck in the Straits of Mackinac/St Marys River near Sault Ste Marie - actual location is Lake Superior's Whitefish Bay, ~6mi SE of Whitefish Point, Michigan (coordinates were already correct for this location, only the text description was wrong). Wooden steamer (237ft or 249ft depending on source), collided with steel steamer James J. Hill in fog June 27 1916; no fatalities. Found 1975 in 90-110ft (27-34m) of water. Depth corrected from 20m to 34m; difficulty upgraded from Intermediate to Advanced given the 27-34m depth range and remote, cold Lake Superior conditions."
   },
   {
     "name": "Sweepstakes (schooner)",
@@ -1040,7 +1026,7 @@
     },
     "validated": "true",
     "validation_source": "en.wikipedia.org/wiki/Sweepstakes_(schooner), parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive, cruises.bruceanchor.com/shipwrecks",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Confirmed: two-masted schooner built 1867 Burlington ON. Sank September 1885 in Big Tub Harbour after being towed there damaged from Cove Island. Length 36.3m confirmed. Depth 6.1m (20ft) - OSM 7m is close. Difficulty updated from Beginner to Intermediate per cold-water Great Lakes rule."
   },
   {
@@ -1063,10 +1049,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30",
-    "qa_notes": "Difficulty upgraded from Beginner to Intermediate per cold-water Great Lakes rule. Cave site at Tobermory Georgian Bay."
+    "validated": "true",
+    "validation_source": "leisurepro.com/blog/scuba-dive-destinations/scuba-dive-canadas-fathom-national-marine-park, zentacle.com/Beach/7765/the-caves, scubadiving.com/drive-and-dive-exploring-wrecks-tobermory",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Difficulty upgraded from Beginner to Intermediate per cold-water Great Lakes rule. Cave site east of Tobermory, Fathom Five NP - submerged grotto entrance ~6m (20ft), consistent across 3 sources. Depth was already accurate; site_type (cave) confirmed correct."
   },
   {
     "name": "Caroline Rose (Schooner)",
@@ -1094,7 +1080,7 @@
     },
     "validated": "true",
     "validation_source": "wrecksandreefs.com/CRose.html, parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive, visittobermory.ca/profile/shipwrecks-in-tobermory/2380",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Caroline Rose built 1940 Lunenburg NS. Deliberately sunk 1990 by Tobermory Marine Association at Driftwood Cove as dive site. 39.6m long, max depth 16.5m. Located OUTSIDE Fathom Five NP boundaries. Has since been flattened but artifacts remain (prop, chains, pulleys). Difficulty updated from Beginner to Intermediate per cold-water rule."
   },
   {
@@ -1120,7 +1106,7 @@
     },
     "validated": "true",
     "validation_source": "niagaranow.com/news.phtml/2122-sand-sucker-lives-on-as-dive-wreck, bottomlessdivers.com/blog/niagara2tobermory, parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Niagara II is 182ft (55m) long steel sandsucker built 1930 in Haverton Hill-on-Tees England. Deliberately sunk May 1999 by Tobermory Maritime Association as artificial reef. Rests in 30m (100ft). Located OUTSIDE Fathom Five NP boundaries. Depth corrected from 25m to 30m per dive site sources."
   },
   {
@@ -1129,10 +1115,10 @@
     "lon": -81.7149972,
     "osm_id": 663869539,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 27,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "leisure": "divespot",
@@ -1140,9 +1126,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "shotlinediving.com/wreck/james-c-king-us-13871, parkscanadahistory.com (Fathom Five Dive & Snorkel Guide PDF), davidgibbins.com/journal/2015/9/29",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "175ft schooner-barge, built East Saginaw MI 1867. Wrecked November 1901 while under tow by the W.L. Wetmore in a snowstorm. Slid down a rocky slope: stern ~7.6m (25ft), bow ~27m. Depth corrected from 20m to 27m (max); difficulty upgraded from Intermediate to Advanced per source guidance that this site suits experienced divers, not novices."
   },
   {
     "name": "W. L. Wetmore (Wreck)",
@@ -1150,7 +1137,7 @@
     "lon": -81.7093277,
     "osm_id": 663869540,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 9,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1161,9 +1148,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "davidgibbins.com/journal/2015/9/27, parkscanadahistory.com (Fathom Five Dive & Snorkel Guide PDF), visittobermory.ca/profile/shipwrecks-in-tobermory/2380",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "213.7ft (65.1m) steamer built Cleveland OH 1871. Wrecked November 1901 snowstorm while towing the James C. King through channels north of Tobermory. Most remains in 6-8m of water (one source cites up to 28ft/8.5m). Depth corrected from 20m to 9m - was significantly overstated."
   },
   {
     "name": "The Tugs (Wreck)",
@@ -1171,9 +1159,9 @@
     "lon": -81.6609268,
     "osm_id": 663869541,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 13,
     "site_type": "wreck",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
@@ -1184,9 +1172,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive/activ2a, scubadiverlife.com/scuba-diving-tobermory, deepstop.wordpress.com/2008/12/05/diving-the-tugs-in-tobermorys-little-tub-harbour",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Four small steam tugs (Alice G, Robert K, John & Alex, and one unidentified) at the mouth of Little Tub Harbour, Tobermory. Max depth ~13m (40ft). Shore-accessible via wooden deck/stairs - one of only a few shore dives in Fathom Five NP. Entry_type corrected from boat to shore; depth corrected from 20m to 13m."
   },
   {
     "name": "City of Grand Rapids (steamer)",
@@ -1214,7 +1203,7 @@
     },
     "validated": "true",
     "validation_source": "images.maritimehistoryofthegreatlakes.ca/details.asp?ID=60562, shipwreckstobermory.com, parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Passenger steamer built 1879 Grand Haven Michigan. Caught fire in Little Tub Harbour October 29 1907, towed to Big Tub Harbour where it burned and sank. Length was 125ft (38m). Salvaged propeller and rudder are on display near museum. Parts visible above water. Difficulty updated from Beginner to Intermediate per cold-water rule."
   },
   {
@@ -1239,7 +1228,7 @@
     },
     "validated": "true",
     "validation_source": "scubadiving.com/drive-and-dive-exploring-wrecks-tobermory, parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive, thebrucepeninsula.com/shipwrecks-of-fathom-five",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Forest City sank June 1904 hitting east side of Bears Rump Island in dense fog. Vessel was 66m long. Bow at ~18m, stern at ~46m. Fathom Five NP. Advanced/technical site only."
   },
   {
@@ -1263,7 +1252,7 @@
     },
     "validated": "true",
     "validation_source": "parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive, shotlinediving.com/docs/lake-huron/tobermory/arabia-c32844, dan.org/alert-diver/article/tobermory-ontario",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Vessel is a barkentine (3-masted barque), NOT a schooner as stated in markdown. Built 1852 Kingston Ontario, length 40.1m (131.6ft). Sank October 4/5 1884 near Echo Island in a gale with cargo of corn. All crew rescued. Depth confirmed ~33.5m (110ft) per Parks Canada. Markdown erroneously calls it a 'schooner' - must fix."
   },
   {
@@ -1272,7 +1261,7 @@
     "lon": -81.7101192,
     "osm_id": 663869545,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 16,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1284,9 +1273,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "davidgibbins.com/journal/2015/2/11, parkscanadahistory.com (Fathom Five Dive & Snorkel Guide PDF), visittobermory.ca/profile/shipwrecks-in-tobermory/2380",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "154.7ft (47.2m) wooden schooner built Vermilion OH 1867. Sank 1898 in Tecumseh Cove off Cove Island, Fathom Five NP. Wreckage broken/scattered, two rudder sections present. Depth reported inconsistently across sources (6-16m range) - used 16m as the upper bound; corrected from unsupported 20m default."
   },
   {
     "name": "Philo Scoville (Wreck)",
@@ -1294,7 +1284,7 @@
     "lon": -81.6972111,
     "osm_id": 663869546,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1307,9 +1297,10 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     },
-    "validated": "false",
-    "validation_source": "Not verified from 3 independent sources - original source was a generic placeholder",
-    "last_qa_date": "2026-05-30"
+    "validated": "true",
+    "validation_source": "shotlinediving.com/docs/lake-huron/tobermory/philo-scoville, parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive, scubadiving.com/drive-and-dive-exploring-wrecks-tobermory",
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "Three-masted schooner, 139.5ft (42.5m), wrecked in a storm October 1889 near Russell Island, Fathom Five NP. Wreckage spans ~7m (near shore) to ~24m (bow/bowsprit, deepest); anchors ~30m east of main wreckage. Depth corrected from flat 20m to 24m (max)."
   },
   {
     "name": "Waome (Wrack)",
@@ -1368,7 +1359,7 @@
     },
     "validated": "true",
     "validation_source": "en.wikipedia.org/wiki/SS_Glenlyon, nps.gov/isro/learn/historyculture/shipwrecks.htm, home.nps.gov/articles/000/ss-glenlyon-wreck-event-and-survivor-accounts.htm",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Depth corrected: wreck lies in 15-60 ft (4.6-18.3m). OSM depth 20m was approximate. Location is Isle Royale NP off Menagerie Island, Siskiwit Bay, Lake Superior - NOT Keweenaw Peninsula as stated in markdown. Difficulty upgraded to Advanced: remote Isle Royale NP requires park permit, boat access from Rock Harbor or Windigo, cold Lake Superior water."
   },
   {
@@ -1391,7 +1382,7 @@
     },
     "validated": "true",
     "validation_source": "homeisbrockville.com/all-about-brockvilles-underwater-sculpture-park, saveontarioshipwrecks.ca/chapter/thousand-islands/under-water-sculpture-park, bluenorthscuba.ca/centeen",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Canada's first underwater sculpture park, Centeen Memorial Dive Park, Brockville ON. Opened 2010. ~36 concrete sculptures. Shallow site 3-12m. Shore entry at Centeen Park. Annual dive token ~$10 required. Entry_type corrected from boat to shore. Depth corrected from 20m to 12m (max depth per sources is ~35-40ft)."
   },
   {
@@ -1419,7 +1410,7 @@
     },
     "validated": "true",
     "validation_source": "ottawa-scuba.com/sites/connestoga/connestoga.shtml, en.wikipedia.org/wiki/Save_Ontario_Shipwrecks, divekawartha.ca/charters/the-conestoga-shipwreck",
-    "last_qa_date": "2026-05-30",
+    "last_qa_date": "2026-08-03",
     "qa_notes": "Conestoga: 252ft x 36ft double-planked propeller freighter (2008 tons), launched July 6 1878. Sank May 22 1922 near Cardinal Ontario when engine room fire broke out while awaiting passage through Galop Canal Lock 28. Burned to waterline. Mast visible at both tides. Shallow site alongside old canal wall. Depth corrected from 20m to ~10m (mast-showing wreck)."
   },
   {
@@ -1515,7 +1506,8 @@
     },
     "validated": "true",
     "validation_source": "en.wikipedia.org/wiki/SS_Edmund_Fitzgerald, shipwreckmuseum.com/edmund-fitzgerald, michiganseagrant.org",
-    "last_qa_date": "2026-05-30"
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "2026-08-03 RE-AUDIT: this entry is one of three OSM points marking sections of the SS Edmund Fitzgerald wreck site (bow/midship/overturned stern), all sharing the parent ship's Wikidata ID. Core facts (built dimensions, sinking date, cargo, depth) verified via Wikipedia, Great Lakes Shipwreck Museum, and Michigan Sea Grant - consistent across sources. Markdown footer previously cited unrelated generic sources; corrected to match validation_source."
   },
   {
     "name": "Overturned Stern",
@@ -1544,7 +1536,8 @@
     },
     "validated": "true",
     "validation_source": "en.wikipedia.org/wiki/SS_Edmund_Fitzgerald, shipwreckmuseum.com/edmund-fitzgerald, michiganseagrant.org",
-    "last_qa_date": "2026-05-30"
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "2026-08-03 RE-AUDIT: this entry is one of three OSM points marking sections of the SS Edmund Fitzgerald wreck site (bow/midship/overturned stern), all sharing the parent ship's Wikidata ID. Core facts (built dimensions, sinking date, cargo, depth) verified via Wikipedia, Great Lakes Shipwreck Museum, and Michigan Sea Grant - consistent across sources. Markdown footer previously cited unrelated generic sources; corrected to match validation_source."
   },
   {
     "name": "Midship",
@@ -1573,6 +1566,7 @@
     },
     "validated": "true",
     "validation_source": "en.wikipedia.org/wiki/SS_Edmund_Fitzgerald, shipwreckmuseum.com/edmund-fitzgerald, michiganseagrant.org",
-    "last_qa_date": "2026-05-30"
+    "last_qa_date": "2026-08-03",
+    "qa_notes": "2026-08-03 RE-AUDIT: this entry is one of three OSM points marking sections of the SS Edmund Fitzgerald wreck site (bow/midship/overturned stern), all sharing the parent ship's Wikidata ID. Core facts (built dimensions, sinking date, cargo, depth) verified via Wikipedia, Great Lakes Shipwreck Museum, and Michigan Sea Grant - consistent across sources. Markdown footer previously cited unrelated generic sources; corrected to match validation_source."
   }
 ]

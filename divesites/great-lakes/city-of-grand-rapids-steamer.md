@@ -33,11 +33,7 @@ The City of Grand Rapids was a passenger and freight steamer that caught fire an
 
 ## Marine Life
 
-The shallow, sunlit wreck supports a diverse and visually rich community. Sunfish (pumpkinseed and bluegill) hover around the hull, attracted by the algae-covered wood. Smallmouth bass are territorial around the protected hull spaces. Crayfish are abundant on the bottom around the wreck. In summer, the warm, shallow water supports water plants and algae growth that provides habitat for juvenile fish. The wreck is effectively a small freshwater reef.
-
-## Dive Profile
-
-This is an ideal first wreck dive or refresher dive. Simply descend to 5 metres and spend the entire dive exploring the wreck's extent. The side-wheel feature and hull framework are the highlights. No decompression concerns at this depth — enjoy extended bottom time while monitoring air consumption. Exit the water comfortably with a large reserve.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

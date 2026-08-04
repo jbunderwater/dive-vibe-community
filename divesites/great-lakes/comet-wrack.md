@@ -33,11 +33,7 @@ The Comet was a wooden schooner typical of the commercial sailing fleets that se
 
 ## Marine Life
 
-The Comet's wreck structure attracts the typical Kingston-area community: smallmouth bass around the hull openings, yellow perch in schools above the deck, and round gobies on the bottom. Lake whitefish occasionally pass overhead. The distinctive dark silhouette of the wreck against the lighter surface water draws attention from fish at a distance. Zebra mussels encrust the hull below approximately 8–10 metres, and their presence has actually aided preservation by armoring the wood surface against further degradation.
-
-## Dive Profile
-
-Descend to the wreck and explore the hull from end to end. The intact masts (if standing) provide orientation points. Explore the deck, cargo hold area, and bow features. The 20-metre maximum depth gives ample NDL for thorough exploration. Ascend with a standard safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

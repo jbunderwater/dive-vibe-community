@@ -17,9 +17,9 @@ Agincourt Reef No. 1 - Trigger Fish City is a reef dive site on Agincourt Reef, 
 
 ## Overview
 
-Agincourt Reef is the closest outer reef to Port Douglas and is the destination for the majority of day-trip dive boats from that town. The reef system consists of several numbered sections; No. 1 is among the most accessible and regularly dived. The name Trigger Fish City reflects the historically high density of triggerfish — particularly titan triggerfish and yellow-margin triggerfish — that populate this section of the reef.
+Agincourt Reef is the closest outer reef to Port Douglas and is the destination for the majority of day-trip dive boats from that town. Trigger Fish City sits at the northern end of Agincourt Reef No. 1. Pro-Taucher and Dive Seven's site listings describe it as a drift-friendly dive with large coral reefs, an unusual landscape of large Porites boulders littering the sandy bottom, and a cave; the "Trigger Fish City" name comes from resident titan triggerfish, which divers may need to be wary of during breeding season.
 
-The site is characterised by healthy hard coral gardens on a shallow outer reef platform, making it an excellent destination for all levels. The triggerfish are a reliable attraction, though divers must be aware of their territorial behaviour during breeding season.
+The site is characterised by healthy hard coral gardens on a shallow outer reef platform, making it an excellent destination for all levels.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ The site is characterised by healthy hard coral gardens on a shallow outer reef 
 
 ## Marine Life
 
-Titan triggerfish are the signature species, identifiable by their large size (up to 75cm), blue-grey and yellow colouration, and assertive territorial behaviour. Yellow-margin triggerfish are present in smaller numbers. Beyond the triggerfish, the reef holds impressive fish diversity: large maori wrasse, parrotfish of multiple species, grouper, and surgeonfish are abundant. Sea turtles are regulars. The reef's exposed outer position means pelagic species — Spanish mackerel, trevally, and barracuda — pass through regularly. Soft corals and sea fans decorate the deeper reef face.
+Titan triggerfish are the signature species and give the site its name. Pro-Taucher and Dive Seven confirm striped and oriental sweetlips and various pipefish species sheltering in the clefts and caves. Earlier claims of a specific triggerfish size ("up to 75cm"), yellow-margin triggerfish, and pelagic species (Spanish mackerel, trevally, barracuda) were not corroborated by any source and have been removed.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Titan triggerfish are the primary behavioural hazard at this site. Their bite is
 The titan triggerfish are photogenic subjects with their bold colouration and dramatic expressions. Wide-angle shots in the top 10 metres benefit from the excellent natural light. The reef fish diversity provides constant subject material for both wide-angle reef scenes and individual fish portraits.
 
 ---
-*Sources: [Silverseries - Silversonic Port Douglas](https://silverseries.com.au/silversonic/), [Visit Port Douglas - Agincourt Reef](https://visitportdouglas.com.au/port-douglas-region/great-barrier-reef/agincourt-reef/), [Poseidon Cruises Port Douglas](https://poseidon-cruises.com.au/great-barrier-reef/). Last updated 2026-05-30.*
+*Sources: [Visit Port Douglas - Agincourt Reef](https://visitportdouglas.com.au/port-douglas-region/great-barrier-reef/agincourt-reef/), [Poseidon Cruises Port Douglas](https://poseidon-cruises.com.au/great-barrier-reef/), [Pro-Taucher - Trigger Fish City](https://www.pro-taucher.com/dive-sites/australia-oceania/australia/queensland/great-barrier-reef-agincourt-reef-no-1-trigger-fish-city/), [Dive Seven - Triggerfish City](http://diveseven.com/dive-site/view/10425/triggerfish-city). Note: the previously cited silverseries.com.au dive-sites listing does not itself name this specific site; replaced with two sources that do. Marine-life list corrected to sourced species. Last updated 2026-08-03.*

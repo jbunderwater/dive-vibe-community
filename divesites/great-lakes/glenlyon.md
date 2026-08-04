@@ -35,11 +35,7 @@ Access to Isle Royale requires a national park boat or seaplane — the park is 
 
 ## Marine Life
 
-Lake Superior has the lowest biodiversity of the Great Lakes but supports impressive fish populations. Lake trout — one of Lake Superior's signature species — frequent the Glenlyon site and are often seen in substantial numbers. Cisco (lake herring) school in open water above the wreck. Rainbow smelt are abundant. The relative absence of invasive zebra mussels (less established in Lake Superior than the lower Great Lakes) means the hull maintains a more natural appearance.
-
-## Dive Profile
-
-The Glenlyon's 328-foot length means multiple dives are needed for full exploration. The wreck is scattered in 15–60 feet of water across the shoal, with bow on the bay side and stern sections on the lake side. The engine room, drive shaft, propeller, engine, and boilers remain intact and in place. The bow section and stern machinery are the most photogenic destinations. Ascend on the anchor line with a standard safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -60,7 +56,7 @@ Lake Superior is famously cold and conditions can change rapidly. Even in summer
 
 ## Photography
 
-Lake Superior's exceptional clarity makes the Glenlyon a standout photography destination. The large steel hull photographs beautifully in wide-angle, and the relative lack of zebra mussel coverage shows the original construction details. Lake trout encounters are outstanding for wildlife photography.
+Lake Superior's exceptional clarity makes the Glenlyon a standout photography destination.
 
 ---
 *Sources: [SS Glenlyon - Wikipedia](https://en.wikipedia.org/wiki/SS_Glenlyon), [NPS - SS Glenlyon Wreck Event and Survivor Accounts](https://home.nps.gov/articles/000/ss-glenlyon-wreck-event-and-survivor-accounts.htm), [NPS - Shipwrecks of Isle Royale National Park](https://www.nps.gov/isro/learn/historyculture/shipwrecks.htm). Last updated 2026-05-30.*

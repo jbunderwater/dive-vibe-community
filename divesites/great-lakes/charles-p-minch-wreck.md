@@ -3,7 +3,7 @@ name: Charles P. Minch (Wreck)
 lat: 45.2942498
 lng: -81.7101192
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 16
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Charles P. Minch (Wreck)
 
-The Charles P. Minch is a 19th-century wooden schooner resting in the clear, cold waters of Fathom Five National Marine Park, Georgian Bay, Ontario. Lying at approximately 20 metres depth in the Tobermory area, this wreck is part of the remarkable cluster of historic vessels preserved in Canada's first national marine park dedicated to underwater heritage.
+The Charles P. Minch is a wooden schooner, 154.7 feet (47.2m) long, built in Vermilion, Ohio in 1867, that sank in 1898 in Tecumseh Cove off Cove Island, Fathom Five National Marine Park. The wreckage is broken and scattered across the cove in a range of depths — sources give figures from roughly 6 to 16 metres — making this a shallower, more spread-out dive than the 20-metre profile previously listed here.
 
 ## Overview
 
-The Charles P. Minch was a Great Lakes cargo schooner typical of the commercial sailing fleet that dominated Lake Huron trade in the 1800s. She came to rest in Georgian Bay and now lies in approximately 20 metres of crystal-clear water within Fathom Five National Marine Park. The park's protected status, combined with Georgian Bay's cold, clean freshwater, has ensured exceptional preservation of the wooden hull. Fathom Five is renowned among divers for visibility that regularly reaches 20+ metres — among the best freshwater diving in the world. Water temperatures at the wreck remain cold (4–6°C) year-round.
+The Charles P. Minch, a 154.7-foot wooden schooner built in Vermilion, Ohio in 1867, went down in 1898 in Tecumseh Cove off Cove Island, part of Fathom Five National Marine Park. Rather than a single intact hull, the wreckage is broken and spread across the cove, with two separate rudder sections among the remains. Reported depths vary by source, roughly 6 to 16 metres for most of the wreckage. The park's protected status, combined with Georgian Bay's cold, clean freshwater, has kept the wooden remains well preserved. Fathom Five is renowned among divers for visibility that regularly reaches 15-20+ metres.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Charles P. Minch was a Great Lakes cargo schooner typical of the commercial 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 4–16°C (seasonal); bottom consistently 4–6°C
 - **Current**: Minimal
@@ -33,11 +33,7 @@ The Charles P. Minch was a Great Lakes cargo schooner typical of the commercial 
 
 ## Marine Life
 
-Georgian Bay's cold, nutrient-rich water supports productive freshwater ecosystems. Lake trout circle the wreck at depth, while large smallmouth bass claim territories around the bow and stern sections. Yellow perch gather in schools inside and around the hull. Lake whitefish are occasionally spotted passing over the wreck in the water column above. The hull is colonized by zebra mussels below the thermocline, and freshwater sponges — unusual but present in Georgian Bay — grow on protected sections of the structure.
-
-## Dive Profile
-
-The Charles P. Minch lies on its side or at an angle (typical of many Georgian Bay wrecks dislodged from their original sinking position by ice and weather). Descend to the wreck and explore along the hull, noting preserved wooden construction and iron hardware. At 20 metres, NDL limits are generous — extended bottom times allow thorough exploration. Ascend on the mooring or anchor line, safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Cold water is the primary environmental hazard. Even in summer, the deep water i
 
 ## Photography
 
-Fathom Five's combination of exceptional clarity and well-preserved wooden wrecks makes it one of the world's finest freshwater wreck photography destinations. The 19th-century wooden hull construction is visually compelling — hand-hewn planking, wooden pegs, and iron fittings are all visible in detail. Wide-angle shots with natural light are particularly effective here.
+Fathom Five's combination of exceptional clarity and well-preserved wooden wrecks makes it one of the world's finest freshwater wreck photography destinations. The scattered wreckage across Tecumseh Cove — including the two separated rudder sections — rewards divers who explore multiple areas rather than a single hull. Wide-angle shots with natural light are particularly effective here.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [David Gibbins - Diving on the Wreck of the Charles P. Minch](https://davidgibbins.com/journal/2015/2/11/divingonthewreckofthecharlespminch), [Parks Canada - Fathom Five Dive & Snorkel Guide (PDF)](http://parkscanadahistory.com/publications/fathomfive/brochures/dive-snorkel-guide-e-2024.pdf), [Visit Tobermory - Shipwrecks](https://visittobermory.ca/profile/shipwrecks-in-tobermory/2380/). Last updated 2026-08-03.*

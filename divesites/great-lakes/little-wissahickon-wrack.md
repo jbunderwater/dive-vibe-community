@@ -33,11 +33,7 @@ The Little Wissahickon was a canal schooner — smaller than most Great Lakes tr
 
 ## Marine Life
 
-Western Lake Erie is one of the most productive fishing grounds in North America. Yellow perch swarm around the Little Wissahickon in summer, creating spectacular fish aggregations. Walleye — the prized game fish of Lake Erie — hunt near the wreck structure, especially at dawn and dusk. Smallmouth bass claim hull openings as territory. Channel catfish are found on the silty bottom around the wreck. Round gobies are omnipresent. Zebra mussels coat all hard surfaces below the thermocline.
-
-## Dive Profile
-
-The wreck lies on a flat, silty bottom. The compact size of the Little Wissahickon makes complete exploration possible within a single dive. Explore the hull length from bow to stern, noting the construction typical of small 19th-century canal vessels. Silty conditions require careful buoyancy. Safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -47,7 +43,6 @@ Charter dive boats from Cleveland, Lorain, or Sandusky, Ohio provide access. Ohi
 
 - Western Lake Erie conditions vary significantly day to day — check forecasts and charter recommendations
 - The warm surface temperatures in summer allow wetsuit diving at the surface, but bring thermal protection for bottom temperatures
-- The perch and walleye aggregations are often more impressive than the wreck itself
 - Ohio heritage protection laws apply to underwater cultural resources
 
 ## Safety Considerations
@@ -56,7 +51,7 @@ Lake Erie weather changes rapidly and without much warning. The western basin's 
 
 ## Photography
 
-Dense perch schools provide exceptional wildlife photography around the Little Wissahickon. In good visibility, the compact wooden hull fits in wide-angle frames. Walleye portraits require patience but are memorable.
+In good visibility, the compact wooden hull fits in wide-angle frames.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

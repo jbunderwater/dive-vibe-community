@@ -96,18 +96,6 @@
     "osmId": 2400061876
   },
   {
-    "name": "Lombok Dive",
-    "filename": "lombok-dive.md",
-    "lat": -8.3475991,
-    "lng": 116.0283794,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 4270913147
-  },
-  {
     "name": "Vila Almarick Biorock",
     "filename": "vila-almarick-biorock.md",
     "lat": -8.3461172,
@@ -115,7 +103,7 @@
     "difficulty": "Beginner",
     "maxDepth": 15,
     "entryType": "boat",
-    "siteType": "artificial",
+    "siteType": "reef",
     "ref": "",
     "osmId": 4813305042
   },
@@ -127,7 +115,7 @@
     "difficulty": "Beginner",
     "maxDepth": 15,
     "entryType": "boat",
-    "siteType": "artificial",
+    "siteType": "reef",
     "ref": "",
     "osmId": 4813305043
   },
@@ -139,7 +127,7 @@
     "difficulty": "Beginner",
     "maxDepth": 15,
     "entryType": "boat",
-    "siteType": "artificial",
+    "siteType": "reef",
     "ref": "",
     "osmId": 4813305044
   },
@@ -151,7 +139,7 @@
     "difficulty": "Beginner",
     "maxDepth": 15,
     "entryType": "boat",
-    "siteType": "artificial",
+    "siteType": "reef",
     "ref": "",
     "osmId": 4813305045
   },
@@ -163,7 +151,7 @@
     "difficulty": "Beginner",
     "maxDepth": 15,
     "entryType": "boat",
-    "siteType": "artificial",
+    "siteType": "reef",
     "ref": "",
     "osmId": 4813305046
   },

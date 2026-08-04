@@ -33,11 +33,7 @@ The Pascal P. Pratt was a wooden cargo schooner that served the Lake Erie trade 
 
 ## Marine Life
 
-Yellow perch are the defining fish of Lake Erie north shore wrecks, and the Pascal P. Pratt hosts a sizeable resident school that hovers above the deck in summer. Walleye patrol the wreck's perimeter — Lake Erie is famous for its walleye population, and wreck sites concentrate them. Smallmouth bass claim hull openings as territories. Round gobies are everywhere on the silty bottom. Zebra mussels blanket all hard surfaces.
-
-## Dive Profile
-
-Standard Lake Erie north shore wreck profile. Descend to the wreck and explore from bow to stern on the flat sandy bottom. Note the 19th-century wooden schooner construction details. Ascend with adequate reserve gas. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Lake Erie conditions require constant weather awareness. Rapid wind and wave dev
 
 ## Photography
 
-The typical Lake Erie wreck photography experience — blue-green ambient light, encrusted hull surfaces, and abundant yellow perch schools. Supplemental lighting brings out hull detail and colour.
+Supplemental lighting brings out hull detail and colour.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

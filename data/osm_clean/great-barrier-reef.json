@@ -5,10 +5,10 @@
     "lon": 145.6903158,
     "osm_id": 270800741,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Challenger Bay",
       "scuba_diving:entry:boat": "yes",
@@ -17,7 +17,8 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "spiritoffreedom.com.au, dive-the-world.com, cairnsdiveadventures.com.au",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Depth corrected from 18m to 30m per spiritoffreedom.com.au (base ~30m, top ~5m). Marine-life list corrected to sourced species (batfish, sweetlips, mackerel, tuna, barracuda, moray eels, giant trevally, octopus, lionfish, reef sharks, fusiliers, giant clams, anthias). Difficulty upgraded Intermediate->Advanced per destination rule: remote liveaboard-only outer/Coral Sea reef sites carry a minimum Advanced rating regardless of depth, given limited emergency support and liveaboard-only access."
     }
   },
   {
@@ -29,7 +30,7 @@
     "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Pixie Gardens",
       "scuba_diving:entry:boat": "yes",
@@ -38,7 +39,8 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "spiritoffreedom.com.au, dive-the-world.com, cairnsdiveadventures.com.au",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Difficulty upgraded Beginner->Advanced per destination rule: remote liveaboard-only outer/Coral Sea reef sites carry a minimum Advanced rating regardless of depth, given limited emergency support and liveaboard-only access."
     }
   },
   {
@@ -50,7 +52,7 @@
     "depth": 18,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Pixie Pinnacle",
       "scuba_diving:entry:boat": "yes",
@@ -59,7 +61,8 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "spiritoffreedom.com.au, dive-the-world.com, cairnsdiveadventures.com.au",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Difficulty upgraded Beginner->Advanced per destination rule: remote liveaboard-only outer/Coral Sea reef sites carry a minimum Advanced rating regardless of depth, given limited emergency support and liveaboard-only access."
     }
   },
   {
@@ -71,7 +74,7 @@
     "depth": 25,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Cod Hole",
       "scuba_diving:entry:boat": "yes",
@@ -79,8 +82,9 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "cairnsdiveadventures.com.au, en.wikipedia.org/wiki/Cod_Hole, ribbonreefs.com",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "cairnsdiveadventures.com.au, en.wikipedia.org, ribbonreefs.com, greatbarrierreefliveaboards.com, coralcoe.org.au",
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Potato cod weight is disputed across sources: Wikipedia states 6-30kg while dive-industry and Coral CoE sources state up to ~100kg+ for the largest individuals. Both figures now noted in markdown as a source conflict rather than picking one. Difficulty upgraded Intermediate->Advanced per destination rule: remote liveaboard-only outer/Coral Sea reef sites carry a minimum Advanced rating regardless of depth, given limited emergency support and liveaboard-only access."
     }
   },
   {
@@ -100,8 +104,9 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com, scubadivemaps.com",
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Sources describe the site's signature manta ray cleaning station at ~32m off the wall; listed depth (18m) reflects the shallower reef-garden portion of the dive. Depth range flagged as uncertain/varying by source."
     }
   },
   {
@@ -121,8 +126,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com, scubadivemaps.com",
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -142,8 +147,8 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com, diversiondivetravel.com.au",
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -163,8 +168,9 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com, tropicalnorthqueensland.org.au, scubadivemaps.com",
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Shark-feed amphitheatre depth corrected to ~12m per tropicalnorthqueensland.org.au and scubadivemaps.com (prior text said 18-20m); site depth field (20m) retained as representative recreational max across the 12-40m shelf."
     }
   },
   {
@@ -176,7 +182,7 @@
     "depth": 35,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Steve's Bommie",
       "scuba_diving:entry:boat": "yes",
@@ -184,8 +190,9 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "greatbarrierreeftours.com, divessi.com, spiritoffreedom.com.au",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "greatbarrierreeftours.com, divessi.com, spiritoffreedom.com.au, dive-the-world.com, atlasandboots.com, scubadiverlife.com",
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Difficulty upgraded Intermediate->Advanced per destination rule: remote liveaboard-only outer/Coral Sea reef sites carry a minimum Advanced rating regardless of depth, given limited emergency support and liveaboard-only access."
     }
   },
   {
@@ -197,7 +204,7 @@
     "depth": 19,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Flare Point",
       "scuba_diving:entry:boat": "yes",
@@ -206,7 +213,8 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "spiritoffreedom.com.au, dive-the-world.com, cairnsdiveadventures.com.au",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Difficulty upgraded Beginner->Advanced per destination rule: remote liveaboard-only outer/Coral Sea reef sites carry a minimum Advanced rating regardless of depth, given limited emergency support and liveaboard-only access."
     }
   },
   {
@@ -215,10 +223,10 @@
     "lon": 145.689982,
     "osm_id": 270802401,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 27,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Lighthouse Bommie",
       "scuba_diving:entry:boat": "yes",
@@ -226,8 +234,9 @@
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "spiritoffreedom.com.au, greatbarrierreefliveaboards.com, cairns-tours.com",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "spiritoffreedom.com.au, diversiondivetravel.com.au, greatbarrierreefliveaboards.com, cairns-tours.com",
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Sources conflict on base depth: spiritoffreedom.com.au and diversiondivetravel.com.au report ~30m base/5m top, while tropicalnorthqueensland.org.au-sourced aggregation reports 25m base. Depth field set to 27m as a documented midpoint; conflict noted in markdown rather than silently resolved. Difficulty upgraded Intermediate->Advanced per destination rule: remote liveaboard-only outer/Coral Sea reef sites carry a minimum Advanced rating regardless of depth, given limited emergency support and liveaboard-only access."
     }
   },
   {
@@ -248,7 +257,8 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "mikeball.com, spiritoffreedom.com.au, dive-the-world.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Name origin corrected: mikeball.com describes 'Admiralty Anchor' as named for an anchor lodged in a tunnel swim-through, not a historical vessel-sheltering anchorage as previously described."
     }
   },
   {
@@ -267,7 +277,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Location corrected: sources (divessi.com, reefexperience.com.au) place this site at Norman Reef, not Lizard Island as previously described."
     }
   },
   {
@@ -286,7 +297,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Location corrected: sources (divessi.com, reefexperience.com.au) place this site at the northern point of Norman Reef, not Lizard Island as previously described."
     }
   },
   {
@@ -305,7 +317,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Location corrected: sources (divessi.com, reefexperience.com.au) place this site at Norman Reef (paired with 'Supercat'), not Lizard Island as previously described."
     }
   },
   {
@@ -322,8 +335,8 @@
       "name": "Moore Reef - 5 Ways",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com, puresnorkelling.au",
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -340,8 +353,9 @@
       "name": "Agincourt Reef No. 1 - Trigger Fish City",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "silverseries.com.au, visitportdouglas.com.au, poseidon-cruises.com.au",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "visitportdouglas.com.au, poseidon-cruises.com.au, pro-taucher.com, diveseven.com",
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "silverseries.com.au dive-sites listing (previously cited) does not itself name this site; replaced with pro-taucher.com and diveseven.com which do confirm the name, depth (~16m), and triggerfish/sweetlips/pipefish marine life."
     }
   },
   {
@@ -359,7 +373,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "silverseries.com.au, visitportdouglas.com.au, poseidon-cruises.com.au",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "silverseries.com.au lists 'The Point' (Agincourt Reef 4) at 25m max depth vs 18m in our data - noted as a source conflict in markdown rather than silently changed."
     }
   },
   {
@@ -377,7 +392,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "silverseries.com.au, visitportdouglas.com.au, poseidon-cruises.com.au",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -393,9 +408,10 @@
     "tags": {
       "name": "Moore Reef - Labyrinth",
       "sport": "scuba_diving",
-      "validated": "true",
+      "validated": "false",
       "validation_source": "dive-the-world.com, cairnsdiveadventures.com.au, greatbarrierreeftours.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Could not independently corroborate the specific site name 'Labyrinth' at Moore Reef via 2026-08-03 web research (multiple operator site-maps for Moore Reef list 5 Ways, Lagoon, Coral Gardens, Drop Off, Pinnacles, Shark Alley, Turtle Bay, but not 'Labyrinth'). Site retained (OSM survey-sourced) but unverified narrative details (wobbegong-in-dead-ends, juvenile nursery claims) stripped from markdown pending confirmation. Flagged as sites_unresolved in QA summary."
     }
   },
   {
@@ -413,8 +429,9 @@
       "source": "survey",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "silverseries.com.au, visitportdouglas.com.au, poseidon-cruises.com.au",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "visitportdouglas.com.au, poseidon-cruises.com.au, cairnsdiveadventures.com.au",
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "silverseries.com.au dive-sites listing (previously cited) does not name this specific site; replaced with cairnsdiveadventures.com.au review which does confirm species (red bass, snapper, barracuda, glassfish, gorgonian fans)."
     }
   },
   {
@@ -423,17 +440,18 @@
     "lon": 145.8563177,
     "osm_id": 1939562752,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 27,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Nursery Bommie",
       "source": "survey",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "silverseries.com.au, visitportdouglas.com.au, poseidon-cruises.com.au",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "silverseries.com.au, tropicalnorthqueensland.org.au, wannadive.net, queensland.com",
+      "last_qa_date": "2026-08-03",
+      "qa_flag": " Difficulty upgraded Beginner->Intermediate given corrected depth (24-30m per sources) and reported current-prone conditions, per destination difficulty guidelines (18-30m = Intermediate)."
     }
   },
   {
@@ -451,8 +469,9 @@
       "source": "survey",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "tropicalnorthqueensland.org.au, thefold.com.au, big4.com.au",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "tropicalnorthqueensland.org.au, thefold.com.au, big4.com.au, silverseries.com.au, queensland.com",
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Vessel name, build date, tonnage and precise sinking date are not documented in any available source (only 'Taiwanese fishing vessel' is consistently reported) - per anti-hallucination policy these specifics are omitted rather than invented."
     }
   },
   {
@@ -472,7 +491,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "cruisewhitsundays.com, visitwhitsundayislands.com.au, barrierreefaustralia.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -484,7 +503,7 @@
     "depth": 14,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Goggle Gardens",
       "scuba_diving:entry:boat": "yes",
@@ -493,28 +512,8 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "spiritoffreedom.com.au, dive-the-world.com, cairnsdiveadventures.com.au",
-      "last_qa_date": "2026-05-30"
-    }
-  },
-  {
-    "name": "Down Under Diving",
-    "lat": -16.523637,
-    "lon": 145.9851619,
-    "osm_id": 5229900922,
-    "osm_type": "node",
-    "depth": 16,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "name": "Down Under Diving",
-      "scuba_diving:entry:boat": "yes",
-      "sport": "scuba_diving",
-      "tourism": "attraction",
-      "validated": "false",
-      "qa_flag": "COMMERCIAL_OPERATOR — 'Down Under Diving' (also known as Down Under Cruise and Dive) is a registered dive tour operator running day trips from Cairns, not a named dive site. The actual sites they visit are Saxon Reef, Norman Reef, and Hastings Reef. This entry should be removed per data quality standards.",
-      "validation_source": "downundercruiseanddive.com.au, cairnsaustralia.com, cairnsdiveadventures.com.au",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "qa_flag": "Difficulty upgraded Beginner->Advanced per destination rule: remote liveaboard-only outer/Coral Sea reef sites carry a minimum Advanced rating regardless of depth, given limited emergency support and liveaboard-only access."
     }
   }
 ]

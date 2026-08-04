@@ -2,7 +2,7 @@
 name: Steve's Bommie
 lat: -15.5012397
 lng: 145.7882636
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
 siteType: pinnacle
@@ -26,7 +26,7 @@ Divers consistently rate it among their best GBR experiences, and it appears on 
 - **Location**: Ribbon Reef No. 3, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20–35 metres
 - **Current**: Mild; light current keeps soft corals extended
@@ -34,7 +34,7 @@ Divers consistently rate it among their best GBR experiences, and it appears on 
 
 ## Marine Life
 
-Schools of anthias — the small orange fish that characterise healthy Indo-Pacific reefs — swarm the pinnacle in thousands, creating a living orange halo around the structure. Clownfish are abundant in the anemones on the upper reaches. Nudibranchs are found across every depth zone, from the sandy base to the pinnacle top. Large moray eels occupy the deeper overhangs; Napoleon wrasse and coral trout circle the bommie in a slow orbit. On the sand below, blue-spotted stingrays rest motionlessly. Occasional white tip reef sharks and wobbegongs occupy the deeper areas. The site regularly produces lionfish, leaf scorpionfish, and ghost pipefish for macro hunters.
+Multiple independent operator/reviewer sources (Dive the World, ScubaDiverLife, Atlas & Boots) confirm: purple-hued anthias schools, anemonefish/clownfish, big-eye trevally, barracuda, yellow snapper, fusiliers, wobbegong sharks, nudibranchs, pipefish, leaf scorpionfish, stonefish, mantis shrimp, flame file shells, octopus, and sea turtles. Dwarf minke whales are seasonally reported here in June–July. Earlier claims of Napoleon wrasse, coral trout, and blue-spotted stingrays specifically at this site were not corroborated by any source and have been removed; "ghost pipefish" has been corrected to "pipefish," the term used in cited sources.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Conditions are typically benign. The main risk is becoming absorbed in the site 
 Steve's Bommie is a wide-angle showpiece. Frame the soft coral drapes with the blue water behind, or shoot upward with divers silhouetted against the surface light. The anthias schools add movement and colour to any composition. Macro subjects are found at every depth — bring a diopter for nudibranchs and take your time scanning the coral.
 
 ---
-*Sources: [Great Barrier Reef Tours - Steve's Bommie](https://greatbarrierreeftours.com/great-barrier-reef/coral-sea-reefs/steves-bommie/), [SSI Dive Guide - Steve's Bommie Ribbon No 3](https://www.divessi.com/en/mydiveguide/divesite/steves-bommie-ribbon-no-3-reef-australia-86497), [Spirit of Freedom Ribbon Reefs](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Great Barrier Reef Liveaboards - Steve's Bommie](https://greatbarrierreefliveaboards.com/reef-location/steves-bommie/). Last updated 2026-05-30.*
+*Sources: [Great Barrier Reef Tours - Steve's Bommie](https://greatbarrierreeftours.com/great-barrier-reef/coral-sea-reefs/steves-bommie/), [SSI Dive Guide - Steve's Bommie Ribbon No 3](https://www.divessi.com/en/mydiveguide/divesite/steves-bommie-ribbon-no-3-reef-australia-86497), [Spirit of Freedom Ribbon Reefs](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Osprey/Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php), [Atlas & Boots - Steve's Bommie](https://www.atlasandboots.com/travel-blog/steves-bommie-great-barrier-reef/), [Scuba Diver Life - Steve's Bommie](https://scubadiverlife.com/dive-site-steves-bommie-great-barrier-reef/). Re-audited: 22m marble plaque and 35m/5m depth range confirmed; marine-life list corrected to sourced species. Last updated 2026-08-03.*

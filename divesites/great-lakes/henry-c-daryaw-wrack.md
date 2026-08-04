@@ -33,11 +33,7 @@ The St. Lawrence River between Kingston and Brockville — the heart of the Thou
 
 ## Marine Life
 
-The Thousand Islands section of the St. Lawrence supports diverse freshwater life benefiting from the river's nutrient transport. Northern pike are the signature species, frequently encountered near the wreck and along the rocky shorelines. Muskellunge (muskie) are present in the area and occasionally seen near larger wrecks. Smallmouth bass are ubiquitous. Yellow perch, walleye, and various sunfish species complete the community. The flowing water limits zebra mussel dominance compared to static lake environments.
-
-## Dive Profile
-
-Current considerations are important for St. Lawrence diving. Enter the water upstream of the wreck and navigate to it. Explore the hull section by section, using the vessel as a shelter from the current. On ascent, ensure you have a plan for current-assisted drift and communicate clearly with the dive boat. Deploy SMB before ascending.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ River current is the primary safety consideration. Assess current conditions at 
 
 ## Photography
 
-The Thousand Islands offers some of the most visually appealing freshwater diving in North America. The flowing river creates clean, blue-green water that photographs beautifully. Northern pike and smallmouth bass are excellent wildlife photography subjects, and the wreck structure provides framing for wide-angle compositions.
+The Thousand Islands offers some of the most visually appealing freshwater diving in North America. The flowing river creates clean, blue-green water that photographs beautifully.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

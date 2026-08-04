@@ -36,4 +36,4 @@ The coral garden supports a high density of tropical reef fish including clownfi
 Ideal as a first dive or re-entry dive after a break. The shallow depth allows extended bottom time on a single tank. Operators in Punaauia typically offer this site in combination with nearby sites including the Catalina wreck for a multi-dive day.
 
 ---
-*Sources: [Dive and Sea Tahiti – Aquarium](https://diveandsea-tahiti.com/aquarium-tahiti/), [Island Travelism – Diving in Tahiti](https://islandtravelism.com/diving-in-tahiti/), [Eleuthera Tahiti Diving Center – Spots](https://www.eleutheratahiti.com/en/diving/spots). Last updated 2026-05-30.*
+*Sources: [Dive and Sea Tahiti – Aquarium](https://diveandsea-tahiti.com/aquarium-tahiti/), [Island Travelism – Diving in Tahiti](https://islandtravelism.com/diving-in-tahiti/), [Eleuthera Tahiti Diving Center – Spots](https://www.eleutheratahiti.com/en/diving/spots). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

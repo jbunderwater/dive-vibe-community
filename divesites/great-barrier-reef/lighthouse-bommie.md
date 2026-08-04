@@ -2,8 +2,8 @@
 name: Lighthouse Bommie
 lat: -14.875091
 lng: 145.689982
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 27
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -17,24 +17,24 @@ Lighthouse Bommie is a coral pinnacle on Ribbon Reef No. 9 in the northern Great
 
 ## Overview
 
-Lighthouse Bommie is a coral tower that rises from the seafloor at approximately 25 metres to around 5 metres depth, standing roughly 20 metres tall. The structure is dense with encrusting corals, sponges, and sea fans, and the overhangs and crevices throughout the bommie provide ideal habitat for the ambush predators and nocturnal animals that make night diving here exceptional.
+Lighthouse Bommie is a coral tower on the outer wall of Ribbon Reef No. 9. Sources disagree on its exact base depth: Spirit of Freedom and Diversion Dive Travel report a base of approximately 30 metres rising to a 5-metre top, while other operator listings report a 25-metre base; this page uses 27 metres as a documented midpoint pending a clearer source. The structure is dense with encrusting corals, sponges, and sea fans.
 
-During the day, the site offers a well-rounded experience — healthy coral coverage, a resident community of reef fish, and reliable sightings of larger species including moray eels, lionfish, and sweetlips. At night it transforms completely, with previously hidden critters emerging from every surface.
+By day the bommie serves as a cleaning and resting station for green and hawksbill turtles; at night turtle numbers reportedly increase as they come to sleep, and giant trevally are noted to hunt actively around divers during night dives.
 
 ## Site Information
 
 - **Location**: Ribbon Reef No. 9, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Variable; can strengthen with tidal changes
 - **Best Time**: July to November
 
 ## Marine Life
 
-By day, Lighthouse Bommie hosts large moray eels — including giant morays — emerging partially from crevices throughout the structure. Lionfish hover in the overhangs, and aggregations of sweetlips and snapper school in the mid-water. Coral trout and hawksbill turtles are regular visitors. At night, Spanish dancer nudibranchs are reliably found on the upper surfaces — among the largest nudibranchs in the world, they can reach 60cm and undulate in a distinctive swimming motion when disturbed. Sleeping parrotfish in their mucous cocoons, hunting octopuses, and decorator crabs emerge as the light fades. Crayfish (spiny lobster) crowd the crevices after dark in numbers that can surprise first-time night divers.
+Multiple sources confirm big-eye trevally, chevron barracuda, yellow-lined snapper, grey reef sharks, Malabar grouper, mantis shrimp, octopus, flame file shells, pipefish, scorpionfish, longnose hawkfish, anemonefish, and at least three resident olive sea snakes. Green and hawksbill turtles use the bommie as a cleaning and sleeping station, most reliably seen at night. Giant trevally are reported to hunt actively during night dives. Earlier claims of Spanish dancer nudibranchs, sleeping parrotfish, decorator crabs, and crayfish were not corroborated by any source and have been removed — this is a general GBR/Ribbon Reef species pattern, not a confirmed sighting at this site.
 
 ## Dive Profile
 
@@ -48,8 +48,7 @@ Liveaboard access only from Cairns. Night dives are typically tethered to a shot
 
 - This site is best appreciated as an evening or night dive — book a spot on the night dive roster
 - Carry a primary torch and a backup — losing light at night on a bommie is disorienting
-- Look for Spanish dancer nudibranchs on the sandy bottom and upper pinnacle surfaces in the first hour after dark
-- Cuttlefish hunt along the sand edges at night — watch them stalk prey with colour-changing skin patterns
+- Watch for giant trevally hunting actively around divers during night dives, and turtles sleeping in the coral by day and night
 
 ## Safety Considerations
 
@@ -57,7 +56,7 @@ Night dives require careful buddy management and a pre-agreed surface signal. Mo
 
 ## Photography
 
-The Spanish dancer nudibranch is the photographic trophy at Lighthouse Bommie. Its large size (up to 60cm) means standard macro lenses capture detailed close-ups, while wider focal lengths can capture the full animal in context. Use a torch for positioning, then a focus light for camera autofocus. The moray eels make excellent daytime portrait subjects in their crevice frames.
+Turtles sleeping in the coral and giant trevally hunting at night are the standout subjects at Lighthouse Bommie. Wide-angle shots of the pinnacle with trevally schools work well; macro shooters can work the crevices for mantis shrimp, flame file shells, and pipefish.
 
 ---
-*Sources: [Spirit of Freedom - Ribbon Reefs](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Great Barrier Reef Liveaboards - Ribbon Reefs](https://greatbarrierreefliveaboards.com/reef-location/ribbon-reefs/), [Cairns Tours - Ribbon Reefs](https://cairns-tours.com/article/what-are-the-ribbon-reefs), [Diversion Dive Travel - Lighthouse Bommie](https://www.diversiondivetravel.com.au/g2659/diving_lighthouse_bommie.html). Last updated 2026-05-30.*
+*Sources: [Spirit of Freedom - Ribbon Reefs](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Diversion Dive Travel - Lighthouse Bommie](https://www.diversiondivetravel.com.au/g2659/diving_lighthouse_bommie.html), [Tropical North Queensland - Lighthouse Bommie](https://tropicalnorthqueensland.org.au/listing/product/lighthouse-bommie-dive-site/), [Queensland.com - Lighthouse Bommie](https://www.queensland.com/au/en/things-to-do/attractions/p-56b265837b935fbe730e4a1b-lighthouse-bommie-dive-site). Depth conflict (25m vs 30m across sources) and marine-life list corrected on re-audit. Last updated 2026-08-03.*

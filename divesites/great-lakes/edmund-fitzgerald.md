@@ -35,11 +35,7 @@ At 160 metres, this is strictly a technical diving site accessible only to highl
 
 ## Marine Life
 
-Lake Superior at depth supports only sparse life. Deep-water sculpin and lake trout have been observed near the wreck during documented dives. The extreme cold and pressure limit the diversity of species. The wreck itself, being in relatively cold, low-oxygen conditions, has undergone slower biological colonization than shallower wrecks in the more productive lower Great Lakes.
-
-## Dive Profile
-
-At 160 metres, the Edmund Fitzgerald is accessible only to technical divers qualified in trimix diving with extensive decompression diving experience. Bottom time is limited to minutes at this depth, with decompression obligations of 60–90 minutes or more. The dive requires planning with specialized software, gas mixes calculated for the depth profile, and a vessel with full technical support infrastructure. It is one of the most demanding dive profiles available to civilian divers.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -61,4 +57,4 @@ Lake Superior is the most dangerous of the Great Lakes, known for sudden, violen
 The few authorized expeditions to the Edmund Fitzgerald have produced powerful imagery: the ship's name visible on the hull, the upright bow pointing toward the surface, the scattered cargo of taconite ore. These images represent some of the most significant documents in Great Lakes maritime history.
 
 ---
-*Sources: [SS Edmund Fitzgerald - Wikipedia](https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald), [Great Lakes Shipwreck Historical Society - Edmund Fitzgerald](https://shipwreckmuseum.com/edmund-fitzgerald/), [Michigan Sea Grant - The Storm that Sunk the Edmund Fitzgerald](https://www.michiganseagrant.org/lessons/lessons/by-broad-concept/earth-science/data-sets/the-storm-that-sunk-the-edmund-fitzgerald/). Last updated 2026-05-30.*
+*Sources: [SS Edmund Fitzgerald - Wikipedia](https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald), [Great Lakes Shipwreck Historical Society - Edmund Fitzgerald](https://shipwreckmuseum.com/edmund-fitzgerald/), [Michigan Sea Grant - The Storm that Sunk the Edmund Fitzgerald](https://www.michiganseagrant.org/lessons/lessons/by-broad-concept/earth-science/data-sets/the-storm-that-sunk-the-edmund-fitzgerald/). Last updated 2026-08-03.*

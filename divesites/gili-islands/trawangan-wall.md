@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Trawangan Wall
 
-Also known as Halik Reef — a spectacular drift wall on Gili Trawangan's northwest with giant barrel sponges, eagle rays, and all levels of diver appeal.
+A drift/wall dive mooring on Gili Trawangan's northwest coast, in the same reef system as the island's better-documented wall and drift sites.
 
 ## Overview
 
-Trawangan Wall (also called Halik Reef) runs along the northwest side of Gili Trawangan, beginning at 6 m with huge barrel sponges and gorgonian sea fans and descending to 40 m through a series of coral ridges and canyons. The current makes this an ideal drift site with excellent conditions for all experience levels in its upper sections, while the deeper ridges provide a more challenging environment for advanced divers. Eagle rays are regularly sighted in the open water, along with white and blacktip reef sharks, giant trevally, schools of snapper, and large anemone fields. It is considered one of the best single sites in the Gili Islands for the breadth of its marine life.
+Trawangan Wall sits on the northwest side of Gili Trawangan, within the same general drift-and-wall reef system that runs along this coast (which includes the separately-listed Halik site roughly 1.3 km away, as well as sites local operators call Deep Halik and Trawangan Slope). No dive operator website reviewed during research uses the exact name "Trawangan Wall," so this entry should be read as a mooring point within that broader NW Trawangan wall/drift complex rather than a site with its own independently documented character. Operators describe this general stretch of coast as a current-driven drift with coral ridges and canyons dropping toward 30–40 m, suited to intermediate and advanced divers depending on depth and current strength.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Trawangan Wall (also called Halik Reef) runs along the northwest side of Gili Tr
 
 ## Marine Life
 
-Eagle rays cruise past in the blue water — a signature species of this wall. White and blacktip reef sharks are regularly sighted at depth. Large anemone fields with resident clownfish throughout. Giant trevally hunt in the current. Schools of snapper, batfish, lionfish, and large moray eels inhabit the wall. Turtles feed on the reef throughout the dive.
+No source specifically documents marine life at "Trawangan Wall" by name. Operators describe the general NW Trawangan wall/drift reef system (which this site sits within) as home to eagle rays, white and blacktip reef sharks, giant trevally, snapper schools, and turtles — the same regional fauna reported for the neighbouring Halik and Deep Halik sites — but no site-specific report confirms which of these are actually seen at this exact mooring point.
 
 ## Dive Profile
 
-Descend to 20–25 m and drift with the current along the wall. Giant barrel sponges at 15–20 m are a prominent feature. Ascend progressively as the drift carries you along the reef. Scan the blue water for eagle rays and sharks passing in mid-water. Complete the safety stop in the shallower current-swept zone at 5–6 m.
+Descend to 20–25 m and drift with the current along the wall, ascending progressively as the drift carries you along the reef. Scan the blue water for pelagics passing in mid-water, as is typical of this stretch of coast. Complete the safety stop in the shallower current-swept zone at 5–6 m.
 
 ## Entry and Exit
 
@@ -44,19 +44,17 @@ Boat from Gili Trawangan. Drift entry upstream of the wall. Boat pickup at the d
 
 ## Tips and Recommendations
 
-- Position yourself at 20–25 m to maximise eagle ray and shark sightings
-- Giant barrel sponges at 15–20 m are worth pausing to examine — often host shrimps and small fish
-- The large anemone fields are excellent for clownfish portraits in diverse anemone species
-- On neap tides, current is gentle enough for Open Water certified divers
+- Ask your operator to confirm exactly which mooring/reef section they mean by "Trawangan Wall" before the dive, since the name isn't standardised across local shops
+- On neap tides, current on this stretch of coast is generally gentle enough for Open Water certified divers; spring tides call for Advanced Open Water experience
 - Combine with Shark Point on the same day for a full northwest Gili Trawangan experience
 
 ## Safety Considerations
 
-Current can be strong on spring tides — check conditions before descending. Do not attempt the deeper canyon sections without Advanced Open Water certification. Eagle rays and reef sharks are non-aggressive — maintain respectful distance for their comfort. Always carry an SMB.
+Current can be strong on spring tides — check conditions before descending. Do not attempt the deeper sections without Advanced Open Water certification. Maintain respectful distance from any rays or reef sharks encountered. Always carry an SMB.
 
 ## Photography
 
-Eagle ray silhouettes in the blue water above the wall are the most prized shot here. Giant barrel sponge cross-sections with divers provide scale reference. Clownfish in large anemones at wide-angle close focus suit the shallow sections.
+Wide-angle suits the wall topography and blue-water backdrops typical of this coast. Bring a macro lens as a backup in case the dive turns up smaller reef life in the wall's crevices.
 
 ---
-*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Trawangan Dive – dive sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-05-30.*
+*Description based on the general NW Gili Trawangan wall/drift reef characteristics reported by local operators for this stretch of coast. Re-verified 2026-08-03: removed the unsupported "also known as Halik Reef" identity claim and site-specific marine-life list — no operator source (checked: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Trawangan Dive](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers](https://www.gilidivers.com/fun-dives/dive-sites), [Terumbu Divers](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/)) uses the name "Trawangan Wall," so specific sightings could not be confirmed for this exact site. Last updated 2026-08-03.*
