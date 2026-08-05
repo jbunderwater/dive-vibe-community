@@ -33,7 +33,7 @@ Purple Rain is a sloping reef on the southwest side of Grenada, running from a s
 
 ## Marine Life
 
-The defining feature is the dense purple schools of Creole wrasse that give the site its name — they are present throughout the dive. Hawksbill turtles and green sea turtles are confirmed sightings at this site. Stingrays and barracuda are reported. Lobsters, moray eels, and seahorses are found among the whip corals. At depth, giant barrel sponges support resident bigeye and sweeper communities. Note: "spotted eagle rays" and "Caribbean reef sharks" attributed in previous descriptions were not confirmed by primary sources for this specific site.
+The defining feature is the dense purple schools of Creole wrasse that give the site its name — they are present throughout the dive. Hawksbill turtles and green sea turtles are confirmed sightings at this site. Stingrays and barracuda are reported. Nurse sharks are confirmed at this site (PADI, fresh 2026-08-05 fetch). Lobsters, moray eels, and seahorses are found among the whip corals. At depth, giant barrel sponges support resident bigeye and sweeper communities. Note: "spotted eagle rays" and "Caribbean reef sharks" attributed in previous descriptions were not confirmed by primary sources for this specific site.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The massed Creole wrasse give Purple Rain its photographic identity — wide-ang
 - Often paired with Boss Reef or Dragon Bay for a two-tank southwest coast day
 
 ---
-*Sources: [ECO Dive Grenada - Purple Rain](https://www.ecodiveandtrek.com/2014/02/17/day-7-featuring-ron-dive-site-purple-rain-feature-creature-the-creole-wrasse/), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Purple Rain](https://www.padi.com/dive-site/grenada/purple-rain/), [Sportif Dive - Grenada](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites). Last updated 2026-06-04.*
+*Sources: [ECO Dive Grenada - Purple Rain](https://www.ecodiveandtrek.com/2014/02/17/day-7-featuring-ron-dive-site-purple-rain-feature-creature-the-creole-wrasse/), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Purple Rain](https://www.padi.com/dive-site/grenada/purple-rain/), [Sportif Dive - Grenada](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites) (indexed and previously consulted; automated re-fetch failed on 2026-08-05, could not independently re-verify content this round). Last updated 2026-08-05.*

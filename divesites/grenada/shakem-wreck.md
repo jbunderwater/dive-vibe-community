@@ -61,4 +61,4 @@ The Shakem offers a more intimate wreck photography experience than the Bianca C
 - Typically combined with the Bianca C or Veronica L for multi-wreck dive trips
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DreamWrecks - Shakem](https://dreamwrecks.com/shakem-grenada-shipwreck), [Freedom Tour Travel - Wrecks of Grenada's South Coast](https://freedomtourtravel.com/diving-the-wrecks-of-grenadas-south-coast/), [California Diver Magazine - Grenada](https://californiadiver.com/scuba-diving-the-spice-island-of-grenada-0820/). Last updated 2026-06-04.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DreamWrecks - Shakem](https://dreamwrecks.com/shakem-grenada-shipwreck), [Freedom Tour Travel - Wrecks of Grenada's South Coast](https://freedomtourtravel.com/diving-the-wrecks-of-grenadas-south-coast/), [California Diver Magazine - Grenada](https://californiadiver.com/scuba-diving-the-spice-island-of-grenada-0820/). Last updated 2026-08-05.*

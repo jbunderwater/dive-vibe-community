@@ -61,4 +61,4 @@ The Veronica L's excellent natural light at 15 metres makes this a strong photog
 - Commonly paired with the Underwater Sculpture Park or a reef site for a varied morning two-tank trip
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DreamWrecks - Veronica L](https://dreamwrecks.com/veronica-l-grenada-shipwreck), [X-Ray Magazine - Grenada](https://xray-mag.com/content/grenada-spice-isle-caribbean), [One Million Places - Veronica L](https://one-million-places.com/en/island-grenada/diving-on-the-wreck-of-the-cargo-ship-veronica-l). Last updated 2026-06-04.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [DreamWrecks - Veronica L](https://dreamwrecks.com/veronica-l-grenada-shipwreck), [X-Ray Magazine - Grenada](https://xray-mag.com/content/grenada-spice-isle-caribbean), [One Million Places - Veronica L](https://one-million-places.com/en/island-grenada/diving-on-the-wreck-of-the-cargo-ship-veronica-l). Last updated 2026-08-05.*
