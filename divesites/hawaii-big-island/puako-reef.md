@@ -44,7 +44,7 @@ White-tip reef sharks (Triaenodon obesus): confirmed resting in the lava pukas (
 
 Spotted eagle rays (Aetobatus narinari): documented by local divers in the deeper sandy sections.
 
-Yellow tangs, parrotfish, various eels, nudibranchs, and octopus are documented reef species here.
+Yellow tangs, parrotfish, various eels, nudibranchs, and octopus are documented reef species here. Large ulua (giant trevally), including individuals reported over 200 lb, are documented at Puako by greatestdivesites.com — attributed to the sheer drop-off and current-swept channel structure nearby.
 
 Hammerhead sharks have been sighted at Puako; these are uncommon encounters and not a reliable feature.
 
@@ -71,4 +71,4 @@ Conditions deteriorate when trade winds are strong; afternoon diving here is typ
 - Avoid bare-skin contact with lava rock — extremely sharp
 
 ---
-*Sources: [Jack's Diving Locker — Puako Village End](https://jacksdivinglocker.com/puako-village-end), [ScubaBoard — Shore Diving Puako](https://scubaboard.com/community/threads/shore-diving-puako.624616/), [Hawaii Greatest Dive Sites — Puako](https://hawaii.greatestdivesites.com/hawaii_big_island/puako). Last updated 2026-06-06.*
+*Sources: [Jack's Diving Locker — Puako Village End](https://jacksdivinglocker.com/puako-village-end), [ScubaBoard — Shore Diving Puako](https://scubaboard.com/community/threads/shore-diving-puako.624616/), [Hawaii Greatest Dive Sites — Puako](https://hawaii.greatestdivesites.com/hawaii_big_island/puako). Re-audited 2026-08-05: directly re-fetched all three sources; content re-confirmed accurate. Added large ulua sighting from greatestdivesites.com. Last updated 2026-08-05.*

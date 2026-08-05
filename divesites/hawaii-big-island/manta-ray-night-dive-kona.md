@@ -44,7 +44,7 @@ No site-specific reports exist for the night dive site itself beyond manta rays 
 
 ## Manta Village vs Garden Eel Cove
 
-Both are legitimate manta sites. Manta Village (Keauhou) opened first, circa 1991, when bright hotel lights at the then-Kona Surf Hotel began concentrating plankton and attracting mantas. Garden Eel Cove was established as a manta night dive site in August 1999. Garden Eel Cove benefits from protection from south swells and a larger, more open sandy viewing area. Kona Honu Divers has operated exclusively at Garden Eel Cove since 2018. Conditions and local operator preference determine which site is used on any given night.
+Both are legitimate manta sites. Manta Village (Keauhou) is the older site: floodlights installed at the then-Kona Surf Hotel in the early 1970s (originally so guests could watch the surf at night) unintentionally concentrated plankton and began attracting mantas. It wasn't until 1991 that a dive operator, Kona Coast Divers, recognised the opportunity and began scheduling regular night dives there — commercial manta diving started in 1991, not the mantas' presence itself. Garden Eel Cove was established as a separate manta night dive site in August 1999. Garden Eel Cove benefits from protection from south swells and a larger, more open sandy viewing area. Kona Honu Divers has operated exclusively at Garden Eel Cove since 2018. Conditions and local operator preference determine which site is used on any given night.
 
 ## Conservation
 
@@ -59,4 +59,4 @@ Manta Pacific Research Foundation (mantapacific.org) has catalogued over 450 ind
 - Discuss current conditions with your operator — occasional strong currents can occur
 
 ---
-*Sources: [Kona Diving Company — Mantas of Kona](https://konadivingcompany.com/mantas-of-kona/), [Manta Ray Advocates Hawaii — Viewing Sites](https://mantarayadvocates.com/manta-ray-viewing-sites-kona-hawaii/), [Kona Honu Divers — Garden Eel Cove](https://konahonudivers.com/manta-ray-heaven-garden-eel-cove/), [Wikipedia — Manta Ray Night Dive](https://en.wikipedia.org/wiki/Manta_ray_night_dive). Last updated 2026-06-06.*
+*Sources: [Kona Diving Company — Mantas of Kona](https://konadivingcompany.com/mantas-of-kona/), [Manta Ray Advocates Hawaii — Viewing Sites](https://mantarayadvocates.com/manta-ray-viewing-sites-kona-hawaii/), [Kona Honu Divers — Garden Eel Cove](https://konahonudivers.com/manta-ray-heaven-garden-eel-cove/), [Wikipedia — Manta Ray Night Dive](https://en.wikipedia.org/wiki/Manta_ray_night_dive). Re-audited 2026-08-05: Manta Village origin story corrected (hotel lights attracted mantas from the early 1970s; commercial night dives began in 1991, not the site's origin). All other claims re-verified against current source content. Last updated 2026-08-05.*

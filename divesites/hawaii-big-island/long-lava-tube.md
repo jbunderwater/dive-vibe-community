@@ -68,4 +68,4 @@ Tubastrea coral in the tube interior is the primary photographic subject. Bring 
 - Liveaboard and long-range charter safety briefings apply; follow operator protocols
 
 ---
-*Sources: [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving), [ScubaBoard — Big Island/Kona diving](https://scubaboard.com/community/threads/big-island-kona-diving.260269/), [Dive the World — Hawaii Kona](https://www.dive-the-world.com/diving-sites-hawaii.php). Last updated 2026-06-06.*
+*Sources: [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving), [ScubaBoard — Big Island/Kona diving](https://scubaboard.com/community/threads/big-island-kona-diving.260269/), [Dive the World — Hawaii Kona](https://www.dive-the-world.com/diving-sites-hawaii.php). Re-audited 2026-08-05: directly re-fetched dive-the-world.com's Tubastrea Tunnel entry and re-confirmed the ~13m/40ft max depth and tube length figures — no correction needed. Last updated 2026-08-05.*

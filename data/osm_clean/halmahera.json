@@ -11,9 +11,10 @@
     "tags": {
       "source": "osm_extended",
       "historic": "wreck",
-      "validation_source": "ibiblio.org/hyperwar, history.navy.mil, pacificwrecks.com",
+      "validation_source": "navsource.org, history.navy.mil, ibiblio.org",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Re-pulled all sources. Confirmed via navsource.org (PT-371 unit page), history.navy.mil (US Navy Motor Torpedo Boat Operational Losses), and ibiblio.org/hyperwar (At Close Quarters Part VIII and Appendix B): PT-371 was a 70-ft Scott-Paine design boat built by Canadian Power Boat Co., Montreal, acquired under reverse lend-lease from the Dutch government, assigned to MTBRon 18, grounded on an uncharted reef near Tagalasa, Halmahera and destroyed by her crew to prevent capture on 19 September 1944 (ibiblio's 'night of 18/19 September' phrasing is consistent with the 19 Sept date in navsource/history.navy.mil). All three sources agree - no conflicts. Corrected JSON validation_source to match sources actually cited in the markdown footer (previous list included pacificwrecks.com, which was not actually used for site-specific facts). No independent dive-operator or dive-database listing was found confirming PT-371 is an actively guided dive site; this remains noted as an open question in the markdown rather than asserted as fact."
     }
   },
   {
@@ -29,10 +30,10 @@
       "source": "osm_extended",
       "historic": "wreck",
       "wreck:date_sunk": "1943-12-12",
-      "validation_source": "wikipedia.org/USS_Tuna, uboat.net, ibiblio.org/hyperwar",
+      "validation_source": "wikipedia.org, uboat.net, ibiblio.org",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source cites USS Tuna Wikipedia (the submarine that sank it), uboat.net, and ibiblio.org. Wreck history confirmed: 5,484-GRT Japanese cargo ship, sunk 12 Dec 1943 by USS Tuna SS-203. OSM-recorded sinking date 1941-12-12 was incorrect (now noted). No independent dive site review found beyond the wreck identification sources. Dive site details (depth 20m, boat entry) come from OSM coordinates only."
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05 - LOCATION CONFLICT FLAGGED. Wikipedia (USS Tuna SS-203) states the sinking of Tosei Maru (5,484 GRT, 12 Dec 1943) occurred during Tuna's ninth patrol in the 'Java Sea and Flores Sea' region. uboat.net independently gives sinking coordinates 02°44'N, 126°14'E, which is roughly 300km northwest of Kao Bay (1.15N, 127.83E) - nowhere near this dive site's location. No source (Wikipedia, uboat.net, ibiblio.org/JANAC losses) states the vessel was towed to or came to rest in Kao Bay. Additionally found an academic paper (Jurnal Pusaka, ejournal.unkhair.ac.id) documenting a wreck locally believed by residents to be a Japanese vessel ('Toshimaru') near Sosol Beach, Malifut, North Halmahera - the paper explicitly treats the ship's identity as unconfirmed and calls for further nautical-archaeology investigation, not as a settled identification. The link between the OSM-tagged 'Tosei Maru' wreck at these coordinates and the historically documented USS Tuna sinking is NOT independently corroborated by any source consulted. Ship name, tonnage, and sinking date are well-documented for the historical Tosei Maru sinking (2 independent sources: Wikipedia, uboat.net), but the specific identification and location of THIS dive site as that vessel is unconfirmed. Markdown rewritten to state this as an open conflict rather than asserting the tow-to-Kao-Bay narrative as fact."
     }
   },
   {
@@ -48,7 +49,8 @@
       "addedBy": "gap_fill",
       "validation_source": "padi.com/dive-site/indonesia/biatabang, zubludiving.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Re-pulled PADI's Biatabang page directly and confirmed depth (30m/98ft), advanced difficulty, wall/overhang topography, and species list. PADI's page includes a long generic species list (whales, dolphins, various reef fish) typical of PADI's site-type templates; markdown already correctly hedges that these regional/generic entries are not confirmed specifically at Biatabang. No conflicts found."
     }
   },
   {
@@ -64,7 +66,8 @@
       "addedBy": "gap_fill",
       "validation_source": "getlost.id, wonderful.ternatekota.go.id, scubago.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Re-searched and reconfirmed KM Pari (36m cargo vessel, 15-23m depth), the navy-sunk illegal fishing boat at 19m, and the motorcycle/bus artificial-reef additions. Facts consistent across sources. No conflicts found."
     }
   },
   {
@@ -72,7 +75,7 @@
     "lat": 0.9708,
     "lon": 126.1445,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -80,7 +83,8 @@
       "addedBy": "gap_fill",
       "validation_source": "mermaid-liveaboards.com/dive_spots/pulau-tifore, indopacificimages.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: site_type changed from reef to pinnacle - Liveaboard Indonesia's current page explicitly describes Tifore as an 'open-ocean seamount' with 'steep walls' dropping into blue water, and confirms hammerhead sharks, mobula rays, dogtooth tuna, barracuda schools, and Napoleon wrasse at the site (matching the previously-cited hedged claims, which are now more firmly supported). Mermaid Liveaboards independently confirms the barracuda 'tornado' schooling behaviour. No conflicts found."
     }
   },
   {
@@ -96,7 +100,8 @@
       "addedBy": "gap_fill",
       "validation_source": "indopacificimages.com, cruisingindonesia.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Reconfirmed as a real, named Goraici Islands dive site grouped with Terumbu Gora and a Pulau Goweba site (matches existing markdown). Cruising Indonesia's current page confirms Goraici-general facts (blacktip reef sharks, coral walls, dynamite/cyanide-fishing prevention) but does not name Reenie's Rock specifically in the fetched content, so the full site-specific species list (dogtooth tuna, whitetip/grey reef sharks, leaf fish) could not be independently re-confirmed word-for-word in this pass; no contradicting information was found either. Kept as validated with a lower-confidence note rather than stripped, since no error was identified."
     }
   },
   {
@@ -110,10 +115,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "konjocruisingindonesia.com, padi.com/dive-site/indonesia/batu-mandi, indopacificimages.com",
+      "validation_source": "konjocruisingindonesia.com, indopacificimages.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
-      "depth_note": "Wall descends to 30m recreational limit; deeper sections exist beyond 30m"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05 - SOURCE ERROR CORRECTED. The previously-cited PADI 'Batu Mandi' page (padi.com/dive-site/indonesia/batu-mandi) was re-pulled and found to describe a DIFFERENT dive site: coordinates 1.68780, 125.16213 near Pulau Bangka, North Sulawesi (part of a 'Bangka day trip', featuring giant frogfish) - not this Halmahera/Goraici site. This was a misattribution and the PADI citation has been removed from both this tag and the markdown footer. Konjo Cruising Indonesia was re-pulled directly and independently confirms the humphead wrasse, batfish schools, and bannerfish schools at this specific Batu Mandi in the northern Goraici Islands - this remains a solid, site-specific source. A second distinct domain (indopacificimages.com) covers the Goraici area generally but a site-specific mention of 'Batu Mandi' could not be located in the pages checked this pass. UNRESOLVED: could not find a 3rd genuinely independent, site-specific source after removing the bad PADI citation - flagged in QA summary per the >=3-source requirement. Left validated=true per policy (do not flip validation status, but do not pad with a weak source) since the remaining depth/topography/species facts are corroborated by the one strong source and no error was found in them."
     }
   },
   {
@@ -129,7 +134,8 @@
       "addedBy": "gap_fill",
       "validation_source": "mermaid-liveaboards.com/dive_spots/terumbu-gora, cruisingindonesia.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Re-pulled Mermaid Liveaboards directly - confirms 'very healthy' fish life, large sponges, healthy corals, and Napoleon wrasse/tuna/reef sharks hunting on the walls, matching the existing markdown. No conflicts found."
     }
   },
   {
@@ -143,9 +149,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "indopacificimages.com, neptuneliveaboards.com/blog/halmahera-diving, bluewaterdivetravel.com",
+      "validation_source": "indopacificimages.com, neptuneliveaboards.com/blog/halmahera-diving, xray-mag.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Reconfirmed via Neptune Liveaboards ('renowned for dramatic shark activity when conditions align') and X-Ray Mag's Southwestern Halmahera article (Proco Island, Batinti/Patinti Straits, listed as a named site). Replaced bluewaterdivetravel.com in the source list with xray-mag.com after direct re-verification; bluewaterdivetravel.com's general Halmahera page was not re-checked this pass for Proco-specific detail. No factual conflicts found."
     }
   },
   {
@@ -161,8 +168,9 @@
       "addedBy": "gap_fill",
       "validation_source": "indopacificimages.com, neptuneliveaboards.com/blog/halmahera-diving, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08",
-      "depth_note": "IndoPacific Images confirms pinnacle to 35m with mini-wall at 15m"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Neptune Liveaboards reconfirms Batu Jabu as a 'rock seamount offering calmer lee-side reefs rich in corals' in the Patinti Strait, sheltered relative to Proco Channel - consistent with existing description. Depth_note retained from prior pass (IndoPacific Images mini-wall at 15m, pinnacle to 35m).",
+      "depth_note": "Wall descends to 30m recreational limit; deeper sections exist beyond 30m. IndoPacific Images confirms pinnacle to 35m with mini-wall at 15m"
     }
   },
   {
@@ -176,9 +184,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "wedaresort.com/dive-sites-halmahera, zubludiving.com, liveaboardindonesia.com",
+      "validation_source": "wedaresort.com/dive-sites-halmahera, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05 - SOURCE ERROR CORRECTED, WRECK-HISTORY SINGLE-SOURCE FLAG. The ScubaBoard 'Trip Report Weda Resort April 2019' thread was re-read in full: it does NOT mention Foya Wreck anywhere (it covers Shark Mountain and general reef diving only). That citation has been removed from the Foya Wreck footer/validation_source - it was previously misattributed. This means the specific wreck-history facts (35m steamer, 'sub-chaser' role, discovered 2014, 10-30m depth) are sourced ONLY to wedaresort.com, the resort that discovered and dives the wreck - no independent Wikipedia, maritime-history, or second dive-database source could be found confirming vessel type, length, or role. This falls short of the >=2-independent-source bar required for wreck history. UNRESOLVED per QA requirement 4 - flagged in summary. Facts retained in markdown (single credible operator source, internally consistent, no conflicting claims found) but hedged explicitly as single-sourced rather than independently cross-verified."
     }
   },
   {
@@ -194,7 +203,8 @@
       "addedBy": "gap_fill",
       "validation_source": "wedaresort.com/dive-sites-halmahera, zubludiving.com, scubaboard.com/trip-report-weda-resort-2019",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Re-read the ScubaBoard trip report thread in full - it independently and directly confirms Shark Mountain as a 'very special dive' in early morning with abundant fish and difficult autofocus/photography conditions due to depth and low light, matching wedaresort.com's description. Genuine independent corroboration (unlike Foya Wreck, this thread does discuss this specific site). No conflicts found."
     }
   },
   {
@@ -210,7 +220,8 @@
       "addedBy": "gap_fill",
       "validation_source": "jakare-liveaboard.com/halmahera-hidden-dive-gem, xray-mag.com/content/halmahera-0, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Re-pulled both Jakare Liveaboard (reef/silvertip/whitetip/blacktip sharks) and X-Ray Mag (hawksbill sea turtles resting on the reef, endemic amphipods 'found nowhere else', current/swell challenging for macro photography) directly. Species list updated to specify hawksbill turtles per X-Ray Mag's confirmed wording. No conflicts found."
     }
   },
   {
@@ -224,9 +235,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "pacificwrecks.com/aircraft/beaufort, zubludiving.com, liveaboardindonesia.com",
+      "validation_source": "pacificwrecks.com/aircraft/beaufort, merapitours.com, liveaboardindonesia.com",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Found an additional independent source, Merapi Tours' Metita/Morotai dive-spot guide, which names the site the 'Wawama wreck site' and independently confirms two Bristol Beaufort aircraft plus jeeps as WWII wreckage there - consistent with the existing description. No specific tail number, unit, or individual loss date/cause could be found for this particular aircraft in any source (appropriately left unstated/hedged in the markdown, per anti-hallucination policy - do not invent a specific loss narrative for an unidentified airframe)."
     }
   },
   {
@@ -242,7 +254,8 @@
       "addedBy": "gap_fill",
       "validation_source": "liveaboardindonesia.com, zubludiving.com, neptuneliveaboards.com/blog/halmahera-diving",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Reconfirmed via search synthesis of Halmahera dive-site guides - Womow is a seamount rising to ~7m with steep drop-offs, hard coral top, and grey reef/blacktip/whitetip sharks, tunas, giant trevallies, fusiliers, and pyramid butterflyfish, plus a second nearby 'Womow Reef 2' site - matches existing markdown closely. Direct single-page fetches of neptuneliveaboards.com/blog/halmahera-diving did not individually surface the Womow section (likely a different page section/URL on that domain), so this is confirmed via synthesized search results rather than a single direct page fetch this pass."
     }
   },
   {
@@ -258,7 +271,8 @@
       "addedBy": "gap_fill",
       "validation_source": "cruisingindonesia.com, liveaboardindonesia.com, wikipedia.org/Hemiscyllium_halmahera",
       "validated": "true",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-05",
+      "notes": "Re-audit 2026-08-05: Re-pulled Cruising Indonesia directly - confirms muck diving 'under the pier' at Makian with frogfish, ghost pipefish, scorpionfish, and eels amongst coral-covered pillars, plus the black-sand/coral colour contrast in the northern area. Matches existing markdown. The Halmahera epaulette shark (Hemiscyllium halmahera) note remains correctly hedged as regionally-endemic but not independently confirmed at this specific site."
     }
   }
 ]
