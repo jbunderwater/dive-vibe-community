@@ -17,7 +17,7 @@ Batu Mandi is a wall dive site in the Goraici Islands or Patinti Strait area of 
 
 ## Overview
 
-Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the surface at low tide. The dive begins in the shallows at around 3 metres and descends along an exceptional wall that extends to 30 metres. The wall draws in schools of batfish and bannerfish, and a resident humphead wrasse (*Cheilinus undulatus*) has been documented at the site. Sources from Konjo Cruising Indonesia and IndoPacific Images confirm Batu Mandi as part of the western Halmahera / Goraici Islands liveaboard circuit.
+Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the surface at low tide. The dive begins in the shallows at around 3 metres and descends along an exceptional wall that extends to 30 metres. The wall draws in schools of batfish and bannerfish, and a resident humphead wrasse (*Cheilinus undulatus*) has been documented at the site. Konjo Cruising Indonesia's Halmahera liveaboard itinerary page directly and specifically confirms this site (northern Goraici Islands) with these species. **Re-audit note (2026-08-05):** a PADI "Batu Mandi" page was previously cited as a second source, but on re-checking it describes an entirely different dive site near Pulau Bangka, North Sulawesi (coordinates ~1.69°N, 125.16°E, featuring giant frogfish on a "Bangka day trip") — a name collision, not this Halmahera site. That citation has been removed. A second fully independent, site-specific source for this Goraici Batu Mandi could not be located this pass; the description below rests primarily on Konjo Cruising Indonesia.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the su
 
 ## Marine Life
 
-Documented species at Batu Mandi include large schools of batfish (Platax spp.) and bannerfish, and a resident humphead wrasse. These are confirmed by Konjo Cruising Indonesia and IndoPacific Images. Wall substrate supports soft corals and sponges. No additional site-specific species reports have been found beyond these confirmed sightings.
+Documented species at Batu Mandi include large schools of batfish (Platax spp.) and bannerfish, and a resident humphead wrasse. These are confirmed directly by Konjo Cruising Indonesia's site description. Wall substrate supports soft corals and sponges. No additional site-specific species reports have been found beyond these confirmed sightings, and (per the re-audit note above) the previously-cited IndoPacific Images/PADI corroboration for this specific list could not be independently reconfirmed this pass.
 
 ## Dive Profile
 
@@ -48,4 +48,4 @@ Look for the humphead wrasse early in the dive while in the shallower zone. Desc
 Currents on the wall can accelerate unexpectedly in the western Halmahera area. Carry an SMB and be prepared to ascend off the wall if current becomes unmanageable. The site is remote — medical evacuation to Ternate and then Manado would be required in an emergency. Recreational diving should be limited to 30 metres; no-decompression diving beyond this depth requires appropriate advanced training and certification.
 
 ---
-*Sources: [Konjo Cruising Indonesia – Halmahera Liveaboard](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/), [IndoPacific Images – West Halmahera Dive Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-west-halmahera-scuba-diving-sites/), [PADI Dive Site – Batu Mandi](https://www.padi.com/dive-site/indonesia/batu-mandi/). Last updated 2026-06-04.*
+*Sources: [Konjo Cruising Indonesia – Halmahera Liveaboard](https://konjocruisingindonesia.com/itineraires/halmahera-diving-liveaboard/). Re-audited 2026-08-05: the PADI "Batu Mandi" citation previously listed here was removed — it describes an unrelated site in North Sulawesi. Only one fully site-specific source could be confirmed this pass; this falls short of the destination's 3-independent-source QA bar and is flagged as unresolved pending further research. Last updated 2026-08-05.*
