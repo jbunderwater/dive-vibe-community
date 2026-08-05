@@ -19,7 +19,7 @@ Honokohau Harbor is the operational hub of Kona diving and also the access point
 
 The harbour sits between Kona International Airport and Kailua-Kona and serves as the departure point for virtually all major Kona boat dive operations. For shore diving, the site of interest is Crescent Beach, also known locally as Manta Ray Bay, Nai'a Bay, Alua Beach, and Dog Beach — a small sandy cove accessible by a 10–15 minute walk over lava rock from the harbour car park. The beach is directly adjacent to the harbour entrance, within an active boat channel.
 
-The site has a documented local population of over 20 tiger sharks (Galeocerdo cuvier) that use the harbour as a regular patrol area, particularly in summer months, attracted by billfishing activity from the harbour. It is frequently cited as one of the most reliably accessible places to see tiger sharks on the Big Island.
+The site has a well-documented resident tiger shark (Galeocerdo cuvier) presence that uses the harbour as a regular patrol area, particularly in summer months, attracted by billfishing activity from the harbour. It is frequently cited — including by multiple Kona dive operators — as possibly the single most reliable place to see tiger sharks anywhere in the world, though sightings are not guaranteed on every dive.
 
 ## Site Information
 
@@ -40,7 +40,7 @@ Note: This is primarily a working harbour; most visiting divers use Honokohau as
 
 ## Marine Life
 
-Tiger sharks (Galeocerdo cuvier) are documented residents associated with the harbour; most sightings are at 7–18 metres depth on the reef slope. Garden eels in sandy patches. Moray eels, octopus, barracudas, eagle rays, and green sea turtles are also documented at this site. Dolphins are occasionally seen.
+Tiger sharks (Galeocerdo cuvier) are documented residents associated with the harbour; most sightings are at 7–18 metres depth on the reef slope. Garden eels in sandy patches. Moray eels ("giant eels" per diver reports), octopus, barracudas, white-tip reef sharks, rays "of many varieties," and green sea turtles are also documented at this site. Dolphins are occasionally seen.
 
 No site-specific sources confirm manta rays or whale sharks as regular features of the shore dive here (they occur in the broader Kona region); those claims have been removed from the marine life section.
 
@@ -58,4 +58,4 @@ From Highway 19, turn into Honokohau Harbor. Park near the harbour facilities. W
 - Many local divers report other Kona shore dives offer comparable reef quality without the boat traffic hazard
 
 ---
-*Sources: [Jack's Diving Locker — Honokohau Beach / Manta Ray Bay](https://jacksdivinglocker.com/honokohau-beach-manta-ray-bay), [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving), [ScubaBoard — Crescent Beach/Honokohau Harbor Shore Dive](https://scubaboard.com/community/threads/crescent-beach-honokohau-harbor-shore-dive-help.633903/). Last updated 2026-06-06.*
+*Sources: [Jack's Diving Locker — Honokohau Beach / Manta Ray Bay](https://jacksdivinglocker.com/honokohau-beach-manta-ray-bay), [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving), [ScubaBoard — Crescent Beach/Honokohau Harbor Shore Dive](https://scubaboard.com/community/threads/crescent-beach-honokohau-harbor-shore-dive-help.633903/), [Kona Honu Divers — Best Kona Shark Diving](https://konahonudivers.com/the-best-kona-shark-diving-opportunities/), [Tripadvisor — Crescent Beach Shore Dive reviews](https://www.tripadvisor.com/ShowUserReviews-g60872-d560896-r289671955-Honokohau_Marina_Small_Boat_Harbor-Kailua_Kona_Island_of_Hawaii_Hawaii.html). Re-audited 2026-08-05: removed an unverifiable specific tiger shark count ("over 20"), added white-tip reef sharks to confirmed marine life. Last updated 2026-08-05.*

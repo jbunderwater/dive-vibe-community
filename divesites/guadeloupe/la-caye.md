@@ -19,6 +19,8 @@ La Caye is an intermediate reef dive in the Malendure area, offered by Les Heure
 
 La Caye is listed by Les Heures Saines as one of their regular dive sites. It is featured specifically as a night dive location, described by Les Heures Saines as an intimate atmosphere with 60-minute dives revealing corals and nocturnal creatures. It is situated in the Malendure/Bouillante area, south of the main Pigeon Island reserve sites, and can reach 25 metres at its deepest.
 
+**Depth discrepancy found in re-audit (2026-08-05):** a fresh fetch of heures-saines.com's current dive-spot listing for "La Kaye" describes it as a 0-15m site located "at the club base" and used as the reserve's primary night-dive location (Wednesday/Saturday, 17:30) — considerably shallower than the 25m figure this file (and the original curated JSON entry) attributes to the same operator. Both figures ultimately trace back to Les Heures Saines' own materials, so this is recorded as an unresolved source conflict rather than corrected in either direction. It is possible the site is dived to different depths by day (deeper) versus at night (shallow, near base) under the same name.
+
 ## Site Information
 
 - **Location**: Malendure area, Basse-Terre, Guadeloupe
@@ -40,4 +42,4 @@ Regional marine life applies; beyond night dive species confirmed above, no addi
 La Caye is recommended specifically as a night dive site by Les Heures Saines. Basket stars (astrophyton) and corallimorph anemones extend their feeding structures at night, making the site significantly different from daytime.
 
 ---
-*Sources: [Les Heures Saines — Dive Sites](https://www.heures-saines.com/spots-de-plongee/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Tribloo — Guadeloupe dive sites](https://tribloo.com/en/destination/2/diving/guadeloupe.html). Last updated 2026-06-04.*
+*Sources: [Les Heures Saines — Dive Sites](https://www.heures-saines.com/spots-de-plongee/), [Les Heures Saines — Dive Spots, Cousteau Reserve](https://www.heures-saines.com/spots-de-plongee/reserve-cousteau/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Tribloo — Guadeloupe dive sites](https://tribloo.com/en/destination/2/diving/guadeloupe.html). Re-audited 2026-08-05 — depth conflict noted above, unresolved. Last updated 2026-08-05.*

@@ -21,6 +21,8 @@ The Franjack was built in 1958 at the Danyard Frederikshavns yard in Denmark und
 
 The wreck rests flat on its keel. Its engine room, galley, and hold spaces are accessible for internal exploration.
 
+**Re-audit finding (2026-08-05):** heures-saines.com's current wreck page and gwadaplans.com were both directly re-fetched and continue to support the history above (built 1958, Danyard Frederikshavns, Denmark; ex-Oresund; renamed Franjack 1976; arrived Guadeloupe 1983 for SAGUA; damaged by Hurricane Hugo 1989; scuttled 9 June 1996). One conflict found: PADI's own dive-site page (padi.com/fr/site-plongee/guadeloupe/franjack/) states the wreck is "45 mètres de long (135 pieds)" — note that 135 feet actually converts to about 41m, not 45m, so PADI's own figure is internally inconsistent, suggesting an error on their page rather than a genuine alternate measurement. The 53.32m figure from heures-saines.com/gwadaplans.com is treated as more reliable here, but the PADI discrepancy is recorded rather than silently dropped.
+
 ## Site Information
 
 - **Location**: Cousteau Reserve, near Malendure, Basse-Terre, Guadeloupe
@@ -41,4 +43,4 @@ Confirmed at this wreck: sponges, bryozoans, anemones, moray eels, shrimp coloni
 Penetration of the engine room, galley, and hold is possible — enter only with a torch and appropriate training for wreck penetration. Never penetrate beyond the light zone without a proper wreck certification and redundant lighting. The wreck has been in the water since 1996 and some sections may be weakened. Safety stop mandatory at 5 metres.
 
 ---
-*Sources: [Les Heures Saines — Wrecks](https://www.heures-saines.com/en/exploration-of-wrecks/), [PADI — Franjack](https://www.padi.com/dive-site/the-guadeloupe-islands/franjack/), [Divingaway — Wreck Franjack](https://divingaway.com/en/wreck-366/franjack), [DiveBuddy — Franjack Guadeloupe](http://www.divebuddy.com/divesite/3766/franjack-guadeloupe/). Last updated 2026-06-04.*
+*Sources: [Les Heures Saines — Dive Spots, Wreck Exploration](https://www.heures-saines.com/spots-de-plongee/exploration-epaves/), [GwadaPlans — Épaves marines de Guadeloupe](https://gwadaplans.com/epaves-marines-guadeloupe/), [PADI — Franjack](https://www.padi.com/fr/site-plongee/guadeloupe/franjack/), [Rentiles — 3 épaves en Guadeloupe](https://www.rentiles.fr/blog-voyage/guadeloupe-plongees-epaves.html). Re-audited 2026-08-05, length discrepancy with PADI's page noted above. Last updated 2026-08-05.*

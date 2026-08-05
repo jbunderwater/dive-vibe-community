@@ -33,4 +33,6 @@ No site-specific marine life documentation found. The Grand Cul-de-Sac Marin ree
 
 Regional marine life applies; no site-specific species reports found.
 
-*Description based on OSM data only. No site-specific sources found. Last updated 2026-06-04.*
+Re-checked 2026-08-05: WebSearch found no dive-specific results distinguishing this caye from the nearby Îlet Fortune. Remains unvalidated.
+
+*Description based on OSM data only. No site-specific sources found. Re-checked 2026-08-05. Last updated 2026-08-05.*

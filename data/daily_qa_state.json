@@ -2,13 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "greenland",
-    "grenada",
-    "guadeloupe",
-    "guam",
-    "halmahera",
-    "hawaii",
-    "hawaii-big-island",
     "hawaii-kauai",
     "hawaii-maui",
     "hawaii-oahu",
@@ -175,7 +168,14 @@
     "gili-islands",
     "great-barrier-reef",
     "great-lakes",
-    "greece"
+    "greece",
+    "greenland",
+    "grenada",
+    "guadeloupe",
+    "guam",
+    "halmahera",
+    "hawaii",
+    "hawaii-big-island"
   ],
   "history": [
     {
@@ -2748,6 +2748,96 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/136"
+    },
+    {
+      "date": "2026-08-05",
+      "slugs": [
+        "greenland",
+        "grenada",
+        "guadeloupe",
+        "guam",
+        "halmahera",
+        "hawaii",
+        "hawaii-big-island"
+      ],
+      "notes": "hawaii is an isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs. hawaii-big-island was substituted in to keep 6 real destinations audited today.",
+      "summary": {
+        "sites_total": 82,
+        "sites_validated_today": 24,
+        "sites_re_audited": 74,
+        "hallucinations_removed": 13,
+        "marine_life_stripped": 5,
+        "wreck_conflicts_flagged": 11,
+        "sites_unresolved": 16,
+        "by_destination": {
+          "greenland": {
+            "sites_total": 6,
+            "sites_validated_today": 0,
+            "sites_re_audited": 6,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 6,
+            "notes": "Cold-water destination genuinely under-documented at individual-site level; no dive-specific source names any of the 6 OSM-derived sites despite exhaustive re-research (dive-shop scraping, ScubaBoard, Wikipedia/NHESS). Carl wreck: two candidate vessel identities investigated and explicitly ruled out rather than conflated. validated remains false on all 6, correctly."
+          },
+          "grenada": {
+            "sites_total": 12,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 2,
+            "notes": "Removed unconfirmable 'vehicle graveyard' claim on Valley of Whales (dead source, unconfirmable on live re-fetch). Bianca C: 536ft vs 180m/600ft length conflict flagged as likely single-source error; stern-loss date narrowed to late 1992 (2 sources). Valley of Whales/Happy Valley site-identity ambiguity surfaced and downgraded from fact to flagged note. Spice Island Reef and Happy Hill remain unresolved (fewer than 3 sources)."
+          },
+          "guadeloupe": {
+            "sites_total": 30,
+            "sites_validated_today": 24,
+            "sites_re_audited": 24,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 5,
+            "sites_unresolved": 6,
+            "notes": "French-language sources searched. Removed unconfirmable nurse-shark/turtle claim (Pain de Sucre) and an unconfirmed sinking date (Epave de Caret). 5 wreck conflicts flagged across Le Franjack, Le Gustavia, L'Augustin Fresnel II, Epave de l'Ilet Fortune, Epave de Caret rather than guessed. nomad-diver.com found to not actually cover 3 sites it was cited for; citations corrected. 6 sites (La Broumine, 4 Caye-prefixed sites, Caye Gros Loup) remain unresolved."
+          },
+          "guam": {
+            "sites_total": 8,
+            "sites_validated_today": 0,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 0,
+            "notes": "All 8 sites re-confirmed with >=3 distinct source domains. SMS Cormoran casualty count (7 vs 9) and resting side conflicts flagged. Tokai Maru length conflict (134m vs 136m) flagged. Two dead-link source citations replaced. Depth corrections on Gab Gab Reef (18m->30m) and Gun Beach (30m->37m) from cross-source consensus. PADI's templated generic species checklist identified and excluded from 2 sites as non-site-specific."
+          },
+          "halmahera": {
+            "sites_total": 16,
+            "sites_validated_today": 0,
+            "sites_re_audited": 16,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 2,
+            "notes": "Batu Mandi PADI citation found to describe a different site near Pulau Bangka, N. Sulawesi (name collision) - removed. Foya Wreck's ScubaBoard citation found to not mention the site - removed. Tosei Maru: major identity/location conflict flagged - no source confirms the historically-documented Tosei Maru sinking occurred near or was towed to this wreck's Kao Bay location; rewritten as an open conflict rather than asserted fact. Pulau Tifore reclassified reef->pinnacle. Batu Mandi and Foya Wreck remain below the 3-domain bar, left validated per policy rather than padded."
+          },
+          "hawaii-big-island": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites in this destination. Manta Ray Night Dive Kona origin story corrected (conflated 1970s hotel lighting with 1991 commercial night-dive tours). Aquarium: two source citations found invalid (one was actually the Puako Reef page, misattributed) and replaced; overstated 'confirmed abundant' turtle claim softened to general regional presence. Destination-level overview.md had a non-Hawaii template species list (Napoleon wrasse, clownfish, hammerheads) removed."
+          },
+          "hawaii": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory); its children (hawaii-big-island, hawaii-kauai, hawaii-maui, hawaii-oahu) are covered individually elsewhere in the queue. hawaii-big-island was substituted into today's batch to keep 6 real destinations audited."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/137",
+      "errors": []
     }
   ]
 }

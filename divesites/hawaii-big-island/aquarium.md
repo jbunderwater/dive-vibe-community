@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Aquarium
 
-Located in the Miloli'i Bay area of South Kona, the Aquarium takes its name from expectations of fish abundance — though sources clarify that the site's real appeal is its dramatic collapsed lava tube grottoes and skylights, and the exceptionally relaxed Hawaiian green sea turtle population that frequents the area.
+Located in the Miloli'i Bay area of South Kona, the Aquarium takes its name from expectations of fish abundance that multiple divers report the site does not live up to — its real appeal is its dramatic collapsed lava tube grottoes and skylights, with turtles a plausible but not site-specifically confirmed feature of the broader area.
 
 ## Overview
 
@@ -36,11 +36,11 @@ The site consists of coral-encrusted basalt with numerous grottoes and caverns c
 
 ## Marine Life
 
-Hawaiian green sea turtles (Chelonia mydas): confirmed as abundant and "well accustomed to divers" along the Kona Coast at this type of lava grotto site. Close encounters are reported as common.
+No source directly confirms green sea turtles at the Aquarium site specifically — the claim in an earlier version of this page ("confirmed abundant") overstated what the sources actually say. Hawaiian green sea turtles are documented as common and accustomed to divers generally along the Kona Coast, including at nearby lava-grotto sites, and are plausible here, but this description should not be read as a site-specific turtle confirmation until a source reports them at the Aquarium by name.
 
-Fish life: described by the Underwater Photography Guide as "average" for the area — the variety and density of fish at this site is not exceptional compared to other Kona reefs. Small reef fish, crustaceans, and octopus inhabit the grottoes and overhangs. No site-specific species records beyond turtles are available from current independent sources.
+Fish life: described independently by both the Underwater Photography Guide and Underwater Journal as "average" for the area — the variety and density of fish at this site is not exceptional compared to other Kona reefs, and one diver reviewing the site on Zentacle found Miloli'i Bay itself markedly better. Small reef fish, crustaceans, and octopus inhabit the grottoes and overhangs, consistent with general Kona lava-grotto conditions, though no species-level checklist specific to this site has been found.
 
-The site name creates an expectation of spectacular fish abundance that sources do not support; this has been corrected in the description above.
+The site name creates an expectation of spectacular fish abundance that multiple independent sources explicitly contradict; this has been corrected in the description above.
 
 ## Diving the Site
 
@@ -51,7 +51,7 @@ Dives navigate between the various grottoes and cavern systems. Buoyancy control
 - Bring a dive light to illuminate grotto interiors and reveal the true colours of corals and invertebrates
 - Wide-angle lens setups work well for capturing the skylights and cavern architecture
 - Morning light provides the best natural illumination through the skylights
-- Observe turtles from at least 1.5 metres; do not touch or pursue
+- If turtles are encountered, observe from at least 1.5 metres; do not touch or pursue
 
 ## Safety Considerations
 
@@ -62,4 +62,4 @@ Dives navigate between the various grottoes and cavern systems. Buoyancy control
 - Carry a backup light
 
 ---
-*Sources: [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving), [Kona Snorkel and Sail — Big Island Dive Sites](https://konasnorkelandsail.com/), [Hawaii Greatest Dive Sites — Miloli'i](https://hawaii.greatestdivesites.com/hawaii_big_island/puako). Last updated 2026-06-06.*
+*Sources: [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving), [Underwater Journal — Kona Coast, Hawaii](https://www.underwaterjournal.com/hawaii-kona-coast/), [Zentacle — Miloli'i Bay](https://www.zentacle.com/Beach/74/milolii-bay). Re-audited 2026-08-05: CORRECTED two prior source citations. "Hawaii Greatest Dive Sites — Miloli'i" was a misattribution — that URL (hawaii.greatestdivesites.com/hawaii_big_island/puako) is a page about Puako Reef, not the Aquarium, and has been removed from this site's sources (it remains correctly cited on the Puako Reef page). "Kona Snorkel and Sail" was also removed — no Aquarium-specific content could be found on that domain after direct search. Also corrected an overstated marine-life claim: green turtles were described as "confirmed abundant" at this site with no site-specific source; this has been softened to note only general Kona-coast turtle presence. Last updated 2026-08-05.*

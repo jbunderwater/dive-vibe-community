@@ -56,4 +56,4 @@ Walk the 300-meter sea bridge to the observatory. Enter the water adjacent to th
 An extremely gentle dive site. Calm protected bay, shallow depth, and well-maintained access infrastructure. Be aware of snorkelers and observatory visitors sharing the water. The site is a marine preserve — touching, collecting, or disturbing marine life or coral is prohibited.
 
 ---
-*Sources: [Wikipedia — Piti Bomb Holes Marine Preserve](https://en.wikipedia.org/wiki/Piti_Bomb_Holes_Marine_Preserve), [Fish Eye Marine Park](https://fisheyeguamtours.com/), [Visit Guam — Fish Eye Marine Park](https://www.visitguam.com/listing/fish-eye-marine-park/116/). Last updated 2026-06-04.*
+*Sources: [Wikipedia — Piti Bomb Holes Marine Preserve](https://en.wikipedia.org/wiki/Piti_Bomb_Holes_Marine_Preserve), [Fish Eye Marine Park](https://fisheyeguamtours.com/), [Visit Guam — Fish Eye Marine Park](https://www.visitguam.com/listing/fish-eye-marine-park/116/). Re-verified 2026-08-05 — no factual changes found; all figures (1999 preserve establishment, 900 acres, 1996 observatory, 300m/1,000ft boardwalk, two endemic mollusks + one endemic sea urchin) confirmed current. Last updated 2026-08-05.*

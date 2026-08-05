@@ -3,7 +3,7 @@ name: Gun Beach
 lat: 13.52
 lng: 144.78
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 37
 entryType: shore
 siteType: reef
 ref: null
@@ -23,7 +23,7 @@ Entry follows a cable and pipe channel from the beach through the shallow reef f
 
 The left (northward) side of the reef, toward the hotels, holds the best diving: extensive candlestick coral formations, brain corals, and antler corals slope down the reef face. Strong outgoing rip currents at the reef flat exit point require divers to use the cable on return.
 
-**Depth correction**: The previous maximum depth of 20 meters was incorrect. Multiple sources confirm the reef slopes to approximately 30 meters (100 feet) before the sandy plain. The JSON has been updated accordingly.
+**Depth range varies by source**: Wikivoyage describes the reef reaching a sandy plain at 90–100 feet (27–30m). MDA Guam lists a range up to 120 feet (36m). Diver trip reports on Zentacle describe some sections dropping "beyond 130 feet" (40m). This guide uses 37 meters (120 feet), MDA Guam's operator-stated figure, as a representative maximum, while noting divers report the reef's outer edges may extend deeper still.
 
 ## Site Information
 
@@ -31,8 +31,8 @@ The left (northward) side of the reef, toward the hotels, holds the best diving:
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Depth Range**: 4–30 meters
+- **Maximum Depth**: 37 meters
+- **Typical Depth Range**: 4–37 meters
 - **Typical Visibility**: 15–18 meters
 - **Water Temperature**: 28–29 degrees C
 - **Current**: Generally mild in the bay; notable outgoing rip current at the reef flat channel on return
@@ -40,9 +40,9 @@ The left (northward) side of the reef, toward the hotels, holds the best diving:
 
 ## Marine Life
 
-Confirmed at this specific site per dive reports and operator listings: green sea turtles (regularly encountered, habituated to divers), rays (resting on sandy areas), octopus (in rocky crevices), lionfish, pipefish, giant clams, sea stars, pufferfish, and grouper. Candlestick corals, brain corals, and antler corals dominate the reef face. The protected marine preserve status supports healthy fish populations.
+Confirmed at this specific site per dive reports and operator listings: green sea turtles (regularly encountered, habituated to divers), rays (resting on sandy areas), octopus (in rocky crevices), lionfish, pipefish, giant clams, sea stars, pufferfish, and grouper. Candlestick corals, brain corals, and antler corals dominate the reef face; fire corals, feather dusters, and Christmas tree worms are also reported by divers. Spider shells and clownfish (in anemones) round out the confirmed sightings. Grouper, barracuda, triggerfish, blennies, and Napoleon wrasse have also been logged by Zentacle reviewers at this site. The protected marine preserve status supports healthy fish populations.
 
-**Note on manta rays**: MDA Guam lists "manta rays" as visitors to Gun Beach. Rays resting on the sandy bottom are the more commonly reported encounter in diver trip reports; manta sightings are occasional rather than reliable. MDA's listing is noted here without characterizing mantas as a typical encounter.
+**Note on manta rays and reef sharks**: Both MDA Guam and independent Zentacle diver reviews report manta ray sightings at Gun Beach, along with blacktip and whitetip reef sharks — two independent site-specific sources now confirm these, though rays resting on the sandy bottom remain the more consistently reported encounter versus mantas, which are occasional rather than guaranteed.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Shore entry only. Follow the cable and pipe channel from the beach through the r
 The outgoing rip current at the reef flat channel is the primary hazard. Always follow the cable/pipe on the return — it is essential for working back against the current. Do not cross the reef flat outside the channel; the shallow, sharp reef is hazardous. Boat traffic is possible in the bay. Lionfish are present — do not touch. Night diving is possible and productive (octopus more active), but requires good familiarity with the entry/exit procedure.
 
 ---
-*Sources: [MDA Guam — Gun Beach](https://www.mdaguam.com/destination/gun-beach/), [Wikivoyage — Diving in Guam](https://en.wikivoyage.org/wiki/Diving_in_Guam), [Zentacle — Gun Beach](https://www.zentacle.com/Beach/386/gun-beach), [SSI — Gun Beach](https://www.divessi.com/en/mydiveguide/divesite/309153). Last updated 2026-06-04.*
+*Sources: [MDA Guam — Gun Beach](https://www.mdaguam.com/destination/gun-beach/), [Wikivoyage — Diving in Guam](https://en.wikivoyage.org/wiki/Diving_in_Guam), [Zentacle — Gun Beach](https://www.zentacle.com/Beach/386/gun-beach). Note: the previously cited SSI/divessi.com dive-site page (309153) no longer resolves to site content — the SSI dive guide has migrated to scubago.com and the specific listing could not be re-verified during this QA pass, so it has been dropped as a source. Last updated 2026-08-05.*

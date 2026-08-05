@@ -19,6 +19,8 @@ Piscine — "Swimming Pool" — is one of the most sheltered and shallowest dive
 
 The name reflects the site's exceptionally calm, enclosed character. A rocky seabed with coral growth forms the bottom at 4–6 metres. The site is commonly used for discovery dives, first ocean dives, and beginner certifications. It is part of the Cousteau Reserve mooring buoy system.
 
+Re-audit (2026-08-05): heures-saines.com's own "La Piscine" dive-spot listing describes an adjoining sandy-bottomed tombant (drop-off) advertised to "up to 40 metres" for certified divers who continue past the sheltered pool. That deeper figure is not reflected in the 6m maximum-depth field here, which describes the shallow, sheltered zone the name and original sources refer to — flagged as a source discrepancy rather than resolved, since it is unclear whether every operator treats the shallow pool and the deeper tombant as the same named stop.
+
 ## Site Information
 
 - **Location**: Between the twin islets of Pigeon Island, Cousteau Reserve, Malendure, Guadeloupe
@@ -34,4 +36,4 @@ Documented for the Cousteau Reserve by reserve-cousteau.fr: parrotfish, sergeant
 Regional marine life applies; no site-specific species reports found beyond general reserve documentation.
 
 ---
-*Sources: [Reserve Cousteau Official Site](https://www.reserve-cousteau.fr/en), [Les Heures Saines](https://www.heures-saines.com/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-06-04.*
+*Sources: [Reserve Cousteau Official Site](https://www.reserve-cousteau.fr/en), [Les Heures Saines — Dive Spots, Cousteau Reserve](https://www.heures-saines.com/spots-de-plongee/reserve-cousteau/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Re-audited 2026-08-05 — depth discrepancy noted above. Last updated 2026-08-05.*

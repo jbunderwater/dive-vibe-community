@@ -61,4 +61,4 @@ The shallow depth and exceptional clarity make Spice Island Reef one of Grenada'
 - Often the second dive of a two-tank morning, following a deeper wreck or wall site
 
 ---
-*Sources: [X-Ray Magazine - Grenada Dive Guide](https://xray-mag.com/content/grenada-spice-isle-caribbean). One source found referencing this site by name (Aquanauts Grenada operator listing). No independent confirmation from other operators or dive databases. This site remains unvalidated pending additional source confirmation. Last updated 2026-06-04.*
+*Sources: [X-Ray Magazine - Grenada Dive Guide](https://xray-mag.com/content/grenada-spice-isle-caribbean). One source found referencing this site by name (Aquanauts Grenada operator listing). Re-searched 2026-08-05; fresh pull of ECO Dive Grenada's current site list still does not include "Spice Island Reef" by name. No independent confirmation from other operators or dive databases. This site remains unvalidated pending additional source confirmation. Last updated 2026-08-05.*

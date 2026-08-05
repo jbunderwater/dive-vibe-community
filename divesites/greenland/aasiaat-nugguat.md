@@ -23,6 +23,8 @@ Diving in Greenland requires a drysuit and significant cold-water experience. Wa
 
 Regional marine life applies; no site-specific species reports found for Aasiaat Nugguat specifically.
 
+The only named Greenland dive sites documented in published diving media (Borgin wreck, Lighthouse Island, Mussel Island, and the Portuguese Prison Ship wreck, near Sisimiut) are located well south of Aasiaat and do not correspond to this site — Aasiaat Nugguat has not appeared in any dive-specific publication found to date.
+
 ## Site Information
 
 - **Location**: Near Aasiaat, West Greenland
@@ -32,4 +34,4 @@ Regional marine life applies; no site-specific species reports found for Aasiaat
 - **Maximum Depth**: 20 meters
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/), [Air Greenland - Diving](https://www.airgreenland.com/discover-greenland/diving/), [Advanced Diver Magazine - Greenland](https://advanceddivermagazine.com/articles/greenland/greenlandA.html). Last updated 2026-06-04.*
+*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/), [Air Greenland - Diving](https://www.airgreenland.com/discover-greenland/diving/), [Advanced Diver Magazine - Greenland](https://advanceddivermagazine.com/articles/greenland/greenlandA.html). Last updated 2026-08-05.*

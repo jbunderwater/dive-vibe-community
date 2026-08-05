@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Turtle Pinnacle
 
-A submerged volcanic seamount on the North Kona coast that functions as one of the island's most consistent Hawaiian green sea turtle cleaning stations, Turtle Pinnacle rises to within approximately 7 metres of the surface and offers exceptional visibility in light, typical Kona currents.
+A submerged volcanic seamount on the North Kona coast that functions as one of the island's most consistent Hawaiian green sea turtle cleaning stations, Turtle Pinnacle rises to within roughly 5–8 metres of the surface (sources disagree on the exact figure) and offers exceptional visibility in light, typical Kona currents.
 
 ## Overview
 
-Turtle Pinnacle is located off the west coast of the Big Island, north of Kailua-Kona, and features in operator write-ups by Kona Honu Divers and Bluewater Dive Travel as a standout site for turtle encounters. The submerged pinnacle (a subaqueous volcanic feature) rises from the surrounding reef to within about 7 metres (25 feet) of the surface, reaching a maximum depth of approximately 18 metres. The volcanic substrate supports coral growth and provides structure for the cleaning station.
+Turtle Pinnacle is located off the west coast of the Big Island, north of Kailua-Kona, and features in operator write-ups by Kona Honu Divers and Bluewater Dive Travel as a standout site for turtle encounters. The submerged pinnacle (a subaqueous volcanic feature) rises from the surrounding reef toward the surface, reaching a maximum depth of approximately 18 metres. Sources disagree on exactly how close the pinnacle top comes to the surface: one source states roughly 7.6 metres (25 feet), another roughly 4.6 metres (15 feet) — both are reported here rather than picking one. The volcanic substrate supports coral growth and provides structure for the cleaning station.
 
 ## Site Information
 
@@ -62,4 +62,4 @@ No other specific marine life has been confirmed at this particular site through
 - Use an SMB on ascent
 
 ---
-*Sources: [Bluewater Dive Travel — Kona Diving](https://www.bluewaterdivetravel.com/destination/kona-diving), [Kona Honu Divers — Big Island Scuba Diving](https://konahonudivers.com/big-island-scuba-diving-30/), [Hawaii State Parks — Best Dive Sites on the Big Island](https://www.hawaiistateparks.org/blog/the-best-dive-sites-on-the-big-island). Last updated 2026-06-06.*
+*Sources: [Bluewater Dive Travel — Kona Diving](https://www.bluewaterdivetravel.com/destination/kona-diving), [Kona Honu Divers — Big Island Scuba Diving](https://konahonudivers.com/big-island-scuba-diving-30/), [Hawaii State Parks — Best Dive Sites on the Big Island](https://www.hawaiistateparks.org/blog/the-best-dive-sites-on-the-big-island), [Liveaboard.com — Turtle Pinnacle](https://www.liveaboard.com/diving/hawaii/turtle-pinnacle). Re-audited 2026-08-05: flagged a genuine conflict between sources on pinnacle-top depth (25ft vs 15ft) rather than presenting a single unverified figure; re-confirmed surgeonfish cleaning-station behavior and turtle abundance. Last updated 2026-08-05.*

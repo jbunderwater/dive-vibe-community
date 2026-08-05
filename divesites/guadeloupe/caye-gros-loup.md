@@ -31,4 +31,6 @@ The site is a natural reef in the Grand Cul-de-Sac Marin. No published dive guid
 
 No site-specific marine life documentation found for Caye Gros Loup. Regional marine life applies; no site-specific species reports found.
 
-*Description based on OSM data only. No site-specific sources found. Last updated 2026-06-04.*
+Re-checked 2026-08-05: found one independent, directly-confirmed source — guadeloupe.gouv.fr, a French state maritime-safety notice — describing Caye Gros Loup as a navigation hazard reef off Sainte-Marie (between Goyave and Capesterre-Belle-Eau) at approximately 20m, marked with a navigation buoy after several vessel groundings. This is a maritime-safety source, not a diving source, and provides no dive-specific details (marine life, difficulty, entry type, or confirmation the site is actually visited by divers). Per policy this is not sufficient to mark the site validated, but the location/depth confirmation is recorded here for future researchers.
+
+*Description based on OSM data only. No dive-specific sources found (see maritime-safety note above). Re-checked 2026-08-05. Last updated 2026-08-05.*

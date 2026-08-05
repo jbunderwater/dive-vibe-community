@@ -17,7 +17,7 @@ A North Kona lava tube and cavern site known for the rhythmic surge that pulses 
 
 ## Overview
 
-Suck Em Up is a regularly visited boat dive on the North Kona Coast, appearing alongside sites such as Pyramid Pinnacle on typical two-tank morning itineraries. The site consists of a lava tube and cavern network at shallow depth — around 8 metres maximum — with multiple passages, entrances, and natural skylights. Ocean swell entering the lava formations creates a pulsing surge effect, which is both the site's character and the origin of its name. On calm days the surge is manageable and the dive is straightforward; in larger swells the surge can make entry and exit challenging.
+Suck Em Up is a regularly visited boat dive on the North Kona Coast, appearing alongside sites such as Pyramid Pinnacle or Skull Rock (Skull Cave) on typical two-tank morning itineraries — the specific pairing varies by operator and daily conditions. The site consists of a lava tube and cavern network at shallow depth — around 8 metres maximum — with multiple passages, entrances, and natural skylights. Ocean swell entering the lava formations creates a pulsing surge effect, which is both the site's character and the origin of its name. On calm days the surge is manageable and the dive is straightforward; in larger swells the surge can make entry and exit challenging.
 
 ## Site Information
 
@@ -60,4 +60,4 @@ Natural skylights create dramatic contrast between lit and unlit areas. The dark
 - Sharp lava rock: avoid contact with bare skin and fins
 
 ---
-*Sources: [ScubaBoard — Kona trip in four days](https://scubaboard.com/community/threads/kona-trip-in-four-days-dive-op-or-stick-to-shore.609977/), [Kona Honu Divers — Big Island Scuba Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving). Last updated 2026-06-06.*
+*Sources: [ScubaBoard — Kona trip in four days](https://scubaboard.com/community/threads/kona-trip-in-four-days-dive-op-or-stick-to-shore.609977/), [Kona Honu Divers — Big Island Scuba Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Underwater Photography Guide — Kona Diving](https://www.uwphotographyguide.com/kona-diving). Re-audited 2026-08-05: confirmed common two-tank pairings (Pyramid Pinnacle, Skull Rock/Skull Cave); no site-specific source confirms large vertebrates here, so none were added despite unverified mentions elsewhere. Last updated 2026-08-05.*

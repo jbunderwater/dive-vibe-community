@@ -38,4 +38,4 @@ No site-specific species reports have been found for this OSM-recorded node as d
 Divers visiting Les Saintes should confirm which "Sec Pâté" feature is being dived with their operator — the pinnacle in the Saintes Channel and this southern wall node are different locations.
 
 ---
-*Sources: [Tribloo — Le Sec Pâté dive site](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [La Dive Bouteille — Les Sites](https://www.dive-bouteille.com/). Last updated 2026-06-04.*
+*Sources: [Tribloo — Le Sec Pâté dive site](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [La Dive Bouteille — Les Sites](https://www.dive-bouteille.com/). Re-audited 2026-08-05 — no source found that resolves the ambiguity with the main Sec Pâté pinnacle; recommend confirming with operators. Last updated 2026-08-05.*
