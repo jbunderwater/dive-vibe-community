@@ -31,4 +31,6 @@ La Broumine is recorded in OSM data as a seamark wreck with category "mast_showi
 
 No site-specific information has been found for La Broumine beyond its OSM coordinates and wreck classification. Divers interested in this site should contact Les Saintes-based dive operators (La Dive Bouteille, Pisquettes Plongée) for current access conditions and information about the vessel.
 
-*Description based on OSM data only. No site-specific sources found. Last updated 2026-06-04.*
+Re-checked 2026-08-05: repeated WebSearch and WebFetch passes in both French and English (including direct re-fetches of gwadaplans.com's "Épaves marines de Guadeloupe" roundup and nomad-diver.com's "Les épaves de Guadeloupe" roundup, both of which cover most named Guadeloupe wrecks) still turned up no mention of "La Broumine" anywhere. It remains unvalidated.
+
+*Description based on OSM data only. No site-specific sources found. Re-checked 2026-08-05, still unresolved. Last updated 2026-08-05.*

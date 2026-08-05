@@ -42,4 +42,4 @@ Descend from 4 m and navigate along the promontory wall to 22 m maximum. The poi
 Current at the promontory tip can be strong — this is typical rather than exceptional. Do not attempt to swim against a strong current. Deploy SMB early. Always dive with a buddy.
 
 ---
-*Sources: [La Dive Bouteille — Les Sites](https://www.dive-bouteille.com/), [Yacht Paradise GP — Plongée Les Saintes](https://www.yacht-paradise.gp/portfolio-view/gp-diving-saintes/), [Ultramarina — Plongée Les Saintes](https://ultramarina.com/voyage-plongee-caraibes/les-saintes), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-06-04.*
+*Sources: [La Dive Bouteille — Les Sites](https://www.dive-bouteille.com/), [Yacht Paradise GP — Plongée Les Saintes](https://www.yacht-paradise.gp/portfolio-view/gp-diving-saintes/), [Ultramarina — Plongée Les Saintes](https://ultramarina.com/voyage-plongee-caraibes/les-saintes), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Re-audited 2026-08-05, no corrections required. Last updated 2026-08-05.*

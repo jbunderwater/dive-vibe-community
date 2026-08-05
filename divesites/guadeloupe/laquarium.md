@@ -38,4 +38,7 @@ Regional marine life applies for additional species beyond those confirmed above
 Tunnel passages require good buoyancy control and comfort with enclosed spaces. A torch is strongly recommended for the darker interior passages. Beginner-friendly depth but the tunnel environment justifies the Intermediate classification.
 
 ---
-*Sources: [Tribloo — L'Aquarium dive site](https://tribloo.com/en/destination/2/diving/guadeloupe.html), [La Dive Bouteille — Les Sites](https://www.dive-bouteille.com/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-06-04.*
+Re-audit (2026-08-05): tribloo.com's Les Saintes destination page independently describes an "Aquarium" site with "canyons filled with marine life and vibrant flora," consistent with the tunnels/plateaus description here.
+
+---
+*Sources: [Tribloo — L'Aquarium dive site](https://tribloo.com/en/destination/2/diving/guadeloupe.html), [La Dive Bouteille — Les Sites](https://www.dive-bouteille.com/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Re-audited 2026-08-05. Last updated 2026-08-05.*

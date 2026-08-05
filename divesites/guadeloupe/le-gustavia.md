@@ -21,6 +21,8 @@ The Gustavia was a 48.32-metre cargo vessel (7.6 m wide, 416 tonnes) built in 19
 
 The wreck sits upright on a sandy bottom at 40 metres depth and is heavily colonised with sponges and soft corals. Due to the depth, this is classified an Advanced dive (PE40 / PADI Advanced Open Water with Deep specialty required). Les Heures Saines records depth as 40 m; CameraOnBoard and Divingaway confirm 40 m.
 
+**Re-audit finding (2026-08-05):** heures-saines.com's own current wreck page was directly re-fetched and confirms the ownership chain used above (Hamburg 1950 → Drochtersen 1963 → Géocéanique 1975 → Gustavia 1982) and the 1991 scuttling after Hurricane Hugo damage. However, other independently-found sources (aggregated mentions citing rentiles.fr and cameraonboard.fr-style content) instead describe the vessel as "launched in 1953 as Géocéanique, renamed Gustavia in 1982" — a shorter, different history that omits the Hamburg/Drochtersen names and gives a different build year (1953 vs. 1950). Both versions agree on the 1982 renaming to Gustavia and the 1991 scuttling; the earlier ownership history (1950 vs. 1953, and whether "Hamburg" and "Drochtersen" ever existed as names) is not reconciled between sources and is flagged here rather than resolved. Length/beam also vary slightly: 48.32m × 7.6m (heures-saines.com) vs. ~49m × 7.5m (other aggregated mentions) — treated as normal rounding, not a real conflict.
+
 ## Site Information
 
 - **Location**: Cousteau Reserve, ~1 mile from Malendure Beach, Basse-Terre, Guadeloupe
@@ -41,4 +43,4 @@ Confirmed sightings at this wreck include large barracudas that congregate aroun
 Advanced certification is mandatory due to the 40-metre depth. Narcosis should be discussed with your buddy before descent. Bottom time on air at this depth is limited — plan the dive accordingly. Always carry a torch for the interior. Safety stop of minimum 3 minutes at 5 metres is mandatory.
 
 ---
-*Sources: [Les Heures Saines — Wrecks](https://www.heures-saines.com/en/exploration-of-wrecks/), [CameraOnBoard — Diving the Gustavia](https://www.cameraonboard.fr/en/34-diving-on-the-gustavias-wreck-of-gwada/), [Divingaway — Wreck Gustavia](https://divingaway.com/en/wreck-367/gustavia), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/). Last updated 2026-06-04.*
+*Sources: [Les Heures Saines — Dive Spots, Wreck Exploration](https://www.heures-saines.com/spots-de-plongee/exploration-epaves/), [GwadaPlans — Épaves marines de Guadeloupe](https://gwadaplans.com/epaves-marines-guadeloupe/), [Rentiles — 3 épaves en Guadeloupe](https://www.rentiles.fr/blog-voyage/guadeloupe-plongees-epaves.html), [Divingaway — Wreck Gustavia](https://divingaway.com/en/wreck-367/gustavia). Re-audited 2026-08-05, build-history conflict noted above. Last updated 2026-08-05.*

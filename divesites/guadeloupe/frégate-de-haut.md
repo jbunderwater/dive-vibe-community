@@ -37,4 +37,6 @@ Regional marine life applies; no site-specific species reports found.
 
 No published dive guide or operator documentation has been found for Frégate-de-Haut as a specifically named dive destination. Operators in Petit-Bourg and Sainte-Rose are the likely access point for this reef.
 
-*Description based on OSM data and regional context. No site-specific sources found. Last updated 2026-06-04.*
+Re-audited 2026-08-05: karibiodiv.net, fr.wikipedia.org and lesilesdeguadeloupe.com re-checked; the 1928-hurricane submergence story is corroborated across sources but no dive-specific documentation (depth, marine life, difficulty for divers) was found beyond OSM. No corrections made.
+
+*Description based on OSM data and regional context. No site-specific sources found. Re-audited 2026-08-05. Last updated 2026-08-05.*

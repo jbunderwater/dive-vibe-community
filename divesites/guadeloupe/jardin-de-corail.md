@@ -35,6 +35,8 @@ Confirmed species at this site: French angelfish, grey angelfish, blue tangs, pa
 
 Note: "Caribbean reef sharks occasionally visit from deeper water" stated in a previous version is not confirmed by a source specific to Jardin de Corail and has been removed.
 
+Re-audit (2026-08-05): heures-saines.com's own Cousteau Reserve dive-spot listing independently confirms the Cousteau statue at 12m on the tombant, plus hawksbill turtles, large-eye trevally, schools of tropical fish, barracudas and jacks at this site — consistent with the species list above.
+
 ## Dive Profile
 
 Begin at the reef crest (3 metres) and follow the slope to the sandy plateau at 12 metres where the Cousteau bust sits. The profile is flat and easy. The bust at 12 metres serves as a natural orientation point. Swim along the reef face examining coral heads and crevices before ascending through the shallow coral carpet for your safety stop.
@@ -48,4 +50,4 @@ Boat access from Malendure, 5 minutes. Giant stride entry to mooring buoy lines.
 As with all Cousteau Reserve sites, respect the protected status — no touching, collecting, or feeding. SMB required on ascent due to boat traffic. Fire coral is prevalent in the reef crest zone; exercise buoyancy control carefully. Dive with a licensed local operator familiar with reserve rules.
 
 ---
-*Sources: [DiveSSI — Le Jardin de Corail](https://www.divessi.com/en/mydiveguide/divesite/le-jardin-de-corail-ikets-pigeon-reserve-cousteau-iles-france-113622), [Snorkeling Report — Pigeon Islands Cousteau Reserve](https://www.snorkeling-report.com/spot/snorkeling-coral-garden-pigeon-islands-guadeloupe/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Reserve Cousteau Official Site](https://www.reserve-cousteau.fr/en). Last updated 2026-06-04.*
+*Sources: [DiveSSI — Le Jardin de Corail](https://www.divessi.com/en/mydiveguide/divesite/le-jardin-de-corail-ikets-pigeon-reserve-cousteau-iles-france-113622), [Snorkeling Report — Pigeon Islands Cousteau Reserve](https://www.snorkeling-report.com/spot/snorkeling-coral-garden-pigeon-islands-guadeloupe/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Reserve Cousteau Official Site](https://www.reserve-cousteau.fr/en), [Les Heures Saines — Dive Spots, Cousteau Reserve](https://www.heures-saines.com/spots-de-plongee/reserve-cousteau/). Re-audited 2026-08-05, no corrections required. Last updated 2026-08-05.*

@@ -44,4 +44,7 @@ Descend from the reef crest and navigate toward the fault zone, identifiable by 
 Do not put fingers or hands into vent openings — water temperature close to the source can be very high. Maintain careful buoyancy over geological formations. Follow your guide's briefing on safe interaction with geothermal features.
 
 ---
-*Sources: [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/), [ScubaGo — Pointe Lézarde](https://www.scubago.com/en/explore/divesite/pointe-lzarde-68580), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Les Heures Saines — Dive Sites](https://www.heures-saines.com/spots-de-plongee/). Last updated 2026-06-04.*
+Re-audit (2026-08-05): the original three sources were re-checked; no new site-specific source was found beyond them. General confirmation that Bouillante has extensive undersea and onshore geothermal activity (linked to La Soufrière volcano) was found via regional sources (helloguadeloupe.fr, rentiles.fr), but these describe the area broadly rather than this exact dive stop, so they were not added as validation sources.
+
+---
+*Sources: [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/), [ScubaGo — Pointe Lézarde](https://www.scubago.com/en/explore/divesite/pointe-lzarde-68580), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Re-audited 2026-08-05, no corrections required. Last updated 2026-08-05.*

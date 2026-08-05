@@ -32,4 +32,7 @@ The site encompasses two features: La Pointe (the headland) and La Patate Cabrit
 Confirmed at La Patate Cabrit pinnacle by Tribloo: scorpionfish, rock lobsters, damselfish, Chinese trumpetfish, moray eels. Confirmed by Tribloo for the sandy areas: garden eels (heterocongers). Confirmed by Skippair for this site: stingrays, hawksbill turtles, groupers, lionfish, filefish, octopuses, nudibranchs. These species are attributed specifically to this site by named sources.
 
 ---
-*Sources: [Tribloo — La Pointe et La Patate Cabrit](https://tribloo.com/en/dive-sites/494/la-pointe-et-la-patate-cabrit.html), [Skippair — Mini dive for beginners, Les Saintes](https://skippair.com/en/diving/offers/mini-dive-for-beginners-in-les-saintes-in-guadeloupe/), [La Dive Bouteille — Les Sites](https://www.dive-bouteille.com/). Last updated 2026-06-04.*
+Re-audit (2026-08-05): tribloo.com's Les Saintes destination page still features "La Pointe et la Patate Cabrit" among its listed sites, consistent with this entry. No corrections required.
+
+---
+*Sources: [Tribloo — La Pointe et La Patate Cabrit](https://tribloo.com/en/dive-sites/494/la-pointe-et-la-patate-cabrit.html), [Skippair — Mini dive for beginners, Les Saintes](https://skippair.com/en/diving/offers/mini-dive-for-beginners-in-les-saintes-in-guadeloupe/), [La Dive Bouteille — Les Sites](https://www.dive-bouteille.com/). Re-audited 2026-08-05. Last updated 2026-08-05.*

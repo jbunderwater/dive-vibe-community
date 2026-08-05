@@ -31,4 +31,6 @@ The site is a natural reef in the Grand Cul-de-Sac Marin marine reserve, which p
 
 No site-specific marine life documentation found for Caye à l'Anglais. Regional marine life applies; no site-specific species reports found.
 
-*Description based on OSM data only. No site-specific sources found. Last updated 2026-06-04.*
+Re-checked 2026-08-05: no published dive guide or operator documentation found for this specific caye. Remains unvalidated.
+
+*Description based on OSM data only. No site-specific sources found. Re-checked 2026-08-05. Last updated 2026-08-05.*

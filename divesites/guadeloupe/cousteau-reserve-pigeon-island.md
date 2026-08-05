@@ -33,11 +33,11 @@ The reserve offers diverse dive profiles from 3 metres to beyond 30 metres on th
 
 Confirmed species within the Cousteau Reserve by reserve-cousteau.fr and lesilesdeguadeloupe.com: hawksbill turtles and green sea turtles (both species present, important nesting population), French angelfish, grey angelfish, parrotfish, barracuda, spiny lobsters, blue tangs, yellowtail snappers, French grunts. The reserve's protected status has allowed fish populations to grow large and bold around divers.
 
-Note: "Nurse sharks under coral ledges," "spotted eagle rays," and "Caribbean reef sharks" are reported for the broader reserve area; they are not confirmed as routine sightings at this specific Pigeon Island overview entry.
+Note: "Nurse sharks under coral ledges," "spotted eagle rays," and "Caribbean reef sharks" are reported for the broader reserve area; they are not confirmed as routine sightings at this specific Pigeon Island overview entry. Re-audit (2026-08-05): a direct re-fetch of heures-saines.com's Pigeon Islets page confirms sightings of pufferfish, boxfish and spotted eagle rays "a few minutes from the dock" at the Pigeon Islets generally — spotted eagle ray is therefore now corroborated for the broader islet area (though still not tied to one specific named stop within it).
 
 ## Entry and Exit
 
 Boat from Malendure beach, 5-minute crossing. Giant stride entry; mooring buoy system in place. SMB required on ascent due to consistent boat traffic in the channel.
 
 ---
-*Sources: [Reserve Cousteau Official Site](https://www.reserve-cousteau.fr/en), [Les Heures Saines — Cousteau Reserve](https://www.heures-saines.com/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Snorkeling Report — Pigeon Islands](https://www.snorkeling-report.com/spot/snorkeling-coral-garden-pigeon-islands-guadeloupe/). Last updated 2026-06-04.*
+*Sources: [Reserve Cousteau Official Site](https://www.reserve-cousteau.fr/en), [Les Heures Saines — Dive Spots, Cousteau Reserve](https://www.heures-saines.com/spots-de-plongee/reserve-cousteau/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Snorkeling Report — Pigeon Islands](https://www.snorkeling-report.com/spot/snorkeling-coral-garden-pigeon-islands-guadeloupe/). Re-audited 2026-08-05, no factual corrections required beyond the marine-life note above. Last updated 2026-08-05.*
