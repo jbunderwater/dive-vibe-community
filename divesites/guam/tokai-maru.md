@@ -27,7 +27,7 @@ During World War II she was requisitioned by the Imperial Japanese Navy as a mil
 
 She came to rest on her port side at approximately 36–37 meters (120 feet), at an 85-degree list, immediately adjacent to the already-sunken SMS Cormoran. Torpedo and strafing damage is visible on the bow and in the No. 4 hold.
 
-**Note on dimensions**: The X-Ray Mag article cites length as 134 meters, consistent with 440 feet. The existing description of 139 meters was incorrect — corrected to 134 meters (440 feet) per multiple sources.
+**Note on dimensions**: Guam Dive Guide and X-Ray Mag both cite the length as 134 meters (440 feet), with a beam of 18 meters (60 feet); the Combined Fleet tabular record independently confirms the 8,365 GRT tonnage. MDA Guam gives a slightly larger figure of 446 feet (~136 meters). The 134m/440ft figure is used here as the majority-sourced value, with the MDA figure noted as a minor discrepancy.
 
 **Note on contact point**: A first-hand dive report (Lakwatsero) and MDA documentation describe the two wrecks as separated by a small gap (approximately 2 meters) — divers can reach toward both wrecks simultaneously from this gap but the hulls do not physically touch in all accounts. Some promotional materials describe them as "touching." The critical experience is positioning between the hulls; the exact degree of physical contact is unresolved.
 
@@ -62,4 +62,4 @@ Boat access only from Apra Harbor operators. Shared mooring buoy with SMS Cormor
 At 37 meters with harbor visibility under 12 meters, this is a challenging deep wreck dive. Gas management is critical — plan conservatively. Penetration requires wreck certification, a reel, and guideline deployment. The wreck is deteriorating with unstable hull sections — maintain excellent buoyancy. Nitrogen narcosis is significant at depth. Unexploded ordnance has been reported in Apra Harbor — do not touch or disturb any military artifacts. Always deploy SMB during ascent.
 
 ---
-*Sources: [Wikipedia — Tokai Maru](https://en.wikipedia.org/wiki/Tokai_Maru), [Combined Fleet — IJN Tokai Maru Tabular Record](http://www.combinedfleet.com/Tokai_t.htm), [Guam Dive Guide — Tokai Maru](https://www.guamdiveguide.com/all-dive-sites/apra-harbor/tokai-maru/), [MDA Guam — Tokai Maru](https://www.mdaguam.com/tokai-maru/), [X-Ray Mag — Guam: The Tale of Two Wrecks](https://xray-mag.com/content/guam-tale-two-wrecks). Last updated 2026-06-04.*
+*Sources: [Wikipedia — Tokai Maru](https://en.wikipedia.org/wiki/Tokai_Maru), [Combined Fleet — IJN Tokai Maru Tabular Record](http://www.combinedfleet.com/Tokai_t.htm), [Guam Dive Guide — Tokai Maru](https://www.guamdiveguide.com/all-dive-sites/apra-harbor/tokai-maru/), [MDA Guam — Tokai Maru](https://www.mdaguam.com/tokai-maru/), [X-Ray Mag — Guam: The Tale of Two Wrecks](https://xray-mag.com/content/guam-tale-two-wrecks). Last updated 2026-08-05.*

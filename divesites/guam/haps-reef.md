@@ -57,4 +57,4 @@ Boat dive from Agat Bay operators. Often paired with the Blue Hole as a shallowe
 A gentle dive with minimal hazards. Slight currents. The shallow depth keeps the dive well within recreational limits and makes it ideal for nitrogen offgassing after deeper dives. Lionfish are present — observe but do not touch.
 
 ---
-*Sources: [Guam Dive Guide — Hap's Reef](https://www.guamdiveguide.com/all-dive-sites/southern-sites/haps-reef/), [MDA Guam — Hap's Reef](https://www.mdaguam.com/destination/haps-reef/), [Wikivoyage — Diving in Guam](https://en.wikivoyage.org/wiki/Diving_in_Guam). Last updated 2026-06-04.*
+*Sources: [Guam Dive Guide — Hap's Reef](https://www.guamdiveguide.com/all-dive-sites/southern-sites/haps-reef/), [MDA Guam — Hap's Reef](https://www.mdaguam.com/destination/haps-reef/), [Wikivoyage — Diving in Guam](https://en.wikivoyage.org/wiki/Diving_in_Guam). Re-verified 2026-08-05 — depth (30–60ft/9–18m), beginner difficulty, and marine life (pufferfish, lionfish, butterflyfish, anemones, octopus) all reconfirmed unchanged across all three sources. Last updated 2026-08-05.*
