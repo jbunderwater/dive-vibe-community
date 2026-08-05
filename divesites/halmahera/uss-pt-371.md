@@ -29,7 +29,7 @@ USS PT-371 was an American patrol torpedo boat lost during World War II. Accordi
 
 ## Marine Life
 
-Regional marine life applies; no site-specific species reports found for PT-371. Shallow WWII wrecks in this region typically develop encrusting coral and sponge communities over decades. The broader Morotai and North Halmahera area hosts blacktip reef sharks, reef fish, and occasional manta ray sightings, but these have not been confirmed specifically at the PT-371 site.
+Regional marine life applies; no site-specific species reports were found for PT-371 in any source consulted, including on re-audit. Shallow WWII wrecks in this region typically develop encrusting coral and sponge communities over decades. The broader Morotai and North Halmahera area hosts blacktip reef sharks, reef fish, and occasional manta ray sightings, but none of these are confirmed specifically at the PT-371 site — no dive-operator or dive-log source describing an actual dive on this wreck could be located.
 
 ## Dive Profile
 
