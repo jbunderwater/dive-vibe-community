@@ -5,7 +5,7 @@ lng: 126.1445
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,23 +13,25 @@ addedBy: osm_import
 
 ## Pulau Tifore
 
-Pulau Tifore is an open-ocean reef and seamount dive destination located in the middle of the Molucca Sea, roughly halfway between Halmahera and North Sulawesi, Indonesia.
+Pulau Tifore is an open-ocean seamount dive destination located in the middle of the Molucca Sea, roughly halfway between Halmahera and North Sulawesi, Indonesia.
 
 ## Overview
 
-Tifore Island sits in open sea, exposed to strong tidal flows that concentrate nutrients and attract large numbers of fish. The site is renowned within liveaboard diving circles for its spectacular schooling fish behaviour — massive tornadoes of barracuda, trevally, and fusiliers that number in the thousands are regularly encountered. The southern side of the island features a reef known informally for its barracuda schools, while the island's position between two major Indonesian island groups makes it a productive mid-passage stop on Halmahera liveaboard itineraries.
+**Re-audit (2026-08-05):** site_type corrected from reef to pinnacle/seamount — Liveaboard Indonesia's current listing explicitly describes Tifore as an "open-ocean seamount" with "steep walls" dropping into blue water, which better reflects the site's topography than a generic reef classification.
+
+Tifore Island sits in open sea, exposed to strong tidal flows that concentrate nutrients and attract large numbers of fish. The site is renowned within liveaboard diving circles for its spectacular schooling fish behaviour — massive tornadoes of barracuda, trevally, and fusiliers that number in the thousands are regularly encountered. The steep walls of the seamount drop into blue water, and the island's position between two major Indonesian island groups makes it a productive mid-passage stop on Halmahera liveaboard itineraries.
 
 ## Site Information
 
 - **Location**: Molucca Sea, between Halmahera and North Sulawesi, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
 ## Marine Life
 
-Pulau Tifore is particularly famous for large, dense schools of bigeye trevally and barracuda that form dramatic swirling "tornado" formations — confirmed by Mermaid Liveaboards, IndoPacific Images, and Liveaboard Indonesia. IndoPacific Images specifically documents the school at Pantai Sago on the southern side as numbering over 1,000 barracuda individuals. Fusiliers, snappers, jacks, and reef sharks are confirmed across multiple sources. Hammerhead sharks and mobula rays are reported on productive days by Liveaboard Indonesia, though these are less consistent than the barracuda schools.
+Pulau Tifore is particularly famous for large, dense schools of bigeye trevally and barracuda that form dramatic swirling "tornado" formations — confirmed by Mermaid Liveaboards, IndoPacific Images, and Liveaboard Indonesia. IndoPacific Images specifically documents the school at Pantai Sago on the southern side as numbering over 1,000 barracuda individuals. Fusiliers, snappers, jacks, and reef sharks are confirmed across multiple sources. On re-audit, Liveaboard Indonesia's current page independently and directly names hammerhead sharks, mobula rays, dogtooth tuna, schooling barracuda, and Napoleon wrasse for this specific seamount — a stronger confirmation than previously available, though hammerheads and mobulas remain seasonal/less consistent than the barracuda schools.
 
 ## Dive Profile
 
@@ -52,4 +54,4 @@ Currents at Tifore can be strong and unpredictable — this is an intermediate-l
 Pulau Tifore is a premier wide-angle destination. The trademark barracuda and trevally tornadoes create some of Indonesia's most dramatic schooling-fish images. A fisheye lens with dual strobes or a large dome port for natural-light shooting in blue water are both effective approaches. Arrive early in the dive to position yourself before the schools scatter.
 
 ---
-*Sources: [Mermaid Liveaboards – Pulau Tifore](https://www.mermaid-liveaboards.com/dive_spots/pulau-tifore/), [IndoPacific Images – West Halmahera Dive Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-west-halmahera-scuba-diving-sites/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Last updated 2026-06-04.*
+*Sources: [Mermaid Liveaboards – Pulau Tifore](https://www.mermaid-liveaboards.com/dive_spots/pulau-tifore/), [IndoPacific Images – West Halmahera Dive Sites](https://indopacificimages.com/indonesia/halmahera/diving-indonesia-west-halmahera-scuba-diving-sites/), [Liveaboard Indonesia – Halmahera](https://liveaboardindonesia.com/destinations/halmahera/). Re-audited 2026-08-05: all three sources re-confirmed; site_type updated to pinnacle/seamount based on Liveaboard Indonesia's explicit "open-ocean seamount" description. Last updated 2026-08-05.*
