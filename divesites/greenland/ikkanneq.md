@@ -21,7 +21,7 @@ Ikkanneq is an OSM-recorded rock formation (tagged `natural=reef`, `reef=rock`) 
 
 No dive operator or published source has been identified that specifically describes diving at this named site. The location places it in the northern Disko Bay region, which Sirius Greenland and other operators have characterized as accessible cold-water reef diving terrain, with rocky substrate covered by kelp forests in near-freezing water. General Greenland reef diving accounts document nudibranchs, anemones, skeleton shrimp, scallops, sea cucumbers, and amphipods in similar habitats.
 
-Previous versions of this page attributed specific species observations (polar cod, sculpin, humpback whales) at this site — those claims have been removed as no site-specific source was found confirming them at Ikkanneq.
+Previous versions of this page attributed specific species observations (polar cod, sculpin, humpback whales) at this site — those claims have been removed as no site-specific source was found confirming them at Ikkanneq. A 2026-08-05 re-check confirmed no new source has surfaced to restore them; a search for "Ikkanneq" returned only the unrelated abandoned settlement of Ikkatteq in southeast Greenland, confirming these are distinct places and not a source of information about this site.
 
 Regional marine life applies; no site-specific species reports found.
 
@@ -34,4 +34,4 @@ Regional marine life applies; no site-specific species reports found.
 - **Maximum Depth**: 18 meters
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Advanced Diver Magazine - Greenland Diving](https://advanceddivermagazine.com/articles/greenland/greenlandA.html), [Adrex.com — Ice Diving Greenland](https://www.adrex.com/en/articles/water/scuba-diving/ice-diving-greenland-icebergs-and-wrecks-of-greenland/), [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/). Last updated 2026-06-04.*
+*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Advanced Diver Magazine - Greenland Diving](https://advanceddivermagazine.com/articles/greenland/greenlandA.html), [Adrex.com — Ice Diving Greenland](https://www.adrex.com/en/articles/water/scuba-diving/ice-diving-greenland-icebergs-and-wrecks-of-greenland/), [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/). Last updated 2026-08-05.*
