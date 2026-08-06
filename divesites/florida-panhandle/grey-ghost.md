@@ -1,7 +1,7 @@
 ---
 name: Grey Ghost
-lat: 30.04715
-lng: -85.0926
+lat: 30.04817
+lng: -86.09333
 difficulty: Advanced
 maxDepth: 33
 entryType: boat
@@ -28,4 +28,4 @@ A former 105-110-foot Navy tugboat intentionally sunk on July 12, 1978, roughly 
 - **Maximum Depth**: 33 meters
 
 ---
-*Sources: [Florida Scuba Diving](https://www.florida-scubadiving.com/the-grey-ghost-wreck-panama-city-florida/), [Scuba Panama City Beach](https://scubapanamacitybeach.net/panama-city-beach-dive-the-grey-ghost/). Last updated 2026-07-21.*
+*Sources: [Florida Scuba Diving](https://www.florida-scubadiving.com/the-grey-ghost-wreck-panama-city-florida/), [Scuba Panama City Beach](https://scubapanamacitybeach.net/panama-city-beach-dive-the-grey-ghost/). Last updated 2026-08-06.*
