@@ -38,4 +38,4 @@ Multiple sources confirm the following species at or directly adjacent to Enenue
 - Less exposed to swell than the outer back wall sites; suitable when back wall conditions are unfavourable.
 
 ---
-*Sources: [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Makena Coast Charters – Molokini Enenui](https://makenacoastcharters.com/snorkel-sites/molokini-enenui/). Last updated 2026-06-06.*
+*Sources: [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Makena Coast Charters – Molokini Enenui](https://makenacoastcharters.com/snorkel-sites/molokini-enenui/). Re-audited 2026-08-06; depth, coral, and species claims re-confirmed against current source content, no changes required. Last updated 2026-08-06.*

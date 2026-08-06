@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Back Side
 
-The Back Side is the general name for the outer, ocean-facing wall of Molokini Crater — a world-class drift and wall dive along a sheer volcanic cliff that drops to over 100 metres into open Pacific.
+The Back Side is the general name for the outer, ocean-facing wall of Molokini Crater — a world-class drift and wall dive along a sheer volcanic cliff that drops well beyond recreational limits into open Pacific.
 
 ## Overview
 
-The Back Side refers to Molokini's south-facing outer wall, sometimes also called the Back Wall, a site that Scuba Diving Magazine ranked among the top wall dives in U.S. waters. The wall is sheer and largely unbroken, descending well beyond recreational limits. Recreational dives are typically conducted to around 30 metres (100 feet) along the wall face, though the wall continues far below. The upper sections of the wall carry black coral colonies, which provide habitat for longnose hawkfish and gobies. Slipper lobsters, moray eels, pipefish, crabs, and shrimp occupy the deep crevices. The dive is conducted live-boat, with the captain following surface marker buoys as divers drift along the wall face; no moorings exist on the outer wall. Conditions on the exposed south face are heavily weather-dependent — afternoon swells and surge can make this site unsafe, and experienced operators will abort the dive if conditions deteriorate.
+The Back Side refers to Molokini's south-facing outer wall, sometimes also called the Back Wall. The wall is sheer and largely unbroken, descending well beyond recreational limits. Recreational dives are typically conducted to around 30 metres (90–100 feet) along the wall face; sources disagree on how far the wall continues below that, with figures ranging from roughly 90 metres (300 feet) to around 120 metres (400 feet) reported for the crater floor. The upper sections of the wall carry black coral colonies, which provide habitat for longnose hawkfish and gobies. Slipper lobsters, moray eels, pipefish, crabs, and shrimp occupy the deep crevices. The dive is conducted live-boat, with the captain following surface marker buoys as divers drift along the wall face; no moorings exist on the outer wall. Conditions on the exposed south face are heavily weather-dependent — afternoon swells and surge can make this site unsafe, and experienced operators will abort the dive if conditions deteriorate.
 
 ## Site Information
 
@@ -39,4 +39,4 @@ Confirmed species for the Molokini back wall (multiple independent sources): whi
 - During December–May, the sounds of humpback whale song can be heard clearly underwater along the outer wall — an extraordinary incidental feature of the dive.
 
 ---
-*Sources: [Molokini Crater – All About Molokini's Back Wall](https://molokinicrater.com/all-about-molokinis-back-wall/), [Dive Maui – Molokini Crater Backwall](https://goscubadivemaui.com/molokini-crater-backwall/), [ScubaBoard – Molokini Crater Back Wall Dive](https://scubaboard.com/community/threads/molokini-crater-back-wall-dive.450/). Last updated 2026-06-06.*
+*Sources: [Molokini Crater – All About Molokini's Back Wall](https://molokinicrater.com/all-about-molokinis-back-wall/), [Dive Maui – Molokini Crater Backwall](https://goscubadivemaui.com/molokini-crater-backwall/), [ScubaBoard – Molokini Crater Back Wall Dive](https://scubaboard.com/community/threads/molokini-crater-back-wall-dive.450/). Re-audited 2026-08-06; removed an unattributed magazine-ranking claim that could not be re-confirmed, and flagged a source conflict on total wall depth (300ft per Dive Maui vs. ~400ft per ScubaBoard) rather than picking one figure. Last updated 2026-08-06.*

@@ -16,7 +16,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "oahudiveguide.com,scubadiving.com,padi.com",
-      "last_qa_date": "2026-06-06"
+      "last_qa_date": "2026-08-06"
     }
   },
   {
@@ -36,8 +36,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-06",
-      "notes": "No site-specific sources found. OSM-derived entry retained."
+      "last_qa_date": "2026-08-06",
+      "notes": "No site-specific sources found (re-searched Aug 2026: no dive shop, ScubaBoard, or database listing for this name). OSM-derived entry retained."
     }
   },
   {
@@ -57,8 +57,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-06",
-      "notes": "No site-specific sources found. OSM-derived entry retained."
+      "last_qa_date": "2026-08-06",
+      "notes": "No site-specific sources found (re-searched Aug 2026: no dive shop, ScubaBoard, or database listing for this name). OSM-derived entry retained."
     }
   },
   {
@@ -78,7 +78,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "diveoahu.com,oahudiving.com,honoluluscubacompany.com",
-      "last_qa_date": "2026-06-06",
+      "last_qa_date": "2026-08-06",
       "marine_life": "Hawaiian green sea turtles, reef fish"
     }
   },
@@ -99,7 +99,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "diveoahu.com,oahudiving.com,honoluluscubacompany.com",
-      "last_qa_date": "2026-06-06"
+      "last_qa_date": "2026-08-06"
     }
   },
   {
@@ -120,7 +120,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "kaneohebayoceansports.com,britannica.com,hawaiiactivities.com",
-      "last_qa_date": "2026-06-06"
+      "last_qa_date": "2026-08-06"
     }
   },
   {
@@ -146,8 +146,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-06",
-      "notes": "No dive-specific sources found for this site. OSM fringing reef data retained."
+      "last_qa_date": "2026-08-06",
+      "notes": "No dive-specific sources found for this site (re-searched Aug 2026: no dive shop, ScubaBoard, or database listing found). OSM fringing reef data retained."
     }
   },
   {
@@ -173,8 +173,8 @@
       "addedBy": "extended_overpass",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-06",
-      "notes": "No dive-specific sources found for this site. OSM fringing reef data retained."
+      "last_qa_date": "2026-08-06",
+      "notes": "No dive-specific sources found for this site (re-searched Aug 2026: no dive shop, ScubaBoard, or database listing found). OSM fringing reef data retained."
     }
   },
   {
@@ -204,8 +204,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,military.com,pacificwrecks.com",
-      "last_qa_date": "2026-06-06"
+      "validation_source": "wikipedia.org,military.com,pacificwrecks.com,history.navy.mil",
+      "last_qa_date": "2026-08-06",
+      "qa_note": "Aug 2026 re-audit: corrected markdown error that stated the ship was 'laid down' on 3 May 1943. Wikipedia and Naval History and Heritage Command records confirm LST-480 was laid down 31 Aug 1942, launched 29 Oct 1942, and commissioned 3 May 1943 (built by Kaiser, Inc., Richmond, CA; 328 ft oa; 4,080 long tons full load)."
     }
   },
   {
@@ -220,8 +221,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "wikipedia.org,rainbowscuba.com,diveoahu.com",
-      "last_qa_date": "2026-06-06",
+      "validation_source": "wikipedia.org,rainbowscuba.com,diveoahu.com,oahudiving.com",
+      "last_qa_date": "2026-08-06",
       "description": "US Navy yard oiler (174 ft/53 m), built 1938, served WWII and Korean War, intentionally sunk 1989 as artificial reef. 100 ft deep with penetration opportunities. Strong currents."
     }
   },
@@ -237,8 +238,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "rainbowscuba.com,oceantherapycharters.com,scubaboard.com",
-      "last_qa_date": "2026-06-06",
+      "validation_source": "rainbowscuba.com,oceantherapycharters.com,scubaboard.com,diveoahu.com",
+      "last_qa_date": "2026-08-06",
       "description": "Former Chinese fishing/cargo vessel (51 m/168 ft), originally Yun Fong Seong No. 303, seized 1992 for immigrant smuggling, intentionally sunk 1999. Max depth ~36 m (120 ft), main deck ~24 m (80 ft). Turtles, jacks, butterflyfish, moray eels, spotted eagle rays."
     }
   },
@@ -254,8 +255,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "wikipedia.org,oahudiving.com,banzaidivershawaii.com",
-      "last_qa_date": "2026-06-06",
+      "validation_source": "wikipedia.org,oahudiving.com,banzaidivershawaii.com,scubaboard.com",
+      "last_qa_date": "2026-08-06",
       "description": "Formerly USS Scrimmage (AM-297), Admirable-class minesweeper, 184 ft 6 in (56.24 m), commissioned 1944. Served WWII (six battle stars), decommissioned 1946, later served as research vessel MS Mahi for University of Hawaii. Sold 1982 to Dacor Scuba Diving and sunk as artificial reef off Waianae. Main deck at 65 ft, bottom at 90 ft. Famous for white-spotted eagle rays."
     }
   },
@@ -271,8 +272,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "diveoahu.com,californiadiver.com,scubadiving.com",
-      "last_qa_date": "2026-06-06",
+      "validation_source": "diveoahu.com,californiadiver.com,scubadiving.com,pacificwrecks.com,oahudiving.com",
+      "last_qa_date": "2026-08-06",
       "description": "Vought F4U-1A Corsair (Bureau #49668), ditched April 17, 1945 by 2nd Lt. William H. Holden after engine failure on transit from Molokai to Ewa Airfield (some sources say 1946—date contested). Aircraft: 33 ft 4 in long, 41 ft wingspan. Sits upright at ~110-115 ft in Maunalua Bay off Hawaii Kai. No penetration permitted. Garden eels, frogfish, leaf scorpionfish, moray eels."
     }
   },
@@ -289,8 +290,9 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "oahudiving.com,diveoahu.com,rainbowscuba.com",
-      "last_qa_date": "2026-06-06",
-      "description": "Japanese-built, Korean-owned longline fishing vessel (~90 ft), intentionally sunk 1996 by Atlantis Submarines Hawaii. Main deck at 60-70 ft, bottom at ~85 ft. Located ~100 ft from YO-257. Turtles, eagle rays, amberjacks, reef sharks."
+      "last_qa_date": "2026-08-06",
+      "qa_note": "Aug 2026 re-audit: corrected markdown claim that the vessel 'sank in Keehi Lagoon' -- sources confirm it sat derelict/anchored in Keehi Lagoon for ~20 years after the 1975 fire, then was towed to its final south-shore position near YO-257 and intentionally sunk there in 1996. Length is disputed across sources: oahudiving.com and diveoahu.com report ~90 ft, rainbowscuba.com reports 111 ft -- not resolved, flagged in markdown.",
+      "description": "Japanese-built, Korean-owned longline fishing vessel, intentionally sunk 1996 by Atlantis Submarines Hawaii after sitting derelict in Keehi Lagoon for ~20 years following a 1975 fire. Length disputed: ~90 ft (oahudiving.com, diveoahu.com) vs 111 ft (rainbowscuba.com). Main deck at 60-70 ft, bottom at ~80-95 ft depending on source. Located ~70-100 ft from YO-257 (sources vary). Turtles, eagle rays, amberjacks, reef sharks."
     }
   },
   {
@@ -306,7 +308,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "oahudiveguide.com,hawaiiecodivers.com,dlnr.hawaii.gov",
-      "last_qa_date": "2026-06-06",
+      "last_qa_date": "2026-08-06",
       "description": "North Shore shore dive with extensive lava cave and cavern system at Pupukea Beach Park Marine Life Conservation District. Summer only (May-Sept). Caves reach 15-45 ft depth. Rocky entry. Sea turtles, octopuses, eels."
     }
   },
@@ -323,7 +325,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "to-hawaii.com,wildlifehawaii.com,dlnr.hawaii.gov",
-      "last_qa_date": "2026-06-06",
+      "last_qa_date": "2026-08-06",
       "description": "Shallow lava shelf named for three flat rock formations visible at low tide. Pupukea Beach Park MLCD. Lava tubes, ledges, arches. Depth 15-45 ft. Summer only (May-Sept). Convict tang, Moorish idol, trumpetfish, moray eels, occasional sea turtles."
     }
   },
@@ -340,7 +342,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "oahudiveguide.com,loveoahu.org,atlasobscura.com",
-      "last_qa_date": "2026-06-06",
+      "last_qa_date": "2026-08-06",
       "description": "Leeward shore dive at Hawaii Electric Co. discharge pipes. Warm water effluent attracts marine life. Average depth 20-30 ft near discharge. Very strong currents near pipe discharge—not suitable for true beginners. Sea turtles, spotted eagle rays, spinner dolphins (occasional), white-tip reef sharks, eels, octopus."
     }
   },
@@ -357,7 +359,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "hanaumabaystatepark.com,hawaii-guide.com,dlnr.hawaii.gov",
-      "last_qa_date": "2026-06-06",
+      "last_qa_date": "2026-08-06",
       "description": "Protected marine preserve in volcanic crater, Oahu southeast coast. 400+ fish species confirmed. Hawaiian green sea turtles. Closed Mon-Tue. Entry fee $25/adult (residents free). Advance reservation required, opens 2 days prior at 7 AM HST."
     }
   },
@@ -374,7 +376,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "oahudiveguide.com,banzaidivershawaii.com,hawaii.greatestdivesites.com",
-      "last_qa_date": "2026-06-06",
+      "last_qa_date": "2026-08-06",
       "description": "Interconnected lava tubes and caverns off Kepuhi Point, Waianae coast. V-shaped merging of two open-ended lava tubes. Depth to ~45 ft. Sea turtles, pufferfish, spiny lobsters, whitetip reef sharks. Dive light required. Surge can affect visibility."
     }
   }

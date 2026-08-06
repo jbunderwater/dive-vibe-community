@@ -29,7 +29,7 @@ Middle Reef occupies the centre of Molokini Crater's sheltered interior, where t
 
 ## Marine Life
 
-Multiple independent sources confirm the following species at Middle Reef: pyramid butterflyfish (in large schools), scissortail sergeants, Moorish idols, trumpetfish, unicornfish, wrasses, giant trevally, and cauliflower coral. The reef hosts approximately 250 fish species across the broader Molokini interior; whitetip reef sharks and garden eels are documented inside the crater at Reef's End and adjacent areas. Flamingo angelfish and fire goby have also been noted at Middle Reef specifically by PADI sources.
+Multiple independent sources confirm the following species at Middle Reef: pyramid butterflyfish (in large schools), Moorish idols, trumpetfish, unicornfish, and giant trevally. PADI's own Molokini feature adds blue trevally, raccoon butterflyfish, yellow tang, flame angelfish, and fire goby, and notes up to 250 tropical fish species across the crater as a whole, some endemic to the area. Cauliflower coral is documented at the neighbouring Reef's End site rather than confirmed specifically for Middle Reef, so it is not listed here.
 
 ## Tips
 
@@ -38,4 +38,4 @@ Multiple independent sources confirm the following species at Middle Reef: pyram
 - Often dived as the first tank on a two-tank Molokini trip; the sheltered conditions make it a good warm-up before any back wall dive.
 
 ---
-*Sources: [PADI – Diving Into a Volcano Crater in Molokini, Hawaii](https://blog.padi.com/diving-into-a-volcano-crater-in-molokini-hawaii/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/). Last updated 2026-06-06.*
+*Sources: [PADI – Diving Into a Volcano Crater in Molokini, Hawaii](https://blog.padi.com/diving-into-a-volcano-crater-in-molokini-hawaii/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/). Re-audited 2026-08-06; corrected a misattributed coral species and an unverified fish name from the prior pass. Last updated 2026-08-06.*

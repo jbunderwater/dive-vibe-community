@@ -39,4 +39,4 @@ No site-specific species list has been confirmed by independent sources beyond g
 - Surface marker buoys are mandatory; no mooring exists and boat pick-up depends on your SMB.
 
 ---
-*Sources: [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Maui Information Guide – Molokini Crater Scuba Diving](https://www.mauiinformationguide.com/molokini-crater-scuba-dive.php). Last updated 2026-06-06.*
+*Sources: [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Maui Information Guide – Molokini Crater Scuba Diving](https://www.mauiinformationguide.com/molokini-crater-scuba-dive.php). Re-audited 2026-08-06; depth and description re-confirmed against current source content, no changes required. Last updated 2026-08-06.*
