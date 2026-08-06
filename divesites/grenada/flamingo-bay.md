@@ -61,4 +61,4 @@ The accessible shallow reef, good visibility, and active fish community make Fla
 - Commonly offered as the second dive of a morning two-tank trip after the Underwater Sculpture Park
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/), [PADI - Flamingo Bay](https://www.padi.com/dive-site/grenada/flamingo-bay/). Last updated 2026-06-04.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Dive Sites](https://www.puregrenada.com/dive-sites/), [PADI - Flamingo Bay](https://www.padi.com/dive-site/grenada/flamingo-bay/). Last updated 2026-08-05.*

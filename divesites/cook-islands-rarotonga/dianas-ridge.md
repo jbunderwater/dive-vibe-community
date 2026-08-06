@@ -59,4 +59,4 @@ Access by dive boat from Avatiu Harbour, approximately nine minutes. Entry by gi
 The outer edge descends to 35 to 40 meters — careful depth monitoring is required. The excellent visibility can make depth deceptive. Currents are generally mild but can increase near the outer reef edge.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=516), [Dive Rarotonga](https://www.diverarotonga.com/dive-sites), [Pacific Divers](https://www.pacificdivers.co.ck/Diving-Map.html). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=516). Re-audited 2026-07-26: the previously cited Dive Rarotonga and Pacific Divers pages do not list this site under this name and have been removed as citations. All specific claims in this description (crack dimensions, coral percentage, eagle ray school size, depth progression) were re-verified word-for-word against the source and confirmed accurate. Only one independently confirmed site-specific source could be found despite additional research. Last updated 2026-07-26.*

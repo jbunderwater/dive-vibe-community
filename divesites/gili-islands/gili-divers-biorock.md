@@ -5,7 +5,7 @@ lng: 116.0444604
 difficulty: Beginner
 maxDepth: 15
 entryType: boat
-siteType: artificial
+siteType: reef
 ref: null
 osmId: 4813305046
 addedBy: osm_import
@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Gili Divers Biorock
 
-A Biorock coral restoration structure on the east coast of Gili Trawangan, supported by the Gili Divers conservation program.
+A Biorock coral restoration structure on the east coast of Gili Trawangan — its OSM name suggests an association with the Gili Divers operation, though no source specifically confirms which structure they maintain.
 
 ## Overview
 
-Gili Divers Biorock is part of the extensive network of Biorock structures around the Gili Islands — estimates from different sources range from over 120 to more than 150 structures across the three islands and nearby Lombok. This particular structure is supported by the Gili Divers operation and forms part of the Gili Eco Trust's ongoing reef restoration initiative that began in 2004–2005. The Biorock process uses low-voltage electrical current passed through steel frames to stimulate accelerated limestone mineral accretion, creating the ideal substrate for coral colonisation. Over time, the structure has become a thriving reef habitat. The Gili Divers operation offers Biorock specialty courses where divers can learn coral gardening, survey, and maintenance skills.
+Gili Divers Biorock is part of the extensive network of Biorock structures around the Gili Islands — estimates from different sources range from just over 100 to around 127 structures across the islands, and the program's start is variously dated 2004 to 2006 under the Gili Eco Trust. The Biorock process uses low-voltage electrical current passed through steel frames to stimulate accelerated limestone mineral accretion, creating the substrate for coral colonisation. Gili Divers does offer Biorock specialty courses covering coral gardening, survey, and maintenance skills, but no source confirms this exact structure is their specific installation — that ownership framing has been removed as unconfirmed.
 
 ## Site Information
 
 - **Location**: East coast Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–20 m
@@ -32,7 +32,7 @@ Gili Divers Biorock is part of the extensive network of Biorock structures aroun
 
 ## Marine Life
 
-Various reef fish have colonised the structure including anthias, wrasse, pufferfish, and lionfish. Turtles visit the structure for cleaning. Crustaceans, cleaner shrimps, and nudibranchs inhabit the coral growth on the frame. The surrounding natural reef adds additional species diversity to the dive.
+No source names species confirmed at this structure specifically. Operators describe the east-coast Biorock structures generally as hosting juvenile reef fish, scorpionfish, lionfish, damselfish, butterflyfish, triggerfish, and trumpetfish, with soft corals, sponges, tunicates, and bivalves on the frames — this regional Biorock fauna likely applies here too, but has not been confirmed at this specific frame.
 
 ## Dive Profile
 
@@ -44,11 +44,9 @@ Boat dive from Gili Trawangan. Short transit to the east coast. Calm conditions 
 
 ## Tips and Recommendations
 
-- The Biorock speciality course offered by Gili Divers provides hands-on reef restoration experience
-- The structure is a tangible example of community-based marine conservation
+- Gili Divers' Biorock specialty course provides hands-on reef restoration experience, whether or not it covers this exact structure
 - Combine with a natural dive site to observe the contrast in coral density and fish life
 - Suitable for snorkellers as well as divers in the shallower sections
-- Visit at different times of year to observe coral growth progression over seasons
 
 ## Safety Considerations
 
@@ -59,4 +57,4 @@ Do not touch the metal frame — sharp edges can cause cuts, and touching distur
 Before-and-after documentation of coral growth makes interesting sequential photography. The steel geometry with growing coral creates abstract close-up compositions. Fish portraits against the coral-covered frame produce unique backgrounds.
 
 ---
-*Sources: [Gili Divers – dive sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock](https://manta-dive-giliair.com/gili-islands-dive-sites/biorock-all-levels), [Trawangan Dive – reef restoration](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Dive Central Gili – Bio Rocks](https://www.divecentralgili.com/blog/3112016). Last updated 2026-05-30.*
+*Sources: [Gili Divers – dive sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock](https://manta-dive-giliair.com/gili-islands-dive-sites/biorock-all-levels), [Trawangan Dive – reef restoration](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Dive Central Gili – Bio Rocks](https://www.divecentralgili.com/blog/3112016). Re-verified 2026-08-03: removed the unconfirmed claim that this specific structure is "supported by" Gili Divers as an established fact, corrected the structure count and program start date to the sourced ranges, and removed species/"thriving reef habitat" claims not confirmed for this individual frame. Last updated 2026-08-03.*

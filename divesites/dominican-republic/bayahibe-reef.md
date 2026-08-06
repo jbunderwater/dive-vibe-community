@@ -60,4 +60,4 @@ Minimal hazards. Fire coral is present on the reef structure — avoid contact. 
 Excellent ambient-light photography given the shallow, clear conditions. Wide-angle shots of the reef structure with natural light look particularly compelling. Sea turtle encounters are the photographic highlight. Macro subjects on the coral surface include Christmas tree worms and cleaner shrimp.
 
 ---
-*Sources: [Coral Point Diving](https://www.coralpointdiving.com/En/divesite.html), [Dressel Divers — Bayahibe](https://www.dresseldivers.com/dive/dominican-republic/bayahibe-scuba-diving/), [ScubaBoard — Bayahibe Report](https://scubaboard.com/community/threads/bayahibe-dominican-republic-diving-report.540809/). Last updated 2026-05-24.*
+*Sources: [Coral Point Diving](https://www.coralpointdiving.com/En/divesite.html), [Dressel Divers — Bayahibe](https://www.dresseldivers.com/dive/dominican-republic/bayahibe-scuba-diving/), [ScubaBoard — Bayahibe Report](https://scubaboard.com/community/threads/bayahibe-dominican-republic-diving-report.540809/). Re-audited 2026-07-29: all three sources re-confirmed live and consistent with existing content. Last updated 2026-07-29.*

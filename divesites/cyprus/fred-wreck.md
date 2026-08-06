@@ -46,4 +46,4 @@ Groupers (including gold-blotched grouper), sea bream, triggerfish, and octopus 
 - Located in North Cyprus — check current entry requirements before visiting
 
 ---
-*Sources: [scubacyprus.com](https://www.scubacyprus.com/diving-sites), [divernet.com - Cyprus dive sites](https://divernet.com/world-dives/scuba-diving-in-cyprus-zenobia-wreck-reefs-top-dive-sites-north-and-south/), [divebooker.com](https://divebooker.com/fred-wreck-baz13192). Last updated 2026-05-23.*
+*Sources: [scubacyprus.com](https://www.scubacyprus.com/diving-sites), [divernet.com - Cyprus dive sites](https://divernet.com/world-dives/scuba-diving-in-cyprus-zenobia-wreck-reefs-top-dive-sites-north-and-south/), [divebooker.com](https://divebooker.com/fred-wreck-baz13192). Last updated 2026-07-27.*

@@ -13,13 +13,13 @@ addedBy: extended_overpass
 
 ## Grote Knip
 
-Grote Knip (Playa Kenepa Grandi or Playa Abou) is a northwest coast shore dive that opens across a sandy plateau before a steep drop-off wall descending from 13 metres — a reliable beginner wall dive with dolphin and ray encounters reported.
+Grote Knip (Playa Kenepa Grandi or Playa Abou) is a northwest coast shore dive that opens across a sandy plateau before a 45-degree drop-off wall steepening beyond 13 metres — a reliable beginner wall dive with a confirmed eagle ray sighting and reports of turtles, lionfish, and barracuda.
 
 ## Overview
 
-Grote Knip is a protected bay within Kenepa Plantation on Curaçao's northwest coast. The beach is large, well-shaded, and has basic facilities. Shore diving begins from the sandy beach and requires a surface swim across a sandy plateau to reach the reef shoulder at approximately 13 metres, where a steep descent begins.
+Grote Knip is a protected bay within Kenepa Plantation on Curaçao's northwest coast. The beach is large, well-shaded, and has basic facilities. Shore diving begins from the sandy beach and requires a surface swim of roughly 8–10 minutes across a sandy plateau to reach the reef shoulder at approximately 13 metres, where the slope steepens.
 
-The site is popular with instructors for certification dives due to the calm conditions and easy access. Divers report good coral coverage and regular encounters with larger marine life including dolphins and rays.
+The site is popular with instructors for certification dives due to the calm conditions and easy access. Divers-Guide.com logs a diver-reported eagle ray sighting here, and Zentacle reviewers note lionfish, barracuda, squid, eels, crab, and lobster along the reef. An earlier version of this page claimed regular dolphin encounters at Grote Knip; no independent source found in this re-audit confirms dolphins at this site, so that claim has been removed.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The site is popular with instructors for certification dives due to the calm con
 
 ## Marine Life
 
-Confirmed at this site: dolphins (reported in multiple diver accounts), rays, sea turtles, vibrant coral formations, intricate sponges, and macro creatures. The deeper sections off the wall attract pelagic visitors. The site description from divecuracao.info specifically highlights dolphins and rays as notable encounters.
+Confirmed at this site: an eagle ray (Divers-Guide.com diver log), plus lionfish, barracuda, squid, moray/Roman eels, crab, and lobster (Zentacle diver reviews). Sea turtles are also reported. No source found during this re-audit confirms dolphins at Grote Knip; the site's coral formations and sponge growth on the wall face are otherwise well regarded.
 
 ## Dive Profile
 
@@ -48,11 +48,11 @@ Sandy beach entry with good footing. Some coral rubble may be present near the w
 - Arrive early on weekends to secure parking — this is a popular public beach
 - The extended sandy approach is a good opportunity for navigation practice
 - Combine with Kleine Knip (adjacent bay) for a full day of diving
-- Look beyond the wall into open water for dolphins
+- Watch the sandy plateau and wall face for eagle rays, turtles, and lionfish
 
 ## Safety Considerations
 
 Carry a surface marker buoy for the return across the sandy plateau. Occasional fishing from the shore and boat traffic in the outer bay require awareness. A surface marker buoy is required.
 
 ---
-*Sources: [DiveCuracao.info — Playa Kenepa Grandi](https://www.divecuracao.info/dive/curacao-diving-guide/playa-kenepa-grandi/), [Divers-Guide.com — Playa Abou/Grote Knip](https://www.divers-guide.com/en/playa-abou-grote-knip), [ScubaBoard — Curaçao Shore Dives](https://scubaboard.com/community/threads/curacaos-best-shore-dives.437531/). Last updated 2026-05-24.*
+*Sources: [Divers-Guide.com — Playa Abou/Grote Knip](https://www.divers-guide.com/en/playa-abou-grote-knip), [Zentacle — Grote Knip](https://www.zentacle.com/Beach/382/grote-knip), [DiveCuracao.info — Playa Kenepa Grandi](https://www.divecuracao.info/dive/curacao-diving-guide/playa-kenepa-grandi/). Re-audited 2026-07-27: removed unsupported dolphin claim; no independent source could confirm dolphin sightings at this site. Last updated 2026-07-27.*

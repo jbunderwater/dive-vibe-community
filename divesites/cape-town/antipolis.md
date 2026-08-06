@@ -45,4 +45,4 @@ Cape rock lobster are commonly found sheltering in the wreck's cavities. The wre
 - Entry requires navigating a boulder beach — booties and gloves essential
 
 ---
-*Sources: [Scuba Shack Cape Town — The Antipolis](https://scubashack.co.za/2017/05/16/the-antipolis-1977/), [Submerged — Antipolis and Romelia](https://www.submerged.co.uk/antipolis-and-romelia/), [SA History Online — Antipolis and Romelia](https://sahistory.org.za/place/antipolis-and-romelia-shipwrecks-cape-town). Last updated 2026-05-20.*
+*Sources: [Scuba Shack Cape Town — The Antipolis](https://scubashack.co.za/2017/05/16/the-antipolis-1977/), [Submerged — Antipolis and Romelia](https://www.submerged.co.uk/antipolis-and-romelia/), [SA History Online — Antipolis and Romelia](https://sahistory.org.za/place/antipolis-and-romelia-shipwrecks-cape-town). Last updated 2026-07-23.*

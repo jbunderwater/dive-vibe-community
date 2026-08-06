@@ -33,11 +33,7 @@ The stern section of the Edmund Fitzgerald is the most visually dramatic of the 
 
 ## Marine Life
 
-At 160 metres in Lake Superior, biological activity is extremely limited. Deep-water sculpin and lake trout have been documented near the wreck during authorized expeditions. The cold, dark conditions at this depth support only the most cold-adapted, pressure-tolerant species.
-
-## Dive Profile
-
-At 160 metres with an inverted target, this is an extraordinarily demanding technical dive. The overturned configuration requires careful navigation and orientation. Bottom time is limited to minutes, with decompression obligations typically exceeding an hour. This site requires trimix breathing gas, sophisticated decompression planning software, and extensive deep diving experience.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -58,4 +54,4 @@ At 160 metres in Lake Superior — isolated, cold, and remote — this represent
 The images captured by authorized expeditions to the overturned stern — the propeller pointing upward, the hull in inverted position — are among the most striking in Great Lakes diving history, testifying to the power of the storm that sank the Edmund Fitzgerald.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [SS Edmund Fitzgerald - Wikipedia](https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald), [Great Lakes Shipwreck Historical Society - Edmund Fitzgerald](https://shipwreckmuseum.com/edmund-fitzgerald/), [Michigan Sea Grant - The Storm that Sunk the Edmund Fitzgerald](https://www.michiganseagrant.org/lessons/lessons/by-broad-concept/earth-science/data-sets/the-storm-that-sunk-the-edmund-fitzgerald/). Last updated 2026-08-03.*

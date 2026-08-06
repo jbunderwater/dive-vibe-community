@@ -2,10 +2,10 @@
 name: Cutin
 lat: 44.7251667
 lng: 14.4928667
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869730
 addedBy: osm_import
@@ -13,50 +13,49 @@ addedBy: osm_import
 
 ## Cutin
 
-Cutin is a reef dive off the southern tip of Pag Island in the northern Dalmatian coast, near the Velebit Channel. The site features the classic rocky reef structure of the Dalmatian coastline — dramatic limestone formations, boulders, and overhangs descending to a sandy bottom, all in the clear blue waters between Pag and the mainland.
+Veli and Mali Ćutin are two small islets in the Kvarner Gulf, between Cres and Rab, dived as a single full-day excursion site by operators based on Rab, Krk, and Lošinj. Multiple dive centres describe it as one of the finest wall/gorge dive sites in the Adriatic, known for its dense red and yellow gorgonian fans.
 
 ## Overview
 
-The reef at Cutin drops over rocky terrain from the shallows to approximately 25 metres, with varied topography including boulders, crevices, and overhangs that create an interesting dive landscape. The channel location between Pag and the mainland promotes water movement, bringing nutrients that support a healthy ecosystem. Visibility is typically 15–20 metres and the water is clear with a characteristic Adriatic blue.
+The site is a mix of wall and gorge terrain, with terraces, holes, and crevices running from around 8 metres down to 40 metres. Bright red gorgonian fans appear from about 28 metres, with yellow gorgonians further down from around 38 metres, alongside soft corals and sponge-covered gorges. Because of the depth at which the signature gorgonian growth appears, the most rewarding sections of the dive are best suited to divers comfortable at 28–40 metres, even though the operator lists Open Water as the minimum certification.
 
 ## Site Information
 
-- **Location**: Pag Island South, Northern Dalmatian Coast, Croatia
+- **Location**: Veli & Mali Ćutin islets, Kvarner Gulf (between Cres and Rab), Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Can be moderate in the Velebit Channel
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: Good, described by operators as some of the clearest water in the northern Adriatic
+- **Current**: Generally weak
 - **Best Time**: May to October
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+Kron Diving (Rab) reports schools of dentex and tuna passing in open water off the wall, conger eel, octopus, and lobster in the crevices, cat shark egg cases attached to the gorgonians, and nudibranchs among the sponge-covered gorges; dolphins are occasionally seen en route to the site. These sightings are specific to this location per the operator's own site description.
 
 ## Dive Profile
 
-Descend to the shallowest rocky features at 5–8 metres and work your way down the slope to the 25-metre maximum depth at the sandy base. Explore the boulder field and overhang sections on the way up, spending time in the 10–18 metre range where most of the marine life concentrates. Safety stop at 5 metres before ascending.
+Descend along the wall/gorge terrain, working from the shallower terraces (around 8m) down toward the gorgonian zone. Red gorgonian fans begin around 28 metres, with yellow gorgonians appearing deeper, from roughly 38 metres — reaching these requires a deep/advanced profile. Explore the holes and crevices for lobster, conger, and octopus, then ascend along the wall with a safety stop.
 
 ## Entry and Exit
 
-Dive boats from operators on Pag or the mainland coast access this site. Entry by giant stride or back roll. Current in the Velebit Channel can be present — check conditions with the captain before diving. Deploy an SMB for ascent and boat pickup.
+This is a boat-only site reached on a full-day excursion, typically organised by dive centres on Rab, Krk, or Lošinj given the distance involved. Entry by giant stride or back roll; deploy an SMB on ascent for pickup in open water.
 
 ## Tips and Recommendations
 
-- The Velebit Channel can generate current — time the dive to slack water conditions if possible
-- Scan boulders and rock faces carefully for camouflaged scorpionfish
-- A torch helps reveal grouper and eels in deeper crevices
-- Combine with a second dive at nearby Pag sites for a well-rounded diving day
-- Comfortable in a 5 mm wetsuit in summer; 7 mm for spring and autumn
+- The signature red/yellow gorgonian gardens are deep (28–40m) — plan gas and no-decompression limits accordingly
+- Watch the open water off the wall for passing dentex, tuna, or dolphins
+- Check gorgonian fans carefully for attached cat shark egg cases
+- This is typically a full-day trip — confirm logistics with your operator in advance
 
 ## Safety Considerations
 
-Current awareness is important at this channel-adjacent site. Dive within your certified depth limits and maintain regular gas checks. Always carry an SMB and dive with a buddy. Boat traffic in the channel requires care on ascent.
+The site's best features lie at 28–40 metres, beyond standard no-decompression recreational limits for many divers — deep diving experience/training is recommended even though the operator's stated minimum certification is Open Water. Monitor gas and no-decompression time closely, carry an SMB, and dive with a buddy.
 
 ## Photography
 
-The rocky reef terrain with its boulders and crevices provides wide-angle subjects, and resident grouper make excellent portrait subjects. Scorpionfish sitting on rocky surfaces reward patient photographers. The clear Dalmatian water provides good ambient light throughout the reef.
+Wide-angle shots of the red and yellow gorgonian fans against the wall are the signature image here, along with schooling dentex/tuna in the blue water off the wall. Macro shooters can look for nudibranchs in the sponge-covered gorges.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [Kron Diving – Veli & Mali Ćutin](https://kron-diving.com/en/veli-mali-cutin-en/), [Mirko Diving Center Rab – dive locations](https://mirkodivingcenter.com/ronjenje/ronilacke-lokacije/), [CroatiaTraveller – Top 10 Diving Sites in Croatia](https://www.croatiatraveller.com/Activities/Top10Dives.htm). Last updated 2026-07-27.*

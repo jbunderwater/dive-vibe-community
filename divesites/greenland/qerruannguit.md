@@ -23,7 +23,7 @@ No dive operator or published source has been identified that specifically descr
 
 Icebergs calved from the Ilulissat Icefjord do drift through the Disko Bay area generally, though the specific relationship of this reef to iceberg drift patterns is not confirmed by sources.
 
-Regional marine life applies; no site-specific species reports found.
+Regional marine life applies; no site-specific species reports found. A direct re-check of the Advanced Diver Magazine and Adrex.com Greenland diving articles confirms the only individually named dive sites they document — Borgin, Lighthouse Island, Mussel Island, and the Portuguese Prison Ship — are all near Sisimiut, not Disko Bay, so they do not describe this location.
 
 ## Site Information
 
@@ -34,4 +34,4 @@ Regional marine life applies; no site-specific species reports found.
 - **Maximum Depth**: 16 meters
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Advanced Diver Magazine - Greenland Diving](https://advanceddivermagazine.com/articles/greenland/greenlandA.html), [Adrex.com — Ice Diving Greenland](https://www.adrex.com/en/articles/water/scuba-diving/ice-diving-greenland-icebergs-and-wrecks-of-greenland/), [Air Greenland - Diving](https://www.airgreenland.com/discover-greenland/diving/). Last updated 2026-06-04.*
+*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Advanced Diver Magazine - Greenland Diving](https://advanceddivermagazine.com/articles/greenland/greenlandA.html), [Adrex.com — Ice Diving Greenland](https://www.adrex.com/en/articles/water/scuba-diving/ice-diving-greenland-icebergs-and-wrecks-of-greenland/), [Air Greenland - Diving](https://www.airgreenland.com/discover-greenland/diving/). Last updated 2026-08-05.*

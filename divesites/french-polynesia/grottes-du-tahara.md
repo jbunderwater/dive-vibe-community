@@ -36,4 +36,4 @@ The cave entrances and interior walls host dense populations of glassfish (*Para
 Torch/dive light is essential for observing cave interior life and illuminating colour. Maintain neutral buoyancy to avoid stirring up sediment from the cave floor. Enter the caverns one at a time to avoid overcrowding. This site should not be attempted by divers unfamiliar with cavern diving — confirm natural light exits are visible before proceeding further in.
 
 ---
-*Sources: [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots), [Dive Discovery - Tahiti Diving](https://www.divediscovery.com/tahiti/divesites/tahiti-diving.php), [Tahiti Tourisme](https://tahititourisme.pf/). Last updated 2026-05-30.*
+*Sources: [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots), [Dive Discovery - Tahiti Diving](https://www.divediscovery.com/tahiti/divesites/tahiti-diving.php), [Tahiti Tourisme](https://tahititourisme.pf/). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

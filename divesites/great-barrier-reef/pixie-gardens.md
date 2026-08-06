@@ -2,7 +2,7 @@
 name: Pixie Gardens
 lat: -14.9280802
 lng: 145.6772796
-difficulty: Beginner
+difficulty: Advanced
 maxDepth: 12
 entryType: boat
 siteType: reef
@@ -17,16 +17,16 @@ Pixie Gardens is a shallow coral garden in the Ribbon Reefs of the northern Grea
 
 ## Overview
 
-Where Pixie Pinnacle rewards patient macro hunters on a single bommie, Pixie Gardens extends the diving experience across a broad, gently sloping coral garden that spreads out from the base of the pinnacle. The site reaches a maximum depth of just 12 metres, making it ideal for new divers, snorkellers making their first scuba dives, and underwater photographers looking to extend their bottom time in excellent conditions.
+Diversion Dive Travel describes Pixie Gardens as beginning with a gentle reef slope and scattered coral outcrops, progressing into a more substantial wall as divers move north; it is located southwest of Ribbon Reef #10 and is described as "a macro photographer's delight," with the best bommies at 15 metres or shallower. This differs somewhat from the "broad, gently sloping coral garden" framing in an earlier version of this page — both descriptions agree on shallow, accessible diving, but the wall-progression detail is a correction based on the source.
 
-Coral coverage is exceptional — table corals, branching staghorns, brain corals, and encrusting plate corals compete for space across the reef flat, while gardens of soft coral and anemone fields fill the lower zones. The shallow depth means natural light penetrates fully throughout the dive, giving the site a luminous quality that deeper sites cannot match.
+The site reaches a maximum depth of just 12 metres by our data (close to the source's "15m or shallower" range for the best bommies), making it accessible for newer divers and underwater photographers looking to extend bottom time.
 
 ## Site Information
 
 - **Location**: Ribbon Reefs (adjacent to Pixie Pinnacle), northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Generally mild
@@ -34,7 +34,7 @@ Coral coverage is exceptional — table corals, branching staghorns, brain coral
 
 ## Marine Life
 
-The shallow coral garden teems with reef fish: parrotfish, surgeonfish, butterflyfish, and wrasse move through the corals in constant activity. Clownfish colonies inhabit the numerous anemone patches scattered across the garden. Sea turtles regularly browse the coral, and hawksbill turtles are often found feeding on sponges. Blue-spotted stingrays rest on the sandy channels between coral heads. The site's proximity to Pixie Pinnacle means nudibranchs and pipefish spill over from the bommie into the garden, and the same pygmy seahorses known from the pinnacle's sea fans extend into the garden's outer reaches.
+The site is confirmed as a "macro photographer's delight," consistent with good critter density, but no source names specific species for Pixie Gardens. Earlier claims of parrotfish, surgeonfish, butterflyfish, wrasse, clownfish colonies, sea/hawksbill turtles, blue-spotted stingrays, and pygmy seahorses "extending" from Pixie Pinnacle were not corroborated by any source and have been removed — the pygmy seahorse claim in particular assumed continuity between two separate sites without evidence.
 
 ## Dive Profile
 
@@ -48,7 +48,6 @@ Liveaboard access only. Free descent from the surface; the shallowest sections a
 
 - Combine with a dive on Pixie Pinnacle for a contrast between concentrated bommie life and spread-out garden diving
 - Ideal for reef photography with natural light — no strobe is needed in the top 8 metres during morning dives
-- Look for sleeping nurse sharks in the sandy channels between coral heads
 - An excellent site for divers building open-water experience in warm, clear, shallow conditions
 
 ## Safety Considerations
@@ -57,7 +56,7 @@ The site is exceptionally safe for its target audience. The main consideration i
 
 ## Photography
 
-Pixie Gardens is a natural-light photographer's venue. The 5–10 metre depth zone at midday allows reef photography without strobes, rendering the hard corals in their true colours against the blue water background. Wide-angle reef landscapes and close-focus wide-angle shots of resident clownfish are both well-served here. The site also offers good close-up work on the anemone colonies.
+Pixie Gardens is a natural-light photographer's venue. The 5–10 metre depth zone at midday allows reef photography without strobes, rendering the hard corals in their true colours against the blue water background. Given the confirmed "macro photographer's delight" reputation, macro shooters should also plan for close-focus subjects, though no specific species are confirmed.
 
 ---
-*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures - Ribbon Reefs](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*
+*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Diversion Dive Travel - Pixie Gardens](https://www.diversiondivetravel.com.au/g1483/diving_pixie_gardens.html). Overview and marine-life claims corrected to sourced content. Last updated 2026-08-03.*

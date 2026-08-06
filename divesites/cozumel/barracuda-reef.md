@@ -13,30 +13,30 @@ addedBy: osm_import
 
 # Barracuda Reef
 
-Cozumel's northernmost and most demanding dive — a deep rocky wall drop-off where extreme current concentrates large pelagics, with conditions the Port Captain monitors and restricts.
+Cozumel's northernmost and most demanding dive — a rocky slope dropping into a wall where strong current concentrates pelagics, in a zone one local source says is monitored by the Port Captain.
 
 ## Overview
 
-Barracuda Reef sits at the northern apex of Cozumel's dive sites, at the tip of the island where the channel current is at its most concentrated before sweeping around the point. The site is a wall (rocky ledge dropping into the abyss) rather than a conventional reef, despite its name. Real depths range from 70–90 feet on the working section to 90–120 feet (27–37 meters) at maximum.
+Barracuda Reef sits at the northern apex of Cozumel's dive sites, at the tip of the island where the channel current is at its most concentrated before sweeping around the point. The terrain is a rolling rocky slope in the 60–90 foot range that ends in a wall drop-off beyond roughly 100 feet, rather than a conventional flat reef or a pure wall from the start. Depths on the working section run roughly 70–90 feet (21–27 meters), with the wall face beyond reaching 90–120 feet (27–37 meters).
 
-**Critical safety context**: Sources consistently describe this site as requiring Expert-level experience. Current runs 2 to 10 knots and downcurrents are documented. The Port Captain monitors and restricts tourist diving here. Multiple reference sources note that "divers have been lost forever doing this dive." This is not hyperbole — the northern point exposure and current intensity make Barracuda one of the Caribbean's most hazardous recreational dive sites. The site is outside the Arrecifes de Cozumel National Park boundary.
+**Safety context**: Multiple independent sources (a 1994 Undercurrent.org trip report and diver accounts on ScubaBoard) describe this as an advanced, current-exposed site with strong and unpredictable current, and Undercurrent references experienced divers who have died here over the years. ScubaBoard divers note the remote northern position means a diver swept off the site has few landmarks before open water toward Cuba. Current is more accurately described as roughly 1–5 knots with occasional downcurrents rather than a flat "2 to 10 knots" figure. The claim that the Port Captain monitors/restricts diving here currently traces to a single source (reefsofcozumel.com) and should be treated as that operator's characterization rather than independently confirmed regulation.
 
 For divers with solid advanced and current-diving credentials and a reputable local operator, the site delivers extraordinary encounters.
 
 ## Site Information
 
-- **Location**: Northernmost tip of Cozumel's west side, outside the marine park, Quintana Roo, Mexico
+- **Location**: Northernmost tip of Cozumel's west side, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
-- **Current**: Extreme — 2 to 10 knots; downcurrents documented; all divers must enter and exit together
+- **Current**: Strong and variable, roughly 1–5 knots with occasional downcurrents reported; all divers should enter and exit together
 - **Best Time**: November to April; some operators will not run this trip outside calm-season windows
 
 ## Marine Life
 
-Great barracuda aggregate in large numbers at the northern point, often hovering motionless in the current. Caribbean reef sharks appear regularly at the wall edge drawn by the current-concentrated fish activity. Spotted eagle rays cruise the deeper sections. Nurse sharks rest in available sandy areas. Horse-eye jacks and dog snappers school along the outer reef. The Cozumel splendid toadfish has been documented here.
+Great barracuda are seen at the northern point, sometimes hovering in the current. Spotted eagle rays have been reported cruising the deeper sections, particularly in winter. Nurse sharks rest in sandy areas. The Cozumel splendid toadfish has been documented here. Claims of large Caribbean reef shark encounters and dog snapper schooling at this specific site could not be independently confirmed and have been removed pending better sourcing.
 
 ## Dive Profile
 
@@ -56,11 +56,11 @@ Longest boat ride of Cozumel's northern sites from San Miguel — 40–50 minute
 
 ## Safety
 
-The primary hazard is extreme, variable current including potential downcurrents. Never fight the current — if you are swept into deep water, inflate your SMB and signal the boat. The northern exposed position means longer emergency response times than any other Cozumel site. Do not dive here without a local guide who knows the site intimately. Ensure DAN or equivalent dive insurance is current.
+The primary hazard is strong, variable current including reported downcurrents. Never fight the current — if you are swept into deep water, inflate your SMB and signal the boat. The northern exposed position means longer emergency response times than most Cozumel sites. Do not dive here without a local guide who knows the site intimately. Ensure DAN or equivalent dive insurance is current.
 
 ## Photography
 
-Great barracuda aggregations in strong current require fast shutter speeds and a wide-angle lens. Position yourself before the school arrives rather than chasing. The open-water visibility is excellent but current makes sustained composition difficult — keep the camera ready and shoot reactively. Reef sharks sweeping past the wall edge in ambient light are compelling subjects.
+Great barracuda in strong current require fast shutter speeds and a wide-angle lens. Position yourself before the school arrives rather than chasing. The open-water visibility is excellent but current makes sustained composition difficult — keep the camera ready and shoot reactively. Spotted eagle rays gliding past the wall edge in ambient light are compelling subjects when present.
 
 ---
-*Sources: [The Reefs of Cozumel — Barracuda Reef North](https://www.reefsofcozumel.com/barracuda.html), [Pro Dive International — Barracuda Reef](https://www.prodiveinternational.com/dive-site/barracuda-reef/), [Scuba Diving Cozumel — Barracuda](https://scuba-diving-cozumel.com/barracuda/). Last updated 2026-05-23.*
+*Sources: [The Reefs of Cozumel — Barracuda Reef North](https://www.reefsofcozumel.com/barracuda.html), [Undercurrent — Barracuda trip report](https://undercurrent.org/UCnow/articles/Barracuda9405.shtml), [ScubaBoard — Advanced diving in Cozumel](https://scubaboard.com/community/threads/advanced-diving-in-cozumel.44589/). Last updated 2026-07-27. Note: previously cited prodiveinternational.com and scuba-diving-cozumel.com pages are no longer live and have been replaced with independently verified sources.*

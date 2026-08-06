@@ -2,7 +2,7 @@
 name: Flare Point
 lat: -15.5125869
 lng: 145.7768157
-difficulty: Beginner
+difficulty: Advanced
 maxDepth: 19
 entryType: boat
 siteType: reef
@@ -26,7 +26,7 @@ The reef is in good health by GBR standards and offers representative outer Ribb
 - **Location**: Ribbon Reefs (southern section), northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 19 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Variable; mild to moderate
@@ -34,7 +34,7 @@ The reef is in good health by GBR standards and offers representative outer Ribb
 
 ## Marine Life
 
-The reef slope supports a broad cross-section of GBR species. Maori wrasse patrol the upper reef, and large parrotfish graze the coral surface noisily. Coral grouper and coral trout occupy the overhangs on the deeper sections. Turtles — both green and hawksbill — are regular grazers and browsers along the reef slope. Whitetip reef sharks rest on sandy patches. Above the reef, schools of fusiliers and surgeonfish move in coordinated formations. The site regularly produces eagle ray sightings in the open water off the reef edge.
+Spirit of Freedom's site listing confirms cuttlefish, turtles, moray eels, mantis shrimp, whitetip reef sharks, unicornfish, eagle rays, and sweetlips at Flare Point, describing it as a "relaxing site" with a sloping reef wall and scattered deeper bommies. Earlier claims of Maori wrasse, parrotfish, coral grouper, coral trout, and fusilier/surgeonfish schooling were not corroborated by this or any other source and have been removed.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Standard outer reef precautions apply. Current can be localised around the reef 
 
 ## Photography
 
-Flare Point offers classic outer reef wide-angle photography: reef slope receding into the blue, large wrasse and parrotfish in their natural context, and turtle portraits. The clear water and good depth range allow for environmental images that convey the scale of the reef structure.
+Flare Point offers classic outer reef wide-angle photography: reef slope receding into the blue, and turtle or eagle ray portraits when they appear. Cuttlefish are a confirmed macro subject worth watching for.
 
 ---
-*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures - Ribbon Reefs](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*
+*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php). Marine-life list corrected to sourced species. Last updated 2026-08-03.*

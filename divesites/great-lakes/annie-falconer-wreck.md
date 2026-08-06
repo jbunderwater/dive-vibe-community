@@ -17,7 +17,7 @@ The Annie Falconer is a well-known 19th-century schooner wreck resting in Lake O
 
 ## Overview
 
-The Annie Falconer was a two-masted schooner typical of the commercial sailing fleets that dominated Great Lakes trade in the mid-to-late 1800s. She sank in Lake Ontario off the Kingston area and now rests in approximately 22 metres of cold freshwater. The Kingston, Ontario area is one of the most wreck-rich diving destinations in all of North America, with dozens of historic vessels accessible to recreational divers. Cold, dark, freshwater conditions have preserved the hull surprisingly well, with masts, rigging, and cargo hold remaining identifiable. Visibility is typically 5–10 metres.
+The Annie Falconer was a two-masted wooden schooner built in Kingston, Ontario in 1867. She sank on November 12, 1904, between False Duck and Timber Islands while carrying a cargo of coal. She now rests upright on a mud bottom in approximately 24 metres of cold Lake Ontario freshwater; the stern has broken off but lies visible nearby, and deadeyes, anchors, the ship's wheel, blocks, and chain are still present on the wreck. The site was discovered by divers in August 1975. The Kingston, Ontario area is one of the most wreck-rich diving destinations in North America, with dozens of historic vessels accessible to recreational divers, and cold, dark freshwater conditions have preserved the hull well. Visibility is typically 5–10 metres.
 
 ## Site Information
 
@@ -33,11 +33,7 @@ The Annie Falconer was a two-masted schooner typical of the commercial sailing f
 
 ## Marine Life
 
-Lake Ontario wrecks near Kingston support a healthy freshwater community. Yellow perch gather in schools around the masts and rigging. Smallmouth bass lurk in the hull openings and around the bow. Round gobies — an invasive but now established species — scurry across the deck and hull surface. Lake whitefish are occasionally seen passing over the wreck in summer. Zebra mussels carpet every hard surface, supporting an invertebrate community that in turn feeds the fish.
-
-## Dive Profile
-
-Descend to the wreck, which sits upright on a silty bottom. The preserved masts and rigging make navigation intuitive. Explore the deck, moving aft toward the stern, then around the hull exterior. The cargo hold area at depth warrants careful investigation. At 22 metres, bottom time is meaningful — plan your dive accordingly and ascend with a minimum 50 bar reserve. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -60,4 +56,4 @@ Lake Ontario is generally calmer than Lake Erie or Lake Huron but still subject 
 The upright profile of the Annie Falconer lends itself to dramatic wreck photography. Swim back to capture the entire hull in frame, or move in close for detail shots of preserved rigging and deck hardware. Natural light from above creates moody silhouette opportunities in the upper water column.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Shotline Diving - Annie Falconer C83285](https://www.shotlinediving.com/docs/lake-erie/picton/annie-falconer-c83285/), [Frontenac Arch Biosphere - Annie Falconer](https://www.frontenacarchbiosphere.ca/explore/diving/annie-falconer/), [Wannadive - Annie Falconer Wreck](https://en.wannadive.net/spot/North_America/Canada/Ontario/Lake_Ontario/Annie_Falconer_Wreck/). Last updated 2026-08-03.*

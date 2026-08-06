@@ -17,7 +17,7 @@ A Greek cargo vessel that exploded and sank in 1975 — now lying in three secti
 
 ## Overview
 
-The Achilleas was a Greek cargo vessel, approximately 53 metres (173 feet) long, that exploded and sank off Paphos in 1975. The Cyprus Diving Association describes the explosion as occurring under unexplained circumstances — no verified cause has been published. The wreck broke into three main sections and now lies upside down on a sandy bottom at 11–12 metres depth, approximately 10 minutes by boat from Paphos harbour.
+The Achilleas was a Greek cargo vessel, approximately 53 metres (173 feet) long, that exploded and sank off Paphos in 1975. The Cyprus Diving Association describes the explosion as occurring under unexplained circumstances — no verified cause has been published. The wreck broke into three main sections and now lies upside down on a sandy bottom; sources give the depth as 11–12 metres, approximately 10 minutes by boat from Paphos harbour.
 
 Key features include the large bronze propeller on the upturned stern, intact portholes (which have not been removed), and the engine, which remains largely intact and shelters resident marine life. The three sections — bow, winch area, and stern — offer distinct areas to explore. Easy swim-throughs between and around the sections make this a suitable introduction to wreck diving and a site commonly used for Open Water course dives.
 
@@ -44,4 +44,4 @@ Sea bream, damselfish, wrasse, cardinal fish, octopus, and cuttlefish have been 
 - Approximately 10 minutes by boat from Paphos harbour
 
 ---
-*Sources: [Cyprus Diving Association - Achilleas](https://cyprusdiving.org.cy/index.php/paphos-diving-sites/item/61-wreck-of-achilleas), [xtremespots.com](https://www.xtremespots.com/water-sports/scuba-diving/achilleas-wreck-paphos-cyprus/), [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/). Last updated 2026-05-23.*
+*Sources: [Cyprus Diving Association - Achilleas](https://cyprusdiving.org.cy/index.php/paphos-diving-sites/item/61-wreck-of-achilleas), [xtremespots.com](https://www.xtremespots.com/water-sports/scuba-diving/achilleas-wreck-paphos-cyprus/), [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/). Re-audited 2026-07-27 against current versions of the same three sources; no factual changes required. Last updated 2026-07-27.*

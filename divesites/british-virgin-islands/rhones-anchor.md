@@ -63,7 +63,7 @@ The anchor itself is the primary subject — wide-angle with a torch or strobe t
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rhones-anchor/), [Wikipedia – RMS Rhone](https://en.wikipedia.org/wiki/RMS_Rhone), [BVI Diving](https://www.bvidiving.com/diving-rms-rhone-bvi.html), [BVI Scuba](https://bviscuba.org/diving-info/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rhones-anchor/), [Wikipedia – RMS Rhone](https://en.wikipedia.org/wiki/RMS_Rhone), [BVI Diving](https://www.bvidiving.com/diving-rms-rhone-bvi.html), [BVI Scuba](https://bviscuba.org/diving-info/). Last updated 2026-07-23.*

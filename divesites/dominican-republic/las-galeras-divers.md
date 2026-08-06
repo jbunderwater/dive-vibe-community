@@ -21,7 +21,7 @@ addedBy: osm_import
 
 The coordinates (19.2912°N, 69.1984°W) place this entry at the Las Galeras village waterfront, adjacent to where the Las Galeras Divers dive centre operates. Las Galeras Divers is a small family-run PADI dive centre offering personalised service (maximum 6 divers per group) from the eastern tip of the Samaná Peninsula. Their dive sites include Playita (the nearby shallow reef), Piedra Bonita / The Tower (a pinnacle at Cabo Cabrón, depths to 55 metres), and other sites along the Samaná Peninsula coast.
 
-No source confirms a dive site named "Las Galeras Divers" — this is a dive operator name, not a site name.
+No source confirms a dive site named "Las Galeras Divers" — this is a dive operator name, not a site name. Re-checked 2026-07-29: Las Galeras Divers' own site listing names Ferry Wreck, Wall La Farola, Barco Monika, Cabo Cabrón/Tibisi, and Piedra Bonita as their dive sites — "Las Galeras Divers" does not appear among them, reinforcing that this OSM node marks the shop's premises rather than a distinct site.
 
 ## Site Information
 
@@ -30,4 +30,4 @@ No source confirms a dive site named "Las Galeras Divers" — this is a dive ope
 - **Nearest confirmed dive site**: Playita (approximately 350 metres northwest)
 
 ---
-*Description based on OSM data and operator website review. No site-specific sources found confirming this as a named dive site. Last updated 2026-05-24.*
+*Description based on OSM data and operator website review. No site-specific sources found confirming this as a named dive site. Last updated 2026-07-29.*

@@ -60,4 +60,4 @@ Minimal hazards at this site. Watch for fire coral on the reef top. Avoid touchi
 Excellent conditions for wide-angle reef photography in shallow, well-lit water. Hawksbill turtle encounters offer portrait opportunities. Macro on sea fans may reveal small gobies and flamingo tongues. The colorful reef fish population is accessible to photographers in calm conditions.
 
 ---
-*Sources: [Las Galeras Divers](http://www.las-galeras-divers.com/us/diving-sites/), [The Dive Academy Las Terrenas](https://tdalasterrenas.com/our_sites), [Goodive — Las Terrenas](https://www.gooddive.com/dominican-republic-diving/las-terrenas-diving.htm). Last updated 2026-05-24.*
+*Sources: [Las Galeras Divers](http://www.las-galeras-divers.com/us/diving-sites/), [The Dive Academy Las Terrenas](https://tdalasterrenas.com/our_sites), [Goodive — Las Terrenas](https://www.gooddive.com/dominican-republic-diving/las-terrenas-diving.htm). Re-audited 2026-07-29: Las Galeras Divers site re-confirmed live and current. Last updated 2026-07-29.*

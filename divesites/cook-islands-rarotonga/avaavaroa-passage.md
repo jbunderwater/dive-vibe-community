@@ -13,15 +13,15 @@ addedBy: osm_import
 
 # Avaavaroa Passage
 
-A south-coast passage through Rarotonga's fringing reef with steep canyon walls, strong variable currents, and some of the most reliable eagle ray and shark encounters on the island. Suitable only for experienced divers; must be timed to tide and swell conditions.
+A south-coast passage through Rarotonga's fringing reef with steep canyon walls, strong variable currents, and a designated Important Shark and Ray Area recognised for regular eagle ray and whitetip reef shark encounters. Suitable only for experienced divers; must be timed to tide and swell conditions.
 
 ## Overview
 
-Avaavaroa Passage cuts through Rarotonga's fringing reef on the south side, between the villages of Avaavaroa and Titikaveka. The passage is accessed via small boat from the south coast and features steep canyon walls that create a series of gullies extending from the reef top at around 12 meters to depths of 40 meters at the outer edge, where the wall drops away dramatically into open water.
+Avaavaroa Passage cuts through Rarotonga's fringing reef on the south side, between the villages of Avaavaroa and Titikaveka. The passage is accessed via small boat from the south coast and features steep canyon walls and gullies. Sources give somewhat different depth pictures: one detailed trip report describes the passage beginning at around 12 meters and gradually sloping to about 30 meters, then dropping to 45-50 meters at the outer reef edge; this listing uses 40 meters as a representative recreational maximum, but divers should be aware the outer wall extends well beyond that into technical-diving depths and should not be followed.
 
-Strong and variable currents are a defining characteristic of this dive. The passage empties the inner lagoon and is subject to tidal flow and south swell, which can produce conditions ranging from slack to strongly flushing. Operators time dives to conditions; the site should not be attempted in large southerly swells or when tidal currents are running hard. When conditions are right, the current-swept canyon is exceptional.
+Strong and variable currents are a defining characteristic of this dive. The passage empties the inner lagoon and is subject to tidal flow and south swell, which can produce conditions ranging from slack to strongly flushing water that requires care close to the reef. Operators time dives to conditions; the site should not be attempted in large southerly swells or when tidal currents are running hard.
 
-Avaavaroa is classified as an Important Shark and Ray Area (ISRA), reflecting the regularity and scale of wildlife encounters documented here. Whitetip reef sharks predictably rest in caves within the passage during daylight hours, observed solitarily or in small groups of up to three. Spotted eagle rays aggregate here in groups routinely numbering 40 to 80 individuals, with aggregations exceeding 87 individuals on record — a globally significant concentration.
+Avaavaroa is classified as an Important Shark and Ray Area (ISRA) by the Important Shark and Ray Areas project, which documents both whitetip reef sharks regularly and predictably resting in a cave within the passage, and recurring (but not numerically quantified in available sources) aggregations of spotted eagle rays. A separate trip report additionally documents grey reef sharks in the passage. No source found gives a specific count for the eagle ray aggregations — earlier text citing "40 to 80" or "87" individuals could not be verified against any source and has been removed.
 
 ## Site Information
 
@@ -37,11 +37,11 @@ Avaavaroa is classified as an Important Shark and Ray Area (ISRA), reflecting th
 
 ## Marine Life
 
-Spotted eagle rays are the signature species: aggregations of 40 to 80 individuals have been documented regularly, with groups exceeding 87 on record. These aggregations occur year-round and are observed on nearly every recreational dive under suitable conditions. Whitetip reef sharks predictably rest in caves within the passage walls, typically solitary but occasionally in small groups. Grey reef sharks also patrol the deeper sections. Leafy scorpionfish (also recorded as leaf scorpionfish) are found on the canyon walls, camouflaged against the volcanic rock. Turtles are seen in the passage.
+Spotted eagle rays are the signature species, with recurring aggregations documented by the ISRA project; no verified source gives a specific typical group size, so none is stated here. Whitetip reef sharks predictably rest in a cave within the passage walls, per the ISRA designation. Grey reef sharks are also documented patrolling the passage. Leafy scorpionfish (also recorded as leaf scorpionfish) have been reported on the canyon walls. Turtles are seen in the passage. One source described overall fish life in the passage as sparse outside of the shark/ray/turtle encounters.
 
 ## Dive Profile
 
-Enter the passage and descend along the canyon walls. The passage runs from around 12 meters at the reef top to 40 meters at the outer wall edge — depth management is critical. The eagle ray aggregations tend to concentrate mid-water; hovering at 15 to 25 meters while watching the blue water is the most productive strategy. Whitetip reef sharks rest in the cave overhangs along the walls — check these carefully. Return along the passage or signal for boat pickup at the outer reef edge depending on the operator's approach. The strong visibility is both an asset for wildlife spotting and a depth deception hazard.
+Enter the passage and descend along the canyon walls. The passage runs from around 12 meters at the reef top, gradually sloping past 30 meters, with the outer wall reportedly continuing well beyond recreational limits — depth management is critical and the deep outer wall should not be followed. Whitetip reef sharks rest in a cave along the walls — check overhangs carefully. Return along the passage or signal for boat pickup at the outer reef edge depending on the operator's approach. The strong visibility is both an asset for wildlife spotting and a depth deception hazard.
 
 ## Entry and Exit
 
@@ -49,15 +49,14 @@ Access by dive boat from the south-coast area or from Avatiu Harbour. The passag
 
 ## Tips and Recommendations
 
-- This is the top site on Rarotonga for eagle ray aggregations; plan at least one dive here if conditions allow
+- One of the more reliable Rarotonga sites for eagle ray and whitetip reef shark encounters; plan at least one dive here if conditions allow
 - Dive at slack tide — currents through the passage can become dangerous quickly
 - The south side of the island is accessible mainly June through December; avoid during cyclone season swells
-- Keep depth conservative — the dramatic drop-off makes it easy to drift deeper than planned
-- Cameras recommended: the eagle ray aggregations are outstanding photographic subjects
+- Keep depth conservative — sources indicate the outer wall drops well beyond recreational limits, so it is easy to drift deeper than planned
 
 ## Safety Considerations
 
 This site requires Advanced Open Water certification and experience with current diving. Tidal currents can develop without warning and reach levels that make swimming against them impossible. The outer wall drops to beyond sport diving limits — resist the temptation to follow it. Narcosis is a concern at maximum depth. This site is weather and tide dependent; always dive with a local operator who can assess conditions.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=513), [ISRA — Avaavaroa Passage Important Shark and Ray Area](https://sharkrayareas.org/portfolio-item/avaavaroa-passage-isra/), [Pacific Divers](https://www.pacificdivers.co.ck/Diving-Map.html). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=513), [ISRA — Avaavaroa Passage Important Shark and Ray Area](https://sharkrayareas.org/portfolio-item/avaavaroa-passage-isra/), [Dive Rarotonga — Dive Sites](https://www.diverarotonga.com/dive-sites). Re-audited 2026-07-26: the Pacific Divers citation was replaced with Dive Rarotonga (which independently lists this passage; Pacific Divers' site map does not), and previously stated eagle ray aggregation counts of "40-80" and "87 individuals" were removed as unverifiable against any source. Last updated 2026-07-26.*

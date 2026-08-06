@@ -35,7 +35,7 @@ The Gosei Maru's compact size means she can be thoroughly explored in a single d
 
 ## Marine Life
 
-The Gosei Maru's mix of shallow and deeper structure supports a range of marine life. The stern section near the surface is well-colonized with hard and soft corals, sea fans, and encrusting sponges that thrive in the abundant sunlight. Schools of reef fish patrol the shallows, and anemones with resident clownfish are found along the hull. Glassy sweepers occupy the darker interior spaces, while lionfish and scorpionfish lurk in overhangs. The warm, nutrient-rich lagoon water supports healthy coral growth across the entire wreck.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Gosei Maru. Chuuk Lagoon's regional reef fauna -- fish species and coral growth reported across the lagoon's wrecks generally -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The Gosei Maru's shallow stern section and moderate maximum depth of 35 meters m
 The Gosei Maru offers a range of photographic opportunities across its depth range. The shallow stern in 2.5 meters of water allows natural-light wide-angle shots with vibrant color. The dramatic roll angle creates unusual compositions with the wreck structure at unexpected orientations. The transition from near-surface to 35 meters along a single wreck provides varied lighting conditions in one dive. The good visibility (15-30 meters) supports clean wide-angle compositions of the overall wreck profile.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Gosei Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=228), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks), [Master Liveaboards - Truk Dive Sites](https://www.masterliveaboards.com/truk-dive-sites/). Exact vessel dimensions and sinking date not confirmed across 2+ independent sources; description based on confirmed diving characteristics. Last updated 2026-06-16.*
+*Sources: [Michael McFadyen's Scuba Diving - Gosei Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=228), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks), [Master Liveaboards - Truk Dive Sites](https://www.masterliveaboards.com/truk-dive-sites/). Exact vessel dimensions and sinking date not confirmed across 2+ independent sources; description based on confirmed diving characteristics. Last updated 2026-07-26.*

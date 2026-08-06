@@ -34,7 +34,7 @@ Day trips to Saona Island by speedboat from Bayahibe take approximately 45 minut
 
 ## Marine Life
 
-Sources confirm the following marine life at and around Saona Island: southern stingrays (congregating in sandy lagoons in significant numbers), hawksbill and green sea turtles (feeding on sponges and seagrass — the island is the country's most important turtle breeding area), eagle rays, queen conch (protected within the national park), large groupers, parrotfish, French grunts, Nassau groupers, spotted moray eels, spiny lobsters, nurse sharks, puffer fish, trunkfish, angelfish, and barracuda. The diverse reef structure supports populations across multiple depth zones.
+Sources confirm the following marine life at and around Saona Island: southern and grey stingrays (burrowing in sand at the base of dive walls and congregating in sandy lagoons), hawksbill, green, and leatherback sea turtles (the Mano Juan area of Saona specifically hosts a protected nesting sanctuary — the island's turtle-breeding reputation traces to this village-level program rather than the whole island uniformly), eagle rays, queen conch (protected within the national park), large groupers, parrotfish, French grunts, Nassau groupers, spotted moray eels, spiny lobsters, nurse sharks, puffer fish, trunkfish, angelfish, and barracuda. The diverse reef structure supports populations across multiple depth zones.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The main hazard at Saona is boat traffic from the high volume of tourist speedbo
 Crystal-clear, shallow water with abundant sunlight creates ideal wide-angle conditions. Large groups of stingrays in the sandy lagoons are a distinctive subject. Sea turtle portraits in shallow, bright water photograph well in natural light. The dense reef fish population provides easy subjects for wide-angle reef portraits.
 
 ---
-*Sources: [Pro Dive International — Saona Island](https://www.prodiveinternational.com/three-ways-to-explore-saonas-underwater-world/), [Dressel Divers — Bayahibe](https://www.dresseldivers.com/dive/dominican-republic/bayahibe-scuba-diving/), [Dive O'Clock — Saona](https://www.diveoclock.com/destinations/Caribbean/DominicanRepublic/Saona/). Last updated 2026-05-24.*
+*Sources: [Pro Dive International — Saona Island](https://www.prodiveinternational.com/three-ways-to-explore-saonas-underwater-world/), [Dressel Divers — Bayahibe](https://www.dresseldivers.com/dive/dominican-republic/bayahibe-scuba-diving/), [Dive O'Clock — Saona](https://www.diveoclock.com/destinations/Caribbean/DominicanRepublic/Saona/), [Saona Island — Turtle Sanctuary](https://www.saonaisland.org/amazing-turtle-sanctuary/). Re-audited 2026-07-29: Dive O'Clock re-confirmed live, with stingrays and Penon reef content matching; Saona Island turtle sanctuary details (Mano Juan, hawksbill/green/leatherback) added from an additional source. Last updated 2026-07-29.*

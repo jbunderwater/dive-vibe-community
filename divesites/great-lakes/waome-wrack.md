@@ -33,11 +33,7 @@ Georgian Bay's eastern shore around Parry Sound has been an important navigation
 
 ## Marine Life
 
-Eastern Georgian Bay near Parry Sound supports a diverse freshwater community. Smallmouth bass are abundant around the hull. Northern pike cruise the area. Lake trout are occasionally seen. Yellow perch school around the superstructure. The scenic 30,000 Islands setting means diving here is accompanied by sightings of loons, great blue herons, and other Georgian Bay wildlife above the waterline.
-
-## Dive Profile
-
-The Waome lies at 20 metres on the Georgian Bay bottom. Explore the steel hull, superstructure, and any accessible interior sections. The 20th-century construction means identifiable machinery, portholes, and structural features that connect to living memory of Great Lakes passenger travel. Standard ascent with 3-minute safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

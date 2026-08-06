@@ -2,8 +2,8 @@
 name: James C. King (Wreck)
 lat: 45.2678
 lng: -81.7149972
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 27
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## James C. King (Wreck)
 
-The James C. King is a 19th-century wooden schooner in Fathom Five National Marine Park, Georgian Bay, Ontario. One of the many historic vessels clustered in the Tobermory area, the James C. King rests in approximately 20 metres of the famously clear Georgian Bay water, preserved in the cold freshwater conditions of Canada's first underwater heritage marine park.
+The James C. King is a 175-foot wooden schooner-barge, built in East Saginaw, Michigan in 1867, that wrecked in November 1901 while under tow by the W.L. Wetmore in a snowstorm. She now lies on a steep rocky slope in Fathom Five National Marine Park, with her stern at approximately 7.6 metres (25 feet) and her bow considerably deeper at approximately 27 metres — making this an Advanced-level dive.
 
 ## Overview
 
-The Tobermory area of Georgian Bay at the tip of the Bruce Peninsula is home to more than two dozen historical shipwrecks within a relatively compact area — one of the highest concentrations of accessible heritage wrecks in the world. The James C. King was a Great Lakes cargo schooner that met her end in Georgian Bay's treacherous shoals and unpredictable weather. Today she rests at approximately 20 metres in Fathom Five National Marine Park, where the exceptional visibility (regularly 15–20+ metres) and cold, preserving water make her one of the park's most appealing dives. The hull's wooden construction is visible in detail, an authentic window into 19th-century Great Lakes shipbuilding.
+The Tobermory area of Georgian Bay at the tip of the Bruce Peninsula is home to more than two dozen historical shipwrecks within a relatively compact area — one of the highest concentrations of accessible heritage wrecks in the world. The James C. King, a 175-foot schooner-barge built in 1867, was under tow by the W.L. Wetmore when both vessels were lost in a November 1901 snowstorm. The King slid down a steep rocky slope after sinking; her stern rests in shallow water around 7.6 metres (25 feet) while her bow lies at approximately 27 metres, giving the dive a significant depth range within a single site. The exceptional visibility (regularly 15–20+ metres) and cold, preserving water of Fathom Five National Marine Park have kept the wooden hull in detailed, visible condition. Because of the depth at the bow, this site is generally recommended for experienced divers rather than novices.
 
 ## Site Information
 
 - **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 4–16°C (seasonal); bottom 4–6°C year-round
 - **Current**: Minimal
@@ -33,11 +33,7 @@ The Tobermory area of Georgian Bay at the tip of the Bruce Peninsula is home to 
 
 ## Marine Life
 
-Georgian Bay's clear, cold waters support a healthy and visible freshwater community. Lake trout patrol the deeper sections of the wreck and surrounding water column. Smallmouth bass are the dominant territorial fish around the hull openings and deck. Yellow perch gather in shallower portions of the site. Lake whitefish occasionally move through in graceful schools. The hull is colonized by zebra mussels below the thermocline, but the Georgian Bay ecosystem remains less heavily impacted by invasives than the lower Great Lakes.
-
-## Dive Profile
-
-The James C. King lies at a manageable intermediate depth with generous NDL at 20 metres. Explore from bow to stern, taking time to examine the hull construction, rigging fragments, and deck hardware. The ship's orientation and profile are identifiable, making this an engaging wreck dive. Ascend on the mooring line for a 3-minute safety stop.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -60,4 +56,4 @@ Georgian Bay cold water demands proper thermal protection. Boat traffic in the T
 Fathom Five's exceptional clarity makes the James C. King a premier freshwater wreck photography site. Wide-angle shots of the entire hull are achievable in good visibility. Natural light in Georgian Bay has a distinctive crystalline quality that makes underwater images particularly sharp and detailed.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [Shotline Diving - James C King US 13871](https://shotlinediving.com/wreck/james-c-king-us-13871/), [Parks Canada - Fathom Five Dive & Snorkel Guide (PDF)](http://parkscanadahistory.com/publications/fathomfive/brochures/dive-snorkel-guide-e-2024.pdf), [David Gibbins - Diving the Wreck of the James C. King](http://davidgibbins.com/journal/2015/9/29/diving-the-wreck-of-the-james-c-king-1878-tobermory-canada-september-2015). Last updated 2026-08-03.*

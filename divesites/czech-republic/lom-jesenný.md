@@ -17,7 +17,7 @@ A heart-shaped flooded limestone quarry in the Bohemian Paradise region with a V
 
 ## Overview
 
-Lom Jesenný is a flooded limestone quarry located in the village of Jesenný in the Semily District, Liberec Region, within the scenic Bohemian Paradise (Český ráj) area of northern Bohemia. The quarry is roughly heart-shaped, measuring approximately 130 by 90 meters, and sits at 452 meters altitude. It reaches a maximum depth of 13.5 meters. The site is privately managed and requires advance booking through the diving base.
+Lom Jesenný is a flooded limestone quarry located in the village of Jesenný in the Semily District, Liberec Region, within the scenic Bohemian Paradise (Český ráj) area of northern Bohemia, roughly 12 km from Železný Brod and 10 km from Semily. The quarry is roughly heart-shaped and sits at 452 meters altitude, reaching a maximum depth of 13.5 meters. Sources disagree on its surface dimensions — most report approximately 130 by 90 meters, while one source gives 80 by 100 meters — so treat the exact footprint as approximate. The site is privately operated by a diving base (owners Zdislav Zítek and Zdeněk Miller purchased the flooded quarry to provide a diving location for themselves, friends, and course participants) and requires advance booking; there is no drop-in diving.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ The quarry contains a VW minibus, a model submarine named "Merlin," a training p
 
 ## Marine Life
 
-Freshwater species typical of Bohemian quarries. Clear water periods in winter offer the best observation conditions.
+Site-specific fauna reported by divers here includes catfish (large enough for close-up encounters), pike, carp — including a reported carp over 30 kg and 1 meter long — and crayfish and mussels. Clear water periods in winter and spring offer the best observation conditions.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ This is a private site. Contact the diving base in advance to arrange access. En
 - The Bohemian Paradise area offers excellent above-water sightseeing between dives
 
 ---
-*Description based on two sources. BuddyMag.cz returned 503 error during re-audit (2026-05-23) — content could not be re-verified. Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=175), [BuddyMag - Lom Jesenný](http://buddymag.cz/aktuality/lom-jesenny-potapeni-na-severu-cech-223). Last updated 2026-05-23.*
+*BuddyMag.cz has been dropped as a source — it returned a persistent 503 error on re-audit (2026-05-23 and again 2026-07-27) and could not be re-verified. Replaced with two working independent sources. Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=175), [HN.cz - Sumci z očí do očí v lomu Jesenný](https://vikend.hn.cz/c1-46626680-sumci-z-oci-do-oci-podivejte-se-co-se-skryva-pod-hladinou-lomu-jesenny), [Svět cestovatelé - Zámek a lom Jesenný](https://www.svetcestovatele.cz/co-navstivit-na-semilsku-zamek-a-lom-v-obci-jesenny-a-bozkovske-dolomitove-jeskyne-s-nejvetsim-podzemnim-jezirkem-v-cechach/). Last updated 2026-07-27.*

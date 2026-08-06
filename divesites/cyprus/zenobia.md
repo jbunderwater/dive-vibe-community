@@ -50,4 +50,4 @@ Groupers, sea bass, amberjacks, barracuda, moray eels, stingrays, and loggerhead
 - Wreck penetration requires proper training and equipment
 
 ---
-*Sources: [Wikipedia - MS Zenobia](https://en.wikipedia.org/wiki/MS_Zenobia), [Scubaverse](https://scubaverse.com/cyprus-a-closer-look-part-2-the-legendary-zenobia/), [proscubadiver.net](https://www.proscubadiver.net/dive-sites-cyprus/zenobia-wreck-cyprus/), [Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/sports-training/sports-diving/ms-zenobia-shipwreck/). Last updated 2026-05-23.*
+*Sources: [Wikipedia - MS Zenobia](https://en.wikipedia.org/wiki/MS_Zenobia), [Scubaverse](https://scubaverse.com/cyprus-a-closer-look-part-2-the-legendary-zenobia/), [proscubadiver.net](https://www.proscubadiver.net/dive-sites-cyprus/zenobia-wreck-cyprus/), [Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/sports-training/sports-diving/ms-zenobia-shipwreck/). Last updated 2026-07-27.*

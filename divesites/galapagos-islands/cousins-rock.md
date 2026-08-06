@@ -32,7 +32,7 @@ Cousins Rock is a small tuff cone located northeast of Santiago Island — appro
 
 ## Marine Life
 
-Pacific seahorses are found clinging to gorgonians and rocky outcrops along the wall. Frogfish hide among the sponges and coral. Sea lions from the nearby colony are constant companions, spiraling around divers, blowing bubbles, and making eye contact at close range. The wall is decorated with extensive black coral trees and large sea fans. Whitetip reef sharks rest in crevices and under overhangs. Spotted eagle rays cruise past the wall edge. Schools of barracuda and creole fish swirl in the blue. Moray eels peer from holes in the rock. King angelfish, hawkfish, and diverse reef fish populate the wall. Green sea turtles rest on ledges throughout the site.
+Pacific seahorses are found clinging to gorgonians and rocky outcrops along the wall. Frogfish hide among the sponges and coral. Sea lions from the nearby colony are constant companions, spiraling around divers, blowing bubbles, and making eye contact at close range. The wall is decorated with extensive black coral trees and large sea fans. Whitetip reef sharks rest in crevices and under overhangs; hammerhead and Galapagos sharks are also reported here, though less consistently than at Gordon Rocks. Giant manta rays are sighted passing below the wall. Spotted eagle rays cruise past the wall edge. Schools of barracuda and creole fish swirl in the blue. Moray eels and octopus peer from holes in the rock. King angelfish, hawkfish, and diverse reef fish populate the wall. Green sea turtles rest on ledges throughout the site.
 
 ## Dive Profile
 
@@ -44,6 +44,7 @@ Panga drop from liveaboard or day boat, positioned upstream of the rock based on
 
 ## Tips and Recommendations
 
+- At least one operator requires Advanced Open Water certification with roughly 30 logged dives and solid buoyancy control for this site, similar to other central Galapagos sites — confirm requirements with your operator
 - Split your dive time between the deep wall for macro subjects and the shallow top for sea lion play -- both are worth extended exploration
 - Look carefully in the black coral and gorgonians for seahorses; ask your guide where the current residents are hiding
 - Sea lions are most interactive when divers are relaxed and still -- stop moving and let them come to you
@@ -59,4 +60,4 @@ Currents are generally milder than at other Galapagos sites, but can still be pr
 One of the most versatile photography sites in the Galapagos. Sea lions are exceptionally photogenic subjects -- they approach closely, make eye contact, and spiral around divers, rewarding wide-angle shooters with engaging portraits and interaction shots. Seahorses and frogfish provide genuine macro opportunities rare in the Galapagos. Black coral gardens and sea fans create beautiful backgrounds for wide-angle reef scenes. The combination of subjects makes this a site where both a macro and wide-angle setup would be used to full advantage. If forced to choose one lens, go wide-angle for the sea lions.
 
 ---
-*Sources: [Scuba Iguana – Cousins Rock](https://scubaiguana.com/diving/dive-sites/cousins/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [Royal Galapagos – Cousins Rocks](https://www.royalgalapagos.com/visitor_points/santiago-island-cousins-rocks/), [Starfish.ch – Central Galapagos](https://www.starfish.ch/scubadiving/Galapagos-center.html). Last updated 2026-05-30.*
+*Sources: [Scuba Iguana – Cousins Rock](https://scubaiguana.com/diving/dive-sites/cousins/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [Royal Galapagos – Cousins Rocks](https://www.royalgalapagos.com/visitor_points/santiago-island-cousins-rocks/), [Starfish.ch – Central Galapagos](https://www.starfish.ch/scubadiving/Galapagos-center.html). Last updated 2026-08-03.*

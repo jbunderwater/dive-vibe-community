@@ -3,7 +3,7 @@ name: Aggi
 lat: 34.0207459
 lng: -120.2339267
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 15
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Aggi is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-The Aggi is a Norwegian-flag, Scottish-built 265-foot steel full-rigger (ex-*Aspice*) that stranded on Talcott Shoal off the south side of Santa Rosa Island on May 4, 1915 while under tow. Her heavily encrusted iron hull frames now lie across Talcott Shoal at around 6–15 meters, draped in coralline algae and sea stars. The wreck has fully integrated into the reef ecosystem and the boundary between wreck and natural rock is blurry — lingcod and cabezon stake out territory on the larger hull sections, while rockfish hover in loose groups in the midwater above. Santa Rosa Island's kelp forests frame the site, and harbor seals from the island's resident population occasionally investigate divers exploring the scattered debris.
+The Aggi is a Norwegian-flag, Scottish-built 265-foot steel full-rigger (ex-*Aspice*) that stranded on Talcott Shoal off the south side of Santa Rosa Island on May 4, 1915 while under tow. Her heavily encrusted iron hull frames lie across Talcott Shoal, mostly in 6–9 meters with some debris reaching 15 meters. The wreck has fully integrated into the reef ecosystem, and local dive operators report sheephead, lingcod, and rockfish holding around the structure. Santa Rosa Island's kelp forests frame the site.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Aggi is a Norwegian-flag, Scottish-built 265-foot steel full-rigger (ex-*Asp
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 15 meters
 
 ## Wreck History
 
@@ -33,7 +33,7 @@ The Aggi was a 265-foot (81 m), three-masted, steel-hulled full-rigged ship laun
 
 ## Marine Life
 
-The Talcott Shoal site around the Aggi wreck is notable for abundant invertebrate life. Rocks and hull sections are covered with colorful patches of corynactis anemones and sponges in multiple colors and forms. Schools of rockfish occupy the water column above the wreck, and large sunflower sea stars are common on the bottom. California spiny lobster shelter in crevices throughout the debris field, and wolf eels inhabit deeper sections. An excellent variety of nudibranchs reward macro photographers. The surge-exposed reef also supports lingcod, cabezon, and garibaldi.
+Channel Islands Dive Adventures' site-by-site listing specifically credits the Aggi wreck with sheephead, lingcod, and rockfish, and a NOAA photo caption from the wreck site notes "a seabass nearby." Beyond that, no source consulted confirms further species at this specific site — the corynactis anemones, sponges, sunflower sea stars, spiny lobster, wolf eels, nudibranchs, cabezon, and garibaldi named in a previous version of this description were regional Channel Islands generalizations rather than confirmed Aggi sightings, and have been removed.
 
 ## Dive Profile
 
@@ -45,11 +45,11 @@ Boat dive only. Santa Rosa Island is approximately 34 miles southwest of Santa B
 
 ## Tips and Recommendations
 
-The Aggi wreck is best approached in late summer and fall when northwest winds ease. Visibility can reach 20 meters (70 ft) in settled conditions. Watch for surge at any depth — it can be substantial even at 15 meters. Currents can be strong and can develop quickly. Bring a dive light to illuminate the sponge and anemone growth on the structural sections.
+The Aggi wreck is best approached in late summer and fall when northwest winds ease. Visibility can reach 20 meters (70 ft) in settled conditions. Watch for surge at any depth — it can be substantial even at 15 meters. Currents can be strong and can develop quickly. Bring a dive light to illuminate the structural sections.
 
 ## Safety Considerations
 
 Water temperature at Santa Rosa Island ranges from approximately 10°C (50°F) in winter to 16°C (61°F) in summer. A 7 mm wetsuit with hood and gloves is the minimum; a drysuit is recommended for winter and spring dives. Northwest winds can develop rapidly; always monitor conditions. This site requires intermediate or stronger dive skills due to surge, current, and potential for swift deterioration of conditions.
 
 ---
-*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Aggi](https://www.islapedia.com/index.php?title=Aggi), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [Santa Barbara Independent - Channel Islands Shipwrecks](https://www.independent.com/2020/02/26/channel-island-shipwrecks-tell-stories-of-heroism-heartbreak-and-high-seas-scalawaggery/), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/northern-channel-islands/). Last updated 2026-05-20.*
+*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Aggi](https://www.islapedia.com/index.php?title=Aggi), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [Santa Barbara Independent - Channel Islands Shipwrecks](https://www.independent.com/2020/02/26/channel-island-shipwrecks-tell-stories-of-heroism-heartbreak-and-high-seas-scalawaggery/), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/northern-channel-islands/), [OpenDiveSites.org - Santa Rosa Island](https://opendivesites.org/Santa_Rosa_Island). Last updated 2026-07-23.*

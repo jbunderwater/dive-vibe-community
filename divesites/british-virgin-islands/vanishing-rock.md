@@ -63,7 +63,7 @@ The pillar coral formations are the standout subjects — wide-angle works well 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/vanishing-rock/), [BVI Diving](https://www.bvidiving.com/diving-vanishing-rock-bvi.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/vanishing-rock/), [BVI Diving](https://www.bvidiving.com/diving-vanishing-rock-bvi.html), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-07-23.*

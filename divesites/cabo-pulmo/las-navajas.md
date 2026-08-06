@@ -14,7 +14,7 @@ addedBy: osm_import
 # Las Navajas
 
 ## Overview
-Las Navajas features deep canyons and rocky formations within Cabo Pulmo National Marine Park. The site is known for shark and ray encounters — reef sharks patrol the canyon edges and stingrays rest on the sandy bottom between formations. Parts of the site are shallow enough for snorkeling, making it one of the park's more versatile locations. The canyon topography creates sheltered areas where diverse reef fish congregate, and the varied depth profile offers something at every level down to 15 meters. Schools of jacks and snappers move through the canyons, alongside the resident reef shark population.
+Las Navajas ("Las Navajas Reef") is a named site within Cabo Pulmo National Marine Park used as a stop on local snorkel-tour itineraries, with shallow sections accessible to snorkelers as well as divers. **A 2026-07-23 re-audit could not independently confirm most of the site-specific detail previously published here.** The site's three prior cited sources were re-checked and none of them actually discuss Las Navajas: the primary operator page is offline, and neither the ScubaBoard thread nor the Dive O'Clock page previously cited mentions this site by name anywhere in their current content. Two thin sources (Cabo Pulmo Beach Resort's snorkel-tour page and a regional travel guide) confirm the site exists and is used for tours, but neither provides depth, topography, or marine-life detail. The previous claims about canyon topography, reef sharks, and rays could not be traced to any verifiable source and have been removed pending further research rather than repeated on faith.
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
@@ -27,15 +27,14 @@ Las Navajas features deep canyons and rocky formations within Cabo Pulmo Nationa
 - **Best Time**: Year-round
 
 ## Marine Life
-Reef sharks, rays, tropical reef fish in the canyon formations. The combination of rock structure and sand channels creates habitat variety that supports both pelagic visitors and resident reef species.
+No site-specific marine life reports were found for Las Navajas in this re-audit. Cabo Pulmo's regional reef fauna (reef fish, rays, and occasional reef sharks) likely applies given the park's overall ecosystem, but no source confirms which species are actually seen at this specific site — the previous "reef sharks patrol the canyon edges" claim could not be verified and has been removed.
 
 ## Dive Profile
-Canyon topography from shallow sections (suitable for snorkeling) down to 15 meters. Navigate through the rock formations and along canyon walls, checking sandy areas between structures for resting rays. The 45-minute park dive limit applies.
+Confirmed sources describe Las Navajas only as a stop included on snorkel-tour packages alongside Mermaid Beach and the Sea Lion Colony, with parts shallow enough for snorkeling. No source-confirmed dive profile (entry point, typical route, turnaround depth) is available. The 45-minute park dive limit applies to all park dives.
 
 ## Tips and Recommendations
-- Good site for combining a dive and snorkel on the same visit
-- Check canyon floors and overhangs for resting sharks and rays
-- Relatively sheltered — a good option when conditions are rough at outer sites
+- This site's page needs further site-specific research — treat depth and topography claims with caution until additional sources are found
+- Often included alongside Mermaid Beach and the Sea Lion Colony on combined snorkel-tour itineraries
 
 ---
-*Sources: [Cabo Pulmo Diving](https://cabopulmodiving.com/our-gourmet-diving-menu/), [ScubaBoard – Cabo Pulmo Best Practices](https://scubaboard.com/community/threads/cabo-pulmo-best-practices.626751/), [Dive O'Clock](https://www.diveoclock.com/destinations/Latin-America/Mexico/Cabo_Pulmo/). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort – Snorkel Tours](https://www.cabopulmo.com/snorkel-tours), [Mexico Travel Buddy](https://mexicotravelbuddy.com/cabo-pulmo-diving-and-snorkeling/). Neither source provides site-specific depth, topography, or marine-life detail. Previously cited sources (cabopulmodiving.com, scubaboard.com, diveoclock.com) were re-checked on 2026-07-23 and do not actually mention this site — dropped. Last updated 2026-07-23.*

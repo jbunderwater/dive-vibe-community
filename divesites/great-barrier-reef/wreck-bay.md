@@ -17,9 +17,9 @@ Wreck Bay is a wreck dive site on the eastern side of Agincourt Reef No. 3, appr
 
 ## Overview
 
-Wreck Bay takes its name from the remains of a Taiwanese fishing vessel that ran aground on the outer edge of Agincourt Reef and sank to the seafloor. The vessel has been colonised by coral and marine life over the decades since it sank, becoming an artificial reef structure. The visible wreckage is limited — the main diving interest is the reef topography around the wreck: caves, gutters, ledges, and bommies that have developed in the bay area.
+Wreck Bay takes its name from the remains of a Taiwanese fishing vessel on the eastern side of Agincourt Reef No. 3. This is the only vessel identity confirmed across sources (tropicalnorthqueensland.org.au, thefold.com.au, silverseries.com.au, queensland.com); none of them give a vessel name, build date, tonnage, or a confirmed sinking date, and per this destination's anti-hallucination policy those specifics are omitted here rather than invented. One lower-confidence tourism listing states the vessel "sank over 70 years ago," but this is not corroborated by any second independent source, so it is noted as unconfirmed rather than stated as fact. With little of the wreck itself remaining visible, most operators describe the main diving interest as the surrounding reef topography — caves, gutters, ledges, and bommies that have developed in the bay area.
 
-The site can only be dived in calm conditions due to its exposed outer reef position. Depths range from 10 to approximately 22 metres. The combination of wreck remains and the surrounding reef makes this a diverse dive that offers both historical interest and open reef exploration in a single site visit.
+The site can only be dived in calm conditions due to its exposed outer reef position. Depths range from roughly 10 to 22 metres by our data, though Silverseries lists the adjacent "Wreck Site" mooring at Agincourt Reef 3 to 24 metres — noted here as a minor source discrepancy rather than resolved to one figure.
 
 ## Site Information
 
@@ -34,11 +34,11 @@ The site can only be dived in calm conditions due to its exposed outer reef posi
 
 ## Marine Life
 
-The site supports a good range of outer GBR species. Fusiliers, clownfish, sweetlips, and green turtles are regularly seen around the bay. The reef structures — caves, ledges, and bommies surrounding the wreck remains — provide habitat for moray eels and smaller reef fish. The wreck material itself has accumulated encrusting growth, but the real interest is in exploring the natural reef formations that make up most of the site. Reef sharks patrol the outer margins.
+Sources confirm a family of clown anemonefish as one of the site's signature attractions, along with turtles, reef sharks, sweetlips, groupers, and trevally. Crayfish, moray eels, and large tawny nurse sharks are reported resting in the ledges and caves. Hard corals, soft corals, sea whips, and gorgonians are noted as particularly good here.
 
 ## Dive Profile
 
-Begin in the shallower sections at 10–12 metres, exploring the ledges and gutters, then work deeper to 18–22 metres to see the more substantial reef formations and remaining wreck material. The site rewards methodical exploration of the caves and overhangs rather than a single circuit. Ascend via the shallower reef formations for the safety stop.
+Begin in the shallower sections at 10–12 metres, exploring the ledges and gutters, then work deeper toward the site's maximum depth to see the more substantial reef formations. The site rewards methodical exploration of the caves and overhangs — sources are consistent that there is little of the actual wreck left to see, so most of the dive is reef and cave exploration rather than wreck viewing. Ascend via the shallower reef formations for the safety stop.
 
 ## Entry and Exit
 
@@ -46,18 +46,17 @@ Boat access from Port Douglas. The site is only dived in calm conditions — ope
 
 ## Tips and Recommendations
 
-- The intermediate rating reflects the need for careful buoyancy around the wreck — touching the corroded hull or disturbing the silt inside can rapidly reduce visibility
-- Do not enter enclosed spaces without appropriate training and equipment
-- The combined wreck-plus-reef nature of the dive rewards divers who explore both sections — the contrast between the artificial and natural reef structures is interesting
-- Carry a torch to illuminate the wreck interiors and see the lionfish and moray eels properly
+- Set expectations correctly: sources consistently describe minimal visible wreckage remaining — the appeal is the surrounding caves, gutters, ledges, and bommies, not an intact or penetrable hull
+- Look for the resident clown anemonefish family and check ledges for resting tawny nurse sharks and crayfish
+- Carry a torch to see into the ledges and caves properly
 
 ## Safety Considerations
 
-Wreck diving carries specific hazards: silt disturbance reducing visibility, sharp edges on corroded metal, and entanglement risk in loose cables or netting. Stay outside the wreck unless trained for wreck penetration. Maintain excellent buoyancy throughout. The intermediate difficulty reflects these additional considerations rather than extreme conditions.
+The site's calm-conditions-only requirement is the main planning consideration — operators will not run the trip in marginal weather given the exposed outer-reef position. General reef-diving hazards (buoyancy near coral, current at the outer edge) apply; there is not enough intact wreck structure documented to warrant penetration-specific hazard advice, and no source suggests interior wreck penetration is offered here.
 
 ## Photography
 
-Wrecks make compelling photographic subjects because the artificial structure provides a defined backdrop that open reef lacks. Shoot the hull at an angle to show the colonisation of soft corals and sponges. Frame the moray eels in their hull openings. The school of glassfish passing through an opening with light behind them is a classic wreck shot.
+The clown anemonefish family and resting tawny nurse sharks in the ledges are the most reliably reported subjects. The caves and gutters make good wide-angle subjects; treat any remaining wreck material as a minor incidental feature rather than the main subject, consistent with how sources describe the site.
 
 ---
-*Sources: [Tropical North Queensland - Wreck Bay Dive Site](https://tropicalnorthqueensland.org.au/listing/product/wreck-bay-dive-site/), [The Fold - Wreck Bay Dive Site](https://thefold.com.au/qld/port-douglas-region/things-to-do/natural-attractions/wreck-bay-dive-site/), [Agincourt Reef Guide - Cairns Tours](https://cairns-tours.com/article/agincourt-reef). Last updated 2026-05-30.*
+*Sources: [Tropical North Queensland - Wreck Bay Dive Site](https://tropicalnorthqueensland.org.au/listing/product/wreck-bay-dive-site/), [The Fold - Wreck Bay Dive Site](https://thefold.com.au/qld/port-douglas-region/things-to-do/natural-attractions/wreck-bay-dive-site/), [Queensland.com - Wreck Bay Dive Site](https://www.queensland.com/us/en/things-to-do/attractions/p-599a4300c248f9f965077c3e-wreck-bay-dive-site), [Silverseries - Port Douglas Dive Sites](https://silverseries.com.au/dive-sites). Vessel identity/date/tonnage remain undocumented in all sources consulted and are intentionally omitted; penetration-implying language removed as unsupported. Last updated 2026-08-03.*

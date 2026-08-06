@@ -32,4 +32,4 @@ Regional marine life applies; no site-specific species reports found.
 - **Maximum Depth**: 22 meters
 
 ---
-*Description based on regional diving characteristics. No site-specific dive sources found. Settlement abandonment: [Wikipedia — Nuugaatsiaq](https://en.wikipedia.org/wiki/Nuugaatsiaq), [NHESS — Karrat Isfjord 2017 tsunami](https://nhess.copernicus.org/articles/20/2521/2020/). Regional diving: [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/). Last updated 2026-06-04.*
+*Description based on regional diving characteristics. No site-specific dive sources found. Settlement abandonment: [Wikipedia — Nuugaatsiaq](https://en.wikipedia.org/wiki/Nuugaatsiaq), [NHESS — Karrat Isfjord 2017 tsunami](https://nhess.copernicus.org/articles/20/2521/2020/). Regional diving: [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/). Last updated 2026-08-05.*

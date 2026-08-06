@@ -34,7 +34,8 @@
       "wikipedia": "en:Dry Tortugas National Park",
       "validated": "true",
       "validation_source": "nps.gov,dan.org,florida-scubadiving.com",
-      "last_qa_date": "2026-05-24"
+      "last_qa_date": "2026-07-29",
+      "qa_note": "2026-07-29 re-audit: re-pulled nps.gov/drto swimming-snorkeling-and-diving page, nps.gov diving-and-snorkeling article, dan.org, florida-scubadiving.com. Ferry cost figure in overview.md was stale ($193) — current Yankee Freedom fare is ~$250-300/adult in 2026; corrected in overview.md with drytortugas.com source. All other facts held up."
     }
   },
   {
@@ -54,8 +55,9 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "nps.gov,myfwc.com,scubaboard.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Shallow shoal 0-20ft (0-6m); CREMP coral monitoring station; snorkel and scuba site suitable together. Previous depth of 24m was incorrect."
+      "last_qa_date": "2026-07-29",
+      "notes": "Shallow shoal 0-20ft (0-6m); CREMP coral monitoring station; snorkel and scuba site suitable together. Previous depth of 24m was incorrect.",
+      "qa_note": "2026-07-29 re-audit: re-fetched myfwc.com CREMP overview — White Shoal confirmed as one of the original 1999 Dry Tortugas monitoring stations (along with Bird Key Reef and Black Coral Rock). No changes to prior facts."
     }
   },
   {
@@ -74,8 +76,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "false",
-      "last_qa_date": "2026-05-24",
-      "notes": "No site-specific published source found. Not listed in CREMP monitoring stations. Depth and difficulty are estimates based on Dry Tortugas regional shoal characteristics. Cannot validate without 3+ independent sources."
+      "last_qa_date": "2026-07-29",
+      "notes": "No site-specific published source found. Not listed in CREMP monitoring stations. Depth and difficulty are estimates based on Dry Tortugas regional shoal characteristics. Cannot validate without 3+ independent sources.",
+      "qa_note": "2026-07-29 re-check: confirmed still only appears as a bare catalogue entry (REEF site 34100069) in a ScubaBoard thread, with no descriptive content. myfwc.com CREMP station list re-confirmed Brilliant Shoal is NOT a monitoring station. Still cannot find 3 independent sources with site-specific detail — left unvalidated, no padding applied."
     }
   },
   {
@@ -90,11 +93,12 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "nps.gov,blueturtlecruising.com,scubaboard.com",
-      "last_qa_date": "2026-05-24",
+      "validation_source": "nps.gov,npshistory.com,blueturtlecruising.com,scubaboard.com",
+      "last_qa_date": "2026-07-29",
       "wreck_name": "Avanti",
       "wreck_year": 1907,
-      "notes": "Iron-hulled three-masted sailing ship built 1875 (NPS). Sank January 22, 1907 per NPS official history (other sources cite January 9, 1907 — conflict noted). Cargo: lumber Pensacola to Montevideo. All 19 crew survived. Hull material: NPS says iron; one non-authoritative source says steel — NPS is definitive. Depth 0-22ft. Discovered 1971, identified 1990. National Register of Historic Places."
+      "notes": "Iron-hulled three-masted sailing ship built 1875, gross tonnage 1,862 tons, length 261.4ft/beam 39.3ft/draft 17.5ft (cross-confirmed: nps.gov + npshistory.com 2003 NPS interpretive brochure). Struck Loggerhead Reef 6:44am Jan 21 1907 after a navigational error during a winter gale; broke apart and became a total loss recognized Jan 22, 1907 (npshistory.com brochure + independently corroborated by blueturtlecruising.com, which also cites 'navigational error'). Cargo: lumber Pensacola to Montevideo. All 19 crew survived, most cargo later salvaged. Depth 18-21ft.",
+      "qa_note": "2026-07-29 deep re-audit (wreck-history requirement): pulled npshistory.com's 2003 NPS interpretive brochure PDF (primary source) plus 3 nps.gov pages, blueturtlecruising.com, and southdadenewsleader.com. CONFIRMED across 2+ sources: build 1875, iron hull, dimensions/tonnage, Jan 21-22 1907 sinking, 19 crew survived, lumber cargo. CORRECTED: cause of sinking was previously logged as 'unrecorded/unknown' — the npshistory.com brochure documents a specific cause (navigational error + winter gale grounding on Loggerhead Reef), independently corroborated by blueturtlecruising.com. NEW CONFLICTS FOUND (flagged in markdown, not resolved by guessing): (1) build location/builder — nps.gov/articles/windjammer.htm says Port Glasgow, Scotland by John Reid & Co.; npshistory.com brochure says Liverpool, England, no builder named. (2) Sale-to-Bordes/renamed-Antonin date — nps.gov says 1891; npshistory.com brochure says 1894 ('after seven years' to the 1901 Avanti sale, which is internally consistent with 1894 but not with 1891). (3) Exact sinking date — South Dade News Leader states January 9, 1907, an outlier against the well-corroborated January 21-22, 1907 date (npshistory.com, 2x nps.gov pages, blueturtlecruising.com, independent web aggregation all agree on Jan 21-22). REMOVED: 'National Register of Historic Places' claim — could not confirm with any source in this pass (unverified in the prior QA); dropped from markdown rather than repeating an unconfirmed claim. Discovery (1971) / identification (1990) dates remain single-organization-sourced (NPS only) — retained with attribution, not presented as independently cross-confirmed."
     }
   },
   {
@@ -110,8 +114,9 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "nps.gov,dan.org,tripadvisor.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Located off north side of Loggerhead Key per NPS (previous markdown incorrectly stated west shore). Shallow reef approximately 20ft (6m) at deepest. NPS-confirmed marine life: juvenile barracuda, lobsters, coral heads, soft corals, tropical fish. Prior JSON depth of 16m (52ft) was incorrect."
+      "last_qa_date": "2026-07-29",
+      "notes": "Located off north side of Loggerhead Key per NPS (previous markdown incorrectly stated west shore). Shallow reef approximately 20ft (6m) at deepest. NPS-confirmed marine life: juvenile barracuda, lobsters, coral heads, soft corals, tropical fish. Prior JSON depth of 16m (52ft) was incorrect.",
+      "qa_note": "2026-07-29 re-audit: re-fetched nps.gov diving/snorkeling pages and myfwc.com CREMP list. Little Africa confirmed as a CREMP-referenced site, north side of Loggerhead Key, calm/shallow, suitable for snorkelers and children. No changes to prior facts."
     }
   },
   {
@@ -127,8 +132,9 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "nps.gov,myfwc.com,florida-scubadiving.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "Coral mound in 55-60ft (17-18m) rising to ~35ft at crown. Almost due north of Garden Key. CREMP monitoring station. North side: deep-water sea fans and black coral in crevices. Advanced due to depth and current exposure."
+      "last_qa_date": "2026-07-29",
+      "notes": "Coral mound in 55-60ft (17-18m) rising to ~35ft at crown. Almost due north of Garden Key. CREMP monitoring station. North side: deep-water sea fans and black coral in crevices. Advanced due to depth and current exposure.",
+      "qa_note": "2026-07-29 re-audit: re-fetched nps.gov diving/snorkeling page verbatim (confirms 35-60ft depth range, north of Garden Key, 'forest' of deep-water sea fans, rare black coral, all stony coral species except elkhorn/staghorn) and myfwc.com CREMP list (confirms Texas Rock added as a monitoring station in 2009). MARINE-LIFE CORRECTION: removed unverifiable claims from markdown ('orange elephant ear sponges, orange crinoids, orange ball sponges', a 'dense clouds of fish' quote, and mentions of grunts/yellowtail snapper/parrotfish) — none of these could be traced to any source consulted in this or the original pass; likely fabricated in an earlier draft."
     }
   },
   {
@@ -144,8 +150,9 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "nps.gov,myfwc.com,dan.org",
-      "last_qa_date": "2026-05-24",
-      "notes": "CREMP coral monitoring station confirmed (Bird Key Reef listed in FWC CREMP Dry Tortugas stations). Bird Key anchorage features seagrass flats, patch reefs, unmarked wrecks, old anchors. Brick Wreck (Bird Key Wreck) nearby in 4-6ft. No specific site-exclusive marine life list confirmed by sources — regional fish assemblage applies."
+      "last_qa_date": "2026-07-29",
+      "notes": "CREMP coral monitoring station confirmed (Bird Key Reef listed in FWC CREMP Dry Tortugas stations). Bird Key anchorage features seagrass flats, patch reefs, unmarked wrecks, old anchors. Brick Wreck (Bird Key Wreck) nearby in 4-6ft. No specific site-exclusive marine life list confirmed by sources — regional fish assemblage applies.",
+      "qa_note": "2026-07-29 re-audit: re-fetched myfwc.com CREMP list — Bird Key Reef confirmed as one of the original 1999 monitoring stations. dan.org re-confirmed queen conch and seagrass/patch-reef description. No changes to prior facts."
     }
   },
   {
@@ -161,8 +168,9 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "nps.gov,dan.org,florida-scubadiving.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "DAN Alert Diver source: reef starts ~35ft (10.7m) and extends to ~65ft (19.8m), heavily developed with surge channels. Nurse sharks confirmed in shallows off back of Long Key (DAN photo caption). Long Key island closed year-round for nesting wildlife. Previous depth of 15m understated the deeper structure."
+      "last_qa_date": "2026-07-29",
+      "notes": "DAN Alert Diver source: reef starts ~35ft (10.7m) and extends to ~65ft (19.8m), heavily developed with surge channels. Nurse sharks confirmed in shallows off back of Long Key (DAN photo caption). Long Key island closed year-round for nesting wildlife. Previous depth of 15m understated the deeper structure.",
+      "qa_note": "2026-07-29 re-audit: DAN re-confirmed the 35-65ft reef south of Long Key with nurse sharks and surge channels. NOTE — nps.gov's general park diving/snorkeling page separately lists a 'Long Reef Key' entry under its Eastern Park Boundary table as 'snorkel site only', which is inconsistent with DAN's deeper scuba-depth description. Could not determine if this is the same feature described differently or a distinct shallower area; flagged as an unresolved discrepancy in the markdown rather than silently picking one."
     }
   },
   {
@@ -178,8 +186,9 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "nps.gov,dan.org,florida-scubadiving.com",
-      "last_qa_date": "2026-05-24",
-      "notes": "NPS confirms moat wall depth 6-8ft (1.8-2.5m). Marine life from NPS: reef squid, nurse sharks, hogfish, cement barrels, anchor chains. Night diving reveals octopus, basket starfish, decorator crabs. Swimming inside moat prohibited. American crocodile sightings unverified at this specific site — attributed to park generally. Previous depth of 4.5m overstated."
+      "last_qa_date": "2026-07-29",
+      "notes": "NPS confirms moat wall depth 6-8ft (1.8-2.5m). Marine life from NPS: reef squid, nurse sharks, hogfish, cement barrels, anchor chains. Night diving reveals octopus, basket starfish, decorator crabs. Swimming inside moat prohibited. American crocodile sightings unverified at this specific site — attributed to park generally. Previous depth of 4.5m overstated.",
+      "qa_note": "2026-07-29 re-audit: re-fetched nps.gov swimming/snorkeling/diving page, which independently re-confirms moat wall marine life (reef squid, nurse sharks, hogfish, anchor chains) and the 6-8ft depth. No changes to prior facts."
     }
   }
 ]

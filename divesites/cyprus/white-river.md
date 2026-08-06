@@ -43,4 +43,4 @@ No site-specific marine life reports found. Regional Mediterranean fauna applies
 - Dive within your certification limits
 
 ---
-*Sources: [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [divingincyprus.net](https://www.divingincyprus.net/Dive-Sites-Paphos.html), [cyprusdiving.org.cy](https://cyprusdiving.org.cy/index.php/paphos-diving-sites). Last updated 2026-05-23.*
+*Sources: [paphosguide.com](https://paphosguide.com/a-guide-to-scuba-diving-in-paphos/), [divingincyprus.net](https://www.divingincyprus.net/Dive-Sites-Paphos.html), [cyprusdiving.org.cy](https://cyprusdiving.org.cy/index.php/paphos-diving-sites). Last updated 2026-07-27.*

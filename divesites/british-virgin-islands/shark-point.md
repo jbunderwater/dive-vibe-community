@@ -60,7 +60,7 @@ The ledge system at 18 meters offers strong compositions with overhanging rock a
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/shark-point-scrub-island/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/shark-point-scrub-island/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-07-23.*

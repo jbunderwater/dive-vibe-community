@@ -56,4 +56,4 @@ Access by dive boat from Avatiu Harbour, approximately eight minutes. Entry by g
 Minimal hazards at this gentle site. Currents are rarely significant. The 25-meter maximum depth is well within recreational limits.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=515), [Dive Rarotonga](https://www.diverarotonga.com/dive-sites), [Pacific Divers](https://www.pacificdivers.co.ck/Diving-Map.html). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=515). Re-audited 2026-07-26: the previously cited Dive Rarotonga and Pacific Divers pages do not list this site under this name and have been removed as citations. A third-party guide (moanasands.com) describes a "Black Rock" site with a barge wreck and swim-through tunnels, but its depth range and features don't match this ridge-and-gully site as documented by the confirmed source, so that content was not incorporated. Only one independently confirmed site-specific source could be found despite additional research. Last updated 2026-07-26.*

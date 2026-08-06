@@ -8,13 +8,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,scubaboard.com,pacificdivers.co.ck",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Arbuthnotts",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26",
+      "qa_note": "scubaboard.com and pacificdivers.co.ck citations removed 2026-07-26: neither source's actual content covers this site under this name. Only michaelmcfadyenscuba.info independently confirmed; below 3-source bar."
     }
   },
   {
@@ -26,13 +27,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,pacificdivers.co.ck,cookislandspocketguide.com",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Arorangi School Passage",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26",
+      "qa_note": "pacificdivers.co.ck and cookislandspocketguide.com citations removed 2026-07-26: neither source's actual content covers this site under this name (pocket guide lists a different 'Arorangi Passage'/'Arorangi Drop Off'). Only michaelmcfadyenscuba.info independently confirmed; below 3-source bar."
     }
   },
   {
@@ -44,13 +46,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,sharkrayareas.org,pacificdivers.co.ck",
+    "validation_source": "michaelmcfadyenscuba.info,sharkrayareas.org,diverarotonga.com",
     "tags": {
       "name": "Avaavaroa Passage",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26",
+      "qa_note": "pacificdivers.co.ck citation replaced with diverarotonga.com 2026-07-26 (diverarotonga.com independently lists this passage; pacificdivers.co.ck's site map does not). Fabricated eagle-ray aggregation counts (40-80, 87) removed from markdown - not supported by any source found."
     }
   },
   {
@@ -62,13 +65,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,diverarotonga.com,pacificdivers.co.ck",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Black Rock Chimneys",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26",
+      "qa_note": "diverarotonga.com and pacificdivers.co.ck citations removed 2026-07-26: neither lists this site under this name. Fabricated 'shallow caverns with crayfish and lionfish' claim removed from markdown - source explicitly describes ridges/gullies, no caverns, no crustaceans, no lionfish. Only michaelmcfadyenscuba.info independently confirmed; below 3-source bar."
     }
   },
   {
@@ -80,13 +84,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,diverarotonga.com,pacificdivers.co.ck",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Black Rock Passage",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26",
+      "qa_note": "diverarotonga.com and pacificdivers.co.ck citations removed 2026-07-26: neither lists this site under this name. A third-party guide (moanasands.com) describes a 'Black Rock' site with a barge wreck and tunnels, but depth/topology don't match this McFadyen-documented ridge-and-gully site, likely a different feature under a generic operator name - not incorporated. Only michaelmcfadyenscuba.info independently confirmed; below 3-source bar."
     }
   },
   {
@@ -98,13 +103,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,diverarotonga.com,pacificdivers.co.ck",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Dianas Ridge",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26",
+      "qa_note": "diverarotonga.com and pacificdivers.co.ck citations removed 2026-07-26: neither lists this site under this name. All specific claims (crack dimensions, coral %, eagle ray school size) re-verified word-for-word against michaelmcfadyenscuba.info and confirmed accurate. Only 1 independently confirmed source; below 3-source bar."
     }
   },
   {
@@ -122,7 +128,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26",
+      "qa_note": "Re-confirmed 2026-07-26: all 3 sources independently and directly cover this wreck by name. Wreck-history conflict flagged in markdown: some secondary sources assert deliberate sinking by 'Dive Rarotonga' in 1981 as settled fact, while McFadyen (primary source) treats this as a single unverified operator claim with no Lloyd's Register match. Vessel length/tonnage remain unverified - not stated as fact."
     }
   },
   {
@@ -134,13 +141,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,diverarotonga.com,pacificdivers.co.ck",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Matavera School Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26",
+      "qa_note": "diverarotonga.com and pacificdivers.co.ck citations removed 2026-07-26: neither lists this exact site name. diverarotonga.com lists a 'Matavera Drop-Off' with a similar depth/topology profile - plausibly the same reef under different operator naming, but not confirmed identical, so not counted as a source. Only michaelmcfadyenscuba.info independently confirmed; below 3-source bar."
     }
   },
   {
@@ -152,13 +160,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,diverarotonga.com,pacificdivers.co.ck",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Sunset Ridge",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26",
+      "qa_note": "diverarotonga.com and pacificdivers.co.ck citations removed 2026-07-26: neither lists this site under this name (pacificdivers.co.ck instead lists a differently-structured 'Sunset Reef and Swim Throughs' with lava tubes, not confirmed as the same feature). Only michaelmcfadyenscuba.info independently confirmed; below 3-source bar."
     }
   },
   {
@@ -170,13 +179,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,diverarotonga.com,pacificdivers.co.ck",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Tupis Passage",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-26",
+      "qa_note": "diverarotonga.com and pacificdivers.co.ck citations removed 2026-07-26: neither lists this site under this name. Whitetip shark claim softened in markdown from implied regular sightings to the single documented sighting the source actually reports. Only michaelmcfadyenscuba.info independently confirmed; below 3-source bar."
     }
   }
 ]

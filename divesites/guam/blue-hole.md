@@ -25,6 +25,8 @@ The reef flat surrounding the hole at 18 meters hosts schooling fish and coral b
 
 An endemic species was discovered here in 2004: the Guam Pencil dottyback (*Lubbockichthys myersi*), found at depth along the wall.
 
+**Depth figures vary by source.** Wikipedia and Guam Dive Guide agree closely: top of hole ~18m (60ft), exit window ~40m (130ft), shaft bottom 90m+ (300ft+). MDA Guam gives a shallower set of figures: top ~15m (50ft), window ~38m (125ft), bottom 60m+ (200ft+). Wikivoyage and a ScubaBoard diver report both describe the shaft starting around 12–18m (40–60ft). This guide uses the Wikipedia/Guam Dive Guide figures as the majority-sourced values.
+
 ## Site Information
 
 - **Location**: Off Orote Point, Agat Bay / southern Apra Harbor entrance, Guam
@@ -42,7 +44,7 @@ An endemic species was discovered here in 2004: the Guam Pencil dottyback (*Lubb
 
 ## Marine Life
 
-MDA Guam documents the following species at Blue Hole: blacktip sharks, sea turtles, octopus, large snapper, marble rays, leaf fish, and anemonefish (clownfish). Large pelagic fish and sharks are regularly encountered along the outer wall. The endemic Guam Pencil dottyback (*Lubbockichthys myersi*) was discovered here in 2004 and is found along the deeper wall sections. Coral patches and schooling fish populate the reef flat at 18 meters.
+MDA Guam documents the following species at Blue Hole: blacktip sharks, sea turtles, octopus, large snapper, marble rays, leaf fish, and anemonefish (clownfish). Guam Dive Guide independently confirms blacktip reef sharks, green sea turtles, and adds lionfish and moray eels within the shaft, along with soft and hard corals and sea whips lining the walls. Large pelagic fish and sharks are regularly encountered along the outer wall. The endemic Guam Pencil dottyback (*Lubbockichthys myersi*) was discovered here in 2004 and is found along the deeper wall sections. Coral patches and schooling fish populate the reef flat at the top of the hole.
 
 ## Dive Profile
 
@@ -57,4 +59,4 @@ Boat only from Cabras Marina. Mooring buoy at the site. Exit via SMB deployment 
 This is an advanced dive at an exposed, weather-dependent location. The reef flat at 18 meters is accessible for Open Water divers, but "Shooting the Hole" to 40 meters requires Advanced Open Water certification. Depths below 40 meters are beyond recreational limits. The shaft creates a brief overhead environment — do not descend into it without confirming your exit path. Nitrogen narcosis is significant at 40 meters. Strong currents along the outer wall require drift diving skills and SMB deployment for pickup. Do not attempt to exceed the exit window depth without appropriate training and equipment.
 
 ---
-*Sources: [Wikipedia — Blue Hole (Guam)](https://en.wikipedia.org/wiki/Blue_Hole_(Guam)), [MDA Guam — Blue Hole](https://www.mdaguam.com/blue-hole/), [ScubaBoard — Guam diving with budget](https://scubaboard.com/community/threads/guam-diving-with-budget.297899/), [Guam Dive Guide — Blue Hole](https://www.guamdiveguide.com/all-dive-sites/southern-sites/blue-hole/). Last updated 2026-06-04.*
+*Sources: [Wikipedia — Blue Hole (Guam)](https://en.wikipedia.org/wiki/Blue_Hole_(Guam)), [MDA Guam — Blue Hole](https://www.mdaguam.com/blue-hole/), [ScubaBoard — Guam diving with budget](https://scubaboard.com/community/threads/guam-diving-with-budget.297899/), [Guam Dive Guide — Blue Hole](https://www.guamdiveguide.com/all-dive-sites/southern-sites/blue-hole/), [Wikivoyage — Diving in Guam](https://en.wikivoyage.org/wiki/Diving_in_Guam). Last updated 2026-08-05.*

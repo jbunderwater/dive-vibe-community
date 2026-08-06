@@ -19,9 +19,9 @@ Maskali Island is a small coral island in the Gulf of Tadjoura, adjacent to Mouc
 
 Maskali Island lies within a marine protected area approximately 30 minutes by boat from Djibouti City. The reef system around Maskali features coral gardens and reported underwater cave features (The Scuba News). Diver accounts from Atlas & Boots confirm batfish, lionfish, and rays on the Maskali reef section, and Dive The World notes the presence of surgeonfish, angelfish, and napoleon wrasse in the broader Moucha/Maskali area.
 
-The island is typically visited as part of the same day trip as Moucha Island and the Le Faon wreck. From October to February, juvenile whale sharks frequent the surrounding waters of the Gulf of Tadjoura, though encounters at Maskali specifically are not documented separately from general gulf encounters.
+The island is typically visited as part of the same day trip as Moucha Island and the Le Faon wreck. From October to February, juvenile whale sharks frequent the surrounding waters of the Gulf of Tadjoura; most detailed sources describe these encounters as gulf-wide rather than specific to Maskali, but The Scuba News' top-10-sites listing does include whale sharks among Maskali Island's marine life. Given that other, more detailed sources (Dive The World, Ghoubbet al-Kharab accounts) place the main whale shark aggregations further west and south in the gulf, this description treats the Maskali sighting as plausible but not strongly corroborated.
 
-No site-specific marine life records were found beyond what dive operators report for the reef fish community and occasional ray sightings. Regional whale shark aggregations occur in the broader Gulf of Tadjoura, not specifically at Maskali reef.
+No further site-specific marine life records were found beyond what dive operators report for the reef fish community and occasional ray sightings.
 
 ## Site Information
 
@@ -32,4 +32,4 @@ No site-specific marine life records were found beyond what dive operators repor
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [The Scuba News – Djibouti's Top 10 Sites](https://www.thescubanews.com/2024/01/07/djiboutis-top-10-scuba-diving-sites/), [Atlas & Boots – Diving in Djibouti](https://www.atlasandboots.com/travel-blog/diving-in-djibouti/). Last updated 2026-05-24.*
+*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [The Scuba News – Djibouti's Top 10 Sites](https://www.thescubanews.com/2024/01/07/djiboutis-top-10-scuba-diving-sites/), [Atlas & Boots – Diving in Djibouti](https://www.atlasandboots.com/travel-blog/diving-in-djibouti/). Re-audited 2026-07-27: all three sources re-pulled and confirmed live; no factual corrections needed, whale shark sourcing nuance added. Last updated 2026-07-27.*

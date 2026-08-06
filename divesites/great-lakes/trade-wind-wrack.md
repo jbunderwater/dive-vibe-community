@@ -33,11 +33,7 @@ The Trade Wind rests on the northern Lake Erie lakebed at approximately 20 metre
 
 ## Marine Life
 
-Yellow perch school prominently around the Trade Wind's hull in summer. Walleye — Lake Erie's signature sport fish — patrol the structure edges, particularly in lower light conditions. Smallmouth bass claim hull openings as territories. Round gobies are present throughout the debris field. Zebra mussels coat all hard surfaces below the thermocline, creating a characteristic white-striped pattern on the hull.
-
-## Dive Profile
-
-Descend to the wreck and explore from bow to stern. The flat bottom makes navigation easy. Note hull construction details — the schooner's windlass, capstan, anchor hardware, and rigging attachment points tell the story of a working 19th-century vessel. Ascend with adequate reserve gas. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Lake Erie conditions near Long Point require attention — the area can develop 
 
 ## Photography
 
-The Long Point/Port Dover area of Lake Erie wreck photography rewards patience — when visibility reaches 10–15 metres, the hull profile is dramatic in wide-angle. Yellow perch schools provide life and motion in mid-water shots.
+The Long Point/Port Dover area of Lake Erie wreck photography rewards patience — when visibility reaches 10–15 metres, the hull profile is dramatic in wide-angle.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

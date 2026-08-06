@@ -35,7 +35,7 @@ Today the wreck rests upright on a sandy bottom at approximately 30 metres, bow 
 
 ## Marine Life
 
-The wreck has accumulated over 45 years of coral and sponge growth, supporting an active reef community. Confirmed sightings at this site include large schools of tarpon that patrol the wreck, groupers, snappers, and barracuda around the superstructure. The coral-encrusted surfaces host parrotfish, angelfish, and various reef fish. Interior spaces shelter moray eels and crustaceans. Sea turtles are periodically observed at the site.
+The wreck has accumulated just under 50 years of coral, sponge, gorgonian, and sea whip growth, supporting an active reef community. Confirmed sightings at this site (California Diver Magazine) include large schools of tarpon that patrol the wreck, groupers, snappers, barracuda, jacks, parrotfish, angelfish, scorpionfish, moray eels, lobsters, shrimp, nudibranchs, frogfish, basket stars, octopus, and spider crabs. Sea turtles are periodically observed at the site.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Access is exclusively by boat dive through local operators. Shore diving is theo
 Wreck penetration carries inherent risk and requires appropriate training and equipment. The depth demands careful monitoring of no-decompression limits. Boat traffic near the Mega Pier is a hazard during surface intervals; use a surface marker buoy on ascent.
 
 ---
-*Sources: [DiveCuracao.info — Superior Producer History](https://www.divecuracao.info/curacao-diving-news/mv-superior-producer-shipwreck-history/), [DiveNewswire — Superior Producer History](https://www.divenewswire.com/diving-history-the-story-behind-curacaos-iconic-superior-producer-wreck/), [DreamWrecks — Superior Producer](https://dreamwrecks.com/superior-producer-curacao-wreck). Last updated 2026-05-24.*
+*Sources: [DiveCuracao.info — Superior Producer History](https://www.divecuracao.info/curacao-diving-news/mv-superior-producer-shipwreck-history/), [DiveNewswire — Superior Producer History](https://www.divenewswire.com/diving-history-the-story-behind-curacaos-iconic-superior-producer-wreck/), [DreamWrecks — Superior Producer](https://dreamwrecks.com/superior-producer-curacao-wreck), [California Diver Magazine — Diving Into History](https://californiadiver.com/diving-into-history-curacaos-iconic-superior-producer-shipwreck/). Re-audited 2026-07-27: all vessel history facts (original name Andromeda, 1957 build, February 1962 renaming, 50.22m length, 400 tons, September 30 1977 sinking, cause) cross-checked and confirmed consistent across all four sources — no conflicts found. Marine life list expanded with additional site-specific species confirmed by California Diver Magazine. Last updated 2026-07-27.*

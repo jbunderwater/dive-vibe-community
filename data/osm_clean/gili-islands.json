@@ -14,8 +14,8 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "manta-dive-giliair.com, trawangandive.com, manta-dive.com, gilidivers.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "manta-dive-giliair.com, trawangandive.com, manta-dive.com, gilidivers.com, divinedivers.com",
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -36,7 +36,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "gilidivers.com, trawangandive.com, manta-dive.com, terumbudivers.com, padi.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -55,7 +55,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, divinedivers.com, manta-dive.com, gilidivers.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -70,11 +70,11 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Manta Point",
-      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS; also known as Sunset Reef/Sunset Point; manta ray sightings are rare (3-4 confirmed over multiple years per Terumbu Divers); mobula rays more common",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS; also known as Sunset Reef/Sunset Point; manta ray sightings are rare (3-4 confirmed over an 8-year period per Terumbu Divers first-hand account); mobula rays more common, especially Oct-Dec",
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "terumbudivers.com, manta-dive-giliair.com, trawangandive.com, gilidivers.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -89,11 +89,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Meno Wall",
-      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS; bamboo shark and pygmy seahorse claims removed 2026-08-03 QA - not corroborated by any of 5 sources checked",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "gilidivers.com, terumbudivers.com, manta-dive.com, divinedivers.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "gilidivers.com, terumbudivers.com, manta-dive.com, divinedivers.com, trawangandive.com",
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -108,13 +108,13 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Shallow Turbo",
-      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS; the shallow end of Deep Turbo's channel system",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "trawangandive.com, gilidivers.com, manta-dive.com, divinedivers.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "trawangandive.com, divinedivers.com, trawanganstingraydivers.com",
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -129,11 +129,11 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Shark Point",
-      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS; Glenn Nusa wreck (22m tugboat, sunk Feb 2016, 28m depth) is between Shark Point and Halik - separate dive, current dependent",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS; Glenn Nusa wreck (tugboat, sunk Feb 2016, top ~22-28m) lies between Shark Point and Halik - separate dive, current dependent; sources conflict on wreck length (22m per manta-dive-giliair.com, divecentralgili.com, divemasteraustin.com vs 18m per one terumbudivers.com listing) - both figures noted in markdown",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "manta-dive-giliair.com, terumbudivers.com, divecentralgili.com, manta-dive.com, gilidivers.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "manta-dive-giliair.com, terumbudivers.com, divecentralgili.com, manta-dive.com, gilidivers.com, divemasteraustin.com",
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -149,32 +149,13 @@
     "tags": {
       "location": "underwater",
       "name": "Trawangan Wall",
-      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS; 2026-08-03 QA: no operator source uses the exact name 'Trawangan Wall' - previous markdown incorrectly equated it with the separately-listed Halik site; description now reflects general NW Gili Trawangan wall/drift reef character only, without site-specific species attribution",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive.com, trawangandive.com, gilidivers.com, terumbudivers.com",
-      "last_qa_date": "2026-06-08"
-    }
-  },
-  {
-    "name": "Lombok Dive",
-    "lat": -8.3475991,
-    "lon": 116.0283794,
-    "osm_id": 4270913147,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Lombok Dive",
-      "note": "OSM-sourced entry; no site-specific source found for this exact name across dive operator listings reviewed",
-      "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "padi.com, gilidivers.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -184,18 +165,19 @@
     "osm_id": 4813305042,
     "osm_type": "node",
     "depth": 15,
-    "site_type": "artificial",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Vila Almarick Biorock",
+      "note": "site_type corrected from non-standard 'artificial' to 'reef' (artificial/Biorock reef) 2026-08-03 QA; no source individually distinguishes this specific structure from others in the east-coast Biorock cluster - description covers confirmed program-wide facts only",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, gilidivers.com, trawangandive.com, divecentralgili.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -205,18 +187,19 @@
     "osm_id": 4813305043,
     "osm_type": "node",
     "depth": 15,
-    "site_type": "artificial",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Bale Sampan Biorock",
+      "note": "site_type corrected from non-standard 'artificial' to 'reef' (artificial/Biorock reef) 2026-08-03 QA; no source individually distinguishes this specific structure from others in the east-coast Biorock cluster - description covers confirmed program-wide facts only",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, gilidivers.com, trawangandive.com, divecentralgili.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -226,18 +209,19 @@
     "osm_id": 4813305044,
     "osm_type": "node",
     "depth": 15,
-    "site_type": "artificial",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Samba Vilas Biorock",
+      "note": "site_type corrected from non-standard 'artificial' to 'reef' (artificial/Biorock reef) 2026-08-03 QA; no source individually distinguishes this specific structure from others in the east-coast Biorock cluster - description covers confirmed program-wide facts only",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, gilidivers.com, trawangandive.com, divecentralgili.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -247,18 +231,19 @@
     "osm_id": 4813305045,
     "osm_type": "node",
     "depth": 15,
-    "site_type": "artificial",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Trawangan Dive Biorock",
+      "note": "site_type corrected from non-standard 'artificial' to 'reef' (artificial/Biorock reef) 2026-08-03 QA; no source confirms this structure is specifically operated by or exclusive to Trawangan Dive beyond the name similarity - description covers confirmed program-wide facts only",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com, trawangandive.com, gilidivers.com, divecentralgili.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -268,18 +253,19 @@
     "osm_id": 4813305046,
     "osm_type": "node",
     "depth": 15,
-    "site_type": "artificial",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Gili Divers Biorock",
+      "note": "site_type corrected from non-standard 'artificial' to 'reef' (artificial/Biorock reef) 2026-08-03 QA; no source confirms this structure is specifically operated by or exclusive to Gili Divers beyond the name similarity - description covers confirmed program-wide facts only",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "gilidivers.com, manta-dive-giliair.com, trawangandive.com, divecentralgili.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -299,9 +285,10 @@
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
       "tourism": "attraction",
+      "note": "also called Turtle Heaven/Turtle City; 2026-08-03 QA: corrected inflated turtle count claim (source says 'up to ten', not 10-20) and removed unsourced reef shark/barracuda claims",
       "validated": "true",
       "validation_source": "manta-dive.com, gilidivers.com, trawangandive.com, padi.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-03"
     }
   }
 ]

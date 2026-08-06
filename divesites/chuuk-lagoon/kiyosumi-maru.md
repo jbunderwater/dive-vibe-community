@@ -34,9 +34,7 @@ The Kiyosumi Maru stands out among Chuuk's wrecks for her military conversion fe
 
 ## Marine Life
 
-The Kiyosumi Maru supports a well-developed reef community across her upper works. Hard corals and sea fans cover the gun mounts, railings, and superstructure, softening the military hardware with decades of organic growth. Soft corals in reds and purples add color to the masts and king posts at shallower depths. Sponges and tunicates encrust the hull plates.
-
-Schools of batfish are a reliable presence around the bridge area. Jacks and trevally patrol the open water nearby. Inside the holds, glassy sweepers congregate in dense formations. Lionfish and scorpionfish hide among the cargo and structural beams. The gun mounts attract cleaning station fish. Whitetip reef sharks are seen resting beneath the hull overhang. Nudibranchs and flatworms can be found on the encrusted surfaces for macro enthusiasts.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Kiyosumi Maru. Chuuk Lagoon's regional reef fauna -- fish species, sharks, and turtles reported across the lagoon's wrecks generally, along with coral growth typical of a wreck submerged for eight decades -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -66,4 +64,4 @@ The Kiyosumi Maru is a war grave and artifact removal is illegal under Chuuk Sta
 The gun turrets and anti-aircraft mounts are the signature photographic subjects -- wide-angle shots with a diver for scale tell a powerful story. The torpedo holes in the port hull provide dramatic wide-angle compositions showing raw battle damage. Inside the holds, the large propeller blades and bicycle remnants make unusual still-life subjects -- use strobes to bring out detail in the darker lower holds. The bridge area offers good artifact close-ups. The starboard hull at 14--15 meters receives good ambient light for natural-light wide-angle work. The side-lying orientation creates unusual compositional angles compared to upright wrecks.
 
 ---
-*Sources: [Dive3D - Kiyosumi Maru](https://dive3d.eu/models/chuuk-lagoon-truk/kiyosumi-maru/), [Argunners - Kiyosumi Maru](https://www.argunners.com/kiyosumi-maru-shipwreck-in-truk-lagoon/), [TracesOfWar - Kiyosumi Maru](https://www.tracesofwar.com/sights/9132/Shipwreck-Kiyosumi-Maru.htm), [Pete LePage - Kiyosumi Maru](https://petelepage.com/scuba/sites/kiyosumi-maru/). Last updated 2026-05-22.*
+*Sources: [Dive3D - Kiyosumi Maru](https://dive3d.eu/models/chuuk-lagoon-truk/kiyosumi-maru/), [Argunners - Kiyosumi Maru](https://www.argunners.com/kiyosumi-maru-shipwreck-in-truk-lagoon/), [TracesOfWar - Kiyosumi Maru](https://www.tracesofwar.com/sights/9132/Shipwreck-Kiyosumi-Maru.htm), [Pete LePage - Kiyosumi Maru](https://petelepage.com/scuba/sites/kiyosumi-maru/). Last updated 2026-07-26.*

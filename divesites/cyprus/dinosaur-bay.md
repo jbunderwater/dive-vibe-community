@@ -43,4 +43,4 @@ No site-specific marine life reports found. Mediterranean cave and crevice speci
 - The distinctive bone-shaped rocks are the landmark for orientation
 
 ---
-*Sources: [diveadvisor.com](https://diveadvisor.com/cyprus/dinosaur-bay), [divessi.com](https://www.divessi.com/en/mydiveguide/destination/paphos-9749329), [scubago.com](https://www.scubago.com/en/explore/destination/paphos-9751522). Last updated 2026-05-23.*
+*Sources: [diveadvisor.com](https://diveadvisor.com/cyprus/dinosaur-bay), [divessi.com](https://www.divessi.com/en/mydiveguide/destination/paphos-9749329), [scubago.com](https://www.scubago.com/en/explore/destination/paphos-9751522). Last updated 2026-07-27.*

@@ -2,7 +2,7 @@
 name: Baltra
 lat: -0.4005
 lng: -90.1251
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 12
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Baltra (also called South Seymour) is the main airport island for the Galápagos
 - **Location**: Northeast coast of Baltra Island, near Itabaca Channel, Galápagos Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5–15 meters (can be poor in the channel)
 - **Current**: Low at anchorage; moderate to strong in the adjacent channel
@@ -51,7 +51,7 @@ Giant stride or back roll from the panga at the liveaboard anchorage. Conditions
 
 ## Safety
 
-A low-risk dive in sheltered conditions. The main considerations are cold water (bring adequate thermal protection) and staying within the anchorage area away from the stronger currents in the Itabaca Channel. Standard Galápagos precautions apply: carry an SMB and dive with your buddy.
+A comparatively low-risk dive in sheltered conditions at the site level. The main considerations are cold water (bring adequate thermal protection) and staying within the anchorage area away from the stronger currents in the Itabaca Channel. The Advanced difficulty rating reflects this destination's remote-liveaboard-region floor rather than this specific site's conditions. Standard Galápagos precautions apply: carry an SMB and dive with your buddy.
 
 ---
-*Sources: [ScubaBoard – Galapagos Sep 2021 Dive Report](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [LiveAboard.com – Punta Carrion](https://www.liveaboard.com/diving/galapagos/punta-carrion), [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-05-30.*
+*Sources: [ScubaBoard – Galapagos Sep 2021 Dive Report](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/), [Dive The World – Galapagos](https://www.dive-the-world.com/diving-sites-galapagos.php), [LiveAboard.com – Punta Carrion](https://www.liveaboard.com/diving/galapagos/punta-carrion), [Starfish.ch – Central Galapagos Dive Sites](https://www.starfish.ch/scubadiving/Galapagos-center.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-08-03.*

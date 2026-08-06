@@ -34,7 +34,7 @@ The Emily rests inverted, broken into four major pieces on the sandy lagoon floo
 
 ## Marine Life
 
-The Emily's broken structure provides multiple habitats for marine life. Coral growth covers the major fuselage and wing sections, with hard corals and sponges encrusting the metal surfaces. Glassy sweepers congregate in the sheltered spaces beneath the inverted fuselage. Lionfish occupy the shadows around the engine mounts. The sandy bottom surrounding the wreck supports anemones with clownfish, and small reef fish dart among the coral-encrusted wing fragments.
+No independent source consulted during this QA pass confirms specific fish or other fauna sightings at the Emily Flying Boat. Chuuk Lagoon's regional reef fauna -- fish species and coral growth reported across the lagoon's wrecks generally -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -58,7 +58,7 @@ This is one of Chuuk's most straightforward dives. The shallow depth of 16 meter
 
 ## Photography
 
-The Emily offers unique aircraft photography at a shallow, well-lit depth. The four separated sections and detached engines provide multiple distinct subjects. Wide-angle shots capturing a full wing section or engine against the blue water background work well with natural light at this depth. The inverted fuselage sections create interesting compositions with coral growth on what were originally the upper surfaces. Macro subjects include coral polyps, nudibranchs, and the small reef fish that shelter around the engine mounts.
+The Emily offers unique aircraft photography at a shallow, well-lit depth. The four separated sections and detached engines provide multiple distinct subjects. Wide-angle shots capturing a full wing section or engine against the blue water background work well with natural light at this depth. The inverted fuselage sections create interesting compositions with coral growth on what were originally the upper surfaces. Macro subjects include coral polyps and the small reef fish typical of Chuuk wrecks that shelter around the engine mounts, though no specific species have been confirmed for this wreck by independent sources.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Emily Flying Boat](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=225), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving - Emily Flying Boat](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=225), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Last updated 2026-07-26.*

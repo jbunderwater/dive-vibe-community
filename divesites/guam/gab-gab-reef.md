@@ -3,7 +3,7 @@ name: Gab Gab Reef
 lat: 13.445
 lng: 144.643611
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 30
 entryType: shore
 siteType: reef
 ref: null
@@ -23,13 +23,15 @@ The reef slopes gradually from the beach entry at 6 meters (20 feet) to over 30 
 
 A second site, Gab Gab II, is a plateau reef at approximately 15 meters (50 feet) depth, accessible a short swim further out.
 
+**Depth conflict**: PADI's dive site database lists a shallow maximum of 9 meters (30 feet) for Gab Gab, while diver trip reports on Zentacle describe the reef wall dropping from 6 meters (20 feet) to over 30 meters (100+ feet) in places. This likely reflects the difference between the shallow reef flat near the entry point and a deeper drop-off further from shore. This guide uses the deeper Zentacle-sourced figure as the site maximum, consistent with the sloping profile described in the Overview above.
+
 ## Site Information
 
 - **Location**: Gab Gab Beach, U.S. Naval Base Guam, Apra Harbor
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 22–30 meters (75–100 feet)
 - **Water Temperature**: ~28–29 degrees C
 - **Current**: Generally mild inside the harbor
@@ -39,7 +41,9 @@ A second site, Gab Gab II, is a plateau reef at approximately 15 meters (50 feet
 
 Zentacle dive reviews confirm at Gab Gab: turtles, whitetip reef sharks, nurse sharks, moray eels, barracuda, batfish, clownfish (in anemone beds), and the large black ulua (giant trevally). Over 50 fish species have been reported by divers. Hard and soft corals including plate corals and sponges are present throughout. Multiple prominent anemone beds are a signature feature.
 
-**Note on cabbage coral (Turbinaria)**: The "cabbage coral / underwater mini-mountain" description in the previous version was sourced from Michael McFadyen, but was not confirmed by the other independent sources reviewed in this QA pass. The reef is described as a sloping structure with multiple coral types — the "mini-mountain" characterization may apply to a specific section but is not widely corroborated. This specific claim has been removed pending additional confirmation.
+**Note on PADI's generic wildlife list**: PADI's dive site database lists "sharks, whales, dolphins, turtles" as common sightings for Gab Gab. This same generic four-species checklist appears on multiple unrelated PADI site pages across Guam, suggesting it is a templated regional default rather than site-specific reporting. It has not been used here; the Zentacle-sourced species list above is treated as the reliable site-specific record.
+
+**Note on cabbage coral (Turbinaria)**: The "cabbage coral / underwater mini-mountain" description used in an earlier version was sourced from Michael McFadyen's website. That page could not be re-located during this QA pass (search and direct navigation both failed to surface Guam-specific content on the site), so the citation has been dropped and the claim remains excluded pending a confirmable source.
 
 ## Dive Profile
 
@@ -54,4 +58,4 @@ Shore entry from Gab Gab Beach on Naval Base Guam. The marked entry point has st
 A gentle site with minimal hazards. Harbor location provides calm conditions. The base-access requirement means site conditions are generally well-maintained. Be aware of other beach users and any military vessel activity in the harbor. Moray eels are present — maintain distance from reef crevices.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Zentacle — Gab Gab](https://www.zentacle.com/Beach/368/gab-gab), [Wikivoyage — Diving in Guam](https://en.wikivoyage.org/wiki/Diving_in_Guam). Last updated 2026-06-04.*
+*Sources: [Zentacle — Gab Gab](https://www.zentacle.com/Beach/368/gab-gab), [Wikivoyage — Diving in Guam](https://en.wikivoyage.org/wiki/Diving_in_Guam), [PADI — Gab Gab dive site](https://www.padi.com/dive-site/guam/gab-gab/). Last updated 2026-08-05.*

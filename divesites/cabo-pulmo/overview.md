@@ -4,7 +4,7 @@ addedBy: osm_import
 
 ## Cabo Pulmo
 
-Home to the only living coral reef in the Sea of Cortez, Cabo Pulmo National Marine Park is a conservation success story where 30 years of protection have produced a 461% increase in marine biomass and UNESCO World Heritage recognition.
+Home to the only living coral reef in the Sea of Cortez, Cabo Pulmo National Marine Park is a conservation success story where enforced no-take protection since 1995 produced a peer-reviewed 463% increase in fish biomass between 1999 and 2009, plus UNESCO World Heritage recognition.
 
 ## Description
 
@@ -12,12 +12,12 @@ Cabo Pulmo National Marine Park protects a 20,000-year-old coral reef system alo
 
 ### Diving Opportunities
 
-- **Wreck Diving**: El Vencedor — a tuna trawler on sand at 14 meters, the park's most famous site and primary location for seasonal bull shark encounters
-- **Reef Bar Systems**: El Bajo, Los Morros, and Meros form the park's central reef complex, home to the iconic jack tornado and diverse hard coral (7+ species)
-- **Wall & Canyon Diving**: El Cantil — the largest reef in the park with miniature canyons, swim-throughs, walls, and caves stretching two miles offshore. Las Navajas offers canyon topography with shark encounters
+- **Wreck Diving**: El Vencedor — a wooden-hulled fishing vessel wreck (sources conflict on whether it was a tuna trawler or cargo vessel, and on its exact length) on sand around 14 meters, the park's most famous site and primary location for seasonal bull shark encounters
+- **Reef Bar Systems**: El Bajo and Meros form the park's northern reef complex; neighboring Los Morros is the site most consistently confirmed by sources for the park's iconic dense "jack tornado" bigeye trevally aggregations
+- **Canyon & Swim-Through Diving**: El Cantil — the largest reef in the park with miniature canyons and swim-throughs (not a wall dive despite dramatic canyon edges). Las Navajas is a named canyon-area site included on tour itineraries, though site-specific marine-life detail could not be independently confirmed as of the 2026-07-23 audit
 - **Deep Pelagic Sites**: La Esperanza and El Cien — outer reef drop-offs to 30 meters with bull sharks, nurse sharks, tuna schools, and mobula rays (Advanced only)
-- **Sea Lion Colony**: La Lobera — playful California sea lions interact with divers at 8 meters near Los Frailes
-- **Cave & Rock Formations**: Las Casitas — unique rock formations with cup corals and garden eels
+- **Sea Lion Colony**: La Lobera — playful California sea lions interact with divers near Los Frailes
+- **Rock Formations**: Las Casitas — boulder formations with swim-throughs, sheltering turtles and moray eels, and garden eels on the surrounding sand
 - **Macro Diving**: Los Chopitos — shallow reef with invertebrates and small fish for patient photographers
 
 ### Accessibility
@@ -31,8 +31,8 @@ Cabo Pulmo National Marine Park protects a 20,000-year-old coral reef system alo
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperature ranges from 20°C (68°F) in winter to 28°C (82°F) in summer. Visibility typically 10-25 meters. Mild currents at inshore sites; moderate to strong currents at outer reef sites (La Esperanza, El Cien). Thermoclines possible at depth
-- **Signature Species**: Bigeye trevally (jack tornado — the park's iconic spectacle), bull sharks (seasonal, primarily at El Vencedor, La Esperanza, El Cien), California sea lions (resident colony at La Lobera), whale sharks (transiting, seasonal), mobula rays, humpback whales (December-March, songs audible underwater), grouper aggregations, green sea turtles, giant moray eels
-- **Conservation**: The reef's recovery since 1995 is one of the most documented marine conservation successes worldwide. The 461% biomass increase demonstrated that full marine protection can restore even heavily depleted ecosystems. UNESCO World Heritage site as part of the Islands and Protected Areas of the Gulf of California
+- **Signature Species**: Bigeye trevally (jack tornado — the park's iconic spectacle, most reliably reported at Los Morros), bull sharks (seasonal, primarily at El Vencedor, La Esperanza, El Cien), California sea lions (resident colony at La Lobera), whale sharks (transiting, seasonal), mobula rays, humpback whales (December-March, songs audible underwater), grouper aggregations, green sea turtles, giant moray eels
+- **Conservation**: The reef's recovery since the 1995 no-take designation is one of the most documented marine conservation successes worldwide. A peer-reviewed study (Aburto-Oropeza et al., PLOS ONE) measured a 463% increase in fish biomass between 1999 and 2009, demonstrating that full marine protection can restore even heavily depleted ecosystems. UNESCO World Heritage site (inscribed 2005) as part of the Islands and Protected Areas of the Gulf of California
 
 ### Park Rules
 
@@ -52,4 +52,4 @@ Cabo Pulmo National Marine Park protects a 20,000-year-old coral reef system alo
 - **Safety**: No hyperbaric chamber in Cabo Pulmo — nearest in Cabo San Lucas (2+ hours). The remote location means medical evacuation is slow. Dive conservatively. Advanced sites (La Esperanza, El Cien) have unpredictable currents and should only be attempted by experienced divers
 
 ---
-*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/), [Costa Coral Mexico](https://costacoralmexico.com/), [Dive O'Clock](https://diveoclock.com/). Last updated 2026-04-05.*
+*Sources: [Aburto-Oropeza et al., "Large Recovery of Fish Biomass in a No-Take Marine Reserve," PLOS ONE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3155316/), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Cabo Pulmo Beach Resort](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Costa Coral Mexico](https://www.costacoralmexico.com/en/diving-center-capo-pulmo/scuba-diving/). Re-audited 2026-07-23: corrected biomass figure from 461% to the peer-reviewed 463%, added UNESCO inscription year, and softened/corrected several site-level claims (see individual site pages). cabopulmodiving.com and cabopulmonationalpark.com (previously cited) both returned errors (suspended account / 503) as of this update and were dropped. Last updated 2026-07-23.*

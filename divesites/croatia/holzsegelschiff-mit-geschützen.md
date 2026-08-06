@@ -13,9 +13,9 @@ addedBy: osm_import
 
 ## Holzsegelschiff mit Geschützen
 
-"Holzsegelschiff mit Geschützen" translates from German as "wooden sailing ship with cannons." This site is known to local dive operators as the "Guns of Plavnik" — the remains of a wooden sailing vessel (described as a brig schooner) believed to date from the late 18th or early 19th century, located north of Mali Plavnik island in the Kvarner. The site is notable for approximately 14 steel cannons, now fused into blocks by concretion, along with remnants of the bow and board work visible on the seabed.
+"Holzsegelschiff mit Geschützen" translates from German as "wooden sailing ship with cannons." This site is known to local dive operators as the "Guns of Plavnik" — the remains of a wooden sailing vessel (dive shops describe it as probably a brig schooner) generally dated to the late 18th or early 19th century, located north of Mali Plavnik island in the Kvarner (independently confirmed by Mare Vrbnik as an "18th-century cannon wreck... located just north of Mali Plavnik"). The site is notable for approximately 14 steel cannons, now fused into blocks by concretion, along with remnants of the bow and board work visible on the seabed. Dive Center Krk and Dive Loft Krk both independently give the original vessel length as approximately 30 metres, though this figure comes from dive-shop trade descriptions rather than a documented wreck survey and should be treated as approximate.
 
-Local legend holds that in 1524, pirates robbed a rich trading galley near Plavnik and the prince's guard from Krk intercepted and sank the pirate vessel — though no documentary source has been verified to confirm this specific narrative.
+No verified historical account of the vessel's identity, cargo, or sinking circumstances was found in this pass — dive-shop pages speculate it may date to the Napoleonic era, but this is presented by the shops themselves as conjecture, not established fact, and no second, independent historical source corroborates it. A previously-circulated local legend about 16th-century pirates and a Krk prince's guard could not be confirmed by any source found in this or the prior research pass and has been removed from this description.
 
 ## Overview
 
@@ -60,4 +60,4 @@ Depth reaches 40 metres at the lower end of the debris field. Maintain disciplin
 The concretion-fused cannon blocks draped in encrusting organisms are distinctive wide-angle and macro subjects. A diver hovering over the scattered remains provides scale. Strobe lighting brings out the colours of the biological community growing on the ancient ironwork.
 
 ---
-*Sources: [Dive Center KRK – Guns of Plavnik](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Guns of Plavnik](https://www.dive-loft-krk.com/dive-sites/), [Mare Vrbnik – Plavnik Island](https://www.mare-vrbnik.com/en/blog/plavnik-island). Last updated 2026-05-23.*
+*Sources: [Dive Center KRK – Dive Sites](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Dive Sites](https://www.dive-loft-krk.com/dive-sites/), [Mare Vrbnik – Plavnik Island](https://www.mare-vrbnik.com/en/blog/plavnik-island). Last updated 2026-07-27.*

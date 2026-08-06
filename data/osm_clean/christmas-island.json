@@ -15,7 +15,7 @@
       "validated": "true",
       "validation_source": "diveplanit.com,scubadiverlife.com,xray-mag.com",
       "coordinate_source": "arrivalguides.com embedded page coords (-10.447525, 105.690449), cross-referenced with diveplanit north coast description",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -32,9 +32,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "diveplanit.com,arrivalguides.com,scubadiverlife.com",
+      "validation_source": "diveplanit.com,arrivalguides.com,scubadiverlife.com,christmasislandnationalpark.gov.au",
       "coordinate_source": "OSM settlement node (-10.4213, 105.6744) + diveplanit description (western edge of cove, from boat ramp), offset slightly west/south into water",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -51,9 +51,10 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "christmas.net.au,australiantraveller.com,christmas-island.gov.au",
+      "validation_source": "christmas.net.au,australiantraveller.com,christmasislandnationalpark.gov.au",
       "coordinate_source": "OSM beach polygon center (-10.4635, 105.7075), offset slightly offshore north",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-23",
+      "qa_note": "corrected validation_source domain to match footer link (christmasislandnationalpark.gov.au, not christmas-island.gov.au); softened turtle-nesting claim since Parks Australia names Dolly Beach and Greta Beach, not Ethel Beach, as the primary nesting sites"
     }
   },
   {
@@ -62,17 +63,18 @@
     "lon": 105.7023,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 1,
     "site_type": "cave",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "christmasislandnationalpark.gov.au,australiangeographic.com.au,christmas.net.au",
+      "validation_source": "christmasislandnationalpark.gov.au,showcaves.com,tripadvisor.com",
       "coordinate_source": "OSM cave_entrance node 5364260821 (-10.4232, 105.7023), offset slightly offshore north",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-23",
+      "qa_note": "MAJOR CORRECTION: re-audit found the site's previously-cited sources (australiangeographic.com.au, christmas.net.au) do not actually describe The Grotto specifically. Independent visitor/caving sources (TripAdvisor, showcaves.com) consistently describe the pool as roughly 1 metre deep and used primarily for swimming/snorkelling, not as a 12 m scuba dive. Depth corrected 12m -> 1m, difficulty corrected Intermediate -> Beginner. Whether this site is genuinely used for scuba diving (vs. swim/snorkel only) remains unconfirmed by any dive-specific source -- flagged in markdown."
     }
   },
   {
@@ -89,9 +91,10 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divessi.com,christmas.net.au,extradivers-worldwide.com",
+      "validation_source": "divessi.com,extradivers.com.au,justgottadive.com",
       "coordinate_source": "OSM cape node 6604198460 (-10.5115, 105.5350), offset slightly offshore west",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-23",
+      "qa_note": "re-audit found christmas.net.au and extradivers-worldwide.com do not specifically cover Egeria Point; replaced with extradivers.com.au (Extra Divers Christmas Island's own dive-site page, confirms 10-22m depth) and justgottadive.com (confirms Pig Rock adjacency and wave-eroded caves)"
     }
   },
   {
@@ -100,7 +103,7 @@
     "lon": 105.5795,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 18,
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -110,7 +113,8 @@
       "validated": "true",
       "validation_source": "diveplanit.com,arrivalguides.com,australiantraveller.com",
       "coordinate_source": "OSM beach polygon center (-10.4616, 105.5809), offset slightly offshore northwest",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-23",
+      "qa_note": "depth corrected 15m -> 18m to match the range confirmed by two sources (arrivalguides.com: 12-18m; diveplanit.com text: 'reef at 12 to 18m'); diveplanit's own stats block separately lists a 28m bottom depth for this dive that is not explained or corroborated elsewhere -- flagged as a source conflict in markdown rather than adopted"
     }
   },
   {
@@ -129,7 +133,8 @@
       "validated": "true",
       "validation_source": "diveplanit.com,xray-mag.com,nigelmarshphotography.com",
       "coordinate_source": "diveplanit describes as 'northwest tip of Christmas Island'; OSM Northwest Point cape (-10.4425, 105.5519); placed offshore slightly north between Northwest Point and Martin Point",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-23",
+      "qa_note": "removed unsupported marine-life claims (dolphins before entry; manta rays and whale sharks along the wall) -- none of the three cited sources confirm these at this specific site. Replaced with site-specific species actually documented by nigelmarshphotography.com (batfish, trevally, barracuda, masked morays, harlequin hind) alongside the already-verified single scalloped hammerhead sighting"
     }
   },
   {
@@ -148,7 +153,7 @@
       "validated": "true",
       "validation_source": "christmas.net.au,australiantraveller.com,christmasisland.com",
       "coordinate_source": "OSM beach polygon center (-10.5215, 105.6754), offset slightly offshore east",
-      "last_qa_date": "2026-05-22"
+      "last_qa_date": "2026-07-23"
     }
   }
 ]

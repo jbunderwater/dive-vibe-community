@@ -56,4 +56,4 @@ Access is by boat only — the park is 70 miles west of Key West. Little Africa 
 While relatively sheltered, the Dry Tortugas are 70 miles from Key West with no onsite emergency support. Use the buddy system, display a dive flag, and carry a surface marker buoy. Watch for fire coral and jellyfish. The park has no cell service; carry a marine VHF radio. The nearest hyperbaric chamber is in Key West.
 
 ---
-*Sources: [NPS - Explore Loggerhead Key](https://www.nps.gov/drto/planyourvisit/explore-loggerhead-key.htm), [NPS - Diving and Snorkeling in Dry Tortugas](https://www.nps.gov/articles/diving-and-snorkeling-in-dry-tortugas-national-park.htm), [DAN Alert Diver - The Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/). Last updated 2026-05-24.*
+*Sources: [NPS - Explore Loggerhead Key](https://www.nps.gov/drto/planyourvisit/explore-loggerhead-key.htm), [NPS - Diving and Snorkeling in Dry Tortugas](https://www.nps.gov/articles/diving-and-snorkeling-in-dry-tortugas-national-park.htm), [DAN Alert Diver - The Dry Tortugas](https://dan.org/alert-diver/article/the-dry-tortugas/). Re-audited 2026-07-29, no factual changes found. Last updated 2026-07-29.*

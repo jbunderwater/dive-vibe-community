@@ -33,11 +33,7 @@ The Arabia was a three-masted barkentine (rigged with a square-rigged foremast a
 
 ## Marine Life
 
-Georgian Bay wrecks support abundant freshwater life. Lake trout — large, powerful fish — are commonly spotted circling the Arabia's hull. Yellow perch gather in schools inside the hold and around the deck. Smallmouth bass are territorial around the masts and railings. The cold, clear water supports healthy populations of cisco (lake herring) that move through in schools. Zebra and quagga mussels encrust all hard surfaces below the thermocline, creating micro-habitat for amphipods and other invertebrates.
-
-## Dive Profile
-
-The Arabia rests upright on a sloping rocky bottom. Descend the mooring line to the bow at approximately 25 metres, then explore aft along the hull to the stern at 34 metres. At this depth, NDL limits are meaningful — plan a dive profile that allows thorough exploration of key features (windlass, masts, stern cabin area) before beginning your ascent. Perform a 3-minute safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 

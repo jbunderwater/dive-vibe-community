@@ -17,7 +17,7 @@ Just Magic is a reef dive site on Light Reef on the outer Great Barrier Reef nea
 
 ## Overview
 
-The site's name is self-explanatory according to those who dive it regularly — a straightforward assessment of a site that consistently delivers an outstanding reef diving experience without any single defining headline feature. Just Magic sits on the same outer reef system as Phil's Bommie and the Agincourt sites, and it shares the excellent water clarity and marine diversity that characterises this section of the GBR.
+A Cairns Dive Adventures review of the Silversonic Port Douglas trip describes Just Magic as featuring large gorgonian fans and coral outcrops surrounded by thousands of small glassfish, with pelagic fish — red bass, snapper, and barracuda — passing through. Just Magic sits on the same outer reef system as Phil's Reef and the Agincourt sites, sharing the excellent water clarity that characterises this section of the GBR.
 
 The site is a reliable performer for day-trip operators running out of Port Douglas, offering healthy coral and consistent marine life in a depth range accessible to beginners.
 
@@ -34,7 +34,7 @@ The site is a reliable performer for day-trip operators running out of Port Doug
 
 ## Marine Life
 
-Just Magic lives up to its name with a broad assemblage of GBR reef species. Maori wrasse patrol the site with their characteristic slow, confident movements. Sea turtles — particularly green turtles — are very reliable here, often found grazing on the coral or resting on sandy patches. Schools of snapper and sweetlips hover in the mid-water. Moray eels, coral grouper, and lionfish occupy the reef crevices. The coral cover is excellent for this section of the outer reef, with both hard and soft coral communities well-represented.
+Cairns Dive Adventures confirms red bass, snapper, and barracuda as pelagic visitors, plus large gorgonian fans, coral outcrops, and dense schools of glassfish. Earlier claims of resident Maori wrasse, green turtles, sweetlips, moray eels, coral grouper, and lionfish at this specific site were not corroborated by any source and have been removed.
 
 ## Dive Profile
 
@@ -47,7 +47,7 @@ Day trips from Port Douglas. Moored dive with entry by giant stride and exit via
 ## Tips and Recommendations
 
 - This is an excellent site for divers who want a genuine outer GBR reef experience without the crowds that sometimes accompany the Agincourt pontoon sites
-- The consistent marine life makes it reliable for divers visiting multiple GBR sites and wanting guaranteed turtle and wrasse encounters
+- Watch for pelagics (red bass, snapper, barracuda) cruising past the gorgonian fans, and the glassfish clouds around the coral outcrops
 - Morning dives typically have the best visibility before afternoon wind chop affects water clarity
 
 ## Safety Considerations
@@ -56,7 +56,7 @@ Standard outer reef considerations. The mild conditions and moderate depth make 
 
 ## Photography
 
-Just Magic's broad fish diversity makes it suitable for a mixed photography approach — wide-angle reef landscapes, turtle portraits, and mid-sized reef fish all in a single dive. The site's name encourages a certain latitude in framing: shoot what moves you rather than following a strict shot list.
+The glassfish clouds around the coral outcrops and gorgonian fans are the confirmed standout subjects, with pelagics offering wide-angle opportunities against the reef backdrop.
 
 ---
-*Sources: [Silverseries - Silversonic Port Douglas](https://silverseries.com.au/silversonic/), [Visit Port Douglas - Agincourt Reef](https://visitportdouglas.com.au/port-douglas-region/great-barrier-reef/agincourt-reef/), [Poseidon Cruises Port Douglas](https://poseidon-cruises.com.au/great-barrier-reef/). Last updated 2026-05-30.*
+*Sources: [Cairns Dive Adventures - Silversonic Port Douglas Review](https://cairnsdiveadventures.com.au/review/silversonic-port-douglas-dive-review/), [Visit Port Douglas - Agincourt Reef](https://visitportdouglas.com.au/port-douglas-region/great-barrier-reef/agincourt-reef/), [Poseidon Cruises Port Douglas](https://poseidon-cruises.com.au/great-barrier-reef/). Marine-life list corrected to sourced species; unsourced claims removed. Last updated 2026-08-03.*

@@ -34,7 +34,7 @@ The Shotan Maru is one of Chuuk's under-dived wrecks. She lacks the famous cargo
 
 ## Marine Life
 
-The Shotan Maru's infrequent diver traffic has allowed marine life to develop with minimal disturbance. Coral growth covers the superstructure and exposed deck areas. Hard and soft corals, sea fans, and sponges encrust the railings, masts, and hull. Schools of fusiliers patrol the surrounding water. Glassy sweepers occupy interior spaces, and lionfish are found in shadowed recesses throughout the wreck. The undisturbed conditions may yield marine life encounters less common on the heavily visited wrecks.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Shotan Maru. Chuuk Lagoon's regional reef fauna -- fish species and coral growth reported across the lagoon's wrecks generally -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The Shotan Maru is a war grave -- removing any artifacts is strictly illegal und
 The Shotan Maru offers the opportunity for wreck photography without other dive groups in the frame -- a genuine advantage for clean compositions. The near-upright position provides conventional wreck perspectives that are easy to compose. The bridge at 37 meters and the bow at 40 meters provide accessible exterior subjects. Interior shots of the holds and engine room require powerful strobes at these depths. The wreck's compact size means a single wide-angle lens can serve for the entire dive. The absence of spectacularly famous cargo means photographic interest lies more in the wreck's structure, coral growth, and overall atmosphere.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Shotan Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=243), [Dive3D - Shotan Maru](https://dive3d.eu/models/chuuk-lagoon-truk/shotan-maru/), [trukwreckdiving.com - Shotan Maru](http://trukwreckdiving.com/index.php/wreck-site-map/21-30/30-shotan-maru). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving - Shotan Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=243), [Dive3D - Shotan Maru](https://dive3d.eu/models/chuuk-lagoon-truk/shotan-maru/), [trukwreckdiving.com - Shotan Maru](http://trukwreckdiving.com/index.php/wreck-site-map/21-30/30-shotan-maru). Last updated 2026-07-26.*

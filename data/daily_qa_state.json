@@ -2,50 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "british-virgin-islands",
-    "cabo-pulmo",
-    "california-channel-islands",
-    "canada",
-    "cape-town",
-    "cayman-islands",
-    "christmas-island",
-    "chuuk-lagoon",
-    "cocos-island",
-    "coiba-national-park",
-    "colombia",
-    "cook-islands-rarotonga",
-    "costa-rica",
-    "cozumel",
-    "croatia",
-    "curacao",
-    "cyprus",
-    "czech-republic",
-    "djibouti",
-    "dominica",
-    "dominican-republic",
-    "dry-tortugas",
-    "dutch-caribbean",
-    "eastern-caribbean",
-    "ecuador",
-    "egypt",
-    "fiji",
-    "florida-keys",
-    "flower-garden-banks",
-    "france",
-    "french-antilles",
-    "french-polynesia",
-    "galapagos-islands",
-    "gili-islands",
-    "great-barrier-reef",
-    "great-lakes",
-    "greece",
-    "greenland",
-    "grenada",
-    "guadeloupe",
-    "guam",
-    "halmahera",
-    "hawaii",
-    "hawaii-big-island",
     "hawaii-kauai",
     "hawaii-maui",
     "hawaii-oahu",
@@ -158,6 +114,18 @@
     "zanzibar"
   ],
   "completed_this_cycle": [
+    "dominica",
+    "dominican-republic",
+    "dry-tortugas",
+    "dutch-caribbean",
+    "eastern-caribbean",
+    "ecuador",
+    "chuuk-lagoon",
+    "cocos-island",
+    "coiba-national-park",
+    "colombia",
+    "cook-islands-rarotonga",
+    "costa-rica",
     "alaska",
     "alor-archipelago",
     "ambon",
@@ -175,9 +143,248 @@
     "bermuda",
     "bocas-del-toro",
     "bonaire",
-    "british-columbia"
+    "british-columbia",
+    "british-virgin-islands",
+    "cabo-pulmo",
+    "california-channel-islands",
+    "cape-town",
+    "cayman-islands",
+    "christmas-island",
+    "canada",
+    "cozumel",
+    "croatia",
+    "curacao",
+    "cyprus",
+    "czech-republic",
+    "djibouti",
+    "egypt",
+    "fiji",
+    "florida-keys",
+    "flower-garden-banks",
+    "france",
+    "french-antilles",
+    "french-polynesia",
+    "galapagos-islands",
+    "gili-islands",
+    "great-barrier-reef",
+    "great-lakes",
+    "greece",
+    "greenland",
+    "grenada",
+    "guadeloupe",
+    "guam",
+    "halmahera",
+    "hawaii",
+    "hawaii-big-island"
   ],
   "history": [
+    {
+      "date": "2026-08-02",
+      "slugs": [
+        "egypt",
+        "fiji",
+        "florida-keys",
+        "flower-garden-banks",
+        "france",
+        "french-antilles"
+      ],
+      "notes": "egypt, france, and french-antilles are isGroup=true parent slugs with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs. Only fiji, florida-keys, and flower-garden-banks have direct data and were QA'd.",
+      "summary": {
+        "sites_total": 36,
+        "sites_validated_today": 16,
+        "sites_re_audited": 30,
+        "hallucinations_removed": 4,
+        "marine_life_stripped": 1,
+        "wreck_conflicts_flagged": 3,
+        "sites_unresolved": 8,
+        "by_destination": {
+          "egypt": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory); red-sea and sudan-red-sea (already QA'd 2026-06-27/07-03) cover Red Sea diving"
+          },
+          "fiji": {
+            "sites_total": 15,
+            "sites_validated_today": 11,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 4,
+            "notes": "Cathedral Beqa description was fully fabricated relative to sources (natural swim-through cavern with light beams) -- re-pulled sources describe a structured shark-feeding dive at a stone wall; rewritten, site_type cave->reef, difficulty Intermediate->Advanced. Coral Gardens Beqa downgraded validated true->false -- none of its 3 cited sources actually name a Beqa Lagoon site by that name (same name-collision pattern as Supermarket Namena). No wreck sites in this destination. Zoo Namena, Supermarket Namena, and Samu Reef Kadavu remain unresolved (fewer than 3 independent sources)."
+          },
+          "florida-keys": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 3,
+            "notes": "USS Amesbury bow/stern launch and commission dates corrected by a day; Vandenberg radar-dish claim softened to disclose a genuine post-Hurricane-Irma source conflict; USCGC Duane dead source link replaced. Triumph Reef and Rachel Bank remain unresolved (no site-specific source found); Wisteria gained a sourced wreck history (USPHS steamer, sank 1925) but stays unvalidated at only 2 independent domains."
+          },
+          "flower-garden-banks": {
+            "sites_total": 8,
+            "sites_validated_today": 5,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 2,
+            "notes": "McGrail Bank corrected: reef cap depth exceeds recreational limits per NOAA/DAN, not within them as previously stated; also downgraded validated true->false, only 2 real independent sources found. Rankin Bank downgraded true->false -- the previously-cited dan.org source does not actually cover Rankin Bank on direct re-fetch (fabricated attribution). East/West Bank manta count hedged (80-100+, sources disagree) rather than asserted. All sites remain Advanced difficulty per the remote-liveaboard minimum-difficulty rule."
+          },
+          "france": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)"
+          },
+          "french-antilles": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory); guadeloupe and martinique are separate slugs elsewhere in the queue"
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/132",
+      "errors": []
+    },
+    {
+      "date": "2026-07-29",
+      "slugs": [
+        "dominica",
+        "dominican-republic",
+        "dry-tortugas",
+        "dutch-caribbean",
+        "eastern-caribbean",
+        "ecuador"
+      ],
+      "notes": "dutch-caribbean, eastern-caribbean, and ecuador are isGroup=true parent slugs with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs (belize, sudan, uae, colombia, costa-rica, australia, us, west-pacific). Only dominica, dominican-republic, and dry-tortugas have direct data and were QA'd.",
+      "summary": {
+        "sites_total": 38,
+        "sites_validated_today": 0,
+        "sites_re_audited": 36,
+        "hallucinations_removed": 11,
+        "marine_life_stripped": 10,
+        "wreck_conflicts_flagged": 7,
+        "sites_unresolved": 2,
+        "by_destination": {
+          "dominica": {
+            "sites_total": 12,
+            "sites_validated_today": 0,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites. Removed unconfirmed reef-shark/turtle claims on Dangleben's Pinnacles, Soufriere Pinnacle, and Cabrits Drop that contradicted their own cited sources; stripped untraceable species from Coral Gardens and Rodney's Rock. Corrected Cabrits Drop 'creole wrasse' -> 'creole fish' (species mix-up from an unrelated site). Depth corrections: Dangleben's Pinnacles 40m->30m, Five Finger Rock 30m->27m. Dropped dead discoverdominica.com links and two miscited sources (scubatravel.co.uk, originaldiving.com)."
+          },
+          "dominican-republic": {
+            "sites_total": 17,
+            "sites_validated_today": 0,
+            "sites_re_audited": 16,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 1,
+            "notes": "Atlantic Princess Wreck 'deliberately sunk' narrative corrected -- sources show it sank on its own before the planned scuttling. Removed untraceable shark/species claims and a misattributed ScubaBoard citation on Aquarium and The Wall. Astron grounding-cause dispute flagged (Wikipedia contradicts the storm claim); Zingara length/year conflict (30m/1992 vs 36m/1993) sharpened, and its Wikipedia 'Zingara (ship)' entry flagged as an unrelated 1963 Red Sea wreck to prevent future conflation. sosuabeachdr.com found fully dead, replaced with live sources. Las Galeras Divers remains unresolved -- appears to be the dive shop's premises, not a named site."
+          },
+          "dry-tortugas": {
+            "sites_total": 9,
+            "sites_validated_today": 0,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 4,
+            "sites_unresolved": 1,
+            "notes": "Windjammer Wreck (only wreck site): removed an unconfirmed National Register of Historic Places claim; 4 conflicts flagged across build location/builder, sale/rename date, exact sinking date, and hull material (iron vs steel), while cause of sinking was newly resolved and corroborated across 2 sources (navigational error during a winter gale, Jan 21 1907). Texas Rock stripped of unverifiable marine-life/sponge details not present on the cited NPS page. Brilliant Shoal remains unresolved -- only a bare REEF-database catalogue entry, no site-specific source."
+          },
+          "dutch-caribbean": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)"
+          },
+          "eastern-caribbean": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)"
+          },
+          "ecuador": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)"
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/129",
+      "errors": []
+    },
+    {
+      "date": "2026-07-26",
+      "slugs": [
+        "chuuk-lagoon",
+        "cocos-island",
+        "coiba-national-park",
+        "colombia",
+        "cook-islands-rarotonga",
+        "costa-rica"
+      ],
+      "notes": "colombia and costa-rica are isGroup=true parent slugs with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs (belize, sudan, uae, australia). Chuuk Lagoon (25 WWII wreck sites) had a systemic issue where nearly every site's Marine Life section named 6-10 specific species not actually confirmed by the cited sources -- all 25 rewritten. Cook Islands Rarotonga had a similar systemic fabricated-citation problem: 8 of 10 sites had scubaboard.com/pacificdivers.co.ck/diverarotonga.com/cookislandspocketguide.com cited as sources that, on direct re-fetch, do not actually cover those sites under their listed names -- those citations were removed, leaving only michaelmcfadyenscuba.info as a genuinely confirmed source for those 8 sites (below the 3-domain bar, left unresolved rather than padded).",
+      "summary": {
+        "sites_total": 53,
+        "sites_validated_today": 32,
+        "sites_re_audited": 53,
+        "hallucinations_removed": 15,
+        "marine_life_stripped": 30,
+        "wreck_conflicts_flagged": 11,
+        "sites_unresolved": 12,
+        "by_destination": {
+          "chuuk-lagoon": {
+            "sites_total": 25,
+            "sites_validated_today": 24,
+            "sites_re_audited": 25,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 25,
+            "wreck_conflicts_flagged": 10,
+            "sites_unresolved": 1,
+            "notes": "All 25 sites are WWII wrecks from Operation Hailstone (Feb 1944) plus HIJMS Tachikaze. Corrected sinking-date errors on Kensho Maru (Feb 18->17) and fixed internal contradictions on Yamagiri Maru (Hold 4 vs Hold 5) and Nippo Maru (stale hold-location reference). Systemic marine-life over-attribution found and fixed across all 25 sites -- cited sources (mcfadyen, dive3d, thorfinn, etc.) did not confirm the 6-10 species lists attached to nearly every site; rewritten to state regional fauna likely applies but wasn't confirmed per-site, keeping only genuinely sourced items. HIJMS Tachikaze left validated=true but flagged: only 2 distinct source domains found despite exhaustive search, does not meet the 3-domain bar."
+          },
+          "cocos-island": {
+            "sites_total": 8,
+            "sites_validated_today": 8,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites (pinnacle/wall/reef only). All 8 sites already met the remote-liveaboard Advanced-minimum-difficulty rule. Viking Rock's unsourced '60m wall' depth corrected to the sourced 39-40m, and its tiger-shark 'headline species' framing (with a fabricated 25-40m behavioral claim) demoted to a hedged mention after direct source re-fetch found no tiger-shark mention at that site. Lobster Rock depth corrected 37m->33m."
+          },
+          "coiba-national-park": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 3,
+            "notes": "No wreck sites. Removed an unsourced 'reef estimated over 5,000 years old' claim on Bahia Damas and a fabricated 17-species 'PADI-confirmed' list on Jicarita Island (live PADI page only tags 4 broad categories). Montana Rusa's invented September 2024 hammerhead sighting and an inflated shark-school claim removed; hammerhead-season claims rewritten to disclose genuine cross-operator conflict (March-April vs April-July vs June-November). Several validation_source domains were found to be over-claimed (didn't actually cover the site) and corrected. Machete Point and Shark Point Coiba remain unvalidated (no independent source names either site under these names); Santa Cruz downgraded to a single confirmed domain, left validated=true per re-audit rules but flagged below the 3-domain bar."
+          },
+          "colombia": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)"
+          },
+          "cook-islands-rarotonga": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 8,
+            "notes": "SYSTEMIC FINDING: 8 of 10 sites had validation_source citations (scubaboard.com, pacificdivers.co.ck, diverarotonga.com, cookislandspocketguide.com) that don't actually cover those sites under their listed names, confirmed via direct WebFetch of each source's real content -- citations removed, leaving only michaelmcfadyenscuba.info as genuinely confirmed for those 8 sites (below 3-domain bar, left validated=true but flagged unresolved rather than padded). Fabricated eagle-ray aggregation counts on Avaavaroa Passage ('40-80... exceeding 87') and fabricated caverns/crayfish/lionfish on Black Rock Chimneys (source says ridges and gullies, no caverns) removed. Maritime Reefer (wreck) sinking-cause conflict flagged: dive-industry sites assert deliberate 1981 scuttling as fact, while the independent McFadyen trip report treats it as unverified with no matching Lloyd's Register entry -- both accounts now presented."
+          },
+          "costa-rica": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory)"
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/127",
+      "errors": []
+    },
     {
       "date": "2026-07-19",
       "slugs": [
@@ -2299,6 +2506,337 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/109",
+      "errors": []
+    },
+    {
+      "date": "2026-07-23",
+      "slugs": [
+        "british-virgin-islands",
+        "cabo-pulmo",
+        "california-channel-islands",
+        "cape-town",
+        "cayman-islands",
+        "christmas-island"
+      ],
+      "notes": "canada popped from queue alongside today's slugs but skipped -- isGroup=true parent slug with no own osm_clean/divesites data; its children (british-columbia, nova-scotia, vancouver-island, newfoundland) are elsewhere in queue/history.",
+      "summary": {
+        "sites_total": 127,
+        "sites_validated_today": 43,
+        "sites_re_audited": 109,
+        "hallucinations_removed": 11,
+        "marine_life_stripped": 11,
+        "wreck_conflicts_flagged": 8,
+        "sites_unresolved": 29,
+        "by_destination": {
+          "british-virgin-islands": {
+            "sites_total": 59,
+            "sites_validated_today": 0,
+            "sites_re_audited": 41,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 18,
+            "notes": "Corrected a false 'Fearless is a Calypso sister ship' claim (real sole sister ship is USS YMS-328) and a mislabeled Coral Gardens aircraft (Short 330-200, not '360'). Chikuzen length (240ft vs 246ft) and Wreck Alley depth (3-20m vs 26-27m for the wreck cluster) documented as source conflicts. Also fixed an internal difficulty-table bug on Wreck Alley. 18 of 59 sites left un-re-audited this pass, budget-limited; still validated=true from the 2026-05-20 pass, no evidence of problems found."
+          },
+          "cabo-pulmo": {
+            "sites_total": 12,
+            "sites_validated_today": 11,
+            "sites_re_audited": 12,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "Removed unconfirmed jack-tornado claims at El Cantil/El Bajo (spectacle only holds for neighboring Los Morros) and an unconfirmed octopus claim at Los Chopitos. Overview.md biomass figure corrected 461%->463% (peer-reviewed PLOS ONE study). El Vencedor wreck conflicts (vessel type, length, sinking date) documented across 6 sources instead of guessed. Prior top source cabopulmodiving.com found dead/suspended -- replaced site-wide with live domains. Las Navajas' 3 prior sources re-checked and none actually cover the site by name; left validated=true per instructions but flagged with a qa_note for further research."
+          },
+          "california-channel-islands": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "Ex-Tortuga's 'not deliberately sunk' claim reversed (2 sources confirm it was towed and scuttled); S.S. Chickasaw's implicit 'still intact' framing corrected (almost nothing remains visible, rarely dived). Ex-Tortuga final-disposition and La Jenelle hull-length conflicts documented. Restored a previously-removed Equator detail (post-sinking hull-opening explosives) after direct-source confirmation it was true, not fabricated. Cold-water Intermediate-minimum satisfied on all 10 sites."
+          },
+          "cape-town": {
+            "sites_total": 22,
+            "sites_validated_today": 0,
+            "sites_re_audited": 22,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 8,
+            "notes": "KEY FINDING: 4 sites (Long Beach Kelp Forest, Nolloth, Phyllisia Shipwreck, Clan Stewart) were mislabeled Beginner despite the cold-water minimum-Intermediate rule -- fixed all four. SAS Transvaal displacement conflict (1,435-2,260 long tons vs a rounded '2,000 tonnes') documented. Refreshed sevengill-shark sourcing on 3 sites with a new source (Cape RADD) confirming the 2015 orca-predation decline. 8 sites (A-Frame, Smitswinkel Bay Wrecks, Tafelberg Reef, Justin's Caves, Outer Castle, Antipolis, Whittle Rock, Het Huis te Kraaienstjin) could not be freshly re-verified because scubashack.co.za was down site-wide during this session -- left unchanged, flagged for re-check."
+          },
+          "cayman-islands": {
+            "sites_total": 16,
+            "sites_validated_today": 14,
+            "sites_re_audited": 16,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 2,
+            "notes": "Corrected a prior QA pass's own hallucination: USS Kittiwake recovered Space Shuttle Challenger debris (a Solid Rocket Booster segment) on 17 Apr 1986, not a 'flight data recorder' (the shuttle had none). Cali Ship Wreck sinking-date conflict (1948 vs 1944) and Doc Poulson's 1981-vs-1982/length conflict documented. Dead source domain cita.ky swapped for a live corroborating one at Mixing Bowl. Chinese Wall and Japanese Garden remain unvalidated -- fewer than 3 independent site-specific sources found."
+          },
+          "christmas-island": {
+            "sites_total": 8,
+            "sites_validated_today": 8,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Confirmed this is the Australian Indian Ocean Territory Christmas Island, not Kiribati/Kiritimati. KEY FINDING: 'The Grotto' was fabricated as a 12m scuba site with Beginner->Intermediate-worthy depth; its actual sources describe a ~1m swim/snorkel pool -- corrected depth and difficulty. Removed unsupported dolphin/manta/whale-shark claims at Perpendicular Wall and a turtle claim at Flying Fish Cove. No wreck-type sites in this destination."
+          },
+          "canada": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data file (no osm_clean or divesites directory); its children (british-columbia, nova-scotia, vancouver-island, newfoundland) are elsewhere in the queue/history and covered on their own days."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/126",
+      "errors": []
+    },
+    {
+      "date": "2026-07-27",
+      "slugs": [
+        "cozumel",
+        "croatia",
+        "curacao",
+        "cyprus",
+        "czech-republic",
+        "djibouti"
+      ],
+      "summary": {
+        "sites_total": 142,
+        "sites_validated_today": 59,
+        "sites_re_audited": 101,
+        "hallucinations_removed": 28,
+        "marine_life_stripped": 23,
+        "wreck_conflicts_flagged": 17,
+        "sites_unresolved": 27,
+        "by_destination": {
+          "cozumel": {
+            "sites_total": 23,
+            "sites_validated_today": 21,
+            "sites_re_audited": 23,
+            "hallucinations_removed": 20,
+            "marine_life_stripped": 20,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 2,
+            "notes": "Wreck C-53 sinking-date/rank conflicts documented. Chen Rio and El Mirador remain unvalidated (fewer than 3 independent sources)."
+          },
+          "croatia": {
+            "sites_total": 49,
+            "sites_validated_today": 14,
+            "sites_re_audited": 16,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 7,
+            "sites_unresolved": 19,
+            "notes": "KEY FINDING: corrected geographically hallucinated locations (~40-200km off) on 9 sites traced to a prior perplexity-sourced pass. Removed a fabricated 1524 pirate-legend narrative. Wreck Tihany's vessel identity itself is disputed (may be a distinct wreck, Etnea, in Montenegro). 19 sites held back pending 3+ sources."
+          },
+          "curacao": {
+            "sites_total": 21,
+            "sites_validated_today": 0,
+            "sites_re_audited": 19,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 2,
+            "notes": "Removed unsupported dolphin claims at Kleine Knip, Grote Knip, and Snake Bay. Ship Wreck Tugboat now documents 4 conflicting sinking accounts. Superior Producer's history verified clean across 4 sources."
+          },
+          "cyprus": {
+            "sites_total": 22,
+            "sites_validated_today": 0,
+            "sites_re_audited": 22,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 3,
+            "notes": "Removed a fabricated dimension claim on Costandis and corrected Cricket wreck's displacement against Wikipedia. Confirmed Sea Caves (Peyia) as a documented monk seal breeding site. Zenobia's truck-count/tonnage conflicts re-confirmed."
+          },
+          "czech-republic": {
+            "sites_total": 16,
+            "sites_validated_today": 5,
+            "sites_re_audited": 11,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "All 16 sites now have 3+ independent sources. Corrected Lom Borena Hora's helicopter crash narrative (technician acquitted, not confirmed at fault)."
+          },
+          "djibouti": {
+            "sites_total": 11,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 1,
+            "notes": "Flagged Le Faon Wreck sinking date/cause conflict (1974 fire vs 1975 explosion). Corrected an omitted HMS Khartoum engagement in Torricelli submarine history. Whale Shark Point remains unvalidated."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/128",
+      "errors": []
+    },
+    {
+      "date": "2026-08-03",
+      "slugs": [
+        "french-polynesia",
+        "galapagos-islands",
+        "gili-islands",
+        "great-barrier-reef",
+        "great-lakes",
+        "greece"
+      ],
+      "summary": {
+        "french-polynesia": {
+          "sites_total": 30,
+          "sites_validated_today": 0,
+          "sites_re_audited": 30,
+          "hallucinations_removed": 8,
+          "marine_life_stripped": 7,
+          "wreck_conflicts_flagged": 2,
+          "sites_unresolved": 1
+        },
+        "galapagos-islands": {
+          "sites_total": 16,
+          "sites_validated_today": 16,
+          "sites_re_audited": 16,
+          "hallucinations_removed": 1,
+          "marine_life_stripped": 0,
+          "wreck_conflicts_flagged": 0,
+          "sites_unresolved": 0
+        },
+        "gili-islands": {
+          "sites_total": 14,
+          "sites_validated_today": 0,
+          "sites_re_audited": 14,
+          "hallucinations_removed": 7,
+          "marine_life_stripped": 7,
+          "wreck_conflicts_flagged": 1,
+          "sites_unresolved": 1
+        },
+        "great-barrier-reef": {
+          "sites_total": 25,
+          "sites_validated_today": 24,
+          "sites_re_audited": 25,
+          "hallucinations_removed": 20,
+          "marine_life_stripped": 21,
+          "wreck_conflicts_flagged": 1,
+          "sites_unresolved": 1
+        },
+        "great-lakes": {
+          "sites_total": 71,
+          "sites_validated_today": 12,
+          "sites_re_audited": 22,
+          "hallucinations_removed": 6,
+          "marine_life_stripped": 71,
+          "wreck_conflicts_flagged": 6,
+          "sites_unresolved": 37
+        },
+        "greece": {
+          "sites_total": 13,
+          "sites_validated_today": 10,
+          "sites_re_audited": 13,
+          "hallucinations_removed": 1,
+          "marine_life_stripped": 0,
+          "wreck_conflicts_flagged": 2,
+          "sites_unresolved": 3
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/136"
+    },
+    {
+      "date": "2026-08-05",
+      "slugs": [
+        "greenland",
+        "grenada",
+        "guadeloupe",
+        "guam",
+        "halmahera",
+        "hawaii",
+        "hawaii-big-island"
+      ],
+      "notes": "hawaii is an isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs. hawaii-big-island was substituted in to keep 6 real destinations audited today.",
+      "summary": {
+        "sites_total": 82,
+        "sites_validated_today": 24,
+        "sites_re_audited": 74,
+        "hallucinations_removed": 13,
+        "marine_life_stripped": 5,
+        "wreck_conflicts_flagged": 11,
+        "sites_unresolved": 16,
+        "by_destination": {
+          "greenland": {
+            "sites_total": 6,
+            "sites_validated_today": 0,
+            "sites_re_audited": 6,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 6,
+            "notes": "Cold-water destination genuinely under-documented at individual-site level; no dive-specific source names any of the 6 OSM-derived sites despite exhaustive re-research (dive-shop scraping, ScubaBoard, Wikipedia/NHESS). Carl wreck: two candidate vessel identities investigated and explicitly ruled out rather than conflated. validated remains false on all 6, correctly."
+          },
+          "grenada": {
+            "sites_total": 12,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 2,
+            "notes": "Removed unconfirmable 'vehicle graveyard' claim on Valley of Whales (dead source, unconfirmable on live re-fetch). Bianca C: 536ft vs 180m/600ft length conflict flagged as likely single-source error; stern-loss date narrowed to late 1992 (2 sources). Valley of Whales/Happy Valley site-identity ambiguity surfaced and downgraded from fact to flagged note. Spice Island Reef and Happy Hill remain unresolved (fewer than 3 sources)."
+          },
+          "guadeloupe": {
+            "sites_total": 30,
+            "sites_validated_today": 24,
+            "sites_re_audited": 24,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 5,
+            "sites_unresolved": 6,
+            "notes": "French-language sources searched. Removed unconfirmable nurse-shark/turtle claim (Pain de Sucre) and an unconfirmed sinking date (Epave de Caret). 5 wreck conflicts flagged across Le Franjack, Le Gustavia, L'Augustin Fresnel II, Epave de l'Ilet Fortune, Epave de Caret rather than guessed. nomad-diver.com found to not actually cover 3 sites it was cited for; citations corrected. 6 sites (La Broumine, 4 Caye-prefixed sites, Caye Gros Loup) remain unresolved."
+          },
+          "guam": {
+            "sites_total": 8,
+            "sites_validated_today": 0,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 0,
+            "notes": "All 8 sites re-confirmed with >=3 distinct source domains. SMS Cormoran casualty count (7 vs 9) and resting side conflicts flagged. Tokai Maru length conflict (134m vs 136m) flagged. Two dead-link source citations replaced. Depth corrections on Gab Gab Reef (18m->30m) and Gun Beach (30m->37m) from cross-source consensus. PADI's templated generic species checklist identified and excluded from 2 sites as non-site-specific."
+          },
+          "halmahera": {
+            "sites_total": 16,
+            "sites_validated_today": 0,
+            "sites_re_audited": 16,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 2,
+            "notes": "Batu Mandi PADI citation found to describe a different site near Pulau Bangka, N. Sulawesi (name collision) - removed. Foya Wreck's ScubaBoard citation found to not mention the site - removed. Tosei Maru: major identity/location conflict flagged - no source confirms the historically-documented Tosei Maru sinking occurred near or was towed to this wreck's Kao Bay location; rewritten as an open conflict rather than asserted fact. Pulau Tifore reclassified reef->pinnacle. Batu Mandi and Foya Wreck remain below the 3-domain bar, left validated per policy rather than padded."
+          },
+          "hawaii-big-island": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites in this destination. Manta Ray Night Dive Kona origin story corrected (conflated 1970s hotel lighting with 1991 commercial night-dive tours). Aquarium: two source citations found invalid (one was actually the Puako Reef page, misattributed) and replaced; overstated 'confirmed abundant' turtle claim softened to general regional presence. Destination-level overview.md had a non-Hawaii template species list (Napoleon wrasse, clownfish, hammerheads) removed."
+          },
+          "hawaii": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory); its children (hawaii-big-island, hawaii-kauai, hawaii-maui, hawaii-oahu) are covered individually elsewhere in the queue. hawaii-big-island was substituted into today's batch to keep 6 real destinations audited."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/137",
       "errors": []
     }
   ]

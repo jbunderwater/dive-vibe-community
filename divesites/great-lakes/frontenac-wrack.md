@@ -33,11 +33,7 @@ Kingston, Ontario sits at the northeastern corner of Lake Ontario where the lake
 
 ## Marine Life
 
-Smallmouth bass dominate the fish community at Kingston-area wrecks, aggressively defending hull openings against intruders. Yellow perch gather in schools around the masts and rigging. Round gobies carpet the bottom. Occasional walleye sightings add excitement. The hull surfaces are encrusted with zebra mussels below 8 metres.
-
-## Dive Profile
-
-The Frontenac lies on the lakebed at approximately 20 metres. Explore the length of the hull from bow to stern, examining the construction methods typical of 19th-century Great Lakes schooners. The mast stubs and rigging fragments (if present) add historic character. Maintain buoyancy control above the silty bottom. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Standard Great Lakes freshwater diving precautions apply. Cold water, limited vi
 
 ## Photography
 
-Wooden hull wreck photography in Lake Ontario's blue-green ambient light has a distinctive character. Supplemental lighting reveals hull grain, fasteners, and hardware details. Smallmouth bass make engaging portrait subjects.
+Wooden hull wreck photography in Lake Ontario's blue-green ambient light has a distinctive character. Supplemental lighting reveals hull grain, fasteners, and hardware details.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

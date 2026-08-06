@@ -32,7 +32,7 @@ Marine life documented at Aksona includes thornback rays (occasional), groupers,
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Notable Features**: Phoenician amphoras and ship anchor at depth; wall drop-off from 20 m
+- **Notable Features**: Phoenician amphoras and a ship's anchor at approximately 13.5 metres depth; wall drop-off from 20 m
 
 ---
-*Sources: [The Marmara Hotels Bodrum — Aksona dive site](https://www.themarmarahotels.com/bodrum/blog/the-magic-of-the-underwater-world-discover-the-best-scuba-diving-sports-in-bodrum), [Just Gotta Dive — Bodrum dive sites](https://www.justgottadive.com/dive_resources/travel_articles/diving-turkeys-bodrum-bubble-cave-pacoz-bay), [Scubago — Bodrum dive sites](https://www.scubago.com/en/explore/destination/bodrum-65900). All sources describe Aksona as a Turkish/Bodrum dive site. Last updated 2026-06-04.*
+*Sources: [The Marmara Hotels Bodrum — Aksona dive site](https://www.themarmarahotels.com/bodrum/blog/the-magic-of-the-underwater-world-discover-the-best-scuba-diving-sports-in-bodrum), [Just Gotta Dive — Bodrum dive sites](https://www.justgottadive.com/dive_resources/travel_articles/diving-turkeys-bodrum-bubble-cave-pacoz-bay), [MyDiveGuide/divessi.com — Aksona Bay](https://www.divessi.com/en/mydiveguide/divesite/aksona-bay-turkey-7906). All sources describe Aksona as a Turkish/Bodrum dive site. Re-audited 2026-08-03: kosdiving.com (previously cited) was re-checked directly and does not mention Aksona — dropped as an invalid source and replaced with the two sources above.*

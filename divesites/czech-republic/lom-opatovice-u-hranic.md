@@ -17,7 +17,7 @@ A challenging flooded greywacke quarry near Hranice known for poor visibility, c
 
 ## Overview
 
-Lom Opatovice is a flooded stone quarry (droba/greywacke sandstone) located approximately 6 km from Hranice along road 438 in the Olomoucký region. Mining ended in 1990 and the quarry filled naturally, completing in 1997 partly with flood water. The quarry is irregularly oval, roughly 150 by 140 meters, with a maximum depth of approximately 37 meters including about 1 meter of bottom sediment washed in from surrounding agricultural fields.
+Lom Opatovice is a flooded stone quarry (droba/greywacke sandstone) located approximately 1 km north of the village of Opatovice, roughly 6 km from Hranice along road 438 in the Olomoucký region. Mining ended in 1990 and the pit began filling naturally. In 1997, a major regional flood was diverted through a local stream into the still-shallow quarry (water depth at the time was only around 9 meters) as a flood-protection measure for the village — rapidly raising the water level and washing in fine agricultural sediment that still affects bottom visibility today. The quarry is irregularly oval, roughly 150 by 140 meters, with a maximum depth of approximately 37 meters including about 1 meter of bottom sediment.
 
 ## Site Information
 
@@ -53,4 +53,4 @@ This site is explicitly not suitable for beginners. Required equipment includes 
 - A line reel is essential for maintaining orientation
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=204), [Střední Morava Tourism - Quarry Opatovice](https://stredni-morava.cz/en/what-to-do/quarry-opatovice.html), [Hranice Information Centre](https://infocentrum-hranice.cz/lom-opatovice/). Last updated 2026-05-23.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=204), [Střední Morava Tourism - Quarry Opatovice](https://stredni-morava.cz/en/what-to-do/quarry-opatovice.html), [Hranice Information Centre](https://infocentrum-hranice.cz/lom-opatovice/), [Regiontourist.cz - Lom Opatovice](https://www.regiontourist.cz/co-podniknout/lom-opatovice/). Last updated 2026-07-27.*

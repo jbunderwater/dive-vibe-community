@@ -35,7 +35,7 @@ Granito de Oro is accessible on day trips from Santa Catalina (roughly 1.5 hours
 
 ## Marine Life
 
-Confirmed sightings at this site include hawksbill and green sea turtles, whitetip reef sharks (primarily in the deeper rocky sections), king angelfish, razor surgeonfish, bluebarred parrotfish, white-spotted puffer, spot-fin porcupinefish, moray eels, and large schools of grunts and snapper. The snorkeling-report.com survey also lists wrasses and triggerfish. Macro life is abundant in crevices along the volcanic rock faces. The site is widely described as having an "aquarium-like" quality given the density of species in a small area.
+Confirmed sightings at this site include hawksbill and green sea turtles, whitetip reef sharks (primarily in the deeper rocky sections), king angelfish, razor surgeonfish, bluebarred parrotfish, white-spotted puffer, moray eels, octopus, scorpionfish, butterflyfish, and large schools of grunts and snapper. Macro life is abundant in crevices along the volcanic rock faces. The site is widely described as having an "aquarium-like" quality given the density of species in a small area.
 
 No site-specific reports of bull sharks or pelagic megafauna were found for Granito de Oro; those encounters are associated with the more exposed sites such as El Faro and Montana Rusa.
 
@@ -63,4 +63,4 @@ Mild conditions for Coiba, but standard boat-dive safety applies: deploy SMB on 
 Diveable year-round. Dry season (December–April) provides calmest surface conditions and warmest water (29–30°C). Rainy season (May–November) maintains excellent underwater visibility with slightly cooler surface temperatures (26–28°C).
 
 ---
-*Sources: [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [Snorkeling Report - Granito de Oro](https://www.snorkeling-report.com/spot/snorkeling-granito-de-oro-isla-coiba-panama/), [CoibaNationalPark.com - Granito de Oro](http://www.coibanationalpark.com/granito_de_oro.html), [Panama Dive Center - Dive Sites](https://panamadivecenter.com/coiba-national-park-dive-sites/). Last updated 2026-06-25.*
+*Sources: [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [Snorkeling Report - Granito de Oro](https://www.snorkeling-report.com/spot/snorkeling-granito-de-oro-isla-coiba-panama/), [CoibaNationalPark.com - Granito de Oro](http://www.coibanationalpark.com/granito_de_oro.html). Last updated 2026-07-26. (2026-07-26 re-audit: Panama Dive Center removed from source list — its full site listing does not include Granito de Oro. Marine life list trimmed to species reconfirmed in fresh source fetches; "spot-fin porcupinefish" and "wrasses/triggerfish" removed as unconfirmed, octopus/scorpionfish/butterflyfish added as confirmed.)*

@@ -32,4 +32,4 @@ Regional marine life applies; no site-specific species reports found for this na
 - **Maximum Depth**: 18 meters
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/), [Air Greenland - Diving](https://www.airgreenland.com/discover-greenland/diving/), [Advanced Diver Magazine - Greenland](https://advanceddivermagazine.com/articles/greenland/greenlandA.html). Last updated 2026-06-04.*
+*Description based on regional diving characteristics. No site-specific sources found for this named site. Regional sources: [Visit Greenland - Diving](https://visitgreenland.com/activities/diving/), [Air Greenland - Diving](https://www.airgreenland.com/discover-greenland/diving/), [Advanced Diver Magazine - Greenland](https://advanceddivermagazine.com/articles/greenland/greenlandA.html). Last updated 2026-08-05.*

@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Stuka / Junkers Ju 87
 
-The Stuka is the wreck of a Junkers Ju 87 R-2 dive-bomber belonging to the Italian Air Force's 239th Squadriglia, 97th Gruppo Bombardamento a Tuffo, which came down in the sea near Žirje island on 12 April 1941 during an attack on Yugoslav warships in the bay of Jadrovac near Šibenik. Discovered in September 2014, it is described as the world's best-preserved Stuka bomber and was declared a Croatian cultural heritage site in the year of its discovery.
+The Stuka is the wreck of a Junkers Ju 87 R-2 dive-bomber belonging to the Italian Air Force's 239th Squadriglia, 97th Gruppo Bombardamento a Tuffo, which was damaged by Yugoslav anti-aircraft (PZO) fire and forced to ditch in the sea near Žirje island on 12 April 1941 during an attack on Yugoslav warships in the bay of Jadrovac near Šibenik — this was a forced ditching due to damage, not a direct "shoot-down" as some older accounts implied. Discovered in September 2014, it is described as the world's best-preserved Stuka bomber and was declared a Croatian cultural heritage site in the year of its discovery.
 
 ## Overview
 
-The aircraft rests on its wheels at approximately 28 metres depth on a sandy seabed with seagrass, near the southern coast of Žirje island — approximately 13 nautical miles from Murter. The airframe is substantially intact: the fuselage, gull wings, and tail section are all in place and clearly identifiable as a Ju 87 R-2 (identified by the supplementary fuel distribution points under the wings). The engine was separated, probably upon water impact or by fishing nets, and was found at approximately 40 metres depth. No human remains were found in the cockpit; investigators believe the crew escaped.
+The aircraft rests on its wheels at approximately 28 metres depth on a sandy seabed with seagrass, near the southern coast of Žirje island — approximately 13 nautical miles from Murter. The airframe is substantially intact: the fuselage, gull wings, and tail section are all in place and clearly identifiable as a Ju 87 R-2 (identified by the supplementary fuel distribution points under the wings). The engine was separated, probably upon water impact or by fishing nets, and was found separately, roughly 40 metres deep.
+
+**Sources conflict on the fate of the two-man crew.** Wreck Hunters Adriatic names the crew — pilot Ten. Pil. Carlo Bongiovanni and gunner/mechanic Av. Sc. Mot. Alberto Boscolo — and states they did not survive. X-Ray Mag and Vintage Aviation News instead report that no human remains were found in the cockpit and that the crew is presumed to have escaped, describing the crew's ultimate fate as unknown. This is a genuine, unresolved conflict between sources and neither claim is stated here as settled fact.
 
 Diving is permitted only through licensed dive centres holding a concession from Croatian authorities. Direct contact with the aircraft is prohibited to prevent further damage; looting has already been reported (the control stick was removed from the cockpit).
 
@@ -60,4 +62,4 @@ Depth is within standard recreational limits. The aircraft is not suitable for p
 The intact gull-wing silhouette of the Ju 87 on a seagrass bed is a remarkable and unique image. Shooting from below the wing tips with a diver for scale is effective. The aircraft's near-perfect preservation makes it one of the most photogenic aircraft wrecks in the world.
 
 ---
-*Sources: [Wreck Hunters Adriatic – Ju 87 R-2 Stuka](https://wreckhunters.eu/en/ju-87-r-2-stuka/), [X-Ray Mag – Croatia: Stuka Bomber Wreck](https://xray-mag.com/content/croatia-stuka-bomber-wreck), [Vintage Aviation News – Regia Aeronautica's Junkers Ju 87 found off Croatia](https://vintageaviationnews.com/warbirds-news/junkers-ju-87-stuka-discovered-croatian-coast.html). Last updated 2026-05-23.*
+*Sources: [Wreck Hunters Adriatic – Ju 87 R-2 Stuka](https://wreckhunters.eu/en/ju-87-r-2-stuka/), [X-Ray Mag – Croatia: Stuka Bomber Wreck](https://xray-mag.com/content/croatia-stuka-bomber-wreck), [Vintage Aviation News – Regia Aeronautica's Junkers Ju 87 found off Croatia](https://vintageaviationnews.com/warbirds-news/junkers-ju-87-stuka-discovered-croatian-coast.html). Last updated 2026-07-27.*

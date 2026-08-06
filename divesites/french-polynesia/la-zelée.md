@@ -25,7 +25,7 @@ The wreck of La Zélée lies in pieces across a sandy bottom near Papeete port, 
 
 ## Marine Life
 
-The wreck structure is encrusted with coral, including pink and black coral visible around 20 m, and hosts reef fish typical of Tahiti's nearshore waters. Pelagic fish visit the deeper sections. Note: some sources cite multiple shark species in the general Papeete area, but no confirmed site-specific shark observations for La Zélée's wreck itself were found; treat any such reports as possible rather than reliable expectations.
+The wreck structure is encrusted with coral and hosts reef fish typical of Tahiti's nearshore waters. A dedicated dive-site listing for La Zélée (Scubago/DiveSSI's guide database) specifically reports grey reef, whitetip, blacktip and lemon sharks at this site, with tiger sharks seen occasionally — this is now the only site-specific shark source found for the wreck itself, so treat tiger shark sightings in particular as infrequent rather than a reliable expectation. Beyond sharks, no other site-specific marine life reports for La Zélée were located; general Papeete-area reef fish should be expected but are not itemised here.
 
 ## Dive Profile
 
@@ -44,4 +44,4 @@ Depth range: 5–20 metres over the wreck remains, with a drop-off to 50 metres 
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Wikipedia – French gunboat Zélée](https://en.wikipedia.org/wiki/French_gunboat_Z%C3%A9l%C3%A9e), [Wikipedia – Bombardment of Papeete](https://en.wikipedia.org/wiki/Bombardment_of_Papeete), [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/). Last updated 2026-05-30.*
+*Sources: [Wikipedia – French gunboat Zélée](https://en.wikipedia.org/wiki/French_gunboat_Z%C3%A9l%C3%A9e), [Wikipedia – Bombardment of Papeete](https://en.wikipedia.org/wiki/Bombardment_of_Papeete), [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Scubago/DiveSSI – La Zélée dive guide](https://www.scubago.com/en/forward-mdg/divesite/la-zelee-tahiti-lazelee-wreck-french-polynesia-250876). Re-audited 2026-08-03: re-confirmed the 1899 launch, 646-ton/56 m displacement and length, and the 22 Sept 1914 sinking (French crew began scuttling before German gunfire from Scharnhorst and Gneisenau finished the job, per the Bombardment of Papeete article) against Wikipedia directly; added a dive-guide source for site-specific shark reports. Last updated 2026-08-03.*

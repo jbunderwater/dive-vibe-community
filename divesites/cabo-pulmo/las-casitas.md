@@ -40,4 +40,4 @@ Maximum depth of 15 meters. Navigate between and through the rock formations, pe
 - Can be accessed from Mermaid Beach when surface currents permit
 
 ---
-*Sources: [Cabo Pulmo Diving](https://cabopulmodiving.com/las-casitas/), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Costa Coral Mexico](https://www.costacoralmexico.com/en/diving-center-capo-pulmo/scuba-diving/), [ScubaBoard](https://scubaboard.com/community/threads/plenty-of-fish-in-the-sea-of-cortez-cabo-pulmo-trip-report-september-2020.600831/). Re-audited 2026-07-23: cabopulmodiving.com is offline and myscubadivinggearguide.com does not actually cover this site on re-check — both dropped and replaced with confirmed sources. Last updated 2026-07-23.*

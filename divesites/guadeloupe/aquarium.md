@@ -21,6 +21,8 @@ Sitting in the protected waters of the Cousteau Reserve, this shallow reef is an
 
 Note: this "Aquarium" site near Malendure (part of the Cousteau Reserve) is distinct from "L'Aquarium" in Les Saintes, which is a wall/tunnel dive.
 
+Re-audit (2026-08-05): heures-saines.com's own "L'Aquarium" dive-spot listing for this exact reserve describes "a gently sloping coral plateau" and advertises depths "up to 60 metres" for divers who follow the slope well past the beginner zone. This is presented as the same shallow beginner site here — the 6-metre figure reflects the accessible plateau where beginners and snorkelers dive, not the operator's advertised technical range for divers who continue down the slope.
+
 ## Site Information
 
 - **Location**: Cousteau Reserve, Pigeon Island area, Malendure, Basse-Terre, Guadeloupe
@@ -40,4 +42,4 @@ Regional marine life applies; no site-specific species reports found beyond gene
 Boat from Malendure; giant stride entry. Often combined with Jardin de Corail for a two-site day in the reserve. SMB on ascent due to channel boat traffic.
 
 ---
-*Sources: [Reserve Cousteau Official Site](https://www.reserve-cousteau.fr/en), [Les Heures Saines](https://www.heures-saines.com/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Last updated 2026-06-04.*
+*Sources: [Reserve Cousteau Official Site](https://www.reserve-cousteau.fr/en), [Les Heures Saines — Dive Spots, Cousteau Reserve](https://www.heures-saines.com/spots-de-plongee/reserve-cousteau/), [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/). Re-audited 2026-08-05. Last updated 2026-08-05.*

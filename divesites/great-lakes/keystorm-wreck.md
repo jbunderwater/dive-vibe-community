@@ -33,11 +33,7 @@ The Keystorm sank in 1912 after striking a shoal in dense fog and now lies on he
 
 ## Marine Life
 
-The Thousand Islands St. Lawrence supports outstanding freshwater fishing and diving wildlife. Northern pike are frequently encountered around and beneath the Keystorm. Muskellunge (muskie) inhabit the area. Large smallmouth bass are resident near the hull. Yellow perch, walleye, and other species complete the community. The river's current reduces heavy zebra mussel colonization, leaving portions of the steel hull in a more natural state than equivalent lake wrecks.
-
-## Dive Profile
-
-Plan the dive around the current direction. Enter upstream and navigate to the wreck, using the hull as a current break while exploring. The Keystorm's steel construction means machinery, cargo holds, and hull fittings are all accessible exploration targets. On ascent, deploy an SMB early given the boat traffic and current in the St. Lawrence.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ St. Lawrence River current can be strong and varies with season and upstream wat
 
 ## Photography
 
-The Keystorm's steel construction and the river's clear water create excellent photographic conditions. Northern pike are compelling portrait subjects, often posing motionless in the current near the hull. The industrial scale of the vessel provides dramatic wide-angle compositions.
+The Keystorm's steel construction and the river's clear water create excellent photographic conditions. The industrial scale of the vessel provides dramatic wide-angle compositions.
 
 ---
 *Sources: [Divetech - The Keystorm](https://www.divetech.ca/keystorm.htm), [ScubaBoard - Diving the Wreck of the Keystorm](https://scubaboard.com/community/threads/diving-the-wreck-of-the-keystorm-in-the-upper-st-lawrence-river.419904/), [Underwater Photography Guide - St. Lawrence River Wrecks](https://www.uwphotographyguide.com/st-lawrence-river-wrecks/). Last updated 2026-05-30.*

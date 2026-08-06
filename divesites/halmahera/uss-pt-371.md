@@ -29,7 +29,7 @@ USS PT-371 was an American patrol torpedo boat lost during World War II. Accordi
 
 ## Marine Life
 
-Regional marine life applies; no site-specific species reports found for PT-371. Shallow WWII wrecks in this region typically develop encrusting coral and sponge communities over decades. The broader Morotai and North Halmahera area hosts blacktip reef sharks, reef fish, and occasional manta ray sightings, but these have not been confirmed specifically at the PT-371 site.
+Regional marine life applies; no site-specific species reports were found for PT-371 in any source consulted, including on re-audit. Shallow WWII wrecks in this region typically develop encrusting coral and sponge communities over decades. The broader Morotai and North Halmahera area hosts blacktip reef sharks, reef fish, and occasional manta ray sightings, but none of these are confirmed specifically at the PT-371 site — no dive-operator or dive-log source describing an actual dive on this wreck could be located.
 
 ## Dive Profile
 
@@ -48,4 +48,4 @@ The 15-metre maximum depth allows extended bottom time for wreck exploration. Co
 North Halmahera is remote. The nearest recompression chamber is in Manado. The wreck is shallow and the site generally benign, but standard wreck diving caution applies — maintain external diving positions and do not enter enclosed spaces without proper wreck penetration training and equipment. Water temperature is 27–30°C. SMB should be carried on all boat dives in this area.
 
 ---
-*Sources: [HyperWar – At Close Quarters: PT Boats (Chapter 8, Morotai)](https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-8.html), [HyperWar – At Close Quarters: Appendix B (PT Boat Losses)](https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-B.html), [Navsource – PT-370 (sister vessel, confirms class specs)](http://www.navsource.org/archives/12/05370.htm). Last updated 2026-06-04.*
+*Sources: [HyperWar – At Close Quarters: PT Boats (Chapter 8, Morotai)](https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-8.html), [HyperWar – At Close Quarters: Appendix B (PT Boat Losses)](https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-B.html), [Navsource – PT-371](http://www.navsource.org/archives/12/05371.htm), [US Navy History and Heritage Command – Motor Torpedo Boat Operational Losses](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u-s-navy-motor-torpedo-boat-operational-losses.html). Re-audited 2026-08-05: all four sources agree on the 19 September 1944 grounding near Tagalasa, Halmahera, and destruction to prevent capture; no conflicts found. Corrected citation from PT-371's sister vessel PT-370 to PT-371's own Navsource page. Last updated 2026-08-05.*

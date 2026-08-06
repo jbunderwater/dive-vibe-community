@@ -21,7 +21,7 @@ Te Ava Piti is one of the key pass dive sites in the Raiatea-Taha'a lagoon syste
 
 ## What to Expect
 
-Grey reef sharks are the defining species of Te Ava Piti — groups of 10 to 30+ individuals aggregate in the channel to feed on the fish carried in by the current. Encounters are close and active as the sharks work the current. Blacktip reef sharks join the grey reef sharks near the lagoon side of the pass. Eagle rays and marble rays ride the current gracefully alongside divers being swept through. Schools of barracuda spiral in columns in the mid-channel, and bigeye jacks hunt cooperatively at the channel walls. The narrow pass geometry intensifies all the activity, making encounters with multiple species simultaneous.
+Grey reef sharks are the defining species of Te Ava Piti — groups of 10 to 30+ individuals aggregate in the channel to feed on the fish carried in by the current. Encounters are close and active as the sharks work the current. Blacktip and whitetip reef sharks join the grey reef sharks, and silvertip sharks have also been reported here by Te Moana Diving. Spotted eagle rays ride the current gracefully alongside divers being swept through (an earlier "marble rays" claim could not be independently confirmed and has been dropped). Schools of barracuda and bluefin jacks move through the mid-channel and channel walls. Napoleon (humphead) wrasse and turtles are reported on the lagoon-side section of the dive, where currents ease. The narrow pass geometry intensifies all the activity, making encounters with multiple species simultaneous.
 
 ## Conditions
 
@@ -36,4 +36,4 @@ Grey reef sharks are the defining species of Te Ava Piti — groups of 10 to 30+
 Dive only on an established incoming tide for best shark activity and visibility. The narrow pass requires attention to depth — avoid being swept against the channel walls. Carry and deploy an SMB at the end of the drift for boat pickup. This site is not suitable for divers uncomfortable in strong current.
 
 ---
-*Sources: [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Hemisphere Sub - Raiatea](https://www.hemispheresub.com/en/). Last updated 2026-05-30.*
+*Sources: [Te Moana Diving - Raiatea & Taha'a](https://temoanadiving.com/en/islands/raiatea-tahaa), [Polynesia Paradise - Raiatea Diving](https://www.polynesiaparadise.com/french-polynesia/raiatea-island/diving-in-raiatea/), [Hemisphere Sub - Raiatea](https://www.hemispheresub.com/en/), [Te Mara Nui Diving - Raiatea](https://te-mara-nui.com/en/diving.html). Re-audited 2026-08-03: added a fourth source confirming silvertip sharks, whitetip sharks, Napoleon wrasse and turtles at this pass; removed an unconfirmed "marble rays" claim in favour of the independently confirmed spotted eagle ray. Last updated 2026-08-03.*

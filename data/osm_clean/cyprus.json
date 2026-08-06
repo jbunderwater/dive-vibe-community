@@ -13,7 +13,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "cyprusisland.net,visitcyprus.com,tddiving.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -28,7 +28,7 @@
       "name": "Lara Bay",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -45,7 +45,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "paphosguide.com,divingincyprus.net,cyprusdiving.org.cy",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -62,7 +62,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "paphosguide.com,cyprusisland.net,divingincyprus.net",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -77,7 +77,7 @@
       "name": "The Bends",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -94,7 +94,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "paphosguide.com,divingincyprus.net,divessi.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -109,7 +109,7 @@
       "name": "The Channel",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -126,7 +126,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "diveadvisor.com,divessi.com,scubago.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -143,7 +143,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "divingincyprus.net,paphosguide.com,cyprusdiving.org.cy",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -160,7 +160,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "tddiving.com,paphosguide.com,aquatic-centre.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -177,7 +177,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "cyprusdiving.org.cy,xtremespots.com,paphosguide.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -194,7 +194,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "wikipedia.org,scubaverse.com,proscubadiver.net,visitcyprus.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -210,8 +210,8 @@
       "sport": "scuba_diving",
       "source": "external_csv_import",
       "validated": "true",
-      "validation_source": "visitcyprus.com,uboat.net,ezdivers.com,naval-history.net",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "visitcyprus.com,uboat.net,ezdivers.com,naval-history.net,wikipedia.org",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -227,8 +227,8 @@
       "sport": "scuba_diving",
       "source": "external_csv_import",
       "validated": "true",
-      "validation_source": "wikipedia.org,divingincyprus.net,coralbaydivers.com",
-      "last_qa_date": "2026-05-23"
+      "validation_source": "wikipedia.org,divingincyprus.net,coralbaydivers.com,cyprusdiving.org.cy",
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -245,7 +245,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "ezdivers.com,cyprusisland.net,scubadivecyprus.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -262,7 +262,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "scubadivecyprus.com,underwater.journeys.cy,sirensdivecentre.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -279,7 +279,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "underwater.journeys.cy,ezdivers.com,thomascook.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -296,7 +296,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "divebuddy.com,theabroadguide.com,visitfamagusta.com.cy",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -313,7 +313,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "wikipedia.org,ezdivers.com,visitcyprus.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -330,7 +330,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "cypruspremier.com,scubacyprus.com,cyprusparadise.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -347,7 +347,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "scubacyprus.com,divernet.com,divebooker.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   },
   {
@@ -364,7 +364,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "ezdivers.com,sirensdivecentre.com,blog.scubatechdivers.com",
-      "last_qa_date": "2026-05-23"
+      "last_qa_date": "2026-07-27"
     }
   }
 ]

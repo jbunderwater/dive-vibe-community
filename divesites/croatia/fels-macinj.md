@@ -13,49 +13,48 @@ addedBy: osm_import
 
 ## Fels Macinj
 
-Fels Macinj (fels = rock/reef in German, a naming convention common among German-speaking diving guides to Croatia) is a rocky reef site in the Cres/Lošinj area of the Kvarner archipelago. The site offers characteristic Kvarner reef diving — limestone formations, clear deep blue water, and a healthy Mediterranean marine community.
+Fels Macinj ("Macinj rock") is the islet of Macinj (Hrid Macinj) just behind Goli Otok in the Kvarner Gulf near Rab — not in the Cres/Lošinj area as an earlier version of this page claimed. That claim placed the site roughly 40-50 km from its actual coordinates and has been removed. Rab-based operator Moby Dick Diving lists "Goli Otok – Macinj" among its regular dive sites.
 
 ## Overview
 
-The reef at Macinj features rocky outcrops, boulders, and sloping faces descending to around 25 metres. The rocky substrate is colonised by encrusting sponges, sea fans, and bryozoans, with the deeper sections supporting small gorgonian colonies. The clear Kvarner waters, often 15–20 metres visibility in summer, make this a pleasant and productive dive with diverse underwater scenery.
+Moby Dick Diving describes Macinj as a beginner-level site at 5-25 metres, with slopes richly covered in marine vegetation, a cave at around 12 metres, and grouper present. A separate Croatian-language source describes the islet as actually consisting of two rocks, Mali (small) and Veliki (large) Macinj, noting that Mali Macinj has steeper walls dropping toward 50 metres on its more exposed side with numerous ledges and gorges, while the plateau on the northern side (matching Moby Dick's description) descends gently and is well overgrown — consistent with a site offering both a gentle beginner-friendly slope and a more dramatic drop-off nearby, depending on which side is dived.
 
 ## Site Information
 
-- **Location**: Cres/Lošinj area, Kvarner, Croatia
+- **Location**: Islet of Macinj, behind Goli Otok, Kvarner Gulf, near Rab, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: Not confirmed by any source
+- **Current**: Not confirmed by any source
+- **Best Time**: May to October (general Kvarner season)
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+Moby Dick Diving reports grouper at this site. No other species are confirmed for this specific location; do not assume additional species without further confirmation.
 
 ## Dive Profile
 
-Start at the reef top in the shallows and descend the rocky slope to the 25-metre maximum. Explore the overhangs and crevices carefully — most of the interesting marine life is found between 8–20 metres. Ascend slowly and complete a 3-minute safety stop at 5 metres.
+Following Moby Dick Diving's description: a gently descending, well-vegetated northern slope from 5 to 25 metres, with a cave at around 12 metres. Suitable for beginners on this side of the islet.
 
 ## Entry and Exit
 
-Dive boats from Cres or Mali Lošinj operators access this site. Entry by giant stride or back roll. Deploy an SMB when ascending from depth.
+Reached by boat from Rab. Entry by giant stride or back roll.
 
 ## Tips and Recommendations
 
-- A torch is useful for illuminating the deeper crevices and overhang areas
-- Move slowly and methodically to observe cryptic species like seahorses and nudibranchs
-- Excellent visibility in the Kvarner makes this a great site for wide-angle photography
-- Combine with a second dive at a nearby site in the Cres/Lošinj diving area
+- A good beginner-friendly site on the northern plateau; more experienced divers may want to ask the operator about the reportedly steeper southern side of the islet
+- Look into the cave at around 12 metres
+- Watch for grouper along the vegetated slopes
 
 ## Safety Considerations
 
-Standard intermediate reef diving. Monitor depth on the sloping terrain. Carry an SMB for surfacing. Dive with a buddy and remain aware of any current in the open water surrounding the reef.
+Standard recreational diving precautions apply for the beginner-friendly northern side. If exploring the reportedly deeper southern drop-off, treat it as unconfirmed and dive within your certification level with a guide. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-The clear Kvarner water provides excellent conditions for wide-angle reef photography. Resident grouper are approachable for close-range portraits. The sponge-encrusted surfaces reward macro investigation. Morning dives offer the best natural light penetration across the reef.
+Vegetated slopes and the shallow cave suit wide-angle work; grouper are a reported photographic subject.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [Moby Dick Diving – Locations (Goli Otok – Macinj)](https://mobydick-diving.com/en/locations/). Last updated 2026-07-27.*

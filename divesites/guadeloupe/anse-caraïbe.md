@@ -38,4 +38,7 @@ Note: "Royal lobsters," "sea fans," "drop-offs," and "25+ years of dive club ope
 Regional marine life applies for additional species.
 
 ---
-*Sources: [Guadeloupe Islands Tourism — Anse Caraïbes Plongée](https://www.lesilesdeguadeloupe.com/en/commerce-service/anse-caraibes-plongee/), [Lagon Travel — Plongée Pointe-Noire](https://www.lagon-travel.com/blog-voyage/caraibes/guadeloupe-caraibes/plongee-sous-marine-au-depart-de-pointe-noire), [Guadeloupe Le Guide — Anse Caraïbe Plongée](https://www.guadeloupe-leguide.fr/activite-anse-caraibe-plongee-1.html). Last updated 2026-06-04.*
+Re-audit (2026-08-05): lesilesdeguadeloupe.com's club listing re-confirmed independently today, still describing the club as operating "for over 25 years" and reconfirming coral gardens, sponge/gorgonian plateaus, and both green (seagrass) and hawksbill (bay-edge) turtles, plus hawksbill nesting on the beach. No corrections needed.
+
+---
+*Sources: [Guadeloupe Islands Tourism — Anse Caraïbes Plongée](https://www.lesilesdeguadeloupe.com/en/commerce-service/anse-caraibes-plongee/), [Lagon Travel — Plongée Pointe-Noire](https://www.lagon-travel.com/blog-voyage/caraibes/guadeloupe-caraibes/plongee-sous-marine-au-depart-de-pointe-noire), [Guadeloupe Le Guide — Anse Caraïbe Plongée](https://www.guadeloupe-leguide.fr/activite-anse-caraibe-plongee-1.html). Re-audited 2026-08-05. Last updated 2026-08-05.*

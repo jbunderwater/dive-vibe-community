@@ -32,4 +32,4 @@ The famous wreck Le Faon (MV Priamos / Orchard Reefer) lies nearby at 10–28 me
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [Atlas & Boots – Diving in Djibouti](https://www.atlasandboots.com/travel-blog/diving-in-djibouti/), [SCUBA Travel – Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html). Last updated 2026-05-24.*
+*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [Atlas & Boots – Diving in Djibouti](https://www.atlasandboots.com/travel-blog/diving-in-djibouti/), [SCUBA Travel – Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html). Re-audited 2026-07-27: all sources re-pulled and confirmed live; sub-site names (The Aquarium, Dolphin Reef, Coral Gardens) and visibility figures reconfirmed against Dive The World, no corrections required. Last updated 2026-07-27.*

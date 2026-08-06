@@ -19,7 +19,7 @@ The Gulf of Tadjoura is Djibouti's premier diving area, a wide inlet connecting 
 
 The Gulf of Tadjoura supports approximately 200 species of coral and a wide range of reef, pelagic, and geological dive sites across its southern and northern shores. Multiple dive operators — including Dolphin Excursions (Djibouti's only PADI Gold Palm accredited centre) — run day trips to sites within the gulf, covering Moucha Island, Maskali Island, Arta Beach, Ras Eiro, and the Ghoubbet al-Kharab channel.
 
-Whale sharks (juvenile individuals) aggregate in the gulf from October through February, feeding on dense plankton blooms. The Djibouti Crack — a submerged tectonic fissure at the Ghoubbet end of the gulf — is a unique geological feature at 8 metres. Further sites in the gulf include coral gardens, sloping reefs, and the wreck of Le Faon near Moucha Island.
+Whale sharks (juvenile individuals) aggregate in the gulf on a seasonal basis; cited date ranges vary by source, from Dive The World's narrower November–January window to broader October–February/March estimates elsewhere, with peak concentrations generally reported as November–January. The Djibouti Crack — a submerged tectonic fissure at the Ghoubbet end of the gulf — is a unique geological feature at 8 metres. Further sites in the gulf include coral gardens, sloping reefs, and the wreck of Le Faon near Moucha Island.
 
 Note: "Tadjoura Gulf" as a dive entry represents the general dive area rather than a single site. Individual sites within the gulf (Moucha Island Reef, Arta Beach Reef, Ghoubbet Al-Kharab, Le Faon Wreck) have their own entries. Water temperature ranges from 26°C (February) to 30°C (May–September).
 
@@ -32,4 +32,4 @@ Note: "Tadjoura Gulf" as a dive entry represents the general dive area rather th
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [SCUBA Travel – Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html), [Liveaboard.com – Djibouti Scuba](https://www.liveaboard.com/diving/djibouti/scuba). Last updated 2026-05-24.*
+*Sources: [Dive The World – Djibouti](https://www.dive-the-world.com/diving-sites-djibouti.php), [SCUBA Travel – Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html), [Liveaboard.com – Djibouti Scuba](https://www.liveaboard.com/diving/djibouti/scuba). Re-audited 2026-07-27: sources re-pulled; whale shark season range clarified to reflect variation across sources rather than a single fixed window. Last updated 2026-07-27.*

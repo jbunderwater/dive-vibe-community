@@ -61,4 +61,4 @@ Dragon Bay's boulder-and-coral terrain offers dramatic topographic subjects. Nur
 - Best combined with Valley of Whales for a two-tank southern Grenada day
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Dragon Bay](https://www.padi.com/dive-site/grenada/dragon-bay/), [Pure Grenada - Dragon Bay](https://www.puregrenada.com/product/dragon-bay/), [Scuba Diving Place - Grenada](https://scubadiving.place/grenada). Last updated 2026-06-04.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [PADI - Dragon Bay](https://www.padi.com/dive-site/grenada/dragon-bay/), [Pure Grenada - Dragon Bay](https://www.puregrenada.com/product/dragon-bay/), [Scuba Diving Place - Grenada](https://scubadiving.place/grenada). Last updated 2026-08-05.*

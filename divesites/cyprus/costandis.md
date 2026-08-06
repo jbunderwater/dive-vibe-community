@@ -17,9 +17,11 @@ A Soviet-built bottom trawler scuttled in 2014 alongside the passenger vessel La
 
 ## Overview
 
-The Costandis was originally a Soviet bottom trawler named Zolotets, built in 1989 in the USSR. Approximately 23 metres long and 6.8 metres wide (Wikipedia), the vessel was registered on the Cyprus Ships Register in 1997. On 22 February 2014 she was intentionally sunk in the Dasoudi Marine Protected Area off Limassol, alongside the passenger vessel Lady Thetis (which rests nearby at approximately 18 metres depth).
+The Costandis was originally a Soviet bottom trawler named Zolotets, built in 1989 in the USSR. The vessel was registered on the Cyprus Ships Register in 1997. On 22 February 2014 she was intentionally sunk in the Dasoudi Marine Protected Area off Limassol, alongside the passenger vessel Lady Thetis (which rests nearby, sources give approximately 18 metres depth and roughly 30 metres in length).
 
-The Costandis sits upright at approximately 24 metres depth. Penetration options include the engine room, navigational bridge, and deck areas. The wreck is considered an accessible introduction to wreck diving, with multiple entry and exit points and good natural light. Both the Costandis and Lady Thetis can be covered on a single dive.
+**Correction (2026-07-27 re-audit):** An earlier version of this entry cited "23 metres long and 6.8 metres wide" as a Wikipedia figure. On re-checking, Wikipedia's Constandis (wreck) article does not state a length or beam for the vessel, and no other source consulted (Cyprus Diving Association, divers-guide.com, Coral Bay Divers) gives a corroborated length/beam either — one dive operator page states "24 metres long," but that number is not independently confirmed elsewhere and is not repeated here. The length/beam claim has been removed rather than guessed.
+
+The Costandis sits upright. Wikipedia gives a depth of approximately 24.3 metres; Coral Bay Divers and the Cyprus Diving Association separately cite depths of 23–24 metres, which is consistent. Penetration options include the engine room, navigational bridge, and deck areas. The wreck is considered an accessible introduction to wreck diving, with multiple entry and exit points and good natural light. Both the Costandis and Lady Thetis can be covered on a single dive.
 
 A frequently reported highlight is a large, friendly grouper that divers and operators have nicknamed "George," who regularly approaches visiting divers.
 
@@ -46,4 +48,4 @@ Shoals of amberjacks, two-banded bream, saddle bream, damselfish, moray eels, an
 - The Dasoudi Marine Protected Area designation means no fishing — healthy populations
 
 ---
-*Sources: [Wikipedia - Constandis](https://en.wikipedia.org/wiki/Constandis_(wreck)), [divingincyprus.net](https://www.divingincyprus.net/Wreck-Diving-Cyprus.html), [Coral Bay Divers - Limassol Wrecks](https://coralbaydivers.com/dive-sites/limassol-wrecks/). Last updated 2026-05-23.*
+*Sources: [Wikipedia - Constandis](https://en.wikipedia.org/wiki/Constandis_(wreck)), [divingincyprus.net](https://www.divingincyprus.net/Wreck-Diving-Cyprus.html), [Coral Bay Divers - Limassol Wrecks](https://coralbaydivers.com/dive-sites/limassol-wrecks/), [Cyprus Diving Association - Costandis](https://cyprusdiving.org.cy/index.php/limassol-diving-sites/item/92-costandis). Last updated 2026-07-27.*

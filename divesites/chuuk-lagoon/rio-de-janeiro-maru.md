@@ -34,7 +34,7 @@ The wreck is substantially intact on the upper port side, which now faces upward
 
 ## Marine Life
 
-The Rio de Janeiro Maru supports healthy coral growth across her exposed port hull, which now faces upward. Hard corals, sponges, and sea fans encrust the railings, davits, and superstructure. Schools of batfish are commonly seen around the superstructure. Fusiliers and jacks patrol the open water nearby. Inside the holds and interior spaces, glassy sweepers form dense clouds. Lionfish and scorpionfish are found throughout. Whitetip reef sharks and grey reef sharks are documented in Chuuk Lagoon generally; no site-specific marine life reports for this wreck were found.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Rio de Janeiro Maru. Chuuk Lagoon's regional reef fauna -- fish species, sharks, and turtles reported across the lagoon's wrecks generally, along with coral growth typical of a wreck submerged for eight decades -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -65,4 +65,4 @@ The Rio de Janeiro Maru is a war grave -- all artifacts, including the bottles a
 The engine order telegraph is the signature photographic subject -- beautifully preserved with legible characters. The beer bottles in Hold 5, stacked in wooden crates, create evocative still-life compositions. The gun barrels and turrets in Holds 1 and 2 make powerful cargo subjects with careful strobe positioning. The side-lying orientation of the wreck creates unusual angles and framing opportunities. Strobes are essential for the hold interiors. The exposed port hull receives good ambient light for coral encrustation shots.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Rio de Janeiro Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=239), [Scuba Diving Earth - Rio de Janeiro Maru](https://www.scubadivingearth.com/rio-de-janeiro-maru-wreck-of-truk-lagoon-chuuk-lagoon-wrecks/), [Dive3D - Rio de Janeiro Maru](https://dive3d.eu/models/chuuk-lagoon-truk/rio-de-janeiro-maru/), [Argunners - Rio de Janeiro Maru](https://www.argunners.com/rio-de-janeiro-maru-wreck-in-truk-lagoon/). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving - Rio de Janeiro Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=239), [Scuba Diving Earth - Rio de Janeiro Maru](https://www.scubadivingearth.com/rio-de-janeiro-maru-wreck-of-truk-lagoon-chuuk-lagoon-wrecks/), [Dive3D - Rio de Janeiro Maru](https://dive3d.eu/models/chuuk-lagoon-truk/rio-de-janeiro-maru/), [Argunners - Rio de Janeiro Maru](https://www.argunners.com/rio-de-janeiro-maru-wreck-in-truk-lagoon/). Last updated 2026-07-26.*

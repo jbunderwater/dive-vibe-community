@@ -33,11 +33,7 @@ The site known as Lock 23 is an underwater remnant of one of the old canal syste
 
 ## Marine Life
 
-The lock's stone walls, sheltered channel, and structural complexity provide diverse habitat for eastern Ontario freshwater species. Northern pike patrol the edges of the lock chamber. Smallmouth bass are resident in sheltered corners and beneath ledges. Large carp occasionally cruise through the lock area. Yellow perch school in open water within the chamber. Crayfish populate every stone surface. Freshwater mussels (native species, not zebra mussels) are present on the submerged stonework.
-
-## Dive Profile
-
-The lock structure defines the dive profile — enter the chamber and explore the stone walls, lock gate mechanisms, and associated hardware. The confined channel keeps navigation intuitive. Maximum depth is 20 metres. The stone walls are interesting subjects but care should be taken near potentially unstable masonry. Ascend and exit upstream or downstream as coordinated with the dive boat.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Canal lock structures may include unstable masonry, particularly at older sites.
 
 ## Photography
 
-Canal lock diving offers unusual photographic subjects — the geometry of the stone chamber, the precision of 19th-century masonry, and the darkness punctuated by dive torches create atmospheric imagery. Northern pike portraits in the clear water of the lock chamber are outstanding subjects.
+Canal lock diving offers unusual photographic subjects — the geometry of the stone chamber, the precision of 19th-century masonry, and the darkness punctuated by dive torches create atmospheric imagery.
 
 ---
 *Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

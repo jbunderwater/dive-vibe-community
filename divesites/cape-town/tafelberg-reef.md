@@ -41,4 +41,4 @@ Invertebrate colonisation is the primary attraction: red and brown algae cover s
 Colonial ascidians, dreadlocks hydroids, zoanthids, nudibranchs, basket stars, brittle stars, and various sponges and soft corals colonise the reef surfaces. Occasional visiting seals have been reported, particularly at decompression stops.
 
 ---
-*Sources: [Wikivoyage — Tafelberg Reef](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Tafelberg_Reef), [Oceans Africa — Dive Cape Town](https://www.oceansafrica.com/dive-cape-town/), [Scuba Shack Cape Town](https://scubashack.co.za/2017/05/16/dive-sites-western-seaboard/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Tafelberg Reef](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Tafelberg_Reef), [Oceans Africa — Dive Cape Town](https://www.oceansafrica.com/dive-cape-town/), [Scuba Shack Cape Town](https://scubashack.co.za/2017/05/16/dive-sites-western-seaboard/). Last updated 2026-07-23.*

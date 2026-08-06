@@ -36,4 +36,4 @@ The upper reef plateau hosts coral tables, parrotfish, groupers, surgeonfish, an
 Advanced Open Water certification is required for accessing the cave at 27–30 m. Dive the upper reef plateau first to assess conditions before descending to the cave. A torch is useful inside the cavern. The cave system should only be accessed while natural light from the entrance remains visible — this is a cavern, not a cave penetration dive.
 
 ---
-*Sources: [Scubago – La Faille d'Arue](https://www.scubago.com/en/explore/divesite/la-faille-d-arue-237370), [DiveOtion – Scuba Diving in Tahiti](https://diveotion.com/scuba-diving-in-tahiti/), [Dive Discovery – Tahiti Diving](https://www.divediscovery.com/tahiti/divesites/tahiti-diving.php). Last updated 2026-05-30.*
+*Sources: [Scubago – La Faille d'Arue](https://www.scubago.com/en/explore/divesite/la-faille-d-arue-237370), [DiveOtion – Scuba Diving in Tahiti](https://diveotion.com/scuba-diving-in-tahiti/), [Dive Discovery – Tahiti Diving](https://www.divediscovery.com/tahiti/divesites/tahiti-diving.php). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

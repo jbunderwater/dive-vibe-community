@@ -778,7 +778,7 @@
     "slug": "france",
     "region": "Europe",
     "isGroup": true,
-    "description": "Protected Mediterranean marine parks with exceptional biodiversity.",
+    "description": "From protected Mediterranean marine parks to Atlantic WWII wreck diving off the Charente coast.",
     "countryCode": "FR",
     "center": [
       43.0124,
@@ -1057,7 +1057,30 @@
         6.55
       ]
     ],
-    "description": "Europe's oldest marine reserve on France's C\u00f4te d'Azur, birthplace of modern scuba diving with over 50 dive sites and exceptional Mediterranean visibility.",
+    "description": "Europe's oldest marine reserve on France's Côte d'Azur, birthplace of modern scuba diving with over 50 dive sites and exceptional Mediterranean visibility.",
+    "overviewFile": "overview.md",
+    "countryCode": "FR",
+    "parentSlug": "france"
+  },
+  {
+    "name": "La Rochelle & Île d'Oléron",
+    "slug": "la-rochelle-oleron",
+    "region": "Europe",
+    "center": [
+      46.05,
+      -1.45
+    ],
+    "bounds": [
+      [
+        45.7,
+        -2.0
+      ],
+      [
+        46.35,
+        -0.95
+      ]
+    ],
+    "description": "Atlantic wreck diving in the Pertuis Charentais off Nouvelle-Aquitaine, headlined by the 141 m WWII Sperrbrecher Sauerland, with tidal-current wrecks and cold-water marine life around the islands of Ré, Aix and Oléron.",
     "overviewFile": "overview.md",
     "countryCode": "FR",
     "parentSlug": "france"
@@ -1253,7 +1276,7 @@
     "bounds": [
       [
         29.44,
-        33.10
+        33.1
       ],
       [
         33.58,
@@ -2324,7 +2347,7 @@
         -80.5
       ],
       [
-        26.7,
+        27.0,
         -79.9
       ]
     ],
@@ -2531,13 +2554,13 @@
         -81.3
       ]
     ],
-    "description": "Panama's UNESCO marine park dubbed the 'Central American Gal\u00e1pagos' with whale sharks, giant mantas, hammerheads, and pristine Pacific reef systems.",
+    "description": "Panama's UNESCO marine park dubbed the 'Central American Galápagos' with whale sharks, giant mantas, hammerheads, and pristine Pacific reef systems.",
     "overviewFile": "overview.md",
     "countryCode": "PA",
     "parentSlug": "panama"
   },
   {
-    "name": "Roat\u00e1n",
+    "name": "Roatán",
     "slug": "roatan",
     "region": "Central America",
     "center": [
@@ -2551,7 +2574,7 @@
       ],
       [
         16.45,
-        -86.10
+        -86.1
       ]
     ],
     "description": "Honduras Bay Island with the Mesoamerican Barrier Reef, offering pristine walls, channels, and over 100 dive sites with exceptional visibility.",
@@ -2686,7 +2709,7 @@
         -69.87
       ]
     ],
-    "description": "The SS Antilla \u2014 one of the largest wreck dives in the Caribbean \u2014 plus pristine reefs, completing the famous ABC island diving trio.",
+    "description": "The SS Antilla — one of the largest wreck dives in the Caribbean — plus pristine reefs, completing the famous ABC island diving trio.",
     "overviewFile": "overview.md",
     "countryCode": "AW",
     "parentSlug": "dutch-caribbean"
@@ -2889,7 +2912,7 @@
         -61.58
       ]
     ],
-    "description": "Home to the Bianca C \u2014 the 'Titanic of the Caribbean' \u2014 and the world's first Underwater Sculpture Park, with pristine reefs and volcanic formations.",
+    "description": "Home to the Bianca C — the 'Titanic of the Caribbean' — and the world's first Underwater Sculpture Park, with pristine reefs and volcanic formations.",
     "overviewFile": "overview.md",
     "countryCode": "GD",
     "parentSlug": "eastern-caribbean"
@@ -3237,7 +3260,7 @@
     ]
   },
   {
-    "name": "Gal\u00e1pagos Islands",
+    "name": "Galápagos Islands",
     "slug": "galapagos-islands",
     "region": "South America",
     "center": [
@@ -3888,5 +3911,51 @@
     ],
     "description": "Mediterranean diving with the legendary Zenobia wreck, sea caves, and warm clear waters.",
     "countryCode": "CY"
+  },
+  {
+    "name": "Florida Panhandle",
+    "slug": "florida-panhandle",
+    "region": "North America",
+    "center": [
+      30.15,
+      -86.3
+    ],
+    "bounds": [
+      [
+        29.8,
+        -87.4
+      ],
+      [
+        30.6,
+        -85.0
+      ]
+    ],
+    "description": "Gulf of Mexico wreck diving from Pensacola to Panama City Beach, anchored by the USS Oriskany — the world's largest artificial reef — plus dozens of intentionally sunk freighters, tugs, Liberty ships, and Navy vessels.",
+    "countryCode": "US",
+    "parentSlug": "us",
+    "overviewFile": "overview.md"
+  },
+  {
+    "name": "Florida Springs",
+    "slug": "florida-springs",
+    "region": "North America",
+    "center": [
+      30.0,
+      -84.0
+    ],
+    "bounds": [
+      [
+        29.3,
+        -86.0
+      ],
+      [
+        30.9,
+        -82.4
+      ]
+    ],
+    "description": "Freshwater cavern and cave diving in north-central Florida's spring-fed karst system, famous for 100+ foot visibility, a constant ~68-72°F year-round, and some of the longest mapped underwater cave systems in the continental US. Full cave penetration requires specific cave certification (NACD/NSS-CDS or equivalent); cavern zones are accessible to cavern-certified divers.",
+    "countryCode": "US",
+    "parentSlug": "us",
+    "overviewFile": "overview.md"
   }
 ]

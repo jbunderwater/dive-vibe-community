@@ -31,7 +31,7 @@ This entry should not be treated as a verified Coiba dive site until a local ope
 
 ## Validation Note
 
-Deep QA conducted 2026-05-22 and re-audited 2026-06-25 found zero independent sources confirming "Machete Point" as a Coiba National Park dive site across all major operators (panamadivecenter.com, scubacoiba.com, divemasteraustin.com, coiba-island.com, thearkdivers.com, divebasecoiba.com) and the PADI dive site database. This entry has been set to `validated: false` in the database. It should be replaced with a verified Coiba site or removed pending operator confirmation.
+Deep QA conducted 2026-05-22, re-audited 2026-06-25, and re-checked again 2026-07-26 found zero independent sources confirming "Machete Point" as a Coiba National Park dive site across all major operators (panamadivecenter.com, scubacoiba.com, divemasteraustin.com, coiba-island.com, thearkdivers.com, divebasecoiba.com) and the PADI dive site database. A fresh 2026-07-26 web search surfaced one tangential anecdote about a Coiba site nicknamed after a former prison inmate turned park ranger (13m entry depth) — but nothing in that result names the site or ties it to these coordinates, so it was not used to confirm this entry. This entry remains `validated: false` in the database. It should be replaced with a verified Coiba site or removed pending operator confirmation.
 
 ---
-*Description based on database notes only. No site-specific sources found. Last updated 2026-06-25.*
+*Description based on database notes only. No site-specific sources found. Last updated 2026-07-26.*

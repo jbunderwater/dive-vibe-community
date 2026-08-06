@@ -17,7 +17,7 @@ Del Rio is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-The Del Rio is a steam schooner that wrecked off Anacapa Island, her remains resting in a shallow kelp-fringed rocky area at around 12 meters with sections of hull, machinery, and boiler scattered across the reef. The shallow depth and proximity to Anacapa's sea lion colony make it a lively dive — it's common to have inquisitive California sea lions weaving between divers while garibaldi flash orange against the kelp fronds above. Visibility here can be exceptional on calm summer days, reaching 20 meters or more in the clear Channel Islands water.
+The Del Rio is a steam schooner that wrecked off Anacapa Island, her remains resting in a shallow kelp-fringed rocky area at around 12 meters with sections of hull, machinery, and boiler scattered across the reef, at Frenchy's Cove — the island's most popular anchorage and landing spot, named for longtime resident fisherman Raymond "Frenchy" LeDreau. Visibility here can be exceptional on calm summer days, reaching 20 meters or more in the clear Channel Islands water.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Del Rio was a commercial fishing vessel that had previously served in mine-s
 
 ## Marine Life
 
-Frenchy's Cove on West Anacapa Island is sheltered from the prevailing northwest swell and is home to a resident California sea lion colony. Garibaldi — California's state saltwater fish — are abundant here in the kelp-fringed shallows. The Del Rio's hull sections provide relief structure for kelp bass, sheephead, and lingcod. The surrounding rocky reef supports coralline algae, sea urchins, and the cold-water invertebrates typical of Anacapa's nutrient-rich waters.
+No source consulted confirms specific marine life at the Del Rio wreck itself, and Islapedia's dedicated Frenchy's Cove page — while confirming the cove's name and history — does not describe a resident sea lion rookery there. Other Anacapa sites (Cathedral Cove, Underwater Arch) are the ones specifically documented by local operators as sea lion sites; California sea lions are commonly seen around Anacapa generally and divers do report occasional sightings at Frenchy's Cove, but this is not confirmed as a dedicated haul-out or rookery. Garibaldi, kelp bass, sheephead, and lingcod — named in a previous version of this description — were regional Channel Islands generalizations rather than confirmed sightings at this specific wreck, and have been removed.
 
 ## Dive Profile
 
@@ -45,11 +45,11 @@ Boat dive — Anacapa Island lies 11–14 miles off the Ventura/Oxnard coast. Da
 
 ## Tips and Recommendations
 
-Frenchy's Cove is one of the most accessible Anacapa dive sites. The sheltered cove makes it a reliable dive even when conditions elsewhere are rough. The resident California sea lions are playful and frequently approach divers in the water.
+Frenchy's Cove is one of the most accessible Anacapa dive sites. The sheltered cove makes it a reliable dive even when conditions elsewhere are rough. California sea lions from the island's broader population are sometimes seen here, though for reliable sea lion encounters divers typically head to Cathedral Cove or Underwater Arch instead.
 
 ## Safety Considerations
 
 Water temperature at Anacapa ranges from approximately 12°C (54°F) in winter to 18°C (65°F) in summer. A 7 mm wetsuit with hood and gloves is recommended; conditions are generally mild relative to the northern islands. The site is protected — disturbing or removing any artifacts is a federal offense.
 
 ---
-*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Shipwrecks: Anacapa Island](https://www.islapedia.com/index.php?title=SHIPWRECKS:_ANACAPA_ISLAND), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/northern-channel-islands/), [Peace Dive Boat](https://peaceboat.com/). Last updated 2026-05-20.*
+*Sources: [NOAA Channel Islands NMS - Shipwrecks](https://channelislands.noaa.gov/maritime/shipwrecks.html), [Islapedia - Shipwrecks: Anacapa Island](https://www.islapedia.com/index.php?title=SHIPWRECKS:_ANACAPA_ISLAND), [NPS - Channel Islands Shipwrecks](https://www.nps.gov/chis/learn/photosmultimedia/shipwreck.htm), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/northern-channel-islands/), [Peace Dive Boat](https://peaceboat.com/), [Islapedia - Frenchy's Cove, Anacapa Island](https://www.islapedia.com/index.php?title=Frenchy%E2%80%99s_Cove,_Anacapa_Island). Last updated 2026-07-23.*

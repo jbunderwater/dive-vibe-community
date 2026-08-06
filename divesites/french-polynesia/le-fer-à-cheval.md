@@ -21,7 +21,7 @@ Le Fer à Cheval is one of French Polynesia's most distinctive dive experiences 
 
 ## Marine Life
 
-The tunnel walls and ceiling are colonised by sponges in significant variety, studied in scientific census work. Prawns, lanternfish, and invertebrates adapted to low-light environments inhabit the tunnel's interior. On the ocean-facing exit of the tunnel, whitetip reef sharks have been recorded resting on the sand, and heteroconger (garden) eels and pipefish have been observed in the channel. The 200-metre route through the tunnel system yields diverse encrusting life throughout.
+The tunnel walls and ceiling are colonised by sponges in significant variety, studied in scientific census work. Prawns, lanternfish, and invertebrates adapted to low-light environments inhabit the tunnel's interior. On the ocean-facing exit of the tunnel, whitetip reef sharks have been recorded resting on the sand, and heteroconger (garden) eels and syngnathids (pipefish) have been observed in the channel — confirmed independently by the Tribloo dive-site database. The 200-metre route through the tunnel system yields diverse encrusting life throughout.
 
 ## Dive Profile
 
@@ -44,4 +44,4 @@ This is an overhead environment requiring proper buoyancy, torch, and dive exper
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Tahiti Iti Diving – Scuba Diving](https://tahitiitidiving.com/portfolio-item/scuba-diving/?lang=en), [Tahiti Tourisme – Tahiti Iti Diving](https://tahititourisme.pf/experiences/le-plein-activites/tahiti-iti-diving-taiarapu-est-fr-5003854/). Last updated 2026-05-17.*
+*Sources: [Tahiti Iti Diving – Scuba Diving](https://tahitiitidiving.com/portfolio-item/scuba-diving/?lang=en), [Tahiti Tourisme – Tahiti Iti Diving](https://tahititourisme.pf/experiences/le-plein-activites/tahiti-iti-diving-taiarapu-est-fr-5003854/), [Tribloo – Le Fer à Cheval](https://tribloo.com/fr/spot-plongee/971/le-fer-a-cheval.html). Re-audited 2026-08-03: added a third independent source confirming whitetip sharks, garden eels and pipefish at the site. Last updated 2026-08-03.*

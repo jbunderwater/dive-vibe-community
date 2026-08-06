@@ -37,9 +37,11 @@ Confirmed by ScubaGo and Les Baillantes Tortues for this site: spiny lobsters (l
 
 Note: Generic regional species (eagle rays, stingrays, nurse sharks) are not attributed to this specific site without per-site source confirmation and have been removed from previous descriptions.
 
+Re-audit (2026-08-05): heures-saines.com's "Pointe Lézarde" listing independently confirms this site's ridge-and-peaks topography and adds a new site-specific sighting not previously recorded: lionfish (an invasive species in the Caribbean). Turtles and jacks are also confirmed by this independent source.
+
 ## Dive Profile
 
 Rocky ridge from the surface descending between peaks. Navigate between the small peaks 6–40 m (recreational maximum 25 m). The geothermal basin is at 23 m. Multicoloured sponges cover the rocky formations throughout. Night dives available — sleeping turtles confirmed on the site.
 
 ---
-*Sources: [ScubaGo — Pointe Lézarde](https://www.scubago.com/en/explore/divesite/pointe-lzarde-68580), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/), [Wikipedia FR — Pointe à Lézard](https://fr.wikipedia.org/wiki/Pointe_%C3%A0_L%C3%A9zard), [Plongeur.com — Pointe à Lézard](https://www.plongee-loisir.com/site-de-plongee/3204-la-pointe-a-lezard). Last updated 2026-06-04.*
+*Sources: [ScubaGo — Pointe Lézarde](https://www.scubago.com/en/explore/divesite/pointe-lzarde-68580), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/), [Wikipedia FR — Pointe à Lézard](https://fr.wikipedia.org/wiki/Pointe_%C3%A0_L%C3%A9zard), [Plongeur.com — Pointe à Lézard](https://www.plongee-loisir.com/site-de-plongee/3204-la-pointe-a-lezard), [Les Heures Saines — Dive Spots, Cousteau Reserve](https://www.heures-saines.com/spots-de-plongee/reserve-cousteau/). Re-audited 2026-08-05. Last updated 2026-08-05.*

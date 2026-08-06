@@ -43,4 +43,4 @@ At the nearby artificial reef structures: sea-squirts, starburst anemones, damse
 - The Liberty Wreck is nearby — often combined with a reef dive
 
 ---
-*Sources: [Easy Divers - local dive sites](https://www.ezdivers.com/local-dive-sites/), [blog.scubatechdivers.com - artificial reefs](http://www.blog.scubatechdivers.com/2017/07/artificial-reefs-in-protaras-cyprus.html), [sirensdivecentre.com](https://sirensdivecentre.com/dive-sites). Last updated 2026-05-23.*
+*Sources: [Easy Divers - local dive sites](https://www.ezdivers.com/local-dive-sites/), [blog.scubatechdivers.com - artificial reefs](http://www.blog.scubatechdivers.com/2017/07/artificial-reefs-in-protaras-cyprus.html), [sirensdivecentre.com](https://sirensdivecentre.com/dive-sites). Last updated 2026-07-27.*

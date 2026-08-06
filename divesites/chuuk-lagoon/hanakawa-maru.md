@@ -13,13 +13,13 @@ addedBy: osm_import
 
 # Hanakawa Maru
 
-A 4,793-ton coal-powered freighter near remote Tol Island -- the most distant regularly dived wreck in Chuuk Lagoon, with marine life rivalling the celebrated Shinkoku Maru.
+A 4,793-ton coal-powered freighter near remote Tol Island -- the most distant regularly dived wreck in Chuuk Lagoon, with vividly colored soft coral growth on her superstructure.
 
 ## Overview
 
-The Hanakawa Maru was a 4,793-ton coal-powered freighter positioned near Tol Island when American torpedo bombers from USS Bunker Hill and USS Monterey struck on February 18, 1944, the second day of Operation Hailstone. The attacks destroyed the vessel, sending her to the lagoon floor at 34 meters, where she remains today.
+The Hanakawa Maru was a 4,793-ton coal-powered freighter positioned near Tol Island when American carrier aircraft from USS Bunker Hill and USS Monterey struck during Operation Hailstone. Sources disagree on the exact date: Truk Wreck Diving places the attack on the morning of February 17, 1944 (the first day of the operation), while other accounts place it on February 18. The attacks destroyed the vessel, sending her to the lagoon floor at 34 meters, where she remains today.
 
-Located approximately one hour by boat from Weno, the Hanakawa Maru is the most remote regularly dived wreck in Chuuk Lagoon. This remoteness means she receives far fewer visitors than the wrecks closer to Weno, and the reduced diver traffic has contributed to marine life growth that is reportedly comparable to the renowned Shinkoku Maru. The holds contain drums of aviation fuel, bags of cement, and possibly a torpedo. A 12cm Navy Short Gun remains mounted at the stern.
+Located approximately one hour by boat from Weno, the Hanakawa Maru is the most remote regularly dived wreck in Chuuk Lagoon. This remoteness means she receives far fewer visitors than the wrecks closer to Weno. The holds contain drums of aviation fuel, bags of cement, and possibly a torpedo. A 12cm Navy Short Gun remains mounted at the stern.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ Located approximately one hour by boat from Weno, the Hanakawa Maru is the most 
 
 ## Marine Life
 
-The Hanakawa Maru's marine life is one of its primary attractions, with coral growth and fish populations reported to rival those of the Shinkoku Maru -- one of the most biologically rich wrecks in Chuuk. The wreck's remoteness and infrequent diver visits have allowed coral formations to develop undisturbed. Hard and soft corals, sea fans, and sponges cover the superstructure and hull. Schools of reef fish, fusiliers, and jacks are abundant. Glassy sweepers fill interior spaces, and lionfish hunt along overhangs. The stern gun mount is typically encrusted with coral growth.
+One source (Truk Wreck Diving / Truk Stop Hotel dive center) describes the Hanakawa Maru as covered with "excellent and varied marine growth with numerous brilliantly colored soft corals, sponges, and algae-type growth" -- this coral/sponge growth is the one site-specific confirmation found during this QA pass. The wreck's remoteness and infrequent diver visits are frequently cited as contributing to less-disturbed conditions. No independent source confirms specific fish or shark species at this site, or that fish populations here "rival" the Shinkoku Maru -- that comparative claim has been removed as unverified.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The Hanakawa Maru's primary safety consideration is its remoteness -- approximat
 The Hanakawa Maru's outstanding marine life growth makes it one of Chuuk's best wrecks for combining wreck and reef photography. The coral-encrusted hull and superstructure provide vibrant foreground subjects against blue water backgrounds. The 12cm Navy Short Gun at the stern, framed by coral growth, is an iconic subject. The drums of aviation fuel in the holds create evocative cargo compositions. At 34 meters, ambient light is moderate -- strobes significantly enhance color and detail.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Hanakawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=230), [SS Thorfinn - Hanakawa Maru](https://thorfinn.net/the-hanakawa-maru-exploring-one-of-truk-lagoons-hidden-wreck-diving-gems/), [Truk Wreck Diving - Hanakawa Maru](http://trukwreckdiving.com/index.php/wreck-site-map/1-10/10-hanakawa-maru), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Tonnage discrepancy: McFadyen gives 4,793 tons; Truk Stop wreck map gives 4,739 tons -- unresolved. Last updated 2026-06-16.*
+*Sources: [Michael McFadyen's Scuba Diving - Hanakawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=230), [SS Thorfinn - Hanakawa Maru](https://thorfinn.net/the-hanakawa-maru-exploring-one-of-truk-lagoons-hidden-wreck-diving-gems/), [Truk Wreck Diving - Hanakawa Maru](http://trukwreckdiving.com/index.php/wreck-site-map/1-10/10-hanakawa-maru), [Scuba Diving Earth - Truk Lagoon Wrecks](https://www.scubadivingearth.com/blogs/blog/truk-lagoon-wrecks-the-deepest-biggest-most-popular-wrecks). Tonnage discrepancy: McFadyen gives 4,793 tons; Truk Stop wreck map gives 4,739 tons -- unresolved. Last updated 2026-07-26.*

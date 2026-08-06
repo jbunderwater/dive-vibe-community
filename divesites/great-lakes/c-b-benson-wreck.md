@@ -33,11 +33,7 @@ Lake Erie's north shore between Port Colborne and Port Dalhousie was a busy ship
 
 ## Marine Life
 
-Yellow perch are the most abundant fish around this wreck, gathering in large schools in the water column above the deck. Walleye — Lake Erie is North America's walleye fishing capital — patrol the area, especially at dawn and dusk. Smallmouth bass claim the hull openings as territory. Round gobies are present throughout. Zebra mussels cover all available hard surfaces below 10 metres.
-
-## Dive Profile
-
-The wreck sits upright on a flat sandy bottom. Begin at the bow, noting the hull construction typical of mid-19th-century Great Lakes schooners, then work aft along the deck. The mast stubs, capstan, and anchor hardware are points of interest. Hull penetration should be limited to trained wreck divers only. Return to the anchor line for your ascent and perform a 3-minute safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Lake Erie weather can be unpredictable. Check forecasts carefully, particularly 
 
 ## Photography
 
-The C. B. Benson provides excellent wreck photography opportunities at a manageable depth. Deck features, hull planking, and abundant yellow perch provide diverse subjects. Natural light from above creates attractive top-lit conditions on clear days.
+The C. B. Benson provides excellent wreck photography opportunities at a manageable depth. Natural light from above creates attractive top-lit conditions on clear days.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

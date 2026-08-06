@@ -2,7 +2,7 @@
 name: La Francesa
 lat: 20.317584
 lng: -87.031631
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 18
 entryType: boat
 siteType: reef
@@ -17,22 +17,22 @@ A southern Cozumel reef known for its healthy coral gardens and resident populat
 
 ## Overview
 
-La Francesa (The Frenchwoman) occupies the southern dive corridor of Cozumel's leeward coast, positioned between Palancar to the south and El Cedral to the north. The site features a spur-and-groove coral system with well-developed coral ridges interspersed by white sandy channels that attract rays and stingrays. The coral health here is notable — the southern reefs of Cozumel within the national park have experienced relatively lower bleaching stress compared to northern sites in recent thermal events. The 18-meter maximum depth and typically manageable currents place La Francesa in comfortable intermediate territory. It functions well both as a standalone dive and as the second site on a Palancar morning pairing.
+La Francesa (The Frenchwoman) occupies the southern dive corridor of Cozumel's leeward coast, positioned between Palancar to the south and El Cedral to the north. The site features small reef heads and ridges rising from a sandy bottom, with sandy channels that attract rays and stingrays. Note: sources disagree noticeably on La Francesa's depth range — The Reefs of Cozumel lists 9–18 meters (30–60 ft), a dedicated dive-site directory lists 18 meters, and at least one operator lists a deeper 15–30 meter range, possibly reflecting different named sections of the same general area. This entry uses the shallower 18-meter figure as its recorded maximum depth; treat depth as approximate and confirm with your operator. Difficulty ratings from sources also range from "novice to intermediate" to "intermediate to advanced" — this is not a purely beginner site by most accounts. It functions well both as a standalone dive and as the second site on a Palancar morning pairing. (Note: "La Francesa Shallows," a separate, shallower snorkel-friendly reef closer to shore, is a distinct site from the La Francesa Reef described here.)
 
 ## Site Information
 
 - **Location**: Southern leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
-- **Current**: Light to moderate northward drift
+- **Current**: Moderate, generally running north (sources note 1–3 knots is possible)
 - **Best Time**: November to April; year-round diving possible
 
 ## Marine Life
 
-Spotted eagle rays are a consistent feature at La Francesa — the sandy channels create natural corridors along which the rays cruise, and the moderate currents carry sufficient plankton and small invertebrates to keep them active in this zone. Southern stingrays rest in the sandy channels, sometimes partially buried. Hawksbill turtles graze throughout the site. Large queen triggerfish establish territories on the reef in summer months and can be observed in territorial behaviour around their nests. Yellowtail snapper and schoolmaster snapper aggregate in large schools under coral ledges. The splendid toadfish has been recorded at La Francesa — check crevices at 10–15 meters.
+Eagle rays are reported at La Francesa by multiple sources. Southern stingrays rest in the sandy channels. Turtles, black grouper, and green moray eels are documented here, along with schools of grunts and porkfish (sources do not specify yellowtail or schoolmaster snapper by name, so that species-level claim has been removed). The splendid toadfish is specifically confirmed at La Francesa by The Reefs of Cozumel — check reef holes. The earlier claim of queen triggerfish establishing visible nesting territories here was not supported by any source found and has been removed.
 
 ## Dive Profile
 
@@ -64,4 +64,4 @@ Eagle rays crossing the white sandy channels are a classic Cozumel image — use
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel — Dive Sites](https://www.reefsofcozumel.com/reefguide.html), [Blue Note Scuba — Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Scuba Diving Place — San Francisco & La Francesa](https://scubadiving.place/divesite/san-francisco-la-francesa). Last updated 2026-05-23.*
+*Sources: [The Reefs of Cozumel — La Francesa Reef](https://www.reefsofcozumel.com/lafrancesca.html), [The Scuba Directory — La Francesa](https://www.thescubadirectory.com/divesiteprofile/La-Francesa-Cozumel-Mexico-Dive-Site), [Triton Diving — Best Dive Sites in Cozumel](https://www.tritondiving.mx/en/the-best-dive-sites-in-cozumel/). Last updated 2026-07-27.*

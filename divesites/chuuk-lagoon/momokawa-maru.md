@@ -17,7 +17,7 @@ A 3,829-ton ice-strengthened timber transport with a dramatic 70-75 degree list 
 
 ## Overview
 
-The Momokawa Maru was a 3,829-ton vessel originally designed as an ice-strengthened timber transport, powered by a coal-fired steam turbine. On February 18, 1944, the second day of Operation Hailstone, she was struck by a 1,000-pound bomb that sent her to the lagoon floor at 41 meters. She now rests with a dramatic 70 to 75 degree list to port, making her one of the most severely tilted wrecks in Chuuk Lagoon.
+The Momokawa Maru was a 3,829-ton vessel originally designed as an ice-strengthened timber transport, powered by a coal-fired steam turbine. During Operation Hailstone (February 17-18, 1944), she was struck by a bomb that sent her to the lagoon floor at 41 meters; sources disagree on whether this occurred on the first or second day of the operation, so this description does not assert a specific date. She now rests with a dramatic 70 to 75 degree list to port, making her one of the most severely tilted wrecks in Chuuk Lagoon.
 
 The Momokawa Maru's holds contain an exceptional variety of military cargo. Aircraft tail sections, propeller blades, drop tanks, radial engines, trucks, and sheets of corrugated iron fill the cargo spaces. Hold 1, in particular, has been rated as comparable to the best holds on the celebrated Fujikawa Maru and San Francisco Maru -- high praise given the status of those two wrecks. The extreme list creates a challenging but rewarding diving environment, with interior spaces dramatically reoriented.
 
@@ -34,7 +34,7 @@ The Momokawa Maru's holds contain an exceptional variety of military cargo. Airc
 
 ## Marine Life
 
-The Momokawa Maru's exterior surfaces support coral colonization typical of Chuuk's mid-depth wrecks. Hard and soft corals, sea fans, and sponges encrust the exposed hull and superstructure. The extreme list has created sheltered pockets and overhangs along the port side that provide habitat for lionfish, scorpionfish, and schools of glassy sweepers. Fusiliers and jacks are seen in the surrounding water column.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Momokawa Maru. Chuuk Lagoon's regional reef fauna -- fish species and coral growth reported across the lagoon's wrecks generally -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The Momokawa Maru is a war grave -- removing any artifacts is strictly illegal u
 The Momokawa Maru's extreme list creates dramatic photographic compositions unlike most other wrecks. The near-vertical decks and reoriented hold interiors produce disorienting, powerful images. The cargo in Hold 1 -- aircraft tail sections, propeller blades, drop tanks, radial engines -- provides rich subject matter that ranks with the best in Chuuk. Strobes are essential at 41 meters. The extreme angle means careful strobe positioning is needed to avoid backscatter from silt that collects on the now-horizontal port-side surfaces.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Momokawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=236), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving - Momokawa Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=236), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/). Last updated 2026-07-26.*

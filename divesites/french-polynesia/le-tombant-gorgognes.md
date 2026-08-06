@@ -36,4 +36,4 @@ The gorgonian fans that dominate the wall face here can reach over a metre acros
 Entry is by boat from Papeete or Punaauia-area operators. The site is suitable for Open Water divers comfortable with walls; the recommended maximum depth is 25 m. A safety stop at 5 m on the reef crest, where corals are abundant, extends bottom time productively.
 
 ---
-*Sources: [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots), [DiveOtion - Scuba Diving in Tahiti](https://diveotion.com/scuba-diving-in-tahiti/), [Tahiti Tourisme](https://tahititourisme.pf/). Last updated 2026-05-30.*
+*Sources: [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots), [DiveOtion - Scuba Diving in Tahiti](https://diveotion.com/scuba-diving-in-tahiti/), [Tahiti Tourisme](https://tahititourisme.pf/). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

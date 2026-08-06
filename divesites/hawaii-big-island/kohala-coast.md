@@ -34,11 +34,11 @@ The PADI Blog article on Kohala diving notes that the tubes are "mostly flat and
 
 ## Key Sites
 
-**Frog Rock**: Depth 3–20 metres. Features lava tubes with many interconnecting caverns in the shallower sections. Sandy patches and coral fingers alternate. Porcupine pufferfish, octopus, and abundant invertebrates in the tube interiors. Strong currents are possible — confirm conditions with Kohala Divers before entry.
+**Frog Rock**: Depth approximately 6–21 metres (20–70 ft, re-confirmed this pass). Features lava tubes with many interconnecting caverns in the shallower sections. Sandy patches and coral fingers alternate. Porcupine pufferfish, octopus, and abundant invertebrates in the tube interiors. Strong currents are possible — confirm conditions with Kohala Divers before entry.
 
 **Lava Dome**: Depth 9–30 metres. The central feature is a volcanic rock dome standing about 9 metres (30 feet) high, encrusted in plate and knob coral described by operator sources as hundreds of years old. Beyond the dome, coral fingers extend to a ledge called "Pink Floyd" (a reference to Pink Floyd's album *The Wall*) at the outer reef edge, where schooling fish congregate. Blue dragon nudibranchs (Pteraeolidia ianthina) are a confirmed feature of this site.
 
-**Black Point**: Black lava wall and cavern structure; operator-level detail is limited in current public sources. Kohala Divers selects sites based on daily conditions, so Black Point may or may not be on any given itinerary.
+**Black Point**: Black lava wall and cavern structure. One source (lovebigisland.com) newly confirms Black Point as known for encounters with large lobsters; this has not yet been cross-confirmed by a second independent source, so it is noted here as single-sourced rather than fully verified. Kohala Divers selects sites based on daily conditions, so Black Point may or may not be on any given itinerary.
 
 ## Marine Life
 
@@ -80,4 +80,4 @@ Best approach is to book through Kohala Divers in Kawaihae, who select the two d
 - Always stay with your divemaster in the cavern sections
 
 ---
-*Sources: [PADI Blog — Diving the Lava Tubes of the Kohala Coast](https://blog.padi.com/diving-off-the-beaten-track-in-hawaii-the-lava-tubes-of-the-kohala-coast/), [World Adventure Divers — Lava Tubes Hawaii](https://worldadventuredivers.com/dive-in-lava-tubes-in-hawaii/), [Kohala Divers](https://www.kohaladivers.com/). Last updated 2026-06-06.*
+*Sources: [PADI Blog — Diving the Lava Tubes of the Kohala Coast](https://blog.padi.com/diving-off-the-beaten-track-in-hawaii-the-lava-tubes-of-the-kohala-coast/), [World Adventure Divers — Lava Tubes Hawaii](https://worldadventuredivers.com/dive-in-lava-tubes-in-hawaii/), [Kohala Divers](https://www.kohaladivers.com/), [Love Big Island — Big Island Scuba Diving Guide](https://www.lovebigisland.com/big-island-scuba-diving/). Re-audited 2026-08-05: re-confirmed Frog Rock and Lava Dome depth ranges against current source content; added single-sourced Black Point lobster detail (flagged as unconfirmed by a second source). Last updated 2026-08-05.*

@@ -19,6 +19,8 @@ Pointe Malendure is a shore dive departing from the black volcanic sand beach at
 
 Entry is from Malendure's black volcanic sand beach. The site descends through a seagrass meadow into a reef zone with drop-off potential to 35 metres (though the OSM-recorded maximum recreational depth for this entry is 20 m). Snorkeling Report confirms the seagrass zone and turtle activity. ScubaGo describes a plateau at 12 m and a canyon to the right with crustacean life.
 
+Re-audit (2026-08-05): heures-saines.com's own listing for Pointe Malendure independently confirms rocky formations scattered on a sandy bottom, plus black gorgonians and azure vase sponges — new species/feature detail not previously captured. heures-saines.com states a maximum depth of 18m for this stop, slightly below the 20m recorded here; treated as normal source rounding rather than a real conflict.
+
 ## Site Information
 
 - **Location**: Malendure Beach, Bouillante, Basse-Terre, Guadeloupe
@@ -38,4 +40,4 @@ Note: "Eagle rays" and "Caribbean reef sharks" attributed to this site in a prev
 Shore entry over dark volcanic sand — fins on before entering. Surge can make the final metres to shore challenging when northerly swell is present. Water shoes recommended. Use the guide rope for navigation.
 
 ---
-*Sources: [Snorkeling Report — Malendure Beach](https://www.snorkeling-report.com/spot/snorkeling-malendure-guadeloupe/), [Guadeloupe Islands Tourism — Turtles](https://www.lesilesdeguadeloupe.com/en/explore/the-fauna-and-flora-of-guadeloupe/sea-turtles/), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/), [ScubaGo — Pointe Malendure](https://www.scubago.com/en/explore/divesite/pointe-malendure-113628). Last updated 2026-06-04.*
+*Sources: [Snorkeling Report — Malendure Beach](https://www.snorkeling-report.com/spot/snorkeling-malendure-guadeloupe/), [Guadeloupe Islands Tourism — Turtles](https://www.lesilesdeguadeloupe.com/en/explore/the-fauna-and-flora-of-guadeloupe/sea-turtles/), [Les Baillantes Tortues — Dive Spots](https://lesbaillantestortues.com/dive-spots/), [ScubaGo — Pointe Malendure](https://www.scubago.com/en/explore/divesite/pointe-malendure-113628), [Les Heures Saines — Dive Spots, Cousteau Reserve](https://www.heures-saines.com/spots-de-plongee/reserve-cousteau/). Re-audited 2026-08-05. Last updated 2026-08-05.*

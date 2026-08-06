@@ -21,8 +21,6 @@ Sunset Ridge is located on the west side of Rarotonga, near the Sunset Resort an
 
 The underwater topography consists of a ridge and gully system from the anchor at 7 meters down through a gully at 12 meters to the outer ridge at 25 meters. Coral cover is approximately 15% with no sponges or gorgonians — consistent with the other west-coast sites in this area. The exceptional visibility (40+ meters) and calm west-side conditions are the site's primary assets.
 
-Note: the existing JSON listed depth as 30m; McFadyen's survey records the maximum depth at 25 meters.
-
 ## Site Information
 
 - **Location**: Near Sunset Resort, west side, Rarotonga, Cook Islands
@@ -58,4 +56,4 @@ Access by dive boat from Avatiu Harbour, approximately ten minutes. Entry by gia
 A gentle site with minimal hazards. Currents are rarely significant. The 25-meter maximum depth is well within recreational limits.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=519), [Dive Rarotonga](https://www.diverarotonga.com/dive-sites), [Pacific Divers](https://www.pacificdivers.co.ck/Diving-Map.html). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=519). Re-audited 2026-07-26: the previously cited Dive Rarotonga and Pacific Divers pages do not list this site under this name (Pacific Divers instead lists a differently-structured "Sunset Reef and Swim Throughs" with lava tubes, not confirmed as the same feature) and have been removed as citations. Only one independently confirmed site-specific source could be found despite additional research. Last updated 2026-07-26.*

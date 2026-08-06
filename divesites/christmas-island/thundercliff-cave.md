@@ -19,6 +19,8 @@ Thundercliff Cave is a two-chamber sea cave on Christmas Island's north coast, e
 
 Thundercliff Cave sits on the north coast of Christmas Island and comprises two interconnected caverns. The first chamber is a large, open space with a spectacular natural light show at the entrance as blue light filters through the submerged opening. A second cave beyond the first contains notable limestone formations, including stalactites and stalagmites and a distinctive hanging shroud formation. The outer reef beyond the cave entrance runs flat at around 12 metres before dropping away. Dive operators Extra Divers Christmas Island and Wet n Dry Adventures both run trips to this site.
 
+On the flatter reef outside the cave entrance, both DivePlanit and Scuba Diver Life independently document the same set of reef fish: leatherjackets, several species of butterflyfish (including ornate butterflyfish), surgeonfish, goldspot seabream, and spotted hawkfish. No larger pelagic species (sharks, rays, or similar) are documented for this specific site in available sources.
+
 ## Site Information
 
 - **Location**: Christmas Island, Oceania
@@ -28,4 +30,4 @@ Thundercliff Cave sits on the north coast of Christmas Island and comprises two 
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [DivePlanit – Thundercliff Cave](https://www.diveplanit.com/dive-site/thundercliff-cave/), [Scuba Diver Life – Christmas Island](https://scubadiverlife.com/scuba-diving-christmas-island/), [X-Ray Mag – Christmas Island](https://xray-mag.com/content/christmas-island-australias-own-galapagos). Last updated 2026-05-22.*
+*Sources: [DivePlanit – Thundercliff Cave](https://www.diveplanit.com/dive-site/thundercliff-cave/), [Scuba Diver Life – Christmas Island](https://scubadiverlife.com/scuba-diving-christmas-island/), [X-Ray Mag – Christmas Island](https://xray-mag.com/content/christmas-island-australias-own-galapagos). Last updated 2026-07-23.*

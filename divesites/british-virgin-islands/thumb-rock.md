@@ -59,7 +59,7 @@ Thumb Rock is rated highly for photography across multiple subjects. The creole 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/thumb-rock/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/thumb-rock/), [Dive BVI](https://divebvi.com/dive-sites/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-07-23.*

@@ -34,7 +34,7 @@ The diving is characterised by sheltered conditions, shallow depth, and the GBR'
 
 ## Marine Life
 
-The Whitsunday section of the GBR supports different species composition from the northern sites. Maori wrasse are present and habituated to the regular dive traffic. Sea turtles are common. The reef around the pontoon holds good populations of parrotfish, surgeonfish, and the smaller reef fish families. Stingrays cruise the sandy areas. In clearer conditions, the reef shows the classic GBR diversity of hard corals and associated fish. Octopus are occasionally encountered in the reef crevices. The slightly warmer Whitsunday water supports prolific soft coral growth in sheltered areas.
+*Re-audited 2026-08-03*: no operator source consulted (Cruise Whitsundays, Visit Whitsunday Islands, Barrier Reef Australia) itemises specific species seen at this pontoon. The species listed here (Maori wrasse, sea turtles, parrotfish, surgeonfish, stingrays, octopus, soft corals) represent general Whitsunday-section GBR fauna rather than confirmed site-specific sightings — presented as regional context rather than a guaranteed encounter list.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ The pontoon operation runs with multiple staff in the water at all times during 
 The shallow depth and protected conditions make this an accessible underwater photography venue. Sea turtles are reliably approachable. The reef fish are accustomed to divers and allow close approach. For beginning photographers, this pontoon site offers forgiving conditions to learn without strong current or deep water.
 
 ---
-*Sources: [Cruise Whitsundays - Great Barrier Reef](https://www.cruisewhitsundays.com/destinations/great-barrier-reef/), [Visit Whitsunday Islands - Hardy Reef](https://visitwhitsundayislands.com.au/places-to-go/reefs/hardy-reef/), [Barrier Reef Australia - Hardy Reef Reefworld](https://www.barrierreefaustralia.com/things-to-do/tours/whitsundays-great-barrier-reef-pontoon-tour-to-hardy-reef-reefworld.497/). Last updated 2026-05-30.*
+*Sources: [Cruise Whitsundays - Great Barrier Reef](https://www.cruisewhitsundays.com/destinations/great-barrier-reef/), [Visit Whitsunday Islands - Hardy Reef](https://visitwhitsundayislands.com.au/places-to-go/reefs/hardy-reef/), [Barrier Reef Australia - Hardy Reef Reefworld](https://www.barrierreefaustralia.com/things-to-do/tours/whitsundays-great-barrier-reef-pontoon-tour-to-hardy-reef-reefworld.497/). Marine-life list clarified as regional rather than site-confirmed on re-audit. Last updated 2026-08-03.*

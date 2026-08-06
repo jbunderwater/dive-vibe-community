@@ -32,7 +32,7 @@ Deep Turbo is an offshore pinnacle in the channel around the Gili Islands, reser
 
 ## Marine Life
 
-Reef sharks are reliably present on the upcurrent face of the pinnacle. Eagle rays and stingrays pass in the open water. Giant trevally and barracuda hunt around the pinnacle. Schooling fusiliers and snapper fill the mid-water zone. The pinnacle structure hosts gorgonian fans and soft corals that have established in the strong current.
+White and black tip reef sharks are reliably present on the pinnacle. Spotted eagle rays and blue-spotted stingrays pass in open water. Schools of batfish and giant bumphead parrotfish work the pinnacle face, and green turtles are occasionally seen sleeping in the lee of the rock. Cryptic pygmy seahorses shelter in the giant gorgonian sea fans and soft corals that blanket the structure — look carefully, they are easy to miss.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Strong current is the primary hazard. Be prepared to abort immediately and surfa
 Eagle rays in strong current against vivid blue water are the defining shot of Deep Turbo. Reef sharks on the upcurrent pinnacle face with schools of snapper behind them suit wide-angle. Fast shutter speeds are needed for the moving fish in current.
 
 ---
-*Sources: [Manta Dive Gili Air – Deep Turbo](https://manta-dive-giliair.com/gili-islands-dive-sites/deep-turbo-advanced-and-above), [Trawangan Dive – dive sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-05-30.*
+*Sources: [Manta Dive Gili Air – Deep Turbo](https://manta-dive-giliair.com/gili-islands-dive-sites/deep-turbo-advanced-and-above), [Trawangan Dive – dive sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Divine Divers – Gili dive sites](https://divinedivers.com/dive-sites/). Last updated 2026-08-03.*

@@ -29,7 +29,7 @@ The USS Alligator was a US Navy anti-piracy schooner commissioned in 1821 that r
 
 ## Marine Life
 
-The protected Sanctuary Preservation Area reef around the wreck remnants is documented to support over 500 species. Common sightings reported by Islamorada operators include nurse sharks, goliath grouper, sea turtles, spotted eagle rays, and barracuda alongside the usual Keys reef fish life.
+The protected Sanctuary Preservation Area reef around the wreck remnants is documented to support over 500 species. Islamorada Dive Center's current site listing reports nurse sharks, goliath grouper, sea turtles, spotted eagle rays, barracuda, yellowtail snapper, parrotfish, queen angelfish, French grunt, green moray eels, spiny lobster, and occasional hammerhead sharks at this reef.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Boat dive only. The Sanctuary Preservation Area designation prohibits anchoring 
 This is a benign site in most conditions, but the shallow depth means surface chop and boat traffic around the lighthouse are the main hazards. Stay close to the mooring line on descent and ascent, and watch for vessel traffic when surfacing. The site sits inside the Florida Keys National Marine Sanctuary — do not touch, take, or disturb any artifact or coral.
 
 ---
-*Sources: [Wikipedia — USS Alligator (1820)](https://en.wikipedia.org/wiki/USS_Alligator_(1820)), [US Navy History — USS Alligator Potential Wreck Site](https://www.history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/uss-alligator.html), [NOAA Ocean Explorer — Hunt for the USS Alligator](https://oceanexplorer.noaa.gov/projects/04alligator/welcome.html), [Islamorada Dive Center — Alligator Reef](https://www.islamoradadivecenter.com/florida-keys-dive-sites/alligator-reef), [NPS — USS Alligator Shipwreck](https://www.nps.gov/articles/ussalligator.htm). Last updated 2026-05-25.*
+*Re-audited 2026-08-02: the previously cited oceanexplorer.noaa.gov page is no longer reachable (404) and has been replaced with NOAA's current Florida Keys National Marine Sanctuary page for this wreck, below. Build date, length, grounding/burning narrative, and the unresolved 1996-expedition identification question were all re-confirmed with no corrections needed. Sources: [Wikipedia — USS Alligator (1820)](https://en.wikipedia.org/wiki/USS_Alligator_(1820)), [US Navy History — USS Alligator Potential Wreck Site](https://www.history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/uss-alligator.html), [NOAA FKNMS — USS Alligator](https://floridakeys.noaa.gov/shipwrecks/uss-alligator.html), [Islamorada Dive Center — Alligator Reef](https://www.islamoradadivecenter.com/florida-keys-dive-sites/alligator-reef), [NPS — USS Alligator Shipwreck](https://www.nps.gov/articles/ussalligator.htm). Last updated 2026-08-02.*

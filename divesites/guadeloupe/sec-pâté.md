@@ -21,6 +21,8 @@ The pinnacle consists of three rocky peaks whose summits reach approximately 15 
 
 Local operators describe this as "THE legendary dive in the Caribbean." Dive conditions are assessed on the morning of each excursion and the dive is cancelled if swell or current is excessive. The boat trip from Les Saintes takes approximately 25 minutes.
 
+Re-audit (2026-08-05): tribloo.com's Les Saintes destination page independently corroborates this as the region's top-rated site, describing it as an underwater mountain rising approximately 185 metres from the seabed to emerge as a small rocky islet at the surface. That figure is broadly consistent with a summit near 15m and walls descending well beyond recreational range, though sources do not fully agree on the exact seabed depth (300m per Dive O'Clock vs. an implied ~200m if the pinnacle's total height is 185m starting near the surface) — treated as approximate rather than reconciled.
+
 **Certification requirements**: Minimum CMAS Level 2 / PADI Advanced Open Water with Deep Dive speciality; 50+ logged dives verified by logbook; PE40 level or equivalent.
 
 ## Dive Profile
@@ -48,4 +50,4 @@ Wide-angle or fisheye lens recommended. The schooling horse-eye jacks, large ang
 
 ---
 
-*Sources: [Dive O'Clock — Sec Pâté, Guadeloupe](https://www.diveoclock.com/destinations/Caribbean/Guadeloupe/SecPate/), [Tribloo — Le Sec Pâté dive site](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [Guadeloupe Voile Aventure — Sec Pâté guide](https://www.guadeloupe-voile-aventure.com/sec-pate-bien-plus-quune-plongee-lascension-dun-sommet-sous-marin-mythique/), [Guadeloupe Islands Tourism — Infini Plongée au Sec Pâté](https://www.lesilesdeguadeloupe.com/tourism/en-us/activities/6382-infini-plongee-diving-on-the-sec-pate). Last updated 2026-06-04.*
+*Sources: [Dive O'Clock — Sec Pâté, Guadeloupe](https://www.diveoclock.com/destinations/Caribbean/Guadeloupe/SecPate/), [Tribloo — Le Sec Pâté dive site](https://tribloo.com/en/dive-sites/493/le-sec-p%C3%A2te-the-pate-pinnacle.html), [Guadeloupe Voile Aventure — Sec Pâté guide](https://www.guadeloupe-voile-aventure.com/sec-pate-bien-plus-quune-plongee-lascension-dun-sommet-sous-marin-mythique/), [Guadeloupe Islands Tourism — Infini Plongée au Sec Pâté](https://www.lesilesdeguadeloupe.com/tourism/en-us/activities/6382-infini-plongee-diving-on-the-sec-pate). Re-audited 2026-08-05, pinnacle-height detail added above. Last updated 2026-08-05.*

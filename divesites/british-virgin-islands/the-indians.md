@@ -65,4 +65,4 @@ The Indians is arguably the BVI's best wide-angle photography site. The vertical
 - The Bight at Norman Island: standard yacht anchorage — the site is 10 minutes by dinghy from the anchorage
 
 ---
-*Sources: [Dive BVI](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Blue Water Divers BVI](https://bluewaterdiversbvi.com/dive-sites/), [BVI Scuba](https://bviscuba.org/diving-info/). Last updated 2026-05-20.*
+*Sources: [Dive BVI](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Blue Water Divers BVI](https://bluewaterdiversbvi.com/dive-sites/), [BVI Scuba](https://bviscuba.org/diving-info/). Last updated 2026-07-23.*

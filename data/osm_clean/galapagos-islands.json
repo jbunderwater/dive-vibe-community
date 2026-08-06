@@ -14,7 +14,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "scubaiguana.com,galapatours.com,theportuguesetraveler.com,starfish.ch",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -32,7 +32,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "scubaiguana.com,academybaydiving.com,happygringo.com,scubaboard.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -49,8 +49,8 @@
       "name": "Plazas",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "starfish.ch,theportuguesetraveler.com,academybaydiving.com",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "starfish.ch,theportuguesetraveler.com,academybaydiving.com,happygringo.com",
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -66,7 +66,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "happygringo.com,aquaventuresgps.com,planetoceangalapagos.com,theportuguesetraveler.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -81,8 +81,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "starfish.ch,liveaboard.com,aquamundogalapagos.com,galapagosconservation.org.uk",
-      "last_qa_date": "2026-05-30"
+      "validation_source": "starfish.ch,liveaboard.com,aquamundogalapagos.com,iucnredlist.org",
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -98,7 +98,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "scubaiguana.com,royalgalapagos.com,dive-the-world.com,starfish.ch",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -114,7 +114,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "starfish.ch,dive-the-world.com,liveaboard.com,scubadivingearth.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -130,7 +130,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "scubaiguana.com,academybaydiving.com,happygringo.com,scubaboard.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -146,7 +146,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "scubaiguana.com,academybaydiving.com,theportuguesetraveler.com,galapagosdivingdaytrips.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -162,7 +162,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "scubaiguana.com,naturegalapagos.com,academybaydiving.com,padi.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -172,14 +172,15 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community",
       "addedBy": "scubaboard_user_dan",
       "region": "San Cristobal",
       "validated": "true",
       "validation_source": "galapatours.com,theportuguesetraveler.com,scubaiguana.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "difficulty_note": "bumped Intermediate->Advanced 2026-08-03 per project policy: remote liveaboard destinations carry an Advanced floor even where site conditions are locally mild"
     }
   },
   {
@@ -189,14 +190,15 @@
     "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community",
       "addedBy": "scubaboard_user_dan",
       "region": "North Seymour",
       "validated": "true",
       "validation_source": "scubaboard.com,liveaboard.com,dive-the-world.com,starfish.ch",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03",
+      "difficulty_note": "bumped Intermediate->Advanced 2026-08-03 per project policy: remote liveaboard destinations carry an Advanced floor even where site conditions are locally mild"
     }
   },
   {
@@ -213,7 +215,7 @@
       "region": "Wolf Island",
       "validated": "true",
       "validation_source": "galapatours.com,happygringo.com,dive-the-world.com,starfish.ch",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -230,7 +232,7 @@
       "region": "Wolf Island",
       "validated": "true",
       "validation_source": "galapatours.com,happygringo.com,liveaboard.com,starfish.ch",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -247,7 +249,7 @@
       "region": "Darwin Island",
       "validated": "true",
       "validation_source": "wikipedia.org,masterliveaboards.com,happygringo.com,dive-the-world.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   },
   {
@@ -264,7 +266,7 @@
       "region": "Fernandina",
       "validated": "true",
       "validation_source": "liveaboard.com,galapatours.com,deepbluecoast.com,xray-mag.com",
-      "last_qa_date": "2026-05-30"
+      "last_qa_date": "2026-08-03"
     }
   }
 ]

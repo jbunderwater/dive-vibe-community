@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Secret beach
 
-Secret Beach is a house reef dive at Vrbnik, Krk Island, operated by the local dive centres. Its "secret" character comes from the hidden access — divers enter the water through a small cave that opens onto a concealed beach. The site is only a few metres from the dive centre and is used for training dives as well as recreational exploration. The reef drops from the sheltered entry area to a 30-metre wall.
+Secret Beach (locally *Pod Kovač*) is a house reef dive at Vrbnik, Krk Island, operated by the local dive centres. Its "secret" character comes from the hidden access — divers enter the water through a small passage/cave that opens onto a concealed beach. The Vrbnik tourist board's own site (vrbnik.hr) independently confirms this access description — "hidden behind a passage through the rocks," with a long, shallow entrance leading to a steep cliff — and gives the same 30-metre maximum depth used here. The site is only a few metres from the dive centre and is used for training dives as well as recreational exploration.
 
 ## Overview
 
-The hidden beach is reached through a short cave passage, giving the site its name. The dive area features columns encrusted with crabs and shrimp, and the transition to the steep 30-metre wall provides a more challenging element for experienced divers. Night diving at this site regularly produces octopus activity. The Kvarner's clear water makes this an excellent photography site even for beginners.
+The hidden beach is reached through a short rock passage, giving the site its name. The dive area features columns encrusted with crabs and shrimp, and the transition to the steep 30-metre wall provides a more challenging element for experienced divers. Night diving at this site regularly produces octopus activity. The Kvarner's clear water makes this an excellent photography site even for beginners.
 
 ## Site Information
 
-- **Location**: Few metres from dive centre, Vrbnik, Krk Island, Kvarner, Croatia
+- **Location**: Pod Kovač, few metres from dive centre, Vrbnik, Krk Island, Kvarner, Croatia
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -32,7 +32,7 @@ The hidden beach is reached through a short cave passage, giving the site its na
 
 ## Marine Life
 
-Local dive operators confirm: crabs and shrimp on the encrusted columns; octopus (particularly active on night dives). No additional site-specific species claims made.
+Dive Center KRK and Dive Loft KRK confirm crabs and shrimp on the encrusted columns, and octopus (particularly active on night dives). Vrbnik.hr describes the site more generally as "rich in sea flora and fauna" without naming individual species.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ The sheltered hidden beach position makes this one of the most benign entry poin
 The crabs and shrimp on the encrusted columns are excellent macro subjects. The cave entry passage creates an atmospheric composition for wide-angle. Night dive photography of octopus hunting in the shallow zone is a highlight.
 
 ---
-*Sources: [Dive Center KRK – Secret Beach](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Secret Beach](https://www.dive-loft-krk.com/dive-sites/), [DiVeSSI – Secret Beach](https://www.divessi.com/en/mydiveguide/divesite/secret-beach-croatia-412837). Last updated 2026-05-23.*
+*Sources: [Dive Center KRK – Dive Sites](https://www.dive-center-krk.com/dive-sites/), [Dive Loft KRK – Dive Sites](https://www.dive-loft-krk.com/dive-sites/), [Vrbnik.hr – Secret Beach](https://vrbnik.hr/en/secret-beach/). Last updated 2026-07-27.*

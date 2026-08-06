@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Grotta
 
-Grotta ("grotto" or "cave" in Italian/Croatian) is an underwater cave and cavern dive near Krk Island in the Kvarner region. The site combines a cave exploration element with an exterior reef area on the rocky Adriatic seafloor, offering a varied dive experience at intermediate depths.
+Grotta ("grotto" or "cave" in Italian/Croatian) is a generic-sounding name, and despite a dedicated search of German- and English-language Kvarner dive operator sites (Dive Loft Krk, Dive Center Krk, Styria-Günis Diving, Krk Outdoor, reiseinfo-kroatien.com) and forums, no operator or guide lists a named site called "Grotta" at or near these coordinates (45.0828, 14.3675). It may be an informal/generic label rather than an established site name, or a cave known locally under a different name. The description below is retained as unverified regional characterisation, not confirmed site-specific fact.
 
 ## Overview
 
-The cave and cavern formations at this site descend to around 20–25 metres, with the main accessible sections featuring natural light penetration from the entrance. The cave interior walls are encrusted with sponges, sea anemones, and colourful coralline algae. Outside the cave, the rocky reef terrain supports a healthy community of Mediterranean marine life typical of the northern Adriatic. Visibility is typically 15–20 metres in the clear Kvarner waters.
+No site-specific source was found describing this location. The paragraph below reflects general characteristics of Kvarner cave/cavern dives and should not be read as confirmed for this specific site.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Cavern diving principles apply: always maintain sight of natural light, ensure a
 The cavern entrance with sunbeams penetrating from outside is the signature composition at this site. A diver silhouetted against the light-filled entrance makes a compelling image. Torch-lit macro shots of the encrusted interior walls and resident crustaceans round out a productive photography day.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Description based on regional diving characteristics. No site-specific sources found despite targeted research into Kvarner-area dive operator site lists and German-language dive guides. Last updated 2026-07-27.*

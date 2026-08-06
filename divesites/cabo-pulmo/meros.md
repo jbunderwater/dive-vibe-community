@@ -39,4 +39,4 @@ Depths from 9 to 18 meters along the reef bar. Follow the meandering coral forma
 - Keep an eye on the blue water — whale sharks and mobulas transit through without warning
 
 ---
-*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Cabo Pulmo Diving – Gourmet Menu](https://cabopulmodiving.com/our-gourmet-diving-menu/), [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo). Last updated 2026-05-20.*
+*Sources: [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Girls That Scuba](https://www.girlsthatscuba.com/scuba-diving-cabo-pulmo-mexico/), [ScubaBoard](https://scubaboard.com/community/threads/baja-in-november-december.434943/). Re-audited 2026-07-23: cabopulmodiving.com is offline and cabopulmo.com does not actually mention Meros on re-check — both dropped and replaced with confirmed sources ("El Bajo de los Meros"). Last updated 2026-07-23.*

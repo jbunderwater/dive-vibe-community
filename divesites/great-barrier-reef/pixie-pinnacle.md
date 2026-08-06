@@ -2,7 +2,7 @@
 name: Pixie Pinnacle
 lat: -14.929769
 lng: 145.6755024
-difficulty: Beginner
+difficulty: Advanced
 maxDepth: 18
 entryType: boat
 siteType: pinnacle
@@ -26,7 +26,7 @@ The site is calm, shallow, and easily navigated, making it genuinely accessible 
 - **Location**: Ribbon Reefs, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Generally mild
@@ -34,7 +34,7 @@ The site is calm, shallow, and easily navigated, making it genuinely accessible 
 
 ## Marine Life
 
-Pixie Pinnacle is the GBR's premier site for pygmy seahorses, with multiple individuals reliably found on the sea fans near the base of the pinnacle. Nudibranchs are abundant and varied — ghost pipefish, seamoths, and juvenile frogfish have all been documented here. Clownfish inhabit the anemones tucked into the coral, while pipefish weave through soft coral branches. Glassfish schools drift around the upper pinnacle in shimmering clouds, attracting small trevally and fusiliers. On the sand at the base, mantis shrimp and flatworms add further variety for methodical macro hunters.
+Great Barrier Reef Tours confirms pygmy seahorses on sea fans deeper than 24 metres at this site (a depth beyond our data's 18m listing — noted as a discrepancy). Spirit of Freedom's site listing separately confirms barracuda, trevally, anthias, nudibranchs, pipefish, lionfish, hydroids, mantis shrimp, stonefish, octopus, and flame file shells. Ghost pipefish are documented as a Ribbon Reefs-wide macro subject rather than confirmed specifically at this site. Earlier claims of seamoths, juvenile frogfish, clownfish, glassfish schools, and flatworms were not corroborated by any source and have been removed.
 
 ## Dive Profile
 
@@ -58,7 +58,7 @@ Conditions are generally benign. The main hazard is losing your sense of time �
 
 ## Photography
 
-Pixie Pinnacle may be the single best macro photography site on the GBR. The diversity of subjects — pygmy seahorses, nudibranchs, ghost pipefish, clownfish, glassfish schools — means every dive produces publishable images. Shoot the wide soft coral structures first for establishing shots, then work systematically through the smaller subjects. The ambient light in the 8–12 metre zone is excellent during mid-morning dives.
+Pixie Pinnacle is a strong macro photography site. The confirmed subjects — pygmy seahorses (below 24m), nudibranchs, pipefish, lionfish, mantis shrimp, stonefish, and flame file shells — mean every dive produces strong images. Shoot the wide soft coral structures first for establishing shots, then work systematically through the smaller subjects.
 
 ---
-*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Cairns Dive Adventures - Ribbon Reefs](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*
+*Sources: [Spirit of Freedom - Ribbon Reefs itinerary](https://www.spiritoffreedom.com.au/ribbon-reefs/), [Dive the World - Ribbon Reefs](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-ribbon-reefs.php), [Great Barrier Reef Tours - Pixie Pinnacle](https://greatbarrierreeftours.com/great-barrier-reef/coral-sea-reefs/pixie-pinnacle/). Marine-life list corrected to sourced species; pygmy seahorse depth discrepancy flagged. Last updated 2026-08-03.*

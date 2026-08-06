@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Merida (Wrack)
 
-The Merida is a 19th-century wooden schooner wreck in Lake Erie, lying in approximately 20 metres of water in the central or north-central Lake Erie basin. This vessel represents the commercial sailing heritage of Lake Erie's busiest trading era, preserved in cold freshwater conditions.
+The Merida is a 20th-century steel propeller steamer wreck in Lake Erie, lying between Southeast Shoal and Long Point in the north-central basin. Built in 1893, she foundered in a storm on October 20, 1916 with the loss of her entire crew — sources report the number lost as either 23 or 24, and this has not been definitively resolved.
 
 ## Overview
 
-The Merida rests on the Lake Erie lakebed in approximately 20 metres of cold freshwater in the north-central section of the lake, likely near the Ontario north shore. Lake Erie's cold, dark bottom water has preserved this wooden-hulled vessel beyond what would be possible in saltwater, keeping hull planking, rigging hardware, and structural elements intact for more than a century. The central Lake Erie basin has cleaner conditions than the western basin, with visibility ranging from 5 to 15 metres in good conditions. The site provides the archetypal Lake Erie wreck diving experience.
+The Merida was a steel-hulled propeller steamer, 360 feet in length and about 3,329 gross tons, built in 1893. On October 20, 1916, she foundered in a Lake Erie storm between Southeast Shoal and Long Point while carrying a cargo of iron ore; the steamer Calcite reported meeting her about sixty miles from Southeast Shoal shortly before she was lost, possibly the last vessel to sight her. Everyone aboard died — sources disagree on the precise figure, citing either 23 or 24 crew. She now rests on the Lake Erie lakebed. Lake Erie's cold, dark bottom water has preserved the steel hull well, and the central Lake Erie basin has cleaner conditions than the western basin, with visibility ranging from 5 to 15 metres in good conditions.
 
 ## Site Information
 
@@ -33,11 +33,7 @@ The Merida rests on the Lake Erie lakebed in approximately 20 metres of cold fre
 
 ## Marine Life
 
-Yellow perch school prominently around the Merida's hull in summer — often in groups of hundreds, these fish are the most striking wildlife encounter on Lake Erie wreck dives. Walleye patrol the structure edges. Smallmouth bass are territorial on the hull. Round gobies cover the bottom sediment. Zebra mussels blanket all hard surfaces. Occasional lake trout visits add excitement, particularly at dawn and dusk.
-
-## Dive Profile
-
-Standard bow-to-stern wreck exploration. The 20-metre depth provides adequate bottom time for full hull inspection. Flat sandy bottom makes navigation and buoyancy management straightforward. Ascend on the anchor or mooring line for a 3-minute safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -56,7 +52,7 @@ Lake Erie's weather can change rapidly. Monitor forecasts carefully. Cold bottom
 
 ## Photography
 
-Dense perch schools and the preserved wooden hull provide rewarding photographic subjects. Lake Erie's blue-green ambient light gives freshwater wreck photos their characteristic character.
+The preserved steel hull provides rewarding photographic subjects. Lake Erie's blue-green ambient light gives freshwater wreck photos their characteristic character.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [SS Merida - Wikipedia](https://en.wikipedia.org/wiki/SS_Merida), [Maritime History of the Great Lakes - Merida](https://images.maritimehistoryofthegreatlakes.ca/45218/data), [Alchem Incorporated - Erie-Ashtabula Shipwrecks](https://www.alcheminc.com/asht.html). Last updated 2026-08-03.*

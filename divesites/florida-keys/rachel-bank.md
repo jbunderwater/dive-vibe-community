@@ -36,4 +36,4 @@ No public source reviewed describes: the site's marine life, depth profile, curr
 Standard Florida Keys boat-diving precautions apply: dive within your certification limits, monitor air and depth, deploy an SMB on ascent, and confirm conditions with the boat crew before entering the water.
 
 ---
-*No site-specific dive sources located despite 2026-05-25 research. Description reflects only OpenStreetMap-recorded data. Divers should contact Marathon/Lower Keys area operators directly. Last updated 2026-05-25.*
+*No site-specific dive sources located despite research passes on 2026-05-25 and 2026-08-02 (searches for the site name alongside Hawk Channel and Marathon returned only nautical-chart listings, not dive operator content). Description reflects only OpenStreetMap-recorded data. Divers should contact Marathon/Lower Keys area operators directly. Last updated 2026-08-02.*

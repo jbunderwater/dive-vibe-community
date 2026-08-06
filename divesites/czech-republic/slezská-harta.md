@@ -56,4 +56,4 @@ This is a technical diving site. Cold water at depth, boat-only access, and the 
 - A dry suit and appropriate thermal undergarments are essential
 
 ---
-*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=253), [Wikipedia - Slezská Harta Reservoir](https://en.wikipedia.org/wiki/Slezsk%C3%A1_Harta_Reservoir), [City of Bruntál - Recreational Area](https://www.mubruntal.cz/en/vismo/dokumenty2.asp?id_org=101072&id=1034). Last updated 2026-05-23.*
+*Sources: [Strany potápěčské (Zdeněk Šraier)](https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=253), [Wikipedia - Slezská Harta Reservoir](https://en.wikipedia.org/wiki/Slezsk%C3%A1_Harta_Reservoir), [City of Bruntál - Recreational Area](https://www.mubruntal.cz/en/vismo/dokumenty2.asp?id_org=101072&id=1034), [Poznatsvět.cz - Vodní nádrž Slezská Harta](https://www.poznatsvet.cz/cestovani/vodni-nadrz-slezska-harta/). Last updated 2026-07-27.*

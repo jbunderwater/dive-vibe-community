@@ -3,7 +3,7 @@ name: Five Finger Rock
 lat: 15.5908
 lng: -61.4756
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 27
 entryType: boat
 siteType: reef
 ref: null
@@ -25,11 +25,11 @@ Located in the Cabrits Marine Park, Five Finger Rock is one of the area's most p
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 27 meters
 
 ## Marine Life
 
-Spotted eagle rays are a signature sighting at Five Finger Rock, confirmed by multiple operator sources. Squirrelfish, tobacco fish, flounders, and angelfish are documented among the sponge gardens. Caribbean reef squid travel the site in synchronised formations. Sea turtles and southern stingrays are regularly found on the surrounding sand at the base of the formation. Banded coral shrimp and yellowline arrow crabs inhabit the coral heads.
+Spotted eagle rays are a signature sighting at Five Finger Rock, confirmed directly by Cabrits Dive Center. Squirrelfish, tobacco fish, flounders, and angelfish are documented among the sponge gardens. Caribbean reef squid travel the site in synchronised formations per Scuba Diving Magazine (not independently re-verified this pass — the page currently blocks automated access — but no contrary evidence was found). Sea turtles and southern stingrays are regularly found on the surrounding sand at the base of the formation. Banded coral shrimp and yellowline arrow crabs inhabit the coral heads. PADI's dive site page lists generic "Sharks, Whales, Dolphins, Turtles" marine-life tags for this listing; these read as regional boilerplate rather than site-specific confirmations and are not included above.
 
 ---
-*Sources: [Cabrits Dive Center](https://cabritsdive.com/diving-in-dominica/), [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Scuba Travel](https://www.scubatravel.co.uk/dominica/dominicadive.html), [PADI](https://www.padi.com/dive-site/dominica/five-fingers-2/), [Scuba Diving Magazine](https://www.scubadiving.com/travel/caribbean-atlantic/dominica-north-south). Last updated 2026-05-24.*
+*Sources: [Cabrits Dive Center](https://cabritsdive.com/diving-in-dominica/), [A Virtual Dominica](https://www.avirtualdominica.com/project/dive-sites/), [Scuba Travel](https://www.scubatravel.co.uk/dominica/dominicadive.html), [PADI](https://www.padi.com/dive-site/dominica/five-fingers-2/), [Scuba Diving Magazine](https://www.scubadiving.com/travel/caribbean-atlantic/dominica-north-south). Depth corrected from 30m to 27m to match consensus sources. Last updated 2026-07-29.*

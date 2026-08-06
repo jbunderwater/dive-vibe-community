@@ -45,4 +45,4 @@ Descend to the sandy base east of Seal Rock at 22–26m, then work up through th
 Boat drop-off; anchor or live-boat depending on operator. Coordinate return time with skipper. Carry an SMB for ascent.
 
 ---
-*Sources: [Wikivoyage — Partridge Point](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Partridge_Point), [Dive Team Cape Town — Partridge Point](https://diveteam.co.za/blogs/news/partridge-point-false-bay), [Apnea Addicts — Partridge Point](https://www.aaddicts.co.za/freediving/partridge-point-freedive-false-bay/). Last updated 2026-05-20.*
+*Sources: [Wikivoyage — Partridge Point](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Partridge_Point), [Dive Team Cape Town — Partridge Point](https://diveteam.co.za/blogs/news/partridge-point-false-bay), [Apnea Addicts — Partridge Point](https://www.aaddicts.co.za/freediving/partridge-point-freedive-false-bay/). Last updated 2026-07-23.*

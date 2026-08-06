@@ -33,11 +33,7 @@ The Caroline Rose was purposefully sunk to create an accessible dive site near T
 
 ## Marine Life
 
-Georgian Bay's cold, clear waters support healthy lake trout and smallmouth bass populations that frequent the Caroline Rose. Yellow perch school around the hull and masts. The shallow sections of the wreck, where sunlight penetrates well, are colonized by algae that attract small forage fish. Lake whitefish are occasionally seen in the water column above the deck. Zebra mussels encrust the hull below 6 metres.
-
-## Dive Profile
-
-The Caroline Rose sits upright on the bottom with the main deck at roughly 12 metres and the keel at 16 metres. Beginners can comfortably explore the full length of the vessel within recreational NDL limits. The intact hull with open deck areas and visible interior spaces through hatchways makes this an engaging dive without requiring wreck penetration. Ascend the anchor line for a standard safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Although shallow and beginner-friendly, the cold water demands proper thermal pr
 
 ## Photography
 
-The Caroline Rose is a photographer's favourite at Tobermory. The combination of exceptional clarity, intact hull, and manageable depth allows wide-angle shots of the entire wreck in natural light. The bow and stern profiles are classic subjects, and fish life adds natural animation. Natural light in clear Georgian Bay water has a luminous, turquoise quality distinct from deeper or murkier Great Lakes sites.
+The Caroline Rose is a photographer's favourite at Tobermory. The combination of exceptional clarity, intact hull, and manageable depth allows wide-angle shots of the entire wreck in natural light. The bow and stern profiles are classic subjects. Natural light in clear Georgian Bay water has a luminous, turquoise quality distinct from deeper or murkier Great Lakes sites.
 
 ---
 *Sources: [Wrecks and Reefs - Caroline Rose](https://www.wrecksandreefs.com/CRose.html), [Parks Canada - Fathom Five Dive Sites](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/plong-dive), [Visit Tobermory - Shipwrecks](https://visittobermory.ca/profile/shipwrecks-in-tobermory/2380/). Last updated 2026-05-30.*

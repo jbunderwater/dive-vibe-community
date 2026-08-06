@@ -33,11 +33,7 @@ Georgian Bay's rocky Bruce Peninsula shoreline is characterized by dramatic lime
 
 ## Marine Life
 
-The cave openings and overhangs create sheltered habitat for species that seek protection from open-water predators. Smallmouth bass are the dominant fish, often seen resting in the cave interiors. Crayfish inhabit every available crack and crevice in the limestone. In summer, juvenile sunfish and perch hover at the cave entrances. The limestone surfaces are colonized by freshwater algae and sponges (Georgian Bay has rare freshwater sponge species). Northern pike occasionally hunt near the cave entrances.
-
-## Dive Profile
-
-The Caves are at 6 metres — effectively unlimited bottom time for certified divers. Explore the cave openings from the outside, swimming into sheltered cavern areas (daylight-lit, without penetrating into dark zones). Observe the geological formations — flutes, arches, and overhangs carved by millennia of water action. This site is suitable for completing multiple circuits during a single dive. No safety stop required at 6 metres, though a brief pause before surfacing is good practice.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ This is a genuinely beginner-safe site — shallow, calm, and well-lit. The cave
 
 ## Photography
 
-The Caves is outstanding for photography — natural light at 6 metres in Georgian Bay's exceptional clarity illuminates the limestone architecture beautifully. The play of light and shadow in the cave openings creates dramatic compositions. Macro photography of freshwater sponges, crayfish, and limestone encrusting organisms is rewarding. Wide-angle shots of the cave entrance with a diver silhouetted inside are iconic subjects.
+The Caves is outstanding for photography — natural light at 6 metres in Georgian Bay's exceptional clarity illuminates the limestone architecture beautifully. The play of light and shadow in the cave openings creates dramatic compositions. Wide-angle shots of the cave entrance with a diver silhouetted inside are iconic subjects.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [AquaViews - Scuba Dive at Canada's Fathom Five National Marine Park](https://www.leisurepro.com/blog/scuba-dive-destinations/scuba-dive-canadas-fathom-national-marine-park/), [Zentacle - The Caves](https://www.zentacle.com/Beach/7765/the-caves), [Scuba Diving Magazine - Wreck Diving in Tobermory](https://www.scubadiving.com/drive-and-dive-exploring-wrecks-tobermory). Last updated 2026-08-03.*

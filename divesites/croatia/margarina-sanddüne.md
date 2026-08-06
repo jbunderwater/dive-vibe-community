@@ -2,10 +2,10 @@
 name: Margarina (Sanddüne)
 lat: 44.4972
 lng: 14.30885
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869723
 addedBy: osm_import
@@ -13,50 +13,49 @@ addedBy: osm_import
 
 ## Margarina (Sanddüne)
 
-Margarina (Sanddüne — German for "sand dune") is a reef and sand interface dive in the Pag Island area of northern Dalmatia. The name suggests the site's distinctive feature: a sandy bottom formation adjacent to or beneath the rocky reef, creating a varied habitat that attracts diverse marine life.
+Margarina is a reef/wall dive off the southern tip of Susak island in the Kvarner Gulf, reached from Mali Lošinj-based operators. "Sanddüne" (German, "sand dune") refers to Susak's distinctive wind-formed sand-cliff topography above water; underwater the site is a rocky plateau and wall, not a sandy-bottom dive.
 
 ## Overview
 
-The site features a mix of rocky reef terrain transitioning to sandy areas ("sand dunes") at depth. The rocky sections are encrusted with sponges, sea fans, and encrusting corals, while the sandy areas support burrowing species and provide a clean contrast to the colourful reef. Maximum depth reaches approximately 25 metres where the sand extends. Visibility in this area is typically 15–20 metres in the clear northern Dalmatian water.
+At Susak's southern tip a shallow underwater plateau gives way to a partly steep, terraced wall cut by canyons and crevices, descending to around 40 metres. The exposed position drives nutrient-rich water movement and supports dense sponge, bryozoan, sea-squirt, and soft coral growth on the rock. Divers also encounter the remains of an ancient cargo vessel here: fragments of ceramic roof tiles (tegulae), stone pillars, and other Roman-era material are reported scattered across two depth zones, roughly 6–18 metres and 28–30 metres. No ship name, date, or tonnage is documented in available sources, so no such details are claimed here.
 
 ## Site Information
 
-- **Location**: Pag Island area, Northern Dalmatian Coast, Croatia
+- **Location**: Southern tip of Susak Island, Kvarner Gulf, Croatia (dived from Mali Lošinj)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Light to moderate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: Reported as excellent by local sources
+- **Current**: Can be present at this exposed, open-water point
 - **Best Time**: May to October
 
 ## Marine Life
 
-No site-specific marine life reports found. Regional Adriatic/Mediterranean fauna applies.
+Local dive-site descriptions report pelagic species such as tuna and greater amberjack passing in open water off the wall, plus octopus occupying holes and crevices, on a rock surface colonised by sponges, bryozoans, sea squirts, and soft corals. These are site-specific reports rather than a generic regional list.
 
 ## Dive Profile
 
-Descend to the rocky reef sections and explore the marine life there before moving onto the sandy areas at depth. Look for burrowing species in the sand and watch the reef-sand boundary for species that move between habitats. Maximum depth 25 metres. Ascend via the reef and complete a safety stop at 5 metres.
+Start on the shallow plateau at the southern tip and follow the wall down through its terraced sections, exploring the canyons and crevices. The archaeological material (tegulae, stone pillars) is reported in two zones, roughly 6–18m and 28–30m — reaching the deeper zone requires an advanced profile. Ascend along the wall with a safety stop.
 
 ## Entry and Exit
 
-Dive boats from operators in the Pag area access this site. Entry by giant stride or back roll. Deploy an SMB on ascent for boat pickup.
+Dive boats from Mali Lošinj-based operators access this site (Susak lies off Lošinj, in the Kvarner Gulf). Entry by giant stride or back roll. Current can be present at this exposed point — check conditions with the operator. Deploy an SMB on ascent.
 
 ## Tips and Recommendations
 
-- The sandy sections are worth scanning carefully for any burrowing or sand-dwelling species typical of the area
-- Move slowly over the sand to avoid spooking burrowing species
-- The reef-sand boundary concentrates predator-prey activity — observe quietly from a distance
-- A torch enhances the rocky reef sections and reveals crevice inhabitants
-- Combine with a cave or deeper reef dive nearby for a varied day from Pag
+- Look for pelagic species (tuna, amberjack) off the wall in open water
+- Do not disturb or remove any ceramic/archaeological fragments encountered — this is a protected cultural heritage concern in Croatian waters
+- The deeper archaeological zone (28–30m) requires a planned advanced/deep profile
+- A torch helps in the wall's canyons and crevices
 
 ## Safety Considerations
 
-Standard intermediate reef and sand diving. Monitor depth in the sand areas where the flat bottom makes depth gain easy to overlook. Carry an SMB and dive with a buddy.
+The wall descends to ~40m with current possible at this exposed tip — this is an advanced-level dive. Plan gas and no-decompression limits for the deeper archaeological zone if visiting it, carry an SMB, and dive with a buddy.
 
 ## Photography
 
-The reef-sand interface creates interesting compositional contrasts. Sandy bottom and rocky reef sections both offer photographic opportunities; specific subjects depend on what is present at the time of diving.
+The terraced wall with sponges, soft corals, and sea squirts offers strong wide-angle subjects, and the scattered ceramic fragments provide a documentary/archaeological angle (photograph only — do not disturb or collect).
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-23.*
+*Sources: [Reiseinfo Kroatien – Tauchen in Kvarner: Margarina, Susak](http://reiseinfo-kroatien.com/ger/freizeit_sport/tauchen/kvarner/susak/susak.html), [Adria Diving – Margarina, Susak](https://adriadiving.com/diving_locations/margarina-susak/), [Otok Susak – Scuba Diving](https://www.otok-susak.org/en/activities/scuba-diving/). Last updated 2026-07-27.*

@@ -61,4 +61,4 @@ Boss Reef's combination of extensive coral formations, clear water, and diverse 
 - Typically paired with Flamingo Bay or Happy Hill for a two-tank morning
 
 ---
-*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Boss Reef](https://www.puregrenada.com/dive-sites/boss-reef/), [Sportif Dive - Grenada Dive Sites](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites), [PADI - Boss Reef](https://www.padi.com/dive-site/grenada/boss-reef/). Last updated 2026-06-04.*
+*Sources: [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Pure Grenada - Boss Reef](https://www.puregrenada.com/dive-sites/boss-reef/), [Sportif Dive - Grenada Dive Sites](https://www.sportifdive.co.uk/divesites/48/4/Caribbean/Grenada/Grenada_Dive_Sites), [PADI - Grenada Dive Sites](https://www.padi.com/dive-sites/grenada/) (specific Boss Reef page returned 404 on 2026-08-05 re-check; linking to the live overview page instead). Last updated 2026-08-05.*

@@ -36,4 +36,4 @@ Turtles — resting in nooks on the drop-off — are one of the most reliably me
 Dive the site on an incoming or early outgoing tide for the best pelagic activity. The wall profile allows an easy multilevel dive — spend time at 20–25 m on the lower wall then ascend to 10–15 m on the upper face for the safety stop.
 
 ---
-*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Tahiti Tourisme – Tombant St Etienne](https://tahititourisme.pf/en-pf/activities/points-of-interest/tombant-st-etienne-punaauia-en-en-pf-3349342/), [Eleuthera Tahiti Diving Center – Spots](https://www.eleutheratahiti.com/en/diving/spots). Last updated 2026-05-30.*
+*Sources: [Dive and Sea Tahiti – Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Tahiti Tourisme – Tombant St Etienne](https://tahititourisme.pf/en-pf/activities/points-of-interest/tombant-st-etienne-punaauia-en-en-pf-3349342/), [Eleuthera Tahiti Diving Center – Spots](https://www.eleutheratahiti.com/en/diving/spots). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

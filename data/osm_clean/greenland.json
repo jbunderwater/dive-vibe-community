@@ -17,8 +17,8 @@
       "validated": "false",
       "validation_source": "visitgreenland.com, airgreenland.com, advanceddivermagazine.com",
       "validation_date": "2026-06-04",
-      "last_qa_date": "2026-06-04",
-      "validation_note": "Re-audited 2026-06-04. No site-specific sources found for this named location. Regional diving character confirmed for Aasiaat/Disko Bay area. Marine life claims stripped — not attributable to this specific site. Validation_source requirement of 3 independent domains not met for site-specific validation."
+      "last_qa_date": "2026-08-05",
+      "validation_note": "Re-audited 2026-08-05 (deep QA pass). Fresh WebSearch for \"Aasiaat Nugguat\" dive/diving/scuba returned no results. Cross-checked against the only named Greenland dive sites documented in published sources (Borgin wreck, Lighthouse Island, Mussel Island, Portuguese Prison Ship, per advanceddivermagazine.com and adrex.com) — none correspond to this site. ScubaBoard Greenland threads searched, no mention found. No site-specific sources found for this named location. Regional diving character confirmed for Aasiaat/Disko Bay area only. Marine life claims remain stripped — not attributable to this specific site. Validation_source requirement of 3 independent domains not met for site-specific validation; validated remains false."
     }
   },
   {
@@ -43,8 +43,8 @@
       "validated": "false",
       "validation_source": "visitgreenland.com, airgreenland.com, advanceddivermagazine.com",
       "validation_date": "2026-06-04",
-      "last_qa_date": "2026-06-04",
-      "validation_note": "Re-audited 2026-06-04. OSM data identifies this as a submerged bank (Sukkertoppen Banke). No site-specific dive sources found. Marine life claims stripped. 3-domain validation requirement not met for site-specific validation."
+      "last_qa_date": "2026-08-05",
+      "validation_note": "Re-audited 2026-08-05 (deep QA pass). Fresh WebSearch for \"Maniitsup Ikkannersua\" and \"Sukkertoppen Banke\" plus dive returned only general Maniitsoq/Sukkertoppen town history, no diving sources. OSM data identifies this as a submerged bank (Sukkertoppen Banke). No site-specific dive sources found. Marine life claims remain stripped. 3-domain validation requirement not met for site-specific validation; validated remains false."
     }
   },
   {
@@ -66,8 +66,8 @@
       "validated": "false",
       "validation_source": "osm_extended",
       "validation_date": "2026-06-04",
-      "last_qa_date": "2026-06-04",
-      "validation_note": "Re-audited 2026-06-04. WRECK HISTORY UNVERIFIED: No independent sources found confirming vessel name 'Carl', build date, length, tonnage, nationality, or sinking cause. Located at 74.7N in remote East Greenland — no documented dive operations in this area. Depth of 40m from OSM only. Previous description claiming wreck colonized by anemones and seals has been replaced with factual uncertainty notice. Do not restore fabricated vessel history."
+      "last_qa_date": "2026-08-05",
+      "validation_note": "Re-audited 2026-08-05 (deep QA wreck-history research, >=2-source cross-check attempted). Directly queried OSM way 1137623285 — tags are limited to historic=wreck, seamark:type=wreck, name=Carl, no description or history fields. Searched wrecksite-style databases, Wikipedia (West Ice accidents — lists five different Norwegian sealers lost in 1952, none named Carl), and Danish-language queries (\"Carl vraget Grønland\") — no match. Found an unrelated wreck named \"Greenland\" off East Greenland (identified 2019 by Dr Innes McCartney/Bangor University, 74m depth, 80m length) via the Echoes from the Deep project; explicitly ruled OUT as a match — different name, different depth (74m vs OSM's 40m), no source connects it to this OSM entry, so it is NOT used here to avoid conflating two distinct wrecks. Also found German trawler \"Carl Röver\" (V 209) — ruled out, wrong theatre/context, no link to this location. CONCLUSION: vessel name 'Carl', build date, length, tonnage, nationality, and sinking cause remain unverified by any independent source. Previous fabricated description (wreck colonized by anemones and seals) remains correctly removed. Do not restore invented vessel history. validated remains false."
     }
   },
   {
@@ -91,8 +91,8 @@
       "validated": "false",
       "validation_source": "en.wikipedia.org, nhess.copernicus.org, visitgreenland.com",
       "validation_date": "2026-06-04",
-      "last_qa_date": "2026-06-04",
-      "validation_note": "Re-audited 2026-06-04. NOTE: Nuugaatsiaq settlement was abandoned after June 2017 tsunami and remains abandoned as of 2023 (Wikipedia, NHESS). No dive operations documented at this site before or after the event. Previous claim that 'underwater topography reflects the dramatic geology' of the tsunami was unsourced speculation — removed. Marine life claims stripped. Access is expedition-only with no local infrastructure."
+      "last_qa_date": "2026-08-05",
+      "validation_note": "Re-audited 2026-08-05 (deep QA pass). Confirmed via Wikipedia and NHESS (Karrat Isfjord 2017 tsunami survey) that Nuugaatsiaq settlement was abandoned after the June 17, 2017 landslide-triggered megatsunami and remains a designated danger area (also corroborated by ArcticToday and Pulitzer Center reporting, though these are not used as dive sources). No dive operator or published source — including ScubaBoard, Advanced Diver Magazine, or Adrex.com — documents diving at this specific named site before or after the event. Marine life claims remain stripped. Access is expedition-only with no local infrastructure. 3-domain site-specific validation requirement not met; validated remains false."
     }
   },
   {
@@ -116,8 +116,8 @@
       "validated": "false",
       "validation_source": "advanceddivermagazine.com, adrex.com, airgreenland.com",
       "validation_date": "2026-06-04",
-      "last_qa_date": "2026-06-04",
-      "validation_note": "Re-audited 2026-06-04. No site-specific sources found for this named location. Disko Bay regional diving character confirmed. Marine life claims stripped — not attributable to this specific site. 3-domain requirement not met for site-specific validation."
+      "last_qa_date": "2026-08-05",
+      "validation_note": "Re-audited 2026-08-05 (deep QA pass). Fresh WebSearch for \"Qerruannguit\" returned only similarly-spelled but unrelated Greenlandic place names (Qasigiannguit, Qernertunnguit, Qernertuarssuit) — confirmed not the same location. Fetched advanceddivermagazine.com and adrex.com Greenland diving articles directly; the only named dive sites documented (Borgin, Lighthouse Island, Mussel Island, Portuguese Prison Ship) do not correspond to this site. No site-specific source found. Marine life claims remain stripped. 3-domain requirement not met for site-specific validation; validated remains false."
     }
   },
   {
@@ -141,8 +141,8 @@
       "validated": "false",
       "validation_source": "advanceddivermagazine.com, adrex.com, visitgreenland.com",
       "validation_date": "2026-06-04",
-      "last_qa_date": "2026-06-04",
-      "validation_note": "Re-audited 2026-06-04. No site-specific sources found for this named location. North Disko Bay regional diving character confirmed. Marine life claims (polar cod, sculpin, humpback whales at site) stripped — not attributable to this specific site. 3-domain requirement not met for site-specific validation."
+      "last_qa_date": "2026-08-05",
+      "validation_note": "Re-audited 2026-08-05 (deep QA pass). Fresh WebSearch for \"Ikkanneq\" Greenland dive returned only the unrelated abandoned settlement Ikkatteq (Sermersooq, SE Greenland) — confirmed not the same location/name. Fetched advanceddivermagazine.com and adrex.com directly; documented named sites (Borgin, Lighthouse Island, Mussel Island, Portuguese Prison Ship) do not match. Previous versions of this page attributing polar cod/sculpin/humpback whale sightings to this specific site were already correctly removed — confirmed no source supports restoring them. 3-domain requirement not met for site-specific validation; validated remains false."
     }
   }
 ]

@@ -17,7 +17,7 @@ A network of large coral caverns, open chimneys, and swim-throughs just south of
 
 ## Overview
 
-Devil's Grotto is a large reef formation of interconnected coral caverns, tunnels, and open chimneys rising from a sand and coral bottom to within a few feet of the surface, off George Town on Grand Cayman's West Side. The site is entered directly from shore next to the Eden Rock Diving Center, making it one of Grand Cayman's most accessible dive sites. Depth ranges from approximately 4 meters at the shallowest cavern areas to around 15 meters in the deeper tunnels. Natural light filters through the open chimneys throughout, so no overhead cave environment training is required. The site is famous for its summer silverside spectacle: plan visits in August–September for the best chance of encountering massive schools of silversides filling the caverns, with tarpon and barracuda hunting through the silver curtain. The maze of cavern passages rewards multiple dives as different routes reveal different perspectives.
+Devil's Grotto is a large reef formation of interconnected coral caverns, tunnels, and open chimneys rising from a sand and coral bottom to within a few feet of the surface, off George Town on Grand Cayman's West Side. The site is entered directly from shore next to the Eden Rock Diving Center, making it one of Grand Cayman's most accessible dive sites. Depth ranges from approximately 4 meters at the shallowest cavern areas to around 15 meters in the deeper tunnels. Natural light filters through the open chimneys throughout, so no overhead cave environment training is required. The site is famous for its summer silverside spectacle: plan visits in June–September (most reliably July–August) for the best chance of encountering massive schools of silversides filling the caverns, with tarpon and barracuda hunting through the silver curtain. The maze of cavern passages rewards multiple dives as different routes reveal different perspectives.
 
 ## Site Information
 
@@ -29,11 +29,11 @@ Devil's Grotto is a large reef formation of interconnected coral caverns, tunnel
 - **Typical Visibility**: 15–25 meters
 - **Current**: Light
 - **Water Temperature**: 26–29°C (79–84°F)
-- **Best Time**: Year-round; August–September for silverside season
+- **Best Time**: Year-round; June–September (most reliably July–August) for silverside season
 
 ## Marine Life
 
-Devil's Grotto is specifically documented for: tarpon and barracuda (confirmed as regular residents and silverside season hunters), large schools of silversides (August–September primarily), parrotfish in the surrounding reef, and general reef fish throughout the cavern corridors. Glassy sweepers and soldierfish are reported in the darker recesses. The site descriptions from multiple dive-specific sources (PADI, US News, dive bloggers) consistently list tarpon and barracuda as the primary wildlife attractions. Turtles and angelfish may be encountered on the surrounding reef. No site-specific sources confirm green sea turtles or queen parrotfish as regular Grotto interior residents — those attributions from the previous description have been qualified to the surrounding reef area.
+Devil's Grotto is specifically documented for: tarpon and barracuda (confirmed as regular residents and silverside season hunters), large schools of silversides (June–September, most reliably July–August), parrotfish in the surrounding reef, and general reef fish throughout the cavern corridors. Glassy sweepers and soldierfish are reported in the darker recesses. The site descriptions from multiple dive-specific sources (PADI, US News, dive bloggers) consistently list tarpon and barracuda as the primary wildlife attractions. Turtles and angelfish may be encountered on the surrounding reef. No site-specific sources confirm green sea turtles or queen parrotfish as regular Grotto interior residents — those attributions from the previous description have been qualified to the surrounding reef area.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Shore entry from a rocky point next to Eden Rock Diving Center in George Town. T
 
 ## Tips and Recommendations
 
-- Plan August–September visits specifically for the silverside spectacle — this is the defining reason to prioritize Devil's Grotto during that season
+- Plan June–September (most reliably July–August) visits specifically for the silverside spectacle — this is the defining reason to prioritize Devil's Grotto during that season
 - The cavern maze rewards multiple dives on consecutive days as different passages emerge
 - No overhead cave training required — all sections are open-roofed caverns with natural light throughout
 - Tarpon are resident year-round and can be approached to very close range in the cavern shade
@@ -60,4 +60,4 @@ Devil's Grotto is a cavern, not a cave — there are no true overhead sections r
 The sun shafts beaming through the open chimneys into the cavern chambers create exceptional natural light photography opportunities. Tarpon in the cavern shade are classic close-approach subjects. During silverside season, wide-angle shots of the silver curtain with tarpon hunting through it are among Grand Cayman's most dramatic images.
 
 ---
-*Sources: [PADI – Devil's Grotto Dive Site](https://www.padi.com/dive-site/cayman-islands/devils-grotto/), [US News Travel – Eden Rock & Devil's Grotto](https://travel.usnews.com/Cayman_Islands/Things_To_Do/Eden_Rock_Devils_Grotto_Grand_Cayman_61124/), [Inside Scuba – Devil's Grotto Dive Site Review](https://insidescuba.online/p/devils-grotto-dive-site-review-grand-cayman). Last updated 2026-05-20.*
+*Sources: [PADI – Devil's Grotto Dive Site](https://www.padi.com/dive-site/cayman-islands/devils-grotto/), [US News Travel – Eden Rock & Devil's Grotto](https://travel.usnews.com/Cayman_Islands/Things_To_Do/Eden_Rock_Devils_Grotto_Grand_Cayman_61124/), [Inside Scuba – Devil's Grotto Dive Site Review](https://insidescuba.online/p/devils-grotto-dive-site-review-grand-cayman), [DivePhotoGuide – Silversides at Eden Rock](https://www.divephotoguide.com/underwater-photography-travel/article/iconic-dive-site-silversides-eden-rock/). Last updated 2026-07-23. Re-audited 2026-07-23: silverside season widened from August–September to June–September based on broader source consensus.*

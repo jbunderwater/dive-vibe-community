@@ -13,13 +13,11 @@ addedBy: osm_import
 
 ## El Hawi Star Wrack
 
-The El Hawi Star is a 100-metre freighter built in Hamburg in 1957, originally named *M/B Valeria*. She changed names and owners multiple times before becoming the *El Hawi Star* in 1981 under Saudi Arabian flag. On 12 December 1982, she sank shortly after leaving the port of Rijeka due to improper arrangement of her cargo of stone slabs and lumber. The wreck lies approximately 500 metres from the Excelsior breakwater on the northern edge of the Kvarner bay.
+The El Hawi Star is a freighter built in Hamburg in 1957, originally named *M/B Valeria* (one source, Murena Diving, additionally lists prior interim names *Polaris*, *Anemos*, and *Tania* before *El Hawi Star* — unconfirmed by a second source, noted here with that caveat). Reported length varies by source, from approximately 100 to 106 metres (14 m beam per Murena Diving), with a tonnage of 3,598 GRT per Murena Diving. She changed owners multiple times before becoming the *El Hawi Star* in 1981 under Saudi Arabian flag. **Sources disagree on both the sinking date and the cargo**: most sources place the sinking on 12 December 1982, shortly after leaving the port of Rijeka bound for Jeddah, Saudi Arabia, though at least one source cluster reports 12 October 1982. On cargo, sources variously describe stone slabs and lumber, ceramic tiles (reported as 3,631 tonnes) and timber (781 tonnes), or a cargo of mahogany/precious wood — accounts agree only that the cargo was improperly loaded or unevenly distributed, causing the vessel to capsize and sink within roughly half an hour of departure. The wreck lies approximately 500 metres from the Excelsior breakwater on the northern edge of the Kvarner bay.
 
 ## Overview
 
-The El Hawi Star rests on her starboard side at depths between 26 and 42 metres. Despite more than four decades of submersion, the wreck remains substantially intact — lifeboats, cranes, cables, chains, and navigational instruments are still visible. The hull is described by local dive centres as "beautifully overgrown" with encrusting organisms and supports abundant marine life. The wreck is accessible from operators in the Rijeka area and is one of the longer accessible wreck dives in the northern Adriatic at 100 metres.
-
-In 2003, a fuel leak required environmental remediation work on the wreck.
+The El Hawi Star rests on her starboard side at depths between 26/27 and 42 metres. Despite more than four decades of submersion, the wreck remains substantially intact — lifeboats, cranes, cables, chains, and navigational instruments are still visible. The hull is described by local dive centres as "beautifully overgrown" with encrusting organisms. The wreck is accessible from operators in the Rijeka area and is one of the longer accessible wreck dives in the northern Adriatic. In 2003, a fuel leak was discovered and required environmental remediation work on the wreck.
 
 ## Site Information
 
@@ -34,11 +32,11 @@ In 2003, a fuel leak required environmental remediation work on the wreck.
 
 ## Marine Life
 
-No site-specific marine life reports verified against independent sources. Regional Adriatic/Kvarner fauna applies at this depth range.
+No site-specific marine life reports have been verified against independent sources for this wreck. Regional Adriatic/Kvarner fauna applies at this depth range, but no species list is asserted here as site-confirmed.
 
 ## Dive Profile
 
-The upper hull sections can be explored at 26–35 metres; the maximum depth of 42 metres reaches the seabed alongside the wreck. Manage time carefully — limit bottom time at 40+ metres. Begin ascending through the shallower sections and allow ample gas for a safety stop at 5 metres. Nitrox is strongly recommended for this depth. The 100-metre length means the wreck rewards multiple dives exploring different sections.
+The upper hull sections can be explored at 26–35 metres; the maximum depth of 42 metres reaches the seabed alongside the wreck. Manage time carefully — limit bottom time at 40+ metres. Begin ascending through the shallower sections and allow ample gas for a safety stop at 5 metres. Nitrox is strongly recommended for this depth. The length of the wreck (100+ metres) means it rewards multiple dives exploring different sections.
 
 ## Entry and Exit
 
@@ -54,11 +52,11 @@ Dive boats from Rijeka operators run this site. Shot line descent to the wreck i
 
 ## Safety Considerations
 
-The 42-metre maximum depth requires disciplined gas management and awareness of narcosis. Divers should have demonstrated comfort at depth before attempting this site. The wreck is at Advanced/expert level per OSM tags. Penetration of enclosed sections requires wreck certification, reel, and redundant lighting.
+The 42-metre maximum depth requires disciplined gas management and awareness of narcosis. Divers should have demonstrated comfort at depth before attempting this site. Penetration of enclosed sections requires wreck certification, a reel, and redundant lighting — it is not inherently safe and should only be attempted with proper training.
 
 ## Photography
 
 The starboard side of the hull, lying at an angle with large encrusted surfaces, provides dramatic wide-angle compositions. Intact equipment like cranes and navigational instruments make for distinctive subjects. The length of the wreck allows varied photographic coverage over multiple dives.
 
 ---
-*Sources: [Dive Center KRK – El Hawi Star](https://www.dive-center-krk.com/dive-sites/), [3Pulse – El Hawi Star](https://3pulse.com/en/sights/el-hawi-star-wrack), [Dive Loft KRK – El Hawi Star](https://www.dive-loft-krk.com/dive-sites/). Last updated 2026-05-23.*
+*Sources: [Dive Center KRK – El Hawi Star](https://www.dive-center-krk.com/dive-sites/), [Murena Diving – El Hawi Star](https://www.murena.net/project/el-hawi-star/), [Divemania.it – Relitto El Hawi Star](https://www.divemania.it/divesite/relitto-el-hawi-star), [3Pulse – El Hawi Star](https://3pulse.com/en/sights/el-hawi-star-wrack). Last updated 2026-07-27.*

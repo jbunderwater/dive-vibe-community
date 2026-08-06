@@ -19,8 +19,8 @@
       "wikipedia": "en:USNS General Hoyt S. Vandenberg (T-AGM-10)",
       "wreck:date_sunk": "2009-05-27",
       "validated": "true",
-      "validation_source": "wikipedia.org,lostreefadventures.com,florida-scubadiving.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,lostreefadventures.com,naui.org",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -40,7 +40,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "wikipedia.org,rainbowreef.com,florida-scubadiving.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -56,9 +56,9 @@
     "tags": {
       "name": "Triumph Reef",
       "sport": "scuba_diving",
-      "note": "Lesser-known Biscayne National Park reef site; no site-specific dive sources located after 2026-05-25 research",
+      "note": "Lesser-known Biscayne National Park reef site; no site-specific dive sources located after 2026-05-25 or 2026-08-02 research passes",
       "validated": "false",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     },
     "depth_max": 8
   },
@@ -79,7 +79,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "floridakeys.noaa.gov,rainbowreef.com,islandventure.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -106,8 +106,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,floridakeys.noaa.gov,coastguard.dodlive.mil",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,floridakeys.noaa.gov,dan.org,marinesanctuary.org",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -129,7 +129,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "floridakeys.noaa.gov,islamoradadivecenter.com,florida-scubadiving.com",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -151,8 +151,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,islamoradadivecenter.com,oceanexplorer.noaa.gov",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,islamoradadivecenter.com,floridakeys.noaa.gov,nps.gov",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -172,8 +172,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "nps.gov,nps.gov/bisc,archaeologychannel.org",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "nps.gov,archaeologychannel.org,ace-diving.com",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -193,8 +193,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "nps.gov,nps.gov/bisc,ace-diving.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "nps.gov,ace-diving.com,floridarambler.com",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -219,8 +219,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,floridakeys.noaa.gov,florida-keys-vacation.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,floridakeys.noaa.gov,keywestdivecenter.com,stripes.com",
+      "last_qa_date": "2026-08-02"
     }
   },
   {
@@ -238,9 +238,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Middle Keys reef site; no site-specific dive sources located after 2026-05-25 research",
+      "note": "Middle Keys reef site; no site-specific dive sources located after 2026-05-25 or 2026-08-02 research passes",
       "validated": "false",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     },
     "depth_max": 12
   },
@@ -260,9 +260,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Old ship remnants on north side of Wisteria Island (Key West harbor dredge spoil island); identity and condition unverifiable from public sources as of 2026-05-25",
+      "note": "Island is named for USPHS disinfecting steamer Wisteria (ex-USLHS light tender), which sank moored here in 1925 and burned to the waterline (wikipedia.org, keysweekly.com); vessel was reportedly salvaged afterward, and no dive-specific source confirms current in-water wreck condition, depth profile, or marine life. Only 2 independent domains found -- below the 3-source bar for validation",
       "validated": "false",
-      "last_qa_date": "2026-05-25"
+      "last_qa_date": "2026-08-02"
     },
     "depth_max": 6
   },
@@ -290,8 +290,274 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wikipedia.org,floridakeys.noaa.gov,florida-keys-vacation.com",
-      "last_qa_date": "2026-05-25"
+      "validation_source": "wikipedia.org,floridakeys.noaa.gov,keywestdivecenter.com,stripes.com",
+      "last_qa_date": "2026-08-02"
+    }
+  },
+  {
+    "name": "Christ of the Abyss (Key Largo Dry Rocks)",
+    "lat": 25.1227,
+    "lon": -80.2974,
+    "depth": 9,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Shallow spur-and-groove reef in John Pennekamp Coral Reef State Park; home to the bronze Christ of the Abyss statue (~25ft). One of the most-dove sites in the Keys.",
+      "validation_source": "rainbowreef.com,florida-keys-vacation.com,padi.com"
+    }
+  },
+  {
+    "name": "French Reef",
+    "lat": 25.0353,
+    "lon": -80.3494,
+    "depth": 17,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Key Largo reef with numerous ledges, tunnels and swim-throughs (Hourglass Cave, Christmas Tree Cave, Sand Bottom Cave). Deeper SE corner ('French Deep') reaches ~55ft.",
+      "validation_source": "rainbowreef.com,florida-scubadiving.com,scubadivinginmiami.com"
+    }
+  },
+  {
+    "name": "Carysfort Reef",
+    "lat": 25.2219,
+    "lon": -80.2115,
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Four-mile reef marked by the 1852 Carysfort Lighthouse. Depth varies notably by mooring/section (5-80ft) - treat as a range, not a single figure.",
+      "validation_source": "divebuddy.com,thescubanews.com,florida-keys-vacation.com"
+    }
+  },
+  {
+    "name": "Sombrero Reef",
+    "lat": 24.6234,
+    "lon": -81.107,
+    "depth": 9,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Classic spur-and-groove reef off Marathon marked by Sombrero Key Lighthouse (1858). Sanctuary Preservation Area, mooring buoys only.",
+      "validation_source": "captainhooks.com,floridakeys.noaa.gov,en.wikipedia.org"
+    }
+  },
+  {
+    "name": "Looe Key",
+    "lat": 24.5418,
+    "lon": -81.404,
+    "depth": 9,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Entirely submerged reef 6 miles off Big Pine/Ramrod Key, named for HMS Looe wrecked here 1744. Reported marine life: reef sharks, spotted eagle rays, goliath grouper, large barracuda per DAN/sanctuary sources.",
+      "validation_source": "dan.org,en.wikipedia.org,floridakeys.com"
+    }
+  },
+  {
+    "name": "Davis Reef",
+    "lat": 24.925,
+    "lon": -80.5035,
+    "depth": 9,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Islamorada reef/ledge, popular easy day and night dive; frequent turtle sightings after dark reported.",
+      "validation_source": "islamoradadivecenter.com,divebuddy.com,florida-scubadiving.com"
+    }
+  },
+  {
+    "name": "Pickles Reef",
+    "lat": 24.9877,
+    "lon": -80.414,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Named for barrel-shaped hardened concrete/mortar cargo scattered from a Civil War-era supply vessel wreck.",
+      "validation_source": "divebuddy.com,rainbowreef.com,florida-scubadiving.com"
+    }
+  },
+  {
+    "name": "Grecian Rocks",
+    "lat": 25.1099,
+    "lon": -80.3035,
+    "depth": 9,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Shallow, gently sloping Key Largo reef within a Sanctuary Preservation Area; popular for beginner diving and snorkeling.",
+      "validation_source": "floridakeys.noaa.gov,snorkeling-report.com,florida-scubadiving.com"
+    }
+  },
+  {
+    "name": "Coffins Patch",
+    "lat": 24.6853,
+    "lon": -80.9667,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Cluster of six patch reefs off Marathon, Sanctuary Preservation Area; the Adelaide Baker wreck lies at its north end.",
+      "validation_source": "en.wikipedia.org,captainhooks.com,city-data.com"
+    }
+  },
+  {
+    "name": "Benwood",
+    "lat": 25.0527,
+    "lon": -80.3337,
+    "depth": 14,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Official NOAA Shipwreck Trail wreck. Norwegian freighter sunk 1942 after wartime collision (running dark due to U-boat concerns). Bow is most intact section, rises ~25ft off bottom.",
+      "validation_source": "floridakeys.noaa.gov,florida-keys-vacation.com,wannadive.net"
+    }
+  },
+  {
+    "name": "City of Washington",
+    "lat": 25.1465,
+    "lon": -80.2559,
+    "depth": 10,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Official NOAA Shipwreck Trail wreck. Iron-hulled steamship (1877) that was anchored near USS Maine in Havana Harbor in 1898; ran aground on Elbow Reef 1917. Depth reported 20-32ft across sources - treat as range.",
+      "validation_source": "floridakeys.noaa.gov,scubadiverlife.com,rainbowreef.com"
+    }
+  },
+  {
+    "name": "San Pedro",
+    "lat": 24.8634,
+    "lon": -80.6799,
+    "depth": 5.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Official NOAA Shipwreck Trail wreck; State Underwater Archaeological Preserve. From the 1733 Spanish treasure fleet, oldest wreck on the trail.",
+      "validation_source": "floridakeys.noaa.gov,floridastateparks.org,en.wikipedia.org"
+    }
+  },
+  {
+    "name": "North America",
+    "lat": 24.632,
+    "lon": -81.0906,
+    "depth": 4.3,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Official NOAA Shipwreck Trail wreck. NOAA's own page states the vessel identification 'has not been definitively confirmed' - coordinates are for the general Delta Shoal area, not a confirmed precise wreck fix. Believed to be an 1833-built vessel lost 1842.",
+      "validation_source": "floridakeys.noaa.gov,sanctuaries.noaa.gov"
+    }
+  },
+  {
+    "name": "Adelaide Baker",
+    "lat": 24.7023,
+    "lon": -80.8927,
+    "depth": 6,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Official NOAA Shipwreck Trail wreck. Originally F.W. Carver (built 1863), wrecked 1889 on Coffins Patch Reef; debris scatters ~1,400ft including a 77-ft iron mast.",
+      "validation_source": "floridakeys.noaa.gov,florida-keys-vacation.com,montereyboats.com"
+    }
+  },
+  {
+    "name": "Thunderbolt",
+    "lat": 24.6611,
+    "lon": -80.9631,
+    "depth": 37,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Official NOAA Shipwreck Trail wreck. Originally Army minefield-tender, later FPL lightning-research vessel, sunk 1986. Sits upright and intact on sand.",
+      "validation_source": "floridakeys.noaa.gov,florida-keys-vacation.com,scubaboard.com"
+    }
+  },
+  {
+    "name": "Eagle",
+    "lat": 24.8697,
+    "lon": -80.5702,
+    "depth": 34,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Official NOAA Shipwreck Trail wreck. 287-ft freighter (NOAA figure; some commercial sources say 269ft - flagged discrepancy) sunk 1985; broke in half during Hurricane Georges (1998), now lies on starboard side.",
+      "validation_source": "floridakeys.noaa.gov,scubadiving.com,islamoradadivecenter.com"
+    }
+  },
+  {
+    "name": "USCGC Bibb",
+    "lat": 24.9952,
+    "lon": -80.3795,
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Sister ship to the already-listed USCGC Duane, sunk same day (1987) about half a mile away near Molasses Reef. Rests on starboard side.",
+      "validation_source": "rainbowreef.com,florida-scubadiving.com,florida-keys-vacation.com"
+    }
+  },
+  {
+    "name": "Adolphus Busch Sr.",
+    "lat": 24.5307,
+    "lon": -81.4615,
+    "depth": 34,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "210-ft cargo freighter (built Scotland 1951), sunk 1998 near Looe Key without explosives to protect the sanctuary reef; funded by Adolphus Busch IV as a memorial.",
+      "validation_source": "visitfloridakeys.com,scubadiving.com,en.wikipedia.org"
+    }
+  },
+  {
+    "name": "Cayman Salvager",
+    "lat": 24.4535,
+    "lon": -81.7663,
+    "depth": 29,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Former Coast Guard buoy tender (1936), seized during the 1980 Mariel boatlift; sank prematurely short of intended deep-reef target when a tow cable snapped. Known goliath grouper site.",
+      "validation_source": "wreckwiki.com,keywestdivecenter.com,divebuddy.com"
     }
   }
 ]

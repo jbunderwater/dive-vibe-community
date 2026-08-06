@@ -36,4 +36,4 @@ The sheltered inner face of the formation acts as a nursery ground for juvenile 
 Use the comma shape to plan a natural circuit dive — descend to the outer slope, follow the curve around, and return along the sheltered inner face for the safety stop. This multilevel approach maximises bottom time and exposes divers to both habitat types.
 
 ---
-*Sources: [Moorea Fun Dive - Sites](https://www.moorea-fundive.com/2s), [Dive and Sea Tahiti - Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots). Last updated 2026-05-30.*
+*Sources: [Moorea Fun Dive - Sites](https://www.moorea-fundive.com/2s), [Dive and Sea Tahiti - Dive Sites](https://diveandsea-tahiti.com/en/dive-site-in-tahiti/), [Eleuthera Tahiti Diving Center](https://www.eleutheratahiti.com/en/diving/spots). Re-audited 2026-08-03; no factual changes required. Last updated 2026-08-03.*

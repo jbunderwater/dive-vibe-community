@@ -17,7 +17,7 @@ The Katie Eccles is a 19th-century wooden schooner wreck in Lake Ontario near Ki
 
 ## Overview
 
-The Katie Eccles was a wooden schooner that served Lake Ontario trade in the 19th century before meeting her end in local waters near Kingston. She now rests at approximately 30 metres — a meaningful step deeper than the 18–22 metre Kingston cluster, and one that provides noticeably better preservation. Cold, dark water at 30 metres in Lake Ontario combines low oxygen levels, near-freezing temperatures, and minimal light to create near-ideal conditions for wood preservation. The hull, rigging, and structural details are well-maintained, and visibility at this depth is typically 5–10 metres. This site is one of the deeper recreational wreck dives in the Kingston area.
+The Katie Eccles was a two-masted wooden schooner, 95 feet (29m) long and 122 gross tons, built in 1877 by William Jamieson at Deseronto, Ontario. On November 28, 1922, while carrying a cargo of coal, she lost her rudder outside Oswego, New York, and drifted to Timber Island, where the crew dropped anchor and rowed ashore. That night the anchor chain cut through the vessel's planking and she foundered; the crew survived. She now rests at approximately 30 metres — a meaningful step deeper than the 18–22 metre Kingston cluster, and one that provides noticeably better preservation, with the bowsprit and ship's wheel still intact and the stern broken. Cold, dark water at 30 metres in Lake Ontario combines low oxygen levels, near-freezing temperatures, and minimal light to create near-ideal conditions for wood preservation. Visibility at this depth is typically 5–10 metres.
 
 ## Site Information
 
@@ -33,11 +33,7 @@ The Katie Eccles was a wooden schooner that served Lake Ontario trade in the 19t
 
 ## Marine Life
 
-At 30 metres, the fish community shifts slightly from the shallower Kingston wrecks. Large lake trout are more commonly encountered here than at shallower sites — they favour the cold, deep water. Smallmouth bass are still present at the upper sections of the wreck. Deep-water sculpin are occasionally seen on the lakebed around the hull. Yellow perch are less prevalent than at shallower wrecks.
-
-## Dive Profile
-
-At 30 metres, NDL on air is approximately 20 minutes — plan a focused dive profile that prioritizes the main wreck features. Descend quickly on the anchor line to the bow section, work aft to the stern, then begin your ascent. Consider Nitrox 32% to extend bottom time. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -48,7 +44,6 @@ Charter dive boats from Kingston visit the Katie Eccles as part of deeper dive i
 - At 30 metres, time is more limited than at the shallower Kingston wrecks — pre-plan your exploration priorities
 - Nitrox 32% provides additional NDL margin at this depth
 - Drysuit essential — temperatures at 30m are 4°C year-round
-- Lake trout encounters at this depth are memorable
 - Heritage protection applies throughout the Kingston area
 
 ## Safety Considerations
@@ -60,4 +55,4 @@ The 30-metre depth requires advanced buoyancy control and gas management skills.
 The Katie Eccles benefits from being deeper than many Kingston wrecks — better preservation means more photographic detail to capture. Supplemental lighting is more important at 30 metres where ambient light is reduced. Wide-angle shots of the hull profile with a dive light illuminating key features work well.
 
 ---
-*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*
+*Sources: [Shotline Diving - Katie Eccles C75911](https://www.shotlinediving.com/docs/lake_ontario/picton/kattie-eccles-c75911/), [Shipwreck World - Katie Eccles Schooner](https://www.shipwreckworld.com/maps/katie-eccles-schooner-lake-ontario-shipwreck), [Kingston Dive Charters - Wrecks](https://www.kingstondivecharters.com/wrecks.html). Last updated 2026-08-03.*

@@ -60,4 +60,4 @@ The bay is generally well-protected, but the Airport Wall and Ray Point (40+ met
 Seahorse encounters at West Wall are the standout macro subject. Canyon's encrusted anchor makes an unusual wide-angle subject in shallow, well-lit water. The Coral Gardens restoration nursery frames nicely with ambient light and the reef background.
 
 ---
-*Sources: [Superior Dive Sosua](https://superiordivesosua.com/diving-dominican-republic-dive-sites-sosua/), [Sosua Beach DR](https://www.sosuabeachdr.com/sosua-top-diving-sites/), [Scuba Dive Sosua](https://scubadivesosua.com/dive-sites). Last updated 2026-05-24.*
+*Sources: [Superior Dive Sosua](https://superiordivesosua.com/diving-dominican-republic-dive-sites-sosua/), [Scuba Dive Sosua / Aqua Adventures](https://scubadivesosua.com/dive-sites), [PADI — Diving in Puerto Plata & Sosúa](https://www.padi.com/diving-in/puerto-plata-sosua/). Sosua Beach DR, previously cited, is no longer online and has been dropped. Last updated 2026-07-29.*

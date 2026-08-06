@@ -33,4 +33,6 @@ No site-specific marine life has been documented in published sources for Fréga
 
 Regional marine life applies; no site-specific species reports found.
 
-*Description based on OSM data and regional context. No site-specific sources found. Last updated 2026-06-04.*
+Re-audited 2026-08-05: see Frégate-de-Haut entry for the shared origin story and source re-check; no corrections made.
+
+*Description based on OSM data and regional context. No site-specific sources found. Re-audited 2026-08-05. Last updated 2026-08-05.*

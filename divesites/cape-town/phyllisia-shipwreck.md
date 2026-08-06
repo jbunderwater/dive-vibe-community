@@ -2,7 +2,7 @@
 name: Phyllisia Shipwreck
 lat: -34.3078694
 lng: 18.4018744
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 5
 entryType: shore
 siteType: wreck
@@ -26,7 +26,7 @@ Only part of the stern remains on the shore today, its hull now rusted to the sa
 - **Location**: Hoek van Bobbejaan, Cape Point headland, Cape Point Nature Reserve
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
 - **Depth Range**: 0–5 meters
 - **Conditions**: Fully exposed to Atlantic swell; virtually never diveable; access primarily via hiking trail
@@ -35,5 +35,7 @@ Only part of the stern remains on the shore today, its hull now rusted to the sa
 
 Regional marine life includes cold-water kelp and surge-adapted invertebrates. No site-specific species reports were found for this site.
 
+*Difficulty upgraded from Beginner to Intermediate (2026-07-23 re-audit): the site is virtually never diveable and, on the rare occasions conditions allow, is fully exposed to Atlantic swell in cold water — this does not meet a true "Beginner" bar. Applying the destination-wide minimum-Intermediate policy for this cold-water kelp-forest destination.*
+
 ---
-*Sources: [Learn to Dive Today — Phyllisia](https://www.learntodivetoday.co.za/blog/2015/10/17/visible-shipwrecks-fv-phyllisia/), [Cape Point — Shipwreck Trails](https://capepoint.co.za/cape-points-shipwreck-trails/), [Shipwrecks of Cape Town — Wikipedia](https://en.wikipedia.org/wiki/Shipwrecks_of_Cape_Town). Last updated 2026-05-20.*
+*Sources: [Learn to Dive Today — Phyllisia](https://www.learntodivetoday.co.za/blog/2015/10/17/visible-shipwrecks-fv-phyllisia/), [Cape Point — Shipwreck Trails](https://capepoint.co.za/cape-points-shipwreck-trails/), [Shipwrecks of Cape Town — Wikipedia](https://en.wikipedia.org/wiki/Shipwrecks_of_Cape_Town). Last updated 2026-07-23.*

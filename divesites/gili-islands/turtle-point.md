@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Turtle Point
 
-A pinnacle on the northeast side of Gili Trawangan famous for reliable encounters with large green and hawksbill turtles on a well-coral-covered reef.
+A pinnacle site (also called Turtle Heaven or Turtle City) near Gili Meno famous for reliable encounters with large green and hawksbill turtles on a well-coral-covered reef.
 
 ## Overview
 
-Turtle Point is a pinnacle site on the northeast side of Gili Trawangan that drops from 10 m to 35 m and is covered in an abundance of hard and soft corals. The site earns its name from the reliable and numerous turtle encounters — both green and hawksbill turtles use this pinnacle as a feeding and resting area in substantial numbers. On a good day, encounters with 10–20 individual turtles during a single dive are possible. Alongside the turtles, the reef hosts diverse marine life typical of the Gili Islands' coral triangle setting.
+Turtle Point — also marketed by local operators as Turtle Heaven or Turtle City — is a pinnacle site that drops from 10 m to 35 m and is covered in hard and soft corals. The site earns its name from the reliable turtle encounters: both green and hawksbill turtles use this pinnacle as a feeding and resting area, and Manta Dive's own site guide reports that "you can see up to ten turtles on one scuba dive" on a good day. Alongside the turtles, the reef hosts a range of reef fish and invertebrates typical of the Gili Islands' coral triangle setting.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Turtle Point is a pinnacle site on the northeast side of Gili Trawangan that dro
 
 ## Marine Life
 
-Green and hawksbill turtles are the headline attraction — encounters of 10 or more turtles in a single dive are regularly reported. Reef sharks patrol the deeper sections of the pinnacle. Diverse reef fish including parrotfish, triggerfish, and moray eels are common. Nudibranchs and cleaner shrimps on the coral surfaces. Barracuda and trevally in the blue water around the pinnacle.
+Green and hawksbill turtles are the headline attraction — up to ten in a single dive on a good day, per operator reports. Reef fish schools including clownfish, damselfish, and sergeant majors are common around the pinnacle, along with giant puffer fish. Shrimps, octopus, cuttlefish, and scorpionfish are found on the coral surfaces, along with nudibranchs. Giant clams are present in cage enclosures near the pinnacle top, part of a local conservation effort.
 
 ## Dive Profile
 
@@ -47,8 +47,7 @@ Boat from Gili Trawangan. Descend the mooring line. Currents on the pinnacle can
 - Move slowly along the pinnacle face — turtles remain if approached gently
 - The upper pinnacle sections at 10–18 m provide the most turtle encounters and are accessible to beginners
 - Combine with Meno Wall or Trawangan Wall for a varied Gili Trawangan dive day
-- Ask your guide to point out turtle cleaning stations where multiple turtles queue up
-- Evening dives are particularly good for turtle encounters as they rest for the night
+- Evening dives are particularly good for turtle encounters as they settle in for the night
 
 ## Safety Considerations
 
@@ -59,4 +58,4 @@ Currents on the pinnacle can accelerate on spring tides — beginners should sta
 Multiple turtles in the frame together is the signature shot of Turtle Point. Wide-angle with a diver in the background for scale captures the turtle population density. Turtle eye-level portraits from 20–30 cm away are achievable with patient hovering.
 
 ---
-*Sources: [Manta Dive – Turtle Heaven](https://manta-dive.com/news-and-blog/exploring-the-dive-site-turtle-heaven/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – dive sites](https://www.trawangandive.com/dive-sites-gili-islands/), [PADI – Turtle City/Heaven](https://www.padi.com/dive-site/indonesia/turtle-city-heaven/). Last updated 2026-05-30.*
+*Sources: [Manta Dive – Turtle Heaven](https://manta-dive.com/news-and-blog/exploring-the-dive-site-turtle-heaven/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – dive sites](https://www.trawangandive.com/dive-sites-gili-islands/), [PADI – Turtle City/Heaven](https://www.padi.com/dive-site/indonesia/turtle-city-heaven/). Re-verified 2026-08-03: corrected the turtle-count claim from "10-20" to "up to ten" (the figure actually stated by Manta Dive's site guide), and removed unsourced reef shark and barracuda/trevally claims — no source checked mentions either species at this specific site. Last updated 2026-08-03.*

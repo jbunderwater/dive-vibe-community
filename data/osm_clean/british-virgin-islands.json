@@ -15,7 +15,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "310 ft (94 m) long, 40 ft beam, 2,738 GRT. Built Millwall Iron Works, launched February 1865. Sank 29 October 1867 in San Narciso Hurricane. Of ~145 aboard, 25 survived. Bow at 24m, stern at 6-15m. BVI National Marine Park since 1980.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -34,7 +34,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Four rocky pinnacles rising above sea surface. Site type updated from reef to pinnacle - confirmed by multiple operators. Depth corrected: best diving 5-20m, base to 35m. Strong currents possible.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -53,7 +53,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Three water-level caves at Norman Island. Cavern environment (not true cave). Popular for snorkeling and shallow diving. Protected national park.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -128,8 +128,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Five scuttled wrecks off Cooper Island: Marie L (90-ft cargo, 1991), Pat Rex (inter-island trader, 1995), Beata (tugboat, 2000), Island Seal (cargo ship, grounded 2006 Salt Island, scuttled here). Depths 15-27m. Note: difficulty updated to Advanced per BVI Scuba - confirmed Advanced OW site.",
-      "last_qa_date": "2026-05-20"
+      "notes": [
+        "Five scuttled wrecks off Cooper Island: Marie L (90-ft cargo, 1991), Pat Rex (inter-island trader, 1995 - struck the Marie L while descending and the two now lie port-to-port per islandrootscharters.com), Beata (tugboat, 2000), Island Seal (cargo/container ship, grounded near Salt Island Aug 2006, capsized, later relocated to Wreck Alley as an artificial reef - reefsmartguides.com gives 2009 for this relocation). Depth conflict (re-audit 2026-07-23): bviscuba.org and bviwreckweek.com describe the site's overall depth range as 10-65ft (3-20m), while reefsmartguides.com and islandrootscharters.com report the wreck cluster itself sits on sand at 85-90ft (26-27m); our depth/difficulty fields follow the latter, more site-specific figures. Difficulty confirmed Advanced (islandrootscharters.com, bvidiving.com); note markdown Site Information table previously had a stale 'Intermediate' entry that contradicted frontmatter - corrected to Advanced."
+      ],
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -243,7 +245,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Southwest of Norman Island. Captivating canyons and ridges with gorgonians.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -262,7 +264,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Northwestern tip of George Dog. Features ridges, archways, canyons with soft and pillar coral. Sail Caribbean Divers lists as beginner site (difficulty corrected from Intermediate).",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -281,7 +283,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Between Norman Island and Peter Island. Two pinnacles in open water. One of the most exciting night dive sites in the BVI.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -300,7 +302,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "West side of Dead Chest Island. Multi-level formations with overhangs, caves, ridges, passages, and archways.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -319,7 +321,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Northern side of Ginger Island in Sir Francis Drake Channel. Good for macro photography.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -338,7 +340,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Hidden gem with fiery red wall and rocky formations covered with corals and sponges. Experiences big swells.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -357,7 +359,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "West of West Dog Island. Underwater boulders resembling Bedrock. Rocky formations with ledges and crevices.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -376,7 +378,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "South of Cooper Island. Relatively uncrowded. Good for underwater photography.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -395,7 +397,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Near Dead Chest Island. Four gullies with canyons, walls, and a narrow cave. Bold yellow, red, orange, purple corals. Hawksbill turtles, nurse sharks.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -414,7 +416,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Near Mountain Point and Cow's Mouth. Stunning underwater caves and hills covered in corals and gorgonians.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -433,7 +435,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Southwestern BVI, 12 minutes from Spanish Town. Massive pinnacle with caves, canyons, ledges. Best in summer.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -452,7 +454,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Uninhabited islet. National park since 1974. Caves, ledges, rocky formations covered with colorful sponges and corals.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -471,7 +473,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Northeast of Dead Chest Island. Brain, sheet, and star corals, large sea fans.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -490,7 +492,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Eastern side of Brewers Bay, northern Tortola. Isolated rocky formations on sandy bottom.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -504,12 +506,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,dreamwrecks.com,divebvi.com,bviwreckweek.com",
+    "validation_source": "bvi-dive-map.com,dreamwrecks.com,divebvi.com,bviwreckweek.com,wikipedia.org",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Two sunken ships at Peter Island. The Fearless: wooden-hulled minesweeper, believed sister ship of Cousteau's Calypso, upright on sand at ~24m. The Willy T: former floating bar, scuttled 7 August 2019 by Beyond the Reef nonprofit, rests upright with crow's nest at ~10m, deck at ~20m. Both wooden wrecks severely degraded - no penetration of Fearless.",
-      "last_qa_date": "2026-05-20"
+      "notes": "Two sunken ships at Peter Island. The Fearless: USS Fearless (AMc-80), an Accentor-class coastal minesweeper, launched 18 Nov 1941, 98'5\" length, 275 tons displacement; sunk as a target in 1973, resting upright ~800 yards north of Great Harbour, Peter Island, at 24m (80ft). CORRECTION (2026-07-23 re-audit): dive-tourism sources widely repeat that the Fearless is a \"sister ship\" of Jacques Cousteau's RV Calypso, but this is not supported by primary naval records - Wikipedia's own RV Calypso entry documents it as a BYMS Mark 1 class motor minesweeper (139ft/42m, 294 GRT, built by Ballard Marine Railway Co., Seattle, laid down Aug 1941) with only one confirmed sister ship (USS YMS-328, later the yacht Wild Goose); the Fearless's own Wikipedia entry (Accentor-class, 98ft) does not mention Calypso at all. Treat the sister-ship claim as unverified local dive lore, not confirmed history. The Willy T: former floating bar, damaged by Hurricane Irma (Sept 2017), scuttled 7 August 2019 by Beyond the Reef nonprofit at Key Bay, Peter Island, landing upright between two coral heads; crow's nest ~10m (35ft), deck ~20m (65ft). Both wooden wrecks severely degraded - no penetration of Fearless.",
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -528,7 +530,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "136-foot inter-island cargo freighter built in Holland in 1950 for Scottish company. Sold to Captain Cosmos Sealey 1988. Grounded in storm (some sources say Hurricane Bertha July 1996), deliberately sunk August 1996 by BVI Dive Operators Association. Rests upright on sand at 29m (95ft), mastheads at 14m (45ft). Engine and most doors removed before sinking.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -547,7 +549,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Between The Baths and Spanish Town, Virgin Gorda. Rocky formations, small caves, granite boulders.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -566,7 +568,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Next to Joe's Cave on West Dog, southwest tip closest to Scrub Island. Novice-level wall dive with low swell and low current.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -585,7 +587,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Small islet northwest of Virgin Gorda in The Dogs group. Rocky formations with ledges and crevices. Open waters with strong currents.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -604,7 +606,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "1,500-foot-long wall on north side of Norman Island. Named after Spyglass Hill from Treasure Island.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -623,7 +625,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Between Cooper and Ginger Islands. Magnificent rocky formation with boulders densely populated by fish.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -642,7 +644,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Northwest side of Virgin Gorda near Mountain Point. Named after rock shaped like a cow's mouth. Great visibility.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -661,7 +663,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Six miles west of Jost Van Dyke. National Park. Over 15 diving sites around the islands. Strict no-anchor policy.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -680,7 +682,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "North of Virgin Gorda. Submerged pinnacle rising to 4 feet from surface with no marker buoy. Strong currents. Only suitable for experienced divers in calm weather.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -699,7 +701,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Near Wreck Alley. Massive underwater pinnacle resembling a thumb. Superior marine biodiversity. Sail Caribbean lists as Beginner/Intermediate site; difficulty corrected from Advanced.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -718,7 +720,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "South of Guana Island with white sand beach. Aquarium-like waters with nice walls and smaller rocky formations.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -737,7 +739,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Near Scrub Island. System of ledges at ~18m. Monitor open water for rays and sharks. Higher currents typical. Sail Caribbean confirms Advanced.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -756,7 +758,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Near the RMS Rhone wreck. Magnificent colored reef with soft and hard corals. Can have currents.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -832,7 +834,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Eastern side of Salt Island near Cooper Island. Pillar coral formations. Near RMS Rhone. Sail Caribbean confirms beginner level.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -851,7 +853,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "South of Norman Island. Maze of ledges, canyons, and caverns with an open cave.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -908,7 +910,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Features the anchor from the RMS Rhone, dragged around a coral head during the hurricane of 29 October 1867. Captain cut the chain to attempt escape. Anchor still wrapped around same coral head, covered in colorful coral growth.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -926,8 +928,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "246-foot (75m) refrigerator vessel based in St. Maarten, serviced Japanese fishing fleets. Deliberately set ablaze and cast adrift by owners in early 1981 when hurricane threatened St. Maarten harbor. Drifted toward Marina Cay; tugboat tow line snapped injuring crew member; sank 7.5 miles NW of Tortola. Lies on port side, starboard rail at ~15m (50ft), bottom at 23m (75ft). Three accessible cargo holds. Resident Goliath grouper documented. One confirmed whale shark encounter at site (Cuan Law dive). Note: some sources say built in Japan 1960 as Seujo Maru No. 1, but this is from a single source and unverified by second independent source.",
-      "last_qa_date": "2026-05-20"
+      "notes": [
+        "246-foot refrigerator vessel (some sources report 240 feet - dreamwrecks.com; most sources including bviscuba.org, bvidiving.com, and bvi-dive-map.com report 246 feet; treat length as 240-246 ft / 73-75m) based in St. Maarten, serviced Japanese fishing fleets. Deliberately set ablaze and cast adrift by owners in early 1981 when hurricane threatened St. Maarten harbor. Drifted toward Marina Cay; tugboat tow line snapped injuring crew member; sank 7.5 miles NW of Tortola. Lies on port side, starboard rail at ~15m (50ft), bottom at 23m (75ft). Three accessible cargo holds. Resident Goliath grouper documented. One confirmed whale shark encounter at site (Cuan Law dive). Note: some sources say built in Japan 1960 as Seujo Maru No. 1, but this is from a single source and unverified by a second independent source - re-confirmed 2026-07-23, still unverified, do not state as fact."
+      ],
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -965,7 +969,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Uninhabited island south of Virgin Gorda. National Park since 1974, bird sanctuary since 1959. Underwater caves, tunnels, and rocky formations.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -998,12 +1002,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "bvi-dive-map.com,bvidiving.com,bviwreckweek.com,uncommoncaribbean.com",
+    "validation_source": "bvi-dive-map.com,bvidiving.com,bviwreckweek.com,uncommoncaribbean.com,wikipedia.org,aviation-safety.net",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "notes": "Great Dog Island. Atlantic Air BVI Shorts 360 aircraft made abortive takeoff 6 May 1993, landed ~60m off runway; used as BBC film prop, then sunk as artificial reef. Also 3 art-installation 'Sharkplane' aircraft sunk December 2019. Plus dense coral formations of boulder star coral, brain corals. Mooring buoys available.",
-      "last_qa_date": "2026-05-20"
+      "notes": [
+        "Great Dog Island. CORRECTED (2026-07-23 re-audit): the sunken aircraft is a Short 330-200 twin-turboprop, registration VP-LVR, operated by Atlantic Air BVI (AABVI) - not a \"Shorts 360\" as previously recorded. Confirmed by two independent sources: Wikipedia/Wikidata (Atlantic Air BVI) and the ASN/aviation-safety.net accident database (record 19930506-2). The aircraft, carrying 27 passengers and 3 crew, aborted takeoff at Beef Island Airport (Terrance B. Lettsome Int'l) on 6 May 1993 and overran into Trellis Bay; no serious injuries. It was recovered, used as a BBC film prop, then sunk here as an artificial reef. Also present: 3 art-installation 'Sharkplane' aircraft (bull, hammerhead, nurse shark shapes) sunk December 2019. Plus dense coral formations of boulder star coral, brain corals. Mooring buoys available."
+      ],
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -1041,7 +1047,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Off Great Camanoe, 2 minutes from Scrub Island. Soft and hard corals with colorful sponges.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -1098,7 +1104,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "Northwest of Virgin Gorda. Sandy bottom with corals and sea sponges. Caves, passages, rock formations with sleeping nurse sharks.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   },
   {
@@ -1117,7 +1123,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "notes": "West of West Dog Island. Huge boulders up to 25 feet high on sandy bottom. Underwater cave narrow at top, widens at base. Giant groupers, lobsters, eagle rays, glassy sweepers.",
-      "last_qa_date": "2026-05-20"
+      "last_qa_date": "2026-07-23"
     }
   }
 ]

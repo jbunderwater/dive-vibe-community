@@ -34,7 +34,7 @@ The Nagano Maru's most distinctive feature is her rare quadruple expansion steam
 
 ## Marine Life
 
-The Nagano Maru's superstructure and hull support coral growth and encrusting sponges. The depth means less prolific coral colonization than shallower wrecks, but the reduced ambient light favors soft corals and sea fans on the upper structure. Schools of fusiliers are seen in the water column. Glassy sweepers occupy the engine room and interior spaces. Lionfish hunt in the shadowed recesses.
+No independent source consulted during this QA pass confirms specific fish, shark, or other fauna sightings at the Nagano Maru. Chuuk Lagoon's regional reef fauna -- fish species and coral growth reported across the lagoon's wrecks generally -- likely applies here as well, but no site-specific marine life reports were found.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The Nagano Maru is a war grave -- removing any artifacts is strictly illegal und
 The Nagano Maru's quadruple expansion steam engine is a subject of genuine rarity -- photographs of this engine room are unlike those from any other wreck dive. The challenge is the depth: at 54 meters, ambient light is minimal and powerful strobes are essential. The engine room skylights provide some overhead light that can be used for atmospheric compositions. The bridge at 45 meters offers more accessible photography with slightly better ambient light. The extreme depth and limited bottom time demand that compositions be pre-planned to make efficient use of the available minutes.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving - Nagano Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=821), [Dive3D - Nagano Maru](https://dive3d.eu/models/chuuk-lagoon-truk/nagano-maru/), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/). Last updated 2026-05-22.*
+*Sources: [Michael McFadyen's Scuba Diving - Nagano Maru](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=821), [Dive3D - Nagano Maru](https://dive3d.eu/models/chuuk-lagoon-truk/nagano-maru/), [Scuba Diving Earth - Truk Lagoon Deep Wrecks](https://www.scubadivingearth.com/truk-lagoon-deep-wrecks-the-chuuk-wrecks-for-the-tech-divers/). Last updated 2026-07-26.*

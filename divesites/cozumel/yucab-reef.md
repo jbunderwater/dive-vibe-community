@@ -17,7 +17,7 @@ A shallow, current-assisted reef ideal for beginners and snorkellers, packed wit
 
 ## Overview
 
-Yucab Reef is one of Cozumel's most beginner-friendly sites, located along the central leeward coast just south of San Miguel. The reef is characterised by large, isolated coral heads rising from a sandy bottom, interspersed with wide sandy channels that make navigation simple and visibility exceptional. The maximum depth of 15 meters keeps the dive accessible and extends bottom time considerably. Yucab is also an outstanding snorkelling site, with the shallowest coral formations at just 3–5 meters. The gentle northward drift here is mild enough for newer divers to manage comfortably, making it a standard choice for first ocean dives and Open Water certification checkouts. Water temperatures remain a comfortable 27–28°C for most of the year.
+Yucab Reef is one of Cozumel's most beginner-friendly sites, located along the central leeward coast just south of San Miguel. The reef is characterised by large, isolated coral heads rising from a sandy bottom, interspersed with wide sandy channels that make navigation simple and visibility exceptional. The maximum depth of 15 meters keeps the dive accessible and extends bottom time considerably. Yucab is also an outstanding snorkelling site, with the shallowest coral formations at just 3–5 meters. The gentle south-to-north drift here is mild enough for newer divers to manage comfortably, making it a standard choice for first ocean dives and Open Water certification checkouts. Water temperatures remain a comfortable 27–28°C for most of the year.
 
 ## Site Information
 
@@ -27,12 +27,12 @@ Yucab Reef is one of Cozumel's most beginner-friendly sites, located along the c
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
-- **Current**: Light to mild northward drift
+- **Current**: Mild to moderate, typically south to north
 - **Best Time**: Year-round; diveable in nearly all conditions given the sheltered leeward location
 
 ## Marine Life
 
-Yucab's isolated coral heads are rich ecosystems in miniature. Large queen angelfish and French angelfish are common around every coral head, often tolerating close approaches. Green and hawksbill turtles are reliable sightings, frequently resting on or near the coral bases. Southern stingrays rest in the sandy channels and are undisturbed by divers. The endemic splendid toadfish has been found at Yucab — search beneath coral ledges. Schools of blue tangs and surgeonfish sweep across the sandy plain between coral heads. Caribbean spiny lobsters retreat into crevices during the day but antennae often betray their positions. Flamingo tongue cowries graze on sea fans throughout the site.
+Yucab's isolated coral heads are rich ecosystems in miniature. Multiple dive-shop sources confirm turtles (green, hawksbill, and loggerhead per one operator), nurse sharks, stingrays, and moray eels here. The endemic splendid toadfish is well documented at Yucab, along with lobster, and — per one operator — octopus (best seen at night), king crabs, shrimp, and pipefish. Angelfish and schools of grunts are also reported. General angelfish and butterflyfish sightings are confirmed by more than one source, though no source specified queen angelfish or French angelfish by exact species, nor blue tangs, surgeonfish, or flamingo tongue cowries specifically for this site — those claims have been softened or removed accordingly.
 
 ## Dive Profile
 
@@ -47,7 +47,7 @@ Boat access from San Miguel; the ride is approximately 15–20 minutes. Mooring 
 - Ideal as a first drift dive experience — the current is gentle and the navigation simple
 - Bring a dive light to look inside the coral head bases for lobsters and moray eels
 - Yucab is excellent for an afternoon second dive following a deeper morning site
-- Search carefully around sea fan bases for flamingo tongue cowries — bright orange with spotted mantle
+- Bring a light for a night dive here too — octopus sightings are reported after dark
 - Good for underwater photography practice given the approachable wildlife and consistent light
 
 ## Safety
@@ -56,7 +56,7 @@ Despite being beginner-rated, all standard open-water precautions apply. Keep tr
 
 ## Photography
 
-Yucab's isolated coral heads against white sand create classic Caribbean wide-angle compositions with excellent ambient light in the shallows. The French angelfish and queen angelfish are unusually approachable, making portrait-style images achievable with a standard zoom or compact camera. Look for flamingo tongue cowries on sea fans for vivid macro colour shots. Natural light is excellent through most of the day given the shallow depths.
+Yucab's isolated coral heads against white sand create classic Caribbean wide-angle compositions with excellent ambient light in the shallows. Angelfish here are reported as approachable, making portrait-style images achievable with a standard zoom or compact camera. The splendid toadfish in reef-ledge crevices is a strong macro subject. Natural light is excellent through most of the day given the shallow depths.
 
 ## Additional Resources
 
@@ -64,4 +64,4 @@ Yucab's isolated coral heads against white sand create classic Caribbean wide-an
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Reefs of Cozumel — Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Blue Note Scuba — Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Cozumel Scuba — Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/). Last updated 2026-05-23.*
+*Sources: [The Reefs of Cozumel — Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Blue Note Scuba — Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Cozumel Scuba — Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/). Last updated 2026-07-27.*

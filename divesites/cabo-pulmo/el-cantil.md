@@ -27,7 +27,7 @@ El Cantil ("The Cliff") is one of the largest reef systems in Cabo Pulmo Nationa
 - **Best Time**: Year-round
 
 ## Marine Life
-Whitetip reef sharks, blacktip reef sharks, nurse sharks (resting under ledges), moray eels, dogtooth snapper schools, graybar grunt, sea turtles, stingrays, nudibranchs, parrotfish, wrasses. The canyon structure and coral coverage support high fish density, and bigeye trevally jack tornado formations are occasionally observed here as well.
+Whitetip reef sharks, blacktip reef sharks, nurse sharks (resting under ledges), moray eels, dogtooth snapper schools, graybar grunt, sea turtles, stingrays, nudibranchs, parrotfish, wrasses. The canyon structure and coral coverage support high fish density. Regional Cabo Pulmo marine life includes bigeye trevally jack tornado formations, but no re-checked source specifically confirms this spectacle occurring at El Cantil — that claim has been removed pending a site-specific source.
 
 ## Dive Profile
 Depths range from 8 to 15 meters. Guides typically choose either the North or South section per dive, navigating through the miniature canyons and swim-throughs. The rolling coral hills make for natural multi-level profiles. The 45-minute park dive limit applies.
@@ -39,4 +39,4 @@ Depths range from 8 to 15 meters. Guides typically choose either the North or So
 - One of the best sites in the park for repeat visits — hard to see it all in one dive
 
 ---
-*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Last updated 2026-05-20.*
+*Sources: [Cabo Pulmo Beach Resort Dive Sites](https://www.cabopulmo.com/dive-sites-cabo-pulmo), [Adventures in Baja](https://adventuresinbaja.com/2021/11/02/cabo-pulmo-dive-sites/), [Joe's Scuba Shack / My Scuba Diving Gear Guide](https://myscubadivinggearguide.com/scuba-diving-cabo-pulmo-mexico). Re-audited 2026-07-23: removed an unconfirmed "jack tornado" marine-life claim not supported by any re-checked source for this specific site. Last updated 2026-07-23.*

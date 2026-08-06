@@ -34,9 +34,7 @@ Multiple independent sources (Thorfinn, Dirty Dozen Expeditions, Dive3D) confirm
 
 ## Marine Life
 
-The Sankisan Maru's masts and upper superstructure carry some of the finest soft coral growth in Chuuk Lagoon -- multiple dive operators rate it comparable to the Shinkoku Maru. Hard corals and sea fans cover the railings, king posts, and exposed deck structures. Soft corals add vivid color to the shallower sections above 15 meters.
-
-Schools of batfish frequent the superstructure area. Fusiliers and anthias cloud the upper works. Inside the holds, glassy sweepers form dense schools. Lionfish are common in the shadows. Nudibranchs and flatworms inhabit the encrusted hull surfaces. Reef fish typical of Chuuk Lagoon wrecks are present; no site-specific marine life reports were found beyond these general categories.
+The Dirty Dozen Expeditions' wreck guide identifies the Sankisan Maru's masts and deck as home to "some of the best soft corals in the lagoon" -- this is the one site-specific marine life confirmation found for this wreck during this QA pass. Beyond the soft coral growth, no independent source confirms specific fish or shark sightings here; Chuuk Lagoon's regional reef fauna likely applies as it does across the lagoon's wrecks generally, but no further site-specific reports were found.
 
 ## Dive Profile
 
@@ -66,4 +64,4 @@ The Sankisan Maru is a war grave -- artifact removal is illegal. The holds conta
 The soft coral-encrusted masts and superstructure at shallow depth are the primary photographic attraction -- wide-angle shots in natural light capture the vivid colors against blue water. The radial aircraft engines in Hold 2 reward careful strobe work. The near-surface bow provides unusual wide-angle perspectives of wreck structure bathed in full sunlight. The explosion crater at the stern and surrounding debris field make dramatic wide-angle subjects for divers with the experience to reach 48 meters. The manageable forward section depth and good ambient light make this one of the easier Chuuk wrecks to photograph well.
 
 ---
-*Sources: [SS Thorfinn - Sankisan Maru](https://thorfinn.net/sankisan-maru-in-truk-lagoon/), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Dive3D - Sankisan Maru](https://dive3d.eu/models/chuuk-lagoon-truk/sankisan-maru/), [Scuba Diving Earth - Sankisan Maru](https://www.scubadivingearth.com/blogs/blog/sankisan-maru-truk-lagoon-wreck-top-wrecks-to-scuba-dive). Last updated 2026-05-22.*
+*Sources: [SS Thorfinn - Sankisan Maru](https://thorfinn.net/sankisan-maru-in-truk-lagoon/), [Dirty Dozen Expeditions - Wrecks Above 40m](https://thedirtydozenexpeditions.com/wrecks-40m), [Dive3D - Sankisan Maru](https://dive3d.eu/models/chuuk-lagoon-truk/sankisan-maru/), [Scuba Diving Earth - Sankisan Maru](https://www.scubadivingearth.com/blogs/blog/sankisan-maru-truk-lagoon-wreck-top-wrecks-to-scuba-dive). Last updated 2026-07-26.*

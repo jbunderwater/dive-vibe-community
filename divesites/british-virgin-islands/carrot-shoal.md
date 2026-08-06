@@ -61,7 +61,7 @@ The encrusting orange and red sponges create distinctive coloring for wide-angle
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-11
+- **Last Updated**: 2026-07-23
 
 ---
-*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/carrot-shoal/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-05-20.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/carrot-shoal/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-07-23.*

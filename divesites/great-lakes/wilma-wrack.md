@@ -33,11 +33,7 @@ The waters between Port Dover and Long Point on Lake Erie's Ontario north shore 
 
 ## Marine Life
 
-Yellow perch are the emblematic fish of Lake Erie north shore wrecks — expect to encounter dense schools hovering above the deck and milling around the hull. Walleye patrol the wreck edges. Smallmouth bass are territorial around the hull openings and protected deck sections. Round gobies are abundant on the silty bottom. Zebra mussels colonize all hard surfaces below the thermocline, creating the characteristic pale-striped appearance on the wood.
-
-## Dive Profile
-
-The Wilma lies upright on a flat sandy bottom at 20 metres. Explore from bow to stern, taking time to note construction details and preserved fittings. The wreck's condition makes it an engaging visual experience — the boat-building traditions of the 19th century are visible in the hull planking, framing, and iron fastenings. Ascend on the mooring or anchor line. Safety stop at 5 metres for 3 minutes.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ Lake Erie north shore conditions can be excellent in settled weather but deterio
 
 ## Photography
 
-The Wilma is a rewarding photography subject when visibility reaches its best. Wide-angle shots of the intact hull with natural light filtering from above, yellow perch schools in the mid-water, and close-up detail of the preserved wooden construction all work well. A torch significantly improves interior and shadowed area photography.
+The Wilma is a rewarding photography subject when visibility reaches its best. A torch significantly improves interior and shadowed area photography.
 
 ---
 *Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*

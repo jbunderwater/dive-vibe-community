@@ -3,7 +3,7 @@ name: Frank E. Vigor (Wrack)
 lat: 41.9590806
 lng: -81.9540333
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 28
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Frank E. Vigor (Wrack)
 
-The Frank E. Vigor is a 20th-century steel freighter wreck lying in Lake Erie near Cleveland, Ohio. This American steamer, lost in a collision in 1944, rests in approximately 20 metres of Lake Erie's cold, clear waters on the Ohio side of the lake, making it one of the more accessible wreck dives in the Ohio section of Lake Erie.
+The Frank E. Vigor is a 20th-century steel freighter wreck lying in central Lake Erie, roughly northeast of Cleveland, Ohio. Originally built in 1896 as the Sir William Siemens, this 412-foot (125.6m) steamer sank after a collision in dense fog in 1944, and now rests upside down in approximately 28 metres (92 feet) of water — deeper than the OSM-derived default depth previously listed for this site.
 
 ## Overview
 
-The Frank E. Vigor was a 97-metre steel freighter that sank during World War II after a collision in Lake Erie. The vessel went down quickly and rests on the sandy bottom in approximately 20 metres of water in the western basin of Lake Erie. As one of the larger steel vessels in Lake Erie's dive inventory, the Frank E. Vigor offers a different experience from the 19th-century wooden schooners that dominate the Ontario north shore — here, the scale of industrial Great Lakes shipping is evident in the massive steel hull. The western Lake Erie basin can have varying visibility from 3 to 12 metres depending on conditions.
+The vessel was launched in 1896 as the Sir William Siemens, later renamed William B. Pilkey (1929-1941) and finally Frank E. Vigor (1941). On April 27, 1944, while carrying a cargo of sulphur bound for Buffalo and transiting Lake Erie in thick fog, she collided with the freighter Philip Minch. Badly holed below the waterline, she capsized and sank; her entire crew was rescued by the Philip Minch. The wreck — a 412-foot, 4,344-gross-ton steel-hulled steamer — now lies upside down in approximately 28 metres (92 feet) of water. As one of the larger steel vessels in Lake Erie's dive inventory, the Frank E. Vigor offers a different experience from the 19th-century wooden schooners that dominate the Ontario north shore — here, the scale of industrial Great Lakes shipping is evident in the massive inverted hull. Lake Erie's basin in this area can have varying visibility from 3 to 12 metres depending on conditions.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Frank E. Vigor was a 97-metre steel freighter that sank during World War II 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 3–12 metres
 - **Water Temperature**: 4–24°C (seasonal); Lake Erie's western basin is the warmest of the Great Lakes
 - **Current**: Variable with wind; Lake Erie develops current quickly
@@ -33,11 +33,7 @@ The Frank E. Vigor was a 97-metre steel freighter that sank during World War II 
 
 ## Marine Life
 
-Lake Erie's western basin is one of the most productive fisheries in North America. The Frank E. Vigor wreck is a fish magnet — enormous schools of yellow perch create clouds around the hull, and large walleye patrol the structure edges. Smallmouth bass claim the hull openings as territory. Channel catfish are occasionally seen on the bottom debris field. The steel hull carries heavy zebra mussel growth, which in turn supports a complex invertebrate food web.
-
-## Dive Profile
-
-The Frank E. Vigor's steel hull is massive — a single dive explores only a portion. Choose a section to focus on: bow area (anchor chain, hawsepipes, and windlass), midships hold section, or stern with propeller and rudder. The flat, sandy bottom makes navigation straightforward. Silty conditions in the western basin require careful buoyancy management.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -47,7 +43,6 @@ Charter dive boats from Cleveland, Ohio and the Lake Erie Ohio shore provide acc
 
 - Lake Erie's western basin has warmer water temperatures than the eastern basin — a thick wetsuit may suffice in peak summer
 - Visibility is more variable here than on the Canadian north shore — check conditions with the charter operator before booking
-- The perch and walleye aggregations make this an exciting wildlife encounter as much as a historical dive
 - Artifacts on US-side Lake Erie wrecks are protected under Ohio Historic Preservation laws
 - Multiple charter operators in the Cleveland area run regular trips to the Vigor
 
@@ -57,7 +52,7 @@ Lake Erie's western basin is shallow and prone to rapid weather changes. Wind-dr
 
 ## Photography
 
-The Frank E. Vigor's steel construction provides industrial-scale photographic subjects. The dense yellow perch schools hovering in mid-water above the deck create spectacular wide-angle opportunities. Close-up images of the mussel-encrusted hull in the blue-green Lake Erie water are atmospheric.
+The Frank E. Vigor's steel construction and inverted orientation provide industrial-scale photographic subjects. Close-up images of the mussel-encrusted hull in the blue-green Lake Erie water are atmospheric.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [SS Sir William Siemens - Wikipedia](https://en.wikipedia.org/wiki/SS_Sir_William_Siemens), [Shipwreck World - Frank E. Vigor](https://www.shipwreckworld.com/maps/frank-e-vigor), [Great Lakes Vessel History - Siemens, Sir William](https://www.greatlakesvesselhistory.com/histories-by-name/s/siemens-sir-william). Last updated 2026-08-03.*

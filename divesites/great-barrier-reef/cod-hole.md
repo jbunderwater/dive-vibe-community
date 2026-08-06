@@ -2,7 +2,7 @@
 name: Cod Hole
 lat: -14.663675
 lng: 145.6634652
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: pinnacle
@@ -17,7 +17,7 @@ Cod Hole is one of the most famous dive sites in the world, located at Ribbon Re
 
 ## Overview
 
-Cod Hole earned its legendary status through decades of fish-feeding encounters with giant potato cod — massive groupers that can grow to nearly two metres in length and weigh over 100 kg. Underwater filmmakers Ron and Valerie Taylor brought the site to international attention after they documented it in 1971, and the fish have been interacting with divers since the 1970s. The potato cod are completely unafraid, approaching within touching distance and hovering motionlessly in front of your mask. On a typical dive, a dozen or more individual potato cod may be present simultaneously, an experience unlike anything else in Australian waters.
+Cod Hole earned its legendary status through decades of fish-feeding encounters with giant potato cod (Epinephelus tukula). Sources conflict on their size: Wikipedia's general species entry cites 6–30 kg, while dive-industry and Coral CoE sources describe individuals at Cod Hole specifically as reaching up to nearly two metres in length and around 100 kg or more. Underwater photographers Ron and Valerie Taylor discovered and documented the site in 1971 and initially kept its location confidential before it became internationally known; the resident cod have been fed and interacted with by divers since the 1970s. On a typical dive, around a dozen individual potato cod may be present simultaneously.
 
 The site itself is a coral pinnacle at Ribbon Reef No. 10, rising from the sandy seafloor to around 8 metres depth, surrounded by sloping reef and rubble at approximately 25 metres. Where divemaster-led feeding still occurs on some liveaboard programs, only the guides handle the bait; individual divers are not permitted to feed the fish directly.
 
@@ -26,7 +26,7 @@ The site itself is a coral pinnacle at Ribbon Reef No. 10, rising from the sandy
 - **Location**: Ribbon Reef No. 10, northern Great Barrier Reef, ~240km north of Cairns, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–40 metres
 - **Current**: Mild to moderate; can be stronger on the outgoing tide
@@ -34,7 +34,7 @@ The site itself is a coral pinnacle at Ribbon Reef No. 10, rising from the sandy
 
 ## Marine Life
 
-Potato cod are the headline act, but Cod Hole also holds a resident Napoleon (humphead) maori wrasse that matches the cod for size and audacity. Moray eels — including giant morays — emerge from crevices along the pinnacle. Coral trout patrol the reef perimeter, while schools of batfish, sweetlips, and snapper fill the mid-water. At depth on the sandy bottom, whitetip reef sharks rest in loose groups. Occasional hammerheads have been reported on the deeper approaches. The pinnacle itself is decorated with sea fans, soft corals, and encrusting sponges that attract nudibranchs and smaller invertebrates.
+Potato cod are the headline act, and multiple sources (Coral CoE, Spirit of Freedom) confirm a resident population of Napoleon/humphead/Maori wrasse at a near-continuous cleaning station here. Spirit of Freedom's site listing also documents flowery cod, spine-cheek anemonefish, lionfish, pygmy seahorses, reef sharks, red bass, nudibranchs, lacy scorpionfish, and ghost pipefish at Cod Hole specifically. Earlier claims of moray eels, coral trout, batfish, sweetlips, snapper schools, and hammerheads were not corroborated by any source consulted and have been removed.
 
 ## Dive Profile
 
@@ -58,7 +58,7 @@ Currents can strengthen rapidly with tidal changes. Monitor depth carefully when
 
 ## Photography
 
-Cod Hole is a wide-angle dream. The sheer size of the potato cod demands a fisheye or rectilinear wide-angle lens to capture them in full. Shoot upward with ambient light behind the pinnacle for dramatic silhouettes, or use strobes close in to reveal the cod's spotted patterns. The Napoleon wrasse, coral trout, and schooling fish provide constant compositional variety throughout the dive.
+Cod Hole is a wide-angle dream. The sheer size of the potato cod demands a fisheye or rectilinear wide-angle lens to capture them in full. Shoot upward with ambient light behind the pinnacle for dramatic silhouettes, or use strobes close in to reveal the cod's spotted patterns. The resident Napoleon wrasse and macro subjects (pygmy seahorses, ghost pipefish) provide compositional variety throughout the dive.
 
 ---
-*Sources: [Cairns Dive Adventures - Cod Hole](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/cod-hole/), [Wikipedia - Cod Hole](https://en.wikipedia.org/wiki/Cod_Hole), [Ribbon Reefs.com - The Cod Hole](https://ribbonreefs.com/the-cod-hole/), [Great Barrier Reef Liveaboards - Cod Hole](https://greatbarrierreefliveaboards.com/reef-location/ribbon-reefs/). Last updated 2026-05-30.*
+*Sources: [Cairns Dive Adventures - Cod Hole](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/cod-hole/), [Wikipedia - Cod Hole](https://en.wikipedia.org/wiki/Cod_Hole), [Ribbon Reefs.com - The Cod Hole](https://ribbonreefs.com/the-cod-hole/), [Great Barrier Reef Liveaboards - Cod Hole](https://greatbarrierreefliveaboards.com/reef-location/ribbon-reefs/), [Coral CoE - Ribbon Reefs and Cod Hole](https://www.coralcoe.org.au/ribbon-reefs-cod-hole.html), [Spirit of Freedom - Ribbon Reefs](https://www.spiritoffreedom.com.au/ribbon-reefs/). Potato cod weight conflict flagged; marine-life list corrected to sourced species. Last updated 2026-08-03.*

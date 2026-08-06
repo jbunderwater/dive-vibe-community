@@ -13,13 +13,13 @@ addedBy: osm_import
 
 ## Admiralty Anchorage
 
-Admiralty Anchorage is a sheltered reef dive site at Osprey Reef in the Coral Sea, Queensland, Australia.
+Admiralty Anchorage (also referred to by operators as "Admiralty Anchor") is a reef dive site at Osprey Reef in the Coral Sea, Queensland, Australia, named for an anchor lodged partway through a swim-through tunnel.
 
 ## Overview
 
-Admiralty Anchorage sits on the western, leeward side of Osprey Reef, where the reef platform creates a natural anchorage that has historically been used by vessels sheltering from the Coral Sea's exposed conditions. The sheltered location means calmer water than the North Horn side, and the protected reef here has developed differently from the exposed outer faces — with denser coral communities and more varied bottom topography in the shallows.
+According to Mike Ball Dive Expeditions, who run regular liveaboard itineraries here, Admiralty Anchorage takes its name from an anchor lodged midway through a tunnel that forms an exciting swim-through — not, as previously described on this page, a historical vessel-sheltering anchorage. The site is built around a maze of large, towering coral bommies that hold a good density of fish life around the tunnel and its surrounding structures.
 
-The site functions as a useful complement to the more dramatic exposed sites on the northern and eastern faces, offering calm, accessible diving that suits less experienced divers or serves as a recovery dive between more demanding sites.
+This correction was made during a 2026-08-03 re-audit; no source found supports the earlier "sheltering vessels" origin story, so it has been removed.
 
 ## Site Information
 
@@ -34,11 +34,11 @@ The site functions as a useful complement to the more dramatic exposed sites on 
 
 ## Marine Life
 
-The calmer conditions on the leeward side allow delicate coral structures to thrive that would be broken by surge on the outer faces. Table corals and branching Acropora form dense stands in the shallows. Napoleon wrasse are frequently encountered here — the atoll's resident population is habituated to divers throughout. Reef sharks patrol the deeper margins. The sandy bottom between coral heads provides habitat for stingrays, and the coral overhangs shelter crayfish, moray eels, and sleeping turtles. A resident hawksbill turtle has been reported by multiple liveaboard crews.
+Mike Ball Dive Expeditions describes the bommie maze as "home to plenty of fish" but no source consulted names specific species for this site. Osprey Reef's general fauna (grey reef and whitetip sharks, Napoleon wrasse, turtles, and dense hard coral) applies to the atoll broadly, but no site-specific sighting reports for Admiralty Anchorage were found — species claims that appeared in earlier versions of this page (a resident hawksbill turtle "reported by multiple liveaboard crews," habituated Napoleon wrasse, crayfish) have been removed as unsourced.
 
 ## Dive Profile
 
-Explore the mixed coral and sand terrain at 10–18 metres before working into the shallower coral garden at 5–10 metres. The site allows for a relaxed, non-linear dive path — ideal for divers who prefer to explore at their own pace rather than following a defined route. Night dives in the anchorage are comfortable given the protected conditions.
+Explore the maze of coral bommies and the tunnel swim-through, at depths consistent with the site's 18-metre maximum. The site allows for a relaxed, non-linear dive path — ideal for divers who prefer to explore at their own pace rather than following a defined route.
 
 ## Entry and Exit
 
@@ -47,8 +47,7 @@ Liveaboard only. Entry from the dive platform or tender with free descent. The p
 ## Tips and Recommendations
 
 - A good choice for the first dive of the day to warm up before tackling North Horn
-- The Napoleon wrasse are particularly friendly at this site — move slowly and they may follow you for extended periods
-- Check under table corals for sleeping nurse sharks and resting turtles
+- Look for the anchor lodged in the tunnel that gives the site its name, and take care navigating the swim-through
 
 ## Safety Considerations
 
@@ -56,7 +55,7 @@ Admiralty Anchorage is among the most straightforward dives at Osprey Reef. The 
 
 ## Photography
 
-The sheltered conditions make Admiralty Anchorage ideal for close-up and macro work. The Napoleon wrasse provide excellent portrait opportunities. Table coral structures shot from below against the surface light create strong architectural compositions. The sandy areas offer opportunities for blue-spotted stingray and flatfish images.
+The tunnel swim-through and bommie maze suit wide-angle photography of the coral architecture. No site-specific subject recommendations beyond that were found in available sources.
 
 ---
-*Sources: [Mike Ball Dive Expeditions - Osprey Reef Liveaboard](https://www.mikeball.com/great-barrier-reef-liveaboard/osprey-reef-liveaboard/), [Spirit of Freedom - 4 Night Liveaboard](https://www.spiritoffreedom.com.au/dive-liveaboards/4-night-liveaboard-dive-trip/), [Dive the World - Osprey Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php), [Cairns Dive Adventures - Osprey Reef](https://cairnsdiveadventures.com.au/liveaboard-diving-cairns/osprey-reef-coral-sea-liveaboard-diving/). Last updated 2026-05-30.*
+*Sources: [Mike Ball Dive Expeditions - Osprey Reef Liveaboard](https://www.mikeball.com/great-barrier-reef-liveaboard/osprey-reef-liveaboard/), [Spirit of Freedom - 4 Night Liveaboard](https://www.spiritoffreedom.com.au/dive-liveaboards/4-night-liveaboard-dive-trip/), [Dive the World - Osprey Reef](https://www.dive-the-world.com/diving-sites-australia-great-barrier-reef-osprey-reef.php). Marine-life claims not directly sourced were removed on re-audit. Last updated 2026-08-03.*

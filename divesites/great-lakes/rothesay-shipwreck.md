@@ -3,7 +3,7 @@ name: Rothesay (Shipwreck)
 lat: 44.6996694
 lng: -75.5271694
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 9
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Rothesay (Shipwreck)
 
-The Rothesay is a 19th-century schooner that sank in the St. Lawrence River on September 12, 1889. Now lying in approximately 20 metres of the clear Thousand Islands waters near Brockville, Ontario, the Rothesay has rested on the river bottom for over 135 years — remarkably preserved by the cold, flowing freshwater of the St. Lawrence.
+The Rothesay is a 19th-century wooden side-wheel steamer, built 1867-68 in Saint John, New Brunswick, that collided with the tug Myra at Prescott, Ontario on September 12, 1889. Now lying in approximately 9 metres (30 feet) of the St. Lawrence River near Prescott, the Rothesay has rested on the river bottom for over 135 years.
 
 ## Overview
 
-The Rothesay went down in the St. Lawrence River in 1889, adding to the growing fleet of vessels that would come to define the Thousand Islands as one of North America's premier wreck diving destinations. At 20 metres in the St. Lawrence's clean, constantly-flowing freshwater, the vessel's wooden hull has survived remarkably well — the river's cold temperature and oxygen-depleted bottom conditions slowing deterioration dramatically compared to saltwater. The Rothesay's documented sinking date (September 12, 1889) makes this one of the historically identifiable wrecks in the Thousand Islands collection, allowing divers to connect with a specific moment in Great Lakes maritime history. Visibility in this section of the St. Lawrence is typically 8–15 metres.
+The Rothesay was a wooden twin side-wheeler, launched February 2, 1868, at Saint John, New Brunswick. She originally sailed between Fredericton and Saint John before being relocated to the St. Lawrence River to run between Montreal and Prescott, where she earned the nickname "Greyhound of the St. Lawrence." On September 12, 1889, she collided with the tug Myra at Prescott, Ontario; no Rothesay passengers were lost, but two Myra crewmen were killed. In 1901, cadets from the Royal Military College in Kingston used the wreckage for explosives-handling exercises. Divers from the Ottawa Underwater Society rediscovered the wreck on September 20, 1964. She now lies in approximately 9 metres (30 feet) of water in an area with very little current, west of Prescott — making this a shallower, calmer dive than most other Thousand Islands wrecks. Visibility in this section of the St. Lawrence is typically 8–15 metres.
 
 ## Site Information
 
-- **Location**: St. Lawrence River, Ontario, Canada (Thousand Islands, near Brockville)
+- **Location**: St. Lawrence River, Ontario, Canada (near Prescott)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 8–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
-- **Current**: Moderate; St. Lawrence current varies with season and water levels
+- **Current**: Very little current at this specific site
 - **Best Time**: June to September
 
 ## Marine Life
 
-The St. Lawrence River Thousand Islands section supports a rich fish community. Northern pike are commonly encountered near 19th-century wooden wrecks — the sheltered hull provides ideal ambush structure. Smallmouth bass are resident on the deck and around the hull openings. Yellow perch and walleye are present. Freshwater drum (sheepshead) — less common further into the Great Lakes — are occasionally seen in the St. Lawrence system. The flowing water limits zebra mussel dominance, leaving more natural hull surfaces visible.
-
-## Dive Profile
-
-Descend to the wreck and explore, using the hull as shelter from current. The Rothesay's 1889 vintage means 19th-century wooden schooner construction — hull planking, iron hardware, and rigging attachment points are identifiable features. On ascent, deploy SMB early for pickup coordination. Safety stop at 5 metres.
+No site-specific marine-life reports were found in the sources consulted for this profile. The regional freshwater fauna described in the [Great Lakes destination overview](../great-lakes) may be present, but specific sightings at this site have not been independently confirmed, so none are listed here.
 
 ## Entry and Exit
 
@@ -57,7 +53,7 @@ St. Lawrence River current requires careful dive planning and an experienced div
 
 ## Photography
 
-The Rothesay's 135-year-old hull in the clear St. Lawrence water creates outstanding photography conditions. Northern pike encounters add wildlife photography opportunities. The flowing river's characteristic blue-green tones produce images with a distinctive freshwater character.
+The Rothesay's 135-year-old hull in the clear St. Lawrence water creates outstanding photography conditions. The flowing river's characteristic blue-green tones produce images with a distinctive freshwater character.
 
 ---
-*Description based on OSM data and regional Great Lakes diving knowledge. Historical records for this vessel have not been independently confirmed from multiple dedicated sources. Last updated 2026-05-30.*
+*Sources: [The Scuba News - Rothesay Wreck in Prescott Ontario](https://www.thescubanews.com/2018/04/24/rothesay-wreck-in-prescott-ontario-2/), [Augusta Township - The Rothesay (1867-1889)](https://augusta.ca/recreation-facilities/the-rothesay-1867-1889/), [Sharky's Scuba - Rothesay](https://sharkyscuba.com/local-ottawa-diving/rothesay/). Last updated 2026-08-03.*
