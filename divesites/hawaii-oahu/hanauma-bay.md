@@ -37,4 +37,4 @@ Over 400 fish species are confirmed within the preserve, including parrotfish, y
 The bay is open Wednesday through Sunday, 6:45 AM to 4 PM (closed Mondays and Tuesdays for reef recovery). All visitors must watch a required orientation video covering marine protection and safety rules. Entry fee: $25 per adult non-resident (residents with valid Hawaii ID free; children 12 and under free). As of late 2025, advance reservations are required—bookings open two days prior at 7:00 AM HST through the official reservation system.
 
 ---
-*Sources: [Hanauma Bay State Park – Official Site](https://hanaumabaystatepark.com/), [Hawaii Guide – Hanauma Bay](https://www.hawaii-guide.com/oahu/sights/hanauma-bay), [DLNR – Hanauma Bay](https://dlnr.hawaii.gov/). Last updated 2026-06-06.*
+*Sources: [Hanauma Bay State Park – Official Site](https://hanaumabaystatepark.com/), [Hawaii Guide – Hanauma Bay](https://www.hawaii-guide.com/oahu/sights/hanauma-bay), [DLNR – Hanauma Bay](https://dlnr.hawaii.gov/). Last updated 2026-08-06.*

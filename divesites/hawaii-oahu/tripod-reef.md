@@ -17,7 +17,7 @@ Tripod Reef is a fringing coral reef off Oahu's west-central coast, recorded in 
 
 ## Overview
 
-Tripod Reef is an OSM-recorded fringing coral reef formation. The OSM data tags it as a submerged obstruction (coral reef type). The name may refer to navigational markers or the reef's structure. No dive operator websites, forum trip reports, or dive databases documented this site under this name during the June 2026 QA pass. The OSM-derived maximum depth of 20 meters is unverified against dive sources.
+Tripod Reef is an OSM-recorded fringing coral reef formation. The OSM data tags it as a submerged obstruction (coral reef type). The name may refer to navigational markers or the reef's structure. No dive operator websites, forum trip reports, or dive databases documented this site under this name during the June 2026 and August 2026 QA passes. The OSM-derived maximum depth of 20 meters is unverified against dive sources.
 
 ## Site Information
 
@@ -32,4 +32,4 @@ Tripod Reef is an OSM-recorded fringing coral reef formation. The OSM data tags 
 *No site-specific marine life sources found. Regional Oahu reef fauna applies but is not attributed to this specific site.*
 
 ---
-*Description based on OSM data. No site-specific sources found during June 2026 QA research pass. Last updated 2026-06-06.*
+*Description based on OSM data. No site-specific sources found during the June 2026 and August 2026 QA research passes. Last updated 2026-08-06.*

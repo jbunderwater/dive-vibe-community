@@ -4,7 +4,7 @@ addedBy: osm_import
 
 ## Hawaii - Oahu
 
-From WWII shipwrecks off Waikiki to North Shore lava formations and year-round dolphin encounters at Electric Beach, Oahu delivers the most diverse diving in Hawaii.
+From WWII shipwrecks off Waikiki to North Shore lava formations and occasional dolphin sightings at Electric Beach, Oahu delivers the most diverse diving in Hawaii.
 
 ## Description
 
@@ -12,7 +12,7 @@ Oahu features documented dive sites spanning the island's south, west, and north
 
 ### Diving Opportunities
 
-- **Wreck Diving**: Wreck sites including the YO-257 (WWII refueling vessel at 30m), Sea Tiger (freighter at 37m), Mahi (Navy minesweeper at 27m), Corsair F4U fighter plane (at 32m), San Pedro (Japanese fishing vessel at 30m), and the historic USS LST-480 from the 1944 West Loch disaster
+- **Wreck Diving**: Wreck sites including the YO-257 (WWII yard oiler at 30m), Sea Tiger (freighter at 37m), Mahi (Navy minesweeper at 27m), Corsair F4U fighter plane (at 34m), San Pedro (Japanese-built fishing vessel at 26m), and the historic USS LST-480 from the 1944 West Loch disaster (not accessible for recreational diving — restricted military zone)
 - **Reef Diving**: Reef sites including Hanauma Bay marine preserve, Sharks Cove and Three Tables on the North Shore (summer only), Electric Beach on the west side, and Turtle Canyon and Turtle Alley off Waikiki
 - **Shore Diving**: Shore-accessible sites including Sharks Cove, Three Tables, Electric Beach (Kahe Point), and Hanauma Bay
 - **Boat Diving**: Boat-access sites departing primarily from Kewalo Basin Harbor near Waikiki and Waianae Harbor on the west side
@@ -29,7 +29,7 @@ Oahu features documented dive sites spanning the island's south, west, and north
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 24-28°C (75-82°F) year-round. Visibility varies significantly by location: 100-150 feet off the south shore wrecks, 60-100 feet at North Shore sites in summer, and variable at west side sites. September and October offer the best overall balance of temperature, visibility, and calm conditions.
-- **Marine Biodiversity**: Hawaiian green sea turtles are encountered at nearly every site, particularly at Turtle Canyon and Turtle Alley. Eagle rays are common around the wreck sites. Spinner dolphins are resident at Electric Beach year-round due to warm water discharge from the nearby power plant. Whitetip reef sharks rest at Sharks Cove and Makaha Caverns. Hanauma Bay hosts over 400 fish species in its protected volcanic crater. Garden eels, jacks, and stingrays inhabit the sandy areas around the Corsair plane wreck.
+- **Marine Biodiversity**: Hawaiian green sea turtles are encountered at nearly every site, particularly at Turtle Canyon and Turtle Alley. Eagle rays are common around the wreck sites. Spinner dolphins are occasionally sighted at Electric Beach, most often in early morning hours, drawn to the area around the power plant's warm water discharge. Whitetip reef sharks rest at Sharks Cove and Makaha Caverns. Hanauma Bay hosts over 400 fish species in its protected volcanic crater. Garden eels and stingrays inhabit the sandy areas around the Corsair plane wreck.
 - **Conservation**: Hanauma Bay is a protected Marine Life Conservation District (closed Monday-Tuesday). Sharks Cove and Three Tables are within the Pupukea Marine Sanctuary with no-take regulations. Mandatory dive flags are required at all shore dive sites. North Shore sites are only diveable May through September due to winter surf.
 
 ## Additional Information
@@ -40,4 +40,4 @@ Oahu features documented dive sites spanning the island's south, west, and north
 - **Safety**: North Shore sites are strictly summer-only (May-September); winter swells make them extremely dangerous. South shore wreck dives to 30-37 meters require Advanced certification and current awareness. Strong currents can develop at China Walls and offshore wreck sites. Nearest hyperbaric chamber is at the University of Hawaii. Hanauma Bay has lifeguards on duty.
 
 ---
-*Sources: [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Oahu Diving](https://www.oahudiving.com/facts.htm), [Banzai Divers Hawaii](https://banzaidivershawaii.com/), [PADI - Diving in Hawaii](https://www.padi.com/diving-in/hawaii/). Last updated 2026-04-05.*
+*Sources: [Hawaii Eco Divers - Scuba Diving Sites](https://hawaiiecodivers.com/scuba-diving-sites/), [Oahu Diving](https://www.oahudiving.com/facts.htm), [Banzai Divers Hawaii](https://banzaidivershawaii.com/), [PADI - Diving in Hawaii](https://www.padi.com/diving-in/hawaii/). Last updated 2026-08-06 (depth figures for Corsair and San Pedro corrected to match validated per-site data; dolphin sighting language softened to match site-specific sourcing).*

@@ -40,4 +40,4 @@ Note: one operator source (oahudiving.com) gives the vessel length as 165 feet; 
 Hawaiian green sea turtles frequently rest on the wreck structure. White-tip reef sharks and reef trevally patrol the shadowed corridors. Eagle rays pass through the site. The coral-encrusted hull hosts abundant reef fish, eels, and invertebrates.
 
 ---
-*Sources: [Wikipedia – YO-257](https://en.wikipedia.org/wiki/YO-257), [Rainbow Scuba – YO-257](https://rainbowscuba.com/yo257.html), [Dive Oahu – YO-257 & San Pedro](https://www.diveoahu.com/yo257-san-pedro), [Oahu Diving – YO-257](https://www.oahudiving.com/yo_257.htm). Last updated 2026-06-06.*
+*Sources: [Wikipedia – YO-257](https://en.wikipedia.org/wiki/YO-257), [Rainbow Scuba – YO-257](https://rainbowscuba.com/yo257.html), [Dive Oahu – YO-257 & San Pedro](https://www.diveoahu.com/yo257-san-pedro), [Oahu Diving – YO-257](https://www.oahudiving.com/yo_257.htm). Last updated 2026-08-06.*

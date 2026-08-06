@@ -38,4 +38,4 @@ Sea turtles frequently rest inside the caves. Massive pufferfish and schools of 
 A good dive light (and backup) is required for cavern exploration. Surge can be significant—conditions should be assessed before entry. Dive flag/buoy, surface marker buoy, buddy system, and whistle are recommended. Swimming to the site from the beach is approximately a quarter mile and is challenging with full scuba gear; boat access is strongly preferred.
 
 ---
-*Sources: [Oahu Dive Guide – Makaha Caverns](https://www.oahudiveguide.com/post/exploring-makaha-caverns), [Banzai Divers Hawaii – Makaha Caverns](https://banzaidivershawaii.com/dive/makaha-caverns/), [Hawaii Greatest Dive Sites – Makaha Caverns](https://hawaii.greatestdivesites.com/oahu/makaha_caverns). Last updated 2026-06-06.*
+*Sources: [Oahu Dive Guide – Makaha Caverns](https://www.oahudiveguide.com/post/exploring-makaha-caverns), [Banzai Divers Hawaii – Makaha Caverns](https://banzaidivershawaii.com/dive/makaha-caverns/), [Hawaii Greatest Dive Sites – Makaha Caverns](https://hawaii.greatestdivesites.com/oahu/makaha_caverns). Last updated 2026-08-06.*

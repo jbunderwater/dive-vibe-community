@@ -37,4 +37,4 @@ Approximately 40 species of coral are documented in Kaneohe Bay, including rice 
 Tour packages departing from He'eia Kea Boat Harbor typically include snorkeling, kayaking, and stand-up paddleboarding. The calm, protected water makes this suitable for families and non-swimmers.
 
 ---
-*Sources: [Kaneohe Bay Ocean Sports – Sandbar Snorkeling](https://kaneohebayoceansports.com/kaneohe-bay-sandbar-snorkeling/), [Britannica – Kaneohe Bay](https://www.britannica.com/place/Kaneohe-Bay), [Hawaii Activities – Kaneohe Bay Snorkeling](https://www.hawaiiactivities.com/travelguide/kaneohe-bay-snorkeling-the-ultimate-guide/). Last updated 2026-06-06.*
+*Sources: [Kaneohe Bay Ocean Sports – Sandbar Snorkeling](https://kaneohebayoceansports.com/kaneohe-bay-sandbar-snorkeling/), [Britannica – Kaneohe Bay](https://www.britannica.com/place/Kaneohe-Bay), [Hawaii Activities – Kaneohe Bay Snorkeling](https://www.hawaiiactivities.com/travelguide/kaneohe-bay-snorkeling-the-ultimate-guide/). Last updated 2026-08-06.*

@@ -37,4 +37,4 @@ Sea turtles, octopus, and moray eels are regularly reported at this site. A vari
 Entry is on the south side of the cove, walking around to the east. Large underwater rocks can strike tanks and legs. The entry trail from the parking area is rocky and steep.
 
 ---
-*Sources: [Oahu Dive Guide – Sharks Cove](https://www.oahudiveguide.com/post/sharks-cove), [Hawaii Eco Divers – North Shore](https://hawaiiecodivers.com/scuba-diving-north-shore-oahu/), [DLNR – Pupukea MLCD](https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-pupukea/). Last updated 2026-06-06.*
+*Sources: [Oahu Dive Guide – Sharks Cove](https://www.oahudiveguide.com/post/sharks-cove), [Hawaii Eco Divers – North Shore](https://hawaiiecodivers.com/scuba-diving-north-shore-oahu/), [DLNR – Pupukea MLCD](https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-pupukea/). Last updated 2026-08-06.*

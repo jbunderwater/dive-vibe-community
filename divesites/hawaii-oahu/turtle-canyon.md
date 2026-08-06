@@ -33,4 +33,4 @@ Located 1.5–2.5 miles offshore from Waikiki on Oahu's south shore and accessib
 Hawaiian green sea turtles and hawksbill turtles are the primary draw, gathering at cleaning stations where gold ring surgeonfish and small wrasses remove algae and parasites from their shells. The reef also hosts butterflyfish, flame angelfish, moray eels, octopi, and abundant reef fish. Large standalone coral heads with Christmas tree worms are a notable feature. Whitetip reef sharks are occasionally sighted.
 
 ---
-*Sources: [Dive Oahu – Turtle Canyon](https://www.diveoahu.com/turtle-canyon), [Oahu Diving – Turtle Canyon](https://www.oahudiving.com/turtle_canyons.htm), [Honolulu Scuba Company – Turtle Canyon](https://honoluluscubacompany.com/dive-sites/turtle-canyon/). Last updated 2026-06-06.*
+*Sources: [Dive Oahu – Turtle Canyon](https://www.diveoahu.com/turtle-canyon), [Oahu Diving – Turtle Canyon](https://www.oahudiving.com/turtle_canyons.htm), [Honolulu Scuba Company – Turtle Canyon](https://honoluluscubacompany.com/dive-sites/turtle-canyon/). Last updated 2026-08-06.*

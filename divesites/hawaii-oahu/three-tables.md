@@ -33,4 +33,4 @@ Situated along Kamehameha Highway within Pupukea Beach Park, Three Tables offers
 Convict tang, Moorish idol, trumpetfish, yellow tang, surgeonfish, pencil urchins, small moray eels, and octopus in crevices are commonly reported at this site. Hawaiian green sea turtles occasionally visit to graze on algae. No lifeguards on duty—divers should check conditions before entering.
 
 ---
-*Sources: [To-Hawaii.com – Three Tables](https://www.to-hawaii.com/oahu/beaches/threetables.php), [Wildlife Hawaii – Pupukea Beach Park](https://wildlifehawaii.com/pupukea-beach-park-sharks-cove-ke-iki-beach-three-tables/), [DLNR – Pupukea MLCD](https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-pupukea/). Last updated 2026-06-06.*
+*Sources: [To-Hawaii.com – Three Tables](https://www.to-hawaii.com/oahu/beaches/threetables.php), [Wildlife Hawaii – Pupukea Beach Park](https://wildlifehawaii.com/pupukea-beach-park-sharks-cove-ke-iki-beach-three-tables/), [DLNR – Pupukea MLCD](https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-pupukea/). Last updated 2026-08-06.*

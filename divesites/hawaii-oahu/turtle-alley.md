@@ -35,4 +35,4 @@ Hawaiian green sea turtles are regularly encountered at cleaning stations. Gold 
 *Description based on the adjacent Turtle Canyon reef system. No sources found that distinguish Turtle Alley as an independently documented site from Turtle Canyon.*
 
 ---
-*Sources: [Dive Oahu – Turtle Canyon](https://www.diveoahu.com/turtle-canyon), [Oahu Diving – Turtle Canyon](https://www.oahudiving.com/turtle_canyons.htm). Last updated 2026-06-06.*
+*Sources: [Dive Oahu – Turtle Canyon](https://www.diveoahu.com/turtle-canyon), [Oahu Diving – Turtle Canyon](https://www.oahudiving.com/turtle_canyons.htm). Last updated 2026-08-06.*
