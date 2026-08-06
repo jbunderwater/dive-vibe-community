@@ -1,7 +1,7 @@
 ---
 name: Grey Ghost
-lat: 30.04715
-lng: -85.0926
+lat: 30.04817
+lng: -86.09333
 difficulty: Advanced
 maxDepth: 33
 entryType: boat
