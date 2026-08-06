@@ -1,0 +1,15 @@
+[
+  {
+    "filename": "grey-ghost.md",
+    "name": "Grey Ghost",
+    "lat": 30.04817,
+    "lng": -86.09333,
+    "addedBy": "osm_import",
+    "difficulty": "Advanced",
+    "maxDepth": 33,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": null,
+    "osmId": null
+  }
+]
