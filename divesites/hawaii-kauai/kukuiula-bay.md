@@ -35,5 +35,7 @@ Fathom Five Divers operates guided shore dives from this site, noting that the r
 
 Sea turtles, moray eels, and large schools of reef fish are confirmed by Fathom Five and local divers as regular residents of the bay. The protected waters attract species typical of Kauai's south shore reef community. Specific species documentation at this site beyond the above is limited in available sources.
 
+Re-audited 2026-08-06: Explore Kauai Scuba's current dive-sites listing has no Kukuiula Bay-specific content (confirmed via direct site search), so it has been dropped as a source. Replaced with Kauai Beach Scoop, which independently confirms the breakwater-sheltered, rocky-bottom conditions and facility list below but likewise has no site-specific marine life documentation — so the "limited in available sources" caveat above still stands rather than being padded with unverified species.
+
 ---
-*Sources: [Fathom Five Divers - Kukuiula Harbor](https://www.fathomfive.com/blog/kukuiula/), [Seasport Divers - Dive Map](https://seasportdivers.com/dive-map/), [Explore Kauai Scuba - Dive Sites](https://explorekauaiscuba.com/dive-sites/). Last updated 2026-06-06.*
+*Sources: [Fathom Five Divers - Kukuiula Harbor](https://www.fathomfive.com/blog/kukuiula/), [Seasport Divers - Dive Map](https://seasportdivers.com/dive-map/), [Kauai Beach Scoop - Kukuiula Beach](https://www.kauaibeachscoop.com/listing/kukuiula-beach/). Last updated 2026-08-06.*

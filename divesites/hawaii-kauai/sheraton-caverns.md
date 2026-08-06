@@ -33,7 +33,7 @@ Sea turtles are the defining feature: Hawaiian green sea turtles graze on algae 
 
 ## Marine Life
 
-Hawaiian green sea turtles are consistently encountered in high numbers on most dives. Whitemouth moray eels are common residents of the lava crevices. Schooling reef fish, octopuses, and nudibranchs are regularly seen. White-tip reef sharks are occasionally present. Manta rays have been reported on rare seasonal visits. Humpback whale sounds may be audible during winter months (December–April).
+Hawaiian green sea turtles are consistently encountered in high numbers on most dives. Whitemouth and yellowmargin moray eels are common residents of the lava crevices. Schooling reef fish, octopuses, and nudibranchs are regularly seen. Zentacle reviewer reports (re-checked 2026-08-06) add reef crabs, spiny lobsters, shrimp, turkeyfish (a lionfish relative), and occasional leaf fish and giant anglerfish to the confirmed sightings at this specific site. White-tip reef sharks are occasionally present, more often in mornings. Manta rays have been reported on rare seasonal visits. Humpback whale sounds may be audible during winter months (December–April).
 
 Note: Whale sharks are not documented as regular visitors to this site; the species is only rarely encountered in Kauai's near-shore waters.
 
@@ -44,4 +44,4 @@ Note: Whale sharks are not documented as regular visitors to this site; the spec
 - Depth is manageable for newly certified divers, but cavern navigation benefits from a guide on a first visit
 
 ---
-*Sources: [Seasport Divers - Sheraton Caverns](https://seasportdivers.com/dive-map/sheraton-caverns-dive/), [Garden Isle Divers - Sheraton Caverns](https://www.gardenisledivers.com/sheraton-caverns/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [Scuba Diving Magazine - Sheraton Caverns](https://www.scubadiving.com/sheraton-caverns-dive-kauais-underwater-jungle-lava). Last updated 2026-06-06.*
+*Sources: [Seasport Divers - Sheraton Caverns](https://seasportdivers.com/dive-map/sheraton-caverns-dive/), [Garden Isle Divers - Sheraton Caverns](https://www.gardenisledivers.com/sheraton-caverns/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [Zentacle - Sheraton Caverns](https://www.zentacle.com/Beach/85/sheraton-caverns), [Scuba Diving Magazine - Sheraton Caverns](https://www.scubadiving.com/sheraton-caverns-dive-kauais-underwater-jungle-lava) (not re-verifiable this pass, page blocked). Last updated 2026-08-06.*

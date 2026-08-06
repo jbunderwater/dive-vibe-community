@@ -33,7 +33,9 @@ Because of the site's position near the point, currents here can run strong, and
 
 ## Marine Life
 
-The ledge is well-documented for its macro life: numerous nudibranch species occupy the coral surfaces, and the rare orange-banded cowry has been reported here. Pincushion sea stars and Triton's trumpet shells stud the shelf. Hermit crabs and small crustaceans shelter in the cauliflower coral. Orange cup coral and black coral trees line the overhang. Green sea turtles are regularly encountered. Note: earlier descriptions citing giant trevally, white-tip sharks, and blue-striped snapper schools are sourced from dive operator listings that share language across multiple sites; site-specific confirmation for these species at Brennecke's Ledge specifically (vs. nearby sites) was not obtained in this research pass.
+Re-checked against current source pages (2026-08-06): Garden Isle Divers' current listing highlights yellow Commerson's frogfish and "various critters" drawn to the ledge structure. Fathom Five's current listing names grey reef sharks, the spotted knifejaw, giant tuna, and black coral, with humpback whales as a seasonal sighting.
+
+Note: an earlier version of this description listed numerous nudibranch species, orange-banded cowry, pincushion sea stars, Triton's trumpet shells, and green sea turtles as regular sightings here. Neither Garden Isle Divers' nor Fathom Five's current site content repeats these claims for Brennecke's Ledge specifically, so they have been removed rather than carried forward unverified. Scuba Diving Magazine's original article, previously cited for this site, returned a 403 (blocked) on re-fetch and could not be re-verified this pass; it remains listed as a source but its unique claims are not relied on above.
 
 ## Tips
 
@@ -42,4 +44,4 @@ The ledge is well-documented for its macro life: numerous nudibranch species occ
 - The distance from the harbor makes turnaround difficult; treat this as a one-way drift
 
 ---
-*Sources: [Garden Isle Divers - Brennecke's Ledge](https://www.gardenisledivers.com/brenneckes-ledge/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [Scuba Diving Magazine - Brennecke's Ledges](https://www.scubadiving.com/dive-brenneckes-ledges-in-kauai). Last updated 2026-06-06.*
+*Sources: [Garden Isle Divers - Brennecke's Ledge](https://www.gardenisledivers.com/brenneckes-ledge/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [Scuba Diving Magazine - Brennecke's Ledges](https://www.scubadiving.com/dive-brenneckes-ledges-in-kauai) (not re-verifiable this pass, page blocked). Last updated 2026-08-06.*

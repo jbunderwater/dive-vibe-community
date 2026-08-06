@@ -3,7 +3,7 @@ name: General Store
 lat: 21.876
 lng: -159.445
 difficulty: Intermediate
-maxDepth: 27
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null

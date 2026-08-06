@@ -21,7 +21,7 @@ The primary dive sites cluster in the channel between Niihau island and the adja
 
 **Vertical Awareness** — A massive pinnacle dropping from 45 feet at its crest to depths beyond sport diving limits. The flat top is scarred by rock-boring urchins; sandbar sharks circle at depth while schools of butterflyfish feed on plankton in the current above. Multiple shark species (sources confirm sandbar and grey reef) are commonly seen on a single dive here.
 
-**Keyhole Drift to Lehua Gardens** — A drift dive famed for schools of 30+ grey reef sharks. Spotted eagle rays and occasional whale sharks have been reported by operators.
+**Keyhole Drift to Lehua Gardens** — A drift dive famed for schools of 30+ grey reef sharks. Spotted eagle rays are regularly seen; Explore Kauai Scuba's current site listing also names whale sharks and tiger sharks as occasional encounters specifically at this site (previously this description omitted tiger sharks for lack of site-specific sourcing — that source now exists).
 
 **Niihau Arches** — A series of sea caves and lava tubes, typically dived as a drift, ending at TV Cave — a large chamber that operators describe as resembling an underwater drive-in movie theater. Marine life in the caves includes Hawaiian conger eels, red-striped pipefish, orange cup coral, ghost shrimp, and longnose hawkfish.
 
@@ -38,13 +38,13 @@ Most dives at Niihau and Lehua operate in the 45–105 feet range (14–32m), th
 - **Maximum Depth**: 45 meters
 - **Typical Dive Range**: 45–105 feet (14–32m)
 - **Water Temperature**: 24–27°C (75–81°F)
-- **Requirements**: Certified diver; 15+ logged dives recommended by most operators; AOW certification recommended for wall/drift sites
+- **Requirements**: Certified diver. Seasport Divers requires a minimum of 30 logged dives or Advanced Open Water certification; other operators generally recommend 15+ logged dives. Requirements vary by operator — confirm directly when booking.
 
 ## Marine Life
 
 Hawaiian monk seals are the site's defining megafauna — Explore Kauai Scuba describes this area as hosting one of the highest concentrations of critically endangered Hawaiian monk seals in Hawaii. Sandbar sharks and grey reef sharks (the latter in schools of 30+ at Keyhole) are consistently reported by multiple operators. Manta rays and eagle rays are seen approximately every other charter (Explore Kauai Scuba). Schooling butterflyfish — including the endemic Tinker's butterflyfish — are common. Endemic red lionfish, bicolor anthias, long-handed spiny lobster, and large bait balls attacked by tuna and jacks are documented by operators.
 
-Note: Tiger sharks are occasionally present in Hawaiian waters but are not listed as a regular feature of Niihau dives in primary operator sources; the previous description's specific mention has been removed. Whale sharks are documented at Keyhole/Lehua Gardens but are reported as occasional, not reliable encounters.
+Update (2026-08-06 re-audit): Explore Kauai Scuba's current dive-sites listing now explicitly names whale sharks and tiger sharks as occasional sightings at Keyhole Drift to Lehua Gardens specifically. An earlier pass of this page removed a tiger shark mention for lack of a site-specific source — that source now exists, so both species are reinstated here as occasional (not regular) encounters at that specific sub-site, not across all of Niihau.
 
 ---
-*Sources: [Explore Kauai Scuba - Niihau Charter](https://explorekauaiscuba.com/scuba-diving-tours/nihau-forbidden-island/), [Seasport Divers - Dive Niihau](https://seasportdivers.com/niihau/), [ScubaBoard - Kauai Diving](https://scubaboard.com/community/threads/kauai-diving.652282/). Last updated 2026-06-06.*
+*Sources: [Explore Kauai Scuba - Niihau Charter](https://explorekauaiscuba.com/scuba-diving-tours/nihau-forbidden-island/), [Explore Kauai Scuba - Dive Sites](https://explorekauaiscuba.com/dive-sites/), [Seasport Divers - Dive Niihau](https://seasportdivers.com/niihau/), [ScubaBoard - Kauai Diving](https://scubaboard.com/community/threads/kauai-diving.652282/). Last updated 2026-08-06.*

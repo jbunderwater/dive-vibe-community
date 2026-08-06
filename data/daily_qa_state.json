@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "hawaii-kauai",
-    "hawaii-maui",
-    "hawaii-oahu",
-    "honduras",
-    "iceland",
-    "india",
     "indonesia",
     "israel",
     "italy",
@@ -175,9 +169,82 @@
     "guam",
     "halmahera",
     "hawaii",
-    "hawaii-big-island"
+    "hawaii-big-island",
+    "hawaii-kauai",
+    "hawaii-maui",
+    "hawaii-oahu",
+    "honduras",
+    "iceland",
+    "india"
   ],
   "history": [
+    {
+      "date": "2026-08-06",
+      "slugs": [
+        "hawaii-kauai",
+        "hawaii-maui",
+        "hawaii-oahu",
+        "honduras",
+        "iceland",
+        "india"
+      ],
+      "notes": "honduras, iceland, and india are isGroup=true parent slugs with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs. Only hawaii-kauai, hawaii-maui, and hawaii-oahu have direct data and were QA'd.",
+      "summary": {
+        "sites_total": 37,
+        "sites_validated_today": 0,
+        "sites_re_audited": 33,
+        "hallucinations_removed": 15,
+        "marine_life_stripped": 6,
+        "wreck_conflicts_flagged": 7,
+        "sites_unresolved": 4,
+        "by_destination": {
+          "hawaii-kauai": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "General Store (only wreck): removed unconfirmed 'whiskered boarfish', flagged vessel-type terminology variance and a 3-way depth-range conflict (65-90/65-100/45-100ft), explicitly left build date/length/tonnage unstated (no source confirms them). Brennecke's Ledge and Mana Crack had multiple unsupported/misattributed species removed (traced to belonging to other nearby sites, e.g. 'Speak Easy', 'Turtle Bluffs'). Dead source divessi.com (redirects to generic scubago.com) replaced on 2 sites. All 10 sites retained validated=true with >=3 distinct source domains. Note (out of scope, flagged not fixed): PADI's published coordinates for Koloa Landing differ meaningfully from the file's coordinates."
+          },
+          "hawaii-maui": {
+            "sites_total": 8,
+            "sites_validated_today": 0,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 4,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "All 8 sites are within Molokini Crater; no wreck sites. Verified 'Cathedrals' is off Lanai, not Maui, and correctly did not fabricate an entry for it here. Removed unconfirmed 'scissortail sergeants' and a misattributed cauliflower-coral claim on Middle Reef, an invented manta-ray feeding mechanism and unconfirmed lionfish/damselfish on Tako Flats, and an unverifiable 'Scuba Diving Magazine' ranking claim on The Back Side; flagged a genuine crater-floor depth conflict (~300ft vs ~400ft) on The Back Side rather than picking one figure."
+          },
+          "hawaii-oahu": {
+            "sites_total": 19,
+            "sites_validated_today": 0,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 5,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 6,
+            "sites_unresolved": 4,
+            "notes": "USS LST-480 markdown conflated its commission date (3 May 1943) with its actual laid-down date (31 Aug 1942, per Wikipedia + Naval History and Heritage Command) -- corrected, added verified length/tonnage. San Pedro Wreck's fabricated 'sank in Keehi Lagoon' narrative corrected to the sourced account (derelict in Keehi Lagoon after a 1975 fire, towed and scuttled near YO-257 in 1996); a new length conflict (90ft vs 111ft) was also discovered and flagged. overview.md depth errors fixed for Corsair and San Pedro; an overstated year-round spinner-dolphin claim softened to match hedged site-level language. 6 wrecks total carry flagged, unresolved cross-source conflicts (San Pedro, Sea Tiger, YO-257, Mahi, Corsair lengths/dates). Marine-life sections were already properly site-scoped and hedged -- no stripping needed. Half Point, Full Point, Tripod Reef, and Aiea Shoal remain unresolved (no independent site-specific source exists under these names beyond raw OSM/maritime obstruction data). Confirmed the CLAUDE.md-flagged 'surf breaks scraped as dive sites' issue for Oahu is already resolved -- no non-diving entries found."
+          },
+          "honduras": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs"
+          },
+          "iceland": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs. Note: silfra-fissure is a separate slug elsewhere in the queue and covers Iceland's best-known dive site."
+          },
+          "india": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs. Note: andaman-islands is a separate slug elsewhere (already QA'd 2026-07-10) and covers India's primary diving region."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
     {
       "date": "2026-08-02",
       "slugs": [

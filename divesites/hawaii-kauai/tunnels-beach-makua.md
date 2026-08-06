@@ -33,9 +33,9 @@ Diving conditions are seasonal and strongly affected by north shore swells. May 
 
 ## Marine Life
 
-Confirmed species at Tunnels include hawksbill sea turtles, reef sharks, nudibranchs, manta rays (reported by Seasport Divers), peacock flounder, schools of parrotfish and butterflyfish, moray eels, and octopuses. The lava tube and arch environment supports a diversity of reef communities across depth zones.
+Confirmed species at Tunnels include hawksbill sea turtles, white-tip reef sharks, nudibranchs, manta rays (occasional, reported by Seasport Divers), peacock flounder, schools of parrotfish and butterflyfish, moray eels, octopuses, and black coral within the tube system (Fathom Five). The lava tube and arch environment supports a diversity of reef communities across depth zones.
 
-Note: "Hawaiian monk seals" appeared in previous site descriptions as common, but sources specifically name hawksbill sea turtles as the confirmed turtle species here; monk seal sightings at the beach area are known but not consistently reported as underwater encounters.
+Note: "Hawaiian monk seals" appeared in previous site descriptions as common, but sources specifically name hawksbill sea turtles as the confirmed turtle species here; monk seal sightings at the beach area are known but not consistently reported as underwater encounters. A May 2026 ScubaBoard thread mentions seals as a seasonal possibility at Tunnels without further detail — noted here as an unconfirmed possibility, not upgraded to a confirmed sighting.
 
 ## Tips
 
@@ -45,4 +45,4 @@ Note: "Hawaiian monk seals" appeared in previous site descriptions as common, bu
 - No guided tours currently available; dive with a buddy familiar with the site layout
 
 ---
-*Sources: [Seasport Divers - Tunnels Beach](https://seasportdivers.com/dive-map/tunnels-beach-kauai/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [ScubaBoard - Kauai Diving Late May 2024](https://scubaboard.com/community/threads/kauai-diving-late-may-24.645591/). Last updated 2026-06-06.*
+*Sources: [Seasport Divers - Tunnels Beach](https://seasportdivers.com/dive-map/tunnels-beach-kauai/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [ScubaBoard - Kauai Diving Late May 2024](https://scubaboard.com/community/threads/kauai-diving-late-may-24.645591/). Last updated 2026-08-06.*

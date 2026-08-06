@@ -37,5 +37,7 @@ Eels and lobsters are common residents of the ledge system. The arch and black c
 
 Note: Previous descriptions citing "lots of turtles" and "schooling fish" at Amber's Arches are not specifically corroborated by site-level source material for this site as distinct from surrounding sites; these were removed to avoid padding the description.
 
+Re-audited 2026-08-06: Garden Isle Divers' and Explore Kauai Scuba's current listings reconfirm the above content unchanged. The previously cited SSI MyDiveGuide page (divessi.com) now 301-redirects to a generic scubago.com directory with no Kauai content, so it was dropped as a source. Seasport Divers, which runs a seasonal (October–April) 3-tank charter to Amber's Arches alongside Kipu Kai, was added as a replacement third source confirming the site is still actively dived.
+
 ---
-*Sources: [Garden Isle Divers - Amber's Arches](https://www.gardenisledivers.com/ambers-arches/), [Explore Kauai Scuba - Dive Sites](https://explorekauaiscuba.com/dive-sites/), [SSI MyDiveGuide - Amber's Arches](https://www.divessi.com/en/mydiveguide/divesite/ambers-arches-arch-united-states-19173). Last updated 2026-06-06.*
+*Sources: [Garden Isle Divers - Amber's Arches](https://www.gardenisledivers.com/ambers-arches/), [Explore Kauai Scuba - Dive Sites](https://explorekauaiscuba.com/dive-sites/), [Seasport Divers - Activities](https://seasportdivers.com/activities/). Last updated 2026-08-06.*
