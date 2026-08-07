@@ -17,7 +17,7 @@ Sheraton Caverns is Kauai's signature dive and most popular boat site — a seri
 
 ## Overview
 
-Located just two miles from Kukuiula Harbor, Sheraton Caverns consists of three partial lava tubes with archways, overhangs, and interconnected passages that divers thread through at depths between 20 and 70 feet. The collapsed lava formations create a maze-like environment with nooks and crevices favored by eels, octopuses, and cryptic reef fish. The site sits sandwiched between Koloa Landing to the west and Ice Box to the east.
+Located just two miles from Kukuiula Harbor, Sheraton Caverns consists of three partial lava tubes with archways, overhangs, and interconnected passages that divers thread through at depths between roughly 20/35 and 70 feet (sources vary on the shallow end: Garden Isle Divers and Fathom Five cite 20ft, while Seasport Divers' current listing states 35ft). The collapsed lava formations create a maze-like environment with nooks and crevices favored by eels, octopuses, and cryptic reef fish. The site sits sandwiched between Koloa Landing to the west and Ice Box to the east.
 
 Sea turtles are the defining feature: Hawaiian green sea turtles graze on algae in the cavern passages, rest on ledge surfaces, and cruise the reef in numbers that make this one of the most reliable turtle encounters in Hawaii.
 
@@ -28,7 +28,7 @@ Sea turtles are the defining feature: Hawaiian green sea turtles graze on algae 
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
-- **Depth Range**: 20–70 feet (6–21m)
+- **Depth Range**: 20–70 feet (6–21m); Seasport Divers cites 35–70ft as of 2026-08-07
 - **Water Temperature**: 26–28°C (79–82°F)
 
 ## Marine Life
@@ -44,4 +44,4 @@ Note: Whale sharks are not documented as regular visitors to this site; the spec
 - Depth is manageable for newly certified divers, but cavern navigation benefits from a guide on a first visit
 
 ---
-*Sources: [Seasport Divers - Sheraton Caverns](https://seasportdivers.com/dive-map/sheraton-caverns-dive/), [Garden Isle Divers - Sheraton Caverns](https://www.gardenisledivers.com/sheraton-caverns/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [Scuba Diving Magazine - Sheraton Caverns](https://www.scubadiving.com/sheraton-caverns-dive-kauais-underwater-jungle-lava). Last updated 2026-06-06.*
+*Sources: [Seasport Divers - Sheraton Caverns](https://seasportdivers.com/dive-map/sheraton-caverns-dive/), [Garden Isle Divers - Sheraton Caverns](https://www.gardenisledivers.com/sheraton-caverns/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [Scuba Diving Magazine - Sheraton Caverns](https://www.scubadiving.com/sheraton-caverns-dive-kauais-underwater-jungle-lava). Re-audited 2026-08-07: Seasport Divers' current dive-map listing re-checked directly (35–70ft depth range noted, differing slightly from other operators' 20–70ft; both retained above). Last updated 2026-08-07.*

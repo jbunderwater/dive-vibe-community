@@ -42,7 +42,7 @@ Note: "Hawaiian monk seals" appeared in previous site descriptions as common, bu
 - Best dived May–September; check surf forecast before entering
 - Time entry to high tide to avoid the shallow inner reef
 - The outer reef tubes require good buoyancy and navigation skills
-- No guided tours currently available; dive with a buddy familiar with the site layout
+- Commercial/guided access status is currently in flux (see Access Note) — confirm with an operator or DLNR before booking or planning an independent dive here
 
 ---
-*Sources: [Seasport Divers - Tunnels Beach](https://seasportdivers.com/dive-map/tunnels-beach-kauai/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [ScubaBoard - Kauai Diving Late May 2024](https://scubaboard.com/community/threads/kauai-diving-late-may-24.645591/). Last updated 2026-06-06.*
+*Sources: [Seasport Divers - Tunnels Beach](https://seasportdivers.com/dive-map/tunnels-beach-kauai/), [Fathom Five Divers - Tunnels Landing 2-Tank Shore Dive](https://www.fathomfive.com/certified-shore-dives/tunnels-landing-2-tank-shore-dive/), [ScubaBoard - Kauai Diving Late May 2024](https://scubaboard.com/community/threads/kauai-diving-late-may-24.645591/), [Hawaii News Now - DLNR halts new commercial boating permits amid legal uncertainty](https://www.hawaiinewsnow.com/2025/04/16/dlnr-halts-new-commercial-boating-permits-amid-legal-uncertainty/), [Zentacle - Tunnels Beach](https://www.zentacle.com/Beach/84/tunnels-beach). Last updated 2026-08-07.*
