@@ -17,7 +17,7 @@ Ni'ihau — Hawaii's private "Forbidden Island" — offers a collection of world
 
 ## Overview
 
-The primary dive sites cluster in the channel between Niihau island and the adjacent Lehua Crater (an extinct tuff cone). Most operators run these as 8-hour full-day charters from Kauai, with multiple dives at named sites. The best-known include:
+The primary dive sites cluster in the channel between Niihau island and the adjacent Lehua Crater (an extinct tuff cone). Operators run these as full-day charters from Kauai, with multiple dives at named sites; trip length varies by operator — Seasport Divers' current listing states up to 12 hours on the water (roughly 2.5 hours' transit each way plus three dives), while the destination overview compiled from other operator sources cites approximately 11 hours. Budget a full day regardless of operator. The best-known sites include:
 
 **Vertical Awareness** — A massive pinnacle dropping from 45 feet at its crest to depths beyond sport diving limits. The flat top is scarred by rock-boring urchins; sandbar sharks circle at depth while schools of butterflyfish feed on plankton in the current above. Multiple shark species (sources confirm sandbar and grey reef) are commonly seen on a single dive here.
 
@@ -38,7 +38,7 @@ Most dives at Niihau and Lehua operate in the 45–105 feet range (14–32m), th
 - **Maximum Depth**: 45 meters
 - **Typical Dive Range**: 45–105 feet (14–32m)
 - **Water Temperature**: 24–27°C (75–81°F)
-- **Requirements**: Certified diver; 15+ logged dives recommended by most operators; AOW certification recommended for wall/drift sites
+- **Requirements**: Certified diver. Minimums vary by operator — Seasport Divers' current listing (re-checked 2026-08-07) requires at least 30 logged dives or an Advanced Open Water certification; other operators have cited lower minimums in the 15+ range. Check requirements with your specific operator before booking.
 
 ## Marine Life
 
@@ -47,4 +47,4 @@ Hawaiian monk seals are the site's defining megafauna — Explore Kauai Scuba de
 Note: Tiger sharks are occasionally present in Hawaiian waters but are not listed as a regular feature of Niihau dives in primary operator sources; the previous description's specific mention has been removed. Whale sharks are documented at Keyhole/Lehua Gardens but are reported as occasional, not reliable encounters.
 
 ---
-*Sources: [Explore Kauai Scuba - Niihau Charter](https://explorekauaiscuba.com/scuba-diving-tours/nihau-forbidden-island/), [Seasport Divers - Dive Niihau](https://seasportdivers.com/niihau/), [ScubaBoard - Kauai Diving](https://scubaboard.com/community/threads/kauai-diving.652282/). Last updated 2026-06-06.*
+*Sources: [Explore Kauai Scuba - Niihau Charter](https://explorekauaiscuba.com/scuba-diving-tours/nihau-forbidden-island/), [Seasport Divers - Dive Niihau](https://seasportdivers.com/niihau/), [ScubaBoard - Kauai Diving](https://scubaboard.com/community/threads/kauai-diving.652282/). Re-audited 2026-08-07; trip-length and dive-count requirements corrected against current Seasport Divers listing. Last updated 2026-08-07.*

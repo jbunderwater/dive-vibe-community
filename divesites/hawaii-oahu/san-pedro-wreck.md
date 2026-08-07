@@ -21,9 +21,11 @@ The San Pedro sits on the south shore seabed with the main deck at 60–70 feet 
 
 ## Historical Background
 
-The San Pedro was a Japanese-built, Korean-owned longline fishing vessel, approximately 90 feet long, that targeted tuna and swordfish in deep water and later served as an inter-island cargo ship. The vessel caught fire off the Big Island around 1975 and sat in various locations around the islands before eventually sinking in Keehi Lagoon. The State of Hawaii sold the vessel to Atlantis Submarines Hawaii for $1 plus cleanup reimbursement; the total preparation cost was approximately $360,000. The San Pedro was intentionally scuttled in 1996.
+The San Pedro was a Japanese-built, Korean-owned longline fishing vessel that targeted tuna and swordfish in deep water and later served as an inter-island cargo ship. Rainbow Scuba and PADI's official blog both give a build location of Japan and a build year of approximately 1946 (two independent sources agree). The vessel caught fire off the Big Island around 1975 and sat in various locations around the islands before eventually sinking in Keehi Lagoon. The State of Hawaii sold the vessel to Atlantis Submarines Hawaii for $1 plus cleanup reimbursement; the total preparation cost was approximately $360,000. The San Pedro was intentionally scuttled in 1996.
 
-Note on depth: oahudiving.com gives the bottom at approximately 80 feet; diveoahu.com gives 95 feet. Most sources cite 80–85 feet at the deepest point, with the main decks at 60–70 feet.
+Note on vessel length: sources disagree. Oahudiving.com gives approximately 90 feet; Rainbow Scuba and PADI's blog both independently give 111 feet (34 meters). This is a real conflict across independently-operated sources rather than a rounding difference, and it is not resolved here.
+
+Note on depth: oahudiving.com gives the bottom at approximately 80 feet; diveoahu.com gives 95 feet; Rainbow Scuba and PADI's blog give approximately 85 feet. Most sources cluster around 80–85 feet at the deepest point, with the main decks at 60–70 feet.
 
 ## Site Information
 
@@ -40,4 +42,4 @@ Note on depth: oahudiving.com gives the bottom at approximately 80 feet; diveoah
 Sea turtles, eagle rays, and amberjacks are frequently reported at this site across multiple operator accounts. White-tip reef sharks have been observed in the forward hold. Overhead environments in the cargo holds should be entered only with appropriate wreck diving training.
 
 ---
-*Sources: [Oahu Diving – San Pedro](https://www.oahudiving.com/sanpedro.htm), [Dive Oahu – YO-257 & San Pedro](https://www.diveoahu.com/yo257-san-pedro), [Rainbow Scuba – San Pedro](https://www.rainbowscuba.com/hawaii-shipwreck-san-pedro.html). Last updated 2026-06-06.*
+*Sources: [Oahu Diving – San Pedro](https://www.oahudiving.com/sanpedro.htm), [Dive Oahu – YO-257 & San Pedro](https://www.diveoahu.com/yo257-san-pedro), [Rainbow Scuba – San Pedro](https://www.rainbowscuba.com/hawaii-shipwreck-san-pedro.html), [PADI – Top Wreck Diving Sites in Oahu](https://blog.padi.com/top-wreck-diving-sites-oahu-hawaii/). Last updated 2026-08-07.*

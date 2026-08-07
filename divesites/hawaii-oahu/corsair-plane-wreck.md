@@ -42,4 +42,4 @@ The sandy seafloor around the Corsair hosts garden eels, Hawaiian stingrays, fro
 The depth places this firmly in Advanced territory. Open Water divers can view the aircraft from above at approximately 60 feet; reaching the plane itself requires Advanced certification. Bottom time at depth is approximately 14–16 minutes before ascent. No penetration of the aircraft is permitted.
 
 ---
-*Sources: [Pacific Wrecks – F4U-1A BuNo 49668](https://pacificwrecks.com/aircraft/f4u/49668.html), [Dive Oahu – Corsair](https://www.diveoahu.com/corsair), [California Diver Magazine – Diving Hawaii's Corsair](https://californiadiver.com/whistling-death-diving-hawaiis-sunken-corsair-fighter-plane/), [Oahu Diving – Corsair](https://www.oahudiving.com/corsair.htm). Last updated 2026-06-06.*
+*Sources: [Pacific Wrecks – F4U-1A BuNo 49668](https://pacificwrecks.com/aircraft/f4u/49668.html), [Dive Oahu – Corsair](https://www.diveoahu.com/corsair), [California Diver Magazine – Diving Hawaii's Corsair](https://californiadiver.com/whistling-death-diving-hawaiis-sunken-corsair-fighter-plane/), [Oahu Diving – Corsair](https://www.oahudiving.com/corsair.htm). Last updated 2026-08-07.*

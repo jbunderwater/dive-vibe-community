@@ -42,4 +42,4 @@ The ledge is well-documented for its macro life: numerous nudibranch species occ
 - The distance from the harbor makes turnaround difficult; treat this as a one-way drift
 
 ---
-*Sources: [Garden Isle Divers - Brennecke's Ledge](https://www.gardenisledivers.com/brenneckes-ledge/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [Scuba Diving Magazine - Brennecke's Ledges](https://www.scubadiving.com/dive-brenneckes-ledges-in-kauai). Last updated 2026-06-06.*
+*Sources: [Garden Isle Divers - Brennecke's Ledge](https://www.gardenisledivers.com/brenneckes-ledge/), [Fathom Five Divers - Dive Sites](https://www.fathomfive.com/dive-sites/), [Scuba Diving Magazine - Brennecke's Ledges](https://www.scubadiving.com/dive-brenneckes-ledges-in-kauai), [Seasport Divers - Dive Map](https://seasportdivers.com/dive-map/). Re-audited 2026-08-07: Garden Isle Divers and Seasport Divers re-checked directly, 60-90/60-100ft depth and advanced/remote-location characterization reconfirmed. Last updated 2026-08-07.*

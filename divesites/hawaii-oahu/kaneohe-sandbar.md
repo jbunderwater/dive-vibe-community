@@ -30,11 +30,13 @@ Located in Kaneohe Bay and accessed by boat from He'eia Kea Boat Harbor, the Kan
 
 ## Marine Life
 
-Approximately 40 species of coral are documented in Kaneohe Bay, including rice coral and finger coral. Sea turtles, spotted eagle rays, moray eels, and reef fish are reported in the deeper reef zones surrounding the sandbar. Near the sandbar itself in shallow water, parrotfish, damselfish, and sea cucumbers are commonly observed.
+Kaneohe Bay's reef system hosts a diverse coral population, including rice coral (Montipora capitata) and finger coral (Porites compressa), the bay's dominant species. Sea turtles, spotted eagle rays, moray eels, and reef fish are reported in the deeper reef zones surrounding the sandbar. Near the sandbar itself in shallow water, parrotfish, damselfish, flounder, cornetfish, and occasional baby hammerhead sharks are reported by local tour operators.
+
+*Note: an earlier version of this page cited "approximately 40 species of coral" for Kaneohe Bay. Re-audited 2026-08-07 — this figure was not supported by either cited source, and has been removed. Independent scientific literature on Kaneohe Bay references well over 100 historically documented coral varieties, a figure not attributed here as it is not site-specific dive-report data.*
 
 ## Activities
 
 Tour packages departing from He'eia Kea Boat Harbor typically include snorkeling, kayaking, and stand-up paddleboarding. The calm, protected water makes this suitable for families and non-swimmers.
 
 ---
-*Sources: [Kaneohe Bay Ocean Sports – Sandbar Snorkeling](https://kaneohebayoceansports.com/kaneohe-bay-sandbar-snorkeling/), [Britannica – Kaneohe Bay](https://www.britannica.com/place/Kaneohe-Bay), [Hawaii Activities – Kaneohe Bay Snorkeling](https://www.hawaiiactivities.com/travelguide/kaneohe-bay-snorkeling-the-ultimate-guide/). Last updated 2026-06-06.*
+*Sources: [Kaneohe Bay Ocean Sports – Sandbar Snorkeling](https://kaneohebayoceansports.com/kaneohe-bay-sandbar-snorkeling/), [Britannica – Kaneohe Bay](https://www.britannica.com/place/Kaneohe-Bay), [Hawaii Activities – Kaneohe Bay Snorkeling](https://www.hawaiiactivities.com/travelguide/kaneohe-bay-snorkeling-the-ultimate-guide/). Last updated 2026-08-07.*
