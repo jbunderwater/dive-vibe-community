@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Tunnels Beach (Makua)
 
-Tunnels Beach (known locally as Makua) is a north shore shore dive famous for its outer reef system of lava tubes, arches, and tunnels — the formations that gave the site its name. As of 2024, commercial dive operations at Tunnels are prohibited by DLNR; the site remains accessible for independent certified divers.
+Tunnels Beach (known locally as Makua) is a north shore shore dive famous for its outer reef system of lava tubes, arches, and tunnels — the formations that gave the site its name. Commercial access here has been legally unsettled since 2024, and as of this 2026-08-07 re-audit, sources disagree on the current status (see Access Note below) — confirm directly with an operator or DLNR before planning a guided trip.
 
 ## Overview
 
@@ -29,7 +29,7 @@ Diving conditions are seasonal and strongly affected by north shore swells. May 
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Water Temperature**: 24–27°C (75–81°F)
-- **Access Note**: Commercial dive tours prohibited by DLNR as of 2024; independent diving permitted with proper safety precautions
+- **Access Note**: Sources conflict as of the 2026-08-07 re-audit. Seasport Divers' current site page still states that "as of early 2024, commercial trips to Tunnels beach is prohibited" and that they do not run guided trips here. Fathom Five Divers, however, currently sells bookable 2-tank and introductory shore-dive trips to Tunnels (seasonally, May–September), and news coverage (Hawaii News Now and a DLNR press release, both April 2025) describes a small number of Commercial Use Permits — reportedly 6, including one held by Fathom Five, obtained via litigation — against a backdrop of a broader statewide freeze on new ocean commercial permits pending environmental review. Zentacle's listing separately describes the site as a fish-replenishment/no-entry area for several years, which does not match either operator's current public information. Given the conflicting and shifting picture, do not assume unrestricted access or that any specific operator's status is current — verify directly before a trip.
 
 ## Marine Life
 
