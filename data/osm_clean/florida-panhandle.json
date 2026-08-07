@@ -7,7 +7,11 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "tags": {"source": "curated_research", "notes": "Essex-class carrier, sunk 2006 as artificial reef, world's largest per FWC. FWC advises against interior entry; do not treat penetration as safe.", "validation_source": "myfwc.com,floridapanhandledivetrail.com,florida-scubadiving.com,niuhidivecharters.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Essex-class carrier, sunk 2006 as artificial reef, world's largest per FWC. FWC advises against interior entry; do not treat penetration as safe.",
+      "validation_source": "myfwc.com,floridapanhandledivetrail.com,florida-scubadiving.com,niuhidivecharters.com"
+    }
   },
   {
     "name": "USS Massachusetts (BB-2)",
@@ -17,7 +21,11 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "tags": {"source": "curated_research", "notes": "Pre-dreadnought battleship, Florida Underwater Archaeological Preserve; strong current, not recommended for novices despite shallow depth.", "validation_source": "nps.gov,scubadiverlife.com,florida-scubadiving.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Pre-dreadnought battleship, Florida Underwater Archaeological Preserve; strong current, not recommended for novices despite shallow depth.",
+      "validation_source": "nps.gov,scubadiverlife.com,florida-scubadiving.com"
+    }
   },
   {
     "name": "Russian Freighter (S.S. San Pablo)",
@@ -27,7 +35,11 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "tags": {"source": "curated_research", "notes": "Historical origin/sinking cause conflicts across sources (uncertain identification and circumstances) - flag as unresolved history, do not state as settled fact. Depth also reported inconsistently 23-30m across sources.", "validation_source": "niuhidivecharters.com,florida-scubadiving.com,atlasobscura.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Historical origin/sinking cause conflicts across sources (uncertain identification and circumstances) - flag as unresolved history, do not state as settled fact. Depth also reported inconsistently 23-30m across sources.",
+      "validation_source": "niuhidivecharters.com,florida-scubadiving.com,atlasobscura.com"
+    }
   },
   {
     "name": "Antares",
@@ -37,7 +49,11 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "tags": {"source": "curated_research", "notes": "387-ft freighter sunk 1995; broken apart by hurricanes since, only stern largely intact. Penetration explicitly flagged dangerous by sources.", "validation_source": "niuhidivecharters.com,fishingdivingspots.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "387-ft freighter sunk 1995; broken apart by hurricanes since, only stern largely intact. Penetration explicitly flagged dangerous by sources.",
+      "validation_source": "niuhidivecharters.com,fishingdivingspots.com"
+    }
   },
   {
     "name": "Pete Tide II",
@@ -47,7 +63,11 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "tags": {"source": "curated_research", "notes": "180-ft former oil-field supply boat sunk 1993, sits upright with intact superstructure.", "validation_source": "florida-scubadiving.com,niuhidivecharters.com,floridapanhandledivetrail.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "180-ft former oil-field supply boat sunk 1993, sits upright with intact superstructure.",
+      "validation_source": "florida-scubadiving.com,niuhidivecharters.com,floridapanhandledivetrail.com"
+    }
   },
   {
     "name": "Chevron Oil Rig",
@@ -57,7 +77,11 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "tags": {"source": "curated_research", "notes": "Two former oil platform jackets donated under Rigs-to-Reefs program, deployed 1993.", "validation_source": "divebuddy.com,florida-divepros.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Two former oil platform jackets donated under Rigs-to-Reefs program, deployed 1993.",
+      "validation_source": "divebuddy.com,florida-divepros.com"
+    }
   },
   {
     "name": "YDT-14",
@@ -67,7 +91,11 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "tags": {"source": "curated_research", "notes": "132.5-ft Navy dive tender, one of two sister ships sunk April 2000.", "validation_source": "niuhidivecharters.com,divessi.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "132.5-ft Navy dive tender, one of two sister ships sunk April 2000.",
+      "validation_source": "niuhidivecharters.com,divessi.com"
+    }
   },
   {
     "name": "YDT-15",
@@ -77,7 +105,11 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "tags": {"source": "curated_research", "notes": "Sister ship to YDT-14, rests ~500 ft away, formerly YF-336/Suitland (built 1942).", "validation_source": "niuhidivecharters.com,divessi.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Sister ship to YDT-14, rests ~500 ft away, formerly YF-336/Suitland (built 1942).",
+      "validation_source": "niuhidivecharters.com,divessi.com"
+    }
   },
   {
     "name": "Liberty Ship Joseph L. Meek",
@@ -87,7 +119,11 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "tags": {"source": "curated_research", "notes": "480-ft WWII Liberty Ship built 1942, sunk as artificial reef 1976, sits upright.", "validation_source": "niuhidivecharters.com,divebuddy.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "480-ft WWII Liberty Ship built 1942, sunk as artificial reef 1976, sits upright.",
+      "validation_source": "niuhidivecharters.com,divebuddy.com"
+    }
   },
   {
     "name": "Joe Patti Memorial Reef",
@@ -97,7 +133,11 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "tags": {"source": "curated_research", "notes": "175-ft barge sunk 2013, named for Joe Patti Seafood Company founder.", "validation_source": "niuhidivecharters.com,scuba-dive-pensacola.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "175-ft barge sunk 2013, named for Joe Patti Seafood Company founder.",
+      "validation_source": "niuhidivecharters.com,scuba-dive-pensacola.com"
+    }
   },
   {
     "name": "Miss Louise",
@@ -107,7 +147,11 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "tags": {"source": "curated_research", "notes": "95-ft push tugboat sunk 1997 off Destin; signature recreational wreck in Destin, resident goliath grouper reported.", "validation_source": "floridapanhandledivetrail.com,florida-scubadiving.com,theoutbound.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "95-ft push tugboat sunk 1997 off Destin; signature recreational wreck in Destin, resident goliath grouper reported.",
+      "validation_source": "floridapanhandledivetrail.com,florida-scubadiving.com,theoutbound.com"
+    }
   },
   {
     "name": "Thomas Hayward (SS Thomas Heyward)",
@@ -117,17 +161,25 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "tags": {"source": "curated_research", "notes": "360-ft Liberty Ship built 1942, sunk 1977 off Okaloosa Island. Historic ship name is spelled 'Thomas Heyward' per Wikipedia; local dive-site naming commonly uses 'Thomas Hayward' - spelling discrepancy flagged.", "validation_source": "floridapanhandledivetrail.com,en.wikipedia.org,florida-scubadiving.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "360-ft Liberty Ship built 1942, sunk 1977 off Okaloosa Island. Historic ship name is spelled 'Thomas Heyward' per Wikipedia; local dive-site naming commonly uses 'Thomas Hayward' - spelling discrepancy flagged.",
+      "validation_source": "floridapanhandledivetrail.com,en.wikipedia.org,florida-scubadiving.com"
+    }
   },
   {
     "name": "Black Bart",
-    "lat": 30.0608,
-    "lon": -85.82388,
-    "depth": 26,
+    "lat": 30.06057,
+    "lon": -85.82362,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {"source": "curated_research", "notes": "180-ft former oilfield supply ship (built 1977 as Vulcano del Golfo), sunk 1993, named for Navy salvage officer Capt. Charles 'Black Bart' Bartholomew.", "validation_source": "floridapanhandledivetrail.com,montereyboats.com,divebuddy.com"}
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "180-ft (55m) platform supply vessel built 1977 in Louisiana for Texas-based Gulf Fleet Marine, originally named Gulf Fleet No. 28; renamed Vulcano del Golfo (1991), then Mary J, before becoming a fishing vessel. Acquired by Bay County and deployed as an artificial reef July 27, 1993, named Black Bart for Captain Charles 'Bart' Bartholomew, director of ocean engineering for the US Navy who led salvage of the Space Shuttle Challenger and the Exxon Valdez; died Nov 1990 during a deep recertification dive near Panama City. Sits upright on sand, main deck at 70 ft (21m), bow at 61 ft (18.5m), seafloor 78 ft (24m). Wheelhouse roof torn off by Hurricane Michael (2018) and deposited near the starboard bow, but large open holds and forward compartments remain for experienced divers. Type: Platform Supply Vessel, 183 grt, Halter Marine (Lockport, LA) 1977.",
+      "validation_source": "floridapanhandledivetrail.com,montereyboats.com,divebuddy.com,book:northwest_florida_dive_guide_detailed"
+    }
   },
   {
     "name": "Grey Ghost",
@@ -137,27 +189,39 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "tags": {"source": "curated_research", "notes": "Former 105-110 ft Navy tugboat sunk 1978, rests on its port side along a natural limestone reef.", "validation_source": "florida-scubadiving.com,scubapanamacitybeach.net"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Former 105-110 ft Navy tugboat sunk 1978, rests on its port side along a natural limestone reef.",
+      "validation_source": "florida-scubadiving.com,scubapanamacitybeach.net"
+    }
   },
   {
     "name": "USS Strength",
-    "lat": 30.03227,
-    "lon": -85.70688,
-    "depth": 24,
+    "lat": 30.0323,
+    "lon": -85.7086,
+    "depth": 23,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {"source": "curated_research", "notes": "WWII minesweeper (survived Iwo Jima and Okinawa), sunk 1987, wreck split into two sections allowing swim-throughs.", "validation_source": "florida-scubadiving.com,divebuddy.com"}
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Admirable-class minesweeper (hull classification AM-309), built 1944 in Seattle, WA (Associated Shipbuilders). Played a key role in mine-clearing ahead of Allied beach landings at Iwo Jima and Okinawa; survived a torpedo attack and earned three battle stars. Removed from the mothball fleet in 1967 for use in Navy salvage-diver training exercises (Washington D.C., then Panama City). Scuttled/resurfaced multiple times before being sunk for good as an artificial reef on May 15, 1987. Originally settled on her side; Hurricane Opal (1995) pushed her upright. Seafloor ranges 70-76 ft (21.5-23m); site is accessible to most divers due to relative shallowness and open nature, though entanglement risks exist in the collapsed superstructure. Type: Minesweeper, 945 grt, length 185 ft (56.5m).",
+      "validation_source": "florida-scubadiving.com,divebuddy.com,book:northwest_florida_dive_guide_detailed"
+    }
   },
   {
     "name": "El Dorado",
-    "lat": 29.98193,
-    "lon": -85.84917,
-    "depth": 31,
+    "lat": 29.97613,
+    "lon": -85.84145,
+    "depth": 31.5,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "tags": {"source": "curated_research", "notes": "Sunk 2019, one of the newer Panama City Beach shipwreck-trail wrecks; sandbar sharks, goliath grouper and schooling mackerel reported at this specific site.", "validation_source": "scubadiving.com,florida-scubadiving.com,colemanconcierge.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "157-ft (48m) vessel originally a luxury yacht registered in Boston, MA. Hurricane Ivan (2004) broke her free of her moorings in Panama City Beach and carried her 6 miles into marshland in West Bay, where she sat nearly five years before local salvager Lee Ingram refloated her (2009). Ripped from her moorings a second time by Hurricane Michael (2018) and tossed onto a sandbar near Florida State University's Panama City campus. Donated to the community as an artificial reef in partnership with FWC and Bay County; sunk May 3, 2019, 150 ft north of DuPont Span #3. Strong spring storms in 2020 collapsed her stern and tilted the bow/wheelhouse backward. Bow tops out at 83 ft (25.5m); stern debris near the 103 ft (31.5m) seabed. Collapsed structure limits dive profiles and interior access; site is accessible only to advanced divers.",
+      "validation_source": "scubadiving.com,florida-scubadiving.com,colemanconcierge.com,book:northwest_florida_dive_guide_detailed"
+    }
   },
   {
     "name": "Vamar Shipwreck Site",
@@ -167,6 +231,542 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "tags": {"source": "curated_research", "notes": "Sank 1942 off Mexico Beach; Florida's 9th Underwater Archaeological Preserve (2004). Geographically at edge of Panama City circuit near Mexico Beach.", "validation_source": "en.wikipedia.org,florida-scubadiving.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Sank 1942 off Mexico Beach; Florida's 9th Underwater Archaeological Preserve (2004). Geographically at edge of Panama City circuit near Mexico Beach.",
+      "validation_source": "en.wikipedia.org,florida-scubadiving.com"
+    }
+  },
+  {
+    "name": "18-Mile Bridge (Hathaway Span #11)",
+    "lat": 29.73963,
+    "lon": -85.69757,
+    "depth": 32.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Span from the old Hathaway Bridge connecting Panama City to Panama City Beach. Span 11 deployed May 1988, seabed depth 107 ft.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Courtney Knight Gaines Reef",
+    "lat": 29.74243,
+    "lon": -85.69433,
+    "depth": 31,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Memorial reef over 20 miles offshore; 63 tons of limestone/concrete reef modules deployed April 2018, additional set deployed May 2019.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Tennessee Chuck McKibbonville Reef",
+    "lat": 29.9135,
+    "lon": -85.5509,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Deployed May 2020, more than 75 tons of limestone/concrete reef modules.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Mexico Beach 2002 Grant Reef",
+    "lat": 29.90037,
+    "lon": -85.54165,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "100 reef balls sitting close together on a sandy seafloor.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Fish America Foundation Reef",
+    "lat": 29.8938,
+    "lon": -85.5439,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Deployed February 2003, 100 reef balls totaling 200 tons, funded by a grant from the Fish America Foundation.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Garfield Wilson Reef",
+    "lat": 29.8948,
+    "lon": -85.521,
+    "depth": 15.5,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Named after a former President of the Mexico Beach Artificial Reef Association (1999-2001); 512 tons of concrete culverts donated by Sikes Concrete Company of Panama City, deployed June 2001.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "OAR BBSWC Barge",
+    "lat": 29.76822,
+    "lon": -85.61193,
+    "depth": 27,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "100-ft steel barge deployed June 2007 with concrete culverts and boxes; deployment funded primarily by the Organization for Artificial Reefs (OAR).",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Air Force Tower",
+    "lat": 29.72465,
+    "lon": -85.47523,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Believed to be a section of an Air Combat Maneuvering Instrumentation (ACMI) Tower that fell off a transport barge in rough seas in 1993. Lies on its side, rises to within 20 ft (6m) of the surface.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Mac's Reef",
+    "lat": 29.9821,
+    "lon": -85.83912,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Navy work barge (2154) used in Navy salvage-team training exercises at the local base; deployed 2007, named after local diver Richard 'Mac' McCullen.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "DAN Safety Barge",
+    "lat": 30.0805,
+    "lon": -85.73088,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Small low-profile barge just south of the pass, decent habitat for reef creatures in an accessible spot.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Hathaway Bridge Spans #3A and 4",
+    "lat": 29.94483,
+    "lon": -85.82967,
+    "depth": 30.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Spans from the old Hathaway Bridge. Span #3A at 29.9447,-85.81858. Depth has kept these spans in decent condition compared to shallower Hathaway spans.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "BJ Putnam",
+    "lat": 29.9302,
+    "lon": -85.83488,
+    "depth": 32.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "180-ft former oilfield supply boat converted to a fish processor, renamed for a local charter captain/community leader; deployed November 1993.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Hathaway Bridge Spans #1, 2 and 12",
+    "lat": 30.04483,
+    "lon": -85.72908,
+    "depth": 22.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Clustered inshore near the pass in relatively shallow water. Span #2 at 30.03662,-85.72845; Span #12 at 30.03468,-85.73155. Largely collapsed after Hurricane Michael (2018).",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Benjamin H Grierson Liberty Ship",
+    "lat": 29.98492,
+    "lon": -85.70658,
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "One of four Liberty Ships deployed as artificial reefs across NW Florida in the 1970s; named for a Union Army cavalry general. Empty 440-ft hull.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Sherman Tug",
+    "lat": 29.9235,
+    "lon": -85.67,
+    "depth": 24.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "80-ft tugboat deployed as an artificial reef in May 1996.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "MB-251",
+    "lat": 29.91792,
+    "lon": -85.67445,
+    "depth": 23.5,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "118 tons of reef modules, deployed May 2019.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "St. Joe Community Foundation Reef 2",
+    "lat": 29.91827,
+    "lon": -85.652,
+    "depth": 24.5,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "219 tons of reef modules deployed July 2020.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "MB-248",
+    "lat": 29.91842,
+    "lon": -85.63425,
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "130 tons of reef modules deployed April 2018, forming a north-south line 760 ft long.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "MB-256",
+    "lat": 29.92433,
+    "lon": -85.62778,
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "More than 50 tons of reef modules deployed May 2020.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Shady Lady (Duke Energy Reef)",
+    "lat": 29.78575,
+    "lon": -85.70048,
+    "depth": 29,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Originally a 110-ft steel-hulled shrimp boat, deployed March 2007; now lies on her side.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "NRDA Grant Reefs",
+    "lat": 30.1097,
+    "lon": -85.99185,
+    "depth": 27.5,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Series of 205+ reef modules (~980 tons) deployed 2020 under the National Resources Damage Assessment (NRDA) Restoration Program, placed in clusters at 13 permitted locations. Sub-site coordinates: NRDA-3 30.1097,-85.99185; NRDA-4 30.10698,-85.99472; NRDA-6 30.1005,-85.9704; NRDA-7 30.10093,-85.96775; NRDA-5 30.10333,-85.9499; NRDA-8 30.09892,-85.92747; NRDA-9 30.0966,-85.92537; NRDA-10 30.09042,-85.90447; NRDA-1A 30.08867,-85.9031; NRDA-11 30.0875,-85.90448; NRDA-13 30.085,-85.90168; NRDA-2A 30.084,-85.90287; NRDA4-12 30.08317,-85.90443.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Hathaway Bridge Spans #5 and 6",
+    "lat": 30.14873,
+    "lon": -85.88788,
+    "depth": 22.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Span #5 at 30.16412,-85.89688. Shallower water than most other Hathaway spans; largely collapsed after Hurricane Michael (2018). NOTE: coordinates are notably distant from other Hathaway span clusters (#1/2/3A/4/12/14 and #7/8/9/10) - worth spot-checking against source if precision matters.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Commander",
+    "lat": 30.05392,
+    "lon": -85.94637,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "65-ft steel-hulled tugboat that sank by accident, allegedly due to fire; sits upright on a sandy seafloor.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Hathaway Bridge Spans #7, 8, 9 and 10",
+    "lat": 30.02438,
+    "lon": -85.9625,
+    "depth": 34.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Span #9 30.00875,-85.94982; Span #8 29.99798,-85.9484; Span #7 29.98568,-85.95033. Depth has helped protect these spans, kept in better condition than other Hathaway spans.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Stage 1",
+    "lat": 30.0128,
+    "lon": -85.90172,
+    "depth": 32,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Former Naval platform demolished in 1984; now a mass of steel pipes and support structures on a sandy seabed.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Stage 2",
+    "lat": 30.12073,
+    "lon": -85.77462,
+    "depth": 21.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Former Naval platform installed 1957, demolished with explosives August 1984. Depth ranges 60-70 ft (18.5-21.5m); best visited at high tide given proximity to the pass.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Hathaway Bridge Span #14",
+    "lat": 30.07152,
+    "lon": -85.8146,
+    "depth": 22.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "One of the inshore Hathaway Bridge spans closer to the pass in relatively shallow water; largely collapsed after Hurricane Michael (2018).",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "Chickasaw",
+    "lat": 30.08207,
+    "lon": -85.77938,
+    "depth": 21.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "102-ft steam tugboat built 1908 for the Army Corps of Engineers; scuttled as an artificial reef in 1970, a few miles outside the pass.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "DuPont Bridge Spans #1 and 2",
+    "lat": 29.98188,
+    "lon": -85.852,
+    "depth": 27.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Span #2 at 29.9751,-85.84772. Match the DuPont Span #3 site; deployed around the same time but more deteriorated than Span #3.",
+      "validation_source": "book:northwest_florida_dive_guide"
+    }
+  },
+  {
+    "name": "St. Andrews Jetty",
+    "lat": 30.1252,
+    "lon": -85.73365,
+    "depth": 23,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Most popular shore dive in the Panama City area, at St. Andrews State Park. Jetty runs NE-SW roughly 750 ft into the Gulf; two access points (the 'Kiddie Pool' lagoon and the Gulf-side beach). Channel side reaches ~75 ft (23m) near the beach separating Kiddie Pool from the Gulf, shallowing toward the jetty end at ~45 ft (13.5m); Gulf side is much shallower than the channel side. Marine life: damselfish, sergeant majors, butterflyfish, grouper, snapper, angelfish, octopuses, seahorses, batfish, stingrays, flounder, spotted eagle rays. Best dived at high slack tide. Surface marker buoy required unless staying in the Kiddie Pool. Safety note: avoid venturing into the middle of the boat channel.",
+      "validation_source": "book:northwest_florida_dive_guide_detailed"
+    }
+  },
+  {
+    "name": "SS Tarpon",
+    "lat": 30.09502,
+    "lon": -85.94273,
+    "depth": 29,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Twin-screw steamship built 1887 in Delaware (originally Naugatuck), used to carry cargo/passengers between Connecticut and New York and as an icebreaker on the Housatonic River. Sold 1902 to Pensacola, St. Andrews & Gulf Steamship Co., renamed SS Tarpon in 1891 after being lengthened 30 ft. Ran weekly Mobile AL-Carrabelle FL route for 35 years. Sank September 1, 1937 roughly 9 miles SW of Panama City after being dangerously overloaded during a storm; 18 people died including 81-year-old Captain Willis Green Barrow. Became Florida's 6th Underwater Archaeological Preserve in 1997. Complex debris field on sand/rock seabed: main boiler (largest feature), donkey boilers, engine, propeller shafts, anchor chain, hull plates. Open site, no penetration opportunities. Type: Freighter/Passenger Carrier, 449 grt, Pusey & Jones shipbuilders 1887, original length 130 ft (40m)/160 ft (49m) after a 1891 rebuild.",
+      "validation_source": "book:northwest_florida_dive_guide_detailed"
+    }
+  },
+  {
+    "name": "Jeff-A Hovercraft",
+    "lat": 30.071,
+    "lon": -85.8117,
+    "depth": 23,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Prototype Amphibious Assault Landing Craft (AALC) designed for the US Navy in 1979, built 1977 by Aerojet General Corporation (Sacramento, CA). Aluminum hull, 96 ft (29m) length. Sunk under the Florida Artificial Reef program in August 1995; took two days to settle to bottom despite weighing over 160 tons. Rests on sand/rubble at ~75 ft (23m), top of structure ~65 ft (20m). Hatches were removed prior to sinking so divers can explore the confined interior spaces (better suited to experienced divers); skirt left in place attracts marine growth. Toadfish commonly found hiding in recesses.",
+      "validation_source": "book:northwest_florida_dive_guide_detailed"
+    }
+  },
+  {
+    "name": "Accokeek",
+    "lat": 29.97458,
+    "lon": -85.86525,
+    "depth": 30.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Originally an auxiliary ocean tugboat built for the US Navy in Orange, TX (Levingston Shipbuilding Co.), commissioned October 1944 as USS ATA-181. Served in the Pacific Fleet, active role in the assault/occupation of Okinawa (1945), earned one battle star. Crossed to the Atlantic Fleet 1946, renamed Accokeek July 1948, provided submarine/cruiser support for decades. Decommissioned 1972, later used by the Naval Diving and Salvage Training Center at Naval Coastal Systems Center, Panama City for repeated training scuttle/refloat cycles from 1987; sunk for good July 9, 2000. Wreck in remarkably good condition; highest point 57 ft (17.5m), seabed 100 ft (30.5m). Divers can explore three levels: main deck, upper deck, wheelhouse (overhead-environment experience recommended for the wheelhouse/swim-throughs). Type: Auxiliary ocean tugboat, 600 grt, 144 ft (44m) length.",
+      "validation_source": "book:northwest_florida_dive_guide_detailed"
+    }
+  },
+  {
+    "name": "FAMI Tugs",
+    "lat": 29.96895,
+    "lon": -85.85428,
+    "depth": 31,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Double-wreck site: two tugboats (85 ft and 95 ft) deployed as artificial reefs with funding from the Florida Aquatic and Marine Institute (FAMI), locally called 'Twin Tugs'/'Two Tugs'. Originally deployed bow-to-bow with a 30-ft tether; a storm lifted one tug on top of the other. Top wreck reaches 74 ft (22.5m), seabed 102 ft (31m) at its lowest point. Sunk July 10-11, 2003.",
+      "validation_source": "book:northwest_florida_dive_guide_detailed"
+    }
+  },
+  {
+    "name": "Chippewa",
+    "lat": 29.96127,
+    "lon": -85.80773,
+    "depth": 30.5,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Navajo-class fleet ocean tug built 1943 in Charleston, SC, originally AT-69 (reclassified ATF-69 in 1944). Operated in the Atlantic/Caribbean during WWII, laid buoys in Casablanca. Decommissioned 1947; given to the Navy Experimental Dive Unit Panama City in January 1989 for explosives training, sunk as an artificial reef February 8, 1990. Over 200 ft long, one of the larger naval tugs in the region; extensively damaged with a strong list to port, large crack in deck/hull near stern. Type: Navajo-class tugboat, 1,240 grt, Charleston Shipbuilding & Drydock Co. 1942, length 205 ft (62.5m).",
+      "validation_source": "book:northwest_florida_dive_guide_detailed"
+    }
+  },
+  {
+    "name": "SS Empire Mica",
+    "lat": 29.31213,
+    "lon": -85.35232,
+    "depth": 32,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated_research",
+      "notes": "GEOGRAPHIC FLAG: located near Apalachicola, Franklin County (~29.31N) - south of this destination's current bounding box (min lat 29.8) and geographically distinct from the Bay County/Panama City cluster of the rest of these sites; needs a bounds decision or separate destination grouping. 479-ft (146m) British tanker built 1941 in Middlesbrough, England, torpedoed by German U-boat U-67 on June 29, 1942 while carrying 11,200 tons of aviation fuel from Baytown, TX to Britain. Erupted into a fireball visible ~30 miles away; 33 crew died. Complex debris field stretching ~500 ft (152m); significant entanglement risk. Notable features: three giant boilers (up to 87 ft/26.5m, tallest points on site), collapsed hull section, spare propeller (16-ton solid cast bronze, salvaged and now displayed at Capt. Anderson's Restaurant, Panama City Beach). Type: Tanker, 8,032 grt, Furness Shipbuilding Co. 1941.",
+      "validation_source": "book:northwest_florida_dive_guide_detailed"
+    }
+  },
+  {
+    "name": "DuPont Span #3",
+    "lat": 29.9753,
+    "lon": -85.84165,
+    "depth": 31,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Section of the old DuPont Bridge (built 1927, Parker Through Truss design) that connected Panama City to Tyndall Air Force Base via US-98; also called Tyndall Bridge/Old East Bay Bridge. Deployed as an artificial reef in late 2008; last of three spans sunk (official deployment date December 19, 2008), most upright/intact of the three. Seafloor beneath bridge 102 ft (31m), roadway sits at 100 ft (30.5m) - suited to Advanced-certified divers - but support truss beams top out at 69 ft (21m), within reach of less experienced divers. Heavily encrusted with soft corals, sponges, macroalgae.",
+      "validation_source": "book:northwest_florida_dive_guide_detailed"
+    }
+  },
+  {
+    "name": "Red Sea",
+    "lat": 30.01605,
+    "lon": -85.70022,
+    "depth": 23,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "125-ft (38m) tugboat built 1943 for the Panama Canal Commission, originally named San Pablo; maneuvered crane barges and helped steer freighters into the canal's locks for nearly 50 years. Sold and renamed San Pablo I in 1990, later Aquilon, before moving to the US and being renamed Red Sea. Sunk as an artificial reef June 24, 2009. Relatively intact, sits upright on sand; wheelhouse roof now upside-down off her port side; large funnel collapsed into the room below, blocking that interior space (other penetration opportunities remain for experienced divers). Type: Tugboat, 391 grt, Speddon Shipbuilding Co. (Baltimore, MD) 1943.",
+      "validation_source": "book:northwest_florida_dive_guide_detailed"
+    }
   }
 ]

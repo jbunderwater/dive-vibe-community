@@ -1,9 +1,9 @@
 ---
 name: El Dorado
-lat: 29.98193
-lng: -85.84917
+lat: 29.97613
+lng: -85.84145
 difficulty: Advanced
-maxDepth: 31
+maxDepth: 31.5
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ El Dorado is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-Sunk as an artificial reef on May 3, 2019 about 12 nautical miles south of St. Andrew Bay Pass — one of the newer additions to the Panama City Beach shipwreck circuit. The structure's top sits around 19 m (62 ft) with the wreck resting near 31 m (103 ft). Sandbar sharks, goliath grouper, and schooling mackerel have been reported specifically at this site.
+A 157-ft vessel originally a luxury yacht registered in Boston, MA. In 2004, Hurricane Ivan broke her free of her moorings in Panama City Beach and carried her six miles until she ran aground in marshland in West Bay, where she sat for nearly five years before local salvager Lee Ingram refloated her and brought her back to the dock in 2009. Faced with the cost of a second salvage after Hurricane Michael tossed her onto a sandbar near the Florida State University campus in 2018, Ingram donated the stripped vessel to the community as an artificial reef in partnership with the Florida Fish and Wildlife Conservation Commission and Bay County. After holes were cut in her hull for greater diver and fish access, she was towed out and scuttled on May 3, 2019, just 150 ft north of DuPont Span #3. Strong spring storms in 2020 pancaked her stern and tilted her bow and wheelhouse backward, leaving her complex interior collapsed and her bow pointing up at an angle toward the surface. Her bow tops out at 83 ft (25.5m) while the seabed near her stern debris sits at 103 ft (31.5m); the collapsed structure offers limited dive profiles and no safe interior penetration, making this site accessible only to advanced divers. The wreck shelters snapper and grunt species including mangrove, red, and vermilion snapper, along with porgies, almaco and bar jacks, wrasse, and damselfish, while Atlantic spadefish form small schools near the wheelhouse.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Sunk as an artificial reef on May 3, 2019 about 12 nautical miles south of St. A
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 31 meters
+- **Maximum Depth**: 31.5 meters
 
 ---
-*Sources: [Scuba Diving Magazine](https://www.scubadiving.com/el-dorado-offers-new-wreck-site-for-panama-city-beach-scuba-divers), [Florida Scuba Diving](https://www.florida-scubadiving.com/el-dorado-shipwreck-panama-city-florida/). Last updated 2026-07-21.*
+*Source: Northwest Florida dive guidebook, Bay County dive sites section (detailed edition). Last updated 2026-08-07.*
