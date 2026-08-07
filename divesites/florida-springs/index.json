@@ -119,4 +119,16 @@
     "ref": "",
     "osmId": null
   }
+  {
+    "name": "Morrison Springs",
+    "filename": "morrison-springs.md",
+    "lat": 30.65765,
+    "lng": -85.90483,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  }
 ]
