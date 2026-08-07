@@ -2,22 +2,30 @@
   {
     "name": "Ginnie Springs (Devil's Spring System)",
     "lat": 29.836,
-    "lon": -82.700,
+    "lon": -82.7,
     "depth": 15,
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Advanced",
-    "tags": {"source": "curated_research", "notes": "First-magnitude spring complex on the Santa Fe River, privately operated day-use site. Devil's Eye/Devil's Ear/Little Devil vents connect to an extensive mapped cave system (~30,000 ft of conduits); cavern zone is Intermediate, full cave system requires full cave certification. Individual vent coordinates not separately published.", "validation_source": "en.wikipedia.org,ginniespringsoutdoors.com,caveatlas.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "First-magnitude spring complex on the Santa Fe River, privately operated day-use site. Devil's Eye/Devil's Ear/Little Devil vents connect to an extensive mapped cave system (~30,000 ft of conduits); cavern zone is Intermediate, full cave system requires full cave certification. Individual vent coordinates not separately published.",
+      "validation_source": "en.wikipedia.org,ginniespringsoutdoors.com,caveatlas.com"
+    }
   },
   {
     "name": "Devil's Den",
     "lat": 29.40756,
-    "lon": -82.47650,
+    "lon": -82.4765,
     "depth": 20,
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Beginner",
-    "tags": {"source": "curated_research", "notes": "Collapsed sinkhole/karst window opening into a large partly-submerged cavern; widely used for open-water and cavern training. Site of a significant 1960 Pleistocene fossil excavation (47+ mammal species). Entry is via stairs into the sinkhole, not a typical beach/dock shore entry.", "validation_source": "en.wikipedia.org"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Collapsed sinkhole/karst window opening into a large partly-submerged cavern; widely used for open-water and cavern training. Site of a significant 1960 Pleistocene fossil excavation (47+ mammal species). Entry is via stairs into the sinkhole, not a typical beach/dock shore entry.",
+      "validation_source": "en.wikipedia.org"
+    }
   },
   {
     "name": "Blue Grotto",
@@ -27,7 +35,11 @@
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Beginner",
-    "tags": {"source": "curated_research", "notes": "Sinkhole with wide open basin leading to a large cavern chamber; widely used for open-water and cavern training. ~100 ft visibility typical.", "validation_source": "padi.com,adventuretampa.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Sinkhole with wide open basin leading to a large cavern chamber; widely used for open-water and cavern training. ~100 ft visibility typical.",
+      "validation_source": "padi.com,adventuretampa.com"
+    }
   },
   {
     "name": "Wes Skiles Peacock Springs State Park",
@@ -37,17 +49,25 @@
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Advanced",
-    "tags": {"source": "curated_research", "notes": "State park protecting one of the longest interconnected underwater cave systems in the continental US (Peacock I/II/III + Orange Grove Sink). Total mapped-passage length cited inconsistently across sources (~33,000 ft vs 38,000+ ft) - flagged as unresolved. Full cave penetration restricted to full-cave-certified divers; individual sink entrances not separately geolocated.", "validation_source": "en.wikipedia.org,floridastateparks.org,caveatlas.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "State park protecting one of the longest interconnected underwater cave systems in the continental US (Peacock I/II/III + Orange Grove Sink). Total mapped-passage length cited inconsistently across sources (~33,000 ft vs 38,000+ ft) - flagged as unresolved. Full cave penetration restricted to full-cave-certified divers; individual sink entrances not separately geolocated.",
+      "validation_source": "en.wikipedia.org,floridastateparks.org,caveatlas.com"
+    }
   },
   {
     "name": "Madison Blue Spring State Park",
-    "lat": 30.480500,
+    "lat": 30.4805,
     "lon": -83.244386,
     "depth": 21,
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "tags": {"source": "curated_research", "notes": "Spring basin on the Withlacoochee River leading to an extensive mapped cave system (nearly 8 miles of surveyed passage per one source); entrance/shallow zone ~60-70ft, deeper system exceeds 100ft and reaches ~145ft in farthest surveyed sections.", "validation_source": "caveatlas.com,karstunderwater.org,en.wikipedia.org"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Spring basin on the Withlacoochee River leading to an extensive mapped cave system (nearly 8 miles of surveyed passage per one source); entrance/shallow zone ~60-70ft, deeper system exceeds 100ft and reaches ~145ft in farthest surveyed sections.",
+      "validation_source": "caveatlas.com,karstunderwater.org,en.wikipedia.org"
+    }
   },
   {
     "name": "Troy Spring State Park",
@@ -57,7 +77,11 @@
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Beginner",
-    "tags": {"source": "curated_research", "notes": "IMPORTANT ACCESS FLAG: Florida State Parks permits open-water scuba diving ONLY here - cave entry and dive lights are explicitly prohibited, unlike most other sites in this list. Home to the wreck of the Confederate steamboat Madison, scuttled 1863.", "validation_source": "en.wikipedia.org,floridahikes.com,nextstopadventures.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "IMPORTANT ACCESS FLAG: Florida State Parks permits open-water scuba diving ONLY here - cave entry and dive lights are explicitly prohibited, unlike most other sites in this list. Home to the wreck of the Confederate steamboat Madison, scuttled 1863.",
+      "validation_source": "en.wikipedia.org,floridahikes.com,nextstopadventures.com"
+    }
   },
   {
     "name": "Little River Springs",
@@ -67,7 +91,11 @@
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Advanced",
-    "tags": {"source": "curated_research", "notes": "Suwannee County park; cave system extends 1,200+ ft via a steep 'chimney' formation to ~100 ft depth. Coordinates from a locator directory, not independently cross-verified against a second precise source - treat as approximate.", "validation_source": "extreme-exposure.com,florida-guidebook.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Suwannee County park; cave system extends 1,200+ ft via a steep 'chimney' formation to ~100 ft depth. Coordinates from a locator directory, not independently cross-verified against a second precise source - treat as approximate.",
+      "validation_source": "extreme-exposure.com,florida-guidebook.com"
+    }
   },
   {
     "name": "Manatee Springs State Park",
@@ -77,7 +105,11 @@
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "tags": {"source": "curated_research", "notes": "Florida's first state park (1968); first-magnitude spring with multiple karst openings (Headspring, Catfish Hotel, Sue Sink, Friedman's Sink). Cave diving permitted for certified cave divers with depth/lighting restrictions. Main spring run closed to swimmers in winter for manatee protection - manatees seasonally present, not guaranteed.", "validation_source": "en.wikipedia.org,extreme-exposure.com,karstunderwater.org"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Florida's first state park (1968); first-magnitude spring with multiple karst openings (Headspring, Catfish Hotel, Sue Sink, Friedman's Sink). Cave diving permitted for certified cave divers with depth/lighting restrictions. Main spring run closed to swimmers in winter for manatee protection - manatees seasonally present, not guaranteed.",
+      "validation_source": "en.wikipedia.org,extreme-exposure.com,karstunderwater.org"
+    }
   },
   {
     "name": "Vortex Spring",
@@ -87,7 +119,11 @@
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Beginner",
-    "tags": {"source": "curated_research", "notes": "Panhandle location (Holmes County) - outside the core north-central FL springs belt. Large basin with shallow training platforms (20ft); cave passage beyond the cavern is barred by a security gate at ~115ft for diver safety after multiple documented fatalities - full cave certification required for any attempt beyond the cavern zone.", "validation_source": "en.wikipedia.org,caveatlas.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Panhandle location (Holmes County) - outside the core north-central FL springs belt. Large basin with shallow training platforms (20ft); cave passage beyond the cavern is barred by a security gate at ~115ft for diver safety after multiple documented fatalities - full cave certification required for any attempt beyond the cavern zone.",
+      "validation_source": "en.wikipedia.org,caveatlas.com"
+    }
   },
   {
     "name": "Jackson Blue Spring",
@@ -97,6 +133,24 @@
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Advanced",
-    "tags": {"source": "curated_research", "notes": "Panhandle location (Jackson County) - outside the core north-central FL springs belt. Feeds Merritt's Mill Pond; full cave certification required. Closed to divers in summer months for recreational swimmer access. Coordinate from a single spring-locator source, not independently cross-verified.", "validation_source": "hiddenriversofflorida.com,caveatlas.com,visitjacksoncountyfla.com"}
+    "tags": {
+      "source": "curated_research",
+      "notes": "Panhandle location (Jackson County) - outside the core north-central FL springs belt. Feeds Merritt's Mill Pond; full cave certification required. Closed to divers in summer months for recreational swimmer access. Coordinate from a single spring-locator source, not independently cross-verified.",
+      "validation_source": "hiddenriversofflorida.com,caveatlas.com,visitjacksoncountyfla.com"
+    }
+  },
+  {
+    "name": "Morrison Springs",
+    "lat": 30.65765,
+    "lon": -85.90483,
+    "depth": 15,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated_research",
+      "notes": "Morrison Springs County Park, Ponce de Leon, Walton County. Open basin bottoms out around 20 ft (6 m) with a submerged platform used for skills practice; a funnel-shaped opening mid-basin leads to a cave bottoming out at 45-50 ft (13.5-15 m). Cave entry is for cave-experienced divers only. Visibility is strongly influenced by the nearby Choctawhatchee River and drops when the river runs above 5 ft (1.5 m). Fishing boats share the basin via a boat ramp, so dive flags are required.",
+      "validation_source": "Reef Smart Guides Northwest Florida"
+    }
   }
 ]
