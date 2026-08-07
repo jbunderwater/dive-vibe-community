@@ -29,7 +29,7 @@ Reef's End is the westernmost point of Molokini's underwater crescent, where the
 
 ## Marine Life
 
-Independently confirmed species at Reef's End include: garden eels (in the sand channel), whitetip reef sharks, grey reef sharks, moray eels, giant trevally, white pyramid butterflyfish, wrasses, unicornfish, Moorish idols, trumpetfish, lobsters, and antler coral. Manta rays visit the area and spinner and bottlenose dolphins have been reported. Whale sharks are occasionally sighted near the outer edge. Humpback whales are seasonally audible and sometimes visible from Molokini (December–May) but are not specifically documented at this site.
+Independently confirmed species at Reef's End include: garden eels (in the sand channel), baby whitetip reef sharks, occasional grey reef sharks, moray eels, giant trevally (locally "ulua"), raccoon butterflyfish, damselfish, triggerfish, wrasses, Moorish idols, blue-striped snappers, fire dartfish, lobsters, and antler and cauliflower coral. Manta rays visit the area and spinner and bottlenose dolphins have been reported. Whale sharks are occasionally sighted near the outer edge, and green sea turtles are documented here by PADI's site listing. Humpback whales (December–May, seasonal) are specifically documented at Reef's End by at least one source, though sightings are weather- and season-dependent.
 
 ## Tips
 
@@ -38,4 +38,4 @@ Independently confirmed species at Reef's End include: garden eels (in the sand 
 - Visibility at Reef's End is among the most consistent in the crater: operators cite 30–60 metres as typical.
 
 ---
-*Sources: [Makena Coast Charters – Reef's End](https://makenacoastcharters.com/snorkel-sites/molokini-reef-end/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [PADI – Reef's End at Molokini Crater](https://www.padi.com/dive-site/united-states-of-america-usa/reefs-end-at-molokini-crater/). Last updated 2026-06-06.*
+*Sources: [Makena Coast Charters – Reef's End](https://makenacoastcharters.com/snorkel-sites/molokini-reef-end/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [PADI – Reef's End at Molokini Crater](https://www.padi.com/dive-site/united-states-of-america-usa/reefs-end-at-molokini-crater/). Last updated 2026-08-07.*

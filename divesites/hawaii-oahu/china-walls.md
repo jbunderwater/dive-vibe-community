@@ -37,4 +37,4 @@ Sea turtles and whitetip reef sharks regularly rest in the caves and nooks of th
 China Walls is genuinely hazardous in anything other than calm conditions. Numerous fatalities have occurred at the site over the years due to unpredictable surface conditions. Divers should assess conditions carefully before entry and always use a boat when conditions are not flat.
 
 ---
-*Sources: [Oahu Dive Guide – China Walls](https://www.oahudiveguide.com/post/china-walls-dive-guide), [PADI – Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [Scuba Diving Magazine – Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu). Last updated 2026-06-06.*
+*Sources: [Oahu Dive Guide – China Walls](https://www.oahudiveguide.com/post/china-walls-dive-guide), [PADI – Must-See Dive Sites on Oahu](https://blog.padi.com/must-see-dive-sites-on-oahu/), [Scuba Diving Magazine – Ultimate Guide to Oahu](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-oahu). Last updated 2026-08-07.*

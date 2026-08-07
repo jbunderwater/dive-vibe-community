@@ -29,7 +29,7 @@ Enenue occupies the eastern inner face of Molokini Crater, offering a gradual sl
 
 ## Marine Life
 
-Multiple sources confirm the following species at or directly adjacent to Enenue: butterflyfish (schools in the shallows), antler coral, moray eels, whitetip reef sharks (in ledges at the base of the slope), and occasional rays. Manta rays and grey sharks are also reported at Molokini generally but are not specifically documented at this inner-wall site. Sources note that turning the corner toward the back wall adds shark ledge access, but that is treated as a separate dive profile.
+Multiple sources confirm the following species at or directly adjacent to Enenue: butterflyfish (schools in the shallows), antler coral, red-dotted coral crabs, moray eels, whitetip reef sharks, and rays. Manta rays and grey sharks are also reported at Molokini generally but are not specifically documented at this inner-wall site. Sources do not specify exactly where along the slope the whitetip sharks rest, so no ledge-location detail is asserted here.
 
 ## Tips
 
@@ -38,4 +38,4 @@ Multiple sources confirm the following species at or directly adjacent to Enenue
 - Less exposed to swell than the outer back wall sites; suitable when back wall conditions are unfavourable.
 
 ---
-*Sources: [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Makena Coast Charters – Molokini Enenui](https://makenacoastcharters.com/snorkel-sites/molokini-enenui/). Last updated 2026-06-06.*
+*Sources: [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Maui Information Guide – Molokini Crater Scuba Diving](https://www.mauiinformationguide.com/molokini-crater-scuba-dive.php). Last updated 2026-08-07.*

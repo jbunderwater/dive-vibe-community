@@ -16,7 +16,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "molokinicrater.com,activityauthority.com,mauiinformationguide.com",
-      "last_qa_date": "2026-06-06"
+      "last_qa_date": "2026-08-07"
     }
   },
   {
@@ -35,8 +35,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "molokinicrater.com,activityauthority.com,makenacoastcharters.com",
-      "last_qa_date": "2026-06-06"
+      "validation_source": "molokinicrater.com,activityauthority.com,mauiinformationguide.com",
+      "last_qa_date": "2026-08-07"
     }
   },
   {
@@ -56,7 +56,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "molokinicrater.com,activityauthority.com,mauiinformationguide.com",
-      "last_qa_date": "2026-06-06"
+      "last_qa_date": "2026-08-07"
     }
   },
   {
@@ -76,7 +76,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "blog.padi.com,activityauthority.com,molokinicrater.com",
-      "last_qa_date": "2026-06-06"
+      "last_qa_date": "2026-08-07"
     }
   },
   {
@@ -96,7 +96,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "makenacoastcharters.com,activityauthority.com,padi.com",
-      "last_qa_date": "2026-06-06"
+      "last_qa_date": "2026-08-07"
     }
   },
   {
@@ -116,7 +116,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "molokinicrater.com,activityauthority.com,mauiinformationguide.com",
-      "last_qa_date": "2026-06-06"
+      "last_qa_date": "2026-08-07"
     }
   },
   {
@@ -135,8 +135,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "molokinimaui.com,activityauthority.com,molokinicrater.com",
-      "last_qa_date": "2026-06-06"
+      "validation_source": "molokinicrater.com,activityauthority.com,makenacoastcharters.com,molokinimaui.com",
+      "last_qa_date": "2026-08-07"
     }
   },
   {
@@ -155,8 +155,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "molokinicrater.com,goscubadivemaui.com,scubaboard.com",
-      "last_qa_date": "2026-06-06"
+      "validation_source": "molokinicrater.com,goscubadivemaui.com,scubaboard.com,mauiinformationguide.com",
+      "last_qa_date": "2026-08-07"
     }
   }
 ]

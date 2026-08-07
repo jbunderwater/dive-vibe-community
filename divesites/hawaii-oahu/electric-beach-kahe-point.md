@@ -37,4 +37,4 @@ Sea turtles, spotted eagle rays, white-tip reef sharks, eels, octopus, nudibranc
 Significant boat traffic (tour boats, private vessels, jet skis) passes through the area. Free divers and spear fishers are common. The rocky beach entry and exit require care. Conditions change significantly with swell; the site is best on calm days.
 
 ---
-*Sources: [Oahu Dive Guide – Electric Beach](https://www.oahudiveguide.com/post/electric-beach), [Love Oahu – Electric Beach](https://loveoahu.org/beaches/electric-beach/), [Atlas Obscura – Electric Beach](https://www.atlasobscura.com/places/electric-beach-2). Last updated 2026-06-06.*
+*Sources: [Oahu Dive Guide – Electric Beach](https://www.oahudiveguide.com/post/electric-beach), [Love Oahu – Electric Beach](https://loveoahu.org/beaches/electric-beach/), [Atlas Obscura – Electric Beach](https://www.atlasobscura.com/places/electric-beach-2). Last updated 2026-08-07.*

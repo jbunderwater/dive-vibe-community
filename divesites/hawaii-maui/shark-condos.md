@@ -38,4 +38,4 @@ Multiple sources independently confirm whitetip reef sharks as the primary speci
 - The sharks are habituated to divers but remain wild animals; do not approach or reach into the ledges.
 
 ---
-*Sources: [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Maui Information Guide – Molokini Crater Scuba Diving](https://www.mauiinformationguide.com/molokini-crater-scuba-dive.php). Last updated 2026-06-06.*
+*Sources: [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Maui Information Guide – Molokini Crater Scuba Diving](https://www.mauiinformationguide.com/molokini-crater-scuba-dive.php). Last updated 2026-08-07.*
