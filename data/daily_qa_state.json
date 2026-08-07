@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "hawaii-kauai",
-    "hawaii-maui",
-    "hawaii-oahu",
-    "honduras",
-    "iceland",
-    "india",
     "indonesia",
     "israel",
     "italy",
@@ -114,6 +108,12 @@
     "zanzibar"
   ],
   "completed_this_cycle": [
+    "hawaii-kauai",
+    "hawaii-maui",
+    "hawaii-oahu",
+    "honduras",
+    "iceland",
+    "india",
     "dominica",
     "dominican-republic",
     "dry-tortugas",
@@ -178,6 +178,73 @@
     "hawaii-big-island"
   ],
   "history": [
+    {
+      "date": "2026-08-07",
+      "slugs": [
+        "hawaii-kauai",
+        "hawaii-maui",
+        "hawaii-oahu",
+        "honduras",
+        "iceland",
+        "india"
+      ],
+      "notes": "honduras, iceland, and india are isGroup=true parent slugs with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs. Only hawaii-kauai, hawaii-maui, and hawaii-oahu have direct data and were QA'd. (Their children are covered separately: honduras -> roatan/utila, both already QA'd in prior cycles; iceland -> silfra-fissure, still in queue; india -> andaman-islands, already QA'd this cycle.)",
+      "summary": {
+        "sites_total": 37,
+        "sites_validated_today": 0,
+        "sites_re_audited": 33,
+        "hallucinations_removed": 4,
+        "marine_life_stripped": 6,
+        "wreck_conflicts_flagged": 3,
+        "sites_unresolved": 4,
+        "by_destination": {
+          "hawaii-kauai": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "All 10 sites already validated=true from a prior pass; re-audited against live re-fetched sources. Kukuiula Bay: removed an unsupported claim that Fathom Five runs guided shore dives there (their site confirms only Koloa Landing and Tunnels Beach as certified shore dives) and an unconfirmed marine-life attribution. General Store's steam schooner Pele wreck history (name, 1895-03-24 sinking date, cause, cargo) cross-checked against two independent Garden Island newspaper articles (2000, 2015) with no discrepancies -- no Wikipedia article exists for the vessel, noted explicitly. Tunnels Beach (Makua) commercial-access status flagged as a genuine unresolved real-world conflict (litigation-won operator permits amid a statewide access freeze pending environmental review) rather than guessed. Ni'ihau charter length and Sheraton Caverns depth range corrected against current operator pages. Stale divessi.com source links updated to their scubago.com redirect target."
+          },
+          "hawaii-maui": {
+            "sites_total": 8,
+            "sites_validated_today": 0,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "No wreck sites (all 8 Molokini Crater sites are wall/reef). All already validated=true; re-audited. 'Flamingo angelfish' corrected to 'flame angelfish' on Middle Reef. Unsourced 'Scuba Diving Magazine top wall dive' claim removed from The Back Side. Tako Flats' 3-species octopus breakdown was misattributed as site-specific when the source was Molokini-wide -- rewritten to reflect confirmed-but-unspecified octopus sightings. Reef's End and Enenue had species corrected/removed to match their actual cited sources. Tako Flats and The Back Side depth conflicts stated as sourced ranges rather than single false-precision numbers."
+          },
+          "hawaii-oahu": {
+            "sites_total": 19,
+            "sites_validated_today": 0,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 4,
+            "notes": "Turtle Alley downgraded validated=true->false -- its cited sources actually describe adjacent Turtle Canyon, not Turtle Alley itself. Turtle Canyon's hawksbill-turtle claim removed (only green turtles confirmed by 2 of 3 sources); Kaneohe Sandbar's unsupported '~40 species of coral' statistic removed. Wreck deep-research flagged 3 genuine length/depth conflicts across independent sources: Sea Tiger (168ft vs 189ft vs 150ft), San Pedro (~90ft vs 111ft), YO-257 (85ft vs 75ft main-deck depth outlier) -- all stated as sourced disagreements rather than picked. USS LST-480, Mahi, and Corsair wreck histories re-verified accurate, no changes beyond date bump. Checked all 19 sites against CLAUDE.md's Oahu surf-break misclassification pattern -- none found. Corrected an overview.md/site-page inconsistency on spinner-dolphin residency at Electric Beach. Half Point, Full Point, Tripod Reef, and Aiea Shoal remain unresolved (re-searched via full dive-shop site inventories; still no independently documented dive-specific sources under these names)."
+          },
+          "honduras": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory); children roatan and utila are separate slugs, both already QA'd in prior cycles (2026-06-27 and 2026-07-08 respectively)"
+          },
+          "iceland": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory); child silfra-fissure is a separate slug still in queue"
+          },
+          "india": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory); child andaman-islands is a separate slug already QA'd this cycle (2026-07-10)"
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
     {
       "date": "2026-08-02",
       "slugs": [
