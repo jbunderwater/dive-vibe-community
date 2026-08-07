@@ -17,7 +17,7 @@ The Back Side is the general name for the outer, ocean-facing wall of Molokini C
 
 ## Overview
 
-The Back Side refers to Molokini's south-facing outer wall, sometimes also called the Back Wall, a site that Scuba Diving Magazine ranked among the top wall dives in U.S. waters. The wall is sheer and largely unbroken, descending well beyond recreational limits. Recreational dives are typically conducted to around 30 metres (100 feet) along the wall face, though the wall continues far below. The upper sections of the wall carry black coral colonies, which provide habitat for longnose hawkfish and gobies. Slipper lobsters, moray eels, pipefish, crabs, and shrimp occupy the deep crevices. The dive is conducted live-boat, with the captain following surface marker buoys as divers drift along the wall face; no moorings exist on the outer wall. Conditions on the exposed south face are heavily weather-dependent — afternoon swells and surge can make this site unsafe, and experienced operators will abort the dive if conditions deteriorate.
+The Back Side refers to Molokini's south-facing outer wall, sometimes also called the Back Wall. The wall is sheer and largely unbroken, descending well beyond recreational limits. Sources report slightly different target depths for the recreational portion of the dive — operators describe maintaining roughly 24-30 metres (80-100 feet) along the wall face — while the wall itself continues to a reported bottom of somewhere between 90 and 120 metres (300-400 feet), figures that vary by source and are likely to vary by exact dive location along the wall. The upper sections of the wall carry black coral colonies, which provide habitat for longnose hawkfish and gobies. Slipper lobsters, moray eels, pipefish, crabs, and shrimp occupy the deep crevices. The dive is conducted live-boat, with the captain following surface marker buoys as divers drift along the wall face; no moorings exist on the outer wall. Conditions on the exposed south face are heavily weather-dependent — afternoon swells and surge can make this site unsafe, and experienced operators will abort the dive if conditions deteriorate.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Back Side refers to Molokini's south-facing outer wall, sometimes also calle
 
 ## Marine Life
 
-Confirmed species for the Molokini back wall (multiple independent sources): whitetip reef sharks, grey reef sharks, moray eels, slipper lobsters, eagle rays, longnose hawkfish (in black coral), pipefish, and pyramid butterflyfish. Manta rays, spinner dolphins, and humpback whales (December–May, seasonal) are also documented on the back wall by dive operators and the Molokini Crater website. Black-tipped reef sharks have been reported by ScubaBoard divers. The overall marine biodiversity at Molokini exceeds 250 species; species listed here are specifically attributed to the back wall zone.
+Confirmed species for the Molokini back wall (multiple independent sources): whitetip reef sharks, grey reef sharks, moray eels, slipper lobsters, eagle rays, longnose hawkfish (in black coral), pipefish, and pyramid butterflyfish. Manta rays, spinner dolphins, and humpback whales (December–May, seasonal) are also documented on the back wall by dive operators and the Molokini Crater website. Black-tipped reef sharks have been reported by ScubaBoard divers, and one operator additionally reports occasional whale sharks and Galapagos sharks on the back wall. The overall marine biodiversity at Molokini exceeds 250 species; species listed here are specifically attributed to the back wall zone.
 
 ## Tips
 
@@ -39,4 +39,4 @@ Confirmed species for the Molokini back wall (multiple independent sources): whi
 - During December–May, the sounds of humpback whale song can be heard clearly underwater along the outer wall — an extraordinary incidental feature of the dive.
 
 ---
-*Sources: [Molokini Crater – All About Molokini's Back Wall](https://molokinicrater.com/all-about-molokinis-back-wall/), [Dive Maui – Molokini Crater Backwall](https://goscubadivemaui.com/molokini-crater-backwall/), [ScubaBoard – Molokini Crater Back Wall Dive](https://scubaboard.com/community/threads/molokini-crater-back-wall-dive.450/). Last updated 2026-06-06.*
+*Sources: [Molokini Crater – All About Molokini's Back Wall](https://molokinicrater.com/all-about-molokinis-back-wall/), [Dive Maui – Molokini Crater Backwall](https://goscubadivemaui.com/molokini-crater-backwall/), [ScubaBoard – Molokini Crater Back Wall Dive](https://scubaboard.com/community/threads/molokini-crater-back-wall-dive.450/), [Maui Information Guide – Molokini Crater Scuba Diving](https://www.mauiinformationguide.com/molokini-crater-scuba-dive.php). Last updated 2026-08-07.*

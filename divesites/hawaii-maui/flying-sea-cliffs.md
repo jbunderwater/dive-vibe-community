@@ -38,4 +38,4 @@ Sources confirm at this site: red sponges and tube coral on the underside of the
 - Conditions on the exposed south face deteriorate quickly in afternoon swells; morning departures are standard practice for all Molokini back wall sites.
 
 ---
-*Sources: [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Maui Information Guide – Molokini Crater Scuba Diving](https://www.mauiinformationguide.com/molokini-crater-scuba-dive.php). Last updated 2026-06-06.*
+*Sources: [Molokini Crater – Dive Spots](https://molokinicrater.com/molokini-dive-spots/), [Activity Authority – Molokini Dive Spots Explained](https://activityauthority.com/molokini-snorkeling-dive-spots/), [Maui Information Guide – Molokini Crater Scuba Diving](https://www.mauiinformationguide.com/molokini-crater-scuba-dive.php). Last updated 2026-08-07.*
