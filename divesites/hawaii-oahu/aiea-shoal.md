@@ -17,7 +17,7 @@ Aiea Shoal is a fringing coral reef near Pearl Harbor on Oahu's south-central co
 
 ## Overview
 
-Aiea Shoal is an OSM-recorded fringing coral reef formation near Pearl Harbor. The OSM data tags it as a submerged obstruction (coral reef type). The term "shoal" refers to a shallow, elevated reef in otherwise deeper offshore waters. No dive operator websites, forum trip reports, or dive databases documented this site under this name during the June 2026 QA pass. The proximity to Pearl Harbor may affect accessibility.
+Aiea Shoal is an OSM-recorded fringing coral reef formation near Pearl Harbor. The OSM data tags it as a submerged obstruction (coral reef type). The term "shoal" refers to a shallow, elevated reef in otherwise deeper offshore waters. No dive operator websites, forum trip reports, or dive databases documented this site under this name during the June 2026 or August 2026 re-audit QA passes -- checked again against comprehensive dive-shop site-list pages (oahudiveguide.com, hawaiidivecenter.com) and WebSearch on 2026-08-07 with the same result. The proximity to Pearl Harbor may affect accessibility.
 
 ## Site Information
 
@@ -32,4 +32,4 @@ Aiea Shoal is an OSM-recorded fringing coral reef formation near Pearl Harbor. T
 *No site-specific marine life sources found. Regional Oahu reef fauna applies but is not attributed to this specific site.*
 
 ---
-*Description based on OSM data. No site-specific sources found during June 2026 QA research pass. Last updated 2026-06-06.*
+*Description based on OSM data. No site-specific sources found during the June 2026 or August 2026 re-audit QA passes. Last updated 2026-08-07.*

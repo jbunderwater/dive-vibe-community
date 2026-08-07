@@ -23,7 +23,7 @@ Sitting approximately two miles south of Kewalo Basin, the YO-257 rests upright 
 
 USS YO-257 was a Yard Oiler built in 1938 in Puget Sound, Washington. Specifications from the Wikipedia record: 174 feet (53 m) long, 33 ft beam, 13 ft draft; light displacement 440 tons, full displacement 1,390 tons. The vessel served in World War II, the Korean War, and the Vietnam War. From September to November 1963 it was temporarily loaned to the U.S. Coast Guard to carry materials for a LORAN station construction project on Yap, Western Carolines. After decommissioning, the vessel was purchased by Atlantis Submarines Hawaii and intentionally scuttled as an artificial reef in 1989.
 
-Note: one operator source (oahudiving.com) gives the vessel length as 165 feet; Wikipedia and Rainbow Scuba both give 174 feet. The Wikipedia figure (174 ft / 53 m) is used here.
+Note: one operator source (oahudiving.com) gives the vessel length as 165 feet, and Hawaii Dive Center gives 175 feet; Wikipedia and Rainbow Scuba both give 174 feet. The Wikipedia figure (174 ft / 53 m) is used here. On main deck depth, Rainbow Scuba and prior sources cited here give approximately 85 feet, while Hawaii Dive Center gives approximately 75 feet — sources disagree by roughly 10 feet on this figure.
 
 ## Site Information
 
@@ -40,4 +40,4 @@ Note: one operator source (oahudiving.com) gives the vessel length as 165 feet; 
 Hawaiian green sea turtles frequently rest on the wreck structure. White-tip reef sharks and reef trevally patrol the shadowed corridors. Eagle rays pass through the site. The coral-encrusted hull hosts abundant reef fish, eels, and invertebrates.
 
 ---
-*Sources: [Wikipedia – YO-257](https://en.wikipedia.org/wiki/YO-257), [Rainbow Scuba – YO-257](https://rainbowscuba.com/yo257.html), [Dive Oahu – YO-257 & San Pedro](https://www.diveoahu.com/yo257-san-pedro), [Oahu Diving – YO-257](https://www.oahudiving.com/yo_257.htm). Last updated 2026-06-06.*
+*Sources: [Wikipedia – YO-257](https://en.wikipedia.org/wiki/YO-257), [Rainbow Scuba – YO-257](https://rainbowscuba.com/yo257.html), [Dive Oahu – YO-257 & San Pedro](https://www.diveoahu.com/yo257-san-pedro), [Oahu Diving – YO-257](https://www.oahudiving.com/yo_257.htm), [Hawaii Dive Center – YO-257 Wreck](https://www.hawaiidivecenter.com/oahu-dive-sites/yo-257-wreck-oahu/). Last updated 2026-08-07.*

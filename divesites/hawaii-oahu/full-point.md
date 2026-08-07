@@ -17,7 +17,7 @@ Full Point is a reef dive site on Oahu's southeast coast, recorded in OpenStreet
 
 ## Overview
 
-Full Point is an OSM-derived reef site located on Oahu's southeast shore, immediately adjacent to Half Point. Its name and coordinates appear in maritime OSM data. No dive operator websites, forum trip reports, or dive databases were found that document this site independently under this name during the June 2026 QA pass.
+Full Point is an OSM-derived reef site located on Oahu's southeast shore, immediately adjacent to Half Point. Its name and coordinates appear in maritime OSM data. No dive operator websites, forum trip reports, or dive databases were found that document this site independently under this name during the June 2026 or August 2026 re-audit QA passes -- checked again against comprehensive dive-shop site-list pages (oahudiveguide.com, hawaiidivecenter.com) and WebSearch on 2026-08-07 with the same result.
 
 ## Site Information
 
@@ -33,4 +33,4 @@ Full Point is an OSM-derived reef site located on Oahu's southeast shore, immedi
 *No site-specific marine life sources found. Regional Oahu reef fauna applies but is not attributed to this specific site.*
 
 ---
-*Description based on OSM data. No site-specific sources found during June 2026 QA research pass. Last updated 2026-06-06.*
+*Description based on OSM data. No site-specific sources found during the June 2026 or August 2026 re-audit QA passes. Last updated 2026-08-07.*
