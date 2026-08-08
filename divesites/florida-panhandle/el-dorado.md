@@ -28,4 +28,4 @@ A 157-ft vessel originally a luxury yacht registered in Boston, MA. In 2004, Hur
 - **Maximum Depth**: 31.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

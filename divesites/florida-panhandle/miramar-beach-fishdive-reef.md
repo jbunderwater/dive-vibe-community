@@ -2,13 +2,13 @@
 name: Miramar Beach Fish/Dive Reef
 lat: 30.36457
 lng: -86.38927
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 19
 entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Miramar Beach Fish/Dive Reef
@@ -24,8 +24,8 @@ Initially deployed in 2017, features 98 tons of concrete in the form of 30 modul
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 19 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Crab Trap Destin Reef
@@ -28,4 +28,4 @@ Destin, Okaloosa County. One of four shore-accessible reefs deployed by Okaloosa
 - **Maximum Depth**: 7 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

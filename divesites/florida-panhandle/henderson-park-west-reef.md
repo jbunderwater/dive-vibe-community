@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Henderson Park West Reef
@@ -17,7 +17,7 @@ Henderson Park West Reef is a reef dive site in Florida Panhandle, North America
 
 ## Overview
 
-This is one of four shore-accessible reefs deployed by Okaloosa County in the spring of 2021. Features 78 four-disc reef modules in the shape of a jet fighter firing reef-module missiles toward shore, located just off the runway of Destin Executive Airport. The shallowest modules are embedded in the sandy seabed at a depth of 12ft(3.5m), while the deeper ones bottom out at closer to 23ft(7m). All modules are at least 6ft(2m) below the surface. A diver down flag is required by law when divers and snorkelers enter the water at this site.
+Okaloosa County deployed this reef in spring 2021 as part of a four-site series: 78 four-disc modules laid out in the shape of a jet fighter, its nose aimed at Destin Executive Airport's runway with 'missiles' trailing back toward shore. Depths range from about 12 ft (3.5m) at the shallow modules to 23 ft (7m) at the deep end, all at least 6 ft (2m) under the surface. A diver-down flag is required by law here.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ This is one of four shore-accessible reefs deployed by Okaloosa County in the sp
 - **Maximum Depth**: 7 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

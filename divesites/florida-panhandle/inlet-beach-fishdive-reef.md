@@ -8,7 +8,7 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Inlet Beach Fish/Dive Reef
@@ -17,7 +17,7 @@ Inlet Beach Fish/Dive Reef is a reef dive site in Florida Panhandle, North Ameri
 
 ## Overview
 
-Deployed in 2017, features 31 modules at a depth of 58 ft (17.5m). In total, 124 tons of concrete artificial reef habitat at this site.
+This 2017 deployment consists of 31 modules — 124 tons of concrete habitat — resting at about 58 ft (17.5m).
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Deployed in 2017, features 31 modules at a depth of 58 ft (17.5m). In total, 124
 - **Maximum Depth**: 17.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

@@ -2,13 +2,13 @@
 name: Main Stack
 lat: 30.34682
 lng: -86.49393
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Main Stack
@@ -24,8 +24,8 @@ Also called Destin Bridge Rubble, one of the most popular sites in the area. Fea
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

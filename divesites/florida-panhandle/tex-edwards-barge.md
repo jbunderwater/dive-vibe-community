@@ -2,13 +2,13 @@
 name: Tex Edwards Barge
 lat: 30.26897
 lng: -87.16928
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 23
 entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Tex Edwards Barge
@@ -17,15 +17,15 @@ Tex Edwards Barge is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-This barge sits at a depth of 75ft(23m). It has settled into the sandy seafloor since it was first deployed in 1982, although it still offers plenty for divers to explore and supports a variety of marine life.
+This barge has settled into the sandy seafloor since going down in 1982; she now rests at 75 ft (23m) and still offers plenty to explore.
 
 ## Site Information
 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [Florida Dive Pros](https://www.florida-divepros.com/tex-edwards-barge/), [Zentacle](https://www.zentacle.com/Beach/5865/tex-edwards). Last updated 2026-08-07.*

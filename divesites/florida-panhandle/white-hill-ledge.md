@@ -8,7 +8,7 @@ entryType: boat
 siteType: wall
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## White Hill Ledge
@@ -17,7 +17,7 @@ White Hill Ledge is a wall dive site in Florida Panhandle, North America.
 
 ## Overview
 
-A natural limestone ledge (also called White Hill Reef or Whitehill Reef) running roughly east-west, with 5-7 ft (1.5-2m) of relief from the sandy seafloor. Heavily undercut along its length, with broken sections forming boulders that add complexity to the habitat; depth ranges 80-87 ft (24.5-26.5m). Bounded to the west by a split into upper and lower ledge sections; the western half has a sharp, well-defined edge with a single row of fragments, while the eastern half is a wider swath of rocks and fragmented ledge. About 500 ft (150m) south of the Thomas Heyward Liberty Ship wreck, commonly paired as a two-tank dive. Spotted moray eels, toadfish, scorpionfish, angelfish, damselfish, octopuses, scamp/red/gag grouper, red and mangrove snapper, triggerfish, sharks, and lobster all reported.
+Also called White Hill Reef, this natural limestone ledge runs roughly east-west with 5-7 ft (1.5-2m) of relief and heavy undercutting along its length, at depths between 80 and 87 ft (24.5-26.5m). It sits about 500 ft (150m) north of the Thomas Heyward Liberty Ship wreck, making the two a natural pairing for a two-tank trip. Divers regularly find spotted moray eels, toadfish, scorpionfish, angelfish, damselfish, octopuses, scamp/red/gag grouper, red and mangrove snapper, triggerfish, sharks, and lobster.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ A natural limestone ledge (also called White Hill Reef or Whitehill Reef) runnin
 - **Maximum Depth**: 26.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

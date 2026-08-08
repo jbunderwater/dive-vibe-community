@@ -2,13 +2,13 @@
 name: Miramar Frangista Fish/Dive Reef
 lat: 30.33002
 lng: -86.38048
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 20.5
 entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Miramar Frangista Fish/Dive Reef
@@ -24,8 +24,8 @@ The county's original 2017 deployment featured 121 tons of concrete in the form 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

@@ -8,7 +8,7 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Tenneco Platform
@@ -17,7 +17,7 @@ Tenneco Platform is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-An offshore site, this artificial reef is one of the original rigs-to-reef deployments. A deep site, this old oil rig platform bottoms out at a depth of 175ft(53.5m). The reef attracts large snapper and jacks, which makes it a popular dive with spearfishers.
+One of the original rigs-to-reef conversions in the area, this offshore oil platform bottoms out at a deep 175 ft (53.5m). Large snapper and jacks make it a popular target for spearfishers.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ An offshore site, this artificial reef is one of the original rigs-to-reef deplo
 - **Maximum Depth**: 53.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Fort Pickens Jetty
@@ -17,7 +17,7 @@ Fort Pickens Jetty is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-Fort Pickens is widely regarded as the best shore dive in the Pensacola area, and one of the best in all Northwest Florida. The waters are part of the Fort Pickens Aquatic Preserve which has helped the area develop a relatively high level of biodiversity, with visitors likely to see sheepshead, red drum, porcupinefish, flounder and several species of snapper and grouper. Many tropical reef fish use the rocky seabed here as a nursery, so juvenile damselfish, blennies and wrasses are a common sight as well. Depths at the site range from 10ft(3m) closer to shore, to 42ft(13m) roughly 200ft(61m) from shore. The bottom is mostly covered with rocks, while a few key features, such as large and small cages, an overturned Jeep and even aircraft debris, provide plenty of structure to explore. The site is a popular location for training dives with many of the local operators using the jetties for their open water sessions. Tide data are listed under the name Fort McRee Breakwater.
+Many consider this the best shore dive in the Pensacola area, if not all of Northwest Florida. It falls within the Fort Pickens Aquatic Preserve, whose protections have helped the site build unusually high biodiversity — expect sheepshead, red drum, porcupinefish, flounder, and multiple grouper and snapper species, plus juvenile damselfish, blennies, and wrasses using the rocky bottom as a nursery. Depth increases gradually from about 10 ft (3m) near shore to 42 ft (13m) roughly 200 ft (61m) out. The rock-covered bottom holds some distinctive structure — cages of various sizes, an overturned Jeep, even aircraft debris. Local operators frequently use the jetties for open-water training dives; tide tables list the location under 'Fort McRee Breakwater.'
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Fort Pickens is widely regarded as the best shore dive in the Pensacola area, an
 - **Maximum Depth**: 13 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

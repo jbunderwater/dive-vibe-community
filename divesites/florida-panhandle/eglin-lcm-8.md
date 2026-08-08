@@ -8,7 +8,7 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Eglin LCM-8
@@ -17,7 +17,7 @@ Eglin LCM-8 is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-A 74-ft military landing craft (LCM, or 'Mike boat'), originally designed for troop and equipment amphibious landings and used in Vietnam-era river operations. Served at Tyndall Air Force Base before transfer to Eglin AFB as an instrumentation platform; cleaned and prepped between 1996-2000, then deployed as an artificial reef November 29, 2000, intended to replenish the structure of Okaloosa County's Fish Haven #6 site. Low profile with an open internal framework that poses an entanglement risk rather than a swim-through opportunity. Red snapper are the most notable reef fish here, along with dense schools of vermilion snapper and tomtate grunts, gag grouper, large porgy, schools of jacks (especially greater amberjack), and white-spotted soapfish; blue angelfish often cruise through.
+This 74-ft landing craft — an LCM, or 'Mike boat' — was originally built for amphibious troop and equipment landings and saw river service during the Vietnam era. She later served at Tyndall Air Force Base before Eglin Air Force Base took her on as an instrumentation platform; after several years of prep (1996-2000), she went down as a reef in late 2000 (sources give either November 29 or December 29), intended to bolster the county's Fish Haven #6 site. Her low profile and open framework create real entanglement risk rather than clean swim-throughs. Red snapper are the headline species, alongside dense schools of vermilion snapper and tomtate grunts, gag grouper, oversized porgy, roaming amberjack schools, and blue angelfish passing through.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ A 74-ft military landing craft (LCM, or 'Mike boat'), originally designed for tr
 - **Maximum Depth**: 29.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

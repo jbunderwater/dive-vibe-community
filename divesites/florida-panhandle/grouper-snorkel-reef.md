@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Grouper Snorkel Reef
@@ -17,7 +17,7 @@ Grouper Snorkel Reef is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-Also called Cobia Snorkel Reef or Fish Snorkel Reef. Inlet Beach, Walton County. Deployed August 2017, 95 modules placed in the shape of a fish with its head pointing away from shore. Shallowest (tail) ~12 ft (3.5m), deepest ~21 ft (6.5m). Damselfish, blennies, snapper, triggerfish, grouper, occasional octopus/sea turtle.
+Also called Cobia Snorkel Reef or Fish Snorkel Reef, this Inlet Beach site was deployed in August 2017: 95 modules arranged in a fish shape, head pointing offshore. The tail end sits shallowest, around 12 ft (3.5m), deepening to about 21 ft (6.5m) toward the head. Damselfish, blennies, snapper, triggerfish, and grouper are typical, with occasional octopus or sea turtle sightings.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Also called Cobia Snorkel Reef or Fish Snorkel Reef. Inlet Beach, Walton County.
 - **Maximum Depth**: 6.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

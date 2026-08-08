@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Beach Access #4 Reef
@@ -17,7 +17,7 @@ Beach Access #4 Reef is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-This is one of four shore-accessible reefs deployed by Okaloosa County in the spring of 2019. Features 22 four-disc modules plus six three-disc modules forming a swirl with two nearby stars. The shallowest modules (three-disc format) are embedded in the sandy seabed at a depth of 11ft(3m), while the deeper ones bottom out at closer to 14ft(4m). A diver down flag is required by law when divers and snorkelers enter the water at this site.
+Deployed by Okaloosa County in spring 2019 as part of a set of four shore-accessible reefs, this site pairs 22 four-disc modules with six three-disc modules arranged in a swirl-and-star layout. The three-disc units, being shallower, sit around 11 ft (3m) down; the four-disc modules bottom out closer to 14 ft (4m). A diver-down flag is required by law for anyone entering the water here.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ This is one of four shore-accessible reefs deployed by Okaloosa County in the sp
 - **Maximum Depth**: 4 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

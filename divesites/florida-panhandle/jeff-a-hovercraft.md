@@ -2,13 +2,13 @@
 name: Jeff-A Hovercraft
 lat: 30.071
 lng: -85.8117
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 23
 entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Jeff-A Hovercraft
@@ -24,8 +24,8 @@ A prototype Amphibious Assault Landing Craft (AALC) designed for the US Navy in 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [DiveBuddy](http://www.divebuddy.com/divesite/4180/jeff-a-hovercraft-panama-city-beach-fl/), [Scuba Panama City Beach](https://scubapanamacitybeach.net/panama-city-beach-dive-the-lcac-hovercraft/). Last updated 2026-08-07.*

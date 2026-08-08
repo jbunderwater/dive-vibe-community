@@ -8,7 +8,7 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## LCM and Heron
@@ -17,7 +17,7 @@ LCM and Heron is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-These two wrecks originally sat one on top of the other when they were first deployed in 1990. The 56ft(17m) LCM (landing craft mechanized) vessel known as Elsie now sits next to the 53ft(16m) steel tugboat called the Heron (or Herron) at a depth of 92ft(28m). Elsie has deteriorated over the years, while the Heron's superstructure has suffered damage from various hurricanes.
+Two separate wrecks, deployed together in 1990 and originally stacked one atop the other — a landing craft (the guidebook names her Elsie, a detail not independently confirmed) now resting beside the steel tug Heron, whose superstructure has taken repeated hurricane damage; the two separated after Hurricane Opal in 1995. Both sit at 92 ft (28m) roughly 80 ft apart. Length figures for each vessel (56 ft and 53 ft per the guidebook) weren't independently verified.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ These two wrecks originally sat one on top of the other when they were first dep
 - **Maximum Depth**: 28 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [Zentacle — Tug Heron](https://www.zentacle.com/Beach/6363/tug-heron). Last updated 2026-08-07.*

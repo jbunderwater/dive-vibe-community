@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Perdido Key Reef
@@ -17,7 +17,7 @@ Perdido Key Reef is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-Standard-design reef modules, each featuring a central post that supports multiple limestone and concrete discs, arranged in three rows of eight that extend directly out from the shore near Perdido Key. The first modules are less than 500ft(150m) from shore, making for a relatively easy swim out. The reefs are not particularly deep, with the bottom of the posts ranging in depth from 12 to 15ft(3.5 to 4.5m); the tops of the posts are generally within 6ft(1.8m) of the surface. Visibility can be as little as 10ft(3m) depending on ocean conditions. Visitors are likely to see everything from sea turtles to damselfish; juvenile grouper and snapper are often present on the modules, while cryptic toadfish may be seen closer to the sand.
+This site uses the standard reef-module design seen elsewhere along the coast — a central post holding several limestone and concrete discs — laid out in three rows of eight running straight out from the Perdido Key shoreline. The nearest modules sit under 500 ft (150m) out, making for an easy surface swim. Depth is modest throughout, with post bases between 12 and 15 ft (3.5-4.5m) and the tops usually within 6 ft (1.8m) of the surface; visibility can drop to as little as 10 ft (3m) depending on conditions. Sea turtles and damselfish are common sights, juvenile grouper and snapper favor the modules themselves, and toadfish tend to stay low, near the sand.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Standard-design reef modules, each featuring a central post that supports multip
 - **Maximum Depth**: 4.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

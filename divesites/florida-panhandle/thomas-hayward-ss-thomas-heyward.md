@@ -28,4 +28,4 @@ Built July 1942 in Mobile, AL (Alabama Drydock & Shipbuilding Co.), one of 2,711
 - **Maximum Depth**: 26 meters
 
 ---
-*Sources: [Florida Panhandle Shipwreck Trail](https://floridapanhandledivetrail.com/Ships/DestinLibertyShip), [Wikipedia](https://en.wikipedia.org/wiki/SS_Thomas_Heyward), Northwest Florida dive guidebook (Okaloosa County dive sites section, detailed edition). Last updated 2026-08-07.*
+*Sources: [Florida Panhandle Shipwreck Trail](https://floridapanhandledivetrail.com/Ships/DestinLibertyShip), [Wikipedia](https://en.wikipedia.org/wiki/SS_Thomas_Heyward), [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966) (Okaloosa County dive sites section, detailed edition). Last updated 2026-08-07.*

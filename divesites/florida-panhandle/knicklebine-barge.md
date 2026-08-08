@@ -8,7 +8,7 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Knicklebine Barge
@@ -17,7 +17,7 @@ Knicklebine Barge is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-This 117ft(35.5m) barge sits at a depth of 122ft(37m). A total of 14 pieces of concrete ballast are stacked on top of the barge to provide it with some structure.
+A 117-ft (35.5m) barge, given some added structure by 14 blocks of concrete ballast stacked on her deck. She rests at 122 ft (37m).
 
 ## Site Information
 
@@ -28,4 +28,4 @@ This 117ft(35.5m) barge sits at a depth of 122ft(37m). A total of 14 pieces of c
 - **Maximum Depth**: 37 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), Escambia County Public Artificial Reef List (county reef program record; a scanned/cached listing confirms "117 ft barge with 14 large concrete pieces" — could not be fetched directly for a linkable citation, worth a manual double-check). Last updated 2026-08-07.*

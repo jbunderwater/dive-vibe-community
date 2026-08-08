@@ -2,13 +2,13 @@
 name: Accokeek
 lat: 29.97458
 lng: -85.86525
-difficulty: Beginner
+difficulty: Advanced
 maxDepth: 30.5
 entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Accokeek
@@ -24,8 +24,8 @@ Originally an auxiliary ocean tugboat built for the US Navy in Orange, TX, commi
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [Wikipedia — USS Accokeek (ATA-181)](https://en.wikipedia.org/wiki/USS_Accokeek_(ATA-181)), [Naval History and Heritage Command — DANFS](https://www.history.navy.mil/research/histories/ship-histories/danfs/a/accokeek.html), [Florida Scuba Diving](https://www.florida-scubadiving.com/uss-accokeek-wreck-panama-city-beach-florida/). Last updated 2026-08-07.*

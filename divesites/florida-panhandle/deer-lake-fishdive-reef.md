@@ -8,7 +8,7 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Deer Lake Fish/Dive Reef
@@ -17,7 +17,7 @@ Deer Lake Fish/Dive Reef is a reef dive site in Florida Panhandle, North America
 
 ## Overview
 
-The county deployed 124 tons of reef modules at a depth of 57 ft (17.5m) in 2017. Features 31 modules and provides approximately 18 ft (5.5m) of relief.
+The county placed 124 tons of reef modules here in 2017 — 31 units total — providing about 18 ft (5.5m) of relief at a depth of 57 ft (17.5m).
 
 ## Site Information
 
@@ -28,4 +28,4 @@ The county deployed 124 tons of reef modules at a depth of 57 ft (17.5m) in 2017
 - **Maximum Depth**: 17.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

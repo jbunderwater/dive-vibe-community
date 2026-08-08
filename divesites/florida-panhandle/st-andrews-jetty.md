@@ -2,13 +2,13 @@
 name: St. Andrews Jetty
 lat: 30.1252
 lng: -85.73365
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 23
 entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## St. Andrews Jetty
@@ -24,8 +24,8 @@ The most popular shore dive in the Panama City area, at St. Andrews State Park, 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Shore entry
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

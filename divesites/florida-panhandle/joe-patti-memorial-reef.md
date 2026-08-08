@@ -28,4 +28,4 @@ A 175-foot barge (40-ft beam, 10-ft draft) sunk in July 2013 about 3 nautical mi
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Niuhi Dive Charters](https://niuhidivecharters.com/joe-patti-barge), Northwest Florida dive guidebook (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*
+*Sources: [Niuhi Dive Charters](https://niuhidivecharters.com/joe-patti-barge), [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966) (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*

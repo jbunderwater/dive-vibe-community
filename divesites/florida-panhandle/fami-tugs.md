@@ -8,7 +8,7 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## FAMI Tugs
@@ -17,7 +17,7 @@ FAMI Tugs is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-A pair of tugboats deployed as artificial reefs with funding help from the Florida Aquatic and Marine Institute, Inc. (hence "FAMI"), often called the "Twin Tugs" or "Two Tugs" by local operators and divers. Reportedly US Navy surplus tugs from a fleet of four abandoned when a local company went bankrupt, they were originally deployed bow-to-bow and attached with a 30-ft tether at 85 ft and 95 ft in length. A powerful storm later lifted one tug and placed it at an angle on top of the other, where the midsection of the bottom tug is slowly being crushed by the upper tug's keel. The upper wreck retains an intact superstructure with a wheelhouse open to divers with overhead-environment experience; the top of the structure reaches 74 ft (22.5m), while the seabed at its lowest point sits at 102 ft (31m), making this site better suited to experienced divers. Reef life is abundant: grey triggerfish, banded butterflyfish, and sharpnose puffers frequent the structure, along with grunt and damselfish species, large barracuda and amberjacks, and occasional sandbar sharks patrolling the perimeter. Sunk July 10-11, 2003.
+A grant from the Florida Aquatic and Marine Institute helped fund this pair of tugboats — locally nicknamed the Twin Tugs or Two Tugs — reportedly Navy surplus from a fleet of four left behind when a local company folded. Originally deployed bow-to-bow on an 85-ft and 95-ft pairing linked by a 30-ft tether, a storm later shifted one on top of the other; the lower tug's midsection is slowly being crushed under the upper one's keel. The upper wreck still has an intact wheelhouse, open to divers with overhead-environment experience, cresting at 74 ft (22.5m) with the seabed at 102 ft (31m) — depth that puts this one in more experienced hands. Grey triggerfish, banded butterflyfish, and sharpnose puffers work the structure, joined by grunts, damselfish, big barracuda and amberjacks, and the occasional sandbar shark on the periphery. Sunk July 10-11, 2003.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ A pair of tugboats deployed as artificial reefs with funding help from the Flori
 - **Maximum Depth**: 31 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [UF/IFAS Bay County Reef Program](https://blogs.ifas.ufl.edu/bayco/reef_145). Last updated 2026-08-07.*

@@ -2,7 +2,7 @@
 name: Pete Tide II
 lat: 30.14625
 lng: -87.2342
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 31
 entryType: boat
 siteType: wreck
@@ -24,8 +24,8 @@ Anchor-handling tug supply (AHTS) vessel, 165ft(50.5m) long, built 1973 by Halte
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 31 meters
 
 ---
-*Sources: [Florida Scuba Diving](https://www.florida-scubadiving.com/the-pete-tide-ii-pensacola-florida/), [Niuhi Dive Charters](https://niuhidivecharters.com/pete-tide-ii), Northwest Florida dive guidebook (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*
+*Sources: [Florida Scuba Diving](https://www.florida-scubadiving.com/the-pete-tide-ii-pensacola-florida/), [Niuhi Dive Charters](https://niuhidivecharters.com/pete-tide-ii), [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966) (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*

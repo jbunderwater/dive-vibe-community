@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Dolphin Snorkel Reef
@@ -17,7 +17,7 @@ Dolphin Snorkel Reef is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-Miramar Beach, Walton County. Deployed August 2017, 77 modules arranged in the shape of a dolphin. Shallowest modules ~12 ft (3.5m), deepest ~19 ft (6m); all at least 6 ft below the surface. Damselfish, blennies, snapper, triggerfish, grouper, occasional octopus/sea turtle; divers have even reported seeing actual dolphins here.
+Deployed off Miramar Beach in August 2017, this snorkel reef arranges 77 modules into the shape of a dolphin. Depths run from roughly 12 ft (3.5m) at the shallow end to 19 ft (6m) at the deep end. Expect damselfish, blennies, snapper, triggerfish, and grouper, plus the occasional octopus, sea turtle, or — fittingly — a real dolphin passing through.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Miramar Beach, Walton County. Deployed August 2017, 77 modules arranged in the s
 - **Maximum Depth**: 6 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

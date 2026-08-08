@@ -2,13 +2,13 @@
 name: SR-27 Artificial Reef Sites
 lat: 30.357
 lng: -86.87873
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 21.5
 entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## SR-27 Artificial Reef Sites
@@ -17,15 +17,15 @@ SR-27 Artificial Reef Sites is a reef dive site in Florida Panhandle, North Amer
 
 ## Overview
 
-These 27 patch reefs range in depth from 60 to 70ft(18.5 to 21.5m) and rise from the seabed between 8 and 18ft(2.5 or 5.5m) depending on the type of reef module deployed. Most sites feature more than one module and support a variety of reef life.
+This cluster of 27 patch reefs sits in 60-70 ft (18.5-21.5m) of water, each rising 8-18 ft (2.5-5.5m) off the bottom depending on which module type was used. Most sites combine multiple module designs and hold a good variety of reef life.
 
 ## Site Information
 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

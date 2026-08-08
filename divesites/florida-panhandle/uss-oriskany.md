@@ -28,4 +28,4 @@ A 911-foot Essex-class aircraft carrier, built at the Brooklyn Navy Yard, NY, la
 - **Maximum Depth**: 65 meters
 
 ---
-*Sources: [FWC Oriskany Reef](https://myfwc.com/fishing/saltwater/artificial-reefs/oriskany/), [Florida Panhandle Shipwreck Trail](https://floridapanhandledivetrail.com/Ships/Oriskany), [Florida Scuba Diving](https://www.florida-scubadiving.com/uss-oriskany/), Northwest Florida dive guidebook (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*
+*Sources: [FWC Oriskany Reef](https://myfwc.com/fishing/saltwater/artificial-reefs/oriskany/), [Florida Panhandle Shipwreck Trail](https://floridapanhandledivetrail.com/Ships/Oriskany), [Florida Scuba Diving](https://www.florida-scubadiving.com/uss-oriskany/), [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966) (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*

@@ -8,7 +8,7 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Janet
@@ -28,4 +28,4 @@ An 85-ft tugboat deployed as an artificial reef October 1, 1997; little is known
 - **Maximum Depth**: 29.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [Florida Panhandle Shipwreck Trail](https://floridapanhandledivetrail.com/Ships/MvJanet) (the deployment date is corroborated only by the trail's own listing; no fully independent second source was found). Last updated 2026-08-07.*

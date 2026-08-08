@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Park West and Captain Bob Quarles Reefs
@@ -17,7 +17,7 @@ Park West and Captain Bob Quarles Reefs is a reef dive site in Florida Panhandle
 
 ## Overview
 
-Escambia County deployed two tons of concrete to create Park West Reef in September 2017, mostly in the form of reef balls. The concrete structures sit in a square measuring roughly 100 by 100ft(30.5 by 30.5m). The average depth of the site is just 12ft(3.5m) with the deepest point not much more than 14ft(4.5m). By comparison, Captain Bob Quarles Reef, which was named after a local research diver, boat captain, surfer and fishing guide, was deployed in 2011. It consists of 270 tons of deck spans and other bridge rubble from the old Gulf Breeze bridge, and it features a ledge-like structure that rises as much as 7ft(2m) off the seabed - approximately 14ft(4.5m) deep. These sites provide habitat for a variety of fish, including juvenile grouper and snapper. Lobsters are frequent visitors to Captain Bob Quarles Reef, and are often found sheltering beneath the rubble.
+Escambia County built Park West Reef in September 2017 from about two tons of concrete, mostly reef balls, laid out in a roughly 100-by-100-ft (30.5m) square no deeper than 14 ft (4.5m). Captain Bob Quarles Reef followed in February 2011 — 270 tons of decking and other rubble salvaged from the old Gulf Breeze fishing pier bridge, forming a ledge that rises up to 7 ft (2m) off the bottom at roughly 14 ft (4.5m) depth. The guidebook describes Quarles as a local research diver, boat captain, surfer, and fishing guide; that biographical detail wasn't independently confirmed beyond his name being attached to the reef. Both sites shelter juvenile grouper and snapper, and lobsters are a frequent find tucked beneath the rubble at Captain Bob Quarles.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Escambia County deployed two tons of concrete to create Park West Reef in Septem
 - **Maximum Depth**: 4.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [Florida Dive Pros — Captain Bob Quarles Reef](https://www.florida-divepros.com/captbobquarlesreef/). Last updated 2026-08-07.*

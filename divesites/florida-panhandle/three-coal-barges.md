@@ -8,7 +8,7 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Three Coal Barges
@@ -17,7 +17,7 @@ Three Coal Barges is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-These three barges were purposefully sunk in 50ft(15m) of water in 1972. The barges have not held up well during their time underwater, and a new round of concrete rubble has since been deployed in the middle of the site to help supplement it. This site was an early addition to the Florida Panhandle Shipwreck Trail.
+These three barges were sunk together in 1972, at 50 ft (15m), and haven't aged well — enough that the county later added a fresh round of concrete rubble in the middle of the site to shore it up. It was one of the earlier additions to the Florida Panhandle Shipwreck Trail.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ These three barges were purposefully sunk in 50ft(15m) of water in 1972. The bar
 - **Maximum Depth**: 15 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

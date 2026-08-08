@@ -8,7 +8,7 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## I-10 Bridge Rubble
@@ -17,7 +17,7 @@ I-10 Bridge Rubble is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-When Hurricane Ivan wrecked the I-10 bridge in 2004, demolition rubble was spread across six sites in an east-west line starting at the border with Alabama. The resulting artificial reefs range in depth from 75ft(23m) to 93ft(28.5m), with rubble rising as high as 30ft(9m) above the seabed.
+Hurricane Ivan's damage to the I-10 bridge in 2004 produced a large volume of demolition debris, which crews spread across six sites running east-west from the Alabama state line. Depths across the group range 75-93 ft (23-28.5m), with rubble piles rising as high as 30 ft (9m) off the bottom.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ When Hurricane Ivan wrecked the I-10 bridge in 2004, demolition rubble was sprea
 - **Maximum Depth**: 28.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

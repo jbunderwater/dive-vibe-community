@@ -2,13 +2,13 @@
 name: Ocean Wind
 lat: 30.18325
 lng: -87.20028
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25.5
 entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Ocean Wind
@@ -17,15 +17,15 @@ Ocean Wind is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-Little is known about Ocean Wind and her history as a utility tugboat. Ironically, she was tasked with towing many of the vessels that were deployed as artificial reefs in the surrounding area. It is therefore fitting that she joined them on the sandy seafloor. As with many of the tugs deployed in the northeastern Gulf of Mexico, Ocean Wind is in excellent shape. She has already been colonized by soft corals, sponges and algae, although some of the white coloration on her wheelhouse and superstructure can still be seen in patches. She sits upright on a sandy bottom at a depth between 82 and 84ft(25 and 25.5m). She has a slight list to port but remains mostly intact with plenty of penetration opportunities. And at just 87ft(26.5m) in length, divers have plenty of bottom time to explore the wreck before returning to the surface. Divers looking to enter the wheelhouse area may need to ask permission first from the resident goliath grouper who is often spotted here. Above the wreck, divers will likely encounter a typical assortment of jacks, snapper and reef fish, including patrolling barracuda. Closer to the wreck structure, whitespotted soapfish, sharpnose puffers and a variety of damselfish species can be seen defending territories or warily watching divers as they swim by.
+Not much is documented about this utility tugboat's working life, though there's a certain irony to her fate: she spent her career towing other vessels out to become artificial reefs, and eventually joined them on the bottom herself. She went down January 12, 2016 and, like most tugs scuttled in this stretch of the Gulf, has held up well — soft corals, sponges, and algae have taken hold, though patches of her original white paint are still visible on the wheelhouse. She rests upright with a slight port list at 82-84 ft (25-25.5m), and at only 87 ft (26.5m) long, divers have ample time to work through her numerous penetration points before surfacing. A resident goliath grouper is often camped in the wheelhouse — approach with a peek before committing to entry. Jacks, snapper, and patrolling barracuda are typical overhead, while whitespotted soapfish, sharpnose puffers, and various damselfish hold territory closer to the structure.
 
 ## Site Information
 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

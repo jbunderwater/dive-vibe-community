@@ -2,7 +2,7 @@
 name: Black Bart
 lat: 30.0608
 lng: -85.82388
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 24
 entryType: boat
 siteType: wreck
@@ -24,8 +24,8 @@ Originally a 180-ft platform supply vessel built in 1977 in Louisiana for Texas-
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

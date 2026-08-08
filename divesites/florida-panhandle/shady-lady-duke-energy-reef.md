@@ -8,7 +8,7 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Shady Lady (Duke Energy Reef)
@@ -17,7 +17,7 @@ Shady Lady (Duke Energy Reef) is a historic wreck dive in Florida Panhandle, Nor
 
 ## Overview
 
-Deployed in March 2007 as an artificial reef, Shady Lady was originally a 110-ft-long (33.5 m) steel-hulled shrimp boat. The wreck now lies on her side at a maximum depth of 95 ft (29 m).
+Before her March 2007 deployment as a reef, Shady Lady worked as a 110-ft (33.5m) steel-hulled shrimp boat. She now rests on her side at a maximum depth of 95 ft (29m).
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Deployed in March 2007 as an artificial reef, Shady Lady was originally a 110-ft
 - **Maximum Depth**: 29 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section. Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [MBARA — Duke Energy Reef (Shady Lady)](https://mbara.org/reefs/duke-energy-reef-shrimpboat-shady-lady/). Last updated 2026-08-07.*

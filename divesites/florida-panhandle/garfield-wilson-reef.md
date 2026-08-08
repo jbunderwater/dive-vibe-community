@@ -8,7 +8,7 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Garfield Wilson Reef
@@ -17,7 +17,7 @@ Garfield Wilson Reef is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-Named after a former President of the Mexico Beach Artificial Reef Association (MBARA) from 1999 through 2001, the Garfield Wilson Reef features 512 tons of concrete culverts donated by the Sikes Concrete Company of Panama City. The reef was deployed in June 2001 at a depth of 51 ft (15.5 m).
+This reef honors a past president (1999-2001) of the Mexico Beach Artificial Reef Association. Sikes Concrete Company of Panama City donated 512 tons of concrete culverts for the project, which went into the water in June 2001 at a depth of 51 ft (15.5m).
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Named after a former President of the Mexico Beach Artificial Reef Association (
 - **Maximum Depth**: 15.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section. Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [MBARA — Garfield Wilson Reef](https://mbara.org/reefs/garfield-wilson-reef/). Last updated 2026-08-07.*

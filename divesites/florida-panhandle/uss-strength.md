@@ -2,7 +2,7 @@
 name: USS Strength
 lat: 30.0323
 lng: -85.7086
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 23
 entryType: boat
 siteType: wreck
@@ -24,8 +24,8 @@ Admirable-class minesweeper (hull classification AM-309), built 1944 in Seattle,
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
 
 ---
-*Sources: [Florida Scuba Diving](https://www.florida-scubadiving.com/uss-strength-panhandle-shipwreck-trail/), [DiveBuddy](http://www.divebuddy.com/divesite/737/uss-strength-panama-city-fl/), Northwest Florida dive guidebook (Bay County dive sites section, detailed edition). Last updated 2026-08-07.*
+*Sources: [Florida Scuba Diving](https://www.florida-scubadiving.com/uss-strength-panhandle-shipwreck-trail/), [DiveBuddy](http://www.divebuddy.com/divesite/737/uss-strength-panama-city-fl/), [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966) (Bay County dive sites section, detailed edition). Last updated 2026-08-07.*

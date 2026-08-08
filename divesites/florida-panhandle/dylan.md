@@ -2,13 +2,13 @@
 name: Dylan
 lat: 30.1269
 lng: -86.39115
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 36.5
 entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Dylan
@@ -24,8 +24,8 @@ A 61-ft steel-hulled sailboat seized by US Customs in 2019 after agents found 40
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 36.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

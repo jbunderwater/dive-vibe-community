@@ -28,4 +28,4 @@ A small towboat (push tugboat); best available records place her as built in Nas
 - **Maximum Depth**: 17.5 meters
 
 ---
-*Sources: [Florida Panhandle Shipwreck Trail](https://floridapanhandledivetrail.com/Ships/MissLouise), [Florida Scuba Diving](https://www.florida-scubadiving.com/miss-louise-wreck-destin-florida/), Northwest Florida dive guidebook (Okaloosa County dive sites section, detailed edition). Last updated 2026-08-07.*
+*Sources: [Florida Panhandle Shipwreck Trail](https://floridapanhandledivetrail.com/Ships/MissLouise), [Florida Scuba Diving](https://www.florida-scubadiving.com/miss-louise-wreck-destin-florida/), [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966) (Okaloosa County dive sites section, detailed edition). Last updated 2026-08-07.*

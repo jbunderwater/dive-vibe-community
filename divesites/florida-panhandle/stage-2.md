@@ -8,7 +8,7 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Stage 2
@@ -17,7 +17,7 @@ Stage 2 is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-This former Naval platform was first installed in 1957 before being demolished using explosives in August 1984. The violent end to its operating career is visible in the twisted jumble of steel pipes and support structures. The site makes excellent fish habitat, but it is a challenging reef to navigate. Depth ranges from 60 to 70 ft (18.5-21.5 m) and is best visited at high tide for better visibility given its proximity to the pass.
+This former Naval platform (the guidebook dates its installation to 1957) came down by explosives in 1984 — the twisted steel pipes and framing still tell that story, though the specific month wasn't independently confirmed. It's excellent fish habitat but a genuinely tricky reef to navigate, with depth running 60-70 ft (18.5-21.5m); visibility is best around high tide given how close the site sits to the pass.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ This former Naval platform was first installed in 1957 before being demolished u
 - **Maximum Depth**: 21.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section. Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [Coleman Concierge — Diving Panama City Beach](https://www.colemanconcierge.com/diving-panama-city-beach/). Last updated 2026-08-07.*

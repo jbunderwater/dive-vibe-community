@@ -8,7 +8,7 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## NRDA Grant Reefs
@@ -17,7 +17,7 @@ NRDA Grant Reefs is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-This series of artificial reefs features over 205 reef modules totaling nearly 980 tons. They were deployed in 2020 as part of the National Resources Damage Assessment (NRDA) Restoration Program and were placed in clusters at 13 permitted locations. The sites quickly became popular with spearfishers and divers because of the marine life they support. They are all found at a depth of around 90 ft (27.5 m). This entry's coordinates represent one sub-site (NRDA-3); the other twelve permitted locations are listed in the site's source data.
+This is a cluster of artificial reefs — more than 205 modules totaling nearly 980 tons — installed across 13 separate permitted spots in 2020 under the National Resources Damage Assessment Restoration Program. Spearfishers and divers alike have taken to the sites, which all sit around 90 ft (27.5m). This entry's coordinates mark one sub-site (NRDA-3); the other twelve locations are recorded in the underlying site data.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ This series of artificial reefs features over 205 reef modules totaling nearly 9
 - **Maximum Depth**: 27.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section. Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

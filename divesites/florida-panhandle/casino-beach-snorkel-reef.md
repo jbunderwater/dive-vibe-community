@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Casino Beach Snorkel Reef
@@ -17,7 +17,7 @@ Casino Beach Snorkel Reef is a reef dive site in Florida Panhandle, North Americ
 
 ## Overview
 
-Escambia County deployed this set of 17 reef modules in June 2020. The site's formal name is the Charles Fennel Gonzalez, IV, Casino Beach Reef in memory of a county employee of 20 years who worked on the project and who died unexpectedly just before its deployment. The reef modules are the standard design for snorkel reefs along this stretch of coast, featuring a central post that supports multiple limestone and concrete discs. The narrow formation of reef modules starts between 600 and 700ft(183 and 213 meters) from shore, depending on the tide and the size of the beach at the time. Divers and snorkelers will likely see damselfish, blennies and juvenile grouper and snapper, while small jacks can be seen flitting about the site. There is even a chance to see an octopus or sea turtle.
+Escambia County put down 17 reef modules here, approved and completed around mid-2020. The site's official name — the Charles Fennell Gonzalez, IV, Casino Beach Reef (sources spell the honoree's first name both "Fennel" and "Fennell") — memorializes the county's GIS Director, who died in January 2020, several months ahead of the reef's completion. The guidebook's claim that he was a 20-year county employee wasn't independently confirmed. Depending on tide and beach width, the module line starts roughly 600-700 ft (183-213m) offshore. Look for damselfish, blennies, and juvenile grouper and snapper, plus small jacks darting around the site and the occasional octopus or sea turtle.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Escambia County deployed this set of 17 reef modules in June 2020. The site's fo
 - **Maximum Depth**: 5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [Florida Dive Pros — Casino Beach Reef](https://www.florida-divepros.com/casinobeachreef/), [Harper-Morris Memorial Chapel obituary](https://www.harpermorrismemorialchapel.com/obituaries/charlie-iv), [DoPensacola.com](https://dopensacola.com/snorkel-reef-at-casino-beach-gets-final-approval-scheduled-to-be-installed-by-august/). Last updated 2026-08-07.*

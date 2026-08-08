@@ -2,13 +2,13 @@
 name: Air Force Tower
 lat: 29.72465
 lng: -85.47523
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Air Force Tower
@@ -17,15 +17,15 @@ Air Force Tower is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-This wreckage is believed to be a section of an Air Combat Maneuvering Instrumentation (ACMI) Tower that fell off a transport barge in rough seas in 1993. The tower now lies on its side at a depth of around 65 ft (20 m). It rises to within 20 ft (6 m) of the surface.
+This tangle of wreckage is thought to be a piece of an Air Combat Maneuvering Instrumentation tower that broke loose from a transport barge during rough weather in 1993. It now lies on its side at roughly 65 ft (20m), with its highest point reaching to within 20 ft (6m) of the surface.
 
 ## Site Information
 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section. Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [MBARA — Air Force Tower](https://mbara.org/reefs/air-force-tower/). Last updated 2026-08-07.*

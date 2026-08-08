@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Seahorse Snorkel Reef
@@ -17,7 +17,7 @@ Seahorse Snorkel Reef is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-Santa Rosa Beach, Walton County. Deployed August 2017, 78 modules arranged in the shape of a seahorse. Shallowest ~13 ft (4m), deepest ~18 ft (5.5m). Damselfish, blennies, triggerfish, grouper, occasional octopus/sea turtle.
+Deployed near Santa Rosa Beach in August 2017, this site shapes 78 modules into a seahorse form. Depth ranges from about 13 ft (4m) to 18 ft (5.5m). Damselfish, blennies, triggerfish, and grouper are common, with occasional octopus or sea turtle sightings.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Santa Rosa Beach, Walton County. Deployed August 2017, 78 modules arranged in th
 - **Maximum Depth**: 5.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Okaloosa & Walton County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

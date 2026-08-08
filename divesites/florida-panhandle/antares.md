@@ -28,4 +28,4 @@ A 387-ft(118m) cargo freighter, built 1968 in Bilbao, Spain (Euskalduna de Const
 - **Maximum Depth**: 39.5 meters
 
 ---
-*Sources: [Niuhi Dive Charters](https://niuhidivecharters.com/antares), Northwest Florida dive guidebook (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*
+*Sources: [Niuhi Dive Charters](https://niuhidivecharters.com/antares), [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966) (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*

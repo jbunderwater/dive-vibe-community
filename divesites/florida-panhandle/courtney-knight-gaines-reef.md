@@ -2,13 +2,13 @@
 name: Courtney Knight Gaines Reef
 lat: 29.74243
 lng: -85.69433
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 31
 entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Courtney Knight Gaines Reef
@@ -17,15 +17,15 @@ Courtney Knight Gaines Reef is a reef dive site in Florida Panhandle, North Amer
 
 ## Overview
 
-A memorial reef sitting over 20 miles (32 km) offshore, featuring 63 tons of limestone and concrete reef modules deployed in April 2018 at a depth of 101 ft (31 m). An additional set of artificial reefs was deployed here in May 2019.
+This memorial reef sits more than 20 miles (32 km) offshore. The county laid 63 tons of limestone and concrete modules here in April 2018, at a depth of 101 ft (31m), then came back in May 2019 to add a second set of structures nearby.
 
 ## Site Information
 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 31 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section. Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

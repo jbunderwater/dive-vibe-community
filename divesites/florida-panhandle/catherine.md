@@ -8,7 +8,7 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Catherine
@@ -17,7 +17,7 @@ Catherine is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-This shallow wreck sits in 15ft(4.5m) of water just over 1,000ft(300m) from the beach opposite Fort Pickens. Catherine was originally a three-masted, wooden sailing ship built in Canada in 1869 with the name Eliza. She was sold to a Norwegian company and renamed Catherine just a few years before she ran aground in a storm just outside of Pensacola Pass in 1894. She is too far out in the Gulf to reach from shore. Parts of her hull are often visible but the shifting sands make it hard to predict what debris will be visible on any given day.
+This shallow wreck rests in just 15 ft (4.5m) of water, a little over 1,000 ft (300m) off the beach opposite Fort Pickens — close to shore as the crow flies, but far enough into the Gulf that reaching her requires a boat. She began life in Canada in 1869 as the wooden, three-masted sailing ship Eliza; a Norwegian buyer later renamed her Catherine, and she ran aground just outside Pensacola Pass in a storm in 1894. Shifting sand means what's visible of her hull changes from one dive to the next.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ This shallow wreck sits in 15ft(4.5m) of water just over 1,000ft(300m) from the 
 - **Maximum Depth**: 4.5 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [DiveSpots.com — Catherine](https://divespots.com/catherine/) (the only independent corroboration found; treat as functionally single-source until a stronger second source is confirmed). Last updated 2026-08-07.*

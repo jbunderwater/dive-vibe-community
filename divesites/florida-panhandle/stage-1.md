@@ -2,13 +2,13 @@
 name: Stage 1
 lat: 30.0128
 lng: -85.90172
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 32
 entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Stage 1
@@ -17,15 +17,15 @@ Stage 1 is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-This deep site was once a Naval platform that was demolished in 1984. It is currently a mass of steel pipes and support structures that hosts a lot of reef creatures thanks to its large size and depth. The site is anchored on the sandy seabed at a depth of 105 ft (32 m).
+Once a Naval platform, its legs collapsed by explosives at the end of its service life (the guidebook dates this to 1984), this deep site is now a jumble of steel piping and support framework that its size and depth have made into productive fish habitat. It sits on sand at 105 ft (32m).
 
 ## Site Information
 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section. Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [Coleman Concierge — Diving Panama City Beach](https://www.colemanconcierge.com/diving-panama-city-beach/). Last updated 2026-08-07.*

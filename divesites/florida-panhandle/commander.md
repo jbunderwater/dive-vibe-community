@@ -2,13 +2,13 @@
 name: Commander
 lat: 30.05392
 lng: -85.94637
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Commander
@@ -17,15 +17,15 @@ Commander is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-Originally a 65-ft-long (20 m) steel-hulled tugboat, this wreck sank by accident, allegedly as a result of fire. It now sits upright on a sandy seafloor at a depth of 95 ft (30 m).
+Once a 65-ft (20m) steel-hulled tugboat, Commander reportedly caught fire and sank in the Intracoastal Waterway; she was later sold as salvage and local captains located the wreck in 1979. She sits upright on sand at 95 ft (30m).
 
 ## Site Information
 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section. Last updated 2026-08-07.*
+*Sources: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966), [Scuba Panama City Beach — Dive The Commander](https://scubapanamacitybeach.net/panama-city-beach-dive-the-commander/). Last updated 2026-08-07.*

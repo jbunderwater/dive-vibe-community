@@ -8,7 +8,7 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Lane Gilchrest Reef
@@ -17,7 +17,7 @@ Lane Gilchrest Reef is a reef dive site in Florida Panhandle, North America.
 
 ## Overview
 
-This artificial reef consists of 8,000 tons of concrete rubble from the Gulf Breeze fishing bridge spread across 60 acres of seafloor. It has a maximum depth of 50ft(15m).
+The Gulf Breeze fishing bridge's old rubble — 8,000 tons of it — was spread across 60 acres of seafloor to build this reef, which tops out at a maximum depth of 50 ft (15m).
 
 ## Site Information
 
@@ -28,4 +28,4 @@ This artificial reef consists of 8,000 tons of concrete rubble from the Gulf Bre
 - **Maximum Depth**: 15 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Escambia & Santa Rosa County dive sites section (detailed edition). Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*

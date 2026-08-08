@@ -2,13 +2,13 @@
 name: Fish America Foundation Reef
 lat: 29.8938
 lng: -85.5439
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: curated_research
 ---
 
 ## Fish America Foundation Reef
@@ -17,15 +17,15 @@ Fish America Foundation Reef is a reef dive site in Florida Panhandle, North Ame
 
 ## Overview
 
-Deployed in February 2003, this reef features 100 reef balls totaling 200 tons. The site has an average depth of around 65 ft (20 m). The deployment was funded by a grant from the Fish America Foundation.
+A Fish America Foundation grant funded this deployment: 100 reef balls, totaling roughly 200 tons, placed here in February 2003 at an average depth of 65 ft (20m).
 
 ## Site Information
 
 - **Location**: Florida Panhandle, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
 ---
-*Source: Northwest Florida dive guidebook, Bay County dive sites section. Last updated 2026-08-07.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*
