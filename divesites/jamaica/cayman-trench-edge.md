@@ -34,7 +34,7 @@ The Cayman Trench Edge is a wall dive on the western Jamaican shelf near Negril,
 
 ## Marine Life
 
-The shallow reef plateau before the wall has grunts, snapper, and schooling blue chromis. As you descend the wall, large azure vase sponges and elephant ear sponges appear, along with black coral at depth. Horse-eye jacks and bar jacks sweep past the wall face. Large green moray eels occupy crevices. Hawksbill turtles are regular visitors along the wall. No site-specific marine life reports were found for this as a named site; the species above are typical for Jamaica deep wall dives. The reference to spinner dolphins in earlier descriptions was removed — no site-specific dolphin report was found.
+No site-specific marine-life source was found for this site — it is not independently documented as a named dive site at all (see note above). Jamaica's regional deep-wall fauna (grunts, snapper, chromis, sponges, black coral, jacks, moray eels, and hawksbill turtles) is typical of western Negril wall diving generally, but no report confirms specific sightings here.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Advanced divers and above only. The wall drops well beyond recreational limits. 
 Wide-angle site — the wall face covered in sponges against the blue backdrop makes for strong images. At depth, black coral formations are compelling macro subjects.
 
 ---
-*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [Britannica - Cayman Trench](https://www.britannica.com/place/Cayman-Trench). No third-party source found listing this as a distinct named dive site. Description based on regional Negril wall diving characteristics. Last updated 2026-06-08.*
+*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [Britannica - Cayman Trench](https://www.britannica.com/place/Cayman-Trench). Re-searched 2026-08-08, no third-party source found listing this as a distinct named dive site. Description based on regional Negril wall diving characteristics. Last updated 2026-08-08.*

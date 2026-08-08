@@ -32,7 +32,7 @@ South East Cay sits at the eastern margin of the Portland Bight Protected Area c
 
 ## Marine Life
 
-The reef community includes parrotfish, French angelfish, blue tangs, and schoolmaster snapper. Hawksbill turtles are regular visitors, grazing on sponges throughout the reef. Nurse sharks rest under deep coral overhangs. Spiny lobsters and spotted moray eels are found in crevices. Southern stingrays rest on sandy patches. The mangrove fringe adjacent to the cay provides nursery habitat for juvenile fish that can be observed in the shallows.
+No site-specific marine-life source was found for South East Cay. Jamaica's regional south-coast reef fauna (parrotfish, angelfish, blue tangs, snapper, hawksbill turtles, nurse sharks, spiny lobsters, moray eels, and southern stingrays) is typical of Portland Bight cay reefs, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ Turtle encounters and nurse shark portraits are the signature shots at south-coa
 - **Last Updated**: 2026-03-28
 
 ---
-*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for South East Cay. Not validated. Last updated 2026-06-08.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for South East Cay. Not validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

@@ -32,7 +32,7 @@ Careening Island takes its name from the historical practice of careening — be
 
 ## Marine Life
 
-The island fringe and surrounding reef supports a healthy population of reef fish. Parrotfish graze coral heads throughout the site. French grunts and schoolmaster snapper congregate under the overhangs. Nurse sharks are commonly found resting at the base of the reef. Hawksbill turtles are seen in the area. Spotted moray eels and spiny lobsters occupy crevices. On the sand, southern stingrays and goatfish forage between coral ridges.
+No site-specific marine-life source was found for Careening Island. Jamaica's regional south-coast reef fauna (parrotfish, grunts, snapper, nurse sharks, hawksbill turtles, moray eels, spiny lobsters, and southern stingrays) is typical of Portland Bight fringing reefs, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The island fringe environment provides interesting compositions — wide-angle s
 - **Last Updated**: 2026-03-28
 
 ---
-*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Careening Island. Not validated. Last updated 2026-06-08.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Careening Island. Not validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

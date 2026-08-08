@@ -57,4 +57,4 @@ Advanced divers only. The wall extends well below recreational limits — strict
 Wide-angle is the lens of choice. The combination of large sea fans, vivid sponges, and the deep blue backdrop produces strong images. Shooting upward along the wall toward a diver with surface light creates dramatic silhouettes.
 
 ---
-*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica). Last updated 2026-06-08.*
+*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica). Re-audited 2026-08-08, no factual changes. Last updated 2026-08-08.*

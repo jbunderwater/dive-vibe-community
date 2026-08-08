@@ -32,7 +32,7 @@ Rackhmans Cay (likely named in reference to the infamous pirate John "Calico Jac
 
 ## Marine Life
 
-The reef supports schoolmaster snapper, French grunts, parrotfish, and blue tangs. Hawksbill turtles are present in the area. Nurse sharks rest at the base of the reef. Large spiny lobsters and spotted moray eels occupy crevices. Southern stingrays are found on sandy patches around the cay. The mangrove and seagrass areas adjacent to the cay provide additional habitat for juvenile fish and the occasional green turtle.
+No site-specific marine-life source was found for Rackhmans Cay. Jamaica's regional south-coast reef fauna (parrotfish, grunts, blue tangs, hawksbill and green turtles, nurse sharks, spiny lobsters, and moray eels) is typical of Portland Bight cay reefs, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ Lobster portraits in torch-lit crevices and turtle encounters in the clear water
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/). Only 1 source found confirming this cay is diveable. Not fully validated. Last updated 2026-06-08.*
+*Sources: [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/). Only 1 source found confirming this cay is diveable. Not fully validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

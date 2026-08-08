@@ -32,7 +32,7 @@ Fish Pond Edge is the outer margin of the Fish Pond reef complex within the Mont
 
 ## Marine Life
 
-Large azure vase sponges and barrel sponges characterize the outer reef edge at 15–18 metres. Hawksbill turtles are frequent at this site, feeding on sponges along the reef edge. Horse-eye jacks and creole wrasse school in the mid-water column above the reef. Barracuda are common overhead. Spotted eagle rays glide past along the reef edge. French angelfish and rock beauties are abundant. At depth, large black grouper and tiger grouper hold position near sponge formations. Spotted moray eels and green moray eels occupy the crevices.
+The two general Montego Bay Marine Park sources found (divezone.net, padi.com) do not distinguish "Fish Pond Edge" from Fish Pond specifically, so no marine-life claims can be confidently attributed to this site as distinct from its neighbor. Jamaica's regional Montego Bay Marine Park fauna (sponges, hawksbill turtles, jacks, wrasse, barracuda, eagle rays, angelfish, grouper, and moray eels) is typical of this reef edge terrain, but no report confirms species sightings specifically at this site as opposed to Fish Pond generally.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The large sponge formations — barrel sponges, azure vase sponges, rope sponges
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/). Only 2 sources found for this site as distinct from Fish Pond — not fully validated. Last updated 2026-06-08.*
+*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/). Only 2 sources found for this site as distinct from Fish Pond — not fully validated. Marine life section revised 2026-08-08 to remove species claims not distinctly attributable to this site per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

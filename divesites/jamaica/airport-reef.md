@@ -17,7 +17,7 @@ A sheltered Montego Bay reef within the Marine Park, home to abundant coral form
 
 ## Overview
 
-Airport Reef sits within the boundaries of the Montego Bay Marine Park, Jamaica's first declared Marine Protected Area established in 1991. The park's no-anchor and no-fishing rules have allowed the reef to recover and thrive. The site features spur-and-groove coral formations rising from sandy channels and includes a small single-engine plane wreck resting at around 18 metres on the sandy bottom — a popular secondary target for divers. The reef plateau itself tops out at 3–5 metres, making the site suitable for beginners and second dives. Visibility is typically 20–30 metres, and the protected inshore location keeps currents minimal. Water temperatures stay between 27–29°C year-round.
+Airport Reef sits within the boundaries of the Montego Bay Marine Park, Jamaica's first declared Marine Protected Area, legally designated in 1992 by the Natural Resources (Montego Bay Marine Park) Order. The park's no-anchor and no-fishing rules have allowed the reef to recover and thrive. The site features spur-and-groove coral formations rising from sandy channels and includes a small single-engine plane wreck resting at around 18 metres on the sandy bottom — a popular secondary target for divers. The reef plateau itself tops out at 3–5 metres, making the site suitable for beginners and second dives. Visibility is typically 20–30 metres, and the protected inshore location keeps currents minimal. Water temperatures stay between 27–29°C year-round.
 
 ## Site Information
 
@@ -63,4 +63,4 @@ Wide-angle shots of the spur-and-groove reef structures work well in the clear w
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica). Last updated 2026-06-08.*
+*Sources: [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [NEPA - Natural Resources (Montego Bay Marine Park) Order 1992](https://www.nepa.gov.jm/node/223). Last updated 2026-08-08.*

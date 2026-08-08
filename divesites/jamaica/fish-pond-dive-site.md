@@ -63,4 +63,4 @@ Fish Pond offers spectacular wide-angle photography of the fish-packed overhangs
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/). Last updated 2026-06-08.*
+*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/). Re-audited 2026-08-08: eagle ray and cavern/overhang character reconfirmed, no factual changes. Last updated 2026-08-08.*

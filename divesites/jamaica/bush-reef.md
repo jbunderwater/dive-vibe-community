@@ -32,7 +32,7 @@ Bush Reef is located on Jamaica's southern coast in the area south of Kingston, 
 
 ## Marine Life
 
-The reef supports French grunts, schoolmaster snapper, parrotfish, and blue tangs. Nurse sharks are occasionally present under coral overhangs. Hawksbill turtles are seen in the area. Spiny lobsters and spotted moray eels occupy the crevices. Southern stingrays are found on the sandy channels between reef structures. Goatfish forage through the sand with their barbels. Sergeant majors defend algae patches in the shallower sections.
+No site-specific marine-life source was found for Bush Reef. Jamaica's regional south-coast reef fauna (parrotfish, grunts, snapper, blue tangs, hawksbill turtles, nurse sharks, spiny lobsters, moray eels, and southern stingrays) is typical of this stretch of coast, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Remote location with limited dive infrastructure. Carry appropriate safety equip
 The undisturbed reef provides clean photographic subjects without other divers in the frame. Nurse shark and lobster portraits work well in the reef crevices. Wide-angle shots of the coral ridges capture the classic Jamaican reef structure.
 
 ---
-*Description based on regional Jamaica reef diving characteristics. OSM entry with Wikidata Q27120334 confirms geographic existence. No site-specific dive sources found. Not validated. Last updated 2026-06-08.*
+*Description based on regional Jamaica reef diving characteristics. OSM entry with Wikidata Q27120334 confirms geographic existence. No site-specific dive sources found. Not validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

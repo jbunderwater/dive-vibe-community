@@ -32,7 +32,7 @@ Dead Man's Bones is located on Jamaica's eastern coast near the community of Bow
 
 ## Marine Life
 
-The outer reef slope at 15–20 metres has larger sponges and sea fans, with black grouper and tiger grouper taking up territorial positions. Horse-eye jacks pass through in loose schools. Hawksbill turtles are seen at mid-depth on the reef. Moray eels and nurse sharks are found along the entire reef profile. The shallower sections have the typical mix of parrotfish, blue tangs, and grunts. Barracuda are common in the mid-water column above the reef.
+No site-specific marine-life source was found for Dead Man's Bones. Jamaica's regional southeastern reef fauna (grouper, jacks, hawksbill turtles, moray eels, nurse sharks, parrotfish, blue tangs, grunts, and barracuda) is typical of deeper east-coast reef slopes, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Intermediate divers and above. The outer slope begins to drop more steeply below
 The outer reef slope and sponge formations at depth are compelling wide-angle subjects. Grouper portraits at the reef base work well. The lack of other divers at this rarely-visited site means unobstructed compositions.
 
 ---
-*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Dead Man's Bones. OSM node with Wikidata entry Q27119118 confirms geographic existence. Not validated. Last updated 2026-06-08.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Dead Man's Bones. OSM node with Wikidata entry Q27119118 confirms geographic existence. Not validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*
