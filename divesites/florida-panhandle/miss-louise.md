@@ -1,9 +1,9 @@
 ---
 name: Miss Louise
-lat: 30.37137
+lat: 30.37142
 lng: -86.42192
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 17.5
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Miss Louise is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-A 95-foot push tugboat intentionally sunk in 1997 about a mile off Crystal Beach Pier, Destin, widely considered the signature recreational wreck in Destin. It sits upright on sand in roughly 18 m (60 ft) of water, with a resident goliath grouper reported by multiple sources.
+A small towboat (push tugboat); best available records place her as built in Nashville, TN in 1957 by the Nashville Bridge Co., originally named Lola H for the Tennessee Towing Co. (records for vessels like this are hard to confirm; a few other towboats of similar size and description were built as far back as 1957 and as recently as 1971). Deployed as an artificial reef March 19, 1997, one of the original members of the Florida Panhandle Shipwreck Trail. Sits upright on a sandy seafloor at 57 ft (17.5m); her superstructure was partly removed before deployment, leaving the main deck and sturdy upright bow bumpers (rising 8 ft/2.5m from the top of the bow). Little penetration opportunity, but supports a wide range of fish and reef creatures. Atlantic spadefish commonly school above the wreck; cocoa damselfish stay close to the hull; scamp and gag grouper hide in the nooks and crannies; batfish often rest on the sand nearby; lucky divers have reported goliath grouper and sea turtles.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ A 95-foot push tugboat intentionally sunk in 1997 about a mile off Crystal Beach
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 17.5 meters
 
 ---
-*Sources: [Florida Panhandle Shipwreck Trail](https://floridapanhandledivetrail.com/Ships/MissLouise), [Florida Scuba Diving](https://www.florida-scubadiving.com/miss-louise-wreck-destin-florida/). Last updated 2026-07-21.*
+*Sources: [Florida Panhandle Shipwreck Trail](https://floridapanhandledivetrail.com/Ships/MissLouise), [Florida Scuba Diving](https://www.florida-scubadiving.com/miss-louise-wreck-destin-florida/), [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966) (Okaloosa County dive sites section, detailed edition). Last updated 2026-08-07.*

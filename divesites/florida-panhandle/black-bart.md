@@ -3,7 +3,7 @@ name: Black Bart
 lat: 30.0608
 lng: -85.82388
 difficulty: Intermediate
-maxDepth: 26
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Black Bart is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-A 180-foot former oilfield supply ship, originally christened Vulcano del Golfo in 1977, sunk in 1993 in memory of Navy Supervisor of Salvage Capt. Charles "Black Bart" Bartholomew. Divers can swim through the wheelhouse at around 12 m (40 ft) and explore open cargo holds; depths are reported somewhat inconsistently between about 24-26 m (79-85 ft).
+Originally a 180-ft platform supply vessel built in 1977 in Louisiana for Texas-based Gulf Fleet Marine, given the name Gulf Fleet No. 28. In 1991 she was renamed Vulcano del Golfo, then later Mary J, along the way switching careers to become a fishing vessel. Eventually acquired by Bay County and deployed as an artificial reef in July 1993, she was named Black Bart in memory of Captain Charles "Bart" Bartholomew, director of ocean engineering for the US Navy and supervisor of its salvage and diving operations, who led high-profile salvage operations including the Space Shuttle Challenger and the Exxon Valdez before dying in November 1990 during a deep recertification dive near Panama City. The wreck sits upright on a sandy seafloor with plenty of levels to explore: her main deck sits at 70 ft (21m) while her bow reaches up to 61 ft (18.5m). Hurricane Michael in 2018 tore the roof off her wheelhouse and deposited it near her starboard bow, removing one of many former swim-through and penetration opportunities, though her large open cargo holds and forward compartments remain accessible to divers with appropriate experience. Divers are likely to see blue runners, greater amberjacks, and Atlantic spadefish schooling above the wreck, plus grey triggerfish, blue and Queen angelfish, whitespotted soapfish, cocoa damselfish, spotfin butterflyfish, and large barracuda hovering in the current; schools of grunts, particularly tomtates, shelter in the holds and compartments.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ A 180-foot former oilfield supply ship, originally christened Vulcano del Golfo 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters
+- **Maximum Depth**: 24 meters
 
 ---
-*Sources: [Florida Panhandle Shipwreck Trail](https://floridapanhandledivetrail.com/Ships/BlackBart), [Monterey Boats](https://www.montereyboats.com/news/view/diving-at-the-black-bart/). Last updated 2026-07-21.*
+*Source: [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966). Last updated 2026-08-07.*
