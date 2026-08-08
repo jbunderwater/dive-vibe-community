@@ -17,7 +17,7 @@ Joe Patti Memorial Reef is a historic wreck dive in Florida Panhandle, North Ame
 
 ## Overview
 
-A 175-foot barge (40-ft beam, 10-ft draft) sunk in July 2013 about 3 nautical miles east of Pensacola Pass, named for the founder of the Joe Patti Seafood Company. One local operator describes it as "probably the second most popular dive site in Pensacola." The upper structure sits around 11 m (35 ft), with the wreck resting near 15 m (50 ft).
+A 175-foot barge (40-ft beam, 10-ft draft) sunk in July 2013 about 3 nautical miles east of Pensacola Pass, named for the founder of the Joe Patti Seafood Company. One local operator describes it as "probably the second most popular dive site in Pensacola." She was decked out with 120 pieces of metal artwork before being deployed as a memorial reef to honor the Patti family. The upper structure sits around 11 m (35 ft), with the wreck resting near 15 m (50 ft).
 
 ## Site Information
 
@@ -28,4 +28,4 @@ A 175-foot barge (40-ft beam, 10-ft draft) sunk in July 2013 about 3 nautical mi
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Niuhi Dive Charters](https://niuhidivecharters.com/joe-patti-barge). Last updated 2026-07-21.*
+*Sources: [Niuhi Dive Charters](https://niuhidivecharters.com/joe-patti-barge), Northwest Florida dive guidebook (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*

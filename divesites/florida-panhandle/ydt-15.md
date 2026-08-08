@@ -1,9 +1,9 @@
 ---
 name: YDT-15
-lat: 30.08778
-lng: -87.15917
+lat: 30.08848
+lng: -87.16037
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 27.5
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ YDT-15 is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-Sister ship to YDT-14, resting about 500 feet away; both vessels were sunk in April 2000. Originally designated YF-336 and named Suitland, the ship was built in 1942. Depth ranges from about 23-30 m (75-100 ft).
+Sister ship to YDT-14, resting over 500 feet (150m) to the southeast; both vessels were sunk in April 2000 and rarely explored on the same dive. Originally designated YF-336 and named Suitland, the ship was built in 1942. Sits at a depth of almost 90 ft (27.5m).
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Sister ship to YDT-14, resting about 500 feet away; both vessels were sunk in Ap
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 27.5 meters
 
 ---
-*Sources: [Niuhi Dive Charters](https://niuhidivecharters.com/ydt-15), [DiveSSI](https://www.divessi.com/en/mydiveguide/divesite/68386). Last updated 2026-07-21.*
+*Sources: [Niuhi Dive Charters](https://niuhidivecharters.com/ydt-15), [DiveSSI](https://www.divessi.com/en/mydiveguide/divesite/68386), Northwest Florida dive guidebook (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*

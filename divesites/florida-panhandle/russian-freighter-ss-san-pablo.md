@@ -3,7 +3,7 @@ name: Russian Freighter (S.S. San Pablo)
 lat: 30.18888
 lng: -87.21762
 difficulty: Advanced
-maxDepth: 26
+maxDepth: 25.5
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Russian Freighter (S.S. San Pablo) is a historic wreck dive in Florida Panhandle
 
 ## Overview
 
-Locally nicknamed the "Russian Freighter," this wreck is documented as the Panamanian steam merchant S.S. San Pablo. Its history is genuinely contested across sources — one account ties it to a vessel torpedoed off Costa Rica in 1942, while another attributes an August 1944 explosion off Pensacola to a classified U.S. weapons test involving an explosive-laden radio-controlled boat. Depth is also reported inconsistently, ranging 23-30 m (75-100 ft) across sources. The vessel's origin and fate should be treated as unresolved rather than settled fact.
+Despite the local nickname "Russian Freighter," a second published source now confirms she was NOT Russian: a Panamanian-flagged transport ship, documented as the Panamanian steam merchant S.S. San Pablo, originally torpedoed by a German U-boat off Costa Rica in 1942. She was refloated and towed to Panama City in 1943. This resolves earlier uncertainty from a source that suggested a classified US weapons-test origin instead — the Costa Rica torpedo/refloat account is now corroborated by two independent sources. What is left of the 315-ft(96m) cargo ship now sits at a depth of 84ft(25.5m) just off the coast of Pensacola.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Locally nicknamed the "Russian Freighter," this wreck is documented as the Panam
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 26 meters
+- **Maximum Depth**: 25.5 meters
 
 ---
-*Sources: [Niuhi Dive Charters](https://niuhidivecharters.com/russian-freighter-aka-s-s-san-pablo), [Atlas Obscura](https://www.atlasobscura.com/places/san-pablo-shipwreck). Last updated 2026-07-21.*
+*Sources: [Niuhi Dive Charters](https://niuhidivecharters.com/russian-freighter-aka-s-s-san-pablo), [Atlas Obscura](https://www.atlasobscura.com/places/san-pablo-shipwreck), Northwest Florida dive guidebook (Escambia County dive sites, detailed edition). Last updated 2026-08-07.*
