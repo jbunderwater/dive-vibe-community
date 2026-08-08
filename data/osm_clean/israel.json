@@ -435,7 +435,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "haipo.co.il,justgottadive.com,jfc.org.il",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-08"
     }
   },
   {
@@ -451,8 +451,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "indigo-club.co.il,diver.co.il,scubadiving.guide",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "he.wikipedia.org,indigo-club.co.il,diver.co.il",
+      "last_qa_date": "2026-08-08",
+      "qa_note": "Corrected 2026-08-08: prior validation_source (scubadiving.guide only partially relevant) replaced/supplemented with verified sources. Confirmed via dedicated he.wikipedia.org article 'הדוברה הגדולה': officially named Trinacria Primo, Italian-built, ~105-108m long x 25m wide, used building the Orot Rabin (Hadera) coal pier, damaged in a storm night of 10 Dec 1980, deliberately scuttled ~1981 near Dado Beach, Haifa. Depth reported 32-36m across sources (kept 36m, noted range)."
     }
   },
   {
@@ -519,8 +520,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "putsker.co.il,indigo-club.co.il,justgottadive.com,ynetnews.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "putsker.co.il,indigo-club.co.il,diving.org.il,justgottadive.com,ynetnews.com",
+      "last_qa_date": "2026-08-08",
+      "qa_note": "Re-audited 2026-08-08: corroborated via putsker.co.il, diving.org.il and diver.co.il (Shavei Zion, ~3km/1.2km offshore variants, depth 26m, 64m Sa'ar-4 class vessel). Sinking year conflicts across sources (1997/1998/1999) - left unspecified in markdown per anti-hallucination policy."
     }
   },
   {
@@ -656,7 +658,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "xray-mag.com,warhistoryonline.com,wikipedia.org,ynetnews.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-08"
     }
   },
   {
@@ -689,8 +691,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "ynetnews.com,justgottadive.com,scubadiving.guide",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "ynetnews.com,justgottadive.com,scubadiving.guide,putsker.co.il",
+      "last_qa_date": "2026-08-08",
+      "qa_note": "Re-audited 2026-08-08: 900m-offshore-from-Nahariya figure independently corroborated by putsker.co.il dive site listing."
     }
   },
   {
@@ -723,8 +726,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "mishmarhayam.com,putsker.co.il,scubadiving.guide",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "putsker.co.il,mishmarhayam.com,scubadiving.guide",
+      "last_qa_date": "2026-08-08",
+      "qa_note": "Corrected 2026-08-08: markdown previously said 'no site-specific sources found' despite validated=true - internal contradiction. Now backed by direct putsker.co.il content (depth ~8m, shore entry, daylight-only access, specific species) and mishmarhayam.com confirmation as a shore-accessible site."
     }
   },
   {
@@ -910,8 +914,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "haipo.co.il,scubadiving.guide,alexinwanderland.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "haipo.co.il,baliletayel.co.il,iftachkozik.wordpress.com",
+      "last_qa_date": "2026-08-08",
+      "qa_note": "Corrected 2026-08-08: prior validation_source cited alexinwanderland.com, which does not mention this site (confirmed by direct fetch) - fabricated citation removed. Real identity found: fishing boat 'Netz', originally 'Elisheva', built Israel Shipyards Haifa 1960s, ran aground in a storm 17 March 1970 while towing motorboats from Ashdod to Haifa, wrecked at Bonim Beach (not Caesarea as previously written)."
     }
   },
   {
@@ -1113,9 +1118,10 @@
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "divessi.com,scubadiving.guide,alexinwanderland.com",
-      "last_qa_date": "2026-06-08"
+      "validated": "false",
+      "validation_source": "divessi.com",
+      "last_qa_date": "2026-08-08",
+      "qa_note": "Corrected 2026-08-08: prior validation_source cited alexinwanderland.com and scubadiving.guide, but alexinwanderland.com does not mention Palmachim or any barge wreck there (confirmed by direct fetch). Reverted validated to false - only 1 confirmed independent source (divessi.com) found, below the 3-source bar. Do not re-mark validated without 2 more independent confirmations."
     }
   },
   {
@@ -1199,8 +1205,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "putsker.co.il,scubadiving.guide,alexinwanderland.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "putsker.co.il,diving.org.il,mishmarhayam.com",
+      "last_qa_date": "2026-08-08",
+      "qa_note": "Corrected 2026-08-08: prior validation_source cited alexinwanderland.com, which does not mention this site (confirmed by direct fetch) - fabricated citation removed and replaced. Markdown previously said 'no site-specific sources found' despite validated=true. Now backed by putsker.co.il ('ancient Lebanese merchant ship wreckage on shallow Akhziv reefs'), diving.org.il ('older vessel on reef for decades, attracts large lobster and octopus'), and mishmarhayam.com (listed among Rosh Hanikra-Akhziv boat-accessible sites)."
     }
   },
   {
@@ -1216,8 +1223,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "putsker.co.il,justgottadive.com,ynetnews.com,scubadiving.guide",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "putsker.co.il,justgottadive.com,ynetnews.com,scubadiving.guide,diving.org.il",
+      "last_qa_date": "2026-08-08",
+      "qa_note": "Re-audited 2026-08-08 alongside Wreck Kidon (English-name twin entry) - see that entry's qa_note."
     }
   },
   {
@@ -1233,8 +1241,9 @@
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "justgottadive.com,scubadiving.guide,divessi.com",
-      "last_qa_date": "2026-06-08"
+      "validation_source": "justgottadive.com,scubadiving.guide,divessi.com,diving.org.il,diver.co.il",
+      "last_qa_date": "2026-08-08",
+      "qa_note": "Re-audited 2026-08-08: exact sinking date (13 March 1996) independently confirmed via diver.co.il and diving.org.il, consistent with existing markdown. Depth (bow ~27m, propeller ~30m) and Shavei Zion/Akhziv-Islands location corroborated."
     }
   },
   {
@@ -1353,7 +1362,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "en.wikipedia.org,academia.edu,jewishvirtuallibrary.org",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-08"
     }
   },
   {
@@ -1557,7 +1566,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "uboat.net,en.wikipedia.org,hmstetcott.co.uk",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-08"
     }
   },
   {
@@ -1642,7 +1651,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "en.wikipedia.org,timesofisrael.com,ynetnews.com",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-08"
     }
   },
   {
@@ -1676,7 +1685,7 @@
       "contribution_ref": "github_issue_52",
       "validated": "true",
       "validation_source": "en.wikipedia.org,jewishvirtuallibrary.org,machal.org.il",
-      "last_qa_date": "2026-06-08",
+      "last_qa_date": "2026-08-08",
       "qa_note": "Historical sinking confirmed by 3 independent sources but no dive-specific source found. Depth unconfirmed. Marked validated=true for historical data only."
     }
   },

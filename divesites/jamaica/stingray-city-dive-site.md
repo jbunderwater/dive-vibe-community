@@ -63,4 +63,4 @@ Stingray City is a macro and wide-angle photographer's dream. The clear shallow 
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [The Scuba Directory - Stingray City Montego Bay](https://thescubadirectory.com/divesiteprofile/Sting-Ray-City-Montego-Bay-Jamaica-Dive-Site), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/). Last updated 2026-06-08.*
+*Sources: [The Scuba Directory - Stingray City Montego Bay](https://thescubadirectory.com/divesiteprofile/Sting-Ray-City-Montego-Bay-Jamaica-Dive-Site), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/). Re-audited 2026-08-08, no factual changes. Last updated 2026-08-08.*

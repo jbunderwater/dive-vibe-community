@@ -30,7 +30,7 @@ Jamaica offers diverse dive sites ranging from 9 to 40 meters depth, concentrate
 
 - **Water Conditions**: Water temperature averaging 27°C (80°F) year-round, visibility typically 20-30 meters, calm conditions in Montego Bay and Negril's protected bays
 - **Marine Biodiversity**: Tropical reef fish, nurse sharks, barracudas, moray eels, lobsters, southern stingrays, sea turtles, parrotfish, angelfish, and vibrant sponge communities. The Throne Room is known for large elephant-ear sponges and schooling fish.
-- **Conservation**: Montego Bay Marine Park established in 1990 protects the bay's reef system with regulated diving and mooring buoys. Negril Marine Park covers the west coast reef areas. Jamaica's reefs are part of the wider Mesoamerican Barrier Reef system monitoring efforts.
+- **Conservation**: Montego Bay Marine Park, legally designated in 1992 (Natural Resources (Montego Bay Marine Park) Order), protects the bay's reef system with regulated diving and mooring buoys. Negril Marine Park covers the west coast reef areas. Jamaica's reefs are part of the wider Mesoamerican Barrier Reef system monitoring efforts.
 
 ## Additional Information
 
@@ -40,4 +40,4 @@ Jamaica offers diverse dive sites ranging from 9 to 40 meters depth, concentrate
 - **Safety**: Recompression chamber available in Kingston at the University Hospital of the West Indies. North coast conditions are generally mild. Cavern sites like the Throne Room are suitable for Open Water divers with guide supervision, but overhead environment awareness is required.
 
 ---
-*Sources: [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [PADI - Jamaica](https://www.padi.com/diving-in/jamaica/), [Jamaica SCUBA Divers](https://www.scuba-jamaica.com/). Last updated 2026-04-05.*
+*Sources: [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [PADI - Jamaica](https://www.padi.com/diving-in/jamaica/), [Jamaica SCUBA Divers](https://www.scuba-jamaica.com/), [NEPA - Natural Resources (Montego Bay Marine Park) Order 1992](https://www.nepa.gov.jm/node/223). Last updated 2026-08-08.*

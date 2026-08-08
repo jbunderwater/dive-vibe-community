@@ -17,7 +17,7 @@ A dense mosaic of brain coral, sea fans, and barrel sponges within the Montego B
 
 ## Overview
 
-The Coral Gardens is a popular dive and snorkel site within the boundaries of the Montego Bay Marine Park. The site lives up to its name — the seafloor here is a dense mosaic of massive brain corals, star corals, towering barrel sponges, and sweeping sea fans. The Park's protection since 1991 has allowed the coral cover to remain strong, and the site is consistently reported as one of the most visually impressive shallow dives in the Montego Bay area. Water depth on the reef plateau ranges from 3 to 12 metres, and the gentle current and calm inshore conditions make it suitable for beginner divers and snorkelers. Visibility is typically 20–25 metres, and water temperatures stay in the 27–29°C range year-round.
+The Coral Gardens is a popular dive and snorkel site within the boundaries of the Montego Bay Marine Park. The site lives up to its name — the seafloor here is a dense mosaic of massive brain corals, star corals, towering barrel sponges, and sweeping sea fans. The Park's protection since its 1992 designation has allowed the coral cover to remain strong, and the site is consistently reported as one of the most visually impressive shallow dives in the Montego Bay area. Water depth on the reef plateau ranges from 3 to 12 metres, and the gentle current and calm inshore conditions make it suitable for beginner divers and snorkelers. Visibility is typically 20–25 metres, and water temperatures stay in the 27–29°C range year-round.
 
 ## Site Information
 
@@ -63,4 +63,4 @@ The Coral Gardens is one of the best close-focus wide-angle sites in Montego Bay
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/). Last updated 2026-06-08.*
+*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/), [NEPA - Natural Resources (Montego Bay Marine Park) Order 1992](https://www.nepa.gov.jm/node/223). Last updated 2026-08-08.*

@@ -32,7 +32,7 @@ Bare Bush Cay is one of several small cay-fringing reefs in Jamaica's Portland B
 
 ## Marine Life
 
-The cay reef supports typical Caribbean fish communities including schoolmaster snapper, bar jacks, parrotfish, and small reef sharks. Nurse sharks are commonly seen resting on sandy patches beneath the reef structure. Hawksbill turtles nest on the cay beaches and are regularly sighted in the surrounding reef. Lobsters, moray eels, and queen conch inhabit the shallower reef sections. The mangrove fringe of the cay provides nursery habitat for juvenile fish and is worth snorkeling if conditions allow.
+No site-specific marine-life source was found for Bare Bush Cay. Jamaica's regional south-coast reef fauna (snapper, jacks, parrotfish, nurse sharks, hawksbill turtles, lobsters, moray eels, and queen conch) is typical of Portland Bight mangrove-fringed cay reefs, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record. The claim of turtle nesting on the cay beaches specifically is unverified and has been removed.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The undisturbed reef and frequent turtle and shark sightings make this a good ph
 - **Last Updated**: 2026-03-28
 
 ---
-*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Bare Bush Cay. Not validated. Last updated 2026-06-08.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Bare Bush Cay. Not validated. Marine life section revised 2026-08-08 to remove unsourced species claims (including an unverified turtle-nesting claim) per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

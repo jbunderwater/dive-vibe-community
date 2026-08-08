@@ -32,7 +32,7 @@ Maiden Cay is part of the Portland Bight Protected Area cluster of cay-fringed r
 
 ## Marine Life
 
-Hawksbill turtles are a consistent highlight at Maiden Cay, feeding on sponge formations across the reef. French grunts, snapper, and parrotfish are abundant. Nurse sharks rest at the base of the reef. Spiny lobsters occupy the deeper crevices. Southern stingrays rest on sandy channels around the cay base. Green turtles are occasionally seen on the seagrass areas adjacent to the cay. Spotted moray eels and small reef sharks are occasional sightings.
+No site-specific marine-life source was found for Maiden Cay. Jamaica's regional south-coast reef fauna (parrotfish, grunts, snapper, hawksbill and green turtles, nurse sharks, spiny lobsters, moray eels, and southern stingrays) is typical of Portland Bight cay reefs, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ Turtle portraits in the clear water of this protected area are exceptional. The 
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/). Only 1 source found specifically referencing Maiden Cay NW as a dive site. Not fully validated. Last updated 2026-06-08.*
+*Sources: [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/), [Active Caribbean Travel - Jamaica Diving from Kingston](https://activecaribbeantravel.com/jamaica-diving/jamaica-diving-from-kingston/). 2 of 3 required sources found referencing Maiden Cay ("Maiden Cay NW") as a dive site; not fully validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

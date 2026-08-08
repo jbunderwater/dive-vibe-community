@@ -32,7 +32,7 @@ Port Royal Reef sits near the southeastern tip of Jamaica, in the historically i
 
 ## Marine Life
 
-The reef supports a Caribbean reef fish community including parrotfish, blue tangs, French grunts, and snapper. Southern stingrays are found on the sandy sections. Spiny lobsters inhabit coral crevices. Hawksbill turtles are seen occasionally. The area near Port Royal cays also has some wreck diving — the ScubaBoard-documented Cayman Trader sits at approximately 40 feet in the area, overgrown with coral. No site-specific marine life reports were found for Port Royal Reef beyond these regional observations.
+No site-specific marine-life source was found for Port Royal Reef itself. Jamaica's regional Kingston/Port Royal reef fauna (parrotfish, blue tangs, grunts, snapper, southern stingrays, spiny lobsters, and hawksbill turtles) is typical of this area, but no report confirms specific sightings at this reef. Separately, ScubaBoard documents a coral-overgrown wreck called the Cayman Trader at approximately 40 feet near the Port Royal cays — that is a distinct, named wreck report and not a marine-life claim for this reef.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Harbor current can be stronger and more variable than at Jamaica's north coast r
 Wide-angle shots of the reef landscape provide standard Caribbean documentation. The limited fish density compared to north-coast sites means patience is needed for animal behavior shots.
 
 ---
-*Sources: [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/), [Atlas Obscura - Sunken Pirate City](https://www.atlasobscura.com/places/sunken-pirate-stronghold-at-port-royal), [Wikipedia - 1692 Jamaica Earthquake](https://en.wikipedia.org/wiki/1692_Jamaica_earthquake). Only 2 dive-specific sources found for Port Royal Reef as a dive site; not fully validated. Last updated 2026-06-08.*
+*Sources: [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/), [Atlas Obscura - Sunken Pirate City](https://www.atlasobscura.com/places/sunken-pirate-stronghold-at-port-royal), [Wikipedia - 1692 Jamaica Earthquake](https://en.wikipedia.org/wiki/1692_Jamaica_earthquake). Re-searched 2026-08-08: found additional general context on Port Royal-area diving (moonjamaica.com, activecaribbeantravel.com — Texas Wreck, Edena, Black Tip near Lime Cay) but no source names "Port Royal Reef" as a distinct site, so still only 2 dive-specific sources; not fully validated. Last updated 2026-08-08.*

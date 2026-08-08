@@ -63,4 +63,4 @@ Pelican Reef's mix of hard coral formations, sea fans, and fish provides diverse
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica). Last updated 2026-06-08.*
+*Sources: [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica). Re-audited 2026-08-08, no factual changes. Last updated 2026-08-08.*

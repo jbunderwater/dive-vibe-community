@@ -32,7 +32,7 @@ Gun Cay is one of the larger cays in the Portland Bight area of Jamaica's southe
 
 ## Marine Life
 
-The reef community includes parrotfish, French angelfish, blue tangs, and schools of grunts and snapper. Hawksbill turtles are a reliable sighting at this and nearby cay sites. Nurse sharks rest at the base of the reef. Large spiny lobsters are found in the deeper reef crevices. Spotted moray eels inhabit the coral structure throughout. Southern stingrays patrol the sandy channels on the outer reef. The seagrass areas adjacent to the cay provide feeding habitat for green turtles.
+No site-specific marine-life source was found for Gun Cay. Jamaica's regional south-coast reef fauna (parrotfish, angelfish, blue tangs, grunts, hawksbill and green turtles, nurse sharks, spiny lobsters, moray eels, and southern stingrays) is typical of Portland Bight cay reefs, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ The seaward reef side at 14–16 metres produces wide-angle images of brain cora
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/). Only 1 source found confirming cays in this area are diveable. Not fully validated. Last updated 2026-06-08.*
+*Sources: [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/). Only 1 source found confirming cays in this area are diveable (Gun Cay itself is not named in the newer activecaribbeantravel.com Kingston source, unlike Maiden and Drunkenmans Cays). Not fully validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*
