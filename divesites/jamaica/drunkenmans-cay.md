@@ -32,7 +32,7 @@ Drunkenmans Cay sits in the Portland Bight Protected Area of Jamaica's southern 
 
 ## Marine Life
 
-The cay reef supports schoolmaster snapper, French grunts, parrotfish, and blue tangs. Hawksbill turtles are present in the area and are commonly seen grazing on sponges. Nurse sharks rest at the base of the reef. Spiny lobsters and spotted moray eels occupy crevices. Southern stingrays rest on sandy patches around the cay. Sergeant majors are abundant in the shallower surge zone around the cay's rocky base.
+No site-specific marine-life source was found for Drunkenmans Cay. Jamaica's regional south-coast reef fauna (parrotfish, grunts, blue tangs, hawksbill turtles, nurse sharks, spiny lobsters, moray eels, and southern stingrays) is typical of this style of shallow cay reef, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -62,4 +62,4 @@ Cay fringe environments produce distinctive compositions. Wide-angle shots looki
 - **Last Updated**: 2026-03-28
 
 ---
-*Sources: [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/). Only 1 source found confirming this cay is diveable. Not fully validated. Last updated 2026-06-08.*
+*Sources: [ScubaBoard - Jamaica Dive Sites](https://scubaboard.com/community/threads/dive-sites-and-other-information-for-jamaica.94128/), [Active Caribbean Travel - Jamaica Diving from Kingston](https://activecaribbeantravel.com/jamaica-diving/jamaica-diving-from-kingston/). 2 of 3 required sources found confirming this cay is diveable; not fully validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

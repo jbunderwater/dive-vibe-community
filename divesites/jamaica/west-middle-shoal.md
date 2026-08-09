@@ -32,7 +32,7 @@ West Middle Shoal is a shallow reef feature in Jamaica's Portland Bight area, po
 
 ## Marine Life
 
-The shallow, well-lit reef supports dense populations of parrotfish, blue tangs, sergeant majors, and chromis in the upper sections. Hawksbill turtles graze sponges between brain coral heads. Nurse sharks rest in sandy pockets between reef ridges. Spotted moray eels and lobsters inhabit crevices. Large star coral colonies host cleaning stations with gobies. The sand surrounding the shoal is active with southern stingrays and goatfish.
+No site-specific marine-life source was found for West Middle Shoal. Jamaica's regional south-coast reef fauna (parrotfish, blue tangs, sergeant majors, hawksbill turtles, nurse sharks, moray eels, lobsters, and southern stingrays) is typical of shallow Portland Bight shoal reefs, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -63,4 +63,4 @@ The shallow water at West Middle Shoal allows ambient light photography without 
 - **Last Updated**: 2026-03-28
 
 ---
-*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for West Middle Shoal. Not validated. Last updated 2026-06-08.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for West Middle Shoal. Not validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

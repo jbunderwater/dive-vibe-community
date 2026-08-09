@@ -32,7 +32,7 @@ One Bush Cay sits along Jamaica's north coast in the stretch between Falmouth an
 
 ## Marine Life
 
-The cay reef supports the typical north-coast Caribbean community: parrotfish, blue tangs, French angelfish, and yellow-tail snapper are abundant. Hawksbill turtles are frequently sighted at cay reef sites along this coast. Nurse sharks rest under overhangs. Spiny lobsters and moray eels occupy crevices. Southern stingrays are found on sandy patches. Sergeant majors and chromis are common in the shallower reef sections above 8 metres.
+No site-specific marine-life source was found for One Bush Cay. Jamaica's regional north-coast reef fauna (parrotfish, blue tangs, angelfish, snapper, hawksbill turtles, nurse sharks, spiny lobsters, moray eels, and southern stingrays) is typical of cay reefs on this stretch of coast, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Fire coral is present on some reef structures. Maintain buoyancy above the coral
 The compact cay reef is well-suited to a systematic approach — shoot the coral formations, then find wildlife subjects including turtles, nurse sharks, and stingrays. Morning light in the shallows produces vivid colors without strobes.
 
 ---
-*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for One Bush Cay. Not validated. Last updated 2026-06-08.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for One Bush Cay. Not validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

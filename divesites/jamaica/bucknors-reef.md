@@ -32,7 +32,7 @@ Bucknors Reef occupies a stretch of Jamaica's northwest coast in the transition 
 
 ## Marine Life
 
-Hawksbill turtles are a consistent feature of this reef section. Parrotfish, French angelfish, blue tangs, and schooling grunts are abundant. Nurse sharks rest under overhangs in the deeper sections. Spotted moray eels and spiny lobsters are found in reef crevices. Southern stingrays rest on the sandy channels between coral ridges. Trumpetfish are common in the sea fans. Barracuda patrol the mid-water column above the reef.
+No site-specific marine-life source was found for Bucknors Reef. Jamaica's regional northwest-coast reef fauna (hawksbill turtles, parrotfish, angelfish, blue tangs, grunts, nurse sharks, moray eels, spiny lobsters, southern stingrays, trumpetfish, and barracuda) is typical of this stretch of coast, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Fire coral is present on some reef structures. Maintain buoyancy above the coral
 Classic spur-and-groove reef photography — wide-angle from within the sand channel looking up the coral ridges creates strong compositions. Turtle and nurse shark subjects are consistently available at this site.
 
 ---
-*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Bucknors Reef. Not validated. Last updated 2026-06-08.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Bucknors Reef. Not validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

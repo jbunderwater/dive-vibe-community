@@ -32,7 +32,7 @@ Bowden Reef lies along Jamaica's eastern coastline, near the fishing village of 
 
 ## Marine Life
 
-The reef supports good populations of parrotfish, blue tangs, French grunts, and yellow-tail snapper. Hawksbill turtles are present in the area. Nurse sharks are found resting under coral overhangs. Spiny lobsters and moray eels occupy crevices. In the sandy patches, southern stingrays and goatfish forage. The relative lack of fishing pressure in this area contributes to healthier fish stocks compared to more accessible reefs.
+No site-specific marine-life source was found for Bowden Reef. Jamaica's regional southeastern reef fauna (parrotfish, blue tangs, grunts, snapper, hawksbill turtles, nurse sharks, spiny lobsters, moray eels, and southern stingrays) is typical of this stretch of coast, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Remote location with limited emergency services. Ensure all equipment is functio
 The undisturbed reef and good coral cover make this a productive photography site for those willing to make the journey. The relative absence of other divers means unobstructed wide-angle compositions. Look for cleaning stations with shrimp and gobies for macro subjects.
 
 ---
-*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Bowden Reef. Not validated. Last updated 2026-06-08.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Bowden Reef. Not validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*

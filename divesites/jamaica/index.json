@@ -144,18 +144,6 @@
     "osmId": null
   },
   {
-    "name": "Lady G'Diver",
-    "filename": "lady-gdiver.md",
-    "lat": 18.1813572,
-    "lng": -76.4529264,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2998062638
-  },
-  {
     "name": "Chubb Reef (Dive Site)",
     "filename": "chubb-reef-dive-site.md",
     "lat": 18.5265326,

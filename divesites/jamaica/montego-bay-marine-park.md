@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Montego Bay Marine Park
 
-Jamaica's first Marine Protected Area, established in 1991, where decades of conservation have produced healthy reefs and some of the island's most accessible diving.
+Jamaica's first Marine Protected Area, legally designated in 1992, where decades of conservation have produced healthy reefs and some of the island's most accessible diving.
 
 ## Overview
 
-The Montego Bay Marine Park was established in 1991 as Jamaica's first declared Marine Protected Area, covering approximately 15 square kilometres of coastal and marine habitat including coral reef, seagrass, and mangrove. Fishing, anchoring, and waste disposal are prohibited within the park boundaries. The park encompasses multiple named dive sites including Widowmaker's Cave, Airport Reef, Stingray City, Fish Pond, Pelican Reef, Chubb Reef, and The Coral Gardens. Depths on the reef plateau range from 3 to 15 metres, making the park ideal for beginner and intermediate divers. Water is warm (27–29°C) and visibility commonly reaches 20–25 metres.
+The Montego Bay Marine Park was legally designated in 1992 by the Natural Resources (Montego Bay Marine Park) Order — the advocacy body that pushed for its creation, the Montego Bay Marine Park Trust, was formed the year before in 1991, but the park itself was declared by ministerial order in 1992. It is Jamaica's first declared Marine Protected Area, covering approximately 15 square kilometres of coastal and marine habitat including coral reef, seagrass, and mangrove. Fishing, anchoring, and waste disposal are prohibited within the park boundaries. The park encompasses multiple named dive sites including Widowmaker's Cave, Airport Reef, Stingray City, Fish Pond, Pelican Reef, Chubb Reef, and The Coral Gardens. Depths on the reef plateau range from 3 to 15 metres, making the park ideal for beginner and intermediate divers. Water is warm (27–29°C) and visibility commonly reaches 20–25 metres.
 
 ## Site Information
 
@@ -57,4 +57,4 @@ Boat traffic within the Marine Park can be significant during peak season. Alway
 The clear, shallow water and diverse reef life make this one of the Caribbean's more photogenic dive zones. Wide-angle shots of the reef landscape with turtle subjects are a highlight. Cleaning stations with gobies and shrimp are active throughout the day.
 
 ---
-*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica). Last updated 2026-06-08.*
+*Sources: [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Montego Bay Diving](https://www.padi.com/diving-in/jamaica/montego-bay/), [ScubaCaribe Montego Bay](https://www.scubacaribe.com/diving/jamaica/montego-bay/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [NEPA - Natural Resources (Montego Bay Marine Park) Order 1992](https://www.nepa.gov.jm/node/223). Last updated 2026-08-08.*

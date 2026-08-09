@@ -32,7 +32,7 @@ Bush Cay is one of several small offshore cays along Jamaica's north coast that 
 
 ## Marine Life
 
-The cay reef supports a healthy mix of Caribbean reef fish: parrotfish, blue tangs, French angelfish, and French grunts are abundant. Hawksbill turtles are frequently sighted at cay fringing reefs along this coast. Nurse sharks rest on the sandy bottom at the base of the reef. Spotted moray eels and spiny lobsters inhabit crevices. Southern stingrays rest on the sandy channels between coral ridges. The shallower sections of the cay fringe are excellent for snorkeling, with sergeant majors and damselfish abundant in the surge zone.
+No site-specific marine-life source was found for Bush Cay. Jamaica's regional north-coast reef fauna (parrotfish, blue tangs, angelfish, grunts, hawksbill turtles, nurse sharks, moray eels, spiny lobsters, and southern stingrays) is typical of cay-fringing reefs on this stretch of coast, but no report confirms specific sightings at this site — treat species mentions as regional expectation, not a site-specific record.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ The seaward side of the cay may experience more current than the sheltered lee s
 Cay reefs offer the opportunity to photograph the cay fringe structure from below — wide-angle shots looking up toward the cay and surface create distinctive compositions. Turtle encounters at cay sites are common and make excellent subjects.
 
 ---
-*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Bush Cay. Not validated. Last updated 2026-06-08.*
+*Description based on regional Jamaica reef diving characteristics. No site-specific dive sources found for Bush Cay. Not validated. Marine life section revised 2026-08-08 to remove unsourced species claims per deep-QA marine-life accuracy pass. Last updated 2026-08-08.*
