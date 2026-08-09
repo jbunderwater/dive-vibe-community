@@ -22,4 +22,4 @@ Dive site in the north Komodo area. Site details unverified — contributed from
 - **Maximum Depth**: 25 meters
 
 ---
-*No site-specific sources found. Site contributed from a personal diver logbook only. Last updated 2026-06-10.*
+*No site-specific sources found. Site contributed from a personal diver logbook only. Last updated 2026-08-09.*

@@ -17,7 +17,7 @@ Pink Beach is one of Komodo National Park's most visited sites, combining the vi
 
 ## Overview
 
-Located on the eastern coast of Komodo Island, Pink Beach (separate from the similarly named Pantai Merah site also within the park) sits against a backdrop of rust-red volcanic hills and offers a directly accessible shore entry onto a shallow sloping reef. The dive site extends from the beach edge in 2–3 meters of water to a sandy bottom at around 25–30 meters. Currents here are generally mild, the reef is sheltered, and the water clarity is good. This makes it a natural choice for first dives in Komodo, check-out dives, and as a relaxed option on an itinerary otherwise dominated by advanced current sites.
+Located on the eastern coast of Komodo Island, Pink Beach (separate from the similarly named Pantai Merah site also within the park, though at least one operator's current listing groups them together as "Pink Beach (Pantai Merah)" — see that entry for a note on this naming overlap) sits against a backdrop of rust-red volcanic hills and offers a directly accessible shore entry onto a shallow sloping reef. The dive site extends from the beach edge in 2–3 meters of water to a sandy bottom at around 25–30 meters. Currents here are generally mild, the reef is sheltered, and the water clarity is good. This makes it a natural choice for first dives in Komodo, check-out dives, and as a relaxed option on an itinerary otherwise dominated by advanced current sites.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ The site is one of Komodo's safest. The main hazard is the entry and exit over t
 Pink Beach is visually exceptional above water — the pink sand, turquoise water, and dramatic volcanic hills behind make it one of the most photographed beaches in Indonesia. Underwater, the excellent natural light in the shallows creates clean, bright images without strobes for coral and fish portraits. Wide-angle to capture the reef landscape; macro for the critters. Shooting back toward the beach from underwater in 3–5 meters reveals the pink sand glowing above.
 
 ---
-*Sources: [Dive Komodo – Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-06-10.*
+*Sources: [Dive Komodo – Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-08-09.*

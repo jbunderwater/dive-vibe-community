@@ -59,4 +59,4 @@ Conditions are generally easy but afternoon conditions can bring more swell from
 The less-visited reefs offer cleaner backgrounds for fish portrait photography. Cuttlefish colour displays reward patient photographers.
 
 ---
-*Sources: [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Koh Tao Complete Guide – Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Big Blue Diving – Koh Tao Dive Sites](https://www.bigbluediving.com/). Last updated 2026-06-10.*
+*Sources: [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Koh Tao Complete Guide – Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Big Blue Diving – Koh Tao Dive Sites](https://www.bigbluediving.com/). Last updated 2026-08-09.*

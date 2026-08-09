@@ -30,4 +30,4 @@ Sitting on a sandy bottom at approximately 6 metres depth and only 20 metres fro
 - **Maximum Depth**: 6 meters
 
 ---
-*Sources: [Arab Divers - The Tank](https://www.arabdivers.jo/en/activities/dive-sites/the-tank), [Sea Wonders Diving Center - M42 Duster Tank](https://seawondersdivingcenter.com/m42-duster-tank/), [DIVE Magazine - Wrecks of Aqaba](https://divemagazine.com/scuba-diving-travel/wreck-diving-aqaba), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/). Last updated 2026-06-10.*
+*Sources: [Arab Divers - The Tank](https://www.arabdivers.jo/en/activities/dive-sites/the-tank), [Sea Wonders Diving Center - M42 Duster Tank](https://seawondersdivingcenter.com/m42-duster-tank/), [DIVE Magazine - Wrecks of Aqaba](https://divemagazine.com/scuba-diving-travel/wreck-diving-aqaba), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/). Last updated 2026-08-09.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## TK1
 
-TK1 — the first of three adjacent dive sites named for Teluk Kembahu, a bay on the Lembeh Island side of the strait — is one of the most productive beginner-friendly muck sites in Lembeh Strait, North Sulawesi, Indonesia. The TK sites collectively make up one of the most-dived sections of the strait, and TK1 is often the first stop on a multi-site day trip for visiting divers getting their muck diving legs.
+TK1 — the first of three adjacent dive sites named for Teluk Kembahu, a bay on the Bitung (mainland Sulawesi) side of the strait, opposite the resort strip on Lembeh Island — is one of the most productive beginner-friendly muck sites in Lembeh Strait, North Sulawesi, Indonesia. The TK sites collectively make up one of the most-dived sections of the strait, and TK1 is often the first stop on a multi-site day trip for visiting divers getting their muck diving legs.
 
 ## Overview
 
@@ -59,4 +59,4 @@ TK1 is one of the most accessible and low-hazard sites in Lembeh. The main consi
 TK1 is an ideal introductory macro photography site. Ornate ghost pipefish are among the most photogenic subjects in Lembeh — the intricate fin detail and cryptic colouration reward patient close-up work with a 100mm macro lens. Seahorse portraits are a staple. The site's gentle slope allows photographers to position themselves without fighting current or depth pressure. Shooting supermacro is possible here with wet dioptre attachments for the smallest nudibranch species.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving/), [Lembeh Resort – Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Dive-the-World – Lembeh Diving](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [ZuBlu – Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-06-14.*
+*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving/), [Lembeh Resort – Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Dive-the-World – Lembeh Diving](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [ZuBlu – Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-08-09.*

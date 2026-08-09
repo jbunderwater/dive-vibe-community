@@ -22,7 +22,7 @@
       "wikidata": "Q49372696",
       "validated": "true",
       "validation_source": "blackturtledive.com,chalokreefdivers.com,padi.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,chalokreefdivers.com,padi.com"
@@ -49,7 +49,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "blackturtledive.com,divehappy.com,bigbluediving.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,divehappy.com,bigbluediving.com"
@@ -76,7 +76,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "saireecottagediving.com,bigbluediving.com,blackturtledive.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "saireecottagediving.com,bigbluediving.com,blackturtledive.com"
@@ -105,7 +105,7 @@
       "wikidata": "Q49372904",
       "validated": "true",
       "validation_source": "blackturtledive.com,coralgranddivers.com,padi.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,coralgranddivers.com,padi.com"
@@ -132,7 +132,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "blackturtledive.com,bigbluediving.com,divehappy.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,bigbluediving.com,divehappy.com"
@@ -159,7 +159,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "blackturtledive.com,bigbluediving.com,divehappy.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,bigbluediving.com,divehappy.com"
@@ -184,11 +184,11 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "blackturtledive.com,bigbluediving.com,newheavendiveschool.com",
-      "last_qa_date": "2026-06-10"
+      "validation_source": "blackturtledive.com,bigbluediving.com,newheavendiveschool.com,chalokreefdivers.com",
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
-    "validation_source": "blackturtledive.com,bigbluediving.com,newheavendiveschool.com"
+    "validation_source": "blackturtledive.com,bigbluediving.com,newheavendiveschool.com,chalokreefdivers.com"
   },
   {
     "name": "Chumpon Pinnacle",
@@ -212,7 +212,7 @@
       "type": "reef",
       "validated": "true",
       "validation_source": "blackturtledive.com,divehappy.com,navascuba.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,divehappy.com,navascuba.com"
@@ -233,7 +233,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "saireecottagediving.com,kohtaocompleteguide.com,bigbluediving.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "saireecottagediving.com,kohtaocompleteguide.com,bigbluediving.com"
@@ -260,7 +260,7 @@
       "wikidata": "Q49372564",
       "validated": "true",
       "validation_source": "coralgranddivers.com,padi.com,scubago.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "coralgranddivers.com,padi.com,scubago.com"
@@ -286,7 +286,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "blackturtledive.com,thefunkyturtle.com,saireecottagediving.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,thefunkyturtle.com,saireecottagediving.com"
@@ -315,7 +315,7 @@
       "wikidata": "Q49372726",
       "validated": "true",
       "validation_source": "blackturtledive.com,chalokreefdivers.com,bigbluediving.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,chalokreefdivers.com,bigbluediving.com"
@@ -342,7 +342,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "divehappy.com,blackturtledive.com,newheavendiveschool.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "divehappy.com,blackturtledive.com,newheavendiveschool.com"
@@ -369,7 +369,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "blackturtledive.com,coralgranddivers.com,bigbluediving.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,coralgranddivers.com,bigbluediving.com"
@@ -395,11 +395,11 @@
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "xray-mag.com,dpmdiving.com,blackturtledive.com,bigbluediving.com",
-      "last_qa_date": "2026-06-10"
+      "validation_source": "xray-mag.com,dpmdiving.com,blackturtledive.com,bigbluediving.com,seaexplorersclub.com,wikimedia.org",
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
-    "validation_source": "xray-mag.com,dpmdiving.com,blackturtledive.com,bigbluediving.com"
+    "validation_source": "xray-mag.com,dpmdiving.com,blackturtledive.com,bigbluediving.com,seaexplorersclub.com,wikimedia.org"
   },
   {
     "name": "Buoyancy",
@@ -423,7 +423,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "blackturtledive.com,thefunkyturtle.com,lbdivingkohtao.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,thefunkyturtle.com,lbdivingkohtao.com"
@@ -449,7 +449,7 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "blackturtledive.com,thefunkyturtle.com,master-divers.com",
-      "last_qa_date": "2026-06-10"
+      "last_qa_date": "2026-08-09"
     },
     "validated": true,
     "validation_source": "blackturtledive.com,thefunkyturtle.com,master-divers.com"

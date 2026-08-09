@@ -52,11 +52,11 @@ Boat access. Controlled descent along the wall face. Blue-water safety stop with
 
 ## Safety Considerations
 
-Deep wall diving carries inherent risks of narcosis and exceeding no-decompression limits. Dive within your certification level and training — Advanced Open Water or equivalent is strongly recommended. Currents along the wall can push divers horizontally while they focus on depth, potentially creating drift separation from the group. Monitor air consumption carefully; plan to turn the dive at 100 bar minimum. Always deploy an SMB before surfacing.
+Deep wall diving carries inherent risks of narcosis and exceeding no-decompression limits. Dive within your certification level and training — Advanced Open Water or equivalent is strongly recommended. (Note: at least one operator rates this site "Intermediate" with "usually manageable currents"; this entry keeps the more conservative Advanced classification given the 40m maximum depth and other sources describing it as Advanced-only — 2026-08-09 QA.) Currents along the wall can push divers horizontally while they focus on depth, potentially creating drift separation from the group. Monitor air consumption carefully; plan to turn the dive at 100 bar minimum. Always deploy an SMB before surfacing.
 
 ## Photography
 
 The deep sea fans at Pillarsteen are world-class subjects. A wide-angle setup with twin strobes brings out the red and orange of the fan branches against the deep blue background. The pillar formations create natural framing opportunities for diver-with-fan compositions. At shallower depths, the wall texture of encrusting organisms makes compelling macro subjects in the chimneys and crevices.
 
 ---
-*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [ScubaBoard – Komodo North and South](https://scubaboard.com/community/threads/komodo-north-and-south.553289/), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-06-10.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [ScubaBoard – Komodo North and South](https://scubaboard.com/community/threads/komodo-north-and-south.553289/), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-08-09.*

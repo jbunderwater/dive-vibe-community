@@ -59,4 +59,4 @@ Boat access from La Paz (approximately 45–60 minutes to the west side of Espí
 Standard intermediate-level wreck precautions apply. The hull's openings are modified for diver access, but interior navigation still requires a dive light and situational awareness. Wreck penetration carries inherent risks — appropriate training and a buddy are required for interior dives.
 
 ---
-*Sources: [Cabo Private Guide — Fang Ming Wreck History](https://www.caboprivateguide.com/blog/la-paz-fang-ming-wreck), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Divers Guide — Fang Ming Wreck](https://www.divers-guide.com/en/fang-ming-wreck), [PADI Dive Site — Fang Ming Wreck](https://www.padi.com/dive-site/mexico/fang-ming-wreck/). Last updated 2026-06-14.*
+*Sources: [Cabo Private Guide — Fang Ming Wreck History](https://www.caboprivateguide.com/blog/la-paz-fang-ming-wreck), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Divers Guide — Fang Ming Wreck](https://www.divers-guide.com/en/fang-ming-wreck), [PADI Dive Site — Fang Ming Wreck](https://www.padi.com/dive-site/mexico/fang-ming-wreck/). Last updated 2026-08-09.*

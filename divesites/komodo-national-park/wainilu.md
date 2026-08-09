@@ -57,4 +57,4 @@ Boat access; giant stride entry into the bay. Calm, shallow conditions mean SMB 
 One of Komodo's safest sites given the minimal current. The primary risk is stirring sediment through poor buoyancy, which reduces visibility for the entire group. The site is shallow enough that surfacing is never far away. Always carry an SMB.
 
 ---
-*Sources: [Dragon Dive Komodo – Wainilu Dive Site](https://dragondivekomodo.com/wainilu-komodo/), [Scuba Junkie Komodo – Central Sites](https://www.scubajunkiekomodo.com/central/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-06-10.*
+*Sources: [Dragon Dive Komodo – Wainilu Dive Site](https://dragondivekomodo.com/wainilu-komodo/), [Scuba Junkie Komodo – Central Sites](https://www.scubajunkiekomodo.com/central/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-08-09.*

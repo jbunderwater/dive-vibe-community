@@ -17,6 +17,8 @@ Pantai Merah — Indonesian for "Red Beach" or "Pink Beach" — is one of only s
 
 ## Overview
 
+Note: at least one dive operator's current site listing groups this location together with the separately-listed "Pink Beach" entry under the combined name "Pink Beach (Pantai Merah)." This page treats them as two distinct nearby sites (~0.9km apart, separate OSM records with independent GPS data), consistent with prior sourcing, but readers should be aware some operators may use the names interchangeably for what could be the same or overlapping beach.
+
 Situated on the eastern coast of Komodo Island, Pantai Merah offers a shore entry onto a colourful sloping reef that runs from the iconic pink sand beach down to a sandy bottom at around 25–30 meters. The site is sheltered from the dominant currents that define many other Komodo sites, making it one of the park's most accessible dives. The shallower sections, from 3 to 15 meters, are particularly rewarding — densely populated with hard coral formations, anemones hosting clownfish, and small critters that reward a slow, macro-focused approach. The deeper sections have more rubble and scattered coral but are worth exploring for flatfish and sand-dwelling species.
 
 ## Site Information
@@ -59,4 +61,4 @@ While generally calm, light currents can run along the reef edges. Maintain awar
 Pantai Merah is one of Komodo's best topside-and-underwater photography destinations. Above water, the pink sand framed by rust-red hills is spectacular. Below, the well-lit shallows with their diverse critter life make excellent macro and wide-angle subjects. The shallow depth and good light create clean backgrounds for nudibranch portraits. The beach and reef in the same frame from a drone or snorkel-level angle is iconic.
 
 ---
-*Sources: [Dive Komodo – Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-06-10.*
+*Sources: [Dive Komodo – Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-08-09.*

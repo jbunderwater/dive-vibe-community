@@ -17,7 +17,7 @@ Isla Espiritu Santo - The Wall is a dramatic wall dive along the northern area o
 
 ## Overview
 
-Located within Espiritu Santo National Park along the northern section of Isla Espíritu Santo, The Wall is a vertical descent covered in large sea fans, sponges, and diverse rockfish species. Wall sections here are documented reaching 75 feet (23 m) and beyond, with some sections dropping to nearly 85–90 feet before hitting sand bottom (per Baja Diving and Dive in La Paz operator descriptions). Espíritu Santo's surrounding waters host more than 890 fish species and form part of the UNESCO-recognized Espiritu Santo Biosphere Reserve. The wall dive format provides access to depth-stratified communities and pelagic encounters in the open water off the wall face. Narrow rocky channels and swim-throughs along parts of the wall add additional structure to explore.
+"The Wall" is a general term for the wall-diving stretch along the northern coast of Isla Espíritu Santo, within Espiritu Santo National Park. Baja Diving lists two named sites along this stretch: Los Muellecitos, at the northernmost point, with a long descending wall reaching about 75 feet (23 m); and Rocas Tintorera, small offshore rocks marking underwater rock columns at around 70 feet (21 m). Sources describe some sections of this wall dropping to nearly 85–90 feet before reaching sand bottom. Espíritu Santo's surrounding waters form part of the UNESCO-recognized Espiritu Santo Biosphere Reserve. The wall dive format provides access to depth-stratified communities and pelagic encounters in the open water off the wall face. Narrow rocky channels and swim-throughs along parts of the wall add additional structure to explore.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Located within Espiritu Santo National Park along the northern section of Isla E
 
 ## Marine Life
 
-The wall surface is decorated with sea fans, sponges, and encrusting corals. Fish life on the wall includes cabrilla, grouper, Panama graysby, snapper, octopus, king angelfish, surgeonfish, parrotfish, and several moray eel species. In the open water off the face of the wall, passing mantas, sea lions from Los Islotes, and dolphin pods are possible. The rocky channels along the northern section harbor dense schools of king angelfish and yellow surgeonfish (documented by Cortez Club). The wall's depth range and varied structure support higher diversity than comparable shallow reef sites.
+Per Baja Diving, the two named sites that make up this wall stretch have distinct species profiles: Los Muellecitos hosts mantas, moray eels, octopus, and sea fans; Rocas Tintorera hosts moray eels, cabrilla, Panama graysby, snapper, octopus, king angelfish, and parrotfish. Divers on "The Wall" generally should expect a combination of these — sea fans and encrusting corals on the rock face, cabrilla/grouper-family fish, moray eels, octopus, and king angelfish, with the chance of passing mantas at the northern end near Los Muellecitos. Sea lions from the nearby Los Islotes colony are occasionally seen in the open water off the wall face.
 
 ## Dive Profile
 
@@ -50,4 +50,4 @@ Boat access from La Paz (approximately 45–60 minutes). Espiritu Santo National
 The wall's depth reaches Advanced-level territory — narcosis can be a factor below 30 m. Currents along the wall can push divers away from the structure; maintain a close swimming position relative to the wall for reference. A surface marker buoy is essential for open-water pick-up after drift sections.
 
 ---
-*Sources: [Espiritu Santo diving — Dive in La Paz](https://diveinlapaz.com/espiritu-santo-diving-in-la-paz/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Baja Diving — Isla Espiritu Santo](https://bajadiving.com/isla-espiritu-santo/), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/). Last updated 2026-06-14.*
+*Sources: [Espiritu Santo diving — Dive in La Paz](https://diveinlapaz.com/espiritu-santo-diving-in-la-paz/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Baja Diving — Isla Espiritu Santo](https://bajadiving.com/isla-espiritu-santo/), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/). Last updated 2026-08-09.*

@@ -58,4 +58,4 @@ Conditions are consistently calm and suitable for the most inexperienced divers.
 The concrete marine sculptures make quirky wide-angle subjects with a diver in the frame. Coral nursery frames provide context shots showing reef restoration in progress. The clean sandy bottom and bright natural light produce well-exposed images for beginner underwater photographers.
 
 ---
-*Sources: [Black Turtle Dive – Buoyancy World](https://www.blackturtledive.com/koh-tao-dive-sites/buoyancy-world/), [Funky Turtle – Buoyancy World](https://www.thefunkyturtle.com/koh-tao-fun-diving/buoyancy-world-dive-site/), [La Bombona Diving – Koh Tao Artificial Reefs](https://lbdivingkohtao.com/koh-taos-artificial-reefs/). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Buoyancy World](https://www.blackturtledive.com/koh-tao-dive-sites/buoyancy-world/), [Funky Turtle – Buoyancy World](https://www.thefunkyturtle.com/koh-tao-fun-diving/buoyancy-world-dive-site/), [La Bombona Diving – Koh Tao Artificial Reefs](https://lbdivingkohtao.com/koh-taos-artificial-reefs/). Last updated 2026-08-09.*

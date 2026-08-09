@@ -21,9 +21,9 @@ The MV Dania was constructed in 1965 at Hatlo Verksted SA in Ulsteinvik, Norway,
 
 The vessel was acquired by Buccaneer Diving, cleaned and decontaminated, and scuttled with Kenya Wildlife Service approval on 27 October 2002 (Wikipedia) — though one operator source gives 25 October 2002. The wreck lies 1.5 kilometres off Bamburi Beach, approximately 10 minutes by motorboat from Nyali.
 
-**Note on vessel length:** Wikipedia records the vessel at 75 metres (246 feet); most dive operator sources cite 77 metres (252 feet). The discrepancy between sources has not been resolved.
+**Note on vessel length:** Wikipedia records the vessel at 75 metres (246 feet); xtremespots.com cites 77 metres (252 feet). The discrepancy between sources has not been resolved and was reconfirmed unresolved on the 2026-08-09 re-audit.
 
-The wreck sits fully upright on a sandy bottom at 30 metres, with the upper deck and mast structures accessible from 12 metres. Over two decades of marine colonisation have transformed the hull into an artificial reef. The dive typically follows the mooring line to the bow, works aft along the deck past the bridge, and concludes at the engine room in the stern. Both recreational and deeper-certified divers can explore different sections of the wreck.
+The wreck sits fully upright on a sandy bottom, with the upper deck and mast structures accessible from 12 metres. Wikipedia and xtremespots.com both give a maximum depth of 30 metres, but divekenya.com describes the site as ranging from 12 to 32 metres — this depth discrepancy has not been resolved. Over two decades of marine colonisation have transformed the hull into an artificial reef. The dive typically follows the mooring line to the bow, works aft along the deck past the bridge, and concludes at the engine room in the stern. Both recreational and deeper-certified divers can explore different sections of the wreck.
 
 ## Site Information
 
@@ -37,7 +37,7 @@ The wreck sits fully upright on a sandy bottom at 30 metres, with the upper deck
 
 ## Marine Life
 
-Confirmed species reported at the MV Dania: groupers occupy the deeper sections of the hull, large barracuda patrol the water column above the wreck, moray eels inhabit the recesses and smaller compartments, Napoleon wrasse are regularly sighted around the superstructure, and big-eye snapper school around the upper deck and mast.
+Confirmed species reported at the MV Dania: groupers occupy the deeper sections of the hull, large barracuda patrol the water column above the wreck, moray eels inhabit the recesses and smaller compartments, Napoleon wrasse and big-eye snapper are reported by xtremespots.com around the superstructure and upper deck, and divekenya.com additionally reports batfish at the site.
 
 ## Dive Profile
 
@@ -52,4 +52,4 @@ Boat dive from operators based at Nyali or Bamburi, north of Mombasa. The site l
 Advanced certification is required due to the 30-metre maximum depth and wreck penetration complexity. The wreck interior involves overhead environments that require proper training, redundant lighting, and line reels — penetration carries inherent risks and should not be attempted without wreck diving specialisation. The site has permanent mooring buoys and is well-marked.
 
 ---
-*Sources: [Wikipedia – MV Dania](https://en.wikipedia.org/wiki/MV_Dania), [XtremeSpots – Wreck Dania Mombasa](https://www.xtremespots.com/water-sports/scuba-diving/wreck-dania-mombasa-marine-park-coast-province-kenya/), [Dive Kenya – MV Dania](https://www.divekenya.com/location). Last updated 2026-06-10.*
+*Sources: [Wikipedia – MV Dania](https://en.wikipedia.org/wiki/MV_Dania), [XtremeSpots – Wreck Dania Mombasa](https://www.xtremespots.com/water-sports/scuba-diving/wreck-dania-mombasa-marine-park-coast-province-kenya/), [Dive Kenya – MV Dania](https://www.divekenya.com/location). Deep QA re-audit 2026-08-09: all three sources re-fetched directly; vessel name history, build year/builder, scuttling date, and displacement re-confirmed unchanged. Length and depth conflicts between sources re-confirmed as still unresolved (see above) rather than picked arbitrarily. Last updated 2026-08-09.*

@@ -2,7 +2,7 @@
 name: The Gardens
 lat: 29.3996183
 lng: 34.9661243
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 18
 entryType: shore
 siteType: reef
@@ -17,7 +17,7 @@ The Gardens is a coral reef dive site in the southern section of Aqaba's coastli
 
 ## Overview
 
-The Gardens features branching hard coral formations over relatively flat to gently sloping reef topography. The site is accessible from shore and is suited to divers of intermediate experience, particularly those comfortable navigating moderate currents. Conditions here include medium-strength currents that sweep across the reef, and visibility is typically 15–20 meters. Water temperatures range from 22–28°C year-round.
+The Gardens features branching hard coral formations over relatively flat to gently sloping reef topography. Identified by coordinates as arabdivers.jo's "Coral Garden" site in front of Aqaba's Power Station/electricity plant (a moderate-confidence match, not a named confirmation), this site's own operator page rates it Advanced and describes access as effectively restricted — reachable via a hotel and a long jetty swim rather than open shore access — which corrects the prior "Intermediate" rating recorded here. Conditions include medium-to-strong currents that sweep across the reef, and visibility is typically 15–20 meters (the operator page notes it isn't always as clear as other Aqaba sites). Water temperatures range from 22–28°C year-round.
 
 ## Site Information
 
@@ -26,8 +26,9 @@ The Gardens features branching hard coral formations over relatively flat to gen
 - **Site Type**: Reef
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–20 meters
-- **Current**: Moderate
+- **Current**: Medium to strong
 - **Best Time**: Year-round; September–November for peak visibility
+- **Access**: Restricted/gated — reachable via a hotel and jetty swim, not open shore access
 
 ## Marine Life
 
@@ -39,7 +40,7 @@ Divers enter from the shore and swim out to the reef, which begins in shallow wa
 
 ## Entry and Exit
 
-Shore entry over the fringing reef flat. Check the current direction before entering. Moderate currents can develop across the site; plan your exit accordingly. Snorkeling is possible in calmer conditions.
+Access is restricted — the site is reached via a hotel and a long jetty swim rather than an open public shore entry. Check the current direction before entering. Medium-to-strong currents can develop across the site; plan your exit accordingly.
 
 ## Tips and Recommendations
 
@@ -50,11 +51,11 @@ Shore entry over the fringing reef flat. Check the current direction before ente
 
 ## Safety Considerations
 
-Moderate currents are common. Avoid surge zones near the entry point. Always dive with a buddy and carry a surface marker buoy (SMB).
+Medium-to-strong currents are common, and the site is rated Advanced by its own operator. Avoid surge zones near the entry point. Always dive with a buddy and carry a surface marker buoy (SMB).
 
 ## Photography
 
 Excellent macro photography site. Look for nudibranchs, frogfish, and crocodilefish resting among the coral heads. Wide-angle shots of the branching hard coral formations work well in good visibility.
 
 ---
-*Sources: [Arab Divers - Coral Garden](https://www.arabdivers.jo/en/activities/dive-sites/coral-garden), [Coral Garden Diving Center - Dive Sites](https://www.dive-inaqaba.com/dive-sites-aqaba/), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/). Last updated 2026-06-10.*
+*Sources: [Arab Divers - Coral Garden](https://www.arabdivers.jo/en/activities/dive-sites/coral-garden), [Coral Garden Diving Center - Dive Sites](https://www.dive-inaqaba.com/dive-sites-aqaba/), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/). Last updated 2026-08-09.*

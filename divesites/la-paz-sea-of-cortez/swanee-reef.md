@@ -29,11 +29,11 @@ Swanee Reef (also written Suwanee Reef or Swanee Rock) is a submerged rocky pinn
 
 ## Marine Life
 
-The pinnacle's cauliflower coral covering hosts numerous small tropical fish species. Species documented at Swanee Reef by DAN Alert Diver include coral hawkfish, starry groupers, juvenile king angelfish, Cortez angelfish, and octopus. Mexican goatfish, moray eels, and garden eels in the surrounding sand are regularly sighted. Schools of sardines, barracuda, mackerel, snappers, sergeant majors, triggerfish, and grunts move through regularly. Nudibranchs are frequently sighted on the reef surfaces. Sea fans and encrusting hard coral are present on the lower sections of the pinnacle.
+The pinnacle's cauliflower coral covering hosts numerous small tropical fish species. Species documented at Swanee Reef by DAN Alert Diver include coral hawkfish, starry groupers, juvenile king angelfish, Cortez angelfish, octopus, moray eels, and Mexican goatfish, alongside sea fans and encrusting hard coral. PADI additionally confirms nudibranchs, rays, sea lions, turtles, and occasional sightings of dolphins, sharks, and even whales at this site. Sea birds are noted working the surface above the reef.
 
 ## Dive Profile
 
-The pinnacle rises from approximately 12 meters to within 2 meters of the surface. Divers typically descend the sides through the cauliflower coral zone, then explore the sand areas at depth for garden eels and macro subjects. Excellent visibility is typical for this site. The shallow top section is suitable for snorkeling as well as diving.
+The pinnacle rises from approximately 12 meters to within 2 meters of the surface. Divers typically descend the sides through the cauliflower coral zone, then explore the base and sand margins at depth for macro subjects. Excellent visibility is typical for this site. The shallow top section is suitable for snorkeling as well as diving.
 
 ## Entry and Exit
 
@@ -41,8 +41,8 @@ Boat access from La Paz. Swanee Reef is often paired with the nearby Salvatierra
 
 ## Tips and Recommendations
 
-- This is an excellent night dive site — damselfish mating displays and macro species are active after dark.
-- Macro photographers should look for nudibranchs, hawkfish perched on coral heads, and garden eels in the sand surround.
+- This is an excellent night dive site — Underwater Photography Guide specifically calls out damselfish mating displays here, plus other macro species active after dark.
+- Macro photographers should look for nudibranchs and coral hawkfish perched on coral heads.
 - The shallow reef top is accessible to snorkelers and makes a good second stop for a boat day.
 - Pair with the Salvatierra Wreck (a short distance away) for a historically themed two-tank day.
 
@@ -51,4 +51,4 @@ Boat access from La Paz. Swanee Reef is often paired with the nearby Salvatierra
 The reef top is only 2 meters below the surface — boat traffic in the San Lorenzo Channel means divers should use a dive flag and surface marker buoy for boat pick-up away from the pinnacle. Depth is minimal so decompression considerations are low. Appropriate for newly certified divers in calm conditions.
 
 ---
-*Sources: [Swanee Reef dive site — PADI](https://www.padi.com/dive-site/mexico/swanee-reef/), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [UCR — The Wreck of the Salvatierra](https://math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html). Last updated 2026-06-14.*
+*Sources: [Swanee Reef dive site — PADI](https://www.padi.com/dive-site/mexico/swanee-reef/), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [UCR — The Wreck of the Salvatierra](https://math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html), [Underwater Photography Guide — Diving La Paz](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-08-09.*

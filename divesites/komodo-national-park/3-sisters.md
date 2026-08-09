@@ -52,6 +52,8 @@ Liveaboard or day boat access. The boat crew drops divers upstream and repositio
 
 ## Safety Considerations
 
+(Note: at least one operator rates this site "Intermediate"; this entry keeps the more conservative Advanced classification given the exposed southern-Komodo location and other sources describing strong, current-dependent conditions — 2026-08-09 QA.)
+
 Strong and changing currents are the primary hazard at 3 Sisters. Down-currents can develop on the downstream faces of the pinnacles. Brief specifically on the escape plan for each possible current scenario before entry. Maintain visual contact with the guide throughout. Not appropriate for divers without significant drift and current diving experience. Always carry an SMB, whistle, and signal mirror.
 
 ## Photography
@@ -59,4 +61,4 @@ Strong and changing currents are the primary hazard at 3 Sisters. Down-currents 
 Three pinnacles provide multiple angles for wide-angle compositions. Shoot up at the pinnacle summits against the blue for dramatic perspective, or frame shark silhouettes against downward light. Fish schools swirling around the rocks create images that capture the energy of Komodo diving. A 10–17mm fisheye excels here.
 
 ---
-*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [ScubaBoard – Komodo North and South](https://scubaboard.com/community/threads/komodo-north-and-south.553289/), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-06-10.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [ScubaBoard – Komodo North and South](https://scubaboard.com/community/threads/komodo-north-and-south.553289/), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-08-09.*

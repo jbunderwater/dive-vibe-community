@@ -59,4 +59,4 @@ Currents can accelerate quickly at Karang Makassar as the tide shifts. Stay clos
 Feeding mantas with open cephalic fins are the primary subject. Shoot from below or slightly to the side to capture the full wingspan — a 10–17mm fisheye on a wide dome gives jaw-dropping perspective. When mantas are dense, simply point upward at the surface silhouettes. The reduced visibility from plankton can add atmosphere to wide-angle shots.
 
 ---
-*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Manta Point](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [PADI – Manta Point Komodo](https://www.padi.com/dive-site/indonesia/manta-point-komodo/). Last updated 2026-06-10.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Manta Point](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [PADI – Manta Point Komodo](https://www.padi.com/dive-site/indonesia/manta-point-komodo/). Last updated 2026-08-09.*

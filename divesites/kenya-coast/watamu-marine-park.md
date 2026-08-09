@@ -45,4 +45,4 @@ Documented park-wide species that are regularly encountered: green sea turtles (
 Aqua Ventures operates from Watamu Beach and runs three diving boats with a full equipment rental operation. Other PADI-certified dive centres also operate in Watamu. KWS marine park fees apply. Best diving season is October to March when visibility is highest.
 
 ---
-*Sources: [Dive Worldwide – Watamu National Marine Park](https://www.diveworldwide.com/locations/watamu-national-marine-park), [Dive in Kenya – Aqua Ventures](https://www.diveinkenya.com/), [Kenya Peaks – Watamu Marine Park](https://kenyapeaks.com/watamu-marine-park). Last updated 2026-06-10.*
+*Sources: [Dive Worldwide – Watamu National Marine Park](https://www.diveworldwide.com/locations/watamu-national-marine-park), [Dive in Kenya – Aqua Ventures](https://www.diveinkenya.com/), [Kenya Peaks – Watamu Marine Park](https://kenyapeaks.com/watamu-marine-park). Re-audited 2026-08-09: species counts (600+ fish, 150+ coral) reconfirmed directly against kenyapeaks.com. Last updated 2026-08-09.*

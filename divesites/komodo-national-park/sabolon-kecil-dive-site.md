@@ -51,4 +51,4 @@ Divers typically begin at the reef crest (5–8 m) and work down the slope to th
 Sabolon Kecil rewards patient, slow diving. Spending 10–15 minutes working a single rubble patch can yield multiple nudibranch species. A macro lens setup is well worth bringing if combined with the nearby Seraya Kecil site in the same trip. Early morning dives when light is low and animals are active produce the best turtle and octopus encounters.
 
 ---
-*Sources: [SSI MyDiveGuide – Sabolon Kecil](https://www.divessi.com/en/mydiveguide/divesite/sabolon-kecil-indonesia-250103), [Wet Frog Divers – Komodo Dive Spots](https://www.wetfrogdivers.com/scuba-diving-komodo/dive-spots-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-06-10.*
+*Sources: [SSI MyDiveGuide – Sabolon Kecil](https://www.divessi.com/en/mydiveguide/divesite/sabolon-kecil-indonesia-250103), [Wet Frog Divers – Komodo Dive Spots](https://www.wetfrogdivers.com/scuba-diving-komodo/dive-spots-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-08-09.*

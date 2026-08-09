@@ -17,7 +17,7 @@ San Rafaelito is a rocky islet north of La Paz Bay offering beginner-friendly re
 
 ## Overview
 
-San Rafaelito is a small rocky islet located north of La Paz, close to Pichilingue. The site features coral heads, small caves, and overhangs across a shallow reef in the protected inner bay. It is one of the most accessible dive sites from the city. San Rafaelito hosts an active coral restoration program: according to a March 2023 report in The Cabo Sun, more than 7,500 coral colonies have been transplanted at the site by the Efecto Arena organization, with approximately 6,000 additional colonies being grown in nurseries for future transplantation. The project addresses damage from snorkeler fins to the reef's coral. A non-breeding colony of California sea lions occupies the islet year-round; colony size estimates vary across sources (40–50 adults per La Paz Divers; approximately 140 adults per SeaofCortez.guide) and cannot be reconciled at this time. The site is a well-documented night dive location, where sleeping parrotfish and nocturnal invertebrates are easily observed.
+San Rafaelito is a small rocky islet located north of La Paz, close to Pichilingue. The site features coral heads, small caves, and overhangs across a shallow reef in the protected inner bay. It is one of the most accessible dive sites from the city. San Rafaelito hosts an active coral restoration program: according to a March 2023 report in The Cabo Sun, more than 7,500 coral colonies have been transplanted at the site by the Efecto Arena organization, with approximately 6,000 additional colonies being grown in nurseries for future transplantation. The project addresses damage from snorkeler fins to the reef's coral. A non-breeding colony of California sea lions occupies the islet year-round; colony size estimates vary substantially across sources — approximately 40–50 adults per La Paz Divers, approximately 80 per PADI, and approximately 140 per SeaofCortez.guide — and cannot be reconciled at this time. The site is also known locally as Rocas Lobos (Lobos Rock), per Baja Diving, which describes small caves and overhangs and calls it "our most popular night dive site," where sleeping parrotfish, rays, and octopus are easily observed.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ San Rafaelito is a small rocky islet located north of La Paz, close to Pichiling
 
 ## Marine Life
 
-The coral head structures support parrotfish, damselfish, various wrasse species, and other colorful reef fish. Sea lions from the resident non-breeding colony approach divers in the water. Rays — including eagle rays — are documented in the sandy areas surrounding the reef. The site is known for nocturnal marine life: sleeping parrotfish in their mucus cocoons are a highlight of night dives (documented by Cortez Club and Baja Diving). Macro subjects are abundant on the coral heads and rocky surfaces.
+The coral head structures support parrotfish and other colorful reef fish. Sea lions from the resident non-breeding colony approach divers in the water. Rays and octopus are documented at the site (PADI, Baja Diving). White tip sharks are also confirmed here by PADI. The site is known for nocturnal marine life: sleeping parrotfish in their mucus cocoons, along with rays and octopus, are a highlight of night dives.
 
 ## Dive Profile
 
@@ -41,7 +41,7 @@ Short boat ride from La Paz (approximately 35 minutes from the marina area per L
 
 ## Tips and Recommendations
 
-- Excellent night dive site — arrange with your operator for an evening trip to see sleeping parrotfish, octopus, and lobster.
+- Excellent night dive site — arrange with your operator for an evening trip to see sleeping parrotfish, rays, and octopus.
 - Approach the sea lion colony calmly — this is a non-breeding group without the territorial aggression present at Los Islotes during pup season.
 - The coral restoration patches are a photography interest — healthy transplanted coral growth is visible.
 
@@ -50,4 +50,4 @@ Short boat ride from La Paz (approximately 35 minutes from the marina area per L
 Depth and conditions are manageable for beginner divers. Being inside La Paz Bay means protection from ocean swell. Boat traffic in the Pichilingue area warrants use of a dive flag and awareness of surface conditions on ascent.
 
 ---
-*Sources: [The Cabo Sun — Coral Restoration at San Rafaelito](https://thecabosun.com/la-paz-working-to-improve-snorkeling-experience-with-coral-restoration-in-popular-tour-area/), [PADI Dive Site — San Rafaelito](https://www.padi.com/dive-site/mexico/san-rafaelito-lighthouse-lobos-rock/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Sea of Cortez Guide — San Rafaelito](https://www.seaofcortez.guide/san_rafaelito.html). Last updated 2026-06-14.*
+*Sources: [The Cabo Sun — Coral Restoration at San Rafaelito](https://thecabosun.com/la-paz-working-to-improve-snorkeling-experience-with-coral-restoration-in-popular-tour-area/), [PADI Dive Site — San Rafaelito](https://www.padi.com/dive-site/mexico/san-rafaelito-lighthouse-lobos-rock/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Sea of Cortez Guide — San Rafaelito](https://www.seaofcortez.guide/san_rafaelito.html), [Baja Diving — La Paz](https://bajadiving.com/la-paz/). Last updated 2026-08-09.*

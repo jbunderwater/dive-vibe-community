@@ -17,7 +17,9 @@ Mpunguti Marine Reserve encompasses the Mpunguti ya Juu and Mpunguti ya Chini is
 
 ## Overview
 
-The Kisite-Mpunguti Marine Protected Area is widely regarded as Kenya's finest dive destination, benefiting from strict enforcement of no-take regulations, low overall visitor numbers compared to the northern coast, and clean oceanic water flowing in from the open Indian Ocean. The reef at Kisite-Mpunguti slopes gently from 2 metres down to 32 metres, with seven named dive sites within the park. The park covers 45 coral species and over 360 fish species according to Kenya Wildlife Service documentation.
+The Kisite-Mpunguti Marine Protected Area is widely regarded as Kenya's finest dive destination, benefiting from strict enforcement of no-take regulations, low overall visitor numbers compared to the northern coast, and clean oceanic water flowing in from the open Indian Ocean. The reef at Kisite-Mpunguti slopes gently from 2 metres down to 32 metres, with seven named dive sites within the park.
+
+Species counts vary by source: ScubaGo cites 45 coral species and over 360 fish species for the park, while the Kenya Wildlife Service's own park page cites approximately 56 coral genera and 252 reef fish species. Both figures are presented here rather than treating either as definitive, since they come from different survey methodologies.
 
 Named dive sites in the Kisite-Mpunguti system include: Outer Kisite (5–12 metres, shallow relaxed dive), Inner Kisite (6–25 feet), Dolphin Point (3–12 metres), Nyuli (27+ metres, advanced drift site with pelagic species), Harm's Drop Off (drift dive), and Secret Place (soft coral garden for macro photography). The Mpunguti Marine Reserve forms the reef complex surrounding the Mpunguti islands, with dive depths in the beginner range up to 20 metres.
 
@@ -36,7 +38,7 @@ The park is known as the "Home of the Dolphins" — both bottlenose and spinner 
 
 ## Marine Life
 
-Dolphin pods (bottlenose and spinner) are a signature encounter in the reserve and are encountered on most visits. Green sea turtles are regularly sighted. The reef supports parrotfish, surgeonfish, moorish idol, giant sweeplip, butterflyfish, angelfish, turtle starfish, and octopus among the documented 360 species in the park. Humpback whales migrate along this coast from late June through December. Whale sharks are occasionally reported.
+Dolphin pods (bottlenose and spinner) are a signature encounter in the reserve and are encountered on most visits. Green sea turtles are regularly sighted. The reef supports parrotfish, surgeonfish, moorish idol, giant sweeplip, butterflyfish, angelfish, turtle starfish, and octopus among the documented species in the park (see note above on conflicting species-count figures). Humpback whales migrate along this coast from late June through December. Whale sharks are occasionally reported.
 
 *Note: The above species represent documented park-wide fauna from Kenya Wildlife Service and operator sources; site-specific species surveys for the Mpunguti reef in isolation are not available in the sources consulted.*
 
@@ -60,4 +62,4 @@ Boat departure from Shimoni jetty, approximately 45 minutes south of Diani Beach
 Beginner-appropriate conditions within the main protected area. Park regulations require licensed guides to accompany all dives. The boat transit from Shimoni can be affected by sea state during the southeast monsoon season (June to September can see rougher conditions). Standard coral and sea urchin contact hazards apply. KWS regulations prohibit collecting, fishing, and touching marine life.
 
 ---
-*Sources: [Africa Kenya Safaris – Kisite Mpunguti](https://www.africakenyasafaris.com/kenya-national-parks/kisite-mpunguti-marine-park-reserve/), [ScubaGo – Kisite](https://www.scubago.com/en/explore/destination/kisite-9753521), [Ocean Tribe – Kisite National Marine Park Guide](https://oceantribe.co/dive-and-safari-packages/kisite-national-marine-park-guide/). Last updated 2026-06-10.*
+*Sources: [Africa Kenya Safaris – Kisite Mpunguti](https://www.africakenyasafaris.com/kenya-national-parks/kisite-mpunguti-marine-park-reserve/), [ScubaGo – Kisite](https://www.scubago.com/en/explore/destination/kisite-9753521), [Ocean Tribe – Kisite National Marine Park Guide](https://oceantribe.co/dive-and-safari-packages/kisite-national-marine-park-guide/), [Kenya Wildlife Service – Kisite Mpunguti](https://www.kws.go.ke/kisite-mpunguti-marine-park-reserve) (species-count cross-check). Last updated 2026-08-09.*

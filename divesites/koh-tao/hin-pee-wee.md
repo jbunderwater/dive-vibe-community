@@ -58,4 +58,4 @@ Currents can funnel between the pinnacle and the seabed. Visibility can be poor 
 Long-faced emperor fish are a relatively unusual macro–mid-range subject. Ghost pipefish among the anemones suit close-focus wide-angle or macro. The soft coral and sea fan faces provide good wide-angle compositions. Combination shots looking back toward the HTMS Sattakut from Hin Pee Wee are possible in good visibility.
 
 ---
-*Sources: [Black Turtle Dive – Hin Pee Wee](https://www.blackturtledive.com/koh-tao-dive-sites/hin-pee-wee/), [Coral Grand Divers – Hin Pee Wee](https://coralgranddivers.com/pages/hin-pee-wee-dive-site-in-koh-tao), [Big Blue Diving – Hin Pee Wee](https://www.bigbluediving.com/koh-tao-dive-sites/hin-pee-wee/). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Hin Pee Wee](https://www.blackturtledive.com/koh-tao-dive-sites/hin-pee-wee/), [Coral Grand Divers – Hin Pee Wee](https://coralgranddivers.com/pages/hin-pee-wee-dive-site-in-koh-tao), [Big Blue Diving – Hin Pee Wee](https://www.bigbluediving.com/koh-tao-dive-sites/hin-pee-wee/). Last updated 2026-08-09.*

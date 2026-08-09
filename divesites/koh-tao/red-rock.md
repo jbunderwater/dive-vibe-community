@@ -60,4 +60,4 @@ Banded sea kraits are venomous but non-aggressive — do not attempt to handle o
 Yellow boxfish portraits in the crack are the signature shot. Banded sea kraits cruising the rock face make atmospheric compositions. The encrusting organisms giving the rock its red and orange colour suit close-up wide-angle photography.
 
 ---
-*Sources: [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving – Red Rock](https://www.bigbluediving.com/blog/koh-tao-dive-sites-red-rock-white-rock-green-rock/), [Black Turtle Dive – Koh Tao Dive Sites](https://www.blackturtledive.com/koh-tao-dive-sites/). Last updated 2026-06-10.*
+*Sources: [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving – Red Rock](https://www.bigbluediving.com/blog/koh-tao-dive-sites-red-rock-white-rock-green-rock/), [Black Turtle Dive – Koh Tao Dive Sites](https://www.blackturtledive.com/koh-tao-dive-sites/). Last updated 2026-08-09.*

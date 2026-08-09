@@ -57,4 +57,4 @@ Mild currents. Lionfish and scorpionfish are present near the reef — maintain 
 Night photography is the highlight — scorpionfish, frogfish, and sleeping reef fish. During the day, black coral trees at depth offer dramatic wide-angle frames. Macro subjects include nudibranchs, shrimps, and the giant clams on the return route.
 
 ---
-*Sources: [Sea Star Water Sport - Cazar Reef](https://www.aqabadivingseastar.com/cazar-reef/), [Freediving Jordan - The Dive Sites of Aqaba](https://freedivingjordan.wordpress.com/2013/07/17/the-dive-sites-of-aqaba/), [Wannadive - Cazar Reef](https://www.wannadive.net/spot/Middle_East/Jordan/Aqaba/Cazar_reef/). Last updated 2026-06-10.*
+*Sources: [Sea Star Water Sport - Cazar Reef](https://www.aqabadivingseastar.com/cazar-reef/), [Freediving Jordan - The Dive Sites of Aqaba](https://freedivingjordan.wordpress.com/2013/07/17/the-dive-sites-of-aqaba/), [Wannadive - Cazar Reef](https://www.wannadive.net/spot/Middle_East/Jordan/Aqaba/Cazar_reef/). Last updated 2026-08-09.*

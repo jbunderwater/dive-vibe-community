@@ -3,7 +3,7 @@ name: Nudi Falls
 lat: 1.4833
 lng: 125.25
 difficulty: Intermediate
-maxDepth: 27
+maxDepth: 25
 entryType: boat
 siteType: wall
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Nudi Falls
 
-Nudi Falls is one of the most celebrated nudibranch diving sites in the world — and in the Lembeh Strait, which is already the global epicentre of nudibranch diversity, that is a significant distinction. Located in the northern section of the strait in North Sulawesi, Indonesia, the site is built around a small vertical rock wall descending to about 27 metres, with a sand slope and rubble channel below. The name has a precise origin: diver bubbles rising along the wall sometimes dislodge nudibranchs from above, causing them to drift downward — hence, "Nudi Falls."
+Nudi Falls is one of the most celebrated nudibranch diving sites in the world — and in the Lembeh Strait, which is already the global epicentre of nudibranch diversity, that is a significant distinction. Located in the northern section of the strait in North Sulawesi, Indonesia, the site is built around a small vertical rock wall with a sand slope and rubble channel below. Sources report varying maximum depths, from 20 metres (Lembeh Resort's own site page) to 25–27 metres (PADI, Infinite Blue Dive Travel, Starfish); this listing uses 25 metres as the most commonly cited figure. The name has a precise origin: diver bubbles rising along the wall sometimes dislodge nudibranchs from above, causing them to drift downward — hence, "Nudi Falls."
 
 ## Overview
 
@@ -25,7 +25,7 @@ The site's defining feature is the vertical rock wall, which is encrusted with a
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–15 metres (25–50 feet)
 - **Current**: Light to moderate; occasionally stronger
 - **Best Time**: Year-round; October to May for calmest seas
@@ -59,4 +59,4 @@ Intermediate difficulty is warranted by the mild current potential in the northe
 Nudi Falls is arguably the finest nudibranch photography site in Southeast Asia. Chromodorids against dark ascidian backgrounds create high-contrast images. Aeolids in profile against the wall surface or backlit water are classic supermacro subjects. Wet dioptre attachments (+5 or +10 close-up lenses) allow extreme magnification of gill plumes and rhinophores. A diffused strobe setup reduces harsh shadows in the intricate wall surface. Allow one full dive per genus family to do justice to the variety here.
 
 ---
-*Sources: [Lembeh Resort – Nudi Falls](https://www.lembehresort.com/divesites/nudi-falls), [PADI – Nudi Falls](https://www.padi.com/dive-site/indonesia/nudi-falls/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [NAD-Lembeh – Nightdiving Nudi Falls](https://www.nad-lembeh.com/blog/critters/nightdiving-nudi-falls/), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/). Last updated 2026-06-14.*
+*Sources: [Lembeh Resort – Nudi Falls](https://www.lembehresort.com/divesites/nudi-falls), [PADI – Nudi Falls](https://www.padi.com/dive-site/indonesia/nudi-falls/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [NAD-Lembeh – Nightdiving Nudi Falls](https://www.nad-lembeh.com/blog/critters/nightdiving-nudi-falls/), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/). Last updated 2026-08-09.*

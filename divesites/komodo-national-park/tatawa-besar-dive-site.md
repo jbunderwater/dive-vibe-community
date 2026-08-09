@@ -2,7 +2,7 @@
 name: Tatawa Besar dive site
 lat: -8.5083587
 lng: 119.6397238
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25
 entryType: boat
 siteType: reef
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Tatawa Besar dive site
 
-Tatawa Besar (Big Tatawa) is the more accessible sibling of the current-hammered Tatawa Kecil — a broad sloping reef around a larger island in central Komodo that delivers excellent coral, healthy fish life, and a notably relaxed pace suitable for beginners and newly certified divers.
+Tatawa Besar (Big Tatawa) is the more accessible sibling of the current-hammered Tatawa Kecil — a broad sloping reef around a larger island in central Komodo that delivers excellent coral and healthy fish life, though tidal currents can build enough on its exposed corners that it is best treated as Intermediate rather than a pure beginner site.
 
 ## Overview
 
@@ -24,7 +24,7 @@ Tatawa Besar is a larger island than Tatawa Kecil, and its more gently contoured
 - **Location**: Komodo National Park, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Light to moderate; occasionally stronger on the island's corners
@@ -54,9 +54,11 @@ Access by liveaboard or day boat from Labuan Bajo. Giant stride entry from the d
 
 While generally calm, Tatawa Besar's exposed corners can develop stronger currents. Keep the group together and listen to the guide's signal to change direction. Always carry an SMB even on easy dives. Avoid over-penetrating the reef structure, which can damage fragile coral tables.
 
+Note on difficulty: sources differ. Some operators list Tatawa Besar as an "Open Water friendly" site suitable for beginners; others explicitly flag that it "can develop strong tidal currents" and rate it Intermediate. This entry uses the more conservative Intermediate classification (2026-08-09 QA).
+
 ## Photography
 
 The abundant turtle encounters and healthy hard coral make Tatawa Besar excellent for wide-angle and mid-range photography. A 16–35mm zoom covers both turtle portraits and reef overviews. The clear water and good light create clean backgrounds. The garden eel colonies at depth reward patience with macro or close-focus wide-angle setups.
 
 ---
-*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Komodo Dive Sites](https://dragondivekomodo.com/en/komodo-dive-sites/), [Scuba Junkie Komodo – Central Sites](https://www.scubajunkiekomodo.com/central/). Last updated 2026-06-10.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Komodo Dive Sites](https://dragondivekomodo.com/en/komodo-dive-sites/), [Scuba Junkie Komodo – Central Sites](https://www.scubajunkiekomodo.com/central/), [Dive Komodo – Dive Sites](https://divekomodo.com/dive-sites-komodo/). Last updated 2026-08-09.*

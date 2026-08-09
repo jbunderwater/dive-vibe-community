@@ -54,4 +54,4 @@ Boat access. Giant stride entry into calm water. Exit via ladder. The sheltered 
 One of Komodo's safest and most forgiving sites. The sheltered bay largely eliminates current as a concern. Standard buoyancy discipline applies around the coral bommies. Always carry an SMB as a best practice even in calm sites.
 
 ---
-*Sources: [Scuba Junkie Komodo – The North](https://www.scubajunkiekomodo.com/the-north/), [Manta Rhei Dive Center – North Komodo Sites](https://www.mantarhei.com/north-komodo-best-dive-sites/), [Manta Dive Komodo – Castle Rock & Crystal Rock](https://mantadivekomodo.com/castle-rock-crystal-rock-komodo/). Last updated 2026-06-10.*
+*Sources: [Scuba Junkie Komodo – The North](https://www.scubajunkiekomodo.com/the-north/), [Manta Rhei Dive Center – North Komodo Sites](https://www.mantarhei.com/north-komodo-best-dive-sites/), [Manta Dive Komodo – Castle Rock & Crystal Rock](https://mantadivekomodo.com/castle-rock-crystal-rock-komodo/). Last updated 2026-08-09.*

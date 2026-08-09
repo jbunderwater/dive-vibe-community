@@ -60,4 +60,4 @@ Currents can develop suddenly at Manta Point, particularly on the ebb tide. Alwa
 Manta Point offers some of the best manta photography in the world. Shoot from below with the manta silhouetted against the light for dramatic results, or get level with the animal as it circles the cleaning station. Wide-angle setups dominate, but a 60mm macro on the cleaning station bommies captures the cleaner wrasses in action. Blue-spotted rays on the sand make attractive secondary subjects.
 
 ---
-*Sources: [Dragon Dive Komodo – Manta Point](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Manta Dive Komodo – Dive Sites](https://mantadivekomodo.com/komodo-dive-sites/), [PADI – Manta Point Komodo](https://www.padi.com/dive-site/indonesia/manta-point-komodo/). Last updated 2026-06-10.*
+*Sources: [Dragon Dive Komodo – Manta Point](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Manta Dive Komodo – Dive Sites](https://mantadivekomodo.com/komodo-dive-sites/), [PADI – Manta Point Komodo](https://www.padi.com/dive-site/indonesia/manta-point-komodo/). Last updated 2026-08-09.*

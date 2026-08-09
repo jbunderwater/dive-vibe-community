@@ -58,4 +58,4 @@ Conditions are mild. Indian walkman and other scorpionfish relatives in the rubb
 Nudibranchs and flatworms on the rock surfaces are classic macro subjects. Broadclub cuttlefish on night dives reward patient close-focus wide-angle or macro photographers.
 
 ---
-*Sources: [Black Turtle Dive – Pottery Pinnacle](https://www.blackturtledive.com/koh-tao-dive-sites/pottery-pinnacle/), [Funky Turtle – Pottery & Three Rocks](https://www.thefunkyturtle.com/koh-tao-fun-diving/pottery-pinnacle-three-rocks-dive-site/), [Master Divers – Pottery Pinnacle](https://www.master-divers.com/pottery). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Pottery Pinnacle](https://www.blackturtledive.com/koh-tao-dive-sites/pottery-pinnacle/), [Funky Turtle – Pottery & Three Rocks](https://www.thefunkyturtle.com/koh-tao-fun-diving/pottery-pinnacle-three-rocks-dive-site/), [Master Divers – Pottery Pinnacle](https://www.master-divers.com/pottery). Last updated 2026-08-09.*

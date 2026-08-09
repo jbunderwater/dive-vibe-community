@@ -57,4 +57,4 @@ Mild to moderate currents typical. Mooring buoy assists navigation. Always carry
 Superb macro photography: seahorses, nudibranchs, frogfish, and resting lionfish. Each pinnacle offers close-up reef portrait opportunities. Wide-angle shots of fish schooling around the pinnacles work well in clear conditions.
 
 ---
-*Sources: [Arab Divers - Kiwi Reef](https://www.arabdivers.jo/en/activities/dive-sites/kiwi-reef), [Coral Garden Diving Center - Kiwi Reef](https://www.dive-inaqaba.com/kiwi-reef/), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/). Last updated 2026-06-10.*
+*Sources: [Arab Divers - Kiwi Reef](https://www.arabdivers.jo/en/activities/dive-sites/kiwi-reef), [Coral Garden Diving Center - Kiwi Reef](https://www.dive-inaqaba.com/kiwi-reef/), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/). Last updated 2026-08-09.*

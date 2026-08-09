@@ -13,11 +13,11 @@ addedBy: community
 
 ## Saudi Border
 
-Saudi Border is one of Aqaba's most dramatic dive sites, located at the southernmost accessible section of Jordan's coastline, approximately 4 km south of the Royal Diving Club and just north of the Saudi Arabian frontier. The site's defining feature is a long coral wall that drops steeply from 12–15 meters at the crest to well beyond 100 meters — one of the most impressive wall dives in the Gulf of Aqaba.
+Saudi Border is one of Aqaba's most dramatic dive sites, located at the southernmost accessible section of Jordan's coastline, approximately 4 km south of the Royal Diving Club and just north of the Saudi Arabian frontier. The site's defining feature is an 850-metre coral wall — sources give the crest depth as anywhere from 7–15 meters, dropping to depths reported between roughly 34 and 60 meters depending on the source — one of the most impressive wall dives in the Gulf of Aqaba.
 
 ## Overview
 
-The wall starts approximately 70 meters from shore and runs north-west. Divers swim out across a shallow plateau before dropping over the edge to experience the full scale of the wall drop-off. The wall itself begins at 15 meters and plunges rapidly to depths well beyond recreational limits. Coral coverage changes with depth: branching colonies dominate the shallower sections, transitioning to dense encrusting corals at depth. The site is sometimes accessed as a drift dive along the wall.
+The wall starts approximately 70 meters from shore and runs north-west, extending some 850 metres in total (confirmed independently by a UK dive-travel guide). Divers swim out across a shallow plateau before dropping over the edge to experience the scale of the wall drop-off. Reported crest depth varies by source: a Jordanian dive-shop thread on ScubaBoard describes the wall starting at 7–8 meters, while other listings place the top of the wall closer to 15 meters; maximum depth is reported anywhere from 34 to 60 meters across sources, well beyond recreational limits either way. Coral coverage changes with depth: branching colonies dominate the shallower sections, transitioning to dense encrusting corals at depth. The site is sometimes accessed as a drift dive along the wall. Diving here reportedly requires advance arrangement — one operator describes needing roughly 24 hours' notice, likely due to the site's proximity to the international border.
 
 ## Site Information
 
@@ -50,11 +50,11 @@ Shore entry. The site requires approximately a 6-meter swim to the reef. Access 
 
 ## Safety Considerations
 
-The wall drops to depths well beyond recreational limits — maintain strict depth discipline. Drift currents can develop. Remote location from the main dive centers means any emergency requires additional response time. Minimum Intermediate diver experience recommended. Always carry a surface marker buoy (SMB).
+The wall drops well beyond recreational limits (sources report 34–60 meters at depth) — maintain strict depth discipline. Drift currents can develop. Remote location from the main dive centers means any emergency requires additional response time. Minimum Intermediate diver experience recommended. Always carry a surface marker buoy (SMB).
 
 ## Photography
 
 Wide-angle photography of the wall face is the primary draw. The scale of the drop-off provides dramatic compositional opportunities. The shallower cabbage coral plateau offers colorful reef shots in good natural light.
 
 ---
-*Sources: [ScubaBoard - Aqaba Diving](https://scubaboard.com/community/threads/aqaba-diving-the-best-place-for-shore-dive.276387/), [Aqaba Adventure Divers - Dive Sites](https://aqaba-diving.com/dive-sites-in-aqaba-red-sea/), [Freediving Jordan - The Dive Sites of Aqaba](https://freedivingjordan.wordpress.com/2013/07/17/the-dive-sites-of-aqaba/). Last updated 2026-06-10.*
+*Sources: [ScubaBoard - Aqaba Diving](https://scubaboard.com/community/threads/aqaba-diving-the-best-place-for-shore-dive.276387/), [Wannadive - Saudi Border](https://www.wannadive.net/spot/Middle_East/Jordan/Aqaba/), [SCUBA Travel - Best Dive Sites of Aqaba and Jordan](https://www.scubatravel.co.uk/redsea/jordandive.html). Last updated 2026-08-09.*

@@ -59,4 +59,4 @@ Conditions are generally easy and current is mild. Titan triggerfish can nest in
 Saddleback clownfish portraits in the Sebae anemone are the defining image of Twins — a rare species not commonly photographed. Wide-angle shots of both pinnacles together require a fisheye or ultra-wide lens. Sandy channel shots with stingrays between the pinnacles reward a patient wide-angle close-focus approach.
 
 ---
-*Sources: [Black Turtle Dive – Twins Pinnacle](https://www.blackturtledive.com/koh-tao-dive-sites/twins-pinnacle/), [Big Blue Diving – Twins](https://www.bigbluediving.com/koh-tao-dive-sites/twins-dive-site/), [Dive Happy – Koh Tao Dive Sites](https://divehappy.com/thailand/koh-tao-dive-sites-twins-japanese-gardens-mango-bay/). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Twins Pinnacle](https://www.blackturtledive.com/koh-tao-dive-sites/twins-pinnacle/), [Big Blue Diving – Twins](https://www.bigbluediving.com/koh-tao-dive-sites/twins-dive-site/), [Dive Happy – Koh Tao Dive Sites](https://divehappy.com/thailand/koh-tao-dive-sites-twins-japanese-gardens-mango-bay/). Last updated 2026-08-09.*

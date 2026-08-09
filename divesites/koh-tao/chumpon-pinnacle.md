@@ -63,4 +63,4 @@ Currents can develop quickly at this exposed offshore site. If swept off the str
 Whale shark silhouettes in the open blue water require fast shutter speeds and wide angle. Dense barracuda schools spiralling above the pinnacle are the iconic wide-angle shot. Anemone fields with pink anemonefish suit macro or close-focus wide-angle.
 
 ---
-*Sources: [Black Turtle Dive – Chumphon Pinnacle](https://www.blackturtledive.com/koh-tao-dive-sites/chumphon-pinnacle/), [Dive Happy – Chumphon Pinnacle](https://divehappy.com/thailand/koh-tao-dive-sites-chumphon-pinnacle/), [Nava Scuba – Chumphon Pinnacle](https://www.navascuba.com/koh-tao-dive-sites/chumphon-pinnacle/). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Chumphon Pinnacle](https://www.blackturtledive.com/koh-tao-dive-sites/chumphon-pinnacle/), [Dive Happy – Chumphon Pinnacle](https://divehappy.com/thailand/koh-tao-dive-sites-chumphon-pinnacle/), [Nava Scuba – Chumphon Pinnacle](https://www.navascuba.com/koh-tao-dive-sites/chumphon-pinnacle/). Last updated 2026-08-09.*

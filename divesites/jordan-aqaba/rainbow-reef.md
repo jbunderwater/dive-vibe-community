@@ -30,4 +30,4 @@ During daytime dives, documented marine life includes parrotfish, butterflyfish,
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Arab Divers - Rainbow Reef](https://www.arabdivers.jo/en/activities/dive-sites/rainbow-reef), [Coral Garden Diving Center - Rainbow Reef](https://www.dive-inaqaba.com/rainbow-reef/), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Jordan Travel - Rainbow Reef](https://jordan-travel.com/rainbow-reef-aqaba/). Last updated 2026-06-10.*
+*Sources: [Arab Divers - Rainbow Reef](https://www.arabdivers.jo/en/activities/dive-sites/rainbow-reef), [Coral Garden Diving Center - Rainbow Reef](https://www.dive-inaqaba.com/rainbow-reef/), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Jordan Travel - Rainbow Reef](https://jordan-travel.com/rainbow-reef-aqaba/). Last updated 2026-08-09.*

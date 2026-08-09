@@ -31,7 +31,7 @@ First Bay South (at these coordinates, ~29.44°N) features an undulating, kaleid
 
 ## Marine Life
 
-Schools of damsels, parrotfish, butterflyfish, fusiliers, and surgeonfish populate the reef. Seamounts covered in black corals attract larger fish seeking feeding grounds. Pelagics cruise the outer reef. Fire coral is present near the entry point — gloves are recommended. Eagle rays and occasional reef sharks have been reported in deeper sections. The site is popular for night diving, when octopi and other invertebrates emerge.
+Schools of sergeant majors, damsels, parrotfish, butterflyfish, fusiliers, and surgeonfish populate the reef. Seamounts covered in black corals attract larger fish seeking feeding grounds. Pelagics cruise the outer reef, and occasional sharks have been reported — independently confirmed by more than one local operator in this pass. Fire coral is present near the entry point — gloves are recommended. Note: a "whale shark" sighting mentioned in one earlier source has not been corroborated by any operator reviewed in this or the prior QA pass and is not treated as a confirmed sighting for this site. The site is popular for night diving, when octopi and other invertebrates emerge.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Strong downward currents can develop suddenly near sandy channels in the deeper 
 Excellent for reef fish schooling shots and macro work on coral heads. The black coral seamount offers dramatic wide-angle subjects. Night dive photography of invertebrates is a highlight.
 
 ---
-*Sources: [Arab Divers - First Bay South](https://www.arabdivers.jo/en/activities/dive-sites/first-bay-south), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Red Sea Dive Center - Aqaba Dive Sites](https://redseadivecenter.com/aqaba-dive-sites/), [Sea Wonders - First Bay Dive Site](https://seawondersdivingcenter.com/first-bay-dive-site/). Last updated 2026-06-10.*
+*Sources: [Arab Divers - First Bay South](https://www.arabdivers.jo/en/activities/dive-sites/first-bay-south), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Red Sea Dive Center - Aqaba Dive Sites](https://redseadivecenter.com/aqaba-dive-sites/), [Sea Wonders - First Bay Dive Site](https://seawondersdivingcenter.com/first-bay-dive-site/). Last updated 2026-08-09.*

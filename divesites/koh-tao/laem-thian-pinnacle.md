@@ -34,7 +34,7 @@ The site features large boulders creating natural archways and caverns with sunl
 
 ## Marine Life
 
-Confirmed species include yellow-tail barracuda in large schools, blue-ring angelfish, butterflyfish, long-fin bannerfish, anemonefish, banded pipefish, blue-spotted stingrays, titan triggerfish, harlequin sweetlips, orange-spine unicorn fish, bumphead parrotfish, moray eels, groupers, batfish, and blacktip reef sharks. Jenkins whiprays have also been sighted at the site.
+Confirmed species include yellow-tail barracuda in large schools, blue-ring angelfish, butterflyfish, long-fin bannerfish, anemonefish, banded pipefish, blue-spotted stingrays, titan triggerfish, harlequin sweetlips, orange-spine unicorn fish, bumphead parrotfish, moray eels, groupers, batfish, and blacktip reef sharks.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ The east coast is more exposed during the southwest monsoon (May–October) — 
 Sunlight-penetrating swim-through shots are the defining image of Laem Thian — position inside an arch and capture the exit opening with sunbeams filtering through. Schools of barracuda above the boulders in blue water make compelling wide-angle subjects.
 
 ---
-*Sources: [Black Turtle Dive – Laem Thian](https://www.blackturtledive.com/koh-tao-dive-sites/laem-thian/), [Funky Turtle – Laem Thian](https://www.thefunkyturtle.com/koh-tao-fun-diving/laem-thian-dive-site/), [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Laem Thian](https://www.blackturtledive.com/koh-tao-dive-sites/laem-thian/), [Funky Turtle – Laem Thian](https://www.thefunkyturtle.com/koh-tao-fun-diving/laem-thian-dive-site/), [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/). Last updated 2026-08-09.*

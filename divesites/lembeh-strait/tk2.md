@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## TK2
 
-TK2 is the second site in the Teluk Kembahu series — three adjacent muck diving locations along the Lembeh Island shore of the Lembeh Strait, North Sulawesi, Indonesia. Situated a short distance from TK1, TK2 covers a slightly shallower section of sand slope with a somewhat different critter composition, making it a natural continuation dive when the TK sites are visited in sequence on the same day.
+TK2 is the second site in the Teluk Kembahu series — three adjacent muck diving locations along the Bitung (mainland Sulawesi) shore of the Lembeh Strait, North Sulawesi, Indonesia, opposite the resort strip on Lembeh Island. Situated a short distance from TK1, TK2 covers a slightly shallower section of sand slope with a somewhat different critter composition, making it a natural continuation dive when the TK sites are visited in sequence on the same day.
 
 ## Overview
 
@@ -59,4 +59,4 @@ Standard Lembeh muck diving precautions apply. Avoid contact with the sandy bott
 TK2's frogfish are among the site's top photographic subjects — finding a well-positioned specimen against a clean background and shooting with a 60mm or 100mm macro lens produces excellent results. Coconut octopus provide behavioural photography opportunities as they manipulate shells and move across the sand. The flamboyant cuttlefish, when found, is one of the most sought-after macro subjects in all of Indonesia and demands patience and a fast shutter speed to capture its shifting colour patterns.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving/), [Lembeh Resort – Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [ZuBlu – Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-06-14.*
+*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving/), [Lembeh Resort – Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [ZuBlu – Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-08-09.*

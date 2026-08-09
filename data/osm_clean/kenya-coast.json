@@ -12,8 +12,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "africakenyasafaris.com,scubago.com,oceantribe.co",
-      "last_qa_date": "2026-06-10",
-      "notes": "Part of Kisite-Mpunguti Marine National Park. Coral reef sloping from 2m to 32m. Known for dolphin encounters and reef fish. Re-audited 2026-06-10: generic marine life claims retained only where regionally confirmed."
+      "last_qa_date": "2026-08-09",
+      "notes": "Part of Kisite-Mpunguti Marine National Park. Coral reef sloping from 2m to 32m. Known for dolphin encounters and reef fish. DEEP QA 2026-08-09: re-pulled all 3 sources. scubago.com confirms '45 species of coral and over 360 species of fish' (matches prior text). However, the official KWS park page (kws.go.ke) states approximately 252 reef fish species and 56 coral genera -- a materially different count. Corrected markdown attribution: the 45/360 figures come from scubago.com, NOT 'KWS documentation' as previously (incorrectly) stated, and the KWS/scubago.com conflict is now flagged in the markdown rather than presented as a single settled figure."
     }
   },
   {
@@ -29,8 +29,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "diveworldwide.com,diveinkenya.com,kenyapeaks.com",
-      "last_qa_date": "2026-06-10",
-      "notes": "Watamu Marine National Park, established 1968. Park depth range 5-24m. Named sites include Turtle Reef, The Canyon, Moray Reef/Canyon, Mida Wreck. Depth updated from 25m to 24m based on documented dive site depths. Re-audited 2026-06-10."
+      "last_qa_date": "2026-08-09",
+      "notes": "Watamu Marine National Park, established 1968. Park depth range 5-24m. Named sites include Turtle Reef, The Canyon, Moray Reef/Canyon, Mida Wreck. DEEP QA 2026-08-09: re-pulled kenyapeaks.com (confirms 1968 gazettement, 'over 600 documented fish species', 'over 150 species of hard and soft corals' -- matches prior text exactly). diveinkenya.com (Aqua Ventures) blocked direct re-fetch (403) but the same 600/150 figures were independently corroborated via search aggregation credited to Aqua Ventures. diveworldwide.com re-fetch returned park-wide/regional figures inconsistent with the two other sources (it appears to describe a broader surrounding-sea figure, not the park itself) -- retained as a source for park history/season info only, not for species counts. No corrections required to prior figures."
     }
   },
   {
@@ -46,8 +46,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "scubatravel.co.uk,dianimarine.com,oceantribe.co",
-      "last_qa_date": "2026-06-10",
-      "notes": "Fringing reef parallel to Diani Beach. 30+ named dive sites in area including Galu Reef, Kinondo Reef, Papa Mashilingi, MV Alpha Funguo Wreck. Re-audited 2026-06-10: whale shark claim retained (Oct-Mar season confirmed by multiple sources)."
+      "last_qa_date": "2026-08-09",
+      "notes": "Fringing reef parallel to Diani Beach. 30+ named dive sites in area including Galu Reef, Kinondo Reef, Papa Mashilingi, MV Alpha Funguo Wreck. DEEP QA 2026-08-09: re-confirmed Papa Mashilingi (12m avg, drift, named for Swahili 'whale shark') and Galu Reef (ghost pipefish/seahorse/frogfish/leaf scorpionfish, 9-24m) as genuine named sites via divingthecrab.com, oceantribe.co and PADI listings. MV Alpha Funguo: xtremespots.com confirms 48m length matching prior text, but attributes the scuttling to 'Crab Diving Center' while prior text said 'Diani Marine' -- operator conflict now flagged in markdown rather than asserted as fact. Whale shark season claim (Oct-Mar) reconfirmed by multiple independent sources."
     }
   },
   {
@@ -62,9 +62,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,xtremespots.com,oceantribe.co",
-      "last_qa_date": "2026-06-10",
-      "notes": "Vessel built 1965 at Hatlo Verksted SA, Ulsteinvik, Norway. Length: Wikipedia gives 75m/246ft; dive operator sources cite 77m/252ft. Displacement: 495 long tons (Wikipedia). Scuttled 27 Oct 2002 (Wikipedia) / 25 Oct 2002 (Ocean Tribe). Rests upright at 30m, shallowest at 12m. Confirmed marine life: groupers, barracuda, moray eels, Napoleon wrasse, big-eye snapper (xtremespots.com, divekenya.com). Depth conflict flagged in markdown. Re-audited 2026-06-10."
+      "validation_source": "en.wikipedia.org,xtremespots.com,divekenya.com",
+      "last_qa_date": "2026-08-09",
+      "notes": "Vessel built 1965 at Hatlo Verksted SA, Ulsteinvik, Norway. Length: Wikipedia gives 75m/246ft; xtremespots.com cites 77m/252ft -- conflict re-confirmed on re-audit, both sources still live and unchanged. Displacement: 495 long tons (Wikipedia). Name history Dania(1965-76)->Kviksholm(1976-81)->Rodriguez(1981-87)->Dania(1987-2002) cross-confirmed via Wikipedia and Wikidata (same claim, treated as one lineage not independent corroboration). Scuttled 27 Oct 2002 (Wikipedia, cross-confirmed by independent aggregator greatestdivesites.com). Rests upright at 30m (Wikipedia, xtremespots.com); divekenya.com gives a depth RANGE of 12-32m rather than a fixed 30m max -- flagged as a depth conflict in markdown. DEEP QA 2026-08-09: added 'batfish' to marine life list, confirmed site-specific by divekenya.com. Dropped oceantribe.co as a cited source (did not independently confirm wreck facts on re-check) and substituted divekenya.com, which was already used as a marine-life source and independently corroborates depth and species. Groupers, barracuda, moray eels, Napoleon wrasse, big-eye snapper remain confirmed by xtremespots.com; groupers/barracuda/moray eels also independently confirmed by divekenya.com."
     }
   },
   {
@@ -80,8 +80,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "xtremespots.com,scubatravel.co.uk,sojournsafaris.co.ke",
-      "last_qa_date": "2026-06-10",
-      "notes": "CORRECTED site_type reef->drift (strong tidal currents, drop-off to 35m, pelagic species). CORRECTED depth 15m->23m (sources confirm 23m/75ft max depth in creek). CORRECTED difficulty Intermediate->Advanced (multiple sources require drift dive experience). Mtwapa Drop Off drops from 10m to 35m with strong currents. Marine life confirmed: barracuda, black trevally, kingfish, spiny lobsters, potato grouper. Re-audited 2026-06-10."
+      "last_qa_date": "2026-08-09",
+      "notes": "CORRECTED site_type reef->drift (strong tidal currents, drop-off to 35m, pelagic species). CORRECTED depth 15m->23m (sources confirm 23m/75ft max depth in creek). CORRECTED difficulty Intermediate->Advanced. DEEP QA 2026-08-09: re-fetched xtremespots.com directly -- every factual claim in the markdown (23m/75ft max depth, 12m visibility, 24-30C, great & yellowtail barracuda, black trevally, kingfish, spiny lobster on 10m shelf, potato grouper, sea turtles, 'drift diver' difficulty rating) reconfirmed verbatim, no changes needed. sojournsafaris.co.ke did not mention Mtwapa Creek directly in this pass (page content now focuses on Nyali) -- retained as a source for the destination-level 'best deep sea diving sites' framing only."
     }
   },
   {
@@ -97,8 +97,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "scubatravel.co.uk,sojournsafaris.co.ke,divekenya.com",
-      "last_qa_date": "2026-06-10",
-      "notes": "CORRECTED site_type wall->reef: multiple sources consistently describe Nyali as a reef dive, not a wall dive. CORRECTED difficulty Intermediate->Beginner: described as 'all levels will enjoy' and beginner-friendly by multiple sources. Hard coral with anemone gardens. Confirmed marine life: anemonefish, eels, turtles, reef fish. Re-audited 2026-06-10."
+      "last_qa_date": "2026-08-09",
+      "notes": "CORRECTED site_type wall->reef: multiple sources consistently describe Nyali as a reef dive, not a wall dive. CORRECTED difficulty Intermediate->Beginner. DEEP QA 2026-08-09: re-fetched sojournsafaris.co.ke directly -- confirms 'moderate currents' and 'particularly favourable for beginner divers', eels, turtles, 'plethora of colourful fish species', and reef sharks as a possible encounter, matching prior text. No corrections required."
     }
   },
   {
@@ -112,10 +112,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "divesitedirectory.co.uk,scubatravel.co.uk,showcaves.com",
-      "last_qa_date": "2026-06-10",
-      "notes": "NOTE: The historic Shimoni Caves are terrestrial coral limestone caves (slave trade history) — NOT the dive site. The dive site near Shimoni involves underwater cave/cavern exploration. CORRECTED max depth 28m->20m (sources report sandy bottom at ~20m with chimney exit at 10m). CORRECTED difficulty Advanced->Intermediate (sources confirm suitable for intermediate divers). Confirmed marine life: groupers, snappers, eels inside caves. Marine park protections apply. Re-audited 2026-06-10."
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-08-09",
+      "notes": "VALIDATION DOWNGRADED on deep QA re-audit (2026-08-09). Of the 3 previously-cited sources: (1) divesitedirectory.co.uk no longer resolves (DNS failure, confirmed via direct curl -- domain appears dead); (2) a fresh re-fetch of scubatravel.co.uk's Kenya diving page contains NO mention of a Shimoni cave/cavern dive site at all; (3) showcaves.com only ever documented the TERRESTRIAL slave-trade caves, which the markdown itself already states are NOT the dive site -- so it never actually validated the underwater site's specifics. Widened search found one operator dive-site list (via sportifdive.co.uk, page now 404) that named 'Shimoni Caves' alongside Nyuli/Galu/Kisiwani/Kinondo/New Place, which is suggestive that a real named site exists, but could not be re-fetched directly to confirm depth/chimney details in this pass, and most other general-audience sources conflate this dive site with the terrestrial tourist caves. Cannot currently support the 3-independent-source standard for the SPECIFIC depth/chimney/marine-life claims. Numeric fields (depth, difficulty, site_type) left unchanged pending a source that can confirm them -- do not re-mark validated=true without a fresh, live, dive-specific source."
     }
   },
   {
@@ -131,8 +131,8 @@
       "addedBy": "fill_new_destinations",
       "validated": false,
       "validation_source": "",
-      "last_qa_date": "2026-06-10",
-      "notes": "VALIDATION REMOVED: No independent source found confirming 'Sita Reef' as a named dive site. Not mentioned in Kisite-Mpunguti operator pages, ScubaBoard Kenya threads, or dive databases. Coordinates place it near/south of Kisite Island. Cannot validate with fewer than 3 independent sources. Re-audited 2026-06-10."
+      "last_qa_date": "2026-08-09",
+      "notes": "VALIDATION REMOVED: No independent source found confirming 'Sita Reef' as a named dive site. Not mentioned in Kisite-Mpunguti operator pages, ScubaBoard Kenya threads, or dive databases. Coordinates place it near/south of Kisite Island. Cannot validate with fewer than 3 independent sources. RE-AUDITED 2026-08-09: repeated targeted web search specifically for 'Sita Reef' + Kisite/Kenya again found no dive-specific reference; named sites confirmed in the same search (Outer Kisite, Inner Kisite, Kisite Point, Kisite Garden, Kisite West, Nyuli, Secret Place, Dolphin Point) do not include a 'Sita Reef'. Status unchanged, unresolved."
     }
   },
   {
@@ -148,8 +148,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "heregoeskenya.com,marcopolosafaris.com,4x4africa.com",
-      "last_qa_date": "2026-06-10",
-      "notes": "Funzi Island confirmed as diving base with fringing reef and proximity to Kisite-Mpunguti (25-min speedboat). Known for sea turtle nesting (green, hawksbill, leatherback). Diving accessed via boat from Shimoni or Msambweni. Mangrove channels also accessible. Re-audited 2026-06-10: specific dive site descriptions limited — no site-specific marine life sources beyond regional fauna. Validation retained at destination level (3 geographic/travel sources confirm site exists and diving available)."
+      "last_qa_date": "2026-08-09",
+      "notes": "Funzi Island confirmed as diving base with fringing reef and proximity to Kisite-Mpunguti (25-min speedboat). DEEP QA 2026-08-09: re-fetched heregoeskenya.com directly -- confirms green (resident nester), hawksbill, olive ridley, loggerhead and leatherback turtles all specifically attributed to Funzi's waters (leatherback described as rare, 'once-in-a-decade'), and reconfirms the 25-minute speedboat distance to Kisite. Expanded markdown turtle list from 3 to 5 species based on this direct site-specific confirmation. Humpback whale sighting window reconfirmed as 'occasional' July-December. No site-specific underwater dive survey found; diving/reef claims remain at destination level per prior QA."
     }
   },
   {
@@ -165,8 +165,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "diveinkenya.com,ajkenyasafaris.com,scubatravel.co.uk",
-      "last_qa_date": "2026-06-10",
-      "notes": "'Tewa' is confirmed Swahili name for giant grouper. Caves near mouth of Mida Creek within Watamu Marine Park. CORRECTED depth 18m->24m (sources confirm 8-24m range). CORRECTED difficulty Intermediate->Beginner (multiple sources: 'suitable for all levels of experience'). Confirmed marine life: giant groupers (up to 200kg/800lbs confirmed by multiple sources), lionfish, blue-spotted ribbontail rays. Re-audited 2026-06-10."
+      "last_qa_date": "2026-08-09",
+      "notes": "'Tewa' is confirmed Swahili name for giant grouper. Caves near mouth of Mida Creek within Watamu Marine Park. CORRECTED depth 18m->24m. CORRECTED difficulty Intermediate->Beginner. DEEP QA 2026-08-09: re-fetched ajkenyasafaris.com directly -- confirms 1968 park gazettement and a giant-grouper-inhabited cave feature (referred to there as 'Rock Cod Caves', a plausible English rendering of the same feature since 'rock cod' and 'grouper' are common names for the same fish family) with individuals reported at approximately 200 lbs (~90kg) at that source, versus other sources citing 'six foot, 200kg' or 'up to 800lbs (~360kg)' groupers at Tewa specifically. Grouper weight range now flagged as a source conflict in markdown (90-360kg) rather than a single asserted 200kg figure. Chimney ascent to 10m and cave-mouth grouper/snapper population reconfirmed."
     }
   }
 ]

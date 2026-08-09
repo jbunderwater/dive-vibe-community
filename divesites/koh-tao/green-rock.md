@@ -32,7 +32,7 @@ Green Rock sits off the northwest coastline of Koh Nang Yuan and is one of Koh T
 
 ## Marine Life
 
-Confirmed species include titan triggerfish and yellow-margin triggerfish (particularly prominent during nesting season June–August), hawksbill and green sea turtles, banded sea kraits (frequently seen in the boulder channels), yellow-tail barracuda in large schools, chevron barracuda, dancing Durban shrimp, nudibranchs, and various angelfish and butterflyfish. Occasional whale shark sightings are reported seasonally. Blue-ring angelfish are associated with the swim-through entrances in multiple operator descriptions.
+Confirmed species include titan triggerfish and yellow-margin triggerfish (Black Turtle Dive places their nesting season in April–May, when both species become territorial around the trigger pits), hawksbill and green sea turtles, banded sea kraits (frequently seen in the boulder channels), yellow-tail barracuda and chevron barracuda in large schools, Jenkins whiprays, dancing Durban shrimp, ghost shrimp, banded and Jann's pipefish, xeno crabs, harlequin sweetlips, and blue-ring angelfish (seen near the swim-through entrances). Whale sharks are reported passing the site seasonally.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Boat from Koh Tao (approximately 10 minutes). Entry via back roll. The complex t
 
 - Advanced Open Water certification minimum — complex topography and variable current
 - Do not enter swim-throughs alone; always have a buddy and a confirmed exit
-- During June–August nesting season, maintain a wide arc around titan triggerfish nests (circular depressions in sand)
+- During April–May nesting season, maintain a wide arc around titan and yellow-margin triggerfish nests (circular depressions in sand)
 - Multiple dives are needed to explore the full extent of the boulder system
 - Combine with Japanese Garden for a varied Koh Nang Yuan diving day
 
@@ -59,4 +59,4 @@ Titan triggerfish attack without warning during nesting season — their territo
 Swim-through silhouette shots are the defining image of Green Rock — position a diver in the exit opening and shoot from inside the passage. Banded sea kraits in the boulder channels make atmospheric subjects. The complex boulder topography creates compelling wide-angle compositions with dramatic light angles.
 
 ---
-*Sources: [Black Turtle Dive – Green Rock](https://www.blackturtledive.com/koh-tao-dive-sites/green-rock/), [Big Blue Diving – Green Rock](https://www.bigbluediving.com/blog/koh-tao-dive-sites-red-rock-white-rock-green-rock/), [Dive Happy – Koh Tao](https://divehappy.com/). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Green Rock](https://www.blackturtledive.com/koh-tao-dive-sites/green-rock/), [Big Blue Diving – Green Rock](https://www.bigbluediving.com/blog/koh-tao-dive-sites-red-rock-white-rock-green-rock/), [Dive Happy – Green Rock, White Rock, Shark Island](https://divehappy.com/thailand/koh-tao-dive-sites-green-rock-white-rock-shark-island/). Last updated 2026-08-09.*

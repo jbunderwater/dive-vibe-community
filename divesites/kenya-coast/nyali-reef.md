@@ -49,4 +49,4 @@ Boat departure from Nyali/Bamburi area operators, including Buccaneer Diving bas
 Low-risk diving environment. Light to moderate current. Standard coral and sea urchin contact hazards. SMB required for ascent due to boat traffic.
 
 ---
-*Sources: [SCUBA Travel – Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [Sojourn Safaris – Kenya Coast Dive Sites](https://www.sojournsafaris.co.ke/best-deep-sea-diving-sites-kenyan-coast-mombasa/), [Dive Kenya](https://www.divekenya.com/location). Last updated 2026-06-10.*
+*Sources: [SCUBA Travel – Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [Sojourn Safaris – Kenya Coast Dive Sites](https://www.sojournsafaris.co.ke/best-deep-sea-diving-sites-kenyan-coast-mombasa/), [Dive Kenya](https://www.divekenya.com/location). Re-audited 2026-08-09: sojournsafaris.co.ke re-fetched directly and reconfirmed moderate currents, beginner-friendly conditions, eels/turtles/reef fish and occasional reef sharks. Last updated 2026-08-09.*

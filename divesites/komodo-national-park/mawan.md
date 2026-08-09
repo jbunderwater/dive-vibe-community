@@ -57,4 +57,4 @@ Boat access from Labuan Bajo day trip or liveaboard. Giant stride entry. Exit vi
 Current can intensify significantly during spring tides. Follow the guide's signals and stay close to the sandy bottom where flow is reduced. Always carry an SMB.
 
 ---
-*Sources: [Dragon Dive Komodo – Mawan Dive Site](https://dragondivekomodo.com/mawan-dive-site-komodo/), [La Galigo Liveaboard – Mawan](https://www.lagaligoliveaboard.com/diving/komodo/dive-site/mawan/), [Wet Frog Divers – Komodo Dive Spots](https://www.wetfrogdivers.com/scuba-diving-komodo/dive-spots-komodo/). Last updated 2026-06-10.*
+*Sources: [Dragon Dive Komodo – Mawan Dive Site](https://dragondivekomodo.com/mawan-dive-site-komodo/), [La Galigo Liveaboard – Mawan](https://www.lagaligoliveaboard.com/diving/komodo/dive-site/mawan/), [Wet Frog Divers – Komodo Dive Spots](https://www.wetfrogdivers.com/scuba-diving-komodo/dive-spots-komodo/). Last updated 2026-08-09.*

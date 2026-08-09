@@ -11,8 +11,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "tosea.net,cortezclub.com,lapazdivers.com,dan.org",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "tosea.net,cortezclub.com,lapazdivers.com,dan.org,uwphotographyguide.com",
+      "last_qa_date": "2026-08-09",
+      "qa_note": "Re-audit 2026-08-09: Re-pulled tosea.net directly - colony figure of ~600 sea lions with ~170 pups/year and Prof. Hernandez-Camacho's 1990-present study reconfirmed verbatim. dan.org confirms sea lions and green turtles. uwphotographyguide.com confirms seahorse and jawfish sightings at this specific site. No factual changes required; content held up under re-verification."
     }
   },
   {
@@ -20,15 +21,16 @@
     "lat": 24.657,
     "lon": -110.1256,
     "depth": 40,
-    "site_type": "seamount",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "en.wikipedia.org,padi.com,tours.clubcantamar.com,uwphotographyguide.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "en.wikipedia.org,padi.com,tours.clubcantamar.com,uwphotographyguide.com,cortezclub.com,seawatch.org,tosea.net,thediveglobe.com",
+      "last_qa_date": "2026-08-09",
+      "qa_note": "Re-audit 2026-08-09: (1) DATA FIX: site_type corrected from invalid 'seamount' to 'pinnacle' (seamount is not a valid site_type enum value per CLAUDE.md; three isolated peaks match the pinnacle definition). (2) Re-fetched tours.clubcantamar.com directly - it names ONLY hammerhead sharks, not the full species list previously attributed to it. Re-fetched cortezclub.com/dive-sites and padi.com/dive-site/mexico/el-bajo-marisla - together confirm hammerhead sharks, amberjacks, tuna, octopus, Panamic green moray (colony of 50+), whale sharks, giant Pacific manta rays, dolphins, turtles. uwphotographyguide.com additionally confirms wahoo and 'other sharks' at El Bajo specifically. REMOVED as unconfirmed at this specific site: silky sharks, eagle rays, large schools of trevally (no source names these for El Bajo). (3) Added seawatch.org and tosea.net (Dr. Peter Klimley hammerhead research, magnetic-navigation findings, and documented population decline since the mid-1990s) - replaced unsourced 'mysterious clockwise dance' filler language with this cited research. (4) FLAGGED CONFLICT: seawatch.org describes schools as predominantly juvenile males; tosea.net's shark-highway article describes gatherings as predominantly females in dominance contests. Both documented in description rather than picking one."
     }
   },
   {
@@ -43,8 +45,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "padi.com,dan.org,cortezclub.com,math.ucr.edu",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "padi.com,dan.org,cortezclub.com,math.ucr.edu,uwphotographyguide.com",
+      "last_qa_date": "2026-08-09",
+      "qa_note": "Re-audit 2026-08-09: Re-fetched dan.org/alert-diver/article/la-paz, padi.com/dive-site/mexico/swanee-reef, and uwphotographyguide.com directly. uwphotographyguide.com specifically confirms damselfish mating behavior at Swanee as a macro highlight. Confirmed for this specific site: coral hawkfish, starry groupers, juvenile king angelfish, Cortez angelfish, octopus, moray eels, Mexican goatfish, sea fans, encrusting hard coral, nudibranchs, rays, sea lions, turtles, dolphins, whales, sharks, sea birds. REMOVED as unconfirmed at Swanee specifically: sardines, mackerel, snappers, sergeant majors, triggerfish, grunts, garden eels (these species were not attributed to Swanee Reef by either source; DAN attributes nudibranchs and garden eels to the separate La Reinita site, not Swanee)."
     }
   },
   {
@@ -60,8 +63,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "math.ucr.edu,padi.com,bajadiving.com,dan.org",
-      "last_qa_date": "2026-06-14",
-      "qa_note": "Sinking year conflict: PADI cites June 19 1975; UCR primary account cites June 1976. Both documented in description."
+      "last_qa_date": "2026-08-09",
+      "qa_note": "Re-audit 2026-08-09: Re-fetched math.ucr.edu primary account and bajadiving.com/la-paz directly. bajadiving.com independently states the Salvatierra 'sank in 1976', reinforcing the UCR account. Sinking-year conflict persists: three independent sources (UCR, Baja Diving, and the Hurricane Liza timeline) support 1976; PADI's database is the lone source for June 19, 1975. Description updated to reflect the 3-vs-1 source split rather than treating it as an even split. Length (320ft/97m x 50ft beam), LST conversion, and Naviera del Pacifico/Ruffo family ownership reconfirmed via a Baja maritime-history source (noticalifornia.com attempted but returned no retrievable content - not used)."
     }
   },
   {
@@ -77,7 +80,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "diveinlapaz.com,cortezclub.com,bajadiving.com,dan.org",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-09",
+      "qa_note": "Re-audit 2026-08-09: Re-fetched bajadiving.com/isla-espiritu-santo directly. Found that the prior description had BLENDED two distinct named operator sites along this stretch of wall - Los Muellecitos (northernmost point, ~75ft wall, mantas/moray eels/octopus/sea fans) and Rocas Tintorera (~70ft, morays/cabrilla/Panama graysby/snapper/octopus/king angelfish/parrotfish) - into one undifferentiated species list. Rewrote to attribute species to the correct named site within this generic OSM-derived 'The Wall' entry. Removed unconfirmed 'surgeonfish' claim previously attributed to Cortez Club (not found on re-fetch)."
     }
   },
   {
@@ -92,8 +96,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "cortezclub.com,cabotrek.com,caboprivateguide.com,dan.org",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "cortezclub.com,cabotrek.com,caboprivateguide.com,dan.org,uwphotographyguide.com",
+      "last_qa_date": "2026-08-09",
+      "qa_note": "Re-audit 2026-08-09: Re-fetched dan.org, caboprivateguide.com/blog/manta-rays-la-reina-dive-cerralvo-island, and uwphotographyguide.com directly. Confirmed: sea lions (~40), gorgonian sea fans/soft corals, giant hawkfish, zebra moray, blacknosed butterflyfish, blue-lined snapper, barracuda, milkfish, chromis, sergeant majors, Mexican hogfish, nudibranchs, blennies, turtles, schools of jacks, large bait balls, giant Pacific manta rays (seasonal). caboprivateguide.com independently confirms mantas 'disappeared from the area completely' in 2003 with a 'slow comeback' in recent years - corroborates the prior '15-year hiatus' claim with a named source and date. REMOVED as unconfirmed at La Reina specifically: green moray, jeweled moray, tuna, skipjack, yellowtail, wahoo, dorado, hammerhead sharks (hammerheads are confirmed at Las Animas, not La Reina, by the sources re-checked)."
     }
   },
   {
@@ -108,8 +113,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "thecabosun.com,padi.com,cortezclub.com,seaofcortez.guide",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "thecabosun.com,padi.com,cortezclub.com,seaofcortez.guide,bajadiving.com",
+      "last_qa_date": "2026-08-09",
+      "qa_note": "Re-audit 2026-08-09: Re-fetched thecabosun.com (coral restoration figures reconfirmed verbatim: 7,500+ colonies transplanted, ~6,000 in nursery, Efecto Arena), padi.com/dive-site/mexico/san-rafaelito-lighthouse-lobos-rock, seaofcortez.guide, and bajadiving.com/la-paz directly. Sea lion colony size is now a THREE-way conflict, not two: ~40-50 (La Paz Divers), ~80 (PADI), ~140 (Sea of Cortez Guide) - all three now documented. Confirmed species: parrotfish (including sleeping parrotfish on night dives), rays, octopus, sea lions, white tip sharks (padi.com - newly added). REMOVED as unconfirmed: damselfish, various wrasse species, 'eagle rays' specifically (only generic 'rays' confirmed)."
     }
   },
   {
@@ -125,7 +131,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "caboprivateguide.com,divers-guide.com,dan.org,padi.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-09",
+      "qa_note": "Re-audit 2026-08-09: Re-fetched caboprivateguide.com/blog/la-paz-fang-ming-wreck and divers-guide.com/en/fang-ming-wreck directly. Ship length (55-56m), sinking date (Nov 18, 1999), seizure date (April 18, 1995), migrant count (88 men, 7 women), and depth (22m/72ft, majority-source figure) all reconfirmed unchanged. Marine life reconfirmed: green sea turtles, angelfish, parrotfish, groupers, snappers, sea lions (occasional), black coral (divers-guide.com). No hallucinations found; no changes to marine life list required."
     }
   },
   {
@@ -141,8 +148,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "nautilusliveaboards.com,uwphotographyguide.com,cortezclub.com",
-      "last_qa_date": "2026-06-14",
-      "qa_note": "Only 3 sources identified; specific depth data not confirmed by independent sources — 28m retained from prior validation."
+      "last_qa_date": "2026-08-09",
+      "qa_note": "Re-audit 2026-08-09: Re-fetched nautilusliveaboards.com/2020/10/30/diving-las-animas and uwphotographyguide.com directly. Only hammerhead sharks (~30 on a single dive, cleaning-station behavior), a sea lion colony, and 'schools of jacks and lots of reef fish' are actually named for Las Animas by these sources. REMOVED as unconfirmed at this specific site (previously presented as 'confirmed encounters' without source support): eagle rays, tuna, sea turtles, octopus, giant Pacific manta rays, whale sharks. Depth (28m) remains unconfirmed by any independent source - retained from prior validation per existing note. Still only 3 distinct source domains identified for this site; left as previously validated per instructions rather than padding with weak sources, but content was corrected to remove unsupported marine-life claims."
     }
   },
   {
@@ -158,7 +165,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "bajadiving.com,cortezclub.com,cabotrek.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-09",
+      "qa_note": "Re-audit 2026-08-09: Re-fetched bajadiving.com/isla-cerralvo directly. Found that the prior description attributed species belonging to the separate, nearby La Reina/La Reynita site group (large groupers, sea fans/gorgonians, brain corals, conger/garden eels) to this 'La Punta Norte' (Isla Cerralvo North) entry. bajadiving.com attributes only sea turtles, Mexican barracuda, moray eels, and sergeant majors to La Punta Norte itself, within a maze-like 60ft/18m reef. Rewrote Marine Life to remove the misattributed species and to explicitly note La Reina is a separate, already-documented site in this database. Also removed unconfirmed 'occasional pelagic passes by tuna, wahoo, dorado, and hammerhead sharks' claim for this specific site."
     }
   }
 ]

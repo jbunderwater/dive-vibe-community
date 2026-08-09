@@ -22,4 +22,4 @@ A protected bay on the south side of Padar offering sheltered reef diving with g
 - **Maximum Depth**: 20 meters
 
 ---
-*Description based on regional diving characteristics for Padar Bay. No site-specific sources with 3+ independent verifications found. Last updated 2026-06-10.*
+*Description based on regional diving characteristics for Padar Bay. No site-specific sources with 3+ independent verifications found. Last updated 2026-08-09.*

@@ -17,7 +17,9 @@ Blue Coral is a renowned reef dive site in southern Aqaba, named for the abundan
 
 ## Overview
 
-The site is defined by three main spurs of coral reef — finger reefs — that extend perpendicular from the shore, separated by sandy gullies and seagrass beds. The reefs begin at around 10 meters depth and extend down to 25 meters and beyond, with a maximum recreational depth of approximately 36 meters. Most divers cover just one finger reef per dive, saving the others for subsequent visits. Shore entry is via a flat rock slab that marks the entrance, with some sea urchin and rubble hazards requiring careful footing.
+The site is defined by three main spurs of coral reef — finger reefs — that extend perpendicular from the shore, separated by sandy gullies and seagrass beds. The reefs begin at around 10 meters depth and extend down to 25 meters and beyond; sources vary on the outer limit, with one giving a maximum recreational depth around 36–40 meters. Most divers cover just one finger reef per dive, saving the others for subsequent visits. Shore entry is via a flat rock slab that marks the entrance, with some sea urchin and rubble hazards requiring careful footing.
+
+Note: a different site also called "Blue Coral" is documented by at least one source at Tala Bay, roughly 10 metres from shore — this is a distinct, more southerly location and not the three-finger-reef site described here. The two appear to be a name collision between separate Aqaba dive sites.
 
 ## Site Information
 
@@ -31,7 +33,7 @@ The site is defined by three main spurs of coral reef — finger reefs — that 
 
 ## Marine Life
 
-Blue Coral is one of Aqaba's richest macro sites. Nudibranchs are particularly abundant here. Regular sightings include stingrays, hawksbill turtles, moray eels, seahorses (including thorny seahorses in the seagrass), crocodilefish, and frogfish. Reef fish schools of damselfish, fusiliers, and groupers are common. Black coral plants appear at depth, and the seagrass beds between the finger reefs host a variety of small invertebrates. Night dives reveal lionfish, octopus, and sleeping reef fish.
+Blue Coral is one of Aqaba's richest macro sites, particularly well known for nudibranchs. Confirmed by the matching operator sources for this exact site: turtles, moray eels, reef fish, and a wide range of invertebrates. Stingrays, seahorses, crocodilefish, and frogfish are commonly reported for a "Blue Coral" site in Aqaba, but these specific claims could not be independently re-confirmed against the three-finger-reef site at these coordinates in this pass — they may originate from the separately-located Tala Bay site of the same name, so they are noted here as commonly reported rather than confirmed. Reef fish schools of damselfish, fusiliers, and groupers are common. Black coral plants appear at depth, and the seagrass beds between the finger reefs host a variety of small invertebrates. Night dives reportedly reveal lionfish, octopus, and sleeping reef fish.
 
 ## Dive Profile
 
@@ -45,7 +47,6 @@ Shore entry over a flat rock slab. Watch for sea urchins in the entry zone. The 
 
 - Bring a macro lens — this is one of Aqaba's best nudibranch sites
 - Plan 2–3 separate dives to explore all three finger reefs fully
-- Check for seahorses in the seagrass beds during the descent
 - Excellent for night diving — the reef comes alive after dark
 
 ## Safety Considerations
@@ -57,4 +58,4 @@ Sea urchins are present at the entry point — appropriate footwear recommended.
 One of Aqaba's premier photography sites. The diverse coral formations, abundant nudibranchs, resting crocodilefish and frogfish, and frequent turtle sightings make it excellent for both macro and wide-angle work.
 
 ---
-*Sources: [Arab Divers - Blue Coral](https://www.arabdivers.jo/en/activities/dive-sites/blue-coral), [Coral Garden Diving Center - Blue Coral](https://www.dive-inaqaba.com/blue-coral-2/), [Aqaba Adventure Divers - Blue Coral](https://aqaba-diving.com/dive-sites-in-aqaba-red-sea/blue-coral-dive-site/). Last updated 2026-06-10.*
+*Sources: [Arab Divers - Blue Coral](https://www.arabdivers.jo/en/activities/dive-sites/blue-coral), [Coral Garden Diving Center - Blue Coral](https://www.dive-inaqaba.com/blue-coral-2/), [Wannadive - Blue Coral](https://www.wannadive.net/spot/Middle_East/Jordan/Aqaba/). Last updated 2026-08-09.*
