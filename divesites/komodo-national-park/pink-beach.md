@@ -59,4 +59,4 @@ The site is one of Komodo's safest. The main hazard is the entry and exit over t
 Pink Beach is visually exceptional above water — the pink sand, turquoise water, and dramatic volcanic hills behind make it one of the most photographed beaches in Indonesia. Underwater, the excellent natural light in the shallows creates clean, bright images without strobes for coral and fish portraits. Wide-angle to capture the reef landscape; macro for the critters. Shooting back toward the beach from underwater in 3–5 meters reveals the pink sand glowing above.
 
 ---
-*Sources: [Dive Komodo – Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-06-10.*
+*Sources: [Dive Komodo – Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-08-10.*

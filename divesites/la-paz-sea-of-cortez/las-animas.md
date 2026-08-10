@@ -54,4 +54,4 @@ Boat access from La Paz — the crossing is longer than most La Paz day-trip sit
 Strong, unpredictable currents are the primary hazard. Divers must have solid buoyancy control and open-water drift experience. The remote location means medical assistance is not immediately accessible. Always dive with a local guide who knows the site's current patterns and timing. Surface conditions on the crossing can be rough.
 
 ---
-*Sources: [Nautilus Adventures — Diving Las Animas](https://nautilusliveaboards.com/2020/10/30/diving-las-animas/), [Underwater Photography Guide — Diving La Paz](https://www.uwphotographyguide.com/diving-la-paz-baja), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/). Last updated 2026-06-14.*
+*Sources: [Nautilus Adventures — Diving Las Animas](https://nautilusliveaboards.com/2020/10/30/diving-las-animas/), [Underwater Photography Guide — Diving La Paz](https://www.uwphotographyguide.com/diving-la-paz-baja), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/). Last updated 2026-08-10.*

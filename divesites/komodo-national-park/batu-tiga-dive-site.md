@@ -59,4 +59,4 @@ The gaps between the three pinnacles can concentrate current into dangerous chan
 Three-dimensional pinnacle diving with fish schools in the water column above creates ideal wide-angle subjects. A 10–17mm fisheye or 14–24mm zoom captures the pinnacle faces with fish activity. Shark shots work well in the sandy channels where grey reef sharks rest or circle. Deploy strobes to bring back colour at depth.
 
 ---
-*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Komodo Dive Sites](https://dragondivekomodo.com/en/komodo-dive-sites/), [Divezone – Komodo](https://divezone.net). Last updated 2026-06-10.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Komodo Dive Sites](https://dragondivekomodo.com/en/komodo-dive-sites/), [Divezone – Komodo](https://divezone.net). Last updated 2026-08-10.*

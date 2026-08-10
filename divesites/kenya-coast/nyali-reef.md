@@ -19,9 +19,11 @@ Nyali Reef is a pleasant hard coral reef just north of Mombasa, suitable for all
 
 Nyali Reef lies off Nyali Beach within Mombasa Marine National Park, offering an accessible and diverse reef dive close to Mombasa's northern resort area. Buccaneer Diving, one of Kenya's most established dive centres, is based at Voyager Beach Resort in Nyali and serves this reef regularly. The reef is primarily hard coral with anemone gardens hosting resident clownfish, and crevices sheltering octopus, lionfish, and moray eels. The site is described by multiple sources as suitable for beginner and intermediate divers alike.
 
-**Correction from earlier data:** This site has been reclassified from `wall` to `reef` and difficulty corrected from Intermediate to Beginner. No independent source describes Nyali as a wall dive — sources consistently describe it as a sloping reef dive to 20 metres.
+**Correction from earlier data:** This site has been reclassified from `wall` to `reef` and difficulty corrected from Intermediate to Beginner. No independent source describes Nyali as a wall dive — sources consistently describe it as a sloping reef dive.
 
 The nearby MV Dania wreck (scuttled 2002, 10 minutes by boat) is commonly combined with a Nyali Reef dive for a full day of varied diving in the same area.
+
+**Re-audit note (2026-08-10):** SCUBA Travel was cited in an earlier pass but a full-text re-check confirms it does not mention Nyali anywhere on the page — removed and replaced with Hello Mombasa, which independently documents an 8–22 metre depth range and additional reef features (coral bommies, nudibranchs) not previously recorded here.
 
 ## Site Information
 
@@ -34,7 +36,7 @@ The nearby MV Dania wreck (scuttled 2002, 10 minutes by boat) is commonly combin
 
 ## Marine Life
 
-Confirmed species at Nyali Reef: moray eels in crevices throughout the reef slope, anemonefish in anemone gardens, octopus along the reef-sand interface, lionfish on coral outcrops, and sea turtles are reported as regular sightings. Reef sharks are occasionally sighted. The site supports colourful reef fish communities including angelfish and butterflyfish. No site-specific marine life survey data is available — these reports derive from operator descriptions and diver accounts.
+Confirmed species at Nyali Reef: moray eels in crevices throughout the reef slope, anemonefish in anemone gardens, octopus along the reef-sand interface, lionfish on coral outcrops, and sea turtles are reported as regular sightings. Reef sharks are occasionally sighted. The site supports colourful reef fish communities including angelfish and butterflyfish, plus nudibranchs and coral bommies documented by Hello Mombasa. No formal site-specific marine life survey data is available — these reports derive from operator descriptions and diver accounts.
 
 ## Dive Profile
 
@@ -49,4 +51,4 @@ Boat departure from Nyali/Bamburi area operators, including Buccaneer Diving bas
 Low-risk diving environment. Light to moderate current. Standard coral and sea urchin contact hazards. SMB required for ascent due to boat traffic.
 
 ---
-*Sources: [SCUBA Travel – Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [Sojourn Safaris – Kenya Coast Dive Sites](https://www.sojournsafaris.co.ke/best-deep-sea-diving-sites-kenyan-coast-mombasa/), [Dive Kenya](https://www.divekenya.com/location). Last updated 2026-06-10.*
+*Sources: [Sojourn Safaris – Kenya Coast Dive Sites](https://www.sojournsafaris.co.ke/best-deep-sea-diving-sites-kenyan-coast-mombasa/), [Dive Kenya](https://www.divekenya.com/location), [Hello Mombasa – Snorkeling & Diving in Mombasa](https://hellomombasa.com/snorkeling-diving-mombasa-underwater-ocean/). Last updated 2026-08-10.*

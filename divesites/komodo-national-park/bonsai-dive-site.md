@@ -57,4 +57,4 @@ Boat access. Giant stride entry. The variable currents mean entry timing is crit
 Bonsai carries significant hazard for divers without overhead environment training. Attempting the caves and swim-throughs without proper preparation risks entanglement, disorientation, and air emergencies. Extremely strong currents that develop with little warning are a documented feature. Only attempt with a guide who dives this site regularly. Advanced Open Water minimum; overhead training strongly recommended for swim-through sections.
 
 ---
-*Sources: [Komodo Dive Center – Dive Sites](https://www.komododivecenter.com/diving/dive-sites/), [Komodo National Park Official – Dive Sites](https://www.komodonationalpark.org/dive_sites.htm), [Komodo Dive Sites Guide Blog](http://komododivesitesguide.blogspot.com/). Last updated 2026-06-10.*
+*Sources: [Komodo Dive Center – Dive Sites](https://www.komododivecenter.com/diving/dive-sites/), [Komodo National Park Official – Dive Sites](https://www.komodonationalpark.org/dive_sites.htm), [Komodo Dive Sites Guide Blog](http://komododivesitesguide.blogspot.com/). Last updated 2026-08-10.*

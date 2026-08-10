@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Retak Larry
 
-Retak Larry is a muck dive site in the Lembeh Strait, North Sulawesi, Indonesia, named after Larry Smith — an American dive pioneer credited with opening the Lembeh Strait to the wider dive world in the mid-1990s and, in 1997, with leading the first documented video of the mimic octopus at this site. "Retak Larry" translates roughly as "Larry's crack" — the name was coined by his dive staff as a good-humoured reference to a wardrobe incident during a dive, which Smith reportedly accepted with characteristic humour. The site has become one of the best locations in the strait for finding multiple cephalopod species on a single dive.
+Retak Larry is a muck dive site in the Lembeh Strait, North Sulawesi, Indonesia, named after Larry Smith — an American dive pioneer credited with helping open the Lembeh Strait to the wider dive world in the 1990s. "Retak Larry" translates as "Larry's crack" — the name was coined by his dive staff as a good-humoured reference to a wardrobe mishap during a dive, which Smith reportedly accepted with good humour (per a tribute published on Wetpixel). The mimic octopus (a species first brought to scientific and diver attention from Sulawesi waters around 1998) is one of the site's headline species, and Retak Larry remains one of the best locations in the strait for finding multiple cephalopod species on a single dive. A previous claim that Larry Smith led "the first documented video of the mimic octopus" specifically at this site in 1997 could not be corroborated by the cited sources on re-check and has been removed — the Wetpixel tribute discusses the site's naming but does not make this claim.
 
 ## Overview
 
@@ -32,7 +32,7 @@ Retak Larry runs along a sand and rubble muck slope on the Bitung side of the st
 
 ## Marine Life
 
-Sources confirm hairy frogfish, coconut octopus, and wonderpus during daytime dives, with seahorses, ornate ghost pipefish, and peacock mantis shrimp also documented. The mimic octopus (Thaumoctopus mimicus) has a documented history at this site since Larry Smith's 1997 video work here. At night, stargazers buried in the sand and Bobbit worms emerge from their burrows. Blue-ringed octopus are present in the rubble zones and must be treated with extreme caution. No additional site-specific species lists were found beyond what sources confirmed above — the description does not attribute species to this site from regional lists.
+Sources confirm hairy frogfish, coconut octopus, and wonderpus during daytime dives, with seahorses, ornate ghost pipefish, and peacock mantis shrimp also documented. The mimic octopus (Thaumoctopus mimicus) is a headline species at this site, and Retak Larry is named for Larry Smith, a pioneering Lembeh dive guide — but no source confirms a specific date or claims his footage was the first video of the species ever made, so that historical detail has been removed rather than guessed at. At night, stargazers buried in the sand and Bobbit worms emerge from their burrows. Blue-ringed octopus are present in the rubble zones and must be treated with extreme caution.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Blue-ringed octopus are a genuine hazard at Retak Larry. Their venom causes para
 
 ## Photography
 
-Retak Larry is a behaviour photographer's site. Mimic octopus impersonating flatfish — spreading arms symmetrically and undulating across the sand — is one of the most sought-after sequences in muck diving photography, with a documented history going back to Larry Smith's original 1997 footage. Video is strongly recommended for capturing the full behaviour. For stills, a 60mm lens provides enough working distance to frame the animal in hunting posture without disturbing it. Wonderpus patterns are best captured under supplemental strobe light. Blue-ringed octopus showing threat-display blue rings should only be photographed from distance; never provoke the display.
+Retak Larry is a behaviour photographer's site. Mimic octopus impersonating flatfish — spreading arms symmetrically and undulating across the sand — is one of the most sought-after sequences in muck diving photography. Video is strongly recommended for capturing the full behaviour. For stills, a 60mm lens provides enough working distance to frame the animal in hunting posture without disturbing it. Wonderpus patterns are best captured under supplemental strobe light. Blue-ringed octopus showing threat-display blue rings should only be photographed from distance; never provoke the display.
 
 ---
-*Sources: [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Wetpixel – Larry Smith](https://wetpixel.com/articles/larry-smith), [ZuBlu – Lembeh Strait](https://www.zubludiving.com/destination/indonesia/sulawesi/lembeh-strait), [Lembeh Resort – The Man Behind the Mimic Octopus](https://www.lembehresort.com/blogs/feels-coming-back-home), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-06-14.*
+*Sources: [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Wetpixel – Larry Smith Tribute](https://wetpixel.com/articles/larry-smith), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Re-audited 2026-08-10: removed unverified claim of a specific 1997 "first documented video" of the mimic octopus at this site — the cited Wetpixel tribute confirms only the site's naming story, not this historical claim.*

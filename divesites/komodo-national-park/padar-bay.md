@@ -22,4 +22,4 @@ A protected bay on the south side of Padar offering sheltered reef diving with g
 - **Maximum Depth**: 20 meters
 
 ---
-*Description based on regional diving characteristics for Padar Bay. No site-specific sources with 3+ independent verifications found. Last updated 2026-06-10.*
+*Description based on regional diving characteristics for Padar Bay. Re-searched 2026-08-10: general Padar-area sources (e.g. Sunrise Divers, Dragon Dive Komodo, Blue Marlin Dive) list nearby named sites (Payong/Payung, Secret Garden, Three Sisters, Pillarsteen) but none specifically document a "Padar Bay" dive site. No site-specific sources with 3+ independent verifications found. Last updated 2026-08-10.*

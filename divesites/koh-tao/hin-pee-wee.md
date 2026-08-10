@@ -17,11 +17,11 @@ A rocky pinnacle cluster named after one of Koh Tao's early diving pioneers — 
 
 ## Overview
 
-Hin Pee Wee is a cluster of small rock pinnacles located approximately 200 m south of White Rock and 30 m from the HTMS Sattakut wreck, situated about 2 km off Koh Tao's west coast. The main pinnacle top sits at 8 m depth, with the surrounding formations descending to 20 m and the deepest sections off the southeastern rocks reaching 28 m. The pinnacle faces support sea fans, whip corals, table corals, and anemones. Black Turtle Dive lists the site as requiring Advanced Open Water certification due to the depth and moderate currents. It is typically dived as the second portion of an HTMS Sattakut wreck day, using remaining air and extending the no-decompression window in shallower water.
+Hin Pee Wee is a cluster of small rock pinnacles located approximately 200 m south of White Rock and a short swim (sources report roughly 30–40 m) from the HTMS Sattakut wreck, situated about 2 km off Koh Tao's west coast. The main pinnacle top sits at 8 m depth, with the surrounding formations descending to 20 m and the deepest sections off the southeastern rocks reaching 28 m. The pinnacle faces support sea fans, whip corals, table corals, and anemones. Black Turtle Dive lists the site as requiring Advanced Open Water certification due to the depth and moderate currents. It is typically dived as the second portion of an HTMS Sattakut wreck day, using remaining air and extending the no-decompression window in shallower water.
 
 ## Site Information
 
-- **Location**: West Koh Tao, approximately 30 m from HTMS Sattakut wreck; ~200 m south of White Rock
+- **Location**: West Koh Tao, approximately 30–40 m from HTMS Sattakut wreck; ~200 m south of White Rock
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
@@ -58,4 +58,4 @@ Currents can funnel between the pinnacle and the seabed. Visibility can be poor 
 Long-faced emperor fish are a relatively unusual macro–mid-range subject. Ghost pipefish among the anemones suit close-focus wide-angle or macro. The soft coral and sea fan faces provide good wide-angle compositions. Combination shots looking back toward the HTMS Sattakut from Hin Pee Wee are possible in good visibility.
 
 ---
-*Sources: [Black Turtle Dive – Hin Pee Wee](https://www.blackturtledive.com/koh-tao-dive-sites/hin-pee-wee/), [Coral Grand Divers – Hin Pee Wee](https://coralgranddivers.com/pages/hin-pee-wee-dive-site-in-koh-tao), [Big Blue Diving – Hin Pee Wee](https://www.bigbluediving.com/koh-tao-dive-sites/hin-pee-wee/). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Hin Pee Wee](https://www.blackturtledive.com/koh-tao-dive-sites/hin-pee-wee/), [Coral Grand Divers – Hin Pee Wee](https://coralgranddivers.com/pages/hin-pee-wee-dive-site-in-koh-tao), [Big Blue Diving – Hin Pee Wee](https://www.bigbluediving.com/koh-tao-dive-sites/hin-pee-wee/). Last updated 2026-08-10.*

@@ -12,7 +12,7 @@ addedBy: contributor
 
 ## Big Nose
 
-Dive site in the north Komodo area. Site details unverified — contributed from a diver's personal logbook. Located in open water northwest of Komodo Island. May be known by a different name among local operators.
+Dive site in the north Komodo area, near Gili Lawa. Site details largely unverified. A 2026-08-10 re-search found one weak source — a DiveHappy liveaboard trip report with a photo captioned "Staghorn and anthias, Big Nose, Komodo" near Gili Lawa — plus an unverifiable YouTube video title, neither of which gives depth, marine life detail, or conditions. Still short of the 3-source bar. May be known by a different name among local operators.
 
 ## Site Information
 
@@ -22,4 +22,4 @@ Dive site in the north Komodo area. Site details unverified — contributed from
 - **Maximum Depth**: 25 meters
 
 ---
-*No site-specific sources found. Site contributed from a personal diver logbook only. Last updated 2026-06-10.*
+*No 3-source-verified site-specific sources found. One weak source consulted: [DiveHappy – Komodo Liveaboard Trip Report](https://divehappy.com/komodo-liveaboard-trip-report-august-2022/). Site originally contributed from a personal diver logbook. Last updated 2026-08-10.*

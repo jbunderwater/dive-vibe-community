@@ -59,4 +59,4 @@ Currents at Crystal Rock can be extreme, with sudden up-currents and down-curren
 Crystal Rock is tailor-made for wide-angle work — shoot into the blue with schools of fusiliers backlit by sunlight pouring down from above, or frame soft coral fans against the current with a diver silhouetted behind. Early morning light creates dramatic shafts through the water column. A fisheye or 10–17mm lens captures the full drama of the pinnacle.
 
 ---
-*Sources: [Dragon Dive Komodo – Crystal Rock](https://dragondivekomodo.com/crystal-rock-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [La Galigo Liveaboard – Crystal Rock](https://www.lagaligoliveaboard.com/diving/komodo/dive-site/crystal-rock/). Last updated 2026-06-10.*
+*Sources: [Dragon Dive Komodo – Crystal Rock](https://dragondivekomodo.com/crystal-rock-komodo/), [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [La Galigo Liveaboard – Crystal Rock](https://www.lagaligoliveaboard.com/diving/komodo/dive-site/crystal-rock/). Last updated 2026-08-10.*

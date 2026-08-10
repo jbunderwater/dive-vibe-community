@@ -22,4 +22,4 @@ A high-energy drift dive through the narrow channel between Gili Lawa Darat and 
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [La Galigo Liveaboard – Komodo Dive Sites](https://www.lagaligoliveaboard.com/diving/komodo/), [Stingy Nomads – Diving Komodo](https://stingynomads.com/diving-komodo-island-indonesia/), [Liveaboard.com – Komodo Diving](https://www.liveaboard.com/komodo). Last updated 2026-06-10.*
+*Sources: [La Galigo Liveaboard – Komodo Dive Sites](https://www.lagaligoliveaboard.com/diving/komodo/), [Stingy Nomads – Diving Komodo](https://stingynomads.com/diving-komodo-island-indonesia/), [Liveaboard.com – Komodo Diving](https://www.liveaboard.com/komodo). Last updated 2026-08-10.*

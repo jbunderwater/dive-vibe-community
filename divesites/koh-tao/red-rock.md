@@ -17,7 +17,7 @@ A striking pinnacle off Koh Nang Yuan with a distinctive horizontal crack — sh
 
 ## Overview
 
-Red Rock is a prominent rock pinnacle off the coast of Koh Nang Yuan that drops almost vertically from just below the surface to around 25 m. The site's defining feature is a large horizontal crack running through the rock at mid-depth, which shelters a varied collection of critters. The rock is coloured in hues of red, orange, and yellow from encrusting organisms, and the pinnacle faces support triggerfish, parrotfish, and surgeonfish. Big Blue Diving notes Red Rock as part of a three-site set with White Rock and Green Rock — each offering a different character within a compact northwest Koh Tao area.
+Red Rock is a prominent rock pinnacle off the coast of Koh Nang Yuan that drops almost vertically from just below the surface to around 25 m. The site's defining feature is a large crack running along the rock's eastern and northern faces at around 16 m, which shelters a varied collection of critters; a short swim west leads to a natural swim-through known locally as Red Rock Cave. The rock is coloured in hues of red, orange, and yellow from encrusting organisms, and the pinnacle faces support triggerfish, parrotfish, and surgeonfish. Big Blue Diving notes Red Rock as part of a three-site set with White Rock and Green Rock — each offering a different character within a compact northwest Koh Tao area.
 
 ## Site Information
 
@@ -53,11 +53,11 @@ Boat from Koh Tao (10 minutes to Koh Nang Yuan area). Entry via back roll. Curre
 
 ## Safety Considerations
 
-Banded sea kraits are venomous but non-aggressive — do not attempt to handle or corner them in the crack. Triggerfish nesting on the lower rock sections in summer require wide avoidance. Maintain neutral buoyancy near the vertical rock face to avoid scraping coral.
+Banded sea kraits are venomous but non-aggressive — do not attempt to handle or corner them in the crack. Triggerfish nesting on the lower rock sections during the regional nesting season (roughly February–June) require wide avoidance. Maintain neutral buoyancy near the vertical rock face to avoid scraping coral.
 
 ## Photography
 
 Yellow boxfish portraits in the crack are the signature shot. Banded sea kraits cruising the rock face make atmospheric compositions. The encrusting organisms giving the rock its red and orange colour suit close-up wide-angle photography.
 
 ---
-*Sources: [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving – Red Rock](https://www.bigbluediving.com/blog/koh-tao-dive-sites-red-rock-white-rock-green-rock/), [Black Turtle Dive – Koh Tao Dive Sites](https://www.blackturtledive.com/koh-tao-dive-sites/). Last updated 2026-06-10.*
+*Sources: [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving – Red Rock](https://www.bigbluediving.com/blog/koh-tao-dive-sites-red-rock-white-rock-green-rock/), [Black Turtle Dive – Red Rock Pinnacle](https://www.blackturtledive.com/koh-tao-dive-sites/red-rock-pinnacle/), [Funky Turtle – Red Rock](https://www.thefunkyturtle.com/koh-tao-fun-diving/red-rock-dive-site/). Last updated 2026-08-10.*

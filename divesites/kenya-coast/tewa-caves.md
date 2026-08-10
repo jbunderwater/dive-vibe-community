@@ -21,6 +21,8 @@ The Tewa Caves site sits within Watamu Marine National Park near the Mida Creek 
 
 The caves are named for the giant groupers that inhabit them. Multiple sources confirm giant groupers weighing up to 200 kilograms live in the cave openings and surrounding reef. The site is suitable for all experience levels according to dive operators who run it.
 
+**Naming conflict (found 2026-08-10 re-audit):** An independent dive-travel source (Just Gotta Dive) describes what appears to be the same kind of site — a giant-grouper/rock-cod cave system at the Mida Creek mouth — under the name "Puma Caves" (also rendered "Vuma Caves"), giving an entry depth of 18–20 metres with a chimney exit at 7–10 metres, rather than the 8–24 metre range recorded here under "Tewa Caves." It is not established whether these names refer to the same physical site or two distinct, nearby cave systems. This is flagged rather than resolved.
+
 The surrounding Watamu Marine National Park was established on 26 March 1968 — Kenya's first marine park and one of Africa's first — and was designated part of a UNESCO Man and Biosphere Reserve in 1979 together with Malindi Marine Park.
 
 ## Site Information
@@ -50,4 +52,4 @@ Boat access from Watamu. Aqua Ventures is the longest-running PADI 5-Star dive c
 Rated beginner by operators, though the cave openings require sensible buoyancy to avoid disturbing sediment or the large resident fish. The giant groupers are habituated to divers but are large animals that should be treated respectfully. Standard marine park conditions apply — do not touch coral or harass marine life.
 
 ---
-*Sources: [AJ Kenya Safaris – Watamu Marine National Park](https://ajkenyasafaris.com/things-todo/watamu-marine-national-park/), [Dive in Kenya – Aqua Ventures Watamu](https://www.diveinkenya.com/), [SCUBA Travel – Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html). Last updated 2026-06-10.*
+*Sources: [AJ Kenya Safaris – Watamu Marine National Park](https://ajkenyasafaris.com/things-todo/watamu-marine-national-park/), [Dive in Kenya – Aqua Ventures Watamu](https://www.diveinkenya.com/) (unreachable/403 on 2026-08-10 re-check, corroborated via third-party search snippets), [Magical Kenya – Watamu Marine National Park and Reserve](https://tic.magicalkenya.com/listing/watamu-marine-national-park-and-reserve/) (direct fetch blocked 403 on re-check; content corroborated via search index). SCUBA Travel was cited in an earlier pass but a full-text re-check found zero mentions of "Tewa," "cave," "cavern," or "Shimoni" on that page — removed as a mis-citation. Last updated 2026-08-10.*

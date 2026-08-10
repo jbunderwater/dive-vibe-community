@@ -59,4 +59,4 @@ The Cauldron is not suitable for divers without experience in strong current div
 The brief transit through the channel makes conventional photography difficult, but the outer slope offers excellent wide-angle opportunities. Manta rays on the sloping reef, schools of fish at the channel exit, and healthy hard corals make for compelling images. Secure your camera rig tightly before entering the Cauldron section.
 
 ---
-*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Stingy Nomads – Diving Komodo](https://stingynomads.com/diving-komodo-island-indonesia/). Last updated 2026-06-10.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Dragon Dive Komodo – Top 10 Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [Stingy Nomads – Diving Komodo](https://stingynomads.com/diving-komodo-island-indonesia/). Last updated 2026-08-10.*

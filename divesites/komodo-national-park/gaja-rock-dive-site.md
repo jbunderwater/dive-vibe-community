@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Gaja Rock dive site
 
-Gaja Rock — "Elephant Rock" in Indonesian — is a pinnacle formation in the southern Komodo National Park area, its rounded top and flanks resembling the back of a submerged elephant, covered in soft coral growth that attracts a pleasant variety of reef species.
+Gaja Rock ("Elephant Rock" in Indonesian, also known locally as Batu Gaja/Batu Gajah) is a rock/pinnacle formation in the southern Komodo National Park area. Site-specific research is limited to two partial sources, short of this project's 3-source validation bar.
 
 ## Overview
 
-Gaja Rock is a compact pinnacle in the less-trafficked southern Komodo area, sitting in moderate tidal flow that keeps the coral healthy without the extreme currents of the park's headline sites. The rock formation rises to about 5 meters below the surface and descends to a sandy bottom at around 18–20 meters. It is a manageable intermediate dive — the rounded shape means there is always a sheltered face to tuck behind regardless of current direction. The soft coral coverage is attractive, and the site provides a comfortable option when conditions elsewhere in the park are too demanding.
+Gaja Rock is a rock formation in the less-trafficked southern Komodo area. Two independent, partial sources (a general Komodo dive guide and an aggregator summarizing regional operator content) describe it — under the local name Batu Gaja/Batu Gajah — as a sharp-edged rock formation where divers stay in the calmer water between formations, since close approaches to the rock faces bring strong downcurrents and whirls. This is short of the destination's 3-source validation bar, so the site remains unvalidated; depth, current strength, and difficulty below are estimates consistent with the surrounding southern Komodo area rather than confirmed figures for this exact site.
 
 ## Site Information
 
@@ -26,37 +26,19 @@ Gaja Rock is a compact pinnacle in the less-trafficked southern Komodo area, sit
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Light to moderate
-- **Best Time**: April to November
+- **Current**: Reported as capable of strong downcurrents and whirls close to the rock faces; divers shelter in calmer water between formations
 
 ## Marine Life
 
-Soft corals and sea fans on the mid-depth flanks attract a variety of small, sedentary species: gobies on fan branches, commensal shrimp on dendrophyllia coral, and crinoids spread wide in the current. Reef fish are abundant — anthias cloud the upper sections, while butterflyfish and angelfish pick at the coral. Whitetip reef sharks are sometimes found resting on the sandy bottom at the pinnacle base. Sea turtles visit regularly to feed on the sponge and soft coral growth. The sandy bottom hosts small flatfish, gobies, and their symbiotic shrimp, adding a muck-diving dimension to the base of the rock.
-
-## Dive Profile
-
-Drop to the sandy bottom and circuit the base at 15–18 meters, then ascend the sheltered face through the soft coral zone at 8–15 meters to the shallowest section of the rock. The circular topography allows a complete circuit that covers all faces and depths within a single dive. Finish on the rock's summit at 5 meters for an extended safety stop in good light.
+Two partial sources report a roughly 2-meter grouper, turtles, rainbow runners, and a bumphead parrotfish school at this site, with seahorses and ghost pipefish mentioned elsewhere in connection with the general "Batu Gajah" name. These reports come from only two distinct sources, short of this project's 3-source bar for a confirmed species list, so they are noted here rather than presented as settled fact. Beyond this, the destination's regional Komodo reef and pinnacle fauna generally applies, but no further site-specific reports were found.
 
 ## Entry and Exit
 
-Boat access. Giant stride entry close to the rock. Conditions are mild enough that a safety stop on the rock top at 5 meters is typically comfortable. Carry an SMB for the ascent if drifting clear of the rock.
-
-## Tips and Recommendations
-
-- This site rewards a slow, observational approach — look closely at every coral formation for resident species
-- Bring a macro lens for gobies, shrimp, and nudibranchs on the coral faces
-- The site works well as a night dive — nocturnal critters emerge from crevices and the sandy base hosts sleeping reef fish
-- Gaja Rock is an accessible and enjoyable site for newly Advanced-certified divers gaining experience in Komodo conditions
-- Look for the resident Napoleon wrasse that occasionally frequents this site
+Boat access. Given the reported downcurrents and whirls near the rock faces, divers should follow their guide's positioning closely and stay in sheltered water between formations.
 
 ## Safety Considerations
 
-While gentler than Komodo's advanced sites, currents can develop around Gaja Rock's exposed faces. Stay on the sheltered side if the current increases unexpectedly. Always carry an SMB. Buoyancy control around the coral formations is important — the soft coral is easily damaged by contact.
-
-## Photography
-
-The compact size of Gaja Rock means a single dive covers multiple photographic habitats. Wide-angle captures the full rock form and its soft coral coverage; macro rewards detailed investigation of the coral faces. The sandy base with its gobies and the possibility of a resting shark make attractive secondary subjects.
+Sources indicate the rock faces can produce strong downcurrents and whirls at close range. Stay in the calmer water between formations, always carry an SMB, and follow the dive guide's briefing on current conditions.
 
 ---
-*Description based on site location and regional diving characteristics. No site-specific sources with 3+ independent verifications found. Last updated 2026-06-10.*
+*Description based on two partial, non-independent-enough sources: [starfish.ch – Diving in Komodo](http://starfish.ch/dive/Komodo.html) and a regional-operator aggregator summary. A third independent source was not found, so this site is NOT marked validated. Last updated 2026-08-10.*

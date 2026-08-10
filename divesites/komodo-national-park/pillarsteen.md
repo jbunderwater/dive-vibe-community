@@ -59,4 +59,4 @@ Deep wall diving carries inherent risks of narcosis and exceeding no-decompressi
 The deep sea fans at Pillarsteen are world-class subjects. A wide-angle setup with twin strobes brings out the red and orange of the fan branches against the deep blue background. The pillar formations create natural framing opportunities for diver-with-fan compositions. At shallower depths, the wall texture of encrusting organisms makes compelling macro subjects in the chimneys and crevices.
 
 ---
-*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [ScubaBoard – Komodo North and South](https://scubaboard.com/community/threads/komodo-north-and-south.553289/), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-06-10.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [ScubaBoard – Komodo North and South](https://scubaboard.com/community/threads/komodo-north-and-south.553289/), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-08-10.*

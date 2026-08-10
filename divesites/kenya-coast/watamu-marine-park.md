@@ -17,9 +17,11 @@ Watamu Marine National Park is Kenya's oldest marine park, established on 26 Mar
 
 ## Overview
 
-Watamu Marine National Park was gazetted in 1968 — one of the first marine parks established in Africa. It extends from Malindi south to the mouth of Mida Creek, covering approximately 10 square kilometres of protected reef. The park supports approximately 600 fish species and over 150 coral species according to Aqua Ventures, the longest-running PADI 5-Star dive centre in Watamu (established 1989). Sites are on permanent mooring buoys.
+Watamu Marine National Park was gazetted in 1968 — one of the first marine parks established in Africa. It extends from Malindi south to the mouth of Mida Creek, covering approximately 10 square kilometres of protected reef. Sites are on permanent mooring buoys.
 
-Named dive sites documented within the park include: Turtle Reef (gentle drift, ~15 metres, turtles and Napoleon wrasse), The Canyon (steep-walled reef with an arch covered in soft coral, white-tip reef sharks when current flows, whale sharks November to January), Moray Reef/Canyon (dramatic drop-off and arch), the Mida Wreck (18-metre prawn trawler wreck), and Tewa Caves (cave/cavern system with giant groupers, 8–24 metres). Barracuda Reef offers diverse fish abundance.
+**Species count conflict (checked 2026-08-10):** Sources disagree on the park's fish and coral diversity. Aqua Ventures / Kenya Peaks report approximately 600 fish species and over 150 coral species; Dive Worldwide instead reports over 1,000 fish species and more than 100 hard coral varieties. Both figures are reported here rather than picking one.
+
+Named dive sites documented within the park include: Turtle Reef (gentle drift, ~15 metres, turtles and Napoleon wrasse), The Canyon (steep-walled reef with an arch covered in soft coral, white-tip reef sharks when current flows, whale sharks November to January), Moray Reef/Canyon (dramatic drop-off and arch), the Mida Wreck (18-metre prawn trawler wreck), The Larder (a deeper site in the Mida Creek channel with large groupers, snappers, and occasional reef sharks, per Kenya Peaks), and Tewa Caves (cave/cavern system with giant groupers, 8–24 metres — see that site's page for a naming conflict with "Puma/Vuma Caves"). Barracuda Reef offers diverse fish abundance.
 
 The park experiences El Niño-related coral bleaching episodes that have affected some sections; conditions vary by site.
 
@@ -36,7 +38,7 @@ The park experiences El Niño-related coral bleaching episodes that have affecte
 
 ## Marine Life
 
-Documented park-wide species that are regularly encountered: green sea turtles (Turtle Reef especially), Napoleon wrasse, giant groupers (in the Tewa Caves area), whale sharks (November–January, seasonal), mobula rays, moray eels, white-tip reef sharks (The Canyon, current-dependent), surgeonfish, parrotfish, angelfish, and snappers. Over 600 fish species recorded in the park.
+Documented park-wide species that are regularly encountered: green sea turtles (Turtle Reef especially), Napoleon wrasse, giant groupers (in the Tewa Caves area), whale sharks (November–January, seasonal), mobula rays, moray eels, white-tip reef sharks (The Canyon, current-dependent), surgeonfish, parrotfish, angelfish, and snappers. Total fish species counts range from ~600 to 1,000+ depending on source (see conflict note in Overview).
 
 *Species above are documented as present within the park; specific encounter rates at individual sites vary. Manta ray sightings have been reported but are less reliably documented than the above.*
 
@@ -45,4 +47,4 @@ Documented park-wide species that are regularly encountered: green sea turtles (
 Aqua Ventures operates from Watamu Beach and runs three diving boats with a full equipment rental operation. Other PADI-certified dive centres also operate in Watamu. KWS marine park fees apply. Best diving season is October to March when visibility is highest.
 
 ---
-*Sources: [Dive Worldwide – Watamu National Marine Park](https://www.diveworldwide.com/locations/watamu-national-marine-park), [Dive in Kenya – Aqua Ventures](https://www.diveinkenya.com/), [Kenya Peaks – Watamu Marine Park](https://kenyapeaks.com/watamu-marine-park). Last updated 2026-06-10.*
+*Sources: [Dive Worldwide – Watamu National Marine Park](https://www.diveworldwide.com/locations/watamu-national-marine-park), [Dive in Kenya – Aqua Ventures](https://www.diveinkenya.com/), [Kenya Peaks – Watamu Marine Park](https://kenyapeaks.com/watamu-marine-park). Last updated 2026-08-10.*

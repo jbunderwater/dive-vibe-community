@@ -31,7 +31,7 @@ The site is defined by three main spurs of coral reef — finger reefs — that 
 
 ## Marine Life
 
-Blue Coral is one of Aqaba's richest macro sites. Nudibranchs are particularly abundant here. Regular sightings include stingrays, hawksbill turtles, moray eels, seahorses (including thorny seahorses in the seagrass), crocodilefish, and frogfish. Reef fish schools of damselfish, fusiliers, and groupers are common. Black coral plants appear at depth, and the seagrass beds between the finger reefs host a variety of small invertebrates. Night dives reveal lionfish, octopus, and sleeping reef fish.
+Blue Coral is one of Aqaba's richest macro sites. Nudibranchs are particularly abundant here. Regular sightings include stingrays, hawksbill turtles, moray eels, and frogfish. The seagrass bed here is independently confirmed by two sources as being "prowled by lionfish, scorpionfish, and several species of seahorse," with thorny seahorses specifically reported camouflaged among the seagrass fronds — this is now a site-specific confirmation rather than a regional assumption. Reef fish schools of damselfish, fusiliers, and groupers are common. Black coral plants appear at depth, and the seagrass beds between the finger reefs host a variety of small invertebrates. Night dives reveal lionfish, octopus, and sleeping reef fish.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Sea urchins are present at the entry point — appropriate footwear recommended.
 One of Aqaba's premier photography sites. The diverse coral formations, abundant nudibranchs, resting crocodilefish and frogfish, and frequent turtle sightings make it excellent for both macro and wide-angle work.
 
 ---
-*Sources: [Arab Divers - Blue Coral](https://www.arabdivers.jo/en/activities/dive-sites/blue-coral), [Coral Garden Diving Center - Blue Coral](https://www.dive-inaqaba.com/blue-coral-2/), [Aqaba Adventure Divers - Blue Coral](https://aqaba-diving.com/dive-sites-in-aqaba-red-sea/blue-coral-dive-site/). Last updated 2026-06-10.*
+*Sources: [Arab Divers - Blue Coral](https://www.arabdivers.jo/en/activities/dive-sites/blue-coral), [Coral Garden Diving Center - Blue Coral](https://www.dive-inaqaba.com/blue-coral-2/), [Aqaba Adventure Divers - Blue Coral](https://aqaba-diving.com/dive-sites-in-aqaba-red-sea/blue-coral-dive-site/), [Much Better Adventures - Aqaba Guide](https://www.muchbetteradventures.com/magazine/aqaba-jordan-guide/). Last updated 2026-08-10.*

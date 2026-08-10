@@ -59,4 +59,4 @@ While calmer than most Komodo sites, currents can pick up around the bay's headl
 The moderate conditions and good natural light in the bay make Loh Namu an approachable photography site at all levels. Wide-angle captures the reef slope and its turtle inhabitants; macro finds the critters on rubble and under ledges. The clear shallows provide excellent lighting for coral close-ups and fish portraits.
 
 ---
-*Sources: [South East Asia Dreams – Komodo Dive Sites](https://www.southeastasiadreams.com/travel-blog/2019/02/17/komodo-island-divesites-indonesia-part2/), [Indonesialogue – Komodo Diving](https://indonesialogue.com/about-indonesia/diving-and-snorkeling-sites-komodo-national-park-komodo-island), [Divezone – Komodo](https://divezone.net). Last updated 2026-06-10.*
+*Sources: [South East Asia Dreams – Komodo Dive Sites](https://www.southeastasiadreams.com/travel-blog/2019/02/17/komodo-island-divesites-indonesia-part2/), [Indonesialogue – Komodo Diving](https://indonesialogue.com/about-indonesia/diving-and-snorkeling-sites-komodo-national-park-komodo-island), [Divezone – Komodo](https://divezone.net). Last updated 2026-08-10.*

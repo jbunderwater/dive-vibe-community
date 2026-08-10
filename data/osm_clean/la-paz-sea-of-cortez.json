@@ -12,7 +12,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "tosea.net,cortezclub.com,lapazdivers.com,dan.org",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -27,8 +27,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "en.wikipedia.org,padi.com,tours.clubcantamar.com,uwphotographyguide.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "en.wikipedia.org,padi.com,tours.clubcantamar.com,uwphotographyguide.com,cortezclub.com",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -44,7 +44,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "padi.com,dan.org,cortezclub.com,math.ucr.edu",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -60,8 +60,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "math.ucr.edu,padi.com,bajadiving.com,dan.org",
-      "last_qa_date": "2026-06-14",
-      "qa_note": "Sinking year conflict: PADI cites June 19 1975; UCR primary account cites June 1976. Both documented in description."
+      "last_qa_date": "2026-08-10",
+      "qa_note": "Re-audited 2026-08-10: re-pulled math.ucr.edu and padi.com directly. Sinking year conflict persists and remains unresolved: PADI cites June 19 1975; UCR primary account cites June 1976 (corroborated by Hurricane Liza timeline, Sept 30 1976). Both documented in description. All other facts (320ft x 50ft LST hull, 60ft depth, cargo of fuel, no casualties) reconfirmed unchanged."
     }
   },
   {
@@ -77,7 +77,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "diveinlapaz.com,cortezclub.com,bajadiving.com,dan.org",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -93,14 +93,15 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "cortezclub.com,cabotrek.com,caboprivateguide.com,dan.org",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-10",
+      "qa_note": "Re-audited 2026-08-10: dan.org/alert-diver also references a separate small wreck with an intact propeller lying near La Reina — distinct from the La Reina islet/sea lion/manta site described here. Not enough independent detail on that wreck to include; noted for future research only."
     }
   },
   {
     "name": "San Rafaelito",
     "lat": 24.2983,
     "lon": -110.3459,
-    "depth": 16,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -109,7 +110,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "thecabosun.com,padi.com,cortezclub.com,seaofcortez.guide",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-10",
+      "qa_note": "Re-audited 2026-08-10: depth corrected 16m -> 18m. PADI (\"cliffs to 60 ft deep\") and Sea of Cortez Guide (\"drops off to over sixty feet\") both independently corroborate ~18m (60ft), superseding the prior 16m figure which no live source supports. Sea lion colony count conflict widened to three sources: 40-50 (La Paz Divers), ~80 (PADI), ~140 (Sea of Cortez Guide) - still unresolved."
     }
   },
   {
@@ -125,7 +127,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "caboprivateguide.com,divers-guide.com,dan.org,padi.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-10",
+      "qa_note": "Re-audited 2026-08-10: re-pulled caboprivateguide.com and PADI directly; also cross-checked via independent search. Seizure date (April 1995), migrant count (88 men/7 women), length (55-56m), sinking date (Nov 18 1999), and depth (22m) all reconfirmed unchanged across sources with no new conflicts."
     }
   },
   {
@@ -141,8 +144,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "nautilusliveaboards.com,uwphotographyguide.com,cortezclub.com",
-      "last_qa_date": "2026-06-14",
-      "qa_note": "Only 3 sources identified; specific depth data not confirmed by independent sources — 28m retained from prior validation."
+      "last_qa_date": "2026-08-10",
+      "qa_note": "Re-audited 2026-08-10: re-pulled nautilusliveaboards.com dive report directly - reconfirms ~30-hammerhead school size and resident sea lion colony on the island's far side; mobula aggregation at this specific site still not independently confirmed (only regional aggregation windows are documented). Only 3 distinct source domains identified; specific max-depth figure still not confirmed by any independent source — 28m retained from prior validation as a plausible but unverified figure."
     }
   },
   {
@@ -158,7 +161,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "bajadiving.com,cortezclub.com,cabotrek.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-10",
+      "qa_note": "Re-audited 2026-08-10: re-pulled bajadiving.com directly - maximum depth of 60ft (18m) reconfirmed exactly matching prior 18m value. Marine life (sea turtles, Mexican barracuda, moray eels, sergeant majors, maze-like reef) reconfirmed unchanged."
     }
   }
 ]

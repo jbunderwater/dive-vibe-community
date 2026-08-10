@@ -59,4 +59,4 @@ Moderate currents are manageable but require active buoyancy management. Keep th
 Sabayor Kecil suits a wide-angle setup for reef fish schools, shark shots, and turtle portraits. The good water clarity in the eastern park area creates clean backgrounds for blue-water silhouette work. The reef face at mid-depth with its coral coverage makes compelling reef landscape images.
 
 ---
-*Sources: [SEA Undersea – Sabayor Kecil](http://sea-undersea.com/indonesia/komodo/sabayor-kecil.php), [Greatest Dive Sites Indonesia – Sabayor Kecil](https://indonesia.greatestdivesites.com/komodo/sabayor_kecil), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-06-10.*
+*Sources: [SEA Undersea – Sabayor Kecil](http://sea-undersea.com/indonesia/komodo/sabayor-kecil.php), [Greatest Dive Sites Indonesia – Sabayor Kecil](https://indonesia.greatestdivesites.com/komodo/sabayor_kecil), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-08-10.*

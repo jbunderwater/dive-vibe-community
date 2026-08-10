@@ -13,42 +13,27 @@ addedBy: osm_import
 
 ## Loh Sera Dive Site
 
-Loh Sera dive site is a wall dive site in Komodo National Park, East Nusa Tenggara, Indonesia.
+Loh Sera dive site sits in the bay area of southwestern Komodo Island, near — but distinct from — the separately tracked Tanjung Loh Sera dive site at the mouth of the same bay. No site-specific source describing this bay location (as opposed to the Tanjung Loh Sera point) was found.
 
 ## Overview
 
-Loh Sera sits along the southwestern coastline of Komodo Island, a stretch of the park that sees significantly less dive traffic than the central and northern zones. The site is associated with the bay of Loh Sera, a remote inlet framed by rugged volcanic cliffs dropping directly into the water. The wall at this site descends steeply from around 5 metres to beyond 30 metres, its face encrusted with sea fans, barrel sponges, and soft coral colonies that thrive in the strong tidal surges funnelled along this exposed coast.
+Loh Sera sits along the southwestern coastline of Komodo Island, a stretch of the park that sees significantly less dive traffic than the central and northern zones, near the more heavily documented Tanjung Loh Sera pinnacle/point dive (see that site's page for sourced details). Every specific source found while researching this destination describes "Tanjung Loh Sera" — the headland point — rather than this general bay location. No independent source specifically documents the Loh Sera bay/wall as distinct from that point, so this site remains unvalidated. Wall type and Advanced difficulty are plausible given the site's position on the exposed southwestern Komodo coast (consistent with the neighboring, sourced Tanjung Loh Sera site), but are not independently confirmed for this exact location.
 
-The wall's upper section hosts a rich garden of hard corals down to about 12 metres, below which soft corals and large gorgonians dominate. The deeper wall face is a visually dramatic environment, with overhangs sheltering resting whitetip reef sharks and crevices populated by moray eels and lobsters. The open water off the wall frequently holds pelagic species — dogtooth tuna, rainbow runners, and trevally are encountered here, and the combination of wall terrain and open-ocean exposure makes Loh Sera a site suited to divers who want a genuine deep-water wall experience.
+## Site Information
 
-Currents at Loh Sera can be powerful and unpredictable, particularly on the outgoing tide when cold water masses from the south — drawn through the Sape Strait — accelerate along the exposed headlands. Advanced buoyancy control is essential, and divers must be comfortable aborting a dive if conditions deteriorate. The site's remoteness means rescue response times are longer than at central park sites, reinforcing the advanced classification.
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (southwestern park area, near Tanjung Loh Sera)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 
-## Key Species
+## Marine Life
 
-- Whitetip reef sharks resting in wall overhangs
-- Large gorgonian sea fans and barrel sponges on the mid-wall
-- Dogtooth tuna and rainbow runners in open water
-- Moray eels and lionfish in wall crevices
-- Occasional Napoleon wrasse patrolling the wall edge
+No site-specific marine-life source was found for this exact location. The destination's regional Komodo fauna — including reef sharks, large pelagics, and healthy soft coral communities on exposed southern-coast walls — generally applies to this area, but no site-specific reports were found for this dive site by name, so no species are listed here.
 
-## Dive Profile
+## Safety Considerations
 
-Divers descend along the wall face, typically following the contour between 10 and 25 metres to balance pelagic sightings with the rich encrusting life of the upper wall. The current is used to drift along the wall, with ascent planned against a natural corner or pinnacle that provides shelter. Maximum depth on most dives is 25–30 m; the wall extends deeper for technical divers.
-
-## Conditions
-
-| Attribute | Details |
-|-----------|---------|
-| Depth range | 5–30+ m |
-| Visibility | 10–20 m (highly variable with cold upwellings) |
-| Current | Strong, directionally variable — advanced divers only |
-| Water temperature | 22–28°C (thermoclines common, cold water possible) |
-| Best season | April–November; check conditions carefully |
-| Entry/Exit | Boat — advanced drift management required |
-
-## Tips for Divers
-
-Loh Sera is best dived during slack water or on a controlled incoming current that holds divers against the wall face. Cold upwellings from the south can drop water temperatures significantly, so a 5 mm wetsuit is advisable. The site is typically visited on longer southern Komodo liveaboard itineraries — day trips from Labuan Bajo do not reach this area. A dive guide with local knowledge of tidal timing is strongly recommended.
+The southwestern Komodo coast is exposed and known for strong, unpredictable currents and cold-water upwellings from the Sape Strait. Divers should be prepared for advanced conditions and dive with a guide experienced in this remote part of the park.
 
 ---
-*Description based on site location and regional diving characteristics. No site-specific sources with 3+ independent verifications found. Last updated 2026-06-10.*
+*No site-specific sources with 3+ independent verifications found for this exact location (as opposed to the neighboring Tanjung Loh Sera point, which is separately sourced). Description based on regional diving characteristics. Last updated 2026-08-10.*

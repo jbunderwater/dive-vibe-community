@@ -59,4 +59,4 @@ The primary concern at any wall dive is depth management. Wall faces can tempt d
 Mini Wall excels for macro photography: nudibranchs on encrusting sponges, frogfish on rubble, and flatworms on hydroid colonies are all achievable in a single dive. A 100mm macro on a DSLR or 67mm equivalent on mirrorless gives close focus with sufficient working distance. For the broader wall context, a 24mm or 28mm close-focus wide-angle captures the wall face and a diver in one frame.
 
 ---
-*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Scuba Junkie Komodo – Central Sites](https://www.scubajunkiekomodo.com/central/), [Divezone – Komodo](https://divezone.net). Last updated 2026-06-10.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [Scuba Junkie Komodo – Central Sites](https://www.scubajunkiekomodo.com/central/), [Divezone – Komodo](https://divezone.net). Last updated 2026-08-10.*

@@ -54,11 +54,11 @@ Boat from Koh Tao (approximately 20 minutes to the east coast). East coast sites
 
 ## Safety Considerations
 
-The east coast is more exposed during the southwest monsoon (May–October) — check conditions before committing to the site. Swim-throughs should not be attempted solo. Titan triggerfish nesting areas around the boulders require wide avoidance in summer months.
+The east coast is more exposed during the southwest monsoon (May–October) — check conditions before committing to the site. Swim-throughs should not be attempted solo. Titan triggerfish nesting areas around the boulders require wide avoidance during the regional nesting season (roughly February–June).
 
 ## Photography
 
 Sunlight-penetrating swim-through shots are the defining image of Laem Thian — position inside an arch and capture the exit opening with sunbeams filtering through. Schools of barracuda above the boulders in blue water make compelling wide-angle subjects.
 
 ---
-*Sources: [Black Turtle Dive – Laem Thian](https://www.blackturtledive.com/koh-tao-dive-sites/laem-thian/), [Funky Turtle – Laem Thian](https://www.thefunkyturtle.com/koh-tao-fun-diving/laem-thian-dive-site/), [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Laem Thian](https://www.blackturtledive.com/koh-tao-dive-sites/laem-thian/), [Funky Turtle – Laem Thian](https://www.thefunkyturtle.com/koh-tao-fun-diving/laem-thian-dive-site/), [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/). Last updated 2026-08-10.*

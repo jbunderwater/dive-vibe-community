@@ -32,7 +32,7 @@ Pottery Pinnacle sits approximately 800 m from Mae Haad beach on the southern si
 
 ## Marine Life
 
-Confirmed species include Jenkins whiprays, blue-spotted ribbon-tail rays, starry-eyed pufferfish, blue-lined and hexagon groupers, bannerfish, masked and gold-spotted rabbitfish, Indian walkman (a scorpionfish species), crabs, shrimps, hermit crabs, octopus, nudibranchs, flatworms, giant pufferfish, and broadclub cuttlefish (particularly on night dives). Note: earlier descriptions listing soft whip corals, sponges, and a deeper depth range of 18 m were inaccurate for this site; Pottery is predominantly hard coral with a maximum depth of 12 m.
+Confirmed species include Jenkins whiprays, blue-spotted ribbon-tail rays, starry-eyed pufferfish, blue-lined and hexagon groupers, bannerfish, masked and gold-spotted rabbitfish, scorpionfish (Funky Turtle confirms scorpionfish sheltering among the whip corals and sponges on the boulder formations, though the specific "Indian walkman" species is not independently confirmed for this site and has been removed), crabs, shrimps, hermit crabs, octopus, nudibranchs, flatworms, giant pufferfish, and broadclub cuttlefish (particularly on night dives — confirmed by Funky Turtle). Note: earlier descriptions listing soft whip corals, sponges, and a deeper depth range of 18 m were inaccurate for this site; Pottery is predominantly hard coral with a maximum depth of 12 m.
 
 ## Dive Profile
 
@@ -47,15 +47,15 @@ Boat from Koh Tao (approximately 10 minutes to the south coast / Mae Haad area).
 - Pair with Three Rocks nearby for a combined south coast dive day
 - Night dives are worthwhile — broadclub cuttlefish are documented here after dark
 - A good site for practising buoyancy skills in calm conditions
-- Indian walkman (stonefish relative) in the rubble areas — do not touch any substrate
+- Scorpionfish shelter in the rubble and among whip corals — do not touch any substrate
 
 ## Safety Considerations
 
-Conditions are mild. Indian walkman and other scorpionfish relatives in the rubble require careful buoyancy to avoid contact. Visibility can be poor; a torch is useful. Avoid stirring up sand near the pinnacles.
+Conditions are mild. Scorpionfish in the rubble and boulder crevices are well-camouflaged and require careful buoyancy to avoid contact. Visibility can be poor; a torch is useful. Avoid stirring up sand near the pinnacles.
 
 ## Photography
 
 Nudibranchs and flatworms on the rock surfaces are classic macro subjects. Broadclub cuttlefish on night dives reward patient close-focus wide-angle or macro photographers.
 
 ---
-*Sources: [Black Turtle Dive – Pottery Pinnacle](https://www.blackturtledive.com/koh-tao-dive-sites/pottery-pinnacle/), [Funky Turtle – Pottery & Three Rocks](https://www.thefunkyturtle.com/koh-tao-fun-diving/pottery-pinnacle-three-rocks-dive-site/), [Master Divers – Pottery Pinnacle](https://www.master-divers.com/pottery). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Pottery Pinnacle](https://www.blackturtledive.com/koh-tao-dive-sites/pottery-pinnacle/), [Funky Turtle – Pottery & Three Rocks](https://www.thefunkyturtle.com/koh-tao-fun-diving/pottery-pinnacle-three-rocks-dive-site/), [Master Divers – Pottery Pinnacle](https://www.master-divers.com/pottery). Last updated 2026-08-10.*

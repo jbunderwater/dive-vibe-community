@@ -59,4 +59,4 @@ Strong currents along and across the wall face require active buoyancy managemen
 The wall face with its varied texture of corals, sponges, and crevices makes excellent wide-angle subjects when a diver is framed against it. Seek out the overhangs where sweetlips cluster for classic reef-school shots. Reef shark silhouettes visible off the wall provide dramatic open-water compositions. Macro shooters can find nudibranchs and flatworms on the encrusting organisms in sheltered crevice sections.
 
 ---
-*Sources: [Divescover – Indihiang](https://divescover.com/dive-site/indihiang/40277), [South East Asia Dreams – Komodo Dive Sites Part 2](https://www.southeastasiadreams.com/travel-blog/2019/02/17/komodo-island-divesites-indonesia-part2/), [Divezone – Komodo](https://divezone.net). Last updated 2026-06-10.*
+*Sources: [Divescover – Indihiang](https://divescover.com/dive-site/indihiang/40277), [South East Asia Dreams – Komodo Dive Sites Part 2](https://www.southeastasiadreams.com/travel-blog/2019/02/17/komodo-island-divesites-indonesia-part2/), [Divezone – Komodo](https://divezone.net). Last updated 2026-08-10.*

@@ -42,7 +42,7 @@
     "lng": 99.8498136,
     "difficulty": "Beginner",
     "maxDepth": 16,
-    "entryType": "boat",
+    "entryType": "both",
     "siteType": "bay",
     "ref": "",
     "osmId": 859428879
@@ -173,7 +173,7 @@
     "lat": 10.1056432,
     "lng": 99.8135376,
     "difficulty": "Intermediate",
-    "maxDepth": 30,
+    "maxDepth": 32,
     "entryType": "boat",
     "siteType": "wreck",
     "ref": "",

@@ -13,8 +13,8 @@
       "name": "NAD Lembeh",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "nad-lembeh.com,lembehresort.com,starfish.ch,uwphotographyguide.com,zubludiving.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "nad-lembeh.com,starfish.ch,uwphotographyguide.com",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -31,8 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com,asiadivesite.com,infinitebluedivetravel.com,nad-lembeh.com,starfish.ch",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "lembehresort.com,infinitebluedivetravel.com,nad-lembeh.com,starfish.ch",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -49,8 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nad-lembeh.com,lembehresort.com,infinitebluedivetravel.com,dive-the-world.com,starfish.ch",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "lembehresort.com,dive-the-world.com,starfish.ch",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -67,8 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nad-lembeh.com,lembehresort.com,zubludiving.com,infinitebluedivetravel.com,starfish.ch",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "zubludiving.com,lembehresort.com,starfish.ch",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -85,8 +85,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com,zubludiving.com,infinitebluedivetravel.com,starfish.ch,nad-lembeh.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "infinitebluedivetravel.com,starfish.ch,wikipedia.org",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -103,8 +103,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com,padi.com,starfish.ch,nad-lembeh.com,infinitebluedivetravel.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "lembehresort.com,starfish.ch,infinitebluedivetravel.com",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -121,8 +121,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "asiadivesite.com,zubludiving.com,starfish.ch,tropilogy.com,dive-the-world.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "starfish.ch,tropilogy.com,twofishdivers.com",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -139,8 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive-the-world.com,lembehresort.com,solitude.world,infinitebluedivetravel.com,starfish.ch",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "dive-the-world.com,infinitebluedivetravel.com,starfish.ch",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -157,8 +157,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "starfish.ch,infinitebluedivetravel.com,lembehresort.com,zubludiving.com,nad-lembeh.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "infinitebluedivetravel.com,zubludiving.com,diversiondivetravel.com.au",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -175,8 +175,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com,zubludiving.com,infinitebluedivetravel.com,starfish.ch,uwphotographyguide.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "lembehresort.com,infinitebluedivetravel.com,starfish.ch",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -185,7 +185,7 @@
     "lon": 125.2533,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 28,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -193,8 +193,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nad-lembeh.com,starfish.ch,dive-the-world.com,zubludiving.com,lembehresort.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "lembehresort.com,starfish.ch,dive-the-world.com",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -211,8 +211,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lembehresort.com,nad-lembeh.com,starfish.ch,originaldiving.com,infinitebluedivetravel.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "lembehresort.com,starfish.ch,originaldiving.com,infinitebluedivetravel.com",
+      "last_qa_date": "2026-08-10"
     }
   },
   {
@@ -229,8 +229,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "infinitebluedivetravel.com,wetpixel.com,zubludiving.com,lembehresort.com,starfish.ch",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "infinitebluedivetravel.com,wetpixel.com,starfish.ch",
+      "last_qa_date": "2026-08-10"
     }
   }
 ]
