@@ -1,9 +1,9 @@
 ---
 name: USS Strength
-lat: 30.03227
-lng: -85.70688
+lat: 30.0323
+lng: -85.7086
 difficulty: Intermediate
-maxDepth: 24
+maxDepth: 23
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ USS Strength is a historic wreck dive in Florida Panhandle, North America.
 
 ## Overview
 
-A WWII-era minesweeper that survived combat at Iwo Jima and Okinawa before later serving as a training vessel; intentionally sunk as an artificial reef on May 19, 1987. The wreck is split into two sections in about 24 m (80 ft) of water, allowing swim-throughs between the bow and the main hull.
+Admirable-class minesweeper (hull classification AM-309), built 1944 in Seattle, WA (Associated Shipbuilders). Played a key role in mine-clearing ahead of Allied beach landings at Iwo Jima and Okinawa; survived a torpedo attack and earned three battle stars. Removed from the mothball fleet in 1967 for use in Navy salvage-diver training exercises (Washington D.C., then Panama City). Scuttled and resurfaced multiple times before being sunk for good as an artificial reef on May 15, 1987. Originally settled on her side; Hurricane Opal (1995) pushed her upright. Her seafloor ranges 70-76 ft (21.5-23m); the site is accessible to most divers due to its relative shallowness and open nature, though entanglement risks exist in the collapsed superstructure.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ A WWII-era minesweeper that survived combat at Iwo Jima and Okinawa before later
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 23 meters
 
 ---
-*Sources: [Florida Scuba Diving](https://www.florida-scubadiving.com/uss-strength-panhandle-shipwreck-trail/), [DiveBuddy](http://www.divebuddy.com/divesite/737/uss-strength-panama-city-fl/). Last updated 2026-07-21.*
+*Sources: [Florida Scuba Diving](https://www.florida-scubadiving.com/uss-strength-panhandle-shipwreck-trail/), [DiveBuddy](http://www.divebuddy.com/divesite/737/uss-strength-panama-city-fl/), [Reef Smart Guides: Northwest Florida](https://www.amazon.com/Reef-Smart-Guides-Northwest-Florida/dp/1642506966) (Bay County dive sites section, detailed edition). Last updated 2026-08-07.*
