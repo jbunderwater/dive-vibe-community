@@ -1,7 +1,7 @@
 ---
 name: Black Bart
-lat: 30.0608
-lng: -85.82388
+lat: 30.06057
+lng: -85.82362
 difficulty: Intermediate
 maxDepth: 24
 entryType: boat
