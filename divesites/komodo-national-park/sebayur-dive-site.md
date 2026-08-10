@@ -53,4 +53,4 @@ The gentle slope profile is ideal for beginners: divers descend to 8–12 metres
 Sebayur is one of Komodo's most forgiving dive sites and an ideal introduction to the park for those unfamiliar with Indonesian reef diving. The site doubles as an excellent night dive — ask your operator to include it if the schedule allows. Arrive early for the best chance of bumphead parrotfish on the reef, as they typically move off by mid-morning. Combine with Seraya Kecil or the Sabolon sites for a full northern-sector day trip.
 
 ---
-*Sources: [DiveHappy – Sebayur Kecil](https://divehappy.com/sebayur-kecil-komodo/), [SSI MyDiveGuide – Sebayur Kecil](https://www.divessi.com/en/mydiveguide/divesite/81238), [PADI – Sebayur Kecil](https://www.padi.com/dive-site/indonesia/sebayur-kecil/). Last updated 2026-06-10.*
+*Sources: [DiveHappy – Sebayur Kecil](https://divehappy.com/sebayur-kecil-komodo/), [SSI MyDiveGuide – Sebayur Kecil](https://www.divessi.com/en/mydiveguide/divesite/81238), [PADI – Sebayur Kecil](https://www.padi.com/dive-site/indonesia/sebayur-kecil/). Last updated 2026-08-10.*

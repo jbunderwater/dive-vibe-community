@@ -55,4 +55,4 @@ The reef structure at Gindang allows flexible dive profiles. Most divers begin a
 Dive Gindang on an incoming tide for the best visibility and reef fish activity. The site is manageable for intermediate divers comfortable with current, but requires attention to buoyancy on the coral slope to avoid contact with fragile formations. A surface marker buoy is essential for drift ascents. Early morning dives typically offer the clearest water before afternoon winds stir up surface chop.
 
 ---
-*Sources: [Scuba Junkie Komodo – Central Sites](https://www.scubajunkiekomodo.com/central/), [Komodo Resort – Komodo Dive Sites](https://www.komodoresort.com/blog/komodo-dive-sites/), [Divezone – Komodo](https://divezone.net). Last updated 2026-06-10.*
+*Sources: [Scuba Junkie Komodo – Central Sites](https://www.scubajunkiekomodo.com/central/), [Komodo Resort – Komodo Dive Sites](https://www.komodoresort.com/blog/komodo-dive-sites/), [Divezone – Komodo](https://divezone.net). Last updated 2026-08-10.*

@@ -17,7 +17,7 @@ Sita Reef is a reef site near Kisite Island at Kenya's southern coast, within or
 
 ## Overview
 
-Sita Reef's coordinates place it near Kisite Island, within the Kisite-Mpunguti Marine Protected Area system. However, no independent dive source consulted during the June 2026 QA review confirmed "Sita Reef" as a named dive site in dive operator listings, ScubaBoard reports, or dive databases for this area. The site cannot be described with site-specific detail without a confirmed source.
+Sita Reef's coordinates place it near Kisite Island, within the Kisite-Mpunguti Marine Protected Area system. However, no independent dive source consulted during the June 2026 or August 2026 QA reviews confirmed "Sita Reef" as a named dive site in dive operator listings, ScubaBoard reports, or dive databases for this area (re-checked against divessi.com, thediveglobe.com, divers-guide.com, and general web search on 2026-08-10, with the same negative result). The site cannot be described with site-specific detail without a confirmed source.
 
 The broader Kisite-Mpunguti area in which this site sits has documented coral reef diving at depths of 6 to 32 metres, with minimal current at most sites and over 360 fish species and 45 coral species across the park. The characteristics attributed to this site (18m depth, intermediate difficulty, boat entry) are consistent with the area's general reef diving profile but have not been verified against sources confirming this specific named site.
 
@@ -36,4 +36,4 @@ The broader Kisite-Mpunguti area in which this site sits has documented coral re
 *No site-specific marine life sources were found for Sita Reef. The regional Kisite-Mpunguti Marine Park fauna applies to this general area but is not attributed to this specific named site. See Mpunguti Marine Reserve for the park's documented species.*
 
 ---
-*Description based on regional diving characteristics and approximate coordinates. No site-specific sources found. Last updated 2026-06-10.*
+*Description based on regional diving characteristics and approximate coordinates. No site-specific sources found (re-checked 2026-08-10). Last updated 2026-08-10.*

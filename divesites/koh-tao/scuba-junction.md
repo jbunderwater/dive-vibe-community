@@ -52,11 +52,11 @@ Boat from Koh Tao. Entry via back roll. Conditions are manageable for beginner d
 
 ## Safety Considerations
 
-Conditions are generally easy but afternoon conditions can bring more swell from the southeast. Titan triggerfish nesting areas in summer require standard 3-metre distance. Maintain buoyancy above reef structure throughout the dive.
+Conditions are generally easy but afternoon conditions can bring more swell from the southeast. Titan triggerfish nesting areas during the regional nesting season (roughly February–June) require standard 3-metre distance. Maintain buoyancy above reef structure throughout the dive.
 
 ## Photography
 
 The less-visited reefs offer cleaner backgrounds for fish portrait photography. Cuttlefish colour displays reward patient photographers.
 
 ---
-*Sources: [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Koh Tao Complete Guide – Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Big Blue Diving – Koh Tao Dive Sites](https://www.bigbluediving.com/). Last updated 2026-06-10.*
+*Sources: [Sairee Cottage Diving – Koh Tao Dive Sites](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Koh Tao Complete Guide – Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/). Note: Big Blue Diving's current dive-site listing does not include Scuba Junction by name — this site has only 2 independently confirmed sources as of this audit and should be re-checked. Last updated 2026-08-10.*

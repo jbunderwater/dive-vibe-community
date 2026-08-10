@@ -59,4 +59,4 @@ Boat access from La Paz (approximately 45–60 minutes). Multiple La Paz operato
 The San Lorenzo Channel carries tidal currents that can increase during tide changes. Dive with a local guide familiar with timing. A surface marker buoy is recommended. Penetration of the cargo hold requires a torch and appropriate training.
 
 ---
-*Sources: [UCR — The Wreck of the Salvatierra (primary account)](https://math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Baja Diving — La Paz](https://bajadiving.com/la-paz/), [PADI Dive Site — Salvatierra Ferry Wreck](https://www.padi.com/dive-site/mexico/salvatierra-ferry-wreck/). Last updated 2026-06-14.*
+*Sources: [UCR — The Wreck of the Salvatierra (primary account)](https://math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Baja Diving — La Paz](https://bajadiving.com/la-paz/), [PADI Dive Site — Salvatierra Ferry Wreck](https://www.padi.com/dive-site/mexico/salvatierra-ferry-wreck/). Last updated 2026-08-10.*

@@ -17,7 +17,7 @@ Saudi Border is one of Aqaba's most dramatic dive sites, located at the southern
 
 ## Overview
 
-The wall starts approximately 70 meters from shore and runs north-west. Divers swim out across a shallow plateau before dropping over the edge to experience the full scale of the wall drop-off. The wall itself begins at 15 meters and plunges rapidly to depths well beyond recreational limits. Coral coverage changes with depth: branching colonies dominate the shallower sections, transitioning to dense encrusting corals at depth. The site is sometimes accessed as a drift dive along the wall.
+The wall starts approximately 70 meters from shore and runs north-west. Divers swim out across a shallow plateau before dropping over the edge to experience the full scale of the wall drop-off. Sources disagree on the exact crest depth: some describe a 12–15 meter plateau before the drop, while another describes the wall starting as shallow as 7–8 meters — both are noted here rather than picking one, as this likely reflects different entry points along the 850-meter wall. From the crest the wall plunges rapidly to depths well beyond recreational limits (variously reported as 40–60m recreational extent, with technical depths beyond 100m). Coral coverage changes with depth: branching colonies dominate the shallower sections, transitioning to dense encrusting corals at depth. The site is sometimes accessed as a drift dive along the wall.
 
 ## Site Information
 
@@ -57,4 +57,4 @@ The wall drops to depths well beyond recreational limits — maintain strict dep
 Wide-angle photography of the wall face is the primary draw. The scale of the drop-off provides dramatic compositional opportunities. The shallower cabbage coral plateau offers colorful reef shots in good natural light.
 
 ---
-*Sources: [ScubaBoard - Aqaba Diving](https://scubaboard.com/community/threads/aqaba-diving-the-best-place-for-shore-dive.276387/), [Aqaba Adventure Divers - Dive Sites](https://aqaba-diving.com/dive-sites-in-aqaba-red-sea/), [Freediving Jordan - The Dive Sites of Aqaba](https://freedivingjordan.wordpress.com/2013/07/17/the-dive-sites-of-aqaba/). Last updated 2026-06-10.*
+*Sources: [ScubaBoard - Aqaba Diving](https://scubaboard.com/community/threads/aqaba-diving-the-best-place-for-shore-dive.276387/), [Aqaba Adventure Divers - Dive Sites](https://aqaba-diving.com/dive-sites-in-aqaba-red-sea/), [Freediving Jordan - The Dive Sites of Aqaba](https://freedivingjordan.wordpress.com/2013/07/17/the-dive-sites-of-aqaba/), [Scuba Travel - Best Dive Sites of Aqaba and Jordan](https://www.scubatravel.co.uk/redsea/jordandive.html). Re-audited 2026-08-10 — crest-depth conflict identified and flagged. Last updated 2026-08-10.*

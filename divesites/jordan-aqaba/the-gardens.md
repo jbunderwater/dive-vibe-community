@@ -31,7 +31,7 @@ The Gardens features branching hard coral formations over relatively flat to gen
 
 ## Marine Life
 
-The reef supports a diverse community of hard coral species including branching Acropora and lettuce corals. Common residents include large moray eels, frogfish, crocodilefish, clownfish in anemones, pufferfish, and schools of anthias and damselfish. Barracuda and other predators patrol the reef edges. The site is noted for macro photography opportunities including nudibranchs and small invertebrates.
+This site corresponds to the "Coral Garden" dive site listed by local operator Arab Divers, whose own site page confirms the following as observed here: moray eels, frogfish, crocodilefish, torpedo rays, barracuda, pufferfish, clownfish, and schools of reef fish. Frogfish are noted as the dominant small predator, common among the lettuce and fire coral growth, and each large coral head tends to host its own distinct micro-community of moray eels and reef fish. The site is noted for macro photography opportunities including nudibranchs and small invertebrates, though this specific claim was not independently corroborated beyond the regional pattern.
 
 ## Dive Profile
 
@@ -39,7 +39,7 @@ Divers enter from the shore and swim out to the reef, which begins in shallow wa
 
 ## Entry and Exit
 
-Shore entry over the fringing reef flat. Check the current direction before entering. Moderate currents can develop across the site; plan your exit accordingly. Snorkeling is possible in calmer conditions.
+Shore entry over the fringing reef flat. Access can be restricted where the site fronts hotel/gated beach areas — check current access arrangements with a local dive operator. Check the current direction before entering; conditions are reported as medium-to-strong. Moderate currents can develop across the site; plan your exit accordingly. Snorkeling is possible in calmer conditions.
 
 ## Tips and Recommendations
 
@@ -57,4 +57,4 @@ Moderate currents are common. Avoid surge zones near the entry point. Always div
 Excellent macro photography site. Look for nudibranchs, frogfish, and crocodilefish resting among the coral heads. Wide-angle shots of the branching hard coral formations work well in good visibility.
 
 ---
-*Sources: [Arab Divers - Coral Garden](https://www.arabdivers.jo/en/activities/dive-sites/coral-garden), [Coral Garden Diving Center - Dive Sites](https://www.dive-inaqaba.com/dive-sites-aqaba/), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/). Last updated 2026-06-10.*
+*Sources: [Arab Divers - Coral Garden](https://www.arabdivers.jo/en/activities/dive-sites/coral-garden), [Coral Garden Diving Center - Dive Sites](https://www.dive-inaqaba.com/dive-sites-aqaba/), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Aqaba Adventure Divers - Coral Garden](https://aqaba-diving.com/coral-garden-aqaba/). Last updated 2026-08-10.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Nudi Falls
 
-Nudi Falls is one of the most celebrated nudibranch diving sites in the world — and in the Lembeh Strait, which is already the global epicentre of nudibranch diversity, that is a significant distinction. Located in the northern section of the strait in North Sulawesi, Indonesia, the site is built around a small vertical rock wall descending to about 27 metres, with a sand slope and rubble channel below. The name has a precise origin: diver bubbles rising along the wall sometimes dislodge nudibranchs from above, causing them to drift downward — hence, "Nudi Falls."
+Nudi Falls is one of the most celebrated nudibranch diving sites in the world — and in the Lembeh Strait, which is already the global epicentre of nudibranch diversity, that is a significant distinction. Located in the northern section of the strait in North Sulawesi, Indonesia, the site is built around a small vertical rock wall that descends to roughly 15 metres before giving way to a sand-and-rubble slope and channel that continues to a maximum depth of 25–27 metres (sources vary slightly on the exact maximum). The name has a precise origin: diver bubbles rising along the wall sometimes dislodge nudibranchs from above, causing them to drift downward — hence, "Nudi Falls."
 
 ## Overview
 
@@ -32,7 +32,7 @@ The site's defining feature is the vertical rock wall, which is encrusted with a
 
 ## Marine Life
 
-The wall itself is the primary nudibranch habitat. Chromodorids are abundant — including Ardeadoris egretta and other striking species; Nembrotha, Dotto, and Jalonus varieties are also documented here, and Lembeh Resort lists over a dozen species regularly photographed on the wall face. Aeolid nudibranchs colonise hydroid patches on the wall and in the rubble below. Beyond nudibranchs, the sand slope produces robust ghost pipefish, wonderpus, and flamboyant cuttlefish. Rhinopias and harlequin shrimp have been reported in the rubble channel. Pygmy seahorses have been found at this site. Frogfish are distributed across the rubble zones. No site-specific marine life reports were available for garden eels or species not listed above — the description reflects what sources have specifically confirmed at this site.
+The wall itself is the primary nudibranch habitat. Nembrotha, Dotto, and Jalonus species are documented here, and Lembeh Resort describes it as "usually the most nudibranch-rich site in the Strait." Beyond nudibranchs, the sand slope produces robust ghost pipefish, wonderpus, and flamboyant cuttlefish. Rhinopias and harlequin shrimp have been reported in the rubble channel. Bargibanti pygmy seahorses are found on a Muricella sea fan under an overhang at around 14 metres — up to ten individuals have been recorded on the same fan depending on season. Frogfish are distributed across the rubble zones. A specific "Chromodoris" or "Ardeadoris" species name previously listed here could not be re-confirmed against current sources and has been removed; the wall's broader chromodorid diversity is described qualitatively instead.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Intermediate difficulty is warranted by the mild current potential in the northe
 Nudi Falls is arguably the finest nudibranch photography site in Southeast Asia. Chromodorids against dark ascidian backgrounds create high-contrast images. Aeolids in profile against the wall surface or backlit water are classic supermacro subjects. Wet dioptre attachments (+5 or +10 close-up lenses) allow extreme magnification of gill plumes and rhinophores. A diffused strobe setup reduces harsh shadows in the intricate wall surface. Allow one full dive per genus family to do justice to the variety here.
 
 ---
-*Sources: [Lembeh Resort – Nudi Falls](https://www.lembehresort.com/divesites/nudi-falls), [PADI – Nudi Falls](https://www.padi.com/dive-site/indonesia/nudi-falls/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [NAD-Lembeh – Nightdiving Nudi Falls](https://www.nad-lembeh.com/blog/critters/nightdiving-nudi-falls/), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/). Last updated 2026-06-14.*
+*Sources: [Lembeh Resort – Nudi Falls](https://www.lembehresort.com/divesites/nudi-falls), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/). Re-audited 2026-08-10: unconfirmed specific nudibranch species name removed; wall/slope depth description corrected.*

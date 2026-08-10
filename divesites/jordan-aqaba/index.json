@@ -54,7 +54,7 @@
     "lng": 34.9721236,
     "difficulty": "Beginner",
     "maxDepth": 18,
-    "entryType": "boat",
+    "entryType": "both",
     "siteType": "reef",
     "ref": "",
     "osmId": 5504662457

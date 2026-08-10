@@ -17,7 +17,7 @@ Makawide is consistently ranked among the most species-diverse muck dive sites i
 
 ## Overview
 
-The Makawide slope descends gradually to 24–29 metres (sources give varying maxima for the two areas) across a substrate that transitions between coral growth at shallow depth, open black sand, and rubble zones. The coral patch areas in the shallows provide habitat for resident pygmy seahorses and ghost pipefish, while the sand and rubble below support the full range of Lembeh muck critters. Visibility averages 8–15 metres. Currents are typically light to moderate. Water temperature holds at 26–29°C year-round.
+The Makawide slope descends gradually to 24–29 metres (sources give varying maxima for the two areas), with small rocky pinnacles rising from about 26 metres to 15 metres on the silty slope at Makawide 2. The substrate transitions between coral growth at shallow depth, open black sand, and rubble zones. The coral patch areas in the shallows provide habitat for resident pygmy seahorses and ghost pipefish, while the sand and rubble below support the full range of Lembeh muck critters. Visibility averages 8–15 metres. Currents can be stronger and more variable here than at more sheltered strait sites — one dive operator specifically describes Makawide as more exposed to current than nearby Nudi Retreat. Water temperature holds at 26–29°C year-round.
 
 ## Site Information
 
@@ -27,7 +27,7 @@ The Makawide slope descends gradually to 24–29 metres (sources give varying ma
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 8–15 metres (25–50 feet)
-- **Current**: Light to moderate
+- **Current**: Light to moderate; can run stronger than sheltered strait sites, especially around the Makawide 2 pinnacles
 - **Best Time**: Year-round; October to May for calmest conditions
 
 ## Marine Life
@@ -59,4 +59,4 @@ The coral patch areas require heightened buoyancy awareness — contact with gor
 Makawide may be the single best all-around macro photography site in the Lembeh Strait for photographers seeking variety in a single dive. Pygmy seahorses demand supermacro technique — a dioptre attachment and steady hand are essential for the 1–2 cm subjects against their complex backgrounds. Ghost pipefish allow more conventional 100mm macro shooting. Rhinopias, when resident, are one of the most extraordinary macro subjects in the Indo-Pacific — their skin texture and colour variants (yellow and red individuals are documented in Lembeh) reward patient close-range portrait work.
 
 ---
-*Sources: [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Lembeh Resort – Know Your Rhino](https://www.lembehresort.com/blogs/know-rhino), [ZuBlu – Lembeh Strait](https://www.zubludiving.com/destination/indonesia/sulawesi/lembeh-strait), [NAD-Lembeh – Rhinopias](https://www.nad-lembeh.com/blog/critters/creature-feature-rhinopias/). Last updated 2026-06-14.*
+*Sources: [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [ZuBlu – Lembeh Strait](https://www.zubludiving.com/destination/indonesia/sulawesi/lembeh-strait), [Diversion Dive Travel – Diving Makawide](https://www.diversiondivetravel.com.au/g771/diving_makawide.html). Re-audited 2026-08-10: the previously cited Lembeh Resort "Know Your Rhino" and NAD-Lembeh Rhinopias blog posts were re-checked and do not actually name Makawide, so they were replaced with sources that do; current strength corrected upward per Diversion Dive Travel.*

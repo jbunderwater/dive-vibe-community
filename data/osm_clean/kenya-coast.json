@@ -11,9 +11,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "africakenyasafaris.com,scubago.com,oceantribe.co",
-      "last_qa_date": "2026-06-10",
-      "notes": "Part of Kisite-Mpunguti Marine National Park. Coral reef sloping from 2m to 32m. Known for dolphin encounters and reef fish. Re-audited 2026-06-10: generic marine life claims retained only where regionally confirmed."
+      "validation_source": "africakenyasafaris.com,scubago.com,oceantribe.co,en.wikipedia.org",
+      "last_qa_date": "2026-08-10",
+      "notes": "Part of Kisite-Mpunguti Marine National Park (Kisite Park 28km2 + Mpunguti Reserve 11km2 = 39km2 total, per Wikipedia). Coral reef sloping from 2m to 32m. Known for dolphin encounters and reef fish (45 coral species, 360+ fish species per multiple operator sources). Re-audited 2026-08-10: africakenyasafaris.com and scubago.com pages returned no extractable text on re-fetch (likely JS-rendered) but content is corroborated via search-index snippets; added Wikipedia as a directly-fetchable 4th source confirming park area and species diversity. No factual corrections needed."
     }
   },
   {
@@ -29,8 +29,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "diveworldwide.com,diveinkenya.com,kenyapeaks.com",
-      "last_qa_date": "2026-06-10",
-      "notes": "Watamu Marine National Park, established 1968. Park depth range 5-24m. Named sites include Turtle Reef, The Canyon, Moray Reef/Canyon, Mida Wreck. Depth updated from 25m to 24m based on documented dive site depths. Re-audited 2026-06-10."
+      "last_qa_date": "2026-08-10",
+      "notes": "Watamu Marine National Park, established 1968. Park depth range 5-24m. Named sites include Turtle Reef, The Canyon, Moray Reef/Canyon, Mida Wreck, The Larder (deep Mida Creek channel site). Depth updated from 25m to 24m based on documented dive site depths. Re-audited 2026-08-10: fish/coral species counts conflict across sources (diveworldwide.com now states 1,000+ fish species and 100+ coral; Aqua Ventures/kenyapeaks.com sources state ~600 fish species and 150+ coral) - conflict flagged in markdown rather than picking one figure."
     }
   },
   {
@@ -45,9 +45,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "scubatravel.co.uk,dianimarine.com,oceantribe.co",
-      "last_qa_date": "2026-06-10",
-      "notes": "Fringing reef parallel to Diani Beach. 30+ named dive sites in area including Galu Reef, Kinondo Reef, Papa Mashilingi, MV Alpha Funguo Wreck. Re-audited 2026-06-10: whale shark claim retained (Oct-Mar season confirmed by multiple sources)."
+      "validation_source": "scubatravel.co.uk,dianimarine.com,oceantribe.co,divingthecrab.com",
+      "last_qa_date": "2026-08-10",
+      "notes": "Fringing reef parallel to Diani Beach. 30+ named dive sites in area including Galu Reef, Kinondo Reef, Papa Mashilingi, MV Alpha Funguo Wreck. Re-audited 2026-08-10: CORRECTED source attribution - Papa Mashilingi's description (12m avg depth, whale shark name origin, drift dive) traces specifically to divingthecrab.com, not oceantribe.co as previously cited; divingthecrab.com added as source and oceantribe.co retained since it independently confirms Galu, Kinondo, and MV Alpha Funguo as real named sites. Kinondo Reef depth conflict flagged: scubatravel.co.uk gives 10-20m, dianimarine.com gives 10-31m. Whale shark claim retained (Oct-Mar season confirmed by multiple sources)."
     }
   },
   {
@@ -62,9 +62,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,xtremespots.com,oceantribe.co",
-      "last_qa_date": "2026-06-10",
-      "notes": "Vessel built 1965 at Hatlo Verksted SA, Ulsteinvik, Norway. Length: Wikipedia gives 75m/246ft; dive operator sources cite 77m/252ft. Displacement: 495 long tons (Wikipedia). Scuttled 27 Oct 2002 (Wikipedia) / 25 Oct 2002 (Ocean Tribe). Rests upright at 30m, shallowest at 12m. Confirmed marine life: groupers, barracuda, moray eels, Napoleon wrasse, big-eye snapper (xtremespots.com, divekenya.com). Depth conflict flagged in markdown. Re-audited 2026-06-10."
+      "validation_source": "en.wikipedia.org,xtremespots.com,oceantribe.co,divekenya.com",
+      "last_qa_date": "2026-08-10",
+      "notes": "Vessel built 1965 at Hatlo Verksted SA, Ulsteinvik, Norway. Length: Wikipedia gives 75m/246ft; dive operator sources (xtremespots.com) cite 77m/252ft. Displacement: 495 long tons (Wikipedia). Scuttled 27 Oct 2002 (Wikipedia) / 25 Oct 2002 13:05 (oceantribe.co, with specific time-of-day detail). Rests upright at 30m, shallowest at 12m; divekenya.com gives a broader 12-32m range for the site overall. Confirmed marine life: groupers, barracuda, moray eels, Napoleon wrasse, big-eye snapper, batfish (xtremespots.com, divekenya.com). Depth/date conflicts flagged in markdown. Re-audited 2026-08-10: NEW CONFLICT FOUND - oceantribe.co states the vessel was 'built as MV Rodriguez' in 1965, while Wikipedia states it was launched as 'Dania' (1965-1976) and only renamed 'Rodriguez' 1981-1987 before reverting to 'Dania'. This name-origin conflict is now flagged in the markdown rather than assuming Wikipedia's chronology is correct. Footer source citations corrected to match validation_source (previously cited divekenya.com/location generically without oceantribe.co's actual MV Dania article URL)."
     }
   },
   {
@@ -79,9 +79,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "xtremespots.com,scubatravel.co.uk,sojournsafaris.co.ke",
-      "last_qa_date": "2026-06-10",
-      "notes": "CORRECTED site_type reef->drift (strong tidal currents, drop-off to 35m, pelagic species). CORRECTED depth 15m->23m (sources confirm 23m/75ft max depth in creek). CORRECTED difficulty Intermediate->Advanced (multiple sources require drift dive experience). Mtwapa Drop Off drops from 10m to 35m with strong currents. Marine life confirmed: barracuda, black trevally, kingfish, spiny lobsters, potato grouper. Re-audited 2026-06-10."
+      "validation_source": "xtremespots.com",
+      "last_qa_date": "2026-08-10",
+      "notes": "CORRECTED site_type reef->drift (strong tidal currents, drop-off to 35m, pelagic species). CORRECTED depth 15m->23m (sources confirm 23m/75ft max depth in creek). CORRECTED difficulty Intermediate->Advanced (multiple sources require drift dive experience). Mtwapa Drop Off drops from 10m to 35m with strong currents. Marine life confirmed: barracuda, black trevally, kingfish, spiny lobsters, potato grouper (xtremespots.com). RE-AUDIT 2026-08-10 FINDING: scubatravel.co.uk and sojournsafaris.co.ke were previously cited as sources but direct re-fetch confirms neither page contains any Mtwapa-specific content (verified by full-text search of both pages) - these were mis-citations and have been REMOVED. Extensive additional search (justgottadive.com, hellomombasa.com, kenyasafaritrails.co.uk, thailandliveaboards.com, general web search) found no second independent site-specific source; all secondary mentions found trace back to xtremespots.com's own phrasing. Only 1 genuinely independent, site-specific source (xtremespots.com) currently confirmed. Facts retained as accurate (xtremespots.com is a detailed, dive-specific, non-promotional source) but this site does NOT currently meet the 3-independent-source standard - flagged as unresolved pending a second source."
     }
   },
   {
@@ -96,9 +96,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "scubatravel.co.uk,sojournsafaris.co.ke,divekenya.com",
-      "last_qa_date": "2026-06-10",
-      "notes": "CORRECTED site_type wall->reef: multiple sources consistently describe Nyali as a reef dive, not a wall dive. CORRECTED difficulty Intermediate->Beginner: described as 'all levels will enjoy' and beginner-friendly by multiple sources. Hard coral with anemone gardens. Confirmed marine life: anemonefish, eels, turtles, reef fish. Re-audited 2026-06-10."
+      "validation_source": "sojournsafaris.co.ke,divekenya.com,hellomombasa.com",
+      "last_qa_date": "2026-08-10",
+      "notes": "CORRECTED site_type wall->reef: multiple sources consistently describe Nyali as a reef dive, not a wall dive. CORRECTED difficulty Intermediate->Beginner: described as 'all levels will enjoy' and beginner-friendly by multiple sources. Hard coral with anemone gardens. Confirmed marine life: anemonefish, eels, turtles, reef fish, octopus, lionfish, nudibranchs (hellomombasa.com). RE-AUDIT 2026-08-10: CORRECTED source list - scubatravel.co.uk was previously cited but a full-text re-check of that page confirms it does not mention Nyali anywhere; removed and replaced with hellomombasa.com, which independently confirms depth (8-22m) and additional marine life (octopus, lionfish, nudibranchs, coral bommies) not previously documented. Depth range broadened per hellomombasa.com finding."
     }
   },
   {
@@ -113,9 +113,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "divesitedirectory.co.uk,scubatravel.co.uk,showcaves.com",
-      "last_qa_date": "2026-06-10",
-      "notes": "NOTE: The historic Shimoni Caves are terrestrial coral limestone caves (slave trade history) — NOT the dive site. The dive site near Shimoni involves underwater cave/cavern exploration. CORRECTED max depth 28m->20m (sources report sandy bottom at ~20m with chimney exit at 10m). CORRECTED difficulty Advanced->Intermediate (sources confirm suitable for intermediate divers). Confirmed marine life: groupers, snappers, eels inside caves. Marine park protections apply. Re-audited 2026-06-10."
+      "validation_source": "showcaves.com,oceantribe.co",
+      "last_qa_date": "2026-08-10",
+      "notes": "NOTE: The historic Shimoni Caves are terrestrial coral limestone caves (slave trade history) - NOT the dive site. The dive site near Shimoni involves underwater cave/cavern exploration. CORRECTED max depth 28m->20m (sources report sandy bottom at ~20m with chimney exit at 10m). CORRECTED difficulty Advanced->Intermediate (sources confirm suitable for intermediate divers). RE-AUDIT 2026-08-10 FINDING: scubatravel.co.uk was previously cited but full-text re-check confirms it does not mention Shimoni anywhere - REMOVED. divesitedirectory.co.uk (previously the primary named-site source) is currently unreachable (DNS/connection failure on re-check) and could not be re-verified - removed from active citation pending future re-check. Remaining sources (showcaves.com confirms the land-cave/slave-trade distinction; oceantribe.co confirms Kisite park generally has 'coral gardens and underwater caves' but does not name a specific 'Shimoni Caves Reef' dive site). This site's identity as a distinct, bookable, named dive site is WEAKLY confirmed on this re-audit - flagged as unresolved. Confirmed species (groupers, snappers in cave interior) retained from prior research but could not be re-verified against a live source this cycle."
     }
   },
   {
@@ -131,8 +131,8 @@
       "addedBy": "fill_new_destinations",
       "validated": false,
       "validation_source": "",
-      "last_qa_date": "2026-06-10",
-      "notes": "VALIDATION REMOVED: No independent source found confirming 'Sita Reef' as a named dive site. Not mentioned in Kisite-Mpunguti operator pages, ScubaBoard Kenya threads, or dive databases. Coordinates place it near/south of Kisite Island. Cannot validate with fewer than 3 independent sources. Re-audited 2026-06-10."
+      "last_qa_date": "2026-08-10",
+      "notes": "VALIDATION REMOVED (unchanged): No independent source found confirming 'Sita Reef' as a named dive site, including on 2026-08-10 re-search (fresh WebSearch for \"Sita Reef\" Kenya dive site Kisite Mpunguti still returns no matches for this name). Not mentioned in Kisite-Mpunguti operator pages, ScubaBoard Kenya threads, or dive databases checked (divessi.com, thediveglobe.com, divers-guide.com, kichakatours.com, africakenyasafaris.com, Wikipedia). Coordinates place it near/south of Kisite Island. Cannot validate with fewer than 3 independent sources."
     }
   },
   {
@@ -148,8 +148,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "heregoeskenya.com,marcopolosafaris.com,4x4africa.com",
-      "last_qa_date": "2026-06-10",
-      "notes": "Funzi Island confirmed as diving base with fringing reef and proximity to Kisite-Mpunguti (25-min speedboat). Known for sea turtle nesting (green, hawksbill, leatherback). Diving accessed via boat from Shimoni or Msambweni. Mangrove channels also accessible. Re-audited 2026-06-10: specific dive site descriptions limited — no site-specific marine life sources beyond regional fauna. Validation retained at destination level (3 geographic/travel sources confirm site exists and diving available)."
+      "last_qa_date": "2026-08-10",
+      "notes": "Funzi Island confirmed as diving base with fringing reef and proximity to Kisite-Mpunguti (25-min speedboat, re-confirmed 2026-08-10 via heregoeskenya.com, marcopolosafaris.com, 4x4africa.com direct re-fetch). Known for sea turtle nesting; heregoeskenya.com (re-fetched 2026-08-10) documents FIVE species specifically: green, hawksbill, olive ridley, loggerhead, and leatherback (expanded from the 3-species list previously recorded). Diving accessed via boat from Shimoni or Msambweni. Mangrove channels also accessible. Re-audited 2026-08-10: all three previously-cited sources re-confirmed with matching content; no factual corrections needed beyond the expanded turtle species list. Specific dive site descriptions for the reef itself remain limited - no site-specific marine life sources beyond regional/nesting fauna. Validation retained at destination level."
     }
   },
   {
@@ -164,9 +164,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "diveinkenya.com,ajkenyasafaris.com,scubatravel.co.uk",
-      "last_qa_date": "2026-06-10",
-      "notes": "'Tewa' is confirmed Swahili name for giant grouper. Caves near mouth of Mida Creek within Watamu Marine Park. CORRECTED depth 18m->24m (sources confirm 8-24m range). CORRECTED difficulty Intermediate->Beginner (multiple sources: 'suitable for all levels of experience'). Confirmed marine life: giant groupers (up to 200kg/800lbs confirmed by multiple sources), lionfish, blue-spotted ribbontail rays. Re-audited 2026-06-10."
+      "validation_source": "ajkenyasafaris.com,diveinkenya.com,tic.magicalkenya.com",
+      "last_qa_date": "2026-08-10",
+      "notes": "'Tewa' is confirmed Swahili name for giant grouper (cross-confirmed via ajkenyasafaris.com and tic.magicalkenya.com content indexed via search - direct fetch of magicalkenya.com blocked with 403 on re-check). Caves near mouth of Mida Creek within Watamu Marine Park. CORRECTED depth 18m->24m (sources confirm 8-24m range). CORRECTED difficulty Intermediate->Beginner (multiple sources: 'suitable for all levels of experience'). Confirmed marine life: giant groupers (up to 200kg/800lbs confirmed by multiple sources), lionfish, blue-spotted ribbontail rays. RE-AUDIT 2026-08-10 FINDINGS: (1) scubatravel.co.uk was previously cited but full-text re-check confirms zero mentions of 'Tewa', 'cave', 'cavern', or 'Shimoni' anywhere on that page - REMOVED as a mis-citation; replaced with ajkenyasafaris.com (directly re-fetched, confirms 'Rock Cod Caves'/giant grouper at Mida Creek mouth) and tic.magicalkenya.com (search-index corroborated). diveinkenya.com returned 403 Forbidden on all URLs tried during this re-audit and could not be directly re-verified, though its existence and Watamu-diving relevance is corroborated via third-party search snippets. (2) NAMING CONFLICT FOUND: an independent dive-travel source (justgottadive.com) describes what appears to be the same type of site - a giant-grouper/rock-cod cave system at the Mida Creek mouth - under the name 'Puma Caves' (also rendered 'Vuma Caves'), with entry at 18-20m and chimney exit at 7-10m, rather than 'Tewa Caves' with our recorded 8-24m range. It is not established whether these are the same site under different transliterations or two distinct, nearby cave sites. This conflict is now flagged explicitly in the markdown rather than treated as confirmed."
     }
   }
 ]

@@ -32,7 +32,7 @@ Jahir runs along a sloping black volcanic sand bottom with scattered coral block
 
 ## Marine Life
 
-Sources confirm at Jahir: octopus (including mimic octopus), cuttlefish, hairy frogfish, flamboyant cuttlefish, ornate ghost pipefish, moray eels, stargazers buried in the sand, purple heart urchins with zebra crabs. Rhinopias scorpionfish — the weedy and hairy species that appear almost alien against rubble and sponge — have been reported at the base of the slope; however, their presence is not guaranteed on every dive and depends on current residents tracked by guides. Ambon scorpionfish and devil scorpionfish are also found in rubble zones. No species are attributed beyond confirmed reports. The site is noted as "great for nocturnal exploration," suggesting productive night dives as well.
+Sources confirm at Jahir: octopus (including mimic octopus), cuttlefish, hairy frogfish, painted frogfish, flamboyant cuttlefish, ornate ghost pipefish, tawny/common seahorses, mantis shrimp, purple heart urchins with zebra crabs, Ambon scorpionfish, and eels. Rhinopias scorpionfish — the weedy and hairy species that appear almost alien against rubble and sponge — have been reported at the base of the slope; however, their presence is not guaranteed on every dive and depends on current residents tracked by guides. At night, bobtail squid and starry night octopus become active. The earlier claim of stargazers and devil scorpionfish specifically at this site could not be re-confirmed against current sources and has been removed.
 
 ## Dive Profile
 
@@ -47,16 +47,16 @@ Access by banca boat. Back roll or giant stride entry. Follow your guide closely
 - Brief your guide explicitly on rhinopias and ambon scorpionfish as target species before descending; ask whether rhinopias are currently resident before the dive
 - Spend time with any rhinopias found — they are docile, allow close approach, and reward patient photography
 - The deeper profile here demands careful air and no-decompression limit management; plan to begin ascending with sufficient reserve
-- Stargazers buried in the sand can deliver electric shocks — do not kneel directly on the bottom
-- Night dives at Jahir are offered by some operators; bobtail squid and nocturnal octopus become active after dark
+- Purple heart urchins here often host zebra crabs — look closely at the spines rather than just the urchin body
+- Night dives at Jahir are offered by some operators; bobtail squid and starry night octopus become active after dark
 
 ## Safety Considerations
 
-Jahir's depth pushes to 28 metres or beyond, placing it at the more demanding end of intermediate recreational diving. Monitor your no-decompression limits and air supply carefully. Do not approach or touch any scorpionfish — their dorsal spines are venomous. Standard Lembeh precautions apply: no touching sand or rubble, careful buoyancy, SMB carried at all times. Blue-ringed octopus are present throughout the strait.
+Jahir's depth pushes to 28 metres or beyond, placing it at the more demanding end of intermediate recreational diving. Monitor your no-decompression limits and air supply carefully. Do not approach or touch any scorpionfish — their dorsal spines are venomous. Standard Lembeh precautions apply: no touching sand or rubble, careful buoyancy, SMB carried at all times. Blue-ringed octopus are present throughout the strait as a general precaution, though they are not specifically documented at this site.
 
 ## Photography
 
 Jahir is a strong scorpionfish photography site when rhinopias are resident. Rhinopias — their elaborate skin texture and bold colour variants — are exceptional portrait subjects with a 100mm macro lens at close range. Ambon scorpionfish require supermacro technique due to their small size and intricate surface structure. Mimic octopus hunting in the open can be shot at a slightly wider focal length to capture hunting posture in context. For the deepest zones, monitor air supply carefully — scorpionfish photography is time-consuming, and the depth limits bottom time.
 
 ---
-*Sources: [Dive-the-World – Lembeh Diving](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [Lembeh Resort – North Sulawesi Diving](https://www.lembehresort.com/blogs/best-dive-sites-in-north-sulawesi-indonesia), [Solitude World – Top Muck Sites Lembeh](https://solitude.world/top-muck-diving-sites-in-lembeh-strait-for-macro-photography/), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-06-14.*
+*Sources: [Dive-the-World – Lembeh Diving](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [Infinite Blue Dive Travel – 15 Best Lembeh Sites](https://www.infinitebluedivetravel.com/15-best-dive-sites-of-the-lembeh-strait/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Re-audited 2026-08-10: stargazer and devil scorpionfish claims removed as unconfirmed at this specific site.*

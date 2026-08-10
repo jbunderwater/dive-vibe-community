@@ -59,4 +59,4 @@ Strong and changing currents are the primary hazard at 3 Sisters. Down-currents 
 Three pinnacles provide multiple angles for wide-angle compositions. Shoot up at the pinnacle summits against the blue for dramatic perspective, or frame shark silhouettes against downward light. Fish schools swirling around the rocks create images that capture the energy of Komodo diving. A 10–17mm fisheye excels here.
 
 ---
-*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [ScubaBoard – Komodo North and South](https://scubaboard.com/community/threads/komodo-north-and-south.553289/), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-06-10.*
+*Sources: [Blue Marlin Dive – Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/), [ScubaBoard – Komodo North and South](https://scubaboard.com/community/threads/komodo-north-and-south.553289/), [SSI MyDiveGuide](https://www.divessi.com/en/mydiveguide). Last updated 2026-08-10.*

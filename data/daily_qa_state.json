@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "jordan-aqaba",
-    "kenya-coast",
-    "koh-tao",
-    "komodo-national-park",
-    "la-paz-sea-of-cortez",
-    "lembeh-strait",
     "lombok",
     "lord-howe-island",
     "los-cabos",
@@ -102,6 +96,12 @@
     "zanzibar"
   ],
   "completed_this_cycle": [
+    "jordan-aqaba",
+    "kenya-coast",
+    "koh-tao",
+    "komodo-national-park",
+    "la-paz-sea-of-cortez",
+    "lembeh-strait",
     "indonesia",
     "israel",
     "italy",
@@ -178,6 +178,91 @@
     "hawaii-big-island"
   ],
   "history": [
+    {
+      "date": "2026-08-10",
+      "slugs": [
+        "jordan-aqaba",
+        "kenya-coast",
+        "koh-tao",
+        "komodo-national-park",
+        "la-paz-sea-of-cortez",
+        "lembeh-strait"
+      ],
+      "notes": "All 6 slugs are real (non-group) destinations with direct osm_clean/divesites data; all processed directly. Most significant finding: komodo-national-park's 'Seraya kecil dive site' markdown had been describing Bali's unrelated Tulamben-area 'Seraya Secrets' muck site (mimic octopus, wonderpus, flamboyant cuttlefish) despite being ~400km away in Komodo -- rewritten with sourced content and reclassified muck->reef. jordan-aqaba flagged a jurisdiction/coordinate data-integrity issue on 3 sites (Yatouche, Soufa, Underwater Military Museum) whose sources point to Israeli territory (Eilat) rather than Jordan, needing a maintainer decision outside content QA. kenya-coast found and corrected 6 false source citations (SCUBA Travel, Sojourn Safaris, Ocean Tribe cited for sites they don't actually mention). koh-tao's HTMS Sattakut wreck designation corrected (was commissioned as LCI(L)-739, not LCI(M)-739 as previously written).",
+      "summary": {
+        "sites_total": 108,
+        "sites_validated_today": 1,
+        "sites_re_audited": 101,
+        "hallucinations_removed": 5,
+        "marine_life_stripped": 11,
+        "wreck_conflicts_flagged": 5,
+        "sites_unresolved": 13,
+        "by_destination": {
+          "jordan-aqaba": {
+            "sites_total": 15,
+            "sites_validated_today": 0,
+            "sites_re_audited": 15,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 3,
+            "notes": "Cedar Pride tonnage (1,100-1,161 GRT vs ~2,500t) and Soufa/Satil sink year (1993 vs 1994) conflicts reconfirmed. Yatouche, Soufa, and Underwater Military Museum flagged as a jurisdiction/coordinate data-integrity issue -- sources place these wrecks at Eilat, Israel rather than Jordan; left in place pending maintainer review, not removed by this content-QA pass."
+          },
+          "kenya-coast": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 9,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "6 mis-citations corrected where SCUBA Travel, Sojourn Safaris, and Ocean Tribe were cited as sources but full-text re-fetch showed they never mention the attributed site. MV Dania Wreck gained a new launch-name conflict (Wikipedia: Dania vs Ocean Tribe: 'built as MV Rodriguez'). Sita Reef, Mtwapa Creek, Shimoni Caves Reef, and Tewa Caves remain unresolved (fewer than 3 confirmed independent sources)."
+          },
+          "koh-tao": {
+            "sites_total": 17,
+            "sites_validated_today": 0,
+            "sites_re_audited": 17,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "HTMS Sattakut vessel designation corrected (commissioned as USS LCI(L)-739, not LCI(M)-739); Thai Navy transfer year (1946 vs 1947) and depth range flagged as open conflicts. Pottery's unsourced 'Indian walkman' scorpionfish claim removed. Scuba Junction remains unresolved -- may be a mislabeled reference to a dive shop rather than a distinct site."
+          },
+          "komodo-national-park": {
+            "sites_total": 43,
+            "sites_validated_today": 1,
+            "sites_re_audited": 37,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 5,
+            "notes": "Seraya kecil dive site's entire description traced to Bali's unrelated Seraya Secrets muck site ~400km away -- rewritten with sourced Sudamala Resort house-reef content, reclassified muck->reef, difficulty Intermediate->Beginner. Gaja Rock, Loh Sera dive site, Payong, Big Nose, and Padar Bay remain unresolved (insufficient independent sources; Loh Sera's content actually described the neighboring already-validated Tanjung Loh Sera)."
+          },
+          "la-paz-sea-of-cortez": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "San Rafaelito max depth corrected 16m->18m against two re-fetched sources; sea-lion colony count widened to a documented 3-way discrepancy (40-50/~80/~140). Salvatierra sinking-date conflict (1975 vs 1976) and Fang Ming depth variant reconfirmed still open, not resolved by guessing."
+          },
+          "lembeh-strait": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 0,
+            "notes": "Retak Larry's fabricated 'first documented mimic octopus video in 1997' claim removed (source only supports the naming story). Nudi Falls' unconfirmed nudibranch species name removed and depth description corrected. Nudi Retreat depth corrected 20m->28m against multiple current operator sources. Makawide's rhinopias citation replaced after the originally cited sources were found not to mention the site."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/148",
+      "errors": []
+    },
     {
       "date": "2026-08-08",
       "slugs": [

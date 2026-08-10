@@ -26,4 +26,4 @@ A dramatic wall along the east coast of Nusa Kode named for the profusion of bri
 - **Best Time**: Afternoon for optimal sunlight on the wall face
 
 ---
-*Sources: [Dive The World – Komodo Dive Sites](https://www.dive-the-world.com/diving-sites-indonesia-komodo.php), [DiveHappy – Komodo Diving](https://divehappy.com/indonesia/komodo-diving-dragons-domain/), [Divezone – Yellow Wall](https://divezone.net/divesite/yellow-wall). Last updated 2026-06-10.*
+*Sources: [Dive The World – Komodo Dive Sites](https://www.dive-the-world.com/diving-sites-indonesia-komodo.php), [DiveHappy – Komodo Diving](https://divehappy.com/indonesia/komodo-diving-dragons-domain/), [Divezone – Yellow Wall](https://divezone.net/divesite/yellow-wall). Last updated 2026-08-10.*

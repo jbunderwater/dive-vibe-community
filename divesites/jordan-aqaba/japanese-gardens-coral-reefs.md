@@ -19,7 +19,7 @@ Japanese Gardens is one of Aqaba's most popular reef dives, starting at snorkell
 
 Japanese Gardens sits on the same stretch of shore as the Cedar Pride wreck, making it easy to combine both sites. The reef begins very shallow — around 1–2 metres — and slopes gently down before the reef edge drops to deeper structure. At 20 metres the coral slope transitions to black coral bushes, and a few metres deeper is Black Coral Valley, a notable passage with impressive black coral specimens along its walls at 26–30 metres. A large gorgonian fan coral sits at approximately 23 metres at the head of a gully. In 2013, corals were transplanted here from a site near the Saudi border that faced development pressure; the relocated corals are tagged and have since integrated into the reef.
 
-Documented marine life at this site includes hawksbill turtles, sergeant majors, fusiliers, moray eels, lionfish, and anthias. White-tip reef sharks are occasionally seen in the deep blue off the reef edge. The site is accessible from shore and suitable for a wide range of experience levels, with the shallowest sections ideal for snorkelling.
+Documented marine life at this site includes hawksbill turtles, sergeant majors, fusiliers, moray eels (including a yellowmouth moray at the gorgonian fan), lionfish, anthias, and barracuda; large cornetfish have also been reported near the gorgonian fan. White-tip reef sharks are occasionally seen in the deep blue off the reef edge. The site is accessible from shore and suitable for a wide range of experience levels, with the shallowest sections ideal for snorkelling.
 
 ## Site Information
 
@@ -30,4 +30,4 @@ Documented marine life at this site includes hawksbill turtles, sergeant majors,
 - **Maximum Depth**: 15 meters
 
 ---
-*Sources: [Coral Garden Diving Center - Japanese Gardens](https://www.dive-inaqaba.com/japanese-gardens/), [Arab Divers - Japanese Gardens](https://www.arabdivers.jo/en/activities/dive-sites/japanese-gardens), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Jordan Travel - Japanese Gardens](https://jordan-travel.com/japanese-gardens-reef-aqaba/). Last updated 2026-06-10.*
+*Sources: [Coral Garden Diving Center - Japanese Gardens](https://www.dive-inaqaba.com/japanese-gardens/), [Arab Divers - Japanese Gardens](https://www.arabdivers.jo/en/activities/dive-sites/japanese-gardens), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Jordan Travel - Japanese Gardens](https://jordan-travel.com/japanese-gardens-reef-aqaba/), [The Next Crossing - Diving in Japanese Gardens](https://thenextcrossing.com/diving-in-japanese-gardens). Last updated 2026-08-10.*

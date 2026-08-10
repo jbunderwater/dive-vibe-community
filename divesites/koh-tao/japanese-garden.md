@@ -59,4 +59,4 @@ Conditions are calm and current is minimal — excellent for beginners. Moray ee
 Bright natural light, clear shallow water, and abundant colourful subjects make this an excellent site for beginner underwater photographers. Pinktail triggerfish portraits are a unique opportunity not available at other local sites. Clownfish in anemones are accessible close-up targets.
 
 ---
-*Sources: [Black Turtle Dive – Japanese Gardens](https://www.blackturtledive.com/koh-tao-dive-sites/japanese-gardens/), [Big Blue Diving – Japanese Garden](https://www.bigbluediving.com/koh-tao-dive-sites/), [Dive Happy – Koh Tao Dive Sites](https://divehappy.com/thailand/koh-tao-dive-sites-twins-japanese-gardens-mango-bay/). Last updated 2026-06-10.*
+*Sources: [Black Turtle Dive – Japanese Gardens](https://www.blackturtledive.com/koh-tao-dive-sites/japanese-gardens/), [Big Blue Diving – Japanese Garden](https://www.bigbluediving.com/koh-tao-dive-sites/), [Dive Happy – Koh Tao Dive Sites](https://divehappy.com/thailand/koh-tao-dive-sites-twins-japanese-gardens-mango-bay/). Last updated 2026-08-10.*

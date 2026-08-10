@@ -17,7 +17,7 @@ One of Koh Tao's most popular and versatile dive sites — raised granite shelve
 
 ## Overview
 
-White Rock is located on the west side of Koh Tao and is one of the island's most frequently visited sites due to its accessibility, variety of depth zones, and reliable marine life. The site consists of a series of raised granite shelves from around 5 m all the way to 22 m, with hard coral growth, anemone fields, and rocky overhangs providing habitat diversity. Honeycomb groupers (hexagon groupers) are the signature species — large, distinctive, and reliably present on the shelves. Christmas tree worms in multiple colour forms are found across the rock surfaces. The site's shallow sections make it accessible to Open Water divers while the deeper shelves provide interest for intermediate divers. White Rock is consistently cited by operators as the best night dive on Koh Tao.
+White Rock is located on the west side of Koh Tao and is one of the island's most frequently visited sites due to its accessibility, variety of depth zones, and reliable marine life. The site consists of a series of raised granite shelves from around 5 m down to a maximum reported at 22 m by Black Turtle Dive, though Big Blue Diving's site pages cite a maximum of 28 m — sources disagree on the deepest extent of the shelves — with hard coral growth, anemone fields, and rocky overhangs providing habitat diversity. Honeycomb groupers (hexagon groupers) are the signature species — large, distinctive, and reliably present on the shelves. Christmas tree worms in multiple colour forms are found across the rock surfaces. The site's shallow sections make it accessible to Open Water divers while the deeper shelves provide interest for intermediate divers. White Rock is consistently cited by operators as the best night dive on Koh Tao.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Currents are generally mild but can increase on the outer reef. Long-spined blac
 Christmas tree worms in multi-colour clusters make outstanding close-focus wide-angle or macro subjects. Honeycomb grouper portraits are achievable with a patient approach. Night dive photography reveals octopus colour changes and hunting crustaceans.
 
 ---
-*Sources: [Dive Happy – White Rock Koh Tao](https://divehappy.com/), [Black Turtle Dive – White Rock](https://www.blackturtledive.com/koh-tao-dive-sites/white-rock/), [New Heaven Dive School – White Rock](https://newheavendiveschool.com/2024/10/29/white-rock-koh-taos-dive-sites/). Last updated 2026-06-10.*
+*Sources: [Dive Happy – White Rock Koh Tao](https://divehappy.com/), [Black Turtle Dive – White Rock](https://www.blackturtledive.com/koh-tao-dive-sites/white-rock/), [New Heaven Dive School – White Rock](https://newheavendiveschool.com/2024/10/29/white-rock-koh-taos-dive-sites/), [Big Blue Diving – White Rock](https://www.bigbluediving.com/koh-tao-dive-sites/white-rock/). Last updated 2026-08-10.*

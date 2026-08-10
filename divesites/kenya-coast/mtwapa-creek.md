@@ -23,6 +23,8 @@ Visibility in the creek averages around 12 metres but is strongly tide-dependent
 
 **Correction from earlier data:** This site has been reclassified from `reef` to `drift` and the maximum depth corrected from 15m to 23m, based on multiple dive source descriptions. Difficulty has been updated from Intermediate to Advanced.
 
+**Sourcing note (2026-08-10 re-audit):** All detailed, site-specific facts on this page trace to a single independent source, XtremeSpots. Two sources cited in an earlier pass (SCUBA Travel, Sojourn Safaris) were re-checked in full and do not actually mention Mtwapa Creek anywhere on their pages — those citations were incorrect and have been removed rather than retained as padding. A broader search (dive operator sites, general web search, forum results) did not turn up a second independent source with site-specific detail; other results found were themselves quoting or paraphrasing XtremeSpots. The facts below are retained because XtremeSpots is a detailed, dive-specific, non-promotional source, but this page does not currently meet a 3-independent-source standard.
+
 ## Site Information
 
 - **Location**: Mtwapa Creek, north of Mombasa, Kenya
@@ -51,4 +53,4 @@ Boat access from the Mtwapa area. Surface marker buoy essential for drift dive e
 This site requires drift diving experience and good buoyancy control. The strong tidal currents that make this site productive can also be dangerous — divers without drift diving training should not dive here. Boat pickup coordination is essential. The deep drop-off presents narcosis risk for divers descending below 30 metres without appropriate training. Boat traffic in the creek requires SMB deployment.
 
 ---
-*Sources: [XtremeSpots – Mtwapa Creek](https://www.xtremespots.com/water-sports/scuba-diving/mtwapa-creek-mombasa-marine-park-coast-province-kenya/), [SCUBA Travel – Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [Sojourn Safaris – Kenya Coast Dive Sites](https://www.sojournsafaris.co.ke/best-deep-sea-diving-sites-kenyan-coast-mombasa/). Last updated 2026-06-10.*
+*Sources: [XtremeSpots – Mtwapa Creek](https://www.xtremespots.com/water-sports/scuba-diving/mtwapa-creek-mombasa-marine-park-coast-province-kenya/). Only one independent, site-specific source could be confirmed as of this update — SCUBA Travel and Sojourn Safaris were cited in an earlier pass but do not actually contain Mtwapa-specific content and have been removed. Last updated 2026-08-10.*

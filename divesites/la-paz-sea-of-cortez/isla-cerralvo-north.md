@@ -50,4 +50,4 @@ Longer boat ride from La Paz than the Espíritu Santo sites — approximately 90
 The crossing from La Paz is longer and more exposed than Espíritu Santo routes. Check weather and sea state before departure. Currents can be moderate to strong; current experience is necessary. Bring sufficient hydration for the crossing.
 
 ---
-*Sources: [Baja Diving — Isla Cerralvo](https://bajadiving.com/isla-cerralvo/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Cabo Trek — Cerralvo Island and La Reina](https://cabotrek.com/diving/cerralvo-island-and-la-reina/). Last updated 2026-06-14.*
+*Sources: [Baja Diving — Isla Cerralvo](https://bajadiving.com/isla-cerralvo/), [Cortez Club — Dive Sites](https://cortezclub.com/dive-sites/), [Cabo Trek — Cerralvo Island and La Reina](https://cabotrek.com/diving/cerralvo-island-and-la-reina/). Last updated 2026-08-10.*

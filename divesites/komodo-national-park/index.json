@@ -352,10 +352,10 @@
     "filename": "seraya-kecil-dive-site.md",
     "lat": -8.4181211,
     "lng": 119.8625135,
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "muck",
+    "entryType": "both",
+    "siteType": "reef",
     "ref": "",
     "osmId": 8022733116
   },

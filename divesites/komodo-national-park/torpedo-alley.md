@@ -22,4 +22,4 @@ A black sand slope in Horseshoe Bay at Nusa Kode and Komodo's most celebrated ni
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Lotus Liveaboards – Torpedo Alley](https://lotusliveaboards.com/torpedo-alley-dive-site/), [DiveHappy – Komodo Dragons Domain](https://divehappy.com/indonesia/komodo-diving-dragons-domain/), [Komodo Resort – Komodo Dive Sites](https://www.komodoresort.com/blog/komodo-dive-sites/). Last updated 2026-06-10.*
+*Sources: [Lotus Liveaboards – Torpedo Alley](https://lotusliveaboards.com/torpedo-alley-dive-site/), [DiveHappy – Komodo Dragons Domain](https://divehappy.com/indonesia/komodo-diving-dragons-domain/), [Komodo Resort – Komodo Dive Sites](https://www.komodoresort.com/blog/komodo-dive-sites/). Last updated 2026-08-10.*

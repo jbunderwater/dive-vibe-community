@@ -3,7 +3,7 @@ name: Nudi Retreat
 lat: 1.485
 lng: 125.2533
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 28
 entryType: boat
 siteType: muck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Nudi Retreat
 
-Nudi Retreat is a nudibranch-focused muck dive site in the northern section of the Lembeh Strait, North Sulawesi, Indonesia. Situated in close proximity to its companion site Nudi Falls, Nudi Retreat is set in a small protected cove with an adjacent soft coral wall — giving it both muck-slope and structural elements. It presents a somewhat different character from Nudi Falls, with a shallower profile capping at 20 metres and a species composition that complements rather than duplicates what divers see at Nudi Falls. Operators frequently pair the two sites on the same day.
+Nudi Retreat is a nudibranch-focused muck dive site in the northern section of the Lembeh Strait, North Sulawesi, Indonesia. Situated in close proximity to its companion site Nudi Falls, Nudi Retreat features a coral bowl in the shallows that opens onto a sand slope with encrusted boulders and a mini-wall, with soft coral growth reaching to within about 2 metres of the surface. Multiple current operator sources put the site's maximum depth at 28–29 metres — an earlier version of this page understated the depth at 20 metres, which has been corrected. Operators frequently pair the site with nearby Nudi Falls on the same day.
 
 ## Overview
 
-Nudi Retreat's small cove setting and adjacent soft coral wall create a different nudibranch assemblage than the exposed wall at Nudi Falls. The hydroid-covered rubble patches and low-profile sponge communities support aeolid nudibranchs in good density. The shallow maximum depth (20 metres) means extended bottom times, making this a good site for methodical, slow-paced macro exploration. Visibility is 8–15 metres; currents are light to moderate. Water temperature is stable at 26–29°C.
+Nudi Retreat's coral bowl and mini-wall setting create a different nudibranch assemblage than the exposed wall at Nudi Falls. The hydroid-covered rubble patches and low-profile sponge communities support aeolid nudibranchs in good density, and the shallower zones near the surface remain productive for extended bottom time even though the site's full profile reaches 28–29 metres. Visibility is 8–15 metres; currents are light to moderate. Water temperature is stable at 26–29°C.
 
 ## Site Information
 
@@ -25,18 +25,18 @@ Nudi Retreat's small cove setting and adjacent soft coral wall create a differen
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 8–15 meters (25–50 feet)
 - **Current**: Light to moderate
 - **Best Time**: Year-round; October to May for calmest conditions
 
 ## Marine Life
 
-Nudi Retreat is particularly productive for aeolid nudibranchs, which prey on hydroids — the hydroid-covered rubble patches at this site provide the feeding habitat these species require. Various aeolid species are documented in good numbers. Dorid nudibranchs feeding on sponge growth add chromatic variety. Confirmed additional species at this site include: Pegasus sea moths, Coleman shrimps, blue-ringed octopus, flamboyant cuttlefish, scorpionfish, anemonefish, and boxer crabs (per starfish.ch and dive-the-world.com). Cuttlefish are frequently spotted hunting near the rubble, and frogfish species occupy positions among encrusted debris. The sandy inter-rubble zones produce mantis shrimp and sand-dwelling gobies with commensal shrimps. No species are attributed beyond what sources have specifically confirmed at this site.
+Nudi Retreat is particularly productive for aeolid nudibranchs, which prey on hydroids — the hydroid-covered rubble patches at this site provide the feeding habitat these species require. Confirmed species at this site include Bargibanti and Denise pygmy seahorses on the mini-wall's sea fans, Pegasus sea moths, skeleton shrimp, gobies, frogfish, Banggai cardinalfish, and blue-ringed octopus (seasonal), flamboyant cuttlefish, scorpionfish, and anemonefish. Coral cat sharks have been reported on night dives. A previous "boxer crabs" claim could not be re-confirmed against current sources and has been removed.
 
 ## Dive Profile
 
-Work the rubble and hydroid zones between 8 and 18 meters. Hydroid colonies are the key habitat feature to search — locate a large hydroid stand and examine every branch carefully before moving on. The shallower upper sections of the site above 10 meters have the highest hydroid density and thus the most productive aeolid nudibranch hunting. Unlike deeper sites in the strait, the 20-meter maximum allows very generous bottom times of 60 minutes or more, rewarding the patient diver who wants to cover the same ground multiple times.
+Work the rubble, hydroid, and mini-wall zones from the surface down to the site's full depth of 28 metres. Hydroid colonies are a key habitat feature to search near the surface — locate a large hydroid stand and examine every branch carefully before moving on. The shallower upper sections above 10 metres have the highest hydroid density and are the most productive for aeolid nudibranch hunting, while the deeper sand and rubble slope holds pygmy seahorses, frogfish, and cardinalfish. Because the site reaches 28 metres, plan no-decompression limits accordingly rather than assuming the generous bottom times of a true shallow site.
 
 ## Entry and Exit
 
@@ -46,7 +46,7 @@ Access by banca boat. Entry via back roll or giant stride. Navigate with your gu
 
 - Nudi Retreat pairs naturally with Nudi Falls for a full nudibranch-focused dive day — plan a surface interval between them and approach each with fresh eyes
 - Hydroid stands require careful examination — aeolid nudibranchs feeding on hydroids are often the same colour as their prey and require close scrutiny to detect
-- The shallower profile here makes it a better site than Nudi Falls for photography lighting, as surface light penetrates more evenly throughout the dive zone
+- The upper hydroid zones near the surface offer better photography lighting than the deeper sections, as surface light penetrates more evenly there
 - Ask your guide to note the nudibranch species they find — experienced Lembeh guides can identify nudibranchs on sight that most divers cannot distinguish from their surroundings
 - Multiple passes over the same section of rubble on a single dive frequently reveal additional species missed the first time
 
@@ -56,7 +56,7 @@ Intermediate difficulty is appropriate due to mild current potential and the nee
 
 ## Photography
 
-The hydroid habitat at Nudi Retreat creates distinctive photographic backdrops — aeolid nudibranchs photographed against the branching hydroid structure produce complex, layered images that differ from the clean-sand shots typical of other Lembeh sites. Supermacro with a dioptre attachment reveals extraordinary detail in the gill plumes and preference markings of aeolid species. A diffused strobe or ring flash reduces harsh shadows in the intricate hydroid structure. The shallower depth improves ambient light availability throughout the dive.
+The hydroid habitat at Nudi Retreat creates distinctive photographic backdrops — aeolid nudibranchs photographed against the branching hydroid structure produce complex, layered images that differ from the clean-sand shots typical of other Lembeh sites. Supermacro with a dioptre attachment reveals extraordinary detail in the gill plumes and preference markings of aeolid species. A diffused strobe or ring flash reduces harsh shadows in the intricate hydroid structure. Ambient light is best in the shallower zones; bring a focus light for the deeper sand and rubble slope.
 
 ---
-*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving/), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Dive-the-World – Lembeh Diving](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php), [ZuBlu – Lembeh Strait](https://www.zubludiving.com/destination/indonesia/sulawesi/lembeh-strait), [Lembeh Resort – Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh). Last updated 2026-06-14.*
+*Sources: [Lembeh Resort – Nudi Retreat](https://www.lembehresort.com/divesites/nudi-retreat), [Starfish – Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html), [Dive-the-World – Lembeh Diving](https://www.dive-the-world.com/diving-sites-indonesia-lembeh.php). Re-audited 2026-08-10: maximum depth corrected from 20m to 28m per current operator sources; unconfirmed "boxer crabs" claim removed; pygmy seahorse, cardinalfish, skeleton shrimp, and coral cat shark sightings added per lembehresort.com.*
