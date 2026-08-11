@@ -58,4 +58,4 @@ Standard intermediate reef diving. The Comino area has significant boat traffic 
 The historical anchors make unique subjects for wide-angle photography. The exceptional Mediterranean clarity allows uncluttered reef landscape shots. Resident grouper and moray eels provide strong portrait opportunities.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: [Just Gotta Dive — Comino Dive Sites](https://www.justgottadive.com/dive_resources/travel_articles/cominos-best-dive-sites-anchor-reef-crystal-lagoon), [diveshack Malta — Comino Dive Sites](https://divemalta.com/dive-sites/comino/), [Paradise Diving — Comino](https://paradisediving.com/dive-sites-comino/). Last updated 2026-08-11.*

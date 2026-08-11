@@ -59,4 +59,4 @@ The channel position at Lantern Point means current can be encountered, particul
 The clean Mediterranean water and stepped limestone terrain produce excellent wide-angle reef shots. The channel visibility allows full-reef compositional perspectives. Grouper portraits, moray eels, and schooling sea bream all make strong subjects here.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: [diveshack Malta — Lantern Point](https://divemalta.com/dive-sites/comino/lantern-point/), [Divers Guide — Lantern Point](https://www.divers-guide.com/en/lantern-point), [Just Gotta Dive — Comino Dive Sites](https://www.justgottadive.com/dive_resources/travel_articles/cominos-best-dive-sites-anchor-reef-crystal-lagoon). Last updated 2026-08-11.*

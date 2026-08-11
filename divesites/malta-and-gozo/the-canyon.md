@@ -41,4 +41,4 @@ Reef fish variety, bonito, groupers, and stingrays are possible encounters. The 
 - Dive within your certification limits
 
 ---
-*Sources: [Greatest Dive Sites](https://malta.greatestdivesites.com/north_malta/qawra_and_st_pauls/reef_canyon), [Divers Guide](https://www.divers-guide.com/en/the-canyon). Last updated 2026-04-10.*
+*Sources: [Greatest Dive Sites](https://malta.greatestdivesites.com/north_malta/qawra_and_st_pauls/reef_canyon), [Divers Guide](https://www.divers-guide.com/en/the-canyon). Last updated 2026-08-11.*

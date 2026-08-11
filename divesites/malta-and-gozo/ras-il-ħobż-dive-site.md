@@ -42,4 +42,4 @@ Lobsters, octopus, and moray eels inhabit the pinnacle. The deep walls attract p
 - Sheltered from NW winds
 
 ---
-*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/), [MaltaDives](https://maltadives.com/sites/en). Last updated 2026-04-10.*
+*Sources: [Atlantis Gozo — Ras il-Ħobż](https://www.atlantisgozo.com/dive-sites/ras-il-hobz/), [MaltaDives — Ras il-Hobz](https://maltadives.com/sites/rasilhobz/en), [Divers Guide — Ras il-Hobz](https://www.divers-guide.com/en/ras-il-hobz). Last updated 2026-08-11.*

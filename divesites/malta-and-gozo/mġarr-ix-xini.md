@@ -43,4 +43,4 @@ Exceptionally diverse: lizardfish, goatfish, seabream, scorpionfish, octopus, cu
 - Two caves on the right wall at 6m and 16m
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/mgarrixxini/en), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/mgarr-ix-xini/), [Blue Waters Dive Cove](https://www.divebluewaters.com/blog/gozos-top-dive-sites-mgarr-ix-xini). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/mgarrixxini/en), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/mgarr-ix-xini/), [Blue Waters Dive Cove](https://www.divebluewaters.com/blog/gozos-top-dive-sites-mgarr-ix-xini). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

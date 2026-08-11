@@ -27,7 +27,7 @@ The wreck lies parallel to the shore in the middle of Kalkara Creek on a silty b
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters (sources report a range of ~16–24 metres)
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: Reduced — silty bottom, busy harbour traffic
 - **Current**: Light to moderate
 - **Best Time**: May to October

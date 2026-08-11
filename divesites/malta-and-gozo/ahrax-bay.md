@@ -41,4 +41,4 @@ The canyon walls and rocky reef support typical Mediterranean species. The cave 
 - Dive within your certification limits
 
 ---
-*Sources: [ScubaSpotAdvisor](https://www.scubaspotadvisor.com/en/diving-spots/malta/mellieha/ahrax-inland-sea-3449), [Seashell Diving Malta](https://www.seashelldivingmalta.com/divesites). Last updated 2026-04-10.*
+*Sources: [ScubaSpotAdvisor](https://www.scubaspotadvisor.com/en/diving-spots/malta/mellieha/ahrax-inland-sea-3449), [Seashell Diving Malta](https://www.seashelldivingmalta.com/divesites). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

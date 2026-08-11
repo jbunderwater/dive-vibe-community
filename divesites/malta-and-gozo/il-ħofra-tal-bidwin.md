@@ -40,4 +40,4 @@ Typical Dwejra marine life — the area supports rich biodiversity including gro
 - Combine with Blue Hole, Inland Sea, and Azure Reef
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/en), [VisitGozo](https://visitgozo.com/places/dwejra/). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/en), [VisitGozo](https://visitgozo.com/places/dwejra/), [Atlantis Gozo — Blue Hole](https://www.atlantisgozo.com/dive-sites/blue-hole/), [Oyster Diving — Blue Hole Gozo](https://oysterdiving.com/blue-hole-gozo/). Last updated 2026-08-11.*

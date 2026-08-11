@@ -42,4 +42,4 @@ Octopus, seahorses (on the reef), barracuda, and tuna on the deeper drop-off. Th
 - Shore accessible — no boat needed for the reef
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/xattlahmar/en), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/xatt-l-ahmar/). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/xattlahmar/en), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/xatt-l-ahmar/). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

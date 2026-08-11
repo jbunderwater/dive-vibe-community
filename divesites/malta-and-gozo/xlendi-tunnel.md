@@ -42,4 +42,4 @@ Mediterranean reef species. The tunnel and reef support grouper, moray eels, and
 - Can go very deep on the outer wall — watch your depth
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/en), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/). Last updated 2026-04-10.*
+*Sources: [MaltaDives — Xlendi Tunnel](https://maltadives.com/sites/xlenditunnel-xlendibay/en), [Atlantis Gozo — Xlendi Cave & Reef](https://www.atlantisgozo.com/dive-sites/xlendi-cave-reef/), [Tribloo — Xlendi Tunnel](https://tribloo.com/en/dive-sites/213/xlendi-tunnel.html). Last updated 2026-08-11.*

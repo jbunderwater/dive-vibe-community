@@ -41,4 +41,4 @@ The surrounding reef and nearby wreck support grouper, bream, and barracuda. Sch
 - Dive within your certification limits
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/statueofchrist/en), [Wikipedia](https://en.wikipedia.org/wiki/Kristu_tal-Ba%C4%A7%C4%A7ara), [DiveWise Malta](https://divewise.com.mt/blogs/dive-sites/the-imperial-eagle-ferry-the-statue-of-christ). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/statueofchrist/en), [Wikipedia](https://en.wikipedia.org/wiki/Kristu_tal-Ba%C4%A7%C4%A7ara), [DiveWise Malta](https://divewise.com.mt/blogs/dive-sites/the-imperial-eagle-ferry-the-statue-of-christ). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

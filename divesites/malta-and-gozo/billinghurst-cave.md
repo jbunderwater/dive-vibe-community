@@ -43,4 +43,4 @@ Various eels and shrimp inhabit the cave. The entrance area supports sponges and
 - Combine with Reqqa Point wall and Anchor Reef
 
 ---
-*Sources: [Corsair Diving Malta](https://corsairdivingmalta.com), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/). Last updated 2026-04-10.*
+*Sources: [Corsair Diving Malta](https://corsairdivingmalta.com), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

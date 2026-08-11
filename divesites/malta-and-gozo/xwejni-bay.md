@@ -41,4 +41,4 @@ Typical north Gozo reef species. The area is known for good fish diversity.
 - Multiple dive sites accessible from one location
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/en), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/en), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*
