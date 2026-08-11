@@ -17,7 +17,7 @@ Tenth of June is one of the Admiralty Islets and one of Lord Howe Island's signa
 
 ## Overview
 
-Tenth of June exists in two dive modes often treated as separate sites: the **Bombora** (shallow variant, 7–18 m) and the **Deep** (20–36 m). The deep plateau drops steeply to 36 metres and is carpeted with gorgonian sea fans, black coral trees, and soft corals. A series of tunnels riddles the reef at the 24-metre level, providing dramatic swim-through terrain. The site is exposed to Coral Sea currents, which feed the large soft coral colonies and draw in pelagic species. Ranked among Lord Howe Island's must-do dives for experienced divers.
+Tenth of June exists in two dive modes often treated as separate sites: the **Bombora** (shallow variant, roughly 7–18 m, consistent across sources) and the **Deep** variant. Sources disagree on the Deep variant's maximum depth: lordhoweisland.info describes a 20 m plateau dropping a further 12 m to the seafloor with exploration around 30 m, while prodive.com.au's broader Admiralty Islets range (which also covers nearby Flat Rock, Roach Island, and Sugarloaf, not Tenth of June alone) extends to 36 m. This entry retains 36 m as the recorded maximum depth, but divers should treat the true bottom depth as somewhere in the 30–36 m range rather than a fixed number. The plateau is carpeted with gorgonian sea fans, black coral trees, and soft corals, and a series of tunnels riddles the reef at the 24-metre level, providing dramatic swim-through terrain. The site is exposed to Coral Sea currents, which feed the large soft coral colonies and draw in pelagic species. Ranked among Lord Howe Island's must-do dives for experienced divers.
 
 ## Site Information
 
@@ -26,7 +26,7 @@ Tenth of June exists in two dive modes often treated as separate sites: the **Bo
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 36 meters
-- **Special Note**: Two variants — Tenth of June Bombora (7–18 m, suitable for Intermediate) and Tenth of June Deep (20–36 m, Advanced)
+- **Special Note**: Two variants — Tenth of June Bombora (7–18 m, suitable for Intermediate) and Tenth of June Deep (roughly 20–36 m depending on source, Advanced)
 
 ## Marine Life
 
@@ -34,7 +34,7 @@ The deep plateau supports black coral trees and extensive gorgonian fans. Black 
 
 ## Dive Profile
 
-For the Deep variant: descend directly to the plateau at 24 metres and explore the tunnel systems. The gutters and swim-throughs run roughly east–west and connect to canyons dropping to 36 metres. Time at depth is limited — plan a conservative profile and ascend through the Bombora terrain (7–18 m) for your safety stop, which also allows exploration of the shallower species. Monitor air consumption carefully given depth and current exposure. For the Bombora only: descend to 18 m and work back up through the tunnel systems without descending to the deeper plateau.
+For the Deep variant: descend directly to the plateau at 24 metres and explore the tunnel systems. The gutters and swim-throughs run through this level and connect to canyons that drop further — sources place the bottom somewhere between 30 and 36 metres, so plan a conservative profile rather than targeting a specific number. Time at depth is limited — ascend through the Bombora terrain (7–18 m) for your safety stop, which also allows exploration of the shallower species. Monitor air consumption carefully given depth and current exposure. For the Bombora only: descend to 18 m and work back up through the tunnel systems without descending to the deeper plateau.
 
 ---
-*Sources: [Scuba Diving Lord Howe Island — lordhoweisland.info](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Pro Dive Lord Howe — prodive.com.au](https://www.prodive.com.au/locations/Scubadive/lord+howe+island/view/Dive_Site), [Admiralty Islands — diveplanit.com](https://www.diveplanit.com/dive-site/admiralty-islands-lord-howe/). Last updated 2026-06-14.*
+*Sources: [Scuba Diving Lord Howe Island — lordhoweisland.info](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Pro Dive Lord Howe — prodive.com.au](https://www.prodive.com.au/locations/Scubadive/lord+howe+island/view/Dive_Site), [Admiralty Islands — diveplanit.com](https://www.diveplanit.com/dive-site/admiralty-islands-lord-howe/). Re-audited 2026-08-11: flagged a source conflict on Deep variant maximum depth (30 m vs 36 m). Last updated 2026-08-11.*
