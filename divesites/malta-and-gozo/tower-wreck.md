@@ -64,4 +64,4 @@ Extreme technical dive at 105–115 metres. CCR or very heavy trimix mandatory. 
 The amphorae scatter in the Deepwater Archaeological Park setting is the primary subject. Heritage Malta has produced photogrammetric 3D documentation of the site. Follow the chartered route to avoid disturbing the delicate silty seabed. Extremely powerful lighting required at 105+ metres.
 
 ---
-*Sources: [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/tower-wreck/), [Heritage Malta — Xlendi Underwater Archaeological Park](https://heritagemalta.mt/explore/xlendi-underwater-archaeological-park/), [DivingInfo.mt](https://www.divinginfo.mt/worlds-first-deepwater-archaeological-park-inaugurated-off-xlendi/). Last updated 2026-06-15.*
+*Sources: [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/tower-wreck/), [Heritage Malta — Xlendi Underwater Archaeological Park](https://heritagemalta.mt/explore/xlendi-underwater-archaeological-park/), [DivingInfo.mt](https://www.divinginfo.mt/worlds-first-deepwater-archaeological-park-inaugurated-off-xlendi/). Last updated 2026-08-11.*

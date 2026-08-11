@@ -61,4 +61,4 @@ Advanced certification required for 42-metre depth. Penetration requires wreck d
 The upright wreck sitting on clean sand with good visibility makes a classic wide-angle subject. The bridge wheel is iconic. The Statue of Christ nearby provides a unique second subject. Interior passages offer atmospheric penetration photography.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [DiveSSI](https://divessi.com), [OK Diving Malta](https://okdivingmalta.com). Last updated 2026-04-10.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [DiveSSI](https://divessi.com), [OK Diving Malta](https://okdivingmalta.com). Last updated 2026-08-11.*

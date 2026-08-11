@@ -55,4 +55,4 @@ Dive boats from Malta and Gozo operators serve the site. Entry by giant stride. 
 At 44 metres maximum depth, this wreck pushes the advanced recreational diving limit. Gas management and NDL discipline are critical. Do not enter the capsized interior — the structure is unstable and unsafe. Always buddy dive and deploy an SMB on ascent.
 
 ---
-*Sources: [MaltaDives.com — MV Xlendi](https://maltadives.com/sites/mvxlendi-xattlahmar), [diveshack Malta — MV Xlendi](https://divemalta.com/dive-sites/gozo/mv-xlendi/), [GozoDive — MV Xlendi](https://gozodive.com/dive-site/mv-xlendi-wreck/). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com — MV Xlendi](https://maltadives.com/sites/mvxlendi-xattlahmar), [diveshack Malta — MV Xlendi](https://divemalta.com/dive-sites/gozo/mv-xlendi/), [GozoDive — MV Xlendi](https://gozodive.com/dive-site/mv-xlendi-wreck/). Last updated 2026-08-11.*

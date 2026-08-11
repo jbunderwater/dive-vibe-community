@@ -52,4 +52,4 @@ Octopuses, groupers, cuttlefish, moray eels, hermit crabs, giant tun snails, and
 - St. Michael's cabin was lost to a 2025 storm — the wreck is changing
 
 ---
-*Sources: [MaltaDives - St. Michael](https://maltadives.com/sites/stmichael-marsaskala/en), [MaltaDives - Tugboat 10](https://maltadives.com/sites/tugboat10-marsaskala/en), [MaltaDives - P33](https://maltadives.com/sites/p33-marsaskala/en), [PADI - Two Tugs](https://www.padi.com/dive-site/malta/two-tugs-tug-10-tug-stmichael/). Last updated 2026-04-10.*
+*Sources: [MaltaDives - St. Michael](https://maltadives.com/sites/stmichael-marsaskala/en), [MaltaDives - Tugboat 10](https://maltadives.com/sites/tugboat10-marsaskala/en), [PADI - Two Tugs](https://www.padi.com/dive-site/malta/two-tugs-tug-10-tug-stmichael/), [DiveBoat.mt - Zonqor Point](https://diveboat.mt/malta-dive-sites/zonqor-point/). Last updated 2026-08-11.*

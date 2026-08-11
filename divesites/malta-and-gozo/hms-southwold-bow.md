@@ -61,4 +61,4 @@ Technical dive at 68–72 metres requiring trimix and decompression planning. He
 The coral-encrusted hull sections make dramatic wide-angle subjects. Weapons systems provide scale and historical context. The separated bow and stern together document the mine strike that broke the ship apart.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/hmssouthwold/en), [Heritage Malta](https://heritagemalta.mt), [Wikipedia — HMS Southwold](https://en.wikipedia.org/wiki/HMS_Southwold), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/malta-deep-wrecks-hms-southwold). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/hmssouthwold/en), [Heritage Malta](https://heritagemalta.mt), [Wikipedia — HMS Southwold](https://en.wikipedia.org/wiki/HMS_Southwold), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/malta-deep-wrecks-hms-southwold). Last updated 2026-08-11.*

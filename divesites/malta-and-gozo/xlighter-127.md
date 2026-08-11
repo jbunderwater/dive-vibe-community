@@ -63,4 +63,4 @@ The shallow bow section (5 metres) is suitable for beginners. The deeper stern a
 The dramatic steep angle is the wreck's most distinctive feature — shoot from below to emphasise the slope. The poor visibility creates atmospheric, moody images. A torch is essential for illuminating detail in the low-visibility water.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Underwater Malta](https://underwatermalta.org), [DiveWise Malta](https://divewise.com.mt). Last updated 2026-04-10.*
+*Sources: [X Lighters — The Wreck of X127](https://www.xlighter.org/x127/wreck.html), [PADI — X127 Lighter / Carolita](https://www.padi.com/dive-site/malta/x127-lighter-carolita/), [MaltaDives.com — X127](https://maltadives.com/sites/x127/en). Last updated 2026-08-11. Note: the "Carolita" entry elsewhere in this dataset is a near-duplicate of this same wreck.*

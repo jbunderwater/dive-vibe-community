@@ -54,4 +54,4 @@ Dive boats from Malta and Gozo operators serve the wreck site. Entry by giant st
 The 41-metre maximum depth demands careful gas management. Avoid fin kicks near the bottom inside the wreck — silt reduces visibility rapidly. Always carry a primary and backup torch for penetration. Do not enter confined spaces without wreck training. Buddy diving is mandatory.
 
 ---
-*Sources: [MaltaDives.com — MV Cominoland](https://maltadives.com/sites/mvcominoland-xattlahmar/en), [NDS Malta — MV Cominoland](https://nds-malta.com/blogs/divesites/mv-cominoland), [diveshack Malta — MV Cominoland](https://divemalta.com/dive-sites/gozo/mv-cominoland/). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com — MV Cominoland](https://maltadives.com/sites/mvcominoland-xattlahmar/en), [NDS Malta — MV Cominoland](https://nds-malta.com/blogs/divesites/mv-cominoland), [diveshack Malta — MV Cominoland](https://divemalta.com/dive-sites/gozo/mv-cominoland/). Last updated 2026-08-11.*

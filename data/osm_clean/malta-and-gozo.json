@@ -37,8 +37,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "bluelagoon.mt,freedivermalta.com,divemalta.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -77,8 +77,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "maltadives.com,atlantisgozo.com",
+      "last_qa_date": "2026-08-11",
+      "validation_notes": "Re-audited 2026-08-11: only 2 independent domains found with site-specific content (maltadives.com, atlantisgozo.com's 'Calypso Tunnel' page). Note: Wikipedia's 'Calypso's Cave' article describes a different, inland tourist cave near Ramla Bay -- NOT this dive site near Xwejni Bay -- and was deliberately excluded to avoid misattribution. Left short of the 3-source bar; do not treat as fully validated."
     }
   },
   {
@@ -141,8 +142,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "atlantisgozo.com,oysterdiving.com,divemalta.com",
+      "last_qa_date": "2026-08-11",
+      "validation_notes": "Known as 'The Blue Hole', Dwejra, Gozo. ~10m diameter, ~15m deep sinkhole with a chimney (18-8m) and archway connecting to open sea; wall beyond drops past 40-60m."
     }
   },
   {
@@ -160,8 +162,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "maltadives.com,atlantisgozo.com,tribloo.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -223,8 +225,9 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "maltadives.com,en.wikipedia.org,independent.com.mt,gozodive.com",
+      "last_qa_date": "2026-08-11",
+      "validation_notes": "Re-audited 2026-08-11: corrected tanker specs to 115m length, 3,148 GRT / 5,390 DWT per Wikipedia (markdown previously stated an incorrect 110m/10,000-ton figure)."
     }
   },
   {
@@ -271,8 +274,9 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "padi.com,underwatermalta.org,maltadives.com",
+      "last_qa_date": "2026-08-11",
+      "validation_notes": "Re-audited 2026-08-11: only the BOW section (~42m) remains at this site — the destroyer was raised in July 1945, the stern lost in deeper water while under tow, and the bow re-scuttled at St Elmo Bay. Markdown corrected to reflect this."
     }
   },
   {
@@ -291,8 +295,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "bluelagoon.mt,freedivermalta.com,divemalta.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -316,7 +320,7 @@
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
       "validation_source": "en.wikipedia.org, maltadives.com, seashelldivingmalta.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -354,8 +358,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "justgottadive.com,divemalta.com,bluelagoon.mt",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -393,8 +397,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "divemalta.com,divers-guide.com,justgottadive.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -412,8 +416,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "divemalta.com,divers-guide.com,justgottadive.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -431,8 +435,8 @@
       "natural": "arch",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "justgottadive.com,divemalta.com,paradisediving.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -450,8 +454,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "justgottadive.com,divemalta.com,paradisediving.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -469,8 +473,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "bluelagoon.mt,freedivermalta.com,divemalta.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -509,8 +513,8 @@
       "scuba_diving:depth": "30",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "atlantisgozo.com,maltadives.com,divers-guide.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -539,7 +543,7 @@
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
       "validation_source": "maltadives.com, divewise.com.mt, nds-malta.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -568,7 +572,7 @@
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
       "validation_source": "maltadives.com, divemalta.com, gozodive.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -597,7 +601,7 @@
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
       "validation_source": "maltadives.com, nds-malta.com, divemalta.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -635,8 +639,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "atlantisgozo.com,maltadives.com,divers-guide.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -675,8 +679,8 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "seashelldivingmalta.com,maltadives.com,deepmedcentre.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -699,8 +703,9 @@
       "wreck:depth": "22",
       "wreck:length": "100",
       "validated": "true",
-      "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "techwise.com.mt,maltadives.com,padi.com",
+      "last_qa_date": "2026-08-11",
+      "validation_notes": "Re-audited 2026-08-11: previously a thin stub with 'web_research' as sole source; replaced with researched content. Depth reported inconsistently across sources (avg 16m/max 24m per techwise.com.mt and maltadives.com vs. commonly cited resting depth ~22m); noted as a range in markdown."
     }
   },
   {
@@ -730,7 +735,7 @@
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
       "validation_source": "en.wikipedia.org, xray-mag.com, divinginfo.mt",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -751,7 +756,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validation_notes": "Re-audited 2026-08-11: not researched this pass due to time constraints -- validation_source remains the placeholder 'web_research'. Needs a genuine follow-up pass."
     }
   },
   {
@@ -812,7 +818,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "web_research",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validation_notes": "Re-audited 2026-08-11: not researched this pass due to time constraints -- validation_source remains the placeholder 'web_research'. Needs a genuine follow-up pass."
     }
   },
   {
@@ -912,7 +919,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "en.wikipedia.org, aquarium.com.mt, maltadives.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -929,7 +936,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "shearwater.com, maltadives.com, divesystemsmalta.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -946,7 +953,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "maltadives.com, seashelldivingmalta.com, divewise.com.mt, blackandwhitediving.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -979,9 +986,10 @@
       "name": "The Canyon",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15",
-      "validation_source": "divers-guide.com",
-      "validated": "true"
+      "last_qa_date": "2026-08-11",
+      "validation_source": "divers-guide.com,malta.greatestdivesites.com",
+      "validated": "true",
+      "validation_notes": "Re-audited 2026-08-11: only 2 independent domains found with site-specific content. Left short of the 3-source bar."
     },
     "maxDepth": 18
   },
@@ -997,7 +1005,9 @@
       "name": "Carolita",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validated": "false",
+      "validation_notes": "UNRESOLVED / DUPLICATE: this entry and 'Xlighter 127' both describe the same wreck (X-Lighter X127, aka 'Carolita', Marsamxett Harbour off Manoel Island) at near-identical coordinates (~90m apart). 'Xlighter 127' carries the validated, sourced entry. Flagging rather than deleting — merging/removing near-duplicate entries is outside this QA pass's scope."
     }
   },
   {
@@ -1080,8 +1090,8 @@
       "name": "Madonna",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15",
-      "validation_source": "maltadives.com,cirkewwamarinepark.mt",
+      "last_qa_date": "2026-08-11",
+      "validation_source": "maltadives.com,cirkewwamarinepark.mt,malta.com",
       "validated": "true",
       "validation_notes": "Statue placed Nov 1987 by Amphibians Diving Club. Located in Susie's Pool area of Cirkewwa, not the main reef wall."
     },
@@ -1163,7 +1173,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "en.wikipedia.org, heritagemalta.mt, maltadives.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1180,8 +1190,8 @@
       "source": "external_csv_import",
       "validated": "false",
       "validation_source": "divers-guide.com, divesystemsmalta.com",
-      "validation_notes": "UNRESOLVED: Only 2 independent sources found. Vessel scuttling date, dimensions, and precise location unconfirmed. Insufficient sources for full validation.",
-      "last_qa_date": "2026-06-15"
+      "validation_notes": "Re-checked 2026-08-11: still only 2 independent sources found (Divers Guide, Dive Systems Malta) despite additional searching (Techwise Malta, Atlantis Gozo, Kah-Wai Lin Photography, ScubaMalta, OK Diving Malta consulted — none cover this specific wreck). Remains UNRESOLVED per the 3-source policy; validated left as false.",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1198,7 +1208,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "maltadives.com, en.wikipedia.org, divemagazine.com, heritagemalta.mt",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1306,10 +1316,10 @@
       "name": "Whale Cave",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15",
+      "last_qa_date": "2026-08-11",
       "validation_source": "maltadives.com,divinginfo.mt",
       "validated": "true",
-      "validation_notes": "Open crack cave (not true overhead): surface accessible throughout. Also known as Ghar in-Niexef / Audrey's Crack."
+      "validation_notes": "Re-audited 2026-08-11: still only 2 independent domains found (maltadives.com, divinginfo.mt). No 3rd site-specific source located this pass. Left short of the 3-source bar."
     },
     "maxDepth": 40
   },
@@ -1490,7 +1500,8 @@
       "name": "Scotscraig",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validation_source": "maltadives.com,diveboat.mt,calypsosac.org"
     }
   },
   {
@@ -1505,7 +1516,9 @@
       "name": "Dornier Wal XI",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validation_source": "maltadives.com,dpfreediving.com,divers-guide.com",
+      "validation_notes": "Sources conflict on this wreck's identity: MaltaDives and DP Freediving identify it as a Dornier Wal XI (SANA airline, reg. I-AZEA) that made a forced landing 16 Feb 1932; Divers Guide identifies it as a 'Dornier D-2053' that crashed in 1938 at 15m. Both accounts are kept distinct in the markdown rather than merged. Also unconfirmed whether the wreck still exists (2025 diver reports suggest it may have deteriorated away)."
     }
   },
   {
@@ -1522,7 +1535,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "maltadives.com, divemagazine.com, divers-guide.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1602,7 +1615,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "key.aero, heritagemalta.mt, underwatermalta.org",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1617,7 +1630,7 @@
       "name": "Tower wreck",
       "validated": "true",
       "validation_source": "underwatermalta.org, heritagemalta.mt, divinginfo.mt",
-      "last_qa_date": "2026-06-15",
+      "last_qa_date": "2026-08-11",
       "sport": "scuba_diving",
       "source": "external_csv_import"
     }
@@ -1634,7 +1647,9 @@
       "name": "Phoenician Shipwreck",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,underwatermalta.org,heritagemalta.mt"
     }
   },
   {
@@ -1651,7 +1666,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "maltadives.com, underwatermalta.org, divemagazine.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1668,7 +1683,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "underwatermalta.org, nationalgeographic.com, divemagazine.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1685,7 +1700,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "maltadives.com, underwatermalta.org, divemagazine.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1703,7 +1718,7 @@
       "validated": "true",
       "validation_source": "en.wikipedia.org, bsac.com, underwatermalta.org, divernet.com",
       "validation_notes": "War grave at 130m. NOT a recreational dive. No regular public dive access. Expedition-only.",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1718,7 +1733,9 @@
       "name": "Schnellboot S-31",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validated": "true",
+      "validation_source": "maltadives.com,divemagazine.com,divers-guide.com"
     }
   },
   {
@@ -1733,7 +1750,9 @@
       "name": "Victorian Guns",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validated": "true",
+      "validation_source": "maltadives.com,underwatermalta.org,calypsosac.org"
     }
   },
   {
@@ -1748,7 +1767,10 @@
       "name": "Xlighter 127",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validated": "true",
+      "validation_source": "xlighter.org,padi.com,maltadives.com",
+      "validation_notes": "Confirmed sunk 6 March 1942 (dive-bomber attack while alongside submarine P39 at Lazzaretto Wharf) per xlighter.org, the dedicated X-Lighter history site. Note: 'Carolita' entry in this same dataset is a near-duplicate of this wreck."
     }
   },
   {
@@ -1765,7 +1787,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "maltadives.com, underwatermalta.org, padi.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1782,7 +1804,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "divinginfo.mt, underwatermalta.org, heritagemalta.mt",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1799,7 +1821,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "maltadives.com, underwatermalta.org, usni.org",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1904,7 +1926,9 @@
       "name": "MV Imperial Eagle",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validated": "true",
+      "validation_source": "maltadives.com,divessi.com,okdivingmalta.com"
     }
   },
   {
@@ -1921,7 +1945,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "maltadives.com, divesystemsmalta.com, techwise.com.mt, maltagc70.wordpress.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1938,7 +1962,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "maltadives.com, divemagazine.com, divesystemsmalta.com, heritagemalta.mt",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1970,7 +1994,7 @@
       "source": "external_csv_import",
       "validated": "true",
       "validation_source": "maltadives.com, divewise.com.mt, divers-guide.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -2094,7 +2118,9 @@
       "name": "Zonqor Point Wreck's",
       "sport": "scuba_diving",
       "source": "external_csv_import",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11",
+      "validated": "true",
+      "validation_source": "maltadives.com,padi.com,diveboat.mt"
     }
   },
   {

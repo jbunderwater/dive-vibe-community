@@ -15,6 +15,8 @@ addedBy: osm_import
 
 The locally used name for Xlighter X127 — a WWI-built Royal Navy lighter at Marsamxett Harbour.
 
+**Note:** This entry describes the same wreck as ["Xlighter 127"](/divesites/malta-and-gozo/xlighter-127) elsewhere in this database, at near-identical coordinates. It is kept here as a QA note rather than deleted; for the fully sourced, validated write-up see the Xlighter 127 page.
+
 ## Overview
 
 Carolita is the local dive community name for the wreck of Xlighter X127, a British water lighter originally built as a landing craft in 1915 for the Royal Navy. The vessel sank on 6 March 1942 during WWII operations in Marsamxett Harbour off Manoel Island. The wreck was unidentified for decades, earning the name "Carolita" or "Coralita" from Malta's diving community. A 2003 survey identified the vessel, confirmed as X-127 in 2006.
@@ -60,4 +62,4 @@ The shallow bow (5m) is suitable for beginners. The 25m stern section requires m
 The steep angle and moody harbour visibility create atmospheric images. A torch illuminates the well-preserved hull details.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Underwater Malta](https://underwatermalta.org), [DiveWise Malta](https://divewise.com.mt). Last updated 2026-04-10.*
+*QA note (2026-08-11): flagged as a near-duplicate of "Xlighter 127" in this dataset — same wreck, coordinates ~90m apart. Not independently re-validated; see Xlighter 127 for sourced content.*

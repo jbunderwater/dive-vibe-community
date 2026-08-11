@@ -63,4 +63,4 @@ Extreme technical dive at 100+ metres. CCR or very heavy trimix mandatory. Full 
 The impact-damaged aircraft tells a dramatic story — the bent detached propeller, separated seat, and displaced canopy with intact radio antenna are compelling subjects. Requires extremely powerful lighting at 100+ metres. The documentary/archaeological value of photography at this site is high.
 
 ---
-*Sources: [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/stuka-ju87/), [National Geographic "Buried Secrets of World War II"](https://www.nationalgeographic.com), [DIVE Magazine](https://divemagazine.com). Last updated 2026-06-15.*
+*Sources: [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/stuka-ju87/), [National Geographic "Buried Secrets of World War II"](https://www.nationalgeographic.com), [DIVE Magazine](https://divemagazine.com). Last updated 2026-08-11.*

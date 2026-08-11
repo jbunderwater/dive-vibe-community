@@ -56,4 +56,4 @@ Boat dive only from east coast operators. The site is approximately 500 metres o
 Advanced certification required for 42-metre depth. The wreck has been significantly degraded — avoid contact with fragile remaining structures. Monitor gas consumption and plan decompression. Currents can be present. Carry an SMB.
 
 ---
-*Sources: [MaltaDives — Bristol Blenheim Bomber](https://maltadives.com/sites/bristolblenheimbomber/en), [underwatermalta.org — Blenheim Bomber](https://underwatermalta.org/discover/blenheim-bomber/), [PADI — Blenheim Bomber](https://www.padi.com/dive-site/malta/blenheim-bomber/). Last updated 2026-06-15.*
+*Sources: [MaltaDives — Bristol Blenheim Bomber](https://maltadives.com/sites/bristolblenheimbomber/en), [underwatermalta.org — Blenheim Bomber](https://underwatermalta.org/discover/blenheim-bomber/), [PADI — Blenheim Bomber](https://www.padi.com/dive-site/malta/blenheim-bomber/). Last updated 2026-08-11.*

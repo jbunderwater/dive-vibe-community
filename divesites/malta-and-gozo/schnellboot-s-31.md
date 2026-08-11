@@ -63,4 +63,4 @@ Technical dive at 65 metres requiring appropriate gas mixtures and decompression
 The loaded torpedo tubes are the most dramatic subject — possibly unique in recreational diving worldwide. The standing anti-aircraft guns provide powerful historical images. The exposed aluminium skeleton against the sandy bottom creates distinctive compositions unlike typical steel wrecks.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [DIVE Magazine](https://divemagazine.com), [Divers Guide](https://www.divers-guide.com). Last updated 2026-04-10.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [DIVE Magazine](https://divemagazine.com), [Divers Guide](https://www.divers-guide.com). Last updated 2026-08-11.*

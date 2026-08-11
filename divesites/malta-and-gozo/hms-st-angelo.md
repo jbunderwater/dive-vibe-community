@@ -63,4 +63,4 @@ Advanced/technical certification required for 54-metre depth. The site's locatio
 The upright, well-preserved wreck makes an excellent wide-angle subject. The compact size allows the entire vessel to be captured in a single frame with a wide lens. The telegraph and wheel hub are compelling close-up subjects. Shoot upward to silhouette the vessel against ambient light.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/hmsstangelo/en), [Dive Systems Malta](https://divesystemsmalta.com/hms-st-angelo/), [Techwise Malta](https://techwise.com.mt/blogs/tech-dive-sites/hms-st-angelo-ww2-wreck), [Malta War Diary](https://maltagc70.wordpress.com/tag/hms-st-angelo/). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/hmsstangelo/en), [Dive Systems Malta](https://divesystemsmalta.com/hms-st-angelo/), [Techwise Malta](https://techwise.com.mt/blogs/tech-dive-sites/hms-st-angelo-ww2-wreck), [Malta War Diary](https://maltagc70.wordpress.com/tag/hms-st-angelo/). Last updated 2026-08-11.*

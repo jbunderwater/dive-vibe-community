@@ -63,4 +63,4 @@ Intermediate level dive at 21 metres. Lower deck penetration should only be atte
 The intact upright wreck on seagrass provides an atmospheric wide-angle subject. Reduced visibility can create moody, atmospheric images. Marine life in and around the wreck — especially moray eels and groupers — provides macro and portrait opportunities.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [DiveBoat.mt](https://diveboat.mt). Last updated 2026-04-10.*
+*Sources: [MaltaDives.com — Scotscraig](https://maltadives.com/sites/scotscraig/en), [DiveBoat.mt](https://diveboat.mt/categories/diving-trips/migra-ferha-ghar-it-trozz-mv-scotscraig/), [Calypso Sub-Aqua Club — Scotscraig](https://www.calypsosac.org/scotscraig/). Last updated 2026-08-11.*

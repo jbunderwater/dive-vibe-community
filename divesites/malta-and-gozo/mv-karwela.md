@@ -54,4 +54,4 @@ Dive boats from Malta and Gozo operators serve this site. Entry by giant stride.
 Maximum 41-metre depth demands gas management discipline. Interior penetration requires wreck training and equipment. Silt can be disturbed inside the vessel, reducing visibility rapidly. Always maintain directional awareness inside the wreck. Buddy diving is mandatory.
 
 ---
-*Sources: [MaltaDives.com — MV Karwela](https://maltadives.com/sites/mvkarwela-xattlahmar/en), [DiveWise Malta — MV Karwela](https://divewise.com.mt/blogs/dive-sites/mv-karwela-gozo-wrecks), [NDS Malta — MV Karwela](https://nds-malta.com/blogs/divesites/mv-karwela). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com — MV Karwela](https://maltadives.com/sites/mvkarwela-xattlahmar/en), [DiveWise Malta — MV Karwela](https://divewise.com.mt/blogs/dive-sites/mv-karwela-gozo-wrecks), [NDS Malta — MV Karwela](https://nds-malta.com/blogs/divesites/mv-karwela). Last updated 2026-08-11.*

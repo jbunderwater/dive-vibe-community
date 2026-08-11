@@ -63,4 +63,4 @@ Extreme technical dive at 110 metres. CCR or very heavy trimix mandatory. Herita
 The amphorae scatter on the seabed is the primary photographic subject — 2,700-year-old ceramics in situ. The lava grinding stones from Sicily provide scale. This is an archaeological documentation opportunity of the highest order. Requires extremely powerful lighting.
 
 ---
-*Sources: [Wikipedia](https://en.wikipedia.org/wiki/Gozo_Phoenician_shipwreck), [Underwater Malta](https://underwatermalta.org), [Heritage Malta](https://heritagemalta.mt), [Biblical Archaeology Society](https://www.biblicalarchaeology.org). Last updated 2026-04-10.*
+*Sources: [Wikipedia](https://en.wikipedia.org/wiki/Gozo_Phoenician_shipwreck), [Underwater Malta](https://underwatermalta.org), [Heritage Malta](https://heritagemalta.mt), [Biblical Archaeology Society](https://www.biblicalarchaeology.org). Last updated 2026-08-11.*

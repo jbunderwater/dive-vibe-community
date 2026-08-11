@@ -63,4 +63,4 @@ Beginner-friendly due to extreme shallowness. The primary hazard is boat traffic
 The natural light streaming through the collapsed roof onto the Victorian cannons is an extraordinary photographic subject. Ambient light photography works beautifully here. The contrast between the dark cavern walls and the light beam creates dramatic compositions. Wide-angle lens essential.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Underwater Malta](https://underwatermalta.org). Last updated 2026-04-10.*
+*Sources: [MaltaDives.com — Ricasoli Cannons](https://maltadives.com/sites/ricasolicannons/en), [Underwater Malta Virtual Museum — Victorian Guns](https://underwatermalta.org/discover/victorian-guns/), [Calypso Sub-Aqua Club — Ricasoli Cannons](http://www.calypsosac.org/ricasoli-cannons/). Last updated 2026-08-11.*

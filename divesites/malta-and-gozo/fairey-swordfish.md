@@ -61,4 +61,4 @@ Technical dive at 70 metres requiring trimix and decompression planning. Heritag
 The skeletal biplane framework draped in colourful sponges is highly photogenic. The intact propeller and cowling are the signature shot. The exposed metal structure reveals engineering details usually hidden beneath fabric covering — a unique photographic opportunity.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/faireyswordfish/en), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/fairy-swordfish/), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/malta-deep-wrecks-fairey-swordfish-junkers-ju88). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/faireyswordfish/en), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/fairy-swordfish/), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/malta-deep-wrecks-fairey-swordfish-junkers-ju88). Last updated 2026-08-11.*

@@ -54,4 +54,4 @@ Dive operators from Malta and Gozo serve the site by boat. Shore diving is also 
 The 47-metre maximum depth places this dive at the advanced recreational limit. Gas management, NDL discipline, and ascent rate control are all critical. Never penetrate the wreck without wreck diving training and appropriate torches. Always dive with a buddy. Deploy an SMB on ascent.
 
 ---
-*Sources: [Wikipedia — MT Hephaestus](https://en.wikipedia.org/wiki/MT_Hephaestus), [X-Ray Mag — Sinking of the Hephaestus](https://xray-mag.com/content/sinking-hephaestus), [divinginfo.mt — M/T Hephaestus](https://www.divinginfo.mt/new-wreck-at-xatt-l-ahmar-gozo-m-t-hephaestus/). Last updated 2026-06-15.*
+*Sources: [Wikipedia — MT Hephaestus](https://en.wikipedia.org/wiki/MT_Hephaestus), [X-Ray Mag — Sinking of the Hephaestus](https://xray-mag.com/content/sinking-hephaestus), [divinginfo.mt — M/T Hephaestus](https://www.divinginfo.mt/new-wreck-at-xatt-l-ahmar-gozo-m-t-hephaestus/). Last updated 2026-08-11.*
