@@ -21,6 +21,8 @@ Turtle Point (also known as Turtle Heaven or Turtle City) is a large underwater 
 
 **Note on location:** OSM coordinates place this entry near the east coast of Gili Trawangan, but multiple dive operators (trawangandive.com, gilidivers.com, terumbudivers.com) identify Turtle Heaven/Turtle Point at the north side of Gili Meno. The commonly identified Turtle Heaven location at north Gili Meno may differ from the OSM coordinate. GPS verification with local operators is recommended.
 
+**Re-audit (2026-08-11):** A fresh, broader search (8 sources: PADI, Dive SSI, Manta Dive, Wayfar, Trawangan Dive, Gili Divers, Trawangan Stingray Divers, dive.site) unanimously places "Turtle Point / Turtle Heaven / Turtle City" at the north-east of Gili Meno, as a pinnacle from 10 to 35 m — reinforcing the location conflict rather than resolving it. Notably, one of those same operators' own dedicated page for "Turtle Point" independently gives a different depth (~18 m) and a north-east Gili Trawangan location, showing the naming and geography are unsettled even among operators. The OSM coordinate for this entry remains several kilometers from the Gili Meno consensus location, on Gili Trawangan's east coast near the Biorock cluster. Given the conflict is not resolved, this entry stays unvalidated.
+
 ## Site Information
 
 - **Location**: North side of Gili Meno (also called Turtle Heaven or Turtle City) — note: OSM coordinates may not match this commonly identified location
@@ -62,4 +64,4 @@ Variable current on the pinnacle. Intermediate divers should stay on the upper s
 Multiple turtles together in one frame are achievable. Turtle portraits with pinnacle coral background. Hard and soft coral coverage provides excellent context for wide-angle shots.
 
 ---
-*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Terumbu Divers – Gili Dive Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-06-14. Note: OSM coordinates may not match the commonly identified Turtle Heaven location at north Gili Meno.*
+*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Terumbu Divers – Gili Dive Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [PADI – Turtle City/Heaven](https://www.padi.com/dive-site/indonesia/turtle-city-heaven/). Last updated 2026-08-11. Note: OSM coordinates do not match the commonly identified Turtle Heaven location at north Gili Meno; not marked as validated pending GPS verification.*

@@ -40,4 +40,4 @@ Mediterranean reef species in crystal-clear water. Bream, wrasse, and octopus ar
 - Combine with Santa Marija Caves nearby
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/en). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/en), [Blue Lagoon — Santa Marija Caves](https://bluelagoon.mt/comino/santa-marija-caves/), [diveshack Malta — Comino Dive Sites](https://divemalta.com/dive-sites/comino/). Last updated 2026-08-11.*

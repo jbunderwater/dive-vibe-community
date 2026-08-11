@@ -39,4 +39,4 @@ Visit each of the three wreck sections in sequence, starting with the largest. T
 Shallow, calm site with minimal hazards. The wreck's corroded metal can have sharp edges — maintain neutral buoyancy and avoid contact with the hull. No penetration should be attempted.
 
 ---
-*Sources: [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/), [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm). Vessel identity and history unverified — no documentary sources found. Last updated 2026-06-14.*
+*Sources: [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/), [Dive Cabo](https://www.divecabo.com/dive-sites/). Vessel identity and history unverified — no documentary sources found despite extensive searching, including maritime and Wikipedia records. Re-audited 2026-08-11: Cabo San Lucas Tours, previously credited as a third source, was re-checked directly and does not describe this site — that citation has been removed. Only two independent sources currently confirm this site's depth/type/marine-life details; a third is still needed. Last updated 2026-08-11.*

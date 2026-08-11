@@ -61,4 +61,4 @@ Advanced certification required for 41-metre depth. Strong currents are frequent
 The paddle wheels are a unique wide-angle subject. The abrupt bow termination — where the bombing damage begins — tells the wreck's story in a single frame. Shoot with ambient light from above for dramatic silhouettes of the paddle wheel structure.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/hmshellespont/en), [Seashell Diving Malta](https://www.seashelldivingmalta.com/dive-site/hellespont), [DiveWise Malta](https://divewise.com.mt/blogs/dive-sites/hms-hellespont-wreck), [Black and White Diving](https://blackandwhitediving.com/blogs/dive-sites/hms-hellespont). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/hmshellespont/en), [Seashell Diving Malta](https://www.seashelldivingmalta.com/dive-site/hellespont), [DiveWise Malta](https://divewise.com.mt/blogs/dive-sites/hms-hellespont-wreck), [Black and White Diving](https://blackandwhitediving.com/blogs/dive-sites/hms-hellespont). Last updated 2026-08-11.*

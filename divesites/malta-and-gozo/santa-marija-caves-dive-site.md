@@ -41,4 +41,4 @@ Sea bream (accustomed to feeding and approachable), octopuses, and lobsters. The
 - Excellent for underwater photography in Comino's clear water
 
 ---
-*Sources: [Corsair Diving Malta](https://corsairdivingmalta.com), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/), [Seashell Diving Malta](https://www.seashelldivingmalta.com). Last updated 2026-04-10.*
+*Sources: [Corsair Diving Malta](https://corsairdivingmalta.com), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/), [Seashell Diving Malta](https://www.seashelldivingmalta.com). Last updated 2026-08-11.*

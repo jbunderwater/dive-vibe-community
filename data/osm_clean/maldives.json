@@ -164,7 +164,7 @@
       "wreck:date_sunk": "1991",
       "validated": true,
       "validation_source": "duikersgids.nl,wernerlau.com,divescover.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -181,8 +181,8 @@
       "name": "HimendhooThila West",
       "sport": "scuba_diving",
       "validated": true,
-      "validation_source": "perplexity",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "wannadive.net,divebooker.com,diversiondivetravel.com.au",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -200,7 +200,7 @@
       "sport": "scuba_diving",
       "validated": true,
       "validation_source": "scubadivingearth.com,maldivestour.guide,divebooker.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1339,7 +1339,7 @@
     "lon": 73.433551,
     "osm_id": 663869941,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1350,8 +1350,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "divescover.com,themaldivesexpert.com,scubaspotadvisor.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1360,7 +1360,7 @@
     "lon": 73.455125,
     "osm_id": 663869942,
     "osm_type": "node",
-    "depth": 24,
+    "depth": 30,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1371,8 +1371,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "en.wikipedia.org,themaldivesexpert.com,scubadivingearth.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1391,9 +1391,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
-      "validation_source": "pattern",
-      "last_qa_date": "2026-06-15"
+      "validated": false,
+      "validation_source": "none_found",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1423,7 +1423,7 @@
     "lon": 73.490725,
     "osm_id": 663869945,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1435,8 +1435,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "pattern",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "maafushiscuba.com,wannadive.net,divescover.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1541,7 +1541,7 @@
       "tourism": "attraction",
       "validated": true,
       "validation_source": "diverland.com,wannadive.net,zubludiving.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1561,8 +1561,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "diverland.com,wannadive.net",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "diverland.com,wannadive.net,themaldivestravel.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1759,7 +1759,7 @@
       "tourism": "attraction",
       "validated": true,
       "validation_source": "maldives-magazine.com,zubludiving.com,infinitebluedivetravel.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1778,9 +1778,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": true,
+      "validated": false,
       "validation_source": "diverland.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1885,7 +1885,7 @@
       "tourism": "attraction",
       "validated": true,
       "validation_source": "maldivestour.guide,zubludiving.com,emperordivers.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -1926,7 +1926,7 @@
       "tourism": "attraction",
       "validated": true,
       "validation_source": "visitmaldives.com,maldivesonlineguide.com,zubludiving.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -2051,7 +2051,7 @@
       "tourism": "attraction",
       "validated": true,
       "validation_source": "dive-the-world.com,rasdhoodivers.com,zubludiving.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -2113,8 +2113,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "padi.com,zubludiving.com,maldivespostcards.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -2123,10 +2123,10 @@
     "lon": 72.9369047,
     "osm_id": 8584320417,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Beautiful dive site: rich coral reefs, school of fishes and tunnel inside rocks",
       "name": "Broken rock",
@@ -2135,8 +2135,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "padi.com,greg-j.com,nova-maldives.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -2230,7 +2230,7 @@
     "lon": 72.9497539,
     "osm_id": 8584458552,
     "osm_type": "node",
-    "depth": 32,
+    "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2241,8 +2241,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": true,
-      "validation_source": "perplexity",
-      "last_qa_date": "2026-06-15"
+      "validation_source": "padi.com,businessclass.com,divessi.com",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -2264,7 +2264,7 @@
       "tourism": "attraction",
       "validated": true,
       "validation_source": "protectedareas.environment.gov.mv,awaylands.com,maldivesexclusive.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -2811,7 +2811,7 @@
       "wreck:visible_at_low_tide": "no",
       "validated": true,
       "validation_source": "protectedareas.environment.gov.mv,divedesk.mv,divernet.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -2833,7 +2833,7 @@
       "wreck:visible_at_low_tide": "no",
       "validated": true,
       "validation_source": "pros-blog.padi.com,visitmaldives.com,dhawa.com",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -2860,7 +2860,7 @@
       "note": "As of early 2025 this wreck drifted off the reef and is no longer in a fixed location. Verify with local operators before diving.",
       "validated": true,
       "validation_source": "visitmaldives.com,maldives.net.mv,edition.mv",
-      "last_qa_date": "2026-06-15"
+      "last_qa_date": "2026-08-11"
     }
   }
 ]

@@ -41,4 +41,4 @@ The current attracts pelagic species. Fish congregate in the current-swept areas
 - Carry appropriate current management equipment
 
 ---
-*Sources: *Description based on regional characteristics. No detailed site-specific sources found. Last updated 2026-04-10.**
+*Sources: *Description based on regional characteristics. No detailed site-specific sources found. Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).**

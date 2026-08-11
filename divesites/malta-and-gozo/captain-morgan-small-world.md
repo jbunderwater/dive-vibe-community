@@ -63,6 +63,6 @@ Extreme technical dive at 103 metres. CCR or heavy trimix mandatory. Full suppor
 The scarcity of visitors means the wreck may offer undisturbed photographic subjects. Extremely powerful lighting required at 103 metres. Document your findings — very few images of this wreck exist in public databases.
 
 ---
-*Sources: [Divers Guide](https://www.divers-guide.com/en/captain-morgan-small-world), [Dive Systems Malta](https://divesystemsmalta.com). Last updated 2026-06-15.*
+*Sources: [Divers Guide](https://www.divers-guide.com/en/captain-morgan-small-world), [Dive Systems Malta](https://divesystemsmalta.com). Last updated 2026-08-11.*
 
 *Note: Only 2 independent sources could be found for this site. Vessel scuttling date, dimensions, and precise location remain unconfirmed. QA status: UNRESOLVED — insufficient independent sources for full validation.*

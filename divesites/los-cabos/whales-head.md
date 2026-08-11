@@ -39,4 +39,4 @@ A straightforward dive over mixed sand and rock terrain. Navigate through the un
 Shallow, calm conditions with minimal hazards. Mild current is possible. Boat traffic along the Corridor requires an SMB on ascent.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm). Last updated 2026-06-14.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm). Re-audited 2026-08-11 — content re-confirmed against current source pages, no factual changes required. Last updated 2026-08-11.*

@@ -41,4 +41,4 @@ Octopus, barracuda, and breams inhabit the reef wall. The cave sheltering the Ma
 - Dive within your certification limits
 
 ---
-*Sources: [Malta.com](https://www.malta.com/en/attraction/diving/diving-site/north-malta/the-madonna-statue-cirkewwa), [Dive Systems Malta](https://divesystemsmalta.com/cirkewwa-madonna/). Last updated 2026-04-10.*
+*Sources: [Malta.com](https://www.malta.com/en/attraction/diving/diving-site/north-malta/the-madonna-statue-cirkewwa), [Dive Systems Malta](https://divesystemsmalta.com/cirkewwa-madonna/). Last updated 2026-08-11.*

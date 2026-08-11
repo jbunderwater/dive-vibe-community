@@ -37,4 +37,4 @@ Whale Cave is located on Gozo's west coast, north of the seaward exit of the Inl
 - Check conditions with local operators before diving
 
 ---
-*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/inland-sea/). Last updated 2026-04-10.*
+*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/inland-sea/). Last updated 2026-08-11.*

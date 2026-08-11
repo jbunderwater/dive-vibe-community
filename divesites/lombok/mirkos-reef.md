@@ -32,7 +32,7 @@ Mirkos Reef (Mirko's Reef) lies between Gili Air and Gili Meno, approximately 15
 
 ## Marine Life
 
-Giant frogfish camouflaged among sponges — a distinctive and confirmed species at this site. Whitetip reef sharks cruising the ridges. Large green sea turtles on the flat 12 m reef top. Blue-spotted ribbon-tailed rays under coral overhangs. Schooling fusiliers and snappers. Map pufferfish, yellow trumpetfish, and long-nosed butterflyfish in the shallows. Sea fans, sponges, acropora antler, and soft corals.
+Giant frogfish camouflaged among sponges — a distinctive and confirmed species at this site. Whitetip reef sharks cruising the ridges. Large green sea turtles on the flat 12 m reef top. Blue-spotted ribbon-tailed rays under coral overhangs. Schooling fusiliers, snappers, and bumphead parrotfish. Pygmy seahorses, peacock mantis shrimp, and orangutan crab confirmed by Manta Dive Gili Air. Map pufferfish, yellow trumpetfish, and long-nosed butterflyfish in the shallows. Sea fans, sponges, acropora antler, and soft corals.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ The deeper ridge sections require Advanced certification. Currents are moderate 
 Giant frogfish portraits on their sponge background are the signature shot. Turtle portraits on the 12 m reef top in natural light. Ridge scenes with sea fans suit wide-angle with strobes.
 
 ---
-*Sources: [Manta Dive Gili Air – Mirko's Reef](https://manta-dive-giliair.com/gili-islands-dive-sites/mirkos-reef-all-levels), [Divezone – Mirko's Reef](https://divezone.net/diving/gili-islands-lombok), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Mirko's Reef](https://manta-dive-giliair.com/gili-islands-dive-sites/mirkos-reef-all-levels), [Divezone – Mirko's Reef](https://divezone.net/diving/gili-islands-lombok), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-08-11.*

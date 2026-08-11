@@ -13,36 +13,36 @@ addedBy: osm_import
 
 ## HimendhooThila West
 
-HimendhooThila West is the western face of the Himendhoo coral pinnacle in South Ari Atoll — a lively thila dive with healthy coral formations and regular encounters with reef sharks and rays along the current-exposed western flank.
+HimendhooThila West refers to the channel-facing side of Himandhoo Thila, a pinnacle dive site in the channel between the islands of Himandhoo and Moofushi in North Ari Atoll (not South Ari, as previously listed) — known for manta ray sightings and varied topography.
 
 ## Overview
 
-The western aspect of HimendhooThila receives the predominant tidal current from the open ocean side of South Ari Atoll, making it the more productive face for pelagic encounters compared to the sheltered eastern side. The pinnacle's western wall drops from around 5 metres at the crest to 28 metres, where the base is ringed by sandy slopes. Soft corals and sea fans grow in profusion on the wall where current is strongest, and grey reef sharks and whitetip reef sharks frequently patrol the deeper sections. Eagle rays are a regular sighting on the western approach, gliding in from the open water. The summit is shallow enough to linger for a lengthy safety stop amid schools of snapper and fusilier. Nurse sharks are commonly found resting in crevices at the pinnacle base. Visibility averages 20–25 metres. Water temperature is 27–29°C.
+Sources describe Himandhoo Thila's topography as featuring interesting canyons and overhangs, with the more structured caves and overhangs concentrated between roughly 20 and 30 metres. The site is best known as a manta ray location, with sightings typically reported from December through April; grey reef sharks and barracuda are also regularly seen. Current can build to very strong here, and while the site is diveable at multiple levels, divers should be prepared for current at any time.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: North Ari Atoll, Maldives (channel between Himandhoo and Moofushi islands)
 - **Entry Type**: Boat dive
-- **Depth**: Up to 28m
-- **Difficulty**: Intermediate
+- **Depth**: Canyons and overhangs at 20–30 m
+- **Difficulty**: Intermediate (current can be strong)
 - **Site Type**: Pinnacle/seamount
 
 ## Marine Life
 
-Grey reef sharks, whitetip reef sharks, nurse sharks, eagle rays, snapper schools, fusiliers, sea fans, soft corals, and occasional Napoleon wrasse.
+Manta rays (seasonal, December–April), grey reef sharks, barracuda, sweetlips, sea turtles, Napoleon wrasse, parrotfish, trumpetfish, lobsters, octopus, and nudibranchs.
 
 ## Diving Conditions
 
 | Condition | Details |
 |-----------|---------|
-| Visibility | 20–25m |
-| Current | Moderate (from the west) |
+| Visibility | 15–25m |
+| Current | Variable to very strong |
 | Water Temp | 27–29°C |
-| Best Season | December–April |
+| Best Season | December–April for mantas |
 
 ## Tips for Divers
 
-Begin the dive on the deeper western wall where the current is strongest and sharks are most active, then work upward to the summit for the safety stop. Pair with the eastern face if time and air allow for a complete circuit of the pinnacle.
+Plan for current — conditions here can escalate quickly regardless of the tide table, so a confident current-diving skillset is recommended even though the site is rated Intermediate. December through April offers the best odds for manta encounters. Keep a lookout for nudibranchs and other macro life in the canyon sections between dedicated pelagic-watching.
 
 ---
-*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*
+*Sources: [Wannadive — Himendhoo Thila](https://www.wannadive.net/spot/Asia/Maldives/Ari/North_Ari_Atoll/Himendhoo_Thila/index.html), [Divebooker — Himandhoo Thila](https://divebooker.com/himandhoo-thila-baz13848), [Diversion Dive Travel — Himendhoo Thila](https://www.diversiondivetravel.com.au/g1648/diving_himendhoo_thila.html). Corrected atoll from South Ari to North Ari based on source consensus and coordinates. Last updated 2026-08-11.*

@@ -42,4 +42,4 @@ Baby octopus, baby stingrays, young fish, wide-eyed flounder, cuttlefish, lizard
 - Excellent training site with calm conditions
 
 ---
-*Sources: [Divers Guide](https://www.divers-guide.com/en/hondoq-bay), [Wikipedia](https://en.wikipedia.org/wiki/%C4%A6ondoq_ir-Rummien). Last updated 2026-04-10.*
+*Sources: [Divers Guide](https://www.divers-guide.com/en/hondoq-bay), [Wikipedia](https://en.wikipedia.org/wiki/%C4%A6ondoq_ir-Rummien). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

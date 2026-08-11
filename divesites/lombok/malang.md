@@ -36,6 +36,8 @@ Giant barrel sponges and gorgonian sea fans on the deeper ridges. Blue-spotted s
 
 Regional Coral Triangle species diversity applies. Pygmy seahorses in gorgonian fans are sometimes listed for this area but are not specifically confirmed by the site-specific operator page reviewed.
 
+**Note on site type (2026-08-11 re-audit):** Gili Divers' general site index groups this location under a pinnacle-style listing ("Takat Malang" — coral heads/pinnacle, 12–40 m: kuhl's rays, garden eels, blue-spotted stingrays, sea fans, barrel sponges), while the dedicated Manta Dive Gili Air page describes it as a long winding ridge/valley reef rather than a single pinnacle. Classification is kept as reef, following the more detailed site-specific source.
+
 ## Dive Profile
 
 Descend along the ridge to 20–30 m and navigate the undulating valleys. The 10 m reef top provides an accessible start and safety stop zone. Advanced divers can explore the deeper faces at 35–40 m. Ascend via the ridge to the shallower zone for the safety stop.
@@ -60,4 +62,4 @@ Depth requires advanced certification and careful gas management. Strong current
 Giant gorgonian sea fans in profile with a diver for scale are the standout shot. Blue-spotted stingrays on the sandy channels. The ridge system with soft coral suits strobe-lit wide-angle.
 
 ---
-*Sources: [Manta Dive Gili Air – Takat Malang](https://manta-dive-giliair.com/gili-islands-dive-sites/malang-reef-advanced-and-above), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Takat Malang](https://manta-dive-giliair.com/gili-islands-dive-sites/malang-reef-advanced-and-above), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-08-11.*

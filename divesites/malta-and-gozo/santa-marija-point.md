@@ -40,4 +40,4 @@ Typical Comino marine life in crystal-clear waters.
 - Comino's consistently excellent visibility
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/en). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/en), [Blue Lagoon — Santa Marija Caves](https://bluelagoon.mt/comino/santa-marija-caves/), [Freediver Malta — Comino](https://www.freedivermalta.com/freedivesite-comino-p31-lantern-point-santa-maria-caves). Last updated 2026-08-11.*

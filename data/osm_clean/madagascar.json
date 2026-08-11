@@ -17,7 +17,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "scubanosybe.com,madagascat.co.za,primemedia.international,tropical-diving.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -37,7 +37,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "scubanosybe.com,islandstays.co.za,baleinesrandeau.com,tropical-diving.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -57,8 +57,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubanosybe.com,madagascat.co.za,tropical-diving.com,sakalavdiving.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "scubanosybe.com,madagascat.co.za,sakalavdiving.com,aquamadagascar.com",
+      "validation_note": "Re-audited 2026-08-11: tropical-diving.com (previously cited) did not name Rosario specifically enough to support any claim and was dropped; replaced with aquamadagascar.com, which names 'Rosario Bank' directly and adds a site-specific Rhinopias frondosa sighting and whale-shark season (Oct-Nov) corroborated independently by sakalavdiving.com.",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -67,7 +68,7 @@
     "lon": 48.0994665,
     "osm_id": 6943573745,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 33,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -77,9 +78,11 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "wreck_component": "true",
+      "wreck_component_disputed": "true",
       "validated": "true",
-      "validation_source": "madablu.com,travelssmart.blogspot.com,spotmydive.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "madablu.com,travelssmart.blogspot.com,aquamadagascar.com",
+      "validation_note": "Re-audited 2026-08-11: spotmydive.com (previously cited) returned HTTP 404 and was dropped; replaced with aquamadagascar.com, an independent, currently-live source. That source's own 'Camel' listing states this location is a natural formation and explicitly 'not a wreck dive,' directly conflicting with madablu.com (the operator running this site) and an independent 2013 trip report with photos, both of which describe a small sunk vessel on the northwest side. Wreck existence is therefore corroborated by 2 sources but disputed by a 3rd; flagged in markdown rather than resolved. depth corrected from 22m to 33m to match the documented high-tide/wreck route depth, which the prior value did not reflect.",
+      "last_qa_date": "2026-08-11"
     }
   }
 ]

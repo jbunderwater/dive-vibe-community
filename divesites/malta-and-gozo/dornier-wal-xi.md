@@ -21,6 +21,8 @@ The Dornier Wal XI (registration I-AZEA) was a German-designed twin-engine flyin
 
 The wreck lies in the middle of Gnejna Bay at only 5–12 metres depth on a sandy seabed. However, only partial fuselage remains with sponsons and some cockpit controls (including a rudder pedal) were ever visible. Recent diver reports from 2025 suggest the wreck may no longer exist due to decades of deterioration and wave action. When accessible, the site was popular with freedivers and featured cuttlefish, octopuses, and rays in the surrounding area.
 
+**Note on conflicting sources:** MaltaDives and DP Freediving identify this wreck as the Dornier Wal XI described above (SANA airline, forced landing 16 Feb 1932, depth 5–12m). A separate source, Divers Guide, describes a wreck at Gnejna Bay it calls a "Dornier D-2053" that crashed in 1938 and lies at 15 metres. It is unclear whether these are the same aircraft under different names/dates or two distinct incidents — this discrepancy has not been resolved and is noted here rather than silently picking one version.
+
 ## Site Information
 
 - **Location**: Gnejna Bay, NW coast Malta
@@ -60,4 +62,4 @@ Shallow and calm conditions make this a beginner-friendly site. The bay can be a
 If any wreckage remains, the shallow depth and natural light provide good conditions for ambient light photography. The sandy bay setting with scattered remains makes for atmospheric wide-angle shots.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [DP Freediving](https://dpfreediving.com). Last updated 2026-04-10.*
+*Sources: [MaltaDives.com — Dornier Wal XI](https://maltadives.com/sites/dornierwalxi/en), [DP Freediving](https://dpfreediving.com), [Divers Guide — Gnejna Bay](https://www.divers-guide.com/en/gnejna-bay) (reports conflicting identity/date — see note above). Last updated 2026-08-11.*

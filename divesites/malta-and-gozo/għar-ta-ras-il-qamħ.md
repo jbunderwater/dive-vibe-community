@@ -41,4 +41,4 @@ Typical Gozo reef species in the boulder and cave habitats.
 - Shore access via Cathedral Cave ladder
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/rasilkanun/en). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/rasilkanun/en). Last updated 2026-08-11.*

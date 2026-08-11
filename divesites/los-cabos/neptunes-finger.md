@@ -28,7 +28,7 @@ A steep rocky pinnacle rising above the bay surface, capping a dramatic wall tha
 
 ## Marine Life
 
-The ray cleaning station is the highlight — spotted eagle rays and bat rays hover at the station while small cleaner wrasses service them. Green sea turtles, large gulf groupers, Cortez angelfish, and king angelfish are common. Mobula rays and tuna pass through seasonally. The wall supports dense gorgonian growth and colorful encrusting sponges.
+The ray cleaning station is the highlight — spotted eagle rays hover at the station while small cleaner wrasses service them. Green sea turtles, large gulf groupers, Cortez angelfish, and king angelfish are common. Mobula rays and tuna pass through seasonally. The wall supports dense gorgonian growth and colorful encrusting sponges. ("Bat rays" appeared in an earlier version of this description but were not corroborated for this specific site on re-audit and have been removed; mobula rays are the ray species consistently reported here.)
 
 ## Dive Profile
 
@@ -36,7 +36,7 @@ Descend to the reef top around 10–12 meters and follow the wall edge south. Th
 
 ## Safety Considerations
 
-The wall drops deep, so monitor depth carefully. Currents can push divers along the wall face. The site is appropriate for intermediate divers comfortable with wall diving and depth management; deeper sections below 30 meters are better suited to advanced divers.
+The wall drops deep, so monitor depth carefully. Currents can push divers along the wall face. The site is generally guided as an intermediate wall dive with most of the activity in the 10–28 meter range, though a few operators list the site as Advanced given the depth beyond 30 meters — divers should confirm expectations with their operator before booking. Deeper sections below 30 meters are better suited to advanced divers.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Los Cabos Guide](https://www.loscabosguide.com/neptunes-finger/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [Scuba Diver Life](https://scubadiverlife.com/diving-cabo-san-lucas-marine-park/). Last updated 2026-06-14.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Los Cabos Guide](https://www.loscabosguide.com/neptunes-finger/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [Scuba Diver Life](https://scubadiverlife.com/diving-cabo-san-lucas-marine-park/), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm). Difficulty rating varies by operator (Intermediate to Advanced) — noted in text rather than picking one. Last updated 2026-08-11.*

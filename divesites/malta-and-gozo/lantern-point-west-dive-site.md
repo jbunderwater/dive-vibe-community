@@ -59,4 +59,4 @@ The western exposure can be affected by swells from the northwest in unsettled w
 The afternoon light on the western face creates different photographic conditions from the morning dive at Lantern Point. The stepped reef and boulder terrain produce strong wide-angle compositions. Grouper portraits and moray eels at their crevice entrances are consistent macro subjects.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: [diveshack Malta — Comino Dive Sites](https://divemalta.com/dive-sites/comino/), [Divers Guide — Lantern Point](https://www.divers-guide.com/en/lantern-point), [Just Gotta Dive — Comino Dive Sites](https://www.justgottadive.com/dive_resources/travel_articles/cominos-best-dive-sites-anchor-reef-crystal-lagoon). Last updated 2026-08-11.*

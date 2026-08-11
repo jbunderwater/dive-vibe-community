@@ -62,4 +62,4 @@ Technical dive at 57 metres requiring trimix or appropriate gas mixtures. Carry 
 The classic submarine silhouette is the signature shot — shoot from below to silhouette against ambient light. The conning tower and bow torpedo tubes provide close-up subjects.
 
 ---
-*Sources: [Wikipedia — HMS Stubborn (P238)](https://en.wikipedia.org/wiki/HMS_Stubborn_(P238)), [Malta National Aquarium — HMS Stubborn](https://www.aquarium.com.mt/the-aquarium/maltese-history/hms-stubborn-p238/), [MaltaDives — HMS Stubborn](https://maltadives.com/sites/hmsstubborn/en). Last updated 2026-06-15.*
+*Sources: [Wikipedia — HMS Stubborn (P238)](https://en.wikipedia.org/wiki/HMS_Stubborn_(P238)), [Malta National Aquarium — HMS Stubborn](https://www.aquarium.com.mt/the-aquarium/maltese-history/hms-stubborn-p238/), [MaltaDives — HMS Stubborn](https://maltadives.com/sites/hmsstubborn/en). Last updated 2026-08-11.*

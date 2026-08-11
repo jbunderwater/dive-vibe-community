@@ -13,36 +13,36 @@ addedBy: osm_import
 
 ## Kuda Rah Thila
 
-Kuda Rah Thila is a submerged coral pinnacle near Kuda Rah Island in South Ari Atoll — "kuda rah" meaning "small island" — a richly encrusted thila with a reputation for strong shark presence and excellent soft coral growth.
+Kuda Rah Thila is widely cited as the single most famous dive site in South Ari Atoll — a submerged coral pinnacle near Kuda Rah island, protected as a marine park since 1995, known for manta ray cleaning-station activity and dramatic reef topography.
 
 ## Overview
 
-Rising from a sandy floor at 30 metres to within 5 metres of the surface, Kuda Rah Thila has the classic submerged pinnacle profile that makes Maldivian thila diving so compelling. The summit plateau is a dense coral garden where anthias and chromis hover above intricate hard coral formations, providing an ideal setting for the safety stop. The flanks descend sharply, with the most impressive coral growth between 15 and 25 metres — sea fans, black coral, and soft coral plumes in orange, yellow, and white are prolific where current sweeps across the wall. Grey reef sharks and whitetip reef sharks are consistently present at these depths, often seen cruising close to the pinnacle base. Napoleon wrasse and large sweetlips patrol the mid-reef zone, and eagle rays are a regular bonus sighting. The site is frequently used by South Ari Atoll liveaboards and resort dive boats given its reliable marine life. Visibility averages 20–25 metres. Water temperature is 27–29°C.
+The thila's crown sits at around 12 metres and the surrounding sandy plateau at roughly 30 metres. Two large overhangs decorated with sea fans, a small natural arch that divers can swim through, and two massive coral blocks are the site's defining structural features, all encircled by dense schools of five-lined snapper and fusiliers. South Ari Atoll is one of the Maldives' most consistent areas for manta ray cleaning-station sightings, and Kuda Rah Thila is named among the atoll's regular cleaning-station spots — though manta encounters, as with any cleaning station, are seasonal and not guaranteed on a given dive. Grey reef sharks and other reef sharks are also reported at the site.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Ari Atoll, Maldives (near Kuda Rah island)
 - **Entry Type**: Boat dive
-- **Depth**: Up to 30m
+- **Depth**: Crown at 12 m; sandy plateau at 30 m
 - **Difficulty**: Intermediate
 - **Site Type**: Pinnacle/seamount
 
 ## Marine Life
 
-Grey reef sharks, whitetip reef sharks, eagle rays, Napoleon wrasse, sweetlips, anthias, chromis, sea fans, black coral, and soft coral growth on the flanks.
+Manta rays (South Ari Atoll cleaning-station site; seasonal, not guaranteed), reef sharks, five-lined snapper, fusiliers, and a variety of tropical reef fish along the coral blocks and overhangs. No source confirms specific whitetip or hammerhead sightings at this particular site — only general "reef sharks."
 
 ## Diving Conditions
 
 | Condition | Details |
 |-----------|---------|
-| Visibility | 20–25m |
-| Current | Moderate |
+| Visibility | 15–25m |
+| Current | Moderate to strong on outer faces |
 | Water Temp | 27–29°C |
-| Best Season | December–April |
+| Best Season | December–April, and during the manta cleaning-station season |
 
 ## Tips for Divers
 
-Descend straight to the base of the pinnacle (25–30 m) to begin with the sharks before ascending through the coral zone. The soft corals are most colourful on the faces that receive the strongest current. Safety stops on the summit plateau are highly rewarding due to the fish density there.
+The swim-through arch and twin coral blocks are the signature features to plan the dive route around. Approach cleaning-station areas slowly and keep a respectful distance if mantas are present — do not chase or crowd them. As with most South Ari Atoll thilas, check current direction with the dive guide before descending.
 
 ---
-*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*
+*Sources: [PADI Dive Site: Kuda Rah Thila](https://www.padi.com/dive-site/maldives/kudarah-thila/), [ZuBlu South Ari Atoll Best Dive Sites](https://www.zubludiving.com/articles/zublu-insights/south-ari-atoll-best-dive-sites), [Maldives Postcards Kuda Rah Thila](https://maldivespostcards.com/dive-sites/kuda-rah-thila/). Last updated 2026-08-11.*

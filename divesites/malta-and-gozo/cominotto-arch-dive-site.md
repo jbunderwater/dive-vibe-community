@@ -59,4 +59,4 @@ Monitor current through the arch before committing to the swim-through. In stron
 The arch framing the open blue water beyond is one of the most photographed subjects in Maltese diving. A diver silhouetted in the arch entrance provides scale and drama. Natural light shots in mid-morning yield the richest blues. A torch adds colour to the arch walls for wide-angle strobe work.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: [Just Gotta Dive — Comino Dive Sites](https://www.justgottadive.com/dive_resources/travel_articles/cominos-best-dive-sites-anchor-reef-crystal-lagoon), [diveshack Malta — Comino Dive Sites](https://divemalta.com/dive-sites/comino/), [Paradise Diving — Comino](https://paradisediving.com/dive-sites-comino/). Last updated 2026-08-11.*

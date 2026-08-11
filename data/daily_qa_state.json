@@ -2,13 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "lombok",
-    "lord-howe-island",
-    "los-cabos",
-    "madagascar",
-    "malaysia",
-    "maldives",
-    "malta-and-gozo",
     "manado-bunaken",
     "marshall-islands",
     "martinique",
@@ -96,6 +89,12 @@
     "zanzibar"
   ],
   "completed_this_cycle": [
+    "lombok",
+    "lord-howe-island",
+    "los-cabos",
+    "madagascar",
+    "maldives",
+    "malta-and-gozo",
     "jordan-aqaba",
     "kenya-coast",
     "koh-tao",
@@ -178,6 +177,96 @@
     "hawaii-big-island"
   ],
   "history": [
+    {
+      "date": "2026-08-11",
+      "slugs": [
+        "lombok",
+        "lord-howe-island",
+        "los-cabos",
+        "madagascar",
+        "malaysia",
+        "maldives",
+        "malta-and-gozo"
+      ],
+      "notes": "malaysia is an isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; malta-and-gozo was pulled forward from later in the queue to keep the day's real-destination count at 6. First madagascar sub-agent stalled mid-pass (watchdog timeout) after fully rewriting 2 of 4 sites' JSON/markdown but only bumping last_qa_date for the other 2 without actually re-auditing their markdown -- caught via git diff inspection before commit, and a follow-up agent completed the interrupted Rosado/Chameau audits correctly rather than letting the overclaimed last_qa_date stand unaudited. maldives (137 sites) and malta-and-gozo (119 sites) are both large destinations; agents prioritized wrecks and already-validated sites per instructions and explicitly disclosed the remaining unattempted sites rather than padding coverage.",
+      "summary": {
+        "sites_total": 306,
+        "sites_validated_today": 27,
+        "sites_re_audited": 142,
+        "hallucinations_removed": 13,
+        "marine_life_stripped": 6,
+        "wreck_conflicts_flagged": 8,
+        "sites_unresolved": 12,
+        "by_destination": {
+          "lombok": {
+            "sites_total": 25,
+            "sites_validated_today": 2,
+            "sites_re_audited": 23,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 3,
+            "notes": "Bounty wreck sinking-year conflict (1999-2003) documented across 5 sources; Shark Point/Glenn Nusa fabricated wreck dimension (29m x 4m) corrected to sourced 22m. Found and fixed stale depth fields on Jack Point and Meno Corner that had been stuck at a placeholder 20m for two months despite markdown already describing greater depths, plus an internal self-contradiction on Meno Corner (site_type corrected to reef/slope but body text still called it 'the pinnacle' throughout). Trawangan Wall, Lombok Dive, and Turtle Point remain unresolved (likely duplicate/commercial-name/coordinate-conflict issues respectively, flagged for follow-up rather than resolved by guessing)."
+          },
+          "lord-howe-island": {
+            "sites_total": 8,
+            "sites_validated_today": 0,
+            "sites_re_audited": 7,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "No wreck-type sites in this destination. Ball's Pyramid's unsupported 36m sub-site depth and 'massive cave' framing corrected against a direct dive-experience source; height/distance figures rewritten as sourced ranges instead of false-precision single numbers. Sylph's Hole species claim traced to a conflation with the neighboring Comets Hole and corrected. North Bay Dropoff remains unresolved -- no independent source names a scuba site by this name; only the nearby MV Favourite snorkel wreck is documented."
+          },
+          "los-cabos": {
+            "sites_total": 13,
+            "sites_validated_today": 0,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 1,
+            "notes": "Removed 3 species claims that traced to the wrong site (Mexican goatfish, bat rays, basket starfish). El Salinar Shipwreck's vessel identity remains unidentified after exhaustive search and only 2 confirmable source domains (one prior citation, cabosanlucastours.net, was found not to actually describe the site) -- left validated=true per re-audit rules but flagged below the 3-domain bar. Land's End's embedded Harry Lundeberg wreck history expanded with a corrected ownership chain and two genuine conflicts (reported length 424-441ft; whether the wreck is currently exposed or was reburied by a post-Hurricane-Odile storm) documented rather than resolved by guessing; the gambling-debts grounding story is explicitly labeled unconfirmed local lore."
+          },
+          "madagascar": {
+            "sites_total": 4,
+            "sites_validated_today": 4,
+            "sites_re_audited": 2,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0,
+            "notes": "First agent attempt stalled (watchdog timeout) after fully completing Shark Point and Manta divesite but only bumping Rosado/Chameau's last_qa_date without actually re-auditing their markdown; a follow-up agent completed the interrupted work directly rather than letting the overclaimed date stand. Chameau's own status as a wreck at all is disputed between two operator sources (one describes a small sunk vessel, the deliberate 2007-sink narrator, versus another that calls the same feature a natural formation and explicitly 'not a wreck dive') -- flagged as an open conflict rather than picking a side; no vessel name, build date, or tonnage exists in any source, so none were invented. Also fixed an internal depth inconsistency on Chameau (frontmatter said 22m while the body already described dives to 33m)."
+          },
+          "maldives": {
+            "sites_total": 137,
+            "sites_validated_today": 7,
+            "sites_re_audited": 21,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 1,
+            "notes": "Destination far exceeds a single pass's tractable size; agent prioritized all 7 wreck sites (mandatory deep research) plus already-validated sites and a batch of newly-researched named pinnacles/caves/channels, and explicitly disclosed rather than padded. Victory Wreck length (80-110m) and tonnage (1,420-3,500 tons) conflicts documented. Digu Kuda Giri's vessel name and sinking date downgraded to unverified after only low-reliability aggregators could be found; a misleading 'pattern'-tagged validation_source (not a real citation) was corrected on Bolifushi. Embudu Finolhu Outside downgraded validated=false (only 1 independent domain). 117 of 137 sites (mostly numbered resort house-reef exit points and un-attempted named reef/thila/kandu sites) were not re-researched this pass and remain flagged for a future dedicated session."
+          },
+          "malta-and-gozo": {
+            "sites_total": 119,
+            "sites_validated_today": 14,
+            "sites_re_audited": 76,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 6,
+            "notes": "All 36 wreck sites re-audited. Um El Faroud's length/tonnage figures (previously 110m/10,000 tons) corrected to sourced 115m/3,148 GRT/5,390 DWT; HMS Maori's markdown corrected to clarify only the bow section survives (aft lost during a 1945 salvage tow), not the largely-intact hull previously implied. Dornier Wal XI vs. a differently-dated/named 'Dornier D-2053' crash account documented as an unresolved conflict rather than merged. Found and flagged a genuine duplicate: 'Carolita' and 'Xlighter 127' are the same X-Lighter X127 wreck listed twice ~90m apart -- Carolita downgraded to validated=false with a duplicate note; three more likely near-duplicate pairs flagged but not merged (outside this pass's scope). 43 previously-unvalidated stub sites were left untouched -- first-time validation of all 43 was beyond what one pass could cover with genuine sourcing."
+          },
+          "malaysia": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory); its children (sipadan, sangalaki, and others) are separate slugs elsewhere in the queue and covered on their own days"
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/149",
+      "errors": []
+    },
     {
       "date": "2026-08-10",
       "slugs": [

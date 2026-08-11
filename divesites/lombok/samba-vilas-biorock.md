@@ -21,6 +21,8 @@ Samba Vilas Biorock is one of the east coast Gili Trawangan cluster of Biorock s
 
 **Note:** The "world's second-largest Biorock project" claim in the previous description is unverified and has been removed.
 
+**Note on program figures (2026-08-11 re-audit):** Wikipedia's Gili Eco Trust article corroborates the 2004 start, 110+ structures by 2016, and 2–6x coral growth figures used here. Trawangan Dive's own current page instead states 120+ structures and 3–5x growth today - flagged as a discrepancy between historical (Wikipedia) and current-day (operator) figures.
+
 ## Site Information
 
 - **Location**: East coast Gili Trawangan, accessible from Lombok
@@ -47,4 +49,4 @@ Descend to the structure and systematically explore it. Visit multiple nearby Bi
 Do not touch the metal frame. Maintain buoyancy. Lionfish venomous. The low-voltage current is safe for divers and marine life. Keep fins clear of growing coral on the frame.
 
 ---
-*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project). Last updated 2026-06-14.*
+*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project), [Wikipedia – Gili Eco Trust](https://en.wikipedia.org/wiki/Gili_Eco_Trust). Last updated 2026-08-11.*

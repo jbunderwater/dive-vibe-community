@@ -45,4 +45,4 @@ OUTSTANDING for rays — 10+ rays per dive of multiple species. Angel sharks on 
 - Dive within your certification limits
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/filfla/en), [Dive Systems Malta](https://divesystemsmalta.com/filfa/), [Malta SAC](https://maltasac.org/filfla-dive-site/). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/filfla/en), [Dive Systems Malta](https://divesystemsmalta.com/filfa/), [Malta SAC](https://maltasac.org/filfla-dive-site/). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

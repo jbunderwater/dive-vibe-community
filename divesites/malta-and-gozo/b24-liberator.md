@@ -57,4 +57,4 @@ Boat dive only. Heritage Malta permit is required — arrange in advance. Techni
 Technical dive requiring appropriate qualifications and gas planning for 55-metre depth. Heritage Malta permit mandatory. This is a classified war grave — no artefact removal permitted. Currents can be present.
 
 ---
-*Sources: [divinginfo.mt — Liberator B24-D 42-40112](https://www.divinginfo.mt/liberator-b24-d-code-u-42-40112/), [underwatermalta.org — B24 Liberator](https://underwatermalta.org/discover/b24-liberator/), [Heritage Malta — B24 Liberator](https://heritagemalta.mt/explore/b24-liberator/). Last updated 2026-06-15.*
+*Sources: [divinginfo.mt — Liberator B24-D 42-40112](https://www.divinginfo.mt/liberator-b24-d-code-u-42-40112/), [underwatermalta.org — B24 Liberator](https://underwatermalta.org/discover/b24-liberator/), [Heritage Malta — B24 Liberator](https://heritagemalta.mt/explore/b24-liberator/). Last updated 2026-08-11.*

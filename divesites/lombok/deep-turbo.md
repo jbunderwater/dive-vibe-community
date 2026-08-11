@@ -59,4 +59,4 @@ Strong current is the primary hazard. Be prepared to abort if conditions exceed 
 Bumphead parrotfish schools suit wide-angle and fast shutter speeds. Eagle rays in current against blue water. Pygmy seahorses on gorgonian fans require dedicated macro lens. Reef sharks with schooling fish in context.
 
 ---
-*Sources: [Manta Dive Gili Air – Deep Turbo](https://manta-dive-giliair.com/gili-islands-dive-sites/deep-turbo-advanced-and-above), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Deep Turbo](https://manta-dive-giliair.com/gili-islands-dive-sites/deep-turbo-advanced-and-above), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-08-11. Re-audited 2026-08-11: reconfirmed 16-30m depth, coral pinnacles, reef sharks, stingrays, barrel sponges; no corrections required. Bumphead parrotfish remains single-sourced (Manta Dive Gili Air).*

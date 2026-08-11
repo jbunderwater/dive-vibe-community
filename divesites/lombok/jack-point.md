@@ -3,7 +3,7 @@ name: Jack Point
 lat: -8.337684
 lng: 116.0255805
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 35
 entryType: boat
 siteType: drift
 ref: null
@@ -21,13 +21,15 @@ Jack Point is on the north side of Gili Trawangan, featuring two coral ridges st
 
 **Note on difficulty:** All sources classify this site as Advanced only. The JSON data previously showed Intermediate — this has been corrected to Advanced. The depth profile (24–35+ m) and current exposure demand Advanced Open Water minimum.
 
+**Note on depth (added 2026-08-11 re-audit):** The underlying data's maximum-depth field had been left at 20 m even after the depth profile was corrected to 24–35+ m during the 2026-06-14 pass — this page was silently showing the wrong number for two months. It is now corrected to 35 m to match the sourced depth profile below.
+
 ## Site Information
 
 - **Location**: North side of Gili Trawangan, approximately 25 minutes by boat
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Strong; site is weather and current dependent
 - **Best Time**: May to October (conditions permitting)
@@ -63,4 +65,4 @@ Deep site with strong currents and weather dependency. Do not exceed planned dep
 Schools of big-eye trevally and snappers against the ridge suit wide-angle. Reef sharks in mid-water against the blue. Eagle ray silhouettes in strong current.
 
 ---
-*Sources: [Manta Dive Gili Air – Jack Point](https://manta-dive-giliair.com/gili-islands-dive-sites/jack-point-advanced), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Villa Almarik – Advanced Dives Around Gili Trawangan](https://www.almarik-lombok.com/news/advanced-dives-around-gili-trawangan/). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Jack Point](https://manta-dive-giliair.com/gili-islands-dive-sites/jack-point-advanced), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Villa Almarik – Advanced Dives Around Gili Trawangan](https://www.almarik-lombok.com/news/advanced-dives-around-gili-trawangan/). Last updated 2026-08-11.*

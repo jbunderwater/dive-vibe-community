@@ -61,4 +61,4 @@ Intermediate to Advanced Open Water certification appropriate for 24-metre depth
 The wreck's compact size allows full-vessel shots with a wide-angle lens. The ongoing deterioration process is itself a photographic documentary subject. The multi-wreck scene with adjacent tugboats provides unusual composition opportunities.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/p33-marsaskala/en), [DIVE Magazine](https://divemagazine.com/scuba-diving-news/malta-new-p33-patrol-boat-wreck-dive), [Divers Guide](https://www.divers-guide.com/en/p33-patrol-boat). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/p33-marsaskala/en), [DIVE Magazine](https://divemagazine.com/scuba-diving-news/malta-new-p33-patrol-boat-wreck-dive), [Divers Guide](https://www.divers-guide.com/en/p33-patrol-boat). Last updated 2026-08-11.*

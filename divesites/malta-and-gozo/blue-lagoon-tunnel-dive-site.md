@@ -40,4 +40,4 @@ Mediterranean reef species typical of the crystal-clear Comino waters.
 - Comino has some of Malta's best visibility
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/en). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/en). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

@@ -59,4 +59,4 @@ The channel position means current should be assessed before entry. The open wat
 The compact reef rising from sand creates clean wide-angle compositions. Resident grouper portraits, moray eels at crevice entrances, and barracuda in the water column above provide diverse subjects. The sandy bottom around the rock base allows full-reef backdrop shots.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

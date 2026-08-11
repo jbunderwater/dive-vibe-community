@@ -41,4 +41,4 @@ Moray eels, octopus, grouper, parrotfish, rays, jacks, barracuda, cuttlefish, nu
 - Shore entry with stairs and railings — very accessible
 
 ---
-*Sources: [Corsair Diving Malta](https://corsairdivingmalta.com), [MaltaDives](https://maltadives.com/sites/en). Last updated 2026-04-10.*
+*Sources: [Corsair Diving Malta](https://corsairdivingmalta.com), [MaltaDives](https://maltadives.com/sites/en), [Seashell Diving Malta — Cirkewwa Arch](https://www.seashelldivingmalta.com/dive-site/cirkewwa-arch). Last updated 2026-08-11.*

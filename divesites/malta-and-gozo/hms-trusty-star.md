@@ -63,4 +63,4 @@ Extreme technical dive at 85–90 metres. CCR or heavy trimix mandatory. Heritag
 The intact hull at a dramatic 45-degree angle makes a compelling subject. Silt disturbance is the main photography challenge — approach carefully and shoot before disturbing the area. Powerful lights required at 85+ metres.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/hmdtrustystar/en), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/malta-deep-wrecks-ss-luciston-and-hms-trusty-star), [Dive Systems Malta](https://divesystemsmalta.com/trusty-star/), [Heritage Malta](https://heritagemalta.mt/explore/hms-trusty-star/). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/hmdtrustystar/en), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/malta-deep-wrecks-ss-luciston-and-hms-trusty-star), [Dive Systems Malta](https://divesystemsmalta.com/trusty-star/), [Heritage Malta](https://heritagemalta.mt/explore/hms-trusty-star/). Last updated 2026-08-11.*

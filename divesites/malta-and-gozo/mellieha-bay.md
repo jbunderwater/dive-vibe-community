@@ -41,4 +41,4 @@ The Slugs Bay reef and seagrass meadows support abundant marine life. Small fish
 - Dive within your certification limits
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/slugsbay/en), [PADI Malta](https://www.padi.com/diving-in/malta/mellieha/). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/slugsbay/en), [PADI Malta](https://www.padi.com/diving-in/malta/mellieha/). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

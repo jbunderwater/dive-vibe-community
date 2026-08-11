@@ -32,7 +32,7 @@ Manta Point (also known as Sunset Reef by some operators) is on the south side o
 
 ## Marine Life
 
-Reef manta rays — seasonal visitors when plankton conditions are favourable. Encounter rates are variable and seasonal timing is not consistent across independent sources. Green and hawksbill turtles. Whitetip reef sharks resting in deeper coral areas. Octopus, cuttlefish, and peacock mantis shrimp. Schools of oriental sweetlips and batfish. Staghorn and table corals. Lined snappers.
+Reef manta rays — seasonal visitors when plankton conditions are favourable. Encounter rates are variable and seasonal timing is not consistent across independent sources. Devil rays and eagle rays also confirmed by Gili Divers, in addition to the reef mantas. Green and hawksbill turtles. Whitetip reef sharks resting in deeper coral areas. Octopus, cuttlefish, and peacock mantis shrimp. Schools of oriental sweetlips and batfish. Staghorn and table corals. Lined snappers.
 
 Regional Coral Triangle species diversity applies to the broader reef community.
 
@@ -60,4 +60,4 @@ Gentle conditions generally, but standard dive precautions apply. Maintain SMB c
 Manta rays in shallow, bright water suit wide-angle natural light shots. Turtle portraits on table coral reef. Staghorn coral fields with natural light at 5–15 m.
 
 ---
-*Sources: [Manta Dive Gili Air – Manta Point](https://manta-dive-giliair.com/gili-islands-dive-sites/manta-point-all-levels), [Dive SSI – Manta Point Gili Trawangan](https://www.divessi.com/en/mydiveguide/divesite/manta-point-gili-trawagan-dive-sunset-reef-bay-pt-t-is-lombok-indonesia-116747), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Manta Point](https://manta-dive-giliair.com/gili-islands-dive-sites/manta-point-all-levels), [Dive SSI – Manta Point Gili Trawangan](https://www.divessi.com/en/mydiveguide/divesite/manta-point-gili-trawagan-dive-sunset-reef-bay-pt-t-is-lombok-indonesia-116747), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/). Last updated 2026-08-11.*

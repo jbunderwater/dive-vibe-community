@@ -2,10 +2,10 @@
 name: Segaluh
 lat: -8.3344744
 lng: 116.0982787
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 32
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 2395670512
 addedBy: osm_import
@@ -13,26 +13,38 @@ addedBy: osm_import
 
 ## Segaluh
 
-A reef site east of the Gili Islands near Lombok's north coast — no site-specific sources were found to independently verify this site.
+Also known as Takat Segaluh — an open-sea pinnacle east of Gili Air where whitetip reef sharks, barracuda schools, and bigeye trevally patrol current-swept water to 32 m.
 
 ## Overview
 
-Segaluh is listed in OSM data sourced from a local Diveschool Notice Board in the Gili Islands area. The coordinate (longitude 116.0982787) places this site notably east of the Gili Islands, closer to the northwest coast of Lombok. No dive operators or published dive site databases were found that list "Segaluh" as a named dive site during this QA pass. The site may be a local name used by a specific school or operator but is not corroborated by independent sources.
-
-The broader Lombok northwest coast area has documented reef diving — the Malimbu area (starfish.ch) includes a wall dive and coral blocks at 5–35 m with leaffish, moray eels, and stingrays. Whether Segaluh corresponds to one of these sites is not confirmed.
+Segaluh is listed in OSM data sourced from a local Diveschool Notice Board in the Gili Islands area. During the initial 2026-06-14 QA pass no site-specific source could be matched to the name. A fresh search on 2026-08-11 identified it as Takat Segaluh, an open-sea pinnacle site east of Gili Air, documented on Gili Air Divers' dive-site index. Its coordinate (longitude 116.0982787) sits further east than Gili Air itself, consistent with an offshore pinnacle rather than a fringing reef. The site is also named, without further detail, among Gili Air's five main dive and snorkel locations — alongside Air Wall, Air Slope, Frogfish Point, and Malang Reef — by two general Lombok tourism sources.
 
 ## Site Information
 
-- **Location**: East of Gili Islands, near Lombok northwest coast
+- **Location**: Open sea, east of Gili Air, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 32 meters
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate to strong; open-sea exposure
 - **Best Time**: May to October
 
 ## Marine Life
 
-Regional Coral Triangle species diversity applies; no site-specific marine life reports were found for independent verification.
+Whitetip reef sharks, schools of barracuda, bigeye trevally, and eagle rays confirmed by Gili Air Divers' site-specific listing (16–32 m). This is currently the only source with site-specific marine-life detail for Segaluh; the two general tourism sources that name the site do not add further species information.
+
+## Dive Profile
+
+Descend directly to the pinnacle and work the current-facing side where pelagics tend to hold station. Depth ranges from 16 m at the shallowest point of the pinnacle to 32 m at its base. Given the open-sea exposure and current, this is not a beginner site.
+
+## Entry and Exit
+
+Boat from Gili Air operators; the open-sea location means the site may not be run on all days depending on conditions. SMB essential for drift pickup.
+
+## Safety Considerations
+
+Open-sea pinnacle with exposure to current and swell. Advanced Open Water certification recommended. Always carry an SMB and confirm pickup arrangements with your operator before descending.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found for this exact site name. Last updated 2026-06-14.*
+*Sources: [Gili Air Divers – Dive Sites](https://www.giliairdivers.com/en/dive-sites/), [Lombok Indonesia – Gili Air](https://www.lombokindonesia.org/gili-air-slight-heaven-sea/), [Lombok Dispatch – Things to Do in Gili Air](https://lombokdispatch.id/2025/05/14/things-to-do-ingili-air-lombok/). Last updated 2026-08-11. Note: only Gili Air Divers provides site-specific depth and marine-life detail; the other two sources confirm the site's existence and name only.*

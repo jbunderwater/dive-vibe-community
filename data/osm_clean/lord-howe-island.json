@@ -13,8 +13,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "lordhoweisland.info,diveplanit.com,prodive.com.au,divelordhowe.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "lordhoweisland.info,diveplanit.com,prodive.com.au,divelordhowe.com,wikipedia.org",
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -32,7 +32,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "lordhoweisland.info,prodive.com.au,spacificatravel.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -50,7 +50,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "lordhoweisland.info,diveplanit.com,prodive.com.au",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -68,7 +68,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "prodive.com.au,diveplanit.com,adrex.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -86,7 +86,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "lordhoweisland.info,diveplanit.com,prodive.com.au",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -104,7 +104,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "lordhoweisland.info,prodive.com.au,diveplanit.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -121,7 +121,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "false",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -138,8 +138,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "spacificatravel.com,lordhoweisland.info,pinetrees.com.au",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "spacificatravel.com,lordhoweisland.info,pinetrees.com.au,weareexplorers.co",
+      "last_qa_date": "2026-08-11"
     }
   }
 ]

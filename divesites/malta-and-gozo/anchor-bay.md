@@ -41,4 +41,4 @@ Wrasses, scorpionfish, morays, groupers, parrotfish, and octopus. The seagrass m
 - Dive within your certification limits
 
 ---
-*Sources: [MaltaDives](https://maltadives.com/sites/anchorbay/en), [Malta.com](https://www.malta.com/en/attraction/diving/diving-site/north-malta/anchor-bay). Last updated 2026-04-10.*
+*Sources: [MaltaDives](https://maltadives.com/sites/anchorbay/en), [Malta.com](https://www.malta.com/en/attraction/diving/diving-site/north-malta/anchor-bay). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

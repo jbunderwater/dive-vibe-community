@@ -61,4 +61,4 @@ Extreme technical dive at 96 metres requiring trimix qualifications, redundant e
 The intact aircraft at 96 metres is a rare photographic subject. Powerful video lights are essential. The complete propeller, cockpit, and undamaged airframe are the highlight subjects.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/douglasa1skyraider/en), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/skyraider/), [Naval History Magazine (USNI) — Sunken Plane Wrecks of the Mediterranean](https://www.usni.org/magazines/naval-history-magazine/2021/december/sunken-plane-wrecks-mediterranean). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/douglasa1skyraider/en), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/skyraider/), [Naval History Magazine (USNI) — Sunken Plane Wrecks of the Mediterranean](https://www.usni.org/magazines/naval-history-magazine/2021/december/sunken-plane-wrecks-mediterranean). Last updated 2026-08-11.*

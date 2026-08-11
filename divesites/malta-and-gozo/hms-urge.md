@@ -63,4 +63,4 @@ Extreme technical expedition dive at 130 metres. CCR or very heavy trimix mandat
 ROV and expedition footage of the upright submarine with deck gun is available via Heritage Malta. The damaged bow section documents the fatal mine strike. Any in-person photography requires expedition-level planning and lighting systems capable of operating at 130 metres.
 
 ---
-*Sources: [Wikipedia — HMS Urge](https://en.wikipedia.org/wiki/HMS_Urge), [BSAC News](https://www.bsac.com/news-and-blog/wreck-of-famous-british-wwii-submarine-found-off-malta/), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/hms-urge/), [Divernet](https://divernet.com/scuba-news/hms-urge-mystery-solved-77-years-on/). Last updated 2026-06-15.*
+*Sources: [Wikipedia — HMS Urge](https://en.wikipedia.org/wiki/HMS_Urge), [BSAC News](https://www.bsac.com/news-and-blog/wreck-of-famous-british-wwii-submarine-found-off-malta/), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/hms-urge/), [Divernet](https://divernet.com/scuba-news/hms-urge-mystery-solved-77-years-on/). Last updated 2026-08-11.*

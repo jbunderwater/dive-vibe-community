@@ -64,4 +64,4 @@ Technical dive at 70 metres requiring trimix and decompression planning. Heritag
 The iconic Spitfire elliptical wing shape is immediately recognisable even at depth. The folded tail section provides dramatic visual evidence of the violent ditching. Requires powerful lights at 70 metres — the distinctive wing planform is the signature shot.
 
 ---
-*Sources: [Key Aero](https://www.key.aero/article/spitfire-wreck-located-maltese-seabed), [Heritage Malta](https://heritagemalta.mt/explore/spitfire/), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/spitfire/). Last updated 2026-06-15.*
+*Sources: [Key Aero](https://www.key.aero/article/spitfire-wreck-located-maltese-seabed), [Heritage Malta](https://heritagemalta.mt/explore/spitfire/), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/spitfire/). Last updated 2026-08-11.*

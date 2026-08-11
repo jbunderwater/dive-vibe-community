@@ -59,4 +59,4 @@ The primary hazard in this area is boat traffic during peak season. Always deplo
 The turquoise lagoon water over white sand and pale limestone produces some of the most striking natural light photography in the Mediterranean. Wide-angle shots capturing the colour gradient from shallow turquoise to deep blue are particularly effective. Sea bream in schools and resident grouper make strong portrait subjects.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: [Just Gotta Dive — Comino Dive Sites](https://www.justgottadive.com/dive_resources/travel_articles/cominos-best-dive-sites-anchor-reef-crystal-lagoon), [diveshack Malta — Comino Dive Sites](https://divemalta.com/dive-sites/comino/), [Blue Lagoon — Comino](https://bluelagoon.mt/comino/santa-marija-caves/). Last updated 2026-08-11.*

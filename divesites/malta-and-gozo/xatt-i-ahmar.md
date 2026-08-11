@@ -61,4 +61,4 @@ The shallow plateau (5m) is suitable for all levels. The deeper cavern sections 
 The distinctive cavern formation provides dramatic wide-angle subjects. The shallow reef with seahorses rewards patient macro work. The variety of environments — cavern, reef, wall, wreck — makes this a versatile photography location.
 
 ---
-*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/xatt-l-ahmar/), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/), [DiveSSI](https://www.divessi.com/en/mydiveguide/divesite/xatt-lahmar-reef-l-ahmar-la-hmar-i-malta-198718). Last updated 2026-04-10.*
+*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/xatt-l-ahmar/), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/), [DiveSSI](https://www.divessi.com/en/mydiveguide/divesite/xatt-lahmar-reef-l-ahmar-la-hmar-i-malta-198718). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

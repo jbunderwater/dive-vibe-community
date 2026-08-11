@@ -61,4 +61,4 @@ Intermediate level dive at 22 metres average. Penetration of wheelhouse and engi
 The intact tugboat at moderate depth with good natural light makes excellent wide-angle subjects. The wheelhouse interior provides atmospheric penetration shots. Fish congregating around the wreck add life to compositions. The storm-displaced position — bow into reef — adds visual interest.
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/tug2-exiles/en), [DiveWise Malta](https://divewise.com.mt/blogs/dive-sites/tug-boat-2-wreck), [Divers Guide](https://www.divers-guide.com/en/tug-2). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/tug2-exiles/en), [DiveWise Malta](https://divewise.com.mt/blogs/dive-sites/tug-boat-2-wreck), [Divers Guide](https://www.divers-guide.com/en/tug-2). Last updated 2026-08-11.*

@@ -21,6 +21,8 @@ Gili Divers Biorock is named after Gili Divers, an operator confirmed active in 
 
 As a named individual dive site, "Gili Divers Biorock" does not appear as a distinct listing in published dive site databases, which list the east coast structures collectively as "BioRocks."
 
+**Note on program figures (2026-08-11 re-audit):** Wikipedia's Gili Eco Trust article corroborates the 2004 start, 110+ structures by 2016, and 2–6x growth figures used here. Trawangan Dive's own current reef-restoration page instead states 120+ structures and 3–5x growth today - flagged as a discrepancy between historical and current-day figures rather than silently merged.
+
 ## Site Information
 
 - **Location**: East coast Gili Trawangan, accessible from Lombok
@@ -43,4 +45,4 @@ Regional Coral Triangle species diversity applies to the broader east coast reef
 Do not touch the metal frame. Maintain buoyancy. Lionfish venomous — observe without contact. Low-voltage current is safe for divers.
 
 ---
-*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project). Last updated 2026-06-14.*
+*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project), [Wikipedia – Gili Eco Trust](https://en.wikipedia.org/wiki/Gili_Eco_Trust). Last updated 2026-08-11.*

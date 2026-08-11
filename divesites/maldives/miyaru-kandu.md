@@ -31,7 +31,7 @@ Miyaru Kandu is approximately 150 metres wide with sloping corners to the north 
 
 ## Marine Life
 
-Grey reef sharks (schools confirmed, 20–50 individuals reported), whitetip reef sharks, tuna, Napoleon wrasse, giant trevally. Scalloped hammerheads reported on some dives — not a guaranteed encounter. Channel floor has midnight coral formations on sandy bottom.
+Grey reef sharks (95% encounter rate per operator logs, schools up to ~50 individuals reported), whitetip reef sharks (~85% encounter rate), tuna, Napoleon wrasse, giant trevally (~70% encounter rate). Scalloped hammerheads reported on roughly a quarter of dives per operator logs — not a guaranteed encounter. Channel floor has midnight coral formations on sandy bottom.
 
 ## Diving Tips
 
@@ -46,4 +46,4 @@ Grey reef sharks (schools confirmed, 20–50 individuals reported), whitetip ree
 Miyaru Kandu is in Vaavu Atoll, approximately 120 minutes from Male by speedboat or accessible by liveaboard. Alimatha Island Resort is the closest base.
 
 ---
-*Sources: [Maldivestour.guide Miyaru Kandu](https://maldivestour.guide/diving/miyaru-kandu-maldives.html), [ZuBlu Vaavu Atoll](https://www.zubludiving.com/destination/maldives/central-atolls/vaavu-atoll), [Emperor Divers Southern Shark Adventure](https://www.emperordivers.com/liveaboard-itinerary/southern-shark-adventure/). Last updated 2026-06-15.*
+*Sources: [Maldivestour.guide Miyaru Kandu](https://maldivestour.guide/diving/miyaru-kandu-maldives.html), [ZuBlu Vaavu Atoll](https://www.zubludiving.com/destination/maldives/central-atolls/vaavu-atoll), [Emperor Divers Southern Shark Adventure](https://www.emperordivers.com/liveaboard-itinerary/southern-shark-adventure/). Re-audited 2026-08-11: encounter-rate figures added from operator logs; note that maldivestour.guide's quick-facts box cites a wider depth range (15-40 m) than the 29-31 m channel-floor depth used elsewhere on this page — the deeper figure likely reflects adjoining reef, not the channel floor itself. Last updated 2026-08-11.*

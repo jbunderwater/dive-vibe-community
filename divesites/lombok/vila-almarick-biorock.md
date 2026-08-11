@@ -21,6 +21,8 @@ Vila Almarick Biorock is one of the east coast Gili Trawangan cluster of Biorock
 
 **Note on "world's second-largest" claim:** The previous description stated this was the world's second-largest Biorock project. This claim is unverified — Wikipedia (Gili Eco Trust article) does not make this claim, and Blue Marlin Dive describes it as the "biggest in the world." Specific ranking is not confirmed and has been removed.
 
+**Note on program figures (2026-08-11 re-audit):** Wikipedia's Gili Eco Trust article confirms the figures used in this description (2004 start, 110+ structures by 2016, 2–6x coral growth, 75%+ coral survival on Biorock vs. up to 40% loss on natural reefs in the 2016 bleaching event). Trawangan Dive's own reef-restoration page, however, currently states different figures — 120+ structures and 3–5x growth, with resilience framed across the 2009, 2010, and 2016 bleaching events rather than 2016 alone. Both sources are cited below; where they diverge, this description follows the better-substantiated Wikipedia figures and flags the discrepancy rather than picking silently.
+
 ## Site Information
 
 - **Location**: East coast Gili Trawangan, accessible from Lombok
@@ -51,4 +53,4 @@ Boat from Lombok or Gili Trawangan. Sheltered east coast. Entry via back roll. M
 Do not touch the metal frame — sharp edges possible. Maintain buoyancy to protect coral growth. Lionfish venomous — observe without contact. The low-voltage electrical current used in the Biorock system is safe for divers.
 
 ---
-*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project). Last updated 2026-06-14.*
+*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project), [Wikipedia – Gili Eco Trust](https://en.wikipedia.org/wiki/Gili_Eco_Trust). Last updated 2026-08-11.*

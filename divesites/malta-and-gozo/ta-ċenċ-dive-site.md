@@ -41,4 +41,4 @@ Nudibranchs, lobsters between boulders, shoals of damselfish, bream groups, grou
 - Massive boulder swim-throughs at depth
 
 ---
-*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/ta-cenc-cliffs/), [VisitGozo](https://www.visitgozo.com/what-to-do-in-gozo/escape/diving/dive-sites/ta-cenc-cliffs/). Last updated 2026-04-10.*
+*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/ta-cenc-cliffs/), [VisitGozo](https://www.visitgozo.com/what-to-do-in-gozo/escape/diving/dive-sites/ta-cenc-cliffs/), [MaltaDives — Ta'Cenc Reef](https://maltadives.com/sites/tacencreef/en), [Divers Guide — Ta' Cenc Cave & Reef](https://www.divers-guide.com/en/ta-cenc-cave-and-reef). Last updated 2026-08-11.*

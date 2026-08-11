@@ -60,4 +60,4 @@ Boat dive only. Heritage Malta permit required. Technical diving qualifications 
 Extreme technical dive at 115 metres. CCR or heavy trimix mandatory. Heritage Malta permit required. Designated war grave. No artefact removal permitted. Full technical support team and appropriate bailout gases required.
 
 ---
-*Sources: [Wikipedia — HMS Russell (1901)](https://en.wikipedia.org/wiki/HMS_Russell_(1901)), [Heritage Malta — HMS Russell](https://heritagemalta.mt/explore/hms-russell/), [MaltaDives — HMS Russell](https://maltadives.com/sites/hmsrussell/en). Last updated 2026-06-15.*
+*Sources: [Wikipedia — HMS Russell (1901)](https://en.wikipedia.org/wiki/HMS_Russell_(1901)), [Heritage Malta — HMS Russell](https://heritagemalta.mt/explore/hms-russell/), [MaltaDives — HMS Russell](https://maltadives.com/sites/hmsrussell/en). Last updated 2026-08-11.*

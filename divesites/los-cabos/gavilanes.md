@@ -39,4 +39,4 @@ Follow the ridges and explore the canyons between them. The parallel ridge struc
 Sheltered location with mild conditions. Suitable for beginners. Light current possible but rarely strong enough to affect the dive significantly.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Last updated 2026-06-14.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Re-audited 2026-08-11 — content re-confirmed against current source pages, no factual changes required. Last updated 2026-08-11.*

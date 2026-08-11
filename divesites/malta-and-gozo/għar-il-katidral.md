@@ -43,4 +43,4 @@ Nudibranchs, shrimp, and cardinalfish inside the cave. Parrotfish, groupers, and
 - The ancient saltpan shafts in the ceiling are a unique archaeological feature
 
 ---
-*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/cathedral-cave-ghasri-valley/), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-10.*
+*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/cathedral-cave-ghasri-valley/), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-08-11 (re-audited: content checked against fresh sources, no factual changes needed).*

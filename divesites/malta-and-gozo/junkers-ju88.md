@@ -60,4 +60,4 @@ Extreme technical dive at 106 metres. CCR or heavy trimix mandatory. Heritage Ma
 The almost-intact upright aircraft is an extraordinary photographic subject at extreme depth. The complete wing and engine configuration is clearly identifiable. Requires very powerful lighting at 106 metres.
 
 ---
-*Sources: [MaltaDives.com — JU88 South](https://maltadives.com/sites/junkersju88south/en), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/malta-deep-wrecks-fairey-swordfish-junkers-ju88). Last updated 2026-06-15.*
+*Sources: [MaltaDives.com — JU88 South](https://maltadives.com/sites/junkersju88south/en), [Underwater Malta Virtual Museum](https://underwatermalta.org/discover/), [DIVE Magazine](https://divemagazine.com/scuba-diving-travel/malta-deep-wrecks-fairey-swordfish-junkers-ju88). Last updated 2026-08-11.*

@@ -57,4 +57,4 @@ Boat dive only from Sliema or St. Julian's operators. The site is approximately 
 Advanced certification required due to 38-metre depth. No penetration is possible due to the inverted position and degradation. Monitor gas consumption carefully and carry an SMB.
 
 ---
-*Sources: [Shearwater — Dive Malta's Beaufighter Wreck](https://shearwater.com/blogs/community/dive_malta_beaufighter_wreck), [MaltaDives — Bristol Beaufighter](https://maltadives.com/sites/bristolbeaufighter/en), [Dive Systems Malta — Bristol Beaufighter](https://divesystemsmalta.com/bristol-beaufighter/). Last updated 2026-06-15.*
+*Sources: [Shearwater — Dive Malta's Beaufighter Wreck](https://shearwater.com/blogs/community/dive_malta_beaufighter_wreck), [MaltaDives — Bristol Beaufighter](https://maltadives.com/sites/bristolbeaufighter/en), [Dive Systems Malta — Bristol Beaufighter](https://divesystemsmalta.com/bristol-beaufighter/). Last updated 2026-08-11.*

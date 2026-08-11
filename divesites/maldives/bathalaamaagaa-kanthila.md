@@ -3,7 +3,7 @@ name: Bathalaamaagaa Kanthila
 lat: 4.0705807
 lng: 72.9497539
 difficulty: Intermediate
-maxDepth: 32
+maxDepth: 30
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,32 +13,22 @@ addedBy: osm_import
 
 ## Bathalaamaagaa Kanthila
 
-**Location:** North Malé Atoll (western rim), Maldives
-**Depth:** 10–32 m
-**Difficulty:** Intermediate
-**Entry:** Boat
+Bathalaamaagaa Kanthila (Bathalaa Maagaa Kan Thila, "the thila at the mouth of the Bathala channel") sits in North Ari Atoll — not North Male as previously listed — just minutes by boat from Bathala Island, and is described by multiple sources as a classic among the atoll's channel-mouth thilas.
 
 ### Overview
 
-Bathalaamaagaa Kanthila is a prominent underwater pinnacle on the western edge of North Malé Atoll. "Kanthila" is the local term for a deep pinnacle or submerged rock formation that rises from significant depth. This site features a series of stacked rock formations draped in encrusting sponges, sea fans, and soft corals, with overhangs and ledges providing shelter for a range of reef and pelagic species.
+The thila is reported at roughly 300 metres long and 20 metres wide, with its top at around 10 metres and a sandy plateau at about 26 metres (PADI cites a maximum depth of 30 m for the site overall). Positioned at the ocean-facing entrance of the Bathala channel, it draws grey reef sharks and Napoleon (humphead) wrasse into the current that funnels past it. The sandy plateau is a good spot for blue ribbon eels, mantis shrimp, and moray eels, while the outer wall offers exhilarating drift diving in stronger current. Reported wildlife also includes nurse sharks resting under overhangs, eagle rays, dogtooth tuna, giant trevally, fusiliers, leaf fish, anemones, shrimp, and nudibranchs.
 
-### Diving
+### Site Conditions
 
-The pinnacle descends to 32 m, and the dive typically covers both the upper structure and one or two of the deeper sections. Large gorgonian sea fans spread out from the walls in the 20–32 m range, and black coral trees are visible on the deeper sections. Nurse sharks use the overhangs and cave-like recesses as resting spots during daylight hours.
+- **Depth range**: 10–30 m
+- **Typical visibility**: up to 24 m, best December–May
+- **Currents**: Variable — dived multiple ways depending on conditions, including in strong current
+- **Best season**: December–May, when visibility and temperature (28–30°C) peak
 
-In current, the up-current side of the kanthila sees impressive action — schools of trevally and jacks hang in the flow, and grey reef sharks circle the structure at depth. Eagle rays and occasional Napoleon wrasse appear from the blue water beyond the pinnacle.
+### Tips for Divers
 
-### Marine Life
-
-- Nurse sharks and grey reef sharks
-- Eagle rays
-- Schools of trevally and jacks
-- Gorgonian sea fans and black coral trees
-- Napoleon wrasse (occasional)
-
-### Practical Notes
-
-Current exposure on this open-atoll pinnacle can be significant. Best dived in moderate current conditions with an experienced guide. Depth to 32 m requires Advanced diver certification or equivalent experience. Visibility typically 15–30 m.
+This is a current-exposed, open-atoll pinnacle, so check conditions and current direction with the dive guide before descending — the site can be dived several different ways depending on strength and direction of flow. The sandy plateau at 26 m rewards a slow look for blue ribbon eels and mantis shrimp rather than a fast circuit.
 
 ---
-*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*
+*Sources: [PADI — Bathala Thila](https://www.padi.com/dive-site/maldives/bathala-thila/), [Businessclass.com — Best Dive Sites in Maldives](https://www.businessclass.com/en-us/destinations/toplists/the-best-dive-sites-in-maldives), [Divessi — Bathalaa Thila](https://www.divessi.com/en/mydiveguide/divesite/bathalaa-thila-bathala-t-merry-kan-maldives-47478). Corrected atoll from North Male to North Ari Atoll based on source consensus and coordinate cross-check (PADI listing coordinates match this site's coordinates exactly). Last updated 2026-08-11.*

@@ -26,7 +26,7 @@ North Bay is primarily known as a snorkelling and freediving location centred on
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Note**: Validation pending — no site-specific scuba sources found as of 2026-06-14
+- **Note**: Validation pending — no site-specific scuba sources found as of 2026-08-11 (re-checked; still no third-party source names a scuba site called "North Bay Dropoff")
 
 ## Marine Life
 
@@ -37,4 +37,4 @@ No site-specific marine life sources found for North Bay Dropoff as a scuba dive
 No verified scuba dive profile available for North Bay Dropoff. Contact Dive Lord Howe directly for current site status before planning a dive here.
 
 ---
-*Description based on curated entry and regional context. No site-specific scuba diving sources found for North Bay Dropoff. The nearby MV Favourite snorkel wreck is documented at [Pinetrees Lodge](https://pinetrees.com.au/locals-guide/shipwreck-snorkel/) and [diveplanit.com](https://www.diveplanit.com/dive-site/inside-lagoon/). Last updated 2026-06-14.*
+*Description based on curated entry and regional context. No site-specific scuba diving sources found for North Bay Dropoff despite a repeat search on 2026-08-11 (checked lordhoweisland.info, prodive.com.au, diveplanit.com, spacificatravel.com, weareexplorers.co, and general web search — none name a scuba site called "North Bay Dropoff"). The nearby MV Favourite snorkel wreck is documented at [Pinetrees Lodge](https://pinetrees.com.au/locals-guide/shipwreck-snorkel/), [weareexplorers.co](https://weareexplorers.co/lord-howe-island-top-8-adventures), and [diveplanit.com](https://www.diveplanit.com/dive-site/inside-lagoon/), but the wreck itself is a snorkel/freedive site, not this scuba entry. Remains unvalidated. Last updated 2026-08-11.*

@@ -21,6 +21,8 @@ Bale Sampan Biorock is one of the east coast Gili Trawangan cluster of Biorock s
 
 **Note:** The earlier claim of "more than 120 frames placed since 2006" is inaccurate — the program started in 2004, had 63 structures by 2010, and reached 110+ by 2016. The "world's second-largest" ranking was also unverified and has been removed.
 
+**Note on program figures (2026-08-11 re-audit):** Wikipedia's Gili Eco Trust article corroborates 2004 start, 110+ structures by 2016, 2–6x coral growth, and 75%+ survival vs. up to 40% loss during the 2016 bleaching event. Trawangan Dive's own current reef-restoration page instead states 120+ structures and 3–5x growth today, framing resilience across 2009/2010/2016. Flagging the discrepancy between the historical Wikipedia figures and the operator's current-day figures rather than merging them silently.
+
 ## Site Information
 
 - **Location**: East coast Gili Trawangan, accessible from Lombok
@@ -51,4 +53,4 @@ Boat from Lombok or Gili Trawangan. Short transit. Calm east coast conditions. E
 Do not touch the metal frame — sharp edges possible. Maintain buoyancy near the coral-covered structure. Lionfish venomous. The low-voltage current is safe for all divers.
 
 ---
-*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project). Last updated 2026-06-14.*
+*Sources: [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Manta Dive Gili Air – BioRock Project](https://manta-dive-giliair.com/blog/biorock-project), [Wikipedia – Gili Eco Trust](https://en.wikipedia.org/wiki/Gili_Eco_Trust). Last updated 2026-08-11.*

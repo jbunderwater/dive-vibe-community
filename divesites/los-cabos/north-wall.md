@@ -28,7 +28,7 @@ The most sheltered site in the Cabo San Lucas Marine Park, located inside the ba
 
 ## Marine Life
 
-Garden eels carpet the sandy shallows. Green moray eels, spiny lobsters, spotted scorpionfish, and guineafowl pufferfish live among the boulders. Banded guitarfish and whitetip reef sharks have been reported at this site. Seahorses appear seasonally in the shallower rocky areas. At night, octopus, crabs, and basket starfish emerge, making this an excellent night dive.
+Garden eels carpet the sandy shallows. Green moray eels, spiny lobsters, spotted scorpionfish, and guineafowl pufferfish live among the boulders. Banded guitarfish and whitetip reef sharks have been reported at this site. Seahorses appear seasonally in the shallower rocky areas. At night, octopus and crabs are commonly seen emerging, making this a popular night dive site.
 
 ## Dive Profile
 
@@ -39,4 +39,4 @@ Start in the sandy shallows at 6 meters to observe garden eels, then move over t
 Mild conditions make this suitable for beginners, though the cliff drops deep beyond 27 meters. Scorpionfish are well camouflaged against the rocks — avoid placing hands on the substrate. For night dives, carry a primary and backup light.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Scuba Diver Life](https://scubadiverlife.com/diving-cabo-san-lucas-marine-park/), [Dive Baja](https://www.divebaja.mx/blog/exploring-the-best-dive-sites-in-cabo-san-lucas-a-guide-to-the-cabo-san-lucas-marine-park), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos). Last updated 2026-06-14.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Scuba Diver Life](https://scubadiverlife.com/diving-cabo-san-lucas-marine-park/), [Dive Baja](https://www.divebaja.mx/blog/exploring-the-best-dive-sites-in-cabo-san-lucas-a-guide-to-the-cabo-san-lucas-marine-park), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm). "Basket starfish" removed from the species list on re-audit — not corroborated by any independent source. Last updated 2026-08-11.*

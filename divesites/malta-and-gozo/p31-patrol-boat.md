@@ -44,4 +44,4 @@ The wreck attracts schools of bream and damselfish. Octopus and moray eels shelt
 - Combine with Santa Maria Caves and Lantern Point for a Comino dive day
 
 ---
-*Sources: [Wikipedia — Maltese patrol boat P31](https://en.wikipedia.org/wiki/Maltese_patrol_boat_P31), [MaltaDives — P31](https://maltadives.com/sites/p31/en), [Seashell Diving Malta — P31](https://www.seashelldivingmalta.com/dive-site/p31-comino). Last updated 2026-06-15.*
+*Sources: [Wikipedia — Maltese patrol boat P31](https://en.wikipedia.org/wiki/Maltese_patrol_boat_P31), [MaltaDives — P31](https://maltadives.com/sites/p31/en), [Seashell Diving Malta — P31](https://www.seashelldivingmalta.com/dive-site/p31-comino). Last updated 2026-08-11.*
