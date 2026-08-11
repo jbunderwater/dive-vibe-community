@@ -15,8 +15,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com,divezone.net,starfish.ch",
-      "last_qa_date": "2026-06-14",
-      "notes": "QA 2026-06-14: Wall on southwest/east side of Gili Air, 5-24m (manta-dive-giliair.com) or 8-28m (bluemarlindive.com). Gorgonian sea fans and pygmy seahorses confirmed at this site (manta-dive-giliair.com). Bumphead parrotfish: manta-dive-giliair.com page does NOT list them at Air Wall; only confirmed at Halik. Removed from Air Wall description as unconfirmed. Difficulty should be beginner-to-advanced per local operators but intermediate is reasonable classification. Location described as southwest by manta-dive-giliair.com, northwest by terumbudivers.com, eastern by starfish.ch - sources conflict on exact side of Gili Air. Depth: Manta Dive Air says 5-24m, Divezone and Starfish say max 32m."
+      "last_qa_date": "2026-08-11",
+      "notes": "QA 2026-06-14: Wall on southwest/east side of Gili Air, 5-24m (manta-dive-giliair.com) or 8-28m (bluemarlindive.com). Gorgonian sea fans and pygmy seahorses confirmed at this site (manta-dive-giliair.com). Bumphead parrotfish: manta-dive-giliair.com page does NOT list them at Air Wall; only confirmed at Halik. Removed from Air Wall description as unconfirmed. Difficulty should be beginner-to-advanced per local operators but intermediate is reasonable classification. Location described as southwest by manta-dive-giliair.com, northwest by terumbudivers.com, eastern by starfish.ch - sources conflict on exact side of Gili Air. Depth: Manta Dive Air says 5-24m, Divezone and Starfish say max 32m. RE-AUDIT 2026-08-11: Fresh WebSearch cross-check reconfirms all facts unchanged - gorgonian sea fans, pygmy seahorses, nudibranchs, juvenile sweetlips, orangutan crabs, octopus, wire coral gobies/shrimps, painted lobsters, banded pipefish all still corroborated. Depth range 5-30m per one additional source. No new conflicts found, no corrections required."
     }
   },
   {
@@ -34,9 +34,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "divecentralgili.com,trawangandive.com,terumbudivers.com,gilidivers.com",
-      "last_qa_date": "2026-06-14",
-      "notes": "QA 2026-06-14 RE-AUDIT: Vessel was a floating pier/pontoon, 30m x 15m. Sinking year CONFLICT: divecentralgili.com says 2001 storm; terumbudivers.com says 'early 2000s'; manta-dive-giliair.com says sunk 1999; divers-guide.com says 2001. Year 2001 is most commonly cited but not fully consistent across sources. Depth 8-18m confirmed by multiple sources. Location: west or southwest of Gili Meno (not north - conflict with existing data). Pygmy seahorses: mentioned by gilidivers.com overview but NOT confirmed by direct wreck-specific pages (manta-dive-giliair.com, divers-guide.com, divecentralgili.com do not list pygmy seahorses at this site). Frogfish, scorpionfish confirmed. Bounty date conflict: divecentralgili.com says 2001 storm, divessi.com says various dates (1999-2003), terumbudivers.com says early 2000s. Three sources agree storm sinking not intentional."
+      "validation_source": "divecentralgili.com,trawangandive.com,terumbudivers.com,gilidivers.com,giliairdivers.com,padi.com",
+      "last_qa_date": "2026-08-11",
+      "notes": "QA 2026-06-14 RE-AUDIT: Vessel was a floating pier/pontoon, 30m x 15m. Sinking year CONFLICT: divecentralgili.com says 2001 storm; terumbudivers.com says 'early 2000s'; manta-dive-giliair.com says sunk 1999; divers-guide.com says 2001. Year 2001 is most commonly cited but not fully consistent across sources. Depth 8-18m confirmed by multiple sources. Location: west or southwest of Gili Meno (not north - conflict with existing data). Pygmy seahorses: mentioned by gilidivers.com overview but NOT confirmed by direct wreck-specific pages (manta-dive-giliair.com, divers-guide.com, divecentralgili.com do not list pygmy seahorses at this site). Frogfish, scorpionfish confirmed. Bounty date conflict: divecentralgili.com says 2001 storm, divessi.com says various dates (1999-2003), terumbudivers.com says early 2000s. Three sources agree storm sinking not intentional. DEEP WRECK RE-AUDIT 2026-08-11 (site_type=wreck, req'd cross-check across >=2 independent sources): Cross-checked vessel identity, dimensions, year, and cause across 7 sources (PADI, giliairdivers.com, manta-dive-giliair.com, divecentralgili.com, gilidivers.com, terumbudivers.com, trawanganstingraydivers.com). Vessel type CONFIRMED consistent: a wooden floating pier/pontoon/jetty (formerly serving Gili Meno boat traffic), never a traditional ship - no source calls it a 'ship'. Dimensions 30m long x 15m wide, highest point ~8-9m, confirmed independently by giliairdivers.com AND divecentralgili.com/original search aggregate (2 sources); PADI gives 9m/18m (consistent within 1m variance). One outlier, trawanganstingraydivers.com, gives 25-26m depth and garbled 'bridge' language - treated as low-reliability outlier, not used. Year sunk STILL CONFLICTS across sources: giliairdivers.com and divecentralgili.com say 2001 (storm), manta-dive-giliair.com says 1999, PADI says 'around 2003', terumbudivers.com says 'early 2000s'. No single year independently confirmed - conflict written into markdown per anti-hallucination policy rather than picking one. Cause: majority of sources (giliairdivers.com, divecentralgili.com) attribute sinking to storm damage while the abandoned pier sat in the water; terumbudivers.com just says 'abandoned...sank' without specifying a cause. Bicycles feature CONFIRMED by giliairdivers.com dedicated Bounty Wreck page ('a pair of old bicycles draped in coral'). Ghost pipefish NOW CONFIRMED by giliairdivers.com (previously marked unconfirmed in error - corrected). Sweetlips newly confirmed by giliairdivers.com. Moray eels REMOVED - not confirmed by any of the 7 sources checked (was unsourced hallucination-risk claim in prior markdown). PADI's claim of 'whales and dolphins' at this 18m wreck site is excluded as implausible/likely generic boilerplate, not corroborated by any other source. No Wikipedia article exists for this site (not a notable named vessel) - cross-referenced across 7 dive-specific/database sources instead per policy allowance."
     }
   },
   {
@@ -55,8 +55,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com,trawangandive.com,gilidivers.com",
-      "last_qa_date": "2026-06-14",
-      "notes": "QA 2026-06-14: Sea mound/pinnacle north of Gili Trawangan. Depth 18-35m (manta-dive-giliair.com says avg 35m). Bumphead parrotfish confirmed at this site by manta-dive-giliair.com. Pygmy seahorses in sea fans confirmed. Eagle rays, reef sharks, turtles confirmed. 'Advanced and above' classification confirmed. Leopard shark mentioned by bluemarlindive.com. Not eagle ray/pelagic-focused as originally written - sea mound/seamount type is correct."
+      "last_qa_date": "2026-08-11",
+      "notes": "QA 2026-06-14: Sea mound/pinnacle north of Gili Trawangan. Depth 18-35m (manta-dive-giliair.com says avg 35m). Bumphead parrotfish confirmed at this site by manta-dive-giliair.com. Pygmy seahorses in sea fans confirmed. Eagle rays, reef sharks, turtles confirmed. 'Advanced and above' classification confirmed. Leopard shark mentioned by bluemarlindive.com. Not eagle ray/pelagic-focused as originally written - sea mound/seamount type is correct. RE-AUDIT 2026-08-11: Cross-checked via trawangandive.com and gilidivers.com dive-site pages. trawangandive.com: 16-30m, coral pinnacles, batfish/triggerfish/snapper/blue-spotted rays/sharks/pygmy seahorses (independent 2nd source for pygmy seahorses). gilidivers.com: pinnacle 18-30m, reef sharks/stingrays/barrel sponges/nudibranchs. All consistent with existing description; no corrections required. Bumphead parrotfish remains single-sourced (manta-dive-giliair.com only)."
     }
   },
   {
@@ -75,8 +75,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "starfish.ch,diversiondivetravel.com.au,manta-dive-giliair.com",
-      "last_qa_date": "2026-06-14",
-      "notes": "QA 2026-06-14: Coordinate lon 116.0886 places site east of Gili Air, consistent with starfish.ch which lists 'Gili Air Harbour/Frogfish Point' as a sandy area east of Gili Air. divessi.com lists Frogfish Point near Gili Air. Site features ghost pipefish, frogfish, scorpionfish, shrimps and nudibranchs on coral block 5-18m. Three species of frogfish (warty/giant/hairy) not independently confirmed as distinct from the general critter description - only generic 'frogfish' mentioned. Site type reef is appropriate. Location coordinate plausible."
+      "last_qa_date": "2026-08-11",
+      "notes": "QA 2026-06-14: Coordinate lon 116.0886 places site east of Gili Air, consistent with starfish.ch which lists 'Gili Air Harbour/Frogfish Point' as a sandy area east of Gili Air. divessi.com lists Frogfish Point near Gili Air. Site features ghost pipefish, frogfish, scorpionfish, shrimps and nudibranchs on coral block 5-18m. Three species of frogfish (warty/giant/hairy) not independently confirmed as distinct from the general critter description - only generic 'frogfish' mentioned. Site type reef is appropriate. Location coordinate plausible. RE-AUDIT 2026-08-11: Fresh WebSearch cross-check (diversiondivetravel.com.au among results) additionally confirms 'black spotted morays' at this site alongside ghost pipefish, frogfish, leaf scorpionfish, seahorses, pipefish, and shrimp - added moray eels to marine life with diversiondivetravel.com.au as source. Depth 5-18m reconfirmed. No other changes required."
     }
   },
   {
@@ -97,8 +97,8 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com,trawangandive.com,divecentralgili.com",
-      "last_qa_date": "2026-06-14",
-      "notes": "QA 2026-06-14: North/northwest Gili Trawangan, 1 km long, 6-40m depth range. Halik and Trawangan Wall appear to describe overlapping areas on the northwest coast of Gili Trawangan. Eagle rays, reef sharks, trevally, barrel sponges, anemone fields confirmed. Bumphead parrotfish: divecentralgili.com states 'during a full moon, bumphead parrotfish school in huge numbers can be seen' - confirmed but seasonal/conditional. Deep Halik extends to 40m (advanced section). Drift dive type confirmed."
+      "last_qa_date": "2026-08-11",
+      "notes": "QA 2026-06-14: North/northwest Gili Trawangan, 1 km long, 6-40m depth range. Halik and Trawangan Wall appear to describe overlapping areas on the northwest coast of Gili Trawangan. Eagle rays, reef sharks, trevally, barrel sponges, anemone fields confirmed. Bumphead parrotfish: divecentralgili.com states 'during a full moon, bumphead parrotfish school in huge numbers can be seen' - confirmed but seasonal/conditional. Deep Halik extends to 40m (advanced section). Drift dive type confirmed. RE-AUDIT 2026-08-11: Cross-checked via fresh trawangandive.com and gilidivers.com fetches. trawangandive.com 'Halik Reef' 6-40m: snapper, eagle rays, giant trevally, lionfish, reef sharks, anemone fish, bumphead parrotfish - all consistent. gilidivers.com 'Halik' reef/wall 12m+: adds octopus, cuttlefish, ribbon eels, stingrays not previously listed - added to description with gilidivers.com attribution. No conflicts found."
     }
   },
   {
@@ -107,7 +107,7 @@
     "lon": 116.0255805,
     "osm_id": 2395669751,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -117,8 +117,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com,trawangandive.com,almarik-lombok.com",
-      "last_qa_date": "2026-06-14",
-      "notes": "QA 2026-06-14: DIFFICULTY CORRECTED from Intermediate to Advanced. Site is on the NORTH side of Gili Trawangan (not west as original description stated). Depth 24-35m+. Classified as 'Advanced divers only' by manta-dive-giliair.com. Two coral ridges extending west, separated by white sand at 24m. Big-eye trevally, whitetip and blacktip reef sharks, snappers, occasional eagle rays and manta rays. Best site for pelagic encounters in the Gilis. Also suitable for Deep Specialty and Nitrox. No jackfish at a west headland - actual site is two deep ridges heading north."
+      "last_qa_date": "2026-08-11",
+      "notes": "QA 2026-06-14: DIFFICULTY CORRECTED from Intermediate to Advanced. Site is on the NORTH side of Gili Trawangan (not west as original description stated). Depth 24-35m+. Classified as 'Advanced divers only' by manta-dive-giliair.com. Two coral ridges extending west, separated by white sand at 24m. Big-eye trevally, whitetip and blacktip reef sharks, snappers, occasional eagle rays and manta rays. Best site for pelagic encounters in the Gilis. Also suitable for Deep Specialty and Nitrox. No jackfish at a west headland - actual site is two deep ridges heading north. RE-AUDIT 2026-08-11: DATA BUG FOUND AND FIXED - the 'depth' field was still 20m despite the 2026-06-14 notes already documenting 24-35m+; markdown frontmatter/Site Information had been silently displaying the wrong depth for two months because sync_sites.py propagates the JSON depth field verbatim. Corrected depth field to 35 to match the well-sourced 24-35m+ profile (WebSearch reconfirmed 'drops to 35+ metres' via trawangandive.com/almarik-lombok.com). This is exactly the kind of drift the re-audit is meant to catch."
     }
   },
   {
@@ -137,8 +137,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "manta-dive-giliair.com,trawangandive.com,starfish.ch",
-      "last_qa_date": "2026-06-14",
-      "notes": "QA 2026-06-14: Takat Malang = 'bent reef' in Indonesian per manta-dive-giliair.com. Located just north of Gili Air (not north of all Gili Islands as previously stated). Reef top at 10m, drops to 35m (manta-dive-giliair.com) or 40m (multiple other sources). Long winding reef with undulating valleys. 10 major takats per some sources; manta-dive-giliair.com describes it differently as a ridge system. Pygmy seahorses in gorgonian fans: claimed in original description but NOT confirmed by manta-dive-giliair.com's actual site page - removed. Garden eels and blue-spotted stingrays on sandy bottom confirmed. Schooling fish confirmed."
+      "last_qa_date": "2026-08-11",
+      "notes": "QA 2026-06-14: Takat Malang = 'bent reef' in Indonesian per manta-dive-giliair.com. Located just north of Gili Air (not north of all Gili Islands as previously stated). Reef top at 10m, drops to 35m (manta-dive-giliair.com) or 40m (multiple other sources). Long winding reef with undulating valleys. 10 major takats per some sources; manta-dive-giliair.com describes it differently as a ridge system. Pygmy seahorses in gorgonian fans: claimed in original description but NOT confirmed by manta-dive-giliair.com's actual site page - removed. Garden eels and blue-spotted stingrays on sandy bottom confirmed. Schooling fish confirmed. RE-AUDIT 2026-08-11: gilidivers.com's general site index labels this 'Takat Malang' as a pinnacle/coral-heads type (12-40m: kuhl's rays, garden eels, blue-spotted stingrays, sea fans, barrel sponges) rather than reef. However the dedicated manta-dive-giliair.com page (primary, site-specific source) describes it as a winding ridge/valley reef system, not a single pinnacle - per validation rules the more detailed site-specific page takes priority over a generic list entry, so 'reef' classification is retained. Noted for future reference in case of further conflicting evidence."
     }
   },
   {
