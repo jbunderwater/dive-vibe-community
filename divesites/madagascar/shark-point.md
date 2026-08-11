@@ -19,7 +19,7 @@ Shark Point is an oceanic wall dive approximately 21 kilometres offshore from No
 
 Shark Point is one of Nosy Be's most demanding and rewarding dives — a true pelagic wall exposed to open ocean conditions. The drop-off begins at roughly 18 metres and descends steeply beyond 50 metres, though most dive profiles stay in the 25–40 metre range where the shark action is most concentrated.
 
-The site is reliably productive for grey reef sharks and whitetip reef sharks, which patrol the wall face alongside large schools of snappers and fusiliers. Wahoo and yellowfin tuna are common in the blue water off the edge. Hammerhead sharks are occasionally sighted, though sightings are not guaranteed. Whale sharks and manta rays visit seasonally. Humpback whales pass through on migration (July–November).
+The site is reliably productive for grey reef sharks, whitetip reef sharks, and blacktip reef sharks, which patrol the wall face alongside large schools of snappers and fusiliers. Wahoo and yellowfin tuna are common in the blue water off the edge. Hammerhead sharks are occasionally sighted, though sightings are not guaranteed. Whale sharks and manta rays visit seasonally. Humpback whales pass through on migration (July–November).
 
 Conditions are current-dependent. One local source notes the site is accessible to entry-level certified divers at the shallower end of the wall on a rising tide, but the full site profile — deep, open-ocean, with strong pelagic current potential — places this firmly in the Advanced category for most dives.
 
@@ -32,4 +32,4 @@ Conditions are current-dependent. One local source notes the site is accessible 
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Scuba Nosy Be](https://scubanosybe.com/en/sites-de-plongee/), [MadagasCAT](https://www.madagascat.co.za/about-scuba-diving-nosy-be-madagascar), [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/), [Prime Media Madagascar](https://www.primemedia.international/nosy-be-scuba-diving.html). Last updated 2026-06-14.*
+*Sources: [Scuba Nosy Be](https://scubanosybe.com/en/sites-de-plongee/), [MadagasCAT](https://www.madagascat.co.za/about-scuba-diving-nosy-be-madagascar), [Tropical Diving Nosy Be](https://tropical-diving.com/en/nosy-be-dive-sites/), [Prime Media Madagascar](https://www.primemedia.international/nosy-be-scuba-diving.html). Re-audited 2026-08-11 — all four sources re-confirmed live and consistent with prior findings; blacktip reef sharks added to the confirmed shark list per Scuba Nosy Be. Last updated 2026-08-11.*

@@ -17,7 +17,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "scubanosybe.com,madagascat.co.za,primemedia.international,tropical-diving.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -37,7 +37,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "scubanosybe.com,islandstays.co.za,baleinesrandeau.com,tropical-diving.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -58,7 +58,7 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "scubanosybe.com,madagascat.co.za,tropical-diving.com,sakalavdiving.com",
-      "last_qa_date": "2026-06-14"
+      "last_qa_date": "2026-08-11"
     }
   },
   {
@@ -78,8 +78,9 @@
       "tourism": "attraction",
       "wreck_component": "true",
       "validated": "true",
-      "validation_source": "madablu.com,travelssmart.blogspot.com,spotmydive.com",
-      "last_qa_date": "2026-06-14"
+      "validation_source": "madablu.com,travelssmart.blogspot.com,aquamadagascar.com",
+      "validation_note": "spotmydive.com (previously cited) returned HTTP 404 on re-audit 2026-08-11 and was dropped; replaced with aquamadagascar.com, an independent, currently-live site-specific source.",
+      "last_qa_date": "2026-08-11"
     }
   }
 ]
