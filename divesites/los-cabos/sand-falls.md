@@ -28,7 +28,7 @@ One of the most unusual underwater features in the world — rivers of sand casc
 
 ## Marine Life
 
-The sandy canyon edge attracts garden eels and jawfish in the shallows above the falls. Larger species cruise the blue water off the wall, including spotted eagle rays and occasional mobula rays. The rocky areas above the sand chutes host moray eels, Mexican goatfish, snappers, and groupers.
+The sandy canyon edge attracts garden eels and jawfish in the shallows above the falls. Larger species cruise the blue water off the wall, including spotted eagle rays and occasional mobula rays. The rocky areas above the sand chutes host moray eels, Mexican goatfish, snappers, sardines, and groupers, with octopus, seahorses, and frogfish reported in the surrounding structure.
 
 ## Dive Profile
 
@@ -39,4 +39,4 @@ This is a deep dive requiring Advanced certification and strong air management. 
 Depth is the primary hazard. The canyon drops far beyond recreational limits and narcosis can impair judgment. Strong currents can develop along the canyon edge, and surge can reduce visibility temporarily after swell. This site is not suitable for inexperienced divers. Carry an SMB and dive computer; agree on maximum depth and turn pressure before descending.
 
 ---
-*Sources: [Los Cabos Guide](https://www.loscabosguide.com/underwater-sand-waterfall/), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm), [Dive Cabo](https://www.divecabo.com/dive-sites/), [Wikipedia — Sandfall](https://en.wikipedia.org/wiki/Sandfall). Last updated 2026-06-14.*
+*Sources: [Los Cabos Guide](https://www.loscabosguide.com/underwater-sand-waterfall/), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm), [Dive Cabo](https://www.divecabo.com/dive-sites/), [Wikipedia — Sandfall](https://en.wikipedia.org/wiki/Sandfall), [Sunset World Resorts](https://www.sunsetworldresorts.com/i-am-mexico/the-sand-falls/), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/cabo-san-lucas-diving). 1959 discovery by Francis P. Shepard (Scripps) and later exposure via Jacques Cousteau's films confirmed across independent sources; canyon depth cited as approximately 1,100–1,200 ft depending on source. Last updated 2026-08-11.*

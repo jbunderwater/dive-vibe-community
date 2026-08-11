@@ -28,7 +28,7 @@ One of the most popular reef sites along the Corridor, known for relatively heal
 
 ## Marine Life
 
-Whitetip reef sharks rest under ledges and boulders within the finger reefs — check the deeper side of each channel overhang. Green sea turtles are common throughout the site. Spotted eagle rays and schools of jacks and snapper move through the channels. Large gulf grouper and Cortez angelfish are resident. The coral trees and sea fans provide habitat for hawkfish, wrasses, and damselfish.
+Whitetip reef sharks and nurse sharks both rest under ledges and boulders within the finger reefs — check the deeper side of each channel overhang. Green sea turtles are common throughout the site. Spotted eagle rays and schools of jacks and snapper move through the channels. Large gulf grouper and Cortez angelfish are resident. The coral trees and sea fans provide habitat for hawkfish, wrasses, and damselfish.
 
 ## Dive Profile
 
@@ -36,7 +36,7 @@ Navigate through the finger reef channels, checking under overhangs for resting 
 
 ## Safety Considerations
 
-Protected and calm. Suitable for beginners. Whitetip reef sharks are docile and pose no threat if approached calmly without chasing. Snorkelers use the bay; ascend with awareness. Mild current possible along the outer reef edge.
+Protected and calm. Suitable for beginners. Whitetip reef sharks and nurse sharks are both docile and pose no threat if approached calmly without chasing. Snorkelers use the bay; ascend with awareness. Mild current possible along the outer reef edge.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/cabo-san-lucas-diving), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Last updated 2026-06-14.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/cabo-san-lucas-diving), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Nurse sharks added to the species list on re-audit, corroborated by two independent sources. Last updated 2026-08-11.*

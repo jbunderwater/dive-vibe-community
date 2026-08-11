@@ -36,7 +36,7 @@ A gentle reef dive with no significant hazards. Explore the sandy corridors betw
 
 ## Safety Considerations
 
-One of the calmest and most protected sites in Los Cabos. Suitable for all levels including discover scuba participants. Minimal current and surge. Snorkelers frequent the site, so watch for swimmers on ascent.
+One of the calmest and most protected sites in Los Cabos. Most operators rate it suitable for all levels including discover scuba participants, though at least one source lists it as Intermediate — the calm, shallow conditions support the Beginner rating used here. Minimal current and surge. Snorkelers frequent the site, so watch for swimmers on ascent.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Cabo-Scuba-Diving.htm), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Last updated 2026-06-14.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Re-audited 2026-08-11 — difficulty rating conflict across sources noted in text. Last updated 2026-08-11.*

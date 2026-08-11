@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Gordo Banks
 
-A pair of submerged seamounts approximately 7 miles (11 km) offshore from San Jose del Cabo marina, and roughly 29 miles from Cabo San Lucas. The inner bank's highest peak rises to about 31 meters (102 feet) below the surface; the outer bank starts deeper. The rocky seamount surface is covered with black coral and wire coral. This is the premier pelagic dive in Los Cabos — schooling scalloped hammerhead sharks (*Sphyrna lewini*), silky sharks, yellowfin tuna, wahoo, and marlin patrol the seamount. The dive involves a blue-water descent with no visual reference, strong and unpredictable currents, and no shallow refuge. Advanced certification and open-water drift experience are mandatory.
+A pair of submerged seamounts approximately 7 miles (11 km) offshore from San Jose del Cabo marina, and roughly 29 miles from Cabo San Lucas — confirmed directly by two operators running trips there. The inner bank's highest peak rises to somewhere between about 31 and 35 meters (102–115 feet) below the surface depending on the source consulted; the outer bank starts deeper. The rocky seamount surface is covered with black coral and wire coral. This is the premier pelagic dive in Los Cabos — schooling scalloped hammerhead sharks (*Sphyrna lewini*), silky sharks, yellowfin tuna, wahoo, and marlin patrol the seamount. The dive involves a blue-water descent with no visual reference, strong and unpredictable currents, and no shallow refuge. Advanced certification and open-water drift experience are mandatory.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ A pair of submerged seamounts approximately 7 miles (11 km) offshore from San Jo
 
 ## Marine Life
 
-Scalloped hammerhead sharks school around the seamount — encounters are reported on approximately 4 out of 5 dives during peak season (late August to January), though no sightings are guaranteed. Silky sharks, tope sharks, yellowfin tuna, wahoo, marlin, and large schools of jacks and creole fish are regular visitors. Mobula rays aggregate seasonally (June–August and November–December when plankton concentrations peak). Humpback whales migrate through the area in early winter to late spring. Water temperatures during thermocline season can vary from 15°C to 28°C within a single dive.
+Scalloped hammerhead sharks school around the seamount — encounters are reported on approximately 4 out of 5 dives during peak season (late August to January), though no sightings are guaranteed. Silky sharks, tope sharks, yellowfin tuna, wahoo, marlin, and large schools of jacks and creole fish are regular visitors. Mobula rays aggregate seasonally (June–August and November–December when plankton concentrations peak). Humpback whales migrate through the area in early winter to late spring. Water temperature varies substantially by season, from roughly 16°C in spring to 30°C in autumn, and divers can encounter a sharp thermocline during a single dive.
 
 ## Dive Profile
 
@@ -40,4 +40,4 @@ The boat anchors or drifts over the seamount. Entry is a blue-water descent — 
 This is a demanding open-ocean dive with no shelter, no shallow areas, and strong currents. Blue-water descents and ascents require composure and experience. The boat ride is rough during north wind periods. Minimum group of 4 divers is standard for guided tours. Carry an SMB, whistle, and mirror. Dive with a computer and agree on strict turn pressures before entering.
 
 ---
-*Sources: [Dive Gordo Banks](https://divegordobanks.com/), [Dive Ninja Expeditions](https://www.diveninjaexpeditions.com/scuba-diving-gordo-banks/), [Breathe Out Baja](https://www.breatheoutbaja.com/gordo-banks-scuba-diving), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Last updated 2026-06-14.*
+*Sources: [Dive Gordo Banks](https://divegordobanks.com/), [Dive Ninja Expeditions](https://www.diveninjaexpeditions.com/scuba-diving-gordo-banks/), [Breathe Out Baja](https://www.breatheoutbaja.com/gordo-banks-scuba-diving), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/). Re-audited 2026-08-11 — distance and hammerhead-season figures re-confirmed directly against two dive operators; peak depth and water-temperature range refined to reflect a slight spread between sources. Last updated 2026-08-11.*

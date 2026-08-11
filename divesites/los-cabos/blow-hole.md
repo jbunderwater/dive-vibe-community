@@ -39,4 +39,4 @@ Descend among the boulders and navigate through the crevices and overhangs. The 
 Current can be strong, especially on the exposed side of the rock formations. The boulder terrain creates confined passages in places — maintain good buoyancy and avoid entering tight spaces without appropriate training. Intermediate certification recommended.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/cabo-san-lucas-diving). Last updated 2026-06-14.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [Cabo San Lucas Tours](https://www.cabosanlucastours.net/Dive-Sites.htm), [Bluewater Dive Travel](https://www.bluewaterdivetravel.com/destination/cabo-san-lucas-diving). Re-audited 2026-08-11 — nurse sharks and guitarfish re-confirmed against Cabo San Lucas Tours; no factual changes required. Last updated 2026-08-11.*

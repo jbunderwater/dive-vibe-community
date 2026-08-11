@@ -39,4 +39,4 @@ Start on the reef system, cross the sandy channel between sections, and explore 
 Calm, shallow site suitable for all levels. Mild current possible. The dual reef structure provides natural shelter.
 
 ---
-*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos). Last updated 2026-06-14.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [East Cape Explorers](https://www.eastcapeexplorers.com/dive-sites/), [Cabo Private Guide](https://www.caboprivateguide.com/blog/the-dive-sites-of-los-cabos). Re-audited 2026-08-11 — East Cape Explorers and Cabo Private Guide content re-confirmed directly; no factual changes required. Last updated 2026-08-11.*
