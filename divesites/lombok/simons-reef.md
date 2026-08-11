@@ -60,4 +60,4 @@ Channelling currents between the mounds can be strong and unpredictable. Know yo
 Massive gorgonian fans are the feature subject — wide-angle captures their scale. Pygmy seahorses require macro lens and skilled guide. Schooling fish in the currents suit wide-angle.
 
 ---
-*Sources: [Manta Dive Gili Air – Simon's Reef](https://manta-dive-giliair.com/gili-islands-dive-sites/simons-reef-advanced-and-above), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Simon's Reef](https://manta-dive-giliair.com/gili-islands-dive-sites/simons-reef-advanced-and-above), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-08-11. Re-audited 2026-08-11: Gili Divers reconfirms canyon terrain, gorgonian fans, and pygmy seahorses; no corrections required.*

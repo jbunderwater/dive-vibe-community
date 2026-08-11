@@ -32,7 +32,7 @@ Halik Reef runs approximately 1 km along the north to northwest side of Gili Tra
 
 ## Marine Life
 
-Eagle rays in mid-water are a regular and distinctive sighting. White and blacktip reef sharks on the outer reef. Schools of giant trevally hunting in the current. Large anemone fields with clownfish. Schools of snapper and fusiliers. Turtles throughout the reef. Lionfish in overhangs. Giant barrel sponges at 6–10 m. Bumphead parrotfish schooling in large numbers during full moons (seasonal, conditional sighting).
+Eagle rays in mid-water are a regular and distinctive sighting. White and blacktip reef sharks on the outer reef. Schools of giant trevally hunting in the current. Large anemone fields with clownfish. Schools of snapper and fusiliers. Turtles throughout the reef. Lionfish in overhangs. Giant barrel sponges at 6–10 m. Bumphead parrotfish schooling in large numbers during full moons (seasonal, conditional sighting). Octopus, cuttlefish, ribbon eels, and stingrays confirmed by Gili Divers.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Drift current is always running. Do not fight against it. Be prepared to surface
 Giant barrel sponges make distinctive wide-angle subjects. Eagle rays in open water suit wide-angle with fast shutter. Clownfish in large colourful anemones suit close-focus wide-angle compositions. Bumphead parrotfish schools on full moon dives require wide-angle and fast shutter.
 
 ---
-*Sources: [Manta Dive Gili Air – Halik](https://manta-dive-giliair.com/gili-islands-dive-sites/halik-all-levels), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Dive Central Gili – Halik](https://www.divecentralgili.com/blog/diveingilitrawangan). Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Halik](https://manta-dive-giliair.com/gili-islands-dive-sites/halik-all-levels), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Dive Central Gili – Halik](https://www.divecentralgili.com/blog/diveingilitrawangan), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites). Last updated 2026-08-11.*

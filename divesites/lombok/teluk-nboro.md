@@ -2,10 +2,10 @@
 name: Teluk NBoro
 lat: -8.4042153
 lng: 116.0591248
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 2395670513
 addedBy: osm_import
@@ -13,36 +13,38 @@ addedBy: osm_import
 
 ## Teluk NBoro
 
-A bay dive on Lombok's northwest coast — likely the Teluk Nara/Naro muck dive area known for seahorses, ghost pipefish, and macro life.
+Teluk Nara, marketed as "Magic Pier" — the Gili Islands area's best-known muck dive, a silty small-boat harbor on Lombok's west coast known for rare cephalopods and cryptic macro life.
 
 ## Overview
 
-Teluk NBoro is listed in OSM data sourced from a local Diveschool Notice Board. The coordinate (latitude -8.4042, longitude 116.0591) places this south of the Gili Islands on Lombok's northwest coast, consistent with the Teluk Nara / Teluk Naro bay area near the Gili Islands ferry jetty. "NBoro" may be a spelling variant of "Naro" or "Nara." Teluk Nara is documented as a muck dive site on the west side of Lombok — also called "Magic Pier" — known for seahorses, ghost pipefish, nudibranchs, octopus, and cuttlefish. Visibility can be lower than the Gili Islands due to the bay conditions. No dive operator lists a site specifically named "Teluk NBoro."
-
-No site-specific sources were found using the name "Teluk NBoro." The description below reflects general knowledge of the Teluk Nara area.
+Teluk NBoro is listed in OSM data sourced from a local Diveschool Notice Board. The coordinate (latitude -8.4042, longitude 116.0591) places this south of the Gili Islands on Lombok's northwest coast, consistent with the Teluk Nara bay area near the Gili Islands ferry crossing. "NBoro" appears to be a spelling variant of "Nara." Three independent operator sources (Manta Dive Gili Air, Dive Central Gili, and The Lombok Guide), re-checked directly on 2026-08-11, consistently describe the same site under the names Teluk Nara and Magic Pier: a small boat harbor roughly 20–25 minutes by boat from the Gili Islands, with a soft, silty sea floor beneath a pier structure. Chains hanging from the pier down to about 18 m are colonised by sponges and sea fans and have become a magnet for cryptic macro life.
 
 ## Site Information
 
-- **Location**: Teluk Nara/Naro bay, northwest Lombok coast
+- **Location**: Teluk Nara, small boat harbor, northwest Lombok coast
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10–18 m (can be lower in the bay)
-- **Current**: Generally mild inside the bay
+- **Site Type**: Muck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 10–18 m (can be lower due to silty conditions)
+- **Current**: Generally mild inside the harbor
 - **Best Time**: May to October
 
 ## Marine Life
 
-Regional Coral Triangle species diversity applies; no site-specific marine life reports were found for independent verification of a site named "Teluk NBoro." The Teluk Nara area generally features seahorses, ghost pipefish, nudibranchs, octopus, and cuttlefish based on regional muck diving documentation for the nearby bay.
+Rare mimic octopus, coconut octopus, and the elusive blue-ringed octopus are the site's signature attraction, confirmed across all three sources. Painted frogfish, scorpionfish, rare nudibranchs, and scrawled filefish shelter on the pier's chains. Orange-striped pipefish, decorator crabs, and mantis shrimp on the silty bottom. Juvenile angelfish and batfish, along with ribbon eels, also confirmed.
 
 ## Dive Profile
 
-Descend to the sandy slope and move slowly searching the substrate for critters. Focus on rubble patches, sparse coral fragments, and algae growth. Extended dive time typically available at these depths.
+Descend along the pier's mooring chains to the silty bottom at up to 18 m. Move slowly and methodically across the silt, searching chains and rubble for cryptic critters rather than covering distance. Buoyancy control is critical — stirred silt collapses visibility quickly.
 
 ## Entry and Exit
 
-Boat from Gili Islands or Lombok northwest coast. Short transit. Entry via back roll. Generally calm conditions in the bay.
+Boat from Gili Trawangan or Gili Air, roughly 20–25 minutes. Entry via back roll near the pier structure. Calm harbor conditions but frequently poor visibility.
+
+## Safety Considerations
+
+This is explicitly described by operators as a challenging, advanced-only site due to the soft silty floor and buoyancy demands — not recommended for beginners. Do not touch or handle the blue-ringed octopus if encountered; it is highly venomous.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found for this exact site name. Last updated 2026-06-14.*
+*Sources: [Manta Dive Gili Air – Magic Pier](https://manta-dive-giliair.com/gili-islands-dive-sites/magic-pier-advanced), [Dive Central Gili – Muck Diving](https://www.divecentralgili.com/muck-diving), [The Lombok Guide – Muck Diving Teluk Nara](https://thelombokguide.com/muck-diving-teluk-nara/). Last updated 2026-08-11.*

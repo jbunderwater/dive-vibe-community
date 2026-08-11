@@ -58,4 +58,4 @@ Currents are generally mild but can increase at depth on the outer slope. Mainta
 Turtles in the shallow reef with natural light. Blue-striped snapper schools. The gentle slope gradient allows careful composition without fighting current.
 
 ---
-*Sources: [Terumbu Divers – Gili Dive Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-06-14.*
+*Sources: [Terumbu Divers – Gili Dive Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html). Last updated 2026-08-11. Re-audited 2026-08-11: Gili Divers' "Meno Slope" listing reconfirms turtles, blue-striped snappers, reef sharks, and vibrant corals; no corrections required.*

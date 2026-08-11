@@ -17,7 +17,7 @@ The northwest tip of Gili Trawangan — blacktip and whitetip reef sharks, an in
 
 ## Overview
 
-Shark Point is on the northwest or west side of Gili Trawangan, where a coral reef plateau at 10 m slopes to 18 m and gives way to rolling valleys running parallel to the shoreline that extend to 30 m and beyond. Blacktip and whitetip reef sharks cruise the deeper sections, while the shallower zone supports large numbers of green turtles. The Glenn Nusa, a 29 m tugboat intentionally sunk in February 2016 with big openings to allow penetration diving, lies upright on the sandy bottom between Halik and Shark Point at a maximum depth of 28 m, with the ship's chimney top at 21 m. The wreck has become home to batfish, snapper schools, blue-spotted stingrays, pipefish, leaf scorpionfish, nudibranchs, and whitetip reef sharks. Accessible as a day trip from Lombok, Shark Point is one of the premier dives in the Gili Islands area.
+Shark Point is on the northwest or west side of Gili Trawangan, where a coral reef plateau at 10 m slopes to 18 m and gives way to rolling valleys running parallel to the shoreline that extend to 30 m and beyond. Blacktip and whitetip reef sharks cruise the deeper sections, while the shallower zone supports large numbers of green turtles. The Glenn Nusa, a tugboat towed from Bali and intentionally scuttled on 23 February 2016 with holes cut into the hull to allow penetration diving, lies upright on the sandy bottom between Halik and Shark Point. Three independent sources (Manta Dive Gili Air, Dive Central Gili, Gili Air Divers) consistently give the vessel's length as 22 m; a widely-quoted "29 m" figure attributed to Dive Central Gili in earlier write-ups does not appear on that operator's actual page and has been corrected. The main deck sits at approximately 22 m, with the seafloor at 28–30 m; the tugboat's funnel rises slightly shallower, close to 21 m. The wreck has become home to batfish, snapper schools, blue-spotted stingrays, pipefish, leaf scorpionfish, nudibranchs, and a resident whitetip reef shark. Accessible as a day trip from Lombok, Shark Point is one of the premier dives in the Gili Islands area.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Shark Point is on the northwest or west side of Gili Trawangan, where a coral re
 
 ## Marine Life
 
-Blacktip and whitetip reef sharks in the deeper valley sections. Green turtles in large numbers on the shallow reef plateau at 10–18 m. The Glenn Nusa tugboat wreck hosts batfish, snapper schools, whitetip reef sharks, blue-spotted stingrays, pipefish, leaf scorpionfish, and nudibranchs. Humpback snapper, trevally, barracuda, anemone fish, ribbon eels, octopus, scorpionfish, and sea fans on the broader reef.
+Blacktip and whitetip reef sharks in the deeper valley sections. Green turtles in large numbers on the shallow reef plateau at 10–18 m. The Glenn Nusa tugboat wreck hosts a resident whitetip reef shark, schools of batfish and snappers (including black snappers and oriental sweetlips), unicornfish, trevally, blue-spotted stingrays, pipefish, leaf scorpionfish, and nudibranchs. Humpback snapper, barracuda, anemone fish, ribbon eels, octopus, scorpionfish, and sea fans on the broader reef.
 
 ## Dive Profile
 
@@ -44,7 +44,7 @@ Boat from Lombok or Gili Trawangan. Conditions variable — site is susceptible 
 
 ## Tips and Recommendations
 
-- The Glenn Nusa wreck was intentionally sunk in February 2016 specifically to create an artificial reef — ask your operator about current conditions before attempting it
+- The Glenn Nusa wreck was intentionally scuttled in February 2016 specifically to create an artificial reef — ask your operator about current conditions before attempting it
 - Penetration of the wreck requires wreck diving training and equipment
 - The shallow 10–18 m turtle zone is an outstanding experience accessible to intermediate divers
 - Intermediate divers should focus on the shallow plateau sections; advanced divers can explore the valley and wreck systems
@@ -59,4 +59,4 @@ The site is susceptible to strong current and waves. Do not attempt the Glenn Nu
 Reef sharks at rest on the valley slopes. Turtles in the shallow plateau with natural light. The Glenn Nusa wreck suits wide-angle with strobes to capture the tugboat structure with marine life.
 
 ---
-*Sources: [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Terumbu Divers – Shark Point & Glenn Nusa](https://terumbudivers.com/sharks-lombok-gili-islands-diving/), [Dive Central Gili – Glenn Nusa](https://www.divecentralgili.com/blog/2822016). Last updated 2026-06-14.*
+*Sources: [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Terumbu Divers – Shark Point & Glenn Nusa](https://terumbudivers.com/sharks-lombok-gili-islands-diving/), [Dive Central Gili – Glenn Nusa](https://www.divecentralgili.com/blog/2822016), [Manta Dive Gili Air – Glenn Nusa Wreck](https://manta-dive-giliair.com/gili-islands-dive-sites/glenn-nusa-wreck), [Gili Air Divers – Glenn Nusa](https://www.giliairdivers.com/es/dive-sites/glenn-nusa/). Last updated 2026-08-11. Note: The Glenn Nusa's length is corrected to 22 m per three independently re-fetched operator pages; an earlier "29 m" figure did not hold up on re-audit.*

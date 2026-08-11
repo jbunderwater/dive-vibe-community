@@ -17,9 +17,9 @@ The shallower version of the Turbo dive area northeast of Gili Trawangan — a b
 
 ## Overview
 
-Shallow Turbo is the shallower section of the Turbo dive system northeast of Gili Trawangan, providing an introduction to this area for newly certified Open Water divers. The shallow depth profile (6–18 m) allows extended bottom time and a relaxed diving pace. The site name appears in OSM data sourced from a local Diveschool Notice Board and is listed by some local operators as a distinct beginner site from the deeper Deep Turbo. However, this site is not listed as a named site by most major operator dive site pages, which typically list only "Turbo" and "Deep Turbo" as distinct sites in this area.
+Shallow Turbo is the shallower section of the Turbo dive system northeast of Gili Trawangan, providing an introduction to this area for newly certified Open Water divers. It sits on a sandy bottom with coral heads and is the shallow end of the Deep Turbo dive site, running to about 18 m. The shallow depth profile allows extended bottom time and a relaxed diving pace.
 
-Turtles, snapper schools, and clownfish in anemones are typical of this reef section based on the broader Turbo dive area character.
+**Correction (2026-08-11 re-audit):** An earlier version of this page stated "no site-specific marine life reports were found" for Shallow Turbo, which directly contradicted the site's own validation notes recording a confirmed species list from Trawangan Stingray Divers. Re-fetching that operator's page directly resolved the contradiction — see Marine Life below.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ Turtles, snapper schools, and clownfish in anemones are typical of this reef sec
 
 ## Marine Life
 
-Regional Coral Triangle species diversity applies; no site-specific marine life reports were found for independent verification of Shallow Turbo as a distinct named site. The Turbo area generally features turtles on the upper reef, reef sharks occasionally on the outer sections, snapper and fusilier schools, and clownfish in anemones based on Deep Turbo and related site descriptions.
+Confirmed by Trawangan Stingray Divers' dedicated Shallow Turbo page: pufferfish, batfish, sea turtles, garden eels, ghost pipefish, and unicornfish on the sandy bottom and coral heads.
 
 ## Dive Profile
 
@@ -49,4 +49,4 @@ Boat from Lombok or Gili Islands operators. Gentle drift. SMB essential for drif
 Even gentle drift requires SMB carry and drift pickup procedure. Do not swim upstream against the current. Always dive with a buddy.
 
 ---
-*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Dive Central Gili](https://www.divecentralgili.com/sites-best-places-to-go-underwater-location-trawangan-meno-air). Last updated 2026-06-14.*
+*Sources: [Trawangan Dive – Gili Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/), [Gili Divers – Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [Dive Central Gili](https://www.divecentralgili.com/sites-best-places-to-go-underwater-location-trawangan-meno-air), [Trawangan Stingray Divers – Shallow Turbo](https://www.trawanganstingraydivers.com/dive-site/dive-site-gili-trawangan/shallow-turbo/). Last updated 2026-08-11.*

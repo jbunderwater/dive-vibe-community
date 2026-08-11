@@ -34,7 +34,7 @@ Frog Fish Point (also listed by some sources as the Gili Air Harbour area or Han
 
 ## Marine Life
 
-Frogfish on the coral block. Ghost pipefish among sparse coral and algae. Scorpionfish in rubble and on the coral block surface. Shrimps and nudibranchs throughout. Blue-spotted stingrays on the sandy areas. Seahorses may be present (the harbour area of Gili Air is noted for seahorse sightings by regional sources).
+Frogfish on the coral block. Ghost pipefish among sparse coral and algae. Scorpionfish in rubble and on the coral block surface. Black-spotted moray eels confirmed by Diversion Dive Travel. Shrimps and nudibranchs throughout. Blue-spotted stingrays on the sandy areas. Seahorses may be present (the harbour area of Gili Air is noted for seahorse sightings by regional sources).
 
 Regional Coral Triangle species diversity applies to the broader marine community. Site-specific species lists beyond the critter highlights above are not independently confirmed.
 
@@ -62,4 +62,4 @@ Maintain positive buoyancy above the sand at all times — stonefish and scorpio
 Frogfish in their full cryptic context. Ghost pipefish suit 100 mm macro lens. Nudibranchs reward macro with diopter for detail. Scorpionfish portraits on the coral block surface.
 
 ---
-*Sources: [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html), [Diversion Dive Travel – Frogfish Point](https://www.diversiondivetravel.com.au/g708/diving_frogfish_point.html), [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites). Last updated 2026-06-14.*
+*Sources: [Starfish.ch – Lombok Dive Guide](https://www.starfish.ch/dive/Lombok.html), [Diversion Dive Travel – Frogfish Point](https://www.diversiondivetravel.com.au/g708/diving_frogfish_point.html), [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites). Last updated 2026-08-11.*
