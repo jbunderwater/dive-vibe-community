@@ -17,7 +17,7 @@ The Rannamaari is a former sand-dredger deliberately sunk on 25 April 1999 at An
 
 ### Background
 
-In 1999, the management of Ihuru Resort towed the Rannamaari — then an obsolete dredging vessel used in Male — to a site ten metres off the island's house reef. The dredger was scheduled to be sunk on 27 April 1999 but sank unexpectedly on the evening of the 25th while still moored, watched by startled resort guests. It has been diving the 26-metre seabed since. The wreck is now approximately 25 years old and has developed into a mature artificial reef.
+In 1999, the management of Ihuru Resort towed the Rannamaari — then an obsolete dredging vessel used in Male — to a site ten metres off the island's house reef. Before sinking, the engine, batteries, and other toxic materials were removed from the vessel. The dredger was scheduled to be sunk on 27 April 1999 but sank unexpectedly on the evening of the 25th while still moored, watched by startled resort guests. It has been resting on the 26-metre seabed since. The wreck is now approximately 25 years old and has developed into a mature artificial reef. The name "Rannamaari" is also that of an alleged sea monster in Maldivian folklore, a detail resort operators reference when marketing the site.
 
 ### Site Conditions
 
@@ -35,4 +35,4 @@ The upper sections of the wreck are within easy recreational depth. The hull hos
 The relatively shallow maximum depth (26 m) allows comfortable bottom times. The wreck lies close to the Ihuru house reef, making a combined wreck-plus-reef dive possible. Penetration of interior spaces requires proper training and lighting — do not enter confined spaces without wreck diving certification.
 
 ---
-*Sources: [PADI Pros Blog Rannamaari](https://pros-blog.padi.com/the-mystery-of-the-rannamaari-wreck-a-maldivian-legend/), [Visit Maldives Shipwrecks](https://visitmaldives.com/en/experience/shipwrecks-and-sunken-treasures), [Dhawa Ihuru Rannamaari](https://www.dhawa.com/maldives/dhawa-ihuru/experiences/rannamaari-shipwreck). Last updated 2026-06-15.*
+*Sources: [PADI Pros Blog Rannamaari](https://pros-blog.padi.com/the-mystery-of-the-rannamaari-wreck-a-maldivian-legend/), [Visit Maldives Shipwrecks](https://visitmaldives.com/en/experience/shipwrecks-and-sunken-treasures), [Dhawa Ihuru Rannamaari](https://www.dhawa.com/maldives/dhawa-ihuru/experiences/rannamaari-shipwreck), [Maldives Insider](https://maldives.net.mv/31371/angsana-ihuru-celebrates-rannamaari-wreck-anniversary-with-holiday-giveaway/). Re-audited 2026-08-11: all facts reconfirmed unchanged. Last updated 2026-08-11.*

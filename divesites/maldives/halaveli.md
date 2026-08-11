@@ -45,4 +45,4 @@ Moray eels, turtles, mackerel, grouper, barracuda (especially at night), reef fi
 The shallow deck at 21 m allows comfortable bottom time. A torch is useful for illuminating the interior. The wreck sits 20 m from the reef, so finishing the dive on the adjacent reef is a natural extension. Penetration into the vessel requires appropriate wreck diving training.
 
 ---
-*Sources: [Duikersgids Halaveli Wreck](https://www.duikersgids.nl/en/halaveli-wreck), [Werner Lau Diving Centers](https://www.wernerlau.com/en/diving-maldives/bathala-en/blog/halaveli-wreck/), [Divescover Halaveli Wreck](https://divescover.com/dive-site/halaveli-wreck/24335). Last updated 2026-06-15.*
+*Sources: [Duikersgids Halaveli Wreck](https://www.duikersgids.nl/en/halaveli-wreck), [Werner Lau Diving Centers](https://www.wernerlau.com/en/diving-maldives/bathala-en/blog/halaveli-wreck/), [Divescover Halaveli Wreck](https://divescover.com/dive-site/halaveli-wreck/24335). Re-audited 2026-08-11: sources re-checked, all facts (40 m/"Highly 18" cargo vessel, 1991 sinking, deck 21 m, seabed 28 m) confirmed unchanged. Last updated 2026-08-11.*

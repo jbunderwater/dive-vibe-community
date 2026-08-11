@@ -38,4 +38,4 @@ Whitetip reef sharks confirmed at this site (Diverland Embudu operator). Stingra
 This site is well-suited as a morning dive before the stronger tidal currents build at the nearby channel. The outer slope receives the most current, while the reef crest and inner slope offer sheltered alternatives if conditions are active. Combining with Embudu Kandu is a popular two-tank programme offered by local operators.
 
 ---
-*Sources: [Diverland Embudu Dive Sites](https://www.diverland.com/en/tauchplaetzeemudu). No additional site-specific independent sources found. Last updated 2026-06-15.*
+*Sources: [Diverland Embudu Dive Sites](https://www.diverland.com/en/tauchplaetzeemudu). Re-audited 2026-08-11: a further search for independent coverage of "Embudu Finolhu Outside" specifically returned only results for the separate Embudu Express/Kandu channel sites and Embudu house reef — no second independent source naming this outer-reef site specifically was found. Still only 1 of the 3 required independent sources; left unvalidated pending further research. Last updated 2026-08-11.*

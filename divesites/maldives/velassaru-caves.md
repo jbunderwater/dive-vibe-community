@@ -3,7 +3,7 @@ name: Velassaru Caves
 lat: 4.125016
 lng: 73.433551
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: cave
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Velassaru Caves
 
-Velassaru Caves is a cave and overhang dive site located near Velassaru island in North Male Atoll, offering a shallower cave system than some of the more notorious deep cave sites in the Maldives. The site's modest maximum depth of 20 metres makes the cavern zone accessible to advanced open-water divers and provides an exceptional photographic experience.
+Velassaru Caves lies on the outer reef at the northern tip of South Male Atoll (not North Male, despite the name's association with Velassaru island) — a series of overhangs and a cavern-like cut in the reef rather than a true penetrable cave system.
 
 ### Site Conditions
 
-- **Depth range**: 5–20 m
-- **Typical visibility**: 15–25 m outside; variable inside
-- **Currents**: Generally mild; periodic surge at cave entrances
-- **Best season**: November–April for optimal outside conditions
+- **Depth range**: 10–30 m (one source cites a maximum of 35 m)
+- **Typical visibility**: 15–25 m
+- **Currents**: Generally light
+- **Best season**: November–April
 
 ### What to Expect
 
-The cave system features multiple chamber entrances that allow divers to enter the reef structure, navigate through areas of filtered and ambient light, and exit on a different section of the reef face. The cave walls and ceilings are encrusted with colourful sponges, cup corals, and feather stars that require artificial light to fully appreciate. Large glassfish schools fill the entrance chambers, creating dramatic backlighting effects. Nurse sharks and large moray eels are resident within the caves, and the outer reef wall immediately beyond the entrances hosts grey reef sharks, Napoleon wrasse, and hawksbill turtles. The shallow maximum depth of the cavern section makes gas management very comfortable.
+Despite the name, sources describe this as an overhead/cavern-style swim-through cut into the coral and limestone on a sloping reef, rather than a dark, deep cave requiring specialist cave training — it sits closer to the "cavern" end of the overhead-environment spectrum. A group of overhangs and small caves along the wall between roughly 15 and 30 metres is a regular resting spot for stingrays. The site sits on sloping reef that drops away into deeper sand and scattered coral bommies beyond the cavern zone.
 
 ### Tips for Divers
 
-Despite the shallow maximum depth, a torch is essential for appreciating the full colour range of the cave biology, much of which is hidden in shadow. Divers should move through caves in single file to minimise silt disturbance and ensure the group can navigate back through the same passage if needed. The site's proximity to Vaadho Caves makes it an ideal pairing for a morning of cave diving in North Male Atoll.
+A torch is useful for picking out resting stingrays and colour in the shaded overhangs, even though ambient light reaches most of the cavern zone. Because this is a cavern/overhang feature rather than a true cave, it is accessible to divers without full cave certification, but overhead-environment awareness and buoyancy control remain important. No site-specific source confirms sharks, turtles, or other marine life beyond the resting stingrays noted above — regional South Male Atoll species (reef sharks, moray eels, Napoleon wrasse) may be present but are not independently confirmed at this specific site.
 
 ---
-*Description based on regional Maldives diving characteristics. No site-specific sources found for this site. Last updated 2026-06-15.*
+*Sources: [Divescover — Velassaru Caves](https://divescover.com/dive-site/velassaru-caves/40416), [The Maldives Expert — Velassaru Caves](https://themaldivesexpert.com/tag/velassaru-caves/), [Scuba Spot Advisor — Velassaru Cave](https://www.scubaspotadvisor.com/en/diving-spots/maldives/maritime-zone/velassaru-cave-1498). Corrected atoll from North Male to South Male Atoll based on source consensus. Last updated 2026-08-11.*
