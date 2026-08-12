@@ -21,7 +21,7 @@ Corbeteña is a deepwater seamount / pinnacle rising from the ocean floor, with 
 
 ## Marine Life
 
-Giant manta rays are the headline attraction, with peak activity during summer and fall. Nurse sharks rest in the caves and crevices of the wall structure. Reef sharks patrol the open water around the seamount. Large schools of jacks and trevally circulate the structure. Sea turtles, sailfish, marlin, wahoo, and dolphins are reported on the surface and at depth. The walls support barnacle and filter feeder communities with microscopic life concentrations that draw the larger pelagics.
+Giant manta rays are the headline attraction, with peak activity during summer and fall. Nurse sharks rest in the caves and crevices of the wall structure, and reef sharks patrol the open water around the seamount. Large schools of jacks circulate the structure. Sea turtles, marlin, and dolphins are also reported at the site. The walls support barnacle and filter feeder communities with microscopic life concentrations that draw the larger pelagics. Earlier text also listed sailfish and wahoo for this site; neither species is named for El Bajo de Corbeteña in any of the four sources re-checked, so they have been removed as unconfirmed.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Summer and fall for manta ray encounters and peak visibility. Conditions are var
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-08-12
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Mexico Greatest Dive Sites – La Corbeteña](https://mexico.greatestdivesites.com/puerto_vallarta/corbetena), [Sayulita Entourage – Scuba Diving in La Corbeteña](https://www.sayulitaentourage.com/services/dive-trips/certified-divers/scuba-diving-in-la-corbete%C3%B1a), [Vallarta Under Sea – La Corbeteña](https://www.vallartaundersea.com/la_corbetena.htm). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Sayulita Entourage – Scuba Diving in La Corbeteña](https://www.sayulitaentourage.com/services/dive-trips/certified-divers/scuba-diving-in-la-corbete%C3%B1a), [Vallarta Under Sea – La Corbeteña](https://www.vallartaundersea.com/la_corbetena.htm). Re-audited 2026-08-12: re-pulled Banderas Scuba Republic, Sayulita Entourage, and Vallarta Under Sea; removed sailfish and wahoo as unconfirmed by any source; confirmed reef sharks, marlin, and dolphins via Sayulita Entourage. Mexico Greatest Dive Sites (mexico.greatestdivesites.com) returned a 503 error on repeated attempts and was dropped as a live source. Last updated 2026-08-12.*
