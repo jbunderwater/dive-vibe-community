@@ -11,8 +11,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "mauritiusnow.com, diveseaurchin.com, mybasedivingmauritius.com, mauritiusexplored.com",
-      "last_qa_date": "2026-06-16"
+      "validation_source": "mauritiusnow.com, diveseaurchin.com, mybasedivingmauritius.com, mauritiusexplored.com, sundiversmauritius.com",
+      "last_qa_date": "2026-08-12"
     }
   },
   {
@@ -28,7 +28,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "divespiritmauritius.com, thediveglobe.com, dododivers.com, tropicalwarehouse.co.uk",
-      "last_qa_date": "2026-06-16"
+      "validation_note": "Re-audited 2026-08-12: depth range and swim-through/stonefish claims reconfirmed. Hammerhead/swordfish sightings appear only in generic aggregator listicles (not the dive-shop sources above), so kept flagged as unconfirmed rather than promoted to fact.",
+      "last_qa_date": "2026-08-12"
     }
   },
   {
@@ -43,8 +44,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "prodivemauritius.com, snorkeling-report.com, mybasedivingmauritius.com",
-      "last_qa_date": "2026-06-16"
+      "validation_source": "prodivemauritius.com, snorkeling-report.com, mybasedivingmauritius.com, padi.com",
+      "last_qa_date": "2026-08-12"
     }
   },
   {
@@ -59,8 +60,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "wikipedia.org, rsis.ramsar.org, snorkeling-report.com, mauritiusnow.com",
-      "last_qa_date": "2026-06-16"
+      "validation_source": "wikipedia.org, rsis.ramsar.org, snorkeling-report.com, mauritiusnow.com, tripadvisor.com",
+      "validation_note": "Re-audited 2026-08-12: park facts (hectares, designation dates, coral/fish species counts) reconfirmed. Added note on 2026 visitor reports of localized coral damage in near-shore sections.",
+      "last_qa_date": "2026-08-12"
     }
   },
   {
@@ -75,8 +77,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "prodivemauritius.com, dansa.org, thediveglobe.com, divespiritmauritius.com, mauritiusattractions.com",
-      "last_qa_date": "2026-06-16"
+      "validation_source": "prodivemauritius.com, dansa.org, thediveglobe.com, divespiritmauritius.com, mauritiusattractions.com, blog.padi.com, en.wikipedia.org",
+      "validation_note": "Re-audited 2026-08-12 with wreck deep-research (cross-check requirement): sinking (1987, Mauritius Conservation Society) confirmed across 5+ independent sources. Vessel length conflicts across sources (42m/44m/52m) -- widened range reported in markdown rather than picking one figure. Cyclone that righted the wreck identified specifically as Cyclone Dina (Jan 2002), corroborated by Wikipedia's cyclone record plus 2 dive-specific sources. No tonnage or build date found anywhere; not stated.",
+      "last_qa_date": "2026-08-12"
     }
   },
   {
@@ -91,8 +94,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "padi.com, scubaworld-mauritius.com, mauritiusexplored.com",
-      "last_qa_date": "2026-06-16"
+      "validation_source": "padi.com, scubaworld-mauritius.com, mauritiusexplored.com, divebooker.com",
+      "last_qa_date": "2026-08-12"
     }
   },
   {
@@ -107,9 +110,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
-      "validation_note": "No source uses the name 'Flic en Flac Pass' as a named dive site. Local dive operators list Cathedral, Rempart Serpent, Aquarium, Big Rock, Canyon for this area. This may be a fabricated or conflated site name. Only 1-2 aggregate databases (padi.com region page, scubasnap.app) reference it, not local operators.",
+      "validation_note": "No source uses the name 'Flic en Flac Pass' as a named dive site. Local dive operators list Cathedral, Little Swiss, Rempart Serpent, Aquarium, Big Rock, Canyon for this area. This may be a fabricated or conflated site name. Only 1-2 aggregate databases (padi.com region page, scubasnap.app) reference it, not local operators. Re-checked 2026-08-12 with a fresh search -- same conclusion, still unresolved.",
       "validation_source": "padi.com, scubasnap.app",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-12"
     }
   },
   {
@@ -124,8 +127,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "mybasedivingmauritius.com, lonelyplanet.com, mauritiusexplored.com, diveboard.com, diveseaurchin.com",
-      "last_qa_date": "2026-06-16"
+      "validation_source": "mybasedivingmauritius.com, lonelyplanet.com, mauritiusexplored.com, diveboard.com, diveseaurchin.com, divebooker.com",
+      "last_qa_date": "2026-08-12"
     }
   },
   {
@@ -141,7 +144,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "wannadive.net, holidify.com, tropicalwarehouse.co.uk, africatouroperators.org",
-      "last_qa_date": "2026-06-16"
+      "validation_note": "Re-audited 2026-08-12 with wreck deep-research (cross-check requirement): 2003 scuttling date reconfirmed directly against africatouroperators.org and consistent with prior sources. Organisations involved (Mauritius Marine Conservation Society / Mauritius Scuba Diving Association / Mauritius Oceanographic Institute) could not be independently re-confirmed this pass and are now flagged as unconfirmed in the markdown rather than stated as fact. IMPORTANT: vessel specs (314 gross tons, built 1979, ex-Fukuichi Maru No. 86) found in shipping databases belong to a sister vessel 'Hoi Siong No. 5', NOT this wreck (No. 6) -- explicitly excluded to avoid cross-vessel conflation. No verified length/tonnage/build date exists for Hoi Siong No. 6 itself.",
+      "last_qa_date": "2026-08-12"
     }
   }
 ]

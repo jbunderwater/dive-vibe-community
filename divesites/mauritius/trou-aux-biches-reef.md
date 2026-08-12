@@ -28,4 +28,4 @@ Trou aux Biches on Mauritius' northern coast is one of the island's main diving 
 - **Maximum Depth**: 12 meters
 
 ---
-*Sources: [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [Snorkeling Report - Trou-aux-Biches](https://www.snorkeling-report.com/spot/snorkeling-trou-aux-biches/), [My Base Diving Mauritius - Explore the Underworld](https://mybasedivingmauritius.com/explore-the-underworld/). Last updated 2026-06-16.*
+*Sources: [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [Snorkeling Report - Trou-aux-Biches](https://www.snorkeling-report.com/spot/snorkeling-trou-aux-biches/), [My Base Diving Mauritius - Explore the Underworld](https://mybasedivingmauritius.com/explore-the-underworld/), [PADI - Diving in Trou aux Biches & Grand Baie](https://www.padi.com/diving-in/republic-of-mauritius/trou-aux-biches-grand-baie/). Re-audited 2026-08-12, all facts reconfirmed against current source content. Last updated 2026-08-12.*
