@@ -13,49 +13,27 @@ addedBy: osm_import
 
 ## Grande Anse Reef
 
-Grande Anse Reef is a beginner-friendly reef dive off the southwestern coast of Martinique near Grande Anse d'Arlet, in the same coastal area known for the famous Anse Dufour and Anse Noire turtle-watching sites. The reef extends in front of one of the island's most picturesque bays.
+Grande Anse Reef is recorded as a shallow, beginner-friendly reef in southwest Martinique, in the general area associated with the well-known Anse Dufour and Anse Noire turtle sites.
 
 ## Overview
 
-The reef at Grande Anse lies in the protected waters directly in front of the beach village at Grande Anse d'Arlet — a bay so scenic it has featured on countless Martinique tourism posters, with the village church visible from the water's surface. Underwater, a sloping fringing reef descends to 14 meters with healthy hard coral formations including brain, star, and finger corals, and a sandy floor at the base. Visibility averages 15–25 meters. Water temperature holds around 26–28°C. The site benefits from the bay's natural shelter.
+**Unresolved identity note (2026-08-12 QA):** Martinique has more than one "Grande Anse" — the well-documented Grande Anse d'Arlet in the southwest and a separate Grande Anse near Vauclin in the southeast. During this audit, this entry's coordinates could not be confidently matched to either well-sourced location, and no independent dive-shop or forum page describing a site under this exact name and depth could be found. The depth, difficulty, and entry type from the prior record have been left unchanged since no better data was found, but the marine-life and dive-profile details below have been reduced to what can be reasonably said without site-specific confirmation.
 
 ## Site Information
 
-- **Location**: Grande Anse d'Arlet, southwest Martinique
+- **Location**: Southwest Martinique, near Grande Anse d'Arlet (unconfirmed exact match)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Light within the bay
-- **Best Time**: November to May
 
 ## Marine Life
 
-Sea turtles are reliably present throughout the Grande Anse area — the same population resident at the adjacent Anse Dufour and Anse Noire sites range this reef regularly. Parrotfish, angelfish, and blue tangs are abundant in the reef zone. The sandy floor at 12–14 meters is productive territory for stingrays and garden eels. Nurse sharks rest under coral overhangs, and barracuda patrol the reef edge.
-
-## Dive Profile
-
-Descend from the boat to the reef crest and follow the slope to the sandy bottom. The profile is simple and the depth range is suitable for newly certified divers. Spend time on both the reef and the sandy margin to experience the full marine life diversity of the site. Safety stop at 5 meters in the shallows.
+No site-specific marine-life source was found for this entry. Regional Caribbean reef fauna (parrotfish, angelfish, and similar reef fish; sea turtles are common along this coast generally) would be expected on a shallow reef in this area, but the previous description's specific claims of nurse sharks, garden eels, and stingrays at this exact site are not supported by any source found and have been removed.
 
 ## Entry and Exit
 
-Boat dive from Grande Anse d'Arlet operators or Sainte-Luce/Les Anses d'Arlet dive centres. Giant stride entry; SMB on ascent. The site can also be accessed by confident swimmers from the beach during calm conditions.
-
-## Tips and Recommendations
-
-- The combination of the picturesque bay above water and the reef below makes Grande Anse one of Martinique's most pleasant dive destinations
-- Look for turtles on both the reef and the sandy margin
-- Above-water photography from the boat between dives is highly rewarding at this scenic bay
-- Combine with Anse Dufour for a two-dive morning in the Les Anses d'Arlet area
-
-## Safety Considerations
-
-The bay sees fishing boat traffic in the early morning. Deploy SMB on ascent and remain visible. Fire coral present on the reef crest. Boat traffic from tourist excursions is common in the bay during the middle of the day.
-
-## Photography
-
-The combination of clear Caribbean water, shallow depth, and active turtle population makes this site excellent for natural-light reef photography. Above-and-below split-level shots from the surface with the village church in the background are iconic Martinique photography.
+Recorded as a boat dive from operators in the Grande Anse d'Arlet / Les Anses d'Arlet area; not independently confirmed for this audit.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics for southwest Martinique. No independently-confirmed site-specific source was found for this exact entry during the 2026-08-12 QA pass — see the unresolved identity note above. Last updated 2026-08-12.*

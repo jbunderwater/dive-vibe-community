@@ -3,9 +3,9 @@ name: Cap Enragé
 lat: 14.44
 lng: -61.03
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -29,7 +29,7 @@ The site's topography consists of a series of canyons with caves, natural arches
 
 ## Marine Life
 
-The canyon walls host large feather gorgonians (*gorgones plumeau*). Commonly encountered species include moray eels, angelfish, stonefish camouflaged in the sand, turtles, lobsters, and octopuses. The site is well regarded for underwater photography due to the variety of invertebrates and reef fish.
+The canyon walls host large feather gorgonians (*gorgones plumeau*). Commonly encountered species include moray eels, angelfish, stonefish camouflaged in the sand, turtles, lobsters, and large barracudas (sometimes seen in pairs), plus octopuses. The site is well regarded for underwater photography due to the variety of invertebrates and reef fish.
 
 ## Photography
 
@@ -37,4 +37,4 @@ The gorgonians and canyon light shafts provide excellent wide-angle subjects. St
 
 ---
 
-*Sources: [Coconews Martinique — Cap Enragé dive spots](https://martinique.coconews.com/guide-martinique/sports-nautiques/plongee-sous-marine/nord-caraibes/quelques-spots-de-plongee-du-nord-de-letrsquo-ile-cap-enrage-0-25-metres-tous-niveaux.html), [Tribloo — Cap Enragé dive site](https://tribloo.com/en/dive-sites/76/cap-enrage.html). Last updated 2026-05-17.*
+*Sources: [Coconews Martinique — Cap Enragé dive spots](https://martinique.coconews.com/guide-martinique/sports-nautiques/plongee-sous-marine/nord-caraibes/quelques-spots-de-plongee-du-nord-de-letrsquo-ile-cap-enrage-0-25-metres-tous-niveaux.html), [Tribloo — Cap Enragé dive site](https://tribloo.com/en/dive-sites/76/cap-enrage.html), [Aux Antilles — Plongée Cap Enragé](http://www.aux-antilles.fr/martinique/plongee/plongee-cap-enrage.htm). Site type corrected from reef to wall/canyon to match the drop-off topography these sources describe. Last updated 2026-08-12.*

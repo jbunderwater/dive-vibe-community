@@ -3,7 +3,7 @@ name: Diamond Rock
 lat: 14.445
 lng: -61.04
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 60
 entryType: boat
 siteType: wall
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Diamond Rock
 
-Diamond Rock is a wall dive site in Martinique, Caribbean.
+Diamond Rock (Rocher du Diamant) is the volcanic islet the Royal Navy commissioned as HMS Diamond Rock in 1804, and today it is widely considered Martinique's signature dive: a dozen possible circuits ranging from 0 to 60 metres around a rock riddled with tunnels, arches, and drop-offs.
 
 ## Overview
 
-Diamond Rock — the basalt islet that the Royal Navy famously commissioned as HMS Diamond Rock in 1804 — offers some of Martinique's most dramatic underwater topography, with a wall that plummets to 40 metres, rocky canyons, and a cathedral-shaped crack that pierces the entire island from side to side starting at around 16 metres. Hawksbill turtles congregate at the base of the rock, while gorgonian fans, soft corals, and sponges cover the wall faces alongside moray eels, Spanish mackerel, and abundant crustaceans. Strong and variable currents make this a site for experienced divers, but the clear open-ocean water and sheer scale of the dive make it widely considered the finest site in Martinique.
+The islet sits about 2km off Martinique's southern coast and rises 175m above the water. Underwater, a fault runs completely through the rock — dive shops describe it as an "underwater cathedral" where light beams filter through the fissure. Around it, divers find rocky canyons, large white-sand amphitheatres, and steep drop-offs. Reported marine life includes large schools of big-eye trevally, sea turtles, king mackerel (thazards), and stingrays. Currents are frequent and can be strong, so local operators recommend at least an intermediate/advanced certification.
 
 ## Site Information
 
@@ -25,11 +25,11 @@ Diamond Rock — the basalt islet that the Royal Navy famously commissioned as H
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 60 meters
 
 ## Marine Life
 
-Hawksbill turtles congregate at the base of the rock in notable numbers, while gorgonian fans, soft corals, and sponges on the wall faces host moray eels, Spanish mackerel, and abundant crustaceans. The strong variable currents that make this an advanced dive bring reef sharks, barracuda, and jacks sweeping past the rocky canyons and the cathedral crack that cuts through the entire islet.
+Dive-shop reports for Diamond Rock describe large schools of big-eye trevally (carangues gros yeux), sea turtles, king mackerel (thazards), and stingrays around the rock and its sand amphitheatres. Species mentioned for the separate cave/tunnel circuit at the same islet (see Rocher du Diamant Cave) include hawksbill turtles, moray eels, and crustaceans in the crevices. No source confirms reef sharks, barracuda, or jacks specifically at this site, so those claims from the previous description have been removed.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Alpha Plongée - Sites de plongée](https://alphaplongee.com/category/sites-de-plongee/), [Espace Plongée Martinique - Le Rocher du Diamant](https://www.espaceplongee-martinique.com/post/le-rocher-du-diamant), [Paradis Plongée - Rocher du Diamant](https://paradisplongee.com/sites-de-plongees/autour-du-rocher-du-diamant), [Voyage Martinique - Rocher du Diamant](https://www.voyage-martinique.fr/rocher-du-diamant.html). Last updated 2026-08-12.*
