@@ -3203,7 +3203,7 @@
         "micronesia: group node with no backing data files (isGroup=true); agent correctly no-op'd instead of fabricating data. Consider removing group-only slugs from rotation or redirecting them to their child destinations (chuuk-lagoon, marshall-islands, micronesia-yap, palau, guam).",
         "mexico: group node with no backing data files (isGroup=true); agent worked its child destinations (cabo-pulmo, cozumel, la-paz-sea-of-cortez, los-cabos, puerto-vallarta) instead, touching sites outside today's queue-tracked slugs."
       ],
-      "pr_url": null
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/150"
     }
   ]
 }
