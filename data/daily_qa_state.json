@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "manado-bunaken",
-    "marshall-islands",
-    "martinique",
-    "mauritius",
-    "mexico",
-    "micronesia",
     "micronesia-yap",
     "monterey-bay",
     "mozambique",
@@ -174,7 +168,13 @@
     "guam",
     "halmahera",
     "hawaii",
-    "hawaii-big-island"
+    "hawaii-big-island",
+    "manado-bunaken",
+    "marshall-islands",
+    "martinique",
+    "mauritius",
+    "mexico",
+    "micronesia"
   ],
   "history": [
     {
@@ -3140,6 +3140,70 @@
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/137",
       "errors": []
+    },
+    {
+      "date": "2026-08-12",
+      "slugs": [
+        "manado-bunaken",
+        "marshall-islands",
+        "martinique",
+        "mauritius",
+        "mexico",
+        "micronesia"
+      ],
+      "summary": {
+        "manado-bunaken": {
+          "sites_total": 26,
+          "validated_today": 22,
+          "re_audited": 26,
+          "hallucinations_removed": 6,
+          "unresolved": 4
+        },
+        "marshall-islands": {
+          "sites_total": 38,
+          "validated_today": 3,
+          "re_audited": 38,
+          "hallucinations_removed": 4,
+          "unresolved": 35,
+          "note": "4 sites geographically misfiled in Kosrae, FSM, not Marshall Islands"
+        },
+        "martinique": {
+          "sites_total": 22,
+          "validated_today": 15,
+          "re_audited": 4,
+          "hallucinations_removed": 6,
+          "unresolved": 9,
+          "note": "deduplicated 1 site, downgraded Krystal Toy to unvalidated"
+        },
+        "mauritius": {
+          "sites_total": 9,
+          "validated_today": 0,
+          "re_audited": 8,
+          "hallucinations_removed": 0,
+          "unresolved": 1
+        },
+        "mexico": {
+          "sites_total": 87,
+          "validated_today": 11,
+          "re_audited": 11,
+          "hallucinations_removed": 10,
+          "unresolved": 4,
+          "note": "group node with no own data; worked children cabo-pulmo, cozumel, la-paz-sea-of-cortez, los-cabos, puerto-vallarta. 75/87 sites not touched (time constraints, already recently validated). socorro-islands not touched."
+        },
+        "micronesia": {
+          "sites_total": 0,
+          "validated_today": 0,
+          "re_audited": 0,
+          "hallucinations_removed": 0,
+          "unresolved": 0,
+          "note": "pure group node (isGroup=true), no own data/osm_clean or divesites files; no-op, correctly avoided fabricating data"
+        }
+      },
+      "errors": [
+        "micronesia: group node with no backing data files (isGroup=true); agent correctly no-op'd instead of fabricating data. Consider removing group-only slugs from rotation or redirecting them to their child destinations (chuuk-lagoon, marshall-islands, micronesia-yap, palau, guam).",
+        "mexico: group node with no backing data files (isGroup=true); agent worked its child destinations (cabo-pulmo, cozumel, la-paz-sea-of-cortez, los-cabos, puerto-vallarta) instead, touching sites outside today's queue-tracked slugs."
+      ],
+      "pr_url": null
     }
   ]
 }
