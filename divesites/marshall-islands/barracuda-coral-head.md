@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## Barracuda Coral Head
 
-Barracuda Coral Head is an isolated pinnacle dive in Kwajalein Atoll's inner lagoon, named for the large schools of chevron barracuda that gather around its structure — one of the most dramatic fish aggregations in the Kwajalein dive circuit.
+Barracuda Coral Head is a small coral head near the "Barracuda Junction" landmark; its name reflects that nearby landmark rather than a confirmed barracuda sighting at the head itself.
 
 ## Overview
 
-Kwajalein Lagoon's coral heads are isolated pinnacles rising from the sandy lagoon floor, each forming its own self-contained reef ecosystem. Barracuda Coral Head earned its name from the dense, spiraling barracuda schools that have used this structure as a gathering point for decades — a behavior likely tied to the upwelling of slightly cooler, nutrient-rich water around the pinnacle base. The coral head rises to within a few meters of the surface, allowing divers to ascend and descend freely around the full structure within the 25-meter depth range.
+Per Dave Fortin's Kwajalein dive log: "just a small coral head located not too far behind Barracuda Junction. This is another one that I haven't dove, so any reports are welcome!" No firsthand description of the coral head's structure or marine life is available.
 
-The Kwajalein Lagoon environment provides excellent visibility — typically 25–35 meters — and calm conditions year-round, making this an accessible and reliable dive in virtually any weather. Water temperature holds at 28–30°C.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-The barracuda are the signature encounter — schools of 50 to 200 or more chevron barracuda hover in mid-water columns around the pinnacle, their silver bodies catching the light as they wheel in slow formation. Grey reef sharks patrol the outer edges of the school. Humphead wrasse and large groupers cruise the base of the coral head. The pinnacle sides are encrusted with hard corals, sponges, and sea whips, sheltering moray eels, lionfish, and scores of smaller reef fish.
+## Marine Life
 
-On the sandy floor around the base, blue-spotted ribbontail rays rest or forage. Garden eels sway in the slight current at the sand edge. Night dives on Barracuda Coral Head reportedly produce spectacular light shows from bioluminescent plankton, with hunting barracuda visible on the perimeter.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; calm lagoon conditions
-- **Entry**: Boat dive from Kwajalein operators
-- **Best For**: Intermediate divers; outstanding schooling fish photography
-
-## Marine Life Highlights
-
-Chevron barracuda schools, grey reef sharks, humphead wrasse, large groupers, moray eels, lionfish, blue-spotted ribbontail rays, garden eels, sponge colonies, sea whips.
+No marine life reports exist for this site from any source consulted. The site's name derives from its proximity to the "Barracuda Junction" landmark, not from a documented barracuda sighting at the head itself.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

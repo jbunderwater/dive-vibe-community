@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## Marita Shoals
 
-Marita Shoals is a shallow reef structure in the northern reaches of Kwajalein Atoll's lagoon, positioned as one of the outermost named dive sites in the Kwajalein system and noted for its exposure to open-lagoon conditions.
+Marita Shoals is a Kwajalein lagoon site the source describes as a great spot with several resident giant clams.
 
 ## Overview
 
-The shoals rise from the sandy lagoon floor to form a broad, gently sloping reef system at depths between 5 and 25 meters. The exposed position means the site receives more oceanic influence than the sheltered inner-lagoon coral heads — currents run stronger here, and the fish density and species diversity reflect that nutrient input. Hard coral coverage is solid, with encrusting corals, brain corals, and scattered table corals building a complex three-dimensional reef structure.
+Per Dave Fortin's Kwajalein dive log: "I have [dived this] several times. Great spot! Several giant clams. This falls within the range of the new extended B-Boat area!"
 
-Visibility at Marita Shoals typically runs 25–35 meters in the open lagoon environment. Water temperatures hold around 28–30°C year-round, with conditions generally calmest between April and November.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-The current-influenced position makes this site a consistent producer of pelagic encounters. Barracuda are almost always present, hanging in loose schools or patrolling the reef edge. Grey reef sharks are regular visitors in the mid-water zone. Humphead wrasse cruise the outer edge of the shoals, and schools of bumphead parrotfish have been reported in the area. Closer to the reef, the dense fish community includes groupers, sweetlips, snapper, and triggerfish working the coral heads.
+## Marine Life
 
-Hawksbill turtles graze the sponge and algae growth across the reef flat. In the crevices, moray eels and lionfish occupy the darker recesses. The sandy inter-reef areas around the shoals occasionally yield sightings of resting whitetip reef sharks.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Moderate to occasionally strong; more exposed than inner-lagoon sites
-- **Entry**: Boat dive from Kwajalein operators
-- **Best For**: Intermediate divers comfortable with mild current
-
-## Marine Life Highlights
-
-Grey reef sharks, barracuda schools, humphead wrasse, bumphead parrotfish (occasional), hawksbill turtles, moray eels, lionfish, groupers, sweetlips, snapper, whitetip reef sharks.
+Several giant clams are documented at this site by the source. No fish species are named.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## ER-2 Coral Head
 
-ER-2 Coral Head is a lagoon pinnacle dive in Kwajalein Atoll, positioned in the eastern portion of the lagoon's inner reef system and named using the military alphanumeric grid designation used to chart the atoll.
+ER-2 Coral Head hosts a small shark nursery in caves near its top, between the Little Bustard and Big Bustard landmarks.
 
 ## Overview
 
-The "ER" prefix in Kwajalein diving nomenclature refers to specific grid sectors of the atoll's lagoon chart, and ER-2 sits in a section with slightly more exposure to lagoon circulation than the more sheltered inner sites. This positioning delivers slightly better current activity and, correspondingly, more active fish behavior than the most protected coral heads. The pinnacle structure rises from around 25 meters to within a few meters of the surface, encrusted with the mature hard coral growth typical of undisturbed lagoon reef environments.
+Per Dave Fortin's Kwajalein dive log, this coral head sits "between Little Bustard and Big Bustard," and near the top ("maybe 30 feet"/~9m) on its southern edge there is "a little 'shark nursery'" — a small area of caves where sharks are regularly found once located. The source notes the coral head's original marker buoy has since been renamed, but the name "ER-2" persists among longtime Kwajalein divers.
 
-The Kwajalein Lagoon's water chemistry is notably clean and stable — the atoll's massive lagoon volume (2,174 square kilometers) self-regulates temperature and salinity, maintaining near-constant conditions of 28–30°C and 25–35 meter visibility year-round.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-The slightly stronger current influence at ER-2 keeps the site productive for fish-watching. Barracuda regularly aggregate here, hanging in loose schools in the water column above the pinnacle. Dogtooth tuna occasionally sweep through on hunting runs. The coral head base area sees regular grey reef shark patrols, and whitetip reef sharks rest on sandy ledges at depth. The pinnacle surface hosts the diverse Kwajalein lagoon community: moray eels, lionfish in the overhangs, large groupers on the mid-structure, and dense populations of smaller reef fish on the shallow crown.
+## Marine Life
 
-The site is particularly noted among photographers for the quality of light and the three-dimensional silhouettes achievable — shooting upward from the base with a wide-angle lens captures the pinnacle's full profile in the blue-water column.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; slightly more current-exposed than inner sites
-- **Entry**: Boat dive from Kwajalein operators
-- **Best For**: Intermediate divers; good wide-angle photography conditions
-
-## Marine Life Highlights
-
-Barracuda, grey reef sharks, whitetip reef sharks, dogtooth tuna (occasional), moray eels, lionfish, large groupers, snapper, fusiliers, butterflyfish.
+A small shark nursery is documented near the top of the southern edge, in caves at roughly 9m depth. The source does not identify the shark species.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

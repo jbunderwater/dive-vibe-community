@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## Bravo Buoy Coral Head
 
-Bravo Buoy Coral Head is a lagoon pinnacle dive in Kwajalein Atoll, named after the navigational buoy position used by the US military to chart the lagoon — one of dozens of coral head dive sites that define the Kwajalein diving experience.
+Bravo Buoy Coral Head is a coral head near Kwajalein's marina with a cluster of anemones on its western edge.
 
 ## Overview
 
-The Kwajalein dive naming convention reflects the atoll's military history: buoy positions, navigational reference points, and military grid coordinates became the informal names for the coral heads that American military personnel began diving during the post-war occupation and have dived ever since. Bravo Buoy Coral Head is one of several buoy-named pinnacles in the northern section of the inner lagoon, rising from the sandy floor to near the surface in water with exceptional clarity.
+Per Dave Fortin's Kwajalein dive log: "this is an interesting coral head that is not too far from the marina. There isn't a whole lot of stuff on top for your anchors to grab onto, so be a little careful anchoring on this coral head. I'd suggest doing this on fairly calm days. There are 6 or 8... anemones on the west edge of the coral head, so please be careful that you keep your anchors away from that area."
 
-The structure is typical of the best Kwajalein coral heads — a hard coral pinnacle encrusted with decades of reef growth, surrounded by clean sand and open water that allows excellent three-dimensional exploration. Visibility runs 25–35 meters, current is generally mild, and water temperature holds at 28–30°C year-round.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-The coral head structure provides habitat for the classic Kwajalein lagoon community. Humphead wrasse and large parrotfish cruise the perimeter. Moray eels occupy crevices throughout the pinnacle. Schools of snapper and fusiliers hover in the mid-water column. Whitetip reef sharks rest on sandy ledges at the base or cruise slowly around the lower structure. The hard coral coverage is dense and in good condition — table corals, brain corals, and encrusting formations cover virtually every surface above the sand line.
+## Marine Life
 
-Photography conditions are among the best in Micronesia: excellent visibility, soft natural light filtering through the clear lagoon water, and cooperative subject species.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild; stable lagoon conditions
-- **Entry**: Boat dive from Kwajalein operators
-- **Best For**: Intermediate divers; excellent year-round conditions
-
-## Marine Life Highlights
-
-Humphead wrasse, parrotfish, moray eels, snapper schools, fusiliers, whitetip reef sharks, groupers, butterflyfish, table corals, brain corals, nudibranchs.
+Six to eight anemones are documented on the coral head's western edge. No fish species are named by the source.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

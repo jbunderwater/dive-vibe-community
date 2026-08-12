@@ -3,7 +3,7 @@ name: Toilet Bowl
 lat: 8.74051
 lng: 167.73253
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 23
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## Toilet Bowl
 
-Toilet Bowl is a WWII-era wreck and debris site in Kwajalein Atoll's lagoon, named by American military divers for the collection of plumbing fixtures and salvaged equipment clustered on the lagoon floor during post-war cleanup operations.
+Toilet Bowl is not a shipwreck — it is a discarded toilet fixture resting on top of a large concrete block on the Kwajalein lagoon floor, one of several such dumped concrete blocks in the area.
 
 ## Overview
 
-The site is one of several "Junkpile" category wrecks in the Kwajalein area — a cluster of war material, vehicle parts, and sundry military equipment dumped or sunk during and after the February 1944 Battle of Kwajalein and the subsequent American occupation. Unlike the large named warship wrecks of Bikini Atoll, Toilet Bowl is an intimate site with interesting historical artifact interest and strong marine colonization across the debris field.
+Per Dave Fortin's Kwajalein dive log, "this site is indeed a toilet bowl [sitting] on top of a large concrete block. There are several of these large blocks between here and just north of N-Buoy coral head. The toilet bowl itself was just set on top of the block." The depth to the toilet itself is given as "right around 75 feet" (~23m). Nearby landmarks include the Emon Coral Head (used as a navigation reference to reach this site) and an unrelated "Concrete Wreck." A previous version of this page attributed a shark-schooling description to this site; that description actually applies to a different, unrelated Kwajalein coral head (Troys Coral Head) in the source material and has been removed here to avoid misattribution.
 
-The maximum depth of 25 meters is well within intermediate diving range, and the lagoon environment offers the predictable, calm conditions typical of Kwajalein sites — visibility running 20–30 meters, mild currents, and warm water. The debris field extends across a sandy lagoon floor, with individual pieces of equipment visible as distinct coral-encrusted objects.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 23 meters
 
-The historical artifacts are the initial draw — coral-encrusted military debris including equipment casings, machinery parts, and various recognizable objects from the wartime occupation. Over decades, the debris field has become an artificial reef, with hard coral formations growing over every surface. Lionfish are abundant throughout the debris, hovering in characteristic motionless ambush posture. Moray eels occupy every suitable gap. Schools of snapper circle the larger debris structures, and glassy sweepers pack the shadowed interiors of hollow equipment.
+## Marine Life
 
-Sand around the debris edges rewards patient observers — flatfish, stonefish, and garden eels populate the sandy zones, while blue-spotted ribbontail rays rest in the open areas between debris piles.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–30 meters typical in the Kwajalein Lagoon
-- **Currents**: Generally mild; sheltered lagoon site
-- **Entry**: Boat dive from Kwajalein-based operators
-- **Best For**: Intermediate divers with interest in WWII history and macro life
-
-## Marine Life Highlights
-
-Lionfish, moray eels, scorpionfish, stonefish, snapper schools, glassy sweepers, blue-spotted ribbontail rays, flatfish, garden eels, encrusting corals, anemones.
+No marine life reports exist specifically for this site from the source consulted.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## Kwaj-2 Coral Head
 
-Kwaj-2 Coral Head is the second in the Kwaj series of western lagoon pinnacles in Kwajalein Atoll, positioned between Kwaj-1 and the more remote Kwaj-3 and often dived as part of a western lagoon excursion combining all three sites.
+Kwaj-2 is one of three environmental mooring buoys placed in Kwajalein lagoon to protect the reef from boat-anchor damage.
 
 ## Overview
 
-Kwaj-2 sits in the middle of the western lagoon Kwaj-series cluster, positioned roughly equidistant between Kwaj-1 and Kwaj-3. The three sites are typically dived sequentially on a dedicated western lagoon boat trip, with Kwaj-2 representing the heart of the excursion. The pinnacle rises from a clean sandy floor at 25 meters to near the surface, with mature hard coral encrustation and a well-developed reef community typical of undisturbed Kwajalein lagoon environments.
+Per Dave Fortin's Kwajalein dive log, Kwaj-1 was "put in place by the environmental folks here at Kwajalein in hopes to protect the reef from being damaged by anchors from the rental/private boats," with boats meant to tie off on a provided tagline (while still dropping a second anchor for safety). Kwaj-2 is described only as "similar to Kwaj-1."
 
-The western lagoon position exposes Kwaj-2 to slightly stronger tidal current flows than the most sheltered inner sites, driving better nutrient input and more active fish behavior. Visibility is consistently excellent in this section of the lagoon — 25–35 meters year-round.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-Kwaj-2 is particularly noted for regular encounters with large, solitary barracuda — single great barracuda over a meter long that patrol the pinnacle perimeter and regard divers with the characteristic cold-eyed attention of a top predator unfazed by human presence. Schools of smaller chevron barracuda are also common in the mid-water column above the site. Grey reef sharks circle at depth, and humphead wrasse hold territory on the deeper faces of the pinnacle.
+## Marine Life
 
-The coral growth on Kwaj-2 includes some of the largest table coral formations in the western lagoon cluster — horizontal table coral plates up to two meters across create layered canopies on the upper pinnacle faces, sheltering soldierfish, squirrelfish, and small groupers in the shadows beneath.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; slightly more active than inner lagoon sites
-- **Entry**: Boat dive; typically combined with Kwaj-1 and Kwaj-3 on a western lagoon trip
-- **Best For**: Intermediate divers; notable for large barracuda and impressive table coral formations
-
-## Marine Life Highlights
-
-Great barracuda, chevron barracuda schools, grey reef sharks, humphead wrasse, table corals, soldierfish, squirrelfish, groupers, moray eels, butterflyfish.
+No marine life reports exist for this site from the source consulted.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

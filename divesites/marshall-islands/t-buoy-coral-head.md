@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## T-Buoy Coral Head
 
-T-Buoy Coral Head is one of Kwajalein Atoll's northern outer lagoon pinnacles, named for the "T" navigational buoy designation on the atoll chart and positioned in the northernmost section of the regularly dived Kwajalein coral head system — close in latitude to the Victor Buoy and T-Buoy cluster that represents the outer edge of the main dive circuit.
+T-Buoy Coral Head is described by the source as an excellent dive site between the North Loi and Shell landmarks.
 
 ## Overview
 
-T-Buoy sits at the outermost northern edge of the regularly accessed Kwajalein inner lagoon dive zone, requiring a longer boat ride than the central cluster sites but rewarding divers with some of the most isolated and pristine reef conditions available within the atoll. The coordinates place it near Victor Buoy Coral Head, and the two sites are often dived together on extended northern lagoon excursions.
+Per Dave Fortin's Kwajalein dive log: "this is an excellent dive site! It's roughly between North Loi and Shell. Currently there is a green buoy nearby with a '5' on it... The top of the coral head is a little deep (maybe 25 feet), but this is one coral head that is well worth your time! Plenty to see!"
 
-The pinnacle structure follows the Kwajalein template: hard coral mound rising through 25 meters of water, excellent visibility, mild currents, warm temperatures year-round. The outer northern position brings slightly more oceanic influence and noticeably stronger fish activity than the innermost protected sites.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-T-Buoy's outer northern position puts it in the influence zone of open-ocean current pushing into the lagoon through the northern passes, delivering regular pelagic visitors that rarely appear at the central cluster sites. Dogtooth tuna are occasional sightings sweeping past on hunting runs. Schooling barracuda hold position in the current. Grey reef sharks patrol the pinnacle perimeter with the more purposeful behavior of sites with less regular diver traffic.
+## Marine Life
 
-The coral quality here is among the best in the northern lagoon system — extensive table coral formations and dense branching coral thickets cover the shallow sections of the pinnacle in conditions that reflect the low diver impact of an infrequently visited site. Night diving at T-Buoy, while requiring extra logistical effort from the main dock, produces exceptional results — octopus, nudibranchs, and feeding moray eels populate the reef in full nocturnal activity.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; outer northern position brings occasional stronger flow
-- **Entry**: Boat dive; longer transit from main island
-- **Best For**: Intermediate divers seeking northern lagoon exploration; extended dive trips
-
-## Marine Life Highlights
-
-Dogtooth tuna (occasional), barracuda, grey reef sharks, table corals, branching corals, moray eels, humphead wrasse, snapper, fusiliers, octopus (night).
+No specific marine life is named by the source beyond a general note that there is "plenty to see."
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

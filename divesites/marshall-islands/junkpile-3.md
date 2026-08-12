@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## Junkpile-3
 
-Junkpile-3 is the intermediate-depth member of the Junkpile cluster in Kwajalein Atoll's lagoon, sitting between the 25-meter Junkpile-1 and the 33-meter Junkpile-2, and often dived in combination with one or both of its neighbors on a single boat trip.
+Junkpile-3 is a US military-surplus debris field on the Kwajalein lagoon floor — not a named vessel — lying close to (and possibly connected with) Junkpile-2.
 
 ## Overview
 
-The three Junkpile sites are clustered tightly in the same area of the inner Kwajalein Lagoon, and experienced divers often transition between them during a single dive or plan back-to-back dives to explore the full cluster. Junkpile-3 at 30 meters is technically within intermediate range but sits at the upper edge — divers should have comfortable buoyancy control and air management before pushing this deep. The debris field here contains a distinct collection of WWII hardware compared to the neighboring sites, with each junkpile area featuring different types of military surplus and abandoned equipment.
+Per Dave Fortin's Kwajalein dive log: "another pile of junk that appears to be US and dumped here many years ago. I've seen bottles, sinks, tires, a toilet and all sorts of other junk." Depth is given as "about 100 feet" (~30m), with no good shallow anchoring spot nearby, so boats typically anchor deep with plenty of scope on the line. The source notes Junkpile-2 and Junkpile-3 are close enough that "they could actually run together" as a single debris field.
 
-The lagoon environment remains calm and protected year-round, making all three Junkpile sites diveable in virtually any weather conditions. Visibility runs 20–30 meters, and the warm water temperature makes for comfortable extended bottom times at depth.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 
-Junkpile-3 combines the accessibility of Junkpile-1 with some of the depth-enhanced species richness of Junkpile-2. The debris structures are thoroughly colonized — hard corals and sponges cover every exposed surface, moray eels of several species occupy the crevices, and lionfish hover at virtually every overhang. Schools of snapper and sweetlips orbit the larger debris pieces. On the sandy floor between the structures, look for stingrays resting partially buried and garden eels swaying at the field margins.
+## Marine Life
 
-Divers who complete all three Junkpile sites develop an appreciation for how the depth gradient affects the marine community — different species and different growth patterns mark each site despite their close proximity, a testament to how much depth influences reef ecology even within the same sheltered lagoon.
-
-## Practical Information
-
-- **Depth Range**: 10–30 meters
-- **Visibility**: 15–30 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; often combined with Junkpile-1 or Junkpile-2
-- **Best For**: Intermediate divers; good air management recommended for 30-meter depth
-
-## Marine Life Highlights
-
-Moray eels, lionfish, scorpionfish, snapper, sweetlips, stingrays, garden eels, encrusting hard corals, sponge colonies, glassy sweepers, clownfish.
+No marine life reports exist for this site from the source consulted; the described content is entirely dumped hardware (bottles, sinks, tires, and other debris), not a colonized reef structure.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

@@ -3,7 +3,7 @@ name: Walung Drop Off
 lat: 5.2894935
 lng: 162.902064
 difficulty: Advanced
-maxDepth: 42
+maxDepth: 10
 entryType: boat
 siteType: wall
 ref: null
@@ -13,31 +13,31 @@ addedBy: osm_import
 
 ## Walung Drop Off
 
-Walung Drop Off is a dramatic outer-atoll wall dive off the southwest coast of Kosrae, the easternmost island in the Marshall Islands chain, where the reef crest plunges abruptly into water exceeding several hundred meters deep.
+**Editorial note (data-quality flag):** this site's coordinates place it in Kosrae, Federated States of Micronesia — a different country from the Republic of the Marshall Islands, roughly 950 km away. It is misfiled in this destination's dataset and is described here accurately as a Kosrae site; it should be moved to a Kosrae/Micronesia destination file rather than treated as a Marshall Islands site.
+
+Walung Drop-Off is one of Kosrae's most popular dive sites, a sheer wall on the island's western tip known for strong currents and consistent shark and pelagic sightings.
 
 ## Overview
 
-The outer reef edge at Walung is one of Kosrae's signature dive sites — a near-vertical drop from the shallow reef crest into open blue water. The wall face is densely colonized with table corals and staghorn formations in the upper sections, transitioning to large gorgonian fans and whip corals below 25 meters. Black coral trees emerge on the deeper sections of the wall. Visibility is outstanding, regularly exceeding 40 meters in the open water column beyond the drop-off.
+Walung Drop-Off (marked by buoys 28 and 29) sits on Kosrae's western tip alongside the neighboring Walung Coral Gardens and Walung Shelf sites, which are sometimes combined into a single dive. Buoy 28 sits in shallow water and doubles as a snorkel site; buoy 29 marks the outer reef wall. Sources describe an easy descent along the mooring line through a hard coral garden with tiered formations cascading down the wall, and note the presence of a documented giant clam project ("Walung Giant Clam Garden") in the surrounding area. Currents here can run fast, and this is generally considered one of Kosrae's more demanding sites.
 
-At 42 meters maximum recreational depth, this is a serious advanced dive. The wall offers few natural reference points in the blue water column, making buoyancy control and depth awareness critical skills to bring to this site. The descent line from the boat provides an essential reference. Bottom time at depth is limited — most divers spend the majority of their dive in the 15–30 meter range, ascending gradually to explore the rich shallows before surfacing.
+Sources do not agree on a single maximum depth: one source gives roughly 9-10 meters (30 feet) for the site, while others describe it more generally as a "sheer wall" with strong currents, without a stated maximum. This entry reports the shallower, explicitly sourced figure; treat any deeper number as unconfirmed.
 
-## What to Expect
+## Site Information
 
-Strong, nutrient-rich current sweeps across the outer reef, attracting a constant parade of pelagic species. Schools of dogtooth tuna and barracuda hunt in the mid-water zone. Grey reef sharks patrol the wall edge, and occasional hammerhead sharks have been reported by visiting liveaboard divers. Eagle rays pass in the open water column beyond the drop. Closer to the wall, honeycomb moray eels occupy crevices at depth, and hawksbill turtles graze on sponges in the shallower coral zone.
+- **Location**: Western tip of Kosrae, Federated States of Micronesia (buoys 28 and 29)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 10 meters
 
-The reef crest and upper wall at 8–18 meters are a highlight — dense hard coral gardens populated by angelfish, surgeonfish, and butterflyfish. These sections are ideal for safety stops and a final explore before ascending.
+## Marine Life
 
-## Practical Information
+Reported at Walung Drop-Off: schools of barracuda, small hammerhead sharks, reef sharks, sea turtles, giant puffers, lime-green adhesive anemones, popcorn shrimp, and assorted invertebrates. Multiple independent sources corroborate the barracuda schools and shark sightings.
 
-- **Depth Range**: 8–42 meters
-- **Visibility**: 25–45 meters typical
-- **Currents**: Moderate to strong; dive timing around current conditions is recommended
-- **Entry**: Boat dive — drop at the reef edge, navigate or drift along the wall
-- **Best For**: Advanced divers with wall diving and blue-water experience
+## Entry and Exit
 
-## Marine Life Highlights
-
-Grey reef sharks, hammerhead sharks (occasional), dogtooth tuna, barracuda, eagle rays, hawksbill sea turtles, moray eels, gorgonian fan corals, black coral trees, table corals, butterflyfish, angelfish, surgeonfish, groupers.
+Boat dive to buoys 28 or 29 on Kosrae's western tip. Buoy 28 is shallow and snorkel-friendly; buoy 29 is on the outer reef wall and experiences the strongest currents.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Kosrae Diving — site list](https://kosraediving.com/sites.php), [Bluewater Dive Travel — Kosrae Diving](https://www.bluewaterdivetravel.com/kosrae-diving), [Dive Adventures — Kosrae](https://diveadventures.com.au/region/micronesia-kosrae/), [Scuba Diver Life — Best Scuba Diving in Kosrae](https://scubadiverlife.com/best-scuba-diving-kosrae/). Depth conflict between sources noted above. Last updated 2026-08-12.*

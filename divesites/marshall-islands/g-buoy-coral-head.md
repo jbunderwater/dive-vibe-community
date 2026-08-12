@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## G-Buoy Coral Head
 
-G-Buoy Coral Head is a well-established lagoon pinnacle dive in Kwajalein Atoll, named after a former navigational buoy position in the inner lagoon and recognized among regular Kwajalein divers for its consistently reliable turtle sightings.
+G-Buoy Coral Head sits just outside Kwajalein's harbor, near a documented field of unexploded WWII-era ordnance.
 
 ## Overview
 
-The Kwajalein Lagoon's coral heads each develop distinct reputations over years of regular diving, and G-Buoy is noted for hawksbill turtles that appear to have claimed the site as a regular feeding and resting territory. The pinnacle structure rises from the sandy lagoon floor through 25 meters of clear water, with the typical mature hard coral encrustation of the established Kwajalein dive sites. Coral coverage is dense — table corals dominate the upper sections while encrusting corals and sponges fill in the vertical faces.
+Per Dave Fortin's Kwajalein dive log, this coral head is "right outside the harbor" and is one he has "haven't dove a lot" and cannot describe in depth. He documents a "nice field of 'planted' artillery shells" roughly three minutes' swim away at a bearing of 315° magnetic, and cautions that divers should "treat ALL ammo in the lagoon as live."
 
-The site position in the lagoon's central zone provides the calm, sheltered conditions that make Kwajalein diving so reliable. Visibility is consistently 25–35 meters and currents remain mild year-round.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-Hawksbill turtles are the site's signature species — they use the coral head's sponge-covered surfaces as a grazing ground and can often be approached closely as they feed, seemingly unconcerned by divers who maintain a respectful distance and avoid direct pursuit. Humphead wrasse and large parrotfish are regular companions, and schooling snapper circle the pinnacle mid-water. Moray eels have established territories in the crevices throughout the structure. The sandy floor around the pinnacle base harbors garden eels in small colonies.
+## Marine Life
 
-Night diving at G-Buoy produces excellent encounters — the sandy areas around the base come alive with crabs, octopus, and flatfish, while the sleeping reef fish tucked into coral crevices are illuminated in torch beams throughout the dive.
+No marine life reports exist for this site from the source consulted.
 
-## Practical Information
+## Safety Considerations
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive from Kwajalein operators
-- **Best For**: Intermediate divers; reliable turtle encounters; good night diving
-
-## Marine Life Highlights
-
-Hawksbill turtles, humphead wrasse, large parrotfish, moray eels, snapper schools, garden eels, octopus (night), crabs, table corals, encrusting sponges.
+Unexploded ordnance (artillery shells) has been reported nearby. Do not touch, move, or disturb any munitions encountered in the Kwajalein lagoon; treat all such objects as live.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

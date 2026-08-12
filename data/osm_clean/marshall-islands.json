@@ -12,8 +12,9 @@
     "tags": {
       "name": "Raycrew",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "No independently published source (dive shop listings, ScubaBoard, forums, guides) documents a distinct Majuro dive site named 'Raycrew' beyond the fact that Raycrew is the name of a local Majuro dive operator (raycrew.jp). This OSM point most likely represents the operator's shop/mooring rather than a named site with independently reported characteristics. Left unvalidated."
     }
   },
   {
@@ -22,10 +23,10 @@
     "lon": 162.9892488,
     "osm_id": 4031637101,
     "osm_type": "node",
-    "depth": 22,
-    "site_type": "reef",
+    "depth": 13,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Hiroshi East End",
       "scuba_diving:dangers:current": "no",
@@ -82,7 +83,9 @@
       "scuba_diving:type:wreck": "no",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "kosraediving.com,bluewaterdivetravel.com,diveadventures.com.au,scubadiverlife.com",
+      "last_qa_date": "2026-08-12",
+      "qa_flag": "geographic_mismatch: this site is located in Kosrae, Federated States of Micronesia (not the Republic of the Marshall Islands). Coordinates match Kosrae's Hiroshi Point (buoy 15) area, ~950km from Majuro. Recommend relocating this entry to a Kosrae/Micronesia destination file; retained here only because it pre-existed in this dataset."
     }
   },
   {
@@ -91,10 +94,10 @@
     "lon": 162.9747035,
     "osm_id": 4031637102,
     "osm_type": "node",
-    "depth": 22,
-    "site_type": "reef",
+    "depth": 13,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Hiroshi West End",
       "scuba_diving:dangers:current": "no",
@@ -151,7 +154,9 @@
       "scuba_diving:type:wreck": "no",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "kosraediving.com,bluewaterdivetravel.com,diveadventures.com.au,scubadiverlife.com",
+      "last_qa_date": "2026-08-12",
+      "qa_flag": "geographic_mismatch: this site is located in Kosrae, Federated States of Micronesia (not the Republic of the Marshall Islands). Coordinates match Kosrae's Hiroshi Point (buoy 15) area, ~950km from Majuro. Recommend relocating this entry to a Kosrae/Micronesia destination file; retained here only because it pre-existed in this dataset."
     }
   },
   {
@@ -219,8 +224,10 @@
       "scuba_diving:type:wall": "no",
       "scuba_diving:type:wreck": "no",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-08-12",
+      "qa_flag": "geographic_mismatch: coordinates place this site in Kosrae, Federated States of Micronesia (not the Republic of the Marshall Islands), near a known giant clam aquaculture project. Recommend relocating this entry to a Kosrae/Micronesia destination file.",
+      "qa_note": "No source directly names a dive site called 'Old Clam Farm'. Kosrae does host a documented giant clam farm/garden (coralclam.com, Walung Giant Clam Garden project) which plausibly explains the name, but this is circumstantial, not a direct site-specific confirmation. Left unvalidated; site_type/depth unchanged pending a direct source."
     }
   },
   {
@@ -229,7 +236,7 @@
     "lon": 162.902064,
     "osm_id": 4031637104,
     "osm_type": "node",
-    "depth": 42,
+    "depth": 10,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -289,7 +296,10 @@
       "scuba_diving:type:wreck": "no",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "kosraediving.com,bluewaterdivetravel.com,diveadventures.com.au,scubadiverlife.com",
+      "last_qa_date": "2026-08-12",
+      "qa_flag": "geographic_mismatch: this site is located in Kosrae, Federated States of Micronesia (not the Republic of the Marshall Islands), on Kosrae's western tip. Recommend relocating this entry to a Kosrae/Micronesia destination file; retained here only because it pre-existed in this dataset. Depth corrected from 42m (unsourced) to ~10m per sourced buoy depths; Advanced difficulty retained on account of documented fast currents rather than depth.",
+      "qa_note": "Sources report the mooring/buoy depths at roughly 9-13m; the site is also described as a 'sheer wall' with fast currents. No single source gives a confirmed maximum wall depth beyond the buoy range, so depth is reported conservatively."
     }
   },
   {
@@ -357,8 +367,9 @@
       "scuba_diving:type:wall": "no",
       "scuba_diving:type:wreck": "yes",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "No independent source found for this site at all. Previous markdown fabricated a WWII wreck history (tying it to the February 1944 Kwajalein campaign despite this site being located at Majuro, ~950km from Kwajalein) and a full regional species list -- both removed as unsupported hallucinations. site_type left as 'wreck' unchanged (no source to confirm or deny) per validation rules against changing type without a confirming source."
     }
   },
   {
@@ -425,8 +436,9 @@
       "scuba_diving:type:wall": "yes",
       "scuba_diving:type:wreck": "no",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "No independent source found for this site. Previous markdown fabricated a location claim ('near Jaluit or Arno Atoll') that contradicts this site's own coordinates, which place it within Majuro Atoll. Fabricated shark-aggregation and pass-diving narrative removed."
     }
   },
   {
@@ -444,8 +456,10 @@
       "name": "K-10 Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -463,8 +477,10 @@
       "name": "G-Buoy Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -473,7 +489,7 @@
     "lon": 167.73253,
     "osm_id": 13042385000,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 23,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -482,8 +498,10 @@
       "diving:type": "manmade",
       "name": "Toilet Bowl",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources. Depth adjusted from 25m to ~23m per Fortin's stated 'right around 75 feet' to the toilet bowl itself. Note: this is not a shipwreck -- it is a discarded toilet fixture resting on a concrete block, one of several such dumped concrete/debris blocks in the area. site_type 'wreck' retained per project convention (artificial/manmade sunken structure) but the markdown must not describe it as a vessel."
     }
   },
   {
@@ -492,17 +510,19 @@
     "lon": 167.65216,
     "osm_id": 13042425101,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "diving:type": "reef",
       "name": "Vertical Wall",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources. Depth corrected from 25m (unsourced default) to ~40m -- Fortin describes the wall dropping 'well below 130 feet' with the dived portion around 130ft and shallower; difficulty raised to Advanced accordingly."
     }
   },
   {
@@ -511,17 +531,19 @@
     "lon": 167.7341,
     "osm_id": 13042425102,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 9,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:type": "reef",
       "name": "Emon Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources. Depth corrected from 25m (unsourced default) to ~9m per Fortin's stated drop from 15 to 30 feet."
     }
   },
   {
@@ -539,8 +561,10 @@
       "name": "ER-2 Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -558,8 +582,10 @@
       "diving:type": "recreational",
       "name": "Junkpile-3",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources. Not a named vessel: Fortin describes these as WWII-postwar-era US dump sites (tires, drums, bottles, propellers, batteries, sinks) on the sandy lagoon floor, not a single identifiable ship. site_type 'wreck' retained as 'artificial reef/debris' per project convention but no vessel history should be attributed."
     }
   },
   {
@@ -577,8 +603,10 @@
       "diving:type": "recreational",
       "name": "Junkpile-2",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources. Not a named vessel: Fortin describes these as WWII-postwar-era US dump sites (tires, drums, bottles, propellers, batteries, sinks) on the sandy lagoon floor, not a single identifiable ship. site_type 'wreck' retained as 'artificial reef/debris' per project convention but no vessel history should be attributed."
     }
   },
   {
@@ -587,16 +615,18 @@
     "lon": 167.7287,
     "osm_id": 13042425106,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "diving:type": "recreational",
       "name": "Junkpile-1",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources. Depth corrected from 25m (unsourced default) to ~32m per Fortin's stated 100-110ft; difficulty raised to Advanced accordingly. Not a named vessel: Fortin describes these as WWII-postwar-era US dump sites (tires, drums, bottles, propellers, batteries, sinks) on the sandy lagoon floor, not a single identifiable ship. site_type 'wreck' retained as 'artificial reef/debris' per project convention but no vessel history should be attributed."
     }
   },
   {
@@ -614,8 +644,10 @@
       "name": "Barracuda Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -633,8 +665,10 @@
       "name": "SAR Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -652,8 +686,10 @@
       "name": "Kwaj-3 Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -671,8 +707,10 @@
       "name": "Kwaj-2 Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -690,8 +728,10 @@
       "name": "Kwaj-1 Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -709,8 +749,10 @@
       "name": "Twin Peaks Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -728,8 +770,10 @@
       "name": "Troys Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -747,8 +791,10 @@
       "name": "N-Buoy Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -766,8 +812,10 @@
       "name": "K-9 West Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -785,8 +833,10 @@
       "name": "K-9 Deep Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -806,8 +856,10 @@
       "reef": "coral",
       "sport": "scuba_diving",
       "subsea": "coral_reef",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -827,8 +879,10 @@
       "reef": "coral",
       "sport": "scuba_diving",
       "subsea": "coral_reef",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -848,8 +902,10 @@
       "reef": "coral",
       "sport": "scuba_diving",
       "subsea": "coral_reef",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -858,10 +914,10 @@
     "lon": 167.7232316,
     "osm_id": 1475405898,
     "osm_type": "way",
-    "depth": 25,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:type": "reef",
       "name": "MAR Fill Coral Head",
@@ -869,8 +925,10 @@
       "reef": "coral",
       "sport": "scuba_diving",
       "subsea": "coral_reef",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources. Depth corrected from 25m (unsourced default) to ~15m per Fortin's stated 'about 50 feet' for the general area."
     }
   },
   {
@@ -887,8 +945,10 @@
       "diving:type": "reef",
       "name": "R-Buoy Coral Head",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -908,8 +968,10 @@
       "reef": "coral",
       "sport": "scuba_diving",
       "subsea": "coral_reef",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -929,8 +991,10 @@
       "reef": "coral",
       "sport": "scuba_diving",
       "subsea": "coral_reef",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -947,8 +1011,10 @@
       "diving:type": "reef",
       "name": "Victor Buoy Coral Head",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -965,8 +1031,10 @@
       "diving:type": "reef",
       "name": "T-Buoy Coral Head",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -983,8 +1051,10 @@
       "diving:type": "reef",
       "name": "S-Buoy Coral Head",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -1001,8 +1071,10 @@
       "diving:type": "reef",
       "name": "Marita Shoals",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   },
   {
@@ -1022,8 +1094,10 @@
       "reef": "coral",
       "sport": "scuba_diving",
       "subsea": "coral_reef",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "dave.sixmeters.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Only one independently identifiable source found for this specific site (Dave Fortin's personal Kwajalein dive-site log, dave.sixmeters.com, 2008), which is a firsthand diver record whose GPS coordinates match this dataset closely. General Kwajalein-wreck-diving sources (DAN, X-Ray Mag, Kwajalein Scuba Club) corroborate the atoll's overall character but do not mention this specific site by name. Below the 3-independent-domain bar required to mark validated=true; left unvalidated rather than padded with generic destination-level sources."
     }
   }
 ]

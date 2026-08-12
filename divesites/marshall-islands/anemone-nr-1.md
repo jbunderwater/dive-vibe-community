@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Anemone Nr. 1
 
-Anemone Nr. 1 is a WWII-era wreck site in the Marshall Islands, named for the dense anemone colonies that have colonized the wreck structure in the decades since it sank during or after the Pacific War.
+Anemone Nr. 1 is an OpenStreetMap-listed site in Majuro Atoll tagged as a wreck; no independent source could be found describing this site, and a previous, unsupported wreck-history narrative has been removed.
 
 ## Overview
 
-The wreck sits in relatively shallow water with the shallowest structure accessible well above the 27-meter maximum depth, making it accessible to intermediate divers while still offering enough complexity and depth to reward multiple dives. Decades of coral and invertebrate growth have transformed the wreck into an artificial reef — giant clams and anemones carpet the exposed metal surfaces, and coral formations have begun to obscure the original structure beneath layers of encrusting growth.
+A prior version of this page asserted that this was a WWII-era wreck connected to "the Kwajalein campaign (February 1944)," and described specific resident grey reef sharks and hawksbill turtles. None of that is traceable to any source — and the Kwajalein-campaign claim does not even fit the site's own location, since this point sits in Majuro Atoll, roughly 950 km from Kwajalein Atoll where that 1944 battle took place. That fabricated history and the accompanying species list have been removed. A search of Majuro dive shop listings, ScubaBoard, Wikipedia, and general Marshall Islands wreck-diving coverage (which documents named Majuro-area attractions like the Grumman "Duck" seaplane wreck) turned up no reference to a wreck named "Anemone Nr. 1." Because no source confirms or refutes the wreck classification, `site_type` has been left as `wreck` per the project's validation rule against changing a type without a confirming source — but this should be treated as unverified.
 
-Like many Marshall Islands WWII wrecks, the site history connects to either the Kwajalein campaign (February 1944) or the broader American advance through the Central Pacific. The intact sections of the wreck provide habitat for dense populations of reef fish and invertebrates, with visibility in the lagoon typically running 25–35 meters.
+## Site Information
 
-## What to Expect
+- **Location**: Majuro Atoll, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 27 meters
 
-The anemones that give the site its name are the defining visual feature — dozens of large anemone colonies host clownfish and small damsels throughout the wreck structure. Moray eels occupy the darker recesses. Lionfish hover near overhangs and under ledges. Schools of glassy sweepers fill larger interior spaces with their characteristic shimmering movement. On the exterior, grey reef sharks circle at mid-water, and hawksbill turtles have been sighted resting in the shadows of the wreck.
+## Marine Life
 
-A dive torch is essential for illuminating the interior spaces and revealing the true colors of the sponge and coral encrustation. Night diving on this site reportedly produces excellent encounters with octopus, crabs, and feeding moray eels.
+No site-specific marine life reports have been found for this site. A previous version listed clownfish, moray eels, lionfish, grey reef sharks, and hawksbill turtles as if confirmed here; none of those sightings could be traced to any source and have been removed.
 
-## Practical Information
+## Entry and Exit
 
-- **Depth Range**: 10–27 meters
-- **Visibility**: 20–35 meters typical in the lagoon
-- **Currents**: Mild to moderate; generally manageable
-- **Entry**: Boat dive from Marshall Islands operators
-- **Best For**: Intermediate divers; suitable for multiple dives to explore fully
-
-## Marine Life Highlights
-
-Clownfish and anemone colonies, moray eels, lionfish, glassy sweepers, grey reef sharks, hawksbill turtles, giant clams, scorpionfish, snapper, groupers, feather stars.
+No independently documented access information exists for this site.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Description based on OSM data alone. No independent source found. Previous WWII wreck-history content removed as unsupported. Last updated 2026-08-12.*

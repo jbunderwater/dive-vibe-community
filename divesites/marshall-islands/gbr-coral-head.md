@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## GBR Coral Head
 
-GBR Coral Head is a lagoon pinnacle in the central Kwajalein Lagoon dive zone, paired with the nearby GBR North Coral Head and representing one of the core cluster sites that divers typically cover in a morning or afternoon boat trip from the main island.
+GBR Coral Head sits in a debris-dense area of the lagoon with at least nine small WWII-era wreck fragments within easy swimming distance, including a Japanese sake bottle recovered from the coral head itself.
 
 ## Overview
 
-"GBR" in Kwajalein dive parlance refers to a general bearing reference used in the lagoon chart system — a holdover from decades of military navigation practice that evolved into informal dive site naming. GBR Coral Head and its northern companion form a natural paired dive — the two pinnacles are close enough to visit on a single dive or back-to-back dives without repositioning the boat. The coral head structure is typical of the best Kwajalein sites: mature, densely encrusted, rising through clear lagoon water to near the surface.
+Per Dave Fortin's Kwajalein dive log: "this area is a lot of fun! There are at least 9 little wrecks that I can think of that are within easy swimming distance from this coral head... It is generally a little murky in this area. To the east I noticed a fair abundance of bottles. It was on this coral head that I found a Saki bottle, so this can be a great spot for a bottle collector!" The nearby wreck fragments referenced by the source (e.g. "Parker/Wallace Maru," "Britain Upright," "Phu Maru") are landing-craft and small-vessel debris rather than large intact ships; none of their individual histories are documented by the source beyond a name and bearing.
 
-Hard coral coverage at GBR is strong, with brain corals and massive star coral formations dominating the mid-sections. The surrounding sandy floor is clean and well-lit, providing a pale background that enhances visibility and photographic contrast.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-GBR Coral Head is known for an active cleaning station on the pinnacle's southwest face — a patch of soft coral and sea whips where cleaner wrasse set up their service operation, attracting humphead wrasse, groupers, and even grey reef sharks that approach for grooming. Watching large predators hold still while tiny cleaner wrasse work inside their mouths and gill slits is one of the reef's more intimate experiences. Grey reef sharks are present throughout the dive, circling at mid-water or resting on ledges. Moray eels of multiple species occupy the pinnacle's crevices.
+## Marine Life
 
-The pinnacle crown in the shallows (5–10 meters) is dense with butterflyfish and angelfish, and anemones with resident clownfish are scattered across the upper structure.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; often paired with GBR North Coral Head
-- **Best For**: Intermediate divers; notable cleaning station encounters
-
-## Marine Life Highlights
-
-Grey reef sharks, humphead wrasse, groupers (cleaning station), moray eels, clownfish and anemones, butterflyfish, angelfish, brain corals, sea whips, nudibranchs.
+No marine life reports exist for this site from the source consulted; water clarity in the area is noted as generally murky.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

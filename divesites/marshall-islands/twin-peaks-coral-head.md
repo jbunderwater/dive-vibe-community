@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## Twin Peaks Coral Head
 
-Twin Peaks Coral Head is one of Kwajalein Atoll's most structurally distinctive sites — two separate coral pinnacles rising side by side from the lagoon floor, creating a unique double-pinnacle dive profile that allows divers to explore both structures on a single dive and use the sandy channel between them as a natural navigation guide.
+Twin Peaks Coral Head is a genuine double-pinnacle site and one of the source author's favorite Kwajalein dives, connected by a coral "saddle" and known for exceptional anemone density.
 
 ## Overview
 
-The "twin peaks" formation is a geological accident of the lagoon floor topography — two distinct coral heads rose independently in close proximity, close enough to explore together but separate enough to have developed distinct communities on their individual faces. The overall dive depth matches the standard Kwajalein lagoon range (25 meters maximum), with each pinnacle rising to within a few meters of the surface. The channel between the peaks provides excellent structural interest and a natural low-relief swim-through at intermediate depths.
+Per Dave Fortin's Kwajalein dive log: "this is one of my favorite dives! ...As the name implies, there are two coral heads here. You'll probably see the shallower one and anchor on it. You should find a concrete block on the top on the west side of the coral head. Going to the west off the coral head you can follow a little 'saddle' to the coral head just to the west. Many more anemones there! If you like anemones, this is one of the best spots that I know of to find them!" The source recommends this dive for calm-weather conditions.
 
-The coordinates place this site in the western-central northern zone of the lagoon, in an area that sees moderate diver traffic — less than the main inner cluster, more than the most remote outer sites.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-The two-pinnacle structure effectively doubles the reef surface area available for exploration compared to a single coral head, producing correspondingly higher species diversity and fish density. Each peak has developed its own character — experienced divers at Kwajalein report that the eastern peak tends to hold more resident moray eels and lionfish in its denser crevice structure, while the western peak has better gorgonian fan development on its faces and hosts more mid-water species.
+## Marine Life
 
-The channel between the peaks is a particular highlight — a miniature "canyon" at 10–15 meters depth, flanked by coral walls on both sides, that often concentrates current flow and therefore fish activity. Grey reef sharks patrol this channel regularly. Hawksbill turtles graze the sponge growth on both pinnacle faces.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild; the inter-peak channel can concentrate mild current
-- **Entry**: Boat dive
-- **Best For**: Intermediate divers; structurally interesting double-pinnacle experience
-
-## Marine Life Highlights
-
-Grey reef sharks, hawksbill turtles, moray eels, lionfish, gorgonian fans, snapper, groupers, butterflyfish, humphead wrasse.
+Anemones are documented as unusually dense at this site, on both the main and westward coral heads. No fish species are named by the source.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## R-Buoy Coral Head
 
-R-Buoy Coral Head is a lagoon pinnacle in the northern Kwajalein Lagoon dive area, positioned near the "R" navigational buoy position on the atoll chart and sitting in a section of the lagoon noted for reliable grey reef shark sightings.
+R-Buoy Coral Head is a small coral head out in the lagoon off Ebeye.
 
 ## Overview
 
-R-Buoy Coral Head is positioned in the northern Kwajalein Lagoon zone, near the "R" navigational buoy marker of the atoll's military chart system. The site's northern position exposes it to somewhat more open lagoon circulation than the protected inner cluster sites, and this enhanced water movement is credited for the consistently active grey reef shark presence that gives R-Buoy its reputation among Kwajalein dive regulars.
+Per Dave Fortin's Kwajalein dive log: "this coral head is out a little ways in the lagoon from Ebeye. It is a nice little dive. Plenty to see." No further structural or species detail is given.
 
-The pinnacle structure is typical of the best Kwajalein coral heads — mature, densely encrusted, full depth range to 25 meters, clean sandy surroundings — but positioned in a part of the lagoon that sees different tidal flow patterns than the main southern cluster.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-Grey reef sharks are the defining encounter at R-Buoy — the site consistently produces more shark activity than most inner lagoon sites, with three to eight individuals typically visible patrolling the mid-water column around the pinnacle. The sharks are not aggressive but are more actively investigating than the habituated specimens of the main cluster sites, making behavior observation more dynamic. Shark photographers rate R-Buoy as one of Kwajalein's better sites for natural shark behavior photography.
+## Marine Life
 
-The coral head itself is productive for the full range of Kwajalein lagoon species — humphead wrasse, hawksbill turtles, moray eels, and dense populations of butterflyfish and surgeonfish on the shallow crown. The sandy floor hosts garden eels and the occasional passing stingray.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; slightly more active than inner lagoon sites
-- **Entry**: Boat dive
-- **Best For**: Intermediate divers; recommended for grey reef shark encounters and behavior photography
-
-## Marine Life Highlights
-
-Grey reef sharks, humphead wrasse, hawksbill turtles, moray eels, garden eels, stingrays, butterflyfish, surgeonfish, snapper, groupers.
+No specific marine life is named by the source beyond a general note that there is "plenty to see."
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

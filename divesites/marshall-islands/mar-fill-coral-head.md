@@ -2,8 +2,8 @@
 name: MAR Fill Coral Head
 lat: 8.728711
 lng: 167.7232316
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## MAR Fill Coral Head
 
-MAR Fill Coral Head is a lagoon pinnacle in the central Kwajalein dive zone, where "MAR Fill" reflects the military land-fill area designation on Kwajalein Island's lagoon-side development — the coral head marks a natural reef structure adjacent to this development zone.
+MAR Fill Coral Head sits in the heart of Kwajalein's "Junk Area," a shallow debris field of landing craft, anchors, bottles, and ammunition.
 
 ## Overview
 
-MAR Fill Coral Head sits in the central section of the Kwajalein inner lagoon dive cluster, positioned near several of the GBR and K-series sites and frequently included on multi-site morning dive trips. The coral head structure is well-developed, rising from the sandy lagoon floor to near the surface, with the mature hard coral encrustation typical of the protected Kwajalein lagoon environment.
+Per Dave Fortin's Kwajalein dive log: "another favorite coral head in the heart of the 'Junk Area'. LCMs, Anchors, bottles, ammo, etc litter this area. It seems that the bottles are more abundant to the East and harder to wind toward the island (S-W). Depth in this general area is about 50 feet, so it's a great place for open water divers to explore."
 
-The proximity to the MAR Fill area of Kwajalein Island means this coral head benefits from proximity to the island's lagoon-side circulation patterns — slight current flows that provide just enough nutrient input to support robust fish populations without creating the challenging drift conditions of the more exposed outer sites.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 
-MAR Fill is considered a reliable site for multiple species of angelfish — the pinnacle's complex structure with caves, crevices, and overhangs creates the diverse habitat that different angelfish species prefer at different depths. Emperor angelfish, regal angelfish, and bicolor angelfish have been documented here, making it a productive site for angelfish enthusiasts. The resident moray eel population is well-established, and clownfish occupy anemone colonies at multiple depth levels on the structure.
+## Marine Life
 
-The sandy areas adjacent to the coral head are good ground for blue-spotted ribbontail rays and, on rare occasions, banded sea kraits — the black and white banded sea snakes that hunt in the sandy margins of lagoon coral heads. Snapper and fusilier schools orbit the structure mid-water.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; central to the main inner lagoon dive cluster
-- **Best For**: Intermediate divers; good for angelfish diversity and macro photography
-
-## Marine Life Highlights
-
-Emperor angelfish, regal angelfish, bicolor angelfish, moray eels, clownfish and anemones, blue-spotted ribbontail rays, banded sea kraits (occasional), snapper, fusiliers, groupers.
+No marine life reports exist for this site from the source consulted; the described content is primarily dumped hardware and debris.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

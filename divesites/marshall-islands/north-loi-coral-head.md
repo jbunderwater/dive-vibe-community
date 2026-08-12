@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## North Loi Coral Head
 
-North Loi Coral Head is a lagoon pinnacle in the northern reaches of Kwajalein Atoll's inner lagoon, named for its position north of Loi Island — a small motu on the atoll rim — and representing one of the more remote coral head dives accessible from Kwajalein.
+North Loi Coral Head is a good-sized coral head just off the northern tip of North Loi Island, described as a pleasant dive.
 
 ## Overview
 
-North Loi Coral Head is positioned in the northern outer section of Kwajalein Atoll's lagoon, near Loi Island on the northern rim, placing it well away from the southern cluster of main island dive sites. The longer boat journey (20–30 minutes from the main dock) means this site sees the fewest diver visits in the active northern Kwajalein circuit, and its comparative isolation is reflected in less-disturbed reef conditions and wilder marine life behavior than the frequently dived southern cluster.
+Per Dave Fortin's Kwajalein dive log: "this is a pleasant dive. This is a pretty good sized coral head just off the northern tip of North Loi island."
 
-The proximity to the open lagoon in the northern section provides slightly more ocean-influenced water movement, delivering better nutrients and supporting a higher diversity of fish species than purely sheltered inner sites.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-The reduced diver traffic at North Loi produces some of the most authentic "wilderness" reef encounters in the Kwajalein system. Grey reef sharks patrol the water column with the purposeful behavior of undisturbed predators. Large humphead wrasse drift at respectful distance rather than approaching divers. The hard coral quality is exceptional — undisturbed table coral formations and thickets of staghorn coral in the shallows are among the most intact in the Kwajalein dive inventory.
+## Marine Life
 
-Pelagic visitors are more common here than at the more sheltered inner sites — schools of dogtooth tuna pass through, and eagle rays are occasional sightings in the open water above the pinnacle. Hawksbill turtles use the coral head's sponge-covered faces as a feeding ground.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; slightly more ocean-influenced than inner lagoon sites
-- **Entry**: Boat dive; longer transit time from main island
-- **Best For**: Intermediate divers seeking less-dived sites with more natural marine behavior
-
-## Marine Life Highlights
-
-Grey reef sharks, humphead wrasse, dogtooth tuna (occasional), eagle rays (occasional), hawksbill turtles, table corals, staghorn corals, fusiliers, snapper, groupers.
+No marine life reports exist for this site from the source consulted.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

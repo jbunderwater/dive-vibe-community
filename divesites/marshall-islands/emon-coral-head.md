@@ -2,8 +2,8 @@
 name: Emon Coral Head
 lat: 8.741
 lng: 167.7341
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 9
 entryType: boat
 siteType: reef
 ref: null
@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## Emon Coral Head
 
-Emon Coral Head is a lagoon pinnacle dive near Emon Beach on Kwajalein Island, one of the most conveniently accessible coral head sites in the atoll's dive circuit and a popular choice for divers based on the main island.
+Emon Coral Head is a small, shallow coral mound just beyond the roped swim area at Emon Beach, used locally as a landmark for reaching the Toilet Bowl and other sites further out.
 
 ## Overview
 
-Emon Beach was historically one of the primary recreational areas on Kwajalein Island, and the coral head bearing its name sits in the lagoon a short boat ride from the island's coastline. The proximity to the base makes it a frequently dived site with well-documented marine life and predictable conditions. The pinnacle rises through the lagoon's clear water to within a few meters of the surface, creating a full 25-meter depth range for exploration.
+Per Dave Fortin's Kwajalein dive log, this "little coral head/mound is just out beyond the roped area at Emon," at the drop from about 15 to 30 feet (roughly 4.5-9m), roughly in line with the roped swim area's east-west rope near the Kayak Shack. The source notes it has historically been marked with a float and is "a great landmark for heading out to the toilet bowl and points beyond."
 
-The coral head structure is mature and well-colonized — decades of growth in the protected lagoon environment have produced dense hard coral formations covering the pinnacle faces, with gaps and crevices throughout providing habitat complexity. Visibility in this part of the lagoon typically reaches 25–30 meters, and currents are mild year-round.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 9 meters
 
-The site is known for particularly dense concentrations of anemones with clownfish — multiple large anemone colonies are scattered across the upper sections of the coral head, each hosting its resident clownfish pair. Moray eels of several species — including the massive giant moray — have long-established territories in the crevices. Hawksbill turtles are regular visitors, grazing on sponge growth across the pinnacle. Humphead wrasse and large parrotfish patrol the perimeter.
+## Marine Life
 
-The sandy skirt around the base of the coral head harbors garden eels and the occasional blue-spotted ribbontail ray. Macro enthusiasts will find nudibranchs and flatworms on the encrusted coral surfaces throughout the dive.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–30 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; convenient access from Kwajalein Island
-- **Best For**: Intermediate divers; good choice for first-time Kwajalein lagoon dive
-
-## Marine Life Highlights
-
-Clownfish and anemones, moray eels (including giant moray), hawksbill turtles, humphead wrasse, parrotfish, garden eels, blue-spotted ribbontail rays, nudibranchs, groupers, snapper.
+No marine life reports exist for this site from the source consulted.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

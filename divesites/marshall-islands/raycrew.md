@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Raycrew
 
-Raycrew is a reef dive site in the Marshall Islands, named for the manta ray and eagle ray aggregations historically reported at this site — a fitting name given the atoll's rich pelagic feeding grounds.
+Raycrew is an OpenStreetMap-listed dive site in Majuro Atoll; despite the name, no independently published source describes it as a distinct dive site with its own reported characteristics.
 
 ## Overview
 
-Located near the coordinates that place it in the lagoon or outer reef system of the Marshall Islands' central atolls, Raycrew rises from the sandy substrate to form a hard coral reef structure accessible from around 5 meters down to the 25-meter limit. The site's name suggests regular encounters with large rays, and the surrounding waters — nutrient-rich and clear — attract the planktivorous manta rays that the Marshall Islands are periodically famous for producing.
+"Raycrew" is also the name of a real, currently operating dive business in Majuro (raycrew.jp), which offers guided dives and charters around the atoll. A close web search — including the operator's own site, ScubaBoard, regional dive guides (infomarshallislands.com, scubatravel.co.uk, padi.com), and general Majuro dive-site listings (which name sites such as The Bridge, Aneko/Eneko Island, Kalalen Pass, and Ejit Island) — found no site independently called "Raycrew" and no description of its depth, topography, or marine life. This OSM point most plausibly marks the operator's shop, mooring, or a locally-known but unpublished house site rather than a widely documented dive site. A previous version of this page presented specific ray, shark, and turtle encounters as if confirmed for this site; those claims could not be traced to any source and have been removed.
 
-The reef structure combines hard coral tables and branching corals in the shallows with larger coral bommies and reef walls in the mid-range depths. Visibility typically runs 25–35 meters in the open lagoon or outer reef environment, with warm water year-round around 28°C.
+## Site Information
 
-## What to Expect
+- **Location**: Majuro Atoll, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-The headline attraction is the ray encounters that give the site its name — manta rays are not guaranteed but are a real possibility, particularly on current-influenced dives when plankton concentrations bring them up to feed. Eagle rays are more consistently sighted, gliding in formation through the open water column. Grey reef sharks are standard company on the deeper sections of the reef.
+## Marine Life
 
-The reef itself is productive — dense fish populations including schools of snapper, sweetlips, and surgeonfish over the coral structures, humphead wrasse in the mid-depths, and triggerfish and parrotfish working the shallows. Hawksbill turtles are regular sightings grazing across the coral gardens.
+No site-specific marine life reports have been found. General Majuro Atoll diving (per regional guides) includes hard and soft coral, turtles, reef sharks, and occasional manta and eagle ray sightings, but none of this is confirmed for this specific point.
 
-## Practical Information
+## Entry and Exit
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Moderate; can be current-dependent for ray encounters
-- **Entry**: Boat dive
-- **Best For**: Intermediate divers; excellent for reef and pelagic photography
-
-## Marine Life Highlights
-
-Manta rays (seasonal), eagle rays, grey reef sharks, hawksbill turtles, humphead wrasse, snapper schools, sweetlips, surgeonfish, barracuda, parrotfish, triggerfish, butterflyfish.
+No independently documented access information exists for this exact site. Boat access from Majuro is assumed based on the entry_type tag, consistent with how the local operator runs dives around the atoll.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Description based on OSM data alone. No independent site-specific source was found despite searching the Raycrew operator site, regional Marshall Islands dive guides, and general web search. Last updated 2026-08-12.*

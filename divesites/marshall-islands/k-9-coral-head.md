@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## K-9 Coral Head
 
-K-9 Coral Head is one of the most popular and frequently dived coral head sites in Kwajalein Atoll, the central site in a cluster of K-series pinnacles and often used as the reference point for planning multi-pinnacle dive trips in the inner lagoon.
+K-9 Coral Head is a large, easy-to-find coral head that serves as a good anchor point for accessing the nearby K-9 West Coral Head.
 
 ## Overview
 
-K-9 is the most dived coral head in Kwajalein Atoll and effectively serves as the anchor site for the entire K-series cluster. The main pinnacle rises from 25 meters to within two or three meters of the surface, and its dense hard coral encrustation and abundant marine life make it a reliable first dive for visiting divers orienting themselves to Kwajalein lagoon conditions. The surrounding sandy lagoon floor is clean and well-lit, providing excellent navigation reference and a comfortable working environment. The site is close enough to the K-9 Deep and K-9 West pinnacles to allow multi-site exploration on a single dive.
+Per Dave Fortin's Kwajalein dive log: "this is a big coral head that is easy to find... It does work as a good place to anchor if you want to run over to K-9 West for a little bit and then come back and spend your remaining dive on this larger coral head."
 
-Visibility in this part of the lagoon consistently reaches 25–35 meters, and the calm, protected environment means K-9 is diveable year-round in virtually any conditions.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-K-9's status as the most frequently dived site in the area means its marine residents are unusually habituated to divers — humphead wrasse and large groupers approach closely, and the moray eels poke their heads from crevices with less wariness than on more rarely visited sites. Whitetip reef sharks rest on sandy ledges at the base and are completely relaxed with slow-moving divers. The pinnacle top at 5–8 meters has exceptional hard coral diversity — brain corals, table corals, and encrusting formations in excellent condition.
+## Marine Life
 
-The sandy floor around the base is reliably productive for garden eels, blue-spotted ribbontail rays, and the occasional stingray. Clownfish occupy multiple anemone colonies throughout the upper structure, and nudibranchs are found on the encrusted surfaces throughout the dive depth range.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; often combined with K-9 Deep and K-9 West
-- **Best For**: Intermediate divers; excellent first lagoon dive; reliable close-up marine encounters
-
-## Marine Life Highlights
-
-Humphead wrasse, large groupers, whitetip reef sharks, moray eels, clownfish and anemones, garden eels, blue-spotted ribbontail rays, brain corals, table corals, nudibranchs.
+No marine life reports exist for this site from the source consulted.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

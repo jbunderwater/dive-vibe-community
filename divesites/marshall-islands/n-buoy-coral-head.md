@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## N-Buoy Coral Head
 
-N-Buoy Coral Head is a lagoon pinnacle in the inner Kwajalein dive circuit, named for the navigational buoy position "N" on the atoll's lagoon chart and one of the northern-most frequently dived coral heads in the main cluster.
+N-Buoy Coral Head is a small, pole-marked coral head near Kwajalein's ski area, close to an unrelated wreck ("N-East") and a documented bottle-collecting area.
 
 ## Overview
 
-N-Buoy Coral Head sits in the northeastern quadrant of the inner Kwajalein Lagoon dive zone, named for the navigational buoy designation used to chart this section of the lagoon. The pinnacle is part of the same broad system of coral head sites that defines Kwajalein diving, rising from the sandy lagoon floor through 25 meters of clear water to near the surface. The site is frequently included as part of a northeastern lagoon dive circuit, often combined with the Emon, N-Buoy, and ER-2 coral head cluster.
+Per Dave Fortin's Kwajalein dive log, this coral head is "marked with a pole and a flashing green light" almost directly out from the ski platform, and its top "can be a little smooth and tricky to anchor on." The source notes "a nice anemone to the SW... right near the top," the "N-East" wreck to the east, and that the general area to the east is "known for an abundance of coke bottles." It cautions about boat traffic on the east side of the coral head.
 
-Current circulation in the northeastern lagoon zone tends to be slightly stronger than in the sheltered southern areas near the main island, providing better nutrient delivery and correspondingly more active fish behavior.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-N-Buoy is recognized as a reliable site for large-school aggregations — fusiliers and snapper form dense, swirling schools around the pinnacle that can number in the hundreds. On good days, the school mass creates a shimmering curtain around the coral head visible from a distance underwater. Grey reef sharks cruise through and around these schools in the feeding behavior typical of current-influenced Kwajalein sites.
+## Marine Life
 
-The hard coral quality at N-Buoy is high, with intact table coral formations and large brain corals throughout the structure. Moray eels occupy crevices at multiple depths. The shallow crown (5–10 meters) is excellent for safety stops — high fish density and colorful coral growth in well-lit water.
+An anemone is documented near the top of the coral head, southwest side. No fish species are named by the source.
 
-## Practical Information
+## Safety Considerations
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate
-- **Entry**: Boat dive
-- **Best For**: Intermediate divers; good for large schooling fish aggregations
-
-## Marine Life Highlights
-
-Fusilier schools, snapper schools, grey reef sharks, moray eels, table corals, brain corals, humphead wrasse, groupers, butterflyfish, damselfish.
+The source cautions about heavy boat traffic on the east side of this coral head.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

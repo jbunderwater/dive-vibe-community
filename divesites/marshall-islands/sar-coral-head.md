@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## SAR Coral Head
 
-SAR Coral Head is a Kwajalein Lagoon pinnacle dive in the western inner lagoon zone, where "SAR" likely derives from a military search-and-rescue (SAR) related reference point used in the atoll's operational chart system — a name that hints at the thoroughness with which the US military mapped every feature of the world's largest atoll lagoon.
+SAR Coral Head is a small coral head just inside SAR Pass, undived by the sole source at the time of writing.
 
 ## Overview
 
-SAR Coral Head occupies a position in the western lagoon sector between the main central cluster and the more remote Kwaj-series sites, making it an accessible intermediate option for divers venturing toward the western lagoon zone. The pinnacle structure is well-developed, rising from the sandy lagoon floor through 25 meters of clear water, with the mature hard coral encrustation typical of established Kwajalein sites.
+Per Dave Fortin's Kwajalein dive log: "this small coral head is located not too far inside of SAR pass. I have not dove it yet. Any reports are welcome!" No firsthand description of the coral head's structure or marine life is available.
 
-The western lagoon position delivers slightly more current-influenced conditions than the most sheltered inner sites, producing better nutrient delivery and correspondingly more active mid-water fish populations.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-SAR Coral Head has developed a reputation among regular Kwajalein divers for consistently reliable encounters with large groupers — particularly squaretail coral groupers and camouflage groupers that hold territory in the deeper crevices and hover at the base of the pinnacle. These are large, heavyweight fish that hold their position with confidence as divers approach, providing outstanding close-up photography opportunities. Humphead wrasse patrol the upper sections. Grey reef sharks circle at mid-water.
+## Marine Life
 
-The sandy floor immediately around the pinnacle base is productive — blue-spotted ribbontail rays rest here regularly, and several pairs of garden eels maintain colonies in the adjacent sand. The coral surfaces throughout the pinnacle support moray eels, lionfish, and the usual range of Kwajalein lagoon macro subjects.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate
-- **Entry**: Boat dive
-- **Best For**: Intermediate divers; noted for large grouper encounters
-
-## Marine Life Highlights
-
-Large groupers (squaretail coral, camouflage), humphead wrasse, grey reef sharks, blue-spotted ribbontail rays, garden eels, moray eels, lionfish, snapper, fusiliers.
+No marine life reports exist for this site from any source consulted.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

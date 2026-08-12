@@ -13,31 +13,23 @@ addedBy: osm_import
 
 ## Troys Coral Head
 
-Troys Coral Head is a personal-name site in Kwajalein Atoll's western lagoon dive circuit — one of several Kwajalein sites named after specific divers or military personnel who discovered or regularly dived the site in the decades of American occupation diving, giving it a more personal character than the grid-reference buoy names of its neighbors.
+Troys Coral Head is described as one of Kwajalein's most popular dive sites, known for resident sharks patrolling schooling fish around the coral head.
 
 ## Overview
 
-Located in the western inner lagoon zone between the main cluster and the Kwaj-series sites, Troys sits in a section of the lagoon with characteristics intermediate between the highly sheltered inner sites and the more ocean-influenced outer western zone. The coordinates place it in the part of the lagoon that sees regular use by experienced Kwajalein divers on half-day western excursions.
+Per Dave Fortin's Kwajalein dive log: "this is a very popular dive site here at Kwajalein. It is known for it's sharks. If sharks make you uneasy, this is not the place for you! Schools of fish swarm around the coral head and the sharks continually patrol through the school looking for a meal." The source also notes "a nice anemone on the southern side of the coral head near the top and some very nice coral on the northern side," and cautions that heavy anchor traffic has visibly damaged parts of the site over time.
 
-The pinnacle rises from 25 meters to near the surface with the mature hard coral encrustation typical of the best Kwajalein sites. Visibility is consistently 25–35 meters in this section of the lagoon, and mild currents maintain excellent conditions year-round.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-Troys is considered one of the more aesthetically pleasing dive sites in the western cluster — the pinnacle has a distinctive profile visible underwater from a distance, and the coral growth pattern creates natural swim-throughs and overhangs that give the dive a sense of architectural exploration. Humphead wrasse and large parrotfish hold territory on the upper sections. Grey reef sharks and whitetip reef sharks are regular mid-water sightings.
+## Marine Life
 
-The site is frequently cited by regular Kwajalein divers as a personal favorite — the combination of good coral structure, reliable fish life, moderate isolation from the busy inner cluster, and the personal history embedded in its name give it a character that the purely alphanumeric buoy-name sites lack.
-
-## Practical Information
-
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate
-- **Entry**: Boat dive; western lagoon excursion
-- **Best For**: Intermediate divers; well-regarded by repeat Kwajalein visitors
-
-## Marine Life Highlights
-
-Humphead wrasse, large parrotfish, grey reef sharks, whitetip reef sharks, moray eels, groupers, snapper, butterflyfish, hard coral swim-throughs.
+Sharks (species not specified by the source) are reported regularly patrolling schools of fish (species not specified) around the coral head. An anemone is documented on the coral head's southern side.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*

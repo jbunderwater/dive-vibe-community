@@ -2,10 +2,10 @@
 name: Hiroshi West End
 lat: 5.2679461
 lng: 162.9747035
-difficulty: Intermediate
-maxDepth: 22
+difficulty: Beginner
+maxDepth: 13
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 4031637102
 addedBy: osm_import
@@ -13,31 +13,31 @@ addedBy: osm_import
 
 ## Hiroshi West End
 
-Hiroshi West End is the sheltered western face of a reef system in Kosrae, Marshall Islands, offering calmer conditions and a different biological character compared to the more current-exposed Hiroshi East End nearby.
+**Editorial note (data-quality flag):** this site's coordinates place it in Kosrae, Federated States of Micronesia — a different country from the Republic of the Marshall Islands, roughly 950 km away. It is misfiled in this destination's dataset and is described here accurately as a Kosrae site; it should be moved to a Kosrae/Micronesia destination file rather than treated as a Marshall Islands site.
+
+Hiroshi West End is one of two OSM points in this dataset that fall on Kosrae's well-known Hiroshi Point (buoy 15), a wall dive on the island's southern coast.
 
 ## Overview
 
-The western orientation of this reef end provides natural shelter from the prevailing easterly current, making Hiroshi West End a consistently calmer dive with more predictable conditions and less current dependency. The maximum depth of 22 meters is identical to the East End, and both sites share the same exceptional hard coral coverage characteristic of Kosrae's reef systems — one of the best-preserved reef ecosystems in the Marshall Islands chain.
+Multiple independent Kosrae dive guides describe Hiroshi Point as a wall/drift dive around 13 meters (40 feet) deep, suitable for all skill levels including snorkelers. The site is known for huge coral heads estimated by local operators at over 2,000 years old, dense Christmas tree worm and invertebrate cover, and a resident population of juvenile blacktip reef sharks reported at the site. Divers commonly report eagle rays, large schools of parrotfish, reef sharks, barracuda, squid, hawksbill turtles, and jellyfish. Current is generally mild to moderate along the wall.
 
-The sheltered conditions make the West End particularly suitable for less current-experienced intermediate divers and for photographers who want more stable conditions to set up macro shots. The reduced current also concentrates different species here — creatures that prefer calmer water to the current-seeking fish that dominate the East End.
+This dataset carries the site as two separate points ("East End" and "West End"), but none of the sources consulted describe Hiroshi Point as having two distinct, separately-named ends — they all refer to a single site (Hiroshi Point / buoy 15). The two OSM points most likely mark two positions along the same wall (e.g. different mooring or entry points) rather than two independently characterized dive sites. Treat the content below as applying to the Hiroshi Point area generally, not to a confirmed "west end" specifically.
 
-## What to Expect
+## Site Information
 
-The West End's sheltered position favors large resident species. Humphead wrasse are almost always present, cruising the reef edge with their characteristic lumbering grace. Hawksbill turtles rest on the coral heads and graze leisurely on sponge growth. In the crevices and under overhangs, resident moray eels — including the large spotted moray — are easily approached. The coral gardens host a dense assemblage of butterflyfish, triggerfish, and parrotfish.
+- **Location**: Southern coast of Kosrae, Federated States of Micronesia (buoy 15)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 13 meters
 
-The absence of strong current allows divers to hover near cleaning stations and watch extended grooming interactions between cleaner wrasse and larger reef fish. Night diving on the West End is reportedly excellent, with octopus hunting across the reef crest, crabs emerging from crevices, and flatworms displaying their vivid coloration.
+## Marine Life
 
-## Practical Information
+Reported at Hiroshi Point across multiple sources: eagle rays, schools of parrotfish, reef sharks (including a reported juvenile blacktip shark nursery), barracuda, squid, hawksbill turtles, and jellyfish. These reports describe the Hiroshi Point site as a whole; none of the sources distinguish sightings by "east" vs. "west" end.
 
-- **Depth Range**: 5–22 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild; sheltered from prevailing current
-- **Entry**: Boat dive
-- **Best For**: Intermediate divers; ideal for macro photography and close-up reef encounters
+## Entry and Exit
 
-## Marine Life Highlights
-
-Humphead wrasse, hawksbill turtles, moray eels (spotted, giant), butterflyfish, triggerfish, parrotfish, cleaner wrasse stations, octopus (night), flatworms, nudibranchs, table corals.
+Boat dive to buoy 15 off Kosrae's southern coast. Described as suitable for divers of all levels and for snorkelers given the shallow (~13m) maximum depth.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Kosrae Diving — site list](https://kosraediving.com/sites.php), [Bluewater Dive Travel — Kosrae Diving](https://www.bluewaterdivetravel.com/kosrae-diving), [Dive Adventures — Kosrae](https://diveadventures.com.au/region/micronesia-kosrae/), [Scuba Diver Life — Best Scuba Diving in Kosrae](https://scubadiverlife.com/best-scuba-diving-kosrae/). Last updated 2026-08-12.*

@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## K-9 Deep Coral Head
 
-K-9 Deep Coral Head is the deeper companion site to K-9 Coral Head in Kwajalein Atoll's inner lagoon, named for its position at the deeper base sections of the K-9 pinnacle system where the coral growth transitions to more specialized deep-water species.
+K-9 Deep Coral Head is a smaller, slightly deeper companion to the larger K-9 Coral Head, near a small-arms and artillery debris field and the "G-Buoy Wreck."
 
 ## Overview
 
-Despite the "Deep" designation, K-9 Deep Coral Head sits within the standard 25-meter recreational limit — the name reflects its character as the deeper-reaching extension of the K-9 pinnacle system rather than a dramatically different depth profile. The site focuses on the 15–25 meter zone at the base of the K-9 structure where the hard coral grades into more specialized deep-water encrusting communities, with large sponge formations, sea fans beginning to establish, and a noticeably different species composition from the coral-rich shallow summit.
+Per Dave Fortin's Kwajalein dive log: "this coral head is not far from the larger K-9 coral head. It is smaller and a little deeper (about 20-25 feet) to the top which makes it slightly harder to see. There is some small arms ammo on the top of the coral head and numerous artillery shells can easily be found in the area around this coral head." The source notes it is a good anchor point for accessing the nearby "G-Buoy Wreck," about three minutes away.
 
-The site is most productively dived as the second dive of a K-9 cluster trip — descend here first to the deepest extent, then gradually ascend to the K-9 main site for the safety stop. This profile maximizes bottom time at depth while ending the dive in the rich shallow zone.
+## Site Information
 
-## What to Expect
+- **Location**: Kwajalein Atoll's inner lagoon, Republic of the Marshall Islands
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 
-The deeper sections of the K-9 system attract larger predatory species that prefer the mid-water zone. Grey reef sharks patrol consistently at depth here, and the sandy floor at the base yields some of the best chances in the cluster for spotting nurse sharks resting in the open. Larger groupers — including the substantial coral grouper — hold territory in the deeper crevices and are less approachable than their shallow-water counterparts.
+## Marine Life
 
-The encrusting sponge and invertebrate growth in the 18–25 meter zone is visually impressive — colonies of orange cup corals fill the spaces between larger sponge formations, and feather stars (crinoids) are well-represented on the upper faces of the deeper coral structures.
+No marine life reports exist for this site from the source consulted.
 
-## Practical Information
+## Safety Considerations
 
-- **Depth Range**: 15–25 meters (focuses on deeper end of K-9 cluster)
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; best dived before K-9 main site on a multi-pinnacle dive
-- **Best For**: Intermediate divers with interest in deeper reef communities
-
-## Marine Life Highlights
-
-Grey reef sharks, nurse sharks (occasional), large coral groupers, feather stars (crinoids), orange cup corals, encrusting sponges, moray eels, lionfish.
+Small-arms ammunition and artillery shells have been reported on and around this coral head. Do not touch or disturb any munitions; treat all such objects in the lagoon as live.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.php) (single firsthand source; general Kwajalein wreck-diving context corroborated separately by [Divers Alert Network](https://dan.org/alert-diver/article/kwajaleins-shipwrecks/) and [X-Ray Mag](https://xray-mag.com/content/kwajalein-atoll-wrecks-pacific), though neither names this specific site). This falls short of the 3-independent-source bar for full validation — treat site-specific details as single-source. Last updated 2026-08-12.*
