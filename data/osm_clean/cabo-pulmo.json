@@ -12,8 +12,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "myscubadivinggearguide.com,bajadiving.com,adventuresinbaja.com,costacoralmexico.com,girlsthatscuba.com,scubaboard.com",
-      "last_qa_date": "2026-07-23",
-      "qa_note": "cabopulmodiving.com (prior source) is offline (account suspended) as of 2026-07-23 and was dropped. Wreck history has genuine cross-source conflicts on vessel type and length; documented in markdown rather than resolved by guesswork."
+      "last_qa_date": "2026-08-12",
+      "qa_note": "cabopulmodiving.com (prior source) is offline (account suspended) as of 2026-07-23 and was dropped. Wreck history has genuine cross-source conflicts on vessel type and length; documented in markdown rather than resolved by guesswork. RE-CONFIRMED 2026-08-12: fresh search reconfirmed the 27m/90ft tuna trawler + 1978 sinking account as the most-cited version, alongside the previously documented conflicting mid-1980s/40-foot-vessel accounts; also reconfirmed bull sharks, garden eels, grunt/snapper schools, and moray eels at the site. No changes made to the existing conflict-flagged text."
     }
   },
   {
@@ -61,8 +61,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "cabopulmo.com,mexicotravelbuddy.com",
-      "last_qa_date": "2026-07-23",
-      "qa_note": "UNRESOLVED (2026-07-23 re-audit): prior validation_source (cabopulmodiving.com, scubaboard.com, diveoclock.com) does not actually mention Las Navajas anywhere in re-checked content - none confirmed on re-fetch. Only two thin sources found naming the site as a snorkel-tour stop; no independent source confirms the canyon topography or reef-shark/ray specifics previously in the markdown. Left validated=true per instruction not to flip on re-audit, but this site does not meet the 3-independent-source bar and needs further research. Description hedged accordingly."
+      "last_qa_date": "2026-08-12",
+      "qa_note": "UNRESOLVED (2026-07-23 re-audit): prior validation_source (cabopulmodiving.com, scubaboard.com, diveoclock.com) does not actually mention Las Navajas anywhere in re-checked content - none confirmed on re-fetch. Only two thin sources found naming the site as a snorkel-tour stop; no independent source confirms the canyon topography or reef-shark/ray specifics previously in the markdown. Left validated=true per instruction not to flip on re-audit, but this site does not meet the 3-independent-source bar and needs further research. Description hedged accordingly. Re-checked 2026-08-12: searched again for a third independent source; a search-result snippet attributed to mikotravel.com described canyon topography and hammerhead sharks/sea lions, but the domain returned a DNS resolution failure on direct fetch and could not be verified as a live, citable source, so it was NOT added. This site still has only 2 independent sources (cabopulmo.com, mexicotravelbuddy.com) despite being marked validated=true, which is below the 3-source policy bar; flagging for correction in a future pass rather than silently padding or flipping validated today."
     }
   },
   {

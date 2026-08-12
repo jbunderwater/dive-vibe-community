@@ -60,8 +60,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "math.ucr.edu,padi.com,bajadiving.com,dan.org",
-      "last_qa_date": "2026-08-10",
-      "qa_note": "Re-audited 2026-08-10: re-pulled math.ucr.edu and padi.com directly. Sinking year conflict persists and remains unresolved: PADI cites June 19 1975; UCR primary account cites June 1976 (corroborated by Hurricane Liza timeline, Sept 30 1976). Both documented in description. All other facts (320ft x 50ft LST hull, 60ft depth, cargo of fuel, no casualties) reconfirmed unchanged."
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Re-audited 2026-08-10: re-pulled math.ucr.edu and padi.com directly. Sinking year conflict persists and remains unresolved: PADI cites June 19 1975; UCR primary account cites June 1976 (corroborated by Hurricane Liza timeline, Sept 30 1976). Both documented in description. All other facts (320ft x 50ft LST hull, 60ft depth, cargo of fuel, no casualties) reconfirmed unchanged. RE-CONFIRMED 2026-08-12: fresh search corroborated hull dims (320x50ft LST), Suwanee/Swanee Reef collision, fuel cargo, no passenger casualties, ~60ft/18m depth, ~70% intact. The 1975 vs 1976 sinking-year conflict persists unresolved across sources and remains documented as such."
     }
   },
   {
@@ -127,8 +127,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": true,
       "validation_source": "caboprivateguide.com,divers-guide.com,dan.org,padi.com",
-      "last_qa_date": "2026-08-10",
-      "qa_note": "Re-audited 2026-08-10: re-pulled caboprivateguide.com and PADI directly; also cross-checked via independent search. Seizure date (April 1995), migrant count (88 men/7 women), length (55-56m), sinking date (Nov 18 1999), and depth (22m) all reconfirmed unchanged across sources with no new conflicts."
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Re-audited 2026-08-10: re-pulled caboprivateguide.com and PADI directly; also cross-checked via independent search. Seizure date (April 1995), migrant count (88 men/7 women), length (55-56m), sinking date (Nov 18 1999), and depth (22m) all reconfirmed unchanged across sources with no new conflicts. RE-CONFIRMED 2026-08-12: fresh search corroborated April 1995 seizure, 88 men/7 women migrant count, November 1999 deliberate sinking as artificial reef near Isla Ballena, ~70ft/22m depth. No new conflicts found."
     }
   },
   {

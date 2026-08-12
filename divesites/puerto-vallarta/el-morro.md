@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # El Morro
 
-Series of rock pinnacles 6 miles west of Las Marietas outside Banderas Bay — a 15-meter submarine tunnel entered at 27-30m, gorgonians, giant oceanic mantas, nurse and whitetip sharks, and whale sharks in early summer; minimum 25 dives required
+Series of rock pinnacles 6 miles west of Las Marietas outside Banderas Bay — a roughly 40-meter submarine tunnel entered at 27-30m and exiting at 15-18m, gorgonians, giant oceanic mantas, nurse and whitetip sharks, and whale sharks in early summer; minimum 25 dives required
 
 ## Overview
 

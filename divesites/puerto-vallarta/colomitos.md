@@ -19,7 +19,7 @@ Small secluded cove between Boca de Tomatlán and Las Caletas — well-protected
 
 Colomitos is a small, secluded cove located between Boca de Tomatlán and Las Caletas on the southern shore of Banderas Bay, about 45 minutes from Puerto Vallarta by boat. The cove is notably well-protected from wave action, and local operators frequently recommend it as one of the most reliable alternatives when swell or wind makes other sites marginal — visibility at Colomitos often remains good even on days when other sites in the bay are affected by surface conditions.
 
-The underwater topography combines wall sections with reef and sandy bottom, dropping to around 37 meters at depth. The sheltered position of the cove and the wall orientation create varied diving across a relatively compact area. Rays are a particular highlight — the site is known for encounters with multiple ray species including stingrays, electric rays, and broader bat rays across the sandy sections and deeper sandy flats.
+The underwater topography combines wall sections with reef and sandy bottom, dropping to around 37 meters at depth. The sheltered position of the cove and the wall orientation create varied diving across a relatively compact area. Rays are a particular highlight — Banderas Scuba Republic attributes an unusually wide range of ray species to this stretch of coast (Colomitos and neighboring Boca de Tomatlán together), including striped rays, butterfly rays, stingrays, round rays, eagle rays, electric rays, and guitarfish, across the sandy sections and deeper sandy flats.
 
 ## Site Information
 
@@ -35,7 +35,7 @@ The underwater topography combines wall sections with reef and sandy bottom, dro
 
 ## Marine Life
 
-Rays are the defining marine life at Colomitos — stingrays, electric rays, and bat rays are regularly encountered across the sandy sections. Butterflyfish are abundant on the reef areas. The wall sections host moray eels, nudibranchs, and invertebrates typical of southern Banderas Bay reef structure. Sea turtles visit the cove, and eagle rays pass through occasionally. The reef-to-sand transition zones are particularly productive for small creatures and juvenile fish.
+Rays are the defining marine life at Colomitos — striped rays, butterfly rays, stingrays, round rays, eagle rays, electric rays, and guitarfish are all named by Banderas Scuba Republic for this section of coast. The wall sections host moray eels, jawfish, flatfish, and invertebrates typical of southern Banderas Bay reef structure. Sea turtles visit the cove. An earlier version of this page also claimed "bat rays" and "butterflyfish" specifically; neither term matches the source's actual species list (which names butterfly ray, a ray species, not butterflyfish), so both have been corrected. The reef-to-sand transition zones are particularly productive for small creatures and juvenile fish.
 
 ## Dive Profile
 
@@ -53,4 +53,4 @@ Access is by dive boat, approximately 45 minutes from Puerto Vallarta. Giant str
 - A torch improves visibility in the deeper wall sections and reveals creatures tucked into crevices
 
 ---
-*Sources: [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Visit Puerto Vallarta – Colomitos Beach](https://visitpuertovallarta.com/things-to-do/beaches/colomitos-beach), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/). Last updated 2026-06-26.*
+*Sources: [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Visit Puerto Vallarta – Colomitos Beach](https://visitpuertovallarta.com/things-to-do/beaches/colomitos-beach), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/). Re-audited 2026-08-12: re-pulled Banderas Scuba Republic; corrected the ray species list to match the source (removed unsupported "bat rays," corrected "butterflyfish" to butterfly ray, added striped ray/round ray/guitarfish). Boca Divers and Puerto Vallarta Net returned server errors on re-fetch attempts this session (likely transient) and could not be independently re-verified today. Last updated 2026-08-12.*

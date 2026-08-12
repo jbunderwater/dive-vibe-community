@@ -61,7 +61,8 @@
       "validated": "true",
       "validation_source": "banderas-scuba.com, padi.com, vallarta-adventures.com, divinglore.com",
       "notes": "Depth corrected from 38m to 27m (sources: Banderas Scuba 85ft/26m, PADI 70-90ft/21-27m). Vessel ran aground Feb 16 2017, intentionally sunk Oct 24 2017. 10-14 accompanying vessels at site.",
-      "last_qa_date": "2026-06-26"
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Re-audited 2026-08-12: re-confirmed grounding date (Feb 16 2017), intentional sinking date (Oct 24 2017), and ~200m off Playas Gemelas / ~85ft depth location against Banderas Scuba Republic and independent web search corroboration (mexiconewsdaily.com coverage of PV artificial reef program context). No factual changes required; existing content held up."
     }
   },
   {
@@ -92,8 +93,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, bocadivers.net, visitpuertovallarta.com",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "bocadivers.net,banderas-scuba.com,visitpuertovallarta.com,puertovallarta.net",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Re-audited 2026-08-12: corrected ray species list to match Banderas Scuba Republic (removed unsupported bat rays, corrected butterflyfish to butterfly ray, added striped ray/round ray/guitarfish). Boca Divers and Puerto Vallarta Net returned server errors on re-fetch (transient, not independently re-verified today)."
     }
   },
   {
@@ -156,8 +158,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, padi.com, vallartaundersea.com",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "banderas-scuba.com,padi.com,vallarta-adventures.com,bocadivers.net,divinglore.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Re-audited 2026-08-12: removed unsupported hammerhead/bull shark species claim; PADI confirms only generic sharks common sighting at this site."
     }
   },
   {
@@ -221,9 +224,10 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "banderas-scuba.com, divinglore.com, 360mexico.org, sayulitaentourage.com",
+      "validation_source": "banderas-scuba.com,divinglore.com,360mexico.org,sayulitaentourage.com,justgottadive.com",
       "notes": "Tunnel length: sources say 40 meters long (Banderas Scuba) or 195 ft. Entry ~27-30m, exit ~15-18m. Removed fabricated '15-meter' tunnel length from prior version.",
-      "last_qa_date": "2026-06-26"
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Re-audited 2026-08-12: removed marlin/eagle rays as unconfirmed at this site; downgraded dolphins/sailfish to single-source (Just Gotta Dive); removed claim that humpback whales can be heard/seen during dives (only regional bay-wide winter presence confirmed); added nurse sharks, whitetip sharks, sea lions per Banderas Scuba Republic."
     }
   },
   {
@@ -238,9 +242,10 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com, sayulitaentourage.com",
+      "validation_source": "banderas-scuba.com,sayulitaentourage.com,vallartaundersea.com",
       "notes": "Boat transit ~2 hours (not '1 hour or more'). Minimum 25 logged dives per most operators. 36 nautical miles from PV confirmed.",
-      "last_qa_date": "2026-06-26"
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Re-audited 2026-08-12: removed sailfish and wahoo as unconfirmed; confirmed reef sharks, marlin, dolphins via Sayulita Entourage. mexico.greatestdivesites.com returned 503 and was dropped."
     }
   },
   {
@@ -255,8 +260,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, 360mexico.org",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "banderas-scuba.com,360mexico.org,justgottadive.com",
+      "last_qa_date": "2026-08-12",
+      "qa_note": "Re-audited 2026-08-12: removed unsupported hammerhead shark claim; confirmed sailfish/tuna via Just Gotta Dive (generic sharks only, no species named). Previously cited Sayulita Entourage Corbeteña page does not describe El Sequial specifically and was dropped."
     }
   },
   {
