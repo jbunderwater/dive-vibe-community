@@ -1,475 +1,486 @@
 [
-  {
-    "name": "Alung banua",
-    "lat": 1.6174836,
-    "lon": 124.7559944,
-    "osm_id": 4881340466,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "name": "Alung banua",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Alung banua",
+        "lat": 1.6174836,
+        "lon": 124.7559944,
+        "osm_id": 4881340466,
+        "osm_type": "node",
+        "depth": 25,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Beginner",
+        "tags": {
+            "name": "Alung banua",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "divezone.net, scubadiving.place, manadonow.com"
     },
-    "validated": "true",
-    "validation_source": "divezone.net/divesite/alung-banua, scubadiving.place/divesite/alung-banua"
-  },
-  {
-    "name": "Muka kampung",
-    "lat": 1.5944429,
-    "lon": 124.7738773,
-    "osm_id": 4881341034,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Muka kampung",
-      "name:en": "Turtle City",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Muka kampung",
+        "lat": 1.5944429,
+        "lon": 124.7738773,
+        "osm_id": 4881341034,
+        "osm_type": "node",
+        "depth": 22,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Muka kampung",
+            "name:en": "Turtle City",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "padi.com, twofishdivers.com, scubadiving.place"
     },
-    "validated": "true",
-    "validation_source": "twofishdivers.com/blog/bunaken-dive-site-the-turtle-city, padi.com/dive-site/indonesia/muka-kampung"
-  },
-  {
-    "name": "Mike's",
-    "lat": 1.6351474,
-    "lon": 124.7431438,
-    "osm_id": 7293794211,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Mike's",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Mike's",
+        "lat": 1.6351474,
+        "lon": 124.7431438,
+        "osm_id": 7293794211,
+        "osm_type": "node",
+        "depth": 40,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Mike's",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Removed an unverifiable claim that the site was named after a 1980s expatriate diver — no source confirms this naming story."
+        },
+        "validated": "true",
+        "validation_source": "divezone.net, originaldiving.com, tasikria.com"
     },
-    "validated": "true",
-    "validation_source": "divezone.net/divesite/mike-s-point, originaldiving.com/diving-mikes-point-dive-site"
-  },
-  {
-    "name": "Pangulingan",
-    "lat": 1.652869,
-    "lon": 124.7109802,
-    "osm_id": 7293798869,
-    "osm_type": "node",
-    "depth": 35,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Pangulingan",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Pangulingan",
+        "lat": 1.652869,
+        "lon": 124.7109802,
+        "osm_id": 7293798869,
+        "osm_type": "node",
+        "depth": 35,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Pangulingan",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "starfish.ch, rajalaut-bunaken.com, zubludiving.com"
     },
-    "validated": "true",
-    "validation_source": "murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
-  },
-  {
-    "name": "Likuan 1",
-    "lat": 1.5960885,
-    "lon": 124.7679605,
-    "osm_id": 7293799532,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Likuan 1",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Likuan 1",
+        "lat": 1.5960885,
+        "lon": 124.7679605,
+        "osm_id": 7293799532,
+        "osm_type": "node",
+        "depth": 40,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Likuan 1",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "murexresorts.com, dive-the-world.com, starfish.ch"
     },
-    "validated": "true",
-    "validation_source": "murexresorts.com/diving-bunaken, dive-the-world.com/diving-sites-indonesia-manado-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
-  },
-  {
-    "name": "Bualo",
-    "lat": 1.6091646,
-    "lon": 124.7007471,
-    "osm_id": 7293804572,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Bualo",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Bualo",
+        "lat": 1.6091646,
+        "lon": 124.7007471,
+        "osm_id": 7293804572,
+        "osm_type": "node",
+        "depth": 30,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Bualo",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Corrected location: this site is on Manado Tua, not Bunaken Island's south-west coast as previously described; coordinates and rajalaut-bunaken.com both place it off Manado Tua."
+        },
+        "validated": "true",
+        "validation_source": "rajalaut-bunaken.com, murexresorts.com"
     },
-    "validated": "true",
-    "validation_source": "murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
-  },
-  {
-    "name": "Pangalisan",
-    "lat": 1.6031842,
-    "lon": 124.7828835,
-    "osm_id": 7293823010,
-    "osm_type": "node",
-    "depth": 35,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Pangalisan",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Pangalisan",
+        "lat": 1.6031842,
+        "lon": 124.7828835,
+        "osm_id": 7293823010,
+        "osm_type": "node",
+        "depth": 35,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Pangalisan",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "siladen.com, divejourney.io, murexresorts.com"
     },
-    "validated": "true",
-    "validation_source": "twofishdivers.com/diving/bunaken-island-manado, lumbalumbaresort.com/dive-snorkel/bunaken-national-park"
-  },
-  {
-    "name": "Timur 2",
-    "lat": 1.6145663,
-    "lon": 124.7832989,
-    "osm_id": 7293830209,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Timur 2",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Timur 2",
+        "lat": 1.6145663,
+        "lon": 124.7832989,
+        "osm_id": 7293830209,
+        "osm_type": "node",
+        "depth": 40,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Timur 2",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "divezone.net, dive-the-world.com, tasikria.com"
     },
-    "validated": "true",
-    "validation_source": "divezone.net/divesite/bunaken-timur, murexresorts.com/diving-bunaken"
-  },
-  {
-    "name": "Timur 1",
-    "lat": 1.5968544,
-    "lon": 124.7834687,
-    "osm_id": 7293830868,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Timur 1",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Timur 1",
+        "lat": 1.5968544,
+        "lon": 124.7834687,
+        "osm_id": 7293830868,
+        "osm_type": "node",
+        "depth": 40,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Timur 1",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "divezone.net, dive-the-world.com, murexresorts.com"
     },
-    "validated": "true",
-    "validation_source": "divezone.net/divesite/bunaken-timur, murexresorts.com/diving-bunaken"
-  },
-  {
-    "name": "Raymond's",
-    "lat": 1.6314914,
-    "lon": 124.7365353,
-    "osm_id": 7293834009,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Raymond's",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Raymond's",
+        "lat": 1.6314914,
+        "lon": 124.7365353,
+        "osm_id": 7293834009,
+        "osm_type": "node",
+        "depth": 35,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Raymond's",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Removed an unverifiable \"named after a local dive guide\" origin story and depth-40m claim not supported by sources; depth corrected to match Tasik Ria's documented 5-35 m range."
+        },
+        "validated": "true",
+        "validation_source": "divezone.net, tasikria.com, divessi.com"
     },
-    "validated": "true",
-    "validation_source": "divessi.com/mydiveguide/divesite/16877, merapitours.com/indonesia/sulawesi/dive-spots-bunaken"
-  },
-  {
-    "name": "Siladen 1",
-    "lat": 1.625049,
-    "lon": 124.7971832,
-    "osm_id": 7293834999,
-    "osm_type": "node",
-    "depth": 35,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Siladen 1",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Siladen 1",
+        "lat": 1.625049,
+        "lon": 124.7971832,
+        "osm_id": 7293834999,
+        "osm_type": "node",
+        "depth": 35,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Siladen 1",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Removed unverified claims distinguishing this site from Siladen 2 (west vs east orientation, photographer favourite, etc.) — no source separately documents numbered Siladen sections."
+        },
+        "validated": "true",
+        "validation_source": "siladen.com, starfish.ch, murexresorts.com"
     },
-    "validated": "true",
-    "validation_source": "siladen.com/experiences/dive-sites-map, murexresorts.com/diving-bunaken"
-  },
-  {
-    "name": "Mandolin",
-    "lat": 1.6111528,
-    "lon": 124.7329308,
-    "osm_id": 7293835957,
-    "osm_type": "node",
-    "depth": 35,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Mandolin",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Mandolin",
+        "lat": 1.6111528,
+        "lon": 124.7329308,
+        "osm_id": 7293835957,
+        "osm_type": "node",
+        "depth": 35,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Mandolin",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Difficulty changed from Intermediate to Advanced based on Dive The World's documented 20-45 m depth range; flagged as a source discrepancy against PADI's milder description."
+        },
+        "validated": "true",
+        "validation_source": "dive-the-world.com, divezone.net, padi.com"
     },
-    "validated": "true",
-    "validation_source": "divezone.net/divesite/mandolin, zubludiving.com/articles/best-dive-sites-bunaken"
-  },
-  {
-    "name": "Tanjung Parigi",
-    "lat": 1.6283536,
-    "lon": 124.7664363,
-    "osm_id": 7293838994,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Tanjung Parigi",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Tanjung Parigi",
+        "lat": 1.6283536,
+        "lon": 124.7664363,
+        "osm_id": 7293838994,
+        "osm_type": "node",
+        "depth": 35,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Tanjung Parigi",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Removed unsourced claims of hammerhead sightings, Spanish mackerel, and specific soft-coral bush descriptions — no source consulted names these for Tanjung Parigi."
+        },
+        "validated": "true",
+        "validation_source": "padi.com, divezone.net, dive-the-world.com"
     },
-    "validated": "true",
-    "validation_source": "padi.com/dive-site/indonesia/tanjung-1, murexresorts.com/diving-bunaken"
-  },
-  {
-    "name": "Tanjung Kopi",
-    "lat": 1.6532373,
-    "lon": 124.6917917,
-    "osm_id": 7293845147,
-    "osm_type": "node",
-    "depth": 35,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Tanjung Kopi",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Tanjung Kopi",
+        "lat": 1.6532373,
+        "lon": 124.6917917,
+        "osm_id": 7293845147,
+        "osm_type": "node",
+        "depth": 35,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Tanjung Kopi",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Corrected location from \"Bunaken Island's north coast\" to Manado Tua, matching coordinates and both dive-the-world.com and starfish.ch."
+        },
+        "validated": "true",
+        "validation_source": "dive-the-world.com, starfish.ch, murexresorts.com"
     },
-    "validated": "true",
-    "validation_source": "divescover.com/dive-site/tanjung-kopi, starfish.ch/dive/Bunaken.html"
-  },
-  {
-    "name": "Likuan 3",
-    "lat": 1.6050969,
-    "lon": 124.766713,
-    "osm_id": 7293846657,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Likuan 3",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Likuan 3",
+        "lat": 1.6050969,
+        "lon": 124.766713,
+        "osm_id": 7293846657,
+        "osm_type": "node",
+        "depth": 40,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Likuan 3",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "divezone.net, murexresorts.com, dive-the-world.com"
     },
-    "validated": "true",
-    "validation_source": "divezone.net/divesite/likuan-iii, murexresorts.com/diving-bunaken"
-  },
-  {
-    "name": "Bango",
-    "lat": 1.692911,
-    "lon": 124.779776,
-    "osm_id": 7293846778,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Bango",
-      "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"perplexity\" - not a real source. Updated with proper domain sources. Bango is confirmed as sandy slope/wall dive on Bangka Island, north of Bunaken. depth_max 40m confirmed."
+    {
+        "name": "Bango",
+        "lat": 1.692911,
+        "lon": 124.779776,
+        "osm_id": 7293846778,
+        "osm_type": "node",
+        "depth": 30,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Bango",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "CORRECTED 2026-08-12: previous markdown fabricated a location on \"Bangka Island\" with an invented \"1980s Bunaken comparison\" narrative and specific depth/current numbers not supported by any source. Coordinates place this site in the Mantehage-area waters of Bunaken National Marine Park, not on Bangka Island (a real, separate island roughly 40 km further north-east). A prior tags.notes entry (dated 2026-06-08) claiming \"depth_max 40m confirmed\" and a Bangka Island location could not be re-verified and has been removed; the working depth value of 30 m is retained from the original OSM import pending better sourcing. Also removed a stray top-level depth_max=40 field left by the earlier bad QA pass, inconsistent with the depth=30 field."
+        },
+        "validation_source": "rajalaut-bunaken.com, coralviewbunaken.com",
+        "validated": "true"
     },
-    "depth_max": 40,
-    "validation_source": "murexresorts.com,zubludiving.com,dive-the-world.com",
-    "validated": "true"
-  },
-  {
-    "name": "Likuan 2",
-    "lat": 1.6008372,
-    "lon": 124.7657464,
-    "osm_id": 7293847717,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Likuan 2",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Likuan 2",
+        "lat": 1.6008372,
+        "lon": 124.7657464,
+        "osm_id": 7293847717,
+        "osm_type": "node",
+        "depth": 40,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Likuan 2",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "divezone.net, murexresorts.com, dive-the-world.com"
     },
-    "validated": "true",
-    "validation_source": "divezone.net/divesite/likuan-ii, murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
-  },
-  {
-    "name": "S. Utara",
-    "lat": 1.6411589,
-    "lon": 124.7966476,
-    "osm_id": 7293848927,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "drift",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "S. Utara",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "S. Utara",
+        "lat": 1.6411589,
+        "lon": 124.7966476,
+        "osm_id": 7293848927,
+        "osm_type": "node",
+        "depth": 40,
+        "site_type": "drift",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "S. Utara",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "siladen.com, divernet.com, dive-the-world.com"
     },
-    "validated": "true",
-    "validation_source": "siladen.com/experiences/dive-sites-map, divernet.com/bunaken-national-marine-park-superlative-siladen"
-  },
-  {
-    "name": "Panorama",
-    "lat": 1.6140994,
-    "lon": 124.7673411,
-    "osm_id": 7293852596,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Panorama",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Panorama",
+        "lat": 1.6140994,
+        "lon": 124.7673411,
+        "osm_id": 7293852596,
+        "osm_type": "node",
+        "depth": 25,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Panorama",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12"
+        },
+        "validated": "true",
+        "validation_source": "bunakendiving.co"
     },
-    "validated": "true",
-    "validation_source": "bunakendiving.co, murexresorts.com/diving-bunaken"
-  },
-  {
-    "name": "Siladen 2",
-    "lat": 1.624023,
-    "lon": 124.8079861,
-    "osm_id": 7293852782,
-    "osm_type": "node",
-    "depth": 35,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Siladen 2",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Siladen 2",
+        "lat": 1.624023,
+        "lon": 124.8079861,
+        "osm_id": 7293852782,
+        "osm_type": "node",
+        "depth": 35,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Siladen 2",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Removed fabricated claims distinguishing this site from Siladen 1 by orientation, current strength and shark frequency — no source separately documents numbered Siladen sections."
+        },
+        "validated": "true",
+        "validation_source": "siladen.com, starfish.ch, murexresorts.com"
     },
-    "validated": "true",
-    "validation_source": "siladen.com/experiences/dive-sites-map, murexresorts.com/diving-bunaken"
-  },
-  {
-    "name": "Fukui Point",
-    "lat": 1.6164622,
-    "lon": 124.7506949,
-    "osm_id": 7293853324,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "name": "Fukui Point",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Fukui Point",
+        "lat": 1.6164622,
+        "lon": 124.7506949,
+        "osm_id": 7293853324,
+        "osm_type": "node",
+        "depth": 20,
+        "site_type": "reef",
+        "entry_type": "boat",
+        "difficulty": "Beginner",
+        "tags": {
+            "name": "Fukui Point",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Removed an unverifiable naming-origin story and a claim of reliable blacktip/whitetip shark sightings \"on ebbing tides\" — no source consulted confirms sharks specifically at Fukui Point."
+        },
+        "validated": "true",
+        "validation_source": "zubludiving.com, tasikria.com, twofishdivers.com"
     },
-    "validated": "true",
-    "validation_source": "divezone.net/divesite/fukui-point, thalassamanado.com/diving-bunaken-fukui-point, padi.com/dive-site/indonesia/fukui-point"
-  },
-  {
-    "name": "Muka Gereja",
-    "lat": 1.6232667,
-    "lon": 124.7199353,
-    "osm_id": 7293853962,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "name": "Muka Gereja",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Muka Gereja",
+        "lat": 1.6232667,
+        "lon": 124.7199353,
+        "osm_id": 7293853962,
+        "osm_type": "node",
+        "depth": 25,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Muka Gereja",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Corrected location association from Bunaken Island to the Manado Tua island cluster per Tasik Ria's site classification; difficulty raised from Beginner to Intermediate given sourced descriptions of wind-dependent strong currents."
+        },
+        "validated": "true",
+        "validation_source": "bottles-up-diving.com, tasikria.com, merapitours.com"
     },
-    "validated": "true",
-    "validation_source": "merapitours.com/indonesia/sulawesi/dive-spots-bunaken, murexresorts.com/diving-bunaken"
-  },
-  {
-    "name": "Cela Cela",
-    "lat": 1.6102864,
-    "lon": 124.7683402,
-    "osm_id": 7293854507,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "name": "Cela Cela",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Cela Cela",
+        "lat": 1.6102864,
+        "lon": 124.7683402,
+        "osm_id": 7293854507,
+        "osm_type": "node",
+        "depth": 30,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Intermediate",
+        "tags": {
+            "name": "Cela Cela",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Difficulty raised from Beginner to Intermediate due to a source conflict on current strength; flagged explicitly in the markdown rather than picking one description."
+        },
+        "validated": "true",
+        "validation_source": "dive-the-world.com, tasikria.com, divezone.net"
     },
-    "validated": "true",
-    "validation_source": "divezone.net/divesite/celah-celah, padi.com/dive-site/indonesia/celah-celah"
-  },
-  {
-    "name": "Tengah",
-    "lat": 1.6190291,
-    "lon": 124.7326589,
-    "osm_id": 7293855286,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Tengah",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Tengah",
+        "lat": 1.6190291,
+        "lon": 124.7326589,
+        "osm_id": 7293855286,
+        "osm_type": "node",
+        "depth": 40,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Tengah",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Removed unsourced claims of resting whitetip reef sharks, Napoleon wrasse and April-May whale shark sightings — none appear in the one site-specific source located."
+        },
+        "validated": "true",
+        "validation_source": "bottles-up-diving.com"
     },
-    "validated": "true",
-    "validation_source": "bottles-up-diving.com/BU_divingother_bunaken, murexresorts.com/diving-bunaken"
-  },
-  {
-    "name": "Gorango",
-    "lat": 1.6942341,
-    "lon": 124.7534642,
-    "osm_id": 7293857725,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Gorango",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+    {
+        "name": "Gorango",
+        "lat": 1.6942341,
+        "lon": 124.7534642,
+        "osm_id": 7293857725,
+        "osm_type": "node",
+        "depth": 30,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Gorango",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "CORRECTED 2026-08-12: previous markdown placed this site on \"Bangka Island\" with an invented resort history and commercial framing (\"has hosted small-scale dive resorts since the early 2000s\") not supported by any source. Coordinates and a legacy page title (\"diving-in-paradise-diving-sites-mantehage-island-gorango\") place this site near Mantehage, within Bunaken National Marine Park, not on Bangka Island (a separate, real island roughly 40 km further north-east). Also flagging a direct source conflict on shark frequency: rajalaut-bunaken.com states the site \"does not have more sharks than any other spot\" despite the shark-referencing name."
+        },
+        "validated": "true",
+        "validation_source": "rajalaut-bunaken.com, coralviewbunaken.com"
     },
-    "validated": "true",
-    "validation_source": "starfish.ch/dive/Bunaken.html, sulawesi-experience.com/news/bunaken-marine-park-dive-sites"
-  },
-  {
-    "name": "Sachiko's",
-    "lat": 1.6312436,
-    "lon": 124.7740207,
-    "osm_id": 7293857965,
-    "osm_type": "node",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Sachiko's",
-      "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
-    },
-    "validated": "true",
-    "validation_source": "divezone.net/divesite/sachiko-s-point, zubludiving.com/articles/best-dive-sites-bunaken, murexresorts.com/diving-bunaken-dive-sites"
-  }
+    {
+        "name": "Sachiko's",
+        "lat": 1.6312436,
+        "lon": 124.7740207,
+        "osm_id": 7293857965,
+        "osm_type": "node",
+        "depth": 40,
+        "site_type": "wall",
+        "entry_type": "boat",
+        "difficulty": "Advanced",
+        "tags": {
+            "name": "Sachiko's",
+            "sport": "scuba_diving",
+            "last_qa_date": "2026-08-12",
+            "notes": "Removed an unverifiable naming-origin story about a Japanese diver — no source consulted confirms this."
+        },
+        "validated": "true",
+        "validation_source": "murexresorts.com, dive-the-world.com, zubludiving.com"
+    }
 ]

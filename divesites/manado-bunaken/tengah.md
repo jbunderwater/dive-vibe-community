@@ -13,29 +13,27 @@ addedBy: osm_import
 
 ## Tengah
 
-Tengah — "middle" in Indonesian — is a wall dive on Bunaken Island's west side that lives between the calmer tourist sites and the more exposed northern sites, offering serious wall diving with a rich, undisturbed coral face.
+Tengah ("middle") sits on Bunaken's west side, named for its position in the middle of the western coast, with a tide-dependent dive plan and one especially large recorded fish sighting.
 
 ## Overview
 
-Tengah occupies the mid-section of Bunaken's western coast, positioned between the sheltered western sites near Fukui and the exposed north-western sites like Mike's and Raymond's. Its name reflects this geography. The wall here receives enough current to feed dense coral growth without the full force of the north-west swells, creating conditions that reward advanced divers who can manage moderate to strong current while appreciating an extremely healthy reef. Because it lacks the same name recognition as the Lekuan series or Fukui, Tengah tends to see fewer divers — a genuine advantage for those who find it.
+Bottles-Up Diving's regional guide is the only site-specific source located for Tengah in this pass. It describes the site as starting from the reef and running toward open sea, with the advice that "in between tides it is a relaxed dive... but if the tides take over, don't fight it, just fly with it" — implying the dive plan depends heavily on timing.
 
 ## What to Expect
 
-The reef crest at Tengah sits at 5–8 metres and the wall drops vertically to 40 metres and beyond. The coral coverage on the wall face is notably pristine — large table corals, massive brain corals, and extensive fields of encrusting corals cover nearly every surface. Between 20 and 35 metres, the wall features prominent ledges where resting whitetip reef sharks and giant sleeping trevally are reliable sightings. Large barrel sponges emerge from the wall at depth, some old enough that their age is measured in decades.
-
-The wall's exposure to moderate current means the resident fish populations are well-fed and active. Dense schools of anthias swarm around the coral formations in the 10–20 metre range, and the transition between the wall face and the open water is often busy with schooling sweetlips, surgeonfish, and fusilier. Napoleon wrasse make regular appearances, and patient divers have reported occasional whale shark sightings in the open water during peak plankton season (April–May).
+Confirmed features are large barrel sponges, shallow caverns described as atmospheric ("mysterious" in the source's own wording, referring to their shape, not to any unexplained history) and rich coral growth. The source's standout report is an unusually large and dense school of striped catfish — described as so big it was initially mistaken for a whale. No source consulted names sharks, Napoleon wrasse or whale sharks at this specific site; those claims from an earlier version of this page have been removed.
 
 ## Conditions
 
-- **Depth range:** 5–40+ m
-- **Visibility:** 15–30 m
-- **Currents:** Moderate to strong; variable direction
-- **Water temperature:** 26–30°C
-- **Best season:** May–October
+- **Depth range:** Field lists 40 m; exact depth not independently confirmed by the source reviewed
+- **Visibility:** 15-25 m (regional estimate, not independently confirmed)
+- **Currents:** Tide-dependent; can be strong when tides are running
+- **Water temperature:** 27-30°C
+- **Best season:** May-October
 
 ## Tips
 
-Tengah rewards divers who take time to examine the wall closely rather than cruising along it quickly. The barrel sponges in particular are worth inspecting — many harbour resident shrimps, crabs, and tiny blennies. Current direction at this site can shift during a dive, so maintain awareness of position relative to the wall throughout.
+Time this dive around slack or manageable tide if possible — the source describes conditions turning from a relaxed exploratory dive to a committed drift once the tide takes hold.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [Bottles-Up Diving - Bunaken](https://www.bottles-up-diving.com/EN-pages/BU_divingother_bunaken_EN.html). Note: Only 1 independent site-specific source found (bottles-up-diving.com); 2 further domains could not be located despite additional searching. Last updated 2026-08-12.*

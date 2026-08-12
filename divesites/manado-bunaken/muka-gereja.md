@@ -2,7 +2,7 @@
 name: Muka Gereja
 lat: 1.6232667
 lng: 124.7199353
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25
 entryType: boat
 siteType: wall
@@ -13,29 +13,27 @@ addedBy: osm_import
 
 ## Muka Gereja
 
-Muka Gereja — "church face" in Indonesian — is a shallow, beginner-friendly wall dive on Bunaken Island's west coast, positioned in front of the island's main church and offering some of the calmest conditions in the national park.
+Muka Gereja is a steep, winding wall associated with Manado Tua island, with caves and overhangs and a silvertip shark sighting recorded on its sandy slope around 30 metres.
 
 ## Overview
 
-Muka Gereja sits on the western side of Bunaken Island in front of the village that holds the island's church, hence its name. The site's west-facing aspect provides excellent shelter from the south-east trade winds that characterise the main diving season, and the wall here is shallower and less vertical than the south-coast giants, making it one of the most forgiving introductions to Bunaken diving. Experienced divers also appreciate Muka Gereja for leisurely macro and photo dives, since the gentle conditions allow extended, unhurried time on the reef.
+Bottles-Up Diving describes Muka Gereja as a steep winding wall with caves and overhanging formations, 15-25 metres deep. Tasik Ria's site list files it under the Manado Tua island cluster rather than Bunaken Island itself, which corrects an earlier version of this page that placed it "in front of the village that holds Bunaken's church" — Muka Gereja does mean "church face," but the associated church and village appear to be on or near Manado Tua rather than Bunaken.
 
 ## What to Expect
 
-The wall at Muka Gereja runs from about 5 metres depth on the crest down to 25 metres before levelling onto a sandy slope. The upper reef crest is exceptionally rich in hard corals — enormous Porites bommies, branching acropora, and table corals create a complex three-dimensional habitat for reef fish. The wall face itself, while not as sheer as at Lekuan or Likuan, is well colonised by encrusting corals, sponges, and small seafans, and the reduced depth means excellent natural light throughout the dive.
-
-Turtles are a consistent presence as at all Bunaken wall sites. The shallower profile makes turtle interactions more intimate — watching a hawksbill or green turtle hover at 8 metres in perfect visibility is a highlight the site regularly provides. Macro life here is rewarding: nudibranchs in multiple species, ornate ghost pipefish, and frogfish have all been recorded. The sandy bottom at 25 metres is worth checking for garden eels, which emerge from their burrows in the sand and sway in the current.
+Bottles-Up Diving reports barrel sponges, butterflyfish, angelfish, parrotfish, catfish, sea snakes, whitetip sharks, turtles, scorpionfish, crabs and nudibranchs. A separate source notes a silvertip shark sighting on the sandy slope around 30 metres, plus giant clam and banded pipefish.
 
 ## Conditions
 
-- **Depth range:** 5–25 m
-- **Visibility:** 15–25 m
-- **Currents:** Very light; one of the calmest sites in the park
-- **Water temperature:** 27–30°C
-- **Best season:** Year-round; west aspect offers protection in all seasons
+- **Depth range:** 15-30 m
+- **Visibility:** 15-25 m
+- **Currents:** Variable, strongly wind-dependent; sources note licensed-diver-only conditions when strong
+- **Water temperature:** 27-30°C
+- **Best season:** May-October
 
 ## Tips
 
-Muka Gereja is the ideal orientation dive for first-time Bunaken visitors — the conditions are forgiving, the reef is excellent, and it sets realistic expectations for the quality of diving throughout the park. Take time at the Porites bommies on the reef crest: they host extraordinary communities of invertebrates, fish, and crustaceans that reward slow, patient observation.
+Check wind direction with your operator before this dive — sources describe current strength here as highly wind-dependent, occasionally strong enough to require an experienced diver rating.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [Bottles-Up Diving - Bunaken](https://www.bottles-up-diving.com/EN-pages/BU_divingother_bunaken_EN.html), [Tasik Ria - Bunaken Dive Sites](https://tasikria.com/dive-sites/), [Merapi Tours - Bunaken Dive Spots](https://www.merapitours.com/indonesia/sulawesi/dive-spots-bunaken). Last updated 2026-08-12.*
