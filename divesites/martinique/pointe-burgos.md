@@ -23,8 +23,8 @@ The site is formed by a basaltic lava dome that separates Grande Anse beach from
 
 - **Location**: Les Anses d'Arlet, southwest Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Wall/drop-off dive
-- **Difficulty Level**: Advanced (a shallow 3-12m plateau exists for beginners, but the main dive requires experience with drop-offs and current)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 60 meters
 
 ## Marine Life

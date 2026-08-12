@@ -23,7 +23,7 @@ Grande Anse Reef is recorded as a shallow, beginner-friendly reef in southwest M
 
 - **Location**: Southwest Martinique, near Grande Anse d'Arlet (unconfirmed exact match)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 

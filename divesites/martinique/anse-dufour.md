@@ -23,9 +23,9 @@ The cove is bordered by headlands that shelter it from prevailing swells. Dive-s
 
 - **Location**: Les Anses d'Arlet area, southwest Martinique
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters (shallow turtle zone is 0-7m; outer drop-off reaches ~25m)
+- **Maximum Depth**: 25 meters
 
 ## Marine Life
 

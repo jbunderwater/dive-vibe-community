@@ -13,49 +13,23 @@ addedBy: osm_import
 
 ## Banc du Singe
 
-Banc du Singe — the Monkey Bank — is an intermediate reef dive off Martinique's southwest coast near Sainte-Luce, known for a combination of healthy coral structures and the possibility of encountering larger pelagic species on the deeper reef margin.
+Banc du Singe — the Monkey Bank — is a charted reef bank near Plage de la Pointe Marin, Sainte-Anne, southern Martinique, close to Caye Duprey.
 
 ## Overview
 
-Situated on the open southern Caribbean shelf, Banc du Singe features more exposed conditions than the sheltered caye sites, giving it an intermediate character suited to divers with some experience. The reef structure rises from a sandy bottom to 8 meters at its crest and descends to 18 meters on the outer face. Hard coral coverage is above average, with significant brain coral formations and gorgonian sea fans at depth. Visibility ranges from 15 to 25 meters depending on conditions. Water temperature averages 27°C.
+**Unresolved (2026-08-12 QA):** This entry's only prior source was a single, non-independent "perplexity" citation. General web search confirms the bank's existence and approximate location (near Pointe Marin beach, adjacent to Caye Duprey), but no independent dive-shop, forum, or database source describing depth, difficulty, or marine life at this specific site could be found. The marine-life content from the prior description has been removed as unverified.
 
 ## Site Information
 
-- **Location**: Off south coast Martinique, Sainte-Luce area
+- **Location**: Near Plage de la Pointe Marin, Sainte-Anne, south Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Moderate; can be stronger on the outer bank face
-- **Best Time**: November to May
 
 ## Marine Life
 
-The slightly more exposed location attracts species less commonly seen on the sheltered inner reefs. Caribbean reef sharks are occasional visitors on the outer bank face. Eagle rays glide over the sandy margins, and large barracuda patrol the water column above the reef crest. Sea turtles are resident throughout, and nurse sharks rest under the deeper coral overhangs. The diverse coral structure supports good invertebrate diversity including lobsters and large sponge communities.
-
-## Dive Profile
-
-Descend to the reef crest and explore the shallower zone before moving to the outer face. Current typically runs along the bank face — position yourself to drift with it rather than fight it. Spend time in the deeper gorgonian zone before ascending to the crest for your safety stop.
-
-## Entry and Exit
-
-Boat dive from Sainte-Luce operators. Giant stride entry; live-boat or mooring pickup. SMB deployment on ascent is essential given current variability.
-
-## Tips and Recommendations
-
-- The outer bank face is where larger species are most commonly seen — prioritise this section early in the dive when air is plentiful
-- Current conditions determine the best dive approach — brief carefully with your guide
-- Pair with Banc du Mitan for a two-tank south coast day with varying depth and character
-- An excellent site for divers transitioning from beginner-level to more open-water diving
-
-## Safety Considerations
-
-Current on the outer face can be significant — never dive against a strong current; drift instead. Always deploy SMB before ascending. The depth and current combination means divers should be comfortable with their NDL limits before committing to the deeper sections.
-
-## Photography
-
-The combination of gorgonian sea fans at depth, potential reef shark encounters, and good visibility makes Banc du Singe an excellent wide-angle photography site. Morning light reaches the shallower reef crest well; deeper sections benefit from a good strobe setup.
+No source-confirmed marine-life information exists for this site. Regional Caribbean reef fauna would be expected, but no site-specific report has been found to confirm species here.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*No independently-confirmed site-specific source was found for this entry during the 2026-08-12 QA pass, beyond general geographic confirmation of the bank's location. Last updated 2026-08-12.*

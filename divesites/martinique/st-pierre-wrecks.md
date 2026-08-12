@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## St. Pierre Wrecks
 
-St. Pierre Wrecks is a historic wreck dive in Martinique, Caribbean.
+St. Pierre Wrecks is a collective entry for the diveable wrecks in Saint-Pierre's harbour, sunk in the catastrophic 1902 Mount Pelée eruption — see the separate Le Roraima (épave) and Épave Amelie entries for the two individually documented wrecks.
 
 ## Overview
 
-The bay of Saint-Pierre holds at least eight diveable wrecks, all sunk on 8 May 1902 when the pyroclastic surge from Mount Pelée destroyed the city in under two minutes and capsized every vessel anchored in the harbour. Ships lie at depths ranging from 15 to 60 metres, their hulls now draped in sponges and soft corals and teeming with barracuda, snappers, and trumpetfish — Jacques Cousteau called Saint-Pierre one of the seven wonders of the underwater world. The site requires advanced certification for the deeper wrecks and is considered one of the Caribbean's most historically significant and atmospheric dive destinations.
+Fifteen merchant vessels sank in Saint-Pierre's harbour on 8 May 1902, when the pyroclastic surge from Mount Pelée destroyed the city and capsized the fleet at anchor. Roughly a dozen of those wrecks are diveable today, at depths from about 12 to 60 metres within recreational limits — named wrecks include the Roraima (the largest and most famous), the Amélie/Raisinier, the Biscaye, the Clémentina, the Diamant, the Nord-America, and the Teresa Lo Vigo, among others. The deepest known wreck, the Tamaya, lies at around 85 metres and is beyond recreational diving limits. This entry's wreck count is corrected from "at least eight" based on Wikipedia's wreck-by-wreck inventory of the harbour. The site requires advanced certification for the deeper wrecks and is considered one of the Caribbean's most historically significant and atmospheric dive destinations.
 
 ## Site Information
 
@@ -28,4 +28,4 @@ The bay of Saint-Pierre holds at least eight diveable wrecks, all sunk on 8 May 
 - **Maximum Depth**: 60 meters
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Wrecks of Saint-Pierre harbor — Wikipedia](https://en.wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor), [Aux Antilles — Les célèbres épaves de Saint-Pierre](http://www.aux-antilles.fr/martinique/plongee/plongee-les-celebres-epaves-de-saint-pierre.htm), [Ultramarina — Les épaves de Martinique](https://ultramarina.com/voyage-plongee-caraibes/martinique/les-epaves-de-martinique). Wreck count corrected from "at least eight" to fifteen sunk/about a dozen diveable. Last updated 2026-08-12.*

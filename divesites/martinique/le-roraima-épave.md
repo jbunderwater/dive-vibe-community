@@ -17,9 +17,9 @@ Le Roraima is the most famous of the Saint-Pierre wrecks — a 103-metre iron-hu
 
 ## Overview
 
-The Roraima was a 2,712-gross-ton mixed cargo and passenger steamer built in 1883 at the Aitken & Mansel shipyard in Whiteinch, Glasgow. Originally launched as the *Ghazee* for the English Mogul Line, it was purchased in 1900 by the Quebec Steamship Company and renamed *Roraima*. On the morning of 8 May 1902, the ship had just anchored in Saint-Pierre bay when Mont Pelée unleashed a pyroclastic flow that struck at approximately 8 am. The ship caught fire and burned for three days before finally sinking. Of the 68 people aboard, 11 survived. Jacques Cousteau, who dived the wreck in the 1970s, nicknamed it "The White-haired Wreck" because of the hair-like algae covering the hull.
+The Roraima was a 2,712-gross-ton mixed cargo and passenger steamer built in 1883 at the Aitken & Mansel shipyard in Whiteinch, Glasgow (103.63m long, 11.64m wide). Originally launched as the *Ghazee* for the Mogul Steamship Company, it was purchased on 30 November 1899 by the Quebec Steamship Company and renamed *Roraima*. On the morning of 8 May 1902, the ship had just anchored in Saint-Pierre bay when Mont Pelée unleashed a pyroclastic flow. The ship caught fire and burned for three days before finally sinking. Of the 68 people aboard, sources disagree on the exact number of survivors — accounts range from 11 to 15. Jacques Cousteau, who dived the wreck, nicknamed it "The White-haired Wreck" (also translated "angel-hair wreck" in some French sources) for the hair-like algae covering the hull.
 
-The wreck lies on its keel with a slight list to port, roughly 300 metres from shore. The bow rests at 36 metres and the stern at approximately 55 metres, making this an advanced-level site requiring CMAS 3 or equivalent technical certification and deep and wreck diving experience.
+The wreck lies on its keel with a slight list to port, roughly 300 metres from shore. Dive-shop sources give the bow at 36 metres and the stern at approximately 55 metres; Wikipedia's general figure for the wreck is a 40-60 metre range — the two are compatible, not a genuine conflict. This makes the site an advanced-level dive requiring CMAS 3 or equivalent technical certification and deep and wreck diving experience.
 
 ## Dive Profile
 
@@ -30,7 +30,7 @@ The wreck lies on its keel with a slight list to port, roughly 300 metres from s
 
 ## Marine Life
 
-Schools of barracudas, snappers, and trumpetfish school around the superstructure. Small reef fish inhabit the coral and sponge growth that has colonised the burnt-out iron hull over more than 120 years. Lionfish are now commonly encountered throughout the wreck.
+Large barracudas (solitary and in schools), angelfish, trumpetfish, lizardfish, and large grouper ("sorbes") are reported on the wreck, along with dense sponge growth (large dark-red chimney-shaped sponges, white and orange gorgonians) that has colonised the hull. Claims of lionfish and snappers from an earlier version of this description could not be confirmed by any source and have been removed.
 
 ## Safety Notes
 
@@ -45,4 +45,4 @@ The Roraima offers exceptional wide-angle opportunities: the encrusted hull, bol
 
 ---
 
-*Sources: [Wrecks of Saint-Pierre harbor — Wikipedia](https://en.wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor), [Le Roraima deep wreck dive site — Tribloo](https://tribloo.com/en/dive-sites/74/the-roraima-deep-wreck.html), [Plongée Infos — Roraima 1902](https://www.plongee-infos.com/chaque-jour-une-epave-8-mai-1902-roraima-tamaya-les-naufrages-de-leruption-en-martinique/). Last updated 2026-05-17.*
+*Sources: [Wrecks of Saint-Pierre harbor — Wikipedia](https://en.wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor), [Le Roraima deep wreck dive site — Tribloo](https://tribloo.com/en/dive-sites/74/the-roraima-deep-wreck.html), [Plongée Infos — Roraima 1902](https://www.plongee-infos.com/chaque-jour-une-epave-8-mai-1902-roraima-tamaya-les-naufrages-de-leruption-en-martinique/), [Roraima (navire) — Wikipédia (French)](https://fr.wikipedia.org/wiki/Roraima_(navire)). Marine life cross-checked against [Belle Martinique — Le Roraima](https://bellemartinique.com/la-martinique/mer-nature/epaves-en-martinique/le-roraima/). Re-audited 2026-08-12: vessel identity, build, tonnage, and sinking facts re-confirmed against Wikipedia; purchase date corrected from "1900" to "30 November 1899" and survivor count flagged as disputed (11-15) after cross-checking the French Wikipedia article. Last updated 2026-08-12.*

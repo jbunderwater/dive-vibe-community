@@ -17,7 +17,7 @@ Baignoire de Joséphine is a famous shallow sandbank off the Atlantic coast of M
 
 ## Overview
 
-The site is a raised sandbank located roughly two kilometres offshore from Le François, between the islets Oscar and Thierry on Martinique's Atlantic coast. It takes its name from Empress Joséphine de Beauharnais, Napoleon's first wife, who was born in Martinique and reportedly visited the sandbank to bathe in the warm, sheltered water.
+The site is a raised sandbank located roughly two kilometres offshore from Le François, between the islets Oscar and Thierry on Martinique's Atlantic coast. It takes its name from Empress Joséphine de Beauharnais, Napoleon's first wife, who was born in Martinique. Local tourism sources are explicit that the story of her bathing there is a romantic legend with no historical proof — it has been kept here as a naming legend rather than a verified fact.
 
 The site is accessible only by boat, kayak, or catamaran, and is a frequent stop on half-day and full-day excursions departing from Fort-de-France and Les Trois-Îlets. The seafloor consists of sand, seagrass beds (*herbiers marins*), and dead coral fragments.
 
@@ -38,4 +38,4 @@ As a dive site, Baignoire de Joséphine is uniquely limited to its shallows. Cer
 
 ---
 
-*Sources: [FRS Express des Îles — Baignoire de Joséphine](https://www.frs-express.com/en/news/discover-the-famous-baignoire-de-josephine-in-martinique), [La Baignoire de Joséphine — operator site](https://www.labaignoiredejosephine.com/). Last updated 2026-05-17.*
+*Sources: [FRS Express des Îles — Baignoire de Joséphine](https://www.frs-express.com/en/news/discover-the-famous-baignoire-de-josephine-in-martinique), [La Baignoire de Joséphine — operator site](https://www.labaignoiredejosephine.com/), [Tourcrib — La Baignoire de Joséphine](https://tourcrib.com/en/martinique/what-to-do/baignoire-josephine). Re-audited 2026-08-12: clarified that Joséphine's bathing there is an unproven legend, not a documented historical fact. Last updated 2026-08-12.*

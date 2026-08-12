@@ -23,7 +23,7 @@ Anse Noire is a sheltered bay where volcanic rock outcrops frame the beach and e
 
 - **Location**: Les Anses d'Arlet area, southwest Martinique
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 
