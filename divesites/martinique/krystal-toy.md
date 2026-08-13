@@ -25,9 +25,9 @@ This entry originates from nautical chart data (an OpenStreetMap `seamark:name`/
 
 - **Location**: Off southern Martinique (charted wreck position)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (per nautical chart data; vessel type not independently confirmed)
-- **Difficulty Level**: Intermediate (provisional, based on charted depth only)
-- **Maximum Depth**: 30 meters (per chart data; not independently confirmed by a diver-facing source)
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 

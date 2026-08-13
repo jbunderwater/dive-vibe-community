@@ -23,7 +23,7 @@ The cove at Anse Dufour is flanked by headlands that shelter it from prevailing 
 
 - **Location**: Les Anses d'Arlet area, southwest Martinique
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–20 meters

@@ -3,7 +3,7 @@ name: Épave Amelie
 lat: 14.7249268
 lng: -61.1820679
 difficulty: Beginner
-maxDepth: 6
+maxDepth: 12
 entryType: shore
 siteType: wreck
 ref: null

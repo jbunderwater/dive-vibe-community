@@ -25,9 +25,9 @@ The prior "validated: true" status rested on a single, unattributed AI query rat
 
 - **Location**: Near Pointe Marin / Le Marin, southeast Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (per chart tags; not independently confirmed as a dived site)
-- **Difficulty Level**: Intermediate (provisional, based on charted depth only)
-- **Maximum Depth**: 20 meters (per chart data)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 
 ## Marine Life
 

@@ -25,7 +25,7 @@ Wikipedia's inventory of the Saint-Pierre wrecks and the French underwater-archa
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 60 meters (the deepest of the individually-diveable wrecks in the bay; the *Tamaya* at ~85m is beyond recreational/technical scuba range and not included in this figure)
+- **Maximum Depth**: 60 meters
 
 ---
 *Sources: [Wrecks of Saint-Pierre harbor — Wikipedia](https://en.wikipedia.org/wiki/Wrecks_of_Saint-Pierre_harbor), [Inventaire des sites archéologiques sous-marins — Archéonavale](https://archeonavale.org/martinique/pages/listsite.html), [Espace Plongée Martinique — Les Spots](https://www.espaceplongee-martinique.com/les-spots-de-plongee-en-martinique). Last updated 2026-08-13.*

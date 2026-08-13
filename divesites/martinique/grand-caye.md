@@ -23,9 +23,9 @@ Paradis Plongée, which runs trips here from Sainte-Luce, describes La Grande Ca
 
 - **Location**: East of Sainte-Luce, south coast Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (shallow garden areas begin around 5m; no source gives a single confirmed maximum for the full reef)
+- **Maximum Depth**: 18 meters
 
 ## Marine Life
 

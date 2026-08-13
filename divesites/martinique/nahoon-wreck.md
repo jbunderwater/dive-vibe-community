@@ -25,7 +25,7 @@ Launched in 1909-1911 as the *Quinette de Rochemont*, the ship served the Phares
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters (some sources cite the vessel's length as up to 41m)
+- **Maximum Depth**: 35 meters
 
 ## Marine Life
 

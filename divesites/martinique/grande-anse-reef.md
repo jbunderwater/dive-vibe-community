@@ -23,7 +23,7 @@ The reef at Grande Anse lies in the protected waters directly in front of the be
 
 - **Location**: Grande Anse d'Arlet, southwest Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 15–25 meters
@@ -32,7 +32,7 @@ The reef at Grande Anse lies in the protected waters directly in front of the be
 
 ## Marine Life
 
-Sea turtles are reliably present throughout the Grande Anse area — the same population resident at the adjacent Anse Dufour and Anse Noire sites range this reef regularly. Parrotfish, angelfish, and blue tangs are abundant in the reef zone. The sandy floor at 12–14 meters is productive territory for stingrays and garden eels. Nurse sharks rest under coral overhangs, and barracuda patrol the reef edge.
+Sea turtles are reliably present throughout the Grande Anse area, per Scuba Diving Magazine's regional coverage grouping Grande Anse with Anse Dufour and Anse Noire as a turtle-encounter zone. This re-audit found no site-specific source confirming stingrays, garden eels, nurse sharks, or barracuda at this particular reef; those claims from the previous version of this page have been removed.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ The bay sees fishing boat traffic in the early morning. Deploy SMB on ascent and
 The combination of clear Caribbean water, shallow depth, and active turtle population makes this site excellent for natural-light reef photography. Above-and-below split-level shots from the surface with the village church in the background are iconic Martinique photography.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Scuba Diving Magazine - A Diver's Guide to Martinique](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Martinique Tour - Plongée aux Anses d'Arlet](https://www.martinique-tour.com/profiter/la-plongee-en-martinique/les-spots-de-plongee-des-anses-darlet/), [Mapalmes - Grande Anse d'Arlet](https://www.mapalmes.com/3259/grande-anse-darlet/). Last updated 2026-08-13.*

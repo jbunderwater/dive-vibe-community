@@ -38,4 +38,6 @@ As a dive site, Baignoire de Joséphine is uniquely limited to its shallows. Cer
 
 ---
 
-*Sources: [FRS Express des Îles — Baignoire de Joséphine](https://www.frs-express.com/en/news/discover-the-famous-baignoire-de-josephine-in-martinique), [La Baignoire de Joséphine — operator site](https://www.labaignoiredejosephine.com/). Last updated 2026-05-17.*
+*Re-audited 2026-08-13: content re-confirmed against 3 independent sources; no factual changes required.*
+
+*Sources: [FRS Express des Îles — Baignoire de Joséphine](https://www.frs-express.com/en/news/discover-the-famous-baignoire-de-josephine-in-martinique), [La Baignoire de Joséphine — operator site](https://www.labaignoiredejosephine.com/), [Routard — Baignoire de Joséphine](https://www.routard.com/fr/guide/ameriques/martinique/cote-au-vent/ilet-oscar/baignoire-de-josephine). Last updated 2026-08-13.*

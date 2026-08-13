@@ -25,9 +25,9 @@ The prior "validated: true" status rested on a single, unattributed AI query rat
 
 - **Location**: Southeast Martinique (exact landmark and possible name confusion with a Trois-Îlets-area "Banc Mitan" unresolved)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (per chart tags; not independently confirmed as a dived site)
-- **Difficulty Level**: Beginner (provisional, based on charted depth only)
-- **Maximum Depth**: 15 meters (per chart data)
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 
 ## Marine Life
 

@@ -25,9 +25,9 @@ No dive shop, forum, or research search (in English or French) turned up a named
 
 - **Location**: Atlantic coast, Martinique (specific landmark unconfirmed)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (per chart tags; not independently confirmed as a dived site)
-- **Difficulty Level**: Beginner (provisional, based on charted depth only)
-- **Maximum Depth**: 12 meters (per chart data)
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 
 ## Marine Life
 

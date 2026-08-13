@@ -23,7 +23,7 @@ Separated from Anse Dufour by a short coastal path, Anse Noire is set in a shelt
 
 - **Location**: Les Anses d'Arlet area, southwest Martinique
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 15–20 meters

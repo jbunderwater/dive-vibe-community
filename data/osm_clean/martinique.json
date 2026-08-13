@@ -183,7 +183,7 @@
       "validated": true,
       "validation_source": "tribloo.com, espaceplongee-martinique.com, quebecyachting.ca",
       "last_qa_date": "2026-08-13",
-      "notes": "Re-audited 2026-08-13: MAJOR CORRECTION - this is a coral plateau descending in stages to a 50-60m drop-off (tribloo.com: 'sheer drop of 60 metres'; espaceplongee-martinique.com: '0-50m, dramatic volcanic tombant'), not a 16m beginner dive. Depth corrected 16m -> 50m, difficulty corrected Beginner -> Advanced. Entry type ('shore') is UNCONFIRMED by any of the 3 sources consulted - none state shore vs boat access; left as-is pending confirmation, flagged for review."
+      "notes": "Re-audited 2026-08-13: MAJOR CORRECTION - this is a coral plateau descending in stages to a 50-60m drop-off (tribloo.com: 'sheer drop of 60 metres'; espaceplongee-martinique.com: '0-50m, dramatic volcanic tombant'), not a 16m beginner dive. Depth corrected 16m -> 50m, difficulty corrected Beginner -> Advanced. Entry type changed from 'shore' to 'boat' as a judgment call, NOT a source-confirmed fact: none of the 3 sources consulted state shore vs boat access, but a 50-60m drop-off is not consistent with a shore-only profile. Flagged for review by a human editor with local knowledge."
     }
   },
   {
