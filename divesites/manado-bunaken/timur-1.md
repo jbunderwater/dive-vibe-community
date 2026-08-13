@@ -13,31 +13,25 @@ addedBy: osm_import
 
 ## Timur 1
 
-Timur 1 — "East 1" in Indonesian — is the southernmost of the two Timur wall sites on Bunaken Island's eastern coast, offering a wall dive with strong coral growth and excellent turtle and shark sightings in a less visited section of the park.
+Timur 1 is part of the Bunaken Timur ("East Bunaken") wall system on the east side of Bunaken Island — a steep wall with good reef life and typically no current.
 
 ## Overview
 
-The east coast of Bunaken Island is less frequently dived than the famous south wall, primarily because it faces into the prevailing swell direction for part of the year. Timur 1 and Timur 2, however, are well worth including in a week's diving programme, particularly for divers who have explored the south coast sites. The wall here has a different character: slightly more rugged, with stronger exposure to oceanic influence, and a different fish community that includes species less common on the sheltered south coast.
-
-Timur 1 covers the southern section of the east wall, where the reef crest is at its richest and the wall profile is at its most dramatic. The site drops to 40 metres and beyond.
+Sources describe Bunaken Timur as normal Bunaken diving depth (10-25 m, with the wall itself dropping further), an excellent location for macro photographers thanks to numerous small caves and cracks holding fish and invertebrates, and one of the park's more popular sites overall.
 
 ## What to Expect
 
-The reef crest at Timur 1 runs at 4–6 metres and is covered in outstanding hard coral, particularly large Porites bommies that rise almost to the surface. Green turtles are consistently present — the east coast wall system has a resident turtle population that is less disturbed than the heavily visited south coast sites. Hawksbill turtles, recognisable by their narrow beak and more intricate shell patterning, are seen more frequently here than at many other Bunaken sites.
-
-The wall face below the crest is well colonised by encrusting corals, soft corals, and sponges down to the recreational depth limit. Large barrel sponges are prominent between 20 and 35 metres. Whitetip reef sharks are regularly encountered resting in sandy pockets at depth. The east coast's exposure brings occasional visits by open-ocean species: the site has produced dogtooth tuna sightings and, during the April–May season, hammerhead sharks have been reported in the deep water adjacent to the wall.
+Whitetip reef sharks and turtles are reported "with some luck," alongside butterflyfish, parrotfish, surgeonfish, wrasse, and stingray. A separate source notes the east side of Bunaken as a beautiful reef with rich coral growth and banded sea kraits commonly seen moving along the wall.
 
 ## Conditions
 
-- **Depth range:** 4–40+ m
-- **Visibility:** 15–25 m
-- **Currents:** Moderate; east coast exposure can increase strength seasonally
-- **Water temperature:** 27–30°C
-- **Best season:** May–October; reduce east coast visits during north-east swell season
+- **Depth range:** ~10-40 m
+- **Currents:** Typically none to light
+- **Diving level:** Advanced recommended by some operators, though listed here as Intermediate
 
 ## Tips
 
-Timur 1 and Timur 2 are best combined in a single-day excursion when conditions on the east coast are favourable. The wall at Timur 1 drops sharply and the depth can accumulate quickly — experienced gas management is important. The reef crest here is among the most photogenic in the park for natural-light shallow reef photography.
+The east coast catches different swell patterns than the south coast — check conditions with your operator before planning an east-side day.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [Divezone - Bunaken Timur](https://divezone.net/divesite/bunaken-timur), [Starfish.ch - Bunaken Dive Sites](https://starfish.ch/dive/Bunaken.html), [ScubaDiving.place - Bunaken Dive Sites](https://scubadiving.place/indonesia/bunaken). Last updated 2026-08-13.*

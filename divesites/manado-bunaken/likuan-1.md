@@ -13,29 +13,26 @@ addedBy: osm_import
 
 ## Likuan 1
 
-Likuan 1 is the southernmost section of Bunaken's famous Lekuan wall system — one of the most celebrated wall dives in all of Southeast Asia.
+Likuan 1 (also written Lekuan I) is part of Bunaken Island's celebrated Lekuan wall series, generally regarded as the toughest of the three in terms of current.
 
 ## Overview
 
-Bunaken Island's south coast hosts the Lekuan wall series, and Likuan 1 marks the entry point into this legendary stretch of vertical coral architecture. The wall drops almost sheer from about 3 metres depth down past 40 metres, its face encrusted with enormous barrel sponges, giant seafans, and dense hard coral growth that has been accumulating for decades. This site sits within Bunaken National Marine Park, which protects one of the highest concentrations of marine biodiversity in the Indo-West Pacific — researchers have recorded approximately 70% of all known Indo-West Pacific fish species within the park.
+The wall at Likuan 1 drops with caverns, vertical canyons, and small caves, with reported dive depths ranging from roughly 20 to 41 metres depending on the operator and profile flown. Sources describe it as requiring solid current experience — often recommended for divers with prior logged dive experience rather than as an entry-level Bunaken site.
 
 ## What to Expect
 
-The typical dive profile at Likuan 1 begins on the reef flat in 3–5 metres before dropping over the wall edge. Divers cruise south-to-north along the face, which is packed with life at every depth band. Between 10 and 25 metres, large gorgonian sea fans extend outward into the current, providing shelter for hawkfish and longnose filefish. Barrel sponges here are among the largest in the park — some exceed a metre across. Below 25 metres the wall becomes more dramatic, with undercut sections, small caves, and overhangs draped in soft coral.
-
-Green and hawksbill turtles are an almost certain sighting; this stretch of Bunaken wall is one of the densest turtle habitats in Indonesia. Whitetip reef sharks patrol the base of the wall, and Napoleon wrasse — sometimes reaching a metre in length — are regularly seen drifting along the wall face. Schools of sweetlips, surgeonfish, and yellow-and-black masked bannerfish congregate at the shallower sections. During the safety stop on the reef flat, look for blue-spotted stingrays buried in the rubble and pairs of bumphead parrotfish grazing on the coral.
+Marine life is dense: schools of butterflyfish, bannerfish, fusiliers, and red-toothed triggerfish are a constant backdrop, and bigger fish — giant and bluefin trevally, tuna, sharks, and occasionally eagle rays and blackfin barracuda — pass through the open water. Turtles are notably numerous at this site, with multiple sources describing it as one of the most turtle-dense sections of the Lekuan wall. The wall itself carries soft corals, giant barrel sponges, sea fans, sea whips, and black coral.
 
 ## Conditions
 
-- **Depth range:** 3–40+ m
-- **Visibility:** 15–30 m, typically excellent
-- **Currents:** Moderate; can strengthen at the wall base during tidal changes — the main reason this site is rated Advanced
-- **Water temperature:** 27–30°C
-- **Best season:** May–October (dry season, calmest seas)
+- **Depth range:** ~20-41 m
+- **Currents:** Often strong — the strongest of the Lekuan series
+- **Visibility:** 10-40 m reported
+- **Diving level:** Advanced
 
 ## Tips
 
-Buoyancy control is critical — the wall is a live coral community and contact is damaging. A surface marker buoy is essential as currents can push divers away from the boat pickup zone. If current is running, stay close to the wall for shelter and let guides manage the drift direction. Night dives here reveal a different world of crayfish, lionfish, and nudibranchs emerging from crevices.
+Given the current, plan for a drift-style profile and confirm entry/exit logistics with your boat crew before descending. This is not the site to start your Bunaken diving on.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [ScubaDiving.place - Bunaken Dive Sites](https://scubadiving.place/indonesia/bunaken), [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [PADI Travel - Lekuan 1, 2, 3](https://www.padi.com/dive-site/indonesia/lekuan-1-2-3/). Last updated 2026-08-13.*

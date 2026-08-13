@@ -17,7 +17,7 @@ Anse Noire — the Black Cove — is a small volcanic black-sand beach adjacent 
 
 ## Overview
 
-Separated from Anse Dufour by a short coastal path, Anse Noire is set in a sheltered bay where volcanic rock outcrops frame the beach and extend underwater to form a rugged reef matrix at depths of just 4–8 meters. The black volcanic substrate contrasts visually with the corals and colourful fish, creating an aesthetically striking environment. Hard coral coverage is moderate but fish density is good, and the site is characterised by the same resident turtle population that makes the adjacent Anse Dufour famous. Visibility averages 15–20 meters. Water temperature stays around 26–28°C.
+Separated from Anse Dufour by a short coastal path, Anse Noire is set in a sheltered bay where volcanic rock outcrops frame the beach and extend underwater. According to snorkeling-report.com, the central part of the bay is sand and seagrass, descending quickly to 5-6 metres, while rocky outcrops on either side (roughly 1-3 metres) are colonised by sponges, small corals, and sea fans. Green turtles are common here, generally seen a little deeper than at neighbouring Anse Dufour, most reliably in the sandy/seagrass centre of the bay.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Separated from Anse Dufour by a short coastal path, Anse Noire is set in a shelt
 
 ## Marine Life
 
-Sea turtles are frequently encountered grazing on algae and seagrass between the rocky formations. The volcanic structure hosts a variety of Caribbean reef fish including parrotfish, wrasse, damselfish, and juvenile angelfish. Octopuses are found under rock ledges, making Anse Noire a good site for spotting cephalopods. Cleaning stations on the rocks host cleaner wrasse and banded coral shrimp.
+Green turtles are the confirmed highlight here (snorkeling-report.com, aloelocation.fr), typically found feeding/resting in the bay's sandy/seagrass centre. The rocky margins are colonised by sponges, small corals, and sea fans per snorkeling-report.com. This re-audit found no site-specific source for octopus sightings or cleaning-station activity claimed in the previous version of this page, so those have been removed rather than restated as fact; divers may still encounter them, but it is not a confirmed feature of this specific site.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ The rocky entry can be slippery — move carefully and put fins on before enteri
 The black volcanic rock and sand create an unusual compositional backdrop for Caribbean reef photography. Turtle portraits over dark substrate are striking and distinctive. Macro work on the volcanic rock surfaces reveals nudibranchs, shrimp, and small crab species. Compact cameras and action cameras are well suited to these shallow, bright conditions.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Snorkeling Report - Anse Noire](https://www.snorkeling-report.com/spot/snorkeling-anse-noire-martinique/), [Aloe Location - Anse Noire](https://www.aloelocation.fr/que-faire-anse-noire), [Scuba Diving Magazine - A Diver's Guide to Martinique](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs). Last updated 2026-08-13.*

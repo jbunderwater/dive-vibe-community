@@ -13,29 +13,23 @@ addedBy: osm_import
 
 ## Siladen 1
 
-Siladen 1 is a wall dive on the western side of Siladen Island — a small uninhabited coral island northeast of Bunaken — where pristine reef walls, reliable turtles, and quieter conditions than the main Bunaken sites reward those who make the additional journey.
+Siladen 1 is a dive site on or near Siladen Island, but no source names a site specifically "Siladen 1" — the naming may not match how local operators refer to it.
 
 ## Overview
 
-Siladen Island lies about 2 kilometres east of Bunaken Island and is entirely enclosed within Bunaken National Marine Park. The island is surrounded by walls on most sides, and Siladen 1 represents the western section of this system. Because Siladen's resorts are few and day trip traffic from Manado typically focuses on Bunaken itself, the Siladen sites feel considerably less busy. This relative solitude, combined with wall diving quality that rivals anywhere in the park, makes Siladen 1 a favourite among repeat visitors and divemasters who want an alternative to the more trafficked Lekuan circuit.
+**Data quality note:** Siladen Island's dive sites are documented under several names across sources — "Siladen Wall," "Siladen Jetty," "Siladen Timur" (East), "Siladen Utara" (North), and "Siladen Housereef" all appear in operator and database listings, but none appear as "Siladen 1" or "Siladen 2." This site's coordinates place it on the island's perimeter, which could correspond to one of these named sites, but matching purely by coordinates without a named source confirming it was judged too unreliable for this QA pass. The previously-published description's specific claims (turtles resting in wall cavities, a resident Napoleon wrasse population, ghost pipefish) have been removed as unconfirmed.
 
 ## What to Expect
 
-The wall at Siladen 1 drops from a reef crest at 4–6 metres to around 35 metres, its face covered in healthy hard and soft coral growth. Large seafans are prominent in the 15–25 metre range, and the wall has numerous overhangs and ledge features that make the topography more interesting than a uniform vertical face. Green turtles are consistently present — Siladen's walls are part of the same park ecosystem that makes Bunaken world-famous for turtle density — and they are often found resting undisturbed in small cavities in the wall.
-
-Whitetip reef sharks are regularly spotted resting on sandy patches at depth, and a resident population of Napoleon wrasse patrols this side of the island. Siladen 1 is also notable for the density of smaller reef life: nudibranchs in multiple species, ornate ghost pipefish, and unusual flatworms add a macro dimension to what is primarily a wall dive. The reef crest, with its complex hard coral structure, is particularly rich in juvenile reef fish during the late dry season.
+No site-specific marine-life information could be confirmed for this exact site under this name. Siladen's walls in general are part of the same Bunaken National Marine Park ecosystem known for high turtle density and strong coral cover, but no source confirms particular species at these specific coordinates under this specific name, so none are listed here.
 
 ## Conditions
 
-- **Depth range:** 4–35 m
-- **Visibility:** 15–30 m; often among the best in the park
-- **Currents:** Light to moderate; calmer than north-facing Bunaken sites
-- **Water temperature:** 27–30°C
-- **Best season:** May–October
+Depth, current, and topography values in the site index are carried over from a prior data pass and have not been independently re-confirmed this round.
 
 ## Tips
 
-Siladen sites are best accessed as a dedicated trip from Bunaken resorts or Manado — the additional travel time is worth it for the reduced diver traffic alone. Guides with Siladen-specific knowledge know where the turtles tend to rest on this wall. The reef crest here is excellent for a thorough safety stop; bring a torch to examine the undercut sections just below the crest.
+Confirm with a Siladen-based operator which of their named sites (Siladen Wall, Jetty, Timur, Utara, or Housereef) corresponds to these coordinates before relying on this entry for dive planning.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [Siladen Resort & Spa - Dive Sites Map](https://www.siladen.com/experiences/dive-sites-map/) (general Siladen site listing; exact name match to "Siladen 1" unconfirmed). Last updated 2026-08-13.*

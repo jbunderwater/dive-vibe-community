@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Rocher du Diamant Cave
 
-Rocher du Diamant Cave is a cave dive site in Martinique, Caribbean.
+This entry covers "la faille" (the fissure) - the well-known crack that runs through Diamond Rock islet, marketed by the local dive centre Diamant Sub Club as a dedicated site in its own right ("La Faille du Rocher du Diamant").
 
 ## Overview
 
-The underwater cavern at Rocher du Diamant is a triangular cave formation cut into the base of the famous volcanic islet, rich in sea fans and soft corals and accessible from around 16 metres depth. The cavern's interior offers dramatic light effects where beams filter through the opening, and the surrounding reef shelters hawksbill turtles, moray eels, and crustaceans in the crevices of the basalt walls. This is one of several distinct dive configurations around Diamond Rock — which also served as the Royal Navy's stone frigate HMS Diamond Rock in 1804 — making the site a mix of geological drama and Caribbean marine life.
+Alpha Plongée and Tribloo both describe this feature as a fault/passage roughly 4-5 metres wide and 12-14 metres high, extending about 25 metres through the rock, with an entrance around 15-16 metres depth and striking light effects as sun beams filter through from the far end - sometimes called the "cathedral" for this reason. It is the same physical feature referenced on the main Diamond Rock entry on this site; it is catalogued separately here because several operators (including Diamant Sub Club) sell it as its own guided dive.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Within Diamond Rock islet, ~5km off south Martinique
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
@@ -29,7 +29,7 @@ The underwater cavern at Rocher du Diamant is a triangular cave formation cut in
 
 ## Marine Life
 
-The cavern's interior shelters moray eels, crustaceans, and glassy sweepers that congregate where light beams filter through the triangular opening, while hawksbill turtles are regular visitors to the surrounding basalt reef. Sea fans, soft corals, and sponges cover the cavern walls and adjacent reef, providing habitat for French angelfish, parrotfish, and spiny lobsters in the crevices of the volcanic rock.
+Hawksbill turtles are regular visitors to the surrounding basalt reef, and moray eels and crustaceans (lobsters, crabs) shelter in the crevices, consistent with the wider Diamond Rock fauna reported by Alpha Plongée and Tribloo. Sea fans, soft corals and sponges cover the walls of the passage and adjacent reef. No source specifically confirmed glassy sweepers or French angelfish at this exact feature, so those claims have been removed from the previous version of this page.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Alpha Plongée - Diving at Diamond Rock](https://alphaplongee.com/diving-at-diamond-rock/?lang=en), [Tribloo - Rocher du Diamant / Diamond Rock](https://tribloo.com/en/dive-sites/81/le-rocher-du-diamant---diamond-rock.html), [Diamant Sub Club - La Faille du Rocher du Diamant](https://dscplongee.com/spots-plongee/rocher-diamant/faille-rocher/). Last updated 2026-08-13.*

@@ -13,29 +13,26 @@ addedBy: osm_import
 
 ## Likuan 3
 
-Likuan 3 is the northernmost section of Bunaken Island's famous Lekuan wall series, offering slightly calmer conditions than its neighbours and outstanding wall diving accessible to intermediate divers.
+Likuan 3 (Lekuan III) is the calmer end of Bunaken Island's Lekuan wall series, with none-to-light current typical and a beautiful wall of sandy slopes suited to macro observation.
 
 ## Overview
 
-Where Likuan 1 and 2 are known for their intensity and depth, Likuan 3 provides a more relaxed introduction to Bunaken's signature wall diving experience. The wall still drops sheer from 3–4 metres to well beyond recreational limits, but currents here tend to be more manageable, and the wall crest is rich and varied enough to keep less experienced divers occupied for an entire tank. Part of Bunaken National Marine Park, the site benefits from the same extraordinary biodiversity that defines the entire south-coast wall system.
+Compared to Likuan 1 and 2, this section of the wall is more forgiving, with visibility often reported at 30 metres or better. It is regularly used for night dives and macro photography given the calmer conditions.
 
 ## What to Expect
 
-The wall face between 8 and 25 metres is particularly dense at Likuan 3. Enormous table corals project horizontally from the wall, providing shelter for dense aggregations of glassfish and the predatory trevally that circle them. Large seafans in purples, oranges, and yellows create a spectacular backdrop in photographs. The wall has numerous chimneys and crevices where moray eels — including giant morays exceeding 1.5 metres — peer out from the shadows.
-
-Turtles are consistently present, often feeding on algae and soft corals clinging to the wall face. Bumphead parrotfish occasionally pass through in schools of 20 or more, their excavating bite marks visible on the coral below. The shallow top of the wall is an excellent spot to end the dive — look for juvenile lionfish hiding among the coral rubble, flamboyant cuttlefish on sandy patches, and small schools of moorish idols drifting in formation.
+The headline sighting here is black-tip reef sharks, barracuda, and — with luck — manta rays. Groupers, lionfish, and scorpionfish are also reported, along with sea snakes and turtles, and a good range of nudibranchs and other invertebrates for macro photographers. Emperor angelfish, Napoleon wrasse, and bannerfish round out the reef fish community.
 
 ## Conditions
 
-- **Depth range:** 3–40+ m
-- **Visibility:** 15–25 m
-- **Currents:** Light to moderate; more sheltered than Likuan 1 and 2
-- **Water temperature:** 27–30°C
-- **Best season:** May–October
+- **Depth range:** ~10-40 m
+- **Currents:** None to light
+- **Visibility:** Often 30 m+
+- **Diving level:** Intermediate to advanced
 
 ## Tips
 
-Likuan 3 is often recommended as the starting point for divers new to Bunaken's wall system. Its accessible conditions allow time to settle into correct buoyancy before attempting the more demanding sites. The site transitions smoothly into Panorama further along the wall, and guides sometimes combine both in a single drift dive when current allows.
+Likuan 3's calmer conditions make it a reasonable introduction to the Lekuan wall system before attempting Likuan 1 or 2 in stronger current.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [Divezone - Likuan III](https://divezone.net/divesite/likuan-iii), [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [ScubaDiving.place - Bunaken Dive Sites](https://scubadiving.place/indonesia/bunaken). Last updated 2026-08-13.*

@@ -13,31 +13,24 @@ addedBy: osm_import
 
 ## Bualo
 
-Bualo is a wall dive on the western perimeter of Bunaken Island, offering a moderately challenging dive with good coral coverage, regular turtle encounters, and the occasional pelagic surprise that characterises the island's exposed western sites.
+Bualo is a wall dive on Bunaken Island with a moderate current and a reef structure featuring overhangs.
 
 ## Overview
 
-Bualo occupies a stretch of wall on Bunaken Island's south-west coast, below the main cluster of north-west sites. It sits in a transitional zone between the very sheltered western sites near the village and the more exposed north-western sites like Tengah and Mike's, inheriting some characteristics of each. Currents are moderate and manageable for intermediate divers, and the wall has a friendly profile that makes it accessible without being bland.
-
-The site is not as frequently visited as the Lekuan series or Fukui Point, which gives it a slightly more natural character. Boat traffic is lighter and the fish behaviour tends to be less habituated than at the most heavily visited south coast locations.
+Available site-specific information on Bualo is limited compared to Bunaken's more heavily documented sites. What is confirmed is that it's a reef/wall dive with overhangs and a moderate current, offering a mix of pelagic and smaller reef species.
 
 ## What to Expect
 
-The wall crest at Bualo sits at 5–7 metres, with the face dropping to 30 metres before meeting a sandy slope. The upper wall is covered in healthy hard coral, including large brain corals and branching formations. Soft corals and sponges colonise the steeper sections below 15 metres. Several large crevices cut through the wall between 10 and 20 metres, and these harbour lobsters, moray eels, and in at least one known location, a pair of banded pipefish that locals have reported on multiple dives.
-
-Turtles are a reliable sighting, particularly on the reef crest where they feed on algae and soft coral. The site occasionally produces Napoleon wrasse sightings from the deeper sections of the wall, and groups of bumphead parrotfish have been recorded passing through the area in the early morning. The sandy bottom below the wall holds garden eels in the 25–30 metre range.
+Sources describe a mix of pelagic and small reef species, without naming specific fish or invertebrates confirmed at this exact site. Regional Bunaken fauna (green turtles, reef sharks, Napoleon wrasse, and a wide range of hard and soft coral cover) is broadly typical of walls in this part of the park, but no site-specific marine-life report for Bualo could be confirmed during this QA pass — so none is listed here to avoid attributing unconfirmed sightings.
 
 ## Conditions
 
-- **Depth range:** 5–30 m
-- **Visibility:** 15–25 m
-- **Currents:** Light to moderate; generally predictable
-- **Water temperature:** 27–30°C
-- **Best season:** May–October
+- **Currents:** Moderate
+- **Topography:** Reef/wall with overhangs
 
 ## Tips
 
-Bualo is a solid second or third dive option for divers based on the island who have already covered the headline south coast sites. The crevices in the wall mid-section are worth exploring slowly with a torch — they tend to reveal life that goes completely unnoticed on a first pass. Confirm with your guide whether a Napoleon wrasse is currently resident in the area, as sightings concentrate in certain predictable sections.
+Given the limited site-specific documentation, treat depth and marine-life expectations as approximate until confirmed by your dive operator on site.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [Scuba Diver Life - Best Scuba Diving in Bunaken](https://scubadiverlife.com/best-scuba-diving-bunaken/). Note: only 1 independent domain could be confirmed for this site during this QA pass, well short of our 3-source standard — this entry needs further research. Last updated 2026-08-13.*

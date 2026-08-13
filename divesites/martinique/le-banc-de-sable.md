@@ -13,49 +13,25 @@ addedBy: osm_import
 
 ## Le Banc de Sable
 
-Le Banc de Sable — the Sandbank — is a reef dive located off northern Martinique near Le Prêcheur, in the Atlantic-facing waters north of Saint-Pierre. The site is notable for the wide sandy clearings that alternate with coral structures, creating the distinctive habitat implied by its name.
+Le Banc de Sable is a charted reef bank on Martinique's Atlantic coast. A 2026-08-13 re-audit found the previous description contained a location error and unsourced marine-life detail, both removed below.
 
 ## Overview
 
-Positioned in the northern part of Martinique, Le Banc de Sable sits between the volcanic coastline and deeper water, featuring a reef structure that rises from a broad sandy bottom at 12 meters. Coral formations — primarily brain and star corals — are distributed across the bank with wide sandy patches between, creating varied microhabitats. The northern coast sees fewer divers than the south, keeping conditions relatively undisturbed. Visibility averages 15–25 meters. Water temperature holds around 26–28°C.
+This site's coordinates (14.7664°N, 60.9647°W) place it on the Atlantic/northeast coast of Martinique - not "near Le Prêcheur," as the previous text stated. Le Prêcheur sits on the opposite, northwest Caribbean coast, roughly 30km away. That location claim has been struck rather than corrected, since no source confirms where on the Atlantic coast this bank actually lies relative to named landmarks.
+
+No dive shop, forum, or research search (in English or French) turned up a named, described dive site called "Le Banc de Sable" at or near these coordinates. The origin OpenStreetMap tags (`natural=reef`, `reef=sand`) confirm a charted sand/reef feature exists here, but the previous "validated: true" status rested on a single, unattributed AI query rather than a real source, and has been removed.
 
 ## Site Information
 
-- **Location**: Near Le Prêcheur, northern Martinique
+- **Location**: Atlantic coast, Martinique (specific landmark unconfirmed)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Light to moderate; Atlantic influence
-- **Best Time**: November to May (calmer conditions on northern coast)
+- **Site Type**: Reef (per chart tags; not independently confirmed as a dived site)
+- **Difficulty Level**: Beginner (provisional, based on charted depth only)
+- **Maximum Depth**: 12 meters (per chart data)
 
 ## Marine Life
 
-The sandy clearings at Le Banc de Sable are productive foraging ground for southern stingrays, which are frequently encountered gliding across the open bottom. Sea turtles are present throughout the site, particularly in the shallower reef sections. Goatfish probe the sand in groups, and jawfish occupy burrows at the reef-sand interface. The reef sections host parrotfish, angelfish, and trumpetfish. Nurse sharks are occasionally found resting in deeper sandy pockets.
-
-## Dive Profile
-
-The shallow, level profile (8–12 meters throughout) makes this an accessible dive for beginners. Navigate from the boat to the reef and explore the alternating reef and sand zones. The reef sections offer typical Caribbean reef life; the sandy clearings reward patient observation for sand-dwelling species. Safety stop at 5 meters.
-
-## Entry and Exit
-
-Boat dive from Saint-Pierre or Le Prêcheur operators. Giant stride entry; SMB on ascent. The northern coast access can be combined with a Saint-Pierre wreck dive for a varied two-tank day.
-
-## Tips and Recommendations
-
-- A good site for sand-dwelling species observation — stingrays, garden eels, and jawfish are the key finds
-- The alternating reef-sand terrain keeps the dive interesting despite the shallow, uniform profile
-- Pair with a Saint-Pierre wreck dive for an excellent northern Martinique two-tank combination
-- Arrive early — the northern coast is best dived in the morning before the Atlantic breeze picks up
-
-## Safety Considerations
-
-The northern Atlantic coast can become rough by midday — plan dives in the early morning window. Monitor weather and sea conditions carefully. Deploy SMB before ascending.
-
-## Photography
-
-The sand clearings and good visibility make this an effective natural-light photography site. Stingray portraits on clean sandy substrate, jawfish behaviours at burrow openings, and goatfish probing the sand are distinctive macro and medium-range subjects not easily found at the busier south coast sites.
+No site-specific marine-life source was found. The previous text's claims of stingrays, jawfish, goatfish, and nurse sharks at this specific location could not be traced to any source and have been removed rather than restated as fact.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Description based on OpenStreetMap chart data only. No site-specific dive-shop, forum, or other source could be found despite a search in English and French; the destination's general Atlantic-coast reef fauna may apply but no site-specific reports were located. Last updated 2026-08-13.*

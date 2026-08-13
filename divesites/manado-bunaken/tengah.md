@@ -13,29 +13,25 @@ addedBy: osm_import
 
 ## Tengah
 
-Tengah — "middle" in Indonesian — is a wall dive on Bunaken Island's west side that lives between the calmer tourist sites and the more exposed northern sites, offering serious wall diving with a rich, undisturbed coral face.
+Tengah — "middle" in Indonesian — sits at the middle of Bunaken Island's west side and is known as a fast, current-driven drift dive.
 
 ## Overview
 
-Tengah occupies the mid-section of Bunaken's western coast, positioned between the sheltered western sites near Fukui and the exposed north-western sites like Mike's and Raymond's. Its name reflects this geography. The wall here receives enough current to feed dense coral growth without the full force of the north-west swells, creating conditions that reward advanced divers who can manage moderate to strong current while appreciating an extremely healthy reef. Because it lacks the same name recognition as the Lekuan series or Fukui, Tengah tends to see fewer divers — a genuine advantage for those who find it.
+Depths of 20-45 metres or more are reported, with currents that can be strong. During slack tide divers can choose their own route, but once the tide picks up the current dictates the dive. This is described as a genuinely fast drift dive with meaningful variety from one dive to the next.
 
 ## What to Expect
 
-The reef crest at Tengah sits at 5–8 metres and the wall drops vertically to 40 metres and beyond. The coral coverage on the wall face is notably pristine — large table corals, massive brain corals, and extensive fields of encrusting corals cover nearly every surface. Between 20 and 35 metres, the wall features prominent ledges where resting whitetip reef sharks and giant sleeping trevally are reliable sightings. Large barrel sponges emerge from the wall at depth, some old enough that their age is measured in decades.
-
-The wall's exposure to moderate current means the resident fish populations are well-fed and active. Dense schools of anthias swarm around the coral formations in the 10–20 metre range, and the transition between the wall face and the open water is often busy with schooling sweetlips, surgeonfish, and fusilier. Napoleon wrasse make regular appearances, and patient divers have reported occasional whale shark sightings in the open water during peak plankton season (April–May).
+Between roughly 20 and 45 metres, whip corals form dense stands that require careful buoyancy to avoid entanglement, and small caves at depth hold gorgonians. Reported marine life includes yellowtail fusiliers, parrotfish, batfish, jacks, and occasional reef sharks. Near the end of the dive, the wall gives way to a carpet of sponges and hard and soft corals, where porcelain crabs are reported on bubble coral.
 
 ## Conditions
 
-- **Depth range:** 5–40+ m
-- **Visibility:** 15–30 m
-- **Currents:** Moderate to strong; variable direction
-- **Water temperature:** 26–30°C
-- **Best season:** May–October
+- **Depth range:** ~20-45 m+
+- **Currents:** Often strong; a genuine drift dive at tide change
+- **Diving level:** Advanced
 
 ## Tips
 
-Tengah rewards divers who take time to examine the wall closely rather than cruising along it quickly. The barrel sponges in particular are worth inspecting — many harbour resident shrimps, crabs, and tiny blennies. Current direction at this site can shift during a dive, so maintain awareness of position relative to the wall throughout.
+Watch buoyancy carefully around the whip coral forest in the 20-45 m band — it's easy to snag gear if you drift too close. Let the current do the work rather than fighting it once the tide is running.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [Bottles Up Diving - Bunaken](https://www.bottles-up-diving.com/EN-pages/BU_divingother_bunaken_EN.html). Note: only 1 domain could be confirmed for this site during this QA pass, well short of our 3-source standard — this entry needs further research. Last updated 2026-08-13.*

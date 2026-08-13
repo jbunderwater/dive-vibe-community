@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## S. Utara
 
-S. Utara — "Siladen North" — is a drift dive along the north wall of Siladen Island, where consistent current sweeps divers past an impressive coral garden while delivering regular encounters with reef sharks, turtles, and open-water pelagics.
+S. Utara most likely corresponds to "Siladen Utara" (Siladen North), a drift-friendly slope on the north side of Siladen Island with strong currents.
 
 ## Overview
 
-The north-facing wall of Siladen Island is one of the few dedicated drift dives in Bunaken National Marine Park. Unlike the south-coast Bunaken sites where current management involves careful positioning against the wall, S. Utara is designed to be enjoyed in drift mode — divers are carried along the wall face by a prevailing current that typically runs east to west (or west to east on the flood), covering a long section of pristine reef in a single tank.
+**Note on naming:** No source names a site "S. Utara" exactly; this is inferred from "Siladen Utara" appearing in two independent Siladen-focused sources with a matching abbreviation and location. Confidence is reasonably high but not certain.
 
-The north wall receives strong tidal flow through the channel between Siladen and Bangka Island to the north, and this constant water movement has produced an exceptionally healthy coral ecosystem. The site is one of Siladen Resort's signature dives and is consistently cited in dive reviews as one of the more exhilarating experiences in the national park.
+Sources describe the site as a gentle slope sloping to depths reported anywhere from roughly 25 m to 50 m depending on the source, featuring huge pieces of hard coral with sandy patches and pebbles. Currents are consistently described as strong.
 
 ## What to Expect
 
-The drift begins above the wall crest in 5 metres and follows the current along the wall face to depths of 25–40 metres, depending on where the guide leads. The wall is covered in dense soft coral growth, large gorgonian fans, and the occasional black coral tree. Feather stars in vivid colours — red, yellow, orange — cling to the wall face and fan out in the current.
-
-The drift element makes wildlife encounters feel cinematic: green turtles slide past within arm's reach, carried by the same current as the divers; whitetip reef sharks overtake the group or materialise from ahead; grey reef sharks cruise the open water alongside the wall face. Schools of fusilier and bigeye trevally are a constant backdrop. The pace of the drift is moderate enough that divers can pause at interesting sections by moving slightly against the current toward the wall, but fast enough to cover significant distance and see variety throughout the dive.
+Schools of jacks, yellowfin tuna, and bumphead parrotfish are reported, along with Napoleon wrasse, groupers, emperors, and sharks drawn by the current.
 
 ## Conditions
 
-- **Depth range:** 5–40 m
-- **Visibility:** 15–30 m
-- **Currents:** Moderate to strong; primary drift direction follows tidal flow
-- **Water temperature:** 27–30°C
-- **Best season:** May–October
+- **Depth range:** ~25-50 m (sources vary)
+- **Currents:** Strong
+- **Diving level:** Advanced given current strength
 
 ## Tips
 
-S. Utara requires a pickup boat crew who can track the drift bubble — the group often surfaces 200–400 metres from the entry point. Communication with the boat captain before entering is essential. Maintain the same depth as the guide, as diverging from the group in drift conditions can make tracking difficult. A safety reel and SMB are mandatory equipment.
+Given the strong current and depth range reported, this is best treated as an advanced drift dive — confirm current direction and pickup logistics with your boat crew before entry.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [Siladen Resort & Spa - Dive Sites Map](https://www.siladen.com/experiences/dive-sites-map/), [Bottles Up Diving - Bunaken](https://www.bottles-up-diving.com/EN-pages/BU_divingother_bunaken_EN.html). Note: only 2 independent domains could be confirmed for this site during this QA pass, short of our 3-source standard, and the exact name match to "Siladen Utara" is a probable but unconfirmed inference. Last updated 2026-08-13.*

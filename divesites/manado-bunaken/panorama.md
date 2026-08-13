@@ -13,29 +13,25 @@ addedBy: osm_import
 
 ## Panorama
 
-Panorama is a wall dive on Bunaken Island's south coast that earns its name through sweeping views down the wall face into deep blue water, with an accessible depth profile that makes it one of the park's most enjoyable intermediate dives.
+Panorama is listed as a dive site on Bunaken Island's south coast, but no source could be found confirming it as a distinctly-named site during this QA pass.
 
 ## Overview
 
-Sitting between the Lekuan sites and Cela Cela on Bunaken's south coast, Panorama occupies a stretch of wall that retains all the characteristics of the famous Lekuan series but at a more accessible maximum depth. At 25 metres, the dive is comfortable for intermediate divers and allows extended bottom time to really absorb the wall's extraordinary biodiversity. The name refers to the view from the top of the wall crest — on clear days, the drop to the deep sandy bottom far below creates a genuinely vertiginous panoramic effect.
+**Data quality note:** Across roughly ten targeted searches and direct fetches of the major Bunaken operator and database sites (Murex Resorts, Dive The World, ScubaDiverLife, Divezone, Tasik Ria, ZuBlu, and others), no dive site named "Panorama" could be located. The prior validation for this site cited "bunakendiving.co" as a source; that domain was checked directly during this pass and turns out to be simply the homepage of a business called "Panorama Dive Resort" — it does not describe any dive site, let alone one named Panorama. This appears to be a source mismatch (the resort's name, not a dive site's name) carried forward from an earlier, unverified pass.
+
+Because no reliable source could confirm this is a genuine, independently-named dive site — as opposed to, for example, a house-reef site associated with the resort of the same name — the previously-published description (which included specific claims about turtle behaviour, banded sea kraits, and a "vertiginous panoramic effect") has been removed rather than repeated.
 
 ## What to Expect
 
-The wall crest at Panorama is particularly healthy, with outstanding hard coral coverage including large table corals providing shelter to schools of sweetlips and glassfish. The wall face between 8 and 20 metres is covered in encrusting corals, sponges, and small seafans, and the invertebrate life is impressive — nudibranchs, flatworms, and small crustaceans can be found on nearly every dive for observant divers.
-
-Green turtles are a near-certainty at Panorama, as at most Bunaken south-coast sites. They often hover at mid-wall depth, grazing on soft coral or simply drifting in the gentle current. Banded sea kraits are commonly sighted moving along the wall face, gracefully hunting in crevices. In the shallower sections above the wall crest, schools of surgeonfish and parrotfish graze continuously on the abundant algae and coral. The narrow width of the dive combined with the moderate depth makes this a relaxed, confidence-building dive.
+No site-specific marine-life information could be confirmed for this site. It sits within the general area of Bunaken's south-coast wall system, where regional fauna (turtles, reef fish, soft and hard coral) is broadly typical, but no source confirms particular species at this specific location, so none are listed here.
 
 ## Conditions
 
-- **Depth range:** 3–25 m
-- **Visibility:** 15–25 m
-- **Currents:** Light to moderate
-- **Water temperature:** 27–30°C
-- **Best season:** May–October
+Depth, current, and topography values in the site index are carried over from a prior data pass and have not been independently re-confirmed this round.
 
 ## Tips
 
-Panorama is one of the best sites in the park for a second dive of the day — the shallower depth profile significantly reduces nitrogen loading and extends in-water time. The site can be combined with Cela Cela in a single drift dive when a gentle north-to-south current is running, giving a long, unhurried tour of a continuous stretch of wall.
+This site urgently needs fresh research to confirm whether "Panorama" is a genuine, distinctly-named Bunaken dive site at all, and if so, what its actual characteristics are.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Description based on regional south-coast Bunaken diving characteristics only. No verifiable site-specific sources could be found for "Panorama" during this QA pass — the site's very existence as a distinctly-named location is unconfirmed. Last updated 2026-08-13.*
