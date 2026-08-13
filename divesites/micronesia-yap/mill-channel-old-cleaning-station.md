@@ -45,10 +45,10 @@ Boat access from Colonia, approximately 15-20 minutes. Giant stride entry into t
 - Consider doing this as your first dive of the day when you have maximum no-decompression time available
 
 ## Safety Considerations
-The 18-meter depth requires solid air management and depth awareness. Currents in Mi'l Channel can be strong and unpredictable, particularly during tidal changes. Divers should be comfortable with drift diving techniques and carrying a reef hook for current management. Ensure your buddy team has matched air consumption expectations before descending.
+The 18-meter depth requires solid air management and depth awareness. Currents in Mi'l Channel can be strong and unpredictable, particularly during tidal changes -- mantaray.com's site page notes currents can run from barely perceptible at slack tide to 4mph (6km/h) at tide change, and that surface and bottom currents have been known to run in opposite directions. Divers should be comfortable with drift diving techniques and carrying a reef hook for current management. Ensure your buddy team has matched air consumption expectations before descending.
 
 ## Photography
 The deeper water means less ambient light, so higher ISO settings are necessary. Wide-angle is essential for the close manta approaches. Although flash is prohibited, the dark blue water background at depth creates dramatic silhouette compositions. Slower shutter speeds in the dimmer conditions make image stabilization valuable. This station can produce some of Yap's most striking manta images due to the deep blue backgrounds and multiple-manta compositions.
 
 ---
-*Sources: [UW Photography Guide - Yap](https://www.uwphotographyguide.com/underwater-photo-dispatch-from-yap), [Manta Ray Bay Resort - Manta Diving](https://mantaray.com/experiences/manta-diving/), [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php). Last updated 2026-06-16.*
+*Sources: [UW Photography Guide - Yap](https://www.uwphotographyguide.com/underwater-photo-dispatch-from-yap), [Manta Ray Bay Resort - Mi'l Channel](https://mantaray.com/sites/mil-channel/), [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php). Re-audited 2026-08-13; added mantaray.com's current-reversal detail to Safety Considerations. Last updated 2026-08-13.*

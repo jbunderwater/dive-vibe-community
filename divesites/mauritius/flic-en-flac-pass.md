@@ -30,4 +30,4 @@ The Flic en Flac area on the west coast of Mauritius is known for varied diving 
 - **Maximum Depth**: 26 meters
 
 ---
-*Description based on regional diving characteristics of Flic en Flac west coast. No source-confirmed site named "Flic en Flac Pass" was found. Last updated 2026-06-16.*
+*Description based on regional diving characteristics of Flic en Flac west coast. No source-confirmed site named "Flic en Flac Pass" was found. Re-checked 2026-08-13 (diveseaurchin.com's full west-coast site list, justdivingmauritius.com, and scuba-do.com were also searched and none reference this name) -- status unchanged. Last updated 2026-08-13.*

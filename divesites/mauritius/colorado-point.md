@@ -30,4 +30,4 @@ Colorado is a canyon and cave dive in the south of Mauritius, located 500–600 
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [PADI - Colorado Dive Site](https://www.padi.com/dive-site/republic-of-mauritius/colorado/), [Scuba World Diving Mauritius - Out Lagoon Dive](https://scubaworld-mauritius.com/out-lagoon-dive/), [Mauritius Explored - Best Diving Spots](https://www.mauritiusexplored.com/blog/best-diving-spots-in-mauritius). Last updated 2026-06-16.*
+*Sources: [PADI - Colorado Dive Site](https://www.padi.com/dive-site/republic-of-mauritius/colorado/), [Scuba World Diving Mauritius - Out Lagoon Dive](https://scubaworld-mauritius.com/out-lagoon-dive/), [Divebooker - Colorado](https://divebooker.com/colorado-baz10969). Re-audit 2026-08-13 note: mauritiusexplored.com, previously credited here, does not actually mention "Colorado" anywhere on its best-diving-spots page and has been replaced with divebooker.com, the actual source of the 33m/40m figures cited above. Last updated 2026-08-13.*
