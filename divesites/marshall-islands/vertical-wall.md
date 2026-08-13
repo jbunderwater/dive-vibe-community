@@ -2,8 +2,8 @@
 name: Vertical Wall
 lat: 8.77198
 lng: 167.65216
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Vertical Wall
 
-Vertical Wall is one of Kwajalein Atoll's most aptly named dive sites — a near-perpendicular drop along the inner lagoon reef face that delivers exceptional wall diving within the world's largest atoll lagoon.
+Vertical Wall is a genuine outer-lagoon wall dive at Kwajalein, with a drop that continues well past recreational depth limits.
 
 ## Overview
 
-The wall descends steeply from the shallow reef crest at around 5 meters into the lagoon depths, with the recreational dive stopping at 25 meters while the wall continues well beyond. The face is densely encrusted with hard and soft corals — orange and yellow cup corals fill the crevices, sponge colonies in vivid purples and reds dominate the mid-sections, and soft coral trees sway in the mild current. Kwajalein Lagoon's sheltered conditions produce outstanding visibility, often reaching 30–35 meters, with warm 28–30°C water year-round.
-
-The site is accessible to intermediate divers while offering enough depth range and biological complexity to satisfy more experienced visitors. The wall's multiple ledges and overhangs create natural frames for photography and excellent habitat for resident species.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-The wall's ledges are productive territory for moray eels — giant and undulated morays are common residents in the deeper crevices. Lionfish drift near the overhangs, relying on camouflage. Whitetip reef sharks rest on ledges or cruise slowly along the wall face. Higher up, napoleonfish (humphead wrasse) make regular appearances cruising the reef edge. Schools of snapper and fusiliers occupy the mid-water zone, with glassy sweepers sheltering under coral overhangs. Hawksbill turtles are documented here, feeding on sponges on the wall face.
-
-The reef crest at 5–10 meters is excellent for safety stops — dense coral cover with abundant butterflyfish, damselfish, and angelfish picking over the coral heads.
+Vertical Wall is a genuine wall dive on Kwajalein's outer lagoon edge, north of a well-defined vertical drop. Local divers typically anchor near the top and swim south along the wall to reach the vertical section, which continues well past 40 meters -- beyond recreational limits. There are two distinct vertical sections separated by a small gap; the second is marked by a sharp 90-degree turn in the wall with notable coral growth in the corner. Continuing south and shallower, a swim-through connects two surge channels, with sea anemones found along the way.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate along the wall face; generally predictable conditions
-- **Entry**: Boat from Kwajalein-based dive operators
-- **Best For**: Intermediate and advanced divers; reliable year-round conditions
+- **Depth**: approximately 40 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Whitetip reef sharks, moray eels (giant, undulated), lionfish, hawksbill turtles, humphead wrasse, parrotfish, snapper schools, fusiliers, glassy sweepers, orange cup corals, encrusting sponges, soft coral trees.
+No confirmed fish species reports were found for this specific site in available sources; the description available focuses on topography (wall, swim-through, anemones) rather than fish life.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

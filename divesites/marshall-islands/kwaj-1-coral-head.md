@@ -2,8 +2,8 @@
 name: Kwaj-1 Coral Head
 lat: 8.75001
 lng: 167.67698
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Kwaj-1 Coral Head
 
-Kwaj-1 Coral Head is the first in a series of three "Kwaj" numbered coral head sites in the western sector of Kwajalein Lagoon, positioned closer to the western rim of the atoll and offering a slightly different lagoon environment than the more central dive sites.
+Kwaj-1 is a permanent reef-protection mooring buoy placed by Kwajalein's environmental program to keep anchors off the coral.
 
 ## Overview
 
-The Kwaj-1 through Kwaj-3 coral heads form a western extension of Kwajalein's pinnacle dive system, named simply for "Kwaj" — the universally used abbreviation for Kwajalein used by residents and military personnel. Kwaj-1 sits at coordinates that place it in the outer western lagoon zone, where slightly more open water circulation produces better nutrient input and, accordingly, more active fish populations than the most sheltered inner sites.
-
-The pinnacle rises from 25 meters to near the surface, with the typical Kwajalein structure of mature hard coral encrusting every face of the rock base. The western lagoon position provides excellent morning light conditions — ideally suited for early dive trips.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-The slightly more open western lagoon position at Kwaj-1 brings more regular shark activity than the very sheltered inner sites. Grey reef sharks circle the pinnacle at mid-water and occasionally cruise closely along the coral faces. Barracuda schools hover in the open water column above the site. Humphead wrasse and large groupers stake out territory on the deeper sections of the structure.
-
-The coral surfaces host the typical Kwajalein community — lionfish and scorpionfish in ambush positions, moray eels with crevice territories, and dense populations of smaller reef fish including butterflyfish, damsels, and chromis feeding on the coral polyps. Blue-spotted ribbontail rays are frequently encountered on the sandy lagoon floor immediately around the pinnacle base.
+Kwaj-1 is a permanent mooring buoy placed by Kwajalein's environmental program specifically to protect the surrounding reef from anchor damage caused by rental and private boats. Divers are advised to tie off on the provided tagline, and to drop a second (light) anchor for extra security.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; slightly more active than inner lagoon sites
-- **Entry**: Boat dive; often combined with Kwaj-2 and Kwaj-3
-- **Best For**: Intermediate divers; good shark and schooling fish photography
+- **Depth**: approximately 20 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Grey reef sharks, barracuda schools, humphead wrasse, large groupers, moray eels, lionfish, scorpionfish, blue-spotted ribbontail rays, butterflyfish, damselfish, chromis.
+No confirmed site-specific species reports were found in available sources; this entry is primarily a protected mooring/reef site rather than a named marine-life attraction.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

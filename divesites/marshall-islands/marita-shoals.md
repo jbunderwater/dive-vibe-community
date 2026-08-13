@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Marita Shoals
 
-Marita Shoals is a shallow reef structure in the northern reaches of Kwajalein Atoll's lagoon, positioned as one of the outermost named dive sites in the Kwajalein system and noted for its exposure to open-lagoon conditions.
+Marita Shoals is a well-regarded lagoon site where a local diver has repeatedly reported several giant clams.
 
 ## Overview
 
-The shoals rise from the sandy lagoon floor to form a broad, gently sloping reef system at depths between 5 and 25 meters. The exposed position means the site receives more oceanic influence than the sheltered inner-lagoon coral heads — currents run stronger here, and the fish density and species diversity reflect that nutrient input. Hard coral coverage is solid, with encrusting corals, brain corals, and scattered table corals building a complex three-dimensional reef structure.
-
-Visibility at Marita Shoals typically runs 25–35 meters in the open lagoon environment. Water temperatures hold around 28–30°C year-round, with conditions generally calmest between April and November.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-The current-influenced position makes this site a consistent producer of pelagic encounters. Barracuda are almost always present, hanging in loose schools or patrolling the reef edge. Grey reef sharks are regular visitors in the mid-water zone. Humphead wrasse cruise the outer edge of the shoals, and schools of bumphead parrotfish have been reported in the area. Closer to the reef, the dense fish community includes groupers, sweetlips, snapper, and triggerfish working the coral heads.
-
-Hawksbill turtles graze the sponge and algae growth across the reef flat. In the crevices, moray eels and lionfish occupy the darker recesses. The sandy inter-reef areas around the shoals occasionally yield sightings of resting whitetip reef sharks.
+Marita Shoals is a lagoon site well regarded by local divers, who report repeat visits and consistently good conditions.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Moderate to occasionally strong; more exposed than inner-lagoon sites
-- **Entry**: Boat dive from Kwajalein operators
-- **Best For**: Intermediate divers comfortable with mild current
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Grey reef sharks, barracuda schools, humphead wrasse, bumphead parrotfish (occasional), hawksbill turtles, moray eels, lionfish, groupers, sweetlips, snapper, whitetip reef sharks.
+Several giant clams have been reported at this site by a local diver with repeat visits. No further site-specific species reports were found.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

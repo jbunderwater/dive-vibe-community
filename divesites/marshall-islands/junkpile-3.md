@@ -2,7 +2,7 @@
 name: Junkpile-3
 lat: 8.73543
 lng: 167.72946
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wreck
@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Junkpile-3
 
-Junkpile-3 is the intermediate-depth member of the Junkpile cluster in Kwajalein Atoll's lagoon, sitting between the 25-meter Junkpile-1 and the 33-meter Junkpile-2, and often dived in combination with one or both of its neighbors on a single boat trip.
+Junkpile-3 is a debris field that includes the toilet, sinks, and tires that give the nearby "Toilet Bowl" site its name.
 
 ## Overview
 
-The three Junkpile sites are clustered tightly in the same area of the inner Kwajalein Lagoon, and experienced divers often transition between them during a single dive or plan back-to-back dives to explore the full cluster. Junkpile-3 at 30 meters is technically within intermediate range but sits at the upper edge — divers should have comfortable buoyancy control and air management before pushing this deep. The debris field here contains a distinct collection of WWII hardware compared to the neighboring sites, with each junkpile area featuring different types of military surplus and abandoned equipment.
-
-The lagoon environment remains calm and protected year-round, making all three Junkpile sites diveable in virtually any weather conditions. Visibility runs 20–30 meters, and the warm water temperature makes for comfortable extended bottom times at depth.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-Junkpile-3 combines the accessibility of Junkpile-1 with some of the depth-enhanced species richness of Junkpile-2. The debris structures are thoroughly colonized — hard corals and sponges cover every exposed surface, moray eels of several species occupy the crevices, and lionfish hover at virtually every overhang. Schools of snapper and sweetlips orbit the larger debris pieces. On the sandy floor between the structures, look for stingrays resting partially buried and garden eels swaying at the field margins.
-
-Divers who complete all three Junkpile sites develop an appreciation for how the depth gradient affects the marine community — different species and different growth patterns mark each site despite their close proximity, a testament to how much depth influences reef ecology even within the same sheltered lagoon.
+Junkpile-3 is another pile of US-origin debris dumped in the lagoon, reportedly including bottles, sinks, tires, and a toilet, at a depth of approximately 30 meters (100 feet). It lies close to Junkpile-2 and the two fields may run together.
 
 ## Practical Information
 
-- **Depth Range**: 10–30 meters
-- **Visibility**: 15–30 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; often combined with Junkpile-1 or Junkpile-2
-- **Best For**: Intermediate divers; good air management recommended for 30-meter depth
+- **Depth**: approximately 30 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Moray eels, lionfish, scorpionfish, snapper, sweetlips, stingrays, garden eels, encrusting hard corals, sponge colonies, glassy sweepers, clownfish.
+No confirmed site-specific species reports were found in available sources.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

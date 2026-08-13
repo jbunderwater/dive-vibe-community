@@ -2,8 +2,8 @@
 name: Emon Coral Head
 lat: 8.741
 lng: 167.7341
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 9
 entryType: boat
 siteType: reef
 ref: null
@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Emon Coral Head
 
-Emon Coral Head is a lagoon pinnacle dive near Emon Beach on Kwajalein Island, one of the most conveniently accessible coral head sites in the atoll's dive circuit and a popular choice for divers based on the main island.
+Emon Coral Head is a small, shallow formation just beyond the swim area off Emon Beach, doubling as a landmark en route to the Toilet Bowl site.
 
 ## Overview
 
-Emon Beach was historically one of the primary recreational areas on Kwajalein Island, and the coral head bearing its name sits in the lagoon a short boat ride from the island's coastline. The proximity to the base makes it a frequently dived site with well-documented marine life and predictable conditions. The pinnacle rises through the lagoon's clear water to within a few meters of the surface, creating a full 25-meter depth range for exploration.
-
-The coral head structure is mature and well-colonized — decades of growth in the protected lagoon environment have produced dense hard coral formations covering the pinnacle faces, with gaps and crevices throughout providing habitat complexity. Visibility in this part of the lagoon typically reaches 25–30 meters, and currents are mild year-round.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-The site is known for particularly dense concentrations of anemones with clownfish — multiple large anemone colonies are scattered across the upper sections of the coral head, each hosting its resident clownfish pair. Moray eels of several species — including the massive giant moray — have long-established territories in the crevices. Hawksbill turtles are regular visitors, grazing on sponge growth across the pinnacle. Humphead wrasse and large parrotfish patrol the perimeter.
-
-The sandy skirt around the base of the coral head harbors garden eels and the occasional blue-spotted ribbontail ray. Macro enthusiasts will find nudibranchs and flatworms on the encrusted coral surfaces throughout the dive.
+Emon Coral Head is a small, shallow formation just beyond the roped swim area off Emon Beach, where the bottom drops from roughly 5 to 9 meters. It doubles as a navigational landmark for divers heading further out to the Toilet Bowl site.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–30 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; convenient access from Kwajalein Island
-- **Best For**: Intermediate divers; good choice for first-time Kwajalein lagoon dive
+- **Depth**: approximately 9 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Clownfish and anemones, moray eels (including giant moray), hawksbill turtles, humphead wrasse, parrotfish, garden eels, blue-spotted ribbontail rays, nudibranchs, groupers, snapper.
+No confirmed site-specific species reports were found in available sources; the site's shallow depth and proximity to shore make it a common spot for beginner-friendly exploration.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

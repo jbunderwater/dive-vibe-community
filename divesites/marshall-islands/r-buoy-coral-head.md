@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## R-Buoy Coral Head
 
-R-Buoy Coral Head is a lagoon pinnacle in the northern Kwajalein Lagoon dive area, positioned near the "R" navigational buoy position on the atoll chart and sitting in a section of the lagoon noted for reliable grey reef shark sightings.
+R-Buoy Coral Head is a modest lagoon dive a short distance out from Ebeye Island.
 
 ## Overview
 
-R-Buoy Coral Head is positioned in the northern Kwajalein Lagoon zone, near the "R" navigational buoy marker of the atoll's military chart system. The site's northern position exposes it to somewhat more open lagoon circulation than the protected inner cluster sites, and this enhanced water movement is credited for the consistently active grey reef shark presence that gives R-Buoy its reputation among Kwajalein dive regulars.
-
-The pinnacle structure is typical of the best Kwajalein coral heads — mature, densely encrusted, full depth range to 25 meters, clean sandy surroundings — but positioned in a part of the lagoon that sees different tidal flow patterns than the main southern cluster.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-Grey reef sharks are the defining encounter at R-Buoy — the site consistently produces more shark activity than most inner lagoon sites, with three to eight individuals typically visible patrolling the mid-water column around the pinnacle. The sharks are not aggressive but are more actively investigating than the habituated specimens of the main cluster sites, making behavior observation more dynamic. Shark photographers rate R-Buoy as one of Kwajalein's better sites for natural shark behavior photography.
-
-The coral head itself is productive for the full range of Kwajalein lagoon species — humphead wrasse, hawksbill turtles, moray eels, and dense populations of butterflyfish and surgeonfish on the shallow crown. The sandy floor hosts garden eels and the occasional passing stingray.
+R-Buoy Coral Head lies out in the lagoon a short distance from Ebeye Island.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; slightly more active than inner lagoon sites
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
 - **Entry**: Boat dive
-- **Best For**: Intermediate divers; recommended for grey reef shark encounters and behavior photography
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Grey reef sharks, humphead wrasse, hawksbill turtles, moray eels, garden eels, stingrays, butterflyfish, surgeonfish, snapper, groupers.
+No confirmed site-specific marine-life reports were found in available sources.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

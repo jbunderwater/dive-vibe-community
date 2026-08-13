@@ -5,7 +5,7 @@ lng: 162.9892488
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 4031637101
 addedBy: osm_import
@@ -13,31 +13,25 @@ addedBy: osm_import
 
 ## Hiroshi East End
 
-Hiroshi East End is the eastern extremity of a reef structure in Kosrae, Marshall Islands, forming a distinct dive site from the western end of the same reef system and offering complementary conditions to its counterpart Hiroshi West End.
+This record is flagged for a geographic data error -- see Overview. If it corresponds to a real site, that site is Hiroshi Point in Kosrae, FSM, not the Marshall Islands.
 
 ## Overview
 
-The "Hiroshi" reef system extends along Kosrae's outer reef environment, with the east and west ends offering subtly different dive profiles based on their orientation to current and swell. The East End faces into the prevailing current flow, making it the more dynamic of the two — current-fed waters deliver nutrients and attract feeding aggregations of fish on the reef crest and upper slope. The maximum depth of 22 meters keeps the dive firmly in the intermediate range, with the main reef interest concentrated in the 8–18 meter zone.
-
-Kosrae's reef systems are among the healthiest in Micronesia, benefiting from the island's low population density and strong community-based marine conservation ethic. Hard coral coverage is exceptional, with table corals, staghorn thickets, and massive brain and star coral formations covering the reef structures.
+GEOGRAPHIC DATA ERROR: this site's coordinates place it in Kosrae, Federated States of Micronesia -- a separate country, not the Marshall Islands. Flagged for maintainer review; not validated as a Marshall Islands site. Subject to that caveat, this location corresponds to the well-documented Kosrae dive site known locally as Hiroshi Point (sometimes "Hiroshi"). Sources report depths between roughly 13 meters (Scuba Diver Life) and the 22 meters recorded in this dataset -- we flag the discrepancy rather than picking one figure. No source distinguishes an "East End" from the main site; treat any such distinction with caution.
 
 ## What to Expect
 
-The current exposure of the East End makes it a more productive site for schooling fish and pelagic encounters than the sheltered West End. Barracuda schools are common, hovering in the current above the reef. Dogtooth tuna sweep through on hunting runs. Grey reef sharks patrol the reef edge in the deeper sections. Closer to the reef, the coral gardens are densely populated with butterflyfish, angelfish, and surgeonfish feeding across the coral heads. Hawksbill turtles are frequently encountered grazing on the rich coral growth.
-
-The reef crest in the shallows features interesting topography — coral arches, small overhangs, and crevices worth investigating for resting whitetip sharks and hiding invertebrates.
+Kosrae dive operators describe Hiroshi Point as a well-known wall/drift dive along a current-fed reef, typically drifted on a mild current. Confirmed, cross-referenced observations include barracuda, hawksbill turtles, and jellyfish (Scuba Diver Life); circling grey reef sharks in the current (Bluewater Dive Travel); and large, long-lived coral heads with dense Christmas-tree-worm cover (Kosrae Diving-affiliated sources). Sources do not distinguish a separate "East End" and "West End" as two different named sites -- available operator listings describe a single site, "Hiroshi Point," and it is unclear whether the two OSM records here represent two access points on the same reef or a scraping duplication.
 
 ## Practical Information
 
-- **Depth Range**: 5–22 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Moderate; can be current-dependent for best fish activity
+- **Depth**: sources report figures between roughly 10-13 meters (Scuba Diver Life) and up to 22 meters depending on profile; treat the deeper figure as the maximum recreational limit
 - **Entry**: Boat dive
-- **Best For**: Intermediate divers; excellent reef and fish photography
+- **Currents**: Mild to moderate, site dependent
 
-## Marine Life Highlights
+## Marine Life
 
-Grey reef sharks, barracuda, dogtooth tuna, hawksbill turtles, humphead wrasse, surgeonfish, butterflyfish, angelfish, groupers, whitetip reef sharks, table corals, staghorn corals.
+Barracuda, hawksbill turtles, jellyfish, and grey reef sharks are reported at Hiroshi Point across multiple Kosrae dive-operator sources. Species not confirmed to be specific to an "East End" sub-site.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Kosrae Diving - Dive Sites](https://kosraediving.com/sites.php), [Scuba Diver Life - Best Scuba Diving in Kosrae](https://scubadiverlife.com/best-scuba-diving-kosrae/), [Bluewater Dive Travel - Kosrae Diving](https://bluewaterdivetravel.com/kosrae-diving) -- NOTE: this site is geographically located in Kosrae, FSM, not the Marshall Islands; flagged, not validated for this destination. Last updated 2026-08-13.*

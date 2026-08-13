@@ -2,8 +2,8 @@
 name: Kwaj-3 Coral Head
 lat: 8.81188
 lng: 167.60123
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Kwaj-3 Coral Head
 
-Kwaj-3 Coral Head is the most remote of the three Kwaj-series pinnacles in Kwajalein Atoll's western lagoon, positioned at the northern edge of the western lagoon dive zone and noted for the most undisturbed reef growth in the cluster.
+Kwaj-3 is a third reef-protection mooring buoy in the same Kwajalein environmental program as Kwaj-1 and Kwaj-2.
 
 ## Overview
 
-Kwaj-3 sits at the northern end of the western lagoon dive zone, at coordinates that place it further from the main Kwajalein Island base than any other frequently dived coral head — the boat ride is longer, which means fewer visitors and more undisturbed reef conditions. The site's relative remoteness has allowed the marine community to develop with minimal disturbance: the coral coverage is dense and complex, resident species are less habituated to divers and therefore more cautious, and the site retains a wilder, more natural character than the high-traffic inner cluster sites.
-
-The longer boat trip (typically 15–20 minutes from the main dock) means Kwaj-3 is usually reserved for full-day or afternoon dive excursions rather than quick morning dips. Visibility and water temperature conditions are identical to the rest of the lagoon — excellent year-round.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-The reduced diver pressure at Kwaj-3 means larger marine species behave more cautiously — grey reef sharks and whitetip reef sharks maintain more distance than at the heavily dived inner sites, displaying more natural patrol behavior. This adds to the experience rather than detracting from it — watching sharks in natural, undisturbed behavior provides a different quality of encounter than the habituated reef sharks of the inner cluster. Hawksbill turtles graze the coral growth with minimal concern for divers who hold position.
-
-The hard coral quality at Kwaj-3 is reportedly excellent — some of the most extensive branching coral gardens and intact table coral formations in the western lagoon zone are found here, reflecting the lower mechanical disturbance from diver numbers. The sandy floor around the base has well-established garden eel colonies.
+Kwaj-3 is a third reef-protection mooring buoy in the same program as Kwaj-1 and Kwaj-2.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate
-- **Entry**: Boat dive; longer boat trip than inner cluster sites
-- **Best For**: Intermediate divers seeking more undisturbed reef conditions; good for natural shark behavior observation
+- **Depth**: approximately 20 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Grey reef sharks, whitetip reef sharks, hawksbill turtles, garden eels, branching corals, table corals, humphead wrasse, groupers, snapper schools.
+No confirmed site-specific species reports were found in available sources.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

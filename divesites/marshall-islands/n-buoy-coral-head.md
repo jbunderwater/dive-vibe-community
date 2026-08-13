@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## N-Buoy Coral Head
 
-N-Buoy Coral Head is a lagoon pinnacle in the inner Kwajalein dive circuit, named for the navigational buoy position "N" on the atoll's lagoon chart and one of the northern-most frequently dived coral heads in the main cluster.
+N-Buoy Coral Head is marked with a pole and flashing green light near Kwajalein's ski area, with a sea anemone reported near its crown.
 
 ## Overview
 
-N-Buoy Coral Head sits in the northeastern quadrant of the inner Kwajalein Lagoon dive zone, named for the navigational buoy designation used to chart this section of the lagoon. The pinnacle is part of the same broad system of coral head sites that defines Kwajalein diving, rising from the sandy lagoon floor through 25 meters of clear water to near the surface. The site is frequently included as part of a northeastern lagoon dive circuit, often combined with the Emon, N-Buoy, and ER-2 coral head cluster.
-
-Current circulation in the northeastern lagoon zone tends to be slightly stronger than in the sheltered southern areas near the main island, providing better nutrient delivery and correspondingly more active fish behavior.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site. This site sees a fair amount of boat traffic, particularly on its east side -- stay alert for boats when surfacing.
 
 ## What to Expect
 
-N-Buoy is recognized as a reliable site for large-school aggregations — fusiliers and snapper form dense, swirling schools around the pinnacle that can number in the hundreds. On good days, the school mass creates a shimmering curtain around the coral head visible from a distance underwater. Grey reef sharks cruise through and around these schools in the feeding behavior typical of current-influenced Kwajalein sites.
-
-The hard coral quality at N-Buoy is high, with intact table coral formations and large brain corals throughout the structure. Moray eels occupy crevices at multiple depths. The shallow crown (5–10 meters) is excellent for safety stops — high fish density and colorful coral growth in well-lit water.
+N-Buoy is marked with a pole and flashing green light, located roughly out from the ski area on Kwajalein. A sea anemone has been reported to the southwest near the top of the coral head. A small wreck locally known as "N-East" lies nearby to the east, an area also known among local divers for an abundance of old bottles.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
 - **Entry**: Boat dive
-- **Best For**: Intermediate divers; good for large schooling fish aggregations
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Fusilier schools, snapper schools, grey reef sharks, moray eels, table corals, brain corals, humphead wrasse, groupers, butterflyfish, damselfish.
+A sea anemone is reported near the crown of the coral head. No further site-specific species reports were found.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

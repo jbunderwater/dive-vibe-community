@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## K-9 Coral Head
 
-K-9 Coral Head is one of the most popular and frequently dived coral head sites in Kwajalein Atoll, the central site in a cluster of K-series pinnacles and often used as the reference point for planning multi-pinnacle dive trips in the inner lagoon.
+K-9 is the largest coral head in a small cluster of related sites and a common anchor point for exploring its smaller neighbors.
 
 ## Overview
 
-K-9 is the most dived coral head in Kwajalein Atoll and effectively serves as the anchor site for the entire K-series cluster. The main pinnacle rises from 25 meters to within two or three meters of the surface, and its dense hard coral encrustation and abundant marine life make it a reliable first dive for visiting divers orienting themselves to Kwajalein lagoon conditions. The surrounding sandy lagoon floor is clean and well-lit, providing excellent navigation reference and a comfortable working environment. The site is close enough to the K-9 Deep and K-9 West pinnacles to allow multi-site exploration on a single dive.
-
-Visibility in this part of the lagoon consistently reaches 25–35 meters, and the calm, protected environment means K-9 is diveable year-round in virtually any conditions.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-K-9's status as the most frequently dived site in the area means its marine residents are unusually habituated to divers — humphead wrasse and large groupers approach closely, and the moray eels poke their heads from crevices with less wariness than on more rarely visited sites. Whitetip reef sharks rest on sandy ledges at the base and are completely relaxed with slow-moving divers. The pinnacle top at 5–8 meters has exceptional hard coral diversity — brain corals, table corals, and encrusting formations in excellent condition.
-
-The sandy floor around the base is reliably productive for garden eels, blue-spotted ribbontail rays, and the occasional stingray. Clownfish occupy multiple anemone colonies throughout the upper structure, and nudibranchs are found on the encrusted surfaces throughout the dive depth range.
+K-9 is the largest of the closely grouped K-9 sites (K-9, K-9 Deep, K-9 West) and is commonly used as an anchor point for exploring its smaller neighbors on the same dive.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; often combined with K-9 Deep and K-9 West
-- **Best For**: Intermediate divers; excellent first lagoon dive; reliable close-up marine encounters
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Humphead wrasse, large groupers, whitetip reef sharks, moray eels, clownfish and anemones, garden eels, blue-spotted ribbontail rays, brain corals, table corals, nudibranchs.
+No site-specific marine-life reports were found in available sources.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

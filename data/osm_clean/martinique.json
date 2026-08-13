@@ -11,7 +11,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, tribloo.com, scubadiving.com"
+      "validation_source": "alphaplongee.com, tribloo.com, scubadiving.com, paradisplongee.com",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: cathedral-shaped crack from ~16m confirmed by alphaplongee.com and tribloo.com; islet stands ~175m above water, ~5km offshore per tribloo.com"
     }
   },
   {
@@ -26,7 +28,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, paradisplongee.com"
+      "validation_source": "alphaplongee.com, tribloo.com, dscplongee.com",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: this is the fault/fissure ('la faille') through Diamond Rock islet, ~4-5m wide, 12-14m high, ~25m long, entrance near 15-16m depth. Named dive site at dscplongee.com ('La Faille du Rocher du Diamant')"
     }
   },
   {
@@ -41,8 +45,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, tourcrib.com",
-      "notes": "Excellent for turtle encounters, green and hawksbill turtles common"
+      "validation_source": "scubadiving.com, alphaplongee.com, tribloo.com, atao-plongee.fr",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: shore-entry turtle site confirmed by multiple independent operators; green turtles resident, feeding on seagrass"
     }
   },
   {
@@ -57,8 +62,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "dreamwrecks.com, scubadiving.com",
-      "notes": "Multiple wrecks from 1902 Mount Pelée eruption, including Roraima"
+      "validation_source": "en.wikipedia.org, archeonavale.org, espaceplongee-martinique.com",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: Wikipedia and archeonavale.org (French underwater archaeology inventory) document roughly a dozen wrecks in the bay (Roraima, Amelie/Raisinier, Biscaye, Clementina, Diamant, Dahlia, Tamaya, Nord-America, Yacht Italien, Fausse Theresa). Tamaya lies at 85m, beyond recreational and most technical scuba limits, and is not part of the typical diveable itinerary at this depth field."
     }
   },
   {
@@ -73,8 +79,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "tribloo.com, martinique-tour.com",
-      "notes": "Northernmost dive site, strong currents, drop-offs 20-60m, diverse fish"
+      "validation_source": "martinique-tour.com, tribloo.com, quebecyachting.ca",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: sources describe this islet off Anse Céron/Le Prêcheur with walls of 20-60m depending on source. POSSIBLE DUPLICATE: this entry and 'Site de Plongee La Perle' (osm_id 6226315751) both describe what appears to be the same Ilet de la Perle off Anse Céron in the Dominica Channel/Réserve Marine du Prêcheur, recorded with different coordinates from separate data-gathering passes. Flagged for de-duplication review, not merged in this pass to avoid unreviewed data loss."
     }
   },
   {
@@ -89,8 +96,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "tourcrib.com, europcar-martinique.com",
-      "notes": "Black sand beach, turtles common, calm reef"
+      "validation_source": "snorkeling-report.com, aloelocation.fr, scubadiving.com",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: snorkeling-report.com confirms central bay is sand/seagrass at ~3-6m descending quickly from the beach, with rocky outcrops on either side (1-3m) colonized by sponges, small corals and sea fans; turtles seen a bit deeper here than at neighboring Anse Dufour"
     }
   },
   {
@@ -105,24 +113,26 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, tribloo.com",
-      "notes": "Coral garden with caves, soft corals, gorgonians, accessible all levels"
+      "validation_source": "martinique.coconews.com, tribloo.com, aux-antilles.fr",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: consistent across 3 sources - canyons/small caves/corridors 0-25m off Case-Pilote, feather gorgonians, moray eels, stonefish, angelfish, turtles"
     }
   },
   {
     "name": "Pointe Burgos",
     "lat": 14.55,
     "lon": -61.09,
-    "depth": 12,
+    "depth": 26,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, paradisplongee.com",
-      "notes": "Basaltic dome, 3-12m plateau, strong currents attract turtles"
+      "validation_source": "paradisplongee.com, alphaplongee.com, tribloo.com",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: DEPTH CORRECTED from placeholder 12m to 26m. paradisplongee.com's dedicated site page gives a 6-30m range with a 6-12m plateau (beginner-friendly) bordered by fissures/drop-off reaching 26m recorded max (30m cited as an upper figure by the same source); difficulty updated from Beginner to Intermediate to reflect the deeper drop-off, though the shallow plateau remains suitable for beginners"
     }
   },
   {
@@ -137,8 +147,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "alphaplongee.com, dreamwrecks.com",
-      "notes": "Three-masted sailing ship, sunk 1993 as artificial reef, well-preserved"
+      "validation_source": "alphaplongee.com, atao-plongee.fr, tribloo.com",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: CORRECTED - vessel was originally the lighthouse/buoy tender 'Quinette de Rochemont' built 1909-1911 for the Gironde estuary (Royan, France), NOT the North Sea as previously stated. Renamed Caraibe (1957) then Nahoon (1976). Sunk 2 Oct 1993 by dive center Planete Bleue/COREMA as artificial reef. Sources disagree on length: alphaplongee.com's aggregator states 35m, atao-plongee.fr states 41m steel-hulled. Removed unconfirmed 'steering wheel still mobile' and 'snappers spawn near the masts' claims - not corroborated by any source consulted."
     }
   },
   {
@@ -153,39 +164,44 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "deepturtleplongee.fr, alpaplongee.com",
-      "notes": "Home to green sea turtles, shallow plateau"
+      "validation_source": "scubadiving.com, martinique-tour.com, mapalmes.com",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: scubadiving.com groups Grande Anse with Anse Dufour/Anse Noire as a turtle-encounter seagrass bay; site sits in front of Grande Anse d'Arlet village"
     }
   },
   {
     "name": "Citadelle",
     "lat": 14.745,
     "lon": -61.185,
-    "depth": 16,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
+    "depth": 50,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "osm_extended, martinique-tour.com"
+      "validation_source": "tribloo.com, espaceplongee-martinique.com, quebecyachting.ca",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: MAJOR CORRECTION - this is a coral plateau descending in stages to a 50-60m drop-off (tribloo.com: 'sheer drop of 60 metres'; espaceplongee-martinique.com: '0-50m, dramatic volcanic tombant'), not a 16m beginner dive. Depth corrected 16m -> 50m, difficulty corrected Beginner -> Advanced. Entry type ('shore') is UNCONFIRMED by any of the 3 sources consulted - none state shore vs boat access; left as-is pending confirmation, flagged for review."
     }
   },
   {
     "name": "Jardin Tropical",
     "lat": 14.52,
     "lon": -61.08,
-    "depth": 10,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": true,
-      "validation_source": "paradisplongee.com, espaceplongee-martinique.com",
-      "notes": "Gorgons, sponges, corals near Pointe de Salomon, excellent for beginners"
+      "validated": false,
+      "validation_source": "paradisplongee.com",
+      "last_qa_date": "2026-08-13",
+      "location_conflict": true,
+      "notes": "UNRESOLVED location conflict (re-audit 2026-08-13): paradisplongee.com's 'Jardin Tropical' page places this site in the Baie de Sainte-Luce next to Grande Caye (south coast, ~lon -60.92), with a stepped reef descending 10-25m and a green moray eel up to 2m. Our stored coordinates (lat 14.52, lon -61.08) instead place this entry in the Anses d'Arlet area (west coast), where no dive operator listing (Alpha Plongee, Espace Plongee) includes a site of this name. This may be a coordinate error inherited from curation, or two distinct sites sharing a generic name. Downgraded from validated=true pending resolution; depth/difficulty updated to match the confirmed Sainte-Luce site's published profile in case that is the correct identification, but this should not be treated as confirmed for the stored coordinates."
     }
   },
   {
@@ -206,8 +222,9 @@
       "wikidata": "Q120207110",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "tribloo.com, martinique-tour.com",
-      "notes": "Northernmost site, Dominique channel, drop-offs 20-60m, protected marine reserve"
+      "validation_source": "tribloo.com, martinique-tour.com, quebecyachting.ca",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: Ilet de la Perle off Anse Céron, Réserve Marine du Prêcheur (also referred to as the Albert Falco reserve by martinique-tour.com), walls/drop-offs 20-60m depending on source, strong currents, no mooring (pilot stays aboard). POSSIBLE DUPLICATE of 'Rocher de la Perle' curated entry (lat 14.77/lon -61.21) - both appear to describe the same real-world islet recorded via separate data passes. Flagged for de-duplication review, not merged in this pass."
     }
   },
   {
@@ -226,9 +243,10 @@
       "seamark:wreck:category": "hull_showing",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Cargo ship wreck near Pointe Marin, depths 15-30m with good light. Hull structure home to grouper, snapper, and reef fish. Coral encrustation and soft corals abundant. Accessible intermediate wreck dive with Caribbean warm water."
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-08-13",
+      "notes": "UNRESOLVED (re-audit 2026-08-13): no independent source could be found confirming this wreck's history, dimensions, or marine life - the prior 'validated: true' rested solely on a single unattributed 'perplexity' AI query, which does not meet this project's sourcing standard and should never have been marked validated. Searched English and French terms, dive shop listings (Alpha Plongee, Tribloo, Paradis Plongee, Espace Plongee, Kariba Plongee), and the archeonavale.org underwater archaeology inventory - none reference a wreck by this name. The 'seamark:name' tag suggests this is a genuine charted wreck position (nautical chart data), but no diver-facing description exists online. Downgraded to validated=false; all previously invented history and marine-life detail has been removed from the markdown pending real sourcing."
     }
   },
   {
@@ -253,8 +271,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "dreamwrecks.com, tribloo.com",
-      "notes": "Canadian steamship, 103m long, sunk by 1902 eruption, iconic wreck"
+      "validation_source": "en.wikipedia.org, fr.wikipedia.org, tribloo.com, archeonavale.org, quebecyachting.ca",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: cross-checked English Wikipedia, French Wikipedia, tribloo.com, archeonavale.org and quebecyachting.ca. CORRECTED: launched as Ghazee (Mogul Steamship Co, Glasgow) in 1883, purchased by Quebec Steamship Company 30 Nov 1899 (not 1900) and renamed Roraima. Length/depth figures conflict across sources - see markdown for stated ranges. Cousteau's 'white-haired wreck' nickname confirmed by 2+ French-language sources, referring to white sea-pens (virgulaires) rather than algae per the more specific French sources."
     }
   },
   {
@@ -263,7 +282,7 @@
     "lon": -61.1820679,
     "osm_id": 11001881741,
     "osm_type": "node",
-    "depth": 6,
+    "depth": 12,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -274,8 +293,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "snorkeling-report.com, mapalmes.com",
-      "notes": "Anse Turin, shallow 3-8m, shore accessible, suitable for snorkeling"
+      "validation_source": "snorkeling-report.com, en.wikipedia.org, espaceplongee-martinique.com, quebecyachting.ca",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: DEPTH CORRECTED from 6m to 12m - Wikipedia, espaceplongee-martinique.com ('10m') and quebecyachting.ca ('12m') converge on 9-12m rather than the previously listed 6m. History (48m iron sailing vessel, built 1890, sister ship to Belem, developed a leak and was towed by steamer Diamant to Turin Cove where she sank before the 8 May 1902 eruption) confirmed by Wikipedia and cross-referenced."
     }
   },
   {
@@ -294,9 +314,10 @@
       "reef": "sand",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Sandy bank with patch reef and coral formations, depths 8-12m. Excellent beginner site with calm waters and good visibility (20-25m). Rays common on sandy bottom, reef fish in coral patches. Perfect for building confidence."
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-08-13",
+      "notes": "UNRESOLVED (re-audit 2026-08-13): the prior markdown/description ('near Le Prêcheur') was geographically wrong - these coordinates (14.7664, -60.9647) sit on the Atlantic/northeast coast, roughly 30km from Le Prêcheur (which is on the northwest Caribbean coast, ~lon -61.23). No dive shop or forum source could be found describing a named site here; the original validation rested solely on an unattributed single 'perplexity' AI query. Downgraded to validated=false; fabricated marine life detail removed pending real sourcing and location confirmation."
     }
   },
   {
@@ -315,9 +336,10 @@
       "reef": "sand",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Sand reef near Pointe Marin with coral formations, slopes 5-18m. Intermediate reef dive with sandy bottom featuring rays and garden eels, coral patches with reef fish. Light to moderate current. Good for intermediate exploration."
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-08-13",
+      "notes": "UNRESOLVED (re-audit 2026-08-13): geographic sources (mindat.org, mapcarta) confirm this is a real charted reef bank near Pointe Marin/Sainte-Anne, but no dive shop or forum lists it as a named, described dive site. Searched Alpha Plongee, Tribloo, Paradis Plongee, Espace Plongee, Kariba Plongee - none mention it. Prior validation rested on a single unattributed 'perplexity' query. Downgraded to validated=false; fabricated marine-life/current detail removed. Location text corrected from 'Sainte-Luce' to the more accurate Pointe Marin/Sainte-Anne area per geographic sources."
     }
   },
   {
@@ -336,9 +358,10 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Coral reef near Banc du Singe with hard coral formations and sponges, depths 8-20m. Intermediate site with diverse reef fish, occasional rays and turtles. Good visibility and moderate currents. Caribbean reef habitat diving."
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-08-13",
+      "notes": "UNRESOLVED (re-audit 2026-08-13): geographic sources place this near Pointe Marin/Le Marin (Duprey is a district of Le Marin), not confirmed as a named dive site by any operator searched (Alpha Plongee, Tribloo, Paradis Plongee, Espace Plongee, Kariba Plongee). Prior validation rested on a single unattributed 'perplexity' query. Downgraded to validated=false; fabricated marine-life detail removed."
     }
   },
   {
@@ -357,9 +380,10 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Shallow coral reef plateau, 8-15m ideal for beginning divers. Healthy hard and soft coral formations with abundant reef fish. Good visibility and calm conditions. Perfect for building reef diving skills in Caribbean waters."
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-08-13",
+      "notes": "UNRESOLVED (re-audit 2026-08-13): no dive shop or forum source found describing this as a named site at these coordinates; a navigational chart source (getamap.net) lists a 'Banc Mitan' at different coordinates (14.58, -61.08) near Trois-Ilets, suggesting possible confusion between two similarly-named banks. Prior validation rested on a single unattributed 'perplexity' query. Downgraded to validated=false; fabricated marine-life detail removed. Site type/location claims ('Sainte-Luce') not confirmed."
     }
   },
   {
@@ -378,9 +402,10 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Major coral bank (banc major = main bank) with extensive hard coral and gorgonian formations, depths 10-20m. Intermediate reef exploration with good fish life and gorgonian gardens. Good visibility and manageable currents."
+      "validated": false,
+      "validation_source": "",
+      "last_qa_date": "2026-08-13",
+      "notes": "UNRESOLVED (re-audit 2026-08-13): no dive shop or forum source found describing this as a named site at these coordinates (searched Alpha Plongee, Tribloo, Paradis Plongee, Espace Plongee, Kariba Plongee, plongee-martinique.fr). Prior validation rested on a single unattributed 'perplexity' query. Downgraded to validated=false; fabricated marine-life detail removed."
     }
   },
   {
@@ -399,9 +424,10 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "description": "Large Caribbean cay reef (grand-caye = big island) with coral formations and sponges, 6-18m. Intermediate dive with typical Caribbean reef fish, rays, occasional sea turtles. Good visibility and light currents."
+      "validated": true,
+      "validation_source": "paradisplongee.com, biodiversite-martinique.fr, aloelocation.fr, karibaplongee.com",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: this is the real, well-documented 'La Grande Caye' site east of Sainte-Luce - a ~200m coral reef with roughly 50 coral species, one of the richest in the Lesser Antilles per paradisplongee.com. Martinique Biodiversity Observatory (biodiversite-martinique.fr) documented coral spawning here in 2019. Accessible only by guided boat excursion."
     }
   },
   {
@@ -420,8 +446,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "labaignoiredejosephine.com, tourcrib.com",
-      "notes": "Josephine's Bathtub - 2km off Le François, white sand shallow lagoon, 1-1.5m depth"
+      "validation_source": "frs-express.com, labaignoiredejosephine.com, routard.com",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13: confirmed as a shallow sandbank (0.5-1.5m) between Ilet Oscar and Ilet Thierry off Le Francois, named for Empress Josephine; boat-access only, primarily a wading/snorkeling stop rather than a scuba site"
     }
   }
 ]
