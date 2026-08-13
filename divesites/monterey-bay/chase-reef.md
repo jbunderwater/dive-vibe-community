@@ -89,4 +89,4 @@ Monterey's 50-55°F water at 20 meters demands proper thermal protection (5-7mm 
 Always deploy an SMB on ascent for boat crew awareness. Maintain buddy contact throughout, particularly when navigating kelp. Watch for current changes. Follow the dive operator's briefing for descent and ascent procedures. Only dive on days with suitable conditions for the boat—sea state and visibility matter.
 
 ---
-*Sources: [California Diving News — Chase Reef](https://cadivingnews.com/dive-spots/chase-reef/), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [ScubaBoard — Best Monterey Dive Sites](https://scubaboard.com/community/threads/best-monterey-dive-sites.381486/). Last updated 2026-06-16.*
+*Sources: [California Diving News — Chase Reef](https://cadivingnews.com/dive-spots/chase-reef/), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [ScubaBoard — Best Monterey Dive Sites](https://scubaboard.com/community/threads/best-monterey-dive-sites.381486/). Last updated 2026-08-13.*

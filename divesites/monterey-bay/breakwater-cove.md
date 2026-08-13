@@ -62,4 +62,4 @@ Monterey Bay's year-round water temperature of 50-55°F requires proper thermal 
 Monitor water temperature and thermal protection carefully. The kelp canopy can disorient inexperienced divers—stay near structures or use compass bearings. Watch for boat traffic along the breakwater and maintain awareness of surge conditions. Always use a surface marker buoy (SMB). Buddy contact is essential in kelp.
 
 ---
-*Sources: [Monterey Scuba Board — San Carlos Beach](https://montereyscubaboard.com/monterey-dive-sites/san-carlos-beach/), [OpenDiveSites — Breakwater Cove](https://opendivesites.org/Breakwater_Cove), [ScubaBoard — Best Monterey Dive Sites](https://scubaboard.com/community/threads/best-monterey-dive-sites.381486/). Last updated 2026-06-16.*
+*Sources: [Monterey Scuba Board — San Carlos Beach](https://montereyscubaboard.com/monterey-dive-sites/san-carlos-beach/), [OpenDiveSites — Breakwater Cove](https://opendivesites.org/Breakwater_Cove), [ScubaBoard — Best Monterey Dive Sites](https://scubaboard.com/community/threads/best-monterey-dive-sites.381486/). Last updated 2026-08-13.*

@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## GBR North Coral Head
 
-GBR North Coral Head is the northern companion pinnacle to GBR Coral Head in Kwajalein Atoll's inner lagoon, typically dived on the same trip and offering a complementary experience to the main GBR site with its own distinct fish community.
+GBR North is a newly-explored coral head north of GBR Coral Head, with no detailed local description yet recorded.
 
 ## Overview
 
-Positioned slightly north of GBR Coral Head, GBR North rises from the same sandy lagoon floor environment within sight of its neighbor. The two sites are often treated as a single dive destination — divers descend on one pinnacle, explore it thoroughly, then navigate the short distance across the sandy flat to the other for a second structure before ascending. GBR North is slightly smaller than its companion but no less productive biologically, with mature hard coral encrustation and well-established marine communities.
-
-The typical Kwajalein lagoon conditions apply here: visibility 25–35 meters, water temperature 28–30°C, mild currents, and excellent clarity that allows the full depth profile to be visible from the surface. The site is reliably diveable year-round.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-GBR North has developed a reputation for denser parrotfish activity than the main GBR site — bumphead parrotfish and steephead parrotfish are frequently seen grazing noisily on the coral heads, leaving characteristic white sand (processed coral) in their wake. The crunching sound of parrotfish feeding is often the first thing divers notice on descent. Humphead wrasse patrol the perimeter. Grey reef sharks are consistent mid-water companions.
-
-The shallower sections of GBR North are particularly rich in coral diversity — table coral formations overlap in layered canopies, and the spaces beneath them shelter soldierfish, squirrelfish, and resting triggerfish. Nudibranchs are abundant on the encrusted surfaces for macro enthusiasts.
+GBR North sits a short distance north of GBR Coral Head. Local diver notes describe it only as a newly-explored area worth a look, with no detailed site description yet recorded.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; typically paired with GBR Coral Head
-- **Best For**: Intermediate divers; notable for parrotfish activity and coral diversity
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Bumphead parrotfish, steephead parrotfish, humphead wrasse, grey reef sharks, soldierfish, squirrelfish, triggerfish, nudibranchs, table corals, encrusting sponges.
+No confirmed marine-life reports exist for this specific site.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718) (site notes limited/inconclusive for this specific location). Last updated 2026-08-13.*

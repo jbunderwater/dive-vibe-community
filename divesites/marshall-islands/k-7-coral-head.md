@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## K-7 Coral Head
 
-K-7 Coral Head is a Kwajalein Lagoon pinnacle in the K-series cluster, positioned slightly west of the main K-9 group and known among regular Kwajalein divers for a large resident moray population and a particularly photogenic pinnacle profile.
+K-7 is one of several closely grouped coral heads in Kwajalein's central lagoon, marked by a resident sea anemone or two near its shallow crown.
 
 ## Overview
 
-Part of the K-series grouping that defines a substantial portion of Kwajalein's inner lagoon dive circuit, K-7 offers the same fundamental appeal as its K-series neighbors — an isolated hard coral pinnacle rising from the sandy lagoon floor through 25 meters of clear water, accessible by boat and diveable year-round in the atoll's calm, sheltered lagoon environment.
-
-K-7 sits slightly apart from the denser K-9 and K-10 cluster, giving it a slightly different water circulation pattern and, divers report, a somewhat different fish community — slightly more parrotfish activity on the coral surfaces and fewer barracuda than the more exposed sites.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-Large moray eels are a K-7 specialty — the pinnacle's abundant crevices and overhangs shelter an unusually dense moray population, including massive giant morays that extend their heads from holes throughout the dive. Feeding opportunities are frequent as the morays hunt small fish across the coral surface, and the closely spaced crevices make it possible to spot several individuals in a single glance across the structure. Humphead wrasse are regular companions, and schools of snapper circulate the mid-water zone.
-
-The pinnacle crown at 5–10 meters features some of the best hard coral coverage in the K-series cluster, with particularly large brain coral formations — some exceeding a meter in diameter — that have grown undisturbed for many decades. Clownfish in anemone colonies are scattered throughout the upper structure.
+K-7 is part of the K-series cluster of coral heads in the central lagoon. It rises to within easy reach of the surface and is described by local divers as a fair-sized head with a couple of resident sea anemones.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; can be combined with nearby K-9 and K-10 sites
-- **Best For**: Intermediate divers; particularly good for moray eel encounters
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Giant moray eels, humphead wrasse, snapper schools, large brain corals, clownfish and anemones, parrotfish, groupers, lionfish, butterflyfish.
+Sea anemones have been reported on the coral head. No further site-specific species reports were found; broader Kwajalein Lagoon fauna (reef fish, moray eels, occasional grey reef sharks) may be present but has not been confirmed for this specific site.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

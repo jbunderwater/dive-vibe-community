@@ -13,49 +13,27 @@ addedBy: osm_import
 
 ## Grand-Caye
 
-Grand-Caye is one of Martinique's larger reef structures in the southern Caribbean, positioned between the Sainte-Luce and Rivière-Pilote areas and characterised by broad coral coverage and a well-established resident fish community.
+Grand-Caye (La Grande Caye) is a roughly 200-metre coral reef east of Sainte-Luce on Martinique's south coast, and one of the best-documented reef sites in this destination - dive operator Paradis Plongée and the Martinique Biodiversity Observatory both describe it in detail as one of the richest coral sites in the Lesser Antilles.
 
 ## Overview
 
-As the name suggests, Grand-Caye is a substantial reef feature — larger in extent than most of the smaller caye sites nearby. It features a wide coral platform ranging from 5 to 18 meters with diverse hard coral assemblages including brain, star, and pillar corals, complemented by a sponge community that develops significantly at the deeper edges. The broad, navigable extent of the reef makes it suitable for longer dive explorations. Visibility averages 15–25 meters. Water temperature holds at 26–28°C year-round.
+Paradis Plongée, which runs trips here from Sainte-Luce, describes La Grande Caye as home to roughly fifty coral species competing for space across a coral plateau accessible to both beginners and experienced divers, with multiple mooring points allowing different areas of the reef to be explored on repeat visits. Kariba Plongée, a second Sainte-Luce operator, also lists Grande Caye among its regular sites, noting nudibranchs as a highlight find. The Martinique Biodiversity Observatory documented a coral-spawning event at Grande Caye in 2019, corroborating the site's reputation for exceptional coral diversity. One further source (Québec Yachting) describes a coral garden at roughly 5 metres depth suited to training dives, with the reef extending further from there. The site is described as accessible only via guided boat excursion, with no shore access.
 
 ## Site Information
 
-- **Location**: South Caribbean coast, Martinique (Sainte-Luce / Rivière-Pilote area)
+- **Location**: East of Sainte-Luce, south coast Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Light to moderate
-- **Best Time**: November to May
 
 ## Marine Life
 
-The larger reef area at Grand-Caye supports a more diverse community than the smaller cayes. Large green and hawksbill turtles are common throughout the reef. Nurse sharks are frequently found resting under coral overhangs at depth. Schools of yellowtail snappers and grunts congregate around coral structures. Southern stingrays traverse the sandy margins. The deep edge of the reef produces eagle ray sightings and occasional barracuda.
-
-## Dive Profile
-
-The breadth of Grand-Caye allows divers to plan longer explorations along the reef. Descend to the main plateau and follow the reef edge, varying between shallower and deeper sections as marine life dictates. The 12–18 meter outer edge typically yields the most interesting encounters. Allow adequate air for a safety stop in the shallower zone.
+Confirmed site-specific marine life is limited to: roughly fifty coral species (Paradis Plongée), nudibranchs (Kariba Plongée), and hundreds of tropical reef fish including surgeonfish and parrotfish, plus crustaceans and squid on night dives (aloelocation.fr). The previous version of this page listed additional species (nurse sharks, eagle rays, specific turtle counts) that could not be traced to a source for this specific site and have been removed; Martinique's general reef fauna may include these species, but they are not confirmed as regular sightings at Grand-Caye specifically.
 
 ## Entry and Exit
 
-Boat dive from Sainte-Luce or Rivière-Pilote operators. Giant stride or back-roll entry to a mooring buoy if available. SMB deployment on ascent. Pair with Banc du Singe or Caye Duprey for a diverse two-tank south coast day.
-
-## Tips and Recommendations
-
-- The larger reef area rewards divers who take time to explore its full extent rather than covering it quickly
-- The outer edge at 15–18 meters is the best zone for encounters with larger species
-- Ask your operator about any cleaning station locations on the reef — these can be reliably productive for wrasse and goby observation
-- Grand-Caye works well as a second dive after a deeper site like Banc Major
-
-## Safety Considerations
-
-The site's breadth means navigation discipline is important — maintain a reference for the return route to the boat. Fire coral is present, particularly on the shallower crest. Deploy SMB before ascending.
-
-## Photography
-
-The combination of broad reef coverage and clear water makes Grand-Caye a versatile photography site. Wide-angle reef panoramas, turtle portraits, and nurse shark shots at depth are all achievable. The expansive sandy margin on the deep side provides clean background for stingray portraits.
+Boat dive from Sainte-Luce operators (Paradis Plongée, Kariba Plongée, and others); accessible only by guided excursion.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Paradis Plongée — La Grande Caye](https://paradisplongee.com/sites-de-plongees/baie-de-sainte-luce-la-grande-caye), [Kariba Plongée — Nos sites](https://www.karibaplongee.com/sites-de-plong%C3%A9e), [Observatoire Martiniquais de la Biodiversité — Ponte de coraux 2019, Grande Caye](https://www.biodiversite-martinique.fr/galerie-video/ponte-de-coraux-2019-site-de-grande-caye), [Aloe Location — Barrière de corail Martinique](https://www.aloelocation.fr/barriere-de-corail-martinique-les-7-spots-incontournables-pour-une-exploration-reussie). Last updated 2026-08-13.*

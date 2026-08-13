@@ -76,4 +76,4 @@ The pipeline system represents Monterey's sardine fishing heritage. During the p
 Monitor your air consumption carefully—kelp diving increases air density effects. Always use an SMB on ascent. Maintain buddy contact, especially in the kelp. Watch for unexpected current changes. The easy entry conditions and shallow depth make this an excellent site for building cold-water diving confidence.
 
 ---
-*Sources: [Monterey Scuba Board — McAbee Beach](https://montereyscubaboard.com/monterey-dive-sites/mcabee-beach/), [California Diving News — McAbee Beach](https://cadivingnews.com/dive-spots/history-healthy-kelp-forest-enjoying-montereys-mcabee-beach-2/), [OpenDiveSites — McAbee Beach](https://opendivesites.org/McAbee_Beach). Last updated 2026-06-16.*
+*Sources: [Monterey Scuba Board — McAbee Beach](https://montereyscubaboard.com/monterey-dive-sites/mcabee-beach/), [California Diving News — McAbee Beach](https://cadivingnews.com/dive-spots/history-healthy-kelp-forest-enjoying-montereys-mcabee-beach-2/), [OpenDiveSites — McAbee Beach](https://opendivesites.org/McAbee_Beach). Last updated 2026-08-13.*

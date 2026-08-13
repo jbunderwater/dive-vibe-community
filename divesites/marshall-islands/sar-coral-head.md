@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## SAR Coral Head
 
-SAR Coral Head is a Kwajalein Lagoon pinnacle dive in the western inner lagoon zone, where "SAR" likely derives from a military search-and-rescue (SAR) related reference point used in the atoll's operational chart system — a name that hints at the thoroughness with which the US military mapped every feature of the world's largest atoll lagoon.
+SAR Coral Head is a small formation just inside SAR Pass that had not yet been dived and described by local sources as of the most recent notes available.
 
 ## Overview
 
-SAR Coral Head occupies a position in the western lagoon sector between the main central cluster and the more remote Kwaj-series sites, making it an accessible intermediate option for divers venturing toward the western lagoon zone. The pinnacle structure is well-developed, rising from the sandy lagoon floor through 25 meters of clear water, with the mature hard coral encrustation typical of established Kwajalein sites.
-
-The western lagoon position delivers slightly more current-influenced conditions than the most sheltered inner sites, producing better nutrient delivery and correspondingly more active mid-water fish populations.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-SAR Coral Head has developed a reputation among regular Kwajalein divers for consistently reliable encounters with large groupers — particularly squaretail coral groupers and camouflage groupers that hold territory in the deeper crevices and hover at the base of the pinnacle. These are large, heavyweight fish that hold their position with confidence as divers approach, providing outstanding close-up photography opportunities. Humphead wrasse patrol the upper sections. Grey reef sharks circle at mid-water.
-
-The sandy floor immediately around the pinnacle base is productive — blue-spotted ribbontail rays rest here regularly, and several pairs of garden eels maintain colonies in the adjacent sand. The coral surfaces throughout the pinnacle support moray eels, lionfish, and the usual range of Kwajalein lagoon macro subjects.
+SAR Coral Head is a small formation located a short distance inside SAR Pass. Available local diver notes indicate it had not yet been dived and described at time of writing.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
 - **Entry**: Boat dive
-- **Best For**: Intermediate divers; noted for large grouper encounters
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Large groupers (squaretail coral, camouflage), humphead wrasse, grey reef sharks, blue-spotted ribbontail rays, garden eels, moray eels, lionfish, snapper, fusiliers.
+No confirmed marine-life reports exist for this specific site.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718) (site notes limited/inconclusive for this specific location). Last updated 2026-08-13.*

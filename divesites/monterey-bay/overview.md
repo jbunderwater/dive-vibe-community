@@ -8,13 +8,15 @@ World-famous kelp forest diving with incredible marine biodiversity.
 
 ## Description
 
-Monterey Bay is a notable diving destination in the North America region, offering diverse dive sites with depths ranging from 20 to 20 meters. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
+Monterey Bay is one of the premier cold-water diving destinations in North America, with dive sites in this database ranging from about 14 to 40 meters. Water temperatures run a cold, steady 10-13°C (50-55°F) year-round, with visibility typically 5-20 meters (15-65 feet) depending on site and season. Diving happens year-round — this is not a seasonal destination — though many local sources point to fall (September-November) as offering the calmest conditions and best visibility.
 
 ### Diving Opportunities
 
-- **Boat Diving**: Boat-accessible sites reached through local dive operators
-- **Wreck Diving**: Historic shipwrecks preserved in the region's waters
+- **Shore Diving**: Numerous accessible shore-entry kelp forest, wall, and pinnacle sites, particularly around Cannery Row, Pacific Grove, and Point Lobos State Reserve
+- **Boat Diving**: Boat-accessible pinnacles and reefs reached through local dive operators
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+
+Note: this destination's dive sites are kelp forest, wall, reef, and pinnacle dives — no confirmed wreck dive sites are documented in this database for Monterey Bay.
 
 ### Accessibility
 
@@ -26,16 +28,16 @@ Monterey Bay is a notable diving destination in the North America region, offeri
 
 ### Marine Life & Environment
 
-- **Water Conditions**: Water temperatures range from 7-24°C (45-75°F) with visibility of 5-25 meters (15-80 feet). Currents are generally variable, can be strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks, giant kelp, sea urchins.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
+- **Water Conditions**: Water temperatures run 10-13°C (50-55°F) year-round with visibility of 5-20 meters (15-65 feet). Currents are generally variable and can be strong at exposed sites.
+- **Marine Biodiversity**: The kelp forest and rocky reef ecosystem supports sea otters, harbor seals, sea lions, giant Pacific octopus, lingcod, wolf eels, rockfish (multiple species), sheephead, nudibranchs, sea stars, anemones (including metridium and strawberry anemones), sponges, and giant kelp. These are regional/destination-level observations, not claims about any specific site — see individual site pages for site-specific sightings.
+- **Conservation**: Much of Monterey Bay lies within the Monterey Bay National Marine Sanctuary and includes multiple State Marine Reserves (e.g., Lovers Point, Pacific Grove Marine Gardens) with take restrictions on marine life.
 
 ## Additional Information
 
-- **Best Time to Visit**: June to October. Outside the main season, conditions may be less favorable.
+- **Best Time to Visit**: Diveable year-round due to consistently cold water; fall (September-November) is commonly cited by local sources as offering the calmest seas and best visibility.
 - **Currency**: US Dollar
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of cold water, surge, limited visibility. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Monterey Bay National Marine Sanctuary](https://montereybay.noaa.gov), [California Diving News](https://cadivingnews.com/), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-08-13.*

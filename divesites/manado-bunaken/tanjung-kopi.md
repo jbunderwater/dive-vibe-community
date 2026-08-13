@@ -13,29 +13,26 @@ addedBy: osm_import
 
 ## Tanjung Kopi
 
-Tanjung Kopi — "Coffee Point" in Indonesian — is a wall dive at a prominent headland on Bunaken Island's north coast, known for its powerful currents, healthy gorgonian garden, and shark encounters in the deeper open water.
+Tanjung Kopi sits behind Manado Tua, where a sandy plateau (roughly 5-30 metres) transitions into a vertical wall dropping 80 metres or more.
 
 ## Overview
 
-Tanjung Kopi sits on the north coast of Bunaken Island at a rocky point that juts into the Bunaken Strait. The name reportedly comes from the dark-coloured rocks visible on the point, which local fishermen thought resembled coffee grounds. Oceanographically, the headland creates significant current turbulence, particularly during tidal exchanges in the strait between Bunaken Island and Manado Tua volcano. This current energy feeds the wall's extraordinary invertebrate life and creates the aggregations of schooling fish that make the site exciting for advanced divers.
+Currents here are strong and can be unpredictable, and visibility is more variable than at the sheltered south-coast sites, typically ranging 5-25 metres. Sources describe a very steep slope becoming vertical at around 25 metres.
 
 ## What to Expect
 
-The wall drops from a reef crest at 5 metres to around 35 metres, with the most compelling diving in the 15–30 metre band. Large sea fans with wingspans of 1–2 metres are the headline feature; many have been growing in place for decades and represent a significant part of the site's charm. Between the seafans, the wall is lined with colourful soft corals and encrusted with crinoids. Sea snakes are frequently seen moving along the wall face as they hunt crevice-dwelling fish.
-
-At the point itself, when current is running, the open water fills with schooling fish: fusilier in the thousands, bigeye trevally, and dogtooth tuna all pass through. Whitetip reef sharks patrol the base of the wall and the sand at depth, while grey reef sharks occasionally appear from deeper water. The combination of wall inspection and open-water scanning makes Tanjung Kopi a site where attention is pulled in multiple directions simultaneously.
+Black-tail barracuda, whitetip reef sharks, dogtooth tuna, Napoleon wrasse, and eagle rays are all reported here, alongside schools of butterflyfish, surgeonfish, snappers, and mackerel passing along the wall.
 
 ## Conditions
 
-- **Depth range:** 5–35+ m
-- **Visibility:** 15–28 m
-- **Currents:** Strong; particularly at the point during tidal exchanges
-- **Water temperature:** 26–30°C
-- **Best season:** May–October; north coast sites best avoided during north-west monsoon
+- **Depth range:** ~5-30 m plateau, wall dropping to 80 m+
+- **Currents:** Strong, unpredictable
+- **Visibility:** 5-25 m
+- **Diving level:** Advanced
 
 ## Tips
 
-Tanjung Kopi rewards patience on the point — position yourself on the wall face out of the main current flow and watch the schooling fish pass by, rather than trying to chase them into open water. The seafans are best viewed with a torch to reveal their resident inhabitants. Plan dives for slack current windows if the priority is wall inspection rather than drift diving.
+Given the unpredictable current here, this is not a site to dive without an experienced local guide who can read conditions before entry.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [Bottles Up Diving - Bunaken](https://www.bottles-up-diving.com/EN-pages/BU_divingother_bunaken_EN.html), [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Starfish.ch - Bunaken Dive Sites](https://starfish.ch/dive/Bunaken.html). Last updated 2026-08-13.*

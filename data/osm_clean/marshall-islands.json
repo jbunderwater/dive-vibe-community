@@ -1,29 +1,12 @@
 [
   {
-    "name": "Raycrew",
-    "lat": 7.08668,
-    "lon": 171.3737005,
-    "osm_id": 3993101976,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Raycrew",
-      "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
-    }
-  },
-  {
     "name": "Hiroshi East End",
     "lat": 5.25881,
     "lon": 162.9892488,
     "osm_id": 4031637101,
     "osm_type": "node",
     "depth": 22,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -81,8 +64,9 @@
       "scuba_diving:type:wall": "no",
       "scuba_diving:type:wreck": "no",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "GEOGRAPHIC DATA ERROR: this site's coordinates place it in Kosrae, Federated States of Micronesia -- a separate country, not the Marshall Islands. Flagged for maintainer review; not validated as a Marshall Islands site.",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -92,7 +76,7 @@
     "osm_id": 4031637102,
     "osm_type": "node",
     "depth": 22,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -150,8 +134,9 @@
       "scuba_diving:type:wall": "no",
       "scuba_diving:type:wreck": "no",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "GEOGRAPHIC DATA ERROR: this site's coordinates place it in Kosrae, Federated States of Micronesia -- a separate country, not the Marshall Islands. Flagged for maintainer review; not validated as a Marshall Islands site.",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -219,8 +204,9 @@
       "scuba_diving:type:wall": "no",
       "scuba_diving:type:wreck": "no",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "GEOGRAPHIC DATA ERROR: this site's coordinates place it in Kosrae, Federated States of Micronesia -- a separate country, not the Marshall Islands. Flagged for maintainer review; not validated as a Marshall Islands site. Additionally, no source confirms a dive site specifically named \"Old Clam Farm.\"",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -288,8 +274,9 @@
       "scuba_diving:type:wall": "yes",
       "scuba_diving:type:wreck": "no",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "GEOGRAPHIC DATA ERROR: this site's coordinates place it in Kosrae, Federated States of Micronesia -- a separate country, not the Marshall Islands. Flagged for maintainer review; not validated as a Marshall Islands site.",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -357,8 +344,9 @@
       "scuba_diving:type:wall": "no",
       "scuba_diving:type:wreck": "yes",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "no site-specific source found under this name; Majuro lagoon has multiple documented WWII wrecks but none confirmed to match this name/location",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -425,8 +413,9 @@
       "scuba_diving:type:wall": "yes",
       "scuba_diving:type:wreck": "no",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "no source names a pass/channel site called \"West Coral Pass\" specifically; general Majuro/Arno pass-diving character documented but not this exact site",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -444,8 +433,9 @@
       "name": "K-10 Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "insufficient independent sources",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -463,8 +453,9 @@
       "name": "G-Buoy Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "insufficient independent sources",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -473,7 +464,7 @@
     "lon": 167.73253,
     "osm_id": 13042385000,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 23,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -483,7 +474,8 @@
       "name": "Toilet Bowl",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -492,17 +484,18 @@
     "lon": 167.65216,
     "osm_id": 13042425101,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "diving:type": "reef",
       "name": "Vertical Wall",
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -511,17 +504,18 @@
     "lon": 167.7341,
     "osm_id": 13042425102,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 9,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:type": "reef",
       "name": "Emon Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -540,7 +534,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -552,14 +547,15 @@
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "depth": "30",
       "diving:type": "recreational",
       "name": "Junkpile-3",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -578,7 +574,8 @@
       "name": "Junkpile-2",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -587,16 +584,17 @@
     "lon": 167.7287,
     "osm_id": 13042425106,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "diving:type": "recreational",
       "name": "Junkpile-1",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -614,8 +612,9 @@
       "name": "Barracuda Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "insufficient independent sources",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -633,8 +632,9 @@
       "name": "SAR Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "insufficient independent sources",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -643,17 +643,18 @@
     "lon": 167.60123,
     "osm_id": 13042425109,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:type": "reef",
       "name": "Kwaj-3 Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -662,17 +663,18 @@
     "lon": 167.67161,
     "osm_id": 13042425110,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:type": "reef",
       "name": "Kwaj-2 Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -681,17 +683,18 @@
     "lon": 167.67698,
     "osm_id": 13042425111,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:type": "reef",
       "name": "Kwaj-1 Coral Head",
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -710,7 +713,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -729,7 +733,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -748,7 +753,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -767,7 +773,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -786,7 +793,8 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -807,7 +815,8 @@
       "sport": "scuba_diving",
       "subsea": "coral_reef",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -827,8 +836,9 @@
       "reef": "coral",
       "sport": "scuba_diving",
       "subsea": "coral_reef",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "qa_note": "insufficient independent sources",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -849,7 +859,8 @@
       "sport": "scuba_diving",
       "subsea": "coral_reef",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -858,10 +869,10 @@
     "lon": 167.7232316,
     "osm_id": 1475405898,
     "osm_type": "way",
-    "depth": 25,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:type": "reef",
       "name": "MAR Fill Coral Head",
@@ -870,7 +881,8 @@
       "sport": "scuba_diving",
       "subsea": "coral_reef",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -888,7 +900,8 @@
       "name": "R-Buoy Coral Head",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -909,7 +922,8 @@
       "sport": "scuba_diving",
       "subsea": "coral_reef",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -930,7 +944,8 @@
       "sport": "scuba_diving",
       "subsea": "coral_reef",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -948,7 +963,8 @@
       "name": "Victor Buoy Coral Head",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -966,7 +982,8 @@
       "name": "T-Buoy Coral Head",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -984,7 +1001,8 @@
       "name": "S-Buoy Coral Head",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -1002,7 +1020,8 @@
       "name": "Marita Shoals",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -1023,7 +1042,8 @@
       "sport": "scuba_diving",
       "subsea": "coral_reef",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "sixmeters.com,kwajaleinscubaclub.org,scubago.com",
+      "last_qa_date": "2026-08-13"
     }
   }
 ]

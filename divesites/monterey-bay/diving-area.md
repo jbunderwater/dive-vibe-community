@@ -133,4 +133,4 @@ Divers trained in Monterey Bay typically feel well-prepared for diving worldwide
 - **Monterey Bay National Marine Sanctuary**: https://montereybay.noaa.gov
 
 ---
-*Sources: [California State Parks — Point Lobos SCUBA Diving](https://www.parks.ca.gov/?page_id=28353), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [California Diving News](https://cadivingnews.com/). Last updated 2026-06-16.*
+*Sources: [California State Parks — Point Lobos SCUBA Diving](https://www.parks.ca.gov/?page_id=28353), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [California Diving News](https://cadivingnews.com/). Last updated 2026-08-13.*

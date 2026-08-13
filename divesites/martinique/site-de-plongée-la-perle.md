@@ -17,7 +17,9 @@ La Perle (Îlet de la Perle) is an advanced wall dive site off Martinique's nort
 
 ## Overview
 
-Îlet de la Perle sits less than two miles offshore in the Dominica Channel, where strong open-ocean currents regularly push through. These currents bring nutrient-rich water that supports dense fish populations, making La Perle one of Martinique's most productive dive sites for large pelagic encounters. The walls drop from the reef top at approximately 20–25 metres to depths well below 40 metres, with a maximum scheduled recreational depth of around 40 metres.
+**Possible duplicate notice**: this entry and the "Rocher de la Perle" entry elsewhere on this site both appear to describe the same real-world islet - Ilet de la Perle, off Anse Céron near Le Prêcheur - recorded with different coordinates from two separate data-gathering passes. Flagged for a future de-duplication review; not merged in this pass to avoid unreviewed data loss.
+
+Îlet de la Perle sits off Anse Céron in the Dominica Channel, within Le Prêcheur's marine reserve, where currents regularly push through. Martinique-tour.com and quebecyachting.ca both confirm strong currents and depths in the 20-60m range on the walls (martinique-tour.com: 5-60m overall, dramatic drop-offs 20-60m).
 
 ## Dive Profile
 
@@ -29,7 +31,7 @@ La Perle (Îlet de la Perle) is an advanced wall dive site off Martinique's nort
 
 ## Marine Life
 
-Barracudas and large schools of horse-eye jacks (*Caranx latus*) are consistently reported. Groupers, snappers, and parrotfish inhabit the upper reef. Pelagic species including marlins are occasionally sighted in the channel. Hawksbill turtles are frequently encountered on the wall faces.
+Barracudas, jacks (carangues), coral reef fish, and turtles are confirmed across sources for this islet. This re-audit could not confirm the previous version's claim of marlin sightings against any source consulted and has removed it rather than restate it as fact.
 
 ## Safety Notes
 
@@ -41,4 +43,4 @@ The steep wall, school fish concentrations, and channel visibility create condit
 
 ---
 
-*Sources: [Just Gotta Dive — Martinique Dive Sites](http://www.justgottadive.com/dive_resources/travel_articles/captivating-coves-martiniques-plunging-coastal-dive-sites), [Martinique.org — Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving). Last updated 2026-05-17.*
+*Sources: [Martinique Tour - Plongée Nord Martinique](https://www.martinique-tour.com/profiter/la-plongee-en-martinique/les-spots-de-plongee-du-nord/), [Tribloo - Diving La Martinique](https://tribloo.com/en/destination/5/diving/la-martinique.html), [La Martinique en 5 sites de plongée - Québec Yachting](https://www.quebecyachting.ca/2026/conseils-et-chroniques/lieux-a-decouvrir/la-martinique-en-5-sites-de-plongee/). Last updated 2026-08-13.*

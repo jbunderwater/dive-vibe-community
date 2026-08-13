@@ -2,8 +2,8 @@
 name: Jardin Tropical
 lat: 14.52
 lng: -61.08
-difficulty: Beginner
-maxDepth: 10
+difficulty: Intermediate
+maxDepth: 25
 entryType: shore
 siteType: reef
 ref: null
@@ -13,49 +13,41 @@ addedBy: osm_import
 
 ## Jardin Tropical
 
-Jardin Tropical — the Tropical Garden — is a shallow shore-entry reef dive in the Les Anses d'Arlet area of southwest Martinique, earning its evocative name from the colourful density of coral and fish life that covers the rocky reef between 5 and 10 meters.
+**Unresolved location conflict** (flagged in a 2026-08-13 re-audit): this entry's stored coordinates place it in the Les Anses d'Arlet area, but the only dive-shop source found for a site of this name - Paradis Plongée - places "Jardin Tropical" in the Baie de Sainte-Luce, next to Grande Caye, roughly 15km away on the south coast. Neither Alpha Plongée nor Espace Plongée (the main Anses d'Arlet-area operators) lists a "Jardin Tropical" among their sites. This may reflect a coordinate error inherited from an earlier curation pass, or two genuinely distinct sites that happen to share a common descriptive name ("Tropical Garden"). This entry has been downgraded from validated to unresolved pending clarification, and the description below is written from the confirmed Sainte-Luce source - it should not be read as confirmed for the coordinates currently on file.
 
 ## Overview
 
-The site lies just offshore from one of Martinique's most attractive coastlines, accessible directly from the beach. The reef begins close to shore and develops into a series of coral-topped rocky outcrops interspersed with sandy channels — a layout that genuinely resembles a garden, with coral "beds" separated by sandy "paths." Coverage of brain, star, and soft corals is good, and the fish community is rich and varied. Visibility averages 15–20 meters. Water temperature holds at 26–28°C. The site's sheltered position in the bay keeps conditions calm on most days.
+Paradis Plongée describes its Jardin Tropical, in the Baie de Sainte-Luce next to Grande Caye, as a reef descending in stages from roughly 10 to 25 metres, rich in coral and tropical fish, with a green moray eel reported reaching up to 2 metres. If this is indeed the site behind this entry, the depth and difficulty below reflect that source rather than the previous placeholder values; if instead this entry describes a genuinely separate Anses d'Arlet site, none of its previous characteristics (depth, coral cover, seahorses) could be independently confirmed by this re-audit.
 
 ## Site Information
 
-- **Location**: Les Anses d'Arlet, southwest Martinique
+- **Location**: UNCONFIRMED — see location conflict note above. Coordinates on file are in Les Anses d'Arlet; the only confirmed source describes a same-named site in Baie de Sainte-Luce
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Very light; well-sheltered position
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Best Time**: Year-round
 
 ## Marine Life
 
-The garden-like structure of the reef creates habitat diversity concentrated in a small area. Seahorses have been reported here, taking advantage of sea fan anchors. Parrotfish, damselfish, and wrasse are abundant. French and grey angelfish move between coral heads in pairs. Juvenile fish of many species inhabit branching corals in the shallows. Sea turtles pass through regularly and often pause to feed on the reef's algae-covered surfaces.
+The only confirmed site-specific detail is a green moray eel reported up to 2 metres long, per Paradis Plongée's Sainte-Luce site page. This re-audit found no source for seahorses, French/grey angelfish, or the other species previously listed on this page, and has removed them rather than restate them as fact.
 
 ## Dive Profile
 
-Enter from the beach and navigate directly to the reef — the garden structure begins within a short swim. Work through the sandy channels between coral outcrops, exploring the varied micro-habitats. Maximum depth is 10 meters, allowing extended bottom times without NDL concerns. The dive rewards slow, deliberate exploration rather than covering distance.
+The stepped reef profile described by Paradis Plongée descends from roughly 10 to 25 metres; the previous version of this page's shallow "no NDL concerns" profile assumed a different, unconfirmed depth and has been removed.
 
 ## Entry and Exit
 
-Shore entry over sand or small rocks, depending on the exact access point. A beach mat or water shoes make entry comfortable. The site is immediately accessible from the beach — no long surface swim required.
+Access method is unconfirmed - see location conflict note above. The Sainte-Luce site is more likely boat-accessed given its association with the Grande Caye excursion area; the previous "shore entry from the beach" description could not be confirmed for either candidate location.
 
 ## Tips and Recommendations
 
-- Seahorse sightings are possible — look carefully in sea fan holdfasts and algae-covered rubble
-- The garden layout makes this site excellent for macro photography and species identification
-- A particularly good site for newer divers who want to explore reef structure without managing depth
-- Pair with Anse Dufour or Anse Noire for a full morning of shallow shore diving in the area
+- Resolve the location conflict noted above before relying on this page for trip planning
+- If diving the confirmed Sainte-Luce site, ask about the resident green moray eel
 
 ## Safety Considerations
 
-The beach entry requires care over rocks — water shoes until fully submerged. Watch for passing boats if the bay sees tourist traffic. Sea urchins are present in rocky areas near shore. Always dive with a buddy, even on this easy site.
-
-## Photography
-
-The dense coral-garden arrangement creates naturally attractive compositions at every turn. Macro photography is the highlight — look for nudibranchs, flamingo tongues, and cleaning shrimp on coral surfaces. Natural light at 5–10 meters during morning hours is excellent without artificial lighting.
+Standard reef-diving precautions apply. This re-audit found no site-specific safety information in the sources consulted; the previous version's rock-entry and sea-urchin warnings assumed a shore-entry profile that is not confirmed for the sourced Sainte-Luce location.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Paradis Plongée - Jardin Tropical (Baie de Sainte-Luce)](https://paradisplongee.com/sites-de-plongees/baie-de-sainte-luce-jardin-tropical). Last updated 2026-08-13. Only one site-specific source was found; location conflict noted above means this does not meet the 3-source validation bar and `validated` has been set to false.*

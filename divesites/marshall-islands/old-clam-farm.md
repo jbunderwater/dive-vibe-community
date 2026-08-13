@@ -13,31 +13,25 @@ addedBy: osm_import
 
 ## Old Clam Farm
 
-Old Clam Farm is a unique dive site on Kosrae in the Marshall Islands, where the ruins of a former giant clam (Tridacna) aquaculture operation have become an artificial reef supporting an extraordinary density of marine life.
+This record is flagged for a geographic data error and an unconfirmed site name -- see Overview.
 
 ## Overview
 
-Giant clam farming was attempted in Kosrae as part of Pacific aquaculture development programs, and when operations ceased, the remaining clam infrastructure and the surviving wild clam populations became a magnet for reef life. What divers find today is a relatively shallow reef site (maximum 23 meters) scattered with giant clams — some original farm stock that have grown to impressive size over the decades, others natural colonizers attracted to the structure. The clams themselves are visually spectacular, their iridescent mantles ranging from brilliant electric blue and green to gold and brown.
-
-The surrounding reef has developed organically around the old farm area, with hard coral growth now covering much of the artificial structure. Visibility in Kosrae's lagoon typically reaches 25–35 meters, and the site's sheltered position makes it accessible in most weather conditions.
+GEOGRAPHIC DATA ERROR: this site's coordinates place it in Kosrae, Federated States of Micronesia -- a separate country, not the Marshall Islands. Flagged for maintainer review; not validated as a Marshall Islands site. In addition, no source we found confirms a dive site named specifically "Old Clam Farm." A real giant-clam aquaculture facility does operate in Kosrae (in Lelu Municipality), and Kosrae has two named community clam-diving/snorkeling projects -- "Utwe Giant Clam City" and "Walung Giant Clam Garden" -- located near Walung and Utwe villages, close to this site's recorded coordinates. It is possible this record refers informally to one of those, but we cannot confirm that without a source using this exact name. All previously-published narrative about an "aquaculture program" history for this specific site has been removed as unverified.
 
 ## What to Expect
 
-The giant clams are the standout attraction — Tridacna gigas specimens with mantle spans exceeding half a meter are common, and their vivid colors and subtle mantle movements make them compelling subjects for underwater photography. Clownfish and neon damselfish patrol anemones scattered across the site. Cleaning stations on the reef attract humphead wrasse, groupers, and the occasional reef shark for grooming visits.
-
-The sandy areas around the clam zone are productive territory for nudibranchs, flatworms, and small cephalopods. Blue-spotted ribbontail rays rest on the sand in the shallows. At the site's deeper edges, schools of snapper and sweetlips hang over the reef structure.
+No site-specific description could be verified under this name. If this site is in fact the Walung Giant Clam Garden or Utwe Giant Clam City, expect resident giant clams (Tridacna species) as the headline attraction, consistent with Kosrae's broader clam-conservation program -- but this has not been confirmed for this exact location.
 
 ## Practical Information
 
-- **Depth Range**: 5–23 meters
-- **Visibility**: 20–35 meters typical in Kosrae lagoon
-- **Currents**: Generally mild; sheltered site
+- **Depth**: sources report figures between roughly 10-13 meters (Scuba Diver Life) and up to 23 meters depending on profile; treat the deeper figure as the maximum recreational limit
 - **Entry**: Boat dive
-- **Best For**: All intermediate divers; exceptional macro and wide-angle photography
+- **Currents**: Mild to moderate, site dependent
 
-## Marine Life Highlights
+## Marine Life
 
-Giant clams (Tridacna gigas and other species), clownfish, neon damselfish, humphead wrasse, groupers, snapper, sweetlips, blue-spotted ribbontail rays, nudibranchs, flatworms, moray eels, grey reef sharks.
+No site-specific marine-life source was found under the name "Old Clam Farm." Do not assume giant clams or other species are present at this exact location without further confirmation.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Coral Clam - Giant Clam Farm, Kosrae](https://www.coralclam.com/farm/), [GeoView - Giant Clams Farm, Kosrae](https://fm.geoview.info/giant_clams_farm,7648447) -- NOTE: these confirm a real clam farm exists in Kosrae but do not confirm a site named "Old Clam Farm"; this site is also geographically located in Kosrae, FSM, not the Marshall Islands. Last updated 2026-08-13.*

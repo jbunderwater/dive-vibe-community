@@ -51,7 +51,7 @@ Aumentos supports one of the densest populations of marine life in Monterey Bay.
 - Fluffy white metridium anemones covering the rock walls as depth increases
 - Bright red fish-eating anemones and encrusting sponges at the base
 
-**Note**: Garibaldi and grouper were listed in earlier versions but are not confirmed at this site. Garibaldi are a southern California species; grouper are not established in Monterey Bay waters.
+**Note**: Garibaldi and grouper were listed in earlier versions but are not confirmed at this specific site by any source consulted. Garibaldi range reaches as far north as Monterey Bay but they become scarce this far north and are far more common in Southern California; grouper are not established in Monterey Bay's cold waters. Neither species should be expected here without a site-specific sighting report.
 
 **Winter Diving Special**: Winter brings the densest fish populations, particularly large lingcod females inshore to breed. The annual gray whale migration through Monterey Bay (December–April) may be visible from the boat on the surface.
 
@@ -67,7 +67,7 @@ Aumentos is exceptional for fish photography and observation. Confirmed species 
 - Cabezon and sheephead
 - Surfperch near the reef top
 
-Wolf eels are possible in the crevices but were not specifically confirmed at Aumentos by sources consulted. Garibaldi and grouper are not expected in Monterey Bay waters and have been removed from this description.
+Wolf eels are possible in the crevices but were not specifically confirmed at Aumentos by sources consulted. Garibaldi and grouper are not expected at this site and have been removed from this description (see note above).
 
 ## Access and Boat Operators
 
@@ -111,4 +111,4 @@ Monterey's 10–13°C water at up to 26 meters demands excellent thermal protect
 This is an advanced dive requiring excellent buoyancy control, depth management, and current awareness. Always deploy an SMB on ascent. Maintain constant buddy contact. Follow the boat operator's briefing carefully. Only dive with operators experienced in Monterey's conditions. Abort the dive if conditions deteriorate. Winter sea state and visibility can change rapidly—trust the operator's judgment.
 
 ---
-*Sources: [California Diving News — Aumentos Reef](https://cadivingnews.com/dive-spots/dive-spot-monterey-county-aumentos-reef/), [OpenDiveSites — Aumentos Reef](https://opendivesites.org/Aumentos_Reef), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/). Last updated 2026-06-16.*
+*Sources: [California Diving News — Aumentos Reef](https://cadivingnews.com/dive-spots/dive-spot-monterey-county-aumentos-reef/), [OpenDiveSites — Aumentos Reef](https://opendivesites.org/Aumentos_Reef), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/). Last updated 2026-08-13.*

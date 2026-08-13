@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Krystal Toy
 
-Krystal Toy is a historic wreck dive in Martinique, Caribbean.
+Krystal Toy is a charted wreck position off southern Martinique. This page previously carried a detailed history and marine-life description; a 2026-08-13 re-audit found that none of it could be traced to any real source, and it has been removed.
 
 ## Overview
 
-The Krystal Toy is a steel yacht wreck resting on the seabed at around 30 metres in the waters off southern Martinique, its hull now blanketed in spectacular soft and hard coral growth. Sergeant fish, damselfish, angelfish, and wrasse school around the structure, and the dark recesses of the wreck shelter smaller critters and crustaceans that reward patient divers who take time to look closely. Martinique's volcanic Caribbean coastline gives the site the clear blue water and warm temperatures typical of the island's leeward dive sites.
+This entry originates from nautical chart data (an OpenStreetMap `seamark:name`/`seamark:wreck:category` tag pair, the kind of information typically sourced from official hydrographic charts), which indicates a genuine wreck position with visible hull structure. However, an extensive search - English and French terms, the major local dive-shop listings (Alpha Plongée, Tribloo, Paradis Plongée, Espace Plongée, Kariba Plongée), ScubaBoard, and the Archéonavale underwater-archaeology inventory for Martinique - turned up no description of this wreck by name. The vessel's identity, history, and condition are currently unknown to this project.
+
+**Everything previously written here about the vessel's type, coral growth, and resident fish was unsourced and has been deleted rather than corrected**, per this project's anti-hallucination policy. The prior "validated" tag rested on a single unattributed AI query, not a real source, and has been removed.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Off southern Martinique (charted wreck position)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 
+## Marine Life
+
+No site-specific marine-life source was found. Martinique's Caribbean-coast wrecks generally host reef fish, sponges and coral growth, but nothing here should be read as confirmed for this specific site until a real source is located.
+
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Description based on OpenStreetMap nautical chart data only. No site-specific dive-shop, forum, or archaeological source could be found despite an extensive search in English and French. Last updated 2026-08-13.*

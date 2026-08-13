@@ -3,7 +3,7 @@ name: Slow and Easy
 lat: 9.545
 lng: 138.115
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -16,20 +16,20 @@ addedBy: osm_import
 A gentle, shallow reef ideal for beginners and checkout dives, with garden eels on the sand flats and surprisingly good macro life in the coral rubble
 
 ## Overview
-Slow and Easy is located approximately 10 minutes from Manta Ray Bay Resort and is Yap's primary macro photography site. DAN Alert Diver describes it as "a gentle sand slope punctuated by hard-coral bommies" — an accurate summary of the site's character. The rubble patch that forms the main feature of the dive hosts confirmed populations of pipefish, ghost pipefish, multiple nudibranch species, symbiotic gobies paired with burrowing shrimps, and a large white mantis shrimp. Ikelite's Yap guide highlights the site specifically for shrimp gobies and prawns. A resident hawksbill turtle is described as sometimes very curious. The dive course between buoys covers barely 50 meters, yet experienced divers can spend 100 minutes or more exploring the concentrated critter life.
+Slow and Easy is located approximately 10 minutes from Manta Ray Bay Resort and is Yap's primary macro photography site. DAN Alert Diver describes it as "a gentle sand slope punctuated by hard-coral bommies" — an accurate summary of the site's character. Manta Ray Bay Resort's own dedicated page adds that the inshore reef drops from the surface to a sandy bottom at 6-20 meters (20-60ft), with niches, crevices, and rock outcroppings sheltering critters and nocturnal species. The rubble patch that forms the main feature of the dive hosts confirmed populations of pipefish, ghost pipefish, multiple nudibranch species, symbiotic gobies paired with burrowing shrimps, and a large white mantis shrimp. Ikelite's Yap guide independently confirms the red-banded prawn-goby (Amblyeleotris fasciata) here specifically. Three resident juvenile hawksbill turtles are confirmed by mantaray.com. The dive course between buoys covers barely 50 meters, yet experienced divers can spend 100 minutes or more exploring the concentrated critter life.
 
 ## Site Information
 - **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Light
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet); mantaray.com separately gives 5-20m (15-60ft)
+- **Current**: Light, 0-3 km/h (0-2mph)
 - **Best Time**: Year-round
 
 ## Marine Life
-Confirmed species at Slow and Easy: pipefish, ghost pipefish, nudibranchs (multiple species), symbiotic gobies and burrowing shrimps, a large white mantis shrimp (resident in a tennis-ball-sized burrow), and whip coral shrimp. A resident hawksbill turtle is well-known at this site. Garden eels are described as present on the sand flats by DAN. Small reef octopus have been reported at night. Blue-spotted stingrays may occur on the sand. Ikelite specifically identifies shrimp gobies and prawns as the signature macro subjects here.
+Confirmed species at Slow and Easy: pipefish, ghost pipefish, nudibranchs (multiple species), symbiotic gobies and burrowing shrimps (including the red-banded prawn-goby, per ikelite.com), a large white mantis shrimp, and whip coral shrimp. Three resident juvenile hawksbill turtles are confirmed by mantaray.com's dedicated page, along with bumphead parrotfish and white-tip sharks as larger visitors. Garden eels are described as present on the sand flats by DAN. Stonefish are confirmed by mantaray.com. Small reef octopus have been reported at night.
 
 ## Dive Profile
 A straightforward reef dive at 5-10 meters. Descend to the sand at 8-10 meters and explore the garden eel colonies, then work through the patch reef and rubble areas at shallower depths. The flat, open topography makes navigation easy. Extended bottom times of 60-70 minutes are standard at these depths. The site works well for skills practice due to the sandy bottom and calm conditions. Safety stop is barely necessary at these depths but good practice for newer divers.
@@ -51,4 +51,4 @@ This is Yap's safest dive site. Shallow depths, light currents, and calm conditi
 Macro is the primary discipline here. A 60mm or 100mm macro lens captures the garden eels, nudibranchs, and small reef creatures effectively. Approach garden eels with extreme patience for natural, undisturbed poses. The shallow depth and good light make natural-light photography viable. Wide-angle reef scenes work in the morning with good ambient light. For night dive photography, a torch with a red filter helps locate subjects without disturbing them. The calm conditions allow deliberate, precise macro compositions that are impossible at current-swept sites.
 
 ---
-*Sources: [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia), [DAN Alert Diver - Yap](https://dan.org/alert-diver/article/yap/), [Scubago/DiveSI - Slow and Easy](https://www.scubago.com/en/explore/destination/yap-9749759). Last updated 2026-06-16.*
+*Sources: [Manta Ray Bay Resort - Slow & Easy](https://mantaray.com/sites/slow-n-easy/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia), [DAN Alert Diver - Yap](https://dan.org/alert-diver/article/yap/). Re-audited 2026-08-13: depth corrected to 20m max per mantaray.com's own dedicated page. Last updated 2026-08-13.*

@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## G-Buoy Coral Head
 
-G-Buoy Coral Head is a well-established lagoon pinnacle dive in Kwajalein Atoll, named after a former navigational buoy position in the inner lagoon and recognized among regular Kwajalein divers for its consistently reliable turtle sightings.
+G-Buoy Coral Head sits just outside Kwajalein's harbor, with a field of reported artillery shells nearby that divers should avoid disturbing.
 
 ## Overview
 
-The Kwajalein Lagoon's coral heads each develop distinct reputations over years of regular diving, and G-Buoy is noted for hawksbill turtles that appear to have claimed the site as a regular feeding and resting territory. The pinnacle structure rises from the sandy lagoon floor through 25 meters of clear water, with the typical mature hard coral encrustation of the established Kwajalein dive sites. Coral coverage is dense — table corals dominate the upper sections while encrusting corals and sponges fill in the vertical faces.
-
-The site position in the lagoon's central zone provides the calm, sheltered conditions that make Kwajalein diving so reliable. Visibility is consistently 25–35 meters and currents remain mild year-round.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site. A field of what appear to be artillery shells has been reported roughly 3 minutes' swim from the coral head. Treat any ordnance encountered in the lagoon as potentially live and do not touch it.
 
 ## What to Expect
 
-Hawksbill turtles are the site's signature species — they use the coral head's sponge-covered surfaces as a grazing ground and can often be approached closely as they feed, seemingly unconcerned by divers who maintain a respectful distance and avoid direct pursuit. Humphead wrasse and large parrotfish are regular companions, and schooling snapper circle the pinnacle mid-water. Moray eels have established territories in the crevices throughout the structure. The sandy floor around the pinnacle base harbors garden eels in small colonies.
-
-Night diving at G-Buoy produces excellent encounters — the sandy areas around the base come alive with crabs, octopus, and flatfish, while the sleeping reef fish tucked into coral crevices are illuminated in torch beams throughout the dive.
+G-Buoy Coral Head sits just outside Kwajalein's harbor. Local divers have logged relatively few dives here and detailed site notes are limited.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive from Kwajalein operators
-- **Best For**: Intermediate divers; reliable turtle encounters; good night diving
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Hawksbill turtles, humphead wrasse, large parrotfish, moray eels, snapper schools, garden eels, octopus (night), crabs, table corals, encrusting sponges.
+No confirmed site-specific marine-life reports were found.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718) (site notes limited/inconclusive for this specific location). Last updated 2026-08-13.*

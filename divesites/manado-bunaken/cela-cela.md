@@ -13,29 +13,25 @@ addedBy: osm_import
 
 ## Cela Cela
 
-Cela Cela — meaning "gap" or "crack" in Indonesian — is a beginner-friendly wall dive on Bunaken's south coast featuring a series of dramatic swim-through passages and crevices that cut through the reef, earning the site its descriptive name.
+Cela Cela — "gap" or "crack" in Indonesian — is a steep wall on Bunaken Island cut through by numerous cracks, crevices, and short swim-throughs.
 
 ## Overview
 
-Cela Cela is notable among Bunaken's wall sites for its distinctive topography: the reef face is cut by multiple cracks, fissures, and short swim-through passages that break up the otherwise uniform wall. These gaps create sheltered microhabitats for a variety of marine life and add an exploratory dimension to the dive. At a maximum depth of 30 metres with typically calm conditions on the south coast, Cela Cela is classified as beginner-friendly and is often used to introduce new divers to Bunaken's wall diving experience before they progress to the more challenging Lekuan sites nearby.
+The site reaches a maximum depth of around 30 metres, with a sandy slope extending into open water below the wall. Current is usually little to none, which makes it suitable for night diving.
 
 ## What to Expect
 
-The wall begins with a shallow reef crest at 3–5 metres and descends to around 30 metres where it transitions to sand. The fissures and crevices that define the site are distributed throughout the wall from about 5 metres down to 20 metres. Peering into these gaps with a torch reveals moray eels, resting hawkfish, lobsters, and in some of the wider cracks, small nurse sharks. Short swim-throughs — passages perhaps 2–4 metres long — allow confident beginners to experience the sensation of moving through the reef structure in complete safety.
-
-The open wall sections between the crevices are covered in encrusting corals, sponges, and small seafans. Turtles are reliably present — Cela Cela lies along the same south coast stretch as the Lekuan series and Muka kampung, and the turtle density across this entire wall system is exceptional. Schools of moorish idols and pairs of butterfly fish are characteristic of the shallower wall crest, while the crevices host the park's numerous species of moray eel.
+Common sightings include leaf scorpionfish, longnose hawkfish, nudibranchs, and pygmy seahorses in the crevices, with blacktip and whitetip reef sharks, eagle rays, and sea turtles reported in the general area (not confirmed as specifically inside the crevices). Angelfish, crabs, shrimp, and gorgonian fans round out the coral wall community. When sunlight penetrates the cracks from above, the site is noted for a distinctive visual effect.
 
 ## Conditions
 
-- **Depth range:** 3–30 m
-- **Visibility:** 15–25 m
-- **Currents:** Light; very manageable for beginners
-- **Water temperature:** 27–30°C
-- **Best season:** May–October; south coast protected in dry season
+- **Depth range:** Up to 30 m; sandy slope beyond
+- **Currents:** Usually little to none
+- **Best for:** Night diving, beginner-friendly wall diving
 
 ## Tips
 
-The swim-throughs at Cela Cela are short enough for beginners but require basic buoyancy control — practise hovering in the open before attempting any passage. Bring a torch: the crevices are where the most interesting small-life discoveries happen, but they are dark without artificial light. The site connects seamlessly with Panorama to the east and makes a natural pairing dive.
+Bring a torch for the crevices — the low-light macro life (leaf scorpionfish, nudibranchs, hawkfish) is the main draw here, more than open-water pelagic activity.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [PADI Travel - Celah-Celah](https://travel.padi.com/dive-site/indonesia/celah-celah/), [Siladen Resort & Spa - Dive Sites Map](https://www.siladen.com/experiences/dive-sites-map/), [Divezone - Bunaken Dive Sites](https://divezone.net/diving/bunaken-manado). Last updated 2026-08-13.*

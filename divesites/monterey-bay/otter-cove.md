@@ -81,6 +81,6 @@ Monterey's 50-55°F water requires 5mm+ thermal protection even at these shallow
 ## Additional Resources
 
 - **Tide Information**: Check local tide tables before diving
-- **Last Updated**: 2026-03-16
+
 ---
-*Sources: [Monterey Scuba Board — Otter Cove](https://montereyscubaboard.com/monterey-dive-sites/otter-cove/), [California Diving News — Otter Cove](https://cadivingnews.com/dive-spots/montereys-otter-cove/), [OpenDiveSites — Otter Cove](https://opendivesites.org/Otter_Cove). Last updated 2026-06-16.*
+*Sources: [Monterey Scuba Board — Otter Cove](https://montereyscubaboard.com/monterey-dive-sites/otter-cove/), [California Diving News — Otter Cove](https://cadivingnews.com/dive-spots/montereys-otter-cove/), [OpenDiveSites — Otter Cove](https://opendivesites.org/Otter_Cove). Last updated 2026-08-13.*

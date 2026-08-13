@@ -63,4 +63,4 @@ Monterey's 50-55°F water at 20 meters demands proper thermal protection (5-7mm 
 Always use an SMB on ascent despite the isolated nature of the pinnacle. Maintain buddy contact throughout the dive—the pinnacle is small and easily circumnavigated together. Watch for boat traffic when ascending near the surface. The calm conditions and reasonable depth make this a safer intermediate dive choice compared to wall dives or technical sites.
 
 ---
-*Sources: [California Diving News — Eric's Pinnacle](https://cadivingnews.com/dive-spots/monterey-bays-erics-pinnacle/), [OpenDiveSites — Eric's Pinnacle](https://opendivesites.org/Eric's_Pinnacle), [Pacific Scuba Divers — Local Popular Dive Sites](https://pacificscubadivers.com/local-popular-dive-sites). Last updated 2026-06-16.*
+*Sources: [California Diving News — Eric's Pinnacle](https://cadivingnews.com/dive-spots/monterey-bays-erics-pinnacle/), [OpenDiveSites — Eric's Pinnacle](https://opendivesites.org/Eric's_Pinnacle), [Pacific Scuba Divers — Local Popular Dive Sites](https://pacificscubadivers.com/local-popular-dive-sites). Last updated 2026-08-13.*

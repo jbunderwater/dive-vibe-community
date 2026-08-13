@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Barracuda Coral Head
 
-Barracuda Coral Head is an isolated pinnacle dive in Kwajalein Atoll's inner lagoon, named for the large schools of chevron barracuda that gather around its structure — one of the most dramatic fish aggregations in the Kwajalein dive circuit.
+Barracuda Coral Head is a small formation near Barracuda Junction that had not yet been dived and described by local sources as of the most recent notes available.
 
 ## Overview
 
-Kwajalein Lagoon's coral heads are isolated pinnacles rising from the sandy lagoon floor, each forming its own self-contained reef ecosystem. Barracuda Coral Head earned its name from the dense, spiraling barracuda schools that have used this structure as a gathering point for decades — a behavior likely tied to the upwelling of slightly cooler, nutrient-rich water around the pinnacle base. The coral head rises to within a few meters of the surface, allowing divers to ascend and descend freely around the full structure within the 25-meter depth range.
-
-The Kwajalein Lagoon environment provides excellent visibility — typically 25–35 meters — and calm conditions year-round, making this an accessible and reliable dive in virtually any weather. Water temperature holds at 28–30°C.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-The barracuda are the signature encounter — schools of 50 to 200 or more chevron barracuda hover in mid-water columns around the pinnacle, their silver bodies catching the light as they wheel in slow formation. Grey reef sharks patrol the outer edges of the school. Humphead wrasse and large groupers cruise the base of the coral head. The pinnacle sides are encrusted with hard corals, sponges, and sea whips, sheltering moray eels, lionfish, and scores of smaller reef fish.
-
-On the sandy floor around the base, blue-spotted ribbontail rays rest or forage. Garden eels sway in the slight current at the sand edge. Night dives on Barracuda Coral Head reportedly produce spectacular light shows from bioluminescent plankton, with hunting barracuda visible on the perimeter.
+Barracuda Coral Head is a small formation near a lagoon feature locally known as Barracuda Junction. Available local diver notes indicate it had not yet been dived and described in detail.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; calm lagoon conditions
-- **Entry**: Boat dive from Kwajalein operators
-- **Best For**: Intermediate divers; outstanding schooling fish photography
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Chevron barracuda schools, grey reef sharks, humphead wrasse, large groupers, moray eels, lionfish, blue-spotted ribbontail rays, garden eels, sponge colonies, sea whips.
+No confirmed site-specific marine-life reports were found; despite the name, no barracuda sightings at this specific site are documented in available sources.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718) (site notes limited/inconclusive for this specific location). Last updated 2026-08-13.*

@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## K-10 Coral Head
 
-K-10 Coral Head is a Kwajalein Lagoon pinnacle dive in a cluster of "K-series" coral heads — numbered sites mapped by the US military that represent some of the most consistently productive reef diving in the inner lagoon system.
+K-10 is a recently logged coral head in Kwajalein's K-series cluster that had not yet been dived and described by local sources as of the most recent notes available.
 
 ## Overview
 
-The K-series coral heads (K-7, K-9, K-9 Deep, K-9 West, K-10) form a cluster of related pinnacle dives in the same general area of the lagoon, each with its own depth profile and species character. K-10 rises from the sandy lagoon floor at 25 meters to within a few meters of the surface, providing a full recreational depth range for exploration. The "K" designation reflects the grid sector of the Kwajalein Lagoon nautical chart where these features are mapped — a naming convention that dates to the American military occupation.
-
-Coral coverage at K-10 is well-developed, with decades of undisturbed reef growth producing a complex three-dimensional structure. The site is clustered near enough to its K-series neighbors to allow multi-pinnacle dive planning.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-K-10 is noted in the Kwajalein dive community for an unusually dense population of lionfish throughout the site — these venomous, spiny-finned hunters occupy virtually every overhang and crevice on the coral head, hovering in their characteristic head-down posture. Scorpionfish are equally abundant on the encrusted surfaces, relying on their near-perfect camouflage to ambush prey. Moray eels, particularly whitecheek and giant morays, are well-represented in the deeper crevices.
-
-Mid-water around the pinnacle sees regular grey reef shark activity, and snapper schools form consistent curtains of silver above the coral structure. The sandy floor around the base harbors small stingrays and the patient macro photographer's reward — a search of the rubble edge reveals flatworms, nudibranchs, and small crustaceans.
+K-10 is a recently logged addition to the K-series cluster. As of the most recent local diver notes available, it had not yet been dived and described in detail.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; can be combined with neighboring K-series sites
-- **Best For**: Intermediate divers; excellent for lionfish and camouflaged species photography
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Lionfish, scorpionfish, moray eels, grey reef sharks, snapper schools, stingrays, nudibranchs, flatworms, groupers, butterflyfish, hard coral formations.
+No confirmed marine-life reports exist for this specific site yet.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718) (site notes limited/inconclusive for this specific location). Last updated 2026-08-13.*

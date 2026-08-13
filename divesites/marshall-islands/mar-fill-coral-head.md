@@ -2,8 +2,8 @@
 name: MAR Fill Coral Head
 lat: 8.728711
 lng: 167.7232316
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## MAR Fill Coral Head
 
-MAR Fill Coral Head is a lagoon pinnacle in the central Kwajalein dive zone, where "MAR Fill" reflects the military land-fill area designation on Kwajalein Island's lagoon-side development — the coral head marks a natural reef structure adjacent to this development zone.
+MAR Fill sits in the middle of Kwajalein's "Junk Area," a shallow debris field of landing craft, anchors, and old bottles well suited to newer divers.
 
 ## Overview
 
-MAR Fill Coral Head sits in the central section of the Kwajalein inner lagoon dive cluster, positioned near several of the GBR and K-series sites and frequently included on multi-site morning dive trips. The coral head structure is well-developed, rising from the sandy lagoon floor to near the surface, with the mature hard coral encrustation typical of the protected Kwajalein lagoon environment.
-
-The proximity to the MAR Fill area of Kwajalein Island means this coral head benefits from proximity to the island's lagoon-side circulation patterns — slight current flows that provide just enough nutrient input to support robust fish populations without creating the challenging drift conditions of the more exposed outer sites.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site. As with other Kwajalein junk-field sites, treat any ordnance encountered as potentially live and do not disturb it.
 
 ## What to Expect
 
-MAR Fill is considered a reliable site for multiple species of angelfish — the pinnacle's complex structure with caves, crevices, and overhangs creates the diverse habitat that different angelfish species prefer at different depths. Emperor angelfish, regal angelfish, and bicolor angelfish have been documented here, making it a productive site for angelfish enthusiasts. The resident moray eel population is well-established, and clownfish occupy anemone colonies at multiple depth levels on the structure.
-
-The sandy areas adjacent to the coral head are good ground for blue-spotted ribbontail rays and, on rare occasions, banded sea kraits — the black and white banded sea snakes that hunt in the sandy margins of lagoon coral heads. Snapper and fusilier schools orbit the structure mid-water.
+MAR Fill sits in the middle of what local divers call the "Junk Area" -- a debris field of landing craft (LCMs), anchors, bottles, and old ammunition scattered across roughly 15 meters of water. Bottles are reported to be more common toward the east side of the site.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Generally mild
-- **Entry**: Boat dive; central to the main inner lagoon dive cluster
-- **Best For**: Intermediate divers; good for angelfish diversity and macro photography
+- **Depth**: approximately 15 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Emperor angelfish, regal angelfish, bicolor angelfish, moray eels, clownfish and anemones, blue-spotted ribbontail rays, banded sea kraits (occasional), snapper, fusiliers, groupers.
+No confirmed fish or invertebrate species reports were found for this specific site.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## North Loi Coral Head
 
-North Loi Coral Head is a lagoon pinnacle in the northern reaches of Kwajalein Atoll's inner lagoon, named for its position north of Loi Island — a small motu on the atoll rim — and representing one of the more remote coral head dives accessible from Kwajalein.
+North Loi Coral Head is a good-sized, easygoing formation just off the northern tip of North Loi Island.
 
 ## Overview
 
-North Loi Coral Head is positioned in the northern outer section of Kwajalein Atoll's lagoon, near Loi Island on the northern rim, placing it well away from the southern cluster of main island dive sites. The longer boat journey (20–30 minutes from the main dock) means this site sees the fewest diver visits in the active northern Kwajalein circuit, and its comparative isolation is reflected in less-disturbed reef conditions and wilder marine life behavior than the frequently dived southern cluster.
-
-The proximity to the open lagoon in the northern section provides slightly more ocean-influenced water movement, delivering better nutrients and supporting a higher diversity of fish species than purely sheltered inner sites.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-The reduced diver traffic at North Loi produces some of the most authentic "wilderness" reef encounters in the Kwajalein system. Grey reef sharks patrol the water column with the purposeful behavior of undisturbed predators. Large humphead wrasse drift at respectful distance rather than approaching divers. The hard coral quality is exceptional — undisturbed table coral formations and thickets of staghorn coral in the shallows are among the most intact in the Kwajalein dive inventory.
-
-Pelagic visitors are more common here than at the more sheltered inner sites — schools of dogtooth tuna pass through, and eagle rays are occasional sightings in the open water above the pinnacle. Hawksbill turtles use the coral head's sponge-covered faces as a feeding ground.
+North Loi Coral Head is a good-sized formation just off the northern tip of North Loi Island, described by local divers as a pleasant, easygoing dive.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; slightly more ocean-influenced than inner lagoon sites
-- **Entry**: Boat dive; longer transit time from main island
-- **Best For**: Intermediate divers seeking less-dived sites with more natural marine behavior
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Grey reef sharks, humphead wrasse, dogtooth tuna (occasional), eagle rays (occasional), hawksbill turtles, table corals, staghorn corals, fusiliers, snapper, groupers.
+No confirmed site-specific species reports were found in available sources.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

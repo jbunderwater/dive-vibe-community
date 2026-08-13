@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Twin Peaks Coral Head
 
-Twin Peaks Coral Head is one of Kwajalein Atoll's most structurally distinctive sites — two separate coral pinnacles rising side by side from the lagoon floor, creating a unique double-pinnacle dive profile that allows divers to explore both structures on a single dive and use the sandy channel between them as a natural navigation guide.
+Twin Peaks is a pair of connected coral heads known locally as one of the best spots in the lagoon for sea anemones.
 
 ## Overview
 
-The "twin peaks" formation is a geological accident of the lagoon floor topography — two distinct coral heads rose independently in close proximity, close enough to explore together but separate enough to have developed distinct communities on their individual faces. The overall dive depth matches the standard Kwajalein lagoon range (25 meters maximum), with each pinnacle rising to within a few meters of the surface. The channel between the peaks provides excellent structural interest and a natural low-relief swim-through at intermediate depths.
-
-The coordinates place this site in the western-central northern zone of the lagoon, in an area that sees moderate diver traffic — less than the main inner cluster, more than the most remote outer sites.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-The two-pinnacle structure effectively doubles the reef surface area available for exploration compared to a single coral head, producing correspondingly higher species diversity and fish density. Each peak has developed its own character — experienced divers at Kwajalein report that the eastern peak tends to hold more resident moray eels and lionfish in its denser crevice structure, while the western peak has better gorgonian fan development on its faces and hosts more mid-water species.
-
-The channel between the peaks is a particular highlight — a miniature "canyon" at 10–15 meters depth, flanked by coral walls on both sides, that often concentrates current flow and therefore fish activity. Grey reef sharks patrol this channel regularly. Hawksbill turtles graze the sponge growth on both pinnacle faces.
+As the name suggests, Twin Peaks consists of two coral heads connected by a shallow sandy saddle. Divers typically anchor on the shallower of the two (marked with a concrete block on its western side) and can follow the saddle west to the second head. The site is best saved for calm weather and is known locally for an unusually large concentration of sea anemones on both formations.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild; the inter-peak channel can concentrate mild current
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
 - **Entry**: Boat dive
-- **Best For**: Intermediate divers; structurally interesting double-pinnacle experience
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Grey reef sharks, hawksbill turtles, moray eels, lionfish, gorgonian fans, snapper, groupers, butterflyfish, humphead wrasse.
+Sea anemones are reported in unusually high numbers across both coral heads -- described by a longtime local diver as one of the best anemone sites in the area. No further site-specific fish species reports were found.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

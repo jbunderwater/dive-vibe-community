@@ -37,4 +37,6 @@ The gorgonians and canyon light shafts provide excellent wide-angle subjects. St
 
 ---
 
-*Sources: [Coconews Martinique — Cap Enragé dive spots](https://martinique.coconews.com/guide-martinique/sports-nautiques/plongee-sous-marine/nord-caraibes/quelques-spots-de-plongee-du-nord-de-letrsquo-ile-cap-enrage-0-25-metres-tous-niveaux.html), [Tribloo — Cap Enragé dive site](https://tribloo.com/en/dive-sites/76/cap-enrage.html). Last updated 2026-05-17.*
+*Re-audited 2026-08-13: content re-confirmed against 3 independent sources; no factual changes required.*
+
+*Sources: [Coconews Martinique — Cap Enragé dive spots](https://martinique.coconews.com/guide-martinique/sports-nautiques/plongee-sous-marine/nord-caraibes/quelques-spots-de-plongee-du-nord-de-letrsquo-ile-cap-enrage-0-25-metres-tous-niveaux.html), [Tribloo — Cap Enragé dive site](https://tribloo.com/en/dive-sites/76/cap-enrage.html), [Aux Antilles — Plongée Cap Enragé](http://www.aux-antilles.fr/martinique/plongee/plongee-cap-enrage.htm). Last updated 2026-08-13.*

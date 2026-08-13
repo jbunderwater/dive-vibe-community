@@ -12,10 +12,11 @@
     "tags": {
       "name": "Alung banua",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown had unconfirmed claims (banded sea kraits, garden eels, blue-spotted stingrays) not present in sources; removed. Confirmed depth 10-25m, wall with cracks/crevices/small caves, light/no current typical."
     },
     "validated": "true",
-    "validation_source": "divezone.net/divesite/alung-banua, scubadiving.place/divesite/alung-banua"
+    "validation_source": "divezone.net,siladen.com,scubadiving.place"
   },
   {
     "name": "Muka kampung",
@@ -23,7 +24,7 @@
     "lon": 124.7738773,
     "osm_id": 4881341034,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -31,10 +32,11 @@
       "name": "Muka kampung",
       "name:en": "Turtle City",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Depth corrected 25->30m per PADI (98ft max). Removed unconfirmed specific turtle-count and sea-snake claims not found in sources. Only 2 distinct domains confirmed (travel.padi.com, scubadiving.place) - short of the 3-source bar; left validated=true per existing status but flagging as needing a 3rd source."
     },
     "validated": "true",
-    "validation_source": "twofishdivers.com/blog/bunaken-dive-site-the-turtle-city, padi.com/dive-site/indonesia/muka-kampung"
+    "validation_source": "travel.padi.com,scubadiving.place"
   },
   {
     "name": "Mike's",
@@ -49,10 +51,11 @@
     "tags": {
       "name": "Mike's",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown fabricated a naming origin ('early expatriate diver who helped map the park in the 1980s'). Corrected: multiple sources report the site is named after underwater photographer Mike Severns. Removed unconfirmed grey reef shark and dogtooth tuna specifics."
     },
     "validated": "true",
-    "validation_source": "divezone.net/divesite/mike-s-point, originaldiving.com/diving-mikes-point-dive-site"
+    "validation_source": "divezone.net,originaldiving.com,merapitours.com"
   },
   {
     "name": "Pangulingan",
@@ -67,10 +70,11 @@
     "tags": {
       "name": "Pangulingan",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented a 'two currents converge at the point' upwelling narrative and grey reef shark specifics not found in sources. Corrected to steep wall -> coral slope (20-25m) -> boulder area (5-10m) profile per sources. Only 2 distinct domains confirmed (bottles-up-diving.com, rajalaut-bunaken.com) - short of the 3-source bar."
     },
     "validated": "true",
-    "validation_source": "murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
+    "validation_source": "bottles-up-diving.com,rajalaut-bunaken.com"
   },
   {
     "name": "Likuan 1",
@@ -85,10 +89,11 @@
     "tags": {
       "name": "Likuan 1",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown claimed 'researchers have recorded ~70% of Indo-West Pacific fish species in the park' - an unsourced statistic; removed. Removed invented 'metre-long Napoleon wrasse' and exact turtle counts. Confirmed as part of the Lekuan wall series with strong current and notably high turtle density."
     },
     "validated": "true",
-    "validation_source": "murexresorts.com/diving-bunaken, dive-the-world.com/diving-sites-indonesia-manado-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
+    "validation_source": "scubadiving.place,murexresorts.com,travel.padi.com"
   },
   {
     "name": "Bualo",
@@ -103,10 +108,11 @@
     "tags": {
       "name": "Bualo",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented a specific 'pair of banded pipefish locals have reported on multiple dives' claim and a specific garden-eel depth band; removed as unconfirmed. Only 1 distinct domain could be independently re-confirmed this pass (scubadiverlife.com); the 2 previously-cited domains (murexresorts.com, zubludiving.com) could not be re-verified as discussing Bualo specifically this pass. Left validated=true per instructions but flagging as under-sourced."
     },
     "validated": "true",
-    "validation_source": "murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
+    "validation_source": "scubadiverlife.com"
   },
   {
     "name": "Pangalisan",
@@ -121,10 +127,11 @@
     "tags": {
       "name": "Pangalisan",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented a stepped-terrace profile and specific whitetip shark ledges not in sources. Corrected to vertical wall in large steps with cracks/small caves, per bottles-up-diving.com and scubadiving.place. murexresorts.com's 'Pangalingan' entry (drift dive, south side Manado Tua, schooling snappers/fusiliers) is a probable but not certain name match - flagged as such in markdown."
     },
     "validated": "true",
-    "validation_source": "twofishdivers.com/diving/bunaken-island-manado, lumbalumbaresort.com/dive-snorkel/bunaken-national-park"
+    "validation_source": "bottles-up-diving.com,scubadiving.place,murexresorts.com"
   },
   {
     "name": "Timur 2",
@@ -139,10 +146,11 @@
     "tags": {
       "name": "Timur 2",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented a specific 'corner where current increases' feature and grey reef shark sightings not confirmed in sources. Corrected to general Bunaken Timur wall characteristics: steep wall, good reef life, macro-friendly, banded sea kraits reported, no/light current typical."
     },
     "validated": "true",
-    "validation_source": "divezone.net/divesite/bunaken-timur, murexresorts.com/diving-bunaken"
+    "validation_source": "divezone.net,starfish.ch,scubadiving.place"
   },
   {
     "name": "Timur 1",
@@ -157,10 +165,11 @@
     "tags": {
       "name": "Timur 1",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented hammerhead shark sightings during 'April-May season' - no source supports this; removed. Corrected to general Bunaken Timur wall characteristics per sources: steep wall, good reef life, macro-friendly, banded sea kraits, no/light current typical."
     },
     "validated": "true",
-    "validation_source": "divezone.net/divesite/bunaken-timur, murexresorts.com/diving-bunaken"
+    "validation_source": "divezone.net,starfish.ch,scubadiving.place"
   },
   {
     "name": "Raymond's",
@@ -175,10 +184,11 @@
     "tags": {
       "name": "Raymond's",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown fabricated a specific naming origin ('named after Raymond, a celebrated Bunaken dive guide') with no source; removed unverifiable claim, kept the name itself. Corrected location description (western shores of Bunaken, not north-west) and depth range (15-40m) per sources. Removed unconfirmed grey reef shark claim."
     },
     "validated": "true",
-    "validation_source": "divessi.com/mydiveguide/divesite/16877, merapitours.com/indonesia/sulawesi/dive-spots-bunaken"
+    "validation_source": "divezone.net,divessi.com,merapitours.com"
   },
   {
     "name": "Siladen 1",
@@ -193,10 +203,11 @@
     "tags": {
       "name": "Siladen 1",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Could NOT confirm a dive site specifically named 'Siladen 1' across multiple operator/database sources - named Siladen sites found were 'Siladen Wall', 'Siladen Jetty', 'Siladen Timur', 'Siladen Utara', and 'Siladen Housereef'. This site may correspond to one of these under a different name, but coordinate-only matching was judged too unreliable to assert an identity. Prior markdown's specific claims (turtles resting in wall cavities, resident Napoleon wrasse, ghost pipefish) removed as unconfirmed. Left validated=true per instructions but flagged unresolved - needs operator confirmation of naming."
     },
     "validated": "true",
-    "validation_source": "siladen.com/experiences/dive-sites-map, murexresorts.com/diving-bunaken"
+    "validation_source": "siladen.com"
   },
   {
     "name": "Mandolin",
@@ -211,10 +222,11 @@
     "tags": {
       "name": "Mandolin",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented a fanciful naming origin ('curved reef crest reminiscent of the instrument's body') with no source; removed. Sources describe the wall dropping to very deep water offshore, with strong/variable current - corrected from the prior 'protected, reliable conditions' framing."
     },
     "validated": "true",
-    "validation_source": "divezone.net/divesite/mandolin, zubludiving.com/articles/best-dive-sites-bunaken"
+    "validation_source": "divezone.net,starfish.ch,dive-the-world.com"
   },
   {
     "name": "Tanjung Parigi",
@@ -229,10 +241,11 @@
     "tags": {
       "name": "Tanjung Parigi",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented hammerhead shark sightings 'during peak season (April-May)' - no source supports this; removed. Corrected the site's name meaning ('well corner', named for a nearby village) and dive profile (starts inside a bay on a sandy slope with reef patches, stronger current at the corner) per PADI. Only 1 distinct domain (travel.padi.com) could be confirmed this pass - short of the 3-source bar."
     },
     "validated": "true",
-    "validation_source": "padi.com/dive-site/indonesia/tanjung-1, murexresorts.com/diving-bunaken"
+    "validation_source": "travel.padi.com"
   },
   {
     "name": "Tanjung Kopi",
@@ -247,10 +260,11 @@
     "tags": {
       "name": "Tanjung Kopi",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown's naming legend ('rocks resembling coffee grounds') and sea-snake claim removed as unconfirmed. Confirmed: sandy plateau (5-30m) transitioning to vertical wall dropping 80m+, strong/unpredictable current, behind Manado Tua."
     },
     "validated": "true",
-    "validation_source": "divescover.com/dive-site/tanjung-kopi, starfish.ch/dive/Bunaken.html"
+    "validation_source": "bottles-up-diving.com,murexresorts.com,starfish.ch"
   },
   {
     "name": "Likuan 3",
@@ -265,10 +279,11 @@
     "tags": {
       "name": "Likuan 3",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented 'giant morays exceeding 1.5 metres' and flamboyant cuttlefish specifics not found in sources. Confirmed as the calmer/shallower end of the Lekuan wall series, good for macro and night diving, with black-tip reef sharks and occasional manta ray sightings reported."
     },
     "validated": "true",
-    "validation_source": "divezone.net/divesite/likuan-iii, murexresorts.com/diving-bunaken"
+    "validation_source": "divezone.net,murexresorts.com,scubadiving.place"
   },
   {
     "name": "Bango",
@@ -276,6 +291,7 @@
     "lon": 124.779776,
     "osm_id": 7293846778,
     "osm_type": "node",
+    "depth_max": 40,
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
@@ -284,12 +300,10 @@
       "name": "Bango",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity",
-      "last_qa_date": "2026-06-08",
-      "notes": "QA 2026-06-08: validation_source was \"perplexity\" - not a real source. Updated with proper domain sources. Bango is confirmed as sandy slope/wall dive on Bangka Island, north of Bunaken. depth_max 40m confirmed."
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Could NOT find any reliable site-specific source for a Bangka Island dive site named 'Bango' after checking murexresorts.com/diving-bangka, bottles-up-diving.com/bangka, aquamarinediving.com/bangka-archipelago, and dive-the-world.com/bangka - none mention it. The prior 'perplexity'-sourced validation (see earlier QA note) appears to have been carried forward without real verification; its wall/shark/tuna claims cannot be confirmed and its 3 cited domains do not actually discuss a site called Bango. Prior markdown fully rewritten to remove all unconfirmed specifics. validated left as-is per instructions but this site needs fresh field/operator research."
     },
-    "depth_max": 40,
-    "validation_source": "murexresorts.com,zubludiving.com,dive-the-world.com",
+    "validation_source": "",
     "validated": "true"
   },
   {
@@ -305,10 +319,11 @@
     "tags": {
       "name": "Likuan 2",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented '2-4 whitetip sharks commonly seen resting in sand' and ghost pipefish specifics not confirmed. Confirmed: vertical wall on Bunaken's south side, macro life, green turtles on ledges, whitetip reef sharks reported in caves, schools of fusiliers."
     },
     "validated": "true",
-    "validation_source": "divezone.net/divesite/likuan-ii, murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
+    "validation_source": "divezone.net,dive-the-world.com,murexresorts.com"
   },
   {
     "name": "S. Utara",
@@ -323,10 +338,11 @@
     "tags": {
       "name": "S. Utara",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented a specific '200-400m surface drift distance' and grey reef shark claim not in sources. Corrected: likely corresponds to 'Siladen Utara' (north side of Siladen Island) - gentle slope to ~25-50m depending on source, strong currents, schools of jacks/yellowfin tuna/bumphead parrotfish, napoleon wrasse. Only 2 distinct domains confirmed (siladen.com, bottles-up-diving.com) - short of the 3-source bar."
     },
     "validated": "true",
-    "validation_source": "siladen.com/experiences/dive-sites-map, divernet.com/bunaken-national-marine-park-superlative-siladen"
+    "validation_source": "siladen.com,bottles-up-diving.com"
   },
   {
     "name": "Panorama",
@@ -341,10 +357,11 @@
     "tags": {
       "name": "Panorama",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Could NOT find any dive site named 'Panorama' at Bunaken across ~10 targeted searches and fetches of the major operator/database sites. The prior validation_source 'bunakendiving.co' was checked directly and is simply the homepage of 'Panorama Dive Resort' - a business name, not a dive site page; it does not describe this or any dive site. This appears to be a source mismatch/hallucination from the prior validation pass. Prior markdown fully rewritten to remove all invented specifics (site is now described only by its general south-coast Bunaken location). validated left as-is per instructions but this site urgently needs fresh research to confirm it is even a real, distinctly-named site."
     },
     "validated": "true",
-    "validation_source": "bunakendiving.co, murexresorts.com/diving-bunaken"
+    "validation_source": ""
   },
   {
     "name": "Siladen 2",
@@ -359,10 +376,11 @@
     "tags": {
       "name": "Siladen 2",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Could NOT confirm a dive site specifically named 'Siladen 2' - named Siladen sites found were 'Siladen Wall', 'Siladen Jetty', 'Siladen Timur', 'Siladen Utara', and 'Siladen Housereef'. Prior markdown's specific claims (larger seafans than Siladen 1, grey reef sharks more frequent) removed as unconfirmed fabrication. Left validated=true per instructions but flagged unresolved."
     },
     "validated": "true",
-    "validation_source": "siladen.com/experiences/dive-sites-map, murexresorts.com/diving-bunaken"
+    "validation_source": "siladen.com"
   },
   {
     "name": "Fukui Point",
@@ -377,10 +395,11 @@
     "tags": {
       "name": "Fukui Point",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown fabricated a naming origin ('named after a Japanese diver who fell in love with the site in the 1980s') with no source; removed. PADI explicitly states Fukui is 'the only sloping reef in Bunaken, all other dive sites are walls' - this strongly supports site_type=reef, though starfish.ch independently describes it as a 'wall dive' with giant tridacna shells; this conflict is now noted in the markdown rather than silently resolved."
     },
     "validated": "true",
-    "validation_source": "divezone.net/divesite/fukui-point, thalassamanado.com/diving-bunaken-fukui-point, padi.com/dive-site/indonesia/fukui-point"
+    "validation_source": "travel.padi.com,divezone.net,starfish.ch"
   },
   {
     "name": "Muka Gereja",
@@ -395,10 +414,11 @@
     "tags": {
       "name": "Muka Gereja",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented ornate ghost pipefish/frogfish specifics and a garden-eel claim not found in sources. Confirmed: 'church face' - wall with caverns and overhanging cliffs, mild/very light current, giant frogfish and orangutan crabs reported, whitetip/blacktip reef sharks and eagle rays in the blue. Only 2 distinct domains could be confirmed this pass (bottles-up-diving.com, merapitours.com) - short of the 3-source bar."
     },
     "validated": "true",
-    "validation_source": "merapitours.com/indonesia/sulawesi/dive-spots-bunaken, murexresorts.com/diving-bunaken"
+    "validation_source": "bottles-up-diving.com,merapitours.com"
   },
   {
     "name": "Cela Cela",
@@ -413,10 +433,11 @@
     "tags": {
       "name": "Cela Cela",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented 'small nurse sharks in wider cracks' not found in any source. Confirmed: steep wall with numerous cracks/crevices/swim-throughs, little to no current, good for night diving, blacktip/whitetip reef sharks and eagle rays reported in the general vicinity (not specifically inside the crevices)."
     },
     "validated": "true",
-    "validation_source": "divezone.net/divesite/celah-celah, padi.com/dive-site/indonesia/celah-celah"
+    "validation_source": "travel.padi.com,siladen.com,divezone.net"
   },
   {
     "name": "Tengah",
@@ -431,10 +452,11 @@
     "tags": {
       "name": "Tengah",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown invented an occasional 'whale shark sighting during peak plankton season (April-May)' claim - a high-risk fabrication with no source; removed. Confirmed: middle of Bunaken's west coast, strong/unpredictable currents (a fast drift dive between tides), whip corals and gorgonians in deeper sections, fusiliers/parrotfish/batfish/jacks/occasional reef sharks. Only 1 distinct domain (bottles-up-diving.com) could be confirmed this pass - short of the 3-source bar."
     },
     "validated": "true",
-    "validation_source": "bottles-up-diving.com/BU_divingother_bunaken, murexresorts.com/diving-bunaken"
+    "validation_source": "bottles-up-diving.com"
   },
   {
     "name": "Gorango",
@@ -449,10 +471,11 @@
     "tags": {
       "name": "Gorango",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. The prior validation_source cited 'sulawesi-experience.com' which does not resolve as a domain (DNS failure) - a fabricated/dead source from a prior pass. 'starfish.ch/dive/Bunaken.html' was checked directly and does NOT mention Gorango. Checked murexresorts.com/diving-bangka, bottles-up-diving.com/bangka, aquamarinediving.com/bangka-archipelago, and dive-the-world.com/bangka - none mention it either. One unattributed source notes 'Gorango' means 'shark' in Manadonese but that the site does not have unusual shark numbers - useful but not independently confirmable to a specific domain this pass. Prior markdown's macro-life specifics (pygmy seahorses, frogfish) removed as unconfirmed. validated left as-is per instructions but flagged as needing fresh research."
     },
     "validated": "true",
-    "validation_source": "starfish.ch/dive/Bunaken.html, sulawesi-experience.com/news/bunaken-marine-park-dive-sites"
+    "validation_source": ""
   },
   {
     "name": "Sachiko's",
@@ -467,9 +490,10 @@
     "tags": {
       "name": "Sachiko's",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-08"
+      "last_qa_date": "2026-08-13",
+      "notes": "Deep QA 2026-08-13: re-audited. Prior markdown fabricated a naming origin ('named after a Japanese diver who championed the site') with no source; removed. Corrected topography from 'near-vertical drop from waterline' to the sources' 'steep slope/sloping terrain' description. Confirmed: wire corals, big fish concentration (tuna, emperors, angelfish, sweetlips), turtles, whitetip sharks resting in caves, blacktip reef sharks hunting, thousands of red-tooth triggerfish reported."
     },
     "validated": "true",
-    "validation_source": "divezone.net/divesite/sachiko-s-point, zubludiving.com/articles/best-dive-sites-bunaken, murexresorts.com/diving-bunaken-dive-sites"
+    "validation_source": "divezone.net,murexresorts.com,dive-the-world.com"
   }
 ]

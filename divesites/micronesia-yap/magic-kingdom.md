@@ -50,4 +50,4 @@ Magic Kingdom is one of Yap's more benign dive sites with light currents and mod
 Wide-angle reef photography suits the large hard coral bommies and fish schools. Barracuda schooling behavior can be impressive. The recovering reef with visible typhoon damage and new growth offers documentary photographic opportunities. If the juvenile eagle ray aggregation is present, a wide-angle lens captures the unusual spectacle.
 
 ---
-*Sources: [Manta Ray Bay Resort - Magic Kingdom](https://mantaray.com/sites/magic-kingdom/), [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [ScubaBoard - Return to Yap Trip Report](https://scubaboard.com/community/threads/return-to-yap-after-20-years-with-photo-link.630298/). Last updated 2026-06-16.*
+*Sources: [Manta Ray Bay Resort - Magic Kingdom](https://mantaray.com/sites/magic-kingdom/), [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [ScubaBoard - Return to Yap Trip Report](https://scubaboard.com/community/threads/return-to-yap-after-20-years-with-photo-link.630298/). Re-audited 2026-08-13; all claims re-confirmed against fresh source pulls, no changes required. Last updated 2026-08-13.*

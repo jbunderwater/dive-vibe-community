@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## Troys Coral Head
 
-Troys Coral Head is a personal-name site in Kwajalein Atoll's western lagoon dive circuit — one of several Kwajalein sites named after specific divers or military personnel who discovered or regularly dived the site in the decades of American occupation diving, giving it a more personal character than the grid-reference buoy names of its neighbors.
+Troys is one of Kwajalein's most popular dives, known locally for consistent shark activity around the coral head.
 
 ## Overview
 
-Located in the western inner lagoon zone between the main cluster and the Kwaj-series sites, Troys sits in a section of the lagoon with characteristics intermediate between the highly sheltered inner sites and the more ocean-influenced outer western zone. The coordinates place it in the part of the lagoon that sees regular use by experienced Kwajalein divers on half-day western excursions.
-
-The pinnacle rises from 25 meters to near the surface with the mature hard coral encrustation typical of the best Kwajalein sites. Visibility is consistently 25–35 meters in this section of the lagoon, and mild currents maintain excellent conditions year-round.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-Troys is considered one of the more aesthetically pleasing dive sites in the western cluster — the pinnacle has a distinctive profile visible underwater from a distance, and the coral growth pattern creates natural swim-throughs and overhangs that give the dive a sense of architectural exploration. Humphead wrasse and large parrotfish hold territory on the upper sections. Grey reef sharks and whitetip reef sharks are regular mid-water sightings.
-
-The site is frequently cited by regular Kwajalein divers as a personal favorite — the combination of good coral structure, reliable fish life, moderate isolation from the busy inner cluster, and the personal history embedded in its name give it a character that the purely alphanumeric buoy-name sites lack.
+Troys is one of the most popular dive sites at Kwajalein, known locally for consistent shark activity. Schools of fish swarm around the coral head while sharks patrol through them looking for a meal. A sea anemone has been reported on the south side of the coral head near the top, with notable coral growth on the north side.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate
-- **Entry**: Boat dive; western lagoon excursion
-- **Best For**: Intermediate divers; well-regarded by repeat Kwajalein visitors
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Humphead wrasse, large parrotfish, grey reef sharks, whitetip reef sharks, moray eels, groupers, snapper, butterflyfish, hard coral swim-throughs.
+Sharks are consistently reported patrolling the site (species not specified in available sources), along with a resident sea anemone on the south side. No further site-specific species reports were found.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

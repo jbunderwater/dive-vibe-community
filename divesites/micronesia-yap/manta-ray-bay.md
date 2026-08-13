@@ -35,4 +35,4 @@ Yap's confirmed manta diving sites include:
 If this site entry is to be retained, it requires confirmation from a primary source (dive operator log, published dive site listing) that "Manta Ray Bay" is visited as a distinct dive site with its own cleaning station or feeding aggregation separate from the above.
 
 ---
-*Description based on regional diving characteristics. No site-specific sources found confirming "Manta Ray Bay" as a named dive site distinct from the resort. Last updated 2026-06-16.*
+*Description based on regional diving characteristics. No site-specific sources found confirming "Manta Ray Bay" as a named dive site distinct from the resort. Re-audited 2026-08-13: one low-quality aggregator site was found listing a "Manta Ray Bay" dive site, but it contains claims (e.g., dolphins and hammerhead sharks at Vertigo) not corroborated by any other source and was judged unreliable — not counted as a valid source. Still unresolved. Last updated 2026-08-13.*

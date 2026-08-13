@@ -13,19 +13,23 @@ addedBy: osm_import
 
 ## Nahoon Wreck
 
-Nahoon Wreck is a historic wreck dive in Martinique, Caribbean.
+The Nahoon began life as a lighthouse and buoy-tender for the Gironde estuary in southwestern France, and today lies intact and upright at 35 metres off Les Anses d'Arlet, one of Martinique's most consistently rewarding wreck dives.
 
 ## Overview
 
-The Nahoon was a steel-hulled three-masted schooner built in 1911, originally used as a buoy-tender in the North Sea before spending decades in the Caribbean, and was deliberately sunk in 1993 off Les Anses d'Arlet as an artificial reef by local dive centres. The wreck lies at 35 metres with its steering wheel impressively preserved and still mobile, its engine room and holds accessible to exploration, and a large green moray eel that regularly patrols the hull alongside snappers that spawn near the masts and lobsters sheltering in the keel. Despite its relatively recent sinking, the Nahoon has become one of Martinique's most rewarding wreck dives, the structure thickly colonised by sponges and coral.
+Launched in 1909-1911 as the *Quinette de Rochemont*, the ship served the Phares et Balises (French Lighthouse and Buoy Service) out of Royan on the Gironde estuary - not the North Sea, as earlier text on this page incorrectly stated. After decades of French service (including carrying President Raymond Poincaré in 1919) and a period based in Guadeloupe, the vessel was renamed *Caraïbe* in 1957 and finally *Nahoon* in 1976 after conversion for recreational use. On 2 October 1993 she was deliberately sunk off Les Anses d'Arlet by the Planète Bleue dive centre with COREMA (Comité Régional Martinique d'Etudes et de Sports Sous-Marins), fully depolluted beforehand, to create an artificial reef. Sources give slightly different lengths for the vessel - 35 metres per one operator listing, 41 metres per another - but agree she rests flat and largely intact on a sandy bottom, with her three-masted silhouette still recognisable and her engine room and cargo holds open to exploration.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Off Les Anses d'Arlet, Martinique
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 
+## Marine Life
+
+A large green moray eel is a near-permanent resident of the wreck, occupying a regular hiding spot (though occasionally out hunting when divers pass). Snappers, lobsters, crabs, and stingrays are reported around the structure, and the hull carries a thick coating of sponges and coral. Earlier text on this page claimed the steering wheel was "still mobile" and that snappers "spawn near the masts" - neither detail is corroborated by any source consulted and both have been removed.
+
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Alpha Plongée - Diving on the Nahoon Wreck](https://alphaplongee.com/diving-on-the-nahoon-wreck/?lang=en), [ATAO Plongée - Nahoon Martinique](https://atao-plongee.fr/plonger-epave-nahoon-martinique/), [Tribloo - The Nahoon Shipwreck](https://tribloo.com/en/dive-sites/59/the-nahoon-shipwreck.html). Last updated 2026-08-13.*

@@ -13,29 +13,26 @@ addedBy: osm_import
 
 ## Mike's
 
-Mike's is an advanced wall dive off Bunaken Island's north-west coast, valued for its deep wall structure, resident shark population, and the powerful upwellings that deliver cold, nutrient-rich water and stunning visibility.
+Mike's Point is an advanced wall dive on Bunaken Island shaped like an amphitheatre, reported to be named after underwater photographer Mike Severns.
 
 ## Overview
 
-Mike's is one of several sites on Bunaken's north-west corner that benefit from stronger oceanic influence compared to the sheltered south coast. Located beyond the main tourist circuits, this site sees less traffic and retains a raw, unspoiled quality appreciated by experienced divers seeking more challenging conditions. The wall descends steeply to beyond 40 metres, and the north-west exposure means current and surge are frequent considerations. It is named after one of the early expatriate divers who helped map and develop Bunaken's dive sites in the 1980s.
+The site's main feature is a beautiful coral wall in an amphitheatre shape, covered with massive black corals and giant gorgonian sea fans. Currents can be strong and the site is often dived as a drift because of it, making it best suited to advanced divers. Visibility here is frequently excellent — one diver report described it as "easily 30m+."
 
 ## What to Expect
 
-The dive begins at the wall crest in 5–8 metres before the wall drops sharply away. The upper wall, from 8 to 20 metres, hosts excellent hard coral coverage with table corals, brain corals, and encrusting formations. Below 20 metres, the wall becomes more dramatic: large overhangs, chimneys, and crevices house lobsters, moray eels, and resting nurse sharks. The base of the wall at 35–40 metres is often where the most exciting encounters occur — whitetip reef sharks patrol the sand, and grey reef sharks occasionally cruise past in the open water.
-
-Upwellings at Mike's sometimes push thermoclines into recreational depths, producing sudden temperature drops to 22–24°C and dramatically improved visibility. These events also concentrate plankton feeders — schools of fusilier, trevally, and rainbow runner that attract larger predators. The wall face itself is covered in soft corals and sponges that are noticeably larger and more colourful after upwelling events. Napoleon wrasse and large dogtooth tuna are regularly seen from the wall, cruising in the deeper blue water.
+Reef sharks and eagle rays are commonly seen, and extremely lucky divers occasionally spot silvertip sharks out in the blue. Smaller residents include mantis shrimp, scorpionfish, and moray eels tucked into the wall's nooks and crannies, along with Napoleon wrasse and bumphead parrotfish. Sources also mention angelfish, tilefish, barracuda, jacks, sponges, and ascidians.
 
 ## Conditions
 
-- **Depth range:** 5–40+ m
-- **Visibility:** 15–30 m; excellent after upwellings
-- **Currents:** Moderate to strong; unpredictable direction changes
-- **Water temperature:** 26–30°C; thermoclines possible
-- **Best season:** May–October
+- **Depth range:** 10-25 m for the main wall, extending beyond 25 m
+- **Currents:** Variable, can be strong
+- **Visibility:** Often excellent (30 m+ reported)
+- **Diving level:** Advanced
 
 ## Tips
 
-Mike's is not a site for uncertain buoyancy — the currents demand precise control and the depth profile can quickly accumulate bottom time. Experienced guides who know the site well are essential. Start the dive by descending quickly to the wall face to shelter from surface current, then work your way up as gas allows. Having a high-visibility SMB is important given the open-water return to the boat.
+Because currents can shift and strengthen unpredictably, dive with an operator experienced at this specific site and keep a surface marker buoy ready.
 
 ---
-*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*
+*Sources: [Divezone - Mike's Point](https://divezone.net/divesite/mike-s-point), [Original Diving - Mike's Point](https://www.originaldiving.com/far-east/indonesia/dive-northern-sulawesi/diving-mikes-point-dive-site), [Merapi Tours - Bunaken Dive Spots](https://www.merapitours.com/indonesia/sulawesi/dive-spots-bunaken). Last updated 2026-08-13.*

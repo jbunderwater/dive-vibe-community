@@ -2,8 +2,8 @@
 name: Pointe Burgos
 lat: 14.55
 lng: -61.09
-difficulty: Beginner
-maxDepth: 12
+difficulty: Intermediate
+maxDepth: 26
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,29 @@ addedBy: osm_import
 
 ## Pointe Burgos
 
-Pointe Burgos is a reef dive site on the Caribbean coast of Martinique north of the Les Anses d'Arlet area, offering a compact, beginner-friendly reef accessible by boat from the nearby village dive operators.
+Pointe Burgos is a basaltic headland dive between Grande Anse and Anse du Bourg in Les Anses d'Arlet, with a shallow beginner plateau giving way to fissures and a drop-off reaching well beyond what this page previously listed.
 
 ## Overview
 
-Situated near a small headland on Martinique's sheltered Caribbean coast, Pointe Burgos features a fringing reef that follows the contour of the point, sloping from the shallows to around 12 meters. The reef is characterised by moderate to good hard coral coverage — brain, star, and encrusting corals — with sandy channels between coral formations. The site's position in a sheltered coastal zone keeps conditions calm and visibility reliable at 15–25 meters. Water temperature averages 27°C.
+Paradis Plongée, which runs a dedicated Pointe Burgos trip, describes the point as basalt blocks colonised by sponges and gorgonians, with numerous rocks and fissures between 5 and 25 metres sheltering abundant marine life, bordered by a drop-off ("tombant") extending to 60 metres. The site's own recorded maximum depth is 26 metres per this operator, with the overall range cited as 6-30 metres depending on the exact profile dived. **Depth correction**: this page previously listed a placeholder 12m maximum; it has been corrected to 26m to reflect the sourced figures, and difficulty has been raised from Beginner to Intermediate accordingly - though the 6-12m plateau area remains genuinely suitable for beginners and first (baptism) dives, as multiple sources confirm.
 
 ## Site Information
 
-- **Location**: Near Les Anses d'Arlet, southwest Martinique
+- **Location**: Between Grande Anse and Anse du Bourg, Les Anses d'Arlet, southwest Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Light; protected position
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 26 meters
+- **Current**: Generally light
 - **Best Time**: Year-round
 
 ## Marine Life
 
-Sea turtles are present year-round in the headland area, taking advantage of the seagrass and algae resources on the reef. Parrotfish, surgeonfish, and wrasse are common throughout. The sandy channels between coral sections attract southern stingrays. Larger species including barracuda occasionally patrol the outer reef edge. Spotted morays are found in crevices at the base of coral formations.
+Confirmed by Paradis Plongée and Alpha Plongée: moray eels, angelfish, porcupinefish (diodons), spiny lobsters, and sea turtles, plus sponges and gorgonians on the basalt blocks. This re-audit removed unconfirmed claims of southern stingrays and patrolling barracuda, which could not be traced to a source for this specific site.
 
 ## Dive Profile
 
-A simple sloping profile from the shallows to 12 meters. Follow the reef contour around the headland, exploring both the sun-facing and shaded sides for different species distributions. The depth is comfortable for beginners and allows extended bottom time. Safety stop in the shallow reef section.
+Divers typically start on the shallow 6-12 metre plateau, comfortable for beginners and baptism dives, before more experienced divers move out toward the fissures and drop-off edge (to 26m and beyond). Safety stop in the shallow reef section on the way back.
 
 ## Entry and Exit
 
@@ -58,4 +57,4 @@ Fire coral is present on the reef crest — maintain buoyancy. Boat traffic from
 The diverse micro-habitats created by the headland structure offer varied photographic subjects. Wide-angle reef compositions, turtle portraits, and close-focus shots of reef fish in natural behaviour are all achievable in the 5–12 meter zone with strong ambient light.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Paradis Plongée - Pointe Burgos](https://paradisplongee.com/sites-de-plongees/anses-d-arlet-pointe-burgos), [Alpha Plongée - Diving at Burgos Point](https://alphaplongee.com/diving-at-burgos-point/?lang=en), [Tribloo - Diving La Martinique](https://tribloo.com/en/destination/5/diving/la-martinique.html). Last updated 2026-08-13.*

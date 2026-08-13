@@ -13,31 +13,27 @@ addedBy: osm_import
 
 ## ER-2 Coral Head
 
-ER-2 Coral Head is a lagoon pinnacle dive in Kwajalein Atoll, positioned in the eastern portion of the lagoon's inner reef system and named using the military alphanumeric grid designation used to chart the atoll.
+ER-2 Coral Head is known locally for a small "shark nursery" of caves on its southern edge where juvenile sharks are regularly found.
 
 ## Overview
 
-The "ER" prefix in Kwajalein diving nomenclature refers to specific grid sectors of the atoll's lagoon chart, and ER-2 sits in a section with slightly more exposure to lagoon circulation than the more sheltered inner sites. This positioning delivers slightly better current activity and, correspondingly, more active fish behavior than the most protected coral heads. The pinnacle structure rises from around 25 meters to within a few meters of the surface, encrusted with the mature hard coral growth typical of undisturbed lagoon reef environments.
-
-The Kwajalein Lagoon's water chemistry is notably clean and stable — the atoll's massive lagoon volume (2,174 square kilometers) self-regulates temperature and salinity, maintaining near-constant conditions of 28–30°C and 25–35 meter visibility year-round.
+Kwajalein Atoll's lagoon -- the largest lagoon by area of any atoll in the world -- is dotted with hundreds of named coral heads and debris sites logged by the local diving community over decades. Water stays a warm 28-30C year-round and lagoon visibility commonly reaches 20-30 meters, though it varies site to site.
 
 ## What to Expect
 
-The slightly stronger current influence at ER-2 keeps the site productive for fish-watching. Barracuda regularly aggregate here, hanging in loose schools in the water column above the pinnacle. Dogtooth tuna occasionally sweep through on hunting runs. The coral head base area sees regular grey reef shark patrols, and whitetip reef sharks rest on sandy ledges at depth. The pinnacle surface hosts the diverse Kwajalein lagoon community: moray eels, lionfish in the overhangs, large groupers on the mid-structure, and dense populations of smaller reef fish on the shallow crown.
-
-The site is particularly noted among photographers for the quality of light and the three-dimensional silhouettes achievable — shooting upward from the base with a wide-angle lens captures the pinnacle's full profile in the blue-water column.
+ER-2 sits between two lagoon landmarks known locally as Little Bustard and Big Bustard. Near the top of the coral head, on its southern edge at roughly 9 meters, local divers have identified a small "shark nursery" -- a cluster of small caves where juvenile sharks are regularly found resting.
 
 ## Practical Information
 
-- **Depth Range**: 5–25 meters
-- **Visibility**: 20–35 meters typical
-- **Currents**: Mild to moderate; slightly more current-exposed than inner sites
-- **Entry**: Boat dive from Kwajalein operators
-- **Best For**: Intermediate divers; good wide-angle photography conditions
+- **Depth**: approximately 25 meters
+- **Visibility**: typically 20-30 meters in the lagoon (varies by site and season)
+- **Water Temperature**: 28-30C year-round
+- **Entry**: Boat dive
+- **Currents**: Generally mild in the inner lagoon; can strengthen near passes
 
-## Marine Life Highlights
+## Marine Life
 
-Barracuda, grey reef sharks, whitetip reef sharks, dogtooth tuna (occasional), moray eels, lionfish, large groupers, snapper, fusiliers, butterflyfish.
+A resident group of juvenile sharks (species not specified in available sources) has been repeatedly reported in the small caves on the site's southern edge -- a locally known "shark nursery." No further site-specific species reports were found.
 
 ---
-*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*
+*Sources: [Dave Fortin's Kwajalein Dive Sites](http://dave.sixmeters.com/Dive_Sites.html), [Kwajalein Scuba Club](https://www.kwajaleinscubaclub.org/dive_sites), [Kwajalein Scuba Club - Dive Conditions](https://www.kwajaleinscubaclub.org/dive_conditions), [ScubaGo - Kwajalein Atoll](https://www.scubago.com/en/explore/destination/kwajalein-atoll-9749718). Last updated 2026-08-13.*

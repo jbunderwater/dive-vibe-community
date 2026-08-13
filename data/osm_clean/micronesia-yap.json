@@ -19,10 +19,10 @@
       "scuba_diving:type:bigfish": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "mantaray.com,visityap.com,dan.org",
+      "validation_source": "mantaray.com,visityap.com,uwphotographyguide.com",
       "marine_life": "mantas, cleaning station, grey reef sharks, whitetip reef sharks",
-      "last_qa_date": "2026-06-16",
-      "notes": "New station further inside lagoon; shallower than old station (~5m/16ft), lower visibility than old station but extended bottom time possible"
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13. uwphotographyguide.com independently confirms coral bommie top at 5m/16ft with mantas hovering above, reduced visibility vs. old station, improved on flooding tide, and access via mangrove/rock-lined passages avoiding reef-edge exposure. No factual changes required; all claims held up against fresh sourcing."
     }
   },
   {
@@ -43,8 +43,8 @@
       "validated": "true",
       "validation_source": "mantaray.com,visityap.com,uwphotographyguide.com",
       "marine_life": "mantas, soft corals, cleaning station, grey reef sharks, eagle rays",
-      "last_qa_date": "2026-06-16",
-      "notes": "Original cleaning station at ~18m/60ft, closer to outer reef edge with clearer blue water; NDL-limited dives; less-dived than new station"
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13. uwphotographyguide.com independently confirms this is the original site, a cleaning-station bommie at 18m/60ft with clearer blue water and NDL limitations. mantaray.com's dedicated Mi'l Channel page adds that surface and bottom currents can run in opposite directions and range from slack to 4mph (6km/h) at tide change -- added to safety notes. No factual changes required to depth/marine life."
     }
   },
   {
@@ -63,10 +63,10 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "mantaray.com,visityap.com,dan.org",
-      "marine_life": "mantas (up to 30 sighted at once), jacks, black snappers, whitetip reef sharks, grey reef sharks",
+      "marine_life": "mantas (up to 30 sighted at once, 2-4m/6-13ft wingspan), jacks, black snappers, whitetip reef sharks, grey reef sharks",
       "visibility_notes": "30-90 feet (9-27m); variable with tidal conditions",
-      "last_qa_date": "2026-06-16",
-      "notes": "Tzimoulis Ridge - 30ft (9m) coral ridge across Mi'l Channel that intensifies tidal current creating natural cleaning station; 'Mi'l' means 'strong current' in Yapese"
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13. mantaray.com's dedicated Tzimoulis Ridge page confirms depth at 33ft/10m (close to prior 9m figure -- noted as approximate), current 0-5mph (0-8km/h), and the exact instruction to stay near ridge edges so mantas don't retreat. Manta count and size (up to 30, 6-13ft) directly corroborated. No factual changes required."
     }
   },
   {
@@ -86,12 +86,12 @@
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "mantaray.com,visityap.com,dan.org",
-      "marine_life": "grey reef sharks and blacktip reef sharks (10-40 per dive), whitetip reef sharks, groupers, snappers, moray eels",
+      "validation_source": "mantaray.com,dan.org,ikelite.com,scubaboard.com",
+      "marine_life": "grey reef sharks and blacktip reef sharks (10-40 per dive), whitetip reef sharks, groupers, snappers, moray eels, Napoleon wrasse",
       "visibility_notes": "over 100 feet (30m+)",
       "shark_feeding": "yes",
-      "last_qa_date": "2026-06-16",
-      "notes": "Wall starts at ~5m and plunges over 60m. Shark feeding program operated here for 25+ years. Wall covered in crinoids and small sponges. Located south of Mi'l Channel on west coast."
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13. SOURCE CONFLICT FOUND: mantaray.com's general site-index page (mantaray.com/sites/vertigo/) now describes Vertigo as a shallow 10-20m reef wall with gentle-to-no current and does not mention shark feeding. This directly conflicts with mantaray.com's own dedicated shark-diving page (mantaray.com/vertigo-shark-diving/), DAN Alert Diver, ikelite.com, and a ScubaBoard trip report (630298), all four of which independently confirm a 25+ year baited shark dive on a wall with moderate-to-strong current, 10-40 grey reef/blacktip sharks, and depths well beyond the shallow reef plateau. Given 4 independent/quasi-independent confirmations vs. 1 outlying page, the wall/feeding profile is treated as accurate; the conflict is documented in the markdown per anti-hallucination policy rather than silently resolved. visityap.com no longer used as source -- it only describes sharks circling, does not add depth/current/feeding detail beyond what's already covered."
     }
   },
   {
@@ -113,12 +113,12 @@
       "scuba_diving:type:wreck": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "mantaray.com,visityap.com,ikelite.com",
-      "aircraft_type": "uncertain - initially identified as Japanese Zero, but may be Mitsubishi G4M Betty (two-seater); unconfirmed",
-      "wreck_depth": "3-10m (body at ~3m, tail at ~10m)",
-      "history": "WWII Japanese aircraft, bullet holes visible in wings; identity unconfirmed",
-      "last_qa_date": "2026-06-16",
-      "notes": "Aircraft identity disputed: Manta Ray Bay Resort notes it 'was said to be a Japanese Zero, however...a two-seater...claimed it's a Betty.' No definitive identification confirmed from sources."
+      "validation_source": "mantaray.com,tracesofwar.com,traveladventures.org",
+      "aircraft_type": "uncertain - initially identified as Japanese Zero, but a two-seat passenger claimed it's a Mitsubishi G4M Betty; unconfirmed by any independent source",
+      "wreck_depth": "3-10m (body at ~3m, tail at ~10m, positioned inside the breakers near Vertigo)",
+      "history": "WWII Japanese aircraft, bullet holes visible in wings; identity of THIS underwater wreck unconfirmed",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13. CORRECTION: visityap.com does NOT mention this wreck at all (checked directly) -- removed as a false source citation from prior QA pass. WRECK-HISTORY CROSS-CHECK: this underwater wreck (3-10m, near Vertigo) is distinct from the LAND-based Japanese Zero fighter wrecks near Yap's old airfield, which tracesofwar.com and traveladventures.org identify with more confidence (as an A6M5B / A6M5 Zero variant, destroyed by US forces while taxiing, wrecks now rusting in the grass). Those land-wreck sources do NOT describe the diveable underwater wreck and should not be read as confirming its identity. mantaray.com (the only source that actually discusses the underwater wreck) remains uncertain between Zero and Betty. No third source describing the underwater wreck specifically could be found this pass -- identity uncertainty is preserved rather than resolved by analogy to the (different) land wrecks."
     }
   },
   {
@@ -134,8 +134,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-16",
-      "notes": "No independent sources confirm 'Manta Ray Bay' as a named dive site distinct from the resort. The resort name 'Manta Ray Bay Resort' does not correspond to a documented manta feeding bay dive site. Stammtisch and Valley of the Rays are the named manta sites in Goofnuw Channel; Mi'l Channel cleaning stations are the named sites on the northwest. Could not validate as a distinct site. Marked unresolved."
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13, still unresolved. No reliable independent source confirms 'Manta Ray Bay' as a named dive site distinct from the resort. One low-quality aggregator (techdivetravels.com) lists a 'Manta Ray Bay' site, but that source is judged unreliable on this pass (see Gilman Wall note) and is not counted. Confirmed named manta sites remain: Mi'l Channel cleaning stations + Tzimoulis Ridge (northwest), and Stammtisch / Valley of the Rays (Goofnuw Channel, northeast) -- none of which is called 'Manta Ray Bay'. Marked unresolved."
     }
   },
   {
@@ -155,8 +155,8 @@
       "depth_range": "3-30m",
       "marine_life": "whitetip reef sharks, grey reef sharks, bumphead parrotfish (50+ schools), eagle rays, sea turtles, stingrays, morays, tuna, amberjack, porcelain crabs, dragonettes, nudibranchs, leaf fish, scorpionfish, ghost pipefish, lionfish",
       "location": "southernmost tip of Yap island",
-      "last_qa_date": "2026-06-16",
-      "notes": "Depth corrected from 20m to 30m per mantaray.com. Occasional whale shark sightings reported. Rich macro life confirmed by multiple sources. 'Strongest diversity at any single dive site' in Yap per mantaray.com."
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13. Whale shark claim re-checked: mantaray.com's current dedicated Yap Caverns page no longer mentions whale sharks, but DAN Alert Diver (dan.org) independently confirms 'potential sightings of whale sharks, mantas, and eagle rays' at Yap Caverns -- claim retained and re-attributed to dan.org specifically rather than mantaray.com. All other marine life and features re-confirmed against mantaray.com's dedicated page and DAN. No factual changes required."
     }
   },
   {
@@ -176,8 +176,8 @@
       "depth_range": "5-40m (wall extends to 60m+ ledge)",
       "marine_life": "lionfish (numerous in crevices), mantas, eagle rays, turtles, grey reef sharks, large tuna, leaf fish, anemones; Bartlett's Fairy Basslets at wall edge",
       "visibility": "20-45m (70-150ft+)",
-      "last_qa_date": "2026-06-16",
-      "notes": "Confirmed at extreme southern tip of Yap's fringing reef. Described as 'one of the premier wall dives in the world' by mantaray.com. Current can be strong. Depth corrected from 25m to 40m (wall drops to 130ft before sloping)."
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13. mantaray.com's dedicated Lionfish Wall page re-confirms depth (15-130ft/5-40m, sloping to 200ft+/60m+ ledge), current convergence explanation, Bartlett's Fairy Basslets schools, and pelagic visitors (mantas, eagle rays, turtles, sharks, tuna). bluewaterdivetravel.com corroborates generically (anemones, invertebrates, tuna, barracuda, sharks, lionfish). No factual changes required."
     }
   },
   {
@@ -192,13 +192,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "mantaray.com,visityap.com,techdivetravels.com",
+      "validation_source": "mantaray.com,visityap.com",
       "site_category": "wall dive",
-      "marine_life": "squirrelfish, snappers, groupers, large schools of anthias, lionfish, clown triggerfish; angelfish, butterflyfish, parrotfish, reef sharks, barracudas, tuna, moray eels",
+      "marine_life": "squirrelfish, snappers, groupers, large schools of anthias, lionfish, clown triggerfish",
       "coral": "large brown Porite coral with tube worms, daisy corals, yellow soft coral under ledges at ~21m depth",
       "depth_range": "6-45m (20-150ft)",
-      "last_qa_date": "2026-06-16",
-      "notes": "Located NW extension from Yap Caverns. Confirmed vertical wall with crevices and overhangs. No mandarin fish confirmed at this site by any source. Depth range corrected to 6-45m per mantaray.com."
+      "last_qa_date": "2026-08-13",
+      "notes": "RE-AUDIT FLAG (2026-08-13): techdivetravels.com, previously counted as this site's third source, is DOWNGRADED and removed after this pass found it unreliable -- its Yap page contains claims not corroborated anywhere else and inconsistent with every other source (e.g., dolphins and hammerhead sharks at Vertigo, Vertigo placed on the 'northern coast' when every other source places it west/south of Mi'l Channel, and a fabricated 'Manta Ray Bay' site listing). Only 2 reliable independent domains (mantaray.com, visityap.com) could be found for Gilman Wall on this pass despite additional searching (asiadivesite.com, scubago.com, bluewaterdivetravel.com, cadivingnews.com checked, none confirmed). Per QA instructions, validated is left as-is (true, since it was already true) rather than padded with a weak third source -- flagged in return summary as needing a genuine third source. Species list trimmed: removed angelfish, butterflyfish, parrotfish, reef sharks, barracudas, tuna, moray eels, which were not present in either remaining reliable source's description of THIS site (regional list bleed from the removed source)."
     }
   },
   {
@@ -213,14 +213,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "mantaray.com,visityap.com,underwater.com.au",
+      "validation_source": "mantaray.com,visityap.com",
       "site_category": "wall dive",
-      "features": "vertical walls on both sides of Nimpal Inlet entrance; pink and purple soft corals at 18m; black coral and deep-water sea fans below 36m",
-      "depth_range": "10-80m (3-260ft); wall top at ~10m",
-      "marine_life": "grey reef sharks, blacktip reef sharks (at wall top), crinoids (multiple species), unicornfish schools",
+      "features": "vertical wall at Nimpal Inlet entrance; pink and purple soft corals at 18m; black coral and deep-water sea fans below 36m",
+      "depth_range": "3-80m (10-260ft); wall top at ~10m",
+      "marine_life": "grey reef sharks, blacktip reef sharks (at wall top), crinoids (multiple species), schooling gamefish/pelagics off the wall",
       "visibility": "18-30m (60-100ft)",
-      "last_qa_date": "2026-06-16",
-      "notes": "Located at Nimpal Inlet entrance on western side of Yap. Boats cannot enter inlet for surface interval due to shallow entrance. Vertical wall extends from 10m to 80m+."
+      "current": "light, 0-3km/h (0-2mph)",
+      "last_qa_date": "2026-08-13",
+      "notes": "RE-AUDIT FLAG (2026-08-13): underwater.com.au (previously the third source) returned HTTP 403 and could not be re-verified on this pass, and no search-engine snippet corroborates it ever discussed Cherry Blossom Wall -- treated as unconfirmed rather than assumed still valid. Only 2 reliable domains re-confirmed this pass (mantaray.com dedicated page, visityap.com listing), both matching closely on depth/coral/current. Per QA instructions, validated left as-is (true) rather than padded; flagged in return summary as needing a genuine third source. Unicornfish schools claim removed (not present in either re-confirmed source for this site)."
     }
   },
   {
@@ -238,17 +239,17 @@
       "validation_source": "mantaray.com,visityap.com,scubaboard.com",
       "depth_range": "5-30m",
       "history": "damaged by November 1992 typhoon; reef recovering with hard corals intact; lettuce and staghorn corals most affected",
-      "marine_life": "schooling jacks, barracuda (hundreds), grey reef sharks, whitetip reef sharks, baby eagle rays at cleaning station",
+      "marine_life": "schooling jacks, barracuda (hundreds), whitetip reef sharks, occasional grey reef sharks, juvenile eagle rays at a cleaning station",
       "coral_recovery": "actively rejuvenating since typhoon damage; hard coral formations intact",
-      "last_qa_date": "2026-06-16",
-      "notes": "Mandarin fish removed from this site - no source confirms mandarin fish at Magic Kingdom. Mandarin fish are confirmed at Rainbow Reef (near O'Keefe's Island), not here. Eagle ray cleaning station sighting confirmed by ScubaBoard trip report."
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13. mantaray.com's dedicated page re-confirms typhoon history, barracuda/jack schools, whitetip and occasional grey reef sharks. Eagle ray cleaning station claim independently re-confirmed by the same ScubaBoard trip report (thread 630298): '12-14 baby eagle rays hanging out near what is evidently a cleaning station.' Mandarin fish continue to be correctly excluded from this site -- confirmed only at Rainbow Reef. No factual changes required."
     }
   },
   {
     "name": "Sunrise Reef",
     "lat": 9.56,
     "lon": 138.13,
-    "depth": 18,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -258,8 +259,12 @@
       "validated": "false",
       "validation_source": "",
       "site_category": "reef dive",
-      "last_qa_date": "2026-06-16",
-      "notes": "No independent sources found confirming 'Sunrise Reef' as a named dive site in Yap. Not listed on mantaray.com or visityap.com site listings. Site type and description remain based on regional characteristics. Marked unresolved."
+      "features": "gradual slope across hundreds of acres; large hard coral pinnacles rising from the reef floor",
+      "depth_range": "9-30m (30-100ft)",
+      "marine_life": "reef fish, sea turtles, stingrays, sharks, giant clams",
+      "current": "light, 0-5km/h (0-2mph)",
+      "last_qa_date": "2026-08-13",
+      "notes": "MAJOR CORRECTION (2026-08-13): previous QA pass incorrectly concluded 'Sunrise Reef' was unconfirmed. It IS a real, named site with its own page at mantaray.com/sites/sunrise-reef/ (missed previously because it wasn't listed with a description on the general /sites/ index page) and is separately described by visityap.com ('12-20m, hard coral heaven with an exceptional variety of hard corals in pristine condition'). Depth, features, current, and marine life above are corrected from these 2 sources. However, despite additional targeted searches (ScubaBoard, PADI, Wannadive), no THIRD independent source could be found, so per QA instructions this is NOT marked validated=true yet (2 domains only) -- data is corrected but validated stays false pending a third source. Marine life list intentionally kept minimal (only species explicitly named by the 2 sources); previously-listed anemonefish, moray eels, blue-spotted stingrays, hawksbill turtles, nudibranchs, Christmas tree worms, cleaner shrimp stations, eagle rays, and garden eels were generic regional padding not attributable to this specific site and have been removed."
     }
   },
   {
@@ -276,15 +281,15 @@
       "validated": "false",
       "validation_source": "",
       "site_category": "wall dive",
-      "last_qa_date": "2026-06-16",
-      "notes": "No independent sources confirm 'Rainbow Wall' as a named dive site in Yap. Note: 'Rainbow Reef' is a confirmed inshore site near O'Keefe's Island, shallow (3-10m), famous for mandarin fish - entirely different from 'Rainbow Wall'. No wall dive by this name appears on mantaray.com or visityap.com. Marked unresolved."
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13, still unresolved. No independent source confirms 'Rainbow Wall' as a named dive site in Yap on this pass either (checked mantaray.com/sites/ full listing, visityap.com, DAN, bluewaterdivetravel.com -- none list it). 'Rainbow Reef' remains a confirmed, separate, shallow (3-10m) inshore mandarin-fish site near O'Keefe's Island -- not a wall dive. Marked unresolved."
     }
   },
   {
     "name": "Slow and Easy",
     "lat": 9.545,
     "lon": 138.115,
-    "depth": 10,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -294,17 +299,17 @@
       "validated": "true",
       "validation_source": "mantaray.com,dan.org,ikelite.com",
       "site_category": "macro/reef dive",
-      "marine_life": "garden eels, pipefish, ghost pipefish, nudibranchs (multiple species), symbiotic gobies and shrimps, mantis shrimp, hawksbill turtles, whip coral shrimp",
-      "features": "rubble bottom, sand slope, coral bommies; 10-minute ride from Manta Ray Bay Resort",
-      "last_qa_date": "2026-06-16",
-      "notes": "Confirmed macro photography site with rubble bottom. DAN describes as 'gentle sand slope punctuated by hard-coral bommies'. Divessi/Scubago describes dive duration of 100 minutes possible."
+      "marine_life": "garden eels, pipefish, ghost pipefish, nudibranchs (multiple species), symbiotic gobies and shrimps (incl. red-banded prawn-goby), white mantis shrimp, hawksbill turtles (3 resident juveniles), whip coral shrimp, bumphead parrotfish, whitetip sharks",
+      "features": "rubble bottom, sand slope, coral bommies, niches/crevices/rock outcroppings; 10-minute ride from Manta Ray Bay Resort",
+      "last_qa_date": "2026-08-13",
+      "notes": "Re-audited 2026-08-13. DEPTH CORRECTED: mantaray.com's own dedicated page gives depth as 20-60ft (6-20m), deeper than the prior 10m figure -- updated to 20m max. mantaray.com confirms 3 resident juvenile hawksbill turtles (not just 'a resident turtle') and adds bumphead parrotfish and white-tip sharks as larger visitors. ikelite.com independently confirms red-banded prawn-goby (Amblyeleotris fasciata) specifically. All other marine life re-confirmed."
     }
   },
   {
     "name": "Land's End",
     "lat": 9.48,
     "lon": 138.07,
-    "depth": 32,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -314,8 +319,12 @@
       "validated": "false",
       "validation_source": "",
       "site_category": "wall dive",
-      "last_qa_date": "2026-06-16",
-      "notes": "No independent sources confirm 'Land's End' as a named dive site in Yap. Visityap.com lists 'End of the Land' (a near-vertical wall to ocean floor with soft corals and crinoids above 18m) which may correspond to this site, but the exact match is uncertain. Marked unresolved pending confirmation."
+      "features": "near-vertical wall from 18m to the ocean floor at 40m; soft corals and crinoids; pink/purple soft corals just over the wall edge; gentle slope terrace above",
+      "depth_range": "18-40m (60-130ft)",
+      "marine_life": "resting sharks, black-spotted stingrays (sandy floor below wall), sea turtles",
+      "current": "minimal, 0-3km/h (0-2mph)",
+      "last_qa_date": "2026-08-13",
+      "notes": "MAJOR CORRECTION (2026-08-13): the pre-existing markdown for 'Land's End' described strong/unpredictable current, hammerhead sharks, and yellowfin/dogtooth tuna hunting baitfish at a current-convergence point -- NONE of this is corroborated by any source and it directly CONTRADICTS the two sources that do describe the likely-matching site. mantaray.com's dedicated 'End of the Land' page and visityap.com both independently describe a near-vertical wall (18-40m) with MINIMAL current (0-3km/h) and RESTING (not hunting) sharks plus black-spotted stingrays and turtles -- essentially the opposite current/pelagic-action profile from what was previously written. This is very likely the same site under a slightly different name/word-order, but because the name doesn't match exactly and only 2 domains were found, validated remains false pending a third source or exact-name confirmation. Data and description corrected to match the 2 real sources; the fabricated pelagic-action content has been removed as a hallucination."
     }
   }
 ]

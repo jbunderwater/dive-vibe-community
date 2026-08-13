@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Diamond Rock
 
-Diamond Rock is a wall dive site in Martinique, Caribbean.
+Diamond Rock — the basalt islet the Royal Navy commissioned as HMS Diamond Rock in 1804 — is Martinique's best-known dive site: a 175-metre volcanic tower roughly 5km off the south coast, with a wall dropping to 35-40 metres and a cathedral-shaped crack that pierces the islet from side to side.
 
 ## Overview
 
-Diamond Rock — the basalt islet that the Royal Navy famously commissioned as HMS Diamond Rock in 1804 — offers some of Martinique's most dramatic underwater topography, with a wall that plummets to 40 metres, rocky canyons, and a cathedral-shaped crack that pierces the entire island from side to side starting at around 16 metres. Hawksbill turtles congregate at the base of the rock, while gorgonian fans, soft corals, and sponges cover the wall faces alongside moray eels, Spanish mackerel, and abundant crustaceans. Strong and variable currents make this a site for experienced divers, but the clear open-ocean water and sheer scale of the dive make it widely considered the finest site in Martinique.
+Multiple dive operators (Alpha Plongée, Tribloo, Paradis Plongée) independently describe the same signature feature: a fissure or "cathedral" passage through the rock, entered around 15-16 metres, with dramatic light effects as it opens onto the wall. Depth figures vary slightly by source - Tribloo cites a 35m maximum with the drop-off reaching 40m, consistent with this entry's stored depth. The site sits in open water with variable currents, so Paradis Plongée recommends a minimum of roughly 15 logged dives before attempting it. Diving here typically splits between a sheltered northern cove suited to less experienced divers and the more demanding western drop-off.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: ~5km off the south coast of Martinique, near Le Diamant
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +29,7 @@ Diamond Rock — the basalt islet that the Royal Navy famously commissioned as H
 
 ## Marine Life
 
-Hawksbill turtles congregate at the base of the rock in notable numbers, while gorgonian fans, soft corals, and sponges on the wall faces host moray eels, Spanish mackerel, and abundant crustaceans. The strong variable currents that make this an advanced dive bring reef sharks, barracuda, and jacks sweeping past the rocky canyons and the cathedral crack that cuts through the entire islet.
+Confirmed across multiple sources: hawksbill turtles, moray eels, gorgonian fans, soft and black coral, sponges (tube and vase), Spanish mackerel, barracuda, groupers, conger eels, lizardfish, and frogfish, plus stonefish, crayfish, shrimp and crabs in the crevices. The islet above water also hosts nesting seabirds and the endangered Martinique couresse snake, notable context for the marine reserve status of the surrounding waters.
 
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*Sources: [Alpha Plongée - Diving at Diamond Rock](https://alphaplongee.com/diving-at-diamond-rock/?lang=en), [Tribloo - Rocher du Diamant / Diamond Rock](https://tribloo.com/en/dive-sites/81/le-rocher-du-diamant---diamond-rock.html), [Scuba Diving Magazine - A Diver's Guide to Martinique](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Paradis Plongée - Rocher du Diamant](https://paradisplongee.com/sites-de-plongees/autour-du-rocher-du-diamant). Last updated 2026-08-13.*

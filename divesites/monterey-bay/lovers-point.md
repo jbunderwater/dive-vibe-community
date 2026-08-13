@@ -3,7 +3,7 @@ name: Lovers Point
 lat: 36.625
 lng: -121.915
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 21
 entryType: shore
 siteType: pinnacle
 ref: null
@@ -26,7 +26,7 @@ Located in Pacific Grove along Ocean View Boulevard, Lovers Point is a dual-entr
 - **Entry Type**: Shore entry
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 5–15 meters (15–50 feet)
 - **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
 - **Parking**: Free on Ocean View Boulevard (2-hour limit) or small parking lot
@@ -85,4 +85,4 @@ From May 1 through September 30, the east side is closed to diving on Fridays th
 Monitor conditions before entering—west side can be rough in swell. Always use an SMB on ascent. Buddy contact is essential, particularly when focused on octopus hunting. The shallow depths and protected east-side option make this an excellent choice for safer, more comfortable Monterey diving.
 
 ---
-*Sources: [Monterey Scuba Board — Lovers Cove](https://montereyscubaboard.com/monterey-dive-sites/lovers-cove/), [California Diving News — Lovers Point](https://cadivingnews.com/dive-spots/lovers-point/), [ScubaBoard — Lovers Point Monterey](https://scubaboard.com/community/threads/lovers-point-monterey.28570/). Last updated 2026-06-16.*
+*Sources: [Monterey Scuba Board — Lovers Cove](https://montereyscubaboard.com/monterey-dive-sites/lovers-cove/), [California Diving News — Lovers Point](https://cadivingnews.com/dive-spots/lovers-point/), [ScubaBoard — Lovers Point Monterey](https://scubaboard.com/community/threads/lovers-point-monterey.28570/). Last updated 2026-08-13.*
