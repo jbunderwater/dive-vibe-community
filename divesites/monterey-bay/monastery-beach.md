@@ -3,7 +3,7 @@ name: Monastery Beach
 lat: 36.524
 lng: -121.928
 difficulty: Advanced
-maxDepth: 27
+maxDepth: 40
 entryType: shore
 siteType: wall
 ref: null
@@ -26,12 +26,12 @@ Located along Highway 1 just south of Carmel-by-the-Sea, Monastery Beach is name
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-80 feet (6-24 meters) on good days
 - **Water Temperature**: 10-13°C (50-55°F) — requires 7mm wetsuit or drysuit
 - **Current**: Moderate to strong variable
 - **Hazard**: Treacherous shore break and unstable beach conditions
-- **Best Time**: Calm days only (June-September typically)
+- **Best Time**: Condition-dependent, not calendar-dependent — dive only when surf and swell are genuinely calm; check a local surf/swell forecast before committing
 
 ## Marine Life and Features
 
@@ -68,4 +68,4 @@ Monterey's 50-55°F water at 40 meters demands a 7mm wetsuit or drysuit. At 40+ 
 This site carries genuine risk from the shore break, cold water, and depth. Divers have died here—approach with extreme respect for conditions. Never dive Monastery Beach on days with any appreciable swell. Always use an SMB on ascent. Buddy separation at depth or in the surf zone can be fatal. This is a site for advanced, experienced cold-water divers only.
 
 ---
-*Sources: [ScubaBoard — Diving Mortuary Beach](https://scubaboard.com/community/threads/diving-mortuary-beach-i-e-monastery-beach.569126/), [OpenDiveSites — Monastery Beach](https://opendivesites.org/Monastery_Beach), [California Diving News — North Monastery Beach](https://cadivingnews.com/dive-spots/montereys-north-monastery-beach/). Last updated 2026-06-16.*
+*Sources: [ScubaBoard — Diving Mortuary Beach](https://scubaboard.com/community/threads/diving-mortuary-beach-i-e-monastery-beach.569126/), [OpenDiveSites — Monastery Beach](https://opendivesites.org/Monastery_Beach), [California Diving News — North Monastery Beach](https://cadivingnews.com/dive-spots/montereys-north-monastery-beach/). Last updated 2026-08-13.*

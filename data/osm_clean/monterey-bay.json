@@ -15,7 +15,7 @@
       "type": "multipolygon",
       "validated": "true",
       "validation_source": "parks.ca.gov,montereyscubaboard.com,cadivingnews.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -35,7 +35,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "parks.ca.gov,montereyscubaboard.com,cadivingnews.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -51,7 +51,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "montereyscubaboard.com,opendivesites.org,scubaboard.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -67,14 +67,14 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "montereyscubaboard.com,cadivingnews.com,opendivesites.org",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
     "name": "Lovers Point",
     "lat": 36.625,
     "lon": -121.915,
-    "depth": 15,
+    "depth": 21,
     "site_type": "pinnacle",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -83,7 +83,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "montereyscubaboard.com,cadivingnews.com,scubaboard.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -99,7 +99,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "parks.ca.gov,montereyscubaboard.com,cadivingnews.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -115,14 +115,14 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "parks.ca.gov,montereyscubaboard.com,scubaboard.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
     "name": "Monastery Beach",
     "lat": 36.524,
     "lon": -121.928,
-    "depth": 27,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Advanced",
@@ -131,14 +131,14 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "scubaboard.com,opendivesites.org,cadivingnews.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
     "name": "Coral Street Beach",
     "lat": 36.63,
     "lon": -121.92,
-    "depth": 18,
+    "depth": 15,
     "site_type": "kelp",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -147,7 +147,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "scubaboard.com,cadivingnews.com,montereyscubaboard.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -163,7 +163,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "montereyscubaboard.com,cadivingnews.com,opendivesites.org",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -179,7 +179,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "cadivingnews.com,opendivesites.org,pacificscubadivers.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -195,7 +195,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "montereyscubaboard.com,opendivesites.org,scubaboard.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -211,7 +211,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "cadivingnews.com,montereyscubaboard.com,scubaboard.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   },
   {
@@ -227,7 +227,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "cadivingnews.com,opendivesites.org,montereyscubaboard.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-13"
     }
   }
 ]

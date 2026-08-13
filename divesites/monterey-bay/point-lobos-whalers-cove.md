@@ -79,4 +79,4 @@ Strictly comply with Point Lobos reserve regulations. Kelp forests demand excell
 - **Point Lobos Diving Info**: https://www.parks.ca.gov/?page_id=28353
 
 ---
-*Sources: [California State Parks — Point Lobos SCUBA Diving](https://www.parks.ca.gov/?page_id=28353), [Monterey Scuba Board — Point Lobos](https://montereyscubaboard.com/monterey-dive-sites/point-lobos/), [ScubaBoard — Best Monterey Dive Sites](https://scubaboard.com/community/threads/best-monterey-dive-sites.381486/). Last updated 2026-06-16.*
+*Sources: [California State Parks — Point Lobos SCUBA Diving](https://www.parks.ca.gov/?page_id=28353), [Monterey Scuba Board — Point Lobos](https://montereyscubaboard.com/monterey-dive-sites/point-lobos/), [ScubaBoard — Best Monterey Dive Sites](https://scubaboard.com/community/threads/best-monterey-dive-sites.381486/). Last updated 2026-08-13.*

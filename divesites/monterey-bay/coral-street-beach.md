@@ -3,7 +3,7 @@ name: Coral Street Beach
 lat: 36.63
 lng: -121.92
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 15
 entryType: shore
 siteType: kelp
 ref: null
@@ -18,7 +18,7 @@ Coral Street Beach offers clear waters, navigable sand channels, and rich marine
 
 ## Overview
 
-Located in Pacific Grove at the intersection of Ocean View Boulevard and Coral Street, Coral Street is a less-visited site on the Peninsula offering excellent diving for those willing to tolerate a longer surface swim. The site features large kelp forests fringing sand channels and rocky walls, creating diverse diving experiences. Multiple notable features including a harbor seal resting spot and occasional John Denver aircraft remnants add character to the site.
+Located in Pacific Grove at the intersection of Ocean View Boulevard and Coral Street, Coral Street is a less-visited site on the Peninsula offering excellent diving for those willing to tolerate a longer surface swim. The site features large kelp forests fringing sand channels and rocky walls, creating diverse diving experiences. A harbor seal resting spot is a reliable feature, and divers on ScubaBoard report occasional aircraft debris on the bottom (believed to be wreckage from John Denver's 1997 plane crash off Pacific Grove) — this is diver-reported anecdote rather than a confirmed archaeological identification.
 
 ## Site Information
 
@@ -26,8 +26,8 @@ Located in Pacific Grove at the intersection of Ocean View Boulevard and Coral S
 - **Entry Type**: Shore entry
 - **Site Type**: Kelp
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-15 meters (15-50 feet) normally, 20-30 feet on excellent days
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 5-9 meters (15-30 feet), better on calm days
 - **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
 - **Current**: Moderate to strong, can catch divers by surprise
 - **Parking**: Along Ocean View Boulevard (free, but competition for spots)
@@ -40,7 +40,7 @@ The site boasts a large kelp forest fringing sand channels and walls. Harbor sea
 
 ## Dive Profile
 
-Enter at stone steps and navigate across shallows to reach deeper water. The site requires a longer surface swim to reach interesting diving—a commitment that reduces crowds. Once in deeper water (12-18 meters), find large kelp forest fringes and sand channels to explore. Rocky walls and pinnacles provide vertical structures with diverse marine life. Navigate with awareness of current, which can catch divers by surprise.
+Enter at stone steps and navigate across shallows to reach deeper water. The site requires a longer surface swim to reach interesting diving—a commitment that reduces crowds. Once in deeper water (9-15 meters), find large kelp forest fringes and sand channels to explore. Rocky walls and pinnacles provide vertical structures with diverse marine life. Navigate with awareness of current, which can catch divers by surprise.
 
 ## Entry and Exit
 
@@ -48,7 +48,7 @@ Stone steps provide safe water access, but the approach is challenging: divers m
 
 ## Special Features
 
-A harbor seal rests reliably on the wash rock in the middle of the cove, providing excellent wildlife observation opportunities. Sea otters hunt in the shallow bouldery areas. During certain wind/tide conditions, remnants of John Denver's airplane (which crashed in Monterey Bay in 1997) can occasionally be sighted.
+A harbor seal rests reliably on the wash rock in the middle of the cove, providing excellent wildlife observation opportunities. Sea otters hunt in the shallow bouldery areas. A ScubaBoard diver reported occasional aircraft debris on the bottom, associated with John Denver's fatal Long-EZ crash near Pacific Grove on October 12, 1997 (NTSB records place the wreckage generally off Pacific Grove, in about 30 feet of water within 150 yards of shore — the exact site relative to Coral Street is not independently confirmed).
 
 ## Tips and Recommendations
 
@@ -61,7 +61,7 @@ A harbor seal rests reliably on the wash rock in the middle of the cove, providi
 
 ## Cold Water and Current Management
 
-Monterey's 50-55°F water at 18 meters demands proper thermal protection (5-7mm wetsuits). Currents at this site are not to be underestimated—experienced divers still get caught by surprise. Monitor your position relative to shore during the dive. Use compass bearings and buoyancy control carefully.
+Monterey's 50-55°F water at 15 meters demands proper thermal protection (5-7mm wetsuits). Currents at this site are not to be underestimated—experienced divers still get caught by surprise. Monitor your position relative to shore during the dive. Use compass bearings and buoyancy control carefully.
 
 ## Skill Level Reality Check
 
@@ -72,4 +72,4 @@ While rated intermediate, the conditions and current demand good buoyancy contro
 Only dive on genuinely calm days—the long surface swim makes rough conditions dangerous. Monitor current constantly throughout the dive. Kelp growth in summer can be daunting. Always use an SMB on ascent. Buddy contact is essential given the current variability. Good situational awareness of position relative to shore is critical.
 
 ---
-*Sources: [ScubaBoard — Coral Street](https://scubaboard.com/community/threads/coral-street.246250/), [California Diving News — Coral Street](https://cadivingnews.com/dive-spots/perfect-monterey-bay-beach-dive-cool-calm-coral-street/), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/). Last updated 2026-06-16.*
+*Sources: [ScubaBoard — Coral Street](https://scubaboard.com/community/threads/coral-street.246250/), [California Diving News — Coral Street](https://cadivingnews.com/dive-spots/perfect-monterey-bay-beach-dive-cool-calm-coral-street/), [Monterey Scuba Board — Coral Street Beach](https://montereyscubaboard.com/monterey-dive-sites/coral-street-beach/). Last updated 2026-08-13.*

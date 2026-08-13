@@ -62,4 +62,4 @@ Monterey's 50-55°F water year-round demands proper thermal protection. Wear 5-7
 Maintain awareness of the current, which can increase with depth. Monitor your air consumption on intermediate dives—the cold water increases air density effects. Stay near the pipe and rocky structures to avoid disorientation. Always use an SMB on ascent. Buddy contact is essential, particularly when distracted by photography.
 
 ---
-*Sources: [Monterey Scuba Board — Metridium Fields](https://montereyscubaboard.com/monterey-dive-sites/metridium-fields/), [OpenDiveSites — Metridium Fields](https://opendivesites.org/Metridium_Fields), [ScubaBoard — Metridium Fields](https://scubaboard.com/community/threads/metridium-fields.569053/). Last updated 2026-06-16.*
+*Sources: [Monterey Scuba Board — Metridium Fields](https://montereyscubaboard.com/monterey-dive-sites/metridium-fields/), [OpenDiveSites — Metridium Fields](https://opendivesites.org/Metridium_Fields), [ScubaBoard — Metridium Fields](https://scubaboard.com/community/threads/metridium-fields.569053/). Last updated 2026-08-13.*

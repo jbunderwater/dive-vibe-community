@@ -73,4 +73,4 @@ Strictly comply with Point Lobos reserve regulations and daily buddy pair limits
 - **Point Lobos Diving Info**: https://www.parks.ca.gov/?page_id=28353
 
 ---
-*Sources: [California State Parks — Point Lobos SCUBA Diving](https://www.parks.ca.gov/?page_id=28353), [Monterey Scuba Board — Point Lobos](https://montereyscubaboard.com/monterey-dive-sites/point-lobos/), [California Diving News — Bluefish Wall](https://cadivingnews.com/dive-spots/point-lobos-state-reserve-bluefish-wall/). Last updated 2026-06-16.*
+*Sources: [California State Parks — Point Lobos SCUBA Diving](https://www.parks.ca.gov/?page_id=28353), [Monterey Scuba Board — Point Lobos](https://montereyscubaboard.com/monterey-dive-sites/point-lobos/), [California Diving News — Bluefish Wall](https://cadivingnews.com/dive-spots/point-lobos-state-reserve-bluefish-wall/). Last updated 2026-08-13.*
