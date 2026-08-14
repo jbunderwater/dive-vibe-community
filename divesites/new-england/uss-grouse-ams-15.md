@@ -62,7 +62,7 @@ The scattered metal debris provides close-focus subjects with strobe lighting �
 
 - **Management**: Massachusetts BUAR (Exempted Site)
 - **Historical Reference**: MWDC (Massachusetts Wreck Divers Club)
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [Wikipedia — USS Grouse (AMS-15)](https://en.wikipedia.org/wiki/USS_Grouse_(AMS-15)), [MWDC — USS Grouse](https://www.mwdc.org/Shipwrecks/ussgrouse.html), [Mass.gov BUAR — USS Grouse](https://www.mass.gov/info-details/uss-grouse). Last updated 2026-06-18.*
+*Sources: [Wikipedia — USS Grouse (AMS-15)](https://en.wikipedia.org/wiki/USS_Grouse_(AMS-15)), [MWDC — USS Grouse](https://www.mwdc.org/Shipwrecks/ussgrouse.html), [Mass.gov BUAR — USS Grouse](https://www.mass.gov/info-details/uss-grouse). Last updated 2026-08-14.*

@@ -33,7 +33,7 @@ Minots Ledge is inseparable from the history of the Minot's Ledge Lighthouse, wh
 
 ## Marine Life
 
-The outer ledge's exposed position in clean, open Massachusetts Bay water supports productive reef life. Tautog are resident on the ledge structure. American lobsters inhabit deep crevices throughout the rock system. Pollock school in midwater above the ledge and can appear in impressive numbers at this exposed outer position. Cunner cluster around encrusted surfaces. Sea urchins carpet open rock faces. Striped bass cruise through in late summer. Northern sea ravens rest on ledge bases. Anemones, hydroids, and encrusting bryozoans colonize all shaded surfaces.
+No site-specific marine-life reports were found for Minots Ledge. This is a cold-water New England rocky reef/ledge site near Outer Cohasset/Scituate, South Shore, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -63,7 +63,7 @@ The Minot's Ledge Lighthouse tower (completed 1860) visible through the surface 
 
 - **Historical Reference**: Minot's Ledge Lighthouse — U.S. Lighthouse Society; Edward Rowe Snow, *The Lighthouses of New England*
 - **Charter Access**: Scituate and Cohasset area dive charter operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [Wikipedia — Minot's Ledge Lighthouse](https://en.wikipedia.org/wiki/Minot%27s_Ledge_Lighthouse), [US Lighthouse Society — Minot's Ledge](https://uslhs.org). Lighthouse history confirmed; no site-specific dive documentation found for Minots Ledge as a named scuba site. Last updated 2026-06-18.*
+*Sources: [Wikipedia — Minot's Ledge Lighthouse](https://en.wikipedia.org/wiki/Minot%27s_Ledge_Lighthouse), [US Lighthouse Society — Minot's Ledge](https://uslhs.org). Lighthouse history confirmed; no site-specific dive documentation found for Minots Ledge as a named scuba site. Last updated 2026-08-14.*

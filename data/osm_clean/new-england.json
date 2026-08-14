@@ -15,9 +15,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "mass.gov,wreckhunter.net,trusteesofservations.org",
+      "validation_source": "mass.gov,wreckhunter.net,thetrustees.org",
       "notes": "Intertidal wreck visible at low tide on Crane Beach, Ipswich. Archaeological site more than diving destination.",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -39,8 +39,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "Rocky ledge off Cape Ann with kelp and rock habitat. Tautog, lobster, and other temperate species.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Could not confirm this site's identity or diving character against any independent source. A 'Godfrey Ledge' associated with Capt. Jonathan Godfrey of Hampton NH is documented in local Hampton-area history and is roughly consistent with these coordinates, but no dive-specific or chart source confirms this is the same feature. Previous markdown content describing it as a documented Isles-of-Shoals kelp reef dive was unsupported and has been removed. Left unvalidated.",
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -63,7 +63,7 @@
       "validated": true,
       "validation_source": "wreckhunter.net,vineyardgazette.com,wbur.org",
       "notes": "Last whaling bark to depart New Bedford, 116ft wooden bark built 1878. Grounded August 26, 1924 on Middle Ground shoal west side of Cuttyhunk Island. Completely broken up, only small artifacts remain among rocks. Maximum depth 20 feet (6m). Easy dive.",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -91,8 +91,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "wikipedia.org,mass.gov,south-wellfleet.com",
-      "notes": "WWII Liberty ship scuttled April 25, 1945 as target for Navy air-to-surface missile testing. Hulk submerged in 1996 storm. Lies in ~6-8m off Eastham MA. OSM tags 'access:no'. Site has unexploded ordnance \u2014 diving not recommended without official clearance.",
-      "last_qa_date": "2026-06-18"
+      "notes": "WWII Liberty ship scuttled April 25, 1945 as target for Navy air-to-surface missile testing. Hulk submerged in 1996 storm. Lies in ~6-8m off Eastham MA. OSM tags 'access:no'. Site has unexploded ordnance — diving not recommended without official clearance.",
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -114,8 +114,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "Shallow rocky reef off Rhode Island. Rock structures with kelp and marine life.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Latimer Reef Light (1884, NRHP-listed) is well documented and confirms the reef's location in Fisher's Island Sound, but no dive-specific source (depth, marine life, conditions) was found. Previous markdown content asserting 'tautog abundant' and other site-specific marine-life claims was unsupported and has been removed. Left unvalidated pending a dive-specific source.",
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -166,8 +166,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "wikipedia.org,mass.gov,newenglandhistoricalsociety.com",
-      "notes": "504-foot Type T2-SE-A1 tanker built 1942 in Portland Oregon. Broke in two February 18, 1952 in nor'easter. Stern grounded off Monomoy Island at 41\u00b035'10\"N 69\u00b057'45\"W. Bow grounded on Pollock Rip Shoal. Famous Finest Hours Coast Guard rescue. Massachusetts BUAR Exempted Site.",
-      "last_qa_date": "2026-06-18"
+      "notes": "504-foot Type T2-SE-A1 tanker built by Kaiser Co., Swan Island Yard, Portland OR (launched Jan 21 1944, completed Feb 1944 -- corrected from earlier '1942' error). Broke in two February 18, 1952 in nor'easter carrying ~120,000 barrels of No. 2 fuel oil (mass.gov). Stern grounded off Monomoy Island at 41°35'10\"N 69°57'45\"W. Bow grounded on Pollock Rip Shoal. Famous Finest Hours Coast Guard rescue. Massachusetts BUAR Exempted Site.",
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -185,13 +185,13 @@
       "name": "Frances",
       "seamark:type": "wreck",
       "wreck:date_sunk": "1872-12-27",
-      "wreck:type": "ship",
+      "wreck:type": "barque",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": false,
-      "validation_source": "mass.gov,wreckhunter.net",
-      "notes": "Historic ship wreck visible at low tide at Head of the Meadow Beach, North Truro. Intertidal wreck site, archaeological interest.",
-      "last_qa_date": "2026-06-18"
+      "validated": true,
+      "validation_source": "provincetownhistoryproject.org,legendsofamerica.com,trurohistoricalsociety.org",
+      "notes": "Corrected: three-masted barque (not generic 'ship'), Hamburg-based, en route Far East to Boston, wrecked at Head of the Meadow Beach, North Truro (not 'Wellfleet' as previously stated) during Dec 27 1872 gale. Captain Wilhelm Kortling got all 20 crew ashore safely but died of exposure ~3 days later; buried in Truro. Sources do not report length or tonnage -- not fabricated. Intertidal site, archaeological interest, similar character to Ada K. Damon.",
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -216,7 +216,7 @@
       "validated": true,
       "validation_source": "wikipedia.org,mass.gov,navsource.org",
       "notes": "USS Yankee (1892), 406-foot iron auxiliary cruiser, 6,225 ton displacement, built Newport News Shipbuilding 1892. Originally Southern Pacific passenger liner El Norte. Grounded Spindle Rock near Hen and Chickens lightship September 23, 1908, sank December 4, 1908 while under tow to New Bedford. 3 miles east of Round Hill Point. Massachusetts BUAR Exempted Site.",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -242,7 +242,7 @@
       "validated": true,
       "validation_source": "wikipedia.org,mwdc.org,mass.gov",
       "notes": "WWII wooden minesweeper (136ft, 270 tons displacement), built 1943 by Al Larson Boat Building. Grounded Little Salvages off Rockport September 21, 1963. Destroyed by explosives September 28, 1963 (NOT fire). Wreck in ~20 feet water. Massachusetts BUAR Exempted Site.",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -265,7 +265,7 @@
       "validated": true,
       "validation_source": "mass.gov,wikipedia.org,mwdc.org",
       "notes": "Boston beam trawler, 104.1ft length, 82 GRT, built 1917 in Boston MA, owned by Matteo Logrande, Gloucester. Foundered September 15, 1955 between Little Salvages and Dry Salvages. Massachusetts BUAR Exempted Site. Seal colony on nearby Dry Salvages.",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -288,7 +288,7 @@
       "validated": true,
       "validation_source": "wikipedia.org,mass.gov,harbormasters.org",
       "notes": "Historic wreck near Graves Ledge, sunk 1946. New England wreck site.",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -761,8 +761,8 @@
     "lon": -70.8453155,
     "osm_id": 816347618,
     "osm_type": "way",
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 26,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -770,10 +770,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": false,
-      "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "validated": true,
+      "validation_source": "idivenewengland.com,wikidata.org,scubaboard.com",
+      "notes": "Reclassified reef->wall per iDive New England ('3 1/2 Fathoms Ledge'): wall dive outside Boston Harbor Islands, bottom starts ~25ft and drops past 80ft (26m) with sheer vertical faces, crevices, and swim-throughs. Marine life per source: black sea raven, sea stars, flounder, anemones, rock gunnels, lobsters, Jonah crabs, cunner, nudibranchs. Also referenced in ScubaBoard 'Best Dive Sites In/Near Boston Harbor' thread. Heavy boat traffic in area -- dive reel recommended.",
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -1069,8 +1069,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "IDENTITY CONFLICT FOUND: OSM ref:nrhp=94000335 / nrhp:inscription_date=1994-04-14 actually corresponds to the Winter Island Historic District (Fort Pickering, Salem) per NRHP records -- NOT Derby Wharf (which was separately NRHP-listed in 1966 as part of Salem Maritime NHS). Coordinates (42.5261,-70.8717) sit near Winter Island, consistent with the Fort Pickering identification. The name 'Derby Powderhouse Wharf' could not be independently verified as a real, distinct place name -- likely a mislabeling/conflation of two separate historic sites. Left unvalidated pending a source that resolves the identity. No dive-specific documentation found under either identification.",
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -1098,8 +1098,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "wikipedia.org,wreckhunter.net,mass.gov",
-      "notes": "Freight sidepaddle steamship, 292 feet length, built 1892 Chelsea MA by Montgomery & Howard. Served Fall River Line. Grounded Somerset MA (Brayton Point) 1930s, abandoned. Wreck visible at low tide on Mount Hope Bay at 41\u00b042'35.48\"N 71\u00b010'42.58\"W.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Freight sidepaddle steamship, 292 feet length, built 1892 Chelsea MA by Montgomery & Howard. Served Fall River Line. In 1903 collided with sidewheeler City of Plymouth in fog; Taunton survived, Plymouth severely damaged with 6 deaths. Grounded/abandoned Somerset MA (Brayton Point) 1930s. Wreck visible at low tide on Mount Hope Bay at 41°42'35.48\"N 71°10'42.58\"W.",
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -1122,8 +1122,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "wikipedia.org,uri.edu,providenceriverboat.com",
-      "notes": "Rhode Island's largest ship graveyard \u2014 33-acre shoal in the Providence River with 29 confirmed wrecks. Named for local term for eelgrass. Marine Protected Area since 2018 with restricted access enforced by RI DEM. Not accessible to recreational divers. Boat tours via Providence River Boat Company.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Rhode Island's largest ship graveyard — 33-acre shoal in the Providence River with 29 confirmed wrecks. Named for local term for eelgrass. Marine Protected Area since 2018 with restricted access enforced by RI DEM. Not accessible to recreational divers. Boat tours via Providence River Boat Company.",
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -1166,9 +1166,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "northernatlanticdive.com,rhodeislandlighthousehistory.info,nedeepwrecks.com",
-      "notes": "LV-39 lightship, wooden vessel 119ft 6in length, 387 gross tons, built ~1875. Stationed at Brenton Reef 1897-1935. Struck by USS Iowa August 1905. Sank 1975 while under tow to Beverly MA. First dived July 5, 2004 by Bob Foster, David Caldwell, Heather Knowles. Rests upright with port list at 180 feet (55m). 20-25ft relief. Technical dive only.",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "northernatlanticdive.com,rhodeislandlighthousehistory.info,nedeepwrecks.com,smallstatebighistory.com",
+      "notes": "LV-39 lightship, wooden vessel 119ft 6in length x 22ft 9in beam, 387 gross tons, built ~1875. Stationed at Brenton Reef 1897-1935. Struck by USS Iowa August 1905. Sold 1935 to Alfred John of Cambridge MA; served as floating restaurant then as USCG Auxiliary Flotilla 1504 clubhouse before becoming derelict at Peninsula Yacht Club, Boston, by early 1970s (confirmed via smallstatebighistory.com, resolving prior uncertainty). Sank 1975 while under tow to Beverly MA. First dived July 5, 2004 by Bob Foster, David Caldwell, Heather Knowles. Rests upright with port list at 180 feet (55m). 20-25ft relief. Technical dive only.",
+      "last_qa_date": "2026-08-14"
     }
   }
 ]

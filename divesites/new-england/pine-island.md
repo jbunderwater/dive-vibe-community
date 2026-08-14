@@ -33,7 +33,7 @@ Pine Island is a rocky feature in Buzzards Bay, Massachusetts, at coordinates pl
 
 ## Marine Life
 
-Buzzards Bay cold-water reef species. Tautog are resident on rocky structures. Striped bass are abundant in Buzzards Bay in warmer months — the bay is a significant striper habitat. American lobsters inhabit crevices in the rocky substrate. Sea bass present in summer. Cunner around encrusted surfaces. Winter flounder common on the sandy bay floor adjacent to the rock. Bluefish appear seasonally.
+No site-specific marine-life reports were found for Pine Island. This is a cold-water New England rocky reef/ledge site near Buzzards Bay, eastern bay area, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -62,7 +62,7 @@ The isolated rock relief in a sandy bay setting creates an interesting wide-angl
 ## Additional Resources
 
 - **Charter Access**: Marion, Wareham, and eastern Buzzards Bay boat operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

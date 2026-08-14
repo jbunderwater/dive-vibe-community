@@ -33,7 +33,7 @@ Middle Ground is a named rocky shoal in Salem Sound, sitting roughly in the midd
 
 ## Marine Life
 
-Salem Sound cold-water reef community. Tautog are the dominant fish species. American lobsters inhabit the shoal's crevices. Cunner cluster around encrusted surfaces. Pollock school in midwater — the sound supports good pollock populations. Sea urchins on open rock faces. Winter flounder and sand dabs on adjacent sandy areas. Northern sea ravens rest on the bottom. Hydroids, anemones, and bryozoans encrust shaded surfaces throughout.
+No site-specific marine-life reports were found for Middle Ground. This is a cold-water New England rocky reef/ledge site near Salem Sound, between Marblehead and Beverly, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Rocky shoal subjects at 14 metres with strobe lighting. Tautog and pollock portr
 ## Additional Resources
 
 - **Charter Access**: Marblehead and Beverly area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

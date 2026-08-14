@@ -33,7 +33,7 @@ Utonia Ledge sits in the mid-portion of the South Shore ledge cluster, between t
 
 ## Marine Life
 
-Tautog resident on ledge rock. American lobsters in crevices throughout the system. Cunner around encrusted surfaces. Pollock in midwater. Sea urchins on open rock faces. Winter flounder on adjacent sandy areas. Anemones, hydroids, and bryozoans on shaded surfaces.
+No site-specific marine-life reports were found for Utonia Ledge. This is a cold-water New England rocky reef/ledge site near South Shore ledges, off Cohasset/Scituate area, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Strobes needed at 18 metres. Rocky ledge and encrusting organism subjects.
 ## Additional Resources
 
 - **Charter Access**: Cohasset and Scituate area dive charter operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

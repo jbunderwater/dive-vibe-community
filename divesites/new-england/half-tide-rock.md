@@ -33,7 +33,7 @@ Half Tide Rock is a rocky feature that, as its name precisely describes, is subm
 
 ## Marine Life
 
-The rocky substrate supports the typical northern Ipswich Bay cold-water species. Tautog hold territory on the rock faces. American lobsters inhabit the crevices and undercut sections of the rock base. Cunner cluster around encrusted surfaces. Sea urchins are present throughout the rock structure. Pollock and Atlantic mackerel school above the site in summer. Winter flounder rest on the sand adjacent to the rock. Hydroids, anemones, and encrusting bryozoans cover shaded surfaces below 5 metres.
+No site-specific marine-life reports were found for Half Tide Rock. This is a cold-water New England rocky reef/ledge site near Northern Ipswich Bay area, northern Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ The strong natural light at 10 metres is an asset. Near high tide, the rock top 
 ## Additional Resources
 
 - **Charter Access**: North Shore and Cape Ann area dive charters
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

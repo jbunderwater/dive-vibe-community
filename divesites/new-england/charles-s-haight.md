@@ -63,7 +63,7 @@ The engine block is the primary photographic subject — wide-angle with a diver
 - **Management**: Massachusetts BUAR (Exempted Site)
 - **Coordinates**: Latitude 42° 40' 38" N; Longitude 70° 35' 03" W
 - **Navigation Marker**: Red Nun "2" near the wreck site
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [Mass.gov BUAR — Charles S. Haight](https://www.mass.gov/info-details/charles-s-haight), [Wikipedia — SS Charles S. Haight](https://en.wikipedia.org/wiki/SS_Charles_S._Haight), [Harbormasters.org — Rockport Liberty Ship](http://www.harbormasters.org/rockport/libertyship/haight.shtml). Last updated 2026-06-18.*
+*Sources: [Mass.gov BUAR — Charles S. Haight](https://www.mass.gov/info-details/charles-s-haight), [Wikipedia — SS Charles S. Haight](https://en.wikipedia.org/wiki/SS_Charles_S._Haight), [Harbormasters.org — Rockport Liberty Ship](http://www.harbormasters.org/rockport/libertyship/haight.shtml). Last updated 2026-08-14.*

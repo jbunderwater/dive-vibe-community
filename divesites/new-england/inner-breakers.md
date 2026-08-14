@@ -33,7 +33,7 @@ Inner Breakers is a submerged rocky shoal in the outer Salem Sound area, east of
 
 ## Marine Life
 
-Salem Sound cold-water community. Tautog resident on rocky structures. American lobsters in ledge crevices. Pollock school in midwater. Cunner around encrusted surfaces. Sea urchins on open rock faces. Winter flounder on adjacent sandy areas. Northern sea ravens rest on ledge bases. Hydroids, anemones, and bryozoans on shaded rock.
+No site-specific marine-life reports were found for Inner Breakers. This is a cold-water New England rocky reef/ledge site near Outer Salem Sound, off Marblehead, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -62,7 +62,7 @@ Rocky reef subjects at 14 metres with strobe lighting. Tautog portraits and encr
 ## Additional Resources
 
 - **Charter Access**: Marblehead and Beverly area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

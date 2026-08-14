@@ -63,7 +63,7 @@ The exposed hull timbers, partially silted and encrusted, make excellent documen
 
 - **Management**: [Trustees of Reservations — Crane Beach](https://www.thetrustees.org/place/crane-beach/) (see 2025 FAQs for current access rules)
 - **Historical Reference**: [Historic Ipswich — Ada K. Damon](https://historicipswich.net/2021/02/28/shipwreck_ada-k-damon/); [Wikipedia — Ada K. Damon](https://en.wikipedia.org/wiki/Ada_K._Damon)
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [Wikipedia — Ada K. Damon](https://en.wikipedia.org/wiki/Ada_K._Damon), [The Trustees of Reservations](https://thetrustees.org/content/shifting-sands-and-shipwrecks/), [Historic Ipswich](https://historicipswich.net/2021/02/28/shipwreck_ada-k-damon/). Last updated 2026-06-18.*
+*Sources: [Wikipedia — Ada K. Damon](https://en.wikipedia.org/wiki/Ada_K._Damon), [The Trustees of Reservations](https://thetrustees.org/content/shifting-sands-and-shipwrecks/), [Historic Ipswich](https://historicipswich.net/2021/02/28/shipwreck_ada-k-damon/). Last updated 2026-08-14.*

@@ -63,7 +63,7 @@ Seal encounters are the premier photographic experience here — wide-angle shot
 - **Management**: Massachusetts BUAR (Exempted Site)
 - **Charter Access**: Cape Ann Divers, Gloucester; Rockport-area charter operators
 - **Coordinates**: Latitude 42° 40' 25" N; Longitude 70° 34' 19" W
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [Mass.gov BUAR — California](https://www.mass.gov/info-details/california), [MWDC — California](http://www.mwdc.org/Shipwrecks/CharlesSHaight.html), [Wreckhunter.net — Massachusetts Wrecks](https://wreckhunter.net/mawrecks.htm). Last updated 2026-06-18.*
+*Sources: [Mass.gov BUAR — California](https://www.mass.gov/info-details/california), [MWDC — California](http://www.mwdc.org/Shipwrecks/CharlesSHaight.html), [Wreckhunter.net — Massachusetts Wrecks](https://wreckhunter.net/mawrecks.htm). Last updated 2026-08-14.*

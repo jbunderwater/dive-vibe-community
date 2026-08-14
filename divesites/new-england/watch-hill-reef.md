@@ -33,7 +33,7 @@ Watch Hill Reef lies at the southwestern tip of Rhode Island, adjacent to Watch 
 
 ## Marine Life
 
-Southern Rhode Island cold-water reef community. Tautog are abundant in this area — Watch Hill's rocky reefs are among the better tautog grounds in Rhode Island. Striped bass are present in good numbers in the tidal current zone adjacent to Watch Hill Point, particularly in summer. Bluefish appear seasonally. American lobsters inhabit crevices in the deeper ledge sections. Sea bass are present in warmer months. Cunner hover around encrusted rock. Sea urchins colonize open surfaces. The nutrient-rich tidal flow supports dense invertebrate growth on the reef.
+No site-specific marine-life reports were found for Watch Hill Reef. This is a cold-water New England rocky reef/ledge site near Watch Hill, Westerly, Rhode Island (southwestern RI tip); the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -63,7 +63,7 @@ Tautog on kelp-draped rocky reef are the signature subject. The historic Watch H
 
 - **Historical Reference**: Watch Hill Lighthouse history; Rhode Island Historical Preservation and Heritage Commission wreck records
 - **Charter Access**: Westerly, RI area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef), [Small State Big History — Watch Hill Shipwrecks](http://smallstatebighistory.com/mariners-beware-shipwrecks-in-rhode-island-watch-hill/). No site-specific dive documentation found for Watch Hill Reef as a named scuba site. Last updated 2026-06-18.*
+*Sources: [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef), [Small State Big History — Watch Hill Shipwrecks](http://smallstatebighistory.com/mariners-beware-shipwrecks-in-rhode-island-watch-hill/). No site-specific dive documentation found for Watch Hill Reef as a named scuba site. Last updated 2026-08-14.*

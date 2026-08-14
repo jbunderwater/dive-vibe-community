@@ -17,7 +17,7 @@ A cluster of tidal rocks off the Plum Island/northern Massachusetts coast, part 
 
 ## Overview
 
-Half Tide Rocks is a distinct site from the similarly named Half Tide Rock further south — this cluster sits further north at approximately 42.81°N, in the Plum Island/Newburyport area alongside Gangway Rocks, Black Rocks, Badgers Rock, Lunts Rock, Sow and Pigs, and the Ruins of Old Breakwater. The name describes rocks that are submerged at high tide but partially exposed at low water. This cluster of reef sites in the northern Massachusetts nearshore represents some of the most accessible shallow reef diving on the North Shore, with numerous named features within a small geographic area. The 10-metre maximum depth and the Gulf of Maine cold-water ecology make this a productive dive for lobster, tautog, and invertebrate observation.
+Half Tide Rocks is a distinct site from the similarly named Half Tide Rock further south — this cluster sits further north at approximately 42.81°N, in the Plum Island/Newburyport area alongside Gangway Rocks, Black Rocks, Badgers Rock, Lunts Rock, Sow and Pigs, and the Ruins of Old Breakwater. The name describes rocks that are submerged at high tide but partially exposed at low water. This cluster of reef sites in the northern Massachusetts nearshore represents some of the most accessible shallow reef diving on the North Shore, with numerous named features within a small geographic area. The 10-metre maximum depth is typical of this shallow nearshore cluster, though no site-specific marine-life survey was found.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Half Tide Rocks is a distinct site from the similarly named Half Tide Rock furth
 
 ## Marine Life
 
-Typical northern Massachusetts cold-water reef community. American lobsters den in the crevices between boulder clusters. Tautog are the dominant fish species on the rocks. Cunner school around kelp-draped surfaces. Sea urchins carpet the exposed rock faces. Pollock and Atlantic mackerel pass through above the reef. Encrusting sponges, anemones, and bryozoans cover shaded rock throughout the season.
+No site-specific marine-life reports were found for Half Tide Rocks. This is a cold-water New England rocky reef/ledge site near Off Plum Island / Newburyport coast, northern Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Boat charter required. Local knowledge essential for navigating the shoal waters
 ## Tips and Recommendations
 
 - This site pairs well with the nearby named rocks — combine Gangway Rocks, Black Rocks, and Badgers Rock on a single charter
-- Inspect all boulder bases and crevices for lobsters
+- No site-specific reports were found for this location; verify current conditions with a local operator
 - Merrimack outflow can cloud visibility after heavy rain — check recent conditions
 - 7mm wetsuit or drysuit required
 
@@ -56,12 +56,12 @@ Cold water year-round. Merrimack River tidal outflow can create directional curr
 
 ## Photography
 
-Good natural light at 10 metres. Rocky reef and kelp subjects work well in ambient light. Lobster portraits in crevices are the signature close-focus subject.
+Good natural light at 10 metres. Rocky reef and kelp subjects work well in ambient light. No site-specific photography reports were found for this location.
 
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

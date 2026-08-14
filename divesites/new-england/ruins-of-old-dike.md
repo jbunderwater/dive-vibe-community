@@ -33,7 +33,7 @@ The Ruins of Old Dike is a dive site built around the collapsed remains of a his
 
 ## Marine Life
 
-The submerged dike structure has become colonized by the same cold-water community found on natural ledge in the area. Encrusting sponges, hydroids, and anemones cover the stone and rubble surfaces. Tautog patrol the structure perimeter. Lobsters inhabit the dark spaces within the collapsed structure. Cunner hover above the encrusted surfaces. Sea urchins are present on harder substrate sections. Winter flounder and sand dabs rest on adjacent sandy areas.
+No site-specific marine-life reports were found for Ruins of Old Dike. This is a cold-water New England rocky reef/ledge site near Off Plum Island/Newburyport coast, northern Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ The contrast between constructed human geometry (the linear dike line) and the n
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

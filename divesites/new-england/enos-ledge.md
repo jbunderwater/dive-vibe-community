@@ -17,7 +17,7 @@ A rocky ledge in the South Shore ledge cluster off Scituate and Cohasset, Massac
 
 ## Overview
 
-Enos Ledge is part of the South Shore ledge cluster — a group of named submerged rocky ledges south of Boston Harbor in the waters off Scituate and Cohasset, Massachusetts. Along with Davis, Tobias, Mikes, Harding, Martin, Utonia, and Three-and-One-Half-Fathom Ledges, Enos forms part of a network of navigational hazards that appear on NOAA nautical charts for the approach south of the President Roads channel. For recreational divers based on the South Shore, these ledges represent productive reef diving at depths of 12–18 metres, with reliable lobster populations and the characteristic cold-water fish community of Massachusetts Bay. Scituate and Hull-area dive charters visit these ledges regularly.
+Enos Ledge is part of the South Shore ledge cluster — a group of named submerged rocky ledges south of Boston Harbor in the waters off Scituate and Cohasset, Massachusetts. Along with Davis, Tobias, Mikes, Harding, Martin, Utonia, and Three-and-One-Half-Fathom Ledges, Enos forms part of a network of navigational hazards that appear on NOAA nautical charts for the approach south of the President Roads channel. For recreational divers based on the South Shore, these ledges represent productive reef diving at depths of 12–18 metres, though no site-specific marine-life survey was found for this location. Scituate and Hull-area dive charters visit these ledges regularly.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Enos Ledge is part of the South Shore ledge cluster — a group of named submerg
 
 ## Marine Life
 
-Typical Massachusetts Bay rocky ledge fauna. Tautog are resident on the ledge structure. American lobsters inhabit crevices throughout the system. Cunner hover above encrusted surfaces. Pollock school in midwater. Sea urchins colonize exposed rock. Winter flounder rest on adjacent sandy areas. Anemones, hydroids, and bryozoans cover shaded rock faces.
+No site-specific marine-life reports were found for Enos Ledge. This is a cold-water New England rocky reef/ledge site near South Shore ledges, off Scituate/Cohasset, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
-Boat access from South Shore charter operators. Descend to ledge at 12–18 metres. Navigate ledge perimeter, working crevice faces for lobsters. The ledge cluster allows multi-site diving on a single charter. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
+Boat access from South Shore charter operators. Descend to ledge at 12–18 metres. Navigate ledge perimeter. The ledge cluster allows multi-site diving on a single charter. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -46,7 +46,7 @@ Boat charter required. Anchor in sand adjacent to ledge. Deploy SMB before ascen
 ## Tips and Recommendations
 
 - Pair with Davis and Tobias Ledges for a productive three-site South Shore day
-- Lobsters concentrate at the sand-rock interface at ledge base
+- No site-specific reports were found for this ledge; verify current conditions with a local operator
 - 7mm wetsuit or drysuit required
 - Plan dives around slack tide for best conditions
 
@@ -56,12 +56,12 @@ Cold water year-round. Moderate tidal current near peak flow. Rocky ledge hazard
 
 ## Photography
 
-At 18 metres, strobes are needed for accurate color. Ledge face portraits and lobster crevice shots are primary subjects.
+At 18 metres, strobes are needed for accurate color. No site-specific photography reports were found for this location.
 
 ## Additional Resources
 
 - **Charter Access**: Scituate and South Shore dive charter operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

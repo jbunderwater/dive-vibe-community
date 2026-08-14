@@ -17,7 +17,7 @@ A submerged rocky ledge south of Boston Harbor in the Hull/Cohasset area, part o
 
 ## Overview
 
-Harding Ledge lies in the waters south of Boston Harbor off the Hull/Cohasset coast — slightly north and west of the Enos-Davis-Tobias ledge cluster but part of the same broader South Shore rocky ledge system. The ledge sits at coordinates suggesting a position offshore in Massachusetts Bay at depths of 12–18 metres, where rocky outcrops break the otherwise sandy bay floor. Named on NOAA charts as a navigation hazard, Harding Ledge is familiar to local South Shore commercial fishermen and dive operators. The ledge provides the same type of cold-water reef diving characteristic of the entire South Shore ledge system: dense invertebrate growth, reliable lobster populations, and the hardy fish species of Massachusetts Bay.
+Harding Ledge lies in the waters south of Boston Harbor off the Hull/Cohasset coast — slightly north and west of the Enos-Davis-Tobias ledge cluster but part of the same broader South Shore rocky ledge system. The ledge sits at coordinates suggesting a position offshore in Massachusetts Bay at depths of 12–18 metres, where rocky outcrops break the otherwise sandy bay floor. Named on NOAA charts as a navigation hazard, Harding Ledge provides the same type of cold-water reef diving characteristic of the South Shore ledge system generally, though no site-specific marine-life survey was found for this location.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Harding Ledge lies in the waters south of Boston Harbor off the Hull/Cohasset co
 
 ## Marine Life
 
-The rocky ledge supports the typical Massachusetts Bay cold-water species. Tautog hold territory on the ledge structure. American lobsters inhabit crevices and undercuts. Cunner cluster around the encrusted edges. Pollock school above the ledge. Sea urchins carpet exposed rock surfaces. Winter flounder are common on adjacent sandy areas. Anemones, hydroids, and bryozoans encrust shaded rock throughout the season.
+No site-specific marine-life reports were found for Harding Ledge. This is a cold-water New England rocky reef/ledge site near Off Hull/Cohasset, South Shore of Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Boat charter required. Local knowledge of the Hull/Cohasset approach is helpful.
 ## Tips and Recommendations
 
 - Combine with Martin Ledge and Tewksbury Rock — same general area and within range of a single charter
-- Lobsters on the ledge base are the prime target for most divers here
+- No site-specific reports were found for this ledge; verify current conditions with a local South Shore operator
 - 7mm wetsuit or drysuit required
 - Plan dives around slack water
 
@@ -61,7 +61,7 @@ Strobes needed at 18 metres for color correction. Ledge face portraits with encr
 ## Additional Resources
 
 - **Charter Access**: Hull and Scituate area dive charter operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

@@ -33,7 +33,7 @@ Abbot Rock is a submerged ledge system in the outer reaches of Salem Sound, nort
 
 ## Marine Life
 
-Abbot Rock supports the characteristic species assemblage of the western Gulf of Maine. Expect American lobster sheltering deep in rock crevices, tautog (blackfish) patrolling ledge edges, cunner hovering in rocky overhangs, and schools of pollock and Atlantic mackerel in midwater. Northern sea ravens rest motionless on the bottom, while winter flounder camouflage themselves in sand patches adjacent to the reef. Various nudibranch species—including the colourful Flabellina—cling to hydroids and bryozoans. Giant green anemones and northern red anemones encrust shaded rock faces.
+No site-specific marine-life reports were found for Abbot Rock. This is a cold-water New England rocky reef/ledge site near Salem Sound, Marblehead, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Abbot Rock is exposed to open ocean conditions. Swells from the northeast can cr
 Rocky ledge crevices offer excellent macro subjects: nudibranchs on hydroid colonies, lobster antennae protruding from rocky dens, and sea ravens displaying elaborate pectoral fin detail. Wide-angle shots of ledge topography work well in the 8-12 meter zone when visibility exceeds 8 meters. Natural light is best 10:00-14:00 on calm days.
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

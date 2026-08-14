@@ -33,7 +33,7 @@ Badgers Rock is a submerged rocky outcrop in the nearshore waters off northern M
 
 ## Marine Life
 
-The rocky substrate supports the classic northern Massachusetts reef community. Tautog are resident on the harder structures. American lobsters inhabit dark crevices throughout the ledge system. Cunner school around encrusted surfaces. Pollock and Atlantic mackerel patrol in midwater above the reef. Sea urchins carpet areas of exposed rock. Encrusting red and pink coralline algae, hydroids, and anemones cover shaded surfaces. Winter flounder rest on adjacent sandy patches.
+No site-specific marine-life reports were found for Badgers Rock. This is a cold-water New England rocky reef/ledge site near Northern Ipswich Bay / Plum Island Sound area, northern Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -62,7 +62,7 @@ At 10 metres, natural light is excellent on clear days. Wide-angle reef portrait
 ## Additional Resources
 
 - **Charter Access**: Newburyport or Cape Ann area dive charters
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

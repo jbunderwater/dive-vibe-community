@@ -3,9 +3,9 @@ name: Three and One-half Fathom Ledge
 lat: 42.3534381
 lng: -70.8453155
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 26
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 816347618
 addedBy: osm_import
@@ -13,55 +13,54 @@ addedBy: osm_import
 
 # Three and One-half Fathom Ledge
 
-A navigationally named rocky ledge south of Boston Harbor — its name records the colonial-era depth sounding of 21 feet over the shallowest point.
+A wall dive outside the Boston Harbor Islands, known to local charter divers as "3 1/2 Fathoms Ledge" — sheer rock faces with crevices and swim-throughs dropping past 25 metres.
 
 ## Overview
 
-Three and One-half Fathom Ledge takes its name directly from the depth of water over its shallowest point: three and one-half fathoms, equivalent to approximately 6.4 metres (21 feet), which is precisely the depth at which a colonial-era navigator would mark this as a serious hazard for larger vessels drawing more than 18 feet. This type of precisely calibrated navigational name appears on 18th and 19th-century Massachusetts Bay charts and reflects the careful surveying of the South Shore's approach waters. The ledge sits in the western South Shore cluster near Harding Ledge and Martin Ledge, at a maximum depth of 18 metres. The site connects modern divers to the centuries of maritime navigation that defined this coastline's history.
+Three and One-half Fathom Ledge (charted locally as "3 1/2 Fathoms Ledge") lies outside the Boston Harbor Islands. According to iDive New England's dive site listing, the site is a wall dive: the bottom starts around 25 feet and drops quickly to depths over 80 feet, with sheer vertical rock faces in many places, plus a number of crevices and swim-throughs. The site is also named among recommended Boston-area dives in a ScubaBoard discussion of Boston Harbor dive sites. This is a reclassification from the previous "reef" designation — the dominant underwater feature here is a wall, not a sloped reef.
 
 ## Site Information
 
-- **Location**: Off Cohasset/Hull, western South Shore of Massachusetts
+- **Location**: Outside the Boston Harbor Islands, Massachusetts Bay
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5–10 meters (variable)
-- **Current**: Moderate tidal current
+- **Maximum Depth**: 26 meters
+- **Typical Visibility**: Variable; no site-specific figure found
+- **Current**: Variable; heavy boat traffic in the area
 - **Water Temperature**: 7–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Rocky ledge community of the South Shore. Tautog are resident on the structure. American lobsters inhabit crevices throughout. Cunner hover around encrusted surfaces. Pollock school above the ledge. Sea urchins carpet exposed rock faces. Winter flounder on adjacent sand. Anemones and bryozoans on shaded surfaces.
+iDive New England's site listing reports black sea raven, sea stars, flounder, anemones, rock gunnels, lobsters, Jonah crabs, cunner, and nudibranchs at this specific site. This is the only site-specific marine-life source found; no independent survey confirms these observations.
 
 ## Dive Profile
 
-Boat access from Hull, Cohasset, or Scituate. Descend to ledge at the named shallowest point (approximately 6–7 metres) and work down to the 18-metre base. The shallowest section at one end, deeper edges at the other, provides a good depth-gradient dive. Combine with Martin Ledge and Harding Ledge. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
+Boat access from Boston-area charter operators. The wall starts in the mid-20-foot range and drops past 80 feet, with crevices and swim-throughs to explore along the face. Because the site sits outside the Harbor Islands in an area with heavy recreational and commercial boat traffic, iDive New England recommends carrying a dive reel — particularly in foggy conditions — to navigate back to the anchor line reliably. Plan bottom time and ascent around the depth of the wall sections visited.
 
 ## Entry and Exit
 
-Boat charter required. Anchor in sand adjacent to ledge. Deploy SMB before ascending.
+Boat charter required. Given the boat traffic in the outer Harbor Islands area, deploy a surface marker buoy well before ascending and maintain close proximity to the anchor/reel line throughout the dive.
 
 ## Tips and Recommendations
 
-- The name records an exact colonial-era depth sounding — a remarkable connection to maritime history
-- The shallow section (3.5 fathoms/6.4m) at the ledge top is worth exploring for abundant light and sea urchins
-- 7mm wetsuit or drysuit required
-- Combine with Martin Ledge and Harding Ledge for a western South Shore ledge day
+- Bring a dive reel — heavy boat traffic and the risk of fog make it easy to lose the anchor line otherwise
+- The wall drops well past recreational no-decompression comfort zones for divers who follow it too far — monitor depth and gas continuously
+- 7mm wetsuit or drysuit recommended for Massachusetts Bay's year-round cold water
 
 ## Safety Considerations
 
-Cold water year-round. Moderate tidal current. Rocky ledge is a boat hazard. Deploy SMB before surfacing.
+Heavy boat traffic outside the Harbor Islands is the primary surface hazard — deploy SMB clearly and stay close to your line. The wall's depth exceeds many divers' comfort range quickly; monitor depth and no-decompression limits closely. Cold water year-round requires adequate thermal protection.
 
 ## Photography
 
-The shallow ledge top receives excellent natural light. Wide-angle reef portraits at the shallow section work well without strobes in good visibility; strobes needed at the deeper sections.
+No site-specific photography reports were found. The wall's crevices and swim-throughs, and the marine life reported by iDive New England (rock gunnels, nudibranchs, Jonah crabs), suggest macro and close-focus subjects are likely productive, but this has not been independently confirmed.
 
 ## Additional Resources
 
-- **Charter Access**: Hull, Cohasset, and Scituate area dive operators
-- **Last Updated**: 2026-06-18
+- **Charter Access**: Boston-area dive charter operators
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites/ma/3-1-2-fathoms-ledge), [Wikidata — Three and One-half Fathom Ledge](https://www.wikidata.org/wiki/Q7797940), [ScubaBoard — Best Dive Sites In/Near Boston Harbor](https://scubaboard.com/community/threads/best-dive-sites-in-near-boston-harbor.80794/). Last updated 2026-08-14.*
