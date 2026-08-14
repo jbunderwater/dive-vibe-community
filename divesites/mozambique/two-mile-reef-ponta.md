@@ -25,6 +25,8 @@ Confirmed marine life at the Bazaruto Two Mile Reef includes reef sharks (blackt
 
 This entry requires resolution: either the coordinates should be corrected to the Bazaruto location, or the name should be changed to reflect what actually exists at Ponta do Ouro at these coordinates.
 
+**2026-08-14 re-check:** A fresh search reconfirms the same conflict — no dive operator or database lists a site named "Two Mile Reef" at Ponta do Ouro. The confirmed Bazaruto Two Mile Reef remains documented with an average depth of 14 m and maximum of 22 m, flat-topped with gullies, hard/soft coral, and marine life including potato bass, kingfish, barracuda, guitarfish, devil/manta/honeycomb rays, blacktip reef sharks, turtles, and seasonal whale sharks. This entry remains unvalidated pending a data correction.
+
 ## Site Information
 
 - **Location**: Coordinates indicate Ponta do Ouro area — but see data warning above
@@ -34,4 +36,4 @@ This entry requires resolution: either the coordinates should be corrected to th
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Mozambique Travel — Bazaruto Diving](https://www.mozambiquetravel.com/blog/bazaruto-diving), [Mozambique.co.za — Bazaruto Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/dive-sites-vilanculos-bazaruto.html), [PADI — Two Mile Reef](https://www.padi.com/dive-site/mozambique/two-mile-reef/). Last updated 2026-06-16.*
+*Sources: [Mozambique Travel — Bazaruto Diving](https://www.mozambiquetravel.com/blog/bazaruto-diving), [Mozambique.co.za — Bazaruto Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/dive-sites-vilanculos-bazaruto.html), [PADI — Two Mile Reef](https://www.padi.com/dive-site/mozambique/two-mile-reef/). Last updated 2026-08-14.*
