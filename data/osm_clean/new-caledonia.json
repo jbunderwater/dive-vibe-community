@@ -8,13 +8,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,newcaledonia.travel",
+    "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,newcaledonia.travel,justgottadive.com,worldadventuredivers.com",
     "tags": {
       "name": "Gorgonia Valley",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14. Depth conflict: McFadyen and worldadventuredivers.com (2 sources) report the wall dropping from 10m to 35m ('Gadji Pass'); JustGottaDive reports a 50m maximum. Retained 35m as the majority-sourced figure and flagged the discrepancy in the markdown. Added leopard shark and pygmy seahorse (JustGottaDive, site-specific) to marine life; removed unconfirmed 'eagle rays' claim from prior QA pass -- no source found tying eagle rays to this specific site."
     }
   },
   {
@@ -32,7 +33,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14. McFadyen (5-30m+) reconfirms depth and cave/tunnel/arch description; no factual changes needed. No new marine life claims added -- markdown correctly withholds specific species per anti-hallucination policy."
     }
   },
   {
@@ -44,14 +46,14 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "newcaledonia.travel,justgottadive.com,newcaledonia.co.nz",
+    "validation_source": "newcaledonia.travel,justgottadive.com,newcaledonia.co.nz,michaelmcfadyenscuba.info",
     "tags": {
       "name": "Devils Grotto",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18",
-      "qa_note": "Water is freshwater per New Caledonia Tourism official site and multiple sources. McFadyen description 'nominally fresh (actually saline)' contradicts official sources and is not supported by other independent accounts."
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14. Freshwater conclusion reconfirmed (NC Tourism, JustGottaDive, newcaledonia.co.nz agree; McFadyen's 'nominally fresh (actually saline)' remains the lone outlier and is not adopted). Added McFadyen-sourced access detail: mini-bus plus ~75m walk from the road to the cave entrance."
     }
   },
   {
@@ -63,14 +65,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "newcaledonia-diving.com,michaelmcfadyenscuba.info,scubadiverlife.com",
+    "validation_source": "newcaledonia-diving.com,michaelmcfadyenscuba.info,scubadiverlife.com,bluecaledoniadiving.fr",
     "tags": {
       "name": "Boulari Pass",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18",
-      "qa_note": "Depth corrected from 21m to 26m (newcaledonia-diving.com max 26m; scubadiverlife.com reports 30m/98ft max). Shark feeding was banned by New Caledonia government in 2012 per newcaledonia-diving.com."
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14. Depth (avg 18m/max 26m per newcaledonia-diving.com) reconfirmed directly from source; scubadiverlife.com still reports a conflicting avg 15m/max 30m -- both figures now noted in markdown rather than picking one. Shark-feeding ban re-confirmed directly from newcaledonia-diving.com ('feeding is no longer authorized in the passage' per 2012 notice). Added Blue Caledonia Diving (local operator) as a corroborating dive-shop source. Best-season claims for mantas conflict across sources (Sep-Dec / Nov-Feb / Mar-Sep) -- markdown now states mantas are resident year-round and flags that peak-season claims vary by source rather than asserting one window."
     }
   },
   {
@@ -82,21 +84,21 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "en.wikipedia.org,newcaledonia-diving.com,michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org,newcaledonia-diving.com,michaelmcfadyenscuba.info,justgottadive.com",
     "tags": {
       "name": "La Dieppoise",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18",
-      "qa_note": "Vessel was HMCS Chaleur (not HMCS Chaleur Bay). McFadyen page uses incorrect name. Confirmed by Wikipedia (HMCS Chaleur MCB 144), Military History Fandom Wiki. Length 46m / 390 tons displacement / scuttled 19 Jan 1988 confirmed across multiple sources."
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14 -- full wreck-history cross-check per deep-QA policy. Vessel: Bay-class minesweeper, Port Arthur Shipbuilding (Ontario); laid down 8 Jun 1951; launched 21 Jun 1952; commissioned RCN 18 Jun 1954; transferred to France 9 Oct 1954 and renamed La Dieppoise; commissioned French Navy 13 Nov 1954; paid off 9 Jul 1987; scuttled 19 Jan 1988 near Amadee Island (postponed from 12 Jan due to Cyclone Anne). Length 46m/152ft, displacement 390 long tons standard (412 deep load) -- confirmed identically across Wikipedia, newcaledonia-diving.com (official wreck page), and McFadyen; no conflicts on name/build/length/tonnage/cause. Zentacle.com lists an inconsistent sinking date (07/08/1996) that contradicts three corroborating sources and the vessel's own 1987 decommission date -- treated as an unreliable outlier and not used. Corrected stale condition claim: McFadyen's 'basically intact' description dates to 1993; current sources (newcaledonia-diving.com, justgottadive.com) report the wooden hull has since deteriorated/disintegrated while the aluminium frame remains intact -- markdown updated to reflect current condition rather than the 1993 account. Removed unsupported claim that the wreck is 'remarkably intact.' Ship's wheel confirmed still in place (wooden handles eaten away by borers, per McFadyen). Deck depths (flybridge 15m, front deck 18m, rear deck 22m, sand 26m) reconfirmed directly from McFadyen. Sea snakes at this specific wreck confirmed by McFadyen (previously present in markdown without site-specific citation)."
     }
   },
   {
     "name": "False Pass",
     "lat": -20.25,
     "lon": 164.02,
-    "depth": 32,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -107,7 +109,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14 -- hallucination correction. Went back to McFadyen's actual False Pass page (page_id=508): it states the site 'drops from the surface to 30 metres' and has 'numerous caves, tunnels, holes and bays' -- it does NOT describe a specific '25-metre tunnel exiting at 32 metres' as the prior QA pass's markdown claimed. That specific figure was not found in any source and has been removed as an unconfirmed/likely-fabricated detail; depth corrected from 32m to the sourced 30m. Marine life corrected: turtles and gorgonians are confirmed for this specific site (McFadyen photo captions); tuna, trevally, and grouper were NOT found attributed to this specific site (the marlin/shark-species statistics on McFadyen's page apply to the broader Poum/Pacific Diving operation, not False Pass specifically) and have been removed. Note: there is also an unrelated, well-documented 'Fausse Passe' dive site near Bourail/Ile Verte, ~250km south of this Poum site -- confirmed via coordinates that this entry is the correct Poum-area site McFadyen dived, not the Bourail site."
     }
   },
   {
@@ -125,8 +128,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18",
-      "qa_note": "Prior QA flagged potential misclassification as cave (may be pinnacle/wall). Insufficient independent sources found to confirm correction. Site_type left as 'cave' pending further research. McFadyen description mentions caves, tunnels, and surrounding reef walls. Depth of 30m not independently confirmed."
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14. Prior QA flagged potential misclassification as cave (may be pinnacle/wall). Still insufficient independent sources to confirm a correction -- site_type left as 'cave.' McFadyen's dedicated Les Pitons page (page_id=509) has no unique site-specific detail beyond confirming caves/tunnels/holes/bays and depth 'to 30 metres'; it also notes 'not many big fish' at this site. Marine life hallucination correction: removed unconfirmed 'butterflyfish, angelfish, and groupers' claim from prior QA pass -- no source ties these specific species to this site, and McFadyen's own account suggests fish life is sparse here. Markdown now states no site-specific marine life was confirmed."
     }
   },
   {
@@ -144,8 +147,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18",
-      "qa_note": "Species count claim '200+ fish species, 80 coral species' removed from markdown. Not confirmed by any authoritative source found during QA."
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14. Species count claim '200+ fish species, 80 coral species' remains removed (still not confirmed by any source). Enriched marine life with site-specific detail from snorkeling-report.com: bicolor angelfish, keyhole angelfish, and two-thorn angelfish frequent the reef; sea anemones with resident clownfish; whitetip reef sharks reported on the deeper outer reef. Generic 'butterflyfish, parrotfish, wrasses' claim from prior QA pass removed as unconfirmed by any source found today."
     }
   }
 ]

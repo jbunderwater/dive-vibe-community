@@ -65,7 +65,7 @@
     "lat": -20.25,
     "lng": 164.02,
     "difficulty": "Intermediate",
-    "maxDepth": 32,
+    "maxDepth": 30,
     "entryType": "boat",
     "siteType": "wall",
     "ref": "",
