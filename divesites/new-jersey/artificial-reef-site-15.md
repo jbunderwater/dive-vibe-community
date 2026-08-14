@@ -55,6 +55,8 @@ Charter boats depart from Ocean City, Somers Point, or Atlantic City-area marina
 - Current flows across flat sandy bottom can be stronger than expected at offshore reef sites
 
 ---
-*Sources: [NJ DEP Artificial Reef Program](https://dep.nj.gov/njfw/fishing/marine/artificial-reef-program/), [NJ Artificial Reef Site Locations](https://www.fffnj.com/fgw/reefloc.html), [NJ DEP Reef Guide](https://dep.nj.gov/njfw/wp-content/uploads/njfw/reef_guide.pdf). Last updated 2026-06-18.*
+*Sources: [NJ DEP Artificial Reef Program](https://dep.nj.gov/njfw/fishing/marine/artificial-reef-program/), [NJ Artificial Reef Site Locations](https://www.fffnj.com/fgw/reefloc.html), [The Fisherman — Hot Spot: NJ Artificial Reef Sites](https://www.thefisherman.com/article/hot-spot-nj-artificial-reef-sites/), [NJ DEP Reef Guide](https://dep.nj.gov/njfw/wp-content/uploads/njfw/reef_guide.pdf). Last updated 2026-08-14.*
 
 *Note: No site-specific source for "Artificial Reef Site 15" was found. Site identity and description are based on the NJ DEP artificial reef program documentation for the Ocean City and Great Egg reef areas nearest to the recorded coordinates. The name "Artificial Reef Site 15" does not correspond to any officially designated NJ DEP reef site; the entry should be reviewed against current NJ DEP reef coordinates to determine the correct site identity.*
+
+*2026-08-14 re-audit: found a third independent source (The Fisherman) confirming NJ's artificial reef program uses 17 named sites only, with no numbered "Site 15" — the same finding as the 2026-06-18 pass, now with 3-domain support. The exact identity of the reef at these specific coordinates remains unresolved: it falls between the Ocean City Reef and Great Egg Reef per fffnj.com's published corner coordinates, matching neither precisely. This entry should still be re-identified against the NJ DEP GIS reef dataset in a future pass.*

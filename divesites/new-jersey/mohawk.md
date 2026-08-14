@@ -65,4 +65,6 @@ Charter boats depart from Manasquan Inlet and nearby Point Pleasant Beach. Opera
 - Strong currents can develop at this offshore site; confirm conditions with the captain before descent
 
 ---
-*Sources: [Wikipedia — SS Mohawk (1925)](https://en.wikipedia.org/wiki/SS_Mohawk_(1925)), [Monmouth Timeline](https://monmouthtimeline.org/timeline/ss-mohawk/), [Divers Alert Network — New Jersey](https://dan.org/alert-diver/article/new-jersey-the-underwater-garden-state/), [njscuba.net Mohawk page](https://njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/mohawk/). Last updated 2026-06-18.*
+*Sources: [Wikipedia — SS Mohawk (1925)](https://en.wikipedia.org/wiki/SS_Mohawk_(1925)), [Monmouth Timeline](https://monmouthtimeline.org/timeline/ss-mohawk/), [Divers Alert Network — New Jersey](https://dan.org/alert-diver/article/new-jersey-the-underwater-garden-state/), [njscuba.net Mohawk page](https://njscuba.net/dive-sites/new-jersey-dive-sites/manasquan-chart/mohawk/). Last updated 2026-08-14.*
+
+*2026-08-14 re-audit: re-pulled Wikipedia and Monmouth Timeline directly. Ship dimensions (387 ft, 54 ft beam, ~5,896-5,897 gross tons), collision details, 45 deaths, and post-sinking demolition/wire-dragging all reconfirmed with no discrepancies found.*
