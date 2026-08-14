@@ -17,7 +17,7 @@ S.S. Ilex is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-The S.S. Ilex is a very shallow shore-accessible wreck resting in just 5 meters of water near St. John's, making it one of Newfoundland's most beginner-friendly wreck dives despite the cold Atlantic conditions. The vessel sits in the intertidal zone and is easily reached from shore, though surging swells can make entry and exit tricky on exposed days. At such a shallow depth the wreck is bathed in natural light, and the encrusting life — sea urchins, mussels, and various cold-water invertebrates — is visible without a torch on clear days.
+The S.S. Ilex is a very shallow shore-accessible wreck resting in just 5 meters of water near St. John's, making it one of Newfoundland's most beginner-friendly wreck dives despite the cold Atlantic conditions. The vessel sits in the intertidal zone and is easily reached from shore, though surging swells can make entry and exit tricky on exposed days. At such a shallow depth the wreck is bathed in natural light. No source documents specific marine life at this wreck; regional cold-water intertidal fauna (encrusting invertebrates, small fish) likely occurs here, but no site-specific reports were found, so no species are named.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The S.S. Ilex is a very shallow shore-accessible wreck resting in just 5 meters 
 
 ## Wreck History
 
-The S.S. Ilex was a 694-ton vessel operated by Wareham and Sons of Spencer's Cove, Newfoundland. On October 27, 1948, she departed St. John's bound for Kingston, Jamaica, with a cargo of salt fish. An approaching storm forced the ship to seek refuge in Fermeuse Harbour. A fire broke out in the engine room, originating from the ignition of fuel in the ship's oil-fired boilers; the chief engineer narrowly survived an initial backdraft explosion. The entire crew escaped by lifeboat before the vessel was fully engulfed in flames. The Ilex was declared a total loss and was left where she burned, on the rocky shores of Kingman's Cove, Fermeuse Harbour. The hulk has not been formally developed as a tourist site.
+The S.S. Ilex was a 694-ton vessel operated by Wareham and Sons of Spencer's Cove, Newfoundland. On October 27, 1948, she departed St. John's bound for Kingston, Jamaica, with a cargo of salt fish. An approaching storm forced the ship to seek refuge in Fermeuse Harbour. A fire broke out in the engine room, originating from the ignition of fuel in the ship's oil-fired boilers; the chief engineer narrowly survived an initial backdraft explosion. The entire crew escaped by lifeboat before the vessel was fully engulfed in flames. She burned for days before it was safe to salvage what cargo remained; local boat owners then towed the burned-out hull to its final resting place on the rocky shores of Kingman's Cove, Fermeuse Harbour, rather than her having been simply abandoned where she burned. The hulk has not been formally developed as a tourist site.
 
 ## Dive Profile
 
@@ -48,4 +48,4 @@ The best viewing point for the above-water portion is from across the harbour on
 Surge over rocky substrate is the primary hazard given the intertidal exposure. Cold Atlantic water requires adequate exposure protection. The rusting hull has sharp edges. The site is remote — the nearest services are in Fermeuse or Trepassey — so divers should be self-sufficient with safety equipment including a surface marker buoy.
 
 ---
-*Sources: [Hidden Newfoundland - SS Ilex Shipwreck](https://www.hiddennewfoundland.ca/ss-ilex-shipwreck), [TripAdvisor - SS Ilex Shipwreck Fermeuse](https://www.tripadvisor.com/Attraction_Review-g1913562-d26365214-Reviews-SS_Ilex_Shipwreck-Fermeuse_Newfoundland_Newfoundland_and_Labrador.html). Last updated 2026-06-18.*
+*Sources: [Hidden Newfoundland - SS Ilex Shipwreck](https://www.hiddennewfoundland.ca/ss-ilex-shipwreck), [TripAdvisor - SS Ilex Shipwreck Fermeuse](https://www.tripadvisor.com/Attraction_Review-g1913562-d26365214-Reviews-SS_Ilex_Shipwreck-Fermeuse_Newfoundland_Newfoundland_and_Labrador.html), [Downhome - The Day the Ilex Burned](https://www.downhomelife.com/article.php?id=1755) (accessed via search index; direct fetch returned 404, so treat with appropriate caution). Re-verified 2026-08-14: corrected the post-fire history (towed to resting place, not left in place) per Downhome; removed unconfirmed marine-life species list. Last updated 2026-08-14.*

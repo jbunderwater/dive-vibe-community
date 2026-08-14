@@ -72,12 +72,12 @@
     "osmId": 12922072822
   },
   {
-    "name": "MSC Baltics III",
-    "filename": "msc-baltics-iii.md",
+    "name": "MSC Baltic III",
+    "filename": "msc-baltic-iii.md",
     "lat": 49.0887117,
     "lng": -58.423953,
     "difficulty": "Advanced",
-    "maxDepth": 25,
+    "maxDepth": null,
     "entryType": "boat",
     "siteType": "wreck",
     "ref": "",
@@ -101,8 +101,8 @@
     "lat": 47.0958229,
     "lng": -56.3694737,
     "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
+    "maxDepth": null,
+    "entryType": "shore",
     "siteType": "wreck",
     "ref": "",
     "osmId": 1317164200
