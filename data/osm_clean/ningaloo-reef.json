@@ -13,8 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "diveningaloo.com.au,scubaboard.com,divezone.net",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "diveningaloo.com.au,scubaboard.com,ningaloowhalesharks.com",
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14: Dive Ningaloo's own site currently states the Navy Pier is closed for extensive maintenance pending Dept. of Defence updates. Species count (200+), pier length (300m) and grouper (~300kg) reconfirmed across sources."
     }
   },
   {
@@ -32,7 +33,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diveningaloo.com.au,ningaloowhalesharks.com,techdivetravels.com",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -50,7 +51,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "exploreparks.dbca.wa.gov.au,snorkelspots.com,thediveglobe.com",
-      "last_qa_date": "2026-06-18"
+      "qa_note": "Re-audited 2026-08-14: thediveglobe.com lists a conflicting 12m max / 8m avg depth for this site; exploreparks.dbca.wa.gov.au and snorkelspots.com (both describing the shallow inshore drift snorkel) support the 6m figure retained here. Flagged as a source conflict rather than silently picking one.",
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -68,7 +70,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "snorkelspots.com,ultimatewatersports.com.au,trailswa.com.au",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -86,7 +88,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "exploreparks.dbca.wa.gov.au,aussiemarineadventures.com.au,diveningaloo.com.au",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -104,7 +106,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "thelifeofpy.com,snorkelspots.com,drinkteatravel.com",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -122,7 +124,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "padi.com,diveningaloo.com.au,scubadiving.com",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -141,7 +143,7 @@
       "validated": "true",
       "validation_source": "liveaboard.com,wikipedia.org,exploreparks.dbca.wa.gov.au",
       "qa_note": "Clerke Reef is part of the Rowley Shoals, located ~260km west of Broome, NOT part of Ningaloo Reef. This site is misplaced in this destination dataset. Rowley Shoals coordinates used (-17.28, 119.35). Recommend moving to a rowley-shoals destination.",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -159,7 +161,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diveadvisor.com,aussiemarineadventures.com.au,whalesharktours.com.au",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14: aussiemarineadventures.com.au and whalesharktours.com.au describe the general Westside outer-reef area but do not mention Mandu Wall by name; diveadvisor.com's Mandu Wall page could not be loaded to confirm content. No source was found confirming the specific species list or 25m depth for this site specifically. validation_source domains retained (3 distinct domains on file) but content should be treated as area-inferred, not site-confirmed -- flagged in return summary as unresolved for site-specific facts."
     }
   },
   {
@@ -177,7 +180,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diveningaloo.com.au,moniqueliveslife.com,exmouthresort.net.au",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   },
   {
@@ -194,8 +197,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "sailningaloo.com.au,divingwawrecks.com,shipwreckswa.com",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "sailningaloo.com.au,divingwawrecks.com,museum.wa.gov.au",
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Re-audited 2026-08-14 against WA Museum maritime archaeology report (Stanbury/Green et al., 'Point Cloates Project 1978-2009'). Corrected: whaling company took over in 1922 (not 1920); Zvir (wrecked 1902) and SS Perth (wrecked 1887) both predate the 1915-built whaling station and were not 'associated with the station's operating years' as previously written. Fin's exact tonnage/hull material not reliably documented in primary sources -- left unspecified rather than guessed. Norwegian Bay Barge length/distance-from-jetty figures in prior markdown were not supported by the museum survey (which gives only 'a few hundred metres north of the jetty', no length) -- removed unsupported specifics."
     }
   },
   {
@@ -213,7 +217,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "exploreparks.dbca.wa.gov.au,snorkelspots.com,australiascoralcoast.com",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-14"
     }
   }
 ]

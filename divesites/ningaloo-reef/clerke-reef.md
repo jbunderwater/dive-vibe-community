@@ -35,4 +35,4 @@ Documented marine life across Rowley Shoals includes over 700 fish species and 2
 - **Access**: Liveaboard from Broome; limited permit system applies
 
 ---
-*Sources: [Wikipedia — Rowley Shoals](https://en.wikipedia.org/wiki/Rowley_Shoals), [LiveAboard.com — Clerke Reef](https://www.liveaboard.com/diving/australia/clerke-reef), [Explore Parks WA — Clerke Reef Marine Park](https://exploreparks.dbca.wa.gov.au/site/clerke-reef-marine-park). Last updated 2026-06-18.*
+*Sources: [Wikipedia — Rowley Shoals](https://en.wikipedia.org/wiki/Rowley_Shoals), [LiveAboard.com — Clerke Reef](https://www.liveaboard.com/diving/australia/clerke-reef), [Explore Parks WA — Clerke Reef Marine Park](https://exploreparks.dbca.wa.gov.au/site/clerke-reef-marine-park). Last updated 2026-08-14.*

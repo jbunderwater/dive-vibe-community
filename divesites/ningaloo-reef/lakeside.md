@@ -33,4 +33,4 @@ Access involves a 10–15 minute walk along the beach from the Milyering Visitor
 - **Access**: 10–15 minute beach walk to sanctuary markers; no 4WD required
 
 ---
-*Sources: [The Life of Py — Lakeside Sanctuary](https://www.thelifeofpy.com/lakeside-sanctuary), [Snorkel Spots — Lakeside Sanctuary Zone](https://snorkelspots.com/lakeside-sanctuary-zone-snorkel/), [Drink Tea Travel — Ningaloo Guide](https://drinkteatravel.com/guide-to-visiting-ningaloo-reef-swim-snorkel-dive-and-more/). Last updated 2026-06-18.*
+*Sources: [The Life of Py — Lakeside Sanctuary](https://www.thelifeofpy.com/lakeside-sanctuary), [Snorkel Spots — Lakeside Sanctuary Zone](https://snorkelspots.com/lakeside-sanctuary-zone-snorkel/), [Drink Tea Travel — Ningaloo Guide](https://drinkteatravel.com/guide-to-visiting-ningaloo-reef-swim-snorkel-dive-and-more/). Last updated 2026-08-14.*

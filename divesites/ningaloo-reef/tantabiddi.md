@@ -33,4 +33,4 @@ The sanctuary zone itself is a no-take area within Cape Range National Park, sup
 - **Seasonal Highlights**: Whale shark tours (March–July); manta rays (year-round, peak mid-year)
 
 ---
-*Sources: [Explore Parks WA — Tantabiddi Boat Ramp](https://exploreparks.dbca.wa.gov.au/site/tantabiddi-boat-ramp), [Aussie Marine Adventures — Westside Outer Reef](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-4-westside-outer-reef-exmouth-ningaloo-reef/), [Dive Ningaloo — Westside](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-westside/). Last updated 2026-06-18.*
+*Sources: [Explore Parks WA — Tantabiddi Boat Ramp](https://exploreparks.dbca.wa.gov.au/site/tantabiddi-boat-ramp), [Aussie Marine Adventures — Westside Outer Reef](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-4-westside-outer-reef-exmouth-ningaloo-reef/), [Dive Ningaloo — Westside](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-westside/). Last updated 2026-08-14.*

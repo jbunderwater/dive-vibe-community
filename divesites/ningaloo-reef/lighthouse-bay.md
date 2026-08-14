@@ -32,4 +32,4 @@ All three sub-sites within the bay are accessible on a single boat trip. Dive Ni
 - **Sub-sites**: Blizzard Ridge, The Labyrinth, Gullivers
 
 ---
-*Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Ningaloo Whale Sharks — Exmouth Diving](https://www.ningaloowhalesharks.com/exmouth-diving/), [Tech Dive Travels — Ningaloo Sites](https://techdivetravels.com/top-destinations/dive-sites-australia-new-zealand/dive-sites-in-ningaloo-reef/). Last updated 2026-06-18.*
+*Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Ningaloo Whale Sharks — Exmouth Diving](https://www.ningaloowhalesharks.com/exmouth-diving/), [Tech Dive Travels — Ningaloo Sites](https://techdivetravels.com/top-destinations/dive-sites-australia-new-zealand/dive-sites-in-ningaloo-reef/). Last updated 2026-08-14.*
