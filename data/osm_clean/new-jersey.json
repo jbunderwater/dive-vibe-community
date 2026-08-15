@@ -18,8 +18,8 @@
       "source": "osm_extended",
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "Crew of 56 aboard final patrol clarified (standard complement 48); Richie Kohler co-attribution added; sinking cause framing corrected — official U.S./Gentile attribution is USS Howard D. Crow and USS Koiner, circle-runner theory is minority view; coordinate discrepancy noted (Chatterton report vs Wikipedia)"
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: All facts re-verified against live Wikipedia + independent search of uboat.net/u869.com. Crew of 56 aboard final patrol re-confirmed independently (uboat.net). Build specs (keel 5 Apr 1943, commissioned 26 Jan 1944, length 76.76m, displacement 1,144t) all match current Wikipedia. Official sinking attribution (USS Howard D. Crow / USS Koiner, 11 Feb 1945) confirmed; added detail that USCG rejected the circle-runner theory citing two separate damage holes consistent with depth-charge explosions rather than a single torpedo detonation. No factual corrections needed; no hallucinations found."
     }
   },
   {
@@ -33,7 +33,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/Tices_shoal,whyy.org,barnegatcharterfishing.com",
+    "validation_source": "en.wikipedia.org/wiki/Tices_shoal,whyy.org,barnegatcharterfishing.com,thehulltruth.com",
     "tags": {
       "name": "Tices Shoal",
       "natural": "reef",
@@ -41,9 +41,9 @@
       "wikipedia": "en:Tices shoal",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Shallow Barnegat Bay shoal used mainly for snorkeling and boating; max depth ~3m",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "Location in Lacey Township confirmed by Wikipedia (with citation-needed flag). Site is primarily a snorkeling/boating destination, not a traditional dive site. Clinging jellyfish warning verified via WHYY."
+      "note": "Shallow Barnegat Bay shoal used mainly for snorkeling and boating; depth reports vary from 2-4 ft in the anchorage flats to ~3m in the note's original figure",
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: Location in Lacey Township re-confirmed by Wikipedia (article still carries a citation-needed flag and a notability maintenance tag). Wikipedia does NOT state a specific depth. Independent boating-forum sources (The Hull Truth) describe the anchorage flats as typically 2-4 ft deep, considerably shallower than the existing 3m/10ft figure — flagged as a depth discrepancy in the markdown rather than silently corrected, since no source confirms an exact number. Clinging jellyfish warning re-confirmed via WHYY."
     }
   },
   {
@@ -59,8 +59,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "Largest vessel in NJ artificial reef program confirmed (njscuba.net, Wikipedia). Battle stars 2 WWII + 5 Korean confirmed. Commissioned July 21, 1944 confirmed. Sunk Nov 18, 1991 confirmed. Displacement 13,910 long tons confirmed."
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: Re-verified against live Wikipedia. Note: commissioned date is 21 July 1944 (markdown/JSON both say this consistently — Wikipedia fetch during this audit rendered it as \"21 July 1944 at Willamette Shipyard\", matching). Battle stars 2 WWII + 5 Korean re-confirmed. Sunk Nov 18, 1991 at Shark River Reef re-confirmed. Displacement 13,910 long tons full load re-confirmed. Added detail not previously in markdown: vessel was decommissioned/recommissioned twice before final 1970 decommissioning (2 Jan 1958 decomm, 17 Nov 1961 recomm, 23 Jul 1970 final decomm). No corrections needed."
     }
   },
   {
@@ -76,8 +76,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "Ship dimensions, collision date, crew deaths (19/44), SS Shalom details all verified. GRT minor discrepancy: 12,723 (dive sources) vs 12,732 (NJCDC) — both within rounding. Cunner removed from marine life (no site-specific source). Stern section 145-foot claim unverified in this QA pass — appears in dive sources but could not be independently confirmed."
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: Re-verified against live Wikipedia (SS Shalom). Crew deaths 19 of 44 re-confirmed. Added newly-verified detail: 5 additional Stolt Dagali crew were rescued by the Shalom and 4 more by USCGC Point Arden. Location framing reconciled: Wikipedia describes the Shalom as '50 miles outbound from New York' at collision time; njscuba.net and The Fisherman independently describe the wreck site as ~18 miles off Point Pleasant — these are compatible (different reference points: distance from NY Harbor departure vs. distance from the nearest NJ inlet), not a contradiction. GRT minor discrepancy (12,723 vs 12,732) still unresolved / within rounding, left as previously hedged. Stern section 145-foot claim remains unverified independently."
     }
   },
   {
@@ -89,12 +89,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/SS_Mohawk_(1925),monmouthtimeline.org,dan.org,njscuba.net",
+    "validation_source": "en.wikipedia.org/wiki/SS_Mohawk_(1925),monmouthtimeline.org,dan.org,njscuba.net,usdeadlyevents.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "Ship dimensions, collision details, death toll (45), builder (Newport News Shipbuilding), route confirmed. Dynamite demolition and wire-dragging confirmed. Clyde Steamship Company attribution confirmed."
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: A live Wikipedia re-fetch during this audit was misread by the fetch summarizer as '47 dead' — cross-checked independently against Monmouth Timeline and usdeadlyevents.com, both of which confirm the death toll is 45, consistent with the existing entry. No change made; documenting this catch as an example of why re-audits verify against multiple independent sources rather than a single re-fetch. Ship dimensions, builder (Newport News Shipbuilding), collision cause (steering gear failure), and dynamite demolition/wire-dragging all re-confirmed."
     }
   },
   {
@@ -110,8 +110,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "U-404 attribution confirmed by Wikipedia and uboat.net. March 13, 1942 confirmed. Julio Faust Rivera (sole survivor) confirmed. USS Larch rescue confirmed. Chilean neutral status confirmed. Ship built Aalborg Værft A/S, Denmark 1938 confirmed. Dimensions 90.9m x 13.3m, 1858 GRT confirmed."
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: Re-verified against live Wikipedia. U-404 attribution, 13 March 1942 date, Julio Faust Rivera as sole survivor, USS Larch rescue, Chilean neutral status, builder (Aalborg Vaerft A/S, Denmark), and dimensions (90.9m x 13.3m, 1,858 GRT) all re-confirmed unchanged. Crew count discrepancy (27 per Wikipedia/uboat.net summary vs earlier-noted 28-crew manifest claim) remains hedged as before — not resolved either way."
     }
   },
   {
@@ -127,8 +127,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "CRITICAL: Previous coordinates (lat=40.44, lon=-73.5667) were WRONG — placed the wreck inland near Bay Shore, NY. Corrected to lat=40.55, lon=-73.008 per Wikipedia (40°33'N 73°00'W) and Shipwreck World GPS (40°33'0.36\"N 73°0'28.39\"W). Wreck is in New York waters off Fire Island, not NJ waters. njscuba.net lists it under New York Dive Sites. Ship dimensions, sinking date, mine attribution, NRHP listing date all confirmed. Sand tiger sharks confirmed by PADI site listing."
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: Re-verified against live Wikipedia (USS California (ACR-6)). Coordinates, dimensions (503ft 11in x 69ft 6in, 13,680 long tons standard), commissioned/renamed dates, 19 July 1918 sinking date, six crew lost, 110ft wreck depth / 66ft highest point, and NRHP listing (17 Feb 1998) all re-confirmed unchanged. 2018 Navy investigation (Alexis Catsambis, mine via U-156) re-confirmed as the current authoritative cause finding. No corrections needed."
     }
   },
   {
@@ -144,8 +144,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "CORRECTION: 'Only one body recovered' was wrong — TWO bodies were recovered (confirmed by Wikipedia, NBC News, Washington Post). All other details verified: 28 deaths confirmed, distress call 18:45 = 6:45pm confirmed, radar contact lost 19:20 = 7:20pm confirmed, collapse January 15 1961 confirmed, 'Old Shaky' nickname confirmed (Cape News, multiple sources). Four barges in U-formation confirmed by NJ dive sources. Hurricane Donna September 1960 confirmed. Senate investigation confirmed."
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: Re-verified against live Wikipedia (Texas Tower 4). 28 deaths and 2 bodies recovered re-confirmed. Distress call 18:45 ('We're breaking up') and radar contact lost ~19:20 re-confirmed. Collapse date 15 January 1961 re-confirmed. Hurricane Donna (Sept 1960) damage and Senate investigation (Stennis-chaired, human error finding) re-confirmed. Minor unresolved nuance: current Wikipedia phrasing describes 'two or three structural supports' dislodged during 1957 transport vs. existing markdown's 'two support legs' — within normal source variance, not changed."
     }
   },
   {
@@ -161,8 +161,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "Site name 'Artificial Reef Site 15' does not correspond to any official NJ DEP designation. Only 2 source domains found — cannot reach 3-source threshold. Site description is based on regional NJ DEP documentation for the Ocean City / Great Egg area. UNRESOLVED: actual site identity requires verification against current NJ DEP reef coordinate tables."
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: Re-searched for a matching official site. NJ's 15 named reef sites (confirmed via njscuba.net and NJ DEP) are: Sea Girt, Sandy Hook, Shark River, Axel Carlson, Barnegat Light, Garden State South, Garden State North, Little Egg, Atlantic City, Great Egg, Ocean City, Townsends Inlet, Deepwater, Wildwood, and Cape May Reef — none is officially numbered '15'. The recorded coordinates (39.1917, -74.3583) still fall nearest to the Great Egg/Ocean City reef cluster but do not match any single site's published corner coordinates closely enough to identify it with confidence. STILL UNRESOLVED and still only 2 source domains (dep.nj.gov, fffnj.com) — per QA policy, validated left as-is (do not pad with weak sources), flagged as unresolved in this pass's summary."
     }
   },
   {
@@ -178,8 +178,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "Verified: first reef deployment 1996, 2.1 miles off Point Pleasant Beach, dredge rock from NY Harbor, Veronica M (ex-Captain Bill) confirmed as 110-foot former McAllister tug sunk Nov 10, 2004, Carrabassett confirmed as 90-foot steel dragger. Cunner removed from marine life (no site-specific source). Atlantic spadefish claim retained as plausible for NJ reefs but not site-specifically confirmed."
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: Attempted to re-fetch njscuba.net's Axel Carlson Reef page directly — the site returned HTTP 500 errors on all attempts during this audit (site may be temporarily down or blocking automated fetches). No conflicting information found via search-snippet cross-checks of the previously-verified facts (1996 first deployment, 2.1 miles off Point Pleasant, Veronica M and Carrabassett vessels). Prior QA findings left unchanged since no new contradicting source was found; njscuba.net access should be retried in a future pass to fully re-verify firsthand."
     }
   },
   {
@@ -191,12 +191,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "njscuba.net,njmonthly.com,newjerseyshipwreckseries.com,atlanticdivers.com,tugboatinformation.com",
+    "validation_source": "njscuba.net,njmonthly.com,newjerseyshipwreckseries.com,atlanticdivers.com,tugboatinformation.com,vesselhistory.marad.dot.gov,shipbuildinghistory.com",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-18",
-      "qa_notes": "MEASUREMENT NOTE: USCG-registered length is 185.5 ft (Tugboatinformation.com citing USCG doc #0245575); V4-M-A1 class LOA is 195 ft (Wikipedia). All dive sources cite 185 ft matching USCG registered length. 1,117 GRT is vessel-specific gross registered tonnage (USCG); class displacement tonnage is 1,613 long tons. Bronze Star claim circulates in dive sources only — no primary military record found. D-Day Normandy service confirmed."
+      "last_qa_date": "2026-08-15",
+      "qa_notes": "RE-AUDIT 2026-08-15: MEASUREMENT NOTE (re-confirmed): USCG-registered length 185.5 ft vs V4-M-A1 class LOA 195 ft, still hedged as before. NEW FINDING: build year conflict identified — General Ship of East Boston shipbuilding history and tugboatinformation.com both say built 1943; MARAD vessel history database lists 1944. Flagged as a sources-disagree case in the markdown rather than picking one. Beam confirmed as 37/37.5 ft (V-4 class spec) — added to markdown, previously not stated. Bronze Star claim remains unconfirmed by any primary military record. D-Day Normandy towing service re-confirmed via njscuba.net search snippets."
     }
   }
 ]
