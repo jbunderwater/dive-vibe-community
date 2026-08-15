@@ -10,7 +10,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, ikelite.com/blogs/features/canadian-splash-destination-newfoundland, uboat.net/allies/merchants/ship/2356.html, communitystories.ca, heritage.nf.ca, wikipedia.org/wiki/Battle_of_Bell_Island",
+    "validation_source": "scubadiverlife.com/bell-island-wrecks, ikelite.com/blogs/features/canadian-splash-destination-newfoundland, uboat.net/allies/merchants/ship/2356.html, communitystories.ca, heritage.nf.ca, wikipedia.org/wiki/Battle_of_Bell_Island, oceanquestadventures.com/newfoundland-shipwrecks, wrecksandreefs.com/rose.htm",
     "tags": {
       "access": "yes",
       "depth": "35m",
@@ -23,7 +23,7 @@
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -37,7 +37,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, ikelite.com/blogs/features/canadian-splash-destination-newfoundland, wrecksandreefs.com/plm27.htm, communitystories.ca, heritage.nf.ca, wikipedia.org/wiki/Battle_of_Bell_Island",
+    "validation_source": "scubadiverlife.com/bell-island-wrecks, ikelite.com/blogs/features/canadian-splash-destination-newfoundland, wrecksandreefs.com/plm27.htm, communitystories.ca, heritage.nf.ca, wikipedia.org/wiki/Battle_of_Bell_Island, uboat.net/allies/merchants/ship/2349.html",
     "tags": {
       "access": "yes",
       "depth": "25m",
@@ -50,7 +50,8 @@
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-06-18"
+      "note": "Sources conflict on nationality/owner and casualty count: Wikipedia, Community Stories, and Scuba Diver Life describe her as a Free French vessel with 12 crew killed; uboat.net's merchant-ship database records her as British-registered (owner Gibbs & Co, Cardiff) with 7 of 49 crew killed. Both versions are presented in the markdown rather than resolved.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -64,7 +65,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "scubadiverlife.com/bell-island-wrecks, ikelite.com/blogs/features/canadian-splash-destination-newfoundland, wrecksandreefs.com/saganaga.htm, communitystories.ca, heritage.nf.ca, wikipedia.org/wiki/Battle_of_Bell_Island",
+    "validation_source": "scubadiverlife.com/bell-island-wrecks, ikelite.com/blogs/features/canadian-splash-destination-newfoundland, wrecksandreefs.com/saganaga.htm, communitystories.ca, heritage.nf.ca, wikipedia.org/wiki/Battle_of_Bell_Island, uboat.net/allies/merchants/ship/2121.html",
     "tags": {
       "access": "yes",
       "depth": "30m",
@@ -77,7 +78,7 @@
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -104,7 +105,7 @@
       "wreck:date_sunk": "1942",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -117,15 +118,16 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "openstreetmap.org, spm-tourisme.fr/club-nautique-saint-pierrais",
+    "validated": "false",
+    "validation_source": "openstreetmap.org, spm-tourisme.fr/club-nautique-saint-pierrais, pm.geoview.info/troot_pool",
     "tags": {
       "historic": "wreck",
       "name": "Troot Pool",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-18"
+      "note": "Re-audited 2026-08-15: no site-specific dive source (shop, forum, or wreck database) could be found beyond the OSM node itself and a generic geo-data mirror (pm.geoview.info) that appears to be OSM-derived rather than independent. Below the 3-independent-source bar required for validated status; downgraded from validated=true. Ship identity, sinking history, and even whether this is a genuine named-vessel wreck (vs. a place name) remain unconfirmed.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -139,14 +141,15 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "hiddennewfoundland.ca/ss-ilex-shipwreck, tripadvisor.com/Attraction_Review-g1913562-d26365214",
+    "validation_source": "hiddennewfoundland.ca/ss-ilex-shipwreck, tripadvisor.com/Attraction_Review-g1913562-d26365214, downhomelife.com/article.php?id=1755",
     "tags": {
       "historic": "wreck",
       "name": "S.S. Ilex",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-18"
+      "note": "Sources disagree on the cargo: hiddennewfoundland.ca states salt fish; downhomelife.com states a part load of salt. No source confirms any specific marine life at this site; regional-fauna language only.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -160,7 +163,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "cbc.ca/news/canada/newfoundland-labrador/baltic-iii-removal-contract, gcaptain.com/grounded-msc-baltic-iiis-hull-further-compromised, maritime-executive.com/article/salvage-efforts-prepare-grounded-msc-baltic-iii",
+    "validation_source": "cbc.ca/news/canada/newfoundland-labrador/baltic-iii-removal-contract, gcaptain.com/msc-baltic-iii-wreck-being-pulled-ashore-in-newfoundland, maritime-executive.com/article/photos-dismantling-of-msc-baltic-iii-wreck-has-begun, worldcargonews.com/news/2026/06/work-begins-on-dismantling-msc-baltic-iii-wreck",
     "tags": {
       "access": "yes",
       "fixme": "Add area once imagery gets updated. Should be here per images, released by Canadian Coast Guard and Copernicus sat imagery.",
@@ -173,8 +176,8 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "note": "Grounded Feb 2025, active 2-nautical-mile exclusion zone, not currently diveable as of June 2026",
-      "last_qa_date": "2026-06-18"
+      "note": "Re-audited 2026-08-15: active dismantling/salvage is underway (pulling operations toward shore began July 31, 2026; 471 of 472 cargo containers removed; superstructure being cut apart and staged for recycling). This is now an active industrial salvage site, not a diveable wreck, and is unlikely to become one -- final remediation may extend into 2027. Recommend maintainers reconsider whether this entry belongs in the active dive-site dataset at all.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -188,7 +191,7 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/SS_Kyle, sskyle.org/history, hrgrace.ca/tourism-heritage/attractions/ss-kyle",
+    "validation_source": "en.wikipedia.org/wiki/SS_Kyle, sskyle.org/history, hrgrace.ca/tourism-heritage/attractions/ss-kyle, thescubanews.com/2022/03/17/maritime-history-ss-kyle-in-newfoundland",
     "tags": {
       "building": "ship",
       "historic": "wreck",
@@ -202,7 +205,7 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -213,17 +216,18 @@
     "osm_type": "way",
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "openstreetmap.org, spm-tourisme.fr/club-nautique-saint-pierrais",
+    "validated": "false",
+    "validation_source": "la1ere.franceinfo.fr/saintpierremiquelon/miquelon-langlade/echoue-volontairement-a-l-entree-du-village-de-miquelon",
     "tags": {
       "historic": "wreck",
       "name": "Le Muscadin",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-18"
+      "note": "MAJOR CORRECTION 2026-08-15: previous entry (25m depth, 'sank', boat-only entry, invented nudibranch/soft-coral marine life) was fabricated and does not match research findings. Le Muscadin is a 1967-built wooden fishing boat (ex-Prudence Ann) that was deliberately run aground ON LAND at the entrance to Miquelon village (road to Langlade) in 2011 as a planned museum piece; it has sat there deteriorating ever since and is not underwater. Only one independent source (la1ere.franceinfo.fr) was found confirming this -- below the 3-source bar -- so validated is set to false rather than re-marked true. Flagged for maintainer review: this does not appear to be an actual scuba dive site and may not belong in this dataset.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -237,7 +241,7 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "vos.noaa.gov/MWL/fall_03/transpacific.shtml, thehoworths.com/2015/08/wreck-of-the-transpacific, evendo.com/locations/saint-pierre-and-miquelon/ile-aux-marins/attraction/transpacific-shipwreck",
+    "validation_source": "vos.noaa.gov/MWL/fall_03/transpacific.shtml, thehoworths.com/2015/08/wreck-of-the-transpacific, evendo.com/locations/saint-pierre-and-miquelon/ile-aux-marins/attraction/transpacific-shipwreck, en.wikipedia.org/wiki/Transpacific_(ships), commons.wikimedia.org/wiki/Category:Transpacific_(ship,_1954)",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -249,7 +253,7 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15"
     }
   }
 ]
