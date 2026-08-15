@@ -33,7 +33,7 @@ Cedar Island Ledge lies in the New Hampshire seacoast waters at approximately 42
 
 ## Marine Life
 
-Northern Gulf of Maine cold-water species. American lobsters are abundant in the crevices — the Isles of Shoals area is productive lobster grounds. Tautog resident on rocky structure. Pollock school in midwater above the ledge. Atlantic mackerel pass through in schools. Cunner hover around encrusted surfaces. Sea urchins carpet exposed rock faces. Harbor seals may be encountered, particularly near the Isles of Shoals where a colony is established. Nudibranchs and hydroids on shaded rock surfaces.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Cedar Island Ledge was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat charter required. Portsmouth Scuba and other NH seacoast operators provide 
 
 ## Tips and Recommendations
 
-- The Isles of Shoals area is the heart of New Hampshire diving — consider combining with Isles of Shoals sites on the same charter
-- Harbor seal encounters are possible near the Shoals colony — approach slowly
-- The northern Gulf of Maine water is colder than Cape Ann — drysuit or 7mm wetsuit required
-- Visibility can be exceptional on calm, clear summer days — the Gulf of Maine water tends toward clarity
-- Check NOAA weather for the Gulf of Maine before departure; conditions can deteriorate rapidly
+- No site-specific reports of marine life or productive spots at Cedar Island Ledge were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,12 +56,12 @@ The outer NH seacoast is exposed to Gulf of Maine swells and conditions. Visibil
 
 ## Photography
 
-Excellent natural light at 15 metres in the clear Gulf of Maine water on calm days. American lobster portraits and sea urchin colonies on ledge faces are classic subjects. Harbor seal encounters (if they occur) offer wide-angle opportunities.
+No site-specific photography reports were found for Cedar Island Ledge. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Portsmouth Scuba and Rye NH area boat operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

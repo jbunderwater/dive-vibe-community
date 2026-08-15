@@ -33,7 +33,7 @@ Inner Breakers is a submerged rocky shoal in the outer Salem Sound area, east of
 
 ## Marine Life
 
-Salem Sound cold-water community. Tautog resident on rocky structures. American lobsters in ledge crevices. Pollock school in midwater. Cunner around encrusted surfaces. Sea urchins on open rock faces. Winter flounder on adjacent sandy areas. Northern sea ravens rest on ledge bases. Hydroids, anemones, and bryozoans on shaded rock.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Inner Breakers was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat charter required. The breaking-sea character of the site in any swell makes
 
 ## Tips and Recommendations
 
-- Only dive in calm, flat conditions — any northeast swell creates hazardous surge at the shallow shoal sections
-- Combine with Abbot Rock and Middle Ground for a Salem Sound multi-site day
-- Bring a dive light for crevice investigation
-- 7mm wetsuit or drysuit required
-- Salem Sound visibility peaks in midsummer when plankton levels drop
+- No site-specific reports of marine life or productive spots at Inner Breakers were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,12 +56,12 @@ The "breakers" name is a genuine warning — swell on this site creates serious 
 
 ## Photography
 
-Rocky reef subjects at 14 metres with strobe lighting. Tautog portraits and encrusting invertebrate close-up work.
+No site-specific photography reports were found for Inner Breakers. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Marblehead and Beverly area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

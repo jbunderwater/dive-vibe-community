@@ -33,7 +33,7 @@ Minots Ledge is inseparable from the history of the Minot's Ledge Lighthouse, wh
 
 ## Marine Life
 
-The outer ledge's exposed position in clean, open Massachusetts Bay water supports productive reef life. Tautog are resident on the ledge structure. American lobsters inhabit deep crevices throughout the rock system. Pollock school in midwater above the ledge and can appear in impressive numbers at this exposed outer position. Cunner cluster around encrusted surfaces. Sea urchins carpet open rock faces. Striped bass cruise through in late summer. Northern sea ravens rest on ledge bases. Anemones, hydroids, and encrusting bryozoans colonize all shaded surfaces.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Minots Ledge was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat charter required. The lighthouse tower provides a superb surface navigation
 
 ## Tips and Recommendations
 
-- Research the history of Minot's Ledge Lighthouse before the dive — the story of the 1851 wreck and the subsequent granite tower construction is remarkable
-- The lighthouse (1860) is visible from the surface and adds historical atmosphere to every dive at this site
-- Exposed outer position means current can be stronger than inner South Shore ledges — plan conservatively
-- Pair with the adjacent South Shore ledge cluster for a productive full day
-- 7mm wetsuit or drysuit required; outer Massachusetts Bay water is cold
+- No site-specific reports of marine life or productive spots at Minots Ledge were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,13 +56,13 @@ The outer Cohasset/Scituate position is more exposed than the inner South Shore 
 
 ## Photography
 
-The Minot's Ledge Lighthouse tower (completed 1860) visible through the surface in very shallow sections provides unique historical context. Wide-angle ledge portraits; pollock schooling in the clear Massachusetts Bay water above the ledge; tautog and lobster on ledge faces are the primary subjects.
+No site-specific photography reports were found for Minots Ledge. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Historical Reference**: Minot's Ledge Lighthouse — U.S. Lighthouse Society; Edward Rowe Snow, *The Lighthouses of New England*
 - **Charter Access**: Scituate and Cohasset area dive charter operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wikipedia — Minot's Ledge Lighthouse](https://en.wikipedia.org/wiki/Minot%27s_Ledge_Lighthouse), [US Lighthouse Society — Minot's Ledge](https://uslhs.org). Lighthouse history confirmed; no site-specific dive documentation found for Minots Ledge as a named scuba site. Last updated 2026-06-18.*
+*Sources: [Wikipedia — Minot's Ledge Lighthouse](https://en.wikipedia.org/wiki/Minot%27s_Ledge_Lighthouse), [US Lighthouse Society — Minot's Ledge](https://uslhs.org). Lighthouse history confirmed; no site-specific dive documentation found for Minots Ledge as a named scuba site. Last updated 2026-08-15.*

@@ -17,7 +17,7 @@ The remains of an 1875-built Grand Banks fishing schooner wrecked in December 19
 
 ## Overview
 
-The Ada K. Damon was an 84-foot, two-masted Grand Banks fishing schooner built in 1875 by Ebenezer Burnham in Essex, Massachusetts. She was converted to a sand-hauling vessel in 1909 for what would be her only run in that role. On December 26, 1909, during a severe northeast gale (known as the "Great Christmas Snowstorm"), her anchor chain parted and she was driven ashore at Steep Hill Beach on Crane Beach, Ipswich. All five crew members survived. The vessel was declared a total loss and salvage attempts failed. The wreck became buried by shifting barrier beach sands and remained largely hidden for decades.
+The Ada K. Damon was an 84-foot, two-masted Grand Banks fishing schooner built in 1875 in Essex, Massachusetts (sources vary slightly on the builder's name — Ebenezer Burnham vs. H. A. Burnham — but agree on the Essex, MA boatbuilding origin). She was converted to a sand-hauling vessel in 1909 for what would be her only run in that role. On December 26, 1909, during a severe northeast gale (known as the "Great Christmas Snowstorm"), her anchor chain parted and she was driven ashore at Steep Hill Beach on Crane Beach, Ipswich. All five crew members survived. The vessel was declared a total loss and salvage attempts failed. The wreck became buried by shifting barrier beach sands and remained largely hidden for decades.
 
 **Important access note**: This site is NOT a dive site or snorkel site. The Trustees of Reservations, who manage Crane Beach, explicitly prohibit snorkeling and mask use on the beach. The wreck is an archaeological site accessible only on foot at low tide, and the removal of any artifact requires a Massachusetts BUAR permit.
 
@@ -63,7 +63,7 @@ The exposed hull timbers, partially silted and encrusted, make excellent documen
 
 - **Management**: [Trustees of Reservations — Crane Beach](https://www.thetrustees.org/place/crane-beach/) (see 2025 FAQs for current access rules)
 - **Historical Reference**: [Historic Ipswich — Ada K. Damon](https://historicipswich.net/2021/02/28/shipwreck_ada-k-damon/); [Wikipedia — Ada K. Damon](https://en.wikipedia.org/wiki/Ada_K._Damon)
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wikipedia — Ada K. Damon](https://en.wikipedia.org/wiki/Ada_K._Damon), [The Trustees of Reservations](https://thetrustees.org/content/shifting-sands-and-shipwrecks/), [Historic Ipswich](https://historicipswich.net/2021/02/28/shipwreck_ada-k-damon/). Last updated 2026-06-18.*
+*Sources: [Wikipedia — Ada K. Damon](https://en.wikipedia.org/wiki/Ada_K._Damon), [The Trustees of Reservations](https://thetrustees.org/content/shifting-sands-and-shipwrecks/), [Historic Ipswich](https://historicipswich.net/2021/02/28/shipwreck_ada-k-damon/). Last updated 2026-08-15.*

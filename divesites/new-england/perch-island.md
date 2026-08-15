@@ -33,7 +33,7 @@ Perch Island is a small island feature in the Watch Hill/Stonington area at the 
 
 ## Marine Life
 
-Fisher's Island Sound cold-water reef community. Tautog are the primary reef fish species. Striped bass hunt the area in warmer months. Bluefish pass through seasonally. American lobsters inhabit deeper crevices. Sea bass present in summer. Cunner hover around encrusted surfaces. Sea urchins on exposed rock. Encrusting sponges and anemones on shaded rock faces.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Perch Island was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. Anchor in sand adjacent to reef. The island provides a su
 
 ## Tips and Recommendations
 
-- Combine with Watch Hill Reef, Catumb Rocks, and Cormorant Reef for a productive southwestern Rhode Island multi-site day
-- The island's presence means less open-water exposure than some nearby sites — can be more sheltered in certain wind directions
-- 7mm wetsuit or drysuit recommended throughout the season
-- Plan around slack tide
+- No site-specific reports of marine life or productive spots at Perch Island were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Fisher's Island Sound tidal currents. Cold water below thermocline. Deploy SMB b
 
 ## Photography
 
-Tautog subjects and rocky reef encrusting organisms at 15 metres. Strobes needed for color accuracy.
+No site-specific photography reports were found for Perch Island. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Westerly RI; Stonington and Noank CT area operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

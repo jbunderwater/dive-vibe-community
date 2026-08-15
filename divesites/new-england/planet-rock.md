@@ -33,7 +33,7 @@ Planet Rock lies at the western end of the Watch Hill/Fisher's Island Sound reef
 
 ## Marine Life
 
-Western Fisher's Island Sound cold-water reef species. Tautog are the dominant reef fish — well established in this rocky habitat. Striped bass hunt the area in season. Bluefish appear above the reef in summer. American lobsters in deeper crevices. Sea bass in warmer months. Cunner hover around encrusted surfaces. Sea urchins on open rock faces. Encrusting sponges and anemones on shaded surfaces.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Planet Rock was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. Stonington CT operators are closest to this site. Anchor 
 
 ## Tips and Recommendations
 
-- Western position in the Fisher's Island Sound cluster — Stonington CT is the most convenient base
-- Combine with Cormorant Reef and Latimer Reef for a Fisher's Island Sound multi-site day
-- Tautog are the primary target; approach ledge faces slowly and quietly
-- 7mm wetsuit or drysuit recommended throughout the season
+- No site-specific reports of marine life or productive spots at Planet Rock were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Tidal currents from both Fisher's Island Sound and Long Island Sound influence t
 
 ## Photography
 
-Tautog on kelp-draped rock are the signature subjects. Strobes needed at 15 metres for color accuracy.
+No site-specific photography reports were found for Planet Rock. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Stonington and Noank CT; Westerly RI area operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

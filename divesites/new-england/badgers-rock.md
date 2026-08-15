@@ -33,7 +33,7 @@ Badgers Rock is a submerged rocky outcrop in the nearshore waters off northern M
 
 ## Marine Life
 
-The rocky substrate supports the classic northern Massachusetts reef community. Tautog are resident on the harder structures. American lobsters inhabit dark crevices throughout the ledge system. Cunner school around encrusted surfaces. Pollock and Atlantic mackerel patrol in midwater above the reef. Sea urchins carpet areas of exposed rock. Encrusting red and pink coralline algae, hydroids, and anemones cover shaded surfaces. Winter flounder rest on adjacent sandy patches.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Badgers Rock was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat charter required. The shoal-studded northern Massachusetts nearshore requir
 
 ## Tips and Recommendations
 
-- The shallow depth (10m max) allows generous bottom time — explore slowly and thoroughly
-- Bring a dive light for crevice investigation; lobsters shelter in the darkest recesses
-- Water temperature on this exposed coast drops to near freezing in winter — 7mm wetsuit or drysuit essential
-- Tidal current is the main challenge — plan around slack water
-- Combine with other northern Massachusetts reef sites for a productive multi-site day
+- No site-specific reports of marine life or productive spots at Badgers Rock were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,12 +56,12 @@ Cold water throughout the year requires adequate thermal protection. Moderate ti
 
 ## Photography
 
-At 10 metres, natural light is excellent on clear days. Wide-angle reef portraits with abundant natural light are achievable in peak visibility. Macro subjects on encrusted rock surfaces — nudibranchs, anemone polyps, and bryozoan colonies — reward close-focus work.
+No site-specific photography reports were found for Badgers Rock. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Newburyport or Cape Ann area dive charters
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

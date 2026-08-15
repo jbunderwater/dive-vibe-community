@@ -17,7 +17,7 @@ The last whaling bark to depart New Bedford, lost in a 1924 gale and grounded on
 
 ## Overview
 
-The *Wanderer* was a 116-foot wooden whaling bark built in 1878 at Mattapoisett, Massachusetts — one of the last vessels of her type and the final whaleship to leave New Bedford on a whaling voyage. She starred in the 1922 silent film *Down to the Sea in Ships* before departing on her final voyage in August 1924. Caught in a powerful gale with 60 mile-per-hour winds and 15-foot seas, her anchor chain parted and she was dragged seven miles across Buzzards Bay, striking the Middle Ground shoal on the west side of Cuttyhunk Island on August 26, 1924. Due to her 16-foot draft she grounded several hundred yards from shore and was a total loss; a second storm on September 30 completely broke up the hull.
+The *Wanderer* was a 116-foot wooden whaling bark built in 1878 at Mattapoisett, Massachusetts — one of the last vessels of her type and the final whaleship to leave New Bedford on a whaling voyage. She starred in the 1922 silent film *Down to the Sea in Ships* before departing on her final voyage in August 1924. Caught in a powerful gale with 60 mile-per-hour winds and 15-foot seas, her anchor chain parted and she was dragged seven miles across Buzzards Bay, striking the Middle Ground shoal on the west side of Cuttyhunk Island. Sources give slightly different dates for the grounding: the Vineyard Gazette's contemporary report is dated August 26, 1924, while modern retrospectives (WBUR and The Public's Radio, 2024) cite August 27, 1924 — both are noted here rather than picking one. Due to her 16-foot draft she grounded several hundred yards from shore and was a total loss; a second storm on September 30 completely broke up the hull.
 
 Today the site is an easy, very shallow dive of around 6 metres (20 feet) maximum depth. The wooden hull is completely broken up; what remains are scattered small artifacts, iron fasteners, and hull fragments wedged between the rocks on the shoal. There is no standing structure. The site's significance is entirely historical — as the grave of the last great American whaleship.
 
@@ -64,7 +64,7 @@ The scattered iron fasteners and hull fragments partially buried in the shoal se
 
 - **Historical Reference**: [The Vineyard Gazette, August 26, 1924](https://vineyardgazette.com/news/1924/08/26/bark-wanderer-lost) — "Bark Wanderer Lost"; [WBUR, August 2024](https://www.wbur.org/news/2024/08/29/new-bedford-last-whaler-wanderer) centennial coverage
 - **Wreck Data**: [Wreckhunter.net — Wanderer](https://wreckhunter.net/DataPages/wanderer-dat.htm)
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wreckhunter.net](https://wreckhunter.net/DataPages/wanderer-dat.htm), [The Vineyard Gazette](https://vineyardgazette.com/news/1924/08/26/bark-wanderer-lost), [WBUR News](https://www.wbur.org/news/2024/08/29/new-bedford-last-whaler-wanderer). Last updated 2026-06-18.*
+*Sources: [Wreckhunter.net](https://wreckhunter.net/DataPages/wanderer-dat.htm), [The Vineyard Gazette](https://vineyardgazette.com/news/1924/08/26/bark-wanderer-lost), [WBUR News](https://www.wbur.org/news/2024/08/29/new-bedford-last-whaler-wanderer), [The Public's Radio](https://thepublicsradio.org/south-coast-bureau/remembering-the-wreck-of-new-bedfords-last-great-whaleship/). Last updated 2026-08-15.*

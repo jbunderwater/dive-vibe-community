@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Mikes Ledge
 
-An informally named rocky ledge in the South Shore cluster off Scituate, Massachusetts — a local favorite for lobster and cold-water reef diving.
+An informally named rocky ledge in the South Shore cluster off Scituate, Massachusetts.
 
 ## Overview
 
-Mikes Ledge is an informally named rocky ledge in the South Shore ledge system off Scituate and Cohasset, Massachusetts. Unlike the formally chartered ledge names in this area (Davis, Enos, Tobias), the "Mikes" designation suggests this ledge was named by local divers or fishermen — a common practice that fills in the gaps between official chart features with local knowledge. The ledge sits at coordinates placing it among the southernmost members of the ledge cluster, near the Davis-Enos-Tobias group. At 18 metres maximum depth, it offers the same cold-water reef diving as the surrounding named ledges, with reliable lobster populations and the characteristic South Shore fish community.
+Mikes Ledge is an informally named rocky ledge in the South Shore ledge system off Scituate and Cohasset, Massachusetts. Unlike the formally chartered ledge names in this area (Davis, Enos, Tobias), the "Mikes" designation suggests this ledge was named by local divers or fishermen — a common practice that fills in the gaps between official chart features with local knowledge. The ledge sits at coordinates placing it among the southernmost members of the ledge cluster, near the Davis-Enos-Tobias group. At 18 metres maximum depth, it offers the same cold-water reef diving as the surrounding named ledges, though no site-specific marine-life reports were found.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Mikes Ledge is an informally named rocky ledge in the South Shore ledge system o
 
 ## Marine Life
 
-Tautog patrol the ledge edges. American lobsters inhabit crevices throughout the structure. Cunner cluster around encrusted rock surfaces. Pollock and Atlantic mackerel school in midwater above the ledge. Sea urchins carpet exposed rock faces. Winter flounder rest on adjacent sandy areas. Anemones and bryozoans encrust shaded surfaces.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Mikes Ledge was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. Local Scituate-area operators know this ledge well. Ancho
 
 ## Tips and Recommendations
 
-- The local nickname suggests this ledge is well-known to South Shore regulars — ask your captain about the current conditions
-- Combine with the Enos-Davis-Tobias cluster for a productive South Shore ledge day
-- Lobster is the key draw; work the ledge base carefully
-- 7mm wetsuit or drysuit required
+- No site-specific reports of marine life or productive spots at Mikes Ledge were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Cold water year-round. Moderate tidal current at peak flow. Rocky bottom. Deploy
 
 ## Photography
 
-Strobes needed at 18 metres. Ledge face and crevice subjects. Tautog portraits on ledge rock.
+No site-specific photography reports were found for Mikes Ledge. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Scituate Dive Charter; South Shore area operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

@@ -33,7 +33,7 @@ Half Tide Rock is a rocky feature that, as its name precisely describes, is subm
 
 ## Marine Life
 
-The rocky substrate supports the typical northern Ipswich Bay cold-water species. Tautog hold territory on the rock faces. American lobsters inhabit the crevices and undercut sections of the rock base. Cunner cluster around encrusted surfaces. Sea urchins are present throughout the rock structure. Pollock and Atlantic mackerel school above the site in summer. Winter flounder rest on the sand adjacent to the rock. Hydroids, anemones, and encrusting bryozoans cover shaded surfaces below 5 metres.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Half Tide Rock was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. The site's tidal nature requires careful timing — consu
 
 ## Tips and Recommendations
 
-- Best dived on the flood or high slack — avoids the strong ebb current and ensures the rock is fully submerged
-- The tidal variation changes the character of the dive significantly; plan your timing deliberately
-- Bring a dive light for investigating undercut rock sections where lobsters shelter
-- Drysuit or 7mm wetsuit required throughout the season
+- No site-specific reports of marine life or productive spots at Half Tide Rock were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Cold water year-round. Tidal current can be moderate to strong near peak flow. T
 
 ## Photography
 
-The strong natural light at 10 metres is an asset. Near high tide, the rock top is within natural color range without strobes. Rocky reef portraits with encrusting life in natural light are achievable in good visibility.
+No site-specific photography reports were found for Half Tide Rock. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: North Shore and Cape Ann area dive charters
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

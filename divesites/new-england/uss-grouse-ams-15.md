@@ -33,7 +33,7 @@ USS Grouse (AMS-15), formerly YMS-321, was a 136-foot wooden auxiliary motor min
 
 ## Marine Life
 
-No site-specific marine life reports have been confirmed for the USS Grouse wreck itself. The surrounding Little Salvages area supports typical Cape Ann cold-water species, and the nearby Dry Salvages rock colony is known to host harbor and gray seals that range through the area. The Massachusetts BUAR site listing documents the wreck's location and condition but does not include marine life survey data. Regional Cape Ann species (tautog, lobster, cunner, pollock) would be expected on the rocky substrate, but cannot be specifically attributed to this site without confirmed sources.
+No site-specific marine life reports have been confirmed for the USS Grouse wreck itself. The nearby Dry Salvages rock formation is independently documented (ecdivers.com, idivenewengland.com, scubadiving.com) as a year-round harbor and gray seal haul-out, and seals from that colony are known to range through the broader Little Salvages/Dry Salvages area — but that is a fact about the adjacent landmark, not a confirmed observation at the Grouse wreck itself. The Massachusetts BUAR site listing documents the wreck's location and condition but does not include marine life survey data. The regional cold-water Cape Ann fauna likely applies to the rocky substrate here, but no species have been confirmed observed at this specific wreck, so none are listed.
 
 ## Dive Profile
 
@@ -62,7 +62,7 @@ The scattered metal debris provides close-focus subjects with strobe lighting �
 
 - **Management**: Massachusetts BUAR (Exempted Site)
 - **Historical Reference**: MWDC (Massachusetts Wreck Divers Club)
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wikipedia — USS Grouse (AMS-15)](https://en.wikipedia.org/wiki/USS_Grouse_(AMS-15)), [MWDC — USS Grouse](https://www.mwdc.org/Shipwrecks/ussgrouse.html), [Mass.gov BUAR — USS Grouse](https://www.mass.gov/info-details/uss-grouse). Last updated 2026-06-18.*
+*Sources: [Wikipedia — USS Grouse (AMS-15)](https://en.wikipedia.org/wiki/USS_Grouse_(AMS-15)), [MWDC — USS Grouse](https://www.mwdc.org/Shipwrecks/ussgrouse.html), [Mass.gov BUAR — USS Grouse](https://www.mass.gov/info-details/uss-grouse). Last updated 2026-08-15.*

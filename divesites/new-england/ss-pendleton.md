@@ -17,7 +17,7 @@ The stern section of a WWII T2 tanker that broke apart in a famous 1952 nor'east
 
 ## Overview
 
-The SS Pendleton was a 504-foot Type T2-SE-A1 oil tanker (10,448 GRT, built 1942 in Portland, Oregon) carrying a cargo of heating oil when it split in two during a violent nor'easter on February 18, 1952, approximately six miles off the coast of Chatham, Cape Cod. Sources report the cargo volume as between 115,000 and 122,000 barrels depending on the source. The dramatic rescue that followed — in which four Coast Guardsmen in a 36-foot motor lifeboat rescued 32 survivors from the stern section — became one of the most celebrated rescues in US Coast Guard history and was the basis for the 2016 film *The Finest Hours*. The stern section grounded off Monomoy Island near Pollock Rip Shoal and now rests in approximately 11 metres of water. The site is managed by the Massachusetts Board of Underwater Archaeological Resources as an Exempted Site. Strong tidal currents, cold water, and limited visibility make this a challenging dive despite the shallow depth. Drift dives on slack tide are the standard approach.
+The SS Pendleton was a 504-foot Type T2-SE-A1 oil tanker (10,448 GRT, built 1944 by the Kaiser Company at the Swan Island Yard in Portland, Oregon — corrected from an earlier draft that misstated the build year as 1942; both Wikipedia and Mass.gov agree on 1944) carrying a cargo of heating oil when it split in two during a violent nor'easter on February 18, 1952, approximately six miles off the coast of Chatham, Cape Cod. Sources report the cargo volume as between 115,000 and 122,000 barrels depending on the source. The dramatic rescue that followed — in which four Coast Guardsmen in a 36-foot motor lifeboat rescued 32 survivors from the stern section — became one of the most celebrated rescues in US Coast Guard history and was the basis for the 2016 film *The Finest Hours*. The stern section grounded off Monomoy Island near Pollock Rip Shoal and now rests in approximately 11 metres of water. The site is managed by the Massachusetts Board of Underwater Archaeological Resources as an Exempted Site. Strong tidal currents, cold water, and limited visibility make this a challenging dive despite the shallow depth. Drift dives on slack tide are the standard approach.
 
 ## Site Information
 
@@ -63,7 +63,7 @@ The low visibility (2–5 m) limits wide-angle work, but close-focus images of h
 
 - **Management**: Massachusetts BUAR (Exempted Site — no permit required for recreational diving)
 - **Charter Access**: Cape Dive Locker (Hyannis), Northern Atlantic Dive Expeditions
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wikipedia — SS Pendleton](https://en.wikipedia.org/wiki/SS_Pendleton), [Mass.gov BUAR — Pendleton](https://www.mass.gov/info-details/pendleton), [New England Historical Society — Pendleton Rescue](https://newenglandhistoricalsociety.com/heroic-rescue-pendleton-crew-1952/). Last updated 2026-06-18.*
+*Sources: [Wikipedia — SS Pendleton](https://en.wikipedia.org/wiki/SS_Pendleton), [Mass.gov BUAR — Pendleton](https://www.mass.gov/info-details/pendleton), [New England Historical Society — Pendleton Rescue](https://newenglandhistoricalsociety.com/heroic-rescue-pendleton-crew-1952/). Last updated 2026-08-15.*

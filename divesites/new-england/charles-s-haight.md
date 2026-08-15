@@ -17,7 +17,7 @@ A WWII Liberty Ship wrecked in 1946 on the Flat Ground inside the Dry Salvages o
 
 ## Overview
 
-The Charles S. Haight was a Liberty Ship built in 1944 in Brunswick, Georgia, by the J.A. Jones Construction Company. Standard Liberty ships measured 441.5 feet in length with a beam of 56 feet 10.75 inches and approximately 7,176 gross tons. She was one of over 2,700 Liberty Ships constructed during World War II. On the night of April 2, 1946, the Haight was returning in ballast from Newport, England, to New York. With poor visibility, rough seas, and no radar, she was driven inshore by southeasterly winds and grounded on the Flat Ground inside the Dry Salvages — 1.5 miles east of Rockport. Despite salvage attempts, the Haight was reduced by winter storms until only vestiges of the hull remain. Today the most recognizable feature is the large triple-expansion steam engine, visible at low tide and diveable at high tide. The scattered steel beams and plates at the site are marked by Red Nun "2." The site is managed by Massachusetts BUAR as an Exempted Site.
+The Charles S. Haight was a Liberty Ship built in 1944 in Brunswick, Georgia, by the J.A. Jones Construction Company, laid down August 15, 1944 and completed October 3, 1944. Sources give slightly different dimensions: Wikipedia records her at 441 feet 6 inches in length with a beam of 57 feet and 7,176 gross tons, while the Rockport Harbormaster's history gives 422.8 feet and 7,198 gross tons — both figures are cited here pending further reconciliation, since standard Liberty ships were built to the 441.5-foot design. She was one of over 2,700 Liberty Ships constructed during World War II. Overnight on April 1–2, 1946 (harbormaster records log the grounding at 12:07 AM on April 2), the Haight was returning in ballast from Newport, England, to New York. With poor visibility, rough seas, and no radar, she was driven inshore by southeasterly winds and grounded on the Flat Ground inside the Dry Salvages — 1.5 miles east of Rockport, not near Graves Ledge as an earlier internal note incorrectly stated. Despite salvage attempts, the Haight was reduced by winter storms until only vestiges of the hull remain. Today the most recognizable feature is the large triple-expansion steam engine, visible at low tide and diveable at high tide. The scattered steel beams and plates at the site are marked by Red Nun "2." The site is managed by Massachusetts BUAR as an Exempted Site.
 
 ## Site Information
 
@@ -63,7 +63,7 @@ The engine block is the primary photographic subject — wide-angle with a diver
 - **Management**: Massachusetts BUAR (Exempted Site)
 - **Coordinates**: Latitude 42° 40' 38" N; Longitude 70° 35' 03" W
 - **Navigation Marker**: Red Nun "2" near the wreck site
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Mass.gov BUAR — Charles S. Haight](https://www.mass.gov/info-details/charles-s-haight), [Wikipedia — SS Charles S. Haight](https://en.wikipedia.org/wiki/SS_Charles_S._Haight), [Harbormasters.org — Rockport Liberty Ship](http://www.harbormasters.org/rockport/libertyship/haight.shtml). Last updated 2026-06-18.*
+*Sources: [Mass.gov BUAR — Charles S. Haight](https://www.mass.gov/info-details/charles-s-haight), [Wikipedia — SS Charles S. Haight](https://en.wikipedia.org/wiki/SS_Charles_S._Haight), [Harbormasters.org — Rockport Liberty Ship](http://www.harbormasters.org/rockport/libertyship/haight.shtml). Last updated 2026-08-15.*

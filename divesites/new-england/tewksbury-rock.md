@@ -33,7 +33,7 @@ Tewksbury Rock is a named rocky feature in the waters off Hull and Cohasset on M
 
 ## Marine Life
 
-Rocky ledge community of the western Massachusetts Bay. Tautog resident on rock faces. American lobsters inhabit crevices. Cunner hover around encrusted surfaces. Pollock school in midwater. Sea urchins on exposed rock. Winter flounder on adjacent sand. Anemones and bryozoans on shaded surfaces.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Tewksbury Rock was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. Anchor in sand adjacent to rock. Deploy SMB before ascend
 
 ## Tips and Recommendations
 
-- The shallower 15m maximum depth allows more generous bottom time than nearby 18m ledges
-- Combine with Martin Ledge and Harding Ledge for an efficient western South Shore dive day
-- 7mm wetsuit or drysuit required
-- Plan around slack tide
+- No site-specific reports of marine life or productive spots at Tewksbury Rock were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Cold water year-round. Moderate tidal current. Rocky bottom. Deploy SMB before s
 
 ## Photography
 
-At 15 metres, natural light penetrates better than at 18m. Wide-angle reef portraits can work in good visibility; strobes improve color accuracy.
+No site-specific photography reports were found for Tewksbury Rock. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Hull and Cohasset area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

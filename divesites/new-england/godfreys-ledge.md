@@ -33,7 +33,7 @@ Godfrey's Ledge is a submerged rocky ledge in the New Hampshire seacoast waters,
 
 ## Marine Life
 
-Northern Gulf of Maine cold-water reef community. American lobsters are the most sought-after species — the Isles of Shoals area is prolific lobster habitat. Tautog resident on the ledge structure. Pollock school in midwater above the ledge. Atlantic mackerel pass through in summer. Cunner hover over kelp-draped rock. Sea urchins colonize open rock faces — NH waters have particularly dense urchin populations. Northern sea ravens rest on the ledge base. Nudibranchs and encrusting hydroids on shaded surfaces. Harbor seals occasionally visit from the Shoals colony.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Godfrey's Ledge was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat charter required. Portsmouth Scuba is the primary operator for NH seacoast 
 
 ## Tips and Recommendations
 
-- Combine with Isles of Shoals diving for a full northern New England dive day
-- The NH seacoast's cold, clear water makes for excellent visibility on calm summer days
-- Drysuit or 7mm wetsuit with hood is mandatory — Gulf of Maine water north of Cape Ann is colder than the south shore
-- Lobsters are exceptionally well-established in the Shoals area — inspect all deep crevices
-- Urchin density on the NH ledges creates an important component of the visual landscape
+- No site-specific reports of marine life or productive spots at Godfrey's Ledge were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,12 +56,12 @@ The outer NH seacoast is exposed to Gulf of Maine swells and offshore conditions
 
 ## Photography
 
-The combination of kelp canopy, rocky ledge, and abundant sea urchins creates a distinct northern New England reef aesthetic. Wide-angle shots of kelp meadows with lobsters emerging from crevices are achievable with patience. Natural light at 15 metres is good on clear summer days.
+No site-specific photography reports were found for Godfrey's Ledge. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Portsmouth Scuba, Rye, NH; Isles of Shoals area operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wreckhunter.net — New Hampshire Wrecks](https://wreckhunter.net/mawrecks.htm), [NOAA Coast Pilot — Gulf of Maine](https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp1/CPB1.pdf). No site-specific dive documentation found. Description based on regional diving characteristics. Last updated 2026-06-18.*
+*Sources: [Wreckhunter.net — New Hampshire Wrecks](https://wreckhunter.net/mawrecks.htm), [NOAA Coast Pilot — Gulf of Maine](https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp1/CPB1.pdf). No site-specific dive documentation found. Description based on regional diving characteristics. Last updated 2026-08-15.*

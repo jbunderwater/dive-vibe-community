@@ -33,7 +33,7 @@ Bass Rock is a tidal rocky outcrop located off Crane Beach near Ipswich, Massach
 
 ## Marine Life
 
-No site-specific marine life has been confirmed from independent sources. The regional Gulf of Maine cold-water rocky reef fauna applies to this area (Ipswich Bay), but no species have been confirmed specifically at Bass Rock by any dive report or survey. No site-specific dive documentation exists for this location.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Bass Rock was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,9 +45,10 @@ Boat charter required from Cape Ann or North Shore operators. Local knowledge of
 
 ## Tips and Recommendations
 
-- Plan dives around slack tide — the Essex River tidal flow creates directional currents here
-- 7mm wetsuit or drysuit recommended year-round in the Gulf of Maine
-- This site has no confirmed dive documentation — verify current conditions with a local Cape Ann operator before planning a trip
+- No site-specific reports of marine life or productive spots at Bass Rock were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -55,12 +56,12 @@ Tidal current from the Essex River can be strong and directional near the river 
 
 ## Photography
 
-Rocky ledge topography provides subjects typical of Gulf of Maine reef diving. No site-specific photographic documentation has been found for Bass Rock.
+No site-specific photography reports were found for Bass Rock. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Cape Ann Divers (Gloucester); North Shore dive charters
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

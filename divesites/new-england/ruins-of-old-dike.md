@@ -33,7 +33,7 @@ The Ruins of Old Dike is a dive site built around the collapsed remains of a his
 
 ## Marine Life
 
-The submerged dike structure has become colonized by the same cold-water community found on natural ledge in the area. Encrusting sponges, hydroids, and anemones cover the stone and rubble surfaces. Tautog patrol the structure perimeter. Lobsters inhabit the dark spaces within the collapsed structure. Cunner hover above the encrusted surfaces. Sea urchins are present on harder substrate sections. Winter flounder and sand dabs rest on adjacent sandy areas.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Ruins of Old Dike was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. Anchor in sand away from the structure. Deploy SMB before
 
 ## Tips and Recommendations
 
-- The linear structure of a dike (unlike a point-feature rock) can be used as a navigation line underwater
-- Combine with Ruins of Old Breakwater and the natural reef sites for a varied northern Massachusetts reef day
-- Historical research into local dike construction records may provide interesting context
-- 7mm wetsuit or drysuit required
+- No site-specific reports of marine life or productive spots at Ruins of Old Dike were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Cold water year-round. Moderate tidal current. Irregular collapsed structure req
 
 ## Photography
 
-The contrast between constructed human geometry (the linear dike line) and the natural overgrowth of marine organisms makes an interesting photographic narrative. Wide-angle shots along the dike line with encrusting life convey both history and ecology.
+No site-specific photography reports were found for Ruins of Old Dike. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

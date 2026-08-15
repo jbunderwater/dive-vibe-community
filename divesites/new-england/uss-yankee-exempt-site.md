@@ -37,7 +37,7 @@ The wreck was subsequently dynamited as a navigation hazard (by September 1920) 
 
 ## Marine Life
 
-No site-specific marine life has been confirmed for the USS Yankee wreck in any source found. The wreck is heavily salvaged, dynamited, and described as "flattened on a muddy bottom" (ScubaBoard reports), conditions that typically support encrusting organisms and mobile species but are poorly documented here. Regional cold-water Buzzards Bay species (tautog, lobster, cunner) would be expected on any remaining hard substrate, but cannot be specifically attributed to this site without confirmed reports.
+No site-specific marine life has been confirmed for the USS Yankee wreck in any source found. The wreck is heavily salvaged, dynamited, and described as "flattened on a muddy bottom" (ScubaBoard reports). The regional cold-water Buzzards Bay fauna of the wider area likely applies to any remaining hard substrate, but no species have been confirmed observed at this specific site, so none are listed here.
 
 ## Dive Profile
 
@@ -67,7 +67,7 @@ Low visibility limits photographic range but the large iron hull sections and pl
 
 - **Management**: Massachusetts BUAR (Exempted Site)
 - **Historical Reference**: New Bedford Standard-Times archive; Naval History and Heritage Command
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wikipedia — USS Yankee (1892)](https://en.wikipedia.org/wiki/USS_Yankee_(1892)), [Mass.gov BUAR — USS Yankee](https://www.mass.gov/info-details/uss-yankee), [NavSource — USS Yankee](https://www.navsource.org/archives/04/yankee/yankee.htm). Last updated 2026-06-18.*
+*Sources: [Wikipedia — USS Yankee (1892)](https://en.wikipedia.org/wiki/USS_Yankee_(1892)), [Mass.gov BUAR — USS Yankee](https://www.mass.gov/info-details/uss-yankee), [NavSource — USS Yankee](https://www.navsource.org/archives/04/yankee/yankee.htm). Last updated 2026-08-15.*

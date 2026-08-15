@@ -17,7 +17,7 @@ A rocky ledge in the South Shore ledge cluster off Scituate and Cohasset, Massac
 
 ## Overview
 
-Enos Ledge is part of the South Shore ledge cluster — a group of named submerged rocky ledges south of Boston Harbor in the waters off Scituate and Cohasset, Massachusetts. Along with Davis, Tobias, Mikes, Harding, Martin, Utonia, and Three-and-One-Half-Fathom Ledges, Enos forms part of a network of navigational hazards that appear on NOAA nautical charts for the approach south of the President Roads channel. For recreational divers based on the South Shore, these ledges represent productive reef diving at depths of 12–18 metres, with reliable lobster populations and the characteristic cold-water fish community of Massachusetts Bay. Scituate and Hull-area dive charters visit these ledges regularly.
+Enos Ledge is part of the South Shore ledge cluster — a group of named submerged rocky ledges south of Boston Harbor in the waters off Scituate and Cohasset, Massachusetts. Along with Davis, Tobias, Mikes, Harding, Martin, Utonia, and Three-and-One-Half-Fathom Ledges, Enos forms part of a network of navigational hazards that appear on NOAA nautical charts for the approach south of the President Roads channel. For recreational divers based on the South Shore, these ledges represent reef diving at depths of 12–18 metres. Scituate and Hull-area dive charters visit these ledges regularly, though no site-specific marine-life reports were found for Enos Ledge itself.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Enos Ledge is part of the South Shore ledge cluster — a group of named submerg
 
 ## Marine Life
 
-Typical Massachusetts Bay rocky ledge fauna. Tautog are resident on the ledge structure. American lobsters inhabit crevices throughout the system. Cunner hover above encrusted surfaces. Pollock school in midwater. Sea urchins colonize exposed rock. Winter flounder rest on adjacent sandy areas. Anemones, hydroids, and bryozoans cover shaded rock faces.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Enos Ledge was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
-Boat access from South Shore charter operators. Descend to ledge at 12–18 metres. Navigate ledge perimeter, working crevice faces for lobsters. The ledge cluster allows multi-site diving on a single charter. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
+Boat access from South Shore charter operators. Descend to ledge at 12–18 metres. Navigate ledge perimeter, exploring crevice faces. The ledge cluster allows multi-site diving on a single charter. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -45,10 +45,10 @@ Boat charter required. Anchor in sand adjacent to ledge. Deploy SMB before ascen
 
 ## Tips and Recommendations
 
-- Pair with Davis and Tobias Ledges for a productive three-site South Shore day
-- Lobsters concentrate at the sand-rock interface at ledge base
-- 7mm wetsuit or drysuit required
-- Plan dives around slack tide for best conditions
+- No site-specific reports of marine life or productive spots at Enos Ledge were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Cold water year-round. Moderate tidal current near peak flow. Rocky ledge hazard
 
 ## Photography
 
-At 18 metres, strobes are needed for accurate color. Ledge face portraits and lobster crevice shots are primary subjects.
+No site-specific photography reports were found for Enos Ledge. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Scituate and South Shore dive charter operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

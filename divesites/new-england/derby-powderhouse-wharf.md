@@ -33,7 +33,7 @@ Derby Powderhouse Wharf takes its name from the Derby family, specifically Elias
 
 ## Marine Life
 
-Salem Sound cold-water species. The wharf remains provide dense artificial habitat. Tautog hold territory on the stone and timber structure. American lobsters inhabit the crevices between submerged stone blocks and timber piles. Cunner hover in loose groups around the encrusted surfaces. Pollock school above the site. Sea urchins colonize harder surfaces. Winter flounder rest on adjacent muddy-sandy bottom. Encrusting sponges, anemones, and bryozoans cover the wharf structure throughout.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Derby Powderhouse Wharf was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat charter required from Marblehead or Beverly Harbor. Salem Sound boat traffi
 
 ## Tips and Recommendations
 
-- Research the Derby family and Salem's maritime golden age before diving — the historical context transforms the experience
-- The wharf remains present as constructed human geometry rather than natural reef — notice the difference in texture and form
-- Combine with Abbot Rock and Middle Ground for a Salem Sound multi-site day
-- 7mm wetsuit or drysuit required
-- Marblehead area divers know this site well — local operators can provide current condition information
+- No site-specific reports of marine life or productive spots at Derby Powderhouse Wharf were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,13 +56,13 @@ Salem Sound moderate tidal current. Boat traffic from Salem Harbor approach. Col
 
 ## Photography
 
-The contrast between angular constructed stone and the organic overgrowth of 200+ years of marine colonization creates compelling macro imagery. Wide shots capturing the linear wharf structure against the sandy bottom convey the historical scale. Lobster portraits in wharf stone crevices are accessible subjects.
+No site-specific photography reports were found for Derby Powderhouse Wharf. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Historical Reference**: Elias Hasket Derby and Salem maritime history — Peabody Essex Museum archives
 - **Charter Access**: Marblehead and Beverly area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wikipedia — Derby Wharf](https://en.wikipedia.org/wiki/Derby_Wharf), [NPS Salem Maritime NHS](https://www.nps.gov/sama/index.htm). Note: "Derby Powderhouse Wharf" as listed cannot be verified in NRHP records or NPS documentation; the closest verified feature is Derby Wharf (established 1762, NRHP-listed). No dive documentation found. Last updated 2026-06-18.*
+*Sources: [Wikipedia — Derby Wharf](https://en.wikipedia.org/wiki/Derby_Wharf), [NPS Salem Maritime NHS](https://www.nps.gov/sama/index.htm). Note: "Derby Powderhouse Wharf" as listed cannot be verified in NRHP records or NPS documentation; the closest verified feature is Derby Wharf (established 1762, NRHP-listed). No dive documentation found. Last updated 2026-08-15.*

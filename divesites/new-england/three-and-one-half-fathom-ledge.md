@@ -33,7 +33,7 @@ Three and One-half Fathom Ledge takes its name directly from the depth of water 
 
 ## Marine Life
 
-Rocky ledge community of the South Shore. Tautog are resident on the structure. American lobsters inhabit crevices throughout. Cunner hover around encrusted surfaces. Pollock school above the ledge. Sea urchins carpet exposed rock faces. Winter flounder on adjacent sand. Anemones and bryozoans on shaded surfaces.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Three and One-half Fathom Ledge was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. Anchor in sand adjacent to ledge. Deploy SMB before ascen
 
 ## Tips and Recommendations
 
-- The name records an exact colonial-era depth sounding — a remarkable connection to maritime history
-- The shallow section (3.5 fathoms/6.4m) at the ledge top is worth exploring for abundant light and sea urchins
-- 7mm wetsuit or drysuit required
-- Combine with Martin Ledge and Harding Ledge for a western South Shore ledge day
+- No site-specific reports of marine life or productive spots at Three and One-half Fathom Ledge were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Cold water year-round. Moderate tidal current. Rocky ledge is a boat hazard. Dep
 
 ## Photography
 
-The shallow ledge top receives excellent natural light. Wide-angle reef portraits at the shallow section work well without strobes in good visibility; strobes needed at the deeper sections.
+No site-specific photography reports were found for Three and One-half Fathom Ledge. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Hull, Cohasset, and Scituate area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

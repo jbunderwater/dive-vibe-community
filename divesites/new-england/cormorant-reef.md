@@ -33,7 +33,7 @@ Cormorant Reef lies in the Fisher's Island Sound area, near the tri-state juncti
 
 ## Marine Life
 
-Fisher's Island Sound cold-water reef community. Tautog are the dominant species — southern New England's premier reef fish. Striped bass cruise through in warmer months, attracted by the tidal currents. Bluefish appear seasonally above the reef in summer. American lobsters inhabit deeper crevices. Sea bass are present in summer months. Cunner hover around encrusted rock surfaces. Sea urchins colonize open rock faces. Encrusting sponges and anemones cover shaded surfaces.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Cormorant Reef was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required from Westerly RI or eastern Connecticut operators. Fisher'
 
 ## Tips and Recommendations
 
-- Fisher's Island Sound tidal currents are strong — plan dives around slack water
-- Tautog are the signature species here; early morning dives before boat traffic tends to produce better encounters
-- Combine with Planet Rock, Latimer Reef, and Watch Hill Reef for a productive southwestern Rhode Island dive day
-- 7mm wetsuit or drysuit recommended throughout the season
+- No site-specific reports of marine life or productive spots at Cormorant Reef were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Fisher's Island Sound tidal currents can be strong through the passages near Wat
 
 ## Photography
 
-Tautog portraits on kelp-draped rock are the signature subject. Natural light at 14 metres is reasonable in summer. Strobes improve color accuracy on the encrusting organisms.
+No site-specific photography reports were found for Cormorant Reef. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Westerly RI; Noank, Stonington, and Mystic CT area operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

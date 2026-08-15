@@ -33,7 +33,7 @@ The Clump is a rocky reef feature in mid-Narragansett Bay at coordinates placing
 
 ## Marine Life
 
-Mid-Narragansett Bay cold-water reef species. Tautog are well established on the rocky structures — Narragansett Bay is known as excellent tautog habitat throughout. Striped bass hunt the bay in warmer months. Bluefish pass through seasonally. American lobsters inhabit crevices in the rocky cluster. Sea bass present in summer. Cunner hover around encrusted surfaces. Sea urchins on exposed rock faces. Winter flounder on adjacent sandy areas. Narragansett Bay supports a productive food web thanks to its moderate nutrient levels and tidal flushing.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at The Clump was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat charter required. Mid-bay location is accessible from both north (Providenc
 
 ## Tips and Recommendations
 
-- Narragansett Bay tautog are reliable — the bay is one of the best tautog grounds in southern New England
-- Mid-bay position provides better visibility than upper bay sites while being more sheltered than sound sites
-- Combine with other Narragansett Bay sites for a productive full-day dive trip
-- 7mm wetsuit or drysuit recommended throughout the season
-- Plan around slack tide for the bay's moderate current
+- No site-specific reports of marine life or productive spots at The Clump were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,12 +56,12 @@ Moderate Narragansett Bay tidal current at peak flow. Narragansett Bay has signi
 
 ## Photography
 
-Mid-bay visibility allows wider angle approaches than upper bay sites. Tautog portraits and rocky reef subjects are primary. Strobes recommended for color accuracy at 14 metres.
+No site-specific photography reports were found for The Clump. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Providence area dive charters; Newport and Narragansett RI operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

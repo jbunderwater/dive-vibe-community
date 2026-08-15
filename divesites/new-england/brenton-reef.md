@@ -17,7 +17,7 @@ The historic LV-39 lightship wreck off Newport, Rhode Island — a deep cold-wat
 
 ## Overview
 
-The LV-39 was a 119-foot 6-inch (36.4-metre) wooden lightship of 387 gross tons, built approximately 1875. Her confirmed station assignments were: Vineyard Sound MA (1875–1876), Five Fathom Bank NJ (1876–1877), Relief MA (1877–1897), Relief NY (1897), and Brenton Reef RI (1897–1935) — a total career of approximately 60 years. In August 1905 she was struck by the battleship USS Iowa, which carried away part of her stem and damaged head stays; no lives were lost. After retirement in 1935 her post-service history is not fully documented in surviving records, and sources conflict on whether she served as a restaurant, a clubhouse vessel, or some other purpose. She sank in 1975 while under tow to a shipyard in Beverly, Massachusetts. The wreck was first dived on July 5, 2004 by Bob Foster, David Caldwell, and Heather Knowles. She rests upright with a port list at 55 metres (180 feet), providing approximately 6–7 metres (20–25 feet) of relief. This is a deep technical dive requiring trimix or advanced technical certification and extensive cold-water wreck diving experience.
+The LV-39 was a 119-foot 6-inch (36.4-metre) wooden lightship of 387 gross tons, built approximately 1875. Her confirmed station assignments were: Vineyard Sound MA (1875–1876), Five Fathom Bank NJ (1876–1877), Relief MA (1877–1897), Relief NY (1897), and Brenton Reef RI (1897–1935) — a total career of approximately 60 years. In August 1905 she was struck by the battleship USS Iowa, which carried away part of her stem and damaged head stays; no lives were lost. After retirement in 1935 her post-service history is not fully documented in surviving records, and sources conflict on whether she served as a restaurant, a clubhouse vessel, or some other purpose. She sank in 1975 while under tow to a shipyard in Beverly, Massachusetts. The wreck was first dived on July 5, 2004 by Bob Foster, David Caldwell, and Heather Knowles. She rests upright with a port list; sources give slightly different depths for the site, ranging 175–180 feet (approximately 53–55 metres), providing approximately 6–7 metres (20–25 feet) of relief. This is a deep technical dive requiring trimix or advanced technical certification and extensive cold-water wreck diving experience.
 
 ## Site Information
 
@@ -64,7 +64,7 @@ Technical wreck photography at 55 metres requires advanced skills and technical 
 
 - **Charter Access**: Northern Atlantic Dive Expeditions (NADE)
 - **Historical Reference**: Rhode Island Historical Society; Brenton Reef Light, Wikipedia
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Northern Atlantic Dive Expeditions — Brenton Reef](https://northernatlanticdive.com/shipwrecks/brenton-reef/), [Rhode Island Lighthouse History — LV-39](http://rhodeislandlighthousehistory.info/brenton_reef_lightship_lv-39.html), [New England Deep Wrecks — LV-39](https://www.nedeepwrecks.com/lv39). Last updated 2026-06-18.*
+*Sources: [Northern Atlantic Dive Expeditions — Brenton Reef](https://northernatlanticdive.com/shipwrecks/brenton-reef/), [Rhode Island Lighthouse History — LV-39](http://rhodeislandlighthousehistory.info/brenton_reef_lightship_lv-39.html), [New England Deep Wrecks — LV-39](https://www.nedeepwrecks.com/lv39). Last updated 2026-08-15.*

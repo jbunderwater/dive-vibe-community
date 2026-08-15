@@ -33,7 +33,7 @@ Martin Ledge sits in the waters west and south of Boston Harbor in the Hull/Coha
 
 ## Marine Life
 
-Rocky ledge community characteristic of the western Massachusetts Bay. Tautog are the dominant fish species. American lobsters inhabit crevices throughout the ledge. Cunner hover above encrusted surfaces. Pollock school in midwater. Sea urchins are present on open rock faces. Winter flounder rest on adjacent sandy areas. Encrusting anemones, hydroids, and bryozoans cover shaded surfaces.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Martin Ledge was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. Anchor in sand adjacent to ledge. Deploy SMB before ascen
 
 ## Tips and Recommendations
 
-- Combine with Harding Ledge and Tewksbury Rock — all are in this western South Shore cluster
-- Lobster is the primary goal; inspect all crevices and sand-rock interfaces carefully
-- 7mm wetsuit or drysuit required
-- Local Hull/Cohasset operators have the best knowledge of approach routes
+- No site-specific reports of marine life or productive spots at Martin Ledge were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Cold water year-round. Moderate tidal current. Rocky bottom. Deploy SMB before s
 
 ## Photography
 
-Strobes needed at 18 metres. Ledge face and lobster portrait subjects are primary.
+No site-specific photography reports were found for Martin Ledge. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Hull, Cohasset, and South Shore dive charter operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

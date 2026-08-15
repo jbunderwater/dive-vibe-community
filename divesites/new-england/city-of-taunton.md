@@ -62,7 +62,7 @@ The exposed wooden hull ribs and ironwork in natural low-tide light provide docu
 ## Additional Resources
 
 - **Historical Reference**: Fall River Line maritime history — Fall River Historical Society; Old Colony History Museum, Taunton
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wikipedia — City of Taunton (ship)](https://en.wikipedia.org/wiki/City_of_Taunton_(ship)), [Wreckhunter.net — City of Taunton](https://wreckhunter.net/DataPages/cityoftaunton-dat.htm), [Massachusetts Wrecks Index](https://wreckhunter.net/mawrecks.htm). Last updated 2026-06-18.*
+*Sources: [Wikipedia — City of Taunton (ship)](https://en.wikipedia.org/wiki/City_of_Taunton_(ship)), [Wreckhunter.net — City of Taunton](https://wreckhunter.net/DataPages/cityoftaunton-dat.htm), [Massachusetts Wrecks Index](https://wreckhunter.net/mawrecks.htm). Last updated 2026-08-15.*

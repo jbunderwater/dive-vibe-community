@@ -33,7 +33,7 @@ The fishing vessel *California* was a 104.1-foot wooden Boston beam trawler of 8
 
 ## Marine Life
 
-The Dry Salvages rock formation adjacent to the wreck is documented as a year-round harbor and gray seal colony; seals from this colony are reported to visit divers in the area. No other marine life has been confirmed at this specific wreck site from independent sources. The Dry Salvages and Little Salvages area generally supports typical Cape Ann cold-water reef species on the rocky substrate, but these cannot be attributed specifically to the California wreck without confirmed reports. Regional typical species for Cape Ann rocky reef habitat would include tautog, lobster, and cunner, but source confirmation for the California site is lacking.
+The Dry Salvages rock formation adjacent to the wreck is independently documented (ecdivers.com, idivenewengland.com, scubadiving.com) as a year-round harbor and gray seal haul-out; divers in the broader Little Salvages/Dry Salvages area commonly report seal encounters, though no source confirms seals specifically at the California wreck site itself. No other marine life has been confirmed at this specific wreck from independent sources — the regional cold-water Cape Ann fauna likely applies to the rocky substrate here, but no species beyond the documented nearby seal colony are attributed to this site.
 
 ## Dive Profile
 
@@ -63,7 +63,7 @@ Seal encounters are the premier photographic experience here — wide-angle shot
 - **Management**: Massachusetts BUAR (Exempted Site)
 - **Charter Access**: Cape Ann Divers, Gloucester; Rockport-area charter operators
 - **Coordinates**: Latitude 42° 40' 25" N; Longitude 70° 34' 19" W
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Mass.gov BUAR — California](https://www.mass.gov/info-details/california), [MWDC — California](http://www.mwdc.org/Shipwrecks/CharlesSHaight.html), [Wreckhunter.net — Massachusetts Wrecks](https://wreckhunter.net/mawrecks.htm). Last updated 2026-06-18.*
+*Sources: [Mass.gov BUAR — California](https://www.mass.gov/info-details/california), [MWDC — California](http://www.mwdc.org/Shipwrecks/CharlesSHaight.html), [Wreckhunter.net — Massachusetts Wrecks](https://wreckhunter.net/mawrecks.htm). Last updated 2026-08-15.*

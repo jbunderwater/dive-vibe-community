@@ -33,7 +33,7 @@ Middle Ground is a named rocky shoal in Salem Sound, sitting roughly in the midd
 
 ## Marine Life
 
-Salem Sound cold-water reef community. Tautog are the dominant fish species. American lobsters inhabit the shoal's crevices. Cunner cluster around encrusted surfaces. Pollock school in midwater — the sound supports good pollock populations. Sea urchins on open rock faces. Winter flounder and sand dabs on adjacent sandy areas. Northern sea ravens rest on the bottom. Hydroids, anemones, and bryozoans encrust shaded surfaces throughout.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Middle Ground was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter from Marblehead or Beverly area. The shoal's position in the main S
 
 ## Tips and Recommendations
 
-- The central Salem Sound position makes this a versatile pairing with both Marblehead and Beverly area sites
-- Salem Sound plankton bloom in spring reduces visibility — midsummer through early fall produces the clearest water
-- 7mm wetsuit or drysuit required throughout the season
-- Plan around Salem Sound tidal state for best conditions
+- No site-specific reports of marine life or productive spots at Middle Ground were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Salem Sound boat traffic is significant — Marblehead and Beverly are busy harb
 
 ## Photography
 
-Rocky shoal subjects at 14 metres with strobe lighting. Tautog and pollock portraits in the middle sound water column. Encrusting organisms on the shoal rock faces.
+No site-specific photography reports were found for Middle Ground. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Marblehead and Beverly area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

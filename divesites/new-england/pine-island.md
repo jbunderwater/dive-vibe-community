@@ -33,7 +33,7 @@ Pine Island is a rocky feature in Buzzards Bay, Massachusetts, at coordinates pl
 
 ## Marine Life
 
-Buzzards Bay cold-water reef species. Tautog are resident on rocky structures. Striped bass are abundant in Buzzards Bay in warmer months — the bay is a significant striper habitat. American lobsters inhabit crevices in the rocky substrate. Sea bass present in summer. Cunner around encrusted surfaces. Winter flounder common on the sandy bay floor adjacent to the rock. Bluefish appear seasonally.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Pine Island was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat required. Buzzards Bay boat launch facilities at Marion or Wareham provide 
 
 ## Tips and Recommendations
 
-- Buzzards Bay visibility varies significantly — July-August can produce excellent visibility; spring and fall after rain are often poor
-- Striped bass hunting the bay are a highlight in summer months
-- The isolated rocky feature in an otherwise sandy bay attracts concentrated marine life — productive even at modest size
-- 7mm wetsuit recommended for Buzzards Bay cold water
-- Plan around tidal state — Buzzards Bay current is moderate but directional
+- No site-specific reports of marine life or productive spots at Pine Island were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,12 +56,12 @@ Buzzards Bay tidal current from both Cape Cod Canal and Vineyard Sound flows. Co
 
 ## Photography
 
-The isolated rock relief in a sandy bay setting creates an interesting wide-angle context. Tautog and striped bass subjects. Natural light at 15 metres is adequate in clear conditions.
+No site-specific photography reports were found for Pine Island. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Marion, Wareham, and eastern Buzzards Bay boat operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

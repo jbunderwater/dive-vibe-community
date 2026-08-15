@@ -19,9 +19,9 @@ Rhode Island's largest ship graveyard — a 33-acre shoal in the Providence Rive
 
 Green Jacket Shoal is a historically significant 33-acre shoal in the Providence River between Providence and East Providence, Rhode Island. Its name comes from the thick green eelgrass (called "green jacket" locally) that once covered the shoal, first documented on an 1865 U.S. Coast Survey chart.
 
-University of Rhode Island marine archaeologist David Robinson identified the site as Rhode Island's largest ship graveyard, with 29 confirmed wrecks including: two sidewheel steamboats — the 182-foot *Bay Queen* (operated 1865–1902) and the 193-foot *Mount Hope*; 17 scow barges; 4 sailing ships; 3 harbor steamers; and other vessels. Wood and pilings from wrecks are visible above the waterline at low tide.
+University of Rhode Island marine archaeologist David Robinson identified the site as Rhode Island's largest ship graveyard, with 29 confirmed wrecks including: two sidewheel steamboats — the 182-foot *Bay Queen* (operated 1865–1902) and the 193-foot *Mount Hope*; 17 scow barges; 4 sailing ships; 3 harbor steamers; and other vessels. Wood and pilings from wrecks are visible above the waterline at low tide. Regional press coverage of the site gives a slightly different class breakdown (at least 5 steamboats, 6 sailing ships, 15 barges among the 29), which is noted here as a minor discrepancy rather than reconciled to one figure.
 
-In 2018, the Rhode Island Coastal Resources Management Council (CRMC) designated Green Jacket Shoal a Marine Protected Area. A restricted perimeter is enforced by RI DEM, State Police, and the East Providence harbormaster. **The site is not accessible to recreational divers.** The Providence River Boat Company offers surface boat tours of the area.
+In 2018 (confirmed independently via crmc.ri.gov), the Rhode Island Coastal Resources Management Council (CRMC) designated Green Jacket Shoal a Marine Protected Area. A restricted perimeter is enforced by RI DEM, State Police, and the East Providence harbormaster. **The site is not accessible to recreational divers.** The Providence River Boat Company offers surface boat tours of the area.
 
 The 18-metre depth in the OSM data reflects the adjacent Providence River channel, not the shoal itself, which is very shallow with structural remains exposed at low tide.
 
@@ -38,7 +38,7 @@ Green Jacket Shoal represents a largely unknown chapter of Rhode Island's mariti
 - **Research**: URI Graduate School of Oceanography — David Robinson, marine archaeologist
 - **Boat Tours**: [Providence River Boat Company — Green Jacket Shoal Tour](https://www.providenceriverboat.com/boat-tours/tour-green-jacket-shoal/)
 - **MPA Authority**: Rhode Island CRMC
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wikipedia — Green Jacket Shoal](https://en.wikipedia.org/wiki/Green_Jacket_Shoal), [URI News — Rhode Island's Largest Ship Graveyard](https://www.uri.edu/news/2016/03/uri-graduate-school-of-oceanography-marine-archaeologist-uncovers-rhode-islands-largest-ship-graveyard/), [Providence River Boat Company](https://www.providenceriverboat.com/boat-tours/tour-green-jacket-shoal/). Last updated 2026-06-18.*
+*Sources: [Wikipedia — Green Jacket Shoal](https://en.wikipedia.org/wiki/Green_Jacket_Shoal), [URI News — Rhode Island's Largest Ship Graveyard](https://www.uri.edu/news/2016/03/uri-graduate-school-of-oceanography-marine-archaeologist-uncovers-rhode-islands-largest-ship-graveyard/), [Providence River Boat Company](https://www.providenceriverboat.com/boat-tours/tour-green-jacket-shoal/), [Rhode Island CRMC](https://www.crmc.ri.gov/news/2018_0516_shipgraveyard.html). Last updated 2026-08-15.*

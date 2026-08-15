@@ -17,7 +17,7 @@ A cluster of tidal rocks off the Plum Island/northern Massachusetts coast, part 
 
 ## Overview
 
-Half Tide Rocks is a distinct site from the similarly named Half Tide Rock further south — this cluster sits further north at approximately 42.81°N, in the Plum Island/Newburyport area alongside Gangway Rocks, Black Rocks, Badgers Rock, Lunts Rock, Sow and Pigs, and the Ruins of Old Breakwater. The name describes rocks that are submerged at high tide but partially exposed at low water. This cluster of reef sites in the northern Massachusetts nearshore represents some of the most accessible shallow reef diving on the North Shore, with numerous named features within a small geographic area. The 10-metre maximum depth and the Gulf of Maine cold-water ecology make this a productive dive for lobster, tautog, and invertebrate observation.
+Half Tide Rocks is a distinct site from the similarly named Half Tide Rock further south — this cluster sits further north at approximately 42.81°N, in the Plum Island/Newburyport area alongside Gangway Rocks, Black Rocks, Badgers Rock, Lunts Rock, Sow and Pigs, and the Ruins of Old Breakwater. The name describes rocks that are submerged at high tide but partially exposed at low water. This cluster of reef sites in the northern Massachusetts nearshore represents some of the most accessible shallow reef diving on the North Shore, with numerous named features within a small geographic area. The 10-metre maximum depth and the Gulf of Maine cold-water ecology make this an accessible shallow reef dive, though no site-specific marine-life reports were found.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Half Tide Rocks is a distinct site from the similarly named Half Tide Rock furth
 
 ## Marine Life
 
-Typical northern Massachusetts cold-water reef community. American lobsters den in the crevices between boulder clusters. Tautog are the dominant fish species on the rocks. Cunner school around kelp-draped surfaces. Sea urchins carpet the exposed rock faces. Pollock and Atlantic mackerel pass through above the reef. Encrusting sponges, anemones, and bryozoans cover shaded rock throughout the season.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Half Tide Rocks was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. Local knowledge essential for navigating the shoal waters
 
 ## Tips and Recommendations
 
-- This site pairs well with the nearby named rocks — combine Gangway Rocks, Black Rocks, and Badgers Rock on a single charter
-- Inspect all boulder bases and crevices for lobsters
-- Merrimack outflow can cloud visibility after heavy rain — check recent conditions
-- 7mm wetsuit or drysuit required
+- No site-specific reports of marine life or productive spots at Half Tide Rocks were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Cold water year-round. Merrimack River tidal outflow can create directional curr
 
 ## Photography
 
-Good natural light at 10 metres. Rocky reef and kelp subjects work well in ambient light. Lobster portraits in crevices are the signature close-focus subject.
+No site-specific photography reports were found for Half Tide Rocks. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

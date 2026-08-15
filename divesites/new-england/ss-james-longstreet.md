@@ -40,11 +40,15 @@ This site is marked "access: no" in maritime databases and is not recommended fo
 
 The SS James Longstreet represents a unique chapter in Cold War weapons development — her hull was sacrificed to help develop guided munitions technology. The Polaroid Corporation's heat-seeking bomb program (Project Dove) was among the earliest guided weapons programs in US history, and the Longstreet was central to its sea trials. The wreck's remains are visible at extreme low tides and continue to be a navigational landmark in Cape Cod Bay.
 
+## Source Conflict Note
+
+Mass.gov's BUAR listing for this wreck gives a length of 417.7 ft and lists the sinking year as 1950, both of which conflict with Wikipedia's 441 ft 6 in figure and the corroborated April 25, 1945 scuttling date (matched by the South Wellfleet local-history source and the ship's documented Navy target-ship service, which ran 1945–1970/71). Wikipedia and South Wellfleet agree with each other independently, so 441.5 ft and 1945 are treated as the better-supported figures here, but the mass.gov discrepancy is noted rather than silently discarded.
+
 ## Additional Resources
 
 - **Historical Reference**: [Wikipedia — SS James Longstreet](https://en.wikipedia.org/wiki/SS_James_Longstreet); [South Wellfleet, MA history](https://south-wellfleet.com/2016/03/23/the-target-ship-in-cape-cod-bay/)
 - **Management**: Massachusetts BUAR; contact before any dive attempt
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wikipedia — SS James Longstreet](https://en.wikipedia.org/wiki/SS_James_Longstreet), [South Wellfleet Historical Blog](https://south-wellfleet.com/2016/03/23/the-target-ship-in-cape-cod-bay/), [Mass.gov BUAR](https://www.mass.gov/info-details/james-longstreet). Last updated 2026-06-18.*
+*Sources: [Wikipedia — SS James Longstreet](https://en.wikipedia.org/wiki/SS_James_Longstreet), [South Wellfleet Historical Blog](https://south-wellfleet.com/2016/03/23/the-target-ship-in-cape-cod-bay/), [Mass.gov BUAR](https://www.mass.gov/info-details/james-longstreet). Last updated 2026-08-15.*

@@ -33,7 +33,7 @@ The Ruins of Old Breakwater is a site of both historical and biological interest
 
 ## Marine Life
 
-The scattered stone blocks and cut granite of the old breakwater have been thoroughly colonized. Encrusting sponges, anemones, and bryozoans cover most hard surfaces. Tautog hold territory on the larger block faces. American lobsters inhabit the dark spaces between the tumbled stone. Cunner school around the rubble. Sea urchins are present on open stone surfaces. Winter flounder rest on the sandy areas between the stone scatter. Pollock cruise above.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Ruins of Old Breakwater was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. Local knowledge of the northern Massachusetts nearshore i
 
 ## Tips and Recommendations
 
-- The artificial reef nature of the site means dense colonization on every stone surface — explore slowly
-- Large cut-granite blocks can provide more shelter than natural rounded boulders — check all gaps
-- Historical curiosity: the original breakwater structure is worth researching in local historical archives
-- Combine with the natural reef cluster nearby for a varied two-site day
+- No site-specific reports of marine life or productive spots at Ruins of Old Breakwater were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Cold water year-round — 7mm wetsuit or drysuit required. Moderate tidal curren
 
 ## Photography
 
-Heavily encrusted stone creates excellent macro subjects. The juxtaposition of cut stone (clearly human-made) with dense marine growth conveys the passage of time effectively. Wide-angle shots of rubble fields with encrusting life work well in the 10-metre natural light.
+No site-specific photography reports were found for Ruins of Old Breakwater. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators; Cape Ann Divers, Gloucester
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

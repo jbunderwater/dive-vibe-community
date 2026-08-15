@@ -33,7 +33,7 @@ Catumb Rocks lies in the Watch Hill area at the southwestern corner of Rhode Isl
 
 ## Marine Life
 
-Southern Rhode Island Sound cold-water species. Tautog are the dominant reef fish species in this area. American lobsters inhabit crevices throughout the rocky substrate. Striped bass cruise through the area in warmer months, particularly around the strong tidal currents near Watch Hill. Pollock school in midwater. Sea bass are present in summer. Cunner hover around the encrusted rock surfaces. Sea urchins carpet open rock faces. Northern sea ravens rest on the rocky bottom.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Catumb Rocks was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat charter required. Watch Hill tidal currents are a primary planning consider
 
 ## Tips and Recommendations
 
-- Plan dives strictly around Watch Hill slack tide — the currents here are among the strongest in Rhode Island Sound
-- The historical record of 49+ vessels lost in this area suggests wreck debris may be present on and around the rocks
-- Striped bass hunting the currents around Watch Hill are a summer highlight
-- Combine with Cormorant Reef, Perch Island, and Watch Hill Reef for a multi-site southern Rhode Island day
-- Westerly and Watch Hill area operators have the best local knowledge
+- No site-specific reports of marine life or productive spots at Catumb Rocks were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,13 +56,13 @@ Watch Hill tidal currents are strong and the passage between Fisher's Island Sou
 
 ## Photography
 
-Rocky reef subjects at 15 metres require strobes for accurate color. Tautog portraits on kelp-draped rock; striped bass in the current-swept water column; and the encrusting life on rock surfaces are primary photographic subjects.
+No site-specific photography reports were found for Catumb Rocks. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Watch Hill and Westerly RI; Stonington/Mystic CT area operators
 - **Historical Reference**: Watch Hill wreck records — Rhode Island Historical Preservation and Heritage Commission
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef), [Small State Big History — Watch Hill Shipwrecks](http://smallstatebighistory.com/mariners-beware-shipwrecks-in-rhode-island-watch-hill/). Geographic feature confirmed; not documented as a named scuba dive site. Last updated 2026-06-18.*
+*Sources: [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef), [Small State Big History — Watch Hill Shipwrecks](http://smallstatebighistory.com/mariners-beware-shipwrecks-in-rhode-island-watch-hill/). Geographic feature confirmed; not documented as a named scuba dive site. Last updated 2026-08-15.*

@@ -15,9 +15,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "mass.gov,wreckhunter.net,trusteesofservations.org",
-      "notes": "Intertidal wreck visible at low tide on Crane Beach, Ipswich. Archaeological site more than diving destination.",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "mass.gov,wreckhunter.net,thetrustees.org,en.wikipedia.org",
+      "notes": "Re-audited 2026-08-15: 84ft two-masted Grand Banks fishing schooner, converted for sand-hauling, wrecked Dec 26 1909 during 'Great Christmas Snowstorm' at Steep Hill Beach, Crane Beach, Ipswich. Builder name varies by source (Ebenezer Burnham vs H.A. Burnham, both Essex MA boat builders -- sources agree on Essex, MA). Intertidal wreck visible at low tide, more archaeological site than diving destination; not submerged, snorkeling/masks prohibited by Trustees of Reservations.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -39,8 +39,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "Rocky ledge off Cape Ann with kelp and rock habitat. Tautog, lobster, and other temperate species.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or database source specifically documenting Godfrey's Ledge as a dive site was found (searched NH seacoast/Isles of Shoals dive operators, Portsmouth Scuba). NOAA/GNIS chart feature; site_type left as reef based on OSM natural=reef tagging only. Regional Gulf of Maine cold-water fauna would be expected but is not confirmed for this specific ledge.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -61,9 +61,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "wreckhunter.net,vineyardgazette.com,wbur.org",
-      "notes": "Last whaling bark to depart New Bedford, 116ft wooden bark built 1878. Grounded August 26, 1924 on Middle Ground shoal west side of Cuttyhunk Island. Completely broken up, only small artifacts remain among rocks. Maximum depth 20 feet (6m). Easy dive.",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "wreckhunter.net,vineyardgazette.com,wbur.org,thepublicsradio.org",
+      "notes": "Re-audited 2026-08-15: Last whaling bark to depart New Bedford on a whaling voyage, 116ft wooden bark built 1878 at Mattapoisett. Grounded on Middle Ground shoal west side of Cuttyhunk Island; anchor chain parted in a gale after departing for her final voyage. Sources conflict on exact date -- the Vineyard Gazette's contemporary Aug 26 1924 report vs. modern retrospectives (WBUR/The Public's Radio) citing Aug 27, 1924. Completely broken up, only small artifacts remain among rocks. Maximum depth 20 feet (6m). Easy dive.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -91,8 +91,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "wikipedia.org,mass.gov,south-wellfleet.com",
-      "notes": "WWII Liberty ship scuttled April 25, 1945 as target for Navy air-to-surface missile testing. Hulk submerged in 1996 storm. Lies in ~6-8m off Eastham MA. OSM tags 'access:no'. Site has unexploded ordnance \u2014 diving not recommended without official clearance.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-audited 2026-08-15: Liberty ship (hull 112), built by Todd Houston Shipbuilding, Houston TX, keel laid 24 Aug 1942, launched 31 Oct 1942, length 441ft6in, beam 57ft, 7,000 DWT (Wikipedia). Grounded/declared total loss Oct 26 1943, acquired by Navy June 1944, scuttled April 25 1945 as target ship (Project Dove / air-to-surface missile testing) on New Found Shoal, Cape Cod Bay, off Eastham. Hulk submerged further in 1996 storm; now lies in ~6-8m. mass.gov's page states differing figures (length 417.7ft, sinking listed as 1950) that conflict with Wikipedia and South Wellfleet local history (441.5ft, scuttled 1945) -- treating Wikipedia + South Wellfleet as the stronger corroborated pair. OSM tags 'access:no'. Unexploded ordnance present — diving not recommended without official clearance.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -114,8 +114,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "Shallow rocky reef off Rhode Island. Rock structures with kelp and marine life.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or database source specifically documenting Latimer Reef as a scuba site was found -- available sources (Wikipedia, RI Lighthouse History, OnTheWater) cover the Latimer Reef Lighthouse and the broader Watch Hill Reef Complex, not this ledge as a named dive site. NOAA/GNIS chart feature. Regional cold-water fauna would be expected but is not confirmed for this specific reef.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -141,8 +141,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "Fully submerged rock ledge off Cape Ann. Tautog habitat with rocky structures.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or database source specifically documenting Avery Ledge as a named dive site was found, despite it being a mile from the well-documented Dry Salvages dive site (Wikipedia confirms Dry Salvages lies 'a mile east of Avery's Ledge'). Sources (ecdivers.com, idivenewengland.com, scubadiving.com) confirm a year-round harbor/gray seal colony at the adjacent Dry Salvages -- that fact is attributable to Dry Salvages, not confirmed at Avery Ledge itself. NOAA/GNIS chart feature. Regional Cape Ann fauna would be expected but is not confirmed for this specific ledge.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -166,8 +166,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "wikipedia.org,mass.gov,newenglandhistoricalsociety.com",
-      "notes": "504-foot Type T2-SE-A1 tanker built 1942 in Portland Oregon. Broke in two February 18, 1952 in nor'easter. Stern grounded off Monomoy Island at 41\u00b035'10\"N 69\u00b057'45\"W. Bow grounded on Pollock Rip Shoal. Famous Finest Hours Coast Guard rescue. Massachusetts BUAR Exempted Site.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-audited 2026-08-15: CORRECTED build year -- Wikipedia and mass.gov both confirm the Pendleton was built in 1944 (not 1942 as previously recorded) by Kaiser Company at the Swan Island Yard, Portland, Oregon. 504-foot Type T2-SE-A1 tanker, beam 68.2ft, 10,448 GRT. Broke in two at 05:40 Feb 18 1952 in a nor'easter (60-70ft seas) six miles off Chatham. Stern grounded off Monomoy Island at 41°35'10\"N 69°57'45\"W; bow grounded on Pollock Rip Shoal. Famous Finest Hours Coast Guard rescue. Massachusetts BUAR Exempted Site.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -188,10 +188,10 @@
       "wreck:type": "ship",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": false,
-      "validation_source": "mass.gov,wreckhunter.net",
-      "notes": "Historic ship wreck visible at low tide at Head of the Meadow Beach, North Truro. Intertidal wreck site, archaeological interest.",
-      "last_qa_date": "2026-06-18"
+      "validated": true,
+      "validation_source": "legendsofamerica.com,nps.gov,wreckhunter.net,mass.gov",
+      "notes": "Validated 2026-08-15: Frances was a German iron-hulled bark driven ashore during a December gale in 1872 at Head of the Meadow Beach, North Truro (coordinates confirm North Truro, not Wellfleet as a prior draft stated). Carried a cargo of sugar and tin. All crew were rescued by U.S. Life-Saving Service men, who dragged a whaleboat overland from the bay side to the outer beach; the German captain survived the wreck but died several days later from exposure and is buried in North Truro. Bow silhouette still visible at low tide (legendsofamerica.com, islands.com, nps.gov guide). Intertidal/archaeological site, not a conventional dive.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -215,8 +215,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "wikipedia.org,mass.gov,navsource.org",
-      "notes": "USS Yankee (1892), 406-foot iron auxiliary cruiser, 6,225 ton displacement, built Newport News Shipbuilding 1892. Originally Southern Pacific passenger liner El Norte. Grounded Spindle Rock near Hen and Chickens lightship September 23, 1908, sank December 4, 1908 while under tow to New Bedford. 3 miles east of Round Hill Point. Massachusetts BUAR Exempted Site.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-audited 2026-08-15: USS Yankee (1892), 406.1-foot iron auxiliary cruiser, 6,225 ton displacement, built Newport News Shipbuilding & Drydock Co. 1892. Originally Southern Pacific passenger liner El Norte, acquired by Navy April 1898. Grounded on Spindle Rock near Hen and Chickens lightship September 23, 1908 (dense fog + wildfire smoke); refloated Dec 4, 1908 by Arbuckle Wrecking Co.; sank while under tow to New Bedford -- sources place the sinking itself on the night of Dec 4 into Dec 5, 1908. 3 miles east of Round Hill Point, South Dartmouth. Wreck later dynamited as navigation hazard, salvaged for boilers/equipment. Massachusetts BUAR Exempted Site.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -241,8 +241,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "wikipedia.org,mwdc.org,mass.gov",
-      "notes": "WWII wooden minesweeper (136ft, 270 tons displacement), built 1943 by Al Larson Boat Building. Grounded Little Salvages off Rockport September 21, 1963. Destroyed by explosives September 28, 1963 (NOT fire). Wreck in ~20 feet water. Massachusetts BUAR Exempted Site.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-audited 2026-08-15 (confirmed, no corrections needed): WWII wooden minesweeper YMS-321/AMS-15, 136ft, 270 tons displacement, built by Al Larson Boat Building, Terminal Island CA; laid down Aug 29 1942, launched Feb 20 1943. Grounded on Little Salvages off Rockport ~2AM September 21, 1963 during a training exercise; crew evacuated by helicopter, tow attempts failed. Destroyed by Navy explosives September 28, 1963 (confirmed NOT fire). Wreck in ~6m (20ft) water near the California wreck. Massachusetts BUAR Exempted Site.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -264,8 +264,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "mass.gov,wikipedia.org,mwdc.org",
-      "notes": "Boston beam trawler, 104.1ft length, 82 GRT, built 1917 in Boston MA, owned by Matteo Logrande, Gloucester. Foundered September 15, 1955 between Little Salvages and Dry Salvages. Massachusetts BUAR Exempted Site. Seal colony on nearby Dry Salvages.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-audited 2026-08-15 (confirmed, no corrections needed): Boston beam trawler, 104.1ft length, 82 GRT, built 1917 in Boston MA, owned by Matteo Logrande, hailing from Gloucester. Foundered September 15, 1955 between Little Salvages and Dry Salvages, ~42°40'25\"N 70°34'19\"W. Massachusetts BUAR Exempted Site. Year-round harbor/gray seal colony documented at the adjacent Dry Salvages (ecdivers.com, idivenewengland.com, scubadiving.com) -- seals are commonly seen by divers in the area though not confirmed feeding/hauling on the wreck itself.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -287,8 +287,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "wikipedia.org,mass.gov,harbormasters.org",
-      "notes": "Historic wreck near Graves Ledge, sunk 1946. New England wreck site.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-audited 2026-08-15: CORRECTED location -- prior note incorrectly placed this wreck near Graves Ledge; it actually grounded on the Flat Ground inside the Dry Salvages, ~1.5 miles east of Rockport (not Graves Ledge, which is near Boston Harbor). Liberty ship, builder J.A. Jones Construction Co., Brunswick GA, laid down 15 Aug 1944, completed 3 Oct 1944. Grounded overnight April 1-2, 1946 while in ballast from Newport, England to New York, driven inshore by SE winds in poor visibility. Sources disagree on exact dimensions: Wikipedia gives length 441ft6in / 7,176 GRT; harbormasters.org gives 422.8ft / 7,198 GRT -- both are cited pending further reconciliation. Only the triple-expansion steam engine remains clearly visible, marked by Red Nun '2'. Massachusetts BUAR Exempted Site.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -308,8 +308,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "Rocky reef, temperate waters",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'The Clump' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -330,8 +330,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Cedar Island Ledge' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -361,8 +361,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Ruins of Old Breakwater' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -388,8 +388,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Half Tide Rock' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -419,8 +419,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Half Tide Rocks' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -446,8 +446,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Bar Rock' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -476,7 +476,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15",
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Bass Rock' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location."
     }
   },
   {
@@ -506,8 +507,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Ruins of Old Dike' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -533,8 +534,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Black Rocks' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -559,8 +560,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Sow and Pigs' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -589,8 +590,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Lunts Rock' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -615,8 +616,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Gangway Rocks' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -644,8 +645,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Badgers Rock' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -665,8 +666,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Watch Hill Reef' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -686,8 +687,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Catumb Rocks' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -709,8 +710,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Planet Rock' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -730,8 +731,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Cormorant Reef' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -751,8 +752,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Inner Breakers' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -772,8 +773,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Three and One-half Fathom Ledge' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -793,8 +794,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Martin Ledge' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -814,8 +815,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Tewksbury Rock' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -835,8 +836,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Utonia Ledge' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -856,8 +857,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Harding Ledge' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -877,8 +878,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Enos Ledge' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -898,8 +899,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Minots Ledge' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -919,8 +920,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Davis Ledge' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -940,8 +941,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Tobias Ledge' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -961,8 +962,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Mikes Ledge' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -985,8 +986,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Pine Island' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -1010,8 +1011,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Abbot Rock' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -1035,8 +1036,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Middle Ground' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -1069,8 +1070,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Derby Powderhouse Wharf' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -1098,8 +1099,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "wikipedia.org,wreckhunter.net,mass.gov",
-      "notes": "Freight sidepaddle steamship, 292 feet length, built 1892 Chelsea MA by Montgomery & Howard. Served Fall River Line. Grounded Somerset MA (Brayton Point) 1930s, abandoned. Wreck visible at low tide on Mount Hope Bay at 41\u00b042'35.48\"N 71\u00b010'42.58\"W.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-audited 2026-08-15 (confirmed, no corrections needed): Freight sidepaddle (sidewheel) steamship, 292 feet length, built 1892 in Chelsea MA by Montgomery & Howard. Served the Fall River Line freight fleet. Grounded and abandoned at Brayton Point, Somerset MA in the 1930s as the Fall River Line collapsed. Wreck visible at low tide on the western shore of Mount Hope Bay at 41°42'35.48\"N 71°10'42.58\"W.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -1121,9 +1122,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "wikipedia.org,uri.edu,providenceriverboat.com",
-      "notes": "Rhode Island's largest ship graveyard \u2014 33-acre shoal in the Providence River with 29 confirmed wrecks. Named for local term for eelgrass. Marine Protected Area since 2018 with restricted access enforced by RI DEM. Not accessible to recreational divers. Boat tours via Providence River Boat Company.",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "wikipedia.org,uri.edu,providenceriverboat.com,crmc.ri.gov",
+      "notes": "Re-audited 2026-08-15: Rhode Island's largest ship graveyard — 33-acre shoal in the Providence River between Providence and East Providence with 29 confirmed wrecks (URI marine archaeologist David Robinson). Named for local term for the eelgrass ('green jacket') once covering the shoal. Vessel-class breakdown varies slightly by source (URI/Wikipedia vs. regional press) but both agree on ~29 total including the sidewheel steamboats Bay Queen and Mount Hope. CRMC designated it a Marine Protected Area in 2018 (confirmed via crmc.ri.gov) with restricted access enforced by RI DEM, State Police, and East Providence harbormaster. Not accessible to recreational divers. Boat tours via Providence River Boat Company.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -1146,8 +1147,8 @@
       "addedBy": "extended_overpass",
       "validated": false,
       "validation_source": "wreckhunter.net,mass.gov",
-      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-examined 2026-08-15: no dive-shop, ScubaBoard, or dive-database source specifically documenting 'Perch Island' as a named recreational dive site was found. NOAA/GNIS chart feature (navigational hazard / rock / ledge naming). site_type retained as reef based only on OSM natural=reef tagging -- not independently confirmed. Regional New England cold-water fauna would be expected on this substrate but is not confirmed site-specific; no species are attributed to this location.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -1167,8 +1168,8 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "northernatlanticdive.com,rhodeislandlighthousehistory.info,nedeepwrecks.com",
-      "notes": "LV-39 lightship, wooden vessel 119ft 6in length, 387 gross tons, built ~1875. Stationed at Brenton Reef 1897-1935. Struck by USS Iowa August 1905. Sank 1975 while under tow to Beverly MA. First dived July 5, 2004 by Bob Foster, David Caldwell, Heather Knowles. Rests upright with port list at 180 feet (55m). 20-25ft relief. Technical dive only.",
-      "last_qa_date": "2026-06-18"
+      "notes": "Re-audited 2026-08-15 (confirmed, no corrections needed): LV-39 lightship, wooden vessel 119ft 6in length, 387 gross tons, built ~1875. Stationed at Brenton Reef 1897-1935. Struck by USS Iowa August 1905 (part of stem carried away, no lives lost). Sank 1975 while under tow to Beverly MA. First dived July 5, 2004 by Bob Foster, David Caldwell, Heather Knowles. Rests upright with a port list; sources give depth as 175-180ft (53-55m), 20-25ft relief. Technical dive only (trimix/advanced tech cert required).",
+      "last_qa_date": "2026-08-15"
     }
   }
 ]

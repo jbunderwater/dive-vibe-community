@@ -33,7 +33,7 @@ Watch Hill Reef lies at the southwestern tip of Rhode Island, adjacent to Watch 
 
 ## Marine Life
 
-Southern Rhode Island cold-water reef community. Tautog are abundant in this area — Watch Hill's rocky reefs are among the better tautog grounds in Rhode Island. Striped bass are present in good numbers in the tidal current zone adjacent to Watch Hill Point, particularly in summer. Bluefish appear seasonally. American lobsters inhabit crevices in the deeper ledge sections. Sea bass are present in warmer months. Cunner hover around encrusted rock. Sea urchins colonize open surfaces. The nutrient-rich tidal flow supports dense invertebrate growth on the reef.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Watch Hill Reef was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat charter required from Westerly, RI. Watch Hill tidal currents are among the
 
 ## Tips and Recommendations
 
-- Plan dives strictly around Watch Hill slack tide — the passage current can be very strong
-- The historical record of 49+ wrecks in the Watch Hill area means scattered debris may be present on and around the reef
-- Striped bass hunting the tidal current near Watch Hill Point are accessible in summer months
-- The Watch Hill Lighthouse (1857) is a surface landmark — visible from the dive site
-- Combine with Catumb Rocks, Perch Island, and Latimer Reef for a full southwestern Rhode Island dive day
+- No site-specific reports of marine life or productive spots at Watch Hill Reef were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,13 +56,13 @@ Watch Hill tidal currents are significant — never dive against a running curre
 
 ## Photography
 
-Tautog on kelp-draped rocky reef are the signature subject. The historic Watch Hill Lighthouse visible above the surface on shallow sections creates a distinctive setting. Strobes needed for accurate color at 14 metres.
+No site-specific photography reports were found for Watch Hill Reef. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Historical Reference**: Watch Hill Lighthouse history; Rhode Island Historical Preservation and Heritage Commission wreck records
 - **Charter Access**: Westerly, RI area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef), [Small State Big History — Watch Hill Shipwrecks](http://smallstatebighistory.com/mariners-beware-shipwrecks-in-rhode-island-watch-hill/). No site-specific dive documentation found for Watch Hill Reef as a named scuba site. Last updated 2026-06-18.*
+*Sources: [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef), [Small State Big History — Watch Hill Shipwrecks](http://smallstatebighistory.com/mariners-beware-shipwrecks-in-rhode-island-watch-hill/). No site-specific dive documentation found for Watch Hill Reef as a named scuba site. Last updated 2026-08-15.*

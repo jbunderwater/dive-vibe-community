@@ -33,7 +33,7 @@ Latimer Reef lies in the southwestern corner of Rhode Island Sound at the easter
 
 ## Marine Life
 
-Fisher's Island Sound cold-water species. Tautog are abundant on the reef structure and among the most accessible in the region — this area is known locally as excellent tautog habitat. Striped bass hunt the tidal currents around the reef in warmer months. Sea bass appear in summer months. Bluefish pass through above the reef seasonally. American lobsters inhabit deeper crevices. Cunner are resident. Sea urchins colonize exposed rock. Encrusting sponges and anemones cover shaded surfaces year-round.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Latimer Reef was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,11 +45,10 @@ Boat charter required. The Fisher's Island Sound tidal flow creates opportunitie
 
 ## Tips and Recommendations
 
-- The Latimer Reef Lighthouse (1884, spark-plug style) is a surface navigation landmark — familiarize yourself before diving
-- Tidal drift dives over the reef are a productive strategy when planned correctly
-- Tautog are reliably found here — excellent for underwater fish watching
-- Combine with Watch Hill Reef, Catumb Rocks, and Cormorant Reef for a southwestern Rhode Island multi-site day
-- Fisher's Island Sound is one of the better tautog fishing grounds in New England — the diving reflects this
+- No site-specific reports of marine life or productive spots at Latimer Reef were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,13 +56,13 @@ Fisher's Island Sound currents are significant — drift diving requires careful
 
 ## Photography
 
-Tautog portraits are the premier subject at Latimer Reef — the fish are less pressured by spearfishing and tend to be approachable. Wide-angle shots with the lighthouse visible through the surface in the background are achievable in shallow sections with good visibility.
+No site-specific photography reports were found for Latimer Reef. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Historical Reference**: Latimer Reef Lighthouse (established 1884); U.S. Lighthouse Service records
 - **Charter Access**: Westerly RI; Noank and Stonington CT area operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Sources: [Wikipedia — Latimer Reef Light](https://en.wikipedia.org/wiki/Latimer_Reef_Light), [Rhode Island Lighthouse History — Latimer Reef](http://rhodeislandlighthousehistory.info/brenton_reef_lights_history.html), [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef). Last updated 2026-06-18.*
+*Sources: [Wikipedia — Latimer Reef Light](https://en.wikipedia.org/wiki/Latimer_Reef_Light), [Rhode Island Lighthouse History — Latimer Reef](http://rhodeislandlighthousehistory.info/brenton_reef_lights_history.html), [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef). Last updated 2026-08-15.*

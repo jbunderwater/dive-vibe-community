@@ -33,11 +33,11 @@ Sow and Pigs is a classic New England navigational hazard name — a "sow" (larg
 
 ## Marine Life
 
-The central larger rock (the "sow") and surrounding smaller rocks provide varied habitat. Tautog hold territory on the larger structures. American lobsters inhabit crevices between the central and flanking rocks — the gaps between the "sow" and "pigs" provide classic lobster shelter. Cunner hover around kelp-draped surfaces. Sea urchins are present on exposed rock faces. Pollock and Atlantic mackerel school above the site in summer. Winter flounder rest on surrounding sand. Anemones and bryozoans encrust shaded surfaces year-round.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Sow and Pigs was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
-Boat access from Newburyport or Cape Ann. Descend to the rock cluster at 8–10 metres. The central larger rock provides a natural navigation reference. Work from the central feature outward to the smaller flanking rocks, then explore the sand-rock interfaces where lobsters concentrate. Pair with Gangway Rocks and Half Tide Rocks for a productive multi-site day. Complete a 3-minute safety stop at 5 metres.
+Boat access from Newburyport or Cape Ann. Descend to the rock cluster at 8–10 metres. The central larger rock provides a natural navigation reference. Work from the central feature outward to the smaller flanking rocks, then explore the sand-rock interfaces. Pair with Gangway Rocks and Half Tide Rocks for a productive multi-site day. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -45,11 +45,10 @@ Boat charter required. The name itself signals the navigation risk — a local c
 
 ## Tips and Recommendations
 
-- The traditional navigational significance of the site's name is worth researching before the dive
-- The gaps between the central "sow" rock and the surrounding "pigs" often shelter lobsters
-- Western end of the northern Massachusetts reef cluster — combine with Gangway Rocks for a two-site day
-- 7mm wetsuit or drysuit required year-round
-- Plan around slack tide
+- No site-specific reports of marine life or productive spots at Sow and Pigs were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -57,12 +56,12 @@ Cold water year-round. The multiple rock features create navigation hazards for 
 
 ## Photography
 
-The named rock cluster lends itself to wide-angle portraits showing the central "sow" with smaller rocks in the background. Natural light at 10 metres is excellent in summer. Tautog holding territory on the rock faces are compelling subjects.
+No site-specific photography reports were found for Sow and Pigs. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators; Cape Ann Divers, Gloucester
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*

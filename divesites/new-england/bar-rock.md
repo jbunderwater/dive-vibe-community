@@ -33,7 +33,7 @@ Bar Rock is a submerged rocky shoal in the northern Ipswich Bay area off the Mas
 
 ## Marine Life
 
-The rocky bar substrate supports the typical northern Massachusetts cold-water reef community. American lobsters shelter in the deepest rock crevices. Tautog patrol the ledge edges. Cunner hover around encrusted surfaces and rocky overhangs. Sea urchins are common on exposed rock faces. Winter flounder rest on sandy patches flanking the rock. Atlantic mackerel school in midwater above the reef in summer. Pollock cruise above the structure.
+No dive-shop, ScubaBoard, or dive-database source specifically documenting marine life at Bar Rock was found. This is a NOAA/GNIS-charted rock or ledge feature without confirmed recreational-diving reports. The regional cold-water New England fauna of the Gulf of Maine / southern New England coast likely applies here, but no species have been confirmed observed at this specific site, so none are listed.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat charter required. Local knowledge of the northern Ipswich Bay approach is i
 
 ## Tips and Recommendations
 
-- Combine with other Ipswich Bay sites — the Bass Rock wreck site and Crane Beach intertidal wreck are nearby
-- The shallow depth makes this an excellent site for divers still building comfort in New England cold water
-- Tidal influence from the Essex River makes current predictable — consult local tide tables
-- Bring a torch for crevice inspection
+- No site-specific reports of marine life or productive spots at Bar Rock were found; treat any wildlife encounter as a bonus rather than an expectation
+- Rocky ledge/rock terrain rewards slow, careful exploration of crevices and undercuts
+- 7mm wetsuit or drysuit is standard for New England cold water year-round
+- Plan dives around slack tide and confirm current local conditions with your charter operator
 
 ## Safety Considerations
 
@@ -56,12 +56,12 @@ Cold water throughout the year — 7mm wetsuit or drysuit required. Tidal curren
 
 ## Photography
 
-Excellent natural light at 10 metres on clear days. Wide shots of rocky reef with good ambient light are achievable in peak summer visibility. Macro subjects on encrusted rock surfaces include nudibranchs, hydroids, and coralline algae growth.
+No site-specific photography reports were found for Bar Rock. Rocky New England ledge terrain generally rewards wide-angle shots of structure and kelp along with macro work on encrusting growth; a dive light or strobe is typically needed to restore color at depth.
 
 ## Additional Resources
 
 - **Charter Access**: Cape Ann Divers, Gloucester; North Shore dive charters
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-15
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-15.*
