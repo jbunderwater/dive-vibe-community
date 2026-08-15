@@ -19,7 +19,7 @@ The Labyrinth is a local favourite at Lighthouse Bay on the northern tip of the 
 
 The Labyrinth features some of the most varied underwater topography on the Ningaloo Reef — rocky outcrops, coral ledges, and deep cracks in the seabed create a complex three-dimensional environment at depths of 10–18 metres. The site is considered accessible for all certified diver levels and is consistently described by Exmouth operators and visiting divers as an easy dive with no significant current and good visibility.
 
-The site is well known as a turtle cleaning station: green turtles regularly queue here to be cleaned by small reef fish, and patient divers can observe this behaviour at close range. Other confirmed species at The Labyrinth include crayfish (western rock lobster), pufferfish, porcupinefish, and octopus inhabiting the passages and overhangs. Reef sharks, moray eels, and schooling fish are consistent throughout the site.
+The site is well known as a turtle cleaning station: green turtles regularly queue here to be cleaned by small reef fish, and are also reported napping inside the site's limestone caves, giving patient divers close-range views. Other confirmed species at The Labyrinth include crayfish (western rock lobster), pufferfish, porcupinefish, and octopus inhabiting the passages and overhangs. Stingrays, moray eels, sea snakes, and hundreds of reef fish are consistent throughout the site.
 
 The Labyrinth is one of three dive sites visited on Dive Ningaloo's Lighthouse Bay double-dive tour, alongside Blizzard Ridge and Gullivers. All diving departs by boat from Exmouth.
 
@@ -35,4 +35,4 @@ The Labyrinth is one of three dive sites visited on Dive Ningaloo's Lighthouse B
 - **Visibility**: Good (5–20 metres, weather dependent)
 
 ---
-*Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Monique Lives Life — Diving The Labyrinth](https://moniqueliveslife.com/2017/05/23/diving-the-labyrinth-at-lighthouse-bay-exmouth/), [Exmouth Resort — Best Dive Sites](https://exmouthresort.net.au/best-dive-sites-in-the-ningaloo-marine-park/). Last updated 2026-06-18.*
+*Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Monique Lives Life — Diving The Labyrinth](https://moniqueliveslife.com/2017/05/23/diving-the-labyrinth-at-lighthouse-bay-exmouth/), [Exmouth Resort — Best Dive Sites](https://exmouthresort.net.au/best-dive-sites-in-the-ningaloo-marine-park/), [Aussie Marine Adventures — Lighthouse Bay](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-1-lighthouse-bay/). Last updated 2026-08-15.*

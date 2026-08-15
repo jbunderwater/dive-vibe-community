@@ -33,4 +33,4 @@ The site is primarily a snorkel destination; no scuba operator lists guided dive
 - **Tides**: High tide only (minimum 1.2m); sharp rocks at entry — boots recommended
 
 ---
-*Sources: [Explore Parks WA — Oyster Stacks](https://exploreparks.dbca.wa.gov.au/site/oyster-stacks), [Snorkel Spots — Oyster Stacks](https://snorkelspots.com/oyster-stacks-snorkel/), [Australia's Coral Coast — Oyster Stacks](https://www.australiascoralcoast.com/see-do/national-parks/cape-range-national-park/oyster-stacks). Last updated 2026-06-18.*
+*Sources: [Explore Parks WA — Oyster Stacks](https://exploreparks.dbca.wa.gov.au/site/oyster-stacks), [Snorkel Spots — Oyster Stacks](https://snorkelspots.com/oyster-stacks-snorkel/), [Australia's Coral Coast — Oyster Stacks](https://www.australiascoralcoast.com/see-do/national-parks/cape-range-national-park/oyster-stacks). Re-audited 2026-08-15, all facts confirmed unchanged (Explore Parks WA directly confirms the reef sits ~300m from shore, the narrowest lagoon section on the Ningaloo Coast). Last updated 2026-08-15.*

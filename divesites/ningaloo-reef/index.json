@@ -65,7 +65,7 @@
     "lat": -21.9333,
     "lng": 113.95,
     "difficulty": "Beginner",
-    "maxDepth": 3,
+    "maxDepth": 5,
     "entryType": "shore",
     "siteType": "reef",
     "ref": "",
@@ -127,7 +127,7 @@
     "difficulty": "Beginner",
     "maxDepth": 4,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": null
   },

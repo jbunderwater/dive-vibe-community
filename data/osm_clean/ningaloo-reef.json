@@ -189,7 +189,7 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 4,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -197,7 +197,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "sailningaloo.com.au,divingwawrecks.com,shipwreckswa.com,museum.wa.gov.au",
-      "qa_note": "Re-audit 2026-08-15: Cross-checked all three wrecks against the WA Museum Maritime Archaeology Database. Fin: iron whaler, built 1881, 93 tons, driven ashore at anchor (museum record) vs. earlier sources describing an 1923 cyclone wreck — sources also disagree on whether the vessel was the Fin or a sister ship Fynd (per Stanbury 1984 research cited by the museum record). Zvir: steel screw steamer built 1900 (Priestman & Co, Sunderland), 100.2m, 3,353 gross tons, ran aground 27 Nov 1902 carrying sugar from Java to Port Adelaide — confirmed by 2 independent sources. SS Perth: iron passenger/cargo steamer built 1863 (Glasgow), 58.5m, ~499 tons, struck the reef 17 Sept 1887 en route Fremantle-Wyndham with 63 passengers — confirmed by 2 independent sources.",
+      "qa_note": "Re-audit 2026-08-15: site_type reclassified reef -> wreck. Three wrecks (Fin, Zvir, SS Perth) are the site's primary underwater draw per all sources reviewed, and per project convention wrecks are always tagged 'wreck' regardless of what they sit on (shallow sand/reef lagoon here). Cross-checked all three wrecks against the WA Museum Maritime Archaeology Database. Fin: iron whaler, built 1881, 93 tons, driven ashore at anchor (museum record) vs. earlier sources describing an 1923 cyclone wreck — sources also disagree on whether the vessel was the Fin or a sister ship Fynd (per Stanbury 1984 research cited by the museum record). Zvir: steel screw steamer built 1900 (Priestman & Co, Sunderland), 100.2m, 3,353 gross tons, ran aground 27 Nov 1902 carrying sugar from Java to Port Adelaide — confirmed by 2 independent sources. SS Perth: iron passenger/cargo steamer built 1863 (Glasgow), 58.5m, ~499 tons, struck the reef 17 Sept 1887 en route Fremantle-Wyndham with 63 passengers — confirmed by 2 independent sources.",
       "last_qa_date": "2026-08-15"
     }
   },

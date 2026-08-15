@@ -17,7 +17,7 @@ Tantabiddi is primarily the main boat ramp and launch point for outer reef dive 
 
 ## Overview
 
-The Tantabiddi boat ramp provides access to several named outer reef sites — including Nick's Lumps, Floats, and Three Fins — at maximum depths around 15 metres, where reef sharks, turtles, and large potato cod are regularly encountered. Inner reef snorkel moorings within the Tantabiddi Sanctuary Zone (The Staghorns, The Bombies) offer very shallow diving at 1.5–3.5 metres over staghorn and boulder coral formations.
+The Tantabiddi boat ramp provides access to several named outer reef sites — including Nick's Lumps, Floats, and Three Fins — at maximum depths around 14–15 metres, where reef sharks, turtles, and large potato cod are regularly encountered. Nick's Lumps itself is a coral pinnacle (or cluster of pinnacles) rising from the sandy seafloor to about 10–14 metres from the surface, densely covered in hard and soft coral. Inner reef snorkel moorings within the Tantabiddi Sanctuary Zone (The Staghorns, The Bombies) offer very shallow diving at 1.5–3.5 metres over staghorn and boulder coral formations.
 
 The Tantabiddi reef passage has historically been one of the most reliable areas for seasonal big-animal encounters: manta rays feed in the current-swept outer reef channel, and the area is a key departure zone for whale shark tours running March through July when aggregations peak in the surrounding open water.
 
@@ -33,4 +33,4 @@ The sanctuary zone itself is a no-take area within Cape Range National Park, sup
 - **Seasonal Highlights**: Whale shark tours (March–July); manta rays (year-round, peak mid-year)
 
 ---
-*Sources: [Explore Parks WA — Tantabiddi Boat Ramp](https://exploreparks.dbca.wa.gov.au/site/tantabiddi-boat-ramp), [Aussie Marine Adventures — Westside Outer Reef](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-4-westside-outer-reef-exmouth-ningaloo-reef/), [Dive Ningaloo — Westside](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-westside/). Last updated 2026-06-18.*
+*Sources: [Explore Parks WA — Tantabiddi Boat Ramp](https://exploreparks.dbca.wa.gov.au/site/tantabiddi-boat-ramp), [Aussie Marine Adventures — Westside Outer Reef](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-4-westside-outer-reef-exmouth-ningaloo-reef/), [Dive Ningaloo — Westside](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-westside/), [Pro-Taucher — Nick's Lumps](https://www.pro-taucher.com/dive-sites/australia-oceania/australia/western-australia/ningaloo-reef-nicks-lumps/). Last updated 2026-08-15.*
