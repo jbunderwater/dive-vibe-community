@@ -17,7 +17,7 @@ Lighthouse Bay is the primary dive area at the northern tip of the North West Ca
 
 ## Overview
 
-Located above the Vlamingh Head Lighthouse, Lighthouse Bay is a sanctuary zone where fishing and anchoring are prohibited, producing notably abundant fish life in an area seldom disturbed. The underwater landscape is characterised by rocky outcrops, coral ledges, and deep cracks in the seabed that create interesting topography across a depth range of 12–15 metres.
+Located above the Vlamingh Head Lighthouse, Lighthouse Bay is a sanctuary zone where fishing and anchoring are prohibited, producing notably abundant fish life in an area seldom disturbed. The underwater landscape is characterised by rocky outcrops, coral ledges, and deep cracks in the seabed that create interesting topography across a depth range of 12–14 metres (individual sub-sites such as The Labyrinth run slightly deeper, to 18m).
 
 All three sub-sites within the bay are accessible on a single boat trip. Dive Ningaloo operates double-dive tours here, with all diving suitable for beginners and Discover Scuba participants. Marine life includes reef sharks, moray eels, giant cod, lionfish, schooling glassfish, sea snakes, turtles, and a variety of hard and soft corals. Between March and July, whale sharks aggregate in the nearby open water, and oceanic manta rays visit seasonally.
 
@@ -32,4 +32,4 @@ All three sub-sites within the bay are accessible on a single boat trip. Dive Ni
 - **Sub-sites**: Blizzard Ridge, The Labyrinth, Gullivers
 
 ---
-*Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Ningaloo Whale Sharks — Exmouth Diving](https://www.ningaloowhalesharks.com/exmouth-diving/), [Tech Dive Travels — Ningaloo Sites](https://techdivetravels.com/top-destinations/dive-sites-australia-new-zealand/dive-sites-in-ningaloo-reef/). Last updated 2026-06-18.*
+*Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Ningaloo Whale Sharks — Exmouth Diving](https://www.ningaloowhalesharks.com/exmouth-diving/), [Tech Dive Travels — Ningaloo Sites](https://techdivetravels.com/top-destinations/dive-sites-australia-new-zealand/dive-sites-in-ningaloo-reef/). Last updated 2026-08-15.*

@@ -13,8 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "diveningaloo.com.au,scubaboard.com,divezone.net",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "diveningaloo.com.au,scubaboard.com,divezone.net,ningaloowhalesharks.com,brookepykephotography.com",
+      "qa_note": "Re-audit 2026-08-15: Dive Ningaloo's own site currently states the pier is closed for extensive maintenance pending Department of Defence updates; access status should be verified before travel. All other facts confirmed unchanged.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -32,7 +33,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diveningaloo.com.au,ningaloowhalesharks.com,techdivetravels.com",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -49,8 +50,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "exploreparks.dbca.wa.gov.au,snorkelspots.com,thediveglobe.com",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "exploreparks.dbca.wa.gov.au,snorkelspots.com,thediveglobe.com,snorkeling-report.com",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -68,7 +69,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "snorkelspots.com,ultimatewatersports.com.au,trailswa.com.au",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -85,8 +86,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "exploreparks.dbca.wa.gov.au,aussiemarineadventures.com.au,diveningaloo.com.au",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "exploreparks.dbca.wa.gov.au,aussiemarineadventures.com.au,diveningaloo.com.au,pro-taucher.com",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -95,7 +96,7 @@
     "lon": 113.95,
     "osm_id": null,
     "osm_type": null,
-    "depth": 3,
+    "depth": 5,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -104,7 +105,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "thelifeofpy.com,snorkelspots.com,drinkteatravel.com",
-      "last_qa_date": "2026-06-18"
+      "qa_note": "Re-audit 2026-08-15: depth corrected from 3m to 5m — thelifeofpy.com now documents 1-5m depth range at the sanctuary zone (previously only 1-3m was documented).",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -121,8 +123,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "padi.com,diveningaloo.com.au,scubadiving.com",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "padi.com,diveningaloo.com.au,scubadiving.com,greatestdivesites.com,divebooker.com",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -139,9 +141,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "liveaboard.com,wikipedia.org,exploreparks.dbca.wa.gov.au",
-      "qa_note": "Clerke Reef is part of the Rowley Shoals, located ~260km west of Broome, NOT part of Ningaloo Reef. This site is misplaced in this destination dataset. Rowley Shoals coordinates used (-17.28, 119.35). Recommend moving to a rowley-shoals destination.",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "liveaboard.com,wikipedia.org,exploreparks.dbca.wa.gov.au,scubadiverlife.com,marinewaters.fish.wa.gov.au",
+      "qa_note": "Clerke Reef is part of the Rowley Shoals, located approximately 260-300km west of Broome (sources vary), NOT part of Ningaloo Reef. This site is misplaced in this destination dataset. Rowley Shoals coordinates used (-17.28, 119.35). Recommend moving to a rowley-shoals destination. Re-audit 2026-08-15: species counts corrected to 233 coral / 688 fish species per WA Dept of Fisheries fact sheet; previously unsupported '40m wall depth' claim for Jimmy Goes to China removed (sources confirm only the wall's 10-20m top depth).",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -159,7 +161,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diveadvisor.com,aussiemarineadventures.com.au,whalesharktours.com.au",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -176,8 +178,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "diveningaloo.com.au,moniqueliveslife.com,exmouthresort.net.au",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "diveningaloo.com.au,moniqueliveslife.com,exmouthresort.net.au,aussiemarineadventures.com.au",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -194,8 +196,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "sailningaloo.com.au,divingwawrecks.com,shipwreckswa.com",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "sailningaloo.com.au,divingwawrecks.com,shipwreckswa.com,museum.wa.gov.au",
+      "qa_note": "Re-audit 2026-08-15: Cross-checked all three wrecks against the WA Museum Maritime Archaeology Database. Fin: iron whaler, built 1881, 93 tons, driven ashore at anchor (museum record) vs. earlier sources describing an 1923 cyclone wreck — sources also disagree on whether the vessel was the Fin or a sister ship Fynd (per Stanbury 1984 research cited by the museum record). Zvir: steel screw steamer built 1900 (Priestman & Co, Sunderland), 100.2m, 3,353 gross tons, ran aground 27 Nov 1902 carrying sugar from Java to Port Adelaide — confirmed by 2 independent sources. SS Perth: iron passenger/cargo steamer built 1863 (Glasgow), 58.5m, ~499 tons, struck the reef 17 Sept 1887 en route Fremantle-Wyndham with 63 passengers — confirmed by 2 independent sources.",
+      "last_qa_date": "2026-08-15"
     }
   },
   {
@@ -213,7 +216,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "exploreparks.dbca.wa.gov.au,snorkelspots.com,australiascoralcoast.com",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15"
     }
   }
 ]

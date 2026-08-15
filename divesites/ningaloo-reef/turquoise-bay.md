@@ -17,7 +17,7 @@ Turquoise Bay is one of Western Australia's most celebrated beaches, offering a 
 
 ## Overview
 
-Turquoise Bay sits within Cape Range National Park, where the Ningaloo Reef comes unusually close to shore. The site is primarily a snorkel destination: a natural current running along the bay's southern end carries swimmers over a continuous shallow coral garden at depths of 3–6 metres, with sea turtles, reef sharks, and dense schools of parrotfish, wrasse, and butterflyfish regularly encountered in the drift.
+Turquoise Bay sits within Cape Range National Park, where the Ningaloo Reef comes unusually close to shore. The site is primarily a snorkel destination: a natural current running along the bay's southern end carries swimmers over a shallow coral garden, with sea turtles, reef sharks, and dense schools of parrotfish, wrasse, and butterflyfish regularly encountered in the drift. Depth over the main drift runs roughly 1.5–4 metres depending on tide (3–4m at high tide, 1.5–3m at low tide), though sections of the wider reef reach 5–8 metres.
 
 The drift begins at the bay's southern end (accessed via the Drift Loop car park) and runs northward, returning snorkelers back to the beach. The current can be strong, particularly around the northern sandbar, and the Parks WA advisory is that the drift is suitable for confident swimmers only. Visibility on calm days reaches 20 metres or more.
 
@@ -33,4 +33,4 @@ No scuba dive operator lists Turquoise Bay as a guided dive destination — the 
 - **Tides/Currents**: Natural longshore current — drift runs south to north; northern sandbar requires caution
 
 ---
-*Sources: [Explore Parks WA — Turquoise Bay](https://exploreparks.dbca.wa.gov.au/site/turquoise-bay), [Snorkel Spots — Turquoise Bay](https://snorkelspots.com/turquoise-bay-drift-snorkel/), [The Dive Globe — Turquoise Bay](https://www.thediveglobe.com/app/ja/dive/turquoise-bay-ningaloo), [Drink Tea Travel Ningaloo Guide](https://drinkteatravel.com/guide-to-visiting-ningaloo-reef-swim-snorkel-dive-and-more/). Last updated 2026-06-18.*
+*Sources: [Explore Parks WA — Turquoise Bay](https://exploreparks.dbca.wa.gov.au/site/turquoise-bay), [Snorkel Spots — Turquoise Bay](https://snorkelspots.com/turquoise-bay-drift-snorkel/), [The Dive Globe — Turquoise Bay](https://www.thediveglobe.com/app/ja/dive/turquoise-bay-ningaloo), [Drink Tea Travel Ningaloo Guide](https://drinkteatravel.com/guide-to-visiting-ningaloo-reef-swim-snorkel-dive-and-more/), [Snorkeling Report — Turquoise Bay](https://www.snorkeling-report.com/spot/snorkeling-turquoise-bay-australia/). Last updated 2026-08-15.*
