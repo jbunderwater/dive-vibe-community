@@ -8,13 +8,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,newcaledonia.travel",
+    "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,newcaledonia.travel,justgottadive.com",
     "tags": {
       "name": "Gorgonia Valley",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15",
+      "qa_note": "Re-audit 2026-08-15 (4 independent domains). Removed 'eagle rays' claim -- no source confirms eagle rays at this specific site (likely confused with Boulari Pass or a generic regional list); this was a hallucination surviving the prior QA pass. Added pygmy seahorses, confirmed by newcaledonia.travel and justgottadive.com ('Beyond the Garden of Eden'). Depth conflict: McFadyen reports the wall running 10m to 35m+; justgottadive.com's separate trip report gives a maximum of 50m for the same site. Both figures now noted in the markdown rather than picking one."
     }
   },
   {
@@ -26,13 +27,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,newcaledonia.travel,newcaledonia.co.nz",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Oupere Grotto",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15",
+      "qa_note": "Re-audit 2026-08-15: of the 3 previously-listed sources, only michaelmcfadyenscuba.info (page_id=498) actually names and describes Oupere Grotto -- newcaledonia.travel's diving page does not mention it by name (it describes a separate 'Gadji Cave' entry that cannot be confirmed as the same site), and newcaledonia.co.nz (things-to-do-in-isle-of-pines) now 404s. Removed both from validation_source rather than pad the count. Per instructions, validated left as-is since the underlying McFadyen description (caves/tunnels/arches, 5m reef top descending beyond 30m) is unchanged and credible, but this site does NOT currently meet the 3-independent-domain bar -- flagged as unresolved. Left as a candidate for further dive-shop research."
     }
   },
   {
@@ -44,14 +46,14 @@
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "newcaledonia.travel,justgottadive.com,newcaledonia.co.nz",
+    "validation_source": "newcaledonia.travel,justgottadive.com,sudtourisme.nc",
     "tags": {
       "name": "Devils Grotto",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18",
-      "qa_note": "Water is freshwater per New Caledonia Tourism official site and multiple sources. McFadyen description 'nominally fresh (actually saline)' contradicts official sources and is not supported by other independent accounts."
+      "last_qa_date": "2026-08-15",
+      "qa_note": "Re-audit 2026-08-15: newcaledonia.co.nz (previously cited) now 404s; replaced with sudtourisme.nc, which independently confirms freshwater, the Kere-tribe/airfield-road location, and the N2/50-dive minimum for the Kunie Scuba Centre cave dive. 3 independent domains (newcaledonia.travel, justgottadive.com, sudtourisme.nc) now all agree the pool is freshwater and max depth is 6m, reconfirming the prior QA's rejection of McFadyen's lone 'nominally fresh (actually saline)' claim."
     }
   },
   {
@@ -69,8 +71,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18",
-      "qa_note": "Depth corrected from 21m to 26m (newcaledonia-diving.com max 26m; scubadiverlife.com reports 30m/98ft max). Shark feeding was banned by New Caledonia government in 2012 per newcaledonia-diving.com."
+      "last_qa_date": "2026-08-15",
+      "qa_note": "Re-audit 2026-08-15: depth is genuinely disputed across all 3 independent sources -- newcaledonia-diving.com states avg 18m/max 26m; McFadyen's dive log describes dropping to 21m on the reef side and rising to ~15m in the pass itself; scubadiverlife.com states avg 15m (49ft)/max 30m (98ft). All three figures now noted in the markdown instead of picking one. Manta ray reputation strongly reconfirmed (McFadyen: 7 mantas in one dive incl. a formation of 5; newcaledonia-diving.com and scubadiverlife.com both confirm mantas as the headline draw). Shark-feeding ban (2012) reconfirmed via newcaledonia-diving.com and a secondary web search on New Caledonia's 2012 shark-feeding/fishing ban; McFadyen's own feeding-demonstration account predates the ban and is now framed as a historical account, not current practice."
     }
   },
   {
@@ -82,14 +84,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "en.wikipedia.org,newcaledonia-diving.com,michaelmcfadyenscuba.info",
+    "validation_source": "en.wikipedia.org,newcaledonia-diving.com,michaelmcfadyenscuba.info,plongee-infos.com",
     "tags": {
       "name": "La Dieppoise",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18",
-      "qa_note": "Vessel was HMCS Chaleur (not HMCS Chaleur Bay). McFadyen page uses incorrect name. Confirmed by Wikipedia (HMCS Chaleur MCB 144), Military History Fandom Wiki. Length 46m / 390 tons displacement / scuttled 19 Jan 1988 confirmed across multiple sources."
+      "last_qa_date": "2026-08-15",
+      "qa_note": "Re-audit 2026-08-15: added plongee-infos.com (French wreck-history source) as a 4th independent domain. New conflicts surfaced on cross-check: length reported as 46m (Wikipedia, McFadyen) vs 50m (plongee-infos.com); displacement reported as 390 long tons (Wikipedia, McFadyen) vs 370 tonnes (plongee-infos.com); pennant number given as P655 (McFadyen, plongee-infos.com) vs P665 (newcaledonia-diving.com, likely a typo). Both length and tonnage ranges now written into the markdown as sourced disagreements rather than a single picked figure, per wreck-history policy. Build/launch date (laid down 8 Jun 1951, launched 21 Jun 1952), scuttling date (19 Jan 1988, delayed from 12 Jan by Cyclone Anne, via controlled explosives at bow/stern) and vessel identity (ex-HMCS Chaleur, MCB 144) remain confirmed across all 4 sources. Wreck condition softened from 'remarkably intact' to reflect that newcaledonia-diving.com and plongee-infos.com both describe significant wooden-hull deterioration that has opened up the interior compartments, rather than an intact structure. Zentacle.com listing found during research (sinking date '7/08/1996', depth 65.6ft) contradicts every other source and was excluded as unreliable, not cited."
     }
   },
   {
@@ -101,13 +103,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,newcaledonia.travel,scubago.com",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "False Pass",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-15",
+      "qa_note": "Re-audit 2026-08-15: located and confirmed the specific McFadyen page for this site (page_id=508, titled 'False Pass - Noumea, New Caledonia', plus a matching narrative passage on page_id=509 captioned 'A magnificent gorgonia at False Pass' describing the 25m tunnel exiting at 32m, turtle/tuna/trevally/grouper encounter). This is genuinely 2 corroborating passages but both are on the same domain. Extensively searched for independent confirmation (ScubaBoard, Poum/Malabou operator sites, worldadventuredivers.com, farandawayadventures.com, thescubanews.com, newcaledonia.travel Poum/Koumac guide, scubago.com) -- none contain site-specific False Pass content; newcaledonia.travel and scubago.com were removed from validation_source as they do not actually name or describe this site. A ScubaBoard-derived 'Fausse Passe' description (3-12m, sandy plateau) was also found but could not be geolocated to this Poum-area site and was not used -- it likely refers to a different, similarly-named pass elsewhere in the lagoon. Per instructions, validated left as-is since content is unchanged and credible, but flagged as unresolved for the 3-independent-domain bar."
     }
   },
   {
@@ -119,14 +122,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,newcaledonia.travel,scubago.com",
+    "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Les Pitons",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18",
-      "qa_note": "Prior QA flagged potential misclassification as cave (may be pinnacle/wall). Insufficient independent sources found to confirm correction. Site_type left as 'cave' pending further research. McFadyen description mentions caves, tunnels, and surrounding reef walls. Depth of 30m not independently confirmed."
+      "last_qa_date": "2026-08-15",
+      "qa_note": "Re-audit 2026-08-15 -- SIGNIFICANT FINDING: on McFadyen's own site, 'Les Pitons' is only a bare, empty navigation heading (page_id=509) with no accompanying description; the caves/tunnels/holes/bays/'totally surrounded by reef' description previously published under this site name is verbatim from McFadyen's page literally titled 'False Pass - Noumea, New Caledonia' (page_id=508). No independent source (searched newcaledonia.travel, scubago.com, worldadventuredivers.com, farandawayadventures.com) names a distinct 'Les Pitons' dive site at all. This may not be a genuine standalone site separate from False Pass, or may simply be undocumented online. Prior QA (2026-06-18) had already flagged type uncertainty here; this pass adds identity uncertainty on top. Markdown rewritten to disclose this explicitly. Per instructions, validated left as-is pending resolution, but flagged as unresolved -- recommend either merging/removing this entry or sourcing it directly from a Poum-area dive operator (Pacific Diving / Malabou Beach Resort) in a future pass."
     }
   },
   {
@@ -138,14 +141,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info,au.newcaledonia.travel,snorkeling-report.com",
+    "validation_source": "newcaledonia.travel,snorkeling-report.com,freestyletraveling.com",
     "tags": {
       "name": "Amadee Island Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18",
-      "qa_note": "Species count claim '200+ fish species, 80 coral species' removed from markdown. Not confirmed by any authoritative source found during QA."
+      "last_qa_date": "2026-08-15",
+      "qa_note": "Re-audit 2026-08-15: replaced the homepage-only michaelmcfadyenscuba.info citation (no specific Amadee page could be located on his site) with freestyletraveling.com, which independently confirms the sea snake population and turtle sightings at Amadee specifically. 3 independent domains now: newcaledonia.travel (amedee-lighthouse), snorkeling-report.com, freestyletraveling.com. Removed 'parrotfish' from marine life -- not confirmed by any source found for this specific site (snorkeling-report.com's confirmed list is triggerfish, angelfish, clownfish, butterflyfish, wrasses, groupers, trevally, porcupinefish, razorfish, occasional whitetip reef sharks, dugongs). A solopassport.com trip report describing manta rays and a grey nurse shark on an 'Amedee' dive was found but excluded -- those species read as a Boulari Pass encounter bundled into the same boat trip, not confirmed as occurring on the shallow reef immediately around the island."
     }
   }
 ]

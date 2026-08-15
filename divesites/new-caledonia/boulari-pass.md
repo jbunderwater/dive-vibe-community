@@ -13,13 +13,13 @@ addedBy: osm_import
 
 # Boulari Pass
 
-A drift dive through the outer barrier reef near Amadee Island, famous as one of the best sites in New Caledonia for manta ray encounters. Reef sharks, barracuda, and large fish in the pass. Average depth 18 meters, maximum 26 meters.
+A drift dive through the outer barrier reef near Amadee Island, famous as one of the best sites in New Caledonia for manta ray encounters. Reef sharks, barracuda, and large fish in the pass. Sources disagree on the exact depth profile: figures range from roughly 15-21 meters average to 26-30 meters maximum.
 
 ## Overview
 
 Boulari Pass is a break in the outer barrier reef near Amadee Island, south of Noumea. The site is dived as a drift, riding the tidal current through the pass where nutrient-rich water from the open ocean funnels into the lagoon. This concentration of nutrients attracts large marine life, making Boulari Pass one of the premier big-animal dive sites in New Caledonia.
 
-The pass is famous for manta ray encounters — the mantas come to the pass to feed on plankton concentrated by the tidal flow. Reef sharks (grey reef and whitetip) are resident, and barracuda schools patrol the pass. The pass has an average depth of 18 meters and a maximum depth of approximately 26 meters. The site is a designated marine reserve.
+The pass is famous for manta ray encounters — the mantas come to the pass to feed on plankton concentrated by the tidal flow; one dive-log account describes seven mantas on a single dive, including a formation of five approaching together. Reef sharks and large groupers are resident, and barracuda schools patrol the pass. Depth is reported inconsistently across sources: the local operator newcaledonia-diving.com gives an average of 18 meters and a maximum of 26 meters; Michael McFadyen's dive log describes dropping to 21 meters on the reef side of the pass and rising to roughly 15 meters within the pass itself; and Scuba Diver Life reports an average of about 15 meters (49ft) with a 30-meter (98ft) maximum. This description uses the operator's 18m/26m figures as the primary reference but treat all of these as approximate. The site is a designated marine reserve.
 
 ## Site Information
 
@@ -35,7 +35,7 @@ The pass is famous for manta ray encounters — the mantas come to the pass to f
 
 ## Marine Life
 
-Manta rays are the headline attraction, drawn to the pass year-round by plankton concentrations; sightings are most reliable from September to December. Grey reef sharks and whitetip reef sharks are resident. Large schools of barracuda patrol the pass. Trevally, large groupers, and sea turtles are regularly sighted. Note: shark feeding at this site was banned by the New Caledonia government in 2012. It is no longer practised.
+Manta rays are the headline attraction, drawn to the pass year-round by plankton concentrations; sightings are most reliable from September to December. Reef sharks and large groupers are resident, confirmed across all three sources consulted. Trevally are regularly reported. McFadyen's dive log describes a historical shark-feeding demonstration during his visit, but this was banned by the New Caledonia government in 2012 as part of a wider ban on shark feeding and fishing, and is no longer practised at this or any other New Caledonia site -- his account should be read as historical, not current practice.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Access by dive boat from Noumea -- approximately 40 minutes to the Amadee Island
 The tidal current through the pass can be strong — this drift dive requires comfort with current diving. Stay with the group and follow the guide's signals. Deploy an SMB well before surfacing for boat pickup.
 
 ---
-*Sources: [New Caledonia Diving — Boulari Passage](https://newcaledonia-diving.com/fundive/halfdaytrips/Boulari/BoulariUk.html), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=505), [Scuba Diver Life — Best Diving in New Caledonia](https://scubadiverlife.com/best-diving-new-caledonia/). Note: Shark feeding at Boulari Pass was banned by the New Caledonia government in 2012 per newcaledonia-diving.com. Depth corrected from 21m (JSON) to 26m maximum (avg 18m) per newcaledonia-diving.com; scubadiverlife.com reports a 30m maximum. Last updated 2026-06-18.*
+*Sources: [New Caledonia Diving — Boulari Passage](https://newcaledonia-diving.com/fundive/halfdaytrips/Boulari/BoulariUk.html), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=505), [Scuba Diver Life — Best Diving in New Caledonia](https://scubadiverlife.com/best-diving-new-caledonia/). Re-audited 2026-08-15: all 3 sources reconfirmed independently. Depth figures conflict across all three (18m/26m vs 21m/15m vs 15m/30m) and are now presented as a range rather than a single number. Shark feeding ban (2012) reconfirmed; McFadyen's feeding account is now explicitly framed as pre-ban history. Last updated 2026-08-15.*

@@ -13,13 +13,13 @@ addedBy: osm_import
 
 # Les Pitons
 
-A protected corner of reef near Poum in northern New Caledonia, featuring numerous caves, tunnels, holes, and bays. Divers are totally surrounded by reef with narrow tunnel exits. Good coral and fish life in pristine, rarely dived conditions.
+A named dive site near Poum in northern New Caledonia, adjacent to False Pass. Important caveat from 2026-08-15 re-audit: the caves/tunnels/holes/bays description below cannot currently be confirmed as belonging to a site genuinely distinct from False Pass -- see the Overview and sources footer for details.
 
 ## Overview
 
-Les Pitons is located near Poum at the far northern tip of Grande Terre, adjacent to the False Pass dive site. The name refers to the pinnacle-like reef formations that create a complex underwater landscape of caves, tunnels, holes, and small bays. The defining characteristic of this dive is the sense of immersion -- at times, divers find themselves completely surrounded by reef walls, with only narrow tunnel exits leading back to open water.
+Les Pitons is listed near Poum at the far northern tip of Grande Terre, adjacent to the False Pass dive site, in the original site scrape for this destination. During deep re-audit, however, no source could be found that describes a dive site named "Les Pitons" independently of False Pass. On Michael McFadyen's dive site (the origin of most of this destination's data), "Les Pitons" appears only as a bare navigation heading with no accompanying text, while the "numerous caves, tunnels, holes and bays" / "totally surrounded by the reef, with only a narrow tunnel or pass to exit" description previously published here is copied verbatim from his page titled "False Pass - Noumea, New Caledonia." It is possible "Les Pitons" refers to a real, separate pinnacle formation in the same reef area that simply isn't documented online, or it may be a naming artifact from an earlier data scrape. Readers should treat the specific claims below as unconfirmed pending direct research with a Poum-area dive operator (e.g. Pacific Diving at Malabou Beach Resort).
 
-The remote northern location, 410 kilometres from Noumea, means this site sees minimal diving traffic. The reef is in excellent condition with good coral coverage and abundant fish life. The caves and tunnels vary in size, from tight passages to larger chambers, and the interplay of light through the various openings creates atmospheric conditions throughout the dive.
+If a distinct site does exist here, the name suggests pinnacle-like reef formations creating a complex underwater landscape of caves, tunnels, holes, and small bays similar to the reef complex described for False Pass -- but this cannot be stated as confirmed fact for this specific site name. The remote northern location, 410 kilometres from Noumea, means any site in this area would see minimal diving traffic and likely be in excellent condition, consistent with the broader Poum reef's reputation for pristine, rarely-dived conditions.
 
 ## Site Information
 
@@ -35,11 +35,11 @@ The remote northern location, 410 kilometres from Noumea, means this site sees m
 
 ## Marine Life
 
-The caves and tunnels shelter a variety of reef species. The good coral condition supports diverse fish communities including butterflyfish, angelfish, and groupers. The protected bays within the reef structure concentrate fish life. The pristine, rarely dived conditions mean larger and less wary fish than around more popular dive areas.
+No marine life claims for this site name could be independently confirmed during the 2026-08-15 re-audit. The general Poum reef area (which includes the confirmed False Pass site) is documented to hold marlin, multiple shark species, tuna, trevally, grouper, and large gorgonian fans, and similar species may well be encountered here -- but attributing them specifically to "Les Pitons" would not be supported by any source found.
 
 ## Dive Profile
 
-Enter the water near the pinnacle formations and navigate through the caves, tunnels, and bays. The maximum depth reaches approximately 30 meters in some of the deeper passages. The enclosed bays provide sheltered areas to observe fish life. Navigate through the narrow tunnel exits to move between different sections of the reef. The multiple passages and bays allow for extended exploration -- it is easy to spend an entire dive discovering new routes through the formation.
+Given the identity uncertainty described above, no site-specific dive profile can be confirmed. If diving a site under this name locally, expect a profile broadly similar to the nearby, well-documented False Pass reef complex: caves, tunnels, holes, and bays with depths in the 20-30 meter range, per the general Poum reef characterization on Michael McFadyen's site.
 
 ## Entry and Exit
 
@@ -47,14 +47,13 @@ Access requires a dive boat from Poum or a liveaboard -- this is an extremely re
 
 ## Tips and Recommendations
 
-- The narrow tunnel exits between reef-enclosed bays are the signature experience -- take time to pause and appreciate the surroundings before swimming through
-- A torch is useful for illuminating cave interiors and bringing out coral colours
-- This site pairs naturally with nearby False Pass for a day of exceptional diving
-- The remote location means exceptional reef condition -- take advantage of the pristine conditions
+- Confirm with a local Poum-area operator (e.g. Pacific Diving / Malabou Beach Resort) exactly which formation they mean by "Les Pitons" before relying on this page for dive planning
+- If a narrow-tunnel, reef-enclosed-bay formation is what's meant, a torch is useful for illuminating cave interiors
+- The remote location means exceptional reef condition throughout this part of the lagoon -- take advantage of the pristine conditions
 
 ## Safety Considerations
 
 The caves and tunnels create overhead environments. While the passages generally have visible exit points, maintain awareness of your position and nearest exit throughout. Some tunnels are narrow -- maintain good buoyancy and avoid forcing through tight spaces. The 30-meter maximum depth requires appropriate gas management. The remote location means medical facilities are distant; dive conservatively.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [New Caledonia Tourism — Poum](https://www.newcaledonia.travel/destination/west-coast/best-things-to-do-in-poum-koumac/), [ScubaGo — New Caledonia](https://www.scubago.com/en/explore/destination/new-caledonia-9749638). Note: Prior QA flagged potential site_type misclassification (may be pinnacle/wall rather than cave). Insufficient independent sources were found to confirm correction. The site_type "cave" is retained based on McFadyen's description of caves, tunnels, and enclosed reef bays. The 30m depth is from McFadyen only. Recommend further research via local operators at Poum. No site-specific marine life with confirmed species was found from independent sources. Last updated 2026-06-18.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=509). Re-audited 2026-08-15 -- SIGNIFICANT FINDING: on direct inspection, page_id=509 (the page linked to "Les Pitons" in McFadyen's site navigation) contains only a bare heading with no "Les Pitons" content; the caves/tunnels/holes/bays text previously published on this page is instead verbatim from McFadyen's separate page explicitly titled "False Pass - Noumea, New Caledonia" (page_id=508). No independent source names a distinct "Les Pitons" dive site. The previously-cited New Caledonia Tourism and ScubaGo pages were checked directly and contain no Poum dive-site-specific content, so they were dropped rather than kept as padding. This entry needs either (a) direct confirmation from a Poum-area operator that a genuinely distinct "Les Pitons" site exists, or (b) merging/removal if it turns out to be a duplicate of False Pass. Flagged as unresolved. Last updated 2026-08-15.*
