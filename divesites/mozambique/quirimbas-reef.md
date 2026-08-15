@@ -25,7 +25,7 @@ Confirmed marine life for the archipelago overall includes over 350 species of r
 
 **Security note:** As of early 2026, at least one major dive operator (Original Diving) has suspended dive holidays to the Quirimbas Archipelago due to the security situation in Cabo Delgado Province (ongoing since 2017). Travellers should check current Foreign Office and operator advisories before planning a trip to this region.
 
-The previous description attributed whale sharks and humpback whales as features of "Quirimbas Reef" — these are regional characteristics of the archipelago generally, not confirmed for any single site by this name.
+The previous description attributed whale sharks and humpback whales as features of "Quirimbas Reef" — these are regional characteristics of the archipelago generally, not confirmed for any single site by this name. Re-checked 2026-08-15 against fresh searches on Zala Bank, Rush Hour, and Medjumbe: none of the archipelago's documented named sites is called "Quirimbas Reef," and still only 2 independent sources discuss this destination at the level of detail needed. This entry remains unvalidated.
 
 ## Site Information
 
@@ -36,4 +36,4 @@ The previous description attributed whale sharks and humpback whales as features
 - **Maximum Depth**: 30 meters
 
 ---
-*Description based on regional diving characteristics of the Quirimbas Archipelago. No site specifically named "Quirimbas Reef" was found in any source. Last updated 2026-06-16.*
+*Description based on regional diving characteristics of the Quirimbas Archipelago. No site specifically named "Quirimbas Reef" was found in any source. Last updated 2026-08-15.*

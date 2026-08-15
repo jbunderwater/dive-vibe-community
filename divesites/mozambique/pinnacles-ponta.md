@@ -32,4 +32,4 @@ The Pinnacles is noted for unbaited shark encounters with up to 19 documented sh
 - **Maximum Depth**: 40 meters
 
 ---
-*Sources: [X-Ray Mag — Mozambique's Ponta do Ouro](https://xray-mag.com/content/mozambiques-ponta-do-ouro), [PADI — Diving Ponta do Ouro](https://www.padi.com/diving-in/mozambique/ponta-do-ouro/), [Mozambique.co.za — Southern Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/southern-mozambique-dive-sites.html), [SCUBA Travel — Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html). Last updated 2026-06-16.*
+*Sources: [X-Ray Mag — Mozambique's Ponta do Ouro](https://xray-mag.com/content/mozambiques-ponta-do-ouro), [PADI — Diving Ponta do Ouro](https://www.padi.com/diving-in/mozambique/ponta-do-ouro/), [Mozambique.co.za — Southern Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/southern-mozambique-dive-sites.html), [SCUBA Travel — Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html). Re-audited 2026-08-15, no corrections needed. Last updated 2026-08-15.*
