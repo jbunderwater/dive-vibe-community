@@ -20,6 +20,8 @@ Blue Holes is a cavern dive located northwest of Ngemelis Island on Palau's west
 
 At the north end of the cavern, at approximately 25–27 meters depth, a narrow entrance leads to a separate, deeper cave system known as Temple of Doom. Fish N Fins explicitly notes this area carries "multiple fatalities" and should only be entered by cave-certified divers with specialist equipment.
 
+Note: PADI's dive site database lists somewhat different figures for this site (openings around 5–10 meters deep and a cavern floor around 30–35 meters) than the more detailed operator accounts from Fish N Fins and Palau Dive Adventures used throughout this page (openings at 1–2 meters, floor at 40 meters). Given the operator sources' greater site-specific detail, their figures are used here, but divers should confirm current conditions with their operator.
+
 ## Site Information
 - **Location**: Northwest of Ngemelis Island, Rock Islands, Palau, Micronesia
 - **Entry Type**: Boat dive
@@ -53,4 +55,4 @@ Although classified as a cavern with multiple exits and natural light visible th
 Blue Holes is one of Palau's premier underwater photography sites. The sunbeam effect through the four holes is best captured with a wide-angle or fisheye lens, exposing for the ambient light. Position yourself near the cavern floor looking up for the most dramatic beam shots. A diver silhouetted in one of the holes adds compelling scale. On the outer wall, wide-angle is essential for capturing the reef topography and passing pelagics.
 
 ---
-*Sources: [Fish N Fins Palau – Blue Holes](https://fishnfins.com/index.php/dive-palau/dive-sites-palau/ngemelis-dives/153-blue-holes-palau), [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [PADI – Blue Holes](https://www.padi.com/dive-site/palau/blue-holes/). Last updated 2026-06-25.*
+*Sources: [Fish N Fins Palau – Blue Holes](https://fishnfins.com/index.php/dive-palau/dive-sites-palau/ngemelis-dives/153-blue-holes-palau), [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [PADI – Blue Holes](https://www.padi.com/dive-site/palau/blue-holes/). Last updated 2026-08-16.*

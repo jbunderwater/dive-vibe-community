@@ -52,4 +52,4 @@ Paradies Corner is one of Palau's more forgiving dive sites, with moderate condi
 Close-focus wide-angle works well for reef scenes with coral formations and schooling fish. The lettuce coral fields are visually distinctive subjects. Macro shooters will find anemonefish and encrusting invertebrates throughout. Calm conditions allow careful composition without fighting current.
 
 ---
-*Sources: [Palau Dive Adventures – Best Dive Sites Palau](https://palaudiveadventures.com/best-dive-sites-palau/), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-06-25.*
+*Sources: [Palau Dive Adventures – Best Dive Sites Palau](https://palaudiveadventures.com/best-dive-sites-palau/), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-08-16.*

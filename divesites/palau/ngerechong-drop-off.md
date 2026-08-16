@@ -16,9 +16,9 @@ addedBy: osm_import
 A wall dive on the southern side of Ngerechong Island in southern Palau, offering a quieter alternative to the famous Ngemelis walls
 
 ## Overview
-Ngerechong Drop-off is a wall dive on the southern side of Ngerechong Island in the less-trafficked southern Rock Islands, approximately 45 minutes by boat from Koror. The wall drops from a shallow coral-topped reef at 3–5 meters to well beyond recreational depth limits. The site receives lower diver traffic than Palau's famous Ngemelis walls, and is typically dived in combination with the nearby Ngerechong North Coral Garden.
+Ngerechong Drop-off is a wall dive on the southern side of Ngerechong Island, part of a horseshoe-shaped reef system in the less-trafficked southern Rock Islands approximately 45 minutes by boat (21 miles/34 km) from Koror, near Denges Passage. The wall drops from a shallow coral-topped reef at 3–5 meters to a sloping sandy bottom reaching approximately 33 meters at its maximum — well beyond recreational limits further out. The site receives lower diver traffic than Palau's famous Ngemelis walls, and is typically dived in combination with the nearby Ngerechong North Coral Garden.
 
-Note: Ngerechong Drop-off receives limited coverage in published dive sources. The basic wall type and depth data are confirmed by OSM tagging and regional operator information. More specific claims about particular coral species, marine life species lists, and site features require additional on-site validation against local operator sources.
+Note: Ngerechong Drop-off receives limited coverage in published dive sources. The wall type and depth data are confirmed by OSM tagging, regional operator information, and a Scuba Diving magazine feature on the area. The nearby Denges Passage is known for rare cuttlefish sightings, but that is a distinct location — cuttlefish are not attributed to this site specifically. More specific claims about particular coral species and detailed marine life lists require additional on-site validation against local operator sources.
 
 ## Site Information
 - **Location**: Ngerechong Island, Rock Islands, Palau, Micronesia
@@ -52,4 +52,4 @@ Standard wall diving precautions apply. The wall drops to extreme depth — moni
 Wide-angle recommended for capturing the wall topography and sea fan gardens. The lower diver traffic allows more time to compose shots. The reef top is excellent for close-focus wide-angle coral photography in natural light.
 
 ---
-*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-06-25.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/), [Scuba Diving – Palau's Lucky Seven](https://www.scubadiving.com/palaus-lucky-seven). Last updated 2026-08-16.*

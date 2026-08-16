@@ -54,4 +54,4 @@ Despite the shallow depth and calm conditions, Chandelier Cave is a true overhea
 Chandelier Cave is a spectacular photography venue. Wide-angle lenses capture the chamber scale and formations, while a torch-wielding buddy provides dramatic rim lighting. Shoot upward at stalactites with a diver for scale. In the air pockets, you can remove your regulator and use a dry camera to photograph the above-water formations. Strobes can backscatter in enclosed environments — a single strobe aimed carefully or off-camera lighting works best.
 
 ---
-*Sources: [Fish N Fins Palau – Chandelier Cave](https://fishnfins.com/index.php/dive-palau/dive-sites-palau/koror-lagoon/144-chandelier-cave), [Palau Dive Adventures](https://palaudiveadventures.com/chandelier-cave/), [Solitude World](https://solitude.world/chandelier-cave-palau/). Last updated 2026-06-25.*
+*Sources: [Fish N Fins Palau – Chandelier Cave](https://fishnfins.com/index.php/dive-palau/dive-sites-palau/koror-lagoon/144-chandelier-cave), [Palau Dive Adventures](https://palaudiveadventures.com/chandelier-cave/), [Solitude World](https://solitude.world/chandelier-cave-palau/). Last updated 2026-08-16.*

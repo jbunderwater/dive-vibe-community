@@ -16,8 +16,8 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "palaudiveadventures.com,dive-the-world.com,pristineparadisepalau.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Limited site-specific sourcing; lettuce coral, Napoleon wrasse, hawksbill turtles confirmed across 3 sources. Detailed depth/current profiles not found in published sources."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: re-searched for additional coverage; no new site-specific sources found beyond the original 3 (palaudiveadventures.com, dive-the-world.com, pristineparadisepalau.com). Existing hedged description (lettuce coral, Napoleon wrasse, hawksbill turtles) confirmed still accurate; no changes made."
     }
   },
   {
@@ -41,8 +41,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "palaudiveadventures.com,fishnfins.com,dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Well-documented site. 13+ shark species recorded. Grey reef sharks primary species confirmed by 3+ sources. Reef hook origin confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: re-fetched palaudiveadventures.com and cross-searched reef-hook origin claim. Confirmed grey reef sharks/Napoleon wrasse/eagle rays/barracuda still the consistently documented species (no basis found for hammerhead, manta, or marlin claims seen on one page, so not added). Reef-hook 'origin' claim softened in markdown \u2014 multiple sources call Palau the technique's birthplace, but at least one dive-industry source (rushkult.com) explicitly notes competing claims of invention; description now reflects that uncertainty rather than stating origin as settled fact."
     }
   },
   {
@@ -65,8 +65,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "fishnfins.com,palaudiveadventures.com,solitude.world",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Depth corrected from 15m to 11m (36ft per Fish N Fins). 5-chamber structure confirmed. Entrance opening diameter 10ft/3m at 12ft/4m depth confirmed across sources."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: fishnfins.com content re-verified unchanged (5 chambers, 3m/10ft entrance diameter at ~4m/12ft depth, mandarin fish reported near entrance rubble). No corrections needed."
     }
   },
   {
@@ -80,7 +80,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "WWII Japanese coastal freighter. Bombed Operation Desecrate One March 30-31 1944; sank evening April 1 1944. Length reported as 285ft (87m) by Fish N Fins or 295ft (90m) by Wrecked In My rEvo — sources conflict. Tonnage reported 1,941 tons (Fish N Fins) or ~2,100 tons (Palau Dive Adventures) — sources conflict. Build year reported 1942 or 1943 — sources conflict. Deck at 30m, keel at 40m, forward kingpost tower at 12m. Coal-burning quadruple-expansion steam engine. Nicknamed Lionfish Wreck. Rediscovered April 1989 by Francis Toribiong and Klaus Lindemann.",
+      "description": "WWII Japanese coastal freighter. Bombed Operation Desecrate One March 30-31 1944; sank evening April 1 1944. Length reported as 285ft (87m) by Fish N Fins or 295ft (90m) by Wrecked In My rEvo \u2014 sources conflict. Tonnage reported 1,941 tons (Fish N Fins) or ~2,100 tons (Palau Dive Adventures) \u2014 sources conflict. Build year reported 1942 or 1943 \u2014 sources conflict. Deck at 30m, keel at 40m, forward kingpost tower at 12m. Coal-burning quadruple-expansion steam engine. Nicknamed Lionfish Wreck. Rediscovered April 1989 by Francis Toribiong and Klaus Lindemann.",
       "historic": "wreck",
       "name": "Chuyo Maru",
       "scuba_diving:depth": "40",
@@ -93,9 +93,9 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
-      "validation_source": "fishnfins.com,wreckedinmyrevo.com,petelepage.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Wreck deep research conducted. Dimension/tonnage/build-year conflicts flagged across 3 sources — not resolved. Sinking date April 1 1944 confirmed by 3 sources. Discovery 1989 by Toribiong/Lindemann confirmed by 3 sources. Lionfish Wreck nickname confirmed. Live ammunition warning added."
+      "validation_source": "fishnfins.com,wreckedinmyrevo.com,petelepage.com,tracesofwar.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: added tracesofwar.com as a 4th independent source. It reports build year 1942 (vs. 1943 per fishnfins.com) and length 295ft/90m (vs. 285ft/87m per fishnfins.com); tonnage 1,941 tons is consistent across sources. Conflicts remain unresolved across all 4 sources and are stated as a range/conflict in the description rather than picked. Sinking date (1 April 1944), Operation Desecrate One context, and 1989 rediscovery by Toribiong/Lindemann re-confirmed unchanged."
     }
   },
   {
@@ -118,9 +118,9 @@
       "scuba_diving:type:sand": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "palaudiveadventures.com,fishnfins.com,dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Mandarin fish confirmed by 3 sources as key attraction. Specific critter species claims (seahorses, ghost pipefish, Spanish dancers) not confirmed by 3 independent sources at this specific channel — removed from description, retained as regional notes only."
+      "validation_source": "palaudiveadventures.com,fishnfins.com,dive-the-world.com,zentacle.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: added zentacle.com as a 4th independent source (reviewer-aggregated dive site database), which independently confirms 16.4ft/5m max depth, beginner-level drift dive near Koror's lighthouse, boat access. Zentacle mentions occasional 'big sharks' but this is a single, low-confidence source and was not added to the description. Mandarin fish claim re-confirmed distinct from (but consistent in character with) the separately-named Mandarin Fish Lake site in Risong Bay \u2014 Lighthouse Channel is a real, independently attested site near the Koror lighthouse, not a duplicate/misnamed entry."
     }
   },
   {
@@ -143,8 +143,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "palaudiveadventures.com,fishnfins.com,dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Two-wall corner configuration confirmed (mini Blue Corner). Location west of Ngemelis/German Channel confirmed. Gorgonian fans, grey reef sharks, Napoleon wrasse, turtles confirmed across 3 sources."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: palaudiveadventures.com content re-verified unchanged ('mini Blue Corner' comparison, 27mi/43km SW of Koror, plateau at 1m/3ft, grey reef sharks/blue-stripe snapper/Napoleon wrasse/turtles/eagle rays). No corrections needed."
     }
   },
   {
@@ -168,8 +168,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "palaudiveadventures.com,mustseespots.com,diveplanit.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Depth updated to 22m (cleaning station 18-22m per 3 sources, previously listed as 25m). German Channel history confirmed: blasted 1908-1911 for phosphate transport. Manta species (reef vs oceanic) not confirmed by 3 independent site-specific sources — removed species specifics. Best season Nov-May confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: German Channel construction date corrected. palaudiveadventures.com/german-channel-history specifies the channel was completed in 1911 by the German South Seas Phosphate Company (SAG) as part of phosphate mining operations on Angaur that ran 1909-1913 (236,087 tons extracted 1909-1913 per that source). The previous '1908-1911, blasted for phosphate transport' figure was imprecise on the year range and has been corrected in the markdown. Manta ray species (reef vs. oceanic) still not confirmed at this specific site by any source \u2014 description continues to avoid species attribution."
     }
   },
   {
@@ -191,8 +191,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "palaudiveadventures.com,fishnfins.com,dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Wall and corner configuration confirmed. Grey reef sharks primary species. Lower traffic than Blue Corner confirmed as distinguishing feature."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: fishnfins.com depth (3-5m reef top, 10-20m working zone, 40-50m wall), current, and marine-life details re-verified unchanged. No corrections needed."
     }
   },
   {
@@ -213,8 +213,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "fishnfins.com,palaudiveadventures.com,justgottadive.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "CRITICAL CORRECTION: Depth corrected from 12m to 40m (tunnel floor). Entrance at ~35m (100ft), floor at ~40m (120ft). Tunnel length 90m confirmed by Fish N Fins. Two natural windows confirmed. Deep diving specialty strongly recommended. Previous 12m depth was severely inaccurate and safety-relevant."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: fishnfins.com content re-verified unchanged (90m tunnel length, 35m/100ft entrance, 40m/120ft floor, two natural windows). No corrections needed."
     }
   },
   {
@@ -238,8 +238,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "fishnfins.com,palaudiveadventures.com,ltdive.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Lettuce coral formations 15-20ft high confirmed. Garden eel colonies confirmed. Grey and whitetip reef sharks confirmed. Grouper/snapper spawning aggregations April-July full moons confirmed. Current can reverse mid-dive confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: fishnfins.com content re-verified unchanged (15-20ft lettuce coral formations, garden eel colonies, grey/whitetip reef sharks, April-July full-moon grouper/snapper spawning aggregations). No corrections needed."
     }
   },
   {
@@ -258,8 +258,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "fishnfins.com,palaudiveadventures.com,padi.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "4 holes confirmed at 1-2m depth. Cavern floor at 40m confirmed. Temple of Doom entrance at ~27m confirmed as requiring full cave certification — multiple fatalities per Fish N Fins. Light effects confirmed. Distance from Koror ~30 miles/50-70 min confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: PADI's dive site database (padi.com) lists different hole/floor depths (5-10m openings, 30-35m floor) than the detailed fishnfins.com/palaudiveadventures.com operator accounts (1-2m openings, 40m floor) already used for this description. This is a genuine source conflict, now flagged in the markdown; the more detailed operator figures are retained as primary since PADI's generic database entry lacks Palau-specific detail. Temple of Doom fatality warning and cavern structure re-confirmed unchanged via fishnfins.com."
     }
   },
   {
@@ -277,8 +277,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "palaudiveadventures.com,fishnfins.com,dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Extreme down-currents documented by operators as primary hazard. Grey reef sharks and silvertip sharks confirmed by 3 sources. Rare megafauna (hammerheads, bull sharks, orcas) noted by operators as occasional. Philippine Sea/Pacific Ocean current convergence confirmed. 90-120 min boat ride from Koror confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: re-fetched palaudiveadventures.com and fishnfins.com. 'Extreme down-current' framing softened to match sources, which describe the hazard as very strong, unpredictable current that can sweep divers off the reef toward the open ocean/Peleliu Expressway, rather than specifically vertical down-currents. Hammerhead/bull shark/orca sightings now corroborated by 2 independent operator sources (previously only 1) \u2014 description updated from 'rare' to 'occasional but documented by multiple operators.'"
     }
   },
   {
@@ -299,8 +299,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "palaudiveadventures.com,fishnfins.com,palaubound.wordpress.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Soft corals (violet to pink), leather corals, sea fans confirmed. Pyramid butterflyfish, square anthias, Moorish idols, yellowtail fusiliers confirmed. WWII ball and chain at ~35ft near eastern mooring confirmed. Nurse sharks mentioned by one source (palaudiveadventures.com), not confirmed by 2+ sources — noted with caution."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: shark species claim corrected. Palau Dive Adventures (big-drop-off-palau) reports nurse sharks as a third species alongside grey reef and whitetip; Fish N Fins (149-big-drop-off) instead reports leopard sharks, not nurse sharks. This is a genuine, unresolved source conflict \u2014 markdown now presents both claims explicitly as disputed rather than stating nurse sharks as a confirmed fact from a single source."
     }
   },
   {
@@ -318,9 +318,9 @@
       "scuba_diving:type:reef": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "palaudiveadventures.com,dive-the-world.com,pristineparadisepalau.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Limited site-specific sources available. Reef type confirmed by OSM data and regional operator context. Specific coral density claims and species lists from previous description not confirmed by 3 independent sources — simplified to confirmed facts."
+      "validation_source": "palaudiveadventures.com,dive-the-world.com,pristineparadisepalau.com,scubadiving.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: found a new corroborating source, Scuba Diving magazine's 'Palau's Lucky Seven' (scubadiving.com), which independently confirms this is part of a horseshoe-shaped reef ~21mi/34km SE of Koror near Denges Passage, shallow zone 0-12m, sandy sloping bottom, visibility 20-30m on incoming tide. Denges Passage cuttlefish sightings mentioned by that source are NOT attributed to this site \u2014 they are specific to the separate Denges Passage location and excluded per marine-life accuracy policy."
     }
   },
   {
@@ -338,9 +338,9 @@
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "palaudiveadventures.com,dive-the-world.com,pristineparadisepalau.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Wall type confirmed. Limited site-specific published sources. Species claims from previous description not confirmed by 3 independent sources at this specific site — description simplified to confirmed facts and regional context."
+      "validation_source": "palaudiveadventures.com,dive-the-world.com,pristineparadisepalau.com,scubadiving.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: found a new corroborating source, Scuba Diving magazine's 'Palau's Lucky Seven' (scubadiving.com), which independently confirms max depth ~33m on a sloping sandy bottom, part of the same horseshoe-shaped reef system as Ngerechong North Coral Garden, ~21mi/34km SE of Koror. Denges Passage cuttlefish sightings mentioned by that source are NOT attributed to this site \u2014 excluded per marine-life accuracy policy."
     }
   },
   {
@@ -362,8 +362,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "fishnfins.com,justgottadive.com,palaudiveadventures.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Accessed via Blue Holes cavern. Full cave certification required per Fish N Fins. Multiple fatalities documented by Fish N Fins — this warning added to all descriptions. Cave entrance at ~27m (80-85ft) from Blue Holes confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: re-verified via fishnfins.com Blue Holes page (Temple of Doom section). Fatality warning, full-cave-certification requirement, and ~25-27m/80-85ft entrance depth from within Blue Holes all re-confirmed unchanged."
     }
   },
   {
@@ -390,8 +390,8 @@
       "wreck:visible_at_low_tide": "no",
       "validated": "true",
       "validation_source": "fishnfins.com,wreckedinmyrevo.com,discoverwildlife.com",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "CORRECTION: Previous description stated aircraft was 'shot down during American air raids' — cause of loss is NOT confirmed. Unbent propellers suggest engine not running at water impact; engine failure during takeoff/landing is the leading theory per multiple sources. 'Shot down' claim removed. Aircraft dimensions confirmed via Wikipedia: 11.3m long, 14.5m wingspan. Tail section separated and lies ~6m away heavily obscured by coral (not intact as previously described). Discovered 1994 by local fisherman confirmed by 3 sources. Live ordnance warning added. High tide recommendation for best visibility confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Re-audited 2026-08-16: re-verified via fishnfins.com and discoverwildlife.com. Depth (~12m), condition (fuselage and wing largely intact, tail section separated a few meters away), cause-of-loss uncertainty (unbent propellers suggesting non-combat loss), and 1994 discovery by a local fisherman all re-confirmed unchanged. A lower-quality tertiary source (outono.net) reported a shallower ~6m depth and a more fragmented condition, but this conflicts with our two established, more detailed sources and was not incorporated."
     }
   }
 ]

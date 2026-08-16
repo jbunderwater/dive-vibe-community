@@ -51,4 +51,4 @@ The two-wall corner creates converging currents that can be strong and unpredict
 The gorgonian fans at the corner are best shot with wide-angle, positioning the camera slightly off the wall to show the fans in context against the blue. Pelagic encounters — eagle rays, sharks — are best captured with fast shutter speeds in available light. The violet and pink soft corals provide vivid colour when lit by strobes.
 
 ---
-*Sources: [Palau Dive Adventures – New Drop Off](https://palaudiveadventures.com/new-drop-off/), [Fish N Fins Palau – New Drop Off](https://fishnfins.com/index.php/dive-palau/dive-sites-palau/ngemelis-dives/145-new-drop-off), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php). Last updated 2026-06-25.*
+*Sources: [Palau Dive Adventures – New Drop Off](https://palaudiveadventures.com/new-drop-off/), [Fish N Fins Palau – New Drop Off](https://fishnfins.com/index.php/dive-palau/dive-sites-palau/ngemelis-dives/145-new-drop-off), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php). Last updated 2026-08-16.*
