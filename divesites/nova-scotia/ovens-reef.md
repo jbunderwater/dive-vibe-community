@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Ovens Reef
 
-Ovens Reef is a shallow reef at 12-16 meters near the famous Ovens sea caves, offering accessible beginner-intermediate diving with unique geological features. The site combines reef exploration with access to the dramatic cave formations visible from the surface. Good visibility and stable conditions characterize this location.
+Ovens Reef is a charted rocky formation at approximately 14 metres depth (44.3150°N, 64.2524°W), tagged `natural=reef` in the OpenStreetMap nautical dataset. This coordinate sits close to Rose Bay and The Ovens Natural Park near Lunenburg — the same area where [East Coast Scuba & Watersports lists a confirmed "Ovens Point" dive site](https://www.eastcoastscuba.com/ovens-point-divesite): a beach/shore entry over sandy bottom and rocky ridges, maximum depth 13 m, with lobster and rock formations, a short walk from Cunard's Beach. The proximity and similar depth suggest "Ovens Reef" and "Ovens Point" may refer to the same or an adjacent underwater feature, but the entry_type recorded here (boat) does not match East Coast Scuba's description of a shore/beach entry, and no source explicitly confirms these are the same named site — so this is noted as a plausible match, not a confirmed identity. The previous description's specific claims of "beginner-friendly" diving (superseded by the cold-water minimum-Intermediate policy) and "good visibility and stable conditions" at this exact spot were not independently confirmed and have been removed.
 
 ## Overview
 
@@ -39,10 +39,10 @@ Access by boat. No dedicated dive charter service was identified for this site i
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Check local sea conditions and tidal timing before diving
 - Carry a surface marker buoy (SMB)
 - Bring a dive light for any overhead or low-visibility environments
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-24.*
+*Sources: [East Coast Scuba & Watersports — Ovens Point Dive Site](https://www.eastcoastscuba.com/ovens-point-divesite) (nearby/possibly same site, not confirmed as identical), [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database). No source directly confirms "Ovens Reef" as a named dive site distinct from or identical to "Ovens Point." Last updated 2026-08-16.*

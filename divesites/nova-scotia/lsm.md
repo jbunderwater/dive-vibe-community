@@ -34,6 +34,8 @@ LSM-[??] is an unidentified wreck in the Musquash Estuary, New Brunswick, visibl
 
 This vessel's identity is unknown. It rests alongside the USS LSM-56 in the Musquash Estuary and appears to have been abandoned at approximately the same time (around 1960), but no documentation confirming the hull number or owner has been located. Wikipedia notes that "another unidentified LSM" is at this location and describes it as "capsized in place."
 
+**2026-08-16 re-audit:** No new information found beyond the 2026-03-16 findings; identity remains unconfirmed.
+
 ## Marine Life
 
 Regional marine life in the Bay of Fundy / Musquash Estuary includes Atlantic herring, lobster, rock crab, green urchin, and cold-water anemones. The Musquash Estuary is a federal Marine Protected Area. No site-specific diver species reports were found for this wreck.
@@ -43,4 +45,4 @@ Regional marine life in the Bay of Fundy / Musquash Estuary includes Atlantic he
 Bay of Fundy tidal flows require timed slack-water dives. Cold water year-round (4–12°C) requires a drysuit. Musquash Estuary is a federal Marine Protected Area; consult DFO regulations before diving. The vessel's exact structural condition is unknown — exercise caution.
 
 ---
-*Sources: [Wikipedia — USS LSM-56](https://en.wikipedia.org/wiki/USS_LSM-56), [Wikipedia — Landing Ship Medium](https://en.wikipedia.org/wiki/Landing_Ship_Medium). Last updated 2026-06-24.*
+*Sources: [Wikipedia — USS LSM-56](https://en.wikipedia.org/wiki/USS_LSM-56), [Wikipedia — Landing Ship Medium](https://en.wikipedia.org/wiki/Landing_Ship_Medium). Last updated 2026-08-16.*

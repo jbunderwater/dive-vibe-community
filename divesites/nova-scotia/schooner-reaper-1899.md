@@ -17,6 +17,8 @@ The Reaper was a small wooden schooner wrecked in 1899 near Halifax. Historical 
 
 The previous description's claims that this wreck "remains well-preserved" and sits "in the Shubenacadie Channel" are not source-confirmed. The Shubenacadie Channel reference is incorrect for these coordinates. After 125+ years, wooden structural preservation would typically be limited. No active dive site listings or dive reports were found for this specific wreck in any publicly accessible source.
 
+**2026-08-16 re-audit:** No new information found beyond the 2026-06-24 findings; the 1899 loss and lack of dive-specific sourcing remain unchanged.
+
 ## Overview
 
 Schooner Reaper (1899) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
@@ -41,10 +43,10 @@ Access by boat. No dedicated dive charter service was identified for this site i
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Check local sea conditions and tidal timing before diving
 - Carry a surface marker buoy (SMB)
 - Bring a dive light for any overhead or low-visibility environments
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-24.*
+*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-08-16.*

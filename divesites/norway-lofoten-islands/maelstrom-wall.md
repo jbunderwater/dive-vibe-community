@@ -3,7 +3,7 @@ name: Maelstrom Wall
 lat: 67.9
 lng: 13.0
 difficulty: Advanced
-maxDepth: 32
+maxDepth: 20
 entryType: boat
 siteType: wall
 ref: null
@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Maelstrom Wall
 
-Maelstrom Wall is a curated dive entry representing wall diving in the Moskstraumen area near the southern tip of Lofoten. The site name "Maelstrom Wall" does not appear in operator listings or published dive site directories and may not be an established named site.
+Maelstrom Wall is a curated entry representing the confirmed Moskstraumen dive site near the southern tip of Lofoten. The exact label "Maelstrom Wall" is our own naming, not a term used by any source — but a 2026-08-16 re-audit found a dedicated Zentacle listing for "Moskstraumen" as a real, actively-dived scuba site, which was not available in the previous QA pass. This upgrades the site from "name unconfirmed" to a genuine, source-backed dive location, though the wall-shaped topography implied by our name is still a curated characterization of the terrain rather than a directly sourced description.
 
 ## Overview
 
-The Moskstraumen is one of the strongest tidal current systems in the world, a maelstrom created by tidal exchange through the narrow Moskenesstraumen passage between Moskenesøya and the outlying island of Mosken. The current was famously described by Edgar Allan Poe and Jules Verne, and historically feared by fishermen. It has been documented as a diveable location under strict slack-water conditions.
+The Moskstraumen is one of the strongest tidal current systems in the world, a maelstrom created by tidal exchange through the narrow passage between Moskenesøya and the outlying island of Mosken, with currents reported up to 10.7 knots (Zentacle). The current was famously described by Edgar Allan Poe and Jules Verne, and historically feared by fishermen.
 
-In the area near the Moskstraumen, exposed rocky coastline descends steeply into deep water, creating wall diving terrain. Such sites in tidal environments experience dramatically elevated nutrient delivery that typically supports dense invertebrate communities — anemones, soft corals, and sponges on the wall face, and aggregations of cod, saithe, and halibut in the current-fed water column.
+Zentacle confirms this as a diveable location but is explicit that it should only be attempted with a local guide and a surface marker buoy per diver, describing it as "a very demanding dive." No source we checked reports specific marine life at this site — earlier drafts of this page speculated about anemones, soft corals, sponges, cod, saithe, and halibut based on general assumptions about nutrient-rich tidal environments, but none of that was tied to an actual observation here, so it has been removed rather than presented as fact.
 
-This is a demanding Advanced dive: conditions at this location are extreme outside of slack water, which is brief. Boat positioning in the current requires an experienced skipper. Depth is recorded as approximately 32 metres to the wall base. No operator or independent source has been found that names or describes a dive site here as "Maelstrom Wall." Divers should confirm with local operators (Lofoten Diving, Ballstad) whether guided access to the Moskstraumen area is available and safe.
+**Depth is uncertain.** Zentacle lists a maximum of roughly 20 metres for the Moskstraumen dive itself; an earlier curated estimate for wall terrain near the maelstrom cited approximately 32 metres. We now use the Zentacle figure since it is the only source specific to this named site, but divers should treat the deeper figure as a possible alternate depth for nearby wall terrain rather than a confirmed number for this exact dive.
+
+This is a demanding Advanced dive regardless of the exact depth: the current strength alone (up to 10.7 knots) makes this unsuitable outside brief slack-water windows, and boat positioning requires an experienced skipper. Divers should confirm with local operators (Lofoten Diving, Ballstad) whether guided access to the Moskstraumen area is currently available.
 
 ## Site Information
 
@@ -29,7 +31,7 @@ This is a demanding Advanced dive: conditions at this location are extreme outsi
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters
+- **Maximum Depth**: 20 meters
 
 ---
-*Note: "Maelstrom Wall" as a named site was not confirmed by any operator listing or dive site directory. The Moskstraumen current system is real and documented. Sources: [Wikipedia — Moskstraumen](https://en.wikipedia.org/wiki/Moskstraumen), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway). Last updated 2026-06-24.*
+*Sources: [Zentacle — Moskstraumen](https://www.zentacle.com/Beach/11749/moskstraumen), [Wikipedia — Moskstraumen](https://en.wikipedia.org/wiki/Moskstraumen), [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway). Re-audited 2026-08-16: found a site-specific Zentacle listing that was not available previously, updated depth to match it, and removed speculative marine life. Last updated 2026-08-16.*

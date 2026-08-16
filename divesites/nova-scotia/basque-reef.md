@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Basque Reef
 
-Basque Reef is an offshore rocky reef structure in Cape Breton waters at approximately 36 metres depth, near the historic Basque fishing grounds that operated in the Gulf of St. Lawrence and Atlantic coast off Nova Scotia for centuries. The reef sits in exposed Atlantic conditions with variable currents. No site-specific dive reports were found — the previous description's claims of "Atlantic wolffish, halibut, and deep-water species" at this specific site were not confirmed by any source and have been removed.
+Basque Reef is an offshore rocky reef structure in Cape Breton waters at approximately 36 metres depth, near the historic Basque fishing grounds that operated in the Gulf of St. Lawrence and Atlantic coast off Nova Scotia for centuries. The reef sits in exposed Atlantic conditions with variable currents. No site-specific dive reports were found — the previous description's claims of "Atlantic wolffish, halibut, and deep-water species" at this specific site were not confirmed by any source and have been removed. A 2026-08-16 re-check against Zentacle's full curated Nova Scotia site list (53 named sites) and Wannadive.net again found no listing under this name.
 
 ## Overview
 
@@ -39,10 +39,10 @@ Access by boat. No dedicated dive charter service was identified for this site i
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Check local sea conditions and tidal timing before diving
 - Carry a surface marker buoy (SMB)
 - Bring a dive light for any overhead or low-visibility environments
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-24.*
+*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia), [Zentacle Nova Scotia](https://www.zentacle.com/loc/ca/ns). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-08-16.*

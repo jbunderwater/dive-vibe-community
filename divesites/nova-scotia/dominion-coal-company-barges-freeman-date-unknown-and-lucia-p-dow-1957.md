@@ -17,6 +17,8 @@ Two barges associated with the Dominion Coal Company lie in the southern Halifax
 
 No public online source was found that documents these specific barges as an active dive site or describes their current condition.
 
+**2026-08-16 re-audit:** No new information found beyond the 2026-06-24 findings; still no dive-specific source for this site.
+
 ## Overview
 
 Dominion Coal Company barges Freeman and Lucia P. Dow are a dual-wreck dive site in the Halifax Harbour area, Nova Scotia.
@@ -41,10 +43,10 @@ Access by boat. No dedicated dive charter service was identified for this site i
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Check local sea conditions and tidal timing before diving
 - Carry a surface marker buoy (SMB)
 - Bring a dive light for any overhead or low-visibility environments
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-24.*
+*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-08-16.*

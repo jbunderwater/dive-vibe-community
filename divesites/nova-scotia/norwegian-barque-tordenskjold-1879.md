@@ -19,6 +19,8 @@ The Tordenskjold was a Norwegian sailing barque lost at the entrance to Halifax 
 
 The previous description's claim of "excellent preservation of wooden structures" at 29 metres is unsupported — no dive report source was found confirming the wreck's current condition, and after 140+ years in Halifax Harbour waters, wooden hulls typically have limited remaining structure.
 
+**2026-08-16 re-audit:** No new information found beyond the 2026-06-24 findings; the 1872-vs-1879 date conflict remains unresolved.
+
 ## Site Information
 
 - **Location**: Maugher's Beach, McNabs Island, Halifax Harbour entrance, Nova Scotia
@@ -39,4 +41,4 @@ Access by boat to McNabs Island area. Contact East Coast Scuba & Watersports (Be
 - Wooden wreck may have limited remaining structure after 140+ years
 
 ---
-*Sources: [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [Maugher Beach Lighthouse — NS Lighthouse Preservation Society](https://www.nslps.com/about-ns-lighthouses/lighthouse-lists?c=maugher-beach-lighthouse). Note: sinking date conflicts between sources (1872 vs. 1879); neither confirmed without museum record access. No dive-specific sources found. Last updated 2026-06-24.*
+*Sources: [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [Maugher Beach Lighthouse — NS Lighthouse Preservation Society](https://www.nslps.com/about-ns-lighthouses/lighthouse-lists?c=maugher-beach-lighthouse). Note: sinking date conflicts between sources (1872 vs. 1879); neither confirmed without museum record access. No dive-specific sources found. Last updated 2026-08-16.*

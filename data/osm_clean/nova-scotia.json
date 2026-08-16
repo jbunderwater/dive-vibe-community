@@ -17,8 +17,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-06-24: Name not found in any Nova Scotia dive site database (ECS, Torpedo Rays, PADI, Wannadive, Zentacle, ScubaBoard). May be a navigational/fisheries bank name rather than a recognised dive site. Recommend manual verification with local operators."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-06-24: Name not found in any Nova Scotia dive site database (ECS, Torpedo Rays, PADI, Wannadive, Zentacle, ScubaBoard). May be a navigational/fisheries bank name rather than a recognised dive site. Recommend manual verification with local operators. QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -39,7 +39,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -60,7 +61,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -81,7 +83,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -102,7 +105,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -123,7 +127,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -144,7 +149,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -165,7 +171,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -186,7 +193,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -207,7 +215,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -228,7 +237,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -249,7 +259,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -270,7 +281,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -291,7 +303,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -312,7 +325,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -333,7 +347,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -354,7 +369,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -375,7 +391,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -396,7 +413,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -417,7 +435,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -438,7 +457,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -459,7 +479,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -480,7 +501,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -501,7 +523,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -522,8 +545,8 @@
       "validated": "true",
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-06-24: Confirmed 1950 collision with tanker Island Connector in Halifax Harbour. 7 crew lost. 30m+ wooden two-mast schooner. CRITICAL: Unexploded ordnance on deck confirmed by DFO/BIO Halifax Harbour survey. Location near South End Container Terminal. Sources: bio-oa.ca/halifaxharbour/shipwrecks-eng.php."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-06-24: Confirmed 1950 collision with tanker Island Connector in Halifax Harbour. 7 crew lost. 30m+ wooden two-mast schooner. CRITICAL: Unexploded ordnance on deck confirmed by DFO/BIO Halifax Harbour survey. Location near South End Container Terminal. Sources: bio-oa.ca/halifaxharbour/shipwrecks-eng.php. QA 2026-08-16 (deep re-audit): No new information found beyond 2026-06-24 findings; unchanged."
     }
   },
   {
@@ -544,8 +567,8 @@
       "validated": "true",
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-06-24: Loss confirmed 1899 near Halifax area (struck shoal between Red Buoy and Ives Point, Sheet Harbour route). No dive-specific sources found for this site as an active dive. Coordinates near McNabs Island cluster of Halifax wrecks. Sources: rootsweb HalifaxCountyNSGenWeb, Maritime Museum database."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-06-24: Loss confirmed 1899 near Halifax area (struck shoal between Red Buoy and Ives Point, Sheet Harbour route). No dive-specific sources found for this site as an active dive. Coordinates near McNabs Island cluster of Halifax wrecks. Sources: rootsweb HalifaxCountyNSGenWeb, Maritime Museum database. QA 2026-08-16 (deep re-audit): No new information found beyond 2026-06-24 findings; unchanged."
     }
   },
   {
@@ -566,7 +589,8 @@
       "validated": "true",
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): No new information found beyond 2026-06-24 findings; unchanged."
     }
   },
   {
@@ -587,8 +611,8 @@
       "validated": "true",
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-06-24: Vessel stats confirmed: 8,888 GRT, 495.5ft, built 1939 Glasgow. Torpedoed 22 Feb 1942 by U-96, 25mi SSE Halifax at 44°15'N 63°25'W. 46 of 47 crew lost. OSM coord at McNabs Island may reflect beached afterpart (towed/beached 27 Feb 1942). Coordinate/sinking position discrepancy flagged. Sources: uboat.net, Royal Museums Greenwich."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-06-24: Vessel stats confirmed: 8,888 GRT, 495.5ft, built 1939 Glasgow. Torpedoed 22 Feb 1942 by U-96, 25mi SSE Halifax at 44\u00b015'N 63\u00b025'W. 46 of 47 crew lost. OSM coord at McNabs Island may reflect beached afterpart (towed/beached 27 Feb 1942). Coordinate/sinking position discrepancy flagged. Sources: uboat.net, Royal Museums Greenwich. QA 2026-08-16 (deep re-audit): Re-verified tonnage (8,888 GRT), sinking date (1942-02-22), attacking U-boat (U-96), and casualties (46 of 47 lost) directly against uboat.net and Royal Museums Greenwich. All facts consistent; no corrections needed."
     }
   },
   {
@@ -609,8 +633,8 @@
       "validated": "true",
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-06-24: Aircraft wrecks confirmed at Timmins Cove, McNabs Island (eastcoastscuba/halifaxtrails). Specific identification as Sea Fury and 1952 date NOT confirmed in public online records. RCN operated 74 Sea Fury FB.11s 1948-1956 at HMCS Shearwater. Sources: halifaxtrails.ca, silverhawkauthor.com."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-06-24: Aircraft wrecks confirmed at Timmins Cove, McNabs Island (eastcoastscuba/halifaxtrails). Specific identification as Sea Fury and 1952 date NOT confirmed in public online records. RCN operated 74 Sea Fury FB.11s 1948-1956 at HMCS Shearwater. Sources: halifaxtrails.ca, silverhawkauthor.com. QA 2026-08-16 (deep re-audit): No new information found beyond 2026-06-24 findings; aircraft type/date remain unconfirmed."
     }
   },
   {
@@ -631,8 +655,8 @@
       "validated": "true",
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-06-24: Aircraft type disputed - a similar NS crash (Country Harbour, 1944) was misidentified as Hudson but confirmed as Ventura by Atlantic Canada Aviation Museum. Aircraft wrecks confirmed at Timmins Cove area. Specific Hudson identification not confirmed from public records. Sources: madiganstories.com, halifaxtrails.ca."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-06-24: Aircraft type disputed - a similar NS crash (Country Harbour, 1944) was misidentified as Hudson but confirmed as Ventura by Atlantic Canada Aviation Museum. Aircraft wrecks confirmed at Timmins Cove area. Specific Hudson identification not confirmed from public records. Sources: madiganstories.com, halifaxtrails.ca. QA 2026-08-16 (deep re-audit): No new information found beyond 2026-06-24 findings; Hudson-vs-Ventura identification remains unresolved."
     }
   },
   {
@@ -653,8 +677,8 @@
       "validated": "true",
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-06-24: Vessel name unknown, registered Virginia state. No named American brig wrecked near Halifax in 1824 found in public online records. Source only Maritime Museum On The Rocks database (no longer directly accessible). No dive-specific sources found."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-06-24: Vessel name unknown, registered Virginia state. No named American brig wrecked near Halifax in 1824 found in public online records. Source only Maritime Museum On The Rocks database (no longer directly accessible). No dive-specific sources found. QA 2026-08-16 (deep re-audit): No new information found beyond 2026-06-24 findings; unchanged."
     }
   },
   {
@@ -675,8 +699,8 @@
       "validated": "true",
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-06-24: Wreck location confirmed at Maugher's Beach, McNabs Island. Date conflict: sources give 1872 vs 1879; neither independently confirmed. Vessel lost control tacking into Halifax Harbour, no casualties. No dive-specific sources found. Sources: Maritime Museum/NS Lighthouse Preservation Society."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-06-24: Wreck location confirmed at Maugher's Beach, McNabs Island. Date conflict: sources give 1872 vs 1879; neither independently confirmed. Vessel lost control tacking into Halifax Harbour, no casualties. No dive-specific sources found. Sources: Maritime Museum/NS Lighthouse Preservation Society. QA 2026-08-16 (deep re-audit): No new information found beyond 2026-06-24 findings; 1872-vs-1879 date conflict remains unresolved."
     }
   },
   {
@@ -697,8 +721,8 @@
       "validated": "true",
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-06-24: Confirmed gate vessel (not minesweeper). Battle-class trawler, 130ft/40m, 320 tons. Sunk 12 May 1940 by HMS Revenge collision. No casualties. Sources: Wikipedia/For Posterity's Sake."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-06-24: Confirmed gate vessel (not minesweeper). Battle-class trawler, 130ft/40m, 320 tons. Sunk 12 May 1940 by HMS Revenge collision. No casualties. Sources: Wikipedia/For Posterity's Sake. QA 2026-08-16 (deep re-audit): Re-verified collision date (1940-05-12), HMS Revenge cause, and no-fatalities outcome against independent sources. All facts consistent; no corrections needed."
     }
   },
   {
@@ -720,7 +744,8 @@
       "validated": "true",
       "validation_source": "eastcoastscuba.com,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): No new information found beyond 2026-06-24 findings; unchanged."
     }
   },
   {
@@ -743,7 +768,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-03-16",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -764,7 +790,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -792,7 +819,8 @@
       "validated": "true",
       "validation_source": "wikipedia.org,resortmunicipalitypei.com,pc.gc.ca",
       "validation_date": "2026-03-16",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-verified length (184ft1in/56.11m), tonnage (1,625 GRT), 1851 Saint John launch, and pump-failure/deliberate-beaching sinking cause against independent sources. All facts consistent; no corrections needed."
     }
   },
   {
@@ -814,7 +842,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -836,7 +865,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -858,8 +888,9 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate"
+      "last_qa_date": "2026-08-16",
+      "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -880,8 +911,9 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate"
+      "last_qa_date": "2026-08-16",
+      "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -902,7 +934,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -924,7 +957,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -946,7 +980,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -967,7 +1002,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -991,9 +1027,9 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
+      "last_qa_date": "2026-08-16",
       "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate",
-      "note": "QA 2026-06-24: Confirmed legitimate dive site. Max 12m, sandy/rocky cove, very easy entry. Used by East Coast Scuba as training site. Marine life: lobster, crab, flounder, sea perch, sand dollars, occasional wolffish. Sources: eastcoastscuba.com, padi.com, zentacle.com."
+      "note": "QA 2026-06-24: Confirmed legitimate dive site. Max 12m, sandy/rocky cove, very easy entry. Used by East Coast Scuba as training site. Marine life: lobster, crab, flounder, sea perch, sand dollars, occasional wolffish. Sources: eastcoastscuba.com, padi.com, zentacle.com. QA 2026-08-16 (deep re-audit): Re-fetched East Coast Scuba & Watersports page directly; depth, marine life, and entry details all remain consistent with the live source. No changes needed."
     }
   },
   {
@@ -1014,8 +1050,9 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24",
-      "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate"
+      "last_qa_date": "2026-08-16",
+      "difficulty_note": "Upgraded from Beginner: cold Atlantic water policy requires minimum Intermediate",
+      "note": "QA 2026-08-16 (deep re-audit): East Coast Scuba & Watersports lists a confirmed dive site \"Ovens Point\" at Rose Bay/The Ovens Natural Park (max depth 13m, shore/beach entry, sandy bottom with rocky ridges, lobster) very close to these coordinates. Depth is similar (13m vs 14m here) but entry_type differs (shore vs. boat recorded here) and no source explicitly confirms 'Ovens Reef' and 'Ovens Point' are the same site, so this is NOT merged/treated as confirmed identity \u2014 flagged as a plausible but unconfirmed match. Left site_type/entry_type unchanged pending explicit confirmation."
     }
   },
   {
@@ -1036,7 +1073,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -1058,7 +1096,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -1079,7 +1118,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -1100,7 +1140,8 @@
       "validated": "true",
       "validation_source": "openstreetmap.org,nsshipwrecks.ca,maritimemuseum.novascotia.ca",
       "validation_date": "2026-05-20",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-08-16 (deep re-audit): Re-checked against Zentacle's full curated Nova Scotia dive site list (53 named sites) and Wannadive.net Nova Scotia listing \u2014 this name does not appear in either. Combined with targeted ScubaBoard/dive-shop searches, this strengthens the prior finding that the site is likely an OSM natural=reef nautical chart feature rather than a documented recreational dive site. validation_source domains (openstreetmap.org, nsshipwrecks.ca, maritimemuseum.novascotia.ca) reflect general destination-level research, not site-specific confirmation of this exact name as a dive site \u2014 flagged as unresolved for genuine 3-independent-source site-specific validation despite the pre-existing validated=true tag, which was left untouched per audit instructions (no padding with weak sources)."
     }
   },
   {
@@ -1129,8 +1170,8 @@
       "validated": "true",
       "validation_source": "wikipedia.org,navsource.org,maritimemuseum.novascotia.ca",
       "validation_date": "2026-03-16",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-05-20: Located in Musquash Estuary NB not Passamaquoddy Bay. Length is 62m (203ft) not 92m. In NB federal MPA."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-05-20: Located in Musquash Estuary NB not Passamaquoddy Bay. Length is 62m (203ft) not 92m. In NB federal MPA. QA 2026-08-16 (deep re-audit): No new information found beyond prior findings; New Brunswick location and dimensions unchanged."
     }
   },
   {
@@ -1156,8 +1197,8 @@
       "validated": "true",
       "validation_source": "wikipedia.org,navsource.org,maritimemuseum.novascotia.ca",
       "validation_date": "2026-03-16",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-05-20: Located in Musquash Estuary NB. Identity unconfirmed. Capsized in place per Wikipedia."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-05-20: Located in Musquash Estuary NB. Identity unconfirmed. Capsized in place per Wikipedia. QA 2026-08-16 (deep re-audit): No new information found beyond prior findings; identity remains unconfirmed."
     }
   },
   {
@@ -1187,8 +1228,8 @@
       "validated": "true",
       "validation_source": "wikipedia.org,shipsnostalgia.com,maritimemuseum.novascotia.ca",
       "validation_date": "2026-03-16",
-      "last_qa_date": "2026-06-24",
-      "note": "QA 2026-05-20: Ship was operating as Mon Ami at time of wreck. Intentionally beached on Seal Island NS Nov 17 1991. All crew rescued. 411 GRT, 43m length."
+      "last_qa_date": "2026-08-16",
+      "note": "QA 2026-05-20: Ship was operating as Mon Ami at time of wreck. Intentionally beached on Seal Island NS Nov 17 1991. All crew rescued. 411 GRT, 43m length. QA 2026-08-16 (deep re-audit): Re-verified 1944 build as Empire Fathom (Henry Scarr Ltd, Hessle), full name-change chain to Mon Ami (1991), and Nov 17 1991 gale-grounding cause against independent sources. All facts consistent; no corrections needed."
     }
   }
 ]

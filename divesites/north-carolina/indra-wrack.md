@@ -2,7 +2,7 @@
 name: Indra (Wrack)
 lat: 34.5616667
 lng: -76.8516667
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 18
 entryType: boat
 siteType: wreck
@@ -24,7 +24,7 @@ The USS Indra (ARL-37) was a 330-foot landing craft repair ship that served in t
 - **Location**: North Carolina, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
 ## Marine Life
@@ -45,11 +45,11 @@ Charter access from Beaufort or Morehead City. The Indra is only 10 miles from B
 
 ## Tips and Recommendations
 
-The Indra is the ideal first wreck dive in North Carolina — close inshore, shallow, upright, and extensively penetrable. Buoyancy control near the silty bottom is important to preserve visibility. The large cut holes in the hull make swim-throughs approachable for newer divers, but maintain awareness of exit routes. The shorter transit also makes this a better option for divers prone to seasickness.
+The Indra is often cited as North Carolina's most approachable wreck — close inshore, shallow relative to the offshore sites, upright, and extensively penetrable. It is rated Intermediate rather than Beginner here in line with this destination's cold-water Atlantic minimum-difficulty policy: open-ocean boat access, variable current, and water temperatures well below tropical norms apply even at this relatively forgiving site. Buoyancy control near the silty bottom is important to preserve visibility. The large cut holes in the hull make swim-throughs approachable for less-experienced wreck divers, but maintain awareness of exit routes. The shorter transit also makes this a better option for divers prone to seasickness.
 
 ## Safety Considerations
 
-At 60–70 ft this is a relatively forgiving depth, though divers should maintain good buoyancy to avoid silting out visibility. The wreck's accessible location and shallower depth make it suitable for Open Water and Advanced Open Water divers with proper supervision. Although the wreck is described as intact and penetrable, divers without overhead environment training should stay within daylight zones and maintain clear exit routes at all times.
+At 60–70 ft this is a relatively forgiving depth for a North Carolina wreck dive, though divers should maintain good buoyancy to avoid silting out visibility and should hold at minimum an Advanced Open Water certification (or equivalent wreck/boat-diving experience) given the open-ocean access and cold-water conditions typical of this destination. Although the wreck is described as intact and penetrable, divers without overhead environment training should stay within daylight zones and maintain clear exit routes at all times.
 
 ---
-*Sources: [Evolution Underwater — NC Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites), [Wikipedia — USS Indra (ARL-37)](https://en.wikipedia.org/wiki/USS_Indra_(ARL-37)), [NC Wreck Diving — Indra](http://www.nc-wreckdiving.com/WRECKS/INDRA/INDRA.HTML). Last updated 2026-06-24.*
+*Sources: [Evolution Underwater — NC Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites), [Olympus Dive Center — Indra](https://olympusdiving.com/indra), [Wikipedia — USS Indra (ARL-37)](https://en.wikipedia.org/wiki/USS_Indra_(ARL-37)), [NC Wreck Diving — Indra](http://www.nc-wreckdiving.com/WRECKS/INDRA/INDRA.HTML). Last updated 2026-08-16. QA re-audit 2026-08-16: re-verified length (328 ft per Wikipedia, commonly rounded to 330 ft) and depth (60 ft bottom, 40–45 ft deck per Olympus Dive Center) against primary sources; difficulty raised from Beginner to Intermediate per this destination's cold-water Atlantic minimum-difficulty policy.*

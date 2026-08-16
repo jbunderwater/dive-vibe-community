@@ -2,7 +2,7 @@
 name: USS Pilgrim (SP-1204)
 lat: 34.7118002
 lng: -76.5873046
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 6
 entryType: shore
 siteType: wreck
@@ -17,14 +17,14 @@ USS Pilgrim (SP-1204) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The USS Pilgrim (SP-1204) was an 1893 racing yacht built to challenge for the America's Cup -- ultimately rejected as too difficult to helm -- that was later converted to a US Navy patrol vessel in 1917, patrolling Pamlico Sound and Onslow Bay before decommissioning in 1919 and eventually being scuttled as a breakwater in 1935. The wreck lies in just 6 metres of water in the sheltered near-shore environment near Beaufort, accessible from shore, with the shallow depth and protected location making it one of the most benign wreck experiences on the Crystal Coast. The wooden and steel hull structure has fragmented over decades but supports local inshore marine life typical of North Carolina's estuarine coastal waters.
+The USS Pilgrim (SP-1204) was an 1893 racing yacht built to challenge for the America's Cup -- ultimately rejected as too difficult to helm -- that was later converted to a US Navy patrol vessel in 1917, patrolling Pamlico Sound and Onslow Bay before decommissioning in 1919 and eventually being scuttled as a breakwater in 1935. The wreck lies in just 6 metres of water in the sheltered near-shore environment near Beaufort, accessible from shore, with the shallow depth and protected location making the water itself one of the more benign wreck experiences on the Crystal Coast — though it carries an Intermediate rating here per this destination's cold-water Atlantic policy, and its status as an actively dived, charted recreational site (versus a historical remnant) is not confirmed by any source found in this research. The wooden and steel hull structure has fragmented over decades but supports local inshore marine life typical of North Carolina's estuarine coastal waters.
 
 ## Site Information
 
 - **Location**: North Carolina, North America
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 6 meters
 
 ## Marine Life
@@ -45,11 +45,11 @@ Very shallow dive at 6 m maximum depth in the sheltered estuarine waters near Be
 
 ## Entry and Exit
 
-Shore entry near Harkers Island. Exact access point should be confirmed with local dive shops in the Beaufort/Morehead City area, as the OSM coordinates place the site near Beaufort rather than specifically at Harkers Point. The shallow, protected location makes this accessible without charter support.
+Shore entry near Harkers Island. Exact access point should be confirmed with local dive shops in the Beaufort/Morehead City area, as the OSM coordinates place the site near Beaufort rather than specifically at Harkers Point. No dive shop, charter, or dive-database source consulted in this research (including Discovery Diving's full current dive-site listing, checked directly) lists this wreck as an active recreational dive site — the two sources available are historical/naval records, not diving sources.
 
 ## Safety Considerations
 
-The very shallow depth (6 m) and protected location make this one of the least demanding wreck dives in the area. Boat traffic in the inshore waterways requires a dive flag. Concrete fill may be present throughout the hull -- exercise caution when exploring interior spaces.
+The very shallow depth (6 m) and protected location would make this one of the least demanding wreck dives in the area if it is in fact actively dived; it carries an Intermediate rating here per this destination's cold-water Atlantic policy rather than a technical assessment of the site. Boat traffic in the inshore waterways requires a dive flag. Concrete fill may be present throughout the hull -- exercise caution when exploring interior spaces.
 
 ---
-*Sources: [Wikipedia -- USS Pilgrim (SP-1204)](https://en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204)), [NavSource -- Pilgrim (SP-1204)](https://www.navsource.org/archives/12/171204.htm). Last updated 2026-06-24.*
+*Sources: [Wikipedia -- USS Pilgrim (SP-1204)](https://en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204)), [NavSource -- Pilgrim (SP-1204)](https://www.navsource.org/archives/12/171204.htm). Last updated 2026-08-16. QA re-audit 2026-08-16: previously the JSON validation_source also cited discoverydiving.com; that operator's current dive-site listing was fetched in full this pass and does not mention USS Pilgrim, so that citation was removed as unverified. Only two independent sources (Wikipedia, NavSource) could be confirmed, both historical/naval-record sources rather than dive-specific ones -- this site does not meet the 3-independent-source bar for validation. Its `validated` tag is left as previously set per QA policy, but it should be treated as unconfirmed as an active recreational dive site. Difficulty raised from Beginner to Intermediate per this destination's cold-water Atlantic minimum-difficulty policy.*

@@ -19,6 +19,8 @@ This early 19th-century wreck is recorded in the Maritime Museum of the Atlantic
 
 The previous claim of "exceptional historical value and excellent preservation in the cold Atlantic water" is unsupported. After 200 years, a wooden brig hull would typically retain only structural timbers, iron fasteners, ballast stones, and possibly a few artefacts. No dive reports were found confirming the current condition of this site.
 
+**2026-08-16 re-audit:** No new information found beyond the 2026-06-24 findings; vessel name and dive-specific details remain unconfirmed.
+
 ## Site Information
 
 - **Location**: Near McNabs Island, Halifax Harbour, Nova Scotia
@@ -40,4 +42,4 @@ Access by boat. Contact East Coast Scuba & Watersports (Bedford) or Torpedo Rays
 - Carry a surface marker buoy (SMB)
 
 ---
-*Sources: [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). No vessel name or dive-specific sources found for this site. Last updated 2026-06-24.*
+*Sources: [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). No vessel name or dive-specific sources found for this site. Last updated 2026-08-16.*

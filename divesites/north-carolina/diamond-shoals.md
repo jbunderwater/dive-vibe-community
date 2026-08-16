@@ -29,7 +29,7 @@ Diamond Shoals is a series of constantly shifting sandbars extending 13 kilomete
 
 ## Marine Life
 
-The collision of the Gulf Stream and the cold Labrador Current at Cape Hatteras creates one of the most productive marine environments on the US East Coast. Sand tiger sharks are tracked by the Sand Tiger Shark Telemetry Project, with acoustic receivers attached to wrecks throughout the Cape Hatteras area. The convergence zone draws both warm-water Gulf Stream species and cold-water temperate species into the same area. Specific wrecks within and around the shoals (such as the Caribsea and Atlas) are known congregation sites for sand tiger sharks.
+The collision of the Gulf Stream and the cold Labrador Current at Cape Hatteras creates one of the most productive marine environments on the US East Coast. East Carolina University, NOAA, and the NC Aquariums run an acoustic telemetry program that has deployed receivers on area shipwrecks — including the Caribsea, Proteus, Tarpon, Atlas, Papoose, and Schurz — to track tagged sand tiger sharks, which show extended residency at these sites. The convergence zone draws both warm-water Gulf Stream species and cold-water temperate species into the same area.
 
 ## Dive Profile
 
@@ -44,4 +44,4 @@ Charter access from Hatteras, NC. Dive Hatteras is the primary local dive operat
 Diamond Shoals is one of the most hydrodynamically complex environments in the western North Atlantic — strong, unpredictable currents from two major ocean current systems converge here. Conditions can deteriorate rapidly. This is an area for experienced divers only, always with an experienced local charter operator who monitors real-time conditions. The shoals are responsible for an estimated 600 shipwrecks — respect the conditions that created the Graveyard of the Atlantic.
 
 ---
-*Sources: [Wikipedia — Diamond Shoals](https://en.wikipedia.org/wiki/Diamond_Shoals), [NPS — Diving in Cape Hatteras National Seashore](https://www.nps.gov/submerged/parks/caha.html), [Coastal Review — Sand Tiger Sharks on NC Shipwrecks](https://coastalreview.org/2020/09/sand-tiger-sharks-call-nc-shipwrecks-home/), [Dive Hatteras — Dive Sites](https://www.divehatteras.com/wrecksites.html). Last updated 2026-06-24.*
+*Sources: [Wikipedia — Diamond Shoals](https://en.wikipedia.org/wiki/Diamond_Shoals), [ECU News Services — Sharks and Shipwrecks](https://news.ecu.edu/2019/07/31/sharks-and-shipwrecks/), [Dive Hatteras — Dive Sites](https://www.divehatteras.com/wrecksites.html). Last updated 2026-08-16. QA re-audit 2026-08-16: re-fetched Wikipedia and re-checked the Coastal Review citation directly — that article describes a separate NOAA/NC Aquariums ROV video study, not an acoustic telemetry/receiver program, so it was replaced with ECU News Services, which directly confirms the acoustic-receiver tagging program and the specific wrecks involved. The previously cited nps.gov/submerged/parks/caha.html URL returns 404 and was removed.*
