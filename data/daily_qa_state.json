@@ -178,6 +178,96 @@
   ],
   "history": [
     {
+      "date": "2026-08-16",
+      "slugs": [
+        "north-carolina",
+        "norway",
+        "norway-lofoten-islands",
+        "nova-scotia",
+        "okinawa",
+        "oman",
+        "palau"
+      ],
+      "notes": "norway is an isGroup=true parent slug with no own data files (no osm_clean, empty divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; palau was pulled forward from later in the queue to keep the day's real-destination count at 6. Nova Scotia's pass uncovered a significant systemic hallucination: 35 of 39 generic reef/rock/ledge sites carried fabricated marketing-style marine-life claims that directly contradicted their own footer's 'no site-specific sources found' disclosure, surviving an earlier QA pass -- all fully rewritten. Okinawa's data was found to have zero wreck-type sites despite the destination's overview.md advertising WWII wrecks -- flagged as a genuine content gap rather than fabricated to satisfy the wreck-research requirement.",
+      "summary": {
+        "sites_total": 130,
+        "sites_validated_today": 22,
+        "sites_re_audited": 130,
+        "hallucinations_removed": 47,
+        "marine_life_stripped": 28,
+        "wreck_conflicts_flagged": 10,
+        "sites_unresolved": 58,
+        "by_destination": {
+          "north-carolina": {
+            "sites_total": 14,
+            "sites_validated_today": 0,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 2,
+            "notes": "All 14 sites already validated=true; full re-audit. Diamond Shoals' sand-tiger-shark telemetry claim traced to an unrelated ROV study source and corrected to the real ECU acoustic-telemetry program (naming the actual wrecks involved). Two dead nps.gov source links replaced. Queen Anne's Revenge's generic species list replaced with site-specific ones from a structured-dive-program source. Flagged conflicts: Aeolus length (438ft vs 459ft), U-576 depth (721ft corrected to sourced 690ft), USS Monitor depth (stated as 230-240ft range instead of picking one). Bumped 4 sites (Indra, USS Huron, SS Richmond, USS Pilgrim) from Beginner to Intermediate per the cold-water Atlantic minimum-difficulty rule. Smith Creek Wreck and USS Pilgrim (SP-1204) remain below the 3-domain bar."
+          },
+          "norway": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean, empty divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs"
+          },
+          "norway-lofoten-islands": {
+            "sites_total": 11,
+            "sites_validated_today": 10,
+            "sites_re_audited": 11,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "MS Hamburg's previously-single-figure tonnage, sinking cause, entry type, and depth were each replaced with explicit source-conflict language after fresh research surfaced disagreeing figures across dykking.no, Global Maritime History, zentacle, and Museum Nord. 6 sites had generic/misattributed marine-life lists stripped; Henningsvaer Wall was instead upgraded with a genuine site-specific operator source. Maelstrom Wall upgraded from unconfirmed to source-backed via a fresh Zentacle listing, with depth corrected from an unsourced 32m to sourced ~20m. D/S General Suworow remains unresolved (only the bare OSM wreck tag, no independent source confirms vessel identity after exhausting Norwegian wreck-registry searches)."
+          },
+          "nova-scotia": {
+            "sites_total": 54,
+            "sites_validated_today": 0,
+            "sites_re_audited": 54,
+            "hallucinations_removed": 36,
+            "marine_life_stripped": 14,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 38,
+            "notes": "SYSTEMIC FINDING: 35 of 39 generic reef/rock/ledge sites (e.g. Margarets Reef, Cape Wolfe Rock, Wellesly Rock) carried fabricated marketing-style claims (harbor seal populations, wolffish/halibut sightings, 'popular training location') that directly contradicted their own footer's 'no site-specific sources found' disclosure -- all stripped and replaced with honest source-checked text. Also fixed a geographic error (Whales Back mislabeled as Bay of Fundy; actually off Cape Sable Island) and a Bay of Fundy tidal-timing tip wrongly generalized across non-Fundy sites. 4 wreck histories (Kars, HMCS Ypres, Marco Polo, MV Fosdyke Trader) independently re-verified with no new conflicts; 2 pre-existing conflicts (Tordenskjold sinking date, Kars coordinate mismatch) reconfirmed as open. 38 sites (35 generic reef/rock/ledge names plus Basque Reef, Inchcape Rock, Metahead Bank) remain unresolved -- none appear in Zentacle, Wannadive, ScubaBoard, or any dive shop listing despite a prior validated=true tag."
+          },
+          "okinawa": {
+            "sites_total": 24,
+            "sites_validated_today": 12,
+            "sites_re_audited": 24,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 12,
+            "notes": "No wreck-type sites exist in the destination's data despite overview.md advertising WWII wrecks (USS Emmons) -- flagged as a real content gap, not fabricated to fill it. Removed a species that doesn't occur in Okinawa waters (nurse sharks, Atlantic-only) plus several other unconfirmed marine-life claims across 5 sites. Ukon Denchi downgraded validated true->false -- had been marked validated despite the markdown's own text admitting it couldn't be verified. Found and fixed a JSON/markdown validation_source mismatch on 3 sites where cited domains didn't match what was actually referenced. Depth/naming conflicts documented rather than resolved by guessing (Antonio Gaudi 35m vs 37m, Toorii-ike 40m operational vs ~45m pond floor, Nishihama 20m vs 25m). 12 Kerama Shoto mooring-buoy sites remain below the 3-domain bar."
+          },
+          "oman": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 5,
+            "notes": "Aquarium's entire marine-life paragraph was traced to a different, unrelated 'Aquarium' site in the Hallaniyat Islands -- corrected to content actually tied to this Mirbat site. Eagle Bay's uncorroborated batfish/boxfish claim removed. China Wreck (150deg): no Wikipedia article exists; competing sources give conflicting vessel names (Kiva vs Kheva), years (1893 vs 1874), destinations, and depths (25m boat dive vs 3-5m snorkel-depth) -- documented as an open conflict rather than picked. Snoopy Island Reef depth conflict (24m vs 26m) also documented. Two dead SSI/divessi.com source links replaced. The Wall, ABT Salalah, and all 3 Flamingo Beach entry variants remain below the 3-domain bar despite renewed search."
+          },
+          "palau": {
+            "sites_total": 17,
+            "sites_validated_today": 0,
+            "sites_re_audited": 17,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0,
+            "notes": "All 17 sites already validated=true and re-confirmed against freshly-pulled sources; no outright fabrications found, but 3 drifted claims corrected (The Big Drop Off nurse-vs-leopard-shark conflict now explicit; Peliliu Corner's 'extreme down-currents' softened to match sourced descriptions; Sand Bar's German Channel construction date corrected to sourced 1911). Chuyo Maru gained a 4th independent source; length (285ft vs 295ft) and build year (1942 vs 1943) remain flagged as open conflicts, tonnage now confirmed across all sources. Jake Seaplane re-confirmed against 2 established sources, a lower-quality tertiary source rejected. Confirmed the destination correctly avoids blanket-applying the remote-liveaboard Advanced-minimum rule to genuinely calm/shallow sourced sites."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
+    {
       "date": "2026-08-13",
       "slugs": [
         "manado-bunaken",

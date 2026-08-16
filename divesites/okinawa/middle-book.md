@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # Middle Book
 
-A relaxed sandy-bottom macro site in the Sekisei Lagoon south of Taketomi Island in the Yaeyama Islands. Also known locally as 竹富島南ミドルブック (Taketomi South Middle Book) or じゃがいもの根 (Potato Root) for its distinctive potato-shaped coral formations scattered across the sand.
+A relaxed sandy-bottom macro site in the Sekisei Lagoon south of Taketomi Island in the Yaeyama Islands. Also known locally as 竹富島南ミドルブック (Taketomi South Middle Book) or じゃがいもの根 (Potato Root) for its distinctive potato-shaped coral formations scattered across the sand. Sources disagree on the origin of the English name: one source attributes it to a translation of "potato root," while another attributes it to a Japanese dive instructor named Nakamoto (naka = "middle," moto = "book") -- both are noted here rather than one being asserted as fact.
 
 ## Overview
 
@@ -47,4 +47,4 @@ Suitable for Open Water divers. The sheltered lagoon setting means minimal curre
 Classic macro territory — Yasha gobies and dartfish with shrimp partners are the signature subjects. Approach slowly and low to the sand to avoid startling gobies back into their burrows. Wide-angle is less rewarding here given the flat sandy topography; bring a macro lens for best results.
 
 ---
-*Sources: [Marine Diving Web - Ishigaki Dive Spots](https://marinediving.com/area/okinawa/ishigaki/divingspot/), [Loko Maikai Ishigaki Dive Map](https://lokomaikai.com/diving_map/), [South-West Co. - Ishigaki Dive Spots](https://south-west.co.jp/shimanavi/ishigakijima_divingspot-2/). Last updated 2026-06-24.*
+*Sources: [Marine Diving Web - Ishigaki Dive Spots](https://marinediving.com/area/okinawa/ishigaki/divingspot/), [Loko Maikai Ishigaki Dive Map](https://lokomaikai.com/diving_map/), [South-West Co. - Ishigaki Dive Spots](https://south-west.co.jp/shimanavi/ishigakijima_divingspot-2/), [dperkins.org - Diving in Ishigaki](https://dperkins.org/h/20251229.diving_in_ishigaki.html). Re-audited 2026-08-16: added dperkins.org as 4th source, which surfaced a naming-origin conflict now noted above. Last updated 2026-08-16.*
