@@ -51,4 +51,4 @@ Strong and unpredictable currents are the main hazard. Down-currents along the w
 Wide-angle is essential for capturing sharks on the corner and the wall's sea fan gardens. Lower diver traffic means marine life is often less skittish, allowing closer approaches. Shoot the sharks against the blue water background for clean compositions.
 
 ---
-*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Fish N Fins Palau – Siaes Corner](https://fishnfins.com/index.php/dive-palau/dive-sites-palau), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php). Last updated 2026-06-25.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Fish N Fins Palau – Siaes Corner](https://fishnfins.com/index.php/dive-palau/dive-sites-palau/ulong-dives/141-siaes-corner), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php). Last updated 2026-08-16.*

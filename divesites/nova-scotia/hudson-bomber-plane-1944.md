@@ -19,6 +19,8 @@ Aircraft wrecks described as "bomber plane wrecks from the 1940s and 50s" are co
 
 The previous claim of "fuselage and components remain visible" is unverified.
 
+**2026-08-16 re-audit:** No new information found beyond the 2026-06-24 findings; the Hudson-vs-Ventura identification question remains unresolved.
+
 ## Site Information
 
 - **Location**: Near McNabs Island / Timmins Cove, Halifax Harbour, Nova Scotia
@@ -40,4 +42,4 @@ Access by boat to the McNabs Island area. Contact East Coast Scuba & Watersports
 - Bring a dive light for detailed exploration
 
 ---
-*Sources: [McNabs Island — Halifax Trails Guide](https://www.halifaxtrails.ca/mcnabs-island-provincial-park/), [Nova Scotia Military History — Mystery On The Lake](https://madiganstories.com/mystery-on-the-lake/), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Aircraft type (Hudson vs. Ventura) and 1944 date not independently confirmed from public online records. Last updated 2026-06-24.*
+*Sources: [McNabs Island — Halifax Trails Guide](https://www.halifaxtrails.ca/mcnabs-island-provincial-park/), [Nova Scotia Military History — Mystery On The Lake](https://madiganstories.com/mystery-on-the-lake/), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Aircraft type (Hudson vs. Ventura) and 1944 date not independently confirmed from public online records. Last updated 2026-08-16.*

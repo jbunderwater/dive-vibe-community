@@ -19,6 +19,8 @@ The Gertrude de Costa was a wooden two-masted schooner measuring over 30 metres 
 
 When explored by divers, the wreck has revealed relatively modern equipment including batteries, a fire extinguisher, and an engine with instrument gauges — consistent with mid-20th-century wooden motor schooner construction.
 
+**2026-08-16 re-audit:** No new information found beyond the 2026-06-24 findings. The 1950 collision, vessel dimensions, casualty count, and unexploded-ordnance hazard remain as previously documented and unchanged.
+
 ## Site Information
 
 - **Location**: Off South End Container Terminal, Halifax Harbour, Nova Scotia
@@ -44,4 +46,4 @@ Access by boat. Contact East Coast Scuba & Watersports (Bedford, NS) or Torpedo 
 - Bring a dive light for wreck exploration
 
 ---
-*Sources: [Fisheries & Oceans Canada — Shipwrecks of Halifax Harbour](https://www.bio-oa.ca/halifaxharbour/shipwrecks-eng.php), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Last updated 2026-06-24.*
+*Sources: [Fisheries & Oceans Canada — Shipwrecks of Halifax Harbour](https://www.bio-oa.ca/halifaxharbour/shipwrecks-eng.php), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Last updated 2026-08-16.*

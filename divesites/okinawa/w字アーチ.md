@@ -32,7 +32,7 @@ W Arch is the gentlest introduction to Miyako-jima's famous topographical diving
 
 ## Marine Life
 
-Longnose hawkfish perch in the arch crevices. Shrimp, crabs, and nudibranchs populate the small cave behind the arches. The surrounding reef hosts anthias, butterflyfish, and damselfish. Moray eels are common in the rock holes.
+Confirmed sightings at this specific site include lionfish and clownfish in the arch area, damselfish and various gobies on the surrounding reef, and firefish and fusiliers over the sand. Shrimp, scorpionfish, nudibranchs, and other sea slugs populate the short cave passage between the two arches.
 
 ## Dive Profile
 
@@ -47,4 +47,4 @@ Suitable for Open Water divers. Moderate current is possible. The arches are ope
 The heart-shaped arch silhouette is the signature wide-angle shot -- position below and shoot up against the blue. Macro opportunities in the rear cave. Morning light produces the best colours through the arches.
 
 ---
-*Sources: [Aquatic Adventure - Irabu Area](https://miyako-aquaticadventure.com/en/irabu.html), [Visit Okinawa - Miyako Diving](https://visitokinawajapan.com/discover/dive-sites-okinawa/miyako-diving/). Last updated 2026-04-05.*
+*Sources: [Aquatic Adventure - Irabu Area](https://miyako-aquaticadventure.com/en/irabu.html), [Aquatic Adventure - W Arch (Double Arch)](https://miyako-aquaticadventure.com/double-arch.html), [Visit Okinawa - Miyako Diving](https://visitokinawajapan.com/discover/dive-sites-okinawa/miyako-diving/), [Emina Marine - Zアーチ (W-Arch, alternate name)](https://eminamarine-diving.net/archives/12728). Re-audited 2026-08-16: marine life corrected -- the prior list (longnose hawkfish, moray eels, generic anthias/butterflyfish) was not confirmed by any source; the dedicated Aquatic Adventure page and Emina Marine instead confirm lionfish, clownfish, damselfish, gobies, firefish, fusiliers, shrimp, scorpionfish, and nudibranchs. Added Emina Marine as 3rd independent source. Last updated 2026-08-16.*

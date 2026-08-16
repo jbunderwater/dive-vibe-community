@@ -30,6 +30,8 @@ The OSM node is tagged at coordinates near McNabs Island (44.6263°N, 63.5357°W
 
 The *Kars* was built in 1939 at Glasgow, registered 8,888 GRT, measuring 495.5 feet in length. On the night of February 22, 1942, she had separated from convoy HX-175 and was attempting to return to Halifax when U-96 struck her with a single G7e torpedo. The resulting fire from the aviation fuel cargo proved fatal to 46 of the 47 crew. Only one survivor was recovered. The wreck position (44°15'N, 63°25'W) is recorded by uboat.net from German naval records of the time.
 
+**2026-08-16 re-audit:** Re-verified tonnage (8,888 GRT), sinking date (Feb 22 1942), attacking U-boat (U-96), and casualty figures (46 of 47 lost) directly against uboat.net and Royal Museums Greenwich. All facts consistent with the prior QA pass; no corrections needed. The OSM-coordinate-vs-sinking-position discrepancy noted previously still stands unresolved.
+
 ## Entry and Exit
 
 Access by boat. Contact local Halifax dive operators — East Coast Scuba & Watersports (Bedford, NS) or Torpedo Rays Scuba Adventures (Halifax) — for current access information and confirmed dive coordinates.
@@ -42,4 +44,4 @@ Access by boat. Contact local Halifax dive operators — East Coast Scuba & Wate
 - Bring a dive light for wreck exploration
 
 ---
-*Sources: [uboat.net — MT Kars](https://uboat.net/allies/merchants/ship/1365.html), [Royal Museums Greenwich — Kars (1939)](https://www.rmg.co.uk/collections/objects/rmgc-object-67499), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Note: OSM coordinate and verified sinking position do not align; site-specific dive details require local operator confirmation. Last updated 2026-06-24.*
+*Sources: [uboat.net — MT Kars](https://uboat.net/allies/merchants/ship/1365.html), [Royal Museums Greenwich — Kars (1939)](https://www.rmg.co.uk/collections/objects/rmgc-object-67499), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Note: OSM coordinate and verified sinking position do not align; site-specific dive details require local operator confirmation. Last updated 2026-08-16.*

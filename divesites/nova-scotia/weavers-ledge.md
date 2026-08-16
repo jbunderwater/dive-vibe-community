@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Weavers Ledge
 
-Weavers Ledge is a shallow-to-moderate ledge at 20-26 meters excellent for intermediate divers transitioning to deeper cold water work. The site offers stable conditions, good visibility, and excellent opportunities to observe Atlantic marine ecosystems. Moderate currents and reliable conditions characterize this site.
+Weavers Ledge is a charted rocky formation at approximately 23 metres depth in Cape Breton offshore waters, tagged `natural=reef` in the OpenStreetMap nautical dataset. A 2026-08-16 re-check against the full curated Nova Scotia dive site listings on [Zentacle](https://www.zentacle.com/loc/ca/ns) (53 named sites) and [Wannadive.net](https://www.wannadive.net/spot/North_America/Canada/Nova_Scotia/index.html), plus targeted searches of ScubaBoard and local dive shop sites, again found no listing under this name. It is most likely a navigational chart feature rather than a documented recreational dive site. The previous description's claim of "excellent opportunities to observe Atlantic marine ecosystems" was not source-confirmed and has been removed.
 
 ## Overview
 
@@ -39,10 +39,10 @@ Access by boat. No dedicated dive charter service was identified for this site i
 ## Tips and Recommendations
 
 - Cold Atlantic water (4–15°C) requires a drysuit or very thick wetsuit
-- Check sea conditions and Bay of Fundy tidal timing before diving
+- Check local sea conditions and tidal timing before diving
 - Carry a surface marker buoy (SMB)
 - Bring a dive light for any overhead or low-visibility environments
 
 
 ---
-*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-06-24.*
+*Sources: [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/), [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/research/shipwreck-database), [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia), [Zentacle Nova Scotia](https://www.zentacle.com/loc/ca/ns). Description based on regional diving characteristics; no site-specific sources found. Last updated 2026-08-16.*

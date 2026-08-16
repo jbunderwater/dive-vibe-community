@@ -14,9 +14,9 @@
       "name:en": "Sunabe",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "fluidlevitation.com, livefordiving.com, scubaboard.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "site_type corrected reef→wall; the site is universally known as Sunabe Seawall with genuine underwater wall topography. Sources confirm walls flanking the valley at ~20m and the concrete seawall structure. Shore entry confirmed. Beginner difficulty and 20m depth confirmed by multiple sources."
+      "validation_source": "fluidlevitation.com, livefordiving.com, scubaboard.com, allbluedivers.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "site_type corrected reef→wall; the site is universally known as Sunabe Seawall with genuine underwater wall topography. Sources confirm walls flanking the valley at ~20m and the concrete seawall structure. Shore entry confirmed. Beginner difficulty and 20m depth confirmed by multiple sources. Re-audited 2026-08-16: mailbox at 7m, pink/orange/purple soft coral field, pygmy seahorses, and calm shore-entry conditions re-confirmed against 4 independent sources (fluidlevitation.com, livefordiving.com, scubaboard.com, allbluedivers.com). No corrections needed."
     }
   },
   {
@@ -33,9 +33,9 @@
       "name": "Middle Book",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "marinediving.com, lokomaikai.com, south-west.co.jp",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "site_type corrected reef→muck. Also known as 竹富島南ミドルブック (Taketomi South Middle Book) and じゃがいもの根 (Potato Root). Sandy bottom with scattered potato-shaped coral heads. Macro site specialising in gobies, garden eels, dartfish, fusiliers. NOT a manta ray station — manta stations (Manta Scramble) are on the northwest coast near Kabira Bay. Previous markdown fabricated manta ray content — corrected."
+      "validation_source": "marinediving.com, lokomaikai.com, south-west.co.jp, dperkins.org",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "site_type corrected reef→muck. Also known as 竹富島南ミドルブック (Taketomi South Middle Book) and じゃがいもの根 (Potato Root). Sandy bottom with scattered potato-shaped coral heads. Macro site specialising in gobies, garden eels, dartfish, fusiliers. NOT a manta ray station — manta stations (Manta Scramble) are on the northwest coast near Kabira Bay. Previous markdown fabricated manta ray content — corrected. Re-audited 2026-08-16: naming-origin conflict found. dperkins.org attributes the name 'Middle Book' to a Japanese instructor named Nakamoto (naka=middle, moto=book), while the prior entry described it as a translation of 'potato root' (じゃがいもの根). Both explanations now flagged as an unresolved naming conflict in the markdown rather than asserting one as fact."
     }
   },
   {
@@ -51,10 +51,10 @@
     "tags": {
       "name": "Ukon Denchi",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "marinediving.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Site not found in major Ishigaki dive operator listings. Coordinates place it in Sekisei Lagoon south of Taketomi Island. Could not verify via online research. Markdown notes absence from major operator sites."
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Site not found in major Ishigaki dive operator listings. Coordinates place it in Sekisei Lagoon south of Taketomi Island. Could not verify via online research. Markdown notes absence from major operator sites. Re-audited 2026-08-16: extensive additional search (English and Japanese; Tripadvisor, Wanderlog, dperkins.org, major Ishigaki operator sites) still finds zero sources confirming this site's name, location, or characteristics. DOWNGRADED validated from true to false — the prior 'true' tag was not supported by any confirming source (only a single non-confirming domain was on file, and the markdown itself already stated the site could not be verified). This correction is flagged prominently as unresolved."
     }
   },
   {
@@ -76,9 +76,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "divingpoint.net, miyako-aquaticadventure.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Shimoji Island, Miyako-jima. Pinnacle classification confirmed. 15m depth, Beginner difficulty confirmed. Known for flame anthias and peach fairy basslets covering the pinnacle."
+      "validation_source": "divingpoint.net, miyako-aquaticadventure.com, eminamarine-diving.net",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Shimoji Island, Miyako-jima. Pinnacle classification confirmed. 15m depth, Beginner difficulty confirmed. Known for flame anthias and peach fairy basslets covering the pinnacle. Re-audited 2026-08-16: added eminamarine-diving.net (archives/12935, a dedicated page for this site) as a 3rd independent source, now meeting the 3-domain bar. 15m depth and dense flame anthias/peach fairy basslet schooling re-confirmed. Removed an unsourced direct quote ('like being invited to an underwater dragon palace') that no source actually attributes to divers."
     }
   },
   {
@@ -100,8 +100,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "miyako-aquaticadventure.com, eminamarine-diving.net, divingpoint.net",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Irabu Island confirmed. Depth 27m per primary local operator Miyako Aquatic Adventure (some sources say 25m). Cross-shaped ceiling opening (not a beam) confirmed — two intersecting fissures create cruciform light effect. Intermediate difficulty confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Irabu Island confirmed. Depth 27m per primary local operator Miyako Aquatic Adventure (some sources say 25m). Cross-shaped ceiling opening (not a beam) confirmed — two intersecting fissures create cruciform light effect. Intermediate difficulty confirmed. Re-audited 2026-08-16: eminamarine-diving.net (archives/12726) independently re-confirmed: cross-shaped ceiling opening, ~25m depth, occasional current, red fish near entrance. Content re-confirmed accurate against all 3 sources; no corrections needed."
     }
   },
   {
@@ -122,9 +122,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "miyako-aquaticadventure.com, visitokinawajapan.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Irabu Island. W-shaped arch (open structure, not penetration cave). 18m depth, Beginner confirmed. Open arch with natural light throughout — no overhead environment concerns. Suitable for OW divers."
+      "validation_source": "miyako-aquaticadventure.com, visitokinawajapan.com, eminamarine-diving.net",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Irabu Island. W-shaped arch (open structure, not penetration cave). 18m depth, Beginner confirmed. Open arch with natural light throughout — no overhead environment concerns. Suitable for OW divers. Re-audited 2026-08-16: marine life corrected. The prior list (longnose hawkfish, moray eels, generic anthias/butterflyfish/damselfish) was not confirmed by any source. miyako-aquaticadventure.com's dedicated page (double-arch.html) and eminamarine-diving.net instead confirm lionfish, damselfish, gobies, clownfish, firefish, fusiliers, shrimp, scorpionfish, and nudibranchs/sea slugs. Added eminamarine-diving.net as 3rd independent source (now meets the 3-domain bar). Depth 18-20m confirmed by 2 sources; one search result also described an adjacent 20-35m dropoff feature nearby, noted as a separate, not core, feature."
     }
   },
   {
@@ -146,8 +146,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "miyako-aquaticadventure.com, eminamarine-diving.net, owd.jp",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "difficulty corrected Intermediate→Advanced. Rated 4-star difficulty by multiple Japanese operators. 35m max depth confirmed (some sources cite up to 40m at the seabed below the arch). Irabu Island confirmed. Giant trevally, occasional manta and sharks. Connected cave system. AOW minimum required."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "difficulty corrected Intermediate→Advanced. Rated 4-star difficulty by multiple Japanese operators. 35m max depth confirmed (some sources cite up to 40m at the seabed below the arch). Irabu Island confirmed. Giant trevally, occasional manta and sharks. Connected cave system. AOW minimum required. Re-audited 2026-08-16: whitetip reef sharks, Napoleon wrasse, giant trevally, ~21m arch depth and 35m+ base depth re-confirmed via additional search (imcdiving.com and others). Some English-language trip-booking aggregators label the difficulty 'intermediate', while Japanese operators consistently rate it ★★★★ (4-star); Advanced is kept per the majority Japanese-operator rating, with the English/Japanese labeling discrepancy now noted in the markdown."
     }
   },
   {
@@ -170,8 +170,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "miyako-aquaticadventure.com, sunisland-miyako.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Shimoji Island/Nakanoshima Bay, Miyako-jima. Channel/crevasse reef system. Sheltered bay, beginner-friendly macro site. 22m depth confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Shimoji Island/Nakanoshima Bay, Miyako-jima. Channel/crevasse reef system. Sheltered bay, beginner-friendly macro site. 22m depth confirmed. Re-audited 2026-08-16: 22m depth and marine life (angelfish, surgeonfish, anemonefish, nudibranchs, pygmy seahorses) re-confirmed against both sources. Could not find a 3rd independent domain despite additional targeted search; flagged below the 3-source bar."
     }
   },
   {
@@ -192,9 +192,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "miyako-aquaticadventure.com, divingpoint.net, eminamarine-diving.net",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Shimoji Island confirmed. Depth 37m per Miyako Aquatic Adventure (primary local operator); 35m cited by divingpoint.net and some others. 35-37m is the defensible range. Complex arch/hole system resembling Gaudí architecture. Advanced confirmed."
+      "validation_source": "divingpoint.net, miyako-aquaticadventure.com, visitokinawajapan.com, marea-miyako.jp",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Shimoji Island confirmed. Depth 37m per Miyako Aquatic Adventure (primary local operator); 35m cited by divingpoint.net and some others. 35-37m is the defensible range. Complex arch/hole system resembling Gaudí architecture. Advanced confirmed. Re-audited 2026-08-16: depth sources conflict. miyako-aquaticadventure.com and eminamarine-diving.net cite up to 37m; marea.jp, owd.jp, redfin.jp, jdive.jp, and marea-miyako.jp converge on 35m as the max depth. The markdown now states the 35-37m range explicitly instead of asserting a single corrected figure. Reef manta ray (nanyou manta) sightings at this specific site are confirmed by marea.jp/redfin.jp-sourced search results and added to marine life."
     }
   },
   {
@@ -216,9 +216,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "eminamarine-diving.net, divingpoint.net, miyako-aquaticadventure.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "depth corrected 45m→40m. Eminamarine-diving.net (local operator) specifies 最大深度40m (max depth 40m). Rated 5-star difficulty by multiple operators. Some sources cite absolute pond bottom at 45m but operational dive max is 40m. Shimoji Island confirmed. Two inland limestone ponds connected to ocean via tunnel. Expert-level Advanced dive requiring 100+ dives per local operators."
+      "validation_source": "divingpoint.net, miyako-aquaticadventure.com, eminamarine-diving.net, visitokinawajapan.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "depth corrected 45m→40m. Eminamarine-diving.net (local operator) specifies 最大深度40m (max depth 40m). Rated 5-star difficulty by multiple operators. Some sources cite absolute pond bottom at 45m but operational dive max is 40m. Shimoji Island confirmed. Two inland limestone ponds connected to ocean via tunnel. Expert-level Advanced dive requiring 100+ dives per local operators. Re-audited 2026-08-16: depth conflict confirmed as genuine and unresolved across sources — the tunnel/pond bottom is cited at 40m (eminamarine-diving.net, operational/no-decompression max) and up to 45m (absolute pond floor, per other sources), with the arch ceiling around 20m. The markdown now states this range explicitly and notes operators recommend staying near 20m, rather than asserting a single 'corrected' figure. This also fixes an internal contradiction in the prior markdown, which stated 40m in Site Information but '35-45m'/'40-45m' elsewhere in the same file."
     }
   },
   {
@@ -243,9 +243,9 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "visitokinawajapan.com, en.marinediving.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Aka Island, Kerama Islands confirmed. Off Nishibama Beach. Kerama Shoto National Park. Sea turtles and coral bommies confirmed. Beginner, 20m, reef classification appropriate."
+      "validation_source": "diver-online.com, redfin.jp, en.marinediving.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Aka Island, Kerama Islands confirmed. Off Nishibama Beach. Kerama Shoto National Park. Sea turtles and coral bommies confirmed. Beginner, 20m, reef classification appropriate. Re-audited 2026-08-16: fixed a JSON/markdown mismatch — the JSON previously listed en.marinediving.com and visitokinawajapan.com as validation_source, but the markdown footer actually cited diver-online.com and redfin.jp. JSON now reflects the real sources. Added en.marinediving.com as a newly-confirmed 3rd independent source, which describes this site as 'Nishibama' with a 25m max depth versus the 20m on file here — flagged as a depth conflict in the markdown rather than silently overriding either figure."
     }
   },
   {
@@ -271,8 +271,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "gobies.net, en.marinediving.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Aka Island / Kerama Islands. Named for bumpy coral (Porites/Montipora type). Sheltered site, beginner-friendly. Coordinates in Kerama area confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Aka Island / Kerama Islands. Named for bumpy coral (Porites/Montipora type). Sheltered site, beginner-friendly. Coordinates in Kerama area confirmed. Re-audited 2026-08-16: gobies.net point map re-confirmed (bumpy Porites/Montipora-type coral). en.marinediving.com's Kerama gallery names 'Butsubutsusango' (same 'bumpy coral' meaning) without further site-specific detail, kept as a secondary, weak confirmation. Could not find a 3rd substantive source despite additional search; flagged below the 3-source bar."
     }
   },
   {
@@ -301,8 +301,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "keramatour.world-tours.jp, redfin.jp",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Aka Port pier front, Aka Island, Kerama Islands. Very shallow (12m), sheltered training/check-dive site. Beginner confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Aka Port pier front, Aka Island, Kerama Islands. Very shallow (12m), sheltered training/check-dive site. Beginner confirmed. Re-audited 2026-08-16: content re-checked, no changes required. Could not find a 3rd independent source despite additional search; flagged below the 3-source bar."
     }
   },
   {
@@ -328,8 +328,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "aqua-life.biz, en.marinediving.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Zamami Island, Kerama Islands. Large table coral fields. Beginner, 20m, reef confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Zamami Island, Kerama Islands. Large table coral fields. Beginner, 20m, reef confirmed. Re-audited 2026-08-16: aqua-life.biz re-fetch confirms table coral (>1m), occasional Napoleon wrasse, AND additionally confirms whitetip reef shark (nemuributa) and emperor angelfish (adeyakko) — not previously listed. Removed unconfirmed 'hawkfish' and 'clownfish in anemones' claims that no source supports. Could not find a 3rd independent source despite additional search; flagged below the 3-source bar."
     }
   },
   {
@@ -354,9 +354,9 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "divingpoint.net, en.marinediving.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "North side of Gahi Island, Kerama Islands. Macro site with garden eels, Yasha gobies on white sand. Beginner, 20m, reef confirmed."
+      "validation_source": "divingpoint.net, marinediving.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "North side of Gahi Island, Kerama Islands. Macro site with garden eels, Yasha gobies on white sand. Beginner, 20m, reef confirmed. Re-audited 2026-08-16: content re-checked, no changes required. Could not find a 3rd independent source despite additional search; flagged below the 3-source bar."
     }
   },
   {
@@ -381,9 +381,9 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "4travel.jp, en.marinediving.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Zamami Island area, Kerama Islands. Very shallow max 11m, average ~5m. Multiple clownfish species confirmed by travel blog reports. Beginner confirmed."
+      "validation_source": "4travel.jp",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Zamami Island area, Kerama Islands. Very shallow max 11m, average ~5m. Multiple clownfish species confirmed by travel blog reports. Beginner confirmed. Re-audited 2026-08-16: corrected JSON — en.marinediving.com was previously listed as a source, but a fresh targeted search found no mention of this site on that domain; removed as unconfirmed rather than left as padding. Only the 4travel.jp travelogue actually substantiates this site's clownfish-diversity claim; flagged well below the 3-source bar and in need of local operator confirmation."
     }
   },
   {
@@ -408,9 +408,9 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "divingpoint.net, en.marinediving.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Zamami Island, Kerama Islands. Masuda Rock at 8m, soft coral gardens. Beginner, 20m, reef confirmed."
+      "validation_source": "divingpoint.net, marinediving.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Zamami Island, Kerama Islands. Masuda Rock at 8m, soft coral gardens. Beginner, 20m, reef confirmed. Re-audited 2026-08-16: content re-checked, no factual changes required. Could not find a 3rd independent domain despite additional search; flagged below the 3-source bar."
     }
   },
   {
@@ -437,9 +437,9 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "divingpoint.net, aqua-life.biz",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "South Aka Island, Kerama Islands. Artificial fish reef structures at 30m on sandy bottom plus natural reef. 34m max depth confirmed by divingpoint.net. Intermediate to advanced per divingpoint.net. Strong current possible. Jack fish, trevally, red snapper confirmed."
+      "validation_source": "divingpoint.net, aqua-life.biz, en.marinediving.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "South Aka Island, Kerama Islands. Artificial fish reef structures at 30m on sandy bottom plus natural reef. 34m max depth confirmed by divingpoint.net. Intermediate to advanced per divingpoint.net. Strong current possible. Jack fish, trevally, red snapper confirmed. Re-audited 2026-08-16: direct re-fetch of divingpoint.net and aqua-life.biz found the prior marine-life list (dogtooth tuna, batfish, six-banded angelfish, 'nurse sharks') was not confirmed by either source. True nurse sharks (Ginglymostoma cirratum) do not occur in Okinawan waters — this was almost certainly a mistranslation of nemuributa (whitetip reef shark). Corrected to: giant trevally/jacks, spotted eagle rays (occasional, per divingpoint.net), fusiliers and anthias schooling at the pinnacle (per aqua-life.biz), and reef sharks (species unconfirmed by sources). Added en.marinediving.com (names 'Sakubarugyosho' in its Kerama gallery) as a weak 3rd source."
     }
   },
   {
@@ -465,8 +465,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "marinediving.com, visitokinawajapan.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Zamami Island, Kerama Islands. Off Ama Beach, famous turtle-watching site. Shallow, sheltered, beginner-friendly. 15m, reef, beginner confirmed."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Zamami Island, Kerama Islands. Off Ama Beach, famous turtle-watching site. Shallow, sheltered, beginner-friendly. 15m, reef, beginner confirmed. Re-audited 2026-08-16: content re-checked, no changes required. Could not find a 3rd independent source despite additional search; flagged below the 3-source bar."
     }
   },
   {
@@ -491,9 +491,9 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "en.marinediving.com, visitokinawajapan.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Zamami/Aka area, Kerama Islands. Named after Pandanus trees on shore. Inner-reef site, sheltered. 18m, beginner, reef confirmed. No specific sources found for this individual site."
+      "validation_source": "visitokinawajapan.com, en.marinediving.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Zamami/Aka area, Kerama Islands. Named after Pandanus trees on shore. Inner-reef site, sheltered. 18m, beginner, reef confirmed. No specific sources found for this individual site. Re-audited 2026-08-16: no site-specific source found despite additional search. Content remains regional-characteristics-only, as already honestly disclaimed in the markdown. Site's existence/location is not in doubt (OSM-surveyed official NP mooring buoy with precise coordinates), only the descriptive richness is limited. Flagged below the 3-source bar."
     }
   },
   {
@@ -518,9 +518,9 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "en.marinediving.com, visitokinawajapan.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "Agenashiku Island area between Aka and Zamami, Kerama Islands. Named for branching Acropora staghorn coral (eda sango). 18m, beginner, reef confirmed."
+      "validation_source": "marinediving.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "Agenashiku Island area between Aka and Zamami, Kerama Islands. Named for branching Acropora staghorn coral (eda sango). 18m, beginner, reef confirmed. Re-audited 2026-08-16: corrected JSON to match markdown reality — visitokinawajapan.com was previously listed but the markdown itself already disclaimed this content as 'based on regional characteristics and site name meaning', not a confirmed site-specific source. JSON now lists only the one source actually substantiating regional context. Flagged well below the 3-source bar."
     }
   },
   {
@@ -545,9 +545,9 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "divingpoint.net, en.marinediving.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "South/back side of Gahi Island, Kerama Islands. Channel between Zamami and Gahi creates moderate water flow. 20m, beginner, reef confirmed."
+      "validation_source": "divingpoint.net, marinediving.com",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "South/back side of Gahi Island, Kerama Islands. Channel between Zamami and Gahi creates moderate water flow. 20m, beginner, reef confirmed. Re-audited 2026-08-16: content re-checked, no changes required. Could not find a 3rd independent source despite additional search; flagged below the 3-source bar."
     }
   },
   {
@@ -572,9 +572,9 @@
       "source": "survey;local knowledge;gps",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "aqua-life.biz, marinediving.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "North Zamami Island, Kerama Islands. Spacious cave with light curtain effect through ceiling cracks. 18m, intermediate, cave confirmed. Multiple exits makes it non-technical despite cave classification."
+      "validation_source": "aqua-life.biz, marinediving.com, liberte.jp",
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "North Zamami Island, Kerama Islands. Spacious cave with light curtain effect through ceiling cracks. 18m, intermediate, cave confirmed. Multiple exits makes it non-technical despite cave classification. Re-audited 2026-08-16: added liberte.jp as a 3rd independent source (dedicated Nita Doukutsu page), now meeting the 3-domain bar. 18m depth, sea turtles, and spiny lobsters re-confirmed via aqua-life.biz. Removed the unconfirmed 'pygmy seahorse colonies' claim — pygmy seahorses are reported on sea fans in open sandy areas elsewhere around Zamami, but no source ties them specifically to this cave site."
     }
   },
   {
@@ -600,8 +600,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "en.marinediving.com",
-      "last_qa_date": "2026-06-24",
-      "qa_notes": "East Zamami Island, Kerama Islands. More exposed east-facing site with potential current. 20m, intermediate, reef confirmed. No site-specific sources found — description based on location and general Kerama characteristics."
+      "last_qa_date": "2026-08-16",
+      "qa_notes": "East Zamami Island, Kerama Islands. More exposed east-facing site with potential current. 20m, intermediate, reef confirmed. No site-specific sources found — description based on location and general Kerama characteristics. Re-audited 2026-08-16: extensive re-search (English and Japanese) found zero site-specific sources, consistent with the prior pass. Content remains regional-characteristics-only. Site existence/location not in doubt (OSM-surveyed NP mooring buoy) but flagged well below the 3-source bar — needs local operator confirmation to validate further."
     }
   }
 ]

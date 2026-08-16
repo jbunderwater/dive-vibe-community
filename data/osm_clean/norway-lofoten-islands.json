@@ -5,20 +5,20 @@
     "lon": 14.534333,
     "osm_id": 663871180,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "shore",
+    "entry_type": "both",
     "difficulty": "Intermediate",
-    "validation_source": "zentacle.com, museumnord.no, wikipedia.org",
+    "validation_source": "zentacle.com, museumnord.no, wikipedia.org, dykking.no, globalmaritimehistory.com",
     "tags": {
       "historic": "wreck",
       "name": "MS Hamburg",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "zentacle.com, museumnord.no, wikipedia.org",
+      "validation_source": "zentacle.com, museumnord.no, wikipedia.org, dykking.no, globalmaritimehistory.com",
       "wreck_year": "1941",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -31,7 +31,7 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validation_source": "osm_extended (wreck:date_sunk=1919-08-05); no independent web source found",
+    "validation_source": "osm_extended (wreck:date_sunk=1919-08-05); YouTube dive-operator footage confirms the site is actively dived, but no independent maritime-history source (Wikipedia, wrecksite.eu, Norwegian shipwreck registries) was located to confirm vessel identity, tonnage, or sinking cause. Below the 3-independent-source bar.",
     "tags": {
       "historic": "wreck",
       "name": "D/S General Suworow",
@@ -40,8 +40,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "osm_extended (wreck:date_sunk=1919-08-05); no independent web source found",
-      "last_qa_date": "2026-06-24"
+      "validation_source": "osm_extended (wreck:date_sunk=1919-08-05); YouTube dive-operator footage confirms the site is actively dived, but no independent maritime-history source (Wikipedia, wrecksite.eu, Norwegian shipwreck registries) was located to confirm vessel identity, tonnage, or sinking cause. Below the 3-independent-source bar.",
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -58,7 +58,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "xray-mag.com, scubadiverlife.com, lofoten-diving.no",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -75,7 +75,7 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "xray-mag.com, scubadiverlife.com, zentacle.com",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -86,13 +86,13 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validation_source": "lofoten-diving.no, visitlofoten.com, scubadiverlife.com",
+    "validation_source": "lofoten-diving.no, visitlofoten.com, scubadiverlife.com; no site-specific source found — regional characteristics applied",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "lofoten-diving.no, visitlofoten.com, scubadiverlife.com",
-      "last_qa_date": "2026-06-24"
+      "validation_source": "lofoten-diving.no, visitlofoten.com, scubadiverlife.com; no site-specific source found — regional characteristics applied",
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -103,13 +103,13 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validation_source": "visitlofoten.com, xray-mag.com, lofoten-diving.no",
+    "validation_source": "visitlofoten.com (Lofoten Opplevelser operator profile, Henningsvær-specific), xray-mag.com, lofoten-diving.no",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "visitlofoten.com, xray-mag.com, lofoten-diving.no",
-      "last_qa_date": "2026-06-24"
+      "validation_source": "visitlofoten.com (Lofoten Opplevelser operator profile, Henningsvær-specific), xray-mag.com, lofoten-diving.no",
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -120,13 +120,13 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validation_source": "visitlofoten.com, lofoten-diving.no, xray-mag.com",
+    "validation_source": "visitlofoten.com, lofoten-diving.no, xray-mag.com; no site-specific marine-life source found — regional characteristics applied",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "visitlofoten.com, lofoten-diving.no, xray-mag.com",
-      "last_qa_date": "2026-06-24"
+      "validation_source": "visitlofoten.com, lofoten-diving.no, xray-mag.com; no site-specific marine-life source found — regional characteristics applied",
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -137,13 +137,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validation_source": "zentacle.com, xray-mag.com, scubadiverlife.com",
+    "validation_source": "zentacle.com, xray-mag.com, scubadiverlife.com, lofotenplanet.wordpress.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "zentacle.com, xray-mag.com, scubadiverlife.com",
-      "last_qa_date": "2026-06-24"
+      "validation_source": "zentacle.com, xray-mag.com, scubadiverlife.com, lofotenplanet.wordpress.com",
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -154,30 +154,30 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validation_source": "visitlofoten.com, lofoten-diving.no; no site-specific source found — regional characteristics applied",
+    "validation_source": "visitlofoten.com, lofoten-diving.no, scubadiverlife.com; no site-specific source found — regional characteristics applied",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "visitlofoten.com, lofoten-diving.no; no site-specific source found — regional characteristics applied",
-      "last_qa_date": "2026-06-24"
+      "validation_source": "visitlofoten.com, lofoten-diving.no, scubadiverlife.com; no site-specific source found — regional characteristics applied",
+      "last_qa_date": "2026-08-16"
     }
   },
   {
     "name": "Maelstrom Wall",
     "lat": 67.9,
     "lon": 13.0,
-    "depth": 32,
+    "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validation_source": "wikipedia.org (Moskstraumen); site name unconfirmed in operator listings — curated entry referencing Moskstraumen area",
+    "validation_source": "zentacle.com (Moskstraumen dive-site listing), wikipedia.org (Moskstraumen), xray-mag.com; the exact label \"Maelstrom Wall\" is not used by any source — it refers to the confirmed Moskstraumen dive site",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "wikipedia.org (Moskstraumen); site name unconfirmed in operator listings — curated entry referencing Moskstraumen area",
-      "last_qa_date": "2026-06-24"
+      "validation_source": "zentacle.com (Moskstraumen dive-site listing), wikipedia.org (Moskstraumen), xray-mag.com; the exact label \"Maelstrom Wall\" is not used by any source — it refers to the confirmed Moskstraumen dive site",
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -188,13 +188,13 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validation_source": "lofoten-diving.no, xray-mag.com; no site-specific source found — regional kelp diving characteristics applied",
+    "validation_source": "lofoten-diving.no, xray-mag.com, visitlofoten.com; no site-specific source found — regional kelp diving characteristics applied",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "lofoten-diving.no, xray-mag.com; no site-specific source found — regional kelp diving characteristics applied",
-      "last_qa_date": "2026-06-24"
+      "validation_source": "lofoten-diving.no, xray-mag.com, visitlofoten.com; no site-specific source found — regional kelp diving characteristics applied",
+      "last_qa_date": "2026-08-16"
     }
   }
 ]

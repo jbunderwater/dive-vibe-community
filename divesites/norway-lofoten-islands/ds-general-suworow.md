@@ -23,6 +23,8 @@ At 18 metres in cold Norwegian coastal water, the site is suitable for intermedi
 
 Divers interested in this site should contact local operators (Lofoten Diving, Ballstad) to confirm accessibility and current condition, as the wreck's position and dive status have not been independently verified through open sources as of this writing.
 
+A 2026-08-16 re-audit searched further afield — YouTube (a dive-operator video titled "Wreck diving Lofoten - D/S GENERAL SUWOROW" confirms the site is actively dived), Wikipedia, wrecksite.eu, and Norwegian shipwreck registries (kulturminnesøk.no, sjohistorie.no, skipet.no) — and still found no independent source confirming the vessel's builder, tonnage, dimensions, or cause of sinking. This site does not meet the destination's 3-independent-source validation bar; it remains flagged rather than fully confirmed. No historical claims beyond the bare OSM tag are made here to avoid fabricating vessel history.
+
 ## Site Information
 
 - **Location**: Outer Vestfjorden area, Lofoten Islands, Norway
@@ -32,4 +34,4 @@ Divers interested in this site should contact local operators (Lofoten Diving, B
 - **Maximum Depth**: 18 meters
 
 ---
-*Description based on OSM record only (wreck:date_sunk=1919-08-05). No independent dive operator or maritime history source for this vessel was located. Last updated 2026-06-24.*
+*Description based on OSM record only (wreck:date_sunk=1919-08-05). No independent dive operator or maritime history source for this vessel was located despite a repeat search on 2026-08-16 (see Overview for sources checked). A YouTube video confirms the wreck is a known dive site but adds no verifiable history. Last updated 2026-08-16.*

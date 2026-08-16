@@ -19,6 +19,8 @@ On the night of May 12, 1940, the British battleship HMS Revenge was departing H
 
 The vessel measured 130 ft (40 m) in length, 23 ft 5 in beam, and displaced 320 long tons.
 
+**2026-08-16 re-audit:** Re-verified the collision date (May 12 1940), the HMS Revenge cause, and the no-fatalities outcome directly against independent search results. All facts consistent with the prior QA pass; no corrections needed.
+
 ## Site Information
 
 - **Location**: Halifax Harbour, Nova Scotia (harbour boom area)
@@ -40,4 +42,4 @@ Access by boat. Contact local Halifax dive operators — East Coast Scuba & Wate
 - Bring a dive light for wreck exploration
 
 ---
-*Sources: [Wikipedia — HMCS Ypres](https://en.wikipedia.org/wiki/HMCS_Ypres), [For Posterity's Sake — HMCS Ypres](https://www.forposterityssake.ca/Navy/HMCS_YPRES.htm), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Last updated 2026-06-24.*
+*Sources: [Wikipedia — HMCS Ypres](https://en.wikipedia.org/wiki/HMCS_Ypres), [For Posterity's Sake — HMCS Ypres](https://www.forposterityssake.ca/Navy/HMCS_YPRES.htm), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Last updated 2026-08-16.*

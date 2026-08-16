@@ -23,6 +23,8 @@ The site's coordinates place it closer to Salalah city than the Mirbat cluster o
 
 Previous descriptions attributed specific fish species and detailed ecology to this site; those claims have been removed as no site-specific primary source was found to support them.
 
+**Re-audit (2026-08-16):** A TripAdvisor citation previously listed for this site was removed after re-checking — the cited pages are photos and reviews of the ABT Divers operator business referencing the separate China Wreck site at Mirbat, not "ABT Salalah" specifically. Renewed searches (dive.site, divescover.com, TripAdvisor) still found no source that names a distinct "ABT Salalah" wreck with verifiable vessel details. This site remains below the three-independent-source bar for site-specific facts; only general Dhofar-region diving context is available.
+
 ## Site Information
 
 - **Location**: Salalah area, Dhofar region, Oman
@@ -34,4 +36,4 @@ Previous descriptions attributed specific fish species and detailed ecology to t
 - **Vessel Identity**: Unknown — site named after local operator ABT Divers, not a vessel
 
 ---
-*Description based on regional Dhofar diving characteristics. No site-specific primary source found for ABT Salalah wreck. Vessel identity unverified. Last updated 2026-06-24.*
+*Description based on regional Dhofar diving characteristics ([Scuba Diving in Salalah/Mirbat](https://salalahoman22.com/st_tour/scuba-diving-in-salalah/), [Beautiful Salalah - Scuba Diving](https://www.beautifulsalalah.com/scuba-diving-salalah-oman/)). No site-specific primary source found for ABT Salalah wreck after re-audit; vessel identity unverified. Last updated 2026-08-16.*

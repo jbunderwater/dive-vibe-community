@@ -34,6 +34,8 @@ The Marco Polo wreck is a shallow, historically significant Canadian National Hi
 
 The Marco Polo was built by James Smith at Saint John, New Brunswick, and launched April 17, 1851. She measured 184 ft 1 in (56.11 m) in length, with 1,625 GRT. Under Captain James "Bully" Forbes, she set the world record for the Liverpool-to-Melbourne run in 76 days in 1852 — a record that stood for years and earned her the title "Fastest Ship in the World." Sold multiple times over her career, she ended her days on the Cavendish beach on July 22, 1883. Her hull timbers were salvaged following the grounding. The wreck site was designated a National Historic Event by the Historic Sites and Monuments Board of Canada.
 
+**2026-08-16 re-audit:** Re-verified length (184 ft 1 in / 56.11 m), tonnage (1,625 GRT), launch year (1851, Saint John), and sinking cause (pump failure/taking on water, deliberately beached by Captain Bull) against independent search results. All facts consistent with the prior QA pass; no corrections needed.
+
 ## Marine Life
 
 Regional marine life of the southern Gulf of St. Lawrence includes Atlantic mackerel, winter flounder, rock crab, and sand lance. No site-specific species reports were found for the Marco Polo wreck site itself.
@@ -55,4 +57,4 @@ Dive only in flat-calm Gulf conditions. The sandy bottom can develop surge even 
 The shallow depth minimizes decompression risk. The exposed Gulf of St. Lawrence location can produce rapidly changing conditions. Cold water in June (8–10°C) warms to 15–18°C by August; a wetsuit is sufficient in summer but a drysuit is needed in shoulder seasons. No overhead environments.
 
 ---
-*Sources: [Wikipedia — Marco Polo (1851 ship)](https://en.wikipedia.org/wiki/Marco_Polo_(1851_ship)), [Resort Municipality PEI — Wreck of the Marco Polo](https://resortmunicipalitypei.com/the-wreck-of-the-marco-polo-1883/), [Parks Canada — Career of the Marco Polo](https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1543), [CBC News — Historic shipwreck washes up on PEI](https://www.cbc.ca/news/canada/prince-edward-island/historic-shipwreck-washes-up-on-p-e-i-1.661773). Last updated 2026-06-24.*
+*Sources: [Wikipedia — Marco Polo (1851 ship)](https://en.wikipedia.org/wiki/Marco_Polo_(1851_ship)), [Resort Municipality PEI — Wreck of the Marco Polo](https://resortmunicipalitypei.com/the-wreck-of-the-marco-polo-1883/), [Parks Canada — Career of the Marco Polo](https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1543), [CBC News — Historic shipwreck washes up on PEI](https://www.cbc.ca/news/canada/prince-edward-island/historic-shipwreck-washes-up-on-p-e-i-1.661773). Last updated 2026-08-16.*

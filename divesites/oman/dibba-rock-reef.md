@@ -19,9 +19,11 @@ Dibba Rock Reef is a reef dive site on the Oman side of the Musandam Peninsula n
 
 Dibba Rock Reef lies off the coast of Dibba at the southern end of the Musandam Peninsula, on the Oman side of the UAE-Oman border. The site is approximately 10 to 15 minutes by boat from Dibba and is accessible from dive operators on both the UAE and Oman sides of the bay.
 
-The reef features a combination of walls, rocky slopes, and sandy areas with coral formations, and according to SSI's dive guide, the site reaches depths of up to 40 metres at its deepest, though 18 metres is the typical recreational range. The site's protected marine area status helps sustain diverse marine life including hawksbill turtles, clownfish, parrotfish, spotted eagle rays, and reef sharks. Visibility frequently exceeds 20 to 30 metres in calm winter conditions.
+The reef features a combination of walls, rocky slopes, and sandy areas with coral formations. Depth reports for this site conflict: a dedicated dive-site database with logged dives (Divers Guide) puts the working range at 7 to 15 metres, while other listings describe drop-offs reaching as much as 30 to 40 metres. The two figures are not reconciled by available sources — 18 metres, as used here, sits within the commonly-cited recreational range, but divers should confirm maximum depth with their operator before the dive rather than assume the deeper figure. The site's protected marine area status helps sustain diverse marine life, with hawksbill turtles, clownfish, and parrotfish confirmed by multiple sources, and both gray reef shark and blacktip reef shark specifically logged by Divers Guide (visitmusandam.com separately describes "occasional reef sharks"). Visibility frequently exceeds 20 to 30 metres in calm winter conditions.
 
 There can be current at the site during strong tidal changes; divers should check conditions before entering. Despite the current potential, the site is considered beginner-friendly under normal conditions.
+
+**Re-audit (2026-08-16):** The SSI/divessi.com dive-guide link that previously supported the "40m per SSI guide" claim is now dead (redirects to a generic scubago.com homepage with no site-specific content) and has been replaced with Divers Guide, a dedicated dive-site database with logged dive reports. The depth claim is now presented as a conflict rather than a single confirmed figure — see above.
 
 ## Site Information
 
@@ -33,4 +35,4 @@ There can be current at the site during strong tidal changes; divers should chec
 - **Best Season**: October to April
 
 ---
-*Sources: [Visit Musandam - Dibba Rock](https://visitmusandam.com/dibba-rock/), [SSI Dive Guide - Dibba Rock](https://www.divessi.com/en/mydiveguide/divesite/99470), [Scuba Shade - Musandam Diving](https://www.scubashade.com/musandam-diving). Last updated 2026-06-24.*
+*Sources: [Visit Musandam - Dibba Rock](https://visitmusandam.com/dibba-rock/), [Divers Guide - Dibba Rock](https://www.divers-guide.com/en/dibba-rock-1526), [Scuba Shade - Musandam Diving](https://www.scubashade.com/musandam-diving). Re-audited 2026-08-16: replaced dead SSI/divessi.com link with Divers Guide; depth claim corrected to reflect a source conflict rather than a single figure (see above). Last updated 2026-08-16.*

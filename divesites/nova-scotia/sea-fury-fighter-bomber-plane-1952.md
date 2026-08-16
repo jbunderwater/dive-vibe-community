@@ -17,6 +17,8 @@ The Hawker Sea Fury was operated by the Royal Canadian Navy from 1948 to 1956, w
 
 **Verification note:** No public online source could be found that specifically identifies this site as a Hawker Sea Fury wreck from 1952, or confirms the exact aircraft type, serial number, or loss date. Multiple RCN Sea Fury losses are documented in military records, but none found in online sources match a 1952 Halifax harbour loss. The description of this as a "Sea Fury fighter bomber" may be accurate based on local club knowledge, but this could not be independently verified from public records. The previous claim of "fuselage sections and aircraft components remain visible" is also unverified.
 
+**2026-08-16 re-audit:** No new information found beyond the 2026-06-24 findings; aircraft type and 1952 date remain unconfirmed.
+
 ## Site Information
 
 - **Location**: Near McNabs Island / Timmins Cove, Halifax Harbour, Nova Scotia
@@ -38,4 +40,4 @@ Access by boat to McNabs Island area. Contact East Coast Scuba & Watersports (Be
 - Bring a dive light for detailed exploration of aircraft structure
 
 ---
-*Sources: [McNabs Island — Halifax Trails Guide](https://www.halifaxtrails.ca/mcnabs-island-provincial-park/), [Canadian Warplanes 5: Hawker Sea Fury RCN](https://silverhawkauthor.com/aviation/canadian-warplanes-5-hawker-sea-fury/), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Aircraft type and 1952 date not independently confirmed from public online records. Last updated 2026-06-24.*
+*Sources: [McNabs Island — Halifax Trails Guide](https://www.halifaxtrails.ca/mcnabs-island-provincial-park/), [Canadian Warplanes 5: Hawker Sea Fury RCN](https://silverhawkauthor.com/aviation/canadian-warplanes-5-hawker-sea-fury/), [Maritime Museum of the Atlantic Shipwreck Database](https://maritimemuseum.novascotia.ca/research/shipwreck-database). Aircraft type and 1952 date not independently confirmed from public online records. Last updated 2026-08-16.*

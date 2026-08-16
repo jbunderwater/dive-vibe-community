@@ -35,9 +35,11 @@ Olympus Dive Center reports 15–20 resident sand tiger sharks on a typical day,
 
 The dive site is universally known to local divers and operators as "Papoose." NOAA's Monitor Sanctuary page also uses the name Papoose for this site. Olympus Dive Center lists it as "Papoose (aka W.E. Hutton)." The two names are used interchangeably by local operators for this single dive site.
 
-**The Papoose:** A 412-foot, 5,939 GRT petroleum tanker. On 18 March 1942 she was torpedoed by German submarine U-124 off Cape Hatteras. Two crew members were killed; 32 of 34 survived. The wreck rests upside down in approximately 120–125 feet of water.
+**The Papoose:** A 412-foot petroleum tanker. On 18 March 1942 she was torpedoed by German submarine U-124 off Cape Hatteras. The wreck rests upside down, largely intact, in approximately 120–125 feet of water — both NOAA and Olympus Dive Center (which runs regular charters to the site) confirm the upside-down, largely-intact orientation.
 
 **Historical confusion:** A 1943 US Coast Guard Gentian survey incorrectly assigned wreck identities in the Cape Lookout area, creating decades of confusion between this site and nearby wrecks (Mirlo, W.E. Hutton, San Delfino). NOAA subsequently worked with local researchers to re-identify the wrecks. The dive site long known as "Papoose" to local operators is recognised by NOAA as the actual Papoose.
+
+**Pre-war origin — sources conflict:** Secondary aggregator sources disagree on the vessel's pre-1942 history. Some report she was built in 1921 as the *Silvanus* and relaunched as *Papoose* in 1927 after being auctioned to the Petroleum Navigation Company; others report she was built in 1920 by Bethlehem Shipbuilding Corporation and originally commissioned as the *Portola Plumas*. Neither NOAA's Monitor Sanctuary page nor Olympus Dive Center's site page — the two primary operator/agency sources for this wreck — specify a builder or original name, so this detail cannot be confirmed against a primary source. It is presented here as an open discrepancy rather than a verified fact.
 
 ## Dive Profile
 
@@ -56,4 +58,4 @@ The resident sand tiger shark population is the signature feature — on a good 
 At 120 ft this is at the recreational depth limit; nitrox is widely recommended. The 36-nautical-mile offshore location means sea conditions on the open Atlantic can change rapidly. Currents in Gulf Stream water can be significant. Always follow charter operator guidance, and be prepared for thermoclines separating warmer surface water from cooler deep water.
 
 ---
-*Sources: [NOAA Monitor Sanctuary — Papoose](https://monitor.noaa.gov/shipwrecks/papoose.html), [Olympus Dive Center — Papoose](https://olympusdiving.com/papoose), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites). Last updated 2026-06-24.*
+*Sources: [NOAA Monitor Sanctuary — Papoose](https://monitor.noaa.gov/shipwrecks/papoose.html), [Olympus Dive Center — Papoose](https://olympusdiving.com/papoose), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites). Last updated 2026-08-16. QA re-audit 2026-08-16: re-verified against current source pages; flagged an unresolved conflict in secondary sources over the vessel's pre-1942 name/builder (not confirmable against NOAA or Olympus).*

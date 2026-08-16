@@ -10,13 +10,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/shipwrecks/papoose.html, olympusdiving.com/papoose, nc-wreckdiving.com/WRECKS/PAPOOSE/PAPOOSE.HTML",
+    "validation_source": "monitor.noaa.gov/shipwrecks/papoose.html, olympusdiving.com/papoose, discoverydiving.com/diving/dive-sites",
     "tags": {
       "historic": "wreck",
       "name": "Paposse (Wrack)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -36,7 +36,7 @@
       "name": "U-576 (Wrack)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -56,7 +56,7 @@
       "name": "U-85 (Wrack)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -76,7 +76,7 @@
       "name": "U-352 (Wrack)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -88,15 +88,15 @@
     "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/USS_Indra_(ARL-37), olympusdiving.com/en/indra, nc-wreckdiving.com/WRECKS/INDRA/INDRA.HTML",
+    "validation_source": "en.wikipedia.org/wiki/USS_Indra_(ARL-37), olympusdiving.com/indra, evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives, discoverydiving.com/diving/dive-sites, nc-wreckdiving.com/WRECKS/INDRA/INDRA.HTML",
     "tags": {
       "historic": "wreck",
       "name": "Indra (Wrack)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -110,13 +110,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/USS_Aeolus_(ARC-3), olympusdiving.com/aeolus, outrageousdiving.com/aeolus-dive-site",
+    "validation_source": "en.wikipedia.org/wiki/USS_Aeolus_(ARC-3), olympusdiving.com/aeolus, outrageousdiving.com/aeolus-dive-site, discoverwildlife.com/animal-facts/marine-animals/aeolus-north-carolina",
     "tags": {
       "historic": "wreck",
       "name": "Aeolus (Wrack)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -130,7 +130,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/Queen_Anne%27s_Revenge, qaronline.org/history/discovery-shipwreck, archaeology.ncdcr.gov",
+    "validation_source": "en.wikipedia.org/wiki/Queen_Anne%27s_Revenge, qaronline.org/history/discovery-shipwreck, justgottadive.com/dive_resources/travel_articles/north-carolinas-queen-annes-revenge-diving-blackbeards-pirate-ship, archaeology.ncdcr.gov",
     "tags": {
       "historic": "wreck",
       "name": "Queen Anne's Revenge Shipwreck",
@@ -138,7 +138,7 @@
       "wreck:date_sunk": "1718",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -150,7 +150,7 @@
     "depth": 9,
     "site_type": "wreck",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": "true",
     "validation_source": "archaeology.ncdcr.gov/uab/heritage-dive-sites/huron, en.wikipedia.org/wiki/USS_Huron_(1875), dncr.nc.gov/blog/2016/11/24/wreck-huron-outer-banks-1877",
     "tags": {
@@ -167,7 +167,7 @@
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -189,7 +189,7 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "archaeology.ncdcr.gov/programs/uab/heritagedivesites",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     },
     "depth_max": 20
   },
@@ -218,7 +218,7 @@
       "wreck:date_sunk": "1942-05-11",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -230,9 +230,9 @@
     "depth": 5,
     "site_type": "wreck",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "obx4sale.com/shipwreck-secrets-of-salvo-the-true-story-of-the-ss-richmond, divehatteras.com/beach%20wrecks.html, nps.gov/submerged/parks/caha.html",
+    "validation_source": "obx4sale.com/shipwreck-secrets-of-salvo-the-true-story-of-the-ss-richmond, civilwartraveler.blog/2023/04/20/shipwrecks-off-north-carolina-the-oriental, divehatteras.com/beach%20wrecks.html",
     "tags": {
       "description": "The SS Richmond was formerly the blockade runner Blenheim, built in 1848 by the firm of Tod and MacGregor, in Glasgow, Scotland.",
       "historic": "wreck",
@@ -242,7 +242,7 @@
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -256,7 +256,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "monitor.noaa.gov/visit, en.wikipedia.org/wiki/Monitor_National_Marine_Sanctuary, marinersmuseum.org/conservation/uss-monitor",
+    "validation_source": "monitor.noaa.gov/visit, monitor.noaa.gov/shipwrecks/uss_monitor.html, en.wikipedia.org/wiki/Monitor_National_Marine_Sanctuary, marinersmuseum.org/conservation/uss-monitor, scubadiving.com/diving-monitor-national-marine-sanctuary",
     "tags": {
       "historic": "wreck",
       "name": "USS Monitor",
@@ -266,7 +266,7 @@
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -280,13 +280,13 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/Diamond_Shoals, nps.gov/submerged/parks/caha.html, divehatteras.com",
+    "validation_source": "en.wikipedia.org/wiki/Diamond_Shoals, news.ecu.edu/2019/07/31/sharks-and-shipwrecks, divehatteras.com",
     "tags": {
       "name": "Diamond Shoals",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   },
   {
@@ -298,9 +298,9 @@
     "depth": 6,
     "site_type": "wreck",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204), navsource.org/archives/12/171204.htm, discoverydiving.com/diving/dive-sites",
+    "validation_source": "en.wikipedia.org/wiki/USS_Pilgrim_(SP-1204), navsource.org/archives/12/171204.htm",
     "tags": {
       "access": "yes",
       "description": "Yacht converted into Patrol Vessel in WWI, scuttled as a breakwater in 1935",
@@ -313,7 +313,7 @@
       "wreck:date_sunk": "1935",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "last_qa_date": "2026-06-24"
+      "last_qa_date": "2026-08-16"
     }
   }
 ]

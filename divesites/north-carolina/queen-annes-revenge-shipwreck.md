@@ -29,7 +29,7 @@ Queen Anne's Revenge was Blackbeard's flagship — the vessel he captured as the
 
 ## Marine Life
 
-The tidal inlet environment with 2–10 ft visibility limits marine life observation. Sheepshead and black sea bass are commonly found around the cannon and ironwork. The shifting sand periodically exposes and covers different sections of the wreck.
+The tidal inlet environment with 2–10 ft visibility limits marine life observation, and few site-specific reports exist. Just Gotta Dive's account of the structured dive program specifically mentions encounters with octopus, flounder, toadfish, and bream around the wreck. The shifting sand periodically exposes and covers different sections of the site.
 
 ## Wreck History
 
@@ -56,4 +56,4 @@ Visit the North Carolina Maritime Museum in Beaufort to view the remarkable arti
 The tidal inlet environment creates strong currents that vary significantly with tidal stage — diving is only safe at or near slack tide. Visibility of 2–10 ft means buddy separation risk is high; maintain contact throughout. As an active archaeological site, disturbing or collecting any material is prohibited by state and federal law.
 
 ---
-*Sources: [Wikipedia — Queen Anne's Revenge](https://en.wikipedia.org/wiki/Queen_Anne%27s_Revenge), [Queen Anne's Revenge Project](https://www.qaronline.org/history/discovery-shipwreck), [Just Gotta Dive — QAR Diving](https://www.justgottadive.com/dive_resources/travel_articles/north-carolinas-queen-annes-revenge-diving-blackbeards-pirate-ship), [Scuba Diving Magazine — Queen Anne's Revenge](https://www.scubadiving.com/travel/south/queen-annes-revenge). Last updated 2026-06-24.*
+*Sources: [Wikipedia — Queen Anne's Revenge](https://en.wikipedia.org/wiki/Queen_Anne%27s_Revenge), [Queen Anne's Revenge Project](https://www.qaronline.org/history/discovery-shipwreck), [Just Gotta Dive — QAR Diving](https://www.justgottadive.com/dive_resources/travel_articles/north-carolinas-queen-annes-revenge-diving-blackbeards-pirate-ship), [NC Underwater Archaeology Branch](https://archaeology.ncdcr.gov/programs/underwaterarchaeology). Last updated 2026-08-16. QA re-audit 2026-08-16: re-fetched Just Gotta Dive directly and confirmed the 300-dives/year, Sept–Nov, $500, 1.5-day-education access details are unchanged; replaced the unsourced generic "sheepshead and black sea bass" marine-life claim with the octopus/flounder/toadfish/bream species actually named in that source. Scuba Diving Magazine reference removed from this footer — its specific content for this site could not be re-verified this pass.*

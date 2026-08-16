@@ -19,6 +19,8 @@ The beach entry is very easy, starting on small pebbles and rocks with sand doll
 
 Surge and currents are generally not a problem here. Westerly winds can produce sizeable waves, so check conditions before entry. Average visibility is 10–20 feet, weather-dependent.
 
+**2026-08-16 re-audit:** Re-fetched the East Coast Scuba & Watersports Fox Point Beach page directly; all facts above (depth, marine life, entry description, left/right shoreline split) remain consistent with the live page. No changes required.
+
 ## Site Information
 
 - **Location**: Fox Point, St. Margaret's Bay, Nova Scotia (near Hubbards)
@@ -44,4 +46,4 @@ Direct beach access with easy entry. Park at the beach and walk to water's edge.
 - Dive light useful for crevice and rocky areas
 
 ---
-*Sources: [East Coast Scuba & Watersports — Fox Point Beach](https://www.eastcoastscuba.com/fox-point-beach-dive-site), [PADI — Fox Point Beach](https://www.padi.com/dive-site/canada/fox-point-beach/), [Zentacle — Fox Point Beach](https://www.zentacle.com/Beach/10976/fox-point-beach). Last updated 2026-06-24.*
+*Sources: [East Coast Scuba & Watersports — Fox Point Beach](https://www.eastcoastscuba.com/fox-point-beach-dive-site), [PADI — Fox Point Beach](https://www.padi.com/dive-site/canada/fox-point-beach/), [Zentacle — Fox Point Beach](https://www.zentacle.com/Beach/10976/fox-point-beach). Last updated 2026-08-16.*

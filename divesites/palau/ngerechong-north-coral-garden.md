@@ -16,9 +16,9 @@ addedBy: osm_import
 A shallow coral reef in southern Palau's Rock Islands offering pristine hard coral coverage in calm, protected conditions
 
 ## Overview
-Ngerechong North Coral Garden is a shallow reef dive on the northern side of Ngerechong Island in the southern Rock Islands. The site is characterised by its hard coral coverage in a maximum depth of 12 meters, in calm conditions protected by the surrounding Rock Islands geography. The site is typically dived in combination with the nearby Ngerechong Drop-off, offering a contrasting reef-and-wall experience on the same trip.
+Ngerechong North Coral Garden is a shallow reef dive on the northern side of Ngerechong Island, part of a horseshoe-shaped reef system in the southern Rock Islands approximately 21 miles (34 km) southeast of Koror, near Denges Passage. The site is characterised by its hard coral coverage on a sloping sandy bottom in a maximum depth of 12 meters, in calm conditions protected by the surrounding Rock Islands geography, with visibility of 20–30 meters reported on incoming tide. The site is typically dived in combination with the nearby Ngerechong Drop-off, offering a contrasting reef-and-wall experience on the same trip.
 
-Note: Ngerechong North Coral Garden receives limited coverage in published dive sources compared to Palau's more famous sites. The description reflects what is confirmed by OSM dive data and regional operator descriptions. Specific claims about coral density rankings or exceptional species records have not been verified by three independent sources and are not included here.
+Note: Ngerechong North Coral Garden receives limited coverage in published dive sources compared to Palau's more famous sites. The description reflects what is confirmed by OSM dive data, regional operator descriptions, and a Scuba Diving magazine feature on the area. The nearby Denges Passage is known for rare cuttlefish sightings, but that is a distinct location — cuttlefish are not attributed to this site specifically. Specific claims about coral density rankings or exceptional species records have not been verified by three independent sources and are not included here.
 
 ## Site Information
 - **Location**: Ngerechong Island, Rock Islands, Palau, Micronesia
@@ -52,4 +52,4 @@ This is one of Palau's safest dive sites. Shallow depth, calm conditions, and no
 Wide-angle with a close-focus setup captures the reef formations with fish populations providing foreground interest. Natural light at this depth is excellent. Macro shooters will find anemonefish, nudibranchs, and crustaceans throughout. Calm conditions allow precise composition without fighting current.
 
 ---
-*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-06-25.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Dive The World – Palau](https://www.dive-the-world.com/diving-sites-palau.php), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/), [Scuba Diving – Palau's Lucky Seven](https://www.scubadiving.com/palaus-lucky-seven). Last updated 2026-08-16.*

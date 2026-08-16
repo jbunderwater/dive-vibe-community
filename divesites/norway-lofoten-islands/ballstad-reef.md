@@ -19,7 +19,7 @@ Ballstad Reef is a wall and canyon dive site off the fishing village of Ballstad
 
 The dive area southwest of Ballstad is described by X-Ray Mag's Lofoten dive guide as featuring "deep canyons and spectacular walls" — including a site called the Grand Canyon by local operators, where two large vertical rock faces covered in dead man's fingers (Alcyonium digitatum) create a colourful passage down to a kelp-forested canyon floor. The area is rated among the best dive sites accessible from Ballstad, the base of Lofoten Diving (Norway's leading Lofoten dive operator).
 
-The walls support dense communities of cold-water soft corals and anemones, with lumpfish and sculpins resting on rocky surfaces and pollock schooling in the water column above. Nudibranchs including Facelina auriculata are found throughout. Maximum depth in this area is approximately 18–20 metres to the canyon floor; the wall faces begin from shallow depths.
+The walls support dense communities of cold-water soft corals and anemones, with lumpfish and sculpins resting on rocky surfaces and pollock schooling in the water column above (X-Ray Mag). Nudibranchs, including Facelina auriculata, are documented in the wider Ballstad skerries diving area rather than this canyon specifically — expect similar macro life here, but treat the exact species list as regional rather than confirmed for this precise spot. Maximum depth in this area is approximately 18–20 metres to the canyon floor; the wall faces begin from shallow depths.
 
 Drysuit is required year-round; water temperature is 2–6°C in winter and 8–12°C in summer. Boat access from Ballstad harbour.
 
@@ -32,4 +32,4 @@ Drysuit is required year-round; water temperature is 2–6°C in winter and 8–
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Lofoten Diving](https://lofoten-diving.no/). Last updated 2026-06-24.*
+*Sources: [X-Ray Mag — Diving Lofoten in Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life — Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Lofoten Diving](https://lofoten-diving.no/). Re-audited 2026-08-16, no factual changes required beyond tightening marine-life attribution. Last updated 2026-08-16.*

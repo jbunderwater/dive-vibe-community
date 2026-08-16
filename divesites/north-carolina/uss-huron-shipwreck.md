@@ -2,7 +2,7 @@
 name: USS Huron Shipwreck
 lat: 35.9769451
 lng: -75.6309881
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 9
 entryType: shore
 siteType: wreck
@@ -17,14 +17,14 @@ USS Huron Shipwreck is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The USS Huron was an iron-hulled Navy gunboat that ran aground 250 yards off Nags Head at 1:30 am on 24 November 1877, killing 98 men in the surf — a national tragedy that directly led to Congress funding new US Lifesaving Service stations along the North Carolina coast. The wreck sits in just 9 metres of water and is North Carolina's first designated Historic Shipwreck Preserve, marked by buoys in summer with the boilers, cannonball storage racks, and the massive propeller and rudder all clearly visible to snorkellers and entry-level divers. The site lies between mileposts 11 and 12 at Nags Head and is the most accessible wreck dive on the Outer Banks, managed cooperatively by the state, the Town of Nags Head, and the US Navy.
+The USS Huron was an iron-hulled Navy gunboat that ran aground 250 yards off Nags Head at 1:30 am on 24 November 1877, killing 98 men in the surf — a national tragedy that directly led to Congress funding new US Lifesaving Service stations along the North Carolina coast. The wreck sits in just 9 metres of water and is North Carolina's first designated Historic Shipwreck Preserve, marked by buoys in summer with the boilers, cannonball storage racks, and the massive propeller and rudder all visible. The site lies between mileposts 11 and 12 at Nags Head and is the most accessible wreck dive on the Outer Banks, managed cooperatively by the state, the Town of Nags Head, and the US Navy. It is rated Intermediate here rather than Beginner: while the wreck itself sits in shallow, physically undemanding water, this destination's cold-water Atlantic surf-zone entry — open ocean, unpredictable surf, and a 250-yard swim — carries real risk that a sheltered shallow dive would not.
 
 ## Site Information
 
 - **Location**: North Carolina, North America
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 9 meters
 
 ## Marine Life
@@ -41,7 +41,7 @@ The wreck was listed on the National Register of Historic Places on 15 November 
 
 ## Dive Profile
 
-The Huron lies in 9 m (30 ft) of water, 250 yards off the Nags Head shoreline between mileposts 11 and 12. The wreck is marked with buoys at the bow and stern during summer months. Visible features include the boilers, cannonball storage racks, the large propeller, and rudder. The shallow depth and shore access make this suitable for snorkelers and entry-level scuba divers, though surf and current conditions are unpredictable.
+The Huron lies in 9 m (30 ft) of water, 250 yards off the Nags Head shoreline between mileposts 11 and 12. The wreck is marked with buoys at the bow and stern during summer months. Visible features include the boilers, cannonball storage racks, the large propeller, and rudder. The shallow depth makes the wreck itself undemanding, but surf and current conditions in the entry/exit swim are unpredictable, which is why this destination's cold-water/surf-zone policy rates the site Intermediate rather than Beginner.
 
 ## Entry and Exit
 
@@ -56,4 +56,4 @@ The buoys are only deployed in summer — check with local dive shops for exact 
 Open-ocean surf conditions can change rapidly on the Outer Banks — always check surf forecasts before entering. The wreck sits in the Atlantic surf zone; surge can be strong even in apparently calm conditions. Use a dive flag visible to boat traffic. The 250-yard swim to the wreck in surf requires good swimming fitness; do not attempt in rough conditions. Artifact collection is prohibited under state and federal law — the site is a legally protected Historic Shipwreck Preserve.
 
 ---
-*Sources: [NC Archaeology — USS Huron Historic Shipwreck Preserve](https://archaeology.ncdcr.gov/uab/heritage-dive-sites/huron), [Wikipedia — USS Huron (1875)](https://en.wikipedia.org/wiki/USS_Huron_(1875)), [NC DNCR — The Wreck of the Huron 1877](https://www.dncr.nc.gov/blog/2016/11/24/wreck-huron-outer-banks-1877), [Outer Banks Coastal Life — USS Huron](https://outerbankscoastallife.com/uss-huron/). Last updated 2026-06-24.*
+*Sources: [NC Archaeology — USS Huron Historic Shipwreck Preserve](https://archaeology.ncdcr.gov/uab/heritage-dive-sites/huron), [Wikipedia — USS Huron (1875)](https://en.wikipedia.org/wiki/USS_Huron_(1875)), [NC DNCR — The Wreck of the Huron 1877](https://www.dncr.nc.gov/blog/2016/11/24/wreck-huron-outer-banks-1877), [Outer Banks Coastal Life — USS Huron](https://outerbankscoastallife.com/uss-huron/). Last updated 2026-08-16. QA re-audit 2026-08-16: facts re-checked, unchanged; difficulty raised from Beginner to Intermediate per this destination's cold-water Atlantic minimum-difficulty policy.*

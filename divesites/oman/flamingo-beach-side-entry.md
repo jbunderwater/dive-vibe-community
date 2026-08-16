@@ -33,4 +33,4 @@ The site operates seasonally from October to May.
 - **Season**: October to May (closed during khareef monsoon)
 
 ---
-*Description based on regional Dhofar diving characteristics. "Flamingo Beach" not confirmed by name in available Mirbat operator site lists — site name may be informal or local. No site-specific primary source found. Last updated 2026-06-24.*
+*Description based on regional Dhofar diving characteristics. "Flamingo Beach" not confirmed by name in available Mirbat operator site lists — site name may be informal or local. Re-audited 2026-08-16: repeated search still found no operator or database confirming this name; results returned only the unrelated Kheva/Kiva wreck snorkeling product and an unrelated "Flamingo Beach" in Ras Al Khaimah, UAE (different country, confirmed not the same site). No site-specific primary source found. Last updated 2026-08-16.*

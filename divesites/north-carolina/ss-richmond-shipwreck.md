@@ -2,7 +2,7 @@
 name: SS Richmond Shipwreck
 lat: 35.5411471
 lng: -75.464386
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 5
 entryType: shore
 siteType: wreck
@@ -17,14 +17,14 @@ SS Richmond Shipwreck is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The SS Richmond was formerly the Confederate blockade runner Blenheim — a British-built steamer that successfully ran the Union blockade into Wilmington four times before being captured after Fort Fisher fell in January 1865, then renamed Richmond and pressed into commercial service before running aground near Salvo on Hatteras Island on 25 January 1866 after a faulty compass sent her off course. The wreck lies in very shallow water of 3–5 metres on the Outer Banks shoreline, with the steeple steam engine — a distinctive British design that helped confirm the vessel's true identity after decades of misidentification as the Pocahontas — and a section of paddle wheel visible from the beach. The site sits in the protected Pamlico Sound–facing shallows near Salvo and offers an accessible, historically layered experience combining Civil War blockade-running history with the coastal archaeology of the Outer Banks.
+The SS Richmond was formerly the Confederate blockade runner Blenheim — a British-built steamer that successfully ran the Union blockade into Wilmington four times before being captured after Fort Fisher fell in January 1865, then renamed Richmond and pressed into commercial service before running aground near Salvo on Hatteras Island on 25 January 1866 after a faulty compass sent her off course. The wreck lies in very shallow water of 3–5 metres on the Outer Banks shoreline, with the steeple steam engine — a distinctive British design that helped confirm the vessel's true identity after decades of misidentification as the Pocahontas — and a section of paddle wheel visible from the beach. The site sits in the protected Pamlico Sound–facing shallows near Salvo and offers a historically layered experience combining Civil War blockade-running history with the coastal archaeology of the Outer Banks. It is rated Intermediate here rather than Beginner: although the water itself is very shallow and calm, remote beach access (4WD, permit, soft sand) and this destination's cold-water Atlantic policy apply regardless of depth.
 
 ## Site Information
 
 - **Location**: North Carolina, North America
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
 
 ## Marine Life
@@ -49,7 +49,7 @@ Shore access via Ramp 23 near Salvo on Hatteras Island; drive north on the beach
 
 ## Safety Considerations
 
-The very shallow depth (3–5 m) and protected sound-side location make this one of the most accessible dives on the Outer Banks. Boat traffic in the sound requires a dive flag. Check beach driving conditions before visiting — soft sand sections require 4WD and appropriate tire pressure reduction.
+The very shallow depth (3–5 m) and protected sound-side location make the water itself one of the least demanding on the Outer Banks, but 4WD beach access, remoteness, and this destination's cold-water Atlantic policy keep it at Intermediate rather than Beginner. Boat traffic in the sound requires a dive flag. Check beach driving conditions before visiting — soft sand sections require 4WD and appropriate tire pressure reduction.
 
 ---
-*Sources: [OBX4Sale — Shipwreck Secrets of Salvo: The True Story of the SS Richmond](https://obx4sale.com/shipwreck-secrets-of-salvo-the-true-story-of-the-ss-richmond/), [Civil War Traveler — Shipwrecks off North Carolina: SS Richmond](https://civilwartraveler.blog/2023/04/20/shipwrecks-off-north-carolina-the-oriental/), [Dive Hatteras — Cape Hatteras Beach Wrecks](https://www.divehatteras.com/beach%20wrecks.html). Last updated 2026-06-24.*
+*Sources: [OBX4Sale — Shipwreck Secrets of Salvo: The True Story of the SS Richmond](https://obx4sale.com/shipwreck-secrets-of-salvo-the-true-story-of-the-ss-richmond/), [Civil War Traveler — Shipwrecks off North Carolina: SS Richmond](https://civilwartraveler.blog/2023/04/20/shipwrecks-off-north-carolina-the-oriental/), [Dive Hatteras — Cape Hatteras Beach Wrecks](https://www.divehatteras.com/beach%20wrecks.html). Last updated 2026-08-16. QA re-audit 2026-08-16: the previously cited nps.gov/submerged/parks/caha.html URL now returns 404 and was removed from sourcing; Civil War Traveler (already cited here) was confirmed live and directly corroborates the Blenheim/Richmond identification and grounding account, and now also backs the JSON `validation_source` field. Difficulty raised from Beginner to Intermediate per this destination's cold-water Atlantic minimum-difficulty policy.*
