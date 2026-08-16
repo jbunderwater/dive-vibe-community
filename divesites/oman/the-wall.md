@@ -21,6 +21,8 @@ The Wall is a vertical reef structure in the Mirbat area, approximately 70 kilom
 
 The site is accessible by boat and operated seasonally from October to May, outside the annual khareef (monsoon) season that closes the Dhofar coast to diving each summer.
 
+**Re-audit (2026-08-16):** Re-checked all three regionally-cited sources; none names a site called "The Wall" specifically. Salalah operator listings (salalahoman22.com, beautifulsalalah.com) name Eagle Bay, China Wreck, and Aquarium as the three Mirbat sites they promote by name, while regal-diving.co.uk names Chinese Wreck and Marriott Wreck. These sources confirm the broader Mirbat/Salalah area includes "coral walls" among its terrain and support the general depth/season/access details above, but do not confirm this specific named site. Left unresolved pending a source that names "The Wall" directly.
+
 ## Site Information
 
 - **Location**: Mirbat area, Dhofar region, Oman (approx. 70km from Salalah)
@@ -31,4 +33,4 @@ The site is accessible by boat and operated seasonally from October to May, outs
 - **Season**: October to May (closed during khareef monsoon)
 
 ---
-*Description based on regional Dhofar diving characteristics and operator information. No site-specific primary sources found for The Wall specifically. Last updated 2026-06-24.*
+*Description based on regional Dhofar diving characteristics and operator information ([Scuba Diving in Salalah/Mirbat](https://salalahoman22.com/st_tour/scuba-diving-in-salalah/), [Beautiful Salalah - Scuba Diving](https://www.beautifulsalalah.com/scuba-diving-salalah-oman/), [Regaldive - Salalah & Mirbat](https://www.regal-diving.co.uk/salalah-mirbat)). No site-specific primary source found for The Wall by name, confirmed again on re-audit. Last updated 2026-08-16.*

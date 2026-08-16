@@ -15,8 +15,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "salalahoman22.com,beautifulsalalah.com,regal-diving.co.uk",
-      "last_qa_date": "2026-06-24",
-      "notes": "Located in Mirbat area, Dhofar region, ~70km from Salalah. Wall dive along rocky coastal cliff face. Operated by local Salalah dive operators. Seasonal: Oct-May only due to khareef monsoon."
+      "last_qa_date": "2026-08-16",
+      "notes": "Located in Mirbat area, Dhofar region, ~70km from Salalah. Wall dive along rocky coastal cliff face. Operated by local Salalah dive operators. Seasonal: Oct-May only due to khareef monsoon. RE-AUDIT 2026-08-16: Re-pulled all three cited sources; none name a site called \"The Wall\" specifically (salalahoman22.com and beautifulsalalah.com's named Mirbat sites are Eagle Bay, China Wreck, and Aquarium only; regal-diving.co.uk names Chinese Wreck and Marriott Wreck only). These sources support the general Mirbat/Salalah regional character (season, boat access, \"coral walls\" mentioned as part of the area's terrain per regal-diving.co.uk) but do not constitute site-specific confirmation of \"The Wall\" by name. Flagged as sub-3-source for site-specific claims per deep-QA standard; site_type and depth left unchanged absent contrary evidence. No factual corrections needed to existing description, which already disclosed this gap."
     }
   },
   {
@@ -34,9 +34,9 @@
       "name": "Aquarium",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "salalahoman22.com,beautifulsalalah.com,regal-diving.co.uk",
-      "last_qa_date": "2026-06-24",
-      "notes": "Located in Mirbat area, Dhofar region. Site type corrected from 'wall' to 'reef': multiple sources describe this as a coral garden/reef with large table corals, not a vertical wall. Named for dense fish life resembling an aquarium. Shore-accessible, shallow coral garden 8-18m. Seasonal: Oct-May."
+      "validation_source": "salalahoman22.com,beautifulsalalah.com,regal-diving.co.uk,offbeatenwaves.com",
+      "last_qa_date": "2026-08-16",
+      "notes": "Located in Mirbat area, Dhofar region. Site type corrected from 'wall' to 'reef' in prior pass: multiple sources describe this as a coral garden/reef with large table corals, not a vertical wall. Shore-accessible via Mirbat's boat operators, shallow coral garden 8-18m. Seasonal: Oct-May. RE-AUDIT 2026-08-16 (HALLUCINATION FOUND AND CORRECTED): the marine-life text in the prior markdown pass (\"hundreds of shrimp gobies\", \"some of the largest moray eels in the region\") was traced to bluewaterdivetravel.com's description of a DIFFERENT site also named \"Aquarium\" located in the Hallaniyat Islands (\"Aquarium, Hallaniyat... Only visited once each week by one liveaboard\") -- a remote offshore location, not this Mirbat shore site. That species list has been removed from the markdown as a source misattribution. Replacement marine-life text now draws on offbeatenwaves.com/divesalalah-aggregated descriptions of the Mirbat trio (Eagle Bay, China Wreck, Aquarium) collectively: nudibranchs, flatworms, shrimp and other crustaceans, clownfish, octopus, morays, and stonefish, with rays, turtles and barracudas also reported in the area -- phrased as cluster-level, not asserted as Aquarium-exclusive sightings."
     }
   },
   {
@@ -54,9 +54,9 @@
       "name": "China Wreck (direction 150deg)",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "salalahoman22.com,beautifulsalalah.com,regal-diving.co.uk,omanobserver.om",
-      "last_qa_date": "2026-06-24",
-      "notes": "Located in Mirbat area, Dhofar region. Vessel identity: possibly SS Kiva (also spelled Kheva), a pilgrim passenger vessel that departed Bombay for Mecca in 1893 with ~979 pilgrims. A fire broke out in the cargo hold; the vessel steered toward Mirbat port and sank approximately 300 metres offshore. Oman Observer (2021) and Muscat Daily (2021) both reported on the Oman Ministry of Heritage and Tourism's documentation survey of 'a 128-year-old wreck off Mirbat' identified as the Kiva; dive operators in the region have subsequently linked this to the China Wreck site. CONFLICT: one operator source describes the wreck only as 'a former steam-powered ship scattered over ~80m N-S' without naming the Kiva; the 'China Wreck' name may alternatively refer to porcelain/china cargo found at the site. Vessel identity is probable but not fully resolved — do not state as confirmed fact. The '150-year-old' claim in previous description was unsourced and has been removed. Direction '150deg' used as navigational bearing from shore. Seasonal: Oct-May."
+      "validation_source": "salalahoman22.com,beautifulsalalah.com,regal-diving.co.uk,omanobserver.om,muscatdaily.com",
+      "last_qa_date": "2026-08-16",
+      "notes": "Located in Mirbat area, Dhofar region. Direction '150deg' is a navigational bearing from shore. Seasonal: Oct-May. WRECK-HISTORY DEEP RESEARCH 2026-08-16 (per deep-QA requirement, >=2 independent sources cross-checked; no Wikipedia article exists for this vessel under either spelling -- searched and confirmed absent): Oman Observer (2021, https://www.omanobserver.om/article/1103793/oman/tourism/oman-completes-documentation-of-sunken-ship-kiva) and Muscat Daily (2021, https://www.muscatdaily.com/2021/07/13/ministry-completes-documenting-128-year-old-wreckage-off-mirbat/) both report Oman's Ministry of Heritage and Tourism documented a '128-year-old' wreck off Mirbat identified as the 'Kiva' -- a pilgrim vessel that departed Bombay for Mecca in 1893 with ~979 pilgrims, lost to a cargo-hold fire. SOURCE CONFLICT: separate tour-booking sources (GetYourGuide, Expedia, and syndicated reprints) describe a 'Kheva Wreck' that sank in 1874 after a fire en route from Bombay to Jeddah, resting in only 3-5 metres of water shallow enough for snorkellers. 'Kiva' and 'Kheva' are widely treated online as the same vessel (name variant), but the sinking year (1893 vs 1874), destination (Mecca vs Jeddah), and critically the DEPTH (this dive site is a 25m boat-accessible wreck vs the 3-5m snorkel-depth 'Kheva Wreck' tourism product) directly conflict. This may indicate two distinct wrecks conflated under similar names, or a single debris field spanning shallow-to-deep sections. No primary maritime database (Lloyd's Register, Wrecksite.eu) entry was located to resolve this -- searched, none found. One Salalah operator source describes the site only as 'a former steam-powered vessel scattered over ~80m N-S' without naming the Kiva, and the 'China Wreck' name may alternatively reflect porcelain/china cargo found among the debris rather than the ship's origin. Vessel identity, exact build date, tonnage, and precise sinking date remain UNVERIFIED beyond 'probable Kiva/Kheva, fire-related loss, Bombay-departure pilgrim vessel, late 19th century.' Do not state any of the conflicting specifics (year, destination, depth) as settled fact -- markdown must present them as a conflict."
     }
   },
   {
@@ -73,9 +73,9 @@
       "name": "ABT Salalah",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "salalahoman22.com,beautifulsalalah.com,tripadvisor.com",
-      "last_qa_date": "2026-06-24",
-      "notes": "Located near Salalah city (Dhofar region), coordinates different from Mirbat cluster (~60km west of Mirbat sites). Site name 'ABT Salalah' appears to be named after the local operator ABT Divers, not a vessel name. Vessel identity UNKNOWN — no source confirms the actual ship name, tonnage, or sinking date for this specific site. Depth: local operator listings and regional sources indicate 30+ metres — not the 25m in OSM. Difficulty: Advanced (depth exceeds typical intermediate range, offshore conditions). Do not conflate with the 'China Wreck' at Mirbat (different site, different coordinates). Wreck conflict: site identity unresolved. Further research needed."
+      "validation_source": "salalahoman22.com,beautifulsalalah.com",
+      "last_qa_date": "2026-08-16",
+      "notes": "Located near Salalah city (Dhofar region), coordinates different from Mirbat cluster (~60km west of Mirbat sites). Site name 'ABT Salalah' appears to be named after the local operator ABT Divers, not a vessel name. Vessel identity UNKNOWN -- no source confirms the actual ship name, tonnage, or sinking date for this specific site. Depth: local operator listings and regional sources indicate 30+ metres -- not the 25m in OSM. Difficulty: Advanced. Do not conflate with the 'China Wreck' at Mirbat (different site, different coordinates, ~60km away). RE-AUDIT 2026-08-16: removed tripadvisor.com from validation_source -- re-checked the cited TripAdvisor pages and found they are photos/reviews of the ABT Divers operator business referencing the separate 'China Wreck' site at Mirbat, not 'ABT Salalah' specifically; retaining it would have been padding a source that doesn't substantively support this site's facts (violates deep-QA no-padding rule). Remaining two domains (salalahoman22.com, beautifulsalalah.com) provide only general Dhofar-region diving context, not site-specific confirmation of 'ABT Salalah'. Flagged unresolved: <3 substantive sources found despite renewed search (WebSearch for \"ABT Salalah\" wreck dive site, dive.site, divescover.com, dive.site profile of ABT Divers all reviewed -- none name a distinct 'ABT Salalah' wreck). Wreck identity and site-specific facts remain unresolved; validated flag left unchanged per instruction not to downgrade solely for source count, since the existing description already honestly discloses the unknowns rather than fabricating them."
     }
   },
   {
@@ -94,8 +94,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "salalahoman22.com,beautifulsalalah.com",
-      "last_qa_date": "2026-06-24",
-      "notes": "Located in Mirbat area, Dhofar region. Flamingo Beach is a sheltered cove with coral reef. Multiple entry points mapped as separate sites. 'Flamingo Beach' not found by that name in operator site lists — may be a local/informal name for a cove in the Mirbat area. Seasonal: Oct-May."
+      "last_qa_date": "2026-08-16",
+      "notes": "Located in Mirbat area, Dhofar region. Sheltered cove with coral reef. Multiple entry points mapped as separate sites. 'Flamingo Beach' not found by that name in operator site lists -- may be a local/informal name for a cove in the Mirbat area. Seasonal: Oct-May. RE-AUDIT 2026-08-16: repeated targeted search (\"Flamingo Beach\" Mirbat dive site Oman) still found no operator or database confirming this name; results surfaced only the unrelated Kheva/Kiva wreck snorkeling product and an unrelated \"Flamingo Beach\" resort/beach in Ras Al Khaimah, UAE (different country, false-positive match) -- confirmed not the same location. Flagged unresolved: <3 sources, and the 2 existing sources (salalahoman22.com, beautifulsalalah.com) give only regional Mirbat context, not confirmation of this specific name. Content remains appropriately hedged with no fabricated specifics; validated flag left unchanged."
     }
   },
   {
@@ -114,8 +114,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "salalahoman22.com,beautifulsalalah.com",
-      "last_qa_date": "2026-06-24",
-      "notes": "Located in Mirbat area, Dhofar region. Flamingo Beach sheltered bay reef site. Multiple entry points mapped separately. 'Flamingo Beach' not found by that exact name in operator site lists — may be local name. Seasonal: Oct-May."
+      "last_qa_date": "2026-08-16",
+      "notes": "Located in Mirbat area, Dhofar region. Sheltered bay reef site. Multiple entry points mapped separately. 'Flamingo Beach' not found by that exact name in operator site lists -- may be local name. Seasonal: Oct-May. RE-AUDIT 2026-08-16: same finding as sibling entries (Side Entry, Beach Entry) -- no operator or database confirms this name after renewed search. Flagged unresolved: <3 sources. Content remains appropriately hedged; validated flag left unchanged."
     }
   },
   {
@@ -134,8 +134,8 @@
       "sport": "scuba_diving",
       "validated": "true",
       "validation_source": "salalahoman22.com,beautifulsalalah.com",
-      "last_qa_date": "2026-06-24",
-      "notes": "Located in Mirbat area, Dhofar region. Shore/beach entry reef dive. 'Flamingo Beach' not found by that exact name in operator site lists — may be local name for a cove near Mirbat. Seasonal: Oct-May."
+      "last_qa_date": "2026-08-16",
+      "notes": "Located in Mirbat area, Dhofar region. Shore/beach entry reef dive. 'Flamingo Beach' not found by that exact name in operator site lists -- may be local name for a cove near Mirbat. Seasonal: Oct-May. RE-AUDIT 2026-08-16: same finding as sibling entries (Side Entry, New Entry) -- no operator or database confirms this name after renewed search. Flagged unresolved: <3 sources. Content remains appropriately hedged; validated flag left unchanged."
     }
   },
   {
@@ -153,9 +153,9 @@
       "name": "Eagle Bay",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "salalahoman22.com,beautifulsalalah.com,getyourguide.com,divessi.com",
-      "last_qa_date": "2026-06-24",
-      "notes": "Located in Mirbat area, Dhofar region, ~70km from Salalah. Site type corrected from 'wreck' to 'reef': multiple independent sources (GetYourGuide, SSI dive guide, beautifulsalalah.com) confirm Eagle Bay is a reef/coral site, not a wreck. Features sandy patch, coral bank (south), rocky outcrops (north). Depth 5-15m. Beginner-friendly, minimal currents. Seasonal: Oct-May."
+      "validation_source": "salalahoman22.com,beautifulsalalah.com,getyourguide.com,padi.com",
+      "last_qa_date": "2026-08-16",
+      "notes": "Located in Mirbat area, Dhofar region, ~70km from Salalah. Site type corrected from 'wreck' to 'reef' in prior pass. Features sandy patch, coral bank (south), rocky outcrops (north). Depth 5-15m. Beginner-friendly, minimal currents. Seasonal: Oct-May. RE-AUDIT 2026-08-16: original SSI/divessi.com dive-guide link (mydiveguide/divesite/60130) now returns a 301 redirect to a generic scubago.com homepage with no site-specific content -- dropped as a dead source. Replaced with PADI's dedicated Eagle Bay (Oman) dive-site page, which corroborates depth (5-15m) and adds confirmed species. MARINE-LIFE CORRECTION: prior markdown text claimed 'large batfish and boxfish also commonly reported' -- this is not corroborated by any current source (GetYourGuide or PADI) and has been removed. Corrected/expanded species list per GetYourGuide + PADI: turtles, rays, honeycomb moray eels, sharks, starfish, groupers, Moorish idols, anemonefish."
     }
   },
   {
@@ -175,9 +175,9 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": "true",
-      "validation_source": "visitmusandam.com,divessi.com,scubashade.com",
-      "last_qa_date": "2026-06-24",
-      "notes": "Located at Dibba, northern Musandam Peninsula, Oman side of the UAE/Oman border. Coordinates confirmed in Oman (not UAE). Rocky reef with walls, caves, and drop-offs to 40m per SSI guide; 18m depth in OSM is conservative. Suitable for beginners though currents can be present during tidal changes. Accessible from both UAE and Oman side operators. Protected marine area."
+      "validation_source": "visitmusandam.com,scubashade.com,divers-guide.com",
+      "last_qa_date": "2026-08-16",
+      "notes": "Located at Dibba, northern Musandam Peninsula, Oman side of the UAE/Oman border. Coordinates confirmed in Oman (not UAE). Rocky reef with walls, caves, and drop-offs. Suitable for beginners though currents can be present during tidal changes. Accessible from both UAE and Oman side operators. Protected marine area. RE-AUDIT 2026-08-16: the SSI/divessi.com dive-guide link (mydiveguide/divesite/99470) that previously supported the '40m per SSI guide' depth claim now also returns a 301 redirect to a generic scubago.com homepage -- dead source, dropped. DEPTH CONFLICT flagged: re-researched across divers-guide.com (dedicated dive-site database with logged dives: reports 7-15m as the working range) versus other aggregator listings citing drop-offs to 30-40m; these do not agree, and the most detailed primary dive-log source caps it near 15m. Markdown now presents this as a range/conflict rather than asserting 40m as settled fact. Reef shark sighting corroborated by two independent sources: visitmusandam.com ('occasional reef sharks') and divers-guide.com (gray reef shark and blacktip reef shark specifically logged)."
     }
   },
   {
@@ -197,9 +197,9 @@
       "sport": "scuba_diving",
       "type": "multipolygon",
       "validated": "true",
-      "validation_source": "padi.com,coralcreekdiving.com,nemodivingcenter.com",
-      "last_qa_date": "2026-06-24",
-      "notes": "GEOGRAPHIC ISSUE: Coordinates place this site at ~25.49N, 56.36E — this is Al Aqah, Fujairah, UAE, NOT Oman. The site name 'Snoopy Island Reef' combined with 24m depth matches 'Snoopy Deep Reef' (also called 'New Reef'), an artificial wreck/reef site ~500m east of Snoopy Island. Snoopy Island itself (shallow, 5-8m, beginner) is different from this 24m Advanced site. Site type corrected from 'reef' to 'wreck' as Snoopy Deep Reef is an artificial reef built around a purposely-sunk dive boat. Difficulty 'Advanced' is correct for the 24m deep site. OSM placed this under Oman in error; actual jurisdiction is UAE/Fujairah."
+      "validation_source": "padi.com,coralcreekdiving.com,medium.com",
+      "last_qa_date": "2026-08-16",
+      "notes": "GEOGRAPHIC ISSUE (unresolved, carried forward): coordinates place this site at ~25.49N, 56.36E -- Al Aqah, Fujairah, UAE, NOT Oman. OSM placed this under Oman in error; jurisdiction is actually UAE/Fujairah. Not corrected in this pass (out of scope -- would require removing the site from the Oman destination file, which the deep-QA task did not request; flagged for a future data-integrity pass). At 24m depth, corresponds to 'Snoopy Deep Reef' (also 'New Reef'), an artificial reef built around a purposely-sunk dive boat and trailer, ~500m east of the shallow Snoopy Island itself. WRECK-HISTORY NOTE: this is a modern purpose-sunk artificial reef, not a historic wreck with a ship name/build date/tonnage/sinking-cause to cross-check -- no fabricated history has been added, consistent with anti-hallucination policy. RE-AUDIT 2026-08-16: dropped nemodivingcenter.com from validation_source -- re-checked and its Snoopy Island guide covers only the shallow Snoopy Island itself and lists Dibba Rock/Martini Rock/Inchcape 1 Wreck as alternatives; it does not mention Snoopy Deep Reef/New Reef at all and does not substantively support this site. Replaced with medium.com (Reef Oasis Diving Center), which directly confirms Snoopy Deep Reef specifics: ~24m depth, angelfish, boxfish, snapper schools, wrasse, moray eels, seahorses -- consistent with coralcreekdiving.com. Minor DEPTH CONFLICT flagged: PADI's dedicated page states 26m (85ft) while Coral Creek and Reef Oasis both state ~24m; markdown now notes the 24-26m range rather than picking one figure. MARINE-LIFE NOTE: PADI's community-sourced species list additionally includes 'sharks, whales, dolphins, turtles' -- broader/vaguer than the two dive-shop sources and not corroborated by either; retained only as a caveated 'occasionally reported' note rather than presented as typical sightings, since whales at a 24-26m artificial reef would be an atypical, unverified claim."
     }
   }
 ]
