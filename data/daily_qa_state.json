@@ -2,13 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "north-carolina",
-    "norway",
-    "norway-lofoten-islands",
-    "nova-scotia",
-    "okinawa",
-    "oman",
-    "palau",
     "panama",
     "papua-new-guinea",
     "philippines",
@@ -174,7 +167,14 @@
     "new-jersey",
     "new-zealand",
     "newfoundland",
-    "ningaloo-reef"
+    "ningaloo-reef",
+    "north-carolina",
+    "norway",
+    "norway-lofoten-islands",
+    "nova-scotia",
+    "okinawa",
+    "oman",
+    "palau"
   ],
   "history": [
     {
