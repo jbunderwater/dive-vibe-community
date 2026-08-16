@@ -44,4 +44,6 @@ Boat access from Barnegat Bay. The shoal is located near Island Beach State Park
 Boat traffic is the primary hazard — Tices Shoal is one of the most heavily visited spots in Barnegat Bay on summer weekends. Divers and snorkelers must display a dive flag and be vigilant about surface boat activity. Check for clinging jellyfish advisories from the New Jersey DEP before entering the water in summer.
 
 ---
-*Sources: [Tices Shoal — Wikipedia](https://en.wikipedia.org/wiki/Tices_shoal), [Dangerous Jellyfish near Tices Shoal — WHYY](https://whyy.org/articles/dozens-of-dangerous-jellyfish-found-near-barnegat-bays-tices-shoal/), [Barnegat Charter Fishing](https://barnegatcharterfishing.com/). Last updated 2026-06-18.*
+*Sources: [Tices Shoal — Wikipedia](https://en.wikipedia.org/wiki/Tices_shoal), [Dangerous Jellyfish near Tices Shoal — WHYY](https://whyy.org/articles/dozens-of-dangerous-jellyfish-found-near-barnegat-bays-tices-shoal/), [Barnegat Charter Fishing](https://barnegatcharterfishing.com/). Last updated 2026-08-14.*
+
+*2026-08-14 re-audit: re-pulled Wikipedia directly — location (Barnegat Bay near Island Beach State Park, Lacey Township, Ocean County) reconfirmed; the article remains an unexpanded stub with no depth or dive-specific detail, consistent with the prior QA pass. No factual corrections required.*

@@ -33,7 +33,7 @@ Tewksbury Rock is a named rocky feature in the waters off Hull and Cohasset on M
 
 ## Marine Life
 
-Rocky ledge community of the western Massachusetts Bay. Tautog resident on rock faces. American lobsters inhabit crevices. Cunner hover around encrusted surfaces. Pollock school in midwater. Sea urchins on exposed rock. Winter flounder on adjacent sand. Anemones and bryozoans on shaded surfaces.
+No site-specific marine-life reports were found for Tewksbury Rock. This is a cold-water New England rocky reef/ledge site near Off Hull/Cohasset, western South Shore of Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ At 15 metres, natural light penetrates better than at 18m. Wide-angle reef portr
 ## Additional Resources
 
 - **Charter Access**: Hull and Cohasset area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

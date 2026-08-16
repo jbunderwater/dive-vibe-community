@@ -33,7 +33,7 @@ Planet Rock lies at the western end of the Watch Hill/Fisher's Island Sound reef
 
 ## Marine Life
 
-Western Fisher's Island Sound cold-water reef species. Tautog are the dominant reef fish — well established in this rocky habitat. Striped bass hunt the area in season. Bluefish appear above the reef in summer. American lobsters in deeper crevices. Sea bass in warmer months. Cunner hover around encrusted surfaces. Sea urchins on open rock faces. Encrusting sponges and anemones on shaded surfaces.
+No site-specific marine-life reports were found for Planet Rock. This is a cold-water New England rocky reef/ledge site near Western Fisher's Island Sound, near Connecticut/Rhode Island border; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Tautog on kelp-draped rock are the signature subjects. Strobes needed at 15 metr
 ## Additional Resources
 
 - **Charter Access**: Stonington and Noank CT; Westerly RI area operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

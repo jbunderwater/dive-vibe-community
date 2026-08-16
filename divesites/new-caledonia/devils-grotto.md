@@ -45,7 +45,7 @@ Enter the cave pool from the shore. The maximum depth is only 6 meters, so exten
 
 ## Entry and Exit
 
-Shore entry into the cave pool. The approach to the cave requires a walk through the Isle of Pines bush. Entry is straightforward from the cave edge.
+Shore entry into the cave pool. Access is by mini-bus followed by an approximately 75-meter walk from the road to the cave entrance, per Michael McFadyen's dive log. Entry is straightforward from the cave edge.
 
 ## Tips and Recommendations
 
@@ -59,4 +59,4 @@ Shore entry into the cave pool. The approach to the cave requires a walk through
 Despite the shallow depth, this is a cave environment. Maintain awareness of the ceiling and walls. Do not touch the formations -- stalactites and stalagmites are extremely fragile and form over thousands of years. The still water means any silt disturbance will reduce visibility dramatically and take a long time to clear. Buoyancy control is critical in this confined space.
 
 ---
-*Sources: [New Caledonia Tourism](https://www.newcaledonia.travel/destination/the-islands/must-see-and-do-on-isle-of-pines/), [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/diving-grotto-new-caledonias-isle-pines-amazing-experience-not-miss), [New Caledonia NZ](https://www.newcaledonia.co.nz/things-to-do-in-isle-of-pines/). Note: Michael McFadyen's site describes the water as "nominally fresh (actually saline)," which conflicts with the New Caledonia Tourism authority and multiple other sources that describe the cave pool as freshwater. The ocean-connection claim is not confirmed by independent sources and has been removed. Last updated 2026-06-18.*
+*Sources: [New Caledonia Tourism](https://www.newcaledonia.travel/destination/the-islands/must-see-and-do-on-isle-of-pines/), [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/diving-grotto-new-caledonias-isle-pines-amazing-experience-not-miss), [New Caledonia NZ](https://www.newcaledonia.co.nz/things-to-do-in-isle-of-pines/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=498). Note: McFadyen's site describes the water as "nominally fresh (actually saline)," which conflicts with the New Caledonia Tourism authority and multiple other sources that describe the cave pool as freshwater; the freshwater conclusion is retained on the strength of 3 independent sources against McFadyen's lone outlier. The ocean-connection claim is not confirmed by independent sources and remains removed. Re-audited 2026-08-14: added McFadyen-sourced access detail (mini-bus plus ~75m walk); no other factual changes needed. Last updated 2026-08-14.*

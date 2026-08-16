@@ -33,7 +33,7 @@ Perch Island is a small island feature in the Watch Hill/Stonington area at the 
 
 ## Marine Life
 
-Fisher's Island Sound cold-water reef community. Tautog are the primary reef fish species. Striped bass hunt the area in warmer months. Bluefish pass through seasonally. American lobsters inhabit deeper crevices. Sea bass present in summer. Cunner hover around encrusted surfaces. Sea urchins on exposed rock. Encrusting sponges and anemones on shaded rock faces.
+No site-specific marine-life reports were found for Perch Island. This is a cold-water New England rocky reef/ledge site near Watch Hill/Stonington area, southwestern Rhode Island Sound; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Tautog subjects and rocky reef encrusting organisms at 15 metres. Strobes needed
 ## Additional Resources
 
 - **Charter Access**: Westerly RI; Stonington and Noank CT area operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

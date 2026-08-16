@@ -13,15 +13,15 @@ addedBy: osm_import
 
 # Frances
 
-The intertidal remains of a wooden schooner wrecked on the outer Cape Cod shore on December 27, 1872.
+The intertidal remains of the Hamburg-based barque *Frances*, wrecked at Head of the Meadow Beach, North Truro, on December 27, 1872 — her captain died of exposure days after saving his entire crew.
 
 ## Overview
 
-The schooner *Frances* was lost on December 27, 1872, driven ashore on the outer Cape Cod beach near Wellfleet during a winter gale. The outer Cape has a long history of maritime tragedy — the same shoals and exposed ocean beach that claimed the *Frances* have sunk hundreds of vessels over the centuries, many of which appear in the records of the U.S. Life-Saving Service stations that lined this coast. The *Frances* wreck site lies at coordinates indicating the outer beach somewhere between Wellfleet and Truro, at depths of only 2–3 metres — in essence the intertidal zone of the Atlantic-facing beach. Like many outer Cape wrecks of this era, what remains is a scattering of wooden hull debris, iron fasteners, and ballast buried and exposed in cycles by the shifting barrier beach. This is a historical and archaeological site rather than a conventional scuba destination.
+The *Frances* was a three-masted barque that wrecked at Head of the Meadow Beach in North Truro, Massachusetts, on December 27, 1872, during a winter gale. She was en route from the Far East to Boston. Her captain, Wilhelm Kortling, got all 20 crew members ashore safely — accounts credit local rescuers, and U.S. Life-Saving Service-era outer Cape stations were active in this period — but Kortling himself succumbed to exposure roughly three days later and is buried in Truro. Sources do not report the vessel's length or tonnage. The wreck site lies at the edge of the surf zone at Head of the Meadow Beach, in only 2–3 metres of water — essentially the intertidal zone of the Atlantic-facing beach. What remains today is a scattering of wooden hull debris, iron fasteners, and ballast, buried and exposed in cycles by the shifting barrier beach, similar to the nearby Ada K. Damon site. This is a historical and archaeological site rather than a conventional scuba destination.
 
 ## Site Information
 
-- **Location**: Outer Cape Cod beach, Wellfleet/Truro area, Massachusetts
+- **Location**: Head of the Meadow Beach, North Truro, Massachusetts
 - **Entry Type**: beach
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
@@ -33,7 +33,7 @@ The schooner *Frances* was lost on December 27, 1872, driven ashore on the outer
 
 ## Marine Life
 
-The outer Cape beach environment is high-energy surf zone habitat. Surf perch and small schooling fish use the wave break zone. Sand lance bury in the surf-zone sand. Horseshoe crabs appear seasonally in the shallows. The buried wreck timbers, when exposed, attract mussels and barnacles. Striped bass hunt the surf zone in season. No substantial reef community exists here; the dynamic sand beach environment is the defining feature.
+No site-specific marine-life reports were found for this location. This is a high-energy outer Cape Cod surf-zone beach; the region's typical surf-zone species may occur here, but no species are confirmed at this specific site without documented reports.
 
 ## Dive Profile
 
@@ -41,13 +41,13 @@ Not a conventional scuba site. Access at low tide on a calm day allows wading to
 
 ## Entry and Exit
 
-Access via the Cape Cod National Seashore outer beach. The closest beach access parking is through the National Seashore's Wellfleet or Truro beach areas. Walk the surf zone at low tide searching for exposed dark timbers. The National Seashore manages this coastline — removal of any archaeological material is prohibited. Exit before tide and sea state increase.
+Access via the Cape Cod National Seashore's Head of the Meadow Beach parking area in North Truro. Walk the surf zone at low tide searching for exposed dark timbers. The National Seashore manages this coastline — removal of any archaeological material is prohibited. Exit before tide and sea state increase.
 
 ## Tips and Recommendations
 
-- Research U.S. Life-Saving Service records for the 1872 storm season to understand the site's history
+- The story of Captain Kortling — who saved his entire crew before dying of exposure himself — is worth reading before visiting
 - Surf on the outer Cape beach is rarely truly flat — even on calm days, treat the surf zone with respect
-- The National Seashore visitor centers at Wellfleet and Province Lands can provide information on current beach conditions and wreck visibility
+- The National Seashore visitor center at Highland Light (North Truro) can provide information on current beach conditions and wreck visibility
 - Expect the site to be partially or fully buried — outer Cape sand moves significantly with season and storm
 - A mask and snorkel are more practical than full scuba equipment for 2–3 metre surf zone inspection
 
@@ -62,8 +62,8 @@ Exposed wreck timbers in the surf zone — partially buried in sand, worn smooth
 ## Additional Resources
 
 - **Management**: Cape Cod National Seashore (National Park Service)
-- **Historical Reference**: U.S. Life-Saving Service Annual Reports; Dennis Wood and William Quinn, *Cape Cod Shipwrecks* series
-- **Last Updated**: 2026-03-28
+- **Historical Reference**: Truro Historical Society; Provincetown History Project
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional outer Cape Cod maritime characteristics and OSM data. No site-specific sources confirming the Frances wreck location or dive access were found. Massachusetts BUAR maintains wreck records but specific records for this site were not retrieved. Last updated 2026-06-18.*
+*Sources: [Provincetown History Project — "The Tale of the Bark Frances"](https://provincetownhistoryproject.org/PDF/kel_000_208-kelly-s-corner-208-the-tale-of-the-bark-frances.pdf), [Legends of America — Cape Cod Shipwrecks](https://www.legendsofamerica.com/cape-cod-shipwrecks/), [Truro Historical Society](https://trurohistoricalsociety.org/family-program-cape-cod-shipwrecks/). Sources do not report the vessel's length or tonnage. Last updated 2026-08-14.*

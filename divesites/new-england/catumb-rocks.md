@@ -33,7 +33,7 @@ Catumb Rocks lies in the Watch Hill area at the southwestern corner of Rhode Isl
 
 ## Marine Life
 
-Southern Rhode Island Sound cold-water species. Tautog are the dominant reef fish species in this area. American lobsters inhabit crevices throughout the rocky substrate. Striped bass cruise through the area in warmer months, particularly around the strong tidal currents near Watch Hill. Pollock school in midwater. Sea bass are present in summer. Cunner hover around the encrusted rock surfaces. Sea urchins carpet open rock faces. Northern sea ravens rest on the rocky bottom.
+No site-specific marine-life reports were found for Catumb Rocks. This is a cold-water New England rocky reef/ledge site near Watch Hill area, southwestern Rhode Island; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -63,7 +63,7 @@ Rocky reef subjects at 15 metres require strobes for accurate color. Tautog port
 
 - **Charter Access**: Watch Hill and Westerly RI; Stonington/Mystic CT area operators
 - **Historical Reference**: Watch Hill wreck records — Rhode Island Historical Preservation and Heritage Commission
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef), [Small State Big History — Watch Hill Shipwrecks](http://smallstatebighistory.com/mariners-beware-shipwrecks-in-rhode-island-watch-hill/). Geographic feature confirmed; not documented as a named scuba dive site. Last updated 2026-06-18.*
+*Sources: [OnTheWater — Watch Hill Reef Complex](https://onthewater.com/partner/c-map-featured-hotspot-watch-hill-reef), [Small State Big History — Watch Hill Shipwrecks](http://smallstatebighistory.com/mariners-beware-shipwrecks-in-rhode-island-watch-hill/). Geographic feature confirmed; not documented as a named scuba dive site. Last updated 2026-08-14.*

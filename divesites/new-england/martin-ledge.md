@@ -33,7 +33,7 @@ Martin Ledge sits in the waters west and south of Boston Harbor in the Hull/Coha
 
 ## Marine Life
 
-Rocky ledge community characteristic of the western Massachusetts Bay. Tautog are the dominant fish species. American lobsters inhabit crevices throughout the ledge. Cunner hover above encrusted surfaces. Pollock school in midwater. Sea urchins are present on open rock faces. Winter flounder rest on adjacent sandy areas. Encrusting anemones, hydroids, and bryozoans cover shaded surfaces.
+No site-specific marine-life reports were found for Martin Ledge. This is a cold-water New England rocky reef/ledge site near Off Hull/Cohasset, western South Shore of Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Strobes needed at 18 metres. Ledge face and lobster portrait subjects are primar
 ## Additional Resources
 
 - **Charter Access**: Hull, Cohasset, and South Shore dive charter operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

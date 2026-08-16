@@ -17,11 +17,13 @@ Turquoise Bay is one of Western Australia's most celebrated beaches, offering a 
 
 ## Overview
 
-Turquoise Bay sits within Cape Range National Park, where the Ningaloo Reef comes unusually close to shore. The site is primarily a snorkel destination: a natural current running along the bay's southern end carries swimmers over a continuous shallow coral garden at depths of 3–6 metres, with sea turtles, reef sharks, and dense schools of parrotfish, wrasse, and butterflyfish regularly encountered in the drift.
+Turquoise Bay sits within Cape Range National Park, where the Ningaloo Reef comes unusually close to shore. The site is primarily a snorkel destination: a natural current running along the bay's southern end carries swimmers over a continuous shallow coral garden, with sea turtles, reef sharks, and hundreds of species of reef fish regularly encountered in the drift. Sources describe "hundreds of fish, reef sharks, stingrays, and turtles" in general terms rather than naming individual fish species specific to this site, so the description here does the same rather than inventing a species list.
 
-The drift begins at the bay's southern end (accessed via the Drift Loop car park) and runs northward, returning snorkelers back to the beach. The current can be strong, particularly around the northern sandbar, and the Parks WA advisory is that the drift is suitable for confident swimmers only. Visibility on calm days reaches 20 metres or more.
+The drift begins at the bay's southern end (accessed via the Drift Loop car park) and runs northward, returning snorkelers to the beach; get out before the sandbar at the northern end, since the current strengthens through the gap in the reef beyond it. The Parks WA advisory is that the drift is suitable for swimmers of at least average fitness and ability, not weak or inexperienced swimmers. Visibility on calm days reaches 20 metres or more.
 
 No scuba dive operator lists Turquoise Bay as a guided dive destination — the attraction here is the easy, current-assisted snorkel on the inner reef. Divers seeking deeper water access the outer reef by boat from Tantabiddi or Coral Bay.
+
+**Depth note**: Snorkel-focused sources put the drift at 3–6 metres, consistent with the depth used here. One structured dive database (thediveglobe.com) lists a 12m maximum / 8m average depth for "Turquoise Bay" — this appears to reflect a generic template entry rather than the shallow inshore drift snorkel described by Parks WA and other site-specific sources, and is not used for the depth figure below.
 
 ## Site Information
 
@@ -33,4 +35,4 @@ No scuba dive operator lists Turquoise Bay as a guided dive destination — the 
 - **Tides/Currents**: Natural longshore current — drift runs south to north; northern sandbar requires caution
 
 ---
-*Sources: [Explore Parks WA — Turquoise Bay](https://exploreparks.dbca.wa.gov.au/site/turquoise-bay), [Snorkel Spots — Turquoise Bay](https://snorkelspots.com/turquoise-bay-drift-snorkel/), [The Dive Globe — Turquoise Bay](https://www.thediveglobe.com/app/ja/dive/turquoise-bay-ningaloo), [Drink Tea Travel Ningaloo Guide](https://drinkteatravel.com/guide-to-visiting-ningaloo-reef-swim-snorkel-dive-and-more/). Last updated 2026-06-18.*
+*Sources: [Explore Parks WA — Turquoise Bay](https://exploreparks.dbca.wa.gov.au/site/turquoise-bay), [Snorkel Spots — Turquoise Bay](https://snorkelspots.com/turquoise-bay-drift-snorkel/), [Drink Tea Travel Ningaloo Guide](https://drinkteatravel.com/guide-to-visiting-ningaloo-reef-swim-snorkel-dive-and-more/). The Dive Globe's depth figures were checked against these and not used (see depth note above). Last updated 2026-08-14.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Tobias Ledge
 
-A named rocky ledge in the South Shore cluster near Scituate, Massachusetts, offering productive cold-water lobster and reef diving.
+A named rocky ledge in the South Shore cluster near Scituate, Massachusetts, named within a cluster of South Shore ledges, though no dive-specific documentation was found.
 
 ## Overview
 
-Tobias Ledge is part of the tight cluster of named submerged ledges south of Boston Harbor in the Scituate area, sitting near Davis Ledge, Enos Ledge, and Mikes Ledge. The name Tobias has colonial-era New England origins, likely commemorating an early settler, fisherman, or a historical incident associated with the ledge. Like the other named ledges in this cluster, Tobias provides the characteristic South Shore cold-water reef diving experience: rocky ledge at 12–18 metres, productive lobster habitat, and the tautog-pollock-cunner community of Massachusetts Bay. Scituate-based dive charters frequently run multi-site trips covering several of these clustered ledges in a single day.
+Tobias Ledge is part of the tight cluster of named submerged ledges south of Boston Harbor in the Scituate area, sitting near Davis Ledge, Enos Ledge, and Mikes Ledge. The name Tobias has colonial-era New England origins, likely commemorating an early settler, fisherman, or a historical incident associated with the ledge. Like the other named ledges in this cluster, Tobias provides the characteristic South Shore cold-water reef diving experience: rocky ledge at 12–18 metres typical of this cluster, though no site-specific marine-life survey was found. Scituate-based dive charters frequently run multi-site trips covering several of these clustered ledges in a single day.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Tobias Ledge is part of the tight cluster of named submerged ledges south of Bos
 
 ## Marine Life
 
-Rocky ledge community of the Scituate area. Tautog resident on ledge structure. American lobsters in crevices. Cunner around encrusted surfaces. Pollock above the ledge. Sea urchins on exposed rock. Winter flounder on adjacent sand. Anemones and bryozoans on shaded surfaces.
+No site-specific marine-life reports were found for Tobias Ledge. This is a cold-water New England rocky reef/ledge site near South Shore ledges, off Scituate, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Boat charter required. Anchor in sand adjacent to ledge. Deploy SMB before ascen
 ## Tips and Recommendations
 
 - Combine with Davis and Enos Ledges for an efficient Scituate-area multi-ledge day
-- Lobsters at the sand-rock interface at ledge base are the primary target
+- No site-specific reports were found for this ledge; verify current conditions with a local operator
 - 7mm wetsuit or drysuit required
 - Plan dives around slack tide
 
@@ -56,12 +56,12 @@ Cold water year-round. Moderate tidal current. Rocky bottom. Deploy SMB before s
 
 ## Photography
 
-Strobes needed at 18 metres. Ledge face portraits and lobster crevice shots.
+Strobes needed at 18 metres. No site-specific photography reports were found for this location.
 
 ## Additional Resources
 
 - **Charter Access**: Scituate and South Shore dive charter operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

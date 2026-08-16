@@ -27,6 +27,8 @@ Confirmed marine life for the archipelago overall includes over 350 species of r
 
 The previous description attributed whale sharks and humpback whales as features of "Quirimbas Reef" — these are regional characteristics of the archipelago generally, not confirmed for any single site by this name.
 
+**2026-08-14 re-check:** A fresh search surfaces additional named Quirimbas dive sites beyond those previously listed — Matemo Channel (drift dive between Ibo and Matemo Islands, kingfish schools), St. Lazarus Bank (offshore seamount), and reefs around Vamizi Island (up to 46 coral genera, 400+ fish species) — but still no site called "Quirimbas Reef" in any source consulted. This entry remains unvalidated.
+
 ## Site Information
 
 - **Location**: Quirimbas Archipelago, Cabo Delgado Province, Mozambique
@@ -36,4 +38,4 @@ The previous description attributed whale sharks and humpback whales as features
 - **Maximum Depth**: 30 meters
 
 ---
-*Description based on regional diving characteristics of the Quirimbas Archipelago. No site specifically named "Quirimbas Reef" was found in any source. Last updated 2026-06-16.*
+*Description based on regional diving characteristics of the Quirimbas Archipelago. No site specifically named "Quirimbas Reef" was found in any source. Last updated 2026-08-14.*

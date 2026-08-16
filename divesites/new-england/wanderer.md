@@ -64,7 +64,7 @@ The scattered iron fasteners and hull fragments partially buried in the shoal se
 
 - **Historical Reference**: [The Vineyard Gazette, August 26, 1924](https://vineyardgazette.com/news/1924/08/26/bark-wanderer-lost) — "Bark Wanderer Lost"; [WBUR, August 2024](https://www.wbur.org/news/2024/08/29/new-bedford-last-whaler-wanderer) centennial coverage
 - **Wreck Data**: [Wreckhunter.net — Wanderer](https://wreckhunter.net/DataPages/wanderer-dat.htm)
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [Wreckhunter.net](https://wreckhunter.net/DataPages/wanderer-dat.htm), [The Vineyard Gazette](https://vineyardgazette.com/news/1924/08/26/bark-wanderer-lost), [WBUR News](https://www.wbur.org/news/2024/08/29/new-bedford-last-whaler-wanderer). Last updated 2026-06-18.*
+*Sources: [Wreckhunter.net](https://wreckhunter.net/DataPages/wanderer-dat.htm), [The Vineyard Gazette](https://vineyardgazette.com/news/1924/08/26/bark-wanderer-lost), [WBUR News](https://www.wbur.org/news/2024/08/29/new-bedford-last-whaler-wanderer). Last updated 2026-08-14.*

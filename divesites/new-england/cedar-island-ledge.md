@@ -33,7 +33,7 @@ Cedar Island Ledge lies in the New Hampshire seacoast waters at approximately 42
 
 ## Marine Life
 
-Northern Gulf of Maine cold-water species. American lobsters are abundant in the crevices — the Isles of Shoals area is productive lobster grounds. Tautog resident on rocky structure. Pollock school in midwater above the ledge. Atlantic mackerel pass through in schools. Cunner hover around encrusted surfaces. Sea urchins carpet exposed rock faces. Harbor seals may be encountered, particularly near the Isles of Shoals where a colony is established. Nudibranchs and hydroids on shaded rock surfaces.
+No site-specific marine-life reports were found for Cedar Island Ledge. This is a cold-water New England rocky reef/ledge site near New Hampshire seacoast / Isles of Shoals area; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -62,7 +62,7 @@ Excellent natural light at 15 metres in the clear Gulf of Maine water on calm da
 ## Additional Resources
 
 - **Charter Access**: Portsmouth Scuba and Rye NH area boat operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

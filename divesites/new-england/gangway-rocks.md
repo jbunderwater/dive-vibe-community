@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Gangway Rocks
 
-Rocky outcrops off the northern Massachusetts coast near Plum Island, part of the shallow nearshore reef cluster in this lobster-rich area.
+Rocky outcrops off the northern Massachusetts coast near Plum Island, part of the shallow nearshore reef cluster off the northern Massachusetts coast.
 
 ## Overview
 
-Gangway Rocks is a group of submerged rocky outcrops off the northern Massachusetts coast, west of Plum Island Sound in the area between Newburyport and the Cape Ann peninsula. The name "gangway" in nautical usage refers to a passage or entry point — likely describing a navigable channel through or around this rock cluster. The site sits at approximately 10 metres maximum depth, in the company of several other named rocky features in this area including Half Tide Rocks, Sow and Pigs, and Black Rocks. These northern Massachusetts rocky reef sites share the same ecological character: cold Gulf of Maine water, dense kelp on the rock, excellent lobster populations, and the cold-water fish community that draws local divers from Newburyport and Cape Ann throughout the warm months.
+Gangway Rocks is a group of submerged rocky outcrops off the northern Massachusetts coast, west of Plum Island Sound in the area between Newburyport and the Cape Ann peninsula. The name "gangway" in nautical usage refers to a passage or entry point — likely describing a navigable channel through or around this rock cluster. The site sits at approximately 10 metres maximum depth, in the company of several other named rocky features in this area including Half Tide Rocks, Sow and Pigs, and Black Rocks. These northern Massachusetts rocky reef sites share the same ecological character: cold Gulf of Maine water and dense kelp on the rock, though no site-specific marine-life survey was found for this location.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Gangway Rocks is a group of submerged rocky outcrops off the northern Massachuse
 
 ## Marine Life
 
-Rocky reef structure at this depth supports a productive cold-water community. American lobsters shelter in boulder crevices. Tautog are the dominant fish species, holding territory on the rock faces. Cunner hover around encrusted surfaces. Sea urchins carpet exposed rock. Pollock school above the reef in summer and fall. Atlantic mackerel pass through in schools. Encrusting hydroids, anemones, and bryozoans cover shaded rock surfaces throughout the year.
+No site-specific marine-life reports were found for Gangway Rocks. This is a cold-water New England rocky reef/ledge site near Off Plum Island/northern Cape Ann coast, northern Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
-Boat access required from Newburyport, Plum Island, or northern Cape Ann operators. Descend to the rocky bottom at 8–10 metres. Navigate the rock cluster perimeter, inspecting crevices and boulder bases for lobsters. The shallow depth allows extended dive times — 45 to 60 minutes is easily achievable. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
+Boat access required from Newburyport, Plum Island, or northern Cape Ann operators. Descend to the rocky bottom at 8–10 metres. Navigate the rock cluster perimeter. The shallow depth allows extended dive times — 45 to 60 minutes is easily achievable. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -46,7 +46,7 @@ Boat charter required. The shoal areas off northern Massachusetts require local 
 ## Tips and Recommendations
 
 - This site clusters with several other nearby named reefs — combine for a productive multi-site day
-- Inspect boulder bases carefully — large lobsters den at the deepest point of rock-sand interfaces
+- No site-specific reports were found for this location; verify current conditions with a local operator
 - Kelp is most dense in summer; fall diving can have better visibility as kelp thins after storm exposure
 - Drysuit or 7mm wetsuit essential throughout the season
 
@@ -56,12 +56,12 @@ Cold water year-round — minimum 7mm wetsuit or drysuit required. Moderate tida
 
 ## Photography
 
-Natural light is strong at 10 metres in clear conditions. Wide-angle reef portraits showing kelp, dark rock, and encrusting life are the characteristic subjects here. Lobster portraits in their crevices are accessible with patience.
+Natural light is strong at 10 metres in clear conditions. Wide-angle reef portraits showing kelp, dark rock, and encrusting life are the characteristic subjects here. No site-specific photography reports were found for this location.
 
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

@@ -33,7 +33,7 @@ The Clump is a rocky reef feature in mid-Narragansett Bay at coordinates placing
 
 ## Marine Life
 
-Mid-Narragansett Bay cold-water reef species. Tautog are well established on the rocky structures — Narragansett Bay is known as excellent tautog habitat throughout. Striped bass hunt the bay in warmer months. Bluefish pass through seasonally. American lobsters inhabit crevices in the rocky cluster. Sea bass present in summer. Cunner hover around encrusted surfaces. Sea urchins on exposed rock faces. Winter flounder on adjacent sandy areas. Narragansett Bay supports a productive food web thanks to its moderate nutrient levels and tidal flushing.
+No site-specific marine-life reports were found for The Clump. This is a cold-water New England rocky reef/ledge site near Mid-Narragansett Bay, Rhode Island; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -62,7 +62,7 @@ Mid-bay visibility allows wider angle approaches than upper bay sites. Tautog po
 ## Additional Resources
 
 - **Charter Access**: Providence area dive charters; Newport and Narragansett RI operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

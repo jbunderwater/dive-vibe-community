@@ -17,7 +17,7 @@ The abandoned hull of an 1890s Fall River Line freight steamship, visible at low
 
 ## Overview
 
-The *City of Taunton* was a 292-foot freight sidewheel steamship (sidepaddle design) built in 1892 in Chelsea, Massachusetts by the Montgomery & Howard shipyard. She served the Fall River Line — the legendary overnight steamship route that connected Providence, Rhode Island, to New York City via Fall River, Massachusetts. The Fall River Line operated from the 1840s until 1937. The *City of Taunton* was a working freight vessel in this fleet, not one of the famous luxury passenger sidewheelers. The ship was grounded and abandoned on the western shore of Mount Hope Bay at Brayton Point in Somerset, Massachusetts in the 1930s, as the Fall River Line collapsed under the combined pressure of the Great Depression, competition from automobiles and railroads, and labor disputes. Mount Hope Bay is a tidal arm at the head of Narragansett Bay. The wreck is visible at low tide, making it one of the few New England wreck sites that requires almost no diving equipment to experience. At just 4 metres maximum depth, this is primarily an archaeological and historical visit site rather than a conventional scuba dive.
+The *City of Taunton* was a 292-foot freight sidewheel steamship (sidepaddle design) built in 1892 in Chelsea, Massachusetts by the Montgomery & Howard shipyard. She served the Fall River Line — the legendary overnight steamship route that connected Providence, Rhode Island, to New York City via Fall River, Massachusetts. The Fall River Line operated from the 1840s until 1937. The *City of Taunton* was a working freight vessel in this fleet, not one of the famous luxury passenger sidewheelers. The ship was grounded and abandoned on the western shore of Mount Hope Bay at Brayton Point in Somerset, Massachusetts in the 1930s, as the Fall River Line collapsed under the combined pressure of the Great Depression, competition from automobiles and railroads, and labor disputes. Earlier in her career, in 1903, the City of Taunton collided with the sidewheeler City of Plymouth in thick fog; the Taunton survived with damage, but the City of Plymouth was severely damaged and six people died. Mount Hope Bay is a tidal arm at the head of Narragansett Bay. The wreck is visible at low tide, making it one of the few New England wreck sites that requires almost no diving equipment to experience. At just 4 metres maximum depth, this is primarily an archaeological and historical visit site rather than a conventional scuba dive.
 
 ## Site Information
 
@@ -62,7 +62,7 @@ The exposed wooden hull ribs and ironwork in natural low-tide light provide docu
 ## Additional Resources
 
 - **Historical Reference**: Fall River Line maritime history — Fall River Historical Society; Old Colony History Museum, Taunton
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [Wikipedia — City of Taunton (ship)](https://en.wikipedia.org/wiki/City_of_Taunton_(ship)), [Wreckhunter.net — City of Taunton](https://wreckhunter.net/DataPages/cityoftaunton-dat.htm), [Massachusetts Wrecks Index](https://wreckhunter.net/mawrecks.htm). Last updated 2026-06-18.*
+*Sources: [Wikipedia — City of Taunton (ship)](https://en.wikipedia.org/wiki/City_of_Taunton_(ship)), [Wreckhunter.net — City of Taunton](https://wreckhunter.net/DataPages/cityoftaunton-dat.htm), [Massachusetts Wrecks Index](https://wreckhunter.net/mawrecks.htm). Last updated 2026-08-14.*

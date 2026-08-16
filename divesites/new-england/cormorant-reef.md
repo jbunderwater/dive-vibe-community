@@ -33,7 +33,7 @@ Cormorant Reef lies in the Fisher's Island Sound area, near the tri-state juncti
 
 ## Marine Life
 
-Fisher's Island Sound cold-water reef community. Tautog are the dominant species — southern New England's premier reef fish. Striped bass cruise through in warmer months, attracted by the tidal currents. Bluefish appear seasonally above the reef in summer. American lobsters inhabit deeper crevices. Sea bass are present in summer months. Cunner hover around encrusted rock surfaces. Sea urchins colonize open rock faces. Encrusting sponges and anemones cover shaded surfaces.
+No site-specific marine-life reports were found for Cormorant Reef. This is a cold-water New England rocky reef/ledge site near Fisher's Island Sound / southwestern Rhode Island Sound area; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Tautog portraits on kelp-draped rock are the signature subject. Natural light at
 ## Additional Resources
 
 - **Charter Access**: Westerly RI; Noank, Stonington, and Mystic CT area operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

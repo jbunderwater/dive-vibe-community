@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Mikes Ledge
 
-An informally named rocky ledge in the South Shore cluster off Scituate, Massachusetts — a local favorite for lobster and cold-water reef diving.
+An informally named rocky ledge in the South Shore cluster off Scituate, Massachusetts — an informally named feature with no confirmed dive-specific documentation.
 
 ## Overview
 
-Mikes Ledge is an informally named rocky ledge in the South Shore ledge system off Scituate and Cohasset, Massachusetts. Unlike the formally chartered ledge names in this area (Davis, Enos, Tobias), the "Mikes" designation suggests this ledge was named by local divers or fishermen — a common practice that fills in the gaps between official chart features with local knowledge. The ledge sits at coordinates placing it among the southernmost members of the ledge cluster, near the Davis-Enos-Tobias group. At 18 metres maximum depth, it offers the same cold-water reef diving as the surrounding named ledges, with reliable lobster populations and the characteristic South Shore fish community.
+Mikes Ledge is an informally named rocky ledge in the South Shore ledge system off Scituate and Cohasset, Massachusetts. Unlike the formally chartered ledge names in this area (Davis, Enos, Tobias), the "Mikes" designation suggests this ledge was named by local divers or fishermen — a common practice that fills in the gaps between official chart features with local knowledge. The ledge sits at coordinates placing it among the southernmost members of the ledge cluster, near the Davis-Enos-Tobias group. At 18 metres maximum depth, it offers the same cold-water reef diving as the surrounding named ledges, though no site-specific marine-life survey was found for this location.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Mikes Ledge is an informally named rocky ledge in the South Shore ledge system o
 
 ## Marine Life
 
-Tautog patrol the ledge edges. American lobsters inhabit crevices throughout the structure. Cunner cluster around encrusted rock surfaces. Pollock and Atlantic mackerel school in midwater above the ledge. Sea urchins carpet exposed rock faces. Winter flounder rest on adjacent sandy areas. Anemones and bryozoans encrust shaded surfaces.
+No site-specific marine-life reports were found for Mikes Ledge. This is a cold-water New England rocky reef/ledge site near South Shore ledges, off Scituate, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -47,7 +47,7 @@ Boat charter required. Local Scituate-area operators know this ledge well. Ancho
 
 - The local nickname suggests this ledge is well-known to South Shore regulars — ask your captain about the current conditions
 - Combine with the Enos-Davis-Tobias cluster for a productive South Shore ledge day
-- Lobster is the key draw; work the ledge base carefully
+- No site-specific reports were found for this ledge; verify current conditions with a local operator
 - 7mm wetsuit or drysuit required
 
 ## Safety Considerations
@@ -56,12 +56,12 @@ Cold water year-round. Moderate tidal current at peak flow. Rocky bottom. Deploy
 
 ## Photography
 
-Strobes needed at 18 metres. Ledge face and crevice subjects. Tautog portraits on ledge rock.
+Strobes needed at 18 metres. No site-specific photography reports were found for this location.
 
 ## Additional Resources
 
 - **Charter Access**: Scituate Dive Charter; South Shore area operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

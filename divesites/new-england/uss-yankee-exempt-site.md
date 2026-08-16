@@ -67,7 +67,7 @@ Low visibility limits photographic range but the large iron hull sections and pl
 
 - **Management**: Massachusetts BUAR (Exempted Site)
 - **Historical Reference**: New Bedford Standard-Times archive; Naval History and Heritage Command
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [Wikipedia — USS Yankee (1892)](https://en.wikipedia.org/wiki/USS_Yankee_(1892)), [Mass.gov BUAR — USS Yankee](https://www.mass.gov/info-details/uss-yankee), [NavSource — USS Yankee](https://www.navsource.org/archives/04/yankee/yankee.htm). Last updated 2026-06-18.*
+*Sources: [Wikipedia — USS Yankee (1892)](https://en.wikipedia.org/wiki/USS_Yankee_(1892)), [Mass.gov BUAR — USS Yankee](https://www.mass.gov/info-details/uss-yankee), [NavSource — USS Yankee](https://www.navsource.org/archives/04/yankee/yankee.htm). Last updated 2026-08-14.*

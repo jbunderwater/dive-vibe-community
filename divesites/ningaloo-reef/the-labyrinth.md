@@ -35,4 +35,4 @@ The Labyrinth is one of three dive sites visited on Dive Ningaloo's Lighthouse B
 - **Visibility**: Good (5–20 metres, weather dependent)
 
 ---
-*Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Monique Lives Life — Diving The Labyrinth](https://moniqueliveslife.com/2017/05/23/diving-the-labyrinth-at-lighthouse-bay-exmouth/), [Exmouth Resort — Best Dive Sites](https://exmouthresort.net.au/best-dive-sites-in-the-ningaloo-marine-park/). Last updated 2026-06-18.*
+*Sources: [Dive Ningaloo — Lighthouse Bay](https://www.diveningaloo.com.au/scuba-diving-tours/ningaloo-reef-lighthouse-bay/), [Monique Lives Life — Diving The Labyrinth](https://moniqueliveslife.com/2017/05/23/diving-the-labyrinth-at-lighthouse-bay-exmouth/), [Exmouth Resort — Best Dive Sites](https://exmouthresort.net.au/best-dive-sites-in-the-ningaloo-marine-park/). Last updated 2026-08-14.*

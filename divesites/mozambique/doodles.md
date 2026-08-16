@@ -17,7 +17,7 @@ Doodles is a popular beginner-friendly reef at Ponta do Ouro, a long rocky reef 
 
 ## Overview
 
-Doodles is consistently described across multiple sources as the "house reef" of Ponta do Ouro — one of the closest and most frequently dived reefs at this southern Mozambique destination, accessible by a short boat ride from the main beach launch. The reef is characterised by sandstone and rock formations with soft corals, sponges, and hard coral, with depths ranging from shallow areas to around 18 metres.
+Doodles is consistently described across multiple sources as the "house reef" of Ponta do Ouro — one of the closest and most frequently dived reefs at this southern Mozambique destination, accessible by a short boat ride from the main beach launch. The reef is characterised by sandstone and rock formations with soft corals, sponges, and hard coral, with caves and sink holes among its features, and depths ranging from shallow areas to around 18 metres.
 
 Confirmed species include potato bass (giant grouper), frogfish (including a notably colourful resident red frogfish), lionfish, dusky sweepers, moray eels, and cleaner shrimp. Kuhl's stingrays, blue-spotted ribbontail rays, and marble electric rays are seen on the sandy flanks. Dolphins are frequently encountered in the area. Humpback whales are seasonally present from July to November in Ponta do Ouro waters generally.
 
@@ -34,4 +34,4 @@ Some sources mention a sunken fishing trawler in the Ponta do Ouro area that has
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Mozambique.co.za — Southern Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/southern-mozambique-dive-sites.html), [X-Ray Mag — Ponta do Ouro](https://xray-mag.com/content/mozambiques-ponta-do-ouro), [SCUBA Travel — Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html). Last updated 2026-06-16.*
+*Sources: [Mozambique.co.za — Southern Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/southern-mozambique-dive-sites.html), [X-Ray Mag — Ponta do Ouro](https://xray-mag.com/content/mozambiques-ponta-do-ouro), [SCUBA Travel — Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html). Last updated 2026-08-14.*

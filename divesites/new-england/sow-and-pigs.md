@@ -33,7 +33,7 @@ Sow and Pigs is a classic New England navigational hazard name — a "sow" (larg
 
 ## Marine Life
 
-The central larger rock (the "sow") and surrounding smaller rocks provide varied habitat. Tautog hold territory on the larger structures. American lobsters inhabit crevices between the central and flanking rocks — the gaps between the "sow" and "pigs" provide classic lobster shelter. Cunner hover around kelp-draped surfaces. Sea urchins are present on exposed rock faces. Pollock and Atlantic mackerel school above the site in summer. Winter flounder rest on surrounding sand. Anemones and bryozoans encrust shaded surfaces year-round.
+No site-specific marine-life reports were found for Sow and Pigs. This is a cold-water New England rocky reef/ledge site near Off Plum Island / western Newburyport approach, northern Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -62,7 +62,7 @@ The named rock cluster lends itself to wide-angle portraits showing the central 
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators; Cape Ann Divers, Gloucester
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

@@ -23,6 +23,8 @@ Specific underwater topography, confirmed marine life, and site dimensions for a
 
 The previous description attributed oceanic manta rays and whale sharks as "regular visitors" to San Sebastian specifically, and described "moray eels, lionfish, and nudibranch species" in the crevices. These were not confirmed by site-specific sources and have been replaced with appropriately qualified language.
 
+**2026-08-14 re-check:** A fresh search reconfirms San Sebastian as documented near the Bazaruto Archipelago mainland peninsula, where it forms a bay with the "Amphitheater" and "Caves" sites, offering walls, overhangs, and caves to about 30 m — still geographically distinct from the Tofo-area coordinates on file for this entry. Fewer than three independent sources confirm a "San Sebastian" pinnacle specifically at these Tofo coordinates, so this site remains unvalidated.
+
 ## Site Information
 
 - **Location**: Tofo/Inhambane area, Mozambique (specific site not independently confirmed)
@@ -32,4 +34,4 @@ The previous description attributed oceanic manta rays and whale sharks as "regu
 - **Maximum Depth**: 22 meters
 
 ---
-*Description based on regional diving characteristics. No three independent site-specific sources found for this named location. Last updated 2026-06-16.*
+*Description based on regional diving characteristics. No three independent site-specific sources found for this named location. Last updated 2026-08-14.*

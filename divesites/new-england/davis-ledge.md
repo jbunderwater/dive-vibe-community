@@ -17,7 +17,7 @@ A rocky ledge on the South Shore of Massachusetts near Scituate, part of a produ
 
 ## Overview
 
-Davis Ledge is one of a cluster of named submerged rocky ledges in the waters south of Boston Harbor, off the Cohasset and Scituate coastline of Massachusetts's South Shore. The ledges in this area — Davis, Enos, Harding, Martin, Mikes, Tobias, Three-and-One-Half-Fathom, and Utonia Ledges — appear on navigational charts as hazards south of the main shipping channels into Boston. For divers, these rocky outcrops at depths ranging from 12 to 18 metres provide productive cold-water reef diving within easy reach of South Shore charter operators. The South Shore ledge system is less traveled than Cape Ann but offers the same cold Gulf of Maine water, excellent lobster populations, and the characteristic tautog, pollock, and cunner community.
+Davis Ledge is one of a cluster of named submerged rocky ledges in the waters south of Boston Harbor, off the Cohasset and Scituate coastline of Massachusetts's South Shore. The ledges in this area — Davis, Enos, Harding, Martin, Mikes, Tobias, Three-and-One-Half-Fathom, and Utonia Ledges — appear on navigational charts as hazards south of the main shipping channels into Boston. For divers, these rocky outcrops at depths ranging from 12 to 18 metres provide productive cold-water reef diving within easy reach of South Shore charter operators. The South Shore ledge system is less traveled than Cape Ann but offers the same cold Gulf of Maine water, and the general character typical of South Shore ledge diving, though no site-specific marine-life survey was found.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Davis Ledge is one of a cluster of named submerged rocky ledges in the waters so
 
 ## Marine Life
 
-The rocky ledge supports the classic Massachusetts South Shore cold-water community. American lobsters are well established in ledge crevices throughout the area — the South Shore ledges are known to local charter divers as reliable lobster habitat. Tautog (blackfish) patrol the ledge edges and rocky structures. Cunner cluster around encrusted surfaces. Pollock school in midwater above the ledge. Sea urchins colonize exposed rock faces. Winter flounder rest on the sandy bottom flanking the ledge. Hydroids, anemones, and encrusting bryozoans cover shaded rock surfaces.
+No site-specific marine-life reports were found for Davis Ledge. This is a cold-water New England rocky reef/ledge site near South Shore ledges, off Scituate/Cohasset, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
-Access via boat charter from Scituate or other South Shore operators. Descend to the rocky ledge at 12–18 metres. Navigate the ledge perimeter, working from shallower to deeper sections. The most productive zone for lobsters is typically at the sand-rock interface at the ledge base. South Shore ledges can be combined with adjacent named sites on a single charter. Plan around slack tide. Ascend with adequate reserve and complete a 3-minute safety stop at 5 metres.
+Access via boat charter from Scituate or other South Shore operators. Descend to the rocky ledge at 12–18 metres. Navigate the ledge perimeter, working from shallower to deeper sections. No site-specific marine-life data confirms which zone is most productive. South Shore ledges can be combined with adjacent named sites on a single charter. Plan around slack tide. Ascend with adequate reserve and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Boat charter required from Scituate, Hull, or other South Shore operators. Local
 
 ## Tips and Recommendations
 
-- The South Shore ledge cluster is excellent for lobster — local divers know these ledges well
+- No site-specific reports were found for this ledge; verify current conditions with a local South Shore operator
 - Combine with adjacent named ledges (Enos, Tobias, Mikes) for a productive multi-site day
 - 7mm wetsuit or drysuit required for cold South Shore water
 - Check current state before diving — the ledges experience moderate tidal current
@@ -57,12 +57,12 @@ Cold water year-round requires adequate thermal protection. Moderate tidal curre
 
 ## Photography
 
-The rocky ledge at 18 metres requires strobes for accurate color rendering. Wide-angle shots of ledge topography with encrusting life; lobster portraits in crevices; tautog on ledge faces are the primary photographic subjects.
+The rocky ledge at 18 metres requires strobes for accurate color rendering. Wide-angle shots of ledge topography with encrusting life; no site-specific photography reports were found for this location.
 
 ## Additional Resources
 
 - **Charter Access**: Scituate and South Shore dive charter operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

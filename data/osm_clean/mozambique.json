@@ -14,7 +14,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "tofoscuba.com,scubamozambique.com,mozambique.co.za,liquiddiveadventures.com,peri-peridivers.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "2026-08-14 re-audit: re-pulled tofoscuba.com, liquiddiveadventures.com, and scubamozambique.com. Depth is corroborated at 19-26m by two sources (tofoscuba.com, liquiddiveadventures.com), but scubamozambique.com reports 24-28m for the same plateau. Both figures noted in markdown. No other factual changes."
     }
   },
   {
@@ -32,7 +33,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "tofoscuba.com,accommodationmozambique.co.za,mozambique.co.za,liquiddiveadventures.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "2026-08-14 re-audit: re-pulled tofoscuba.com, accommodationmozambique.co.za, and liquiddiveadventures.com. CONFLICT FOUND: tofoscuba.com describes the wall as running 'two kilometers more-or-less north to south'; accommodationmozambique.co.za independently describes it as 'extending for more than 350 meters in a north to south direction.' Both figures are now stated as a range in the markdown rather than picking one. Depth corroborated 25-35m across sources (26m start, ledge to 35m per accommodationmozambique.co.za; 25-30m per liquiddiveadventures.com)."
     }
   },
   {
@@ -50,7 +52,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "tofoscuba.com,liquiddiveadventures.com,mozambique.co.za",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "2026-08-14 re-audit: re-pulled tofoscuba.com and mozambique.co.za. Depth (9-16m), species list, and 80m reef length reconfirmed. mozambique.co.za additionally lists trumpetfish, glassfish, and red reef lobster for this site (added to markdown, already-cited source)."
     }
   },
   {
@@ -68,7 +71,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "tofoscuba.com,reefbuilders.com,mozambique.co.za,liquiddiveadventures.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "2026-08-14 re-audit: re-pulled tofoscuba.com and liquiddiveadventures.com. Depth (23-30m), green tree coral, cleaning station, and marine life list reconfirmed. No corrections needed."
     }
   },
   {
@@ -86,8 +90,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "mozambique.co.za,xray-mag.com,scubatravel.co.uk",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "Coordinates -23.8417/35.5875 place this site near Tofo, but Doodles is a well-documented reef at Ponta do Ouro (~-26.8, 32.9). Coordinate mismatch retained from curated data — requires correction."
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Coordinates -23.8417/35.5875 place this site near Tofo, but Doodles is a well-documented reef at Ponta do Ouro (~-26.8, 32.9). Coordinate mismatch retained from curated data — requires correction. 2026-08-14 re-audit: re-pulled mozambique.co.za and xray-mag.com, both still describe Doodles at Ponta do Ouro, depth up to 18m, potato bass/frogfish/lionfish/dusky sweepers/cleaner shrimp reconfirmed; mozambique.co.za additionally notes 'caves and sink holes' as a feature (added to markdown). Coordinate conflict unresolved."
     }
   },
   {
@@ -105,8 +109,8 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "mozambiquetravel.com,mozambique.co.za,padi.com",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "COORDINATE/NAME CONFLICT: 'Two Mile Reef' is documented in multiple sources as a reef in the Bazaruto Archipelago between Benguerra and Bazaruto Islands (~-21.8, 35.5), NOT at Ponta do Ouro. Current coordinates (-26.8333, 32.9) place this site at Ponta do Ouro where no site named 'Two Mile Reef' is confirmed. Ragged-tooth shark claim in existing description is unverified. Site cannot be validated until name/location conflict is resolved."
+      "last_qa_date": "2026-08-14",
+      "qa_note": "COORDINATE/NAME CONFLICT: 'Two Mile Reef' is documented in multiple sources as a reef in the Bazaruto Archipelago between Benguerra and Bazaruto Islands (~-21.8, 35.5), NOT at Ponta do Ouro. Current coordinates (-26.8333, 32.9) place this site at Ponta do Ouro where no site named 'Two Mile Reef' is confirmed. Ragged-tooth shark claim in existing description is unverified. Site cannot be validated until name/location conflict is resolved. 2026-08-14 recheck: fresh search reconfirms the conflict — no operator lists a 'Two Mile Reef' at Ponta do Ouro; still remains false pending name/coordinate correction."
     }
   },
   {
@@ -124,7 +128,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "xray-mag.com,padi.com,mozambique.co.za,scubatravel.co.uk",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "2026-08-14 re-audit: re-pulled padi.com, xray-mag.com, and scubatravel.co.uk. Depth (28-40m) and shark species (bull/Zambezi, hammerhead, tiger) reconfirmed. CONFLICT FOUND on shark species count: padi.com states 'up to 8 species of shark' seen during summer months at Ponta do Ouro generally, while xray-mag.com states 'a surprising 19 species of shark have been identified in the area,' and other operators cite 17. Range now stated in markdown instead of a single figure."
     }
   },
   {
@@ -142,8 +147,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "xray-mag.com,mozambique.co.za,scubago.com,scubatravel.co.uk",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "Some sources describe Bass City as having a sunken fishing trawler forming an artificial reef element alongside the natural rocky reef. Site type kept as 'reef' since the primary character is rocky reef with potato bass aggregations, but the wreck element exists."
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Some sources describe Bass City as having a sunken fishing trawler forming an artificial reef element alongside the natural rocky reef. Site type kept as 'reef' since the primary character is rocky reef with potato bass aggregations, but the wreck element exists. 2026-08-14 re-audit: re-pulled xray-mag.com, depth (~25m), potato bass, lionfish, juvenile boxfish, and harlequin shrimp reconfirmed. xray-mag.com's 'zebra shark' is the same species commonly called 'leopard shark' in Indo-Pacific usage — consistent with existing markdown, no correction needed."
     }
   },
   {
@@ -161,7 +166,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "mozambiquetravel.com,mozambique.co.za,padi.com,scubaboard.com",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "2026-08-14 re-audit: re-pulled mozambiquetravel.com and padi.com. padi.com's Bazaruto Archipelago page confirms 14 dive sites (13 reef, 8 drift, 5 ocean) but gives no site-specific detail for a site named 'Bazaruto Island Reef'; content remains a defensible archipelago-level summary rather than a single named site. No factual corrections required."
     }
   },
   {
@@ -179,8 +185,8 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "mozambique.co.za,padi.com",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "Insufficient site-specific sources. One source mentions San Sebastian in the context of walls, caves, and overhangs suitable for Open Water divers near Bazaruto — which conflicts with the Tofo coordinates here. Could not find 3 independent sources confirming this specific site at these coordinates."
+      "last_qa_date": "2026-08-14",
+      "qa_note": "Insufficient site-specific sources. One source mentions San Sebastian in the context of walls, caves, and overhangs suitable for Open Water divers near Bazaruto — which conflicts with the Tofo coordinates here. Could not find 3 independent sources confirming this specific site at these coordinates. 2026-08-14 recheck: fresh search reconfirms San Sebastian is documented near the Bazaruto Archipelago mainland peninsula (Amphitheater/Caves, ~30m), not at the Tofo coordinates given here. Still fewer than 3 independent sources for a Tofo-area 'San Sebastian' pinnacle; remains unvalidated."
     }
   },
   {
@@ -198,7 +204,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diveguinjata.com,scubago.com,accommodationmozambique.co.za",
-      "last_qa_date": "2026-06-16"
+      "last_qa_date": "2026-08-14",
+      "qa_note": "2026-08-14 re-audit: re-pulled diveguinjata.com and accommodationmozambique.co.za. diveguinjata.com's own site listing does not use the name 'Guinjata Bay Reef' — it names 24 individual sites (Turtle Creek, Batfish, Eel Alley, etc.) grouped into 'local reefs' and 'deep reefs'. However, accommodationmozambique.co.za independently and explicitly names 'the renowned Guinjata Bay reef, located approximately 1.5 kilometers out to sea... depths of up to 21 meters' as a distinct site, matching the depth already on file. Kept validated on the strength of this independent confirmation; markdown updated to clarify the naming discrepancy between the operator's granular site list and the generic bay-wide name."
     }
   },
   {
@@ -216,8 +223,8 @@
       "addedBy": "gap_fill",
       "validated": "false",
       "validation_source": "mozambique.co.za,originaldiving.com",
-      "last_qa_date": "2026-06-16",
-      "qa_note": "No source confirms a site specifically named 'Quirimbas Reef'. The Quirimbas Archipelago has many named sites (Zala Bank, Rush Hour, Medjumbe walls, Neptune's Arm, etc.) but none called 'Quirimbas Reef'. This appears to be a generic curated placeholder name. Additionally, one major operator (Original Diving) notes northern Mozambique is 'off limits' due to security concerns. Cannot validate with fewer than 3 sources for this specific site name."
+      "last_qa_date": "2026-08-14",
+      "qa_note": "No source confirms a site specifically named 'Quirimbas Reef'. The Quirimbas Archipelago has many named sites (Zala Bank, Rush Hour, Medjumbe walls, Neptune's Arm, etc.) but none called 'Quirimbas Reef'. This appears to be a generic curated placeholder name. Additionally, one major operator (Original Diving) notes northern Mozambique is 'off limits' due to security concerns. Cannot validate with fewer than 3 sources for this specific site name. 2026-08-14 recheck: fresh search surfaces additional named Quirimbas sites (Matemo Channel, St. Lazarus Bank, Vamizi Island reefs) but still no site called 'Quirimbas Reef'; remains unvalidated."
     }
   }
 ]

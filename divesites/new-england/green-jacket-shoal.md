@@ -38,7 +38,7 @@ Green Jacket Shoal represents a largely unknown chapter of Rhode Island's mariti
 - **Research**: URI Graduate School of Oceanography — David Robinson, marine archaeologist
 - **Boat Tours**: [Providence River Boat Company — Green Jacket Shoal Tour](https://www.providenceriverboat.com/boat-tours/tour-green-jacket-shoal/)
 - **MPA Authority**: Rhode Island CRMC
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [Wikipedia — Green Jacket Shoal](https://en.wikipedia.org/wiki/Green_Jacket_Shoal), [URI News — Rhode Island's Largest Ship Graveyard](https://www.uri.edu/news/2016/03/uri-graduate-school-of-oceanography-marine-archaeologist-uncovers-rhode-islands-largest-ship-graveyard/), [Providence River Boat Company](https://www.providenceriverboat.com/boat-tours/tour-green-jacket-shoal/). Last updated 2026-06-18.*
+*Sources: [Wikipedia — Green Jacket Shoal](https://en.wikipedia.org/wiki/Green_Jacket_Shoal), [URI News — Rhode Island's Largest Ship Graveyard](https://www.uri.edu/news/2016/03/uri-graduate-school-of-oceanography-marine-archaeologist-uncovers-rhode-islands-largest-ship-graveyard/), [Providence River Boat Company](https://www.providenceriverboat.com/boat-tours/tour-green-jacket-shoal/). Last updated 2026-08-14.*

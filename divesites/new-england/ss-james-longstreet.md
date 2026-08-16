@@ -44,7 +44,7 @@ The SS James Longstreet represents a unique chapter in Cold War weapons developm
 
 - **Historical Reference**: [Wikipedia — SS James Longstreet](https://en.wikipedia.org/wiki/SS_James_Longstreet); [South Wellfleet, MA history](https://south-wellfleet.com/2016/03/23/the-target-ship-in-cape-cod-bay/)
 - **Management**: Massachusetts BUAR; contact before any dive attempt
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Sources: [Wikipedia — SS James Longstreet](https://en.wikipedia.org/wiki/SS_James_Longstreet), [South Wellfleet Historical Blog](https://south-wellfleet.com/2016/03/23/the-target-ship-in-cape-cod-bay/), [Mass.gov BUAR](https://www.mass.gov/info-details/james-longstreet). Last updated 2026-06-18.*
+*Sources: [Wikipedia — SS James Longstreet](https://en.wikipedia.org/wiki/SS_James_Longstreet), [South Wellfleet Historical Blog](https://south-wellfleet.com/2016/03/23/the-target-ship-in-cape-cod-bay/), [Mass.gov BUAR](https://www.mass.gov/info-details/james-longstreet). Last updated 2026-08-14.*

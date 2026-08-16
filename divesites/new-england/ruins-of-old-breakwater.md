@@ -33,7 +33,7 @@ The Ruins of Old Breakwater is a site of both historical and biological interest
 
 ## Marine Life
 
-The scattered stone blocks and cut granite of the old breakwater have been thoroughly colonized. Encrusting sponges, anemones, and bryozoans cover most hard surfaces. Tautog hold territory on the larger block faces. American lobsters inhabit the dark spaces between the tumbled stone. Cunner school around the rubble. Sea urchins are present on open stone surfaces. Winter flounder rest on the sandy areas between the stone scatter. Pollock cruise above.
+No site-specific marine-life reports were found for Ruins of Old Breakwater. This is a cold-water New England rocky reef/ledge site near Off Plum Island/Newburyport coast, northern Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Heavily encrusted stone creates excellent macro subjects. The juxtaposition of c
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators; Cape Ann Divers, Gloucester
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

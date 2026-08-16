@@ -17,11 +17,11 @@ Mandu Wall is a wall dive on the outer edge of Ningaloo Reef in the southern sec
 
 ## Overview
 
-Mandu Wall is part of a cluster of wall and deep reef sites along the outer western edge of Ningaloo — alongside sites such as Hole in the Wall, Milyering Wall (which reaches approximately 27 metres), and the Colosseum — where the reef structure is dissected by crevices, ledges, and caves. Hard coral formations at the shallower sections give way to deeper walls with soft coral and sponge growth.
+Mandu Wall is part of a cluster of wall and deep reef sites along the outer western edge of Ningaloo — alongside sites such as Hole in the Wall, Milyering Wall (confirmed elsewhere at approximately 27 metres), and the Coliseum (confirmed elsewhere at approximately 17 metres) — in an area where the reef structure is dissected by crevices, ledges, and caves.
 
-The outer reef position means significant current is common at these sites, which drives pelagic fish activity along the wall face. Turtles, grey reef sharks, trevally, and schooling pelagic fish are regularly encountered, and huge potato cod and rankin cod patrol the deeper ledges. Parrotfish, damselfish, butterflyfish, and angelfish populate the hard coral sections. Manta rays visit the area from approximately mid-May, and humpback whales are occasionally sighted by divers from June through November.
+**Marine life note**: No dive shop, forum thread, or operator page found during this and a prior research pass names Mandu Wall specifically. DiveAdvisor lists a "Mandu Wall Dive Site" entry, but its content could not be retrieved to confirm details, and two previously-cited sources (Aussie Marine Adventures' Westside outer-reef article and the Whale Shark Tours dive page) describe the general Tantabiddi/outer-reef area rather than Mandu Wall by name. Ningaloo's outer reef in general is documented to hold turtles, reef sharks, and large potato cod, but no source confirms any of that specifically for Mandu Wall. Rather than attribute a species list to this site, the regional fauna described above applies, but no site-specific marine-life reports were found.
 
-No local operator published a specific page for Mandu Wall during this research. The site is listed on DiveAdvisor and referenced in regional guides; the description reflects the documented character of outer reef wall sites in the Mandu Creek area.
+Depth (25m) and difficulty here reflect the outer-reef wall character of the surrounding Mandu Creek area rather than a confirmed site-specific figure — treat these as best estimates pending a source that names Mandu Wall directly.
 
 ## Site Information
 
@@ -33,4 +33,4 @@ No local operator published a specific page for Mandu Wall during this research.
 - **Currents**: Current common on outer reef face; dive timing matters
 
 ---
-*Sources: [DiveAdvisor — Mandu Wall](https://diveadvisor.com/australia/mandu-wall), [Aussie Marine Adventures — Westside Outer Reef](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-4-westside-outer-reef-exmouth-ningaloo-reef/), [Whale Shark Tours — Scuba Diving](https://www.whalesharktours.com.au/scuba-diving/). Last updated 2026-06-18.*
+*Sources: [DiveAdvisor — Mandu Wall](https://diveadvisor.com/australia/mandu-wall) (listing only, content unverifiable at time of review), [Aussie Marine Adventures — Westside Outer Reef](https://aussiemarineadventures.com.au/the-scuba-dive-series-part-4-westside-outer-reef-exmouth-ningaloo-reef/) (general area context, does not name Mandu Wall), [Whale Shark Tours — Scuba Diving](https://www.whalesharktours.com.au/scuba-diving/) (general area context, does not name Mandu Wall). No site-specific source for Mandu Wall was confirmed as of this review; depth, difficulty, and site type carried forward from prior data pending better sourcing. Last updated 2026-08-14.*

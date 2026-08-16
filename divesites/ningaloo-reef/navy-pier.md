@@ -23,6 +23,8 @@ Visibility is typically poor by Ningaloo standards — 3–10 metres depending o
 
 Diving is entirely tidal-dependent: only slack tide allows safe conditions, as strong currents otherwise make the site undiveable. The site is operated exclusively by Dive Ningaloo, which holds the permit required to enter the Defence Restricted Area. Under-18 divers require advance passport approval. Night dives are available and particularly rewarding.
 
+**Current status (as of this review)**: Dive Ningaloo's own site currently states the Navy Pier is "closed for extensive maintenance," pending updates from the Department of Defence. Check directly with the operator before planning a visit, as this is a working naval facility subject to access changes outside any dive operator's control.
+
 ## Site Information
 
 - **Location**: Ningaloo Reef, Exmouth, Western Australia
@@ -32,6 +34,7 @@ Diving is entirely tidal-dependent: only slack tide allows safe conditions, as s
 - **Maximum Depth**: 15 meters
 - **Visibility**: 3–10 metres (tidal/weather dependent)
 - **Currents**: Strong when not at slack tide; dive timing is tidal-dependent
+- **Access note**: Closed for maintenance as of this review — confirm current status before booking
 
 ---
-*Sources: [Dive Ningaloo](https://www.diveningaloo.com.au/scuba-diving-tours/the-exmouth-navy-pier/), [ScubaBoard — Navy Pier Exmouth](https://scubaboard.com/community/threads/diving-the-navy-pier-in-exmouth-wa-australia.435124/), [DiveZone](https://divezone.net/divesite/navy-pier), [Ningaloo Whale Sharks](https://www.ningaloowhalesharks.com/navy-pier/), [Brooke Pyke Photography](https://www.brookepykephotography.com/post/diving-the-exmouth-navy-pier-one-of-the-top-ten-shore-dives-in-the-world). Last updated 2026-06-18.*
+*Sources: [Dive Ningaloo](https://www.diveningaloo.com.au/scuba-diving-tours/the-exmouth-navy-pier/), [ScubaBoard — Navy Pier Exmouth](https://scubaboard.com/community/threads/diving-the-navy-pier-in-exmouth-wa-australia.435124/), [Ningaloo Whale Sharks](https://www.ningaloowhalesharks.com/navy-pier/), [Brooke Pyke Photography](https://www.brookepykephotography.com/post/diving-the-exmouth-navy-pier-one-of-the-top-ten-shore-dives-in-the-world). Last updated 2026-08-14.*

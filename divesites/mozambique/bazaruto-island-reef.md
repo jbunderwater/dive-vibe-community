@@ -34,4 +34,4 @@ Access to Bazaruto Island from Vilanculos requires a boat journey to reach the a
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [Mozambique Travel — Bazaruto Diving](https://www.mozambiquetravel.com/blog/bazaruto-diving), [Mozambique.co.za — Bazaruto Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/dive-sites-vilanculos-bazaruto.html), [PADI — Bazaruto Archipelago Dive Sites](https://www.padi.com/dive-sites/mozambique/bazaruto-archipelago/), [ScubaBoard — Bazaruto Trip Report](https://scubaboard.com/community/threads/trip-report-mozambique-vilanculos-bazaruto.234143/). Last updated 2026-06-16.*
+*Sources: [Mozambique Travel — Bazaruto Diving](https://www.mozambiquetravel.com/blog/bazaruto-diving), [Mozambique.co.za — Bazaruto Dive Sites](https://www.mozambique.co.za/Dive_Destinations-travel/dive-sites-vilanculos-bazaruto.html), [PADI — Bazaruto Archipelago Dive Sites](https://www.padi.com/dive-sites/mozambique/bazaruto-archipelago/), [ScubaBoard — Bazaruto Trip Report](https://scubaboard.com/community/threads/trip-report-mozambique-vilanculos-bazaruto.234143/). Last updated 2026-08-14.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Lunts Rock
 
-A named submerged rock in the northern Massachusetts reef cluster near Plum Island, known to local divers for lobster and tautog.
+A named submerged rock in the northern Massachusetts reef cluster near Plum Island, described on navigational charts, though no dive-specific documentation was found.
 
 ## Overview
 
-Lunts Rock is a submerged rocky feature in the northern Massachusetts nearshore, clustered with Badgers Rock, Black Rocks, Gangway Rocks, and the Half Tide Rocks in the Plum Island/Newburyport area. The name likely derives from an early local family or landowner — the Lunts were a prominent Essex County family. Like the other named rocks in this cluster, Lunts Rock sits at approximately 10 metres maximum depth and provides the characteristic shallow cold-water reef diving that Cape Ann and North Shore operators know well. The entire cluster of named rocks in this area represents a productive zone for lobster and tautog within convenient range of Newburyport Harbor.
+Lunts Rock is a submerged rocky feature in the northern Massachusetts nearshore, clustered with Badgers Rock, Black Rocks, Gangway Rocks, and the Half Tide Rocks in the Plum Island/Newburyport area. The name likely derives from an early local family or landowner — the Lunts were a prominent Essex County family. Like the other named rocks in this cluster, Lunts Rock sits at approximately 10 metres maximum depth consistent with the shallow cold-water reef diving typical of this cluster, though no site-specific marine-life survey was found for this location.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Lunts Rock is a submerged rocky feature in the northern Massachusetts nearshore,
 
 ## Marine Life
 
-The rocky substrate supports the standard northern Massachusetts cold-water reef community. Tautog patrol the rock edges and crevice faces. American lobsters inhabit crevices throughout the rock structure. Cunner hover above encrusted surfaces. Sea urchins are plentiful on exposed rock faces. Pollock school in midwater in summer and fall. Winter flounder rest on adjacent sandy areas. Anemones, hydroids, and bryozoans encrust shaded rock surfaces.
+No site-specific marine-life reports were found for Lunts Rock. This is a cold-water New England rocky reef/ledge site near Off Plum Island/Newburyport coast, northern Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
-Boat access required from Newburyport or northern Cape Ann. Descend to 8–10 metres and navigate the rock perimeter, working crevice faces for lobsters. Pair with adjacent named rocks for a multi-site dive day. Plan around slack water. Complete a 3-minute safety stop at 5 metres.
+Boat access required from Newburyport or northern Cape Ann. Descend to 8–10 metres and navigate the rock perimeter. Pair with adjacent named rocks for a multi-site dive day. Plan around slack water. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
@@ -46,7 +46,7 @@ Boat charter required. Local knowledge of Plum Island Sound approaches is helpfu
 ## Tips and Recommendations
 
 - Combine with Badgers Rock, Black Rocks, and Gangway Rocks for a productive northern Massachusetts reef day
-- Lobsters are the primary target — work the sand-rock interface at the base of the boulder clusters
+- No site-specific reports were found for this location; verify current conditions with a local operator
 - 7mm wetsuit or drysuit required
 - Water clarity tends to improve in late summer when plankton blooms subside
 
@@ -56,12 +56,12 @@ Cold water year-round. Moderate tidal current near peak flow. Rocky bottom prese
 
 ## Photography
 
-Strong natural light at 10 metres. Rocky reef subjects and lobster portraits are the primary photographic focus.
+Strong natural light at 10 metres. No site-specific photography reports were found for this location.
 
 ## Additional Resources
 
 - **Charter Access**: Newburyport and Plum Island area dive operators
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*

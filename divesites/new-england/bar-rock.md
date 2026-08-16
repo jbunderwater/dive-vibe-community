@@ -33,7 +33,7 @@ Bar Rock is a submerged rocky shoal in the northern Ipswich Bay area off the Mas
 
 ## Marine Life
 
-The rocky bar substrate supports the typical northern Massachusetts cold-water reef community. American lobsters shelter in the deepest rock crevices. Tautog patrol the ledge edges. Cunner hover around encrusted surfaces and rocky overhangs. Sea urchins are common on exposed rock faces. Winter flounder rest on sandy patches flanking the rock. Atlantic mackerel school in midwater above the reef in summer. Pollock cruise above the structure.
+No site-specific marine-life reports were found for Bar Rock. This is a cold-water New England rocky reef/ledge site near Northern Ipswich Bay, off Ipswich/Essex area, Massachusetts; the region's typical temperate fauna may occur here, but no species can be confirmed at this specific location without documented dive reports or surveys.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Excellent natural light at 10 metres on clear days. Wide shots of rocky reef wit
 ## Additional Resources
 
 - **Charter Access**: Cape Ann Divers, Gloucester; North Shore dive charters
-- **Last Updated**: 2026-06-18
+- **Last Updated**: 2026-08-14
 
 ---
-*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-06-18.*
+*Description based on regional New England diving characteristics. No site-specific sources found. Last updated 2026-08-14.*
