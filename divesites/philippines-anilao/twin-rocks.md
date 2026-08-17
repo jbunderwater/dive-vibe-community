@@ -25,7 +25,7 @@ Twin Rocks consists of two rock formations separated by roughly a meter, sitting
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (fordivers.com reports 16m)
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20+ meters
 - **Current**: Light in the gap; moderate on exposed faces
 - **Best Time**: October to May

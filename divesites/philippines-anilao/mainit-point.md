@@ -5,7 +5,7 @@ lng: 120.8933
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: muck
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Mainit Point is a current-swept boulder-strewn slope off Mabini, Batangas, where
 
 - **Location**: Mabini, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (sources report a range of 24–35 meters)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10–30 meters
 - **Current**: Can be strong, especially around the point
 - **Best Time**: November to May
