@@ -9,15 +9,17 @@ siteType: pinnacle
 ref: null
 osmId: 4941394889
 addedBy: osm_import
+qa_status: unresolved
+qa_note: "Only one source (malapascuaisland.com, describing 'Lapus II'/'Lapus Pinnacle') clearly distinguishes a second Lapus-Lapus site; most other sources treat Lapus-Lapus as a single site. Does not meet the 3-distinct-domain deep-QA bar. Needs further research to confirm as a distinct, separately-verified site."
 ---
 
 ## Lapus-Lapus 2
 
-Lapus-Lapus 2 is the second of the Lapus-Lapus pinnacle cluster off northwest Malapascua Island, a series of submerged rock pinnacles that rise from the seafloor and create the concentrated marine life typical of isolated structure diving in Philippine waters.
+Lapus-Lapus 2 (referred to by at least one local operator as "Lapus II" or "Lapus Pinnacle") is described as a second, nearby pinnacle to the main Lapus-Lapus site, though most sources treat the Lapus-Lapus area as a single dive site rather than distinguishing a separate "2."
 
 ## Overview
 
-The Lapus-Lapus sites are among the lesser-visited dive destinations around Malapascua Island, sitting in the shadow of the globally famous Monad Shoal thresher shark dives. However, the pinnacle structure at Lapus-Lapus 2 delivers a different type of diving experience — encrusted with hard and soft corals, sea fans, and sponges, and surrounded by the open water that attracts passing pelagics. The pinnacle drops from near-surface level down to 30 meters, with the most productive diving in the 10–25 meter range where coral growth is densest. The site's character resembles other Philippine pinnacle dives with strong current potential and corresponding fish aggregations.
+The one source that distinguishes this as a separate site describes a shallow start around 12 meters sloping down toward a small wall covered in soft corals, hard corals, and sea fans, with the possibility of strong currents. Because independent corroboration for this being a genuinely distinct, separately-named site is limited to a single source, treat the details below as provisional.
 
 ## Site Information
 
@@ -26,37 +28,31 @@ The Lapus-Lapus sites are among the lesser-visited dive destinations around Mala
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-20 meters
-- **Current**: Variable; can be moderate to strong
-- **Best Time**: March to June
 
 ## Marine Life
 
-Pinnacle structures in the Malapascua area support populations of sea snakes, which are harmless and commonly encountered in these waters. Lionfish occupy crevices throughout the structure. Barracuda schools and trevally patrol in the water column around the pinnacle. Sea turtles may be found resting on the shallow sections. The pinnacle's isolated structure in open water occasionally draws in more unusual visitors from the surrounding sea.
+The single source distinguishing this site mentions nudibranchs and frogfish among the soft coral and sea fan growth. Claims of sea snakes, lionfish, barracuda schools, trevally, resting sea turtles, and "unusual visitors" from an earlier draft were not corroborated by research and have been removed. Malapascua's general pinnacle-dive fauna (sea fans, soft coral, reef fish, occasional current-driven pelagics) likely applies, but no confirmed site-specific list exists beyond nudibranchs and frogfish.
 
 ## Dive Profile
 
-Descend to the base of the pinnacle at 25–30 meters and work upward in a spiral, covering the full circumference. The pinnacle's sides are productive throughout, but the 15–25 meter zone typically has the densest coral growth and associated fish communities. Finish the dive on the shallow pinnacle top for the safety stop.
+Reported as a shallow start (~12m) sloping toward a small wall with denser coral growth deeper down. Given the limited sourcing, confirm the planned profile with your operator.
 
 ## Entry and Exit
 
-Short banca ride from Malapascua Island resorts. Entry by giant stride; return to the banca by ladder. Deploy SMB before ascending.
+Short banca ride from Malapascua Island resorts; entry by giant stride.
 
 ## Tips and Recommendations
 
-- Combine with a Monad Shoal morning dive for a full Malapascua diving day
-- The Lapus-Lapus sites are less busy than the main Malapascua sites, offering more personal space underwater
-- Currents here are intermittent — be prepared for current to pick up mid-dive
-- Bring wide-angle for the pinnacle structure and macro for the encrusting life
-- Ask your dive guide about recent sightings — sea snake encounters are common in the area
+- Confirm with your operator whether this is being run as a distinct site from the main Lapus-Lapus, since sources disagree on this
+- Currents can be strong per the one available source — ask about conditions before entry
 
 ## Safety Considerations
 
-The 30-meter depth requires monitoring of no-decompression limits. Currents can strengthen around pinnacles. Carry an SMB and be prepared for the possibility of a drift ascent if current is running at depth.
+The 30-meter depth requires monitoring of no-decompression limits. Carry an SMB given the potential for current.
 
 ## Photography
 
-The pinnacle structure makes for dramatic wide-angle shooting, particularly from below looking up. Sea fans and soft corals on the deeper sections provide colourful details. Sea snake encounters, if they occur, make striking and unusual subjects.
+Sea fans and soft coral on the small wall section are the reported photographic highlight.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua Island - Dive Sites](https://malapascuaisland.com/dive-sites/). Only one independent source distinguishes this as a separate site — this description does not yet meet the 3-source verification standard. Last updated 2026-08-17.*

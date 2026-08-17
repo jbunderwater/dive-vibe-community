@@ -2,7 +2,7 @@
 name: Bogtong Bato
 lat: 11.3512234
 lng: 124.1027874
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: pinnacle
@@ -13,50 +13,48 @@ addedBy: osm_import
 
 ## Bogtong Bato
 
-Bogtong Bato is a submerged pinnacle off the northwest coast of Malapascua Island, one of several pinnacle dive sites in the Malapascua area that offer alternatives to the famous Monad Shoal thresher shark dives.
+Bogtong Bato (also spelled Bugtong Bato, "single rock" or "rock pile" in Cebuano) is a submerged pinnacle off Malapascua known for steep walls, swirling currents, and a resident school of batfish — one of the area's more thrill-oriented dives.
 
 ## Overview
 
-The name "Bogtong Bato" translates roughly as "single rock" in Cebuano, accurately describing the isolated pinnacle structure that rises from the seafloor to within a few meters of the surface. The pinnacle sits in the waters between Malapascua Island and the Cebuano mainland, forming a compact structure that concentrates marine life in the same way the region's more celebrated dive sites do. Hard and soft corals encrust the pinnacle sides, and the structure's isolated position in open water attracts a mix of reef residents and pelagic visitors. Currents sweeping past the pinnacle bring nutrients that sustain the dense sea fan growth on the deeper sections.
+Sources place the flat top of the pinnacle at roughly 14-15 meters, with sheer walls dropping to around 28-30 meters. The site features steep walls and hidden crevices, and strong currents can bring surprise encounters with schooling fish. It's generally rated for advanced divers given the current and depth.
 
 ## Site Information
 
 - **Location**: Northwest of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-25 meters
-- **Current**: Variable; can strengthen around the pinnacle
+- **Current**: Can be strong and swirling
 - **Best Time**: March to June (generally calmer conditions)
 
 ## Marine Life
 
-The pinnacle's concentrated structure supports a range of resident and visiting species. Sea fans on the deeper sections harbour longnose hawkfish and filefish. Lionfish are common on the mid-depth sections. Sea snakes may be encountered cruising the reef face. The open-water environment around the pinnacle attracts trevally, barracuda, and occasional reef sharks. Macro subjects including nudibranchs and flatworms inhabit the coral growth throughout the structure.
+Sources report a large resident school of batfish, plus squid, mackerel, nudibranchs, scorpionfish, lionfish, zebra crabs, and whip coral shrimp. Two large resident frogfish and ornate ghost pipefish are also documented, along with occasional schools of trevally or barracuda when current is running. Claims of longnose hawkfish and filefish from an earlier draft were not corroborated by research and have been removed.
 
 ## Dive Profile
 
-Descend to the base of the pinnacle at 25–30 meters and ascend in a spiral around the structure, covering all sides as you work your way shallower. The pinnacle top at 3–5 meters is an excellent location for the safety stop while continuing to observe reef life. Manage air carefully — 30 meter starting depth limits bottom time.
+Descend to the pinnacle base around 28-30 meters and work upward, using the steep walls and crevices as a guide. The pinnacle top at 14-15 meters is a good area for the later part of the dive and safety stop.
 
 ## Entry and Exit
 
-Accessible by banca from Malapascua dive resorts. The short boat ride makes this viable as a second or third dive of the day. Entry by giant stride; return to the banca by ladder. Deploy SMB before ascending for boat crew visibility.
+Accessible by banca from Malapascua dive resorts. Entry by giant stride; deploy SMB before ascending given the current potential.
 
 ## Tips and Recommendations
 
-- Dive this site as a complement to a morning Monad Shoal trip
-- The pinnacle rewards slow, circular diving — cover all sides of the structure
-- Sea fans on the 20–30 meter sections deserve close inspection for hiding critters
-- Bring a torch for exploring the darker crevices lower on the pinnacle
-- The site is excellent for both experienced divers and confident intermediates
+- Advanced current management skills are expected here — confirm conditions with your guide before committing
+- Watch for the resident batfish school and the two resident frogfish
+- Check whip corals and crevices closely for shrimp and ghost pipefish
 
 ## Safety Considerations
 
-The 30 meter maximum depth requires careful no-decompression limit management. Currents can increase around the pinnacle unexpectedly. Deploy SMB for the ascent. Hyperbaric facilities are limited in the Malapascua area — conservative diving is important.
+The 30-meter depth combined with reported swirling currents makes this an advanced-level dive. Careful no-decompression planning and an SMB are essential.
 
 ## Photography
 
-Pinnacle photography lends itself to dramatic wide-angle shots of the structure receding into the deep. Sea fan details on the deeper sections and the abundant reef life on the mid-depth sections both provide excellent subjects. Natural light is good on the shallower pinnacle sections.
+Wide-angle for the pinnacle structure and schooling batfish; macro for the resident frogfish, ghost pipefish, and whip coral shrimp.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [PADI - Bugtong Bato dive site](https://www.padi.com/dive-site/philippines/bugtong-bato/), [Malapascua's Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [divessi - Bugtong Bato](https://www.divessi.com/en/mydiveguide/divesite/bugtong-bato-philippines-684678), [Kokay's Malapascua Diving - Bugtong Bato](https://kokaysmalditodiveresort.com/diving-malapascua-cebu-philippines/thresher-shark-diving/bugtong-bato/). Last updated 2026-08-17.*

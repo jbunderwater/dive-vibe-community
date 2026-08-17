@@ -3,7 +3,7 @@ name: Los Bamboos
 lat: 11.3431335
 lng: 124.108851
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,23 +13,45 @@ addedBy: osm_import
 
 ## Los Bamboos
 
-Los Bamboos is a reef dive site in Philippines Malapascua, Asia.
+Los Bamboos (also referred to locally as Los Bamboos Marine Sanctuary) is a quiet reef site away from Malapascua's busier dive routes, popular as a training site and for relaxed macro/critter diving.
 
 ## Overview
 
-Los Bamboos is a coral slope on the southern side of Malapascua named for the bamboo fish traps that local fishermen once set along this stretch of reef. The site descends from a shallow reef crest rich in branching corals down to a rubble and sand bottom at around 20 meters, where garden eels sway in the mild current and burrowing gobies dart between shrimp burrows. It makes an excellent second or third dive of the day when the water is at its warmest and the fish feeding activity picks up in the afternoon light.
+The site's coral garden and reef structure run from about 5 to 18 meters, with a name that comes from bamboo-like formations near the shore. It's rated suitable for Open Water divers and also used for skills refinement and macro photography by more experienced divers. Evolution Diving Resort, which runs periodic cleanup dives here, and PADI AWARE both list it as a frequented training site.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Malapascua Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 
 ## Marine Life
 
-Los Bamboos is a productive reef slope for classic Visayan reef fish, with garden eels swaying in clusters across the sandy bottom at depth and burrowing gobies darting between shrimp-goby burrows. Wrasse, butterflyfish, and parrotfish dominate the mid-reef, while the rubble patches yield the occasional seahorse and small nudibranchs. Sea turtles are frequently seen resting on the coral heads in the shallower sections of the slope.
+Sources describe the appeal of Los Bamboos as slow, careful searching for critters camouflaged within the coral, and a gentle drift along the reef, rather than naming specific headline species for this site. Earlier claims of garden eels, burrowing gobies, wrasse, butterflyfish, parrotfish, seahorses, and resting sea turtles at this specific site were not corroborated by research and have been softened to reflect what sources actually confirm — that this is a macro-friendly reef without a documented specific species list.
+
+## Dive Profile
+
+A relaxed reef dive from 5-18 meters, well suited to a training dive, skills refinement, or a slow macro-focused second/third dive of the day. Best conditions are generally reported between November and May.
+
+## Entry and Exit
+
+Boat entry from Malapascua resorts.
+
+## Tips and Recommendations
+
+- Good choice for a training dive or skills-refinement dive given its gentle profile
+- Move slowly and check coral surfaces closely for camouflaged critters
+- Help keep the site clean — it's a known debris-collection point for local dive shops
+
+## Safety Considerations
+
+Shallow-to-moderate depth (5-18m) keeps this a low-risk, beginner-friendly dive.
+
+## Photography
+
+Best suited to macro photography given the site's emphasis on camouflaged critters within the coral.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Evolution Diving Resort - Los Bamboos Dive Site Cleanup](https://evolution.com.ph/los-bamboos-dive-site-cleanup/), [PADI AWARE - Los Bamboos debris data](https://www.diveagainstdebris.org/debris-data/los-bamboos-5), [Tripadvisor - Los Bamboos Marine Sanctuary](https://www.tripadvisor.com/Attraction_Review-g659555-d3915718-Reviews-Los_Bamboos_Marine_Sanctuary-Malapascua_Island_Cebu_Island_Visayas.html). Last updated 2026-08-17.*

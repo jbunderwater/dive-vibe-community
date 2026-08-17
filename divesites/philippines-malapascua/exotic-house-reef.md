@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Exotic House Reef
 
-Exotic House Reef is a reef dive site in Philippines Malapascua, Asia.
+Exotic House Reef is the purpose-built house reef of Malapascua Exotic Island Dive Resort, cultivated since 2001 from sunken jeepneys, concrete structures, and other artificial materials that now support a thriving fish community.
 
 ## Overview
 
-Exotic House Reef is the sandy-bottomed fringing reef in front of Exotic Beach Resort on Malapascua's southern shore, accessible directly from the beach at any tide. The rubble and seagrass patches in 5–13 meters of water shelter a classic Visayan muck fauna — ghost pipefish, robust and hairy frogfish, and colonies of blue-spotted ribbontail rays resting on the sand. Dusk dives here are especially rewarding, as mandarin fish begin their mating ritual in the coral rubble just as the light fades.
+The reef starts at around 5 meters and gently slopes to 13 meters. Scattered coral and patches of seagrass cover the natural substrate, while artificial structures — coral-encrusted jeepneys, large concrete and wire frameworks, and artificial swim-throughs — create additional habitat. The resort recommends diving it twice: once by day and once at night, when different species become active. The site has received a Project AWARE Environmental Achievement Award for its reef-restoration work.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Off Malapascua Exotic Island Dive Resort, southern Malapascua, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -29,7 +29,29 @@ Exotic House Reef is the sandy-bottomed fringing reef in front of Exotic Beach R
 
 ## Marine Life
 
-Exotic House Reef is best known for its mandarin fish population — the rubble patches at 5–10 meters come alive at dusk when pairs perform their brief, vivid mating display. During the day, hairy and robust frogfish sit camouflaged on the rubble, ghost pipefish drift among crinoids, and blue-spotted ribbontail rays rest in clusters on the open sand. The seagrass patches also yield seahorses and the occasional ghost pipefish for attentive macro hunters.
+Sources describe "a wide variety of fish and macro life" among the coral and artificial structures, but do not name specific species for this site. An earlier version of this page claimed mandarin fish, ghost pipefish, hairy/robust frogfish, and blue-spotted ribbontail rays here — none of that was confirmed by research; the resort's own promotional material points guests to a separate site (Lighthouse Reef) for the mandarin fish dive rather than their own house reef. Malapascua's regional reef fauna likely applies at Exotic House Reef, but no site-specific species list could be verified, so none is stated here.
+
+## Dive Profile
+
+A shallow, easy dive from 5-13 meters that works well as a check-out dive, a relaxed second dive, or a night dive to see the artificial structures and reef come alive after dark.
+
+## Entry and Exit
+
+Short boat ride from the resort; entry by giant stride.
+
+## Tips and Recommendations
+
+- Dive it twice if you can — day and night reveal different life on the artificial structures
+- A macro lens works well among the scattered coral and seagrass patches
+- Good site for skills practice given its shallow, sheltered profile
+
+## Safety Considerations
+
+Shallow depth (5-13m) keeps this a low-risk dive. Standard boat diving precautions apply; be mindful of structure edges when navigating the artificial swim-throughs.
+
+## Photography
+
+The artificial structures (encrusted jeepneys, concrete frames, swim-throughs) are the site's most distinctive photographic subject, alongside general reef and macro life.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Scubaverse - Malapascua Exotic Island Dive Resort](https://scubaverse.com/philippines/dive-centre/malapascua-exotic-island-dive-resort/), [PADI - Malapascua-Exotic Island Dive Resort](https://www.padi.com/dive-center/philippines/malapascua-exotic-island-dive-resort/), [Scuba Travel - Malapascua Exotic Island Dive Resort](https://www.scubatravel.com/holidays/resorts/philippines/exotic/exotic.html). Last updated 2026-08-17.*
