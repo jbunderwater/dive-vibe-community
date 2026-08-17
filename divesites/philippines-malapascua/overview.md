@@ -8,7 +8,7 @@ Famous thresher shark encounters, shipwrecks, and vibrant coral reefs.
 
 ## Description
 
-Philippines Malapascua is a notable diving destination in the Asia region, offering diverse dive sites with depths ranging from 20 to 50 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Philippines Malapascua is a notable diving destination in the Asia region, offering diverse dive sites with depths ranging from about 7 to 32 meters across the destination's mapped sites (individual site pages have the most accurate depth for each location). Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
 
 ### Diving Opportunities
 
@@ -39,4 +39,4 @@ Philippines Malapascua is a notable diving destination in the Asia region, offer
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua's Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua-dive-sites/), [Wikipedia - Malapascua](https://en.wikipedia.org/wiki/Malapascua), [Malapascua Island - Dive Sites](https://malapascuaisland.com/dive-sites/). Individual site pages credit the specific sources used for each site's data. Last updated 2026-08-17.*
