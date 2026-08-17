@@ -2,7 +2,7 @@
 name: Kalipayan Wall
 lat: 9.56
 lng: 123.76
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: boat
 siteType: wall
@@ -13,20 +13,20 @@ addedBy: osm_import
 
 # Kalipayan Wall
 
-The house reef of Alona Beach, also known as the "Happy Wall" (Kalipayan means happy in Visayan). A wall starting at 3 meters, dropping to around 20 meters, with soft corals, batfish, lionfish, nudibranchs, ghost pipefish, and dragon seamoth in the adjacent sandy area. Reachable by a short swim or a 4-5 minute banca ride from Alona Beach.
+The house reef of Alona Beach, also known as the "Happy Wall" (Kalipayan means happy in Visayan). A wall starting at 3 meters, dropping to around 30-32 meters, with soft corals, batfish, lionfish, nudibranchs, ghost pipefish, and dragon seamoth in the adjacent sandy area. Reachable by a short swim or a 4-5 minute banca ride from Alona Beach.
 
 ## Overview
 
-Kalipayan Wall is the house reef of Alona Beach, positioned between Alona Reef and Danao Wall. The wall starts at approximately 3 meters and drops to around 20 meters, decorated with soft and colourful coral heads and small gorgonian sea fans. An outer portion extends deeper (to around 30 meters by some listings), but the main diving is concentrated on the upper wall.
+Kalipayan Wall is the house reef of Alona Beach, positioned between Alona Reef and Danao Wall. The wall starts at approximately 3 meters and drops toward 30-32 meters at its outer edge, decorated with soft and colourful coral heads and small gorgonian sea fans. The main diving is concentrated on the upper wall, with the deeper outer section requiring more comfort at depth.
 
-The conditions are typically calm with little to no current, and visibility can reach 25 meters. Three independent dive operator sources confirm this as a beginner-accessible site. The sandy area adjacent to the wall is known habitat for robust ghost pipefish and dragon seamoth — prized macro finds. Batfish are a near-constant presence along the wall. Sardine clouds have been observed here according to Valm Divers.
+Conditions are typically calm with little to no current, and visibility can reach 25 meters. Tropical Divers Alona rates the site as "suitable for intermediate divers" and lists a maximum depth of 30 meters; Alona Divers Club lists a similar 4-32 meter range. Given the outer wall's depth and the intermediate rating from the primary cited operator, this site is best suited to divers with some experience rather than absolute beginners, even though the shallow upper wall itself is easy and calm. The sandy area adjacent to the wall is known habitat for robust ghost pipefish and dragon seamoth — prized macro finds. Batfish are a near-constant presence along the wall. Sardine clouds have been observed here according to Valm Divers. Alona Divers Club also mentions an old traditional Filipino boat resting at around 32 meters, reportedly carrying scuba tanks — this is a single-source report not corroborated elsewhere, so treat it as unconfirmed rather than a documented wreck feature.
 
 ## Site Information
 
 - **Location**: Off Alona Beach, Panglao Island, Bohol, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: Up to 25 meters
 - **Water Temperature**: 26-30 degrees C
@@ -57,4 +57,4 @@ Access by banca from Alona Beach (4-5 minutes) or by swimming directly from the 
 An easy, sheltered site. If diving the outer deeper section, watch depth carefully — the wall continues past the typical recreational upper section. Do not rest on the sand or touch the bottom — cryptic species may be present. Watch for sea urchins on the wall.
 
 ---
-*Sources: [Tropical Divers Alona - Dive Sites](https://tropicaldivers-alona.com/en/divesites), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-06-25.*
+*Sources: [Tropical Divers Alona - Dive Sites](https://tropicaldivers-alona.com/en/divesites), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-08-17.*

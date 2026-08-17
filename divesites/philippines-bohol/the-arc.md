@@ -21,7 +21,7 @@ The Arc is located off Panglao Island in the Libaong area, near the former Bohol
 
 The site is suitable for beginner and intermediate divers. Conditions are generally calm with mild currents. Macro life is the primary draw in this area, consistent with other nearby Panglao reef sites.
 
-**Note:** No dive operator lists "The Arc" as a distinct named site separate from Arco Point or the BBC dive area. This entry could not be independently validated under this name from three separate sources; its relationship to the adjacent Arco Point entry (9.555, 123.775) should be confirmed with local operators.
+**Note:** No dive operator lists "The Arc" as a distinct named site separate from Arco Point or the BBC dive area. A 2026-08-17 re-audit checked additional pages (including hakadivecenter.com and divescover.com) directly by name and found only "Arco Point" used — never "The Arc." This entry could not be independently validated under this name from three separate sources; its relationship to the adjacent Arco Point entry (9.555, 123.775) should be confirmed with local operators, and it is flagged here as a likely duplicate pending that confirmation.
 
 ## Site Information
 
@@ -58,4 +58,4 @@ Access by dive boat from Alona Beach area. Entry by giant stride.
 Mild conditions make this one of the more accessible Panglao sites. Standard dive safety practices apply.
 
 ---
-*Description based on regional diving characteristics and the nearby BBC/Arco Point area. No site-specific sources found confirming "The Arc" as a distinct named dive site. Last updated 2026-06-25.*
+*Description based on regional diving characteristics and the nearby BBC/Arco Point area. No site-specific sources found confirming "The Arc" as a distinct named dive site. Re-checked 2026-08-17 (hakadivecenter.com, divescover.com) with the same result. Last updated 2026-08-17.*

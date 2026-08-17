@@ -21,6 +21,8 @@ The Marine Sanctuary occupies the most heavily protected zone of Balicasag Islan
 
 The site is known for its resident populations of green and hawksbill sea turtles, which are regularly seen throughout the dive. Schools of jackfish (big-eyed trevally) and barracuda patrol the deeper sections. The shallow coral gardens beginning at 3 meters make this the most beginner-accessible site on Balicasag, with calm conditions in the protected zone. Surgeonfish, lionfish, triggerfish, and butterflyfish are commonly observed reef residents.
 
+Sources disagree on the site's maximum depth. Alona Divers Club lists 3-35 meters with caverns and overhangs (the basis for the 35m depth tag on this listing). SM Divers, however, describes Marine Sanctuary specifically as a 5-25 meter site, with the deeper Black Forest treated as a separate Balicasag dive. Dive Scotty describes a general plateau around Balicasag at 6-18 meters. All three agree the shallows are calm and turtle-rich; divers should treat 35 meters as the outer limit reported by only one of the three sources rather than a universally confirmed maximum.
+
 ## Site Information
 
 - **Location**: Balicasag Island, Bohol, Philippines
@@ -35,7 +37,7 @@ The site is known for its resident populations of green and hawksbill sea turtle
 
 ## Marine Life
 
-Green sea turtles and hawksbill turtles are regularly encountered throughout the dive. Schools of jackfish (big-eyed trevally) and barracuda patrol the deeper sections. Surgeonfish, lionfish, and triggerfish are confirmed resident species. Clownfish in anemones, butterflyfish, and parrotfish inhabit the reef structure. The shallow coral gardens from 3-15 meters support high reef fish diversity.
+Green sea turtles and hawksbill turtles are regularly encountered throughout the dive. Schools of jackfish (big-eyed trevally), trevally, and barracuda patrol the deeper sections. Surgeonfish, lionfish, triggerfish, snappers, and needlefish are confirmed resident species (Alona Divers Club, Dive Scotty). Giant clams are also reported on the sanctuary floor (Alona Divers Club). Clownfish in anemones, butterflyfish, and parrotfish inhabit the reef structure.
 
 ## Dive Profile
 
@@ -57,4 +59,4 @@ Access by dive boat from Panglao Island (Alona Beach area), approximately 30 min
 The protected sanctuary zone generally has calmer conditions than exposed Balicasag sites. The wall drops to 35 meters — beginners should stay in the shallows and watch depth closely near the wall edge. The 150-diver daily limit requires advance booking.
 
 ---
-*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers Club - Balicasag](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Dive Scotty - Balicasag Marine Sanctuary](https://www.divescotty.com/scuba-diving/balicasag-island-marine-sanctuary.php). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers Club - Balicasag](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Dive Scotty - Balicasag Marine Sanctuary](https://www.divescotty.com/scuba-diving/balicasag-island-marine-sanctuary.php). Last updated 2026-08-17.*

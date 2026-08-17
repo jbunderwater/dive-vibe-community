@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Mainit Point
 
-Mainit Point is an advanced muck dive site in Anilao, Batangas, where deeper substrate exploration at 30 meters delivers some of the area's more unusual critter finds alongside the possibility of stronger current that earns it the Advanced rating.
+Mainit Point is a current-swept boulder-strewn slope off Mabini, Batangas, where the strong flow through the Maricaban Strait attracts pelagics like giant trevally and great barracuda alongside a coral-and-nudibranch-covered reef.
 
 ## Overview
 
-"Mainit" means "hot" in Filipino, and the name may refer to the warmer water temperatures occasionally found at this point — a local geographic characteristic rather than hydrothermal activity. The site is categorised as a muck dive for its sandy and silty substrate composition, but it extends deeper than most Anilao muck sites, reaching 30 meters at its deepest productive zone. The additional depth opens up species assemblages not found in the shallower sites, and the point's slightly more exposed position can introduce current that requires management. Advanced diver status is recommended to safely handle depth, potential current, and the buoyancy challenges of extended muck diving.
+"Mainit" means "hot" in Filipino — sources attribute the name to how strong the current through the Maricaban Strait can feel, rather than to hydrothermal activity (compare Mainit Bubble Springs and Secret Bay in the same general area, which do have documented geothermal venting). Mainit Point is a current-swept, boulder-strewn slope; sources report differing maximum depths (anilaodiving.com states 5-35 meters, dive-the-world.com states depths to approximately 24 meters, with a cave at 7-8 meters where whitetip reef sharks have been reported resting during low-current conditions). Because of the strong current exposure, Advanced diver status or solid drift-diving experience is recommended.
 
 ## Site Information
 
-- **Location**: Anilao, Batangas, Philippines
+- **Location**: Mabini, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-15 meters
-- **Current**: Variable; can be moderate at the point
-- **Best Time**: October to May
+- **Maximum Depth**: 30 meters (sources report a range of 24–35 meters)
+- **Typical Visibility**: 10–30 meters
+- **Current**: Can be strong, especially around the point
+- **Best Time**: November to May
 
 ## Marine Life
 
-The deeper muck zone at Mainit Point yields species that require more depth to find. Rhinopias (weedy and paddle-flap scorpionfish) are among the prized finds at deeper Anilao muck sites. Hairy frogfish and warty frogfish are present. Nudibranchs include deeper-water species not found at shallower sites. Mandarin fish are a possibility in the rubble zones during dusk dives. Octopus and cuttlefish hunt actively across the muck substrate. Bobbit worms (Eunice sp.) lurk in sandy burrows, emerging at night.
+In strong current, Mainit Point is known for pelagics: giant trevally and great barracuda (described by one source as "of impressive bulk") are regularly reported, along with dog-toothed tuna and whitetip reef sharks. During calmer, low-current conditions the site shifts to a more typical reef character with myriad nudibranchs, shrimps, moray eels, octopus, and cuttlefish across the coral-covered boulders. Note: earlier versions of this description named rhinopias, hairy/warty frogfish, mandarin fish, and bobbit worms as Mainit Point highlights — none of these species appear in the site-specific sources available for this location, so they have been removed. Those species are documented at other, shallower Anilao muck sites (e.g., Koala Reef, Secret Bay) but are not confirmed here.
 
 ## Dive Profile
 
-Descend to the 25–30 meter range first, as this is where the most unusual deep-muck species occur and where no-decompression time is most critical. Work methodically back toward the shallows, covering the substrate carefully at each depth zone. Buoyancy management is especially important at the deeper sections to avoid kicking up silt. Plan air and no-decompression limits carefully for a multi-dive Anilao day.
+Entry and drift direction depend on current strength on the day. In strong current, divers typically shelter among the larger boulders and focus on the pelagic activity sweeping past — a wide-angle approach suits these conditions. In lighter current, the dive shifts toward reef exploration, including the 7-8 meter cave reported by one source as a spot where whitetip reef sharks rest. Plan air and no-decompression limits conservatively given the current exposure and depth range.
 
 ## Entry and Exit
 
@@ -44,19 +44,19 @@ Access by banca from Anilao resort. Assess surface conditions at the point befor
 
 ## Tips and Recommendations
 
-- Rhinopias sightings are the prize find at deeper Anilao muck sites; ask your guide if any have been reported recently
-- Perfect your buoyancy control before attempting the 30-meter sections — kicking up silt ruins the dive for everyone
-- Dusk and night dives at Mainit Point are highly productive for mandarinfish and cephalopods
-- Manage your total bottom time carefully on multi-dive Anilao days — deeper sites accelerate no-decompression limit accumulation
-- Carry a dive light even on daytime dives; the deeper, darker muck substrate requires illumination
+- Check the current with your guide before entry — the site's character changes dramatically between strong- and low-current conditions
+- In strong current, stay close to the larger boulders that provide shelter and a vantage point for pelagic sightings
+- Perfect your buoyancy control — kicking up silt on the boulder slope ruins visibility for the group
+- Manage your total bottom time carefully on multi-dive Anilao days, particularly if diving the deeper sections
+- Carry an SMB — current-swept sites like this one make it important for boat pickup
 
 ## Safety Considerations
 
-The 30-meter depth requires careful air and no-decompression limit management, especially after multiple dives earlier in the day. Current at the point requires active monitoring. Advanced buoyancy control is essential. Nearest hyperbaric facility is in Manila — several hours from Anilao.
+Strong currents are the primary hazard at Mainit Point — Advanced certification or solid drift-diving experience is recommended. The 24-35 meter depth range (depending on source and section dived) requires careful air and no-decompression limit management. Deploy an SMB before surfacing. Nearest hyperbaric facility is in Manila, several hours from Anilao.
 
 ## Photography
 
-Rhinopias and deeper-water frogfish are the standout photography subjects at this site. A macro lens with strobe lighting is necessary for the lower ambient light at depth. Composition on featureless muck substrate challenges photographers to use lighting creatively to distinguish subjects from background.
+Strong-current days favour wide-angle photography of the pelagic species — trevally, barracuda, and tuna passing in open water. On calmer days, the reef supports macro photography of nudibranchs and shrimps in the coral-covered boulders. A macro lens with strobe lighting suits the reef sections; a wide-angle or fisheye lens suits the pelagic encounters.
 
 ---
-*Sources: [Wannadive – Anilao](https://wannadive.net), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm), [Dive-The-World – Batangas Diving](https://www.dive-the-world.com/diving-sites-philippines-batangas.php). Last updated 2026-06-25.*
+*Sources: [AnilaoDiving.com – Mainit Point](http://www.anilaodiving.com/mainit.htm), [Dive-The-World – Anilao Diving](https://www.dive-the-world.com/diving-sites-philippines-batangas-anilao.php), [Wannadive – Mainit](https://www.wannadive.net/spot/Asia/Philippines/Luzon/Anilao_and_Batangas/Mainit/index.html). Re-audited 2026-08-17: replaced unconfirmed marine life (rhinopias, frogfish, mandarin fish, bobbit worms — not documented for this specific site) with site-specific confirmed species (giant trevally, great barracuda, dog-toothed tuna, whitetip reef sharks, nudibranchs); corrected source citation (previous dive-the-world.com link pointed to a page that did not mention this site); noted depth-range conflict between sources (24m vs 35m). Last updated 2026-08-17.*

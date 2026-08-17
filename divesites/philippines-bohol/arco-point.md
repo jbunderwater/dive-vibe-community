@@ -21,6 +21,8 @@ Arco Point, also known as the "Hole in the Wall," is located at Libaong on Pangl
 
 The tunnel entrance is in the shallow reef at approximately 8-9 meters. The passage descends through the reef, with thousands of sweeper fish and cardinal fish parting as you pass through, before exiting on the lower reef wall at around 18 meters. The exit is the deeper end — looking back up through the hole from 18 meters, the arch frames the sunlit shallower reef above. This is the correct orientation: enter shallow, exit deep.
 
+Sources disagree slightly on the exact tunnel depths: SM Divers gives 8-9m to 18m (used above as the most detailed, site-specific account); Alona Divers Club gives a shorter 5m-to-16m passage; and Alona Divers describes the wider site more as a drift/wall dive in the 4-27m range, with the wall kept on the right shoulder and a current typically running south. All three agree it is the same feature — a vertical passage through the reef wall near a sheltered, gently-current-swept stretch of Panglao's coast — but divers should expect the exact entry/exit depths to vary a few meters by source and by tide.
+
 The surrounding reef is a productive macro site. SM Divers describes it as "relatively sheltered" with a "slow pace" ideal for macro hunting. Conditions are calm with mild currents.
 
 ## Site Information
@@ -37,7 +39,7 @@ The surrounding reef is a productive macro site. SM Divers describes it as "rela
 
 ## Marine Life
 
-Inside the swim-through: sweeper fish and cardinal fish swarm the passage; yellow-edged morays, snowflake morays, and ribbon eels shelter in crevices on the tunnel walls. On the surrounding reef: painted frogfish, warty frogfish, nudibranchs (Chromodoris, Flabellina), banded sea kraits, and groupers. Triggerfish and wrasses are common on the outer reef. Blue-ring octopus is occasionally reported but not confirmed as a regular sighting.
+Inside the swim-through: sweeper fish and cardinal fish swarm the passage; yellow-edged morays, snowflake morays, and ribbon eels shelter in crevices on the tunnel walls. On the surrounding reef: painted frogfish, warty frogfish, nudibranchs (Chromodoris, Flabellina), banded sea kraits, and groupers. Triggerfish and wrasses are common on the outer reef. Blue-ring octopus is occasionally reported (Valm Divers) but not confirmed as a regular sighting. Alona Divers Club notes whale sharks are "potentially" seen here — this is a single-source, unconfirmed report, not a regular encounter.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Access by pump boat from Panglao, approximately 14 minutes. Entry by giant strid
 The swim-through is an overhead environment, though it is short and both ends are clearly visible throughout. Maintain good buoyancy inside the passage to avoid contact with the walls. The calm conditions and shallow entry make this one of the most accessible Panglao sites. The swim-through is optional — divers uncomfortable with overhead environments can dive the surrounding reef.
 
 ---
-*Sources: [SM Divers Bohol - Complete Guide to Arco Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-arco-point/), [Alona Divers - Panglao Arco Point](https://www.alonadivers.com/panglao-arco-point), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Complete Guide to Arco Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-arco-point/), [Alona Divers - Panglao Arco Point](https://www.alonadivers.com/panglao-arco-point), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-08-17.*

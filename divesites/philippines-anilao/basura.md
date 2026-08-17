@@ -55,4 +55,4 @@ One of Anilao's premier shore-entry macro photography sites. Frogfish in multipl
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving), [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Guide to the Philippines – Anilao Diving Guide](https://guidetothephilippines.ph/articles/adventure-and-outdoors/anilao-batangas-diving-guide). Last updated 2026-06-25.*
+*Sources: [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving), [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Guide to the Philippines – Anilao Diving Guide](https://guidetothephilippines.ph/articles/adventure-and-outdoors/anilao-batangas-diving-guide). Re-audited 2026-08-17: sources re-confirmed shallow shore-entry muck character, 3-18m depth range, and frogfish/pipefish/seahorse/nudibranch findings; rhinopias and wonderpus remain correctly excluded as not site-specific to Basura. Last updated 2026-08-17.*
