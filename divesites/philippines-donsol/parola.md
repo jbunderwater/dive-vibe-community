@@ -54,4 +54,4 @@ Moderate to strong currents require solid buoyancy control and current-diving ex
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Island Hopping in the Philippines — San Miguel Island dive sites](https://islandhoppinginthephilippines.com/visayas/faq/diving-ticao-pass-masbate/). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Philippine Dives — Donsol Dive Guide](https://philippinedives.com/dive-guide/donsol/) (confirms site name/location as "Parola (Lighthouse)"). Only 2 independent sources could be confirmed as of this re-audit (islandhoppinginthephilippines.com and seafocus.com, previously cited, could not be re-accessed — HTTP 403/503 — and were dropped rather than left unverified); a 3rd source is still needed before this can meet the destination's deep-QA sourcing bar. Last updated 2026-08-17.*
