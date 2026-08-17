@@ -19,7 +19,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 21,
     "entryType": "boat",
-    "siteType": "wall",
+    "siteType": "drift",
     "ref": "",
     "osmId": 9865420678
   },
@@ -53,7 +53,7 @@
     "lat": 11.1439916,
     "lng": 119.2781609,
     "difficulty": "Advanced",
-    "maxDepth": 20,
+    "maxDepth": 24,
     "entryType": "boat",
     "siteType": "wall",
     "ref": "",

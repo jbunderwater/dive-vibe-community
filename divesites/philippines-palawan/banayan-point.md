@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Banayan Point
 
-Banayan Point is a wall dive site in Philippines Palawan, Asia.
+Banayan Point, at the southern tip of Matinloc Island in El Nido, is known for pelagic action driven by strong channeling currents.
 
 ## Overview
 
-Banayan Point at the southern tip of Matinloc Island is El Nido's go-to site for pelagic action, where strong channeling currents funnel schools of tuna, jacks, and mackerel past coral-encrusted boulders descending to 22 meters. The open-water exposure means conditions can be demanding, but divers who time it right are rewarded with the kind of fish density rarely found at the more sheltered sites further into the archipelago.
+Banayan Point sits at the southern tip of Matinloc Island, where currents funnel past coral-encrusted boulders and rocks descending to around 22 meters. The exposure to open water and channeling current makes this a site for pelagic-focused diving rather than sheltered reef exploration — divers who time the current window well tend to see the most action.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Matinloc Island, El Nido, Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +29,15 @@ Banayan Point at the southern tip of Matinloc Island is El Nido's go-to site for
 
 ## Marine Life
 
-Banayan Point is El Nido's top site for current-driven pelagic encounters, with strong channeling currents funneling schools of dogtooth tuna, giant trevally, and Spanish mackerel past the coral-encrusted boulders. Whitetip reef sharks and grey reef sharks are regular visitors when current is running, and barracuda stack up in the eddy behind the point. The boulders themselves shelter moray eels, lionfish, and small grouper for divers who work the structure between the bigger-animal action.
+The one independent source found for this specific site reports tuna, jacks, and mackerel drawn in by the strong current, with coral-encrusted rocks adding visual interest. No source-confirmed shark sightings, moray eels, lionfish, or grouper could be verified for this site specifically during this QA pass — earlier markdown text naming these species has been removed as unsupported. Expect general Palawan pelagic and reef fauna, but treat unconfirmed species as regional possibility rather than a site guarantee.
+
+## Entry and Exit
+
+Boat dive with entry into open-water current; conditions can be demanding given the site's exposure, so this is better suited to divers comfortable with current.
+
+## Safety Considerations
+
+Strong, channeling currents are the defining feature of this site. Dive with a guide familiar with the timing of the current, carry a surface marker buoy, and be prepared for open-water conditions.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Sources: [Diving in El Nido: Reefs, Marine Life & Dive Spots – Travel Palawan](https://www.travel-palawan.com/el-nido-travel-guide/el-nido-dive-sites/). Last updated 2026-08-17. Note: this is currently the only independent source with site-specific detail that could be confirmed for Banayan Point; additional corroborating sources were searched for but not found.*
