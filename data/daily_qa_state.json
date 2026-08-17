@@ -2,14 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "panama",
-    "papua-new-guinea",
-    "philippines",
-    "philippines-anilao",
-    "philippines-bohol",
-    "philippines-donsol",
-    "philippines-malapascua",
-    "philippines-palawan",
     "philippines-puerto-galera",
     "philippines-tubbataha-reefs",
     "poor-knights-islands",
@@ -174,9 +166,100 @@
     "nova-scotia",
     "okinawa",
     "oman",
-    "palau"
+    "palau",
+    "papua-new-guinea",
+    "philippines-anilao",
+    "philippines-bohol",
+    "philippines-donsol",
+    "philippines-malapascua",
+    "philippines-palawan"
   ],
   "history": [
+    {
+      "date": "2026-08-17",
+      "slugs": [
+        "papua-new-guinea",
+        "philippines-anilao",
+        "philippines-bohol",
+        "philippines-donsol",
+        "philippines-malapascua",
+        "philippines-palawan"
+      ],
+      "notes": "panama and philippines are isGroup=true parent slugs with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; philippines-malapascua and philippines-palawan were pulled forward from later in the queue to keep the day's real-destination count at 6. Most significant finding: philippines-malapascua's Lighthouse and North Point sites had been fully fabricated in an earlier pass (a fake 30m wall with thresher sharks/hawksbill turtles at Lighthouse, which is actually a 6-12m mandarin-fish reef; a fake 35m Advanced pinnacle with hammerheads at North Point) -- both fully rewritten against real sources. philippines-donsol had 11 unconfirmed species claims (dugongs, megamouth/tiger sharks) copy-pasted across 4 sites from a source that never mentioned them at those sites. philippines-malapascua's Japanese Ship Wreck was newly identified and validated as the locally-known 'Lighthouse Wreck' via 4 independent sources. philippines-palawan's Twin Reef and Fantastic Reef descriptions were updated to reflect real 2024 coral-bleaching-event damage instead of outdated 'healthy reef' language.",
+      "summary": {
+        "sites_total": 104,
+        "sites_validated_today": 6,
+        "sites_re_audited": 98,
+        "hallucinations_removed": 19,
+        "marine_life_stripped": 26,
+        "wreck_conflicts_flagged": 6,
+        "sites_unresolved": 15,
+        "by_destination": {
+          "papua-new-guinea": {
+            "sites_total": 38,
+            "sites_validated_today": 0,
+            "sites_re_audited": 36,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 2,
+            "notes": "Corrected fabricated/erroneous wreck history on Henry Leith (invented 1968-69 Sydney voyage), Dinah's Beach (false 'mimic octopus first described here' claim -- species was actually first described from Sulawesi), HMPNGS Aitape (length/build-date corrections), B-25 Mitchell Bomber (survivor-count and nickname fixes), Kate Bomber (damage-detail fix), and MV Pacific Gas/MV Coral Queen (vague scuttling filler replaced with sourced ship histories). The Bottleneck Milne Bay and Barracuda Point Rabaul remain unresolved -- the latter's name conflates with an unrelated PADI-listed site 700km away in Milne Bay."
+          },
+          "philippines-anilao": {
+            "sites_total": 24,
+            "sites_validated_today": 0,
+            "sites_re_audited": 23,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 1,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "Mainit Point had 5 unconfirmed species (rhinopias, frogfish, mandarin fish, bobbit worms) plus a wrong-page source citation -- rewritten with confirmed species and reclassified muck->drift. Sepok Wall and Kirby's Rock still carried unfixed generic template text from a prior pass despite being marked validated -- replaced with site-specific content. Dari Laut (wreck) has no vessel name/build date/tonnage in any source -- remains explicitly stated as unknown. Rockport Dive Site remains unresolved (no independent source found)."
+          },
+          "philippines-bohol": {
+            "sites_total": 8,
+            "sites_validated_today": 0,
+            "sites_re_audited": 7,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "No wreck sites. Corrected a citation error on Kalipayan Wall (difficulty Beginner->Intermediate per its own cited source) and disclosed several depth-range conflicts across operator sources instead of asserting single figures. The Arc remains unresolved -- likely a duplicate/alias of Arco Point but unconfirmed under its own name."
+          },
+          "philippines-donsol": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 11,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 4,
+            "notes": "No wreck sites. Removed an unsupported 'whale sharks, 250+ individuals identified at this site' claim and an inaccurate exclusivity claim ('only location in SE Asia with documented neonates') at Manta Bowl/Donsol Whale Shark Area. 11 unconfirmed species (dugongs, megamouth/tiger sharks) stripped from Ticao Pass, Burias Pass, Parola, and Great Wall of Ticao -- none were in their cited sources. Shark Apartment, Great Wall of Ticao, Parola, and Tres Grace remain below the 3-domain bar."
+          },
+          "philippines-malapascua": {
+            "sites_total": 16,
+            "sites_validated_today": 1,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 9,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 4,
+            "notes": "SYSTEMIC FINDING: Lighthouse was fabricated as a 30m wall with thresher sharks/hawksbill turtles -- actually a 6-12m mandarin-fish reef per 3+ sources. North Point was fabricated as a 35m Advanced pinnacle with hammerheads/dogtooth tuna, unsupported by any source -- corrected to reef with a genuine sourced depth-range conflict now disclosed. Deep Slope and Ka-Osting/Bantigue reclassified reef->muck (known misclassification pattern). Japanese Ship Wreck newly validated (4 sources) and identified as the locally-known 'Lighthouse Wreck'; a fabricated 33m profile and batfish/lionfish claims replaced with sourced facts, with vessel-type and depth conflicts now disclosed in-text. Monad Shoal's depth field (50m) was internally inconsistent with its own Dive Profile text -- corrected to 32m. Secret Wall, Lapus-Lapus 2, and both MPA entries remain below the 3-domain bar."
+          },
+          "philippines-palawan": {
+            "sites_total": 8,
+            "sites_validated_today": 5,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 3,
+            "notes": "Removed an unsourced 'discovered by Jacques Cousteau in the 1970s' claim at Biet Point and copy-pasted shark/species lists at Banayan Point and Bikanayos Rock that traced to no site-specific source. Cave downgraded to unvalidated -- no independent source could be matched to the entry under these coordinates. Biet Point site_type corrected wall->drift. Twin Reef and Fantastic Reef updated to reflect real 2024 coral-bleaching-event damage (~50% coral loss) instead of outdated 'healthy reef' language. Akitsushima (wreck) length/depth conflicts documented rather than picked."
+          }
+        }
+      },
+      "pr_url": null,
+      "errors": []
+    },
     {
       "date": "2026-08-16",
       "slugs": [
