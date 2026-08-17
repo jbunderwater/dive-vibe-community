@@ -17,7 +17,7 @@ Shark Apartment is a reef dive in Ticao Pass known for reliably resting whitetip
 
 ## Overview
 
-The site's name derives from its defining feature: whitetip reef sharks (*Triaenodon obesus*) that rest motionless among and beneath large boulders scattered across a sandy bottom at 18 meters. The Manta Bowl operator Shark Diving Philippines describes the site as sheltering adult-sized whitetip reef sharks around boulder and rock formations that rise from a sandy terrain, with groupers and reef fish like angelfish and bannerfish inhabiting the same structure.
+The site's name derives from its defining feature: whitetip reef sharks (*Triaenodon obesus*) that rest motionless among and beneath large boulders scattered across a sandy bottom at 18 meters. Shark Diving Philippines describes the site as sheltering full-grown whitetip reef sharks around boulder and rock formations that rise from a sandy terrain, with groupers and reef fish like angelfish and bannerfish inhabiting the same structure. Liveaboard.com adds that the boulders themselves were formed by past volcanic activity in the area.
 
 Shark Apartment sits in the productive waters of Ticao Pass and benefits from the same nutrient-rich current system that supports the larger pelagic sites nearby. The boulder reef structure creates sheltered microhabitats that attract both resting predators and their associated reef fish communities.
 
@@ -54,4 +54,4 @@ Advanced certification recommended given the Ticao Pass current environment. The
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Only 2 independent sources could be confirmed as of this re-audit despite additional research (ScubaBoard, Philippine Dives, Divezone, and UW Photography Guide do not name this site); a 3rd source is still needed before this can meet the destination's deep-QA sourcing bar. Last updated 2026-08-17.*

@@ -24,7 +24,7 @@ Liveaboard.com describes the overall San Miguel's dive area as hosting healthy r
 ## Marine Life
 
 - Abundant hard and soft corals
-- Macro: nudibranchs, frogfish, pipefish, mandarin fish, harlequin sweetlips juveniles, Colmani shrimp, sea snakes
+- Macro: nudibranchs, frogfish, pipefish, mandarin fish, harlequin sweetlips juveniles, Coleman shrimp, sea snakes
 - Reef fish: angelfish, bannerfish, surgeonfish, groupers, sweetlips
 - Cuttlefish and squid (reported at Lapus Lapus sites)
 - Sharks and rays at the current-exposed tip (Parola)
@@ -57,4 +57,4 @@ Outstanding macro photography destination. The variety of micro-habitats — san
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol), [Alex in Wanderland — Diving in Donsol](https://www.alexinwanderland.com/diving-donsol-philippines/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol), [Alex in Wanderland — Diving in Donsol](https://www.alexinwanderland.com/diving-donsol-philippines/), [Divezone — Donsol](https://divezone.net/diving/donsol). Last updated 2026-08-17.*

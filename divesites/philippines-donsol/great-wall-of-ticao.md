@@ -17,16 +17,17 @@ The Great Wall of Ticao is a dramatic vertical wall dive located near Burubangka
 
 ## Overview
 
-The wall is characterised by near-vertical to overhanging limestone rock faces encrusted with soft corals, sponges, and tunicates. The Te Moana Expeditions dive guide describes the site's distinctive above-surface geology — unusual rock formations that make the entry point identifiable from the boat. Below the surface, the wall descends steeply through deepening coral and soft-coral habitat. Schooling tunas pass through in open water adjacent to the wall. Nudibranchs inhabit crevices and overhangs along the shallower sections of the wall.
+The wall is characterised by near-vertical to overhanging limestone rock faces encrusted with soft corals and sea fans. The Te Moana Expeditions dive guide describes the site's distinctive above-surface geology — unusual rock formations that make the entry point identifiable from the boat. Below the surface, the wall descends steeply through deepening coral and soft-coral habitat. Schooling tunas pass through in open water adjacent to the wall. Nudibranchs inhabit crevices and overhangs along the shallower sections of the wall.
 
 The site is part of Ticao Island's broader dive portfolio, which ranges from the pelagic seamount of Manta Bowl to sheltered macro sites. The Great Wall offers the most dramatic topography of the Ticao wall dives, combining the visual impact of the drop-off with the possibility of pelagic visitors attracted by the current-swept channel environment.
 
+Sources disagree on how deep the recreational portion of the dive goes: Te Moana Expeditions describes the wall as reaching advanced sport-diving depths, while Philippine Dives puts the range at 5–40+ meters and notes the wall "drops past recreational limits" below that — i.e., the visible wall continues into technical-diving depths beyond what recreational divers should attempt. This listing uses 35 m as the practical recreational maximum.
+
 ## Marine Life
 
-- Schooling tunas and trevallies in the blue water alongside the wall
-- Soft corals and encrusting sponges on the wall face
+- Schooling tunas in the blue water alongside the wall
+- Soft corals and sea fans on the wall face
 - Nudibranchs in crevices and overhangs
-- Reef fish along the shallower crest sections
 
 ## Dive Profile
 
@@ -55,4 +56,4 @@ Advanced certification required. Wall dives with significant depth invite rapid 
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*
+*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Philippine Dives — Ticao Dive Guide](https://philippinedives.com/dive-guide/ticao/). Only 2 independent sources could be confirmed as of this re-audit; a 3rd source is still needed before this can meet the destination's deep-QA sourcing bar. Last updated 2026-08-17.*

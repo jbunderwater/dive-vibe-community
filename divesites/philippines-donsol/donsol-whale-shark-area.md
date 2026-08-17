@@ -19,9 +19,9 @@ Donsol Whale Shark Area is a snorkel-only interaction zone in Donsol Bay, Sorsog
 
 ## Overview
 
-Donsol Bay is home to the largest documented whale shark aggregation in Southeast Asia. Between 2006 and 2020, researchers conducted 1,985 surveys (over 895 days) encountering 6,786 whale sharks. Peak sightings reach an estimated 47–61 individual whale sharks in the bay at any one time. The Ticao-Burias Pass ISRA (Important Shark and Ray Area) designation confirms this as globally significant habitat — the only location in Southeast Asia with documented whale shark neonates.
+Donsol Bay anchors the wider Ticao-Burias Pass whale shark aggregation, the largest documented in Southeast Asia and ranked 25th-largest globally. Across the Ticao-Burias Pass system, researchers conducted 1,985 surveys (over 895 days) between 2006 and 2020, encountering 6,786 whale sharks and photo-identifying 614 individuals — about 49% of the known whale shark population in the Philippines. Peak sightings in Donsol Bay itself reach an estimated 47–61 individual whale sharks at any one time. The Ticao-Burias Pass ISRA (Important Shark and Ray Area) assessment also recorded three whale shark neonates (46, 60, and 64 cm total length) — rare direct evidence of a nearby pupping ground.
 
-The WWF Philippines helped establish Donsol's eco-tourism program, training locals as Butanding Interaction Officers (BIOs) who enforce the code of conduct from each boat. Whale sharks aggregate here to feed on the plankton and krill blooms fed by the Donsol River and Burias/Ticao Pass nutrient upwelling.
+According to Wikipedia, whale sharks were regarded locally as a threat for over a century until a December 1997 encounter: a diving instructor's peaceful underwater meeting with a whale shark, filmed and shared with WWF-Philippines, changed local perception of the animals. WWF-Philippines and the local government formalized the eco-tourism program in 1998, training residents as Butanding Interaction Officers (BIOs) who enforce the code of conduct from each boat; the encounter was later named "Best Animal Encounter in Asia" by *Time* magazine in 2004. Whale sharks aggregate here to feed on the plankton and krill blooms fed by the Donsol River and Burias/Ticao Pass nutrient upwelling.
 
 ## Marine Life
 
@@ -30,7 +30,7 @@ The WWF Philippines helped establish Donsol's eco-tourism program, training loca
 
 ## Interaction Program
 
-Each boat carries a captain, spotter, and BIO. Registration costs approximately 300 PHP; boats are rented separately. The BIO signals when to enter the water and monitors compliance. Most encounters last a few minutes; swimmers must keep 3 meters from the tail and must not touch, ride, or restrict the shark. Maximum 6 snorkelers per whale shark; one boat per shark.
+Each boat carries a captain, spotter, and BIO. Registration costs approximately 300 PHP; boats are rented separately. The BIO signals when to enter the water and monitors compliance. Most encounters last a few minutes; swimmers must not touch, ride, or restrict the shark. Sources give slightly different minimum clearances — most describe 3 meters from the head and 4 meters from the tail, though at least one source cites only "3 meters from the tail" — so follow your BIO's on-the-spot instructions rather than a fixed number. Maximum 6 snorkelers per whale shark; one boat per shark.
 
 **Season:** November to June, peak February to May.
 
@@ -54,4 +54,4 @@ Entry and exit from a bangka (outrigger boat) in open bay waters. Snorkelers mus
 - **Maximum Depth**: 10 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Donsol Whale Shark Interaction — JourneyEra](https://www.journeyera.com/donsol-whale-shark-interaction/), [Donsol — Wikipedia](https://en.wikipedia.org/wiki/Donsol). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Donsol — Wikipedia](https://en.wikipedia.org/wiki/Donsol), [Philippine Dives — Donsol Dive Guide](https://philippinedives.com/dive-guide/donsol/), [Donsol Whale Shark Interaction — JourneyEra](https://www.journeyera.com/donsol-whale-shark-interaction/). Last updated 2026-08-17.*

@@ -27,10 +27,9 @@ Drift dives through Ticao Pass carry divers through open-water columns above dep
 
 - Whale sharks (*Rhincodon typus*) — largest Southeast Asian aggregation by documented individuals
 - Reef manta rays (*Mobula alfredi*) and oceanic manta rays
-- Thresher sharks, hammerhead sharks, whitetip reef sharks, tiger sharks
+- Thresher sharks, hammerhead sharks, whitetip reef sharks
 - Schooling skipjack tuna, barracuda, giant trevally
-- Dugongs (documented presence in the wider ISRA)
-- Sea turtles; occasionally megamouth shark (globally rare; documented in the pass)
+- Sea turtles (reported by Te Moana Expeditions)
 
 ## Dive Profile
 
@@ -60,4 +59,4 @@ Advanced certification required. Current strength can exceed 3 knots. Open-water
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-08-17.*

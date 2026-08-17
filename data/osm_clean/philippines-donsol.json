@@ -11,8 +11,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "frontiersin.org (doi:10.3389/fmars.2019.00088), scubaboard.com, sharkdivingphilippines.com",
-      "coordinate_source": "Frontiers in Marine Science research paper (Bontod-Tacdogan reef coordinates)"
+      "validation_source": "temoanaexpeditions.com, lamave.org, sharkrayareas.org, liveaboard.com",
+      "coordinate_source": "Frontiers in Marine Science research paper (Bontod-Tacdogan reef coordinates)",
+      "last_qa_date": "2026-08-17"
     }
   },
   {
@@ -27,8 +28,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "scubaboard.com, divezone.net, uwphotographyguide.com",
-      "coordinate_source": "Geographic midpoint of Ticao Pass between Sorsogon mainland and Ticao Island"
+      "validation_source": "sharkrayareas.org, temoanaexpeditions.com, sharkdivingphilippines.com",
+      "coordinate_source": "Geographic midpoint of Ticao Pass between Sorsogon mainland and Ticao Island",
+      "last_qa_date": "2026-08-17"
     }
   },
   {
@@ -43,8 +45,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "seafocus.com, sharkdivingphilippines.com, wikimapia.org",
-      "coordinate_source": "Wikimapia (12.7142164, 123.5940161) confirmed by OSM San Miguel Lighthouse node (12.7171, 123.5897)"
+      "validation_source": "sharkdivingphilippines.com, liveaboard.com, alexinwanderland.com, divezone.net",
+      "coordinate_source": "Wikimapia (12.7142164, 123.5940161) confirmed by OSM San Miguel Lighthouse node (12.7171, 123.5897)",
+      "last_qa_date": "2026-08-17"
     }
   },
   {
@@ -59,8 +62,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "donsolwhaleshark.net, journeyera.com, philatlas.com",
-      "coordinate_source": "PhilAtlas Dancalan barangay coordinates (whale shark interaction center location)"
+      "validation_source": "sharkrayareas.org, wikipedia.org, philippinedives.com",
+      "coordinate_source": "PhilAtlas Dancalan barangay coordinates (whale shark interaction center location)",
+      "last_qa_date": "2026-08-17"
     }
   },
   {
@@ -75,8 +79,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com, uwphotographyguide.com",
-      "coordinate_source": "Estimated from San Miguel Island position (east side of island, steep slope facing east)"
+      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com, uwphotographyguide.com, philippinedives.com",
+      "coordinate_source": "Estimated from San Miguel Island position (east side of island, steep slope facing east)",
+      "last_qa_date": "2026-08-17"
     }
   },
   {
@@ -91,8 +96,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkdivingphilippines.com, divezone.net",
-      "coordinate_source": "Estimated near Manta Bowl Shoal (sub-site of Manta Bowl atoll area)"
+      "validation_source": "sharkdivingphilippines.com, liveaboard.com",
+      "coordinate_source": "Estimated near Manta Bowl Shoal (sub-site of Manta Bowl atoll area)",
+      "last_qa_date": "2026-08-17",
+      "qa_note": "Only 2 independent domains confirmed as of 2026-08-17 re-audit; a 3rd source could not be found despite additional research. Left validated=true (unchanged from prior state) per deep-QA instructions not to pad with weak sources."
     }
   },
   {
@@ -107,8 +114,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkrayareas.org, divezone.net, wikipedia.org",
-      "coordinate_source": "Eastern end of Burias Pass near Ticao Pass junction (geographic reference: Burias Pass at 12.886, 123.355)"
+      "validation_source": "sharkrayareas.org, temoanaexpeditions.com, sharkdivingphilippines.com",
+      "coordinate_source": "Eastern end of Burias Pass near Ticao Pass junction (geographic reference: Burias Pass at 12.886, 123.355)",
+      "last_qa_date": "2026-08-17"
     }
   },
   {
@@ -123,8 +131,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "temoanaexpeditions.com, diveworldwide.com, sharkdivingphilippines.com",
-      "coordinate_source": "Estimated from Burubangkaso Island location on south side of Ticao Island (Ticao center 12.516, south coast ~12.47-12.50)"
+      "validation_source": "temoanaexpeditions.com, philippinedives.com",
+      "coordinate_source": "Estimated from Burubangkaso Island location on south side of Ticao Island (Ticao center 12.516, south coast ~12.47-12.50)",
+      "last_qa_date": "2026-08-17",
+      "qa_note": "Only 2 independent domains confirmed as of 2026-08-17 re-audit; a 3rd source could not be found despite additional research. Left validated=true (unchanged from prior state) per deep-QA instructions not to pad with weak sources."
     }
   },
   {
@@ -139,8 +149,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com",
-      "coordinate_source": "Near San Miguel Lighthouse (OSM node 12.7171, 123.5897) - site is at tip of San Miguel Island near lighthouse"
+      "validation_source": "sharkdivingphilippines.com, philippinedives.com",
+      "coordinate_source": "Near San Miguel Lighthouse (OSM node 12.7171, 123.5897) - site is at tip of San Miguel Island near lighthouse",
+      "last_qa_date": "2026-08-17",
+      "qa_note": "Only 2 independent domains confirmed as of 2026-08-17 re-audit; a 3rd source could not be found despite additional research. Left validated=true (unchanged from prior state) per deep-QA instructions not to pad with weak sources."
     }
   },
   {
@@ -155,8 +167,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com",
-      "coordinate_source": "Estimated at corner of San Miguel Island (white sand beach with soft coral pathway)"
+      "validation_source": "sharkdivingphilippines.com, liveaboard.com",
+      "coordinate_source": "Estimated at corner of San Miguel Island (white sand beach with soft coral pathway)",
+      "last_qa_date": "2026-08-17",
+      "qa_note": "Only 2 independent domains confirmed as of 2026-08-17 re-audit; a 3rd source could not be found despite additional research. Left validated=true (unchanged from prior state) per deep-QA instructions not to pad with weak sources."
     }
   }
 ]

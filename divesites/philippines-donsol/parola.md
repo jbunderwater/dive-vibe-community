@@ -25,9 +25,7 @@ The site is sometimes referred to as "The Point" by operators. Its character is 
 
 - Sharks (species composition varies with conditions; whitetip reef sharks commonly reported)
 - Manta rays and eagle rays visiting on current
-- Schooling reef fish in the current stream
 - Ledge and cave fauna: lionfish, lobsters, groupers
-- Occasional turtles
 
 ## Dive Profile
 

@@ -25,10 +25,8 @@ Burias Pass drift dives pass through open channel waters with visibility ranging
 
 - Whale sharks (*Rhincodon typus*) — the Ticao-Burias system holds the largest Southeast Asian aggregation; 614 individuals photo-identified 2006–2020
 - Reef manta rays (*Mobula alfredi*)
-- Thresher sharks, hammerhead sharks, tiger sharks
+- Thresher sharks, hammerhead sharks
 - Schooling tunas, barracuda, trevallies
-- Sea turtles, dugongs (documented within the broader ISRA)
-- Megamouth shark (rare; recorded in the pass system)
 
 ## Dive Profile
 
@@ -57,4 +55,4 @@ Intermediate to Advanced conditions. Strong tidal currents require experience wi
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-08-17.*

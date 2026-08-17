@@ -17,7 +17,7 @@ Manta Bowl is an underwater seamount in Ticao Pass, approximately 7 km off the n
 
 ## Overview
 
-The seamount rises from depths exceeding 200 meters to a plateau at 14–23 meters. Its structure includes multiple rocky outcrops and coral formations that function as cleaning stations — predictable spots where cleaner wrasse remove parasites and dead tissue from manta rays. LAMAVE (Large Marine Vertebrates Research Institute Philippines) has photo-identified more than 240 individual reef manta rays (*Mobula alfredi*) at this site, representing approximately 70% of all reef manta ray sightings in the Philippines.
+The seamount rises from depths exceeding 200 meters to a plateau at 14–23 meters. Its structure includes multiple rocky outcrops and coral formations that function as cleaning stations — predictable spots where cleaner wrasse remove parasites and dead tissue from manta rays. LAMAVE (Large Marine Vertebrates Research Institute Philippines) states it has photo-identified more than 240 individual reef manta rays (*Mobula alfredi*) at Manta Bowl specifically. Separately, the wider Ticao-Burias Pass system (of which Manta Bowl is part) accounts for roughly 70% of nationwide reef manta ray sightings and about 72% of nationally identified individuals, per the area's Important Shark and Ray Area (ISRA) assessment — those percentages describe the whole pass system, not Manta Bowl alone.
 
 The seamount is informally divided into sections known to divers as "Classroom," "Carlos," "Sweetlips," and "Manta Bowl" proper. Currents regularly exceed 3 knots, channeling dense clouds of plankton across the seamount and triggering aggregations of manta rays and other megafauna. Ghost nets are a documented conservation threat; volunteer removal programs operate at the site.
 
@@ -25,13 +25,12 @@ The Ticao-Burias Pass was designated an Important Shark and Ray Area (ISRA) reco
 
 ## Marine Life
 
-- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals; daily cleaning station visits
-- Oceanic manta rays
-- Whale sharks (*Rhincodon typus*) — 250+ individuals identified at this specific site
+- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals at cleaning stations (LAMAVE); Te Moana Expeditions also reports oceanic manta rays here
+- Whale sharks (*Rhincodon typus*) — occasional sightings on LAMAVE's monitoring cameras and reported by operators; no site-specific identification count is confirmed for Manta Bowl (unlike Donsol Bay, this is not a primary whale shark aggregation area)
 - Thresher sharks, hammerhead sharks, whitetip reef sharks
 - Schooling tunas and trevallies
 - Cleaner wrasse at coral cleaning stations
-- Sea turtles, dolphins
+- Sea turtles and dolphins (reported by Te Moana Expeditions)
 
 ## Dive Profile
 
@@ -61,4 +60,4 @@ Advanced certification required. Currents can exceed 3 knots and change directio
 - **Maximum Depth**: 23 meters
 
 ---
-*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-08-17.*
