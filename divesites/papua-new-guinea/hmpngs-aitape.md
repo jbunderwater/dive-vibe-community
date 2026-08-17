@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # HMPNGS Aitape
 
-A former Australian Attack Class patrol boat (32.6 meters), donated to Papua New Guinea in 1974 and scuttled as a dive site in 1995 -- now home to huge schools of trevally, mangrove jacks, sweetlips, and batfish.
+A former Royal Australian Navy Attack-class patrol boat (32.8 meters, launched 1967), transferred to Papua New Guinea in 1974 and scuttled as a dive site in 1995 -- now home to huge schools of trevally, mangrove jacks, sweetlips, and batfish.
 
 ## Overview
 
-HMPNGS Aitape is a former Royal Australian Navy Attack Class patrol boat, 32.6 meters in length, that was donated to the Papua New Guinea Defence Force in 1974. After serving the PNG Navy, the vessel was deliberately scuttled in 1995 to create an artificial reef and dive site near Port Moresby. The wreck sits at approximately 30 meters depth, with the stern resting at 27 meters where the twin propellers are visible. Since sinking, the Aitape has become a magnet for marine life -- huge schools of trevally, mangrove jacks, sweetlips, and batfish swarm around and through the vessel. Penetration is possible but tight, with wires and cables creating snag hazards inside. Visibility is typically 10-15 meters, more limited than the outer reef sites.
+HMPNGS Aitape began as HMAS Aitape, an Attack-class patrol boat of the Royal Australian Navy, launched 6 July 1967 and commissioned 13 November 1967. Attack-class boats were 107.6 feet (32.8 meters) long, displacing around 146 tons fully loaded -- specifications confirmed independently by both the Royal Australian Navy's historical record and the Naval Historical Society of Australia. She was transferred to the Papua New Guinea Defence Force on 14 November 1974. After serving the PNG Navy, the vessel was deliberately scuttled in 1995 to create an artificial reef and dive site southeast of Port Moresby. The wreck sits at approximately 30 meters depth, with the stern resting at 27 meters where the twin propellers are visible. Since sinking, the Aitape has become a magnet for marine life -- huge schools of trevally, mangrove jacks, sweetlips, and batfish swarm around and through the vessel. Penetration is possible but tight, with wires and cables creating snag hazards inside. Visibility is typically 10-15 meters, more limited than the outer reef sites.
 
 ## Site Information
 
@@ -55,4 +55,4 @@ Access is by dive boat from Port Moresby operators. Entry is by giant stride. De
 The wreck sits at 30 meters, limiting no-decompression time on air. Plan your dive time carefully. Penetration is risky due to wires and cables inside the hull -- only attempt with proper wreck diving certification, redundant lights, and a guideline or clear exit strategy. The lower visibility means maintaining buddy contact requires extra attention. Carry an SMB and signal devices.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=355), [Wikipedia – HMAS Aitape](https://en.wikipedia.org/wiki/HMAS_Aitape_(P_84)), [Royal Australian Navy Sea Power Centre](https://www.navy.gov.au/hmas-aitape). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=355), [Wikipedia – HMAS Aitape](https://en.wikipedia.org/wiki/HMAS_Aitape_(P_84)), [Royal Australian Navy Sea Power Centre](https://www.navy.gov.au/hmas-aitape), [Naval Historical Society of Australia – Attack Class Patrol Boats](https://navyhistory.au/73184-2/). Length corrected from a previously published 32.6m to the sourced 32.8m (107.6 ft). Last updated 2026-08-17.*

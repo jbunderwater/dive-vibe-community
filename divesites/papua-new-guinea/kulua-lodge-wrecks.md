@@ -55,4 +55,4 @@ Access is by dive boat from Kulua Lodge or Rabaul-based operators, or potentiall
 The deepest wreck (K1) reaches 40+ meters, approaching the limit of recreational diving. Plan your deepest excursion first and ascend from there. The guide lines between wrecks should be followed to avoid disorientation on the sandy bottom. The WWII shell casings are ordnance -- observe from a distance and do not handle them. Wreck penetration requires proper training, equipment, and lights.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=711), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info](https://www.underwaterasia.info/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=711), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info](https://www.underwaterasia.info/). Last updated 2026-08-17.*

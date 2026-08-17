@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Henry Leith
 
-A Scottish-built steam tug from 1887, scuttled in Nagada Harbour near Madang -- now beautifully covered in soft corals, sea whips, gorgonias, sponges, and anemones at an easy 20-meter maximum depth.
+A steam tug originally launched in Scotland in 1887, purchased for one kina and scuttled off Wangat Island near Madang to create a dive site -- now beautifully covered in soft corals, sea whips, gorgonias, sponges, and anemones at an easy 20-meter maximum depth.
 
 ## Overview
 
-The Henry Leith is a 32-meter steam tug built in Scotland in 1887. After a remarkably long working life, the vessel was sailed from Sydney to Papua New Guinea in 1968-69, where she continued service before being scuttled as a dive site off Wangat Island in Nagada Harbour, near Madang. At just 20 meters maximum depth, the wreck is accessible to divers of all experience levels. Over the decades, the Henry Leith has been colonized by a lush covering of soft corals, sea whips, gorgonian sea fans, sponges, and anemones, transforming her from a working vessel into an underwater garden. Firefish (lionfish), coral trout, and trevally are among the resident marine life. The wreck's manageable depth and rich coral coverage make it one of Madang's most photogenic dives.
+According to research published on Michael McFadyen's dive site (the most detailed account available), the vessel began life as the steam tug *Wybia*, launched at a Dumbarton, Scotland shipyard on 25 August 1887 -- 106 feet (32.3 meters) long and displacing 129 tons. She worked first in Tasmania, later relocated to Victoria, and was renamed Henry Leith in 1965 after changing hands and undergoing engine upgrades over her long working life. In the 1970s or 1980s (sources do not agree on the exact decade), diver Kevin Baldwin purchased the vessel for one kina and, together with PNG diving pioneer Bob Halstead, scuttled her off Wangat Island in Nagada Harbour, near Madang, to create a dive site. This level of ship-history detail comes from a single primary source; a second dive-site listing (DivePlanit) independently confirms the wreck's general character -- a small coastal vessel roughly 33 meters long, heavily overgrown with coral, resting in the calm waters of Madang Lagoon -- without repeating the build history.
+
+At just 20 meters maximum depth at the sand beneath the stern (bridge 14m, deck 16m, holds 18m per McFadyen's survey), the wreck is accessible to divers of all experience levels. Over the decades, the Henry Leith has been colonized by a lush covering of soft corals, sea whips, gorgonian sea fans, sponges, and anemones, transforming her from a working vessel into an underwater garden. Firefish, coral trout, and trevally are among the resident marine life reported at the site. The wreck's manageable depth and rich coral coverage make it one of Madang's most photogenic dives.
 
 ## Site Information
 
@@ -55,4 +57,4 @@ Access is by dive boat from Madang-based operators, a short ride to Wangat Islan
 This is a benign wreck dive suitable for all certification levels. The shallow depth eliminates decompression concerns for reasonable dive durations. Current is typically mild within the harbour. Maintain buoyancy control to avoid damaging the extensive coral growth on the wreck. The vessel is historic -- do not remove any artifacts.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=485), [DivePlanit – Henry Leith](https://www.diveplanit.com/), [Scuba Diver Life PNG](https://scubadiverlife.com/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=485), [DivePlanit – Henry Leith](https://www.diveplanit.com/dive-site/henry-leith/), [Scuba Diver Life PNG](https://scubadiverlife.com/). Note: the 1887/*Wybia*/Dumbarton build history and the Kevin Baldwin/Bob Halstead scuttling story are documented in detail only on McFadyen's site; DivePlanit independently corroborates the wreck's general dimensions, location, and marine growth but not the build specifics. A previously published claim that the vessel "sailed from Sydney to Papua New Guinea in 1968-69" was not supported by any source and has been removed. Last updated 2026-08-17.*
