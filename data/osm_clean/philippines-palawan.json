@@ -10,7 +10,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Japanese Navy seaplane tender sunk 24 September 1944. Wreck lies on port side in 36m, with upper surfaces at 22m. Advanced wreck diving required.",
+      "description": "Japanese Imperial Navy seaplane tender, laid down 29 October 1940 and commissioned 29 April 1942, sunk by US Task Force 38 aircraft on 24 September 1944 in Coron Bay. Sources report the hull's overall length as either 114.8m (Wikipedia, citing IJN specifications) or 118m (multiple Coron dive operators) -- the discrepancy is unresolved. Displacement is consistently reported at approximately 4,650 long tons. Wreck lies on her port side in 36m, with the shallowest hull section at 22m. Advanced wreck diving certification required for interior penetration.",
       "historic": "wreck",
       "name": "Akitsushima",
       "scuba_diving:depth": "22",
@@ -19,8 +19,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubatechphilippines.com, divers-guide.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "en.wikipedia.org,scubatechphilippines.com,divezone.net,dive-the-world.com",
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -29,21 +29,22 @@
     "lon": 119.3047041,
     "osm_id": 9865420678,
     "osm_type": "node",
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 30,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "description": "Also known as South Miniloc, this signature El Nido site features vibrant coral gardens with large schools of yellow snappers, tunas, jacks, and barracudas. Shaped like a triangle at 12m depth. Best conditions April-October with mild currents.",
+      "description": "Also known as South Miniloc, El Nido's most popular and most frequently dived site, between Miniloc and Simizu islands. A triangular reef of cabbage (lettuce) coral tops out around 12m, with the surrounding slope and reef structure reported at depths from 5m down to 30-43m depending on the operator. Nutrient-rich channel currents (moderate to occasionally strong) support dense fish life. Suitable for a range of experience levels but current awareness is required.",
       "name": "Biet Point",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
-      "scuba_diving:maxdepth": "21m",
+      "scuba_diving:maxdepth": "30m",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "travel-palawan.com, palawan-divers.org",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "palawan-divers.org,padi.com,tabanka-divers.com,elnidoparadise.com",
+      "last_qa_date": "2026-08-18",
+      "site_type_corrected_from": "wall"
     }
   },
   {
@@ -57,13 +58,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "El Nido cave dive with natural passages and chambers. Advanced qualification required for cave diving.",
+      "description": "OSM-tagged cave/cavern dive site in the Matinloc Island area of El Nido. Cave and cavern diving is confirmed to exist in the El Nido area generally (ScubaBoard operator reports), and shark-resting caverns are a known feature of nearby reef sites, but no independently verifiable source could confirm this specific site's chambers, passages, or 30m depth. Treat depth and interior details as unconfirmed pending a site-specific source.",
       "name": "Cave",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "travel-palawan.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "unconfirmed_reaudit_2026-08-18",
+      "last_qa_date": "2026-08-18",
+      "qa_note": "Original source travel-palawan.com no longer resolves. Only general (non-site-specific) corroboration of El Nido cave diving found via scubaboard.com. Fewer than 3 independent site-specific sources -- flagged unresolved, not newly validated on source count alone."
     }
   },
   {
@@ -77,13 +79,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Southern tip of Matinloc Island in El Nido. Excellent site for pelagic fishes with strong currents attracting tuna, jacks, and mackerels. Coral-encrusted rocks provide shelter and color.",
+      "description": "Southern tip of Matinloc Island in El Nido. Site for pelagic fishes with strong currents attracting tuna, jacks, and mackerels. Coral-encrusted rocks provide shelter and color.",
       "name": "Banayan Point",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "divephilippines.com.ph",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "search-corroborated_unfetched",
+      "last_qa_date": "2026-08-18",
+      "qa_note": "Core facts (Matinloc southern tip, pelagic/current site) corroborated by consistent web-search snippets, but re-audit could not independently WebFetch 3 distinct live source pages (travel-palawan.com and divephilippines.com.ph, the sites originally cited, are now dead/unreachable). Flagged unresolved for the 3-source requirement; content left unchanged as directionally consistent."
     }
   },
   {
@@ -97,13 +100,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Matinloc Island site (Picanayas) with large boulders attracting whitetip sharks. Pelagics commonly observed. Strong currents bring robust marine life.",
+      "description": "Matinloc Island site (also called Picanayas) with large boulders attracting whitetip reef sharks. Pelagics commonly reported. Strong currents bring robust marine life.",
       "name": "Bikanayos Rock",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "divephilippines.com.ph",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "search-corroborated_unfetched",
+      "last_qa_date": "2026-08-18",
+      "qa_note": "Core facts (Matinloc boulder site, resting whitetip reef sharks) corroborated by consistent web-search snippets, but re-audit could not independently WebFetch 3 distinct live source pages (travel-palawan.com and divephilippines.com.ph, the sites originally cited, are now dead/unreachable). Flagged unresolved for the 3-source requirement; content left unchanged as directionally consistent."
     }
   },
   {
@@ -117,15 +121,16 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
-      "description": "Port Barton area. Shallow coral reef ideal for snorkeling and beginners. Excellent coral formations with butterflyfish, clownfish, and colorful reef fish.",
+      "description": "Port Barton area. Two parallel shallow coral reef systems a short boat ride from the village, popular for snorkeling and beginner diving. Turtles are regularly reported. Note: at least one 2024 visitor account (rjdexplorer.com) describes patches of coral bleaching and paling on the shallow reef top, alongside areas of healthy coral -- conditions may vary by season and visit.",
       "name": "Twin Reef",
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "spendlifetraveling.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "coffeehan.com,tikigo.com,rjdexplorer.com",
+      "last_qa_date": "2026-08-18",
+      "qa_note": "Original validation_source (spendlifetraveling.com) was re-checked and found to have no Port Barton dive-site content -- it only mentions Port Barton in passing in an unrelated honeymoon-destinations article. Replaced with sources that were independently verified."
     }
   },
   {
@@ -139,15 +144,16 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "description": "Port Barton. Dramatic coral formations with massive brain corals. Schools of fish cruise the site. Drop-offs visible in calm seas. Good intermediate skill level site.",
+      "description": "Port Barton. Deeper and more colorful than nearby Twin Reef, with purple, orange, and green coral formations reported as healthier than the shallower site. Schools of fish move through the coral heads. No site-specific species list confirmed by sources beyond general 'schools of colorful fish.'",
       "name": "Fantastic Reef",
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "spendlifetraveling.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "coffeehan.com,rjdexplorer.com,philippinesdiscovery.ph",
+      "last_qa_date": "2026-08-18",
+      "qa_note": "Original validation_source (spendlifetraveling.com) was re-checked and found to have no Port Barton dive-site content. Replaced with sources that were independently verified. Prior markdown's detailed Marine Life / Dive Profile / Photography sections contained unconfirmed species claims (Napoleon wrasse, grouper, lionfish, stingray/flatfish) not attributable to any source and have been removed."
     }
   },
   {
@@ -161,15 +167,16 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Part of Tubbataha Reef Marine Park, south Palawan. Mushroom-shaped reef structure with sloping reefs and dramatic undercut drop-offs. Strong shark activity including grey reef sharks, whitetips, and hammerheads. Barracuda, Spanish mackerel, and Napoleon wrasse. Accessible March-June only.",
+      "description": "The smallest and northernmost of Tubbataha's three reef structures, a mushroom-shaped coral cay roughly 1.6km long, located in Tubbataha Reefs Natural Park (UNESCO World Heritage Site), accessible only by liveaboard, typically March-June. Reef slopes from about 7m down to a wall that drops beyond 50m; recreational dives are generally kept to around 30m. Fast currents (calm-weather site) sustain large branching hard corals and are unusually strong for the park. Confirmed sightings: grey reef, whitetip, and blacktip reef sharks, occasional hammerheads, barracuda, Spanish mackerel, tuna, groupers, Napoleon wrasse, and schools of unicornfish and surgeonfish, with manta and eagle rays reported off the southern tip. A 2024 liveaboard trip report also documented a passing whale shark. Unlike the rest of the park, this reef remains open to fishing activity. Likely named for the Jessie Beazley, a Liverpool-built vessel reported to have wrecked here in 1872.",
       "name": "Jesse Beazley Reef",
       "natural": "reef",
       "subsea": "coral_reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divehappy.com, zubludiving.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "asiadivesite.com,dive-the-world.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-08-18",
+      "qa_note": "Re-confirmed grey reef sharks and Napoleon wrasse (present in dive-the-world.com, contrary to initial assumption); added whitetip/blacktip reef sharks, unicornfish/surgeonfish, manta/eagle rays (southern tip) from asiadivesite.com, and hammerhead/whale shark reports from bluewaterdivetravel.com's 2024 trip log."
     }
   }
 ]

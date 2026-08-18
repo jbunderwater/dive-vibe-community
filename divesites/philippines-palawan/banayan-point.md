@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Banayan Point
 
-Banayan Point is a wall dive site in Philippines Palawan, Asia.
+Banayan Point is a wall dive site at the southern tip of Matinloc Island in El Nido.
 
 ## Overview
 
-Banayan Point at the southern tip of Matinloc Island is El Nido's go-to site for pelagic action, where strong channeling currents funnel schools of tuna, jacks, and mackerel past coral-encrusted boulders descending to 22 meters. The open-water exposure means conditions can be demanding, but divers who time it right are rewarded with the kind of fish density rarely found at the more sheltered sites further into the archipelago.
+Banayan Point sits at the southern tip of Matinloc Island, where open-water exposure and strong channeling currents make it El Nido's go-to site for pelagic action — tuna, jacks, and mackerel move past coral-encrusted boulders descending to 22 meters. Conditions can be demanding when current is running, which is when the site produces its best pelagic encounters.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: El Nido, Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +29,11 @@ Banayan Point at the southern tip of Matinloc Island is El Nido's go-to site for
 
 ## Marine Life
 
-Banayan Point is El Nido's top site for current-driven pelagic encounters, with strong channeling currents funneling schools of dogtooth tuna, giant trevally, and Spanish mackerel past the coral-encrusted boulders. Whitetip reef sharks and grey reef sharks are regular visitors when current is running, and barracuda stack up in the eddy behind the point. The boulders themselves shelter moray eels, lionfish, and small grouper for divers who work the structure between the bigger-animal action.
+Reports consistently describe schools of tuna, jacks, and Spanish mackerel using the current-swept point, with barracuda and occasional whitetip reef sharks around the boulder structure.
+
+## Re-audit note
+
+This description is corroborated by search-engine results from multiple independent pages, but a 2026-08-18 re-audit was unable to independently load and confirm 3 distinct live source pages — the site originally cited (divephilippines.com.ph) no longer resolves, and travel-palawan.com's dive-sites page loaded blank. The content has been left largely unchanged as directionally consistent across sources, but should be treated as needing a stronger source before further claims are added.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Description consistent with multiple search-indexed sources on Matinloc Island diving, but no single page could be independently loaded and confirmed at time of review. No fully verified site-specific source found. Last updated 2026-08-18.*

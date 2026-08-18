@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Bikanayos Rock
 
-Bikanayos Rock is a wall dive site in Philippines Palawan, Asia.
+Bikanayos Rock, also called Picanayas, sits on the western face of Matinloc Island in El Nido and is known for whitetip reef shark sightings among its boulders.
 
 ## Overview
 
-Bikanayos Rock (locally known as Picanayas) sits on the western face of Matinloc Island in El Nido, where huge boulders create natural corridors and swim-throughs that whitetip reef sharks use as resting spots. Nutrient-rich currents sweeping past the exposed rock draw barracuda, trevally, and other pelagics, making this one of the best sites on Matinloc for an encounter with larger open-water species.
+Bikanayos Rock (Picanayas) is a boulder formation on the western side of Matinloc Island where whitetip reef sharks are regularly reported resting among the rocks. Nutrient-rich currents sweeping the exposed rock face bring in barracuda and other pelagics, making it one of the more current-dependent sites in the Matinloc cluster.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: El Nido, Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +29,11 @@ Bikanayos Rock (locally known as Picanayas) sits on the western face of Matinloc
 
 ## Marine Life
 
-Bikanayos Rock is El Nido's best site for whitetip reef shark encounters, with the boulders' natural corridors and swim-throughs serving as regular resting spots where sharks can be observed closely at close range. Nutrient-rich currents sweeping past the exposed western face draw schooling barracuda, giant trevally, and mackerel that congregate in the eddy zones around the rock. Napoleon wrasse and hawksbill turtles are routine sightings on the surrounding reef structure.
+Whitetip reef sharks are the signature sighting here, reported resting among the boulder formations. Barracuda and other pelagics are reported when current is running.
+
+## Re-audit note
+
+This description is corroborated by search-engine results from multiple independent pages, but a 2026-08-18 re-audit was unable to independently load and confirm 3 distinct live source pages — the site originally cited (divephilippines.com.ph) no longer resolves, and travel-palawan.com's dive-sites page loaded blank. The content has been left largely unchanged as directionally consistent across sources, but should be treated as needing a stronger source before further claims (e.g. Napoleon wrasse, hawksbill turtles, previously listed) are re-added — those two species have been removed here as unconfirmed by any source located in this review.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Description consistent with multiple search-indexed sources on Matinloc Island diving, but no single page could be independently loaded and confirmed at time of review. No fully verified site-specific source found. Last updated 2026-08-18.*

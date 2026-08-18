@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Twin Reef
 
-Twin Reef is a reef dive site in Philippines Palawan, Asia.
+Twin Reef is Port Barton's most popular snorkeling and beginner dive site — two parallel shallow coral reef structures a short boat ride from the village.
 
 ## Overview
 
-Twin Reef is Port Barton's headline dive — two distinct parallel coral structures a short boat ride from the village, offering an impressive diversity of healthy hard corals that double as a fish sanctuary. The shallows are immediately rewarding for beginners and snorkelers, with butterflyfish, clownfish in their anemones, and schools of reef fish darting through the coral heads in very calm, uncrowded conditions.
+Twin Reef takes its name from two distinct, closely situated coral reef structures near Port Barton. The shallow, calm waters and short boat ride make it a standard stop on Port Barton island-hopping tours and an accessible first dive/snorkel site. Turtles are commonly reported here. One 2024 visitor account (rjdexplorer.com) noted patches of coral bleaching and paling on the shallow reef top alongside areas of healthy coral — coral condition here may vary by season and should not be assumed uniformly pristine.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Port Barton, northern Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
@@ -29,7 +29,7 @@ Twin Reef is Port Barton's headline dive — two distinct parallel coral structu
 
 ## Marine Life
 
-Twin Reef's hard coral sanctuary supports an abundant and approachable reef fish community, with butterflyfish, angelfish, and parrotfish crowding the healthy coral heads and clownfish defending their anemones throughout the site. Hawksbill turtles are frequently sighted on both reef structures, and the calmer current here makes them particularly relaxed and easy to observe. Deeper along the reef slope, whitetip reef sharks occasionally rest in the sandy passages between the two coral structures.
+Butterflyfish and other reef fish are reported moving through the coral heads, and turtles are frequently sighted. Beyond these, no further site-specific species list is confirmed by sources — treat additional marine life claims for this site as unverified.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Sources: [CoffeeHan — Port Barton Palawan Guide](https://www.coffeehan.com/port-barton-palawan-guide/), [Tikigo — Twin Reef, Port Barton](https://www.tikigo.com/philippines/palawan/port-barton/twin-reef/), [RJdExplorer — Port Barton Island Hopping](https://www.rjdexplorer.com/port-barton-island-hopping/). Last updated 2026-08-18.*
