@@ -9,27 +9,24 @@ siteType: wall
 ref: null
 osmId: 4941391020
 addedBy: osm_import
+qa_status: unresolved
+qa_note: "Re-audited 2026-08-18: no independent source (dive shop listing, database, or forum) found confirming a Malapascua dive site named 'Secret Wall'. Prior validated=true status was backed only by a placeholder source string, not a real citation. Site-specific claims have been removed pending human review."
 ---
 
 ## Secret Wall
 
-Secret Wall is a wall dive site in Philippines Malapascua, Asia.
+Secret Wall is listed in this database as a wall dive site off Malapascua Island, but a 2026-08-18 re-audit could not locate any independent dive shop, database, or forum source confirming a site by this name.
 
 ## Overview
 
-Secret Wall is a steep vertical wall on the less-frequented western side of Malapascua, dropping from the shallows down past 30 meters into open water. The wall face is draped with sea fans and soft corals, and its remoteness means it sees less traffic than Gato Island, giving it an uncrowded, raw feel. Strong currents can sweep across the wall and push pelagics close to the edge, making careful drift technique and a late-dive safety stop in the blue essential.
+No site-specific source could be found for "Secret Wall" during this QA pass. It is possible this is an informal or local operator name not indexed publicly, a translation/renaming of another listed site, or a data entry issue. Depth, difficulty, and location have been left unchanged from the prior record, but no specific claims about coral cover, currents, or marine life can currently be verified and none are made here.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Malapascua Island, Philippines (unconfirmed)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-
-## Marine Life
-
-Secret Wall's less-trafficked face is draped in sea fans and soft corals that shelter pygmy seahorses, crinoid-clinging shrimp, and nudibranchs for macro hunters working the wall. Strong currents push grey reef sharks, barracuda, and trevally close to the wall edge, creating pelagic encounters alongside the invertebrate-rich structure. Hawksbill turtles are occasionally seen resting in the sea fan garden during quieter current conditions.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-08-18.*

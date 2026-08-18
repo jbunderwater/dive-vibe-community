@@ -2,32 +2,40 @@
 name: Japanese Ship Wreck
 lat: 11.3412456
 lng: 124.1079016
-difficulty: Intermediate
-maxDepth: 33
+difficulty: Beginner
+maxDepth: 7
 entryType: boat
 siteType: wreck
 ref: null
 osmId: 244536817
 addedBy: osm_import
-qa_status: unresolved
-qa_note: "Wreck identity conflict: research found a shallow WWII Japanese landing craft (3-7m, Beginner) near the Malapascua lighthouse (Lighthouse Wreck / Japanese Wreck Marine Sanctuary), but current depth entry is 33m which does not match. OSM already flags location as approximate. Marine life claims in description are unverified. Needs human review."
 ---
 
 ## Japanese Ship Wreck
 
-Japanese Ship Wreck is a historic wreck dive in Philippines Malapascua, Asia.
+This shallow wreck near Malapascua's lighthouse — also listed by local operators as the "Lighthouse Wreck" or "Japanese Wreck Marine Sanctuary" — is a WWII-era vessel broken into two pieces in only a few meters of water, making it one of the island's easiest wreck dives.
 
 ## Overview
 
-The Japanese Ship Wreck is a WWII-era vessel lying in the passage between Malapascua and Leyte, its hull heavily colonised by soft corals and encrusting sponges that make every surface glow orange and pink under torch light. The wreck sits with its shallowest decks around 18 meters and the keel touching 33 meters, giving intermediate divers a manageable bottom time before ascending to pick through the superstructure. Schools of batfish hover over the bow, and lionfish are almost always lurking in the shadowed doorways and cargo holds.
+A 2026-08-18 re-audit resolved a depth conflict flagged in the prior QA pass. This entry's OSM coordinates (flagged `location approximate`) sit within roughly 250 meters of the PADI-listed "Lighthouse Wreck" at 11.34233, 124.10993 — well within likely GPS error for a shallow inshore site — and four independent sources describe a shallow WWII-era Japanese wreck at that location, not the 33-meter depth previously recorded here. No other known Malapascua-area wreck sits at these coordinates: the Tapilon Wreck lies at roughly 29m off the mainland town of Tapilon, and the MV Doña Marilyn — a 1966-built, 97.6-meter Philippine ferry that sank in Typhoon Ruby in October 1988 — rests at about 33m off Biliran, well away from this location. The 33m depth previously recorded here most likely came from confusing this site with one of those two.
+
+**Vessel identity and sinking**: sources agree the wreck is a WWII-era Japanese vessel, broken into two pieces, but disagree on its type and how it sank. Most sources describe it as a landing craft carrying a cargo of cement intended for gun emplacements, bombed just short of the beach. At least one source instead describes it as a warship that was detected while sheltering near the site and bombed. No source gives a ship name, build date, length, or tonnage, so none is stated here — this is consistent with the wreck being an unidentified, undocumented vessel rather than a named ship with a recorded history.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Off the lighthouse, northeastern Malapascua Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 33 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 7 meters
+
+## Marine Life
+
+Sources consistently report yellow-tailed barracuda, hermit crabs, octopus, pipefish, juvenile harlequin sweetlips, and banded sea snakes around the wreckage. Hard and soft coral, tunicates, and translucent shrimp species are also reported growing on the structure. At least one source notes conflicting reports on the wreck's current condition — some describe it as damaged or partially buried following a 2018 storm, while more recent visitor reports describe it as still visible at a few meters depth.
+
+## Safety Considerations
+
+The shallow depth (3-7m) keeps decompression risk low, making this a common introductory or Discover Scuba wreck site. As with any wreck, entering or penetrating the structure requires appropriate training and should never be treated as risk-free; sources describe the wreck as broken apart and partially collapsed rather than an intact, penetrable hull.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Kokay's Malapascua Diving](https://kokaysmalditodiveresort.com/diving-malapascua-cebu-philippines/thresher-shark-diving/lighthouse-wreck/), [Dumaguete Info - Wreck Diving at Malapascua Island](https://dumagueteinfo.com/other-destinations/cebu/wreck-diving-at-malapascua-island/), [PADI dive site database](https://www.padi.com/dive-site/philippines/lighthouse-wreck/), [Malapascua Thresher Shark Divers](https://malapascua-diving.com/malapascua/wrecks/). Last updated 2026-08-18.*

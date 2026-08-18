@@ -3,9 +3,9 @@ name: Ka-Osting / Bantigue
 lat: 11.3456001
 lng: 124.1193512
 difficulty: Beginner
-maxDepth: 22
+maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 4557974264
 addedBy: osm_import
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Ka-Osting / Bantigue
 
-Ka-Osting / Bantigue is a reef dive site in Philippines Malapascua, Asia.
+Ka-Osting and Bantigue are a pair of adjoining muck-diving sites off Malapascua, often compared by local operators to Lembeh Strait for the density and variety of critters found on their sandy slopes.
 
 ## Overview
 
-Ka-Osting / Bantigue is a coral reef slope running along the western side of Malapascua, named after a local fisherman and the small barangay nearby. The reef descends gradually from the shallows to about 22 meters and is lined with hard coral formations interspersed with cleaning stations where sweetlips and surgeonfish queue up for attendant wrasses. Sea turtles frequently rest on the coral heads here, and the site's relatively sheltered position makes it a dependable dive when northeast winds stir up conditions elsewhere.
+This OSM entry combines two adjoining named sites — Bantigue (also spelled Bantigi/Bantique) and Ka-Osting — a short boat ride north of Malapascua. Both are muck sites rather than coral reef: a shallow reef edge gives way quickly to a sandy/rubble slope, the classic muck-diving habitat. Currents are generally reported as light, and visibility in the 10-20 meter range.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: North of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 15 meters
 
 ## Marine Life
 
-Ka-Osting / Bantigue is a relaxed reef dive characterised by active cleaning stations where sweetlips and surgeonfish queue for attendant wrasses, providing close-up behavioural encounters at mid-depth. Sea turtles frequently rest on the coral heads here, and the sheltered position keeps the fish community relatively undisturbed and approachable. Reef fish diversity is high throughout the slope, with schools of snapper, groups of parrotfish, and nudibranchs scattered across the rubble sections.
+Sources report gobies, fire urchins, mantis shrimp, zebra crabs, sea moths, dwarf lionfish, snowflake moray eels, snake eels, carpet anemones, and hairy frogfish on the sand and rubble slope — typical of the site's reputation as one of Malapascua's premier muck-diving locations.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua Thresher Shark Divers](https://malapascua-diving.com/malapascua/dive-sites/), [PADI dive site database](https://www.padi.com/dive-site/philippines/bantigue-malapascua/), [DiveSSI dive guide](https://www.divessi.com/en/mydiveguide/divesite/bantigue-bantique-bantagi-cove-beach-bantegue-philippines-65801). Last updated 2026-08-18.*

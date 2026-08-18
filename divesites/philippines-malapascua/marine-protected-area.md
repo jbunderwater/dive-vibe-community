@@ -10,28 +10,24 @@ ref: null
 osmId: 244531732
 addedBy: osm_import
 qa_status: unresolved
-qa_note: "Not confirmed as a named dive site — OSM entry is a protected area boundary. No dive operator lists this as a distinct named site. Needs human review."
+qa_note: "Re-confirmed unresolved 2026-08-18: no dive operator or database lists a named dive site called simply 'Marine Protected Area' at Malapascua. OSM entry is a protected-area boundary polygon, not a distinct dive site."
 ---
 
 ## Marine Protected Area
 
-Marine Protected Area is a reef dive site in Philippines Malapascua, Asia.
+This OSM entry marks a protected-area boundary near northern Malapascua Island. A 2026-08-18 re-audit, like the prior QA pass, found no dive operator or dive-site database listing a named dive site called simply "Marine Protected Area" here.
 
 ## Overview
 
-Malapascua's Marine Protected Area covers a section of reef off the island's northwest corner where fishing has been restricted for years, and the difference in coral health compared to adjacent unprotected areas is immediately visible. Dense table and staghorn corals dominate the shallows, giving way to sea fans and barrel sponges as the slope descends toward 20 meters. The no-take zone makes the fish bold — napoleon wrasse, bumphead parrotfish, and schools of trevally are routine sightings, and the resident turtle population here is noticeably large.
+The underlying OSM feature (`leisure=nature_reserve`, `boundary=protected_area`) represents a protected-area boundary, not a named, bookable dive site — the OSM data itself carries a `fixme: name` tag flagging this. No specific claims about coral cover, fish populations, or marine life at this exact location could be verified against any independent source, so none are made here. This entry needs human review to determine whether it should be merged into a nearby named site, renamed, or removed.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Northern Malapascua Island, Philippines (boundary polygon, not a confirmed named site)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 
-## Marine Life
-
-The no-take status of this MPA has produced notably bold, large fish — napoleon wrasse, bumphead parrotfish, and schools of big-eye trevally are routine sightings close to divers. Hawksbill sea turtles are particularly abundant here compared to adjacent unprotected reefs, and white-tip reef sharks rest on the sandy areas below the slope. The dense table and staghorn corals in the shallows shelter a rich community of damselfish, wrasse, butterflyfish, and clownfish in their anemones.
-
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-08-18.*

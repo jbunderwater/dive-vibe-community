@@ -2,10 +2,10 @@
 name: Lighthouse
 lat: 11.3421901
 lng: 124.1097625
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Beginner
+maxDepth: 10
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 4941394885
 addedBy: osm_import
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Lighthouse
 
-Lighthouse is a wall dive site in Philippines Malapascua, Asia.
+Lighthouse is a shallow reef site near Malapascua's northeastern lighthouse, best known as one of the island's most popular mandarin fish dusk-diving spots.
 
 ## Overview
 
-Lighthouse is a wall dive at the northeastern tip of Malapascua, directly below the old lighthouse that marks the island's windward corner. The wall drops sharply from 5 meters to beyond 30, its face encrusted with sea fans, crinoids, and rope sponges that provide a colourful backdrop for the hawksbill turtles that frequently cruise by. Current can be significant here given the exposed point, but that same current draws in thresher sharks from deeper water, making early morning dives particularly productive for pelagic encounters.
+This corrects an earlier version of this page, which described Lighthouse as a 30-meter wall dive. Four independent dive shop sources instead consistently describe a shallow reef site — roughly 6 to 10 meters — dived primarily around sunset for the mandarin fish mating display that takes place in the coral rubble as light fades. The earlier claims of a deep wall face, resident hawksbill turtles, and thresher sharks "drawn in from deeper water" could not be verified by any source and have been removed; the thresher shark claim in particular appears to have been carried over from the Monad Shoal description rather than researched for this specific site.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Near the lighthouse, northeastern Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
 
 ## Marine Life
 
-Lighthouse is a rewarding wall for pelagic encounters, with hawksbill turtles cruising the sea fan- and crinoid-draped wall face as a near-constant presence. The exposed point draws thresher sharks from deeper water on early morning dives, particularly when current is running, and grey reef sharks and barracuda are regular mid-water visitors. Crevices in the wall shelter moray eels, lionfish, and smaller reef fish that provide macro interest between the bigger-animal sightings.
+Sources consistently report mandarin fish (the primary attraction at dusk), seahorses, bobtail squid, and pipefish. One source also notes nocturnal critters generally on night dives here. No source ties thresher sharks, hawksbill turtles, or wall-dwelling pelagics to this specific site.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua Thresher Shark Divers](https://malapascua-diving.com/malapascua/dive-sites/), [Sea Explorers Philippines](https://sea-explorers.com/dive-sites-malapascua/), [Evolution Diving Resort](https://evolution.com.ph/fun-diving/malapascua-dive-sites/), [Ocean Vida](https://ocean-vida.com/diving/dive-sites/). Last updated 2026-08-18.*
