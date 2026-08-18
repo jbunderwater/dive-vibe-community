@@ -32,7 +32,7 @@ The Aichi E13A1, codenamed "Jake" by the Allies, was a three-seat reconnaissance
 
 ## Marine Life
 
-The seaplane has become an artificial reef over eight decades. Coral growth covers much of the airframe, and anemones with resident clownfish have colonized the wings and fuselage. Small reef fish shelter around the cockpit openings and engine cowling. The surrounding reef edge supports the typical Kavieng mix of hard and soft corals, with schooling fusiliers and damselfish in the water column above the wreck.
+The seaplane has become an artificial reef over eight decades. Coral growth covers much of the airframe. Pipefish are reported around the floats and reef edge near the wreck. Small reef fish shelter around the cockpit openings and engine cowling. The surrounding reef edge supports the typical Kavieng mix of hard and soft corals. No site-specific reports of anemonefish or other larger residents at this particular wreck were found in research for this entry -- avoid assuming regional Kavieng species (clownfish, fusiliers, etc.) are present here without a confirmed sighting.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, a short ride south. Entry is by 
 This is a benign dive site suitable for all certification levels. Current is typically negligible. The shallow depth eliminates decompression concerns for any reasonable dive duration. Maintain good buoyancy to avoid contact with the fragile coral growth on the airframe. As with all WWII wrecks in Papua New Guinea, do not remove any artifacts.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=706), [Indopacific Images – Kavieng Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=706), [Indopacific Images – Kavieng Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/). Re-audited 2026-08-18: marine life section corrected -- McFadyen's site-specific account mentions pipefish near the wreck, not clownfish/anemones as previously stated; that claim has been removed as unconfirmed for this specific site. Last updated 2026-08-18.*

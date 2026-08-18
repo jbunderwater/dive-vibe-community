@@ -32,7 +32,7 @@ The Mitsubishi F1M2, codenamed "Pete" by the Allies, was a reconnaissance biplan
 
 ## Marine Life
 
-The sandy bottom surrounding the aircraft is relatively sparse, which makes the seaplane itself stand out dramatically. Coral growth has begun colonizing the underside (now facing upward) of the wings and fuselage. Small reef fish shelter in and around the airframe. The surrounding sand may yield garden eels and occasional passing pelagics drawn by the structure.
+The sandy bottom surrounding the aircraft is relatively sparse, which makes the seaplane itself stand out dramatically. What makes Deep Pete especially photogenic is a resident school of yellow sweetlips that streams in and around the wings -- one of the best-documented sightings at this specific site. Coral growth has begun colonizing the underside (now facing upward) of the wings and fuselage. Small reef fish shelter in and around the airframe.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, approximately ten minutes away. 
 At 40 meters, this dive pushes the limits of recreational diving. No-decompression time on air is approximately 8-10 minutes. Monitor depth, time, and air supply continuously. Narcosis is a real consideration at this depth -- abort the dive if you or your buddy show signs. Always carry an SMB and adequate reserves for ascent. This site is not appropriate for inexperienced divers.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=704), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [diveplanit.com](https://www.diveplanit.com/dive-sites/deep-pete-kavieng/), [Wikipedia – Mitsubishi F1M](https://en.wikipedia.org/wiki/Mitsubishi_F1M). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=704), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [DivePlanit – Deep Pete](https://www.diveplanit.com/dive-site/deep-pete/), [Wikipedia – Mitsubishi F1M](https://en.wikipedia.org/wiki/Mitsubishi_F1M). Re-audited 2026-08-18: added the resident yellow sweetlips school, confirmed as this site's signature marine-life feature. Last updated 2026-08-18.*

@@ -14,7 +14,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "indopacificimages.com,mvoceania.com,thediveglobe.com,liveaboard.com,diveplanit.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -32,7 +32,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diversiondivetravel.com.au,walindiresort.com,mvoceania.com,mvfebrina.com,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -50,7 +50,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diveplanit.com,indopacificimages.com,walindiresort.com,mvfebrina.com,mvoceania.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -67,8 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "false",
-      "validation_note": "Site name unverifiable — no independent dive source confirms a site called The Bottleneck in Milne Bay. Name is common globally. Coordinates and description are unconfirmed.",
-      "last_qa_date": "2026-06-25"
+      "validation_note": "Re-checked 2026-08-18: still no independent dive source (Indopacific Images, PADI, Tawali Resort, ScubaBoard) confirms a site called The Bottleneck in Milne Bay. Known Milne Bay current/passage sites include The Washing Machine (China Strait) and Pelagic Point. Coordinates and description remain unconfirmed. validated stays false.",
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -86,7 +86,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "indopacificimages.com,underwaterasia.info,justgottadive.com,divernet.com,padi.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -104,7 +104,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "pacificwrecks.com,michaelmcfadyenscuba.info,scubadiverlife.com,indopacificimages.com,xray-mag.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -121,8 +121,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "false",
-      "validation_note": "Site name unverifiable — no independent dive source confirms a site called Barracuda Point near Rabaul. Name is common globally (Sipadan, Curaçao, Milne Bay PNG). Coordinates and description are unconfirmed.",
-      "last_qa_date": "2026-06-25"
+      "validation_note": "Re-checked 2026-08-18: still no independent dive source confirms a site called Barracuda Point near Rabaul/Simpson Harbour. A real, GPS-confirmed 'Barracuda Point' does exist in Papua New Guinea (PADI dive-site record, coords -10.25523,150.70461) but it is in Milne Bay near Tawali Resort -- a different site roughly 700km away, not Rabaul. Coordinates and description for this Rabaul entry remain unconfirmed. validated stays false.",
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -140,7 +140,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,scubadiverlife.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -158,7 +158,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "niuginidiveadventures.com,diveplanit.com,padi.com,underwaterasia.info,bestofpng.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -176,7 +176,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "indopacificimages.com,techdivetravels.com,underwaterasia.info,scubadiverlife.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -194,7 +194,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "indopacificimages.com,mvoceania.com,mvfebrina.com,walindiresort.com,diveplanit.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -212,7 +212,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diversiondivetravel.com.au,underwaterasia.info,indopacificimages.com,scubaboard.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -230,7 +230,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -248,7 +248,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,diversiondivetravel.com.au,dan.org",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -266,7 +266,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,dan.org,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -284,7 +284,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,diveplanit.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -302,7 +302,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,ww2wrecks.com,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -320,7 +320,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,diversiondivetravel.com.au,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -338,7 +338,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,diversiondivetravel.com.au",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -356,7 +356,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,diveadventures.com.au,underwaterasia.info",
-      "last_qa_date": "2026-06-25",
+      "last_qa_date": "2026-08-18",
       "note": "Part of Tom, Dick and Harry reef complex near Cape Liguan, Rabaul. Reef structure (not wall). Coordinates place this in Rabaul area."
     }
   },
@@ -375,7 +375,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,allwaysdive.com.au,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -393,7 +393,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -411,7 +411,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -429,7 +429,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -447,7 +447,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -465,7 +465,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -483,7 +483,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -501,14 +501,14 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,pacificwrecks.com,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
     "name": "Suzies Bommie",
     "lat": -9.58139,
     "lon": 147.25889,
-    "depth": 30,
+    "depth": 45,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -519,7 +519,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,prodivepng.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -537,7 +537,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,loloata.com,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -555,7 +555,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,en.wikipedia.org,navy.gov.au",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -571,9 +571,10 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "validated": "true",
-      "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,prodivepng.com",
-      "last_qa_date": "2026-06-25"
+      "validated": "false",
+      "validation_source": "michaelmcfadyenscuba.info",
+      "last_qa_date": "2026-08-18",
+      "validation_note": "Re-audit 2026-08-18: JSON previously listed 3 validation_source domains (michaelmcfadyenscuba.info, indopacificimages.com, prodivepng.com) but the site's own markdown footer disclosed only McFadyen as the actual source. Independent search found no indopacificimages.com or prodivepng.com page describing this specific outer-reef wall dive past Basilisk Passage (a different, unrelated 'Christmas Tree' site -- the MV Pai 2 wreck in Bootless Bay -- does exist and may be the source of confusion). Downgraded to validated=false per 3-independent-source requirement; do not pad with the removed domains without independent confirmation."
     }
   },
   {
@@ -591,7 +592,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,scubaboard.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -609,7 +610,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,scubadiverlife.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -627,7 +628,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,pacificwrecks.com,argunners.com,diveplanit.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -645,7 +646,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,niuginidiveadventures.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -663,7 +664,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,niuginidiveadventures.com,diveplanit.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   },
   {
@@ -681,7 +682,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,prodivepng.com,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-18"
     }
   }
 ]
