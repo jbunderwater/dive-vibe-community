@@ -5,7 +5,7 @@ lng: 123.6
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -49,9 +49,9 @@ The soft coral garden is the primary photo subject. Wide-angle with strobe bring
 
 - **Location**: Northern San Miguel Island, Donsol area, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol), [Divezone — Donsol dive sites](https://divezone.net/diving/donsol). Last updated 2026-08-18 (re-audited; site_type corrected from "reef" to "wall" to match the sloping-wall topography already described in every source and in this page's own text).*

@@ -17,9 +17,9 @@ Ticao Pass is the main navigation strait separating Ticao Island from the Bicol 
 
 ## Overview
 
-Strong, sustained currents push cold, plankton-rich water from the south through the pass year-round. This creates a marine superhighway: the dense plankton bloom supports whale sharks, reef and oceanic manta rays, thresher sharks, hammerhead sharks, and schools of tunas, barracuda, and trevallies. Zooplankton in the pass is dominated by nauplii and copepods, with a seasonal abundance peak in February aligning with the main whale shark season.
+Strong, sustained currents push cold, plankton-rich water from the south through the pass year-round. This creates a marine superhighway: the dense plankton bloom supports whale sharks, reef and oceanic manta rays, thresher sharks, hammerhead sharks, and schools of tunas, barracuda, and trevallies. Whale shark sightings peak seasonally, with the Ticao-Burias Pass ISRA profile recording April as the single busiest month on record (118 individual sharks documented in April 2009).
 
-The pass earned Important Shark and Ray Area (ISRA) designation alongside Burias Pass. The Ticao-Burias Pass system supports the largest whale shark aggregation in Southeast Asia by number of individuals identified — 614 photo-identified whale sharks between 2006 and 2020.
+The pass sits within the government-designated Ticao-Burias Pass Protected Seascape (RA 11038) and earned Important Shark and Ray Area (ISRA) designation alongside Burias Pass. The Ticao-Burias Pass system supports the largest whale shark aggregation in Southeast Asia by number of individuals identified — 614 photo-identified whale sharks between 2006 and 2020, representing an estimated 49% of the Philippines' known whale shark population.
 
 Drift dives through Ticao Pass carry divers through open-water columns above depths that plunge well beyond sport-diving limits. The experience is pelagic in character: expect open blue water, large animals, and fast-moving current rather than coral reef work.
 
@@ -29,8 +29,7 @@ Drift dives through Ticao Pass carry divers through open-water columns above dep
 - Reef manta rays (*Mobula alfredi*) and oceanic manta rays
 - Thresher sharks, hammerhead sharks, whitetip reef sharks, tiger sharks
 - Schooling skipjack tuna, barracuda, giant trevally
-- Dugongs (documented presence in the wider ISRA)
-- Sea turtles; occasionally megamouth shark (globally rare; documented in the pass)
+- Sea turtles; dugongs and the globally rare megamouth shark are both documented within the wider Ticao-Burias Pass Protected Seascape, though not reported at Ticao Pass specifically
 
 ## Dive Profile
 
@@ -60,4 +59,4 @@ Advanced certification required. Current strength can exceed 3 knots. Open-water
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Bigwas — Ticao-Burias Pass Protected Seascape](https://www.bigwas.com/2020/05/ticao-burias-pass-protected-seascape.html). Last updated 2026-08-18.*

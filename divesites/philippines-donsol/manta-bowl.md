@@ -17,15 +17,15 @@ Manta Bowl is an underwater seamount in Ticao Pass, approximately 7 km off the n
 
 ## Overview
 
-The seamount rises from depths exceeding 200 meters to a plateau at 14–23 meters. Its structure includes multiple rocky outcrops and coral formations that function as cleaning stations — predictable spots where cleaner wrasse remove parasites and dead tissue from manta rays. LAMAVE (Large Marine Vertebrates Research Institute Philippines) has photo-identified more than 240 individual reef manta rays (*Mobula alfredi*) at this site, representing approximately 70% of all reef manta ray sightings in the Philippines.
+The seamount rises from depths exceeding 200 meters to a shallow plateau. Sources report the plateau depth differently — Te Moana Expeditions gives 14–23 meters, LAMAVE's research page describes a "plateau around 20–30 meters," and Shark Diving Philippines gives a flat 20 meters — so treat 14–30 meters as the working range rather than a fixed number, and follow your guide's briefing on the day. The structure includes multiple rocky outcrops and coral formations that function as cleaning stations — spots where cleaner wrasse remove parasites and dead tissue from manta rays and other visitors. LAMAVE (Large Marine Vertebrates Research Institute Philippines), which monitors the site with remote underwater video and individual ventral-spot photo-ID, has identified more than 240 individual reef manta rays (*Mobula alfredi*) here, calling it "a highly significant area in the Philippines for the species."
 
-The seamount is informally divided into sections known to divers as "Classroom," "Carlos," "Sweetlips," and "Manta Bowl" proper. Currents regularly exceed 3 knots, channeling dense clouds of plankton across the seamount and triggering aggregations of manta rays and other megafauna. Ghost nets are a documented conservation threat; volunteer removal programs operate at the site.
+Currents regularly exceed 3 knots, channeling dense clouds of plankton across the seamount and triggering aggregations of manta rays and other megafauna. Manta encounters here are current- and season-dependent rather than guaranteed on every dive — a 2012 ScubaBoard trip report described a stretch of dives with no manta sightings at all, while dive operators today describe sightings as frequent during peak season (roughly December–May). Plan for variability rather than a certain encounter.
 
 The Ticao-Burias Pass was designated an Important Shark and Ray Area (ISRA) recognizing its global significance as reproductive and foraging habitat.
 
 ## Marine Life
 
-- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals; daily cleaning station visits
+- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals; frequent cleaning-station visits, though not guaranteed on every dive
 - Oceanic manta rays
 - Whale sharks (*Rhincodon typus*) — 250+ individuals identified at this specific site
 - Thresher sharks, hammerhead sharks, whitetip reef sharks
@@ -35,11 +35,11 @@ The Ticao-Burias Pass was designated an Important Shark and Ray Area (ISRA) reco
 
 ## Dive Profile
 
-Negative entry is required to descend quickly through strong surface current. Divers descend to the plateau (14–23 m) and use reef hooks to hold station at the cleaning stations without fin-kicking, allowing mantas to approach. Drift periods between cleaning stations can produce fast-moving pelagic encounters. Dive time is typically 45–60 minutes. Depth: 14–23 m.
+Negative entry is required to descend quickly through strong surface current — a ScubaBoard trip report describes a down-current beginning around 24–25 meters. Divers descend to the plateau (reported at 14–23 m by most operator accounts, though LAMAVE describes it as 20–30 m) and use reef hooks to hold station at the cleaning stations without fin-kicking, allowing mantas to approach. Drift periods between cleaning stations can produce fast-moving pelagic encounters. Dive time is typically 45–60 minutes.
 
 ## Entry/Exit
 
-Boat only. Departures from Donsol take approximately 25 minutes; from Ticao Island resorts, the transfer is shorter. Operators include Ticao Island Resort & Dive Center (PADI) and Donsol-based dive operators. Conditions can vary sharply — operators switch to sheltered reef dives on Ticao when Manta Bowl currents or visibility are unfavorable.
+Boat only, from Donsol-based operators or Ticao Island resorts. Conditions can vary sharply — operators switch to sheltered reef dives on Ticao when Manta Bowl currents or visibility are unfavorable.
 
 ## Tips
 
@@ -61,4 +61,4 @@ Advanced certification required. Currents can exceed 3 knots and change directio
 - **Maximum Depth**: 23 meters
 
 ---
-*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [ScubaBoard — Donsol, Ticao Island, Manta Bowl](https://scubaboard.com/community/threads/donsol-ticao-island-manta-bowl.443048/). Last updated 2026-08-18.*

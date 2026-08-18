@@ -27,8 +27,8 @@ Burias Pass drift dives pass through open channel waters with visibility ranging
 - Reef manta rays (*Mobula alfredi*)
 - Thresher sharks, hammerhead sharks, tiger sharks
 - Schooling tunas, barracuda, trevallies
-- Sea turtles, dugongs (documented within the broader ISRA)
-- Megamouth shark (rare; recorded in the pass system)
+- Sea turtles
+- Dugongs and the globally rare megamouth shark — both documented within the wider Ticao-Burias Pass Protected Seascape (per Wikipedia and the PENRO/Bigwas seascape briefing), not reported at Burias Pass specifically
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Intermediate to Advanced conditions. Strong tidal currents require experience wi
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Burias Pass — Wikipedia](https://en.wikipedia.org/wiki/Burias_Pass), [Bigwas — Ticao-Burias Pass Protected Seascape](https://www.bigwas.com/2020/05/ticao-burias-pass-protected-seascape.html). Last updated 2026-08-18.*

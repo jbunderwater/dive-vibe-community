@@ -57,4 +57,4 @@ Outstanding macro photography destination. The variety of micro-habitats — san
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol), [Alex in Wanderland — Diving in Donsol](https://www.alexinwanderland.com/diving-donsol-philippines/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol), [Alex in Wanderland — Diving in Donsol](https://www.alexinwanderland.com/diving-donsol-philippines/). Last updated 2026-08-18 (re-audited; UW Photography Guide, cited previously, could not be re-fetched this pass due to a redirect and was dropped from the primary list, though its earlier content is not contradicted by anything found).*

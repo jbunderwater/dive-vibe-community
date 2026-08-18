@@ -55,4 +55,4 @@ Advanced certification required. Wall dives with significant depth invite rapid 
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*
+*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-08-18. Only 2 independent domains re-confirmed as of this audit (Dive Worldwide, previously implied as a source in the data tags, does not actually name or describe this site on re-check); a 3rd independent source is still needed.*
