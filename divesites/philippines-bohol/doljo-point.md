@@ -17,7 +17,7 @@ A dramatic vertical wall at the northwest tip of Panglao Island, dropping from a
 
 ## Overview
 
-Doljo Point lies at the extreme northwestern tip of Panglao Island. The site features a sandy plateau at 5-12 meters that gives way abruptly to a sheer vertical wall plunging to over 60 meters. The defining features are the massive gorgonian sea fans — confirmed by SM Divers as "some of the largest in the Philippines," glowing pink, red, and orange under torchlight — and giant barrel sponges with giant frogfish sheltering inside.
+Doljo Point lies at the extreme northwestern tip of Panglao Island. The site features a sandy plateau at 5-12 meters that gives way abruptly to a sheer vertical wall. Sources disagree on how far the wall extends: SM Divers describes it as dropping "well past 60 meters," while Valm Divers and Alona Divers Club both list the wall base at approximately 80 meters. The recreational depth limit for this site remains around 40 meters regardless of the true wall base. The defining features are the massive gorgonian sea fans — confirmed by SM Divers as "some of the largest in the Philippines," glowing pink, red, and orange under torchlight — and giant barrel sponges with giant frogfish sheltering inside.
 
 The northwest tip location provides a practical advantage: the point is sheltered from the southwest monsoon winds. When swell is up at other Panglao sites, Doljo Point often sits in calm lee conditions with visibility regularly exceeding 30 meters. The absence of a bottom reference on the open wall makes depth management the primary skill challenge — SM Divers requires Advanced Open Water certification minimum and emphasises "excellent buoyancy control mandatory."
 
@@ -35,7 +35,7 @@ The northwest tip location provides a practical advantage: the point is sheltere
 
 ## Marine Life
 
-The wall face between 15-30 meters hosts massive gorgonian sea fans, giant barrel sponges, and giant frogfish sheltering in the sponges. Additional confirmed species: nudibranchs (Chromodoris, Flabellina), ghost pipefish, schooling surgeonfish, batfish, sweetlips, trevally, dogtooth tuna, eagle rays, reef sharks, and chevron barracuda. Hammerhead sharks and manta rays are not confirmed at this site.
+The wall face between 15-30 meters hosts massive gorgonian sea fans, giant barrel sponges, and giant frogfish sheltering in the sponges. Additional confirmed species: nudibranchs (Chromodoris, Flabellina), ghost pipefish, schooling surgeonfish, batfish, sweetlips, trevally, dogtooth tuna, eagle rays, reef sharks, chevron barracuda, triggerfish, pufferfish, angelfish, and moray eels. Elephant ear sponges, tube corals, and table corals add to the wall's coral cover, and fusiliers school over the drop-off. Hammerhead sharks and manta rays are not confirmed at this site.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Access by dive boat from Alona Beach, heading around to the northwest tip of Pan
 The vertical wall drops past 60 meters — depth management is the primary hazard. SM Divers explicitly requires Advanced Open Water minimum. Maintain depth discipline without a bottom reference. Currents at the point can be strong; follow the guide's assessment. The remote northwest location means a longer boat ride in the event of an incident.
 
 ---
-*Sources: [SM Divers Bohol - Complete Guide to Doljo Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-doljo-point/), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Complete Guide to Doljo Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-doljo-point/), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Re-audited 2026-08-18: wall-depth conflict (60m+ vs. 80m across sources) now stated explicitly rather than picking one figure; several additional species confirmed by 2 of 3 sources and added. Last updated 2026-08-18.*

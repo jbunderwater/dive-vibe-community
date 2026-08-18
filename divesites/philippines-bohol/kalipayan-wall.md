@@ -57,4 +57,4 @@ Access by banca from Alona Beach (4-5 minutes) or by swimming directly from the 
 An easy, sheltered site. If diving the outer deeper section, watch depth carefully — the wall continues past the typical recreational upper section. Do not rest on the sand or touch the bottom — cryptic species may be present. Watch for sea urchins on the wall.
 
 ---
-*Sources: [Tropical Divers Alona - Dive Sites](https://tropicaldivers-alona.com/en/divesites), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-06-25.*
+*Sources: [Tropical Divers Alona - Dive Sites](https://tropicaldivers-alona.com/en/divesites), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Re-audited 2026-08-18 against current versions of all three sources; 30m max depth and marine life list both reconfirmed, no corrections required. Last updated 2026-08-18.*

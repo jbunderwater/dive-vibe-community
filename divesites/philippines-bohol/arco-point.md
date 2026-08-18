@@ -21,7 +21,7 @@ Arco Point, also known as the "Hole in the Wall," is located at Libaong on Pangl
 
 The tunnel entrance is in the shallow reef at approximately 8-9 meters. The passage descends through the reef, with thousands of sweeper fish and cardinal fish parting as you pass through, before exiting on the lower reef wall at around 18 meters. The exit is the deeper end — looking back up through the hole from 18 meters, the arch frames the sunlit shallower reef above. This is the correct orientation: enter shallow, exit deep.
 
-The surrounding reef is a productive macro site. SM Divers describes it as "relatively sheltered" with a "slow pace" ideal for macro hunting. Conditions are calm with mild currents.
+The surrounding reef is a productive macro site. SM Divers describes it as "relatively sheltered" with a "slow pace" ideal for macro hunting. Conditions are calm with mild currents. Cuttlefish, octopuses, and sponge crabs are also confirmed here (SM Divers), and out in the blue a school of batfish, Napoleon wrasse, and stingrays are reported on most dives (Adrenaline Romance).
 
 ## Site Information
 
@@ -37,7 +37,7 @@ The surrounding reef is a productive macro site. SM Divers describes it as "rela
 
 ## Marine Life
 
-Inside the swim-through: sweeper fish and cardinal fish swarm the passage; yellow-edged morays, snowflake morays, and ribbon eels shelter in crevices on the tunnel walls. On the surrounding reef: painted frogfish, warty frogfish, nudibranchs (Chromodoris, Flabellina), banded sea kraits, and groupers. Triggerfish and wrasses are common on the outer reef. Blue-ring octopus is occasionally reported but not confirmed as a regular sighting.
+Inside the swim-through: sweeper fish and cardinal fish swarm the passage; yellow-edged morays, snowflake morays, and ribbon eels shelter in crevices on the tunnel walls. On the surrounding reef: painted frogfish, warty frogfish, nudibranchs (Chromodoris, Flabellina), banded sea kraits, cuttlefish, octopuses, sponge crabs, and groupers. Triggerfish and wrasses are common on the outer reef, and a school of batfish, Napoleon wrasse, and stingrays are reported in open water on most dives. Blue-ring octopus is occasionally reported but not confirmed as a regular sighting.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Access by pump boat from Panglao, approximately 14 minutes. Entry by giant strid
 The swim-through is an overhead environment, though it is short and both ends are clearly visible throughout. Maintain good buoyancy inside the passage to avoid contact with the walls. The calm conditions and shallow entry make this one of the most accessible Panglao sites. The swim-through is optional — divers uncomfortable with overhead environments can dive the surrounding reef.
 
 ---
-*Sources: [SM Divers Bohol - Complete Guide to Arco Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-arco-point/), [Alona Divers - Panglao Arco Point](https://www.alonadivers.com/panglao-arco-point), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Complete Guide to Arco Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-arco-point/), [Alona Divers - Panglao Arco Point](https://www.alonadivers.com/panglao-arco-point), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/), [Adrenaline Romance - Arco Point](https://adrenalineromance.com/2017/05/02/arco-point-in-panglao-the-blue-hole-in-a-living-wall/). Re-audited 2026-08-18: entrance/exit orientation reconfirmed by two independent sources; cuttlefish, octopuses, sponge crabs, batfish, Napoleon wrasse, and stingrays added as newly confirmed. Last updated 2026-08-18.*

@@ -19,9 +19,9 @@ Also known as Cervera Shoal or Spaghetti Reef — a submerged seamount approxima
 
 Snake Island — officially Cervera Shoal, also nicknamed Spaghetti Reef — is a sunken plateau located approximately 9 kilometres southeast of Alona Beach, between Panglao and Pamilacan Island. The shoal is rated Advanced by multiple operators including SM Divers (who describe it as "not a site for absolute beginners" and a "thrilling, fast-paced drift dive") and Valm Divers (Advanced rating). The site is not dived every day due to unpredictable strong currents.
 
-The plateau top sits at 12-15 meters below the surface before dropping into much deeper water, easily exceeding 60 meters at the drop-offs. The site earned its name from the large population of black-and-white banded sea kraits (Laticauda colubrina) that inhabit the reef — on good days, dozens are visible slithering over the coral and sandbar. White-eyed morays and starry morays are consistently present. Nudibranchs and macro subjects occupy the bucket sponges and rubble patches.
+The plateau top sits at 12-15 meters below the surface before dropping into much deeper water, easily exceeding 60 meters at the drop-offs. The site earned its name from the large population of black-and-white banded sea kraits (Laticauda colubrina) that inhabit the reef — on good days, dozens are visible slithering over the coral and sandbar. White-eyed morays and starry morays are consistently present. Nudibranchs and macro subjects occupy the bucket sponges and rubble patches. Dive Scotty notes that the reef has recovered substantially from historical dynamite-fishing damage, with increased diver activity over the years correlating with the recovery.
 
-The shoal is commonly dived as a second dive on a Pamilacan Island day trip.
+The shoal is commonly dived as a second dive on a Pamilacan Island day trip. Whale sharks and manta rays are occasionally reported by SM Divers, but this is a single-source claim and not a guaranteed or regular encounter.
 
 ## Site Information
 
@@ -37,7 +37,7 @@ The shoal is commonly dived as a second dive on a Pamilacan Island day trip.
 
 ## Marine Life
 
-Black-and-white banded sea kraits (Laticauda colubrina) are the defining feature — dozens visible on good days. White-eyed morays and starry morays shelter in the reef. Nudibranchs on coral surfaces and bucket sponges. Reef fish on the recovered coral formations. Larger pelagics (sharks, dolphins) are occasionally reported but not confirmed as regular encounters.
+Black-and-white banded sea kraits (Laticauda colubrina) are the defining feature — dozens visible on good days. White-eyed morays and starry morays shelter in the reef. Nudibranchs on coral surfaces and bucket sponges. Reef fish on the recovered coral formations. Larger pelagics — sharks and dolphins — are occasionally reported but not confirmed as regular encounters; whale sharks and manta rays are also occasionally reported by a single source (SM Divers) and should not be treated as expected sightings.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Access by pump boat from Panglao, approximately 30 minutes. Often combined as a 
 
 ## Safety Considerations
 
-Strong sweeping currents make this an Advanced-rated site regardless of the shallow plateau depth. SM Divers explicitly rates this for advanced guests comfortable with drift conditions only. The open-water location with no visual reference from shore increases navigation difficulty. Banded sea kraits are venomous — do not provoke. Follow the guide's abort-dive decision if currents are unsafe.
+Strong sweeping currents make this an Advanced-rated site regardless of the shallow plateau depth. SM Divers explicitly rates this for advanced guests comfortable with drift conditions only. The open-water location with no visual reference from shore increases navigation difficulty. Banded sea kraits are venomous — do not provoke. Sea urchins are dense at the plateau top; maintain careful buoyancy on descent and ascent to avoid contact. Follow the guide's abort-dive decision if currents are unsafe.
 
 ---
-*Sources: [SM Divers Bohol - Cervera Shoal](https://www.smdiversbohol.com/cervera-shoal-bohols-best-kept-secret-for-sea-snake-encounters/), [Dive Scotty - Cervera Shoal Snake Island](https://www.divescotty.com/scuba-diving/cervera-shoal-snake-island.php), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Cervera Shoal](https://www.smdiversbohol.com/cervera-shoal-bohols-best-kept-secret-for-sea-snake-encounters/), [Dive Scotty - Cervera Shoal Snake Island](https://www.divescotty.com/scuba-diving/cervera-shoal-snake-island.php), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/), [Alona Divers - Pamilacan Island](https://www.alonadivers.com/pamilacan-island). Re-audited 2026-08-18 against current versions of all three original sources plus divescotty.com's dedicated Cervera Shoal page; added sea urchin hazard (Alona Divers), historical reef-recovery context (Dive Scotty), and a hedged whale shark/manta ray mention (SM Divers). Last updated 2026-08-18.*

@@ -58,4 +58,4 @@ Strong currents are the primary hazard at Beatrice Rock. Advanced diving experie
 Beatrice Rock rewards both macro and wide-angle setups. The anthias clouds in the current on the upper reef are outstanding wide-angle subjects. Large barrel sponges provide classic tropical reef-scape compositions. Macro subjects include nudibranchs, frogfish, and lionfish across the coral surface. Blue-ringed octopus in crevices are a macro highlight for patient photographers.
 
 ---
-*Sources: [Asia Dive Site – Beatrice Rock](https://asiadivesite.com/philippines-dive-sites/anilao/beatrice-rock.php), [Solitude World – Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/). Last updated 2026-06-25.*
+*Sources: [Asia Dive Site – Beatrice Rock](https://asiadivesite.com/philippines-dive-sites/anilao/beatrice-rock.php), [Solitude World – Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/). Last updated 2026-08-18.*

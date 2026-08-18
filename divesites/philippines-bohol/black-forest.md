@@ -19,9 +19,9 @@ One of the most celebrated dive sites at Balicasag Island, named for its dense f
 
 Black Forest is located on the northeast side of Balicasag Island, a small, nearly perfectly circular island about 30 minutes by boat from Alona Beach on Panglao Island. Declared a marine sanctuary in 1985, Balicasag's reefs have benefited from decades of active protection, and Black Forest draws divers for its schooling pelagics and dramatic black coral forest at depth.
 
-The site features a steep slope dropping from coral heads at 8 meters to depths exceeding 40 meters. The name comes from the dense growth of black coral (Antipathes) found at 35-45 meters — the coral is green in its living state, with the distinctive black colour visible only in the internal skeleton. The upper slope between 15-30 meters is where schooling jackfish and blackfin barracuda concentrate; gorgonian sea fans, wrasses, and anthias populate the reef face throughout.
+The site features a steep slope dropping from coral heads at 8 meters to depths exceeding 40 meters. The name comes from the dense growth of black coral (Antipathes) found at 35-45 meters — the coral is green in its living state, with the distinctive black colour visible only in the internal skeleton. The upper slope between 15-30 meters is where schooling jackfish and blackfin barracuda concentrate; gorgonian sea fans, wrasses, and anthias populate the reef face throughout. Rockcod, squirrelfish, damselfish, anemonefish, and parrotfish are also confirmed residents of the shallower coral heads.
 
-Strong and variable currents are the defining hazard at Black Forest. SM Divers, the local specialist operator, rates this site as requiring "strong current experience and excellent buoyancy control" — it is not suitable for newly certified divers.
+Strong and variable currents are the defining hazard at Black Forest. SM Divers, the local specialist operator, rates this site as requiring "strong current experience and excellent buoyancy control" — it is not suitable for newly certified divers. Alona Divers describes the dive typically starting against the current over a sandy bottom before the current shifts, turning the second half of the dive into a drift.
 
 ## Site Information
 
@@ -37,7 +37,7 @@ Strong and variable currents are the defining hazard at Black Forest. SM Divers,
 
 ## Marine Life
 
-Schools of jackfish (big-eyed trevally) and blackfin barracuda are the headline species, regularly encountered along the upper slope between 15-30 meters. Anthias cloud the reef face. Wrasses, snappers, triggerfish, surgeonfish, and parrotfish are common residents. Sea turtles are encountered throughout Balicasag and are seen at this site. Scorpionfish and groupers shelter in the coral structure. The black coral forest at 35-45 meters is only accessible to divers with deep certification and careful gas planning; at that depth it hosts small invertebrates among the Antipathes branches.
+Schools of jackfish (big-eyed trevally) and blackfin barracuda are the headline species, regularly encountered along the upper slope between 15-30 meters. Anthias cloud the reef face. Wrasses, snappers, triggerfish, surgeonfish, and parrotfish are common residents, along with rockcod, squirrelfish, damselfish, and anemonefish on the shallower coral heads. Sea turtles are occasionally encountered at the site. Scorpionfish and groupers shelter in the coral structure. The black coral forest at 35-45 meters is only accessible to divers with deep certification and careful gas planning; at that depth it hosts small invertebrates among the Antipathes branches.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Access by dive boat from Panglao Island (Alona Beach area), approximately 30 min
 Currents can be strong and change during the dive, making drift diving experience essential. The steep slope makes depth management critical. SM Divers specifically cites this site as requiring excellent buoyancy control and current experience. The 40-meter maximum depth demands careful gas planning. Do not follow the black coral forest deeper than your planned limit.
 
 ---
-*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers - Balicasag Island](https://www.alonadivers.com/balicasag-island), [Live Life the Philippines - Balicasag Island Diving Guide](https://livelifethephilippines.com/posts-dive-visayas/balicasag/balicasag-island-divers-guide.html). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers - Balicasag Island](https://www.alonadivers.com/balicasag-island), [Live Life the Philippines - Balicasag Island Diving Guide](https://livelifethephilippines.com/posts-dive-visayas/balicasag/balicasag-island-divers-guide.html). Re-audited 2026-08-18 against current versions of all three sources; no factual corrections required, marine life list expanded with newly confirmed species. Last updated 2026-08-18.*

@@ -19,7 +19,9 @@ The protected core of Balicasag Island's marine reserve, established in 1985. Kn
 
 The Marine Sanctuary occupies the most heavily protected zone of Balicasag Island's Marine Protected Area (MPA), established in 1985. The site features a wall with caverns and overhangs that begins just 3 meters below the surface and drops to approximately 35 meters.
 
-The site is known for its resident populations of green and hawksbill sea turtles, which are regularly seen throughout the dive. Schools of jackfish (big-eyed trevally) and barracuda patrol the deeper sections. The shallow coral gardens beginning at 3 meters make this the most beginner-accessible site on Balicasag, with calm conditions in the protected zone. Surgeonfish, lionfish, triggerfish, and butterflyfish are commonly observed reef residents.
+The site is known for its resident populations of green and hawksbill sea turtles, which are regularly seen throughout the dive. Schools of jackfish (big-eyed trevally), bluefin trevally, and barracuda patrol the deeper sections. The shallow coral gardens beginning at 3 meters make this the most beginner-accessible site on Balicasag, with calm conditions in the protected zone. Surgeonfish, lionfish, triggerfish, midnight snapper, and moray eels are commonly observed reef residents, and giant clams are a notable feature of the sanctuary.
+
+Sources disagree on the site's maximum depth: Alona Divers Club lists 3-35 meters, SM Divers lists 5-25 meters, and Dive Scotty describes a plateau at 6-18 meters before the wall drops away. The 35-meter figure is retained here as the deepest confirmed reading, but divers should expect the wall's practical depth to vary by operator and route.
 
 ## Site Information
 
@@ -35,7 +37,7 @@ The site is known for its resident populations of green and hawksbill sea turtle
 
 ## Marine Life
 
-Green sea turtles and hawksbill turtles are regularly encountered throughout the dive. Schools of jackfish (big-eyed trevally) and barracuda patrol the deeper sections. Surgeonfish, lionfish, and triggerfish are confirmed resident species. Clownfish in anemones, butterflyfish, and parrotfish inhabit the reef structure. The shallow coral gardens from 3-15 meters support high reef fish diversity.
+Green sea turtles and hawksbill turtles are regularly encountered throughout the dive. Schools of jackfish (big-eyed trevally), bluefin trevally, and barracuda patrol the deeper sections. Surgeonfish, lionfish, triggerfish, midnight snapper, needlefish, and banana nudibranchs are confirmed resident species. Moray and other eels shelter in the wall's ledges and overhangs, and giant clams are found in the shallows. The shallow coral gardens from 3-15 meters support high reef fish diversity.
 
 ## Dive Profile
 
@@ -57,4 +59,4 @@ Access by dive boat from Panglao Island (Alona Beach area), approximately 30 min
 The protected sanctuary zone generally has calmer conditions than exposed Balicasag sites. The wall drops to 35 meters — beginners should stay in the shallows and watch depth closely near the wall edge. The 150-diver daily limit requires advance booking.
 
 ---
-*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers Club - Balicasag](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Dive Scotty - Balicasag Marine Sanctuary](https://www.divescotty.com/scuba-diving/balicasag-island-marine-sanctuary.php). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers Club - Balicasag](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Dive Scotty - Balicasag Marine Sanctuary](https://www.divescotty.com/scuba-diving/balicasag-island-marine-sanctuary.php). Re-audited 2026-08-18: clownfish, butterflyfish, and parrotfish were removed as they are no longer confirmed by any of the three cited sources; giant clams, moray eels, bluefin trevally, midnight snapper, needlefish, and banana nudibranch were added as newly confirmed. Last updated 2026-08-18.*
