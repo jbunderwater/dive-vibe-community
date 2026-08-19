@@ -3,9 +3,9 @@ name: Bikanayos Rock
 lat: 11.1439916
 lng: 119.2781609
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 24
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 9865495623
 addedBy: osm_import
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Bikanayos Rock
 
-Bikanayos Rock is a wall dive site in Philippines Palawan, Asia.
+Also listed as Pacanayas or Picanayas, this is a coral-covered reef site on the western side of Matinloc Island.
 
 ## Overview
 
-Bikanayos Rock (locally known as Picanayas) sits on the western face of Matinloc Island in El Nido, where huge boulders create natural corridors and swim-throughs that whitetip reef sharks use as resting spots. Nutrient-rich currents sweeping past the exposed rock draw barracuda, trevally, and other pelagics, making this one of the best sites on Matinloc for an encounter with larger open-water species.
+Two independent dive-shop listings describe this site as a reef rather than a wall: one (aquanautelnido.com) calls it "a circular reef, offering a lush garden of corals, such as table coral and Daisy coral" at 6-24 meters under moderate-to-strong current; another (elnidoparadise.com) lists it as a "submerged reef" at 8-15 meters. A third source (puertoparrot.com) independently confirms the site under the name "Pacanayas (Bicanayos Rock)" as a distinct, mapped location in the same stretch of Matinloc's coastline. Based on this, the site type has been corrected from wall to reef.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Western Matinloc Island, El Nido, Philippines Palawan, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 24 meters
 
 ## Marine Life
 
-Bikanayos Rock is El Nido's best site for whitetip reef shark encounters, with the boulders' natural corridors and swim-throughs serving as regular resting spots where sharks can be observed closely at close range. Nutrient-rich currents sweeping past the exposed western face draw schooling barracuda, giant trevally, and mackerel that congregate in the eddy zones around the rock. Napoleon wrasse and hawksbill turtles are routine sightings on the surrounding reef structure.
+Confirmed by dive-shop listings: table coral and daisy coral gardens under a moderate-to-strong current (aquanautelnido.com). Earlier drafts of this page described whitetip reef sharks and Napoleon wrasse as regular sightings here; this research pass could not independently confirm those species for this specific site, so those claims have been removed. The current-swept boulder terrain and location make pelagic and shark visits plausible, but unconfirmed reports should not be presented as fact.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Sources: [Aquanaut Dive Center — Dive Sites](https://www.aquanautelnido.com/dive-sites/general-information/), [El Nido Paradise — Dive Sites](https://www.elnidoparadise.com/diving-el-nido/dive-sites/), [PuertoParrot — El Nido Dive Sites](https://www.puertoparrot.com/dive-sites/el-nido). Last updated 2026-08-19.*

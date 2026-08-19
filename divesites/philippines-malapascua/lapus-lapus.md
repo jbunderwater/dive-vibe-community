@@ -13,23 +13,42 @@ addedBy: osm_import
 
 ## Lapus-Lapus
 
-Lapus-Lapus is a pinnacle dive site in Philippines Malapascua, Asia.
+Lapus-Lapus is a shallow, low-current pinnacle off northwest Malapascua Island, its coral-covered top a magnet for schooling fish and a relaxed dive suitable for all certification levels.
 
 ## Overview
 
-Lapus-Lapus is a submerged pinnacle rising from the sandy channel between Malapascua and Gato Island, its peak reaching to about 8 meters below the surface. The top of the pinnacle is blanketed with hard corals and acts as a congregation point for schooling fish — fusiliers, jacks, and barracuda orbit the structure while blue-spotted ribbontail rays rest in the sand skirt around the base at 18 meters. Current can be brisk across the exposed pinnacle, which keeps the corals in excellent condition and encourages pelagic visitors to hang in the blue.
+Lapus-Lapus rises from the sandy channel off Malapascua's northwest side, reaching to within a few meters of the surface with a maximum depth of about 18 meters and low current — independent sources describe it as suitable for divers of all levels. The pinnacle top is covered in coral and rock formations that concentrate marine life in a small area.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Northwest Malapascua Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
+- **Current**: Low
 
 ## Marine Life
 
-Lapus-Lapus pinnacle acts as a congregation point, with schooling fusiliers, big-eye jacks, and barracuda orbiting the structure and blue-spotted ribbontail rays resting on the surrounding sand at 18 meters. Hawksbill turtles are commonly seen grazing on the hard coral-covered summit, and the current-polished surfaces harbour small nudibranchs and flatworms for macro-minded divers. When current is running across the exposed pinnacle, grey reef sharks occasionally appear in the blue at the edge of visibility.
+Confirmed by multiple independent sources: frogfish, mantis shrimp, cuttlefish, nudibranchs, and blue-spotted ribbontail rays resting in the sand around the base. Schooling fusiliers and jacks are also reported orbiting the structure.
+
+## Dive Profile
+
+The full depth range can be covered comfortably within a single dive given the low current and 18-meter maximum. Circle the pinnacle slowly, checking the coral top for frogfish and mantis shrimp and the sand skirt for resting rays.
+
+## Entry and Exit
+
+Short banca ride from Malapascua Island resorts. Entry by giant stride; return to the boat by ladder.
+
+## Tips and Recommendations
+
+- A relaxed, low-current site — good for a second or third dive of the day
+- Bring both macro (frogfish, nudibranchs) and a compact wide-angle for the schooling fish
+- Check the sand skirt around the base for blue-spotted ribbontail rays
+
+## Safety Considerations
+
+Shallow depth and low current make this a low-risk dive suitable for less experienced divers. Standard boat-diving precautions apply.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua's Thresher Shark Divers](https://malapascua-diving.com/malapascua/dive-sites/), [Ocean Vida — Dive Sites Around Malapascua](https://ocean-vida.com/diving/dive-sites/), [Malapascua Exotic Island Dive Resort](https://www.malapascua.net/diving/dive-sites.html). Last updated 2026-08-19.*

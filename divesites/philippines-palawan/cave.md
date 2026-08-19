@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Cave
 
-Cave is a cave dive site in Philippines Palawan, Asia.
+Referenced by dive shops as the Tapiutan site near Matinloc Island, this El Nido dive features boulders, swim-throughs, and small natural caverns.
 
 ## Overview
 
-This El Nido cave dive on Matinloc Island draws advanced divers into natural limestone passages and chambers carved into the karst cliffs that define the area's dramatic above-water scenery. The dive descends to 30 meters through natural passages requiring proper cave or cavern certification, and the low-light interior shelters crustaceans and reef fish that have adapted to the reduced-light environment of the cavern walls.
+This site, at the edge of Bacuit Bay near Matinloc and Tapiutan islands, is built around large boulders believed to have resulted from ancient cliffside collapses, creating swim-throughs and small caverns rather than a single enclosed cave system (palawan-divers.org). Because it faces the open sea, it isn't always accessible — high winds and swells can rule it out, and operators typically run it only November to May. Sources disagree on both its depth and difficulty: one operator (elnidoparadise.com) lists it as a 10-24 meter "rocks and arches" dive suitable for all levels, while another (palawan-divers.org) describes a 30-meter boulder-and-cavern dive with mild current. Given the overhead sections and swim-throughs involved, this page treats it as an advanced-level dive pending further confirmation, and divers should verify conditions and required certification directly with their operator.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Tapiutan area, near Matinloc Island, El Nido, Philippines Palawan, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
@@ -29,7 +29,7 @@ This El Nido cave dive on Matinloc Island draws advanced divers into natural lim
 
 ## Marine Life
 
-The limestone passages of this El Nido cave shelter species adapted to low-light conditions: banded coral shrimp, spiny lobsters, and small grouper occupy the cavern walls and chambers. The outer reef adjacent to the cave entrance down to 30 meters carries typical Palawan reef fauna including reef sharks, hawksbill turtles, and schools of snappers and fusiliers. Crevices in the karst substrate are productive for nudibranchs and small macro subjects for divers exploring the transition zone between cave and open reef.
+Confirmed at this site: green and hawksbill turtles, barracuda, pufferfish, crocodile fish, and occasional blacktip reef sharks (palawan-divers.org). Visibility is reported as variable, 5-30 meters. No other species have been independently confirmed for this specific site.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Sources: [Palawan Divers — Tapiutan Site](https://www.palawan-divers.org/tapiutan-site-dive-into-hidden-caverns-and-boulders-in-el-nido/), [El Nido Paradise — Dive Sites](https://www.elnidoparadise.com/diving-el-nido/dive-sites/), [PuertoParrot — El Nido Dive Sites](https://www.puertoparrot.com/dive-sites/el-nido). Last updated 2026-08-19.*

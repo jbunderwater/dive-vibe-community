@@ -59,4 +59,4 @@ Standard Anilao conditions apply. Light current at this site. Deploy SMB before 
 The twin rock structure provides compositional variety for both wide-angle and macro shooting. The interplay of light in the gap between the rocks creates interesting ambient-light conditions. Macro subjects on the rock faces and in the sheltered gap are the highlights.
 
 ---
-*Sources: [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Wannadive – Twin Rocks Anilao](https://wannadive.net), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-06-25.*
+*Sources: [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Wannadive – Twin Rocks Anilao](https://wannadive.net), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-08-19 (re-audited, sources re-confirmed).*

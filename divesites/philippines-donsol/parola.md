@@ -56,4 +56,4 @@ Moderate to strong currents require solid buoyancy control and current-diving ex
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Island Hopping in the Philippines — San Miguel Island dive sites](https://islandhoppinginthephilippines.com/visayas/faq/diving-ticao-pass-masbate/). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Philippine Dives — Donsol Dive Guide](https://philippinedives.com/dive-guide/donsol/). The previously-cited islandhoppinginthephilippines.com page was re-checked and does not actually name this site (thin FAQ content); dropped. Only 2 independent sources found despite an extensive additional search — does not meet the 3-source verification bar (see QA notes). Last updated 2026-08-19.*

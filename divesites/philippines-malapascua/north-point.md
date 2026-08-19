@@ -2,10 +2,10 @@
 name: North Point
 lat: 11.3467707
 lng: 124.1056477
-difficulty: Advanced
-maxDepth: 35
+difficulty: Intermediate
+maxDepth: 27
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: 4941394887
 addedBy: osm_import
@@ -13,50 +13,44 @@ addedBy: osm_import
 
 ## North Point
 
-North Point is an advanced pinnacle dive on the northern tip of Malapascua Island, where the confluence of currents from the Visayan Sea creates one of the more dynamic diving experiences in the area and regularly attracts pelagic species.
+North Point is a current-swept reef and coral garden off the northern tip of Malapascua Island, valued more for its macro life — frogfish, nudibranchs, and scorpionfish tucked into the coral — than for the big pelagic action sometimes claimed for it.
 
 ## Overview
 
-The northern point of Malapascua Island is exposed to open ocean conditions from the Visayan Sea, making it a significantly more challenging site than the sheltered reefs on the island's leeward sides. The pinnacle structure here drops from the surface to 35 meters, with the upper sections heavily encrusted with soft corals, sea fans, and hard coral formations that thrive in the current-swept environment. The exposure to open-sea currents is the site's defining characteristic — when currents are running, fish life concentrates dramatically along the pinnacle faces, creating spectacular schooling fish displays. The deeper sections at 25–35 meters are where the most impressive pelagic activity occurs, making this primarily a destination for experienced divers with strong buoyancy control.
+North Point sits on the exposed northern side of Malapascua, where the site's sandy-and-coral terrain undulates across a depth range that independent operator sources put at roughly 6–27 meters, with large coral heads and coral gardens rather than a single freestanding pinnacle structure. Current is variable and can be strong, tending to change direction around the coral formations. Multiple local operators list this as suitable for Open Water certified divers and above, not as an advanced-only pelagic dive — no source found documents hammerhead sharks, dogtooth tuna, or resident whitetip reef sharks at this specific site, so those claims from an earlier description have been removed.
 
 ## Site Information
 
 - **Location**: Northern tip of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-25 meters
-- **Current**: Often strong; north-facing open ocean exposure
-- **Best Time**: March to June (typically calmer north-facing conditions)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 27 meters
+- **Current**: Variable, can be strong; direction shifts around coral formations
+- **Best Time**: March to June (typically calmer conditions)
 
 ## Marine Life
 
-When current is running at North Point, the site delivers exceptional fish life. Large schools of barracuda and jacks circle the pinnacle. Whitetip reef sharks are resident and frequently seen resting under ledges. Hammerhead sharks occasionally appear in the deeper water below the pinnacle. Dogtooth tuna and other open-ocean predators hunt around the current-exposed tip. Sea snakes are common in the area.
+Frogfish are a consistent sighting on the coral formations. Nudibranchs and numerous crabs are reported throughout, along with scorpionfish, soft coral growth, and seahorses. Shrimp species are noted as particularly visible on night dives here.
 
 ## Dive Profile
 
-Current management is the key skill at North Point. Descend quickly to the planned depth and position yourself on the sheltered side of the pinnacle. When current is strong, use the pinnacle as a reference to hold position and observe fish activity on the current-facing side. The working depth of 25–35 meters limits bottom time — plan carefully and ascend conservatively. The shallow sections above 15 meters allow time to equalise air before the safety stop.
+Because the site undulates and current direction can shift around the coral heads, plan the dive around your guide's read of conditions on the day rather than a fixed route. The site's macro life rewards slow, close-focus exploration of the coral heads rather than mid-water scanning for pelagics.
 
 ## Entry and Exit
 
-Accessible by banca from Malapascua. Conditions should be assessed before committing to this site — strong surface swells or unpredictable current may warrant diving an alternative site. Entry by negative descent; SMB essential for ascent when current is running.
+Accessible by banca from Malapascua, roughly 10 minutes from the resorts. Entry by giant stride; return to the boat by ladder. Deploy an SMB before ascending given the variable current.
 
 ## Tips and Recommendations
 
-- Only attempt North Point on days when your guide confirms conditions are appropriate
-- The strongest currents produce the best fish action — but require advanced current management skills
-- A reef hook is useful for resting while observing schooling fish without affecting the reef
-- The deeper sections are where the most impressive activity occurs; plan your dive to spend time at 25–35 meters
-- This is one of the few Malapascua sites where hammerhead sightings occur regularly, though not on every dive
+- Suitable for Open Water certified divers and above — this is not an advanced-only site
+- Bring a macro lens; the frogfish, nudibranchs, and crab life are the highlight here
+- A night dive at North Point turns up more shrimp activity, per local operators
+- Current can shift direction around the coral formations, so stay close to your guide
 
 ## Safety Considerations
 
-Advanced currents, 35-meter depth, and open-ocean exposure make this a genuinely demanding dive. Only experienced divers with strong buoyancy control and current diving skills should attempt North Point. Dive with an experienced local guide. Always carry an SMB. Conditions can change rapidly at this exposed northern point.
-
-## Photography
-
-The strong current brings dramatic fish schooling scenes that are exceptional photographic subjects. Wide-angle shooting of barracuda and jack schools against the pinnacle face is the highlight. Shark portraits in the deeper sections are possible on days when the large animals are present and approachable.
+Current can be strong and can change direction with little warning around the reef structures. Deploy an SMB for the ascent. Depths to 27 meters require standard no-decompression limit management.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Kokay's Malapascua Diving — North Point](https://kokaysmalditodiveresort.com/diving-malapascua-cebu-philippines/thresher-shark-diving/north-point/), [Malapascua Exotic Island Dive Resort](https://www.malapascua.net/diving/dive-sites.html), [Malapascua's Thresher Shark Divers](https://malapascua-diving.com/malapascua/dive-sites/). Last updated 2026-08-19.*

@@ -32,7 +32,7 @@ Sombrero Island sits in the Tingloy area of the Anilao region, its distinctive p
 
 ## Marine Life
 
-Sombrero Island supports a diverse reef community. Eagle rays, mantas, and sea turtles are frequently spotted. Whitetip reef sharks patrol the boulders and drop-offs. The staghorn gardens in the shallower sections are dense with damselfish, wrasse, surgeonfish, snapper, and grunts. The gorgonian-covered wall sections harbour nudibranchs and clownfish in anemones. During strong-current dives, schools of jacks sweep past the wall. Blue-ringed octopus have been sighted at the site. Pygmy seahorses are reported in the gorgonians by some sources, though this is not consistently documented.
+Sombrero Island supports a diverse reef community. Scuba Diver Life confirms eagle rays, mantas, and sea turtles are "seen here frequently" at this specific site. The staghorn gardens in the shallower sections are dense with damselfish, wrasse, surgeonfish, snapper, and grunts, and the reef in general hosts hard and soft corals, sponges, gorgonians, and crinoids. The gorgonian-covered wall sections harbour nudibranchs and clownfish in anemones. During strong-current dives, schools of jacks sweep past the wall. Blue-ringed octopus have been sighted at the site. Note: whitetip reef sharks, previously listed here, are well documented at other current-swept Anilao sites (Mainit Point, Dive & Trek) but were not confirmed specifically at Sombrero Island in any source checked — removed pending site-specific confirmation. Pygmy seahorses are reported in the gorgonians by some sources, though this is not consistently documented.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Access by banca from Anilao-area resorts. Entry by giant stride. Deploy SMB duri
 Current exposure is the primary safety consideration. Strong currents during full-moon periods require drift diving experience. Always carry an SMB and deploy it well before surfacing — the island perimeter means the boat cannot anchor directly overhead. Experienced guide briefing on current direction is essential.
 
 ---
-*Sources: [Scuba Diver Life – Sombrero](https://scubadiverlife.com/dive-site-sombrero-anilao-philippines/), [Underwater Asia – Anilao Diving Guide](https://underwaterasia.info/philippines/anilao-diving), [Solitude World – Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/). Last updated 2026-06-25.*
+*Sources: [Scuba Diver Life – Sombrero](https://scubadiverlife.com/dive-site-sombrero-anilao-philippines/), [Underwater Asia – Anilao Diving Guide](https://underwaterasia.info/philippines/anilao-diving), [Solitude World – Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/). Last updated 2026-08-19.*

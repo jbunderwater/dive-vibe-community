@@ -37,7 +37,7 @@ The shoal is commonly dived as a second dive on a Pamilacan Island day trip.
 
 ## Marine Life
 
-Black-and-white banded sea kraits (Laticauda colubrina) are the defining feature — dozens visible on good days. White-eyed morays and starry morays shelter in the reef. Nudibranchs on coral surfaces and bucket sponges. Reef fish on the recovered coral formations. Larger pelagics (sharks, dolphins) are occasionally reported but not confirmed as regular encounters.
+Black-and-white banded sea kraits (Laticauda colubrina) are the defining feature — dozens visible on good days. White-eyed morays and starry morays shelter in the reef. Nudibranchs on coral surfaces and bucket sponges. Reef fish on the recovered coral formations. SM Divers' dedicated Cervera Shoal page lists occasional whale sharks and manta rays at this site; Dive Scotty notes "potential sightings of sharks and dolphins." These larger pelagics are mentioned by name here because a site-specific source confirms them, but they are not guaranteed or regular encounters — most dives will not see them.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Access by pump boat from Panglao, approximately 30 minutes. Often combined as a 
 Strong sweeping currents make this an Advanced-rated site regardless of the shallow plateau depth. SM Divers explicitly rates this for advanced guests comfortable with drift conditions only. The open-water location with no visual reference from shore increases navigation difficulty. Banded sea kraits are venomous — do not provoke. Follow the guide's abort-dive decision if currents are unsafe.
 
 ---
-*Sources: [SM Divers Bohol - Cervera Shoal](https://www.smdiversbohol.com/cervera-shoal-bohols-best-kept-secret-for-sea-snake-encounters/), [Dive Scotty - Cervera Shoal Snake Island](https://www.divescotty.com/scuba-diving/cervera-shoal-snake-island.php), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Cervera Shoal](https://www.smdiversbohol.com/cervera-shoal-bohols-best-kept-secret-for-sea-snake-encounters/), [Dive Scotty - Cervera Shoal Snake Island](https://www.divescotty.com/scuba-diving/cervera-shoal-snake-island.php), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/). Last updated 2026-08-19.*

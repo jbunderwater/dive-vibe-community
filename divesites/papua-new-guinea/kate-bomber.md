@@ -32,7 +32,7 @@ The Nakajima B5N2, codenamed "Kate" by the Allies, was the torpedo bomber that s
 
 ## Marine Life
 
-Decades of coral colonization have turned the Kate into a small artificial reef. Hard and soft corals encrust the wings and fuselage. Anemones with clownfish have established on various surfaces. Small reef fish -- damselfish, wrasse, and gobies -- shelter around the airframe. The surrounding reef hosts the typical Kavieng assemblage of tropical species.
+Michael McFadyen's site account -- the primary source for this wreck -- does not document specific marine life at the Kate Bomber. No species are attributed to this site in available sources; the destination's regional reef fauna (typical of shallow Kavieng reef sites) likely applies, but this has not been confirmed through a site-specific report.
 
 ## Dive Profile
 
@@ -40,11 +40,11 @@ The longer boat ride (approximately 33 km from Nusa Resort) is rewarded by an ex
 
 ## Entry and Exit
 
-Access is by dive boat from Nusa Island Resort, a longer ride of approximately 40 minutes west to Anelaua Island. Entry is by giant stride into typically calm water. The site is sheltered by the island. Surface near your descent point and signal the boat.
+Access is by dive boat from Nusa Island Resort -- a long ride west to Anelaua Island; McFadyen's account records roughly 55 minutes at speed for the 32.9 km transit, though this varies by boat and conditions. Entry is by giant stride into typically calm water. The site is sheltered by the island. Surface near your descent point and signal the boat.
 
 ## Tips and Recommendations
 
-- Allow extra time for the boat journey -- this site is farther from Nusa Resort than most Kavieng dives
+- Allow extra time for the boat journey -- at roughly 33 km / ~55 minutes each way, this site is farther from Nusa Resort than most Kavieng dives
 - The extended flaps and dead engine are the key forensic details that tell the story of this aircraft's last moments
 - A torch helps illuminate the cockpit interiors where the joystick and oxygen cylinders are visible
 - Despite the "Intermediate" frontmatter rating, the shallow depth and calm conditions make this accessible to beginners
@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, a longer ride of approximately 4
 This is a straightforward shallow dive with no significant hazards. Current is typically negligible at the site. The shallow depth eliminates decompression concerns. Maintain buoyancy control to avoid damaging the coral growth on the airframe. Do not remove any artifacts -- all WWII wrecks in PNG are protected.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=705), [WW2 Wrecks](https://www.ww2wrecks.com/portfolio/nakajima-b5n-kate/), [Wikipedia – Nakajima B5N](https://en.wikipedia.org/wiki/Nakajima_B5N), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=705), [WW2 Wrecks – Nakajima B5N Kate](https://www.ww2wrecks.com/portfolio/nakajima-b5n-kate/), [Wikipedia – Nakajima B5N](https://en.wikipedia.org/wiki/Nakajima_B5N). Last updated 2026-08-19.*

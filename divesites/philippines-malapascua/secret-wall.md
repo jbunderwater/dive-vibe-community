@@ -9,19 +9,21 @@ siteType: wall
 ref: null
 osmId: 4941391020
 addedBy: osm_import
+qa_status: unresolved
+qa_note: "Deep-QA re-audit found no independent source confirming a Malapascua dive site named 'Secret Wall'. Downgraded from validated. Needs human review."
 ---
 
 ## Secret Wall
 
-Secret Wall is a wall dive site in Philippines Malapascua, Asia.
+Secret Wall's existence as a distinctly named Malapascua dive site could not be independently confirmed during this research pass — no dive-shop page, ScubaBoard thread, or dive database was found describing a site by this name here.
 
 ## Overview
 
-Secret Wall is a steep vertical wall on the less-frequented western side of Malapascua, dropping from the shallows down past 30 meters into open water. The wall face is draped with sea fans and soft corals, and its remoteness means it sees less traffic than Gato Island, giving it an uncrowded, raw feel. Strong currents can sweep across the wall and push pelagics close to the edge, making careful drift technique and a late-dive safety stop in the blue essential.
+This entry was carried over from OpenStreetMap data as a wall dive with a 30-meter maximum depth. A deep-QA research pass searched dive-shop listings, ScubaBoard, and dive databases specifically for "Secret Wall" at Malapascua and found no site-specific results — only unrelated pages (rock-climbing routes, hiking trails elsewhere in the world) or generic wall-diving marketing copy with no depth or marine-life specifics attributable to this site. It is possible this is a real but lesser-documented site, an informal name used by a specific operator not indexed by search engines, or a naming/data error. Depth, difficulty, and site type have been left unchanged pending confirmation, since no better-sourced alternative was found.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Malapascua Island, Philippines (site-specific location unconfirmed)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +31,11 @@ Secret Wall is a steep vertical wall on the less-frequented western side of Mala
 
 ## Marine Life
 
-Secret Wall's less-trafficked face is draped in sea fans and soft corals that shelter pygmy seahorses, crinoid-clinging shrimp, and nudibranchs for macro hunters working the wall. Strong currents push grey reef sharks, barracuda, and trevally close to the wall edge, creating pelagic encounters alongside the invertebrate-rich structure. Hawksbill turtles are occasionally seen resting in the sea fan garden during quieter current conditions.
+No site-specific marine-life source was found. A previous version of this description named pygmy seahorses and crinoid-clinging shrimp — these claims could not be verified against any source and have been removed rather than repeated.
+
+## Safety Considerations
+
+Given the unconfirmed depth and conditions, divers should treat any information about this site as unverified and rely on their local operator's current briefing rather than this description.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found despite a dedicated search. Last updated 2026-08-19.*

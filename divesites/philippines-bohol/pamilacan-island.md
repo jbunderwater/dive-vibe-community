@@ -19,7 +19,9 @@ Pamilacan Island offers multiple dive sites — Dakit-Dakit, South Pamilacan, Sp
 
 Pamilacan Island is located approximately 18 kilometres southeast of Panglao Island in the Bohol Sea, requiring a 45-60 minute boat ride from Alona Beach. Part of the Bohol Marine Triangle (BMT) conservation zone, the island offers five distinct dive sites with different characters and difficulty levels. The island is exposed to significant currents on its east and south sides, making drift diving experience essential for the more exposed sites.
 
-The five dive sites span a range: Sanctuary (5-20m, beginner-friendly) and South Pamilacan (5-30m, all levels) offer calmer conditions; Dakit-Dakit (10-25m) and Spanish Tower (10-35m) involve stronger currents and are better suited to experienced divers. Confirmed marine life across the island includes green sea turtles, fusiliers, snappers, jackfish, barracuda, trevally, nudibranchs, frogfish, and pygmy seahorses. Manta rays and eagle rays are noted as occasional visitors at Spanish Tower only, not as regular encounters.
+The five dive sites span a range: Sanctuary (5-20m, beginner-friendly) and South Pamilacan (5-30m, all levels) offer calmer conditions; Spanish Tower (10-35m) is consistently rated Advanced across operators for its stronger, drift-suited currents. Dakit-Dakit's difficulty is disputed between sources — see note below. Confirmed marine life across the island includes green sea turtles, fusiliers, snappers, jackfish, barracuda, trevally, nudibranchs, frogfish, and pygmy seahorses. Manta rays and eagle rays are noted as occasional visitors at Spanish Tower only, not as regular encounters; SM Divers also lists occasional whale sharks at Spanish Tower "during certain times of year," though this is a single-source claim and not a guaranteed sighting.
+
+**Source conflict on Dakit-Dakit:** SM Divers' current listing rates Dakit-Dakit "Beginner to experienced" with "leisurely drift dives," while Valm Divers rates it "Intermediate to advanced (drift diving required)" with "mild to strong current." Sources disagree here rather than one clearly superseding the other — divers should get a current briefing from their operator on the day rather than assuming either rating.
 
 ## Site Information
 
@@ -35,7 +37,7 @@ The five dive sites span a range: Sanctuary (5-20m, beginner-friendly) and South
 
 ## Marine Life
 
-Confirmed across Pamilacan's dive sites: green sea turtles (year-round), fusiliers, snappers, jackfish (Dakit-Dakit), barracuda, trevally, nudibranchs (including the "Pikachu" nudibranch at Spanish Tower), frogfish, pygmy seahorses, pipefish, and garden eels. Stingrays and cuttlefish are seen at the North site. Manta rays and eagle rays are occasionally reported at Spanish Tower but are not guaranteed encounters.
+Confirmed across Pamilacan's dive sites: green sea turtles (year-round), fusiliers, snappers, jackfish (Dakit-Dakit), barracuda, trevally, nudibranchs (including the "Pikachu" nudibranch at Spanish Tower), frogfish, pygmy seahorses, pipefish, and garden eels. Stingrays and cuttlefish are seen at the North site. Manta rays and eagle rays are occasionally reported at Spanish Tower but are not guaranteed encounters. SM Divers additionally lists occasional whale sharks at Spanish Tower "during certain times of year" — a single-source claim, mentioned here as a possibility rather than a confirmed regular encounter.
 
 ## Dive Profile
 
@@ -57,4 +59,4 @@ Access by dive boat from Panglao Island (Alona Beach area), approximately 45-60 
 Moderate to strong currents at exposed sites (Dakit-Dakit, Spanish Tower) can intensify without warning. Drift diving experience and SMB proficiency are essential. The remote location means extended boat time back to shore. Follow the dive guide's current assessment before each dive.
 
 ---
-*Sources: [SM Divers Bohol - Pamilacan Island Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/pamilacan-island-dive-sites/), [Valm Divers Bohol - Pamilacan Island Diving](https://www.valmdiversbohol.com/pamilacan-island-diving/), [Alona Divers - Pamilacan Island](https://www.alonadivers.com/pamilacan-island). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Pamilacan Island Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/pamilacan-island-dive-sites/), [Valm Divers Bohol - Pamilacan Island Diving](https://www.valmdiversbohol.com/pamilacan-island-diving/), [Alona Divers - Pamilacan Island](https://www.alonadivers.com/pamilacan-island). Last updated 2026-08-19.*

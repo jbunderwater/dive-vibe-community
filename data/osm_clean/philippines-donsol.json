@@ -11,8 +11,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "frontiersin.org (doi:10.3389/fmars.2019.00088), scubaboard.com, sharkdivingphilippines.com",
-      "coordinate_source": "Frontiers in Marine Science research paper (Bontod-Tacdogan reef coordinates)"
+      "validation_source": "frontiersin.org, lamave.org, sharkrayareas.org, temoanaexpeditions.com, uwphotographyguide.com, scubaboard.com",
+      "coordinate_source": "Frontiers in Marine Science research paper (Bontod-Tacdogan reef coordinates; confirmed this is the academic name for the Manta Bowl seamount, per Barr & Abelson 2019, doi:10.3389/fmars.2019.00088)",
+      "last_qa_date": "2026-08-19",
+      "qa_note": "2026-08-19 re-audit: corrected an unsupported site-specific whale shark count (see markdown); confirmed frontiersin.org paper is genuinely about this site (Bondot Tacdogan = local name for Manta Bowl)."
     }
   },
   {
@@ -27,8 +29,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "scubaboard.com, divezone.net, uwphotographyguide.com",
-      "coordinate_source": "Geographic midpoint of Ticao Pass between Sorsogon mainland and Ticao Island"
+      "validation_source": "sharkrayareas.org, temoanaexpeditions.com, sharkdivingphilippines.com, scubaboard.com",
+      "coordinate_source": "Geographic midpoint of Ticao Pass between Sorsogon mainland and Ticao Island",
+      "last_qa_date": "2026-08-19",
+      "qa_note": "2026-08-19 re-audit: swapped in sources that directly discuss Ticao Pass diving conditions; divezone.net dropped (page content did not name-check this pass on re-check)."
     }
   },
   {
@@ -43,8 +47,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "seafocus.com, sharkdivingphilippines.com, wikimapia.org",
-      "coordinate_source": "Wikimapia (12.7142164, 123.5940161) confirmed by OSM San Miguel Lighthouse node (12.7171, 123.5897)"
+      "validation_source": "sharkdivingphilippines.com, liveaboard.com, alexinwanderland.com, uwphotographyguide.com",
+      "coordinate_source": "Wikimapia (12.7142164, 123.5940161) confirmed by OSM San Miguel Lighthouse node (12.7171, 123.5897)",
+      "last_qa_date": "2026-08-19",
+      "qa_note": "2026-08-19 re-audit: re-verified marine life/terrain claims directly; seafocus.com and wikimapia.org retained only as coordinate references, not content sources."
     }
   },
   {
@@ -59,8 +65,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "donsolwhaleshark.net, journeyera.com, philatlas.com",
-      "coordinate_source": "PhilAtlas Dancalan barangay coordinates (whale shark interaction center location)"
+      "validation_source": "sharkrayareas.org, journeyera.com, wikipedia.org",
+      "coordinate_source": "PhilAtlas Dancalan barangay coordinates (whale shark interaction center location)",
+      "last_qa_date": "2026-08-19",
+      "qa_note": "2026-08-19 re-audit: NOT A SCUBA DIVE SITE. Confirmed via Wikipedia and WWF/ISRA sources that scuba is prohibited in the Donsol whale shark interaction zone (snorkel only, BIO-monitored). site_type 'snorkel' is not in CLAUDE.md's valid site_type enum (reef/wall/wreck/cave/muck/beach/drift/pinnacle). Flagged for maintainer review re: whether this belongs in a scuba dive site database at all, per CLAUDE.md's no-non-diving-entries rule. Left in place (not deleted) since it already self-identifies as snorkel-only in the markdown and provides useful destination context; markdown content re-confirmed accurate."
     }
   },
   {
@@ -75,8 +83,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com, uwphotographyguide.com",
-      "coordinate_source": "Estimated from San Miguel Island position (east side of island, steep slope facing east)"
+      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com, uwphotographyguide.com, philippinedives.com",
+      "coordinate_source": "Estimated from San Miguel Island position (east side of island, steep slope facing east)",
+      "last_qa_date": "2026-08-19",
+      "qa_note": "2026-08-19 re-audit: added philippinedives.com as a 4th independently-verified source; content re-confirmed accurate."
     }
   },
   {
@@ -91,8 +101,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkdivingphilippines.com, divezone.net",
-      "coordinate_source": "Estimated near Manta Bowl Shoal (sub-site of Manta Bowl atoll area)"
+      "validation_source": "sharkdivingphilippines.com, liveaboard.com",
+      "coordinate_source": "Estimated near Manta Bowl Shoal (sub-site of Manta Bowl atoll area)",
+      "last_qa_date": "2026-08-19",
+      "qa_note": "2026-08-19 re-audit: only 2 independent domains found after extensive search (sharkdivingphilippines.com, liveaboard.com) — swapped out divezone.net (its Donsol page does not name this site). Does NOT meet the 3-source bar; validated left at prior value (true) per QA policy rather than downgraded, since content is corroborated by the 2 sources found and nothing contradicts it. See summary for details."
     }
   },
   {
@@ -107,8 +119,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkrayareas.org, divezone.net, wikipedia.org",
-      "coordinate_source": "Eastern end of Burias Pass near Ticao Pass junction (geographic reference: Burias Pass at 12.886, 123.355)"
+      "validation_source": "sharkrayareas.org, wikipedia.org, manilatimes.net",
+      "coordinate_source": "Eastern end of Burias Pass near Ticao Pass junction (geographic reference: Burias Pass at 12.886, 123.355)",
+      "last_qa_date": "2026-08-19",
+      "qa_note": "2026-08-19 re-audit: replaced divezone.net with manilatimes.net — divezone.net's Donsol page does not mention Burias Pass by name. All 3 current sources specifically discuss Burias Pass (not just the wider region)."
     }
   },
   {
@@ -123,8 +137,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "temoanaexpeditions.com, diveworldwide.com, sharkdivingphilippines.com",
-      "coordinate_source": "Estimated from Burubangkaso Island location on south side of Ticao Island (Ticao center 12.516, south coast ~12.47-12.50)"
+      "validation_source": "temoanaexpeditions.com, philippinedives.com, uwphotographyguide.com",
+      "coordinate_source": "Estimated from Burubangkaso Island location on south side of Ticao Island (Ticao center 12.516, south coast ~12.47-12.50)",
+      "last_qa_date": "2026-08-19",
+      "qa_note": "2026-08-19 re-audit: replaced diveworldwide.com and sharkdivingphilippines.com — neither names this specific site on re-check. New sources (philippinedives.com, uwphotographyguide.com, alongside temoanaexpeditions.com) all independently confirm the site name, ~300m+ backdrop depth, and terrain."
     }
   },
   {
@@ -139,8 +155,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com",
-      "coordinate_source": "Near San Miguel Lighthouse (OSM node 12.7171, 123.5897) - site is at tip of San Miguel Island near lighthouse"
+      "validation_source": "sharkdivingphilippines.com, philippinedives.com",
+      "coordinate_source": "Near San Miguel Lighthouse (OSM node 12.7171, 123.5897) - site is at tip of San Miguel Island near lighthouse",
+      "last_qa_date": "2026-08-19",
+      "qa_note": "2026-08-19 re-audit: only 2 independent domains found after extensive search (sharkdivingphilippines.com, philippinedives.com) — dropped temoanaexpeditions.com (does not name this site) and the previously-cited islandhoppinginthephilippines.com (re-fetched directly; it is a thin FAQ page that never mentions Parola). Does NOT meet the 3-source bar; validated left at prior value (true) per QA policy. See summary for details."
     }
   },
   {
@@ -155,8 +173,10 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com",
-      "coordinate_source": "Estimated at corner of San Miguel Island (white sand beach with soft coral pathway)"
+      "validation_source": "sharkdivingphilippines.com, liveaboard.com",
+      "coordinate_source": "Estimated at corner of San Miguel Island (white sand beach with soft coral pathway)",
+      "last_qa_date": "2026-08-19",
+      "qa_note": "2026-08-19 re-audit: only 2 independent domains found after extensive search (sharkdivingphilippines.com, liveaboard.com) — swapped out temoanaexpeditions.com (does not name this site). Does NOT meet the 3-source bar; validated left at prior value (true) per QA policy. See summary for details."
     }
   }
 ]

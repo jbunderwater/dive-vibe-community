@@ -59,4 +59,4 @@ Bethlehem is a straightforward site with generally mild conditions and shallow d
 Macro photography is the primary focus at Bethlehem. Nudibranchs across the rubble areas and shrimps on fire urchins are the key subjects. The relatively shallow, calm conditions make this a good site for newer underwater photographers to practice macro techniques. A 60mm or 100mm macro lens is appropriate. The fire urchin shrimps are tiny, so a supermacro diopter can be useful.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1105), [Divescover – Anilao and Batangas](https://divescover.com/diving/philippines/luzon/anilao-and-batangas), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1105), [Divescover – Anilao and Batangas](https://divescover.com/diving/philippines/luzon/anilao-and-batangas), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm). Last updated 2026-08-19 (re-audited, sources re-confirmed).*

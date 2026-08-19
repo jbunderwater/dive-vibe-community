@@ -54,4 +54,4 @@ The soft coral garden is the primary photo subject. Wide-angle with strobe bring
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Only 2 independent sources found despite an extensive additional search (see QA notes); content is consistent between them but does not meet the 3-source verification bar. Last updated 2026-08-19.*

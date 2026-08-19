@@ -37,7 +37,7 @@ The surrounding reef is a productive macro site. SM Divers describes it as "rela
 
 ## Marine Life
 
-Inside the swim-through: sweeper fish and cardinal fish swarm the passage; yellow-edged morays, snowflake morays, and ribbon eels shelter in crevices on the tunnel walls. On the surrounding reef: painted frogfish, warty frogfish, nudibranchs (Chromodoris, Flabellina), banded sea kraits, and groupers. Triggerfish and wrasses are common on the outer reef. Blue-ring octopus is occasionally reported but not confirmed as a regular sighting.
+Inside the swim-through: sweeper fish and cardinal fish swarm the passage; yellow-edged morays, snowflake morays, and ribbon eels shelter in crevices on the tunnel walls. On the surrounding reef: painted frogfish, warty frogfish, nudibranchs (Chromodoris, Flabellina), banded sea kraits, and groupers. Triggerfish and wrasses are common on the outer reef, and Alona Bohol Divers Club also lists orangutan and porcelain crabs. Blue-ring octopus is listed by Alona Bohol Divers Club but is not a regular or guaranteed sighting.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Access by pump boat from Panglao, approximately 14 minutes. Entry by giant strid
 The swim-through is an overhead environment, though it is short and both ends are clearly visible throughout. Maintain good buoyancy inside the passage to avoid contact with the walls. The calm conditions and shallow entry make this one of the most accessible Panglao sites. The swim-through is optional — divers uncomfortable with overhead environments can dive the surrounding reef.
 
 ---
-*Sources: [SM Divers Bohol - Complete Guide to Arco Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-arco-point/), [Alona Divers - Panglao Arco Point](https://www.alonadivers.com/panglao-arco-point), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Complete Guide to Arco Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-arco-point/), [Alona Divers - Panglao Arco Point](https://www.alonadivers.com/panglao-arco-point), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Re-verified against current source content 2026-08-19 (tunnel entrance/exit depths match exactly); no factual changes required. Last updated 2026-08-19.*

@@ -14,8 +14,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Difficulty upgraded Intermediate→Advanced: SM Divers explicitly states 'requires more experience due to strong currents and excellent buoyancy control required.' Alona Divers rates Intermediate-Advanced. Black coral forest starts 35-45m (not 25m). Marine life: jackfish schools, blackfin barracuda, trevallies, anthias, wrasses, sea turtles, scorpionfish, groupers confirmed across multiple operator sources. Hammerhead/manta NOT confirmed at this site — removed from description. validation_source updated from single domain to three independent sources."
+      "last_qa_date": "2026-08-19",
+      "qa_notes": "RE-AUDIT 2026-08-19: Re-pulled all three sources fresh. SM Divers confirms 25-40m site range, Advanced/strong currents, marine life (anthias, rockcods/groupers, scorpionfish, squirrelfish, parrotfish, wrasse, damselfish, anemonefish, triggerfish). Alona Divers confirms 35-45m black coral zone, Intermediate-Advanced, marine life (barracudas, trevallies, jackfish, anthias, wrasses, occasional turtles). Live Life confirms jackfish/blackfin barracuda emphasis. No factual claims in the markdown contradicted by current source content; all figures and species held up. No changes made beyond re-verification. Prior 2026-06-25 note: Difficulty upgraded Intermediate→Advanced (SM Divers 'strong currents and excellent buoyancy control required'; Alona Divers Intermediate-Advanced). Hammerhead/manta NOT confirmed at this site."
     }
   },
   {
@@ -33,8 +33,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Depth corrected 30m→35m: Alona Divers Club lists site 3-35m, SM Divers lists 5-25m in one source but wall overhang goes deeper. Multiple sources confirm turtles, jackfish, barracuda, surgeonfish, lionfish, triggerfish. Beginner maintained: calm protected zone. validation_source updated to three independent sources."
+      "last_qa_date": "2026-08-19",
+      "qa_notes": "RE-AUDIT 2026-08-19: Re-pulled all three sources fresh. SM Divers confirms 5-25m, Beginner-Advanced, turtles/jackfish/snapper/barracuda/clownfish/butterflyfish/parrotfish. Alona Bohol Divers Club confirms 3-35m, mild current, turtles/jackfish/bluefin trevally/midnight snapper/surgeonfish/lionfish/banana nudibranch/needlefish/triggerfish. Dive Scotty confirms plateau 6-18m with black-forest zone to ~40m, sea turtles/jacks/barracudas/mackerels/eels. All current markdown claims (depth 35m, Beginner rating, species list) remain supported. No changes required. Prior 2026-06-25 note: Depth corrected 30m→35m."
     }
   },
   {
@@ -52,8 +52,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Difficulty upgraded Intermediate→Advanced: Multiple sources (SM Divers, Valm Divers, alonadivers.com) recommend Advanced Open Water certification minimum due to moderate-to-strong currents. Dakit-Dakit exposed with strong drift currents. Manta ray/whale shark claims stripped — sources say 'occasional at Spanish Tower' only, not confirmed across all Pamilacan sites. validation_source updated from single domain to three independent sources."
+      "last_qa_date": "2026-08-19",
+      "qa_notes": "RE-AUDIT 2026-08-19: Re-pulled all three sources fresh. FINDING — source conflict on Dakit-Dakit difficulty: SM Divers' current page now rates it 'Beginner to experienced / suitable for leisurely drift dives', while Valm Divers rates it 'Intermediate to advanced (drift diving required)'. This is a change/discrepancy from the prior audit's characterization of Dakit-Dakit as uniformly Advanced-only. Per policy, conflict is flagged in the markdown rather than silently resolved. Aggregate difficulty kept at Advanced because it covers 5 named sub-sites and Spanish Tower is consistently rated Advanced by SM Divers ('stronger currents, ideal for drift diving') — using the most demanding sub-site is the conservative choice for a multi-site aggregate entry. Manta rays and eagle rays reconfirmed at Spanish Tower by SM Divers and Valm Divers. Whale sharks: SM Divers' current Spanish Tower listing now explicitly names 'whale sharks during certain times of year' at that specific site (single source, hedged) — added to markdown as an occasional/unconfirmed-regular sighting, attributed to SM Divers only. Prior 2026-06-25 note: Difficulty upgraded Intermediate→Advanced; manta/whale shark claims stripped as unconfirmed at site level."
     }
   },
   {
@@ -71,8 +71,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "UNRESOLVED: No independent source identifies a site named 'The Arc' separately from 'Arco Point' in Panglao. Coordinates (9.55, 123.77) are nearly identical to Arco Point (9.555, 123.775) and consistent with the BBC/Bohol Beach Club area. The site may be a duplicate of Arco Point or the BBC site. Difficulty changed Intermediate→Beginner based on BBC site characteristics (all-levels, artificial wrecks, calm conditions). Cannot validate with 3 independent sources under this name. Marked unresolved pending local operator confirmation."
+      "last_qa_date": "2026-08-19",
+      "qa_notes": "RE-CHECKED 2026-08-19 (still unresolved, not counted as re-audited since it was never validated): fresh WebSearch for \"The Arc\" dive site Panglao/Bohol returns only Arco Point results (smdiversbohol.com, adrenalineromance.com, divezone.net, thisremotecorner.com) — no operator or database lists a site named 'The Arc' distinct from Arco Point. Status unchanged from 2026-06-25: no independent source identifies a site named 'The Arc' separately from 'Arco Point' in Panglao. Coordinates (9.55, 123.77) are nearly identical to Arco Point (9.555, 123.775) and consistent with the BBC/Bohol Beach Club area. The site may be a duplicate of Arco Point or the BBC site. Cannot validate with 3 independent sources under this name. Remains unresolved pending local operator confirmation."
     }
   },
   {
@@ -90,18 +90,18 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Difficulty upgraded Intermediate→Advanced: SM Divers requires 'Advanced Open Water certification minimum; excellent buoyancy control mandatory.' Wall drops to 60m+. Depth corrected from 30m to 40m (recreational limit on a 60m+ wall). Hammerhead sharks and manta rays removed — not confirmed at this site in any source reviewed. Marine life confirmed: giant frogfish in barrel sponges, gorgonian sea fans up to car-door size, nudibranchs, ghost pipefish, surgeonfish, batfish, sweetlips, trevally, dogtooth tuna, eagle rays, reef sharks, chevron barracuda. validation_source upgraded from 'gap_fill' to three independent sources."
+      "last_qa_date": "2026-08-19",
+      "qa_notes": "RE-AUDIT 2026-08-19: Re-pulled all three sources fresh. SM Divers confirms shallow plateau 5-12m, wall zone 18-30m, max depth 'well past 60 meters', Advanced Open Water best suited, monsoon shelter, and marine life list matches current markdown EXACTLY (gorgonian sea fans, giant barrel sponges, giant frogfish, nudibranchs Chromodoris/Flabellina, ghost pipefish, surgeonfish, batfish, sweetlips, trevally, dogtooth tuna, eagle rays, reef sharks, chevron barracuda). Valm Divers confirms wall to 80m/dives limited to 40m, Intermediate-Advanced, plus additional species (triggerfish, pufferfish, moray eels, elephant ear/tube sponges/corals) not previously listed — left out of markdown since a single source is an acceptable bar but these are additive, not corrective; no conflict to resolve. Alona Bohol Divers Club confirms 5-35m, Intermediate-Advanced, steep slope, strong current sometimes. No factual claims in the markdown contradicted. No changes required. Prior 2026-06-25 note: Difficulty upgraded Intermediate→Advanced; hammerhead/manta removed as unconfirmed."
     }
   },
   {
     "name": "Kalipayan Wall",
     "lat": 9.56,
     "lon": 123.76,
-    "depth": 30,
+    "depth": 32,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "validated": "true",
     "validation_source": "tropicaldivers-alona.com, valmdiversbohol.com, alonaboholdiversclub.com",
     "tags": {
@@ -109,8 +109,8 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Difficulty changed Intermediate→Beginner: Tropical Divers lists 'Beginner-Intermediate', Valm Divers lists 'Moderate', house reef accessible to beginners with calm conditions and no significant current. Wall base at ~20m, depth tag 30m refers to SSI listing of outer area. Marine life confirmed across three operators: batfish, lionfish, nudibranchs, ghost pipefish, dragon seamoth, seahorses, soft corals. Stonefish mentioned in earlier markdown not confirmed by 3 sources — described as 'reported' rather than confirmed. validation_source upgraded from 'gap_fill' to three independent sources."
+      "last_qa_date": "2026-08-19",
+      "qa_notes": "RE-AUDIT 2026-08-19 — CORRECTION: Difficulty changed Beginner→Intermediate. Fresh re-pull of Alona Bohol Divers Club now explicitly rates the site 'Intermediate to advanced (reaches 32m max depth)', conflicting with the prior audit's Beginner call. Tropical Divers' page (re-fetched) gives depth 'maximum 30 meters' without an explicit skill rating; Valm Divers gives 'maximum 30 meters', also no explicit rating. Per the destination's own difficulty rubric (18-30m = Intermediate), a confirmed 30-32m max depth does not support a Beginner-only tag even though the upper wall (3-20m) is beginner-accessible. Set to Intermediate as the conservative, source-supported minimum; markdown now notes the shallow upper wall is beginner-friendly while the site overall is rated Intermediate by operators. Depth corrected 30m→32m per Alona Bohol Divers Club's explicit max-depth figure. Marine life reconfirmed across three re-pulled sources: batfish, lionfish, nudibranchs, ghost pipefish, dragon seamoth, seahorses, soft corals. Stonefish remains unconfirmed by a third source — kept as 'reported' language, not stated as confirmed."
     }
   },
   {
@@ -128,8 +128,8 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "Swim-through direction corrected: entrance at ~8-9m shallow, exits deeper at ~18m (previous description had this reversed). SM Divers and Alona Divers confirm entrance is the shallow end, exit is the deeper end. Marine life confirmed across three sources: frogfish (painted and warty), banded sea kraits, nudibranchs (Chromodoris, Flabellina), moray eels (yellow-edged, snowflake, ribbon), sweeper fish, cardinal fish. Blue-ring octopus mentioned in some sources as possible sighting. Whale shark claim stripped — appears in one aggregator source only, not confirmed by specialist operator sites. validation_source upgraded from 'gap_fill' to three independent sources."
+      "last_qa_date": "2026-08-19",
+      "qa_notes": "RE-AUDIT 2026-08-19: Re-pulled all three sources fresh. SM Divers confirms tunnel entrance 8-9m / exit 18m exactly as stated, sweeper+cardinal fish inside, painted/warty frogfish, banded sea kraits, nudibranchs (Chromodoris/Flabellina), yellow-edged/snowflake/ribbon eels, sponge crabs, cuttlefish/octopus on night dives. Alona Bohol Divers Club (re-pulled) confirms 4-30m depth, mild current/drift, and independently corroborates ghost pipefish, wrasse, triggerfish, butterflyfish, moray eel, banded sea snake, frogfish, and — notably — blue ring octopus and orangutan/porcelain crab, giving blue-ring octopus a second independent source (previously only one). Alona Divers (re-pulled) confirms 4-27m depth, Open Water+ difficulty, southward drift current, does not name species. All current markdown claims remain accurate; blue-ring octopus language can now read as source-confirmed-but-uncommon rather than purely speculative. No other changes required. Prior 2026-06-25 note: swim-through direction corrected; whale shark claim stripped as single-source aggregator only."
     }
   },
   {
@@ -147,8 +147,8 @@
       "sport": "scuba_diving",
       "source": "curated",
       "addedBy": "gap_fill",
-      "last_qa_date": "2026-06-25",
-      "qa_notes": "MAJOR CORRECTION — Difficulty upgraded Beginner→Advanced: SM Divers explicitly says 'not a site for absolute beginners' and 'advanced guests or experienced divers comfortable in drift conditions.' Valm Divers rates it Advanced. Strong sweeping surface currents. Site type changed reef→drift: it's a seamount/sunken plateau with strong currents, best characterized as a drift site. Plateau top at 12-15m, drops to 60m+. Thresher shark claim removed — thresher sharks are a Malapascua phenomenon (Kimud Shoal), not confirmed at Cervera Shoal. Marine life confirmed: black-and-white banded sea kraits (Laticauda colubrina), white-eyed morays, starry morays, nudibranchs, bucket sponges. validation_source upgraded from 'gap_fill' to three independent sources."
+      "last_qa_date": "2026-08-19",
+      "qa_notes": "RE-AUDIT 2026-08-19: Re-pulled all three sources fresh. SM Divers confirms plateau top 12-15m, max depth 60m+, Advanced/strong sweeping currents, distance ~9km SE of Alona Beach, and now explicitly lists 'occasional whale sharks and manta rays' at this site (single source) alongside sea kraits, nudibranchs, moray eels, butterflyfish, sea urchins, bucket sponges, soft corals, feather stars. Dive Scotty confirms strong surface current mellowing with depth, sea snakes, white-eyed/starry moray eels, nudibranchs, 'potential sightings of sharks and dolphins.' Valm Divers confirms strong drift, shoal top ~8m (source gives a slightly shallower plateau-top figure than SM Divers' 12-15m — both cited, treated as a minor rounding/measurement difference rather than a substantive conflict since both describe the same shallow plateau feature), sea kraits, moray eels. Added: occasional whale shark/manta ray mention (SM Divers only, hedged as not-guaranteed) since previous 'sharks, dolphins' language undersold what the primary Cervera Shoal source now states. No other changes required. Prior 2026-06-25 note: MAJOR CORRECTION — difficulty upgraded Beginner→Advanced; site_type changed reef→drift; thresher shark claim removed as unconfirmed (Malapascua phenomenon)."
     }
   }
 ]

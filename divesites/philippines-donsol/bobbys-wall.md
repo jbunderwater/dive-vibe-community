@@ -25,7 +25,7 @@ Bobby's Wall I and Bobby's Wall II are sometimes listed as separate entries by l
 
 ## Marine Life
 
-- Macro invertebrates: nudibranchs, pipefish, frogfish, Colmani shrimp (on fire urchins), coriocella
+- Macro invertebrates: nudibranchs (including reported sightings of the "Pikachu" nudibranch, *Thecacera pacifica*), pipefish, frogfish, ghost pipefish, Colmani shrimp (on fire urchins), coriocella
 - Schooling anchovies and tunas in the water column alongside the wall
 - Soft corals and encrusting sponges on wall and overhang sections
 - Moray eels, scorpionfish, stonefish in crevices (reported by Shark Diving Philippines)
@@ -57,4 +57,4 @@ Excellent macro site. The contrast between white sand and dark overhang sections
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [Philippine Dives — Donsol Dive Guide](https://philippinedives.com/dive-guide/donsol/). Last updated 2026-08-19.*

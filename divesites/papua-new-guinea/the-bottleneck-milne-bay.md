@@ -13,50 +13,27 @@ addedBy: osm_import
 
 ## The Bottleneck Milne Bay
 
-The Bottleneck is an adrenaline-charged current dive through a narrow reef passage in Milne Bay, Milne Bay Province, Papua New Guinea — one of the most dramatic drift dives in the region.
+**This entry is unverified.** No independent dive source confirms a site named "The Bottleneck" in Milne Bay Province. This description should not be treated as a factual account of a real, specific dive site until field-verified.
 
 ## Overview
 
-The Bottleneck takes its name from the narrow gap between two reef structures that funnels the tidal flow of Milne Bay into a concentrated surge. When the current is running — and it nearly always is — the passage becomes a high-speed drift ride through a concentrated corridor of marine life. The reef walls on either side are densely colonized with soft corals, sea fans, and schooling anthias, and the accelerated flow through the gap concentrates fish in extraordinary numbers. Surgeonfish, fusiliers, and snappers pack the water column, while grey reef sharks hold position in the current at the channel entrance. Hammerhead sharks have been reported at the site, typically appearing in the deeper water beyond the bottleneck where currents from different directions collide. The dive requires confident buoyancy control and current-diving experience, as conditions can change rapidly and there is limited ability to abort mid-passage.
+Two research passes have not located a documented Milne Bay dive site called "The Bottleneck" across Indopacific Images, PADI, Tawali Resort's site list, or ScubaBoard's Milne Bay trip reports. "Bottleneck" is a generic descriptive name used for current-swept passages worldwide, which makes it hard to rule out entirely, but no PNG-specific source ties it to this location. Milne Bay does have well-documented, confirmed current/passage dive sites -- notably The Washing Machine in China Strait and Pelagic Point -- which this entry may be confusing with, or which may be worth cross-checking against these coordinates. Rather than invent details for an unconfirmed site, this entry is intentionally left minimal pending field verification.
 
 ## Site Information
 
-- **Location**: Milne Bay, Milne Bay Province, Papua New Guinea
+- **Location**: Unconfirmed -- recorded coordinates place it in Milne Bay Province, but no source verifies a site by this name at this location
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Strong (tidal; plan for incoming)
-- **Best Time**: October to April
 
 ## Marine Life
 
-Grey reef sharks, hammerhead sharks (occasional), barracuda schools, surgeonfish, fusiliers, snappers, eagle rays, whitetip reef sharks. The channel walls host dense soft coral growth with resident anthias clouds. Larger pelagics — including dog-tooth tuna and rainbow runners — are seen in the open water beyond the bottleneck. Napoleon wrasse are frequently encountered.
+No species are attributed to this site, as its existence and location are unconfirmed. Do not treat any marine life claims for this entry as reliable until the site itself is field-verified.
 
-## Dive Profile
+## Site Information Caveat
 
-The dive is best conducted on an incoming tide, which pushes nutrient-rich water through the channel and concentrates marine life at the entrance. Descend upstream of the passage at 10-15 meters and allow the current to carry you through. Most divers pass through the bottleneck between 15 and 25 meters before ascending on the calmer lee side. Hammerheads are occasionally seen in deeper water (25-30 meters) beyond the passage — experienced divers may briefly drop deeper at this point. Plan for a short bottom time given depth and current exertion.
-
-## Entry and Exit
-
-Access by live-aboard or day boat from Alotau or Tawali Resort. Entry positioning is critical — the boat will drop you upstream at the correct location. Follow the dive guide's briefing carefully. Exit on the downstream side where the boat will be waiting. Do not surface in the channel passage itself.
-
-## Tips and Recommendations
-
-- This dive is exclusively suitable for advanced open-water divers with current-diving experience — beginners and Open Water divers should not attempt it
-- Brief thoroughly with your guide on the entry point, current direction, and exit strategy before entering the water
-- Carry a reef hook in case you need to hold position at the channel entrance while conditions are assessed
-- Deploy an SMB before surfacing downstream as boat traffic in Milne Bay can be active
-- Dive early morning on an incoming tide for the best combination of light, visibility, and shark activity
-
-## Safety Considerations
-
-Strong and variable currents are the primary hazard. The passage is narrow and there is limited ability to abort once you are committed. Divers must be comfortable in strong moving water and capable of controlling depth while being pushed laterally. A reef hook is strongly recommended. Do not attempt this site on a strong outgoing tide. Always brief with an experienced local guide who knows the current patterns.
-
-## Photography
-
-The Bottleneck rewards wide-angle shooters willing to work in strong current. Schools of fish compressed by the current make for dramatic images, and shark silhouettes at the channel entrance are the signature shot. Autofocus tracking is useful as subjects move fast — pre-set your exposure before descent. Secure all loose equipment carefully as the current can dislodge port covers and accessories.
+The depth (30m), difficulty (Advanced), entry type (boat), and site type (drift) recorded for this entry are inherited from the original data import and have not been confirmed against any source, because no source describing this specific site has been found.
 
 ---
-*No site-specific sources found confirming a site called The Bottleneck in Milne Bay. The site name could not be verified across Indopacific Images, PADI, Tawali Resort, or ScubaBoard Milne Bay records. Known Milne Bay passage sites include The Washing Machine (China Strait) and Pelagic Point. Description is based on general Milne Bay current-dive characteristics. Field verification recommended. Last updated 2026-06-25.*
+*No site-specific sources found confirming a site called "The Bottleneck" in Milne Bay, despite two research passes (2026-06-25 and 2026-08-19) across Indopacific Images, PADI, Tawali Resort, and ScubaBoard Milne Bay records. Known, confirmed Milne Bay current/passage sites include The Washing Machine (China Strait) and Pelagic Point -- worth cross-checking against this entry's coordinates. Recommend field verification with a Milne Bay-based dive operator, or removal, pending confirmation. Last updated 2026-08-19.*

@@ -32,7 +32,7 @@ The Mitsubishi F1M2, codenamed "Pete" by the Allies, was a reconnaissance biplan
 
 ## Marine Life
 
-The sandy bottom surrounding the aircraft is relatively sparse, which makes the seaplane itself stand out dramatically. Coral growth has begun colonizing the underside (now facing upward) of the wings and fuselage. Small reef fish shelter in and around the airframe. The surrounding sand may yield garden eels and occasional passing pelagics drawn by the structure.
+Michael McFadyen's detailed site account -- the primary source for this wreck -- documents no specific marine life at Deep Pete. This description does not attribute species to the site; expect a sparse sandy-bottom environment typical of a deep, isolated wreck rather than a heavily colonized reef structure.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, approximately ten minutes away. 
 At 40 meters, this dive pushes the limits of recreational diving. No-decompression time on air is approximately 8-10 minutes. Monitor depth, time, and air supply continuously. Narcosis is a real consideration at this depth -- abort the dive if you or your buddy show signs. Always carry an SMB and adequate reserves for ascent. This site is not appropriate for inexperienced divers.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=704), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [diveplanit.com](https://www.diveplanit.com/dive-sites/deep-pete-kavieng/), [Wikipedia – Mitsubishi F1M](https://en.wikipedia.org/wiki/Mitsubishi_F1M). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=704), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/diving-new-ireland/deep-pete-wreck/), [Wikipedia – Mitsubishi F1M](https://en.wikipedia.org/wiki/Mitsubishi_F1M). Last updated 2026-08-19.*

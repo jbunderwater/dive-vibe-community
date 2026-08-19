@@ -60,4 +60,4 @@ Advanced certification required. Current strength can exceed 3 knots. Open-water
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [ScubaBoard — Donsol, Ticao Island, Manta Bowl](https://scubaboard.com/community/threads/donsol-ticao-island-manta-bowl.443048/). Last updated 2026-08-19.*

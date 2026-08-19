@@ -57,4 +57,4 @@ Intermediate to Advanced conditions. Strong tidal currents require experience wi
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Burias Pass — Wikipedia](https://en.wikipedia.org/wiki/Burias_Pass), [Manila Times — "Ticao-Burias Pass seascape must be a marine protected area"](https://www.manilatimes.net/2022/12/22/news/regions/ticao-burias-pass-seascape-must-be-a-marine-protected-area/1871318). Last updated 2026-08-19.*

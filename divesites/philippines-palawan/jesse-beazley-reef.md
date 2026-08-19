@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Jesse Beazley Reef
 
-Jesse Beazley Reef is a wall dive site in Philippines Palawan, Asia.
+The northernmost and smallest of Tubbataha's three reef structures — a mushroom-shaped wall known for shark activity, roughly 20km north of the main atolls.
 
 ## Overview
 
-Jesse Beazley Reef is the northernmost and smallest of the three reef structures in Tubbataha Reefs Natural Park, a UNESCO World Heritage Site accessible only by liveaboard from Puerto Princesa between March and June. The mushroom-shaped structure starts at 7 meters and drops below recreational limits, with fast, unpredictable currents feeding large branching hard corals and drawing grey reef sharks, whitetip reef sharks, hammerheads, barracuda, and Spanish mackerel.
+Jesse Beazley Reef is the northernmost and smallest of the three reef structures in Tubbataha Reefs Natural Park, a UNESCO World Heritage Site accessible only by liveaboard, typically March to June. The mushroom-shaped structure starts around 7 meters and drops well past recreational limits — sources report depths beyond 50 meters at the base (dive-the-world.com) — with fast, sometimes unpredictable currents. One source (dive-the-world.com) attributes the reef's name to the Jessie Beazley, a Liverpool-built ship reported wrecked at Tubbataha in 1872; this naming account appears in only one source found during this research pass and should be treated as unconfirmed rather than established history.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: ~20km north of Tubbataha's main atolls, Sulu Sea, Philippines Palawan
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +29,7 @@ Jesse Beazley Reef is the northernmost and smallest of the three reef structures
 
 ## Marine Life
 
-Jesse Beazley Reef is a shark aggregation hotspot within Tubbataha Natural Park, with grey reef sharks and whitetip reef sharks patrolling the mushroom-shaped structure and hammerheads occasionally visible in the blue. Fast currents sweeping the exposed reef carry dense schools of barracuda, Spanish mackerel, and big-eye jacks, while the branching hard corals on the structure itself host a diverse reef fish community. Napoleon wrasse are a near-constant presence on this remote Coral Triangle reef.
+Confirmed across multiple sources: grey reef sharks and whitetip reef sharks (solitude.world, dive-the-world.com), with hammerhead sharks specifically reported on the reef's northwest side (bluewaterdivetravel.com, including a 2024 trip report). Also confirmed: barracuda, Spanish mackerel, Napoleon wrasse, and large schools of unicornfish and surgeonfish (dive-the-world.com). An earlier draft of this page also listed big-eye jacks; no source in this research pass confirmed that species specifically at this site, so it has been removed.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Sources: [Dive The World — Tubbataha Dive Sites](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php), [Bluewater Dive Travel — Tubbataha Reef Diving](https://www.bluewaterdivetravel.com/destination/tubbataha-reef-diving), [Solitude — Tubbataha Reefs Guide](https://solitude.world/the-complete-guide-to-diving-in-the-tubbataha-reefs-philippines/). Last updated 2026-08-19.*

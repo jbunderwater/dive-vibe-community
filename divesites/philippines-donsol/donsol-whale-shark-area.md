@@ -54,4 +54,4 @@ Entry and exit from a bangka (outrigger boat) in open bay waters. Snorkelers mus
 - **Maximum Depth**: 10 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Donsol Whale Shark Interaction — JourneyEra](https://www.journeyera.com/donsol-whale-shark-interaction/), [Donsol — Wikipedia](https://en.wikipedia.org/wiki/Donsol). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Donsol Whale Shark Interaction — JourneyEra](https://www.journeyera.com/donsol-whale-shark-interaction/), [Donsol — Wikipedia](https://en.wikipedia.org/wiki/Donsol). Last updated 2026-08-19.*

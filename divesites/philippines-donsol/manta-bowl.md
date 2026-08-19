@@ -25,13 +25,13 @@ The Ticao-Burias Pass was designated an Important Shark and Ray Area (ISRA) reco
 
 ## Marine Life
 
-- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals; daily cleaning station visits
+- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals (LAMAVE); daily cleaning-station visits
 - Oceanic manta rays
-- Whale sharks (*Rhincodon typus*) — 250+ individuals identified at this specific site
+- Whale sharks (*Rhincodon typus*) — reported by dive operators as occasional visitors to the site. Sources conflict on how many: one operator account states roughly 250 of the ~1,600 whale sharks documented in the Philippines have been seen here, while the rigorous LAMAVE/ISRA photo-ID count (614 individuals, 2006–2020) is tallied for the *whole* Ticao-Burias Pass system rather than this seamount specifically. No single site-specific count is confirmed, so none is stated as fact here.
 - Thresher sharks, hammerhead sharks, whitetip reef sharks
 - Schooling tunas and trevallies
 - Cleaner wrasse at coral cleaning stations
-- Sea turtles, dolphins
+- Sea turtles, dolphins (regional sightings; not confirmed site-specific by research sources)
 
 ## Dive Profile
 
@@ -50,7 +50,7 @@ Boat only. Departures from Donsol take approximately 25 minutes; from Ticao Isla
 
 ## Safety
 
-Advanced certification required. Currents can exceed 3 knots and change direction with little warning. Negative entry, strong currents, and occasional low-visibility conditions make this unsuitable for inexperienced divers. Always dive with an experienced local guide who knows current patterns.
+Advanced certification required. Currents can exceed 3 knots and change direction with little warning. Negative entry, strong currents, and occasional low-visibility conditions make this unsuitable for inexperienced divers. Diver trip reports (ScubaBoard) describe down-currents beginning around 24–25 m strong enough to require reef hooks to hold position — be prepared to release and swim clear of a down-current rather than fight it directly. Always dive with an experienced local guide who knows current patterns.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ Advanced certification required. Currents can exceed 3 knots and change directio
 - **Maximum Depth**: 23 meters
 
 ---
-*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [Barr & Abelson (2019), Frontiers in Marine Science — "Feeding–Cleaning Trade-Off: Manta Ray Decision-Making as a Conservation Tool"](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00088/full), [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [ScubaBoard — Donsol, Ticao Island, Manta Bowl](https://scubaboard.com/community/threads/donsol-ticao-island-manta-bowl.443048/). Last updated 2026-08-19.*

@@ -32,7 +32,7 @@ Planet Hollywood is located at the mouth of Planet Channel, the passage between 
 
 ## Marine Life
 
-The current-swept wall attracts a parade of large marine life. Sharks are commonly seen patrolling the wall edge and in the blue water beyond. Eagle rays glide past, sometimes in groups. Schools of barracuda hang in the current. Turtles rest on ledges and in overhangs. The wall itself is decorated with large gorgonian sea fans that thrive in the strong water flow, along with soft corals and sponges in the overhangs.
+The current-swept wall attracts a parade of large marine life, documented in a first-hand dive account of this site: sharks, sea turtles, large barracuda schools, an eagle ray, and gorgonias along the walls. This description does not claim eagle rays are seen "in groups" or that soft corals and sponges line the overhangs, as neither detail is confirmed in available sources -- the documented sighting was of a single eagle ray, and the wall's decoration is specifically gorgonias.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort or Kavieng-based operators. The b
 The extremely strong and unpredictable currents are the primary hazard. Currents can change direction during a dive, potentially sweeping divers away from the wall into open water. Carry an SMB, whistle, and mirror. Maintain visual contact with your buddy at all times. The vertical wall drops to extreme depth -- monitor your depth gauge constantly. This site should only be attempted with experienced local guides who know the current patterns.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=723), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/), [Diversion Dive Travel – Kavieng](https://www.diversiondivetravel.com.au/destinations/papua-new-guinea/kavieng/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=723), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/), [Diversion Dive Travel – Kavieng](https://www.diversiondivetravel.com.au/destinations/papua-new-guinea/kavieng/). Last updated 2026-08-19.*

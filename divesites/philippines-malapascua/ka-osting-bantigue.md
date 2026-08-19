@@ -3,9 +3,9 @@ name: Ka-Osting / Bantigue
 lat: 11.3456001
 lng: 124.1193512
 difficulty: Beginner
-maxDepth: 22
+maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 4557974264
 addedBy: osm_import
@@ -13,23 +13,42 @@ addedBy: osm_import
 
 ## Ka-Osting / Bantigue
 
-Ka-Osting / Bantigue is a reef dive site in Philippines Malapascua, Asia.
+Ka-Osting and Bantigue (also spelled Bantigi) are two adjacent muck-diving sites on Malapascua's western side, prized by critter hunters for fire urchins, zebra crabs, and hairy frogfish on a sand-and-rock bottom rather than for coral reef scenery.
 
 ## Overview
 
-Ka-Osting / Bantigue is a coral reef slope running along the western side of Malapascua, named after a local fisherman and the small barangay nearby. The reef descends gradually from the shallows to about 22 meters and is lined with hard coral formations interspersed with cleaning stations where sweetlips and surgeonfish queue up for attendant wrasses. Sea turtles frequently rest on the coral heads here, and the site's relatively sheltered position makes it a dependable dive when northeast winds stir up conditions elsewhere.
+Bantigue starts as a shallow reef edge before opening into a sandy muck bottom around 12 meters; Ka-Osting lies immediately adjacent and offers similar terrain with the added draw of hairy frogfish. Multiple independent dive-shop sources describe both as classic muck sites — mostly sand and rocky patches rather than coral reef — with usually calm or no current, making them approachable for less experienced divers. This corrects an earlier description of the site as a coral reef with active cleaning stations; no source found supports that characterisation.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Western side of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 18 meters
+- **Current**: Usually minimal to none
 
 ## Marine Life
 
-Ka-Osting / Bantigue is a relaxed reef dive characterised by active cleaning stations where sweetlips and surgeonfish queue for attendant wrasses, providing close-up behavioural encounters at mid-depth. Sea turtles frequently rest on the coral heads here, and the sheltered position keeps the fish community relatively undisturbed and approachable. Reef fish diversity is high throughout the slope, with schools of snapper, groups of parrotfish, and nudibranchs scattered across the rubble sections.
+Confirmed by multiple independent operator sources: fire urchins with their resident zebra crabs, dwarf lionfish, mantis shrimp, cuttlefish, octopuses, hairy frogfish (a Ka-Osting specialty), squat lobsters, porcelain crabs, snake eels, and abundant nudibranchs. This is a critter-hunting site — divers should expect slow, close-focus muck diving rather than reef-scape photography.
+
+## Dive Profile
+
+Both sites reward a slow, methodical search pattern across the sand and rubble rather than a fixed route — most of the interest here is small, camouflaged, and easy to swim past. Current is typically minimal, so bottom time is generally not current-limited.
+
+## Entry and Exit
+
+Boat dive from Malapascua resorts. Entry by giant stride; calm conditions typically allow an easy return to the boat by ladder.
+
+## Tips and Recommendations
+
+- Bring a macro lens and a torch — this is a critter-hunting site, not a wide-angle reef dive
+- Move slowly and let your guide point out camouflaged subjects like frogfish and fire-urchin symbionts
+- Good option for photographers who want extended, low-current bottom time
+
+## Safety Considerations
+
+Shallow depth and typically calm current make this a low-risk dive, but take care around fire urchins — avoid contact with their spines. Standard boat-diving precautions apply.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua's Thresher Shark Divers](https://malapascua-diving.com/malapascua/dive-sites/), [PADI — Bantigue, Malapascua](https://www.padi.com/dive-site/philippines/bantigue-malapascua/), [Kokay's Malapascua Diving — East Garden / Ka Osting](https://kokaysmalditodiveresort.com/diving-malapascua-cebu-philippines/thresher-shark-diving/east-garden-ka-osting/), [DiveScover — Bantigi](https://divescover.com/dive-site/bantigi/40220). Last updated 2026-08-19.*

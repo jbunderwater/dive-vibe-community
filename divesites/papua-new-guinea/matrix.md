@@ -32,7 +32,7 @@ Matrix is a wall dive in Steffen Strait, approximately 40 minutes by boat from N
 
 ## Marine Life
 
-The wall's dense gorgonian coverage provides habitat for a rich community. Bump-headed parrotfish are a highlight, cruising along the wall face. Sharks patrol the blue water beyond the wall edge. Turtles rest on ledges and in small caves. The gorgonias and sea whips attract smaller species including pygmy seahorses (worth searching for in the larger fans). Inside the swim-throughs, look for resting whitetip reef sharks and sleeping turtles.
+The wall's dense gorgonian coverage provides habitat for a rich community, confirmed at this specific site by Michael McFadyen's dive account: bump-headed parrotfish, sharks and sea turtles in the water column, and dense gorgonias and sea whips. Documented invertebrate and macro life includes nudibranchs (Tryon's Risbecia), flatworms, blennies, starfish, and brain corals. This description does not attribute pygmy seahorses or sharks resting inside the swim-throughs to the site, as neither is confirmed in available sources.
 
 ## Dive Profile
 
@@ -45,8 +45,8 @@ Access is by dive boat from Nusa Island Resort, approximately 40 minutes to Stef
 ## Tips and Recommendations
 
 - Relax and let the current do the work -- fighting it wastes air and energy
-- Spend time examining the larger gorgonias closely for pygmy seahorses
-- Peek into the small caves and swim-throughs for resting sharks and turtles
+- Look for the resident nudibranchs (Tryon's Risbecia) and flatworms on the wall face
+- Peek into the small caves and swim-throughs -- topography that Kavieng operators note as good shelter, though specific resident animals there are not documented
 - A wide-angle lens is essential to capture the scale of the gorgonia-covered wall
 - The 70-minute drift gives generous time -- there is no need to rush through any section
 
@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, approximately 40 minutes to Stef
 While the current provides the drift, it can vary in intensity during the dive. Maintain awareness of your position relative to the wall and your depth. Do not enter swim-throughs without clear exits visible. Carry an SMB, whistle, and mirror as standard signalling equipment. Stay with the group -- separation during a drift dive in current can be disorienting.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=727), [DAN Alert Diver – Kavieng Diving](https://www.alertdiver.com/), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=727), [DAN Alert Diver – Kavieng Diving](https://www.alertdiver.com/), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/). Last updated 2026-08-19.*

@@ -32,7 +32,7 @@ Georges Wreck is a WWII Japanese vessel lying upright on a steep slope near the 
 
 ## Marine Life
 
-The wreck has become a thriving artificial reef. Large gorgonian sea fans have established on the bow section, some reaching impressive size. The hull is encrusted with hard and soft corals, sponges, and tunicates. Fish life includes the typical Rabaul reef species sheltering around the superstructure and inside the holds. Glassy sweepers form clouds inside the engine room and cargo spaces.
+McFadyen's site account -- the primary source for this wreck -- confirms large gorgonias on the port/bow side and describes the wreck's marine life generally as "excellent" without naming further species. This description does not attribute specific coral, sponge, tunicate, or sweeper populations to the site beyond the confirmed gorgonias, as those details are not documented in available sources.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ Access is by dive boat from Rabaul, a very short ride given the wreck's proximit
 The stern reaches 55 meters, which is beyond recreational diving limits. Plan a maximum depth appropriate to your certification and experience, and turn the dive before reaching uncomfortable depths. The wartime cargo includes mines -- maintain a safe distance and do not disturb any ordnance. The holds contain confined spaces that require wreck penetration training and proper equipment to enter safely. Monitor air supply carefully given the depth range.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=707), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info](https://www.underwaterasia.info/). Note: ship identity ("Toyo Maru") and sinking details are from a single researcher via McFadyen's site and have not been independently confirmed. Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=707), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info](https://www.underwaterasia.info/). Note: ship identity ("Toyo Maru") and sinking details are from a single researcher via McFadyen's site and have not been independently confirmed. Last updated 2026-08-19.*

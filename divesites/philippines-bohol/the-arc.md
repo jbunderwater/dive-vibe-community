@@ -58,4 +58,4 @@ Access by dive boat from Alona Beach area. Entry by giant stride.
 Mild conditions make this one of the more accessible Panglao sites. Standard dive safety practices apply.
 
 ---
-*Description based on regional diving characteristics and the nearby BBC/Arco Point area. No site-specific sources found confirming "The Arc" as a distinct named dive site. Last updated 2026-06-25.*
+*Description based on regional diving characteristics and the nearby BBC/Arco Point area. No site-specific sources found confirming "The Arc" as a distinct named dive site. Re-checked with a fresh web search 2026-08-19 — still no independent source found. Last updated 2026-08-19.*

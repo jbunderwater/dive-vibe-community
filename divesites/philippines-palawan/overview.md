@@ -40,4 +40,4 @@ Philippines Palawan is a notable diving destination in the Asia region, offering
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Description based on regional diving characteristics across Palawan's Coron Bay (wrecks), El Nido (reefs, walls, boulders), Port Barton (reefs), and Tubbataha (remote atoll diving) sub-regions. No single site-specific source covers the destination as a whole; see individual dive site pages for their researched sources. Last updated 2026-08-19.*

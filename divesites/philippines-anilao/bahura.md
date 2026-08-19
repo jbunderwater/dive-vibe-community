@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Bahura
 
-Bahura is a shallow reef dive site in Anilao, Batangas, one of the named sites in the network of coral reefs that stretches along the Verde Island Passage — often cited as having the highest marine biodiversity on earth.
+Bahura — Filipino for "reef" — is a coral and sandy-slope site off Anilao whose sources report notably inconsistent depths, ranging from a shallow 16-meter reef top to a 40-meter sandy base.
 
 ## Overview
 
-Anilao is frequently called the "macro capital of the Philippines" and the birthplace of recreational scuba diving in the country, and Bahura offers a representative example of what makes the region so compelling for underwater photographers. The reef sits in Verde Island Passage waters where upwellings from the passage corridor create productive conditions for coral growth and critter diversity. At 16 meters maximum depth, the site is shallow enough for extended bottom time and thorough exploration of the reef substrate. Hard corals and sponges provide the primary structure, with the rubble and silty margins between reef sections offering the muck-diving habitat that Anilao is celebrated for.
+Anilao is frequently called the "macro capital of the Philippines" and the birthplace of recreational scuba diving in the country, and Bahura offers a representative example of what makes the region so compelling for underwater photographers. The reef sits in Verde Island Passage waters where upwellings from the passage corridor create productive conditions for coral growth and critter diversity. Sources disagree substantially on depth: this destination's existing dataset lists 16 meters, while AnilaoDiving.com (the operator page) cites 5–30 meters and PADI's dive site database lists a maximum of 40 meters (131 feet). It is likely the site has a shallow reef-top zone in the mid-teens with a sandy slope continuing well beyond it — divers should follow their guide's briefing on actual depth rather than any single figure here. Hard corals and sponges provide the primary structure, with the rubble and silty margins between reef sections offering the muck-diving habitat that Anilao is celebrated for.
 
 ## Site Information
 
@@ -27,12 +27,12 @@ Anilao is frequently called the "macro capital of the Philippines" and the birth
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10-20 meters
-- **Current**: Light to moderate
+- **Current**: Light to moderate; AnilaoDiving.com notes it "can vary" with occasional stronger currents
 - **Best Time**: October to May
 
 ## Marine Life
 
-Bahura's proximity to the Verde Island Passage corridor means exceptional biodiversity. Nudibranchs are prolific — Anilao is world-famous for nudibranch diversity, and this site delivers dozens of species on a single dive. Frogfish in multiple colour morphs inhabit the sponge growth. Pygmy seahorses may be found on sea fans at depth. The reef proper supports schools of anthias, damselfish, and wrasse, with occasional hawksbill sea turtle sightings. Flatworms and sea slugs add to the macro inventory.
+Bahura's proximity to the Verde Island Passage corridor means exceptional biodiversity. Nudibranchs are prolific — Anilao is world-famous for nudibranch diversity, and this site delivers dozens of species on a single dive. Frogfish in multiple colour morphs inhabit the sponge growth. The reef proper supports schools of anthias, damselfish, and wrasse. Flatworms and sea slugs add to the macro inventory. Note: PADI's dive site listing for Bahura includes a long generic species checklist (including sharks, whales, and dolphins) that reads as a regional template rather than site-specific reporting and is not repeated here; pygmy seahorse and turtle claims from earlier drafts of this page could not be traced to a site-specific source and have been removed pending better documentation.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Shallow site with generally mild conditions. Standard Anilao precautions apply: 
 Anilao is one of the world's premier macro photography destinations, and Bahura represents this tradition well. Nudibranch portraits, frogfish close-ups, and reef fish images in excellent natural light are the primary subjects. Take extra batteries — you will want more dive time than a single tank provides.
 
 ---
-*Sources: [AnilaoDiving.com – Bahura](https://www.anilaodiving.com/bahura.htm), [Divezone – Anilao Batangas](https://divezone.net/diving/anilao-batangas), [PADI – Bahura Dive House Reef](https://www.padi.com/dive-site/philippines/bahura-dive-house-reef/). Last updated 2026-06-25.*
+*Sources: [AnilaoDiving.com – Bahura](https://www.anilaodiving.com/bahura.htm), [Divezone – Anilao Batangas](https://divezone.net/diving/anilao-batangas), [PADI – Bahura Dive House Reef](https://www.padi.com/dive-site/philippines/bahura-dive-house-reef/). Depth conflict between sources noted above. Last updated 2026-08-19.*

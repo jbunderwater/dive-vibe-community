@@ -17,7 +17,7 @@ A largely intact WWII Japanese reconnaissance seaplane resting at just 12 meters
 
 ## Overview
 
-The Aichi E13A1, codenamed "Jake" by the Allies, was a three-seat reconnaissance floatplane used extensively by the Imperial Japanese Navy throughout the Pacific War. This example sits on the reef edge south of Nusa Island Resort in Kavieng, New Ireland Province. The aircraft is largely intact, though the floats and tail section are missing. Three open cockpits are clearly visible, making it easy to imagine the crew positions during wartime patrols. The shallow depth of 12 meters and sheltered location make this an excellent residual-air dive with generous bottom time.
+The Aichi E13A1, codenamed "Jake" by the Allies, was a three-seat reconnaissance floatplane used extensively by the Imperial Japanese Navy throughout the Pacific War. This example sits on the reef edge 930 metres south of Nusa Island Resort in Kavieng, New Ireland Province. The aircraft is largely intact, though the tail section is absent and the floats have separated from the fuselage (one damaged, one intact) and now rest nearby on the reef. Three open cockpits are clearly visible, making it easy to imagine the crew positions during wartime patrols. The shallow depth of 12 meters and sheltered location make this an excellent residual-air dive with generous bottom time.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Aichi E13A1, codenamed "Jake" by the Allies, was a three-seat reconnaissance
 
 ## Marine Life
 
-The seaplane has become an artificial reef over eight decades. Coral growth covers much of the airframe, and anemones with resident clownfish have colonized the wings and fuselage. Small reef fish shelter around the cockpit openings and engine cowling. The surrounding reef edge supports the typical Kavieng mix of hard and soft corals, with schooling fusiliers and damselfish in the water column above the wreck.
+Michael McFadyen's site account -- the primary source for this wreck -- confirms the area is "also good for finding pipefish" but does not document other species at this specific site. This description does not attribute further marine life to the wreck; the destination's regional reef fauna likely applies to the surrounding reef edge, but this has not been confirmed through a site-specific report.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, a short ride south. Entry is by 
 This is a benign dive site suitable for all certification levels. Current is typically negligible. The shallow depth eliminates decompression concerns for any reasonable dive duration. Maintain good buoyancy to avoid contact with the fragile coral growth on the airframe. As with all WWII wrecks in Papua New Guinea, do not remove any artifacts.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=706), [Indopacific Images – Kavieng Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=706), [Indopacific Images – Kavieng Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/). Last updated 2026-08-19.*

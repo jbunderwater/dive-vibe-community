@@ -3,7 +3,7 @@ name: Exotic House Reef
 lat: 11.3291169
 lng: 124.1260138
 difficulty: Beginner
-maxDepth: 13
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,23 +13,36 @@ addedBy: osm_import
 
 ## Exotic House Reef
 
-Exotic House Reef is a reef dive site in Philippines Malapascua, Asia.
+Exotic House Reef is Malapascua Exotic Island Dive Resort's protected house reef, a shallow site featuring artificial structures — including coral-encrusted jeepneys and old boats — that earned a Project AWARE Environmental Achievement Award in 2008.
 
 ## Overview
 
-Exotic House Reef is the sandy-bottomed fringing reef in front of Exotic Beach Resort on Malapascua's southern shore, accessible directly from the beach at any tide. The rubble and seagrass patches in 5–13 meters of water shelter a classic Visayan muck fauna — ghost pipefish, robust and hairy frogfish, and colonies of blue-spotted ribbontail rays resting on the sand. Dusk dives here are especially rewarding, as mandarin fish begin their mating ritual in the coral rubble just as the light fades.
+Exotic House Reef starts at around 5 meters and gently slopes to about 15 meters, with scattered coral and patches of sea grass over a sandy bottom. Artificial structures placed by the resort, including coral-encrusted jeepneys and a few old boats, provide additional habitat for fish and macro life. In February 2008 the site received the Environmental Achievement Award from Project AWARE. Only two independent sources describing this exact site were found during this research pass, so treat details beyond the confirmed facts above with some caution.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Off Malapascua Exotic Island Dive Resort, southern Malapascua Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 13 meters
+- **Maximum Depth**: 15 meters
 
 ## Marine Life
 
-Exotic House Reef is best known for its mandarin fish population — the rubble patches at 5–10 meters come alive at dusk when pairs perform their brief, vivid mating display. During the day, hairy and robust frogfish sit camouflaged on the rubble, ghost pipefish drift among crinoids, and blue-spotted ribbontail rays rest in clusters on the open sand. The seagrass patches also yield seahorses and the occasional ghost pipefish for attentive macro hunters.
+Sources describe "a wide variety of fish and macro life" among the scattered coral and artificial structures, without naming specific species tied to this site. Mandarinfish courtship displays are well documented nearby (at Evolution House Reef and Lighthouse) but were not specifically confirmed for Exotic House Reef in the sources reviewed, so that claim has been removed rather than assumed.
+
+## Entry and Exit
+
+A short boat ride from Malapascua Exotic Island Dive Resort. Entry by giant stride; return to the boat by ladder.
+
+## Tips and Recommendations
+
+- Good easy second or third dive of the day given the shallow, sheltered profile
+- The artificial jeepneys and boats are worth a slow look for macro life sheltering in the structures
+
+## Safety Considerations
+
+The shallow depth (max 15m) keeps decompression risk low. Standard boat-diving precautions apply.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua Exotic Island Dive Resort](https://www.malapascua.net/diving/dive-sites.html), [ScubaTravel — Malapascua Exotic Island Dive Resort](https://www.scubatravel.com/holidays/resorts/philippines/exotic/exotic.html). Only 2 independent domains found for this specific site during this deep-QA pass — below the 3-source bar. Last updated 2026-08-19.*

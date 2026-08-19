@@ -57,4 +57,4 @@ Access is by dive boat from Port Moresby or Bootless Bay operators, approximatel
 Poor visibility is the primary challenge. Maintain close contact with your buddy and guide. Carry a torch. The shallow depth eliminates decompression concerns. Harbour conditions can include boat traffic overhead -- listen for engines during your safety stop and deploy an SMB. Do not remove artifacts from WWII wrecks.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=350), [Pacific Wrecks](https://www.pacificwrecks.com/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=350), [Pacific Wrecks](https://www.pacificwrecks.com/). Last updated 2026-08-19.*
