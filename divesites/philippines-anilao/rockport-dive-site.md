@@ -58,4 +58,4 @@ Standard Anilao precautions apply. Deploy SMB before surfacing. Manage no-decomp
 
 Reef fish portrait photography and nudibranch macro work are the primary subjects. Natural light in the 5–15 meter range is excellent for ambient-light photography. Strobe setups improve colour accuracy and critter visibility at depth.
 
-*Description based on regional Anilao diving characteristics. No site-specific sources found for Rockport Dive Site. Dive site exists in OpenStreetMap but is not documented in available dive operator listings, ScubaBoard, or dive databases. Marine life claims above reflect general Anilao reef conditions, not site-specific observations. Last updated 2026-06-25.*
+*Description based on regional Anilao diving characteristics. No site-specific sources found for Rockport Dive Site. Dive site exists in OpenStreetMap but is not documented in available dive operator listings, ScubaBoard, or dive databases. Marine life claims above reflect general Anilao reef conditions, not site-specific observations. Last updated 2026-08-20.*

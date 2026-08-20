@@ -32,7 +32,7 @@ The two rock formations that give the site its name create an underwater structu
 
 ## Marine Life
 
-The twin rock structure creates habitat variety in a small area. The sheltered gap between the rocks hosts seahorses, pipefish, and other species that prefer calm water. The outer faces of the rocks have denser coral and sponge growth with associated nudibranchs, flatworms, and frogfish. At the rock bases, the sandy rubble margins are excellent for finding ghost pipefish near crinoids and jawfish in their burrows. Sea snakes occasionally cruise the site.
+The twin rock structure creates habitat variety in a small area. The sheltered gap between the rocks hosts seahorses, pipefish, and other species that prefer calm water. The outer faces of the rocks have denser coral and sponge growth with associated nudibranchs, flatworms, and frogfish. At the rock bases, the sandy rubble margins are excellent for finding ghost pipefish near crinoids and jawfish in their burrows. Sea snakes occasionally cruise the site. Resident sea turtles are reported at the site (philippinedivemaster.com). The nutrient-rich Verde Island Passage currents also bring in blue ribbon eels and schools of jacks and barracuda that pass close to the rocks (fordivers.com).
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Standard Anilao conditions apply. Light current at this site. Deploy SMB before 
 The twin rock structure provides compositional variety for both wide-angle and macro shooting. The interplay of light in the gap between the rocks creates interesting ambient-light conditions. Macro subjects on the rock faces and in the sheltered gap are the highlights.
 
 ---
-*Sources: [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Wannadive – Twin Rocks Anilao](https://wannadive.net), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-06-25.*
+*Sources: [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Wannadive – Twin Rocks Marine Sanctuary](https://www.wannadive.net/spot/Asia/Philippines/Luzon/Anilao_and_Batangas/Twin_Rocks_Marine_Sanctuary/index.html), [For Divers – Twin Rocks Anilao](https://www.fordivers.com/en/donde-bucear/twin-rocks-anilao-filipinas/), [Philippine Dive Master – Twin Rocks](https://www.philippinedivemaster.com/philippine-dive-sites/anilao-mabini-dive-sites/twin-rocks). Last updated 2026-08-20.*

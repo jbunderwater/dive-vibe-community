@@ -55,4 +55,4 @@ Access is by dive boat from Madang-based operators, a short ride to Wangat Islan
 The ammunition in the nose guns is live ordnance -- observe from a close but safe distance and do not touch. Visibility is limited, making buddy contact and navigation important. A torch is essential. The moderate depth allows comfortable dive times without decompression concerns for most profiles. This is a WWII crash site -- treat it with appropriate respect and do not remove any artifacts.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=369), [Pacific Wrecks](https://www.pacificwrecks.com/), [Argunners Magazine](https://www.argunners.com/), [DivePlanit](https://www.diveplanit.com/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=369), [Pacific Wrecks](https://www.pacificwrecks.com/), [Argunners Magazine](https://www.argunners.com/), [DivePlanit](https://www.diveplanit.com/). Last updated 2026-08-20.*

@@ -32,7 +32,7 @@ The "muck" classification at Koala Reef indicates a substrate dominated by sand,
 
 ## Marine Life
 
-Muck diving at Koala Reef yields the species Anilao is famous for. Frogfish — including the spectacular hairy frogfish — hunt from camouflaged positions on sponge and rubble. Flamboyant cuttlefish (*Metasepia pfefferi*) strut across the sandy bottom displaying iridescent colour patterns. Nudibranchs in dozens of species inhabit every substrate type. Jawfish extend from burrows in the sand. Ghost pipefish and robust ghost pipefish shelter near sparse coral and crinoids. Octopus are common and can be found in hunting mode on the open muck substrate.
+Muck diving at Koala Reef ("Critter Capital") yields the species Anilao is famous for. Wonderpus octopus, harlequin shrimp, and rhinopias (weedy/paddle-flap scorpionfish) are named specifically for this site by two independent sources (uwphotographyguide.com and dive-the-world.com) and are the signature finds here. Frogfish — including the spectacular hairy frogfish — hunt from camouflaged positions on sponge and rubble. Nudibranchs in dozens of species inhabit every substrate type. Jawfish extend from burrows in the sand. Ghost pipefish and robust ghost pipefish shelter near sparse coral and crinoids. Octopus are common and can be found in hunting mode on the open muck substrate. Flamboyant cuttlefish, seahorses, mimic octopus, Coleman shrimp, and dragonets are reported by dive-the-world.com for the broader "Koala Point" muck-site cluster rather than confirmed for this exact point — treat these as likely rather than guaranteed on any given dive.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Muck sites typically have good conditions — little current, manageable depth, 
 Anilao muck photography is world-class. The primary subjects — frogfish, nudibranchs, flatworms, cuttlefish, and octopus — reward close-focus macro setups. Reduced natural light on the muck substrate often requires strobe use even in daytime. The Anilao muck site experience is considered the ultimate macro photography challenge by many professional underwater photographers.
 
 ---
-*Sources: [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving), [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-06-25.*
+*Sources: [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving), [Dive The World – Batangas Diving](https://www.dive-the-world.com/diving-sites-philippines-batangas-anilao.php), [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-08-20.*
