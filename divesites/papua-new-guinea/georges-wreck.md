@@ -32,7 +32,7 @@ Georges Wreck is a WWII Japanese vessel lying upright on a steep slope near the 
 
 ## Marine Life
 
-The wreck has become a thriving artificial reef. Large gorgonian sea fans have established on the bow section, some reaching impressive size. The hull is encrusted with hard and soft corals, sponges, and tunicates. Fish life includes the typical Rabaul reef species sheltering around the superstructure and inside the holds. Glassy sweepers form clouds inside the engine room and cargo spaces.
+The wreck has become a thriving artificial reef. Large gorgonian sea fans are documented on the port side near Hold 1 and in the bow forecastle -- the confirmed highlight of the site's marine growth. The hull is otherwise encrusted with hard and soft corals, sponges, and tunicates, and general Rabaul reef fish shelter around the superstructure and holds, though no source specifically documents species inside the engine room or cargo spaces.
 
 ## Dive Profile
 

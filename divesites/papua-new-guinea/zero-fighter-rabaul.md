@@ -17,7 +17,7 @@ The Zero Fighter is a remarkably intact WWII Japanese Mitsubishi A6M2 Zero aircr
 
 ## Overview
 
-The waters around Rabaul and Blanche Bay hold numerous aircraft from the intense aerial campaigns of 1942-1944, when Rabaul was Japan's principal Pacific air base. This Mitsubishi A6M2 Zero — the most iconic Japanese fighter of the war — lies upright on a sloping sandy bottom at approximately 29-30 meters near Malapau village on the southwest shore of Blanche Bay, near Kokopo. The fuselage, wing sections, propellers, and machine guns remain in place, and the airframe is largely intact despite more than 80 years of submersion. The cockpit canopy is absent (open), allowing views into the cockpit interior. Coral encrustation has been building steadily across the airframe. At approximately 29-30 meters, the Zero is accessible to Advanced Open Water divers, making it one of the more accessible WWII aircraft wrecks in the Rabaul region.
+The waters around Rabaul and Blanche Bay hold numerous aircraft from the intense aerial campaigns of 1942-1944, when Rabaul was Japan's principal Pacific air base. This Mitsubishi A6M2 Model 21 Zero — the most iconic Japanese fighter of the war — lies upright on a sloping sandy bottom at approximately 30 meters near Malapau village on the southwest shore of Blanche Bay, near Kokopo. It was first discovered in the early 1970s and is believed to have belonged to an unidentified Kōkūtai (air group) based at one of Rabaul's wartime airfields. The fuselage, wing sections, propellers, and machine guns remain in place, and the airframe is largely intact. Bullet holes in the starboard side indicate the aircraft was shot down, and damage to the starboard rear fuselage suggests it struck the water tail-first. The cockpit canopy is absent (open), allowing views into the cockpit interior. Local village legend holds that the pilot survived, swam ashore, and later returned to duty, but the exact date and circumstances of the loss are unconfirmed. Coral encrustation has been building steadily across the airframe. At approximately 30 meters, the Zero is accessible to Advanced Open Water divers, making it one of the more accessible WWII aircraft wrecks in the Rabaul region.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The waters around Rabaul and Blanche Bay hold numerous aircraft from the intense
 
 ## Marine Life
 
-Lionfish roosting in the cockpit and wheel well, scorpionfish on the wing surfaces, glassfish and damsels around the fuselage, coral and sponge growth on the airframe. Resident nudibranchs browse the encrusted surfaces. The sandy bottom around the aircraft hosts flatfish, garden eels in the distance, and occasional stingrays. Whitetip reef sharks sometimes rest on the sand near the wreck.
+Schools of baitfish shelter inside the open cockpit -- the one species specifically documented at this wreck. Coral and sponge growth is building across the airframe. Beyond the baitfish, no source confirms specific reef species for this site; expect the general small-reef-fish community typical of encrusted Blanche Bay wrecks rather than the named species sometimes listed for other Rabaul sites.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Depth (30 meters) approaches the recreational limit — monitor no-decompression
 The Zero Fighter is one of Papua New Guinea's most photographed WWII wrecks due to its intact condition, recognizable form, and accessible depth. Classic compositions include the full aircraft silhouette from the side or slightly below, the cockpit detail shot with torch illumination, and close-up macro shots of the encrusted engine cowling. A rectilinear wide-angle lens at the 16-20mm range captures the full aircraft. Natural light is adequate for ambient shots during morning dives; a torch or single strobe is needed for detail work.
 
 ---
-*Sources: [Indopacific Images – Rabaul Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Tech Dive Travels – Rabaul](https://techdivetravels.com/), [underwaterasia.info](https://www.underwaterasia.info/), [Scuba Diver Life PNG](https://scubadiverlife.com/). Last updated 2026-08-20.*
+*Sources: [Indopacific Images – Rabaul Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [TracesOfWar – A6M2 Model 21 Zero, Blanche Bay](https://www.tracesofwar.com/sights/124178/Crash-Site-en-Remains-A6M2-Model-21-Zero.htm), [Tech Dive Travels – Rabaul](https://techdivetravels.com/), [underwaterasia.info](https://www.underwaterasia.info/), [Scuba Diver Life PNG](https://scubadiverlife.com/). Last updated 2026-08-20.*

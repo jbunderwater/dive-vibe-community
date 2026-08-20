@@ -17,7 +17,7 @@ A former Australian Attack Class patrol boat (32.6 meters), donated to Papua New
 
 ## Overview
 
-HMPNGS Aitape is a former Royal Australian Navy Attack Class patrol boat, 32.6 meters in length, that was donated to the Papua New Guinea Defence Force in 1974. After serving the PNG Navy, the vessel was deliberately scuttled in 1995 to create an artificial reef and dive site near Port Moresby. The wreck sits at approximately 30 meters depth, with the stern resting at 27 meters where the twin propellers are visible. Since sinking, the Aitape has become a magnet for marine life -- huge schools of trevally, mangrove jacks, sweetlips, and batfish swarm around and through the vessel. Penetration is possible but tight, with wires and cables creating snag hazards inside. Visibility is typically 10-15 meters, more limited than the outer reef sites.
+HMPNGS Aitape is a former Royal Australian Navy Attack Class patrol boat, 32.6 meters long, 6.1 meters wide, and displacing 146 tons at full load. Commissioned as HMAS Aitape in November 1967, she was transferred to the Papua New Guinea Defence Force on 14 November 1974, a year ahead of PNG's independence. She was paid off in 1982 and used for spare parts, then sat deteriorating in Port Moresby Harbour until she was deliberately sunk as a dive site in 1995. The wreck's stern rests at 27 meters, with the interior hull around 28-29 meters. Since sinking, the Aitape has become a magnet for marine life -- huge schools of trevally, mangrove jacks, sweetlips, and batfish swarm around and through the vessel. Penetration is possible but tight, with wires and cables creating snag hazards inside. Visibility is typically 10-15 meters, more limited than the outer reef sites. Access is arranged exclusively through the Port Moresby Sub Aqua Club -- commercial dive operators elsewhere in PNG do not service this site.
 
 ## Site Information
 
@@ -40,7 +40,7 @@ Descend to the wreck at approximately 30 meters. The stern is a good starting po
 
 ## Entry and Exit
 
-Access is by dive boat from Port Moresby operators. Entry is by giant stride. Descend directly to the wreck. Surface near the descent point with an SMB for boat pickup.
+Access is arranged exclusively through the Port Moresby Sub Aqua Club -- commercial operators elsewhere do not run trips to this wreck, so contact the club in advance. Entry is by giant stride. Descend directly to the wreck. Surface near the descent point with an SMB for boat pickup.
 
 ## Tips and Recommendations
 

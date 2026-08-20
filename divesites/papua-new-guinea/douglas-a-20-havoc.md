@@ -17,7 +17,7 @@ A WWII A-20A Havoc attack bomber (serial 40-173, "Strawberry Roan") resting on a
 
 ## Overview
 
-The Douglas A-20A Havoc (serial 40-173, nicknamed "Strawberry Roan") was a twin-engine light attack bomber used by the United States Army Air Forces during the New Guinea campaign. On 22 or 23 April 1943, the aircraft suffered port engine failure and was deliberately ditched by pilot 2nd Lt. William Langley on the eastern side of a coral reef near Loloata Island in Bootless Bay, approximately 20 km east of Port Moresby. All crew survived. The wreck was discovered on 6 November 1980 by Dik Knight.
+The Douglas A-20A Havoc (serial 40-173, nicknamed "Strawberry Roan") was a twin-engine light attack bomber used by the United States Army Air Forces during the New Guinea campaign. On 22 or 23 April 1943 (sources vary by a day), the aircraft suffered port engine failure, and hydraulic trouble prevented the landing gear from deploying, forcing pilot 2nd Lt. William Langley to ditch on the eastern side of a coral reef near Loloata Island in Bootless Bay, approximately 20 km east of Port Moresby. All crew survived. The wreck was discovered on 6 November 1980 by Dik Knight, the owner of Loloata Island.
 
 The aircraft rests on a sandy bottom at 16-18 meters. The airframe is present and recognizable -- the starboard propeller is bent back (engine was running at impact) while the port propeller is undamaged (engine had been shut down), and the flaps are fully extended, all consistent with a controlled engine-failure ditching. Most cockpit instruments have been removed; the seat, throttles, and joystick controls remain. The Bootless Bay location means water clarity is influenced by nearby mangroves and tidal flow, and visibility can be variable.
 

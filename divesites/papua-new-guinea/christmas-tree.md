@@ -17,7 +17,7 @@ An advanced wall dive outside Port Moresby's barrier reef, past Basilisk Passage
 
 ## Overview
 
-Christmas Tree is located outside the barrier reef near Port Moresby, past Basilisk Passage. The site is named after a large coral bommie whose shape resembles a Christmas tree. The main feature is a wall that drops past 55 meters, with Mark's Ravine -- a gully cutting into the wall face -- descending to 45 meters and lined with large gorgonian sea fans. Grey reef sharks patrol the wall edge, and humpheaded (Napoleon) wrasse are regular visitors. The exposed open-water location and depth make this an advanced dive, but the combination of dramatic wall topography, deep gully exploration, and shark encounters rewards those with the experience and gas management skills to dive it safely. Visibility is typically around 25 meters.
+Christmas Tree is located outside the barrier reef near Port Moresby, past Basilisk Passage. The site is named after a large coral bommie whose shape resembles a Christmas tree; large timber logs from an old shipwreck are scattered across the surrounding slope. The main feature is a wall that drops past 55 meters, with Mark's Ravine -- a narrow gully named for Mark Palmer, a former president of the Port Moresby Sub Aqua Club -- descending to approximately 45 meters and holding a couple of very large gorgonian sea fans. Grey reef sharks patrol the wall edge, and humpheaded (Napoleon) wrasse are regular visitors. The exposed open-water location and depth make this an advanced dive, but the combination of dramatic wall topography, deep gully exploration, and shark encounters rewards those with the experience and gas management skills to dive it safely. Visibility is typically around 25 meters. Access is limited to the Port Moresby Sub Aqua Club -- commercial dive operators do not service this location.
 
 ## Site Information
 
@@ -40,7 +40,7 @@ Descend to the wall and locate the Christmas Tree bommie as your reference point
 
 ## Entry and Exit
 
-Access is by dive boat from Port Moresby, transiting past Basilisk Passage to the outer reef. The exposed location means sea conditions may prevent access on rough days. Entry is by giant stride. Deploy an SMB for ascent and boat pickup.
+Access is arranged through the Port Moresby Sub Aqua Club, transiting past Basilisk Passage to the outer reef -- commercial operators do not run trips here, so arrange the dive with the club in advance. The exposed location means sea conditions may prevent access on rough days. Entry is by giant stride. Deploy an SMB for ascent and boat pickup.
 
 ## Tips and Recommendations
 

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Kulua Lodge Wrecks
 
-A cluster of five wrecks -- three large and two smaller -- scattered off Kulua Lodge beach near Rabaul, linked by guide lines and surrounded by what appear to be post-WWII artillery shell casings on the seabed.
+A cluster of six wrecks -- three large and three smaller -- scattered off Kulua Lodge beach near Rabaul, linked by guide lines and surrounded by a large scatter of artillery shell casings on the seabed.
 
 ## Overview
 
-The Kulua Lodge Wrecks are a cluster of five vessels lying off the beach near Kulua Lodge (also spelled "Kulau") in the Rabaul area of East New Britain Province. Three large wrecks form the main attractions: K1 is a steel trawler with its bow at 40+ meters on the sandy bottom; K2 is a large barge approximately 50 meters long; and K3 is a 35-meter coastal freighter. Two smaller wrecks (a small barge and a 6-meter runabout) lie near K1. The seabed between the wrecks is scattered with what appear to be artillery shell casings -- McFadyen speculates these were disposed of from the shore or a vessel after WWII, though this has not been independently confirmed. Guideline connections between wrecks allow divers to navigate the site on a single dive. Visibility ranges from 15 to 20 meters. Guide lines connect the wrecks, allowing divers to navigate between them on a single dive. The dive profile naturally ascends from 40 meters at the deepest wreck to approximately 10 meters at the shallowest, making gas management straightforward. Visibility ranges from 15 to 20 meters.
+The Kulua Lodge Wrecks are a cluster of six vessels lying off the beach near Kulua Lodge (also spelled "Kulau") in the Rabaul area of East New Britain Province. Three large wrecks form the main attractions: K1 is a steel trawler with its bow at 40+ meters on the sandy bottom; K2 is a large barge approximately 50 meters long; and K3 is a 35-meter coastal freighter lying on its port side. Three smaller wrecks lie nearby: the ruins of a timber vessel, a 15-meter barge, and a 6-meter runabout. The seabed near K1 is scattered with at least a couple of hundred artillery shell casings (six- and eight-inch calibre) -- Michael McFadyen, the primary source for this site, speculates a warship anchored here during the war may have dumped them during a battle, though this has not been independently confirmed. Guide lines connect the wrecks, allowing divers to navigate between them on a single dive. The dive profile naturally ascends from 40 meters at the deepest wreck to approximately 10 meters at the shallowest, making gas management straightforward. Visibility ranges from 15 to 20 meters.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ The Kulua Lodge Wrecks are a cluster of five vessels lying off the beach near Ku
 
 ## Marine Life
 
-The cluster of wrecks creates a substantial artificial reef complex. Each vessel supports its own community of corals, sponges, and reef fish. Glassy sweepers fill interior spaces. Lionfish and scorpionfish lurk in shadowed areas. The shell casings on the seabed between wrecks attract bottom-dwelling species and provide attachment points for marine growth.
+The cluster of wrecks creates a substantial artificial reef complex. Firefish, anemones with resident clownfish, and small gorgonias are documented on the wrecks, with K3 in particular described as especially colourful. Beyond these confirmed species, expect the general community of corals, sponges, and reef fish typical of encrusted PNG wrecks; no source documents interior fish life (e.g. glassfish or sweepers) specifically for this site.
 
 ## Dive Profile
 
-The dive follows the guide lines between wrecks, starting at the deepest (K1 steel trawler bow at 40+ meters) and ascending progressively to shallower wrecks. K2, the large barge, is the most extensive structure and offers the most exploration. K3, the 35-meter coastal freighter, is the most compact. Between the wrecks, the sandy bottom has scattered shell casings -- take time to observe them as you transit, but note their origin is not definitively confirmed as WWII ordnance. The natural ascent from 40 meters to approximately 10 meters over the course of the dive makes decompression management straightforward. Total dive time of 45-60 minutes is typical.
+The dive follows the guide lines between wrecks, starting at the deepest (K1 steel trawler bow at 40+ meters) and ascending progressively to shallower wrecks. K2, the large barge, is the most extensive structure and offers the most exploration. K3, the 35-meter coastal freighter, is the most compact. Between the wrecks, the sandy bottom near K1 has a large scatter of shell casings -- take time to observe them as you transit, but their exact origin (theorised as wartime jettisoning by an anchored warship) is not definitively confirmed. The natural ascent from 40 meters to approximately 10 meters over the course of the dive makes decompression management straightforward. Total dive time of 45-60 minutes is typical.
 
 ## Entry and Exit
 

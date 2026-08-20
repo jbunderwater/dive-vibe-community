@@ -32,7 +32,7 @@ The Aichi E13A1, codenamed "Jake" by the Allies, was a three-seat reconnaissance
 
 ## Marine Life
 
-The seaplane has become an artificial reef over eight decades. Coral growth covers much of the airframe, and anemones with resident clownfish have colonized the wings and fuselage. Small reef fish shelter around the cockpit openings and engine cowling. The surrounding reef edge supports the typical Kavieng mix of hard and soft corals, with schooling fusiliers and damselfish in the water column above the wreck.
+Coral growth covers much of the airframe. The site is specifically noted by Michael McFadyen as a good spot for finding pipefish. Beyond that documented sighting, no source confirms particular reef-fish species at this wreck; expect the general small-reef-fish community of the surrounding Kavieng reef edge rather than a site-specific list.
 
 ## Dive Profile
 
