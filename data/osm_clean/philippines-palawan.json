@@ -10,17 +10,17 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Japanese Navy seaplane tender sunk 24 September 1944. Wreck lies on port side in 36m, with upper surfaces at 22m. Advanced wreck diving required.",
+      "description": "Japanese Imperial Navy seaplane tender laid down 29 October 1940, launched 25 July 1941, and commissioned 29 April 1942 (Wikipedia). Sunk by US Task Force 38 carrier aircraft at Coron Bay on 24 September 1944, with a direct hit reported to have detonated stored aviation fuel aft (scubatechphilippines.com, divezone.net). Lies on its port side; sources report a maximum depth between 36 and 38 meters, with the upper hull around 22 meters (scubatechphilippines.com, divezone.net, divers-guide.com). Length is reported as approximately 114.8-118 meters and standard displacement around 4,650 long tons (Wikipedia, scubatechphilippines.com). Advanced wreck diving required; penetration to engine rooms and deck-gun machinery is possible for trained, properly equipped divers only.",
       "historic": "wreck",
       "name": "Akitsushima",
       "scuba_diving:depth": "22",
-      "scuba_diving:maxdepth": "36",
+      "scuba_diving:maxdepth": "36-38",
       "scuba_diving:type:wreck": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubatechphilippines.com, divers-guide.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "en.wikipedia.org,scubatechphilippines.com,divezone.net,divers-guide.com",
+      "last_qa_date": "2026-08-21"
     }
   },
   {
@@ -29,21 +29,22 @@
     "lon": 119.3047041,
     "osm_id": 9865420678,
     "osm_type": "node",
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 25,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "description": "Also known as South Miniloc, this signature El Nido site features vibrant coral gardens with large schools of yellow snappers, tunas, jacks, and barracudas. Shaped like a triangle at 12m depth. Best conditions April-October with mild currents.",
+      "description": "Also known as South Miniloc, a triangular coral reef/plateau between Miniloc and Simizu islands and one of El Nido's most-dived sites (travel-palawan.com, tabanka-divers.com, aquanautelnido.com). Sources describe a shallow cabbage-coral garden around 9-12 meters that opens onto a plateau reported at depths from 25 up to 40 meters depending on the source; occasional strong channel currents. Confirmed sightings: schools of yellow snapper and silver tuna, jacks, barracuda, squid, cuttlefish, hawksbill and green turtles, and Napoleon wrasse.",
       "name": "Biet Point",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
-      "scuba_diving:maxdepth": "21m",
+      "scuba_diving:maxdepth": "25m",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "travel-palawan.com, palawan-divers.org",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "travel-palawan.com,tabanka-divers.com,vanillabeach.com.ph,aquanautelnido.com",
+      "last_qa_date": "2026-08-21",
+      "site_type_correction": "Reclassified from wall to reef on 2026-08-21 re-audit: no source describes a vertical wall/drop-off here; all four sources describe a reef plateau (tabanka-divers.com explicitly calls it a \"plateau dive\")."
     }
   },
   {
@@ -57,13 +58,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "El Nido cave dive with natural passages and chambers. Advanced qualification required for cave diving.",
+      "description": "El Nido cave/cavern dive in the Matinloc Island cluster. Advanced qualification required for cave diving. Note: the 2026-08-21 re-audit could not independently confirm this specific, generically-named site against any currently live dive-shop or forum listing (Dilumacad Tunnel and Paglugaban are the only confirmed cave/cavern-type sites found near El Nido in this pass, and neither is confirmed to be this location). Content is left unchanged pending further identification.",
       "name": "Cave",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "travel-palawan.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: fewer than 3 independent live sources found for this specific named site. validated left as-is per QA policy; do not treat as fully re-verified."
     }
   },
   {
@@ -83,7 +85,8 @@
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "divephilippines.com.ph",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: previously-cited source domain (divephilippines.com.ph) now returns compromised/spam content and could not be re-verified live. Search-engine snippets from travel-palawan.com and palawan-divers.org are consistent with the existing description, but fewer than 3 independently fetched sources were obtained, so this does not meet the 3-domain bar. validated left as-is per QA policy; not fully re-verified."
     }
   },
   {
@@ -97,13 +100,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Matinloc Island site (Picanayas) with large boulders attracting whitetip sharks. Pelagics commonly observed. Strong currents bring robust marine life.",
+      "description": "Matinloc Island site (also called Picanayas) with large boulders reported to attract whitetip sharks and pelagics, per search-indexed content from travel-palawan.com and palawan-divers.org. Note: a differently-spelled site (\"Pacanayas\") listed by aquanautelnido.com describes a 6-24m circular reef with table and daisy coral instead of a boulder wall — it is unclear whether this is the same site under an alternate spelling or a distinct nearby site; this was not resolved in the 2026-08-21 audit.",
       "name": "Bikanayos Rock",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
       "validation_source": "divephilippines.com.ph",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: previously-cited source domain (divephilippines.com.ph) now returns compromised/spam content and could not be re-verified live. Fewer than 3 independently fetched sources obtained; possible name/identity conflict with \"Pacanayas\" per aquanautelnido.com. validated left as-is per QA policy; not fully re-verified."
     }
   },
   {
@@ -112,20 +116,21 @@
     "lon": 119.1645987,
     "osm_id": 1354585119,
     "osm_type": "way",
-    "depth": 20,
+    "depth": 8,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
-      "description": "Port Barton area. Shallow coral reef ideal for snorkeling and beginners. Excellent coral formations with butterflyfish, clownfish, and colorful reef fish.",
+      "description": "Port Barton's most popular snorkel/dive stop: a small reef (about 100m across) with two coral patches. The reef flat sits in 2-3m (can be exposed at low tide), with drop-offs beginning around 5m (rafsreefbrief.com). A 2024-2025 coral condition survey found healthy patches of hispidose and branching Acropora and foliose Montipora growing up to the waterline, alongside significant dead coral between the healthy patches, consistent with a 2024 regional bleaching event; anchor damage from mooring boats is also a concern. Turtles are commonly sighted (tikigo.com, rafsreefbrief.com).",
       "name": "Twin Reef",
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "spendlifetraveling.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "tikigo.com,rafsreefbrief.com,kateandmikestravels.com",
+      "last_qa_date": "2026-08-21",
+      "qa_correction": "Depth corrected from 20m to 8m on 2026-08-21 re-audit — this is a shallow reef-flat/snorkel site, not a 20m dive per rafsreefbrief.com's 2024-2025 survey."
     }
   },
   {
@@ -134,20 +139,21 @@
     "lon": 119.1612451,
     "osm_id": 1354585330,
     "osm_type": "way",
-    "depth": 25,
+    "depth": 10,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
-      "description": "Port Barton. Dramatic coral formations with massive brain corals. Schools of fish cruise the site. Drop-offs visible in calm seas. Good intermediate skill level site.",
+      "description": "Reef off San Vicente near Port Barton, about a 30-minute boat ride out. The reef flat sits in 2-3m, with drop-offs sloping to roughly 10m (rafsreefbrief.com). A 2024-2025 coral condition survey found the site in poor overall condition, with macroalgae dominant and 50% or more of the drop-off coral damaged or dead, though massive Porites boulder colonies survive. Visibility around 5m. Schools of rabbitfish and parrotfish and green sea turtles were reported during the survey. Suitable for both beginners and experienced divers/snorkelers (mindtrip.ai).",
       "name": "Fantastic Reef",
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "spendlifetraveling.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "tikigo.com,rafsreefbrief.com,mindtrip.ai",
+      "last_qa_date": "2026-08-21",
+      "qa_correction": "Depth corrected from 25m to 10m and difficulty corrected from Intermediate to Beginner on 2026-08-21 re-audit, per rafsreefbrief.com's 2024-2025 survey and mindtrip.ai noting suitability for beginners. Description of coral condition corrected from 'massive brain corals... reaching significant size after years of undisturbed growth' (unsupported/outdated) to reflect current poor condition."
     }
   },
   {
@@ -156,20 +162,21 @@
     "lon": 119.8142609,
     "osm_id": 31974943,
     "osm_type": "way",
-    "depth": 29,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Part of Tubbataha Reef Marine Park, south Palawan. Mushroom-shaped reef structure with sloping reefs and dramatic undercut drop-offs. Strong shark activity including grey reef sharks, whitetips, and hammerheads. Barracuda, Spanish mackerel, and Napoleon wrasse. Accessible March-June only.",
+      "description": "The northernmost and smallest reef structure of Tubbataha Reefs Natural Park (UNESCO World Heritage Site), about 20km north of the North Atoll (en.wikipedia.org), accessible only by liveaboard from Puerto Princesa, typically March-June. Mushroom-shaped structure starting around 7 meters and sloping to roughly 12-30 meters on the recreational shelf before the wall drops beyond recreational limits; sources report the drop continuing past 40-50 meters. Currents are fast and can change speed and direction unpredictably (bluewaterdivetravel.com, dive-the-world.com). Confirmed sightings: hammerhead sharks (especially on the northwest side), large barracuda, Spanish mackerel, tuna, grouper, Napoleon wrasse, unicornfish, and surgeonfish over pristine Porites and Acropora coral (asiadivesite.com, dive-the-world.com).",
       "name": "Jesse Beazley Reef",
       "natural": "reef",
       "subsea": "coral_reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "divehappy.com, zubludiving.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "en.wikipedia.org,bluewaterdivetravel.com,asiadivesite.com,dive-the-world.com",
+      "last_qa_date": "2026-08-21",
+      "qa_correction": "Marine-life list corrected on 2026-08-21 re-audit: removed grey reef sharks (not confirmed at this specific reef by any source found; that claim is more consistent with Tubbataha's main atolls generally). Depth note expanded to clarify the wall extends well beyond the 29-30m recreational figure previously listed alone."
     }
   }
 ]

@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Banayan Point
 
-Banayan Point is a wall dive site in Philippines Palawan, Asia.
+Banayan Point, at the southern tip of Matinloc Island, is one of El Nido's dedicated pelagic-current sites.
 
 ## Overview
 
-Banayan Point at the southern tip of Matinloc Island is El Nido's go-to site for pelagic action, where strong channeling currents funnel schools of tuna, jacks, and mackerel past coral-encrusted boulders descending to 22 meters. The open-water exposure means conditions can be demanding, but divers who time it right are rewarded with the kind of fish density rarely found at the more sheltered sites further into the archipelago.
+Banayan Point sits at the southern tip of Matinloc Island, where strong channeling currents are reported to draw tuna, jacks, and mackerel past coral-encrusted boulders descending to 22 meters. The open-water exposure means conditions can be demanding.
+
+**QA note (2026-08-21 re-audit):** this site's previously-cited source (divephilippines.com.ph) now returns compromised/spam content and could not be re-verified live during this audit. Search-engine-indexed content from travel-palawan.com and palawan-divers.org is consistent with the description above, but fewer than 3 independently fetched sources were obtained. The marine-life list below has been trimmed to only what appeared consistently across research; species that could not be corroborated (sharks, moray eels, lionfish, small grouper) have been removed rather than carried forward unverified.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Southern tip of Matinloc Island, El Nido, Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +31,16 @@ Banayan Point at the southern tip of Matinloc Island is El Nido's go-to site for
 
 ## Marine Life
 
-Banayan Point is El Nido's top site for current-driven pelagic encounters, with strong channeling currents funneling schools of dogtooth tuna, giant trevally, and Spanish mackerel past the coral-encrusted boulders. Whitetip reef sharks and grey reef sharks are regular visitors when current is running, and barracuda stack up in the eddy behind the point. The boulders themselves shelter moray eels, lionfish, and small grouper for divers who work the structure between the bigger-animal action.
+Reported sightings, cross-referenced across multiple search results, are limited to tuna, jacks, and mackerel drawn by the site's current. No source found in this audit confirmed sharks, eels, or other reef fish specifically at this site — regional Palawan fauna (which is diverse) may well be present, but is not claimed here without site-specific confirmation.
+
+## Entry and Exit
+
+Boat dive from El Nido town operators.
+
+## Tips and Recommendations
+
+- Conditions here can be demanding due to current exposure at the exposed southern point of Matinloc — this is not a beginner site
+- Check current conditions with your operator before descending
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Sources: [Travel Palawan - El Nido Dive Sites](https://www.travel-palawan.com/el-nido-travel-guide/el-nido-dive-sites/) (search-indexed), [Palawan Divers](https://www.palawan-divers.org/discover-el-nido-dive-sites/) (search-indexed, page unreachable at time of this audit). Previously-cited divephilippines.com.ph could not be re-verified — its site now serves unrelated/compromised content. No fully independent third source was confirmed; treat this description as partially re-audited. Last updated 2026-08-21.*

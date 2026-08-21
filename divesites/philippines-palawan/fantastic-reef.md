@@ -2,8 +2,8 @@
 name: Fantastic Reef
 lat: 10.4542766
 lng: 119.1612451
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 10
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,45 @@ addedBy: osm_import
 
 ## Fantastic Reef
 
-Fantastic Reef is a coral dive site near Port Barton in northern Palawan, one of the named reef sites in the scenic bay and island system that makes Port Barton a growing destination for divers and island-hoppers alike.
+Fantastic Reef is a shallow reef off San Vicente near Port Barton, popular with island-hopping tours but currently showing significant coral stress.
 
 ## Overview
 
-Sitting in the protected waters around Port Barton, Fantastic Reef earns its name from the dramatic coral formations that populate its structure. Massive brain corals stand out as particularly impressive specimens, reaching significant size after years of undisturbed growth. Schools of fish cruise the reef in coordinated formations, while the deeper sections at 20–25 meters offer drop-offs visible in calm seas. The site is suitable for intermediate divers and is typically dived from Port Barton's local dive operators during the northeast monsoon season when conditions are favourable.
+Fantastic Reef sits about a 30-minute boat ride from Port Barton. The reef flat is in 2-3 meters of water, with drop-offs sloping to roughly 10 meters (rafsreefbrief.com). A 2024-2025 coral condition survey found the site in poor overall condition: macroalgae now dominates much of the reef, and 50% or more of the coral along the drop-off is damaged or dead. Large, older massive Porites boulder colonies have survived, but branching and plating Acropora are mostly dead, and Millepora (fire coral) is present. Visibility was recorded at around 5 meters during the survey.
+
+**Correction note (2026-08-21 re-audit):** the previous description ("dramatic coral formations... massive brain corals... reaching significant size after years of undisturbed growth") is no longer accurate and has been replaced. Maximum depth has been corrected from 25m to 10m, and difficulty from Intermediate to Beginner, reflecting the site's actual shallow profile and a source noting it suits both beginners and experienced divers/snorkelers.
 
 ## Site Information
 
-- **Location**: Port Barton, northern Palawan, Philippines
+- **Location**: San Vicente, near Port Barton, northern Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-25 meters
-- **Current**: Moderate; can be stronger near drop-offs
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
+- **Typical Visibility**: Around 5 meters (per 2024-2025 survey)
 - **Best Time**: October to May
 
 ## Marine Life
 
-Large brain coral heads form the centrepiece of the reef, with colourful reef fish communities clustered around them. Schools of snapper, fusiliers, and barracuda move through the water column above the reef. Sea turtles are commonly encountered resting on or swimming above the coral formations. Napoleon wrasse, grouper, and lionfish occupy the deeper sections, and the sandy patches adjacent to the reef yield the occasional stingray or flatfish.
+The 2024-2025 survey recorded schools of rabbitfish and parrotfish and two green sea turtles at the site (rafsreefbrief.com). Older tourism write-ups also mention sea turtles and occasional rays as general possibilities, but no source reviewed for this update confirmed reef sharks or other species specifically at this site, so those are not claimed here.
 
 ## Dive Profile
 
-Descend to the reef slope and explore the dramatic coral formations in the mid-depth range of 10–20 meters. The larger brain corals and table corals are distributed across this zone. Continue to 25 meters to check the deeper drop-off sections before working back up the reef. Allow 15–20 minutes on the shallower reef for a relaxed finish and safety stop.
+A shallow reef-flat and short drop-off dive/snorkel to about 10 meters. Given current coral condition, expect more open sand/rubble and macroalgae between coral patches than a fully intact reef.
 
 ## Entry and Exit
 
-Port Barton dive operators run day trips to Fantastic Reef by bancas (outrigger boats), typically departing in the morning. Entry by giant stride or back roll from the banca; return by ladder or with assistance from the crew. The crossing from Port Barton is short, making this accessible for multiple dives in a day.
+Port Barton dive operators run day trips to Fantastic Reef by banca (outrigger boat). Entry by giant stride or back roll from the banca; exit assisted by the crew.
 
 ## Tips and Recommendations
 
-- Port Barton is far less developed than El Nido — dive here for a more intimate experience
-- Ask your dive operator about current and visibility conditions on the day
-- The impressive brain coral formations deserve close inspection — approach slowly and don't touch
-- Morning is the best time for visibility and calm sea conditions
-- Combining with other Port Barton sites such as Shark Point or the San Telmo Island reefs makes for a full diving day
+- Coral cover here has declined significantly since the 2024 bleaching event — set expectations accordingly and avoid contact with the surviving colonies
+- Ask your operator about current visibility, which can run lower here (around 5m) than at some other Port Barton sites
+- Often combined with other Port Barton/San Vicente stops on the same island-hopping trip
 
 ## Safety Considerations
 
-Port Barton is a quieter destination than El Nido, but dive operators are experienced with local conditions. Currents near the drop-off sections can increase abruptly; maintain awareness of your depth and air. Carry an SMB for the ascent.
-
-## Photography
-
-The large brain coral formations provide spectacular wide-angle subjects, particularly when backlit with natural light from above. Schools of fish hovering above the reef are ideal for blue-water reef photography. Detail shots of the coral textures and resident reef fish are equally productive.
+Shallow depths throughout reduce decompression risk, but lower visibility (around 5m) means staying close to your buddy and dive guide.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Sources: [Tikigo - Fantastic Reef](https://www.tikigo.com/philippines/palawan/port-barton/fantastic-reef/), [Rafs Reef Brief - Port Barton 2025 Coral Condition Report](https://www.rafsreefbrief.com/portbarton), [Mindtrip - Fantastic Reef](https://mindtrip.ai/attraction/port-barton-mimaropa/fantastic-reef/at-TDuEvIXG). Last updated 2026-08-21.*
