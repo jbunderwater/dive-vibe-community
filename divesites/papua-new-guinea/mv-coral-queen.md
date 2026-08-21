@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # MV Coral Queen
 
-A scuttled 31.7-meter island freighter in Madang Harbour, famous for its spectacular flashlight fish -- hundreds of Anomalops katoptron create glowing displays inside the cabins and funnel, best experienced at night.
+A 31.7-meter former ferry and cargo vessel resting in Madang Harbour, famous for its spectacular flashlight fish -- hundreds of Anomalops katoptron create glowing displays inside the cabins and funnel, best experienced at night.
 
 ## Overview
 
-The MV Coral Queen was a 31.7-meter island freighter that formerly serviced Papua New Guinea's coastal communities before being scuttled in Madang Harbour to create a dive site. The wreck sits at 32 meters maximum depth with the deck at 28 meters and bridge at 23 meters. While the wreck itself is a solid dive with two large holds and penetrable interior spaces, the Coral Queen's real fame comes from its resident population of flashlight fish (Anomalops katoptron). These extraordinary fish have bioluminescent organs beneath their eyes that produce a bright blue-green glow. At night, hundreds of flashlight fish gather inside the wreck's cabins and funnel, creating one of the most surreal and memorable diving experiences in Papua New Guinea. Daytime dives are worthwhile for wreck exploration, but the night dive is the must-do experience.
+The MV Coral Queen was a 31.7 x 7.37-meter ferry and general cargo vessel built in November 1958 by the Pacific Islands Ship Building Company in Hong Kong. She operated a route between Rabaul and Buka, Bougainville. Research by diver-historian Michael McFadyen indicates the vessel sank at Buka around 1966-67 and was later salvaged by John Lindsay; available sources do not document how or when she came to rest at her current location in Madang Harbour, so the connection between that sinking and the Madang wreck should be treated as unconfirmed rather than a deliberate-scuttling origin story. The wreck sits at 32 meters maximum depth with the deck at 28 meters and bridge at 23 meters. While the wreck itself is a solid dive with two large holds and penetrable interior spaces, the Coral Queen's real fame comes from its resident population of flashlight fish (Anomalops katoptron). These extraordinary fish have bioluminescent organs beneath their eyes that produce a bright blue-green glow. At night, hundreds of flashlight fish gather inside the wreck's cabins and funnel, creating one of the most surreal and memorable diving experiences in Papua New Guinea. Daytime dives are worthwhile for wreck exploration, but the night dive is the must-do experience.
 
 ## Site Information
 
@@ -56,4 +56,4 @@ Access is by dive boat from Madang-based operators, a short ride within the harb
 The wreck sits at 32 meters, limiting no-decompression time on air. The harbour location means visibility may be reduced. Night diving on a wreck at depth requires strong skills in buoyancy, navigation, and equipment management. Carry primary and backup torches. Penetration requires proper wreck diving training -- the interior spaces have low clearance and potential snag points. Do not touch or handle the flashlight fish.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=484), [underwaterasia.info](https://www.underwaterasia.info/), [ScubaBoard – PNG flashlight fish](https://www.scubaboard.com/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=484), [underwaterasia.info](https://www.underwaterasia.info/), [ScubaBoard – PNG flashlight fish](https://www.scubaboard.com/). Last updated 2026-08-21.*

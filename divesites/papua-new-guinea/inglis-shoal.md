@@ -3,7 +3,7 @@ name: Inglis Shoal
 lat: -5.3167
 lng: 150.4833
 difficulty: Intermediate
-maxDepth: 14
+maxDepth: 28
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -17,7 +17,7 @@ Inglis Shoal is a shallow seamount in Kimbe Bay, West New Britain, Papua New Gui
 
 ## Overview
 
-Inglis Shoal is a broad, flat-topped seamount that crests at around 3-5 meters below the surface, making it one of the shallower pinnacle dives in Kimbe Bay. The shallow summit supports a thriving hard coral garden — massive Porites heads, staghorn thickets, and table corals in excellent condition — that gives way to sloping rubble and sand on the flanks. The shoal's position in open water makes it a magnet for schooling fish: dense aggregations of yellowfin goatfish, surgeonfish, and snappers move across the top, while bigeye trevally school in the water column above. Grey reef sharks and whitetip reef sharks are regular visitors, often seen cruising the reef edge. When tidal currents run, pelagic fish push in from the open bay — including barracuda, dog-tooth tuna, and occasionally wahoo. The shoal's shallowness means long bottom times and excellent natural light for photography.
+Inglis Shoal is an isolated seamount that rises from deep water to within about 11 meters of the surface, sloping downward on all sides to a lip at roughly 24-28 meters, beyond which the shoal falls away in sheer vertical walls. The upper slopes support hard coral growth that gives way to the deeper lip and wall face. The shoal's position in open water makes it a magnet for schooling fish: dense aggregations of surgeonfish, fusiliers, and snappers move across the upper slopes, while bigeye trevally and barracuda school in the water column above. Dog-tooth tuna are regular visitors on stronger currents. Grey reef sharks are seen with regularity, and scalloped hammerhead sharks have been reported at the site — though hammerhead sightings are occasional rather than guaranteed. The exposed, current-swept position rewards divers willing to hang in open water off the reef edge.
 
 ## Site Information
 
@@ -25,18 +25,18 @@ Inglis Shoal is a broad, flat-topped seamount that crests at around 3-5 meters b
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 14 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Moderate to strong (current-dependent)
 - **Best Time**: October to May
 
 ## Marine Life
 
-Schooling barracuda, bigeye trevally, grey reef sharks, whitetip reef sharks, surgeonfish, yellowfin goatfish, snappers, Napoleon wrasse. Hard coral coverage on the summit is notably healthy. Reef fish density is high throughout. Pelagic visits (tuna, wahoo) occur with stronger currents.
+Schooling barracuda, bigeye trevally, grey reef sharks, occasional scalloped hammerhead sharks, surgeonfish, fusiliers, snappers. Hard coral coverage on the upper slopes is healthy. Reef fish density is high throughout. Dog-tooth tuna visit with stronger currents.
 
 ## Dive Profile
 
-Descend to the summit at 3-5 meters and survey the coral plateau before dropping to the reef slopes at 10-15 meters. The most interesting fish aggregations tend to be in mid-water just above the summit, so spend time hovering and observing rather than staying close to the bottom. Depth is limited, allowing extended dive times — 60-70 minutes is typical with good air management.
+Descend along the upper slope toward the lip at 24-28 meters, watching for the aggregations of trevally and barracuda that typically hold in mid-water above the shoal. The lip marks the transition to the sheer walls beyond — monitor depth carefully here, since it is easy to follow the wall deeper than planned. Spend the bulk of the dive working the 11-25 meter zone where fish density and light are both best, then finish shallower for an extended safety stop.
 
 ## Entry and Exit
 
@@ -58,4 +58,4 @@ The shoal's open-water position means currents can be strong and unpredictable. 
 The shallow clear water of Inglis Shoal provides excellent natural light throughout the dive. Wide-angle shots of shark and trevally silhouettes against the bright surface are the signature images. The hard coral summit makes a beautiful foreground for fish portrait shots. Bring a dome port for the best results.
 
 ---
-*Sources: [DivePlanit – Inglis Shoal](https://www.diveplanit.com/), [Indopacific Images – Kimbe Bay](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [MV FeBrina – Kimbe Bay](https://www.mvfebrina.com/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/). Last updated 2026-06-25.*
+*Sources: [DivePlanit – Inglis Shoal](https://www.diveplanit.com/), [Indopacific Images – Kimbe Bay](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [MV FeBrina – Kimbe Bay](https://www.mvfebrina.com/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/). Last updated 2026-08-21.*

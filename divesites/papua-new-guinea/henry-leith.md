@@ -17,7 +17,7 @@ A Scottish-built steam tug from 1887, scuttled in Nagada Harbour near Madang -- 
 
 ## Overview
 
-The Henry Leith is a 32-meter steam tug built in Scotland in 1887. After a remarkably long working life, the vessel was sailed from Sydney to Papua New Guinea in 1968-69, where she continued service before being scuttled as a dive site off Wangat Island in Nagada Harbour, near Madang. At just 20 meters maximum depth, the wreck is accessible to divers of all experience levels. Over the decades, the Henry Leith has been colonized by a lush covering of soft corals, sea whips, gorgonian sea fans, sponges, and anemones, transforming her from a working vessel into an underwater garden. Firefish (lionfish), coral trout, and trevally are among the resident marine life. The wreck's manageable depth and rich coral coverage make it one of Madang's most photogenic dives.
+The Henry Leith (originally launched as SS Wybia) is a steam-powered tug built by Scott and Sons in Dumbarton, Scotland, launched 25 August 1887 (106 feet / roughly 32 meters long, 129 tons displacement). After a remarkably long working life, the vessel was sailed from Sydney to Papua New Guinea in 1968-69, where she continued service before being deliberately scuttled as a dive site -- by Kevin Baldwin and PNG diving pioneer Bob Halstead -- off Wangat Island in Nagada Harbour, near Madang, sometime in the 1970s or 1980s. Sources do not give a precise scuttling date. At just 20 meters maximum depth, the wreck is accessible to divers of all experience levels. Over the decades, the Henry Leith has been colonized by a lush covering of soft corals, sea whips, gorgonian sea fans, sponges, and anemones, transforming her from a working vessel into an underwater garden. Firefish (lionfish), coral trout, and trevally are among the resident marine life. The wreck's manageable depth and rich coral coverage make it one of Madang's most photogenic dives.
 
 ## Site Information
 
@@ -55,4 +55,4 @@ Access is by dive boat from Madang-based operators, a short ride to Wangat Islan
 This is a benign wreck dive suitable for all certification levels. The shallow depth eliminates decompression concerns for reasonable dive durations. Current is typically mild within the harbour. Maintain buoyancy control to avoid damaging the extensive coral growth on the wreck. The vessel is historic -- do not remove any artifacts.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=485), [DivePlanit – Henry Leith](https://www.diveplanit.com/), [Scuba Diver Life PNG](https://scubadiverlife.com/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=485), [DivePlanit – Henry Leith](https://www.diveplanit.com/), [Scuba Diver Life PNG](https://scubadiverlife.com/). Last updated 2026-08-21.*

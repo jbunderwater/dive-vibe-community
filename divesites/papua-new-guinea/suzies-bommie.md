@@ -55,4 +55,4 @@ Access is by dive boat from Port Moresby or Bootless Bay-based operators, with a
 The bommie base exceeds 30 meters, so manage your depth and bottom time carefully if you descend to the base. Current is generally manageable but can increase. The open-water location means surface conditions may be rougher than inside the barrier reef. Carry an SMB for your safety stop.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=364), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [ProDive PNG](https://www.prodivepng.com/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=364), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [ProDive PNG](https://www.prodivepng.com/). Last updated 2026-08-21.*

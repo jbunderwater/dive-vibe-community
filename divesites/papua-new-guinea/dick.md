@@ -54,4 +54,4 @@ Access is by dive boat from Rabaul-based operators. The boat positions upstream 
 The drift is typically manageable for intermediate divers, but current strength can vary. The western wall drops to significant depth, so monitor your depth gauge carefully. Carry an SMB, whistle, and signalling devices. Stay with your buddy and guide throughout the drift.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=709), [Dive Adventures Australia – Tom Dick & Harry](https://www.diveadventures.com.au/), [underwaterasia.info – Rabaul](https://www.underwaterasia.info/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=709), [Dive Adventures Australia – Tom Dick & Harry](https://www.diveadventures.com.au/), [underwaterasia.info – Rabaul](https://www.underwaterasia.info/). Last updated 2026-08-21.*

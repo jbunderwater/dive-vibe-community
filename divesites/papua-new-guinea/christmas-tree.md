@@ -40,7 +40,7 @@ Descend to the wall and locate the Christmas Tree bommie as your reference point
 
 ## Entry and Exit
 
-Access is by dive boat from Port Moresby, transiting past Basilisk Passage to the outer reef. The exposed location means sea conditions may prevent access on rough days. Entry is by giant stride. Deploy an SMB for ascent and boat pickup.
+Per Michael McFadyen's site visit report, this site was, at the time of his dive, accessible only through the Port Moresby Sub Aqua Club (POMSAC), not commercial dive operators -- confirm current access arrangements before planning a trip, as this may have changed. Access is by dive boat from Port Moresby, transiting past Basilisk Passage to the outer reef. The exposed location means sea conditions may prevent access on rough days. Entry is by giant stride. Deploy an SMB for ascent and boat pickup.
 
 ## Tips and Recommendations
 
@@ -55,4 +55,4 @@ Access is by dive boat from Port Moresby, transiting past Basilisk Passage to th
 The wall drops well past 55 meters, and Mark's Ravine reaches 45 meters -- this is firmly advanced diving territory. No-decompression time is severely limited at these depths. Monitor depth, time, and gas supply constantly. Grey reef sharks are generally not aggressive but should be treated with respect. Current can be significant at the outer reef -- carry an SMB and signalling devices. The boat transit past the barrier reef means surface conditions may be challenging for boat re-entry.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=356). Note: A separate dive site called "Christmas Tree" exists in Bootless Bay (the MV Pai 2 wreck, scuttled 1982); this entry refers to the outer reef wall dive past Basilisk Passage documented by McFadyen. Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=356). Note: A separate dive site called "Christmas Tree" exists in Bootless Bay (the MV Pai 2 wreck, scuttled 1982); this entry refers to the outer reef wall dive past Basilisk Passage documented by McFadyen. Last updated 2026-08-21.*

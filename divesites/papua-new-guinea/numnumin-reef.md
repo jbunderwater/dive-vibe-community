@@ -55,4 +55,4 @@ Access is by dive boat from Nusa Island Resort, just five minutes away. Entry is
 This is one of the most benign dive sites in Kavieng. No current, shallow depths, and close proximity to the resort make it suitable for all experience levels. For night dives, carry a primary torch and backup, and maintain close contact with your buddy. Mark your position with a tank light visible from the surface.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=718), [Diversion Dive Travel – Kavieng](https://www.diversiondivetravel.com.au/destinations/papua-new-guinea/kavieng/), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=718), [Diversion Dive Travel – Kavieng](https://www.diversiondivetravel.com.au/destinations/papua-new-guinea/kavieng/), [underwaterasia.info – Kavieng](https://www.underwaterasia.info/). Last updated 2026-08-21.*

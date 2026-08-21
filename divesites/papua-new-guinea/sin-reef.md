@@ -55,4 +55,4 @@ Access is by dive boat from Kabaira Resort, approximately 2 kilometres away. Ent
 The shallow reef top makes this a forgiving dive for less experienced divers. The southeast side drops to 35+ meters and requires depth awareness if you venture deeper. Current is generally mild in the sheltered bay. Standard safety procedures apply -- carry an SMB and plan your dive conservatively.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=713), [underwaterasia.info – Rabaul](https://www.underwaterasia.info/), [indopacificimages.com – Rabaul Area](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/). Last updated 2026-06-25.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=713), [underwaterasia.info – Rabaul](https://www.underwaterasia.info/), [indopacificimages.com – Rabaul Area](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/). Last updated 2026-08-21.*
