@@ -7,7 +7,7 @@
     "osm_type": "node",
     "depth": 12,
     "minDepth": 3,
-    "site_type": "pinnacle",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -17,7 +17,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "malapascua-diving.com,evolution.com.ph,malapascua.net",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: corrected site_type to reef (was pinnacle) — no dive shop lists Dakit-Dakit as a pinnacle; it is consistently described as a rocky/boulder reef formation with soft coral."
     }
   },
   {
@@ -26,11 +28,11 @@
     "lon": 124.1193512,
     "osm_id": 4557974264,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 18,
     "minDepth": 5,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Dive Site",
       "name": "Ka-Osting / Bantigue",
@@ -39,7 +41,9 @@
       "sport": "scuba_diving",
       "tourism": "yes",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "malapascua-diving.com,evolution.com.ph,padi.com,kokaysmalditodiveresort.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "MAJOR CORRECTION 2026-08-21: corrected site_type to muck (was reef) and difficulty to Intermediate (was Beginner). Ka Osting and neighboring Bantigi are consistently described by local operators as a shallow muck-diving pair, not a coral reef slope. The prior description's cleaning-station/sweetlips/sea-turtle content was unsupported by any source and has been removed."
     }
   },
   {
@@ -50,7 +54,7 @@
     "osm_type": "node",
     "depth": 13,
     "minDepth": 5,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -59,7 +63,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "evolution.com.ph,sea-explorers.com,buenavida-malapascua.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: corrected site_type to muck (was reef) — Evolution Diving Resort describes its own house reef as a muck site. Removed unsupported mandarin fish and blue-ringed octopus claims; those are documented at Lighthouse and Chocolate Island respectively in our sources, not at Evo House Reef."
     }
   },
   {
@@ -70,9 +76,9 @@
     "osm_type": "node",
     "depth": 25,
     "minDepth": 5,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Dive Site",
       "name": "Deep Slope",
@@ -83,7 +89,9 @@
       "sport": "scuba_diving",
       "tourism": "yes",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "zentacle.com,evolution.com.ph,buenavida-malapascua.com,sea-explorers.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: corrected site_type to muck (was reef); the site is also known locally as 'Pantaw Pantaw' (zentacle.com) and is described as a sand-dune muck slope. Removed unsupported thresher shark claim — no source ties thresher sharks to Deep Slope; that is Monad/Kimud Shoal's characteristic, not this site's."
     }
   },
   {
@@ -103,8 +111,10 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validated": "false",
+      "validation_source": "dive_operator_research",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DOWNGRADED 2026-08-21: despite searching 10+ Malapascua dive-shop sites and dive databases, no operator lists a distinctly named 'Secret Wall' site. The prior validated=true tag (generic 'dive_operator_research' source, identical footer copy-pasted across all 15 Malapascua files) could not be substantiated with any genuine site-specific source, so it has been downgraded to unvalidated rather than left standing on unverifiable content. site_type/depth/difficulty left unchanged pending human review — do not treat as confirmed. Marine life claims removed from markdown pending source confirmation."
     }
   },
   {
@@ -126,7 +136,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "malapascua.net,scubatravel.com,scubago.com,aggressor.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: confirmed as Malapascua Exotic Island Dive Resort's managed house reef, built up with artificial structures (jeepneys, concrete blocks) since 2001 and awarded Project AWARE's Environmental Achievement Award in February 2008 (scubatravel.com). Removed unsupported mandarin fish and blue-spotted ribbontail ray claims — mandarin fish sightings are only clearly source-confirmed at the Lighthouse site among our sources, not here."
     }
   },
   {
@@ -135,11 +147,11 @@
     "lon": 124.1097625,
     "osm_id": 4941394885,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 10,
     "minDepth": 5,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "description": "Dive Site",
       "name": "Lighthouse",
@@ -148,7 +160,9 @@
       "sport": "scuba_diving",
       "tourism": "yes",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "malapascua-diving.com,sea-explorers.com,evolution.com.ph,malapascua.net,dive-the-world.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "MAJOR CORRECTION 2026-08-21: prior entry described Lighthouse as a 30m wall dive with hawksbill turtles and thresher sharks — depth, site_type, and difficulty were all wrong, and none of five independent operator sources support that content. Lighthouse is consistently documented as a shallow (5-10m) reef site famous for mandarin fish mating displays at dusk. All wall/turtle/thresher/shark content has been replaced with source-backed content. Note: this is a distinct site from the much deeper 'Japanese Ship Wreck' entry located nearby, which remains unresolved — do not conflate them."
     }
   },
   {
@@ -157,8 +171,8 @@
     "lon": 124.108851,
     "osm_id": 4941394886,
     "osm_type": "node",
-    "depth": 20,
-    "minDepth": 5,
+    "depth": 12,
+    "minDepth": 2,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -170,7 +184,9 @@
       "sport": "scuba_diving",
       "tourism": "yes",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "evolution.com.ph,diveagainstdebris.org,tripadvisor.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: corrected depth (was 20m; sources describe a shallow 2-12m marine sanctuary also used as a training/skills-refinement site by Evolution Diving Resort). Removed the unsupported bamboo-fish-trap origin story, garden eels, and sea turtle claims — no site-specific source confirms them. Marine life text now states regional fauna applies without naming unconfirmed species."
     }
   },
   {
@@ -179,11 +195,11 @@
     "lon": 124.1056477,
     "osm_id": 4941394887,
     "osm_type": "node",
-    "depth": 35,
-    "minDepth": 12,
-    "site_type": "pinnacle",
+    "depth": 27,
+    "minDepth": 6,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Dive Site",
       "name": "North Point",
@@ -191,7 +207,9 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "malapascua-diving.com,evolution.com.ph,malapascua.net,dive-the-world.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "MAJOR CORRECTION 2026-08-21: downgraded from Advanced pinnacle at 35m to Intermediate reef/coral-garden at 6-27m — three of four sources describe North Point as a reef/coral-garden macro site, not a deep current-swept pinnacle. One broader guide (dive-the-world.com) describes a more current-swept wall-and-slope character to 30m with pelagics; this conflict is flagged in the markdown rather than resolved by guessing. Removed unsupported hammerhead shark, dogtooth tuna, and resident whitetip shark claims."
     }
   },
   {
@@ -202,7 +220,7 @@
     "osm_type": "node",
     "depth": 18,
     "minDepth": 4,
-    "site_type": "pinnacle",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -215,7 +233,9 @@
       "sport": "scuba_diving",
       "tourism": "yes",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "malapascua-diving.com,sea-explorers.com,evolution.com.ph",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: corrected site_type to reef (was pinnacle) — three independent operator sources describe this as a reef/rock-formation macro site. Removed unsupported schooling fusilier/jack/barracuda, ribbontail ray, hawksbill turtle, and grey reef shark claims; replaced with source-confirmed frogfish/lionfish/nudibranch/mantis-shrimp content."
     }
   },
   {
@@ -226,7 +246,7 @@
     "osm_type": "node",
     "depth": 30,
     "minDepth": 12,
-    "site_type": "pinnacle",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -239,7 +259,9 @@
       "sport": "scuba_diving",
       "tourism": "yes",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "sea-explorers.com,buenavida-malapascua.com,scubago.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: corrected site_type to wall (was pinnacle) — sources consistently describe a sloping reef that transitions into a small wall at roughly 20m, not a true pinnacle. Removed unsupported barracuda/trevally schooling and sea turtle claims."
     }
   },
   {
@@ -249,7 +271,7 @@
     "osm_id": 4941394890,
     "osm_type": "node",
     "depth": 30,
-    "minDepth": 14,
+    "minDepth": 12,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -264,7 +286,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "malapascua-diving.com,evolution.com.ph,malapascua.net,buenavida-malapascua.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: pinnacle type confirmed across sources; the site is also called 'Deep Rock'. Removed unsupported longnose hawkfish, filefish, sea snake, and open-water shark/trevally claims; replaced with consistently source-confirmed batfish, frogfish, pygmy seahorse, and harlequin shrimp content. Difficulty is cited as Intermediate-Advanced by some operators; kept at Intermediate with the range noted in the description."
     }
   },
   {
@@ -273,8 +297,8 @@
     "lon": 124.1947241,
     "osm_id": 6215139685,
     "osm_type": "node",
-    "depth": 50,
-    "minDepth": 5,
+    "depth": 30,
+    "minDepth": 16,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -290,7 +314,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "malapascua-diving.com,sea-explorers.com,elasmodiver.com,scubaboard.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: corrected working depth range to 16-30m (was 5-50m); the recreational cleaning-station platform sits in this range, though the surrounding seafloor drops much deeper (some operators cite technical depths beyond 30m for the plateau's edge — not asserted as a specific number here). An April 2025 ScubaBoard trip report confirms thresher sharks are still reliably sighted (~20 in one day) before boat traffic disrupted the site. Several current operator sources note thresher activity has partly shifted to nearby Kimud Shoal in recent years and that Monad is now also cited for occasional tiger shark sightings — both noted in the markdown. Softened hammerhead/manta claims to 'occasional, not guaranteed' per source language."
     }
   },
   {
@@ -299,8 +325,8 @@
     "lon": 124.1232727,
     "osm_id": 126419898,
     "osm_type": "way",
-    "depth": 30,
-    "minDepth": 12,
+    "depth": 20,
+    "minDepth": 8,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -311,7 +337,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "dive_operator_research"
+      "validation_source": "sea-explorers.com,malapascua-diving.com,malapascua.net",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Re-audited 2026-08-21: removed unsupported Napoleon wrasse, large grouper, sea turtle, and specific coral genus (table Acropora / brain coral / massive Porites) claims — this content read as generic reef boilerplate with no site-specific confirmation from any source. Depth sources conflict between a shallow (~8-12m) coral garden and a ~30m 'deep perimeter'; both are noted in the markdown rather than asserting one figure."
     }
   },
   {
@@ -334,8 +362,8 @@
       "tourism": "yes",
       "validated": "false",
       "validation_source": "dive_operator_research",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "UNRESOLVED: 'Marine Protected Area' is not a named dive site per QA research — no dive operator or database lists a site by this name at Malapascua. OSM fixme tag already flagged 'name'. This entry is a protected area boundary, not a distinct dive site. Needs human review for removal or proper naming."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "UNRESOLVED (re-confirmed 2026-08-21): 'Marine Protected Area' is still not a named dive site per today's research — no dive operator or database among the 10+ sources checked for this destination lists a site by this generic name at Malapascua. OSM fixme tag already flagged 'name'. This entry is most likely a protected-area boundary polygon, not a distinct dive site, and should not be confused with the separately-documented 'Coral Garden Marine Protected Area'. Needs human review for removal or proper naming. Prior unsupported napoleon wrasse/bumphead parrotfish/whitetip shark claims removed from markdown."
     }
   },
   {
@@ -355,8 +383,8 @@
       "sport": "scuba_diving",
       "validated": "false",
       "validation_source": "dive_operator_research",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "WRECK CONFLICT: Research identifies a shallow WWII Japanese landing craft (3-7m depth, Beginner) near the Malapascua lighthouse also called 'Lighthouse Wreck / Japanese Wreck Marine Sanctuary'. Current JSON depth of 33m conflicts with this. May be conflating two different wrecks. OSM already flags 'location approximate'. Do not publish marine life or wreck history claims without verified sources. Needs human review to confirm which wreck this represents."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "UNRESOLVED, deep-researched 2026-08-21: two real, well-documented WWII Japanese wrecks exist near Malapascua, and this OSM entry's coordinates/depth do not cleanly match either. (1) 'Lighthouse Wreck' — a landing craft roughly 3-7m deep, broken in two, located ~5-10 min by boat right off the Malapascua lighthouse point (coordinates ~300m from this entry); sources conflict on sinking cause (bombed approaching the beach with a cement cargo per padi.com, vs. spotted while hiding from American forces per kokaysmalditodiveresort.com). (2) 'Tapilon Wreck' (tentatively identified by one source as possibly the Oakita Maru, unconfirmed) — a cargo carrier at 22-32m, hit by torpedoes, broken into 3 sections, located off Tapilon town roughly 30 minutes by boat from Malapascua — i.e. NOT near this entry's coordinates. This entry's depth (33m) is close to Tapilon's range but its coordinates sit at the Lighthouse location; no source resolves this contradiction. No Wikipedia article was found for either vessel. Per policy, no vessel name/history/marine-life claims are published until identity is confirmed. Needs human review — likely a coordinate or depth data-entry error on one of the two real wrecks, or these are two separate unlisted wrecks in the same OSM cluster."
     }
   }
 ]

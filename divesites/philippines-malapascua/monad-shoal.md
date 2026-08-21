@@ -3,7 +3,7 @@ name: Monad Shoal
 lat: 11.3133913
 lng: 124.1947241
 difficulty: Advanced
-maxDepth: 50
+maxDepth: 30
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,51 +13,41 @@ addedBy: osm_import
 
 ## Monad Shoal
 
-Monad Shoal is the most famous dive site in Malapascua and one of the world's premier destinations for reliably encountering pelagic thresher sharks — the graceful deep-water sharks that ascend to the shoal at dawn for cleaning by wrasse.
+Monad Shoal is Malapascua's flagship dive site — a submerged plateau where pelagic thresher sharks have risen to cleaning stations at dawn for decades, though several current sources note the picture has grown more complex in recent years.
 
 ## Overview
 
-Monad Shoal is a submerged plateau located about 6 km northeast of Malapascua Island, rising from the surrounding deep water of the Visayan Sea to a shallowest depth of around 16 meters, with the plateau itself sitting at 20–30 meters and the surrounding water plunging well beyond recreational limits. The shoal functions as a cleaning station, attracting pelagic thresher sharks (*Alopias pelagicus*) that ascend from deep water each morning to have parasites removed by cleaner wrasse. Divers reach the shoal before dawn, descend in darkness or twilight, and wait at depth on the sand and rock terraces of the plateau. The sharks arrive predictably from the deep, circle the cleaning stations, and disappear back into the blue — encounters lasting from seconds to several minutes. This daily ritual, combined with the shoal's pelagic location and deep surroundings, makes it an advanced dive requiring experience with negative entry, depth management at 30+ meters, and neutral buoyancy with no reef contact during the shark observations.
+Monad Shoal is a plateau roughly 6 km northeast of Malapascua, functioning as a cleaning station where pelagic thresher sharks (*Alopias pelagicus*) rise from deep water each morning to be cleaned by wrasse. Divers descend before dawn — often by negative entry — to wait on the plateau's sand and rock terraces. Sources report the plateau's working depth at roughly 16-30 meters, considerably shallower than an earlier version of this page's claimed 50-meter maximum; the surrounding seafloor drops much deeper, and some operators mention technical-depth extensions along the edge without giving a precise figure. An April 2025 ScubaBoard trip report confirms threshers are still reliably encountered — one diver logged around 20 thresher sharks in a single day — though the same report notes sightings can drop off sharply when boat traffic increases (e.g., during holiday weeks). Several current operator sources also note that thresher shark activity has partly shifted to the nearby Kimud Shoal in recent years, and that Monad is now also cited by some for occasional tiger shark sightings.
 
 ## Site Information
 
-- **Location**: 6 km northeast of Malapascua Island, Philippines
+- **Location**: About 6 km northeast of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 50 meters
-- **Typical Visibility**: 15-30 meters
+- **Maximum Depth**: 30 meters
 - **Current**: Moderate to strong; varies with tidal phase
-- **Best Time**: Year-round; most consistent March to June
+- **Best Time**: Dawn, year-round; some operators note thresher activity has partly moved to nearby Kimud Shoal in recent years
 
 ## Marine Life
 
-Pelagic thresher sharks (*Alopias pelagicus*) are the primary reason to dive Monad Shoal, and they appear daily with remarkable consistency. The long, scythe-shaped tail fin that characterises this species is unmistakable in silhouette against the blue water above. Hammerhead sharks occasionally appear at the shoal. Manta rays visit periodically, particularly in certain seasons. The plateau itself supports whitetip reef sharks, sea turtles, and large schools of jacks and barracuda. Deeper on the plateau walls, eagle rays and other open-water species may be encountered.
+Pelagic thresher sharks are the defining reason to dive Monad Shoal and remain reliably sighted per recent (2025) trip reports, though not guaranteed on every visit. Several operator sources also mention devil rays, whitetip reef sharks, and eagle rays at the site, and some now cite occasional tiger shark sightings. Hammerhead sharks and manta rays are mentioned by some sources as occasional or seasonal rather than regular — that hedge is preserved here rather than presenting them as reliable sightings.
 
 ## Dive Profile
 
-Depart from Malapascua before dawn for the 20–30 minute boat crossing. The dawn timing is critical — thresher shark activity is concentrated in the early morning hours. Entry is typically a negative descent, going directly down to the plateau at 20–30 meters without lingering at the surface. Position yourself on the sand or rock terrace, maintaining neutral buoyancy without touching the substrate. Observe sharks in silence, avoiding sudden movements. Maximum depth is typically 30 meters, though the surrounding water descends much deeper. Begin ascent with sufficient air for a 3-minute safety stop at 5 meters.
+Divers depart Malapascua before dawn for the 20-30 minute boat crossing, since thresher shark activity concentrates in the early morning. Entry is typically a negative descent directly to the plateau, without lingering at the surface. Divers position on the sand or rock terrace, hold neutral buoyancy without touching the substrate, and observe sharks quietly — sudden movement is reported to cause them to retreat.
 
 ## Entry and Exit
 
-All dive operators on Malapascua Island offer Monad Shoal trips as part of their standard programming. The crossing requires a seaworthy banca. Entry is from the boat in open water — negative entry directly to depth. Return to the surface via SMB and ladder.
-
-## Tips and Recommendations
-
-- Book your Monad Shoal dive in advance — this is the primary attraction of Malapascua and slots fill quickly
-- Dive earlier rather than later in your Malapascua stay — consecutive early morning dives increase encounter probability
-- Perfect your neutral buoyancy before attempting this dive — touching the substrate during shark observation is not acceptable
-- Stay still during shark encounters — moving toward sharks causes them to retreat
-- A wide-angle lens on a compact camera captures the blue-water shark silhouettes well; dedicated DSLR setups work best in the deeper, lower-light conditions
-- Thresher sharks approach the plateau platform most readily during incoming tide
+All Malapascua dive operators run Monad Shoal as standard programming, using seaworthy bancas for the pre-dawn crossing. Entry is negative from the boat directly to depth; return to the surface is via SMB and ladder.
 
 ## Safety Considerations
 
-This is an Advanced-level dive. Depths of 25–30 meters with cold thermoclines in deeper water require experience and careful air management. Current can be significant. The open-ocean location, deep surrounding water, and pre-dawn conditions mean this dive should only be attempted with experienced local guides who know the site. Carry a dive light for the pre-dawn descent. Nearest hyperbaric facility is on mainland Cebu — a significant travel time from Malapascua.
+This is an Advanced dive: 20-30 meter depths, pre-dawn low-light conditions, open-ocean exposure, and moderate-to-strong current call for genuine experience and careful air management. Dive with an experienced local guide, carry a dive light for the descent, and maintain strict no-touch buoyancy near the sharks. The nearest hyperbaric facility is on mainland Cebu, a significant travel time away.
 
 ## Photography
 
-Pelagic thresher shark photography at Monad Shoal is challenging but rewarding. Low-light dawn conditions require fast lenses or high ISO settings. Wide-angle lenses capture the full silhouette of the shark with its distinctive elongated tail. Shooting upward toward the blue water above the platform creates natural, atmospheric images. The brief encounter duration means preparation and positioning before the sharks arrive is essential.
+Low-light dawn conditions favor fast lenses or higher ISO settings. Wide-angle setups capture the shark's full silhouette and distinctive elongated tail fin against the blue water above the plateau; preparation and positioning before the sharks arrive matters more than gear, given how brief each encounter tends to be.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [Sea Explorers Philippines - Malapascua Dive Sites](https://sea-explorers.com/dive-sites/malapascua/), [Elasmodiver - Monad Shoal Thresher Shark Diving](https://www.elasmodiver.com/Malapascua_Thresher_Shark_Dive.htm), [ScubaBoard - Thresher shark diving, Malapascua, Apr 2025](https://scubaboard.com/community/threads/thresher-shark-diving-malapascua-apr-2025.660856/). Last updated 2026-08-21.*

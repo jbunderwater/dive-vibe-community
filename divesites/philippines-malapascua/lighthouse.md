@@ -2,10 +2,10 @@
 name: Lighthouse
 lat: 11.3421901
 lng: 124.1097625
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Beginner
+maxDepth: 10
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 4941394885
 addedBy: osm_import
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Lighthouse
 
-Lighthouse is a wall dive site in Philippines Malapascua, Asia.
+Lighthouse is a shallow reef below Malapascua's old lighthouse, famous across the island's dive operators as one of the most reliable places anywhere to see mandarin fish perform their dusk mating display.
 
 ## Overview
 
-Lighthouse is a wall dive at the northeastern tip of Malapascua, directly below the old lighthouse that marks the island's windward corner. The wall drops sharply from 5 meters to beyond 30, its face encrusted with sea fans, crinoids, and rope sponges that provide a colourful backdrop for the hawksbill turtles that frequently cruise by. Current can be significant here given the exposed point, but that same current draws in thresher sharks from deeper water, making early morning dives particularly productive for pelagic encounters.
+This page previously described Lighthouse as a 30-meter wall dive with hawksbill turtles and thresher sharks. That was a major error: five independent Malapascua dive-shop and guide sources — spanning both English-language dive shops and independent guides — consistently describe Lighthouse as a shallow reef in the 5-10 meter range, protected in one of the calmer bays around the island, and known specifically for its mandarin fish. None of the wall-diving or pelagic-shark content held up under re-audit and has been removed. Note that this site is distinct from the "Japanese Ship Wreck" entry located nearby (whose identity remains unresolved) — the two should not be conflated.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Northeastern Malapascua, near the island's lighthouse, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
 
 ## Marine Life
 
-Lighthouse is a rewarding wall for pelagic encounters, with hawksbill turtles cruising the sea fan- and crinoid-draped wall face as a near-constant presence. The exposed point draws thresher sharks from deeper water on early morning dives, particularly when current is running, and grey reef sharks and barracuda are regular mid-water visitors. Crevices in the wall shelter moray eels, lionfish, and smaller reef fish that provide macro interest between the bigger-animal sightings.
+Mandarin fish are the headline attraction, with sources describing near-certain sightings of their mating ritual at dusk. Beyond the mandarin fish, sources report pipefish, juvenile sweetlips, seahorses, nudibranchs, bobtail squid, and other nocturnal critters that make this a popular night-dive destination. One source also notes blue-ringed octopus at this site. Given the shallow depth and calm conditions, Lighthouse is considered one of Malapascua's easiest and most reliable macro/critter dives.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [Sea Explorers Philippines - Malapascua Dive Sites](https://sea-explorers.com/dive-sites/malapascua/), [Evolution Diving Resort - Malapascua Dive Sites](https://evolution.com.ph/fun-diving/malapascua-dive-sites/), [Malapascua Exotic Island Dive Resort](https://www.malapascua.net/diving/dive-sites.html), [Dive The World - Malapascua Diving Sites](https://www.dive-the-world.com/diving-sites-philippines-malapascua.php). Last updated 2026-08-21.*

@@ -2,10 +2,10 @@
 name: Deep Slope
 lat: 11.3483754
 lng: 124.1203631
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 4941391019
 addedBy: osm_import
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Deep Slope
 
-Deep Slope is a reef dive site in Philippines Malapascua, Asia.
+Deep Slope, also known locally as Pantaw Pantaw, is a sand-dune muck site rather than a coral reef — a sloping sandy bottom that hosts some of Malapascua's best macro sightings.
 
 ## Overview
 
-Deep Slope is a gently inclined coral reef running along the northern flank of Malapascua island, where hard and soft corals carpet the rubble slope from the surface down to about 25 meters. The site is one of several around the island where thresher sharks occasionally pass through in the early morning on their way up from deeper water, though sightings here are less predictable than at Monad Shoal. Nudibranchs, flatworms, and small crustaceans are scattered throughout the coral rubble, rewarding patient divers who slow down and look closely.
+Multiple sources independently classify Deep Slope as a muck-diving site with a distinctive sand-dune topography that gradually turns into a small wall. This corrects an earlier version of this page that described it as a coral-carpeted reef slope. It sits on the northern flank of Malapascua and is dived to a maximum of roughly 25-28 meters depending on the source.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Northern side of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Muck dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
 ## Marine Life
 
-Deep Slope rewards slow, attentive divers with a steady stream of nudibranchs, flatworms, and small crustaceans distributed through the coral rubble along the 25-meter slope. Thresher sharks occasionally pass through in the early morning, drawn from deeper water — sightings are less predictable than at Monad Shoal but do occur. Reef fish are diverse throughout, with schools of anthias over the soft corals and the occasional sea turtle resting on the larger coral heads.
+Sources consistently report garden eels on the sand, pygmy seahorses on sea fans, flamboyant cuttlefish, nudibranchs, frogfish, and both ghost and banded pipefish. An earlier version of this page claimed thresher sharks pass through Deep Slope — no source supports that claim for this site (thresher sharks are documented at Monad Shoal and Kimud Shoal, not here), so it has been removed.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Zentacle - Malapascua Deep Slope](https://www.zentacle.com/Beach/12864/malapascua-deep-slope), [Evolution Diving Resort - Malapascua Dive Sites](https://evolution.com.ph/fun-diving/malapascua-dive-sites/), [Buena Vida Resort & Spa Malapascua - Dive Sites](https://buenavida-malapascua.com/diving-malapascua/dive-sites/), [Sea Explorers Philippines - Malapascua Dive Sites](https://sea-explorers.com/dive-sites/malapascua/). Last updated 2026-08-21.*

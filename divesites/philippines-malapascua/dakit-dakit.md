@@ -5,7 +5,7 @@ lng: 124.1090875
 difficulty: Intermediate
 maxDepth: 12
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: 4003440589
 addedBy: osm_import
@@ -13,50 +13,24 @@ addedBy: osm_import
 
 ## Dakit-Dakit
 
-Dakit-Dakit is a very shallow pinnacle dive site off Malapascua Island, known for its excellent coral and macro life concentrated in waters no deeper than 12 meters — making it an ideal site for extended underwater photography or a relaxed end-of-day dive.
+Dakit-Dakit is a shallow rocky-reef and boulder formation off Malapascua, sitting in current that keeps its soft coral and macro life in good condition.
 
 ## Overview
 
-"Dakit" in local dialect suggests something small and close together, reflecting the nature of this compact pinnacle feature that breaks near the surface. The pinnacle creates a microhabitat where the shallowest sections receive abundant sunlight, promoting vigorous coral growth. Hard corals are the primary structure, with plate corals and branching forms dominating the well-lit upper sections. The surrounding shallow water creates excellent natural light for photography throughout the day. Given the 12-meter maximum depth, this site is suitable for all certified diver levels and offers exceptional bottom time — a full tank can easily last 60–80 minutes here with controlled breathing.
+Dakit-Dakit is a compact reef of rock and boulder formations in 8-15 meters of water, close to shore and a short boat ride from most Malapascua resorts. Sources describe it as current-swept — the moving water is credited with keeping the soft coral growth healthy and encourages divers to move carefully and stay close to the reef structure. It is rated Intermediate primarily because of that current rather than depth or technical difficulty.
 
 ## Site Information
 
 - **Location**: Near Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 8-20 meters
-- **Current**: Light to moderate
-- **Best Time**: Year-round; morning for best light
+- **Current**: Can run moderate to strong
 
 ## Marine Life
 
-The shallow, sun-drenched pinnacle supports a vibrant community of smaller reef species. Clownfish in anemones are prominent. Damselfish schools dart across the coral surface. Flatworms and nudibranchs creep through the coral growth, and macro subjects are consistently found throughout the reef. Sea snakes are common in the Malapascua area and may be encountered cruising the pinnacle. Frogfish occasionally turn up on the coral structure, using camouflage to blend into sponge growth.
-
-## Dive Profile
-
-At 12 meters maximum, the entire depth range of this site can be covered in a single descending and ascending loop. Work slowly around the pinnacle, looking carefully at coral surfaces for cryptic species. The very shallow sections at 2–5 meters are worth extended time — the diversity of small life here often exceeds that of the deeper sections. This is a site where unhurried exploration pays dividends.
-
-## Entry and Exit
-
-Short banca ride from Malapascua resorts. Entry by giant stride or back roll; the shallow water allows visual confirmation of the pinnacle location before entry. Return to the banca by ladder.
-
-## Tips and Recommendations
-
-- The shallow depth makes this an excellent night dive — cryptic species emerge after dark
-- Use very slow movements to maximise observation of small, shy critters
-- Bring a macro lens and torch — this is a site for patient detail photography
-- The extended bottom time possible here makes it ideal for photographers who want time for multiple shots of the same subject
-- Consider this as a night dive option after dinner — night life at shallow reefs around Malapascua is exceptional
-
-## Safety Considerations
-
-The shallow depth minimises decompression risk. Standard boat diving precautions apply. Be aware of boat traffic near the surface — deploy SMB before ascending even at this shallow depth.
-
-## Photography
-
-The ideal macro photography site in the Malapascua area. Extended bottom time at 12 meters allows thorough searching for nudibranchs, flatworms, frogfish, and other cryptic subjects. The excellent natural light eliminates the need for flash in most conditions. Night diving here transforms the site with different behaviour and species.
+Site-specific reports describe soft coral growth, nudibranchs, and seahorses, with sightings of banded pipefish and moray eels. One operator specifically notes butterflyfish and orangutan crab on the boulder formations. These sightings come from local dive-shop listings rather than a single comprehensive survey, so treat the list as representative rather than exhaustive.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [Evolution Diving Resort - Malapascua Dive Sites](https://evolution.com.ph/fun-diving/malapascua-dive-sites/), [Malapascua Exotic Island Dive Resort](https://www.malapascua.net/diving/dive-sites.html). Last updated 2026-08-21.*
