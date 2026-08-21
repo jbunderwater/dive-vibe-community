@@ -17,7 +17,7 @@ Bahura is a shallow reef dive site in Anilao, Batangas, one of the named sites i
 
 ## Overview
 
-Anilao is frequently called the "macro capital of the Philippines" and the birthplace of recreational scuba diving in the country, and Bahura offers a representative example of what makes the region so compelling for underwater photographers. The reef sits in Verde Island Passage waters where upwellings from the passage corridor create productive conditions for coral growth and critter diversity. At 16 meters maximum depth, the site is shallow enough for extended bottom time and thorough exploration of the reef substrate. Hard corals and sponges provide the primary structure, with the rubble and silty margins between reef sections offering the muck-diving habitat that Anilao is celebrated for.
+Anilao is frequently called the "macro capital of the Philippines" and the birthplace of recreational scuba diving in the country, and Bahura offers a representative example of what makes the region so compelling for underwater photographers. The reef sits in Verde Island Passage waters where upwellings from the passage corridor create productive conditions for coral growth and critter diversity. Our records list a conservative maximum depth of 16 meters, though PADI's own site listing for Bahura gives a considerably deeper maximum of 40 meters — the two sources disagree and this has not been resolved, so divers should confirm current depth expectations with their operator rather than relying on either figure alone. At the shallower end of that range, the site is comfortable for extended bottom time and thorough exploration of the reef substrate. Hard corals and sponges provide the primary structure, with the rubble and silty margins between reef sections offering the muck-diving habitat that Anilao is celebrated for.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Anilao is frequently called the "macro capital of the Philippines" and the birth
 
 ## Marine Life
 
-Bahura's proximity to the Verde Island Passage corridor means exceptional biodiversity. Nudibranchs are prolific — Anilao is world-famous for nudibranch diversity, and this site delivers dozens of species on a single dive. Frogfish in multiple colour morphs inhabit the sponge growth. Pygmy seahorses may be found on sea fans at depth. The reef proper supports schools of anthias, damselfish, and wrasse, with occasional hawksbill sea turtle sightings. Flatworms and sea slugs add to the macro inventory.
+Bahura's proximity to the Verde Island Passage corridor means exceptional biodiversity. PADI's site listing confirms frogfish, octopus, cuttlefish, nudibranchs, and a broad range of reef fish (scorpionfish, boxfish, pufferfish, surgeonfish, angelfish, bannerfish, triggerfish, parrotfish, trumpetfish, pipefish, clownfish, sweetlips, snapper, grouper, lionfish), plus sharks and turtles. A diver review independently confirms sea turtles and small reef sharks at this specific site. Pygmy seahorses may be found on sea fans at depth, though this is not independently confirmed. Anthias, damselfish, and wrasse are likely present given the reef structure but were not specifically confirmed by re-checked sources this round — treat them as probable rather than verified. Flatworms and sea slugs add to the macro inventory.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Shallow site with generally mild conditions. Standard Anilao precautions apply: 
 Anilao is one of the world's premier macro photography destinations, and Bahura represents this tradition well. Nudibranch portraits, frogfish close-ups, and reef fish images in excellent natural light are the primary subjects. Take extra batteries — you will want more dive time than a single tank provides.
 
 ---
-*Sources: [AnilaoDiving.com – Bahura](https://www.anilaodiving.com/bahura.htm), [Divezone – Anilao Batangas](https://divezone.net/diving/anilao-batangas), [PADI – Bahura Dive House Reef](https://www.padi.com/dive-site/philippines/bahura-dive-house-reef/). Last updated 2026-06-25.*
+*Sources: [PADI – Bahura Dive House Reef](https://www.padi.com/dive-site/philippines/bahura-dive-house-reef/), [Divezone – Anilao Batangas](https://divezone.net/diving/anilao-batangas), [AnilaoDiving.com – Bahura](https://www.anilaodiving.com/bahura.htm). Last updated 2026-08-21.*

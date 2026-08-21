@@ -15,8 +15,8 @@
       "sport": "scuba_diving",
       "validated": "false",
       "validation_source": "",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Unresolved: site exists in OSM but no independent dive source found confirming site-specific details. Cannot meet 3-source threshold."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "Deep-QA re-check 2026-08-21: fresh WebSearch for \"Rockport\" + Anilao/Calumpan again returned no site-specific results (only generic Anilao-area guides that don't name this site). Still cannot meet 3-source threshold. Left unvalidated per policy — no padding with weak/generic sources."
     }
   },
   {
@@ -36,9 +36,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "uwphotographyguide.com,guidetothephilippines.ph,philippinedives.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Depth corrected from 25m to 18m (sources: 3-18m). Rhinopias and wonderpus removed — not site-specific to Basura, attributed to other Anilao muck sites."
+      "validation_source": "uwphotographyguide.com,dive-the-world.com,divingsquad.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: guidetothephilippines.ph (previously cited) now 301-redirects to an airline homepage — dead link, removed. philippinedives.com/dive-guide/anilao was re-fetched directly and does NOT mention Basura by name — removed as a Basura-specific source (may cover it elsewhere on the site, but not at the cited URL). Re-confirmed via uwphotographyguide.com (frogfish, pipefish/ghost pipefish, seahorses, nudibranchs, mimic octopus, weedy sea dragon, bobbit worms at night) and newly added dive-the-world.com (frogfish, seahorses, rare nudibranchs; 3-18m depth). Depth 18m and site_type muck reconfirmed. Frogfish/seahorse/nudibranch/ghost pipefish claims in markdown hold; rhinopias/wonderpus correctly excluded (still not site-specific)."
     }
   },
   {
@@ -54,8 +54,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "anilaodiving.com,blueribbondivers.com,linesoflatitudes.home.blog",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Cross placed by Fidel Ramos (confirmed); Pope JPII blessing claim unverified — removed from description. Depth range confirmed 5-30m; maxDepth 19m is conservative, real max closer to 30m at deeper sections."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched anilaodiving.com/cathedral.htm directly — reconfirms cross placed by Fidel V. Ramos, no mention of a Pope John Paul II blessing (existing markdown hedge on this point is correct and retained), depth ~12-30m (our 19m remains a conservative Site Information figure). linesoflatitudes.home.blog returned HTTP 403 on this pass (bot-blocked) and could not be re-fetched directly, but its prior content is corroborated by anilaodiving.com and blueribbondivers.com, both independently reconfirmed. No factual changes required."
     }
   },
   {
@@ -70,9 +70,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "asiadivesite.com,solitude.world,philippinedives.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Difficulty upgraded from Intermediate to Advanced — sources confirm strong currents require Advanced OWD certification. Marine life corrected to site-specific sourced species only."
+      "validation_source": "philippinedives.com,solitude.world,asiadivesite.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: asiadivesite.com (primary cited source) returned HTTP 503 on repeated attempts this session and could not be re-verified directly — retained in source list as historical/previously-verified but flagged here as currently inaccessible. Re-confirmed via philippinedives.com (thousands of anthias, barrel sponges, featherstars, green/hawksbill turtles, blue-ringed octopus) and solitude.world (frogfish, lionfish, nudibranch species). Markdown trimmed: removed triggerfish, snappers, surgeonfish, jacks, tuna, black corals, and clownfish-in-anemones as unconfirmed specific claims (not present in either re-fetched source) — these were plausible but not independently verified this round. Rainbow runners/rays/whale shark retained but explicitly scoped to \"wider area,\" not this specific site, consistent with prior audit."
     }
   },
   {
@@ -87,9 +87,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "anilaodiving.com,divescover.com,solitude.world",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Wall depth confirmed 5-27m. Site type wall confirmed. Small reef sharks at base not verified at this specific site — removed from description."
+      "validation_source": "anilaodiving.com,dive-the-world.com,divescover.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: solitude.world (previously cited) was re-checked directly and does NOT cover Sepok Wall at all (its Anilao roundup lists only 10 other named sites) — removed as a mismatched citation. divescover.com returned HTTP 503 on repeated attempts and could not be re-verified this session; retained provisionally, flagged as unconfirmed this round. anilaodiving.com re-confirmed directly: depth 5-27m (wall to ~28m), 80% soft coral coverage, small frogfish, leaf fish, twin-spot lionfish, scorpionfish, anemonefish — no nudibranch mention. New source dive-the-world.com corroborates depth/coral/frogfish/lionfish/scorpionfish/anemonefish but separately describes a deeper wall \"to 40m\" with \"occasional sharks\" — a genuine depth/fauna conflict with anilaodiving.com's 27m figure and the prior no-sharks-confirmed finding. Markdown updated: nudibranch claim softened (not confirmed by either fully-accessible source), depth and shark conflict now stated explicitly rather than picking one version. Added confirmed trevally/barracuda passes from dive-the-world.com."
     }
   },
   {
@@ -105,8 +105,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "scubadiverlife.com,underwaterasia.info,solitude.world",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Difficulty upgraded from Beginner to Intermediate — sources confirm strong currents during full moon unsuitable for beginners. Depth corrected from 15m to 25m (wall goes to 25-30m per multiple sources)."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched all 3 sources directly. underwaterasia.info explicitly attributes whitetip reef sharks to a DIFFERENT nearby site (Mapating Rock) and eagle rays/mantas to a DIFFERENT site (Verde Island) — NOT Sombrero Island. scubadiverlife.com's own Sombrero-specific article does list eagle rays/mantas/turtles as species \"frequently seen\" at Sombrero (though not observed on the reviewer's particular dive), while solitude.world says only generic \"reef sharks\" (not whitetip specifically) plus turtles. This is a genuine cross-source conflict on species attribution. Markdown corrected: \"whitetip reef sharks\" changed to unspecified \"reef sharks\" (only species-level claim actually supported), and eagle ray/manta claim now explicitly flagged as disputed across sources rather than stated as settled fact. Blue-ringed octopus and turtles remain confirmed (underwaterasia.info, solitude.world, scubadiverlife.com all consistent)."
     }
   },
   {
@@ -122,8 +122,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "philippinedives.com,wannadive.net,fordivers",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Depth corrected from 20m to 18m per philippinedives.com (5-18m range). Marine life updated to site-specifically confirmed species."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched philippinedives.com directly — reconfirms bigeye trevally, yellowtail snapper, ribbon eels in sandy patches, nudibranchs on sponges/soft corals; matches existing markdown. No changes needed. Note: michaelmcfadyenscuba.info (viewpage.php?page_id=1043) also independently documents this exact site (500m from resort, pygmy seahorses on pink gorgonia, nudibranchs, seawhip gobies, mantis shrimp, juvenile ribbon eel) but was not previously cited — available as a strong 4th source if needed in future, not added this pass to avoid unnecessary source-list churn."
     }
   },
   {
@@ -139,8 +139,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "anilaodiving.com,blueribbondivers.com,scubadiverlife.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Wall confirmed drops 5m to 80m+. Depth updated to 30m (recreational limit). Advanced confirmed — Nitrox recommended. Marine life corrected to site-specific sourced species."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched all 3 sources directly. anilaodiving.com confirms depth 5-30m+, currents mild-to-strong, frogfish, sea cucumbers, nudibranchs, angelfish, scorpionfish, pufferfish, turtles (does not mention pygmy seahorses/dragon shrimp). scubadiverlife.com confirms frogfish, sea cucumbers (in quantity), moray eels, scorpionfish/lionfish, nudibranchs (does not mention pygmy seahorses/dragon shrimp/anthias). blueribbondivers.com independently confirms the specific claims the other two don't: thousands of Colochirus robustus sea cucumbers, dragon shrimp in whip corals, pygmy seahorses on gorgonian fans, painted frogfish, anthias clouds. All markdown claims trace to at least one of the 3 sources; no changes needed."
     }
   },
   {
@@ -155,9 +155,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "diveplanit.com,eazytraveler.net,uwphotographyguide.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Black sand and geothermal features confirmed. Marine life corrected — broadclub cuttlefish and bobbit worms removed as not site-specifically sourced. Confirmed: frogfish, seahorses, wonderpus, ghost pipefish, Coleman shrimp, nudibranchs."
+      "validation_source": "diveplanit.com,bluewaterdivetravel.com,uwphotographyguide.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: eazytraveler.net (previously cited) failed to return usable content on two attempts this session (likely bot-blocked) and could not be re-verified — replaced with bluewaterdivetravel.com, which was successfully re-fetched and independently confirms seahorses, ghost pipefish, ambon scorpionfish, tiny frogfish, colemani (Coleman) shrimp, bobbit worms, mantis shrimp, gobies, wonderpus octopus, nudibranchs, geothermal bubbles, and 3-21m depth range — all consistent with existing markdown. diveplanit.com also reconfirmed directly. No factual changes needed; broadclub cuttlefish remains correctly excluded as unconfirmed."
     }
   },
   {
@@ -165,16 +165,16 @@
     "lat": 13.6825,
     "lon": 120.8933,
     "depth": 30,
-    "site_type": "muck",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "wannadive.net,anilaodiving.com,dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Mandarin fish and bobbit worms claims not independently sourced to this specific site — marked as uncertain in description. Rhinopias mentioned in regional context only."
+      "validation_source": "anilaodiving.com,bluewaterdivetravel.com,dive-the-world.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21 - MAJOR CORRECTION: site_type changed from muck to drift. Three independently re-fetched sources (anilaodiving.com/mainit.htm directly, bluewaterdivetravel.com, dive-the-world.com) all describe Mainit Point as a current-swept reef/boulder drift-diving site with great barracuda (up to 4 hunting), giant and bluefin trevally, tuna, sharks (unspecified species), angelfish, parrotfish, wrasses, nudibranchs, shrimps, moray eels, octopus, cuttlefish, and hard/soft coral cover — NOT a muck/critter site. anilaodiving.com explicitly states depth 5-35m and describes \"excellent drift diving experiences\" with strong currents recommended for advanced divers only. bluewaterdivetravel.com independently distinguishes Mainit Point from \"Secret Bay, also known as Mainit Muck\" as a SEPARATE site — meaning the previous rhinopias/mandarinfish/bobbit-worm/hairy-frogfish muck description in our markdown appears to have been conflated with Secret Bay (a different site already correctly tracked in our data as muck). All muck-specific marine life claims (rhinopias, mandarin fish, bobbit worms, hairy/warty frogfish as site-specific) have been removed from the markdown as they belong to Secret Bay, not Mainit Point. Depth retained at 30m (within the 5-35m range multiple sources report; noted as conservative). Difficulty remains Advanced per anilaodiving.com's explicit recommendation given strong currents."
     }
   },
   {
@@ -190,8 +190,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "anilaodiving.com,divezone.net,padi.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Current conditions confirmed moderate to strong; beginners not recommended by anilaodiving.com. Marine life description corrected to sourced species."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: padi.com (PADI's own \"Bahura Dive House Reef\" listing) was re-fetched directly and states maximum depth 40m — this conflicts with our recorded 16m and the prior audit's figure. Neither of the other two sources gives a depth figure to arbitrate, so the conflict is now stated explicitly in the markdown rather than silently keeping 16m. padi.com confirms frogfish, octopus, cuttlefish, nudibranchs, a long list of reef fish (scorpionfish, boxfish, pufferfish, surgeonfish, angelfish, bannerfish, triggerfish, parrotfish, trumpetfish, pipefish, clownfish, sweetlips, snapper, grouper, lionfish), sharks, turtles — but does NOT mention pygmy seahorses, anthias, damselfish, or wrasse specifically. divezone.net (re-fetched) adds a diver comment confirming sea turtles and \"small reef sharks\" at Bahura specifically. Markdown updated: depth conflict now stated explicitly; anthias/damselfish/wrasse softened from confirmed to regional-likely since not independently confirmed this round; pygmy seahorse claim already correctly hedged with \"may be found\" — retained as-is."
     }
   },
   {
@@ -206,9 +206,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "anilaodiving.com,dive.site,oceanstoalpines.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Blue-ringed octopus confirmed for night dives. Ambon scorpionfish and specific species corrected — only species with site-specific confirmation retained."
+      "validation_source": "dive.site,oceanstoalpines.com,arthursplacediveresort.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: arthursplacediveresort.com homepage (previously cited) was re-fetched and contains only resort service listings (courses, Nitrox, gear rental) with no site-specific marine life content — it confirms the resort/site's existence and name origin but does not independently corroborate any marine life claim. dive.site and oceanstoalpines.com were not re-fetchable this session (no stable direct URLs recovered for the specific pages). Given the resort source is weak and the other two could not be re-confirmed this round, treat marine-life confidence here as reduced versus the prior audit; existing hedged language (species already flagged and removed pending site-specific sourcing in the prior pass) is retained unchanged as it was already appropriately conservative. No new unconfirmed claims added."
     }
   },
   {
@@ -223,9 +223,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "zentacle,scubaboard.com,divingsquad.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Depth 10m confirmed. Ghost pipefish and mantis shrimp not independently sourced to Dead Palm specifically — marked as regional in description."
+      "validation_source": "zentacle,scubaboard.com,solitude.world",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: divingsquad.com (previously cited) was re-checked and its Anilao guide does not name Dead Palm specifically (removed). divephilippines.com.ph (previously cited) no longer resolves (DNS failure — domain appears dead, removed). A fresh WebSearch confirms Dead Palm's existence and location adjacent to Arthur's Rock in Bagalangit (depth association 5-30m, shared with Arthur's Rock) but returned no additional site-specific marine life beyond what's already in the hedged markdown. Existing markdown language (which already explicitly states species are regional-typical rather than individually confirmed at this site) is retained unchanged — it was already compliant with the marine-life accuracy standard. validation_source list updated to remove dead/non-matching citations; zentacle and scubaboard.com retained from prior audit as unchanged."
     }
   },
   {
@@ -240,9 +240,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "uwphotographyguide.com,philippinedives.com,divingsquad.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Site type muck confirmed. Wonderpus and harlequin shrimp confirmed at this site per uwphotographyguide. Rhinopias confirmed at Anilao muck sites including this area. Flamboyant cuttlefish claim retained as regionally confirmed."
+      "validation_source": "philippinedives.com,divingsquad.com,uwphotographyguide.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21 - MARINE LIFE CORRECTION: uwphotographyguide.com could not be re-fetched directly this session (persistent redirect loop on multiple URL variants); a targeted WebSearch for \"Koala\" + Anilao + flamboyant cuttlefish/jawfish/ghost pipefish returned no site-specific confirmation for a site named \"Koala\" or \"Koala Reef\" — flamboyant cuttlefish and jawfish came back only as general Anilao-region muck fauna, not attributed to this specific site. Per the marine-life accuracy rule, these have been downgraded from site-specific claims to an explicit regional-fauna statement in the markdown. Wonderpus and harlequin shrimp (previously flagged in an earlier pass as \"confirmed at this site per uwphotographyguide\") could also not be re-verified this session and are now also stated as regional rather than site-confirmed, pending a successful re-fetch of the source."
     }
   },
   {
@@ -261,8 +261,8 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,divescover.com,anilaodiving.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Location confirmed: entrance to passage between Marikaban and Caban Islands. Depth 3-20m confirmed. Fire urchin shrimps confirmed. Re-audited from single-source to 3-source."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched michaelmcfadyenscuba.info/viewpage.php?page_id=1105 directly — reconfirms location between Marikaban and Caban Islands, depth 3m sloping to 18m with a small wall to 20m+, fire urchin shrimps, nudibranchs, long-finned bannerfish, Moorish idols. divescover.com returned HTTP 503 this session and could not be re-verified. No factual changes required."
     }
   },
   {
@@ -281,8 +281,8 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,anilaodiving.com,divescover.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Site type corrected from reef to drift — McFadyen confirms current-assisted drift dive. Niger triggerfish (tens of thousands) confirmed. Blue ribbon eel confirmed (1 observed per McFadyen). Giant anglerfish confirmed."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched michaelmcfadyenscuba.info/viewpage.php?page_id=1031 directly — GPS coordinates in the source (13°41'12.815\"N 120°50'36.690\"E) convert to within ~15m of our recorded lat/lon, confirming site identity. Reconfirms steep descent to 22m/max ~30m, moray eel species (incl. spotted moray), giant black anglerfish (4 individuals, apparent pairs), spiny devilfish, niger/blue triggerfish, nudibranchs (incl. Hypselodoris pulchella), blue ribbon eel, mantis shrimp, black boxfish, dartfish. divescover.com returned HTTP 503 this session and could not be re-verified. No factual changes required."
     }
   },
   {
@@ -300,9 +300,9 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
-      "validation_source": "michaelmcfadyenscuba.info,linesoflatitudes.home.blog,scubadiverlife.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "WRECK AUDIT: Structure is former floating casino; sank by fire (confirmed by 2 sources). Arson-for-insurance is local speculation only. Depth: upper frame 12-13m, lower frame 25-28m, sandy bottom ~30m. Max depth corrected from 30m to 28m (frame). No verified build date, tonnage, or dimensions found. Wreck conflicts documented in description."
+      "validation_source": "michaelmcfadyenscuba.info,linesoflatitudes.home.blog,scubadiverlife.com,paparazsea.com",
+      "last_qa_date": "2026-08-21",
+      "qa_note": "WRECK DEEP-AUDIT 2026-08-21: Re-fetched michaelmcfadyenscuba.info/viewpage.php?page_id=1038 directly — reconfirms floating-casino origin, fire/insurance-rumor account (explicitly labeled speculation), depth ~12-25m frame / sandy bottom deeper, batfish, clownfish, moray eels, nudibranchs, crocodilefish. Added a 4th independent source, paparazsea.com, found via fresh WebSearch and re-fetched directly, which independently corroborates the floating-casino history, the fire, and the unconfirmed insurance-fraud rumor, and adds \"late 70s or early 80s\" as a slightly narrower (still unverified) operating window than \"1980s.\" Checked and REJECTED a false lead: Wikipedia's \"Manila Bay Casino\" article (MS Philippine Tourist, burned 1979) describes a different vessel in Manila Bay itself, unrelated to Anilao's Dari Laut — not cited, to avoid a plausible-sounding but incorrect conflation. Still no verified build date, dimensions, or tonnage in any of the 4 sources — correctly omitted throughout. No hallucinated facts found; wreck history conflict (fire vs. disputed arson-for-insurance) remains properly flagged rather than resolved by guessing."
     }
   },
   {
@@ -321,8 +321,8 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,anilaodiving.com,divingsquad.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Hairy anglerfish confirmed (tiny orange specimen). Spiny devilfish confirmed (2 observed). Mushroom coral pipefish confirmed (in anemones, not on mushroom coral per McFadyen — name is misleading). Ribbon eels (juvenile) confirmed. Site-specific marine life verified."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched michaelmcfadyenscuba.info/viewpage.php?page_id=1041 directly — reconfirms location ~6km ESE of Buceo Anilao, depth 5-30m+, clownfish, moray eels, juvenile ribbon eels, lionfish, spiny devilfish, orange hairy anglerfish, goby species, multiple shrimp varieties, nudibranchs, and \"two tiny white pipefish in an anemone\" identified as mushroom coral pipefish. All markdown claims reconfirmed verbatim against the primary source. No factual changes required."
     }
   },
   {
@@ -341,8 +341,8 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,zentacle,wannadive.net",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Pygmy seahorses at 24m on gorgonias confirmed. Octopus and mantis shrimp confirmed. Nudibranchs confirmed. No anemones seen by McFadyen — removed from description."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched michaelmcfadyenscuba.info/viewpage.php?page_id=1040 directly and specifically checked the pygmy seahorse depth claim word-for-word: source states \"Eventually at 24 metres we came to a medium sized light pink gorgonia. This was home to three tiny pygmy sea horses\" — exact match to markdown's \"pygmy seahorses on gorgonias at 24 meters.\" Also reconfirmed nudibranchs, octopus, mantis shrimp, soft coral crabs, butterflyfish. wannadive.net returned HTTP 503 this session and could not be re-verified. No factual changes required."
     }
   },
   {
@@ -361,8 +361,8 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,anilaodiving.com,blueribbondivers.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Wall ~70m long confirmed by McFadyen. Wall depth 22-30m confirmed. Banded sea snake confirmed. Anglerfish, leaf fish, batfish, turtles confirmed. Hot spring bubbles confirmed geothermal (volcano ~35km away)."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched michaelmcfadyenscuba.info/viewpage.php?page_id=1047 directly — reconfirms wall ~70m long, drops 22-30m, geothermal bubbles hot enough to be uncomfortable to touch, water temp rising 3+ degrees near vents, banded sea snake, long-finned bannerfish, nudibranchs, yellow-spotted boxfish, barrel sponges, clownfish, mantis shrimp, leaf fish, sea turtles, black giant anglerfish. All markdown claims reconfirmed. No factual changes required."
     }
   },
   {
@@ -381,8 +381,8 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,anilaodiving.com,divingsquad.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Bommie 600m from resort confirmed. Nembrotha nudibranchs confirmed. Harlequin shrimp confirmed. Pygmy seahorse confirmed. Lionfish, sweetlips, boxfish confirmed."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched michaelmcfadyenscuba.info/viewpage.php?page_id=1046 directly — reconfirms bommie ~600m from resort, anchor at ~8m descending to 24m, nembrotha nudibranchs, harlequin shrimp, starfish shrimp, featherstar shrimp, lionfish, juvenile sweetlips, yellow-spotted boxfish, pufferfish, cowfish, clownfish, tiny white anglerfish, pygmy seahorse. All markdown claims reconfirmed. No factual changes required."
     }
   },
   {
@@ -401,8 +401,8 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,padi.com,anilaodiving.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Three anglerfish on single dive confirmed. Sea moths confirmed. Squat lobsters confirmed. Mantis shrimp confirmed. Site-specific marine life verified against McFadyen primary source."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched michaelmcfadyenscuba.info/viewpage.php?page_id=1039 directly — reconfirms shore entry directly at Buceo Anilao Dive Resort, sand slope 4-30m+, three anglerfish (tan warty Antennarius maculatus, orange hairy striated Antennarius striatus, another warty variety) on one dive, multiple nudibranch species incl. swallowtail headshield slug, flabellina, Eubranchus, Hypselodoris, Brooks urchin shrimp, cryptic sponge shrimp, dancing shrimp, Zanzibar whip coral shrimp, lionfish, mantis shrimp, octopus, sea moth, squat lobsters. All markdown claims reconfirmed. No factual changes required."
     }
   },
   {
@@ -421,8 +421,8 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,anilaodiving.com,divingsquad.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Two giant anglerfish confirmed. Thousands of redtooth triggerfish confirmed. Featherstar shrimps confirmed. Hairy squat lobsters confirmed. Marine life retained — all site-specifically sourced."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched michaelmcfadyenscuba.info/viewpage.php?page_id=1044 directly — reconfirms two giant anglerfish (plus two more on an earlier dive), thousands of redtoothed/blue triggerfish, anemone shrimp, hairy squat lobster, featherstar shrimp, nudibranchs, moray eels, ribbon eels, pufferfish, clownfish. All markdown claims reconfirmed. No factual changes required."
     }
   },
   {
@@ -441,8 +441,8 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,anilaodiving.com,divingsquad.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Pygmy seahorse on gorgonia confirmed. Harlequin shrimp confirmed (light-coloured). Funeral jorunna nudibranch confirmed. Orangutan crab in anemone confirmed. Spotted stingrays confirmed. White anglerfish confirmed. Banded sea snake confirmed. All site-specific."
+      "last_qa_date": "2026-08-21",
+      "qa_note": "DEEP-QA RE-AUDIT 2026-08-21: Re-fetched michaelmcfadyenscuba.info/viewpage.php?page_id=1045 directly — reconfirms small white anglerfish with a tiny pygmy seahorse on a small gorgonia, orangutan crab in anemone, light-coloured harlequin shrimp, starfish shrimp, spotted stingrays, anemones/clownfish, funeral jorunna and Willans chromodoris nudibranchs, banded sea snake, juvenile sweetlips, lionfish, cowfish. All markdown claims reconfirmed. No factual changes required."
     }
   }
 ]

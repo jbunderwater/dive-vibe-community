@@ -32,7 +32,7 @@ The "muck" classification at Koala Reef indicates a substrate dominated by sand,
 
 ## Marine Life
 
-Muck diving at Koala Reef yields the species Anilao is famous for. Frogfish — including the spectacular hairy frogfish — hunt from camouflaged positions on sponge and rubble. Flamboyant cuttlefish (*Metasepia pfefferi*) strut across the sandy bottom displaying iridescent colour patterns. Nudibranchs in dozens of species inhabit every substrate type. Jawfish extend from burrows in the sand. Ghost pipefish and robust ghost pipefish shelter near sparse coral and crinoids. Octopus are common and can be found in hunting mode on the open muck substrate.
+No source could be re-confirmed this round that specifically documents marine life sightings at "Koala Reef" by name — the site's regional muck fauna (frogfish, nudibranchs, ghost pipefish, octopus, and occasionally flamboyant cuttlefish and jawfish, all found at Anilao's muck sites generally) likely applies given the substrate type, but these species are not individually confirmed for this specific location in currently accessible sources. Treat any species list for this site as a regional expectation rather than a confirmed sighting record until a site-specific source is found.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Muck sites typically have good conditions — little current, manageable depth, 
 Anilao muck photography is world-class. The primary subjects — frogfish, nudibranchs, flatworms, cuttlefish, and octopus — reward close-focus macro setups. Reduced natural light on the muck substrate often requires strobe use even in daytime. The Anilao muck site experience is considered the ultimate macro photography challenge by many professional underwater photographers.
 
 ---
-*Sources: [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving), [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-06-25.*
+*Sources: [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/), [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving) (unreachable during 2026-08-21 re-audit due to a persistent redirect; retained from prior verification, marine-life claims downgraded to regional pending re-confirmation). Last updated 2026-08-21.*

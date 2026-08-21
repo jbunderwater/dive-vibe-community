@@ -55,4 +55,4 @@ One of Anilao's premier shore-entry macro photography sites. Frogfish in multipl
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving), [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Guide to the Philippines – Anilao Diving Guide](https://guidetothephilippines.ph/articles/adventure-and-outdoors/anilao-batangas-diving-guide). Last updated 2026-06-25.*
+*Sources: [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving), [Dive The World – Batangas](https://www.dive-the-world.com/diving-sites-philippines-batangas-anilao.php), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-08-21.*

@@ -32,7 +32,7 @@ Beatrice Rock sits on the northeast corner of Sombrero Island, with one side fea
 
 ## Marine Life
 
-The current-swept environment at Beatrice Rock supports outstanding biodiversity. Large barrel sponges, gorgonians, black corals, soft corals, anemones with clownfish, and hard corals cover the reef structure. Schools of thousands of anthias swarm the upper reef. Frogfish, lionfish, and various nudibranch species inhabit the reef surfaces. Triggerfish, snappers, surgeonfish, jacks, and tuna pass through on the current. Turtles are regular visitors. Blue-ringed octopus have been observed in crevices. During strong-current periods, rainbow runners, several species of rays, and occasionally whale shark have been reported in the wider area.
+The current-swept environment at Beatrice Rock supports outstanding biodiversity. Large barrel sponges and featherstars cover the reef structure. Schools of thousands of anthias — described as "clouds of orange and pink" — swarm the upper reef. Frogfish, lionfish, and various nudibranch species inhabit the reef surfaces. Green and hawksbill turtles are regular visitors. Blue-ringed octopus have been observed in crevices. Other reef fish typical of Anilao's current-exposed sites are likely present but are not individually confirmed for this specific site in available sources. During strong-current periods in the wider area, rainbow runners, several species of rays, and occasionally whale shark have been reported — these are regional rather than site-specific observations.
 
 ## Dive Profile
 
@@ -58,4 +58,4 @@ Strong currents are the primary hazard at Beatrice Rock. Advanced diving experie
 Beatrice Rock rewards both macro and wide-angle setups. The anthias clouds in the current on the upper reef are outstanding wide-angle subjects. Large barrel sponges provide classic tropical reef-scape compositions. Macro subjects include nudibranchs, frogfish, and lionfish across the coral surface. Blue-ringed octopus in crevices are a macro highlight for patient photographers.
 
 ---
-*Sources: [Asia Dive Site – Beatrice Rock](https://asiadivesite.com/philippines-dive-sites/anilao/beatrice-rock.php), [Solitude World – Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/). Last updated 2026-06-25.*
+*Sources: [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Solitude World – Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Asia Dive Site – Beatrice Rock](https://asiadivesite.com/philippines-dive-sites/anilao/beatrice-rock.php) (temporarily unreachable during 2026-08-21 re-audit, retained from prior verification). Last updated 2026-08-21.*

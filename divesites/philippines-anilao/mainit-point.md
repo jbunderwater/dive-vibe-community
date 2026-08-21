@@ -5,7 +5,7 @@ lng: 120.8933
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: muck
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,50 +13,50 @@ addedBy: osm_import
 
 ## Mainit Point
 
-Mainit Point is an advanced muck dive site in Anilao, Batangas, where deeper substrate exploration at 30 meters delivers some of the area's more unusual critter finds alongside the possibility of stronger current that earns it the Advanced rating.
+Mainit Point is a current-swept reef and drift-diving site off the Mainit peninsula — a boulder-strewn slope where strong tidal currents through the Maricaban Strait bring in barracuda, trevally, and tuna, making this one of Anilao's few dedicated current/pelagic sites.
 
 ## Overview
 
-"Mainit" means "hot" in Filipino, and the name may refer to the warmer water temperatures occasionally found at this point — a local geographic characteristic rather than hydrothermal activity. The site is categorised as a muck dive for its sandy and silty substrate composition, but it extends deeper than most Anilao muck sites, reaching 30 meters at its deepest productive zone. The additional depth opens up species assemblages not found in the shallower sites, and the point's slightly more exposed position can introduce current that requires management. Advanced diver status is recommended to safely handle depth, potential current, and the buoyancy challenges of extended muck diving.
+"Mainit" means "hot" in Filipino, a reference to the local geography rather than the site itself. Mainit Point should not be confused with Secret Bay, a separate nearby site (also called "Mainit Muck") that is Anilao's dedicated critter/muck destination — the two are frequently mixed up because of the shared "Mainit" name, but they are different dives with different character. Mainit Point is a current-swept boulder slope and coral-heavy reef where tidal flow through the Maricaban Strait attracts larger pelagic species alongside a healthy reef fish community. Multiple sources describe it as offering "excellent drift diving" and recommend it for advanced divers only, given the strength and unpredictability of the currents. Depth figures vary by source, from roughly 5 meters up to 35 meters at the deeper end; our recorded maximum of 30 meters sits within that range.
 
 ## Site Information
 
-- **Location**: Anilao, Batangas, Philippines
+- **Location**: Mainit peninsula, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-15 meters
-- **Current**: Variable; can be moderate at the point
-- **Best Time**: October to May
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Strong; tidal currents through the Maricaban Strait can be significant
+- **Best Time**: October to May, when currents are more predictable
 
 ## Marine Life
 
-The deeper muck zone at Mainit Point yields species that require more depth to find. Rhinopias (weedy and paddle-flap scorpionfish) are among the prized finds at deeper Anilao muck sites. Hairy frogfish and warty frogfish are present. Nudibranchs include deeper-water species not found at shallower sites. Mandarin fish are a possibility in the rubble zones during dusk dives. Octopus and cuttlefish hunt actively across the muck substrate. Bobbit worms (Eunice sp.) lurk in sandy burrows, emerging at night.
+Mainit Point's currents draw in larger species not typically seen at Anilao's sheltered muck and reef sites. Great barracuda are a highlight — up to four have been reported hunting together on a single dive. Giant trevally and bluefin trevally are regular visitors, and tuna and sharks (species unspecified in available sources) have also been reported passing through. The reef substrate itself supports angelfish, parrotfish, and wrasses, along with nudibranchs, shrimps, moray eels, octopus, and cuttlefish. Hard and soft corals cover much of the boulder terrain.
 
 ## Dive Profile
 
-Descend to the 25–30 meter range first, as this is where the most unusual deep-muck species occur and where no-decompression time is most critical. Work methodically back toward the shallows, covering the substrate carefully at each depth zone. Buoyancy management is especially important at the deeper sections to avoid kicking up silt. Plan air and no-decompression limits carefully for a multi-dive Anilao day.
+This is a drift dive planned around the current — check tidal timing with your guide before entering. Descend onto the boulder slope and let the current carry you along the reef, watching the blue water for passing barracuda and trevally while scanning the substrate and coral heads for smaller reef life. Depths on the slope range from the shallows down to 30 meters or more depending on the route taken. Because current strength and direction vary with the tide, dive plans here are less fixed than at Anilao's sheltered sites — follow your guide's briefing closely.
 
 ## Entry and Exit
 
-Access by banca from Anilao resort. Assess surface conditions at the point before entry — choppy conditions in the shallows can make banca positioning more difficult. Entry by giant stride; SMB for ascent. Deploy the SMB well before reaching the surface.
+Access by boat from Anilao-area resorts. A live boat typically follows divers through the drift rather than anchoring. Deploy an SMB well before your safety stop so the boat can track your position — currents can carry divers a meaningful distance from the entry point.
 
 ## Tips and Recommendations
 
-- Rhinopias sightings are the prize find at deeper Anilao muck sites; ask your guide if any have been reported recently
-- Perfect your buoyancy control before attempting the 30-meter sections — kicking up silt ruins the dive for everyone
-- Dusk and night dives at Mainit Point are highly productive for mandarinfish and cephalopods
-- Manage your total bottom time carefully on multi-dive Anilao days — deeper sites accelerate no-decompression limit accumulation
-- Carry a dive light even on daytime dives; the deeper, darker muck substrate requires illumination
+- This is not a beginner site — strong, sometimes unpredictable currents require solid buoyancy and drift-diving experience
+- Watch the blue water periodically for barracuda and trevally rather than staying fixed on the substrate
+- Time your dive with slack or moderate tidal flow where possible for the most comfortable conditions
+- Carry a whistle and SMB; current can separate divers from the group or the boat
 
 ## Safety Considerations
 
-The 30-meter depth requires careful air and no-decompression limit management, especially after multiple dives earlier in the day. Current at the point requires active monitoring. Advanced buoyancy control is essential. Nearest hyperbaric facility is in Manila — several hours from Anilao.
+Strong, variable currents are the primary hazard — this site is recommended for advanced divers with drift-diving experience. Downcurrents and sudden changes in current strength/direction are possible near the point. Always dive with a live-boat pickup plan, deploy an SMB before ascending, and carry a surface signalling device. Do not dive this site without a guide familiar with current timing at the point.
 
 ## Photography
 
-Rhinopias and deeper-water frogfish are the standout photography subjects at this site. A macro lens with strobe lighting is necessary for the lower ambient light at depth. Composition on featureless muck substrate challenges photographers to use lighting creatively to distinguish subjects from background.
+Wide-angle is the priority lens choice here — barracuda schools and trevally passing in the blue are the signature subjects, and drifting current makes fixed macro work difficult. The boulder-and-coral terrain also offers reef-scape compositions. A macro lens can still be productive on the reef substrate itself (nudibranchs, shrimps) during calmer current periods, but this is primarily a wide-angle, current-diving site rather than a macro destination.
 
 ---
-*Sources: [Wannadive – Anilao](https://wannadive.net), [AnilaoDiving.com – Dive Sites](https://www.anilaodiving.com/dive_site.htm), [Dive-The-World – Batangas Diving](https://www.dive-the-world.com/diving-sites-philippines-batangas.php). Last updated 2026-06-25.*
+*Sources: [AnilaoDiving.com – Mainit Point](http://www.anilaodiving.com/mainit.htm), [Bluewater Dive Travel – Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Dive The World – Batangas](https://www.dive-the-world.com/diving-sites-philippines-batangas-anilao.php). Last updated 2026-08-21.*

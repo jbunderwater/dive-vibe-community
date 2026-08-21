@@ -32,7 +32,7 @@ Sombrero Island sits in the Tingloy area of the Anilao region, its distinctive p
 
 ## Marine Life
 
-Sombrero Island supports a diverse reef community. Eagle rays, mantas, and sea turtles are frequently spotted. Whitetip reef sharks patrol the boulders and drop-offs. The staghorn gardens in the shallower sections are dense with damselfish, wrasse, surgeonfish, snapper, and grunts. The gorgonian-covered wall sections harbour nudibranchs and clownfish in anemones. During strong-current dives, schools of jacks sweep past the wall. Blue-ringed octopus have been sighted at the site. Pygmy seahorses are reported in the gorgonians by some sources, though this is not consistently documented.
+Sombrero Island supports a diverse reef community. Sea turtles and reef sharks (species not specified in available sources) are confirmed at the site by multiple independent sources. Blue-ringed octopus have also been reported. Sources disagree on eagle rays and mantas: one dive-report source lists them as species "frequently seen" at Sombrero, while a separate Anilao dive guide attributes eagle ray and manta sightings to a different nearby site (Verde Island) rather than Sombrero specifically — treat eagle ray/manta sightings here as possible but unconfirmed rather than reliable. The staghorn gardens in the shallower sections are dense with damselfish, wrasse, surgeonfish, snapper, and grunts. The gorgonian-covered wall sections harbour nudibranchs and clownfish in anemones. During strong-current dives, schools of jacks and trevally sweep past the wall. Pygmy seahorses are reported in the gorgonians by some sources, though this is not consistently documented.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Access by banca from Anilao-area resorts. Entry by giant stride. Deploy SMB duri
 
 - Check current conditions with your guide before the dive — strong full-moon currents significantly change the experience
 - The variety of terrain means multiple dives here each reveal different sections
-- Eagle ray and manta sightings are more likely during current dives in the blue water beyond the wall
+- Eagle ray and manta sightings are reported by some divers but are not a reliable expectation — sources disagree on whether they belong to this site or a neighbouring one
 - Beginners should not attempt Sombrero Island during strong-current conditions
 
 ## Safety Considerations
@@ -54,4 +54,4 @@ Access by banca from Anilao-area resorts. Entry by giant stride. Deploy SMB duri
 Current exposure is the primary safety consideration. Strong currents during full-moon periods require drift diving experience. Always carry an SMB and deploy it well before surfacing — the island perimeter means the boat cannot anchor directly overhead. Experienced guide briefing on current direction is essential.
 
 ---
-*Sources: [Scuba Diver Life – Sombrero](https://scubadiverlife.com/dive-site-sombrero-anilao-philippines/), [Underwater Asia – Anilao Diving Guide](https://underwaterasia.info/philippines/anilao-diving), [Solitude World – Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/). Last updated 2026-06-25.*
+*Sources: [Scuba Diver Life – Sombrero](https://scubadiverlife.com/dive-site-sombrero-anilao-philippines/), [Underwater Asia – Anilao Diving Guide](https://underwaterasia.info/philippines/anilao-diving), [Solitude World – Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/). Last updated 2026-08-21.*
