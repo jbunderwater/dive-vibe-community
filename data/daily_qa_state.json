@@ -2,14 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "panama",
-    "papua-new-guinea",
-    "philippines",
-    "philippines-anilao",
-    "philippines-bohol",
-    "philippines-donsol",
-    "philippines-malapascua",
-    "philippines-palawan",
     "philippines-puerto-galera",
     "philippines-tubbataha-reefs",
     "poor-knights-islands",
@@ -174,7 +166,15 @@
     "nova-scotia",
     "okinawa",
     "oman",
-    "palau"
+    "palau",
+    "panama",
+    "papua-new-guinea",
+    "philippines",
+    "philippines-anilao",
+    "philippines-bohol",
+    "philippines-donsol",
+    "philippines-malapascua",
+    "philippines-palawan"
   ],
   "history": [
     {
@@ -3413,6 +3413,99 @@
         }
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/152",
+      "errors": []
+    },
+    {
+      "date": "2026-08-21",
+      "slugs": [
+        "papua-new-guinea",
+        "philippines-anilao",
+        "philippines-bohol",
+        "philippines-donsol",
+        "philippines-malapascua",
+        "philippines-palawan"
+      ],
+      "notes": "panama and philippines are isGroup=true parent slugs with no own data files -- skipped, consistent with prior-cycle precedent. philippines-malapascua and philippines-palawan were substituted in (next in queue) to keep 6 real destinations audited today.",
+      "summary": {
+        "sites_total": 103,
+        "sites_validated_today": 18,
+        "sites_re_audited": 96,
+        "hallucinations_removed": 31,
+        "marine_life_stripped": 14,
+        "wreck_conflicts_flagged": 5,
+        "sites_unresolved": 14,
+        "by_destination": {
+          "papua-new-guinea": {
+            "sites_total": 38,
+            "sites_validated_today": 0,
+            "sites_re_audited": 35,
+            "hallucinations_removed": 1,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 4,
+            "notes": "Discovered Michael McFadyen's PNG site index as a strong primary source, re-verified ~23 sites against it directly. Removed a fabricated 'scuttled to create a dive site' claim on MV Coral Queen (only an accidental 1966-67 sinking at Buka is sourced). Corrected Inglis Shoal depth 14m->28m. Flagged sinking-date conflicts on MV Pacific Gas and B-25 Mitchell Bomber rather than picking one. Found the real Barracuda Point is in Milne Bay, not Rabaul -- Barracuda Point Rabaul stays unvalidated with that note. The Bottleneck Milne Bay and Eel Garden Madang remain unresolved."
+          },
+          "philippines-anilao": {
+            "sites_total": 24,
+            "sites_validated_today": 0,
+            "sites_re_audited": 23,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 3,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 1,
+            "notes": "Major correction: Mainit Point was conflated with the separate Mainit Muck site -- re-sourced as a current-swept drift/reef site (site_type muck->drift), full markdown rewrite. Stripped unsupported marine life from Sombrero Island, Beatrice Rock, Sepok Wall, Koala Reef. Dari Laut wreck history re-confirmed across 4 sources with era narrowed to late-1970s/80s (still hedged); explicitly rejected an unrelated Wikipedia 'Manila Bay Casino' false lead. Replaced several dead/mismatched source citations found during re-fetching. Rockport Dive Site remains unresolved (no site-specific source)."
+          },
+          "philippines-bohol": {
+            "sites_total": 8,
+            "sites_validated_today": 0,
+            "sites_re_audited": 7,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 2,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "No wreck sites. Stripped unsupported barracuda/butterflyfish claims from Marine Sanctuary. Surfaced and wrote up two real cross-source conflicts (Pamilacan Island difficulty/megafauna, Kalipayan Wall difficulty rating) rather than resolving them silently. The Arc remains unresolved -- no independent source distinguishes it from Arco Point."
+          },
+          "philippines-donsol": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 2,
+            "notes": "No wreck sites. Removed fabricated Manta Bowl sub-site names (Classroom/Carlos/Sweetlips -- unsourced) and an unsupported '250+ whale sharks at this specific site' figure that actually applied to the whole Ticao-Burias Pass. Fixed several validation_source citations that didn't actually cover the sites they were attached to. Shark Apartment and Tres Grace remain below the 3-domain bar (only 2 independent sources found each)."
+          },
+          "philippines-malapascua": {
+            "sites_total": 15,
+            "sites_validated_today": 13,
+            "sites_re_audited": 13,
+            "hallucinations_removed": 10,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 3,
+            "notes": "Prior pass had used an identical copy-pasted 5-source footer across all 15 files regardless of actual content -- strong sign it wasn't genuinely researched. Lighthouse was fabricated as a 30m wall with thresher/grey reef sharks; real sources show a 5-10m shallow reef known for mandarin fish, full rewrite. North Point downgraded from Advanced 35m pinnacle with hammerheads to Intermediate 6-27m reef. Several sites reclassified reef<->muck/wall/pinnacle per consistent operator descriptions. Japanese Ship Wreck vessel identity conflicts between two real, distinct WWII wrecks near the island -- left unvalidated with no fabricated vessel history published. Secret Wall and Marine Protected Area remain unresolved."
+          },
+          "philippines-palawan": {
+            "sites_total": 8,
+            "sites_validated_today": 5,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 9,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 3,
+            "notes": "Critical finding: all 8 site markdown files shared an identical, copy-pasted footer citing five Coron-wreck-specific sources -- including for El Nido wall dives and a Tubbataha reef 300km+ away. Replaced with sources actually re-verified per site. Biet Point reclassified wall->reef (no source describes a wall). Akitsushima wreck length/depth conflicts (114.8m vs 118m; 36m vs 38m) written as ranges; tonnage and sinking facts corroborated across Wikipedia + 3 dive sources. Flagged that divephilippines.com.ph, cited as a source across multiple Palawan-area files, now serves hijacked gambling-spam content -- worth a repo-wide citation audit. Banayan Point, Bikanayos Rock, and Cave remain unresolved."
+          },
+          "panama": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs (e.g. new-zealand on 2026-08-14)."
+          },
+          "philippines": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped; its sub-destinations (philippines-anilao, philippines-bohol, philippines-donsol, philippines-malapascua, philippines-palawan) were audited individually instead, along with philippines-malapascua and philippines-palawan substituted in to keep 6 real destinations audited today."
+          }
+        }
+      },
+      "pr_url": null,
       "errors": []
     }
   ]
