@@ -19,7 +19,7 @@ Donsol Whale Shark Area is a snorkel-only interaction zone in Donsol Bay, Sorsog
 
 ## Overview
 
-Donsol Bay is home to the largest documented whale shark aggregation in Southeast Asia. Between 2006 and 2020, researchers conducted 1,985 surveys (over 895 days) encountering 6,786 whale sharks. Peak sightings reach an estimated 47–61 individual whale sharks in the bay at any one time. The Ticao-Burias Pass ISRA (Important Shark and Ray Area) designation confirms this as globally significant habitat — the only location in Southeast Asia with documented whale shark neonates.
+Donsol Bay is home to the largest documented whale shark aggregation in Southeast Asia. Between 2006 and 2020, researchers conducted 1,985 surveys (over 895 days) encountering 6,786 whale sharks. Peak sightings reach an estimated 47–61 individual whale sharks in the bay at any one time. The Ticao-Burias Pass ISRA (Important Shark and Ray Area) assessment documents three whale shark neonates here — two in March 2009 (46 cm and 64 cm) and one in 2020 (60 cm) — along with anecdotal reports of mating and precopulatory behavior, supporting Donsol's significance as reproductive habitat.
 
 The WWF Philippines helped establish Donsol's eco-tourism program, training locals as Butanding Interaction Officers (BIOs) who enforce the code of conduct from each boat. Whale sharks aggregate here to feed on the plankton and krill blooms fed by the Donsol River and Burias/Ticao Pass nutrient upwelling.
 
@@ -54,4 +54,4 @@ Entry and exit from a bangka (outrigger boat) in open bay waters. Snorkelers mus
 - **Maximum Depth**: 10 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Donsol Whale Shark Interaction — JourneyEra](https://www.journeyera.com/donsol-whale-shark-interaction/), [Donsol — Wikipedia](https://en.wikipedia.org/wiki/Donsol). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Donsol Whale Shark Interaction — JourneyEra](https://www.journeyera.com/donsol-whale-shark-interaction/), [Donsol — Wikipedia](https://en.wikipedia.org/wiki/Donsol). Last updated 2026-08-21.*

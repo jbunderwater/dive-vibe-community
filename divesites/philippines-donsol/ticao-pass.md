@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Ticao Pass
 
-Ticao Pass is the main navigation strait separating Ticao Island from the Bicol Peninsula in Sorsogon Province. As a dive site reference it describes the broader channel drift dives through the pass, distinct from the Manta Bowl seamount site within it. The pass is recognized as the highest plankton-concentration waterway in the Philippines, with Pacific waters entering via the San Bernardino Strait driving persistent nutrient upwelling.
+Ticao Pass is the main navigation strait separating Ticao Island from the Bicol Peninsula in Sorsogon Province. As a dive site reference it describes the broader channel drift dives through the pass, distinct from the Manta Bowl seamount site within it. The pass is one of the most plankton-rich waterways in the Philippines, with Pacific waters entering via the San Bernardino Strait driving persistent nutrient upwelling.
 
 ## Overview
 
@@ -27,10 +27,10 @@ Drift dives through Ticao Pass carry divers through open-water columns above dep
 
 - Whale sharks (*Rhincodon typus*) — largest Southeast Asian aggregation by documented individuals
 - Reef manta rays (*Mobula alfredi*) and oceanic manta rays
-- Thresher sharks, hammerhead sharks, whitetip reef sharks, tiger sharks
+- Thresher sharks, hammerhead sharks, whitetip reef sharks; tiger sharks also reported in Ticao Island's waters
 - Schooling skipjack tuna, barracuda, giant trevally
-- Dugongs (documented presence in the wider ISRA)
-- Sea turtles; occasionally megamouth shark (globally rare; documented in the pass)
+- Dugongs — documented in the Ticao-Burias Pass system
+- Sea turtles; the globally rare megamouth shark (*Megachasma pelagios*) has also been recorded in the Ticao-Burias Pass system
 
 ## Dive Profile
 
@@ -60,4 +60,4 @@ Advanced certification required. Current strength can exceed 3 knots. Open-water
 - **Maximum Depth**: 25 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Manila Times — Ticao-Burias Pass seascape must be a marine protected area](https://www.manilatimes.net/2022/12/22/news/regions/ticao-burias-pass-seascape-must-be-a-marine-protected-area/1871318), [Dive Worldwide — Ticao Island](https://www.diveworldwide.com/locations/ticao-island), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/). Last updated 2026-08-21.*

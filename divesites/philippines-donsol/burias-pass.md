@@ -25,10 +25,10 @@ Burias Pass drift dives pass through open channel waters with visibility ranging
 
 - Whale sharks (*Rhincodon typus*) — the Ticao-Burias system holds the largest Southeast Asian aggregation; 614 individuals photo-identified 2006–2020
 - Reef manta rays (*Mobula alfredi*)
-- Thresher sharks, hammerhead sharks, tiger sharks
+- Thresher sharks, hammerhead sharks, tiger sharks — all confirmed in Burias Pass per Wikipedia's geographic entry for the strait
 - Schooling tunas, barracuda, trevallies
-- Sea turtles, dugongs (documented within the broader ISRA)
-- Megamouth shark (rare; recorded in the pass system)
+- Sea turtles, dugongs — documented in Burias Pass
+- Megamouth shark (*Megachasma pelagios*) — the globally rare species has been recorded in Burias Pass
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Intermediate to Advanced conditions. Strong tidal currents require experience wi
 - **Maximum Depth**: 22 meters
 
 ---
-*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Shark Diving Philippines](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/). Last updated 2026-05-17.*
+*Sources: [Ticao-Burias Pass ISRA — Important Shark and Ray Areas](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Manila Times — Ticao-Burias Pass seascape must be a marine protected area](https://www.manilatimes.net/2022/12/22/news/regions/ticao-burias-pass-seascape-must-be-a-marine-protected-area/1871318), [Burias Pass — Wikipedia](https://en.wikipedia.org/wiki/Burias_Pass). Last updated 2026-08-21.*

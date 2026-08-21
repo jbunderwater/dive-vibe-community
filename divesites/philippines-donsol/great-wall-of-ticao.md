@@ -30,7 +30,7 @@ The site is part of Ticao Island's broader dive portfolio, which ranges from the
 
 ## Dive Profile
 
-Boat entry; descend along the wall face. The typical dive profile follows the wall from the shallow crest (8–12 m) down to advanced depth limits (30–35 m), then ascends along the wall while exploring overhangs and coral formations at mid-depth before a safety stop. Wall orientation and current patterns vary — local guides set the dive direction based on conditions.
+Boat entry; descend along the wall face. The typical dive profile follows the wall from the shallow crest (8–12 m) down to advanced depth limits. PhilippineDives.com describes the wall dropping "past recreational limits" with a diveable range of roughly 5–40+ meters; recreational divers on this site generally turn around at 30–35 m before ascending along the wall, exploring overhangs and coral formations at mid-depth, and taking a safety stop. Wall orientation and current patterns vary — local guides set the dive direction based on conditions.
 
 ## Entry/Exit
 
@@ -55,4 +55,4 @@ Advanced certification required. Wall dives with significant depth invite rapid 
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*
+*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [PhilippineDives.com — Ticao Dive Guide](https://philippinedives.com/dive-guide/ticao/). Last updated 2026-08-21.*

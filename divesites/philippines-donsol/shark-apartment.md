@@ -54,4 +54,4 @@ Advanced certification recommended given the Ticao Pass current environment. The
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Only 2 independent source domains could be confirmed despite extensive re-search on 2026-08-21 — a 3rd distinct, verifiable source was not found. Last updated 2026-08-21.*

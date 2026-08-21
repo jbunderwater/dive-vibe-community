@@ -19,13 +19,13 @@ Bobby's Wall is a multi-feature dive site on the northern part of San Miguel Isl
 
 The site sits in a small cove near San Miguel Island adjacent to a fishing village. Shark Diving Philippines describes the site as a blend of terrain types: sandy slope, ledges, reef wall, steep slope, rock formations, and sheer wall with caverns and overhangs. This mixed topography creates habitat diversity uncommon in a single site — macro critters inhabit the sandy slope and ledges while the wall and overhang sections hold encrusting corals, sponges, and soft corals.
 
-The UW Photography Guide notes the sandy slope and small coral heads near Bobby's Wall are exceptionally rich with macro subjects. Reported species during one visit included Colmani shrimp on fire urchins, nudibranchs, pipefish, frogfish, and coriocella. The Te Moana Expeditions guide adds that schools of anchovies and tunas pass through in the water column alongside the wall, with soft corals contrasting against the white sandy bottom — a site suitable for all skill levels.
+The UW Photography Guide notes the sandy slope and small coral heads near Bobby's Wall are exceptionally rich with macro subjects. Reported species during one visit included Colmani shrimp on fire urchins, nudibranchs, pipefish, and frogfish — a species list independently corroborated by PhilippineDives.com, which also lists stonefish. The Te Moana Expeditions guide adds that schools of anchovies and tunas pass through in the water column alongside the wall, with soft corals contrasting against the white sandy bottom — a site suitable for all skill levels.
 
 Bobby's Wall I and Bobby's Wall II are sometimes listed as separate entries by local operators, with slight variations in depth and terrain.
 
 ## Marine Life
 
-- Macro invertebrates: nudibranchs, pipefish, frogfish, Colmani shrimp (on fire urchins), coriocella
+- Macro invertebrates: nudibranchs, pipefish, frogfish, Colmani shrimp (on fire urchins)
 - Schooling anchovies and tunas in the water column alongside the wall
 - Soft corals and encrusting sponges on wall and overhang sections
 - Moray eels, scorpionfish, stonefish in crevices (reported by Shark Diving Philippines)
@@ -57,4 +57,4 @@ Excellent macro site. The contrast between white sand and dark overhang sections
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [PhilippineDives.com — Ticao Dive Guide](https://philippinedives.com/dive-guide/ticao/). Last updated 2026-08-21.*

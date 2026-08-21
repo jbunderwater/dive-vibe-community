@@ -17,17 +17,17 @@ Manta Bowl is an underwater seamount in Ticao Pass, approximately 7 km off the n
 
 ## Overview
 
-The seamount rises from depths exceeding 200 meters to a plateau at 14–23 meters. Its structure includes multiple rocky outcrops and coral formations that function as cleaning stations — predictable spots where cleaner wrasse remove parasites and dead tissue from manta rays. LAMAVE (Large Marine Vertebrates Research Institute Philippines) has photo-identified more than 240 individual reef manta rays (*Mobula alfredi*) at this site, representing approximately 70% of all reef manta ray sightings in the Philippines.
+The seamount rises from depths exceeding 200 meters to a plateau most commonly reported at 14–23 meters, though some sources describe slopes on the seamount's flanks extending to 30–35 meters. Its structure includes multiple rocky outcrops and coral formations that function as cleaning stations — predictable spots where cleaner wrasse remove parasites and dead tissue from manta rays. LAMAVE (Large Marine Vertebrates Research Institute Philippines) has photo-identified more than 240 individual reef manta rays (*Mobula alfredi*) at this site. A separate 2024 regional assessment by the Important Shark and Ray Areas (ISRA) initiative counted 284 individually identified reef mantas across the wider Ticao-Burias Pass system, representing 72% of the documented sightings database — the largest known aggregation of reef manta rays in the Philippines.
 
-The seamount is informally divided into sections known to divers as "Classroom," "Carlos," "Sweetlips," and "Manta Bowl" proper. Currents regularly exceed 3 knots, channeling dense clouds of plankton across the seamount and triggering aggregations of manta rays and other megafauna. Ghost nets are a documented conservation threat; volunteer removal programs operate at the site.
+OWUSS Australasia's research divers have documented several individually named cleaning stations spread across the seamount complex, including spots called Circus, Thandy's Rock, Tamis, Pandy's, and Patches. Currents regularly exceed 3 knots, channeling dense clouds of plankton across the seamount and triggering aggregations of manta rays and other megafauna. Ghost nets are a documented conservation threat — LAMAVE and OWUSS Australasia dive teams have both logged dives specifically to remove nets that entangle the soft-coral reef and threaten cleaner-fish habitat.
 
 The Ticao-Burias Pass was designated an Important Shark and Ray Area (ISRA) recognizing its global significance as reproductive and foraging habitat.
 
 ## Marine Life
 
-- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals; daily cleaning station visits
+- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals (LAMAVE); daily cleaning station visits
 - Oceanic manta rays
-- Whale sharks (*Rhincodon typus*) — 250+ individuals identified at this specific site
+- Whale sharks (*Rhincodon typus*) — seen here, though less predictably than mantas; the large-scale photo-ID counts for the region (614 individuals) come from monitoring across the wider Ticao-Burias Pass and Donsol Bay rather than Manta Bowl specifically
 - Thresher sharks, hammerhead sharks, whitetip reef sharks
 - Schooling tunas and trevallies
 - Cleaner wrasse at coral cleaning stations
@@ -61,4 +61,4 @@ Advanced certification required. Currents can exceed 3 knots and change directio
 - **Maximum Depth**: 23 meters
 
 ---
-*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Diveity — Manta Bowl](https://diveity.com/dive-spots/manta-bowl-ticao), [OWUSS Australasia — Manta Bowl](https://owussaustralasia.org/manta-bowl/). Last updated 2026-08-21.*
