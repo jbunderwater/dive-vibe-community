@@ -2,10 +2,10 @@
 name: Dakit-Dakit
 lat: 11.3235603
 lng: 124.1090875
-difficulty: Intermediate
-maxDepth: 12
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: 4003440589
 addedBy: osm_import
@@ -13,50 +13,38 @@ addedBy: osm_import
 
 ## Dakit-Dakit
 
-Dakit-Dakit is a very shallow pinnacle dive site off Malapascua Island, known for its excellent coral and macro life concentrated in waters no deeper than 12 meters — making it an ideal site for extended underwater photography or a relaxed end-of-day dive.
+Dakit-Dakit is a shallow boulder-and-coral reef off Malapascua Island, reaching no more than about 15 meters — an easy, relaxed site favoured for its coral cover and reliable macro life.
 
 ## Overview
 
-"Dakit" in local dialect suggests something small and close together, reflecting the nature of this compact pinnacle feature that breaks near the surface. The pinnacle creates a microhabitat where the shallowest sections receive abundant sunlight, promoting vigorous coral growth. Hard corals are the primary structure, with plate corals and branching forms dominating the well-lit upper sections. The surrounding shallow water creates excellent natural light for photography throughout the day. Given the 12-meter maximum depth, this site is suitable for all certified diver levels and offers exceptional bottom time — a full tank can easily last 60–80 minutes here with controlled breathing.
+Dakit-Dakit is a shallow reef built around scattered coral-covered boulders, with the seabed reaching roughly 8-15 meters depending on the operator's route. Evolution Diving Resort describes it as a boulder/reef site; Malapascua Thresher Shark Divers and Diverbliss both list it as a reef dive rather than a freestanding pinnacle. The shallow depth and generally gentle conditions make it accessible to all certified divers and give long bottom times.
 
 ## Site Information
 
 - **Location**: Near Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 8-20 meters
-- **Current**: Light to moderate
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Best Time**: Year-round; morning for best light
 
 ## Marine Life
 
-The shallow, sun-drenched pinnacle supports a vibrant community of smaller reef species. Clownfish in anemones are prominent. Damselfish schools dart across the coral surface. Flatworms and nudibranchs creep through the coral growth, and macro subjects are consistently found throughout the reef. Sea snakes are common in the Malapascua area and may be encountered cruising the pinnacle. Frogfish occasionally turn up on the coral structure, using camouflage to blend into sponge growth.
-
-## Dive Profile
-
-At 12 meters maximum, the entire depth range of this site can be covered in a single descending and ascending loop. Work slowly around the pinnacle, looking carefully at coral surfaces for cryptic species. The very shallow sections at 2–5 meters are worth extended time — the diversity of small life here often exceeds that of the deeper sections. This is a site where unhurried exploration pays dividends.
+Sources describe soft coral cover with nudibranchs, banded pipefish, seahorses, and cuttlefish (Malapascua Thresher Shark Divers), and butterflyfish schools with orangutan crabs (Evolution Diving Resort). Diverbliss also lists flatworms and passing schools of jacks, sardines, and tuna. No source ties thresher shark or hammerhead sightings to this site specifically — those belong to Monad Shoal and Kimud Shoal.
 
 ## Entry and Exit
 
-Short banca ride from Malapascua resorts. Entry by giant stride or back roll; the shallow water allows visual confirmation of the pinnacle location before entry. Return to the banca by ladder.
+Short banca ride from Malapascua resorts. Entry by giant stride or back roll; the shallow water allows visual confirmation of the site before entry. Return to the banca by ladder.
 
 ## Tips and Recommendations
 
-- The shallow depth makes this an excellent night dive — cryptic species emerge after dark
-- Use very slow movements to maximise observation of small, shy critters
-- Bring a macro lens and torch — this is a site for patient detail photography
-- The extended bottom time possible here makes it ideal for photographers who want time for multiple shots of the same subject
-- Consider this as a night dive option after dinner — night life at shallow reefs around Malapascua is exceptional
+- The shallow depth makes this a good option for a second or third dive of the day, or a night dive
+- Move slowly and check coral surfaces closely for the site's macro life
+- Bring a macro lens for nudibranchs and pipefish
 
 ## Safety Considerations
 
-The shallow depth minimises decompression risk. Standard boat diving precautions apply. Be aware of boat traffic near the surface — deploy SMB before ascending even at this shallow depth.
-
-## Photography
-
-The ideal macro photography site in the Malapascua area. Extended bottom time at 12 meters allows thorough searching for nudibranchs, flatworms, frogfish, and other cryptic subjects. The excellent natural light eliminates the need for flash in most conditions. Night diving here transforms the site with different behaviour and species.
+The shallow depth minimises decompression risk. Standard boat diving precautions apply. Deploy an SMB before ascending.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Evolution Diving Resort - Malapascua Dive Sites](https://evolution.com.ph/fun-diving/malapascua-dive-sites/), [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua-dive-sites/), [Diverbliss - Malapascua Diving Guide](https://www.diverbliss.com/malapascua-diving/). Last updated 2026-08-22.*

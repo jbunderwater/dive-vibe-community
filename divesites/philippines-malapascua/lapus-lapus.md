@@ -5,7 +5,7 @@ lng: 124.1024056
 difficulty: Beginner
 maxDepth: 18
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: 4941394888
 addedBy: osm_import
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Lapus-Lapus
 
-Lapus-Lapus is a pinnacle dive site in Philippines Malapascua, Asia.
+Lapus-Lapus is a sloping coral reef off northwest Malapascua, frequently cited as one of the island's best sites for coral cover and macro life.
 
 ## Overview
 
-Lapus-Lapus is a submerged pinnacle rising from the sandy channel between Malapascua and Gato Island, its peak reaching to about 8 meters below the surface. The top of the pinnacle is blanketed with hard corals and acts as a congregation point for schooling fish — fusiliers, jacks, and barracuda orbit the structure while blue-spotted ribbontail rays rest in the sand skirt around the base at 18 meters. Current can be brisk across the exposed pinnacle, which keeps the corals in excellent condition and encourages pelagic visitors to hang in the blue.
+Three independent operator sources consistently describe Lapus-Lapus as a reef, not a freestanding pinnacle — a sloping structure running roughly 10 to 22 meters, most commonly cited at 18 meters. It's rated Easy to Intermediate, a short (about 15-minute) boat trip from Malapascua's resorts.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Northwest of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 
 ## Marine Life
 
-Lapus-Lapus pinnacle acts as a congregation point, with schooling fusiliers, big-eye jacks, and barracuda orbiting the structure and blue-spotted ribbontail rays resting on the surrounding sand at 18 meters. Hawksbill turtles are commonly seen grazing on the hard coral-covered summit, and the current-polished surfaces harbour small nudibranchs and flatworms for macro-minded divers. When current is running across the exposed pinnacle, grey reef sharks occasionally appear in the blue at the edge of visibility.
+Evolution Diving Resort and Malapascua Thresher Shark Divers both report giant and painted frogfish, mantis shrimp, and nudibranchs, with sweetlips, cuttlefish, and lionfish also noted by Malapascua Thresher Shark Divers. An earlier version of this page attributed grey reef shark sightings to Lapus-Lapus; no source supports that and the claim has been removed.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Evolution Diving Resort - Malapascua Dive Sites](https://evolution.com.ph/fun-diving/malapascua-dive-sites/), [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua-dive-sites/), [Ocean Vibration - Ultimate Guide to Scuba Diving in Malapascua](https://oceanvibration.com/the-ultimate-guide-to-scuba-diving-in-malapascua/). Last updated 2026-08-22.*

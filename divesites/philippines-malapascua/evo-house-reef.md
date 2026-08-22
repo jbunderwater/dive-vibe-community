@@ -4,8 +4,8 @@ lat: 11.3311789
 lng: 124.126316
 difficulty: Beginner
 maxDepth: 13
-entryType: boat
-siteType: reef
+entryType: both
+siteType: muck
 ref: null
 osmId: 4557974267
 addedBy: osm_import
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Evo House Reef
 
-Evo House Reef is a reef dive site in Philippines Malapascua, Asia.
+Evo House Reef is Evolution Diving Resort's own house reef on Malapascua's southern coast, shore-accessible and consistently rated among the Philippines' best muck/macro dives.
 
 ## Overview
 
-Evo House Reef is the shallow fringing reef directly in front of Evolution Resort on Malapascua's southern coast, making it a convenient shore dive or easy boat hop for guests. The sandy rubble bottom at 5–13 meters is prime muck-hunting territory, with frogfish, ghost pipefish, and the occasional blue-ringed octopus tucked among the debris. It's a reliable night dive destination where mandarin fish emerge at dusk in the coral rubble patches to perform their brief mating display.
+Just a few minutes' swim from Evolution's beach front, the reef sits in shallow water (5-13 meters) over a small area of coral and rubble that has been intensively documented by the resort's own dive team. It took significant damage in Typhoon Haiyan/Yolanda but has since regenerated. Night dives here are a house specialty.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Location**: In front of Evolution Diving Resort, Malapascua Island
+- **Entry Type**: Shore or boat entry
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters
 
 ## Marine Life
 
-Evo House Reef's prime attraction is the mandarin fish mating display that takes place at dusk in the coral rubble patches, drawing guests out for a night dive specifically to witness this event. During daytime dives, the sandy rubble bottom yields frogfish sitting motionless among debris, ghost pipefish drifting near crinoids, and blue-ringed octopus tucked into crevices. Cuttlefish and squid come into the shallows after dark, adding to the nocturnal interest of this beginner-friendly site.
+Evolution Diving Resort (the site's own operator) reports crinoid squat lobsters and imperial shrimp seen repeatedly, dozens of bobtail squid appearing at dusk, seahorses found on "every dive," plus snake eels, stargazers, robust ghost pipefish, and multiple mantis shrimp species. At sunset, mandarin fish emerge from the coral for their mating display. Diverbliss and Scubadiving.place independently corroborate the site's muck/macro character with similar critter reports (frogfish, seahorses, nudibranchs, shrimp).
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Evolution Diving Resort - Who's in Da House (Reef)?](https://evolution.com.ph/whos-in-da-house-reef/), [Diverbliss - Malapascua Diving Guide](https://www.diverbliss.com/malapascua-diving/), [Scubadiving.place - Evolution House Reef](https://scubadiving.place/divesite/evolution-artificial-reef-house). Last updated 2026-08-22.*
