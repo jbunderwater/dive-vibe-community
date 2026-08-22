@@ -3,9 +3,9 @@ name: Ka-Osting / Bantigue
 lat: 11.3456001
 lng: 124.1193512
 difficulty: Beginner
-maxDepth: 22
+maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 4557974264
 addedBy: osm_import
@@ -13,23 +13,24 @@ addedBy: osm_import
 
 ## Ka-Osting / Bantigue
 
-Ka-Osting / Bantigue is a reef dive site in Philippines Malapascua, Asia.
+Ka-Osting and Bantigue (also called East Garden) are adjacent muck-diving sites off Malapascua, prized by macro photographers for critter density that some divers compare to Lembeh.
 
 ## Overview
 
-Ka-Osting / Bantigue is a coral reef slope running along the western side of Malapascua, named after a local fisherman and the small barangay nearby. The reef descends gradually from the shallows to about 22 meters and is lined with hard coral formations interspersed with cleaning stations where sweetlips and surgeonfish queue up for attendant wrasses. Sea turtles frequently rest on the coral heads here, and the site's relatively sheltered position makes it a dependable dive when northeast winds stir up conditions elsewhere.
+Bantigue starts as a shallow reef that turns to sand at around 12 meters, reaching about 18 meters at its deepest. Ka-Osting, immediately adjacent, is a shallower (to ~12m), barely-current muck site named after a local fisherman. Both are shallow, sheltered sites well suited to slow, patient diving focused on the sandy/rubble bottom rather than coral structure.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Near Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 18 meters
+- **Current**: Generally light
 
 ## Marine Life
 
-Ka-Osting / Bantigue is a relaxed reef dive characterised by active cleaning stations where sweetlips and surgeonfish queue for attendant wrasses, providing close-up behavioural encounters at mid-depth. Sea turtles frequently rest on the coral heads here, and the sheltered position keeps the fish community relatively undisturbed and approachable. Reef fish diversity is high throughout the slope, with schools of snapper, groups of parrotfish, and nudibranchs scattered across the rubble sections.
+Malapascua Thresher Shark Divers describes Bantigue's sandy bottom as home to fire urchins, zebra crabs, dwarf lionfish, cuttlefish, seamoths, crabs, snake eels, frogfish, nudibranchs, and snowflake moray eels, with goby-and-shrimp pairs sharing burrows throughout. Ka-Osting is separately noted for hairy frogfish and, per Evolution Diving Resort, decorator crabs and bobtail squid, with divers there also on the lookout for blue-ringed octopus.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua-dive-sites/), [Evolution Diving Resort - Malapascua Dive Sites](https://evolution.com.ph/fun-diving/malapascua-dive-sites/), [Kokay's Malapascua Diving - East Garden/Ka Osting](https://kokaysmalditodiveresort.com/diving-malapascua-cebu-philippines/thresher-shark-diving/east-garden-ka-osting/). Last updated 2026-08-22.*

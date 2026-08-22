@@ -17,7 +17,7 @@ The protected core of Balicasag Island's marine reserve, established in 1985. Kn
 
 ## Overview
 
-The Marine Sanctuary occupies the most heavily protected zone of Balicasag Island's Marine Protected Area (MPA), established in 1985. The site features a wall with caverns and overhangs that begins just 3 meters below the surface and drops to approximately 35 meters.
+The Marine Sanctuary occupies the most heavily protected zone of Balicasag Island's Marine Protected Area (MPA), established in 1985. The site features a wall with caverns and overhangs that begins just 3 meters below the surface. Sources report differing maximum depths — SM Divers currently lists 5-25 meters, while Alona Divers Club lists 3-35 meters; Dive Scotty describes a plateau at 6-18 meters with unspecified deeper sections. The wall's caverns and overhangs likely account for the deeper figure, so plan around a 35-meter working maximum but don't expect to need it.
 
 The site is known for its resident populations of green and hawksbill sea turtles, which are regularly seen throughout the dive. Schools of jackfish (big-eyed trevally) and barracuda patrol the deeper sections. The shallow coral gardens beginning at 3 meters make this the most beginner-accessible site on Balicasag, with calm conditions in the protected zone. Surgeonfish, lionfish, triggerfish, and butterflyfish are commonly observed reef residents.
 
@@ -57,4 +57,4 @@ Access by dive boat from Panglao Island (Alona Beach area), approximately 30 min
 The protected sanctuary zone generally has calmer conditions than exposed Balicasag sites. The wall drops to 35 meters — beginners should stay in the shallows and watch depth closely near the wall edge. The 150-diver daily limit requires advance booking.
 
 ---
-*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers Club - Balicasag](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Dive Scotty - Balicasag Marine Sanctuary](https://www.divescotty.com/scuba-diving/balicasag-island-marine-sanctuary.php). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers Club - Balicasag](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Dive Scotty - Balicasag Marine Sanctuary](https://www.divescotty.com/scuba-diving/balicasag-island-marine-sanctuary.php). Last updated 2026-08-22.*

@@ -19,7 +19,7 @@ Shark Apartment is a reef dive in Ticao Pass known for reliably resting whitetip
 
 The site's name derives from its defining feature: whitetip reef sharks (*Triaenodon obesus*) that rest motionless among and beneath large boulders scattered across a sandy bottom at 18 meters. The Manta Bowl operator Shark Diving Philippines describes the site as sheltering adult-sized whitetip reef sharks around boulder and rock formations that rise from a sandy terrain, with groupers and reef fish like angelfish and bannerfish inhabiting the same structure.
 
-Shark Apartment sits in the productive waters of Ticao Pass and benefits from the same nutrient-rich current system that supports the larger pelagic sites nearby. The boulder reef structure creates sheltered microhabitats that attract both resting predators and their associated reef fish communities.
+Shark Apartment sits in the productive waters of Ticao Pass and benefits from the same nutrient-rich current system that supports the larger pelagic sites nearby. The boulder reef structure creates sheltered microhabitats that attract both resting predators and their associated reef fish communities. Sightings are not guaranteed on every dive — a 2011 diver trip report (divers.ph) recounts arriving at the site hoping for sharks and finding none present that day, seeing schooling mating jacks instead.
 
 ## Marine Life
 
@@ -54,4 +54,4 @@ Advanced certification recommended given the Ticao Pass current environment. The
 - **Maximum Depth**: 18 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol), [Divers.ph — Dive Ticao trip report](https://divers.ph/2011/04/01/dive-ticao/). Re-audited 2026-08-22 (added sighting-variability note; all other claims re-verified). Last updated 2026-08-22.*

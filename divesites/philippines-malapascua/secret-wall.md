@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Secret Wall
 
-Secret Wall is a wall dive site in Philippines Malapascua, Asia.
+Secret Wall is a wall dive site listed for Malapascua Island at roughly 12-30 meters depth.
 
 ## Overview
 
-Secret Wall is a steep vertical wall on the less-frequented western side of Malapascua, dropping from the shallows down past 30 meters into open water. The wall face is draped with sea fans and soft corals, and its remoteness means it sees less traffic than Gato Island, giving it an uncrowded, raw feel. Strong currents can sweep across the wall and push pelagics close to the edge, making careful drift technique and a late-dive safety stop in the blue essential.
+An extensive search of dive-shop listings, forums, and dive databases could not turn up a page specifically documenting a Malapascua site named "Secret Wall." Several operators describe similarly-profiled walls on the island's exposed sides (a reef sloping to a mini-wall around 12-20m, deepening further beyond), but none could be confidently matched to this name or these exact coordinates. The description below has been trimmed to what the existing OSM data supports rather than the earlier, unsourced narrative.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Near Malapascua Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +29,7 @@ Secret Wall is a steep vertical wall on the less-frequented western side of Mala
 
 ## Marine Life
 
-Secret Wall's less-trafficked face is draped in sea fans and soft corals that shelter pygmy seahorses, crinoid-clinging shrimp, and nudibranchs for macro hunters working the wall. Strong currents push grey reef sharks, barracuda, and trevally close to the wall edge, creating pelagic encounters alongside the invertebrate-rich structure. Hawksbill turtles are occasionally seen resting in the sea fan garden during quieter current conditions.
+No site-specific marine-life source was found for this location. Malapascua's regional reef and wall fauna (soft corals, sea fans, reef fish, occasional pelagics) likely applies, but no operator or forum report could be confirmed for this specific site, so no species list is given here. Previously listed claims (pygmy seahorses, grey reef sharks, hawksbill turtles) have been removed as unverified.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found despite an extensive search. Last updated 2026-08-22.*

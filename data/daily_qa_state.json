@@ -2,14 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "panama",
-    "papua-new-guinea",
-    "philippines",
-    "philippines-anilao",
-    "philippines-bohol",
-    "philippines-donsol",
-    "philippines-malapascua",
-    "philippines-palawan",
     "philippines-puerto-galera",
     "philippines-tubbataha-reefs",
     "poor-knights-islands",
@@ -174,9 +166,112 @@
     "nova-scotia",
     "okinawa",
     "oman",
-    "palau"
+    "palau",
+    "panama",
+    "papua-new-guinea",
+    "philippines",
+    "philippines-anilao",
+    "philippines-bohol",
+    "philippines-donsol",
+    "philippines-malapascua",
+    "philippines-palawan"
   ],
   "history": [
+    {
+      "date": "2026-08-22",
+      "slugs": [
+        "panama",
+        "papua-new-guinea",
+        "philippines",
+        "philippines-anilao",
+        "philippines-bohol",
+        "philippines-donsol",
+        "philippines-malapascua",
+        "philippines-palawan"
+      ],
+      "notes": "panama and philippines are isGroup=true parent slugs with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; philippines-malapascua and philippines-palawan were pulled forward from later in the queue to keep the day's real-destination count at 6. philippines-donsol's pass corrected a real-world safety-relevant error (the whale-shark interaction distance) and re-scoped a manta-ray statistic that had been misattributed from the whole Ticao-Burias Pass system down to a single site. philippines-malapascua's pass caught thresher/hammerhead shark claims that had spread from Monad and Kimud Shoal onto three unrelated sites, and corrected Monad Shoal's headline depth figure. philippines-palawan's pass uncovered a destination-wide citation problem: every site shared one identical footer citing Coron-wreck-specific articles as sources for unrelated reefs elsewhere in the province.",
+      "summary": {
+        "sites_total": 104,
+        "sites_validated_today": 23,
+        "sites_re_audited": 100,
+        "hallucinations_removed": 24,
+        "marine_life_stripped": 18,
+        "wreck_conflicts_flagged": 8,
+        "sites_unresolved": 21,
+        "by_destination": {
+          "panama": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs"
+          },
+          "papua-new-guinea": {
+            "sites_total": 38,
+            "sites_validated_today": 0,
+            "sites_re_audited": 38,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 8,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 8,
+            "notes": "Corrected MV Pacific Gas's depth breakdown and fabricated-by-omission wreck history (real: ex-MS Nanayo Maru, built Hiroshima 1967, deliberately sunk June 1986 by Ian Short's explosive charges). Kimbe Bay reef cluster (Susan's Reef, Fathers Reefs, Christine's Reef, Inglis Shoal, Ema Reef) had padded species lists from a prior pass that traced to no site-specific source -- stripped. Zero Fighter Rabaul depth conflict (18m vs 27-33m) and Henry Leith's single-sourced 1887 build history flagged rather than presented as fact. The Bottleneck Milne Bay and Barracuda Point Rabaul remain unvalidated; 6 more sites retained validated=true from a prior pass but only partially re-confirmed this session (search/fetch limits) and were flagged per-site."
+          },
+          "philippines": {
+            "sites_total": 0,
+            "notes": "isGroup=true parent slug with no own data files (no osm_clean or divesites directory) -- skipped, consistent with prior-cycle precedent for group slugs; its children (philippines-anilao, philippines-bohol, philippines-donsol, philippines-malapascua, philippines-palawan) were covered directly today, remaining children stay in queue for their own days"
+          },
+          "philippines-anilao": {
+            "sites_total": 24,
+            "sites_validated_today": 0,
+            "sites_re_audited": 23,
+            "hallucinations_removed": 2,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 3,
+            "sites_unresolved": 1,
+            "notes": "Dari Laut wreck history cross-checked across 5 sources; sinking decade, cause, and depth documented as open conflicts (no vessel name/build date/tonnage exists in any source). Removed a fabricated 'first Philippine scuba dive in the 1950s' claim (real sources confirm 1966, at Anilao). Fixed leftover generator-boilerplate one-liners on Kirby's Rock and Sepok Wall. Rockport Dive Site remains unresolved (no independent source found)."
+          },
+          "philippines-bohol": {
+            "sites_total": 8,
+            "sites_validated_today": 0,
+            "sites_re_audited": 7,
+            "hallucinations_removed": 0,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 1,
+            "notes": "No wreck sites in this destination. No fabrications found (prior pass was already clean), but 4 sites gained explicit conflict-flags instead of silently-picked figures (Marine Sanctuary depth range, Pamilacan Island's single-operator manta/whale-shark claim softened, Doljo Point difficulty rating, Arco Point entrance/exit depth and current strength). The Arc remains unresolved -- likely a duplicate/overlap with Arco Point or a dead-linked 'BBC Dive Site'."
+          },
+          "philippines-donsol": {
+            "sites_total": 10,
+            "sites_validated_today": 8,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 3,
+            "marine_life_stripped": 0,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 2,
+            "notes": "No wreck sites in this destination. Corrected the whale-shark interaction distance (had been '3m from the tail' only, corrected to the official '3m from the head, 4m from the tail' code). Re-scoped Manta Bowl's '70% of Philippine manta sightings' claim from site-specific to system-wide (Ticao-Burias Pass), and downgraded its uncorroborated '250+ whale sharks' count to an attributed, qualified claim. Dropped 2 dead/hijacked source domains. Burias Pass and Tres Grace remain below the 3-source bar -- documented as geographic/conservation features, not sold as distinct dive sites by any operator found."
+          },
+          "philippines-malapascua": {
+            "sites_total": 16,
+            "sites_validated_today": 10,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 9,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 6,
+            "notes": "Thresher/hammerhead shark claims that had bled from Monad/Kimud Shoal onto Deep Slope, Lighthouse, and North Point were stripped. Monad Shoal's depth corrected 50m->30m (had conflated the shark-viewing plateau with the surrounding drop-off); a genuine emerging trend was surfaced -- 2025 ScubaBoard reports indicate thresher activity partly shifting to nearby Kimud Shoal. Japanese Ship Wreck's identity checked against 3 candidate vessels (Lighthouse Wreck, Tapilon Wreck, Pioneer/Mogami Maru); none cleanly matches this entry's depth/location, so vessel identity was left unpublished rather than guessed. 4 sites downgraded to unvalidated for falling short of independent sources; Marine Protected Area and Japanese Ship Wreck remain unresolved from a prior pass."
+          },
+          "philippines-palawan": {
+            "sites_total": 8,
+            "sites_validated_today": 5,
+            "sites_re_audited": 8,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 3,
+            "notes": "Cave's entire marine-life paragraph had no source at all and was removed; Banayan Point and Bikanayos Rock claims traced to dead/unrelated sources and were stripped. Corrected placeholder depths on Twin Reef (20m->~8m) and Fantastic Reef (25m->~10m), and flagged 2025 coral-bleaching damage on Fantastic Reef instead of the old 'pristine coral' framing. Akitsushima wreck length (114.8m vs 118m) and sinking cause (bomb hits per naval action record vs torpedo strike per dive-industry sources) documented as disputed rather than picked. Fixed a destination-wide misattribution where every site had shared one copy-pasted footer citing Coron-wreck articles as sources for unrelated Port Barton/El Nido/Tubbataha sites."
+          }
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/159",
+      "errors": []
+    },
     {
       "date": "2026-08-16",
       "slugs": [

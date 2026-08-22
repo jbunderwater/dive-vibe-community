@@ -17,7 +17,7 @@ Planet Rock is Madang's signature dive — a submerged offshore pinnacle that ri
 
 ## Overview
 
-Planet Rock sits in open water several kilometres from Madang Harbour, an isolated seamount summit that serves as a gathering point for the entire surrounding ocean community. The pinnacle crests at approximately 3 meters below the surface and the flanks slope steeply into the blue. On any given dive, the site lives up to its reputation as one of PNG's most reliably spectacular: dense schools of chevron barracuda orbit the summit, bigeye trevally pack into tight balls in the water column, and grey reef sharks patrol the reef edge with quiet authority. Sweetlips aggregate under overhangs in their hundreds — one of the largest congregations of sweetlips regularly documented in PNG waters. Dog-tooth tuna power through the bait schools, and Napoleon wrasse of impressive size hold territory on the reef face. The shallowness of the summit, combined with the exceptionally clear open-ocean water Madang is known for, means visibility regularly exceeds 25 meters with brilliant natural illumination right to the pinnacle base. Planet Rock consistently ranks as one of the best dives in all of Papua New Guinea.
+Planet Rock is a volcanic seamount roughly 3 km offshore from Madang, where the seabed plunges to over 600 meters but strong currents through Astrolabe Bay sweep across the summit at only about 4 meters. According to Niugini Dive Adventures, the resort that runs day trips there, virtually all of the larger shark species found in PNG waters have been seen and photographed in the currents around Planet Rock, making it one of the region's best-regarded sites for pelagic and shark encounters. Beyond that documented shark reputation, a full site-specific fish inventory was not found -- treat sweetlips aggregations, tuna, and Napoleon wrasse as plausible (this is the kind of seamount where they would be expected) but unconfirmed for this exact site.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Planet Rock sits in open water several kilometres from Madang Harbour, an isolat
 
 ## Marine Life
 
-Chevron barracuda schools, bigeye trevally, sweetlips (in large aggregations under overhangs), grey reef sharks, whitetip reef sharks, dog-tooth tuna, Napoleon wrasse, rainbow runners. The pinnacle face supports healthy hard and soft corals with dense anthias populations. Sea turtles frequently rest on the pinnacle top. Occasional hammerhead and oceanic whitetip sharks in stronger current conditions.
+The confirmed, source-backed claim to fame is sharks: Niugini Dive Adventures states that virtually all of the larger shark species inhabiting PNG waters have been seen and photographed at Planet Rock, drawn in by the strong currents sweeping the summit. Beyond sharks, no detailed site-specific inventory was found -- other large pelagics (tuna, trevally) and reef fish are plausible on a seamount like this but have not been independently confirmed for this site. Ask your operator for current, site-specific reports.
 
 ## Dive Profile
 
-Descend directly to the pinnacle summit at 3-5 meters and spend time in the thick of the fish aggregations before dropping along the flanks. The sweetlips aggregations are typically found on the sheltered (current-shadow) side of the pinnacle between 8 and 15 meters. Grey reef sharks tend to work the current-facing flank. With a 15-meter maximum depth on the summit plateau, bottom time is generous — 60-70 minute dives are standard. Stronger-current visits concentrate more pelagics but require active management of position.
+Descend toward the pinnacle summit, which sweeps at around 4 meters when the current is running, and watch the water column for sharks and other pelagics before dropping along the flanks. With a shallow summit plateau, bottom time is generous, though stronger-current visits (which tend to concentrate the pelagic activity the site is known for) require active management of position and buoyancy.
 
 ## Entry and Exit
 
@@ -44,9 +44,9 @@ Access by day boat from Madang Resort or Madang town operators. The site is in o
 
 ## Tips and Recommendations
 
-- Time the dive to arrive at the site on a building incoming current — the aggregations are at their peak when nutrients are flowing over the pinnacle
-- Approach the sweetlips aggregation slowly from below — sudden movements disperse the school
-- Wide-angle photography is the priority here; bring a dome port and fast shutter speed for tracking moving fish
+- Time the dive around an incoming current — shark and pelagic activity is reported to build with the current flow
+- Approach any schooling fish slowly from below — sudden movements disperse them
+- Wide-angle photography is the priority here; bring a dome port and fast shutter speed for tracking moving fish and sharks
 - The summit is shallow enough for safe free-diving exploration on surface intervals if sea conditions permit
 - Combine Planet Rock with an afternoon wreck dive (MV Pacific Gas or Henry Leith) for a full day
 
@@ -56,7 +56,7 @@ Open-water currents are the primary concern. The site is exposed and conditions 
 
 ## Photography
 
-Planet Rock is one of Papua New Guinea's best wide-angle subjects. The combination of clear water, abundant natural light, and dense schooling fish makes for exceptional photography. Barracuda and trevally tornadoes framed with a diver silhouette are the classic images. The sweetlips aggregations under overhangs reward a patient approach with extremely saturated colour shots. A fast wide-angle lens (f/4 or wider) handles the fast-moving school subjects well.
+Planet Rock's confirmed strength is shark photography given the diversity documented at this site. The combination of clear water and abundant natural light on the shallow summit supports wide-angle work generally. A fast wide-angle lens (f/4 or wider) handles fast-moving shark and pelagic subjects well.
 
 ---
-*Sources: [Niugini Dive Adventures – Planet Rock](https://www.niuginidiveadventures.com/dive-sites/), [DivePlanit – Planet Rock Madang](https://www.diveplanit.com/), [PADI Dive Site – Planet Rock](https://www.padi.com/), [underwaterasia.info – Madang](https://www.underwaterasia.info/), [bestofpng.com](https://www.bestofpng.com/). Last updated 2026-06-25.*
+*Sources: [Niugini Dive Adventures – Planet Rock](https://www.niuginidiveadventures.com/planet-rock), [Niugini Dive Adventures – Dive Sites](https://www.niuginidiveadventures.com/dive-sites), [underwaterasia.info – Madang Diving](https://underwaterasia.info/papua-new-guinea/madang-diving). Shark diversity at this site is directly source-confirmed; other species mentioned are regional context, not confirmed sightings. Last updated 2026-08-22.*

@@ -17,7 +17,7 @@ Ema Reef is an isolated coral bommie in Kimbe Bay, West New Britain, Papua New G
 
 ## Overview
 
-Ema Reef is an isolated coral bommie in the middle of Kimbe Bay — a large coral outcrop that rises steeply from the deep basin floor to just below the surface. The crest sits at approximately 12-15 meters, with the surrounding bommie walls dropping away into significantly deeper water. The site includes a notable swim-through cave at around 28-30 meters depth, accessible to divers with appropriate training and buoyancy control. Like all of Kimbe Bay's reef structures, it benefits from the bay's exceptional water quality and extraordinary biodiversity. The reef face features a mix of hard coral formations in healthy condition, and schools of anthias are omnipresent on the upper slopes. Sweetlips gather under coral overhangs, and resident Napoleon wrasse patrol the reef edge. On incoming currents, fusilier schools form large aggregations mid-water above the bommie, attracting grey reef sharks and the occasional dog-tooth tuna. Hawksbill turtles are frequently seen grazing on sponges on the deeper reef slope. Ema Reef is a dependable, unhurried dive that rewards attentive observation and careful depth management.
+Ema Reef is possibly the same site, or a near neighbor, to the pinnacles Kimbe Bay operators refer to as "North Emma" and "South Emma" -- prominent coral outcrops known regionally for hard coral cover and, at North Emma specifically, shark sightings including hammerheads. The name mapping between "Ema Reef" and "Emma" could not be confirmed with certainty from available sources, so this description does not assume they are identical. This dataset lists a 15-meter maximum depth for Ema Reef with a swim-through cave around 28-30 meters. Kimbe Bay's reef structures generally benefit from the bay's exceptional water quality and biodiversity (roughly 900 fish species and 76% of the world's coral species recorded in the bay), and that context likely applies here, but a site-specific fish and coral inventory for "Ema Reef" under that exact name was not found.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Ema Reef is an isolated coral bommie in the middle of Kimbe Bay — a large cora
 
 ## Marine Life
 
-Napoleon wrasse, grey reef sharks, hawksbill sea turtles, sweetlips, fusiliers, anthias, butterflyfish, angelfish, parrotfish, surgeonfish. Dog-tooth tuna visit on stronger tidal currents. Macro life includes nudibranchs, flatworms, and ornate ghost pipefish in crinoids on the deeper slope. Cleaning stations are active throughout the reef with cleaner wrasse and cleaner shrimps.
+No confirmed, site-specific marine life inventory for "Ema Reef" was found. If this site corresponds to the "Emma" pinnacles named by Kimbe Bay operators, hammerhead and other shark sightings have been reported there (specifically at North Emma) -- but that identification is not certain, so this should be treated as regional context rather than a confirmed sighting record for this exact site. Ask your dive guide for current, site-specific reports.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Ema Reef is a straightforward intermediate site with light to moderate currents 
 
 ## Photography
 
-Ema Reef works well for a variety of underwater photography styles. Wide-angle shots of the healthy table coral formations with schooling fish above, and the reef slope receding into blue, are the characteristic compositions. For macro, the deeper slope ghost pipefish are the standout subjects — bring a 100mm lens and a good torch. Turtle portraits require a slow, non-threatening approach from the side; most hawksbills will continue grazing if you approach calmly and maintain distance.
+No site-specific photography notes for Ema Reef were found. General Kimbe Bay bommie/pinnacle photography advice (wide-angle for the coral structure and any schooling fish, macro for the swim-through cave and crevices) likely applies, but treat any particular subject as opportunistic.
 
 ---
-*Sources: [Diversion Dive Travel – Kimbe Bay](https://www.diversiondivetravel.com.au/destinations/papua-new-guinea/kimbe-bay/), [underwaterasia.info – Kimbe Bay](https://www.underwaterasia.info/), [Indopacific Images – Kimbe Bay](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [ScubaBoard – Kimbe Bay Reports](https://www.scubaboard.com/). Last updated 2026-06-25.*
+*Sources: [underwaterasia.info – Kimbe Bay Diving](https://underwaterasia.info/papua-new-guinea/kimbe-bay-diving). Site-specific marine life inventory for Ema Reef was not found and its relationship to the "Emma" pinnacles named by other operators could not be confirmed; the description above notes this explicitly. Last updated 2026-08-22.*

@@ -17,7 +17,7 @@ The premier dive site outside Port Moresby's barrier reef at Bootless Bay -- a m
 
 ## Overview
 
-Suzies Bommie is widely regarded as the best dive site in the Port Moresby area. Located outside the barrier reef at Bootless Bay, west of Padana Nahua Passage, this massive coral bommie has a base approximately 40 by 40 meters, a top roughly 20 by 20 meters, and rises from depths exceeding 30 meters to just 6 meters below the surface. The bommie acts as a magnet for marine life of exceptional quality and diversity. Giant moray eels, barramundi cod, huge estuary cods, humpheaded (Napoleon) wrasse, and dense schools of sweetlips, surgeonfish, jacks, trevally, and bannerfish make this one of the most fish-rich sites in Papua New Guinea. Red firefish add flashes of colour to the deeper sections. Visibility is typically around 20 meters.
+Suzies Bommie is widely regarded as one of the best dive sites in the Port Moresby area. It is a seamount rising from the sandy seabed at around 30 meters to within about 13 meters of the surface, on the Sunken Barrier Reef roughly 3.5 km offshore -- about 15 km from Port Moresby and a 30-minute boat ride from Loloata Resort. Its signature, dive-shop-confirmed resident is the endemic lacy scorpionfish (Rhinopias aphanes), sometimes with two or three individuals of different colors present at once. Beyond the lacy scorpionfish, the bommie is described generally as a colourful coral dive with plenty of marine life; large reef fish such as morays, groupers, and schooling species are commonly reported at PNG bommies of this type, but a detailed site-specific inventory was not found. Visibility is typically around 20 meters.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Suzies Bommie is widely regarded as the best dive site in the Port Moresby area.
 
 ## Marine Life
 
-The marine life at Suzies Bommie is outstanding. Giant moray eels peer from crevices in the bommie walls. Barramundi cod (humpback grouper) are resident, along with huge estuary cods that can exceed a meter in length. Humpheaded wrasse (Napoleon wrasse) cruise around the bommie. Schools of sweetlips congregate under overhangs and ledges. Surgeonfish, jacks, and trevally form dense schools in the water column. Bannerfish add visual drama with their elongated fins. Red firefish (lionfish relatives) inhabit the deeper crevices around the bommie base.
+The confirmed highlight is the endemic lacy scorpionfish (Rhinopias aphanes) -- Loloata operators describe this as one of the best places to reliably find it, occasionally with two or three individuals of different colour morphs present. Beyond that, sources describe the site generally as a "colourful coral dive with plenty of marine life" without naming further species specific to this bommie. Treat schooling reef fish, morays, and groupers as plausible but unconfirmed for this exact site.
 
 ## Dive Profile
 
-Descend to the bommie, which is easy to locate given its size. Begin at the base around 30 meters if depth-certified, circling to observe the giant cods, morays, and red firefish in the deeper crevices. Ascend gradually, spiralling around the bommie as you gain altitude. The mid-section (15-25 meters) is where the densest schools of sweetlips, surgeonfish, and jacks congregate. The top of the bommie at 6 meters provides an extended safety stop surrounded by bannerfish and humpheaded wrasse. The 40x40 meter base means there is substantial area to explore even on repeated dives.
+Descend to the bommie, which rises from around 30 meters to within about 13 meters of the surface. Begin at depth if certified, working the walls and crevices where the lacy scorpionfish are typically found -- ask your guide, as resident individuals are often known to local operators. Ascend gradually, spiralling around the bommie as you gain altitude and taking in the coral coverage and any schooling fish present. The shallower section provides a comfortable safety stop.
 
 ## Entry and Exit
 
@@ -44,15 +44,14 @@ Access is by dive boat from Port Moresby or Bootless Bay-based operators, with a
 
 ## Tips and Recommendations
 
-- Dedicate your best camera setup to this dive -- the diversity and density of marine life are exceptional
+- Bring a macro setup for the lacy scorpionfish -- this is the site's best-documented specialty
 - Start deep and spiral upward to make the most of the depth range
-- Look for the giant moray eels in crevices at the bommie base
-- The humpheaded wrasse are often curious and may approach divers
-- The bommie top at 6 meters is an outstanding safety stop -- enjoy the bannerfish and schools surrounding you
+- Ask your guide where resident lacy scorpionfish have most recently been seen -- local operators track individual fish
+- The shallower section of the bommie makes for a comfortable, well-lit safety stop
 
 ## Safety Considerations
 
-The bommie base exceeds 30 meters, so manage your depth and bottom time carefully if you descend to the base. Current is generally manageable but can increase. The open-water location means surface conditions may be rougher than inside the barrier reef. Carry an SMB for your safety stop.
+The bommie base reaches around 30 meters, so manage your depth and bottom time carefully if you descend to the base. Current is generally manageable but can increase. The open-water location means surface conditions may be rougher than inside the barrier reef. Carry an SMB for your safety stop.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=364), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [ProDive PNG](https://www.prodivepng.com/). Last updated 2026-06-25.*
+*Sources: [PADI – Suzie's Bommie Dive Site](https://www.padi.com/dive-site/papua-new-guinea/suzies-bommie/), [ProDive PNG](https://www.prodivepng.com/), [Indopacific Images – Port Moresby](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/complete-guide-to-port-moresby/papua-new-guinea-port-moresby-dive-sites-suzies-bommie/). Last updated 2026-08-22.*

@@ -37,7 +37,7 @@ Strong and variable currents are the defining hazard at Black Forest. SM Divers,
 
 ## Marine Life
 
-Schools of jackfish (big-eyed trevally) and blackfin barracuda are the headline species, regularly encountered along the upper slope between 15-30 meters. Anthias cloud the reef face. Wrasses, snappers, triggerfish, surgeonfish, and parrotfish are common residents. Sea turtles are encountered throughout Balicasag and are seen at this site. Scorpionfish and groupers shelter in the coral structure. The black coral forest at 35-45 meters is only accessible to divers with deep certification and careful gas planning; at that depth it hosts small invertebrates among the Antipathes branches.
+Schools of jackfish (big-eyed trevally) and blackfin barracuda are the headline species, regularly encountered along the upper slope between 15-30 meters. Anthias cloud the reef face. Wrasses, snappers, surgeonfish, parrotfish, squirrelfish, and rockcod/grouper are common residents; Alona Divers notes triggerfish become noticeably aggressive during May-July, likely a nesting-season behavior worth knowing before descending. Sea turtles are encountered throughout Balicasag and are seen at this site. Scorpionfish shelter in the coral structure. The black coral forest at 35-45 meters is only accessible to divers with deep certification and careful gas planning; at that depth it hosts small invertebrates among the Antipathes branches.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Access by dive boat from Panglao Island (Alona Beach area), approximately 30 min
 Currents can be strong and change during the dive, making drift diving experience essential. The steep slope makes depth management critical. SM Divers specifically cites this site as requiring excellent buoyancy control and current experience. The 40-meter maximum depth demands careful gas planning. Do not follow the black coral forest deeper than your planned limit.
 
 ---
-*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers - Balicasag Island](https://www.alonadivers.com/balicasag-island), [Live Life the Philippines - Balicasag Island Diving Guide](https://livelifethephilippines.com/posts-dive-visayas/balicasag/balicasag-island-divers-guide.html). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Balicasag Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/dive-sites-in-balicasag/), [Alona Divers - Balicasag Island](https://www.alonadivers.com/balicasag-island), [Live Life the Philippines - Balicasag Island Diving Guide](https://livelifethephilippines.com/posts-dive-visayas/balicasag/balicasag-island-divers-guide.html). Last updated 2026-08-22.*

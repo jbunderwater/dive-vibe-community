@@ -17,7 +17,7 @@ Susan's Reef is a beloved macro and reef dive in Kimbe Bay, West New Britain, Pa
 
 ## Overview
 
-Susan's Reef is a submerged ridge in the sheltered waters of Kimbe Bay, with a sheer wall on its eastern face and a gently sloping hard coral garden on the western slope. The ridge top sits at approximately 5 meters. The eastern wall is the site's defining feature: it is densely colonized by red whip gorgonians (Ellisella sp.) arranged in overlapping stands from about 15 to 22 meters, a display described by multiple operators as among the most photographed dive scenes in all of Papua New Guinea. These brilliant red sea whips, oriented to face the current, provide ideal habitat for long-nose hawkfish, which perch in characteristic fashion on the gorgonian branches. Three species of anemonefish occupy the anemone communities. Pygmy seahorses (Hippocampus bargibanti) are reliably found on sea fans, with patient divers often spotting multiple individuals on a single dive. Ghost pipefish hover near crinoids, nudibranchs of a dozen species browse the coral heads. For macro photographers, Susan's Reef is consistently one of Kimbe Bay's most rewarding sites.
+Susan's Reef is described by Kimbe Bay operators as an underwater ridge rather than a classic fringing reef, distinguished by large, colorful soft corals, gorgonian sea fans, red sea whips, and large sponges along its length. The ridge top sits at approximately 5 meters, sloping down to the site's 20-meter base. It is one of the names divers hear repeatedly when Kimbe Bay's signature sites are listed alongside North Emma, South Bay, Inglis Shoal, and Christine's Reef. Kimbe Bay as a whole is one of the most biodiverse reef systems on the planet -- home to roughly 900 fish species and around 76% of the world's known coral species -- and Susan's Reef's dense gorgonian and sponge growth is consistent with that reputation. Specific fish and invertebrate sightings at this particular site were not confirmed in available sources beyond the coral and sponge description above; treat any species list below as regional Kimbe Bay fauna rather than a confirmed site inventory.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Susan's Reef is a submerged ridge in the sheltered waters of Kimbe Bay, with a s
 
 ## Marine Life
 
-Red whip gorgonians (Ellisella sp.) along the eastern wall are the signature feature. Resident long-nose hawkfish (Oxycirrhites typus) perch on the sea fans throughout the wall section. Pygmy seahorses (Hippocampus bargibanti) on gorgonian fans. Three species of anemonefish occupy anemone communities on the reef. Ghost pipefish, ornate ghost pipefish, robust ghost pipefish, nudibranchs, and flatworms reward patient macro searching. Larger visitors include Napoleon wrasse, whitetip reef sharks resting on sand, and occasional eagle rays in the blue.
+The confirmed, site-specific feature is the dense growth of soft corals, gorgonian sea fans, red sea whips, and large sponges along the ridge. No site-specific fish or invertebrate survey for Susan's Reef was found in available sources. Kimbe Bay's broader reputation for macro life (pygmy seahorses, ghost pipefish, nudibranchs) and reef fish diversity likely applies here as it does across much of the bay, but individual species have not been confirmed as sighted at this specific site -- ask your dive guide for current, site-specific reports before setting expectations for particular species.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Currents are generally light at this site but can increase with tidal changes. T
 
 ## Photography
 
-Susan's Reef is one of Kimbe Bay's best macro destinations. Pygmy seahorses on gorgonian fans, nudibranchs on soft coral, and ghost pipefish against crinoid backgrounds are all classic shots here. A 100mm macro lens with a single strobe is the standard setup. Wide-angle shots of the fan-covered reef faces at 15 meters are also rewarding.
+Susan's Reef's confirmed strength is its gorgonian and soft coral coverage -- wide-angle shots of the sea fans and red sea whips against the ridge are the most reliably rewarding compositions. A 100mm macro lens is worth carrying for opportunistic subjects on the sponges and coral heads, but treat any specific macro find as a bonus rather than a guaranteed sighting.
 
 ---
-*Sources: [Diversion Dive Travel – Susan's Reef](https://www.diversiondivetravel.com.au/destinations/papua-new-guinea/kimbe-bay/), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/), [MV FeBrina – Kimbe Bay](https://www.mvfebrina.com/), [underwaterasia.info – Kimbe Bay](https://www.underwaterasia.info/). Last updated 2026-06-25.*
+*Sources: [underwaterasia.info – Kimbe Bay Diving](https://underwaterasia.info/papua-new-guinea/kimbe-bay-diving), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/). Last updated 2026-08-22.*

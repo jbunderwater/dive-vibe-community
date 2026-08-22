@@ -4,7 +4,7 @@ lat: 11.3291169
 lng: 124.1260138
 difficulty: Beginner
 maxDepth: 13
-entryType: boat
+entryType: both
 siteType: reef
 ref: null
 osmId: 4941392222
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Exotic House Reef
 
-Exotic House Reef is a reef dive site in Philippines Malapascua, Asia.
+Exotic House Reef is the cultivated house reef of Malapascua Exotic Island Dive Resort — the island's first dive shop (opened 1998) — built up around sunken jeepneys and artificial structures since 2001.
 
 ## Overview
 
-Exotic House Reef is the sandy-bottomed fringing reef in front of Exotic Beach Resort on Malapascua's southern shore, accessible directly from the beach at any tide. The rubble and seagrass patches in 5–13 meters of water shelter a classic Visayan muck fauna — ghost pipefish, robust and hairy frogfish, and colonies of blue-spotted ribbontail rays resting on the sand. Dusk dives here are especially rewarding, as mandarin fish begin their mating ritual in the coral rubble just as the light fades.
+The reef starts at about 5 meters and gently slopes to 13 meters, scattered with coral and seagrass patches around deliberately-placed artificial structures (old jeepneys, concrete and wire forms). It won Project AWARE's Environmental Achievement Award in 2008 for this reef-building work. Note: only two independent sources could be found describing this specific site (below this database's 3-source bar for full validation), so treat details here as provisional pending further research.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
-- **Entry Type**: Boat dive
+- **Location**: In front of Exotic Island Dive Resort, Malapascua Island
+- **Entry Type**: Shore or boat entry
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters
 
 ## Marine Life
 
-Exotic House Reef is best known for its mandarin fish population — the rubble patches at 5–10 meters come alive at dusk when pairs perform their brief, vivid mating display. During the day, hairy and robust frogfish sit camouflaged on the rubble, ghost pipefish drift among crinoids, and blue-spotted ribbontail rays rest in clusters on the open sand. The seagrass patches also yield seahorses and the occasional ghost pipefish for attentive macro hunters.
+The resort's own site describes the artificial structures as a magnet for a "wide variety of fish and macro life." PADI's listing and the resort both note mandarin fish performing their mating dance at dusk, along with blue-ringed octopus and seahorses on the surrounding reef. Earlier ghost-pipefish and ribbontail-ray claims on this page could not be confirmed against a source and have been removed.
 
 ---
-*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*
+*Sources: [Malapascua Exotic Island Dive Resort](https://www.malapascua.net/diving/dive-sites.html), [PADI - Exotic House Reef dive site](https://www.padi.com/dive-site/philippines/evolution-house-reef/). Last updated 2026-08-22.*

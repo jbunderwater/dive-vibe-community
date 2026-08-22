@@ -17,7 +17,7 @@ Christine's Reef is a welcoming and beautiful coral garden in Kimbe Bay, West Ne
 
 ## Overview
 
-Christine's Reef is a gently sloping coral garden in the sheltered waters of Kimbe Bay, named in honour of a diver who contributed to the exploration of the bay's dive sites. The reef is characterised by exceptionally diverse hard coral coverage — massive Porites heads, staghorn thickets, table corals, and brain corals grow in close succession, creating a textured landscape that rewards slow, attentive exploration. Anemone communities are abundant here, each hosting resident Clark's and pink anemonefish. At the reef's edge, where the coral slope gives way to a sandy flat, eagle rays cruise the transition zone on morning dives — a sighting that reliably produces wide smiles in the boat debriefs. The overall fish diversity is high even by Kimbe Bay standards: butterflyfish, angelfish, wrasse, parrotfish, and schools of anthias are constant companions throughout the dive. For newly certified divers or those returning to diving, Christine's Reef offers a forgiving, shallow profile with rich rewards. For experienced divers, it serves as an excellent second or third dive of the day, offering unhurried reef exploration between the more demanding pinnacle dives.
+Christine's Reef is described by Kimbe Bay dive operators as a shallow coral garden known for stunning coral formations and a strong variety of reef life, and is frequently named among the bay's signature photography sites. It sits alongside Susan's Reef, Inglis Shoal, and the Emma pinnacles as one of the sites divers hear about repeatedly when Kimbe Bay is discussed. Beyond "shallow coral garden with a superb variety of life," available sources do not provide a detailed species inventory specific to Christine's Reef. For newly certified divers or those returning to diving, the shallow, sheltered profile that operators describe offers a forgiving dive; for experienced divers, it works well as a relaxed second or third dive between more demanding pinnacle sites.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Christine's Reef is a gently sloping coral garden in the sheltered waters of Kim
 
 ## Marine Life
 
-Resident anemonefish (Clark's and pink), Napoleon wrasse, eagle rays (frequent sightings at reef edge), hawksbill sea turtles, butterflyfish, angelfish, anthias, parrotfish, surgeonfish, groupers. Macro life includes nudibranchs on the coral heads, cleaner shrimps at cleaning stations, and cephalopods in the reef rubble. Schools of fusiliers hover mid-water above the reef throughout the dive.
+Operators describe Christine's Reef generally as having "a superb variety of life" on its shallow coral garden, but available sources do not list specific species confirmed at this site. Kimbe Bay's broader reef fish community (anemonefish, butterflyfish, wrasse, anthias) is common across the bay's shallow reef sites and likely applies here, but has not been confirmed site-specifically -- treat any particular sighting as a bonus rather than a guarantee, and ask your guide for current reports.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Christine's Reef is one of Kimbe Bay's most beginner-friendly sites. Currents ar
 
 ## Photography
 
-Christine's Reef works well for both wide-angle reef portraits and macro close-ups. Wide-angle compositions of the healthy staghorn thickets, with anthias clouds and natural light shafts, are beautiful and accessible even for beginner underwater photographers. Macro subjects — nudibranchs, anemonefish, cleaner shrimps — are abundant and approachable. Afternoon dives in particular offer warm, angled light on the upper reef structure that renders coral colour at its most vivid.
+Operators specifically flag Christine's Reef as a notable photography site for its shallow coral gardens; wide-angle compositions of the coral structure in the shallows are the best-supported recommendation. Macro subjects are likely present given the reef's general character, but no site-specific inventory was found to guide expectations.
 
 ---
-*Sources: [Indopacific Images – Kimbe Bay](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/), [MV FeBrina – Kimbe Bay](https://www.mvfebrina.com/), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [DivePlanit – Kimbe Bay](https://www.diveplanit.com/). Last updated 2026-06-25.*
+*Sources: [underwaterasia.info – Kimbe Bay Diving](https://underwaterasia.info/papua-new-guinea/kimbe-bay-diving), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/). Site-specific marine life inventory for Christine's Reef was not found; the description above notes this explicitly. Last updated 2026-08-22.*

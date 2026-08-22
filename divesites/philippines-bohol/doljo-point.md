@@ -19,7 +19,7 @@ A dramatic vertical wall at the northwest tip of Panglao Island, dropping from a
 
 Doljo Point lies at the extreme northwestern tip of Panglao Island. The site features a sandy plateau at 5-12 meters that gives way abruptly to a sheer vertical wall plunging to over 60 meters. The defining features are the massive gorgonian sea fans — confirmed by SM Divers as "some of the largest in the Philippines," glowing pink, red, and orange under torchlight — and giant barrel sponges with giant frogfish sheltering inside.
 
-The northwest tip location provides a practical advantage: the point is sheltered from the southwest monsoon winds. When swell is up at other Panglao sites, Doljo Point often sits in calm lee conditions with visibility regularly exceeding 30 meters. The absence of a bottom reference on the open wall makes depth management the primary skill challenge — SM Divers requires Advanced Open Water certification minimum and emphasises "excellent buoyancy control mandatory."
+The northwest tip location provides a practical advantage: the point is sheltered from the southwest monsoon winds. When swell is up at other Panglao sites, Doljo Point often sits in calm lee conditions with visibility regularly exceeding 30 meters. The absence of a bottom reference on the open wall makes depth management the primary skill challenge — SM Divers requires Advanced Open Water certification minimum and emphasises "excellent buoyancy control mandatory." Alona Bohol Divers Club rates the site slightly less strictly, as "Intermediate to advanced"; this listing follows the more conservative SM Divers standard given the wall's depth and current exposure.
 
 ## Site Information
 
@@ -35,7 +35,7 @@ The northwest tip location provides a practical advantage: the point is sheltere
 
 ## Marine Life
 
-The wall face between 15-30 meters hosts massive gorgonian sea fans, giant barrel sponges, and giant frogfish sheltering in the sponges. Additional confirmed species: nudibranchs (Chromodoris, Flabellina), ghost pipefish, schooling surgeonfish, batfish, sweetlips, trevally, dogtooth tuna, eagle rays, reef sharks, and chevron barracuda. Hammerhead sharks and manta rays are not confirmed at this site.
+The wall face between 15-30 meters hosts massive gorgonian sea fans, giant barrel sponges, and giant frogfish sheltering in the sponges. Additional confirmed species: nudibranchs (Chromodoris, Flabellina), ghost pipefish, schooling surgeonfish, batfish, sweetlips, trevally, dogtooth tuna, eagle rays, reef sharks, and chevron barracuda. Alona Bohol Divers Club also lists moray eels, angelfish, butterflyfish, pufferfish, and Spanish mackerel in the deeper water. Hammerhead sharks and manta rays are not confirmed at this site.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Access by dive boat from Alona Beach, heading around to the northwest tip of Pan
 The vertical wall drops past 60 meters — depth management is the primary hazard. SM Divers explicitly requires Advanced Open Water minimum. Maintain depth discipline without a bottom reference. Currents at the point can be strong; follow the guide's assessment. The remote northwest location means a longer boat ride in the event of an incident.
 
 ---
-*Sources: [SM Divers Bohol - Complete Guide to Doljo Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-doljo-point/), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Complete Guide to Doljo Point](https://www.smdiversbohol.com/a-complete-guide-to-diving-doljo-point/), [Valm Divers Bohol - Panglao Dive Sites](https://www.valmdiversbohol.com/panglao-dive-sites/), [Alona Divers Club - Panglao](https://www.alonaboholdiversclub.com/scuba-diving-areas-in-bohol/dive-sites-in-panglao/). Last updated 2026-08-22.*

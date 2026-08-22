@@ -17,7 +17,7 @@ Fathers Reefs is a celebrated seamount complex in the heart of Kimbe Bay, West N
 
 ## Overview
 
-Fathers Reefs consists of multiple coral pinnacles rising steeply from deep water, their summits reaching to within a few meters of the surface. Kimbe Bay is home to roughly 60% of all known Indo-Pacific coral species, and Fathers Reefs sits squarely at the center of that abundance. The pinnacles are draped in dense soft coral gardens — vivid orange, pink, and purple sea fans cascade down the walls, interspersed with whip corals and massive barrel sponges. Schooling barracuda and bigeye trevally swirl in tornado formations above the pinnacle tops, often joined by dog-tooth tuna hunting through the bait balls. Grey reef sharks and whitetip reef sharks patrol the deeper flanks. The site rewards slow, attentive diving — nudibranchs, robust ghost pipefish, and pygmy seahorses hide among the soft coral branches, while the open water around the pinnacles draws the occasional hammerhead. Visibility is typically exceptional, often exceeding 30 meters, allowing wide sweeping views of the pinnacle architecture.
+Fathers Reefs is one of the seamount/pinnacle sites named repeatedly by Kimbe Bay operators alongside Susan's Reef, Inglis Shoal, Christine's Reef, and North/South Emma. Kimbe Bay as a whole is one of the most biodiverse marine environments documented anywhere -- around 900 fish species and roughly 76% of the world's known coral species have been recorded in the bay -- and the wider region is known for pinnacle dives with schooling barracuda, jacks, and reef sharks. However, available sources name Fathers Reefs without providing a site-specific description of its coral cover, fish aggregations, or shark activity. The description below reflects the general character of Kimbe Bay pinnacle diving rather than confirmed observations at this specific site; confirm current conditions and typical sightings with your dive operator before the trip.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Fathers Reefs consists of multiple coral pinnacles rising steeply from deep wate
 
 ## Marine Life
 
-Schooling barracuda, bigeye trevally, dog-tooth tuna, grey reef sharks, whitetip reef sharks, occasional hammerheads, Napoleon wrasse, rainbow runners. Resident macro life includes pygmy seahorses on sea fans, robust ghost pipefish, nudibranchs, and ornate ghost pipefish. The soft coral coverage — gorgonian sea fans, dendronephthya, and sea whips — is among the best in Kimbe Bay.
+No site-specific marine life survey for Fathers Reefs was found in available sources. Kimbe Bay's pinnacle sites in general are known for schooling barracuda and jacks, reef sharks, and rich soft coral growth, and this likely applies here as elsewhere in the bay -- but specific species have not been confirmed as sighted at this site. Ask your dive operator for current, site-specific reports rather than relying on regional generalizations.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Currents can be strong and unpredictable around the pinnacles, especially on inc
 
 ## Photography
 
-Fathers Reefs is one of Papua New Guinea's premier wide-angle subjects. Schools of trevally framed against soft coral pinnacles, shark silhouettes in the blue, and dense sea fan gardens all make for compelling images. Early morning light penetrates the pinnacle crests beautifully. For macro, work the sea fans at 12-18 meters with good torch light to coax out pygmy seahorses and nudibranchs.
+As with marine life, no site-specific photography notes for Fathers Reefs were found. Kimbe Bay pinnacle sites generally reward wide-angle work (sea fan gardens, schooling fish silhouettes) in the region's typically excellent visibility; treat any macro or pelagic subject at this specific site as a bonus rather than a guarantee.
 
 ---
-*Sources: [Indopacific Images – Kimbe Bay Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [MV Oceania Kimbe Bay](https://www.mvoceania.com/), [The Dive Globe – Fathers Reefs](https://www.thediveglobe.com/), [Liveaboard.com – Kimbe Bay](https://www.liveaboard.com/), [DivePlanit – Kimbe Bay](https://www.diveplanit.com/). Last updated 2026-06-25.*
+*Sources: [underwaterasia.info – Kimbe Bay Diving](https://underwaterasia.info/papua-new-guinea/kimbe-bay-diving), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/). Site-specific marine life and photography details for Fathers Reefs specifically were not found; the description above uses regional Kimbe Bay context where noted. Last updated 2026-08-22.*
