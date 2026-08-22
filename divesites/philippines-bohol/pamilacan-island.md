@@ -19,7 +19,7 @@ Pamilacan Island offers multiple dive sites — Dakit-Dakit, South Pamilacan, Sp
 
 Pamilacan Island is located approximately 18 kilometres southeast of Panglao Island in the Bohol Sea, requiring a 45-60 minute boat ride from Alona Beach. Part of the Bohol Marine Triangle (BMT) conservation zone, the island offers five distinct dive sites with different characters and difficulty levels. The island is exposed to significant currents on its east and south sides, making drift diving experience essential for the more exposed sites.
 
-The five dive sites span a range: Sanctuary (5-20m, beginner-friendly) and South Pamilacan (5-30m, all levels) offer calmer conditions; Dakit-Dakit (10-25m) and Spanish Tower (10-35m) involve stronger currents and are better suited to experienced divers. Confirmed marine life across the island includes green sea turtles, fusiliers, snappers, jackfish, barracuda, trevally, nudibranchs, frogfish, and pygmy seahorses. Manta rays and eagle rays are noted as occasional visitors at Spanish Tower only, not as regular encounters.
+The five dive sites span a range: Sanctuary (5-20m, beginner-friendly) and South Pamilacan (5-30m, all levels) offer calmer conditions; Dakit-Dakit (10-25m) and Spanish Tower (10-35m) involve stronger currents and are better suited to experienced divers. Confirmed marine life across the island includes green sea turtles, fusiliers, snappers, jackfish, barracuda, trevally, nudibranchs, frogfish, and pygmy seahorses. SM Divers lists manta rays, eagle rays, and whale sharks under Spanish Tower specifically, but Valm Divers describes these as rare, luck-dependent sightings across the island generally rather than tied to one site, and Alona Divers doesn't mention them at all — treat any pelagic encounter here as a possible bonus, not a guaranteed one.
 
 ## Site Information
 
@@ -35,7 +35,7 @@ The five dive sites span a range: Sanctuary (5-20m, beginner-friendly) and South
 
 ## Marine Life
 
-Confirmed across Pamilacan's dive sites: green sea turtles (year-round), fusiliers, snappers, jackfish (Dakit-Dakit), barracuda, trevally, nudibranchs (including the "Pikachu" nudibranch at Spanish Tower), frogfish, pygmy seahorses, pipefish, and garden eels. Stingrays and cuttlefish are seen at the North site. Manta rays and eagle rays are occasionally reported at Spanish Tower but are not guaranteed encounters.
+Confirmed across Pamilacan's dive sites: green sea turtles (year-round), fusiliers, snappers, jackfish (Dakit-Dakit), barracuda, trevally, nudibranchs (including the "Pikachu" nudibranch at Spanish Tower), frogfish, pygmy seahorses, pipefish, and garden eels. Stingrays and cuttlefish are seen at the North site. Manta rays, eagle rays, and whale sharks are mentioned by one operator (SM Divers) specifically at Spanish Tower, but other operators describe these as rare, island-wide, luck-dependent sightings rather than a Spanish Tower guarantee — don't plan a dive around seeing them.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Access by dive boat from Panglao Island (Alona Beach area), approximately 45-60 
 Moderate to strong currents at exposed sites (Dakit-Dakit, Spanish Tower) can intensify without warning. Drift diving experience and SMB proficiency are essential. The remote location means extended boat time back to shore. Follow the dive guide's current assessment before each dive.
 
 ---
-*Sources: [SM Divers Bohol - Pamilacan Island Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/pamilacan-island-dive-sites/), [Valm Divers Bohol - Pamilacan Island Diving](https://www.valmdiversbohol.com/pamilacan-island-diving/), [Alona Divers - Pamilacan Island](https://www.alonadivers.com/pamilacan-island). Last updated 2026-06-25.*
+*Sources: [SM Divers Bohol - Pamilacan Island Dive Sites](https://www.smdiversbohol.com/scuba-diving-areas-in-bohol/pamilacan-island-dive-sites/), [Valm Divers Bohol - Pamilacan Island Diving](https://www.valmdiversbohol.com/pamilacan-island-diving/), [Alona Divers - Pamilacan Island](https://www.alonadivers.com/pamilacan-island). Last updated 2026-08-22.*
