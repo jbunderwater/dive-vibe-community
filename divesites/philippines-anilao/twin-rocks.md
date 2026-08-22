@@ -17,7 +17,7 @@ Twin Rocks is a classic Anilao reef dive site named for the two prominent rock f
 
 ## Overview
 
-The two rock formations that give the site its name create an underwater structure with sides and overhangs encrusted with coral, sponge, and other sessile organisms. The gap between the twin rocks forms a sheltered zone where current is reduced, allowing a distinct microhabitat to develop. Both the exposed outer faces and the sheltered interior of the twin rocks reward exploration, with different species distributions across these varying conditions. The maximum depth of 18 meters across the site encompasses the full range from the rock tops near the surface to the sandy substrate at their bases.
+The two rock formations that give the site its name create an underwater structure with sides and overhangs encrusted with coral, sponge, and other sessile organisms. The gap between the twin rocks forms a sheltered zone where current is reduced, allowing a distinct microhabitat to develop. Both the exposed outer faces and the sheltered interior of the twin rocks reward exploration, with different species distributions across these varying conditions. Most sources describe the two coral-covered pinnacles themselves as topping out around 16 meters, with the site's wider rubble margin extending to 18 meters — the maximum depth figure used here.
 
 ## Site Information
 
@@ -59,4 +59,4 @@ Standard Anilao conditions apply. Light current at this site. Deploy SMB before 
 The twin rock structure provides compositional variety for both wide-angle and macro shooting. The interplay of light in the gap between the rocks creates interesting ambient-light conditions. Macro subjects on the rock faces and in the sheltered gap are the highlights.
 
 ---
-*Sources: [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Wannadive – Twin Rocks Anilao](https://wannadive.net), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-06-25.*
+*Sources: [Philippine Dives – Anilao Guide](https://philippinedives.com/dive-guide/anilao/), [Wannadive – Twin Rocks Marine Sanctuary](https://www.wannadive.net/spot/Asia/Philippines/Luzon/Anilao_and_Batangas/Twin_Rocks_Marine_Sanctuary/index.html), [Diving Squad – Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/), [Fordivers – Diving Twin Rocks, Anilao](https://fordivers.store/en/blogs/blog-fordivers/diving-twin-rocks-anilao). Last updated 2026-08-22.*

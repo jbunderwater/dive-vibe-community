@@ -54,4 +54,4 @@ Shore entry from the Mainit area beach. The black sand entry is straightforward.
 Shallow and generally mild conditions make this a safe site for beginners. Demon stingers are venomous — never place hands or knees on the sand without looking first. Night dives should be conducted with a good primary light and backup. Shore entry means no boat traffic above, but notify your resort of planned dive times especially for night dives.
 
 ---
-*Sources: [DivePlanIt – Secret Bay](https://www.diveplanit.com/dive-site/secret-bay/), [EAZY Traveler – Secret Bay Anilao](https://eazytraveler.net/2014/11/anilao-batangas-muck-diving-secret-bay/), [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving). Last updated 2026-06-25.*
+*Sources: [DivePlanIt – Secret Bay](https://www.diveplanit.com/dive-site/secret-bay/), [EAZY Traveler – Secret Bay Anilao](https://eazytraveler.net/2014/11/anilao-batangas-muck-diving-secret-bay/), [Underwater Photography Guide – Anilao Diving](https://www.uwphotographyguide.com/anilao-diving). Last updated 2026-08-22.*

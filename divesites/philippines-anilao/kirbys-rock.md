@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Kirby's Rock
 
-Kirby's Rock is a wall dive site in Philippines Anilao, Asia.
+Kirby's Rock is a current-swept wall on the northwest tip of Tingloy Island, where two coral- and gorgonian-covered pinnacles drop from 5 meters past the recreational limit into technical depths beyond 80 meters.
 
 ## Overview
 
@@ -21,7 +21,7 @@ Kirby's Rock on the northwest tip of Tingloy Island juts out into the Verde Isla
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Northwest tip of Tingloy Island, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -32,4 +32,4 @@ Kirby's Rock on the northwest tip of Tingloy Island juts out into the Verde Isla
 Kirby's Rock features two pinnacles with a canyon between them, all heavily adorned with hard and soft corals, gorgonians, crinoids, and sea fans. Golden pygmy seahorses on gorgonian branches have been documented. Thousands of Colochirus robustus sea cucumbers are a distinctive feature. Nudibranchs including multiple species inhabit the encrusted surfaces. Dragon shrimp are present on whip corals. Frogfish and anthias schools are confirmed at the site. The wall's exposure to the Verde Island Passage brings in occasional pelagics. Note: depth corrected to 5–80m+ per Blue Ribbon Divers source — recreational diving limited to the upper 30m; the wall continues to technical depths below.
 
 ---
-*Sources: [AnilaoDiving.com – Kirby's Rock](https://anilaodiving.com/kirbys.htm), [Blue Ribbon Divers – Kirby's Rock](https://blueribbondivers.com/dive-sites/philippines/luzon/batangas/anilao/kirbys/), [Scuba Diver Life – Kirby's Rock](https://scubadiverlife.com/kirbys-rock-anilao-philippines/). Last updated 2026-06-25.*
+*Sources: [AnilaoDiving.com – Kirby's Rock](https://anilaodiving.com/kirbys.htm), [Blue Ribbon Divers – Kirby's Rock](https://blueribbondivers.com/dive-sites/philippines/luzon/batangas/anilao/kirbys/), [Scuba Diver Life – Kirby's Rock](https://scubadiverlife.com/kirbys-rock-anilao-philippines/). Last updated 2026-08-22.*
