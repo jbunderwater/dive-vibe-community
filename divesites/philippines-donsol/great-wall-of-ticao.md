@@ -21,6 +21,8 @@ The wall is characterised by near-vertical to overhanging limestone rock faces e
 
 The site is part of Ticao Island's broader dive portfolio, which ranges from the pelagic seamount of Manta Bowl to sheltered macro sites. The Great Wall offers the most dramatic topography of the Ticao wall dives, combining the visual impact of the drop-off with the possibility of pelagic visitors attracted by the current-swept channel environment.
 
+Recreational depth reports vary slightly by source: PhilippineDives.com lists a range of roughly 5–40+ meters, while other operator descriptions cap the working recreational dive around 35 meters before the wall continues into water beyond sport-diving limits (all sources agree the wall itself plunges past 300 meters).
+
 ## Marine Life
 
 - Schooling tunas and trevallies in the blue water alongside the wall
@@ -55,4 +57,4 @@ Advanced certification required. Wall dives with significant depth invite rapid 
 - **Maximum Depth**: 35 meters
 
 ---
-*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*
+*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [PhilippineDives.com — Ticao Dive Guide](https://philippinedives.com/dive-guide/ticao/). Re-audited 2026-08-22: diveworldwide.com (previously cited) was checked directly and contains no site-specific content for this dive — dropped and replaced with PhilippineDives.com; depth-range discrepancy between sources now flagged in the text. Last updated 2026-08-22.*

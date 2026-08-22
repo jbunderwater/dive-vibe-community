@@ -54,4 +54,4 @@ The soft coral garden is the primary photo subject. Wide-angle with strobe bring
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Re-audited 2026-08-22: both sources re-verified, content confirmed accurate. A 3rd independent source was not found despite additional targeted searches (temoanaexpeditions.com, previously cited, does not actually mention Tres Grace and was removed). Last updated 2026-08-22.*

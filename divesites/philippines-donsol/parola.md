@@ -17,7 +17,7 @@ Parola (Filipino for "lighthouse") is the tip of San Miguel Island, where conver
 
 ## Overview
 
-The point at Parola is where currents from multiple directions meet at the tip of San Miguel Island. Shark Diving Philippines describes the site as experiencing moderate to strong currents, with the current convergence attracting sharks, manta rays, and eagle rays. Multiple ledges at varying depths add structural complexity, and the guide notes exploratory caves on the point that divers can peer into, inhabited by lionfish, lobsters, and groupers.
+The point at Parola is where currents from multiple directions meet at the tip of San Miguel Island. Shark Diving Philippines describes the site as experiencing moderate to strong currents, with the current convergence attracting sharks, manta rays, and eagle rays. Multiple ledges at varying depths add structural complexity, and the guide notes exploratory caves on the point that divers can peer into, inhabited by lionfish, lobsters, and groupers. PhilippineDives.com separately describes the site (listed as "Parola/Lighthouse") as transitioning from hard coral shallows into soft coral gardens.
 
 The site is sometimes referred to as "The Point" by operators. Its character is current-driven: the animals present correlate directly with current activity, and calm days produce less interesting dives than days with moderate flow.
 
@@ -56,4 +56,4 @@ Moderate to strong currents require solid buoyancy control and current-diving ex
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Island Hopping in the Philippines — San Miguel Island dive sites](https://islandhoppinginthephilippines.com/visayas/faq/diving-ticao-pass-masbate/). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [PhilippineDives.com — Donsol Dive Guide](https://philippinedives.com/dive-guide/donsol/), [WhereDive — Ticao Island](https://www.wheredive.com/en/destinations/philippines/ticao-island/). Re-audited 2026-08-22: islandhoppinginthephilippines.com (previously cited) blocks automated access and its indexed content does not mention Parola specifically — dropped and replaced with 2 sources confirmed to describe this site by name. Last updated 2026-08-22.*

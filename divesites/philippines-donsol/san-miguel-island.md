@@ -19,12 +19,12 @@ San Miguel Island is a small island off Donsol that serves as a hub for multiple
 
 San Miguel Island's surrounding reef offers healthy hard and soft coral gardens with exceptional macro life diversity. A blog account of diving the island describes "an endless field of thriving hard and soft corals" with nudibranchs ("tiny underwater aliens"), colourful reef fish, starfish, frogfish, mandarin fish, and harlequin sweetlips juveniles — characterised by the author as "the best dives of my life."
 
-Liveaboard.com describes the overall San Miguel's dive area as hosting healthy reefs full of macro life, with caves to explore at depth, and dive sites ranging in maximum depth from 16–20 m that cater to all ability levels. The island has multiple named sites, including Bobby's Wall (northern coast), Tres Grace (northern corner beach), Parola (the tip), and Lapus Lapus West and East (eastern side). This general "San Miguel Island" entry represents the island's reef complex as a whole.
+Liveaboard.com describes the overall San Miguel's dive area as hosting healthy reefs full of macro life, with caves to explore at depth, and dive sites ranging in maximum depth from 16–20 m that cater to all ability levels. PhilippineDives.com separately describes "San Miguel Reefs" (5–20 m) with seahorses and orangutan crabs among the macro finds. The island has multiple named sites, including Bobby's Wall (northern coast), Tres Grace (northern corner beach), Parola (the tip), and Lapus Lapus West and East (eastern side). This general "San Miguel Island" entry represents the island's reef complex as a whole.
 
 ## Marine Life
 
 - Abundant hard and soft corals
-- Macro: nudibranchs, frogfish, pipefish, mandarin fish, harlequin sweetlips juveniles, Colmani shrimp, sea snakes
+- Macro: nudibranchs, frogfish, pipefish, mandarin fish, harlequin sweetlips juveniles, Colmani shrimp, sea snakes, seahorses, orangutan crabs
 - Reef fish: angelfish, bannerfish, surgeonfish, groupers, sweetlips
 - Cuttlefish and squid (reported at Lapus Lapus sites)
 - Sharks and rays at the current-exposed tip (Parola)
@@ -57,4 +57,4 @@ Outstanding macro photography destination. The variety of micro-habitats — san
 - **Maximum Depth**: 20 meters
 
 ---
-*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol), [Alex in Wanderland — Diving in Donsol](https://www.alexinwanderland.com/diving-donsol-philippines/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines). Last updated 2026-05-17.*
+*Sources: [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol), [Alex in Wanderland — Diving in Donsol](https://www.alexinwanderland.com/diving-donsol-philippines/), [PhilippineDives.com — Ticao Dive Guide](https://philippinedives.com/dive-guide/ticao/). Re-audited 2026-08-22 (seahorses and orangutan crabs added per PhilippineDives.com; all other claims re-verified, no corrections needed). Last updated 2026-08-22.*

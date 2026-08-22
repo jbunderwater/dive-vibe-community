@@ -17,17 +17,17 @@ Manta Bowl is an underwater seamount in Ticao Pass, approximately 7 km off the n
 
 ## Overview
 
-The seamount rises from depths exceeding 200 meters to a plateau at 14–23 meters. Its structure includes multiple rocky outcrops and coral formations that function as cleaning stations — predictable spots where cleaner wrasse remove parasites and dead tissue from manta rays. LAMAVE (Large Marine Vertebrates Research Institute Philippines) has photo-identified more than 240 individual reef manta rays (*Mobula alfredi*) at this site, representing approximately 70% of all reef manta ray sightings in the Philippines.
+The seamount rises from depths exceeding 200 meters to a plateau at 14–23 meters. Its structure includes multiple rocky outcrops and coral formations that function as cleaning stations — predictable spots where cleaner wrasse remove parasites and dead tissue from manta rays. LAMAVE (Large Marine Vertebrates Research Institute Philippines) has photo-identified more than 240 individual reef manta rays (*Mobula alfredi*) at this site. Across the wider Ticao-Burias Pass system, reef manta ray monitoring (2017–2019) recorded 70% of all Philippine sightings and 72% of individuals at the 17 sites tracked nationally — Manta Bowl is the pass's principal cleaning-station site and the main contributor to that share, though the 70% figure describes the pass system as a whole rather than this single site in isolation.
 
-The seamount is informally divided into sections known to divers as "Classroom," "Carlos," "Sweetlips," and "Manta Bowl" proper. Currents regularly exceed 3 knots, channeling dense clouds of plankton across the seamount and triggering aggregations of manta rays and other megafauna. Ghost nets are a documented conservation threat; volunteer removal programs operate at the site.
+The seamount is informally divided into sections known to divers as "Classroom," "Carlos," "Sweetlips," and "Manta Bowl" proper. Ghost nets are a documented conservation threat; volunteer removal programs operate at the site. Current speed estimates vary by source: dive operators and Te Moana Expeditions describe currents "regularly exceeding 3 knots," while PhilippineDives.com reports peaks of 7–9 knots during strong tidal exchange — plan for strong, unpredictable current regardless of which figure applies on a given day.
 
 The Ticao-Burias Pass was designated an Important Shark and Ray Area (ISRA) recognizing its global significance as reproductive and foraging habitat.
 
 ## Marine Life
 
-- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals; daily cleaning station visits
-- Oceanic manta rays
-- Whale sharks (*Rhincodon typus*) — 250+ individuals identified at this specific site
+- Reef manta rays (*Mobula alfredi*) — 240+ photo-identified individuals (LAMAVE); daily cleaning station visits
+- Oceanic manta rays (*Mobula birostris*) — reported at the same cleaning stations alongside reef mantas
+- Whale sharks (*Rhincodon typus*) — occasional visitors; divezone.net and multiple dive operators confirm sightings at Manta Bowl specifically (distinct from the snorkel-only Donsol Bay interaction area), though ScubaBoard divers note mantas and whale sharks are "not guaranteed every trip." Te Moana Expeditions cites roughly 250 of the ~1,600 whale sharks photo-identified in the Philippines as having been seen at this site — a figure not independently corroborated by LAMAVE or the Ticao-Burias Pass ISRA research, which tracks 614 photo-identified individuals across the whole pass system (2006–2020)
 - Thresher sharks, hammerhead sharks, whitetip reef sharks
 - Schooling tunas and trevallies
 - Cleaner wrasse at coral cleaning stations
@@ -50,7 +50,7 @@ Boat only. Departures from Donsol take approximately 25 minutes; from Ticao Isla
 
 ## Safety
 
-Advanced certification required. Currents can exceed 3 knots and change direction with little warning. Negative entry, strong currents, and occasional low-visibility conditions make this unsuitable for inexperienced divers. Always dive with an experienced local guide who knows current patterns.
+Advanced certification required. Currents can be very strong and change direction with little warning — sources report speeds anywhere from over 3 knots up to 7–9 knots at peak tidal exchange. Negative entry, strong currents, and occasional low-visibility conditions make this unsuitable for inexperienced divers. Always dive with an experienced local guide who knows current patterns.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ Advanced certification required. Currents can exceed 3 knots and change directio
 - **Maximum Depth**: 23 meters
 
 ---
-*Sources: [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [UW Photography Guide — Diving Ticao and Donsol](https://www.uwphotographyguide.com/diving-ticao-and-donsol-philippines), [Liveaboard.com — Donsol](https://www.liveaboard.com/diving/philippines/donsol). Last updated 2026-05-17.*
+*Sources: [LAMAVE — Diving Ticao Manta Bowl Photo Story](https://www.lamave.org/news/2019/diving-ticao-manta-bowl-photo-story), [Ticao-Burias Pass ISRA](https://sharkrayareas.org/portfolio-item/ticao-burias-pass-isra/), [Shark Diving Philippines — Diving in Donsol and Ticao](https://sharkdivingphilippines.com/diving-in-donsol-and-ticao/), [Te Moana Expeditions — Diving in Ticao Island](https://temoanaexpeditions.com/en/diving-in-ticao-island/), [PhilippineDives.com — Ticao Dive Guide](https://philippinedives.com/dive-guide/ticao/). Re-audited 2026-08-22 (whale shark and current-speed claims corrected/qualified against source conflicts). Last updated 2026-08-22.*
