@@ -13,15 +13,17 @@ addedBy: osm_import
 
 ## Bikanayos Rock
 
-Bikanayos Rock is a wall dive site in Philippines Palawan, Asia.
+Bikanayos Rock — also called Picanayas (or "Pacanayas" in some operator listings) — is a boulder-strewn site on Matinloc Island known for whitetip reef shark sightings.
 
 ## Overview
 
-Bikanayos Rock (locally known as Picanayas) sits on the western face of Matinloc Island in El Nido, where huge boulders create natural corridors and swim-throughs that whitetip reef sharks use as resting spots. Nutrient-rich currents sweeping past the exposed rock draw barracuda, trevally, and other pelagics, making this one of the best sites on Matinloc for an encounter with larger open-water species.
+Bikanayos Rock sits on Matinloc Island and is built around large underwater boulders. Multiple independent mentions corroborate whitetip reef sharks and pelagic activity here, but sources otherwise disagree on the site's profile. One operator listing (elnidoparadise.com) describes it under the name "Pacanayas" as a shallow submerged reef in the 8-15m range suitable for all levels. The site's prior description — and the depth/difficulty carried in this database — instead describe a deeper boulder wall to around 20m recommended for advanced divers, citing swim-throughs and shark resting spots that could not be re-confirmed from a live source during this update. Given the conflict, this page keeps the existing depth and difficulty rating but flags the discrepancy rather than asserting either version as settled.
+
+Sourcing note: only one currently reachable source could be confirmed for this site during the 2026-08-22 QA pass, below the destination's 3-independent-source standard.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Matinloc Island, El Nido, Philippines Palawan, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -29,7 +31,7 @@ Bikanayos Rock (locally known as Picanayas) sits on the western face of Matinloc
 
 ## Marine Life
 
-Bikanayos Rock is El Nido's best site for whitetip reef shark encounters, with the boulders' natural corridors and swim-throughs serving as regular resting spots where sharks can be observed closely at close range. Nutrient-rich currents sweeping past the exposed western face draw schooling barracuda, giant trevally, and mackerel that congregate in the eddy zones around the rock. Napoleon wrasse and hawksbill turtles are routine sightings on the surrounding reef structure.
+Whitetip reef sharks and pelagic species (including barracuda) are corroborated across multiple sources as regular sightings at this site. Claims of Napoleon wrasse and hawksbill turtles from the prior description could not be re-confirmed for this specific site and have been removed.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Sources: [El Nido Paradise - Dive Sites](https://www.elnidoparadise.com/diving-el-nido/dive-sites/). Only one independent source confirmed as of this update — below the destination's 3-source standard; a genuine profile conflict exists between sources. Last updated 2026-08-22.*

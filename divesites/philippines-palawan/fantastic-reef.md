@@ -3,7 +3,7 @@ name: Fantastic Reef
 lat: 10.4542766
 lng: 119.1612451
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 10
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Fantastic Reef
 
-Fantastic Reef is a coral dive site near Port Barton in northern Palawan, one of the named reef sites in the scenic bay and island system that makes Port Barton a growing destination for divers and island-hoppers alike.
+Fantastic Reef is a Port Barton fringing reef popular with island-hopping tours, with a shallow reef flat that gives way to steeper dropoffs than its neighbor, Twin Reef.
 
 ## Overview
 
-Sitting in the protected waters around Port Barton, Fantastic Reef earns its name from the dramatic coral formations that populate its structure. Massive brain corals stand out as particularly impressive specimens, reaching significant size after years of undisturbed growth. Schools of fish cruise the reef in coordinated formations, while the deeper sections at 20–25 meters offer drop-offs visible in calm seas. The site is suitable for intermediate divers and is typically dived from Port Barton's local dive operators during the northeast monsoon season when conditions are favourable.
+Fantastic Reef's reef flat sits around 2-3m, with dropoffs reaching roughly 10m — considerably shallower than this site's previous 25m listing, which appears to have been a placeholder rather than a researched figure. A 2025 coral-condition survey (rafsreefbrief.com) found the reef flat is now dominated by macroalgae, with an estimated 50% or more of the coral damaged or dead following the 2024 regional bleaching event. Scattered healthy colonies remain along the dropoffs, and sections near Cagsalay Island show better coral diversity, including Millepora and Porites. Older travel-guide sources describe "massive brain corals" and dramatic formations at the site; large brain coral heads are plausible as a surviving feature along the dropoffs, but the reef overall should be understood as degraded rather than uniformly pristine. Visibility runs low, around 5m, typical for this part of the bay.
 
 ## Site Information
 
@@ -25,38 +25,11 @@ Sitting in the protected waters around Port Barton, Fantastic Reef earns its nam
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-25 meters
-- **Current**: Moderate; can be stronger near drop-offs
-- **Best Time**: October to May
+- **Maximum Depth**: 10 meters
 
 ## Marine Life
 
-Large brain coral heads form the centrepiece of the reef, with colourful reef fish communities clustered around them. Schools of snapper, fusiliers, and barracuda move through the water column above the reef. Sea turtles are commonly encountered resting on or swimming above the coral formations. Napoleon wrasse, grouper, and lionfish occupy the deeper sections, and the sandy patches adjacent to the reef yield the occasional stingray or flatfish.
-
-## Dive Profile
-
-Descend to the reef slope and explore the dramatic coral formations in the mid-depth range of 10–20 meters. The larger brain corals and table corals are distributed across this zone. Continue to 25 meters to check the deeper drop-off sections before working back up the reef. Allow 15–20 minutes on the shallower reef for a relaxed finish and safety stop.
-
-## Entry and Exit
-
-Port Barton dive operators run day trips to Fantastic Reef by bancas (outrigger boats), typically departing in the morning. Entry by giant stride or back roll from the banca; return by ladder or with assistance from the crew. The crossing from Port Barton is short, making this accessible for multiple dives in a day.
-
-## Tips and Recommendations
-
-- Port Barton is far less developed than El Nido — dive here for a more intimate experience
-- Ask your dive operator about current and visibility conditions on the day
-- The impressive brain coral formations deserve close inspection — approach slowly and don't touch
-- Morning is the best time for visibility and calm sea conditions
-- Combining with other Port Barton sites such as Shark Point or the San Telmo Island reefs makes for a full diving day
-
-## Safety Considerations
-
-Port Barton is a quieter destination than El Nido, but dive operators are experienced with local conditions. Currents near the drop-off sections can increase abruptly; maintain awareness of your depth and air. Carry an SMB for the ascent.
-
-## Photography
-
-The large brain coral formations provide spectacular wide-angle subjects, particularly when backlit with natural light from above. Schools of fish hovering above the reef are ideal for blue-water reef photography. Detail shots of the coral textures and resident reef fish are equally productive.
+Schools of fish are reported cruising the site by multiple sources, without species specifics beyond "large variety of fish." One source describes large brain coral formations as a standout feature. No other species could be confirmed as specific to this site; broader Port Barton reef fauna (angelfish, clownfish, grouper, turtles) may be present but is not documented for this exact location.
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*Sources: [Rafs Reef Brief - Port Barton 2025 Coral Condition Report](https://www.rafsreefbrief.com/portbarton), [Spend Life Traveling - Best Snorkeling Spots in Palawan](https://www.spendlifetraveling.com/best-snorkeling-spots-palawan/), [SummerHomes Palawan - Fantastic Reef](https://www.summerhomespalawan.com/fantastic_reef.html). Last updated 2026-08-22.*
