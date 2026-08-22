@@ -19,7 +19,7 @@ An outstanding bommie dive south of Loloata Island at Bootless Bay -- three pinn
 
 Di's Delight is named after local diver Dianne Foster and is widely regarded as one of the premier dive sites in the Port Moresby area. Located on the outside of the barrier reef at Bootless Bay, the site consists of three bommies separated by small canyons, rising from a sandy bottom at 32 metres to within 6 metres of the surface.
 
-The defining feature is the enormous gorgonia sea fans that decorate the bommies -- one specimen measured over four metres across. On incoming tides, the site transforms as large schools of pelagic fish move in: barracuda, trevally, mangrove jacks, and humpheaded wrasse.
+The defining, source-confirmed features are the enormous gorgonia sea fans decorating the bommies -- one specimen measured over four metres across -- and regular sightings of wobbegong sharks resting among the bommies, a signature critter for this exact site per Loloata-area operators. Reports of schooling pelagics (barracuda, trevally, mangrove jacks) on incoming tides are consistent with the site's exposed, current-swept position, though a detailed species count specific to Di's Delight was not independently confirmed.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ The defining feature is the enormous gorgonia sea fans that decorate the bommies
 
 ## Marine Life
 
-The gorgonia fans are the visual centrepiece, with one specimen exceeding four metres across. On incoming tides, large schools of barracuda, trevally, and mangrove jacks patrol the water column. Humpheaded wrasse are regular visitors. The canyon walls shelter anemones with clownfish and transparent shrimp, along with sweetlips, surgeonfish, bannerfish, and groups of red firefish.
+Wobbegong sharks are the confirmed signature species here -- regularly seen resting among the bommies, a distinction Loloata-area sources specifically attribute to this site. The gorgonia fans are the visual centrepiece, with one specimen exceeding four metres across. Schooling pelagics (barracuda, trevally, mangrove jacks) on incoming tides are plausible given the site's exposed position, but were not independently confirmed beyond general Bootless Bay descriptions; treat other reef fish as regional context rather than a confirmed inventory.
 
 ## Dive Profile
 
@@ -47,4 +47,4 @@ Descend from the mooring to the top of the main bommie at approximately 6 metres
 - The canyons between bommies provide shelter from current
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=357), [ProDive PNG – Bootless Bay Sites](https://www.prodivepng.com/), [Indopacific Images – Port Moresby](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/). Last updated 2026-06-25.*
+*Sources: [Best of PNG – Loloata/Tufi Dive Trip](https://www.bestofpng.com/loloata_tufi_dive_trip.html), [ProDive PNG – Bootless Bay Sites](https://www.prodivepng.com/), [Indopacific Images – Port Moresby](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/). Wobbegong sightings and gorgonian size are source-confirmed for this site; other species are regional context. Last updated 2026-08-22.*

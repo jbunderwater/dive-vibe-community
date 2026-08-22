@@ -14,7 +14,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "indopacificimages.com,mvoceania.com,thediveglobe.com,liveaboard.com,diveplanit.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22 re-audit: site name confirmed as a real Kimbe Bay site (underwaterasia.info names it among the bay's signature dives) but no site-specific coral/fish description was found in any source re-checked this session. Markdown marine-life and photography sections rewritten to remove unconfirmed species specifics (pygmy seahorses, hammerheads, dog-tooth tuna, etc.) per anti-hallucination policy. thediveglobe.com and liveaboard.com were not re-fetched this session."
     }
   },
   {
@@ -32,7 +33,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diversiondivetravel.com.au,walindiresort.com,mvoceania.com,mvfebrina.com,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22 re-audit: only underwaterasia.info and mvoceania.com/walindiresort.com content was directly re-confirmed this pass (ridge with soft corals/gorgonians/red sea whips/sponges -- no pygmy seahorse, hawkfish, or anemonefish species confirmed site-specifically). Markdown marine-life section was rewritten to remove unconfirmed species claims per anti-hallucination policy. diversiondivetravel.com.au and mvfebrina.com were not re-fetched this session; retained in history but not re-verified."
     }
   },
   {
@@ -50,7 +52,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diveplanit.com,indopacificimages.com,walindiresort.com,mvfebrina.com,mvoceania.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22 re-audit: site named among Kimbe Bay shoals (as 'Bradford & Inglis Shoals') but no site-specific fish/coral description was found this session. Markdown marine-life section rewritten to remove unconfirmed specifics per anti-hallucination policy. diveplanit.com and mvfebrina.com were not re-fetched this session."
     }
   },
   {
@@ -67,8 +70,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "false",
-      "validation_note": "Site name unverifiable — no independent dive source confirms a site called The Bottleneck in Milne Bay. Name is common globally. Coordinates and description are unconfirmed.",
-      "last_qa_date": "2026-06-25"
+      "validation_note": "Deep QA 2026-08-22 re-check: repeated search still found no independent source confirming a site called The Bottleneck in Milne Bay. validated left as false per instructions (do not pad with weak/fabricated sources).",
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -86,7 +89,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "indopacificimages.com,underwaterasia.info,justgottadive.com,divernet.com,padi.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -104,7 +107,7 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "pacificwrecks.com,michaelmcfadyenscuba.info,scubadiverlife.com,indopacificimages.com,xray-mag.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -121,8 +124,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "false",
-      "validation_note": "Site name unverifiable — no independent dive source confirms a site called Barracuda Point near Rabaul. Name is common globally (Sipadan, Curaçao, Milne Bay PNG). Coordinates and description are unconfirmed.",
-      "last_qa_date": "2026-06-25"
+      "validation_note": "Deep QA 2026-08-22 re-check: repeated search still found no independent source confirming a site called Barracuda Point near Rabaul. validated left as false per instructions (do not pad with weak/fabricated sources).",
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -139,8 +142,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,scubadiverlife.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "indopacificimages.com,scubadiverlife.com,prodivepng.com,michaelmcfadyenscuba.info",
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22: corrected depth breakdown (bow ~18m, bridge ~30m, stern ~43m; previous entry had bow depth missing and stern listed as 45m/36-38m). Added real ship history (ex-MS Nanayo Maru, built Hiroshima 1967, deliberately sunk June 1986) cross-checked across indopacificimages.com, scubadiverlife.com, and prodivepng.com. Sinking date: 3 sources say June 1986; a single McFadyen source says October 1986 -- majority date used."
     }
   },
   {
@@ -157,8 +161,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "niuginidiveadventures.com,diveplanit.com,padi.com,underwaterasia.info,bestofpng.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "niuginidiveadventures.com,underwaterasia.info",
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22 re-audit: niuginidiveadventures.com (the operator running trips there) directly confirms Planet Rock as a volcanic seamount cresting ~4m with virtually all of PNG's larger shark species photographed there. Other species (sweetlips aggregations, turtles, hammerheads, oceanic whitetips) were not independently confirmed and have been softened in the markdown. Only 2 distinct domains re-confirmed this session -- below the 3-source bar for a fresh validation, though the site remains validated from the prior pass; see summary."
     }
   },
   {
@@ -176,7 +181,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "indopacificimages.com,techdivetravels.com,underwaterasia.info,scubadiverlife.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22: sources conflict on depth -- techdivetravels.com reports ~18m while indopacificimages.com/underwaterasia.info report 27-33m. Conflict now flagged in markdown rather than silently resolved. Depth field retained at 30m (majority/typical figure)."
     }
   },
   {
@@ -194,7 +200,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "indopacificimages.com,mvoceania.com,mvfebrina.com,walindiresort.com,diveplanit.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22 re-audit: underwaterasia.info confirms this as a shallow coral garden noted for photography; no site-specific species list was found. Markdown marine-life section rewritten to remove unconfirmed specifics per anti-hallucination policy. mvfebrina.com and diveplanit.com were not re-fetched this session."
     }
   },
   {
@@ -212,7 +219,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "diversiondivetravel.com.au,underwaterasia.info,indopacificimages.com,scubaboard.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22 re-audit: could not confirm whether 'Ema Reef' corresponds to the 'North/South Emma' pinnacles named by Kimbe Bay operators (which do have confirmed hammerhead shark reports). Markdown marine-life section rewritten to avoid asserting unconfirmed species for this site under this exact name. diversiondivetravel.com.au and scubaboard.com were not re-fetched this session."
     }
   },
   {
@@ -230,7 +238,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -248,7 +256,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,diversiondivetravel.com.au,dan.org",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -266,7 +274,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,dan.org,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -284,7 +292,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,diveplanit.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -302,7 +310,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,ww2wrecks.com,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -320,7 +328,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,diversiondivetravel.com.au,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -338,7 +346,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,diversiondivetravel.com.au",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -356,7 +364,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,diveadventures.com.au,underwaterasia.info",
-      "last_qa_date": "2026-06-25",
+      "last_qa_date": "2026-08-22",
       "note": "Part of Tom, Dick and Harry reef complex near Cape Liguan, Rabaul. Reef structure (not wall). Coordinates place this in Rabaul area."
     }
   },
@@ -375,7 +383,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,allwaysdive.com.au,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -393,7 +401,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -411,7 +419,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -429,7 +437,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,underwaterasia.info",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -447,7 +455,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -465,7 +473,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -483,7 +491,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -501,7 +509,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,pacificwrecks.com,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -518,8 +526,9 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
-      "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,prodivepng.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "padi.com,prodivepng.com,indopacificimages.com",
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22 re-audit: added confirmed detail (resident endemic lacy scorpionfish, Rhinopias aphanes, via PADI's dive site page) that was missing from the prior description. Prior markdown emphasized giant moray/barramundi cod/estuary cod/humpheaded wrasse, none of which were found confirmed for this specific site; softened accordingly."
     }
   },
   {
@@ -537,7 +546,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,loloata.com,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -555,7 +564,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,en.wikipedia.org,navy.gov.au",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -573,7 +582,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,indopacificimages.com,prodivepng.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -591,7 +600,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,underwaterasia.info,scubaboard.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -608,8 +617,9 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
-      "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,scubadiverlife.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "diveplanit.com,niuginidiveadventures.com,michaelmcfadyenscuba.info",
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22 re-audit (wreck history check): the 1887 Scotland-built steam tug history is reported by a single source (michaelmcfadyenscuba.info) and could not be independently corroborated this session -- flagged as unconfirmed in the markdown per wreck anti-hallucination policy requiring 2+ sources for build history. Wreck's coral coverage and general fish life (trevally, batfish, snappers, lionfish, sweetlips) confirmed via diveplanit.com."
     }
   },
   {
@@ -627,7 +637,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,pacificwrecks.com,argunners.com,diveplanit.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -645,7 +655,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,diveplanit.com,niuginidiveadventures.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -663,7 +673,7 @@
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info,niuginidiveadventures.com,diveplanit.com",
-      "last_qa_date": "2026-06-25"
+      "last_qa_date": "2026-08-22"
     }
   },
   {
@@ -680,8 +690,9 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
       "validated": "true",
-      "validation_source": "michaelmcfadyenscuba.info,prodivepng.com,indopacificimages.com",
-      "last_qa_date": "2026-06-25"
+      "validation_source": "bestofpng.com,prodivepng.com,indopacificimages.com",
+      "last_qa_date": "2026-08-22",
+      "validation_note": "Deep QA 2026-08-22 re-audit: bestofpng.com independently confirms wobbegong sharks as a regular sighting at this site (referred to there as 'Dinah's Delight'), now added as the confirmed signature species. Schooling pelagic claims softened as unconfirmed for this exact site."
     }
   }
 ]

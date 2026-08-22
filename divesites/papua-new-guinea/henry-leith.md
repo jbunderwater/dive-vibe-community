@@ -17,7 +17,7 @@ A Scottish-built steam tug from 1887, scuttled in Nagada Harbour near Madang -- 
 
 ## Overview
 
-The Henry Leith is a 32-meter steam tug built in Scotland in 1887. After a remarkably long working life, the vessel was sailed from Sydney to Papua New Guinea in 1968-69, where she continued service before being scuttled as a dive site off Wangat Island in Nagada Harbour, near Madang. At just 20 meters maximum depth, the wreck is accessible to divers of all experience levels. Over the decades, the Henry Leith has been colonized by a lush covering of soft corals, sea whips, gorgonian sea fans, sponges, and anemones, transforming her from a working vessel into an underwater garden. Firefish (lionfish), coral trout, and trevally are among the resident marine life. The wreck's manageable depth and rich coral coverage make it one of Madang's most photogenic dives.
+The Henry Leith rests in the calm waters of Nagada Harbour off Wangat Island, near Madang. One detailed source (Michael McFadyen's dive site records) describes her as a 32-meter steam tug built in Scotland in 1887 that was sailed from Sydney to Papua New Guinea in 1968-69 before being scuttled as a dive site -- this specific build history has not been independently corroborated by a second source, so treat the exact date and origin as reported rather than fully confirmed. What is confirmed across multiple sources is the wreck's character: at a maximum of 20 meters, it is accessible to divers of all experience levels, and it is completely overgrown with corals -- large black coral trees, soft corals, gorgonian sea fans, and forests of sea whips -- transforming her into an underwater garden. Trevally, batfish, snappers, lionfish, and sweetlips are reported residents.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Henry Leith is a 32-meter steam tug built in Scotland in 1887. After a remar
 
 ## Marine Life
 
-The wreck's dense coral coverage supports diverse marine life. Soft corals in multiple colours drape the superstructure. Sea whips and gorgonian sea fans extend from the hull and deck structures. Large sponges and anemones (with resident clownfish) add variety. Firefish (lionfish) shelter in shaded areas. Coral trout and trevally patrol around the wreck. The combination of a heavily encrusted wreck at shallow depth creates a living reef structure that attracts a broad range of tropical species.
+The wreck's dense coral coverage supports diverse marine life: large black coral trees, soft corals in multiple colours, sea whips, and gorgonian sea fans drape the superstructure. Trevally, batfish, snappers, lionfish, and sweetlips are reported around the wreck by dive shop sources. The combination of a heavily encrusted wreck at shallow depth creates a living reef structure that attracts a broad range of tropical species.
 
 ## Dive Profile
 
@@ -55,4 +55,4 @@ Access is by dive boat from Madang-based operators, a short ride to Wangat Islan
 This is a benign wreck dive suitable for all certification levels. The shallow depth eliminates decompression concerns for reasonable dive durations. Current is typically mild within the harbour. Maintain buoyancy control to avoid damaging the extensive coral growth on the wreck. The vessel is historic -- do not remove any artifacts.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=485), [DivePlanit – Henry Leith](https://www.diveplanit.com/), [Scuba Diver Life PNG](https://scubadiverlife.com/). Last updated 2026-06-25.*
+*Sources: [DivePlanit – Henry Leith](https://www.diveplanit.com/dive-site/henry-leith/), [Niugini Dive Adventures – Dive Sites](https://www.niuginidiveadventures.com/dive-sites). The 1887 Scotland-built steam tug history is reported by a single detailed source (Michael McFadyen's Scuba Diving Web Site) and has not been independently corroborated; treated as reported rather than confirmed above. Last updated 2026-08-22.*

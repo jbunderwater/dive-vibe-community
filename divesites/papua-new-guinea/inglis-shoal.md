@@ -17,7 +17,7 @@ Inglis Shoal is a shallow seamount in Kimbe Bay, West New Britain, Papua New Gui
 
 ## Overview
 
-Inglis Shoal is a broad, flat-topped seamount that crests at around 3-5 meters below the surface, making it one of the shallower pinnacle dives in Kimbe Bay. The shallow summit supports a thriving hard coral garden — massive Porites heads, staghorn thickets, and table corals in excellent condition — that gives way to sloping rubble and sand on the flanks. The shoal's position in open water makes it a magnet for schooling fish: dense aggregations of yellowfin goatfish, surgeonfish, and snappers move across the top, while bigeye trevally school in the water column above. Grey reef sharks and whitetip reef sharks are regular visitors, often seen cruising the reef edge. When tidal currents run, pelagic fish push in from the open bay — including barracuda, dog-tooth tuna, and occasionally wahoo. The shoal's shallowness means long bottom times and excellent natural light for photography.
+Inglis Shoal (sometimes listed by operators as "Bradford & Inglis Shoals") is one of the named pinnacle/seamount sites Kimbe Bay operators group with Susan's Reef, Fathers Reef, and the Emma pinnacles. Its shallow summit (this dataset lists a 14-meter maximum depth) is consistent with it being one of the shallower shoal dives in the bay. Available sources name the site but do not provide a detailed description of its coral cover or fish aggregations specific to Inglis Shoal. Kimbe Bay's shoals and seamounts in general are known for schooling reef fish and reef sharks on the current-exposed sides, and that broad regional pattern likely applies here -- but has not been confirmed site-specifically.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Inglis Shoal is a broad, flat-topped seamount that crests at around 3-5 meters b
 
 ## Marine Life
 
-Schooling barracuda, bigeye trevally, grey reef sharks, whitetip reef sharks, surgeonfish, yellowfin goatfish, snappers, Napoleon wrasse. Hard coral coverage on the summit is notably healthy. Reef fish density is high throughout. Pelagic visits (tuna, wahoo) occur with stronger currents.
+No site-specific marine life survey for Inglis Shoal was found in available sources. Kimbe Bay's shallow seamounts generally support schooling reef fish and occasional reef sharks on incoming current, which likely applies here, but individual species have not been confirmed as sighted at this specific shoal. Ask your dive guide for current, site-specific reports.
 
 ## Dive Profile
 
@@ -55,7 +55,7 @@ The shoal's open-water position means currents can be strong and unpredictable. 
 
 ## Photography
 
-The shallow clear water of Inglis Shoal provides excellent natural light throughout the dive. Wide-angle shots of shark and trevally silhouettes against the bright surface are the signature images. The hard coral summit makes a beautiful foreground for fish portrait shots. Bring a dome port for the best results.
+The shallow depth (14 meters max) should provide good natural light for wide-angle work, consistent with other shallow Kimbe Bay shoals. No site-specific photography notes for Inglis Shoal were found; treat specific subjects as opportunistic rather than guaranteed.
 
 ---
-*Sources: [DivePlanit – Inglis Shoal](https://www.diveplanit.com/), [Indopacific Images – Kimbe Bay](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [MV FeBrina – Kimbe Bay](https://www.mvfebrina.com/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/). Last updated 2026-06-25.*
+*Sources: [underwaterasia.info – Kimbe Bay Diving](https://underwaterasia.info/papua-new-guinea/kimbe-bay-diving), [Walindi Plantation Resort – Dive Sites](https://www.walindiresort.com/diving/), [MV Oceania – Kimbe Bay](https://www.mvoceania.com/). Site-specific marine life inventory for Inglis Shoal was not found; the description above notes this explicitly. Last updated 2026-08-22.*
