@@ -33,7 +33,7 @@ Mona Island lies at the midpoint of the Mona Passage, 67 kilometres west of Maya
 
 ## Marine Life
 
-Mona Island's protected status and remote location produce marine life encounter rates described as exceptional by operators who run expeditions there. Caribbean reef sharks are documented at the wall sites. The smaller islet of Monita nearby is described by CaribbeanDiveGuide as a drift dive around an open-ocean pinnacle "swarmed by sharks and other big pelagics." Cubera snapper and groupers are characteristic of the deeper wall sections. Hawksbill and leatherback turtles are confirmed nesters on Mona's beaches. Black coral, gorgonian sea fans, and sponge communities are documented on the wall. Note: hammerhead shark sightings and manta ray encounters are mentioned in some accounts of Mona diving but are not confirmed by multiple independent named sources; these should be treated as possible rather than expected encounters.
+Mona Island's protected status and remote location produce marine life encounter rates described as exceptional by operators who run expeditions there. Caribbean reef sharks are documented at the wall sites. The smaller islet of Monita nearby is described by CaribbeanDiveGuide as a drift dive around an open-ocean pinnacle "swarmed by sharks and other big pelagics." Cubera snapper and groupers are characteristic of the deeper wall sections. Hawksbill and leatherback turtles are confirmed nesters on Mona's beaches. Black coral, gorgonian sea fans, and sponge communities are documented on the wall. Manta and eagle rays are reported passing divers on descent, per Scuba Diving Magazine's site-specific coverage of Mona Island. Hammerhead shark sightings are mentioned in some general accounts of Mona diving but were not confirmed by any site-specific source in this re-audit — treat hammerhead encounters as unconfirmed for this site rather than expected.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ The remote location means any diving incident is a serious logistical challenge.
 
 ## Photography
 
-Mona Island is Puerto Rico's finest diving photography destination. The combination of pristine reef, exceptional visibility, and high-density large animal encounters makes it the best opportunity in Puerto Rico for wide-angle pelagic photography. Hammerhead shark encounters, clean wall faces in 30+ metre visibility, and manta ray passes are the signature images available nowhere else in Puerto Rican waters.
+Mona Island is Puerto Rico's finest diving photography destination. The combination of pristine reef, exceptional visibility, and high-density large animal encounters makes it the best opportunity in Puerto Rico for wide-angle pelagic photography. Manta and eagle ray passes, clean wall faces in 30+ metre visibility, and the Monita pinnacle's pelagic activity are the signature images available nowhere else in Puerto Rican waters.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Mona Island is Puerto Rico's finest diving photography destination. The combinat
 - Taíno Divers (Rincón) and Caribbean Divers (Aguadilla): organise occasional multi-day Mona expeditions
 
 ---
-*Sources: [Carib Dive Guide – West Coast & Mona Island](http://www.caribdiveguide.com/PR_Area_5.htm), [ScubaBoard – Diving Puerto Rico and Mona Island](https://scubaboard.com/community/threads/diving-puerto-rico-and-mona-island.548600/), [Juliet Sailing and Diving – Mona Island](https://julietsailinganddiving.com/mona-island/), [Scuba Diving Magazine – Puerto Rico Mona Island](https://www.scubadiving.com/travel/caribbean-atlantic/new-caribbean-puerto-rico-mona-island). Last updated 2026-06-26.*
+*Sources: [Carib Dive Guide – West Coast & Mona Island](http://www.caribdiveguide.com/PR_Area_5.htm), [ScubaBoard – Diving Puerto Rico and Mona Island](https://scubaboard.com/community/threads/diving-puerto-rico-and-mona-island.548600/), [Juliet Sailing and Diving – Mona Island](https://julietsailinganddiving.com/mona-island/), [Scuba Diving Magazine – Puerto Rico Mona Island](https://www.scubadiving.com/travel/caribbean-atlantic/new-caribbean-puerto-rico-mona-island). Re-audited 2026-08-23: manta ray sightings now source-confirmed for this site; hammerhead shark claim removed as no site-specific source was found to confirm it. Last updated 2026-08-23.*

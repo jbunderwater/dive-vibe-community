@@ -61,4 +61,4 @@ Crash Boat Beach is one of Puerto Rico's best natural-light photography sites. M
 - The beach has free public parking and facilities
 
 ---
-*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Scuba Diving Magazine – Puerto Rico DIY Guide](https://www.scubadiving.com/puerto-rico-diy-dive-guide-rincon-and-aguadilla). Last updated 2026-06-26.*
+*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Scuba Diving Magazine – Puerto Rico DIY Guide](https://www.scubadiving.com/puerto-rico-diy-dive-guide-rincon-and-aguadilla). Re-audited 2026-08-23: all claims re-checked against current sources, no corrections needed. Last updated 2026-08-23.*

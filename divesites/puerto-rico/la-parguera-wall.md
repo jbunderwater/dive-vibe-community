@@ -33,7 +33,7 @@ La Parguera Wall is the defining dive feature of Puerto Rico's southwest coast, 
 
 ## Marine Life
 
-The La Parguera Wall supports productive marine life at depth. Large green moray eels are a consistent feature, particularly at Old Buoy and similar sloping sections. Huge snappers and eagle rays have been documented on the wall by Paradise Scuba operators. Ocean triggerfish, French angelfish, and creole wrasse are common in the mid-water zones. Wire coral, deep-water barrel sponges, and black coral cover the deeper wall sections. Hawksbill turtles and manatees have been reported on the shallower outer reef. The site description of "Caribbean reef sharks" in the water column reflects what is typical of Caribbean walls at this depth but has not been confirmed by a named site-specific source for La Parguera Wall specifically.
+The La Parguera Wall supports productive marine life at depth. Large green moray eels are a consistent feature, particularly at Old Buoy and similar sloping sections. Huge snappers and eagle rays have been documented on the wall by Paradise Scuba operators. Ocean triggerfish, French angelfish, and creole wrasse are common in the mid-water zones. Wire coral, deep-water barrel sponges, and black coral cover the deeper wall sections. Hawksbill and green sea turtles are reported along the wall. Caribbean reef sharks cruising in the depths below the dive are a regular feature of La Parguera Wall specifically, per Ocean Wide Explorers and other operator dive guides to the site.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ La Parguera Wall is Puerto Rico's best advanced wall photography site. The combi
 - Paradise Scuba (Lajas area): regular wall dive operations from La Parguera
 
 ---
-*Sources: [Paradise Scuba – La Parguera Dive Sites](https://www.paradisescubasnorkelingpr.com/puerto-rico-dive-sites/), [PRDayTrips – La Parguera Wall Dive](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [Zentacle – Parguera's Wall](https://www.zentacle.com/Beach/5914/pargueras-wall), [Carib Dive Guide – La Parguera](http://www.caribdiveguide.com/PR_Area_4.htm). Last updated 2026-06-26.*
+*Sources: [Paradise Scuba – La Parguera Dive Sites](https://www.paradisescubasnorkelingpr.com/puerto-rico-dive-sites/), [PRDayTrips – La Parguera Wall Dive](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [Zentacle – Parguera's Wall](https://www.zentacle.com/Beach/5914/pargueras-wall), [Carib Dive Guide – La Parguera](http://www.caribdiveguide.com/PR_Area_4.htm), [Ocean Wide Explorers – Diving the Wall, La Parguera](https://oceanwideexplorers.com/scuba-diving-the-wall-la-parguera/). Re-audited 2026-08-23: Caribbean reef shark sightings at this specific wall are now source-confirmed (previously flagged as unconfirmed). Last updated 2026-08-23.*

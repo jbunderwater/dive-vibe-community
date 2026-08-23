@@ -33,7 +33,7 @@ Humacao Reef lies in the waters off the east coast of Puerto Rico near the Humac
 
 ## Marine Life
 
-The east coast's lower dive traffic produces a marine community that is less habituated to divers, creating more naturalistic encounters. Hawksbill turtles are regularly seen on the reef, feeding on sponges. Large parrotfish and queen triggerfish are prominent. Southern stingrays traverse the sandy corridors between reef sections. Caribbean spiny lobster shelter in the deeper reef crevices. Schools of creole wrasse and French grunts are abundant throughout the reef zone.
+No source specific to this exact site ("Humacao Reef" as a named location) was found confirming individual species here. Nearby, distinctly-named east-coast Humacao sites documented by operators — including Islands in the Sand (manta rays, lobsters, moray eels) and The Retreat (reef sharks) — indicate the general character of diving in this area, but those reports cannot be attributed to this specific reef without confirming they refer to the same location. Puerto Rico's east coast reefs broadly support the regional Caribbean reef fauna typical of the area (parrotfish, snappers, grunts, turtles, rays), but no site-specific marine-life reports for this exact site were found in this audit.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ East coast exposure can produce stronger surge and current than the sheltered we
 
 ## Photography
 
-The east coast's clear water and less-disturbed reef make Humacao a productive site for natural-light reef photography. Turtle encounters over the brain coral formations, stingray portraits on sandy corridors, and school-of-fish compositions are the main subjects.
+The east coast's clear water and less-disturbed reef make Humacao a generally productive area for natural-light reef photography, though no site-specific photography reports for this exact reef were found in this audit.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ The east coast's clear water and less-disturbed reef make Humacao a productive s
 - The east coast has fewer operators than the west — book ahead as capacity is limited
 
 ---
-*Sources: [Jen There Done That – Scuba Dive Palmas del Mar](https://jentheredonethat.com/scuba-dive-palmas-del-mar-puerto-rico/), [PRDayTrips – Puerto Rico Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Discovering Puerto Rico – Scuba Diving](https://www.discoveringpuertorico.com/scuba-diving-in-puerto-rico/). No site-specific sources found for "Humacao Reef" as a named dive site; description based on east coast reef character documented by Palmas del Mar area operators. Last updated 2026-06-26.*
+*Sources: [Jen There Done That – Scuba Dive Palmas del Mar](https://jentheredonethat.com/scuba-dive-palmas-del-mar-puerto-rico/), [PRDayTrips – Puerto Rico Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Discovering Puerto Rico – Scuba Diving](https://www.discoveringpuertorico.com/scuba-diving-in-puerto-rico/), [PuertoRico.com – 30 Best Scuba Diving Sites in Puerto Rico](https://www.puertorico.com/dive-sites). No site-specific sources found for "Humacao Reef" as a named dive site; description based on east coast reef character documented by Palmas del Mar area operators. Re-audited 2026-08-23: marine life list stripped to remove species not confirmed at this specific site (see Anti-Hallucination Policy). Last updated 2026-08-23.*

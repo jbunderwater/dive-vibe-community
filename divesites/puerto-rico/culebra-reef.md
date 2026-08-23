@@ -61,4 +61,4 @@ Culebra's clear water, healthy reef, and active marine life make it Puerto Rico'
 - Fajardo ferry: regular service connects Culebra to the main island for visiting divers
 
 ---
-*Sources: [PADI – Carlos Rosario Wall](https://www.padi.com/dive-site/puerto-rico/carlos-rosario-wall/), [Aqua Adventure – Scuba Diving in Culebra](https://www.aquaadventurepr.com/our-adventures/charter-destinations/scuba-diving-sites/scuba-diving-in-culebra/), [Culebra Divers](https://culebradivers.com/), [PRDayTrips – Culebra Snorkeling](https://www.puertoricodaytrips.com/culebra-snorkeling/). Last updated 2026-06-26.*
+*Sources: [PADI – Carlos Rosario Wall](https://www.padi.com/dive-site/puerto-rico/carlos-rosario-wall/), [Aqua Adventure – Scuba Diving in Culebra](https://www.aquaadventurepr.com/our-adventures/charter-destinations/scuba-diving-sites/scuba-diving-in-culebra/), [Culebra Divers](https://culebradivers.com/), [PRDayTrips – Culebra Snorkeling](https://www.puertoricodaytrips.com/culebra-snorkeling/). Re-audited 2026-08-23: all claims re-checked against current sources, no corrections needed. Last updated 2026-08-23.*

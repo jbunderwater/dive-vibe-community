@@ -61,4 +61,4 @@ Mosquito Pier is one of Puerto Rico's best macro photography sites. The richly e
 - Blackbeard Sports (Vieques): regular pier dive operations
 
 ---
-*Sources: [Black Beard Sports – Fun Dives Vieques](https://www.blackbeardsports.com/fun-dives-vieques), [SevenSeas Media – Vieques Dive Sites](https://sevenseasmedia.org/vieques-puerto-rico-and-the-two-dive-sites-you-cannot-miss/), [Vieques.com – Scuba Diving](https://vieques.com/island-puerto-rico-scuba-diving/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/). Last updated 2026-06-26.*
+*Sources: [Black Beard Sports – Fun Dives Vieques](https://www.blackbeardsports.com/fun-dives-vieques), [SevenSeas Media – Vieques Dive Sites](https://sevenseasmedia.org/vieques-puerto-rico-and-the-two-dive-sites-you-cannot-miss/), [Vieques.com – Scuba Diving](https://vieques.com/island-puerto-rico-scuba-diving/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/). Re-audited 2026-08-23: goliath grouper and manatee claims independently re-confirmed. Last updated 2026-08-23.*

@@ -17,7 +17,7 @@ A shallow shore dive at one of Vieques Island's most beautiful beaches — a gen
 
 ## Overview
 
-Blue Beach (Playa Azul) is one of the series of beaches on Vieques Island's south coast within the former US Navy bombing range land that is now administered as a National Wildlife Refuge. The beach itself is considered one of Vieques' most beautiful — broad, tree-backed, with typically calm south-facing conditions. The reef offshore begins just metres from the shoreline and extends to 8 metres depth, featuring a mix of rocky reef sections, coral formations, and seagrass beds. The protection of the National Wildlife Refuge status and the lower visitor traffic compared to mainland Puerto Rico have allowed the reef and marine life to remain in good health. Visibility averages 15–25 metres. Water temperature is 26–28°C.
+Blue Beach — locally known as La Chiva Beach or Bahía de la Chiva, with "Blue Beach" originating as a US Navy-era nickname — is one of the series of beaches on Vieques Island's south coast within the former US Navy bombing range land that is now administered as a National Wildlife Refuge. The beach itself is considered one of Vieques' most beautiful — broad, tree-backed, with typically calm south-facing conditions. The reef offshore begins just metres from the shoreline and extends to 8 metres depth, featuring a mix of rocky reef sections, coral formations, and seagrass beds. The protection of the National Wildlife Refuge status and the lower visitor traffic compared to mainland Puerto Rico have allowed the reef and marine life to remain in good health. Visibility averages 15–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ Blue Beach's calm, shallow water and reliable turtle encounters make it a simple
 - US Fish and Wildlife Service Vieques National Wildlife Refuge: administers access to the east end beaches
 
 ---
-*Sources: [Vieques.com – Snorkeling](https://vieques.com/island-puerto-rico-snorkeling/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Pure Adventure PR – Vieques Snorkel Tour](https://pureadventurepr.com/tour/vieques-island-snorkel-beach-tour/). Last updated 2026-06-26.*
+*Sources: [Vieques.com – Snorkeling](https://vieques.com/island-puerto-rico-snorkeling/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Pure Adventure PR – Vieques Snorkel Tour](https://pureadventurepr.com/tour/vieques-island-snorkel-beach-tour/), [Wikipedia – Blue Beach (Vieques)](https://en.wikipedia.org/wiki/Blue_Beach_(Vieques)). Re-audited 2026-08-23: corrected the beach's alternate name from the earlier, unverified "Playa Azul" to the confirmed local names La Chiva Beach / Bahía de la Chiva. Last updated 2026-08-23.*
