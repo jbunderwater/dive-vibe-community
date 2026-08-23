@@ -47,4 +47,4 @@ Descend to the reef and locate the swim-through at around 15 meters. The tunnel 
 - Wide-angle lenses capture the schooling jacks best
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1050). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1050), [Capt'n Gregg's Dive Site Chart](https://captngreggs.ph/dive-sites), [Action Divers Dive Sites](https://www.actiondivers.com/dive-sites.html). Last updated 2026-08-23.*

@@ -17,7 +17,7 @@ A scuttled small floating dry dock resting at 25-30 meters off Scandi Dive Resor
 
 ## Overview
 
-The Dry Dock is a small floating dry dock, roughly 40 meters long and 20 meters wide, that was deliberately scuttled off Scandi Dive Resort to create an artificial reef. Sitting at 25-30 meters depth, the structure has developed a healthy coating of sponges and gorgonian sea fans. Adding to the site's quirky character, beer-bottle crates have been placed nearby as additional artificial reef substrate, and these too have attracted coral growth and marine life. The shallower water above the wreck offers a pleasant finish to the dive, with turtles frequently seen during ascent.
+The Dry Dock is a small steel-and-plywood floating dry dock, roughly 40 meters long and 20 meters wide, originally built to lift small boats out of the water for maintenance. It was deliberately scuttled off Scandi Dive Resort in 1998 to create an artificial reef. Sitting at 25-30 meters depth, the structure has developed a healthy coating of sponges and gorgonian sea fans. Adding to the site's quirky character, beer-bottle crates have been placed nearby as additional artificial reef substrate, and these too have attracted coral growth and marine life. The shallower water above the wreck offers a pleasant finish to the dive, with turtles frequently seen during ascent.
 
 ## Site Information
 
@@ -46,4 +46,4 @@ Descend to the dry dock at 25-30 meters and explore the exterior, checking spong
 - Bottom time at 25-30 meters is limited, so plan your deeper exploration first
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1062). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1062), [Action Divers Dive Sites](https://www.actiondivers.com/dive-sites.html), [PADI Dive Site: Dry Dock](https://www.padi.com/dive-site/philippines/dry-dock/). Last updated 2026-08-23.*

@@ -46,4 +46,4 @@ Descend to the scuttled steel vessel at 24 meters first, exploring the small wre
 - A torch helps reveal nudibranchs in the shadows under the overhang
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1058). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1058), [Capt'n Gregg's Dive Site Chart](https://captngreggs.ph/dive-sites), [Action Divers Dive Sites](https://www.actiondivers.com/dive-sites.html), [PADI Dive Site: Ernie's Cave](https://www.padi.com/dive-site/philippines/ernies-cave/). Last updated 2026-08-23.*

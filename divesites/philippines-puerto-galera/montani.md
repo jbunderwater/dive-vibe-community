@@ -17,7 +17,7 @@ A shallow muck drift dive through the Puerto Galera channel with extraordinary m
 
 ## Overview
 
-Montani is a shallow drift dive in the Puerto Galera channel that epitomises muck diving at its finest. The bottom is predominantly sand with coral rubble and a submerged water pipe that acts as artificial habitat, attracting a remarkable concentration of macro life. Despite the unassuming terrain, patient divers will find an extraordinary diversity of critters -- nudibranchs, pipefish, gobies perched on sponges, cowfish, banded sea snakes, dancing shrimp, and flatworms. The shallow maximum depth of 14 meters means extended bottom times are possible; one visiting diver logged an 81-minute dive here. Montani is suitable for beginners and is an excellent introduction to muck diving.
+Montani is a shallow drift dive in the Puerto Galera channel that epitomises muck diving at its finest. The bottom is predominantly sand with coral rubble and a submerged water pipe that acts as artificial habitat, attracting a remarkable concentration of macro life. Despite the unassuming terrain, patient divers will find an extraordinary diversity of critters -- nudibranchs, pipefish, gobies perched on sponges, cowfish, banded sea snakes, dancing shrimp, and flatworms. Depth reports vary by source: a detailed dive log records a maximum of 14 meters, while at least one dive-site database lists depths to around 18 meters, so treat the deeper figure as an occasional maximum rather than the typical profile. The shallow depth means extended bottom times are possible; one visiting diver logged an 81-minute dive here. Montani is suitable for beginners and is an excellent introduction to muck diving, and is also rated as one of the area's best night/muck dives.
 
 ## Site Information
 
@@ -48,4 +48,4 @@ Enter from shore and drift gently with the current through the channel. The maxi
 - Suitable for beginners, but the macro life rewards experienced eyes
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1064). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1064), [Casalay: Muck Diving in Puerto Galera](https://casalay.ph/2024/06/muck-diving-in-puerto-galera-philippines/), [PADI Dive Site: Montani Bay](https://www.padi.com/dive-site/philippines/montani-bay/). Last updated 2026-08-23.*

@@ -3,7 +3,7 @@ name: Wall Street
 lat: 8.8583
 lng: 119.875
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 50
 entryType: liveaboard
 siteType: wall
 ref: null

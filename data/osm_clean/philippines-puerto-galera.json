@@ -8,12 +8,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,padi.com",
     "tags": {
       "name": "Boulders",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: cross-checked against captngreggs.ph and padi.com. Recreational max depth confirmed ~30m at the base of the boulder slope; PADI lists the formation continuing to ~50m for technical/deep-diver training, noted in markdown as a source discrepancy rather than changing the recreational depth field."
     }
   },
   {
@@ -25,12 +27,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,actiondivers.com,padi.com",
     "tags": {
       "name": "Dry Dock",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: padi.com corroborates the structure as a scuttled steel-and-plywood boat-lifting dry dock sunk in 1998 as an artificial reef, consistent with McFadyen's description. Added construction year (1998) to markdown, sourced to PADI."
     }
   },
   {
@@ -42,12 +46,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,actiondivers.com,padi.com",
     "tags": {
       "name": "Dungon Wall",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: content confirmed consistent across michaelmcfadyenscuba.info, captngreggs.ph, actiondivers.com, and padi.com (wall depth, pygmy seahorses, lionfish, moray eels). No corrections needed."
     }
   },
   {
@@ -59,12 +65,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,actiondivers.com,padi.com",
     "tags": {
       "name": "Ernies Cave",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: confirmed consistent across 4 sources. padi.com describes the reef/overhang but does not mention the small scuttled steel vessel (Monkey Wreck) noted by McFadyen; kept as an additive, single-sourced detail since it does not conflict with other sources."
     }
   },
   {
@@ -76,12 +84,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,zentacle.com,padi.com",
     "tags": {
       "name": "Fantasea",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: the Rhinopias frondosa (weedy scorpionfish) sighting is reported only by michaelmcfadyenscuba.info (a first-hand dive log) and could not be corroborated by a second independent source, so markdown language was softened to attribute it as a single diver's report rather than a site 'reputation'. zentacle.com independently confirms gorgonians and pygmy seahorses at this site, added to marine life section."
     }
   },
   {
@@ -93,12 +103,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,actiondivers.com",
     "tags": {
       "name": "Hole in the Wall",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: confirmed against captngreggs.ph and actiondivers.com. Note: a padi.com page with this exact name returned an unrelated dive site in Fujairah, UAE and was discarded as a mismatched result, not used as a source."
     }
   },
   {
@@ -110,12 +122,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,actiondivers.com,paparazsea.com",
     "tags": {
       "name": "Kilima",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: thresher shark sightings at Kilima corroborated by paparazsea.com (independent dive-report blog documenting regular thresher encounters at Kilima Steps/Drift, seasonal around Feb-March) in addition to McFadyen's own sighting."
     }
   },
   {
@@ -127,12 +141,14 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,casalay.ph,padi.com",
     "tags": {
       "name": "Montani",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: casalay.ph confirms this is a shallow muck/night-dive site across the bay, consistent with McFadyen. padi.com lists a maximum depth of ~18m versus McFadyen's directly logged 14m; both are noted in the markdown as a source discrepancy. Depth field left at 14m per the more detailed primary dive-log source."
     }
   },
   {
@@ -144,12 +160,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,asiadivesite.com,badladz.com,padi.com",
     "tags": {
       "name": "MV Alma Jane",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Deep wreck-history research 2026-08-23: no Wikipedia article exists for this vessel. Cross-checked vessel facts (60 tons, ~32m steel-hulled Filipino cargo vessel, built Japan 1966, deliberately sunk March 2003 off Small La Laguna Beach) across two independent dive-specific sources (asiadivesite.com and badladz.com), which agree on these figures; michaelmcfadyenscuba.info independently confirms a ~30m coastal freighter scuttled upright with twin engines removed. No sinking-cause claims fabricated beyond 'deliberately scuttled to create a dive site'."
     }
   },
   {
@@ -166,7 +184,9 @@
       "name": "Sabang Bay West",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: re-pulled michaelmcfadyenscuba.info and confirmed the markdown still matches (two inverted aluminium boats, sandy bottom with coral, ~7-22m depth). Could NOT find a second or third independent source specifically describing this site under this name or its aluminium-boat feature -- generic 'Sabang Bay' pages on padi.com and elsewhere describe the broader bay without matching these specifics. Left validated as-is per deep-QA policy (do not pad with weak sources); flagged as unresolved for the 3-source requirement."
     }
   },
   {
@@ -178,12 +198,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,casalay.ph,badladz.com,diveplanit.com",
     "tags": {
       "name": "Sabang Bay Wrecks",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: corrected 'black giant anglerfish' to 'black giant frogfish' -- casalay.ph, badladz.com and diveplanit.com all independently describe giant frogfish (not anglerfish) as a signature find on the Sabang Wrecks yacht; McFadyen's original term was colloquial (frogfish are anglerfish-order fish) but frogfish is the term used consistently by every other source. Peacock razorfish is reported only by McFadyen and kept as a single-sourced note."
     }
   },
   {
@@ -195,12 +217,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,actiondivers.com,padi.com",
     "tags": {
       "name": "Sabang Point",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: padi.com independently confirms pygmy seahorses on fan corals and blue ribbon eels on sandy patches at this site; added to marine life section. Core profile (turtles, garden eels, pufferfish) confirmed across 4 sources."
     }
   },
   {
@@ -212,12 +236,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com,scubadiving.place,asiadivesite.com",
     "tags": {
       "name": "Shark Cave",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: confirmed across 4 sources. Sources disagree on whether white-tip reef sharks are still regularly present -- McFadyen (his visit) reports none seen despite the name, while asiadivesite.com describes the cavern as historically housing white-tip reef sharks. Markdown updated to reflect both: the site was named for sharks once denning in the overhang, but sightings are inconsistent/no longer reliable."
     }
   },
   {
@@ -229,12 +255,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,actiondivers.com,paparazsea.com",
     "tags": {
       "name": "Sinandigan Wall",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: thresher shark reports corroborated by paparazsea.com, which documents the Sinandigan-Kilima wall stretch as a recurring thresher shark location (seasonal, notably around February-March). McFadyen did not personally see one but reported others had 'seen recently' -- language kept cautious in markdown."
     }
   },
   {
@@ -246,14 +274,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,actiondivers.com,deluna-diving.com",
     "tags": {
       "name": "The Canyons",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Corrected site_type from reef to drift: site is defined by strong currents sweeping through canyon formations; drift is the primary characteristic per Michael McFadyen's site description."
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Corrected site_type from reef to drift: site is defined by strong currents sweeping through canyon formations; drift is the primary characteristic per Michael McFadyen's site description. Re-audited 2026-08-23: canyon depths, jack schools, and old Admiralty anchor confirmed across captngreggs.ph, actiondivers.com and deluna-diving.com. Whale shark sighting remains a single secondhand report (McFadyen: 'people saw a whale shark on this dive') and is kept phrased as an occasional/rare occurrence, not a reliable encounter."
     }
   },
   {
@@ -265,12 +293,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,actiondivers.com,padi.com",
     "tags": {
       "name": "West Escareo",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: confirmed against captngreggs.ph, actiondivers.com and padi.com (listed there as 'West Escarceo', an alternate spelling of the same site). Sandy bottom with coral outcrops, sea snakes, orangutan crabs all corroborated."
     }
   }
 ]

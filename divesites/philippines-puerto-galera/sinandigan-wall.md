@@ -17,7 +17,7 @@ A steep slope dropping to a sheer wall extending roughly 50 meters at 26-28 mete
 
 ## Overview
 
-Sinandigan Wall begins as a steep slope before transitioning to a sheer vertical wall that extends approximately 50 meters at depths of 26-28 meters. The wall face is well-decorated with gorgonian sea fans, featherstars, sponges, and other encrusting life. Like nearby Kilima, this site has produced thresher shark sightings, adding a pelagic dimension to what is primarily a wall and macro dive. Visibility is typically good at around 25 meters, making the wall structure and its inhabitants easy to appreciate. Yellow sea cucumbers are a distinctive feature found along the wall.
+Sinandigan Wall begins as a steep slope before transitioning to a sheer vertical wall that extends approximately 50 meters at depths of 26-28 meters. The wall face is well-decorated with gorgonian sea fans, featherstars, sponges, and other encrusting life. Like nearby Kilima, this wall is part of a stretch known for seasonal thresher shark sightings (best chances reported around February-March), adding a pelagic dimension to what is primarily a wall and macro dive -- though sightings are not guaranteed on any given dive. Visibility is typically good at around 25 meters, making the wall structure and its inhabitants easy to appreciate. Yellow sea cucumbers are a distinctive feature found along the wall.
 
 ## Site Information
 
@@ -47,4 +47,4 @@ Descend along the slope to the wall's edge at 26-28 meters, where the sheer sect
 - The slope above the wall offers additional nudibranchs and reef life for shallower exploration
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1054). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1054), [Capt'n Gregg's Dive Site Chart](https://captngreggs.ph/dive-sites), [Action Divers Dive Sites](https://www.actiondivers.com/dive-sites.html), [PaparazSea: Diving with Thresher Sharks in Puerto Galera](https://www.paparazsea.com/2019/03/dive-with-thresher-sharks-in-puerto.html). Last updated 2026-08-23.*

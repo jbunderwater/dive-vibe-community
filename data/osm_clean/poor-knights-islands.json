@@ -16,8 +16,8 @@
       "scuba_diving:mindepth": "6",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "en.wikivoyage.org, oceandiversity.nz, ianskipworth.com",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -36,8 +36,8 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "seafriends.org.nz, divernet.com, en.wikivoyage.org",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -53,8 +53,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikipedia.org, divenow.co.nz, michaelmcfadyenscuba.info, showcaves.com, newzealand.com",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "en.wikipedia.org, divenow.co.nz, michaelmcfadyenscuba.info, showcaves.com",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -70,8 +70,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, divenow.co.nz, battleface.com, newzealand.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divehq.co.nz, seafriends.org.nz, ianskipworth.com, en.wikivoyage.org",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -86,8 +86,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, divenow.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divehq.co.nz, seafriends.org.nz, en.wikivoyage.org",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -102,8 +102,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, divenow.co.nz, goframetheworld.com, newzealand.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divehq.co.nz, scubadiverlife.com, oceandiversity.nz, en.wikivoyage.org",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -118,8 +118,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divehq.co.nz, seafriends.org.nz, ianskipworth.com",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -129,13 +129,14 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "unconfirmed_on_reaudit",
+      "qa_note": "2026-08-23 re-audit found no independent Poor Knights-specific source (dive shop listings, Wikivoyage, ScubaBoard, McFadyen, Seafriends) naming a site called Barney's Rock at Poor Knights. A same-named site exists at Kaikoura (South Island, unrelated location) which matches this entry's stated 15m depth -- possible mix-up. Recommend human review of this entry's authenticity before further use.",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -151,8 +152,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "globaldive.net, divepacific.co.nz, en.wikivoyage.org",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -168,8 +169,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "padi.com, divenow.co.nz, en.wikivoyage.org",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -184,8 +185,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "seafriends.org.nz, nzgeo.com, en.wikivoyage.org",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -203,7 +204,7 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -215,13 +216,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, en.wikipedia.org",
+    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, en.wikipedia.org, firstlighttravel.com",
     "tags": {
       "name": "HMNZS Tui",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -233,13 +234,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, navymuseum.co.nz, en.wikipedia.org",
+    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, navymuseum.co.nz, en.wikipedia.org, globaldive.net",
     "tags": {
       "name": "HMNZS Waikato",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "qa_note": "2026-08-23 re-audit: scuttling date conflicts across sources -- navymuseum.co.nz gives 11 Nov 2000, nzdiving.co.nz/globaldive.net give 25 Nov 2000, en.wikipedia.org gives 18 Dec 2000. Displacement also conflicts -- en.wikipedia.org gives 2,450 tons standard/3,200 tons full load, navymuseum.co.nz gives 2,990 tonnes. Both conflicts are documented in the markdown rather than resolved by guessing.",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -257,7 +259,8 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "qa_note": "2026-08-23 re-audit: michaelmcfadyenscuba.info dive-log entry describes the site's bottom at approximately 35m (vs 25m recorded here); noted as a source discrepancy in the markdown rather than overwritten. That same log entry confirms kelp cover, vertical walls, and a ray sighting, but not the more specific species list (speckled moray, banded wrasse, firebrick starfish, leopard anemone) previously in the markdown, which has been softened accordingly.",
+      "last_qa_date": "2026-08-23"
     }
   },
   {
@@ -275,7 +278,7 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-23"
     }
   }
 ]

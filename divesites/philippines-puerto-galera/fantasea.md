@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Fantasea
 
-A current-driven drift dive over sandy bottom with coral outcrops and cone-shaped formations, famous for rare white Rhinopias frondosa (weedy scorpionfish) sightings.
+A current-driven drift dive over sandy bottom with coral outcrops and cone-shaped formations, where gorgonian fans host pygmy seahorses and a rare white Rhinopias frondosa (weedy scorpionfish) has been reported.
 
 ## Overview
 
-Fantasea is a drift dive site where currents carry divers over a sandy bottom punctuated by coral outcrops and distinctive cone-shaped formations. The site has earned a reputation among critter hunters for sightings of the rare white Rhinopias frondosa (weedy scorpionfish) -- one of the most sought-after macro subjects in the Indo-Pacific. Beyond this headline species, Fantasea delivers a rich assortment of unusual creatures including orangutan crabs, mantis shrimp, and banded sea snakes. Scuttled small aluminium boats (tinnies) have been placed on the bottom as artificial reef structures, adding extra habitat and interest to the dive.
+Fantasea is a drift dive site where currents carry divers over a sandy bottom punctuated by coral outcrops and distinctive cone-shaped formations. Large gorgonian sea fans are a highlight, hosting pygmy seahorses that reward a careful look. One visiting diver logged a sighting of the rare white Rhinopias frondosa (weedy scorpionfish) here -- one of the most sought-after macro subjects in the Indo-Pacific -- though this is a single reported sighting rather than a confirmed resident, so treat it as a possibility rather than a guarantee. Beyond these headline species, Fantasea delivers a rich assortment of unusual creatures including orangutan crabs, mantis shrimp, and banded sea snakes. Scuttled small aluminium boats (tinnies) have been placed on the bottom as artificial reef structures, adding extra habitat and interest to the dive.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Fantasea is a drift dive site where currents carry divers over a sandy bottom pu
 
 ## Marine Life
 
-The star attraction is the rare white Rhinopias frondosa (weedy scorpionfish), which has been spotted at this site -- a remarkable find given the species' rarity. Turtles cruise the area, and banded sea snakes hunt among the coral outcrops. Orangutan crabs hide in bubble coral, and mantis shrimp occupy burrows in the sandy substrate. The scuttled tinnies serving as artificial reef have attracted their own resident populations. The current brings nutrients that support the varied life across the site.
+Gorgonian sea fans here are known to host pygmy seahorses, independently confirmed by multiple visiting divers. A rare white Rhinopias frondosa (weedy scorpionfish) has been reported at this site by a visiting diver -- a notable find given the species' rarity, though it has not been independently corroborated as a reliable sighting. Turtles cruise the area, and banded sea snakes hunt among the coral outcrops. Orangutan crabs hide in bubble coral, and mantis shrimp occupy burrows in the sandy substrate. The scuttled tinnies serving as artificial reef have attracted their own resident populations. The current brings nutrients that support the varied life across the site.
 
 ## Dive Profile
 
@@ -47,4 +47,4 @@ This is a current-driven drift dive -- enter the water upstream and let the curr
 - A macro lens is ideal for this site's critter-rich environment
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1059). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1059), [Zentacle](https://www.zentacle.com/Beach/12437/fantasea-reef), [PADI Dive Site: Fantasea Reef](https://www.padi.com/dive-site/philippines/fantasea-reef/). Last updated 2026-08-23.*

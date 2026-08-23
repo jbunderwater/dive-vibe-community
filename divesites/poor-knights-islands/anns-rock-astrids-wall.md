@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Ann's Rock / Astrid's Wall
 
-Ann's Rock is a popular and accessible Poor Knights wall dive where small boats can anchor directly on the rock. Divers can swim with or against the currents depending on conditions, offering flexibility in dive planning. The site offers good wall structure with marine growth and fish life, making it a reliable intermediate-level wall dive at Poor Knights.
+Ann's Rock is a single rock pinnacle in Maomao Bay where small boats can anchor directly on the rock, and divers can swim with or against the current depending on conditions. Its sheer walls are covered in strapweed and stalked kelp rather than the coral/sponge growth typical of other Poor Knights walls.
 
 ## Overview
 
-Ann's Rock is a wall dive featuring a dramatic vertical structure at a moderate depth, suitable for intermediate divers. The rock formation allows direct boat anchoring, making entry straightforward. The site's location allows divers to plan dives swimming with or against current depending on conditions and preferences. The wall provides excellent opportunity to observe vertical reef ecosystems and current-associated fish behaviour.
+Ann's Rock is a wall dive built around a single rock pinnacle in Maomao Bay, with sheer walls that drop into deep water. Direct boat anchoring on the rock makes entry straightforward, and the site's location allows divers to plan a dive swimming with or against the current depending on conditions and preference -- divers should confirm with their guide that they can return to the anchor line if the current changes direction. The wall itself is dominated by kelp cover (strapweed and stalked kelp) rather than the encrusting invertebrate growth seen on some other Poor Knights walls.
 
 ## Site Information
 

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Shark Cave
 
-East of Lighthouse Headland, featuring a small overhang called Shark Cave (no sharks typically seen) and a distinctive mesa-like formation called "The Atoll" rising from 28 meters to 24 meters, with good visibility and gorgonians.
+East of Lighthouse Headland, featuring a small overhang called Shark Cave -- named for white-tip reef sharks once denned there, though sightings are inconsistent today -- and a distinctive mesa-like formation called "The Atoll" rising from 28 meters to 24 meters, with good visibility and gorgonians.
 
 ## Overview
 
-Shark Cave lies east of Puerto Galera's Lighthouse Headland and despite its name, sharks are not a common sighting here. The site features a small rocky overhang known as Shark Cave, plus a distinctive mesa-like formation called "The Atoll" that rises from the seabed at 28 meters or more up to approximately 24 meters. The Atoll's vertical sides and top are decorated with gorgonian sea fans, sea whips, and sponges. Visibility at this site is typically good, around 25 meters, making it one of Puerto Galera's clearer diving locations and rewarding for photography.
+Shark Cave lies east of Puerto Galera's Lighthouse Headland. The site takes its name from a small overhang that historically housed white-tip reef sharks; sources disagree on how reliable sightings remain, with one detailed dive account reporting none seen on a visit while another local operator still describes white-tips as residents of the cave. Treat shark sightings here as possible but not guaranteed. The site also features a distinctive mesa-like formation called "The Atoll" that rises from the seabed at 28 meters or more up to approximately 24 meters. The Atoll's vertical sides and top are decorated with gorgonian sea fans, sea whips, and sponges. Visibility at this site is typically good, around 25 meters, making it one of Puerto Galera's clearer diving locations and rewarding for photography.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Shark Cave lies east of Puerto Galera's Lighthouse Headland and despite its name
 
 ## Marine Life
 
-Gorgonian sea fans and sea whips grow on the Atoll formation and surrounding reef. Sponges of various types encrust the rock surfaces. The overhang area that gives the site its name provides shelter, though the sharks the name suggests are not typically encountered. The good visibility at this site makes it easy to appreciate the reef structure and spot marine life at a distance.
+Gorgonian sea fans and sea whips grow on the Atoll formation and surrounding reef. Sponges of various types encrust the rock surfaces. Batfish, sweetlips, and blue-spotted stingrays are reported around the overhang, along with octopus in the many cracks and crevices of the surrounding rock. The overhang that gives the site its name once reliably held white-tip reef sharks; whether they are still a dependable sighting is disputed between sources, so do not plan the dive around seeing one. The good visibility at this site makes it easy to appreciate the reef structure and spot marine life at a distance.
 
 ## Dive Profile
 
@@ -40,10 +40,10 @@ Descend to The Atoll formation, which rises from 28+ meters to about 24 meters, 
 
 ## Tips and Recommendations
 
-- Do not expect sharks despite the name -- they are not commonly seen here
+- Do not plan the dive around seeing sharks -- reports on how often white-tips are still seen in the overhang vary
 - The Atoll formation is the main feature -- spend time exploring its sides for gorgonians and sea whips
 - The good visibility makes this a rewarding wide-angle photography site
 - Check under the Shark Cave overhang for sheltering marine life
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1049). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1049), [PADI Dive Site: Shark Cave](https://www.padi.com/dive-site/philippines/sharks-cave-2/), [Asia Dive Site: Shark Caves](https://www.asiadivesite.com/philippines-dive-sites/puerto-galera/shark-caves.php), [Scuba Diving Place: Shark Cave](https://scubadiving.place/divesite/shark-cave). Last updated 2026-08-23.*

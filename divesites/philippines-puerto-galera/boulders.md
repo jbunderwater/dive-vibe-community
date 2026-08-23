@@ -36,7 +36,7 @@ The gorgonian sea fans growing on the boulders are the main attraction, and pati
 
 ## Dive Profile
 
-Descend to the boulder field and work along the slope, checking gorgonian fans for pygmy seahorses and scanning crevices between boulders for nudibranchs and stingrays. The maximum depth reaches approximately 30 meters at the base of the slope. Gradually work shallower during the second half of the dive, finishing with a safety stop.
+Descend to the boulder field and work along the slope, checking gorgonian fans for pygmy seahorses and scanning crevices between boulders for nudibranchs and stingrays. The maximum depth reaches approximately 30 meters at the base of the slope for recreational divers; the boulder formation itself continues deeper and is used by some operators for technical/deep-diver training below recreational limits. Gradually work shallower during the second half of the dive, finishing with a safety stop.
 
 ## Tips and Recommendations
 
@@ -46,4 +46,4 @@ Descend to the boulder field and work along the slope, checking gorgonian fans f
 - Ask your guide to point out the gorgonians most likely to host pygmy seahorses
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1057). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1057), [Capt'n Gregg's Dive Site Chart](https://captngreggs.ph/dive-sites), [PADI Dive Site: Boulders](https://www.padi.com/dive-site/philippines/boulders/). Last updated 2026-08-23.*

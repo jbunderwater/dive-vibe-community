@@ -32,7 +32,7 @@ Sabang Point sits on the eastern side of Sabang Bay, where currents sweep around
 
 ## Marine Life
 
-Turtles are one of the most reliable sightings at Sabang Point, often seen cruising between coral outcrops. Large pufferfish and porcupinefish patrol the reef edges. At greater depth, garden eels extend from the sandy bottom, swaying with the current and retracting as divers approach. Nudibranchs are found across the coral outcrops, and egg cowries -- with their distinctive mantles covering the shell -- can be spotted on soft coral. Octopus hide in crevices among the outcrops.
+Turtles are one of the most reliable sightings at Sabang Point, often seen cruising between coral outcrops. Large pufferfish and porcupinefish patrol the reef edges. At greater depth, garden eels extend from the sandy bottom, swaying with the current and retracting as divers approach. Nudibranchs are found across the coral outcrops, and egg cowries -- with their distinctive mantles covering the shell -- can be spotted on soft coral. Octopus hide in crevices among the outcrops. Pygmy seahorses on the fan corals and blue ribbon eels on the sandy patches have also been reported here.
 
 ## Dive Profile
 
@@ -47,4 +47,4 @@ Descend to the sand and coral outcrops, working with any current present. Visit 
 - Turtles are often seen mid-dive -- keep scanning ahead
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1061). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1061), [Capt'n Gregg's Dive Site Chart](https://captngreggs.ph/dive-sites), [Action Divers Dive Sites](https://www.actiondivers.com/dive-sites.html), [PADI Dive Site: Sabang Point](https://www.padi.com/dive-site/philippines/sabang-point/). Last updated 2026-08-23.*

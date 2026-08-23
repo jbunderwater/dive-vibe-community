@@ -49,4 +49,4 @@ The three canyons have their tops at 21-24 meters and floors at 26-29 meters. De
 - If current is exceptionally strong, your guide may call the dive -- respect this decision
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1051). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1051), [Capt'n Gregg's Dive Site Chart](https://captngreggs.ph/dive-sites), [Action Divers Dive Sites](https://www.actiondivers.com/dive-sites.html), [Deluna Diving: Dive Sites of Puerto Galera](https://deluna-diving.com/divesites). Last updated 2026-08-23.*

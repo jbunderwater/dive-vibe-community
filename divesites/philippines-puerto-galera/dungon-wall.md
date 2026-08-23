@@ -46,4 +46,4 @@ Descend along the slope to the wall's edge and follow it at depth, scanning gorg
 - The wall is roughly 100 meters long, so pick a direction and work with any current
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1052). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1052), [Capt'n Gregg's Dive Site Chart](https://captngreggs.ph/dive-sites), [Action Divers Dive Sites](https://www.actiondivers.com/dive-sites.html), [PADI Dive Site: Dungon Wall](https://www.padi.com/dive-site/philippines/dungon-wall/). Last updated 2026-08-23.*

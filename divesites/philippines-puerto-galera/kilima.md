@@ -17,7 +17,7 @@ A deeper reef south of Lighthouse Headland known for thresher shark sightings at
 
 ## Overview
 
-Kilima is a deeper reef site south of Puerto Galera's Lighthouse Headland, rated Advanced due to depth and the possibility of encountering large marine life. The site's claim to fame is thresher shark sightings -- these distinctive long-tailed sharks are occasionally seen at depth, particularly where the water temperature drops, indicating colder, nutrient-rich upwellings. The reef also supports humphead wrasse and banded sea snakes, along with the nudibranchs and flatworms that are found throughout Puerto Galera's dive sites.
+Kilima is a deeper reef site south of Puerto Galera's Lighthouse Headland, rated Advanced due to depth and the possibility of encountering large marine life. The stretch of reef and wall between Kilima and neighbouring Sinandigan Wall is one of Puerto Galera's known thresher shark locations -- sightings here are seasonal, with divers and operators reporting the best chances around February-March, and are never guaranteed on any given dive. The reef also supports humphead wrasse and banded sea snakes, along with the nudibranchs and flatworms that are found throughout Puerto Galera's dive sites.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Kilima is a deeper reef site south of Puerto Galera's Lighthouse Headland, rated
 
 ## Marine Life
 
-Thresher sharks are the headline species, sighted at depth where the water temperature drops -- look into the blue water and along the deeper reef edges. Humphead wrasse, one of the reef's largest residents, can be encountered along the reef structure. Banded sea snakes hunt through the coral. Nudibranchs and flatworms provide macro interest across the reef surfaces for divers willing to alternate between watching the blue and scanning the substrate.
+Thresher sharks are the headline species and are the reason this site draws advanced divers -- sightings tend to cluster in a seasonal window (roughly February-March) and are more likely at depth where the water temperature drops. Look into the blue water and along the deeper reef edges, but temper expectations: sightings are reported regularly in-season rather than on every dive. Humphead wrasse, one of the reef's largest residents, can be encountered along the reef structure. Banded sea snakes hunt through the coral. Nudibranchs and flatworms provide macro interest across the reef surfaces for divers willing to alternate between watching the blue and scanning the substrate.
 
 ## Dive Profile
 
@@ -47,4 +47,4 @@ Descend to the deeper reef sections where thresher sharks have been observed. Th
 - Keep an eye out for banded sea snakes moving through the coral
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1055). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1055), [Capt'n Gregg's Dive Site Chart](https://captngreggs.ph/dive-sites), [Action Divers Dive Sites](https://www.actiondivers.com/dive-sites.html), [PaparazSea: Diving with Thresher Sharks in Puerto Galera](https://www.paparazsea.com/2019/03/dive-with-thresher-sharks-in-puerto.html). Last updated 2026-08-23.*

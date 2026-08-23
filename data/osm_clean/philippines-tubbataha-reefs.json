@@ -13,9 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, divebooker.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "dive-the-world.com,bluewaterdivetravel.com,asiadivesite.com",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: North Atoll wall confirmed by 3+ independent sources; name origin (midnight snapper schooling at 5m rock) and marine life corroborated. Advanced minimum retained per remote-liveaboard policy."
     }
   },
   {
@@ -24,7 +24,7 @@
     "lon": 119.8667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 32,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -32,9 +32,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, searchable dive databases",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "dive-the-world.com,bluewaterdivetravel.com,sea-explorers.com",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: North Atoll cleaning-station plateau confirmed by 3+ sources; depth corrected 32m->25m (sandy plateau ~15m to second shelf ~25m per sources, not a single 32m figure). Marine life list corrected to remove unconfirmed napoleon wrasse/manta claims. Advanced minimum retained per remote-liveaboard policy."
     }
   },
   {
@@ -43,7 +43,7 @@
     "lon": 119.875,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
+    "depth": 50,
     "site_type": "wall",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -51,9 +51,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, divebooker.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Already Advanced; confirmed correct for Tubbataha liveaboard-only remote destination."
+      "validation_source": "dive-the-world.com,sea-explorers.com,divessi.com",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: North Atoll wall confirmed by 3+ sources. Depth corrected 40m->50m (sources consistently report the wall plunging 50-60m from a 3-5m reef top). Marine life trimmed to remove unconfirmed manta/sweetlips/emperor claims for this specific site."
     }
   },
   {
@@ -62,7 +62,7 @@
     "lon": 119.85,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -70,9 +70,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "searchable dive databases, divessi.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "wwf.panda.org,dive-the-world.com,explorers.ph",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: Located South Atoll (NE corner), not North Atoll as previously undocumented -- corrected in markdown. Depth corrected 35m->25m (plateau consistently reported 15-25m across sources). Advanced minimum retained per remote-liveaboard policy."
     }
   },
   {
@@ -89,9 +89,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divebooker.com, solitude.world",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy. Wreck history (WWII freighter claim) unverified — no confirmed ship name or build data from 2+ independent sources."
+      "validation_source": "divehappy.com,dive-the-world.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: WWII-freighter claim removed -- not corroborated by any dedicated source and directly contradicted by divehappy.com's dedicated page, which gives two competing, unverifiable narratives (1970s typhoon-stranded fishing vessel vs. deliberate artificial-reef sinking) with no ship name, build date, or tonnage confirmed anywhere. Description now states this conflict explicitly per anti-hallucination policy rather than asserting either origin."
     }
   },
   {
@@ -108,9 +108,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "justgottadive.com, dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "asiadivesite.com,dive-the-world.com,birdwatch.ph",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: North Atoll (north face) confirmed correct. Marine life corrected -- removed unconfirmed hammerhead/whale shark/trevally-barracuda-school claims not supported by site-specific sources; replaced with confirmed nurse/leopard/blacktip/whitetip/grey reef sharks resting in wall fissures, plus manta/lagoon/eagle rays. Added bird-colony naming context (7 breeding seabird species) from birdwatch.ph."
     }
   },
   {
@@ -127,9 +127,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divessi.com, dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "dive-the-world.com,sea-explorers.com,originaldiving.com",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: Corrected atoll from North to South (NE corner near Delsan Wreck/Black Rock) -- multiple independent sources agree Ko-ok is on South Atoll. Rewrote description: sources consistently describe Ko-ok as a calm macro/coral-garden site (frogfish, pygmy seahorses, nudibranchs, cleaner shrimp, porcelain crabs), contrasting with the big-animal wall dives -- previous markdown incorrectly framed it as a high-shark-density wall site with generic 'iconic Tubbataha' padding not specific to this site."
     }
   },
   {
@@ -146,9 +146,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divessi.com, divescover.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Already Advanced; confirmed correct for Tubbataha liveaboard-only remote destination."
+      "validation_source": "thediveglobe.com,dive-the-world.com,philippinediveholidays.com",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: South Atoll confirmed correct (multiple independent sources: thediveglobe.com, divescover.com, dive-the-world.com, Discovery Fleet). No ship name, build date, or tonnage confirmed by any source -- description states this explicitly rather than guessing. 'Disneyland' nickname and 'The Cut' crevasse (30m x 20m, depth to 40m) corroborated by philippinediveholidays.com and searchable dive databases; 40m depth confirmed correct via The Cut, not the wreck itself (wreck is shallow/partly surface-exposed per divescover.com). Corrected framing: the small grounded freighter is a navigational marker/entry point, not the main attraction -- the shark-filled crevasse is."
     }
   },
   {
@@ -168,9 +168,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "solitude.world, divebooker.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "asiadivesite.com,diversiondivetravel.com.au,zubludiving.com",
+      "last_qa_date": "2026-08-23",
+      "qa_note": "Re-audited 2026-08-23: Sources confirm whitetip/blacktip reef sharks (not grey reef, as previously written) as the common shark species here; added spinner dolphins, hammerhead/mako/thresher sharks as pelagic visitors (northwest/southern tip zones respectively). Removed unconfirmed whale-shark and 'confident napoleon wrasse' claims not supported by site-specific sources."
     }
   }
 ]

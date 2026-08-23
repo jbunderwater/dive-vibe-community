@@ -47,4 +47,4 @@ Descend to the sandy bottom and navigate between the small coral outcrops, check
 - Not Puerto Galera's most dramatic site, but reliable for critter encounters
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1063). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1063), [Capt'n Gregg's Dive Site Chart](https://captngreggs.ph/dive-sites), [Action Divers Dive Sites](https://www.actiondivers.com/dive-sites.html), [PADI Dive Site: West Escarceo](https://www.padi.com/dive-site/philippines/west-escarceo/). Last updated 2026-08-23.*
