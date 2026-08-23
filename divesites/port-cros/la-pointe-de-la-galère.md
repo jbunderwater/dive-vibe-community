@@ -51,7 +51,7 @@ The site is accessible within 30 minutes by boat from La Londe-les-Maures. Moder
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-08-23
 
 ---
-*Sources: [Aqualonde Plongée — La Pointe de la Galère](https://aqualonde-plongee.com/en/la-pointe-de-la-galere/), [Mio Palmo Plongée — La Pointe de la Galère](https://www.miopalmoplongee.com/nos-sites/la-pointe-de-la-galere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/). Last updated 2026-06-26.*
+*Sources: [Aqualonde Plongée — La Pointe de la Galère](https://aqualonde-plongee.com/en/la-pointe-de-la-galere/), [Mio Palmo Plongée — La Pointe de la Galère](https://www.miopalmoplongee.com/nos-sites/la-pointe-de-la-galere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/). Last updated 2026-08-23.*

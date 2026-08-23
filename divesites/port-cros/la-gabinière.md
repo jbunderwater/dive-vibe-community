@@ -61,7 +61,7 @@ Strong currents at the southern pinnacles require Advanced certification and cur
 
 ## Additional Resources
 
-- **Last Updated**: 2026-06-26
+- **Last Updated**: 2026-08-23
 
 ---
-*Sources: [Hyères Tourism — La Gabinière diving spot](https://www.hyeres-tourism.co.uk/fauna-flora-parks-garden/la-gabiniere-diving-spot/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html). Last updated 2026-06-26.*
+*Sources: [Hyères Tourism — La Gabinière diving spot](https://www.hyeres-tourism.co.uk/fauna-flora-parks-garden/la-gabiniere-diving-spot/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html). Last updated 2026-08-23.*

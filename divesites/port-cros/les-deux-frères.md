@@ -46,7 +46,7 @@ Brown grouper, seabream, moray eels, wrasse, octopus, and scorpionfish are typic
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-08-23
 
 ---
-*Description based on regional diving characteristics of Port-Cros National Park. No site-specific sources for Les Deux Frères were located during QA reviews on 2026-05-25 or 2026-06-26. Note: there is a confirmed dive site called "Les Deux Frères" near La Seyne-sur-Mer (a distinct location). No Port-Cros dive operator lists this site by name in their published site rosters. Marine life listed reflects the broader park ecosystem, not confirmed sightings at this specific site. Last updated 2026-06-26.*
+*Description based on regional diving characteristics of Port-Cros National Park. No site-specific sources for Les Deux Frères were located during QA reviews on 2026-05-25, 2026-06-26, or 2026-08-23. Note: there is a confirmed dive site called "Les Deux Frères" near La Seyne-sur-Mer (Cap Sicié) — a distinct location roughly 35km from Port-Cros, documented on its own French Wikipedia article ("Deux Frères (rocher)"). No Port-Cros dive operator lists a same-named site in their published site rosters. Marine life listed reflects the broader park ecosystem, not confirmed sightings at this specific site. Not marked validated. Last updated 2026-08-23.*
