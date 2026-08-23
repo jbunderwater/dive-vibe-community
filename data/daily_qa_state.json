@@ -2,13 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "philippines-puerto-galera",
-    "philippines-tubbataha-reefs",
-    "poor-knights-islands",
-    "port-cros",
-    "portugal",
-    "providencia-island",
-    "puerto-rico",
     "puerto-vallarta",
     "puget-sound",
     "raja-ampat",
@@ -174,7 +167,14 @@
     "philippines-bohol",
     "philippines-donsol",
     "philippines-malapascua",
-    "philippines-palawan"
+    "philippines-palawan",
+    "philippines-puerto-galera",
+    "philippines-tubbataha-reefs",
+    "poor-knights-islands",
+    "port-cros",
+    "providencia-island",
+    "puerto-rico",
+    "portugal"
   ],
   "history": [
     {
@@ -3509,6 +3509,80 @@
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/152",
       "errors": []
+    },
+    {
+      "date": "2026-08-23",
+      "slugs": [
+        "philippines-puerto-galera",
+        "philippines-tubbataha-reefs",
+        "poor-knights-islands",
+        "port-cros",
+        "providencia-island",
+        "puerto-rico"
+      ],
+      "summary": {
+        "philippines-puerto-galera": {
+          "sites_total": 16,
+          "sites_validated_today": 0,
+          "sites_re_audited": 16,
+          "hallucinations_removed": 2,
+          "marine_life_stripped": 1,
+          "wreck_conflicts_flagged": 1,
+          "sites_unresolved": 1
+        },
+        "philippines-tubbataha-reefs": {
+          "sites_total": 9,
+          "sites_validated_today": 9,
+          "sites_re_audited": 9,
+          "hallucinations_removed": 8,
+          "marine_life_stripped": 8,
+          "wreck_conflicts_flagged": 2,
+          "sites_unresolved": 0
+        },
+        "poor-knights-islands": {
+          "sites_total": 16,
+          "sites_validated_today": 16,
+          "sites_re_audited": 16,
+          "hallucinations_removed": 6,
+          "marine_life_stripped": 10,
+          "wreck_conflicts_flagged": 1,
+          "sites_unresolved": 2
+        },
+        "port-cros": {
+          "sites_total": 18,
+          "sites_validated_today": 0,
+          "sites_re_audited": 14,
+          "hallucinations_removed": 1,
+          "marine_life_stripped": 0,
+          "wreck_conflicts_flagged": 3,
+          "sites_unresolved": 4
+        },
+        "providencia-island": {
+          "sites_total": 10,
+          "sites_validated_today": 8,
+          "sites_re_audited": 10,
+          "hallucinations_removed": 5,
+          "marine_life_stripped": 3,
+          "wreck_conflicts_flagged": 1,
+          "sites_unresolved": 3
+        },
+        "puerto-rico": {
+          "sites_total": 11,
+          "sites_validated_today": 0,
+          "sites_re_audited": 11,
+          "hallucinations_removed": 2,
+          "marine_life_stripped": 1,
+          "wreck_conflicts_flagged": 0,
+          "sites_unresolved": 1
+        }
+      },
+      "pr_url": null,
+      "errors": [
+        {
+          "slug": "portugal",
+          "reason": "isGroup placeholder destination with no data/osm_clean or divesites files (actual sites live under sub-destinations like azores, madeira). Skipped before dispatch; replaced with puerto-rico. Will recur in future cycles unless removed from destinations.json rotation."
+        }
+      ]
     }
   ]
 }
