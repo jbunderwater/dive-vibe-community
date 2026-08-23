@@ -12,9 +12,9 @@ Providencia Island is a volcanic island in Colombia's San Andres archipelago, wi
 
 ### Diving Opportunities
 
-- **Wall Diving**: Wall sites including the deep Stairway to Heaven (52m), Nick's Place (40m), The Pinnacle (35m), and Felipe's Place (24m) — Providencia's walls are its signature attraction
-- **Reef Diving**: Reef sites including Manta's City (20m), Convento Reef (15m), Crab Cay Reef (12m, beginner-friendly), and Tete's Place (9m, Providencia's "fishiest" site) with patch reefs, pillar coral, and large fish schools
-- **Wreck Diving**: Blue Diamond wreck at approximately 14 metres, accessible to Open Water divers
+- **Wall Diving**: Wall sites including the deep Stairway to Heaven (52m), Convento (40m), Nick's Place (40m), The Pinnacle (35m), and Felipe's Place (24m) — Providencia's walls are its signature attraction
+- **Reef Diving**: Reef sites including Crab Cay Reef (12m) and Manta's City (12m, beginner-friendly), and Tete's Place (9m, Providencia's "fishiest" site) with patch reefs, pillar coral, and large fish schools
+- **Wreck Diving**: A wreck recorded locally as "Blue Diamond" at approximately 14 metres — a 2026-08-23 re-audit found no source confirming that name for a Providencia wreck; the destination's one well-documented wreck across independent sources is "El Planchón," a WWII-era cargo tanker
 - **Cave Diving**: Table Rock features interconnected caves at 2–8 metres with nurse sharks and silversides; suitable for snorkelers and all diver levels
 - **Boat Diving**: All sites are boat-access, with short rides from the island's dive centers
 
@@ -37,7 +37,7 @@ Providencia Island is a volcanic island in Colombia's San Andres archipelago, wi
 - **Best Time to Visit**: Year-round diving, with the driest months from January to April and a secondary dry spell in July. Hurricane season (June-November) rarely affects Providencia directly but can reduce visibility
 - **Currency**: Colombian Peso (COP). US Dollars occasionally accepted but not reliable; bring pesos
 - **Language**: English Creole is the native language of the Raizal islanders; Spanish is the official language. Basic English is understood in tourist areas
-- **Safety**: Most sites are suitable for intermediate divers and above. The deep walls at Nick's Place and Stairway to Heaven require Advanced certification. The island is remote with limited medical facilities; the nearest hyperbaric chamber is in San Andres
+- **Safety**: Most sites are suitable for intermediate divers and above. The deep walls at Nick's Place, Convento, and Stairway to Heaven require Advanced certification. The island is remote with limited medical facilities; the nearest hyperbaric chamber is in San Andres
 
 ---
-*Sources: [Scuba Diving Magazine - San Andres and Providencia](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia), [Colombia Travel - Providencia Diving](https://colombia.travel/en/san-andres-island/scuba-diving-in-providencia-and-santa-catalina-unforgettable), [Joe's Scuba Shack - Providencia](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Anda Di Wata](https://www.andadiwata.com/). Last updated 2026-05-22.*
+*Sources: [Scuba Diving Magazine - San Andres and Providencia](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia), [Colombia Travel - Providencia Diving](https://colombia.travel/en/san-andres-island/scuba-diving-in-providencia-and-santa-catalina-unforgettable), [Joe's Scuba Shack - Providencia](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Anda Di Wata](https://www.andadiwata.com/), [The Dive Shop Old Providence](https://www.thediveshopoldprovidence.com/en/sitios-de-buceo/), [Felipe Diving Center](https://felipedivingshop.com/es/sitios-de-buceo/). Site depth/type figures updated 2026-08-23 per site-level re-audit; see individual site pages for full sourcing. Last updated 2026-08-23.*

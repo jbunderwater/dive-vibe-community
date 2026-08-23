@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Crab Cay Reef
 
-Crab Cay Reef surrounds a 500-square-metre cay in the Old Providence McBean Lagoon National Natural Park, offering shallow crystal-clear diving accessible to all levels.
+Crab Cay (Cayo Cangrejo) is a 500-square-metre cay in the Old Providence McBean Lagoon National Natural Park, primarily documented as a snorkel and kayak day-trip stop — dive-shop-specific scuba data for it is limited.
 
 ## Overview
 
-Crab Cay (Cayo Cangrejo) is a 500-square-metre cay surrounded by sandbanks, sitting within the Old Providence McBean Lagoon National Natural Park and the wider UNESCO Seaflower Biosphere Reserve. The reef tops at around 12 metres and is noted for crystal-clear water and strong fish density resulting from the park's protection. The site is accessible as a snorkel or introductory dive and is commonly visited on boat tours around the island. Turtles, triggerfish, needlefish, juvenile fish, and small sharks are reported near the pier and reef.
+Crab Cay (Cayo Cangrejo) is a small cay surrounded by sandbanks, sitting within the Old Providence McBean Lagoon National Natural Park and the wider UNESCO Seaflower Biosphere Reserve. Colombian travel site viajandox.com.co confirms that both "careteo y buceo" (snorkeling and scuba diving) are possible in the sectors of Cayo Cangrejo and Hippie's Place, with a coral-reef environment described as "un jardín sumergido" (a submerged garden) of fish, crustaceans, and mollusks. On re-audit (2026-08-23), neither of the two established Providencia dive-shop site directories (Felipe Diving Center, The Dive Shop Old Providence) lists Crab Cay as a named dive site, and a previously-cited source (Joe's Scuba Shack) does not mention it either — most published material about the cay (Roads and Rivers, TripAdvisor) focuses on snorkeling, kayaking, and the above-water viewpoint rather than scuba-specific depth or conditions. The 12-metre depth figure is a pre-existing estimate, not independently confirmed by a dive-shop source.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Crab Cay (Cayo Cangrejo) is a 500-square-metre cay surrounded by sandbanks, sitt
 
 ## Marine Life
 
-Sea turtles, triggerfish, needlefish, red snapper, and juvenile fish are commonly reported at Crab Cay. A small shark has been sighted near the wooden pier. The dense fish populations reflect the site's protection within the national park.
+Sea turtles, triggerfish, needlefish, and juvenile fish are reported around the cay by Roads and Rivers and viajandox.com.co, along with dense coral-reef fish populations reflecting the site's protection within the national park. No dive-shop-specific marine life list for scuba divers (as opposed to snorkelers) was found.
 
 ---
-*Sources: [Roads and Rivers](https://roads-and-rivers.com/en/kajak-crab-cay-providencia/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g297480-d2526513-Reviews-Crab_Cay_Cayo_Cangrejo-Providencia_Island_San_Andres_and_Providencia_Department.html), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/). Last updated 2026-06-26.*
+*Sources: [Roads and Rivers](https://roads-and-rivers.com/en/kajak-crab-cay-providencia/), [Viajandox](https://viajandox.com.co/providencia-y-santa-catalina/cayo-cangrejo-A2756). A third independent source confirming scuba-specific depth/conditions was not found on re-audit. Last updated 2026-08-23.*

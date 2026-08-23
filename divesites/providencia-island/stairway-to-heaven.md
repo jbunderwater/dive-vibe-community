@@ -17,7 +17,7 @@ Stairway to Heaven is one of Providencia's most demanding and spectacular wall d
 
 ## Overview
 
-Stairway to Heaven begins at around 24 metres where a sandy channel slopes toward a steep drop-off at 36 metres. Two wall faces descend from here, covered in colourful hard and soft corals and enormous tube sponges; the walls incorporate three distinct "step" formations in the stony coral that give the site its name. The drop-off continues to 52 metres, where a large open cave sits at the base. Strong currents can develop, limiting bottom time at the deepest sections; multiple sources describe this as one of the most challenging dives on Providencia, suitable for experienced divers only. The site lies within the UNESCO Seaflower Biosphere Reserve.
+Stairway to Heaven begins at around 24 metres where a sandy channel slopes toward a steep drop-off at 36 metres. Two wall faces descend from here, covered in colourful hard and soft corals and enormous tube sponges; the walls incorporate three distinct "step" formations in the stony coral that give the site its name. The drop-off continues to 52 metres, where a large open cave sits at the base. Felipe Diving Center's own listing corroborates the profile (sand channel starting at 80 feet, leading to a wall and gruta). Strong currents can develop, limiting bottom time at the deepest sections; multiple sources describe this as one of the most challenging dives on Providencia, suitable for experienced divers only. The site lies within the UNESCO Seaflower Biosphere Reserve.
 
 ## Site Information
 
@@ -32,4 +32,4 @@ Stairway to Heaven begins at around 24 metres where a sandy channel slopes towar
 Macro critters and reef tropicals populate the shallower sections, while rays, sharks, and large sea turtles have been reported in the open water along the drop-off. The tube sponges and wall structure support a range of Caribbean reef species. Strong currents can bring pelagic visitors to the site.
 
 ---
-*Sources: [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/diving-colombias-providencia-felipes-palace-stairway-heaven), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/). Last updated 2026-06-26.*
+*Sources: [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/diving-colombias-providencia-felipes-palace-stairway-heaven), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/), [Felipe Diving Center](https://felipedivingshop.com/es/sitios-de-buceo/). Last updated 2026-08-23.*

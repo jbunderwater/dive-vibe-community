@@ -3,7 +3,7 @@ name: Manta's City
 lat: 13.315
 lng: -81.3744
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Manta's City
 
-Manta's City is a shallow patch reef site at Providencia, adorned with large stony coral formations and abundant reef fish.
+Manta's City ("Mantas City") is a shallow circular patch-reef site at Providencia, reaching only 9–12 metres, with large coral heads and crystal-clear, brightly-lit water.
 
 ## Overview
 
-Manta's City (also referenced as "Manta's Place" by Scuba Diving Magazine and some operators) is a shallow site within the UNESCO Seaflower Biosphere Reserve, characterised by patch reefs with large stony coral formations and a variety of reef life. The site reaches around 20 metres at maximum depth and is described as accessible and beginner-friendly. Whether it reliably offers manta ray sightings — as its name suggests — is not confirmed by available sources; published descriptions focus on the reef fish and coral, without specific confirmation of regular manta ray encounters at this site. Anda Di Wata confirms this as an active dive site they visit.
+Manta's City (also called "Manta's Place" by Scuba Diving Magazine, and "Mantas City" by local operators) is a shallow site within the UNESCO Seaflower Biosphere Reserve. Two Providencia dive shops independently describe it as a shallow circular patch-reef formation: The Dive Shop Old Providence lists it at 5–12 metres, and Felipe Diving Center lists a single depth of roughly 9 metres (30 feet) with "special blue luminosity to crystal-clear water" and large coral heads and sponges. Travel and Diving similarly places it at 6–12 metres among Providencia's beginner-level dives. These sources converge on a shallow 9–12 metre maximum depth — corrected here from an earlier 20-metre estimate that no re-pulled source supports. Whether the site reliably offers manta ray sightings — as its name suggests — is not confirmed by any source found; published descriptions focus on the reef fish and coral, without confirmation of regular manta ray encounters here.
 
 ## Site Information
 
@@ -25,11 +25,11 @@ Manta's City (also referenced as "Manta's Place" by Scuba Diving Magazine and so
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 12 meters
 
 ## Marine Life
 
-Large stony coral formations shelter schools of white snapper, sergeant majors, butterflyfish, goatfish, and parrotfish, with sea turtles reported at the site. Anda Di Wata has documented peacock flounder at Manta's City specifically — an unusually precise species attribution for a bottom-dwelling species confirmed at this individual site.
+Large stony coral heads shelter schools of sea turtles, sergeant majors, butterflyfish, goatfish, and parrotfish (Scuba Diving Magazine), alongside stingrays, snappers, surgeonfish, and angelfish (The Dive Shop Old Providence). A previously-listed "peacock flounder" sighting could not be traced to any source on re-audit and has been removed.
 
 ---
-*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Anda Di Wata](https://www.andadiwata.com/), [Scuba Diving Magazine](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia). Last updated 2026-06-26.*
+*Sources: [Scuba Diving Magazine](https://www.scubadiving.com/diving-san-andres-and-providencia-colombia), [Travel and Diving](https://www.travelandiving.com/buceo-en-providencia), [Felipe Diving Center](https://felipedivingshop.com/es/sitios-de-buceo/), [The Dive Shop Old Providence](https://www.thediveshopoldprovidence.com/en/sitios-de-buceo/). Last updated 2026-08-23.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Nick's Place
 
-Nick's Place is a deep wall dive dropping to 40 metres (130 feet), grouped with nearby sites Spiral and Sponge Valley on the same section of the outer barrier reef, and known for Creole wrasse schools and parrotfish.
+Nick's Place is a wall dive grouped with the adjoining "Spiral" and "Sponge Valley" formations, dropping to 40 metres, with a giant-sponge-covered rock and wall profile.
 
 ## Overview
 
-Nick's Place begins at approximately 18 metres (60 feet) before the wall drops to 40 metres (130 feet), with multiple ledges along the descent. The site is part of a cluster of related dive spots on this section of the barrier reef — Joe's Scuba Shack groups it alongside "Spiral" and "Sponge Valley" as adjoining formations. The site is within the UNESCO Seaflower Biosphere Reserve. The depth and exposure of this outer wall make it suitable for Advanced-certified divers with open-water experience at depth.
+Two independent Providencia dive-shop listings confirm the depth profile: The Dive Shop Old Providence lists 18–40+ metres, and Felipe Diving Center lists roughly 15/27–40 metres, both describing a platform that steps down to a cliff wall. Pelecanus Colombia separately describes the site at a shallower 15–30 metres with "sponges and many reef fish" — noted here as a discrepancy between sources rather than resolved to a single figure. The site sits within a cluster of related dive spots on this section of the barrier reef: diveadvisor.com lists it as part of a combined "Spiral / Sponge Valley / Nick's Place" site, and Felipe Diving Center separately lists adjoining "Espiral" and "Valle de Las Esponjas" (Sponge Valley) sites nearby. The site is within the UNESCO Seaflower Biosphere Reserve. The depth and exposure of this outer wall make it suitable for Advanced-certified divers with open-water experience at depth.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Nick's Place begins at approximately 18 metres (60 feet) before the wall drops t
 
 ## Marine Life
 
-Large schools of Creole wrasse are the signature sighting along the wall drop, with black grouper and large parrotfish in the mix. Moray eels occupy the ledges in the shallower sections. Sponge growth is characteristic of this section of the outer barrier reef.
+A large rock-and-sponge formation gives the site its "Sponge Valley" association. The Dive Shop Old Providence reports crabs, shrimp, lobsters, nudibranchs, snappers, groupers, and gray reef sharks. An earlier marine-life list naming Creole wrasse, black grouper, and moray eels could not be traced to any re-pulled source and has been removed.
 
 ---
-*Sources: [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/diving-colombias-providencia-felipes-palace-stairway-heaven), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/). Last updated 2026-06-26.*
+*Sources: [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/), [Travel and Diving](https://www.travelandiving.com/buceo-en-providencia), [The Dive Shop Old Providence](https://www.thediveshopoldprovidence.com/en/sitios-de-buceo/), [Felipe Diving Center](https://felipedivingshop.com/es/sitios-de-buceo/). Last updated 2026-08-23.*
