@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Middle Arch
 
-One of the most frequently dived arches at Poor Knights Islands, Middle Arch is a reliable and rewarding site offering a more sheltered experience than the deeper, current-swept Northern Arch. The arch cuts through a rocky point at only 15 meters maximum depth, allowing extended bottom times and detailed exploration. The site combines colourful wall growth with excellent fish life and is an ideal choice for intermediate divers.
+One of the most frequently dived arches at Poor Knights Islands, Middle Arch sits in a more sheltered position than the deeper, current-swept Northern Arch, with an anchorage around 15-23 meters. A dive-shop account describes a male black angelfish guarding eggs near the arch -- a specific, repeatable behaviour rather than a generic species mention.
 
 ## Overview
 
-Middle Arch is a gem of an arch dive, accessible to intermediate divers and offering excellent opportunities for longer exploration. The arch is large enough for a boat to pass through and is often used as an anchorage point between dive sites, making it a frequent Poor Knights destination. Like Northern Arch, it cuts through a point but at a much shallower depth, with deeper passages at 19-23 meters near Cleaner Fish Bay. The arch is colourful with encrusting organisms and normally experiences less current than Northern Arch, making it an excellent choice for moderate conditions or divers building experience on Poor Knights arches.
+Middle Arch is large enough for a boat to pass through and is often used as an anchorage point between dive sites. It cuts through a point at a shallower depth than Northern Arch, with the anchorage around 23m and the arch bottom itself closer to 15-16m; a nearby marine-science survey records gorgonian fans and sponges at similar depths, with the surrounding bay dropping to roughly 50m near the northern entrance -- well past the recreational profile of this site. Nearby Bernie's Cave has a wide opening close to the surface with an air pocket.
 
 ## Site Information
 
@@ -33,13 +33,15 @@ Middle Arch is a gem of an arch dive, accessible to intermediate divers and offe
 
 ## Marine Life
 
-Middle Arch features colourful wall life combined with good fish viewing:
-- Shoals of blue maomao and pink maomao
-- Kingfish, snapper, and giant trevally
-- Colourful sponges, anemones, hydroids, bryozoans, and algae covering the arch and surrounding walls
-- Short-tailed stingrays (in warmer months)
-- Moray eels and smaller fish species
-- Hardy corals and encrusting life creating a garden effect
+The following are specifically reported for Middle Arch and its immediate surroundings (including nearby Bernie's Cave and Cleaner Fish Bay) by a dive-shop account and a marine-science survey:
+- A male black angelfish observed guarding eggs near the arch
+- Nudibranchs, including Tambja species
+- Lord Howe Island coralfish
+- Blue maomao schools
+- Gorgonian fans, sponges, bryozoan bushes, yellow zoanthid anemones, and red hydroids on the walls
+- Rock cod
+
+Kingfish, snapper, giant trevally, and stingrays are common Poor Knights species generally but were not confirmed specifically for this site, so they have been removed from the list above.
 
 ## Dive Profile
 
@@ -72,4 +74,4 @@ Boat entry via giant stride directly to the arch area. Your guide will indicate 
 The shallow depth and colourful walls create excellent wide-angle opportunities. The combination of fish schools and encrusting organisms provides macro subjects. Sponges and anemones are particularly photogenic. The arch framing distant fish is a classic composition. The shallow depth allows longer exploration time for finding perfect shots. Consider a macro lens for detailed wall work and a wide-angle lens for arch-and-fish compositions.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [Dive Now - Poor Knights Arches](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*
+*Sources: [Dive HQ New Zealand - The Poor Knights Islands](https://divehq.co.nz/blog/the-poor-knights-islands/), [Seafriends - Poor Knights Northern Quarter](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-08-23.*

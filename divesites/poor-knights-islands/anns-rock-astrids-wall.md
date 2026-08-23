@@ -33,14 +33,7 @@ Ann's Rock is a wall dive built around a single rock pinnacle in Maomao Bay, wit
 
 ## Marine Life
 
-The wall structure supports varied marine life:
-- Kingfish, snapper, and giant trevally
-- Blue maomao and pink maomao schools
-- Short-tailed stingrays (warmer months)
-- Hard and soft corals
-- Sponges and anemones covering the wall
-- Moray eels and nudibranchs
-- Small reef fish and crustaceans in crevices
+The confirmed feature of Ann's Rock is its kelp cover -- strapweed and stalked kelp coat the sheer walls of the pinnacle. No source located in the 2026-08-23 re-audit reports specific fish species observed at this particular site (the fish list that previously appeared here -- kingfish, snapper, trevally, maomao, stingrays, moray eels -- was an unverified regional list identical to several other Poor Knights entries and has been removed). Regional Poor Knights fauna, including schooling maomao and pelagic fish, is common throughout the marine reserve, but has not been documented specifically for Ann's Rock in the sources checked.
 
 ## Dive Profile
 
@@ -78,4 +71,4 @@ Wall dives offer diverse photographic opportunities:
 - **Light and shadow**: The interplay of light and shadow along the wall creates compelling depth
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/), [battleface - Diving in New Zealand](https://www.battleface.com/blog/diving-in-new-zealand/). Last updated 2026-06-18.*
+*Sources: [Seafriends - Poor Knights Northern Quarter](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [Divernet - The Legendary Poor Knights Islands](https://divernet.com/world-dives/the-legendary-poor-knights-islands/), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-08-23.*

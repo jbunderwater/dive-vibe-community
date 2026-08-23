@@ -13,19 +13,25 @@ addedBy: osm_import
 
 ## Malayan Wreck
 
-Malayan Wreck is a historic wreck dive in Philippines Tubbataha Reefs, Asia.
+Malayan Wreck sits atop the reef at the southern tip of Tubbataha's North Atoll, a small, still boat-shaped wreck that serves as one of the park's most recognisable landmarks before the reef drops into Malayan Wall.
 
 ## Overview
 
-The Malayan Wreck rests on the southwest edge of Tubbataha's North Atoll, a freighter believed to date from the WWII era whose coral-encrusted hull now shelters harlequin sweetlips, giant morays, and resident harlequin ghost pipefish. Before you even reach the wreck, grey reef sharks, whitetips, and occasional hammerheads cruise the coral wall alongside it, while rainbow runners and trevally swirl overhead. Night dives here are legendary — Spanish dancers pulse across the sandy bottom and bumphead parrotfish sleep wedged into crevices throughout the wreck.
+Malayan Wreck lies in shallow water on the North Atoll reef top, close to Wall Street and Amos Rock, before the reef falls away into a wall — known locally as Malayan Wall — that plunges to around 60 meters. The wreck itself is small, reportedly around 10 meters long according to Divehappy, and unlike many wrecks it still looks like an actual boat rather than a collapsed pile of scrap.
+
+**The vessel's history is unconfirmed and sources disagree.** Divehappy's dedicated page on the site describes two competing, unverified stories: that it was a fishing vessel driven onto the shallows by a typhoon in the 1970s, or that it was deliberately sunk to create an artificial reef. No source confirms the ship's original name, builder, build date, or tonnage, so none of those details are stated here.
 
 ## Site Information
 
-- **Location**: Philippines Tubbataha Reefs, Asia
+- **Location**: North Atoll (southern tip), Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: liveaboard
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 
+## Marine Life
+
+Large sweetlips have made the wreck itself home, alongside notable table coral growth on the wreckage. Divers exploring the adjoining wall and reef report grey reef, whitetip, and hammerhead sharks, plus rainbow runners, pompano, bumphead parrotfish, batfish, giant morays, marble rays, and — at night — Spanish dancers, squid, and cuttlefish.
+
 ---
-*Sources: [Bluewater Dive Travel Tubbataha Reef](https://www.bluewaterdivetravel.com/destination/tubbataha-reef-diving), [Divehappy Tubbataha Reef Guide](https://divehappy.com/diving-tubbataha-reef-a-quick-guide/), [Dive The World Tubbataha Philippines](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php), [WWF Tubbataha Reef Diving](https://wwf.panda.org/discover/knowledge_hub/where_we_work/coraltriangle/coraltrianglefacts/places/tubbatahareefphilippines/diving/), [Guide to the Philippines Tubbataha Diving](https://guidetothephilippines.ph/articles/adventure-and-outdoors/tubbataha-reef-philippines-diving-guide). Last updated 2026-04-04.*
+*Sources: [Divehappy Malayan Wreck](https://divehappy.com/malayan-wreck-tubbataha-reef/), [Dive The World Tubbataha Philippines](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php), [Bluewater Dive Travel Tubbataha Reef](https://www.bluewaterdivetravel.com/destination/tubbataha-reef-diving). Last updated 2026-08-23.*

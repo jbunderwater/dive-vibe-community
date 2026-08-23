@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Wild Beast Point
 
-Wild Beast Point is an advanced wall dive offering a dramatic vertical structure and challenging conditions. The site's name suggests dynamic and unpredictable conditions—it's a serious Poor Knights dive suitable for experienced divers comfortable with current, depth, and demanding conditions. The wall offers excellent marine life viewing and photography for divers with the skills to manage the dive.
+Wild Beast Point reportedly earned its name because bronze whaler sharks would come to investigate divers every time they dived here. A sloping kelp platform gives way to a steep abyss on the western side, where split currents create turbulence -- a genuinely demanding site for experienced divers.
 
 ## Overview
 
-Wild Beast Point is an aptly-named advanced wall dive site. The dramatic vertical wall presents significant depth potential and often encounters notable current. This is a site for experienced divers seeking challenging Poor Knights diving with substantial depth and dynamic water conditions. The name reflects the wild nature of the site—divers should approach with respect for conditions and be prepared for a demanding dive profile.
+Wild Beast Point sits on the edge of Maomao Bay, where a sloping kelp platform on boulders (rising to around 40m) drops into a much deeper abyss beyond -- a marine-science survey records the bay bottom near 70m, considerably past this entry's recorded 24m recreational maximum, so treat the deeper figure as the site's full technical extent rather than the standard dive profile. Splitting currents around the point create turbulence, which is both the site's defining hazard and the reason it draws pelagic life. The name is reportedly tied to bronze whaler sharks that would come to check out divers here.
 
 ## Site Information
 
@@ -33,14 +33,7 @@ Wild Beast Point is an aptly-named advanced wall dive site. The dramatic vertica
 
 ## Marine Life
 
-The wall structure and current support excellent marine life:
-- Large kingfish, snapper, and giant trevally hunting in the blue
-- Schooling blue maomao and pink maomao
-- Short-tailed stingrays
-- Hard and soft corals covering the wall
-- Sponges and anemones
-- Moray eels and nudibranchs in crevices
-- Larger pelagic visitors
+A marine-science survey of this site specifically reports: bronze whaler sharks (summer), pink maomao shoals, and golfball sponges, yellow antler sponges, and beadlet coral on the rock surfaces. Kingfish, snapper, giant trevally, and blue maomao are common Poor Knights species but were not specifically confirmed for this site and have been removed from the list.
 
 ## Dive Profile
 
@@ -86,4 +79,4 @@ Advanced photographers will find excellent opportunities despite challenging con
 - Consider shooting during the first part of the dive when air and attention are freshest
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/), [battleface - Diving in New Zealand](https://www.battleface.com/blog/diving-in-new-zealand/). Last updated 2026-06-18.*
+*Sources: [Seafriends - Poor Knights Northern Quarter](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [New Zealand Geographic - Poor Knights, Rich Seas](https://www.nzgeo.com/stories/poor-knights-rich-seas/), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-08-23.*

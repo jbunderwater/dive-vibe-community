@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Jan's Tunnel
 
-Named after Jan Doak, a noted Poor Knights dive explorer, Jan's Tunnel is a spacious swim-through tunnel penetrating approximately 30 meters into the volcanic rock. The entrance is shallow and welcoming at 15 meters, making it accessible to snorkelers and scuba divers who don't wish to descend to deep sand (40m). As you penetrate the tunnel, it widens and narrows creating interesting passages. The tunnel's unusual characteristics include descending from 15 meters to 23 meters—uncommon for sea caves. Inside the darker sections, blue maomao school against the southern wall.
+Jan's Tunnel is a swim-through covered in kelp and sea rimu at its entrance, with one of the largest concentrations of Warriti (waratah/common) anemones found anywhere at the Poor Knights. Divers who surface inside describe emerging into an air pocket -- a "blue grotto" effect -- as one of the most memorable moments in Poor Knights diving.
 
 ## Overview
 
-Jan's Tunnel is a unique underwater tunnel system with extraordinary interior wall life but a barren sandy bottom. The tunnel is sheltered most of the time, making it a popular resting place for fish. The site is named after Jan Doak, with nearby Brady's Cove named after her son and Jan's Tunnel name commemorating her dive exploration of the area. The entrance is shallow enough for snorkelers to observe the tunnel entrance, with scuba divers able to explore the full penetration.
+Sources describe the tunnel entrance at roughly 15-19 meters, gradually shallowing toward 10 meters as it penetrates the rock, with boat anchorage nearby in 20-30 meters. This entry's recorded depth range (15-23m) is broadly consistent with that description, though exact figures vary a little between sources -- treat depth figures for this site as approximate. The tunnel's walls are covered in kelp and sea rimu near the entrance and host one of the densest concentrations of Warriti/common anemones at the Poor Knights. The previous claim that the site is named after a diver called "Jan Doak" could not be traced to any source in the 2026-08-23 re-audit and has been removed rather than repeated as fact.
 
 ## Site Information
 
@@ -34,13 +34,7 @@ Jan's Tunnel is a unique underwater tunnel system with extraordinary interior wa
 
 ## Marine Life
 
-The tunnel interior shelters fish as a sleepover:
-- Schools of blue maomao hugging the southern wall in darker sections
-- Fragile hydroids, bryozoans, sponges, anemones coating tunnel sides
-- Extraordinary richness of delicate organisms despite barren sandy bottom
-- Small crustaceans and fish seeking protection
-- Slipper lobsters observed in recent dives
-- Fish life less active than outer reef but unique sheltered-environment species
+The confirmed feature of Jan's Tunnel is its Warriti (waratah/common sea anemone, *Actinia* spp.) population, described as one of the largest concentrations found anywhere at the Poor Knights, along with kelp and sea rimu (a type of seaweed) around the entrance. A PADI dive-site listing also names sharks, whales, dolphins, and turtles as species that may be encountered here, but that appears to be a general "possible sightings" list for the wider area rather than a report specific to this tunnel, so it is noted with that caveat rather than presented as confirmed. The previous claims of blue maomao schooling on a "southern wall" and slipper lobster sightings could not be traced to a source and have been removed.
 
 ## Dive Profile
 
@@ -79,4 +73,4 @@ The dark tunnel sections offer low-light photography challenges and rewards:
 - **Penetration perspective**: Wide-angle looking back toward the entrance shows tunnel perspective
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [Dive Now - Poor Knights Arches and Caves](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*
+*Sources: [PADI - Jan's Tunnel Dive Site](https://www.padi.com/dive-site/new-zealand/jans-tunnel/), [Dive Now - Poor Knights Arches and Caves](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-08-23.*

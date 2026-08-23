@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cream Garden
 
-Cream Garden is an intermediate reef dive offering healthy coral and encrusting organism growth in a reliably calm location. The site features moderate depths (22m maximum) and abundant reef life, making it an excellent choice for building Poor Knights experience or for photographers seeking detailed reef work. The site is popular for its consistent conditions and diverse marine life in a manageable depth range.
+Cream Garden (also referred to as Cream Gardens) is a kelp-fringed reef and wall site where the anchorage sits in 15-30m, with the wall dropping much further at the point itself. Two independent dive-shop and marine-science sources report bronze whaler sharks and groups of large kingfish at this site.
 
 ## Overview
 
-Cream Garden is a reef dive featuring healthy coral and sponge growth with excellent marine life diversity. The site's name derives from the abundant cream-coloured sponges and encrusting life coating the reef structures. The moderate depth and typically calm conditions make this an accessible intermediate site while still offering excellent Poor Knights diving quality. The reef structure is rewarding for both general divers and photographers seeking detailed macro and reef composition work.
+Cream Garden combines a kelp-forest anchorage area (15-30m) with a wall that drops steeply at the point -- one dive-shop account describes it continuing to roughly 60m, well beyond recreational limits, while a marine-science survey of the same area records a decompression zone at 6-8m and wall diving around 30m. Recreational dives here stay within the 22m maximum depth recorded for this entry; the deeper wall exists but is a technical-diving extension rather than the standard profile. Bronze whaler sharks and large kingfish are reported here by two independent sources, along with pink maomao schools.
 
 ## Site Information
 
@@ -33,15 +33,13 @@ Cream Garden is a reef dive featuring healthy coral and sponge growth with excel
 
 ## Marine Life
 
-Cream Garden supports excellent reef biodiversity:
-- Healthy hard coral and soft coral growth
-- Abundant sponges (cream-coloured and other varieties)
-- Anemones and hydroids
-- Kingfish, snapper, and giant trevally
-- Schooling blue maomao and pink maomao
-- Short-tailed stingrays (warmer months)
-- Moray eels and nudibranchs
-- Small reef fish and invertebrates
+The following are specifically reported for Cream Garden across independent sources:
+- Bronze whaler sharks (reported by a dive-shop operator and a marine-science survey independently)
+- Large kingfish, seen in groups
+- Pink maomao schools
+- Kelp forest cover, with moving seaweed noted as a feature of the site
+
+The previous list here (hard/soft corals, sponges, snapper, giant trevally, blue maomao, stingrays, moray eels) matched the generic list used across most other Poor Knights entries and could not be confirmed specifically for Cream Garden, so it has been removed. General Poor Knights reef life is likely present but unconfirmed at this site.
 
 ## Dive Profile
 
@@ -80,4 +78,4 @@ Cream Garden offers excellent photographic diversity:
 - The moderate depth and calm conditions allow relaxed, thoughtful photography approach
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*
+*Sources: [Dive HQ New Zealand - The Poor Knights Islands](https://divehq.co.nz/blog/the-poor-knights-islands/), [Seafriends - Poor Knights Northern Quarter](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [Ian Skipworth - Poor Knights Deep Dive Sites](https://ianskipworth.com/suig/deepknights.html). Last updated 2026-08-23.*

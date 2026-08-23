@@ -17,46 +17,30 @@ Jesse Beazley Reef is an isolated submerged atoll in the Tubbataha Reefs Natural
 
 ## Overview
 
-Jesse Beazley Reef sits alone in the Sulu Sea, a submerged circular atoll whose rim supports spectacular coral growth while the interior lagoon provides relatively sheltered conditions compared to the park's exposed outer walls. The reef's isolation — even within the remote Tubbataha park — means it receives the fewest diver visits of any site in the area, and the marine life has an undisturbed character that even regular Tubbataha visitors describe as exceptional. The outer reef walls drop steeply from near the surface to deep water, with the accessible zone to 30 meters encompassing the densest coral and fish life. The atoll's complete enclosure within the UNESCO park has allowed reef shark populations to reach remarkable densities.
+Jesse Beazley Reef sits alone in the Sulu Sea, about 20 km north of Tubbataha's two main atolls — roughly a 9-hour liveaboard passage from Puerto Princesa. It's a small reef, around half a kilometer to 1.6 km across depending on the source, with shallows sloping from 7-12 meters before dropping to a wall that falls past 50 meters. Because it lies outside the two main atolls, it's not visited on every itinerary and typically receives fewer divers than the core park sites. Visibility here can reach 40 meters, and dive operators typically explore it across two dives during a calm-weather window.
 
 ## Site Information
 
-- **Location**: Jesse Beazley Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
+- **Location**: Jesse Beazley Reef, ~20 km north of the main atolls, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: liveaboard
 - **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters
-- **Current**: Variable; atoll creates complex current patterns
+- **Typical Visibility**: up to 40 meters
+- **Current**: Moderate to strong
 - **Best Time**: March to June
 
 ## Marine Life
 
-The isolation of Jesse Beazley creates truly exceptional marine life encounters. Grey reef sharks and whitetip reef sharks are present in unusual numbers, often forming aggregations on the reef slope. Large napoleon wrasse inhabit the reef confidently. Sea turtles are abundant — both green and hawksbill species. The atoll's interior lagoon supports different species from the outer wall, including cleaning station activity. Manta rays use the atoll as a feeding and cleaning stop. Whale sharks occasionally circle the structure.
-
-## Dive Profile
-
-The atoll's circular structure allows diving either the outer wall or the interior rim. The outer wall offers the most dramatic drop-off diving with the best shark activity. The interior reef is calmer and excellent for sea turtle observation. Most liveaboard programmes dedicate multiple dives to Jesse Beazley to cover both environments.
+Whitetip and blacktip reef sharks are common in the shallows, along with tuna, groupers, barracuda, and mackerel. Pelagic visitors further out include eagle rays, manta rays, and — more occasionally — hammerhead, mako, and thresher sharks, with the northwestern part of the reef a particular spot for hammerheads. Nudibranchs are found on the reef, and spinner dolphins are known to frequent the area.
 
 ## Entry and Exit
 
-Liveaboard access only; Jesse Beazley is the most remote site in the Tubbataha system and may not be included on all itineraries depending on weather and passage time from the main atolls. Entry from dinghy by giant stride; SMB for ascent. Park ranger briefings apply to all dives.
-
-## Tips and Recommendations
-
-- Request Jesse Beazley inclusion when booking your Tubbataha liveaboard — not all operators visit it
-- Multiple dives are needed to appreciate both the outer wall and interior rim; plan accordingly
-- The shark aggregations here can be stunning — maintain calm, neutral buoyancy and don't panic or flee
-- The interior lagoon is excellent for relaxed turtle photography in calmer water
-- This is one of a very small number of places in the world where the reef is visibly more pristine than any memory of "baseline" reef health
+Liveaboard access only; as the most remote site in the Tubbataha system, Jesse Beazley may not be included on every itinerary depending on weather and passage time. Entry from dinghy by giant stride; SMB for ascent. Park ranger briefings apply to all dives.
 
 ## Safety Considerations
 
-The most remote dive site in the Tubbataha system. Current patterns around atolls can be complex and changeable. Always carry an SMB and follow ranger guidance on entry timing. Medical evacuation from Jesse Beazley would take longer than from the main park areas.
-
-## Photography
-
-Jesse Beazley offers exceptional photography on both walls. Shark aggregations are the standout subject — multiple sharks in one wide-angle frame is achievable here when it would be difficult elsewhere. Sea turtle portraits in the lagoon and manta ray encounters add to the photographic diversity.
+The most remote dive site in the Tubbataha system, with correspondingly longer medical evacuation times. Currents can be moderate to strong. Always carry an SMB and follow ranger guidance on entry timing.
 
 ---
-*Sources: [Bluewater Dive Travel Tubbataha Reef](https://www.bluewaterdivetravel.com/destination/tubbataha-reef-diving), [Divehappy Tubbataha Reef Guide](https://divehappy.com/diving-tubbataha-reef-a-quick-guide/), [Dive The World Tubbataha Philippines](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php), [WWF Tubbataha Reef Diving](https://wwf.panda.org/discover/knowledge_hub/where_we_work/coraltriangle/coraltrianglefacts/places/tubbatahareefphilippines/diving/), [Guide to the Philippines Tubbataha Diving](https://guidetothephilippines.ph/articles/adventure-and-outdoors/tubbataha-reef-philippines-diving-guide). Last updated 2026-04-04.*
+*Sources: [Asia Dive Site Jessie Beazley Reef](https://www.asiadivesite.com/philippines-dive-sites/tubbataha-reef/jessie-beazley-reef.php), [Diversion Dive Travel — Jessie Beazley North](https://www.diversiondivetravel.com.au/g1143/diving_jessie_beazley_north_.html), [ZuBlu — Tubbataha's Remote Reefs](https://www.zubludiving.com/articles/zublu-insights/discover-true-frontier-diving-at-tubbatahas-remote-reefs). Last updated 2026-08-23.*
