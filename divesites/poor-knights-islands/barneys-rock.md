@@ -23,9 +23,9 @@ Because this site's identity could not be verified against outside sources, no s
 
 - **Location**: Poor Knights Islands, Northland, New Zealand (unconfirmed against outside sources -- see note above)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (unconfirmed)
-- **Difficulty Level**: Intermediate (Poor Knights is a cold/temperate-water destination; the site's difficulty floor has been raised from the prior Beginner rating regardless of the identity question)
-- **Maximum Depth**: 15 meters (unconfirmed)
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 15 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April) -- destination-level figure, not site-specific
 - **Current**: Unknown
 - **Best Time**: Unknown

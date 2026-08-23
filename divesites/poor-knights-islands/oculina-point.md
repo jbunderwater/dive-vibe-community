@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Oculina Point
 
-Named after the rare ivory coral Oculina virgosa found here by early diving pioneers, this wall and reef site at the Poor Knights Islands offers drift diving along a current-swept point with speckled morays, leopard anemones, and abundant fish life.
+Named after the rare ivory coral Oculina virgosa found here by early diving pioneers, this wall and reef site at the Poor Knights Islands offers drift diving along a current-swept point. A diver-log account describes kelp-covered vertical walls and a ray sighting; sources disagree on how deep the site's base actually sits (25m vs. roughly 35m -- see Site Information).
 
 ## Overview
 
-Oculina Point takes its name from the rare ivory coral Oculina virgosa discovered here by the diving pioneers who first explored the Poor Knights Islands. The site features a wall that can be drifted along when a mild current is running, passing through a rich environment of temperate and subtropical marine life that thrives where the warm East Auckland Current meets the cooler waters of the New Zealand continental shelf.
+Oculina Point takes its name from the rare ivory coral Oculina virgosa, first documented here by early Poor Knights divers. The site features a wall that can be drifted along when a mild current is running, in a mixing zone where the warm East Auckland Current meets cooler continental-shelf water. A dive-log account describes the wall as kelp-covered with a vertical profile and a bottom depth closer to 35 meters, somewhat deeper than the 25m maximum recorded in this entry's structured data -- both figures are given here rather than picking one, since neither could be independently confirmed as more current or reliable.
 
 The Poor Knights Islands are perched on the edge of the continental shelf, 23 kilometres from the Tutukaka Coast. Created by volcanic eruptions approximately 11 million years ago, the islands' sheer rock walls plunge into deep water, providing the dramatic underwater terrain that earned them recognition as one of the world's top ten dive locations.
 
@@ -35,7 +35,7 @@ The Poor Knights Islands are perched on the edge of the continental shelf, 23 ki
 
 ## Marine Life
 
-The wall at Oculina Point hosts speckled morays sheltering in crevices, firebrick starfish on the rock surfaces, and banded wrasse cruising the reef face. Leopard anemones are a particular highlight -- delicate white bodies punctuated with brown spots that make them distinctive among the Poor Knights' invertebrate community. Leatherjackets and demoiselles are common in the water column. The rare ivory coral Oculina virgosa, for which the site is named, may still be found in deeper sections.
+A diver-log account of Oculina Point confirms one ray sighting (species not specified) and dense kelp cover on the wall. The site's namesake, the ivory coral Oculina virgosa, was documented here historically, which is why the point carries that name, though its current presence has not been independently reconfirmed in the sources checked. The previous list here -- speckled morays, firebrick starfish, banded wrasse, leopard anemones, leatherjackets, demoiselles -- could not be traced to a source in the 2026-08-23 re-audit and has been removed rather than repeated.
 
 ## Dive Profile
 
@@ -47,7 +47,7 @@ Access is by dive boat from Tutukaka marina (approximately 45 minutes). When dri
 
 ## Tips and Recommendations
 
-- Look for the leopard anemones on the wall -- they are photogenic and distinctive to this area
+- Kelp cover on the wall is dense -- a wide-angle lens suits the terrain better than tight macro work at this particular site
 - A mild current makes for excellent effortless drift diving; stronger currents may require more experience
 - The Poor Knights are a marine reserve -- nothing may be taken or disturbed
 - Bring both macro and wide-angle lenses if possible; the site rewards both approaches
@@ -57,4 +57,4 @@ Access is by dive boat from Tutukaka marina (approximately 45 minutes). When dri
 Currents at the point are variable -- follow the dive guide's assessment and be prepared for changing conditions. The wall drops into deeper water, so monitor depth carefully to avoid exceeding planned limits. Water temperature in the Poor Knights can be cool, particularly outside summer months; adequate thermal protection is essential.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/), [Dive! Tutukaka](https://diving.co.nz/). Last updated 2026-06-18.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/). Re-audited 2026-08-23 -- depth conflict identified and documented (see Overview); unverified species list removed from Marine Life. Last updated 2026-08-23.*

@@ -27,7 +27,7 @@ The Poor Knights Islands are a world-class diving destination featuring over 25 
 ### Marine Life & Environment
 
 - **Water Conditions**: Winter (May-September): 14-17°C; Summer (November-April): 19-25°C. Visibility 15-30m typical, up to 46m. Mild to moderate currents through archways.
-- **Marine Biodiversity**: Spectacular schools of blue maomao (dense enough to block sunlight in arches), pink maomao, kingfish, snapper, giant trevally, short-tailed stingrays, eagle rays, moray eels, nudibranchs, large scorpion fish, and firebrick stars. Shark species include wobbegong and occasional other species.
+- **Marine Biodiversity**: Spectacular schools of blue maomao (dense enough to block sunlight in arches), pink maomao, kingfish, snapper, giant trevally, stingrays, moray eels, nudibranchs, and scorpionfish. Bronze whaler sharks are reported at several specific sites (see individual dive site pages); a previous claim of wobbegong sharks here could not be corroborated by any source in the 2026-08-23 re-audit and has been removed.
 - **Conservation**: Marine Protected Area with strict regulations. Take only photos and respect marine life.
 
 ## Additional Information
@@ -39,4 +39,4 @@ The Poor Knights Islands are a world-class diving destination featuring over 25 
 - **Safety**: Cold-water experience required. Monitor buoyancy carefully on deep dives. Carry appropriate lights for cave/arch entries. Always dive with a buddy and a safety sausage (SMB). Verify dive operator reputation.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [Scuba Diver Life - Scuba Diving Poor Knights Islands](https://scubadiverlife.com/scuba-diving-poor-knights-islands/), [Dive HQ New Zealand - The Poor Knights Islands](https://divehq.co.nz/blog/the-poor-knights-islands/). Re-audited 2026-08-23 as part of a destination-wide QA pass -- general destination facts (temperatures, visibility, cave/arch character, Jacques Cousteau top-10 attribution) cross-checked across multiple independent sources and left unchanged. Last updated 2026-08-23.*

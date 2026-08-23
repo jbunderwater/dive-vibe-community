@@ -13,13 +13,13 @@ addedBy: osm_import
 
 # Crystal Cave
 
-A cave and swim-through dive at the Poor Knights Islands, part of the volcanic island chain's network of tunnels, arches, and caverns carved from 11-million-year-old rock. Sheltered passages host filter feeders, nudibranchs, and the play of light through underwater openings.
+A cave and swim-through dive at the Poor Knights Islands, dropping from about 12 to 22 meters. A diver-log account of the site describes it as wide at the entrance, narrowing into a low, kelp-filled slot.
 
 ## Overview
 
-Crystal Cave is one of the many cave and swim-through formations at the Poor Knights Islands, formed by millions of years of wave erosion cutting into the volcanic rock. The Poor Knights -- located 23 kilometres off New Zealand's Tutukaka Coast and washed by the warm East Auckland Current from the Coral Sea -- are consistently ranked among the world's top ten dive locations; Jacques Cousteau reportedly listed them among his top ten favourite dive sites worldwide.
+Crystal Cave is one of the many cave and swim-through formations at the Poor Knights Islands, formed by wave erosion cutting into the volcanic rock. The Poor Knights -- located 23 kilometres off New Zealand's Tutukaka Coast and washed by the warm East Auckland Current from the Coral Sea -- are consistently ranked among the world's top dive locations, a ranking repeated across multiple independent dive-travel sources; Jacques Cousteau is widely reported to have listed them among his favourite dive sites, though this attribution traces back to a long-repeated claim rather than a primary citation.
 
-The cave system features passages that allow divers to swim through sections of the island's rocky substrate, with ambient light filtering through openings to create atmospheric lighting effects. The walls inside the caves are covered in sponge gardens, encrusting invertebrates, and jewel anemones that thrive in the low-light, current-fed environment. Outside the cave entrances, the surrounding reef teems with the fish life for which the Poor Knights are famous.
+A dive-log account of Crystal Cave describes it dropping from roughly 12 to 22 meters, starting wide at the entrance before narrowing into a low, kelp-filled slot. Ambient light filters through the entrance, and the surrounding reef -- including nearby Oculina Point -- carries the fish life for which the Poor Knights are known, though specific species have not been confirmed for the cave interior itself (see Marine Life below).
 
 ## Site Information
 
@@ -35,7 +35,7 @@ The cave system features passages that allow divers to swim through sections of 
 
 ## Marine Life
 
-Inside the caves, the walls host sponge gardens, jewel anemones, and encrusting bryozoans. Nudibranchs are found on shaded surfaces. Outside the cave entrances, the Poor Knights marine reserve supports schools of blue maomao, pink maomao, koheru, trevally, and demoiselles. Moray eels shelter in rocky crevices. Stingrays and eagle rays cruise the open water around the island, and scorpionfish hide in the kelp.
+The confirmed feature of Crystal Cave's interior is kelp filling the narrow slot section. No source located in the 2026-08-23 re-audit names specific invertebrate or fish species inside the cave itself -- the previous claims of sponge gardens, jewel anemones, bryozoans, and nudibranchs inside the cave could not be traced to a source and have been removed. Outside the cave, general Poor Knights marine life (maomao schools, moray eels, stingrays) is common throughout the reserve but is not confirmed specifically at this entrance.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Access is by dive boat from Tutukaka marina (approximately 45 minutes each way).
 While the swim-throughs at the Poor Knights are generally open and well-lit, they are still overhead environments. Maintain visual contact with exit points at all times. Avoid stirring up silt with careless fin kicks. Currents around the islands can be variable -- follow your dive guide's briefing on entry and exit points. Water temperature can drop below 18 degrees C outside summer, so adequate thermal protection is essential.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Dive! Tutukaka](https://diving.co.nz/poor-knights-islands), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/). Last updated 2026-06-18.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Dive! Tutukaka](https://diving.co.nz/poor-knights-islands), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/). Re-audited 2026-08-23. Last updated 2026-08-23.*
