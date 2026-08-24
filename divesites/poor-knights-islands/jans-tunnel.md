@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Jan's Tunnel
 
-Named after Jan Doak, a noted Poor Knights dive explorer, Jan's Tunnel is a spacious swim-through tunnel penetrating approximately 30 meters into the volcanic rock. The entrance is shallow and welcoming at 15 meters, making it accessible to snorkelers and scuba divers who don't wish to descend to deep sand (40m). As you penetrate the tunnel, it widens and narrows creating interesting passages. The tunnel's unusual characteristics include descending from 15 meters to 23 meters—uncommon for sea caves. Inside the darker sections, blue maomao school against the southern wall.
+Named after Jan Doak — one of the pioneer divers, along with her husband Wade Doak, who explored and documented the Poor Knights from the 1960s onward — Jan's Tunnel is a swim-through wide enough for a small boat, though its ceiling drops too low to actually let one pass. It's a sheltered site used by fish as a resting spot, known for large horse anemones and white anemones on its southern side. Sources disagree on depth: Seafriends describes the interior as only a few metres deep in places, while Poor Knights dive operators list a working depth range of 15-23 meters for the site as a whole.
 
 ## Overview
 
-Jan's Tunnel is a unique underwater tunnel system with extraordinary interior wall life but a barren sandy bottom. The tunnel is sheltered most of the time, making it a popular resting place for fish. The site is named after Jan Doak, with nearby Brady's Cove named after her son and Jan's Tunnel name commemorating her dive exploration of the area. The entrance is shallow enough for snorkelers to observe the tunnel entrance, with scuba divers able to explore the full penetration.
+Jan's Tunnel opens into a kind of enclosed rockpool inside, with a second exit under a natural bridge. It's sheltered most of the time, making it a popular resting spot for fish, and is well regarded as a night dive for the same reason. The name honours Jan Doak, part of the husband-and-wife pioneer diving team (with Wade Doak) that helped document and popularise the Poor Knights from the 1960s. Given the conflicting depth reports, plan a conservative profile and get a specific depth briefing from your guide before this dive.
 
 ## Site Information
 
@@ -34,17 +34,11 @@ Jan's Tunnel is a unique underwater tunnel system with extraordinary interior wa
 
 ## Marine Life
 
-The tunnel interior shelters fish as a sleepover:
-- Schools of blue maomao hugging the southern wall in darker sections
-- Fragile hydroids, bryozoans, sponges, anemones coating tunnel sides
-- Extraordinary richness of delicate organisms despite barren sandy bottom
-- Small crustaceans and fish seeking protection
-- Slipper lobsters observed in recent dives
-- Fish life less active than outer reef but unique sheltered-environment species
+The specifically-documented feature here is large horse anemones and white anemones on the tunnel's southern side — the site's richest confirmed marine life given how little else grows on its otherwise barren, sandy interior. The tunnel is used by fish as a resting spot ("a sleepover," per Seafriends), which is also what makes it a worthwhile night dive. We don't have a source confirming blue maomao specifically school here, so that claim from the prior write-up has been removed; beyond the anemones, treat any other species as general Poor Knights fauna rather than site-confirmed.
 
 ## Dive Profile
 
-Descend to the tunnel entrance at 15 meters. The tunnel entrance is accessible to snorkelers from the surface. As you enter the tunnel, it widens and narrows with the ceiling descending in places but remaining comfortable. The tunnel penetrates some 30 meters with an unusual feature: it descends from 15 meters at the entrance to 23 meters in its deepest sections. The bottom becomes barren sand, but the walls are extraordinarily rich in fragile life. In the darkest inner sections, blue maomao hug the southern wall. The sheltered environment makes this site excellent for observing fish behaviour adapted to low-light, confined spaces.
+Descend to the tunnel entrance at around 15 meters — shallow enough that the entrance can be viewed by snorkelers from the surface. As you enter, the tunnel widens into an enclosed rockpool area with a second exit under a natural bridge. Look for the horse anemones and white anemones on the southern wall as you move through. Given the conflicting depth reports (a working range of 15-23m per operators, versus "only a few metres" for some interior sections per Seafriends), plan conservatively and confirm the day's specific route and depth with your guide.
 
 ## Entry and Exit
 
@@ -72,11 +66,12 @@ Boat entry via giant stride directly to tunnel entrance. Your guide will indicat
 ## Photography
 
 The dark tunnel sections offer low-light photography challenges and rewards:
-- **Macro**: Detailed shots of hydroids, bryozoans, and delicate organisms coating walls
-- **Fish behaviour**: Blue maomao activity in dark sections is unique photography opportunity
+- **Macro**: The horse anemones and white anemones on the southern wall are the confirmed subject worth focusing on
 - **Torch lighting**: Using your torch as a light source creates interesting shadow and depth effects
 - **Entrance framing**: The tunnel entrance framed by light is a classic composition
 - **Penetration perspective**: Wide-angle looking back toward the entrance shows tunnel perspective
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [Dive Now - Poor Knights Arches and Caves](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*
+*Re-audited 2026-08-24: the claim that blue maomao school specifically inside this tunnel had no independent source and has been removed. Marine life is now anchored to the one confirmed feature (horse anemones and white anemones, per Seafriends) rather than a generic list. The depth conflict between operator listings (15-23m) and Seafriends' "only a few metres deep" description of the interior is now flagged explicitly instead of silently averaged. Jan Doak's identity as part of the Doak pioneer-diving couple was confirmed.*
+
+*Sources: [Seafriends - Southern quarter Poor Knights diving](https://www.seafriends.org.nz/issues/res/pk/squart.htm), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive Now - The Poor Knights: arches, caves and swim throughs](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/). Last updated 2026-08-24.*

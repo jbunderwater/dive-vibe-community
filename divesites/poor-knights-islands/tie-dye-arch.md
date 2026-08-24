@@ -3,7 +3,7 @@ name: Tie Dye Arch
 lat: -35.458
 lng: 174.72
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 30
 entryType: boat
 siteType: cave
 ref: null
@@ -13,40 +13,32 @@ addedBy: osm_import
 
 ## Tie Dye Arch
 
-Named for its amazing patchwork of colours coating the rocks and walls, Tie Dye Arch is a visual feast for both wide-angle and macro photographers. The arch splits into two passages on the northern side, each a tunnel of light and colour. The entrance sits at approximately 18 meters on the channel side, descending slightly as you enter. The combination of colourful encrusting life and fish-filled passages makes this one of the most photogenic Poor Knights dives.
+Named for its amazing patchwork of colours coating the rocks and walls, Tie Dye Arch sits at the southern end of the Poor Knights and is one of the more exposed sites — it's only accessible on days with minimal wind and swell. The arch splits into two passages on the northern side. A steep rocky wall covered in encrusting life gives way to a bouldery, kelpy slope running from about 15 meters down to a sand bottom at 30 meters. The site is also notable for large aggregations of stingrays that have been reported filling the arch.
 
 ## Overview
 
-Tie Dye Arch is a photographer's paradise, named after the tie-dye aesthetic of colourful sponges, anemones, and other encrusting organisms covering the rocks and arch walls. The southern entrance at the channel side descends to 18 meters, then penetrates into the archway creating two distinct passages on the northern side. The characteristic appearance created by multiple light-filled passageways makes for lovely wide-angle compositions. The site offers both large rock features and intricate wall life for varied photography.
+Tie Dye Arch is named for the tie-dye-like aesthetic of colourful sponges and anemones covering the rocks and arch walls. The southern entrance is a single arch; on the northern side it splits into two passages. Unlike most of the other arches at the Knights, you can't surface in the middle of Tie Dye — it's a more committing overhead environment. Because the site is more exposed to open-ocean swell than most Poor Knights sites, it requires calm weather to dive safely.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Northland, New Zealand
+- **Location**: Southern end of the Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Minimum Depth**: 10 meters (within arch)
+- **Maximum Depth**: 30 meters
+- **Minimum Depth**: 15 meters (top of the rocky wall/slope)
 - **Typical Visibility**: 15-30 meters (excellent for wide-angle)
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
-- **Current**: Mild to moderate
-- **Best Time**: Year-round; excellent visibility and light in winter
+- **Current**: Mild to moderate; site is exposed to swell and needs calm weather
+- **Best Time**: Requires calm, low-wind, low-swell conditions; otherwise year-round
 
 ## Marine Life
 
-The encrusting organisms create the Tie Dye aesthetic:
-- Dense sponge gardens (reds, oranges, purples, browns) covering walls
-- Anemones and hydroids
-- Bryozoans
-- Hard corals
-- Schools of blue maomao and pink maomao swimming through passages
-- Kingfish, snapper, and giant trevally in the blue water
-- Nudibranchs and small reef fish
-- Morays and eel species
+The encrusting organisms create the tie-dye aesthetic: dense sponges and anemones in reds, oranges, purples, and browns, described by one source as resembling "a hippy's t-shirt." Massive stalks of kelp jut from the jagged rock on the lower slope. The site's standout, specifically-reported marine life feature is large aggregations of stingrays that can fill the arch. Nudibranchs are also reported in numbers on the encrusted walls. Beyond these, generic Poor Knights reef fish (maomao, snapper, kingfish) likely pass through but are not specifically documented for this site.
 
 ## Dive Profile
 
-Descend at the southern entrance to approximately 18 meters, approaching the arch opening. As you enter the arch passages, the colourful walls envelop you—stay alert for the remarkable wall colours. The arch splits into two passages on the northern side, each framed by light and colour. Work through the passages at a leisurely pace, observing both the larger rock structures and the intricate wall details. The reef inside narrows but remains comfortable. Plan adequate time for photography—colour photography here requires patience and good positioning.
+Descend at the southern entrance and approach the single arch opening. As you enter, the colourful walls envelop you. On the northern side, the arch splits into two passages. Below the wall, the terrain transitions to a bouldery, kelpy slope descending from about 15 meters to a sand bottom at 30 meters — plan your profile knowing the site is deeper than a typical Poor Knights arch. Because you can't surface partway through as you can at some other arches, treat this as a full overhead-environment passage and stay with your guide.
 
 ## Entry and Exit
 
@@ -63,12 +55,11 @@ Boat entry via giant stride to the arch entrance. Your guide will indicate the d
 
 ## Safety Considerations
 
-- Excellent intermediate-level arch dive
+- This site is exposed to open-ocean swell — operators will only run it in calm weather, so conditions may change your day's plan
 - Good buoyancy control to avoid damaging fragile organisms
-- Light entrance (18m) allows extended exploration
-- Current can increase—maintain buddy contact
-- Never exceed arch base depth
-- Suitable for divers building Poor Knights experience
+- Unlike some other Poor Knights arches, you cannot surface partway through — stay with your guide through the full passage
+- The deeper sand-bottom section (30m) requires more conservative gas planning than a typical shallow arch dive
+- Current can increase — maintain buddy contact
 
 ## Photography
 
@@ -80,4 +71,6 @@ This is a premier photographic site combining wide-angle and macro opportunities
 - Consider bringing backup camera bodies for macro and wide-angle work
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/). Last updated 2026-06-18.*
+*Re-audited 2026-08-24: depth corrected from a flat 10-18m to 15-30m based on Dive Pacific's and Global Dive's descriptions of the kelpy slope running down to a sand bottom (the previous figure only captured the shallow rock-wall section). Added the site's exposure to swell (calm-weather-only access) and the confirmed stingray-aggregation detail, both absent from the prior write-up.*
+
+*Sources: [Dive Pacific - Diving the Tie Dye Arch at the Poor Knights](https://www.divepacific.co.nz/post/diving-the-tie-dye-arch-at-the-poor-knights), [Global Dive - Poor Knights Tie Dye Arch](https://globaldive.net/poor-knights-tie-dye-arch), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-08-24.*

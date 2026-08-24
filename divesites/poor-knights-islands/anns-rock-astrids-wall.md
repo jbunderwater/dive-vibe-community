@@ -22,10 +22,10 @@ Dive operators describe Ann's Rock simply as an anchor point: boats tie up on th
 ## Site Information
 
 - **Location**: Western side of Tawhiti Rahi, Poor Knights Islands, Northland, New Zealand
-- **Entry Type**: Boat dive (direct anchor)
-- **Site Type**: Wall / current-swept rock
-- **Difficulty Level**: Intermediate (cold-water destination minimum)
-- **Maximum Depth**: 25 meters is the depth commonly used for the anchor-and-drift dive; be aware some sources describe the outer face of the rock dropping to roughly 70 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 14-17°C (winter, May-Sept), 19-25°C (summer, Nov-April)
 - **Current**: Often present — divers plan to swim with or against it and must be able to return to the anchor line

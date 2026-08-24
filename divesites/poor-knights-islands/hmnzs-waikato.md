@@ -3,7 +3,7 @@ name: HMNZS Waikato
 lat: -35.475
 lng: 174.74
 difficulty: Intermediate
-maxDepth: 28
+maxDepth: 32
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,15 +13,17 @@ addedBy: osm_import
 
 # HMNZS Waikato
 
-New Zealand's first Leander-class frigate, 113.4 meters long, scuttled in 2000 off Tutukaka and sunk in a world-record time of 2 minutes 40 seconds. Now resting on her port side in two sections at 28-32 meters with easy penetration opportunities and dramatic gun emplacements.
+New Zealand's first Leander-class frigate, 113.4 meters long, deliberately sunk off Tutukaka as a dive wreck in 2000 in a scuttling that dive operators describe as a world-record 2 minutes 40 seconds. She now lies broken in two sections in 28-32 meters of water, tilted onto one side, with easy penetration opportunities and dramatic gun emplacements — but the bow did not separate during the sinking itself; that happened two years later.
 
 ## Overview
 
-HMNZS Waikato was the first of the Leander-class frigates built for the Royal New Zealand Navy, laid down on 10 January 1964 at Harland and Wolff in Belfast, Ireland, and launched on 18 February 1965 by Princess Alexandra. At 113.4 meters long, 12.5 meters beam, and 5.5 meters draft, she was a substantial warship displacing 2,990 tonnes and armed with twin 4.5-inch (114mm) guns, 20mm Oerlikon cannons, Seacat anti-aircraft missiles, torpedo tubes, and a Westland WASP helicopter, with a complement of 245. She was commissioned on 19 September 1966.
+HMNZS Waikato was the first of the Leander-class frigates built for the Royal New Zealand Navy, laid down in January 1964 at Harland and Wolff in Belfast, Ireland, and launched on 18 February 1965. At 113.4 meters long with a 12.5-meter beam and roughly 5.5-6 meter draft, she was a substantial warship, with Wikipedia giving her standard displacement as approximately 2,450 tonnes (about 3,200 tonnes full load) — a figure that differs from an earlier "2,990 tonnes" claim in this write-up we could not independently confirm, so the range from Wikipedia is used here instead. She was armed with twin 4.5-inch (114mm) guns, a quadruple Sea Cat surface-to-air missile launcher, and Mark 32 torpedo tubes, and carried a Wasp helicopter (later a Kaman SH-2G). She was commissioned in September 1966.
 
-After decommissioning on 3 July 1998, the Waikato was sold for $1 and prepared as a dive attraction with large openings cut into the hull to make entry and exit safe for trained wreck divers. She was deliberately sunk off Ngunguru Bay near Tutukaka in late 2000. Sources give conflicting dates for the scuttling: the National Museum of the Royal New Zealand Navy records 11 November 2000, while nzdiving.co.nz and other dive operators cite 25 November 2000; the world-record scuttling time of 2 minutes 40 seconds is reported by nzdiving.co.nz. During the scuttling, the bow separated from the hull before it reached the seabed, creating the two-section dive site.
+After decommissioning in 1998, the Waikato was prepared as a dive attraction with large openings cut into the hull for diver access and deliberately sunk off Tutukaka as an artificial reef. **Sources disagree on the exact scuttling date**: the National Museum of the Royal New Zealand Navy records 11 November 2000, most dive-charter sites cite 25 November 2000 (also the source of the "2 minutes 40 seconds" scuttling-time claim), and Wikipedia gives 18 December 2000. We have not been able to resolve which date is correct and are presenting all three rather than picking one.
 
-The wreck now lies on her port side at approximately 45 degrees to the sand, broken into two sections. The bow section with the twin 4.5-inch guns has separated from the main hull. The shallowest part of the wreck is only 12-14 meters from the surface, with the sand at 28-32 meters, making it accessible across a range of depths.
+**The bow did not separate during the scuttling.** Wikipedia and independent naval-history sources agree that the bow separated from the rest of the hull in heavy weather in 2002 — roughly two years after the ship was sunk — and that subsequent storms over the following two decades have continued to move the bow section further from the main hull and increase its list. A prior version of this page incorrectly attributed the two-section layout to the sinking process itself; that has been corrected here.
+
+The wreck now lies broken in two sections, tilted onto one side (most sources say port side; at least one account describes it as starboard, so treat the exact orientation as secondary to the more important fact that she is tilted and broken). The shallowest part of the wreck is only 12-14 meters from the surface, with the sand at 28-32 meters, making it accessible across a range of depths.
 
 ## Site Information
 
@@ -29,7 +31,7 @@ The wreck now lies on her port side at approximately 45 degrees to the sand, bro
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 10-20 meters
 - **Water Temperature**: 17-22 degrees C
 - **Current**: Variable; exposed location
@@ -59,4 +61,6 @@ Access is by dive boat from Tutukaka marina. The site is in a more exposed locat
 Advanced Open Water certification is required. The exposed location means sea conditions and visibility can change; follow the operator's assessment of conditions. The wreck's tilt combined with kelp movement from swell can cause vertigo -- maintain visual reference to fixed points. Penetration requires wreck diving certification. Loose metal edges exist where the hull has separated; maintain good buoyancy throughout. Adequate thermal protection is essential in New Zealand's temperate waters.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [NZ Diving - HMNZS Tui & Waikato](https://nzdiving.co.nz/hmnzs-tui-waikato/), [Dive Now - Waikato Wreck](https://divenow.co.nz/waikato-wreck/), [National Museum of the Royal New Zealand Navy - HMNZS Waikato](https://navymuseum.co.nz/explore/by-collections/ships/waikato-frigate/), [Wikipedia - HMNZS Waikato (F55)](https://en.wikipedia.org/wiki/HMNZS_Waikato_(F55)), [Submerged - HMNZS Waikato](https://www.submerged.co.uk/waikato/). Last updated 2026-06-18.*
+*Re-audited 2026-08-24 — significant correction: the previous version of this page stated the bow separated from the hull "during the scuttling," attributing it to the sinking process. Cross-checking Wikipedia against independent naval-history sources found this is factually wrong — the bow separated in heavy weather in 2002, roughly two years after the ship was sunk, and has continued moving due to storms since. This has been corrected rather than left as a plausible-sounding but false causal claim. The scuttling date now shows a three-way conflict across sources (11 Nov 2000, 25 Nov 2000, 18 Dec 2000) rather than presenting the two-source version previously used. Displacement figures were also found to conflict (2,990 tonnes could not be independently confirmed; Wikipedia gives ~2,450/3,200 tonnes) and the armament list was trimmed to only the specifics we could confirm across sources.*
+
+*Sources: [Wikipedia - HMNZS Waikato (F55)](https://en.wikipedia.org/wiki/HMNZS_Waikato_(F55)), [National Museum of the Royal New Zealand Navy - HMNZS Waikato](https://navymuseum.co.nz/explore/by-collections/ships/waikato-frigate/), [NZ Diving - HMNZS Tui & Waikato](https://nzdiving.co.nz/hmnzs-tui-waikato/), [Submerged - HMNZS Waikato](https://www.submerged.co.uk/waikato/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-08-24.*

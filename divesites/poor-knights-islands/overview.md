@@ -33,10 +33,12 @@ The Poor Knights Islands are a world-class diving destination featuring over 25 
 ## Additional Information
 
 - **Best Time to Visit**: May to September for optimal visibility (winter). Summer (November-February) offers warmer water but reduced visibility.
-- **Difficulty Range**: Beginner (Barney's Rock) to Advanced (Landing Bay Pinnacle, Northern Arch, Wild Beast Point)
+- **Difficulty Range**: Intermediate to Advanced (Landing Bay Pinnacle, Northern Arch, Wild Beast Point). As a cold-water destination, no site here is rated below Intermediate.
 - **Currency**: New Zealand Dollar (NZD)
 - **Language**: English, Māori
 - **Safety**: Cold-water experience required. Monitor buoyancy carefully on deep dives. Carry appropriate lights for cave/arch entries. Always dive with a buddy and a safety sausage (SMB). Verify dive operator reputation.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Re-audited 2026-08-24: this destination-level overview was cross-checked against Wikivoyage's master Poor Knights dive-site guide and First Light Travel's dive-site page; both confirm the general geology, water conditions, and diving character described here. One site in this destination's individual list (Barney's Rock) could not be independently confirmed as a real, distinct named site during this pass — see that site's page for details. Difficulty range updated to reflect the cold-water minimum-Intermediate rule applied to all sites.*
+
+*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [First Light Travel - Diving Poor Knights Islands](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive - Poor Knights Diving Specialists](https://yukon.co.nz/). Last updated 2026-08-24.*

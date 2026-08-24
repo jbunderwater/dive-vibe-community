@@ -3,7 +3,7 @@ name: Middle Arch
 lat: -35.46
 lng: 174.732
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 23
 entryType: boat
 siteType: cave
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Middle Arch
 
-One of the most frequently dived arches at Poor Knights Islands, Middle Arch is a reliable and rewarding site offering a more sheltered experience than the deeper, current-swept Northern Arch. The arch cuts through a rocky point at only 15 meters maximum depth, allowing extended bottom times and detailed exploration. The site combines colourful wall growth with excellent fish life and is an ideal choice for intermediate divers.
+One of the most frequently dived arches at Poor Knights Islands, Middle Arch is large enough for a boat to pass through and is often used as an anchorage point between dive sites. It's a shallower, more sheltered dive than the current-swept Northern Arch, though a deeper passage near Cleaner Fish Bay takes the site down to 19-23 meters. The site combines colourful wall growth with good fish life and is a solid choice for intermediate divers.
 
 ## Overview
 
-Middle Arch is a gem of an arch dive, accessible to intermediate divers and offering excellent opportunities for longer exploration. The arch is large enough for a boat to pass through and is often used as an anchorage point between dive sites, making it a frequent Poor Knights destination. Like Northern Arch, it cuts through a point but at a much shallower depth, with deeper passages at 19-23 meters near Cleaner Fish Bay. The arch is colourful with encrusting organisms and normally experiences less current than Northern Arch, making it an excellent choice for moderate conditions or divers building experience on Poor Knights arches.
+Middle Arch cuts through a point at a much shallower depth than Northern Arch, but it's not uniformly shallow — the main arch bottoms around 15 meters while a connected passage near Cleaner Fish Bay reaches 19-23 meters. A small, fully-submerged cave at the southern entrance, sometimes called Bernie's Cave, is a notable sub-feature; it stays close to the surface and has a wide opening, making it a comparatively low-risk overhead space, and its walls host yellow zoanthid anemones, red hydroids, bryozoans, and rare sea slugs. The arch generally experiences less current than Northern Arch, making it a good choice for divers building Poor Knights arch experience.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Middle Arch is a gem of an arch dive, accessible to intermediate divers and offe
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 23 meters
 - **Typical Visibility**: 15-30 meters (good for wide-angle photography)
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
 - **Current**: Mild to moderate (much less than Northern Arch)
@@ -33,13 +33,7 @@ Middle Arch is a gem of an arch dive, accessible to intermediate divers and offe
 
 ## Marine Life
 
-Middle Arch features colourful wall life combined with good fish viewing:
-- Shoals of blue maomao and pink maomao
-- Kingfish, snapper, and giant trevally
-- Colourful sponges, anemones, hydroids, bryozoans, and algae covering the arch and surrounding walls
-- Short-tailed stingrays (in warmer months)
-- Moray eels and smaller fish species
-- Hardy corals and encrusting life creating a garden effect
+Dive charter descriptions specific to this site report large schools of snapper, blue maomao, and demoiselles congregating in the bay, often right under the boat. The right-hand wall is known for finger sponges and encrusting life, with small conger eels, grey and mosaic moray eels, clown nudibranchs, and scorpionfish. In Bernie's Cave specifically, look for yellow zoanthid anemones, red hydroids, bryozoans, and rock cod alongside occasional rare sea slugs.
 
 ## Dive Profile
 
@@ -72,4 +66,6 @@ Boat entry via giant stride directly to the arch area. Your guide will indicate 
 The shallow depth and colourful walls create excellent wide-angle opportunities. The combination of fish schools and encrusting organisms provides macro subjects. Sponges and anemones are particularly photogenic. The arch framing distant fish is a classic composition. The shallow depth allows longer exploration time for finding perfect shots. Consider a macro lens for detailed wall work and a wide-angle lens for arch-and-fish compositions.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [Dive Now - Poor Knights Arches](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*
+*Re-audited 2026-08-24: maximum depth corrected to reflect the 19-23m Cleaner Fish Bay passage (data previously listed a flat 15m despite the write-up itself mentioning the deeper passage). Marine life replaced with species specifically reported for this site by Global Dive's charter descriptions, plus Bernie's Cave detail from Seafriends, in place of a generic Poor Knights species list.*
+
+*Sources: [Global Dive - Poor Knights Middle Arch](https://globaldive.net/poor-knights-middle-arch), [Seafriends - Northern quarter diving Poor Knights](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [Dive Now - The Poor Knights: arches, caves and swim throughs](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-08-24.*

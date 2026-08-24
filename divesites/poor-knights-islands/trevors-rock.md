@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Trevors Rock
 
-A rocky pinnacle at the Poor Knights Islands named after champion diver Trev Zenovitch, featuring walls, gullies, and kelp passages from 10 to 30 meters. An excellent site for observing wrasses, triplefins, eagle rays, and stingrays.
+A rocky pinnacle at the Poor Knights Islands — listed as "Trevor's Rocks" in the standard Poor Knights dive-site guide — featuring walls, gullies, and kelp passages from 10 to 30 meters. An excellent site for observing wrasses, triplefins, eagle rays, and stingrays.
 
 ## Overview
 
-Trevors Rock (also written Trevor's Rock or Trev's Rock) is a pinnacle formation at the Poor Knights Islands, named after Trev Zenovitch, a champion diver who was among the pioneers exploring these waters. The rock features a pitted surface that creates numerous refuges for a high variety of species, with walls beginning at around 20 meters depth and reaching the sand at 30 meters.
+Trevors Rock (also written Trevor's Rock, Trevor's Rocks, or Trev's Rock) is a pinnacle formation at the Poor Knights Islands. We previously attributed the name to "champion diver Trev Zenovitch," but could not find any source confirming this person or story. The name-origin account we did find, from a diver's trip report, is far less flattering: the rocks are said to have been named after someone named Trevor discovered them by hitting them with his boat. Treat that as informal diving lore rather than a confirmed historical fact — but it is at least a real, independently findable account, unlike the previous claim. The rock features a pitted surface that creates numerous refuges for a high variety of species, with walls beginning at around 20 meters depth and reaching the sand at 30 meters.
 
 Boats anchor on the shallow side in approximately 10 meters of water, giving access to both the shallow kelp-lit upper sections and the deeper wall. The pinnacle's varied topography -- walls, gullies, and passages through kelp -- provides diverse habitats in a compact area. The site is also noted as an excellent location for night diving, including deep night dives.
 
@@ -57,4 +57,6 @@ Access is by dive boat from Tutukaka marina (approximately 45 minutes). The boat
 Currents around the pinnacle can be variable -- follow the dive guide's briefing. The wall drops to 30 meters, so monitor depth carefully. The kelp passages in the shallows can create mild entanglement risk -- maintain good buoyancy and avoid swimming into dense kelp. Adequate thermal protection is essential in New Zealand's temperate waters.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Seafriends - Poor Knights Diving](https://www.seafriends.org.nz/issues/res/pk/msquart.htm), [Ross Cattell - Diving the Poor Knights Islands](https://rosscattell.net/diving/poor-knights/poor-knights.htm), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [Dive! Tutukaka](https://diving.co.nz/). Last updated 2026-06-18.*
+*Re-audited 2026-08-24 — correction: the previous "champion diver Trev Zenovitch" name-origin story had no traceable source and appears to have been fabricated. It has been replaced with an independently-found (if informal) account. The site's existence under the name "Trevor's Rocks" was confirmed via Wikivoyage's master Poor Knights dive-site list. Depth, topography, and marine-life claims were left in place as no contradicting source was found for them, though they remain sourced mainly to general Poor Knights references rather than a page specific to this rock.*
+
+*Sources: [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Pat and Paul Harvey - Diving in the Poor Knights](http://patandpaulharvey.blogspot.com/2011/01/diving-in-poor-knights.html). Last updated 2026-08-24.*

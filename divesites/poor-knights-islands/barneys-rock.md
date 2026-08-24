@@ -2,7 +2,7 @@
 name: Barney's Rock
 lat: -35.48
 lng: 174.745
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: boat
 siteType: reef
@@ -13,72 +13,45 @@ addedBy: osm_import
 
 ## Barney's Rock
 
-The shallowest and most accessible Poor Knights dive site, Barney's Rock is perfect for building confidence and experience in New Zealand's most famous diving destination. The maximum depth of only 15 meters and reliable calm conditions make this ideal for newer divers, students, or those experiencing their first Poor Knights dive. The site still offers excellent reef life and marine biodiversity despite being beginner-friendly.
+**This site is currently unresolved.** We could not independently confirm "Barney's Rock" as a distinct, named Poor Knights dive site. It does not appear in the Wikivoyage Poor Knights dive-site index (the most complete public list we could find), and a search for the exact name returns only an unrelated site called "Barney's Rock" near Kaikoura, on New Zealand's South Island — a different location entirely. It's possible this is a misremembering or misspelling of "Bernie's Cave," a small, shallow, fully-submerged cave at the southern entrance of Middle Arch that seafriends.org.nz documents in detail — but we have no evidence connecting that feature to this entry's name, coordinates, or description, so we have not merged the two.
 
 ## Overview
 
-Barney's Rock is Poor Knights' most accessible and beginner-friendly dive site. The shallow depth (15m maximum) allows extended bottom times and relaxed diving pace. Despite being suited to newer divers, the site offers legitimate Poor Knights reef diving with good marine life viewing and photographic opportunities. The site is frequently used for orientation dives, student training, and as part of multi-dive poor Knights trips for divers building their experience in cold-water, current-aware diving.
+Because we cannot confirm this is a real, distinct site, the specific claims previously made here (that it is the Poor Knights' "shallowest and most accessible" site, commonly used for orientation dives, etc.) have been removed rather than repeated without a source. If you have first-hand knowledge of a Poor Knights site by this name — its actual location, depth, and character — that information would let us properly validate or correct this entry. Until then, treat the coordinates, depth, and difficulty below as provisional placeholders inherited from the original data import, not confirmed facts.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Northland, New Zealand
+- **Location**: Poor Knights Islands, Northland, New Zealand (unconfirmed which specific feature)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15-30 meters (excellent for beginner confidence)
-- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
-- **Current**: Minimal; very manageable
-- **Best Time**: Year-round; excellent for all season diving
+- **Typical Visibility**: 15-30 meters (regional average, not site-specific)
+- **Water Temperature**: 14-17°C (winter, May-Sept), 19-25°C (summer, Nov-April) — regional average
+- **Current**: Unknown
+- **Best Time**: Unknown
 
 ## Marine Life
 
-Barney's Rock supports solid reef biodiversity:
-- Hard corals and soft corals
-- Sponges and anemones
-- Kingfish, snapper, and trevally
-- Schooling blue maomao and pink maomao
-- Moray eels and nudibranchs
-- Small reef fish and invertebrates
-- Starfish and other invertebrates
+No site-specific marine life information is available. We are not listing a species roster here, since we cannot confirm this site's identity or location closely enough to attribute any sightings to it specifically.
 
 ## Dive Profile
 
-Descend to the shallow reef and explore at whatever pace feels comfortable. Fifteen meters maximum depth is forgiving for buoyancy control and air management. Work around the reef structure, examining both the larger formations and smaller creatures. Take time to observe fish behaviour and get comfortable with Poor Knights' cold water and marine conditions. Many operators use this as an orientation dive before deeper Poor Knights dives. The shallow depth and minimal current allow you to focus on becoming comfortable with the environment.
+Unknown — no verified source describes a dive profile for a site by this name at the Poor Knights.
 
 ## Entry and Exit
 
-Boat entry via giant stride directly to the reef. Your guide will indicate the reef structure and marine life. Exit is via ascent and boat pickup at the surface.
+Unknown.
 
 ## Tips and Recommendations
 
-- **Perfect first Poor Knights dive**: Ideal for orientation before tackling deeper sites
-- **Student/newer diver friendly**: The shallow depth allows focus on technique and observations
-- **Confidence building**: The manageability of this site makes it excellent for building comfort in New Zealand diving
-- **Longer exploration time**: The shallow depth allows extended bottom times for thorough reef observation
-- **Photography practice**: A good site to work on underwater photography skills without depth pressure
-- **Snorkel option**: Even snorkelers can enjoy the shallow reef portions
-- **Use as dive number 1 of a multi-dive day**: Build confidence before deeper sites
+- If you have accurate information about a Poor Knights site called Barney's Rock (or can confirm it should be identified with Bernie's Cave at Middle Arch, or with another named feature), please flag it so this entry can be corrected or merged rather than left as a guess.
 
 ## Safety Considerations
 
-- Excellent beginner-level reef dive
-- Very manageable depth allows focus on technique
-- Minimal current; easy to stay oriented
-- Cold water still requires appropriate thermal protection
-- Suitable for newly certified divers and those building Poor Knights experience
-- Always dive with a buddy
-- Good practice for buoyancy control on reef environments
-
-## Photography
-
-Barney's Rock is excellent for developing underwater photography skills:
-- **Macro**: Small reef creatures in relaxed shooting conditions
-- **Wide-angle**: Reef composition without depth pressure
-- **Fish behaviour**: Lower-light reef situations without deep-dive nitrogen loading effects
-- **Composition practice**: Plenty of time for thoughtful shot composition
-- **Lighting practice**: Shallow depth provides good natural light for colour work
-- The relaxed pace allows detailed photographic exploration without air pressure
+Because the site's identity, depth, and conditions are unconfirmed, do not rely on this entry for dive planning. Consult your Poor Knights dive operator directly for a verified site briefing.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*
+*Re-audited 2026-08-24: this entry was previously marked "validated" with a generic set of Poor Knights destination-level sources that do not mention "Barney's Rock" by name, and the description contained specific claims (beginner-friendly status, orientation-dive use) with no traceable source. Direct research found no independent confirmation that this is a real, distinct Poor Knights site — it is absent from the Wikivoyage master dive-site list, and a search for the exact name surfaces only an unrelated site near Kaikoura. The `validated` tag has been set to false and the fabricated specifics have been removed rather than repeated. This site is flagged as unresolved pending better information.*
+
+*No site-specific source could be confirmed for this entry. Last updated 2026-08-24.*

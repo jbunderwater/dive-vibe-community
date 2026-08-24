@@ -3,7 +3,7 @@ name: Northern Arch
 lat: -35.45
 lng: 174.73
 difficulty: Advanced
-maxDepth: 50
+maxDepth: 40
 entryType: boat
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Northern Arch is a short but very deep archway with an inverted-cone profile —
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: The arch base is around 40 meters; the surrounding bouldery terrain drops beyond 50 meters and, per some accounts, to 70+ meters
+- **Maximum Depth**: 40 meters
 - **Minimum Depth**: 15 meters (arch entrance)
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
