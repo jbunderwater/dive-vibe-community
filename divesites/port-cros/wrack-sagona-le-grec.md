@@ -21,7 +21,7 @@ This entry marks an alternate access buoy to the *Sagona*, the cargo ship known 
 
 On 3 December 1945, the *Sagona* struck a floating mine south of Porquerolles while carrying wine, killing two sailors and leaving one missing. The bow was torn off by the explosion. The wreck lies in two sections approximately 50–60 metres apart on a sandy bottom between 36 and 47 metres. The name "Le Grec" (The Greek) was given by French Navy divers who found Greek-language documents aboard during a post-war survey — the crew and papers were Greek at the time of sinking.
 
-Note on the sinking date: all three dive-specific sources consulted (en.bormesplongee.fr, provencemed.com, tribloo.com) give 3 December 1945. The English Wikipedia SS Sagona article gives 21 November 1945 and a Nice-to-Toulon route — details that do not match the dive record — and may relate to a different vessel or contain a transcription error.
+Note on the sinking date: a dedicated French Wikipedia article on this wreck (fr.wikipedia.org/wiki/Sagona_(épave)) independently confirms 3 December 1945, matching all four dive-specific sources consulted (en.bormesplongee.fr, provencemed.com, tribloo.com, aqualonde-plongee.com). The separate English Wikipedia SS Sagona article, covering this ship's earlier Newfoundland–Labrador ferry career, instead gives 21 November 1945 and a Nice-to-Toulon route — a detail that conflicts with the dedicated French wreck article and every dive-specific source.
 
 See also the dedicated [Le Grec Wreck](../le-grec-wreck/) entry for the full site description.
 
@@ -54,4 +54,4 @@ Boat access from La Londe, Le Lavandou, or Hyères operators. A descent line is 
 Advanced depth and current. Advanced open water certification minimum; deep specialty experience preferred. Monitor gas carefully — the multi-section wreck invites overextended dives. Current should be assessed before each descent. Two SMBs recommended.
 
 ---
-*Sources: [en.bormesplongee.fr — Le Grec (Sagona)](https://en.bormesplongee.fr/grec), [Provence Méditerranée — Le Grec (Sagona)](https://www.provencemed.com/en/activities/le-grec-or-sagona/), [Tribloo — The Sagona](https://www.tribloo.com/en/dive-sites/44/the-sagona-shipwreck-aka-le-grec.html), [Aqualonde Plongée — Le Grec](https://aqualonde-plongee.com/en/le-grec-sagona-2/). Last updated 2026-06-26.*
+*Sources: [en.bormesplongee.fr — Le Grec (Sagona)](https://en.bormesplongee.fr/grec), [Provence Méditerranée — Le Grec (Sagona)](https://www.provencemed.com/en/activities/le-grec-or-sagona/), [Tribloo — The Sagona](https://www.tribloo.com/en/dive-sites/44/the-sagona-shipwreck-aka-le-grec.html), [Aqualonde Plongée — Le Grec](https://aqualonde-plongee.com/en/le-grec-sagona-2/), [Wikipédia (fr) — Sagona (épave)](https://fr.wikipedia.org/wiki/Sagona_(%C3%A9pave)). Last updated 2026-08-24 (re-audited; see the main Le Grec Wreck entry for full source detail).*

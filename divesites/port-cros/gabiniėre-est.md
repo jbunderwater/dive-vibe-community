@@ -51,7 +51,7 @@ The eastern aspect receives moderate current, which drives mid-water life: shoal
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-08-24
 
 ---
-*Sources: [Lavandou Plongée — Port-Cros National Park sites](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html). Last updated 2026-06-26.*
+*Sources: [Lavandou Plongée — Port-Cros National Park sites](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html). Last updated 2026-08-24 (re-audited: the ~200 barracuda school and Tombant Est grouper/moray population confirmed correctly attributed to the eastern drop-off specifically, unlike the grouper/barracuda mix-up corrected on the main La Gabinière entry).*

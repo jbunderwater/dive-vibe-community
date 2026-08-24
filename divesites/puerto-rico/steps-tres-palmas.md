@@ -33,7 +33,7 @@ Steps, also known as Tres Palmas, is named for the concrete steps cut into the r
 
 ## Marine Life
 
-Tres Palmas is one of the best sites in Puerto Rico for large-formation coral communities. Elkhorn coral (Acropora palmata) grows in significant colonies — a species that has declined dramatically across the Caribbean but still thrives here under marine reserve protection. Hawksbill turtles feed on the sponge growth attached to coral formations. Parrotfish, blue tangs, and surgeonfish are the dominant grazers. Caribbean spiny lobster shelter under coral overhangs. Large barracuda hover above the reef in the open water. The site is also renowned as one of the best shore snorkel locations in Puerto Rico.
+Tres Palmas is one of the best sites in Puerto Rico for large-formation coral communities. The reserve — designated in 2004 specifically to protect the area — holds one of the thickest remaining stands of elkhorn coral (Acropora palmata) in the northern Caribbean, an ESA-listed species that has declined dramatically elsewhere. Hawksbill turtles and spiny lobster are documented among the coral formations, and nurse sharks are reported sheltering in the reef by day and night. Parrotfish, blue tangs, and surgeonfish are the dominant grazers, and bottlenose dolphins are occasionally seen. Large barracuda hover above the reef in the open water. The site is also renowned as one of the best shore snorkel locations in Puerto Rico.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Steps/Tres Palmas is one of Puerto Rico's premier reef photography sites. The he
 - Taíno Divers (Rincón): local operator with deep knowledge of the Steps site
 
 ---
-*Sources: [Taino Divers – Rincon Dive Sites](https://www.tainodivers.com/), [Discover Puerto Rico – Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [PRDayTrips – Rincon Diving](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [ScubaBoard – Puerto Rico Diving](https://scubaboard.com/community/threads/any-must-dives-in-puerto-rico.660989/). Last updated 2026-06-26.*
+*Sources: [Taino Divers – Rincon Dive Sites](https://www.tainodivers.com/), [Discover Puerto Rico – Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [PRDayTrips – Rincon Diving](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [ScubaBoard – Puerto Rico Diving](https://scubaboard.com/community/threads/any-must-dives-in-puerto-rico.660989/), [USGS – Elkhorn Coral, Tres Palmas Marine Reserve](https://www.usgs.gov/media/images/elkhorn-coral-tres-palmas-marine-reserve-rincon-puerto-rico). Last updated 2026-08-24. Re-audited 2026-08-24: confirmed the elkhorn coral/reserve designation via USGS and added nurse shark and dolphin sightings documented for this specific reserve.*

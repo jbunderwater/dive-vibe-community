@@ -19,7 +19,7 @@ La Pointe de la Galère is a wall dive site at Port-Cros National Park, French M
 
 La Pointe de la Galère is located at the northeastern extremity of the island of Port-Cros within Port-Cros National Park, Europe's oldest marine protected area. Local dive operators describe it as one of the finest dives in France. The site features two distinct rocky faces with notably different character: the eastern side drops to a sandy bottom with posidonia seagrass beds, while the western side is more rugged and steeper, draped with Mediterranean invertebrates.
 
-The depth range extends to approximately 35 metres, and the site rewards patient divers. On the eastern face, a large monkfish (baudroie) hides on the rocky bottom — "une grande baudroie se cache souvent sur la roche" (miopalmoplongee.com). Giant nacre fan mussels (Pinna nobilis, a protected species) are present in the posidonia beds, and large doris nudibranchs (nudibranchs of the doris type) are also encountered. Along the drop-offs, conger eels, moray eels (mostelles), lobster, scorpionfish, and starfish are common inhabitants. The eastern face is brighter and better illuminated; false coral, red and yellow gorgonians, and sea urchins colonise the walls. The western face is covered with posidonia seagrass. The local dive operator (miopalmoplongee.com) describes this as offering "les plus gros chapons de Port-Cros" (the biggest scorpionfish in Port-Cros) and "deux faces, deux univers" (two faces, two worlds).
+The depth range extends to approximately 35 metres, and the site rewards patient divers. On the eastern face, on the sand at around 28 metres, a large monkfish (baudroie) is regularly found — "une grande baudroie se cache souvent sur la roche" (miopalmoplongee.com), with the ~28m depth independently confirmed by a second dive-log source. Giant nacre fan mussels (Pinna nobilis, a protected species) are present in the posidonia beds, and large doris nudibranchs (nudibranchs of the doris type) are also encountered. Along the drop-offs, conger eels, moray eels (mostelles), lobster, scorpionfish, and starfish are common inhabitants. The eastern face is brighter and better illuminated; false coral, red and yellow gorgonians, and sea urchins colonise the walls. The western face is covered with posidonia seagrass. The local dive operator (miopalmoplongee.com) describes this as offering "les plus gros chapons de Port-Cros" (the biggest scorpionfish in Port-Cros) and "deux faces, deux univers" (two faces, two worlds).
 
 The site is accessible within 30 minutes by boat from La Londe-les-Maures. Moderate to strong current; operator assessment of conditions required before entry.
 
@@ -34,7 +34,7 @@ The site is accessible within 30 minutes by boat from La Londe-les-Maures. Moder
 
 ## Marine Life
 
-- **Notable sightings**: Monkfish (baudroie) on east face rocky bottom (confirmed: miopalmoplongee.com); large doris nudibranchs; largest scorpionfish (chapon) in Port-Cros per local operators
+- **Notable sightings**: Monkfish (baudroie) on the sand at ~28m on the east face (confirmed: miopalmoplongee.com and an independent dive-log source); large doris nudibranchs; largest scorpionfish (chapon) in Port-Cros per local operators
 - **Reef fish**: Conger eels, moray eels (mostelles), scorpionfish (chapons), seabream (sars, saupes), wrasse (crénilabres paons), mullet
 - **Invertebrates**: Spiny lobster (langouste), starfish, sea urchins
 - **Protected species**: Nacre fan mussel (Pinna nobilis) in posidonia beds
@@ -54,4 +54,4 @@ The site is accessible within 30 minutes by boat from La Londe-les-Maures. Moder
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Aqualonde Plongée — La Pointe de la Galère](https://aqualonde-plongee.com/en/la-pointe-de-la-galere/), [Mio Palmo Plongée — La Pointe de la Galère](https://www.miopalmoplongee.com/nos-sites/la-pointe-de-la-galere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/). Last updated 2026-06-26.*
+*Sources: [Aqualonde Plongée — La Pointe de la Galère](https://aqualonde-plongee.com/en/la-pointe-de-la-galere/), [Mio Palmo Plongée — La Pointe de la Galère](https://www.miopalmoplongee.com/nos-sites/la-pointe-de-la-galere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Nicoblon — Plongée Pointe de la Galère](http://nicoblon.free.fr/portcros/galere.htm). Last updated 2026-08-24.*

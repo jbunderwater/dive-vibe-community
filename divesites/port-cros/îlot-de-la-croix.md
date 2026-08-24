@@ -50,7 +50,7 @@ The site is suitable for those building experience in the national park system, 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-06-26
+- **Last Updated**: 2026-08-24
 
 ---
-*Sources: [Lavandou Plongée — Port-Cros National Park (Cape La Croix)](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [World Adventure Divers — Port-Cros National Park](https://worldadventuredivers.com/port-cros-national-park/), [Divin'Giens — Port-Cros dive sites](https://divingiens.fr/plongee-a-port-cros/). Last updated 2026-06-26.*
+*Sources: [Lavandou Plongée — Port-Cros National Park (Cape La Croix)](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [World Adventure Divers — Port-Cros National Park](https://worldadventuredivers.com/port-cros-national-park/), [Divin'Giens — Port-Cros dive sites](https://divingiens.fr/plongee-a-port-cros/), [Tribloo — La Pointe de la Croix](https://www.tribloo.com/fr/spot-plongee/121/la-pointe-de-la-croix.html), [Provence Méditerranée — La Pointe de la Croix](https://www.provencemed.com/activite/la-pointe-de-la-croix/). Last updated 2026-08-24 (re-audited: white gorgonian colony, groupers, sar/wrasse schools, barbiers, and topography independently re-confirmed via two additional sources).*

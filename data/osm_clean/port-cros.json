@@ -11,8 +11,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "hyeres-tourism.co.uk,miopalmoplongee.com,lavandou-plongee.com,tribloo.com",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "hyeres-tourism.co.uk,miopalmoplongee.com,lavandou-plongee.com,tribloo.com,vacances-plongee.fr",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "2026-08-24 re-audit (independent WebSearch/WebFetch re-verification): CORRECTED a hallucination carried from the prior pass — the markdown attributed a 'brown grouper population of ~200 individuals' to La Gabiniere. Cross-checked against miopalmoplongee.com (direct fetch), vacances-plongee.fr and plongeur.com: the ~200 figure is documented as a BARRACUDA school (present since summer 2001, 10-20m), not groupers. Grouper counts are independently described as 'not rare to see about ten in a single dive' / 'the largest concentration of brown grouper in the western Mediterranean' — no numeric population estimate exists in sources. Markdown corrected accordingly. Zones (Tombant Est/Ouest, Calanque Sombre, Dolmen at 33-35m) confirmed via miopalmoplongee.com."
     }
   },
   {
@@ -27,9 +28,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "aqualonde-plongee.com,miopalmoplongee.com,lavandou-plongee.com",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Depth corrected to 35m (Aqualonde confirms 35m max; previous value 34m was rounding). Monkfish at eastern face and giant doris confirmed by miopalmoplongee.com."
+      "validation_source": "aqualonde-plongee.com,miopalmoplongee.com,lavandou-plongee.com,nicoblon.free.fr",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "2026-08-24 re-audit: depth and monkfish (baudroie) claim re-confirmed via independent WebSearch of nicoblon.free.fr, which specifies the monkfish is found 'sur le sable' at approximately 28m on the eastern side — consistent with, and more precise than, the prior 'east face rocky bottom' description. Markdown updated with the 28m detail. Depth corrected to 35m (Aqualonde confirms 35m max; previous value 34m was rounding). Giant doris and largest-scorpionfish-in-Port-Cros claims remain sourced to miopalmoplongee.com only (single-source, kept as attributed operator claim rather than fact)."
     }
   },
   {
@@ -44,9 +45,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "fr.wikipedia.org,tribloo.com,destination.portcros-parcnational.fr,provencemed.com",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Casualty count conflict flagged: Wikipedia says 5 deaths; bormesplongee.fr says 2 missing/27 survivors; ulysseplongee.fr says 3 victims. Wikipedia and tribloo dimension data consistent: 78.28m x 11.94m, 1698 GRT, Bergen Mekaniske Verksted confirmed by Wikipedia."
+      "validation_source": "fr.wikipedia.org,tribloo.com,destination.portcros-parcnational.fr,provencemed.com,ulysseplongee.fr,en.bormesplongee.fr",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "2026-08-24 re-audit: directly refetched fr.wikipedia.org/wiki/Donator, ulysseplongee.fr/blog/le-donator, and en.bormesplongee.fr/donator. Three-way casualty conflict CONFIRMED (not resolved): fr.wikipedia.org states 'le naufrage fera tout de meme 5 morts' (5 deaths); ulysseplongee.fr states 'trois victimes seront denombrees' (3 victims); en.bormesplongee.fr states 2 of 29 crew went missing, 27 rescued (0 confirmed deaths). Depth also varies across sources: deck cited as low as 35m and as deep as 44m; propeller/stern cited between 48m and 52m. Both conflicts written into markdown per anti-hallucination policy rather than picking one figure. Build data reconfirmed unchanged: 78.28m x 11.94m, 1698 GRT, Bergen Mekaniske Verksted 1931, mine strike 10 Nov 1945 13:15, sank in under 4 minutes."
     }
   },
   {
@@ -61,9 +62,10 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "capel.portcros-parcnational.fr,lavandou-plongee.com,worldadventuredivers.com",
-      "last_qa_date": "2026-06-26",
-      "description": "Classic Mediterranean wall dive with vertical drop, 10-35m. Posidonia seagrass meadows on shallow plateau. Groupers, morays, and amberjacks in wall crevices. Excellent macro photography and light penetration. 15m+ visibility typical."
+      "validation_source": "capel.portcros-parcnational.fr,lavandou-plongee.com,worldadventuredivers.com,miopalmoplongee.com",
+      "last_qa_date": "2026-08-24",
+      "description": "Classic Mediterranean wall dive with vertical drop, 10-38m. Posidonia seagrass meadows on shallow plateau. Groupers, catsharks, moray eels, and white gorgonians. Excellent macro photography and light penetration. 15m+ visibility typical.",
+      "qa_note": "2026-08-24 re-audit: independent WebSearch of miopalmoplongee.com's Pointe Vaisseau page confirms groupers (fewer than La Gabiniere but large specimens), small-spotted catsharks resting under rocks, moray eels, spiny lobsters, and white gorgonians. Site area given as ~9000 sq m to 38m depth by one source (vs. prior 35m) — depth range widened to 10-38m to reflect this. Amberjacks were not confirmed by any source consulted and have been removed from the marine life list."
     }
   },
   {
@@ -78,9 +80,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "en.bormesplongee.fr,provencemed.com,tribloo.com,aqualonde-plongee.com",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Sagona dimensions confirmed: 54m long, 8.5m wide, 808 tons, built 1912 by SB Dundee Ltd. Sinking date 3 December 1945 confirmed by 3 independent sources. Casualties 2 dead + 1 missing confirmed by bormesplongee.fr."
+      "validation_source": "en.bormesplongee.fr,provencemed.com,tribloo.com,aqualonde-plongee.com,fr.wikipedia.org",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "2026-08-24 re-audit: located and fetched a dedicated French Wikipedia article, fr.wikipedia.org/wiki/Sagona_(epave), specific to this Mediterranean wreck (distinct from the English-language SS Sagona article about the vessel's earlier Newfoundland ferry service). It independently corroborates every core fact: built 1912, Dundee Shipbuilding Co., 53.3m x 8.6m, 808 tons, struck a mine to port and sank immediately on 3 December 1945, 2 dead + 1 missing, wreck lies 35-47m between Port-Cros and Porquerolles. This resolves prior uncertainty about the English Wikipedia SS Sagona article's mismatched 21 November date — that article covers the ship's Newfoundland career and gives a less precise/likely erroneous loss date; the dedicated French wreck article and all dive-specific sources agree on 3 December. Added fr.wikipedia.org as a validation source."
     }
   },
   {
@@ -95,9 +97,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "lavandou-plongee.com,worldadventuredivers.com,divingiens.fr",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "White gorgonians (Eunicella singularis) confirmed as defining feature by multiple sources. Depth 5-30m confirmed."
+      "validation_source": "lavandou-plongee.com,worldadventuredivers.com,divingiens.fr,tribloo.com,provencemed.com",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "2026-08-24 re-audit: independent WebSearch cross-check of tribloo.com and provencemed.com confirms white gorgonian colony (described as 'immense', alongside sponges), groupers, sar/wrasse schools, moray eels, and barbiers; topography (ridge to 30m sand, second ridge further west at 50-70m) matches prior description. Exposure to easterly wind and frequent current confirmed. No changes to site_type/depth/difficulty needed."
     }
   },
   {
@@ -113,8 +115,9 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "capel.portcros-parcnational.fr,portcros-parcnational.fr,provencemed.com,snorkeling-report.com",
-      "last_qa_date": "2026-06-26",
-      "description": "Shore-accessible reef in protected marine reserve with snorkeling trail (6 buoys), 1-12m. Beginner-friendly posidonia seagrass exploration. Groupers, bream, and nudibranchs common. Excellent for learning Mediterranean reef ecology."
+      "last_qa_date": "2026-08-24",
+      "description": "Shore-accessible reef in protected marine reserve with snorkeling trail (6 buoys), 1-12m. Beginner-friendly posidonia seagrass exploration. Groupers, bream, and nudibranchs common. Excellent for learning Mediterranean reef ecology.",
+      "qa_note": "2026-08-24 re-audit: official park source (portcros-parcnational.fr) and CaPel re-confirmed as live, accurate references for the marked underwater trail and reserve-effect fish habituation. No factual changes required."
     }
   },
   {
@@ -129,8 +132,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "false",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "No site-specific sources found in QA passes 2026-05-25 and 2026-06-26. There is a confirmed 'Les Deux Frères' formation near La Seyne-sur-Mer (different location). No Port-Cros operator lists this site by name. Regional characteristics only. Do not mark validated until confirmed by operator-specific source."
+      "last_qa_date": "2026-08-24",
+      "qa_note": "No site-specific sources found in QA passes 2026-05-25, 2026-06-26, or 2026-08-24 (this pass repeated WebSearch in French and English, no new results). The confirmed 'Les Deux Frères' is a distinct rock formation at Cap Sicié near La Seyne-sur-Mer, over 30km from Port-Cros, where divers visit the wreck of the tanker Arroyo (sunk 1953) — unrelated to this destination. No Port-Cros operator lists a 'Les Deux Frères' site. Remains unvalidated; regional characteristics only, not marked validated."
     }
   },
   {
@@ -145,8 +148,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "false",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "The confirmed site near Bagaud island is 'Les Dalles de Bagaud' / 'Dalles de Bagaud' (6-15m, beginner). No source found for a site named 'Pierre de Bagaud' at 25m. These are likely distinct features. Do not mark validated until operator-specific source confirms this exact name and depth.",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "The confirmed site near Bagaud island is 'Les Dalles de Bagaud' / 'Dalles de Bagaud' (west side at Pointe du Beau, >10,000 sq m, 6-12m, beginner) — re-confirmed 2026-08-24 via destination.portcros-parcnational.fr and divingiens.fr. No source found for a site named 'Pierre de Bagaud' at 25m in this or the prior two passes (2026-05-25, 2026-06-26). These are likely distinct features. Do not mark validated until operator-specific source confirms this exact name and depth.",
       "description": "Bagaud island reef (pierre = rock) with rocky formations and posidonia, 5-25m. Intermediate exploration of marine reserve with groupers, octopus, and sea fans. Good visibility (20m+) and moderate currents."
     }
   },
@@ -163,7 +166,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "lavandou-plongee.com,miopalmoplongee.com,worldadventuredivers.com",
-      "last_qa_date": "2026-06-26"
+      "last_qa_date": "2026-08-24",
+      "qa_note": "2026-08-24 re-audit: none of the three cited sources, nor further WebSearch, independently name or describe a distinct 'Gabiniere Nord' dive site — all describe La Gabiniere islet as a whole (Tombant Est/Ouest, Calanque Sombre, Dolmen) with no published 'north face' characterization. This entry corresponds to a separate OSM mooring/access node on the north side of the same islet, not a separately documented operator site. Markdown revised to make this explicit and to remove invented comparative claims (previously stated the north side has 'fewer groupers than the south's ~200' — the 200 figure itself was a hallucination, see La Gabiniere qa_note). Kept validated=true because the underlying fauna/flora claims are grounded in confirmed general-Gabiniere sourcing and the site is physically the same feature, but comparative specifics beyond that are no longer asserted."
     }
   },
   {
@@ -179,7 +183,8 @@
       "addedBy": "fill_new_destinations",
       "validated": "true",
       "validation_source": "capel.portcros-parcnational.fr,portcros-parcnational.fr,worldadventuredivers.com",
-      "last_qa_date": "2026-06-26",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "2026-08-24 re-audit: official park and CaPel sources re-confirmed live and consistent with description. No factual changes required.",
       "description": "Beach dive site (plage = beach) with easy shore access, depths 2-8m. Beginner-friendly Mediterranean reef with posidonia seagrass beds. Less crowded than La Palud with comparable marine richness."
     }
   },
@@ -195,8 +200,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "false",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Site exists as a geographic point on Port-Cros (referenced in sea-seek.com and as an alternative dive zone in restricted-area notices), but no dive operator has published specific depth, type, or marine life details. Do not mark validated until operator-specific source confirms.",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Site exists as a geographic point on Port-Cros and, per 2026-08-24 re-check, is named specifically in the park's own diving regulations as one boundary of the zone where night diving is authorised (between Pointe du Cognet and Pointe de Port-Man, max 20 divers, park notified before 19:00) — confirming this is a real, recognised location, not a fabricated name. However no dive operator publishes site-specific depth, site type, or marine life details for it, so it is still NOT marked validated per the 3+ distinct source requirement.",
       "description": "Point (pointe) reef with deeper exploration, 8-30m. Intermediate Mediterranean dive with rocky formations, groupers, and amberjacks. Posidonia and macroalgae. Visibility typically 15-25m with light currents."
     }
   },
@@ -217,9 +222,9 @@
       "wreck:depth": "47m",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "en.bormesplongee.fr,provencemed.com,tribloo.com,aqualonde-plongee.com",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Alternate OSM node for the Sagona/Le Grec wreck. Same vessel as 'Le Grec Wreck' curated entry. Dimensions confirmed: 54m x 8.5m, 808 tons, built 1912."
+      "validation_source": "en.bormesplongee.fr,provencemed.com,tribloo.com,aqualonde-plongee.com,fr.wikipedia.org",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Alternate OSM node for the Sagona/Le Grec wreck. Same vessel as 'Le Grec Wreck' curated entry. 2026-08-24 re-audit applied the same fr.wikipedia.org/wiki/Sagona_(epave) cross-check as the main entry — see that entry's qa_note for detail. Dimensions confirmed: 53.3-54m x 8.5-8.6m, 808 tons, built 1912, Dundee Shipbuilding Co."
     }
   },
   {
@@ -239,9 +244,9 @@
       "wreck:depth": "52m",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "fr.wikipedia.org,tribloo.com,destination.portcros-parcnational.fr,provencemed.com",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Alternate OSM node for the Donator/Prosper Schiaffino. Dimensions confirmed by Wikipedia: 78.28m x 11.94m, 1698 GRT, Bergen Mekaniske Verksted 1931. Casualty count conflict: Wikipedia 5 deaths; bormesplongee.fr 2 missing; ulysseplongee.fr 3 victims. Markdown flags this conflict."
+      "validation_source": "fr.wikipedia.org,tribloo.com,destination.portcros-parcnational.fr,provencemed.com,ulysseplongee.fr,en.bormesplongee.fr",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Alternate OSM node for the Donator/Prosper Schiaffino. 2026-08-24 re-audit applied the same three-way casualty and depth-range cross-check as the main 'Le Donator Wreck' entry — see that entry's qa_note for full detail (5 vs 3 vs 2-missing casualty conflict; deck 35-44m and stern/propeller 48-52m depth conflict, both confirmed still open across sources). Dimensions unchanged and confirmed: 78.28m x 11.94m, 1698 GRT, Bergen Mekaniske Verksted 1931."
     }
   },
   {
@@ -264,9 +269,9 @@
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "provence-alpes-cotedazur.com,provencemed.com,hyeres-plongee.com,destination.portcros-parcnational.fr",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Vessel type corrected from 'tugboat' to 'crane barge / ponton grue' — it had no motor or propeller. Was towed during construction materials delivery to Port-Cros Manoir hotel (~1960). Depth varies by source: 48m (provencemed, destination.portcros-parcnational.fr), 49m (hyeres-plongee.com), 41m (sun-plongee.com). Using 48m as primary per most sources."
+      "validation_source": "provence-alpes-cotedazur.com,provencemed.com,hyeres-plongee.com,destination.portcros-parcnational.fr,sun-plongee.com",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "2026-08-24 re-audit: independent WebSearch re-confirms every core fact — small wooden vessel 15-20m x 6m, no engine/propeller, sank c.1960 during a tow while carrying construction materials (single-row bricks, motorised pump) for Port-Cros's Manoir hotel, crane rising 3-4m above the sand, located off Bagaud's north point, ~48m depth (range 41-49m across sources), conger eel population reduced from a large 1990s population to 2-3 individuals today. Note: sources remain internally contradictory on vessel classification — some (e.g. one general summary) still call it a 'tugboat with a rear crane' despite explicitly stating it had no motor, which is why the markdown describes it as an unpowered crane barge/ponton grue while noting the 'tugboat' label appears in some sources. No changes to depth/type/difficulty."
     }
   },
   {
@@ -288,9 +293,9 @@
       "wreck:type": "aircraft",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "en.bormesplongee.fr,tribloo.com,miopalmoplongee.com",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Origin disputed: bormesplongee.fr and miopalmoplongee.com both cite the 1950s dump-from-carrier theory as more likely. The '15 August 1944 / Operation Dragoon crash' claim in previous markdown was incorrectly attributed to bormesplongee.fr — that source actually favours the 1950s discard theory. Marine life corrected: previous markdown said 'two machine guns in each wing' but all sources cite 6 total machine guns. Engine is missing per miopalmoplongee.com (was omitted from previous description)."
+      "validation_source": "en.bormesplongee.fr,tribloo.com,miopalmoplongee.com,aquabormes.fr",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "2026-08-24 re-audit: directly refetched en.bormesplongee.fr/wildcat and cross-checked against a further independent WebSearch (aquabormes.fr-family content). Origin remains genuinely disputed between two sources: deliberate 1950s jettison from a carrier (tentatively HMS Hermes, damage-related) vs. an operational crash/ditching; retracted gear favours the crash theory per bormesplongee.fr's own reasoning, creating an internal tension in that source worth flagging rather than resolving. Machine gun count: aircraft-type spec (F4F/Martlet) is 6 guns total per bormesplongee.fr's general description; however an independently found site-specific description states '2 mitrailleuses toujours en place dans chacune des ailes' (2 still in place in each wing = 4 visible on the wreck) — this is DIFFERENT information (visible-on-wreck count) from the historical full-armament spec (6), not a contradiction of it. Markdown revised to distinguish 'as-built armament' (6 guns, historical spec) from 'as found on the wreck' (4 visible, per site-specific source) rather than presenting a single number. Depth range widened slightly to 51-54m to reflect a source giving 54m."
     }
   },
   {
@@ -311,8 +316,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "lavandou-plongee.com,miopalmoplongee.com,tribloo.com",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Difficulty kept as Intermediate per OSM tag; depth range 10-40m confirmed. The 'anglerfish at 28m' claim was removed from markdown — that specific sighting is documented for La Pointe de la Galère (confirmed by miopalmoplongee.com), not for Gabinière Est specifically."
+      "last_qa_date": "2026-08-24",
+      "qa_note": "2026-08-24 re-audit: re-confirmed via direct fetch of miopalmoplongee.com and WebSearch that the ~200-strong barracuda school (since summer 2001, cruising 10-20m) and the Tombant Est grouper/moray population are attributed to the eastern drop-off specifically, so they remain correctly placed on this entry (unlike the erroneous grouper/barracuda mix-up found and corrected on the main 'La Gabiniere' entry). Difficulty kept as Intermediate per OSM tag; depth range 10-40m confirmed."
     }
   },
   {
@@ -333,8 +338,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "false",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "OSM-tagged as natural reef/islet. No dive-operator specific sources found during QA passes 2026-05-25 and 2026-06-26 confirming depth, site type, or marine life. Description is regional generic."
+      "last_qa_date": "2026-08-24",
+      "qa_note": "OSM-tagged as natural reef/islet. No dive-operator specific sources found during QA passes 2026-05-25, 2026-06-26, or 2026-08-24 (repeated targeted WebSearch for 'Esquadillon' found no dive-related results at all, only unrelated Port-Cros pages) confirming depth, site type, or marine life. Description remains regional generic; not marked validated."
     }
   }
 ]

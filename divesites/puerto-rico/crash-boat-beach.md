@@ -33,11 +33,11 @@ Crash Boat Beach takes its name from the US Air Force Ramey Base crash rescue bo
 
 ## Marine Life
 
-Crash Boat Beach is one of Puerto Rico's most reliable turtle sites. Green and hawksbill turtles are frequently encountered on morning dives, and some individuals are known to local dive guides. Large schools of French grunts and yellowtail snappers occupy the pier structure. Caribbean spiny lobster shelter in the rubble zones. Moray eels occupy crevices in the reef and rubble sections. Sergeant majors, tangs, angelfishes, parrotfish, filefishes, goatfishes, and butterflyfishes are abundant throughout. Octopus and seahorse sightings are reported occasionally. Nurse shark encounters are documented but not guaranteed on every visit.
+Crash Boat Beach is regarded as one of Puerto Rico's more reliable turtle sites, with sea turtle sightings reported on many dives, though "some individuals known to local guides" is a claim this review could not independently confirm and has been removed. Sergeant majors, tangs, angelfishes, filefishes, trunkfishes, goatfishes, butterflyfishes, damselfishes, flounders, snappers, wrasses, and moray eels are documented at the site by Zentacle's Aguadilla site guide. Occasional visitors include porkfish and cephalopods (octopus/squid), and seahorses are reported "if you are lucky." Specific claims of frequent nurse shark encounters and dense French grunt/snapper schools at the pier could not be confirmed against current sources and have been softened accordingly.
 
 ## Dive Profile
 
-Enter from the sandy beach to the north of the pier and navigate to the reef slope. Explore the reef zone at 8–15 metres before returning to the pier structure at 6–10 metres. The pier itself is an interesting structural dive — swim along the pilings, checking the undersides for encrustation and resident fish. Safety stop on the sandy shallows. Total dive time 45–55 minutes.
+Enter from the sandy beach to the north of the pier and navigate to the reef slope. Explore the reef zone at 8–15 metres, viewing the pier pilings from a safe distance rather than swimming directly beneath or against them (see Safety Considerations). Safety stop on the sandy shallows. Total dive time 45–55 minutes.
 
 ## Entry and Exit
 
@@ -45,11 +45,11 @@ Shore dive from the beach adjacent to the pier. Sandy entry; fins on in knee-dee
 
 ## Tips and Recommendations
 
-Morning dives before 9am offer the best conditions — afternoon trade winds frequently increase surface chop. The pier pilings are a specific dive objective worth spending time on — the encrustation is excellent and resident fish schools are dense. Ask local divers about the specific turtle individuals; some have names and well-known patrol routes.
+Morning dives before 9am offer the best conditions — afternoon trade winds frequently increase surface chop. The site includes several pier structures: an active pier still in use plus at least one older, partially collapsed pier now largely submerged. Ask local dive shops about current pier conditions before your dive — see Safety Considerations.
 
 ## Safety Considerations
 
-Boat traffic is present in the area — deploy an SMB or surface well clear of boat lanes. Swim fins through any surge zones near the pier. Sea urchins are present in the rocky sections. This is an unsupervised site — dive with a buddy and inform someone onshore of your plans.
+**Pier structure hazard:** ScubaBoard divers report that the abandoned pier structures at Crash Boat have deteriorated with age and weather — sections of concrete are breaking apart and falling to the bottom, and further collapse is possible. Divers should stay clear of the space directly beneath or against the remaining pier structures rather than swimming under them. Boat traffic is present in the area — deploy an SMB or surface well clear of boat lanes. Swim fins through any surge zones near the pier. Sea urchins are present in the rocky sections. This is an unsupervised site — dive with a buddy and inform someone onshore of your plans.
 
 ## Photography
 
@@ -61,4 +61,4 @@ Crash Boat Beach is one of Puerto Rico's best natural-light photography sites. M
 - The beach has free public parking and facilities
 
 ---
-*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Scuba Diving Magazine – Puerto Rico DIY Guide](https://www.scubadiving.com/puerto-rico-diy-dive-guide-rincon-and-aguadilla). Last updated 2026-06-26.*
+*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/), [ScubaBoard – Crashboat Dive Site Warning](https://scubaboard.com/community/threads/crashboat-dive-site-warning.354613/), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Scuba Diving Magazine – Puerto Rico DIY Guide](https://www.scubadiving.com/puerto-rico-diy-dive-guide-rincon-and-aguadilla). Last updated 2026-08-24. Re-audited 2026-08-24: added pier structural-hazard warning from ScubaBoard reports and removed an unconfirmed claim about individually recognized turtles.*

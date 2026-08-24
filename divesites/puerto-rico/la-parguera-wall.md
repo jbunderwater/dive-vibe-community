@@ -45,7 +45,7 @@ Boat dive from La Parguera village operators. The harbour is the departure point
 
 ## Tips and Recommendations
 
-La Parguera has multiple named wall sections — Fallen Rock, Black Wall, and others — each with slightly different character. Ask operators which specific section they plan to dive and request Black Wall if deep black coral sections are a priority. Night dives on the wall are highly productive and offered by local operators. The La Parguera bioluminescent bay is a famous attraction — plan a combination day-dive and night bay tour.
+La Parguera has multiple named wall sections. Fallen Rock, about 45 minutes out from La Parguera, is one of the most sought-after — a V-shaped notch in the wall beside a bus-sized coral-covered boulder that broke away to form a pinnacle, with the reef top near 20 m/65 ft dropping past 30 m/100+ ft; it's rated for advanced divers and known for ocean triggerfish, chromis, grunts, and passing pelagics like jacks, mackerel, and eagle rays. Black Wall's edge starts around 18–21 m/60–70 ft and drops vertically past 45 m/150 ft, decorated with wire coral, deep-water barrel sponges, and black coral. Ask operators which specific section they plan to dive. Night dives on the wall are highly productive and offered by local operators. The La Parguera bioluminescent bay is a famous attraction — plan a combination day-dive and night bay tour.
 
 ## Safety Considerations
 
@@ -61,4 +61,4 @@ La Parguera Wall is Puerto Rico's best advanced wall photography site. The combi
 - Paradise Scuba (Lajas area): regular wall dive operations from La Parguera
 
 ---
-*Sources: [Paradise Scuba – La Parguera Dive Sites](https://www.paradisescubasnorkelingpr.com/puerto-rico-dive-sites/), [PRDayTrips – La Parguera Wall Dive](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [Zentacle – Parguera's Wall](https://www.zentacle.com/Beach/5914/pargueras-wall), [Carib Dive Guide – La Parguera](http://www.caribdiveguide.com/PR_Area_4.htm). Last updated 2026-06-26.*
+*Sources: [Paradise Scuba – La Parguera Dive Sites](https://www.paradisescubasnorkelingpr.com/puerto-rico-dive-sites/), [PRDayTrips – La Parguera Wall Dive](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [Zentacle – Parguera's Wall](https://www.zentacle.com/Beach/5914/pargueras-wall), [Carib Dive Guide – La Parguera](http://www.caribdiveguide.com/PR_Area_4.htm), [Oceanwide Explorers – Diving the Wall in La Parguera](https://oceanwideexplorers.com/scuba-diving-the-wall-la-parguera/). Last updated 2026-08-24. Re-audited 2026-08-24: confirmed the 22-mile/60-1500ft wall figures and added verified Fallen Rock and Black Wall specifics from Oceanwide Explorers and Paradise Scuba.*

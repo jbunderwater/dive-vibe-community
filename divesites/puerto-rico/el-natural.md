@@ -35,7 +35,7 @@ El Natural (locally called "Gas Chamber" — a name whose origin is unclear but 
 
 ## Marine Life
 
-The site supports a typical Caribbean northwest-coast reef community. Regular species include sergeant majors, blue tangs, parrotfish, angelfishes, filefishes, trunkfishes, goatfishes, butterflyfishes, damselfishes, snappers, wrasses, and moray eels. Occasional sightings include sea turtles, octopus, trumpetfish, squids, and flying gurnards. Seahorse sightings have been reported by local divers. The site is particularly noted for its moray eel encounters.
+The site supports a typical Caribbean northwest-coast reef community. Aquatica PR documents frequent hawksbill turtle sightings, stingrays, and nurse sharks specifically at El Natural. Regular species also include sergeant majors, blue tangs, parrotfish, angelfishes, filefishes, trunkfishes, goatfishes, butterflyfishes, damselfishes, snappers, wrasses, and moray eels. Occasional sightings include octopus, trumpetfish, squids, and flying gurnards. Seahorse sightings have been reported by local divers. The site is particularly noted for its moray eel encounters.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Dive early in the morning to avoid the current shift and to get the best visibil
 Rocky entry requires careful footing — sea urchins are present among the rocks. The current shift after 9 AM can create disorienting conditions for new divers at the site — monitor current and return to the entry area before conditions change. No boat traffic concern at this site. Dive with a buddy and inform someone onshore of plans. This is an unsupervised site.
 
 ---
-*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/). Last updated 2026-06-26.*
+*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/). Last updated 2026-08-24. Re-audited 2026-08-24: added nurse shark and stingray sightings confirmed by Aquatica PR specifically for this site.*

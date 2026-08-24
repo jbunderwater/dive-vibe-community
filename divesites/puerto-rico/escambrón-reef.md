@@ -45,7 +45,7 @@ Visibility can drop sharply after rainfall or strong onshore swell. Winter cold 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-08-24
 
 ---
-*Sources: [Scuba Dogs – Escambrón Marine Park](https://scubadogs.net/services/go-venues/escambron-marine-park-san-juan/), [PADI – Escambron Marine Park Dive Site](https://www.padi.com/dive-site/puerto-rico/escambron-marine-park-la-poz-del-escambron/), [Triton's Realm – Escambrón Marine Park](https://www.tritonsrealm.com/en/scuba-diving/puerto-rico/north-shore/escambron-marine-park), [Discover Puerto Rico – Escambrón Marine Park](https://www.discoverpuertorico.com/profile/escambron-marine-park/10501). Last updated 2026-06-26.*
+*Sources: [Scuba Dogs – Escambrón Marine Park](https://scubadogs.net/services/go-venues/escambron-marine-park-san-juan/), [PADI – Escambron Marine Park Dive Site](https://www.padi.com/dive-site/puerto-rico/escambron-marine-park-la-poz-del-escambron/), [Triton's Realm – Escambrón Marine Park](https://www.tritonsrealm.com/en/scuba-diving/puerto-rico/north-shore/escambron-marine-park), [Discover Puerto Rico – Escambrón Marine Park](https://www.discoverpuertorico.com/profile/escambron-marine-park/10501). Last updated 2026-08-24. Re-audited 2026-08-24: Taíno Reef, Fish Protection Wall, Labyrinth Reef/caverns, "City of Atlantis" structures, green/hawksbill turtles, tarpon, and occasional manatee sightings re-confirmed against Scuba Dogs (the on-site operator) and cross-referenced secondary listings; no factual changes required.*

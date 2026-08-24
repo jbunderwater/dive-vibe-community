@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Blue Beach
 
-A shallow shore dive at one of Vieques Island's most beautiful beaches — a gentle reef extending directly from the sand of Sun Bay's less-visited eastern stretch, with sea turtles in the seagrass and fish-rich rocky reef sections.
+A shallow shore dive at one of Vieques Island's most beautiful beaches — a gentle reef extending directly from the sand of La Chiva Beach on Vieques' protected south coast, with sea turtles and rays in the seagrass and fish-rich rocky reef sections.
 
 ## Overview
 
-Blue Beach (Playa Azul) is one of the series of beaches on Vieques Island's south coast within the former US Navy bombing range land that is now administered as a National Wildlife Refuge. The beach itself is considered one of Vieques' most beautiful — broad, tree-backed, with typically calm south-facing conditions. The reef offshore begins just metres from the shoreline and extends to 8 metres depth, featuring a mix of rocky reef sections, coral formations, and seagrass beds. The protection of the National Wildlife Refuge status and the lower visitor traffic compared to mainland Puerto Rico have allowed the reef and marine life to remain in good health. Visibility averages 15–25 metres. Water temperature is 26–28°C.
+Blue Beach is a US Navy-era nickname for La Chiva Beach (Playa La Chiva, also written Bahía de la Chiva), located in the Puerto Ferro barrio on Vieques Island's south coast. It is a standalone beach within the former Navy bombing range land now administered as the Vieques National Wildlife Refuge — it is not part of Sun Bay, a separate beach near Esperanza. The beach itself is considered one of Vieques' most beautiful — broad, tree-backed, with typically calm conditions. A long reef extends across the beach beginning close to shore, with a mix of rocky reef sections, coral formations, and seagrass beds reaching to about 8 metres depth. Access to the adjacent La Chiva Key (a small island offshore) is prohibited due to unexploded ordnance from the site's military history. The National Wildlife Refuge status and lower visitor traffic compared to mainland Puerto Rico have allowed the reef and marine life to remain in good health. Visibility averages 15–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Blue Beach (Playa Azul) is one of the series of beaches on Vieques Island's sout
 
 ## Marine Life
 
-The site is primarily known as a snorkelling and shallow dive location. The reef sections support parrotfish, angelfish, butterfly fish, and hawksbill turtles — the latter are documented at this site by vieques.com and local operators. The southern Vieques coast is significant nesting habitat for hawksbill turtles. Eagle ray sightings are reported. Southern stingrays and spiny lobster are likely on the adjacent sandy and rocky substrate, though specific confirmation for Blue Beach is limited. The shallow reef is described as having a mix of healthy coral on the right side of the bay.
+The site is primarily known as a snorkelling and shallow dive location. Vieques.com and other regional operators document "many sea turtles and rays" at this specific beach, and the reef sections support parrotfish, angelfish, and butterfly fish typical of the seagrass-and-reef habitat. The southern Vieques coast is broadly significant nesting habitat for hawksbill turtles, though no source confirms nesting specifically at Blue Beach/La Chiva itself. Southern stingrays and spiny lobster are plausible on the adjacent sandy and rocky substrate given the habitat type, but specific sightings confirmation for this beach is limited — treat these as likely rather than documented.
 
 ## Dive Profile
 
@@ -41,7 +41,7 @@ Walk entry from the beach through the seagrass to the reef. Navigate along the r
 
 ## Entry and Exit
 
-Shore dive from Blue Beach. Sandy walk entry. The beach is in the former Navy lands administered by the US Fish and Wildlife Service — access via the dirt road network on Vieques' east end. Facilities are basic. Bring your own water and equipment.
+Shore dive from Blue Beach (La Chiva). Sandy walk entry. The beach is in the former Navy lands administered by the US Fish and Wildlife Service — access via the dirt road network on Vieques' south side (not the same access road as Sun Bay, which is a separate beach near Esperanza). Facilities are basic. Bring your own water and equipment. Do not attempt to reach the offshore La Chiva Key — it remains off-limits due to unexploded ordnance.
 
 ## Tips and Recommendations
 
@@ -61,4 +61,4 @@ Blue Beach's calm, shallow water and reliable turtle encounters make it a simple
 - US Fish and Wildlife Service Vieques National Wildlife Refuge: administers access to the east end beaches
 
 ---
-*Sources: [Vieques.com – Snorkeling](https://vieques.com/island-puerto-rico-snorkeling/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Pure Adventure PR – Vieques Snorkel Tour](https://pureadventurepr.com/tour/vieques-island-snorkel-beach-tour/). Last updated 2026-06-26.*
+*Sources: [Vieques.com – Snorkeling](https://vieques.com/island-puerto-rico-snorkeling/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Pure Adventure PR – Vieques Snorkel Tour](https://pureadventurepr.com/tour/vieques-island-snorkel-beach-tour/), [Wikipedia – Blue Beach (Vieques)](https://en.wikipedia.org/wiki/Blue_Beach_%28Vieques%29). Last updated 2026-08-24. Re-audited 2026-08-24: corrected beach identity — this is La Chiva Beach (Bahía de la Chiva), not "Playa Azul," and it is not part of Sun Bay, a separate beach; previous description conflated the two.*

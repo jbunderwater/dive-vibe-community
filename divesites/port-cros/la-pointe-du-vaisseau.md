@@ -17,7 +17,7 @@ A south-eastern headland at Port-Cros with a rich coralligenous drop-off, excell
 
 ## Overview
 
-La Pointe du Vaisseau is located on the south-eastern tip of Île de Port-Cros, in an area historically considered one of the park's best diving locations alongside La Gabinière. Unlike the more current-exposed Gabinière sites, the Vaisseau point offers notably calmer conditions, making it a good choice for less experienced park visitors and an excellent first dive when swell or wind makes the exposed southern rocks uncomfortable. The coralligenous drop-off descends to 35 metres, and groupers here have become accustomed to divers over decades of park visits, approaching closely and with apparent curiosity.
+La Pointe du Vaisseau is located on the south-eastern tip of Île de Port-Cros, in an area historically considered one of the park's best diving locations alongside La Gabinière. Unlike the more current-exposed Gabinière sites, the Vaisseau point offers notably calmer conditions, making it a good choice for less experienced park visitors and an excellent first dive when swell or wind makes the exposed southern rocks uncomfortable. The rocky bar covers roughly 9,000 square metres and descends to a maximum of 35–38 metres depending on source; groupers here — fewer in number than at the nearby La Gabinière but still large specimens — have become accustomed to divers over decades of park visits, approaching closely and with apparent curiosity.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ La Pointe du Vaisseau is located on the south-eastern tip of Île de Port-Cros, 
 
 ## Marine Life
 
-Brown groupers are numerous and highly approachable — dive guides describe them as "accustomed to human presence" and willing to swim alongside divers at close range. Moray eels emerge from crevices throughout the drop-off, and small-spotted catsharks are occasionally seen resting on the rock ledges. Conger eels occupy the deeper overhangs. The coralligenous drop-off supports gorgonian sea fans, encrusting red coral, and vivid sponge communities. Scorpionfish blend almost invisibly into the rocky substrate. Steinitz' gobies, sea spiders (unusual Pycnogonida), and spiny lobsters are also recorded at this site.
+Brown groupers are present and approachable, though independent sources describe them as less numerous here than at nearby La Gabinière. Small-spotted catsharks are confirmed at this site, typically resting under rocks. Moray eels emerge from crevices throughout the drop-off, and conger eels occupy the deeper overhangs. The coralligenous drop-off supports white gorgonian sea fans, brittle stars, flatworms, and encrusting sponge communities. Scorpionfish blend almost invisibly into the rocky substrate. Spiny lobsters and mantis shrimp are also recorded at this site. Amberjacks were mentioned in an earlier version of this description but could not be confirmed for this specific site by any source consulted, and have been removed.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Although calmer than the Gabinière sites, the 35-metre maximum depth warrants c
 Grouper portraits at Vaisseau are among the best in the park — the fish are calm and approachable. Wide-angle shots along the coralligenous wall with groupers mid-frame and gorgonians in the background are outstanding. Macro photography on the encrusted rock surfaces reveals sea spiders, nudibranchs, and coral polyp detail.
 
 ---
-*Sources: [CaPel — Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-06-26.*
+*Sources: [CaPel — Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Mio Palmo Plongée — Pointe Vaisseau](https://www.miopalmoplongee.com/nos-sites/pointe-vaisseau.php). Last updated 2026-08-24 (re-audited: catshark and gorgonian claims confirmed independently; unconfirmed amberjack claim removed).*

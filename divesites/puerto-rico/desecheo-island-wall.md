@@ -41,7 +41,7 @@ Descend the wall from the reef crest at 5–10 metres, working down to 30–40 m
 
 ## Entry and Exit
 
-Boat dive only — the crossing from Rincón takes approximately 45–60 minutes. Operators departing from Rincón (Taíno Divers) run regular Desecheo trips when conditions permit. Entry by backward roll. DSMB required. Live-boat pickup may be standard in stronger current conditions.
+Boat dive only — Desecheo lies roughly 13–14 nautical miles (about 22 km) off Puerto Rico's west coast, with the crossing taking approximately 45–60 minutes from either Rincón or Aguadilla. Operators depart from both towns (Taíno Divers from Rincón; Aquatica PR from Aguadilla and, more recently, Rincón) and run trips when conditions permit. Entry by backward roll. DSMB required. Live-boat pickup may be standard in stronger current conditions.
 
 ## Tips and Recommendations
 
@@ -57,8 +57,8 @@ Desecheo is Puerto Rico's best diving photography destination. The combination o
 
 ## Additional Resources
 
-- Taíno Divers (Rincón): primary operator for Desecheo trips, weather-dependent scheduling
+- Taíno Divers (Rincón) and Aquatica PR (Aguadilla/Rincón): operators running Desecheo trips, weather-dependent scheduling
 - US Fish and Wildlife Service: Desecheo is a National Wildlife Refuge; no landing permitted
 
 ---
-*Sources: [Aquatica PR – Desecheo Island Diving](https://aquaticapr.com/desecheo-island-diving-a-bucket-list-adventure-with-aquatica-pr/), [PADI – Desecheo Island Dive Site](https://www.padi.com/dive-site/puerto-rico/desecheo-island/), [PRDayTrips – Desecheo Island](https://www.puertoricodaytrips.com/dive-desecheo-island/), [Carib Dive Guide – West Coast & Desecheo](http://www.caribdiveguide.com/PR_Area_5.htm). Last updated 2026-06-26.*
+*Sources: [Aquatica PR – Desecheo Island Diving](https://aquaticapr.com/desecheo-island-diving-a-bucket-list-adventure-with-aquatica-pr/), [PADI – Desecheo Island Dive Site](https://www.padi.com/dive-site/puerto-rico/desecheo-island/), [PRDayTrips – Desecheo Island](https://www.puertoricodaytrips.com/dive-desecheo-island/), [Carib Dive Guide – West Coast & Desecheo](http://www.caribdiveguide.com/PR_Area_5.htm). Last updated 2026-08-24. Re-audited 2026-08-24: confirmed distance figures against PADI (14 nautical miles) and Aquatica PR (13 miles) and noted that trips also depart from Aguadilla, not only Rincón.*

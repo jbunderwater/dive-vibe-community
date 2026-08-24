@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Humacao Reef
 
-A sloping coral reef on Puerto Rico's underdived east coast near Humacao — the eastern shelf's underwater terrain of broad reef slopes, hard coral formations, and productive marine life offers intermediate divers a less-crowded alternative to the better-known west and southwest sites.
+An entry point into the cluster of reef and drop-off sites charted by local operators off Palmas del Mar near Humacao on Puerto Rico's underdived east coast — an area popular with spearfishers and divers for lobster and invasive lionfish, offering a less-crowded alternative to the better-known west and southwest coasts.
 
 ## Overview
 
-Humacao Reef lies in the waters off the east coast of Puerto Rico near the Humacao municipality, where the island's eastern shelf drops from the coast toward the open Atlantic. The reef system here is characterised by broad sloping terrain covered with brain coral, star coral, and scattered sea fan formations, with sandy corridors between reef sections. The east coast sees fewer dive boats than the southwest coast, and the site offers an undisturbed diving character in productive Caribbean water. Visibility averages 15–25 metres. Water temperature is 26–28°C year-round.
+"Humacao Reef" in this database is a general entry for the waters off the Humacao municipality on Puerto Rico's east coast, rather than a single officially named dive site. The area is not within a marine protected area, so it sees some commercial and recreational fishing pressure alongside diving. Local operator Jen There Done That documents several specific named sites in this cluster off Palmas del Mar: **Cubera Reef at La Conga** (reef bottoming around 24 m/80 ft), **Hansi Hub** (about 15 m/50 ft, a lionfish hangout with occasional nurse shark sightings), **Cayo Largo** (a reef wall starting near 18 m/60 ft that drops to roughly 43 m/140 ft — beyond recreational no-decompression limits), and **Udûn**, a sandy-bottomed reef at 21 m/70+ ft known for good visibility and dense lobster, crab, and reef fish life. These illustrate the real range of terrain and depth found in the area; a boat trip billed as "Humacao Reef" diving may visit one or more of these or similar nearby sites depending on the operator and conditions. Visibility averages 15–25 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Humacao Reef lies in the waters off the east coast of Puerto Rico near the Humac
 
 ## Marine Life
 
-The east coast's lower dive traffic produces a marine community that is less habituated to divers, creating more naturalistic encounters. Hawksbill turtles are regularly seen on the reef, feeding on sponges. Large parrotfish and queen triggerfish are prominent. Southern stingrays traverse the sandy corridors between reef sections. Caribbean spiny lobster shelter in the deeper reef crevices. Schools of creole wrasse and French grunts are abundant throughout the reef zone.
+Jen There Done That documents lionfish and occasional nurse sharks at Hansi Hub, and lobster, crab, lionfish, and general reef fish at Udûn. Beyond these two confirmed reports, no source found in this review ties a specific species to a specific named site here. The east coast's general reef fauna — hawksbill turtles, parrotfish, stingrays, spiny lobster, and schooling grunts and wrasses — is well documented for Puerto Rico broadly, and this character plausibly extends to the Humacao area, but treat species beyond lionfish and nurse sharks as regional expectations rather than site-confirmed sightings.
 
 ## Dive Profile
 
-Boat to the reef and descend to the reef crest. Work along the slope from 10 metres down to 25 metres, exploring the reef terrain in both directions. The deeper outer sections at 20–25 metres have the largest sponge and coral formations. Ascend through the shallower reef sections for a well-lit safety stop.
+Boat to the reef and descend to the reef crest. Work along the slope from roughly 10 metres down to the site's depth limit, exploring the reef terrain in both directions — actual depth and terrain depend on which named site (Cubera Reef/La Conga, Hansi Hub, Cayo Largo, or Udûn) the operator selects for the day. Ascend through the shallower reef sections for a well-lit safety stop.
 
 ## Entry and Exit
 
@@ -53,12 +53,12 @@ East coast exposure can produce stronger surge and current than the sheltered we
 
 ## Photography
 
-The east coast's clear water and less-disturbed reef make Humacao a productive site for natural-light reef photography. Turtle encounters over the brain coral formations, stingray portraits on sandy corridors, and school-of-fish compositions are the main subjects.
+The east coast's clear water and comparatively less-dived reef make this area productive for natural-light reef photography. Macro subjects (lionfish, lobster, crab) at Udûn and Hansi Hub, and wide-angle wall shots at Cayo Largo, are the documented highlights.
 
 ## Additional Resources
 
-- Palmas del Mar Resort dive operators: offer east coast reef dives including Humacao area sites
+- Palmas del Mar Resort dive operators: offer east coast reef dives including the Cubera Reef/La Conga, Hansi Hub, Cayo Largo, and Udûn sites
 - The east coast has fewer operators than the west — book ahead as capacity is limited
 
 ---
-*Sources: [Jen There Done That – Scuba Dive Palmas del Mar](https://jentheredonethat.com/scuba-dive-palmas-del-mar-puerto-rico/), [PRDayTrips – Puerto Rico Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Discovering Puerto Rico – Scuba Diving](https://www.discoveringpuertorico.com/scuba-diving-in-puerto-rico/). No site-specific sources found for "Humacao Reef" as a named dive site; description based on east coast reef character documented by Palmas del Mar area operators. Last updated 2026-06-26.*
+*Sources: [Jen There Done That – Scuba Dive Palmas del Mar](https://jentheredonethat.com/scuba-dive-palmas-del-mar-puerto-rico/), [PRDayTrips – Puerto Rico Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Discovering Puerto Rico – Scuba Diving](https://www.discoveringpuertorico.com/scuba-diving-in-puerto-rico/). Last updated 2026-08-24. Re-audited 2026-08-24: "Humacao Reef" is a database placeholder, not a single named site; rewritten to name the actual charted sites in this area (Cubera Reef/La Conga, Hansi Hub, Cayo Largo, Udûn) per Jen There Done That, and to stop presenting generic east-coast species as confirmed for a specific site. Three source domains cited; no fourth independent domain found for this specific cluster of sites.*

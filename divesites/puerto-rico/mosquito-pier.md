@@ -33,7 +33,7 @@ Mosquito Pier (Muelle de Mosquito) is a disused military pier located on the nor
 
 ## Marine Life
 
-The pier pilings support exceptional diversity due to decades of encrustation. Hawksbill and green turtles are regularly encountered along the pier. Spotted and green morays occupy crevices between the pilings. Caribbean reef octopus are active hunters at the base of the structure. Caribbean spiny lobster shelter under ledges. Tarpon school through the structure. Southern stingrays and flatfish rest on the sandy bottom beneath the pier. Parrotfish, French angelfish, barjacks, and blue-headed wrasses are common reef fish. Goliath groupers and manatees have been documented at the site. Frogfish and seahorse sightings are reported anecdotally by local divers but are not guaranteed.
+The pier pilings support exceptional diversity due to decades of encrustation. Hawksbill and green turtles are regularly encountered along the pier, per SevenSeas Media. Spotted and green morays occupy crevices between the pilings. Caribbean spiny lobster and common octopus are documented here. Tarpon school through the structure. Southern stingrays rest on the sandy bottom beneath the pier. Blackbeard Sports also reports an occasional resident nurse shark. Parrotfish and French angelfish are common reef fish, alongside barjacks. Goliath groupers and manatees are documented at the site by SevenSeas Media, along with occasional dolphins and — per one report — a manta ray sighting, though the latter should be treated as a rare, not expected, encounter. Frogfish and seahorse sightings are reported anecdotally by local divers but are not guaranteed.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Mosquito Pier is one of Puerto Rico's best macro photography sites. The richly e
 - Blackbeard Sports (Vieques): regular pier dive operations
 
 ---
-*Sources: [Black Beard Sports – Fun Dives Vieques](https://www.blackbeardsports.com/fun-dives-vieques), [SevenSeas Media – Vieques Dive Sites](https://sevenseasmedia.org/vieques-puerto-rico-and-the-two-dive-sites-you-cannot-miss/), [Vieques.com – Scuba Diving](https://vieques.com/island-puerto-rico-scuba-diving/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/). Last updated 2026-06-26.*
+*Sources: [Black Beard Sports – Fun Dives Vieques](https://www.blackbeardsports.com/fun-dives-vieques), [SevenSeas Media – Vieques Dive Sites](https://sevenseasmedia.org/vieques-puerto-rico-and-the-two-dive-sites-you-cannot-miss/), [Vieques.com – Scuba Diving](https://vieques.com/island-puerto-rico-scuba-diving/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/). Last updated 2026-08-24. Re-audited 2026-08-24: re-pulled Black Beard Sports and SevenSeas Media; added nurse shark (confirmed) and re-attributed goliath grouper/manatee/dolphin to source, removed unconfirmed flatfish/blue-headed wrasse mentions.*
