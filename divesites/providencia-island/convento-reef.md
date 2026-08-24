@@ -2,10 +2,10 @@
 name: Convento Reef
 lat: 13.383
 lng: -81.362
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,23 +13,25 @@ addedBy: osm_import
 
 ## Convento Reef
 
-Convento Reef (El Convento) is a shallow reef dive within the UNESCO Seaflower Biosphere Reserve, operated as a named dive site by Felipe Diving Center on Providencia Island.
+Convento (El Convento) is a platform-and-wall dive site with extensive sandy areas, reaching well past 30 metres — reclassified from a beginner reef on new evidence from a local dive shop.
 
 ## Overview
 
-Convento Reef (referred to as "El Convento" by local operator Felipe Diving) is confirmed as an active named dive site on Providencia through a Felipe Diving Facebook video post showing diving at this location. The reef sits within the protected barrier reef system of the Seaflower Biosphere Reserve at approximately 15 metres maximum depth, with calm lagoon conditions typical of Providencia's inner reef areas. No published depth measurements, site-specific descriptions, or marine life records for Convento Reef were found in independent dive sources beyond the confirmation of its existence as a dive site.
+Convento (referred to as "El Convento" by local operators) was previously listed here as a shallow reef based only on a Felipe Diving Facebook video showing a parrotfish at the location, with no depth or site-type confirmation. The Dive Shop Old Providence, a Providencia-based operator, now describes it directly as a platform with extensive sandy areas and a cliff wall, reaching 16-40 metres, rated Intermediate — this is a meaningfully different site than the "shallow beginner reef" previously described, so the site type, depth, and difficulty have all been corrected on this basis.
+
+This entry is **not yet fully validated**: only two independent sources have been found (the Felipe Diving Facebook confirmation and The Dive Shop Old Providence's site listing) despite additional English and Spanish-language searches. A third independent source is needed before this site meets the standard validation bar.
 
 ## Site Information
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 
 ## Marine Life
 
-*No site-specific marine life sources found for Convento Reef. The surrounding inner barrier reef system supports Caribbean reef fish typical of the Seaflower Biosphere Reserve, including parrotfish, snappers, grunts, and angelfish.*
+The Dive Shop Old Providence reports lobsters, crabs, snappers, stingrays, and gray reef sharks at this site. A Felipe Diving video separately documents parrotfish here. No other site-specific marine life sources were found.
 
 ---
-*Site existence confirmed by [Felipe Diving Center](https://www.facebook.com/felipediving/videos/pez-loro-sitio-de-buceo-el-convento-providencia-isla-colombiafelipe-diving-provi/1428329457852988/). No additional site-specific sources found. Last updated 2026-06-26.*
+*Sources: [The Dive Shop Old Providence](https://www.thediveshopoldprovidence.com/en/sitios-de-buceo/), [Felipe Diving Center](https://www.facebook.com/felipediving/videos/pez-loro-sitio-de-buceo-el-convento-providencia-isla-colombiafelipe-diving-provi/1428329457852988/). Only 2 independent sources found — not yet validated. Last updated 2026-08-24.*

@@ -17,7 +17,9 @@ Table Rock is a shallow cave and cavern dive on the outer reef north of Providen
 
 ## Overview
 
-Table Rock sits approximately 16.8 kilometres (10.5 miles) from the northern tip of Santa Catalina Island, near Point of Reef. The site reaches a maximum depth of around 8 metres (25 feet) and features interconnected caves and caverns within the reef structure. Large schools of silversides shelter in the cave passages alongside nurse sharks resting in the shaded recesses. The very shallow depth and generally calm conditions make this one of the most accessible sites in Providencia — suitable for snorkelers and all levels of scuba diver. The cave openings look out onto the outer barrier reef colonised by the corals and sponges typical of the UNESCO Seaflower Biosphere Reserve.
+Table Rock sits approximately 16.8 kilometres (10.5 miles) from the northern tip of Santa Catalina Island, near Point of Reef. The site reaches a maximum depth of around 8 metres (25 feet) and features interconnected caves and caverns within the reef structure. Large schools of silversides shelter in the cave passages alongside nurse sharks resting in the shaded recesses; Deep Blue Hotel independently confirms sharks and a variety of colour at the site. The very shallow depth and generally calm conditions make this one of the most accessible sites in Providencia — suitable for snorkelers and all levels of scuba diver. The cave openings look out onto the outer barrier reef colonised by the corals and sponges typical of the UNESCO Seaflower Biosphere Reserve.
+
+**Re-audit note (2026-08-24):** a ScubaBoard thread previously cited here was re-read in full and does not mention Table Rock anywhere — that citation has been removed. Only two independent sources (Joe's Scuba Shack and Deep Blue Hotel) could be confirmed despite further searching; a third has not yet been found.
 
 ## Site Information
 
@@ -32,4 +34,4 @@ Table Rock sits approximately 16.8 kilometres (10.5 miles) from the northern tip
 Nurse sharks rest in the shaded cave passages alongside large schools of silversides and reef tropicals. The outer reef adjacent to the cave system supports parrotfish, surgeonfish, and snappers. Caribbean reef sharks have been reported in the open reef areas near the site.
 
 ---
-*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Deep Blue Hotel](https://www.hoteldeepblue.com/es/scuba.html), [ScubaBoard](https://scubaboard.com/community/threads/providencia-questions-our-first-real-diving-experience.316728/). Last updated 2026-06-26.*
+*Sources: [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Deep Blue Hotel](https://www.hoteldeepblue.com/es/scuba.html). Only 2 independent sources confirmed as of this audit — see note above. Last updated 2026-08-24.*

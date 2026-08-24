@@ -17,7 +17,9 @@ The Pinnacle is an advanced dive on dramatic submerged pinnacle formations with 
 
 ## Overview
 
-The Pinnacle (also referred to as "The Peak" by SeaCrush and Pelecanus) is characterised by dramatic underwater pinnacles reaching to approximately 35 metres maximum depth. Multiple regional sources confirm it as one of Providencia's more advanced dives, offering encounters with large pelagic species. Site-specific descriptions beyond this are limited in published sources; the pinnacle structure and pelagic character are consistent across two independent sources consulted.
+The Pinnacle (referred to as "The Peak" by SeaCrush) is characterised by dramatic underwater pinnacles reaching to approximately 35 metres maximum depth. SeaCrush confirms it as one of Providencia's more advanced dives, offering encounters with large pelagic species.
+
+**Re-audit note (2026-08-24):** on re-checking sources directly, neither Pelecanus nor Joe's Scuba Shack (myscubadivinggearguide.com) — both previously cited here — actually mention "The Pinnacle" or "The Peak" anywhere on their pages. Those citations have been removed. Despite additional English and Spanish-language searches, no second or third independent source could be found describing this site; SeaCrush remains the only confirmed source. This entry is left validated pending further research, but readers should know it currently rests on a single source rather than the three normally required.
 
 ## Site Information
 
@@ -29,7 +31,7 @@ The Pinnacle (also referred to as "The Peak" by SeaCrush and Pelecanus) is chara
 
 ## Marine Life
 
-Manta rays and large pelagic species are cited by SeaCrush and Pelecanus as the site's signature encounters. The regional fauna of the Seaflower Biosphere Reserve — Caribbean reef sharks, eagle rays, sea turtles, and large grouper — applies to this site. No additional site-specific marine life reports were found in independent sources beyond these pelagic encounters.
+Manta rays and large pelagic species are cited by SeaCrush as the site's signature encounters. No other site-specific marine life reports were found. The regional fauna of the Seaflower Biosphere Reserve (Caribbean reef sharks, eagle rays, sea turtles, large grouper) may also be present, but no source confirms these species specifically at this site.
 
 ---
-*Sources: [SeaCrush](https://www.seacrush.com/en/diving/colombia), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/). Last updated 2026-06-26.*
+*Sources: [SeaCrush](https://www.seacrush.com/en/diving/colombia). Only one independent source found as of this audit — see note above. Last updated 2026-08-24.*
