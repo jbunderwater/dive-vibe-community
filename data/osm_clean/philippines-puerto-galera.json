@@ -6,14 +6,16 @@
     "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,badladz.com,casalay.ph",
     "tags": {
       "name": "Boulders",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Re-audited against Capt'n Gregg's, BADLADZ, and Casalay site charts (4 domains). Difficulty bumped from Intermediate to Advanced: three of four independently-checked operator sources rate this site Advanced/Intermediate-Advanced due to the 30m depth and overhang topography."
     }
   },
   {
@@ -23,14 +25,16 @@
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,actiondivers.com,casalay.ph",
     "tags": {
       "name": "Dry Dock",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Re-audited (4 domains). Difficulty bumped from Intermediate to Advanced per Casalay and corroborating operator guidance recommending Nitrox/advanced certification for this site. Removed unconfirmed 'beer-bottle crate' detail (single-source, not corroborated) per wreck-history cross-check requirement; structure is described consistently as a steel-and-plywood boat-lifting dry dock, not a floating dry dock as originally written."
     }
   },
   {
@@ -42,12 +46,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,badladz.com,casalay.ph,actiondivers.com,deluna-diving.com",
     "tags": {
       "name": "Dungon Wall",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Re-audited (6 domains). Added a scuttled sailing catamaran at ~28m, confirmed independently by Casalay and Capt'n Gregg's/Action Divers. Difficulty left at Intermediate (majority of sources); Casalay rates it Advanced due to the sub-30m wall section, noted in markdown."
     }
   },
   {
@@ -57,14 +63,16 @@
     "depth": 26,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com,casalay.ph,captngreggs.ph,actiondivers.com",
     "tags": {
       "name": "Ernies Cave",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "MAJOR CORRECTION on re-audit (5 domains). The prior markdown's central claim -- a 10m scuttled steel vessel at 24m -- is not corroborated by PADI, Casalay, Capt'n Gregg's, or Action Divers, all of which describe this site as a cave/cavern site named after 'Ernie,' a resident grouper, with no wreck at this location. Rewrote description accordingly and removed the unconfirmed wreck narrative (hallucination risk per anti-hallucination policy). Difficulty bumped from Intermediate to Advanced per PADI and Casalay (both rate it Advanced due to depth and strong cross-currents)."
     }
   },
   {
@@ -76,12 +84,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com,wannadive.net,zentacle.com",
     "tags": {
       "name": "Fantasea",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Re-audited (4 domains). Pygmy seahorses in red gorgonians and green turtles independently confirmed (PADI, Zentacle). The white Rhinopias frondosa claim traces only to the original single source and is not confirmed by PADI's site page; softened in markdown to attribute it explicitly to operator dive logs rather than presenting it as an established site feature. Scuttled aluminium 'tinnies' also remain single-sourced and are worded accordingly."
     }
   },
   {
@@ -93,12 +103,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,captngreggs.ph,badladz.com,casalay.ph,actiondivers.com",
     "tags": {
       "name": "Hole in the Wall",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Re-audited (5 domains). Corrected the swim-through's depth to ~12m (Casalay, Action Divers) rather than 15m. Location corrected to Escarceo Point, the drift entry point for The Canyons run (multi-source consensus), rather than 'northeast of Lighthouse Headland.' Difficulty: sources split between Open Water/Beginner (Casalay, Capt'n Gregg's) and Intermediate (BADLADZ); kept at Intermediate and noted the split, erring conservative given the current warnings in every source."
     }
   },
   {
@@ -110,12 +122,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com,paparazsea.com,casalay.ph,captngreggs.ph",
     "tags": {
       "name": "Kilima",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Re-audited (5 domains). Thresher shark sightings strongly corroborated -- PaparazSea and Casalay both identify Kilima Steps as the destination's best thresher shark site, with consistent February sightings reported since 2020."
     }
   },
   {
@@ -127,12 +141,14 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com,casalay.ph",
     "tags": {
       "name": "Montani",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Re-audited (3 domains). Wonderpus, blue-ringed octopus, and flamboyant cuttlefish sightings corroborated by PADI and Casalay. Note: PADI lists this as boat-access; the original shore-entry tag is kept because a boat-drop-then-walk-in pattern is also documented, but this is flagged as a minor discrepancy in the markdown rather than silently resolved."
     }
   },
   {
@@ -144,12 +160,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com,badladz.com,zentacle.com,diveplanit.com,casalay.ph,puertoparrot.com,asiadivers.com",
     "tags": {
       "name": "MV Alma Jane",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Full wreck-history deep research completed (8 domains, no Wikipedia article exists for this vessel). Vessel name, 1966 Japan build, 32m length, 60-ton displacement, and March 2003 scuttling by the Puerto Galera Dive Association are consistently corroborated across at least 6 independent dive-operator/database sources with no material conflicts. One source (asiadivers.com) describes the hull as 'mixed steel and wooden' vs. the steel-hull consensus elsewhere -- noted as a minor discrepancy in markdown rather than silently picking one version."
     }
   },
   {
@@ -161,12 +179,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com",
     "tags": {
       "name": "Sabang Bay West",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "UNRESOLVED for the 3-domain requirement: only michaelmcfadyenscuba.info and a generically-matching PADI 'Sabang Bay' site page (by coordinates) were found; no third independent source specifically names 'Sabang Bay West' or confirms the two dumped aluminium boats. Left validated=true as-is per instructions rather than padding with weak sources; softened the aluminium-boats claim in markdown to attribute it to the single source. Flagged in QA summary as needing further research."
     }
   },
   {
@@ -178,12 +198,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com,diveplanit.com,casalay.ph,asiadivers.com,badladz.com",
     "tags": {
       "name": "Sabang Bay Wrecks",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Wreck-history deep research completed (6 domains). The 2-wooden-boats-plus-1-steel-yacht composition is well corroborated, but no source documents individual vessel names, build dates, or tonnage for these small scuttled boats -- markdown now explicitly states this is unknown rather than guessing. The single-sourced 'black giant anglerfish resident on the yacht' claim was softened to 'anglerfish have been reported in the area' since other sources place anglerfish more generally on the site's sponges rather than specifically on the yacht."
     }
   },
   {
@@ -195,12 +217,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com,casalay.ph,captngreggs.ph,actiondivers.com",
     "tags": {
       "name": "Sabang Point",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Re-audited (5 domains). Pygmy seahorse sighting added, confirmed independently by Casalay. Three small wrecks (a steel yacht and two wooden boats) noted nearby per PADI/search consensus -- kept distinct from the main reef/drift description rather than conflated."
     }
   },
   {
@@ -210,14 +234,16 @@
     "depth": 28,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com,asiadivesite.com,casalay.ph,captngreggs.ph,actiondivers.com",
     "tags": {
       "name": "Shark Cave",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "MAJOR CORRECTION on re-audit (6 domains). The prior markdown's claim that 'sharks are not typically seen here' is contradicted by the majority of independently-checked sources: PADI and AsiaDiveSite describe whitetip reef sharks as a current, reliably-seen feature of two overhangs at 27-30m, while Casalay and PADI's own older phrasing describe the cave as having 'used to house' them. This is a genuine cross-source conflict rather than a single clean answer, and the rewritten markdown states both positions rather than asserting either one. Difficulty bumped from Intermediate to Advanced per PADI/AsiaDiveSite/Casalay consensus."
     }
   },
   {
@@ -229,12 +255,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,padi.com,casalay.ph,deluna-diving.com,actiondivers.com",
     "tags": {
       "name": "Sinandigan Wall",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Re-audited (5 domains). Thresher shark sightings corroborated with more specific detail: reported March through the stretch of wall between Sinandigan and Kilima Steps, mostly 20-25m. Difficulty split across sources (Casalay: Advanced; others: all levels); kept Intermediate and noted the range."
     }
   },
   {
@@ -246,14 +274,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,badladz.com,actiondivers.com,deluna-diving.com,casalay.ph,puertoparrot.com",
     "tags": {
       "name": "The Canyons",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Corrected site_type from reef to drift: site is defined by strong currents sweeping through canyon formations; drift is the primary characteristic per Michael McFadyen's site description."
+      "last_qa_date": "2026-08-24",
+      "qa_note": "MAJOR CORRECTION on re-audit (6 domains). The anchor is consistently described across sources as a Spanish anchor (~1.5m, embedded in rock at the base of the third/deepest canyon), not an 'Admiralty anchor' as the prior markdown stated -- corrected. The 'whale shark' sighting claim is not corroborated by any of the six sources checked and has been removed as an unconfirmed/likely hallucinated detail; sources instead consistently report manta rays, thresher sharks, and (less commonly) hammerhead sharks, which have been substituted in. Prior qa_note from 2026-06-25 (reef->drift correction) remains valid and undisturbed."
     }
   },
   {
@@ -265,12 +293,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validation_source": "michaelmcfadyenscuba.info,badladz.com,deluna-diving.com,captngreggs.ph,casalay.ph,actiondivers.com",
     "tags": {
       "name": "West Escareo",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Re-audited (6 domains). Triggerfish confirmed as a repeat sighting across multiple sources. Difficulty split (Casalay: Advanced, citing strong drift on flood tide; others: Beginner-Intermediate); kept Intermediate and noted the current-dependent range in markdown."
     }
   }
 ]

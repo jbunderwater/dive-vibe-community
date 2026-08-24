@@ -13,69 +13,55 @@ addedBy: osm_import
 
 ## Ann's Rock / Astrid's Wall
 
-Ann's Rock is a popular and accessible Poor Knights wall dive where small boats can anchor directly on the rock. Divers can swim with or against the currents depending on conditions, offering flexibility in dive planning. The site offers good wall structure with marine growth and fish life, making it a reliable intermediate-level wall dive at Poor Knights.
+Ann's Rock is a named dive site on the western side of Tawhiti Rahi where small boats can anchor directly on the rock and divers can choose to swim with or against the current. Independent sources disagree on how deep and how eventful the site is — treat depth and marine-life claims below as a range rather than a fixed dive plan.
 
 ## Overview
 
-Ann's Rock is a wall dive featuring a dramatic vertical structure at a moderate depth, suitable for intermediate divers. The rock formation allows direct boat anchoring, making entry straightforward. The site's location allows divers to plan dives swimming with or against current depending on conditions and preferences. The wall provides excellent opportunity to observe vertical reef ecosystems and current-associated fish behaviour.
+Dive operators describe Ann's Rock simply as an anchor point: boats tie up on the rock and divers head off with or against whatever current is running, making sure they can get back to the anchor line. A separate, more detailed account (Seafriends) describes Ann's Rock as an exposed pinnacle beside Maomao Bay that drops to roughly 70 metres and is only diveable in very calm conditions, characterising the marine growth there as sparse kelp and strapweed rather than a richly encrusted wall. These two pictures don't fully agree — the "anchor and drift" dive that operators run is likely a shallower, more sheltered version of the same feature rather than the full 70m exposed face. We have not found an independent source confirming "Astrid's Wall" as a recognized alternate name for this site; it appears in our internal data but not in the standard Poor Knights dive-site references, so treat it as unverified.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Northland, New Zealand
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Location**: Western side of Tawhiti Rahi, Poor Knights Islands, Northland, New Zealand
+- **Entry Type**: Boat dive (direct anchor)
+- **Site Type**: Wall / current-swept rock
+- **Difficulty Level**: Intermediate (cold-water destination minimum)
+- **Maximum Depth**: 25 meters is the depth commonly used for the anchor-and-drift dive; be aware some sources describe the outer face of the rock dropping to roughly 70 meters
 - **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
-- **Current**: Variable; often present—key feature of the site
-- **Best Time**: Year-round, especially in good visibility periods (May-Sept)
+- **Water Temperature**: 14-17°C (winter, May-Sept), 19-25°C (summer, Nov-April)
+- **Current**: Often present — divers plan to swim with or against it and must be able to return to the anchor line
+- **Best Time**: Calm conditions are specifically required per at least one source; otherwise year-round
 
 ## Marine Life
 
-The wall structure supports varied marine life:
-- Kingfish, snapper, and giant trevally
-- Blue maomao and pink maomao schools
-- Short-tailed stingrays (warmer months)
-- Hard and soft corals
-- Sponges and anemones covering the wall
-- Moray eels and nudibranchs
-- Small reef fish and crustaceans in crevices
+No source we found lists species specific to Ann's Rock beyond general kelp-forest cover (strapweed and stalked kelp per Seafriends). The Poor Knights' well-documented regional fauna — blue and pink maomao, kingfish, snapper, moray eels — likely applies here as it does across the reserve, but we have no site-specific sighting report to confirm any of it occurs at this particular rock.
 
 ## Dive Profile
 
-Descend to the wall structure and follow the vertical profile downward. The wall extends from shallow water (5-10m) down to your maximum depth of 25 meters. Current direction, if present, will influence your dive direction—work with your guide on the best approach. Maintain good depth awareness as wall dives can encourage deeper-than-intended descents. Work the wall methodically, looking in crevices and overhangs for hidden marine life. The wall is colourful and supports varied marine growth.
+Boats anchor directly on the rock. From there, divers choose a direction based on current — with it or against it — and must budget air and effort to make it back to the anchor line rather than drifting past it. Given the conflicting depth information, plan a conservative maximum depth and confirm current conditions and expected depth with your dive guide before descending.
 
 ## Entry and Exit
 
-Boat entry via giant stride directly to the wall. Your guide will brief on current direction and depth management. Exit is via ascent and boat pickup at the surface.
+Boat entry via giant stride directly onto the anchored rock. Discuss current direction and the return route with your guide before entering the water. Exit is via ascent and return to the anchor line for boat pickup.
 
 ## Tips and Recommendations
 
-- **Current awareness**: The often-present current is a feature, not a problem—work with it
-- **Depth monitoring**: Wall dives can encourage inadvertent deep descents—watch your depth gauge
-- **Flexible dive planning**: Discuss current direction with your guide before entering the water
-- **Excellent for learning Poor Knights**: A solid intermediate wall dive for building experience
-- **Look in crevices**: The wall has numerous interesting hiding spots for fish and invertebrates
-- **Reliable site**: The anchoring capability and moderate depth make this consistent
+- **Confirm current plan with your guide**: this is explicitly an anchor-and-swim-back site, not a drift-and-pickup site
+- **Ask about actual depth for your dive**: sources disagree sharply on how deep this site goes
+- **Calm-weather site**: at least one source describes this as accessible only in very calm conditions
+- **Don't assume rich marine growth**: accounts of the site's character range from "varied wall life" to "monotonous kelp," so keep expectations modest
 
 ## Safety Considerations
 
-- Excellent intermediate-level wall dive
-- Current, while present, is generally manageable
-- Good buoyancy control essential to prevent unintentional deep descents
-- Depth management important—maintain awareness of your depth gauge
-- Suitable for intermediate divers and those building Poor Knights experience
+- Current awareness is essential — you must be able to swim back to the anchor line
+- Depth uncertainty means conservative dive planning is warranted until you get a briefing from a guide who knows current conditions
+- Cold-water thermal protection required (5mm+ wetsuit or drysuit depending on season)
 - Always dive with a buddy
 
 ## Photography
 
-Wall dives offer diverse photographic opportunities:
-- **Wide-angle**: The wall structure with fish in the blue water beyond
-- **Macro**: Close-ups of creatures in wall crevices and overhangs
-- **Current effects**: Fish positioning relative to current flow creates interesting compositions
-- **Vertical perspective**: Shooting up along the wall shows the vertical ecosystem
-- **Light and shadow**: The interplay of light and shadow along the wall creates compelling depth
+Given the uncertainty over what marine growth is actually present, no site-specific photography guidance is offered here beyond standard Poor Knights practice: wide-angle for rock/kelp structure, macro for anything found in crevices.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/), [battleface - Diving in New Zealand](https://www.battleface.com/blog/diving-in-new-zealand/). Last updated 2026-06-18.*
+*Re-audited 2026-08-24: the prior write-up described this as a "reliable" wall dive with rich marine growth, sourced to a generic set of Poor Knights destination pages that do not mention Ann's Rock by name. Direct research turned up conflicting accounts of depth and character (Dive Now vs. Seafriends), and no source at all for "Astrid's Wall." The description has been rewritten to present the conflict rather than assert a single confident picture, and the regional-species list has been replaced with an explicit note that no site-specific marine life report was found.*
+
+*Sources: [Dive Now - The Poor Knights: arches, caves and swim throughs](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [Seafriends - Northern quarter diving Poor Knights](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-08-24.*

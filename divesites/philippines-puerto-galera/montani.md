@@ -13,39 +13,38 @@ addedBy: osm_import
 
 # Montani
 
-A shallow muck drift dive through the Puerto Galera channel with extraordinary macro life -- nudibranchs, pipefish, gobies, dancing shrimp, and banded sea snakes over sand and coral rubble with a water pipe as artificial habitat.
+A shallow muck dive in the Puerto Galera channel with extraordinary macro life -- nudibranchs, pipefish, gobies, wonderpus, and occasionally blue-ringed octopus and flamboyant cuttlefish over sand and coral rubble.
 
 ## Overview
 
-Montani is a shallow drift dive in the Puerto Galera channel that epitomises muck diving at its finest. The bottom is predominantly sand with coral rubble and a submerged water pipe that acts as artificial habitat, attracting a remarkable concentration of macro life. Despite the unassuming terrain, patient divers will find an extraordinary diversity of critters -- nudibranchs, pipefish, gobies perched on sponges, cowfish, banded sea snakes, dancing shrimp, and flatworms. The shallow maximum depth of 14 meters means extended bottom times are possible; one visiting diver logged an 81-minute dive here. Montani is suitable for beginners and is an excellent introduction to muck diving.
+Montani is a shallow muck dive site in the Puerto Galera channel area, named for the nearby Montani Beach Resort. The bottom is predominantly sand with coral rubble, attracting a remarkable concentration of macro life. Patient divers will find an extraordinary diversity of critters -- nudibranchs, pipefish, gobies, cowfish, banded sea snakes, and shrimp -- with rarer finds including wonderpus, blue-ringed octopus, and flamboyant cuttlefish reported occasionally. The shallow maximum depth (around 14-18 meters, depending on source) allows for extended bottom times. Montani is suitable for beginners and is often cited as one of the destination's best muck and night dives. Note: PADI's site listing describes this as boat-access, while a boat-drop-then-walk-in pattern is also documented elsewhere; this page keeps the shore-entry tag from the original source but flags the discrepancy rather than silently resolving it.
 
 ## Site Information
 
-- **Location**: Puerto Galera channel, Mindoro Island, Philippines
+- **Location**: Puerto Galera channel area, Mindoro Island, Philippines
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 10-15 meters
-- **Current**: Gentle drift
+- **Typical Visibility**: 5-15 meters
+- **Current**: Gentle, generally sheltered from strong current
 - **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-The macro life density at Montani is exceptional. Nudibranchs of many species are found throughout the site. Pipefish hide among the rubble, and gobies sit on sponges waiting to be photographed. The submerged water pipe attracts its own community of residents. Cowfish trundle over the sand, banded sea snakes hunt through the rubble, and dancing shrimp can be found in sheltered spots. Flatworms glide across surfaces, easily mistaken for nudibranchs by the untrained eye. The gentle current drifts divers along, presenting a continuous procession of critter encounters.
+The macro life density at Montani is exceptional. Nudibranchs of many species are found throughout the site. Pipefish hide among the rubble, and gobies sit on sponges. Cowfish trundle over the sand, and banded sea snakes hunt through the rubble. Rare critters including wonderpus, blue-ringed octopus, and flamboyant cuttlefish have been reported here, alongside more regularly seen frogfish and shrimp. Flatworms glide across surfaces, easily mistaken for nudibranchs by the untrained eye.
 
 ## Dive Profile
 
-Enter from shore and drift gently with the current through the channel. The maximum depth is only 14 meters, allowing for very long bottom times -- dives of over an hour are common here. Move slowly over the sand and rubble, examining the water pipe and any debris for small creatures. The drift carries you along gradually, so there is no need to swim against current. The shallow depth and gentle conditions make this an ideal site for extended macro photography sessions.
+Enter and drift gently through the channel area over sand and rubble. The shallow maximum depth allows for long bottom times -- dives well over an hour are commonly reported here. Move slowly over the substrate, examining rubble and debris for small creatures. The shallow depth and calm conditions make this an ideal site for extended macro photography sessions.
 
 ## Tips and Recommendations
 
 - Bring a macro lens -- this is a dedicated critter site and wide-angle is largely wasted here
 - Move very slowly and scan the bottom carefully; the best finds are camouflaged
 - The shallow depth allows extremely long dives -- monitor air supply but enjoy the extended bottom time
-- Look for gobies on sponges and dancing shrimp in sheltered recesses
-- The water pipe is a critter magnet -- spend time examining it carefully
+- Ask your guide about recent wonderpus or flamboyant cuttlefish sightings -- these are occasional, not guaranteed, finds
 - Suitable for beginners, but the macro life rewards experienced eyes
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1064). Last updated 2026-04-08.*
+*Sources: [PADI Dive Site Directory](https://www.padi.com/dive-site/philippines/montani-bay/), [Casalay Boutique Villas & Dive Resort](https://casalay.ph/puerto-galera-dive-sites/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1064). Last updated 2026-08-24.*

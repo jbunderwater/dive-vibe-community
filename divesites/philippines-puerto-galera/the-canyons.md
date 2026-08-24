@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # The Canyons
 
-Puerto Galera's signature Advanced dive -- a series of three canyons with colourful walls, strong currents, huge schools of jacks, a large old Admiralty anchor, and occasional whale shark sightings.
+Puerto Galera's signature Advanced drift dive -- three current-swept canyons with a Spanish anchor embedded in rock at the base of the deepest one, huge schools of jacks, and reported thresher shark, hammerhead, and manta ray sightings.
 
 ## Overview
 
-The Canyons is widely considered Puerto Galera's premier dive site and carries an Advanced rating due to strong currents. The site comprises a series of three canyons with colourful walls, their tops ranging from 21-24 meters and floors at 26-29 meters. Strong currents sweep through the canyons, bringing nutrients that support impressive marine life -- most notably huge schools of jacks that gather in dense, swirling formations. A large old Admiralty anchor sits on the reef, a relic from a bygone era of sailing ships. Barrel sponges grow on the canyon walls and surrounding reef. Whale sharks have occasionally been sighted here, though such encounters are rare and unpredictable. Visibility typically ranges from 15-20 meters.
+The Canyons is widely considered Puerto Galera's premier dive site and carries an Advanced rating due to strong, current-driven conditions. The site comprises three canyons formed in the reef, generally cited at depths of roughly 24, 27, and 30 meters, with sheltering walls and sandy bottoms where divers can rest out of the current. At the base of the third and deepest canyon, an old Spanish anchor roughly 1.5 meters long is embedded in the rock -- divers often hold onto it before letting go for the blue-water ascent. An earlier version of this page described the anchor as an "Admiralty anchor"; that detail is not supported by any source and has been corrected. Strong currents sweep through the canyons, sustaining large aggregations of fish, most notably huge schools of jacks, trevallies, and drummers. Sources also report manta ray, thresher shark, and (less commonly) hammerhead shark sightings here; a "whale shark" sighting claim in the earlier version of this page could not be corroborated by any source checked and has been removed.
 
 ## Site Information
 
@@ -32,21 +32,21 @@ The Canyons is widely considered Puerto Galera's premier dive site and carries a
 
 ## Marine Life
 
-Huge schools of jacks are the headline attraction, gathering in dense formations in and around the canyons. The current that makes this a challenging dive also sustains the impressive marine life concentrations. Barrel sponges grow on the canyon walls and surrounding reef areas. Whale sharks have been sighted occasionally, though this is not a reliable encounter. The colourful canyon walls themselves are covered in corals and invertebrates, and the strong flow attracts pelagic visitors.
+Huge schools of jacks, trevallies, and drummers are the headline attraction, gathering in dense formations in and around the canyons, alongside sweetlips and large sea fans. Inside the canyons, look for octopus, scorpionfish, and sea snakes. Manta rays and thresher sharks have both been reported at this site, with occasional hammerhead shark sightings also noted by operators; none of these are guaranteed encounters. Barrel sponges grow on the canyon walls and surrounding reef.
 
 ## Dive Profile
 
-The three canyons have their tops at 21-24 meters and floors at 26-29 meters. Descend to the canyon system and work through the formations, using the canyon walls for shelter from the strongest current. The large Admiralty anchor is a distinctive landmark worth finding. Watch for schooling jacks in the water column, which often form dense walls of fish between the canyon walls. The strong currents require good buoyancy control and awareness of depth and position at all times. Gas management is critical given the depth and current -- plan conservatively and begin ascending with ample reserves.
+The three canyons run roughly from 24 to 30 meters. Descend near Hole in the Wall and drift with the current into the canyon system, using the canyon walls for shelter when the flow is strong. At the base of the deepest (third) canyon, look for the Spanish anchor embedded in the rock -- a common gathering point before the ascent. Watch the water column throughout for schooling jacks and trevallies, and scan the blue water off the canyon walls for passing pelagics. Strong currents require good buoyancy control and constant depth awareness; begin the ascent with ample gas reserves.
 
 ## Tips and Recommendations
 
 - This is an Advanced-rated site for good reason -- strong currents are the norm, not the exception
 - Stay close to your guide and group, as currents can separate divers quickly
-- The schooling jacks are best appreciated with a wide-angle lens
-- Look for the large old Admiralty anchor -- it is a distinctive historical feature
+- Look for the Spanish anchor at the base of the third canyon -- a distinctive historical feature and common ascent point
 - Carry an SMB and be prepared for drift conditions
-- Nitrox is recommended to extend limited bottom time at 24-29 meters
+- Nitrox is recommended to extend limited bottom time at 24-30 meters
+- Ask your guide about recent pelagic sightings (manta, thresher, hammerhead) rather than expecting a guaranteed encounter
 - If current is exceptionally strong, your guide may call the dive -- respect this decision
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1051). Last updated 2026-04-08.*
+*Sources: [BADLADZ Scuba Diving](https://www.badladz.com/puerto-galera-dive-sites/), [Action Divers](https://www.actiondivers.com/dive-sites.html), [Casalay Boutique Villas & Dive Resort](https://casalay.ph/puerto-galera-dive-sites/), [PuertoParrot](https://www.puertoparrot.com/dive-sites/puerto-galera/3307), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1051). Last updated 2026-08-24.*

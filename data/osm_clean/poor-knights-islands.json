@@ -16,8 +16,8 @@
       "scuba_diving:mindepth": "6",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divenow.co.nz, en.wikivoyage.org, globaldive.net, michaelmcfadyenscuba.info",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
@@ -36,8 +36,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divenow.co.nz, seafriends.org.nz, en.wikivoyage.org",
+      "qa_note": "Sources conflict on depth/character: Dive Now describes a boat-anchor drift site; Seafriends describes an exposed outer pinnacle reaching ~70m. 'Astrid's Wall' could not be independently confirmed as a recognized alternate name.",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
@@ -53,15 +54,15 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikipedia.org, divenow.co.nz, michaelmcfadyenscuba.info, showcaves.com, newzealand.com",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "seafriends.org.nz, divenow.co.nz, en.wikipedia.org, scubadiverlife.com",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
     "name": "Northern Arch",
     "lat": -35.45,
     "lon": 174.73,
-    "depth": 50,
+    "depth": 40,
     "minDepth": 15,
     "site_type": "cave",
     "entry_type": "boat",
@@ -70,15 +71,16 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, divenow.co.nz, battleface.com, newzealand.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "globaldive.net, divenow.co.nz, en.wikivoyage.org",
+      "qa_note": "Depth corrected: arch base is ~40m per globaldive.net (was listed as 50m); surrounding walls slope to 70m+ but that is not the arch itself.",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
     "name": "Middle Arch",
     "lat": -35.46,
     "lon": 174.732,
-    "depth": 15,
+    "depth": 23,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -86,15 +88,17 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, divenow.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "globaldive.net, divenow.co.nz, en.wikivoyage.org, seafriends.org.nz",
+      "qa_note": "Depth corrected: divenow.co.nz/globaldive.net describe deeper passages of 19-23m near Cleaner Fish Bay in addition to the shallow 15m arch (was listed as flat 15m).",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
     "name": "Blue Maomao Arch",
     "lat": -35.465,
     "lon": 174.728,
-    "depth": 18,
+    "depth": 20,
+    "minDepth": 6,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -102,8 +106,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, divenow.co.nz, goframetheworld.com, newzealand.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "globaldive.net, divenow.co.nz, en.wikivoyage.org",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
@@ -118,8 +122,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "scubadiving.com, en.wikivoyage.org, diving.co.nz",
+      "qa_note": "Real site is 'Cream Gardens' (plural), on the northeast side of Tawhiti Rahi - a kelp forest leading to a wall, not a coral reef. Name origin ('cream-coloured sponges') from the prior write-up is unconfirmed and was removed.",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
@@ -129,21 +134,22 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validated": "false",
+      "validation_source": "",
+      "qa_note": "UNRESOLVED: No independent, Poor Knights-specific source could be found confirming 'Barney's Rock' as a distinct named site (absent from the Wikivoyage master dive-site list and from all operator/forum sources checked). A site with this exact name found via search is at Kaikoura, NZ - an unrelated location - and was apparently the mismatched source behind the earlier 'validated' tag. May be a garbled reference to 'Bernie's Cave' (a small cave feature at Middle Arch) but this is not confirmed. Difficulty bumped Beginner -> Intermediate per cold-water minimum regardless of validation status.",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
     "name": "Tie Dye Arch",
     "lat": -35.458,
     "lon": 174.72,
-    "depth": 18,
-    "minDepth": 10,
+    "depth": 30,
+    "minDepth": 15,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -151,8 +157,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divepacific.co.nz, globaldive.net, en.wikivoyage.org, divessi.com",
+      "qa_note": "Depth corrected to 15-30m per divepacific.co.nz/globaldive.net (kelpy slope from 15m to sand at 30m); was listed as 10-18m.",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
@@ -168,8 +175,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "seafriends.org.nz, en.wikivoyage.org, divenow.co.nz, globaldive.net",
+      "qa_note": "Seafriends describes the tunnel interior as only a few metres deep in its inner sections, conflicting with the 15-23m range used by dive operators for the full site; both figures are presented in the markdown.",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
@@ -184,8 +192,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "seafriends.org.nz, myfavouriteescapes.com, aa.co.nz",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
@@ -203,7 +211,7 @@
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-24"
     }
   },
   {
@@ -215,31 +223,32 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, en.wikipedia.org",
+    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, en.wikipedia.org, navymuseum.co.nz",
     "tags": {
       "name": "HMNZS Tui",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-24"
     }
   },
   {
     "name": "HMNZS Waikato",
     "lat": -35.475,
     "lon": 174.74,
-    "depth": 28,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, navymuseum.co.nz, en.wikipedia.org",
+    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, navymuseum.co.nz, en.wikipedia.org, submerged.co.uk",
     "tags": {
       "name": "HMNZS Waikato",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "qa_note": "Corrected: prior text attributed the bow separation to the scuttling itself; Wikipedia and military-history sources confirm the bow separated later, in heavy weather in 2002. Scuttling date now shows a three-way source conflict (11 Nov 2000 per Navy Museum, 25 Nov 2000 per dive operators, 18 Dec 2000 per Wikipedia) - flagged in markdown rather than picking one.",
+      "last_qa_date": "2026-08-24"
     }
   },
   {
@@ -251,13 +260,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, nzgeo.com, newzealand.com",
+    "validation_source": "michaelmcfadyenscuba.info, globaldive.net, nzgeo.com",
     "tags": {
       "name": "Oculina Point",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-24"
     }
   },
   {
@@ -269,13 +278,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, seafriends.org.nz, rosscattell.net",
+    "validation_source": "en.wikivoyage.org, michaelmcfadyenscuba.info, patandpaulharvey.blogspot.com",
+    "qa_note": "Name-origin story corrected: independent source describes the rocks being named after a diver named Trevor who hit them with his boat, not after a 'champion diver Trev Zenovitch' as previously written (no source found for that claim).",
     "tags": {
       "name": "Trevors Rock",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-24"
     }
   }
 ]

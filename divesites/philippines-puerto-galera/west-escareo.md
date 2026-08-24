@@ -13,38 +13,37 @@ addedBy: osm_import
 
 # West Escareo
 
-A small bay west of Lighthouse Headland with a sandy bottom and small coral outcrops -- an unspectacular but pleasant dive with banded sea snakes, orangutan crabs, and nudibranchs.
+A small bay west of Lighthouse Headland with a sandy bottom and small coral outcrops -- a relatively low-key but reliable dive with banded sea snakes, triggerfish, orangutan crabs, and nudibranchs.
 
 ## Overview
 
-West Escareo occupies a small bay west of Puerto Galera's Lighthouse Headland. The bottom is predominantly sandy with small coral outcrops scattered across it. By Puerto Galera's high standards, this is not the most spectacular site in the area -- but it still delivers reliable critter sightings including banded sea snakes, orangutan crabs in bubble coral, anemonefish, and nudibranchs. Visibility is typically around 20 meters, and the maximum depth of 24 meters keeps the dive well within recreational limits. It serves well as a relaxed second or third dive of the day.
+West Escareo (also spelled Escarceo) occupies a small bay west of Puerto Galera's Lighthouse Headland/Escarceo Point. The bottom is predominantly sandy with small coral outcrops scattered across it, sloping gently. By Puerto Galera's high standards, this is not the most spectacular site in the area -- but it reliably delivers critter sightings including banded sea snakes, triggerfish, orangutan crabs in bubble coral, anemonefish, and nudibranchs. Difficulty ratings vary by source: most describe it as Beginner-Intermediate given the moderate depth and generally mild conditions, while Casalay rates it Advanced, citing a spectacular drift on a strong flood tide. This page keeps the Intermediate rating and notes that the site can become more current-dependent on certain tides.
 
 ## Site Information
 
-- **Location**: West of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
+- **Location**: West of Lighthouse Headland/Escarceo Point, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: ~20 meters
-- **Current**: Generally mild
+- **Current**: Generally mild, but can run strong on flood tide
 - **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Banded sea snakes are regularly seen hunting through the coral outcrops and across the sandy bottom. Orangutan crabs hide in bubble coral -- look for the small hairy crabs tucked into the coral's bulbous lobes. Anemonefish defend their host anemones on the scattered outcrops. Nudibranchs provide macro interest across the site. The sandy areas between outcrops may yield additional small finds for patient observers.
+Banded sea snakes are regularly seen hunting through the coral outcrops and across the sandy bottom. Triggerfish are a repeat sighting across multiple sources, along with whip corals decorating the sloping reef. Orangutan crabs hide in bubble coral, and anemonefish defend their host anemones on the scattered outcrops. Nudibranchs provide macro interest across the site.
 
 ## Dive Profile
 
-Descend to the sandy bottom and navigate between the small coral outcrops, checking each for anemonefish, nudibranchs, and orangutan crabs in bubble coral. Watch for banded sea snakes moving through the area. The site is relatively compact, so there is time to explore thoroughly at a relaxed pace. Maximum depth is approximately 24 meters. Work gradually shallower through the outcrops and finish with a safety stop.
+Descend to the sandy bottom and navigate between the small coral outcrops, checking each for anemonefish, nudibranchs, and orangutan crabs in bubble coral. Watch for banded sea snakes and triggerfish moving through the area. Conditions here can range from calm to a fast drift depending on tide, so check with your guide about current expectations before descending. Maximum depth is approximately 24-30 meters. Work gradually shallower through the outcrops and finish with a safety stop.
 
 ## Tips and Recommendations
 
 - Look for orangutan crabs in bubble coral -- they are small and well-camouflaged
-- Keep an eye out for banded sea snakes, which are common here
-- A good site for a relaxed second or third dive of the day
-- Macro photography is more rewarding than wide-angle at this site
-- Not Puerto Galera's most dramatic site, but reliable for critter encounters
+- Keep an eye out for banded sea snakes and triggerfish, both common here
+- Ask about tide and current conditions -- this site can shift from calm to a fast drift
+- Macro photography is generally rewarding, though a strong flood tide favours a more wide-angle, go-with-the-flow approach
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1063). Last updated 2026-04-08.*
+*Sources: [BADLADZ Scuba Diving](https://www.badladz.com/puerto-galera-dive-sites/), [Dive Mindoro](https://divemindoro.org/discover/best-dive-sites-in-puerto-galera-and-verde-island/), [Capt'n Gregg's 45-Site Chart](https://captngreggs.ph/dive-sites), [Casalay Boutique Villas & Dive Resort](https://casalay.ph/puerto-galera-dive-sites/), [Action Divers](https://www.actiondivers.com/dive-sites.html), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1063). Last updated 2026-08-24.*

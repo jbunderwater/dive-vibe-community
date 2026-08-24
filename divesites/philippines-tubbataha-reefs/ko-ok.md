@@ -3,9 +3,9 @@ name: Ko-ok
 lat: 8.8417
 lng: 119.8583
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 30
 entryType: liveaboard
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,50 +13,27 @@ addedBy: osm_import
 
 ## Ko-ok
 
-Ko-ok is a celebrated dive site on North Atoll in the Tubbataha Reefs Natural Park, located on the northern platform of the North Atoll reef system and known as one of Tubbataha's most reliably spectacular sites for large animal encounters.
+Ko-ok is a wall-drift dive near the northern part of Tubbataha's South Atoll, named after the brown-footed (brown) booby seabird that nests on nearby Bird Island.
 
 ## Overview
 
-The Tubbataha North Atoll is a large coral structure enclosing a lagoon, and Ko-ok sits on the northern section of this structure. The site features a coral reef that drops away from the shallow lagoon platform into the deep Sulu Sea, creating a classic wall diving environment enriched by the UNESCO-protected ecosystem's exceptional biodiversity. Ko-ok's reputation among Tubbataha liveaboard divers centres on consistently high numbers of reef sharks and pelagic species that congregate along the wall. The wall structure below 15 meters is covered in sea fans, soft corals, and sponges, providing a richly textured background for fish photography. Visibility in clear conditions routinely exceeds 30 meters, allowing appreciation of the full scale of the underwater landscape.
+Ko-ok's reef top starts around 3-7 meters before giving way to a steep wall that drops to depths sources describe only as "incongruent" or continuing well beyond the shallows - no source gives a firm maximum. Wall-drift diving is the typical approach here, drifting along the face rather than a fixed route. This entry has been reclassified from "reef" to "wall" based on two independent sources that both describe it primarily as a wall/drift site rather than a coral-garden reef.
 
 ## Site Information
 
-- **Location**: North Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
+- **Location**: South Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: liveaboard
-- **Site Type**: Reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-35 meters
-- **Current**: Variable; wall current can be strong
-- **Best Time**: March to June
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 
-Ko-ok delivers the iconic Tubbataha marine life experience. Whitetip reef sharks circle below in significant numbers — multiple individuals visible simultaneously is a normal dive here. Grey reef sharks make appearances on the deeper wall sections. Napoleon wrasse and large grouper are resident. Green and hawksbill sea turtles are consistently present. Schools of barracuda and jacks sweep along the wall face in synchronised formations. Manta rays visit the site, particularly during the March and April peak of the manta season. Whale sharks are occasional visitors.
+Schooling snappers and fusiliers, frogfish, pygmy seahorses, nudibranchs, cleaner shrimp, and porcelain crabs are reported among the coral, sea fans, sponges, and crinoids. Schools of jacks, reef sharks, and turtles are reported along the wall, and hammerhead shark schools are noted as a possibility toward the northern tip of the South Atoll where Ko-ok sits.
 
-## Dive Profile
+## Research Note
 
-Drift along the wall from north to south with the prevailing current, keeping the wall on one side at 15–25 meters. The most productive zone for large animals is typically the outer wall face rather than the coral-rich shallower sections. Spend time at depth before rising toward the top of the wall for the safety stop in the shallow reef sections.
-
-## Entry and Exit
-
-Liveaboard access with Tubbataha permits. Dinghy entry by giant stride; SMB return to dinghy. Follow park ranger briefing for Ko-ok specifically, as some sections of the wall are restricted during nesting season.
-
-## Tips and Recommendations
-
-- Ko-ok often appears on "best Tubbataha sites" lists from experienced divers; prioritise it on your itinerary
-- Early morning dives at Ko-ok see the highest shark activity before boat traffic and dive groups disturb the site
-- The wall's complexity rewards multiple dives at different depths and current states
-- Bring long-lasting strobes — the combination of depth and photographic opportunities here is demanding on power
-- Respect the 25-meter working depth recommendation; the wall drops well beyond this but the best life is in the top 25 meters
-
-## Safety Considerations
-
-Wall diving with potential for depth creep; stay alert to your depth during shark encounters when attention can shift to the animals. Current along the wall can be strong. SMB deployment is mandatory. Park ranger presence in Tubbataha is a genuine safety asset.
-
-## Photography
-
-Ko-ok is one of the world's great wide-angle photography locations. Multiple reef sharks in frame, manta rays against the wall backdrop, and Napoleon wrasse at cleaning stations are the standout subjects. The exceptional visibility allows compositions that would be impossible at more turbid sites.
+Only two independent domains (divessi.com and dive-the-world.com) could be confirmed for this site during the 2026-08-24 deep QA pass, short of the three-source bar applied elsewhere in this destination. The site_type correction above is sourced from both, but the validated tag was left unchanged rather than newly asserted against the stricter bar - flagged for further sourcing.
 
 ---
-*Sources: [Bluewater Dive Travel Tubbataha Reef](https://www.bluewaterdivetravel.com/destination/tubbataha-reef-diving), [Divehappy Tubbataha Reef Guide](https://divehappy.com/diving-tubbataha-reef-a-quick-guide/), [Dive The World Tubbataha Philippines](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php), [WWF Tubbataha Reef Diving](https://wwf.panda.org/discover/knowledge_hub/where_we_work/coraltriangle/coraltrianglefacts/places/tubbatahareefphilippines/diving/), [Guide to the Philippines Tubbataha Diving](https://guidetothephilippines.ph/articles/adventure-and-outdoors/tubbataha-reef-philippines-diving-guide). Last updated 2026-04-04.*
+*Sources: [DiveSSI](https://www.divessi.com/en/mydiveguide/divesite/ko-ok-philippines-296146), [Dive The World](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php). Last updated 2026-08-24.*

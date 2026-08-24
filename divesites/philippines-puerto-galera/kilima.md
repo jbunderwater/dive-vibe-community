@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Kilima
 
-A deeper reef south of Lighthouse Headland known for thresher shark sightings at depth, where the water temperature drops noticeably and larger marine life patrols.
+A stepped reef south of Lighthouse Headland, consistently identified across sources as Puerto Galera's best site for February thresher shark sightings, a pattern reported since 2020.
 
 ## Overview
 
-Kilima is a deeper reef site south of Puerto Galera's Lighthouse Headland, rated Advanced due to depth and the possibility of encountering large marine life. The site's claim to fame is thresher shark sightings -- these distinctive long-tailed sharks are occasionally seen at depth, particularly where the water temperature drops, indicating colder, nutrient-rich upwellings. The reef also supports humphead wrasse and banded sea snakes, along with the nudibranchs and flatworms that are found throughout Puerto Galera's dive sites.
+Kilima (also referenced as Kilima Steps) is a deeper reef site south of Puerto Galera's Lighthouse Headland, with terraced, step-like rock formations. It is rated Advanced due to depth and current. Multiple independent sources -- including a dedicated dive-report site and a local resort's own site guide -- identify Kilima as the destination's most reliable location for thresher shark sightings, with a well-documented pattern of sightings concentrated in February and reported consistently since 2020. The reef also supports humphead wrasse and banded sea snakes, along with the nudibranchs and flatworms found throughout Puerto Galera's dive sites.
 
 ## Site Information
 
@@ -32,19 +32,19 @@ Kilima is a deeper reef site south of Puerto Galera's Lighthouse Headland, rated
 
 ## Marine Life
 
-Thresher sharks are the headline species, sighted at depth where the water temperature drops -- look into the blue water and along the deeper reef edges. Humphead wrasse, one of the reef's largest residents, can be encountered along the reef structure. Banded sea snakes hunt through the coral. Nudibranchs and flatworms provide macro interest across the reef surfaces for divers willing to alternate between watching the blue and scanning the substrate.
+Thresher sharks are the headline species, with the best chance of sightings reported in February and a consistent pattern since 2020 -- look into the blue water and along the deeper reef edges. Pygmy seahorses hide in large fan corals along the stepped terrain. Humphead wrasse can be encountered along the reef structure, and octopus, cuttlefish, and moray eels are also reported. Banded sea snakes hunt through the coral, and nudibranchs and flatworms provide macro interest across the reef surfaces.
 
 ## Dive Profile
 
-Descend to the deeper reef sections where thresher sharks have been observed. The temperature drop at depth is noticeable and can indicate where sharks are more likely to appear. Spend time scanning the blue water off the reef edge before working gradually shallower. The shallower reef provides good nudibranch and flatworm hunting for the second half of the dive. Maximum depth is approximately 30 meters, so gas management and bottom time planning are essential.
+Descend to the deeper reef sections along the stepped terrain, where thresher sharks have been observed, particularly in February. The temperature drop at depth is noticeable and can indicate where sharks are more likely to appear. Spend time scanning the blue water off the reef edge before working gradually shallower. The shallower reef provides good nudibranch, flatworm, and pygmy seahorse hunting for the second half of the dive. Maximum depth is approximately 30 meters, so gas management and bottom time planning are essential.
 
 ## Tips and Recommendations
 
 - This is an Advanced-rated site -- ensure you are comfortable with depth and current management
-- Watch for temperature changes at depth, which can indicate where thresher sharks are more likely to appear
+- February offers the best odds of a thresher shark sighting, per multiple operator reports
 - Scan the blue water off the reef edge for passing pelagics
-- Bring both macro and wide-angle capabilities if possible -- the site rewards both styles
+- Check large fan corals along the stepped terrain for pygmy seahorses
 - Keep an eye out for banded sea snakes moving through the coral
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1055). Last updated 2026-04-08.*
+*Sources: [PADI Dive Site Directory](https://www.padi.com/dive-site/philippines/kilima-steps/), [PaparazSea](https://www.paparazsea.com/2019/03/dive-with-thresher-sharks-in-puerto.html), [Casalay Boutique Villas & Dive Resort](https://casalay.ph/puerto-galera-dive-sites/), [Capt'n Gregg's 45-Site Chart](https://captngreggs.ph/dive-sites), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1055). Last updated 2026-08-24.*

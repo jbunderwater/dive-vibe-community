@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Sinandigan Wall
 
-A steep slope dropping to a sheer wall extending roughly 50 meters at 26-28 meters depth, decorated with gorgonians, featherstars, and sponges, with thresher shark sightings reported.
+A wall dropping from around 5 to 30+ meters, decorated with gorgonians, featherstars, and sponges, with thresher shark sightings reported in March along the stretch between here and Kilima Steps.
 
 ## Overview
 
-Sinandigan Wall begins as a steep slope before transitioning to a sheer vertical wall that extends approximately 50 meters at depths of 26-28 meters. The wall face is well-decorated with gorgonian sea fans, featherstars, sponges, and other encrusting life. Like nearby Kilima, this site has produced thresher shark sightings, adding a pelagic dimension to what is primarily a wall and macro dive. Visibility is typically good at around 25 meters, making the wall structure and its inhabitants easy to appreciate. Yellow sea cucumbers are a distinctive feature found along the wall.
+Sinandigan Wall begins as a shallower slope before transitioning to a sheer vertical wall dropping toward 30 meters and beyond. The wall face is well-decorated with gorgonian sea fans, featherstars, sponges, and other encrusting life. Like nearby Kilima, this site has produced thresher shark sightings -- more specifically, sources report that the stretch of wall between Sinandigan and Kilima Steps, on the eastern side of Sabang Bay, starts seeing thresher sharks in March, with most sightings between 20 and 25 meters. Visibility is typically good, making the wall structure and its inhabitants easy to appreciate. Yellow sea cucumbers are a distinctive feature found along the wall. Difficulty ratings vary: Casalay rates the site Advanced, while other sources describe it as suitable for a wider range of skill levels; this page keeps the Intermediate rating used by most sources but flags the range.
 
 ## Site Information
 
@@ -32,19 +32,19 @@ Sinandigan Wall begins as a steep slope before transitioning to a sheer vertical
 
 ## Marine Life
 
-Gorgonian sea fans, featherstars, and sponges cover the wall face, creating a colourful vertical garden. Nudibranchs are found on the sponge- and coral-covered surfaces. Yellow sea cucumbers are a distinctive feature of this wall. Thresher sharks have been spotted here, so it is worth periodically scanning the blue water beyond the wall edge. The slope section above the wall supports additional reef life.
+Gorgonian sea fans, featherstars, and sponges cover the wall face. Nudibranchs are found on the sponge- and coral-covered surfaces, and the site is known for a good variety of invertebrates and crustaceans. Yellow sea cucumbers are a distinctive feature of this wall. Thresher sharks have been reported here in March, mostly between 20-25 meters, along the stretch of wall toward Kilima Steps -- worth periodically scanning the blue water for. The slope section above the wall supports additional reef life, including sea turtles.
 
 ## Dive Profile
 
-Descend along the slope to the wall's edge at 26-28 meters, where the sheer section extends approximately 50 meters. Explore the wall face, scanning gorgonians, sponges, and featherstars for nudibranchs and other small creatures. Keep an eye on the blue water for passing thresher sharks. The good visibility (~25 meters) makes it easy to appreciate the wall's scale. Work gradually shallower along the slope above the wall for the remainder of the dive. Monitor depth carefully as the wall drops beyond recreational limits.
+Descend along the slope to the wall's edge, where the sheer section drops toward 30 meters and beyond. Explore the wall face, scanning gorgonians, sponges, and featherstars for nudibranchs and other small creatures. In March, keep an eye on the blue water between 20-25 meters for passing thresher sharks. The good visibility makes it easy to appreciate the wall's scale. Work gradually shallower along the slope above the wall for the remainder of the dive.
 
 ## Tips and Recommendations
 
-- The wall extends roughly 50 meters -- plan your route to cover the most interesting sections
-- Watch the blue water off the wall edge for thresher sharks
+- In March, watch the blue water between 20-25 meters for thresher sharks
 - Look for the distinctive yellow sea cucumbers along the wall face
-- Good visibility (~25 meters) makes this site rewarding for wide-angle photography of the wall structure
+- Good visibility makes this site rewarding for wide-angle photography of the wall structure
 - The slope above the wall offers additional nudibranchs and reef life for shallower exploration
+- Monitor depth closely, as the wall extends beyond recreational limits in places
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1054). Last updated 2026-04-08.*
+*Sources: [PADI Dive Site Directory](https://www.padi.com/dive-site/philippines/sinandigan-wall-3/), [Casalay Boutique Villas & Dive Resort](https://casalay.ph/puerto-galera-dive-sites/), [Dive Mindoro](https://divemindoro.org/discover/best-dive-sites-in-puerto-galera-and-verde-island/), [Action Divers](https://www.actiondivers.com/dive-sites.html), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1054). Last updated 2026-08-24.*

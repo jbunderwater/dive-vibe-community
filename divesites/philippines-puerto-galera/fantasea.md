@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Fantasea
 
-A current-driven drift dive over sandy bottom with coral outcrops and cone-shaped formations, famous for rare white Rhinopias frondosa (weedy scorpionfish) sightings.
+A current-driven drift dive over sand and coral outcrops where pygmy seahorses hide in massive red gorgonians and green turtles are a frequent sighting.
 
 ## Overview
 
-Fantasea is a drift dive site where currents carry divers over a sandy bottom punctuated by coral outcrops and distinctive cone-shaped formations. The site has earned a reputation among critter hunters for sightings of the rare white Rhinopias frondosa (weedy scorpionfish) -- one of the most sought-after macro subjects in the Indo-Pacific. Beyond this headline species, Fantasea delivers a rich assortment of unusual creatures including orangutan crabs, mantis shrimp, and banded sea snakes. Scuttled small aluminium boats (tinnies) have been placed on the bottom as artificial reef structures, adding extra habitat and interest to the dive.
+Fantasea (also spelled Fantasea Reef) is a drift dive site where currents carry divers over a sandy bottom punctuated by hard and soft coral outcrops and swim-throughs. Pygmy seahorses (Hippocampus bargibanti) have been documented here hiding in the branches of massive red gorgonians at around 15 meters -- notably shallower than the roughly 30-meter depth at which the species is more typically found elsewhere, making this a good photography opportunity. Green sea turtles are a frequent sighting. One older, single-sourced account of the site describes recurring sightings of the rare white Rhinopias frondosa (weedy scorpionfish); this is not corroborated by PADI's site listing or other sources checked during this audit, so it is presented here as something reported in local operator dive logs rather than an established feature of the site. Scuttled small aluminium boats ("tinnies") placed on the bottom as artificial reef structures are similarly a single-sourced detail.
 
 ## Site Information
 
@@ -32,19 +32,19 @@ Fantasea is a drift dive site where currents carry divers over a sandy bottom pu
 
 ## Marine Life
 
-The star attraction is the rare white Rhinopias frondosa (weedy scorpionfish), which has been spotted at this site -- a remarkable find given the species' rarity. Turtles cruise the area, and banded sea snakes hunt among the coral outcrops. Orangutan crabs hide in bubble coral, and mantis shrimp occupy burrows in the sandy substrate. The scuttled tinnies serving as artificial reef have attracted their own resident populations. The current brings nutrients that support the varied life across the site.
+Pygmy seahorses are confirmed here, hiding in the branches of large red gorgonians at around 15 meters. Green sea turtles are frequently seen. Schools of butterflyfish and angelfish are reported on the reef sections, and barracuda and blue-spotted stingrays have also been sighted. Local dive logs report occasional sightings of the rare white Rhinopias frondosa, though this is not independently confirmed beyond that single source -- ask your guide about recent sightings rather than expecting it.
 
 ## Dive Profile
 
-This is a current-driven drift dive -- enter the water upstream and let the current carry you over the sandy bottom and coral outcrops. Scan the substrate carefully for scorpionfish, mantis shrimp, and other bottom-dwellers. The cone-shaped coral formations are worth pausing at when the current allows. Check the scuttled tinnies for resident marine life. Maximum depth is approximately 23 meters. Deploy an SMB for boat pickup at the end of the drift.
+This is a current-driven drift dive -- enter the water upstream and let the current carry you over the sandy bottom and coral outcrops. Check large red gorgonians around 15 meters for pygmy seahorses, and watch the water column for passing turtles. The coral-covered bommies and swim-throughs are worth pausing at when the current allows. Maximum depth is approximately 23-27 meters depending on route. Deploy an SMB for boat pickup at the end of the drift.
 
 ## Tips and Recommendations
 
-- Ask your guide about recent Rhinopias sightings -- they tend to stay in the same area for extended periods
-- Move slowly over sandy areas to spot mantis shrimp and other camouflaged creatures
-- Check bubble coral for orangutan crabs
+- Check large red gorgonians around 15 meters carefully for pygmy seahorses
+- Ask your guide about recent Rhinopias sightings, but don't count on finding one
+- Move slowly over sandy areas to spot camouflaged creatures
 - Carry an SMB as this is a drift dive and you will surface away from the entry point
-- A macro lens is ideal for this site's critter-rich environment
+- A macro lens works well for the gorgonian-dwelling seahorses; keep an eye out for turtles in open water too
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1059). Last updated 2026-04-08.*
+*Sources: [PADI Dive Site Directory](https://www.padi.com/dive-site/philippines/fantasea-reef/), [Wannadive](https://www.wannadive.net/spot/Asia/Philippines/Mindoro/Puerto_Galera/Fantasea_Reef/), [Zentacle](https://www.zentacle.com/Beach/12437/fantasea-reef), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1059). Last updated 2026-08-24.*

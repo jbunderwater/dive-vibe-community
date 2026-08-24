@@ -13,38 +13,37 @@ addedBy: osm_import
 
 # Hole in the Wall
 
-A colourful reef northeast of Lighthouse Headland with a small tunnel swim-through at 15 meters, huge schools of jacks, and abundant nudibranchs -- often dived as a drift.
+A short tunnel swim-through at Escarceo Point, around 12 meters deep, that serves as the usual entry point for a drift toward The Canyons, with jacks, trevallies, and sweetlips gathering on the far side.
 
 ## Overview
 
-Hole in the Wall lies northeast of Puerto Galera's Lighthouse Headland and takes its name from a small tunnel or swim-through in the reef at approximately 15 meters depth. The surrounding reef is colourful and healthy, but the real spectacle is in the water column -- huge schools of jacks gather at this site, creating impressive walls of silver fish. The reef itself is a productive nudibranch hunting ground, with numerous species found across the coral surfaces. Strong currents frequently affect the upper 15 meters, and the site is often dived as a drift.
+Hole in the Wall is one of Puerto Galera's signature dive sites, located at Escarceo Point and consisting of a roughly five-foot-wide swim-through tunnel cut through a small underwater hill, at approximately 12 meters depth (an earlier version of this page cited 15 meters; multiple current sources place it closer to 12 meters). Divers usually drop near this tunnel and use it as the opening move of a drift toward the three-canyon-shaped formations of The Canyons. On the far side of the tunnel, large fish -- jacks, trevallies, and sweetlips -- are often seen holding in the current. Good buoyancy matters passing through, since hydroids and scorpionfish can line the tunnel walls. Sources are split on difficulty: Casalay and Capt'n Gregg's rate it Open Water/Beginner-friendly, while BADLADZ rates it Intermediate; given the current-dependent conditions described in every source, this page keeps the more conservative Intermediate rating.
 
 ## Site Information
 
-- **Location**: Northeast of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
+- **Location**: Escarceo Point, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15-25 meters
-- **Current**: Often strong, particularly in the upper 15 meters
+- **Current**: Often strong, particularly around the tunnel
 - **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Huge schools of jacks are the signature attraction, swirling in dense formations around the reef. The colourful reef supports a rich diversity of corals and invertebrates, with nudibranchs particularly abundant -- expect to find multiple species across the site. The swim-through at 15 meters is worth exploring for the marine life that shelters within, though its small size means only one diver at a time can pass through.
+Jacks, trevallies, and sweetlips are the signature sighting, often holding in the current on the far side of the swim-through. Snappers, drummers, lionfish, scorpionfish, octopus, and frogfish are also reported, along with sea turtles. Hydroids and soft coral line parts of the tunnel walls, and nudibranchs are found on the surrounding reef.
 
 ## Dive Profile
 
-Descend to the reef and locate the swim-through at around 15 meters. The tunnel is small, so assess whether you are comfortable passing through before committing. Explore the surrounding reef, scanning for nudibranch species and watching the water column for schooling jacks. Strong currents are common in the upper 15 meters, so this dive is frequently done as a drift -- let the current carry you along the reef and deploy an SMB for pickup. Maximum depth reaches approximately 27 meters.
+Drop near the tunnel entrance at around 12 meters and pass through the swim-through, watching buoyancy carefully as hydroids and scorpionfish can line the walls. On the far side, look for jacks, trevallies, and sweetlips holding in the current. From here, most dives continue as a drift toward The Canyons, so be ready to move with the current rather than fight it. Maximum depth on the wider site reaches approximately 27 meters.
 
 ## Tips and Recommendations
 
-- Be prepared for strong currents, especially in the upper 15 meters -- this is often a drift dive
-- The swim-through is small; assess your comfort level before entering
-- Carry an SMB for boat pickup if drift diving
-- Look carefully across coral surfaces for nudibranchs -- they are abundant here
-- Wide-angle lenses capture the schooling jacks best
+- Be prepared for strong currents around the tunnel, especially heading into a Canyons drift
+- The swim-through is narrow -- watch your buoyancy to avoid contact with hydroids and scorpionfish on the walls
+- Carry an SMB for boat pickup if drift diving on to The Canyons
+- Wide-angle lenses capture the schooling jacks and trevallies best on the far side of the tunnel
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1050). Last updated 2026-04-08.*
+*Sources: [Capt'n Gregg's 45-Site Chart](https://captngreggs.ph/dive-sites), [BADLADZ Scuba Diving](https://www.badladz.com/puerto-galera-dive-sites/), [Casalay Boutique Villas & Dive Resort](https://casalay.ph/puerto-galera-dive-sites/), [Action Divers](https://www.actiondivers.com/dive-sites.html), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1050). Last updated 2026-08-24.*

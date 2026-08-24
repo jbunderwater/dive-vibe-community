@@ -5,7 +5,7 @@
     "lon": 119.8833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -13,9 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, divebooker.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "mabuhaytravel.uk,asiadivesite.com,justgottadive.com,dive-the-world.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Deep re-audit 2026-08-24: confirmed with 5 independent sources. Depth corrected 20m->30m (recreational working depth; multiple sources agree the wall itself continues to ~70m, beyond recreational limits). Also known as Southwest Rock. Dropped unconfirmed species-level barracuda claim (pickhandle) - no source specifies species. Advanced difficulty confirmed correct per remote-liveaboard policy and current/depth exposure."
     }
   },
   {
@@ -24,7 +24,7 @@
     "lon": 119.8667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 32,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -32,9 +32,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, searchable dive databases",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "wwf.panda.org,philippinedives.com,solitude.world,dive-the-world.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Deep re-audit 2026-08-24: confirmed with 5 independent sources. Depth corrected 32m->30m to match sourced range (18-30m plateau/shelf). Name origin in markdown was FACTUALLY WRONG (previously attributed to shark 'traffic' frequency) - corrected per WWF source: sharks rest side-by-side on the reef like parked planes, tails up, hence 'airport'. site_type left as reef (plateau/shelf structure, not a true wall); some sources call it a drift dive due to current."
     }
   },
   {
@@ -51,9 +51,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, divebooker.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Already Advanced; confirmed correct for Tubbataha liveaboard-only remote destination."
+      "validation_source": "dive-the-world.com",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Deep re-audit 2026-08-24: only ONE independent source (dive-the-world.com) could be directly confirmed for site-specific facts today - does NOT meet the >=3 distinct-domain bar for this QA pass. Left validated=true unchanged per policy (do not pad with weak sources, do not downgrade an existing validated tag on insufficient re-confirmation). Site type/wall structure and depth (50-60m per source, working depth kept at 40m) are consistent with prior data. Flagged in QA summary as needing further sourcing."
     }
   },
   {
@@ -62,17 +62,17 @@
     "lon": 119.85,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "searchable dive databases, divessi.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "justgottadive.com,philippinedives.com,dive-the-world.com",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Deep re-audit 2026-08-24: reclassified reef->wall. Three independent sources describe a slope-to-wall drop-off structure (one source specifically calls it a submerged pinnacle generating upwellings, consistent with wall/pinnacle diving per CLAUDE.md rule). Depth corrected 35m->40m; sources report wall base between 23-40m (one face) and beyond 40m (another face/description) - treated as reasonable range, noted in markdown."
     }
   },
   {
@@ -81,7 +81,7 @@
     "lon": 119.8917,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 35,
     "site_type": "wreck",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -89,9 +89,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divebooker.com, solitude.world",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy. Wreck history (WWII freighter claim) unverified — no confirmed ship name or build data from 2+ independent sources."
+      "validation_source": "divehappy.com,dive-the-world.com,solitude.world",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Deep re-audit 2026-08-24: confirmed with 3 independent sources. Depth corrected 20m->35m per dive-the-world.com. WRECK HISTORY UNRESOLVED - three conflicting origin narratives found: (1) dive-the-world.com: SS Malayan, a WWII-era Philippine freighter; (2) divehappy.com: a fishing vessel stranded on the reef during a 1970s typhoon; (3) divehappy.com/solitude.world: deliberately sunk to create an artificial reef. No vessel length, tonnage, or build date confirmed by any source; no Wikipedia article exists for 'SS Malayan'. Description written to present the conflict rather than assert one narrative, per anti-hallucination policy."
     }
   },
   {
@@ -100,7 +100,7 @@
     "lon": 119.8417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -108,9 +108,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "justgottadive.com, dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "justgottadive.com,coraltriangle.blogs.panda.org,birdwatch.ph",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Deep re-audit 2026-08-24: 3 distinct domains consulted, but only justgottadive.com provided dive-specific depth/marine-life detail; the other two cover the islet's geography/seabird ecology (erosion from 1.5ha in 2004 to 1.1ha in 2016), used only for physical/location context. Depth sources conflict (40m vs 60m+ reported in different write-ups) - noted as a range in markdown rather than a single figure. Flagged in QA summary: diving-specific corroboration thinner than other sites despite meeting the domain count."
     }
   },
   {
@@ -119,17 +119,17 @@
     "lon": 119.8583,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divessi.com, dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "divessi.com,dive-the-world.com",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Deep re-audit 2026-08-24: reclassified reef->wall per both available sources describing a steep wall/wall-drift dive (reef top at 3-7m plunging along a wall). Only 2 independent domains found - does NOT meet the >=3 distinct-domain bar for this QA pass. Left validated=true unchanged per policy; type correction applied because it is independently sourced, but flagged in QA summary as needing a third source. Depth adjusted 25m->30m to better match wall-diving character; no source gives a definitive max depth for this site."
     }
   },
   {
@@ -138,7 +138,7 @@
     "lon": 119.9,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -146,9 +146,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divessi.com, divescover.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Already Advanced; confirmed correct for Tubbataha liveaboard-only remote destination."
+      "validation_source": "thediveglobe.com,dive-the-world.com,aggressor.com",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Deep re-audit 2026-08-24: confirmed with 3 independent sources. Depth corrected 40m->30m: the wreck itself sits shallow on the reef flat (12-18m per thediveglobe.com) while the adjacent feature known as 'The Cut' is a ~30m-deep, ~20m-wide crevasse in the reef - one source reports depths 'over 100 feet in some areas'. WRECK HISTORY UNRESOLVED - conflicting accounts: thediveglobe.com describes an unnamed small freighter that ran aground with no cause/date given; aggressor.com describes an oil ship deliberately grounded on the reef by its captain after mechanical failure, roughly 30 years old as of a 2023 report (implying a 1990s incident); other secondary write-ups (not independently confirmed here) describe a 70m oil tanker sunk in 1988. No vessel name, length, or tonnage confirmed across 2+ sources; no Wikipedia article exists for this wreck. Description written to present the conflict rather than assert one narrative."
     }
   },
   {
@@ -168,9 +168,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "solitude.world, divebooker.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "asiadivesite.com,dive-the-world.com,justgottadive.com",
+      "last_qa_date": "2026-08-24",
+      "qa_note": "Deep re-audit 2026-08-24: confirmed with 3 independent sources. site_type kept as reef (isolated coral cay/atoll with an outer wall, not primarily a wall dive). Depth kept at 30m as recreational cap; sources report reef top at 7-12m sloping to a wall exceeding 50m. Removed unconfirmed species from markdown (whale sharks, abundant sea turtles) not attested for this specific site by any of the 3 sources - only regionally common elsewhere in Tubbataha."
     }
   }
 ]

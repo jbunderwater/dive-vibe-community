@@ -13,38 +13,38 @@ addedBy: osm_import
 
 # MV Alma Jane
 
-A roughly 30-meter coastal freighter scuttled upright at 29 meters in Sabang Bay, with twin engine and propeller cutouts, dozens of batfish at the bow, and a gentle reef slope for ascent.
+A 60-ton, 32-meter steel-hulled cargo vessel built in Japan in 1966, deliberately scuttled off Sabang Beach in March 2003 by the Puerto Galera Dive Association to create an artificial reef.
 
 ## Overview
 
-The MV Alma Jane is a coastal freighter of approximately 30 meters in length that was deliberately scuttled upright in Sabang Bay, where she now rests on the sandy bottom at 29 meters. The wreck has developed good sponge and gorgonian growth on her structure, and the twin engine compartment with its propeller cutouts provides interesting features to explore. The bow area has become a gathering point for dozens of batfish, which form an impressive congregation around the forward section. A gentle reef slope extends from the wreck toward shallower water, providing a natural and pleasant ascent route with additional marine life encounters.
+The MV Alma Jane is a 60-ton, 32-meter steel-hulled cargo vessel, built in Japan in 1966, that was deliberately sunk in March 2003 to create an artificial reef and dive site. The scuttling was organized by the Puerto Galera Dive Association (PGDA), partly as a response to reef damage from unregulated tourism in the area during the late 1990s. Before sinking, the vessel was stripped of hazardous materials. She now sits upright on the sandy bottom off Sabang Beach, with her upper deck at around 22 meters and the sand at roughly 29-30 meters. These facts -- vessel type, build year, length, tonnage, and sinking cause -- are consistently corroborated across multiple independent operator and dive-database sources; no Wikipedia article exists for this vessel. One source describes the hull as "mixed steel and wooden" rather than pure steel, a minor discrepancy against the otherwise-consistent steel-hull description used here. Over two decades submerged, the wreck has developed extensive coral growth, with coral reported to cover much of the hull.
 
 ## Site Information
 
-- **Location**: Sabang Bay, Puerto Galera, Mindoro Island, Philippines
+- **Location**: Off Sabang Beach, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
 - **Typical Visibility**: 15-20 meters
-- **Current**: Generally mild within the bay
+- **Current**: Generally mild within the bay, though the Verde Island Passage's currents feed the area
 - **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Dozens of batfish congregate around the bow of the wreck -- one of the site's most memorable sights. Sweetlips school near the stern. The sponge and gorgonian growth on the wreck structure provides habitat for a variety of species. Octopus and cuttlefish are found on and around the wreck. Nudibranchs graze on the encrusted surfaces. The gentle reef slope above the wreck offers additional encounters during ascent.
+Large schools of batfish gather around the wreck, along with sweetlips, rabbitfish, and yellowtail fusiliers and drummers. Lionfish, trumpetfish, and frogfish are also reported here. Octopus and nudibranchs are found on the encrusted hull surfaces. The dive typically finishes over a coral garden in the shallows near the wreck.
 
 ## Dive Profile
 
-Descend to the wreck at 29 meters and explore the exterior, starting at the bow where the batfish gather. Move aft to examine the twin engine compartment and propeller cutouts. Check the stern area for sweetlips. Sponge- and gorgonian-covered surfaces throughout the wreck reward careful scanning for nudibranchs, octopus, and cuttlefish. As bottom time at 29 meters is limited, plan the deeper exploration first, then ascend along the gentle reef slope that leads from the wreck to shallower water. The reef slope makes for an easy and interesting ascent with a safety stop.
+Descend to the wreck, which sits upright with its upper deck around 22 meters and the sandy bottom near 29-30 meters. The hull's wide beam and deep draft make for a straightforward swim-through for appropriately trained and equipped divers, with natural light entering through several openings. Explore the batfish schools gathered around the structure, then check encrusted surfaces for nudibranchs and frogfish. As bottom time at depth is limited, plan deeper exploration first, then ascend gradually toward the coral garden in the shallows for the remainder of the dive and safety stop.
 
 ## Tips and Recommendations
 
-- Spend time at the bow with the batfish -- they are remarkably tolerant of divers and make excellent photo subjects
-- A torch helps illuminate the engine compartment and reveal colours on encrusted surfaces
-- Use the reef slope for ascent rather than a free-water climb -- it is more interesting and easier to manage
-- Bottom time at 29 meters is limited on air; Nitrox extends the dive significantly
-- Penetration requires proper wreck diving training and equipment
+- Spend time with the batfish schools -- they are a reliable highlight and tolerant of divers
+- The hull openings let in natural light, but a torch still helps for interior details
+- Bottom time at 29-30 meters is limited on air; Nitrox extends the dive
+- Wreck penetration requires proper training and equipment -- it is not inherently safe, regardless of how open the structure appears
+- Finish the dive over the shallow coral garden near the wreck
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1056). Last updated 2026-04-08.*
+*Sources: [PADI Dive Site Directory](https://www.padi.com/dive-site/philippines/alma-jane/), [BADLADZ Scuba Diving](https://www.badladz.com/diving-the-alma-jane-wreck-dive-site-in-puerto-galera/), [Zentacle](https://www.zentacle.com/Beach/10181/m-v-alma-jane-wreck), [DivePlanit](https://www.diveplanit.com/dive-site/alma-jane/), [Casalay Boutique Villas & Dive Resort](https://casalay.ph/2024/09/top-wreck-diving-sites-in-puerto-galera/), [PuertoParrot](https://www.puertoparrot.com/dive-sites/puerto-galera/3269), [Asia Divers](https://asiadivers.com/blog/shipwrecks-in-puerto-galera-near-our-beach-resort/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1056). Last updated 2026-08-24.*
