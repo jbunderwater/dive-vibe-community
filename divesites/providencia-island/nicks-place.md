@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Nick's Place
 
-Nick's Place is a deep wall dive dropping to 40 metres (130 feet), grouped with nearby sites Spiral and Sponge Valley on the same section of the outer barrier reef, and known for Creole wrasse schools and parrotfish.
+Nick's Place is a deep wall dive dropping to around 40 metres (130 feet), described by local operators as a stone-formation-and-sponge-field wall on the outer barrier reef.
 
 ## Overview
 
-Nick's Place begins at approximately 18 metres (60 feet) before the wall drops to 40 metres (130 feet), with multiple ledges along the descent. The site is part of a cluster of related dive spots on this section of the barrier reef — Joe's Scuba Shack groups it alongside "Spiral" and "Sponge Valley" as adjoining formations. The site is within the UNESCO Seaflower Biosphere Reserve. The depth and exposure of this outer wall make it suitable for Advanced-certified divers with open-water experience at depth.
+Nick's Place begins at approximately 18 metres (60 feet) before the wall drops to around 40 metres (130 feet). Pelecanus Colombia gives a 15–30 metre range with "sponges and many reef fish"; Felipe Diving Shop separately describes it as a stone formation and sponge field reaching 40 metres (130 feet); The Dive Shop Old Providence confirms an 18–40+ metre platform-and-cliff-wall profile and rates it Intermediate/Advanced. The site is within the UNESCO Seaflower Biosphere Reserve. The depth and exposure of this outer wall make it suitable for Advanced-certified divers with open-water experience at depth.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Nick's Place begins at approximately 18 metres (60 feet) before the wall drops t
 
 ## Marine Life
 
-Large schools of Creole wrasse are the signature sighting along the wall drop, with black grouper and large parrotfish in the mix. Moray eels occupy the ledges in the shallower sections. Sponge growth is characteristic of this section of the outer barrier reef.
+The Dive Shop Old Providence reports crabs, shrimp, lobsters, nudibranchs, snappers, groupers, angelfish, and reef sharks along the wall; Felipe Diving Shop and Pelecanus Colombia both note dense sponge growth as characteristic of the site. Earlier notes attributing Creole wrasse schools specifically to this site could not be re-confirmed against a fetchable source and have been removed.
 
 ---
-*Sources: [Just Gotta Dive](https://www.justgottadive.com/dive_resources/travel_articles/diving-colombias-providencia-felipes-palace-stairway-heaven), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/). Last updated 2026-06-26.*
+*Sources: [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/), [Felipe Diving Shop](https://felipedivingshop.com/diving-places/), [The Dive Shop Old Providence](https://www.thediveshopoldprovidence.com/en/sitios-de-buceo/). Last updated 2026-08-25.*

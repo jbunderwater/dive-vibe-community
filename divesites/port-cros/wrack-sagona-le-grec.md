@@ -17,11 +17,11 @@ An alternate buoy access point to the Sagona (Le Grec) wreck — a Scottish-buil
 
 ## Overview
 
-This entry marks an alternate access buoy to the *Sagona*, the cargo ship known among divers as "Le Grec." Built in 1912 by the Dundee Shipbuilding Company in Scotland (53–54 metres long, 8.5 metres wide), the vessel passed through several British owners and served coastal routes before being sold in 1943–1944 to the Zarati Steamship Company and registered in Panama for Mediterranean wine transport.
+This entry marks an alternate access buoy to the *Sagona*, the cargo ship known among divers as "Le Grec." Built in 1912 by the Dundee Shipbuilding Company in Scotland (53.30 metres long, 8.60 metres beam, 808 gross tons), the vessel was a bulk cargo steamer registered first in Newfoundland — passing through the Newfoundland Produce Company, the Reid Newfoundland Company (from 1914), the Newfoundland government (from 1923), and the Colliford Clarke Company of London (from 1941) — before being sold to the Greek-operated Zarati Steamship Company and registered in Panama for Mediterranean wine transport.
 
-On 3 December 1945, the *Sagona* struck a floating mine south of Porquerolles while carrying wine, killing two sailors and leaving one missing. The bow was torn off by the explosion. The wreck lies in two sections approximately 50–60 metres apart on a sandy bottom between 36 and 47 metres. The name "Le Grec" (The Greek) was given by French Navy divers who found Greek-language documents aboard during a post-war survey — the crew and papers were Greek at the time of sinking.
+On 3 December 1945, the *Sagona* struck a floating mine south of Porquerolles while carrying wine, killing two sailors and leaving one missing. The bow was torn off by the explosion. The wreck lies in two sections approximately 50–60 metres apart on a sandy bottom between 35 and 47 metres. The name "Le Grec" (The Greek) was given by French Navy divers who found Greek-language documents aboard during a post-war survey — the crew and papers were Greek at the time of sinking.
 
-Note on the sinking date: all three dive-specific sources consulted (en.bormesplongee.fr, provencemed.com, tribloo.com) give 3 December 1945. The English Wikipedia SS Sagona article gives 21 November 1945 and a Nice-to-Toulon route — details that do not match the dive record — and may relate to a different vessel or contain a transcription error.
+These facts are corroborated by both dive-operator sources (en.bormesplongee.fr, provencemed.com, tribloo.com — all giving 3 December 1945) and a dedicated Wikipedia wreck article, fr.wikipedia.org/wiki/Sagona_(épave), which resolves an earlier flagged conflict that had compared these facts against the wrong, generic English-language ship article.
 
 See also the dedicated [Le Grec Wreck](../le-grec-wreck/) entry for the full site description.
 
@@ -54,4 +54,4 @@ Boat access from La Londe, Le Lavandou, or Hyères operators. A descent line is 
 Advanced depth and current. Advanced open water certification minimum; deep specialty experience preferred. Monitor gas carefully — the multi-section wreck invites overextended dives. Current should be assessed before each descent. Two SMBs recommended.
 
 ---
-*Sources: [en.bormesplongee.fr — Le Grec (Sagona)](https://en.bormesplongee.fr/grec), [Provence Méditerranée — Le Grec (Sagona)](https://www.provencemed.com/en/activities/le-grec-or-sagona/), [Tribloo — The Sagona](https://www.tribloo.com/en/dive-sites/44/the-sagona-shipwreck-aka-le-grec.html), [Aqualonde Plongée — Le Grec](https://aqualonde-plongee.com/en/le-grec-sagona-2/). Last updated 2026-06-26.*
+*Sources: [en.bormesplongee.fr — Le Grec (Sagona)](https://en.bormesplongee.fr/grec), [Provence Méditerranée — Le Grec (Sagona)](https://www.provencemed.com/en/activities/le-grec-or-sagona/), [Tribloo — The Sagona](https://www.tribloo.com/en/dive-sites/44/the-sagona-shipwreck-aka-le-grec.html), [Aqualonde Plongée — Le Grec](https://aqualonde-plongee.com/en/le-grec-sagona-2/), [Wikipédia (fr) — Sagona (épave)](https://fr.wikipedia.org/wiki/Sagona_(%C3%A9pave)). Last updated 2026-08-25.*

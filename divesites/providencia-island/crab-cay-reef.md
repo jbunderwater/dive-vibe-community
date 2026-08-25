@@ -17,7 +17,7 @@ Crab Cay Reef surrounds a 500-square-metre cay in the Old Providence McBean Lago
 
 ## Overview
 
-Crab Cay (Cayo Cangrejo) is a 500-square-metre cay surrounded by sandbanks, sitting within the Old Providence McBean Lagoon National Natural Park and the wider UNESCO Seaflower Biosphere Reserve. The reef tops at around 12 metres and is noted for crystal-clear water and strong fish density resulting from the park's protection. The site is accessible as a snorkel or introductory dive and is commonly visited on boat tours around the island. Turtles, triggerfish, needlefish, juvenile fish, and small sharks are reported near the pier and reef.
+Crab Cay (Cayo Cangrejo) is a roughly 500-square-metre cay surrounded by sandbanks, about 1km off Providencia and reachable only by boat or kayak. Wikipedia confirms it as one of four small cays making up the Old Providence McBean Lagoon National Natural Park, within the wider UNESCO Seaflower Biosphere Reserve. The site is noted for crystal-clear water and a healthy reef with strong fish density. Neither source consulted gives a precise depth figure — both describe the water only as shallow ("not really deep"), so the depth below is an estimate rather than a confirmed measurement. The site is accessible as a snorkel or introductory dive and is commonly visited on boat/kayak tours around the island; there is a park entry fee (around $5 USD as of research).
 
 ## Site Information
 
@@ -29,7 +29,7 @@ Crab Cay (Cayo Cangrejo) is a 500-square-metre cay surrounded by sandbanks, sitt
 
 ## Marine Life
 
-Sea turtles, triggerfish, needlefish, red snapper, and juvenile fish are commonly reported at Crab Cay. A small shark has been sighted near the wooden pier. The dense fish populations reflect the site's protection within the national park.
+Roads and Rivers and Trans-Americas both report sea turtles and stingrays as regular sightings, with a "healthy reef" supporting "dozens of varieties" of fish. Earlier notes citing triggerfish, needlefish, red snapper, and a shark near the pier came only from sources that could not be re-confirmed on this pass (myscubadivinggearguide.com does not name Crab Cay, and TripAdvisor's review pages returned access-blocked on re-fetch) and have been removed rather than retained on unverifiable citations.
 
 ---
-*Sources: [Roads and Rivers](https://roads-and-rivers.com/en/kajak-crab-cay-providencia/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g297480-d2526513-Reviews-Crab_Cay_Cayo_Cangrejo-Providencia_Island_San_Andres_and_Providencia_Department.html), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/). Last updated 2026-06-26.*
+*Sources: [Roads and Rivers](https://roads-and-rivers.com/en/kajak-crab-cay-providencia/), [Trans-Americas Journey](https://trans-americas.com/island-travel-guide-providencia-colombia/), [Wikipedia — Old Providence McBean Lagoon National Natural Park](https://en.wikipedia.org/wiki/Old_Providence_McBean_Lagoon_National_Natural_Park). Last updated 2026-08-25.*

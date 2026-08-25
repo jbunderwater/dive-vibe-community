@@ -17,7 +17,7 @@ Plage de la Fausse Monnaie is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-Plage de la Fausse Monnaie ("Fake Money Cove") sits on Port-Cros's west coast, a 30-minute walk south of the village, and is significantly less crowded than the famous La Palud beach while offering comparable marine richness. A rocky drop-off on the right side of the bay descends over posidonia beds at 4–8 metres where salema, sargo, and wrasse congregate, and the brown meagre — almost impossible to encounter outside this national park — is regularly spotted here along with sea anemones and colourful triplefins in the shallows.
+Plage de la Fausse Monnaie ("Fake Money Cove"), also referred to by some sources as Anse de la Fausse Monnaie, sits on Port-Cros's west coast, reached via the "Plage du Sud" signage roughly a 30-minute walk south of the village, and is significantly less crowded than the famous La Palud beach while offering comparable marine richness. Rocky drop-offs favoured by sargo (white seabream) and wrasse border posidonia seagrass beds at 2–8 metres where seabream congregate, and the brown meagre — almost impossible to encounter outside this national park — is reported here specifically, confirmed independently by two sources (a dedicated snorkeling-report.com page for this cove and frequence-sud.fr).
 
 ## Site Information
 
@@ -28,4 +28,4 @@ Plage de la Fausse Monnaie ("Fake Money Cove") sits on Port-Cros's west coast, a
 - **Maximum Depth**: 8 meters
 
 ---
-*Sources: [CaPel — Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros — Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-06-26.*
+*Sources: [CaPel — Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros — Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Snorkeling Report — Anse de la Fausse Monnaie](https://www.snorkeling-report.com/spot/snorkeling-anse-fausse-monnaie-port-cros/), [Frequence-Sud — Anse de la Fausse Monnaie](https://www.frequence-sud.fr/loc-5008-port-cros_anse_de_la_fausse_monnaie_hyeres). Last updated 2026-08-25.*

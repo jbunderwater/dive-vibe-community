@@ -28,9 +28,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "aqualonde-plongee.com,miopalmoplongee.com,lavandou-plongee.com",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Depth corrected to 35m (Aqualonde confirms 35m max; previous value 34m was rounding). Monkfish at eastern face and giant doris confirmed by miopalmoplongee.com."
+      "validation_source": "aqualonde-plongee.com,miopalmoplongee.com,lavandou-plongee.com,destination.portcros-parcnational.fr,sea-seek.com",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25. Official park page (destination.portcros-parcnational.fr) gives max depth 36m along a rocky point 6-7m tall; retaining 35m as primary depth since it is the majority figure across operator sources, noting the 1m discrepancy. Monkfish (baudroie) sighting refined to a specific depth: regularly present at 28m on the east face, partly hidden under a rock overhang (destination.portcros-parcnational.fr, matches prior miopalmoplongee.com sighting). East face confirmed as sand bottom with gorgonian-covered drop-off; west face confirmed as posidonia with giant fan mussels (nacres géantes)."
     }
   },
   {
@@ -316,9 +316,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "lavandou-plongee.com,miopalmoplongee.com,tribloo.com",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "Difficulty kept as Intermediate per OSM tag; depth range 10-40m confirmed. The 'anglerfish at 28m' claim was removed from markdown — that specific sighting is documented for La Pointe de la Galère (confirmed by miopalmoplongee.com), not for Gabinière Est specifically."
+      "validation_source": "lavandou-plongee.com,miopalmoplongee.com,tribloo.com,vacances-plongee.fr",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25. Difficulty kept as Intermediate per OSM tag; depth range 10-40m re-confirmed against the same operator sources plus vacances-plongee.fr. The 'anglerfish at 28m' claim remains correctly excluded from this entry (that sighting is documented for La Pointe de la Galère, not Gabinière Est). Barracuda school figure (~200, since summer 2001) and grouper presence (15-25m) re-confirmed as part of the general La Gabinière east-face description."
     }
   },
   {
@@ -339,8 +339,8 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "false",
-      "last_qa_date": "2026-06-26",
-      "qa_note": "OSM-tagged as natural reef/islet. No dive-operator specific sources found during QA passes 2026-05-25 and 2026-06-26 confirming depth, site type, or marine life. Description is regional generic."
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-checked live 2026-08-25 -- conclusion unchanged. OSM-tagged as natural reef/islet. No dive-operator specific sources found confirming depth, site type, or marine life; site does not appear in Var/Port-Cros dive-site listings searched today (funbooker.com, provence7.com, plongerdubord.com, aqualonde-plongee.com). Note the coordinates (6.51 deg E) place this well east of the rest of the Port-Cros site cluster (6.35-6.42 deg E), nearer the Giens peninsula/Hyeres area -- possibly explaining the lack of Port-Cros-specific operator coverage. Description remains regional generic. Do not mark validated until an operator-specific source is found."
     }
   }
 ]

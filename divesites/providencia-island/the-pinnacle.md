@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Pinnacle
 
-The Pinnacle is an advanced dive on dramatic submerged pinnacle formations with colorful corals and large pelagic species within the UNESCO Seaflower Biosphere Reserve.
+The Pinnacle is described by one travel-industry source as an advanced dive on submerged pinnacle formations with pelagic encounters, but this destination QA pass could not independently corroborate the site against local operator listings.
 
 ## Overview
 
-The Pinnacle (also referred to as "The Peak" by SeaCrush and Pelecanus) is characterised by dramatic underwater pinnacles reaching to approximately 35 metres maximum depth. Multiple regional sources confirm it as one of Providencia's more advanced dives, offering encounters with large pelagic species. Site-specific descriptions beyond this are limited in published sources; the pinnacle structure and pelagic character are consistent across two independent sources consulted.
+**Validation status: unresolved.** A 2026-08-25 re-audit found that two of the three sources previously cited for this site — Pelecanus Colombia and Joe's Scuba Shack — do not actually name a "Pinnacle" or "Peak" site on a fresh re-check of their current pages; that citation could not be reproduced. Two comprehensive local dive-shop site directories (Felipe Diving Shop and The Dive Shop Old Providence), each naming 20–25+ Providencia sites individually, also do not list any pinnacle or peak-type site. Only SeaCrush — a third-party dive-travel aggregator rather than a local operator — independently describes a pinnacle site it calls "The Peak," with dramatic underwater pinnacles reaching approximately 35 metres and large pelagic encounters. That is one genuine source, short of the three independent sources this destination's QA standard requires, so the site has been marked unvalidated rather than padded with the disproven citations. It remains possible this is a real site under a name/spelling not covered by the sources checked, or a site listed by shops not yet found; it has not been removed from the dataset pending better sourcing.
 
 ## Site Information
 
@@ -29,7 +29,7 @@ The Pinnacle (also referred to as "The Peak" by SeaCrush and Pelecanus) is chara
 
 ## Marine Life
 
-Manta rays and large pelagic species are cited by SeaCrush and Pelecanus as the site's signature encounters. The regional fauna of the Seaflower Biosphere Reserve — Caribbean reef sharks, eagle rays, sea turtles, and large grouper — applies to this site. No additional site-specific marine life reports were found in independent sources beyond these pelagic encounters.
+SeaCrush cites manta rays and large pelagic species as this site's signature encounters — the only source found to make this claim, so it is not independently confirmed. No site-specific marine life beyond this single-source claim has been documented.
 
 ---
-*Sources: [SeaCrush](https://www.seacrush.com/en/diving/colombia), [Pelecanus Colombia](https://pelecanus.com.co/en/diving-colombia/), [Joe's Scuba Shack](https://myscubadivinggearguide.com/scuba-diving-providencia-colombia/). Last updated 2026-06-26.*
+*Sources: [SeaCrush](https://www.seacrush.com/en/diving/colombia) only — insufficient independent corroboration found. Last updated 2026-08-25.*

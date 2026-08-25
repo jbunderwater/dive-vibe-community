@@ -46,7 +46,9 @@ Brown groupers are present along the northern wall. Moray and conger eels inhabi
 
 ## Additional Resources
 
-- **Last Updated**: 2026-06-26
+- **Last Updated**: 2026-08-25
+
+**A note on sourcing**: A live re-check on 2026-08-25 found that Port-Cros dive operators consistently describe La Gabinière as three dives — the eastern drop-off, the western slope (where the densest grouper population is found), and the southwest pinnacles (cyana-plongee.com, vacances-plongee.fr) — but none names or describes a distinct "North" face as a separately marketed dive. This entry is best read as the northern aspect of the same islet, inferred from general La Gabinière sourcing rather than confirmed by an operator page specific to a "Gabinière Nord" dive.
 
 ---
-*Sources: [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-06-26.*
+*Sources: [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [World Adventure Divers — Port-Cros](https://worldadventuredivers.com/port-cros-national-park/). Last updated 2026-08-25.*

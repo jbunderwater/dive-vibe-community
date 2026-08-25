@@ -61,7 +61,7 @@ Strong currents at the southern pinnacles require Advanced certification and cur
 
 ## Additional Resources
 
-- **Last Updated**: 2026-06-26
+- **Last Updated**: 2026-08-25
 
 ---
-*Sources: [Hyères Tourism — La Gabinière diving spot](https://www.hyeres-tourism.co.uk/fauna-flora-parks-garden/la-gabiniere-diving-spot/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html). Last updated 2026-06-26.*
+*Sources: [Hyères Tourism — La Gabinière diving spot](https://www.hyeres-tourism.co.uk/fauna-flora-parks-garden/la-gabiniere-diving-spot/), [Mio Palmo Plongée — La Gabinière](https://www.miopalmoplongee.com/nos-sites/la-gabiniere.php), [Lavandou Plongée — Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [Tribloo — La Gabinière](https://www.tribloo.com/en/dive-sites/25/la-gabiniere.html), [Vacances Plongée — Les mérous de La Gabinière](https://www.vacances-plongee.fr/les-merous-de-la-gabiniere-parc-national-de-port-cros/), [Aquabormes — La Gabinière](https://aquabormes.fr/page-plongee-gabiniere.html), [Saint P'Hyères Plongée — La Gabinière](https://www.hyeres-plongee.com/les-plong%C3%A9es-d-exploration/le-parc-national-de-port-cros/la-gabini%C3%A8re/). Last updated 2026-08-25.*
