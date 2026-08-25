@@ -13,13 +13,13 @@ addedBy: osm_import
 
 # Trevors Rock
 
-A rocky pinnacle at the Poor Knights Islands named after champion diver Trev Zenovitch, featuring walls, gullies, and kelp passages from 10 to 30 meters. An excellent site for observing wrasses, triplefins, eagle rays, and stingrays.
+A rocky pinnacle at the Poor Knights Islands named after Trev Zenovitch, a champion diver -- a naming origin independently confirmed by seafriends.org.nz. The rock features walls, gullies, and kelp passages from roughly 10 to 30 meters, and is particularly noted for wrasses and triplefins.
 
 ## Overview
 
-Trevors Rock (also written Trevor's Rock or Trev's Rock) is a pinnacle formation at the Poor Knights Islands, named after Trev Zenovitch, a champion diver who was among the pioneers exploring these waters. The rock features a pitted surface that creates numerous refuges for a high variety of species, with walls beginning at around 20 meters depth and reaching the sand at 30 meters.
+Trevors Rock (also written Trevor's Rock or Trev's Rock) is a pinnacle formation at the Poor Knights Islands. seafriends.org.nz confirms both the naming (after champion diver Trev Zenovitch) and the depth profile: boats anchor on the shallow side in about 10 metres of water, with a wall beginning around 20 metres and reaching the sand at 30 metres -- matching this record's depth almost exactly. The rock's surface is described as "rather pitted, providing refuge to a high variety of species."
 
-Boats anchor on the shallow side in approximately 10 meters of water, giving access to both the shallow kelp-lit upper sections and the deeper wall. The pinnacle's varied topography -- walls, gullies, and passages through kelp -- provides diverse habitats in a compact area. The site is also noted as an excellent location for night diving, including deep night dives.
+The pinnacle's varied topography -- walls, gullies, and passages through kelp -- provides diverse habitats in a compact area. seafriends.org.nz also flags it as a boating hazard requiring care, particularly at low spring tide, and notes it as a good spot for a night dive, including a deep night dive.
 
 ## Site Information
 
@@ -35,11 +35,11 @@ Boats anchor on the shallow side in approximately 10 meters of water, giving acc
 
 ## Marine Life
 
-Trevors Rock is noted as an excellent location for observing wrasses (labrids) and triplefins, along with the typical kelp forest inhabitants visible in the cathedral-lit shallow water areas. Eagle rays and long-tailed stingrays cruise the deeper water around the pinnacle. Moray eels shelter in the pitted rock surfaces, and scorpionfish hide among the kelp. Soft corals colonise shaded sections of the wall. Nudibranchs are found on the rocky surfaces throughout.
+seafriends.org.nz specifically documents wrasses and triplefins as the notable species here, attributing this to the pitted rock surface providing abundant refuge habitat. Claims of eagle rays, long-tailed stingrays, moray eels, scorpionfish, soft corals, and nudibranchs at this specific site, present in an earlier version of this page, were not found in the sources reviewed and have been removed; they are plausible regional Poor Knights fauna but are not documented specifically for Trevors Rock.
 
 ## Dive Profile
 
-Descend the anchor line to approximately 10 meters on the shallow side of the pinnacle. From here, explore downward along the walls and gullies to the sand at 30 meters, where eagle rays and stingrays are most likely to be encountered. The pitted rock surfaces reward close inspection for small critters. Work your way back up through the kelp passages in the shallows, where light filtering through the kelp canopy creates atmospheric conditions. The shallow top of the pinnacle provides an excellent safety stop area.
+Descend the anchor line to approximately 10 meters on the shallow side of the pinnacle. From here, explore downward along the walls and gullies to the sand at 30 meters. The pitted rock surfaces reward close inspection for wrasses and triplefins sheltering in the refuges. Work your way back up through the kelp passages in the shallows, where light filtering through the kelp canopy creates atmospheric conditions. The shallow top of the pinnacle provides an excellent safety stop area.
 
 ## Entry and Exit
 
@@ -47,14 +47,14 @@ Access is by dive boat from Tutukaka marina (approximately 45 minutes). The boat
 
 ## Tips and Recommendations
 
-- The pitted rock surfaces harbour a high density of small species -- take time to look closely rather than swimming past
-- Eagle rays and stingrays are best observed by hovering quietly near the deeper sections of the wall
-- An excellent night dive site for those seeking a different perspective on the pinnacle's inhabitants
+- The pitted rock surfaces harbour a high density of small species, especially wrasses and triplefins -- take time to look closely rather than swimming past
+- seafriends.org.nz notes this as a good night dive site, including for a deep night dive
 - The kelp passages in the shallows create beautiful natural lighting for photography
+- The rock is a charted boating hazard -- exercise particular care at low spring tide when approaching by boat
 
 ## Safety Considerations
 
 Currents around the pinnacle can be variable -- follow the dive guide's briefing. The wall drops to 30 meters, so monitor depth carefully. The kelp passages in the shallows can create mild entanglement risk -- maintain good buoyancy and avoid swimming into dense kelp. Adequate thermal protection is essential in New Zealand's temperate waters.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Seafriends - Poor Knights Diving](https://www.seafriends.org.nz/issues/res/pk/msquart.htm), [Ross Cattell - Diving the Poor Knights Islands](https://rosscattell.net/diving/poor-knights/poor-knights.htm), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [Dive! Tutukaka](https://diving.co.nz/). Last updated 2026-06-18.*
+*Sources: [seafriends.org.nz - Mid-South Quarter Diving Poor Knights](https://www.seafriends.org.nz/issues/res/pk/msquart.htm), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-08-25.*

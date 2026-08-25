@@ -25,9 +25,9 @@ seafriends.org.nz describes Northern Arch as "one of the most dangerous" Poor Kn
 
 - **Location**: Northern end of Puketuaho Island, Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern (narrow archway)
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (corrected from a prior 50m; sources agree on 36-40m at the base)
+- **Maximum Depth**: 40 meters
 - **Minimum Depth**: 15 meters (arch entrance)
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)

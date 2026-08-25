@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Kilima
 
-A deeper reef south of Lighthouse Headland known for thresher shark sightings at depth, where the water temperature drops noticeably and larger marine life patrols.
+A deeper reef site (also known as Kilima Steps) south of Lighthouse Headland, corroborated by two independent sources as one of Puerto Galera's most reliable spots for thresher shark sightings.
 
 ## Overview
 
-Kilima is a deeper reef site south of Puerto Galera's Lighthouse Headland, rated Advanced due to depth and the possibility of encountering large marine life. The site's claim to fame is thresher shark sightings -- these distinctive long-tailed sharks are occasionally seen at depth, particularly where the water temperature drops, indicating colder, nutrient-rich upwellings. The reef also supports humphead wrasse and banded sea snakes, along with the nudibranchs and flatworms that are found throughout Puerto Galera's dive sites.
+Kilima, also listed as Kilima Steps, is a deeper reef site south of Puerto Galera's Lighthouse Headland, rated Advanced due to depth and current. The thresher shark claim in this description is corroborated by two independent sources: Michael McFadyen's original notes and PADI's site listing, which specifically identifies February as a strong month for sightings here. The site's topography includes ledges and rock formations described as steps, with barrel sponges, green tree corals, and hard corals.
 
 ## Site Information
 
@@ -32,19 +32,18 @@ Kilima is a deeper reef site south of Puerto Galera's Lighthouse Headland, rated
 
 ## Marine Life
 
-Thresher sharks are the headline species, sighted at depth where the water temperature drops -- look into the blue water and along the deeper reef edges. Humphead wrasse, one of the reef's largest residents, can be encountered along the reef structure. Banded sea snakes hunt through the coral. Nudibranchs and flatworms provide macro interest across the reef surfaces for divers willing to alternate between watching the blue and scanning the substrate.
+Thresher sharks are the headline species, corroborated by two sources, with PADI noting February as a particularly good month for sightings at depth. PADI's listing also reports pygmy seahorses (single-source, attributed here to PADI), octopus, cuttlefish, moray eels, palette surgeonfish (blue tang), sea turtles, stonefish, nudibranchs, and sweetlips.
 
 ## Dive Profile
 
-Descend to the deeper reef sections where thresher sharks have been observed. The temperature drop at depth is noticeable and can indicate where sharks are more likely to appear. Spend time scanning the blue water off the reef edge before working gradually shallower. The shallower reef provides good nudibranch and flatworm hunting for the second half of the dive. Maximum depth is approximately 30 meters, so gas management and bottom time planning are essential.
+Descend to the deeper reef sections where thresher sharks have been observed, particularly worth targeting in February per PADI. Spend time scanning the blue water off the reef edge before working gradually shallower across the stepped ledges. The shallower sections provide good nudibranch hunting for the second half of the dive. Gas management and bottom time planning are essential given the depth.
 
 ## Tips and Recommendations
 
 - This is an Advanced-rated site -- ensure you are comfortable with depth and current management
-- Watch for temperature changes at depth, which can indicate where thresher sharks are more likely to appear
+- February is reported as a strong month for thresher shark sightings here
 - Scan the blue water off the reef edge for passing pelagics
 - Bring both macro and wide-angle capabilities if possible -- the site rewards both styles
-- Keep an eye out for banded sea snakes moving through the coral
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1055). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1055), [PADI Dive Site: Kilima Steps](https://www.padi.com/dive-site/philippines/kilima-steps/), [Capt'n Gregg's Dive Sites Chart](https://captngreggs.ph/dive-sites). Last updated 2026-08-25.*

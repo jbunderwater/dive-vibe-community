@@ -3,7 +3,7 @@ name: Dungon Wall
 lat: 13.52259
 lng: 120.986855
 difficulty: Intermediate
-maxDepth: 35
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null

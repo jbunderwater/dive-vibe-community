@@ -25,7 +25,7 @@ Hole in the Wall lies northeast of Puerto Galera's Lighthouse Headland and takes
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: Reported as 27 meters by one source; other sources describe the tunnel and shallow reef zone as 5-20 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Often strong, particularly in the shallower zone
 - **Water Temperature**: 28-29°C

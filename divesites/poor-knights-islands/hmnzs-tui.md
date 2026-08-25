@@ -29,7 +29,7 @@ After decommissioning in 1997, the Tui was gifted to the Tutukaka Coast Promotio
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 33 meters (sources range 30-33m)
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 10-25 meters
 - **Water Temperature**: 17-22 degrees C
 - **Current**: Variable

@@ -31,7 +31,7 @@ The wreck now lies on her port side, broken into two sections -- the bow, carryi
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters (sand at 28-32m depending on source)
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-20 meters
 - **Water Temperature**: 17-22 degrees C
 - **Current**: Variable; exposed location

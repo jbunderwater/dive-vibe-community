@@ -47,4 +47,4 @@ Descend to the sandy bottom and navigate between coral outcrops, checking each f
 - The sheltered bay means this site is diveable in most conditions
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1053). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1053). Re-audited 2026-08-25: no independent site-specific source was found for this sub-site (its name and the two-sunken-boats feature do not appear on the operator and database pages checked during this review). Broader Sabang Bay descriptions from other sources corroborate the general setting -- sandy bottom, coral patches, calm conditions -- but not this site's specific name or features, so this description remains single-sourced. Last updated 2026-08-25.*

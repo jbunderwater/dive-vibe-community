@@ -27,7 +27,7 @@ The name "Astrid's Wall" for the adjoining feature could not be independently co
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters at the rock; the adjoining Maomao Bay wall continues to roughly 40-70m (see note above)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
 - **Current**: Variable; often present -- a defining feature of the site

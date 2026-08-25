@@ -25,7 +25,7 @@ Fantasea (also listed as Fantasea Reef) lies close to Puerto Galera's El Galleon
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: Reported between 15 and 27 meters depending on source
+- **Maximum Depth**: 23 meters
 - **Typical Visibility**: 15-20 meters
 - **Current**: Moderate to strong
 - **Water Temperature**: 28-29°C

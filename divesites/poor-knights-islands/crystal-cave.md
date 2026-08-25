@@ -35,7 +35,7 @@ The cave system features passages that allow divers to swim through sections of 
 
 ## Marine Life
 
-Inside the caves, the walls host sponge gardens, jewel anemones, and encrusting bryozoans. Nudibranchs are found on shaded surfaces. Outside the cave entrances, the Poor Knights marine reserve supports schools of blue maomao, pink maomao, koheru, trevally, and demoiselles. Moray eels shelter in rocky crevices. Stingrays and eagle rays cruise the open water around the island, and scorpionfish hide in the kelp.
+A dive-focused travel account of this specific site (seektheworld.com) documents large scorpionfish, firebrick starfish, and clown nudibranchs as the notable marine life here. Sponge and encrusting-organism cover on the cave walls is consistent with other Poor Knights caves, though not independently confirmed species-by-species for Crystal Cave specifically. Broader claims of blue maomao, pink maomao, koheru, trevally, demoiselles, moray eels, stingrays, and eagle rays here, present in an earlier version of this page, were regional Poor Knights fauna rather than sightings confirmed at this specific site, and have been trimmed accordingly.
 
 ## Dive Profile
 
@@ -57,4 +57,4 @@ Access is by dive boat from Tutukaka marina (approximately 45 minutes each way).
 While the swim-throughs at the Poor Knights are generally open and well-lit, they are still overhead environments. Maintain visual contact with exit points at all times. Avoid stirring up silt with careless fin kicks. Currents around the islands can be variable -- follow your dive guide's briefing on entry and exit points. Water temperature can drop below 18 degrees C outside summer, so adequate thermal protection is essential.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Dive! Tutukaka](https://diving.co.nz/poor-knights-islands), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/). Last updated 2026-06-18.*
+*Sources: [Seek The World - Scuba Diving in Poor Knights Islands](https://seektheworld.com/new-zealand-poor-knights-islands-scuba-diving/), [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/). Last updated 2026-08-25.*

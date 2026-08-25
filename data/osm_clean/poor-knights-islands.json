@@ -133,14 +133,14 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "false",
       "validation_source": "unresolved",
       "last_qa_date": "2026-08-25",
-      "qa_note": "Re-audit downgraded from validated=true: extensive search (Wikivoyage's ~40-site Poor Knights list, seafriends.org.nz quadrant maps, a divepacific.co.nz article citing '~80 recognised dive sites', and multiple dive-shop/forum searches) found no site by this name at the Poor Knights Islands. A 'Barney's Rock' exists at Peketa, Kaikoura -- an unrelated destination -- which may be the source of prior confusion. Coordinates, depth, and difficulty left unchanged pending confirmation; do not present as validated."
+      "qa_note": "Re-audit downgraded from validated=true: extensive search (Wikivoyage's ~40-site Poor Knights list, seafriends.org.nz quadrant maps, a divepacific.co.nz article citing '~80 recognised dive sites', and multiple dive-shop/forum searches) found no site by this name at the Poor Knights Islands. A 'Barney's Rock' exists at Peketa, Kaikoura -- an unrelated destination -- which may be the source of prior confusion. Coordinates and depth left unchanged pending confirmation; difficulty bumped from Beginner to Intermediate to comply with this destination's cold-water minimum-difficulty rule regardless of the unresolved site identity; do not present as validated."
     }
   },
   {

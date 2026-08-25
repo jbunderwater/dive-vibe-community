@@ -22,10 +22,10 @@ Wild Beast Point sits where converging currents create genuinely turbulent water
 ## Site Information
 
 - **Location**: Northern tip, Tawhiti Rahi Island, Poor Knights Islands, Northland, New Zealand
-- **Entry Type**: Boat dive (boats idle rather than anchor)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 24 meters on the recreational profile; the western abyss continues toward Maomao Bay's 70m depths beyond normal limits
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
 - **Current**: Strong and often turbulent -- the site's defining characteristic, caused by the current splitting around the point

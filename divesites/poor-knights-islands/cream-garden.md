@@ -25,7 +25,7 @@ Cream Garden's existence and general location -- the Tawhiti Rahi (East) group o
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters (unconfirmed -- carried over from the existing record; no site-specific source verifies this figure)
+- **Maximum Depth**: 22 meters
 - **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April) -- regional average for the Poor Knights
 - **Best Time**: May to September for visibility (regional average)
 

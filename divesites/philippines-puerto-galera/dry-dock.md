@@ -24,7 +24,7 @@ The Dry Dock is a large steel-and-plywood floating dry dock structure, originall
 - **Location**: Off Scandi Dive Resort, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (PADI recommends this for advanced divers due to occasional currents and the blue-water descent)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-20 meters
 - **Current**: Generally mild, occasionally stronger

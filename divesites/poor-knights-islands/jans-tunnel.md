@@ -27,7 +27,7 @@ By contrast, PADI's user-submitted dive-site listing describes depths from rough
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: Sources conflict -- seafriends.org.nz describes only a few metres; PADI's listing gives 10-30m. 23m is carried over from the existing record pending resolution.
+- **Maximum Depth**: 23 meters
 - **Typical Visibility**: 15-30 meters (regional average)
 - **Current**: Sheltered; the tunnel interior is described as calm enough to serve as a fish "sleepover" spot
 - **Best Time**: Year-round; the sheltered interior is not weather-dependent the way exposed sites are

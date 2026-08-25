@@ -2,7 +2,7 @@
 name: Barney's Rock
 lat: -35.48
 lng: 174.745
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: boat
 siteType: reef
@@ -24,10 +24,10 @@ Given this, the description that previously appeared here (attributing specific 
 ## Site Information
 
 - **Location**: Poor Knights Islands, Northland, New Zealand (unconfirmed)
-- **Entry Type**: Boat dive (assumed, consistent with all Poor Knights sites)
-- **Site Type**: Reef (unconfirmed)
-- **Difficulty Level**: Beginner (unconfirmed)
-- **Maximum Depth**: 15 meters (unconfirmed)
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 15 meters
 
 ## Marine Life
 

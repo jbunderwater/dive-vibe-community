@@ -33,15 +33,9 @@ Blue Maomao Arch is the crown jewel of Poor Knights Islands diving. The arch cut
 
 ## Marine Life
 
-Blue Maomao Arch is world-renowned for its fish schools. Divers encounter:
-- Dense schools of blue maomao (the arch's namesake) thick enough to reduce visibility and block sunlight
-- Pink maomao swimming in equally impressive numbers
-- Large kingfish, snapper, and giant trevally cruising the outer waters
-- Short-tailed stingrays gliding through warmer months
-- Moray eels and nudibranchs sheltering in crevices
-- Hard corals, sponges, and hydroids covering the arch walls
+Blue Maomao Arch is world-renowned for its fish schools -- confirmed independently by ScubaBoard divers ("thousands of fish, big schools are guaranteed... maomao, trevally, demoiselles") and by Dive Now's site-specific account of the arch. Divers reliably encounter dense schools of blue maomao (the arch's namesake), often accompanied by pink maomao and trevally in the outer waters. Claims of short-tailed stingrays, moray eels, and nudibranchs specific to this arch, present in an earlier version of this page, were not independently confirmed and have been trimmed; they are plausible regional fauna but not documented here specifically.
 
-The concentration of fish life is unmatched at Poor Knights.
+The concentration of fish life is a genuine standout even by Poor Knights standards.
 
 ## Dive Profile
 
@@ -73,4 +67,4 @@ Boat entry via giant stride to the arch entrance. Your guide will advise on curr
 This is the premier photographic dive at Poor Knights. Fish schools create stunning wide-angle compositions. Telephoto lenses capture individual fish within the school. Backlighting creates silhouettes of fish against lighter water. The best photography occurs in the first part of the dive when fish are most dense. Neutral buoyancy is essential for steady wide-angle shots. Consider a second camera body for close-up work on smaller species.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [Dive Now - Poor Knights Arches](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [Go Frame the World - Diving Poor Knights](https://goframetheworld.com/diving-the-poor-knights/), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/). Last updated 2026-06-18.*
+*Sources: [Dive Now - Poor Knights Arches](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [ScubaBoard - Poor Knights Islands, NZ](https://scubaboard.com/community/threads/poor-knights-islands-nz.39059/), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Go Frame the World - Diving Poor Knights](https://goframetheworld.com/diving-the-poor-knights/). Last updated 2026-08-25.*
