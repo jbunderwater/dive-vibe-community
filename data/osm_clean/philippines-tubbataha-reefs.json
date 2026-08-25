@@ -13,9 +13,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, divebooker.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "dive-the-world.com,bluewaterdivetravel.com,justgottadive.com,solitude.world",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25: wall type and marine life (grey reef/whitetip sharks, Napoleon wrasse, dogtooth tuna, night-dive critters) corroborated across 4 sources. Depth (20m) left unchanged -- no source gives a precise site max depth (sources describe the wall extending 5m to 70m+ but do not specify a working dive depth), so the existing value is retained pending a better source rather than guessed. Advanced difficulty confirmed correct per Tubbataha liveaboard-only remote-destination policy."
     }
   },
   {
@@ -24,7 +24,7 @@
     "lon": 119.8667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 32,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -32,9 +32,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, searchable dive databases",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "dive-the-world.com,bluewaterdivetravel.com,solitude.world,philippinedives.com",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25: depth corrected from 32m to 30m per philippinedives.com (18-30m). Removed unsourced manta-ray and napoleon-wrasse claims from markdown -- not attributed to this site by any of 4 consulted sources. Confirmed reef plateau (15m) dropping to a shelf (~25-30m) with resting whitetip/grey reef sharks, occasional silky/nurse/whale sharks. Advanced difficulty confirmed correct per liveaboard-only remote-destination policy."
     }
   },
   {
@@ -51,9 +51,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "dive-the-world.com, divebooker.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Already Advanced; confirmed correct for Tubbataha liveaboard-only remote destination."
+      "validation_source": "dive-the-world.com,bluewaterdivetravel.com,cbartazo.com",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25: sheer wall type confirmed by 3 sources. Removed unsourced claims (bumphead parrotfish congregating 'almost every dive', hammerhead sharks, manta rays 'regularly encountered') -- not attributed to this specific site by any consulted source. Confirmed marine life limited to Napoleon wrasse, blacksaddle coral grouper, occasional whale shark, and general sharks/rays/turtles/tuna typical when paired with adjacent Malayan Wreck. Depth (40m) not independently re-sourced -- no source gives a specific max depth; existing value retained. Advanced difficulty confirmed correct per policy. Only 3 domains found -- weaker source base than other sites in this destination, noted in summary."
     }
   },
   {
@@ -62,17 +62,17 @@
     "lon": 119.85,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "searchable dive databases, divessi.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "dive-the-world.com,justgottadive.com,philippinedives.com",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25: site_type changed reef -> wall. 3 independent sources describe Black Rock as a wall/pinnacle structure (dive-the-world.com: 'sloping plateau with wall'; justgottadive.com 'Black Rock North Face: Wall'; philippinedives.com: 'submerged pinnacle'), none describe it as a coral-garden reef. Depth corrected 35m -> 40m per philippinedives.com (10-40m+). Marine life list rewritten to match sourced species (dogtooth tuna, giant trevally, grey reef/whitetip/hammerhead/tiger sharks, manta cleaning station, green/hawksbill turtles). Advanced difficulty confirmed correct per policy."
     }
   },
   {
@@ -81,7 +81,7 @@
     "lon": 119.8917,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 35,
     "site_type": "wreck",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -89,9 +89,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divebooker.com, solitude.world",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy. Wreck history (WWII freighter claim) unverified — no confirmed ship name or build data from 2+ independent sources."
+      "validation_source": "dive-the-world.com,dan.org,solitude.world",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25: depth corrected 20m -> 35m per dive-the-world.com ('wall with wreck at 35m'). Location (southwest tip of North Atoll) confirmed by dan.org, matching existing text. WRECK HISTORY UNRESOLVED: vessel name ('SS Malayan'), build date, and sinking cause/date could not be confirmed by 2+ independent sources -- only one weakly-attributed source suggests the name, and that same source cluster reports conflicting dates (WWII vs. late 1970s/80s); no source anywhere gives length or tonnage. Per anti-hallucination policy these specifics are described in the markdown as unconfirmed/disputed rather than asserted as fact. Marine-life list corrected to sourced species (grey reef/whitetip sharks, nurse sharks, hammerheads, gorgonian fans with pygmy seahorses, African pompano, leaf scorpionfish, rainbow runners, bumphead parrotfish, batfish, marble rays, giant morays, bannerfish, bluelined snapper, chevron barracuda, hawksbill turtles); removed unsourced 'Spanish dancers' and 'harlequin ghost pipefish' claims. Advanced difficulty confirmed correct per policy."
     }
   },
   {
@@ -100,7 +100,7 @@
     "lon": 119.8417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -108,9 +108,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "justgottadive.com, dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "justgottadive.com,asiadivesite.com,wwf.panda.org",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25: depth corrected 35m -> 40m, the depth of the wall's distinctive 'lip' feature cited across sources (full wall extends to 60m+ beyond recreational limits per justgottadive.com). Marine life list corrected to sourced species (leopard, nurse, blacktip, whitetip, grey reef sharks; manta, lagoon, eagle rays; turtles, flounders, snappers, surgeonfish, groupers, moorish idols, jacks). Removed unsourced whale-shark claim -- not attributed to this specific site by either directly-fetched source. Advanced difficulty confirmed correct per policy."
     }
   },
   {
@@ -127,9 +127,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divessi.com, dive-the-world.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "dive-the-world.com,divessi.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25: reef/coral-garden type confirmed by 3 sources (one source, divessi.com, additionally describes a steeper wall-like edge -- noted in markdown rather than changing type). Depth (25m) not independently re-sourced; retained. Marine life rewritten with the sourced standout feature -- a manta ray cleaning station -- plus schooling snappers/fusiliers, frogfish, pygmy seahorses, nudibranchs, cleaner shrimp, porcelain crabs, green/hawksbill turtles, and reported (single-source) tiger shark encounters. Name origin (brown-footed booby call) added, sourced. Advanced difficulty confirmed correct per policy."
     }
   },
   {
@@ -138,7 +138,7 @@
     "lon": 119.9,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
+    "depth": 33,
     "site_type": "wreck",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -146,9 +146,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "divessi.com, divescover.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Already Advanced; confirmed correct for Tubbataha liveaboard-only remote destination."
+      "validation_source": "dan.org,thediveglobe.com,philippinedives.com,dive-the-world.com",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25: location specified as South Atoll (confirmed by dan.org and thediveglobe.com, both direct-fetched). Depth corrected 40m -> 33m per philippinedives.com (18-33m); dan.org/thediveglobe.com describe the wreck remains themselves as shallower (12-18m) with an associated wall/crevasse to 33-40m. WRECK HISTORY: vessel name 'Delsan'/'M/V Delsan' and type ('small Filipino freighter') confirmed by 2 independent direct-fetched sources (dan.org, thediveglobe.com). Grounding date: dan.org specifically reports the vessel struck the reef at night in 1981; a second, less precisely-attributed source cluster corroborates a general 1980s grounding -- both are reflected in the markdown rather than asserting a single date as certain. No source gives tonnage or length -- omitted. REMOVED FABRICATIONS: previous markdown claimed 'massive engine still intact', a 'Disneyland' nickname, and a named 30m crevasse called 'The Cut' -- none of these appear in any of the 4 sources consulted (the 'engine intact' and 'Disneyland' claims are not corroborated anywhere; 'The Cut' crevasse feature is attributed by sources to Malayan Wreck, not Delsan, though philippinedives.com does independently describe an unnamed 'sheltered crevasse at 23m' at Delsan, which is retained without the borrowed name). Marine life list corrected to sourced species across all 4 sources. Advanced difficulty confirmed correct per policy."
     }
   },
   {
@@ -157,7 +157,7 @@
     "lon": 119.8142609,
     "osm_id": 31974943,
     "osm_type": "way",
-    "depth": 30,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
@@ -168,9 +168,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": true,
-      "validation_source": "solitude.world, divebooker.com",
-      "last_qa_date": "2026-06-25",
-      "qa_note": "Upgraded to Advanced: Tubbataha is liveaboard-only remote UNESCO reserve with strong Sulu Sea currents; minimum Advanced required per policy."
+      "validation_source": "dive-the-world.com,justgottadive.com,philippinedives.com,solitude.world",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audited 2026-08-25: depth corrected 30m -> 40m per philippinedives.com (7-40m working range); dive-the-world.com independently confirms the reef 'drops to more than 50m' beyond the working range. Structural description corrected: sources describe an isolated, mushroom-shaped reef/wall complex roughly 20km north of the main atolls (dive-the-world.com, philippinedives.com, justgottadive.com) rather than a circular atoll enclosing an interior lagoon as the previous markdown stated -- that specific 'interior lagoon' framing was not corroborated by any source and has been removed. Marine life corrected to sourced species (barracuda, Spanish mackerel, Napoleon wrasse, unicornfish, surgeonfish, grey reef sharks confirmed by 3 sources; manta/eagle rays, hammerhead/mako/thresher sharks, turtles, whale sharks, groupers each single-sourced but site-specific). Advanced difficulty confirmed correct per policy."
     }
   }
 ]

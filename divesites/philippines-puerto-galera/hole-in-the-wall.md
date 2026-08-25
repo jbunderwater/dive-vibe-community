@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Hole in the Wall
 
-A colourful reef northeast of Lighthouse Headland with a small tunnel swim-through at 15 meters, huge schools of jacks, and abundant nudibranchs -- often dived as a drift.
+A colourful reef northeast of Lighthouse Headland with a tunnel swim-through, schooling fish, and abundant nudibranchs -- often dived as a drift.
 
 ## Overview
 
-Hole in the Wall lies northeast of Puerto Galera's Lighthouse Headland and takes its name from a small tunnel or swim-through in the reef at approximately 15 meters depth. The surrounding reef is colourful and healthy, but the real spectacle is in the water column -- huge schools of jacks gather at this site, creating impressive walls of silver fish. The reef itself is a productive nudibranch hunting ground, with numerous species found across the coral surfaces. Strong currents frequently affect the upper 15 meters, and the site is often dived as a drift.
+Hole in the Wall lies northeast of Puerto Galera's Lighthouse Headland and takes its name from a tunnel swim-through in the reef. PADI describes the tunnel as approximately 15 meters long, 3 meters wide, and 1.5 meters high -- large enough that divers may occasionally need to yield to rays or turtles passing through. Depth reports vary considerably across sources: PADI cites 5-15 meters, Action Divers cites 10-20 meters, and Michael McFadyen cites a 27-meter maximum -- this is likely because the tunnel and shallow reef sections sit much shallower than the site's deeper reef areas, but the exact profile should be confirmed with your guide. Strong currents frequently affect the upper part of the site, and it is often dived as a drift.
 
 ## Site Information
 
@@ -25,26 +25,26 @@ Hole in the Wall lies northeast of Puerto Galera's Lighthouse Headland and takes
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: Reported as 27 meters by one source; other sources describe the tunnel and shallow reef zone as 5-20 meters
 - **Typical Visibility**: 15-25 meters
-- **Current**: Often strong, particularly in the upper 15 meters
+- **Current**: Often strong, particularly in the shallower zone
 - **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Huge schools of jacks are the signature attraction, swirling in dense formations around the reef. The colourful reef supports a rich diversity of corals and invertebrates, with nudibranchs particularly abundant -- expect to find multiple species across the site. The swim-through at 15 meters is worth exploring for the marine life that shelters within, though its small size means only one diver at a time can pass through.
+Schooling fish are a signature attraction here -- described by one source specifically as large jacks, though other listings describe schooling fish more generally. Nudibranchs are particularly abundant, confirmed across sources. PADI additionally reports rays and seahorses in the deeper sandy sections, and sea snakes have been noted moving through the reef.
 
 ## Dive Profile
 
-Descend to the reef and locate the swim-through at around 15 meters. The tunnel is small, so assess whether you are comfortable passing through before committing. Explore the surrounding reef, scanning for nudibranch species and watching the water column for schooling jacks. Strong currents are common in the upper 15 meters, so this dive is frequently done as a drift -- let the current carry you along the reef and deploy an SMB for pickup. Maximum depth reaches approximately 27 meters.
+Descend to the reef and locate the tunnel swim-through. The tunnel is a confined space, so assess your comfort level before committing to the passage. Explore the surrounding reef, scanning for nudibranchs and watching the water column for schooling fish. Strong currents are common, so this dive is frequently done as a drift -- let the current carry you along the reef and deploy an SMB for pickup.
 
 ## Tips and Recommendations
 
-- Be prepared for strong currents, especially in the upper 15 meters -- this is often a drift dive
-- The swim-through is small; assess your comfort level before entering
+- Be prepared for strong currents -- this is often a drift dive
+- The swim-through is a confined space; assess your comfort level before entering
 - Carry an SMB for boat pickup if drift diving
 - Look carefully across coral surfaces for nudibranchs -- they are abundant here
-- Wide-angle lenses capture the schooling jacks best
+- Wide-angle lenses capture the schooling fish best
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1050). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1050), [PADI Dive Site: Hole in the Wall](https://www.padi.com/dive-site/philippines/hole-in-the-wall/), [Action Divers Puerto Galera](https://www.actiondivers.com/dive-sites.html), [Capt'n Gregg's Dive Sites Chart](https://captngreggs.ph/dive-sites). Last updated 2026-08-25.*

@@ -17,7 +17,7 @@ Named for its amazing patchwork of colours coating the rocks and walls, Tie Dye 
 
 ## Overview
 
-Tie Dye Arch is a photographer's paradise, named after the tie-dye aesthetic of colourful sponges, anemones, and other encrusting organisms covering the rocks and arch walls. The southern entrance at the channel side descends to 18 meters, then penetrates into the archway creating two distinct passages on the northern side. The characteristic appearance created by multiple light-filled passageways makes for lovely wide-angle compositions. The site offers both large rock features and intricate wall life for varied photography.
+Tie Dye Arch is a photographer's paradise, named after the tie-dye aesthetic of colourful sponges, anemones, and other encrusting organisms covering the rocks and arch walls. It sits within "the Pinnacles" at the southern end of the Poor Knights Marine Reserve, and per Dive Pacific is accessible "only on days with minimum wind and swell." The entrance on the southern side is a single arch; on the northern side it splits into two passages, giving the site its characteristic double appearance -- unlike some of the Poor Knights' other arches, you cannot surface inside Tie Dye. The site offers both large rock features and intricate wall life for varied photography.
 
 ## Site Information
 
@@ -34,15 +34,7 @@ Tie Dye Arch is a photographer's paradise, named after the tie-dye aesthetic of 
 
 ## Marine Life
 
-The encrusting organisms create the Tie Dye aesthetic:
-- Dense sponge gardens (reds, oranges, purples, browns) covering walls
-- Anemones and hydroids
-- Bryozoans
-- Hard corals
-- Schools of blue maomao and pink maomao swimming through passages
-- Kingfish, snapper, and giant trevally in the blue water
-- Nudibranchs and small reef fish
-- Morays and eel species
+Dive Pacific's site-specific account describes Tie Dye as "traditionally... a great site for stingrays, but they're not always present" -- so treat ray sightings as possible rather than guaranteed. The same source points divers to look among the boulders for eels and scorpionfish. The colourful "tie-dye" walls themselves are sponges, anemones, and other encrusting organisms rather than named marine life. Claims of resident blue maomao/pink maomao schools and kingfish/snapper/giant trevally specific to this arch, present in an earlier version of this page, were not found in site-specific sources and have been removed -- those species are common elsewhere at the Poor Knights but aren't documented here specifically.
 
 ## Dive Profile
 
@@ -80,4 +72,4 @@ This is a premier photographic site combining wide-angle and macro opportunities
 - Consider bringing backup camera bodies for macro and wide-angle work
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/). Last updated 2026-06-18.*
+*Sources: [Dive Pacific - Diving the Tie Dye Arch](https://www.divepacific.co.nz/post/diving-the-tie-dye-arch-at-the-poor-knights), [DiveSSI - Tie Dye Arch](https://www.divessi.com/en/mydiveguide/divesite/tie-dye-arch-new-zealand-510302), [Global Dive - Poor Knights Tie Dye Arch](https://globaldive.net/poor-knights-tie-dye-arch), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands). Last updated 2026-08-25.*

@@ -16,8 +16,8 @@
       "scuba_diving:mindepth": "6",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divenow.co.nz, en.wikivoyage.org, diving.co.nz, newzealand.com",
+      "last_qa_date": "2026-08-25"
     }
   },
   {
@@ -36,8 +36,9 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "seafriends.org.nz, en.wikivoyage.org, diving.co.nz, newzealand.com",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Depth conflict: seafriends.org.nz describes the adjoining Maomao Bay wall dropping to 70m with boulders to 40m, deeper than the 25m listed here for the rock itself. 'Astrid's Wall' half of the name is not independently confirmed by any source found."
     }
   },
   {
@@ -53,15 +54,16 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikipedia.org, divenow.co.nz, michaelmcfadyenscuba.info, showcaves.com, newzealand.com",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "en.wikipedia.org, michaelmcfadyenscuba.info, divenow.co.nz, showcaves.com",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Cave dimensions conflict between sources: Dive Now reports ~130m long x 80m wide x 35m high; McFadyen reports 152.7m x 96m x 38.1m. Both noted in description."
     }
   },
   {
     "name": "Northern Arch",
     "lat": -35.45,
     "lon": 174.73,
-    "depth": 50,
+    "depth": 40,
     "minDepth": 15,
     "site_type": "cave",
     "entry_type": "boat",
@@ -70,8 +72,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, divenow.co.nz, battleface.com, newzealand.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "seafriends.org.nz, divepacific.co.nz, en.wikivoyage.org, divenow.co.nz",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Depth corrected from 50m to 40m based on two independent sources (seafriends.org.nz: base 36-40m; divepacific.co.nz: '40 metres deep'). Prior 50m figure was unsupported."
     }
   },
   {
@@ -86,8 +89,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, divenow.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divenow.co.nz, divepacific.co.nz, en.wikivoyage.org, nzdiving.co.nz",
+      "last_qa_date": "2026-08-25"
     }
   },
   {
@@ -102,8 +105,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, divenow.co.nz, goframetheworld.com, newzealand.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divenow.co.nz, scubaboard.com, en.wikivoyage.org, goframetheworld.com",
+      "last_qa_date": "2026-08-25"
     }
   },
   {
@@ -117,9 +120,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validated": "false",
+      "validation_source": "en.wikivoyage.org (existence only, listed as 'Cream Gardens')",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audit downgraded from validated=true: could not find 3 independent site-specific sources. Wikivoyage confirms 'Cream Gardens' exists on Tawhiti Rahi (East), but no source gives site-specific depth, marine life, or description beyond that listing. Prior validation appears to have relied on generic destination-wide pages, not site-specific content."
     }
   },
   {
@@ -133,9 +137,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validated": "false",
+      "validation_source": "unresolved",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Re-audit downgraded from validated=true: extensive search (Wikivoyage's ~40-site Poor Knights list, seafriends.org.nz quadrant maps, a divepacific.co.nz article citing '~80 recognised dive sites', and multiple dive-shop/forum searches) found no site by this name at the Poor Knights Islands. A 'Barney's Rock' exists at Peketa, Kaikoura -- an unrelated destination -- which may be the source of prior confusion. Coordinates, depth, and difficulty left unchanged pending confirmation; do not present as validated."
     }
   },
   {
@@ -151,8 +156,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "divepacific.co.nz, divessi.com, globaldive.net, en.wikivoyage.org",
+      "last_qa_date": "2026-08-25"
     }
   },
   {
@@ -168,8 +173,9 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "seafriends.org.nz, en.wikivoyage.org, padi.com, divenow.co.nz",
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Depth/character conflict: seafriends.org.nz (published by Wade and Jan Doak, for whom the site is named) describes it as only a few metres deep with sparse life beyond horse/white anemones; PADI's user-submitted listing gives 10-30m depths and a generic species list. Existing 15-23m depth kept (matches PADI and the original curated entry) but the conflict is now stated in the markdown rather than silently resolved."
     }
   },
   {
@@ -184,8 +190,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "en.wikivoyage.org, diving.co.nz, newzealand.com, firstlighttravel.com, yukon.co.nz",
-      "last_qa_date": "2026-06-18"
+      "validation_source": "seafriends.org.nz, en.wikivoyage.org, diving.co.nz, newzealand.com",
+      "last_qa_date": "2026-08-25"
     }
   },
   {
@@ -197,13 +203,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, diving.co.nz, nzgeo.com",
+    "validation_source": "seektheworld.com, michaelmcfadyenscuba.info, nzgeo.com, doc.govt.nz",
     "tags": {
       "name": "Crystal Cave",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-25"
     }
   },
   {
@@ -215,13 +221,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, en.wikipedia.org",
+    "validation_source": "en.wikipedia.org, navymuseum.co.nz, nzdiving.co.nz, michaelmcfadyenscuba.info",
     "tags": {
       "name": "HMNZS Tui",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Jason's nudibranch claim removed: search results trace that species record to the Canterbury wreck in the Bay of Islands, not HMNZS Tui. Depth reported 30-33m depending on source. Mururoa mothership role confirmed as 1995's Operation Valerian by navymuseum.co.nz."
     }
   },
   {
@@ -233,13 +240,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, nzdiving.co.nz, navymuseum.co.nz, en.wikipedia.org",
+    "validation_source": "en.wikipedia.org, navymuseum.co.nz, nzdiving.co.nz, divenow.co.nz",
     "tags": {
       "name": "HMNZS Waikato",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Multiple unresolved conflicts across sources: scuttling date (navymuseum.co.nz: 11 Nov 2000; nzdiving.co.nz/dive charters: 25 Nov 2000; Wikipedia: 18 Dec 2000); launch year (Wikipedia: 1965; nzdiving.co.nz: 1966); displacement (navymuseum.co.nz: 2,990 tonnes; Wikipedia: 2,450 tons standard/3,200 tons full load). All written into the markdown as conflicts rather than resolved to one figure. 'World record 2m40s scuttling time' and 'bow separated before hitting the seabed' are only attributed to dive-operator sources, not independently confirmed -- attributed accordingly, and the bow-separation detail was dropped as unconfirmed."
     }
   },
   {
@@ -251,13 +259,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, nzgeo.com, newzealand.com",
+    "validation_source": "nzgeo.com, michaelmcfadyenscuba.info, doc.govt.nz, diving.co.nz",
     "tags": {
       "name": "Oculina Point",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-25"
     }
   },
   {
@@ -269,13 +277,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info, seafriends.org.nz, rosscattell.net",
+    "validation_source": "seafriends.org.nz, michaelmcfadyenscuba.info, en.wikivoyage.org",
     "tags": {
       "name": "Trevors Rock",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape",
-      "last_qa_date": "2026-06-18"
+      "last_qa_date": "2026-08-25",
+      "qa_note": "Naming origin (Trev Zenovitch, champion diver) independently confirmed by seafriends.org.nz, which also confirms the 10m anchor / 20-30m wall profile and wrasse/triplefin sightings almost exactly as previously described."
     }
   }
 ]

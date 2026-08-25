@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Ernies Cave
 
-A combined site off Monkey Beach featuring a small scuttled steel vessel at 24 meters and a rocky overhang known as Ernies Cave at 14 meters, with excellent nudibranch hunting throughout.
+A rocky overhang and surrounding reef off Monkey Beach, with imposing rock formations, sea fans, and excellent nudibranch hunting.
 
 ## Overview
 
-Ernies Cave is a two-part dive site located off Monkey Beach in Puerto Galera. The deeper attraction is a small scuttled steel vessel, roughly 10 meters in length, resting at 24 meters on sand. Above it at around 14 meters sits Ernies Cave itself -- not a true cave but a substantial rocky overhang that provides shelter for marine life. The combination of wreck, overhang, and surrounding reef makes this a varied and interesting dive. The site is particularly noted for its excellent nudibranch diversity, with numerous species found on both the wreck structure and the reef surrounding the cave.
+Ernies Cave is a dive site located off Monkey Beach in Puerto Galera, centred on a substantial rocky overhang rather than a true cave. An earlier version of this description claimed a small scuttled steel vessel sits at 24 meters near the overhang; neither PADI's site listing nor Capt'n Gregg's dive site chart mentions any wreck at this location, so that claim has been removed as uncorroborated. The site is instead described consistently across sources as an overhang-and-reef dive, noted for colourful corals on the overhang walls and strong nudibranch diversity.
 
 ## Site Information
 
@@ -32,18 +32,17 @@ Ernies Cave is a two-part dive site located off Monkey Beach in Puerto Galera. T
 
 ## Marine Life
 
-Nudibranchs are the standout feature of this site, with excellent diversity found on both the wreck and the reef around the overhang. Garden eels colonise the sandy areas near the scuttled vessel, retreating into their burrows as divers approach. Gorgonian sea fans grow on the reef sections and on the wreck structure. Christmas tree worms dot the coral surfaces, their colourful spiral feeding appendages snapping shut at the slightest disturbance.
+Nudibranchs are the standout feature of this site, corroborated across sources, with good diversity found on the reef around the overhang. Sea fans and mantis shrimp have also been reported. PADI's listing additionally notes stonefish, grouper, scorpionfish, lionfish, batfish, snapper, sea turtles, and cardinalfish among common sightings, with the overhang walls described as colourfully coral-encrusted.
 
 ## Dive Profile
 
-Descend to the scuttled steel vessel at 24 meters first, exploring the small wreck and the sandy area where garden eels can be found. Then ascend gradually to 14 meters to explore Ernies Cave overhang, checking its surfaces and surrounding reef for nudibranchs and Christmas tree worms. The shallower sections above the overhang provide good reef diving for the remainder of the dive and safety stop.
+Descend to the overhang and explore its rocky formations and coral-covered walls, checking crevices for nudibranchs and mantis shrimp. The surrounding reef sections provide additional nudibranch hunting and general reef life for the remainder of the dive, finishing with a safety stop.
 
 ## Tips and Recommendations
 
-- Visit the deeper wreck first while air supply is fresh, then work up to the overhang
 - Bring a macro lens -- the nudibranch diversity here is among the best in Puerto Galera
-- Approach the sandy areas slowly to observe garden eels before they retract
-- A torch helps reveal nudibranchs in the shadows under the overhang
+- A torch helps reveal nudibranchs and mantis shrimp in the shadows under the overhang
+- Watch for turtles cruising past the overhang
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1058). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1058), [PADI Dive Site: Ernie's Cave](https://www.padi.com/dive-site/philippines/ernies-cave/), [Capt'n Gregg's Dive Sites Chart](https://captngreggs.ph/dive-sites). Last updated 2026-08-25.*
