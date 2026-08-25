@@ -44,4 +44,4 @@ Exceptional concentration of dusky groupers (*Epinephelus marginatus*) — the d
 - Advanced Open Water required due to 45 m depth despite weak currents
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/caneiro-dos-meros), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/caneiro-dos-meros-94.html), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/caneiro-dos-meros/). Last updated 2026-07-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/caneiro-dos-meros), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/caneiro-dos-meros-94.html), [turismo.azores.gov.pt](https://turismo.azores.gov.pt/en/pin/caneiro-dos-meros/). Last updated 2026-08-25.*

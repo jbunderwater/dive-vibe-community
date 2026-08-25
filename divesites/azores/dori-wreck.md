@@ -13,13 +13,15 @@ addedBy: osm_import
 
 # Dori Wreck
 
-A WWII Liberty ship that took part in Operation Overlord — now a 134-metre wreck resting 800 metres off Ponta Delgada, considered the best dive on São Miguel.
+A Liberty-ship-type cargo steamer that sank 800 metres off Ponta Delgada in 1964 — now São Miguel's most popular wreck dive, though her wartime identity is disputed.
 
 ## Overview
 
-The Dori Wreck is considered by many local operators the best dive site on São Miguel. Originally named SS Thomas Donaldson, she was a WWII Liberty-class steam merchant (7,210 GRT, 441 feet/134 metres long per the US Maritime Administration's vessel history database — consistent with the standard EC2-S-C1 Liberty ship hull) built in February 1944 at Bethlehem-Fairfield Shipyards, Baltimore. She participated in Operation Overlord (the D-Day Normandy landings) and subsequently served on Arctic convoys. On 20 March 1945 she was torpedoed by U-968 (Kapitänleutnant Otto Westphalen) during Arctic Convoy JW-65, approximately 20 miles from the Kola Inlet. Four crew members were killed; 65 survived. The stricken vessel was taken under tow but sank stern-first near Kilden Island.
+The Dori Wreck is considered by many local operators the best dive site on São Miguel. She was a Liberian-flagged cargo steamer of Liberty-ship (EC2-S-C1) type construction — the standard 441-foot/134-metre WWII-era hull built in large numbers in US shipyards. On 16 January 1964, while en route from Emden to New Orleans with a cargo of steel coils, she developed a leak and was beached/sank approximately 800 metres off the Ponta Delgada coast; no loss of life is reported in the sources reviewed.
 
-Raised, repaired, and later renamed *Dori*, she operated as a Liberian cargo ship until 16 January 1964, when she developed leaks while carrying steel coils en route to New Orleans and sank approximately 800 metres off the Ponta Delgada coast. Now an Underwater Archaeological Park and no-take marine reserve, the wreck rests on a sandy seabed. The stern top sits at 9 metres — accessible to snorkellers — with the bow at 20–21 metres.
+**A note on her wartime identity**: Many dive-tourism sources (including operator sites and general dive-site listings) state that the Dori was originally the WWII Liberty ship SS Thomas Donaldson — torpedoed by U-968 during Arctic Convoy JW-65 in March 1945, then later raised, repaired, and renamed. That story could not be confirmed here. The US Maritime Administration's official Vessel History Database record for Thomas Donaldson documents that ship's total loss in the Barents Sea in March 1945, with no name change or subsequent disposition recorded — directly conflicting with a "raised and renamed" narrative. A separate MARAD record for a same-class, same-year (1943, Bethlehem-Fairfield) Liberty ship, the Edwin L. Drake, shows a "Sold – Foreign Flag Op." disposition, which is at least consistent with continued commercial service under a new name, and a Portuguese maritime-history researcher has published a paper specifically addressing the Edwin L. Drake/Dori identity question — but its text could not be accessed to confirm the conclusion. Given the conflict, this description omits any specific WWII-service claim rather than asserting either identity as fact.
+
+Now an Underwater Archaeological Park and no-take marine reserve, the wreck rests on a sandy seabed. The stern top sits at 9 metres — accessible to snorkellers — with the bow at 20–21 metres.
 
 ## Site Information
 
@@ -34,12 +36,12 @@ Raised, repaired, and later renamed *Dori*, she operated as a Liberian cargo shi
 
 ## Marine Life
 
-Clouds of small fish surround the stern; Moroccan white seabreams (*Diplodus cervinus*) gather around the boilers. Moray eels, octopuses, nudibranchs, and groupers inhabit the structure. Schools of Almaco jacks (*Seriola rivoliana*), yellowmouth barracudas (*Sphyraena viridensis*), and axillary sea breams are observed in the water column. The no-take reserve status supports denser populations than surrounding unprotected reef.
+Clouds of small fish surround the stern; Moroccan white seabreams (*Diplodus cervinus*/*sargus*, spelling varies by source) gather around the boilers. Moray eels, octopuses, and nudibranchs inhabit the structure. Schools of pelagic fish are reported in the water column. The no-take reserve status supports denser populations than surrounding unprotected reef.
 
 ## Tips and Recommendations
 
 - Considered the best dive on São Miguel by multiple local operators
-- WWII veteran: participated in Operation Overlord and Arctic Convoy JW-65
+- Her exact WWII-era identity is disputed between sources — see note above
 - Only 5 minutes by boat from Ponta Delgada — convenient day-dive access
 - Underwater Archaeological Park and no-take marine reserve
 - Stern at 9 m is excellent for snorkelling; bow at 21 m for deeper exploration
@@ -47,4 +49,4 @@ Clouds of small fish surround the stern; Moroccan white seabreams (*Diplodus cer
 - Wreck penetration requires proper training and equipment
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/dori), [uboat.net – Thomas Donaldson](https://uboat.net/allies/merchants/ships/3475.html), [PADI – Dori Liberty Ship Wreck](https://www.padi.com/dive-site/portugal/dori-liberty-ship-wreck/), [ScubaBoard](https://scubaboard.com/community/threads/ss-dori-sao-miguel-azores.638098/), [MARAD Vessel History Database – Thomas Donaldson](https://vesselhistory.marad.dot.gov/ShipHistory/Detail/11222). Last updated 2026-07-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/dori), [ScubaBoard](https://scubaboard.com/community/threads/ss-dori-sao-miguel-azores.638098/), [MARAD Vessel History Database – Thomas Donaldson](https://vesselhistory.marad.dot.gov/ShipHistory/Detail/11222), [MARAD Vessel History Database – Edwin L. Drake](https://vesselhistory.marad.dot.gov/ShipHistory/Detail/7751). Last updated 2026-08-25.*
