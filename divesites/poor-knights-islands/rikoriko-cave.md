@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Rikoriko Cave
 
-Rikoriko is an enormous sea cave on Aorangi Island, claimed to be the largest sea cave in the world by volume (221,494 cubic metres). It measures approximately 130 meters long and 80 meters wide, with the cave ceiling rising 35 meters above the water surface. The water portion of the cave extends about 26 meters below sea level at the entrance. The cave is accessible to intermediate divers and offers a unique geological and biological experience. Water clarity inside the cave is exceptional thanks to sponges that naturally filter the water.
+Rikoriko is an enormous sea cave on Aorangi Island, widely cited as the largest sea cave in the world by volume (221,494 cubic metres). Sources disagree on its exact dimensions: Dive Now gives roughly 130 metres long by 80 metres wide with a 35-metre ceiling, while Michael McFadyen's site gives 152.7 metres long by 96 metres wide by 38.1 metres high -- both figures are reported here rather than picking one. Water depth is roughly 20-26 metres at the entrance, shoaling to under 5 metres at the back. The cave is accessible to intermediate divers and offers a unique geological and biological experience; water clarity inside is exceptional thanks to sponges that naturally filter the water.
 
 ## Overview
 
-Rikoriko Cave is an iconic dive at the Poor Knights Islands, located on Aorangi Island. The water depth at the cave entrance is approximately 20-26 meters; as you penetrate toward the back (shallower interior), depth reduces to 7-8 meters. The cave was formed approximately 10,000-15 million years ago (sources disagree) by volcanic activity. Unlike narrow squeeze-type caves, Rikoriko is spacious and open, with high ceilings that allow comfortable exploration for intermediate divers carrying proper lighting. A sperm whale skeleton (approximately 15 meters long) washed into the cave in 2009/2010 and remains as a notable feature.
+Rikoriko Cave is an iconic dive at the Poor Knights Islands, located on Aorangi Island. The water depth at the cave entrance is approximately 20-26 meters on the western approach and around 20 meters on the eastern approach; as you penetrate toward the back (shallower interior), depth reduces to under 5-8 meters. Unlike narrow squeeze-type caves, Rikoriko is spacious and open, with high ceilings that allow comfortable exploration for intermediate divers carrying proper lighting. A sperm whale skeleton (approximately 15 meters long) washed into the cave in May 2010 (per Michael McFadyen's account) and remains as a notable feature -- massive vertebrae are visible near the entrance, with jaw sections (roughly 2 metres long) in the back right corner.
 
 ## Site Information
 
@@ -34,7 +34,7 @@ Rikoriko Cave is an iconic dive at the Poor Knights Islands, located on Aorangi 
 
 ## Marine Life
 
-The cave environment hosts species adapted to low-light conditions: hydroids, bryozoans, fragile sponges, and anemones coat the cave walls. Deep-water sponge species appear at 12 meters inside the cave due to limited light penetration. Fish shelter inside the cave, with moray eels, slipper lobsters, bullrays, and small crustaceans seeking protection in the overhangs. The sperm whale skeleton on the cave floor is a notable feature. Outside the cave entrance, larger pelagic fish congregate.
+Michael McFadyen's documented dive of Rikoriko Cave records roughly 10 bullrays gathered in the sandy entrance area, along with eels, nudibranchs on the external walls, banded shrimp, and black coral trees. Deep-water sponge species are reported appearing as shallow as 12 meters inside the cave due to the limited light penetration. The sperm whale skeleton on the cave floor is a notable feature, with vertebrae and a roughly 2-metre jaw section visible. Claims of slipper lobsters and moray eels sheltering here, present in an earlier version of this page, were not found in the sources reviewed and have been removed rather than repeated.
 
 ## Dive Profile
 
@@ -69,4 +69,4 @@ Boat entry via giant stride directly to the cave entrance. Your guide will discu
 The cave entrance framed by volcanic rock is iconic. Wide-angle shots of the cave mouth with divers silhouetted are striking. Inside, macro photography of small creatures and sponges is rewarding. Torch light creates interesting shadow compositions. Best photography in morning light when sun angle illuminates the entrance area.
 
 ---
-*Sources: [Wikipedia - Poor Knights Islands](https://en.wikipedia.org/wiki/Poor_Knights_Islands), [Michael McFadyen - Riko Riko Cave](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=789), [Dive Now - Poor Knights Arches and Caves](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [Showcaves - Rikoriko Cave](https://www.showcaves.com/english/nz/caves/RikoRiko.html), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*
+*Sources: [Wikipedia - Poor Knights Islands](https://en.wikipedia.org/wiki/Poor_Knights_Islands), [Michael McFadyen - Riko Riko Cave](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=789), [Dive Now - Poor Knights Arches and Caves](https://divenow.co.nz/the-poor-knights-a-land-of-arches-caves-and-swim-thrus/), [Showcaves - Rikoriko Cave](https://www.showcaves.com/english/nz/caves/RikoRiko.html). Last updated 2026-08-25.*

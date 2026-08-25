@@ -34,7 +34,7 @@ Landing Bay Pinnacle is an exceptional pinnacle dive in Poor Knights Islands off
 
 ## Marine Life
 
-This pinnacle attracts large schools of fish and is known for sightings of firebrick stars, large eels, scorpion fish, and numerous other species along the craggy rock face. Fish life concentrates in the blue water just off the pinnacle walls. The site is excellent for wide-angle photography of fish schools against the pinnacle backdrop.
+Dive Now's site-specific account confirms firebrick stars, eels, and large scorpionfish along the craggy rock face, with shoaling fish gathering at the kelpy top and larger schools hanging in the blue off the pinnacle walls. Fish life concentrates in the blue water just off the pinnacle walls. The site is excellent for wide-angle photography of fish schools against the pinnacle backdrop.
 
 ## Dive Profile
 
@@ -69,4 +69,4 @@ Boat entry via giant stride or back roll directly to the pinnacle. Your dive gui
 Pinnacle dives offer excellent opportunities for fish schooling shots and wide-angle compositions of the rock formations against blue water. The 6-meter top provides ideal light for safety stop photography. Bring two cameras if possible—one for deep work, one for safety stop compositions.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*
+*Sources: [Dive Now - Landing Bay Pinnacle](https://divenow.co.nz/dive-site-landing-bay-pinnacle/), [Wikivoyage - Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-08-25.*

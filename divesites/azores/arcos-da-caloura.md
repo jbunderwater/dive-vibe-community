@@ -45,4 +45,4 @@ Inside the cave: schools of large white trevallies, resident dusky groupers (*Ep
 - 15 minutes from Vila Franca do Campo Marina, 30 minutes from Ponta Delgada
 
 ---
-*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/arcos-da-caloura), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/arcos-da-caloura-65.html), [Scuba Diving Magazine – Azores Guide](https://www.scubadiving.com/azores-scuba-diving-guide). Last updated 2026-07-17.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/arcos-da-caloura), [Portugal Dive](https://www.portugaldive.com/best-dives/spot/arcos-da-caloura-65.html), [Scuba Diving Magazine – Azores Guide](https://www.scubadiving.com/azores-scuba-diving-guide). Last updated 2026-08-25.*

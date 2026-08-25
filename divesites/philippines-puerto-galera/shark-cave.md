@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Shark Cave
 
-East of Lighthouse Headland, featuring a small overhang called Shark Cave (no sharks typically seen) and a distinctive mesa-like formation called "The Atoll" rising from 28 meters to 24 meters, with good visibility and gorgonians.
+East of Lighthouse Headland, named for a cavern that historically housed white-tip reef sharks, often combined with a nearby rock formation called "The Atoll."
 
 ## Overview
 
-Shark Cave lies east of Puerto Galera's Lighthouse Headland and despite its name, sharks are not a common sighting here. The site features a small rocky overhang known as Shark Cave, plus a distinctive mesa-like formation called "The Atoll" that rises from the seabed at 28 meters or more up to approximately 24 meters. The Atoll's vertical sides and top are decorated with gorgonian sea fans, sea whips, and sponges. Visibility at this site is typically good, around 25 meters, making it one of Puerto Galera's clearer diving locations and rewarding for photography.
+Shark Cave lies east of Puerto Galera's Lighthouse Headland. PADI's site listing confirms the origin of the name: the site's cavern used to house white-tip reef sharks, which is consistent with this page's longstanding note that sharks are not a common sighting today -- the name reflects the site's history rather than current conditions. The site consists of a gradual slope of ridges and rocky sandy bottom leading to a cavern around 27 meters, and is often combined on the same dive with a nearby rock formation called "The Atoll," a large formation rising from around 20-33 meters and covered in soft coral, fans, and sponges.
 
 ## Site Information
 
@@ -26,24 +26,24 @@ Shark Cave lies east of Puerto Galera's Lighthouse Headland and despite its name
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: ~25 meters
+- **Typical Visibility**: Reported around 25 meters (single source)
 - **Current**: Variable
 - **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Gorgonian sea fans and sea whips grow on the Atoll formation and surrounding reef. Sponges of various types encrust the rock surfaces. The overhang area that gives the site its name provides shelter, though the sharks the name suggests are not typically encountered. The good visibility at this site makes it easy to appreciate the reef structure and spot marine life at a distance.
+Large fan corals cover the slope and cavern area, hosting octopus, batfish, sweetlips, and turtles per PADI's listing. Grouper, snapper, nudibranchs, soft coral, barrel sponges, and humphead parrotfish are also reported. The Atoll formation is separately noted for gorgonian sea fans, sea whips, and sponges along its sides.
 
 ## Dive Profile
 
-Descend to The Atoll formation, which rises from 28+ meters to about 24 meters, and explore its gorgonian- and sponge-covered sides. Visit the Shark Cave overhang to check underneath. The good visibility (~25 meters) makes navigation straightforward and allows you to appreciate the broader reef topography. Work gradually shallower for the second half of the dive and safety stop.
+Descend along the slope of ridges and rocky sand toward the cavern at around 27 meters, checking fan corals for octopus and other sheltering life. If combined with The Atoll, explore its gorgonian- and sponge-covered sides on the same dive. Work gradually shallower for the second half of the dive and safety stop.
 
 ## Tips and Recommendations
 
-- Do not expect sharks despite the name -- they are not commonly seen here
-- The Atoll formation is the main feature -- spend time exploring its sides for gorgonians and sea whips
-- The good visibility makes this a rewarding wide-angle photography site
-- Check under the Shark Cave overhang for sheltering marine life
+- Do not expect to see sharks today -- the name reflects the cavern's history, not current sightings
+- Check fan corals along the slope for octopus, batfish, and sweetlips
+- If diving The Atoll on the same trip, spend time exploring its sides for gorgonians and sea whips
+- Watch for turtles and humphead parrotfish along the slope
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1049). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1049), [PADI Dive Site: Shark Cave](https://www.padi.com/dive-site/philippines/sharks-cave-2/), [Capt'n Gregg's Dive Sites Chart](https://captngreggs.ph/dive-sites), [Scandi Divers: World Class Dive Sites of Puerto Galera](https://scandidivers.cn/scuba-diving-sites-puerto-galera/). Last updated 2026-08-25.*

@@ -33,10 +33,10 @@ The Poor Knights Islands are a world-class diving destination featuring over 25 
 ## Additional Information
 
 - **Best Time to Visit**: May to September for optimal visibility (winter). Summer (November-February) offers warmer water but reduced visibility.
-- **Difficulty Range**: Beginner (Barney's Rock) to Advanced (Landing Bay Pinnacle, Northern Arch, Wild Beast Point)
+- **Difficulty Range**: Intermediate for most sites, up to Advanced (Landing Bay Pinnacle, Northern Arch, Wild Beast Point). Note: this destination's "Barney's Rock" entry could not be verified as a real Poor Knights site during our 2026-08-25 QA review -- see that site's page for details.
 - **Currency**: New Zealand Dollar (NZD)
 - **Language**: English, Māori
 - **Safety**: Cold-water experience required. Monitor buoyancy carefully on deep dives. Carry appropriate lights for cave/arch entries. Always dive with a buddy and a safety sausage (SMB). Verify dive operator reputation.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [seafriends.org.nz - Poor Knights Diving Guides](https://www.seafriends.org.nz/issues/res/pk/nquart.htm), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-08-25.*

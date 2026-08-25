@@ -13,11 +13,13 @@ addedBy: osm_import
 
 # Sinandigan Wall
 
-A steep slope dropping to a sheer wall extending roughly 50 meters at 26-28 meters depth, decorated with gorgonians, featherstars, and sponges, with thresher shark sightings reported.
+A steep slope dropping to a vertical wall from roughly 10 to 30 meters, decorated with soft corals, tree corals, and an exceptional diversity of nudibranchs.
 
 ## Overview
 
-Sinandigan Wall begins as a steep slope before transitioning to a sheer vertical wall that extends approximately 50 meters at depths of 26-28 meters. The wall face is well-decorated with gorgonian sea fans, featherstars, sponges, and other encrusting life. Like nearby Kilima, this site has produced thresher shark sightings, adding a pelagic dimension to what is primarily a wall and macro dive. Visibility is typically good at around 25 meters, making the wall structure and its inhabitants easy to appreciate. Yellow sea cucumbers are a distinctive feature found along the wall.
+Sinandigan Wall begins as a steep slope before transitioning to a vertical wall running from around 10 meters down to about 30 meters, where it eases into a slope with large rock formations. Sources conflict on the wall's horizontal length: an earlier version of this description, based on a single source, described it as roughly 50 meters long, while Infinity Resort's site listing explicitly characterizes the wall as "not very long." Both figures are noted here rather than one being asserted as fact. The wall face is decorated with numerous soft corals, small fans, and large green tree corals, and Infinity Resort highlights an exceptional diversity of nudibranchs -- more than a dozen species counted on a single dive.
+
+An earlier version of this description also claimed thresher shark sightings and a distinctive yellow sea cucumber feature. Unlike nearby Kilima, where thresher sharks are corroborated by two independent sources, neither PADI's nor Infinity Resort's listings for Sinandigan Wall mention thresher sharks or sea cucumbers, so both claims have been removed as uncorroborated for this specific site.
 
 ## Site Information
 
@@ -26,25 +28,24 @@ Sinandigan Wall begins as a steep slope before transitioning to a sheer vertical
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: ~25 meters
-- **Current**: Variable
+- **Typical Visibility**: ~25 meters (single source)
+- **Current**: Variable, offering both drift and calmer conditions depending on timing
 - **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Gorgonian sea fans, featherstars, and sponges cover the wall face, creating a colourful vertical garden. Nudibranchs are found on the sponge- and coral-covered surfaces. Yellow sea cucumbers are a distinctive feature of this wall. Thresher sharks have been spotted here, so it is worth periodically scanning the blue water beyond the wall edge. The slope section above the wall supports additional reef life.
+Soft corals, small fans, and large green tree corals cover the wall face. Nudibranch diversity is the standout feature here, confirmed across sources, with Infinity Resort reporting more than a dozen species on a single dive. Moorish idols, lizardfish, zebra fish, lionfish, stonefish, and both powder-blue and ring-tailed surgeonfish are also reported along the wall.
 
 ## Dive Profile
 
-Descend along the slope to the wall's edge at 26-28 meters, where the sheer section extends approximately 50 meters. Explore the wall face, scanning gorgonians, sponges, and featherstars for nudibranchs and other small creatures. Keep an eye on the blue water for passing thresher sharks. The good visibility (~25 meters) makes it easy to appreciate the wall's scale. Work gradually shallower along the slope above the wall for the remainder of the dive. Monitor depth carefully as the wall drops beyond recreational limits.
+Descend along the slope to the wall's edge, where the vertical section runs from around 10 to 30 meters before easing into a rockier slope. Explore the wall face, scanning soft corals and tree corals for the site's varied nudibranch population. Work gradually shallower along the slope above the wall for the remainder of the dive.
 
 ## Tips and Recommendations
 
-- The wall extends roughly 50 meters -- plan your route to cover the most interesting sections
-- Watch the blue water off the wall edge for thresher sharks
-- Look for the distinctive yellow sea cucumbers along the wall face
-- Good visibility (~25 meters) makes this site rewarding for wide-angle photography of the wall structure
-- The slope above the wall offers additional nudibranchs and reef life for shallower exploration
+- This site is known above all for nudibranch diversity -- bring a macro lens and take your time
+- Look for Moorish idols and surgeonfish schooling along the wall
+- Good visibility makes this a rewarding site for wide-angle photography of the wall structure
+- Monitor depth carefully on the vertical sections of the wall
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1054). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1054), [PADI Dive Site: Sinandigan Wall](https://www.padi.com/dive-site/philippines/sinandigan-wall-3/), [Infinity Resort: Sinandigan Wall](https://www.infinityresort.com.ph/dive-sites/sinandigan-wall/). Last updated 2026-08-25.*

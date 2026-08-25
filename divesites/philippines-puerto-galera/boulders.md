@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Boulders
 
-A boulder-strewn slope south of Lighthouse Headland where large gorgonian fans harbour pygmy seahorses and the rubble is alive with nudibranchs and critters.
+A boulder-strewn slope south of Lighthouse Headland where jumbled rock formations create overhangs and hiding places for seahorses, frogfish, and scorpionfish.
 
 ## Overview
 
-Boulders sits on the seaward slope south of Puerto Galera's Lighthouse Headland, taking its name from the jumble of large rocks that tumble down the incline to around 30 meters. The boulders create sheltered pockets and overhangs that attract a rich variety of reef life, while the exposed faces are decorated with impressive gorgonian sea fans. Macro hunters will find this site particularly rewarding -- pygmy seahorses cling to the gorgonians, and the crevices between boulders hide nudibranchs and other invertebrates at every turn.
+Boulders sits on the seaward slope south of Puerto Galera's Lighthouse Headland, taking its name from the large rocks that tumble down the incline. Sources disagree considerably on maximum depth -- reports range from about 15 meters to as deep as 50 meters, so treat depth as variable depending on which section of the boulder field is dived. The boulders create sheltered pockets and overhangs that attract a rich variety of reef life, and the exposed faces support sea fans and other filter feeders. Local operators also note batfish and groupers using the boulder overhangs.
 
 ## Site Information
 
@@ -32,18 +32,18 @@ Boulders sits on the seaward slope south of Puerto Galera's Lighthouse Headland,
 
 ## Marine Life
 
-The gorgonian sea fans growing on the boulders are the main attraction, and patient divers with a keen eye can spot pygmy seahorses living among the fan branches. Blue-spotted stingrays rest on the sandy patches between rocks. Razorfish hover vertically near the substrate, while clownfish defend their host anemones. Nudibranchs are abundant throughout the site, found on sponges and coral surfaces across the slope.
+Seahorses have been reported among the site's sea fans and boulder crevices. Blue-spotted stingrays rest on sandy patches between rocks, and nudibranchs are found on sponges and coral surfaces across the slope. Local dive operators additionally report frogfish, scorpionfish, batfish, groupers, sweetlips, and pufferfish sheltering among the boulders. Octopus, cuttlefish, and jacks have also been noted in the water column and rock crevices.
 
 ## Dive Profile
 
-Descend to the boulder field and work along the slope, checking gorgonian fans for pygmy seahorses and scanning crevices between boulders for nudibranchs and stingrays. The maximum depth reaches approximately 30 meters at the base of the slope. Gradually work shallower during the second half of the dive, finishing with a safety stop.
+Descend to the boulder field and work along the slope, checking crevices and overhangs for frogfish, scorpionfish, and seahorses, and scanning sandy patches between boulders for stingrays. Gradually work shallower during the second half of the dive, finishing with a safety stop.
 
 ## Tips and Recommendations
 
-- Carry a magnifying glass or macro lens -- pygmy seahorses on gorgonians are tiny and easy to miss
 - Move slowly and check between boulders for blue-spotted stingrays resting on sand
 - A torch helps reveal nudibranch colours in the shadows between rocks
-- Ask your guide to point out the gorgonians most likely to host pygmy seahorses
+- Ask your guide about current conditions on this site, since current can be variable
+- Given the wide range of reported depths, confirm your planned profile with your guide before descending
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1057). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1057), [PADI Dive Site: Boulders](https://www.padi.com/dive-site/philippines/boulders/), [Action Divers Puerto Galera](https://www.actiondivers.com/dive-sites.html), [Capt'n Gregg's Dive Sites Chart](https://captngreggs.ph/dive-sites). Last updated 2026-08-25.*

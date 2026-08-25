@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # West Escareo
 
-A small bay west of Lighthouse Headland with a sandy bottom and small coral outcrops -- an unspectacular but pleasant dive with banded sea snakes, orangutan crabs, and nudibranchs.
+A sloping reef west of Lighthouse Headland (also known as West Escarceo) with a gently descending profile from coral into sand, notable for an unusually high abundance of scorpionfish and octopus.
 
 ## Overview
 
-West Escareo occupies a small bay west of Puerto Galera's Lighthouse Headland. The bottom is predominantly sandy with small coral outcrops scattered across it. By Puerto Galera's high standards, this is not the most spectacular site in the area -- but it still delivers reliable critter sightings including banded sea snakes, orangutan crabs in bubble coral, anemonefish, and nudibranchs. Visibility is typically around 20 meters, and the maximum depth of 24 meters keeps the dive well within recreational limits. It serves well as a relaxed second or third dive of the day.
+West Escareo, also listed as West Escarceo, occupies a stretch of reef west of Puerto Galera's Lighthouse Headland. Three independent sources -- PADI, Capt'n Gregg's, and BADLADZ -- describe a gently sloping reef starting around 5-8 meters and easing into sand by roughly 21-25 meters, with large coral boulders along the way. An earlier version of this description highlighted banded sea snakes and orangutan crabs hiding in bubble coral; neither claim could be corroborated by the additional sources checked during this review, so they have been replaced below with the marine life PADI specifically documents for this site.
 
 ## Site Information
 
@@ -26,25 +26,24 @@ West Escareo occupies a small bay west of Puerto Galera's Lighthouse Headland. T
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: ~20 meters
-- **Current**: Generally mild
+- **Typical Visibility**: Reported as consistently good by BADLADZ; ~20 meters per original source
+- **Current**: Generally mild, though PADI notes it can become a fast drift on a strong flood tide
 - **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Banded sea snakes are regularly seen hunting through the coral outcrops and across the sandy bottom. Orangutan crabs hide in bubble coral -- look for the small hairy crabs tucked into the coral's bulbous lobes. Anemonefish defend their host anemones on the scattered outcrops. Nudibranchs provide macro interest across the site. The sandy areas between outcrops may yield additional small finds for patient observers.
+PADI's listing reports an unusually high abundance of scorpionfish and octopus at this site, both noted for excellent camouflage, along with blue-spotted stingrays common in the deeper sandy areas. Large puffer fish and big groupers are also reported as reliable sightings. Capt'n Gregg's additionally notes triggerfish and whip corals. Nudibranchs and anemonefish, typical of Puerto Galera's reefs generally, likely also occur here, though no site-specific report of them was found during this review.
 
 ## Dive Profile
 
-Descend to the sandy bottom and navigate between the small coral outcrops, checking each for anemonefish, nudibranchs, and orangutan crabs in bubble coral. Watch for banded sea snakes moving through the area. The site is relatively compact, so there is time to explore thoroughly at a relaxed pace. Maximum depth is approximately 24 meters. Work gradually shallower through the outcrops and finish with a safety stop.
+Descend onto the sloping reef and work from the shallower coral boulders down toward the sandy bottom, checking for scorpionfish and octopus using their camouflage along the way. Watch the deeper sand for blue-spotted stingrays. The site is suitable for a relaxed pace in calm conditions, or a fast drift when the flood tide is running.
 
 ## Tips and Recommendations
 
-- Look for orangutan crabs in bubble coral -- they are small and well-camouflaged
-- Keep an eye out for banded sea snakes, which are common here
-- A good site for a relaxed second or third dive of the day
-- Macro photography is more rewarding than wide-angle at this site
-- Not Puerto Galera's most dramatic site, but reliable for critter encounters
+- Look carefully for scorpionfish and octopus -- both are reported here in unusually high numbers but rely on camouflage
+- Check deeper sandy patches for blue-spotted stingrays
+- Ask your guide about current conditions, since a strong flood tide turns this into a fast drift
+- A good site for a relaxed second or third dive of the day in calmer conditions
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1063). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1063), [PADI Dive Site: West Escarceo](https://www.padi.com/dive-site/philippines/west-escarceo/), [BADLADZ Puerto Galera Dive Sites](https://www.badladz.com/puerto-galera-dive-sites/), [Capt'n Gregg's Dive Sites Chart](https://captngreggs.ph/dive-sites), [Action Divers Puerto Galera](https://www.actiondivers.com/dive-sites.html). Last updated 2026-08-25.*

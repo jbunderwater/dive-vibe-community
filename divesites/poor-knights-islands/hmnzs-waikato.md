@@ -13,19 +13,21 @@ addedBy: osm_import
 
 # HMNZS Waikato
 
-New Zealand's first Leander-class frigate, 113.4 meters long, scuttled in 2000 off Tutukaka and sunk in a world-record time of 2 minutes 40 seconds. Now resting on her port side in two sections at 28-32 meters with easy penetration opportunities and dramatic gun emplacements.
+New Zealand's first Leander-class frigate, scuttled off Tutukaka in late 2000 to become one of the country's most popular wreck dives. Now resting on her port side in two sections, with the shallowest part of the wreck around 12-15 meters and the sand at 28-32 meters.
 
 ## Overview
 
-HMNZS Waikato was the first of the Leander-class frigates built for the Royal New Zealand Navy, laid down on 10 January 1964 at Harland and Wolff in Belfast, Ireland, and launched on 18 February 1965 by Princess Alexandra. At 113.4 meters long, 12.5 meters beam, and 5.5 meters draft, she was a substantial warship displacing 2,990 tonnes and armed with twin 4.5-inch (114mm) guns, 20mm Oerlikon cannons, Seacat anti-aircraft missiles, torpedo tubes, and a Westland WASP helicopter, with a complement of 245. She was commissioned on 19 September 1966.
+HMNZS Waikato was the first of the Leander-class frigates built for the Royal New Zealand Navy, constructed by Harland and Wolff in Belfast, Ireland. Sources disagree on her launch year: Wikipedia records her as laid down 10 January 1964 and launched 18 February 1965, while nzdiving.co.nz gives the launch as 18 February 1966; both agree she was commissioned in September 1966. At 113-113.4 metres long and roughly 12-12.5 metres beam, she carried twin 4.5-inch (114mm) guns, a Seacat surface-to-air missile system, and torpedo tubes, with a complement of 245.
 
-After decommissioning on 3 July 1998, the Waikato was sold for $1 and prepared as a dive attraction with large openings cut into the hull to make entry and exit safe for trained wreck divers. She was deliberately sunk off Ngunguru Bay near Tutukaka in late 2000. Sources give conflicting dates for the scuttling: the National Museum of the Royal New Zealand Navy records 11 November 2000, while nzdiving.co.nz and other dive operators cite 25 November 2000; the world-record scuttling time of 2 minutes 40 seconds is reported by nzdiving.co.nz. During the scuttling, the bow separated from the hull before it reached the seabed, creating the two-section dive site.
+Sources also disagree on her displacement: the National Museum of the Royal New Zealand Navy records 2,990 tonnes, while Wikipedia gives 2,450 tons standard displacement (3,200 tons full load) -- both figures are reported here rather than picking one.
 
-The wreck now lies on her port side at approximately 45 degrees to the sand, broken into two sections. The bow section with the twin 4.5-inch guns has separated from the main hull. The shallowest part of the wreck is only 12-14 meters from the surface, with the sand at 28-32 meters, making it accessible across a range of depths.
+After decommissioning in 1998, the Waikato was prepared as a dive attraction, with large openings cut into the hull for safe diver access. She was deliberately scuttled off Tutukaka as an artificial reef. Her exact scuttling date is unresolved across sources: the National Museum of the Royal New Zealand Navy records 11 November 2000, dive-charter operators (nzdiving.co.nz and others) cite 25 November 2000, and Wikipedia records 18 December 2000. Dive-operator sources describe the sinking as completed in a "world-record time of 2 minutes 40 seconds," a claim repeated across several Tutukaka dive-charter pages but not independently verified by the Navy Museum or Wikipedia, so it is reported here as an operator claim rather than an established fact.
+
+The wreck now lies on her port side, broken into two sections -- the bow, carrying the twin 4.5-inch guns, separated from the main hull. Sources do not agree on exactly how or when the separation happened, so no specific mechanism is claimed here. The shallowest part of the wreck is roughly 12-15 metres from the surface, with the sand at 28-32 metres.
 
 ## Site Information
 
-- **Location**: Off Ngunguru Bay, Tutukaka Coast, Northland, New Zealand
+- **Location**: Off Tutukaka Coast, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -37,11 +39,11 @@ The wreck now lies on her port side at approximately 45 degrees to the sand, bro
 
 ## Marine Life
 
-The wreck structure attracts schools of fish that shelter within and around the hull. Kelp growth on the exposed starboard surfaces adds to the reef-like character. The twin-wreck area (combining with the nearby HMNZS Tui) creates a substantial artificial reef system off the Tutukaka Coast. Marine life has not been extensively documented at this site in available sources.
+Available sources describe the wreck primarily in structural terms rather than documenting specific marine life sightings. Kelp growth is reported on the exposed starboard surfaces, and the wreck functions as an artificial reef alongside the nearby HMNZS Tui. No source-confirmed list of fish or invertebrate species specific to this wreck was found; regional Poor Knights/Tutukaka Coast fauna likely applies, but should not be presented as specific to this site without a source.
 
 ## Dive Profile
 
-Descend the mooring line to the wreck. The starboard side is at 12-15 meters, providing an accessible starting point. From here, divers can explore along the hull, viewing the break between bow and stern sections where the internal deck levels are exposed. The twin 4.5-inch (114mm) guns at the bow, the helicopter hangar, the bridge, the radar mast, and the propeller at the stern are key highlights. Large openings cut for diver access make the wreck suitable as a penetration training site for qualified divers. The ship's dramatic 45-degree tilt can create a disorienting sensation, especially combined with kelp movement from swell.
+Descend the mooring line to the wreck. The starboard side at 12-15 metres provides an accessible starting point, with the break between bow and stern sections visible where internal deck levels are exposed. The twin 4.5-inch guns at the bow, the helicopter hangar, the bridge, the radar mast, and the propeller at the stern are the commonly cited highlights. Large openings cut for diver access make the wreck suitable as a penetration training site for qualified divers. The hull's tilt combined with kelp movement from swell can be disorienting.
 
 ## Entry and Exit
 
@@ -49,14 +51,14 @@ Access is by dive boat from Tutukaka marina. The site is in a more exposed locat
 
 ## Tips and Recommendations
 
-- The twin 4.5-inch guns at the bow, the helicopter hangar, shell storage compartments, and the propeller are the must-see features
-- The 45-degree tilt of the hull can be disorienting -- use the mooring line and surrounding water column as orientation references
-- Large openings cut into the hull make this an excellent wreck penetration training site
+- The twin 4.5-inch guns at the bow, the helicopter hangar, shell storage compartments, and the propeller are the must-see structural features
+- The tilt of the hull can be disorienting -- use the mooring line and surrounding water column as orientation references
+- Large openings cut into the hull make this a commonly used wreck-penetration training site
 - Combine with the HMNZS Tui for a twin-wreck day trip from Tutukaka
 
 ## Safety Considerations
 
-Advanced Open Water certification is required. The exposed location means sea conditions and visibility can change; follow the operator's assessment of conditions. The wreck's tilt combined with kelp movement from swell can cause vertigo -- maintain visual reference to fixed points. Penetration requires wreck diving certification. Loose metal edges exist where the hull has separated; maintain good buoyancy throughout. Adequate thermal protection is essential in New Zealand's temperate waters.
+Advanced Open Water certification is required. The exposed location means sea conditions and visibility can change; follow the operator's assessment of conditions. The wreck's tilt combined with kelp movement from swell can cause disorientation -- maintain visual reference to fixed points. Penetration requires wreck diving certification. Loose metal edges exist where the hull has separated; maintain good buoyancy throughout. Adequate thermal protection is essential in New Zealand's temperate waters.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [NZ Diving - HMNZS Tui & Waikato](https://nzdiving.co.nz/hmnzs-tui-waikato/), [Dive Now - Waikato Wreck](https://divenow.co.nz/waikato-wreck/), [National Museum of the Royal New Zealand Navy - HMNZS Waikato](https://navymuseum.co.nz/explore/by-collections/ships/waikato-frigate/), [Wikipedia - HMNZS Waikato (F55)](https://en.wikipedia.org/wiki/HMNZS_Waikato_(F55)), [Submerged - HMNZS Waikato](https://www.submerged.co.uk/waikato/). Last updated 2026-06-18.*
+*Sources: [Wikipedia - HMNZS Waikato (F55)](https://en.wikipedia.org/wiki/HMNZS_Waikato_(F55)), [National Museum of the Royal New Zealand Navy - HMNZS Waikato](https://navymuseum.co.nz/explore/by-collections/ships/waikato-frigate/), [NZ Diving - HMNZS Tui & Waikato](https://nzdiving.co.nz/hmnzs-tui-waikato/), [Dive Now - Waikato Wreck](https://divenow.co.nz/waikato-wreck/). Last updated 2026-08-25.*

@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "philippines-puerto-galera",
-    "philippines-tubbataha-reefs",
-    "poor-knights-islands",
-    "port-cros",
-    "portugal",
-    "providencia-island",
     "puerto-rico",
     "puerto-vallarta",
     "puget-sound",
@@ -174,7 +168,13 @@
     "philippines-bohol",
     "philippines-donsol",
     "philippines-malapascua",
-    "philippines-palawan"
+    "philippines-palawan",
+    "philippines-puerto-galera",
+    "philippines-tubbataha-reefs",
+    "poor-knights-islands",
+    "port-cros",
+    "portugal",
+    "providencia-island"
   ],
   "history": [
     {
@@ -3509,6 +3509,27 @@
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/152",
       "errors": []
+    },
+    {
+      "date": "2026-08-25",
+      "slugs": [
+        "philippines-puerto-galera",
+        "philippines-tubbataha-reefs",
+        "poor-knights-islands",
+        "port-cros",
+        "portugal",
+        "providencia-island"
+      ],
+      "summary": {
+        "sites_total": 83,
+        "sites_validated_today": 40,
+        "sites_re_audited": 73,
+        "hallucinations_removed": 39,
+        "marine_life_stripped": 34,
+        "wreck_conflicts_flagged": 10,
+        "sites_unresolved": 13
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/162"
     }
   ]
 }

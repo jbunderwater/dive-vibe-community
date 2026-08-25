@@ -10,27 +10,28 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-06-26"
+      "note": "Re-audited 2026-08-25. Depth, terrace/wall/labyrinth structure, and gentle-current characterization confirmed by both Felipe Diving Shop and The Dive Shop Old Providence site directories, in addition to prior sources. Underwater Christ statue at ~24m corroborated independently by both Pelecanus Colombia and The Dive Shop Old Providence.",
+      "last_qa_date": "2026-08-25"
     },
     "validated": true,
-    "validation_source": "justgottadive.com,myscubadivinggearguide.com,pelecanus.com.co"
+    "validation_source": "justgottadive.com,pelecanus.com.co,myscubadivinggearguide.com,felipedivingshop.com,thediveshopoldprovidence.com"
   },
   {
     "name": "Manta's City",
     "lat": 13.315,
     "lon": -81.3744,
-    "depth": 20,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "note": "Depth of 20m is consistent with multiple sources describing this as a shallow site. Manta ray sightings not confirmed by site-specific sources; name reflects designation only.",
-      "last_qa_date": "2026-06-26"
+      "note": "Re-audited 2026-08-25. Depth corrected from 20m to 12m: both Felipe Diving Shop (9m/30ft) and The Dive Shop Old Providence (5-12m) place this site much shallower than the prior 20m figure. Manta ray sightings still not confirmed by any site-specific source; name reflects designation only. scubadiving.com dropped as a source -- it does not actually name this site in a fresh re-check.",
+      "last_qa_date": "2026-08-25"
     },
     "validated": true,
-    "validation_source": "myscubadivinggearguide.com,andadiwata.com,scubadiving.com"
+    "validation_source": "andadiwata.com,felipedivingshop.com,thediveshopoldprovidence.com"
   },
   {
     "name": "Nick's Place",
@@ -43,10 +44,11 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-06-26"
+      "note": "Re-audited 2026-08-25. justgottadive.com and myscubadivinggearguide.com dropped as sources -- neither page actually names Nick's Place on a fresh re-check. Replaced with two dive-shop site directories (Felipe Diving Shop, The Dive Shop Old Providence) that both name and describe the site directly, plus Pelecanus. Depth (~40m/130ft) confirmed by two independent operators. Creole wrasse/black grouper claim from prior pass could not be re-confirmed against a direct, fetchable source and was removed; marine life updated to match what the dive-shop directories actually state.",
+      "last_qa_date": "2026-08-25"
     },
     "validated": true,
-    "validation_source": "myscubadivinggearguide.com,justgottadive.com,pelecanus.com.co"
+    "validation_source": "pelecanus.com.co,felipedivingshop.com,thediveshopoldprovidence.com"
   },
   {
     "name": "The Pinnacle",
@@ -59,10 +61,11 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-06-26"
+      "note": "UN-VALIDATED 2026-08-25 (was validated=true). Re-audit found the prior validation_source citations for pelecanus.com.co and myscubadivinggearguide.com do not actually mention this site -- a fresh fetch of both pages lists other named Providencia sites but no 'Pinnacle' or 'Peak'. Two comprehensive local dive-shop site directories (Felipe Diving Shop and The Dive Shop Old Providence, each naming 20-25+ Providencia sites) also do not list a Pinnacle/Peak site. Only seacrush.com (a third-party dive-travel aggregator, not a local operator) independently confirms a pinnacle-type site called 'The Peak' with pelagic/manta encounters. That is one genuine independent source, short of the 3-domain bar. Left validated=false rather than padding with the disproven citations. Site_type/depth/difficulty left as-is pending a real second source.",
+      "last_qa_date": "2026-08-25"
     },
-    "validated": true,
-    "validation_source": "seacrush.com,pelecanus.com.co,myscubadivinggearguide.com"
+    "validated": false,
+    "validation_source": "seacrush.com"
   },
   {
     "name": "Stairway to Heaven",
@@ -75,10 +78,11 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-06-26"
+      "note": "Re-audited 2026-08-25. Depth (24-52m), sandy-channel/step-formation structure, and expert-only characterization reconfirmed across four independent sources including a new dive-shop citation (Felipe Diving Shop). Pelecanus Colombia independently confirms the site is considered one of the most demanding at the destination, with a recommended bottom-time limit of about 5 minutes at depth.",
+      "last_qa_date": "2026-08-25"
     },
     "validated": true,
-    "validation_source": "justgottadive.com,myscubadivinggearguide.com,pelecanus.com.co"
+    "validation_source": "justgottadive.com,myscubadivinggearguide.com,pelecanus.com.co,felipedivingshop.com"
   },
   {
     "name": "Crab Cay Reef",
@@ -91,27 +95,28 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "last_qa_date": "2026-06-26"
+      "note": "Re-audited 2026-08-25. myscubadivinggearguide.com and tripadvisor.com dropped as sources -- the former does not name Crab Cay on a fresh re-check, and the latter's review pages returned 403/blocked on direct fetch. Replaced with trans-americas.com and the Wikipedia entry for Old Providence McBean Lagoon National Natural Park (confirms Crab Cay/Cayo Cangrejo as one of the park's four cays). Triggerfish, needlefish, red snapper, and 'small shark near the pier' claims from the prior pass came only from the now-dropped sources and were removed; marine life narrowed to what roads-and-rivers.com and trans-americas.com actually report (turtles, stingrays, general reef fish). No source gives a precise depth figure; multiple sources describe it only as shallow/'not really deep', so the 12m figure remains an estimate, not a confirmed measurement.",
+      "last_qa_date": "2026-08-25"
     },
     "validated": true,
-    "validation_source": "roads-and-rivers.com,tripadvisor.com,myscubadivinggearguide.com"
+    "validation_source": "roads-and-rivers.com,trans-americas.com,en.wikipedia.org"
   },
   {
-    "name": "Blue Diamond",
+    "name": "El Planchon",
     "lat": 13.335,
     "lon": -81.39,
-    "depth": 14,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "note": "LOCATION CONFLICT: All major dive databases (PADI, Zentacle, DiveAdvisor) place the 'Blue Diamond' / Barco Hundido wreck at San Andrés island (coords ~12.53N, -81.74W), not Providencia (~13.3N). The Providencia wreck is El Planchon. This entry coordinates (13.335) are in Providencia waters. The local Providencia wreck name 'Blue Diamond' is used by some operator sources (myscubadivinggearguide.com) but conflicts with the well-documented San Andrés wreck of the same name. Vessel identity, sinking date, and exact history unverified. Do not mark fully validated until location conflict resolved.",
-      "last_qa_date": "2026-06-26"
+      "note": "RENAMED 2026-08-25 from 'Blue Diamond' to 'El Planchon' after deep wreck-history research. Multiple independent, authoritative sources (PADI, Scuba Diving Magazine, Zentacle, DiveAdvisor, colombiacorners.com) place the 'Blue Diamond'/Barco Hundido wreck definitively off San Andres island (~12.53N, -81.74W), well outside Providencia's bounds -- confirming the prior entry's location-conflict flag. A fresh re-check of myscubadivinggearguide.com found it does NOT reference 'Blue Diamond' at all; it names Providencia's actual wreck 'Planchon'. Providencia's genuine, well-documented wreck is 'El Planchon' (PADI's Spanish-language listing gives coordinates 13.37167,-81.41796, within Providencia bounds), a WWII-era cargo/petroleum tanker lying capsized/inverted, coral-colonized, penetration not permitted. Depth reported 15-24m across sources (Joe's Scuba Shack: 15m; The Dive Shop Old Providence: 18-24m); set to 24m (upper bound) here. A separate PADI listing named 'El Planchon' at Isla Fuerte (9.36N, -76.18W) with an unrelated 1984 sinking is a DIFFERENT wreck sharing the generic name and is not this site -- not a genuine conflict once the location is checked, so not treated as one. The claim that the vessel resupplied German submarines and was scuttled by its own crew near the end of WWII traces to local guide oral history reported independently by two sources (waterpixels.net names the guide; hoteldeepblue.com corroborates 'German tanker'); no ship name, build date, or tonnage could be confirmed by any source, and a single-source-only length figure (~30m) was omitted rather than included on one citation. Difficulty raised from Beginner to Intermediate per The Dive Shop Old Providence's own rating and the confirmed depth.",
+      "last_qa_date": "2026-08-25"
     },
-    "validated": false,
-    "validation_source": "padi.com,myscubadivinggearguide.com"
+    "validated": true,
+    "validation_source": "padi.com,myscubadivinggearguide.com,waterpixels.net,hoteldeepblue.com,felipedivingshop.com,thediveshopoldprovidence.com"
   },
   {
     "name": "Tete's Place",
@@ -124,28 +129,28 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "note": "Depth 7-9m confirmed by multiple sources. Pillar coral presence confirmed. 'Fishiest' site designation confirmed by local operator sources.",
-      "last_qa_date": "2026-06-26"
+      "note": "Re-audited 2026-08-25. scubadiving.com dropped as a source -- a fresh fetch returned a garbled/contradictory extraction (attributing 'cave formations' to this site, which conflicts with every other source describing a shallow coral shoal, and looks like a site mix-up in extraction rather than a genuine claim). Replaced with two dive-shop directories. Squirrelfish, peacock flounder, and yellow-spotted stingray from the prior pass could not be re-confirmed and were removed. Sweetlips, puffer fish, nurse sharks, rockfish, jacks, and occasional bottlenose dolphins are newly confirmed by waterpixels.net and/or The Dive Shop Old Providence.",
+      "last_qa_date": "2026-08-25"
     },
     "validated": true,
-    "validation_source": "myscubadivinggearguide.com,scubadiving.com,waterpixels.net"
+    "validation_source": "myscubadivinggearguide.com,waterpixels.net,felipedivingshop.com,thediveshopoldprovidence.com"
   },
   {
     "name": "Convento Reef",
     "lat": 13.383,
     "lon": -81.362,
-    "depth": 15,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "note": "Site existence confirmed by Felipe Diving Facebook post showing parrotfish at 'El Convento, Providencia'. No independent site-specific depth, marine life, or description sources found beyond this confirmation.",
-      "last_qa_date": "2026-06-26"
+      "note": "VALIDATED 2026-08-25 (was validated=false pending sources). Two dive-shop site directories found and fetched today: Felipe Diving Shop (60-140ft, mound coral formation, multi-level) and The Dive Shop Old Providence (16-40m, platform with sandy areas and western wall, Intermediate). Depth corrected from a 15m placeholder to 24m (mid-range, consistent with the Intermediate rating); difficulty raised from Beginner to Intermediate to match. Site existence also still confirmed by the original Felipe Diving Facebook post.",
+      "last_qa_date": "2026-08-25"
     },
-    "validated": false,
-    "validation_source": "facebook.com/felipediving"
+    "validated": true,
+    "validation_source": "felipedivingshop.com,thediveshopoldprovidence.com,facebook.com"
   },
   {
     "name": "Table Rock",
@@ -158,10 +163,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "note": "Depth 2-8m confirmed by multiple sources. Cave/cavern with interconnected passages, nurse sharks, silversides confirmed. Suitable for snorkelers and all diver levels.",
-      "last_qa_date": "2026-06-26"
+      "note": "Re-audited 2026-08-25. scubaboard.com thread dropped as a source -- a fresh re-read of that specific thread confirms it does not mention Table Rock at all (it discusses Stairway to Heaven, Felipe's Place, and Turtle Rock, a different site). Replaced with Felipe Diving Shop, which independently names Table Rock as a cavern/patch-reef site at Basic difficulty. Depth, cave/cavern structure, and nurse shark and silversides presence reconfirmed by myscubadivinggearguide.com and hoteldeepblue.com.",
+      "last_qa_date": "2026-08-25"
     },
     "validated": true,
-    "validation_source": "myscubadivinggearguide.com,hoteldeepblue.com,scubaboard.com"
+    "validation_source": "myscubadivinggearguide.com,hoteldeepblue.com,felipedivingshop.com"
   }
 ]

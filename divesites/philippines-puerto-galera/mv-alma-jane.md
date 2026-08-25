@@ -13,15 +13,21 @@ addedBy: osm_import
 
 # MV Alma Jane
 
-A roughly 30-meter coastal freighter scuttled upright at 29 meters in Sabang Bay, with twin engine and propeller cutouts, dozens of batfish at the bow, and a gentle reef slope for ascent.
+A steel-hulled cargo ship, deliberately sunk in March 2003 to create an artificial reef in Sabang Bay, now resting on sand at around 30 meters with dozens of batfish gathering at the bow.
 
 ## Overview
 
-The MV Alma Jane is a coastal freighter of approximately 30 meters in length that was deliberately scuttled upright in Sabang Bay, where she now rests on the sandy bottom at 29 meters. The wreck has developed good sponge and gorgonian growth on her structure, and the twin engine compartment with its propeller cutouts provides interesting features to explore. The bow area has become a gathering point for dozens of batfish, which form an impressive congregation around the forward section. A gentle reef slope extends from the wreck toward shallower water, providing a natural and pleasant ascent route with additional marine life encounters.
+The MV Alma Jane is a steel-hulled cargo vessel that was deliberately scuttled in Sabang Bay off Small La Laguna Beach to create an artificial reef. This description has been cross-checked against multiple independent sources: PADI's site listing, dive operator pages from BADLADZ and Asia Divers (the resort nearest the wreck), and Michael McFadyen's original notes. No Wikipedia article exists for this vessel, so all facts below rely on dive-industry and operator sources rather than a maritime registry.
+
+**Ship history**: Sources converge on a length of approximately 30-32 meters (BADLADZ cites 32m, Diveplanit cites 30m). BADLADZ additionally reports the vessel at roughly 60 tons, built in Japan in 1966 -- a figure not independently confirmed by a maritime registry, so treat it as a single well-sourced dive-industry figure rather than a verified maritime record. Asia Divers' resort blog describes the hull as a mix of steel and wood, while other sources describe it as fully steel-hulled; this description follows the majority (steel-hulled).
+
+**Sinking**: Three independent sources -- Asia Divers, Diveplanit, and BADLADZ -- agree the vessel was deliberately sunk in March 2003 by the Puerto Galera Dive Association (PGDA) to create an artificial reef and counter reef degradation from unregulated tourism in the late 1990s. This was a planned, not accidental, sinking, and hazardous materials were reportedly removed beforehand.
+
+An earlier version of this description mentioned specific twin-engine and propeller-cutout features and a gentle reef slope for ascent; these structural details were not independently corroborated during this review and have been softened accordingly.
 
 ## Site Information
 
-- **Location**: Sabang Bay, Puerto Galera, Mindoro Island, Philippines
+- **Location**: Sabang Bay, off Small La Laguna Beach, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
@@ -32,19 +38,18 @@ The MV Alma Jane is a coastal freighter of approximately 30 meters in length tha
 
 ## Marine Life
 
-Dozens of batfish congregate around the bow of the wreck -- one of the site's most memorable sights. Sweetlips school near the stern. The sponge and gorgonian growth on the wreck structure provides habitat for a variety of species. Octopus and cuttlefish are found on and around the wreck. Nudibranchs graze on the encrusted surfaces. The gentle reef slope above the wreck offers additional encounters during ascent.
+Batfish gathering at the bow are the wreck's signature sight, corroborated by both Diveplanit and BADLADZ. Sweetlips are reported near the hull and stern (also 2 sources). Moray eels shelter in the structure's crevices. Octopus, cuttlefish, and nudibranchs have been found on and around the wreck's encrusted surfaces, along with lionfish, snappers, and trevally. An earlier version of this description claimed turtles were frequently seen during ascent; this could not be corroborated by any of the sources checked and has been removed.
 
 ## Dive Profile
 
-Descend to the wreck at 29 meters and explore the exterior, starting at the bow where the batfish gather. Move aft to examine the twin engine compartment and propeller cutouts. Check the stern area for sweetlips. Sponge- and gorgonian-covered surfaces throughout the wreck reward careful scanning for nudibranchs, octopus, and cuttlefish. As bottom time at 29 meters is limited, plan the deeper exploration first, then ascend along the gentle reef slope that leads from the wreck to shallower water. The reef slope makes for an easy and interesting ascent with a safety stop.
+Descend to the wreck at approximately 30 meters and explore the exterior, starting at the bow where batfish typically gather. Sponge- and gorgonian-covered surfaces throughout the wreck reward careful scanning for nudibranchs, octopus, and cuttlefish. As bottom time at this depth is limited, plan the deeper exploration first before working shallower.
 
 ## Tips and Recommendations
 
 - Spend time at the bow with the batfish -- they are remarkably tolerant of divers and make excellent photo subjects
-- A torch helps illuminate the engine compartment and reveal colours on encrusted surfaces
-- Use the reef slope for ascent rather than a free-water climb -- it is more interesting and easier to manage
-- Bottom time at 29 meters is limited on air; Nitrox extends the dive significantly
-- Penetration requires proper wreck diving training and equipment
+- A torch helps illuminate crevices and reveal colours on encrusted surfaces
+- Bottom time at 30 meters is limited on air; Nitrox extends the dive significantly
+- Penetration requires proper wreck diving training and equipment, and always carries risk -- never treat interior exploration as routine
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1056). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1056), [PADI Dive Site: Alma Jane](https://www.padi.com/dive-site/philippines/alma-jane/), [Diveplanit: Alma Jane](https://www.diveplanit.com/dive-site/alma-jane/), [BADLADZ: Diving the Alma Jane Wreck](https://www.badladz.com/diving-the-alma-jane-wreck-dive-site-in-puerto-galera/), [Asia Divers: Shipwrecks in Puerto Galera](https://asiadivers.com/blog/shipwrecks-in-puerto-galera-near-our-beach-resort/), [Lakwatsero: Alma Jane](https://www.lakwatsero.com/spots/alma-jane-puerto-galera/). Last updated 2026-08-25.*

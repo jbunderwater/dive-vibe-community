@@ -3,7 +3,7 @@ name: Bird Islet Wall
 lat: 8.825
 lng: 119.8417
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: liveaboard
 siteType: wall
 ref: null
@@ -13,23 +13,23 @@ addedBy: osm_import
 
 ## Bird Islet Wall
 
-Bird Islet Wall is a wall dive site in Philippines Tubbataha Reefs, Asia.
+Bird Islet Wall drops off the north face of Tubbataha's North Atoll near Bird Islet — a seabird nesting site above the surface — into a sheer wall favored by resting and patrolling sharks.
 
 ## Overview
 
-Bird Islet Wall drops off the northern edge of Tubbataha's North Atoll in a sheer curtain draped with gorgonian fans and dense soft corals, with visibility regularly reaching 30-40 meters in the UNESCO World Heritage park's pristine Sulu Sea waters. The wall starts shallow at the reef top and plunges beyond recreational limits, drawing grey reef sharks, hammerheads, and the occasional whale shark cruising in the blue alongside schools of trevally and barracuda. This liveaboard-only site is accessible just three months a year, from mid-March to mid-June, when seas flatten and the park opens its gates.
+The wall begins in shallow water and drops steeply, with visibility regularly reaching 40 meters in the park's clear Sulu Sea waters. Around 40 meters, the wall forms a ledge or "lip" that is a favored patrolling ground for sharks, and the wall face itself is riddled with fissures and crevices where sharks rest. Huge gorgonians, barrel sponges, and soft corals cover the wall. This liveaboard-only site is accessible only from mid-March to mid-June, when seas are calm enough for the park to open.
 
 ## Site Information
 
-- **Location**: Philippines Tubbataha Reefs, Asia
+- **Location**: North face, North Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: liveaboard
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 
 ## Marine Life
 
-Bird Islet Wall is a classic Tubbataha pelagic site, with grey reef sharks and hammerheads patrolling the blue beyond the wall and whale sharks occasionally cruising past in the Sulu Sea's famously clear water. Dense schools of trevally and barracuda work the wall edge where the current runs, while hawksbill turtles and napoleon wrasse are steady fixtures on the gorgonian-draped wall face. The pristine hard coral reef top, protected as part of the UNESCO World Heritage park, supports dense populations of reef fish with high species diversity.
+Bird Islet Wall hosts a notably wide range of shark species for a single site: leopard sharks and nurse sharks rest in the wall's fissures and crevices, while blacktip, whitetip, and grey reef sharks patrol more actively, especially around the wall's lip. Both large and small manta rays are reported, along with lagoon rays and eagle rays. Turtles, flounders, snappers, surgeonfish, groupers, and moorish idols round out the reef fish community, with jacks and other pelagics passing in the blue.
 
 ---
-*Sources: [Bluewater Dive Travel Tubbataha Reef](https://www.bluewaterdivetravel.com/destination/tubbataha-reef-diving), [Divehappy Tubbataha Reef Guide](https://divehappy.com/diving-tubbataha-reef-a-quick-guide/), [Dive The World Tubbataha Philippines](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php), [WWF Tubbataha Reef Diving](https://wwf.panda.org/discover/knowledge_hub/where_we_work/coraltriangle/coraltrianglefacts/places/tubbatahareefphilippines/diving/), [Guide to the Philippines Tubbataha Diving](https://guidetothephilippines.ph/articles/adventure-and-outdoors/tubbataha-reef-philippines-diving-guide). Last updated 2026-04-04.*
+*Sources: [Just Gotta Dive — Eight Top Tubbataha Reef Dives](https://www.justgottadive.com/dive_resources/travel_articles/eight-top-tubbataha-reef-dives-bird-island-amos-rock), [Asia Dive Site — Bird Island](http://www.asiadivesite.com/philippines-dive-sites/tubbataha-reef/bird-island.php), [WWF — Tubbataha Reef Diving](https://wwf.panda.org/discover/knowledge_hub/where_we_work/coraltriangle/coraltrianglefacts/places/tubbatahareefphilippines/diving/). Last updated 2026-08-25.*

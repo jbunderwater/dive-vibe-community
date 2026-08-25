@@ -2,7 +2,7 @@
 name: Barney's Rock
 lat: -35.48
 lng: 174.745
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 15
 entryType: boat
 siteType: reef
@@ -13,72 +13,29 @@ addedBy: osm_import
 
 ## Barney's Rock
 
-The shallowest and most accessible Poor Knights dive site, Barney's Rock is perfect for building confidence and experience in New Zealand's most famous diving destination. The maximum depth of only 15 meters and reliable calm conditions make this ideal for newer divers, students, or those experiencing their first Poor Knights dive. The site still offers excellent reef life and marine biodiversity despite being beginner-friendly.
+This destination's record for "Barney's Rock" could not be verified against any Poor Knights Islands source during this review. A site by this exact name exists at Peketa, near Kaikoura -- a different, unrelated part of New Zealand -- which may be the origin of the name in this database.
 
 ## Overview
 
-Barney's Rock is Poor Knights' most accessible and beginner-friendly dive site. The shallow depth (15m maximum) allows extended bottom times and relaxed diving pace. Despite being suited to newer divers, the site offers legitimate Poor Knights reef diving with good marine life viewing and photographic opportunities. The site is frequently used for orientation dives, student training, and as part of multi-dive poor Knights trips for divers building their experience in cold-water, current-aware diving.
+Extensive research -- including Wikivoyage's detailed Poor Knights dive-site listing (roughly 40 named sites across the island group), seafriends.org.nz's quadrant-by-quadrant dive guides, a divepacific.co.nz article citing "around 80 recognised dive sites" at the Poor Knights, and searches of major Tutukaka dive operators -- turned up no site named "Barney's Rock" at the Poor Knights Islands. The only "Barney's Rock" found in New Zealand diving sources is a shallow site near a seal colony at Peketa, Kaikoura, roughly 700km away on the South Island.
+
+Given this, the description that previously appeared here (attributing specific depth, marine life, and "beginner-friendly" character to a Poor Knights site of this name) could not be confirmed and has been removed rather than repeated. The coordinates, depth, and difficulty rating carried in this record are unverified and should be treated with caution until the site can be identified under its correct name or confirmed to exist.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Northland, New Zealand
+- **Location**: Poor Knights Islands, Northland, New Zealand (unconfirmed)
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15-30 meters (excellent for beginner confidence)
-- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
-- **Current**: Minimal; very manageable
-- **Best Time**: Year-round; excellent for all season diving
 
 ## Marine Life
 
-Barney's Rock supports solid reef biodiversity:
-- Hard corals and soft corals
-- Sponges and anemones
-- Kingfish, snapper, and trevally
-- Schooling blue maomao and pink maomao
-- Moray eels and nudibranchs
-- Small reef fish and invertebrates
-- Starfish and other invertebrates
+No site-specific marine life source exists, because the site itself could not be confirmed. No species should be attributed here until the site is verified.
 
-## Dive Profile
+## Recommendation
 
-Descend to the shallow reef and explore at whatever pace feels comfortable. Fifteen meters maximum depth is forgiving for buoyancy control and air management. Work around the reef structure, examining both the larger formations and smaller creatures. Take time to observe fish behaviour and get comfortable with Poor Knights' cold water and marine conditions. Many operators use this as an orientation dive before deeper Poor Knights dives. The shallow depth and minimal current allow you to focus on becoming comfortable with the environment.
-
-## Entry and Exit
-
-Boat entry via giant stride directly to the reef. Your guide will indicate the reef structure and marine life. Exit is via ascent and boat pickup at the surface.
-
-## Tips and Recommendations
-
-- **Perfect first Poor Knights dive**: Ideal for orientation before tackling deeper sites
-- **Student/newer diver friendly**: The shallow depth allows focus on technique and observations
-- **Confidence building**: The manageability of this site makes it excellent for building comfort in New Zealand diving
-- **Longer exploration time**: The shallow depth allows extended bottom times for thorough reef observation
-- **Photography practice**: A good site to work on underwater photography skills without depth pressure
-- **Snorkel option**: Even snorkelers can enjoy the shallow reef portions
-- **Use as dive number 1 of a multi-dive day**: Build confidence before deeper sites
-
-## Safety Considerations
-
-- Excellent beginner-level reef dive
-- Very manageable depth allows focus on technique
-- Minimal current; easy to stay oriented
-- Cold water still requires appropriate thermal protection
-- Suitable for newly certified divers and those building Poor Knights experience
-- Always dive with a buddy
-- Good practice for buoyancy control on reef environments
-
-## Photography
-
-Barney's Rock is excellent for developing underwater photography skills:
-- **Macro**: Small reef creatures in relaxed shooting conditions
-- **Wide-angle**: Reef composition without depth pressure
-- **Fish behaviour**: Lower-light reef situations without deep-dive nitrogen loading effects
-- **Composition practice**: Plenty of time for thoughtful shot composition
-- **Lighting practice**: Shallow depth provides good natural light for colour work
-- The relaxed pace allows detailed photographic exploration without air pressure
+This entry should be flagged for manual review: either the site exists under this name and simply lacks an online footprint (possible for a minor, informally-named local dive spot), or it was miscopied from the unrelated Kaikoura site of the same name, or it is a duplicate/alternate name for one of the ~80 recognised Poor Knights sites under a different label. A local Tutukaka dive operator would be the fastest way to resolve this.
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [NZ Diving - Poor Knights](https://nzdiving.co.nz/the-poor-knights/), [DOC - Poor Knights Islands Marine Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/), [New Zealand Tourism](https://www.newzealand.com/us/poor-knights-islands/). Last updated 2026-06-18.*
+*No site-specific sources found; existence of a Poor Knights site under this name could not be confirmed. Last updated 2026-08-25.*
