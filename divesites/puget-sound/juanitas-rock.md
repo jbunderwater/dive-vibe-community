@@ -33,7 +33,7 @@ Juanitas Rock is a submerged rocky pinnacle in Saratoga Passage, the channel run
 
 ## Marine Life
 
-Giant Pacific octopus are the standout species at Juanitas Rock — the pinnacle's boulder fields provide ideal den conditions. Wolf eels are present in the rock crevices. Lingcod and copper rockfish use the pinnacle as a structural reference and hunting ground. The soft-bottom margins around the base of the pinnacle support Dungeness crabs, spotted ratfish, and flatfish including Pacific halibut in deeper areas. Plumose anemones and encrusting sponges cover the rock faces, with nudibranchs and tube worms filling the spaces between.
+No source specific to Juanitas Rock confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding Saratoga Passage waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed saratoga passage / puget sound rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Position the boat on the down-current side. Back-roll or giant
 
 ## Tips
 
-- The sandy areas around the base of the pinnacle are worth investigating for ratfish and halibut — often overlooked in favour of the rock
-- Octopus dens on this pinnacle are documented — the local charter boat operators know the locations
-- Inner Sound sites like this can have better visibility in winter and spring before the annual plankton bloom
-- The Whidbey Island area has multiple additional shore and boat dive sites nearby for a full diving weekend
+- No site-specific trip reports were located for Juanitas Rock -- treat the notes above as general saratoga passage / puget sound guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Cold water requires appropriate dry suit equipment. Saratoga Passage has commerc
 
 ## Photography
 
-The octopus dens and wolf eel encounters make Juanitas Rock productive for close-focus wide-angle photography. The pinnacle structure, shot from the sandy base looking upward, provides scale. Macro work on the encrusted rock faces is detailed and colourful with artificial lighting.
+No site-specific photography reports were found for Juanitas Rock. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of saratoga passage / puget sound reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Description based on regional diving characteristics (Saratoga Passage/Puget Sound glacial erratic pinnacle). No site-specific sources found for Juanitas Rock dive site. Last updated 2026-06-26.*
+*No dive shop, ScubaBoard, or dive-database source describing Juanitas Rock as a specific dive site was found despite targeted re-search. The OSM node is tagged `geological=glacial_erratic`, consistent with the glacially-deposited boulder terrain typical of Saratoga Passage, but no source confirms this feature is an established or named dive site. Description above reflects typical Saratoga Passage / Puget Sound rocky-pinnacle conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

@@ -33,7 +33,7 @@ Center Reef occupies a position in Haro Strait, the main channel separating the 
 
 ## Marine Life
 
-Haro Strait is one of the key corridors for orca pods that travel through the San Juan Islands in summer following chinook salmon migrations — sightings from the boat are common between June and September. Underwater, the reef supports large lingcod, multiple rockfish species, and cabezon. Giant Pacific octopus inhabit the deeper rock piles. The invertebrate coverage is exceptional: white plumose anemones in dense colonies, red and orange encrusting sponges, Puget Sound king crabs, nudibranchs, and sea stars (where populations have recovered from sea star wasting syndrome). Dall's porpoises and harbour seals may be seen at the surface.
+No source specific to Center Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Approach from the lee side during the pre-slack period and be 
 
 ## Tips
 
-- Download a reliable tidal prediction app and use both the current and tide data — they do not always coincide
-- Brief all dive buddies on the abort signal if current picks up during the dive
-- Watch for orca from the boat on surface intervals — summer transits through Haro Strait are a highlight
-- Giant Pacific octopus here can be large (arm span 2–3 metres); give them respectful distance
+- No site-specific trip reports were located for Center Reef -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Haro Strait is one of the stronger tidal passages in the San Juan Islands. Timin
 
 ## Photography
 
-The anemone wall coverage on Center Reef rivals any site in the Pacific Northwest. Wide-angle shots of anemone fields with ambient light filtering down are compelling. Macro work on nudibranch species in the anemone bases is productive. Large lingcod portraits, taken with a wide-angle lens from close range, are a signature shot of this region.
+No site-specific photography reports were found for Center Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Puget Sound diving](https://scubaboard.com/community/threads/puget-sound-diving-conditions-forecasts.627481/). No site-specific dive publications found for Center Reef; description reflects typical Haro Strait current-swept reef conditions. Last updated 2026-06-26.*
+*No dive shop, ScubaBoard, or dive-database source describing Center Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

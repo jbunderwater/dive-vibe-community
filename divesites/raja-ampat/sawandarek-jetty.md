@@ -2,7 +2,7 @@
 name: Sawandarek Jetty
 lat: -0.5897798
 lng: 130.6033001
-difficulty: Beginner
+difficulty: Advanced
 maxDepth: 28
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ The wooden jetty at the village of Sawandarek sits above a shallow rubble and co
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 8–15 meters (26–50 feet)
 - **Current**: Typically minimal in protected location
@@ -53,11 +53,11 @@ Access by boat from homestays or liveaboards in the Dampier Strait. Entry is via
 
 ## Safety Considerations
 
-This is an exceptionally safe site for diving — shallow, protected, and low-current. The main hazard is low-light diving at dusk; carry adequate torch capacity. Blue-ringed octopus are highly venomous and occasionally found in the rubble — never touch or handle any octopus. Boat traffic around the jetty requires a dive flag during the entry/exit phase.
+In-water conditions here are mild — shallow, protected, and low-current. Difficulty is nonetheless classified Advanced in line with Raja Ampat's remote, liveaboard-access diving character: the destination sits hours from the nearest hyperbaric chamber and organized medical evacuation, so Advanced certification and self-sufficiency are recommended for any site in the region regardless of local conditions. The main in-water hazard is low-light diving at dusk; carry adequate torch capacity. Blue-ringed octopus are highly venomous and occasionally found in the rubble — never touch or handle any octopus. Boat traffic around the jetty requires a dive flag during the entry/exit phase.
 
 ## Photography
 
 Mandarin fish photography at dusk is the bucket-list shot. A macro lens (60mm or 100mm equivalent) and fast strobe is essential — natural light is insufficient at dusk. Focus on the courtship pairing rise in the water column with a manual pre-focus and anticipate the upward swimming trajectory. For the jetty critter life, a macro rig with a good torch and a nudibranch book in your BCD pocket will maximize identifications.
 
 ---
-*Sources: [PADI](https://padi.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [Bird's Head Seascape](https://birdsheadseascape.com/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-06-27.*
+*Sources: [PADI](https://padi.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [Bird's Head Seascape](https://birdsheadseascape.com/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-08-26.*

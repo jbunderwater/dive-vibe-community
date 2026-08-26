@@ -44,4 +44,4 @@ Accessed exclusively by liveaboard operating southern Red Sea itineraries. Egypt
 Open Red Sea dive site requiring greater self-sufficiency than coastal resort dives. The wreck is inverted, adding navigational complexity. Currents can be unpredictable. Always carry a fully charged SMB with oral inflation and an audible signal device. The deeper sections (40m+) are beyond recreational limits and require technical diving qualifications.
 
 ---
-*Sources: [Sadko Safari Fleet](https://sadko-safarifleet.com), [Royal Evolution](https://royalevolution.com), [Cassiopeia Safari](https://cassiopeiasafari.com), [Divescover](https://divescover.com), [Diving Attitude](https://divingattitude.com). Last updated 2026-06-27.*
+*Sources: [Sadko Safari Fleet](https://sadko-safarifleet.com), [Royal Evolution](https://royalevolution.com), [Cassiopeia Safari](https://cassiopeiasafari.com), [Divescover](https://divescover.com), [Diving Attitude](https://divingattitude.com). Last updated 2026-08-26.*

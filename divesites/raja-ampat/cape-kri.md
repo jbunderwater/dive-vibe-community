@@ -49,4 +49,4 @@ The dive begins at the cape tip and follows the wall, drifting with the current 
 - **Entry**: Boat
 
 ---
-*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Bird's Head Seascape](https://birdsheadseascape.com/), [PADI](https://padi.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Bird's Head Seascape](https://birdsheadseascape.com/), [PADI](https://padi.com/). Last updated 2026-08-26.*

@@ -33,7 +33,7 @@ Gull Reef is a submerged rocky structure near the outer San Juan Islands, close 
 
 ## Marine Life
 
-The Haro Strait corridor is an important habitat for Southern Resident orca pods, which frequently pass through in pursuit of chinook salmon between June and October — surface sightings from the boat are possible. Underwater, Gull Reef holds lingcod, rockfish (black, copper, quillback), and kelp greenlings in good numbers. Giant Pacific octopus occupy the boulder gaps, and wolf eels have known den sites on the reef. Invertebrate life is extraordinary: white and orange plumose anemones in dense colonies, Puget Sound king crabs, nudibranchs, and rock scallops. Sea lions from local rookeries occasionally visit.
+No source specific to Gull Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Given the proximity to Haro Strait, condition monitoring is im
 
 ## Tips
 
-- The orca corridor in Haro Strait makes surface intervals above water particularly worthwhile in summer
-- Current here can build quickly as the tidal window closes — maintain awareness of dive time against tide tables
-- The richest anemone coverage on this reef tends to be on the most current-exposed faces
-- Night diving the reef in calm conditions reveals shrimp, crab, and octopus activity not visible during the day
+- No site-specific trip reports were located for Gull Reef -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Haro Strait produces strong tidal currents with limited windows of slack water. 
 
 ## Photography
 
-The anemone fields and Haro Strait's exceptional water clarity during good visibility windows make Gull Reef a strong wide-angle photography site. Wolf eel portraits from their dens and close-focus images of nudibranchs on anemone columns are outstanding macro subjects. Bring a dive torch and at least one strobe.
+No site-specific photography reports were found for Gull Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). Last updated 2026-06-26.*
+*No dive shop, ScubaBoard, or dive-database source describing Gull Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

@@ -2,8 +2,8 @@
 name: The Passage
 lat: -0.4286672
 lng: 130.5610216
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
 siteType: drift
 ref: null
@@ -13,50 +13,33 @@ addedBy: osm_import
 
 ## The Passage
 
-The Passage is one of Raja Ampat's most iconic and unusual dive sites — a narrow, mangrove-lined strait between Waigeo and Gam islands, West Papua, Indonesia.
+The Passage is one of Raja Ampat's most distinctive dive sites — a narrow, mangrove-and-rainforest-lined strait connecting Gam Island and Waigeo Island, West Papua, Indonesia.
 
 ## Overview
 
-Few dive sites in the world match the uniqueness of The Passage. This narrow channel cuts between the limestone karst islands of Waigeo and Gam, creating a corridor where the underwater world blends with the overwater jungle in a way that is genuinely otherworldly. The channel walls are lined with mangrove roots descending into the water, soft coral fans and sponges colonising the submerged substrate. The current that funnels through the narrow gap floods the passage with nutrients, feeding the extraordinary soft coral and invertebrate growth that covers every surface. At the water's surface, archer fish shoot insects from the overhanging mangrove branches — a behaviour almost unique to this environment. Below the surface, epaulette sharks — the remarkable "walking sharks" endemic to the Bird's Head Seascape — rest among the mangrove roots and shallow coral. Visibility is typically 15-25 meters, and the shallow depth means maximum ambient light throughout.
+The Passage is a narrow canyon roughly 25 metres wide, running as a river-like channel from the western reach of Kabui Bay out to the open water. Its main section is around 5 metres deep, and the site is known for numerous quiet grottoes, caves, arches, and underwater passages carved into the limestone walls. Sources report a wider overall depth range for the site as a whole — from the shallow 5-metre main channel to a fringing coral reef reported at up to 35 metres — so treat the site as primarily a shallow, sheltered dive with a deeper reef edge rather than a uniform-depth wall. Current can run strongly through the narrows, and diving here calls for a degree of self-confidence and current comfort even though the depths involved are modest. Soft corals, large orange sea fans, purple sponges, hydroids, sea squirts, and sea pens colonize the channel's substrate.
 
 ## Site Information
 
-- **Location**: Between Waigeo and Gam Islands, Raja Ampat, West Papua, Indonesia
+- **Location**: Between Gam and Waigeo Islands, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Tidal, can be strong through the narrows
-- **Best Time**: October to April; tidal timing critical
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
+- **Current**: Strong through the narrows; tidal
+- **Best Time**: October to April; tidal timing is critical
 
 ## Marine Life
 
-The Passage is most famous for its epaulette sharks (Hemiscyllium freycineti), Raja Ampat's endemic "walking sharks" that use their pectoral fins to clamber over reef substrate. Archer fish hunting from the surface are a delight to watch. The soft coral fans and sponge growth on the passage walls support nudibranchs, flatworms, and commensal shrimp in abundance. Cuttlefish are common in the passage, and juvenile fish shelter in the mangrove roots in extraordinary numbers. Bat fish sometimes school in the passage interior. The marine life here is fundamentally different from open-reef sites — the enclosed, sheltered character creates an ecosystem found nowhere else in Raja Ampat.
-
-## Dive Profile
-
-The dive begins at the passage entrance and proceeds through the channel with the tidal current. Depths are relatively shallow — most of the interest is in the 3-15 meter range along the passage walls and root zones. Divers drift through the channel in groups, pausing at points of interest. The passage exit opens into more open water where the dive concludes. Timing the entry to correspond with current flowing in the preferred direction is essential — dive briefings always include tidal timing information.
+Sources confirmed at this specific site (diveconcepts.com): pygmy seahorses (yellow, pink, and orange color forms), nudibranchs, octopuses, gobies, blennies, crustaceans, moray eels, schools of jacks, blue-spotted stingrays, cuttlefish, cardinalfish, batfish, turtles, rays, bumphead parrotfish schools, oriental sweetlips, lionfish, scorpionfish, and wobbegong sharks, with pelagic species including large tuna, barracuda, and trevally, and occasional manta and eagle rays. An earlier version of this page also claimed epaulette "walking" sharks and hunting archerfish at this site; neither claim could be traced to a source specific to The Passage in this research round, so both have been removed pending confirmation.
 
 ## Entry and Exit
 
-The boat enters the passage channel and divers enter at the upstream end relative to the tidal flow. The current then carries divers through the passage. The boat cannot follow divers through the narrowest sections — it will reposition to the exit point and wait for the group. This arrangement requires a clear pre-dive briefing and familiarity with the procedure. Deploy SMB at the passage exit.
-
-## Tips and Recommendations
-
-- This dive is almost always timed with the tidal flow — confirm the best timing with your guide beforehand
-- Look up at the mangrove surface for archer fish hunting — the topside show is as good as the underwater experience
-- Take time in the root zone in the shallows for epaulette shark searching
-- The passage walls display extraordinary soft coral density — approach slowly to observe the community
-- Photography in the passage requires good ambient light — morning dives offer the best interior light
+The boat enters the channel and divers enter at the upstream end relative to tidal flow, drifting through with the current. Because the boat cannot always follow through the narrowest sections, it repositions to the exit point — a clear pre-dive briefing on this procedure is essential. Deploy an SMB at the passage exit.
 
 ## Safety Considerations
 
-The primary safety consideration is the tidal current that can run strongly through the narrows. Always dive with a local guide who knows the passage timing and behaviour. The enclosed nature of the channel means ascending mid-passage is not always straightforward — plan the dive to reach the exit. Navigation is not difficult in the passage but maintaining awareness of your position is important. Boat separation procedures must be briefed clearly before entry.
-
-## Photography
-
-The Passage offers some of the most visually distinctive photography in all of Raja Ampat. Wide-angle shots through the mangrove root zone with dappled light above are stunning. The soft coral walls photographed from mid-channel with the passage curving into the distance make extraordinary images. Surface shots of archer fish require fast shutter speeds and patience. Macro work on the passage walls reveals world-class nudibranch and invertebrate subjects. Epaulette shark portraits in the root zone are among the most coveted images in Raja Ampat diving.
+Difficulty is classified Advanced given the strong tidal current through the narrows and Raja Ampat's remote, liveaboard-access diving character generally. Always dive this site with a guide who knows the tidal timing; the enclosed channel means ascent options are limited mid-passage, so plan to reach the exit.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [Dive Concepts](https://diveconcepts.com/the-passage-raja-ampat), [Papua Explorers](https://www.papuaexplorers.com/the-passage/), [Mikumba Diving](https://www.mikumbadiving.com/the-passage-dive-sites-raja-ampat/). Last updated 2026-08-26.*

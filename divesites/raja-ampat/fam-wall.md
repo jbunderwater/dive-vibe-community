@@ -2,7 +2,7 @@
 name: Fam Wall
 lat: -0.5915939
 lng: 130.2967816
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ Also referenced in some sources as associated with Keruo/Keruwo Channel, Fam Wal
 - **Location**: Fam Islands, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Current**: Typically mild; can moderate on tidal flow
 - **Best Time**: October to April; dusk dives recommended for mandarin fish
@@ -58,4 +58,4 @@ The wall's drop-off means depth management is essential. Night diving adds compl
 Epaulette shark photography at night is the signature opportunity at Fam Wall. A macro lens on a port or a 60mm equivalent with close-focus capability captures the shark's intricate spotted patterning. Wide-angle wall photography during the day is outstanding — the pristine coral coverage and dramatic depth perspective make compelling shots. The remote location means encounter photographs are rarely crowded with other divers in the background.
 
 ---
-*Sources: [The Scuba Directory](https://thescubadirectory.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Divescover](https://divescover.com/), [Dive Concepts](https://diveconcepts.com/). Last updated 2026-06-27.*
+*Sources: [The Scuba Directory](https://thescubadirectory.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Divescover](https://divescover.com/), [Dive Concepts](https://diveconcepts.com/). Last updated 2026-08-26.*

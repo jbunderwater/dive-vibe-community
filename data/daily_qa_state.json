@@ -2,12 +2,6 @@
   "rotation_started": "2026-07-10",
   "destinations_per_day": 6,
   "queue": [
-    "puerto-rico",
-    "puerto-vallarta",
-    "puget-sound",
-    "raja-ampat",
-    "red-sea",
-    "reunion",
     "roatan",
     "saba",
     "san-diego-la-jolla",
@@ -174,7 +168,13 @@
     "poor-knights-islands",
     "port-cros",
     "portugal",
-    "providencia-island"
+    "providencia-island",
+    "puerto-rico",
+    "puerto-vallarta",
+    "puget-sound",
+    "raja-ampat",
+    "red-sea",
+    "reunion"
   ],
   "history": [
     {
@@ -3530,6 +3530,76 @@
         "sites_unresolved": 13
       },
       "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/162"
+    },
+    {
+      "date": "2026-08-26",
+      "slugs": [
+        "puerto-rico",
+        "puerto-vallarta",
+        "puget-sound",
+        "raja-ampat",
+        "red-sea",
+        "reunion"
+      ],
+      "summary": {
+        "puerto-rico": {
+          "sites_total": 11,
+          "sites_validated_today": 0,
+          "sites_re_audited": 11,
+          "hallucinations_removed": 11,
+          "marine_life_stripped": 9,
+          "wreck_conflicts_flagged": 0,
+          "sites_unresolved": 0
+        },
+        "puerto-vallarta": {
+          "sites_total": 21,
+          "sites_validated_today": 0,
+          "sites_re_audited": 21,
+          "hallucinations_removed": 5,
+          "marine_life_stripped": 4,
+          "wreck_conflicts_flagged": 2,
+          "sites_unresolved": 6
+        },
+        "puget-sound": {
+          "sites_total": 32,
+          "sites_validated_today": 8,
+          "sites_re_audited": 32,
+          "hallucinations_removed": 4,
+          "marine_life_stripped": 23,
+          "wreck_conflicts_flagged": 4,
+          "sites_unresolved": 23
+        },
+        "raja-ampat": {
+          "sites_total": 106,
+          "sites_validated_today": 27,
+          "sites_re_audited": 20,
+          "hallucinations_removed": 3,
+          "marine_life_stripped": 3,
+          "wreck_conflicts_flagged": 0,
+          "sites_unresolved": 8,
+          "sites_not_reached": 71
+        },
+        "red-sea": {
+          "sites_total": 482,
+          "sites_validated_today": 6,
+          "sites_re_audited": 34,
+          "hallucinations_removed": 3,
+          "marine_life_stripped": 0,
+          "wreck_conflicts_flagged": 6,
+          "sites_unresolved": 3,
+          "sites_not_reached": 445
+        },
+        "reunion": {
+          "sites_total": 13,
+          "sites_validated_today": 12,
+          "sites_re_audited": 0,
+          "hallucinations_removed": 0,
+          "marine_life_stripped": 0,
+          "wreck_conflicts_flagged": 5,
+          "sites_unresolved": 1
+        }
+      },
+      "pr_url": "https://github.com/jbunderwater/dive-vibe-community/pull/163"
     }
   ]
 }

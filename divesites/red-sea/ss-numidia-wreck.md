@@ -17,7 +17,7 @@ The SS Numidia is one of the most celebrated wreck dives in the Red Sea, resting
 
 ## Overview
 
-Built at D. & W. Henderson & Co.'s Meadowside Shipyard in Glasgow for the Anchor Line, the Numidia was a steam cargo ship of 6,399 gross tons. On 6 July 1901 the vessel departed Liverpool bound for Calcutta carrying a general cargo of approximately 7,000 tons with a crew of 97. On 20 July 1901 she ran aground on the northern tip of Big Brother Island — directly below the island's lighthouse. All attempts to refloat her failed, and the captain oversaw cargo salvage for approximately seven weeks before the ship finally sank. The cause of the grounding was never definitively established.
+Built at D. & W. Henderson & Co.'s Meadowside Shipyard in Glasgow for the Anchor Line, the Numidia was a steam cargo ship of 6,399 gross tons. On 6 July 1901 the vessel departed Liverpool bound for Calcutta carrying a general cargo of approximately 7,000 tons with a crew of 97. On 19 or 20 July 1901 (sources give both dates) she ran aground on the northern tip of Big Brother Island, less than 500 feet from the island's lighthouse — she had been launched on 4 February 1901, making this her second voyage. All attempts to refloat her failed, and the captain oversaw cargo salvage for approximately seven weeks before the ship finally sank. The cause of the grounding was never definitively established.
 
 The wreck lies perpendicular to the reef, bow at approximately 8 metres and stern at roughly 80 metres — one of the deepest recreational and technical wreck profiles in Egyptian waters. The wooden superstructure has largely deteriorated over more than a century, leaving an iron skeleton heavily encrusted with soft and hard corals, sea fans, and sponges.
 
@@ -49,4 +49,4 @@ Dense soft corals, gorgonian fans, and sponges colonise the hull. In the blue wa
 
 Wreck extends well beyond 40 m — plan gas carefully. Strong and unpredictable currents are possible at Big Brother Island. Ascend conservatively and follow your guide's current briefing.
 
-*Sources: [Red Sea Wreck Project — SS Numidia](https://www.redseawreckproject.com/red-sea-wreck-blog/featured-red-sea-wreck-the-numidia/), [MarsaAlam.com — SS Numidia Guide](https://marsaalam.com/ss-numidia-wreck-2025-guide/). Last updated 2026-05-17.*
+*Sources: [Red Sea Wreck Project — SS Numidia](https://www.redseawreckproject.com/red-sea-wreck-blog/featured-red-sea-wreck-the-numidia/), [MarsaAlam.com — SS Numidia Guide](https://marsaalam.com/ss-numidia-wreck-2025-guide/), [SS Thistlegorm.com — The Numidia](https://ssthistlegorm.com/other-wrecks/numidia.html). Last updated 2026-08-26.*

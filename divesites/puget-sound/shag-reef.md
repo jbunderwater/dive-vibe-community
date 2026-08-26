@@ -33,7 +33,7 @@ Shag Reef is a rocky submerged reef close to the Haro Strait boundary on the wes
 
 ## Marine Life
 
-Bull kelp at Shag Reef creates a multi-level habitat that attracts juvenile rockfish, kelp greenlings, and Puget Sound perch into the upper water column. Beneath the canopy, the rock faces support lingcod and larger rockfish. Giant Pacific octopus are present in the boulder areas at the reef base. Wolf eels occupy crevice dens in the deeper sections. The Haro Strait location means cormorant and great blue heron foraging is visible above the surface, and harbour seals regularly pass through. Invertebrates include plumose anemones, encrusting sponges, and nudibranchs throughout.
+No source specific to Shag Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. The Haro Strait exposure means wind and current conditions sho
 
 ## Tips
 
-- The kelp canopy in August is at its most impressive — fronds can be 6–8 metres long
-- Linger below the kelp canopy looking upward — the filtered light through the golden fronds is a memorable visual
-- Check for ratfish in the sandy patches at the base of the reef — this distinctive species is a Pacific Northwest speciality
-- The Haro Strait location means orca sightings from the boat surface interval are possible in summer
+- No site-specific trip reports were located for Shag Reef -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Proximity to Haro Strait means current can be strong. Plan dives for slack water
 
 ## Photography
 
-The kelp forest at Shag Reef is one of its finest photographic features — wide-angle upward shots through the canopy create stunning natural light images. Lingcod and rockfish portraits in the rock zone below, nudibranchs on encrusted surfaces, and the dense anemone walls all offer excellent subjects. Strobes bring out the colour that ambient light suppresses at depth.
+No site-specific photography reports were found for Shag Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). Last updated 2026-06-26.*
+*No dive shop, ScubaBoard, or dive-database source describing Shag Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

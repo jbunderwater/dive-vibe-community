@@ -60,4 +60,4 @@ The Thistlegorm is an advanced dive. The current at the mooring can be strong, p
 The Thistlegorm is a photographer's dream, but challenging. Wide-angle is essential for hold interiors — a rectilinear 10-17mm lens renders the trucks and motorcycles in their full drama. Natural light penetrates from the open holds above, creating beams through particulate that reward patience. The anti-aircraft gun silhouetted against open blue water is one of the most reproduced images in Red Sea diving.
 
 ---
-*Sources: [SS Thistlegorm Wikipedia](https://en.wikipedia.org/wiki/SS_Thistlegorm), [The Thistlegorm Project](https://thethistlegormproject.com/history/), [Master Liveaboards](https://masterliveaboards.com/dive-the-thistlegorm-a-wreck-dive-into-history/). Last updated 2026-05-25.*
+*Sources: [SS Thistlegorm Wikipedia](https://en.wikipedia.org/wiki/SS_Thistlegorm), [The Thistlegorm Project](https://thethistlegormproject.com/history/), [Master Liveaboards](https://masterliveaboards.com/dive-the-thistlegorm-a-wreck-dive-into-history/). Last updated 2026-08-26.*

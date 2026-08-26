@@ -54,4 +54,6 @@ Access is by dive boat from Puerto Vallarta, approximately 45 minutes each way. 
 - Rays on the sandy sections tend to hold still if approached slowly and at a low angle from the side
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm). Last updated 2026-06-26.*
+*Note: on re-audit, neither Banderas Scuba Republic's dive-sites page nor Boca Divers' dive-sites page (both previously cited) names Quimixto as a distinct site, and no scubaboard.com thread specific to Quimixto could be located. Both have been removed as sources. Only puertovallarta.net's general Puerto Vallarta scuba-diving page could be confirmed as genuinely covering this area, and it does not go into Quimixto-specific depth. Content is left as-is (consistent with regional character) but is UNRESOLVED SOURCING under the destination's 3-source standard — flagged for follow-up research rather than padded with weak citations.*
+
+*Sources: [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/). Last updated 2026-08-26.*

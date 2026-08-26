@@ -60,4 +60,4 @@ Sudan requires a special dive permit and entry visa — verify current political
 The Umbria is one of the most photogenic wrecks on Earth. The upper deck in good natural light allows wide-angle compositions of the hull structure with the surface glinting above. The Fiat cars draped in coral are iconic subjects. In the holds, a torch and a macro lens reveal extraordinary detail on cargo labels, valves, and ammunition cases. A fisheye lens renders the sense of scale in the cavernous interiors.
 
 ---
-*Sources: [SS Umbria Wikipedia](https://en.wikipedia.org/wiki/SS_Umbria), [Divers Alert Network - The Last Voyage](https://dan.org/alert-diver/article/the-last-voyage/), [Dive Photo Guide - Umbria](https://www.divephotoguide.com/underwater-photography-special-features/article/sinking-umbria-wreck-sudan/). Last updated 2026-05-25.*
+*Sources: [SS Umbria Wikipedia](https://en.wikipedia.org/wiki/SS_Umbria), [Divers Alert Network - The Last Voyage](https://dan.org/alert-diver/article/the-last-voyage/), [Dive Photo Guide - Umbria](https://www.divephotoguide.com/underwater-photography-special-features/article/sinking-umbria-wreck-sudan/). Last updated 2026-08-26.*

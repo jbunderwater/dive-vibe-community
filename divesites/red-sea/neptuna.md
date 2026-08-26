@@ -58,4 +58,4 @@ Remote liveaboard dive in open Red Sea requires full self-sufficiency. Carry cha
 Wide-angle hull silhouette shots in the clear Red Sea water — the Neptuna wreck framed against the deep blue — are the most dramatic images available at this site. Schools of glassy sweepers in the interior with torch-lit foreground and ambient background light through openings create striking compositions. Soft coral growth on the exterior hull provides detailed close-up subjects.
 
 ---
-*Description based on coordinates and regional diving characteristics. Vessel identity and history not confirmed by independent sources. Last updated 2026-05-25.*
+*Description based on coordinates and regional diving characteristics. Vessel identity and history not confirmed by independent sources. Last updated 2026-08-26.*

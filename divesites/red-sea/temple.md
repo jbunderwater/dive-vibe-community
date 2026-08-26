@@ -17,9 +17,9 @@ Temple is one of Sharm el Sheikh's most distinctive dive sites — a group of ma
 
 ## Overview
 
-The site features a large central coral tower that rises from a sandy bottom at approximately 20 m up to within about 5 m of the surface, surrounded by smaller coral columns. The formation's pillars and their arrangement evoke an ancient underwater temple. Sheer walls on each pinnacle are densely covered with soft corals, sponges, gorgonian fans, and hard coral growth.
+The site features a cluster of massive coral pinnacles — most commonly described as three main blocks — rising from a sandy bottom at approximately 20 m up to within a few metres of the surface. The formation's pillars and their arrangement evoke an ancient underwater temple. Sheer walls on each pinnacle are densely covered with soft corals, sponges, gorgonian fans, and hard coral growth.
 
-Temple is one of Sharm el Sheikh's most popular night diving sites due to its sheltered position close to Na'ama Bay and the concentration of nocturnal species sheltering in the coral structure.
+Temple is one of Sharm el Sheikh's most popular night diving sites due to its sheltered position close to Na'ama Bay, its lack of current and boat traffic, and the concentration of nocturnal species sheltering in the coral structure — basket stars are reported to unfurl to feed after dark.
 
 ## Dive Profile
 
@@ -39,4 +39,4 @@ Giant moray eels reside in the crevices throughout the year. Groups of lionfish 
 
 The coral columns photographed against blue water make attractive wide-angle compositions. The gorgonian fans and moray eel dens reward closer macro work.
 
-*Sources: [Camel Dive Club — Temple Dive Site](https://www.cameldive.com/dive-sites/temple/), [PADI — Temple Dive Site](https://www.padi.com/dive-site/egypt/temple/). Last updated 2026-05-17.*
+*Sources: [Camel Dive Club — Temple Dive Site](https://www.cameldive.com/dive-sites/temple/), [PADI — Temple Dive Site](https://www.padi.com/dive-site/egypt/temple/), [Circle Divers — Temple](https://www.circledivers.com/diving-in-sharm-el-sheikh/dive-sites/temple-local). Last updated 2026-08-26.*

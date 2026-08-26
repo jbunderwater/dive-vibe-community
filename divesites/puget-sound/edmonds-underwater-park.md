@@ -33,7 +33,8 @@ Located immediately north of the Edmonds–Kingston Washington State Ferry termi
 
 The park's primary artificial attractions include:
 
-- **Tugboat Triumph**: An approximately 85-foot (26m) tug scuttled within the park boundaries — the main structural feature and a focal point for marine life.
+- **Tugboat Triumph**: A scuttled tug within the park boundaries and the main structural feature. **Length conflict (re-audit, 2026-08-26):** sources disagree — Scuba Diving Magazine reports the Triumph as 70 feet, scuppered in 1999, while an earlier figure used on this page gave approximately 85 feet (26m). Reported here as sources report the Triumph's length between approximately 70 and 85 feet rather than picking one figure.
+- **Tugboat Alitak**: A second, 94-foot tug at the park, per Scuba Diving Magazine — not previously documented in this entry.
 - **Lopez Pontoon**: A concrete structure (approximately 100 by 20 feet) sunk November 4, 2009, featuring five chambers divers can easily enter and exit.
 - The underwater rope grid system, rebuilt and maintained by weekend volunteer crews, prevents divers from getting disoriented in low-visibility conditions.
 
@@ -54,4 +55,4 @@ Shore entry from the dedicated diver beach. Parking, changing rooms, outdoor sho
 Cold water is the primary hazard: drysuit or 7mm wetsuit with hood and gloves is mandatory for safe, comfortable diving. Visibility can drop to 2 feet or less during spring plankton blooms. The ferry exclusion zone must be respected — the Edmonds–Kingston route runs close to the park boundary. Carry a surface marker buoy (SMB) even on a shore dive.
 
 ---
-*Sources: [Edmonds Underwater Park — Official Site](https://www.edmondsunderwaterpark.com/dive-the-park), [Wikipedia — Edmonds Underwater Park](https://en.wikipedia.org/wiki/Edmonds_Underwater_Park), [Scuba Diving Magazine — Edmonds, Wash.](https://www.scubadiving.com/travel/pacific-western/edmonds-wash), [PADI — Edmonds Underwater Park](https://www.padi.com/dive-site/united-states-of-america-usa/edmonds-underwater-park/). Last updated 2026-06-26.*
+*Sources: [Edmonds Underwater Park — Official Site](https://www.edmondsunderwaterpark.com/dive-the-park), [Wikipedia — Edmonds Underwater Park](https://en.wikipedia.org/wiki/Edmonds_Underwater_Park), [Scuba Diving Magazine — How One Man's Obsession Created Edmonds Underwater Park](https://www.scubadiving.com/how-one-mans-obsession-created-edmonds-underwater-park), [PADI — Edmonds Underwater Park](https://www.padi.com/dive-site/united-states-of-america-usa/edmonds-underwater-park/). Re-audited 2026-08-26 — Triumph tug length conflict flagged, Alitak tug added; see Wrecks and Features above.*

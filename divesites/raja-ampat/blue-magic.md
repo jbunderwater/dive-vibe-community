@@ -59,4 +59,4 @@ Blue Magic is for experienced, current-competent divers only. Currents can rever
 Blue Magic is a wide-angle photographer's dream. The schooling barracuda form perfect tornado formations that photograph beautifully shooting upward with available light. Soft coral macro at 20–25 meters offers dramatic close-up subjects against vivid backgrounds. Bring both a wide-angle zoom and a dedicated macro port to cover all opportunities.
 
 ---
-*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/). Last updated 2026-08-26.*

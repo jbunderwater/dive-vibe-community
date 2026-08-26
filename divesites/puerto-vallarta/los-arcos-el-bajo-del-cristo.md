@@ -54,4 +54,4 @@ Access is by dive boat from the Puerto Vallarta marina (about 30 minutes) or fro
 - Often paired with the shallow El Acuario zone on a two-tank trip — do El Bajo del Cristo first while air is fresh
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [PADI – Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta Adventures – Los Arcos Scuba Diving](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [PADI – Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta Adventures – Los Arcos Scuba Diving](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-08-26.*

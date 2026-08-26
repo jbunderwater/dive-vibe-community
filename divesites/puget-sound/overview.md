@@ -15,7 +15,7 @@ Puget Sound offers diverse dive sites spanning depths from 12 to 47 meters, with
 - **Shore Diving**: Accessible shore dive sites including Edmonds Underwater Park and Seacrest Park (Cove 2), both popular training and recreational sites with easy entries
 - **Boat Diving**: Boat-accessible sites throughout the San Juan Islands, Hood Canal, and central Puget Sound, with operators running two- and three-tank charters
 - **Wreck Diving**: Wreck sites including the SS Dauntless (1923 Mosquito Fleet steamship), USCGC Tiger (Coast Guard vessel), and the Wreck of a PB4Y bomber in Lake Washington at 47 meters (technical dive)
-- **Wall Diving**: Yellow Bluff Reef in Hood Canal drops to 24+ meters with dramatic wall structure
+- **Wall Diving**: Yellow Bluff Reef, near Anacortes/Fidalgo Island in northern Puget Sound, drops to 24+ meters with a wall profile (site-specific sources not found; corrected 2026-08-26 from an earlier, unsourced "Hood Canal" location claim)
 
 ### Accessibility
 
@@ -39,4 +39,4 @@ Puget Sound offers diverse dive sites spanning depths from 12 to 47 meters, with
 - **Safety**: Drysuit required year-round due to cold water temperatures. Strong tidal currents are common, especially in the San Juan Islands — always plan dives around slack tide. A cold-water rated regulator is recommended. Many sites require current tables and careful dive planning
 
 ---
-*Sources: [Scuba Diving Magazine - Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [PNW Diving](https://pnwdiving.com/puget-sound), [Scuba Diver Life - Pacific Northwest](https://scubadiverlife.com/pacific-northwest-diving/), [DivePhotoGuide - Sixgill Sharks](https://www.divephotoguide.com/underwater-photography-special-features/article/photographing-puget-sound-washington-usa-sixgill-sharks/), [WDFW Octopus Protection Areas](https://wdfw.wa.gov/fishing/management/mpa/octopus-preserve). Last updated 2026-04-05.*
+*Sources: [Scuba Diving Magazine - Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [PNW Diving](https://pnwdiving.com/puget-sound), [Scuba Diver Life - Pacific Northwest](https://scubadiverlife.com/pacific-northwest-diving/), [DivePhotoGuide - Sixgill Sharks](https://www.divephotoguide.com/underwater-photography-special-features/article/photographing-puget-sound-washington-usa-sixgill-sharks/), [WDFW Octopus Protection Areas](https://wdfw.wa.gov/fishing/management/mpa/octopus-preserve). Last updated 2026-04-05; Yellow Bluff Reef location corrected 2026-08-26 (see divesites/puget-sound/yellow-bluff-reef.md).*

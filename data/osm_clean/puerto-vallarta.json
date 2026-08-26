@@ -11,8 +11,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, visitpuertovallarta.com, vallarta-adventures.com",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "wikipedia.org, padi.com, vallarta-adventures.com, banderas-scuba.com, visitpuertovallarta.com",
+      "notes": "Re-audited 2026-08-26: content re-confirmed against current sources, no factual changes required.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -27,8 +28,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com, divinglore.com",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "banderas-scuba.com, padi.com, vallarta-adventures.com, divinglore.com",
+      "notes": "Re-audited 2026-08-26: sub-site name confirmed in aggregate Los Arcos coverage (referenced as \"Bajo de Cristo\"). No factual changes required.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -43,8 +45,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com, vallarta-adventures.com",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "banderas-scuba.com, puertovallarta.net, vallarta-adventures.com, bocadivers.net, oceanoadventure.com",
+      "notes": "Re-audited 2026-08-26: confirmed as \"Devil's Mouth\"/\"Devil's Canyon\" wall (La Quijada del Diablo), drop-off ~18m to 25-37m, manta ray sightings corroborated. Sources disagree sharply on the scale of the adjacent trench/wall: bocadivers.net cites a ~1600 ft (488m) drop, banderas-scuba.com describes a canyon \"believed to reach 1,600 meters,\" and other operators describe an ~800 ft (244m) wall or \"over a mile\" drop into the Banderas Trench. Description now flags this as an unresolved range rather than asserting one figure.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -59,9 +62,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "banderas-scuba.com, padi.com, vallarta-adventures.com, divinglore.com",
-      "notes": "Depth corrected from 38m to 27m (sources: Banderas Scuba 85ft/26m, PADI 70-90ft/21-27m). Vessel ran aground Feb 16 2017, intentionally sunk Oct 24 2017. 10-14 accompanying vessels at site.",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "banderas-scuba.com, padi.com, vallarta-adventures.com, divinglore.com, reportediario.com.mx",
+      "notes": "Deep wreck re-audit 2026-08-26 (requirement 4): Grounding (Feb 16, 2017) and intentional sinking (Oct 24, 2017) cross-confirmed by Banderas Scuba Republic and independent local news outlet Reporte Diario Vallarta (2 non-dive-shop-affiliated sources). CONFLICT FLAGGED: PADI's dive-site page instead states the wreck has rested at the site \"since 2016\" -- this contradicts the Feb/Oct 2017 grounding-and-sinking timeline and is noted as an unresolved discrepancy in the description rather than silently overwritten. No source (including a targeted search for Spanish-language 2017 sinking coverage) provides the vessel's length, tonnage, or build date, so none is stated -- description explicitly acknowledges this is undocumented rather than inventing figures. One source (divinglore.com) gives an unverified ~90ft/27m length figure with no second source corroborating it, so it is NOT included per the 2-source rule for wreck dimensions. No Wikipedia article exists for this vessel. Accompanying-wreck count varies 10-11 (PADI) to up to 14 (Banderas Scuba); kept as a 10-14 range to cover both. Goliath grouper sighting is single-sourced (banderas-scuba.com) but is a marine-life claim (1-source threshold), not a historical fact, so it is retained.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -76,8 +79,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com, puertovallarta.net",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "puertovallarta.net, padi.com, zentacle.com",
+      "notes": "Re-audited 2026-08-26: depth range, eagle rays, scorpionfish, moray eels, and shore-entry practicality all re-confirmed. CITATION CORRECTED: bocadivers.net and banderas-scuba.com, previously listed, do not name Mismaloya as a distinct site on re-check and were removed; replaced with zentacle.com. Only 3 domains could be confirmed as genuinely site-specific -- flagged as thin sourcing.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -92,8 +96,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, bocadivers.net, visitpuertovallarta.com",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "bocadivers.net, banderas-scuba.com, visitpuertovallarta.com, puertovallarta.net",
+      "notes": "Re-audited 2026-08-26: electric rays and stingrays confirmed site-specific (banderas-scuba.com product page + puertovallarta.net). MARINE LIFE CORRECTED: \"bat rays\" removed -- no source confirms this species at Colomitos specifically; it appears to have been carried over from a general Los Arcos ScubaBoard thread rather than a Colomitos-specific report.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -108,8 +113,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, vallarta-adventures.com, divinglore.com, 360mexico.org",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "vallarta-adventures.com, banderas-scuba.com, divinglore.com, getyourguide.com",
+      "notes": "Re-audited 2026-08-26: garden eels, jawfish, two trails, sunken panga boats, and pufferfish/seahorses all strongly re-confirmed against current vallarta-adventures.com and getyourguide.com listings. No factual changes required.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -124,8 +130,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, divinglore.com, bocadivers.net",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "bocadivers.net, banderas-scuba.com, divinglore.com",
+      "notes": "Re-audited 2026-08-26: Cortez garden eel colony re-confirmed (banderas-scuba.com: \"underwater grass field\" of garden eels). No factual changes required.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -140,8 +147,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, puertovallarta.net",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "puertovallarta.net",
+      "notes": "Re-audited 2026-08-26: UNRESOLVED SOURCING. On re-check, banderas-scuba.com and scubaboard.com (both previously listed) do not name Quimixto as a distinct dive site -- only Quimixto village/beach appears in general searches. Only 1 genuinely site-specific source could be confirmed. Content is left as-is (consistent with the region's general character) but should be treated as lower-confidence until 2 more site-specific sources are found. Flagged in QA summary per requirement 1 -- not padded with weak sources.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -156,8 +164,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, padi.com, vallartaundersea.com",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "banderas-scuba.com, padi.com, vallarta-adventures.com, bocadivers.net, divinglore.com",
+      "notes": "Re-audited 2026-08-26: manta rays, three named zones (Potrerillo/Torrecillas/Iglesias), 50-dive minimum, and moray eels all re-confirmed. MARINE LIFE CORRECTED: \"occasional hammerhead or bull shark\" removed -- no source, including bocadivers.net's dedicated Chimo listing, confirms sharks at this site specifically. bocadivers.net additionally confirms dolphins and occasional whales at Chimo, which have been added.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -172,8 +181,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, puertovallarta.net",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "puertovallarta.net",
+      "notes": "Re-audited 2026-08-26: UNRESOLVED SOURCING / SITE IDENTITY UNCERTAIN. Extensive re-search found \"Las Gemelas\" used consistently in current sources as a BEACH name (Playas Gemelas, near the Princesa Vallarta wreck coordinates ~3km away) rather than as a distinct twin-pinnacle dive site. No source independently confirms a \"twin submerged rock formation\" dive site by this name, or the cup coral / sea fan marine life previously attributed to it. banderas-scuba.com and scubaboard.com, previously cited, do not name it. Description rewritten to remove unconfirmed site-specific marine life per anti-hallucination policy; flagged prominently in QA summary as needing a fresh on-the-ground source before the next validation pass.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -189,8 +199,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "wikipedia.org, unesco.org, vallarta-adventures.com, dresseldivers.com, sayulitaentourage.com",
-      "notes": "National Park designated Feb 2 2004 (not 2005). UNESCO Biosphere Reserve 2008. Cousteau advocacy was late 1960s (not 1970s).",
-      "last_qa_date": "2026-06-26"
+      "notes": "Re-audited 2026-08-26: National Park date (Feb 2 2004), UNESCO designation (2008), humpback whale season (Dec-Mar), and manta ray/turtle sightings all re-confirmed against dresseldivers.com's Punta Mita page. No factual changes required.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -205,8 +215,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, divinglore.com, 360mexico.org",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "banderas-scuba.com, divinglore.com, 360mexico.org, sayulitaentourage.com",
+      "notes": "Re-audited 2026-08-26: nurse sharks now independently confirmed by sayulitaentourage.com (\"sometimes even nurse sharks\") in addition to banderas-scuba.com. Cave/swimthrough network and position between Marietas and El Morro re-confirmed. No factual changes required.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -222,8 +233,8 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "banderas-scuba.com, divinglore.com, 360mexico.org, sayulitaentourage.com",
-      "notes": "Tunnel length: sources say 40 meters long (Banderas Scuba) or 195 ft. Entry ~27-30m, exit ~15-18m. Removed fabricated '15-meter' tunnel length from prior version.",
-      "last_qa_date": "2026-06-26"
+      "notes": "Re-audited 2026-08-26: whale shark (early summer), humpback whale (winter), sailfish, and marlin seasonal claims all re-confirmed against current operator pages. banderas-scuba.com also lists white-tip sharks and sea lions at this site, now added. No other factual changes required.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -238,9 +249,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com, sayulitaentourage.com",
-      "notes": "Boat transit ~2 hours (not '1 hour or more'). Minimum 25 logged dives per most operators. 36 nautical miles from PV confirmed.",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "scubaboard.com, banderas-scuba.com, padi.com, sayulitaentourage.com, vallarta-adventures.com",
+      "notes": "Re-audited 2026-08-26: reef sharks, nurse sharks, and hammerhead/whitetip shark sightings now cross-confirmed by vallarta-adventures.com's shark blog in addition to greatestdivesites.com. Boat transit (~2 hours), 36nm distance, 25-dive minimum re-confirmed.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -255,8 +266,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, 360mexico.org",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "banderas-scuba.com, 360mexico.org, sayulitaentourage.com, myvallartaexperience.com",
+      "notes": "Re-audited 2026-08-26: 300m mesa (\"underwater sportsfield\"/\"football field\"), 18-25m depth, sailfish, and tuna schools strongly re-confirmed across independent operator pages. MARINE LIFE CORRECTED: \"hammerhead sharks patrol the deeper flanks\" softened to a generic, unattributed shark mention -- no source names hammerheads at El Sequial specifically (hammerheads are attributed to the neighboring Corbeteña, not El Sequial, by available sources).",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -271,9 +283,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, sayulitaentourage.com, getyourguide.com",
-      "notes": "Depth range confirmed 9-21m (30-70ft). Tunnel confirmed crossing full rock formation. Open Water certification sufficient per operators.",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "banderas-scuba.com, sayulitaentourage.com, getyourguide.com, dresseldivers.com",
+      "notes": "Re-audited 2026-08-26: two-depth structure (12m/30m) confirmed exactly by dresseldivers.com's dive planner. Cave/tunnel and technical-diving character confirmed by banderas-scuba.com. No factual changes required.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -288,8 +300,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, puertovallartatours.net",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "dresseldivers.com",
+      "notes": "Re-audited 2026-08-26: CITATION CORRECTED -- puertovallartatours.net, previously cited, describes a DIFFERENT site also named \"La Puntilla\" located at Mismaloya (south bay, shore-accessible, sandy bottom, zebra moray eels, baby stingrays) that does not match this entry's coordinates or boat-access-only Punta de Mita location. That citation has been removed. dresseldivers.com's Punta de Mita dive planner independently confirms the exact two-depth structure (22m/73ft and 12m/40ft) already in this entry, which is strong corroboration of the depth data specifically, but only 1 genuinely site-specific domain could be confirmed. UNRESOLVED SOURCING per requirement 1 -- flagged in QA summary, not padded with weak sources. Name-sharing with the Mismaloya site should be watched for on future validation passes.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -304,8 +317,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, puertovallartatours.net",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "dresseldivers.com",
+      "notes": "Re-audited 2026-08-26: CITATION CORRECTED -- puertovallartatours.net, previously cited, does not mention Love Rocks at all; removed. dresseldivers.com independently confirms 10m/33ft depth (exact match) and the heart-shaped-rock naming origin with porcupine fish and goatfish, now added to the description. Only 1 genuinely site-specific domain confirmed. UNRESOLVED SOURCING per requirement 1 -- flagged in QA summary, not padded with weak sources.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -320,8 +334,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, silentworlddivers.com",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "puertovallarta.net, silentworlddivers.com",
+      "notes": "Re-audited 2026-08-26: muddy-sand bottom, sponges, nudibranchs, and location west of La Cruz de Huanacaxtle strongly re-confirmed verbatim against puertovallarta.net. banderas-scuba.com and scubaboard.com, previously listed, do not name Las Viudas specifically and have been removed. Only 2 genuinely site-specific domains confirmed. UNRESOLVED SOURCING per requirement 1 -- flagged in QA summary.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -336,8 +351,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "scubaboard.com, banderas-scuba.com, puertovallarta.net",
-      "last_qa_date": "2026-06-26"
+      "validation_source": "puertovallarta.net",
+      "notes": "Re-audited 2026-08-26: sea snakes, moray eels, 1h20m transit, and 21-40m depth range re-confirmed verbatim against puertovallarta.net. banderas-scuba.com, boca divers, and scubaboard.com, previously listed, do not name Pizota specifically and have been removed. Only 1 genuinely site-specific domain confirmed. UNRESOLVED SOURCING per requirement 1 -- flagged in QA summary, not padded with weak sources.",
+      "last_qa_date": "2026-08-26"
     }
   }
 ]

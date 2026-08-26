@@ -35,7 +35,7 @@ The defining feature of El Morro is a submarine tunnel that passes completely th
 
 ## Marine Life
 
-Giant oceanic manta rays are El Morro's signature encounter, drawn by the current-rich water sweeping the exposed pinnacles. Whale sharks appear in early summer (May-June), attracted by warm-water plankton concentrations in the open Pacific. Humpback whales pass through the area during winter (December-March) and can be heard — and occasionally seen — during dives. Sailfish and marlin inhabit the open water adjacent to the pinnacles. Dolphins regularly accompany the dive boat on transit. Gorgonians and large sea fans cover the exposed wall faces. Eagle rays patrol the deeper base of the formations. The tunnel and cavern walls host nudibranchs, octopus, and cleaning shrimp.
+Giant oceanic manta rays are El Morro's signature encounter, drawn by the current-rich water sweeping the exposed pinnacles. Whale sharks appear in early summer (May-June), attracted by warm-water plankton concentrations in the open Pacific. Humpback whales pass through the area during winter (December-March) and can be heard — and occasionally seen — during dives. Sailfish and marlin inhabit the open water adjacent to the pinnacles, most reliably in fall and winter. Dolphins regularly accompany the dive boat on transit. White-tip sharks and sea lions are also reported at the site. Gorgonians and large sea fans cover the exposed wall faces. Eagle rays patrol the deeper base of the formations. The tunnel and cavern walls host nudibranchs, octopus, and cleaning shrimp.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Boat access, approximately 90 minutes from Puerto Vallarta marina. Exposed open-
 - The 25-dive minimum is a genuine experience requirement — the tunnel, cavern, open-ocean current, and depth demand solid skills from every diver in the water
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Sayulita Entourage – El Morro and Los Anegados](https://www.sayulitaentourage.com/services/dive-trips/certified-diver/scuba-diving-in-el-morro-and-los-anegados). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Sayulita Entourage – El Morro and Los Anegados](https://www.sayulitaentourage.com/services/dive-trips/certified-diver/scuba-diving-in-el-morro-and-los-anegados). Last updated 2026-08-26.*

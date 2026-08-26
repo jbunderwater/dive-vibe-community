@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Sufa Wreck
 
-INS Sufa missile boat wreck off Coral Beach, Eilat — a 45-meter Sa'ar 3-class (Saar 3) vessel deliberately sunk in 1994 to create an artificial reef.
+Former Israeli Navy missile boat wreck off Coral Beach, Eilat, deliberately sunk in the 1990s to create an artificial reef.
 
 ## Overview
 
-The Sufa Wreck is a former Israeli Navy Sa'ar 3-class (Saar 3) missile boat deliberately sunk in 1994 to create an artificial reef off Coral Beach in Eilat. The 45-meter vessel sits upright on a sandy bottom, approximately 50 meters offshore, making it one of the most accessible wreck dives in the northern Red Sea.
+The Sufa Wreck is a former Israeli Navy missile boat scuttled off Coral Beach in Eilat to form an artificial reef; sources give the sinking year as 1993 or 1994. **Note on naming:** sources disagree substantially on this vessel's length (45 metres per some, "just over 58 metres" per others) and on her class, and several sources explicitly note that online dive-industry writeups frequently conflate the "Sufa" and "Satil" wreck names and histories at Eilat — the two are separate wrecks off separate beaches (Coral Beach vs Village Beach). This description avoids repeating a specific class/length pairing that could not be independently confirmed. The vessel sits upright on a sandy bottom, a short distance offshore, making it one of the more accessible wreck dives in the northern Red Sea.
 
 ## Site Information
 
@@ -49,4 +49,4 @@ Shore entry from the Coral Beach Nature Reserve. Descend to the wreck sitting up
 Shore entry with a short surface swim. Mild currents typical. Depth requires proper certification. Watch for lionfish and fire coral on the wreck structure.
 
 ---
-*Sources: [Eilat Diving](https://eilatdiving.co.il), [Israel Defense Forces — Sufa (ship)](https://www.idf.il). Class correction (Sa'ar 3, 45m) confirmed via Israeli Navy records. Last updated 2026-06-27.*
+*Sources: [Eilat Diving](https://eilatdiving.co.il), [Israel Defense Forces — Sufa (ship)](https://www.idf.il), [Wannadive - Sufa Wreck](https://www.wannadive.net/spot/Middle_East/Israel/Red_Sea_Eilat/Sufa_Wreck/), [Adrex - Sufa/Satil Wreck Eilat](https://www.adrex.com/en/articles/water/scuba-diving/sufa-satil-wreck-dive-in-the-red-sea-eilat-israel/). Length and class details vary between sources and are flagged accordingly above. Last updated 2026-08-26.*

@@ -11,43 +11,34 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Los Arcos — El Cañón
+# Los Arcos - El Cañón
 
-Los Arcos is a protected national marine park approximately 20 minutes south of Puerto Vallarta in Banderas Bay, comprising a cluster of rocky islets with deep tunnels, arches, caves, and one of the most diverse underwater topographies in the bay. El Cañón ("The Canyon") is the advanced wall dive site on the rocky west side of Los Arcos, a 250-metre vertical drop-off accessed by experienced divers.
+The advanced wall dive on the west side of Los Arcos Marine Park — a dramatic drop-off nicknamed "The Devil's Mouth," with the bay's most reliable manta ray encounters and vivid nudibranchs
 
 ## Overview
 
-Los Arcos is the deepest point of Banderas Bay and one of its most biodiverse diving areas. The site features five distinct underwater trail options ranging from beginner to advanced, making it accessible to a wide range of divers. El Cañón specifically refers to the dramatic western wall, where the drop-off begins at around 18 metres and descends to 80–120 feet (25–37 metres) — a vertical face used by advanced divers and those in deep diving training. The site is also notable for its nudibranchs and macro life on the rocky slopes.
+El Cañón ("The Canyon") is the advanced route on the rocky west side of Los Arcos Marine Park, about 20 minutes by boat from Puerto Vallarta. The dive is built around a dramatic drop-off — operators variously call the entrance "La Quijada del Diablo" (The Devil's Mouth) or "Devil's Canyon" — where a vertical wall begins around 18 meters and descends through the 25-37 meter recreational range before the seafloor continues into much deeper water offshore.
+
+Sources disagree considerably on how deep that offshore drop actually goes: one operator describes an approximately 800-foot (244m) wall face, Boca Divers cites a roughly 1,600-foot (488m) drop on the west side, and Banderas Scuba Republic describes the adjacent canyon as "believed to reach 1,600 meters" — while other accounts simply say it falls away toward the open-ocean Banderas Trench "over a mile" down. Rather than pick one of these figures, treat the wall itself (18-37m, within diver reach) as the confirmed part of the dive, and the deeper trench numbers as unverified beyond "very deep." El Cañón is also one of the more consistent manta ray locations in the Los Arcos complex, and the surrounding rock is well known among local divers for nudibranch variety.
 
 ## Marine Life
 
-Manta rays (Pacific and oceanic) patrol the deeper sections along the west wall, particularly in season. Moray eels inhabit rock crevices throughout the site. Various ray species are present including Cortez rays, diamond rays, electric rays, and guitar rays. Sea turtles are common. The site is particularly famous for brilliantly coloured nudibranchs on the rocky substrate. Tropical fish, schools of reef fish, and barracuda are abundant in the arches and cave systems. The Aquarium section (a shallower trail) hosts dense fish populations among rocks and coral.
+Manta rays are seen along the wall with enough regularity that operators specifically route divers here for the chance, corroborated across multiple current dive-site listings. Moray eels occupy the rock crevices along the drop-off. Sea turtles pass through regularly. The rocky substrate is noted by several sources as one of the better nudibranch locations within Los Arcos. Schools of reef fish and barracuda move through the shallower Los Arcos trail sections above the wall. Species-level ray claims beyond manta rays (e.g., specific ray species said to occur "along the west wall") could not be confirmed as specific to El Cañón versus the wider Los Arcos complex on this pass and have been left out rather than stated as site-specific.
 
 ## Dive Profile
 
-El Cañón wall dive: drop-off begins at approximately 18 metres, descending to 25–37 metres on the vertical face. Total depth range across all Los Arcos trail options: 9–37 metres (30–120 feet). Average visibility: approximately 18 metres (60 feet). Boat dive from Puerto Vallarta; transit approximately 20 minutes. El Cañón is for advanced/experienced divers only. Other trails at Los Arcos are suitable for beginners through advanced.
+The wall drop-off begins at approximately 18 meters and descends through the 25-37 meter range worked by recreational divers. Total depth range across the broader Los Arcos trail system is roughly 9-37 meters. Average visibility is reported around 18 meters (60 feet). El Cañón is for advanced or experienced divers only; other Los Arcos trails suit beginners through advanced.
 
 ## Entry and Exit
 
-All dives by guided boat trip from Puerto Vallarta. Multiple operators run daily trips. Los Arcos is a protected national marine park — anchoring is prohibited and operators use mooring buoys.
+All dives are by guided boat trip from Puerto Vallarta, roughly 20 minutes transit. Los Arcos is a protected national marine park — anchoring is prohibited and operators use mooring buoys.
 
 ## Tips and Recommendations
 
-- Advanced divers should specifically request the El Cañón / west wall route
-- The shallow Aquarium trail offers an excellent second dive for all levels
-- Look under rocky ledges and in crevices for nudibranchs — Los Arcos is one of the best nudibranch sites in the bay
-
-## Site Information
-
-- **Location**: Los Arcos Marine Park, Banderas Bay, Jalisco, Mexico
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 37 meters
-
-## Additional Resources
-
-- **Last Updated**: 2026-05-17
+- Advanced divers should specifically request the El Cañón / west wall route to reach the manta ray and deep-wall sections
+- The shallower Aquarium (El Acuario) trail nearby makes a good easier second dive on the same trip
+- Check ledges and crevices along the wall for nudibranchs — this is one of the better spots in Los Arcos for them
+- Currents can pick up along the exposed wall face; confirm conditions with your guide before descending
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Los Arcos National Marine Park](https://www.puertovallarta.net/what-to-do/los-arcos-national-marine-park/), [Vallarta Adventures – Los Arcos Scuba Diving](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Los Arcos National Marine Park](https://www.puertovallarta.net/what-to-do/los-arcos-national-marine-park/), [Vallarta Adventures – Los Arcos Scuba Diving](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [Ocean Adventure – Scuba Diving Tours Sayulita](https://www.oceanoadventure.com/scuba-diving-tours-sayulita). Last updated 2026-08-26.*

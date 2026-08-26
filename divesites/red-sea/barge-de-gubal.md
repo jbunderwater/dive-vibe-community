@@ -59,4 +59,4 @@ Currents in the Gubal Straits can be significant — site conditions should be e
 The soft coral encrustation on the barge structure provides vivid colour for wide-angle photography. Glassfish clouds inside structural openings against ambient light are a classic wreck photography composition. Macro work yields nudibranchs and crustaceans on the hull.
 
 ---
-*Sources: [redsea-diving.com](https://www.redsea-diving.com/), [Divezone - Red Sea](https://divezone.net/diving/red-sea). No dedicated wreck database entry found for this barge. Last updated 2026-05-25.*
+*Sources: [redsea-diving.com](https://www.redsea-diving.com/), [Divezone - Red Sea](https://divezone.net/diving/red-sea). No dedicated wreck database entry found for this barge. Last updated 2026-08-26.*

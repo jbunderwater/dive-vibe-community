@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Louilla
 
-The Louilla is a wreck stranded on the northern edge of Gordon Reef in the Straits of Tiran — an immediately recognisable sight that sticks more than 10 metres above the water surface and is visible from passing boats. She is a Panamanian-registered freighter of 2,271 GRT, originally built in Sweden in 1952 as the Antonia, later renamed Zschoau and then Loullia. She measured 107.55 metres in length. On 29 September 1981, while sailing in ballast from Aqaba to Suez, she ran aground on the northern edge of Gordon Reef. Salvage attempts failed and she was abandoned on 2 October 1981, declared a total constructive loss.
+The Louilla is a wreck stranded on the northern edge of Gordon Reef in the Straits of Tiran — an immediately recognisable sight that sticks more than 10 metres above the water surface and is visible from passing boats. She is a Panamanian-registered freighter originally built in Sweden in 1952 as the Antonia, renamed Zschoau (until 1978), then finally Loullia. She measured approximately 107.5 metres in length with a beam of around 14 metres. Tonnage is disputed between sources: some cite approximately 2,271 GRT, while at least one cites 3,461 tons — this discrepancy is unresolved and noted rather than a figure being picked arbitrarily. On 29 September 1981, while sailing in ballast from Aqaba to Suez, she ran aground on the northern edge of Gordon Reef. Salvage attempts failed and she was abandoned on 2 October 1981, declared a total constructive loss.
 
 ## Overview
 
@@ -58,4 +58,4 @@ Tidal currents in the Strait of Tiran can be significant and change in direction
 Wreck photography at this site benefits from both the structural subjects of the hull and the open-water pelagic encounters possible in the surrounding Tiran waters. Wide-angle shots of the coral-encrusted hull work best in mid-morning light. Schools of glassy sweepers in the interior create atmospheric scenes with a torch fill light.
 
 ---
-*Sources: [The Scuba News - The Loullia](https://www.thescubanews.com/2014/01/27/featured-red-sea-wreck-the-loullia/), [Peter & Karen Pecksen - Louilla on Gordon Reef](https://pecksen.com/20221201-egypt-00055/), [Emperor Divers - Wrecks of the Red Sea](https://www.emperordivers.com/wrecks-of-the-red-sea/). Last updated 2026-05-25.*
+*Sources: [The Scuba News - The Loullia](https://www.thescubanews.com/2014/01/27/featured-red-sea-wreck-the-loullia/), [Peter & Karen Pecksen - Louilla on Gordon Reef](https://pecksen.com/20221201-egypt-00055/), [Emperor Divers - Wrecks of the Red Sea](https://www.emperordivers.com/wrecks-of-the-red-sea/), [Red Sea Wreck Project - Loullia](https://www.redseawreckproject.com/dive-sites/red-sea-wreck-diving-sites-l/loullia/). Last updated 2026-08-26.*

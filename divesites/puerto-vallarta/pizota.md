@@ -54,4 +54,6 @@ Boat access only from Puerto Vallarta marina, approximately 1 hour and 20 minute
 - Bring a 5mm wetsuit — thermoclines at depth can drop temperatures significantly from the warm surface layer
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm). Last updated 2026-06-26.*
+*Note: on re-audit, Banderas Scuba Republic, Boca Divers, and a generic ScubaBoard thread (all previously cited) do not name Pizota specifically; they have been removed. Puerto Vallarta Net's description matches this site almost verbatim (sea snakes, moray eels, 1h20m transit, 21-40m depth). Only 1 genuinely site-specific domain confirmed — flagged as UNRESOLVED SOURCING per requirement 1, not padded with weak sources.*
+
+*Sources: [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/). Last updated 2026-08-26.*

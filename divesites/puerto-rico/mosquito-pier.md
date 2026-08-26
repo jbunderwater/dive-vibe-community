@@ -33,7 +33,7 @@ Mosquito Pier (Muelle de Mosquito) is a disused military pier located on the nor
 
 ## Marine Life
 
-The pier pilings support exceptional diversity due to decades of encrustation. Hawksbill and green turtles are regularly encountered along the pier. Spotted and green morays occupy crevices between the pilings. Caribbean reef octopus are active hunters at the base of the structure. Caribbean spiny lobster shelter under ledges. Tarpon school through the structure. Southern stingrays and flatfish rest on the sandy bottom beneath the pier. Parrotfish, French angelfish, barjacks, and blue-headed wrasses are common reef fish. Goliath groupers and manatees have been documented at the site. Frogfish and seahorse sightings are reported anecdotally by local divers but are not guaranteed.
+SevenSeas Media's site report confirms hawksbill and green turtles, green and goldentail moray eels, Caribbean octopus, Caribbean lobster, French angelfish, barjacks, tuna, dolphins, goliath groupers, southern stingrays, and manatees at the pier — and notes a manta ray was recently spotted there, an unusual but documented sighting rather than a typical one. Black Beard Sports' own site page adds gliding rays and schools of tarpon among the pier's regular sightings, plus occasional nurse sharks. Earlier mentions of frogfish and seahorse at this site were not supported by any source found in this review and have been removed.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Boat proximity to the pier structure requires caution on ascent — surface away
 
 ## Photography
 
-Mosquito Pier is one of Puerto Rico's best macro photography sites. The richly encrusted pilings provide extraordinary close-focus subjects — sea horse portraits, frogfish camouflage, and shrimp cleaning station behaviour are all available. Night dive photography with a single strobe illuminating the piling surfaces creates dramatic macro images. The silversides schooling behaviour in daytime provides wide-angle baitball compositions.
+Mosquito Pier's richly encrusted pilings are a strong macro subject, and night dive photography with a single strobe on the piling surfaces creates dramatic macro images. Turtle, moray, and octopus portraits are the best-documented subjects; seahorse and frogfish sightings are not confirmed for this site and shouldn't be expected.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Mosquito Pier is one of Puerto Rico's best macro photography sites. The richly e
 - Blackbeard Sports (Vieques): regular pier dive operations
 
 ---
-*Sources: [Black Beard Sports – Fun Dives Vieques](https://www.blackbeardsports.com/fun-dives-vieques), [SevenSeas Media – Vieques Dive Sites](https://sevenseasmedia.org/vieques-puerto-rico-and-the-two-dive-sites-you-cannot-miss/), [Vieques.com – Scuba Diving](https://vieques.com/island-puerto-rico-scuba-diving/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/). Last updated 2026-06-26.*
+*Sources: [Black Beard Sports – Fun Dives Vieques](https://www.blackbeardsports.com/fun-dives-vieques), [SevenSeas Media – Vieques Dive Sites](https://sevenseasmedia.org/vieques-puerto-rico-and-the-two-dive-sites-you-cannot-miss/), [Vieques.com – Scuba Diving](https://vieques.com/island-puerto-rico-scuba-diving/). Re-verified 2026-08-26; last updated 2026-08-26.*

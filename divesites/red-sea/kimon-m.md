@@ -46,4 +46,4 @@ Accessible by liveaboard from Hurghada or Sharm el-Sheikh, or occasionally by da
 The 32-metre maximum depth requires careful air management and NDL awareness. Penetration of the Kimon M requires wreck specialty training, redundant lighting, and a reel or line. The wreck has areas of structural instability — avoid forcing entry through collapsed sections. Currents at Abu Nuhas can pick up quickly; always dive with an SMB and signal device.
 
 ---
-*Sources: [Red Sea Wreck Project](https://redseawreckproject.com), [Deep Blue Diver](https://deepbluediver.uk), [Divers Guide](https://divers-guide.com), [CDWS](https://cdws.travel), [redsea-diving.com](https://redsea-diving.com). Last updated 2026-06-27.*
+*Sources: [Red Sea Wreck Project](https://redseawreckproject.com), [Deep Blue Diver](https://deepbluediver.uk), [Divers Guide](https://divers-guide.com), [CDWS](https://cdws.travel), [redsea-diving.com](https://redsea-diving.com). Last updated 2026-08-26.*

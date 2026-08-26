@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Blue Beach
 
-A shallow shore dive at one of Vieques Island's most beautiful beaches — a gentle reef extending directly from the sand of Sun Bay's less-visited eastern stretch, with sea turtles in the seagrass and fish-rich rocky reef sections.
+A shallow shore dive at one of Vieques Island's most beautiful beaches — "Blue Beach" is the US Navy-era nickname for La Chiva Beach on Vieques' south coast, where a gentle reef and seagrass extend from the sand within the Vieques National Wildlife Refuge.
 
 ## Overview
 
-Blue Beach (Playa Azul) is one of the series of beaches on Vieques Island's south coast within the former US Navy bombing range land that is now administered as a National Wildlife Refuge. The beach itself is considered one of Vieques' most beautiful — broad, tree-backed, with typically calm south-facing conditions. The reef offshore begins just metres from the shoreline and extends to 8 metres depth, featuring a mix of rocky reef sections, coral formations, and seagrass beds. The protection of the National Wildlife Refuge status and the lower visitor traffic compared to mainland Puerto Rico have allowed the reef and marine life to remain in good health. Visibility averages 15–25 metres. Water temperature is 26–28°C.
+**Correction from prior version:** the earlier description of this site as "Playa Azul" near "Sun Bay's eastern stretch" was incorrect and has been removed. Multiple current sources (Wikipedia, Vieques.com, Black Beard Sports) confirm that "Blue Beach" is the English nickname the US Navy gave to La Chiva Beach (Playa La Chiva) in barrio Puerto Ferro, a separate beach from Sun Bay (Sombé), located within the Vieques National Wildlife Refuge on the island's former Navy-controlled land. The beach reopened after temporary closure from 2017 Hurricane Irma damage. Locals now generally prefer the formal name La Chiva. The reef offshore begins near the shoreline, with seagrass beds scattered through the shallows and clearer, rockier snorkeling areas toward the small cay at the beach's eastern end — conditions vary noticeably along the length of the beach, from deeper turquoise at the west end to clearer water further east. Depth here is shallow, to about 8 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Blue Beach (Playa Azul) is one of the series of beaches on Vieques Island's sout
 
 ## Marine Life
 
-The site is primarily known as a snorkelling and shallow dive location. The reef sections support parrotfish, angelfish, butterfly fish, and hawksbill turtles — the latter are documented at this site by vieques.com and local operators. The southern Vieques coast is significant nesting habitat for hawksbill turtles. Eagle ray sightings are reported. Southern stingrays and spiny lobster are likely on the adjacent sandy and rocky substrate, though specific confirmation for Blue Beach is limited. The shallow reef is described as having a mix of healthy coral on the right side of the bay.
+Vieques.com describes schools of colorful reef fish in the grass beds along La Chiva, and notes the beach is a well-known snorkeling spot. Black Beard Sports' local beach guide confirms La Chiva as a strong snorkeling location within the refuge but does not itself name individual species there. This site is primarily documented as a snorkelling and shallow-dive location rather than a technical dive site — no source found in this review confirms turtles, eagle rays, or stingrays specifically at Blue Beach/La Chiva (as opposed to other Vieques beaches such as Mosquito Pier or Esperanza, where they are documented). Divers should expect typical shallow-water Vieques reef fish and grass-bed species; regional Vieques fauna (hawksbill turtles, southern stingrays) is common on nearby refuge beaches but is not confirmed site-specifically here.
 
 ## Dive Profile
 
@@ -41,24 +41,24 @@ Walk entry from the beach through the seagrass to the reef. Navigate along the r
 
 ## Entry and Exit
 
-Shore dive from Blue Beach. Sandy walk entry. The beach is in the former Navy lands administered by the US Fish and Wildlife Service — access via the dirt road network on Vieques' east end. Facilities are basic. Bring your own water and equipment.
+Shore dive from La Chiva Beach. Sandy walk entry. The beach is within the Vieques National Wildlife Refuge, administered by the US Fish and Wildlife Service, and is reached via the refuge's dirt road network. Facilities include gazebos, restrooms, and trash bins (Wikipedia). Visitors are prohibited from entering La Chiva Key (the small offshore cay) due to unexploded ordnance risk remaining from the site's Navy history.
 
 ## Tips and Recommendations
 
-Blue Beach is best in the morning before afternoon trade winds develop surface chop. The seagrass beds closer to shore are the best area for turtle encounters — spend time here before moving to the rockier reef sections. The beach is rarely crowded — arrive early in peak season. The site is well-suited for independent diving by those comfortable with shore navigation.
+Best in the morning, and best in summer through early fall (roughly May–October) when conditions are calmer — water color and clarity vary noticeably along the beach's length, with clearer conditions typically further east toward the cay. The beach is rarely crowded compared to Vieques' more central beaches. The site is well-suited for independent snorkeling and shallow diving by those comfortable with shore access on refuge land.
 
 ## Safety Considerations
 
-The remote nature of Blue Beach means no facilities and no emergency services nearby. Dive with a buddy and carry a surface signalling device. Sea urchins are present on the rocky reef sections — enter carefully. The site is within a National Wildlife Refuge — no collection of organisms.
+Facilities are refuge-basic — no emergency services nearby. Dive with a buddy and carry a surface signalling device. Do not attempt to land on or enter La Chiva Key; unexploded ordnance from the site's Navy history remains a documented risk. Sea urchins may be present in rockier sections — enter carefully. The site is within a National Wildlife Refuge — no collection of organisms.
 
 ## Photography
 
-Blue Beach's calm, shallow water and reliable turtle encounters make it a simple but very productive photography site. Natural light at 3–8 metres in Vieques' clear water delivers excellent colour for reef photography. Turtle portraits in the seagrass beds, parrotfish on the reef, and stingray shots on sandy patches are the main subjects.
+Blue Beach/La Chiva's calm, shallow water and clear conditions in the eastern section make it a straightforward natural-light photography site. Reef-fish schools in the grass beds and the beach's distinctive turquoise-to-clear color gradient are the main subjects; species-specific portraits (turtles, rays) should not be assumed without a confirmed sighting on the day.
 
 ## Additional Resources
 
-- Nan-Sea Scuba (Vieques) and Blackbeard Sports: can advise on Blue Beach conditions and access
-- US Fish and Wildlife Service Vieques National Wildlife Refuge: administers access to the east end beaches
+- US Fish and Wildlife Service Vieques National Wildlife Refuge: administers access to La Chiva/Blue Beach
+- Black Beard Sports (Vieques): local PADI operator with a Vieques beach guide covering La Chiva
 
 ---
-*Sources: [Vieques.com – Snorkeling](https://vieques.com/island-puerto-rico-snorkeling/), [PRDayTrips – Vieques Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Pure Adventure PR – Vieques Snorkel Tour](https://pureadventurepr.com/tour/vieques-island-snorkel-beach-tour/). Last updated 2026-06-26.*
+*Sources: [Wikipedia – Blue Beach (Vieques)](https://en.wikipedia.org/wiki/Blue_Beach_(Vieques)), [Vieques.com – La Chiva Beach "Blue Beach"](https://vieques.com/la-chiva-beach-puerto-rico/), [Black Beard Sports – Best Beaches in Vieques](https://www.blackbeardsports.com/wheres-the-beach-vieques). This site's name, location, and history were substantially corrected on re-audit (see note above); the previously cited PRDayTrips and Pure Adventure PR pages did not name this beach and have been dropped in favor of sources that specifically confirm La Chiva/Blue Beach. Re-verified 2026-08-26; last updated 2026-08-26.*

@@ -30,7 +30,7 @@ This submerged boat wreck in Puget Sound sits at a shallow 12 meters, making it 
 
 ## Marine Life
 
-Shallow wrecks in the Mukilteo/Everett area of Puget Sound attract typical cold-water Pacific Northwest reef species. Lingcod and cabezon are common structure-holders, using the hull as a territorial base, while copper and quillback rockfish shelter among encrusted surfaces. Giant Pacific octopus (GPO) frequent wreck sites for the den space offered by hull cavities. Plumose anemones — both white and orange — colonize any hard substrate, and nudibranchs are visible on most dives. The short distance from Edmonds Underwater Park means the surrounding area holds strong populations of all these species.
+No source confirms marine life actually observed at this specific wreck. Shallow wrecks elsewhere in the Mukilteo/Everett area of Puget Sound typically attract lingcod, cabezon, rockfish, giant Pacific octopus, and plumose anemones, and this site is plausibly similar — but that is a regional generalization, not a site-specific report, and should be treated as such.
 
 ## Dive Profile
 
@@ -49,4 +49,4 @@ Dive within 1–2 hours of slack water to avoid tidal current. Carry a dive flag
 Drysuit mandatory — hypothermia risk is real at 8–12°C. Tidal exchange can be vigorous in this part of Puget Sound; plan around slack water. Visibility can drop to 3 metres or less in spring and early summer. Boat traffic requires a deployed dive flag.
 
 ---
-*Sources: [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [ScubaBoard — Wreck diving in Puget Sound](https://scubaboard.com/community/threads/wreck-diving-in-puget-sound.70012/), [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978). Site identity unconfirmed — OSM entry is a generic "Boat" node in the Mukilteo/Possession Sound area with no named vessel recorded. Last updated 2026-06-26.*
+*No source names or confirms this specific wreck. The previously cited Scuba Diving Magazine article, ScubaBoard thread, and WDFW South Puget Sound guide are all generic regional wreck-diving material — none identifies a wreck at these exact coordinates, and none has been kept as a citation. Site identity remains unconfirmed — the OSM entry is a generic "Boat" node in the Mukilteo/Possession Sound area with no named vessel recorded. Re-audited 2026-08-26 — flagged unresolved; do not treat any historical or species claim on this page as site-specific.*

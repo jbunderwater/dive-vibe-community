@@ -59,4 +59,4 @@ Wreck diving requires awareness of entanglement hazards (loose nets, cables, fis
 The coral encrustation on the hull provides colourful wide-angle subjects with good detail. Interior shots require a powerful torch to balance the ambient light at depth. The schooling fish inside the wreck spaces are excellent subjects for atmospheric wreck photography.
 
 ---
-*Sources: [Red Sea Wreck Project - Hamada](https://redseawreckproject.com/2013/08/19/hamada), [Deep South Divers - Abu Ghusun](https://deepsouth-divers.com/tours/abu-ghusun/), [Marsa Alam Shipwrecks Guide](https://marsaalam.com/marsa-alam-shipwrecks/). Last updated 2026-05-25.*
+*Sources: [Red Sea Wreck Project - Hamada](https://redseawreckproject.com/2013/08/19/hamada), [Deep South Divers - Abu Ghusun](https://deepsouth-divers.com/tours/abu-ghusun/), [Marsa Alam Shipwrecks Guide](https://marsaalam.com/marsa-alam-shipwrecks/). Last updated 2026-08-26.*

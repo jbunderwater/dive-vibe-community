@@ -33,7 +33,7 @@ Danger Rock is a submerged rocky seamount in the northern San Juan Islands — n
 
 ## Marine Life
 
-The relatively shallow depth of Danger Rock keeps it within sunlit zones where kelp and anemone communities are at their most productive. Lingcod are abundant — this is a known site for large resident fish — and multiple rockfish species (copper, quillback, black) congregate around the seamount structure. Giant Pacific octopus inhabit the rock crevices, and wolf eels are present at den sites. Invertebrate diversity is high: Puget Sound king crabs, nudibranchs, tube worms, rock scallops, and sea stars. Kelp greenlings are curious and approachable. Harbour seals and river otters are seen occasionally.
+No source specific to Danger Rock confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Given the navigational hazard status, approach with attention 
 
 ## Tips
 
-- The seamount crest at 5 metres is an ideal macro photography location — invertebrates are dense and well-lit by natural light
-- Lingcod at this site are reportedly bold; remain calm and they will hold their position for extended observation
-- Even a 10-minute dive purely on the crest is worthwhile for the anemone density
-- Check the weather forecast carefully — exposed seamount positions can be uncomfortable in swell
+- No site-specific trip reports were located for Danger Rock -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Despite the modest depth, cold water demands dry suit equipment. The seamount po
 
 ## Photography
 
-The shallow, well-lit crest offers some of the best natural-light photography opportunities in the region. Anemone fields shot upward toward the surface can show beautiful silhouettes. Lingcod portraits and rockfish in the water column are consistent subjects. Macro work on the dense invertebrate layer is highly productive.
+No site-specific photography reports were found for Danger Rock. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). Site name reflects its status as a navigational hazard. Description reflects typical northern San Juan Islands seamount conditions; no site-specific dive publication found. Last updated 2026-06-26.*
+*No dive shop, ScubaBoard, or dive-database source describing Danger Rock as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

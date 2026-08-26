@@ -33,7 +33,7 @@ Bakers Reef lies in the northern reaches of the San Juan archipelago, where the 
 
 ## Marine Life
 
-The boulder fields at Bakers Reef host giant Pacific octopus, wolf eels in den sites, and lingcod resting on the rock outcroppings. Rockfish of multiple species — copper, quillback, and black rockfish — are common throughout the water column. Kelp greenlings patrol the kelp canopy, and cabezon occupy the rockier sections. Invertebrate life is prolific: Puget Sound king crabs pick through mussel beds and urchin patches, numerous nudibranch species (aeolid and dorid types) cruise the rock faces, and rose-coloured sea stars and sunflower sea stars move across the substrate. Harbour seals occasionally investigate divers.
+No source specific to Bakers Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Access is by boat only. Anchor on the sheltered side of the reef structure. Use 
 
 ## Tips
 
-- Dive within 30 minutes of predicted slack tide for best conditions
-- Dry suit with appropriate undergarment is essential — water is cold year-round
-- Carry a dive light to illuminate crevices where octopus and wolf eels hide
-- Move slowly and look under ledges; the richest life is often hidden from casual observation
+- No site-specific trip reports were located for Bakers Reef -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Cold water demands dry suit diving. Currents in this part of the San Juan Island
 
 ## Photography
 
-White plumose anemone walls and the resident octopus provide dramatic wide-angle and macro subjects respectively. Rockfish portraits, especially of copper rockfish in close focus, are a consistent highlight. A strobe is necessary — ambient light alone produces flat, colour-stripped images below 10 metres in Pacific Northwest waters.
+No site-specific photography reports were found for Bakers Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Bakers Reef (Q49613352)](https://www.wikidata.org/wiki/Q49613352), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Bakers Reef; description reflects typical northern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*
+*Sources: [Wikidata -- Bakers Reef (Q49613352)](https://www.wikidata.org/wiki/Q49613352) confirms this is a real, named geographic feature. No dive shop, ScubaBoard, or dive-database source describing Bakers Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

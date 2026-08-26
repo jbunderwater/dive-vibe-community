@@ -33,7 +33,7 @@ La Parguera Wall is the defining dive feature of Puerto Rico's southwest coast, 
 
 ## Marine Life
 
-The La Parguera Wall supports productive marine life at depth. Large green moray eels are a consistent feature, particularly at Old Buoy and similar sloping sections. Huge snappers and eagle rays have been documented on the wall by Paradise Scuba operators. Ocean triggerfish, French angelfish, and creole wrasse are common in the mid-water zones. Wire coral, deep-water barrel sponges, and black coral cover the deeper wall sections. Hawksbill turtles and manatees have been reported on the shallower outer reef. The site description of "Caribbean reef sharks" in the water column reflects what is typical of Caribbean walls at this depth but has not been confirmed by a named site-specific source for La Parguera Wall specifically.
+Zentacle's diver-reported listing for Parguera's Wall specifically confirms sharks and manta rays among the site's larger animal sightings, alongside barracuda, dolphins, and turtles seen on the boat ride out. Paradise Scuba's area guide adds moray eels, rays, and turtles as regular sightings on the wider La Parguera wall system. The deeper sections carry wire coral, deep-water barrel sponges, and black coral (Paradise Scuba's Black Wall description), while Zentacle notes smaller subjects — shrimp, crabs, feather duster and Christmas tree worms, and gobies — in the shallower reef-top zone before the drop. Earlier notes about "eagle rays" specifically and about manatees at this site were not supported by any source found in this review and have been removed; only the ray sightings actually documented above are retained.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive from La Parguera village operators. The harbour is the departure point
 
 ## Tips and Recommendations
 
-La Parguera has multiple named wall sections — Fallen Rock, Black Wall, and others — each with slightly different character. Ask operators which specific section they plan to dive and request Black Wall if deep black coral sections are a priority. Night dives on the wall are highly productive and offered by local operators. The La Parguera bioluminescent bay is a famous attraction — plan a combination day-dive and night bay tour.
+La Parguera has multiple named wall sections — Fallen Rock, Black Wall, Effrie's, Old Buoy, and others — each with slightly different character and depth. Sources disagree on how deep "the wall" runs: Zentacle's Parguera's Wall listing caps out around 28 m (92 ft) and rates it a beginner site, PRDayTrips describes divers working the Black Wall/Effrie's area to about 26 m with the wall continuing well past 60 m beyond recreational limits, and Paradise Scuba describes the wall dropping from 18–21 m to over 450 m at depth. This entry's 40 m maximum and Advanced rating reflect the deeper sections (Black Wall, Fallen Rock) most often cited by local operators — ask which specific section is planned, since some named sections are considerably easier than others. Night dives on the wall are offered by local operators. The La Parguera bioluminescent bay is a well-known nearby attraction.
 
 ## Safety Considerations
 
@@ -53,7 +53,7 @@ The wall drops well beyond recreational limits — maintain planned maximum dept
 
 ## Photography
 
-La Parguera Wall is Puerto Rico's best advanced wall photography site. The combination of large barrel sponges, black coral forests at depth, and regular pelagic encounters makes the site ideal for both close-focus wide-angle and full-frame wide-angle shooting. Caribbean reef shark portraits on the wall backdrop, eagle ray passes in open water, and black coral branch close-ups are the defining subjects.
+La Parguera Wall rewards both close-focus and wide-angle wall photography, with large barrel sponges and black coral forests at depth. Shark and manta sightings reported at Parguera's Wall (Zentacle) make the open water worth watching, alongside macro subjects — feather duster and Christmas tree worms, gobies — on the shallower reef top.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ La Parguera Wall is Puerto Rico's best advanced wall photography site. The combi
 - Paradise Scuba (Lajas area): regular wall dive operations from La Parguera
 
 ---
-*Sources: [Paradise Scuba – La Parguera Dive Sites](https://www.paradisescubasnorkelingpr.com/puerto-rico-dive-sites/), [PRDayTrips – La Parguera Wall Dive](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [Zentacle – Parguera's Wall](https://www.zentacle.com/Beach/5914/pargueras-wall), [Carib Dive Guide – La Parguera](http://www.caribdiveguide.com/PR_Area_4.htm). Last updated 2026-06-26.*
+*Sources: [Paradise Scuba – La Parguera Dive Sites](https://www.paradisescubasnorkelingpr.com/puerto-rico-dive-sites/), [PRDayTrips – La Parguera Wall Dive](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [Zentacle – Parguera's Wall](https://www.zentacle.com/Beach/5914/pargueras-wall), [Carib Dive Guide – La Parguera](http://www.caribdiveguide.com/PR_Area_4.htm). Re-verified 2026-08-26; last updated 2026-08-26.*

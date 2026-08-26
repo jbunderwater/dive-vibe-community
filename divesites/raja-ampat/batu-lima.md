@@ -2,7 +2,7 @@
 name: Batu Lima
 lat: -0.4501697
 lng: 130.6986886
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 27
 entryType: boat
 siteType: pinnacle
@@ -24,7 +24,7 @@ The five limestone pinnacles that give this site its name rise above the waterli
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)
 - **Current**: Variable, exposed location; can be strong on tidal flow
@@ -34,8 +34,6 @@ The five limestone pinnacles that give this site its name rise above the waterli
 
 Regional Raja Ampat marine life applies; no site-specific species reports were available for this site. The five pinnacle structures and their connecting reef are expected to support reef fish typical of the Friwen Island area.
 
-## Site Information
-
 Depths range from the surface (pinnacles break the waterline) to 27 meters at the deeper bases. Assess current direction before entry and plan accordingly.
 
 ## Entry and Exit
@@ -43,4 +41,4 @@ Depths range from the surface (pinnacles break the waterline) to 27 meters at th
 Boat access from the Friwen Island area or from liveaboards operating the northern Raja Ampat itinerary. Entry via giant stride. The site's multiple pinnacle formations provide natural orientation references. Deploy SMB for ascent; assess surface conditions at the exposed location before entry.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/). Last updated 2026-08-26.*

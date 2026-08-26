@@ -35,7 +35,7 @@ The site's centerpiece is Las Iglesias (The Churches) — a set of rock formatio
 
 ## Marine Life
 
-Giant manta rays are the headline attraction at El Chimo — the site is one of the most consistent locations in the Puerto Vallarta area for manta encounters, and their appearance is tied to current flow across the southern bay entrance. Dense schools of tropical fish aggregate around the rock formations throughout the dive. Sea turtles are regular visitors. The church-shaped rock formations shelter large moray eels in their arched openings. Stingrays and electric rays rest on the sandy areas between formations. The occasional hammerhead or bull shark passes through when conditions bring pelagic activity up from the open Pacific.
+Giant manta rays are the headline attraction at El Chimo — the site is one of the most consistent locations in the Puerto Vallarta area for manta encounters, and their appearance is tied to current flow across the southern bay entrance. Dense schools of tropical fish aggregate around the rock formations throughout the dive, including Moorish idols and sergeant majors. Sea turtles are regular visitors, and dolphins and — on rare occasions — whales pass through the area. The church-shaped rock formations shelter large moray eels in their arched openings, and seahorses have also been reported here.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Boat access only, approximately 1 hour and 45 minutes from the Puerto Vallarta m
 - Las Iglesias' arch openings are large enough for comfortable navigation but reward careful buoyancy; stay neutral to avoid disturbing the rock surfaces
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [PADI – El Chimo Dive Site](https://www.padi.com/dive-site/mexico/chimo/), [Vallarta Adventures – Private Scuba Diving at Chimo](https://www.vallarta-adventures.com/en/tour/private-scuba-chimo), [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [PADI – El Chimo Dive Site](https://www.padi.com/dive-site/mexico/chimo/), [Vallarta Adventures – Private Scuba Diving at Chimo](https://www.vallarta-adventures.com/en/tour/private-scuba-chimo), [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-08-26.*

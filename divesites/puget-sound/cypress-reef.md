@@ -33,7 +33,7 @@ Cypress Reef lies in the waters off Cypress Island, one of the less-visited isla
 
 ## Marine Life
 
-Bull kelp fronds form a canopy that hosts kelp greenlings, juvenile rockfish, and Puget Sound king crabs. Wolf eels are present in den sites in the rocky formations, and giant Pacific octopus inhabit the boulder piles at the base of the reef. Lingcod rest on open rock surfaces and are easily approached. Multiple nudibranch species (opalescent, aeolid, and dorid types) move across the encrusted rock faces. Red sea urchins, blood stars, and sunflower sea stars (where recovering from wasting syndrome) are present. Harbour seals regularly investigate divers.
+No source specific to Cypress Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Anchor clear of the kelp canopy or use the boat's engine to ho
 
 ## Tips
 
-- Navigating through the kelp canopy is part of the experience — relax and let the fronds part around you, and you will not become entangled
-- Visit in late summer (August–September) when kelp is at peak growth and fish school density is high
-- Look carefully at kelp fronds for decorator crabs and other cryptic species
-- Cypress Island's protected waters mean sea conditions are generally calm — good for less experienced intermediate divers
+- No site-specific trip reports were located for Cypress Reef -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Kelp entanglement is a minor but real risk — if tangled, stop, and slowly back
 
 ## Photography
 
-A kelp forest with filtered light is one of the most photogenic subjects in Pacific Northwest diving. Wide-angle shots looking upward through the kelp canopy toward the light are outstanding. Wolf eel portraits in their dens make excellent close-focus wide-angle images. Macro work on nudibranchs and encrusting organisms rounds out the photographic potential.
+No site-specific photography reports were found for Cypress Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Cypress Reef (Q49615500)](https://www.wikidata.org/wiki/Q49615500), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Cypress Reef; description reflects typical Cypress Island area reef conditions. Last updated 2026-06-26.*
+*Sources: [Wikidata -- Cypress Reef (Q49615500)](https://www.wikidata.org/wiki/Q49615500) confirms this is a real, named geographic feature. No dive shop, ScubaBoard, or dive-database source describing Cypress Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

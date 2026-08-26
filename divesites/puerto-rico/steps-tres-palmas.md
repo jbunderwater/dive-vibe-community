@@ -17,7 +17,7 @@ A celebrated shore dive at Rincón on Puerto Rico's northwest tip — shallow, s
 
 ## Overview
 
-Steps, also known as Tres Palmas, is named for the concrete steps cut into the rocky shoreline that provide the entry point for divers and snorkellers at Rincón. The dive site is part of the Tres Palmas Marine Reserve, one of Puerto Rico's most important coral reef protection areas, designated specifically to protect the outstanding elkhorn and staghorn coral formations that develop in the site's extremely clear and productive waters. The reef here is notably healthy compared to many Caribbean sites — the protected status and lower visitor pressure have allowed exceptional coral coverage to persist. Maximum depth is a shallow 10 metres, but the clarity and coral density make this one of Puerto Rico's most celebrated sites regardless. Visibility reaches 25–30 metres in good conditions. Water temperature is 26–28°C.
+Steps, also known as Tres Palmas, is named for the concrete steps cut into the rocky shoreline that provide the entry point for divers and snorkellers at Rincón. The site sits within the Tres Palmas Marine Reserve, a 1,400-acre reserve established in January 2004 — the first marine reserve on Puerto Rico's mainland — created specifically to protect the reef's outstanding elkhorn coral formations. Reef access is from shore via Steps Beach, with rubble zones nearby offering macro subjects (nudibranchs, crabs) alongside the main coral formations; the deeper outer reef is also reached by boat. Maximum depth at Steps itself is a shallow 10 metres. Visibility reaches 25–30 metres in good conditions. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Steps, also known as Tres Palmas, is named for the concrete steps cut into the r
 
 ## Marine Life
 
-Tres Palmas is one of the best sites in Puerto Rico for large-formation coral communities. Elkhorn coral (Acropora palmata) grows in significant colonies — a species that has declined dramatically across the Caribbean but still thrives here under marine reserve protection. Hawksbill turtles feed on the sponge growth attached to coral formations. Parrotfish, blue tangs, and surgeonfish are the dominant grazers. Caribbean spiny lobster shelter under coral overhangs. Large barracuda hover above the reef in the open water. The site is also renowned as one of the best shore snorkel locations in Puerto Rico.
+Tres Palmas protects some of the best remaining elkhorn coral (Acropora palmata) in the northern Caribbean — a species that has declined dramatically elsewhere, with some colonies here described as truck-sized (Stoked Rincón). Hawksbill turtles, including hatchlings, are documented at the reserve, along with bottlenose dolphins and, seasonally (January–March), humpback whales passing offshore. Parrotfish, sergeant majors, and surgeonfish are the common grazers on the reef. Spiny lobster and octopus shelter among the coral, and eagle rays are reported. Stoked Rincón's guide also notes nurse sharks sheltering in the coral by day and night. The earlier mention of barracuda at this specific site was not supported by any source found in this review and has been removed.
 
 ## Dive Profile
 
@@ -58,7 +58,7 @@ Steps/Tres Palmas is one of Puerto Rico's premier reef photography sites. The he
 ## Additional Resources
 
 - DRNA Puerto Rico: administers the Tres Palmas Marine Reserve
-- Taíno Divers (Rincón): local operator with deep knowledge of the Steps site
+- Taíno Divers (Rincón): local operator offering dives and snorkel tours in the reserve
 
 ---
-*Sources: [Taino Divers – Rincon Dive Sites](https://www.tainodivers.com/), [Discover Puerto Rico – Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [PRDayTrips – Rincon Diving](https://www.puertoricodaytrips.com/la-parguera-wall-dive/), [ScubaBoard – Puerto Rico Diving](https://scubaboard.com/community/threads/any-must-dives-in-puerto-rico.660989/). Last updated 2026-06-26.*
+*Sources: [Taino Divers – Rincón](https://www.tainodivers.com/), [Stoked Rincón – Guide to Tres Palmas Marine Reserve](https://stokedrincon.com/blogs/rincon-guide/tres-palmas-marine-reserve), [PRDayTrips – Steps Beach Snorkeling](https://www.puertoricodaytrips.com/snorkel-steps-beach/). Two previously cited sources have been dropped on re-audit: the PRDayTrips link was mismatched to a different page (La Parguera Wall) and has been corrected above, and the ScubaBoard thread cited previously does not actually discuss this site. Discover Puerto Rico's article could not be reached this pass (403 response) and was not used to source any claim. Re-verified 2026-08-26; last updated 2026-08-26.*

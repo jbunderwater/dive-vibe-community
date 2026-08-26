@@ -35,4 +35,4 @@ Liveaboard access only. Egyptian permits required. Giant stride entry from the t
 Remote location — dive conservatively and within limits. SMB on all ascents. Current assessment before entry.
 
 ---
-*Note: The Sabri Baba wreck (sank 2019) is not yet documented as an established recreational dive site. Description based on regional diving characteristics for Sha'ab Ohroob reef. No site-specific sources confirmed for this combined listing as a recreational dive site. Last updated 2026-06-27.*
+*Note: The Sabri Baba wreck (sank 2019) is not yet documented as an established recreational dive site. Description based on regional diving characteristics for Sha'ab Ohroob reef. No site-specific sources confirmed for this combined listing as a recreational dive site. Last updated 2026-08-26.*

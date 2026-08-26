@@ -42,4 +42,4 @@ Sources confirmed at this specific site (diveconcepts.com, lagaligoliveaboard.co
 This site carries documented safety risk from down-currents during ascent. A reef hook is mandatory equipment, not optional. Do not attempt without Advanced OWD and experience managing strong current environments. Multiple sources flag this as Advanced-only.
 
 ---
-*Sources: [Dive Concepts](https://diveconcepts.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [PADI](https://padi.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/). Last updated 2026-06-27.*
+*Sources: [Dive Concepts](https://diveconcepts.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [PADI](https://padi.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/). Last updated 2026-08-26.*

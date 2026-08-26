@@ -2,7 +2,7 @@
 name: Friwen Wall
 lat: -0.4774477
 lng: 130.6960298
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: wall
@@ -31,10 +31,10 @@ Sources confirmed at this specific site (padi.com, rajaampatdiveexperience.com, 
 
 - **Depth range**: 3–25 m
 - **Visibility**: 15–25 m
-- **Current**: Mild to moderate; All levels
+- **Current**: Mild to moderate
 - **Best time**: October–April
 - **Water temperature**: 27–30°C
 - **Entry**: Boat
 
 ---
-*Sources: [PADI](https://padi.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-06-27.*
+*Sources: [PADI](https://padi.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-08-26.*

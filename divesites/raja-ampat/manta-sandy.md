@@ -2,7 +2,7 @@
 name: Manta Sandy
 lat: -0.5532675
 lng: 130.5299532
-difficulty: Beginner
+difficulty: Advanced
 maxDepth: 18
 entryType: boat
 siteType: muck
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Manta Sandy
 
-Manta Sandy is one of Raja Ampat's premier manta ray cleaning stations, located in the Dampier Strait. The site features a sandy bottom cleaning station — NOT a reef — confirmed by 5+ sources (lagaligoliveaboard.com, diveconcepts.com, divernet.com, padi.com, scubadiverlife.com). The site type has been corrected from "reef" to "muck" (sandy bottom). Difficulty is Beginner.
+Manta Sandy is one of Raja Ampat's premier manta ray cleaning stations, located in the Dampier Strait. The site features a sandy bottom cleaning station — NOT a reef — confirmed by 5+ sources (lagaligoliveaboard.com, diveconcepts.com, divernet.com, padi.com, scubadiverlife.com). The site type has been corrected from "reef" to "muck" (sandy bottom). In-water conditions are mild and shallow, but difficulty is classified Advanced in line with Raja Ampat's remote, liveaboard-access diving character.
 
 ## Overview
 
@@ -24,7 +24,7 @@ Manta Sandy lives up to its name: the site features a shallow sandy bottom at 15
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Mild to moderate; manta activity is greatest during gentle incoming flow
@@ -52,11 +52,11 @@ Boat access from Dampier Strait liveaboards or day operators. The site's modest 
 
 ## Safety Considerations
 
-The site is shallow and typically low-current. The primary consideration is responsible manta interaction — approaching too close, directing bubbles at mantas, or breaking the cleaning station rhythm can end the encounter for all divers. Carry an SMB. Avoid group entry that creates excessive surface disturbance near the cleaning station.
+The site itself is shallow and typically low-current; the Advanced classification reflects Raja Ampat's remote, liveaboard-access diving character rather than local conditions. The primary in-water consideration is responsible manta interaction — approaching too close, directing bubbles at mantas, or breaking the cleaning station rhythm can end the encounter for all divers. Carry an SMB. Avoid group entry that creates excessive surface disturbance near the cleaning station.
 
 ## Photography
 
 Manta Sandy is arguably the finest manta photography site in Raja Ampat. The sandy bottom provides a clean, uncluttered background for manta portraits. Shooting upward from below the manta against the surface light produces dramatic silhouette shots. Wide-angle glass (10–17mm) captures the full wingspan. Getting below the manta and shooting upward is the definitive composition. The shallow depth means ambient light is plentiful without strobe assistance.
 
 ---
-*Sources: [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Dive Concepts](https://diveconcepts.com/), [Divernet](https://divernet.com/), [PADI](https://padi.com/), [Scuba Diver Life](https://scubadiverlife.com/). Last updated 2026-06-27.*
+*Sources: [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Dive Concepts](https://diveconcepts.com/), [Divernet](https://divernet.com/), [PADI](https://padi.com/), [Scuba Diver Life](https://scubadiverlife.com/). Last updated 2026-08-26.*

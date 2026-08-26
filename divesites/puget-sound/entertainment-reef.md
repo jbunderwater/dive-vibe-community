@@ -33,7 +33,7 @@ Entertainment Reef earns its name from the reliably active and diverse marine li
 
 ## Marine Life
 
-Wolf eels are a highlight — the northern San Juan Islands support robust populations, and Entertainment Reef has known den sites. Giant Pacific octopus in the deeper boulder fields are frequently encountered, sometimes very large individuals. Lingcod — including substantial fish over 70 cm — rest openly on the rock surface. Copper and quillback rockfish congregate in loose groups. The invertebrate community is typical of the nutrient-rich north Sound: white plumose anemones in cascading colonies, Puget Sound king crabs, encrusting sponges in orange and red, nudibranchs, tube worms, and rock scallops. Harbour seals often approach divers out of curiosity.
+No source specific to Entertainment Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. The reef is on regular rotation for San Juan Islands dive char
 
 ## Tips
 
-- Wolf eel dens are often marked by sea urchin shell fragments around the entrance — scan carefully
-- Linger at known octopus den areas in the deep boulders; patience often rewards with sightings
-- Early morning dives before boat traffic builds can offer the calmest conditions
-- The site suits photographers well — a 1:1 macro lens and a rectilinear wide-angle both have strong applications here
+- No site-specific trip reports were located for Entertainment Reef -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Cold-water dry suit diving is standard. Tidal current timing is essential — th
 
 ## Photography
 
-Wolf eel portraits are the signature photography subject at this site — position yourself at the den entrance and wait. Wide-angle images of the plumose anemone walls and rockfish aggregations are also compelling. Macro work on nudibranchs, shrimp, and encrusting organisms rounds out a full photographic dive. Bring a torch and strobes.
+No site-specific photography reports were found for Entertainment Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). No site-specific dive publications found for Entertainment Reef; description reflects typical northern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*
+*No dive shop, ScubaBoard, or dive-database source describing Entertainment Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*
