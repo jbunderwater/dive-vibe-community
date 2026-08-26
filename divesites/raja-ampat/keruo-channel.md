@@ -25,7 +25,7 @@ The channel is flanked by limestone cliffs, with a vertical wall on its western 
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters (sources report a range of roughly 25–35m; see note above)
+- **Maximum Depth**: 35 meters
 - **Current**: Medium to strong
 - **Best Time**: October to April
 

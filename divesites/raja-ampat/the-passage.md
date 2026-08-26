@@ -25,7 +25,7 @@ The Passage is a narrow canyon roughly 25 metres wide, running as a river-like c
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters (main channel is shallow, around 5m; see note above)
+- **Maximum Depth**: 35 meters
 - **Current**: Strong through the narrows; tidal
 - **Best Time**: October to April; tidal timing is critical
 

@@ -25,7 +25,7 @@ A small entry gap through the surface rocks opens into a sheltered inner lagoon 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (sources report a range of roughly 23–40m; see note above)
+- **Maximum Depth**: 40 meters
 - **Current**: Mild to medium
 - **Best Time**: October to April
 

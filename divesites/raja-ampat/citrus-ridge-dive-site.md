@@ -25,7 +25,7 @@ The site's terrain is a mix of coral gardens, gentle slopes, and reef outcrops s
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters (sources report a 10–27m range)
+- **Maximum Depth**: 27 meters
 - **Current**: Moderate to strong; well suited for intermediate-to-advanced drift divers
 - **Best Time**: October to April
 
