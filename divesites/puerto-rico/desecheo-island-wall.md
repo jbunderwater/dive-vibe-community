@@ -33,7 +33,7 @@ Isla Desecheo is an uninhabited island administered as a US Fish and Wildlife Se
 
 ## Marine Life
 
-Desecheo's remoteness and protected status deliver encounter rates that are exceptional by Puerto Rican standards. Caribbean reef sharks and nurse sharks are documented at the site by Aquatica PR and other operators. Spotted eagle rays are reported as regular visitors. Large groupers, snappers, and parrotfish are confirmed as abundant. Schools of fish fill the water column at the reef and cave sections. Hawksbill turtles are documented. The diverse site types — coral gardens at Candyland, wall and overhangs at Yellow Reef, and caves/tunnels at Las Cuevas — each produce different marine encounters. Note: manta ray and hammerhead shark sightings are claimed by some sources for Desecheo but have not been confirmed by multiple independent operator reports; treat these as possible but unverified.
+Aquatica PR's Desecheo guide confirms schools of snapper, parrotfish, angelfish, and groupers, moray eels, sea turtles, spotted eagle rays, nurse sharks, and dolphins at the site's dive spots. PADI's listing separately confirms sharks, whales, dolphins, and turtles as common Desecheo sightings. PRDayTrips' first-hand dive report from the Candyland site adds sea fans, spider starfish, cleaner shrimp, and a turtle encounter, with almost no current. The diverse site types — coral gardens at Candyland, walls and swim-throughs at Yellow Reef, and tunnels and archways at Las Cuevas — produce different encounters by section. Manta ray and hammerhead shark sightings, mentioned in some general Puerto Rico diving overviews, could not be confirmed against any source that specifically discusses Desecheo in this review (Aquatica PR, PADI, and PRDayTrips' own dive report all omit them) and have been removed from this description.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ The open-ocean crossing and the site's remoteness mean any incident requires mor
 
 ## Photography
 
-Desecheo is Puerto Rico's best diving photography destination. The combination of exceptional visibility, clean open-ocean water, pristine reef, and large animal encounters creates conditions that are difficult to find anywhere else in Puerto Rico. Wide-angle wall shots with the open blue Mona Passage beyond, shark portraits, eagle ray passes, and the dramatic vertical wall face are the defining subjects.
+Desecheo's exceptional visibility and pristine reef make it one of Puerto Rico's strongest photography destinations. Wide-angle wall shots with open blue water beyond, shark portraits, and eagle ray passes are the best-documented subjects — sourced to Aquatica PR and PADI's site listings rather than assumed.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ Desecheo is Puerto Rico's best diving photography destination. The combination o
 - US Fish and Wildlife Service: Desecheo is a National Wildlife Refuge; no landing permitted
 
 ---
-*Sources: [Aquatica PR – Desecheo Island Diving](https://aquaticapr.com/desecheo-island-diving-a-bucket-list-adventure-with-aquatica-pr/), [PADI – Desecheo Island Dive Site](https://www.padi.com/dive-site/puerto-rico/desecheo-island/), [PRDayTrips – Desecheo Island](https://www.puertoricodaytrips.com/dive-desecheo-island/), [Carib Dive Guide – West Coast & Desecheo](http://www.caribdiveguide.com/PR_Area_5.htm). Last updated 2026-06-26.*
+*Sources: [Aquatica PR – Desecheo Island Diving](https://aquaticapr.com/desecheo-island-diving-a-bucket-list-adventure-with-aquatica-pr/), [PADI – Desecheo Island Dive Site](https://www.padi.com/dive-site/puerto-rico/desecheo-island/), [PRDayTrips – Desecheo Island](https://www.puertoricodaytrips.com/dive-desecheo-island/), [Carib Dive Guide – West Coast & Desecheo](http://www.caribdiveguide.com/PR_Area_5.htm). Re-verified 2026-08-26; last updated 2026-08-26.*

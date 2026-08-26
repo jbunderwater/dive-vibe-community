@@ -17,7 +17,7 @@ Very shallow rocky reef near Punta de Mita — maximum 10 meters, consistently c
 
 ## Overview
 
-Love Rocks is a very shallow rocky reef site located near Punta de Mita at the northern tip of Banderas Bay. At a maximum depth of 10 meters, it is one of the shallowest dive sites in the Puerto Vallarta area and is specifically valued for its consistently calm conditions and easy entry. The shallow depth and protected location make it ideal for beginners, newly certified divers, and those doing their first dive in a new destination.
+Love Rocks is a very shallow rocky reef site located near Punta de Mita at the northern tip of Banderas Bay, named for a large heart-shaped rock formation divers and snorkelers encounter on the site. At a maximum depth of 10 meters, it is one of the shallowest dive sites in the Puerto Vallarta area and is specifically valued for its consistently calm conditions and easy entry. The shallow depth and protected location make it ideal for beginners, newly certified divers, and those doing their first dive in a new destination.
 
 The site's rocky formations create an accessible, low-stress environment where divers can focus on relaxing into their buoyancy and observing marine life without depth pressure or navigation complexity. Love Rocks is frequently paired with La Puntilla (which offers a deeper 22-meter option) on two-tank trips out of Punta de Mita, giving mixed-experience groups a practical way to split the day by ability level.
 
@@ -35,7 +35,7 @@ The site's rocky formations create an accessible, low-stress environment where d
 
 ## Marine Life
 
-Damselfish are the most abundant species, covering the rocky substrate in dense numbers throughout the site. Parrotfish work the reef surface consistently. Pufferfish are common in the shallower sections and tend to be tolerant of close approach. Triggerfish patrol the reef surface. Moray eels occupy the rock crevices throughout the formation. The strong natural light at 10 meters means colors appear vivid and clearly defined without artificial lighting.
+Porcupine fish are confirmed at the site, swimming lazily below divers and snorkelers near the heart-shaped rock, alongside schools of goatfish. Damselfish, parrotfish, pufferfish, triggerfish, and moray eels are also present, consistent with the broader Punta de Mita reef community, though these have not been individually confirmed as site-specific beyond the porcupine fish and goatfish sightings. The strong natural light at 10 meters means colors appear vivid and clearly defined without artificial lighting.
 
 ## Dive Profile
 
@@ -50,8 +50,10 @@ Boat dive from Punta de Mita operators. Short transit time from the Punta de Mit
 - Love Rocks naturally pairs with La Puntilla on two-tank trips from Punta de Mita — do Love Rocks first to warm up, then La Puntilla for the deeper dive
 - The consistently calm conditions here make it one of the most reliable beginner sites in the northern bay regardless of weather
 - Practice neutral buoyancy actively — at 10 meters the reef is always close and good trim makes a genuine difference
-- Pufferfish here are relaxed and allow close observation; approach slowly and avoid sudden movements
+- Look for the heart-shaped rock a bit further out and deeper — porcupine fish and goatfish are reliably seen around it
 - Natural light is strong throughout the dive — no torch needed for basic exploration, but one reveals details in rock crevices
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Tours – La Puntilla Scuba Diving](https://www.puertovallartatours.net/la-puntilla-scuba-diving.htm), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/). Last updated 2026-06-26.*
+*Note: an earlier version of this page cited Puerto Vallarta Tours and a generic ScubaBoard thread as sources; neither mentions Love Rocks by name and both have been removed. Only one genuinely site-specific source (Dressel Divers) could be confirmed on this pass.*
+
+*Sources: [Dressel Divers – Puerto Vallarta Snorkeling](https://www.dresseldivers.com/snorkel/mexico/puerto-vallarta-snorkeling/), [Dressel Divers – Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-08-26.*

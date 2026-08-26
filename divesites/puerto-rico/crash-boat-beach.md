@@ -17,7 +17,7 @@ Puerto Rico's most popular shore dive — a vibrant reef and rubble zone off the
 
 ## Overview
 
-Crash Boat Beach takes its name from the US Air Force Ramey Base crash rescue boats that were formerly stationed at the concrete pier here during the Cold War era. The pier and surrounding rubble zone have created an artificial reef structure that has developed a remarkably productive marine community over the decades. The dive area extends along the reef slope from the shallows to 15 metres, with the pier structure, rubble areas, and natural reef sections all contributing to the site's diversity. The northwest coast location gives the site excellent visibility on calm days — 20–25 metres is typical in winter and spring conditions. Water temperature is 26–28°C year-round.
+Crash Boat Beach takes its name from the pier that US military rescue boats used to launch from to reach downed airmen from the nearby Ramey Air Force Base (Wikipedia). Over time, sand carried by local currents filled in around the pier, and the structure — no longer usable for docking — has become an artificial reef with a productive marine community. Aquatica PR's guide gives a maximum depth of about 14 m (45 ft) for the site, with the pier structure, rubble areas, and natural reef sections all contributing to the dive. The northwest coast location gives the site good visibility on calm days. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Crash Boat Beach takes its name from the US Air Force Ramey Base crash rescue bo
 
 ## Marine Life
 
-Crash Boat Beach is one of Puerto Rico's most reliable turtle sites. Green and hawksbill turtles are frequently encountered on morning dives, and some individuals are known to local dive guides. Large schools of French grunts and yellowtail snappers occupy the pier structure. Caribbean spiny lobster shelter in the rubble zones. Moray eels occupy crevices in the reef and rubble sections. Sergeant majors, tangs, angelfishes, parrotfish, filefishes, goatfishes, and butterflyfishes are abundant throughout. Octopus and seahorse sightings are reported occasionally. Nurse shark encounters are documented but not guaranteed on every visit.
+A ScubaBoard diver report from the site describes sea turtles present on essentially every dive. Aquatica PR's west-coast guide adds moray eels and octopus among the pier pilings, plus schools of tropical fish. Zentacle's Aguadilla listing names sergeant majors, tangs, angelfishes, parrotfish, filefishes, goatfishes, and butterflyfishes as the common reef community, with turtles and moray eels present but not guaranteed on any given dive. Other operator pages mention rays and, less consistently, nurse sharks at the site, but this review could not confirm nurse sharks against a source describing Crash Boat specifically — treat sightings as possible but not expected. Earlier mentions of seahorses and Caribbean spiny lobster at this site were not supported by any source found in this review and have been removed.
 
 ## Dive Profile
 
@@ -53,12 +53,12 @@ Boat traffic is present in the area — deploy an SMB or surface well clear of b
 
 ## Photography
 
-Crash Boat Beach is one of Puerto Rico's best natural-light photography sites. Morning light at 8–15 metres in clear northwest coast water is exceptional. Turtle portraits are the signature image — approach slowly from below and to the side for the best angles. School-of-fish compositions under the pier are also excellent subjects.
+Turtle portraits are the signature image at Crash Boat — approach slowly from below and to the side. The pier pilings, with their encrustation and resident fish schools, are also a worthwhile subject.
 
 ## Additional Resources
 
-- Aqua Adventure Puerto Rico (Aguadilla): local operator with Crash Boat expertise
+- Aquatica Underwater Adventures (Aguadilla): local operator with Crash Boat expertise
 - The beach has free public parking and facilities
 
 ---
-*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Scuba Diving Magazine – Puerto Rico DIY Guide](https://www.scubadiving.com/puerto-rico-diy-dive-guide-rincon-and-aguadilla). Last updated 2026-06-26.*
+*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Wikipedia – Crash Boat Beach](https://en.wikipedia.org/wiki/Crash_Boat_Beach). The previously cited Scuba Diving Magazine link no longer resolves and has been replaced with Wikipedia for the site history. Re-verified 2026-08-26; last updated 2026-08-26.*

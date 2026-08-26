@@ -54,4 +54,6 @@ Shore entry is available directly from Mismaloya beach — one of the few shore-
 - The cove is calm enough for training dives even when conditions are choppy in the open bay
 
 ---
-*Sources: [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI – Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/). Last updated 2026-06-26.*
+*Note: an earlier version of this page cited Boca Divers and Banderas Scuba Republic as sources; on re-check, neither names Mismaloya as a distinct site, so both have been removed. Only 3 genuinely site-specific domains could be confirmed.*
+
+*Sources: [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [PADI – Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Zentacle – Mismaloya](https://www.zentacle.com/Beach/580/mismaloya). Last updated 2026-08-26.*

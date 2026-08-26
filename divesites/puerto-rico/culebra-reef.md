@@ -33,7 +33,7 @@ Culebra is a small island municipality 27 kilometres east of Puerto Rico's main 
 
 ## Marine Life
 
-Culebra's reefs support some of Puerto Rico's best turtle populations. Hawksbill turtles are regularly encountered and are well-documented at Carlos Rosario area. Schools of yellow snapper and creole wrasse are characteristic of the reef crest and wall. Blue chromis are abundant during safety stops on the shallower sections. Large parrotfish and groupers are common. The Luis Pena Marine Reserve protection means that reef fish and invertebrates are less disturbed here than at most Puerto Rican mainland sites. Caribbean reef sharks, rays, and dolphins are listed among general sightings by dive operators at Culebra.
+"Culebra Reef" here represents Culebra's general reef diving character rather than one single named site — Aqua Adventure's local site list names at least nine distinct dive spots around the island (Luis Peña, Monito, Carlos Rosario, Cayo Geniki, Cayo Ballena, Cayo Tiburón, Geniki Caves, Los Corchos, and the Wit Power tugboat wreck), and marine life varies by location. PADI's listing for Carlos Rosario Wall — within the Luis Peña Marine Reserve — specifically confirms schools of yellow snapper and creole wrasse, blue chromis around the safety stop, and rays, turtles, sharks, and dolphins among common sightings. Aqua Adventure's guide adds that the reserve's protection allows fish and invertebrates to go largely undisturbed compared to mainland Puerto Rico. Species not tied to a named Culebra site by a source in this review (e.g., groupers, large parrotfish as headline sightings) have been kept general rather than stated as guaranteed.
 
 ## Dive Profile
 
@@ -53,12 +53,12 @@ The crossing from Fajardo can be rough in trade wind conditions — check sea st
 
 ## Photography
 
-Culebra's clear water, healthy reef, and active marine life make it Puerto Rico's best reef photography destination. Natural light at 10–18 metres in 25+ metre visibility delivers excellent colour and sharpness without strobes. Turtle portraits over the healthy reef are the signature Culebra image.
+Culebra's clear water — Aqua Adventure attributes this to the island's lack of freshwater runoff — and active reef fish make it a strong reef photography location. Turtle portraits and school-of-fish compositions at Carlos Rosario are the best-documented Culebra images.
 
 ## Additional Resources
 
-- Culebra Divers: local operator based in Dewey with comprehensive reef dive programs
+- Culebra Divers: local operator based in Dewey, runs 50+ dive sites around the island but does not publish individual site descriptions
 - Fajardo ferry: regular service connects Culebra to the main island for visiting divers
 
 ---
-*Sources: [PADI – Carlos Rosario Wall](https://www.padi.com/dive-site/puerto-rico/carlos-rosario-wall/), [Aqua Adventure – Scuba Diving in Culebra](https://www.aquaadventurepr.com/our-adventures/charter-destinations/scuba-diving-sites/scuba-diving-in-culebra/), [Culebra Divers](https://culebradivers.com/), [PRDayTrips – Culebra Snorkeling](https://www.puertoricodaytrips.com/culebra-snorkeling/). Last updated 2026-06-26.*
+*Sources: [PADI – Carlos Rosario Wall](https://www.padi.com/dive-site/puerto-rico/carlos-rosario-wall/), [Aqua Adventure – Scuba Diving in Culebra](https://www.aquaadventurepr.com/our-adventures/charter-destinations/scuba-diving-sites/scuba-diving-in-culebra/), [Culebra Divers](https://culebradivers.com/), [PRDayTrips – Culebra Snorkeling](https://www.puertoricodaytrips.com/culebra-snorkeling/). Re-verified 2026-08-26; last updated 2026-08-26.*

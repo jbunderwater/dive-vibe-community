@@ -33,7 +33,7 @@ Dennis Shoal is a submerged rocky plateau positioned to catch tidal exchange in 
 
 ## Marine Life
 
-Lingcod are reliably seen at Dennis Shoal, often occupying the shallowest portions of the rocky structure. Copper and quillback rockfish hover in loose aggregations around the shoal perimeter, and kelp greenlings dart through the kelp fronds. Giant Pacific octopus use the boulder crevices, and the shoal floor is crossed by sea stars, including sunflower sea stars where populations are recovering. Nudibranchs are diverse: aeolids, dorids, and arminids are all recorded. Puget Sound king crabs and rock scallops occupy sheltered positions on the rock faces.
+No source specific to Dennis Shoal confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. The shoal is primarily accessed by chartered dive boats from F
 
 ## Tips
 
-- Linger on the shoal crest longer than the deeper edges — the anemone density and fish activity are highest there in moderate sunlight
-- Ask local dive guides about current patterns at this specific shoal — micro-currents vary by tidal phase and season
-- Autumn dives (September–November) can offer excellent visibility as plankton blooms subside
-- Carry a dive light; even at 15 metres, the underside of rock ledges is dark and rich with life
+- No site-specific trip reports were located for Dennis Shoal -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Cold water (7–11°C) demands dry suit diving. The shallow maximum depth reduce
 
 ## Photography
 
-The 15-metre maximum depth keeps subjects within the range of ambient light in summer, making Dennis Shoal a good natural-light photography site for wide-angle work. Lingcod on the shoal crest, plumose anemone fields, and close-up nudibranch images are all excellent subjects. For accurate colour at depth, supplemental strobes are still recommended.
+No site-specific photography reports were found for Dennis Shoal. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Dennis Shoal (Q49615627)](https://www.wikidata.org/wiki/Q49615627), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Dennis Shoal; description reflects typical southern San Juan Islands shoal conditions. Last updated 2026-06-26.*
+*Sources: [Wikidata -- Dennis Shoal (Q49615627)](https://www.wikidata.org/wiki/Q49615627) confirms this is a real, named geographic feature. No dive shop, ScubaBoard, or dive-database source describing Dennis Shoal as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

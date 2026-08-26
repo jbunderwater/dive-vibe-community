@@ -33,7 +33,7 @@ Parker Reef is located within the San Juan Islands National Wildlife Refuge and 
 
 ## Marine Life
 
-The protected status of Parker Reef contributes to a fish community with notably large individuals. Lingcod here are reported to reach impressive sizes, and copper and quillback rockfish are abundant. Giant Pacific octopus in the boulder fields can be very large — arm spans of 2 metres or more have been recorded in this part of the archipelago. Wolf eels are present, and harbour seals from local rookeries on the refuge islands regularly investigate divers. Invertebrate life is exceptional: plumose anemone walls, Puget Sound king crabs, nudibranchs, encrusting sponges, and rock scallops characterise every surface.
+No source specific to Parker Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. The northern San Juan Islands are reached by charter from Anac
 
 ## Tips
 
-- The protection afforded by the wildlife refuge means larger, bolder fish — approach slowly for best viewing
-- Visiting in midsummer (July–August) coincides with salmon runs and the potential for orca sightings in nearby waters
-- Respect the wildlife refuge by staying off rocks above the waterline where seabird and seal habitat is protected
-- Carry extra warmth — water in the northern Sound can be colder than southern sites
+- No site-specific trip reports were located for Parker Reef -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ The northern San Juan Islands are more exposed to open-water conditions than the
 
 ## Photography
 
-The large fish at Parker Reef make outstanding portrait subjects. Close-focus wide-angle shots of large lingcod and rockfish near the anemone-covered rock faces are a signature Pacific Northwest image. Macro work on nudibranchs and encrusting organisms is equally productive. A torch and strobe are essential for accurate colour at depth.
+No site-specific photography reports were found for Parker Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). No site-specific dive publications found for Parker Reef; description reflects typical northern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*
+*No dive shop, ScubaBoard, or dive-database source describing Parker Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

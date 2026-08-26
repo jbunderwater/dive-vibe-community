@@ -33,7 +33,7 @@ Shirt Tail Reef is a submerged rocky structure in the southern San Juan Islands,
 
 ## Marine Life
 
-Giant Pacific octopus are a reliable encounter at Shirt Tail Reef — the irregular rock profile provides abundant den sites. Wolf eels are present in the deeper crevices. Lingcod, copper rockfish, and kelp greenlings are resident throughout. The invertebrate layer is typically dense: plumose anemone colonies, encrusting sponges, nudibranchs (opalescent, aeolid, and dorid species), tube worms, and sea stars. Puget Sound king crabs move through the boulder areas. Harbour seals and Stellar sea lions occasionally investigate divers.
+No source specific to Shirt Tail Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only, operated primarily by Friday Harbor and Anacortes charter oper
 
 ## Tips
 
-- The irregular reef profile creates many small overhangs and rock pockets — these are prime spots for octopus and wolf eel dens
-- Search the transition zones between rock and sand at the reef base for flatfish and additional octopus
-- The reef is manageable for an intermediate diver building experience in Pacific Northwest cold-water environments
-- Bring a macro lens — the nudibranchs at this site are diverse and well-documented in the regional dive community
+- No site-specific trip reports were located for Shirt Tail Reef -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Cold water (7–11°C) requires dry suit diving. Plan dives for slack tide and a
 
 ## Photography
 
-The irregular topography and boulder gaps at Shirt Tail Reef make for interesting wide-angle compositions. Octopus peering from den entrances and wolf eel portraits in their rock crevices are strong subjects. Macro photography on nudibranchs and encrusted surfaces is productive throughout the dive. A strobe is essential for colour accuracy.
+No site-specific photography reports were found for Shirt Tail Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). No site-specific dive publications found for Shirt Tail Reef; description reflects typical southern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*
+*No dive shop, ScubaBoard, or dive-database source describing Shirt Tail Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

@@ -33,7 +33,7 @@ Mouatt Reef is a rocky structure in the northern San Juan Islands positioned to 
 
 ## Marine Life
 
-The current-facing side of the reef hosts the densest plumose anemone colonies, fed by planktonic material in the tidal flow. Lingcod and rockfish (copper, quillback) are abundant, taking advantage of the current to ambush prey. Giant Pacific octopus inhabit the sheltered boulder gaps on the reef's lee side. Wolf eels are reported from den sites in the rock crevices. Invertebrate diversity is high: Puget Sound king crabs, nudibranchs, rock scallops, and encrusting sponges in brilliant orange and red dominate the rock faces. Harbour seals are frequently seen.
+No source specific to Mouatt Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Anchor or hold position on the lee side during the dive to kee
 
 ## Tips
 
-- The exposed reef faces are the best reward at this site; do not spend all time in the sheltered zones
-- Time the dive carefully: plan to start at the beginning of slack and ascend as current begins to pick up
-- Northern San Juan Island reefs like this have historically had the best octopus sightings — look carefully in every available gap
-- Bring an underwater light — even in shallow water, the colour of invertebrates under artificial light is extraordinary
+- No site-specific trip reports were located for Mouatt Reef -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ This site is more current-exposed than average and requires careful tidal planni
 
 ## Photography
 
-The anemone-covered current-facing reef face is a spectacular wide-angle subject. Shooting upward from the rock surface through the anemone canopy toward the surface produces memorable images. Macro photography on the sponge and nudibranch communities is detailed and colourful. A strobe produces far better results than ambient light alone at this depth.
+No site-specific photography reports were found for Mouatt Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Mouatt Reef (Q49619403)](https://www.wikidata.org/wiki/Q49619403), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Mouatt Reef; description reflects typical northern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*
+*Sources: [Wikidata -- Mouatt Reef (Q49619403)](https://www.wikidata.org/wiki/Q49619403) confirms this is a real, named geographic feature. No dive shop, ScubaBoard, or dive-database source describing Mouatt Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

@@ -54,4 +54,6 @@ Boat dive from Puerto Vallarta marina or operators based in La Cruz de Huanacaxt
 - This site offers a useful contrast to the dramatic reef and pinnacle sites elsewhere in the bay; add it to an itinerary for a change of pace
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Silent World Divers – North Bay Diving](https://silentworlddivers.com/scuba-diving-in-the-bay-of-banderas-north-side-puerto-vallarta-riviera-nayarit-silent-world-divers/). Last updated 2026-06-26.*
+*Note: on re-audit, Banderas Scuba Republic and a generic ScubaBoard thread (previously cited) do not name Las Viudas specifically; the Banderas Scuba Republic citation has been removed. Puerto Vallarta Net's description matches this site almost verbatim (muddy-sand bottom, sponges, nudibranchs, location west of La Cruz de Huanacaxtle). Only 2 genuinely site-specific domains confirmed — flagged as thin sourcing.*
+
+*Sources: [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Silent World Divers – North Bay Diving](https://silentworlddivers.com/scuba-diving-in-the-bay-of-banderas-north-side-puerto-vallarta-riviera-nayarit-silent-world-divers/). Last updated 2026-08-26.*

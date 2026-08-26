@@ -33,7 +33,7 @@ Humacao Reef lies in the waters off the east coast of Puerto Rico near the Humac
 
 ## Marine Life
 
-The east coast's lower dive traffic produces a marine community that is less habituated to divers, creating more naturalistic encounters. Hawksbill turtles are regularly seen on the reef, feeding on sponges. Large parrotfish and queen triggerfish are prominent. Southern stingrays traverse the sandy corridors between reef sections. Caribbean spiny lobster shelter in the deeper reef crevices. Schools of creole wrasse and French grunts are abundant throughout the reef zone.
+"Humacao Reef" is a general stand-in for the Palmas del Mar/Humacao reef system rather than one specific named site — Jen There Done That's dive report names four distinct sites in the area (Cubera Reef at La Conga, Hansi Hub, Cayo Largo, and Udûn), and a regional guide describes roughly two dozen sites off Humacao, including The Cracks, The Drift, Red Hog, and Basslet Reef. Jen There Done That confirms lobster and lionfish hunting at Cubera Reef and Udûn, an occasional nurse shark at Hansi Hub, and grouper and reef fish generally across the sites. Other sources add that dolphins, whales, and manatees are seen seasonally off Humacao. Species previously listed here without a site-specific source — hawksbill turtles feeding on sponges, queen triggerfish, southern stingrays, spiny lobster, creole wrasse, French grunts as a defined community for "Humacao Reef" specifically — have been removed; divers should expect typical east-coast Puerto Rico reef fauna rather than the specific list previously given.
 
 ## Dive Profile
 
@@ -53,12 +53,12 @@ East coast exposure can produce stronger surge and current than the sheltered we
 
 ## Photography
 
-The east coast's clear water and less-disturbed reef make Humacao a productive site for natural-light reef photography. Turtle encounters over the brain coral formations, stingray portraits on sandy corridors, and school-of-fish compositions are the main subjects.
+The east coast's clear water and less-disturbed reef make Humacao a productive site for natural-light reef photography. Reef-scape shots over the brain and star coral formations and school-of-fish compositions are the best-supported subjects; treat turtle or ray encounters as a bonus rather than a guaranteed shot, since no site-specific source confirms them here.
 
 ## Additional Resources
 
-- Palmas del Mar Resort dive operators: offer east coast reef dives including Humacao area sites
+- Palmas del Mar Resort dive operators: offer east coast reef dives including named Humacao-area sites (Cubera Reef, Hansi Hub, Cayo Largo, Udûn, and others)
 - The east coast has fewer operators than the west — book ahead as capacity is limited
 
 ---
-*Sources: [Jen There Done That – Scuba Dive Palmas del Mar](https://jentheredonethat.com/scuba-dive-palmas-del-mar-puerto-rico/), [PRDayTrips – Puerto Rico Scuba Diving](https://www.puertoricodaytrips.com/vieques-scuba-diving/), [Discovering Puerto Rico – Scuba Diving](https://www.discoveringpuertorico.com/scuba-diving-in-puerto-rico/). No site-specific sources found for "Humacao Reef" as a named dive site; description based on east coast reef character documented by Palmas del Mar area operators. Last updated 2026-06-26.*
+*Sources: [Jen There Done That – Scuba Dive Palmas del Mar](https://jentheredonethat.com/scuba-dive-palmas-del-mar-puerto-rico/), [Discovering Puerto Rico – Scuba Diving in Puerto Rico](https://www.discoveringpuertorico.com/scuba-diving-in-puerto-rico/), [My Guide Puerto Rico – Puerto Rico Diving Sites](https://www.myguidepuertorico.com/travel-articles/puerto-rico-diving-sites). The previously cited PRDayTrips link was mismatched to the Vieques page and has been dropped rather than corrected, since no working PRDayTrips page specific to Humacao was found this pass. No source confirms "Humacao Reef" as a single named dive site; this entry represents the area's general reef character. Re-verified 2026-08-26; last updated 2026-08-26.*

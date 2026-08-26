@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Shark Reef
 
-A submerged rocky reef in the San Juan Islands, known for dense plumose anemone walls and resident wolf eels.
+A submerged rocky reef off Lopez Island in the San Juan Islands, confirmed by local divers as a genuine, regularly-dived current-swept site.
 
 ## Overview
 
-Shark Reef sits within the nutrient-rich waters of the San Juan archipelago, where glacier-carved topography and strong tidal exchange fuel some of the most productive cold-water diving on the Pacific coast. The reef's boulder fields and rocky outcroppings are blanketed in white plumose anemones, orange tunicates, and encrusting sponges. Water temperatures hold between 7–12°C year-round, making a dry suit essential. Visibility typically ranges from 8–15 metres, improving during neap tides in summer.
+Shark Reef sits within the nutrient-rich waters of the San Juan archipelago, off the west side of Lopez Island. An nwdiveclub.com forum thread on Lopez Island dive sites independently confirms Shark Reef as a real, boat-accessed site, describing it as "a sweet drift dive" — current is the defining feature of the site. This is distinct from Shark Reef Sanctuary, the shore-based county park a short distance to the south on Lopez Island, which is a land-based nature preserve rather than the same underwater feature. Water temperatures hold between 7–12°C year-round, making a dry suit essential.
 
 ## Site Information
 
@@ -33,11 +33,11 @@ Shark Reef sits within the nutrient-rich waters of the San Juan archipelago, whe
 
 ## Marine Life
 
-The reef is classic San Juan Islands cold-water habitat. Giant Pacific octopus are commonly encountered tucked into boulder crevices, and wolf eels — sometimes in mated pairs — inhabit den sites in the deeper sections. Lingcod, many sizes of rockfish (copper, quillback, and canary), and kelp greenling patrol the reef top. Invertebrate life is extraordinarily dense: Puget Sound king crabs, encrusting hydroids, nudibranchs (particularly aeolids and dorids), tube worms, and colonies of strawberry anemones fill every available surface. Harbour seals and river otters occasionally visit from the surface.
+The nwdiveclub.com source that confirms this site describes it primarily in terms of current strength rather than specific marine life, so no site-specific species list can be attributed to Shark Reef with confidence. The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, and dense plumose anemone growth, and a current-swept boulder reef like this is a plausible habitat for all of them — but until a diver report or operator listing documents an actual sighting here, treat any specific species claim for this site as unconfirmed.
 
 ## Dive Profile
 
-Descend to the reef top at 8–10 metres and work the boulder fields, looking into crevices and beneath ledges for octopus and wolf eels. The most colourful invertebrate growth is found between 10–18 metres on the vertical rock faces. Plan around slack tide — even a moderate tidal exchange can create distracting current over the reef crest.
+Descend to the reef top at 8–10 metres and work the boulder fields. Confirmed by nwdiveclub.com divers as a strong current site, best treated as a drift dive rather than a static exploration — plan around slack tide, as even a moderate tidal exchange can create fast, potentially unmanageable current over the reef.
 
 ## Entry and Exit
 
@@ -45,10 +45,9 @@ Access is by boat only; no shore entry is practical. Approach the site from the 
 
 ## Tips
 
-- Check NOAA tidal charts and plan your dive for within 30 minutes of slack water
+- Check NOAA tidal charts and plan your dive for within 30 minutes of slack water — current, not marine life, is what local divers flag about this site
 - Dry suit is mandatory — hypothermia risk is real even in summer
-- Carry a dive light to illuminate dark rock faces; colours pop under artificial light
-- Be patient at wolf eel dens — slow movements and distance will allow close observation
+- Carry a dive light to illuminate dark rock faces
 - Bring a surface marker buoy; boat traffic in the San Juan Islands is heavy in summer
 
 ## Safety
@@ -57,7 +56,7 @@ Cold water (7–12°C) demands dry suit certification and proper undergarment se
 
 ## Photography
 
-Macro shooters will find endless subjects: nudibranchs, shrimp on anemones, and the intricate textures of encrusting sponges. Wide-angle shots of white plumose anemone walls with a diver silhouette are a signature San Juan Islands image. Use a strobe — the cold, tannin-tinged water absorbs colour quickly below 8 metres.
+No site-specific photography reports were found. General Pacific Northwest reef photography practice applies — a strobe or video light for colour accuracy, wide-angle for rock/anemone terrain, macro for invertebrate life — but given the current, this is a more challenging site for stationary macro work than most San Juan Islands reefs.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [Zentacle — Washington Dive Sites](https://www.zentacle.com/loc/us/wa). Last updated 2026-06-26.*
+*Sources: [Northwest Dive Club — Lopez Island dive sites](https://nwdiveclub.com/viewtopic.php?t=8191), which independently confirms Shark Reef as a real, current-swept boat dive off Lopez Island ("a sweet drift dive"). Only one genuinely site-specific source was found; the previously cited WDFW South Puget Sound guide, Scuba Diving Magazine regional article, and Zentacle listing do not name this specific site and have been removed. Re-audited 2026-08-26 — flagged unresolved for the 3-independent-source requirement despite this partial confirmation.*

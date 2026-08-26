@@ -33,7 +33,7 @@ Case Shoal is a shallow rocky rise in central Puget Sound (coordinates 47.85°N,
 
 ## Marine Life
 
-Hood Canal is renowned for its extraordinary abundance of spot prawns — large, flavourful prawns that burrow into the sandy-mud bottom at depth and congregate in shallower areas at certain times of year. The shoal is also home to giant Pacific octopus in the rocky crevices, Dungeness crabs on the sandy margins, and red and green urchins across the rocky substrate. Lingcod and rockfish (black and quillback) use the rock relief as ambush points. Plumose anemones, encrusting sponges, and tube worms colonise the harder substrate. Nudibranchs, particularly Hopkins' roses and opalescent nudibranchs, are common.
+No source specific to Case Shoal confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding Puget Sound / Kitsap Peninsula waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed puget sound rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Anchor on the down-current side. Back-roll or giant stride ent
 
 ## Tips
 
-- Visit in spring (April–May) when spot prawn activity is highest
-- Search the sandy transitions between rock and sediment carefully — octopus often position themselves at the rock edge
-- The site is sheltered enough for night diving; octopus are far more active after dark
-- Carry a dive light even on daylight dives for examining rock overhangs
+- No site-specific trip reports were located for Case Shoal -- treat the notes above as general puget sound guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Cold water requires appropriate exposure protection. Hypothermia can develop fas
 
 ## Photography
 
-The combination of crustaceans, anemones, and octopus makes Case Shoal a productive macro photography destination. Spot prawns and Dungeness crabs make compelling subjects. Nudibranchs on encrusting sponges and the detail of plumose anemone columns work well with a macro lens. Strobes required for colour accuracy.
+No site-specific photography reports were found for Case Shoal. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of puget sound reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Case Shoal (Q49614681)](https://www.wikidata.org/wiki/Q49614681), [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). No site-specific dive publications found for Case Shoal; description reflects regional Puget Sound cold-water shoal conditions. Last updated 2026-06-26.*
+*Sources: [Wikidata -- Case Shoal (Q49614681)](https://www.wikidata.org/wiki/Q49614681) confirms this is a real, named geographic feature. No dive shop, ScubaBoard, or dive-database source describing Case Shoal as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical puget sound rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

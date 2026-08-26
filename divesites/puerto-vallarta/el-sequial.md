@@ -35,7 +35,7 @@ The mesa is regularly visited as a second dive on Corbeteña expeditions. While 
 
 ## Marine Life
 
-Giant sailfish are among the most memorable sightings at El Sequial — the site sees some of the most reliable sailfish encounters in the Puerto Vallarta area. Dense schools of yellowfin tuna aggregate around the edges of the mesa, often in numbers that make the water appear dark with fish. Oceanic manta rays visit the plateau when current is running and plankton is concentrated. Hammerhead sharks patrol the deeper flanks. The same pelagic diversity present at Corbeteña applies here — the proximity and identical open-ocean setting means the two sites draw the same species.
+Giant sailfish are among the most memorable sightings at El Sequial — the site sees some of the most reliable sailfish encounters in the Puerto Vallarta area, confirmed across multiple current operator listings. Dense schools of tuna aggregate around the edges of the mesa, often in numbers that make the water appear dark with fish. Oceanic manta rays visit the plateau when current is running and plankton is concentrated. Sharks are occasionally sighted, though no source names a specific species at El Sequial itself — hammerhead sharks are attributed by current sources to the neighboring Corbeteña rather than to El Sequial, so that claim has been removed here rather than assumed to carry over.
 
 ## Dive Profile
 
@@ -54,4 +54,4 @@ Full-day boat expedition from Puerto Vallarta marina; typically the second dive 
 - A 5mm wetsuit is recommended for the thermoclines that can drop temperatures 5-8°C below the surface layer
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Sayulita Entourage – Scuba Diving in La Corbeteña](https://www.sayulitaentourage.com/services/dive-trips/certified-divers/scuba-diving-in-la-corbete%C3%B1a). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Sayulita Entourage – Scuba Diving in La Corbeteña](https://www.sayulitaentourage.com/services/dive-trips/certified-divers/scuba-diving-in-la-corbete%C3%B1a), [My Vallarta Experience – Scuba Diving at El Sequial](https://www.myvallartaexperience.com/water-activities/scuba-diving/el-sequial). Last updated 2026-08-26.*

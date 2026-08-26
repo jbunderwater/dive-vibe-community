@@ -11,7 +11,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "paradisescubasnorkelingpr.com, zentacle.com, puertoricodaytrips.com, caribdiveguide.com"
+      "validation_source": "paradisescubasnorkelingpr.com, zentacle.com, puertoricodaytrips.com, caribdiveguide.com",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -26,7 +27,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "zentacle.com, scubaboard.com, aquaticapr.com, scubadiving.com"
+      "validation_source": "zentacle.com, scubaboard.com, aquaticapr.com, wikipedia.org",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -41,7 +43,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "tainodivers.com, discoverpuertorico.com, scubaboard.com, puertoricodaytrips.com"
+      "validation_source": "tainodivers.com, stokedrincon.com, puertoricodaytrips.com",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -56,7 +59,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "vieques.com, blackbeardsports.com, pureadventurepr.com"
+      "validation_source": "vieques.com, wikipedia.org, blackbeardsports.com",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -71,7 +75,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "padi.com, culebradivers.com, aquaadventurepr.com, puertoricodaytrips.com"
+      "validation_source": "padi.com, culebradivers.com, aquaadventurepr.com, puertoricodaytrips.com",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -86,7 +91,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "scubadogs.net, padi.com, tritonsrealm.com, discoverpuertorico.com"
+      "validation_source": "scubadogs.net, padi.com, below.app",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -101,7 +107,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "jentheredonethat.com, puertoricodaytrips.com, discoveringpuertorico.com"
+      "validation_source": "jentheredonethat.com, discoveringpuertorico.com, myguidepuertorico.com",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -116,7 +123,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "zentacle.com, aquaticapr.com, scubaboard.com"
+      "validation_source": "zentacle.com, aquaticapr.com, scubaboard.com",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -131,7 +139,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "blackbeardsports.com, sevenseasmedia.org, vieques.com, scubaboard.com"
+      "validation_source": "blackbeardsports.com, sevenseasmedia.org, vieques.com",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -146,7 +155,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "aquaticapr.com, padi.com, puertoricodaytrips.com, caribdiveguide.com"
+      "validation_source": "aquaticapr.com, padi.com, puertoricodaytrips.com, caribdiveguide.com",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -161,7 +171,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "scubadiving.com, caribdiveguide.com, scubaboard.com, julietsailinganddiving.com"
+      "validation_source": "caribdiveguide.com, scubaboard.com, julietsailinganddiving.com, wikipedia.org",
+      "last_qa_date": "2026-08-26"
     }
   }
 ]

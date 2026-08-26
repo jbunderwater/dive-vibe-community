@@ -33,7 +33,7 @@ Decatur Reef sits in the southern portion of Puget Sound's main basin, in an are
 
 ## Marine Life
 
-Decatur Reef's fish community is typical of central Puget Sound: lingcod are resident, copper and quillback rockfish shelter in the deeper rock formations, and kelp greenlings are abundant throughout. Giant Pacific octopus occupy the larger boulder cavities, often betrayed by shells and crab remains left at den entrances. Wolf eels are present and occasionally encountered. The invertebrate layer includes plumose anemones on the rock faces, Dungeness and Puget Sound king crabs across the sandy margins, and a variety of nudibranchs. Red sea urchins graze on encrusting algae, creating clearings that attract other species.
+No source specific to Decatur Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding central Puget Sound waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed central puget sound rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Anchor on the up-current side of the reef. Back-roll or giant 
 
 ## Tips
 
-- Central Puget Sound visibility is often better in winter and early spring when runoff is lower and plankton blooms have not begun
-- Octopus den locations are often remembered by regular divers at this site — local dive boat captains can be a valuable source of information
-- A torch is useful for examining the dark overhangs and boulder undersides where the highest marine life diversity concentrates
-- Night diving Decatur Reef can be productive for observing octopus, shrimp, and crab activity
+- No site-specific trip reports were located for Decatur Reef -- treat the notes above as general central puget sound guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Boat traffic is heavy in central Puget Sound year-round. Always deploy an SMB be
 
 ## Photography
 
-The medium-depth profile and accessible conditions make Decatur Reef a good photography dive. Macro work on nudibranchs and encrusting invertebrates is productive. Rockfish portraits work well given their tendency to hold position. The octopus dens, if located, are outstanding subjects for both macro and close-focus wide-angle work.
+No site-specific photography reports were found for Decatur Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of central puget sound reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Decatur Reef (Q49615608)](https://www.wikidata.org/wiki/Q49615608), [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). No site-specific dive publications found for Decatur Reef; description reflects typical central Puget Sound reef conditions. Last updated 2026-06-26.*
+*Sources: [Wikidata -- Decatur Reef (Q49615608)](https://www.wikidata.org/wiki/Q49615608) confirms this is a real, named geographic feature. No dive shop, ScubaBoard, or dive-database source describing Decatur Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical central puget sound rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

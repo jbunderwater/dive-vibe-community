@@ -33,7 +33,7 @@ Buckeye Shoal is a submerged rocky rise in the northern San Juan Islands, sittin
 
 ## Marine Life
 
-Buckeye Shoal produces consistent encounters with lingcod and multiple rockfish species. The shoal structure provides habitat for giant Pacific octopus in the boulder piles, and wolf eels are occasionally encountered in the deeper rock formations. Copper rockfish, quillback rockfish, and kelp greenlings are resident year-round. Invertebrate life is excellent throughout: Puget Sound king crabs, red sea urchins, sea cucumbers, nudibranchs (several aeolid and dorid species), and swimming scallops are all commonly encountered. Harbour seals may appear from the surface to investigate.
+No source specific to Buckeye Shoal confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Anchor or hold position on the down-current side during the di
 
 ## Tips
 
-- Check the tidal exchange amplitude before committing to this site — large exchanges make for difficult conditions
-- The shoal crest is a good place to spend extra time at the end of the dive; the density of anemones and invertebrates here is exceptional
-- A dive torch is worth carrying for close examination of plumose anemone bases, where nudibranchs and shrimp often hide
-- Kelp greenlings are curious fish and will approach divers; keep still and they may come very close
+- No site-specific trip reports were located for Buckeye Shoal -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Strong tidal currents are the primary safety concern at shoal sites. An accurate
 
 ## Photography
 
-The dense plumose anemone coverage on the shoal makes for striking wide-angle images. Macro shooters will find nudibranchs and small crustaceans in the anemone columns. Lingcod sitting still on the rock top provide good portrait opportunities. Strobes essential for colour accuracy.
+No site-specific photography reports were found for Buckeye Shoal. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Buckeye Shoal (Q49614367)](https://www.wikidata.org/wiki/Q49614367), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Buckeye Shoal; description reflects typical northern San Juan Islands shoal conditions. Last updated 2026-06-26.*
+*Sources: [Wikidata -- Buckeye Shoal (Q49614367)](https://www.wikidata.org/wiki/Q49614367) confirms this is a real, named geographic feature. No dive shop, ScubaBoard, or dive-database source describing Buckeye Shoal as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

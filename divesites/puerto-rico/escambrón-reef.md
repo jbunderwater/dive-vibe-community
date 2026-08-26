@@ -21,11 +21,11 @@ The marine park was established to protect and restore nearshore habitat adjacen
 
 ## Marine Life
 
-Yellowtail snappers, damselfish, grunts, blue tangs, and parrotfish are abundant throughout the park. Green turtles and hawksbill turtles are regularly sighted, and manatees have been reported in the area. Tarpon congregate around structure in lower-light conditions. Sergeant majors and wrasse are common on the reef.
+Scuba Dogs' venue page and the below.app dive-site listing both confirm yellowtail snappers, damselfish, grunts, blue tangs, sergeant majors, and parrotfish as the park's common reef fish, with occasional barracuda. Below.app confirms green and hawksbill turtles are possible year-round and that tarpon are reported around structure in low-light conditions. Scuba Dogs adds that manatees have been reported in the area, though less predictably than the resident reef fish and turtles.
 
 ## Dive Profile
 
-The protected inner bay (La Pocita) offers very shallow, calm water ideal for beginners and snorkellers. Labyrinth Reef on the outer edge of the bay features swim-throughs and natural caverns at slightly greater depth. Maximum depth across the site is approximately 9 metres (30 feet). Visibility is best during settled weather; heavy rain or onshore swell can reduce visibility significantly. Calmer conditions prevail from late spring through early fall.
+The protected inner bay (La Pocita) offers very shallow, calm water ideal for beginners and snorkellers — PADI lists a maximum depth around 2 metres (7 feet) for this inner area. Labyrinth Reef on the outer edge of the bay features swim-throughs and natural caverns at slightly greater depth; this entry's 9-metre (30 ft) maximum reflects that outer zone. Below.app reports visibility of 6–15 m (20–50 ft) in settled conditions, dropping sharply after heavy rain or onshore swell — consistent with Scuba Dogs' own description of the site.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Visibility can drop sharply after rainfall or strong onshore swell. Winter cold 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-08-26
 
 ---
-*Sources: [Scuba Dogs – Escambrón Marine Park](https://scubadogs.net/services/go-venues/escambron-marine-park-san-juan/), [PADI – Escambron Marine Park Dive Site](https://www.padi.com/dive-site/puerto-rico/escambron-marine-park-la-poz-del-escambron/), [Triton's Realm – Escambrón Marine Park](https://www.tritonsrealm.com/en/scuba-diving/puerto-rico/north-shore/escambron-marine-park), [Discover Puerto Rico – Escambrón Marine Park](https://www.discoverpuertorico.com/profile/escambron-marine-park/10501). Last updated 2026-06-26.*
+*Sources: [Scuba Dogs – Escambrón Marine Park](https://scubadogs.net/services/go-venues/escambron-marine-park-san-juan/), [PADI – Escambron Marine Park Dive Site](https://www.padi.com/dive-site/puerto-rico/escambron-marine-park-la-poz-del-escambron/), [below.app – Parque Marino del Escambrón](https://below.app/en-US/dive-sites/puerto-rico/san-juan/parque-marino-del-escambron-la-poza-del-escambron). Triton's Realm (503 error) and Discover Puerto Rico (403 response) could not be reached this pass and have been dropped in favor of below.app, which was successfully re-verified. Re-verified 2026-08-26; last updated 2026-08-26.*

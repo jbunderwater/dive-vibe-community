@@ -33,7 +33,7 @@ Turn Rock is a small, rounded islet near the south shore of Shaw Island, surroun
 
 ## Marine Life
 
-Turn Rock reliably produces lingcod — large individuals rest on the rock ledges and are approachable during calm conditions. Rockfish (black, quillback, and copper) shelter in boulder fields, while kelp greenlings dart through the kelp canopy. Giant Pacific octopus hide in the deeper rock piles. The invertebrate coverage is exceptional: mosshead warbonnets peek from holes in the rock, candy-stripe shrimp cluster in crevices, decorated warbonnets and Irish lords blend into the substrate, and multiple nudibranch species (notably aeolids and Cadlina) cruise over hydroids and bryozoans. Swimming scallops and rock scallops dot the vertical faces, and colonies of orange tunicates and white plumose anemones fill the walls.
+No source specific to Turn Rock confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Anchor or tie off in the sheltered area on the lee side of the
 
 ## Tips
 
-- Time the dive precisely for slack water — current here can be 3 knots or more during a full exchange
-- Carry a dive light; many of the most interesting creatures hide in dark crevices
-- Slow down and search carefully — mosshead warbonnets and decorated warbonnets are masters of camouflage
-- San Juan Islands liveaboards often include Turn Rock on their schedules — a good option for multiple dives
+- No site-specific trip reports were located for Turn Rock -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Tidal currents are the primary hazard. Even experienced divers should study the 
 
 ## Photography
 
-Turn Rock is outstanding for macro photography — nudibranchs, shrimp on anemone tentacles, and warbonnets in their rock holes offer extraordinary detail subjects. For wide-angle shots, the kelp canopy with light rays is compelling in good visibility. Bring a strobe: even with good ambient light, the cold water reduces colour saturation quickly.
+No site-specific photography reports were found for Turn Rock. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). Last updated 2026-06-26.*
+*No dive shop, ScubaBoard, or dive-database source describing Turn Rock as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

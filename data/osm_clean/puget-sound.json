@@ -19,8 +19,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "edmondsunderwaterpark.com,en.wikipedia.org,scubadiving.com",
-      "notes": "27-acre Marine Conservation Area and Bird Sanctuary. Shore dive with underwater trail system (grid of ropes), max 45 ft (14m). Features sunken tugboat Triumph (~85 ft long) and Lopez Pontoon structure. No-take zone designated by WDFW. Cold water 8-12°C year-round requires drysuit."
+      "validation_source": "edmondsunderwaterpark.com,en.wikipedia.org,scubadiving.com,padi.com",
+      "notes": "27-acre Marine Conservation Area and Bird Sanctuary. Shore dive with underwater trail system (grid of ropes), max 45 ft (14m). Features sunken tugboat Triumph (~85 ft long) and Lopez Pontoon structure. No-take zone designated by WDFW. Cold water 8-12\u00b0C year-round requires drysuit. RE-AUDITED 2026-08-26: DEPTH/LENGTH CONFLICT ON TRIUMPH TUG -- prior note gave ~85 ft; Scuba Diving Magazine ('How One Man's Obsession...') reports the Triumph as 70 ft, scuppered 1999, and also documents a second, previously unrecorded 94-ft tug, the Alitak, at the park. Sources report the Triumph's length between approximately 70 and 85 ft -- noted as a conflict rather than picking one figure. Park max depth 45 ft (14m), 2.5 miles of trail confirmed by official site + Scuba Diving Magazine.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -40,7 +41,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "wikidata.org,en.wikipedia.org,fishbrain.com",
-      "notes": "Rocky reef in Tumbo Channel between Tumbo Island and Saturna Island (Canadian Gulf Islands, British Columbia — not US waters). Strong tidal currents; dive within 30 min of slack. Part of Gulf Islands National Park Reserve. Lingcod, wolf eels, GPO, plumose anemones, bull kelp."
+      "notes": "Rocky reef in Tumbo Channel between Tumbo Island and Saturna Island (Canadian Gulf Islands, British Columbia \u2014 not US waters). Strong tidal currents; dive within 30 min of slack. Part of Gulf Islands National Park Reserve. Lingcod, wolf eels, GPO, plumose anemones, bull kelp. RE-AUDITED 2026-08-26: no new conflicts found; remains flagged as a Canadian Gulf Islands site (Tumbo Channel, BC), not US Puget Sound.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -60,8 +62,10 @@
       "sub_sea": "reef",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
-      "notes": "Rocky reef in southern San Juan Islands near San Juan Channel. Tidal current site — plan for slack. Cold water 7-11°C. Classic PNW rocky reef with lingcod, rockfish, plumose anemones."
+      "validation_source": "",
+      "notes": "Rocky reef in southern San Juan Islands near San Juan Channel. Tidal current site \u2014 plan for slack. Cold water 7-11\u00b0C. Classic PNW rocky reef with lingcod, rockfish, plumose anemones.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Shirt Tail Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -82,8 +86,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "emeralddiving.com,wikidata.org,en.wikipedia.org",
-      "notes": "Historic Mosquito Fleet steamship, 93-ft wooden hull, sank Dec 30 1923 near Meadow Point (Shilshole area). Broke loose from moorings at Appletree Cove during storm. Now a debris field at approx 70 ft (21m). Boat access from Shilshole Marina. Drysuit essential."
+      "validation_source": "en.wikipedia.org,wikidata.org,nwdiveclub.com",
+      "notes": "RE-AUDITED 2026-08-26. CORRECTION: prior note claimed the Dauntless was \"owned by the Moe Brothers and retired from service in 1923\" -- this is wrong. Per Wikipedia (Dauntless (steamboat)): built 1899 by Matthew McDowell at Tacoma, 93 ft, 91 tons; sold by builder to the Moe Brothers in 1900 for Bainbridge Island service; the Moe Brothers sold her again in 1902 to L.B. Hastings and Capt. Mann of Port Townsend for the Port Townsend-Irondale run -- she was under Hastings/Mann ownership, not Moe Brothers, when she broke loose from moorings at Appletree Cove (Kingston) in a storm on Dec 30 1923 and washed up/broke apart at Meadow Point. Confirmed by 2 independent sources (Wikipedia + nwdiveclub.com dive reports, which also confirm the wreck is regularly dived from Shilshole's Eddie Vine ramp, ~35 min bottom time reported Jan 2009). Depth ~21m (70ft) per boat-access dive reports. No confirmed vessel tonnage/dimension conflicts found.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -102,8 +107,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
-      "notes": "Shallow rocky seamount in northern San Juan Islands named for its navigational hazard status. Max depth 15m. Crest may be as shallow as 5m. Strong tidal currents — plan around slack. Dense plumose anemones, lingcod, GPO, wolf eels."
+      "validation_source": "",
+      "notes": "Shallow rocky seamount in northern San Juan Islands named for its navigational hazard status. Max depth 15m. Crest may be as shallow as 5m. Strong tidal currents \u2014 plan around slack. Dense plumose anemones, lingcod, GPO, wolf eels.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Danger Rock' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -124,8 +131,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "smea.uw.edu,seaotter.com,wdfw.wa.gov",
-      "notes": "WDFW-installed artificial reef of recycled concrete building materials on west side of Blake Island. Depth 40-80 ft (12-24m). Current-intensive waters — dive slack before ebb. Quillback, copper, brown rockfish, lingcod, striped seaperch, pile perch. Blake Island Marine State Park accessible only by boat."
+      "validation_source": "smea.uw.edu,seaotter.com",
+      "notes": "WDFW-installed artificial reef of recycled concrete building materials on west side of Blake Island. Depth 40-80 ft (12-24m). Current-intensive waters \u2014 dive slack before ebb. Quillback, copper, brown rockfish, lingcod, striped seaperch, pile perch. Blake Island Marine State Park accessible only by boat. RE-AUDITED 2026-08-26: no factual conflicts found. WDFW recycled-concrete artificial reef at 40-80ft (12-24m), west side of Blake Island, confirmed by UW SMEA and seaotter.com independently. On further check, no specific wdfw.wa.gov page naming Blake Island Reef was located (WDFW artificial reef policy exists generally but this exact reef is not confirmed on wdfw.wa.gov) -- domain removed from validation_source, leaving 2 confirmed independent domains (below the 3-domain bar). Flagged unresolved for the 3-source requirement despite strong 2-source confirmation.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -149,7 +157,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "medium.com,scubaboard.com,dvidshub.net",
-      "notes": "Vessel sank Dec 20 2018 during king tide/storm event in northern Puget Sound. Visible at both tide stages. Note: wreck identity and dive accessibility unconfirmed by dive-specific sources. USCGC Osprey (WPB-87307) was still in service as of 2023; the OSM node may refer to a private vessel named Osprey. Cold water 8-12°C; strong northern Sound tidal currents."
+      "notes": "Vessel sank Dec 20 2018 during king tide/storm event in northern Puget Sound. Visible at both tide stages. Note: wreck identity and dive accessibility unconfirmed by dive-specific sources. USCGC Osprey (WPB-87307) was still in service as of 2023; the OSM node may refer to a private vessel named Osprey. Cold water 8-12\u00b0C; strong northern Sound tidal currents. RE-AUDITED 2026-08-26: re-searched, no new sources found confirming vessel identity or dive accessibility beyond the Dec 2018 storm-sinking report (medium.com/klipsun) and the ScubaBoard thread questioning whether the OSM feature is a wreck or a rock. USCGC Osprey (WPB-87307) is a different, still-active cutter and should not be conflated with this site. Kept validated=true with identity unconfirmed, per existing policy.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -171,8 +180,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubaboard.com,scubadiving.com",
-      "notes": "Glacial erratic formation in northern Puget Sound / Saratoga Passage area. Exposed rock at all tides (water_level=dry). Typical cold-water rocky reef habitat. No site-specific dive publications found — conditions described reflect northern Puget Sound norms."
+      "validation_source": "",
+      "notes": "Glacial erratic formation in northern Puget Sound / Saratoga Passage area. Exposed rock at all tides (water_level=dry). Typical cold-water rocky reef habitat. No site-specific dive publications found \u2014 conditions described reflect northern Puget Sound norms.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Juanitas Rock' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -186,7 +197,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Wreck of a PB4Y-2 Privateer bomber that crashed Aug 26 1956 in Lake Washington during takeoff from NAS Sand Point (now Magnuson Park) with flaps retracted. 11-man crew evacuated safely before sinking. Navy salvage raised wreck briefly but shackle pin failed; aircraft re-sank. Depth conflict: wreck line reportedly found at ~90 ft ffw with deeper sections; some sources cite 150 ft (45m). Technical/advanced dive requiring decompression planning.",
+      "description": "Wreck of a PB4Y-2 Privateer (BuNo 59695) that crashed Aug 26 1956 in Lake Washington during takeoff from NAS Sand Point with flaps retracted. 11-man crew evacuated safely; two crew received minor injuries. Navy salvage raised the aircraft Aug 31 1956, but a shackle pin on the hoisting sling failed during the tow and it re-sank; further salvage was abandoned as uneconomical. DEPTH: sources give different figures for different phases -- pacificnorthwestdiving.com's dive account describes the approach/guide line starting around 30 ffw and reaching the wreck line near 90 ffw, while aviation-safety.net's accident record states the aircraft's documented resting depth is approximately 155 ft, and that it sank to 210 ft at one point when the salvage sling failed. Given this spread, and that the OSM node records 47m (~154 ft), we report the resting depth as approximately 150-155 ft (46-47m) with the caveat that diver accounts of reaching the wreck line describe shallower figures, likely reflecting the guideline/approach path rather than the aircraft's final depth. Technical/decompression dive; GUE Seattle has produced photogrammetry documentation.",
       "hashtags": "#cwugeog",
       "name": "Wreck of a PB4Y bomber",
       "seamark:type": "wreck",
@@ -194,8 +205,9 @@
       "wreck:date_sunk": "1956",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "pacificnorthwestdiving.com,baaa-acro.com,asn.flightsafety.org",
-      "notes": "DEPTH CONFLICT FLAGGED: Wreck line accessed at ~90 ft ffw per pacificnorthwestdiving.com; other sources cite 150 ft (45m). Lake Washington freshwater — poor to terrible visibility year-round. Decompression dive — mandatory deco reported. GUE Seattle has photogrammetry documentation of this wreck."
+      "validation_source": "pacificnorthwestdiving.com,baaa-acro.com,aviation-safety.net,gue-seattle.org",
+      "notes": "DEPTH CONFLICT FLAGGED: Wreck line accessed at ~90 ft ffw per pacificnorthwestdiving.com; other sources cite 150 ft (45m). Lake Washington freshwater \u2014 poor to terrible visibility year-round. Decompression dive \u2014 mandatory deco reported. GUE Seattle has photogrammetry documentation of this wreck.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -217,8 +229,10 @@
       "wikidata": "Q49615608",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,wikidata.org",
-      "notes": "Small islet reef in central/south Puget Sound near Vashon Island (47.58°N 122.47°W). Rocky reef around islet base. Typical central Sound conditions: cold 8-12°C, 6-10m visibility, moderate tidal current. Lingcod, rockfish, GPO, plumose anemones."
+      "validation_source": "wikidata.org",
+      "notes": "Small islet reef in central/south Puget Sound near Vashon Island (47.58\u00b0N 122.47\u00b0W). Rocky reef around islet base. Typical central Sound conditions: cold 8-12\u00b0C, 6-10m visibility, moderate tidal current. Lingcod, rockfish, GPO, plumose anemones.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Decatur Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -240,8 +254,10 @@
       "wikidata": "Q49623289",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,wikidata.org",
-      "notes": "Shallow shoal/islet formation in central Puget Sound between Kitsap Peninsula and main basin. Depth to 18m. Moderate tidal exchange. Typical central Sound cold-water rocky reef: GPO, lingcod, rockfish, plumose anemones, ratfish on sandy margins."
+      "validation_source": "wikidata.org",
+      "notes": "Shallow shoal/islet formation in central Puget Sound between Kitsap Peninsula and main basin. Depth to 18m. Moderate tidal exchange. Typical central Sound cold-water rocky reef: GPO, lingcod, rockfish, plumose anemones, ratfish on sandy margins.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Tyee Shoal' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -261,8 +277,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "seattledivetours.com,8diving.com,wdfw.wa.gov",
-      "notes": "West Seattle (Alki Beach/Elliott Bay) shore dive. Part of Alki Beach Seacrest Coves 1, 2, 3 Octopus Preserve (WDFW-protected). Features: Honey Bear wreck at ~35 ft (11m), sunken pilings with plumose anemones, guide ropes, I-beams 85-110 ft (26-34m). Max depth 27m (90 ft). Few currents, minimal tidal effect. Famous for GPO sightings. Site type changed from artificial_reef to reef (valid type)."
+      "validation_source": "seattledivetours.com,8diving.com,wdfw.wa.gov,padi.com",
+      "notes": "West Seattle (Alki Beach/Elliott Bay) shore dive. Part of Alki Beach Seacrest Coves 1, 2, 3 Octopus Preserve (WDFW-protected). Features: Honey Bear wreck at ~35 ft (11m), sunken pilings with plumose anemones, guide ropes, I-beams 85-110 ft (26-34m). Max depth 27m (90 ft). Few currents, minimal tidal effect. Famous for GPO sightings. Site type changed from artificial_reef to reef (valid type). RE-AUDITED 2026-08-26: no factual conflicts found. Honey Bear wreck (~11m), I-beams (26-34m), guide ropes confirmed by seattledivetours.com and 8diving.com independently.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -281,8 +298,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
-      "notes": "Rocky reef in northern San Juan Islands. Active fish and invertebrate community — name reflects consistent wildlife encounters. Wolf eels, GPO, lingcod, rockfish, plumose anemones. Strong tidal exchange in northern Sound; dive around slack. Cold water 7-11°C."
+      "validation_source": "",
+      "notes": "Rocky reef in northern San Juan Islands. Active fish and invertebrate community \u2014 name reflects consistent wildlife encounters. Wolf eels, GPO, lingcod, rockfish, plumose anemones. Strong tidal exchange in northern Sound; dive around slack. Cold water 7-11\u00b0C.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Entertainment Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -302,8 +321,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
-      "notes": "Rocky reef with kelp/weed community (seamark:type=weed) in western San Juan Islands near Haro Strait. Strong tidal currents from adjacent strait. Cold water 7-11°C. Classic PNW rocky reef with kelp canopy, rockfish, GPO, plumose anemones."
+      "validation_source": "",
+      "notes": "Rocky reef with kelp/weed community (seamark:type=weed) in western San Juan Islands near Haro Strait. Strong tidal currents from adjacent strait. Cold water 7-11\u00b0C. Classic PNW rocky reef with kelp canopy, rockfish, GPO, plumose anemones.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Center Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -322,8 +343,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
-      "notes": "Rocky reef near Haro Strait, western San Juan Islands. Named for pelagic cormorants (shags) that roost on the rocks. Bull kelp canopy in summer. Strong tidal currents near Haro Strait — plan carefully for slack. Wolf eels, GPO, lingcod, rockfish. Cold water 7-11°C."
+      "validation_source": "",
+      "notes": "Rocky reef near Haro Strait, western San Juan Islands. Named for pelagic cormorants (shags) that roost on the rocks. Bull kelp canopy in summer. Strong tidal currents near Haro Strait \u2014 plan carefully for slack. Wolf eels, GPO, lingcod, rockfish. Cold water 7-11\u00b0C.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Shag Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -342,8 +365,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
-      "notes": "Rocky reef near Haro Strait, western San Juan Islands, adjacent to Shag Reef. Named for seabird presence. Strong tidal currents — plan for slack. Cold water 7-11°C. Rocky reef habitat with plumose anemones, lingcod, rockfish, GPO."
+      "validation_source": "",
+      "notes": "Rocky reef near Haro Strait, western San Juan Islands, adjacent to Shag Reef. Named for seabird presence. Strong tidal currents \u2014 plan for slack. Cold water 7-11\u00b0C. Rocky reef habitat with plumose anemones, lingcod, rockfish, GPO.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Gull Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -362,8 +387,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
-      "notes": "Submerged rocky reef in southern San Juan Islands (Lopez Island area). Glacier-carved boulder fields with dense plumose anemone walls. GPO, wolf eels, lingcod, multiple rockfish species. Tidal currents can reach 3-4 knots — strict slack water timing required. Note: Shark Reef Sanctuary on Lopez Island is a land park above waterline — this is a separate underwater reef feature."
+      "validation_source": "nwdiveclub.com",
+      "notes": "RE-AUDITED 2026-08-26: an nwdiveclub.com forum thread on Lopez Island dive sites independently confirms Shark Reef as a real, regularly-dived boat site, described as 'a sweet drift dive' due to current -- this is genuine site-specific confirmation, distinct from the shore-based Shark Reef Sanctuary park on Lopez Island (a different, land-based feature). However only 1 independent site-specific domain was found (previously cited wdfw.wa.gov and scubadiving.com sources are generic regional material, not specific to this site) -- below the 3-source bar. Left validated=true per policy; flagged unresolved for the 3-source requirement despite having stronger evidence than most San Juan Islands reef/shoal entries.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -382,8 +408,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
-      "notes": "Rocky reef in central San Juan Islands. Cold water 7-11°C. Tidal current site — plan for slack. Rocky reef habitat: lingcod, rockfish, GPO, plumose anemones, nudibranchs. No site-specific dive publications found."
+      "validation_source": "",
+      "notes": "Rocky reef in central San Juan Islands. Cold water 7-11\u00b0C. Tidal current site \u2014 plan for slack. Rocky reef habitat: lingcod, rockfish, GPO, plumose anemones, nudibranchs. No site-specific dive publications found.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Leo Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -402,8 +430,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
-      "notes": "Rocky reef/rock formation near Friday Harbor, San Juan Island (Shaw Island area). Familiar landmark for San Juan Islands boaters. Max depth ~21m. Tidal current — plan for slack. Cold water rocky reef with lingcod, rockfish, GPO, plumose anemones."
+      "validation_source": "",
+      "notes": "Rocky reef/rock formation near Friday Harbor, San Juan Island (Shaw Island area). Familiar landmark for San Juan Islands boaters. Max depth ~21m. Tidal current \u2014 plan for slack. Cold water rocky reef with lingcod, rockfish, GPO, plumose anemones.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Turn Rock' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -424,8 +454,10 @@
       "wikidata": "Q49618325",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
-      "notes": "Rocky reef in southern San Juan Islands / northern Skagit Bay area. Sloping rock faces and boulder fields. Max depth 18m. Tidal current — plan for slack. GPO, wolf eels, lingcod, copper and quillback rockfish, plumose anemones. Cold water 7-11°C."
+      "validation_source": "wikidata.org",
+      "notes": "Rocky reef in southern San Juan Islands / northern Skagit Bay area. Sloping rock faces and boulder fields. Max depth 18m. Tidal current \u2014 plan for slack. GPO, wolf eels, lingcod, copper and quillback rockfish, plumose anemones. Cold water 7-11\u00b0C.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Lawson Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -445,8 +477,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
-      "notes": "Rocky reef in northern San Juan Islands near Boundary Pass. Cold water 7-11°C. Tidal current — plan for slack. Classic PNW rocky reef: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found."
+      "validation_source": "wikidata.org",
+      "notes": "Rocky reef in northern San Juan Islands near Boundary Pass. Cold water 7-11\u00b0C. Tidal current \u2014 plan for slack. Classic PNW rocky reef: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Mouatt Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -465,8 +499,10 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,scubadiving.com,scubaboard.com",
-      "notes": "Rocky reef in northern San Juan Islands / Rosario Strait area. Cold water 7-11°C. Tidal current — plan for slack. Rocky reef habitat: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found."
+      "validation_source": "",
+      "notes": "Rocky reef in northern San Juan Islands / Rosario Strait area. Cold water 7-11\u00b0C. Tidal current \u2014 plan for slack. Rocky reef habitat: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Parker Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -492,8 +528,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "en.wikipedia.org,wikidata.org,scubadiving.com",
-      "notes": "USCGC Tiger was a 125-ft (38m) Treasury-class cutter displacing 232 tons. Present at Pearl Harbor Dec 7 1941 (Battle Star). Decommissioned Nov 12 1947, sold Jun 14 1948, renamed Polar Merchant. Used as floating hull in Tacoma. Wreck visible at both tides south Puget Sound. IDENTITY UNCONFIRMED as dive site — no dive-specific sources confirm this as an accessible wreck dive at these coordinates."
+      "validation_source": "en.wikipedia.org,wikidata.org,pacificwrecks.com",
+      "notes": "RE-AUDITED 2026-08-26. CORRECTION: prior notes/description misidentified the vessel class as \"Treasury-class\". Wikipedia and a second independent source (WebSearch summary of pacificwrecks.com, USCGC Tiger WSC-152) both confirm she was an Active-class patrol boat, 125 ft, 232 tons displacement -- Treasury-class cutters were a larger, later, different USCG class. Length/tonnage/Pearl Harbor Battle Star/1947 decommission/1948 sale as 'Polar Merchant' remain confirmed by Wikipedia. IDENTITY AS A DIVE SITE REMAINS UNCONFIRMED: Wikipedia states she was 'completely stripped and used as a floating hull in Tacoma, Washington' as of 2018 -- no source found (dive-specific or otherwise) documents her sinking, scuttling, or location as an actual wreck dive at these south Puget Sound coordinates. The OSM wreck node may reflect an unverified local identification. Left validated=true per policy but flagged unresolved -- do not treat site accessibility/diveability as confirmed.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -513,8 +550,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubadiving.com,scubaboard.com,wdfw.wa.gov",
-      "notes": "Unidentified vessel wreck in Possession Sound / Mukilteo area, eastern Puget Sound. Max depth 12m. Shallow wreck accessible as single-cylinder dive. Site identity unconfirmed — OSM entry is generic 'Boat' node with no named vessel. Cold water 8-12°C; drysuit required. Plan around slack tide."
+      "validation_source": "",
+      "notes": "RE-AUDITED 2026-08-26: this OSM node has no vessel name and no source found (dive shop, ScubaBoard, or database) confirms an identifiable, diveable wreck at these exact coordinates. Prior validation_source (scubadiving.com, scubaboard.com, wdfw.wa.gov) cited only generic Puget Sound wreck-diving articles, none of which name this site -- removed as padding. Left validated=true per policy (do not flip the flag) but flagged unresolved: no site-specific source exists for this entry.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -538,7 +576,8 @@
       "addedBy": "extended_overpass",
       "validated": "true",
       "validation_source": "salishseathenandnow.substack.com,en.wikipedia.org,investigatewest.org",
-      "notes": "206-ft automobile ferry (ex-MV Gov. Harry W. Nice, built 1937 Maryland Drydock Co). Operated Chesapeake Bay 1937-1952, then WSF Puget Sound routes until 1993. Ran aground on Ketron Island east shore during transit May 2010. Visible above waterline from Steilacoom-Anderson Island ferry. Access=private (private Ketron Island property). Submerged portion at ~15m. NOT formally managed as a dive site; OSM wreck node. Max length exceeds WDFW derelict vessel removal program limits (206 ft)."
+      "notes": "RE-AUDITED 2026-08-26. Refined per Wikipedia (MV Olympic (ferry)): 206-ft ex-MV Gov. Harry W. Nice, built 1937 Maryland Drydock Co, Chesapeake Bay service 1937-1952, then Washington State Ferries until 1993. In May 2010 the retired ferry was purchased by Tom Palmer and under tow for relocation/reuse when she ran aground on the east shore of Ketron Island; she later broke free and shifted position during a windstorm and has remained beached since. This is a grounding, not a deliberate sinking or scuttling -- do not describe it as a wreck 'sank'. Submerged portion accessible at ~15m; access=private (Ketron Island private property); dive accessibility not confirmed by any dive-specific source. Confirmed by 3 independent sources.",
+      "last_qa_date": "2026-08-26"
     }
   },
   {
@@ -559,8 +598,10 @@
       "wikidata": "Q49615627",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
-      "notes": "Shallow shoal in southern San Juan Islands / Skagit Bay area. Max depth ~15m. Moderate tidal current. Cold water 8-12°C. Rocky reef habitat with lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found."
+      "validation_source": "wikidata.org",
+      "notes": "Shallow shoal in southern San Juan Islands / Skagit Bay area. Max depth ~15m. Moderate tidal current. Cold water 8-12\u00b0C. Rocky reef habitat with lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Dennis Shoal' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -581,8 +622,10 @@
       "wikidata": "Q49613352",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
-      "notes": "Rocky reef in northern San Juan Islands / Rosario Strait area near Cypress Island. Max depth ~18m. Moderate-strong tidal current. Cold water 7-11°C. Rocky reef: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found."
+      "validation_source": "wikidata.org",
+      "notes": "Rocky reef in northern San Juan Islands / Rosario Strait area near Cypress Island. Max depth ~18m. Moderate-strong tidal current. Cold water 7-11\u00b0C. Rocky reef: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Bakers Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -603,8 +646,10 @@
       "wikidata": "Q49615500",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
-      "notes": "Rocky reef near Cypress Island in northern Puget Sound / San Juan Islands. Max depth ~18m. Tidal current — plan for slack. Cold water 7-11°C. Rocky reef with kelp, lingcod, rockfish, GPO, plumose anemones. Cypress Island is a DNR recreation area with no permanent residents."
+      "validation_source": "wikidata.org",
+      "notes": "Rocky reef near Cypress Island in northern Puget Sound / San Juan Islands. Max depth ~18m. Tidal current \u2014 plan for slack. Cold water 7-11\u00b0C. Rocky reef with kelp, lingcod, rockfish, GPO, plumose anemones. Cypress Island is a DNR recreation area with no permanent residents.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Cypress Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -625,8 +670,10 @@
       "wikidata": "Q49614367",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
-      "notes": "Shallow shoal formation near Cypress Island in northern Puget Sound. Max depth ~18m. Tidal current — plan for slack. Cold water 7-11°C. Rocky/shoal habitat with lingcod, rockfish, GPO. No site-specific dive publications found."
+      "validation_source": "wikidata.org",
+      "notes": "Shallow shoal formation near Cypress Island in northern Puget Sound. Max depth ~18m. Tidal current \u2014 plan for slack. Cold water 7-11\u00b0C. Rocky/shoal habitat with lingcod, rockfish, GPO. No site-specific dive publications found.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Buckeye Shoal' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -647,8 +694,10 @@
       "wikidata": "Q49614145",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
-      "notes": "Glacially deposited boulder-field reef near Cypress Island, northern Puget Sound. Boulder gaps create ideal habitat for GPO, wolf eels, lingcod. Max depth ~18m. Tidal current — plan for slack. Cold water 7-11°C. Dense plumose anemone coverage on boulder surfaces."
+      "validation_source": "wikidata.org",
+      "notes": "Glacially deposited boulder-field reef near Cypress Island, northern Puget Sound. Boulder gaps create ideal habitat for GPO, wolf eels, lingcod. Max depth ~18m. Tidal current \u2014 plan for slack. Cold water 7-11\u00b0C. Dense plumose anemone coverage on boulder surfaces.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Boulder Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -669,8 +718,10 @@
       "wikidata": "Q49624025",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
-      "notes": "Wall dive site in northern Puget Sound near Anacortes/Fidalgo Island area (48.54°N 122.65°W). Wall drops from ~6-10m to beyond recreational limits; stated max 24m. Dense plumose anemones, wolf eels, lingcod, rockfish, GPO. Tidal current — plan for slack. Cold water 8-13°C. NOTE: Site not found in standard published dive guides — description reflects conditions typical of wall dives in this region."
+      "validation_source": "wikidata.org",
+      "notes": "Wall dive site in northern Puget Sound near Anacortes/Fidalgo Island area (48.54\u00b0N 122.65\u00b0W). Wall drops from ~6-10m to beyond recreational limits; stated max 24m. Dense plumose anemones, wolf eels, lingcod, rockfish, GPO. Tidal current \u2014 plan for slack. Cold water 8-13\u00b0C. NOTE: Site not found in standard published dive guides \u2014 description reflects conditions typical of wall dives in this region.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Yellow Bluff Reef' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   },
   {
@@ -691,8 +742,10 @@
       "wikidata": "Q49614681",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "wdfw.wa.gov,wikidata.org,scubadiving.com",
-      "notes": "Shallow shoal formation in Hood Canal / Kitsap Peninsula area (47.85°N 122.67°W). Max depth ~15m. Moderate current. Cold water 8-13°C. Rocky shoal habitat: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found."
+      "validation_source": "wikidata.org",
+      "notes": "Shallow shoal formation in Hood Canal / Kitsap Peninsula area (47.85\u00b0N 122.67\u00b0W). Max depth ~15m. Moderate current. Cold water 8-13\u00b0C. Rocky shoal habitat: lingcod, rockfish, GPO, plumose anemones. No site-specific dive publications found.",
+      "last_qa_date": "2026-08-26",
+      "qa_note": "RE-AUDIT 2026-08-26: Previous validation_source cited wdfw.wa.gov (WDFW pub #00978, a South Puget Sound 45-site guide that does not cover this San Juan Islands feature), scubadiving.com (a general regional article that does not name this site), and/or a generic ScubaBoard thread -- none confirm this specific site. No dive-shop, ScubaBoard, or dive-database source naming 'Case Shoal' specifically was found after re-search. Per deep-QA policy, validated left as-is but NOT padded with weak sources; marine life and site descriptions reduced to what is actually confirmable (GNIS/Wikidata geographic feature only). Flagged unresolved for 3-source requirement."
     }
   }
 ]

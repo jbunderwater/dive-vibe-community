@@ -54,4 +54,4 @@ Boat access from Puerto Vallarta, approximately 45 minutes each way. Giant strid
 - Morning light illuminates the shallower reef sections well for natural-light photography
 
 ---
-*Sources: [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-06-26.*
+*Sources: [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/). Last updated 2026-08-26.*

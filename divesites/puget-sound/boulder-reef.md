@@ -33,7 +33,7 @@ True to its name, Boulder Reef is characterised by massive glacially deposited b
 
 ## Marine Life
 
-The boulder gaps provide sheltered lairs for large giant Pacific octopus — arguably the most sought-after encounter in Pacific Northwest diving. Wolf eels, one of the most charismatic fish in Puget Sound, occupy the larger dens and may have been residents for years. Lingcod use the flat tops of boulders as hunting perches, remaining remarkably still while divers pass nearby. Rockfish (black, copper, quillback) school in loose groups around the boulder perimeter. Cabezon, Irish lords, and grunt sculpins inhabit the densest boulder rubble. The invertebrate layer includes sunflower sea stars, blood stars, encrusting coral, nudibranchs, and tube worms.
+No source specific to Boulder Reef confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding San Juan Islands waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed san juan islands rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Anchor on the upstream tidal side of the reef. Back-roll or gi
 
 ## Tips
 
-- Peer into every boulder gap — large octopus often conceal themselves so well they are invisible until they move
-- Giant Pacific octopus are active hunters at night; consider a night dive if conditions are stable
-- Handle nothing — the kelp, encrusting organisms, and boulder communities are slow to recover from damage
-- Visibility drops with autumn rain runoff; summer and early autumn are optimal
+- No site-specific trip reports were located for Boulder Reef -- treat the notes above as general san juan islands guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Dry suit diving is standard practice in San Juan Islands waters. Tidal currents 
 
 ## Photography
 
-Giant Pacific octopus in the boulders are among the most photogenic subjects in Pacific Northwest diving. A wide-angle lens with twin strobes captures their full span. Macro photography on the boulder surfaces reveals nudibranchs, shrimp, and the fractal detail of encrusting organisms. Natural light is limited at depth — artificial lighting is essential.
+No site-specific photography reports were found for Boulder Reef. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of san juan islands reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Boulder Reef (Q49614145)](https://www.wikidata.org/wiki/Q49614145), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). No site-specific dive publications found for Boulder Reef; description reflects typical northern San Juan Islands glacial boulder reef conditions. Last updated 2026-06-26.*
+*Sources: [Wikidata -- Boulder Reef (Q49614145)](https://www.wikidata.org/wiki/Q49614145) confirms this is a real, named geographic feature. No dive shop, ScubaBoard, or dive-database source describing Boulder Reef as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical san juan islands rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*

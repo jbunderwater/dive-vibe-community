@@ -53,4 +53,6 @@ Boat dive from Punta de Mita operators (short transit) or Puerto Vallarta marina
 - Current can increase around the point itself — stay inside the sheltered reef face if conditions pick up
 
 ---
-*Sources: [Puerto Vallarta Tours – La Puntilla Scuba Diving](https://www.puertovallartatours.net/la-puntilla-scuba-diving.htm), [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/). Last updated 2026-06-26.*
+*Note: an earlier version of this page cited Puerto Vallarta Tours' "La Puntilla" page as a source, but that page describes a different, unrelated site also named La Puntilla located at Mismaloya (south bay, shore-accessible) — it has been removed as a source for this entry. Dresseldivers.com's Punta de Mita dive planner independently lists a "La Puntilla" with the same 22m/12m two-depth structure used here, which is why the depth data is retained, but only one genuinely site-specific source could be confirmed on this pass — treat the marine life details below as consistent with the region rather than independently verified for this exact site.*
+
+*Sources: [Dressel Divers – Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-08-26.*

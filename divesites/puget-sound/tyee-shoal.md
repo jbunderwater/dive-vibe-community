@@ -33,7 +33,7 @@ Tyee Shoal is a submerged rocky rise in central Puget Sound, in the waters betwe
 
 ## Marine Life
 
-Giant Pacific octopus are the signature encounter at central Puget Sound shoals like Tyee. The boulder structure provides den habitat, and octopus here can be large. Lingcod and copper rockfish are resident throughout. Puget Sound king crabs and Dungeness crabs cross the sandy margins. The rocky surface supports plumose anemones, encrusting sponges, sea stars, and nudibranchs. In the water column, Pacific herring and other schooling baitfish attract larger predators. Spotted ratfish are commonly seen on or near the sandy bottom.
+No source specific to Tyee Shoal confirming actual sightings at this site was found during research (dive shop listings, ScubaBoard reports, or dive databases). The surrounding Puget Sound / Kitsap Peninsula waters are broadly known for giant Pacific octopus, wolf eels, lingcod, multiple rockfish species, plumose anemones, and other cold-water Salish Sea invertebrates -- but these are regional characteristics, not confirmed observations at this specific site. Divers should not expect guaranteed encounters with any particular species here; treat this as a typical, unconfirmed puget sound rock reef until a diver report or operator listing documents what is actually seen.
 
 ## Dive Profile
 
@@ -45,10 +45,10 @@ Boat access only. Operated by Puget Sound dive charters based in Seattle, Tacoma
 
 ## Tips
 
-- Central Puget Sound is driveable from Seattle in under an hour, making this a practical half-day dive destination
-- Winter and spring dives often have better visibility than summer when plankton blooms cloud the water
-- Check the noise conditions — naval operations in this part of the Sound occasionally affect dive plans
-- Spotted ratfish, with their distinctive iridescent spots and large eyes, are a Puget Sound speciality worth seeking out
+- No site-specific trip reports were located for Tyee Shoal -- treat the notes above as general puget sound guidance, not confirmed local knowledge
+- Check current tidal predictions and plan the dive around slack water
+- Carry a dive light for examining rock crevices and the undersides of ledges
+- Move slowly; regardless of what is or isn't confirmed here, disturbing the substrate reduces what there is to see
 
 ## Safety
 
@@ -56,7 +56,7 @@ Boat traffic in central Puget Sound is year-round and includes commercial vessel
 
 ## Photography
 
-Octopus portraits in the boulder dens are the photographic highlight at Tyee Shoal. Ratfish on the sandy bottom make unusual and compelling macro subjects. Lingcod resting on the rock surface provide good portrait opportunities. Plumose anemone macros are productive throughout. Strobes required.
+No site-specific photography reports were found for Tyee Shoal. General Pacific Northwest reef photography practice applies: a strobe or video light is necessary for colour accuracy below a few metres, and both wide-angle (rock/anemone-covered terrain) and macro (invertebrates, encrusting life) opportunities are typical of puget sound reefs -- but specific subjects at this site are unconfirmed.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Tyee Shoal (Q49623289)](https://www.wikidata.org/wiki/Q49623289), [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). No site-specific dive publications found for Tyee Shoal; description reflects typical central Puget Sound shoal conditions. Last updated 2026-06-26.*
+*Sources: [Wikidata -- Tyee Shoal (Q49623289)](https://www.wikidata.org/wiki/Q49623289) confirms this is a real, named geographic feature. No dive shop, ScubaBoard, or dive-database source describing Tyee Shoal as a specific dive site was found despite targeted re-search -- prior citations to a WDFW South Puget Sound guide and generic regional articles did not actually name this site and have been removed as unsupported. Description above reflects typical puget sound rocky-reef conditions, not confirmed site-specific reports. Re-audited 2026-08-26.*
