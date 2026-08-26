@@ -50,4 +50,4 @@ Excellent for wide-angle and behavioural shots of dugongs and turtles. Shallow b
 - **Difficulty**: Beginner — suitable for all levels
 
 ---
-*Sources: [Divezone – Abu Dabbab](https://divezone.net/divesite/abu-dabbab), [Girls That Scuba – Marsa Alam](https://www.girlsthatscuba.com/scuba-diving-marsa-alam-abu-dabbab/), [Sambo Divers – Abu Dabbab Bay](https://sambodivers.com/abu-dabbab-bay/). Last updated 2026-05-17.*
+*Sources: [Divezone – Abu Dabbab](https://divezone.net/divesite/abu-dabbab), [Girls That Scuba – Marsa Alam](https://www.girlsthatscuba.com/scuba-diving-marsa-alam-abu-dabbab/), [Sambo Divers – Abu Dabbab Bay](https://sambodivers.com/abu-dabbab-bay/). Last updated 2026-08-26.*

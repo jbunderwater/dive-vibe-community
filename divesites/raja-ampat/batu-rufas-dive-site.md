@@ -2,10 +2,10 @@
 name: Batu Rufas Dive Site
 lat: -0.5659022
 lng: 130.2844014
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 5453439732
 addedBy: osm_import
@@ -13,50 +13,33 @@ addedBy: osm_import
 
 ## Batu Rufas Dive Site
 
-Batu Rufas is a productive reef site in the Fam Islands area of southern Raja Ampat, known for its soft coral-encrusted structures and a reputation as one of the region's manta ray transit corridors.
+Batu Rufas ("Rufas Rock") is a wall dive on the west side of Rufus Island in the Fam/Penemu island chain of central Raja Ampat, named for the large limestone rock formation that anchors the site — not a reef flat, as multiple independent sources confirm.
 
 ## Overview
 
-Situated in the Fam Island group, Batu Rufas ("Rufas Rock") is a reef system rising from deeper water whose exposed position in the tidal flow creates ideal conditions for filter-feeding organisms and the larger animals that depend on them. The reef is draped in soft coral — red and orange dendronephthya fans, leather corals, and encrusting sponges give the structure vivid color at depth. Manta rays pass through on their feeding circuits, and experienced divemasters time visits around tidal phases that bring mantas closer to the reef. Water temperature averages 27–29°C with visibility of 15–25 meters.
+A small entry gap through the surface rocks opens into a sheltered inner lagoon that functions almost as a natural swimming pool, while the outer, current-facing side of the formation drops away as a steep wall coated in soft and hard corals, sea fans, and giant barrel sponges. A swim-through connects to a sea-fan-lined shallow "fish bowl" area. Sources disagree on the wall's maximum depth: one source records a 23-metre maximum with mild-to-medium current suitable for less experienced divers, while others describe a more dramatic 40-metre drop-off into the blue — this description uses the deeper figure as the site's outer limit, but expect the working depth on most dives to be considerably shallower along the wall face.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
+- **Location**: Fam/Penemu Islands, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–25 meters (50–80 feet)
-- **Current**: Moderate; site benefits from tidal flow for soft coral and manta activity
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters (sources report a range of roughly 23–40m; see note above)
+- **Current**: Mild to medium
 - **Best Time**: October to April
 
 ## Marine Life
 
-Reef manta rays are the headline attraction — they pass through the site on feeding circuits, particularly during plankton-rich tidal exchanges. The reef itself supports white-tip and black-tip reef sharks, napoleon wrasse, large schools of fusiliers, and occasional bumphead parrotfish. Soft coral gardens host a range of nudibranchs and flatworms. Hawksbill turtles are resident. The Fam Islands area is one of the least-dived regions in Raja Ampat, so marine life is especially undisturbed.
-
-## Dive Profile
-
-The dive follows the reef structure from the shallows at around 5 meters down to 20–25 meters. The richest soft coral growth tends to be on the current-facing sides of the reef at 12–20 meters. Spend time at depth inspecting the coral structure before ascending slowly up the reef slope. If mantas are present, remain calm and still on the reef top at 8–12 meters and allow them to approach on their feeding passes.
+Sources confirmed at this specific site (lagaligoliveaboard.com, divechamp.com, thediveglobe.com): damselfish and chromis, schools of fusiliers, mackerel, napoleon wrasse, bumphead parrotfish, bluefin trevally, triggerfish, and pufferfish, plus macro subjects including pygmy seahorses, seaworms, and nudibranchs on the wall face. No source in this research confirmed manta ray activity at this specific site — an earlier version of this page described Batu Rufas as a manta transit corridor, but that claim could not be verified and has been removed.
 
 ## Entry and Exit
 
-Access is by liveaboard tender or day-trip boat. The remote Fam Islands location makes this predominantly a liveaboard site. Entry via giant stride or back roll. Surface conditions are generally calm in this sheltered archipelago. Deploy SMB for ascent when drifting off the reef edge.
-
-## Tips and Recommendations
-
-- Check tidal timing with your guide — manta passage is most likely on the incoming flood tide
-- Carry a wide-angle lens for potential manta encounters alongside a macro setup for soft coral life
-- The site's remote location means dive conditions are usually undisturbed by heavy boat traffic
-- Respect the manta protection zone; do not chase, touch, or cut off manta rays
-- Allow extra bottom time at 10–15 meters for manta passes before ascending
+Boat access from liveaboards operating the Fam Islands/central Raja Ampat itinerary. Entry via giant stride through the narrow rock gap or from open water alongside the wall, depending on conditions. Deploy an SMB on ascent from the wall face.
 
 ## Safety Considerations
 
-Moderate currents can occur at Batu Rufas during tidal exchange. Carry an SMB and be prepared to drift if current increases unexpectedly. The remote location means emergency services are many hours away — dive conservatively and plan within no-decompression limits.
-
-## Photography
-
-Soft coral macro and manta wide-angle define the photographic opportunities at this site. If a manta is present, wide-angle glass is the priority. If no mantas appear, the dendronephthya soft corals at depth are exceptional macro and close-focus wide-angle subjects. Bring both lens configurations if your system allows.
+Difficulty is classified Advanced in line with Raja Ampat's remote, liveaboard-access diving character. The wall drops well past recreational limits on its outer face — monitor depth carefully, since sources disagree on exactly how deep the drop-off runs. Carry an SMB and dive within your certification limits.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/batu-rufus/), [Dive Champ](https://divechamp.com/divesite/batu-rufas), [TheDiveGlobe](https://www.thediveglobe.com/app/fr/dive/batu-rufus-raja-ampat-9f4aa). Last updated 2026-08-26.*

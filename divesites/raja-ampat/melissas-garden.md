@@ -2,7 +2,7 @@
 name: Melissa's Garden
 lat: -0.5898694
 lng: 130.3152067
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Melissa's Garden is situated in the Fam Island group in southern Raja Ampat, an 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: Typically excellent
 - **Current**: Typically mild; can strengthen on tidal exchange
@@ -59,4 +59,4 @@ The shallow nature of Melissa's Garden makes it relatively forgiving from a dept
 Wide-angle photography here is exceptional. A 16mm or 14mm lens captures the sweep of the staghorn forest with divers in the background, conveying the garden's scale. Shooting horizontally across the reef flat at the level of the coral tops, with a diver silhouetted against the blue water column, produces iconic imagery. Natural light at 10 meters is abundant during morning hours. The acropora colors range from pale cream to vivid purple and blue.
 
 ---
-*Sources: [Papua Diving](https://papua-diving.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Dive Concepts](https://diveconcepts.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving](https://papua-diving.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Dive Concepts](https://diveconcepts.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-08-26.*

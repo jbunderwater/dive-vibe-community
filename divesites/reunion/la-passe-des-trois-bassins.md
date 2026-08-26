@@ -23,7 +23,7 @@ La Passe des Trois-Bassins is a reef dive site in Réunion. Coordinates approxim
 
 - **Location**: Réunion, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 

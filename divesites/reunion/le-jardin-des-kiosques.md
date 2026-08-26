@@ -3,7 +3,7 @@ name: Le Jardin des Kiosques
 lat: -21.18375
 lng: 55.28417
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 32
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,31 @@ addedBy: osm_import
 
 ## Le Jardin des Kiosques
 
-Le Jardin des Kiosques is a reef dive site in Réunion, Africa.
+Saint-Leu's most iconic reef dive: the external slope of the coral barrier, cut through with crevices, tubes and overhangs, accessible from first-time divers to advanced.
 
 ## Overview
 
-Le Jardin des Kiosques is a reef dive site in Réunion. GPS from PADI (-21.18375, 55.28417); depth 3-30m; external slope of coral barrier; crevices, tubes, overhangs; rich marine biodiversity; suitable beginners to advanced; Saint-Leu area. No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented and should be researched before publication.
+Le Jardin des Kiosques sits on the external slope of the Saint-Leu coral barrier and is described by local operators as the area's most emblematic reef site. Depth runs from about 3 metres near the surface to 30–32 metres at the base of the slope (sources vary slightly between 30m and 32m as the maximum). The terrain follows the reef edge through crevices, tubes and overhangs, with current reported as generally weak and visibility described as good.
+
+## Marine Life
+
+Sources report groupers, triggerfish, angelfish, jacks and surgeonfish along the reef face, plus dragonfish (scorpionfish family), leaffish, lizardfish and blue-spotted stingrays in the reef structure.
+
+## Dive Profile
+
+A reef-slope dive suitable from baptism/discovery level in the shallows down to around 30 metres for more experienced divers, following the crevices and overhangs along the barrier's outer edge.
+
+## Entry and Exit
+
+Boat entry off Saint-Leu.
 
 ## Site Information
 
-- **Location**: Réunion, Africa
+- **Location**: External slope of the Saint-Leu coral barrier, Reunion, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 32 meters
 
 ---
-*Stub generated from OpenStreetMap data. No site-specific dive sources have been validated. Last updated 2026-05-17.*
+*Sources: [PADI](https://www.padi.com/fr/site-plongee/reunion/le-jardin-des-kiosques/), [Tribloo](https://tribloo.com/fr/spot-plongee/749/le-jardin-des-kiosques.html), [Sous Les Etoiles 974](https://www.souslesetoiles974.re/article/la-plongee-sous-marine-a-la-reunion-les-clubs-les-spots-les-niveaux-le-guide-complet-2022/). Last updated 2026-08-26.*

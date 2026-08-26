@@ -59,4 +59,4 @@ Interior penetration is possible but requires wreck diving experience. Glassfish
 The Carnatic is among the Red Sea's top five photography wrecks. The glassfish interior is the signature shot — wide angle, positioned inside looking out toward light. Exterior shots of the bow section rising from the sand, decorated with soft corals, are equally iconic. A dive torch for interior colour rendition is essential.
 
 ---
-*Sources: [Master Liveaboards - Carnatic](https://masterliveaboards.com/the-ss-carnatic-wreck-an-iconic-red-sea-dive/), [Scuba World Divers - Carnatic](https://www.scubaworlddivers.com/el-gouna/dive-sites/elgouna/carnatic), [Dive the World - Abu Nuhas](https://www.dive-the-world.com/diving-sites-egypt-abu-nuhas.php). Last updated 2026-05-25.*
+*Sources: [Master Liveaboards - Carnatic](https://masterliveaboards.com/the-ss-carnatic-wreck-an-iconic-red-sea-dive/), [Scuba World Divers - Carnatic](https://www.scubaworlddivers.com/el-gouna/dive-sites/elgouna/carnatic), [Dive the World - Abu Nuhas](https://www.dive-the-world.com/diving-sites-egypt-abu-nuhas.php). Last updated 2026-08-26.*

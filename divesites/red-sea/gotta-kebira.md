@@ -29,7 +29,7 @@ Gotta Kebira presents sheer coral walls that plunge from just below the surface 
 
 ## Dive Profile
 
-Boat dive only; liveaboard access. The reef is circumnavigated in sections — one dive per face is typical. Wall drops from surface to 20–40+ metres, with a ledge around 25–30 m on the southern side. The northern tip offers the best shark action but requires monitoring of splitting currents. Not suitable for beginners due to depth and current. Night diving is not advised.
+Boat dive only; liveaboard access. The reef is circumnavigated in sections — one dive per face is typical. The wall drops vertically to an average depth of about 20 m before forming a flat ledge/plateau at roughly 18–24 m, with the drop-off beyond continuing past 40 m and reported by some sources to exceed 50 m in places. The northern tip offers the best shark action (whitetip reef sharks and bluespotted stingrays reported on the northern plateaus) but requires monitoring of splitting currents. Not suitable for beginners due to depth and current. Night diving is not advised.
 
 ## Tips
 
@@ -47,4 +47,4 @@ Boat dive only; liveaboard access. The reef is circumnavigated in sections — o
 - **Difficulty**: Advanced
 
 ---
-*Sources: [redsea-diving.com – Gota Kebira](https://www.redsea-diving.com/gota-kebira/), [St. John's Diving – Dive The World](https://www.dive-the-world.com/diving-sites-egypt-st-johns.php). Last updated 2026-05-17.*
+*Sources: [redsea-diving.com – Gota Kebira](https://www.redsea-diving.com/gota-kebira/), [St. John's Diving – Dive The World](https://www.dive-the-world.com/diving-sites-egypt-st-johns.php), [Egypt Liveaboard — Gota Kebir Reef](https://www.egypt-liveaboard.com/dive-sites/gota-kebir-reef/). Last updated 2026-08-26.*

@@ -2,7 +2,7 @@
 name: Boo Point
 lat: -2.222017
 lng: 130.60945
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ The site features a slope transitioning to steep wall diving, draped in soft cor
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Current**: Variable; assess before entry
 
@@ -33,4 +33,4 @@ The site features a slope transitioning to steep wall diving, draped in soft cor
 Wobbegong sharks and epaulette sharks rest on ledges. The wall is draped in soft corals. Regional Raja Ampat Misool marine life applies; no additional site-specific species reports were available beyond what sources confirm above.
 
 ---
-*Sources: [Misool Eco Resort](https://www.misool.info/dive-site), [Bird's Head Seascape](https://birdsheadseascape.com/), [DivePhotoGuide](https://divephotoguide.com/). Last updated 2026-06-27.*
+*Sources: [Misool Eco Resort](https://www.misool.info/dive-site), [Bird's Head Seascape](https://birdsheadseascape.com/), [DivePhotoGuide](https://divephotoguide.com/). Last updated 2026-08-26.*

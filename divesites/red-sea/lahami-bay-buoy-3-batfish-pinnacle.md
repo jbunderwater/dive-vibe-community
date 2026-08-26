@@ -45,4 +45,4 @@ Small boat (felluca/zodiac) access from the beach station; part of the daily hou
 - **Difficulty**: Intermediate
 
 ---
-*Sources: [Extra Divers Lahami Bay](https://extradivers-worldwide.com/en/destinations/egypt/extra-divers-lahami-bay/), [Regal Dive – Lahami Bay](https://www.regal-diving.co.uk/lahami-bay-beach-resort). Last updated 2026-05-17.*
+*Sources: [Extra Divers Lahami Bay](https://extradivers-worldwide.com/en/destinations/egypt/extra-divers-lahami-bay/), [Regal Dive – Lahami Bay](https://www.regal-diving.co.uk/lahami-bay-beach-resort), [Zentacle – Lahami Bay Beach Housereef](https://www.zentacle.com/Beach/4872/lahami-bay-beach-housereef), [Bluewater Dive Travel – Extra Divers Lahami Bay](https://www.bluewaterdivetravel.com/dive-operator/extra-divers-lahami-bay). The specific "Buoy 3 Batfish Pinnacle" name is confirmed via the resort/dive-center's own materials; other sources corroborate the general housereef and outer-reef context but not this exact buoy name. Last updated 2026-08-26.*

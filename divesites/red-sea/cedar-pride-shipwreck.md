@@ -17,7 +17,7 @@ The Lebanese freighter scuttled in Aqaba in 1985 at the request of then-Crown Pr
 
 ## Overview
 
-Cedar Pride Shipwreck describes the same vessel as the Cedar Pride dive site — a Lebanese general cargo vessel built in 1964 in Gijón, Spain, approximately 1,161 GRT, and previously known as "San Bruno" or "Saint Bruno." A fire in 1982 (exact month disputed between sources) while the vessel was anchored in Aqaba port killed two crew members. In 1985, then-Crown Prince Abdullah of Jordan requested the vessel be scuttled as an artificial reef. On 16 November 1985, the Cedar Pride was scuttled off Aqaba, landing on her port side with the bow at approximately 10 metres and the stern at 26–27 metres. This OSM entry records a slightly different coordinate position (29.43°N, 34.97°E) with shore entry noted. The hull is substantially colonised by soft and hard coral growth after 40 years on the seabed.
+Cedar Pride Shipwreck describes the same vessel as the Cedar Pride dive site — a Lebanese general cargo vessel built in 1964 in Gijón, Spain, and previously known as "San Bruno" or "Saint Bruno." Tonnage is disputed between sources (approximately 1,161 GRT per some, approximately 2,500 tons per others). A fire in 1982 (exact date disputed between sources — July, August 1, or August 2) while the vessel was anchored in Aqaba port killed two crew members. In 1985, then-Crown Prince Abdullah of Jordan requested the vessel be scuttled as an artificial reef. On 16 November 1985, the Cedar Pride was scuttled off Aqaba, landing on her port side with the bow at approximately 10 metres and the stern at 26–27 metres. This OSM entry records a slightly different coordinate position (29.43°N, 34.97°E) with shore entry noted. The hull is substantially colonised by soft and hard coral growth after 40 years on the seabed.
 
 ## Site Information
 
@@ -39,4 +39,4 @@ Shore entry from the Aqaba waterfront — specific access point managed by Aqaba
 The wreck lies in the busy shipping lane of Aqaba Bay — SMB deployment before ascending is critical for boat traffic awareness. Do not penetrate the hull without overhead-environment training. Aqaba Marine Park regulations apply.
 
 ---
-*Sources: [Sea Wonders Diving Center](https://seawondersdivingcenter.com), [Sinai Divers](https://sinai-divers.com), [Jordan Travel](https://jordan-travel.com), [Arab Divers](https://arabdivers.jo), [PADI](https://padi.com), [Tribloo](https://tribloo.com). Last updated 2026-06-27.*
+*Sources: [Sea Wonders Diving Center](https://seawondersdivingcenter.com), [Sinai Divers](https://sinai-divers.com), [Jordan Travel](https://jordan-travel.com), [Arab Divers](https://arabdivers.jo), [PADI](https://padi.com), [Tribloo](https://tribloo.com), [The Underwater Club - Wrecks of Jordan](https://theunderwaterclub.com/blog/the-wrecks-of-jordan/). Last updated 2026-08-26.*

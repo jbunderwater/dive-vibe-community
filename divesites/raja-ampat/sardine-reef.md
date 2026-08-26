@@ -2,7 +2,7 @@
 name: Sardine Reef
 lat: -0.5333183
 lng: 130.7139487
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: pinnacle
@@ -24,7 +24,7 @@ The name says it all. Sardine Reef's submerged pinnacle rises to within 5 meters
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)
 - **Current**: Moderate; schooling intensity increases with moderate tidal flow
@@ -59,4 +59,4 @@ No significant hazards beyond standard open-water diving protocols. Carry an SMB
 Sardine Reef is a wildlife spectacle photographer's dream. Wide-angle glass is essential (14–17mm on full frame). The defining shot is positioned below or inside the bait ball, shooting upward toward the surface with the school creating a tunnel or dome effect. Including a diver adds scale. A fast shutter speed (1/200 or faster) freezes the motion of individual fish within the school. Backscatter management is critical — avoid strobe angles that highlight particles in front of the sardines.
 
 ---
-*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [PADI](https://padi.com/), [Divernet](https://divernet.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [PADI](https://padi.com/), [Divernet](https://divernet.com/). Last updated 2026-08-26.*

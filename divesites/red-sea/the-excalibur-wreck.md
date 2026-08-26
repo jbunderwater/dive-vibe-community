@@ -17,7 +17,7 @@ The Excalibur — also known locally as the Susannah — is Hurghada's most acce
 
 ## Overview
 
-The vessel was a twin-masted motor and sail craft approximately 22 metres in length with a white and light blue hull. It sank in late 1995 or early 1996 — the exact date is undocumented — reportedly as the result of an electrical fire while in Hurghada harbour. The wreck settled upright with a slight starboard list on a flat sandy bottom at 18–22 m. Its bowsprit remains in place and the pilothouse and some accommodation areas can be penetrated.
+The vessel was a twin-masted motor and sail craft approximately 22 metres in length with a white and light blue hull. She sank in Hurghada harbour as the result of an electrical fire; The Red Sea Wreck Project and Zentacle both give February 1996, while other sources are vaguer ("late 1995 or early 1996"), so the month should be treated as approximate. The wreck settled upright with a slight starboard list on a flat sandy bottom at 18–22 m. Its bowsprit remains in place and the pilothouse and some accommodation areas can be penetrated.
 
 Because she rests at Open Water depth and lies perfectly upright, the Excalibur suits divers of all levels: beginners can work the upper deck and superstructure while more experienced divers can explore the holds and engine room.
 
@@ -39,4 +39,4 @@ The wreck supports a healthy resident community. At least three lionfish guard t
 
 The upright intact hull makes a satisfying wide-angle subject. The glassfish cloud in the wheelhouse is a favourite macro and wide-angle target. Carry a torch for the interior.
 
-*Sources: [Dive RED — Excalibur Wreck](https://dive-red.com/dive-sites/excalibur-wreck/), [The Scuba News — Featured Red Sea Wreck: Excalibur](https://www.thescubanews.com/2014/01/03/featured-red-sea-wreck-excalibur-also-known-as-susannah/). Last updated 2026-05-17.*
+*Sources: [Dive RED — Excalibur Wreck](https://dive-red.com/dive-sites/excalibur-wreck/), [The Scuba News — Featured Red Sea Wreck: Excalibur](https://www.thescubanews.com/2014/01/03/featured-red-sea-wreck-excalibur-also-known-as-susannah/), [The Red Sea Wreck Project — Excalibur](https://www.redseawreckproject.com/red-sea-wreck-blog/featured-red-sea-wreck-excalibur-also-known-as-susannah/), [Zentacle — The Excalibur Wreck](https://www.zentacle.com/Beach/2787/the-excalibur-wreck). Last updated 2026-08-26.*

@@ -58,4 +58,4 @@ The maximum depth of 30 meters reduces no-decompression bottom time significantl
 The encrusted aircraft structure provides unique photographic subjects unlike standard reef photography. Wide-angle shots showing the wing span or fuselage silhouette with reef fish and blue water in the background are striking. Detail shots of the encrusting corals and sponges reveal the transformation of the metal into a reef ecosystem. Torch-lit interior details through openings in the fuselage make atmospheric images.
 
 ---
-*Description based on GPS coordinates and regional diving characteristics. Aircraft type and history not confirmed by independent sources. Last updated 2026-05-25.*
+*Description based on GPS coordinates and regional diving characteristics. Aircraft type and history not confirmed by independent sources. Last updated 2026-08-26.*

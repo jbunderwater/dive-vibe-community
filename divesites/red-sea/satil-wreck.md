@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Satil Wreck
 
-Satil-class missile boat wreck at Village Beach, Eilat — a 40-meter vessel sunk as an underwater museum, sitting upright at 22-24 meters depth just 70 meters offshore.
+Israeli Navy missile boat wreck at Village Beach, Eilat — sunk as an underwater museum, sitting upright at approximately 22–25 meters depth a short distance offshore.
 
 ## Overview
 
-The Satil Wreck is a former Israeli Navy Sa'ar 4.5-class missile boat (Cherbourg boat) sunk in 1994 as an underwater museum off Village Beach in Eilat. The 46-metre vessel sits upright and parallel to the beach at approximately 22–25 metres depth, approximately 50 metres from shore. The wreck is one of the famous Cherbourg boats — missile vessels that Israeli personnel disguised as dock workers sailed out of Cherbourg, France on Christmas Eve 1969, defying a French arms embargo. After 25 years of service in the Israeli Navy, the Satil was scuttled to become an artificial reef and diving attraction.
+The Satil Wreck is a former Israeli Navy missile boat sunk in 1994 as an underwater museum off Village Beach in Eilat. **Note on naming:** dive-industry sources online frequently conflate the identities and histories of the two Eilat/Aqaba-area Israeli Navy wrecks named "Satil" and "Sufa," and report significantly different lengths for this vessel (45–46 metres per some sources, "just over 58 metres" per others). A dramatic backstory circulated by several dive-operator pages — that this specific vessel was one of the five Sa'ar-class "Cherbourg boats" smuggled out of France on Christmas Eve 1969 — could not be independently confirmed for a Sa'ar 4.5-class vessel like the Satil (the 4.5-class was built domestically by Israel Shipyards starting in the 1980s, well after the 1969 Cherbourg operation). That history more plausibly belongs to the original 1969 Sa'ar 3-class INS Sufa, and this description omits the Cherbourg claim rather than repeat an unverified attribution. The wreck sits upright and parallel to the beach at approximately 22–25 metres depth. After Israeli Navy service, the vessel was scuttled to become an artificial reef and diving attraction.
 
 ## Site Information
 
@@ -49,4 +49,4 @@ Shore entry from Village Beach with a short surface swim. The keel sits at 22-24
 Shore entry with a short swim. Mild currents typical. Watch for lionfish around the wreck structure. Do not attempt penetration beyond the bow section without proper wreck diving training.
 
 ---
-*Sources: [Adrex - Sufa/Satil Wreck Eilat](https://www.adrex.com/en/articles/water/scuba-diving/sufa-satil-wreck-dive-in-the-red-sea-eilat-israel/), [Ahla Dive - Satil Wreck](https://ahla-dive.com/for-certified-divers/dive-sites-of-Eilat/satil-wreck/), [Tribloo - Satil Wreck](https://www.tribloo.com/en/dive-sites/596/the-satil-wreck.html). Last updated 2026-05-25.*
+*Sources: [Adrex - Sufa/Satil Wreck Eilat](https://www.adrex.com/en/articles/water/scuba-diving/sufa-satil-wreck-dive-in-the-red-sea-eilat-israel/), [Ahla Dive - Satil Wreck](https://ahla-dive.com/for-certified-divers/dive-sites-of-Eilat/satil-wreck/), [Tribloo - Satil Wreck](https://www.tribloo.com/en/dive-sites/596/the-satil-wreck.html), [Divemaster Austin - Satil Wreck](https://divemasteraustin.com/dive-sites/satil-wreck). Last updated 2026-08-26.*

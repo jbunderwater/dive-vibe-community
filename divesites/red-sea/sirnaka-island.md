@@ -51,4 +51,4 @@ Liveaboard access only from Hamata or Marsa Alam on extended itineraries. Giant 
 Remote location with multi-hour emergency response times — dive conservatively. The El Kamash wreck at 30–50 metres requires careful gas planning; currents on the wreck side can be strong. Always carry a fully rigged SMB.
 
 ---
-*Sources: [redsea-diving.com](https://redsea-diving.com), [4eversea.com](https://4eversea.com), [omneia.de](https://omneia.de). Last updated 2026-06-27.*
+*Sources: [redsea-diving.com](https://redsea-diving.com), [4eversea.com](https://4eversea.com), [omneia.de](https://omneia.de). Last updated 2026-08-26.*

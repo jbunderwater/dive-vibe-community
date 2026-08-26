@@ -2,7 +2,7 @@
 name: Boo Windows
 lat: -2.221583
 lng: 130.611667
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ The site's defining features are the swim-through "windows" in the limestone roc
 - **Location**: Misool area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Current**: Variable; assess before entry
 
@@ -33,4 +33,4 @@ The site's defining features are the swim-through "windows" in the limestone roc
 Wobbegong sharks, epaulette sharks, and pygmy seahorses inhabit the overhangs and windows. The wall and swim-through structures are encrusted with soft corals and sponges. Regional Raja Ampat Misool marine life applies; the sources above confirm the species listed.
 
 ---
-*Sources: [Misool Eco Resort](https://www.misool.info/dive-site), [Bird's Head Seascape](https://birdsheadseascape.com/), [DivePhotoGuide](https://divephotoguide.com/). Last updated 2026-06-27.*
+*Sources: [Misool Eco Resort](https://www.misool.info/dive-site), [Bird's Head Seascape](https://birdsheadseascape.com/), [DivePhotoGuide](https://divephotoguide.com/). Last updated 2026-08-26.*

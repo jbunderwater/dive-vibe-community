@@ -46,4 +46,4 @@ Day trip from El Gouna (the closest departure point), Hurghada (approximately 2.
 The Chrisoula K is a penetration dive in the cargo holds — divers should not enter without appropriate overhead environment training. Fallen beams and poles create obstruction hazards in the interior. Silt disturbance inside the hull reduces visibility rapidly. Current on the reef top can be strong; use the mooring line for controlled descent and ascent.
 
 ---
-*Sources: [Deep Blue Diver - Chrisoula K](https://deepbluediver.uk), [The Scuba News - Chrisoula K](https://thescubanews.com), [CDWS](https://cdws.travel), [Seawolf Safari](https://seawolf-safari.de), [Red Sea Wreck Project](https://redseawreckproject.com). Last updated 2026-06-27.*
+*Sources: [Deep Blue Diver - Chrisoula K](https://deepbluediver.uk), [The Scuba News - Chrisoula K](https://thescubanews.com), [CDWS](https://cdws.travel), [Seawolf Safari](https://seawolf-safari.de), [Red Sea Wreck Project](https://redseawreckproject.com). Last updated 2026-08-26.*

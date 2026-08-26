@@ -2,7 +2,7 @@
 name: Manta Point
 lat: -0.5809433
 lng: 130.5409632
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Manta Point sits in the productive waters off Arborek village, where reef manta 
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Mild to moderate; strongest on incoming tide
@@ -59,4 +59,4 @@ Currents can pick up on the incoming tide and may make holding position at the c
 Manta Point is one of the finest manta photography locations on Earth. Wide-angle glass (10–17mm fisheye or 16–35mm) is ideal. Shoot looking up toward the surface to silhouette the mantas against the light, or position at the same depth for a level profile shot. Mantas circle predictably, so patience yields exceptional close-focus wide-angle images.
 
 ---
-*Sources: [Indonesia Tourism](https://indonesia-tourism.com/), [Dive Concepts](https://diveconcepts.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [Luxury Raja Ampat](https://luxuryrajaampat.com/). Last updated 2026-06-27.*
+*Sources: [Indonesia Tourism](https://indonesia-tourism.com/), [Dive Concepts](https://diveconcepts.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [Luxury Raja Ampat](https://luxuryrajaampat.com/). Last updated 2026-08-26.*

@@ -47,4 +47,4 @@ Boat dive; entry from zodiac or day boat. Descend to the sandy base at 14–16 m
 - **Difficulty**: Beginner
 
 ---
-*Sources: [Scuba World Divers – Gotta El Dier](https://www.scubaworlddivers.com/el-gouna/dive-sites/elgouna/gotta-el-dier-(half-day)), [ScubaSnap – Gota El Dir](https://scubasnap.app/destinations.php?country=Egypt&divesite=Gota+El+Dir). Last updated 2026-05-17.*
+*Sources: [Scuba World Divers – Gotta El Dier](https://www.scubaworlddivers.com/el-gouna/dive-sites/elgouna/gotta-el-dier-(half-day)), [ScubaSnap – Gota El Dir](https://scubasnap.app/destinations.php?country=Egypt&divesite=Gota+El+Dir), [Divessi – Gota El Dir](https://www.divessi.com/en/mydiveguide/divesite/gota-el-dir-egypt-544). Last updated 2026-08-26.*

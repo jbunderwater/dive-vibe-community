@@ -2,7 +2,7 @@
 name: Friwen Garden
 lat: -0.4713256
 lng: 130.6985472
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
 siteType: reef
@@ -24,10 +24,10 @@ Friwen Island lies in the northern reaches of Raja Ampat's core diving zone, and
 - **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)
-- **Current**: Variable; can strengthen at the key point (Intermediate-appropriate)
+- **Current**: Variable; can strengthen at the key point
 - **Best Time**: October to April
 
 ## Marine Life
@@ -52,11 +52,11 @@ Accessed by boat from Friwen Island homestays or liveaboards. Entry via giant st
 
 ## Safety Considerations
 
-Friwen Garden is a friendly, beginner-accessible site in calm conditions. The main consideration is the shallow reef top — entry and exit positioning matters to avoid standing on coral. Standard reef diving protocols apply. Carry an SMB.
+In-water conditions at Friwen Garden are gentle and forgiving. Difficulty is nonetheless classified Advanced in line with Raja Ampat's remote, liveaboard-access diving character — the region sits hours from organized medical evacuation, so Advanced certification and self-sufficiency are recommended regardless of local conditions at any individual site. The main practical consideration remains the shallow reef top — entry and exit positioning matters to avoid standing on coral. Standard reef diving protocols apply. Carry an SMB.
 
 ## Photography
 
 Hard coral wide-angle photography is outstanding here — tabletop Acropora framing a diver in the background is a classic composition. The gentle slope provides comfortable positioning for macro work without current management challenges. Nudibranch variety is excellent and the calm conditions allow extended close-up photography.
 
 ---
-*Sources: [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/) (documents 2–35m depth range), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-06-27.*
+*Sources: [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/) (documents 2–35m depth range), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-08-26.*

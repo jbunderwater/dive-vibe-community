@@ -2,8 +2,8 @@
 name: Keruo Channel
 lat: -0.5888295
 lng: 130.2960285
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
 siteType: drift
 ref: null
@@ -13,36 +13,33 @@ addedBy: osm_import
 
 ## Keruo Channel
 
-Keruo Channel is a drift dive in the Keruo Island area of Raja Ampat, West Papua, Indonesia. The channel funnels tidal currents between islands, creating an accelerated flow that concentrates nutrients, attracts pelagic fish, and provides the current-assisted glide that is one of the great pleasures of Raja Ampat diving.
+Keruo Channel is a drift dive along a wall in the Fam Islands area of central Raja Ampat, running through the channel between Keruo and Keruwo islands.
 
 ## Overview
 
-As the tide pushes water through the channel, the current carries divers along a reef wall and over coral gardens at a pace determined by the tidal state. The channel walls are encrusted with dense soft coral, sponges, and sea fans that have colonised every available surface in the current-rich environment. Hard corals cap the shallower sections where the current briefly eases.
+The channel is flanked by limestone cliffs, with a vertical wall on its western side blanketed in soft corals, hard corals, colorful sponges, and gorgonian sea fans. Sources report differing maximum depths for the site — one gives 25 metres, another cites the wall dropping to 35 metres — so treat the deeper figure as the outer limit rather than a confirmed working depth. Current runs medium to strong through the channel, producing a reliable drift dive where divers cover significant ground past walls and slopes in a single dive.
 
-Pelagic activity peaks when current runs strongest: schools of rainbow runners, barracuda, and trevally position themselves in the flow to intercept prey. Grey reef sharks and whitetip reef sharks are commonly encountered along the channel walls, holding station in the current or resting in eddies behind large coral heads. Manta rays occasionally cruise through on strong current days, effortlessly riding the flow that the divers struggle to navigate.
+## Site Information
 
-Visibility runs 15–25 metres in clear conditions. Water temperatures average 27–30°C. The site is best dived on a running current for the full drift experience.
+- **Location**: Keruo Island / Fam Islands, Raja Ampat, West Papua, Indonesia
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters (sources report a range of roughly 25–35m; see note above)
+- **Current**: Medium to strong
+- **Best Time**: October to April
 
 ## Marine Life
 
-- Grey reef sharks and whitetip reef sharks along the walls
-- Schools of rainbow runners, barracuda, and trevally
-- Dense soft coral and sea fan growth on channel walls
-- Occasional manta rays on strong current days
-- Grouper and snapper in current eddies
+Sources confirmed at this specific site (lagaligoliveaboard.com, padi.com, meridianadventuredive.com): the "Keruo Channel and Keruo Wall" area is described as home to barracuda and other schooling fish, over reefs covered in colorful hard and soft coral. None of the three sources consulted named grey reef sharks, whitetip reef sharks, or manta rays for this specific site — an earlier version of this page included those claims, which could not be traced to a site-specific source and have been removed.
 
-## Dive Profile
+## Entry and Exit
 
-Divers enter upstream and drift through the channel at 10–25 metres, reading the terrain and moving between current and eddies to control pace. The liveaboard or day boat follows the bubble trail and picks up divers at the channel exit. This is a drift dive requiring reasonable buoyancy control. Entry and exit are by boat.
+Boat access from liveaboards operating the Fam Islands itinerary. Divers enter upstream and drift through the channel; the boat follows the group to the exit point. Deploy an SMB on ascent.
 
-## Practical Information
+## Safety Considerations
 
-- **Depth range**: 5–25 m
-- **Visibility**: 15–25 m
-- **Current**: Moderate to strong (best on running current)
-- **Best time**: October–April
-- **Water temperature**: 27–30°C
-- **Entry**: Boat (drift pickup)
+Difficulty is classified Advanced given the channel's medium-to-strong current and Raja Ampat's remote, liveaboard-access diving character generally. This is a drift dive requiring reasonable buoyancy and current management — never surface without an SMB.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/diving/raja-ampat/dive-site/keruo-channel/), [PADI](https://www.padi.com/dive-site/indonesia/keruo-chanel/), [Meridian Adventure Dive](https://raja.meridianadventuredive.com/). Last updated 2026-08-26.*

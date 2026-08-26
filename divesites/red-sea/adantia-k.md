@@ -39,4 +39,4 @@ Extended day trip from Marsa Alam or liveaboard. Giant stride entry. Often combi
 The hull is completely collapsed — there is no interior penetration. External exploration of the debris field and engine section is the appropriate dive plan. Current assessment before entry. SMB before ascending.
 
 ---
-*Sources: [Red Sea Wreck Project](https://redseawreckproject.com), [The Scuba News](https://thescubanews.com). Last updated 2026-06-27.*
+*Sources: [Red Sea Wreck Project](https://redseawreckproject.com), [The Scuba News](https://thescubanews.com). Last updated 2026-08-26.*
