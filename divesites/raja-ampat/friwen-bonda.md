@@ -59,4 +59,4 @@ The exposed wall face can experience surge and current. Monitor depth carefully 
 Friwen Bonda rewards both macro and wide-angle shooters. Pygmy seahorses demand a macro lens, patience, and a steady hand. Wide-angle shots looking up the wall face with diver silhouettes against the blue water create dramatic compositions. The pristine hard coral gardens at the top of the wall are exceptional for coral reef photography.
 
 ---
-*Sources: [Papua Diving](https://papua-diving.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [PADI](https://padi.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [PADI](https://padi.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/). Last updated 2026-08-27.*

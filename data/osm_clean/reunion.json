@@ -13,8 +13,10 @@
       "name": "Cap La Houssaye",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dodopalme.com, bleumarineplongee.re, myscubadivinggearguide.com, padi.com, generationvoyage.fr",
-      "note": "Coordinates approximate based on cape position (lat -21, lon 55.2333 per getamap.net); dive depth 4-18m; shore access; all levels including beginners; reefs, small caves, drop-off, seagrass"
+      "validated": "true",
+      "validation_source": "dodopalme.com, bleumarineplongee.re, generationvoyage.fr",
+      "last_qa_date": "2026-08-27",
+      "note": "Coordinates approximate based on cape position (getamap.net); depth 2-18m; shore access; all levels including beginners; reefs, small caves, drop-off, arches, seagrass; confirmed site-specific fauna: turtles, pipefish, scorpionfish (incl. reported albino individual), leaf scorpionfish, nudibranchs, frogfish, octopus, rays near surface"
     },
     "depth_max": 18
   },
@@ -32,8 +34,10 @@
       "name": "Pain de Sucre",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dodopalme.com, bleumarineplongee.re, tribloo.com, souslesetoiles974.re",
-      "note": "Coordinates approximate; site is near Boucan Canot beach, west Reunion; depth 6-20m; fissures, canyons, arches, small caves; named for rock formation on beach"
+      "validated": "true",
+      "validation_source": "dodopalme.com, bleumarineplongee.re, cartedelareunion.fr",
+      "last_qa_date": "2026-08-27",
+      "note": "Coordinates approximate; site is near Boucan Canot beach, west Reunion; fractured reef plateau with fissures, canyons, arches, small caves, coral heads; depth 6-20m; named for a rectangular rock that fell from the cliff onto the beach; confirmed site-specific fauna: jacks/carangues (often in groups), turtles, clownfish, anemones, barracudas, occasional Napoleon wrasse; popular baptism/beginner site, also dived at night"
     },
     "depth_max": 20
   },
@@ -44,15 +48,17 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 22,
-    "site_type": "reef",
-    "entry_type": "boat",
+    "site_type": "pinnacle",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "name": "Tour de Boucan",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "bleumarineplongee.re, dodopalme.com, le5element.com, souslesetoiles974.re",
-      "note": "Coordinates approximate; site is off Boucan Canot beach, Saint-Paul area; depth 6-22m; shore-accessible pinnacle; clownfish, turtles, anemones; isolated rock formation"
+      "validated": "true",
+      "validation_source": "dodopalme.com, bleumarineplongee.re, le5element.com",
+      "last_qa_date": "2026-08-27",
+      "note": "RECLASSIFIED reef -> pinnacle and entry_type boat -> shore on 2026-08-27 QA pass: multiple operators describe an isolated rock tower/pinnacle rising from a seabed at 22m, with the richest marine life concentrated at its summit, and explicitly call it one of the few shore-accessible dives near Saint-Gilles. Coordinates approximate; off Boucan Canot beach, Saint-Paul area; small drop-offs and canyon passages around the base, white sand; confirmed fauna: clownfish, anemones, turtles, barracudas, occasional Napoleon wrasse"
     },
     "depth_max": 22
   },
@@ -63,15 +69,17 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Passe de l'Ermitage",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "padi.com, dodopalme.com, bleumarineplongee.re, le5element.com, souslesetoiles974.re",
-      "note": "GPS from PADI (-21.08526, 55.22158); depth 6-25m; pass/channel through reef crest; turtles, eagle rays, sandy floor, coral plateaus, caves and tunnels"
+      "validated": "true",
+      "validation_source": "le5element.com, tribloo.com, padi.com",
+      "last_qa_date": "2026-08-27",
+      "note": "RECLASSIFIED reef -> drift and difficulty Beginner -> Intermediate on 2026-08-27 QA pass: tribloo.com and le5element.com both explicitly describe this as a plongee derivante (drift dive) through a channel cut in the reef by a ravine, with current strong enough that sources warn divers not to be distracted by the scenery. GPS from PADI (-21.08526, 55.22158); depth 6-25m (one source: 10-22m); channel/pass between lagoon and open ocean, sandy floor, coral plateaus, fissures, tunnels and small caves; confirmed fauna: turtles, eagle rays, batfish/platax that follow divers, colorful reef fish, abundant nutrients draw feeding fish"
     },
     "depth_max": 25
   },
@@ -89,8 +97,10 @@
       "name": "Hai Siang",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dodopalme.com, bleumarineplongee.re, corail-plongee.com, tribloo.com, souslesetoiles974.re, linfo.re",
-      "note": "Coordinates approximate; 3km offshore from Aigrettes/Cap Homard area near Saint-Gilles; 49m Taiwanese fishing vessel sunk 1980s; sits upright on white sand at 54m; Level 3/Tech certification required; strong currents possible"
+      "validated": "true",
+      "validation_source": "bleumarineplongee.re, linfo.re, dodopalme.com",
+      "last_qa_date": "2026-08-27",
+      "note": "Coordinates approximate; off Saint-Gilles/Boucan Canot area. 49m Taiwanese fishing vessel (name translates to 'wild boar'), abandoned by its owner and seized by the French Navy for suspected illegal/poaching activity, deliberately scuttled as an artificial reef. SINKING DATE CONFLICT: bleumarineplongee.re and an earlier note say 1980s; linfo.re (Reunion news outlet) dates the scuttling to early 1996 -- flagged in markdown rather than picking one. Depth ~50-54m (one low-quality source gave an inconsistent ~20m reading, discarded as unreliable); broke into two sections ~10m apart after cyclonic swell; no Wikipedia article exists for this vessel. Level 3/Tech certification required, ~10 min descent, strong current possible. Fauna: snapper schools, lionfish, stingrays, pelagics during safety stops. No tonnage figure found in any source -- omitted rather than guessed."
     },
     "depth_max": 54
   },
@@ -108,8 +118,10 @@
       "name": "Navarra",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dodopalme.com, corail-plongee.com, bleumarineplongee.re, myscubadivinggearguide.com",
-      "note": "Coordinates approximate; off Pointe des Aigrettes near Saint-Gilles port; 47m fishing vessel intentionally sunk 1996; broken in two parts by cyclonic swell; depth 40-53m; Level 3 required; one of two deep wrecks near Saint-Gilles alongside Hai Siang"
+      "validated": "true",
+      "validation_source": "dodopalme.com, corail-plongee.com, plongeur.com",
+      "last_qa_date": "2026-08-27",
+      "note": "Coordinates approximate; off Pointe des Aigrettes near Saint-Gilles port. 47m fishing vessel abandoned by its owner and seized by the French Navy; scuttled by the local FFESSM federation delegation in early 1996 at just over 50m to create an artificial reef, corroborated independently by dodopalme.com and a 2012 corail-plongee.com dive report. Broke into two parts ~10m apart after a cyclonic swell; bow reportedly oriented west. Depth 40-53m. Level 3 required. One of two deep wrecks near Saint-Gilles alongside Hai Siang. No Wikipedia article exists for this vessel (search hits for 'Navarra' on Wikipedia refer to an unrelated 1923 Spanish cruiser). No tonnage figure found -- omitted."
     },
     "depth_max": 53
   },
@@ -119,7 +131,7 @@
     "lon": 55.26745,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
+    "depth": 50,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -127,8 +139,10 @@
       "name": "Antonio Lorenzo",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "padi.com, bleumarineplongee.re, tribloo.com, myscubadivinggearguide.com, souslesetoiles974.re",
-      "note": "GPS from PADI (-21.14939, 55.26745); 50m Chilean longliner caught illegal fishing near Kerguelen, sunk 1999; rests on port side at ~50m (slipped from original 40m position); near Tombant de la Pointe au Sel"
+      "validated": "true",
+      "validation_source": "zinfos974.com, tribloo.com, cartedelareunion.fr",
+      "last_qa_date": "2026-08-27",
+      "note": "GPS from PADI (-21.14939, 55.26745). Chilean longliner seized by French Navy patrol vessel L'Albatros on 1 Sept 1998 for illegal fishing of Patagonian toothfish (legine) in the Kerguelen/TAAF zone, towed to Pointe des Galets 14 Sept 1998; proposed by regional FFESSM as an artificial reef; deliberately sunk at Pointe des Chateaux, Saint-Leu, on 16 Dec 1999 by opening its hull. LENGTH CONFLICT: zinfos974.com states 53m; cartedelareunion.fr/other sources say 'over 50m'; flagged as a range rather than a single figure. DEPTH CONFLICT: zinfos974.com/cartedelareunion.fr give 38m; other sources (incl. prior note) give 40-50m with the wreck said to have shifted from its original position -- flagged as a range. Lies on its port side near Tombant de la Pointe au Sel. Studies 1999-2003 found it functioning as an artificial reef with no negative environmental impact. No Wikipedia article exists for this vessel."
     },
     "depth_max": 50
   },
@@ -138,16 +152,18 @@
     "lon": 55.283,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
+    "depth": 80,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Tombant de la Pointe au Sel",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "bleumarineplongee.re, tribloo.com, myscubadivinggearguide.com, souslesetoiles974.re, generationvoyage.fr, sea-seek.com",
-      "note": "Coordinates approximate based on Pointe au Sel cape location (getamap: -21.1833, 55.2833 is the cape tip); drop-off begins at 25-27m and descends to 60-80m; described as Reunion's finest dive by multiple operators; pelagics, hammerhead sharks, whale sharks, manta rays; Level 2+"
+      "validated": "true",
+      "validation_source": "tribloo.com, generationvoyage.fr, bleumarineplongee.re",
+      "last_qa_date": "2026-08-27",
+      "note": "RECLASSIFIED difficulty Intermediate -> Advanced on 2026-08-27 QA pass per project rule (>30m max depth = Advanced): three independent sources agree the wall begins at 25-27m and drops to 71-80m (recreational/air divers generally turn around 60m). Coordinates approximate based on Pointe au Sel cape location; widely described by local operators as the best/most beautiful dive site in Reunion. Level 2/3 required. Fauna reported by operators: reef fish, stingrays, sea turtles, jacks, humphead parrotfish, tuna, barracuda; occasional pelagic sightings (hammerhead sharks, whale sharks, manta rays) reported by operators but not tied to a specific site-verification source beyond operator marketing copy -- treated as occasional/seasonal rather than routine in the markdown."
     },
     "depth_max": 80
   },
@@ -165,8 +181,10 @@
       "name": "Le Sec Jaune",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "padi.com, tribloo.com, bleumarineplongee.re",
-      "note": "GPS from PADI (-21.20585, 55.27990); coral plateau with drop-off to 20-30m; adjacent to Tombant de la Pointe au Sel; turtles, eagle rays, hard and soft corals; Open Water/CMAS 1 minimum"
+      "validated": "true",
+      "validation_source": "padi.com, tribloo.com, jevislareunion.com",
+      "last_qa_date": "2026-08-27",
+      "note": "GPS from PADI (-21.20585, 55.27990). Isolated rock plateau rising near the surface, covered in vivid yellow coral (source of the name 'yellow shoal'); coral plateau begins ~5m; DEPTH CONFLICT: PADI states max 20m while the prior curated note and another source describe a drop-off reaching 20-30m -- flagged as a range in markdown. Adjacent to Tombant de la Pointe au Sel, facing the protected Pointe au Sel reserve zone. Accessible to all levels; caves, arches, coral formations. Confirmed fauna: turtles, eagle rays, abundant reef fish, varied hard/soft corals."
     },
     "depth_max": 30
   },
@@ -176,7 +194,7 @@
     "lon": 55.28417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 32,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -184,10 +202,12 @@
       "name": "Le Jardin des Kiosques",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "padi.com, tribloo.com, souslesetoiles974.re",
-      "note": "GPS from PADI (-21.18375, 55.28417); depth 3-30m; external slope of coral barrier; crevices, tubes, overhangs; rich marine biodiversity; suitable beginners to advanced; Saint-Leu area"
+      "validated": "true",
+      "validation_source": "padi.com, tribloo.com, mytripbook.fr",
+      "last_qa_date": "2026-08-27",
+      "note": "GPS from PADI (-21.18375, 55.28417). External slope of the Saint-Leu coral barrier; sand bank alongside a coral platform, fissures/coral tongues to the north with large tabular Acropora. DEPTH: sources vary 30-35m (PADI: 3-30m; other operators: 0-32m to 0-35m) -- kept as an approximate range in markdown. Suitable for beginners through advanced. PADI's generic 'sharks, whales, dolphins' species list appears verbatim on multiple unrelated Reunion PADI site pages and is treated as non-site-specific boilerplate -- NOT used. Confirmed site-specific fauna instead drawn from tribloo/mytripbook: eagle rays, stonefish, leaf scorpionfish/leaf fish, lizardfish, bluefin trevally, stingrays."
     },
-    "depth_max": 30
+    "depth_max": 32
   },
   {
     "name": "Sea Venture",
@@ -203,8 +223,10 @@
       "name": "Sea Venture",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dodopalme.com, bleumarineplongee.re, myscubadivinggearguide.com, souslesetoiles974.re",
-      "note": "Coordinates approximate; in Saint-Paul Bay facing marine cemetery, ~100m from La Barge; 86m Panamanian cargo ship capsized and sunk 16 Nov 1981 while waiting for port entry; upside-down wreck; two large propellers intact; depth 40-49m; Level 2 minimum"
+      "validated": "true",
+      "validation_source": "bleumarineplongee.re, dodopalme.com, cartedelareunion.fr",
+      "last_qa_date": "2026-08-27",
+      "note": "ACCESS STATUS CORRECTION (2026-08-27 QA): multiple independent sources (cartedelareunion.fr, montresdeplongee.forumactif.com, paradise-plongee.com archive) state the wreck has been closed to diving intermittently since a 1997 fuel/tank leak polluted the shoreline, was reopened to clubs around 2008, and is CURRENTLY described as closed/prohibited due to structural instability -- this is now stated explicitly in the markdown rather than presenting the site as freely diveable. Coordinates approximate; in Saint-Paul Bay facing the marine cemetery, ~100m from La Barge. 86m Panamanian cargo ship carrying a timber cargo, anchored awaiting a berth at Pointe des Galets, destabilized by its cargo and bad weather, capsized and sank 16 Nov 1981; all 26 crew reached shore safely. Lies upside-down; propellers visible ~40m, hull ~48-49m. No tonnage figure found -- omitted. No dedicated Wikipedia article (the only 'Sea Venture' Wikipedia entry is the unrelated 1609 Bermuda ship)."
     },
     "depth_max": 49
   },
@@ -222,8 +244,10 @@
       "name": "La Barge de Saint-Paul",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dodopalme.com, bleumarineplongee.re, tribloo.com",
-      "note": "Coordinates approximate; in Saint-Paul Bay facing marine cemetery, ~100m from Sea Venture; 10m barge lying at 22m on black basaltic sand; large anchor chains; scorpionfish, electric rays, frogfish; popular night dive site; Level 2 minimum"
+      "validated": "true",
+      "validation_source": "bleumarineplongee.re, cartedelareunion.fr, tribloo.com",
+      "last_qa_date": "2026-08-27",
+      "note": "Coordinates approximate; in Saint-Paul Bay facing marine cemetery, ~100m from Sea Venture. 10m barge riddled with small openings, lying at 22m on black basaltic sand; large anchor chains nearby. Confirmed fauna: frogfish/antennarius, stonefish, torpedo/electric rays; tuna and dolphins occasionally seen hunting in the area. Popular night dive site. An earlier machine-translated source claimed 'leafy sea dragons' at this site -- REMOVED as a hallucination risk (leafy sea dragons occur only in southern Australian waters, not the Indian Ocean); no source independently confirms that species here. Level 2 minimum."
     },
     "depth_max": 22
   },
@@ -234,15 +258,17 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 22,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "La Passe des Trois-Bassins",
       "source": "curated",
       "addedBy": "gap_fill",
-      "validation_source": "dodopalme.com, bleumarineplongee.re",
-      "note": "Coordinates approximate; pass through reef crest at Trois-Bassins village between Saint-Gilles and Saint-Leu; depth to 22m; sandy bottom; medium-sized fauna; beginners/Level 1"
+      "validated": "true",
+      "validation_source": "plongee-loisir.com, padi.com, jean-marc.charel.pagesperso-orange.fr",
+      "last_qa_date": "2026-08-27",
+      "note": "RECLASSIFIED reef -> drift and difficulty Beginner -> Intermediate on 2026-08-27 QA pass: sources describe the pass as nutrient/plankton-rich, with strong currents that can reduce visibility -- one source explicitly calls out 'forts courants' (strong currents), which along with the pass/channel naming convention (per project validation rule: channel/pass = drift) supports reclassification; some operators still market it toward baptism/Level-1 divers, so treat as an easier drift dive rather than a technical one. Coordinates approximate; pass through the reef crest at Trois-Bassins village, in front of Cap La Houssaye, between Saint-Gilles and Saint-Leu; depth 5-22m; coral drop-offs bordered by sand, crevices. Confirmed fauna: sea turtles, large eagle rays; a cave is reported at the site."
     },
     "depth_max": 22
   }

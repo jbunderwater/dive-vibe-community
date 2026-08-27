@@ -36,16 +36,18 @@ The **Réserve Naturelle Marine de La Réunion** (created 2007) protects approxi
 - **Language**: French (official); Réunion Creole widely spoken
 - **Best Season**: Year-round diving possible. Austral summer (Oct–Mar) is the warmer, calmer season; austral winter (Jun–Oct) overlaps with humpback whale migration but brings cooler water and stronger trade winds.
 - **Safety**:
-  - **Shark crisis (2011–present)**: Increased bull and tiger shark activity led to multiple fatal incidents on surfers and bathers. Most attacks are along the west coast. The risk is primarily for surface activities (surfing, bodyboarding) — scuba diving has not seen attacks at the same rate, but operators monitor conditions actively and may close sites. Always dive with a local operator and follow their guidance.
+  - **Shark restrictions (2013–present)**: Following a sharp rise in shark incidents — 24 reported encounters and 11 fatalities between 2011 and 2019, most involving bull and tiger sharks along the west coast — a prefectoral decree of 26 July 2013 banned swimming and wave sports (surfing, bodyboarding) within 300 metres of shore outside the lagoon and designated supervised areas. That decree has been renewed repeatedly since. As of 12 February 2025, the prefecture eased the ban to again permit swimming/snorkelling with mask, fins and snorkel within the 300m band, based on data showing that activity was not implicated in attacks; free-diving and surfing restrictions remain in force in the open-ocean zone. The restrictions target surface activities rather than scuba diving specifically — dive operators continue to run scuba trips and actively monitor conditions, closing sites at their discretion — but always dive with a local operator and follow their current guidance.
   - Verify the location of the nearest hyperbaric chamber before diving (chamber operated at the CHU at Saint-Pierre).
   - The east coast is generally unsafe for water entry due to strong swell.
+  - The Sea Venture wreck site (Saint-Paul Bay) is reported by several sources as currently closed to diving due to structural instability — see that site's page for details before planning a dive there.
 
 ## Sources
 
 - [Réserve Naturelle Marine de La Réunion](https://www.reservemarinereunion.fr/)
 - [PADI - Diving in Réunion](https://www.padi.com/dive-sites/r%C3%A9union/)
-- Multiple local operator sites (Bleu Marine Réunion, Corail Plongée, Bourbon Diving, Tribloo, Sous Les Étoiles 974)
+- [Préfecture de La Réunion — shark-risk swimming/surfing regulations](https://www.reunion.gouv.fr/Actualites/Communiques-de-presse/Risque-requin-ou-peut-on-se-baigner-et-surfer-a-La-reunion)
+- Local dive operator sites consulted for individual site pages (Bleu Marine Réunion, Le Dodo Palmé, Corail Plongée, Le 5ème Élément, Tribloo)
 
 ---
 
-*Stub with structural data only. Site-specific details require continued hand curation. Last updated 2026-05-17.*
+*Last updated 2026-08-27 (shark-restriction and wreck-access details re-verified against current sources during a deep QA pass; see individual site pages for per-site sourcing).*

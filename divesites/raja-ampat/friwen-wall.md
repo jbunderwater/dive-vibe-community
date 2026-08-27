@@ -25,7 +25,9 @@ The contrast between the sunlit, colourful reef garden and the dramatic drop int
 
 ## Marine Life
 
-Sources confirmed at this specific site (padi.com, rajaampatdiveexperience.com, lagaligoliveaboard.com, meridianadventuredive.com): endemic Raja Ampat garden eels; pygmy seahorses; ornate ghost pipefish; blacktip and whitetip reef sharks in "Shark Alley" (the deeper section of the wall). Hard coral gardens on the reef top with green and hawksbill turtles.
+Sources confirmed at this specific site (padi.com, rajaampatdiveexperience.com, lagaligoliveaboard.com, meridianadventuredive.com): endemic Raja Ampat garden eels; pygmy seahorses; ornate ghost pipefish; blacktip and whitetip reef sharks in the deeper section of the wall. Hard coral gardens on the reef top with green and hawksbill turtles.
+
+*Correction (2026-08-27 re-audit): the nickname "Shark Alley" for the deeper wall section could not be confirmed against any source on re-audit and has been removed as an unverified detail; the underlying shark sighting claim (confirmed by divernet.com's local guide to Friwen Wall) is retained.*
 
 ## Practical Information
 
@@ -37,4 +39,4 @@ Sources confirmed at this specific site (padi.com, rajaampatdiveexperience.com, 
 - **Entry**: Boat
 
 ---
-*Sources: [PADI](https://padi.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/). Last updated 2026-06-27.*
+*Sources: [PADI](https://padi.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [Divernet](https://divernet.com/content-marketing/local-guide-to-raja-ampat-dive-sites-friwin-wall/). Last updated 2026-08-27.*

@@ -33,4 +33,4 @@ The site features a slope transitioning to steep wall diving, draped in soft cor
 Wobbegong sharks and epaulette sharks rest on ledges. The wall is draped in soft corals. Regional Raja Ampat Misool marine life applies; no additional site-specific species reports were available beyond what sources confirm above.
 
 ---
-*Sources: [Misool Eco Resort](https://www.misool.info/dive-site), [Bird's Head Seascape](https://birdsheadseascape.com/), [DivePhotoGuide](https://divephotoguide.com/). Last updated 2026-06-27.*
+*Sources: [Misool Eco Resort](https://www.misool.info/dive-site), [Bird's Head Seascape](https://birdsheadseascape.com/), [DivePhotoGuide](https://divephotoguide.com/). Last updated 2026-08-27.*

@@ -60,4 +60,4 @@ This is an exceptionally safe site for diving — shallow, protected, and low-cu
 Mandarin fish photography at dusk is the bucket-list shot. A macro lens (60mm or 100mm equivalent) and fast strobe is essential — natural light is insufficient at dusk. Focus on the courtship pairing rise in the water column with a manual pre-focus and anticipate the upward swimming trajectory. For the jetty critter life, a macro rig with a good torch and a nudibranch book in your BCD pocket will maximize identifications.
 
 ---
-*Sources: [PADI](https://padi.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [Bird's Head Seascape](https://birdsheadseascape.com/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-06-27.*
+*Sources: [PADI](https://padi.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [Bird's Head Seascape](https://birdsheadseascape.com/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-08-27.*

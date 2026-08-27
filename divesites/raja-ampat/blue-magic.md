@@ -32,7 +32,9 @@ Rising from the depths in the central Dampier Strait, Blue Magic is an exposed o
 
 ## Marine Life
 
-Sources confirmed at this specific site (papua-diving.com, diveconcepts.com, lagaligoliveaboard.com, rajaampatdiveexperience.com): oceanic manta rays (Blue Magic is one of only two Raja Ampat sites for oceanic mantas; cleaning stations on the pinnacle top); tasseled wobbegong sharks; grey reef sharks, blacktip reef sharks, whitetip reef sharks; dogtooth tuna; bumphead parrotfish; pygmy seahorses on the sea fans; leaffish. Conservation diver limits now apply after documented coral damage.
+Sources confirmed at this specific site (papua-diving.com, diveconcepts.com, lagaligoliveaboard.com, rajaampatdiveexperience.com): oceanic manta rays (Blue Magic is one of only two Raja Ampat sites for oceanic mantas, alongside Magic Mountain in Misool; cleaning stations on the pinnacle top); tasseled wobbegong sharks; grey reef sharks, blacktip reef sharks, whitetip reef sharks; dogtooth tuna; bumphead parrotfish; pygmy seahorses on the sea fans; leaffish.
+
+**Correction (2026-08-27 re-audit):** the previous version of this page stated that "conservation diver limits now apply after documented coral damage" at this site specifically. On re-audit, the confirmed fact (via divernet.com) is broader: the regional marine park authority (BLUD UPTD Pengelolaan KKP Raja Ampat) has introduced a pre-booked time-slot capacity system across busy Raja Ampat sites, including Blue Magic, to reduce overcrowding at manta cleaning stations. No source was found documenting coral damage specifically attributed to Blue Magic as the reason for the policy, so that causal claim has been removed.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ Blue Magic is for experienced, current-competent divers only. Currents can rever
 Blue Magic is a wide-angle photographer's dream. The schooling barracuda form perfect tornado formations that photograph beautifully shooting upward with available light. Soft coral macro at 20–25 meters offers dramatic close-up subjects against vivid backgrounds. Bring both a wide-angle zoom and a dedicated macro port to cover all opportunities.
 
 ---
-*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving](https://papua-diving.com/), [Dive Concepts](https://diveconcepts.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Raja Ampat Dive Experience](https://rajaampatdiveexperience.com/), [Divernet](https://divernet.com/content-marketing/raja-ampat-conservation/). Last updated 2026-08-27.*

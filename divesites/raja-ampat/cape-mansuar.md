@@ -38,4 +38,4 @@ Sources confirmed at this specific site (padi.com, rajaampatbiodiversity.com, di
 - **Entry**: Boat
 
 ---
-*Sources: [PADI](https://padi.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [DiveTip](https://divetip.com/), [Original Diving](https://originaldiving.com/). Last updated 2026-06-27.*
+*Sources: [PADI](https://padi.com/), [Raja Ampat Biodiversity](https://rajaampatbiodiversity.com/), [DiveTip](https://divetip.com/), [Original Diving](https://originaldiving.com/). Last updated 2026-08-27.*

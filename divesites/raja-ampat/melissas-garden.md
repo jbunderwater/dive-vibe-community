@@ -59,4 +59,4 @@ The shallow nature of Melissa's Garden makes it relatively forgiving from a dept
 Wide-angle photography here is exceptional. A 16mm or 14mm lens captures the sweep of the staghorn forest with divers in the background, conveying the garden's scale. Shooting horizontally across the reef flat at the level of the coral tops, with a diver silhouetted against the blue water column, produces iconic imagery. Natural light at 10 meters is abundant during morning hours. The acropora colors range from pale cream to vivid purple and blue.
 
 ---
-*Sources: [Papua Diving](https://papua-diving.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Dive Concepts](https://diveconcepts.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-06-27.*
+*Sources: [Papua Diving](https://papua-diving.com/), [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Dive Concepts](https://diveconcepts.com/), [Meridian Adventure Dive](https://meridianadventuredive.com/), [ScubaBoard](https://scubaboard.com/). Last updated 2026-08-27.*

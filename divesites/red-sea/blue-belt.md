@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Blue Belt
 
-Blue Belt is a wreck dive site near Port Sudan, Sudan — also known as the "Toyota Wreck" for its cargo of 190 Toyota vehicles. The Blue Belt was a Saudi Arabian general cargo vessel of 2,399 GRT and 103 metres in length, built by Howaldtswerke in Hamburg in 1950. On 2 December 1977 she struck a reef approximately 75 km north of Port Sudan while sailing from Jeddah to Port Sudan, sinking in poor winter weather. The Blue Belt was not a Sudanese vessel — she was Saudi-registered and her cargo of Toyota cars, trucks, pick-ups, and 4x4 vehicles can still be seen scattered around the wreck, now coral-encrusted after nearly five decades on the seabed.
+Blue Belt is a wreck dive site near Port Sudan, Sudan — also known as the "Toyota Wreck" for its cargo of 190 Toyota vehicles. The Blue Belt was a Saudi Arabian general cargo vessel of 2,399 GRT and 103 metres in length, built by Howaldtswerke in Hamburg in 1950. On 2 December 1977 she struck a reef approximately 75 km north of Port Sudan while sailing from Jeddah to Port Sudan, sinking in poor winter weather. The Blue Belt was not a Sudanese vessel — she was Saudi-registered and her cargo — reported variously as roughly 181 cars and six trucks, or up to around 190 vehicles depending on the source — of Toyota cars, trucks, and pick-ups can still be seen scattered around the wreck, now coral-encrusted after nearly five decades on the seabed.
 
 ## Overview
 
@@ -59,4 +59,4 @@ Sudan diving requires full liveaboard logistics and experienced guides. The wrec
 Blue Belt offers some of the Red Sea's most dramatic wildlife photography. The barracuda tornado against the blue water background is an iconic subject. Wide-angle shots from beneath the school looking up toward the surface create stunning compositions. Wreck interior photography with torch-illuminated soft coral details provides atmospheric close-up work.
 
 ---
-*Sources: [Cassiopeia Safari - Blue Belt/Toyota Wreck](http://cassiopeiasafari.com/blue-bell-toyota-wreck/), [Adrex - Toyota Wreck Sudan](https://www.adrex.com/en/articles/water/scuba-diving/blue-belt-toyota-wreck-scuba-diving-sudan/), [Good Dive - Blue Belt](https://www.gooddive.com/egypt/blue-belt-wreck.htm). Last updated 2026-05-25.*
+*Sources: [Cassiopeia Safari - Blue Belt/Toyota Wreck](http://cassiopeiasafari.com/blue-bell-toyota-wreck/), [Adrex - Toyota Wreck Sudan](https://www.adrex.com/en/articles/water/scuba-diving/blue-belt-toyota-wreck-scuba-diving-sudan/), [Good Dive - Blue Belt](https://www.gooddive.com/egypt/blue-belt-wreck.htm). Re-audited 2026-08-27: confirmed core facts (103m, 2,399 GRT, Howaldtswerke 1950, 2 December 1977) against an independent source, which gave a differing vehicle count (~181 cars + 6 trucks vs. this page's ~190) — both figures are now noted rather than asserted as exact. Last updated 2026-08-27.*

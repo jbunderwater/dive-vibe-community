@@ -33,4 +33,4 @@ The site's defining features are the swim-through "windows" in the limestone roc
 Wobbegong sharks, epaulette sharks, and pygmy seahorses inhabit the overhangs and windows. The wall and swim-through structures are encrusted with soft corals and sponges. Regional Raja Ampat Misool marine life applies; the sources above confirm the species listed.
 
 ---
-*Sources: [Misool Eco Resort](https://www.misool.info/dive-site), [Bird's Head Seascape](https://birdsheadseascape.com/), [DivePhotoGuide](https://divephotoguide.com/). Last updated 2026-06-27.*
+*Sources: [Misool Eco Resort](https://www.misool.info/dive-site), [Bird's Head Seascape](https://birdsheadseascape.com/), [DivePhotoGuide](https://divephotoguide.com/). Last updated 2026-08-27.*

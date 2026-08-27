@@ -2,8 +2,8 @@
 name: Ransiwor
 lat: -0.565852
 lng: 130.6591085
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,50 +13,35 @@ addedBy: osm_import
 
 ## Ransiwor
 
-Ransiwor is a reef dive site in Raja Ampat, West Papua, Indonesia.
+Ransiwor is an easy, sloping reef dive in Raja Ampat suited to all experience levels, known for its cleaning stations and gentle conditions.
 
 ## Overview
 
-Ransiwor is a reef site located in the southern reaches of Raja Ampat's main island cluster, in an area known for its intact and rich coral ecosystems. The name likely derives from a local place name from the indigenous Papuan language of the region. The site features a sloping reef that descends from shallow coral gardens, characterised by high hard coral coverage that remains in excellent condition under the protection of Raja Ampat's marine protected area framework. Currents flowing across the reef maintain water quality and bring nutrients that sustain the dense fish populations Raja Ampat is known for. Visibility averages 20-30 meters and water temperatures remain 27-29°C year-round.
+Ransiwor is a relaxed site with little to no current and a gentle sloping reef, popular with photographers for the time it affords with subjects. The reef hosts several large cleaning stations where marine life congregates for attention from cleaner fish, alongside vast gardens of hard and soft coral. Water temperature averages 27–29°C.
+
+**Correction (2026-08-27 initial validation):** previous content on this page ("reef sharks a regular presence," specific dive-profile depth bands) was unsourced template text and has been replaced. Difficulty has been corrected from Intermediate to Beginner, and maximum depth adjusted from 25m to the sourced 30m — both PADI and Raja Ampat Biodiversity Eco Resort independently rate this as an easy, all-levels site with little to no current.
 
 ## Site Information
 
-- **Location**: Raja Ampat, West Papua, Indonesia
+- **Location**: Southern Dampier Strait area, Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-30 meters
-- **Current**: Moderate, variable
+- **Site Type**: Sloping reef
+- **Difficulty Level**: Beginner — little to no current, all-levels site
+- **Maximum Depth**: Sources report up to 30 meters
+- **Current**: Minimal
 - **Best Time**: October to April
 
 ## Marine Life
 
-Hard coral gardens in the shallows at Ransiwor support extensive clownfish communities in carpet anemones. Parrotfish, surgeonfish, and wrasse in large numbers feed across the reef surface. Reef sharks are a regular presence at the reef edge, and Napoleon wrasse patrol the mid-water. Hawksbill turtles graze on sponges along the slope. In the deeper rubble zone, look for ornate ghost pipefish, frogfish, and various species of flathead. Large schools of anthias over the reef crest are a visual highlight.
-
-## Dive Profile
-
-Enter near the reef crest (5-8 meters) and explore the shallow coral gardens before descending the slope to around 20-25 meters. The richest coral cover is in the 8-18 meter range. Follow the slope in one direction before ascending gradually back to the reef top for the safety stop. The dive offers approximately 45-60 minutes of bottom time at these depths with standard recreational equipment.
+Sources confirmed at this specific site (padi.com, rajaampatbiodiversity.com, papua-diving.com): cleaning stations frequented by reef fish; bump-head parrotfish; sweetlips; turtles; pipefish. The chance of a manta ray passing through is noted by papua-diving.com but not described as a reliable encounter here (unlike the dedicated manta sites Manta Point/Manta Sandy/Manta Ridge).
 
 ## Entry and Exit
 
-Access is by dive boat from local homestay or liveaboard operators. Entry via giant stride from the boat. The site is typically dived from the southwest, with currents running along the reef slope. Deploy SMB at 5 meters for boat pickup.
-
-## Tips and Recommendations
-
-- Spend extra time in the shallow coral gardens — the diversity and health of the hard corals is exceptional
-- Check the rubble zone at depth for cryptic species like frogfish and ghost pipefish
-- Early morning light through the shallow water illuminates the coral colours beautifully
-- Carry a torch even for daytime dives to reveal true colours in the mid-range depths
-- This is a good site for both fish diversity and coral photography
+Boat access from local homestay or liveaboard operators. Entry via giant stride. Calm conditions make this a comfortable dive for less experienced divers.
 
 ## Safety Considerations
 
-Variable currents may develop during the dive — stay close to your guide and use the reef for shelter if needed. Carry an SMB and ascend at a controlled rate. Always dive within your certification level. The reef surface can be sharp — maintain buoyancy to avoid contact.
-
-## Photography
-
-The healthy hard coral gardens at Ransiwor make for outstanding wide-angle coral scenics, particularly with good ambient light in the morning. Shooting upward through the coral in the shallows with dappled light above is a reliable composition. Macro opportunities in the rubble at depth include frogfish, ghost pipefish, and nudibranchs that reward patient photographers.
+One of the easier sites in the area — minimal current, moderate depth. Standard reef-diving protocols apply; carry an SMB as a general precaution.
 
 ---
-*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*
+*Sources: [PADI](https://www.padi.com/dive-site/indonesia/ransiwor/), [Raja Ampat Biodiversity Eco Resort](https://rajaampatbiodiversity.com/raja-ampat-dive-sites/), [Papua Diving](https://papua-diving.com/raja-ampat-dive-sites/). Last updated 2026-08-27.*

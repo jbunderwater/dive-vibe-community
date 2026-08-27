@@ -59,4 +59,4 @@ The site is shallow and typically low-current. The primary consideration is resp
 Manta Sandy is arguably the finest manta photography site in Raja Ampat. The sandy bottom provides a clean, uncluttered background for manta portraits. Shooting upward from below the manta against the surface light produces dramatic silhouette shots. Wide-angle glass (10–17mm) captures the full wingspan. Getting below the manta and shooting upward is the definitive composition. The shallow depth means ambient light is plentiful without strobe assistance.
 
 ---
-*Sources: [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Dive Concepts](https://diveconcepts.com/), [Divernet](https://divernet.com/), [PADI](https://padi.com/), [Scuba Diver Life](https://scubadiverlife.com/). Last updated 2026-06-27.*
+*Sources: [La Galigo Liveaboard](https://www.lagaligoliveaboard.com/), [Dive Concepts](https://diveconcepts.com/), [Divernet](https://divernet.com/), [PADI](https://padi.com/), [Scuba Diver Life](https://scubadiverlife.com/). Last updated 2026-08-27.*
