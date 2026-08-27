@@ -25,7 +25,7 @@ Yellowtail snappers, damselfish, grunts, blue tangs, and parrotfish are abundant
 
 ## Dive Profile
 
-The protected inner bay (La Pocita) offers very shallow, calm water ideal for beginners and snorkellers. Labyrinth Reef on the outer edge of the bay features swim-throughs and natural caverns at slightly greater depth. Maximum depth across the site is approximately 9 metres (30 feet). Visibility is best during settled weather; heavy rain or onshore swell can reduce visibility significantly. Calmer conditions prevail from late spring through early fall.
+The protected inner bay (La Pocita) offers very shallow, calm water ideal for beginners and snorkellers — PADI's own listing puts its maximum depth at just 2 metres (7 feet), and other diver reports describe it at roughly 6 metres (20 feet); depths vary depending on exactly where within the bay you measure. Labyrinth Reef on the outer edge of the bay features swim-throughs and natural caverns at slightly greater depth, with diver reports of dives to around 9 metres (30 feet) there. Maximum depth across the full site is approximately 9 metres (30 feet). Visibility is best during settled weather; heavy rain or onshore swell can reduce visibility significantly, and sargassum accumulation has been reported in the inner bay area at times. Calmer conditions prevail from late spring through early fall.
 
 ## Entry and Exit
 
@@ -45,7 +45,7 @@ Visibility can drop sharply after rainfall or strong onshore swell. Winter cold 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-05-17
+- **Last Updated**: 2026-08-27
 
 ---
-*Sources: [Scuba Dogs – Escambrón Marine Park](https://scubadogs.net/services/go-venues/escambron-marine-park-san-juan/), [PADI – Escambron Marine Park Dive Site](https://www.padi.com/dive-site/puerto-rico/escambron-marine-park-la-poz-del-escambron/), [Triton's Realm – Escambrón Marine Park](https://www.tritonsrealm.com/en/scuba-diving/puerto-rico/north-shore/escambron-marine-park), [Discover Puerto Rico – Escambrón Marine Park](https://www.discoverpuertorico.com/profile/escambron-marine-park/10501). Last updated 2026-06-26.*
+*Sources: [Scuba Dogs – Escambrón Marine Park](https://scubadogs.net/services/go-venues/escambron-marine-park-san-juan/), [PADI – Escambron Marine Park Dive Site](https://www.padi.com/dive-site/puerto-rico/escambron-marine-park-la-poz-del-escambron/), [Triton's Realm – Escambrón Marine Park](https://www.tritonsrealm.com/en/scuba-diving/puerto-rico/north-shore/escambron-marine-park), [Discover Puerto Rico – Escambrón Marine Park](https://www.discoverpuertorico.com/profile/escambron-marine-park/10501). Re-audited 2026-08-27: added the La Pocita vs. Labyrinth Reef depth split confirmed by PADI and diver reports; Triton's Realm was temporarily unreachable (HTTP 503) during this re-audit but its prior content was not contradicted by other sources. Last updated 2026-08-27.*

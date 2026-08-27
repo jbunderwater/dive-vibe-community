@@ -17,7 +17,7 @@ A boat-access reef in the northern San Juan Islands that lives up to its name wi
 
 ## Overview
 
-Entertainment Reef earns its name from the reliably active and diverse marine life visible on every dive. Located in the northern San Juan Islands, the reef sits in waters with strong tidal exchange that sustains a productive community of fish and invertebrates year-round. The site's terrain of sloping rock faces, boulder clusters, and mixed substrate provides habitat for an array of Pacific Northwest species, from giant Pacific octopus in the deeper boulders to wolf eels in the rock crevices and lingcod on the open reef top. Water temperature stays cold year-round (7–11°C), and a dry suit is the standard gear choice.
+Entertainment Reef earns its name from the reliably active and diverse marine life visible on every dive. Located in the northern San Juan Islands, the reef sits in waters with strong tidal exchange that sustains a productive community of fish and invertebrates year-round. Water temperature stays cold year-round (7–11°C), and a dry suit is the standard gear choice.
 
 ## Site Information
 
@@ -33,11 +33,12 @@ Entertainment Reef earns its name from the reliably active and diverse marine li
 
 ## Marine Life
 
-Wolf eels are a highlight — the northern San Juan Islands support robust populations, and Entertainment Reef has known den sites. Giant Pacific octopus in the deeper boulder fields are frequently encountered, sometimes very large individuals. Lingcod — including substantial fish over 70 cm — rest openly on the rock surface. Copper and quillback rockfish congregate in loose groups. The invertebrate community is typical of the nutrient-rich north Sound: white plumose anemones in cascading colonies, Puget Sound king crabs, encrusting sponges in orange and red, nudibranchs, tube worms, and rock scallops. Harbour seals often approach divers out of curiosity.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Entertainment Reef specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
-Work from the reef crest (6–8 metres) down to the deeper boulder fields at 18 metres. Pay particular attention to the transitions between rock and sand at depth — octopus den sites are often found where the rock meets the sandy bottom. The reef crest is productive for lingcod and rockfish. Ascend along the reef face with a safety stop in the upper 5 metres.
+Work from the reef crest (6–8 metres) down to the deeper boulder fields at 18 metres. Ascend along the reef face with a safety stop in the upper 5 metres.
 
 ## Entry and Exit
 
@@ -45,8 +46,6 @@ Boat access only. The reef is on regular rotation for San Juan Islands dive char
 
 ## Tips
 
-- Wolf eel dens are often marked by sea urchin shell fragments around the entrance — scan carefully
-- Linger at known octopus den areas in the deep boulders; patience often rewards with sightings
 - Early morning dives before boat traffic builds can offer the calmest conditions
 - The site suits photographers well — a 1:1 macro lens and a rectilinear wide-angle both have strong applications here
 
@@ -54,9 +53,6 @@ Boat access only. The reef is on regular rotation for San Juan Islands dive char
 
 Cold-water dry suit diving is standard. Tidal current timing is essential — the northern San Juan Islands have some of the strongest exchanges in the region. Maintain buddy contact throughout, as the boulder terrain can obscure position. Always carry and deploy an SMB before surfacing.
 
-## Photography
-
-Wolf eel portraits are the signature photography subject at this site — position yourself at the den entrance and wait. Wide-angle images of the plumose anemone walls and rockfish aggregations are also compelling. Macro work on nudibranchs, shrimp, and encrusting organisms rounds out a full photographic dive. Bring a torch and strobes.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). No site-specific dive publications found for Entertainment Reef; description reflects typical northern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Entertainment Reef specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

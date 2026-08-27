@@ -33,7 +33,7 @@ Crash Boat Beach takes its name from the US Air Force Ramey Base crash rescue bo
 
 ## Marine Life
 
-Crash Boat Beach is one of Puerto Rico's most reliable turtle sites. Green and hawksbill turtles are frequently encountered on morning dives, and some individuals are known to local dive guides. Large schools of French grunts and yellowtail snappers occupy the pier structure. Caribbean spiny lobster shelter in the rubble zones. Moray eels occupy crevices in the reef and rubble sections. Sergeant majors, tangs, angelfishes, parrotfish, filefishes, goatfishes, and butterflyfishes are abundant throughout. Octopus and seahorse sightings are reported occasionally. Nurse shark encounters are documented but not guaranteed on every visit.
+Crash Boat Beach is one of Puerto Rico's most reliable turtle sites — a ScubaBoard diver who dove the site 8–10 times in a month reported sea turtles "on every dive." Green and hawksbill turtles are the species typically reported, and some individuals are known to local dive guides. Large schools of French grunts and yellowtail snappers occupy the pier structure. Caribbean spiny lobster shelter in the rubble zones. Moray eels occupy crevices in the reef and rubble sections. Sergeant majors, tangs, angelfishes, parrotfish, filefishes, goatfishes, and butterflyfishes are abundant throughout. Octopus and seahorse sightings are reported occasionally. Nurse shark encounters are documented but not guaranteed on every visit.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Crash Boat Beach is one of Puerto Rico's best natural-light photography sites. M
 - The beach has free public parking and facilities
 
 ---
-*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Scuba Diving Magazine – Puerto Rico DIY Guide](https://www.scubadiving.com/puerto-rico-diy-dive-guide-rincon-and-aguadilla). Last updated 2026-06-26.*
+*Sources: [Zentacle – Aguadilla Dive Sites](https://www.zentacle.com/loc/pr/aguadilla), [ScubaBoard – PR Shore Sites](https://scubaboard.com/community/threads/p-r-shore-sites.614700/), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Scuba Diving Magazine – Puerto Rico DIY Guide](https://www.scubadiving.com/puerto-rico-diy-dive-guide-rincon-and-aguadilla). Re-audited 2026-08-27: all sources re-checked; strengthened the turtle claim with a specific ScubaBoard diver report. Last updated 2026-08-27.*

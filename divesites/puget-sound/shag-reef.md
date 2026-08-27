@@ -17,7 +17,7 @@ A rocky reef on the western edge of the San Juan Islands, near Haro Strait, with
 
 ## Overview
 
-Shag Reef is a rocky submerged reef close to the Haro Strait boundary on the western side of the San Juan Islands. The site takes its name from the presence of pelagic cormorants (shags) that roost and dive on the nearby rocks above the waterline. Below the surface, the reef supports a dense kelp canopy in summer and a rocky substrate covered in plumose anemones, sponges, and encrusting organisms. The tidal influence from the adjacent strait keeps the water cold (7–11°C) and productive year-round. Maximum depth is 18 metres.
+Shag Reef is a rocky submerged reef close to the Haro Strait boundary on the western side of the San Juan Islands. Below the surface, the reef supports a dense kelp canopy in summer and a rocky substrate covered in plumose anemones, sponges, and encrusting organisms. The tidal influence from the adjacent strait keeps the water cold (7–11°C) and productive year-round. Maximum depth is 18 metres.
 
 ## Site Information
 
@@ -33,7 +33,8 @@ Shag Reef is a rocky submerged reef close to the Haro Strait boundary on the wes
 
 ## Marine Life
 
-Bull kelp at Shag Reef creates a multi-level habitat that attracts juvenile rockfish, kelp greenlings, and Puget Sound perch into the upper water column. Beneath the canopy, the rock faces support lingcod and larger rockfish. Giant Pacific octopus are present in the boulder areas at the reef base. Wolf eels occupy crevice dens in the deeper sections. The Haro Strait location means cormorant and great blue heron foraging is visible above the surface, and harbour seals regularly pass through. Invertebrates include plumose anemones, encrusting sponges, and nudibranchs throughout.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Shag Reef specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
@@ -47,16 +48,11 @@ Boat access only. The Haro Strait exposure means wind and current conditions sho
 
 - The kelp canopy in August is at its most impressive — fronds can be 6–8 metres long
 - Linger below the kelp canopy looking upward — the filtered light through the golden fronds is a memorable visual
-- Check for ratfish in the sandy patches at the base of the reef — this distinctive species is a Pacific Northwest speciality
-- The Haro Strait location means orca sightings from the boat surface interval are possible in summer
 
 ## Safety
 
 Proximity to Haro Strait means current can be strong. Plan dives for slack water and have a conservative exit time agreed before entering. Kelp tangles rarely cause serious issues but carry a dive knife for accessibility. Cold water requires dry suit. Deploy SMB before all ascents.
 
-## Photography
-
-The kelp forest at Shag Reef is one of its finest photographic features — wide-angle upward shots through the canopy create stunning natural light images. Lingcod and rockfish portraits in the rock zone below, nudibranchs on encrusted surfaces, and the dense anemone walls all offer excellent subjects. Strobes bring out the colour that ambient light suppresses at depth.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Shag Reef specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

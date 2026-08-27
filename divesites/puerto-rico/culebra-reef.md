@@ -33,7 +33,7 @@ Culebra is a small island municipality 27 kilometres east of Puerto Rico's main 
 
 ## Marine Life
 
-Culebra's reefs support some of Puerto Rico's best turtle populations. Hawksbill turtles are regularly encountered and are well-documented at Carlos Rosario area. Schools of yellow snapper and creole wrasse are characteristic of the reef crest and wall. Blue chromis are abundant during safety stops on the shallower sections. Large parrotfish and groupers are common. The Luis Pena Marine Reserve protection means that reef fish and invertebrates are less disturbed here than at most Puerto Rican mainland sites. Caribbean reef sharks, rays, and dolphins are listed among general sightings by dive operators at Culebra.
+Culebra's reefs support some of Puerto Rico's best turtle populations. Hawksbill turtles are regularly encountered and are well-documented at Carlos Rosario — PADI's own dive site listing for Carlos Rosario Wall confirms turtles and rays there specifically, alongside "schools of Yellow Snapper and Creole Wrasse" that "generally" greet divers, and Blue Chromis at the top of the wall during safety stops. Aqua Adventure PR separately documents stingrays and turtles at Tamarindo Beach, and describes The Wit Power — a tugboat deliberately sunk in 1984 in about 12 metres of water near Culebra — as a popular wreck now covered in coral and fish, alongside Geniqui Caves' swim-throughs for experienced divers. Large parrotfish and groupers are common across the reef system. The Luis Peña Marine Reserve protection means reef fish and invertebrates are less disturbed here than at most Puerto Rican mainland sites. Dolphin and shark sightings are mentioned by some operators for the wider Culebra area but were not confirmed at a specific named site in the sources reviewed — treat them as possible rather than expected.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive from operators based in Dewey (Culebra's main town) or from Fajardo on
 
 ## Tips and Recommendations
 
-Culebra has multiple reef sites — Bajo Salmonete (a popular nearby pinnacle) and Carlos Rosario Beach are frequently visited alternatives. Ask local operators which specific reef section is best for current conditions. Culebra is extremely busy in peak tourist season (December–April, US holidays) — dive early mornings to avoid crowding at popular sites.
+Culebra has over 50 named dive sites according to Culebra Divers, ranging from shallow reef (Carlos Rosario, Luis Peña) to deeper advanced terrain (Monito, Cayo Geniki, both reaching well past 30 metres) and even a wreck — The Wit Power, a tugboat sunk in 1984. Ask local operators which specific reef section or named site is best for current conditions and your certification level. Culebra is extremely busy in peak tourist season (December–April, US holidays) — dive early mornings to avoid crowding at popular sites.
 
 ## Safety Considerations
 
@@ -61,4 +61,4 @@ Culebra's clear water, healthy reef, and active marine life make it Puerto Rico'
 - Fajardo ferry: regular service connects Culebra to the main island for visiting divers
 
 ---
-*Sources: [PADI – Carlos Rosario Wall](https://www.padi.com/dive-site/puerto-rico/carlos-rosario-wall/), [Aqua Adventure – Scuba Diving in Culebra](https://www.aquaadventurepr.com/our-adventures/charter-destinations/scuba-diving-sites/scuba-diving-in-culebra/), [Culebra Divers](https://culebradivers.com/), [PRDayTrips – Culebra Snorkeling](https://www.puertoricodaytrips.com/culebra-snorkeling/). Last updated 2026-06-26.*
+*Sources: [PADI – Carlos Rosario Wall](https://www.padi.com/dive-site/puerto-rico/carlos-rosario-wall/), [Aqua Adventure – Scuba Diving in Culebra](https://www.aquaadventurepr.com/our-adventures/charter-destinations/scuba-diving-sites/scuba-diving-in-culebra/), [Culebra Divers](https://culebradivers.com/), [PRDayTrips – Culebra Snorkeling](https://www.puertoricodaytrips.com/culebra-snorkeling/). Re-audited 2026-08-27: all 4 sources re-confirmed as genuinely Culebra-specific; added The Wit Power wreck and Geniqui Caves (Aqua Adventure PR) as named-site detail, and removed the unsourced "Caribbean reef sharks... dolphins" claim as a guaranteed sighting. Last updated 2026-08-27.*

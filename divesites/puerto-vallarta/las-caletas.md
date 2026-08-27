@@ -19,6 +19,8 @@ Sheltered south-facing cove with two underwater trails around rock formations an
 
 Las Caletas is a secluded south-facing cove on the southern shore of Banderas Bay, accessible only by boat and one of the most consistently calm dive sites in the Puerto Vallarta area. The cove's orientation provides natural protection from the swells and surface chop that affect more exposed sites, making it a reliable option regardless of bay conditions on any given day.
 
+The cove has a notable history: director John Huston, who filmed *The Night of the Iguana* nearby at Mismaloya in 1963, leased Las Caletas from the Chacala ejido in the 1970s and used it as a private retreat and writing hideaway for decades, describing it as an island sanctuary isolated from roads and noise. The property is now owned and operated by Vallarta Adventures, which ferries visitors to the beach and dive site by boat.
+
 The site features two established underwater trails that guide divers around the rock formations flanking the cove. The north trail includes a sand drop line — a descent line anchored in sand — and small sunken panga boats that provide an additional focal point for beginner divers exploring their first artificial structure. The south trail covers additional rock formations. The combination of shallow depth (maximum 12 meters), reliable calm conditions, two defined routes, and small accessible wrecks makes Las Caletas the standard choice for Discover Scuba experiences and early certification dives in the PV area.
 
 ## Site Information
@@ -54,4 +56,4 @@ Access is entirely by boat from Puerto Vallarta, approximately 45 minutes each w
 - Morning departures allow best light penetration to the sandy bottom areas where garden eels are most visible
 
 ---
-*Sources: [Vallarta Adventures – Las Caletas](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html). Last updated 2026-06-26.*
+*Sources: [Vallarta Adventures – Las Caletas](https://www.vallarta-adventures.com/en/tour/scuba-los-arcos), [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Divinglore – Scuba Diving Puerto Vallarta](https://www.divinglore.com/scuba-diving-puerto-vallarta/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Vallarta Adventures – A Letter From John Huston's Eden at Las Caletas](https://www.vallarta-adventures.com/en/blog/a-letter-from-john-hustons), [Puerto Vallarta Net – Las Caletas and John Huston](https://www.puertovallarta.net/what-to-do/las-caletas-and-john-huston/). Last updated 2026-08-27.*

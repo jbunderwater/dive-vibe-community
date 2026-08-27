@@ -17,7 +17,7 @@ A shallow rocky seamount in the San Juan Islands, aptly named for its navigation
 
 ## Overview
 
-Danger Rock is a submerged rocky seamount in the northern San Juan Islands — named for the hazard it poses to vessel navigation rather than diving conditions. Its position in tidal flow ensures a constant supply of planktonic nutrients to the dense invertebrate community that covers every available surface. At a maximum depth of 15 metres, it is one of the shallower boat-dive sites in the archipelago, making bottom time generous and safety stops comfortable. The seamount is blanketed in white plumose anemones, colonial tunicates, and encrusting sponges in a display typical of the best Pacific Northwest reef diving.
+Danger Rock is a submerged rocky seamount in the northern San Juan Islands — named for the hazard it poses to vessel navigation rather than diving conditions. Its position in tidal flow ensures a constant supply of planktonic nutrients to the dense invertebrate community that covers every available surface. At a maximum depth of 15 metres, it is one of the shallower boat-dive sites in the archipelago, making bottom time generous and safety stops comfortable.
 
 ## Site Information
 
@@ -33,7 +33,8 @@ Danger Rock is a submerged rocky seamount in the northern San Juan Islands — n
 
 ## Marine Life
 
-The relatively shallow depth of Danger Rock keeps it within sunlit zones where kelp and anemone communities are at their most productive. Lingcod are abundant — this is a known site for large resident fish — and multiple rockfish species (copper, quillback, black) congregate around the seamount structure. Giant Pacific octopus inhabit the rock crevices, and wolf eels are present at den sites. Invertebrate diversity is high: Puget Sound king crabs, nudibranchs, tube worms, rock scallops, and sea stars. Kelp greenlings are curious and approachable. Harbour seals and river otters are seen occasionally.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Danger Rock specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
@@ -46,7 +47,6 @@ Boat access only. Given the navigational hazard status, approach with attention 
 ## Tips
 
 - The seamount crest at 5 metres is an ideal macro photography location — invertebrates are dense and well-lit by natural light
-- Lingcod at this site are reportedly bold; remain calm and they will hold their position for extended observation
 - Even a 10-minute dive purely on the crest is worthwhile for the anemone density
 - Check the weather forecast carefully — exposed seamount positions can be uncomfortable in swell
 
@@ -54,9 +54,6 @@ Boat access only. Given the navigational hazard status, approach with attention 
 
 Despite the modest depth, cold water demands dry suit equipment. The seamount position makes it exposed to open-water conditions — avoid diving here in rough conditions. Tidal currents require precise timing. Deploy an SMB for all ascents given the open-water boat traffic context.
 
-## Photography
-
-The shallow, well-lit crest offers some of the best natural-light photography opportunities in the region. Anemone fields shot upward toward the surface can show beautiful silhouettes. Lingcod portraits and rockfish in the water column are consistent subjects. Macro work on the dense invertebrate layer is highly productive.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). Site name reflects its status as a navigational hazard. Description reflects typical northern San Juan Islands seamount conditions; no site-specific dive publication found. Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — Diving in the San Juan Islands](https://scubaboard.com/community/threads/diving-in-the-san-juan-islands.633428/). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Danger Rock specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

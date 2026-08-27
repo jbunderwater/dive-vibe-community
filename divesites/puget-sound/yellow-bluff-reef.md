@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Yellow Bluff Reef
 
-Yellow Bluff Reef is an excellent wall dive site in Hood Canal, offering a dramatic vertical wall and excellent marine life viewing opportunities. This boat-accessed site is popular for its steep drop-off and abundant cold-water species.
+Yellow Bluff Reef is a wall dive site in northern Puget Sound with a steep vertical drop-off, boat-accessed and popular with divers building wall-diving experience.
 
 ## Overview
 
-Yellow Bluff Reef is a spectacular wall dive site located in Hood Canal featuring a steep submarine cliff that drops well beyond recreational diving limits. The wall descends from approximately 70 feet (21 meters) and continues to significant depth. This site provides excellent opportunities for wall diving technique development and observing creatures typical of vertical ecosystem zones. Water temperature remains around 50°F (10°C) year-round. Typical visibility ranges from 10-30 feet.
+Yellow Bluff Reef is a wall dive site near Anacortes / Fidalgo Island in northern Puget Sound (coordinates place it there, not in Hood Canal, despite the "Reef" name suggesting otherwise — this correction is carried through the rest of this page). The wall descends from approximately 6–10 metres and continues beyond recreational diving limits; the site's stated maximum depth is 24 metres. This provides opportunities for wall-diving technique development along a vertical rock face. Water temperature remains 8–13°C year-round. Typical visibility ranges 8–20 metres, less during plankton blooms.
 
 ## Site Information
 
@@ -30,7 +30,8 @@ Yellow Bluff Reef is a spectacular wall dive site located in Hood Canal featurin
 
 ## Marine Life
 
-Wall dives in the northern Puget Sound / San Juan Islands region are characterised by dense invertebrate communities supported by strong tidal currents delivering constant nutrition. White and orange plumose anemones carpet vertical surfaces. Crimson anemones and tube anemones occupy crevices. Wolf eels claim rock dens along the wall, and large lingcod stake territories at depth transitions. Copper, quillback, and black rockfish school around reef structure. Giant Pacific octopus use boulder fields at the base of the wall. Nudibranchs — particularly alabaster-coloured and red flabellina species — are abundant on this type of substrate. Bull kelp grows in shallower sections above the wall.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Yellow Bluff Reef specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
@@ -42,7 +43,7 @@ Boat access required. No shore entry. The area around Anacortes / Fidalgo Island
 
 ## Tips and Recommendations
 
-Check tide tables and aim for a small-exchange slack for the most manageable conditions. Bring a light to inspect wall crevices for wolf eels and octopus. A compass bearing perpendicular to the wall makes for efficient navigation and easy return to the boat.
+Check tide tables and aim for a small-exchange slack for the most manageable conditions. A compass bearing perpendicular to the wall makes for efficient navigation and easy return to the boat.
 
 ## Safety Considerations
 
@@ -51,4 +52,4 @@ Tidal current is the primary hazard — strong flood and ebb tides in this regio
 **Note:** "Yellow Bluff Reef" does not appear in the standard published dive guides for Hood Canal or the San Juan Islands that were consulted. The OSM node is classified as a wall site at these northern Puget Sound coordinates. The description above reflects conditions typical of wall dives in this region but is not drawn from site-specific sources.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Yellow Bluff Reef (Q49624025)](https://www.wikidata.org/wiki/Q49624025), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). Site not found in published regional dive guides; description reflects wall dive conditions typical of northern Puget Sound. Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Yellow Bluff Reef (Q49624025)](https://www.wikidata.org/wiki/Q49624025), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Yellow Bluff Reef specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

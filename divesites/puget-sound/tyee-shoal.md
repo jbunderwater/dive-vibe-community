@@ -33,11 +33,12 @@ Tyee Shoal is a submerged rocky rise in central Puget Sound, in the waters betwe
 
 ## Marine Life
 
-Giant Pacific octopus are the signature encounter at central Puget Sound shoals like Tyee. The boulder structure provides den habitat, and octopus here can be large. Lingcod and copper rockfish are resident throughout. Puget Sound king crabs and Dungeness crabs cross the sandy margins. The rocky surface supports plumose anemones, encrusting sponges, sea stars, and nudibranchs. In the water column, Pacific herring and other schooling baitfish attract larger predators. Spotted ratfish are commonly seen on or near the sandy bottom.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Tyee Shoal specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
-The shoal crest may be as shallow as 6 metres, enabling a comfortable safety stop at the end of the dive without a separate stop. Work from the crest outward and down to the 18-metre base, covering the most boulder-rich sections. The sandy transitions at the shoal's base are worth investigating for flatfish, crabs, and additional octopus.
+The shoal crest may be as shallow as 6 metres, enabling a comfortable safety stop at the end of the dive without a separate stop. Work from the crest outward and down to the 18-metre base, covering the most boulder-rich sections.
 
 ## Entry and Exit
 
@@ -48,15 +49,11 @@ Boat access only. Operated by Puget Sound dive charters based in Seattle, Tacoma
 - Central Puget Sound is driveable from Seattle in under an hour, making this a practical half-day dive destination
 - Winter and spring dives often have better visibility than summer when plankton blooms cloud the water
 - Check the noise conditions — naval operations in this part of the Sound occasionally affect dive plans
-- Spotted ratfish, with their distinctive iridescent spots and large eyes, are a Puget Sound speciality worth seeking out
 
 ## Safety
 
 Boat traffic in central Puget Sound is year-round and includes commercial vessels, Washington State Ferries, and naval ships. An SMB is mandatory for every ascent. Cold water (8–12°C) requires dry suit or thick wetsuit. Tidal planning is advisable; while currents in the central basin are moderate, slack diving is more comfortable.
 
-## Photography
-
-Octopus portraits in the boulder dens are the photographic highlight at Tyee Shoal. Ratfish on the sandy bottom make unusual and compelling macro subjects. Lingcod resting on the rock surface provide good portrait opportunities. Plumose anemone macros are productive throughout. Strobes required.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Tyee Shoal (Q49623289)](https://www.wikidata.org/wiki/Q49623289), [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). No site-specific dive publications found for Tyee Shoal; description reflects typical central Puget Sound shoal conditions. Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Wikidata — Tyee Shoal (Q49623289)](https://www.wikidata.org/wiki/Q49623289), [Scuba Diving Magazine — Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Tyee Shoal specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

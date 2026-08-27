@@ -54,4 +54,4 @@ Access is by dive boat from Puerto Vallarta, approximately 45 minutes each way. 
 - Rays on the sandy sections tend to hold still if approached slowly and at a low angle from the side
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Boca Divers – Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm). Re-audited 2026-08-27, no factual changes. Last updated 2026-08-27.*

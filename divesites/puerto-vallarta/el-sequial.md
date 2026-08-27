@@ -54,4 +54,4 @@ Full-day boat expedition from Puerto Vallarta marina; typically the second dive 
 - A 5mm wetsuit is recommended for the thermoclines that can drop temperatures 5-8°C below the surface layer
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Sayulita Entourage – Scuba Diving in La Corbeteña](https://www.sayulitaentourage.com/services/dive-trips/certified-divers/scuba-diving-in-la-corbete%C3%B1a). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [360Mexico – Dive Sites](https://360mexico.org/tours/dive-sites.html), [Sayulita Entourage – Scuba Diving in La Corbeteña](https://www.sayulitaentourage.com/services/dive-trips/certified-divers/scuba-diving-in-la-corbete%C3%B1a), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/) (independently confirms the 300m-long mesa at 60-80ft). Last updated 2026-08-27.*

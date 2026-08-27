@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## El Bajo de Corbeteña
 
-El Bajo de Corbeteña (also known as La Corbeteña or La Piedra) is one of Banderas Bay's most remote and celebrated pelagic dive sites, located approximately 36 nautical miles northwest of Puerto Vallarta in open Pacific water. The site is reserved for experienced divers and accessed by a one-hour (or more) boat journey, offering some of the best pelagic encounters in Mexico's Pacific coast diving.
+El Bajo de Corbeteña (also known as La Corbeteña or La Piedra) is one of Banderas Bay's most remote and celebrated pelagic dive sites, located approximately 36 nautical miles northwest of Puerto Vallarta in open Pacific water. The site is reserved for experienced divers; reported boat transit times range from about 1.5 hours (Puerto Vallarta Net) to 2 hours (Banderas Scuba Republic's own operator figure), so plan for a full-day trip.
 
 ## Overview
 
@@ -48,4 +48,4 @@ Summer and fall for manta ray encounters and peak visibility. Conditions are var
 - **Last Updated**: 2026-05-17
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Mexico Greatest Dive Sites – La Corbeteña](https://mexico.greatestdivesites.com/puerto_vallarta/corbetena), [Sayulita Entourage – Scuba Diving in La Corbeteña](https://www.sayulitaentourage.com/services/dive-trips/certified-divers/scuba-diving-in-la-corbete%C3%B1a), [Vallarta Under Sea – La Corbeteña](https://www.vallartaundersea.com/la_corbetena.htm). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Mexico Greatest Dive Sites – La Corbeteña](https://mexico.greatestdivesites.com/puerto_vallarta/corbetena), [Sayulita Entourage – Scuba Diving in La Corbeteña](https://www.sayulitaentourage.com/services/dive-trips/certified-divers/scuba-diving-in-la-corbete%C3%B1a), [Vallarta Under Sea – La Corbeteña](https://www.vallartaundersea.com/la_corbetena.htm), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/). Last updated 2026-08-27.*

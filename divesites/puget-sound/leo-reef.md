@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Leo Reef
 
-A submerged rocky reef in the central San Juan Islands, offering reliable Pacific Northwest cold-water diving with wolf eels and abundant invertebrate life.
+A boat-access dive site in the San Juan Islands, part of the region's characteristic cold-water rocky reef terrain.
 
 ## Overview
 
-Leo Reef is a rocky submerged structure in the central San Juan Islands, positioned in an area of moderate tidal exchange that sustains healthy invertebrate and fish communities. The site is on the rotation for San Juan Islands dive charters and offers the characteristic Pacific Northwest cold-water diving experience: dense plumose anemone colonies, giant Pacific octopus in boulder dens, wolf eels in rock crevices, and lingcod on open rock surfaces. Maximum depth is 18 metres. Water temperature is 7–11°C year-round.
+Leo Reef is a rocky submerged structure in the central San Juan Islands, positioned in an area of moderate tidal exchange that sustains healthy invertebrate and fish communities. Maximum depth is 18 metres. Water temperature is 7–11°C year-round.
 
 ## Site Information
 
@@ -33,11 +33,12 @@ Leo Reef is a rocky submerged structure in the central San Juan Islands, positio
 
 ## Marine Life
 
-Wolf eels are a consistent sighting at Leo Reef — the central San Juan Islands population is established and den sites are well known. Giant Pacific octopus in the boulder gaps are regularly encountered. Lingcod hold position on exposed rock platforms. Copper, quillback, and black rockfish shelter in the crevices and move through the water column. The invertebrate layer includes white plumose anemones, orange encrusting sponges, rock scallops, tube worms, and nudibranchs (aeolid and dorid varieties). Puget Sound king crabs forage along the sandy margins.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Leo Reef specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
-Begin on the reef crest (6–8 metres) and work down the sloping rock faces to the 18-metre maximum. Pay close attention to the deeper boulder fields — octopus and wolf eels concentrate here. The reef crest provides an accessible safety stop before surfacing. Allow adequate time to cover the most interesting sections without rushing.
+Begin on the reef crest (6–8 metres) and work down the sloping rock faces to the 18-metre maximum. The reef crest provides an accessible safety stop before surfacing. Allow adequate time to cover the most interesting sections without rushing.
 
 ## Entry and Exit
 
@@ -45,18 +46,12 @@ Boat access only. Anchor or hold position on the sheltered side relative to curr
 
 ## Tips
 
-- Wolf eel dens at Leo Reef are known to local guides — ask on the charter boat for current den locations
 - Move slowly across the reef; hurried movement will cause the most interesting fish to retreat
-- Carry a small dive light to peek into the deeper crevices where octopus and wolf eels hide during daylight hours
-- Surface intervals on the boat provide good opportunities for watching eagles, seals, and porpoises
 
 ## Safety
 
 Cold water requires dry suit with appropriate insulation. Tidal currents should be checked against published tables; avoid diving in strong current. Always carry and deploy an SMB before ascending. Maintain buddy contact throughout the dive; the boulder terrain can create blind spots.
 
-## Photography
-
-Wolf eel close-up portraits are the photographic highlight at Leo Reef. Wide-angle shots through the anemone colonies and rockfish portraits are also strong subjects. For macro work, the nudibranchs and encrusted rock faces provide endless detail. A torch and strobe combination produces the best colour fidelity at depth.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). No site-specific dive publications found for Leo Reef; description reflects typical central San Juan Islands rocky reef conditions. Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Leo Reef specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

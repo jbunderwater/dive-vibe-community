@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # Shirt Tail Reef
 
-A compact rocky reef in the southern San Juan Islands, offering accessible cold-water diving with octopus, wolf eels, and colourful invertebrate communities.
+A boat-access dive site in the San Juan Islands, part of the region's characteristic cold-water rocky reef terrain.
 
 ## Overview
 
@@ -33,7 +33,8 @@ Shirt Tail Reef is a submerged rocky structure in the southern San Juan Islands,
 
 ## Marine Life
 
-Giant Pacific octopus are a reliable encounter at Shirt Tail Reef — the irregular rock profile provides abundant den sites. Wolf eels are present in the deeper crevices. Lingcod, copper rockfish, and kelp greenlings are resident throughout. The invertebrate layer is typically dense: plumose anemone colonies, encrusting sponges, nudibranchs (opalescent, aeolid, and dorid species), tube worms, and sea stars. Puget Sound king crabs move through the boulder areas. Harbour seals and Stellar sea lions occasionally investigate divers.
+This site's marine life has not been confirmed by any site-specific report. Puget Sound and San Juan Islands cold-water reefs in general support a well-documented regional fauna, but no source found during research names species observed at Shirt Tail Reef specifically, so none are listed here. Divers should treat any wildlife encounter as a bonus rather than a guarantee.
+
 
 ## Dive Profile
 
@@ -45,18 +46,12 @@ Boat access only, operated primarily by Friday Harbor and Anacortes charter oper
 
 ## Tips
 
-- The irregular reef profile creates many small overhangs and rock pockets — these are prime spots for octopus and wolf eel dens
-- Search the transition zones between rock and sand at the reef base for flatfish and additional octopus
 - The reef is manageable for an intermediate diver building experience in Pacific Northwest cold-water environments
-- Bring a macro lens — the nudibranchs at this site are diverse and well-documented in the regional dive community
 
 ## Safety
 
 Cold water (7–11°C) requires dry suit diving. Plan dives for slack tide and agree on a firm abort rule if current picks up unexpectedly. Always carry and deploy an SMB before surfacing. The irregular bottom topography means buddies should stay particularly close to avoid separation.
 
-## Photography
-
-The irregular topography and boulder gaps at Shirt Tail Reef make for interesting wide-angle compositions. Octopus peering from den entrances and wolf eel portraits in their rock crevices are strong subjects. Macro photography on nudibranchs and encrusted surfaces is productive throughout the dive. A strobe is essential for colour accuracy.
 
 ---
-*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). No site-specific dive publications found for Shirt Tail Reef; description reflects typical southern San Juan Islands rocky reef conditions. Last updated 2026-06-26.*
+*Sources: [WDFW — Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [Scuba Diving Magazine — San Juan Islands](https://www.scubadiving.com/adventure-diving-washingtons-san-juan-islands), [ScubaBoard — San Juan Islands, WA](https://scubaboard.com/community/threads/san-juan-islands-wa.20608/). Re-audited 2026-08-27: these sources are regional overviews (Puget Sound / San Juan Islands dive-site and marine-habitat guides) and do not name Shirt Tail Reef specifically, so site-specific marine-life claims have been removed. Depth, location, and tidal-current characteristics reflect OSM/GNIS/NOAA chart data for this feature. Last updated 2026-08-27.*

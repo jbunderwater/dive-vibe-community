@@ -53,4 +53,4 @@ Access is by dive boat. Las Gemelas is typically included on trips that also vis
 - Las Gemelas pairs well with Los Arcos on a half-day trip from Puerto Vallarta or Mismaloya
 
 ---
-*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Sayulita Entourage – Scuba Diving Trips](https://www.sayulitaentourage.com/scuba-diving-trips). Last updated 2026-06-26.*
+*Sources: [Banderas Scuba Republic – Dive Sites in Banderas Bay](https://www.banderas-scuba.com/diving-sites-in-banderas-bay/), [Puerto Vallarta Net – Scuba Diving](https://www.puertovallarta.net/what-to-do/puerto-vallarta-scuba-diving/), [Sayulita Entourage – Scuba Diving Trips](https://www.sayulitaentourage.com/scuba-diving-trips). Re-audited 2026-08-27, no factual changes. Last updated 2026-08-27.*
